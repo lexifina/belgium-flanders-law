@@ -26,6 +26,107 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+## Hoofdstuk 1. Algemene bepaling
+
+### ART 1.
+
+Dit besluit voorziet in een gedeeltelijke omzetting van de richtlijn (EU) 2022/2041 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende toereikende minimumlonen in de Europese Unie.&nbsp;
+
+## Hoofdstuk 2. Wijziging van het besluit van de Vlaamse Regering van 20 oktober 2000 tot vaststelling van de niveaus, de graden en de daaraan verbonden salarisschalen van het administratief en technisch personeel van de universiteiten in de Vlaamse Gemeenschap
+
+### ART 2.
+
+Aan hoofdstuk 1 van het besluit van de Vlaamse Regering van 20 oktober 2000 tot vaststelling van de niveaus, de graden en de daaraan verbonden salarisschalen van het administratief en technisch personeel van de universiteiten in de Vlaamse Gemeenschap, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2003, 19 januari 2007 en 22 april 2022, wordt een artikel 3/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3/1. Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van het aanvangssalaris van de laagste nog geldende salarisschaal in niveau D, vermeld in artikel 2. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij die beoordeling wordt rekening gehouden met:<br>
+1° de koopkracht van de personeelsleden die de aanvangssalarissen van de laagste nog geldende salarisschaal in niveau D, vermeld in artikel 2, ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2° het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3° het groeipercentage van de wedden en lonen;<br>
+4° nationale productiviteitsniveaus en -ontwikkelingen op lange termijn;<br>
+5° de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en het gemiddelde brutoloon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.”
+
+## Hoofdstuk 3. Wijziging van het besluit van de Vlaamse Regering van 4 mei 2001 tot vaststelling van de salarisschalen van het assisterend academisch personeel van de universiteiten in de Vlaamse Gemeenschap
+
+### ART 3.
+
+In het besluit van de Vlaamse Regering van 4 mei 2001 tot vaststelling van de salarisschalen van het assisterend academisch personeel van de universiteiten in de Vlaamse Gemeenschap, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2003, wordt een artikel 2/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 2/1. Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van het aanvangssalaris van assistent, vermeld in artikel 1, §2. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij die beoordeling wordt rekening gehouden met:<br>
+1° de koopkracht van de personeelsleden die het aanvangssalaris, vermeld in artikel 1, §2, ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2° het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3° het groeipercentage van de wedden en lonen;<br>
+4° nationale productiviteitsniveaus en -ontwikkelingen op lange termijn;<br>
+5° de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en het gemiddelde brutoloon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.”.
+
+## Hoofdstuk 4. Wijziging van het besluit van de Vlaamse Regering van 21 februari 2003 houdende vaststelling van de loopbaanstructuur en van de salarisschalen van het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap
+
+### ART 4.
+
+In het besluit van de Vlaamse Regering van 21 februari 2003 houdende vaststelling van de loopbaanstructuur en van de salarisschalen van het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2022, wordt een artikel 6/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 6/1. Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van het minimumsalaris van de laagste nog geldende salarisschaal in niveau D, vermeld in de bijlage. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij die beoordeling wordt rekening gehouden met:<br>
+1° de koopkracht van de personeelsleden die de minimumsalarissen van de laagste nog geldende salarisschaal in niveau D, vermeld in de bijlage, ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2° het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3° het groeipercentage van de wedden en lonen;<br>
+4° nationale productiviteitsniveaus en -ontwikkelingen op lange termijn;<br>
+5° de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en het gemiddelde brutoloon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.”.
+
+## Hoofdstuk 5. Wijzigingen van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de salarisschalen van de leden van het onderwijzend personeel van de hogescholen in de Vlaamse Gemeenschap
+
 ### ART 5.
 
 In artikel 2, §2, van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de salarisschalen van de leden van het onderwijzend personeel van de hogescholen in de Vlaamse Gemeenschap wordt in de zesde rij van de eerste kolom van de tabel het woord “assistent” vervangen door de zinsnede “assistent, praktijkassistent”.
+
+### ART 6.
+
+In hoofdstuk 2 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2022, wordt een artikel 3/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3/1. Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van het laagste minimumsalaris. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij deze beoordeling wordt rekening gehouden met:<br>
+1° de koopkracht van de personeelsleden die het in de tabel in artikel 2, §2, opgenomen laagste minimumsalaris ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2° het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3° het groeipercentage van de wedden en lonen;<br>
+4° nationale productiviteitsniveaus en – ontwikkelingen op lange termijn;<br>
+5° de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en -loon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.”.
+
+## Hoofdstuk 6. Wijziging van het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs
+
+### ART 7.
+
+Aan hoofdstuk 2 van het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 22 april 2022, wordt een artikel 2/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 2/1. Met ingang van 1 november 2024 wordt iedere vier jaar de toereikendheid beoordeeld van de minimumsalarissen van de salarisschalen 121 en 229, vermeld in de bijlage bij dit besluit. De Vlaamse minister, bevoegd voor het onderwijs, beslist wie de beoordeling uitvoert. Bij die beoordeling wordt rekening gehouden met:<br>
+1° de koopkracht van de personeelsleden die de minimumsalarissen van de salarisschalen 121 en 229, vermeld in de bijlage bij dit besluit, ontvangen, rekening houdend met de kosten voor levensonderhoud;<br>
+2° het algemene niveau van de wedden en lonen en de verdeling ervan;<br>
+3° het groeipercentage van de wedden en lonen;<br>
+4° nationale productiviteitsniveaus en -ontwikkelingen op lange termijn;<br>
+5° de indicatieve referentiewaarde van 50% van de gemiddelde brutowedde en het gemiddelde brutoloon.<br>
+<br>
+De beoordeling, vermeld in het eerste lid, wordt door de Vlaamse minister, bevoegd voor het onderwijs, voor advies voorgelegd aan een commissie die samengesteld is uit een afvaardiging van de representatieve vakorganisaties en van de onderwijsverstrekkers. De commissie bezorgt uiterlijk twee maanden na de aanvraag haar advies aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Een afvaardiging als vermeld in het tweede lid, bestaat uit maximaal tien leden. Een personeelslid van het beleidsdomein Onderwijs en Vorming treedt op als secretaris van de commissie.”.
+
+## Hoofdstuk 7. Slotbepalingen
+
+### ART 8.
+
+Dit besluit treedt in werking op 1 november 2024, met uitzondering van artikel 5, dat uitwerking heeft met ingang van 1 april 2024.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor onderwijs en vorming, is belast met de uitvoering van dit besluit.
