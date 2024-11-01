@@ -19,6 +19,42 @@ Concreet moeten de toe te wijzen quota voor de derde toewijsperiode &nbsp;(1 nov
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE MINISTER VAN BINNENLAND, STEDEN- EN PLATTELANDSBELEID, SAMENLEVEN, INTEGRATIE EN INBURGERING, BESTUURSZAKEN, SOCIALE ECONOMIE EN ZEEVISSERIJ BESLUIT:
 
+### ART 1.
+
+In artikel 14 van het ministerieel besluit van 20 december 2023 houdende tijdelijke aanvullende maatregelen voor het jaar 2024 tot het behoud van de visbestanden in zee, gewijzigd bij ministeriële besluiten van 28 juni 2024, 30 juli 2024 en 28 augustus 2024, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“Van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”;<br>
+2° aan paragraaf 3 wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+“Van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
+### ART 2.
+
+In artikel 15 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 28 juni 2024, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“Van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”;<br>
+2° aan paragraaf 2 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+“Van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 260 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
+### ART 3.
+
+Aan artikel 16, §3, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 28 juni 2024, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
+### ART 4.
+
+In artikel 17 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 28 juni 2024, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het eerste en tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het KVS verboden een totale kabeljauwvangst te realiseren die groter is dan 50 kg.”;<br>
+2° er wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+“In de periode van 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII, voor een vissersvaartuig van het GVS verboden een totale kabeljauwvangst te realiseren die groter is dan 100 kg.”.
+
+### ART 5.
+
+Aan artikel 18 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Van 1 november 2024 tot en met 31 december 2024 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.”.
+
 ### ART 6.
 
 In artikel 20 van hetzelfde besluit, gewijzigd bij ministeriële besluiten van 25 april 2024, 28 juni 2024 en 30 juli 2024, worden de volgende wijzigingen aangebracht:<br>
@@ -36,6 +72,24 @@ In afwijking van het derde lid, kunnen vaartuigen die de maximale tongvangst zoa
 “In de periode van 1 november 2024 tot en met 31 december 2024 is het in het ICES-gebied VIIe voor een vissersvaartuig van het GVS met vismachtiging conform artikel 11, §2, verboden een totale tongvangst te realiseren die groter is dan 100 kg, met een maximum van 2 vaartdagen.<br>
 In afwijking van het zevende lid mogen vaartuigen die in het ICES-gebied VIIe op zeekat (CTC) vissen en waarbij minstens 25% van de aangelande hoeveelheden uit zeekat bestaat, een tongvangst realiseren van maximum 400 kg per vaartuig. Als de aangelande hoeveelheden minstens voor 40% uit zeekat bestaan, bedraagt de maximum tongvangst 700 kg per vaartuig. &nbsp;&nbsp;<br>
 De hoeveelheden vermeld in deze paragraaf gelden binnen een globaal plafond voor tong van 10 ton. Indien deze hoeveelheid is opgevist, wordt het gebied gesloten voor visserijactiviteiten.”.
+
+### ART 7.
+
+In artikel 21 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 28 maart 2024, wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“Vanaf 1 november 2024 tot en met 31 december 2024 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden bij de tongvangst een hoeveelheid te overschrijden van 400 kg per vaartuig in die ICES-gebieden, waarbij het wetenschappelijk quotum niet wordt meegerekend.”.
+
+### ART 8.
+
+Aan artikel 22, §3, van hetzelfde besluit, ingevoegd bij het ministerieel besluit van 28 maart 2024, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In de periode van 1 november 2024 tot en met 31 december 2024 is het in de ICES gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 1500 kg. Voor vaartuigen van het KVS is de scholvangst in ICES-gebieden VIIh, j, k verboden.”.
+
+### ART 9.
+
+Aan artikel 23, §3, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 28 juni 2024, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In de periode van 1 november 2024 tot en met 31 december 2024 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 100 kg.”.
 
 ### ART 10.
 
@@ -87,3 +141,7 @@ Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig
 In de periode van 1 januari 2024 tot en met 14 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 Vanaf 15 oktober 2024 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.”.
+
+### ART 12.
+
+Dit besluit treedt in werking op 1 november 2024, met uitzondering van artikel 6, 1°, artikel 10 en artikel 11, 4°, die in werking treden op 15 oktober 2024.
