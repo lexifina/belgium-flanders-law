@@ -17,7 +17,8 @@ De directieraad van het VEKA is samengesteld uit de volgende personen:<br>
 3° Wim Buelens;<br>
 4° Tomas Velghe;<br>
 5° Tine Tanghe;<br>
-6° Inge Delvaux.
+6° Nadine Dufait;<br>
+7° Ivan Stuer.
 
 ### ART. 3.
 
