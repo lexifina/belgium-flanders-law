@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040379,
+  "title": "Ministerieel besluit van 2024-11-13 om een oproep voor de subsidiëring van vormingsplannen te lanceren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040379/VolledigDocument?datum=2024-11-13",
+  "source_sha256": "3fcb2b771a97cd15e63f3bddca2ff4a36ed00a04d65552ba9e370331a726db34",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040379&param=informatie",
+  "as_of": "2024-11-13",
+  "made": "2024-11-13",
+  "gazette": "2024-11-19",
+  "numac": 2024010565,
+  "document_start": "2024-11-13",
+  "document_end": null,
+  "in_force": "2024-11-13",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2024-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
