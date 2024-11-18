@@ -2,16 +2,16 @@
   "codex_id": 1040332,
   "title": "Besluit van de Vlaamse Regering van 2024-10-25 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, wat betreft de werkondersteunende maatregelen en de tijdelijke vergoedingsregeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040332/VolledigDocument?datum=2024-10-01",
-  "source_sha256": "3edf80ad729c3905c83cf8065eb5779316c4ccdd0646a670752dc9dbb3dd048b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040332/VolledigDocument?datum=2024-11-18",
+  "source_sha256": "9d2c3ee502617dd526cd0ac2ec5925e3c7e0af399208720ed8aa1a7d463f356b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040332&param=informatie",
-  "as_of": "2024-10-01",
+  "as_of": "2024-11-18",
   "made": "2024-10-25",
   "gazette": "2024-11-08",
   "numac": 2024010099,
   "document_start": "2024-11-18",
   "document_end": null,
-  "in_force": "2024-10-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2024-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-11-18",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2024-11-18; future article versions excluded; article text as the API gives it"
 }

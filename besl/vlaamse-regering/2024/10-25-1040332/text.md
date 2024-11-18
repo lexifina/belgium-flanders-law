@@ -34,6 +34,40 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling worden de volgende wijzigingen aangebracht:<br>
+1° punt 2° wordt vervangen door:&nbsp;<br>
+“2° advies collectief maatwerk: het advies collectief maatwerk, vermeld in artikel 12, tweede lid, van het besluit van 17 februari 2017;”;<br>
+2° er wordt een punt 2/1° ingevoegd dat luidt als volgt:<br>
+“2/1° advies collectief maatwerk voor uiterst kwetsbare werknemers: het advies collectief maatwerk, vermeld in artikel 12, vierde &nbsp;lid, van het besluit van 17 februari 2017;”.
+
+### ART 2.
+
+In artikel 20 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2, vijfde lid, wordt opgeheven;<br>
+2° er wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+“§3. Als de VDAB de behoefte aan werkondersteunende maatregelen voor een periode van maximaal twee jaar vaststelt conform artikel 3, eerste lid, bedraagt de loonpremie 20% van het geplafonneerde referteloon gedurende het kwartaal van de beslissing en de daaropvolgende zeven kwartalen.<br>
+Als de VDAB de behoefte aan werkondersteunende maatregelen voor een periode van maximaal twee jaar vaststelt conform artikel 3, en de behoefte aan een verhoogde loonpremie vaststelt op basis van de lijsten, vermeld in artikel 2, derde lid, 1° en 2°, of het advies collectief maatwerk voor uiterst kwetsbare werknemers, bedraagt de loonpremie 45% van het geplafonneerde referteloon gedurende het kwartaal van de beslissing en de daaropvolgende zeven kwartalen.”.
+
+### ART 5.
+
+In artikel 21, §2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 februari 2024, wordt de zinsnede “een verenigingswerker als vermeld in artikel 2, 2°, van de wet van 24 december 2020 betreffende het verengingswerk” vervangen door de zinsnede “een persoon die wordt tewerkgesteld conform artikel 17 van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeider”.
+
+### ART 6.
+
+Aan artikel 50, §3, van hetzelfde besluit wordt een derde lid toegevoegd dat luidt als volgt:<br>
+<br>
+“Als de VDAB de behoefte aan werkondersteunende maatregelen conform artikel 3 voor een periode van maximaal twee jaar vaststelt, en daarbij een begeleidingsbehoefte vaststelt in combinatie met een verhoogde loonpremie op basis van de lijsten, vermeld in artikel 2, derde lid, 1° en 2°, of het advies collectief maatwerk voor uiterst kwetsbare werknemers, bedraagt de begeleidingspremie bij een tewerkstelling bij dezelfde werkgever:<br>
+1°1930 euro per kwartaal tijdens de eerste periode, die gelijk is aan de periode van het kwartaal van de beslissing tot en met het vierde kwartaal na het kwartaal van de beslissing;<br>
+2°1030 euro per kwartaal tijdens de tweede periode, die begint vanaf het vijfde kwartaal van de beslissing tot en met het zevende kwartaal na het kwartaal van de beslissing.”.
+
+### ART 8.
+
+Aan artikel 64, §3, van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“Als de VDAB de behoefte aan werkondersteunende maatregelen conform artikel 3 voor een periode van maximaal twee jaar vaststelt, en daarbij een begeleidingsbehoefte vaststelt in combinatie met een verhoogde loonpremie op basis van de lijsten, vermeld in artikel 2, derde lid, 1° en 2°, of het advies collectief maatwerk voor uiterst kwetsbare werknemers, bedraagt de ondersteuningspremie 45% van het gewaarborgd gemiddelde minimummaandinkomen. De ondersteuningspremie start op het ogenblik van het kwartaal van de beslissing en loopt tijdens de zeven daaropvolgende kwartalen.”.
+
 ### ART 10.
 
 In artikel 82 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -64,3 +98,13 @@ b) 759,40 euro per kwartaal voor een doelgroepwerknemer met een gemiddelde inten
 2° er wordt een paragraaf 4 en een paragraaf 5 toegevoegd, die luiden als volgt:&nbsp;<br>
 “§4. De vaste en de variabele begeleidingspremie van de tijdelijke vergoeding, vermeld in artikel 93, §2, tweede lid, 3°, a) en b), volgen de evolutie van de gezondheidsindex met als basismaand juni 2023 en worden uitbetaald met inachtname van een wachtmaand.&nbsp;<br>
 §5. De tijdelijke vergoeding wordt toegekend met toepassing van de algemene groepsvrijstellingsverordening.”.
+
+### ART 12.
+
+Artikel 3, artikel 4, artikel 7 en artikel 9 treden in werking op 1 januari 2026.<br>
+<br>
+Artikel 10 en 11 hebben uitwerking met ingang van 1 oktober 2024.
+
+### ART 13.
+
+De Vlaamse minister, bevoegd voor werk, en de Vlaamse minister, bevoegd voor de sociale economie, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
