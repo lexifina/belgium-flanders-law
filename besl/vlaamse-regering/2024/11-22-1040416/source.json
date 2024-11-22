@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040416,
+  "title": "Besluit van de Vlaamse Regering van 2024-11-22 houdende de herverdeling van begrotingsartikel KB0-1KDG2BE-WT van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040416/VolledigDocument?datum=2024-11-22",
+  "source_sha256": "10b56c01528064df2571f7db5ff97f6158f2badcdc2ba996328e3101eda61ce6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040416&param=informatie",
+  "as_of": "2024-11-22",
+  "made": "2024-11-22",
+  "gazette": "2024-11-29",
+  "numac": 2024010870,
+  "document_start": "2024-11-22",
+  "document_end": null,
+  "in_force": "2024-11-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-11-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
