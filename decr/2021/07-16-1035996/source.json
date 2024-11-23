@@ -2,16 +2,16 @@
   "codex_id": 1035996,
   "title": "Decreet van 2021-07-16 over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035996/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "fbdf24f3717e4ed5c0ef09c056e76e257ca0b124d040eb72002161d8bb29850e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035996/VolledigDocument?datum=2024-11-23",
+  "source_sha256": "070fd70ac5722fc86bb16361ee929ff61bf13bcb19a999afd4577fe029c4a6d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035996&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2024-11-23",
   "made": "2021-07-16",
   "gazette": "2021-08-25",
   "numac": 2021032395,
   "document_start": "2021-09-04",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2024-11-23",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-11-23; future article versions excluded; article text as the API gives it"
 }

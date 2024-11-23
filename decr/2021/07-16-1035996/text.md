@@ -48,7 +48,11 @@ De Vlaamse Regering kan maatregelen nemen ter bevordering van de aanschaf en het
 
 ### ART 6.
 
-§1. De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van natuurlijke of rechtspersonen, ondernemingen of iedere andere organisatie zonder rechtspersoonlijkheid voor de aanschaf en voor het faciliteren van het gebruik van zero-emissievoertuigen. In voorkomend geval bepaalt ze ook de voorwaarden en modaliteiten waaraan dat steunprogramma voldoet.<br>
+§1. De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van natuurlijke of rechtspersonen, ondernemingen of iedere andere organisatie zonder rechtspersoonlijkheid voor:<br>
+1° de aanschaf van zero-emissievoertuigen tot en met 22 november 2024;<br>
+2° het faciliteren van het gebruik van zero-emissievoertuigen.<br>
+<br>
+In voorkomend geval bepaalt de Vlaamse Regering ook de voorwaarden en modaliteiten waaraan het steunprogramma, vermeld in het eerste lid, voldoet.<br>
 <br>
 De Vlaamse Regering kan het steunprogramma, vermeld in het eerste lid, beperken tot bepaalde categorieën of toepassingen van zero-emissievoertuigen.<br>
 <br>
