@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040418,
+  "title": "Ministerieel besluit van 2024-11-18 tot oprichting van het Vlaams Pachtobservatorium",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040418/VolledigDocument?datum=2024-11-29",
+  "source_sha256": "762c7fcf008ef6bab7cce503492752d8e44cc75aa8876f4d4de8a32b9e2715f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040418&param=informatie",
+  "as_of": "2024-11-29",
+  "made": "2024-11-18",
+  "gazette": "2024-11-29",
+  "numac": 2024010877,
+  "document_start": "2024-11-29",
+  "document_end": null,
+  "in_force": "2024-11-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
