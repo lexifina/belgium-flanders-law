@@ -58,6 +58,20 @@ De voordracht voor de verkiezing van een voorzitter van het bijzonder comité vo
 
 De voordracht voor de verkiezing van de leden en kandidaat-opvolgers van het bijzonder comité voor de sociale dienst, vermeld in artikel 92 van het decreet van 22 december 2017, gebeurt op het model van akte van voordracht BCSD 3, dat is opgenomen in bijlage 10, die bij dit besluit is gevoegd.
 
+### ART 7.
+
+De voordracht voor de verkiezing van een voorzitter van de districtsraad, vermeld in artikel 120 samen gelezen met artikel 7, §1, van het decreet van 22 december 2017, gebeurt op het model van akte van voordracht DIS 1, dat is opgenomen in bijlage 11, die bij dit besluit is gevoegd.<br>
+<br>
+De voordracht voor de verkiezing van een voorzitter van de districtsraad, vermeld in artikel 120 samen gelezen met artikel 7, §4, van het voormelde decreet, gebeurt op het model van akte van voordracht DIS 2, dat is opgenomen in bijlage 12, die bij dit besluit is gevoegd.
+
+### ART 8.
+
+De gezamenlijke voordracht voor de verkiezing van de districtsschepenen, vermeld in artikel 122 samen gelezen met artikel 43, §1, van het decreet van 22 december 2017, gebeurt op het model van gezamenlijke akte van voordracht DIS 3, dat is opgenomen in bijlage 13, die bij dit besluit is gevoegd.<br>
+<br>
+De individuele voordracht voor de afzonderlijke verkiezing van de districtsschepenen, vermeld in artikel 122 samen gelezen met artikel 43, §3, van het voormelde decreet, gebeurt op het model van individuele akte van voordracht DIS 4, dat is opgenomen in bijlage 14, die bij dit besluit is gevoegd.<br>
+<br>
+De voordracht voor de invulling van een opengevallen mandaat van districtsschepen, vermeld in artikel 122 samen gelezen met artikel 49, §1, van het voormelde decreet, gebeurt op het model van akte van voordracht DIS 5, dat is opgenomen in bijlage 15, die bij dit besluit is gevoegd.
+
 ### ART 9.
 
 De voordracht van een opvolger van de districtsburgemeester via een akte van opvolging, vermeld in artikel 123, §3, eerste lid, van het decreet van 22 december 2017, gebeurt op het model van akte van opvolging DIS 6, dat is opgenomen in bijlage 16, die bij dit besluit is gevoegd.<br>
@@ -135,6 +149,26 @@ Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vri
 Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
 
 ### BIJLAGE 10
+
+Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
+
+### BIJLAGE 11
+
+Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
+
+### BIJLAGE 12
+
+Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
+
+### BIJLAGE 13
+
+Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
+
+### BIJLAGE 14
+
+Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
+
+### BIJLAGE 15
 
 Bijlage nog niet gepubliceerd: de Vlaamse Regering heeft beslist om deze pas vrij te geven op 13 oktober 2024.
 

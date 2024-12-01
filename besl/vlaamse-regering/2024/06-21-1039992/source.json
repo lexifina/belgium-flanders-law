@@ -2,16 +2,16 @@
   "codex_id": 1039992,
   "title": "Besluit van de Vlaamse Regering van 2024-06-21 tot vaststelling van de modellen van akte van voordracht en akte van opvolging in het kader van de installatie en samenstelling van de lokale bestuursorganen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039992/VolledigDocument?datum=2024-10-13",
-  "source_sha256": "644dfe20b803716edec61c9cd4be4e0c20beb7cbcd2ca85dd5ae2c6b136d4d1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039992/VolledigDocument?datum=2024-12-01",
+  "source_sha256": "b73c7393d837fef813f9e4b31ee22a9d1cc8b7a4a2880681fee06ae97403515d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039992&param=informatie",
-  "as_of": "2024-10-13",
+  "as_of": "2024-12-01",
   "made": "2024-06-21",
   "gazette": "2024-07-24",
   "numac": 2024007170,
   "document_start": "2024-10-13",
   "document_end": null,
-  "in_force": "2024-10-13",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2024-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-12-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2024-12-01; future article versions excluded; article text as the API gives it"
 }
