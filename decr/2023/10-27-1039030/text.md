@@ -684,6 +684,10 @@ De verkiezing, vermeld in het eerste lid, vindt plaats bij geheime stemming.<br>
 De kandidaat die de volstrekte meerderheid van de stemmen heeft behaald, is verkozen tot voorzitter van de gemeenteraad. Als geen enkele kandidaat de volstrekte meerderheid van de stemmen heeft behaald en als verschillende kandidaten zijn voorgedragen voor het vacante mandaat, vindt een tweede stemronde plaats, waarin wordt gestemd op de twee kandidaten die in de eerste stemronde de meeste stemmen hebben behaald. Bij staking van stemmen in de eerste stemronde komt de kandidaat die bij de gemeenteraadsverkiezingen de meeste naamstemmen heeft behaald, in aanmerking voor de tweede stemronde. De kandidaat die in de tweede stemronde de meerderheid van de stemmen heeft behaald, is verkozen tot voorzitter. Bij staking van stemmen in de tweede stemronde is de kandidaat die bij de gemeenteraadsverkiezingen de meeste naamstemmen heeft behaald, verkozen tot voorzitter. Als de naamstemmen bepalend zijn en de kandidaten een gelijk aantal naamstemmen hebben behaald, is de voorgedragen kandidaat verkozen van wie de lijst bij de gemeenteraadsverkiezingen de meeste stemmen heeft behaald.”;<br>
 4° in paragraaf 5, eerste lid, wordt tussen de zinsnede ““de installatievergadering van de gemeenteraad” wordt gelezen als “de eerstvolgende vergadering van de gemeenteraad, vermeld in paragraaf 5”,” en de zinsnede ““verkozenen op de lijsten die aan de verkiezingen deelnamen” wordt gelezen als “gemeenteraadsleden”” de zinsnede ““drie dagen”, vermeld in paragraaf 1, wordt gelezen als “acht dagen”,” ingevoegd.
 
+### ART 91.
+
+In artikel 10, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden in punt 8° de woorden “leidend ambtenaar van een sociale huisvestingsmaatschappij” vervangen door de woorden “directeur van een woonmaatschappij”.
+
 ### ART 92.
 
 In artikel 43 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 en 17 februari 2023, worden de volgende wijzigingen aangebracht:<br>
@@ -876,6 +880,39 @@ In artikel 95 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 
 
 In artikel 106, §1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 17 februari 2023, wordt tussen de zinsnede ““de vergadering van de raad voor maatschappelijk welzijn aansluitend op de installatievergadering van de gemeenteraad” wordt gelezen als “de eerstvolgende vergadering van de raad voor maatschappelijk welzijn”,” en de zinsnede ““verkozenen op de lijsten die aan de verkiezingen deelnamen” wordt gelezen als “raadsleden van de raad voor maatschappelijk welzijn”,” de zinsnede ““drie dagen” vermeld in paragraaf 1 wordt gelezen als “acht dagen”,” ingevoegd.
 
+### ART 101.
+
+In artikel 119 van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“Met behoud van de toepassing van het eerste lid vindt de installatievergadering van de districtsraad plaats op dezelfde dag als de installatievergadering van de gemeenteraad of uiterlijk 30 dagen na de installatie van de gemeenteraad.”.
+
+### ART 102.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 17 februari 2023, wordt een artikel 119/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 119/1. In afwijking van artikel 119, eerste lid, gelezen in samenhang met artikel 6, §1, gelden de volgende bepalingen bij de oprichting van een nieuw district, vermeld in artikel 115:<br>
+1° als er geen bezwaar is ingediend tegen de verkiezing, worden de verkozen districtsraadsleden door de voorzitter van de gemeenteraad ten minste acht dagen voor de installatievergadering van de districtsraad op de hoogte gebracht van de datum, het uur en de plaats van de installatievergadering. Bij ontstentenis van oproeping door de voorzitter van de gemeenteraad, vindt de installatievergadering van rechtswege plaats dertig dagen na de installatie van de gemeenteraad, in het gemeentehuis om 20 uur. De algemeen directeur brengt bij ontstentenis van oproeping door de voorzitter van de gemeenteraad voor de goede orde de nieuw verkozen districtsraadsleden daarvan op de hoogte;<br>
+2° als er bezwaar is ingediend tegen de verkiezing en als die vervolgens toch geldig is verklaard, roept de voorzitter van de gemeenteraad de nieuw verkozen raadsleden samen op de installatievergadering binnen vijftien dagen na de dag waarop de uitslag van de verkiezing definitief is, maar op zijn vroegst na de installatievergadering van de gemeenteraad;<br>
+3° als er bezwaar is ingediend tegen de verkiezing en als die verkiezing vervolgens ongeldig is verklaard en er een nieuwe verkiezing moet worden gehouden, roept de voorzitter van de gemeenteraad de verkozen raadsleden samen op de installatievergadering binnen vijftien dagen na de dag waarop de uitslag van de nieuwe verkiezing definitief is.<br>
+<br>
+In afwijking van artikel 119, eerste lid, gelezen in samenhang met artikel 6, §2, zit bij de oprichting van een nieuw district, vermeld in artikel 115, de voorzitter van de gemeenteraad de installatievergadering voor. Hij blijft voorzitter van de districtsraad tot er een nieuwe voorzitter verkozen is. Als de voorzitter van de gemeenteraad de installatievergadering niet kan voorzitten, zit een lid van het college van burgemeester en schepenen in afnemende volgorde van rang ze voor.<br>
+<br>
+In afwijking van artikel 119, eerste lid, gelezen in samenhang met artikel 8, brengt een verkozen districtsraadslid dat voor zijn installatie afstand wil doen van zijn mandaat, de voorzitter van de gemeenteraad daarvan schriftelijk op de hoogte. De voormelde afstand wordt definitief zodra de districtsraad daarvan heeft kennisgenomen.”.
+
+### ART 103.
+
+In artikel 120 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het woord “is” vervangen door de zinsnede “en 7/1 zijn”;<br>
+2° in het eerste lid wordt tussen de zinsnede ““burgemeester” wordt gelezen als “districtsburgemeester”” en de zinsnede “, en “de algemeen directeur”” de zinsnede ““, gemeenteraadszitting” wordt gelezen als “zitting van de districtsraad”” ingevoegd;<br>
+3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“Met behoud van de toepassing van het eerste lid wordt bij de oprichting van een nieuw district, vermeld in artikel 115, de akte van voordracht voor de verkiezing van een voorzitter van de districtsraad bezorgd aan de algemeen directeur van de gemeente.”.
+
+### ART 104.
+
+In artikel 122 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 en 17 februari 2023, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“Met behoud van de toepassing van het eerste lid wordt bij de oprichting van een nieuw district, vermeld in artikel 115, de akte van voordracht voor de verkiezing van de districtsschepenen bezorgd aan de algemeen directeur van de gemeente. De algemeen directeur bezorgt een afschrift van de akte van voordracht voor de verkiezing van de districtsschepenen aan de burgemeester.”.
+
 ### ART 105.
 
 In artikel 123 van hetzelfde decreet, vervangen bij het decreet van 16 juli 2021 en gewijzigd bij het decreet van 17 februari 2023, wordt paragraaf 3 vervangen door wat volgt:<br>
@@ -926,6 +963,10 @@ De voorzitter van de districtsraad gaat na of de akte van opvolging of de akte v
 <br>
 In geval van de oprichting van een nieuw district, vermeld in artikel 115, wordt de akte van opvolging bezorgd aan de algemeen directeur van de gemeente. De algemeen directeur bezorgt een afschrift van de akte van opvolging aan de burgemeester. Nadat de districtsraadsleden de eed hebben afgelegd, bezorgt de algemeen directeur de akte van opvolging aan de voorzitter van de districtsraad.”.
 
+### ART 106.
+
+In artikel 151, eerste lid, van hetzelfde decreet wordt het woord “tweede” vervangen door het woord “derde”.
+
 ### ART 107.
 
 In artikel 154, §1, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, worden in punt 5° de woorden “sociale huisvestingsmaatschappij” vervangen door het woord “woonmaatschappij”.
@@ -948,6 +989,10 @@ In artikel 352 van hetzelfde decreet, gewijzigd bij het decreet van 17 februari 
 ### ART 109.
 
 In artikel 353 van hetzelfde decreet, gewijzigd bij de decreten van 16 juli 2021 en 17 februari 2023, wordt paragraaf 5 opgeheven.
+
+### ART 110.
+
+In artikel 354 van hetzelfde decreet wordt de zinsnede “119, tweede lid” vervangen door de zinsnede “119/1”.
 
 ### ART 111.
 
