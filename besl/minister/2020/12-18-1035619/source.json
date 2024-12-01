@@ -2,16 +2,16 @@
   "codex_id": 1035619,
   "title": "Ministerieel besluit van 2020-12-18 over de berekening van een tegemoetkoming voor de eindejaarspremie voor de personen met een handicap die beschikken over een persoonlijke assistentiebudget of over een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035619/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "ec0bfb22680ae484d95d4798ab24f2bb7325cc3c45ba1c7e10dcc5676cc506a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035619/VolledigDocument?datum=2024-12-01",
+  "source_sha256": "91d86eccdbe53932ff27227d95157e59681795ec7b13ba21e06186b4d73e1bcb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035619&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2024-12-01",
   "made": "2020-12-18",
   "gazette": "2021-06-03",
   "numac": 2021041537,
   "document_start": "2020-12-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2024-12-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-01; future article versions excluded; article text as the API gives it"
 }

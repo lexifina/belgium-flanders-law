@@ -26,25 +26,25 @@ Het agentschap berekent de tegemoetkoming, vermeld in artikel 9, § 4, eerste li
 
 ### ART 3.
 
-Het agentschap gaat voor de berekening van de tegemoetkoming, vermeld in artikel 2, voor een kalenderjaar uit van het bedrag van de eindejaarspremie die voor dat kalenderjaar wordt vermeld in de collectieve arbeidsovereenkomst van het paritair comité 337 tot vaststelling van de bijlage in uitvoering van de collectieve arbeidsovereenkomst van 3 december 2019 inzake de toekenning van een jaarlijkse eindejaarspremie.<br>
+Het agentschap gaat voor de berekening van de tegemoetkoming, vermeld in artikel 2, voor een kalenderjaar uit van het bedrag van de eindejaarspremie bepaald in artikel 4 en van de referentieperiode bepaald in artikel 7, derde lid van de collectieve arbeidsovereenkomst van paritair comité 337 betreffende de toekenning van de eindejaarspremie van 19 december 2023.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, voor het jaar 2019 wordt verhoogd met het percentage voor patronale lasten voor het derde kwartaal van het jaar 2020. Het bedrag, vermeld in het eerste lid, voor het jaar 2020 wordt verhoogd met het percentage voor patronale lasten voor het vierde kwartaal van het jaar 2020.&nbsp;Het bedrag, vermeld in het eerste lid, wordt voor het jaar 2021 verhoogd met het percentage voor patronale lasten voor het vierde kwartaal van het jaar 2021.
+Het bedrag, vermeld in het eerste lid, wordt verhoogd met een percentage voor patronale lasten van 27,02 procent.
 
 ### ART 4.
 
-Het agentschap berekent een prestatiebreuk voor elke persoon waarmee een overeenkomst als vermeld in artikel 12, § 1, 1° of § 2, 1°, van het besluit van 15 december 2000 of een overeenkomst als vermeld in artikel 23, § 1, of § 2, eerste lid, 1°, van het besluit van 24 juni 2016 is afgesloten.<br>
+Het agentschap berekent een prestatiebreuk voor elke persoon waarmee een overeenkomst als vermeld in artikel 12, §1, 1° van het besluit van 15 december 2000 of een overeenkomst als vermeld in artikel 23, §1 van het besluit van 24 juni 2016 is afgesloten.<br>
 <br>
 Het agentschap baseert zich hierbij op de navolgende gegevens die worden opgevraagd bij de Rijksdienst voor de Sociale Zekerheid:<br>
 1° het gemiddeld aantal uren per week per kwartaal dat een persoon als vermeld in het eerste lid conform de arbeidsovereenkomst moet presteren;<br>
 2° het gemiddeld aantal uren per week per kwartaal dat een referentiepersoon presteert. Een referentiepersoon is een persoon die voltijds tewerkgesteld is in dezelfde onderneming, of in dezelfde activiteitstak, in een functie die analoog is aan die van de persoon, vermeld in het eerste lid.<br>
 <br>
-Het agentschap berekent een prestatiebreuk voor de vier kwartalen van het kalenderjaar door het gemiddelde aantal uren per kwartaal van de werknemer vermeld in het tweede lid, 1°, te delen door het gemiddelde aantal uren van de referentiepersoon voor dat kwartaal, vermeld in het tweede lid, 2°.<br>
+Het agentschap berekent een prestatiebreuk voor de vier kwartalen van het referentiejaar door het gemiddelde aantal uren per week per kwartaal van de werknemer vermeld in het tweede lid, 1°, te delen door het gemiddelde aantal uren van de referentiepersoon per week voor dat kwartaal, vermeld in het tweede lid, 2°.<br>
 <br>
-Het agentschap bepaalt de prestatiebreuk voor het kalenderjaar door het gemiddelde te berekenen van de prestatiebreuken voor de vier kwartalen van het kalenderjaar die zijn berekend conform het derde lid.
+Het agentschap bepaalt de prestatiebreuk voor het referentiejaar door het gemiddelde te berekenen van de prestatiebreuken voor de vier kwartalen van het referentiejaar die zijn berekend conform het derde lid.
 
 ### ART 5.
 
-Het bedrag van de tegemoetkoming voor een kalenderjaar, vermeld in artikel 2, is gelijk aan het bedrag dat het resultaat is van de vermenigvuldiging van de prestatiebreuk voor het kalenderjaar, vastgesteld conform artikel 4, vierde lid, en het bedrag dat conform artikel 3 voor dat kalenderjaar is vastgesteld.
+Het bedrag van de tegemoetkoming voor een kalenderjaar, vermeld in artikel 2, is gelijk aan het bedrag dat het resultaat is van de vermenigvuldiging van de prestatiebreuk voor het referentiejaar, vastgesteld conform artikel 4, vierde lid, en het bedrag dat conform artikel 3 voor dat kalenderjaar is vastgesteld.
 
 ### ART 6.
 
