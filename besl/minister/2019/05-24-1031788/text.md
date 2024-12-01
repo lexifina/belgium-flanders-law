@@ -52,11 +52,11 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 30° Yati Thiels;<br>
 31° Eline Demasières;<br>
 32° Elien De Beule;<br>
-33° Heleen Willems;<br>
+33° Sigrid Vanden Berghe;<br>
 34° Bente Stockmans;<br>
 35° Karla De Coster;<br>
 36° Zoë Everaert;<br>
-37° Stijn Boonen;<br>
+37° Jana Christiaensen;<br>
 38° Kato Frederix;<br>
 40° Romina Paret.<br>
 41° Elke De Filette;<br>
@@ -69,7 +69,11 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 48° Feline Geukens;<br>
 49° Greta De Maesschalck;<br>
 50° Jolien Goddé;<br>
-51° Laura Van Herzele.
+51° Laura Van Herzele;<br>
+52° Natasja Gosen;<br>
+53° Nele Roelandt;<br>
+54° Maya Geöcze von Szendröi;<br>
+55° Margot van den Oudenhoven.
 
 ### ART 2.
 
