@@ -8,6 +8,18 @@ Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
 
 ## Hoofdstuk 2. Wijzigingen van het decreet van 22 december 2017 over het lokaal bestuur
 
+### ART 2.
+
+In artikel 4, §3, tweede lid, van het decreet van 22 december 2017 over het lokaal bestuur worden de volgende wijzigingen aangebracht:<br>
+1° tussen het woord “januari” en de zinsnede “, bekendgemaakt” worden de woorden “van het jaar waarin de gemeenteraadsverkiezingen plaatsvinden” ingevoegd;<br>
+2° de zinsnede “vanaf 1 januari” wordt vervangen door de zinsnede “vanaf 1 december”.
+
+### ART 3.
+
+In artikel 6, §3, van hetzelfde decreet wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“De voorzitter van de installatievergadering legt, als die herkozen is als gemeenteraadslid, de eed af in handen van het oudste gemeenteraadslid, of, als de voorzitter van de installatievergadering zelf het oudste raadslid is, in handen van het op een na oudste gemeenteraadslid.”.
+
 ### ART 4.
 
 In hetzelfde decreet, het laatst gewijzigd bij decreet van 16 juli 2021, wordt een artikel 7/1 ingevoegd, dat luidt als volgt:<br>
@@ -77,6 +89,12 @@ In artikel 42, §2, van hetzelfde decreet wordt de zinsnede “, § 1 en § 2”
 In artikel 43, §4, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
 1° tussen de zinsnede “benoeming in.” en de woorden “De schepen” wordt de zin “De gemeenteraad kan in elk geval de rangorde van de schepenen wijzigen.” ingevoegd;<br>
 2° na de woorden “de laatste schepen in rang” wordt de zinsnede “, tenzij de gemeenteraad de rangorde van die schepen wijzigt.” ingevoegd.
+
+### ART 12.
+
+In artikel 44, eerste lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het woord “burgemeester” wordt vervangen door de woorden “voorzitter van &nbsp;de gemeenteraad”;<br>
+2° de volgende zin wordt toegevoegd: “Als de voorzitter van de gemeenteraad zelf verkozen is als schepen, legt hij de eed als schepen af in handen van het &nbsp; &nbsp; &nbsp; &nbsp;oudste gemeenteraadslid.”.
 
 ### ART 13.
 
@@ -158,6 +176,10 @@ In artikel 106, §1, eerste lid, van hetzelfde decreet wordt tussen het woord �
 
 Aan artikel 110, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 16 juli 2021, wordt een punt 9° toegevoegd, dat luidt als volgt:<br>
 “9° “acht dagen” als vermeld in artikel 32, tweede lid, als “drie dagen”.”.
+
+### ART 27.
+
+In artikel 122, eerste lid, van hetzelfde decreet worden de woorden “en met dien verstande dat de districtsschepenen de eed afleggen in handen van de voorzitter van de districtsraad” opgeheven.
 
 ### ART 28.
 
