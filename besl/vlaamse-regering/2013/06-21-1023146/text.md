@@ -67,11 +67,11 @@ De minister kan bijkomende plaatsen aanduiden waar dierlijke bijproducten veelee
 
 ### ART. 4.
 
-<P>De producenten van kadavers van landbouwhuisdieren sluiten een overeenkomst   met een geregistreerde inzamelaar, handelaar of makelaar over de financiering   van de inzameling. Die overeenkomst kan de vorm aannemen van een   abonnement.<BR></P>  <P>Als een producent als vermeld in het eerste lid, geen abonnement neemt, wordt   de inzameling verricht tegen een vergoeding per prestatie. De minister bepaalt   het maximumtarief daarvoor. <BR></P>
+<p>Professionele veehouders sluiten een overeenkomst met een geregistreerde inzamelaar, handelaar of makelaar over de inzameling van de kadavers van landbouwhuisdieren. De voormelde overeenkomst bevat minimaal afspraken rond de plaats van aanbieden van de kadavers en modaliteiten van de ophaling.</p>
 
 ### ART. 5.
 
-<P>§ 1. De inzameling bij particulieren van kadavers van landbouwhuisdieren en   hertachtigen, die zijn gestorven of gedood, met inbegrip van de doodgeboren en   ongeboren dieren en de nageboorte, is gratis.<BR></P>  <P>De inzameling van gestorven dieren die bij erkende opvangcentra voor wilde   dieren en bij Dierengezondheidszorg Vlaanderen vzw opgevangen zijn, is   gratis.<BR></P>  <P>§ 2. Een geregistreerde inzamelaar, handelaar of makelaar ontvangt voor de   kosten die hij maakt voor de inzameling van de dieren, vermeld in paragraaf 1,   een tegemoetkoming die wordt uitbetaald door het Fonds voor Preventie en   Sanering inzake Leefmilieu en Natuur, opgericht bij het decreet van 23 januari   1991 tot oprichting van het Fonds voor Preventie en Sanering inzake Leefmilieu   en Natuur als Gewestdienst met Afzonderlijk Beheer. Die tegemoetkoming geldt   alleen als de afvalstoffen afkomstig zijn uit het Vlaamse Gewest.<BR></P>  <P>Voor de inzameling van kadavers van landbouwhuisdieren die zijn gestorven of   gedood, met inbegrip van de doodgeboren en ongeboren dieren en de nageboorte,   bij professionele veehouders, komt het fonds, vermeld in het eerste lid,   tegemoet in de kosten die niet gedekt zijn door de tarieven van de abonnementen,   vermeld in artikel 4, eerste lid. Die tegemoetkoming geldt alleen als de   afvalstoffen afkomstig zijn uit het Vlaamse Gewest.<BR></P>  <P>In het tweede lid wordt verstaan onder veehouder : de houder van een of meer   landbouwhuisdieren.<BR></P>
+<p>De OVAM voert de audit uit zoals vermeld in artikel 33, §4, van het Materialendecreet.</p>
 
 ## HOOFDSTUK 4 Verwijdering en gebruik
 
@@ -261,24 +261,15 @@ Voor de erkenning op basis van het eerste lid, 1° en 2° wordt opgeheven, krijg
 
 De volgende actoren inzake dierlijke bijproducten en afgeleide producten   zijn ertoe gedetailleerde registers of jaarverslagen van de afvalstoffengegevens   te verschaffen op eenvoudig verzoek van de OVAM :<BR>1° de geregistreerde   inzamelaars, handelaars en makelaars;<BR>2° de erkende   inrichtingen.<BR>
 
-## HOOFDSTUK 8 Commissie Krengenfinanciering
+## HOOFDSTUK 8 ...
 
 ### ART. 23.
 
-<P>Er wordt een commissie Krengenfinanciering georganiseerd binnen de   OVAM.<BR></P>  <P>De commissie Krengenfinanciering verleent advies over de financiering van   kadavers van landbouwdieren, onder andere over de abonnementsprijzen en de   tegemoetkomingen van het Vlaamse Gewest. Ze doet dat uit eigen beweging of op   verzoek van de minister. De minister zal binnen een termijn van zestig dagen een   antwoord geven op een advies of vraag van de commissie.<BR></P>
+<p>...</p>
 
 ### ART. 24.
 
-<p>De commissie Krengenfinanciering is samengesteld uit :<br>
-1° vertegenwoordigers van de landbouworganisaties;<br>
-2° vertegenwoordigers van de inzamelaars en verwerkers van kadavers van landbouwdieren;<br>
-3° personeelsleden van de OVAM;<br>
-4° personeelsleden van het Departement Omgeving;<br>
-5° personeelsleden van het Departement Landbouw en Visserij;<br>
-6° facultatief personeelsleden van het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
-7° facultatief personeelsleden van de Federale Overheidsdienst Volksgezondheid, Veiligheid Voedselketen en Leefmilieu.</p>
-
-<p>De minister kan de nadere regels vaststellen voor de taken en de werking van die commissie en wijst de leden aan.</p>
+<p>...</p>
 
 ## HOOFDSTUK 9 Wijzigingsbepalingen
 
