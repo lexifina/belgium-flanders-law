@@ -546,23 +546,18 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>cultuur</td>
-			<td>1° culturele organisaties<br>
-			2° culturele projecten<br>
-			3° internationaal en interregionaal cultuurbeleid</td>
+			<td>cultuur</td>
 		</tr>
 		<tr>
 			<td>jeugd</td>
-			<td>1° jeugdorganisaties<br>
-			2° jeugdprojecten<br>
-			3° internationaal en interregionaal jeugdbeleid</td>
+			<td>jeugd</td>
 		</tr>
 		<tr>
 			<td>media</td>
-			<td>1° mediaorganisaties<br>
-			2° mediaprojecten<br>
-			3° internationaal en interregionaal mediabeleid<br>
-			4° onafhankelijke toezichthouder<br>
-			5° openbare omroep</td>
+			<td>1° media<br>
+			2° onafhankelijke toezichthouder<br>
+			3° openbare omroep<br>
+			&nbsp;</td>
 		</tr>
 		<tr>
 			<td>sport</td>
