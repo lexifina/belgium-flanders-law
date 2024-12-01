@@ -751,6 +751,22 @@ In bijlage 2.3.1.D van het hetzelfde besluit, gewijzigd bij het besluit van de V
 
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende dierlijke bijproducten en afgeleide producten
 
+### ART 30.
+
+Artikel 4 van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende dierlijke bijproducten en afgeleide producten wordt vervangen door wat volgt:<br>
+<br>
+“Art. 4. Professionele veehouders sluiten een overeenkomst met een geregistreerde inzamelaar, handelaar of makelaar over de inzameling van de kadavers van landbouwhuisdieren. De voormelde overeenkomst bevat minimaal afspraken rond de plaats van aanbieden van de kadavers en modaliteiten van de ophaling.”.
+
+### ART 31.
+
+Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 5. De OVAM voert de audit uit zoals vermeld in artikel 33, §4, van het Materialendecreet.”.
+
+### ART 32.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 22 maart 2019, 15 maart 2019, 24 februari 2017 en 10 februari 2017, wordt hoofdstuk 8, dat bestaat uit artikel 23 en 24, opgeheven.
+
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 2 juli 2021 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen
 
 ### ART 33.
