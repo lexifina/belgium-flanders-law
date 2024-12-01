@@ -2,20 +2,20 @@
   "codex_id": 1029017,
   "title": "Decreet van 2017-12-22 over het lokaal bestuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029017/VolledigDocument?datum=2024-10-13",
-  "source_sha256": "758a84afa0cc4b4744be38985c082e670a7b55fc76dd2c33f658da9c65e22b3b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029017/VolledigDocument?datum=2024-12-01",
+  "source_sha256": "ea7de1e15a0bfcee5721a290eea505591979faf4227617a7faa2d90b9a1a6883",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029017&param=informatie",
-  "as_of": "2024-10-13",
+  "as_of": "2024-12-01",
   "made": "2017-12-22",
   "gazette": "2018-02-15",
   "numac": 2018030427,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2024-10-13",
-  "article_versions": 639,
+  "in_force": "2024-12-01",
+  "article_versions": 640,
   "table_of_contents_notes": [
     "article version 1477295 (Art. 194/1., start 2023-10-01, no end date) is not in the table of contents, which lists a later version of Art. 194/1.: not placed",
     "article version 1477296 (Art. 194/2., start 2023-10-01, no end date) is not in the table of contents, which lists a later version of Art. 194/2.: not placed"
   ],
-  "record_form": "consolidated version as in force on 2024-10-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-01; future article versions excluded; article text as the API gives it"
 }

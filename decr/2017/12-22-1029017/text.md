@@ -65,7 +65,7 @@ Dit decreet is van toepassing op alle gemeenten van het Vlaamse Gewest en op all
 <br>
 § 3. Uiterlijk op 1 juni van het jaar waarin de gemeenteraadsverkiezingen zullen plaatsvinden, stelt de Vlaamse Regering een lijst op van het aantal te verkiezen gemeenteraadsleden per gemeente op basis van de bevolkingsaantallen van de gemeenten. Het inwonertal dat in aanmerking wordt genomen, is het aantal personen dat ingeschreven is in het rijksregister van de natuurlijke personen en dat op 1 januari van het jaar van de gemeenteraadsverkiezingen zijn hoofdverblijfplaats in de desbetreffende gemeente had. Ingeval een gemeente een principiële beslissing tot samenvoeging aan de Vlaamse Regering heeft kenbaar gemaakt, vermeldt de Vlaamse Regering desgevallend in de lijst van het aantal te verkiezen gemeenteraadsleden ook het aantal te verkiezen gemeenteraadsleden van de nieuwe gemeente, op basis van de som van de bevolkingsaantallen van de samen te voegen gemeenten. Vanaf de inwerkingtreding van het samenvoegingsdecreet wordt in deze lijst het aantal te verkiezen gemeenteraadsleden, vermeld voor de samengevoegde gemeenten, opgeheven en is enkel het aantal te verkiezen gemeenteraadsleden van de nieuwe gemeente geldig.<br>
 <br>
-Het bevolkingsaantal op 1 januari, bekendgemaakt in het Belgisch Staatsblad, wordt, met behoud van de toepassing van het eerste lid, vanaf 1 januari na de bekendmaking ervan, in aanmerking genomen als bevolkingscijfer in dit decreet.
+Het bevolkingsaantal op 1 januari van het jaar waarin de gemeenteraadsverkiezingen plaatsvinden, bekendgemaakt in het Belgisch Staatsblad, wordt, met behoud van de toepassing van het eerste lid, vanaf 1 december na de bekendmaking ervan, in aanmerking genomen als bevolkingscijfer in dit decreet.
 
 ### ART 5.
 
@@ -121,7 +121,7 @@ Als de verbeterende akte van voordracht of opvolging ontvankelijk is, is de eerd
 <br>
 § 3. De gemeenteraad onderzoekt de geloofsbrieven van de verkozen gemeenteraadsleden. De verkozen gemeenteraadsleden van wie de geloofsbrieven zijn goedgekeurd, leggen, voor ze hun mandaat aanvaarden, in openbare vergadering de volgende eed af in handen van de voorzitter van de installatievergadering: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.".<br>
 <br>
-De voorzitter van de installatievergadering legt, als hij herkozen is als gemeenteraadslid, de eed af in handen van de burgemeester. Als de uittredende burgemeester de installatievergadering voorzit en herkozen is als gemeenteraadslid, legt hij de eed af in handen van het oudste gemeenteraadslid. Als iemand anders de eed heeft afgelegd als burgemeester, legt de uittredende burgemeester de eed af in handen van de nieuw benoemde burgemeester.<br>
+De voorzitter van de installatievergadering legt, als die herkozen is als gemeenteraadslid, de eed af in handen van het oudste gemeenteraadslid, of, als de voorzitter van de installatievergadering zelf het oudste raadslid is, in handen van het op een na oudste gemeenteraadslid.<br>
 <br>
 Een raadslid dat zich in een situatie van verhindering bevindt als vermeld in artikel 12, 5°, kan worden verkozen als schepen of voorzitter van het bijzonder comité voor de sociale dienst of aangeduid worden als aangewezen-burgemeester. In voorkomend geval en in afwijking van artikel 12, 5°, kan dat raadslid vervolgens de eed afleggen van het betreffende mandaat.<br>
 <br>
@@ -242,7 +242,9 @@ De volgende personen kunnen geen deel uitmaken van een gemeenteraad:<br>
 4° de personeelsleden van de gemeente in kwestie of van het openbaar centrum voor maatschappelijk welzijn dat die gemeente bedient of van de gemeentelijke extern verzelfstandigde agentschappen van de gemeente;<br>
 5° de leden van een districtsraad;<br>
 6° de personen die in een lokale decentrale overheid van een andere lidstaat van de Europese Unie een ambt of een mandaat uitoefenen dat gelijkwaardig is aan dat van gemeenteraadslid, voorzitter van de gemeenteraad, schepen of burgemeester;<br>
-7° de bloedverwanten tot en met de tweede graad, de aanverwanten in de eerste graad of de echtgenoten in de gemeenteraad van dezelfde gemeente.<br>
+7° de bloedverwanten tot en met de tweede graad, de aanverwanten in de eerste graad of de echtgenoten in de gemeenteraad van dezelfde gemeente;<br>
+8° de directeur van een woonmaatschappij tot wiens werkgebied de gemeente behoort;<br>
+9° de leidend ambtenaar van een intergemeentelijk samenwerkingsverband waaraan de gemeente deelneemt.<br>
 <br>
 Als bloed- of aanverwanten in een graad als vermeld in het eerste lid, 7°, of twee echtgenoten worden verkozen bij dezelfde verkiezing, wordt de voorkeur bepaald door de grootte van de quotiënten op grond waarvan de zetels die kandidaten hebben verkregen aan hun lijst zijn toegekend.<br>
 <br>
@@ -692,7 +694,7 @@ Als de naamstemmen bepalend zijn en de kandidaten een gelijk aantal naamstemmen 
 
 ### ART 44.
 
-Voor ze hun mandaat aanvaarden, leggen de schepenen in openbare vergadering van de gemeenteraad de volgende eed af in handen van de burgemeester: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.".<br>
+Voor ze hun mandaat aanvaarden, leggen de schepenen in openbare vergadering van de gemeenteraad de volgende eed af in handen van de voorzitter van &nbsp;de gemeenteraad: "Ik zweer de verplichtingen van mijn mandaat trouw na te komen.".&nbsp;Als de voorzitter van de gemeenteraad zelf verkozen is als schepen, legt hij de eed als schepen af in handen van het oudste gemeenteraadslid.<br>
 <br>
 De schepen die de eed na twee achtereenvolgende uitnodigingen niet aflegt, wordt geacht zijn schepenmandaat niet te aanvaarden.
 
@@ -1413,7 +1415,7 @@ Artikel 9 is van toepassing op de leden van het bijzonder comité voor de social
 
 ### ART 100.
 
-Artikel 10 is van overeenkomstige toepassing op de voorzitter en de leden van het bijzonder comité voor de sociale dienst, met dien verstande dat het onderwijzend personeel van de gemeente, die door het openbaar centrum voor maatschappelijk welzijn wordt bediend, wel lid van het bijzonder comité voor de sociale dienst kan zijn.<br>
+Artikel 10, met uitzondering van het eerste lid, 5°, is van overeenkomstige toepassing op de voorzitter en de leden van het bijzonder comité voor de sociale dienst, met dien verstande dat het onderwijzend personeel van de gemeente, die door het openbaar centrum voor maatschappelijk welzijn wordt bediend, wel lid van het bijzonder comité voor de sociale dienst kan zijn.<br>
 <br>
 De voorzitter of een lid van het vast bureau kan slechts deel uitmaken van het bijzonder comité voor de sociale dienst, als die met toepassing van artikel 90 verkozen is als voorzitter van het bijzonder comité voor de sociale dienst of als die met toepassing van artikel 106 de verkozen voorzitter van het bijzonder comité voor de sociale dienst vervangt.
 
@@ -1602,17 +1604,31 @@ Artikel 4, § 3, is van toepassing op de districtsraad met dien verstande dat "g
 
 ### ART 119.
 
-Artikel 5, 6, 8 tot en met 14, artikel 16 en 17, met uitzondering van artikel 6, § 3, tweede lid, artikel 10, eerste lid, 4°, wat betreft de personeelsleden van het openbaar centrum voor maatschappelijk welzijn en de personeelsleden van de gemeentelijke extern verzelfstandigde agentschappen, en artikel 10, eerste lid, 5°, zijn van toepassing op de districtsraden en hun leden, met dien verstande dat "de gemeenteraad" wordt gelezen als "de districtsraad", "de gemeenteraadskiezer" wordt gelezen als "de districtsraadskiezer", "het college van burgemeester en schepenen" wordt gelezen als "het districtscollege", "de voorzitter van de gemeenteraad" wordt gelezen als "de voorzitter van de districtsraad", "het gemeenteraadslid" wordt gelezen als "het districtsraadslid", "het gemeentehuis" wordt gelezen als "het districtshuis" en "de algemeen directeur" wordt gelezen als "de districtssecretaris".<br>
+Artikel 5, 6, 8 tot en met 14, artikel 16 en 17, met uitzondering van artikel 6, § 3, tweede lid, artikel 10, eerste lid, 4°, wat betreft de personeelsleden van het openbaar centrum voor maatschappelijk welzijn en de personeelsleden van de gemeentelijke extern verzelfstandigde agentschappen, en artikel 10, eerste lid, 5°, 8° en 9°,&nbsp;zijn van toepassing op de districtsraden en hun leden, met dien verstande dat "de gemeenteraad" wordt gelezen als "de districtsraad", "de gemeenteraadskiezer" wordt gelezen als "de districtsraadskiezer", "het college van burgemeester en schepenen" wordt gelezen als "het districtscollege", "de voorzitter van de gemeenteraad" wordt gelezen als "de voorzitter van de districtsraad", "het gemeenteraadslid" wordt gelezen als "het districtsraadslid", "het gemeentehuis" wordt gelezen als "het districtshuis" en "de algemeen directeur" wordt gelezen als "de districtssecretaris".<br>
 <br>
-Met behoud van de toepassing van het eerste lid wordt bij de oprichting van een nieuw district als vermeld in artikel 115 de installatievergadering samengeroepen door de voorzitter van de gemeenteraad uiterlijk dertig dagen na de installatie van de gemeenteraad. De voorzitter van de gemeenteraad zit in dat geval de installatievergadering voor.<br>
+Met behoud van de toepassing van het eerste lid vindt de installatievergadering van de districtsraad plaats op dezelfde dag als de installatievergadering van de gemeenteraad of uiterlijk 30 dagen na de installatie van de gemeenteraad.<br>
 <br>
 De voorzitter van de installatievergadering legt, als hij herkozen is als districtsraadslid, de eed af in handen van het oudste districtsraadslid.<br>
 <br>
 Er bestaat een onverenigbaarheid tussen het mandaat van gemeenteraadslid en lid van de districtsraad.
 
+### ART 119/1.
+
+In afwijking van artikel 119, eerste lid, gelezen in samenhang met artikel 6, §1, gelden de volgende bepalingen bij de oprichting van een nieuw district, vermeld in artikel 115:<br>
+1° als er geen bezwaar is ingediend tegen de verkiezing, worden de verkozen districtsraadsleden door de voorzitter van de gemeenteraad ten minste acht dagen voor de installatievergadering van de districtsraad op de hoogte gebracht van de datum, het uur en de plaats van de installatievergadering. Bij ontstentenis van oproeping door de voorzitter van de gemeenteraad, vindt de installatievergadering van rechtswege plaats dertig dagen na de installatie van de gemeenteraad, in het gemeentehuis om 20 uur. De algemeen directeur brengt bij ontstentenis van oproeping door de voorzitter van de gemeenteraad voor de goede orde de nieuw verkozen districtsraadsleden daarvan op de hoogte;<br>
+2° als er bezwaar is ingediend tegen de verkiezing en als die vervolgens toch geldig is verklaard, roept de voorzitter van de gemeenteraad de nieuw verkozen raadsleden samen op de installatievergadering binnen vijftien dagen na de dag waarop de uitslag van de verkiezing definitief is, maar op zijn vroegst na de installatievergadering van de gemeenteraad;<br>
+3° als er bezwaar is ingediend tegen de verkiezing en als die verkiezing vervolgens ongeldig is verklaard en er een nieuwe verkiezing moet worden gehouden, roept de voorzitter van de gemeenteraad de verkozen raadsleden samen op de installatievergadering binnen vijftien dagen na de dag waarop de uitslag van de nieuwe verkiezing definitief is.<br>
+<br>
+In afwijking van artikel 119, eerste lid, gelezen in samenhang met artikel 6, §2, zit bij de oprichting van een nieuw district, vermeld in artikel 115, de voorzitter van de gemeenteraad de installatievergadering voor. Hij blijft voorzitter van de districtsraad tot er een nieuwe voorzitter verkozen is. Als de voorzitter van de gemeenteraad de installatievergadering niet kan voorzitten, zit een lid van het college van burgemeester en schepenen in afnemende volgorde van rang ze voor.<br>
+<br>
+In afwijking van artikel 119, eerste lid, gelezen in samenhang met artikel 8, brengt een verkozen districtsraadslid dat voor zijn installatie afstand wil doen van zijn mandaat, de voorzitter van de gemeenteraad daarvan schriftelijk op de hoogte. De voormelde afstand wordt definitief zodra de districtsraad daarvan heeft kennisgenomen.<br>
+&nbsp;
+
 ### ART 120.
 
-Artikel 7 is van toepassing op de verkiezing van de voorzitter van de districtsraad, met dien verstande dat "de gemeenteraad" wordt gelezen als "de districtsraad", "het gemeenteraadslid" wordt gelezen als "het districtsraadslid", "de voorzitter van de gemeenteraad" wordt gelezen als "de voorzitter van de districtsraad", "gemeenteraadscommissie" wordt gelezen als "districtsraadscommissie", "schepen" wordt gelezen als "districtsschepen", "burgemeester" wordt gelezen als "districtsburgemeester", en "de algemeen directeur" wordt gelezen als "de districtssecretaris".
+Artikel 7 en 7/1 zijn van toepassing op de verkiezing van de voorzitter van de districtsraad, met dien verstande dat "de gemeenteraad" wordt gelezen als "de districtsraad", "het gemeenteraadslid" wordt gelezen als "het districtsraadslid", "de voorzitter van de gemeenteraad" wordt gelezen als "de voorzitter van de districtsraad", "gemeenteraadscommissie" wordt gelezen als "districtsraadscommissie", "schepen" wordt gelezen als "districtsschepen", "burgemeester" wordt gelezen als "districtsburgemeester" ““, gemeenteraadszitting” wordt gelezen als “zitting van de districtsraad”, en "de algemeen directeur" wordt gelezen als "de districtssecretaris".<br>
+<br>
+Met behoud van de toepassing van het eerste lid wordt bij de oprichting van een nieuw district, vermeld in artikel 115, de akte van voordracht voor de verkiezing van een voorzitter van de districtsraad bezorgd aan de algemeen directeur van de gemeente.
 
 ## Afdeling 3. De organisatie van het districtscollege
 
@@ -1626,9 +1642,11 @@ Het districtscollege moet, met inbegrip van de districtsburgemeester, minstens t
 
 ### ART 122.
 
-Artikel 43 en 44 zijn van toepassing op de verkiezing van de districtsschepenen, met dien verstande dat "gemeenteraad" wordt gelezen als "districtsraad", "gemeenteraadslid" wordt gelezen als "districtsraadslid", "voorzitter van de gemeenteraad" wordt gelezen als "voorzitter van de districtsraad", "burgemeester" wordt gelezen als "districtsburgemeester", "schepen" wordt gelezen als "districtsschepen", "algemeen directeur" wordt gelezen als "districtssecretaris" en met dien verstande dat de districtsschepenen de eed afleggen in handen van de voorzitter van de districtsraad.<br>
+Artikel 43 en 44 zijn van toepassing op de verkiezing van de districtsschepenen, met dien verstande dat "gemeenteraad" wordt gelezen als "districtsraad", "gemeenteraadslid" wordt gelezen als "districtsraadslid", "voorzitter van de gemeenteraad" wordt gelezen als "voorzitter van de districtsraad", "burgemeester" wordt gelezen als "districtsburgemeester", "schepen" wordt gelezen als "districtsschepen", "algemeen directeur" wordt gelezen als "districtssecretaris".<br>
 <br>
-Artikel 45, 47, 48, 49, § § 1, 2 en 4, en artikel 148 tot en met 156 en 160 zijn, als ze de burgemeester en de schepenen betreffen, ook van toepassing op de districtsburgemeester en op de districtsschepenen, met dien verstande dat "gemeente" wordt gelezen als "district", "gemeenteraad" wordt gelezen als "districtsraad", "voorzitter van de gemeenteraad" wordt gelezen als "voorzitter van de districtsraad", "gemeenteraadslid" wordt geleden als "districtsraadslid", "schepen" wordt gelezen als "districtsschepen", "college van burgemeester en schepenen" wordt gelezen als "districtscollege", "burgemeester" wordt gelezen als "districtsburgemeester" en "de algemeen directeur" wordt gelezen als "de districtssecretaris", met dien verstande dat personeelsleden van het openbaar centrum voor maatschappelijk welzijn kunnen zetelen in het districtscollege en met dien verstande dat de wedde van de districtsschepenen wordt bepaald door de Vlaamse Regering, die daarbij rekening kan houden met de omvang van de bevoegdheden die aan de districten toegewezen worden, alsook met het inwonersaantal van het district, en dat de districtsraad de eretitel van de districtsburgemeester kan toekennen onder voorwaarden die hij bepaalt.<br>
+Met behoud van de toepassing van het eerste lid wordt bij de oprichting van een nieuw district, vermeld in artikel 115, de akte van voordracht voor de verkiezing van de districtsschepenen bezorgd aan de algemeen directeur van de gemeente. De algemeen directeur bezorgt een afschrift van de akte van voordracht voor de verkiezing van de districtsschepenen aan de burgemeester.<br>
+<br>
+Artikel 45, 47, 48, 49, § § 1, 2 en 4, en artikel 148 tot en met 156 en 160 zijn, als ze de burgemeester en de schepenen betreffen, ook van toepassing op de districtsburgemeester en op de districtsschepenen, met dien verstande dat "gemeente" wordt gelezen als "district", "gemeenteraad" wordt gelezen als "districtsraad", "voorzitter van de gemeenteraad" wordt gelezen als "voorzitter van de districtsraad", "gemeenteraadslid" wordt geleden als "districtsraadslid", "schepen" wordt gelezen als "districtsschepen", "college van burgemeester en schepenen" wordt gelezen als "districtscollege", "burgemeester" wordt gelezen als "districtsburgemeester" en "de algemeen directeur" wordt gelezen als "de districtssecretaris", met dien verstande dat artikel 10, eerste lid, 4°, wat betreft de personeelsleden van het openbaar centrum voor maatschappelijk welzijn en de personeelsleden van de gemeentelijke extern verzelfstandigde agentschappen, 5°, 8° en 9°, niet van toepassing is op de districtsburgemeester en de districtsschepenen, en met dien verstande dat de wedde van de districtsschepenen wordt bepaald door de Vlaamse Regering, die daarbij rekening kan houden met de omvang van de bevoegdheden die aan de districten toegewezen worden, alsook met het inwonersaantal van het district, en dat de districtsraad de eretitel van de districtsburgemeester kan toekennen onder voorwaarden die hij bepaalt.<br>
 <br>
 Artikel 157 tot en met 159 zijn, als ze de burgemeester en de schepenen betreffen, ook van toepassing op de districtsburgemeester en op de districtsschepenen, met dien verstande dat "schepen" wordt gelezen als "districtsschepen" en "burgemeester" wordt gelezen als "districtsburgemeester".
 
@@ -1967,7 +1985,7 @@ Als ten gevolge van de toekenning van de bezoldiging, vermeld in artikel 149, an
 
 ### ART 151.
 
-In geval van verhindering of schorsing als vermeld in artikel 47, 60, 80, 122, tweede lid, of artikel 156, wordt de wedde die verbonden is aan het mandaat toegekend aan degene die de verhinderde of geschorste mandataris vervangt. De verhinderde of geschorste mandataris ontvangt geen wedde voor de periode van de verhindering of schorsing.<br>
+In geval van verhindering of schorsing als vermeld in artikel 47, 60, 80, 122, derde lid, of artikel 156, wordt de wedde die verbonden is aan het mandaat toegekend aan degene die de verhinderde of geschorste mandataris vervangt. De verhinderde of geschorste mandataris ontvangt geen wedde voor de periode van de verhindering of schorsing.<br>
 <br>
 Als een schepen of een gemeenteraadslid de burgemeester vervangt gedurende minstens dertig opeenvolgende dagen of als een gemeenteraadslid een schepen vervangt gedurende minstens dertig opeenvolgende dagen, wordt aan hem, met behoud van de toepassing van het eerste lid, een wedde uitbetaald. Als een schepen of een gemeenteraadslid een burgemeesterswedde ontvangt, vervalt die van de burgemeester. Als een gemeenteraadslid een schepenwedde ontvangt, vervalt die van de schepen.<br>
 <br>
@@ -4204,7 +4222,7 @@ In afwijking van artikel 91, § 2, derde lid, gaat de algemeen directeur- coörd
 
 ### ART 354.
 
-In voorkomend geval is voor de installatievergadering van de districtsraad van een nieuw district artikel 119, tweede lid, van toepassing.
+In voorkomend geval is voor de installatievergadering van de districtsraad van een nieuw district artikel 119/1, van toepassing.
 
 ### ART 354/1.
 
