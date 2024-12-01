@@ -31,6 +31,48 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Uitvoering van artikel 54 van het decreet van 29 maart 2024 houdende wijziging van diverse decreten over het landbouw- en visserijbeleid
 
+### ART 1.
+
+§1. In uitvoering van artikel 54, §1, van het decreet van 29 maart 2024 houdende wijziging van diverse decreten over het landbouw- en visserijbeleid wordt een commissie Krengenfinanciering opgericht.<br>
+<br>
+§2. De vertegenwoordigers van de landbouworganisaties, vermeld in artikel 54, §1, eerste lid, 1°, van hetzelfde decreet, worden voorgedragen door de Strategische Adviesraad voor Landbouw en Visserij, opgericht bij het decreet van 6 juli 2007, gewijzigd bij de decreten van 3 juli 2015 en 7 december 2018. &nbsp;<br>
+<br>
+De vertegenwoordigers van de inzamelaars en verwerkers van kadavers van landbouwdieren, vermeld in artikel 54, §1, eerste lid, 2°, van hetzelfde decreet worden voorgedragen door RENDAC.&nbsp;<br>
+<br>
+§3. De leidend ambtenaar van het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie duidt de personeelsleden, vermeld in artikel 54, §1, eerste lid, 3°, van hetzelfde decreet aan.<br>
+<br>
+§4. De organisaties, vermeld in §2, dragen voor elk mandaat telkens 2 kandidaten voor.&nbsp;<br>
+<br>
+Uit de voorgedragen kandidaten, vermeld in §2, benoemt de minister, bevoegd voor de landbouw, telkens iemand als effectief lid en plaatsvervangend lid.<br>
+<br>
+Om een meer evenwichtige participatie van mannen en vrouwen te bevorderen, mag ten hoogste twee derde van de leden van hetzelfde geslacht zijn.<br>
+<br>
+Dat quotum is afzonderlijk van toepassing op de effectieve leden en op de plaatsvervangende leden.<br>
+<br>
+Als de voorgedragen kandidaturen het niet mogelijk maken om te voldoen aan de verplichting, vermeld in het derde lid, dan moet de voordrachtprocedure hernomen worden. In voorkomend geval moeten de voordragende organisaties die geen kandidaat van het ondervertegenwoordigde geslacht hadden voorgedragen, een extra kandidaat voordragen die van het ondervertegenwoordigde geslacht is.<br>
+<br>
+Zolang een voordragende instantie niet voldoet aan die voorwaarde, blijft het mandaat open.<br>
+<br>
+§5. De effectieve en plaatsvervangende leden worden benoemd voor drie jaar.&nbsp;<br>
+<br>
+Als een effectief of plaatsvervangend lid wordt vervangen, dragen de organisaties, vermeld in §2, een kandidaat voor.<br>
+<br>
+Het vervangende effectief of plaatsvervangend lid, vermeld in het tweede lid, voltooit het mandaat van het effectief of plaatsvervangend lid dat wordt vervangen.&nbsp;<br>
+<br>
+§6. De commissie Krengenfinanciering, vermeld in §1, vergadert op de dag en het uur dat de personeelsleden, vermeld in §3 vaststellen.&nbsp;<br>
+<br>
+§7. De commissie Krengenfinanciering, vermeld in §1, kan alleen geldig beraadslagen en beslissen bij aanwezigheid van de meerderheid van de effectieve leden of plaatsvervangende leden.<br>
+<br>
+§8. De commissie Krengenfinanciering, vermeld in §1, kan beslissen dat leden zich tijdens de vergaderingen kunnen laten bijstaan door experten.<br>
+<br>
+De commissie Krengenfinanciering, vermeld in §1, kan zich bij de besluitvorming laten bijstaan door experten.<br>
+<br>
+§9. De commissie Krengenfinanciering, vermeld in §1, beslist bij unanimiteit.&nbsp;<br>
+<br>
+§10. De beslissing van de commissie Krengenfinanciering wordt opgenomen in de notulen die door de aanwezige leden worden ondertekend.<br>
+<br>
+§11. De minister, bevoegd voor de landbouw, kan voorzien in de toekenning van de onkostenvergoeding, vermeld in artikel 54, §3, van hetzelfde decreet, en de toekenning ervan nader regelen.&nbsp;
+
 ## Hoofdstuk 2. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijziging van het besluit van de Vlaamse Regering van 27 april 2007 betreffende steun aan investeringen in de omkaderingssector van land- en tuinbouw
