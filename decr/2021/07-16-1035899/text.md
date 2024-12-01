@@ -211,6 +211,12 @@ In artikel 7 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<b
 2° in paragraaf 5, eerste lid, 3°, wordt tussen de zinsnede "als verhinderd wordt beschouwd," en de woorden "ontslag genomen heeft" de zinsnede "als hij afgezet of geschorst is, of als hij" ingevoegd;<br>
 3° in paragraaf 5, vierde lid, wordt tussen de woorden "als verhinderd wordt beschouwd" en de woorden "of tijdelijk afwezig is" de zinsnede ", die geschorst is" ingevoegd, wordt tussen het woord "verhinderd" en de woorden "of tijdelijk afwezig is" de zinsnede ", geschorst" ingevoegd, wordt tussen de woorden "akte van de verhindering" en de zinsnede ", en van de beëindiging" de zinsnede "of schorsing," ingevoegd en worden tussen de woorden "beëindiging van de periode van verhindering" en de woorden "Als het" de woorden "of schorsing" ingevoegd.
 
+### ART 30.
+
+Aan artikel 10, eerste lid, van hetzelfde decreet worden een punt 8° en 9° toegevoegd, die luiden als volgt:<br>
+"8° de leidend ambtenaar van een sociale huisvestingsmaatschappij tot wiens werkgebied de gemeente behoort;<br>
+9° de leidend ambtenaar van een intergemeentelijk samenwerkingsverband waaraan de gemeente deelneemt.".
+
 ### ART 31.
 
 In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
@@ -416,6 +422,10 @@ In artikel 95 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 3° het bestaande vierde lid, dat het vijfde lid wordt, wordt vervangen door wat volgt:<br>
 "Als de vervanging, vermeld in het eerste lid, niet kan doorgaan of niet plaatsvindt binnen zestig dagen, gebeurt, met behoud van de toepassing van artikel 94, eerste lid, de vervanging bij een geheime stemming in een stemronde waarbij elk lid van de raad voor maatschappelijk welzijn over een stem beschikt en waarbij de kandidaat die de meeste stemmen behaalt, als verkozen wordt verklaard. Elke lijst of groep van lijsten kan daarvoor een akte van voordracht indienen conform artikel 92, derde tot en met zevende lid. Bij staking van stemmen is de jongste kandidaat verkozen.".
 
+### ART 51.
+
+In artikel 100, eerste lid, van hetzelfde decreet wordt de zinsnede "Artikel 10" vervangen door de zinsnede "Artikel 10, met uitzondering van het eerste lid, 5°, ".
+
 ### ART 52.
 
 Artikel 104 van hetzelfde decreet wordt vervangen door wat volgt:<br>
@@ -455,6 +465,14 @@ Aan artikel 111, eerste lid, van hetzelfde decreet worden een punt 6°, 7° en 8
 "6° de keuze om digitaal of hybride te vergaderen en de wijze waarop;<br>
 7° de uitzonderlijke omstandigheden waaronder het bijzonder comité voor de sociale dienst digitaal kan vergaderen, als het huishoudelijk reglement de mogelijkheid van digitaal vergaderen opneemt;<br>
 8° de uitzonderlijke omstandigheden waaronder het bijzonder comité voor de sociale dienst hybride kan vergaderen, als het huishoudelijk reglement de mogelijkheid van hybride vergaderen opneemt.".
+
+### ART 55.
+
+&nbsp;In artikel 119, eerste lid, van hetzelfde decreet wordt de zinsnede "artikel 10, eerste lid, 5°, " vervangen door de zinsnede "artikel 10, eerste lid, 5°, 8° en 9° ".,".
+
+### ART 56.
+
+In artikel 122, tweede lid, van hetzelfde decreet worden de woorden "met dien verstande dat personeelsleden van het openbaar centrum voor maatschappelijk welzijn kunnen zetelen in het districtscollege" vervangen door de zinsnede "met dien verstande dat artikel 10, eerste lid, 4°, wat betreft de personeelsleden van het openbaar centrum voor maatschappelijk welzijn en de personeelsleden van de gemeentelijke extern verzelfstandigde agentschappen, 5°, 8° en 9°, niet van toepassing is op de districtsburgemeester en de districtsschepenen,".
 
 ### ART 57.
 
