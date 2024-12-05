@@ -33,7 +33,8 @@ a) te beslissen over de aanvragen tot afwijking, vermeld in artikel 18, § 2, 4�
 b) de voorafgaande schriftelijke toestemming te verlenen en te beslissen over de aard van de afwijking, vermeld in artikel 24bis, tweede lid, van het voormelde besluit van 23 juli 1992;<br>
 7° beroepen over de ongeschikt- en onbewoonbaarverklaring en het sociaal beheer ontvankelijk te verklaren;<br>
 8° beroepen vermeld in artikel 3.54 van de Vlaamse Codex Wonen van 2021 over de verzegeling en de weigering tot opheffing ervan te behandelen;<br>
-9° de bevoegdheid die aan de Vlaamse minister, bevoegd voor de huisvesting, is toegekend met toepassing van artikel 6.22, §3, derde lid, van het Besluit Vlaamse Codex Wonen van 2021, uit te oefenen.<br>
+9° de bevoegdheid die aan de Vlaamse minister, bevoegd voor de huisvesting, is toegekend met toepassing van artikel 6.22, §3, derde lid, van het Besluit Vlaamse Codex Wonen van 2021, uit te oefenen;<br>
+10° de bevoegdheid die aan de Vlaamse minister, bevoegd voor de huisvesting, is toegekend met toepassing van artikel 5.47/1, §3 eerste lid, §4, vierde en zevende lid, §5, vierde lid, artikel 5.47/3, §2, eerste lid, artikel 5.47/4, §1, vierde en zevende lid, §2, vierde lid en artikel 5.47/7, vijfde lid van het Besluit Vlaamse Codex Wonen van 2021, uit te oefenen.<br>
 &nbsp;
 
 ### ART 3.
