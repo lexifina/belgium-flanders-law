@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040398,
+  "title": "Ministerieel besluit van 2024-09-27 tot wijziging van artikel 17 en 67 van het ministerieel besluit van 8 november 2021 tot uitvoering van het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten en tot opheffing van het besluit van de secretaris-generaal van 3 december 2021 tot vaststelling van het toegelaten aantal vee-eenheden per hectare in de biologische productie in het kader van stikstofuitscheiding op landbouwpercelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040398/VolledigDocument?datum=2024-12-06",
+  "source_sha256": "db9fe37e958c31677e569de92bc0f738fec56ccb9494c40d4a3545c191b82b20",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040398&param=informatie",
+  "as_of": "2024-12-06",
+  "made": "2024-09-27",
+  "gazette": "2024-11-26",
+  "numac": 2024010775,
+  "document_start": "2024-12-06",
+  "document_end": null,
+  "in_force": "2024-12-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2024-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
