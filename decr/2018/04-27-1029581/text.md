@@ -1819,7 +1819,7 @@ Een beslissing om een exclusieve bestuurlijke geldboete op te leggen, bevat naas
 3° de wijze waarop en de termijn waarin de geldboete betaald moet worden;<br>
 4° de mogelijkheid om beroep aan te tekenen en de wijze waarop en de termijn waarin dat moet gebeuren;<br>
 5° de vermelding dat:<br>
-a) na een herinnering tot betaling en nadat de beroepstermijn is verstreken, de bestuurlijke geldboete wordt ingevorderd overeenkomstig artikel 2 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren;<br>
+a) na een herinnering tot betaling en nadat de beroepstermijn is verstreken, de bestuurlijke geldboete wordt ingevorderd overeenkomstig het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen;<br>
 b) die maatregel op kosten van de beboete persoon wordt uitgevoerd overeenkomstig artikel 1024 van het Gerechtelijk Wetboek.
 
 ### ART 151.
@@ -1905,7 +1905,7 @@ Een beslissing om een alternatieve bestuurlijke geldboete op te leggen, bevat na
 5° in voorkomend geval, de mogelijkheid tot herroeping van het uitstel van betaling;<br>
 6° de mogelijkheid om beroep aan te tekenen, en de wijze waarop en de termijn waarin dat moet gebeuren;<br>
 7° de vermelding dat:<br>
-a) na een herinnering tot betaling en nadat de beroepstermijn is verstreken, de bestuurlijke geldboete wordt ingevorderd overeenkomstig artikel 2 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren;<br>
+a) na een herinnering tot betaling en nadat de beroepstermijn is verstreken, de bestuurlijke geldboete wordt ingevorderd overeenkomstig het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen;<br>
 b) die maatregel op kosten van de beboete persoon wordt uitgevoerd overeenkomstig artikel 1024 van het Gerechtelijk Wetboek.
 
 ### ART 164.
@@ -1942,7 +1942,7 @@ Op verzoek van de overtreder en als daartoe aanleiding bestaat, kan een langere 
 
 ### ART 169.
 
-Als de overtreder weigert de bestuurlijke geldboete te betalen, wordt ze na een herinnering om te betalen en nadat de beroepstermijn is verstreken, ingevorderd conform artikel 2 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.
+Als de overtreder weigert de bestuurlijke geldboete te betalen, wordt ze na een herinnering om te betalen en nadat de beroepstermijn is verstreken, ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.
 
 ### ART 170.
 
@@ -2075,7 +2075,7 @@ De beboete uitbetalingsactor kan bij de Raad van State beroep aantekenen tegen d
 
 ### ART 187.
 
-Als de uitbetalingsactor weigert de administratieve geldboete te betalen, wordt ze na een herinnering om te betalen en nadat de beroepstermijn is verstreken, ingevorderd conform artikel 2 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.
+Als de uitbetalingsactor weigert de administratieve geldboete te betalen, wordt ze na een herinnering om te betalen en nadat de beroepstermijn is verstreken, ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.
 
 ### ART 188.
 
