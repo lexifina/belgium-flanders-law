@@ -741,7 +741,7 @@ In afwijking van paragraaf 1 meldt het EVA in de gevallen, vermeld in paragraaf 
 
 <p>§ 2. Het EVA stelt een inbreuk vast. De vaststellingen gelden tot bewijs van het tegendeel.</p>
 
-<p>De Vlaamse Regering wijst het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid aan die de administratieve geldboete oplegt. Een administratieve geldboete kan alleen worden opgelegd binnen de termijn van twee jaar nadat een inbreuk is vastgesteld.</p>
+<p>De Vlaamse Regering wijst het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid aan die de administratieve geldboete oplegt.&nbsp;Een administratieve geldboete kan alleen worden opgelegd binnen de termijn van twee jaar nadat een inbreuk is vastgesteld.</p>
 
 <p>Een administratieve geldboete kan pas opgelegd worden nadat :<br>
 1° de betrokken inburgeraar van het EVA een schriftelijke aanmaning heeft ontvangen om zich in regel te stellen;<br>
@@ -754,7 +754,7 @@ In afwijking van paragraaf 1 meldt het EVA in de gevallen, vermeld in paragraaf 
 
 <p>De Vlaamse Regering bepaalt de termijn en de nadere regels voor de betaling van de administratieve geldboete.</p>
 
-<p>Met behoud van de toepassing van het decreet van 22 februari 1995 tot regeling van de invordering van de niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren en het decreet van 22 februari 1995 tot regeling van de invordering van de niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren, wijst de Vlaamse Regering de personeelsleden aan die een dwangbevel kunnen uitvaardigen en uitvoerbaar verklaren met het oog op de inning van de administratieve geldboete. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.</p>
+<p>Met behoud van de toepassing van het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen, wijst de Vlaamse Regering de personeelsleden aan die een dwangbevel kunnen uitvaardigen en uitvoerbaar verklaren met het oog op de inning van de administratieve geldboete. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.</p>
 
 <p>De vordering tot voldoening van een administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 van het Burgerlijk Wetboek.</p>
 
