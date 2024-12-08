@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040400,
+  "title": "Besluit van de Vlaamse Regering van 2024-11-08 tot regeling van de invordering van niet-fiscale schuldvorderingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040400/VolledigDocument?datum=2024-12-08",
+  "source_sha256": "d8e2340245c1650b27163832cd929b849452b86efe7100a639d3ee687fa2e62b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040400&param=informatie",
+  "as_of": "2024-12-08",
+  "made": "2024-11-08",
+  "gazette": "2024-11-28",
+  "numac": 2024010787,
+  "document_start": "2024-12-08",
+  "document_end": null,
+  "in_force": "2024-12-08",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2024-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
