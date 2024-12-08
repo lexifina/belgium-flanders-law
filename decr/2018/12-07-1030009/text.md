@@ -1441,15 +1441,7 @@ De intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiek
 
 ### ART III.21.
 
-§ 1. Op verzoek van een intern verzelfstandigd agentschap met rechtspersoonlijkheid of een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, en met het akkoord van de Vlaamse Regering kunnen de personeelsleden die de Vlaamse Regering aanstelde belast worden met de invordering van de onbetwiste en opeisbare niet-fiscale schuldvorderingen, met de invordering van de administratieve geldboeten en met de invordering van de toebehoren in naam en voor rekening van het agentschap.<br>
-<br>
-In dit artikel wordt verstaan onder toebehoren: interesten, invorderingskosten, rechtsplegingsvergoedingen, gerechtskosten en betekeningskosten.<br>
-<br>
-De met invordering belaste personeelsleden zijn gemachtigd om de onbetwiste en opeisbare niet-fiscale schuldvorderingen, de administratieve geldboeten en de toebehoren in te vorderen op de wijze, vermeld in artikel 2 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren voor de gemeenschapsaangelegenheden en in artikel 2 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren voor de gewestelijke aangelegenheden.<br>
-<br>
-§ 2. Met behoud van de toepassing van specifieke regelingen in wetten, decreten en verordeningen, zijn de personeelsleden, vermeld in paragraaf 1, gemachtigd om, na instemming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid of het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap in kwestie, aan de schuldenaars van onbetwiste en opeisbare niet-fiscale schuldvorderingen, van administratieve geldboeten en van toebehoren die bijzondere omstandigheden kunnen bewijzen, uitstel van betaling toe te staan en gedeeltelijke betalingen vooreerst op het kapitaal aan te rekenen.<br>
-<br>
-De personeelsleden, vermeld in paragraaf 1, kunnen, met instemming van het betrokken publiekrechtelijk vormgegeven extern verzelfstandigd agentschap of intern verzelfstandigd agentschap met rechtspersoonlijkheid in kwestie, gehele of gedeeltelijke kwijtschelding van de schuld in intresten verlenen als de schuldenaar kennelijk onvermogend is.
+...
 
 ## HOOFDSTUK 2. Deugdelijk bestuur
 
