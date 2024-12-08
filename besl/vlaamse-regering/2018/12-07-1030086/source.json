@@ -2,16 +2,16 @@
   "codex_id": 1030086,
   "title": "Besluit van de Vlaamse Regering van 2018-12-07 tot bepaling van de inlichtingen van het verslag, het opleggen van concrete beschermende maatregelen, het delen van gegevens, documenten en informatiedragers en het opleggen van een administratieve geldboete, in uitvoering van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030086/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "3f80590127274322921cc10fde459de29dfd2573ec19015f46df68d189c03634",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030086/VolledigDocument?datum=2024-12-08",
+  "source_sha256": "d712a9608173541095afc698a4db6443d2aec6579d4a1a878fe1b9ca4cfc3b05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030086&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2024-12-08",
   "made": "2018-12-07",
   "gazette": "2019-01-09",
   "numac": 2018015593,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2024-12-08",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-08; future article versions excluded; article text as the API gives it"
 }

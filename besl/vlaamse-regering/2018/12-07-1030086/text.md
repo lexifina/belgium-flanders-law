@@ -271,9 +271,7 @@ De diensten van de Vlaamse Gemeenschap, het Vlaamse Gewest, provincies, federati
 <br>
 De beslissing waarin de leidend ambtenaar de administratieve geldboete oplegt, wordt aan de betrokkene overhandigd tegen afgifte van een ontvangstbewijs. De beslissing vermeldt dat de administratieve geldboete moet worden betaald binnen dertig dagen na de dag van de ontvangst van de beslissing.<br>
 <br>
-§ 2. Als de betrokkene de administratieve geldboete, vermeld in paragraaf 1, weigert te betalen, wordt de geldboete ingevorderd door de personeelsleden, vermeld in artikel 2, eerste lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.<br>
-<br>
-De ambtenaren, vermeld in het eerste lid, kunnen een dwangbevel geven en uitvoerbaar verklaren.
+§ 2. Als de betrokkene de administratieve geldboete, vermeld in paragraaf 1, weigert te betalen, wordt de geldboete ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.
 
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
