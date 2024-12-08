@@ -145,7 +145,7 @@ De gerecupereerde bedragen die voortvloeien uit de uitwinning van de zekerheden 
 
 ### ART. 26.
 
-De   door het VLIF uitbetaalde waarborgen worden ingevorderd conform de bepalingen   van het decreet van 22 februari 1995 tot regeling van de invordering van   niet-fiscale schuldvorderingen voor het Vlaams Gewest en de instellingen die   eronder ressorteren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De door het VLIF uitbetaalde waarborgen kunnen worden ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.
 
 ### ART. 27.
 
