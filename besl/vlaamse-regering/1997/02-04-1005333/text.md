@@ -18,7 +18,11 @@ Het VLAM wordt belast met de inning van de verplichte bijdragen.
 
 ### ART. 5.
 
-§ 1. Tenzij anders geregeld in een specifiek bijdragesysteem moeten de verplichte bijdragen betaald worden binnen dertig dagen na facturatiedatum.<br /><br />§ 2. Als de verplichte bijdragen niet tijdig betaald zijn, is van rechtswege en zonder ingebrekestelling of aanmaning met ingang van de vervaldatum van de factuur een nalatigheidsintrest verschuldigd tegen de wettelijke rentevoet. Tevens moeten de door het VLAM, en wanneer beroep gedaan wordt op de centrale invorderingscel van het Ministerie van de Vlaamse Gemeenschap, effectief gemaakte extra administratieve en inningskosten verhoudingsgewijs vergoed worden, met een forfaitair minimum van 75 euro per achterstallige bijdrage.<br /><br />§ 3. Het VLAM kan de achterstallige bijdragen ter inning overdragen aan de centrale invorderingscel van het ministerie van de Vlaamse Gemeenschap, opgericht ingevolge het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.
+§1. Tenzij anders geregeld in een specifiek bijdragesysteem moeten de verplichte bijdragen betaald worden binnen dertig dagen na facturatiedatum.<br>
+<br>
+§2. Als de verplichte bijdragen niet tijdig betaald zijn, is van rechtswege en zonder ingebrekestelling of aanmaning met ingang van de vervaldatum van de factuur een nalatigheidsintrest verschuldigd tegen de wettelijke rentevoet. Tevens moeten de door het VLAM, en wanneer beroep gedaan wordt op de centrale invorderingscel van het Ministerie van de Vlaamse Gemeenschap, effectief gemaakte extra administratieve en inningskosten verhoudingsgewijs vergoed worden, met een forfaitair minimum van 75 euro per achterstallige bijdrage.<br>
+<br>
+§3. De achterstallige bijdragen kunnen worden ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.
 
 ### ART. 5bis.
 
