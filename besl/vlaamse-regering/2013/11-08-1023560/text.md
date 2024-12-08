@@ -644,7 +644,7 @@ b) de besteding van de subsidie aan de uitbesteding van activiteiten;<br>
 
 ### ART. 66.
 
-<P>Als de dienst voor pleegzorg de administratieve geldboete, opgelegd met   toepassing van artikel 27 van het decreet van 29 juni 2012, niet tijdig betaalt,   wordt de geldboete ingevorderd door de ambtenaren, vermeld in artikel 2, eerste   lid, van het decreet van 22 februari 1995 tot regeling van de invordering van   niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen   die eronder ressorteren.<BR></P>  <P>De ambtenaren, vermeld in het eerste lid, kunnen een dwangbevel geven en   uitvoerbaar verklaren.<BR></P>
+<p>Als de dienst voor pleegzorg de administratieve geldboete, opgelegd met toepassing van artikel 27 van het decreet van 29 juni 2012, niet tijdig betaalt, wordt de geldboete ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.</p>
 
 ## HOOFDSTUK 7 Wijzigingsbepalingen
 

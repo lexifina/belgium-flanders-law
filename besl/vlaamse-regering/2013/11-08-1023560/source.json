@@ -2,16 +2,16 @@
   "codex_id": 1023560,
   "title": "Besluit van de Vlaamse Regering van 2013-11-08 houdende de organisatie van pleegzorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023560/VolledigDocument?datum=2024-08-08",
-  "source_sha256": "045f579e2e235661cf1a0b70c2c756c1f6fc078d026b82a311e76d1ef1d1c899",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023560/VolledigDocument?datum=2024-12-08",
+  "source_sha256": "f5a3413459e62a9a530d652a873f47db449f757ab7cd57f0479b71a607d7f675",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023560&param=informatie",
-  "as_of": "2024-08-08",
+  "as_of": "2024-12-08",
   "made": "2013-11-08",
   "gazette": "2014-01-14",
   "numac": 2013207407,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2024-08-08",
+  "in_force": "2024-12-08",
   "article_versions": 126,
-  "record_form": "consolidated version as in force on 2024-08-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-08; future article versions excluded; article text as the API gives it"
 }
