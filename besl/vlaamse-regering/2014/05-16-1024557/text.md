@@ -69,7 +69,7 @@ Onder het registratiesysteem, vermeld in artikel 43, § 3, van het decreet   van
 
 ### ART. 11.
 
-<P>Als de betrokkene de administratieve geldboete, vermeld in artikel 76 van het   decreet van 21 november 2003, weigert te betalen, wordt de geldboete ingevorderd   door de ambtenaren, vermeld in artikel 2, eerste lid, van het decreet van 22   februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen   voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren.<BR></P>  <P>De ambtenaren, vermeld in het eerste lid, kunnen een dwangbevel geven en   uitvoerbaar verklaren als vermeld in artikel 2, derde en vierde lid, van het   voormelde decreet van 22 februari 1995.<BR></P>
+<p>Als de betrokkene de administratieve geldboete, vermeld in artikel 76 van het decreet van 21 november 2003, weigert te betalen, wordt de geldboete ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.</p>
 
 ## HOOFDSTUK 3 Wijzigingen van het besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid
 
