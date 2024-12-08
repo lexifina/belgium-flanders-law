@@ -729,7 +729,7 @@ De betaling van de administratieve geldboete en de eventuele invorderingskosten 
 <br>
 § 7. De Vlaamse regering bepaalt de termijn en de nadere regelen voor de betaling van de administratieve geldboeten.<br>
 <br>
-§ 8. Onverminderd de decreten van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor, respectievelijk de Vlaamse Gemeenschap en het Vlaamse Gewest, en de instellingen die eronder ressorteren zal de Vlaamse regering bij besluit de ambtenaren binnen haar administratie machtigen om de in dit decreet bedoelde onbetwiste en opeisbare administratieve geldboeten en eventuele invorderingskosten te verhalen.<br>
+§ 8. Onverminderd het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen zal de Vlaamse regering bij besluit de ambtenaren binnen haar administratie machtigen om de in dit decreet bedoelde onbetwiste en opeisbare administratieve geldboeten en eventuele invorderingskosten te verhalen.<br>
 <br>
 De ambtenaar aangewezen krachtens artikel 15, tweede lid, van dit decreet deelt de beslissing van hemzelf of van het ar-beidsgerecht die in kracht van gewijsde is gegaan mede aan de door deze paragraaf gemachtigde ambtenaren.
 
