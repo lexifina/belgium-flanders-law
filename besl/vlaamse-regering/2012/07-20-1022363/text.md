@@ -973,17 +973,9 @@ Als een activiteitenverbod of een administratieve geldboete met uitstel wordt op
 
 ### ART. 56.
 
-§ 1. De personeelsleden van de Vlaamse Belastingdienst worden ermee belast om de onbetwiste en opeisbare administratieve geldboetes en eventuele invorderingskosten op de betrokken personen te verhalen.<br>
+De onbetwiste en opeisbare administratieve geldboeten en eventuele invorderingskosten worden ingevorderd conform het decreet van 19 april 2024 tot regeling van de invordering van niet-fiscale schuldvorderingen.<br>
 <br>
-De personeelsleden, vermeld in het eerste lid, zijn ertoe gemachtigd om een dwangbevel uit te vaardigen.<br>
-<br>
-Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de personeelsleden, vermeld in het eerste lid, en wordt betekend bij exploot van een gerechtsdeurwaarder.<br>
-<br>
-§ 2. De personeelsleden, vermeld in paragraaf 1, eerste lid, zijn ertoe gemachtigd om aan de schuldenaars van onbetwiste en opeisbare administratieve geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel van betaling toe te staan en gedeeltelijke betalingen eerst op het kapitaal aan te rekenen.<br>
-<br>
-De personeelsleden, vermeld in paragraaf 1, eerste lid, kunnen gehele of gedeeltelijke kwijtschelding van de schuld in interesten verlenen als de schuldenaar kennelijk onvermogend is.<br>
-<br>
-In de gevallen waarin de toestand van de schuldenaar&nbsp;te goeder trouw dat wettigt, kan de Vlaamse Regering met hem dadingen aangaan.
+In de gevallen waarin de toestand van de schuldenaar te goeder trouw dat wettigt, kan de Vlaamse Regering met hem dadingen aangaan.
 
 ## DEEL 8. Rapportering door aanvragers
 
