@@ -2,16 +2,16 @@
   "codex_id": 1026383,
   "title": "Besluit van de Vlaamse Regering van 2015-12-11 houdende de maatregelen in het kader van de handhaving van de voorwaarden voor gezinsopvang en groepsopvang van baby's en peuters (citeeropschrift: \"Handhavingsbesluit Baby's en Peuters van 11 december 2015\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026383/VolledigDocument?datum=2024-07-25",
-  "source_sha256": "d7d17025d510918322766bd0519425ad9c9348ff25f1f6e15b82f6c0f5df31d3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026383/VolledigDocument?datum=2024-12-08",
+  "source_sha256": "b0e61a33c1d2d2f7248a825948763f3d90b0e42cafdfa6f309fda89b74a70e93",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026383&param=informatie",
-  "as_of": "2024-07-25",
+  "as_of": "2024-12-08",
   "made": "2015-12-11",
   "gazette": "2016-02-03",
   "numac": 2016035081,
   "document_start": "2016-02-13",
   "document_end": "2026-02-28",
-  "in_force": "2024-07-25",
+  "in_force": "2024-12-08",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2024-07-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-08; future article versions excluded; article text as the API gives it"
 }
