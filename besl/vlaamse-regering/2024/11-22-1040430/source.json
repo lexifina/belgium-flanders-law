@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040430,
+  "title": "Besluit van de Vlaamse Regering van 2024-11-22 tot weigering van een opsporingsvergunning voor aardwarmte in de regio Lommel aan de vennootschap GEO@Lommel nv",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040430/VolledigDocument?datum=2024-12-16",
+  "source_sha256": "046620c9cc57df1495f2fa9ee751f61f5967433bec79b1f668f4e8b5a40149db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040430&param=informatie",
+  "as_of": "2024-12-16",
+  "made": "2024-11-22",
+  "gazette": "2024-12-06",
+  "numac": 2024011035,
+  "document_start": "2024-12-16",
+  "document_end": null,
+  "in_force": "2024-12-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2024-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
