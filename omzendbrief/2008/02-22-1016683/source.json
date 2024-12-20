@@ -2,16 +2,16 @@
   "codex_id": 1016683,
   "title": "Omzendbrief van 2008-02-22 BB 2008/01. - Toepassing van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016683/VolledigDocument?datum=2008-02-22",
-  "source_sha256": "8bcedba1a4e54a1c53514b1b9206f91880ead1b9eddc6d2933ccf06a473da01d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016683/VolledigDocument?datum=2024-12-20",
+  "source_sha256": "6a425a0cac293bac6b09380283e6f067b2b22db5dc310fba6ee4c06e7c5a25ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016683&param=informatie",
-  "as_of": "2008-02-22",
+  "as_of": "2024-12-20",
   "made": "2008-02-22",
   "gazette": "2008-03-26",
   "numac": 2008200813,
   "document_start": "2008-02-22",
   "document_end": "2024-01-19",
-  "in_force": "2008-02-22",
+  "in_force": "2024-12-20",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2008-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-20; future article versions excluded; article text as the API gives it"
 }
