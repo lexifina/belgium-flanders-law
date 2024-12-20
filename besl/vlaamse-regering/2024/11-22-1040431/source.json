@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040431,
+  "title": "Besluit van de Vlaamse Regering van 2024-11-22 over het milieuvriendelijke uitzonderlijk vervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040431/VolledigDocument?datum=2024-12-20",
+  "source_sha256": "7c1cbbdf8f592e2194aaa6399dfd9173e0583505bfefb240551e8734ee1dc8b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040431&param=informatie",
+  "as_of": "2024-12-20",
+  "made": "2024-11-22",
+  "gazette": "2024-12-10",
+  "numac": 2024011075,
+  "document_start": "2024-12-20",
+  "document_end": "2027-12-31",
+  "in_force": "2024-12-20",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2024-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
