@@ -3179,6 +3179,16 @@ De Vlaamse Regering kan ook een retributie vastleggen voor de verwerking van de 
 
 Onverminderd enige andersluidende bepaling worden de bouw en de aanleg, met inbegrip van de bijbehorende infrastructuur, van productie installaties voor warmtekrachtkoppeling en hernieuwbare energie, in ieder geval windturbines, beschouwd als zijnde van maatschappelijk belang. De Vlaamse Regering kan nadere voorwaarden vastleggen waaraan het vermogen van een dergelijke productie-installatie moet voldoen om als van maatschappelijk belang zijnde te worden beschouwd.
 
+## HOOFDSTUK I/3. Statistische overdracht van energie uit hernieuwbare bronnen
+
+### ART 7.1/3.1.
+
+De Vlaamse Regering wordt gemachtigd statistieken aan te kopen van landen of andere gefedereerde entiteiten met een overschot ten opzichte van hun hernieuwbare-energiedoelstelling in uitvoering van de Europese richtlijn ter bevordering van de energieproductie uit hernieuwbare energiebronnen.<br>
+<br>
+De Vlaamse Regering wordt gemachtigd statistieken te verkopen aan landen of andere gefedereerde entiteiten met een tekort ten opzichte van hun hernieuwbare- energiedoelstelling in uitvoering van de Europese richtlijn ter bevordering van de energieproductie uit hernieuwbare energiebronnen.<br>
+<br>
+Die richtlijn voorziet dat de lidstaten met een tekort dit mogen compenseren door de aankoop van statistieken van landen met een overschot ten opzichte van hun hernieuwbare-energiedoelstelling.
+
 ## [HOOFDSTUK II. Energiedelen, peer-to-peerhandel in hernieuwbare energie en de peer-to-peerhandel van groene stroom door één actieve afnemer aan één andere actieve afnemer (verv. decr. 2 april 2021, art. 60, I: 7 juni 2021)][, en de verkoop van groene stroom in appartementsgebouwen of multifunctionele gebouwen (verv. decr. 23 december 2022, art. 6, I: 1 april 2023)]
 
 ### ART. 7.2.1.
