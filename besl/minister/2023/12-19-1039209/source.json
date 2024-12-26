@@ -2,16 +2,16 @@
   "codex_id": 1039209,
   "title": "Ministerieel besluit van 2023-12-19 tot aanwijzing van de bevoegde vertegenwoordigers in de coördinatiegroep in het Vlaamse Gewest ter uitvoering van het samenwerkingsakkoord van 13 juli 2021 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, betreffende de coördinatie van het beleid inzake grensoverschrijdende overbrenging van afvalstoffen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039209/VolledigDocument?datum=2023-12-19",
-  "source_sha256": "7983b90cfbe7f508f5d7c42b800968727345d617072df9b0d90c2177a431a358",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039209/VolledigDocument?datum=2024-12-26",
+  "source_sha256": "2063ae09950389ee5f4a2ebe76496e1a7f94e28905155dc397d4bad87fba7e30",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039209&param=informatie",
-  "as_of": "2023-12-19",
+  "as_of": "2024-12-26",
   "made": "2023-12-19",
   "gazette": "2024-01-18",
   "numac": 2024000266,
   "document_start": "2023-12-19",
   "document_end": null,
-  "in_force": "2023-12-19",
+  "in_force": "2024-12-26",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2023-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2024-12-26; future article versions excluded; article text as the API gives it"
 }

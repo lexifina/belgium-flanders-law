@@ -27,7 +27,7 @@ De volgende personen worden voor het Vlaamse Gewest aangewezen als vertegenwoord
 1° Tom Nuyts, afdeling Handhaving, departement Omgeving, met als plaatsvervanger An Van Steenbergen, afdeling Handhaving, departement Omgeving;<br>
 2° Saartje Sonck, afdeling Handhaving, departement Omgeving, met als plaatsvervanger Julie Serrien, afdeling Handhaving, departement Omgeving;<br>
 3° Dave Van Hasselt, Openbare Vlaamse Afvalstoffenmaatschappij, met als plaatsvervanger Nora Vernimmen, Openbare Vlaamse Afvalstoffenmaatschappij;<br>
-4° Ann De Jonghe, Openbare Vlaamse Afvalstoffenmaatschappij, met als plaatsvervanger Christof Delatter, Openbare Vlaamse Afvalstoffenmaatschappij;
+4° Hanne Dons, Openbare Vlaamse Afvalstoffenmaatschappij, met als plaatsvervanger Elizabeth Cazaerck, Openbare Vlaamse Afvalstoffenmaatschappij.
 
 ### ART 3.
 
