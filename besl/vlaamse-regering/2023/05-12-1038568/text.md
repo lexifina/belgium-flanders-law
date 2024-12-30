@@ -805,7 +805,7 @@ Tabel met beheerpakketten als vermeld in artikel 15, 26 en 57<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:350px">knotten</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">het bufferen of verbinden</td>
+			<td rowspan="6" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:302px">het bufferen of verbinden</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:350px">akkerrand</td>
 		</tr>
 		<tr>
@@ -816,6 +816,9 @@ Tabel met beheerpakketten als vermeld in artikel 15, 26 en 57<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:350px">kruidenrijke akkerrand 15 juli gefaseerd maaien</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:350px">kruidenrijke akkerrand 15 juli gefaseerd klepelen</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:350px">bloemenakker</td>
