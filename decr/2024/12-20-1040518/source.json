@@ -2,16 +2,16 @@
   "codex_id": 1040518,
   "title": "Decreet van 2024-12-20 tot wijziging van de regelgeving over de operationalisering van de Vlaamse Nutsregulator, wat betreft de opheffing van artikel 4, §5, en een aanpassing van de inwerkingtredingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040518/VolledigDocument?datum=2024-12-20",
-  "source_sha256": "1160aa2e56846e4a0a726a346ac65262767e2e45aeb6749e97db2fe9b143e6f8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040518/VolledigDocument?datum=2024-12-30",
+  "source_sha256": "26946ed2d845299bc07bd9684efb6ca4a6a06ced9c39927b5ec5103fe60400fc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040518&param=informatie",
-  "as_of": "2024-12-20",
+  "as_of": "2024-12-30",
   "made": "2024-12-20",
   "gazette": "2024-12-30",
   "numac": 2024011940,
   "document_start": "2024-12-30",
   "document_end": null,
-  "in_force": "2024-12-20",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2024-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-12-30",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2024-12-30; future article versions excluded; article text as the API gives it"
 }
