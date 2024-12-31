@@ -926,6 +926,31 @@ Het agentschap kan de aanvraag toekennen:<br>
 1° voor onbepaalde duur, voor de periode dat het kind in de kinderopvanglocatie opgevangen wordt;<br>
 2° voor bepaalde duur, voor de periode dat er een specifieke zorgbehoefte aanwezig is.
 
+## Onderafdeling 6. Aanvraag tot uitbetaling van de subsidie voor de versterking van het medewerkersbeleid
+
+### ART 94/1.
+
+Een aanvraag tot uitbetaling van een subsidie voor de versterking van het medewerkersbeleid wordt per kinderopvanglocatie waarvoor de organisator aan de voorwaarden voldoet, bij het agentschap ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt en dat al de volgende gegevens bevat:<br>
+1°&nbsp;&nbsp; &nbsp;de identiteitsgegevens en de contactgegevens van de organisator, waaronder de naam en het ondernemingsnummer van de organisator;<br>
+2°&nbsp;&nbsp; &nbsp;de identiteitsgegevens en de contactgegevens van de persoon die meer informatie kan geven over de aanvraag, waaronder de voor- en achternaam, het telefoonnummer en het e-mailadres van die persoon;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de kinderopvanglocatie waarvoor de uitbetaling van de subsidie gevraagd wordt, waaronder de naam en het dossiernummer;<br>
+4°&nbsp;&nbsp; &nbsp;informatie over de specifieke dienstverlening, namelijk:<br>
+a)&nbsp;&nbsp; &nbsp;het jaar waarvoor de uitbetaling gevraagd wordt en vanaf wanneer de organisator voldeed aan de voorwaarden, vermeld in artikel 50/7 van het Subsidiebesluit van 22 november 2013;<br>
+b)&nbsp;&nbsp; &nbsp;of de organisator werkt in groepen met alleen baby’s tot twaalf maanden, in groepen met naast baby’s tot twaalf maanden ook kinderen vanaf twaalf maanden, of in groepen met alleen kinderen vanaf twaalf maanden;<br>
+c)&nbsp;&nbsp; &nbsp;hoeveel medewerkers voor welke duur voor de begeleiding van de opgevangen kinderen ingezet werden;<br>
+5°&nbsp;&nbsp; &nbsp;een verklaring op erewoord over al de volgende elementen:<br>
+a)&nbsp;&nbsp; &nbsp;het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
+b)&nbsp;&nbsp; &nbsp;de kennisname en naleving van de voorwaarden voor de specifieke dienstverlening, vermeld in artikel 50/7 van het Subsidiebesluit van 22 november 2013;<br>
+c)&nbsp;&nbsp; &nbsp;het feit dat de organisator op verzoek van het agentschap onmiddellijk de nodige bewijsstukken kan voorleggen;<br>
+6°&nbsp;&nbsp; &nbsp;de datum en de handtekening van de organisator.<br>
+<br>
+De organisator kan de aanvraag tot uitbetaling van de subsidie voor de versterking van het medewerkersbeleid op zijn vroegst indienen als hij alle gegevens, vermeld in artikel 7, §1, tweede lid, 2°, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, of alle gegevens, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag, over het voorafgaand kalenderjaar heeft bezorgd aan het agentschap. De aanvraag wordt uiterlijk op 30 juni volgend op het kalenderjaar waarop de aanvraag betrekking heeft, ingediend.<br>
+&nbsp;
+
+### ART 94/2.
+
+De organisator die voor een kalenderjaar een beslissing tot uitbetaling van de subsidie voor de versterking van het medewerkersbeleid heeft ontvangen van het agentschap, kan geen nieuwe aanvraag meer indienen voor hetzelfde kalenderjaar.
+
 ## Afdeling 2 Ontvankelijkheid van de aanvraag
 
 ### ART. 95.
@@ -999,7 +1024,18 @@ Het agentschap bezorgt op de volgende wijze de beslissing over de subsidietoeken
 
 ### ART. 105.
 
-...
+Het agentschap beslist over de gegrondheid van de aanvraag, vermeld in artikel 94/1, uiterlijk zestig kalenderdagen nadat het agentschap de aanvraag heeft ontvangen.<br>
+<br>
+Het agentschap beslist tot uitbetaling van de subsidie voor de versterking van het medewerkersbeleid als aan al de volgende voorwaarden is voldaan:<br>
+1°&nbsp;&nbsp; &nbsp;de organisator voldoet aan de voorwaarden, vermeld in artikel 50/7 van het Subsidiebesluit van 22 november 2013;<br>
+2°&nbsp;&nbsp; &nbsp;de aanvraag is ingediend conform artikel 94/1 en 94/2 van dit besluit.<br>
+&nbsp;
+
+### ART 105/1.
+
+Het agentschap bezorgt op de volgende wijze de beslissing over de uitbetaling van de subsidie voor de versterking van het medewerkersbeleid aan de organisator:<br>
+1°&nbsp;&nbsp; &nbsp;in geval van een beslissing tot uitbetaling: elektronisch;<br>
+2°&nbsp;&nbsp; &nbsp;in geval van een weigering van de uitbetaling: elektronisch en met aangetekende brief.
 
 ## Afdeling 4 Heractiveren van een toekenning van subsidie voor structurele inclusieve kinderopvang na subsidie voor Centrum inclusieve kinderopvang
 
@@ -1044,7 +1080,7 @@ Het agentschap bezorgt de bevestiging van de stopzetting, vermeld in het eerste 
 
 ### ART. 108.
 
-De organisator kan uiterlijk dertig kalenderdagen na de kennisgeving van de beslissing, vermeld in artikel 20, 70 en 101, bezwaar aantekenen bij het agentschap met een aangetekende brief. De aangetekende brief moet de volgende gegevens bevatten:<br>
+De organisator kan uiterlijk dertig kalenderdagen na de kennisgeving van de beslissing, vermeld in artikel 20, 70, 101 en 105, bezwaar aantekenen bij het agentschap met een aangetekende brief. De aangetekende brief moet de volgende gegevens bevatten:<br>
 1° de naam en het ondernemingsnummer van de organisator;<br>
 2° de titel en datum van de beslissing van het agentschap waartegen bezwaar wordt aangetekend;<br>
 3° ...;<br>
