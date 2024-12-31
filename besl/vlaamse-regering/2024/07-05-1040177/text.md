@@ -108,6 +108,16 @@ Art. 25/3. Met behoud van de toepassing van artikel 16 voegt de verzoeker, in vo
 <br>
 Art. 25/4. Met behoud van de toepassing van artikel 19, betekent de griffier met een beveiligde zending een afschrift van het verzoekschrift aan de personen vermeld in artikel 31/0 van het decreet, als ze kunnen worden bepaald op basis van het verzoekschrift en de bijkomende overtuigingsstukken.”.
 
+### ART 10.
+
+Artikel 25/4 van hetzelfde besluit, zoals ingevoegd bij artikel 9, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 25/4. De griffier betekent met een beveiligde zending een afschrift van het verzoekschrift aan:<br>
+1° de verweerder;<br>
+2° de personen vermeld in artikel 31/0 van het decreet, als ze kunnen worden bepaald op basis van het verzoekschrift en de bijkomende overtuigingsstukken.<br>
+<br>
+Als het verzoekschrift een vordering tot schorsing bij hoogdringendheid bevat, betekent de griffier het afschrift binnen een ordetermijn van twintig dagen, die ingaat de dag na de dag waarop de griffie het verzoekschrift heeft ontvangen. Die ordetermijn geldt niet in een verkorte procedure als vermeld in artikel 26/2.”.
+
 ### ART 11.
 
 In artikel 26 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 21 april 2017, worden de volgende wijzigingen aangebracht:<br>
@@ -120,6 +130,12 @@ In artikel 26 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 Aan artikel 26/1, §2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 april 2017, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Artikel 19 en artikel 25/4 zijn niet van toepassing op de behandeling volgens de vereenvoudigde procedure.”.
+
+### ART 13.
+
+Artikel 26/1, §2, derde lid, van hetzelfde besluit, zoals ingevoegd bij artikel 12, wordt vervangen door wat volgt:<br>
+<br>
+“Artikel 25/4 is niet van toepassing op de behandeling volgens de vereenvoudigde procedure.”.
 
 ### ART 14.
 
@@ -422,6 +438,10 @@ In artikel 58, tweede lid, van hetzelfde besluit worden de volgende wijzigingen 
 Aan artikel 59/1, §2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 april 2017, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Artikel 19 is niet van toepassing op de behandeling volgens de vereenvoudigde procedure.”.
+
+### ART 30.
+
+In artikel 59/1, §2, derde lid, van hetzelfde besluit, zoals ingevoegd bij artikel 29, wordt de zinsnede “Artikel 19” vervangen door de zinsnede “Artikel 58/1, eerste en tweede lid,”.
 
 ### ART 31.
 

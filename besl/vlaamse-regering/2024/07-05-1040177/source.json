@@ -2,16 +2,16 @@
   "codex_id": 1040177,
   "title": "Besluit van de Vlaamse Regering van 2024-07-05 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges, wat betreft de uitbreiding van de procedure bij het Handhavingscollege, en tot bepaling van de inwerkingtreding van artikel 1, artikel 105 tot en met 116 en artikel 138 van het decreet van 26 april 2024 tot wijziging van diverse decreten, wat betreft de implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040177/VolledigDocument?datum=2024-09-07",
-  "source_sha256": "3b9ee0b25e9f7ebe60449d0422f0425eadaf2917b5781928c1b4e17b7b05a7cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040177/VolledigDocument?datum=2024-12-31",
+  "source_sha256": "42f81e4d727ce515174243e712678ba83516fcc19ecb44de2e7614878ad4fdb9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040177&param=informatie",
-  "as_of": "2024-09-07",
+  "as_of": "2024-12-31",
   "made": "2024-07-05",
   "gazette": "2024-08-28",
   "numac": 2024008006,
   "document_start": "2024-09-07",
   "document_end": null,
-  "in_force": "2024-09-07",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2024-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-12-31",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2024-12-31; future article versions excluded; article text as the API gives it"
 }
