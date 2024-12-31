@@ -280,6 +280,10 @@ De tussenkomende partijen kunnen niet worden gehouden tot de betaling van de rec
 <br>
 Geen partij kan worden gehouden tot de betaling van de rechtsplegingsvergoeding of die vergoeding genieten, als de procedure, vermeld in artikel 42, leidt tot een bekrachtigd bemiddelingsakkoord.</p>
 
+### ART 21/1
+
+De kamer waarbij de zaak aanhangig is, spreekt een arrest uit binnen een ordetermijn van zes maanden na de neerlegging van het verzoekschrift tot vernietiging, als het beroep een definitief vastgesteld voorkeursbesluit als vermeld in artikel 45 van het decreet van 25 april 2014 betreffende complexe projecten tot voorwerp heeft.
+
 ## Afdeling 4 Bepalingen die van toepassing zijn op de Raad voor Verkiezingsbetwistingen
 
 ## Onderafdeling 1 Rechtspleging in de procedures voor bezwaren tegen de verkiezing en bezwaren op grond van de schending van de regelgeving inzake de verkiezingsuitgaven door kandidaten en lijsttrekkers, alsmede de procedures voor de verkiezing en benoeming van de schepenen en de verkiezing van de opvolgers
