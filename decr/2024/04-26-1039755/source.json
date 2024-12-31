@@ -2,16 +2,16 @@
   "codex_id": 1039755,
   "title": "Decreet van 2024-04-26 tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft het optimaliseren van de regelgeving inzake complexe projecten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039755/VolledigDocument?datum=2024-07-07",
-  "source_sha256": "928b8b04861b0735c29ae62e279db9f5f33e942bfd0435963e3579f80b5bfac2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039755/VolledigDocument?datum=2024-12-31",
+  "source_sha256": "edb7ca00b6c974678cdf70bf5d97295d461ff5073a712b1bab1b77c8a8f62981",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039755&param=informatie",
-  "as_of": "2024-07-07",
+  "as_of": "2024-12-31",
   "made": "2024-04-26",
   "gazette": "2024-06-27",
   "numac": 2024005188,
   "document_start": "2024-07-07",
   "document_end": null,
-  "in_force": "2024-07-07",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2024-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2024-12-31",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2024-12-31; future article versions excluded; article text as the API gives it"
 }

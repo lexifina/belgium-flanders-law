@@ -8,6 +8,12 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## Hoofdstuk 2. Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges
 
+### ART 2.
+
+In het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, het laatst gewijzigd bij het decreet van 21 mei 2021, wordt een artikel 21/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 21/1. De kamer waarbij de zaak aanhangig is, spreekt een arrest uit binnen een ordetermijn van zes maanden na de neerlegging van het verzoekschrift tot vernietiging, als het beroep een definitief vastgesteld voorkeursbesluit als vermeld in artikel 45 van het decreet van 25 april 2014 betreffende complexe projecten tot voorwerp heeft.”.
+
 ## Hoofdstuk 3. Wijzigingen van het decreet van 25 april 2014 betreffende complexe projecten
 
 ### ART 3.
