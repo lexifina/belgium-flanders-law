@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040552,
+  "title": "Decreet van 2024-12-20 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2025",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040552/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "00204204308525e694cb3b81dd5b159c4f640b4d4fdae2eb66915122af0ce5a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040552&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-12-20",
+  "gazette": "2025-01-24",
+  "numac": 2025000401,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 134,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
