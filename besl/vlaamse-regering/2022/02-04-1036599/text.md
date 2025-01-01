@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Lokeren, Moerbeke en Waasmunster vormen het werkingsgebied Waasland-West.
+De gemeenten Lokeren en Waasmunster vormen het werkingsgebied Waasland-West.
 
 ### ART 2.
 
