@@ -188,6 +188,18 @@ Minstens 95% van het deel van het PAB dat wordt aangewend voor handelingen van e
 <br>
 Het agentschap bepaalt welke bewijsstukken de budgethouder op verzoek moet voorleggen ter staving van de kosten, vermeld in het derde lid.<br>
 <br>
+§2/1. De budgethouders kunnen een deel van het PAB besteden zonder dat ze dat hoeven te verantwoorden.<br>
+<br>
+Het deel, vermeld in het eerste lid, bedraagt:<br>
+1° 1.600 euro (duizendzeshonderd euro) als het maximumbedrag dat is bepaald conform artikel 8, §1, niet meer bedraagt dan 19.831,48 euro;<br>
+2° 2.800 euro (tweeduizendachthonderd euro) als het maximumbedrag dat is bepaald conform artikel 8, §1, tussen 19.831,48 euro en 34.705,09 euro bedraagt.&nbsp;<br>
+<br>
+Voor het eerste jaar van de toekenning van het PAB wordt het deel, vermeld in het eerste lid, herrekend naar rato van het aantal resterende dagen van het kalenderjaar.<br>
+<br>
+De budgethouders delen aan het agentschap met een kostenstaat de bedragen mee die ze hebben besteed met toepassing van het tweede en het derde lid. Het agentschap stort die bedragen op de bankrekening van de budgethouder, vermeld in artikel 8, §6, vierde lid, tot het deel, vermeld in het eerste lid, volledig is opgebruikt.<br>
+<br>
+Budgethouders kunnen pas een kostenstaat met bedragen die ze hebben besteed, met toepassing van het tweede en het derde lid, aan het agentschap bezorgen nadat ze met de besteding van het budget zijn gestart conform artikel 8, §6, tweede lid.<br>
+<br>
 § 3. Het PAB kan worden aangewend om de kosten die verband houden met de inzet van hoogdrempelige individuele bijstand te vergoeden.<br>
 <br>
 § 4. De kosten voor vervoer van de persoon met een handicap kunnen met het PAB worden vergoed met uitzondering van de kosten voor vervoer in verband met de schoolaanvullende of schoolvervangende dagopvang door een multifunctioneel centrum die wordt gesubsidieerd krachtens een andere reglementering op het gebied van de maatschappelijk integratie van personen met een handicap.<br>
