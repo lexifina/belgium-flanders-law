@@ -64,6 +64,22 @@ In artikel 4.1.8/2, eerste lid, 5°, van hetzelfde decreet, ingevoegd bij het de
 
 In artikel 4.1.11/7 van hetzelfde decreet, ingevoegd bij het decreet van 23 december 2022, worden de woorden “het aanleveren van de offerte of” opgeheven.
 
+### ART 9.
+
+Artikel 4.1.13 van hetzelfde decreet, gewijzigd bij het decreet van 18 maart 2022, wordt opgeheven.
+
+### ART 10.
+
+In artikel 4.1.16, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 10 maart 2017 en gewijzigd bij het decreet van 18 maart 2022, wordt de zinsnede “Onverminderd artikel 4.1.13 is voor de netuitbreiding of netversterking met het oog op de aansluiting van een wooneenheid of gebouw” vervangen door de woorden “Voor de netuitbreiding of netversterking met het oog op de aansluiting van een wooneenheid of gebouw is”.
+
+### ART 11.
+
+In artikel 4.1.16/1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 30 oktober 2020, wordt de zinsnede “artikel 4.1.13,” opgeheven.
+
+### ART 12.
+
+In artikel 4.1.16/2 van hetzelfde decreet, ingevoegd bij het decreet van 18 maart 2022 en gewijzigd bij het decreet van 17 juni 2022, wordt de zinsnede “4.1.13,” opgeheven.
+
 ### ART 13.
 
 In artikel 4.1.18/2 van hetzelfde decreet, ingevoegd bij het decreet van 24 februari 2017, worden de volgende wijzigingen aangebracht:<br>
