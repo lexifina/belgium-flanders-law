@@ -2,16 +2,16 @@
   "codex_id": 1039659,
   "title": "Decreet van 2024-03-22 over de weginfrastructuur en het wegenbeleid en de waterinfrastructuur en het waterbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039659/VolledigDocument?datum=2024-05-06",
-  "source_sha256": "f0fdfa363f65633c8c79a60a98a64e6cedbf8dd3b2a62424266b1fba5a8d06b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039659/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "2e6a73d747fd9a9cdc9a34f5659c599aae5d72fd4c6af06b4dfeb2c97ffd75b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039659&param=informatie",
-  "as_of": "2024-05-06",
+  "as_of": "2025-01-01",
   "made": "2024-03-22",
   "gazette": "2024-04-26",
   "numac": 2024003984,
   "document_start": "2024-05-06",
   "document_end": null,
-  "in_force": "2024-05-06",
-  "article_versions": 36,
-  "record_form": "consolidated version as in force on 2024-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
