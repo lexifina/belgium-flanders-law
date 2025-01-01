@@ -138,9 +138,9 @@ De volgende kandidaat-beheerders van een lokale cluster geven geen blijk van pro
 
 ### ART 10.
 
-De Vlaamse Regering kan, na het advies van de VREG te hebben ingewonnen, beslissen dat er geen blijk van professionele betrouwbaarheid, als vermeld in artikel 8, wordt gegeven door de volgende kandidaat-beheerders van een lokale cluster:<br>
+De Vlaamse Regering kan, na het advies van de Vlaamse Nutsregulator te hebben ingewonnen, beslissen dat er geen blijk van professionele betrouwbaarheid, als vermeld in artikel 8, wordt gegeven door de volgende kandidaat-beheerders van een lokale cluster:<br>
 1° de kandidaat-beheerder die zelf, of waarvan een bestuurs- of directielid, bij een vonnis of arrest dat in kracht van gewijsde is gegaan, veroordeeld is geweest voor een misdrijf dat zijn professionele integriteit aantast;<br>
-2° de kandidaat-beheerder die bij zijn beroepsuitoefening een ernstige fout heeft begaan, die is vastgesteld op elke grond die de VREG aannemelijk kan maken;<br>
+2° de kandidaat-beheerder die bij zijn beroepsuitoefening een ernstige fout heeft begaan, die is vastgesteld op elke grond die de Vlaamse Nutsregulator aannemelijk kan maken;<br>
 3° de kandidaat-beheerder die niet voldaan heeft aan de verplichtingen inzake de betaling van de bijdragen voor de sociale zekerheid die op hem rusten conform de Belgische wetgeving of de wetgeving van het land waar hij gevestigd is;<br>
 4° de kandidaat-beheerder die niet voldaan heeft aan de verplichtingen inzake de betaling van belastingen die op hem rusten conform de Belgische wetgeving of de wetgeving van het land waar hij gevestigd is;<br>
 5° de kandidaat-beheerder die zich schuldig heeft gemaakt aan het afleggen van valse verklaringen bij het verstrekken van inlichtingen die op grond van het decreet van 29 maart 2024 en dit besluit verstrekt moeten worden;<br>
@@ -226,7 +226,7 @@ Het VEKA bezorgt de Vlaamse Regering binnen negentig dagen na de beslissing, ver
 
 ### ART 18.
 
-De Vlaamse Regering beoordeelt, na de gemotiveerde adviezen van de VREG en het VEKA vermeld in artikel 17, paragraaf 1, tweede en vierde lid, te hebben gekregen de aanvragen van de kandidaat-beheerders van de lokale cluster op basis van de volgende criteria:<br>
+De Vlaamse Regering beoordeelt, na de gemotiveerde adviezen van de Vlaamse Nutsregulator en het VEKA vermeld in artikel 17, paragraaf 1, tweede en vierde lid, te hebben gekregen de aanvragen van de kandidaat-beheerders van de lokale cluster op basis van de volgende criteria:<br>
 1° de kwaliteit van het ontwerp van ontwikkelingsplan dat wordt voorgelegd door de kandidaat-beheerder van een lokale cluster;<br>
 2° de kwaliteit van de organisatie, de kwalificatie en de ervaring van het personeel van de kandidaat-beheerder van een lokale cluster;<br>
 3° de mate waarin contractuele engagementen of intentieverklaringen zijn verkregen van producenten, verbruikers of andere relevante partijen om aan te sluiten op of gebruik te maken van de lokale cluster;<br>
@@ -236,7 +236,7 @@ De Vlaamse Regering beoordeelt, na de gemotiveerde adviezen van de VREG en het V
 7° de bijdrage die de ontworpen lokale cluster zal leveren aan het Vlaamse en Europese klimaatbeleid;<br>
 8° hoe de kandidaat-beheerder van de lokale cluster de compatibiliteit van de lokale cluster met het vervoersnetwerk, andere lokale clusters en vervoersinfrastructuur in andere Gewesten, de Noordzee, andere Lidstaten en derde landen zal verzekeren, in het bijzonder wat betreft de verenigbaarheid van de kwaliteitsnormen van de koolstofdioxidestromen.<br>
 <br>
-De Vlaamse Regering neemt de beslissing tot aanwijzing ten laatste negen maanden na het verkrijgen van de gemotiveerde adviezen van VEKA en VREG, vermeld in artikel 17, paragraaf 1, tweede en vierde lid, over alle kandidaat-beheerders.
+De Vlaamse Regering neemt de beslissing tot aanwijzing ten laatste negen maanden na het verkrijgen van de gemotiveerde adviezen van VEKA en Vlaamse Nutsregulator, vermeld in artikel 17, paragraaf 1, tweede en vierde lid, over alle kandidaat-beheerders.
 
 ### ART 19.
 
@@ -279,13 +279,13 @@ De beheerder van een lokale cluster dient, voor het eerst twee jaar na zijn aanw
 ### ART 25.
 
 De minister wint over het ontwerp van ontwikkelingsplan, vermeld in artikel 24, het advies in van de volgende instanties:<br>
-1° de VREG, minstens voor wat betreft de impact van het ontwerp van ontwikkelingsplan op de verdere ontwikkeling van de infrastructuur voor het vervoer van koolstofdioxide in het Vlaamse Gewest;<br>
+1° de Vlaamse Nutsregulator, minstens voor wat betreft de impact van het ontwerp van ontwikkelingsplan op de verdere ontwikkeling van de infrastructuur voor het vervoer van koolstofdioxide in het Vlaamse Gewest;<br>
 2° het VEKA, minstens voor wat betreft de bijdrage van de lokale cluster aan het Vlaamse en Europese klimaatbeleid;<br>
 3° eventuele andere instanties dan de instanties, vermeld in punt 1° en 2°, waarvan de minister het advies nuttig acht.<br>
 <br>
 De instanties, vermeld in het eerste lid, bezorgen hun advies aan de minister binnen negentig dagen vanaf de dag waarop ze de adviesaanvragen hebben ontvangen. Bij gebrek aan advies binnen de voormelde termijn, wordt het advies geacht gunstig te zijn.<br>
 <br>
-Het VEKA en de VREG kunnen de beheerder van een lokale cluster vragen om binnen een termijn van tien dagen alle bijkomende informatie te verstrekken die zij nodig achten in het kader van hun advies.
+Het VEKA en de Vlaamse Nutsregulator kunnen de beheerder van een lokale cluster vragen om binnen een termijn van tien dagen alle bijkomende informatie te verstrekken die zij nodig achten in het kader van hun advies.
 
 ### ART 26.
 
@@ -379,9 +379,9 @@ De volgende kandidaat-beheerders van het vervoersnetwerk geven geen blijk van pr
 
 ### ART 34.
 
-De Vlaamse Regering kan, na het advies van de VREG te hebben ingewonnen, beslissen dat er geen blijk van professionele betrouwbaarheid, als vermeld in artikel 32, wordt gegeven door de volgende kandidaat-beheerder:<br>
+De Vlaamse Regering kan, na het advies van de Vlaamse Nutsregulator te hebben ingewonnen, beslissen dat er geen blijk van professionele betrouwbaarheid, als vermeld in artikel 32, wordt gegeven door de volgende kandidaat-beheerder:<br>
 1° de kandidaat-beheerder die zelf, of waarvan een bestuurs- of directielid, bij een vonnis of arrest dat in kracht van gewijsde is gegaan, veroordeeld is geweest voor een misdrijf dat zijn professionele integriteit aantast;<br>
-2° de kandidaat-beheerder die bij zijn beroepsuitoefening een ernstige fout heeft begaan, vastgesteld op elke grond die de VREG aannemelijk kan maken;<br>
+2° de kandidaat-beheerder die bij zijn beroepsuitoefening een ernstige fout heeft begaan, vastgesteld op elke grond die de Vlaamse Nutsregulator aannemelijk kan maken;<br>
 3° de kandidaat-beheerder die niet voldaan heeft aan de verplichtingen inzake de betaling van de bijdragen voor de sociale zekerheid die op hem rusten conform de Belgische wetgeving of de wetgeving van het land waar hij gevestigd is;<br>
 4° de kandidaat-beheerder die niet voldaan heeft aan de verplichtingen inzake de betaling van belastingen die op hem rusten conform de Belgische wetgeving of de wetgeving van het land waar hij gevestigd is;<br>
 5° de kandidaat-beheerder die zich schuldig heeft gemaakt aan het afleggen van valse verklaringen bij het verstrekken van inlichtingen die op grond van het decreet van 29 maart 2024 en dit besluit verstrekt moeten worden;<br>
@@ -449,9 +449,9 @@ Als de aanvraag niet volledig is, brengt het VEKA de kandidaat-beheerder van het
 
 ### ART 41.
 
-§1. Als het VEKA conform artikel 40 beslist dat de aanvraag volledig is, gaat de VREG op grond van de inlichtingen over de eigen situatie van iedere kandidaat-beheerder van het vervoersnetwerk en van de inlichtingen en documenten waarover ze beschikt na of de kandidaat-beheerder van het vervoersnetwerk voldoet aan de aanwijzingsvoorwaarden vermeld in artikel 28 tot en met 35.&nbsp;<br>
+§1. Als het VEKA conform artikel 40 beslist dat de aanvraag volledig is, gaat de Vlaamse Nutsregulator op grond van de inlichtingen over de eigen situatie van iedere kandidaat-beheerder van het vervoersnetwerk en van de inlichtingen en documenten waarover ze beschikt na of de kandidaat-beheerder van het vervoersnetwerk voldoet aan de aanwijzingsvoorwaarden vermeld in artikel 28 tot en met 35.&nbsp;<br>
 <br>
-De VREG bezorgt de Vlaamse Regering binnen negentig dagen na de beslissing, vermeld in het eerste lid, een gemotiveerd advies over of de kandidaat-beheerder van het vervoersnetwerk voldoet aan de aanwijzingsvoorwaarden vermeld in het derde lid. De VREG beoordeelt het aanvraagdossier ook in het licht van de aanwijzingscriteria, vermeld in artikel 42, punt 1° tot en met 3°, punt 5° tot en met punt 7° en punt 9°. Deze beoordeling in het licht van de aanwijzingscriteria is niet bindend.<br>
+De Vlaamse Nutsregulator bezorgt de Vlaamse Regering binnen negentig dagen na de beslissing, vermeld in het eerste lid, een gemotiveerd advies over of de kandidaat-beheerder van het vervoersnetwerk voldoet aan de aanwijzingsvoorwaarden vermeld in het derde lid. De Vlaamse Nutsregulator beoordeelt het aanvraagdossier ook in het licht van de aanwijzingscriteria, vermeld in artikel 42, punt 1° tot en met 3°, punt 5° tot en met punt 7° en punt 9°. Deze beoordeling in het licht van de aanwijzingscriteria is niet bindend.<br>
 &nbsp;&nbsp; &nbsp;<br>
 Het VEKA gaat op grond van de inlichtingen over de eigen situatie van iedere kandidaat-beheerder van het vervoersnetwerk en van de inlichtingen en documenten waarover het beschikt na of de kandidaat-beheerder van het vervoersnetwerk voldoet aan de aanwijzingsvoorwaarden vermeld in artikel 36 en artikel 37.&nbsp;<br>
 <br>
@@ -459,11 +459,11 @@ Het VEKA bezorgt de Vlaamse Regering binnen negentig dagen na de beslissing, ver
 &nbsp;&nbsp; &nbsp;<br>
 §2. Als de kandidaat-beheerder van het vervoersnetwerk niet voldoet aan de aanwijzingsvoorwaarden, vermeld in het eerste en derde lid, brengt de Vlaamse Regering de kandidaat-beheerder van het vervoersnetwerk daarvan per beveiligde zending op de hoogte. Daarbij worden de redenen vermeld waarom niet aan de aanwijzingsvoorwaarden werd voldaan, en de termijn waarin de kandidaat-beheerder van het vervoersnetwerk, op straffe van verval van de aanvraag, aan die aanwijzingsvoorwaarden kan voldoen.<br>
 &nbsp;&nbsp; &nbsp;<br>
-§3. Op elk moment kunnen het VEKA en de VREG de kandidaat-beheerder vragen om binnen een termijn van tien dagen alle bijkomende informatie te verstrekken die zij nodig achten in het kader van hun onderzoek.
+§3. Op elk moment kunnen het VEKA en de Vlaamse Nutsregulator de kandidaat-beheerder vragen om binnen een termijn van tien dagen alle bijkomende informatie te verstrekken die zij nodig achten in het kader van hun onderzoek.
 
 ### ART 42.
 
-De Vlaamse Regering beoordeelt, na de gemotiveerde adviezen van de VREG en het VEKA, vermeld in artikel 41, paragraaf 1, tweede en vierde lid, te hebben verkregen de aanvragen van de kandidaat-beheerders van het vervoersnetwerk op de volgende criteria:<br>
+De Vlaamse Regering beoordeelt, na de gemotiveerde adviezen van de Vlaamse Nutsregulator en het VEKA, vermeld in artikel 41, paragraaf 1, tweede en vierde lid, te hebben verkregen de aanvragen van de kandidaat-beheerders van het vervoersnetwerk op de volgende criteria:<br>
 1° de kwaliteit van het ontwerp van ontwikkelingsplan dat wordt voorgelegd door de kandidaat-beheerder van het vervoersnetwerk;<br>
 2° de kwaliteit van de organisatie, de kwalificatie en de ervaring van het personeel van de kandidaat-beheerder van het vervoersnetwerk;<br>
 3° de mate waarin contractuele engagementen of intentieverklaringen zijn verkregen van producenten, verbruikers of andere relevante partijen om aan te sluiten op of gebruik te maken van het vervoersnetwerk;<br>
@@ -474,7 +474,7 @@ De Vlaamse Regering beoordeelt, na de gemotiveerde adviezen van de VREG en het V
 8° de bijdrage die het vervoersnetwerk zal leveren aan het Vlaamse en Europese klimaatbeleid;<br>
 9° de engagementen van de kandidaat-beheerder inzake compatibiliteit van het vervoersnetwerk met bestaande en geplande lokale clusters, terminals voor vloeibaarmaking in het Vlaamse Gewest en vervoersinfrastructuur in andere gewesten, de Noordzee, andere Lidstaten en derde landen, in het bijzonder voor wat betreft de kwaliteitsnormen voor koolstofdioxide.<br>
 <br>
-De Vlaamse Regering neemt de beslissing tot aanwijzing ten laatste negen maanden na het verkrijgen van de gemotiveerde adviezen van VEKA en VREG, vermeld in artikel 41, paragraaf 1, tweede en vierde lid, over alle kandidaat-beheerders.&nbsp;
+De Vlaamse Regering neemt de beslissing tot aanwijzing ten laatste negen maanden na het verkrijgen van de gemotiveerde adviezen van VEKA en Vlaamse Nutsregulator, vermeld in artikel 41, paragraaf 1, tweede en vierde lid, over alle kandidaat-beheerders.&nbsp;
 
 ### ART 43.
 
@@ -517,13 +517,13 @@ De beheerder van het vervoersnetwerk dient, voor het eerst twee jaar na zijn aan
 ### ART 49.
 
 De minister wint over het ontwerp van ontwikkelingsplan, vermeld in artikel 48, het advies in van de volgende instanties:<br>
-1° de VREG, minstens voor wat betreft de impact van het ontwerp van ontwikkelingsplan op de verdere ontwikkeling van de infrastructuur voor het vervoer van koolstofdioxide in het Vlaamse Gewest;<br>
+1° de Vlaamse Nutsregulator, minstens voor wat betreft de impact van het ontwerp van ontwikkelingsplan op de verdere ontwikkeling van de infrastructuur voor het vervoer van koolstofdioxide in het Vlaamse Gewest;<br>
 2° het VEKA, minstens voor wat betreft de bijdrage van het vervoersnetwerk aan het Vlaamse en Europese klimaatbeleid;<br>
 3° eventuele andere instanties dan de instanties vermeld in punt 1° en 2°, waarvan de minister het advies nuttig acht.<br>
 <br>
 De instanties, vermeld in het eerste lid, bezorgen hun advies aan de minister binnen negentig dagen vanaf de dag waarop ze de adviesaanvragen hebben ontvangen. Bij gebrek aan advies binnen de voormelde termijn, wordt het advies geacht gunstig te zijn.<br>
 <br>
-Het VEKA en de VREG kunnen de kandidaat-beheerder vragen om binnen een termijn van tien dagen alle bijkomende informatie te verstrekken die zij nodig achten in het kader van hun advies.
+Het VEKA en de Vlaamse Nutsregulator kunnen de kandidaat-beheerder vragen om binnen een termijn van tien dagen alle bijkomende informatie te verstrekken die zij nodig achten in het kader van hun advies.
 
 ### ART 50.
 
@@ -545,21 +545,21 @@ De aanvraag tot aansluiting, vermeld in het eerste lid, bevat minstens de volgen
 
 Binnen dertig dagen na ontvangst van de aanvraag, vermeld in artikel 51, bezorgt de beheerder van een terminal voor vloeibaarmaking ofwel een aanbod voor verdere onderhandeling, ofwel een schriftelijke weigering tot aansluiting, gemotiveerd conform artikel 64 van decreet van 29 maart 2024.
 
-## Titel 5. Geschillenbeslechting door de VREG
+## Titel 5. Geschillenbeslechting door de Vlaamse Nutsregulator
 
 ### ART 53.
 
-§1. Een klacht over de toegang tot het vervoersnetwerk, een lokale cluster, een gesloten industrieel net voor koolstofdioxide of een terminal voor vloeibaarmaking als bedoeld in art. 76 van het decreet van 29 maart 2024 of de uitvoeringsbesluiten ervan kan schriftelijk ter beslechting worden voorgelegd aan de VREG.&nbsp;<br>
+§1. Een klacht over de toegang tot het vervoersnetwerk, een lokale cluster, een gesloten industrieel net voor koolstofdioxide of een terminal voor vloeibaarmaking als bedoeld in art. 76 van het decreet van 29 maart 2024 of de uitvoeringsbesluiten ervan kan schriftelijk ter beslechting worden voorgelegd aan de Vlaamse Nutsregulator.&nbsp;<br>
 <br>
 Een klacht met betrekking tot een aanbod, vermeld in artikel 52, is slechts ontvankelijk als ze minstens zes maanden na het aanbod is ingediend. Een klacht met betrekking tot de weigering, vermeld in artikel 52, is ontvankelijk na de ontvangst van de schriftelijke weigering.<br>
 <br>
-§2. De VREG beslecht het geschil met een gemotiveerde, bindende beslissing binnen negentig dagen na ontvangst van de klacht. Die periode kan met negentig dagen worden verlengd als de VREG aanvullende informatie vraagt. Een nieuwe verlenging van die termijn is mogelijk voor zover de klager daarmee akkoord gaat.<br>
+§2. De Vlaamse Nutsregulator beslecht het geschil met een gemotiveerde, bindende beslissing binnen negentig dagen na ontvangst van de klacht. Die periode kan met negentig dagen worden verlengd als de Vlaamse Nutsregulator aanvullende informatie vraagt. Een nieuwe verlenging van die termijn is mogelijk voor zover de klager daarmee akkoord gaat.<br>
 <br>
-De VREG beslist over het geschil, vermeld in het eerste lid, na de betrokken partijen te hebben gehoord. De VREG kan, met uitzondering van persoonsgegevens, alle nuttige inlichtingen inwinnen en kan, als dat nodig is, deskundigen aanwijzen en getuigen horen. Hij kan bewarende maatregelen opleggen in dringende gevallen.&nbsp;<br>
+De Vlaamse Nutsregulator beslist over het geschil, vermeld in het eerste lid, na de betrokken partijen te hebben gehoord. De Vlaamse Nutsregulator kan, met uitzondering van persoonsgegevens, alle nuttige inlichtingen inwinnen en kan, als dat nodig is, deskundigen aanwijzen en getuigen horen. Hij kan bewarende maatregelen opleggen in dringende gevallen.&nbsp;<br>
 <br>
-De VREG kan in zijn beslissing over het geschil, vermeld in het eerste lid, de toegang tot en het gebruik van het vervoersnetwerk, een lokale cluster, een terminal voor vloeibaarmaking of een gesloten industrieel net voor koolstofdioxide afwijzen, toekennen of toekennen onder voorwaarden. Als de toegang toegekend wordt onder voorwaarden, vermeldt de VREG in de beslissing de termijn waarin de producent of verbruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan instemming binnen die termijn blijft de beslissing zonder gevolg.&nbsp;<br>
+De Vlaamse Nutsregulator kan in zijn beslissing over het geschil, vermeld in het eerste lid, de toegang tot en het gebruik van het vervoersnetwerk, een lokale cluster, een terminal voor vloeibaarmaking of een gesloten industrieel net voor koolstofdioxide afwijzen, toekennen of toekennen onder voorwaarden. Als de toegang toegekend wordt onder voorwaarden, vermeldt de Vlaamse Nutsregulator in de beslissing de termijn waarin de producent of verbruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan instemming binnen die termijn blijft de beslissing zonder gevolg.&nbsp;<br>
 <br>
-De beslissing van de VREG over het geschil, vermeld in het eerste lid, kan al of niet een terugbetaling of vergoeding inhouden.
+De beslissing van de Vlaamse Nutsregulator over het geschil, vermeld in het eerste lid, kan al of niet een terugbetaling of vergoeding inhouden.
 
 ## Titel 6. Verplichtingen onder het EU-ETS
 
@@ -681,7 +681,7 @@ Een vervoersonderneming voor koolstofdioxide die de activiteit van het vervoer v
 
 ### ART 67.
 
-Een beheerder van een terminal voor vloeibaarmaking meldt, ten laatste 30 dagen na de ingebruikname of significante uitbreiding van capaciteit van de terminal voor vloeibaarmaking, de volgende gegevens aan de VREG:&nbsp;<br>
+Een beheerder van een terminal voor vloeibaarmaking meldt, ten laatste 30 dagen na de ingebruikname of significante uitbreiding van capaciteit van de terminal voor vloeibaarmaking, de volgende gegevens aan de Vlaamse Nutsregulator:&nbsp;<br>
 <br>
 1° de datum van ingebruikname of de datum waarop de additionele capaciteit beschikbaar werd;<br>
 2° de identiteit van de beheerder van de terminal voor vloeibaarmaking, evenals de contactgegevens;<br>
@@ -689,7 +689,7 @@ Een beheerder van een terminal voor vloeibaarmaking meldt, ten laatste 30 dagen 
 4° de voorziene vloeibaarmakingscapaciteit en, voor zover relevant, de capaciteit voor tijdelijke opslag van koolstofdioxide;<br>
 5° de technische specificaties van de koolstofdioxidestroom die vloeibaar zal worden gemaakt door de terminal voor vloeibaarmaking.<br>
 <br>
-De VREG stelt een elektronisch formulier beschikbaar op zijn website voor de melding, bedoeld in het eerste lid.
+De Vlaamse Nutsregulator stelt een elektronisch formulier beschikbaar op zijn website voor de melding, bedoeld in het eerste lid.
 
 ## Titel 8. Wijzigingsbepalingen
 
