@@ -99,6 +99,10 @@ In artikel 4.1.8 van hetzelfde decreet, gewijzigd bij het decreet van 26 april 2
 5° in paragraaf 2, derde lid, wordt tussen de zinsnede “verlengd worden.” en de woorden “De Vlaamse Regering” de zin “De gecumuleerde looptijd van de verlengingen kan echter nooit de originele afschrijvingstermijn die van toepassing is op de betrokken activa overschrijden.” ingevoegd;<br>
 6° aan paragraaf 2, derde lid, wordt de zinsnede “en houdt hierbij rekening met de gevolgen voor de marktwerking” toegevoegd.
 
+### ART 14.
+
+Artikel 4.1.16 van hetzelfde decreet, vervangen bij het decreet van 10 maart 2017 en gewijzigd bij het decreet van 18 maart 2022, wordt opgeheven.
+
 ### ART 15.
 
 In artikel 4.1.19 van hetzelfde decreet, vervangen bij het decreet van 2 april 2021 en gewijzigd bij het decreet van 15 juli 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -230,6 +234,10 @@ In artikel 7.2.2, §2, eerste lid, van hetzelfde decreet, ingevoegd bij het decr
 ### ART 29.
 
 In artikel 7.2.3, §2, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 23 december 2022, worden tussen de zinsnede “elektriciteits-distributienet” en het woord “geïnjecteerd” de woorden “of het plaatselijk vervoernet van elektriciteit” ingevoegd.
+
+### ART 30.
+
+In titel VII van hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 november 2023, wordt hoofdstuk III, dat bestaat uit artikel 7.3.1, opgeheven.
 
 ### ART 31.
 
