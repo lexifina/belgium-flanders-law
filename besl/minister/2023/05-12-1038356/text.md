@@ -109,6 +109,7 @@ Ter uitvoering van artikel 36, §3, van het besluit van 21 april 2023, komen all
 1° tagetes;<br>
 2° gele mosterd;<br>
 3° bladrammenas;<br>
+4° mengsel van gele mosterd en bladrammenas.<br>
 <br>
 De teelten, vermeld in het eerste lid, worden gedurende de volgende perioden aangehouden:&nbsp;<br>
 1° tagetes wordt minstens drie maanden behouden en wordt daarna ondergewerkt;<br>
@@ -129,8 +130,8 @@ Ter uitvoering van artikel 37, §3, van het besluit van 21 april 2023, komen all
 ### ART 7.
 
 Ter uitvoering van artikel 38, §3, van het besluit van 21 april 2023, heeft het faunamengsel, vermeld in artikel 38, §1, van het voormelde besluit, de volgende samenstelling:<br>
-1° 60% tot 90% teelten uit de teeltgroep graangewassen, boekweit;<br>
-2° 5% tot 10% Brassica, namelijk boerenkool, raapzaad, gele mosterd en huttentut, mergkool, bladrammenas, radijs;<br>
+1° 60% tot 90% teelten uit de vruchtafwisselingsgroep granen, vermeld in artikel 33, 10°, of 60% tot 90% van de teelt boekweit;<br>
+2° 5% tot 10% Brassicaceae, namelijk Brassica oleracea, Brassica rapa, Sinapis alba, Camelina sativa, Raphanus sativus;<br>
 3° maximum 35%: zonnebloem, bernagie, vlas, phacelia, voederwikke, witte klaver, rode klaver, dille.<br>
 <br>
 Ter uitvoering van artikel 38, §3, van het voormelde besluit wordt het faunamengsel, vermeld in artikel 38, §1, van het voormelde besluit, ingezaaid met een minimale zaaidichtheid van 50 kilogram per hectare.<br>
@@ -140,7 +141,7 @@ Ter uitvoering van artikel 38, §3, van het voormelde besluit worden de teelten 
 ### ART 8.
 
 Ter uitvoering van artikel 39, §3, van het besluit van 21 april 2023, worden al de volgende beheervoorwaarden vervuld:&nbsp;<br>
-1° het perceel wordt braak gehouden van 15 maart tot en met 10 mei, waarbij een eventueel aanwezige groenbedekker voor 15 maart wordt ondergewerkt. De groenbedekker of het gras mag voorafgaand aan het onderwerken niet behandeld worden met gewasbeschermingsmiddelen;&nbsp;<br>
+1° het perceel wordt braak gehouden van 15 maart tot en met 10 mei, waarbij een eventueel aanwezige groenbedekker, teeltresten of grasvegetatie voor 15 maart worden ondergewerkt, zonder dat die groenbedekker, de teeltresten of grasvegetatie vóór het onderwerken mogen worden behandeld met gewasbeschermingsmiddelen. Stoppels van andere maaigewassen hoeven niet ondergewerkt te worden;<br>
 2° er worden geen handelingen op het perceel uitgevoerd vanaf 15 maart tot en met 10 mei van het verbintenisjaar;<br>
 3° de hoofdteelt die na de braak wordt ingezaaid, is mais.
 
@@ -267,7 +268,7 @@ Ter uitvoering van artikel 48, derde lid, van het besluit van 21 april 2023, kun
 
 ### ART 18.
 
-Ter uitvoering van artikel 51, §4, van het besluit van 21 april 2023, wordt 1% nitraat toegevoegd aan het totale rantsoen op drogestofbasis.<br>
+Ter uitvoering van artikel 51, §4, van het besluit van 21 april 2023, wordt&nbsp;224,00 gram nitraat per dier per dag&nbsp;toegevoegd aan het totale rantsoen.<br>
 &nbsp;
 
 ### ART 19.
@@ -304,7 +305,7 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de la
 <br>
 Als op de facturen, vermeld in het eerste lid, 2°, de samenstelling van het aangekochte veevoeder niet vermeld staat, beschikt de landbouwer bijkomend over ander bewijsmateriaal, zoals een vrachtbrief, etiket of analyse, waaruit die samenstelling duidelijk en ondubbelzinnig blijkt.&nbsp;<br>
 <br>
-De voorwaarde, vermeld in het eerste lid, 1°, is niet van toepassing op de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 2), en 4), van het voormelde besluit.
+De voorwaarde, vermeld in het eerste lid, 1°, is alleen van toepassing op de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), van het besluit van 21 april 2023.
 
 ## Hoofdstuk 7. De aanleg en het onderhoud van een meerjarige bloemenstrook in de fruitteelt
 
@@ -329,6 +330,10 @@ Ter uitvoering van artikel 59, §3, van het voormelde besluit bedraagt de zaaidi
 
 ## Hoofdstuk 8. Het verhogen van het organischekoolstofgehalte in de bodem
 
+### ART 25/1.
+
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023 beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, a), van het voormelde besluit, en die percelen met korrelmaïs aangeeft, voor al die percelen over een foto genomen met de LV-AgriLens-app of over een foto met daarop omgevingselementen waaruit de locatie duidelijk en ondubbelzinnig blijkt. Op die foto’s zijn de oogstwerkzaamheden of de oogstresten na de oogstwerkzaamheden duidelijk zichtbaar.
+
 ### ART 26.
 
 Ter uitvoering van artikel 71, §3, van het besluit van 21 april 2023, voldoet de compost aan een van de volgende twee voorwaarden:<br>
@@ -344,7 +349,7 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, voldoet de lan
 ### ART 28.
 
 Ter uitvoering van artikel 72, §4, van het besluit van 21 april 2023, voldoet de stalmest aan al de volgende voorwaarden:<br>
-1° het bestaat uit een mengsel van stro en uitwerpselen van runderen, paarden, schapen, geiten of varkens;<br>
+1° het bestaat uit een mengsel van stro, houtkrullen, vlaslemen of miscanthus,&nbsp;en uitwerpselen van runderen, paarden, schapen, geiten of varkens;<br>
 2° het heeft een drogestofgehalte van minimaal 20%;<br>
 3° de vaste mest in het mengsel is afkomstig van dieren die zijn gehuisvest in ingestrooide stallen of van het bewerken van dierlijke mest met stro;<br>
 4° het mag afkomstig zijn van eigen dieren of afkomstig van een derde.<br>
@@ -375,7 +380,9 @@ Ter uitvoering van artikel 73, §4, van hetzelfde besluit leveren de houtachtige
 
 ### ART 29.
 
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), van het voormelde besluit, en die stalmest of champost gebruikt die afkomstig is van een derde, over de documenten die vereist zijn conform het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan. De voormelde documenten tonen aan welke hoeveelheid stalmest is getransporteerd.
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), van het voormelde besluit, en die stalmest of champost gebruikt die afkomstig is van een derde, over de documenten die vereist zijn conform het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan. De voormelde documenten tonen aan welke hoeveelheid stalmest is getransporteerd.<br>
+<br>
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023 beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2) of 3), van het voormelde besluit, voor elk perceel in kwestie over een foto genomen met de LV-AgriLens-app of over een foto met daarop omgevingselementen waaruit de locatie duidelijk en ondubbelzinnig blijkt. Op die foto’s is duidelijk zichtbaar dat de stalmest of houtsnippers zijn uitgespreid, en op het veld liggen of ondergewerkt worden.
 
 ### ART 30.
 
@@ -392,19 +399,19 @@ Ter uitvoering van artikel 74, §2, tweede lid, van het besluit van 21 april 202
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:106px">Zand</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">1,2-1,9</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">≥1,2</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:106px">Zandleem</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">1,0-1,5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">≥1,0</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:106px">Leem</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">1,3-1,7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">≥1,3</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:106px">Klei</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">1,6-2,1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:108px">≥1,6</td>
 		</tr>
 	</tbody>
 </table>
@@ -439,12 +446,20 @@ Ter uitvoering van artikel 74, §2, tweede lid, van het voormelde besluit, zijn 
 	</tbody>
 </table>
 <br>
-Ter uitvoering van artikel 74, §2, tweede lid, van het voormelde besluit laat de landbouwer de bodemanalyse uitvoeren bij een laboratorium als vermeld in artikel 74, §2, eerste lid, 4°, dat via een dataplatform dat daarvoor geschikt is, de analyses in kwestie bezorgt aan de bevoegde entiteit door ze ter beschikking te stellen via het bodempaspoort. De landbouwer zorgt ervoor dat de bodemanalyse uiterlijk op 31 december van het jaar van de verbintenisaanvraag beschikbaar is via het bodempaspoort.<br>
+Ter uitvoering van artikel 74, §2, tweede lid, van het voormelde besluit laat de landbouwer de bodemanalyse uitvoeren bij een laboratorium als vermeld in artikel 74, §2, eerste lid, 4°, dat via een dataplatform dat daarvoor geschikt is, de analyses in kwestie bezorgt aan de bevoegde entiteit door ze ter beschikking te stellen via het bodempaspoort.&nbsp;De landbouwer zorgt ervoor dat de bodemanalyses van de bodemstalen genomen in het verbintenisjaar uiterlijk op 31 januari van het jaar na het verbintenisjaar beschikbaar zijn via het bodempaspoort.<br>
 <br>
 In afwijking van het derde lid is de bodemanalyse voor het verbintenisjaar 2023 uiterlijk op 31 maart 2024 beschikbaar via het bodempaspoort.<br>
 &nbsp;
 
 ## Hoofdstuk 9. De aanleg van een bufferstrook
+
+### ART 30/1.
+
+Ter uitvoering van artikel 78, §3, vierde lid, van het besluit van 21 april 2023, en in afwijking van artikel 78, §3, eerste lid, 3°, van het voormelde besluit, moet voor het verbintenisjaar 2025 de bufferstrook worden ingezaaid ten laatste op 30 april 2025.&nbsp;
+
+### ART 30/2.
+
+Ter uitvoering van artikel 79, §2, vierde lid, van het besluit van 21 april 2023, en in afwijking van artikel 79, §2, eerste lid, 4°, van het voormelde besluit, moet voor het verbintenisjaar 2025 de bufferstrook ingezaaid worden ten laatste op 30 april 2025.
 
 ### ART 31.
 
@@ -477,7 +492,9 @@ Ter uitvoering van artikel 80, §3, van het voormelde besluit, worden alleen de 
 10° wilde chicorei (Cichorium intybus);<br>
 11° wilde peen (Daucus carota).<br>
 <br>
-Andere kruiden en vlinderbloemigen, die niet vermeld zijn in het derde en vierde lid, maken maximum 25% van het gewichtspercentage uit.
+Andere kruiden en vlinderbloemigen, die niet vermeld zijn in het derde en vierde lid, maken maximum 25% van het gewichtspercentage uit.<br>
+<br>
+Ter uitvoering van artikel 80, §2, vierde lid, van het voormelde besluit, en in afwijking van artikel 80, §2, eerste lid, 3°, van het voormelde besluit, moet voor het verbintenisjaar 2025 de bufferstrook ingezaaid worden ten laatste op 30 april 2025.&nbsp;
 
 ### ART 32.
 
@@ -516,9 +533,9 @@ Ter uitvoering van artikel 90, §4, van het besluit van 21 april 2023, worden de
 7° windefamilie;<br>
 8° kruisbloemigen;<br>
 9° komkommerfamilie;<br>
-10° granen&nbsp;<br>
-11° grassen;<br>
-12° mais;<br>
+10° granen, namelijk de volgende geslachten uit de familie Poaceae: Avena (haver), Panicum (Gierst), Triticum (tarwe), Secale (rogge), Hordeum (gerst), Sorghum, Phalaris (kanariezaad), Triticale;<br>
+11° grassenfamilie (Poacea), met uitzondering van de granen, vermeld in punt 10°, en mais;<br>
+12° geslacht Zea (mais) uit de grassenfamilie (Poacea);<br>
 13° lipbloemenfamilie;<br>
 14° vlasfamilie;<br>
 15° duizendknoopfamilie;<br>
@@ -531,7 +548,7 @@ Ter uitvoering van artikel 90, §4, van het besluit van 21 april 2023, worden de
 22° vlinderbloemigenfamilie;<br>
 23° mengsels en mengteelten met vlinderbloemigen. Alleen de volgende mengsels en mengteelten behoren tot deze groep:&nbsp;<br>
 &nbsp; a) een mengteelt van vlinderbloemigen met granen, als voor deze mengteelt een subsidie werd verleend voor de maatregel, vermeld in artikel 3, eerste lid, 6°, a), van het besluit van 21 april 2023, of voor de maatregel, vermeld in artikel 2, eerste lid, 3°, a), van het besluit van de Vlaamse Regering van 10 september 2021 tot bepaling van de regels om subsidies te verlenen voor de uitvoering van maatregelen met een gunstig effect op milieu, klimaat of biodiversiteit. Indien een van de voormelde subsidies niet werd verleend, behoort deze mengteelt tot de vruchtafwisselingsgroep, vermeld in 10°;&nbsp;<br>
-&nbsp; b) een mengsel van grassen met een van de volgende vlinderbloemigen: grasklaver, grasluzerne en grassen met een andere vlinderbloemige teelt. Het mengsel moet aan een van de volgende voorwaarden voldoen:&nbsp;<br>
+&nbsp; b) een mengsel van grassen met een van de volgende vlinderbloemigen: klaver, luzerne en een andere vlinderbloemige teelt. Het mengsel moet aan een van de volgende voorwaarden voldoen:&nbsp;<br>
 &nbsp; &nbsp; 1) op de teelt was een verbintenis voor de maatregel vermeld in artikel 3, eerste lid, 7°, a), van het besluit van 21 april 2023, of voor de maatregel, vermeld in artikel 2, eerste lid, 1°, van het besluit van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020 van toepassing;<br>
 &nbsp; &nbsp; 2) de teelt werd niet voorafgegaan door de teelt van gras als hoofdteelt. Indien dit wel het geval is, valt de teelt onder de vruchtafwisselingsgroep, vermeld in 11°.
 
@@ -558,7 +575,7 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, moet de landbo
 
 Ter uitvoering van artikel 97, §4, van het besluit van 21 april 2023, worden de bodemanalyses van het organische koolstof-, fosfor- en kaliumgehalte in het bodemstaal, en de bodemanalyses van de zuurtegraad van het bodemstaal uitgevoerd door een laboratorium in de discipline bodem, deeldomein bodembescherming dat conform artikel 6, 5°, c), van het VLAREL van 19 november 2010 erkend is voor de monsternemingen en analyses in kwestie, dat via een dataplatform dat daarvoor geschikt is, de analyses in kwestie bezorgt aan de bevoegde entiteit door ze ter beschikking te stellen via het bodempaspoort.<br>
 <br>
-De landbouwer zorgt ervoor dat de bodemanalyses uiterlijk op 31 december van het jaar van de verbintenisaanvraag beschikbaar zijn via het bodempaspoort.<br>
+De landbouwer zorgt ervoor dat de bodemanalyses van de bodemstalen genomen in het verbintenisjaar uiterlijk op 31 januari van het jaar na het verbintenisjaar beschikbaar zijn via het bodempaspoort.<br>
 <br>
 In afwijking van het tweede lid, is de bodemanalyse voor het verbintenisjaar 2023 uiterlijk op 31 maart 2024 beschikbaar via het bodempaspoort.
 
