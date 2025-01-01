@@ -42,12 +42,14 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap, opgericht bij het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Binnenlands Bestuur";<br>
+1°/1 agentschap Facilitair Bedrijf: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat is opgericht bij het besluit van de Vlaamse regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap “agentschap Facilitair Bedrijf”;<br>
 2° duurzame slaapplek: een slaapplek die door het lokaal bestuur als dusdanig wordt beoordeeld in de Vlaamse huisvestingstool;<br>
 3° lokaal bestuur: een gemeente of openbaar centrum voor maatschappelijk welzijn van het Vlaamse Gewest;<br>
 4° mobiele woonunit: een mobiele woonunit als vermeld in artikel 2, 1°, van het decreet van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne;<br>
 5° opvangplaats: een gebouw of een geheel van een of meer mobiele woonunits waarin naast een of meer slaapplekken ook minimaal een of meer toiletten, baden of douches en een kookgelegenheid aanwezig zijn of waarbij die faciliteiten aanwezig zijn in de gemeenschappelijke voorzieningen aansluitend aan het gebouw;<br>
 6° slaapplek: een slaapgelegenheid voor een persoon;<br>
 7° tijdelijk ontheemden uit Oekraïne: tijdelijk ontheemden uit Oekraïne als vermeld in artikel 2, 4°, van het decreet van 18 maart 2022 tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne;<br>
+7°/1 Vlaams Gemeentefonds: het fonds waarvan de regels inzake de verdeling en de dotatie zijn vastgesteld in het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds;<br>
 8° Vlaamse huisvestingstool: een tool die door de Vlaamse overheid is opgezet en die maatschappelijke organisaties en lokale besturen kunnen gebruiken om duurzame slaapplekken aan te bieden.<br>
 9° Rijksregister: het Rijksregister, vermeld in artikel 1, § 1, van de wet van 8 augustus 1983 tot regeling van een rijksregister van de natuurlijke personen.
 
@@ -83,7 +85,15 @@ Voor de tiende schijf van deze subsidie wordt het aantal ontheemden, vermeld in 
 <br>
 Voor de elfde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 december 2024 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
 <br>
-Voor de twaalfde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 28 februari 2025 beschikt, vermenigvuldigd met 400 en met 0,30.<br>
+Voor de twaalfde schijf van deze subsidie wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 maart 2025 beschikt, vermenigvuldigd met 400 en met 0,225.<br>
+<br>
+Voor de dertiende schijf van de subsidie, vermeld in het eerste lid, wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 30 juni 2025 beschikt, vermenigvuldigd met 400 en met 0,225.<br>
+<br>
+Voor de veertiende schijf van de subsidie, vermeld in het eerste lid, wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 30 september 2025 beschikt, vermenigvuldigd met 400 en met 0,225.<br>
+<br>
+Voor de vijftiende schijf van de subsidie, vermeld in het eerste lid, wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 31 december 2025 beschikt, vermenigvuldigd met 400 en met 0,225.<br>
+<br>
+Voor de zestiende schijf van de subsidie, vermeld in het eerste lid, wordt het aantal ontheemden, vermeld in het zevende lid, op basis van de informatie waarover het agentschap op 28 februari 2026 beschikt, vermenigvuldigd met 400 en met 0,225.<br>
 &nbsp;
 
 ## HOOFDSTUK 2. [Private en publieke plekken in de Vlaamse Huisvestingstool en subsidiëring van de publieke plekken (verv. BVR 29 juni 2022, art. 3, I: 14 maart 2022)]
@@ -239,15 +249,23 @@ Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsst
 <br>
 Als een stad als vermeld in het eerste lid, voldoet aan de voorwaarden om de subsidies, vermeld in het eerste lid, te ontvangen, betaalt het agentschap het vastgestelde subsidiebedrag uiterlijk vijftien maanden na de buitenwerkingtreding van artikel 7 op de rekening van de gemeente waarop het laatste aandeel van het Vlaams Gemeentefonds is gestort.
 
+## HOOFDSTUK 4/1. Uitfasering van publieke en specifieke slaapplekken en slaapplekken in nooddorpen - subsidiëring
+
+### ART 7/2.
+
+Vanaf 1 januari 2025 worden geen nieuwe slaapplekken meer aangemeld in de Vlaamse Huisvestingstool.
+
 ## HOOFDSTUK 5. Aanvraag, controle en uitbetaling van de subsidie
 
 ### ART 8.
 
-Als het lokaal bestuur de nodige registraties en validaties doet in de Vlaamse huisvestingstool, kan de gemeente de forfaitaire subsidies, vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2, 4/3 en artikel 6 ontvangen.<br>
+Als het lokaal bestuur de nodige registraties en validaties doet in de Vlaamse huisvestingstool, kan de gemeente de forfaitaire subsidies, vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2, 4/3, 6 en 7/3, eerste lid ontvangen.<br>
 <br>
-De subsidies, vermeld in het eerste lid, en de subsidie vermeld in artikel 1/1 worden toegekend als forfaits. Er wordt voor de voormelde subsidies geen kostenrapportering gevraagd.<br>
+De subsidies, vermeld in het eerste lid,&nbsp;en artikel 1/1 en 7/3, tweede lid worden toegekend als forfaits. Er wordt voor de voormelde subsidies geen kostenrapportering gevraagd.<br>
 <br>
-De subsidies, vermeld in dit besluit, worden gestort op de rekening van de gemeente waarop het laatste aandeel van het gemeentefonds werd gestort.
+De subsidies, vermeld in dit besluit, worden gestort op de rekening van de gemeente waarop het laatste aandeel van het gemeentefonds werd gestort.<br>
+<br>
+Met de subsidies, vermeld in dit artikel, mogen onbeperkt reserves worden aangelegd.
 
 ### ART 9.
 
@@ -264,11 +282,9 @@ De facturen die betrekking hebben op de subsidies uit artikel 7, derde lid, met 
 
 ### ART 10.
 
-Het agentschap berekent de forfaitaire subsidies vermeld in artikel 1/1. Het agentschap berekent de forfaitaire subsidie vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2, 4/3 en artikel 6 op basis van de geregistreerde en gevalideerde gegevens in de Vlaamse huisvestingstool, vermeld in artikel 8.<br>
+Het agentschap berekent de forfaitaire subsidies, vermeld in artikel 1/1 en artikel 7/3, tweede lid. Het agentschap berekent de forfaitaire subsidie vermeld in artikel 3, 4, eerste lid, artikel 4/1, 4/2, 4/3, 6 en 7/3, eerste lid op basis van de geregistreerde en gevalideerde gegevens in de Vlaamse huisvestingstool, vermeld in artikel 8.<br>
 <br>
-Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsstukken, vermeld in artikel 9, eerste lid, 2° en 3°, en berekent het bedrag van de subsidie voor de reële kosten, vermeld in artikel 4, tweede lid, en artikel 7, derde lid.<br>
-<br>
-In het tweede lid wordt verstaan onder het agentschap Facilitair Bedrijf: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat is opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap "agentschap Facilitair Bedrijf".
+Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsstukken, vermeld in artikel 9, eerste lid, 2° en 3°, en berekent het bedrag van de subsidie voor de reële kosten, vermeld in artikel 4, tweede lid, en artikel 7, derde lid.
 
 ### ART 11.
 
@@ -282,7 +298,11 @@ Uiterlijk op 30 juni 2024 betaalt het agentschap een vierde keer het vastgesteld
 <br>
 Uiterlijk op 31 december 2024 betaalt het agentschap een vijfde keer het vastgestelde subsidiebedrag, op basis van de informatie waarover het beschikt op 30 september 2024.<br>
 <br>
-Uiterlijk op 31 juli 2025 betaalt het agentschap een zesde keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2025. De bewijsstukken voor de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, worden uiterlijk op 31 mei 2025 ingediend op de wijze, vermeld in artikel 9, eerste lid.<br>
+Uiterlijk op 30 juni 2025 betaalt het agentschap een zesde keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2025.<br>
+<br>
+Uiterlijk op 31 december 2025 betaalt het agentschap een zevende keer het vastgestelde subsidiebedrag op basis van de informatie waarover het beschikt op 30 september 2025.<br>
+<br>
+Uiterlijk op 31 juli 2026 betaalt het agentschap een achtste keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2026. De bewijsstukken voor de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, worden uiterlijk op 31 mei 2026 ingediend op de wijze, vermeld in artikel 9, eerste lid.<br>
 &nbsp;
 
 ### ART 12.
@@ -345,7 +365,7 @@ Dit besluit treedt in werking op 8 april 2022.<br>
 <br>
 Artikel 2 tot en met 6 hebben uitwerking met ingang van 14 maart 2022.<br>
 <br>
-Dit besluit houdt op uitwerking te hebben op 31 maart 2025.
+Dit besluit houdt op uitwerking te hebben op 31 maart 2026, met uitzondering van artikel 7/1, dat ophoudt uitwerking te hebben op 30 juni 2027, van artikel 15 tot en met artikel 19 en van artikel 21.
 
 ### ART 23.
 
