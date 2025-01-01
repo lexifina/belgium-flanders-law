@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040617,
+  "title": "Besluit van de Vlaamse Regering van 2025-02-07 over de verdeling van de middelen van het Vlaams Agentschap voor Personen met een Handicap voor niet rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2025",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040617/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "a5ccc2085b445365bffcc51aa3180b5185bfbbdd9a3c6545ba867510fe313d38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040617&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-02-07",
+  "gazette": "2025-02-24",
+  "numac": 2025001664,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
