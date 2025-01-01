@@ -1751,6 +1751,14 @@ Als het soortenbeschermingsprogramma met betrekking tot inheemse soorten afwijki
 
 § 1. Een ontwerp van soortenbeschermingsprogramma wordt opgemaakt door of in opdracht van het agentschap. <br /><br />Een beschermingsinitiatief als vermeld in artikel 25, eerste lid, 4°, kan beschouwd worden als een ontwerp van soortenbeschermingsprogramma, op voorwaarde dat het gebaseerd is op een rapport als vermeld in artikel 26, eerste lid, en op voorwaarde dat het beschermingsinitiatief minstens betrekking heeft op een functionele ecologische eenheid. Een functionele ecologische eenheid is een gebied dat minimaal nodig is voor de instandhouding van een levensvatbare populatie van een bepaalde soort.<br /><br />§ 2. De minister stelt een soortenbeschermingsprogramma vast, daarbij rekening houdend met de vereisten op economisch, sociaal en cultureel gebied, en met relevante regionale en lokale bijzonderheden.<br /><br />Als het soortenbeschermingsprogramma afwijkingen bevat van de verbodsbepalingen vermeld in afdeling 2, onderafdeling 1 tot en met 4, moet de beslissing over het programma de elementen bevatten, vermeld in artikel 22, § 3.<br /><br />Een soortenbeschermingsprogramma wordt na vaststelling meegedeeld aan de Vlaamse Regering.<br /><br />Als een ontwerp van soortenbeschermingsprogramma maatregelen bevat als vermeld in artikel 25, derde lid, wordt het voor vaststelling voorgedragen aan de Vlaamse Regering, na advies dienaangaande van de Strategische Adviesraad Minaraad en de Strategische Adviesraad voor Landbouw en Visserij.<br /><br />§ 3. Een soortenbeschermingsprogramma is geldig voor een periode van maximaal vijf jaar. Het kan verlengd worden. <br /><br />Als bij de uitvoering van het soortenbeschermingsprogramma, naar aanleiding van de opvolging en evaluatie, vermeld in artikel 26, eerste lid, 9°, blijkt dat de vastgestelde acties en maatregelen ontoereikend zijn of dat de voorwaarden voor de op grond van artikel 27, § 2 toegestane afwijkingen niet worden nageleefd, kan de minister het plan doen wijzigen, opschorten of stopzetten.<br /><br />
 
+### ART 27bis.
+
+Boven op het beschermende statuut dat voortvloeit uit de verbodsbepalingen van afdeling 2, kan de minister een captatieverbod voor oppervlaktewater opleggen om schade aan beschermde soorten en hun leefgebieden door aanhoudende droogte te voorkomen, voor de duur van deze droogte, en na eensluidend advies van het Instituut en de Coördinatiecommissie Integraal Waterbeleid. Dit heeft enkel betrekking op ruimtelijk kwetsbare gebieden conform artikel 1.1.2., 10° van de VCRO, en voor zover de beschermde soort is opgenomen in een besluit van de Vlaamse Regering houdende vaststelling van de instandhoudingsdoelstellingen en prioriteiten voor een aangewezen speciale beschermingszone. Het captatieverbod geldt niet voor onttrekkingen met weidepompen in functie van drenking van vee en onttrekkingen van water bestemd voor menselijke consumptie.<br>
+<br>
+In dit artikel wordt verstaan onder capteren: het met alle mogelijke middelen onttrekken van water uit de waterweg.<br>
+<br>
+In dit artikel wordt verstaan onder oppervlaktewater: de definitie zoals gehanteerd in het decreet van 18 juli 2003 betreffende het integraal waterbeleid, artikel 1.1.3., §2, 3°.
+
 ## HOOFDSTUK 4 Soortenbeheer
 
 ### ART. 28.
@@ -2041,6 +2049,8 @@ De jaarlijkse werkingssubsidie kan ook verhoogd worden met 2000 euro als het opv
 1° het opvangcentrum biedt een educatieve, sensibiliserende en informatieve werking aan voor schoolklassen en andere groepen, waarbij ten minste twintig groepen van tenminste vijftien personen ontvangen worden;<br>
 2° het opvangcentrum organiseert eenmaal per jaar een open dag voor het grote publiek.<br>
 <br>
+De jaarlijkse werkingssubsidie kan ook verhoogd worden met een bedrag dat overeenkomt met 50% van de bewezen kosten voor de inzet van een dierenarts, tot een maximaal bedrag van 15000 euro. Dit bedrag dient besteed te worden aan courante ondersteuning door een dierenarts ter plaatse in het opvangcentrum, conform de noodzakelijke kwaliteitsstandaarden zoals bedoeld onder bijlage 4, A, 10°. De aanwezigheid van de dierenarts in het opvangcentrum wordt bijgehouden in een logboek dat te allen tijde door het agentschap raadpleegbaar moet zijn.<br>
+<br>
 § 3. De bedragen worden jaarlijks geïndexeerd volgens de onderstaande formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex.<br>
 (bedrag x nieuw indexcijfer)<br>
 indexcijfer van datum 1 juni 2004<br>
@@ -2050,18 +2060,14 @@ indexcijfer van datum 1 juni 2004<br>
 
 § 1. Het erkende opvangcentrum kan een subsidie aanvragen voor de personeelskosten die verbonden zijn aan het inrichten en het functioneren van het opvangcentrum, ten bedrage van de loonkosten van een halftijdse medewerker. Als het opvangcentrum door de inbreng van eigen middelen van de halftijdse betrekking een voltijdse betrekking maakt, kan het een subsidie aanvragen voor de personeelskosten van een tweede, aanvullende halftijdse medewerker. Als het opvangcentrum door de inbreng van eigen middelen een tweede voltijdse betrekking creëert, kan het een subsidie aanvragen voor de personeelskosten van een derde halftijdse medewerker.<br>
 <br>
-De subsidie, vermeld in het eerste lid, wordt bepaald conform de salarisschaal van een administratieve medewerker van het Vlaamse Gewest.<br>
+De subsidie, vermeld in het eerste lid, wordt bepaald conform de salarisschaal in de graad van deskundige van het Vlaamse Gewest.<br>
 <br>
 § 2. Het opvangcentrum dat wil gebruikmaken van de subsidie, vermeld in § 1, moet voldoen aan de volgende voorwaarden :<br>
-1° het opvangcentrum is minstens vijf jaar actief in de opvang, verzorging en revalidatie van hulpbehoevende wilde dieren;<br>
-2° het opvangcentrum heeft een totale voor de opvangactiviteiten relevante oppervlakte van minimaal 500 m2, waarbij de minimuminhoud van alle opvang- en revalidatiekooien 500 m3; bedraagt;<br>
-3° het opvangcentrum beschikt minstens over de volgende accommodatievoorzieningen :<br>
-a) onthaal;<br>
-b) verzorgingsruimte;<br>
-c) kantoorruimte;<br>
-d) ruimte voor intensieve verzorging;<br>
-4° het opvangcentrum heeft een netwerk van ten minste dertig vrijwillige medewerkers uitgebouwd;<br>
-5° het opvangcentrum vangt jaarlijks minstens zeshonderd inheemse wilde dieren op.<br>
+1° het opvangcentrum is erkend door het agentschap;<br>
+2° ...;<br>
+3° ...;<br>
+4° het opvangcentrum heeft een netwerk van ten minste zestig vrijwillige medewerkers uitgebouwd;<br>
+5° het opvangcentrum vangt jaarlijks minstens duizendvijfhonderd inheemse wilde dieren op.<br>
 &nbsp;
 
 ### ART. 40.
@@ -2157,6 +2163,15 @@ Voor 31 maart van het kalenderjaar dat volgt op het kalenderjaar waarop de aanvr
 ### ART 40/7.
 
 Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies verlenen aan de erkende taxidiensten.
+
+### ART 40/8.
+
+§ 1. Elke erkende taxidienst kan aanspraak maken op een jaarlijkse werkingssubsidie van 4500 euro.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De subsidie kan alleen worden toegekend als de taxidienst het geografische werkingsgebied van het opvangcentrum of de opvangcentra waarmee het een samenwerkingsovereenkomst heeft substantieel uitbreidt naar een regio die niet afgedekt wordt door de erkende opvangcentra noch door een andere erkende taxidienst. Het hoofd van het agentschap stelt ter uitvoering daarvan een kaart op met de regio’s waar er behoefte is aan bijkomende opvangcapaciteit. Die kaart staat op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 2. De bedragen worden jaarlijks geïndexeerd volgens de onderstaande formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex.<br>
+(bedrag x nieuw indexcijfer) / indexcijfer van datum 1 juni 2004.
 
 ### ART 40/9.
 
