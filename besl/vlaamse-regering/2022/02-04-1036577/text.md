@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Aalter, Deinze, De Pinte, Destelbergen, Gavere, Lievegem, Merelbeke, Melle, Nazareth, Sint-Martens-Latem en Zulte vormen het werkingsgebied Gent-Zuid.
+De gemeenten Aalter, Deinze, Destelbergen, Gavere, Lievegem, Merelbeke-Melle, Nazareth-De Pinte, Sint-Martens-Latem en Zulte vormen het werkingsgebied Gent-Zuid.
 
 ### ART 2.
 
