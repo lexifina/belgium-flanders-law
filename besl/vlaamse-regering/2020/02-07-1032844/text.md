@@ -231,7 +231,7 @@ De kosten die verbonden zijn aan de taak van de expert, zijn volledig ten laste 
 
 ### ART 7.
 
-De personeelsleden van de VREG houden toezicht op de naleving van de bepalingen van dit besluit. Artikel 13.1.2, § 2, van het Energiedecreet van 8 mei 2009 is daarbij van overeenkomstige toepassing.
+De personeelsleden van de&nbsp;Vlaamse Nutsregulator houden toezicht op de naleving van de bepalingen van dit besluit. Artikel 13.1.2, § 2, van het Energiedecreet van 8 mei 2009 is daarbij van overeenkomstige toepassing.
 
 ### ART 8.
 
