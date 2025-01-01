@@ -874,6 +874,12 @@ Het saldo van de subsidie wordt uitbetaald vóór 1 juli van het jaar dat volgt 
 
 ## Titel 1. Statuut van fitness in de georganiseerde sportsector
 
+### ART 64/1.
+
+Fitness neemt door zijn aard en door de organisatie van de fitnesssector een bijzondere plaats in binnen de georganiseerde sportsector. Fitness kan als hoofdactiviteit beoefend worden of heeft naar andere sporttakken of sporten toe hoofdzakelijk een complementaire of ondersteunende functie.<br>
+<br>
+Fitness kan niet als sporttak op de sporttakkenlijst worden opgenomen.
+
 ## Titel 2. Erkenning en subsidiëring van een organisatie voor fitness
 
 ## HOOFDSTUK 1. Erkenning van een organisatie voor fitness
