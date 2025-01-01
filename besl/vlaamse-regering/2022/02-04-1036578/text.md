@@ -33,7 +33,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Affligem, Asse, Dilbeek, Liedekerke, Merchtem, Opwijk, Roosdaal, Ternat, Wemmel, Bever, Herne, Galmaarden, Gooik en Lennik vormen het werkingsgebied Halle-Vilvoorde-Midden.
+De gemeenten Affligem, Asse, Dilbeek, Liedekerke, Merchtem, Opwijk, Roosdaal, Ternat, Wemmel, Bever, Lennik en Pajottegem vormen het werkingsgebied Halle-Vilvoorde-Midden.
 
 ### ART 2.
 
