@@ -262,7 +262,7 @@ Op het voldoende gemotiveerde verzoek van de woonzorgvoorziening of vereniging, 
 
 ### ART 16.
 
-Binnen de beschikbare begrotingskredieten kan de secretaris-generaal aan erkende woonzorgvoorzieningen, met uitzondering van de diensten voor thuisverpleging, de centra voor kortverblijf type 1, de groepen van assistentiewoningen en de centra voor herstelverblijf, en aan erkende verenigingen een jaarlijkse subsidie toekennen, als ze voldoen aan de bepalingen van dit hoofdstuk en de specifieke subsidievoorwaarden, vermeld in bijlage 1 tot en met 3, 5 tot en met 8, en 12, die bij dit besluit zijn gevoegd.<br>
+Binnen de beschikbare begrotingskredieten kan de secretaris-generaal aan erkende woonzorgvoorzieningen, met uitzondering van de diensten voor thuisverpleging, de centra voor kortverblijf type 1 en de groepen van assistentiewoningen, en aan erkende verenigingen een jaarlijkse subsidie toekennen, als ze voldoen aan de bepalingen van dit hoofdstuk en de specifieke subsidievoorwaarden, vermeld in bijlage 1 tot en met 3, 5 tot en met 9, en 12, die bij dit besluit zijn gevoegd.<br>
 <br>
 Binnen de beschikbare begrotingskredieten kunnen aan erkende woonzorgcentra en centra voor kortverblijf type 1, die aan de bepalingen van dit hoofdstuk voldoen, jaarlijkse subsidies worden toegekend voor de terbeschikkingstelling en het gebruik van infrastructuur, conform de bepalingen van bijlage 14, die bij dit besluit is gevoegd.
 
@@ -293,15 +293,15 @@ De initiatiefnemer voert een gezond financieel beleid, besteedt subsidies doelma
 
 ### ART 21.
 
-Jaarlijks bepaalt de minister voor de lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en type 3 en de verenigingen het prioriteitenschema voor de toekenning van de subsidie.<br>
+Jaarlijks bepaalt de minister voor de lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en type 3, de centra voor herstelverblijf en de verenigingen het prioriteitenschema voor de toekenning van de subsidie.<br>
 <br>
-Om het prioriteitenschema vast te stellen als vermeld in het eerste lid, baseert de minister zich op de lokale dienstencentra, de diensten voor gastopvang, de centra voor kortverblijf type 2 en type 3 en de verenigingen waarvan de datum van de erkenningsbeslissing valt vóór 1 juli van het jaar in kwestie, en de centra voor dagverzorging en de centra voor dagopvang waarvan de ingangsdatum van de erkenning valt op ten laatste 1 januari van het jaar in kwestie, maar die niet gesubsidieerd zijn. Het prioriteitenschema houdt minstens rekening met de bepalingen, vermeld in bijlage 1, 2, 6, 7, 8 en 12, die bij dit besluit zijn gevoegd.<br>
+Om het prioriteitenschema vast te stellen als vermeld in het eerste lid, baseert de minister zich op de lokale dienstencentra, de diensten voor gastopvang, de centra voor kortverblijf type 2 en type 3, de centra voor herstelverblijf en de verenigingen waarvan de datum van de erkenningsbeslissing valt vóór 1 juli van het jaar in kwestie, en de centra voor dagverzorging en de centra voor dagopvang waarvan de ingangsdatum van de erkenning valt op ten laatste 1 januari van het jaar in kwestie, maar die niet gesubsidieerd zijn. Het prioriteitenschema houdt minstens rekening met de bepalingen, vermeld in bijlage 1, 2, 6, 7, 8, 9 en 12, die bij dit besluit zijn gevoegd.<br>
 <br>
-De lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en type 3 en de verenigingen die in het voorgaande jaar al gesubsidieerd zijn en nog erkend zijn, worden opnieuw gesubsidieerd als ze voldoen aan de subsidiëringsvoorwaarden, vermeld in bijlage 1, 2, 6, 7, 8 en 12, die bij dit besluit zijn gevoegd.
+De lokale dienstencentra, de diensten voor gastopvang, de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en type 3, de centra voor herstelverblijf en de verenigingen die in het voorgaande jaar al gesubsidieerd zijn en nog erkend zijn, worden opnieuw gesubsidieerd als ze voldoen aan de subsidiëringsvoorwaarden, vermeld in bijlage 1, 2, 6, 7, 8, 9 en 12, die bij dit besluit zijn gevoegd.
 
 ### ART 22.
 
-Op straffe van niet-ontvankelijkheid vraagt een lokaal dienstencentrum, een dienst voor gastopvang, een centrum voor kortverblijf type 2 of type 3, of een vereniging die voor het eerst een subsidie aanvraagt, vóór 1 juli met een aangetekende brief aan de administratie de subsidie. De stukken die de minister bepaalt worden aan die aanvraag toegevoegd.
+Op straffe van niet-ontvankelijkheid vraagt een lokaal dienstencentrum, een dienst voor gastopvang, een centrum voor kortverblijf type 2 of type 3, een centrum voor herstelverblijf of een vereniging die voor het eerst een subsidie aanvraagt, vóór 1 juli met een aangetekende brief aan de administratie de subsidie. De stukken die de minister bepaalt worden aan die aanvraag toegevoegd.
 
 ### ART 23.
 
@@ -1529,7 +1529,7 @@ Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het u
 
 ### ART 53/1.
 
-§ 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 795.907,05 euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
+§ 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 803.070,21 euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal gepresteerde uren gezinszorg tussen 18 uur en 20 uur op werkdagen als vermeld in artikel 21, tweede lid, van deze bijlage, met inbegrip van de uren die gepresteerd zijn in een centrum voor dagopvang, door het verzorgend personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, van deze bijlage. De diensten kunnen per gepresteerd uur maximaal 15% van het bedrag, vermeld in artikel 52, eerste lid, 1°, van deze bijlage, ontvangen. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1585,7 +1585,7 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp jaarl
 
 ### ART 58.
 
-<p>§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 8.740.109,70 euro&nbsp;tussen de erkende private diensten voor gezinszorg.<br>
+<p>§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 8.743.040,74 euro&nbsp;tussen de erkende private diensten voor gezinszorg.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1599,7 +1599,7 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 
 ### ART 59.
 
-<p>§1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 170.195,54 euro verdeeld tussen de erkende diensten voor gezinszorg.<br>
+<p>§1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 171.274,05 euro verdeeld tussen de erkende diensten voor gezinszorg.<br>
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan personeel van gezinszorg is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1620,7 +1620,7 @@ Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor 
 <br>
 Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.<br>
 <br>
-§ 4. Voor de maatregel verplaatsingen met de fiets of bromfiets in opdracht wordt ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 een extra budget van 36.482,27euro boven op het budget, vermeld in paragraaf 1, eerste lid, verdeeld tussen de private diensten voor gezinszorg.<br>
+§ 4. Voor de maatregel verplaatsingen met de fiets of bromfiets in opdracht wordt ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 een extra budget van 36.709,05 euro boven op het budget, vermeld in paragraaf 1, eerste lid, verdeeld tussen de private diensten voor gezinszorg.<br>
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan verzorgend personeel is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1660,7 +1660,7 @@ Het bedrag, vermeld in paragraaf 1, eerste lid, wordt geïndexeerd conform artik
 
 ### ART 61.
 
-<p>§1. Voor de maatregel eindejaarspremie wordt een budget van 9.782.838,58 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p>§1. Voor de maatregel eindejaarspremie wordt een budget van 9.870.884,13 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1672,7 +1672,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 62.
 
-<p>§ 1. Voor de maatregelen managementondersteuning, koopkracht, uurroosterverstoring, innovatie en digitalisering, en de baremaverhoging voor het verzorgend personeel en de omkadering wordt een budget van 37.524.996,88 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p>§ 1. Voor de maatregelen managementondersteuning, koopkracht, uurroosterverstoring, innovatie en digitalisering, en de baremaverhoging voor het verzorgend personeel en de omkadering wordt een budget van 37.862.721,85 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. 88,46% van het budget, vermeld in paragraaf 1, waarvan 78,66% voor koopkracht van het verzorgend personeel en het overige personeel, 0,60% voor uurroosterverstoring en 3,15% voor innovatie en digitalisering, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1684,9 +1684,9 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 ### ART 63.
 
-<p>§ 1. Voor de maatregel werkdrukvermindering, koopkracht en innovatie en digitalisering wordt er een budget verdeeld van 8.108.437,15 euro tussen de erkende openbare diensten voor gezinszorg.&nbsp;Het budget voor de maatregel koopkracht en voor de maatregel innovatie en digitalisering stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p>§ 1. Voor de maatregel werkdrukvermindering, koopkracht en innovatie en digitalisering wordt er een budget verdeeld van 8.171.247,54 euro tussen de erkende openbare diensten voor gezinszorg.&nbsp;Het budget voor de maatregel koopkracht en voor de maatregel innovatie en digitalisering stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
-8,23% van het budget, vermeld in het eerste lid, is voor de maatregel werkdrukvermindering, 83,49% van het voormelde budget is voor de koopkrachtmaatregel, en 2,58% van het voormelde budget is voor de maatregel innovatie en digitalisering uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025.<br>
+8,17% van het budget, vermeld in het eerste lid, is voor de maatregel werkdrukvermindering, 83,59% van het voormelde budget is voor de koopkrachtmaatregel, en 2,58% van het voormelde budget is voor de maatregel innovatie en digitalisering uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de openbare diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1705,6 +1705,18 @@ De diensten gebruiken het budget, vermeld in het eerste lid, voor een permanent 
 Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor het derde trimester.<br>
 <br>
 §3. Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</p>
+
+### ART 64/1.
+
+§1. Om het mentale welzijn van kwetsbare personen te bevorderen en voor de preventie van eenzaamheid wordt een budget van 2.510.265,80&nbsp;euro verdeeld tussen de erkende diensten voor gezinszorg.<br>
+<br>
+De erkende diensten gebruiken het budget, vermeld in het eerste lid, om de nodige expertiseopbouw te verwezenlijken, om kennis te delen met andere diensten voor gezinszorg en om samenwerkingen aan te gaan om het mentale welzijn van kwetsbare personen te bevorderen en voor de preventie van eenzaamheid, en om mentale kwetsbaarheid en eenzaamheid in de praktijk aan te pakken.&nbsp;<br>
+<br>
+De erkende diensten beschrijven het beleid en vermelden de initiatieven die ze in het kader van de toepassing van het eerste en tweede lid nemen en plannen, in de kwaliteitsplanning en het jaarverslag, vermeld in artikel 9, §2, van dit besluit.<br>
+<br>
+§2. Het budget, vermeld in paragraaf 1, eerste lid, wordt evenredig verdeeld tussen de diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft. Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor het derde trimester.<br>
+<br>
+§3. Het bedrag, vermeld in paragraaf 1, eerste lid, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.
 
 ### ART 65.
 
@@ -1817,7 +1829,7 @@ Het bedrag, vermeld in het eerste lid, wordt verhoogd met 1932,08 euro om de koo
 
 ### ART 77.
 
-§1. Voor de maatregel eindejaarspremie wordt een budget van 2.394.183,22 euro verdeeld tussen de erkende private diensten&nbsp;<br>
+§1. Voor de maatregel eindejaarspremie wordt een budget van 2.391.128,18 euro verdeeld tussen de erkende private diensten&nbsp;<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1830,7 +1842,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 78.
 
-<p>§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten. Dat budget bedraagt 2.297.008,59 euro.<br>
+<p>§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten. Dat budget bedraagt 2.294.077,55 euro.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -5504,7 +5516,7 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 15.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het financiële verslag wordt in het centrum ter beschikking gehouden. Het financiële verslag omvat de goedgekeurde jaarrekening en de resultatenrekening, uitgesplitst per activiteitencentrum. In een bijlage bij het verslag wordt vermeld hoe de inkomsten en de uitgaven van de initiatiefnemer verdeeld zijn over het centrum en eventuele woonzorgvoorzieningen of een centrum voor kortverblijf of ziekenhuizen.</span></span></p>
+<p>...</p>
 
 ### ART 16.
 
@@ -5598,7 +5610,47 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 <br>
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De verblijfsdagprijs en de tarieven voor overige kosten worden vooraf aan de gebruiker meegedeeld op een transparante wijze. Die tarieven hangen ook zichtbaar op in het centrum.</span></span></p>
 
-## Afdeling 7. Overgangsbepaling
+## Hoofdstuk 4. Subsidiëring
+
+### ART 27/1.
+
+In dit hoofdstuk wordt verstaan onder gemiddelde bezettingsgraad: het totale aantal gefactureerde verblijfsdagen voor de erkende gesubsidieerde verblijfseenheden in exploitatie per kalenderjaar, gedeeld door het product van het aantal dagen van het kalenderjaar in kwestie en het aantal erkende gesubsidieerde verblijfseenheden in exploitatie. Er wordt geen rekening gehouden met het aantal aanwezigheidsdagen die boven op de maximale verblijfsduren, vermeld in artikel 10, komen, tenzij die gemotiveerd zijn conform dat artikel.
+
+### ART 27/2.
+
+§1. Voor de werkingskosten en bepaalde loonkosten die gepaard gaan met de werking van een centrum, kan jaarlijks een subsidiebedrag worden toegekend dat berekend wordt op basis van de gemiddelde bezettingsgraad.<br>
+<br>
+De kosten, vermeld in het eerste lid, omvatten:<br>
+1°&nbsp;&nbsp; &nbsp;de loonkosten voor niet-medisch en ondersteunend personeel;<br>
+2°&nbsp;&nbsp; &nbsp;de kosten voor verbruiksgoederen;<br>
+3°&nbsp;&nbsp; &nbsp;de energiekosten;<br>
+4°&nbsp;&nbsp; &nbsp;de kosten die verbonden zijn aan het naleven van de specifieke erkenningsvoorwaarden, vermeld in hoofdstuk 3 van deze bijlage, met uitzondering van de voorwaarden voor infrastructuur, vermeld in artikel 25 en 26 van deze bijlage.<br>
+<br>
+§2. Het prioriteitenschema voor de centra, vermeld in artikel 21 van dit besluit, houdt rekening met:<br>
+1°&nbsp;&nbsp; &nbsp;de datum van de erkenningsbeslissing;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de geografische spreiding van de centra over de regionale steden, vermeld in de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.
+
+### ART 27/3.
+
+§1. Een centrum dat in het begrotingsjaar een gemiddelde bezettingsgraad van minimaal 70% realiseert, komt in aanmerking voor een subsidiebedrag van 1260 euro per erkende verblijfseenheid in exploitatie die in aanmerking komt voor subsidiëring in het begrotingsjaar zoals bepaald in artikel 21 van dit besluit. &nbsp;<br>
+<br>
+Als het centrum in het begrotingsjaar een gemiddelde bezettingsgraad van minimaal 50%, maar minder dan 70% realiseert, ontvangt het 70% van de subsidie, berekend volgens het eerste lid.<br>
+<br>
+Als het centrum in het begrotingsjaar een gemiddelde bezettingsgraad van minimaal 30%, maar minder dan 50% realiseert, ontvangt het 50% van de subsidie, berekend volgens het eerste lid.<br>
+<br>
+Als het centrum in het begrotingsjaar een gemiddelde bezettingsgraad van minder dan 30% realiseert, komt het niet in aanmerking voor een subsidie.<br>
+<br>
+Het subsidiebedrag, vermeld in het eerste lid, bestaat voor 80% uit een subsidie voor personeelskosten en voor 20% uit een subsidie voor werkingskosten.<br>
+<br>
+§2. Elk trimester wordt een voorschot uitbetaald van 22,5% van het subsidiebedrag per erkende verblijfseenheid in exploitatie als vermeld in paragraaf 1, eerste lid, vermenigvuldigd met het aantal erkende, reeds gesubsidieerde verblijfseenheden in exploitatie op 1 januari van het begrotingsjaar. Die voorschotten worden uitbetaald voor het einde van de tweede maand van het trimester waarop ze betrekking hebben.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In afwijking van het eerste lid, worden voor de erkende verblijfseenheden in exploitatie die nog niet gesubsidieerd zijn en die een eerste keer in het begrotingsjaar en ten vroegste vanaf de ingangsdatum van de erkenning in aanmerking komen voor subsidiëring zoals bepaald in artikel 21 van dit besluit, twee voorschotten uitbetaald van 22,5% van het subsidiebedrag per erkende verblijfseenheid in exploitatie als vermeld in paragraaf 1, eerste lid, vermenigvuldigd met het aantal erkende verblijfseenheden in exploitatie op 1 juli van het begrotingsjaar.<br>
+<br>
+Het saldo wordt berekend en uitbetaald na afloop van het begrotingsjaar op basis van het totale aantal gefactureerde verblijfsdagen in erkende gesubsidieerde verblijfseenheden in exploitatie gedurende het begrotingsjaar in kwestie, conform artikel 27/1. Voor de berekening van het saldo bezorgt het centrum voor 1 maart van het jaar dat volgt op het begrotingsjaar in kwestie, een overzicht via het e-loket aan de administratie.<br>
+<br>
+Als een centrum meer voorschotten ontvangen heeft dan het subsidiebedrag waarop het recht heeft op basis van de gegevens die zijn bezorgd conform het derde lid, wordt het verschil teruggevorderd.
+
+## Hoofdstuk 5. Overgangsbepalingen
 
 ### ART 28.
 
