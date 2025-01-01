@@ -34,10 +34,10 @@ De ter beschikking gestelde formulieren worden volledig ingevuld.<br>
 <br>
 De hoeveelheden elektriciteit of aardgas, opgegeven door de beheerders van een elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, het transmissienet, een aardgasdistributienet of het vervoernet, zijn gebaseerd op de gevalideerde meet- en allocatiegegevens van de maanden januari tot en met december.<br>
 <br>
-De beheerders van een elektriciteitsdistributienet en van een aardgasdistributienet en de beheerder van het plaatselijk vervoernet van elektriciteit volgen de meetcodes die zijn opgenomen in de Technische Reglementen van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt, zoals gepubliceerd in het Belgisch Staatsblad.<br>
+De beheerders van een elektriciteitsdistributienet en van een aardgasdistributienet en de beheerder van het plaatselijk vervoernet van elektriciteit volgen de meetcodes die zijn opgenomen in de Technische Reglementen van de Vlaamse Nutsregulator, zoals gepubliceerd in het Belgisch Staatsblad.<br>
 <br>
 De afnamehoeveelheden, opgegeven door de beheerders van een elektriciteitsdistributienet of door de beheerder van het plaatselijk vervoernet van elektriciteit, zijn gelijk aan :<br>
-1°de afnamegegevens die ze in hetzelfde kalenderjaar aan de Vlaamse Regulator van de Elektriciteits- en Gasmarkt bezorgen in het kader van de controle op de quotumverplichting met betrekking tot groene stroom op grond van artikel 7.1.10 van het Energiedecreet van 8 mei 2009;<br>
+1°de afnamegegevens die ze in hetzelfde kalenderjaar aan de Vlaamse Nutsregulator bezorgen in het kader van de controle op de quotumverplichting met betrekking tot groene stroom op grond van artikel 7.1.10 van het Energiedecreet van 8 mei 2009;<br>
 2° de afnamegegevens in het ontwerp REG-actieplan dat ze in hetzelfde kalenderjaar aan het VEKA bezorgen op grond van artikel 6.4.15 van het Energiebesluit van 19 november 2010.<br>
 <br>
 De gegevens die de exploitant van een warmtekrachtinstallatie of hernieuwbare energie-installatie ter beschikking stelt, zijn gelijk aan de overeenkomstige gegevens die de exploitant desgevallend bezorgt aan :<br>
