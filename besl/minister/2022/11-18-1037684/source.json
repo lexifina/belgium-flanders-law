@@ -2,16 +2,16 @@
   "codex_id": 1037684,
   "title": "Ministerieel besluit van 2022-11-18 over de uitbetalingsregels voor de vergoedingen voor de opkoop van groenestroomcertificaten door de elektriciteitsdistributienetbeheerders, vermeld in artikel 6.4.14/2 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037684/VolledigDocument?datum=2022-12-02",
-  "source_sha256": "d85037b8a888f6757b85221c442f4890a35aa345cb4bf04db01abd347248f87e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037684/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "a3a2bc42070fdd87c404074a27ba92a8f6791eef5dfaefe64f169dabd6231695",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037684&param=informatie",
-  "as_of": "2022-12-02",
+  "as_of": "2025-01-01",
   "made": "2022-11-18",
   "gazette": "2022-12-02",
   "numac": 2022042837,
   "document_start": "2022-12-02",
   "document_end": null,
-  "in_force": "2022-12-02",
+  "in_force": "2025-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2022-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
