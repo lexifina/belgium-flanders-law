@@ -30,11 +30,9 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 Voor de woonmaatschappij die erkend is voor het werkingsgebied Midwest-Oost, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1°&nbsp;&nbsp; &nbsp;gemeente Meulebeke: 18,62%;<br>
-2°&nbsp;&nbsp; &nbsp;gemeente Pittem: 11,58%;<br>
-3°&nbsp;&nbsp; &nbsp;gemeente Ruislede: 7,66%;<br>
-4°&nbsp;&nbsp; &nbsp;gemeente Tielt: 41,69%;<br>
-5°&nbsp;&nbsp; &nbsp;gemeente Wingene: 20,45%.<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Pittem: 11,58%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Tielt: 60,31%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Wingene: 28,11%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
