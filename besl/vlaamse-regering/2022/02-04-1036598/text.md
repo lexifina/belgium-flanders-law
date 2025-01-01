@@ -38,7 +38,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Beveren, Kruibeke, Stekene, Sint-Gillis-Waas en Zwijndrecht vormen het werkingsgebied Waasland-Oost.
+De gemeenten Beveren-Kruibeke-Zwijndrecht, Stekene en Sint-Gillis-Waas vormen het werkingsgebied Waasland-Oost.
 
 ### ART 2.
 
