@@ -10,6 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 In dit besluit wordt verstaan onder :<br>
 1° agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br>
+1°/1 G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen;<br>
 2° sociaal netwerk : een of meer natuurlijke personen die vanuit een familiale, sociale of emotionele band de zorgvrager, niet beroepshalve maar meer dan occasioneel, helpen of ondersteunen, of die betrokken zijn bij zijn dagelijkse leven;<br>
 3° dienst : de dienst Ondersteuningsplan;<br>
 4° ...<br>
@@ -205,7 +206,7 @@ Het bedrag, vermeld in het vierde lid, mag niet aangewend worden voor reservevor
 <br>
 In afwijking van het zesde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
+Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 &nbsp;
 
 ### ART. 13.
@@ -225,7 +226,10 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en de daa
 
 ### ART. 16.
 
-Per gepresteerde begeleiding ontvangt de dienst een werkingstoelage van 25 euro (vijfentwintig euro), met een maximum van het aantal begeleidingen, vermeld in de erkenning.<br /><br />Het bedrag, vermeld in het eerste lid, is gebonden aan het referte-indexcijfer (basis 2004 = 100), dat van kracht is bij de inwerkingtreding van dit besluit. Het wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br />(basisbedrag x G-index december 20../G-index maand voor inwerkingtreding).<br /><br />
+Per gepresteerde begeleiding ontvangt de dienst een werkingstoelage van 25 euro (vijfentwintig euro), met een maximum van het aantal begeleidingen, vermeld in de erkenning.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
+&nbsp;
 
 ### ART. 17.
 
