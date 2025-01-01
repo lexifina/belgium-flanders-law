@@ -2,16 +2,16 @@
   "codex_id": 1030045,
   "title": "Ministerieel besluit van 2018-12-10 tot aanwijzing van de gewestelijke verbalisanten ruimtelijke ordening van de afdeling Handhaving van het departement Omgeving die de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings, verkrijgen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030045/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "72a7a9b6459182c96ea9666840730e6e94d678b24cf6ee9ecacf36efa926ff28",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030045/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "3535c4f7a33dcbd7f0f77e58ce3b6941217f0775dec213b1fc5e167f1310ba73",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030045&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2025-01-01",
   "made": "2018-12-10",
   "gazette": "2018-12-27",
   "numac": 2018015592,
   "document_start": "2018-12-12",
   "document_end": null,
-  "in_force": "2023-09-01",
+  "in_force": "2025-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
