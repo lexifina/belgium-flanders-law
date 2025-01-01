@@ -95,7 +95,9 @@ In een overgangsfase kent de deelentiteit die de betrokken voorziening erkent in
 
 ### ART 7.
 
-De overgangsfase, vermeld in artikel 6, geldt voor drie jaar en wordt éénmalig stilzwijgend verlengd voor een nieuwe periode van drie jaar, bij gebrek aan een nieuw akkoord.
+De overgangsfase, vermeld in artikel 6, geldt tot en met 31 december 2027. De partijen bij het akkoord kunnen de overgangsfase éénmalig verlengen middels een uitvoeringsakkoord, vermeld in artikel 92bis, § 1, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en dit voor een termijn van maximaal drie jaar.<br>
+<br>
+Het uitvoeringsakkoord, vermeld in het eerste lid, wordt in extenso bekendgemaakt in het Belgisch Staatsblad.
 
 ### ART 8.
 
