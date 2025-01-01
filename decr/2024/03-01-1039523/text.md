@@ -1,10 +1,14 @@
 # Decreet van 2024-03-01 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft het stimuleren van de audiovisuele sector door financiële bijdragen aan de productie van audiovisuele werken
 
+## Hoofdstuk 1. Inleidende bepaling
+
 ### ART 1.
 
 Dit decreet regelt een gemeenschapsaangelegenheid.<br>
 <br>
 Het voorziet in de gedeeltelijke omzetting van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten).
+
+## Hoofdstuk 2. Wijzigingen van het decreet van 27 maart 2009 betreffende radio-omroep en televisie
 
 ### ART 2.
 
@@ -37,6 +41,216 @@ Voor de televisieomroeporganisatie die nog niet over drie goedgekeurde jaarreken
 
 In artikel 155, eerste lid, van hetzelfde decreet worden de woorden “door van de televisieomroeporganisaties onafhankelijke producenten” vervangen door de zinsnede “door onafhankelijke producenten of door producenten die geen onafhankelijke producenten zijn als vermeld artikel 2, 49°, maar die onafhankelijk zijn in de zin van artikel 2, 49°, a), van de televisieomroeporganisatie die de productie uitzendt”.
 
+### ART 4.
+
+In artikel 157 van hetzelfde decreet, vervangen bij het decreet van 29 juni 2018 en gewijzigd bij het decreet van 22 maart 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de woorden “niet-lineaire televisieomroeporganisaties” telkens vervangen door de woorden “televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden”;<br>
+2° in paragraaf 1 wordt het tweede lid vervangen door wat volgt:<br>
+“De verplichtingen, vermeld in het eerste lid, zijn niet van toepassing op televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden die minstens aan een van de volgende voorwaarden voldoen:<br>
+1° ze zijn een micro-onderneming;<br>
+2° ze bereiken met hun aanbod van niet-lineaire televisiediensten minder dan 0,5% van alle inwoners van het Nederlandse taalgebied.”;<br>
+3° in paragraaf 1 wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+“De Vlaamse Regering bepaalt de nadere voorwaarden en regels voor de vrijstellingen, vermeld in het tweede lid.”;<br>
+4° paragraaf 2 wordt opgeheven;<br>
+5° in paragraaf 3 worden de woorden “de paragrafen 1 en 2” vervangen door de woorden “paragraaf 1”;<br>
+6° paragraaf 4 wordt opgeheven;<br>
+7° in paragraaf 3 worden de woorden “niet-lineaire televisieomroeporganisaties” vervangen door de woorden “televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden”.
+
+### ART 5.
+
+In deel IV van hetzelfde decreet, het laatst gewijzigd bij het decreet van 2 juli 2021, wordt titel 1/1, die bestaat uit artikel 184/1, opgeheven.
+
+### ART 6.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt een deel IV/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Deel IV/1. Stimulering van de audiovisuele sector door deelname aan de productie van audiovisuele werken”.
+
+### ART 7.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in deel IV/1, ingevoegd bij artikel 6, een titel I ingevoegd, die luidt als volgt:<br>
+<br>
+“Titel I. Toepassingsgebied”.
+
+### ART 8.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel I, ingevoegd bij artikel 7, een artikel 188/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/1. §1. De volgende investeerders nemen jaarlijks deel aan de productie van audiovisuele werken in de vorm van een rechtstreekse financiële bijdrage aan de productie van audiovisuele werken of in de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds:<br>
+1° dienstenverdelers die een of meer omroepdiensten van een of meer televisieomroeporganisaties die vallen onder de bevoegdheid van de Vlaamse Gemeenschap, op lineaire of niet-lineaire wijze ter beschikking stellen van het publiek;<br>
+2° particuliere omroeporganisaties die onder de bevoegdheid vallen van de Vlaamse Gemeenschap met toepassing van artikel 150/1 voor de door hen aangeboden niet-lineaire televisiediensten in een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte, of daarbuiten;<br>
+3° particuliere omroeporganisaties, voor de door hen aangeboden niet-lineaire televisiediensten in:<br>
+&nbsp; a) het Nederlandse taalgebied;<br>
+&nbsp; b) het tweetalige gebied Brussel-Hoofdstad;<br>
+4° aanbieders van videoplatformdiensten die onder de bevoegdheid vallen van de Vlaamse Gemeenschap met toepassing van artikel 176/3 voor de door hen aangeboden videoplatformdiensten in een andere lidstaat van de Europese Unie of de Europese Economische Ruimte, of daarbuiten;<br>
+5° aanbieders van videoplatformdiensten, voor de door hen aangeboden videoplatformdiensten in:<br>
+&nbsp; a) het Nederlandse taalgebied;<br>
+&nbsp; b) het tweetalige gebied Brussel-Hoofdstad.<br>
+&nbsp;<br>
+§2. De verplichte financiële bijdrage aan de productie van audiovisuele werken, vermeld in paragraaf 1, is niet van toepassing op:<br>
+1° particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden en die minstens aan een van de volgende voorwaarden voldoen:<br>
+&nbsp; a) ze zijn een micro-onderneming;<br>
+&nbsp; b) ze bereiken met hun aanbod van niet-lineaire televisiediensten minder dan 0,5% van alle inwoners van het Nederlandse taalgebied;<br>
+&nbsp; c) ze bieden jaarlijks minder dan tien audiovisuele werken aan;<br>
+&nbsp; d) hun aanbod bestaat hoofdzakelijk uit programma’s die gebaseerd zijn op ‘Broadcaster Video on Demand’-rechten;<br>
+2° dienstenverdelers en aanbieders van videoplatformdiensten die een micro-onderneming zijn.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en regels voor de vrijstellingen van de bijdrage.”.
+
+### ART 9.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in deel IV/1, ingevoegd bij artikel 6, een titel II ingevoegd, die luidt als volgt:<br>
+<br>
+“Titel II. Algemene bepalingen”.
+
+### ART 10.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel II, ingevoegd bij artikel 9, een artikel 188/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/2. §1. De rechtstreekse financiële bijdrage aan de productie van audiovisuele werken, als vermeld in artikel 188/1, §1, kan de volgende vormen aannemen:<br>
+1° een bijdrage aan Vlaamse productieprojecten, die worden voorgelegd aan de Vlaamse Regulator voor de Media om de ontvankelijkheid en erkenning ervan te beoordelen;<br>
+2° een bijdrage om uitzendrechten voor het Nederlandse taalgebied te verwerven op een Vlaams productieproject, vermeld in punt 1°.<br>
+<br>
+Het Vlaams Audiovisueel Fonds besteedt de gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds, vermeld in artikel 188/1, §1, conform de beheersovereenkomsten tussen de Vlaamse Gemeenschap en het Vlaams Audiovisueel Fonds vzw over het VAF/Mediafonds en VAF/Filmfonds.<br>
+<br>
+§2. De Vlaamse Regering bepaalt:<br>
+1° de criteria op basis waarvan een productieproject kan gekwalificeerd worden als een Vlaams productieproject;<br>
+2° de nadere regels, voorwaarden en de procedure voor indiening van de Vlaamse productieprojecten, vermeld in paragraaf 1, eerste lid, 1°;<br>
+3° de voorwaarden en de regels om een bijdrage om uitzendrechten te verwerven als vermeld in paragraaf 1, eerste lid, 2°, mee in rekening te nemen;<br>
+4° de voorwaarden en regels met betrekking tot de beoordeling van de ontvankelijkheid, de erkenning en de opvolging van de Vlaamse productieprojecten en bijdragen om uitzendrechten te verwerven, vermeld in paragraaf 1, eerste lid;<br>
+5° de nadere regels met betrekking tot de procedure voor de gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+§3. Investeerders die met toepassing van paragraaf 1 onvoldoende financiële bijdragen aan Vlaamse productieprojecten hebben voorgelegd aan de Vlaamse Regulator voor de Media, of die onvoldoende financiële bijdragen aan Vlaamse productieprojecten kunnen inbrengen als gevolg van de beslissing van de Vlaamse Regulator voor de Media dat een of meer Vlaamse productieprojecten niet ontvankelijk zijn of niet erkend worden, zijn gehouden tot de financiële bijdrage aan het Vlaams Audiovisueel Fonds voor het volledige bedrag, vermeld in titel III, met aftrek van de bijdragen die al zijn voorgelegd voor Vlaamse productieprojecten die al zijn voorgelegd en erkend.<br>
+<br>
+§4. Een financiële bijdrage aan een productie ter uitvoering van een andere wettelijke of reglementaire verplichting of die een ander wettelijk of reglementair voordeel met zich meebrengt, kan niet in rekening worden gebracht in het kader van de bijdrageverplichting, vermeld in artikel 188/1, §1.”.
+
+### ART 11.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel II, ingevoegd bij artikel 9, een artikel 188/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/3. Iedere investeerder, vermeld in artikel 188/1, §1, bezorgt de Vlaamse Regulator voor de Media, het Vlaams Audiovisueel Fonds, de Vlaamse minister bevoegd voor media en de Vlaamse minister bevoegd voor cultuur jaarlijks vóór 15 april de volgende gegevens en bewijsstukken:<br>
+1° de gekozen vorm van deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1;<br>
+2° het bedrag van de financiële bijdrage, vermeld in titel III, en, in voorkomend geval, de bewijsstukken om het voormelde bedrag te staven;<br>
+3° in voorkomend geval het bewijs van toepasbaarheid van een van de uitsluitingsgronden, vermeld in artikel 188/1, §2. De bewijsstukken van de voorwaarden, vermeld in artikel 188/1, §2, eerste lid, 1° en 2°, hebben betrekking op de gegevens van het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1.<br>
+<br>
+Als de gegevens of de bewijsstukken, vermeld in het eerste lid onder punt 2° en punt 3°, niet tijdig zijn ingediend, wordt de investeerder geacht gekozen te hebben voor een deelname aan de productie van audiovisuele werken door middel van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds voor het forfaitaire bedrag dat de investeerder verschuldigd is op basis van respectievelijk artikel 188/4, 1°, artikel 188/5, §1, eerste lid, 1°, of artikel 188/6, §1, eerste lid, 1°. De Vlaamse Regulator voor de Media brengt de betrokken investeerder daarvan op de hoogte. Een investeerder is vrijgesteld van het betalen van het forfaitair bedrag indien hij binnen de tien werkdagen na de kennisgeving aan de Vlaamse Regulator voor de Media, kan aantonen dat hij voldoet aan één van de uitsluitingsgronden, vermeld in artikel 188/1, §2.<br>
+<br>
+De dossiers met de gegevens en bewijsstukken, vermeld in het eerste lid, worden in het Nederlands ingediend. De investeerder die gevestigd is in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, of daarbuiten, of in België maar niet in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad, kan zijn dossier in het Engels indienen.<br>
+<br>
+De gegevens en bewijsstukken, vermeld in het eerste lid, worden elektronisch ingediend, op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en regels betreffende de rapportering door de Vlaamse Regulator voor de Media en het Vlaams Audiovisueel Fonds over de deelname aan de productie van audiovisuele werken in de vorm van een rechtstreekse financiële bijdrage aan de productie van audiovisuele werken of in de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds als vermeld in artikel 188/1.”.
+
+### ART 12.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in deel IV/1, ingevoegd bij artikel 6, een titel III ingevoegd, die luidt als volgt:<br>
+<br>
+“Titel III. Bijdrage”.
+
+### ART 13.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel III, ingevoegd bij artikel 12, een hoofdstuk I ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk I. Dienstenverdelers”.
+
+### ART 14.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in hoofdstuk I, ingevoegd bij artikel 13, een artikel 188/4 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/4. De dienstenverdelers kiezen een van de volgende systemen voor het bepalen van de jaarlijkse bijdrage om hun verplichting tot deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1, na te leven:<br>
+1° de betaling van een forfaitair bedrag van 7 miljoen euro. Het voormelde forfaitaire bedrag wordt jaarlijks geïndexeerd conform artikel 188/7;<br>
+2° de betaling van een bedrag van 3 euro per abonnee in het Nederlandse taalgebied. Het voormelde bedrag wordt jaarlijks geïndexeerd conform artikel 188/7. Het aantal abonnees wordt bepaald op grond van de meest recente gegevens die zijn meegedeeld ter uitvoering van artikel 182, voorafgaand aan het jaar van de deelname aan de productie van audiovisuele werken, en die door de Vlaamse Regulator voor de Media aanvaard zijn.”.
+
+### ART 15.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel III, ingevoegd bij artikel 12, een hoofdstuk II ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk II. Particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden”.
+
+### ART 16.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in hoofdstuk II, ingevoegd bij artikel 15, een artikel 188/5 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/5. §1. De particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden, kiezen een van de volgende systemen voor het bepalen van de jaarlijkse bijdrage om hun verplichting tot deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1, na te leven:<br>
+1° de betaling van een forfaitair bedrag van 7 miljoen euro. Het voormelde forfaitaire bedrag wordt jaarlijks geïndexeerd conform artikel 188/7;<br>
+2° de betaling van een bedrag dat gelijk is aan:<br>
+&nbsp; a) 2% van hun omzet als die tussen 0 euro en 15 miljoen euro ligt;<br>
+&nbsp; b) 3% van hun omzet als die tussen 15 en 30 miljoen euro ligt;<br>
+&nbsp; c) 4% van hun omzet als die hoger dan 30 miljoen euro ligt.<br>
+<br>
+De omzet, vermeld in het eerste lid, 2°, heeft betrekking op de omzet die gerealiseerd wordt in het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken.<br>
+<br>
+In het eerste lid, 2°, wordt onder omzet verstaan: de volgende inkomsten uit de levering aan de eindgebruiker van niet-lineaire televisiediensten, exclusief btw:<br>
+1° de inkomsten uit de betaling door de eindgebruiker. Die omvatten niet de inkomsten van particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden die geen onderscheiden rechtspersoonlijkheid hebben van een dienstenverdeler of waarover exclusieve controle wordt uitgeoefend door een dienstenverdeler die valt onder de toepassing van artikel 188/1, §1, 1°, voor hun aanbod van niet-lineaire televisiediensten dat op transactionele basis alleen beschikbaar is voor abonnees van die dienstenverdeler;<br>
+2° de inkomsten uit overeenkomsten met dienstenverdelers en aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+3° de inkomsten uit de valorisatie van data;<br>
+4° de inkomsten uit audiovisuele commerciële communicatie.<br>
+<br>
+Als een particuliere omroeporganisatie die niet-lineaire televisiediensten aanbiedt, gedurende het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken, minder dan twaalf maanden actief was, wordt de jaaromzet berekend door de gemiddelde maandelijkse omzet van het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken, met twaalf te vermenigvuldigen.<br>
+<br>
+De particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden, bewijzen hun omzet, vermeld in het eerste lid, 2°, met stukken die gevalideerd zijn door een bedrijfsrevisor. De voormelde stukken worden integraal als bijlage gevoegd bij de gegevens en bewijsstukken, vermeld in artikel 188/3. De Vlaamse Regulator voor de Media is bevoegd om over de voormelde stukken alle relevante inlichtingen en documenten te vragen aan de particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden.<br>
+<br>
+§2. Voor de particuliere omroeporganisaties wat betreft hun diensten, vermeld in 188/1, §1, 2°, wordt voor de berekening van de omzet, vermeld in paragraaf 1, eerste lid, 2°, rekening gehouden met de inkomsten in alle andere lidstaten van de Europese Unie waarop ze zich richten, in voorkomend geval na aftrek van de inkomsten die afkomstig zijn uit een andere lidstaat waarop de omroeporganisatie zich richt en waar ze met toepassing van artikel 13 van de richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten onderworpen is aan een stelsel van financiële bijdragen aan de productie van Europese werken.<br>
+<br>
+Voor particuliere omroeporganisaties wat betreft hun diensten, vermeld in artikel 188/1, §1, 3°, wordt alleen rekening gehouden met de inkomsten van de diensten die aangeboden worden in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad om de omzet, vermeld in paragraaf 1, eerste lid, 2°, te berekenen.”.
+
+### ART 17.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel III, ingevoegd bij artikel 12, een hoofdstuk III ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk III. Aanbieders van videoplatformdiensten”.
+
+### ART 18.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in hoofdstuk III, ingevoegd bij artikel 17, een artikel 188/6 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/6. §1. Aanbieders van videoplatformdiensten kiezen een van de volgende systemen voor het bepalen van de jaarlijkse bijdrage om hun verplichting tot deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1, na te leven:<br>
+1° de betaling van een forfaitair bedrag van 7 miljoen euro. Het voormelde forfaitaire bedrag wordt jaarlijks geïndexeerd conform artikel 188/7;<br>
+2° de betaling van een bedrag dat gelijk is aan:<br>
+&nbsp; a) 2% van hun omzet als die tussen 0 euro en 15 miljoen euro ligt;<br>
+&nbsp; b) 3% van hun omzet als die tussen 15 en 30 miljoen euro ligt;<br>
+&nbsp; c) 4% van hun omzet als die hoger dan 30 miljoen euro ligt.<br>
+&nbsp;<br>
+De omzet, vermeld in het eerste lid, 2°, heeft betrekking op de omzet die gerealiseerd wordt in het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken.<br>
+<br>
+In het eerste lid, 2°, wordt verstaan onder omzet: de inkomsten, exclusief btw, die verworven worden uit:<br>
+1° de betaling door de eindgebruiker;<br>
+2° de overeenkomsten met dienstenverdelers en aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+3° de valorisatie van data;<br>
+4° commerciële communicatie.<br>
+<br>
+§2. De aanbieders van videoplatformdiensten bewijzen hun omzet, vermeld in paragraaf 1, tweede lid, met stukken die gevalideerd zijn door een bedrijfsrevisor. De voormelde stukken worden integraal als bijlage gevoegd bij de gegevens en bewijsstukken, vermeld in artikel 188/3. De Vlaamse Regulator voor de Media is bevoegd om over de voormelde stukken alle relevante inlichtingen en documenten te vragen aan de aanbieders van de videoplatformdienst.<br>
+<br>
+§3. Voor aanbieders van videoplatformdiensten wat betreft hun diensten, vermeld in artikel 188/1, §1, 4°, wordt voor de berekening van de omzet, vermeld in paragraaf 1, eerste lid, 2°, rekening gehouden met de inkomsten in alle andere lidstaten van de Europese Unie waarop ze zich richten, in voorkomend geval na aftrek van de inkomsten die afkomstig zijn uit een andere lidstaat waarop de aanbieder van de videoplatformdienst zich richt en waar deze ook onderworpen is aan een stelsel van financiële bijdragen teneinde de productie van Europese werken te stimuleren.<br>
+<br>
+Voor aanbieders van videoplatformdiensten wat betreft hun diensten, vermeld in artikel 188/1, §1, 5°, wordt alleen rekening gehouden met de inkomsten van de diensten die aangeboden worden in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad om de omzet, vermeld in paragraaf 1, eerste lid, 2°, te berekenen.”.
+
+### ART 19.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel III, ingevoegd bij artikel 12, een hoofdstuk IV ingevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk IV. Indexering”.
+
+### ART 20.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in hoofdstuk IV, ingevoegd bij artikel 19, een artikel 188/7 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/7. De bedragen, vermeld in artikel 188/4, 188/5 en 188/6, worden vanaf 1 januari 2025 jaarlijks geïndexeerd op basis van het prijsindexcijfer zoals bepaald in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ‘s lands concurrentievermogen.<br>
+<br>
+De indexatie, vermeld in het eerste lid, gebeurt door de bedragen, vermeld in artikel 188/4, 188/5 en 188/6, te vermenigvuldigen met het voormelde prijsindexcijfer dat is vastgesteld voor de maand januari van het lopende jaar, en door dat resultaat te delen door het hierboven vermeld prijsindexcijfer vastgesteld voor de maand januari van het jaar 2024.”.
+
+### ART 21.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in deel IV/1, ingevoegd bij artikel 6, een titel IV ingevoegd, die luidt als volgt:<br>
+<br>
+“Titel IV. Evaluatie”.
+
+### ART 22.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 november 2022, wordt in titel IV, ingevoegd bij artikel 21, een artikel 188/8 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 188/8. De Vlaamse Regering maakt, uiterlijk in het derde jaar na de inwerkingtreding, een evaluatie op van de regeling, vermeld in artikel 188/1 tot en met 188/7.”.
+
 ### ART 23.
 
 In artikel 218, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juni 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -48,6 +262,19 @@ In artikel 218, §2, eerste lid, van hetzelfde decreet, het laatst gewijzigd bij
 “26° de opmaak van een jaarlijks overzicht van producenten waarin aangegeven wordt of deze producenten al dan niet voldoen aan de voorwaarden die met toepassing van artikel 188/2, §2, 4°, door de Vlaamse Regering aan producenten worden opgelegd in het kader van de ontvankelijkheid van de Vlaamse productieprojecten; de publicatie van dit overzicht op de website van de Vlaamse Regulator voor de Media jaarlijks vóór 1 november; het doorvoeren van wijzigingen aan dit overzicht op voorwaarde dat producenten hierom vragen en stukken overmaken die zulke wijziging rechtvaardigen en die gevalideerd zijn door een bedrijfsrevisor. Dit overzicht bevat minimaal de producenten die de drie voorafgaande jaren betrokken waren bij een Vlaams productieproject dat werd ingediend in het kader van een rechtstreekse financiële bijdrage aan de productie van audiovisuele werken met toepassing van artikel 188/2, §1, eerste lid;”;<br>
 5° er wordt een punt 27° toegevoegd, dat luidt als volgt:<br>
 “27° de opmaak van een jaarlijks verslag met de geaggregeerde cijfers betreffende de investeringen die werden gedaan krachtens artikel 188/2, §1, eerste lid, en de investeringen die werden gedaan krachtens artikel 188/2, §1, tweede lid, mits er uit deze verslagen op geen enkele manier bedrijfsgevoelige informatie kan afgeleid worden. De Vlaamse Regering bepaalt de nadere regels van dit rapport. De Vlaamse Regulator voor de Media publiceert dit verslag op zijn website.”.
+
+### ART 24.
+
+Aan artikel 228, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van 19 maart 2021 en 3 juni 2022, wordt een punt 7°/1 toegevoegd, dat luidt als volgt:<br>
+“7°/1 het bevel de activiteiten als aanbieder van videoplatformdiensten te schorsen of stop te zetten als de aanbieder van een videoplatformdienst de verplichtingen, vermeld in deel IV/1, niet naleeft.”.
+
+## Hoofdstuk 3. Opheffingsbepaling
+
+### ART 25.
+
+Het besluit van de Vlaamse Regering van 1 februari 2019 betreffende de deelname van de particuliere niet-lineaire televisieomroeporganisaties aan de productie van Vlaamse audiovisuele werken, wordt opgeheven.
+
+## Hoofdstuk 4. Overgangsbepaling
 
 ### ART 26.
 
@@ -68,3 +295,11 @@ De aanbieders van een videoplatformdienst, vermeld in het eerste lid, bewijzen h
 Voor aanbieders van videoplatformdiensten wat betreft hun diensten, vermeld in het eerste lid, 1°, wordt voor de berekening van de omzet rekening gehouden met de inkomsten in alle andere lidstaten van de Europese Unie waarop ze zich richten, in voorkomend geval na aftrek van de inkomsten die afkomstig zijn uit een andere lidstaat waarop de aanbieder van de videoplatformdienst zich richt en waar deze ook onderworpen is aan een stelsel van financiële bijdragen teneinde de productie van Europese werken te stimuleren.<br>
 <br>
 Voor aanbieders van videoplatformdiensten wat betreft hun diensten, vermeld in het eerste lid, 2°, wordt voor de berekening van de omzet alleen rekening gehouden met de inkomsten van de diensten die aangeboden worden in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad.
+
+## Hoofdstuk 5. Inwerkingtreding
+
+### ART 27.
+
+Dit decreet treedt in werking op 1 januari 2025. Artikel 2, 7°/2, van het decreet van 27 maart 2009 betreffende radio-omroep en televisie treedt op dezelfde datum in werking.<br>
+<br>
+In afwijking van het eerste lid, treden artikel 1, 2, 1°, 2° en 4°, artikel 3, 23, 3°, en artikel 26 in werking op de tiende dag na bekendmaking van dit decreet in het Belgisch Staatsblad.
