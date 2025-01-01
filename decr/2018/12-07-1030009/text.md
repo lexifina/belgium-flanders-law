@@ -1461,7 +1461,7 @@ Tenzij het anders is vermeld in deze afdeling, is deze afdeling van toepassing o
 a) ze maken deel uit van de Vlaamse deelstaatoverheid of zijn in handen van de Vlaamse deelstaatoverheid en vallen onder het exclusief toezicht van de Vlaamse Gemeenschap of het Vlaamse Gewest, in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EU) nr. 549/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende het Europees systeem van nationale en regionale rekeningen in de Europese Unie;<br>
 b) ze bezitten rechtspersoonlijkheid;<br>
 c) het Vlaamse Gewest, de Vlaamse Gemeenschap, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid, de extern verzelfstandigde agentschappen of hun rechtstreekse of onrechtstreekse dochterondernemingen hebben minimaal de helft van de stemmen in de algemene vergadering;<br>
-9° de Vlaamse Regulator van de Elektriciteits- en Gasmarkt.<br>
+9° de Vlaamse Nutsregulator.<br>
 <br>
 De universitaire instellingen, met inbegrip van hun patrimonium, en de hogescholen vallen niet onder het toepassingsgebied.
 
@@ -1527,13 +1527,13 @@ De overheidsinstanties, vermeld in artikel III.22, eerste lid, 1° tot en met 6�
 
 De overheidsinstanties, vermeld in artikel III.22, eerste lid, winnen voor strategische beloningskwesties het advies in van hetzij het Remuneratiecomité van de Vlaamse overheid hetzij van hun eigen remuneratiecomité.<br>
 <br>
-Het eerste lid is niet van toepassing op de Vlaamse Regulator van de Elektriciteits- en Gasmarkt.
+Het eerste lid is niet van toepassing op de Vlaamse Nutsregulator.
 
 ### ART III.34.
 
 De remuneratiecomités bezorgen hun adviezen ter informatie aan de minister-president en de viceministers-presidenten van de Vlaamse Regering.<br>
 <br>
-Het eerste lid is niet van toepassing op de Vlaamse Regulator van de Elektriciteits- en Gasmarkt.
+Het eerste lid is niet van toepassing op de Vlaamse Nutsregulator.
 
 ### ART III.35.
 
@@ -1558,7 +1558,7 @@ De universitaire instellingen, met inbegrip van hun patrimonium, en de hogeschol
 <br>
 Dochterondernemingen vallen niet onder het toepassingsgebied van onderafdeling 2 als het Vlaamse Gewest of de Vlaamse Gemeenschap niet rechtstreeks over minimaal de helft van de stemmen beschikt in de algemene vergadering.<br>
 <br>
-§ 2. Onderafdeling 1 is ook van toepassing op de Vlaamse Regulator van de Elektriciteits- en Gasmarkt.
+§ 2. Onderafdeling 1 is ook van toepassing op de Vlaamse Nutsregulator.
 
 ### ART III.37.
 
@@ -2612,7 +2612,7 @@ Een strategische adviesraad brengt jaarlijks verslag uit van zijn werkzaamheden 
 7° de Vlaamse Radio- en Televisieomroeporganisatie;<br>
 8° de administratieve diensten van de Raad van het Gemeenschapsonderwijs;<br>
 9° het Vlaams Instituut voor Technologisch Onderzoek;<br>
-10° de Vlaamse Regulator van de Elektriciteits- en Gasmarkt.<br>
+10° de Vlaamse Nutsregulator.<br>
 <br>
 § 2. Onder Vlaamse openbare statistieken wordt verstaan: de statistieken die de overheidsinstanties, vermeld in paragraaf 1, ontwikkelen, produceren en verspreiden, die relevant en nodig zijn bij de uitwerking, uitvoering, opvolging of evaluatie van het Vlaamse beleid of die tegemoet komen aan verplichtingen die zijn opgelegd door het Interfederaal Instituut voor Statistiek of internationale statistiekinstellingen en die publiek beschikbaar zijn als open data.
 
