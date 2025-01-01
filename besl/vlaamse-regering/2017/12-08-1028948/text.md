@@ -19,6 +19,7 @@ In dit besluit wordt verstaan onder:<br>
 2° besluit van 4 februari 2011: het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 2°/1 besluit van 26 februari 2016: het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 2°/2 decreet van 25 april 2014: het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+2°/3 G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen;<br>
 3° handicap: een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 3°/1 individuele dienstverleningsovereenkomst: de overeenkomst, vermeld in artikel 8, eerste lid, §1, 1° van het besluit van 4 februari 2011;<br>
 3°/2 meerderjarige: elke natuurlijke persoon die achttien jaar of ouder is;<br>
@@ -99,7 +100,9 @@ Het agentschap verleent bijkomend een werkingstoelage van 89 euro per personeels
 <br>
 Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 9, eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
-Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.
+Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 8/1.
 
@@ -125,8 +128,7 @@ Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevor
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, met de volgende formule:<br>
-(basisbedrag x index december 20../index december 2017).
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 10.
 
@@ -263,7 +265,9 @@ Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 15/10, eerste
 2°&nbsp;&nbsp; &nbsp;er is overleg met de werknemersvertegenwoordiging geweest;<br>
 3°&nbsp;&nbsp; &nbsp;aan de overlegkanalen, vermeld in punt 1° en 2°, is transparantie geboden over de aanwending.<br>
 <br>
-Op verzoek van het agentschap bewijst de unit, vermeld in artikel 15/2, eerste lid, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.
+Op verzoek van het agentschap bewijst de unit, vermeld in artikel 15/2, eerste lid, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.<br>
+<br>
+Het bedrag, vermeld in het derde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 15/9.
 
@@ -285,7 +289,7 @@ De werkingsmiddelen, vermeld in het eerste lid, kunnen niet aangewend worden voo
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, met de volgende formule: (basisbedrag x index december 20../index december 2017).
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 15/11.
 
