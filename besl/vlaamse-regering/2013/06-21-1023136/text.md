@@ -39,11 +39,38 @@ Een centrum dat, in het kader van het algemeen welzijnswerk, vermeld in   artike
 
 <p>De minister bepaalt de resultaatsgerichte indicatoren, vermeld in het eerste lid, 5°.</p>
 
-## Onderafdeling 2. Voorwaarden voor de centra voor teleonthaal
+## Onderafdeling 2. Voorwaarden voor het centrum voor teleonthaal
 
 ### ART. 4.
 
-<P>§ 1. Elk centrum voor teleonthaal heeft de volgende opdrachten : <BR>1°   telefonische of online hulp- en dienstverlening organiseren voor de bevolking in   het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<BR>2°   eerste opvang en ondersteuning bieden in een vroeg stadium van de   probleemwording, met bijzondere aandacht voor eventuele risico's op zelfdoding,   zodat voorkomen wordt dat probleemsituaties escaleren;<BR>3° personen opvangen   die naar aanleiding van bepaalde gebeurtenissen geconfronteerd worden met hun   problemen en hen eventueel doorverwijzen naar professionele hulpverlening;   <BR>4° tekorten in de samenleving op het vlak van welzijn signaleren aan de   overheid, op provinciaal, Vlaams en federaal niveau. </P>  <P>Naar aanleiding van bepaalde maatschappelijke gebeurtenissen signaleert het   centrum relevante maar anonieme gegevens aan de media.<BR></P>  <P>De hulp- en dienstverlening van de centra voor teleonthaal bezit de volgende   kenmerken : <BR>1° ze is anoniem;<BR>2° ze is 24 uur op 24 toegankelijk via   eenzelfde telefoonnummer. De modaliteiten van dit eenvormige telefoonnummer zijn   conform de reglementering op de universele dienstverlening inzake   telecommunicatie;<BR>3° ze gebeurt online op vooraf bepaalde tijdstippen;<BR>4°   ze wordt verstrekt door vrijwilligers, die worden bijgestaan door   beroepskrachten;<BR>5° ze is gratis. <BR></P>  <P>§ 2. Elk centrum voor teleonthaal rekruteert vrijwilligers in verhouding tot   zijn behoeften. Het centrum voor teleonthaal zorgt voor omstandigheden die het   engagement van de vrijwilligers haalbaar maken en ondersteunen. Vrijwilligers   worden zorgvuldig geselecteerd na een opleiding als vermeld in het tweede lid,   die met goed gevolg afgesloten werd. Bij die opleiding hoort een inwerkperiode.   De selectienormen worden in het beleidsplan geconcretiseerd.<BR></P>  <P>Voor de vrijwilligers organiseert het centrum een interne opleiding van   minimaal 30 uren. Die opleiding omvat onder meer : <BR>1° doelstellingen en   grenzen van de centra voor teleonthaal;<BR>2° kennis van en inzicht in   levensmoeilijkheden;<BR>3° training in hulpverlenende vaardigheden;<BR>4°   attitudevorming;<BR>5° praktische schikkingen en werkwijzen;<BR>6° de toepassing   van de regels betreffende de verwerking en uitwisseling van persoonsgegevens en   de geheimhoudingsplicht.<BR></P>  <P>Het centrum voor teleonthaal en elke geselecteerde vrijwilliger ondertekenen   een afsprakennota als vermeld in artikel 5 van het decreet van 3 april 2009   betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn,   Volksgezondheid en Gezin, waarin de vrijwilliger zich ook engageert om gedurende   de hele duur van zijn medewerking een voortgezette opleiding te volgen.<BR></P>  <P>§ 3. De vereiste deskundigheid van de beroepskrachten wordt door opleiding of   ervaring gewaarborgd. Dit wordt gespecificeerd in het   beleidsplan.</P>
+<p>§ 1. Het centrum voor teleonthaal heeft de volgende opdrachten :<br>
+1° telefonische of online hulp- en dienstverlening organiseren voor de bevolking in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad;<br>
+2° eerste opvang en ondersteuning bieden in een vroeg stadium van de probleemwording, met bijzondere aandacht voor eventuele risico's op zelfdoding, zodat voorkomen wordt dat probleemsituaties escaleren;<br>
+3° personen opvangen die naar aanleiding van bepaalde gebeurtenissen geconfronteerd worden met hun problemen en hen eventueel doorverwijzen naar professionele hulpverlening;<br>
+4° tekorten in de samenleving op het vlak van welzijn signaleren aan de overheid, op provinciaal, Vlaams en federaal niveau.</p>
+
+<p>Naar aanleiding van bepaalde maatschappelijke gebeurtenissen signaleert het centrum relevante maar anonieme gegevens aan de media.</p>
+
+<p>De hulp- en dienstverlening van het centrum voor teleonthaal bezit de volgende kenmerken :<br>
+1° ze is anoniem;<br>
+2° ze is 24 uur op 24 toegankelijk via eenzelfde telefoonnummer. De modaliteiten van dit eenvormige telefoonnummer zijn conform de reglementering op de universele dienstverlening inzake telecommunicatie;<br>
+3° ze gebeurt online op vooraf bepaalde tijdstippen;<br>
+4° ze wordt verstrekt door vrijwilligers, die worden bijgestaan door beroepskrachten;<br>
+5° ze is gratis.</p>
+
+<p>§ 2. Het centrum voor teleonthaal rekruteert vrijwilligers in verhouding tot zijn behoeften. Het centrum voor teleonthaal zorgt voor omstandigheden die het engagement van de vrijwilligers haalbaar maken en ondersteunen. Vrijwilligers worden zorgvuldig geselecteerd na een opleiding als vermeld in het tweede lid, die met goed gevolg afgesloten werd. Bij die opleiding hoort een inwerkperiode. De selectienormen worden in het beleidsplan geconcretiseerd.</p>
+
+<p>Voor de vrijwilligers organiseert het centrum een interne opleiding van minimaal 30 uren. Die opleiding omvat onder meer :<br>
+1° doelstellingen en grenzen van het centrum voor teleonthaal;<br>
+2° kennis van en inzicht in levensmoeilijkheden;<br>
+3° training in hulpverlenende vaardigheden;<br>
+4° attitudevorming;<br>
+5° praktische schikkingen en werkwijzen;<br>
+6° de toepassing van de regels betreffende de verwerking en uitwisseling van persoonsgegevens en de geheimhoudingsplicht.</p>
+
+<p>Het centrum voor teleonthaal en elke geselecteerde vrijwilliger ondertekenen een afsprakennota als vermeld in artikel 5 van het decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin, waarin de vrijwilliger zich ook engageert om gedurende de hele duur van zijn medewerking een voortgezette opleiding te volgen.</p>
+
+<p>§ 3. De vereiste deskundigheid van de beroepskrachten wordt door opleiding of ervaring gewaarborgd. Dit wordt gespecificeerd in het beleidsplan.</p>
 
 ### ART. 5.
 
@@ -174,7 +201,18 @@ De hulp- en dienstverlening aan slachtoffers en hun na- of naastbestaanden, verm
 
 ### ART. 16.
 
-<P>De centra voor teleonthaal voeren een kwaliteitsbeleid overeenkomstig de   bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de   gezondheids- en welzijnsvoorzieningen. De centra tonen door middel van   zelfevaluatie aan hoe ze een verantwoord aanbod van hulpverlening realiseren.   Deze zelfevaluatie heeft minstens betrekking op de volgende zorgaspecten :   <BR>1° de bereikbaarheid, beschikbaarheid, bruikbaarheid, bekendheid en   begrijpbaarheid van het aanbod; <BR>2° de transparantie en betrouwbaarheid van   de hulpverlening; <BR>3° de veiligheid van de gebruiker, rekening houdend met   diens kwetsbaarheid; <BR>4° de keuze voor de minst ingrijpende hulpverlening;   <BR>5° de actieve participatie van de gebruiker aan het tot stand komen van de   hulpverlening, zodat aan de gebruiker hulp op maat kan worden verstrekt;<BR>6°   de mogelijkheid voor gebruikers om feedback te geven over de gekregen   hulp;<BR>7° de doelbewuste inschakeling van vrijwilligers in de hulp- en   dienstverlening; <BR>8° de deskundigheid en de methodische differentiatie in de   uitvoering van het hulpaanbod; <BR>9° de effectiviteit van de geboden hulp.   <BR></P>  <P>De minister kan bepalen aan de hand van welke instrumenten het centrum de   zelfevaluatie moet verrichten.</P>
+<p>Het centrum voor teleonthaal voert een kwaliteitsbeleid overeenkomstig de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen. Het centrum toont door middel van zelfevaluatie aan hoe ze een verantwoord aanbod van hulpverlening realiseren. Deze zelfevaluatie heeft minstens betrekking op de volgende zorgaspecten :<br>
+1° de bereikbaarheid, beschikbaarheid, bruikbaarheid, bekendheid en begrijpbaarheid van het aanbod;<br>
+2° de transparantie en betrouwbaarheid van de hulpverlening;<br>
+3° de veiligheid van de gebruiker, rekening houdend met diens kwetsbaarheid;<br>
+4° de keuze voor de minst ingrijpende hulpverlening;<br>
+5° de actieve participatie van de gebruiker aan het tot stand komen van de hulpverlening, zodat aan de gebruiker hulp op maat kan worden verstrekt;<br>
+6° de mogelijkheid voor gebruikers om feedback te geven over de gekregen hulp;<br>
+7° de doelbewuste inschakeling van vrijwilligers in de hulp- en dienstverlening;<br>
+8° de deskundigheid en de methodische differentiatie in de uitvoering van het hulpaanbod;<br>
+9° de effectiviteit van de geboden hulp.</p>
+
+<p>De minister kan bepalen aan de hand van welke instrumenten het centrum de zelfevaluatie moet verrichten.</p>
 
 ### ART. 17.
 
@@ -182,7 +220,73 @@ De hulp- en dienstverlening aan slachtoffers en hun na- of naastbestaanden, verm
 
 ### ART. 18.
 
-<P>§ 1. Het kwaliteitsbeleid, vermeld in artikel 16 of 17, wordt beschreven in   een kwaliteitshandboek als vermeld in artikel 5, § 4, van het decreet van 17   oktober 2003 betreffende de kwaliteit van de gezondheids- en   welzijnsvoorzieningen. <BR></P>  <P>§ 2. De minimale inhoud van het kwaliteitshandboek wordt voor de centra voor   teleonthaal als volgt bepaald : <BR>1° een inleiding met daarin : <BR>a) de   structuur van het kwaliteitshandboek;<BR>b) de voorstelling van het centrum met   inbegrip van de taken en competentie- en functieprofielen van bestuurders   (algemene vergadering en raad van bestuur), de verhouding tussen bestuur en   management, de overleg- en inspraakorganen met medewerkers en gebruikers, en op   welke wijze opvolging wordt gegeven aan een professioneel personeels- en   financieel beleid;<BR>c) een document dat toelating geeft tot de gemachtigden   van de Vlaamse Regering om ter plaatse alle activiteiten te verrichten nodig om   de uitvoering van de bepalingen van het decreet te verifiëren en te   evalueren;<BR>2° een weergave van het kwaliteitsbeleid waarin de volgende   elementen zijn opgenomen : <BR>a) de opdracht en de doelstellingen;<BR>b) de   waarden en de visie;<BR>c) de beschrijving van het hulp- en   dienstverleningsaanbod;<BR>3° een weergave van het kwaliteitssysteem dat de   volgende elementen omvat : <BR>a) een inleiding over prioriteit voor en de   afbakening van kernprocessen;<BR>b) de werkwijzen die betrekking hebben op de   kerntaken;<BR>c) de sectorale code inzake omgaan met gebruikersinformatie;<BR>d)   de werkwijzen voor dossiervorming;<BR>e) de procedure voor klachtenbehandeling   en klachtenregistratie;<BR>f) de werkwijze bij gevaar voor schade aan de   integriteit van de gebruiker of derden;<BR>g) de werkwijzen voor   zelfevaluatie;<BR>4° een weergave van de kwaliteitsplanning op basis van   zelfevaluatie : <BR>a) resultaat van de zelfevaluatie;<BR>b) gefaseerd   stappenplan;<BR>c) actuele doelstellingen van de kwaliteitszorg.<BR></P>  <P>§ 3. De minimale inhoud van het kwaliteitshandboek wordt voor de centra voor   algemeen welzijnswerk als volgt bepaald : <BR>1° een inleiding met daarin :   <BR>a) de structuur van het kwaliteitshandboek;<BR>b) de voorstelling van het   centrum met inbegrip van de taken en competentie- en functieprofielen van   bestuurders (algemene vergadering en raad van bestuur), de verhouding tussen   bestuur en management, de overleg- en inspraakorganen met medewerkers en   gebruikers, en op welke wijze opvolging wordt gegeven aan een professioneel   personeels- en financieel beleid;<BR>c) een document dat toelating geeft tot de   gemachtigden van de Vlaamse Regering om ter plaatse alle activiteiten te   verrichten nodig om de uitvoering van de bepalingen van het decreet te   verifiëren en te evalueren;<BR>2° een weergave van het kwaliteitsbeleid waarin   de volgende elementen zijn opgenomen : <BR>a) de opdracht en de   doelstellingen;<BR>b) de waarden en de visie;<BR>c) de beschrijving van het   hulp- en dienstverleningsaanbod;<BR>3° een weergave van het kwaliteitssysteem   dat de volgende elementen omvat : <BR>a) een inleiding over prioriteit voor en   de afbakening van kernprocessen;<BR>b) de werkwijzen die betrekking hebben op   meerdere kerntaken;<BR>c) de werkwijzen met betrekking tot algemene   preventie;<BR>d) de werkwijzen met betrekking tot onthaal;<BR>e) de werkwijzen   met betrekking tot begeleiding;<BR>f) de werkwijzen voor het verwerven,   gebruiken en doorgeven van informatie met betrekking tot de gebruikers;<BR>g) de   sectorale code inzake omgaan met gebruikersinformatie;<BR>h) de werkwijzen voor   dossiervorming;<BR>i) de procedure voor klachtenbehandeling en   klachtenregistratie;<BR>j) de werkwijze bij gevaar voor schade aan de   integriteit van de gebruiker of derden;<BR>k) de werkwijze voor het vermijden   van en omgaan met grensoverschrijdend gedrag t.a.v. gebruikers;<BR>l) de   werkwijzen voor zelfevaluatie;<BR>4° een weergave van de kwaliteitsplanning op   basis van zelfevaluatie : <BR>a) resultaat van de zelfevaluatie;<BR>b) gefaseerd   stappenplan;<BR>c) actuele doelstellingen van de kwaliteitszorg.<BR></P>  <P>§ 4. Het centrum moet een kwaliteitsvol en transparant beleid voeren op het   vlak van : <BR>1° zijn doelstellingen en beoogde maatschappelijke   meerwaarde;<BR>2° de strategieën om zijn doelstellingen en maatschappelijke   meerwaarde te verwezenlijken;<BR>3° zijn structurele en maatschappelijke   inbedding en positionering;<BR>4° zijn bestuur en de samenstelling, bevoegdheden   en taakafbakening van de verschillende bestuursorganen, te weten de algemene   vergadering, de raad van bestuur, het dagelijks bestuur en de directie;<BR>5° de   procedure inzake werving en ondersteuning van bestuurders en de principes inzake   hun profiel, competenties, engagement, integriteit, onafhankelijkheid,   vergoeding, onverenigbaarheden, belangenconflicten;<BR>6° de voorbereiding,   frequentie, besluitvorming, opvolging en verslaggeving van vergaderingen van de   raad van bestuur en de algemene vergadering en de communicatie daarover;<BR>7°   de regelmatige evaluatie van de werking en realisatie van de   doelstellingen;<BR>8° het algemeen beheer en het beheer van de financiële   (inkomsten/uitgaven), materiële (patrimonium) en personele   (professionele/vrijwillige medewerkers) middelen;<BR>9° de betrokkenheid van en   de verantwoording naar interne en externe belanghebbenden.<BR></P>  <P>Het centrum moet deze beleidsvoering schriftelijk kunnen aantonen en ze   bekend maken aan haar belanghebbenden, onder meer aan de hand van zijn statuten,   huishoudelijke reglement en verslagen van bestuursorganen.<BR></P>  <P>Het centrum moet met het oog op goede zorg- en hulpverlening, zorgen voor   verstaanbare communicatie tussen zijn medewerkers en de gebruikers aan wie het   centrumzorg- en hulp verleent. Het centrum voert daartoe een taalbeleid waarin   verduidelijkt wordt welke ondersteuning geboden wordt zodat anderstalige   medewerkers een actieve kennis van het Nederlands kunnen verwerven.<BR></P>  <P>Het centrum moet zijn taalbeleid schriftelijk kunnen aantonen en het bekend   maken aan haar belanghebbenden.</P>
+<p>§ 1. Het kwaliteitsbeleid, vermeld in artikel 16 of 17, wordt beschreven in een kwaliteitshandboek als vermeld in artikel 5, § 4, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.</p>
+
+<p>§ 2. De minimale inhoud van het kwaliteitshandboek wordt voor het centrum voor teleonthaal als volgt bepaald :<br>
+1° een inleiding met daarin :<br>
+a) de structuur van het kwaliteitshandboek;<br>
+b) de voorstelling van het centrum met inbegrip van de taken en competentie- en functieprofielen van bestuurders (algemene vergadering en raad van bestuur), de verhouding tussen bestuur en management, de overleg- en inspraakorganen met medewerkers en gebruikers, en op welke wijze opvolging wordt gegeven aan een professioneel personeels- en financieel beleid;<br>
+c) een document dat toelating geeft tot de gemachtigden van de Vlaamse Regering om ter plaatse alle activiteiten te verrichten nodig om de uitvoering van de bepalingen van het decreet te verifiëren en te evalueren;<br>
+2° een weergave van het kwaliteitsbeleid waarin de volgende elementen zijn opgenomen :<br>
+a) de opdracht en de doelstellingen;<br>
+b) de waarden en de visie;<br>
+c) de beschrijving van het hulp- en dienstverleningsaanbod;<br>
+3° een weergave van het kwaliteitssysteem dat de volgende elementen omvat :<br>
+a) een inleiding over prioriteit voor en de afbakening van kernprocessen;<br>
+b) de werkwijzen die betrekking hebben op de kerntaken;<br>
+c) de sectorale code inzake omgaan met gebruikersinformatie;<br>
+d) de werkwijzen voor dossiervorming;<br>
+e) de procedure voor klachtenbehandeling en klachtenregistratie;<br>
+f) de werkwijze bij gevaar voor schade aan de integriteit van de gebruiker of derden;<br>
+g) de werkwijzen voor zelfevaluatie;<br>
+4° een weergave van de kwaliteitsplanning op basis van zelfevaluatie :<br>
+a) resultaat van de zelfevaluatie;<br>
+b) gefaseerd stappenplan;<br>
+c) actuele doelstellingen van de kwaliteitszorg.</p>
+
+<p>§ 3. De minimale inhoud van het kwaliteitshandboek wordt voor de centra voor algemeen welzijnswerk als volgt bepaald :<br>
+1° een inleiding met daarin :<br>
+a) de structuur van het kwaliteitshandboek;<br>
+b) de voorstelling van het centrum met inbegrip van de taken en competentie- en functieprofielen van bestuurders (algemene vergadering en raad van bestuur), de verhouding tussen bestuur en management, de overleg- en inspraakorganen met medewerkers en gebruikers, en op welke wijze opvolging wordt gegeven aan een professioneel personeels- en financieel beleid;<br>
+c) een document dat toelating geeft tot de gemachtigden van de Vlaamse Regering om ter plaatse alle activiteiten te verrichten nodig om de uitvoering van de bepalingen van het decreet te verifiëren en te evalueren;<br>
+2° een weergave van het kwaliteitsbeleid waarin de volgende elementen zijn opgenomen :<br>
+a) de opdracht en de doelstellingen;<br>
+b) de waarden en de visie;<br>
+c) de beschrijving van het hulp- en dienstverleningsaanbod;<br>
+3° een weergave van het kwaliteitssysteem dat de volgende elementen omvat :<br>
+a) een inleiding over prioriteit voor en de afbakening van kernprocessen;<br>
+b) de werkwijzen die betrekking hebben op meerdere kerntaken;<br>
+c) de werkwijzen met betrekking tot algemene preventie;<br>
+d) de werkwijzen met betrekking tot onthaal;<br>
+e) de werkwijzen met betrekking tot begeleiding;<br>
+f) de werkwijzen voor het verwerven, gebruiken en doorgeven van informatie met betrekking tot de gebruikers;<br>
+g) de sectorale code inzake omgaan met gebruikersinformatie;<br>
+h) de werkwijzen voor dossiervorming;<br>
+i) de procedure voor klachtenbehandeling en klachtenregistratie;<br>
+j) de werkwijze bij gevaar voor schade aan de integriteit van de gebruiker of derden;<br>
+k) de werkwijze voor het vermijden van en omgaan met grensoverschrijdend gedrag t.a.v. gebruikers;<br>
+l) de werkwijzen voor zelfevaluatie;<br>
+4° een weergave van de kwaliteitsplanning op basis van zelfevaluatie :<br>
+a) resultaat van de zelfevaluatie;<br>
+b) gefaseerd stappenplan;<br>
+c) actuele doelstellingen van de kwaliteitszorg.</p>
+
+<p>§ 4. Het centrum moet een kwaliteitsvol en transparant beleid voeren op het vlak van :<br>
+1° zijn doelstellingen en beoogde maatschappelijke meerwaarde;<br>
+2° de strategieën om zijn doelstellingen en maatschappelijke meerwaarde te verwezenlijken;<br>
+3° zijn structurele en maatschappelijke inbedding en positionering;<br>
+4° zijn bestuur en de samenstelling, bevoegdheden en taakafbakening van de verschillende bestuursorganen, te weten de algemene vergadering, de raad van bestuur, het dagelijks bestuur en de directie;<br>
+5° de procedure inzake werving en ondersteuning van bestuurders en de principes inzake hun profiel, competenties, engagement, integriteit, onafhankelijkheid, vergoeding, onverenigbaarheden, belangenconflicten;<br>
+6° de voorbereiding, frequentie, besluitvorming, opvolging en verslaggeving van vergaderingen van de raad van bestuur en de algemene vergadering en de communicatie daarover;<br>
+7° de regelmatige evaluatie van de werking en realisatie van de doelstellingen;<br>
+8° het algemeen beheer en het beheer van de financiële (inkomsten/uitgaven), materiële (patrimonium) en personele (professionele/vrijwillige medewerkers) middelen;<br>
+9° de betrokkenheid van en de verantwoording naar interne en externe belanghebbenden.</p>
+
+<p>Het centrum moet deze beleidsvoering schriftelijk kunnen aantonen en ze bekend maken aan haar belanghebbenden, onder meer aan de hand van zijn statuten, huishoudelijke reglement en verslagen van bestuursorganen.</p>
+
+<p>Het centrum moet met het oog op goede zorg- en hulpverlening, zorgen voor verstaanbare communicatie tussen zijn medewerkers en de gebruikers aan wie het centrumzorg- en hulp verleent. Het centrum voert daartoe een taalbeleid waarin verduidelijkt wordt welke ondersteuning geboden wordt zodat anderstalige medewerkers een actieve kennis van het Nederlands kunnen verwerven.</p>
+
+<p>Het centrum moet zijn taalbeleid schriftelijk kunnen aantonen en het bekend maken aan haar belanghebbenden.</p>
 
 ### ART. 19.
 
@@ -192,9 +296,9 @@ De hulp- en dienstverlening aan slachtoffers en hun na- of naastbestaanden, verm
 
 ### ART. 20.
 
-<p>§ 1. Minstens eenmaal per jaar plegen de centra voor teleonthaal en de centra voor algemeen welzijnswerk waarvan het werkgebied binnen eenzelfde provincie gelegen is, overleg.</p>
+<p>§ 1. Minstens eenmaal per jaar plegen het centrum voor teleonthaal en de centra voor algemeen welzijnswerk waarvan het werkgebied binnen eenzelfde provincie gelegen is, overleg.</p>
 
-<p>§ 2. De centra voor teleonthaal plegen onderling overleg over het beleid en de afbakening van regio's voor telefonische hulpverlening. Het centrum voor teleonthaal participereert hoofdzakelijk aan samenwerkingsverbanden binnen het algemeen welzijnswerk, de geestelijke gezondheidszorg, de telefonische en onlinehulpverlening.</p>
+<p>§ 2. Het centrum voor teleonthaal participereert hoofdzakelijk aan samenwerkingsverbanden binnen het algemeen welzijnswerk, de geestelijke gezondheidszorg, de telefonische en onlinehulpverlening.</p>
 
 <p>Voor het creëren van een toegangspoort inzake suïcidepreventie wordt een samenwerking uitgebouwd met het centrum ter preventie van zelfdoding.</p>
 
@@ -286,9 +390,8 @@ Als de erkenning door de secretaris-generaal werd geweigerd omdat het   centrum 
 
 ### ART. 28.
 
-<p>§ 1. Met behoud van de toepassing van artikel 17, § 2, van het decreet van 8 mei 2009 stelt de minister een programmatie van de centra voor teleonthaal en van de centra voor algemeen welzijnswerk op voor het Nederlandse taalgebied, alsook voor het tweetalige gebied Brussel-Hoofdstad.</p>
-
-<p><br>
+<p>§ 1. Met behoud van de toepassing van artikel 17, § 2, van het decreet van 8 mei 2009 stelt de minister een programmatie van het centrum voor teleonthaal en van de centra voor algemeen welzijnswerk op voor het Nederlandse taalgebied, alsook voor het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
 Voor de centra voor algemeen welzijnswerk wordt onder meer rekening gehouden met regiokenmerken, met factoren inzake de maatschappelijke kwetsbaarheid of het psychisch onwelzijn van de burgers, met factoren die de lokale verankering waarborgen en met de voorwaarden voor het hulp- en dienstverleningsaanbod. Voor het tweetalige gebied Brussel-Hoofdstad kan rekening worden gehouden met bijzondere criteria.<br>
 <br>
 § 2. De programmatie van de centra voor algemeen welzijnswerk geldt niet voor de volgende opdrachten die een centrum voor algemeen welzijnswerk opneemt:<br>
@@ -319,13 +422,13 @@ De subsidie-enveloppe wordt aan een erkend centrum toegekend op voorwaarde   dat
 
 <p>Aan een erkend centrum voor teleonthaal wordt een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 105.142,99 euro per erkende voltijdse equivalent.</p>
 
-<p>Aan een erkend centrum voor teleonthaal wordt naast de subsidie-enveloppe, vermeld in het eerste lid, en artikel 31, jaarlijks een forfaitair bedrag toegekend voor de werkingskosten van de vrijwilligers per voltijdse equivalent vrijwilliger.</p>
+<p>Aan een erkend centrum voor teleonthaal wordt naast de subsidie-enveloppe, vermeld in het eerste lid, en artikel 31, jaarlijks een forfaitair bedrag toegekend voor de werkingskosten van de vrijwilligers van 468.159,37 euro.</p>
 
 <p>Aan een erkend centrum voor algemeen welzijnswerk wordt een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 85.670,65 euro per erkende voltijdse equivalent.</p>
 
 ### ART. 33.
 
-<p>De forfaitaire bedragen, vermeld in artikel 32, eerste en derde lid, zijn uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2024. Dat bedrag wordt, binnen de beschikbare begrotingskredieten, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.</p>
+<p>De forfaitaire bedragen, vermeld in artikel 32, eerste, tweede en derde lid, zijn uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2024. Dat bedrag wordt, binnen de beschikbare begrotingskredieten, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.</p>
 
 <p>De subsidie-enveloppen worden aangepast aan de anciënniteitsevolutie van het algemeen welzijnswerk, met name de evolutie van de gemiddelde geldelijke anciënniteit die de personeelsleden hebben opgebouwd. De stijging van die anciënniteit kan niet meer dan twaalf maanden per jaar bedragen.</p>
 
