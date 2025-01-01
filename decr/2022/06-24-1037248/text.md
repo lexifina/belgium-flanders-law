@@ -8,6 +8,43 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ## HOOFDSTUK 2. Wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
 
+### ART 2.
+
+In het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, het laatst gewijzigd bij het decreet van 19 juli 2021, wordt een artikel 34/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 34/2. § 1. In dit artikel wordt verstaan onder:<br>
+1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+2° deelnemer: een natuurlijke persoon die deelneemt aan een initiatief als vermeld in artikel 57, 58, 59, 60 en 63 van dit decreet.<br>
+<br>
+§ 2. Organisaties die een subsidie ontvangen van de Vlaamse Regering om de initiatieven, vermeld in artikel 57, 58, 59, 60 en 63, te realiseren, kunnen persoonsgegevens verwerken van de deelnemers aan die initiatieven en van de individuele zorgaanbieders om die initiatieven te realiseren.<br>
+<br>
+Om de initiatieven, vermeld in artikel 57, 58, 59, 60, en 63, op het terrein uit te voeren, kunnen de individuele zorgaanbieders persoonsgegevens verwerken van de deelnemers aan de initiatieven.<br>
+<br>
+§ 3. In het kader van de doeleinden, vermeld in paragraaf 2, verwerken de organisaties die van de Vlaamse Regering een subsidie ontvangen om de initiatieven, vermeld in artikel 57, 58, 59, 60 en 63, te realiseren, en de individuele zorgaanbieders de volgende gegevens van de deelnemers aan die initiatieven:<br>
+1° de persoonsgegevens om de deelnemer te identificeren, waaronder het rijksregisternummer;<br>
+2° de gegevens over de gezondheid van de deelnemer die noodzakelijk zijn om het initiatief te realiseren;<br>
+3° de gegevens over de preventieve begeleiding die is aangeboden aan de deelnemer in het kader van het initiatief in kwestie;<br>
+4° het gegeven of de deelnemer recht heeft op het statuut verhoogde tegemoetkoming.<br>
+<br>
+In het kader van het doeleinde, vermeld in paragraaf 2, eerste lid, verwerken de organisaties die van de Vlaamse Regering een subsidie ontvangen om de initiatieven, vermeld in artikel 57, 58, 59, 60 en 63, te realiseren, de volgende gegevens van de individuele zorgaanbieders:<br>
+1° de persoonsgegevens om de individuele zorgaanbieder te identificeren, waaronder het rijksregisternummer;<br>
+2° de gegevens over de bekwaamheid van de individuele zorgaanbieder;<br>
+3° het beroepsadres van de individuele zorgaanbieder die het initiatief, vermeld in artikel 57, 58, 59, 60 en 63, uitvoert;<br>
+4° de gegevens die noodzakelijk zijn om de vergoeding voor de uitvoering van een initiatief als vermeld in artikel 57, 58, 59, 60 en 63, uit te betalen aan de individuele zorgaanbieder.<br>
+<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de lijst van gegevens, vermeld in het eerste en tweede lid, inclusief de gegevens over gezondheid, vermeld in artikel 4, 15), van voormelde verordening, nader preciseren.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer:<br>
+1° de regels voor en de wijze van de verwerking van de gegevens;<br>
+2° de termijn waarin de verwerkte persoonsgegevens maximaal worden bewaard;<br>
+3° de vorm en de wijze waarop gegevens worden uitgewisseld.<br>
+<br>
+§ 4. De organisatie die een subsidie ontvangt van de Vlaamse Regering om een initiatief als vermeld in artikel 57, 58, 59, 60 of 63, te realiseren, is de verwerkingsverantwoordelijke voor de persoonsgegevens, vermeld in paragraaf 3, eerste en tweede lid, die verwerkt worden om het initiatief in kwestie te realiseren.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke moet treffen om de persoonsgegevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.<br>
+<br>
+§ 5. Op voorwaarde dat de betrokkenen niet of niet meer identificeerbaar zijn, kan de administratie de gegevens van de deelnemers, vermeld in paragraaf 3, eerste lid, en de gegevens van de individuele zorgaanbieders, vermeld in para- graaf 3, tweede lid, ook verwerken voor wetenschappelijke, beleids- en statistische doeleinden.".
+
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers
 
 ### ART 3.
