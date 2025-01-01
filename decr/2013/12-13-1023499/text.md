@@ -328,15 +328,15 @@ Als het bedrag, vermeld in paragraaf 1, 2°, overeenkomstig het eerste lid propo
 			<td>E60</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 januari 2023</td>
+			<td>vanaf 1 januari 2023 tot en met 30 september 2025</td>
 			<td>/</td>
 			<td>E60</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>6° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen na 31 december 2022 is ingediend en die na herbouw of gedeeltelijke herbouw op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E20;<br>
-7° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen na 31 december 2022 is ingediend en die na herbouw of gedeeltelijke herbouw op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E10.<br>
+<p>6° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen vanaf 1 januari 2023 tot en met 30 september 2025 is ingediend en die na herbouw of gedeeltelijke herbouw op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E20;<br>
+7° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen vanaf 1 januari 2023 tot en met 30 september 2025 is ingediend en die na herbouw of gedeeltelijke herbouw op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E10.<br>
 <br>
 Het E-peil, vermeld in het eerste lid, is het peil van primair energieverbruik, zoals berekend ter uitvoering van titel XI van het Energiedecreet van 8 mei 2009.<br>
 <br>
@@ -3244,7 +3244,16 @@ De heffing is verschuldigd vanaf het kalenderjaar dat volgt op de derde   opeenv
 
 ### ART. 2.6.7.1.1.
 
-<P>Er wordt een opschorting van de heffing verleend voor de bedrijfsruimten   waarvoor uiterlijk op 31 december van het kalenderjaar dat voorafgaat aan het   aanslagjaar, een vernieuwingsvoorstel wordt ingediend, voor zover wordt voldaan   aan de voorwaarden voor indiening en aanvaarding van dat voorstel, bepaald met   toepassing van het vierde lid.<BR></P>  <P>De opschorting blijft beperkt tot een termijn van twee jaar vanaf de   betekening van het vernieuwingsvoorstel aan het departement. Tijdens die periode   moet ook de eventuele leegstand zijn beëindigd.<BR></P>  <P>Het departement kan eenmalig een verlenging van de opschortingstermijn   toestaan met hoogstens twee jaar als :<BR>1° de aanvraag tot subsidiëring met   toepassing van artikel 42, § 1, van het decreet van 19 april 1995 wegens   budgettaire redenen niet kan worden ingewilligd;<BR>2° de aanvaarde vernieuwing   dermate buitengewone werkzaamheden omvat dat ze niet kan worden voltooid binnen   de opschortingstermijn, vermeld in het tweede lid;<BR>3° de aanvaarde   vernieuwing vanwege economische, ruimtelijke, juridische of (milieu)technische   redenen dermate complex is dat ze niet kan worden voltooid binnen de   opschortingstermijn, vermeld in het tweede lid.<BR></P>  <P>De Vlaamse Regering bepaalt de regels voor de indiening en aanvaarding van   het vernieuwingsvoorstel.<BR></P>
+<p>Er wordt een opschorting van de heffing verleend voor de bedrijfsruimten waarvoor uiterlijk op 31 december van het kalenderjaar dat voorafgaat aan het aanslagjaar, een vernieuwingsvoorstel wordt ingediend, voor zover wordt voldaan aan de voorwaarden voor indiening en aanvaarding van dat voorstel, bepaald met toepassing van het vierde lid.</p>
+
+<p>De opschorting blijft beperkt tot een termijn van twee jaar vanaf de betekening van het vernieuwingsvoorstel aan het departement. Tijdens die periode moet ook de eventuele leegstand zijn beëindigd.</p>
+
+<p>Het departement kan eenmalig een verlenging van de opschortingstermijn toestaan met hoogstens twee jaar als :<br>
+1° ...;<br>
+2° de aanvaarde vernieuwing dermate buitengewone werkzaamheden omvat dat ze niet kan worden voltooid binnen de opschortingstermijn, vermeld in het tweede lid;<br>
+3° de aanvaarde vernieuwing vanwege economische, ruimtelijke, juridische of (milieu)technische redenen dermate complex is dat ze niet kan worden voltooid binnen de opschortingstermijn, vermeld in het tweede lid.</p>
+
+<p>De Vlaamse Regering bepaalt de regels voor de indiening en aanvaarding van het vernieuwingsvoorstel.</p>
 
 ### ART. 2.6.7.1.2.
 
@@ -3341,13 +3350,13 @@ De langstlevende echtgenoot die ingevolge een huwelijksovereenkomst die   niet a
 
 ### ART. 2.7.1.0.5.
 
-§ 1. De goederen waarvan de bevoegde entiteit van de Vlaamse administratie het bewijs levert dat de erflater er kosteloos over beschikte gedurende de drie jaar vóór zijn overlijden, worden geacht deel uit te maken van zijn nalatenschap, tenzij de bevoordeling onderworpen is aan de schenkbelasting of het registratierecht op de schenkingen onder de levenden. De erfgenamen of legatarissen hebben een verhaalsrecht ten aanzien van de begiftigde voor de successierechten die op die goederen voldaan zijn.<br>
+§ 1. De goederen waarvan de bevoegde entiteit van de Vlaamse administratie het bewijs levert dat de erflater er kosteloos over beschikte gedurende de vijf jaar vóór zijn overlijden, worden geacht deel uit te maken van zijn nalatenschap, tenzij de bevoordeling onderworpen is aan de schenkbelasting of het registratierecht op de schenkingen onder de levenden. De erfgenamen of legatarissen hebben een verhaalsrecht ten aanzien van de begiftigde voor de successierechten die op die goederen voldaan zijn.<br>
 <br>
 Als door de bevoegde entiteit van de Vlaamse administratie of door de erfgenamen en legatarissen bewezen wordt dat de bevoordeling toekwam aan een bepaalde persoon, wordt die als legataris van de geschonken zaak beschouwd.<br>
 <br>
 Voor de toepassing van deze paragraaf wordt een bevoordeling waarvoor een vrijstelling van de schenkbelasting is toegepast, gelijkgesteld met een bevoordeling die aan de schenkbelasting of aan het registratierecht op de schenkingen onder de levenden is onderworpen.<br>
 <br>
-§ 2. De termijn van drie jaar, vermeld in paragraaf 1, wordt evenwel op zeven jaar gebracht als het gaat om aandelen en activa als vermeld in artikel 2.8.6.0.3.<br>
+§ 2. De termijn van vijf jaar, vermeld in paragraaf 1, wordt evenwel op zeven jaar gebracht als het gaat om aandelen en activa als vermeld in artikel 2.8.6.0.3.<br>
 <br>
 De termijn van zeven jaar, vermeld in het eerste lid, wordt teruggebracht tot drie jaar als de kosteloze beschikking dagtekent van voor 1 januari 2012.
 
@@ -3355,7 +3364,7 @@ De termijn van zeven jaar, vermeld in het eerste lid, wordt teruggebracht tot dr
 
 § 1. De sommen, renten of waarden die kosteloos aan een persoon kunnen toekomen bij het overlijden van de erflater, ingevolge een contract dat een door de erflater of door een derde in het voordeel van die persoon gemaakt beding bevat, worden geacht als legaat te zijn verkregen door die persoon.<br>
 <br>
-Ook de sommen, renten of waarden die kosteloos aan een persoon zijn toegekomen, binnen drie jaar vóór het overlijden van de erflater, ingevolge een contract dat een door de erflater in het voordeel van die persoon gemaakt beding bevat, worden geacht als legaat te zijn verkregen door die persoon.<br>
+Ook de sommen, renten of waarden die kosteloos aan een persoon zijn toegekomen, binnen vijf jaar vóór het overlijden van de erflater, ingevolge een contract dat een door de erflater in het voordeel van die persoon gemaakt beding bevat, worden geacht als legaat te zijn verkregen door die persoon.<br>
 <br>
 Als de erflater een contract had afgesloten op grond waarvan er pas een uitkering kan gebeuren na het overlijden van de erflater, worden de sommen, renten of waarden geacht kosteloos te worden verkregen, en geacht als legaat te zijn verkregen, naar gelang van het geval:<br>
 1° door de persoon die het levensverzekeringscontract afkoopt na het overlijden van de erflater, op het tijdstip van de afkoop;<br>
@@ -3431,7 +3440,7 @@ Met behoud van de toepassing van artikel 2.7.3.2.1 bestaat er voor de heffing va
 
 Voor de heffing van de erfbelasting, alsook van de belastingverhoging wegens het gebrek aan aangifte of het verzuim bepaalde goederen aan te geven, is het bestaan van een roerend of onroerend goed, tot bewijs van het tegendeel, voldoende vastgesteld bij de akten van eigendom die ten bate van de erflater of op zijn verzoek zijn verleden.<br>
 <br>
-Voor lichamelijke roerende goederen, contant geld en effecten aan toonder bestaat het wettelijk vermoeden, vermeld in het eerste lid, alleen op voorwaarde dat de akten niet sinds meer dan drie jaar vóór het overlijden bestaan. Als dat wel het geval is, kan het bestaan van die akten door de bevoegde entiteit van de Vlaamse administratie alleen ingeroepen worden als een element van vermoeden als vermeld in artikel 3.17.0.0.1.
+Voor lichamelijke roerende goederen, contant geld en effecten aan toonder bestaat het wettelijk vermoeden, vermeld in het eerste lid, alleen op voorwaarde dat de akten niet sinds meer dan vijf jaar vóór het overlijden bestaan. Als dat wel het geval is, kan het bestaan van die akten door de bevoegde entiteit van de Vlaamse administratie alleen ingeroepen worden als een element van vermoeden als vermeld in artikel 3.17.0.0.1.
 
 ### ART. 2.7.3.2.6.
 
@@ -4134,7 +4143,7 @@ De schenkbelasting, vermeld in artikel 2.8.4.2.1, wordt alleen toegepast   als i
 
 ### ART. 2.8.4.3.1.
 
-§ 1. In afwijking van artikel 2.8.4.1.1, § 1, wordt de schenkbelasting voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest en gedaan met ingang van 1 juli 2015,&nbsp;berekend volgens het tarief, vermeld in de onderstaande tabellen, op voorwaarde dat :<br>
+§ 1. In afwijking van artikel 2.8.4.1.1, § 1, wordt de schenkbelasting voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest en gedaan met ingang van 1 juli 2015 en voor 1 januari 2025,&nbsp;berekend volgens het tarief, vermeld in de onderstaande tabellen, op voorwaarde dat :<br>
 1° de begiftigden, een van hen of de schenker die zich het vruchtgebruik heeft voorbehouden, binnen vijf jaar vanaf de datum van de akte van schenking renovatiewerken laten uitvoeren aan het geschonken onroerend goed voor een totaalbedrag van minstens 10.000 euro, exclusief de belasting over de toegevoegde waarde, zoals blijkt uit facturen die uitgereikt zijn door aannemers van werken;<br>
 2° de aannemer, vermeld in punt 1°, attesteert dat de facturen voor de renovatiewerken, vermeld in punt 1°, betrekking hebben op werken vermeld in de artikelen 6.4.1/1, 6.4.1/1/1, 6.4.1/1/2 of 6.4.1/5, § 1, van het Energiebesluit van 19 november 2010.<br>
 TABEL I<br>
@@ -4255,7 +4264,7 @@ Het verschil tussen de schenkbelasting, berekend overeenkomstig het artikel 2.8.
 
 ### ART 2.8.4.4.1.
 
-§ 1. In afwijking van artikel 2.8.4.1.1, § 1, wordt de schenkbelasting voor schenkingen van de geheelheid eigendom van onroerende goederen in het Vlaamse Gewest berekend volgens het tarief, vermeld in de tabellen, vermeld in artikel 2.8.4.3.1, § 1, eerste lid, op voorwaarde dat:<br>
+§ 1. In afwijking van artikel 2.8.4.1.1, § 1, wordt de schenkbelasting voor schenkingen van de geheelheid eigendom van onroerende goederen in het Vlaamse Gewest, gedaan voor 1 januari 2025, berekend volgens het tarief, vermeld in de tabellen, vermeld in artikel 2.8.4.3.1, § 1, eerste lid, op voorwaarde dat:<br>
 1° binnen vijf jaar vanaf de datum van de schenkingsakte het bedrag dat overeenstemt met het verschil tussen de schenkbelasting, geheven conform artikel 2.8.4.1.1, § 1, en de schenkbelasting, verschuldigd bij gebrek aan toepassing van hetzelfde artikel, geïnvesteerd wordt in beheersmaatregelen, werkzaamheden of diensten die noodzakelijk zijn voor het behoud of de herwaardering van de erfgoedkenmerken en -elementen van het beschermde monument, vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013. De voormelde beheersmaatregelen, werkzaamheden of diensten dienen opgenomen te zijn in een goedgekeurd beheersplan als vermeld in punt 2°, dat geldig is bij de aanvang van de voormelde beheersmaatregelen, werkzaamheden of diensten;<br>
 2° voor het beschermde monument, vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013, een beheersplan is opgemaakt conform hoofdstuk 8 van het Onroerenderfgoeddecreet van 12 juli 2013 en hoofdstuk 8 van het Onroerenderfgoedbesluit van 16 mei 2014. Het beheersplan is goedgekeurd door het agentschap, vermeld in artikel 2.1, 2°, van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
 <br>
@@ -4545,7 +4554,7 @@ Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijk
 
 ### ART. 2.9.4.2.4.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het verkooprecht verlaagd tot 4% voor overeenkomsten houdende overdrachten ten bezwarende titel, uit de hand en bij authentieke akte, met uitsluiting van de inbrengen, vermeld in artikel 115bis van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, waarbij de verkrijger een persoon is die zijn beroep maakt van het kopen en verkopen van onroerende goederen.<br>
+§ 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het verkooprecht verlaagd tot 6% voor overeenkomsten houdende overdrachten ten bezwarende titel, uit de hand en bij authentieke akte, met uitsluiting van de inbrengen, vermeld in artikel 115bis van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, waarbij de verkrijger een persoon is die zijn beroep maakt van het kopen en verkopen van onroerende goederen.<br>
 <br>
 § 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, moeten de volgende voorwaarden vervuld zijn :<br>
 1° de verkrijger ondertekent een beroepsverklaring en dient die in;<br>
@@ -4600,7 +4609,7 @@ Het tarief, vermeld in het eerste lid, geldt niet voor de inbrengen door een nat
 
 ### ART 2.9.4.2.10.
 
-§ 1. Het tarief, vermeld in artikel 2.9.4.1.1, wordt gehalveerd voor verkrijgingen onder bezwarende titel bij authentieke akte van de geheelheid eigendom van een beschermd monument als vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013, met uitzondering van ruilovereenkomsten die onder de toepassing vallen van artikel 2.9.7.0.2.<br>
+§ 1. Het tarief, vermeld in artikel 2.9.4.1.1, wordt voor overeenkomsten gesloten voor 1 januari 2025 gehalveerd voor verkrijgingen onder bezwarende titel bij authentieke akte van de geheelheid eigendom van een beschermd monument als vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013, met uitzondering van ruilovereenkomsten die onder de toepassing vallen van artikel 2.9.7.0.2.<br>
 <br>
 § 2. Voor de toepassing van het verlaagde tarief, vermeld in paragraaf 1, moeten de volgende voorwaarden vervuld zijn:<br>
 1° de verkrijgers verbinden zich ertoe dat minstens het bedrag dat overeenkomt met het verschil tussen het verkooprecht, geheven met toepassing van paragraaf 1, en het verkooprecht, verschuldigd bij gebrek aan toepassing van hetzelfde artikel, binnen vijf jaar vanaf de datum van de authentieke akte van verkrijging geïnvesteerd wordt in beheersmaatregelen, werkzaamheden of diensten die noodzakelijk zijn voor het behoud of de herwaardering van erfgoedkenmerken en -elementen van het beschermde monument, vermeld in artikel 2.1, 16°, van het Onroerenderfgoeddecreet van 12 juli 2013. De voormelde beheersmaatregelen, werkzaamheden of diensten dienen opgenomen te zijn in een goedgekeurd beheersplan als vermeld in punt 2°, dat geldig is bij de aanvang van de voormelde beheersmaatregelen, werkzaamheden of diensten;<br>
@@ -4617,7 +4626,7 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 
 ### ART 2.9.4.2.11.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 3 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
+§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 2 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
 <br>
 In afwijking van het eerste lid bedraagt het tarief 6% voor overeenkomsten houdende zuivere aankoop waarvan de authentieke akte uiterlijk op 31 december 2023 is verleden, als de verkrijger opteert voor de vermindering, vermeld in artikel 2.9.5.0.1, of de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.<br>
 <br>
@@ -4642,7 +4651,7 @@ De koper die de voorwaarden, vermeld in het eerste lid, 1° of 2°, niet is nage
 
 ### ART 2.9.4.2.12.
 
-§ 1. Het verlaagde tarief,&nbsp;vermeld in artikel 2.9.4.2.11, § 1, eerste lid, wordt verminderd tot 1%&nbsp;als aan al de volgende voorwaarden is voldaan:<br>
+§ 1. Het verlaagde tarief,&nbsp;vermeld in artikel 2.9.4.2.11, § 1, eerste lid, wordt verminderd tot 1%&nbsp;voor verkoopovereenkomsten gesloten voor 1 januari 2025, als aan al de volgende voorwaarden is voldaan:<br>
 1° de verkrijger verbindt zich ertoe aan de aangekochte woning een ingrijpende energetische renovatie uit te voeren als vermeld in artikel 1.1.1, § 2, 50°, van het Energiebesluit van 19 november 2010, een gedeeltelijke herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 46/2°, of een herbouw uit te voeren als vermeld in artikel 1.1.1, § 2, 47/2°, van het voormelde besluit;<br>
 2° de verkrijger heeft binnen een termijn van zes jaar vanaf de datum van de authentieke aankoopakte een EPB-aangifte als vermeld in artikel 1.1.3, 47°, van het Energiedecreet van 8 mei 2009, laten indienen waaruit blijkt dat de werken die aan de aangekochte woning uitgevoerd zijn, betrekking hebben op werken als vermeld in punt 1° en dat is voldaan aan alle EPB-eisen, vermeld in titel IX, hoofdstuk I, van het Energiebesluit van 19 november 2010, die op de omgevingsvergunning(en) voor stedenbouwkundige handelingen van het specifieke bouwproject van toepassing zijn;<br>
 3° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
@@ -4747,11 +4756,11 @@ Voor de toepassing van artikel 2.9.5.0.1 tot en met artikel 2.9.5.0.3 en   voor 
 
 ### ART 2.9.5.0.5.
 
-§ 1. Als er voor alle verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt er een rechtenvermindering toegestaan van respectievelijk 2800 euro of 960 euro op het totaal van de op de aankoop berekende rechten. Als het verschuldigde verkooprecht lager is dan, naargelang het geval, hetzij 2800 euro, hetzij 960 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van dit verkooprecht.<br>
+§1. Als er voor alle verkrijgers toepassing wordt gemaakt van het verlaagde ta-rief, vermeld in artikel 2.9.4.2.11, §1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt er een rechtenvermindering toegestaan van 1867 euro op het totaal van de op de aan-koop berekende rechten. Als het verschuldigde verkooprecht lager is dan 1867 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van dit verkoop-recht.<br>
 <br>
-Als er slechts voor sommige verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 2800 euro of 960 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aandeel van de betrokken verkrijgers in de totale aankoop. Als het door deze verkrijgers verschuldigde verkooprecht lager is dan het overeenkomstige breukdeel van, naargelang het geval, hetzij 2800 euro, hetzij 960 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van het wettelijk aandeel van deze verkrijgers in het totale verschuldigde verkooprecht.<br>
+Als er slechts voor sommige verkrijgers toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.9.4.2.11, §1, eerste lid, en als de totale be-lastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 1867 euro herleid tot het breukdeel van deze bedra-gen dat overeenstemt met het aandeel van de betrokken verkrijgers in de totale aankoop. Als het door deze verkrijgers verschuldigde verkooprecht lager is dan het overeenkomstige breukdeel van 1867 euro, dan wordt de rechtenvermindering verlaagd tot het bedrag van het wettelijk aandeel van deze verkrijgers in het tota-le verschuldigde verkooprecht.<br>
 <br>
-Als er slechts voor een deel van de verkrijging toepassing wordt gemaakt van het verlaagd tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 2800 euro of 960 euro herleid tot het breukdeel van deze bedragen dat overeenstemt met het aandeel van de verkrijging waarvoor het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, eerste lid, of artikel 2.9.4.2.12, § 1, eerste lid, wordt toegepast.<br>
+Als er slechts voor een deel van de verkrijging toepassing wordt gemaakt van het verlaagd tarief, vermeld in artikel 2.9.4.2.11, §1, eerste lid, en als de totale belastbare grondslag van het onroerend goed niet hoger is dan 220.000 euro, wordt de rechtenvermindering van 1867 euro herleid tot het breukdeel van dat bedrag dat overeenstemt met het aandeel van de verkrijging waarvoor het ver-laagde tarief, vermeld in artikel 2.9.4.2.11, §1, eerste lid, wordt toegepast.<br>
 <br>
 Voor de onroerende goederen gelegen op het grondgebied van de kernsteden en de gemeenten van de Vlaamse Rand rond Brussel zoals bepaald in artikel 1.1.0.0.2, twaalfde lid, 8° en 9°, wordt de rechtenvermindering, vermeld in het eerste lid, toegestaan als de totale belastbare grondslag van het onroerend goed niet hoger is dan 240.000 euro.<br>
 <br>
@@ -5265,46 +5274,46 @@ Als de combinatie, vermeld in het eerste lid, de aard vertoont van een competiti
 ### ART 2.13.4.0.1.
 
 &nbsp;De belasting wordt berekend volgens het tarief per kalenderjaar, vermeld in de volgende tabel:
-<table border="1" cellspacing="0" class="Table" style="border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:4.1pt">
+<table border="1" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="height:17.0pt; width:151.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">categorie van het toestel</span></span></p>
+			<p>categorie van het toestel</p>
 			</td>
 			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">tarief in euro</span></span></p>
+			<p>tarief in euro</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="height:17.0pt; width:151.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1</span></span></p>
+			<p>1</p>
 			</td>
 			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4000</span></span></p>
+			<p>4600</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="height:17.0pt; width:151.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2</span></span></p>
+			<p>2</p>
 			</td>
 			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">500</span></span></p>
+			<p>500</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="height:17.0pt; width:151.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3</span></span></p>
+			<p>3</p>
 			</td>
 			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">55</span></span></p>
+			<p>55</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="height:17.0pt; width:151.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:left"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4</span></span></p>
+			<p>4</p>
 			</td>
 			<td style="height:17.0pt; vertical-align:top; width:106.45pt">
-			<p style="margin-left:0cm; margin-right:0cm; text-align:right"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">0</span></span></p>
+			<p>0</p>
 			</td>
 		</tr>
 	</tbody>
@@ -6992,7 +7001,7 @@ Aan de instellingen, vermeld in het tweede lid, kunnen alleen inlichtingen gevra
 <br>
 Met betrekking tot de registratiebelasting moet de machtiging een nauwkeurige aanduiding bevatten van het rechtsfeit waarvoor het onderzoek noodzakelijk wordt geacht.<br>
 <br>
-Met betrekking tot de erfbelasting moet de machtiging de aanduiding van de overleden persoon bevatten en, als het onderzoek betrekking heeft op feiten die meer dan drie jaar voor het openvallen van de nalatenschap hebben plaatsgevonden, of op verrichtingen die gedaan zijn door een andere persoon dan de overledene of zijn echtgenoot of wettelijk samenwonende, de nauwkeurige aanduiding van de feiten die het voorwerp van de opzoeking uitmaken.<br>
+Met betrekking tot de erfbelasting moet de machtiging de aanduiding van de overleden persoon bevatten en, als het onderzoek betrekking heeft op feiten die meer dan vijf jaar voor het openvallen van de nalatenschap hebben plaatsgevonden, of op verrichtingen die gedaan zijn door een andere persoon dan de overledene of zijn echtgenoot of wettelijk samenwonende, de nauwkeurige aanduiding van de feiten die het voorwerp van de opzoeking uitmaken.<br>
 <br>
 Als voor de registratiebelasting of de erfbelasting blijkt dat er een of meer aanwijzingen zijn van belastingontduiking, kan het bevoegde personeelslid met minstens de graad van directeur de beschikbare gegevens over die belastingplichtige of de erflater, in geval van erfbelasting, opvragen bij het centrale aanspreekpunt, vermeld in de wet van 8 juli 2018 houdende organisatie van een centraal aanspreekpunt van rekeningen en financiële contracten en tot uitbreiding van de toegang tot het centraal bestand van berichten van beslag, delegatie, overdracht, collectieve schuldenregeling en protest.<br>
 <br>
@@ -8025,6 +8034,10 @@ De definitie van lichte vrachtauto, vermeld in artikel 1.1.0.0.2, derde lid, 2°
 2° een kopie van de bestelbon is aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 februari 2023, samen met een formulier, dat de voormelde entiteit te beschikking stelt, dat wordt ondertekend door de betrokken belastingplichtige en dat minstens al de volgende gegevens bevat:<br>
 a)&nbsp;&nbsp; &nbsp;het identificatienummer uit het Rijksregister van de natuurlijke personen of het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op de naam van wie het voertuig ingeschreven is of zal worden in het repertorium van het Directoraat- generaal Mobiliteit en Verkeersveiligheid;<br>
 b)&nbsp;&nbsp; &nbsp;de voornamen, de achternaam en het domicilieadres van de natuurlijke persoon op de naam van wie het voertuig ingeschreven is of zal worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.
+
+### ART 5.0.0.0.20.
+
+Artikel 2.9.4.2.11, §1, eerste lid, en artikel 2.9.5.0.5, §1, zijn van toepassing op overeenkomsten houdende zuivere aankoop gesloten vanaf 1 januari 2025, of, in afwijking daarvan, op authentieke akten verleden vanaf 1 januari 2025, wanneer de overeenkomsten houdende zuivere aankoop waarop de akten betrekking heb-ben, gesloten zijn voor 1 januari 2025.
 
 ### ART 5.1.0.0.14.
 
