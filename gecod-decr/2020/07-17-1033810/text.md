@@ -57,6 +57,7 @@ c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de d
 25° kamer: een woning waarin een toilet, een bad of douche of een kookgelegenheid ontbreken en waarvan de bewoners voor een of meer van die voorzieningen aangewezen zijn op de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt;<br>
 26° kavels: de in een omgevingsvergunning voor het verkavelen van gronden van een niet vervallen verkaveling afgebakende percelen;<br>
 27° landmeter-expert: de landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is;<br>
+27°/1 &nbsp;&nbsp; &nbsp;mobiele woonunit: woonvorm die gekenmerkt wordt door flexibiliteit en verplaatsbaarheid, bestemd voor tijdelijke bewoning;<br>
 28° NBN EN 14604: Belgische norm inzake rookmelders, waarvan de registratie door het Belgisch Instituut voor Normalisatie werd bekendgemaakt in het Belgisch Staatsblad van 22 februari 2006, en de later bekendgemaakte wijzigingen ervan. Het is de omzetting van de Europese geharmoniseerde norm CE EN 14604;<br>
 29° niet-residentiële ruimte: elk onroerend goed of deel ervan dat niet bestemd is voor de huisvesting van een gezin of een alleenstaande en dat geen gemeenschapsvoorziening is noch een specifieke voorziening zoals bedoeld in artikel 5.40;<br>
 30° nutsbedrijven: de instanties die in het kader van de openbare nutsvoorziening instaan voor de levering van water;<br>
@@ -955,7 +956,7 @@ De gewestelijk ambtenaar geeft het advies, vermeld in het eerste lid, op verzoek
 <br>
 Als de dringende werkzaamheden niet uitgevoerd worden binnen de termijn, vermeld in het eerste lid, kan de burgemeester ze zelf laten uitvoeren. Op vertoon van een staat kunnen de kosten van de uitgevoerde werkzaamheden in dat geval verhaald worden op de houder van het zakelijk recht.<br>
 <br>
-§3. Op verzoek van de gemeenteraad kan de Vlaamse Regering de burgemeester vrijstellen van de verplichting om het advies van de gewestelijk ambtenaar, vermeld in paragraaf 1, eerste lid, te vragen. De Vlaamse Regering bepaalt de voorwaarden voor de vrijstelling. De vrijstelling geldt vanaf de goedkeuring ervan door de Vlaamse Regering. Ze kan op elk moment ingetrokken worden als blijkt dat niet meer voldaan is aan de voorwaarden waaronder ze verleend is.</p>
+§3. De Vlaamse Regering kan de burgemeester vrijstellen van de verplichting om het advies van de gewestelijk ambtenaar, vermeld in paragraaf 1, eerste lid, te vragen, onder de voorwaarden die ze bepaalt. De Vlaamse Regering kan de vrijstelling op elk moment intrekken als blijkt dat niet meer voldaan is aan de voorwaarden waaronder ze verleend is.</p>
 
 ### ART 3.13.
 
@@ -1324,6 +1325,8 @@ Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypoth
 
 § 1. Voor de toepassing van de bepalingen van dit boek worden persoonsgegevens verwerkt om de minimale woningkwaliteit, vermeld in deel 1, na te streven.<br>
 <br>
+In afwijking van het eerste lid worden persoonsgegevens verwerkt om de voorwaarden en vereisten, vermeld in artikel 3.58 tot en met 3.60, toe te passen.<br>
+<br>
 § 2. De verantwoordelijken voor de verwerking van persoonsgegevens met toepassing van de bepalingen in deel 2 tot en met 7 van dit boek zijn:<br>
 1° de steden en gemeenten, met inbegrip van de intergemeentelijke samenwerkingsverbanden, voor wat betreft de verwerkingen die zij voor hun rekening nemen;<br>
 2° het agentschap dat door de Vlaamse Regering belast wordt met de uitvoering van het woonbeleid, voor wat betreft de verwerkingen die het voor zijn rekening neemt;<br>
@@ -1335,6 +1338,12 @@ De verantwoordelijken voor de verwerking van persoonsgegevens met toepassing van
 3° de sociale woonorganisaties.<br>
 <br>
 De verantwoordelijke voor de verwerking van persoonsgegevens met toepassing van de bepalingen van deel 9 van dit boek is het agentschap dat door de Vlaamse Regering belast wordt met de uitvoering van het woonbeleid.<br>
+<br>
+De verwerkingsverantwoordelijke in het kader van de toepassing van artikel 3.58 en 3.59 zijn, ieder wat betreft de verwerkingen die zij voor hun rekening nemen:<br>
+1° de steden of gemeenten;<br>
+2° de dienst die door de Vlaamse Regering belast is met het woonbeleid.<br>
+<br>
+De dienst die door de Vlaamse Regering belast is met het woonbeleid, is de verwerkingsverantwoordelijke in het kader van de toepassing van artikel 3.60.<br>
 <br>
 De verwerkingsverantwoordelijken, vermeld in deze paragraaf, verduidelijken in hun respectieve privacyverklaringen welke verwerkingen zij voor hun rekening nemen. Zij nemen met het oog op transparantie en de garantie van de rechten van betrokkenen in hun communicatie met deze betrokkenen een verwijzing op naar de vindplaats van hun respectieve privacyverklaringen.<br>
 <br>
@@ -1351,7 +1360,9 @@ De Vlaamse Regering kan de categorieën van persoonsgegevens, vermeld in het eer
 § 4. Voor de verwerking van persoonsgegevens met toepassing van paragraaf 1 geldt een bewaartermijn:<br>
 1° van 10 jaar na het afsluiten van een administratief dossier als vermeld in deel 2 tot en met 8 van dit boek;<br>
 2° van 30 jaar na het afsluiten van een strafrechtelijk dossier als vermeld in deel 9 van dit boek;<br>
-3° zoals bepaald in het Kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019 voor wat betreft de bestuurlijke vervolging en beboeting.<br>
+3° zoals bepaald in het Kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019 voor wat betreft de bestuurlijke vervolging en beboeting;<br>
+4° van tien jaar nadat het kotlabel, vermeld in artikel 3.59, §2, van deze codex, is vervallen of tien jaar na de beslissing om geen kotlabel toe te kennen;<br>
+5° van een jaar nadat een melding als vermeld in artikel 3.60 van deze codex is geschrapt.<br>
 <br>
 Binnen een jaar na het verstrijken van de termijn, vermeld in het eerste en derde lid, worden persoonsgegevens in digitale vorm definitief gewist en papieren documenten die persoonsgegevens bevatten vernietigd.<br>
 <br>
@@ -1373,14 +1384,19 @@ De persoonsgegevens, vermeld in paragraaf 3, eerste lid, 6°, kunnen bewaard wor
 2° voor woningen waarvoor een waarschuwingsprocedure als vermeld in artikel 3.10 loopt;<br>
 3° voor woningen waarvoor een procedure tot ongeschikt- en onbewoonbaarverklaring als vermeld in artikel 3.12 loopt, met inbegrip van een beroepsprocedure als vermeld in artikel 3.14 en 3.15;<br>
 4° voor woningen die in de inventaris zijn opgenomen;<br>
-5° voor woningen waarvoor de opname in de inventaris geschorst is conform artikel 3.21, §3.<br>
+5° voor woningen waarvoor de opname in de inventaris geschorst is conform artikel 3.21, §3;<br>
+6° voor woningen waarvoor een procedure voor de toekenning van een Vlaams kotlabel wordt gevolgd conform artikel 3.59, of die gemeld zijn als studentenhuisvesting conform artikel 3.60.<br>
 <br>
 De gegevens, vermeld in het eerste lid, kunnen digitaal of op een ande-re wijze aan het publiek ter beschikking worden gesteld. De voormelde terbeschikkingstelling kan de volgende informatie bevatten:<br>
 1° de identificatiegegevens van die woningen, met uitsluiting van identiteitsgegevens van personen;<br>
 2° informatie over het bestaan van een niet-vervallen conformiteitsattest of over het bestaan van een verzoek tot afgifte van een conformiteitsattest;<br>
 3° informatie over het bestaan van een waarschuwing als vermeld in artikel 3.10;<br>
 4° informatie over het bestaan van een actueel besluit om een woning ongeschikt of onbewoonbaar te verklaren of over het bestaan van een procedure tot ongeschikt- en onbewoonbaarverklaring, met inbegrip van een beroepsprocedure als vermeld in artikel 3.14 en artikel 3.15;<br>
-5° &nbsp;&nbsp; &nbsp;informatie over het bestaan van een schorsing van een opname in de inventaris als vermeld in artikel 3.21, §3.<br>
+5° informatie over het bestaan van een schorsing van een opname in de inventaris als vermeld in artikel 3.21, §3;<br>
+6° informatie over de aanduiding als studentenhuisvesting;<br>
+7° informatie over het bestaan van het Vlaamse kotlabel met vermelding van de voorwaarden die zijn vervuld en in voorkomend geval informatie over de gemeentelijke voorwaarden met vermelding of die zijn vervuld;<br>
+8° informatie over de weigering om een Vlaams kotlabel toe te kennen met vermelding van de voorwaarden die wel of niet zijn vervuld en in voorkomend geval informatie over de gemeentelijke voorwaarden;<br>
+9° informatie dat de procedure voor de toekenning van een Vlaams kotlabel en in voorkomend geval de procedure voor de gemeentelijke voorwaarden, lopende is.<br>
 <br>
 De terbeschikkingstelling, vermeld in het eerste en tweede lid, is mogelijk voor alle geïnteresseerde of belanghebbende natuurlijke personen, rechtspersonen, organisaties, overheidsinstanties, diensten of andere organen, voor commercieel en niet-commercieel gebruik. Het agentschap, vermeld in het eerste lid, kan voor de terbeschikkingstelling, vermeld in het eerste en tweede lid, een beroep doen op een publieke of private dienstverlener. In dat geval is het voormelde agentschap de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de overdracht van de gegevens en is de dienstverlener de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor het bijhouden en ter beschikking stellen ervan.<br>
 <br>
@@ -1393,7 +1409,36 @@ De terbeschikkingstelling, vermeld in het eerste lid, kan gebeuren via een repre
 <br>
 De dienst, vermeld in het eerste lid, is verwerkingsverantwoordelijke voor de overdracht van de gegevens. De VMSW, de representatieve beroepsorganisaties, vermeld in het tweede lid, en de ontvangende notarissen en vastgoedmakelaars, zijn verwerkingsverantwoordelijke voor de verdere verwerking ervan. Notarissen en vastgoedmakelaars kunnen de documenten die conform het eerste of tweede lid ter beschikking worden gesteld, op hun beurt ter beschikking stellen van de betrokkenen bij het dossier waarvoor deze notarissen of vastgoedmakelaars de voormelde gegevens opvragen.<br>
 <br>
-§ 3. Voor de woningen, vermeld in paragraaf 1, kunnen de resultaten van de recentste technische vaststellingen, vermeld in artikel 3.3, door steden en gemeenten of door het agentschap dat door de Vlaamse Regering belast wordt met de uitvoering van het woonbeleid, die als verwerkingsverantwoordelijke optreden, ter beschikking gesteld worden van de houder van het zakelijk recht die niet betrokken was bij de procedure die tot de inventarisatie of tot afgifte van een conformiteitsattest heeft geleid en van iedere persoon die aantoont dat de technische toestand van de woning hem rechtstreeks en persoonlijk in zijn rechtssituatie kan raken.
+§ 3. Voor de woningen, vermeld in paragraaf 1, kunnen de resultaten van de recentste technische vaststellingen, vermeld in artikel 3.3, door steden en gemeenten of door het agentschap dat door de Vlaamse Regering belast wordt met de uitvoering van het woonbeleid, die als verwerkingsverantwoordelijke optreden, ter beschikking gesteld worden van de houder van het zakelijk recht die niet betrokken was bij de procedure die tot de inventarisatie of tot afgifte van een conformiteitsattest heeft geleid en van iedere persoon die aantoont dat de technische toestand van de woning hem rechtstreeks en persoonlijk in zijn rechtssituatie kan raken.<br>
+<br>
+§4. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan persoonsgegevens die noodzakelijk zijn voor de goede organisatie en opvolging van conformiteitsonderzoeken die verlopen volgens de procedure, vermeld in artikel 3.3, en die worden uitgevoerd door controleurs die erkend zijn conform de bepalingen die de Vlaamse Regering krachtens artikel 3.5, tweede lid, vaststelt, ter beschikking stellen aan private rechtspersonen die de diensten van die controleurs aanbieden. De voormelde private rechtspersonen zijn de verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens die ze ontvangen.<br>
+<br>
+§5. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens die ze verwerkt in het kader van de toepassing van artikel 3.60, doorgeven aan de steden en gemeenten voor het opvolgen van het aanbod van studentenhuisvesting. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan die persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan die persoonsgegevens verder verwerken voor doeleinden als vermeld in artikel 1.5 die verenigbaar zijn met de oorspronkelijke doeleinden.
+
+## Deel 11. Kotlabel en melding van studentenhuisvesting
+
+### ART 3.58.
+
+In dit deel wordt verstaan onder:<br>
+1° student: iedere persoon die ingeschreven is bij een instelling die voltijds onderwijs aanbiedt;<br>
+2° studentenhuisvesting: elke woning die verhuurd wordt of te huur of ter beschikking gesteld wordt met het oog op de huisvesting van een of meer studenten.
+
+### ART 3.59.
+
+§1. De gemeenteraad kan bij verordening:<br>
+1° bepalen dat een studentenhuisvesting het kotlabel, vermeld in paragraaf 2, kan krijgen;<br>
+2° het kotlabel, vermeld in paragraaf 2, verplichten om een studentenhuisvesting te verhuren of ter beschikking te stellen.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid.<br>
+<br>
+§2. Een kotlabel toont aan dat een studentenhuisvesting aan al de volgende voorwaarden voldoet:<br>
+1° de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vermeld in artikel 3.1 van deze codex, en, in voorkomend geval, de strengere veiligheids- en kwaliteitsnormen die de gemeenteraad kan opleggen conform artikel 3.2, eerste lid, 2°, van deze codex;<br>
+2° de vereisten van brandveiligheid van woningen;<br>
+3° het aantal woongelegenheden is vergund of vergund geacht conform de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure om een kotlabel als vermeld in het eerste lid, aan te vragen, te behandelen en toe te kennen. De Vlaamse Regering bepaalt de geldigheidsduur van het kotlabel, vermeld in het eerste lid, het uitzicht ervan, en op welke wijze het wordt bekendgemaakt. De gemeente kan nadere regels bepalen.<br>
+<br>
+§3. Als de gemeenteraad een verordening als vermeld in paragraaf 1, eerste lid, heeft, kan ze bijkomende voorwaarden opleggen, die geen afbreuk doen aan het kotlabel, vermeld in paragraaf 2, eerste lid.
 
 ## Boek 4. Woonactoren
 
@@ -2693,36 +2738,39 @@ De Vlaamse Regering kan de nadere regelen en procedure vastleggen voor het opleg
 
 <p>De Vlaamse Regering kan subsidie verlenen om verhuurders van sociale huurwoningen&nbsp;en betaalbare studentenkamers in staat te stellen maatregelen ter bevordering van rationeel energiegebruik in de zin van artikel 1.1.3, 106°, van het Energiedecreet van 8 mei 2009 te nemen.</p>
 
-## Titel 3. Aanleg en aanpassing van wooninfrastructuur
+## Titel 3. Aanleg en aanpassing van wooninfrastructuur en stockage, transport en installatie van mobiele woonunits en de daarvoor noodzakelijke infrastructuurwerken
 
 ## Hoofdstuk 1. Algemene bepalingen
 
 ### ART 5.22.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Om het recht op wonen te bevorderen, kan de Vlaamse Regering, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, subsidie verlenen voor een aantal verrichtingen die betrekking hebben op sociale huurwoningen en die passen in de aanleg of de aanpassing van wooninfrastructuur.</span></span></span></span><br>
+<p>Om het recht op wonen te bevorderen, kan de Vlaamse Regering, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, subsidie verlenen voor een aantal verrichtingen die betrekking hebben op sociale huurwoningen en die passen in de aanleg of de aanpassing van wooninfrastructuur.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verlenen voor de aanleg of de aanpassing van wooninfrastructuur die nodig is voor de realisatie van een gemengd sociaal woonproject als vermeld in artikel 1.3, §1, eerste lid, 70°, a). De Vlaamse Regering bepaalt het minimum aandeel sociale huurwoningen dat binnen het voornoemde gemengd sociaal woonproject moet worden gerealiseerd om in aanmerking te komen voor een subsidie voor de aanleg of de aanpassing van wooninfrastructuur.</span></span></span></span><br>
+De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verlenen voor de aanleg of de aanpassing van wooninfrastructuur die nodig is voor de realisatie van een gemengd sociaal woonproject als vermeld in artikel 1.3, §1, eerste lid, 70°, a). De Vlaamse Regering bepaalt het minimum aandeel sociale huurwoningen dat binnen het voornoemde gemengd sociaal woonproject moet worden gerealiseerd om in aanmerking te komen voor een subsidie voor de aanleg of de aanpassing van wooninfrastructuur.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Rekening houdend met de bepalingen van dit hoofdstuk stelt de Vlaamse Regering de bijzondere voorwaarden vast waaronder ze subsidie verleent. </span></span></span></span></p>
+De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begro-ting van het Vlaamse Gewest worden ingeschreven, een subsidie verlenen voor stockage, transport en installatie van mobiele woonunits die dienen voor de tijde-lijke huisvesting van huurders van sociale huurwoningen en voor de daarvoor noodzakelijke infrastructuurwerken.<br>
+<br>
+Rekening houdend met de bepalingen van dit hoofdstuk stelt de Vlaamse Regering de bijzondere voorwaarden vast waaronder ze subsidie verleent.</p>
 
 ### ART 5.23.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De Vlaamse Regering kan subsidie verlenen om initiatiefnemers in staat te stellen:</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">1° gronden bouwrijp te maken, in voorkomend geval door sloping van de aanwezige constructies;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">2° infrastructuurwerken uit te voeren of aan te passen, namelijk de wegenuitrusting, de omgevingswerken, de openbare verlichting, het openbare watervoorzieningsnet en de inrichtingen voor afvoer en zuivering van afvalwater die voor de woningen in kwestie noodzakelijk zijn;</span></span></span></span><br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">3° gemeenschapsvoorzieningen op te richten. </span></span></span></span></p>
+<p>De Vlaamse Regering kan subsidie verlenen om initiatiefnemers in staat te stellen:<br>
+1° gronden bouwrijp te maken, in voorkomend geval door sloping van de aanwezige constructies;<br>
+2° infrastructuurwerken uit te voeren of aan te passen, namelijk de wegenuitrusting, de omgevingswerken, de openbare verlichting, het openbare watervoorzieningsnet en de inrichtingen voor afvoer en zuivering van afvalwater die voor de woningen&nbsp;of de mobiele woonunits in kwestie noodzakelijk zijn;<br>
+3° gemeenschapsvoorzieningen op te richten;<br>
+4°&nbsp; mobiele woonunits als vermeld in artikel 5.22, derde lid, te stocke-ren, te transporteren, te installeren en het perceel waarop de mobiele woonunits geplaatst worden, aan te leggen.</p>
 
 ### ART 5.24.
 
-<p style="margin-left:0cm; margin-right:0cm">De infrastructuurwerken, vermeld in artikel 5.23, 2°, kunnen alleen gesubsidieerd worden als ze samen met de grond waarin of waarop ze worden uitgevoerd, binnen de termijn die door de Vlaams Regering wordt bepaald, overgedragen worden aan de gemeente om in het gemeentelijk openbaar domein te worden opgenomen, of aan een door de gemeente aangewezen rioolbeheerder die instaat voor het beheer en onderhoud van de rioleringen in de gemeente. De initiatiefnemer voegt de overeenkomst of het akkoord tussen de gemeente en rioolbeheerder bij de subsidieaanvraag. De gemeente en initiatiefnemer verklaren zich uiterlijk bij de indiening van de subsidieaanvraag principieel bereid tot die overdracht.<br>
+<p>De infrastructuurwerken, vermeld in artikel 5.23, 2°,&nbsp;met uitzondering van de infrastructuurwerken die betrekking hebben op tijdelijke voorzieningen voor mobiele woonunits kunnen alleen gesubsidieerd worden als ze samen met de grond waarin of waarop ze worden uitgevoerd, binnen de termijn die door de Vlaams Regering wordt bepaald, overgedragen worden aan de gemeente om in het gemeentelijk openbaar domein te worden opgenomen, of aan een door de gemeente aangewezen rioolbeheerder die instaat voor het beheer en onderhoud van de rioleringen in de gemeente. De initiatiefnemer voegt de overeenkomst of het akkoord tussen de gemeente en rioolbeheerder bij de subsidieaanvraag. De gemeente en initiatiefnemer verklaren zich uiterlijk bij de indiening van de subsidieaanvraag principieel bereid tot die overdracht.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De initiatiefnemer kan de gemeenschapsvoorzieningen die niet uitsluitend bedoeld zijn voor de bewoners van de woningen van het sociaal woonproject, aan de gemeente overdragen om in het gemeentelijke openbare domein te worden opgenomen.</span></span></span><br>
+De initiatiefnemer kan de gemeenschapsvoorzieningen die niet uitsluitend bedoeld zijn voor de bewoners van de woningen van het sociaal woonproject, aan de gemeente overdragen om in het gemeentelijke openbare domein te worden opgenomen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De initiatiefnemer mag voor de overdracht aan de gemeente, bedoeld in dit artikel, een vergoeding vragen die niet meer mag bedragen dan het niet-gesubsidieerde deel van de kostprijs van de werkzaamheden, verrichtingen en voorzieningen.</span></span></span><br>
+De initiatiefnemer mag voor de overdracht aan de gemeente, bedoeld in dit artikel, een vergoeding vragen die niet meer mag bedragen dan het niet-gesubsidieerde deel van de kostprijs van de werkzaamheden, verrichtingen en voorzieningen.<br>
 <br>
-<span style="font-size:11pt"><span style="font-family:FlandersArtSans-Regular"><span style="font-size:10.0pt">De overdracht gebeurt overeenkomstig een procedure die de Vlaamse Regering uitwerkt en die voor de gemeente de nodige waarborgen biedt inzake overleg bij het ontwerp en de uitvoering van de verrichtingen.</span></span></span><br>
+De overdracht gebeurt overeenkomstig een procedure die de Vlaamse Regering uitwerkt en die voor de gemeente de nodige waarborgen biedt inzake overleg bij het ontwerp en de uitvoering van de verrichtingen.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">De gemeente onderhoudt de wooninfrastructuur, vermeld in het eerste lid, vanaf de voorlopige oplevering ervan, of vanaf de ingebruikname ervan als die aan de voorlopige oplevering voorafgaat. De eigenaar onderhoudt de gemeenschapsvoorzieningen vanaf de voorlopige oplevering ervan, of vanaf de ingebruikname ervan als die aan de voorlopige oplevering voorafgaat.&nbsp;</span></p>
+De gemeente onderhoudt de wooninfrastructuur, vermeld in het eerste lid, vanaf de voorlopige oplevering ervan, of vanaf de ingebruikname ervan als die aan de voorlopige oplevering voorafgaat. De eigenaar onderhoudt de gemeenschapsvoorzieningen vanaf de voorlopige oplevering ervan, of vanaf de ingebruikname ervan als die aan de voorlopige oplevering voorafgaat.&nbsp;</p>
 
 ### ART 5.25.
 
