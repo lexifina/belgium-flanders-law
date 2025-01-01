@@ -505,13 +505,7 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 
 ### ART. 13/3.
 
-§ 1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 25 euro tot 250 euro aan:<br>
-1°...;<br>
-2° ...;<br>
-3° ...;<br>
-4° ...;<br>
-5° de werkgever, zijn lasthebbers of aangestelden die de dienstencheques niet gegroepeerd per maand waarin de prestaties effectief verricht zijn, ter betaling aan het uitgiftebedrijf bezorgen;<br>
-6° ...<br>
+§ 1. ...<br>
 <br>
 § 2. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro aan:<br>
 1° de werkgever, zijn lasthebbers of aangestelden die dienstencheques van de gebruiker aanvaarden als de buurtwerken of -diensten nog niet zijn uitgevoerd;<br>
@@ -526,6 +520,7 @@ b) hebben gebruikgemaakt van die gegevens, terwijl ze weten dat de aldus verkreg
 10° de werkgever, zijn lasthebbers of de aangestelden die de gebruiker vertegenwoordigen voor de toepassing van artikel 3, §2, eerste lid, en artikel 6 van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, of de werknemer vertegenwoordigen om de diensten- cheques te ondertekenen;<br>
 11° de personen die dienstencheques aanwenden voor andere doeleinden dan de doeleinden waarvoor ze die hebben verkregen;<br>
 12° de personen die dienstencheques hebben verkregen, behouden of aanwenden op basis van onjuiste of onvolledige verklaringen, of door na te laten om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.<br>
+13° de werkgever, zijn lasthebbers of aangestelden die de prestaties niet binnen dertig dagen na de prestatiedatum registreren in het beheersysteem van het uitgiftebedrijf.<br>
 <br>
 §2/1. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen een administratieve geldboete opgelegd worden van 150 tot 1500 euro aan:<br>
 1° de werkgever, zijn lasthebbers of aangestelden die buurtwerken of diensten leveren zonder te beschikken over een voorafgaande regelmatige erkenning of die niet meer voldoen aan de erkenningsvoorwaarden;<br>
