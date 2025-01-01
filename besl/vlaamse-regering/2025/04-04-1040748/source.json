@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040748,
+  "title": "Besluit van de Vlaamse Regering van 2025-04-04 tot wijziging van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit en het besluit van de Vlaamse Regering van 12 mei 2023 over het combineren van agromilieuklimaatmaatregelen, ecoregelingen en beheerovereenkomsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040748/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "c3c7ef3c2e2f91de5aa0f0d91a2281c44957b3ee653ef10184705a9f10ac6df9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040748&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-04-04",
+  "gazette": "2025-04-24",
+  "numac": 2025003091,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
