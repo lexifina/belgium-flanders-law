@@ -2,16 +2,16 @@
   "codex_id": 1040210,
   "title": "Ministerieel besluit van 2012-12-05 tot bepaling van de samenstelling van de [...] prijs per uur, de extra vergoedingen en de voorschotten ten gunste van derden die aangerekend worden in de [centra voor dagopvang]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040210/VolledigDocument?datum=2012-12-17",
-  "source_sha256": "34918b0d869437815e627b3e885205e2fa6c9ca0451ba32751310de1400d03cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040210/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "e6a335b3f2470aeef1cf6cf61a4574ab63387a7e9eae986a8a7229d357f199aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040210&param=informatie",
-  "as_of": "2012-12-17",
+  "as_of": "2025-01-01",
   "made": "2012-12-05",
   "gazette": "2013-11-22",
   "numac": 2024008335,
   "document_start": "2012-12-17",
   "document_end": null,
-  "in_force": "2012-12-17",
+  "in_force": "2025-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2012-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

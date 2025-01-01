@@ -23,21 +23,19 @@ BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° dagverzorgingscentrum conform artikel 51: een dagverzorgingscentrum als vermeld in artikel 51 van de bijlage IX bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregels voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
-2° dagprijs: de prijs per dag die door de gebruiker of zijn vertegenwoordiger betaald moet worden in een dagverzorgingscentrum;<br>
-3° prijs per uur: de prijs per uur die door de gebruiker of zijn vertegenwoordiger betaald moet worden in een dagverzorgingscentrum conform artikel 51;<br>
-4° extra vergoeding: de vergoeding die kan worden aangerekend voor de persoonlijke en individuele diensten en leveringen die in de schriftelijke overeenkomst uitdrukkelijk vermeld worden en die niet behoort tot de minimale kostprijselementen van de dagprijs of prijs per uur;<br>
+1° centrum voor dagopvang: de bijkomende erkenning voor een centrum voor dagopvang van een dienst voor gezinszorg, vermeld in artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;<br>
+2° ...<br>
+3° prijs per uur: de prijs per uur die door de gebruiker of zijn vertegenwoordiger betaald moet worden in een centrum voor dagopvang;<br>
+4° extra vergoeding: de vergoeding die kan worden aangerekend voor de persoonlijke en individuele diensten en leveringen die in de schriftelijke overeenkomst uitdrukkelijk vermeld worden en die niet behoort tot de minimale kostprijselementen van de prijs per uur;<br>
 5° voorschotten ten gunste van derden: elke uitgave die door de voorziening betaald wordt op naam van de gebruiker en die voor hetzelfde bedrag terugbetaald wordt door de gebruiker of zijn vertegenwoordiger.
 
 ### ART 2.
 
-Voor wat de extra vergoeding betreft als vermeld in artikel 1, punt 4°, moet de verantwoordelijke beheersinstantie van de voorziening op eenvoudig verzoek de bewijsstukken kunnen voorleggen die deze uitgave rechtvaardigen. Die extra vergoeding mag alleen tegen marktconforme prijzen aangerekend worden;<br>
-<br>
-Voor wat de voorschotten ten gunste van derde betreft als vermeld in artikel 1, punt 3°, moet elke uitgave gerechtvaardigd kunnen worden door een bewijsstuk.
+...
 
 ### ART 3.
 
-§1. Kostprijselementen die in de dagprijs of prijs per uur in elk dagverzorgingscentrum minimaal moeten opgenomen zijn:<br>
+§1. Kostprijselementen die in de prijs per uur in elk&nbsp;centrum voor dagopvang minimaal moeten opgenomen zijn:<br>
 1° de kostprijs van en het gebruik van de infrastructuur;<br>
 2° het aangepaste meubilair;<br>
 3° het gebruik en het onderhoud van de lokalen, met inbegrip van de liften en de sanitaire installaties;<br>
@@ -55,34 +53,31 @@ Voor wat de voorschotten ten gunste van derde betreft als vermeld in artikel 1, 
 15° de onbeperkte beschikbaarheid van drinkbaar water;<br>
 16° de administratieve kosten, ongeacht de aard ervan, die gebonden zijn aan de opvang van de gebruiker of die de werking van de voorziening betreffen;<br>
 17° verzekeringspolissen, van allerlei aard: de verzekeringen burgerlijke aansprakelijkheid, de brandverzekering alsmede alle verzekeringen die de beheerder overeenkomstig de wetgeving heeft aangegaan, met uitzondering van elke persoonlijke verzekering van de gebruiker;<br>
-19° belastingen eigen aan de uitbating van het dagverzorgingscentrum.<br>
-20° deelname aan animatie-, recreatie- en therapeutische activiteiten, die door het dagverzorgingscentrum worden georganiseerd, tenzij die worden gevat door artikel 3, §1, 3°.<br>
+19° belastingen eigen aan de uitbating van het centrum voor dagopvang.<br>
+20° deelname aan animatie-, recreatie- en therapeutische activiteiten, die door het&nbsp;centrum voor dagopvang worden georganiseerd, tenzij die worden gevat door artikel 3, §1, 3°.<br>
 <br>
-§2. In een dagverzorgingscentrum, behalve in een dagverzorgingscentrum conform artikel 51, gelden ook de volgende kostprijselementen die in de dagprijs minimaal moeten opgenomen zijn:<br>
-1° medische, verpleegkundige, verzorgende, paramedische en kinesitherapeutische activiteiten die voorzien zijn in de tussenkomst door de verplichte ziekte- en invaliditeitsverzekering, voor het bedrag dat niet gedekt wordt door deze tussenkomst;<br>
-2° het incontinentiemateriaal;<br>
-3° de bereiding en verdeling van de maaltijden (inclusief de diëten) met inbegrip van de dranken, de tussendoortjes en de dranken waarvan de verdeling tussen de maaltijden systematisch gebeurt.<br>
+§2. ...<br>
 <br>
-§3. In een dagverzorgingscentrum conform artikel 51 gelden ook de volgende kostprijselementen die in de prijs per uur minimaal moeten opgenomen zijn: de persoonsverzorging, de huishoudelijke hulp en de psychosociale ondersteuning en pedagogische ondersteuning en begeleiding voor een bedrag van 3,17 euro per uur, dat gekoppeld is aan een kalenderjaar en aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2012. Het bedrag wordt gekoppeld aan het prijsindexcijfer op 1 oktober van het jaar dat volgt op de periode van twaalf maanden waarin de indexsprong plaatsgevonden heeft.<br>
+§3. In een&nbsp;centrum voor dagopvang gelden ook de volgende kostprijselementen die in de prijs per uur minimaal moeten opgenomen zijn: de persoonsverzorging, de huishoudelijke hulp en de psychosociale ondersteuning en pedagogische ondersteuning en begeleiding voor een bedrag van 3,17 euro per uur, dat gekoppeld is aan een kalenderjaar en aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2012. Het bedrag wordt gekoppeld aan het prijsindexcijfer op 1 oktober van het jaar dat volgt op de periode van twaalf maanden waarin de indexsprong plaatsgevonden heeft.<br>
 <br>
 De geïndexeerde prijs per uur, als vermeld in het eerste lid, wordt afgerond tot op twee cijfers na de komma.
 
 ### ART 4.
 
-§1. Extra diensten in dagverzorgingscentra waarvoor bovenop de dagprijs of prijs per uur een extra vergoeding kan aangerekend worden:<br>
+§1. Extra diensten in&nbsp;centra voor dagopvang waarvoor bovenop de prijs per uur een extra vergoeding kan aangerekend worden:<br>
 1° de dranken die op individuele vraag van de bewoner verstrekt worden, met uitzondering van drinkbaar water;<br>
 2° supplementaire voedingsproducten op individuele vraag van de gebruiker;<br>
 3° de specifieke animatie-, recreatie- en therapeutische activiteiten die door de voorziening worden georganiseerd en die een aantoonbare meerkost vertegenwoordigen;<br>
-4° kost voor de was en stomerij van het persoonlijk linnen, voor herstellingskosten van persoonlijk linnen, en voor esthetische verzorging en kapper, wanneer die dienst georganiseerd wordt door de voorziening met loontrekkend personeel, voor zover de kostprijs van dit personeel of ander personeel niet vervat zit in de dagprijs of prijs per uur of niet vanuit de overheid gesubsidieerd wordt;<br>
-5° vervoerskosten, voor zover die kostprijs niet vervat zit in de dagprijs of prijs per uur of niet vanuit de overheid gesubsidieerd wordt.<br>
+4° kost voor de was en stomerij van het persoonlijk linnen, voor herstellingskosten van persoonlijk linnen, en voor esthetische verzorging en kapper, wanneer die dienst georganiseerd wordt door de voorziening met loontrekkend personeel, voor zover de kostprijs van dit personeel of ander personeel niet vervat zit in de prijs per uur of niet vanuit de overheid gesubsidieerd wordt;<br>
+5° vervoerskosten, voor zover die kostprijs niet vervat zit in de prijs per uur of niet vanuit de overheid gesubsidieerd wordt.<br>
 <br>
-§2. In een dagverzorgingscentrum conform artikel 51 kan ook voor de volgende extra diensten bovenop de prijs per uur een extra vergoeding aangerekend worden:<br>
+§2. In een&nbsp;centrum voor dagopvang kan ook voor de volgende extra diensten bovenop de prijs per uur een extra vergoeding aangerekend worden:<br>
 1° het incontinentiemateriaal;<br>
 2° de bereiding en verdeling van de maaltijden (inclusief de diëten) met inbegrip van de dranken (met uitzondering van drinkbaar water), de tussendoortjes en de dranken (met uitzondering van drinkbaar water) waarvan de verdeling tussen de maaltijden systematisch gebeurt.
 
 ### ART 5.
 
-Uitgaven die, als zij niet opgenomen zijn in de dagprijs of prijs per uur, alleen als voorschotten ten gunste van derden kunnen aangerekend worden:<br>
+Uitgaven die, als zij niet opgenomen zijn in de prijs per uur, alleen als voorschotten ten gunste van derden kunnen aangerekend worden:<br>
 1° honoraria van externe verstrekkers van zorg die zijn opgenomen in de nomenclatuur van het RlZlV voor zover ze niet inbegrepen zijn in de zorgforfaits die de voorziening voor de individuele gebruiker ontvangt;<br>
 2° kosten van medicatie, verminderd met de eventuele korting die verkregen wordt;<br>
 3° kosten voor verzorgingsmateriaal dat niet gedekt is door een RIZIV- tegemoetkoming;<br>
@@ -93,7 +88,7 @@ Uitgaven die, als zij niet opgenomen zijn in de dagprijs of prijs per uur, allee
 
 ### ART 6.
 
-Een dagverzorgingscentrum conform artikel 51 betaalt per kwartaal de ontvangen prijzen per uur aan de dienst voor gezinszorg en aanvullende thuiszorg in functie van de geleverde prestaties en bezetting.
+Een&nbsp;centrum voor dagopvang betaalt per kwartaal de ontvangen prijzen per uur aan de dienst voor gezinszorg en aanvullende thuiszorg in functie van de geleverde prestaties en bezetting.
 
 ### ART 7.
 
