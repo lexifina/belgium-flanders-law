@@ -15,7 +15,7 @@ De volgende vormvereisten zijn vervuld:<br>
 <br>
 DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BESLUIT:
 
-## HOOFDSTUK 1. Nadere regels en technische vereisten, vermeld in artikel 6.4.1/1, artikel 6.4.1/1/1, artikel 6.4.1/5 en artikel 6.4.1/5/1 van het Energiebesluit van 19 november 2010
+## HOOFDSTUK 1. Nadere regels en technische vereisten, vermeld in artikel 6.4.1/1, artikel 6.4.1/1/1, artikel 6.4.1/1/4, artikel 6.4.1/5 en artikel 6.4.1/5/1 van het Energiebesluit van 19 november 2010
 
 ### ART 1.
 
@@ -212,9 +212,13 @@ c) het aanvraagformulier, het door de aannemer ingevulde en ondertekende attest,
 7) het Europees productlabel toegekend volgens de Gedelegeerde Verordening 812/2013 betreffende energie-etikettering van waterverwarmingstoestellen, warmwatertanks en pakketten van waterverwarmingstoestellen en zonne-energie-installaties;<br>
 8) een verklaring dat de geïnstalleerde warmtepompboiler of warmtepompboilers beschikken over een regeling om de warm watertemperatuur te verhogen bij een extern signaal om zo aan thermische opslag te doen.
 
+### ART 3/1.
+
+De ventilatievoorzieningen, vermeld in artikel 6.4.1/1/4, §2, vierde lid van het Energiebesluit van 19 november 2010, moeten voldoen aan de minimale ventilatievoorzieningen bepaald in deel IX.2 van bijlage 18/4 bij het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs en zoals blijkt uit het energieprestatiecertificaat residentiële gebouwen.
+
 ### ART 4.
 
-Het Vlaams Energie en Klimaatagentschap kan richtlijnen bepalen betreffende de invulling van de in dit besluit vervatte technische vereisten waaraan de werkzaamheden, producten en installaties, vermeld in artikel 6.4.1/1, artikel 6.4.1/1/1, artikel 6.4.1/5 en artikel 6.4.1/5/1 van het Energiebesluit van 19 november 2010, of de uitvoerders respectievelijk plaatsers van deze werkzaamheden, producten en installaties moeten voldoen om in aanmerking te komen voor de premies.
+Het Vlaams Energie en Klimaatagentschap kan richtlijnen bepalen betreffende de invulling van de in dit besluit vervatte technische vereisten waaraan de werkzaamheden, producten en installaties, vermeld in artikel 6.4.1/1, artikel 6.4.1/1/1,&nbsp;6.4.1/1/4, artikel 6.4.1/5 en artikel 6.4.1/5/1 van het Energiebesluit van 19 november 2010, of de uitvoerders respectievelijk plaatsers van deze werkzaamheden, producten en installaties moeten voldoen om in aanmerking te komen voor de premies.
 
 ## HOOFDSTUK 2. Slotbepalingen
 
