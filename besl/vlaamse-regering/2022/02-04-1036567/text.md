@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Aartselaar, Boechout, Borsbeek, Edegem, Hove, Kontich, Lint en Mortsel vormen het werkingsgebied Antwerpen-Zuidrand.
+De gemeenten Aartselaar, Boechout, Edegem, Hove, Kontich, Lint en Mortsel vormen het werkingsgebied Antwerpen-Zuidrand.
 
 ### ART 2.
 
