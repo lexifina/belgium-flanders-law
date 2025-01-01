@@ -74,7 +74,7 @@ De vergunde zorgaanbieder mag de organisatiegebonden personeelspunten, vermeld i
 2° in het kalenderjaar 2021: 60%;<br>
 3° vanaf het kalenderjaar 2022: 65%.<br>
 <br>
-Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
+Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 § 4. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk als cashbudget te gebruiken bij een vergunde zorgaanbieder, heeft de vergunde zorgaanbieder recht op een vergoeding voor organisatiegebonden kosten.<br>
 <br>
@@ -82,7 +82,7 @@ Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het bedrag van
 <br>
 De vergoeding voor organisatiegebonden kosten, vermeld in het tweede lid, bedraagt 16,18% van het bedrag, vermeld in het tweede lid.<br>
 <br>
-De vergoeding voor organisatiegebonden kosten die is bepaald conform het derde lid, 3°, wordt verhoogd met 3,9%.<br>
+De vergoeding voor organisatiegebonden kosten die is bepaald conform het derde lid wordt verhoogd met 3,9%.<br>
 <br>
 De vergunde zorgaanbieder mag de vergoeding, vermeld in het eerste lid, omzetten in personeelspunten tegen het bedrag per personeelspunt, vermeld in paragraaf 3, vijfde lid.<br>
 <br>
@@ -162,7 +162,7 @@ g) een overeenkomst over meer hoogdrempelige individuele bijstand met een bijsta
 h) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het verlenen van individuele ondersteuningsfuncties als vermeld in artikel 4, 1°, c);<br>
 i) een overeenkomst met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 j) een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning;<br>
-3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor hoogstens vijftien personen met een handicap, die al of niet beschikken over een budget. De ingezette budgetten kunnen in solidariteit aangewend om zorg en ondersteuning te organiseren voor alle personen met een handicap. Minimaal een derde van de leden van de organen van de rechtspersoon, vermeld in het wetboek van vennootschappen en verenigingen van 23 maart 2019 zijn mantelzorgers of familie tot de tweede graad van de personen met een handicap die worden ondersteund. De rechtspersoon registreert zich bij het agentschap op de wijze die wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor maximaal vijftien personen met een handicap per dag, die al of niet beschikken over een budget. De ingezette budgetten kunnen in solidariteit aangewend om zorg en ondersteuning te organiseren voor alle personen met een handicap. Minimaal een derde van de leden van de organen van de rechtspersoon, vermeld in het wetboek van vennootschappen en verenigingen van 23 maart 2019 zijn mantelzorgers of familie tot de tweede graad van de personen met een handicap die worden ondersteund. De rechtspersoon registreert zich bij het agentschap op de wijze die wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 4° een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning en die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap die deze ondersteuning vergoeden met een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap. De zorg en ondersteuning wordt geboden buiten de capaciteit waarvoor de organisatie of dienst is erkend of vergund;<br>
 5° een overeenkomst over zorg en ondersteuning met een rechtspersoon die die ondersteuning aanbiedt buiten het Belgische grondgebied en die aantoont dat hij conform de wetgeving van het land van vestiging ondersteuning kan bieden aan personen met een handicap.<br>
 <br>
@@ -407,7 +407,7 @@ De volgende kosten worden in het kader van de verantwoording van de besteding va
 14 ° de kosten die voortvloeien uit een overeenkomst voor het vervoer van de persoon met een handicap;<br>
 15° de kosten voor het verlenen van zorg en ondersteuning op basis van een overeenkomst die gesloten wordt met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 16° de kosten die voortvloeien uit een overeenkomst met een natuurlijke persoon of met een rechtspersoon over het verlenen individuele ondersteuningsfuncties;<br>
-17° de kosten voor zorg en ondersteuning die voortvloeien uit een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap en waarbij minimaal één derde van de leden van de organen van die rechtspersoon mantelzorgers of familie tot de tweede graad zijn van de personen met een handicap die worden ondersteund;<br>
+17° de kosten voor zorg en ondersteuning die voortvloeien uit een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor hoogstens vijftien personen met een handicap per dag en waarbij minimaal één derde van de leden van de organen van die rechtspersoon mantelzorgers of familie tot de tweede graad zijn van de personen met een handicap die worden ondersteund;<br>
 18° de gebruikersbijdrage voor zorg en ondersteuning die aangerekend wordt door een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin en die zorg en ondersteuning verleent op basis van een overeenkomst als vermeld in artikel 7, 2°, j.<br>
 &nbsp;
 
