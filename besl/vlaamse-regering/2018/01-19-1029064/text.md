@@ -23,10 +23,13 @@ In dit besluit wordt verstaan onder :<br>
 4° derde : een rechtspersoon die in het kader van dit besluit geen subsidies kan verkrijgen;<br>
 5° ESFRI-forum : European Strategy Forum for Research Infrastructures;<br>
 6° FWO : de privaatrechtelijke stichting van openbaar nut Fonds Wetenschappelijk Onderzoek- Vlaanderen, vermeld in artikel 15, § 1, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
-7° internationale onderzoeksinfrastructuur : onderzoeksinfrastructuur die opereert in een samenwerkingsverband tussen landen en regio's;<br>
+7° internationale onderzoeksinfrastructuur : onderzoeksinfrastructuur die opereert in een samenwerkingsverband tussen landen en regio's en die een rechtspersoon is of een rechtspersoon in wording is;<br>
 8° minister : de Vlaamse minister, bevoegd voor het wetenschapsbeleid;<br>
 9° onderzoeksinfrastructuur : de faciliteiten en bronnen die het verrichten van grensverleggend, strategisch basisonderzoek en innovatie bevorderen. Daaronder worden onder meer begrepen wetenschappelijke infrastructuur, collecties, natuurlijke habitats, corpora en databanken, met inbegrip van de digitale ontsluiting ervan. Ze kunnen gesitueerd zijn op één locatie, gedistribueerd of virtueel zijn;<br>
-10° raad van bestuur : de raad van bestuur van het FWO.
+10° raad van bestuur : de raad van bestuur van het FWO;<br>
+11° roadmapoproep: oproep voor aanvragen tot deelname aan internationale onderzoeksinfrastructuren waarvan het strategische belang voor het Vlaamse Gewest of de Vlaamse Gemeenschap kan worden aangetoond;&nbsp; &nbsp;&nbsp;<br>
+12° financieringsoproep: oproep voor de financiering of de herfinanciering van de deelname aan internationale onderzoeksinfrastructuren.<br>
+&nbsp;
 
 ## HOOFDSTUK 2. Deelname aan en/of subsidiëring van internationale onderzoeksinfrastructuren
 
@@ -67,11 +70,7 @@ In het eerste lid wordt verstaan onder :<br>
 2° strategisch onderzoekscentrum : een instelling als vermeld in artikel 29 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, of een instelling die erkend is op basis van het voormelde artikel;<br>
 3° universiteit : een universiteit als vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
 4° Vlaams museum met een onderzoeksopdracht : een collectiebeherende organisatie met onderzoeksopdracht : een museum, een culturele archiefinstelling of erfgoedbibliotheek zoals gedefinieerd in artikel 3 van het decreet van 24 februari 2017 houdende de ondersteuning van cultureelerfgoedwerking in Vlaanderen, die ook een opdracht verricht van fundamenteel onderzoek, experimenteel onderzoek of industriële ontwikkeling. Hiervoor moet verder voldaan zijn aan vier van volgende criteria : het onderzoeksluik moet opgenomen zijn in de statuten of de missie, een internationale faam/erkenning als onderzoeksinstelling kunnen aantonen in hun vakgebied, voldoende kritische onderzoeksmassa hebben, publiceren in wetenschappelijke tijdschriften, over een strategisch onderzoeksplan beschikken en externe onderzoeksmiddelen aantrekken;<br>
-5° Vlaamse wetenschappelijke instelling : een van de volgende instellingen :<br>
-a) het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Natuur- en Bosonderzoek, opgericht bij het besluit van de Vlaamse Regering van 23 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur en Bos;<br>
-b) het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Landbouw- en Visserijonderzoek, opgericht bij het besluit van de Vlaamse Regering van 9 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Landbouw- en Visserijonderzoek;<br>
-c) het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
-d) het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed, opgericht bij het besluit van de Vlaamse regering van 14 mei 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed;<br>
+5° Vlaamse wetenschappelijke instelling, afgekort VWI: een instelling als vermeld in artikel 56/1/4 van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
 6° VLIZ : de vereniging zonder winstoogmerk Vlaams Instituut voor de Zee, opgericht bij de notariële akte van 2 april 1999.<br>
 7° KMDA-CRC : het Centre for Research and Conservation van de vereniging zonder winstoogmerk Koninklijke Maatschappij voor Dierkunde van Antwerpen, opgericht bij onderhandse akte van 18 november 1946;<br>
 8° Plantentuin Meise : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap Plantentuin Meise", opgericht bij het decreet van 6 december 2013 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap Plantentuin Meise";<br>
@@ -92,7 +91,7 @@ De commissie Science kan worden aangevuld met experts als bijkomende expertise t
 <br>
 Een waarnemend vertegenwoordiger van het Departement EWI en van het FWO wonen de commissie Science bij.<br>
 <br>
-De leden van de commissie Science worden door de raad van bestuur benoemd voor een hernieuwbare termijn van zes jaar. De raad van bestuur wijst een voorzitter en een plaatsvervangende voorzitter aan.
+De leden van de commissie Science worden door de raad van bestuur benoemd voor een hernieuwbare termijn van zes jaar. De raad van bestuur wijst een voorzitter aan.
 
 ### ART 5.
 
@@ -107,79 +106,135 @@ De commissie Strategie bestaat uit maximaal tien leden, waaronder minimaal :<br>
 2° een vertegenwoordiger vanuit ParticipatieMaatschappij Vlaanderen;<br>
 3° een vertegenwoordiger vanuit het Departement EWI;<br>
 4° een lid van de commissie Science;<br>
+5° twee internationale experten.<br>
 <br>
 De commissie Strategie kan worden aangevuld met experts als bijkomende expertise tijdelijk is vereist.<br>
 <br>
 Een waarnemend vertegenwoordiger van het Departement EWI en van het FWO wonen de commissie Strategie bij.<br>
 <br>
-De leden van de commissie Strategie worden benoemd voor een hernieuwbare termijn van vijf jaar. De beleidsraad wijst een voorzitter en een plaatsvervangende voorzitter aan.<br>
+De leden van de commissie Strategie worden benoemd voor een hernieuwbare termijn van vijf jaar. De beleidsraad wijst een voorzitter aan.<br>
 <br>
-In afwijking van het zevende lid worden de leden van de eerste commissie Strategie benoemd voor twee jaar.
+Als naar aanleiding van de verkiezingen en de vorming van een nieuwe regering na afloop van de termijn van vijf jaar, vermeld in het zevende lid, nog geen nieuwe vertegenwoordiger van de minister aangewezen kan worden, wordt de benoeming van de leden van de commissie Strategie in afwijking van het zevende lid verlengd tot een nieuwe vertegenwoordiger aangewezen is.
 
 ### ART 6.
 
-De raad van bestuur bepaalt de nadere regels voor een gender neutrale samenstelling van de commissies.
+De commissies worden samengesteld overeenkomstig artikel 30 van het besluit van de Vlaamse regering van 10 november 2011 betreffende de subsidiëring door het Fonds voor Wetenschappelijk Onderzoek – Vlaanderen
 
 ## Onderafdeling 3. Selectieprocedure
 
 ### ART 7.
 
-Het FWO organiseert de oproepen voor deelname aan en/of subsidiëring van internationale infrastructuren en legt de interne procedures vast voor de aanvraag, behandeling, evaluatie, selectie en toekenning van steun. Het FWO maakt die interne procedures openbaar.
+Het FWO organiseert de oproepen voor deelname aan of subsidiëring van internationale infrastructuren en legt de interne procedures vast voor de aanvraag, behandeling, evaluatie, selectie en toekenning van steun. Het FWO maakt die interne procedures openbaar.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Er worden twee soorten oproepen georganiseerd, namelijk een roadmapoproep en een financieringsoproep. De oproepen worden georganiseerd volgens de procedures, vermeld in artikel 8.<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+Een aanvraag in het kader van een roadmapoproep is alleen ontvankelijk als de volgende voorwaarden vervuld zijn:<br>
+1° de internationale onderzoeksinfrastructuur waarvoor een aanvraag tot deelname wordt ingediend, maakte nog niet twee keer eerder het voorwerp uit van een onsuccesvolle aanvraag in een roadmapoproep;<br>
+2° de internationale onderzoeksinfrastructuur waarvoor een aanvraag tot deelname wordt ingediend, heeft de ontwerpfase al doorlopen;<br>
+3° er worden geen twee aanvragen tot deelname aan dezelfde internationale onderzoeksinfrastructuur ingediend en de aanvraag heeft geen betrekking op deelname aan internationale onderzoeksinfrastructuur waar een Vlaams consortium al aan deelneemt.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+In het vorige lid wordt verstaan onder ontwerpfase: de fase in de levenscyclus van een internationale onderzoeksinfrastructuur waarin het wetenschappelijke concept en de technische haalbaarheid van de onderzoeksinfrastructuur worden uitgewerkt, alsook de analyse van de potentiële gebruikersgemeenschap, zowel wetenschaps- als innovatiegericht, als een schets van een businesscase en de rechtvaardiging voor het internationale consortium. De ontwerpfase omvat ook een eerste analyse van de positie in het internationale onderzoeksinfrastuctuurlandschap, de e-infrastructuurvereisten en het datamanagement en -beleid.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Een aanvraag in het kader van een financieringsoproep is alleen ontvankelijk als de volgende voorwaarden vervuld zijn:<br>
+1° de aanvraag maakte al het voorwerp uit van een succesvolle aanvraag in het kader van een roadmapoproep of kreeg al financiering in het kader van dit besluit, tenzij op basis van artikel 8, §3, of artikel 8, §5, een uitdoofscenario is opgelegd;&nbsp;<br>
+2° er worden geen twee verschillende aanvragen tot financiering van de deelname aan dezelfde internationale onderzoeksinfrastructuur ingediend;<br>
+3° er wordt geen aanvraag tot financiering van de deelname aan een internationale onderzoeksinfrastructuur ingediend waar al een Vlaams consortium aan deelneemt.
 
 ### ART 8.
 
-§ 1. De aanvragen worden geselecteerd conform de chronologisch beschreven procedure, vermeld in paragraaf 2 en 3.<br>
+§1. De aanvragen worden per oproep als vermeld in artikel 7, geselecteerd conform de chronologisch beschreven procedure, vermeld in paragraaf 2 tot en met 5.<br>
 <br>
-§ 2. De commissie Science evalueert de wetenschappelijke kwaliteit van de aanvragen en catalogiseert met motivatie de aanvragen binnen de volgende vier categorieën :<br>
-1° categorie A : vanuit wetenschappelijk oogpunt bekeken de excellente projecten uit de ingediende lijst;<br>
-2° categorie B : vanuit wetenschappelijk oogpunt bekeken de zeer goede projecten inclusief de projecten die nog niet matuur zijn;<br>
-3° categorie C : de eerder gesubsidieerde projecten die vanuit wetenschappelijk oogpunt niet meer tot categorie A of B behoren en waarvoor een uitdoofscenario wordt voorgesteld;<br>
-4° categorie D : vanuit wetenschappelijk oogpunt bekeken de overige projecten.<br>
+§2. In geval van een roadmapoproep evalueert de commissie Science de wetenschappelijke kwaliteit van de aanvragen en categoriseert met motivatie de aanvragen binnen de volgende drie categorieën:<br>
+1° categorie A: aanvragen die vanuit wetenschappelijk oogpunt bekeken excellent zijn;<br>
+2° categorie B: aanvragen die vanuit wetenschappelijk oogpunt bekeken zeer goed zijn, inclusief de aanvragen die nog niet matuur zijn;<br>
+3° categorie C: aanvragen die vanuit wetenschappelijk oogpunt bekeken niet excellent of zeer goed zijn en niet in aanmerking komen voor ondersteuning en financiering via de financieringsoproep. &nbsp;<br>
 <br>
-De wetenschappelijke kwaliteit wordt bepaald aan de hand van de volgende selectiecriteria :<br>
-1° de wetenschappelijke kwaliteit van de onderzoeksprogramma's die uitgevoerd zullen worden met de onderzoeksinfrastructuur;<br>
-2° de wetenschappelijke kwaliteit van de gerealiseerde output van de Vlaamse aanvragers in relatie tot de state of the art in het onderzoeksdomein en in relatie tot de infrastructuur;<br>
-3° het belang van de internationale onderzoeksinfrastructuur voor het onderzoek binnen de wetenschappelijk discipline in kwestie;<br>
-4° het belang van de deelname of de investering in de internationale onderzoeksinfrastructuur om de positie van de Vlaamse onderzoekers binnen de wetenschappelijke discipline in kwestie te verstevigen;<br>
-5° de mate waarin het voorstel aansluit bij het strategisch onderzoeksbeleid van de instelling of instellingen in kwestie;<br>
-6° de mate waarin de onderzoeksinfrastructuur als logistiek knooppunt een grote reeks nieuwe projecten kan genereren op internationaal vlak ten opzichte van de Vlaamse deelnemers;<br>
-7° als de onderzoeksinfrastructuur moet worden geconstrueerd, de technische haalbaarheid van de onderzoeksinfrastructuur en de mate waarin al infrastructuur aanwezig is;<br>
-8° vanuit wetenschappelijk oogpunt bekeken, de kwaliteit van de aanpak van het Vlaamse project in relatie tot de gevraagde subsidie (de input-outputbalans);<br>
-9° de toegankelijkheid van de infrastructuur voor onderzoekers van buiten de onthaalinstellingen.<br>
+De wetenschappelijke kwaliteit wordt in het kader van een roadmapoproep bepaald aan de hand van de volgende selectiecriteria:<br>
+1° het belang van de internationale onderzoeksinfrastructuur voor het onderzoek binnen de wetenschappelijk discipline in kwestie in Vlaanderen en internationaal. Deze toetsing wordt uitgevoerd op basis van een SWOT-analyse;<br>
+2° het belang van de deelname aan of de investering in de internationale onderzoeksinfrastructuur om de positie van de Vlaamse onderzoekers binnen de wetenschappelijke discipline in kwestie te verstevigen. Deze toetsing wordt uitgevoerd op basis van een analyse van het onderzoekslandschap en de gebruikersbehoeften;<br>
+3° de wetenschappelijke kwaliteit van de onderzoeksprogramma’s die uitgevoerd zijn of zullen worden met de onderzoeksinfrastructuur;<br>
+4° de wetenschappelijke kwaliteit van de gerealiseerde output van de Vlaamse aanvragers in relatie tot de state of the art in het onderzoeksdomein en in relatie tot de infrastructuur;<br>
+5° de mate waarin het voorstel aansluit bij het strategische onderzoeksbeleid van de onthaalinstelling of de onthaalinstellingen in kwestie;<br>
+6° de mate waarin de onderzoeksinfrastructuur als samenwerkingsverband en als wetenschappelijk-logistiek knooppunt een grote reeks nieuwe onderzoeksprojecten kan genereren op internationaal vlak ten opzichte van de Vlaamse deelnemers;<br>
+7° als de onderzoeksinfrastructuur moet worden geconstrueerd of opgebouwd, de (technische) haalbaarheid van de onderzoeksinfrastructuur en de mate waarin al (virtuele) infrastructuur aanwezig is en hoe die wordt ingezet;<br>
+8° vanuit wetenschappelijk oogpunt bekeken, de kwaliteit van de aanpak van de Vlaamse aanvraag in relatie tot de gevraagde subsidie (de input-outputbalans);<br>
+9° de toegankelijkheid en het daadwerkelijke gebruik van de infrastructuur voor onderzoekers van binnen en buiten de onthaalinstellingen (open access en gebruikersstrategie);<br>
+10° de complementariteit en synergie met andere internationale onderzoeksinfrastructuren;<br>
+11° de mate van (co)financiering door de instellingen of andere financieringskanalen;<br>
+12° de maturiteit van de aanvraag ten opzichte van de positie in de levenscyclus van de onderzoeksinfrastructuur;<br>
+13° de mate waarin een databeleid en datamanagement worden uitgewerkt;<br>
+14° de mate waarin de aanvragers ingebed zijn in een internationaal samenwerkingsverband dat de internationale onderzoeksinfrastructuur vormgeeft.<br>
 <br>
-De commissie Science laat zich bij de beoordeling van de aanvragen bijstaan door peers die als autoriteit in de vakgebieden in kwestie zijn erkend, die niet in België werken en die niet betrokken zijn bij de desbetreffende internationale infrastructuur. De commissie Science motiveert haar evaluatie en verstrekt een inhoudelijk gemotiveerd advies over de financiering van elke aanvraag die wordt ingediend bij de commissie Strategie.<br>
+§3. In geval van de financieringsoproep evalueert de commissie Science de wetenschappelijke kwaliteit van de aanvragen en categoriseert met motivatie de aanvragen binnen de volgende drie categorieën:<br>
+1° categorie A: aanvragen die vanuit wetenschappelijk oogpunt bekeken excellent zijn;<br>
+2° categorie B: aanvragen die vanuit wetenschappelijk oogpunt bekeken zeer goed zijn, inclusief de aanvragen die nog niet matuur zijn ;<br>
+3° categorie C: de eerder gesubsidieerde aanvragen die vanuit wetenschappelijk oogpunt niet meer tot categorie A of B behoren en waarvoor een uitdoofscenario wordt uitgewerkt, rekening houdend met de internationale verplichtingen, of aanvragen die vanuit wetenschappelijk oogpunt bekeken nog niet excellent of zeer goed zijn en niet in aanmerking komen voor financiering.<br>
 <br>
-§ 3. De commissie Strategie analyseert de aanvragen die door de commissie Science in categorie A, B en C als vermeld in paragraaf 2, eerste lid, zijn ingedeeld. Voor de aanvragen die in de voormelde categorie A en B ingedeeld zijn, gaat de commissie Strategie na of de voorstellen realistisch, haalbaar en van strategisch belang zijn voor het Vlaamse gewest of de Vlaamse gemeenschap en formuleert een voorstel van rangschikking en financiering per aanvraag. Voor de aanvragen die geplaatst zijn in de voormelde categorie C, stelt ze, na de beslissing vermeld in artikel 9, 4°, een uitdoofscenario voor.<br>
+De wetenschappelijke kwaliteit wordt in het kader van de financieringsoproep bepaald aan de hand van de volgende selectiecriteria:<br>
+1° de realisaties die zijn bereikt op basis van de reeds ontvangen financiering;&nbsp;<br>
+2° de toekomstvisie van de aanvraag en de mate waarin er voldaan wordt aan de gedefinieerde kritieke prestatie-indicatoren van de voorgaande aanvragen;&nbsp;<br>
+3° de wetenschappelijke kwaliteit van de onderzoeksprogramma’s die uitgevoerd zijn of zullen worden met behulp van de beschreven onderzoeksinfrastructuur;<br>
+4° de wetenschappelijke kwaliteit van de gerealiseerde output van de Vlaamse aanvragers in relatie tot de state of the art in het onderzoeksdomein en in relatie tot de infrastructuur;<br>
+5° het belang van de internationale onderzoeksinfrastructuur voor het onderzoek binnen de wetenschappelijk discipline in kwestie in Vlaanderen en internationaal. Deze toetsing wordt uitgevoerd op basis van een SWOT-analyse;<br>
+6° het belang van de deelname aan of de investering in de internationale onderzoeksinfrastructuur om de positie van de Vlaamse onderzoekers binnen de wetenschappelijke discipline in kwestie te verstevigen, aan de hand van een analyse van het landschap en de gebruikersbehoeften;<br>
+7° de mate waarin het voorstel aansluit bij het strategische onderzoeksbeleid van de instelling of instellingen in kwestie;<br>
+8° de mate waarin de onderzoeksinfrastructuur als samenwerkingsverband en als wetenschappelijk knooppunt een grote reeks nieuwe onderzoeksprojecten kan genereren op internationaal vlak ten opzichte van de Vlaamse deelnemers;<br>
+9° als de onderzoeksinfrastructuur moet worden geconstrueerd of opgebouwd, de (technische) haalbaarheid van de onderzoeksinfrastructuur en de mate waarin al (virtuele) infrastructuur aanwezig is en hoe die wordt ingezet;<br>
+10° vanuit wetenschappelijk oogpunt bekeken, de kwaliteit van de aanpak van de Vlaamse aanvraag in relatie tot de gevraagde subsidie (de input-outputbalans);<br>
+11° de toegankelijkheid en het daadwerkelijke gebruik van de infrastructuur voor onderzoekers van buiten de onthaalinstellingen (open access en gebruikersstrategie);<br>
+12° de complementariteit en synergie met andere internationale onderzoeksinfrastructuren;<br>
+13° de mate van (co)financiering door de instellingen of andere financieringskanalen;<br>
+14° de daadwerkelijke rol in en impact op de internationale onderzoeksinfrastructuur van de Vlaamse onderzoeksgroepen;<br>
+15° de mate waarin een databeleid en datamanagement worden opgevolgd.<br>
 <br>
-De commissie Strategie hanteert de volgende criteria :<br>
-1° het strategische belang voor het Vlaamse gewest of de Vlaamse gemeenschap om deel te nemen of te investeren in de infrastructuur;<br>
-2° de kwaliteit van het vierjarige operationeel plan, waarbij onder meer de volgende elementen worden geëvalueerd :<br>
-a) de duidelijkheid en de aanpak;<br>
-b) het managementteam;<br>
-c) als dat van toepassing is, de kwaliteit van het investeringsplan waaronder de voorgenomen investering en hoe die wordt verkregen, de kwaliteit van de huisvesting van de infrastructuur;<br>
-d) de schatting van de financiële, personele en materiële kosten en hoe ze worden ingezet;<br>
-e) het gebruikersplan met de eventueel geschatte inkomsten;<br>
-f) het exploitatieplan inclusief een tijdstabel met doelstellingen en mijlpalen;<br>
-h) het financieringsplan met inbegrip van de cofinanciering;<br>
-i) de risicoanalyse en de levensduur;<br>
-j) het tijdpad;<br>
-3° de evaluatie van het ESFRI-forum of andere van de internationale infrastructuur als dat beschikbaar is.
+§4. De commissie Science laat zich bij de beoordeling van de aanvragen bijstaan door experts met autoriteit in de vakgebieden in kwestie, die niet in België werken en die niet betrokken zijn bij de desbetreffende internationale infrastructuur. De commissie Science motiveert haar evaluatie en verstrekt een inhoudelijk gemotiveerd advies over de financiering van elke aanvraag die wordt ingediend bij de commissie Strategie.&nbsp;<br>
+<br>
+§5. De commissie Strategie analyseert de aanvragen die door de commissie Science in categorie A en B &nbsp;als vermeld in paragraaf 2, eerste lid, en A, B en C als vermeld in paragraaf 3 eerste lid, zijn ingedeeld. Voor de aanvragen die in categorie A en B ingedeeld zijn, gaat de commissie Strategie na of de voorstellen realistisch, haalbaar en van strategisch belang zijn voor het Vlaamse Gewest of de Vlaamse Gemeenschap, en formuleert ze een voorstel van rangschikking voor de aanvragen ingediend voor de roadmapoproep en van ranking en financiering voor de aanvragen ingediend voor de financieringsoproep &nbsp;Voor de aanvragen die geplaatst zijn in categorie C, werkt ze, na de beslissing, vermeld in artikel 9, eerste lid, 4°, in voorkomend geval een uitdoofscenario uit, rekening houdend met de internationale verplichtingen.<br>
+&nbsp;<br>
+De commissie Strategie hanteert de volgende criteria in het kader van een roadmapoproep:<br>
+1° het belang voor en de bijdrage aan de ontwikkeling van het O&amp;O-landschap in het Vlaamse Gewest of de Vlaamse Gemeenschap en erbuiten en de mate waarin de deelname aansluit bij de Vlaamse O&amp;O-doelstellingen of andere prioriteiten;&nbsp;<br>
+2° de socio-economische voordelen en de impact op Vlaanderen dankzij de deelname door het Vlaamse Gewest of de Vlaamse Gemeenschap aan de internationale onderzoeksinfrastructuur;<br>
+3° de samenwerking met andere onderzoeksinfrastructuren in het Vlaamse Gewest of de Vlaamse Gemeenschap en de mate waarin er zowel op budgettair vlak als op het vlak van O&amp;O schaalvoordelen gerealiseerd kunnen worden aan de hand van die samenwerking;<br>
+4° de kwaliteit van het operationele plan, waarbij onder meer de volgende elementen worden geëvalueerd:<br>
+a) de visie en de strategie;<br>
+b) de organisatie en de managementstructuur van het consortium;<br>
+c) de budgetprognose met inbegrip van de cofinanciering en de mate waarin de infrastructuur zelfvoorzienend is of wordt ten opzichte van de te ontvangen financiering;<br>
+d) de schatting van de financiële, personele en materiële kosten en de wijze waarop ze worden ingezet;&nbsp;<br>
+e) het gebruikersplan met de eventueel geschatte inkomsten;&nbsp;<br>
+f)&nbsp; de tijdstabel met doelstellingen en mijlpalen;<br>
+g) de risicoanalyse en de levensduur;<br>
+5° de monitoring door het ESFRI-forum of andere analyses van de internationale infrastructuur als die beschikbaar zijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De commissie Strategie hanteert de volgende criteria bij de analyse van de aanvragen in het kader van een financieringsoproep:<br>
+1° het belang voor en de bijdrage aan de ontwikkeling van het O&amp;O-landschap in het Vlaamse Gewest of de Vlaamse Gemeenschap en erbuiten en de mate waarin de deelname aansluit bij de Vlaamse O&amp;O of andere prioriteiten;&nbsp;<br>
+2° de socio-economische voordelen en de impact op Vlaanderen dankzij de deelname door het Vlaamse Gewest of de Vlaamse Gemeenschap aan de internationale onderzoeksinfrastructuur;<br>
+3° de samenwerking met andere onderzoeksinfrastructuren in het Vlaamse Gewest of de Vlaamse Gemeenschap en de mate waarin er zowel op budgettair vlak als op het vlak van O&amp;O schaalvoordelen gerealiseerd kunnen worden aan de hand van die samenwerking;<br>
+4° de kwaliteit van het vierjarige strategische plan, waarbij onder meer de volgende elementen worden geëvalueerd:<br>
+a) de visie en de strategie;<br>
+b) de organisatie en de managementstructuur van het consortium;<br>
+c) de aanwezigheid van een internationale adviesraad voor het Vlaamse of Belgische consortium;<br>
+d) het financieringsplan met inbegrip van de cofinanciering en de mate waarin de infrastructuur zelfvoorzienend is of wordt ten opzichte van de te ontvangen financiering;<br>
+e) de schatting van de financiële, personele en materiële kosten en de wijze waarop ze worden ingezet;&nbsp;<br>
+f)&nbsp; het gebruikersplan met de eventueel geschatte inkomsten;&nbsp;<br>
+g) de tijdstabel met doelstellingen en mijlpalen;<br>
+h) de risicoanalyse en de levensduur;<br>
+5° de monitoring door het ESFRI-forum of andere analyses van de internationale infrastructuur als die beschikbaar zijn.
 
 ### ART 9.
 
 Op basis van het advies van de commissie Strategie beslist de raad van bestuur finaal :<br>
-1° aan welke projecten Vlaamse onderzoekers zullen deelnemen;<br>
+1° aan welke internationale onderzoeksinfrastructuren Vlaamse onderzoekers zullen deelnemen en voor welke periode;<br>
 2° of er vanuit Vlaanderen lidgelden zullen betaald worden, mocht de Federale Overheid hiervoor niet instaan, en in voorkomend geval het bedrag;<br>
 3° naast de beslissing tot deelname welke subsidies, vermeld in artikel 11 en 12, verleend worden;<br>
-4° voor welke projecten het uitdoofscenario zal worden uitgetekend, dat vervolgens eveneens voor beslissing aan de raad van bestuur zal worden voorgelegd;<br>
+4° voor welke deelnames aan internationale onderzoeksinfrastructuren het uitdoofscenario zal worden uitgetekend, dat vervolgens eveneens voor beslissing aan de raad van bestuur zal worden voorgelegd;<br>
 <br>
-Het advies van de commissie Strategie met de voordracht van de projecten, kan alleen worden bekrachtigd of afgewezen.<br>
+Het advies van de commissie Strategie met de voordracht van de deelnames aan internationale onderzoeksinfrastructuren, kan alleen worden bekrachtigd of afgewezen.<br>
 <br>
 Bij afwijzing worden de commissie Science en de commissie Strategie opnieuw bevraagd, met uitdrukkelijke opgave van de elementen die volgens de raad nader moeten worden onderzocht.
 
 ### ART 10.
 
-Het FWO maakt de beslissing, vermeld in artikel 9, bekend, sluit met de betrokkene een overeenkomst en volgt de projecten op.
+Het FWO maakt de beslissing, vermeld in artikel 9, bekend, sluit met de betrokkene een overeenkomst en volgt de&nbsp;deelnames aan internationale onderzoeksinfrastructuren op.
 
 ## Afdeling 3. Subsidiëring
 
@@ -189,10 +244,10 @@ Het FWO maakt de beslissing, vermeld in artikel 9, bekend, sluit met de betrokke
 
 De subsidiabele kosten omvatten zowel eenmalige als recurrente kosten die verbonden zijn aan de deelname aan en/of subsidiëring van internationale onderzoeksinfrastructuren.<br>
 <br>
-De subsidie wordt aangewend voor de financiering van de uitrustings-, personele, institutionele, operationele en logistieke kosten. Daaronder vallen de volgende kostencategorieën die niet noodzakelijk allemaal tegelijk dienen voor te komen in elke projectaanvraag :<br>
+De subsidie wordt aangewend voor de financiering van de uitrustings-, personele, institutionele, operationele en logistieke kosten. Daaronder vallen de volgende kostencategorieën die niet noodzakelijk allemaal tegelijk dienen voor te komen in elke aanvraag tot financiering van de deelname aan een internationale onderzoeksinfrastructuur:<br>
 1° uitrusting : de kosten voor onderzoeksinvesteringen, namelijk de kosten voor de aanschaf of de opbouw en de aansluiting van (onderdelen) van de onderzoeksinfrastructuur, substantiële upgrades, inclusief het niet-recupereerbare deel van de btw;<br>
-2° personeelskosten voor de ontwikkeling, de constructie of de opbouw van de onderzoeksinfrastructuur. Daaronder vallen ook de personeelskosten voor de upgrade van de onderzoeksinfrastructuur en de kosten voor het personeel voor de bediening of het onderhoud als de infrastructuur eenmaal operationeel is;<br>
-3° werkingskosten zoals onderhoudskosten gedurende de hele afschrijvingsperiode, namelijk de kosten die voortvloeien uit onderhoudsovereenkomsten of upgrades van de onderzoeksinfrastructuur en de herstellingskosten aan de uitrusting, de coördinatiekosten die voortvloeien uit het multilaterale karakter, de institutionele kosten zoals de bijdragen en de engagementen die zijn aangegaan binnen internationale samenwerkingsakkoorden en die de voorwaarde vormen om te kunnen deelnemen, en de logistieke kosten die noodzakelijk zijn om onderzoek te verrichten aan de internationale onderzoeksfaciliteit zoals de huisvesting van vorsers.<br>
+2° personeelskosten voor de ontwikkeling, de constructie of de opbouw van de onderzoeksinfrastructuur. Daaronder vallen ook de personeelskosten voor de upgrade van de onderzoeksinfrastructuur en de kosten voor het personeel voor de bediening of het onderhoud als de infrastructuur eenmaal operationeel is alsook de personeelskosten voor de engagementen die zijn aangegaan binnen internationale samenwerkingsakkoorden;<br>
+3° werkingskosten zoals onderhoudskosten gedurende de hele afschrijvingsperiode, namelijk de kosten die voortvloeien uit onderhoudsovereenkomsten of upgrades van de onderzoeksinfrastructuur, en de herstellingskosten van de uitrusting, de werkingskosten die voortvloeien uit de engagementen die zijn aangegaan binnen internationale samenwerkingsakkoorden, en de logistieke en trainingskosten die noodzakelijk zijn om onderzoek te verrichten aan en toegang te hebben tot &nbsp;de internationale onderzoeksfaciliteit.<br>
 <br>
 Bijkomende werkingskosten kunnen worden aangevraagd indien het Vlaamse consortium, of de leden ervan, ten dienste van de internationale infrastructuur in het internationale consortium een bijkomende taak op zich nemen die zichtbaar en aantoonbaar is.<br>
 <br>
@@ -207,9 +262,9 @@ De volgende kosten komen niet in aanmerking voor financiering :<br>
 
 De geselecteerde initiatieven ontvangen een subsidiëring van maximaal 80% van de subsidiabele kosten.<br>
 <br>
-De subsidiëring wordt verhoogd tot 90% als het investeringsinitiatief uitgaat van een of meer onderzoeksgroepen bij meer dan een aanvrager, en in het aanvraagdossier wordt aangetoond dat alle aanvragers ten minste de helft dragen van het bedrag dat zij zouden moeten betalen, mocht de resterende 10% van de subsidiabele kosten naar evenredigheid worden verdeeld zodat een daadwerkelijke inbreng en engagement wordt aangetoond.<br>
+De subsidiëring wordt verhoogd tot 90% als het investeringsinitiatief uitgaat van een of meer onderzoeksgroepen bij meer dan een aanvrager, en in het aanvraagdossier wordt aangetoond dat alle aanvragers de resterende 10% van de subsidiabele kosten naar evenredigheid verdelen zodat een daadwerkelijke inbreng en engagement worden aangetoond.<br>
 <br>
-In het operationeel plan wordt aangetoond welke kosten in-kind als bijdrage tegen een financieel waardeerbaar bedrag, via cofinanciering of via inkomsten, zullen worden gedekt. Het operationeel plan verschaft duidelijkheid over welke kosten jaarlijks verwacht kunnen worden en hoe die gefinancierd zullen worden, via eenmalige of recurrente kosten, gedurende de looptijd van het project.<br>
+In het operationeel plan wordt aangetoond welke kosten in-kind als bijdrage tegen een financieel waardeerbaar bedrag, via cofinanciering of via inkomsten, zullen worden gedekt. Het operationeel plan verschaft duidelijkheid over welke kosten jaarlijks verwacht kunnen worden en hoe die gefinancierd zullen worden, via eenmalige of recurrente kosten, gedurende de looptijd van het de deelname aan de internationale onderzoeksinfrastructuur.<br>
 <br>
 Als het aanvragende consortium via het operationeel plan kan aantonen dat, door de aard van de infrastructuur, geen cofinanciering mogelijk is en aan de voorwaarden, vermeld in het tweede lid, kan worden voldaan, kan het subsidiepercentage opgetrokken worden tot 100%, maar de participatie, gedragenheid en het engagement van de betrokken instanties moeten aangetoond worden.
 
@@ -251,9 +306,9 @@ Op basis van artikel 16, 4° van het decreet van 30 april 2009 betreffende de or
 
 ### ART 17.
 
-Als ze daarom verzocht worden door de minister, brengen de commissie Science en de commissie Strategie bij de minister advies uit over :<br>
-1° aanvragen voor het creëren van toegangsmogelijkheden tot nieuwe of bestaande onderzoeksinfrastructuren die niet in het Vlaamse Gewest of in de Vlaamse Gemeenschap zelf kunnen worden gebouwd door de kostprijs ervan of door de beperkte kritische massa van de onderzoeksgemeenschap;<br>
-2° de wenselijkheid van een rechtstreekse Vlaamse participatie, in het bijzonder door cofinanciering, in initiatieven voor de ontwikkeling van nieuwe onderzoeksinfrastructuur die redelijkerwijs alleen in een gemeenschaps- of gewestoverschrijdende context kan worden gefinancierd.<br>
+De commissie Science en de commissie Strategie brengen advies uit over:<br>
+1° aanvragen tot deelname aan of financiering van internationale onderzoeksinfrastructuren die vanwege de omvang van de financiering of vanwege het feit dat het Vlaamse Gewest of de Vlaamse Gemeenschap de zetel van de internationale onderzoeksinfrastructuur zal huisvesten, niet binnen de reguliere oproepen vallen, vermeld artikel 7;<br>
+2° aanvragen tot financiering van de deelname aan internationale onderzoeksinfrastructuren die vanwege de duidelijk bewezen hoogdringendheid van de financiering niet passen binnen de oproepkalender van de financieringsoproep.<br>
 <br>
 De aanvragen, vermeld in het eerste lid, worden met dezelfde selectiecriteria als vermeld in artikel 8, § 2, tweede lid, door de commissie Science en de commissie Strategie beoordeeld. De commissie Strategie bezorgt haar advies en aanbevelingen aan de minister.
 
