@@ -2,16 +2,16 @@
   "codex_id": 1039856,
   "title": "Besluit van de Vlaamse Regering van 2024-04-26 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de financiering harmonisering van de sociale huurprijsberekening, het stelsel van de bijzondere sociale leningen en de invoering van een intern auditcomité bij de woonmaatschappijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039856/VolledigDocument?datum=2024-07-25",
-  "source_sha256": "ceeb6a9db2c23b591d4f4accb0c3ae68556185002324fbf9efd48339f62416e0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039856/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "2d4ed604a1a1145f8260a0599b5e26a24c68187a2069a234a32a97acc51a464c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039856&param=informatie",
-  "as_of": "2024-07-25",
+  "as_of": "2025-01-01",
   "made": "2024-04-26",
   "gazette": "2024-07-15",
   "numac": 2024006414,
   "document_start": "2024-07-25",
   "document_end": null,
-  "in_force": "2024-07-25",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2024-07-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
