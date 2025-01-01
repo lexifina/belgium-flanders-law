@@ -30,11 +30,9 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 Voor de woonmaatschappij die erkend is voor het werkingsgebied Waasland-Oost, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1° gemeente Beveren: 40,97%;&nbsp;<br>
-2° gemeente Kruibeke: 14,42%;&nbsp;<br>
-3° gemeente Sint-Gillis-Waas: 13,79%;&nbsp;<br>
-4° gemeente Stekene: 12,82%;&nbsp;<br>
-5° gemeente Zwijndrecht: 18,00%.<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Beveren-Kruibeke-Zwijndrecht: 73,40%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Sint-Gillis-Waas: 13,79%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Stekene: 12,81%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
