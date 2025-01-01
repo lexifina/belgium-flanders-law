@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041066,
+  "title": "Ministerieel besluit van 2025-07-18 tot wijziging van het ministerieel besluit van 23 december 2020 tot bepaling van het model van de overeenkomst van alternerende opleiding en het model van de stageovereenkomst alternerende opleiding",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041066/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "696894e22820a8393e0e80062e79db5111e73effd771cd450dbe83c8c564f13d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041066&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-07-18",
+  "gazette": "2025-08-01",
+  "numac": 2025005708,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
