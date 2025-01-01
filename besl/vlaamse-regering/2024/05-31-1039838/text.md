@@ -237,7 +237,7 @@ Tot de datum, vermeld in artikel 22, derde lid, gebeurt de registratie, vermeld 
 
 Dit besluit treedt in werking tien dagen na publicatie in het Belgisch Staatsblad.<br>
 <br>
-In afwijking van het eerste lid, treden artikel 8 en 9 in werking op 1 januari 2025.&nbsp;<br>
+In afwijking van het eerste lid, treden artikel 8 en 9 in werking op 1 juli 2025.&nbsp;<br>
 <br>
 In afwijking van het eerste lid, treedt artikel 4, §4, in werking op een door de minister te bepalen datum.<br>
 &nbsp;
