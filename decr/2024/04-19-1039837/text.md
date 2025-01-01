@@ -582,6 +582,10 @@ Centra voor volwassenenonderwijs die de onderwijsbevoegdheid, vermeld in het eer
 <br>
 Centra voor volwassenenonderwijs die de onderwijsbevoegdheid, vermeld in artikel 17, 2°, van het decreet van 4 februari 2022 tot het nemen van dringende maatregelen in het onderwijs naar aanleiding van de coronacrisis (IX), tijdens een van de schooljaren 2022-2023 of 2023-2024 hebben uitgeoefend, kunnen deze onderwijsbevoegdheid verder uitoefenen tot en met schooljaar 2024-2025.”.
 
+### ART 67.
+
+...
+
 ## Hoofdstuk 8. Wijzigingen van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra
 
 ### ART 68.
@@ -1815,3 +1819,382 @@ Artikel 8, 36, 37, 57, 59, 81, 82, 159 tot en met 162, 174, 193, 206 en 207 hebb
 Artikel 67 treedt in werking op 1 januari 2025.<br>
 <br>
 Artikel 127 treedt in werking op 1 september 2025.
+
+### BIJLAGE 1
+
+Vervanging van bijlage IV bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs&nbsp;<br>
+<br>
+Bijlage IV. De werkingsgebieden van de centra voor basiseducatie en de centra voor volwassenenonderwijs<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:271px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:15px; width:271px">REGIO I&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Antwerpen&nbsp;<br>
+			Brasschaat&nbsp;<br>
+			Essen&nbsp;<br>
+			Kalmthout&nbsp;<br>
+			Kapellen&nbsp;<br>
+			Mortsel&nbsp;<br>
+			Schoten&nbsp;<br>
+			Stabroek&nbsp;<br>
+			Wijnegem&nbsp;<br>
+			Wommelgem&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO II&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Arendonk&nbsp;<br>
+			Baarle-Hertog&nbsp;<br>
+			Balen&nbsp;<br>
+			Beerse&nbsp;<br>
+			Brecht&nbsp;<br>
+			Dessel&nbsp;<br>
+			Geel&nbsp;<br>
+			Grobbendonk&nbsp;<br>
+			Herentals&nbsp;<br>
+			Herenthout&nbsp;<br>
+			Herselt&nbsp;<br>
+			Hoogstraten&nbsp;<br>
+			Hulshout&nbsp;<br>
+			Kasterlee&nbsp;<br>
+			Laakdal&nbsp;<br>
+			Lille&nbsp;<br>
+			Malle&nbsp;<br>
+			Meerhout&nbsp;<br>
+			Merksplas&nbsp;<br>
+			Mol&nbsp;<br>
+			Olen&nbsp;<br>
+			Oud-Turnhout&nbsp;<br>
+			Ravels&nbsp;<br>
+			Retie&nbsp;<br>
+			Rijkevorsel&nbsp;<br>
+			Schilde&nbsp;<br>
+			Turnhout&nbsp;<br>
+			Vorselaar&nbsp;<br>
+			Vosselaar&nbsp;<br>
+			Westerlo&nbsp;<br>
+			Wuustwezel&nbsp;<br>
+			Zoersel&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO III&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Aartselaar&nbsp;<br>
+			Berlaar&nbsp;<br>
+			Boechout&nbsp;<br>
+			Bonheiden&nbsp;<br>
+			Boom&nbsp;<br>
+			Bornem&nbsp;<br>
+			Duffel&nbsp;<br>
+			Edegem&nbsp;<br>
+			Heist-op-den-Berg&nbsp;<br>
+			Hemiksem&nbsp;<br>
+			Hove&nbsp;<br>
+			Kontich&nbsp;<br>
+			Lier&nbsp;<br>
+			Lint&nbsp;<br>
+			Mechelen&nbsp;<br>
+			Niel&nbsp;<br>
+			Nijlen&nbsp;<br>
+			Putte&nbsp;<br>
+			Puurs-Sint-Amands&nbsp;<br>
+			Ranst&nbsp;<br>
+			Rumst&nbsp;<br>
+			Schelle&nbsp;<br>
+			Sint-Katelijne-Waver&nbsp;<br>
+			Willebroek&nbsp;<br>
+			Zandhoven&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO IV&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Aarschot&nbsp;<br>
+			Begijnendijk&nbsp;<br>
+			Bekkevoort&nbsp;<br>
+			Bertem&nbsp;<br>
+			Bierbeek&nbsp;<br>
+			Boortmeerbeek&nbsp;<br>
+			Boutersem&nbsp;<br>
+			Diest&nbsp;<br>
+			Geetbets&nbsp;<br>
+			Glabbeek&nbsp;<br>
+			Haacht&nbsp;<br>
+			Herent&nbsp;<br>
+			Hoegaarden&nbsp;<br>
+			Holsbeek&nbsp;<br>
+			Huldenberg&nbsp;<br>
+			Keerbergen&nbsp;<br>
+			Kortenaken&nbsp;<br>
+			Kortenberg&nbsp;<br>
+			Landen&nbsp;<br>
+			Leuven&nbsp;<br>
+			Linter&nbsp;<br>
+			Lubbeek&nbsp;<br>
+			Oud-Heverlee&nbsp;<br>
+			Rotselaar&nbsp;<br>
+			Scherpenheuvel-Zichem&nbsp;<br>
+			Tervuren&nbsp;<br>
+			Tielt-Winge&nbsp;<br>
+			Tienen&nbsp;<br>
+			Tremelo&nbsp;<br>
+			Zoutleeuw&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO V&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Affligem&nbsp;<br>
+			Asse&nbsp;<br>
+			Beersel&nbsp;<br>
+			Bever&nbsp;<br>
+			Dilbeek&nbsp;<br>
+			Drogenbos&nbsp;<br>
+			Grimbergen&nbsp;<br>
+			Halle&nbsp;<br>
+			Hoeilaart&nbsp;<br>
+			Kampenhout&nbsp;<br>
+			Kapelle-op-den-Bos&nbsp;<br>
+			Kraainem&nbsp;<br>
+			Lennik&nbsp;<br>
+			Liedekerke&nbsp;<br>
+			Linkebeek&nbsp;<br>
+			Londerzeel&nbsp;<br>
+			Machelen&nbsp;<br>
+			Meise&nbsp;<br>
+			Merchtem&nbsp;<br>
+			Opwijk&nbsp;<br>
+			Overijse<br>
+			Pajottegem&nbsp;<br>
+			Pepingen&nbsp;<br>
+			Roosdaal&nbsp;<br>
+			Sint-Pieters-Leeuw&nbsp;<br>
+			Steenokkerzeel&nbsp;<br>
+			Ternat&nbsp;<br>
+			Vilvoorde&nbsp;<br>
+			Wemmel&nbsp;<br>
+			Wezembeek-Oppem&nbsp;<br>
+			Zaventem&nbsp;<br>
+			Zemst&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO VI&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Anderlecht&nbsp;<br>
+			Brussel&nbsp;<br>
+			Elsene&nbsp;<br>
+			Etterbeek&nbsp;<br>
+			Evere&nbsp;<br>
+			Ganshoren&nbsp;<br>
+			Jette&nbsp;<br>
+			Koekelberg&nbsp;<br>
+			Oudergem&nbsp;<br>
+			Schaarbeek&nbsp;<br>
+			Sint-Agatha-Berchem&nbsp;<br>
+			Sint-Gillis&nbsp;<br>
+			Sint-Jans-Molenbeek&nbsp;<br>
+			Sint-Joost-ten-Node&nbsp;<br>
+			Sint-Lambrechts-Woluwe&nbsp;<br>
+			Sint-Pieters-Woluwe&nbsp;<br>
+			Ukkel&nbsp;<br>
+			Vorst&nbsp;<br>
+			Watermaal-Bosvoorde&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO VII&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">As&nbsp;<br>
+			Beringen&nbsp;<br>
+			Bocholt&nbsp;<br>
+			Bree&nbsp;<br>
+			Dilsen-Stokkem&nbsp;<br>
+			Genk&nbsp;<br>
+			Hamont-Achel&nbsp;<br>
+			Hechtel-Eksel&nbsp;<br>
+			Heusden-Zolder&nbsp;<br>
+			Houthalen-Helchteren&nbsp;<br>
+			Kinrooi&nbsp;<br>
+			Leopoldsburg&nbsp;<br>
+			Lommel&nbsp;<br>
+			Lummen&nbsp;<br>
+			Maaseik&nbsp;<br>
+			Maasmechelen&nbsp;<br>
+			Oudsbergen&nbsp;<br>
+			Peer&nbsp;<br>
+			Pelt&nbsp;&nbsp;<br>
+			Tessenderlo-Ham<br>
+			Zutendaal&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO VIII&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Alken&nbsp;<br>
+			Bilzen-Hoeselt<br>
+			Diepenbeek&nbsp;<br>
+			Gingelom&nbsp;<br>
+			Halen&nbsp;<br>
+			Hasselt&nbsp;<br>
+			Heers&nbsp;<br>
+			Herk-de-Stad&nbsp;<br>
+			Herstappe&nbsp;<br>
+			Lanaken&nbsp;<br>
+			Nieuwerkerken&nbsp;<br>
+			Riemst&nbsp;<br>
+			Sint-Truiden&nbsp;<br>
+			Tongeren-Borgloon&nbsp;<br>
+			Voeren&nbsp;<br>
+			Wellen&nbsp;<br>
+			Zonhoven&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO IX&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Berlare&nbsp;<br>
+			Beveren-Kruibeke-Zwijndrecht<br>
+			Buggenhout&nbsp;<br>
+			Dendermonde&nbsp;<br>
+			Hamme&nbsp;<br>
+			Laarne&nbsp;<br>
+			Lebbeke&nbsp;<br>
+			Lokeren&nbsp;<br>
+			Sint-Gillis-Waas&nbsp;<br>
+			Sint-Niklaas&nbsp;<br>
+			Stekene&nbsp;<br>
+			Temse&nbsp;<br>
+			Waasmunster&nbsp;<br>
+			Wetteren&nbsp;<br>
+			Wichelen&nbsp;<br>
+			Zele&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO X&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Aalst&nbsp;<br>
+			Brakel&nbsp;<br>
+			Denderleeuw&nbsp;<br>
+			Erpe-Mere&nbsp;<br>
+			Geraardsbergen&nbsp;<br>
+			Haaltert&nbsp;<br>
+			Herzele&nbsp;<br>
+			Horebeke&nbsp;<br>
+			Kluisbergen&nbsp;<br>
+			Kruisem&nbsp;<br>
+			Lede&nbsp;<br>
+			Lierde&nbsp;<br>
+			Maarkedal&nbsp;<br>
+			Ninove&nbsp;<br>
+			Oudenaarde&nbsp;<br>
+			Ronse&nbsp;<br>
+			Sint-Lievens-Houtem&nbsp;<br>
+			Wortegem-Petegem&nbsp;<br>
+			Zottegem&nbsp;<br>
+			Zwalm&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO XI&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Aalter&nbsp;<br>
+			Assenede&nbsp;<br>
+			Deinze&nbsp;<br>
+			Destelbergen&nbsp;<br>
+			Eeklo&nbsp;<br>
+			Evergem&nbsp;<br>
+			Gavere&nbsp;<br>
+			Gent&nbsp;<br>
+			Kaprijke&nbsp;<br>
+			Lievegem&nbsp;<br>
+			Lochristi&nbsp;<br>
+			Maldegem&nbsp;<br>
+			Merelbeke-Melle<br>
+			Nazareth-De Pinte&nbsp;<br>
+			Oosterzele&nbsp;<br>
+			Sint-Laureins&nbsp;<br>
+			Sint-Martens-Latem&nbsp;<br>
+			Zelzate&nbsp;<br>
+			Zulte&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO XII&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Anzegem&nbsp;<br>
+			Ardooie&nbsp;<br>
+			Avelgem&nbsp;<br>
+			Deerlijk&nbsp;<br>
+			Dentergem&nbsp;<br>
+			Harelbeke&nbsp;<br>
+			Hooglede&nbsp;<br>
+			Ingelmunster&nbsp;<br>
+			Izegem&nbsp;<br>
+			Kortrijk&nbsp;<br>
+			Kuurne&nbsp;<br>
+			Ledegem&nbsp;<br>
+			Lendelede&nbsp;<br>
+			Lichtervelde&nbsp;<br>
+			Menen&nbsp;<br>
+			Moorslede&nbsp;<br>
+			Oostrozebeke&nbsp;<br>
+			Pittem&nbsp;<br>
+			Roeselare&nbsp;<br>
+			Spiere-Helkijn&nbsp;<br>
+			Staden&nbsp;<br>
+			Tielt&nbsp;<br>
+			Waregem&nbsp;<br>
+			Wevelgem&nbsp;<br>
+			Wielsbeke&nbsp;<br>
+			Wingene&nbsp;<br>
+			Zwevegem&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">REGIO XIII&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:15px; width:271px">Alveringem&nbsp;<br>
+			Beernem&nbsp;<br>
+			Blankenberge&nbsp;<br>
+			Bredene&nbsp;<br>
+			Brugge&nbsp;<br>
+			Damme&nbsp;<br>
+			De Panne&nbsp;<br>
+			De Haan&nbsp;<br>
+			Diksmuide&nbsp;<br>
+			Gistel&nbsp;<br>
+			Heuvelland&nbsp;<br>
+			Houthulst&nbsp;<br>
+			Ichtegem&nbsp;<br>
+			Ieper&nbsp;<br>
+			Jabbeke&nbsp;<br>
+			Knokke-Heist&nbsp;<br>
+			Koekelare&nbsp;<br>
+			Koksijde&nbsp;<br>
+			Kortemark&nbsp;<br>
+			Langemark-Poelkapelle&nbsp;<br>
+			Lo-Reninge&nbsp;<br>
+			Mesen&nbsp;<br>
+			Middelkerke&nbsp;<br>
+			Nieuwpoort&nbsp;<br>
+			Oostende&nbsp;<br>
+			Oostkamp&nbsp;<br>
+			Oudenburg&nbsp;<br>
+			Poperinge&nbsp;<br>
+			Torhout&nbsp;<br>
+			Veurne&nbsp;<br>
+			Vleteren&nbsp;<br>
+			Wervik&nbsp;<br>
+			Zedelgem&nbsp;<br>
+			Zonnebeke&nbsp;<br>
+			Zuienkerke&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
