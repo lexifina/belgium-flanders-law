@@ -266,7 +266,7 @@ a)&nbsp;&nbsp; &nbsp;de noodkoper is:<br>
 1)&nbsp;&nbsp; &nbsp;hetzij alleen of samen met andere noodkopers voor de geheelheid volle eigenaar van een noodkoopwoning;<br>
 2)&nbsp;&nbsp; &nbsp;hetzij voor 100 procent de vruchtgebruiker van de noodkoopwoning en minstens ook gedeeltelijk de naakte eigenaar van die noodkoopwoning;<br>
 b)&nbsp;&nbsp; &nbsp;de noodkoper gebruikt de noodkoopwoning als hoofdverblijfplaats zoals blijkt uit de inschrijvingen in het bevolkingsregister;<br>
-92°/4 ombudsdienst voor energie : de ombudsdienst, vermeld in artikel 27 van de federale Elektriciteitswet;<br>
+92°/4 ...;<br>
 92° /5 onafhankelijke dienstverlener van flexibiliteit: een dienstverlener van flexibiliteit die niet is aangesloten bij de leverancier van de afnemer of die een afzonderlijke evenwichtsverantwoordelijke heeft die geen evenwichtsverantwoordelijke van de afnemer is;<br>
 93° ondernemingen : elke natuurlijke persoon die een zelfstandig beroep uitoefent, de vennootschappen met rechtspersoonlijkheid, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
 93° /1 onderneming in moeilijkheden: een onderneming die zich in één van de volgende situaties bevindt:<br>
@@ -297,7 +297,7 @@ b)&nbsp;&nbsp; &nbsp;de entiteiten die zowel rechtstreeks door de publieke organ
 100/1° primaire energie: energie uit hernieuwbare en niet-hernieuwbare bronnen die geen omzetting of transformatie heeft ondergaan;<br>
 101° primair energieverbruik : de totale hoeveelheid energie die Vlaanderen nodig heeft om aan de energiebehoefte te voldoen;<br>
 101/1° ...<br>
-101°/2 privédistributienet : een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de VREG aangewezen distributienetbeheerder noch door de beheerder van het plaatselijk vervoersnet, en dat geen gesloten distributienet, directe lijn of directe leiding is;<br>
+101°/2 privédistributienet : een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de Vlaamse Nutsregulator aangewezen distributienetbeheerder noch door de beheerder van het plaatselijk vervoersnet, en dat geen gesloten distributienet, directe lijn of directe leiding is;<br>
 102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint, met uitsluiting van prosumenten;<br>
 103° promotor-bouwheer : een natuurlijke persoon of rechtspersoon die als geregelde werkzaamheid heeft om gebouwen op te richten, te laten oprichten of te verbouwen om ze onder bezwarende titel te vervreemden;<br>
 104° prosument: elektriciteitsdistributienetgebruiker met toegangspunt voor afname, al dan niet rechtstreeks op een transformator aangesloten, en met een decentrale productie-eenheid met een maximaal AC-vermogen kleiner dan of gelijk aan 10 kVA die hem in staat stelt elektriciteit te injecteren op het elektriciteitsdistributienet;<br>
@@ -385,13 +385,15 @@ c) er zijn minstens 36 maanden verstreken sinds de vorige aanvraag voor de toeke
 130° ...;<br>
 131° Vlaamse Belastingdienst: het agentschap dat opgericht werd door het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst;<br>
 131°/0 Vlaamse overheid: de entiteiten die vallen onder het toepassingsgebied van artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018;<br>
+131°/0 Vlaamse Nutsregulator: de autonome dienst met rechtspersoonlijkheid, vermeld in het decreet van […] over de operationalisering van een Vlaamse Nutsregulator;<br>
+131°/0/1 Vlaamse Ombudsdienst: ombudsdienst, opgericht door het decreet van 7 juli 1998 houdende instelling van de Vlaamse Ombudsdienst;<br>
 131°/1 vloeibare biomassa : vloeibare brandstof voor energiedoeleinden andere dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;<br>
 131/2° vollasturen :<br>
 a) voor groenestroomproductie is dit de netto groenestroomproductie over een bepaalde periode die in aanmerking komt voor groenestroomcertificaten, gedeeld door het nominaal vermogen uit hernieuwbare energiebronnen, rekening houdend met de groenfactor;<br>
-b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een bepaalde periode die in aanmerking komt voor warmte-krachtcertificaten, gedeeld door het theoretisch vermogen aan warmte-krachtbesparing, dat berekend wordt op basis van de constructeursgegevens zoals die gebruikt werden voor het berekenen van de RPE die werd vastgelegd in de beslissing van de VREG;<br>
+b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een bepaalde periode die in aanmerking komt voor warmte-krachtcertificaten, gedeeld door het theoretisch vermogen aan warmte-krachtbesparing, dat berekend wordt op basis van de constructeursgegevens zoals die gebruikt werden voor het berekenen van de RPE die werd vastgelegd in de beslissing van de Vlaamse Nutsregulator;<br>
 131° /3 volledig geïntegreerde netwerkcomponenten: netwerkcomponenten die in het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, met inbegrip van elektriciteitsopslagfaciliteiten, geïntegreerd zijn en die uitsluitend gebruikt worden om een veilig en betrouwbaar beheer van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit te waarborgen, en niet voor balancerings- of congestiebeheer;<br>
 131° /4 vraagrespons: een vorm van flexibiliteit, namelijk de wijziging van het profiel van verbruik of de afname van elektriciteit door afnemers ten opzichte van hun normale of bestaande verbruikspatronen, in reactie op de externe signalen of lokaal gemeten netgerelateerde grootheden, of in reactie op de aanvaarding van het bod van de eindafnemer, individueel of via aggregatie, enerzijds om vraagvermindering of -verhoging voor een bepaalde prijs te verkopen op een elektriciteitsmarkt, de markt voor lokale congestie of op de georganiseerde markt, vermeld in artikel 2.4 van uitvoeringsverordening (EU) nr. 1348/2014 van de Commissie van 17 december 2014 inzake de informatieverstrekking overeenkomstig artikel 8, leden 2 en 6, van verordening (EU) nr. 1227/2011 van het Europees Parlement en de Raad betreffende de integriteit en transparantie van de groothandelsmarkt voor energie, of anderzijds om een dienst in het energiesysteem te verlenen;<br>
-132° VREG : autonome dienst met rechtspersoonlijkheid, die overeenkomstig artikel 3.1.1 wordt opgericht;<br>
+132° ...;<br>
 133° wanbetaling : de niet-betaling of onvolledige betaling van minstens één elektriciteits- of aardgasfactuur;<br>
 133° /1 warmte- of koudeleverancier: elke natuurlijke persoon of rechtspersoon die thermische energie verkoopt via een warmte- of koudenet aan afnemers van thermische energie of aan tussenpersonen bij de levering van thermische energie;<br>
 133° /2 warmte- of koudenet: geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen die noodzakelijk zijn voor stadsverwarming of -koeling, met uitsluiting van netwerken op een industriële site;<br>
@@ -437,145 +439,33 @@ De Vlaamse Regering rapporteert jaarlijks over de maatregelen die in het kader v
 
 ### ART. 3.1.1.
 
-§ 1. Er wordt een autonome dienst met rechtspersoonlijkheid opgericht. Deze dienst draagt als naam Vlaamse Regulator van de Elektriciteits- en Gasmarkt, hierna VREG te noemen.<br>
-<br>
-Alle officiële akten, officiële aankondigingen of andere officiële stukken die van de VREG uitgaan, vermelden de benaming van de dienst, met onmiddellijk daarvoor of daarna, leesbaar en voluit geschreven, de woorden `autonome dienst met rechtspersoonlijkheid'.<br>
-<br>
-§ 2. De VREG staat onder toezicht van het Vlaams Parlement.<br>
-<br>
-§ 3. Het Vlaams Parlement kan de vestigingsplaats van de zetel van de VREG bepalen.<br>
-<br>
-§ 4. De VREG fungeert voor het Vlaamse Gewest en voor de gewestelijke bevoegdheden inzake elektriciteit en aardgas als de regulerende instantie, vermeld in artikel 57, tweede lid, van de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van richtlijn 2012/27/EU en artikel 39, tweede lid, van de richtlijn 2009/73/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van richtlijn 2003/55/EG.<br>
-<br>
-Bij de uitoefening van zijn taken en bevoegdheden als regulator vraagt of ontvangt de VREG, noch zijn bestuurders, noch zijn personeelsleden, instructies van de Vlaamse Regering, van het Vlaams Parlement of van een andere publieke of particuliere entiteit.<br>
-<br>
-De VREG oefent zijn taken en bevoegdheden op onpartijdige en transparante wijze uit.
+...
 
 ## Afdeling II. Missie, Taken en Bevoegdheden
 
 ### ART. 3.1.2.
 
-De VREG heeft als missie de regulering van, de controle op en de bevordering van de transparantie van de elektriciteits- en gasmarkt, de levering van warmte en koude en de uitbating van warmte- of koudenetten &nbsp;in het Vlaamse Gewest.
+...
 
 ### ART. 3.1.3.
 
-Om&nbsp;zijn missie waar te maken, vervult de VREG de volgende taken :<br>
-1° toezichthoudende en controlerende taken :<br>
-a) het toezicht en de controle op de naleving van de bepalingen van titels IV,&nbsp;VI en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
-b) het toezicht en de controle op de naleving van de technische reglementen;<br>
-c) het toezicht houden op de doeltreffendheid van de vrijmaking van de elektriciteits- en gasmarkt in het Vlaamse Gewest, inclusief de opvolging van de overstap- en afsluitingspercentages en de elektriciteits- en gasprijzen van huishoudelijke afnemers, de impact van contracten op basis van een dynamische elektriciteitsprijs, het gebruik van digitale meters, het verband tussen huishoudelijke en groothandelsprijzen, en ook het toezicht houden op vervalsing of beperking van de mededinging, onder andere door toepasselijke informatie te verstrekken en relevante gevallen aan de bevoegde mededingingsautoriteit voor te leggen;<br>
-d) het toezicht houden op de kwaliteit van de dienstverlening van de elektriciteits- en aardgasleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers;<br>
-e) het toezicht houden op de zekerheid en betrouwbaarheid van de distributie netten en het plaatselijk vervoersnet van elektriciteit, alsook de kwaliteit van de dienstverlening van de netbeheerders,&nbsp;en de klachten van de huishoudelijke afnemers hierover onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de kosten en de tijd die gepaard gaan met aansluitingen en herstellingen uit te voeren;<br>
-f) het toezicht houden op de uitvoering van regels betreffende de taken en verantwoordelijkheden van de distributienetbeheerders, leveranciers, afnemers en andere marktpartijen die actief zijn in het Vlaamse Gewest;<br>
-g) het toezicht houden op de vrije toegang voor de afnemer tot zijn verbruiksgegevens en het verstrekken op het niveau van het Vlaamse Gewest, voor facultatief gebruik, van een gemakkelijk te begrijpen geharmoniseerd formaat van de verbruiksgegevens en andere gegevens van de afnemer over de aansluiting en toegang tot het distributienet en het plaatselijk vervoernet van elektriciteit en de onmiddellijke toegang van de afnemer tot die gegevens;<br>
-h) het toezicht en de controle op de naleving van de bepalingen van titel IV/1 van dit decreet, alsook van de bijbehorende uitvoeringsbepalingen;<br>
-i) het toezicht en de controle op de naleving van een eventueel technisch reglement voor warmte- of koudenetten;<br>
-j) het toezicht op de kwaliteit van de dienstverlening van de warmte- of koudeleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers van thermische energie;<br>
-k) het toezicht op de zekerheid en betrouwbaarheid van de warmte- of koudenetten, alsook op de kwaliteit van de dienstverlening van de warmte- of koudenetbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de warmte- of koudenetbeheerders nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
-l) het toezicht op de uitvoering van regels voor de taken en verantwoordelijkheden van de koude- of warmtenetbeheerders, de warmte- of koudeleveranciers, de tussenpersonen bij de levering van thermische energie, de afnemers van thermische energie, de eindgebruikers van thermische energie en andere marktpartijen inzake stadsverwarming of -koeling, die actief zijn in het Vlaamse Gewest;<br>
-m) het toezicht op de vrije toegang voor de warmte- of koudeafnemer tot zijn verbruiksgegevens;<br>
-n) ervoor zorgen dat de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit, de elektriciteitsbedrijven en andere marktdeelnemers die actief zijn in het Vlaamse Gewest, de volgende elementen naleven:<br>
-1) hun verplichtingen conform titel IV van dit decreet, verordening (EU) 2019/943 en de netcodes en richtsnoeren die conform artikel 59, 60 en 61 van de voormelde verordening (EU) 2019/943 zijn vastgesteld;<br>
-2) ander toepasselijk recht van de Europese Unie dan de bepalingen, vermeld in punt 1), waaronder rechtsbepalingen over grensoverschrijdende kwesties;<br>
-3) de besluiten van ACER;<br>
-o) goedkeuren van producten en aanbestedingsprocedures voor niet-frequentiegerelateerde ondersteunende diensten van de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
-p) doen naleven en uitvoeren van de netcodes en richtsnoeren die conform artikel 59, 60 en 61 van de voormelde verordening (EU) 2019/943 zijn vastgesteld en die van toepassing zijn op de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
-q) alle wettelijk bindende besluiten van de Europese Commissie en ACER die van toepassing zijn op de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit naleven en uitvoeren;<br>
-r) erover waken dat er geen sprake is van kruissubsidiëring tussen activiteiten van de distributienetbeheerders en de beheerder van het plaatselijk voernet van elektriciteit voor transmissie, distributie en levering of andere activiteiten die al dan niet met het elektriciteitsgebied te maken hebben;<br>
-s) toezicht houden op en beoordelen van de prestaties van de distributienetbeheerders en de beheerder van het plaatselijk vervoerset van elektriciteit wat betreft de ontwikkeling van een slim netwerk dat gericht is op energie-efficiëntie en de integratie van energie uit hernieuwbare bronnen op basis van een beperkte reeks indicatoren. De VREG publiceert minstens om de twee jaar een rapport met aanbevelingen daarover;<br>
-t) samen met andere betrokken instanties helpen waarborgen dat de maatregelen ter bescherming van de afnemers die aangesloten zijn op het distributienet of het plaatselijk vervoernet van elektriciteit, doeltreffend zijn en gehandhaafd worden;<br>
-u) toezicht houden op het wegnemen van de ongerechtvaardigde belemmeringen en beperkingen op het distributienet of het plaatselijk vervoernet van elektriciteit voor het verbruik van zelfopgewekte elektriciteit en voor energiegemeenschappen;<br>
-v) het uitvoeren van de beoordeling en het aanduiden van mogelijke passende maatregelen, vermeld in de leden 3 en 4 van artikel 15 van de verordening (EU) 2023/1804 van 13 september 2023 betreffende de uitrol van infrastructuur voor alternatieve brandstoffen en tot intrekking van Richtlijn 2014/94/ EU;<br>
-w)&nbsp;&nbsp; &nbsp;het toezicht op de naleving van codes van goede praktijk en vrijwillige akkoorden die met betrekking tot de Vlaamse elektriciteits- en gasmarkt worden gesloten met marktpartijen.<br>
-2° regulerende taken:<br>
-a) de regulering van de toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of overgangsmaatregelen daarover, overeenkomstig de bepalingen van dit decreet;<br>
-b) de goedkeuring van de voorwaarden voor de aansluiting op en de toegang tot het distributienet en het plaatselijk vervoernet van elektriciteit en voor de verstrekking van ondersteunende diensten en flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied. Die ondersteunende diensten en flexibiliteitsdiensten voldoen aan de volgende voorwaarden:<br>
-i) ze worden zo economisch mogelijk uitgevoerd en bieden passende stimuleringsmaatregelen voor netgebruikers om hun input en output op elkaar af te stemmen;<br>
-ii) ze worden op billijke en niet-discriminerende wijze verstrekt en zijn gebaseerd op objectieve criteria;<br>
-3° taken in verband met bemiddeling en beslechting van geschillen :<br>
-a) het bemiddelen in geschillen met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
-b) het beslechten van geschillen met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
-c) het bemiddelen in geschillen tegen een warmte- of koudenetbeheerder met betrekking tot zijn verplichtingen, vermeld in titel IV/1 en VI van dit decreet en in de uitvoeringsbepalingen ervan;<br>
-d) het beslechten van geschillen tegen een warmte- of koudenetbeheerder met betrekking tot zijn verplichtingen, vermeld in titel IV/1 en VI van dit decreet en in de uitvoeringsbepalingen ervan;<br>
-e) het bemiddelen in geschillen met betrekking tot de verplichtingen van de dienstverleners van flexibiliteit en aggregatoren, vermeld in titel IV, afdeling V/1, van dit decreet en de uitvoeringsbepalingen ervan;<br>
-f) het beslechten van geschillen met betrekking tot de verplichtingen van de dienstverleners van flexibiliteit en aggregatoren, vermeld in titel IV, afdeling V/1, van dit decreet en haar uitvoeringsbepalingen;<br>
-4° informerende taken :<br>
-a) het informeren van de marktactoren en de afnemers van elektriciteit en aardgas over de werking van de elektriciteits- en aardgasmarkt;<br>
-b) het informeren van de afnemers van elektriciteit en aardgas over de prijzen en voorwaarden die de leveranciers hanteren, met inbegrip van het aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
-c) het opstellen en publiceren van statistieken en gegevens met betrekking tot de elektriciteits- en gasmarkt;<br>
-d) het jaarlijks voor&nbsp;15 mei&nbsp;per leverancier in het Vlaamse Gewest publiceren van de gewogen gemiddelde kost per groenestroom- of warmtekrachtcertificaat dat gedurende de laatste inleveringsperiode werd ingeleverd voor de certificatenverplichtingen, vermeld in respectievelijk artikel 7.1.10 en artikel 7.1.11, waarbij de VREG :<br>
-1) bij de berekeningen van de gewogen gemiddelde kost voor de ingeleverde certificaten die verhandeld werden, de handelsprijs gebruikt die de leveranciers moeten kenbaar maken aan de VREG;<br>
-2) bij de berekeningen van de gewogen gemiddelde kost voor de ingeleverde certificaten die op grond van artikel 7.1.1 en artikel 7.1.2 aan de leverancier in zijn hoedanigheid als producent werden toegekend, de onrendabele top hanteert die is berekend voor de technologie en datum van indienstname van de installatie waarvoor het certificaat werd toegekend. Bij ontstentenis van een onrendabele top wordt gebruikgemaakt van een geschatte onrendabele top;<br>
-e) het jaarlijks voor&nbsp;15 mei&nbsp;per leverancier in het Vlaamse Gewest publiceren<br>
-1) van het aantal certificaten waarover een leverancier beschikt;<br>
-2) van het aantal certificaten dat gedurende de laatste inleveringsperiode werd ingeleverd voor de certificatenverplichtingen, vermeld in respectievelijk artikel 7.1.10 en artikel 7.1.11;<br>
-f) het jaarlijks voor&nbsp;15 mei&nbsp;publiceren van een rapport over de door elke leverancier gemaakte en doorgerekende kosten om te voldoen aan de verplichting, vermeld in artikel 7.1.10 en 7.1.11, waarbij de VREG per elektriciteitsleverancier de gewogen gemiddelde kost per certificaat, berekend volgens punt d) voor de vorige inleveringsperiode, vergelijkt met de doorgerekende kost per certificaat voor die inleveringsperiode, zoals door de elektriciteitsleverancier gerapporteerd in het kader van de V-test voor het gemiddelde huishoudelijke klantenprofiel;<br>
-g) het informeren van de marktactoren en de tussenpersonen bij de levering van thermische energie, de afnemers van thermische energie, de eindgebruikers van thermische energie over de werking van de warmte- of koudenetten;<br>
-h) het informeren van de tussenpersonen bij de levering van thermische energie, de afnemers van thermische energie, de eindgebruikers van thermische energie over de prijzen en voorwaarden die de warmte- of koudeleveranciers hanteren, met inbegrip van het eventueel aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
-i) het opstellen en publiceren van statistieken en gegevens over de werking van de warmte- of koudenetten;<br>
-j) het jaarlijks voor 15 mei publiceren van een in samenwerking met de federale energieregulator, en eventueel de andere gewestelijke energieregulatoren, opgestelde studie rond de verschillende componenten van de energiekost die minstens een benchmark met de buurlanden bevat.<br>
-k) een vijfjaarlijkse evaluatie van de activiteiten inzake databeheer op het distributienet&nbsp;door de netbeheerder, met inbegrip van een studie over het aanbieden van de specifieke activiteiten en het opnemen van taken en verplichtingen met betrekking tot activiteiten inzake databeheer in de andere gewesten en in de ons omliggende landen;<br>
-l) tweejaarlijks rapporteren aan de Vlaamse Regering over de naleving van de voorwaarden waaraan de netbeheerders zijn gebonden bij de uitoefening van hun activiteiten inzake databeheer op het distributienet, met inbegrip van de resultaten van de vijfjaarlijkse evaluatie;<br>
-m) jaarlijks rapporteren over de voornaamste ontwikkelingen op het vlak van dynamische prijscontracten in het Vlaamse Gewest, met inbegrip van het aanbod op de markt en de effecten op de facturen van de consument en, specifiek, de prijsvolatiliteit ervan;<br>
-n) jaarlijks rapporteren in welke mate het decretale kader rond flexibiliteit en energiegemeenschappen en de verdere uitwerking ervan zorgt voor een flexibeler gebruik van het bestaande net en een versnelling van een duurzame energietransitie waarin de burger centraal staat. De aspecten die hierin worden opgenomen, worden verder door de Vlaamse Regering bepaald;<br>
-o) jaarlijks rapporteren over de financiële gezondheid van de Vlaamse energiemarkt en van de op die markt actieve leveranciers;<br>
-5° adviserende taken :<br>
-a) het op verzoek of op eigen initiatief verlenen van adviezen met betrekking tot de elektriciteits- en gasmarkt aan het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
-b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
-c) het op verzoek of op eigen initiatief verlenen van adviezen over de werking van de warmte- of koudenetten aan de minister of de Vlaamse Regering;<br>
-d) het uitvoeren van studies of onderzoeken betreffende de werking van de warmte- of koudenetten, op eigen initiatief of op verzoek van de minister of de Vlaamse Regering.<br>
-e) het uitvoeren van studies en onderzoeken en het geven van adviezen over de activiteiten van de intermediairen bij de aankoop van energie die werken in het Vlaamse Gewest, op verzoek van het Vlaams Parlement, de Vlaamse Regering of de minister;<br>
-<br>
-De VREG kan door&nbsp;het Vlaams Parlement&nbsp;worden belast met bijzondere opdrachten die met haar missie en taken verband houden.
+...
 
 ### ART. 3.1.4.
 
-§ 1. Met het oog op de vervulling van haar taken is de VREG gerechtigd om alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en taken.<br>
-<br>
-§ 2. De VREG beschikt over de hierna vermelde bevoegdheden, die hij uitoefent in overeenstemming met de bepalingen in dit decreet, de uitvoeringsbepalingen, en het ondernemingsplan dat hem verbindt:<br>
-1° het aangaan van overeenkomsten met derden;<br>
-2° het opleggen van administratieve sancties wegens overtreding van de bepalingen van titels IV, IV/1, V en VI, en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
-3° de aanwijzing, de wijziging en beëindiging van de aanwijzing van de netbeheerders;<br>
-4° het toekennen aan een distributienetbeheerder van de toestemming om een beroep te doen op een werkmaatschappij;<br>
-5° de toekenning van leveringsvergunningen, de wijziging en de opheffing ervan;<br>
-6° het opstellen van de technische reglementen;<br>
-7° de toekenning van groenestroomcertificaten, warmtekrachtcertificaten, groenewarmtecertificaten en garanties van oorsprong, en het beheer van die certificaten en garanties van oorsprong in een centrale databank;<br>
-8° het sluiten van samenwerkingsovereenkomsten en het tot stand brengen van duurzame samenwerkingsverbanden, de zogenaamde partnerschapovereenkomsten met de regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en Europese elektriciteits- en aardgasmarkt of met regulatoren binnen andere netwerksectoren;<br>
-9° het uitvoeren van onderzoeken naar de werking van de elektriciteits- en gasmarkt in het Vlaamse Gewest;<br>
-10° het opleggen van noodzakelijke en evenredige maatregelen om de daadwerkelijke mededinging te bevorderen en de goede werking van de Vlaamse elektriciteits- en gasmarkt te waarborgen;<br>
-11° de samenwerking en uitwisseling van gegevens met de regulatoren en instanties die werken binnen de Vlaamse, Belgische en Europese elektriciteits- en gasmarkt of met regulatoren binnen andere netwerksectoren, voor zover de bepalingen van artikel 3.1.12 worden nageleefd;<br>
-12° het goedkeuren van distributienettarieven voor elektriciteit en aardgas en het vaststellen van de berekeningsmethodes hiervoor, volgens transparante criteria of het nemen van overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet;<br>
-13° het opstellen van een technisch reglement - warmte- of koudenetten indien noodzakelijk;<br>
-14° het uitvoeren van onderzoeken naar de werking van de warmte- of koudenetten in het Vlaamse Gewest;<br>
-15° het opleggen van noodzakelijke en evenredige maatregelen om de goede werking van de Vlaamse warmte- of koudenetten te waarborgen.
+...
 
 ### ART. 3.1.4/1.
 
-Bij de uitoefening van haar taken en bevoegdheden neemt de VREG alle redelijke maatregelen om de volgende doelstellingen te bereiken, indien nodig in overleg met andere betrokken en bevoegde instanties :<br>
-1° de bevordering, in nauwe samenwerking met ACER, de regulerende instanties van andere Belgische overheden en Europese lidstaten en de Europese Commissie, van een door concurrentie gekenmerkte, flexibele, zekere en vanuit milieuoogpunt duurzame Europese interne markt voor elektriciteit en gas, en van een daadwerkelijke openstelling van de markt voor alle afnemers en Europese leveranciers, en een waarborging dat elektriciteits- en aardgas-distributienetten op een doeltreffende en betrouwbare manier werken, rekening houdend met doelstellingen op lange termijn;<br>
-2° de ontwikkeling van door concurrentie gekenmerkte en goed functionerende regionale, grensoverschrijdende markten binnen de Europese Unie met het oog op het bereiken van de onder 1° genoemde doelstelling;<br>
-3° het opheffen van alle beperkingen voor handel in elektriciteit en aardgas tussen de lidstaten, inclusief de ontwikkeling van afdoende grensoverschrijdende transmissiecapaciteit om aan de vraag te voldoen en de integratie van nationale markten te versterken, hetgeen de elektriciteits- en gasstromen in de Europese Unie kan faciliteren;<br>
-4° de ontwikkeling, op de meest kosteneffectieve manier, van veilige, betrouwbare en efficiënte niet-discriminerende netten die klantgericht zijn, en met betrekking tot deze netten:<br>
-a) het bevorderen van de adequaatheid;<br>
-b) aansluitend bij de doelstellingen van het algemene energiebeleid, het bevorderen van de energie-efficiëntie, de integratie van groot- en kleinschalige productie van elektriciteit uit hernieuwbare energiebronnen en gedistribueerde productie in distributienetten en het plaatselijk vervoernet van elektriciteit;<br>
-c) het vergemakkelijken van het beheer met betrekking tot andere energienetwerken voor gas of warmte;<br>
-5° de toegang van nieuwe productiecapaciteit&nbsp;en elektriciteitsopslagfaciliteiten tot het net vergemakkelijken, namelijk door belemmeringen voor de toegang van nieuwkomers op de markt en van elektriciteit uit hernieuwbare energiebronnen weg te nemen;<br>
-6° ervoor zorgen dat de netbeheerders en -gebruikers de nodige stimulansen krijgen, zowel op korte als op lange termijn, om de efficiëntie, en in het bijzonder de energie-efficiëntie, van netprestaties te verbeteren en de marktintegratie te versterken;<br>
-7° ervoor zorgen dat afnemers de vruchten dragen van een efficiënte werking van de Vlaamse elektriciteits- en gasmarkt, het bevorderen van daadwerkelijke mededinging en het bijdragen tot het waarborgen van&nbsp;een hoog niveau van consumentenbescherming in nauwe samenwerking met de consumentenbeschermingsautoriteiten in kwestie;<br>
-8° het bereiken van een hoog niveau van universele en openbare dienstverlening bij het leveren van elektriciteit en aardgas, tot de bescherming van kwetsbare afnemers en tot de compatibiliteit van de processen voor de uitwisseling van gegevens die nodig zijn voor het veranderen van leverancier;<br>
-9° het geven van prikkels voor de deelname van&nbsp;vraagrespons, respectievelijk vraagzijdemiddelen aan het aanbod op de Vlaamse elektriciteits- en gasmarkt.
+...
 
 ### ART. 3.1.4/2.
 
-Partijen die een klacht hebben met betrekking tot de verplichtingen van een &nbsp;netbeheerder, warmte- of koudenetbeheerder of beheerder van een gesloten distributienet&nbsp; uit hoofde van de titels IV, IV/1, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet of haar uitvoeringsbepalingen, kunnen het geschil schriftelijk ter bemiddeling voorleggen aan de VREG. De VREG stelt de bemiddelingsprocedure vast.
+...
 
 ### ART. 3.1.4/3.
 
-Partijen die een klacht hebben met betrekking tot de verplichtingen van een netbeheerder&nbsp;, warmte- of koudenetbeheerder of beheerder van een gesloten distributienet&nbsp;uit hoofde van de titels IV, IV/1, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet of haar uitvoeringsbepalingen, kunnen het geschil schriftelijk ter beslechting voorleggen aan de VREG. Enkel geschillen waarin reeds een bemiddelingspoging door de VREG of de ombudsdienst voor energie is geweest, kunnen worden voorgelegd ter beslechting, tenzij in geval van hoogdringendheid en behoudens andersluidende bepaling.<br>
-<br>
-De VREG beslecht het geschil met een gemotiveerde, bindende beslissing binnen twee maanden na ontvangst van de klacht. Deze periode kan met twee maanden worden verlengd als de VREG aanvullende informatie vraagt. Een nieuwe verlenging van deze termijn is mogelijk voor zover de klager daarmee akkoord gaat.<br>
-<br>
-De beslissing wordt genomen na de betrokken partijen te hebben gehoord. De VREG kan overgaan of doen overgaan tot alle nuttige onderzoeken en kan, indien nodig, deskundigen aanwijzen en getuigen horen. Zij kan bewarende maatregelen opleggen in dringende gevallen. De beslissing kan al of niet een terugbetaling of vergoeding opleggen.
+...
 
 ## Afdeling III. Bestuur en werking
 
@@ -583,258 +473,95 @@ De beslissing wordt genomen na de betrokken partijen te hebben gehoord. De VREG 
 
 ### ART 3.1.4/4.
 
-De organen van de VREG zijn de raad van bestuur en de algemeen directeur.
+...
 
 ## [Onderafdeling II. (verv. decr. 25 november 2016, art. 7, I: 9 februari 2017)] Raad van bestuur
 
 ### ART. 3.1.5.
 
-§ 1. De VREG wordt bestuurd door een raad van bestuur die maximaal uit zeven leden bestaat.<br>
-<br>
-Het Vlaams Parlement stelt de leden van de raad van bestuur aan op grond van objectieve, transparante en bekendgemaakte criteria, volgens een onafhankelijke en onpartijdige procedure, en met inachtneming van een roulatieschema. Zo wordt gegarandeerd dat de kandidaten voor de relevante positie over de vereiste vaardigheden en ervaring beschikken.<br>
-<br>
-De bestuurders worden aangesteld voor een eenmalig hernieuwbare termijn van vijf jaar.<br>
-<br>
-De raad van bestuur kiest onder zijn leden een voorzitter..<br>
-<br>
-§ 2. Ten hoogste twee derde van de leden is van hetzelfde geslacht.<br>
-<br>
-§ 3. De leden van de raad van bestuur kunnen alleen worden ontslagen op eigen verzoek, bij niet-naleving van de vereisten vermeld in artikel 3.1.7 of ten gevolge van een strafrechtelijke veroordeling.<br>
-<br>
-§ 4. De leden van de raad van bestuur worden vergoed overeenkomstig categorie I van het besluit van de Vlaamse Regering tot regeling van de vergoeding van de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, en van de regeringsafgevaardigden die toezicht uitoefenen bij deze agentschappen.
+...
 
 ### ART. 3.1.6.
 
-Alle leden van de raad van bestuur zijn stemgerechtigd.<br>
-<br>
-De algemeen directeur van de VREG woont de raad van bestuur bij met raadgevende stem.
+...
 
 ### ART. 3.1.7.
 
-§ 1. Het mandaat van bestuurder van de VREG is onverenigbaar met :<br>
-1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de transmissienetbeheerder, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier, of een intermediair bij de aankoop van energie;<br>
-2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, vermeld in punt 1°,&nbsp; of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
-3° het lidmaatschap van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
-4° de functie of het ambt van minister, staatssecretaris, het lidmaatschap van een gewest- of gemeenschapsregering, het lidmaatschap van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, het lidmaatschap van de bestendige deputatie van de provincieraden en het lidmaatschap van het college van burgemeester en schepenen van een gemeente;<br>
-5° een functie in de VREG;<br>
-6° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.<br>
-<br>
-Het verbod, vermeld in het eerste lid, 1°, blijft van kracht gedurende één jaar na afloop van het mandaat bij de VREG.<br>
-<br>
-§ 2. Als een bestuurder de bepalingen van paragraaf 1 overtreedt, beschikt hij over een termijn van drie maanden om de mandaten of functies die tot de onverenigbaarheid aanleiding geven, neer te leggen.<br>
-<br>
-Als de bestuurder nalaat de onverenigbare mandaten of functies neer te leggen, wordt hij na afloop van de termijn, vermeld in het eerste lid, van rechtswege geacht zijn mandaat in het agentschap te hebben neergelegd, zonder dat het afbreuk doet aan de rechtsgeldigheid van de handelingen die hij inmiddels heeft gesteld of van de beraadslagingen waaraan hij inmiddels heeft deelgenomen. In zijn vervanging wordt voorzien overeenkomstig de bepalingen van artikel 3.1.5.
+...
 
 ### ART. 3.1.8.
 
-De raad van bestuur beschikt over de volheid van bestuursbevoegdheid en beslist in alle aangelegenheden waarvoor de VREG krachtens dit decreet bevoegd is.<br>
-<br>
-Tot de bevoegdheden van de raad van bestuur, waarvoor geen delegatie mogelijk is, behoren, naast de bevoegdheden in andere decreten, in elk geval:<br>
-1° het goedkeuren van het ontwerp van begroting en van de rekeningen;<br>
-2° het vaststellen en goedkeuren van een jaarrapport over de uitvoering van het ondernemingsplan;<br>
-3° het beslissen over de deelname van de VREG aan de oprichting van of de deelname in andere publiek- of privaatrechtelijke rechtspersonen, het bestuur of de leiding en de financiering van die rechtspersonen;<br>
-4° het sluiten van de overeenkomsten, vermeld in artikel 3.1.4, §2, 8°;<br>
-5° het vaststellen en bepalen van de tariefmethodologie overeenkomstig de bepaling zoals opgenomen in afdeling XII van het Energiedecreet;<br>
-6° het vaststellen en bepalen van de tariefstructuur;<br>
-7° het goedkeuren van de technische reglementen.<br>
-<br>
-De VREG licht het Vlaams Parlement in van zijn beslissing tot goedkeuring van de tariefmethodologie, zoals bedoeld in punt 5° van het vorige lid.
+...
 
 ## [Onderafdeling III. Algemeen directeur (verv. decr. 25 november 2016, art. 7, I: 9 februari 2017)]
 
 ### ART. 3.1.9.
 
-De algemeen directeur van de VREG wordt op gemotiveerde wijze benoemd en ontslagen door de raad van bestuur.<br>
-<br>
-De algemeen directeur wordt benoemd omwille van zijn deskundigheid, inzonderheid voor wat betreft het management.<br>
-<br>
-De algemeen directeur wordt benoemd voor een termijn van zes jaar. Deze termijn is eenmalig hernieuwbaar na een positieve evaluatie door de raad van bestuur.<br>
-<br>
-De marktconforme bezoldiging van de algemeen directeur wordt bepaald door de raad van bestuur.<br>
-<br>
-De rechtspositieregeling van de algemeen directeur wordt bepaald door de raad van bestuur van de VREG.
+...
 
 ### ART. 3.1.10.
 
-§ 1. De algemeen directeur is, binnen de perken van dit decreet, de bijbehorende uitvoeringsbepa-lingen en het huishoudelijk reglement, vermeld in artikel 3.1.11, belast met het dagelijks bestuur van de VREG.<br>
-<br>
-Het huishoudelijk reglement legt de taken van het dagelijks bestuur vast.<br>
-<br>
-§ 2. De algemeen directeur is belast met de voorbereiding van de beslissingen van de raad van bestuur. Hij verstrekt aan de raad van bestuur alle inlichtingen en brengt alle voorstellen die voor de werking van de VREG nuttig of nodig zijn op de agenda van de raad van bestuur.<br>
-<br>
-§ 3. De algemeen directeur vertegenwoordigt de VREG in de gerechtelijke en buitengerechtelijke handelingen, met inbegrip van het optreden voor administratieve rechtscolleges, en treedt rechtsgeldig in naam en voor rekening van de VREG op, zonder dat hij dat aan de hand van een beslissing van de raad van bestuur moet staven.<br>
-<br>
-§ 4. Zonder afbreuk te doen aan de rechtspositieregeling van het personeel, kan de algemeen directeur onder zijn verantwoordelijkheid een of meerdere specifieke bevoegdheden delegeren aan een of meer personeelsleden van de VREG. Die delegatie wordt bekendgemaakt in het Belgisch Staatsblad.<br>
-<br>
-§ 5. De algemeen directeur voert de beslissingen van de raad van bestuur uit.<br>
-<br>
-§ 6. De algemeen directeur is belast met de leiding van het personeel.
+...
 
 ### ART 3.1.10/1.
 
-De algemeen directeur stelt een directieteam samen.<br>
-<br>
-De leden van het directieteam worden tewerkgesteld krachtens arbeidsovereenkomsten beheerst door de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
-<br>
-De leden van het directieteam worden gekozen omwille van hun deskundigheid, inzonderheid voor wat betreft de directies die zij leiden.
+...
 
 ## Afdeling IV. Huishoudelijk reglement
 
 ### ART. 3.1.11.
 
-§ 1. De raad van bestuur stelt een huishoudelijk reglement op, dat inzonderheid de volgende inhoud heeft :<br>
-1° de regels inzake de bijeenroeping van de raad van bestuur, op verzoek van de voorzitter van de raad van bestuur, de algemeen directeur of ten minste vier leden van de raad van bestuur;<br>
-2° de regels inzake het voorzitterschap van de raad van bestuur, en de regels bij afwezigheid of verhindering van de voorzitter;<br>
-3° de nadere precisering van het dagelijks bestuur;<br>
-4° de regels die de raad van bestuur in acht moet nemen bij de uitoefening van zijn bevoegdheden;<br>
-5° de voorwaarden die de raad van bestuur moet respecteren bij de behartiging van bijzondere vraagstukken;<br>
-6° de regels op grond waarvan de leden van de raad van bestuur zich op kosten van de VREG kunnen laten bijstaan door technische raadgevers.<br>
-<br>
-Bij de vaststelling van het huishoudelijk reglement doet de raad van bestuur geen afbreuk aan de bepalingen van artikel 3.1.8.<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. Het huishoudelijk reglement wordt gepubliceerd in het Belgisch Staatsblad.
+...
 
 ## Afdeling V. Beroepsgeheim
 
 ### ART. 3.1.12.
 
-De bestuurders, de algemeen directeur en de personeelsleden van de VREG zijn gebonden door het beroepsgeheim. Zij mogen de vertrouwelijke gegevens die hun ter kennis komen op grond van hun functie bij de VREG aan niemand bekendmaken, behalve wanneer zij worden opgeroepen om in rechte te getuigen of in het kader van de uitwisseling van gegevens met de regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en Europese elektriciteits- en aardgasmarkt of met regulatoren binnen andere netwerksectoren, voor zover die gegevensuitwisseling nadrukkelijk bepaald of toegestaan is in verordeningen of richtlijnen die de instellingen van de Europese Unie hebben vastgesteld, of als met die instanties een overeenkomst is gesloten, als vermeld in artikel 3.1.4, § 2, 8°.
+...
 
 ## [Afdeling V/1. Rechtspositieregeling van de personeelsleden van de VREG (ing. Decr. 8 juli 2011, art. 13, I: 26 augustus 2011)]
 
 ### ART. 3.1.12/1.
 
-Het uitoefenen van een Functie als algemeen directeur of personeelslid van de VREG is onverenigbaar met :<br>
-1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de transmissienetbeheerder, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier, of een intermediair bij de aankoop van energie;<br>
-2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij,&nbsp;vermeld in punt 1°, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
-3° het lid zijn van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
-4° de functie of het ambt van minister, staatssecretaris, lid van gewest- of gemeenschapsregering, lid van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, lid van de bestendige deputatie van de provincieraden en lid van het college van burgemeester en schepenen van een gemeente;<br>
-5° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.
+...
 
 ## [Afdeling V/2. Aansprakelijkheid en rechtspositieregeling (ing. decr. 25 november 2016, art. 19, I: 9 februari 2017)]
 
 ### ART 3.1.12/2.
 
-Als een bestuurder rechtstreeks of onrechtstreeks een belang heeft dat strijdig is met een beslissing of een verrichting die tot de bevoegdheid van de raad van bestuur behoort, mag hij niet deelnemen aan de beraadslaging van de raad van bestuur over deze verplichtingen of beslissingen, noch aan de stemming in dat verband.
+...
 
 ### ART 3.1.12/3.
 
-De bestuurders zijn verantwoordelijk voor de vervulling van de hun opgedragen taak en aansprakelijk voor de tekortkomingen in hun bestuur. Zij zijn hetzij jegens de VREG, hetzij jegens derden, hoofdelijk aansprakelijk voor alle schade die het gevolg is van overtreding van dit decreet en de uitvoeringsbesluiten.
+...
 
 ### ART 3.1.12/4.
 
-§ 1. De personeelsleden van de VREG zijn onderworpen aan de rechtspositieregeling die van toepassing is op de personeelsleden van de diensten van de Vlaamse overheid.<br>
-<br>
-§ 2. De personeelsleden van de VREG zijn onderworpen aan artikel 1 van het besluit van de Vlaamse Regering van 12 januari 2007 op basis waarvan de VREG gemachtigd is om deel te nemen aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbende alsook het koninklijk besluit van 6 maart 2008 waarmee deze pensioenregeling van toepassing werd verklaard op het personeel van de VREG.
+...
 
 ## [Afdeling VI. Financiële middelen en controle (verv. decr. 25 november 2016, art. 23, I: 9 februari 2017)]
 
 ### ART. 3.1.13.
 
-§ 1. De VREG kan beschikken over de volgende ontvangsten :<br>
-1° de dotatie;<br>
-2° retributies voor zover die bij decreet aan de VREG toegewezen zijn;<br>
-3° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br>
-4° de subsidies waarvoor de VREG als begunstigde in aanmerking komt;<br>
-5° terugvorderingen van ten onrechte gedane uitgaven;<br>
-6° vergoedingen voor prestaties aan derden, volgens de modaliteiten die zijn opgenomen in het ondernemingsplan.<br>
-<br>
-§ 2. Tenzij het in een decreet anders is bepaald, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
-<br>
-&nbsp;§ 3. De werkingskosten van de VREG worden gedekt door het Energiefonds, ten belope van de kredieten in de begroting bepaald door de raad van bestuur na rapportering aan het Vlaams Parlement zoals bepaald in paragraaf 5.<br>
-<br>
-§ 4. De VREG duidt een bedrijfsrevisor aan. Deze bedrijfsrevisor mag geen functie vervullen bij de netbeheerder, de distributienetbeheerders alsook bij de producenten, leveranciers en tussenpersonen.<br>
-<br>
-De bedrijfsrevisor, aangeduid overeenkomstig het eerste lid, controleert de financiële toestand en de jaarrekeningen van de VREG alsook de regelmatigheid van de verrichtingen te constateren in de jaarrekeningen. Hiervan stelt hij een verslag op.<br>
-<br>
-Bij het uitvoeren van hun opdracht passen het Rekenhof en de bedrijfsrevisor de regels inzake single audit toe.<br>
-<br>
-§ 5. De VREG dient jaarlijks een ontwerp van begroting met een voorstel van dotatie voor het volgende begrotingsjaar, samen met een ontwerp van ondernemingsplan, bij het Vlaams Parlement in.<br>
-Het Vlaams Parlement bepaalt de dotatie die de VREG voor zijn werking tijdens het volgende begrotingsjaar uit het Energiefonds ontvangt en deelt dit ter uitvoering mee aan de Vlaamse Regering.<br>
-<br>
-Vervolgens stelt de VREG zijn definitieve begroting en ondernemingsplan vast.<br>
-<br>
-De VREG zendt de jaarrekening, vergezeld van het verslag van de bedrijfsrevisor opgesteld op basis van paragraaf 4, tweede lid, voor 31 maart van het jaar volgend op het betrokken jaar, over aan het Vlaams Parlement en aan het Rekenhof. Het Rekenhof controleert de jaarrekening van de VREG en zendt zijn auditverslag over aan het Vlaams Parlement.<br>
-<br>
-§ 6. ...<br>
-<br>
-§ 7. De algemeen directeur staat in voor de noodzakelijke informatie-uitwisseling met de Vlaamse Regering voor de opmaak van de algemene uitgavenbegroting en de opmaak van de ESR-consolidatie.<br>
-<br>
-§ 8. De VREG stelt jaarlijks uiterlijk op 31 januari een ondernemingsplan voor dat jaar vast en deelt het mee aan het Vlaams Parlement. Het omvat onder meer de beleids- en beheersdoelstellingen, zowel meerjarig als voor het komende jaar, en de operationele vertaling ervan. Als bij het verstrijken van een ondernemingsplan geen nieuw ondernemingsplan in werking is getreden, blijft het bestaande ondernemingsplan van toepassing tot op het ogenblik dat het nieuwe ondernemingsplan in werking treedt.<br>
-<br>
-§ 9. De VREG stelt jaarlijks een jaarrapport op over de uitvoering van het ondernemingsplan en bezorgt dat rapport aan het Vlaams Parlement vóór 31 maart van het jaar dat volgt op het desbetreffende boekjaar. Het jaarrapport van de VREG heeft onder meer betrekking op:<br>
-1° de uitvoering van het ondernemingsplan van het voorgaande jaar;<br>
-2° de staat van zijn werkingskosten en de wijze waarop zij gedekt zijn, met inbegrip van een overzicht van activa/passiva en het verslag van de bedrijfsrevisor;<br>
-3° de evolutie van de energiemarkten;<br>
-4° de beslissingen die eventueel werden genomen tijdens het betrokken boekjaar inzake de methodologie voor de berekening van de tarieven, de tariefstructuur en het technisch reglement.<br>
-<br>
-De VREG beschrijft in dit verslag de wijze waarop hij zijn doelstellingen al dan niet heeft bereikt.<br>
-<br>
-Dit verslag wordt op de internetsite van de VREG gepubliceerd. Ter informatie wordt een afschrift van dit verslag eveneens naar de Vlaamse Regering gestuurd.
+...
 
 ### ART 3.1.14.
 
-De raad van bestuur van de VREG staat in voor de interne controle op de bedrijfsprocessen en activiteiten van de VREG. De interne controle is in het bijzonder gericht op:<br>
-1° het bereiken van de opgelegde doelstellingen en het effectief en efficiënt beheer van risico's;<br>
-2° de naleving van regelgeving en procedures;<br>
-3° de betrouwbaarheid van de financiële en beheersrapportering;<br>
-4° de effectieve en efficiënte werking van de diensten en het efficiënt inzetten van de middelen;<br>
-5° de bescherming van haar activa en de voorkoming van fraude.<br>
-<br>
-De raad van bestuur evalueert de interne controlesystemen van de VREG, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering daarvan. Zij voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.
+...
 
 ### ART 3.1.15.
 
-§ 1. ...<br>
-<br>
-§ 2. De VREG volgt bij het opstellen van de rekeningen de boekhoudkundige regels zoals bepaald in artikel 10 tot en met 15 van het besluit van de Vlaamse Regering betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen.
+...
 
 ## [Afdeling VII. Vergelijkingsinstrument (ing. decr. 2 april 2021, art. 8, I: 7 juni 2021)]
 
 ### ART 3.1.16.
 
-De VREG stelt op zijn website een vergelijkingsinstrument ter beschikking waarmee door huishoudelijke afnemers en kleinzakelijke afnemers, aangesloten op het laagspanningsdistributienet en met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.000 kWh, het aanbod van de leveranciers aan huishoudelijke afnemers en ondernemingen met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.000 kWh gratis vergeleken kan worden. Dat instrument bestrijkt de hele markt in het Vlaamse Gewest en alle aanbiedingen van leveranciers die daarin publiek beschikbaar zijn, waaronder aanbiedingen voor dynamische prijscontracten en teruglevercontracten.<br>
-<br>
-Het vergelijkingsinstrument, vermeld in het eerste lid, voldoet aan al de volgende vereisten:<br>
-1° leveranciers worden gelijk behandeld in de zoekresultaten;<br>
-2° er worden objectieve criteria gebruikt als basis voor de vergelijking en die criteria worden duidelijk vermeld op de website;<br>
-3° er wordt gebruikgemaakt van duidelijke en ondubbelzinnige bewoordingen;<br>
-4° het geeft nauwkeurige en geactualiseerde informatie, met vermelding van het tijdstip van de meest recente actualisering;<br>
-5° er is een doeltreffende procedure om onjuiste informatie over gepubliceerde aanbiedingen te melden;<br>
-6° er worden vergelijkingen aangeboden waarbij de opgevraagde persoonlijke gegevens beperkt blijven tot gegevens die noodzakelijk zijn voor de gevraagde vergelijking.<br>
-<br>
-De leveranciers bezorgen de VREG nauwkeurige en geactualiseerde informatie over de prijzen en voorwaarden, inclusief de aangeboden diensten, van de producten die ze publiek aanbieden in het Vlaamse Gewest aan huishoudelijke afnemers en ondernemingen met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.00 kWh, met het oog op de opname daarvan in het vergelijkingsinstrument, vermeld in het eerste lid. De VREG legt na overleg met de betrokken stakeholders de methode en procedure vast voor de voormelde informatieoverdracht.
+...
 
 ### ART 3.1.17.
 
-De volgende persoonsgegevens of categorieën van persoonsgegevens kunnen opgevraagd en verwerkt worden in het kader van het gebruik en het beheer van het vergelijkingsinstrument, vermeld in artikel 3.1.16:<br>
-1° het energietype;<br>
-2° de adres- en contactgegevens;<br>
-3° de gegevens over de aansluiting en de meter;<br>
-4° de meetgegevens;<br>
-5° de gegevens over aanwezige decentrale productie-installaties;<br>
-6° de contractvoorkeuren;<br>
-7° de huidige leveringsvoorwaarden;<br>
-8° het profiel, vermeld in het derde lid;<br>
-9° de identificatiegegevens, vermeld in het vierde lid.<br>
-<br>
-Na toestemming van de betrokkene conform artikel 4, 11), van de algemene verordening gegevensbescherming kan de VREG de persoonsgegevens, vermeld in het eerste lid, 1° tot en met 5°, automatisch laten verwerken via een koppeling met de databanken van de distributienetbeheerder of zijn werkmaatschappij. Via die koppeling verleent de netbeheerder of zijn werkmaatschappij de VREG toegang tot de gegevens, vermeld in het eerste lid, 1° tot en met 5°, waartoe de betrokkene toegang heeft in zijn databanken.<br>
-<br>
-Na toestemming van de betrokkene conform artikel 4, 11), van de algemene verordening gegevensbescherming kunnen de persoonsgegevens, vermeld in het eerste lid, in een profiel worden bijgehouden met het oog op het gebruik en het beheer van het vergelijkingsinstrument, vermeld in het eerste lid. Het profiel wordt maximaal bewaard tot vijf jaar nadat de betrokkene daarvoor zijn toestemming heeft verleend.<br>
-<br>
-Voor de unieke identificatie van de betrokkene kan het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opgevraagd en verwerkt worden in het kader van:<br>
-1° de automatische verwerking van de gegevens, vermeld in het tweede lid;<br>
-2° de aanmaak en het beheer van het profiel, vermeld in het derde lid.<br>
-<br>
-De VREG kan de verwerkte gegevens en de resultaten van de uitgevoerde vergelijkingen gedurende twaalf maanden na de uitvoering van de vergelijking geanonimiseerd bewaren met het oog op het gebruik voor monitoring, evaluatie en onderzoek.<br>
-<br>
-Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het vergelijkingsinstrument, vermeld in artikel 3.1.16 van dit decreet, is de VREG de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
-<br>
-De VREG neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12 van de algemene verordening gegevensbescherming in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal toegang heeft tot de noodzakelijke informatie en communicatie in verband met de verwerking van zijn persoonsgegevens.
+...
 
 ## HOOFDSTUK II. Het Energiefonds
 
@@ -846,7 +573,7 @@ De VREG neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12
 1° opbrengsten uit heffingen en administratieve geldboetes die decretaal aan het Energiefonds worden toegewezen, de opbrengsten afkomstig van de dadingen die hierover worden aangegaan, evenals de opbrengsten die worden geïnd naar aanleiding van beslissingen van de hoven en rechtbanken die hierover worden genomen ten laste van de decretaal aangewezen heffings- of boeteplichtigen;<br>
 2° andere middelen aan het Energiefonds toegewezen krachtens wettelijke, decretale of conventionele bepalingen, de terugstortingen, de middelen van de Europese Unie of andere internationale instellingen voor projecten die tot stand komen met cofinanciering vanuit het Energiefonds, de middelen van de andere gewesten en de federale overheid voor projecten die tot stand komen met cofinanciering vanuit het Energiefonds en die een financiering op Belgisch niveau vergen zoals overlegd op het energie-overleg staat-gewesten, de middelen van andere partners die aan deze projecten deelnemen, de toevallige inkomsten uit deze projecten volgens de overeenkomsten afgesloten met of tussen de projectpartners, de inkomsten uit de verkoop van publicaties die kaderen in het energiebeleid, inkomsten met betrekking tot het uitwinnen van door of krachtens dit decreet opgelegde bankwaarborgen, de terugbetaling van kapitaal van door of krachtens dit decreet via het Energiefonds ingestelde leningen voor noodkoopwoningen, de terugvordering van de rentesubsidie toegekend in kader van het renteloos renovatiekrediet en de overige toevallige ontvangsten.<br>
 <br>
-§ 3. De Vlaamse Regering beschikt over de kredieten van het Energiefonds, inclusief de machtiging om hiermee subsidies toe te kennen, voor de uitvoering van haar energiebeleid, in het bijzonder voor de financiering van de VREG, van de openbaredienstverplichtingen inzake energie, voor haar sociaal energiebeleid, haar beleid inzake het rationeel energiegebruik, haar beleid inzake warmte-krachtkoppeling, haar beleid inzake de hernieuwbare energiebronnen alsmede voor de financiering van energiegerelateerde kosten van de Vlaamse overheid.
+§ 3. De Vlaamse Regering beschikt over de kredieten van het Energiefonds, inclusief de machtiging om hiermee subsidies toe te kennen, voor de uitvoering van haar energiebeleid, in het bijzonder voor de financiering&nbsp; van de openbaredienstverplichtingen inzake energie, voor haar sociaal energiebeleid, haar beleid inzake het rationeel energiegebruik, haar beleid inzake warmte-krachtkoppeling, haar beleid inzake de hernieuwbare energiebronnen alsmede voor de financiering van energiegerelateerde kosten van de Vlaamse overheid.
 
 ## TITEL IV. DE ORGANISATIE VAN DE ELEKTRICITEITS- EN AARDGASMARKT IN HET VLAAMSE GEWEST
 
@@ -856,23 +583,23 @@ De VREG neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12
 
 ### ART. 4.1.1.
 
-De VREG wijst, voor een aaneensluitend geografisch afgebakend gebied met minstens 200.000 aangesloten afnemers, een rechtspersoon aan die belast is met het beheer van het elektriciteits- en het aardgasdistributienet in dat gebied.<br>
+De Vlaamse Nutsregulator wijst, voor een aaneensluitend geografisch afgebakend gebied met minstens 200.000 aangesloten afnemers, een rechtspersoon aan die belast is met het beheer van het elektriciteits- en het aardgasdistributienet in dat gebied.<br>
 <br>
 In afwijking van het eerste lid wordt voor de beoordeling of een netbeheerder over een geografisch aaneensluitend afgebakend gebied met minstens 200.000 aangesloten afnemers beschikt echter geen rekening gehouden met het grondgebied van de gemeente Voeren en het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied.<br>
 <br>
-In afwijking van het eerste lid kan de VREG, voor het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied en als daarvoor een technische of financiële noodzaak bestaat, een verschillende elektriciteitsdistributienetbeheerder en aardgasdistributienetbeheerder aanstellen.<br>
+In afwijking van het eerste lid kan de Vlaamse Nutsregulator, voor het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied en als daarvoor een technische of financiële noodzaak bestaat, een verschillende elektriciteitsdistributienetbeheerder en aardgasdistributienetbeheerder aanstellen.<br>
 <br>
-Als het distributienet in kwestie geheel of gedeeltelijk eigendom is van een gemeente of groep van gemeenten, doet de VREG de aanwijzing op voorstel van die gemeente of groep van gemeenten. De VREG kan alleen afwijken van dit voorstel, als de voorgestelde netbeheerder niet voldoet aan de voorwaarden, vastgesteld ter uitvoering van artikel 4.1.4, § 1, 1°.
+Als het distributienet in kwestie geheel of gedeeltelijk eigendom is van een gemeente of groep van gemeenten, doet de Vlaamse Nutsregulator de aanwijzing op voorstel van die gemeente of groep van gemeenten. De Vlaamse Nutsregulator kan alleen afwijken van dit voorstel, als de voorgestelde netbeheerder niet voldoet aan de voorwaarden, vastgesteld ter uitvoering van artikel 4.1.4, § 1, 1°.
 
 ### ART. 4.1.2.
 
-De VREG stelt een lijst op met de elektrische leidingen met een nominale spanning van minder dan of gelijk aan 70 kilovolt, en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest en die voornamelijk gebruikt worden voor het vervoer van elektriciteit naar distributienetten. Dat geheel van elektrische leidingen en installaties vormt het plaatselijk vervoernet van elektriciteit.<br>
+De Vlaamse Nutsregulator stelt een lijst op met de elektrische leidingen met een nominale spanning van minder dan of gelijk aan 70 kilovolt, en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest en die voornamelijk gebruikt worden voor het vervoer van elektriciteit naar distributienetten. Dat geheel van elektrische leidingen en installaties vormt het plaatselijk vervoernet van elektriciteit.<br>
 <br>
-De VREG wijst een rechtspersoon aan die belast wordt met het beheer van het plaatselijk vervoernet van elektriciteit in het Vlaamse Gewest, zoals vermeld in het eerste lid.<br>
+De Vlaamse Nutsregulator wijst een rechtspersoon aan die belast wordt met het beheer van het plaatselijk vervoernet van elektriciteit in het Vlaamse Gewest, zoals vermeld in het eerste lid.<br>
 <br>
 Alleen de beheerder van het plaatselijk vervoernet van elektriciteit kan elektrische leidingen aanleggen en beheren met een nominale spanning van minder dan of gelijk aan 70 kilovolt, die gebruikt worden voor het vervoer van elektriciteit naar distributie-netten.<br>
 <br>
-Op eigen initiatief of op verzoek van de beheerder van het plaatselijk vervoernet van elektriciteit of een elektriciteitsdistributienetbeheerder wat betreft zijn aaneensluitend geografisch afgebakend gebied kan de VREG de lijst wijzigen van het geheel van elektrische leidingen en installaties die het plaatselijk vervoernet van elektriciteit uitmaken, als vermeld in het eerste lid.&nbsp;De VREG onderwerpt de lijst, vermeld in het eerste lid, minstens om de tien jaar en voor het eerst tegen 1 juli 2025 aan een evaluatie en wijzigt daarbij waar nodig de samenstelling ervan.
+Op eigen initiatief of op verzoek van de beheerder van het plaatselijk vervoernet van elektriciteit of een elektriciteitsdistributienetbeheerder wat betreft zijn aaneensluitend geografisch afgebakend gebied kan de Vlaamse Nutsregulator de lijst wijzigen van het geheel van elektrische leidingen en installaties die het plaatselijk vervoernet van elektriciteit uitmaken, als vermeld in het eerste lid.&nbsp;De Vlaamse Nutsregulator onderwerpt de lijst, vermeld in het eerste lid, minstens om de tien jaar en voor het eerst tegen 1 juli 2025 aan een evaluatie en wijzigt daarbij waar nodig de samenstelling ervan.
 
 ### ART. 4.1.3.
 
@@ -880,8 +607,8 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 
 ### ART. 4.1.4.
 
-§ 1. De Vlaamse Regering bepaalt, op advies van de VREG :<br>
-1° de voorwaarden waaraan een kandidaat-netbeheerder moet voldoen om te kunnen worden aangewezen als netbeheerder en waaraan een netbeheerder moet blijven voldoen om aangewezen te blijven als netbeheerder inclusief het beschikken over een door de VREG gecontroleerd ondernemingsplan;<br>
+§ 1. De Vlaamse Regering bepaalt, op advies van de Vlaamse Nutsregulator :<br>
+1° de voorwaarden waaraan een kandidaat-netbeheerder moet voldoen om te kunnen worden aangewezen als netbeheerder en waaraan een netbeheerder moet blijven voldoen om aangewezen te blijven als netbeheerder inclusief het beschikken over een door de Vlaamse Nutsregulator gecontroleerd ondernemingsplan;<br>
 2° de voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder;<br>
 3° de procedure die nageleefd moet worden bij de aanwijzing van een netbeheerder, evenals bij de wijziging en de beëindiging van een aanwijzing van een netbeheerder.<br>
 <br>
@@ -895,7 +622,7 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 <br>
 § 3. De voorwaarden, vermeld in § 2, 4°, hebben onder meer betrekking op de activiteiten van de netbeheerder, de deelneming van andere ondernemingen in de netbeheerder, de deelneming van de netbeheerder in andere ondernemingen, de verhouding van de netbeheerder tot derden, het bestuursorgaan van de netbeheerder, het orgaan dat belast is met de dagelijkse leiding van de netbeheerder en de personeelsleden van de netbeheerder.<br>
 <br>
-§ 4. De voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder, vermeld in § 1, 2°, bepalen onder meer dat de aanwijzing van de netbeheerder eindigt bij faillissement, ontbinding of fusie en dat de VREG de aanwijzing van een netbeheerder kan herroepen, op voorwaarde dat die werd gehoord of naar behoren werd opgeroepen, bij :<br>
+§ 4. De voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder, vermeld in § 1, 2°, bepalen onder meer dat de aanwijzing van de netbeheerder eindigt bij faillissement, ontbinding of fusie en dat de Vlaamse Nutsregulator de aanwijzing van een netbeheerder kan herroepen, op voorwaarde dat die werd gehoord of naar behoren werd opgeroepen, bij :<br>
 1° een significante wijziging in het aandeelhouderschap van de netbeheerder of de werkmaatschappij waarop de netbeheerder een beroep doet, die de onafhankelijkheid van het beheer van het net of de activiteiten inzake databeheer&nbsp;in kwestie in gevaar zou kunnen brengen;<br>
 2° een grove tekortkoming van de netbeheerder of de werkmaatschappij waarop hij een beroep doet, met betrekking tot de verplichtingen krachtens dit decreet of de uitvoeringsbepalingen ervan.<br>
 3° een grove tekortkoming met betrekking tot de naleving van de algemene verordening gegevensbescherming.
@@ -904,17 +631,17 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 
 ### ART 4.1.5.
 
-Als een distributienetbeheerder voor de exploitatie van het distributienet, activiteiten inzake databeheer en de uitvoering van openbaredienstverplichtingen een beroep wil doen op een werkmaatschappij, moet voorafgaandelijk toestemming verkregen worden van de VREG.<br>
+Als een distributienetbeheerder voor de exploitatie van het distributienet, activiteiten inzake databeheer en de uitvoering van openbaredienstverplichtingen een beroep wil doen op een werkmaatschappij, moet voorafgaandelijk toestemming verkregen worden van de Vlaamse Nutsregulator.<br>
 <br>
-De distributienetbeheerders kunnen op elk moment maar op één gezamenlijke werkmaatschappij een beroep doen gedurende een door de VREG aanvaarde periode. Die periode is voor iedere afzonderlijke distributienetbeheerder niet langer dan de duur van de aanwijzing van die distributienetbeheerder, maar is hernieuwbaar na afloop van die termijn.<br>
+De distributienetbeheerders kunnen op elk moment maar op één gezamenlijke werkmaatschappij een beroep doen gedurende een door de Vlaamse Nutsregulator aanvaarde periode. Die periode is voor iedere afzonderlijke distributienetbeheerder niet langer dan de duur van de aanwijzing van die distributienetbeheerder, maar is hernieuwbaar na afloop van die termijn.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, de nadere voorwaarden waaraan de distributienetbeheerder en de werkmaatschappij waarop ze een beroep wil doen, moeten voldoen. Die voorwaarden hebben in ieder geval betrekking op de voorwaarden, vermeld in artikel 4.1.4, § 2, en de (mede)zeggenschap van de distributienetbeheerder over de werkmaatschappij.<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de nadere voorwaarden waaraan de distributienetbeheerder en de werkmaatschappij waarop ze een beroep wil doen, moeten voldoen. Die voorwaarden hebben in ieder geval betrekking op de voorwaarden, vermeld in artikel 4.1.4, § 2, en de (mede)zeggenschap van de distributienetbeheerder over de werkmaatschappij.<br>
 <br>
-De VREG geeft haar toestemming, zoals vermeld in het eerste lid, als zij van mening is dat de werkmaatschappij voldoet aan de voorwaarden die opgelegd zijn ter uitvoering van het vorige lid en aan de voorwaarden, vermeld in de artikelen 4.1.7 tot en met artikel 4.1.8/1.<br>
+De Vlaamse Nutsregulator geeft haar toestemming, zoals vermeld in het eerste lid, als zij van mening is dat de werkmaatschappij voldoet aan de voorwaarden die opgelegd zijn ter uitvoering van het vorige lid en aan de voorwaarden, vermeld in de artikelen 4.1.7 tot en met artikel 4.1.8/1.<br>
 <br>
-De Vlaamse Regering bepaalt de termijn waarbinnen de toestemming van de VREG moet worden gevraagd en de procedure voor het onderzoek en het verlenen van de toestemming.<br>
+De Vlaamse Regering bepaalt de termijn waarbinnen de toestemming van de Vlaamse Nutsregulator moet worden gevraagd en de procedure voor het onderzoek en het verlenen van de toestemming.<br>
 <br>
-De VREG kan haar toestemming, vermeld in het eerste lid, intrekken wanneer zij van oordeel is dat niet langer voldaan is aan de voorwaarden ter uitvoering van het derde lid of aan de voorwaarden, vermeld in artikel 4.1.7 tot en met 4.1.8/1.
+De Vlaamse Nutsregulator kan haar toestemming, vermeld in het eerste lid, intrekken wanneer zij van oordeel is dat niet langer voldaan is aan de voorwaarden ter uitvoering van het derde lid of aan de voorwaarden, vermeld in artikel 4.1.7 tot en met 4.1.8/1.
 
 ### ART 4.1.5/1.
 
@@ -963,7 +690,7 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 1° het beheren van het toegangsregister van zijn net;<br>
 2° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
 3° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br>
-4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de transmissienetbeheerder, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, de aggregatoren, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br>
+4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de transmissienetbeheerder, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, de aggregatoren, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de Vlaamse Nutsregulator;<br>
 5° het verzamelen, berekenen en verwerken van de gegevens in het kader van de flexibiliteitsdiensten of ondersteunende diensten die hij verleent;<br>
 6° het beheer van het flexibiliteitstoegangsregister en het flexibiliteitsactivatieregister voor zijn net.
 
@@ -979,7 +706,7 @@ De netbeheerder en zijn werkmaatschappij kunnen geen beroep doen op producenten,
 1° contacten met de in aanmerking komende afnemers over de toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit, de aansluitingsvoorwaarden, de technische voorwaarden en de tarieven;<br>
 2° de boekhouding met betrekking tot het netbeheer.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, bepalen welke aanvullende aangelegenheden als strategisch en vertrouwelijk worden beschouwd in de zin van het eerste of tweede lid.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, bepalen welke aanvullende aangelegenheden als strategisch en vertrouwelijk worden beschouwd in de zin van het eerste of tweede lid.<br>
 <br>
 In afwijking van het eerste lid, kan de Vlaamse Regering de nadere voorwaarden bepalen waaronder de netbeheerder voor de uitoefening van zijn taken, vermeld in het eerste lid, toch een beroep kan doen op derden, met uitzondering van producenten, invoerders van buitenlands aardgas, leveranciers of tussenpersonen, bedrijven die als kerntaak het verwerken van data hebben of op ondernemingen die met die ondernemingen verbonden of geassocieerd zijn.
 
@@ -1013,16 +740,16 @@ Niettegenstaande het eerste lid kan de netbeheerder of zijn werkmaatschappij tot
 
 § 1. Een netbeheerder en zijn werkmaatschappij mogen geen elektriciteitsopslagfaciliteiten bezitten, ontwikkelen, beheren of exploiteren.<br>
 <br>
-In afwijking van het eerste lid mogen de netbeheerders elektriciteitsopslagfaciliteiten bezitten, ontwikkelen, beheren of exploiteren als het gaat om volledig geïntegreerde netwerkcomponenten en de VREG zijn goedkeuring heeft verleend of als aan elk van de volgende voorwaarden is voldaan:<br>
-1° andere partijen, na een open, transparante en niet-discriminerende aanbestedingsprocedure, die de VREG toetst en goedkeurt, hebben geen recht verworven om dergelijke faciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, of kunnen die diensten niet tegen redelijke kosten en binnen een redelijke termijn aanbieden;<br>
+In afwijking van het eerste lid mogen de netbeheerders elektriciteitsopslagfaciliteiten bezitten, ontwikkelen, beheren of exploiteren als het gaat om volledig geïntegreerde netwerkcomponenten en de Vlaamse Nutsregulator zijn goedkeuring heeft verleend of als aan elk van de volgende voorwaarden is voldaan:<br>
+1° andere partijen, na een open, transparante en niet-discriminerende aanbestedingsprocedure, die de Vlaamse Nutsregulator toetst en goedkeurt, hebben geen recht verworven om dergelijke faciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, of kunnen die diensten niet tegen redelijke kosten en binnen een redelijke termijn aanbieden;<br>
 2° dergelijke faciliteiten zijn nodig voor de netbeheerders om hun verplichtingen na te leven in het kader van een efficiënt, betrouwbaar en veilig beheer van het distributiesysteem, vermeld in titel IV van dit decreet. De faciliteiten worden niet gebruikt om elektriciteit op de elektriciteitsmarkten of op de markten voor lokaal congestiebeheer te kopen of te verkopen;<br>
-3° de VREG heeft de noodzaak van een dergelijke afwijking beoordeeld, heeft de aanbestedingsprocedure, waaronder de voorwaarden van die aanbestedingsprocedure, geëvalueerd en heeft zijn goedkeuring verleend.<br>
+3° de Vlaamse Nutsregulator heeft de noodzaak van een dergelijke afwijking beoordeeld, heeft de aanbestedingsprocedure, waaronder de voorwaarden van die aanbestedingsprocedure, geëvalueerd en heeft zijn goedkeuring verleend.<br>
 <br>
-De VREG kan regels of inkoopbepalingen opstellen voor de aanbestedingsprocedure om de billijkheid van de procedure te garanderen.<br>
+De Vlaamse Nutsregulator kan regels of inkoopbepalingen opstellen voor de aanbestedingsprocedure om de billijkheid van de procedure te garanderen.<br>
 <br>
-§ 2. De VREG houdt regelmatig en minstens elke vijf jaar een openbare raadpleging over de bestaande elektriciteitsopslagfaciliteiten van de netbeheerder om de potentiële beschikbaarheid en belangstelling om in dergelijke faciliteiten te investeren, te evalueren. Als uit die openbare raadpleging blijkt dat derde partijen in staat zijn dergelijke installaties op een kosteneffectieve manier te bezitten, te ontwikkelen, te exploiteren of te beheren, ziet de VREG erop toe dat die activiteiten van de netbeheerders in dit verband binnen achttien maanden worden uitgefaseerd.<br>
+§ 2. De Vlaamse Nutsregulator houdt regelmatig en minstens elke vijf jaar een openbare raadpleging over de bestaande elektriciteitsopslagfaciliteiten van de netbeheerder om de potentiële beschikbaarheid en belangstelling om in dergelijke faciliteiten te investeren, te evalueren. Als uit die openbare raadpleging blijkt dat derde partijen in staat zijn dergelijke installaties op een kosteneffectieve manier te bezitten, te ontwikkelen, te exploiteren of te beheren, ziet de Vlaamse Nutsregulator erop toe dat die activiteiten van de netbeheerders in dit verband binnen achttien maanden worden uitgefaseerd.<br>
 <br>
-De VREG kan toestaan dat de netbeheerders een redelijke vergoeding ontvangen zodat ze de restwaarde van hun investering in die elektriciteitsopslagfaciliteiten kunnen terugverdienen.<br>
+De Vlaamse Nutsregulator kan toestaan dat de netbeheerders een redelijke vergoeding ontvangen zodat ze de restwaarde van hun investering in die elektriciteitsopslagfaciliteiten kunnen terugverdienen.<br>
 <br>
 Het eerste en het tweede lid zijn niet van toepassing op volledig geïntegreerde netwerkcomponenten of gedurende de gebruikelijke afschrijvingsperiode van nieuwe elektriciteitsopslagfaciliteiten als het over batterijen gaat waarbij een definitieve investeringsbeslissing vóór 4 juli 2019 is genomen, op voorwaarde dat dergelijke batterijopslagfaciliteiten aan al de volgende voorwaarden voldoen:<br>
 1° de batterijopslagfaciliteiten zijn uiterlijk twee jaar na de voormelde investeringsbeslissing met het netwerk verbonden;<br>
@@ -1052,7 +779,7 @@ e) verrekeningen van de verkoop van groene stroom conform artikel 7.2.3;<br>
 4° de bepaling en de validatie van de injectie en de afname van de producenten en afnemers die aangesloten zijn op het distributienet;<br>
 5° het verstrekken van de nodige gegevens aan andere netbeheerders, de transmissienetbeheerder, de vervoeronderneming en de beheerder van het plaatselijk vervoernet in het kader van netbeheer en operationele veiligheid;<br>
 6° het faciliteren van de ontwikkeling van innovatieve diensten en producten als dat conform de regelgeving met betrekking tot de verwerking van persoonsgegevens is;<br>
-7° het verstrekken van de nodige gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de beheerder van het plaatselijk vervoernet, de transmissienetbeheerder, de aanbieders van energiediensten, de ESCO's, de aggregatoren, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen, de afnemers en de VREG, voor het vervullen van hun taken of om de energiemarkt te faciliteren en dit op een evenwaardige manier;<br>
+7° het verstrekken van de nodige gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de beheerder van het plaatselijk vervoernet, de transmissienetbeheerder, de aanbieders van energiediensten, de ESCO's, de aggregatoren, de deelnemers aan flexibiliteit, de dienstverleners van flexibiliteit, de aanvragers van flexibiliteit, energiegemeenschappen van burgers of hernieuwbare-energiegemeenschappen, de afnemers en de Vlaamse Nutsregulator, voor het vervullen van hun taken of om de energiemarkt te faciliteren en dit op een evenwaardige manier;<br>
 8° het verstrekken van de nodige gegevens aan overheden voor het uitoefenen van hun taak;<br>
 9° het verstrekken van geanonimiseerde gegevens voor wetenschappelijk onderzoek;<br>
 10° het verzamelen, berekenen, verwerken en bezorgen aan de betrokken marktpartijen, in overleg met de transmissienetbeheerder waar dat van toepassing is, van de informatie die nodig is om het flexibiliteitsvolume, het geleverde flexibiliteitsvolume per toegangspunt of allocatiepunt en de referentiecurve van het elektriciteitsafnameen injectieprofiel te berekenen conform de regels die voor de betrokken flexibiliteitsdienst of ondersteunende dienst worden bepaald, voor:<br>
@@ -1066,7 +793,7 @@ De netbeheerder is verantwoordelijk voor het verzekeren van het recht van toegan
 <br>
 De netbeheerder verstrekt de gegevens, vermeld in het eerste lid, 5°, 7°, 8° en 9°, op een transparante, onpartijdige en niet-discriminatoire wijze, zowel ten aanzien van zichzelf als ten aanzien van de partijen, vermeld in het eerste lid, 5°, 7°, 8° en 9°.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, aan de netbeheerder taken en openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan onder andere netbeheerders, producenten, leveranciers, aanbieders van energiediensten, deelnemers aan flexibiliteit, dienstverleners van flexibiliteit, aanvragers van flexibiliteit, aggregatoren en afnemers, en met betrekking tot zijn dienstverlening op het vlak van submeting.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, aan de netbeheerder taken en openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan onder andere netbeheerders, producenten, leveranciers, aanbieders van energiediensten, deelnemers aan flexibiliteit, dienstverleners van flexibiliteit, aanvragers van flexibiliteit, aggregatoren en afnemers, en met betrekking tot zijn dienstverlening op het vlak van submeting.
 
 ### ART 4.1.8/3.
 
@@ -1101,9 +828,9 @@ De Vlaamse Regering bepaalt welke netten distributienetbeheerders, de beheerder 
 
 Distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij verrichten de activiteiten, vermeld in dit decreet en de bijbehorende uitvoeringsbesluiten en vermeld in verordening (EU) 2019/943.<br>
 <br>
-De distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen andere activiteiten dan die, vermeld in het eerste lid, verrichten, als die activiteiten nodig zijn om aan hun voormelde verplichtingen en hun verplichtingen krachtens verordening (EU) 2019/943 te voldoen en als de VREG de noodzaak van een dergelijke afwijking heeft beoordeeld. Met behoud van de toepassing van artikel 4.1.8/5 kan die beoordeling van de noodzaak geen betrekking hebben op het bezitten, ontwikkelen, beheren of exploiteren van netwerken die geen elektriciteitsdistributienetten of aardgasdistributienetten zijn.<br>
+De distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen andere activiteiten dan die, vermeld in het eerste lid, verrichten, als die activiteiten nodig zijn om aan hun voormelde verplichtingen en hun verplichtingen krachtens verordening (EU) 2019/943 te voldoen en als de Vlaamse Nutsregulator de noodzaak van een dergelijke afwijking heeft beoordeeld. Met behoud van de toepassing van artikel 4.1.8/5 kan die beoordeling van de noodzaak geen betrekking hebben op het bezitten, ontwikkelen, beheren of exploiteren van netwerken die geen elektriciteitsdistributienetten of aardgasdistributienetten zijn.<br>
 <br>
-De Vlaamse Regering bepaalt op basis van de beoordeling door de VREG, vermeld in het tweede lid, welke activiteiten als vermeld in het tweede lid de distributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen uitvoeren.
+De Vlaamse Regering bepaalt op basis van de beoordeling door de Vlaamse Nutsregulator, vermeld in het tweede lid, welke activiteiten als vermeld in het tweede lid de distributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit en hun werkmaatschappij kunnen uitvoeren.
 
 ## [Onderafdeling V. Andere activiteiten van de transmissienetbeheerder en van de beheerder van het vervoersnet (ing. decr. 14 juli 2023, art. 5, I: 4 september 2023)]
 
@@ -1111,11 +838,11 @@ De Vlaamse Regering bepaalt op basis van de beoordeling door de VREG, vermeld in
 
 De transmissienetbeheerder en de beheerder van het vervoersnet verrichten de activiteiten die behoren tot de gewestelijke bevoegdheden, vermeld in dit decreet en de bijbehorende uitvoeringsbesluiten.<br>
 <br>
-De transmissienetbeheerder kan andere activiteiten dan die, vermeld in het eerste lid, die behoren tot de gewestelijke bevoegdheden, verrichten voor zover die nodig zijn om aan zijn voormelde verplichtingen en zijn verplichtingen krachtens verordening (EU) 2019/943 te voldoen en als de VREG de noodzaak van een dergelijke afwijking heeft beoordeeld.<br>
+De transmissienetbeheerder kan andere activiteiten dan die, vermeld in het eerste lid, die behoren tot de gewestelijke bevoegdheden, verrichten voor zover die nodig zijn om aan zijn voormelde verplichtingen en zijn verplichtingen krachtens verordening (EU) 2019/943 te voldoen en als de Vlaamse Nutsregulator de noodzaak van een dergelijke afwijking heeft beoordeeld.<br>
 &nbsp;<br>
-De beheerder van het vervoersnet kan andere activiteiten dan die, vermeld in het eerste lid, die behoren tot de gewestelijke bevoegdheden, verrichten voor zover die activiteiten nodig zijn om aan zijn voormelde verplichtingen te voldoen en als de VREG de noodzaak van een dergelijke afwijking heeft beoordeeld.<br>
+De beheerder van het vervoersnet kan andere activiteiten dan die, vermeld in het eerste lid, die behoren tot de gewestelijke bevoegdheden, verrichten voor zover die activiteiten nodig zijn om aan zijn voormelde verplichtingen te voldoen en als de Vlaamse Nutsregulator de noodzaak van een dergelijke afwijking heeft beoordeeld.<br>
 <br>
-De Vlaamse Regering bepaalt op basis van de beoordeling door de VREG, vermeld in het tweede en derde lid, welke activiteiten als vermeld in het tweede en derde lid de transmissienetbeheerder en de beheerder van het vervoersnet kunnen uitvoeren.
+De Vlaamse Regering bepaalt op basis van de beoordeling door de Vlaamse Nutsregulator, vermeld in het tweede en derde lid, welke activiteiten als vermeld in het tweede en derde lid de transmissienetbeheerder en de beheerder van het vervoersnet kunnen uitvoeren.
 
 ## Afdeling IV. Vertrouwelijkheid en non-discriminatieverplichtingen, opgelegd aan de netbeheerder en diens werkmaatschappij
 
@@ -1156,13 +883,17 @@ De dagvergoeding bedraagt:<br>
 2° 50 euro in geval van elke andere laattijdige eenvoudige aansluiting of elke andere laattijdige tijdelijke aansluiting dan de laattijdige eenvoudige aansluiting of laattijdige tijdelijke aansluiting, vermeld in punt 1°;<br>
 3° 100 euro in geval van een laattijdige aansluiting met detailstudie.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
 
 ## [Onderafdeling IV. Forfaitaire vergoeding bij laattijdige heraansluiting (ing. decr. 20 december 2013, art. 10, I: 1 januari 2015)]
 
 ### ART. 4.1.11/4.
 
-De distributienetbeheerder is een aanvrager van een heraansluiting op zijn   net een vergoeding verschuldigd per dag vertraging van de realisatie van de   heraansluiting van die netgebruiker op zijn net, behalve als hij kan bewijzen   dat hij de laattijdigheid van de heraansluiting niet heeft kunnen   beletten.<BR><BR>De vergoeding bedraagt 75 euro.<BR><BR>De Vlaamse Regering   bepaalt, na advies van de VREG, de voorwaarden en de procedure tot indiening van   de aanvraag van de vergoeding.
+De distributienetbeheerder is een aanvrager van een heraansluiting op zijn net een vergoeding verschuldigd per dag vertraging van de realisatie van de heraansluiting van die netgebruiker op zijn net, behalve als hij kan bewijzen dat hij de laattijdigheid van de heraansluiting niet heeft kunnen beletten.<br>
+<br>
+De vergoeding bedraagt 75 euro.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
 
 ## [Onderafdeling V. Forfaitaire vergoeding bij langdurige stroomonderbreking (ing. decr. 20 december 2013, art. 12, I: 1 januari 2015)]
 
@@ -1180,7 +911,7 @@ In alle andere gevallen dan het geval, vermeld in het tweede lid, bedraagt de ve
 <br>
 § 4. De distributienetbeheerder wordt in de rechten van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding met toepassing van dit artikel.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de voorwaarden en de procedure tot indiening van de aanvraag van de vergoeding.
 
 ## [Onderafdeling VI. Schadevergoeding bij inbreuk in verband met persoonsgegevens (ing. decr. 23 december 2022, art. 9, I: 1 april 2023)]
 
@@ -1204,19 +935,7 @@ Iedere netbeheerder maakt de geldende tarieven en voorwaarden bekend voor de aan
 
 ### ART. 4.1.13.
 
-§ 1. De aardgasdistributienetbeheerder mag voor de aansluiting van een aansluitbare wooneenheid of gebouw op het aardgasdistributienet in de gebieden in het geografische gebied waarvoor hij werd aangewezen, een maximale prijs aanrekenen van 250 euro als cumulatief aan de volgende voorwaarden wordt voldaan :<br>
-1° de aardgasleiding langs de openbare weg waar de aansluitbare wooneenheid of het aansluitbare gebouw gelegen is, heeft voldoende capaciteit;<br>
-2° er is maximaal 20 meter afstand tussen de aardgasleiding en het toekomstige afnamepunt;<br>
-3° de gevraagde capaciteit van de aansluiting is lager dan of gelijk aan 10 m3(n) per uur;<br>
-4° de gevraagde leveringsdruk is gelijk aan 21 of 25 mbar;<br>
-5° de wooneenheid of het gebouw betreft geen nieuwbouw.<br>
-<br>
-§ 2. Als de aardgasdistributienetbeheerder om technische of economische redenen toch beslist om een niet-aansluitbare wooneenheid of gebouw gelegen in een gebied bestemd voor bewoning via een onderboring aan te sluiten op een aardgasleiding aan de overkant van de straat, mag hij in het geografische gebied waarvoor hij werd aangewezen, voor de aansluiting een maximale prijs aanrekenen van 250 euro als cumulatief aan de volgende voorwaarden wordt voldaan :<br>
-1° de aardgasleiding langs de openbare weg waar het niet-aansluitbare wooneenheid of het niet-aansluitbare gebouw gelegen is, heeft voldoende capaciteit;<br>
-2° er is maximaal 20 meter afstand tussen de aardgasleiding en het toekomstige afnamepunt;<br>
-3° de gevraagde capaciteit van de aansluiting is lager dan of gelijk aan 10 m3(n) per uur;<br>
-4° de gevraagde leveringsdruk is gelijk aan 21 of 25 mbar;<br>
-5° de wooneenheid of het gebouw betreft geen nieuwbouw.
+...
 
 ### ART. 4.1.14.
 
@@ -1240,11 +959,11 @@ De Vlaamse Regering houdt voor het vaststellen van de uitzonderingen, vermeld in
 <br>
 De aanvrager van de aansluiting of verkaveling draagt de overige kosten.<br>
 <br>
-De VREG beslist, met toepassing van afdeling XII, over het rendabele deel van de kosten voor de aanleg op het openbaar domein en de gemeentewegen tussen het aardgasdistributienet en de wooneenheid, het gebouw of de verkaveling.
+De Vlaamse Nutsregulator beslist, met toepassing van afdeling XII, over het rendabele deel van de kosten voor de aanleg op het openbaar domein en de gemeentewegen tussen het aardgasdistributienet en de wooneenheid, het gebouw of de verkaveling.
 
 ### ART 4.1.16/1.
 
-In afwijking van artikel 4.1.13, artikel 4.1.15 en artikel 4.1.16, kan elke aardgasdistributienetbeheerder bij nieuwe grote verkavelingen, grote groepswoningbouwprojecten of grote appartementsgebouwen, waarvan de omgevingsvergunning voor het verkavelen van gronden of voor stedenbouwkundige handelingen vanaf 1 januari 2021 is aangevraagd, alleen nog voorzien in een aansluiting op het aardgasdistributienet in geval van collectieve verwarming via warmte-krachtkoppeling of in combinatie met een hernieuwbare-energiesysteem als hoofdverwarming.<br>
+In afwijking van artikel 4.1.15 en artikel 4.1.16, kan elke aardgasdistributienetbeheerder bij nieuwe grote verkavelingen, grote groepswoningbouwprojecten of grote appartementsgebouwen, waarvan de omgevingsvergunning voor het verkavelen van gronden of voor stedenbouwkundige handelingen vanaf 1 januari 2021 is aangevraagd, alleen nog voorzien in een aansluiting op het aardgasdistributienet in geval van collectieve verwarming via warmte-krachtkoppeling of in combinatie met een hernieuwbare-energiesysteem als hoofdverwarming.<br>
 <br>
 Het eerste lid is eveneens van toepassing op grote verkavelingen, grote groepswoningbouwprojecten of grote appartementsgebouwen, waarbij het definitief vastgestelde projectbesluit overeenkomstig artikel 39 van het decreet van 25 april 2014 betreffende complexe projecten geldt als omgevingsvergunning.<br>
 <br>
@@ -1252,7 +971,7 @@ De Vlaamse Regering bepaalt de nadere regels over de grootte van de verkavelinge
 
 ### ART 4.1.16/2.
 
-In afwijking van artikel 4.1.13, 4.1.15, 4.1.16 en 4.1.16/1 voorzien aardgasdistributienetbeheerders voor residentiële gebouwen en niet-residentiële gebouwen waarvoor vanaf 1 januari 2025 een omgevingsvergunning voor stedenbouwkundige handelingen aangaande nieuwbouw worden aangevraagd niet meer in een aansluiting op het aardgasdistributienet.
+In afwijking van artikel 4.1.15, 4.1.16 en 4.1.16/1 voorzien aardgasdistributienetbeheerders voor residentiële gebouwen en niet-residentiële gebouwen waarvoor vanaf 1 januari 2025 een omgevingsvergunning voor stedenbouwkundige handelingen aangaande nieuwbouw worden aangevraagd niet meer in een aansluiting op het aardgasdistributienet.
 
 ### ART. 4.1.17.
 
@@ -1276,7 +995,7 @@ Iedere afnemer heeft het recht, zonder discriminatie ten aanzien van kosten, moe
 <br>
 § 3. Elke dienstverlener van flexibiliteit of aggregator, vermeld in paragraaf 1, sluit op basis van voorafgaandelijke commerciële onderhandelingen een overeenkomst met de deelnemer aan flexibiliteit als hij een beroep doet op een deelnemer van flexibiliteit.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de minimale elementen van een standaardovereenkomst die van toepassing is bij gebreke van akkoord over de commerciële modaliteiten, vermeld in het eerste lid, bepalen.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de minimale elementen van een standaardovereenkomst die van toepassing is bij gebreke van akkoord over de commerciële modaliteiten, vermeld in het eerste lid, bepalen.<br>
 <br>
 Elke dienstverlener van flexibiliteit of aggregator informeert de deelnemer aan flexibiliteit volledig over de contractuele voorwaarden van het flexibiliteits- of aggregatiecontract dat hem wordt aangeboden.<br>
 <br>
@@ -1284,7 +1003,7 @@ Elke dienstverlener van flexibiliteit of aggregator informeert de deelnemer aan 
 <br>
 De Vlaamse Regering kan de minimale inhoud van de overeenkomst, vermeld in het eerste lid, bepalen.<br>
 <br>
-De betrokken netbeheerder meldt de overeenkomst, vermeld in het eerste lid, aan de VREG als de dienstverlener van flexibiliteit of de aggregator een beroep doet op een of meer deelnemers aan flexibiliteit om flexibiliteitsdiensten aan te bieden. De VREG maakt vervolgens de lijst van de dienstverleners van flexibiliteit bekend op zijn website.<br>
+De betrokken netbeheerder meldt de overeenkomst, vermeld in het eerste lid, aan de Vlaamse Nutsregulator als de dienstverlener van flexibiliteit of de aggregator een beroep doet op een of meer deelnemers aan flexibiliteit om flexibiliteitsdiensten aan te bieden. De Vlaamse Nutsregulator maakt vervolgens de lijst van de dienstverleners van flexibiliteit bekend op zijn website.<br>
 <br>
 De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit maken de lijst van de dienstverleners van flexibiliteit die rechtstreeks flexibiliteit aanbieden aan de aanvrager van flexibiliteit, zonder een beroep te doen op een deelnemer aan flexibiliteit, bekend op hun website.<br>
 <br>
@@ -1292,7 +1011,7 @@ De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk ve
 
 ### ART 4.1.17/2.
 
-Op eigen initiatief en na overleg, waaraan de elektriciteitsdistributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit, de transmissienetbeheerder, de bevoegde federale overheidsinstantie, CREG en de relevante marktdeelnemers worden uitgenodigd om deel te nemen, kan de VREG in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit niet-discriminerende en transparante regels vastleggen als de VREG de noodzaak ervan heeft geïdentificeerd, voor de financiële compensatie voor flexibiliteit met energieoverdracht via een dienstverlener van flexibiliteit in functie van het beheer van lokale congestie, vermeld in artikel 4.1.17/4, of in functie van het leveren van een ondersteunende dienst aan de elek- triciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit, vermeld in artikel 4.1.17/6.<br>
+Op eigen initiatief en na overleg, waaraan de elektriciteitsdistributienetbeheerders, de beheerder van het plaatselijk vervoernet van elektriciteit, de transmissienetbeheerder, de bevoegde federale overheidsinstantie, CREG en de relevante marktdeelnemers worden uitgenodigd om deel te nemen, kan de Vlaamse Nutsregulator in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit niet-discriminerende en transparante regels vastleggen als de Vlaamse Nutsregulator de noodzaak ervan heeft geïdentificeerd, voor de financiële compensatie voor flexibiliteit met energieoverdracht via een dienstverlener van flexibiliteit in functie van het beheer van lokale congestie, vermeld in artikel 4.1.17/4, of in functie van het leveren van een ondersteunende dienst aan de elek- triciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit, vermeld in artikel 4.1.17/6.<br>
 <br>
 De regels, vermeld in het eerste lid, bevatten minstens:<br>
 1° een berekeningsmethode voor de financiële compensatie die de onafhankelijke dienstverlener van flexibiliteit betaald heeft aan die marktdeelnemers of aan de evenwichtsverantwoordelijken van die marktdeelnemers, vermeld in het eerste lid. Dit geldt ook voor de omgekeerde transactie;<br>
@@ -1302,7 +1021,7 @@ De financiële compensatie, vermeld in het eerste lid, voldoet aan de volgende v
 1° ze creëert geen obstakel voor de markttoegang van de dienstverleners van flexibiliteit;<br>
 2° ze is ertoe beperkt de resulterende kosten te dekken voor de leveranciers van deelnemende afnemers en producenten of voor de evenwichtsverant- woordelijken van de leveranciers tijdens de activatie van flexibiliteit.<br>
 <br>
-Marktdeelnemers kunnen vrijwillig en in onderling overleg afwijken van de berekeningsmethode, vermeld in het tweede lid, 1°, als ze dat melden aan de elektriciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit. De VREG kan dat proces evalueren.
+Marktdeelnemers kunnen vrijwillig en in onderling overleg afwijken van de berekeningsmethode, vermeld in het tweede lid, 1°, als ze dat melden aan de elektriciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit. De Vlaamse Nutsregulator kan dat proces evalueren.
 
 ## [Onderafdeling II. Rechten en plichten van deelnemers aan flexibiliteit en aggregatie (ing. decr. 2 april 2021, art. 28, I: 7 juni 2021)]
 
@@ -1328,7 +1047,7 @@ Afnemers die een contract hebben met een onafhankelijke dienstverlener van flexi
 
 ### ART 4.1.17/4.
 
-§ 1. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bepalen de specificaties voor de aankoop van flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied of voor redispatching waarvoor de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de aanvrager van flexibiliteit is, in de vorm van producten die gevaloriseerd worden, en, als dat van toepassing is, gestandaardiseerde marktproducten voor die diensten, na een transparant en participatief overleg met de transmissienetbeheerder en alle relevante marktdeelnemers. Die specificaties worden, na dit overleg, ter goedkeuring voorgelegd aan de VREG.<br>
+§ 1. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bepalen de specificaties voor de aankoop van flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied of voor redispatching waarvoor de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit de aanvrager van flexibiliteit is, in de vorm van producten die gevaloriseerd worden, en, als dat van toepassing is, gestandaardiseerde marktproducten voor die diensten, na een transparant en participatief overleg met de transmissienetbeheerder en alle relevante marktdeelnemers. Die specificaties worden, na dit overleg, ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.<br>
 <br>
 De specificaties, vermeld in het eerste lid, waarborgen een effectieve en niet-discriminerende deelname van alle marktdeelnemers, inclusief marktdeelnemers die energie uit hernieuwbare bronnen aanbieden, marktdeelnemers die aan vraagrespons of flexibiliteit doen, exploitanten van elektriciteitsopslagfaciliteiten en marktdeelnemers die aan aggregatie doen.<br>
 <br>
@@ -1343,7 +1062,7 @@ De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk ve
 
 § 1. In afwijking van artikel 4.1.17/4 kan de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit onder buitengewone omstandigheden de netgebruikers en de gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit verplichten om deel te nemen aan flexibiliteit. Deze situatie wordt gereserveerde technische flexibiliteit genoemd.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, op welke categorieën van netgebruikers en gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit, het eerste lid van toepassing is.<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, op welke categorieën van netgebruikers en gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit, het eerste lid van toepassing is.<br>
 <br>
 Onder buitengewone omstandigheden als vermeld in het eerste lid, worden omstandigheden verstaan die geen onvoorziene uitzonderlijke netuitbatingsomstandigheden als vermeld in paragraaf 2 zijn en waarbij een redelijke en kosteneffectieve netinvestering niet mogelijk is in combinatie met een van de volgende situaties:<br>
 1° de aankoop van flexibiliteit is economisch niet efficiënt;<br>
@@ -1352,41 +1071,41 @@ Onder buitengewone omstandigheden als vermeld in het eerste lid, worden omstandi
 <br>
 De toepassing van gereserveerde technische flexibiliteit door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit moet blijken uit de toepassing van de transparante, niet-discriminerende en eenduidige methodologie en de regels over buitengewone omstandigheden, vermeld in het eerste lid. Die regels worden opgenomen in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
 <br>
-De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit informeert de netgebruikers en de gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit als gereserveerde technische flexibiliteit wordt toegepast tijdig over de mogelijke impact op hun toegang tot het net. De VREG vermeldt in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit de procedure om de betrokkenen te informeren.<br>
+De elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit informeert de netgebruikers en de gebruikers die aangesloten zijn op het plaatselijk vervoernet van elektriciteit als gereserveerde technische flexibiliteit wordt toegepast tijdig over de mogelijke impact op hun toegang tot het net. De Vlaamse Nutsregulator vermeldt in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit de procedure om de betrokkenen te informeren.<br>
 <br>
 § 2. In geval van onvoorziene uitzonderlijke netuitbatingsomstandigheden en als alle commerciële middelen uitgeput zijn, tenzij de aankoop ervan economisch niet efficiënt is, kan de elektriciteitsdistributienetbeheerder of de beheerder van het plaatselijk vervoernet de modulatie van productie-installaties en elektriciteitsopslagfaciliteiten verplichten. Deze situatie wordt niet-gereserveerde technische flexibiliteit genoemd.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, op welke productie-installaties en elektriciteitsopslagfaciliteiten het eerste lid van toepassing is.<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, op welke productie-installaties en elektriciteitsopslagfaciliteiten het eerste lid van toepassing is.<br>
 <br>
 De nadere regels over de onvoorziene uitzonderlijke netuitbatingsomstandigheden en de economische efficiëntie en de uitputting van de commerciële middelen, vermeld in het eerste lid, worden opgenomen in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
 <br>
 § 3. In geval van gereserveerde technische flexibiliteit ontvangen de netgebruiker en de gebruiker die op het plaatselijk vervoernet van elektriciteit aangesloten zijn, ten behoeve van de netbeheerder een kostenreflectieve en transparante compensatie.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, de berekeningswijzen voor de compensatie, vermeld in het eerste lid.<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de berekeningswijzen voor de compensatie, vermeld in het eerste lid.<br>
 <br>
 In geval van niet-gereserveerde technische flexibiliteit kunnen de netgebruiker en de gebruiker die aangesloten zijn op het plaatselijk vervoernet van elektriciteit, ten behoeve van de elektriciteitsdistributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit een kostenreflectieve en transparante compensatie ontvangen.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de VREG, de situaties waarin een compensatie wordt verleend en de berekeningswijzen voor de compensatie, vermeld in het derde lid.<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de situaties waarin een compensatie wordt verleend en de berekeningswijzen voor de compensatie, vermeld in het derde lid.<br>
 <br>
-§ 4. De elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit maken jaarlijks een rapport op over de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit worden toegepast en geactiveerd, en bezorgen dat aan de VREG. Dat rapport bevat minstens:<br>
+§ 4. De elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit maken jaarlijks een rapport op over de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit worden toegepast en geactiveerd, en bezorgen dat aan de Vlaamse Nutsregulator. Dat rapport bevat minstens:<br>
 1° een overzicht van de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit zijn toegepast en geactiveerd;<br>
 2° de redenen, de volumes, uitgedrukt in MWh, en het type van aansluiting en productie waarbij gereserveerde en niet-gereserveerde technische flexibiliteit zijn toegepast en geactiveerd;<br>
 3° een overzicht van het totaal aan toegekende compensaties en de toegekende compensaties per situatie waarbij gereserveerde en niet-gereserveerde technische flexibiliteit zijn toegepast en geactiveerd;<br>
 4° de maatregelen die genomen zijn om de behoefte aan gereserveerde en niet-gereserveerde technische flexibiliteit te verminderen, inclusief investeringen in de digitalisering van de netinfrastructuur.<br>
 <br>
-De VREG evalueert op basis van dat rapport of de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit worden toegepast, voldoen aan de voorwaarden waaronder gereserveerde en niet-gereserveerde technische flexibiliteit kunnen worden toegepast. De VREG kan daarvoor alle bijkomende en nodige gegevens opvragen bij de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit om die evaluatie te kunnen maken. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen die gegevens aan de VREG binnen een redelijke termijn.<br>
+De Vlaamse Nutsregulator evalueert op basis van dat rapport of de situaties waarbij gereserveerde en niet-gereserveerde technische flexibiliteit worden toegepast, voldoen aan de voorwaarden waaronder gereserveerde en niet-gereserveerde technische flexibiliteit kunnen worden toegepast. De Vlaamse Nutsregulator kan daarvoor alle bijkomende en nodige gegevens opvragen bij de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit om die evaluatie te kunnen maken. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen die gegevens aan de Vlaamse Nutsregulator binnen een redelijke termijn.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen omtrent de procedure en de timing van de rapportering door de elektriciteitsdistributienetbeheerder en de beheerder van het plaatselijk vervoernet en de frequentie van deze rapportering.
 
 ### ART 4.1.17/6.
 
-§ 1. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit zijn verantwoordelijk voor de aankoop van producten en diensten, namelijk voor de aankoop van energie voor het dekken van netverliezen en niet-frequentiegerelateerde ondersteunende diensten, die nodig zijn voor een efficiënt, betrouwbaar en veilig beheer van het elektriciteitsdistributienet en plaatselijk vervoernet van elektriciteit, en stellen daarvoor de transparante, objectieve en niet-discriminerende regels op, in een transparant en participatief overleg met de transmissienetbeheerder en alle relevante marktdeelnemers. Die regels worden, na het voormelde overleg, ter goedkeuring voorgelegd aan de VREG.<br>
+§ 1. De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit zijn verantwoordelijk voor de aankoop van producten en diensten, namelijk voor de aankoop van energie voor het dekken van netverliezen en niet-frequentiegerelateerde ondersteunende diensten, die nodig zijn voor een efficiënt, betrouwbaar en veilig beheer van het elektriciteitsdistributienet en plaatselijk vervoernet van elektriciteit, en stellen daarvoor de transparante, objectieve en niet-discriminerende regels op, in een transparant en participatief overleg met de transmissienetbeheerder en alle relevante marktdeelnemers. Die regels worden, na het voormelde overleg, ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.<br>
 <br>
-De VREG stelt de voorwaarden, met inbegrip van de regels en voor de elektriciteitsdistributienetbeheerders ook de vergoedingen, voor het verstrekken van producten en diensten als vermeld in het eerste lid, aan elektriciteitsdistributie-netbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit vast op een niet-discriminerende en kostenreflectieve wijze. Voor de hoogte van de vergoeding gebeurt dat jaarlijks. Die voorwaarden worden bekendgemaakt op de website van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit.<br>
+De Vlaamse Nutsregulator stelt de voorwaarden, met inbegrip van de regels en voor de elektriciteitsdistributienetbeheerders ook de vergoedingen, voor het verstrekken van producten en diensten als vermeld in het eerste lid, aan elektriciteitsdistributie-netbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit vast op een niet-discriminerende en kostenreflectieve wijze. Voor de hoogte van de vergoeding gebeurt dat jaarlijks. Die voorwaarden worden bekendgemaakt op de website van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit.<br>
 <br>
-§ 2. Bij het verrichten van de taken, vermeld in paragraaf 1, kopen de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit de niet-frequentiegerelateerde ondersteunende diensten aan die nodig zijn voor hun net, volgens transparante, niet-discriminerende en marktgerichte procedures, tenzij de VREG van oordeel is dat de marktgebaseerde verlening van niet-frequentiegerelateerde ondersteunende diensten economisch niet efficiënt is en een afwijking heeft toegestaan. De VREG werkt de nadere regels in verband met die afwijking uit in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
+§ 2. Bij het verrichten van de taken, vermeld in paragraaf 1, kopen de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit de niet-frequentiegerelateerde ondersteunende diensten aan die nodig zijn voor hun net, volgens transparante, niet-discriminerende en marktgerichte procedures, tenzij de Vlaamse Nutsregulator van oordeel is dat de marktgebaseerde verlening van niet-frequentiegerelateerde ondersteunende diensten economisch niet efficiënt is en een afwijking heeft toegestaan. De Vlaamse Nutsregulator werkt de nadere regels in verband met die afwijking uit in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
 <br>
-De verplichting om niet-frequentiegerelateerde ondersteunende diensten in te kopen, is niet van toepassing op volledig geïntegreerde netwerkcomponenten. De VREG bepaalt in de technische reglementen waarvoor die vrijstelling niet geldt.<br>
+De verplichting om niet-frequentiegerelateerde ondersteunende diensten in te kopen, is niet van toepassing op volledig geïntegreerde netwerkcomponenten. De Vlaamse Nutsregulator bepaalt in de technische reglementen waarvoor die vrijstelling niet geldt.<br>
 <br>
 Bij de aankoop van de diensten, vermeld in het eerste lid, wordt de effectieve deelname gewaarborgd van alle marktdeelnemers, waaronder marktdeelnemers die energie uit hernieuwbare bronnen aanbieden, marktdeelnemers die aan vraagrespons en flexibiliteit doen, exploitanten van elektriciteitsopslagfaciliteiten, dienstverleners van flexibiliteit en marktdeelnemers die aan aggregatie doen.<br>
 <br>
@@ -1396,7 +1115,7 @@ De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk ve
 
 De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit stellen jaarlijks een rapport op over het vermogen, de opslagcapaciteit en het type van de elektriciteitsopslagfaciliteiten die aan het elektriciteitsdistributienet en aan het plaatselijk vervoernet van elektriciteit gekoppeld worden.<br>
 <br>
-Het rapport wordt bekendgemaakt op de website van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en ter informatie aan de VREG en de minister bezorgd.<br>
+Het rapport wordt bekendgemaakt op de website van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit en ter informatie aan de Vlaamse Nutsregulator en de minister bezorgd.<br>
 <br>
 De Vlaamse Regering bepaalt de timing voor de publicatie en het indienen van het rapport.
 
@@ -1431,21 +1150,21 @@ Een netbeheerder kan de toegang tot zijn net voor een toegangshouder bovendien w
 <br>
 § 3. Bij een weigering, beëindiging of opschorting van de toegang tot zijn net stuurt de netbeheerder aan de aanvrager van de toegang tot zijn net of aan de toegangshouder een schriftelijke en gemotiveerde verklaring.<br>
 <br>
-De netbeheerder kan de toegang tot zijn net alleen opschorten of beëindigen na voorafgaande toestemming door de VREG, tenzij in één van de volgende gevallen :<br>
+De netbeheerder kan de toegang tot zijn net alleen opschorten of beëindigen na voorafgaande toestemming door de Vlaamse Nutsregulator, tenzij in één van de volgende gevallen :<br>
 1° bij overmacht of een noodsituatie, zoals omschreven in het van toepassing zijnde technisch reglement;<br>
 2° ...;<br>
 3° de netbeheerder oordeelt dat er een ernstig risico bestaat voor de veiligheid van personen of materieel;<br>
 4° voor een individueel toegangspunt, het aansluitingsvermogen op aanzienlijke wijze overschreden wordt.<br>
 <br>
-§ 3/1. De netbeheerder is verplicht om een bemiddeling op te starten bij de VREG indien hij in het geval, vermeld in paragraaf 2, derde lid, de toegang tot het net wil weigeren of beëindigen, behoudens in de gevallen waar geen voorafgaande toestemming door de VREG is vereist.<br>
+§ 3/1. De netbeheerder is verplicht om een bemiddeling op te starten bij de Vlaamse Nutsregulator indien hij in het geval, vermeld in paragraaf 2, derde lid, de toegang tot het net wil weigeren of beëindigen, behoudens in de gevallen waar geen voorafgaande toestemming door de Vlaamse Nutsregulator is vereist.<br>
 <br>
-§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit kan overeenkomstig artikel 3.1.4/3, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de VREG. De Vlaamse Regering stelt de beroepsprocedure vast, na advies van de VREG. Als de VREG, bij de behandeling van het beroep, van mening is dat de weigering, opschorting of beëindiging van de toegang onterecht was, geeft de netbeheerder de betrokken persoon alsnog of opnieuw toegang tot zijn net.
+§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit kan overeenkomstig artikel 4.1.35, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de Vlaamse Nutsregulator. De Vlaamse Regering stelt de beroepsprocedure vast, na advies van de Vlaamse Nutsregulator. Als de Vlaamse Nutsregulator, bij de behandeling van het beroep, van mening is dat de weigering, opschorting of beëindiging van de toegang onterecht was, geeft de netbeheerder de betrokken persoon alsnog of opnieuw toegang tot zijn net.
 
 ### ART. 4.1.18/1.
 
 De elektriciteitsdistributienetbeheerders werken samen met de transmissienetbeheerder voor de effectieve deelname van marktdeelnemers op de detailhandels-, groothandels- en balanceringsmarkten die aan hun net zijn verbonden. Conform artikel 57 van verordening (EU) 2019/943 van het Europees Parlement en de Raad van 5 juni 2019 betreffende de interne markt voor elektriciteit en artikel 182 van verordening (EU) 2017/1485 van de Commissie van 2 augustus 2017 tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen wordt met de transmissienetbeheerder in kwestie overeenstemming bereikt over de levering van balanceringsdiensten die voortvloeien uit bronnen in het elektriciteitsdistributienet en plaatselijk vervoernet van elektriciteit.<br>
 <br>
-De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit stellen technische specificaties op voor de deelname aan de markten, vermeld in het eerste lid, op basis van de technische kenmerken van die markten en de mogelijkheden van alle marktdeelnemers. Die specificaties worden opgesteld in nauwe samenwerking met alle marktdeelnemers die aangesloten zijn op het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, of met de marktdeelnemers die een beroep doen op deelnemers aan flexibiliteit die aangesloten zijn op het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, en ook met de transmissienetbeheerder. Die specificaties worden ter goedkeuring voorgelegd aan de VREG.
+De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit stellen technische specificaties op voor de deelname aan de markten, vermeld in het eerste lid, op basis van de technische kenmerken van die markten en de mogelijkheden van alle marktdeelnemers. Die specificaties worden opgesteld in nauwe samenwerking met alle marktdeelnemers die aangesloten zijn op het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, of met de marktdeelnemers die een beroep doen op deelnemers aan flexibiliteit die aangesloten zijn op het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit, en ook met de transmissienetbeheerder. Die specificaties worden ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.
 
 ### ART 4.1.18/2.
 
@@ -1455,7 +1174,7 @@ Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen ins
 
 ### ART. 4.1.19.
 
-§ 1. De ontwikkeling van het distributienet en plaatselijk vervoernet van elektriciteit wordt gebaseerd op een transparant investeringsplan dat tweejaarlijks door de distributienetbeheerder en tweejaarlijks door de beheerder van het plaatselijk vervoernet van elektriciteit bij de VREG wordt ingediend, telkens voor het net dat hij beheert.<br>
+§ 1. De ontwikkeling van het distributienet en plaatselijk vervoernet van elektriciteit wordt gebaseerd op een transparant investeringsplan dat tweejaarlijks door de distributienetbeheerder en tweejaarlijks door de beheerder van het plaatselijk vervoernet van elektriciteit bij de Vlaamse Nutsregulator wordt ingediend, telkens voor het net dat hij beheert.<br>
 <br>
 Het investeringsplan van de elektriciteitsdistributienetbeheerders bevat al de volgende elementen:<br>
 1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie en de toekomstverwachtingen in verband met decentrale productie voor een periode van drie en tien jaar, met aanduiding van de onderliggende hypothesen;<br>
@@ -1495,13 +1214,13 @@ Het technisch reglement kan nader bepalen welke bijkomende informatie kan worden
 <br>
 § 2. De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit consulteren alle relevante netgebruikers, de relevante gebruikers van het plaatselijk vervoernet van elektriciteit en de transmissienetbeheerder over het investeringsplan, vermeld in paragraaf 1.<br>
 <br>
-De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen de resultaten van de publieke consultatie, vermeld in het eerste lid, samen met het investeringsplan, vermeld in paragraaf 1, aan de VREG.<br>
+De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen de resultaten van de publieke consultatie, vermeld in het eerste lid, samen met het investeringsplan, vermeld in paragraaf 1, aan de Vlaamse Nutsregulator.<br>
 <br>
-§ 3. Het investeringsplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de VREG.<br>
+§ 3. Het investeringsplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.<br>
 <br>
-De VREG maakt zijn beslissing binnen negentig dagen na de dag waarop hij het investeringsplan heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de netbeheerder. Als de VREG aan de netbeheerder bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen met dertig dagen verlengd, vanaf de dag nadat de bijkomende inlichtingen werden gevraagd.<br>
+De Vlaamse Nutsregulator maakt zijn beslissing binnen negentig dagen na de dag waarop hij het investeringsplan heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de netbeheerder. Als de Vlaamse Nutsregulator aan de netbeheerder bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen met dertig dagen verlengd, vanaf de dag nadat de bijkomende inlichtingen werden gevraagd.<br>
 <br>
-De VREG kan, na overleg, de netbeheerder verplichten om het investeringsplan binnen een redelijke termijn aan te passen.<br>
+De Vlaamse Nutsregulator kan, na overleg, de netbeheerder verplichten om het investeringsplan binnen een redelijke termijn aan te passen.<br>
 <br>
 Het goedgekeurde investeringsplan wordt op de website van de netbeheerder bekendgemaakt.<br>
 <br>
@@ -1545,15 +1264,33 @@ Het goedgekeurde databeheersplan wordt op de website van de netbeheerder bekendg
 
 ### ART. 4.1.20.
 
-De Vlaamse Regering kan, na advies van de VREG, de netbeheerders openbaredienstverplichtingen opleggen met betrekking tot hun dienstverlening aan afnemers en aanvragers van een aansluiting op hun net.<br /><br />Die openbaredienstverplichtingen kunnen onder meer handelen over :<br />1° de informatieverlening en het eventueel voorafgaand overleg bij een onderbreking van de elektriciteits- en aardgastoevoer voor aanleg, onderhoud en herstelling van het net;<br />2° de karakteristieken van de geleverde elektrische spanning, aardgasdruk en aardgaskwaliteit op het toegangspunt;<br />3° de termijnen waarbinnen aanvragen voor nieuwe aansluitingen en aanpassingen van aansluitingen behandeld en uitgevoerd worden;<br />4° de termijnen waarbinnen klachten en vragen van afnemers behandeld worden;<br />5° de facturatie aan afnemers;<br />6° de informatieverlening aan afnemers en aanvragers van een aansluiting op het net;<br />7° de behandeling van klachten van afnemers en aanvragers van een aansluiting op het net.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de netbeheerders openbaredienstverplichtingen opleggen met betrekking tot hun dienstverlening aan afnemers en aanvragers van een aansluiting op hun net.<br>
+<br>
+Die openbaredienstverplichtingen kunnen onder meer handelen over :<br>
+1° de informatieverlening en het eventueel voorafgaand overleg bij een onderbreking van de elektriciteits- en aardgastoevoer voor aanleg, onderhoud en herstelling van het net;<br>
+2° de karakteristieken van de geleverde elektrische spanning, aardgasdruk en aardgaskwaliteit op het toegangspunt;<br>
+3° de termijnen waarbinnen aanvragen voor nieuwe aansluitingen en aanpassingen van aansluitingen behandeld en uitgevoerd worden;<br>
+4° de termijnen waarbinnen klachten en vragen van afnemers behandeld worden;<br>
+5° de facturatie aan afnemers;<br>
+6° de informatieverlening aan afnemers en aanvragers van een aansluiting op het net;<br>
+7° de behandeling van klachten van afnemers en aanvragers van een aansluiting op het net.
 
 ### ART. 4.1.21.
 
-De Vlaamse Regering kan, na advies van de VREG, de netbeheerders openbaredienstverplichtingen opleggen met betrekking tot hun dienstverlening aan de leveranciers die toegang hebben tot hun net en/of hun aangestelden.<br /><br />Deze openbaredienstverplichtingen kunnen onder meer handelen over de termijnen waarbinnen meetgegevens en de aansluitingsgegevens van de klanten van de leverancier door de netbeheerder worden overgemaakt aan de leverancier en/of zijn aangestelde.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de netbeheerders openbaredienstverplichtingen opleggen met betrekking tot hun dienstverlening aan de leveranciers die toegang hebben tot hun net en/of hun aangestelden.<br>
+<br>
+Deze openbaredienstverplichtingen kunnen onder meer handelen over de termijnen waarbinnen meetgegevens en de aansluitingsgegevens van de klanten van de leverancier door de netbeheerder worden overgemaakt aan de leverancier en/of zijn aangestelde.
 
 ### ART. 4.1.22.
 
-De Vlaamse Regering kan, na advies van de VREG, de netbeheerders extra openbaredienstverplichtingen opleggen naast de openbaredienstverplichtingen van dit decreet, met betrekking tot :<br />1° hun investeringen in het net;<br />2° de levering van elektriciteit of aardgas aan iedere afnemer die elektriciteit of aardgas koopt voor eigen huishoudelijk gebruik en niet voor commerciële of professionele activiteiten die niet over een leveringscontract beschikken of van wie de leverancier zijn verplichtingen niet nakomt, doordat de toegang tot het distributienet beëindigd wordt of doordat hij, om welke reden dan ook, geen elektriciteit of aardgas meer kan leveren aan zijn afnemers;<br />3° de procedure die de netbeheerder moet volgen bij wanbetaling door de afnemer;<br />4° maatregelen van sociale aard, zoals de plaatsing en de exploitatie van budgetmeters voor elektriciteit, budgetmeters voor aardgas en van stroombegrenzers;<br />5° de exploitatie van openbare verlichting.<br /><br />De gemeenten en de openbare centra voor maatschappelijk welzijn verlenen hun medewerking aan de netbeheerders bij de uitvoering van de openbaredienstverplichtingen die hun opgelegd zijn volgens dit decreet of de uitvoeringsbepalingen ervan. De Vlaamse Regering bepaalt de vorm waarin die medewerking zal bestaan.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de netbeheerders extra openbaredienstverplichtingen opleggen naast de openbaredienstverplichtingen van dit decreet, met betrekking tot :<br>
+1° hun investeringen in het net;<br>
+2° de levering van elektriciteit of aardgas aan iedere afnemer die elektriciteit of aardgas koopt voor eigen huishoudelijk gebruik en niet voor commerciële of professionele activiteiten die niet over een leveringscontract beschikken of van wie de leverancier zijn verplichtingen niet nakomt, doordat de toegang tot het distributienet beëindigd wordt of doordat hij, om welke reden dan ook, geen elektriciteit of aardgas meer kan leveren aan zijn afnemers;<br>
+3° de procedure die de netbeheerder moet volgen bij wanbetaling door de afnemer;<br>
+4° maatregelen van sociale aard, zoals de plaatsing en de exploitatie van budgetmeters voor elektriciteit, budgetmeters voor aardgas en van stroombegrenzers;<br>
+5° de exploitatie van openbare verlichting.<br>
+<br>
+De gemeenten en de openbare centra voor maatschappelijk welzijn verlenen hun medewerking aan de netbeheerders bij de uitvoering van de openbaredienstverplichtingen die hun opgelegd zijn volgens dit decreet of de uitvoeringsbepalingen ervan. De Vlaamse Regering bepaalt de vorm waarin die medewerking zal bestaan.
 
 ### ART. 4.1.22/1.
 
@@ -1617,7 +1354,7 @@ De betrokkene behoudt de zeggenschap over zijn persoonsgegevens uit de digitale 
 De netbeheerder of zijn werkmaatschappij verleent, met inachtneming van het tweede lid en hetgeen bepaald is in artikel 4.1.8/2, aan de volgende partijen toegang tot de gegevens verzameld uit de digitale, elektronische of analoge meter:<br>
 1° de overheden voor de gegevens die ze gemachtigd zijn te kennen uit hoofde van een wet, een decreet of een ordonnantie;<br>
 2° de instellingen en de natuurlijke personen of rechtspersonen voor de informatie die ze nodig hebben om de opdrachten van algemeen belang te vervullen die hun zijn toevertrouwd door of krachtens een wet, een decreet of een ordonnantie;<br>
-3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de transmissienetbeheerder, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters,&nbsp;dienstverleners van flexibiliteit, aggregatoren, evenwichtsverantwoordelijken en de VREG;<br>
+3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de transmissienetbeheerder, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters,&nbsp;dienstverleners van flexibiliteit, aggregatoren, evenwichtsverantwoordelijken en de Vlaamse Nutsregulator;<br>
 4° de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt;<br>
 5° een andere partij, op voorwaarde dat de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt, toestemming heeft gegeven aan die partij;<br>
 6° elke partij voor zover de gegevens die worden verwerkt volledig geanonimiseerd zijn.<br>
@@ -1701,11 +1438,11 @@ De openbare centra voor maatschappelijk welzijn verwerken de gegevens, vermeld i
 
 ### ART 4.1.22/12.
 
-De VREG verwerkt technische gegevens, relationele gegevens en meetgegevens, waartoe hij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang heeft, met het oog op het uitvoeren van zijn taken die hem worden opgelegd door of krachtens dit decreet.<br>
+De Vlaamse Nutsregulator verwerkt technische gegevens, relationele gegevens en meetgegevens, waartoe hij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang heeft, met het oog op het uitvoeren van zijn taken die hem worden opgelegd door of krachtens dit decreet.<br>
 <br>
 Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
 <br>
-Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid, is de VREG de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid, is de Vlaamse Nutsregulator de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART 4.1.22/13.
 
@@ -1837,7 +1574,13 @@ De aansluiting op en het gebruik van het distributienet voor de afname en/of inj
 
 ### ART. 4.1.30.
 
-§ 1. De VREG stelt een tariefmethodologie op en oefent zijn   tariefbevoegdheid uit om aldus een stabiele en voorzienbare regulering te   bevorderen die bijdraagt tot de goede werking van de vrijgemaakte markt en die   de distributienetbeheerders in staat stelt de noodzakelijke investeringen in hun   distributienetten uit te voeren.<BR><BR>§ 2. De VREG oefent zijn   tariefbevoegdheid uit, rekening houdend met het algemene energiebeleid zoals   gedefinieerd op Europees, federaal en gewestelijk niveau.<BR><BR>§ 3. De VREG   motiveert volledig en op omstandige wijze zijn tariefbeslissingen, zowel op het   vlak van de tariefmethodologieën als op het vlak van de tarieven. Indien een   beslissing op economische of technische overwegingen steunt, maakt de motivering   melding van alle elementen die de beslissing rechtvaardigen. Indien deze   beslissingen op een vergelijking steunen, omvat de motivering alle gegevens die   in aanmerking werden genomen om deze vergelijking te maken.<BR><BR>§ 4. De   tarieven die van toepassing zijn, kunnen niet met terugwerkende kracht worden   aangepast, zonder echter afbreuk te doen aan de verrekening van de saldi, of de   compensatiemaatregelen na voorlopige tarieven.
+§ 1. De Vlaamse Nutsregulator stelt een tariefmethodologie op en oefent zijn tariefbevoegdheid uit om aldus een stabiele en voorzienbare regulering te bevorderen die bijdraagt tot de goede werking van de vrijgemaakte markt en die de distributienetbeheerders in staat stelt de noodzakelijke investeringen in hun distributienetten uit te voeren.<br>
+<br>
+§ 2. De Vlaamse Nutsregulator oefent zijn tariefbevoegdheid uit, rekening houdend met het algemene energiebeleid zoals gedefinieerd op Europees, federaal en gewestelijk niveau.<br>
+<br>
+§ 3. De Vlaamse Nutsregulator motiveert volledig en op omstandige wijze zijn tariefbeslissingen, zowel op het vlak van de tariefmethodologieën als op het vlak van de tarieven. Indien een beslissing op economische of technische overwegingen steunt, maakt de motivering melding van alle elementen die de beslissing rechtvaardigen. Indien deze beslissingen op een vergelijking steunen, omvat de motivering alle gegevens die in aanmerking werden genomen om deze vergelijking te maken.<br>
+<br>
+§ 4. De tarieven die van toepassing zijn, kunnen niet met terugwerkende kracht worden aangepast, zonder echter afbreuk te doen aan de verrekening van de saldi, of de compensatiemaatregelen na voorlopige tarieven.
 
 ### ART 4.1.30/1.
 
@@ -1847,38 +1590,38 @@ De aansluiting op en het gebruik van het distributienet voor de afname en/of inj
 
 ### ART. 4.1.31.
 
-§ 1. Na gestructureerd, gedocumenteerd en transparant overleg met de distributienetbeheerders, werkt de VREG het ontwerp van tariefmethodologie uit die deze distributienetbeheerders moeten gebruiken voor het opstellen van hun tariefvoorstellen.<br>
+§ 1. Na gestructureerd, gedocumenteerd en transparant overleg met de distributienetbeheerders, werkt de Vlaamse Nutsregulator het ontwerp van tariefmethodologie uit die deze distributienetbeheerders moeten gebruiken voor het opstellen van hun tariefvoorstellen.<br>
 <br>
-De overlegprocedure, vermeld in het eerste lid, komt tot stand met akkoord van en in samenspraak met de distributienetbeheerders. Bij gebrek aan een akkoord tussen de VREG en de distributienetbeheerders over de overlegprocedure, wordt het overleg ten minste gehouden als volgt:<br>
-1° de VREG stuurt de oproeping voor de overlegvergadering naar de distributienetbeheerders. De VREG maakt die oproeping minstens acht kalenderdagen vóór de vergadering in kwestie op zijn website bekend alsook de documentatie met betrekking tot de agendapunten van die overlegvergadering. De oproeping vermeldt de plaats, de datum en het uur van de overlegvergadering, alsook de agendapunten;<br>
-2° na de overlegvergadering stelt de VREG een ontwerp van proces-verbaal op van de overlegvergadering waarin de argumenten van de verschillende partijen worden opgenomen, alsook de vastgestelde punten waarover wel of geen overeenstemming bestaat. De VREG zendt dat verslag ter goedkeuring over aan de aanwezige partijen binnen acht kalenderdagen na de overlegvergadering.<br>
+De overlegprocedure, vermeld in het eerste lid, komt tot stand met akkoord van en in samenspraak met de distributienetbeheerders. Bij gebrek aan een akkoord tussen de Vlaamse Nutsregulator en de distributienetbeheerders over de overlegprocedure, wordt het overleg ten minste gehouden als volgt:<br>
+1° de Vlaamse Nutsregulator stuurt de oproeping voor de overlegvergadering naar de distributienetbeheerders. De Vlaamse Nutsregulator maakt die oproeping minstens acht kalenderdagen vóór de vergadering in kwestie op zijn website bekend alsook de documentatie met betrekking tot de agendapunten van die overlegvergadering. De oproeping vermeldt de plaats, de datum en het uur van de overlegvergadering, alsook de agendapunten;<br>
+2° na de overlegvergadering stelt de Vlaamse Nutsregulator een ontwerp van proces-verbaal op van de overlegvergadering waarin de argumenten van de verschillende partijen worden opgenomen, alsook de vastgestelde punten waarover wel of geen overeenstemming bestaat. De Vlaamse Nutsregulator zendt dat verslag ter goedkeuring over aan de aanwezige partijen binnen acht kalenderdagen na de overlegvergadering.<br>
 <br>
-§ 2. De VREG organiseert een openbare raadpleging over het ontwerp van tariefmethodologie. Tijdens die raadpleging krijgen alle belanghebbenden gedurende minstens vijfenveertig kalenderdagen de tijd om hun opmerkingen aan de VREG te bezorgen. Na afloop van die periode publiceert de VREG daarover binnen vijfenveertig kalenderdagen een gemotiveerd consultatieverslag.<br>
+§ 2. De Vlaamse Nutsregulator organiseert een openbare raadpleging over het ontwerp van tariefmethodologie. Tijdens die raadpleging krijgen alle belanghebbenden gedurende minstens vijfenveertig kalenderdagen de tijd om hun opmerkingen aan de Vlaamse Nutsregulator te bezorgen. Na afloop van die periode publiceert de Vlaamse Nutsregulator daarover binnen vijfenveertig kalenderdagen een gemotiveerd consultatieverslag.<br>
 <br>
-§ 3. Na het volgen van de procedure, vermeld in paragraaf 1 en 2, stelt de VREG de tariefmethodologie vast. Onverminderd de toepassing van de algemene boekhoudkundige normen en regels, preciseert die tariefmethodologie onder andere:<br>
+§ 3. Na het volgen van de procedure, vermeld in paragraaf 1 en 2, stelt de Vlaamse Nutsregulator de tariefmethodologie vast. Onverminderd de toepassing van de algemene boekhoudkundige normen en regels, preciseert die tariefmethodologie onder andere:<br>
 1° de definitie van de kostencategorieën;<br>
 2° de algemene tariefstructuur, tariefdragers en de klantengroepen.<br>
 <br>
-§ 4. Met inachtneming van de vertrouwelijkheid van informatie met een persoonlijk karakter of commercieel gevoelige informatie met betrekking tot de distributienetbeheerders, leveranciers of de netgebruikers publiceert de VREG op zijn website de toepasselijke tariefmethodologie, het geheel van de stukken met betrekking tot het overleg met de distributienetbeheerders, het gemotiveerd consultatieverslag, en alle documenten die nuttig worden geacht voor de motivering van de beslissing van de VREG over de tariefmethodologie.<br>
+§ 4. Met inachtneming van de vertrouwelijkheid van informatie met een persoonlijk karakter of commercieel gevoelige informatie met betrekking tot de distributienetbeheerders, leveranciers of de netgebruikers publiceert de Vlaamse Nutsregulator op zijn website de toepasselijke tariefmethodologie, het geheel van de stukken met betrekking tot het overleg met de distributienetbeheerders, het gemotiveerd consultatieverslag, en alle documenten die nuttig worden geacht voor de motivering van de beslissing van de Vlaamse Nutsregulator over de tariefmethodologie.<br>
 <br>
-§ 5. De VREG heeft de mogelijkheid om de tariefmethodologie gedurende de reguleringsperiode op elk moment en in afwijking van de termijnen, vermeld in paragraaf 1 en 2, op eigen initiatief te wijzigen.
+§ 5. De Vlaamse Nutsregulator heeft de mogelijkheid om de tariefmethodologie gedurende de reguleringsperiode op elk moment en in afwijking van de termijnen, vermeld in paragraaf 1 en 2, op eigen initiatief te wijzigen.
 
 ## [Onderafdeling IV. Richtsnoeren voor het opstellen van de tariefmethodologie (ing. decr. 27 november 2015, art. 15, I: 10 december 2015)]
 
 ### ART. 4.1.32.
 
-§ 1. De VREG stelt de tariefmethodologie op met inachtneming van de volgende richtsnoeren:<br>
+§ 1. De Vlaamse Nutsregulator stelt de tariefmethodologie op met inachtneming van de volgende richtsnoeren:<br>
 1° de tariefmethodologie is volledig en transparant, zodat het voor de distributienetbeheerders mogelijk is om hun tariefvoorstellen op basis van de tariefmethodologie op te stellen. Ze bevat de elementen die verplicht zijn in het tariefvoorstel. Ze definieert rapporteringsmodellen die de distributienetbeheerders moeten gebruiken;<br>
-2° onverminderd de mogelijkheid om conform artikel 4.1.33, § 4, de tariefmethodologie tussentijds te herzien, stelt de tariefmethodologie het aantal jaren vast van de reguleringsperiode die aanvangt op 1 januari van het jaar dat volgt op het jaar waarin de VREG de tariefmethodologie heeft vastgesteld;<br>
+2° onverminderd de mogelijkheid om conform artikel 4.1.33, § 4, de tariefmethodologie tussentijds te herzien, stelt de tariefmethodologie het aantal jaren vast van de reguleringsperiode die aanvangt op 1 januari van het jaar dat volgt op het jaar waarin de Vlaamse Nutsregulator de tariefmethodologie heeft vastgesteld;<br>
 2° /1 de tariefmethodologie zorgt ervoor dat het niet mogelijk is dat meermaals aardgas- of elektriciteitsdistributienettarieven worden aangerekend voor hetzelfde gebruik van het aardgasdistributienet of elektriciteitsdistributienet;<br>
 3° de criteria voor de verwerping van kosten zijn niet-discriminerend en transparant;<br>
 4° de tarieven zijn niet-discriminerend en proportioneel;<br>
 5° de tarieven zijn een afspiegeling van de werkelijk gemaakte kosten, voor zover deze overeenkomen met die van een efficiënte vergelijkbare entiteit of activiteit;<br>
-6° de tarieven strekken ertoe een juist evenwicht te bieden tussen de kwaliteit van de gepresteerde diensten en de prijzen die door de netgebruikers worden gedragen. Dit wordt door de VREG onder andere gecontroleerd door middel van een vergelijking met distributienetactiviteiten in de andere gewesten en de buurlanden;<br>
+6° de tarieven strekken ertoe een juist evenwicht te bieden tussen de kwaliteit van de gepresteerde diensten en de prijzen die door de netgebruikers worden gedragen. Dit wordt door de Vlaamse Nutsregulator onder andere gecontroleerd door middel van een vergelijking met distributienetactiviteiten in de andere gewesten en de buurlanden;<br>
 7° de verschillende tarieven worden gevormd op basis van een uniforme structuur op het grondgebied dat de distributienetbeheerder beheert;<br>
 8° in geval van fusie of wijzigingen van distributienetbeheerders kunnen tot het einde van de op het moment van die fusie of van die wijzigingen lopende evenals de daaropvolgende reguleringsperiode in elke geografische zone verschillende tarieven verder worden toegepast;<br>
 9° de vergoeding van in de gereguleerde activa geïnvesteerde kapitalen moet de distributienetbeheerder toelaten om de noodzakelijke investeringen te doen voor de uitoefening van zijn opdrachten en maakt een toegang tot kapitaal mogelijk;<br>
-10° de kosten voor de openbaredienstverplichtingen die worden opgelegd door of krachtens het decreet, en die niet worden gefinancierd door belastingen, taksen, subsidies, bijdragen en heffingen, worden op een transparante en niet-discriminerende wijze verrekend in de tarieven na controle door de VREG;<br>
+10° de kosten voor de openbaredienstverplichtingen die worden opgelegd door of krachtens het decreet, en die niet worden gefinancierd door belastingen, taksen, subsidies, bijdragen en heffingen, worden op een transparante en niet-discriminerende wijze verrekend in de tarieven na controle door de Vlaamse Nutsregulator;<br>
 11° de tariefmethodologie bepaalt de nadere regels voor de integratie en controle van de gestrande kosten, die bestaan uit de lasten voor het niet-gekapitaliseerde aanvullend pensioen of het pensioen van de publieke sector, die worden betaald aan personeelsleden die een gereguleerde distributieactiviteit hebben verricht, die verschuldigd zijn krachtens statuten, collectieve arbeidsovereenkomsten of andere voldoende geformaliseerde overeenkomsten, die werden goedgekeurd vóór 30 april 1999, of die worden betaald aan hun rechthebbenden of vergoed aan hun werkgever door een distributienetbeheerder, die in de tarieven kunnen worden opgenomen;<br>
 12° de tariefmethodologie bepaalt de wijze van vaststelling van de positieve of negatieve saldi van de kosten, vermeld in 10° en 11°, en andere kosten of inkomsten die worden gerecupereerd of teruggegeven via de tarieven;<br>
 13° de productiviteitsinspanningen die aan de distributienetbeheerders worden opgelegd mogen op korte en op lange termijn noch de veiligheid van personen en goederen noch de continuïteit van de levering in het gedrang brengen;<br>
@@ -1897,49 +1640,69 @@ e) de aansluiting van opwekkingsbronnen vanuit een locatie dichterbij het verbru
 f) energieopslag;<br>
 21° bij de invoering van een capaciteitstarief houden de tarieven rekening met regionaal objectiveerbare verschillen.<br>
 <br>
-§ 2. De VREG kan de kosten van de distributienetbeheerders controleren en in voorkomend geval verwerpen, in het licht van de toepasselijke wettelijke, decretale en reglementaire bepalingen, en van de beoordelingscriteria, vermeld in paragraaf 1, 3°.
+§ 2. De Vlaamse Nutsregulator kan de kosten van de distributienetbeheerders controleren en in voorkomend geval verwerpen, in het licht van de toepasselijke wettelijke, decretale en reglementaire bepalingen, en van de beoordelingscriteria, vermeld in paragraaf 1, 3°.
 
 ## [Onderafdeling V. Procedure voor het indienen en goedkeuren van de tariefvoorstellen (ing. decr. 27 november 2015, art. 17, I: 10 december 2015)]
 
 ### ART. 4.1.33.
 
-§ 1. De distributienetbeheerders stellen hun tariefvoorstellen op met inachtneming van de tariefmethodologie en dienen die in bij de VREG, met inachtneming van de indienings- en goedkeuringsprocedure voor de tariefvoorstellen.<br>
+§ 1. De distributienetbeheerders stellen hun tariefvoorstellen op met inachtneming van de tariefmethodologie en dienen die in bij de Vlaamse Nutsregulator, met inachtneming van de indienings- en goedkeuringsprocedure voor de tariefvoorstellen.<br>
 <br>
-§ 2. De VREG onderzoekt het tariefvoorstel, beslist over de goedkeuring ervan en deelt zijn gemotiveerde beslissing mee aan de distributienetbeheerder met inachtneming van de indienings- en goedkeuringsprocedure voor de tariefvoorstellen.<br>
+§ 2. De Vlaamse Nutsregulator onderzoekt het tariefvoorstel, beslist over de goedkeuring ervan en deelt zijn gemotiveerde beslissing mee aan de distributienetbeheerder met inachtneming van de indienings- en goedkeuringsprocedure voor de tariefvoorstellen.<br>
 <br>
-§ 3. De VREG stelt de indienings- en goedkeuringsprocedure voor de tariefvoorstellen op met akkoord van en in samenspraak met de distributienetbeheerders. Bij gebrek aan een akkoord is de procedure als volgt:<br>
-1° de distributienetbeheerder dient binnen dertig kalenderdagen op voorstel van de VREG zijn tariefvoorstel in voor het volgende jaar in de vorm van het rapporteringsmodel dat de VREG vaststelt overeenkomstig artikel 4.1.32, § 1, 1° ;<br>
-2° de distributienetbeheerder bezorgt het tariefvoorstel in één exemplaar met een aangetekende brief aan de VREG of geeft het af tegen ontvangstbewijs. De distributienetbeheerder bezorgt tegelijk een elektronische versie van het tariefvoorstel dat de VREG kan bewerken;<br>
-3° binnen vijftien kalenderdagen na de ontvangst van het tariefvoorstel bevestigt de VREG aan de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook per e-mail, dat het dossier volledig is of bezorgt de distributienetbeheerder een lijst van aanvullende inlichtingen of vragen die de distributienetbeheerder moet verstrekken of beantwoorden. Binnen vijftien kalenderdagen na ontvangst van de voormelde lijst, verstrekt de distributienetbeheerder de gevraagde aanvullende inlichtingen, antwoorden en, in voorkomend geval, een aangepast tariefvoorstel met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze aan de VREG. De onder dit punt vermelde procedure tot bekomen van bijkomende inlichtingen kan herhaald worden indien de VREG dit nuttig acht;<br>
-4° binnen vijftien kalenderdagen na ontvangst van het tariefvoorstel, vermeld in punt 2°, of, in voorkomend geval, binnen vijftien kalenderdagen na ontvangst van de laatste antwoorden en de laatste aanvullende inlichtingen en, in voorkomend geval, een aangepast tariefvoorstel, van de distributienetbeheerder, vermeld in punt 3°, brengt de VREG de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze op de hoogte van zijn ontwerp van beslissing over het tariefvoorstel in kwestie. Ingeval de VREG in zijn ontwerp beslist tot weigering van het tariefvoorstel geeft de VREG op gemotiveerde wijze aan welke punten de distributienetbeheerder moet aanpassen overeenkomstig de tariefmethodologie om een beslissing tot goedkeuring van de VREG te verkrijgen;<br>
-5° als de VREG een ontwerp van beslissing tot weigering van het tariefvoorstel aan de distributienetbeheerder bezorgt, kan de distributienetbeheerder binnen vijftien kalenderdagen na ontvangst van dat ontwerp van beslissing zijn bezwaren daarover meedelen aan de VREG. Die bezwaren worden afgegeven tegen ontvangstbewijs of met een aangetekende brief verzonden aan de VREG, en tegelijk op elektronische wijze. De distributienetbeheerder kan binnen vijftien kalenderdagen na ontvangst van het ontwerp van beslissing tot weigering van het tariefvoorstel, zijn aangepaste tariefvoorstel in één exemplaar met een aangetekende brief of door afgifte met ontvangstbewijs aan de VREG bezorgen. De distributienetbeheerder bezorgt tegelijk een elektronische kopie aan de VREG. Binnen vijftien kalenderdagen nadat de VREG het ontwerp van de beslissing over het tariefvoorstel of, in voorkomend geval, binnen vijftien kalenderdagen na ontvangst van de bezwaren en in voorkomend geval het aangepaste tariefvoorstel, heeft verzonden, brengt de VREG de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook elektronisch, op de hoogte van zijn beslissing tot goedkeuring of weigering van het in voorkomend geval aangepaste tariefvoorstel;<br>
-6° als de distributienetbeheerder zijn verplichtingen niet nakomt binnen de termijnen, vermeld in de punten 1° tot 5°, of als de VREG een beslissing heeft genomen tot weigering van het tariefvoorstel of tot weigering van het aangepaste tariefvoorstel, zijn voorlopige tarieven die de VREG oplegt, van kracht, tot de distributienetbeheerder zijn verplichtingen, vermeld in de punten 1° tot 5°, alsnog is nagekomen, tot alle rechtsmiddelen van de distributienetbeheerder of van de VREG zijn uitgeput, of tot over de twistpunten tussen de VREG en de distributienetbeheerder een akkoord wordt bereikt. De VREG is bevoegd om te besluiten tot passende compenserende maatregelen als de definitieve tarieven afwijken van de voorlopige tarieven.<br>
+§ 3. De Vlaamse Nutsregulator stelt de indienings- en goedkeuringsprocedure voor de tariefvoorstellen op met akkoord van en in samenspraak met de distributienetbeheerders. Bij gebrek aan een akkoord is de procedure als volgt:<br>
+1° de distributienetbeheerder dient binnen dertig kalenderdagen op voorstel van de Vlaamse Nutsregulator zijn tariefvoorstel in voor het volgende jaar in de vorm van het rapporteringsmodel dat de Vlaamse Nutsregulator vaststelt overeenkomstig artikel 4.1.32, § 1, 1° ;<br>
+2° de distributienetbeheerder bezorgt het tariefvoorstel in één exemplaar met een aangetekende brief aan de Vlaamse Nutsregulator of geeft het af tegen ontvangstbewijs. De distributienetbeheerder bezorgt tegelijk een elektronische versie van het tariefvoorstel dat de Vlaamse Nutsregulator kan bewerken;<br>
+3° binnen vijftien kalenderdagen na de ontvangst van het tariefvoorstel bevestigt de Vlaamse Nutsregulator aan de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook per e-mail, dat het dossier volledig is of bezorgt de distributienetbeheerder een lijst van aanvullende inlichtingen of vragen die de distributienetbeheerder moet verstrekken of beantwoorden. Binnen vijftien kalenderdagen na ontvangst van de voormelde lijst, verstrekt de distributienetbeheerder de gevraagde aanvullende inlichtingen, antwoorden en, in voorkomend geval, een aangepast tariefvoorstel met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze aan de Vlaamse Nutsregulator. De onder dit punt vermelde procedure tot bekomen van bijkomende inlichtingen kan herhaald worden indien de Vlaamse Nutsregulator dit nuttig acht;<br>
+4° binnen vijftien kalenderdagen na ontvangst van het tariefvoorstel, vermeld in punt 2°, of, in voorkomend geval, binnen vijftien kalenderdagen na ontvangst van de laatste antwoorden en de laatste aanvullende inlichtingen en, in voorkomend geval, een aangepast tariefvoorstel, van de distributienetbeheerder, vermeld in punt 3°, brengt de Vlaamse Nutsregulator de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze op de hoogte van zijn ontwerp van beslissing over het tariefvoorstel in kwestie. Ingeval de Vlaamse Nutsregulator in zijn ontwerp beslist tot weigering van het tariefvoorstel geeft de Vlaamse Nutsregulator op gemotiveerde wijze aan welke punten de distributienetbeheerder moet aanpassen overeenkomstig de tariefmethodologie om een beslissing tot goedkeuring van de Vlaamse Nutsregulator te verkrijgen;<br>
+5° als de Vlaamse Nutsregulator een ontwerp van beslissing tot weigering van het tariefvoorstel aan de distributienetbeheerder bezorgt, kan de distributienetbeheerder binnen vijftien kalenderdagen na ontvangst van dat ontwerp van beslissing zijn bezwaren daarover meedelen aan de Vlaamse Nutsregulator. Die bezwaren worden afgegeven tegen ontvangstbewijs of met een aangetekende brief verzonden aan de Vlaamse Nutsregulator, en tegelijk op elektronische wijze. De distributienetbeheerder kan binnen vijftien kalenderdagen na ontvangst van het ontwerp van beslissing tot weigering van het tariefvoorstel, zijn aangepaste tariefvoorstel in één exemplaar met een aangetekende brief of door afgifte met ontvangstbewijs aan de Vlaamse Nutsregulator bezorgen. De distributienetbeheerder bezorgt tegelijk een elektronische kopie aan de Vlaamse Nutsregulator. Binnen vijftien kalenderdagen nadat de Vlaamse Nutsregulator het ontwerp van de beslissing over het tariefvoorstel of, in voorkomend geval, binnen vijftien kalenderdagen na ontvangst van de bezwaren en in voorkomend geval het aangepaste tariefvoorstel, heeft verzonden, brengt de Vlaamse Nutsregulator de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook elektronisch, op de hoogte van zijn beslissing tot goedkeuring of weigering van het in voorkomend geval aangepaste tariefvoorstel;<br>
+6° als de distributienetbeheerder zijn verplichtingen niet nakomt binnen de termijnen, vermeld in de punten 1° tot 5°, of als de Vlaamse Nutsregulator een beslissing heeft genomen tot weigering van het tariefvoorstel of tot weigering van het aangepaste tariefvoorstel, zijn voorlopige tarieven die de Vlaamse Nutsregulator oplegt, van kracht, tot de distributienetbeheerder zijn verplichtingen, vermeld in de punten 1° tot 5°, alsnog is nagekomen, tot alle rechtsmiddelen van de distributienetbeheerder of van de Vlaamse Nutsregulator zijn uitgeput, of tot over de twistpunten tussen de Vlaamse Nutsregulator en de distributienetbeheerder een akkoord wordt bereikt. De Vlaamse Nutsregulator is bevoegd om te besluiten tot passende compenserende maatregelen als de definitieve tarieven afwijken van de voorlopige tarieven.<br>
 <br>
-§ 4. Onverminderd de mogelijkheid van de VREG om&nbsp;de tarieven gedurende de reguleringsperiode te allen tijde en in afwijking van de termijnen uit de procedure, vermeld in paragraaf 3, op eigen initiatief te wijzigen, kan een distributienetbeheerder, voor zover dat strikt noodzakelijk wordt geacht, binnen de reguleringsperiode een gemotiveerde vraag tot herziening van zijn tarieven ter goedkeuring voorleggen aan de VREG. Het gemotiveerd verzoek tot herziening van de tarieven houdt rekening met de tariefmethodologie, zonder de integriteit van de bestaande tariefstructuur te wijzigen. Het gemotiveerd verzoek tot herziening van de tarieven wordt door de distributienetbeheerder ingediend en door de VREG behandeld overeenkomstig de geldende procedure, vermeld in paragraaf 3.<br>
+§ 4. Onverminderd de mogelijkheid van de Vlaamse Nutsregulator om&nbsp;de tarieven gedurende de reguleringsperiode te allen tijde en in afwijking van de termijnen uit de procedure, vermeld in paragraaf 3, op eigen initiatief te wijzigen, kan een distributienetbeheerder, voor zover dat strikt noodzakelijk wordt geacht, binnen de reguleringsperiode een gemotiveerde vraag tot herziening van zijn tarieven ter goedkeuring voorleggen aan de Vlaamse Nutsregulator. Het gemotiveerd verzoek tot herziening van de tarieven houdt rekening met de tariefmethodologie, zonder de integriteit van de bestaande tariefstructuur te wijzigen. Het gemotiveerd verzoek tot herziening van de tarieven wordt door de distributienetbeheerder ingediend en door de Vlaamse Nutsregulator behandeld overeenkomstig de geldende procedure, vermeld in paragraaf 3.<br>
 <br>
-§ 5. Met inachtneming van de vertrouwelijkheid van informatie met een persoonlijk karakter of van commercieel gevoelige informatie met betrekking tot de distributienetbeheerders, leveranciers of de netgebruikers publiceert de VREG op zijn website, op een transparante wijze, de stand van zaken van de goedkeuringsprocedure van de tariefvoorstellen, de ontwerpen van tarifaire beslissingen en, in voorkomend geval, de goedgekeurde tariefvoorstellen die de distributienetbeheerders hebben ingediend.<br>
+§ 5. Met inachtneming van de vertrouwelijkheid van informatie met een persoonlijk karakter of van commercieel gevoelige informatie met betrekking tot de distributienetbeheerders, leveranciers of de netgebruikers publiceert de Vlaamse Nutsregulator op zijn website, op een transparante wijze, de stand van zaken van de goedkeuringsprocedure van de tariefvoorstellen, de ontwerpen van tarifaire beslissingen en, in voorkomend geval, de goedgekeurde tariefvoorstellen die de distributienetbeheerders hebben ingediend.<br>
 <br>
-De VREG publiceert de tarieven en hun motivering binnen drie werkdagen na hun goedkeuring op zijn website. De VREG houdt rekening met een redelijke implementatietermijn voor de leveranciers.<br>
+De Vlaamse Nutsregulator publiceert de tarieven en hun motivering binnen drie werkdagen na hun goedkeuring op zijn website. De Vlaamse Nutsregulator houdt rekening met een redelijke implementatietermijn voor de leveranciers.<br>
 <br>
 § 6. De distributienetbeheerders delen zo spoedig mogelijk aan hun toegangshouders de tarieven mee die ze moeten toepassen en stellen ze ter beschikking van alle personen die hierom verzoeken. Ze publiceren die tarieven ook zo spoedig mogelijk op hun website, samen met een berekeningsmodule die de praktische toepassing ervan preciseert.
 
-## [Onderafdeling VI. Beroepsprocedure tegen beslissingen van de VREG met betrekking tot de tarieven (ing. decr. 27 november 2015, art. 19, I: 10 december 2015)]
+## Onderafdeling VI. Beroepsprocedure tegen beslissingen van de Vlaamse Nutsregulator met betrekking tot de tarieven
 
 ### ART. 4.1.34.
 
-Tegen de beslissingen die de VREG met toepassing van titel IV, hoofdstuk I, afdeling XII, heeft genomen, kan door iedere persoon die een belang aantoont, beroep aangetekend worden voor het Hof van Beroep te Brussel, dat zetelt zoals in kort geding.<br>
+Tegen de beslissingen die de Vlaamse Nutsregulator met toepassing van titel IV, hoofdstuk I, afdeling XII, heeft genomen, kan door iedere persoon die een belang aantoont, beroep aangetekend worden voor het Hof van Beroep te Brussel, dat zetelt zoals in kort geding.<br>
 <br>
 Het beroep wordt, op straffe van onontvankelijkheid, die ambtshalve wordt uitgesproken, ingesteld bij ondertekend verzoekschrift dat wordt neergelegd ter griffie van het Hof van Beroep te Brussel binnen een termijn van dertig dagen vanaf de kennisgeving van de beslissing of, voor de belanghebbenden aan wie de beslissing niet ter kennis is gebracht, binnen een termijn van dertig dagen vanaf de publicatie van de beslissing, of, bij ontstentenis van publicatie, binnen een termijn van dertig dagen vanaf de kennisneming ervan. Het verzoekschrift wordt ter griffie neergelegd in zoveel exemplaren als er betrokken partijen zijn.<br>
 <br>
-Binnen de drie werkdagen die volgen op de neerlegging van het verzoekschrift, wordt hiervan kennis gegeven via gerechtsbrief door de griffie van het Hof van Beroep aan alle partijen die door de verzoeker bij de zaak worden betrokken. De griffie van het Hof van Beroep vraagt&nbsp;de VREG het administratief dossier betreffende de aangevochten akte met het verzoekschrift bij de griffie neer te leggen. De neerlegging van het administratief dossier geschiedt ten laatste samen met de eerste conclusie van de VREG. Het administratief dossier kan door de partijen worden geraadpleegd bij de griffie van het Hof van Beroep vanaf de neerlegging ervan en tot de sluiting der debatten.<br>
+Binnen de drie werkdagen die volgen op de neerlegging van het verzoekschrift, wordt hiervan kennis gegeven via gerechtsbrief door de griffie van het Hof van Beroep aan alle partijen die door de verzoeker bij de zaak worden betrokken. De griffie van het Hof van Beroep vraagt&nbsp;de Vlaamse Nutsregulator het administratief dossier betreffende de aangevochten akte met het verzoekschrift bij de griffie neer te leggen. De neerlegging van het administratief dossier geschiedt ten laatste samen met de eerste conclusie van de Vlaamse Nutsregulator. Het administratief dossier kan door de partijen worden geraadpleegd bij de griffie van het Hof van Beroep vanaf de neerlegging ervan en tot de sluiting der debatten.<br>
 <br>
 Het Hof van Beroep kan op verzoek van een partij of op eigen initiatief oordelen dat de rechtsgevolgen van de geheel of gedeeltelijk vernietigde beslissing geheel of gedeeltelijk in stand blijven of voorlopig in stand blijven voor een termijn die het bepaalt. Deze maatregel kan evenwel enkel worden bevolen om uitzonderlijke redenen die een aantasting van het legaliteitsbeginsel rechtvaardigen, bij een met bijzondere redenen omklede beslissing en na een tegensprekelijk debat. Deze beslissing moet ook rekening houden met de belangen van derden.
+
+## Afdeling XIII. Geschillenbeslechting en bemiddeling door de Vlaamse Nutsregulator
+
+### ART 4.1.35.
+
+Partijen die een klacht hebben over de verplichtingen van een elektriciteitsdistributienetbeheerder, een aardgasdistributienetbeheerder, de beheerder van het plaatselijk vervoernet van elektriciteit of een beheerder van een gesloten distributienet op grond van titel IV, V, VI en VII, hoofdstuk I tot en met IV, van dit decreet of de uitvoeringsbepalingen ervan, kunnen het geschil schriftelijk ter bemiddeling voorleggen aan de Vlaamse Nutsregulator. De Vlaamse Nutsregulator stelt de bemiddelingsprocedure vast.<br>
+<br>
+De Vlaamse Nutsregulator is niet verplicht om te bemiddelen als: 1° de indiener geen belang kan aantonen;<br>
+2° de klacht kennelijk ongegrond is; 3° de klacht kennelijk onredelijk is;<br>
+4° de klacht betrekking heeft op feiten:<br>
+a)&nbsp;&nbsp; &nbsp;waarover de indiener eerder een klacht heeft ingediend die conform de toepasselijke decretale regeling is behandeld;<br>
+b)&nbsp;&nbsp; &nbsp;waarover al een klacht in behandeling is bij de Vlaamse Ombudsdienst.
+
+### ART 4.1.36.
+
+Partijen die een klacht hebben over de verplichtingen van een elektriciteitsdistributienetbeheerder, een aardgasdistributienetbeheerder, de beheerder van het plaatselijk vervoernet van elektriciteit of een beheerder van een gesloten distributienet op grond van titels IV, V, VI en VII, hoofdstuk I tot en met IV, van dit decreet of de uitvoeringsbepalingen ervan, kunnen het geschil schriftelijk ter beslechting voorleggen aan de Vlaamse Nutsregulator.<br>
+<br>
+De Vlaamse Nutsregulator beslecht het geschil met een gemotiveerde, bindende beslissing binnen twee maanden na ontvangst van de klacht. Die periode kan met twee maanden worden verlengd als de Vlaamse Nutsregulator aanvullende informatie vraagt. Een nieuwe verlenging van die termijn is mogelijk voor zover de klager daarmee akkoord gaat.<br>
+<br>
+De beslissing wordt genomen na de betrokken partijen te hebben gehoord. De Vlaamse Nutsregulator kan overgaan of doen overgaan tot alle nuttige onderzoeken en kan, als dat nodig is, deskundigen aanwijzen en getuigen horen. Hij kan bewarende maatregelen opleggen in dringende gevallen. De beslissing kan al of niet een terugbetaling of vergoeding inhouden.
 
 ## HOOFDSTUK II. Technische reglementen
 
 ### ART. 4.2.1.
 
-§ 1. De VREG stelt, na voorafgaandelijk stakeholdersoverleg, een ontwerp van technisch reglement op voor het beheer van het elektriciteitsdistributienet, het aardgasdistributienet en het plaatselijk vervoernet van elektriciteit. Dit ontwerp van reglement wordt vervolgens ter consultatie aan de marktpartijen voorgelegd.<br>
+§ 1. De Vlaamse Nutsregulator stelt, na voorafgaandelijk stakeholdersoverleg, een ontwerp van technisch reglement op voor het beheer van het elektriciteitsdistributienet, het aardgasdistributienet en het plaatselijk vervoernet van elektriciteit. Dit ontwerp van reglement wordt vervolgens ter consultatie aan de marktpartijen voorgelegd.<br>
 <br>
 De reglementen bevatten telkens de bepalingen van toepassing op de gesloten distributienetten.<br>
 <br>
@@ -1949,9 +1712,9 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 3° de regels voor de uitwisseling van gegevens tussen de transmissienetbeheerder, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
 4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1,&nbsp;de verkoop van groene stroom conform artikel 7.2.3, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
 5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<br>
-6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
+6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de Vlaamse Nutsregulator van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
 7° de prioriteit die moet worden gegeven aan kwalitatieve warmtekrachtinstallaties en aan productie-installaties van groene stroom;<br>
-8° de verplichting voor de netbeheerders tot het verstrekken van informatie aan de VREG over de beoordeling die zij uitvoeren van het potentieel voor energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het bijzonder wat betreft transport, distributie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren;<br>
+8° de verplichting voor de netbeheerders tot het verstrekken van informatie aan de Vlaamse Nutsregulator over de beoordeling die zij uitvoeren van het potentieel voor energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het bijzonder wat betreft transport, distributie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren;<br>
 9° de vaststelling of goedkeuring van niet-tarifaire toegangs- en aansluitingsvoorwaarden.<br>
 10° de technische en operationele regels, inclusief de berekeningsregels, die verbonden zijn aan de taken die behoren tot het databeheer, vermeld in artikel 4.1.8/2;<br>
 11° de limitatieve lijst van rubrieken van gegevens die de netbeheerder nodig heeft voor de uitvoering van de taken die hem in of krachtens voorliggend decreet worden opgelegd;<br>
@@ -1963,7 +1726,7 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 17° de lijst van gegevens, waaronder ook persoonsgegevens, die in het flexibiliteitsactivatieregister worden opgenomen;<br>
 18° de gegevens die worden gemeten, berekend, bezorgd en beheerd, en ook de methodieken om energiehoeveelheden voor de allocatie, reconciliatie en facturatie te berekenen, en de aanpassingen aan die berekeningen, die gepaard gaan met de activiteiten van actieve afnemers, energiegemeenschappen van burgers en hernieuwbare-energiegemeenschappen en de verkoop van groene stroom conform artikel 7.2.3.<br>
 <br>
-§ 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de VREG.<br>
+§ 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de Vlaamse Nutsregulator.<br>
 <br>
 De technische reglementen treden pas in werking na bekendmaking in het Belgisch Staatsblad.
 
@@ -1973,11 +1736,11 @@ De technische reglementen treden pas in werking na bekendmaking in het Belgisch 
 
 ### ART. 4.3.1.
 
-§ 1. De levering van elektriciteit en aardgas via het distributienet of het plaatselijk vervoersnet van elektriciteit, aan afnemers, is onderworpen aan de voorafgaande toekenning van een leveringsvergunning door de VREG.<br>
+§ 1. De levering van elektriciteit en aardgas via het distributienet of het plaatselijk vervoersnet van elektriciteit, aan afnemers, is onderworpen aan de voorafgaande toekenning van een leveringsvergunning door de Vlaamse Nutsregulator.<br>
 <br>
 De levering van elektriciteit en aardgas door een netbeheerder in het kader van zijn taken, vermeld in artikel 4.1.6, of een openbaredienstverplichting die opgelegd is in dit decreet of een uitvoeringsbesluit ervan, is niet onderworpen aan de toekenning van een leveringsvergunning.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot toekenning, wijziging en opheffing van een leveringsvergunning.<br>
+§ 2. De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de voorwaarden en de procedure tot toekenning, wijziging en opheffing van een leveringsvergunning.<br>
 <br>
 De voorwaarden tot toekenning van een leveringsvergunning hebben in ieder geval betrekking op :<br>
 1° de technische, organisatorische en financiële capaciteit van de aanvrager;<br>
@@ -1986,7 +1749,7 @@ De voorwaarden tot toekenning van een leveringsvergunning hebben in ieder geval 
 4° de openbaredienstverplichtingen die opgelegd zijn aan de leveranciers volgens dit decreet of de uitvoeringsbepalingen ervan;<br>
 5° de beheersmatige en juridische onafhankelijkheid van de aanvrager ten opzichte van de netbeheerders.<br>
 <br>
-Bij gebrek aan een beslissing door de VREG binnen twee maanden na de ontvangst van een volledig aanvraagdossier, waarvan het model wordt vastgesteld door de VREG, wordt de leveringsvergunning geacht verleend te zijn.<br>
+Bij gebrek aan een beslissing door de Vlaamse Nutsregulator binnen twee maanden na de ontvangst van een volledig aanvraagdossier, waarvan het model wordt vastgesteld door de Vlaamse Nutsregulator, wordt de leveringsvergunning geacht verleend te zijn.<br>
 <br>
 Het faillissement of de gerechtelijke reorganisatie van de houder van een leveringsvergunning leidt van rechtswege tot de opheffing van de leveringsvergunning.<br>
 <br>
@@ -1996,7 +1759,11 @@ Het faillissement of de gerechtelijke reorganisatie van de houder van een leveri
 
 ### ART. 4.3.2.
 
-De Vlaamse Regering kan, na advies van de VREG, iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest openbaredienstverplichtingen opleggen met betrekking tot :<br />1° de facturatie van het elektriciteits- en aardgasverbruik;<br />2° de informatieverlening;<br />3° de behandeling van klachten van hun klanten;<br />4° maatregelen van sociale aard, zoals beschermingsmaatregelen bij wanbetaling en opzegging van het leveringscontract.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest openbaredienstverplichtingen opleggen met betrekking tot :<br>
+1° de facturatie van het elektriciteits- en aardgasverbruik;<br>
+2° de informatieverlening;<br>
+3° de behandeling van klachten van hun klanten;<br>
+4° maatregelen van sociale aard, zoals beschermingsmaatregelen bij wanbetaling en opzegging van het leveringscontract.
 
 ### ART. 4.3.2/1.
 
@@ -2006,11 +1773,11 @@ Behoudens in de gevallen bepaald door de Vlaamse Regering kan een leverancier ni
 
 ### ART 4.3.3.
 
-In het geval de VREG de leveringsvergunning van een leverancier, vermeld in artikel 4.3.1, opheft, of als de toegang van een leverancier tot het net wordt beëindigd, of in geval van het faillissement van een leverancier of vanaf de opening van een procedure van gerechtelijke reorganisatie als vermeld in boek XX, titel V, van het Wetboek van economisch recht, ten aanzien van die leverancier, treedt de netbeheerder, wat betreft de afnemers van die leverancier die op zijn net zijn aangesloten, op als noodleverancier. De periode voor de noodlevering bedraagt maximaal zestig dagen voor niet-huishoudelijke afnemers en maximaal twaalf maanden voor huishoudelijke afnemers. De Vlaamse Regering kan die maximale periodes beperken en kan ook nadere voorwaarden bepalen waaronder de netbeheerders de taak van noodleverancier uitvoeren.<br>
+In het geval de Vlaamse Nutsregulator de leveringsvergunning van een leverancier, vermeld in artikel 4.3.1, opheft, of als de toegang van een leverancier tot het net wordt beëindigd, of in geval van het faillissement van een leverancier of vanaf de opening van een procedure van gerechtelijke reorganisatie als vermeld in boek XX, titel V, van het Wetboek van economisch recht, ten aanzien van die leverancier, treedt de netbeheerder, wat betreft de afnemers van die leverancier die op zijn net zijn aangesloten, op als noodleverancier. De periode voor de noodlevering bedraagt maximaal zestig dagen voor niet-huishoudelijke afnemers en maximaal twaalf maanden voor huishoudelijke afnemers. De Vlaamse Regering kan die maximale periodes beperken en kan ook nadere voorwaarden bepalen waaronder de netbeheerders de taak van noodleverancier uitvoeren.<br>
 <br>
-Het Openbaar Ministerie brengt de VREG op de hoogte van elke dagvaarding die het uitbrengt tot faillietverklaring of in het kader van boek XX, titel V, van het Wetboek van Economisch Recht, met betrekking tot een elektriciteits- of aardgasleverancier die in het Vlaamse Gewest actief is.<br>
+Het Openbaar Ministerie brengt de Vlaamse Nutsregulator op de hoogte van elke dagvaarding die het uitbrengt tot faillietverklaring of in het kader van boek XX, titel V, van het Wetboek van Economisch Recht, met betrekking tot een elektriciteits- of aardgasleverancier die in het Vlaamse Gewest actief is.<br>
 <br>
-De griffier van de ondernemingsrechtbank brengt de VREG zo snel mogelijk en uiterlijk binnen vierentwintig uur op de hoogte van:<br>
+De griffier van de ondernemingsrechtbank brengt de Vlaamse Nutsregulator zo snel mogelijk en uiterlijk binnen vierentwintig uur op de hoogte van:<br>
 1° elke aangifte tot faillietverklaring en elke indiening van een verzoekschrift tot aanvraag van de opening van een procedure van gerechtelijke reorganisatie door een leverancier als vermeld in het tweede lid;<br>
 2° elke dagvaarding tot faillietverklaring met betrekking tot een leverancier als vermeld in het tweede lid, die is uitgebracht door een andere partij dan het Openbaar Ministerie;<br>
 3° elke beslissing tot faillietverklaring die de rechtbank neemt met betrekking tot een leverancier als vermeld in het tweede lid;<br>
@@ -2069,6 +1836,51 @@ Elke actieve afnemer is financieel verantwoordelijk voor de onbalansen die hij i
 <br>
 § 4. De Vlaamse Regering neemt maatregelen ter bevordering en vergemakkelijking van de ontwikkeling van het zelfverbruik van hernieuwbare energie, vermeld in paragraaf 1, eerste lid, 2°.&nbsp;
 
+## Afdeling III. Vergelijkingsinstrument
+
+### ART 4.4.3.
+
+De Vlaamse Nutsregulator stelt op zijn website een vergelijkingsinstrument ter beschikking waarmee het aanbod van de leveranciers aan huishoudelijke afnemers en ondernemingen met een verwacht jaarlijks elektriciteitsverbruik van minder dan 100.000 kWh en een verwacht jaarlijks aardgasverbruik van minder dan 150.000 kWh, gratis vergeleken kan worden. Dat instrument bestrijkt de hele markt in het Vlaamse Gewest en alle aanbiedingen van leveranciers die daarin publiek beschikbaar zijn, waaronder aanbiedingen voor dynamische prijscontracten en teruglevercontracten. Het vergelijkingsinstrument maakt het voor klanten ook mogelijk om hun huidige leveringsvoorwaarden te vergelijken met het actuele aanbod op de markt.<br>
+&nbsp;<br>
+Het vergelijkingsinstrument, vermeld in het eerste lid, voldoet aan alle onderstaande vereisten:<br>
+1° alle leveranciers worden gelijk behandeld in de zoekresultaten;<br>
+2° er worden objectieve criteria gebruikt als basis voor de vergelijking en die criteria worden duidelijk vermeld op de website;<br>
+3° er wordt gebruikgemaakt van duidelijke en ondubbelzinnige bewoordingen;<br>
+4° de informatie is nauwkeurig en actueel, en vermeldt het tijdstip van de meest recente actualisering;<br>
+5° er is een doeltreffende procedure om onjuiste informatie over gepubliceerde aanbiedingen te melden;<br>
+6° de opgevraagde persoonlijke gegevens blijven beperkt tot de gegevens die noodzakelijk zijn voor de gevraagde vergelijking.<br>
+<br>
+Met behoud van toepassing van artikel II.16 van het Bestuursdecreet van 7 december 2018 is het vergelijkingsinstrument, vermeld in het eerste lid, toegankelijk voor personen met een handicap door waarneembaar, bedienbaar, begrijpelijk en robuust te zijn.<br>
+<br>
+De leveranciers bezorgen de Vlaamse Nutsregulator nauwkeurige en geactualiseerde informatie over de prijzen en voorwaarden, inclusief de aangeboden diensten, van de producten, vermeld in het eerste lid, alsook over het aantal klanten per versie van dat product, met het oog op de opname daarvan in het vergelijkingsinstrument, vermeld in het eerste lid, en de uitvoering van de taken, vermeld in hoofdstuk 2, afdeling 2, van het decreet van […] over de operationalisering van een Vlaamse Nutsregulator. De Vlaamse Nutsregulator legt na overleg met de betrokken stakeholders de methode en procedure vast voor de voormelde informatieoverdracht.
+
+### ART 4.4.4.
+
+De volgende persoonsgegevens of categorieën van persoonsgegevens kunnen opgevraagd en verwerkt worden in het kader van het gebruik en het beheer van het vergelijkingsinstrument, vermeld in artikel 4.4.3:<br>
+1° het energietype;<br>
+2° de adres- en contactgegevens;<br>
+3° de gegevens over de aansluiting en de meter;<br>
+4° de meetgegevens;<br>
+5° de gegevens over aanwezige decentrale productie-installaties;<br>
+6° de contractvoorkeuren;<br>
+7° de huidige leveringsvoorwaarden;<br>
+8° het profiel, vermeld in het derde lid;<br>
+9° de identificatiegegevens, vermeld in het vierde lid.<br>
+<br>
+Na de toestemming van de betrokkene, conform artikel 4, 11), van de algemene verordening gegevensbescherming, kan de Vlaamse Nutsregulator de persoonsgegevens, vermeld in het eerste lid, 1° tot en met 5°, automatisch laten verwerken via een koppeling met de databanken van de distributienetbeheerder of zijn werkmaatschappij. Via die koppeling verleent de netbeheerder of zijn werkmaatschappij de Vlaamse Nutsregulator toegang tot de gegevens, vermeld in het eerste lid, 1° tot en met 5°, waartoe de betrokkene toegang heeft in zijn databanken.<br>
+<br>
+Na de toestemming van de betrokkene, conform artikel 4, 11), van de algemene verordening gegevensbescherming, kunnen de persoonsgegevens, vermeld in het eerste lid, in een profiel worden bijgehouden met het oog op het gebruik en het beheer van het vergelijkingsinstrument, vermeld in het eerste lid. Het profiel wordt maximaal bewaard voor een periode van vijf jaar nadat de betrokkene daarvoor zijn toestemming heeft verleend.<br>
+<br>
+Voor de unieke identificatie van de betrokkene kan het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opgevraagd en verwerkt worden in het kader van:<br>
+1° de automatische verwerking van de gegevens, vermeld in het tweede lid;<br>
+2° de aanmaak en het beheer van het profiel, vermeld in het derde lid.<br>
+<br>
+De Vlaamse Nutsregulator kan de verwerkte gegevens en de resultaten van de uitgevoerde vergelijkingen gedurende twaalf maanden na de uitvoering van de vergelijking geanonimiseerd bewaren met het oog op het gebruik voor monitoring, evaluatie en onderzoek.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van het gebruik en het beheer van het vergelijkingsinstrument, vermeld in artikel 4.4.3, is de Vlaamse Nutsregulator de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De Vlaamse Nutsregulator neemt passende maatregelen opdat de betrokkene overeenkomstig artikel 12 van de algemene verordening gegevensbescherming in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal toegang heeft tot de noodzakelijke informatie en communicatie in verband met de verwerking van zijn persoonsgegevens.
+
 ## HOOFDSTUK V. [De aanleg en het beheer van directe lijnen en directe leidingen (verv. decr. 8 juli 2011, art. 30, I: 26 augustus 2011)]
 
 ### ART. 4.5.1.
@@ -2076,44 +1888,44 @@ Elke actieve afnemer is financieel verantwoordelijk voor de onbalansen die hij i
 § 1. De aanleg en het beheer van een directe lijn of een directe leiding die de grenzen van de eigen site niet overschrijdt om elektriciteit of aardgas te leveren, is altijd toegelaten.<br>
 <br>
 De beheerder van de directe lijn of directe leiding, vermeld in het eerste lid, meldt elektronisch binnen de dertig dagen volgende op de ingebruikname dat die directe lijn of directe leiding in gebruik werd genomen en de ligging ervan:<br>
-1° aan de VREG wanneer het eilandwerking betreft. De VREG stelt daarvoor een meldingsformulier ter beschikking op zijn website;<br>
-2° aan de netbeheerder op wiens net de afnemer van die directe lijn is aangesloten. De netbeheerder stelt daarvoor een meldingsformulier ter beschikking op zijn website. De netbeheerder stelt de ontvangen gegevens op eerste vraag ter beschikking aan de VREG.<br>
+1° aan de Vlaamse Nutsregulator wanneer het eilandwerking betreft. De Vlaamse Nutsregulator stelt daarvoor een meldingsformulier ter beschikking op zijn website;<br>
+2° aan de netbeheerder op wiens net de afnemer van die directe lijn is aangesloten. De netbeheerder stelt daarvoor een meldingsformulier ter beschikking op zijn website. De netbeheerder stelt de ontvangen gegevens op eerste vraag ter beschikking aan de Vlaamse Nutsregulator.<br>
 <br>
-§ 2. De aanleg en het beheer van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt om elektriciteit of aardgas te leveren, is alleen toegestaan na een voorafgaande toelating van de VREG. De VREG stelt daarvoor een aanvraagformulier ter beschikking op zijn website. De Vlaamse Regering kan voorwaarden vastleggen waaraan een directe lijn of directe leiding die de grenzen van de eigen site overschrijdt moet voldoen om te worden toegelaten.<br>
+§ 2. De aanleg en het beheer van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt om elektriciteit of aardgas te leveren, is alleen toegestaan na een voorafgaande toelating van de Vlaamse Nutsregulator. De Vlaamse Nutsregulator stelt daarvoor een aanvraagformulier ter beschikking op zijn website. De Vlaamse Regering kan voorwaarden vastleggen waaraan een directe lijn of directe leiding die de grenzen van de eigen site overschrijdt moet voldoen om te worden toegelaten.<br>
 <br>
-De VREG beslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De VREG wint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding gelegen is. Deze adviestermijn bedraagt vijftien dagen.<br>
+De Vlaamse Nutsregulator beslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De Vlaamse Nutsregulator wint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding gelegen is. Deze adviestermijn bedraagt vijftien dagen.<br>
 <br>
-De VREG kan een aanvraag als vermeld in het eerste lid alleen weigeren in een van de hierna volgende gevallen:<br>
+De Vlaamse Nutsregulator kan een aanvraag als vermeld in het eerste lid alleen weigeren in een van de hierna volgende gevallen:<br>
 1° de installaties die achter verschillende toegangspunten liggen worden met elkaar verbonden;<br>
 2° de rechten van afnemers worden niet gewaarborgd;<br>
 3° er is niet voldaan aan de voorwaarden, vermeld in het eerste lid, die de Vlaamse Regering vastgesteld heeft;<br>
 4° de veiligheid van het net van de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding is gelegen, komt aantoonbaar in het gedrang.<br>
 <br>
-Onverminderd het derde lid houdt de VREG bij het beoordelen van een aanvraag als vermeld in het eerste lid met betrekking tot bestaande productie-installaties die voor 1 januari 2019 reeds zijn aangesloten op een net en die vanaf 1 januari 2019 hun aansluiting willen wijzigen om een directe lijn of directe leiding aan te leggen, bijkomend rekening met de risico's inzake inefficiëntie en de impact op de distributienettarieven.<br>
+Onverminderd het derde lid houdt de Vlaamse Nutsregulator bij het beoordelen van een aanvraag als vermeld in het eerste lid met betrekking tot bestaande productie-installaties die voor 1 januari 2019 reeds zijn aangesloten op een net en die vanaf 1 januari 2019 hun aansluiting willen wijzigen om een directe lijn of directe leiding aan te leggen, bijkomend rekening met de risico's inzake inefficiëntie en de impact op de distributienettarieven.<br>
 <br>
-De VREG brengt de aanvrager van de toelating en de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding gelegen is, op de hoogte van zijn beslissing.<br>
+De Vlaamse Nutsregulator brengt de aanvrager van de toelating en de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding gelegen is, op de hoogte van zijn beslissing.<br>
 <br>
-De VREG publiceert op zijn website een actuele lijst van de directe lijnen en de directe leidingen, waarvoor conform deze paragraaf een toelating is verleend, alsook van de beheerders van die directe lijnen en directe leidingen.<br>
+De Vlaamse Nutsregulator publiceert op zijn website een actuele lijst van de directe lijnen en de directe leidingen, waarvoor conform deze paragraaf een toelating is verleend, alsook van de beheerders van die directe lijnen en directe leidingen.<br>
 <br>
 De beslissing tot toelating van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt, vervalt, bij gebrek aan indienststelling, van rechtswege vijf jaar na datum van de beslissing tot toelating.<br>
 &nbsp;<br>
-De VREG heft de beslissing op tot toelating van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt, in de volgende gevallen:<br>
+De Vlaamse Nutsregulator heft de beslissing op tot toelating van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt, in de volgende gevallen:<br>
 1° in een van de gevallen, vermeld in het derde lid;<br>
 2° als de directe lijn of directe leiding de grenzen van de eigen site niet meer overschrijdt;<br>
 3° bij buitendienststelling van de directe lijn of directe leiding.<br>
 <br>
 In afwijking van het eerste lid is een directe lijn of directe leiding die voorheen is toegelaten, maar waarvan de beslissing tot toelating conform het achtste lid, 2°, is opgeheven, en die, zonder enige andere wijziging te hebben ondergaan, opnieuw de grenzen van de eigen site overschrijdt, van rechtswege toegelaten.<br>
 <br>
-§ 3. Als de aanleg van een directe lijn of een directe leiding de eigen site overschrijdt en als het openbaar domein&nbsp; of een gemeenteweg daarbij wordt doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De beheerder van de directe lijn of de directe leiding kan de procedure pas starten als hij de toelating van de VREG, vermeld in paragraaf 2, gekregen heeft.
+§ 3. Als de aanleg van een directe lijn of een directe leiding de eigen site overschrijdt en als het openbaar domein&nbsp; of een gemeenteweg daarbij wordt doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De beheerder van de directe lijn of de directe leiding kan de procedure pas starten als hij de toelating van de Vlaamse Nutsregulator, vermeld in paragraaf 2, gekregen heeft.
 
 ### ART. 4.5.2.
 
 De taken van de beheerder van een directe lijn of leiding omvatten onder meer :<br>
 1° het beheer en het onderhoud van de directe lijn of leiding;<br>
-2° het verstrekken van de nodige meetgegevens en andere gegevens aan de producent, de afnemer en de VREG;<br>
+2° het verstrekken van de nodige meetgegevens en andere gegevens aan de producent, de afnemer en de Vlaamse Nutsregulator;<br>
 3° het verstrekken van de nodige inlichtingen aan de beheerder van het net waarop de directe lijn of leiding is aangesloten om een veilige en efficiënte uitbating en ontwikkeling van dat net te waarborgen;<br>
-4° het informeren van de VREG over de datum van indienststelling en buitendienststelling van een directe lijn of leiding die de grenzen van de eigen site overschrijdt binnen dertig dagen na de indienststelling, respectievelijk buitendienststelling ervan;<br>
-5° &nbsp; het informeren van de VREG, binnen dertig dagen, over:<br>
+4° het informeren van de Vlaamse Nutsregulator over de datum van indienststelling en buitendienststelling van een directe lijn of leiding die de grenzen van de eigen site overschrijdt binnen dertig dagen na de indienststelling, respectievelijk buitendienststelling ervan;<br>
+5° &nbsp; het informeren van de Vlaamse Nutsregulator, binnen dertig dagen, over:<br>
 a)&nbsp;&nbsp; &nbsp;elke wijziging aan de eigendom of het beheer van de directe lijn of leiding die de grenzen van de eigen site overschrijdt;<br>
 b)&nbsp;&nbsp; &nbsp;elke wijziging aan de eigendom of het beheer van de kadastrale percelen waarop de directe lijn of leiding ligt;<br>
 c)&nbsp;&nbsp; &nbsp;elke wijziging van de aangesloten afnemers op de directe lijn of leiding die de grenzen van de eigen site overschrijdt;<br>
@@ -2123,28 +1935,28 @@ d)&nbsp;&nbsp; &nbsp;elke wijziging in de verbinding met het net.
 
 ### ART. 4.6.1.
 
-§1. De aanleg en het beheer van een gesloten distributienet op eigen site is toegelaten na voorafgaande melding aan de VREG.<br>
+§1. De aanleg en het beheer van een gesloten distributienet op eigen site is toegelaten na voorafgaande melding aan de Vlaamse Nutsregulator.<br>
 <br>
-§2. De aanleg van een gesloten distributienet dat de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de VREG, die hiertoe het advies van de betrokken netbeheerder inwint. De adviestermijn voor de betrokken netbeheerder bedraagt vijftien dagen. De VREG beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de VREG oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de VREG aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel. Bij gebrek aan beslissing binnen de voormelde termijn, wordt de toelating geacht stilzwijgend te zijn verleend.<br>
+§2. De aanleg van een gesloten distributienet dat de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de Vlaamse Nutsregulator, die hiertoe het advies van de betrokken netbeheerder inwint. De adviestermijn voor de betrokken netbeheerder bedraagt vijftien dagen. De Vlaamse Nutsregulator beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de Vlaamse Nutsregulator oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de Vlaamse Nutsregulator aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel. Bij gebrek aan beslissing binnen de voormelde termijn, wordt de toelating geacht stilzwijgend te zijn verleend.<br>
 <br>
-De VREG hanteert hierbij de criteria zoals vermeld in artikel 1.1.3, 56°/2, en houdt ook rekening met de risico's inzake inefficiëntie, de risico's inzake veiligheid, de impact op de nettarieven, de waarborg van de rechten van afnemers, de eventuele weigering van aansluiting op het net door de betrokken netbeheerder of een gebrek aan aanbod tot aansluiting of toegang op het net tegen redelijke economische of technische voorwaarden.<br>
+De Vlaamse Nutsregulator hanteert hierbij de criteria zoals vermeld in artikel 1.1.3, 56°/2, en houdt ook rekening met de risico's inzake inefficiëntie, de risico's inzake veiligheid, de impact op de nettarieven, de waarborg van de rechten van afnemers, de eventuele weigering van aansluiting op het net door de betrokken netbeheerder of een gebrek aan aanbod tot aansluiting of toegang op het net tegen redelijke economische of technische voorwaarden.<br>
 <br>
-De VREG kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de criteria van artikel 1.1.3, 56°/2, is voldaan.<br>
+De Vlaamse Nutsregulator kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de criteria van artikel 1.1.3, 56°/2, is voldaan.<br>
 <br>
-Als door de aanleg van een gesloten distributienet het openbaar domein of een gemeenteweg moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br>
+Als door de aanleg van een gesloten distributienet het openbaar domein of een gemeenteweg moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de Vlaamse Nutsregulator, vermeld in het eerste lid, verworven is.<br>
 <br>
-§3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.<br>
+§3. De Vlaamse Nutsregulator kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.<br>
 <br>
-§4. De VREG kan de beheerders van een gesloten distributienet van elektriciteit ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van elektriciteit is gemeld conform paragraaf 1 of is toegelaten conform paragraaf 2:<br>
+§4. De Vlaamse Nutsregulator kan de beheerders van een gesloten distributienet van elektriciteit ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van elektriciteit is gemeld conform paragraaf 1 of is toegelaten conform paragraaf 2:<br>
 1° de vereiste om de energie die ze gebruiken om energieverliezen te dekken en om in de niet-frequentiegerelateerde ondersteunende diensten in hun systeem te voorzien, te kopen volgens transparante, niet-discriminerende en marktgebaseerde procedures, vermeld in artikel 4.6.3, eerste lid, 14° ;<br>
-2° de vereiste dat de VREG de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
+2° de vereiste dat de Vlaamse Nutsregulator de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
 3° de vereiste om flexibiliteitsdiensten te kopen, vermeld in artikel 4.6.3, eerste lid, 15° ;<br>
 4° de vereiste om het gesloten distributienet te ontwikkelen op basis van een investeringsplan, vermeld in artikel 4.6.3, eerste lid, 16° ;<br>
 5° de vereiste om geen oplaadpunten voor elektrische voertuigen te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, derde lid;<br>
 6° de vereiste om geen elektriciteitsopslagfaciliteiten te bezitten, te ontwikkelen, te beheren of te exploiteren, vermeld in artikel 4.6.4, tweede lid.<br>
 <br>
-§5. De VREG kan de beheerders van een gesloten distributienet van aardgas ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van aardgas is gemeld conform paragraaf 1 of is toegelaten conform paragraaf 2:<br>
-1° de vereiste dat de VREG de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
+§5. De Vlaamse Nutsregulator kan de beheerders van een gesloten distributienet van aardgas ontheffen van de plicht om de volgende taken en verplichtingen te vervullen. Dergelijke ontheffing wordt toegekend indien het gesloten distributienet van aardgas is gemeld conform paragraaf 1 of is toegelaten conform paragraaf 2:<br>
+1° de vereiste dat de Vlaamse Nutsregulator de tarieven of de methodes om ze te berekenen, vermeld in artikel 4.6.10, tweede lid, goedkeurt vóór ze in werking treden;<br>
 2° de vereiste om het gesloten distributienet te ontwikkelen op basis van een investeringsplan, vermeld in artikel 4.6.3, eerste lid, 16°.<br>
 &nbsp;
 
@@ -2166,7 +1978,7 @@ Het beheer van een gesloten distributienet omvat, onder meer, de volgende taken 
 9° het beheren van het toegangsregister van zijn net, het flexibiliteitstoegangsregister en het flexibiliteitsactivatieregister;<br>
 10° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
 11° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de achterliggende netgebruikers en de verwerking en de bewaring van die gegevens;<br>
-12° het verstrekken van de nodige meetgegevens en andere gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de aanbieders van energiediensten met inbegrip van aggregatoren en dienstverleners van flexibiliteit,&nbsp;de afnemers en de VREG;<br>
+12° het verstrekken van de nodige meetgegevens en andere gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de aanbieders van energiediensten met inbegrip van aggregatoren en dienstverleners van flexibiliteit,&nbsp;de afnemers en de Vlaamse NutsregulatorG;<br>
 13° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waaraan zijn net in kwestie gekoppeld is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br>
 14° het fungeren als neutrale marktfacilitator door de energie in te kopen die ze gebruiken om energieverliezen te dekken en het voorzien in de niet-frequentiegerelateerde ondersteunende diensten in hun net volgens transparante, niet-discriminerende en marktgebaseerde procedures;<br>
 15° de aankoop van flexibiliteitsdiensten, in het bijzonder in geval van lokale congestie binnen hun dekkingsgebied, met het oog op het efficiëntere beheer en de efficiënte ontwikkeling van het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit;<br>
@@ -2213,17 +2025,17 @@ De technische reglementen bepalen wie door de toegangsgerechtigden, bedoeld in h
 <br>
 Bij een weigering, beëindiging of opschorting van de toegang tot zijn net stuurt de beheerder van het gesloten distributienet aan de aanvrager van de toegang tot zijn net of aan de toegangshouder een schriftelijke en gemotiveerde verklaring.<br>
 <br>
-De beheerder van het gesloten distributienet kan de toegang tot zijn net alleen opschorten of beëindigen na voorafgaande toestemming door de VREG, tenzij in één van de volgende vier gevallen :<br>
+De beheerder van het gesloten distributienet kan de toegang tot zijn net alleen opschorten of beëindigen na voorafgaande toestemming door de Vlaamse Nutsregulator, tenzij in één van de volgende vier gevallen :<br>
 1° bij overmacht of een noodsituatie, zoals omschreven in het van toepassing zijnde technisch reglement;<br>
 2° in geval de toegangshouder geen evenwichtsverantwoordelijke of bevrachter meer heeft;<br>
 3° de beheerder van het gesloten distributienet oordeelt dat er een ernstig risico bestaat voor de veiligheid van personen of materieel;<br>
 4° voor een individueel toegangspunt, het aansluitingsvermogen op aanzienlijke wijze overschreden wordt.<br>
 <br>
-§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het gesloten distributienet kan overeenkomstig artikel 3.1.4/3, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de VREG.<br>
+§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het gesloten distributienet kan overeenkomstig artikel 4.1.35, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de Vlaamse Nutsregulator.<br>
 <br>
-Als de VREG oordeelt dat de weigering, opschorting of beëindiging van de toegang onterecht was, geeft de beheerder van het gesloten distributienet de betrokken persoon alsnog of opnieuw toegang tot zijn net.<br>
+Als de Vlaamse Nutsregulator oordeelt dat de weigering, opschorting of beëindiging van de toegang onterecht was, geeft de beheerder van het gesloten distributienet de betrokken persoon alsnog of opnieuw toegang tot zijn net.<br>
 <br>
-Als de VREG oordeelt dat de weigering, opschorting of beëindiging van de toegang terecht was, heeft de betrokken persoon de mogelijkheid zich te wenden tot de beheerder van het net waaraan het gesloten distributienet gekoppeld is.
+Als de Vlaamse Nutsregulator oordeelt dat de weigering, opschorting of beëindiging van de toegang terecht was, heeft de betrokken persoon de mogelijkheid zich te wenden tot de beheerder van het net waaraan het gesloten distributienet gekoppeld is.
 
 ### ART. 4.6.10.
 
@@ -2234,7 +2046,7 @@ Iedere beheerder van een gesloten distributienet past voor de aansluiting, het g
 4° de beheerder van het gesloten distributienet kiest de afschrijvingstermijnen en de winstmarges gekozen binnen de marges tussen de waarden die hij toepast in zijn belangrijkste bedrijfssector en de marges die in de distributienetten worden toegepast;<br>
 5° de tarieven zijn, wat de aansluiting, de versterking ervan en de vernieuwing van de uitrusting van het net betreft, afhankelijk van de mate van socialisering of individualisering van de investeringen die eigen zijn aan de locatie, rekening houdend met het aantal gebruikers van het gesloten distributienet.<br>
 <br>
-De VREG moet de tarieven of de methodes om de tarieven voor de toegang tot het gesloten distributienet te berekenen, goedkeuren vóór ze in werking kunnen treden, behoudens indien een ontheffing werd toegekend overeenkomstig artikel 4.6.1, § 4, 2°, in welk geval de geldende tarieven of de methoden om de tarieven voor de toegang tot het gesloten distributienet te berekenen, overeenkomstig de richtsnoeren, vermeld in het eerste lid, worden herzien en goedgekeurd op verzoek van een achterliggende afnemer van het gesloten distributienet.
+De Vlaamse Nutsregulator moet de tarieven of de methodes om de tarieven voor de toegang tot het gesloten distributienet te berekenen, goedkeuren vóór ze in werking kunnen treden, behoudens indien een ontheffing werd toegekend overeenkomstig artikel 4.6.1, § 4, 2°, in welk geval de geldende tarieven of de methoden om de tarieven voor de toegang tot het gesloten distributienet te berekenen, overeenkomstig de richtsnoeren, vermeld in het eerste lid, worden herzien en goedgekeurd op verzoek van een achterliggende afnemer van het gesloten distributienet.
 
 ## [HOOFDSTUK VII. De aanleg en het beheer van een privédistributienet (ing. decr. 8 juli 2011, art. 35, I: 26 augustus 2011)]
 
@@ -2306,11 +2118,11 @@ Elke hernieuwbare-energiegemeenschap bepaalt in haar statuten de regels over de 
 
 ### ART 4.8.3.
 
-Iedere energiegemeenschap van burgers en hernieuwbare-energiegemeenschap brengt de VREG op de hoogte van de volgende elementen:<br>
+Iedere energiegemeenschap van burgers en hernieuwbare-energiegemeenschap brengt de Vlaamse Nutsregulator op de hoogte van de volgende elementen:<br>
 1° de activiteiten die ze uitoefent en elke wijziging in die activiteiten;<br>
 2° de wijze waarop ze is samengesteld en in voorkomend geval de wijze waarop ze invulling geeft aan het begrip technische of geografische nabijheid, vermeld in artikel 4.8.2, § 1, derde lid.<br>
 <br>
-De VREG maakt deze informatie bekend op zijn website.<br>
+De Vlaamse Nutsregulator maakt deze informatie bekend op zijn website.<br>
 <br>
 De Vlaamse Regering bepaalt de te volgen procedure van de meldingsplicht.
 
@@ -2336,7 +2148,7 @@ Elke energiegemeenschap van burgers en elke hernieuwbare-energiegemeenschap zijn
 <br>
 § 3. Elke vennoot of elk lid van een energiegemeenschap van burgers en hernieuwbare-energiegemeenschap behoudt zijn rechten als afnemer, huishoudelijke afnemer of actieve afnemer en kan de energiegemeenschap van burgers of de hernieuwbare-energiegemeenschap verlaten. De voorwaarden, vermeld in artikel 4.4.1, tweede lid, zijn in dat geval van overeenkomstige toepassing.<br>
 <br>
-§ 4. De Vlaamse Regering neemt maatregelen om de ontwikkeling van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers te bevorderen en te vergemakkelijken. In dat kader vraagt de Vlaamse Regering aan de VREG via een kosten-batenanalyse te onderzoeken in welke mate activiteiten van energiegemeenschappen en actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°, en de verkoop van groene stroom conform artikel 7.2.3, kunnen bijdragen aan de ontlasting van het distributienet, inclusief de vermeden investeringen en kosten in het net, en de relevante vergoedingen en kortingen op nettarieven te onderzoeken die daarvoor desgevallend kunnen worden voorzien ten aanzien van de hernieuwbare-energiegemeenschappen, de energiegemeenschappen van burgers, de betrokken personen van de verkoop van groene stroom conform artikel 7.2.3 of de actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°.<br>
+§ 4. De Vlaamse Regering neemt maatregelen om de ontwikkeling van hernieuwbare-energiegemeenschappen en energiegemeenschappen van burgers te bevorderen en te vergemakkelijken. In dat kader vraagt de Vlaamse Regering aan de Vlaamse Nutsregulator via een kosten-batenanalyse te onderzoeken in welke mate activiteiten van energiegemeenschappen en actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°, en de verkoop van groene stroom conform artikel 7.2.3, kunnen bijdragen aan de ontlasting van het distributienet, inclusief de vermeden investeringen en kosten in het net, en de relevante vergoedingen en kortingen op nettarieven te onderzoeken die daarvoor desgevallend kunnen worden voorzien ten aanzien van de hernieuwbare-energiegemeenschappen, de energiegemeenschappen van burgers, de betrokken personen van de verkoop van groene stroom conform artikel 7.2.3 of de actieve afnemers in een gebouw als vermeld in artikel 7.2.1, § 1, tweede lid, 1°.<br>
 <br>
 De Vlaamse Regering kan met het doel innovatieve projecten te stimuleren binnen het kader van regelluwe zones voor energie, vermeld in titel XIV/1, aan energiegemeenschappen van burgers of aan hernieuwbare-energiegemeenschap-pen toestaan om distributienetten binnen hun dekkingsgebied te beheren, evenwel zonder dat dit in strijd is met de geldende regelgeving.
 
@@ -2359,7 +2171,7 @@ Het beheer van een warmte- of koudenet omvat onder meer de volgende taken:<br>
 8° het beheren van het toegangsregister van zijn warmte- of koudenet;<br>
 9° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn warmte- of koudenet;<br>
 10° het aflezen van de meters en tellers op de toegangspunten op zijn warmte- of koudenet, de bepaling van de injectie en de afname van de warmte- of koudeproducenten en van de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie die aangesloten zijn op zijn warmte- of koudenet, en de verwerking en de bewaring van die gegevens;<br>
-11° het verstrekken van de nodige meetgegevens en andere gegevens aan de warmteproducenten, de warmte- of koudeleveranciers, de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie en de VREG;<br>
+11° het verstrekken van de nodige meetgegevens en andere gegevens aan de warmteproducenten, de warmte- of koudeleveranciers, de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie en de Vlaamse Nutsregulator;<br>
 12° het actief detecteren en vaststellen van alle vormen van energiefraude, en het nemen van maatregelen om energiefraude te vermijden.<br>
 <br>
 De Vlaamse Regering kan nadere regels uitvaardigen voor de taken, vermeld in het eerste lid. Die regels kunnen de taken van de warmte- of koudenetbeheerders verder preciseren en concretiseren.
@@ -2502,13 +2314,35 @@ De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden 
 <br>
 De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken warmte- of koudenetbeheerder.
 
+## Afdeling VII. Geschillenbeslechting en bemiddeling door de Vlaamse Nutsregulator
+
+### ART 4/1.1.15.
+
+Partijen die een klacht hebben over de verplichtingen van een warmte- of koudenetbeheerder op grond van titel IV/1, V, VI en VII, hoofdstuk I tot en met IV, van dit decreet of de uitvoeringsbepalingen ervan, kunnen het geschil schriftelijk ter bemiddeling voorleggen aan de Vlaamse Nutsregulator. De Vlaamse Nutsregulator stelt de bemiddelingsprocedure vast.<br>
+<br>
+De Vlaamse Nutsregulator is niet verplicht om te bemiddelen als:<br>
+1° de indiener geen belang kan aantonen;<br>
+2° de klacht kennelijk ongegrond is;<br>
+3° de klacht kennelijk onredelijk is;<br>
+4° de klacht betrekking heeft op feiten:<br>
+a)&nbsp;&nbsp; &nbsp;waarover de indiener eerder een klacht heeft ingediend die conform de toepasselijke decretale regeling is behandeld;<br>
+b)&nbsp;&nbsp; &nbsp;waarover al een klacht in behandeling is bij de Vlaamse Ombudsdienst.
+
+### ART 4/1.1.16.
+
+Partijen die een klacht hebben over de verplichtingen van een warmte- of koudenetbeheerder op grond van titel IV/1, V, VI en VII, hoofdstuk I tot en met IV, van dit decreet of de uitvoeringsbepalingen ervan, kunnen het geschil schriftelijk ter beslechting voorleggen aan de Vlaamse Nutsregulator.<br>
+<br>
+De Vlaamse Nutsregulator beslecht het geschil met een gemotiveerde, bindende beslissing binnen twee maanden na ontvangst van de klacht. Die periode kan met twee maanden worden verlengd als de Vlaamse Nutsregulator aanvullende informatie vraagt. Een nieuwe verlenging van die termijn is mogelijk voor zover de klager daarmee akkoord gaat.<br>
+<br>
+De beslissing wordt genomen na de betrokken partijen te hebben gehoord. De Vlaamse Nutsregulator kan overgaan of doen overgaan tot alle nuttige onderzoeken en kan, als dat nodig is, deskundigen aanwijzen en getuigen horen. Hij kan bewarende maatregelen opleggen in dringende gevallen. De beslissing kan al of niet een terugbetaling of vergoeding inhouden.
+
 ## [HOOFDSTUK II. Technische voorschriften voor het beheer van warmte- of koudenetten (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
 ## [Afdeling I. Technische reglementen (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
 ### ART 4/1.2.1.
 
-§ 1. De VREG kan, na voorafgaand stakeholdersoverleg, een ontwerp van technisch reglement opstellen voor het beheer van warmte- of koudenetten. Dat ontwerp van reglement wordt ter consultatie aan de marktpartijen voorgelegd.<br>
+§ 1. De Vlaamse Nutsregulator kan, na voorafgaand stakeholdersoverleg, een ontwerp van technisch reglement opstellen voor het beheer van warmte- of koudenetten. Dat ontwerp van reglement wordt ter consultatie aan de marktpartijen voorgelegd.<br>
 <br>
 § 2. Het technisch reglement, vermeld in paragraaf 1, kan voor het beheer van, de toegang tot en de aansluiting op het net onder meer de volgende bepalingen bevatten:<br>
 1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het warmte- of koudenet, vermeld in artikel 4/1.1.1;<br>
@@ -2516,11 +2350,11 @@ De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betr
 3° de regels voor de uitwisseling van gegevens tussen de warmte- of koudebeheerders, de warmte- of koudeproducenten, de warmte- of koudeleveranciers, en de tussenpersonen bij de levering van thermische energie, afnemers van thermische energie, eindgebruikers van thermische energie;<br>
 4° de regels die opgelegd zijn aan warmte- of koudeleveranciers, tussenpersonen bij de levering van thermische energie en warmte- of koudenetbeheerders bij klantenwissels, verhuizing, bewoning naar een nieuwe of verzegelde woning, verzegeling, afsluiting, de beëindiging van een leveringscontract, de opname en rechtzetting van meterstanden en de allocatie en reconciliatie, inclusief de financiële verrekeningen;<br>
 5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan warmte- of koudeleveranciers, tussenpersonen bij de levering van thermische energie of warmte- of koudenetbeheerders op grond van dit decreet;<br>
-6° de informatieverplichtingen of de voorafgaande goedkeuring door de VREG van de operationele regels, de algemene voorwaarden, de typeovereenkomsten, de formulieren en de procedures die gebruikt worden door de warmte- of koudenetbeheerder ten aanzien van warmte- of koudeleveranciers , tussenpersonen bij de levering van thermische energie, afnemers van thermische energie en eindgebruikers van thermische energie;<br>
+6° de informatieverplichtingen of de voorafgaande goedkeuring door de Vlaamse Nutsregulator van de operationele regels, de algemene voorwaarden, de typeovereenkomsten, de formulieren en de procedures die gebruikt worden door de warmte- of koudenetbeheerder ten aanzien van warmte- of koudeleveranciers , tussenpersonen bij de levering van thermische energie, afnemers van thermische energie en eindgebruikers van thermische energie;<br>
 7° de prioriteit die in voorkomend geval moet worden gegeven aan kwalitatieve warmte-krachtinstallaties en aan productie-installaties van groene warmte;<br>
-8° de verplichting voor de warmte- of koudenetbeheerders om informatie te verstrekken aan de VREG over de beoordeling die ze uitvoeren van het potentieel voor energie-efficiëntie van hun netinfrastructuur, in het bijzonder wat betreft vervoer van thermische energie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren.<br>
+8° de verplichting voor de warmte- of koudenetbeheerders om informatie te verstrekken aan de Vlaamse Nutsregulator over de beoordeling die ze uitvoeren van het potentieel voor energie-efficiëntie van hun netinfrastructuur, in het bijzonder wat betreft vervoer van thermische energie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren.<br>
 <br>
-§ 3. Het technisch reglement, vermeld in paragraaf 1, is onderworpen aan de goedkeuring van de Vlaamse Regering. In voorkomend geval wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de VREG, die, rekening houdend met de opmerkingen van de Vlaamse Regering, de gevraagde aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+§ 3. Het technisch reglement, vermeld in paragraaf 1, is onderworpen aan de goedkeuring van de Vlaamse Regering. In voorkomend geval wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de Vlaamse Nutsregulator, die, rekening houdend met de opmerkingen van de Vlaamse Regering, de gevraagde aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
 <br>
 De technische reglementen treden pas in werking na de bekendmaking ervan in het Belgisch Staatsblad.
 
@@ -2585,7 +2419,7 @@ De kosten die de netbeheerder en de warmte- of koudenetbeheerders heeft gemaakt 
 <br>
 In afwijking van het derde lid, vordert de leverancier het onrechtmatig bekomen voordeel dat werd bekomen ten gevolge van het niet nakomen van de meldingsplicht voor decentrale productie-installaties ≤ 10 kVA zoals vermeld in het aansluitingsreglement terug bij de netgebruiker als de melding heeft plaatsgevonden voor het verstrijken van een termijn van drie maanden na de keuringsdatum van de installatie.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.
 
 ### ART 5.1.3.
 
@@ -2595,7 +2429,7 @@ De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de
 <br>
 De kosten die de netbeheerder of transmissienetbeheerder heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, ongedaan te maken, en de kosten van de opschorting, stopzetting of terugvordering, van het onrechtmatig verkregen voordeel en de intresten zijn ten laste van de betreffende netgebruiker. De netbeheerder of zijn gemandateerde zal deze kosten, en ook het onrechtmatig verkregen voordeel en de interesten, rechtstreeks invorderen bij de netgebruiker.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.<br>
 <br>
 § 2. Met behoud van de toepassing van de bepalingen van de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, kan de warmte- of koudenetbeheerder de uitbetaling van vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet, opschorten, stopzetten of terugvorderen als er energiefraude als vermeld in artikel 1.1.3, 40° /1, f), wordt vastgesteld.<br>
 <br>
@@ -2603,7 +2437,7 @@ De kosten die de warmte- of koudenetbeheerder heeft verricht om de energiefraude
 
 ### ART 5.1.4.
 
-De netbeheerders en de warmte- of koudenetbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6 of artikel 4/1.1.1, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het VEKA, de VREG, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
+De netbeheerders en de warmte- of koudenetbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6 of artikel 4/1.1.1, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het VEKA, de Vlaamse Nutsregulator, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
 <br>
 De netbeheerders en de warmte- of koudenetbeheerders die gebruikmaken van technieken als datamining of profilering om energiefraude te detecteren en vast te stellen hanteren proportionele en relevante criteria, die periodiek kunnen variëren, en die ervoor zorgen dat de te verwerken persoonsgegevens zo beperkt mogelijk maar tegelijk relevant zijn om fraudetypologieën te detecteren. De Vlaamse Regering kan nadere regels uitvaardigen met betrekking tot de te hanteren criteria.<br>
 <br>
@@ -2766,20 +2600,26 @@ De bandingfactor is in dit geval maximaal gelijk aan 0,75.<br>
 
 ### ART. 7.1.3.
 
-<p>Groenestroomcertificaten en warmte-krachtcertificaten worden toegekend door de VREG op basis van de gegevens die hem daartoe worden overgemaakt door het VEKA, de netbeheerders, de transmissienetbeheerder, de eigenaar van de productie-installatie of diens gemachtigde.<br>
+<p>Groenestroomcertificaten en warmte-krachtcertificaten worden toegekend door de Vlaamse Nutsregulator op basis van de gegevens die hem daartoe worden overgemaakt door het VEKA, de netbeheerders, de transmissienetbeheerder, de eigenaar van de productie-installatie of diens gemachtigde.<br>
 <br>
 De Vlaamse Regering legt de nadere toepassingsregels en procedures vast met betrekking tot de aanvraag, de toekenning, inclusief de gevallen van de schorsing en intrekking van de uitgifte ervan, van groenestroomcertificaten en warmte-krachtcertificaten, met inbegrip van de gegevensoverdracht, bedoeld in het vorig lid. De Vlaamse Regering zorgt er hierbij voor dat een onderneming in moeilijkheden geen aanvraagdossiers voor het verkrijgen van groenestroomcertificaten of warmtekracht certificaten kan indienen.</p>
 
 ### ART. 7.1.4.
 
-De door de VREG toegekende groenestroom-certificaten en warmtekrachtcertificaten worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per certificaat in de centrale databank moeten worden vermeld.<br>
+De door de Vlaamse Nutsregulator toegekende groenestroom-certificaten en warmtekrachtcertificaten worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per certificaat in de centrale databank moeten worden vermeld.<br>
 <br>
-Jaarlijks wordt door de VREG uiterlijk op 31 januari het aantal groenestroomcertificaten en warmte-krachtcertificaten dat gedurende het vorige kalenderjaar aan rechtspersonen is toegekend, actief openbaar gemaakt. De voormelde openbaar- making bevat al de volgende elementen per rechtspersoon:<br>
+Jaarlijks wordt door de Vlaamse Nutsregulator uiterlijk op 31 januari het aantal groenestroomcertificaten en warmte-krachtcertificaten dat gedurende het vorige kalenderjaar aan rechtspersonen is toegekend, actief openbaar gemaakt. De voormelde openbaar- making bevat al de volgende elementen per rechtspersoon:<br>
 1° het ondernemingsnummer, vermeld in artikel III.17 van het Wetboek van economisch recht, van de certificaatgerechtigde en ook de naam, het postnummer, de gemeente en het land die aan dat ondernemingsnummer of vergelijk- baar identificatienummer gekoppeld zijn;<br>
 2° het adres van de productie-installatie waar de certificaten terechtkomen, op basis van het postnummer van het vestigingsnummer of de andere lokalisatieparameter in het dossierbehandelingssysteem;<br>
 3° per productie-installatie en per ondernemingsnummer: het vermogen en de datum van indienstname, de technologie, het aantal groenestroomcertificaten en warmte-krachtcertificaten dat per jaar gedurende de vorige tien jaar is toe- gekend, en de minimumsteunwaarde ervan, vermeld in artikel 7.1.6 en 7.1.7 van dit decreet.<br>
 <br>
-De VREG kan voor de unieke identificatie van de gebruikers van de databank het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.
+De Vlaamse Nutsregulator kan voor de unieke identificatie van de gebruikers van de databank het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.<br>
+<br>
+De databank dient voor het verwerken en opvolgen van de aanvraag, de behandeling, de toekenning, de verhandeling, de vernietiging en de inlevering van groenestroomcertificaten en warmte-krachtcertificaten, alsook voor de handhaving van de certificatenverplichtingen, de verkoop van elektriciteit als groene stroom, en voor controle en transparantie van de certificatenmarkt, en de rapportering en controle van andere verplichtingen die door of krachtens titel V en VII van dit decreet worden ingesteld.<br>
+<br>
+De Vlaamse Nutsregulator is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De persoonsgegevens die in het kader van het toekennen van groenestroomcertificaten of warmte-krachtcertificaten worden verwerkt, worden bewaard tot één jaar na het verstrijken van de periode waarin de groenestroomcertificaten of warmte-krachtcertificaten geldig zijn als bedoeld in artikel 7.1.5.
 
 ## [Afdeling I/1. Berekening van de onrendabele toppen en de bandingfactoren (ing. Decr. 13 juli 2012, art. 6, I: 30 juli 2012)]
 
@@ -2904,9 +2744,9 @@ De Vlaamse Regering kan voor projectcategorieën waarvoor een specifieke onrenda
 <br>
 De Vlaamse Regering kan verdere definities voor toepassing van deze paragraaf vastleggen.<br>
 <br>
-§ 2. De netbeheerders brengen minstens één keer per jaar certificaten die aan hen werden overgedragen op de markt om de kosten die verbonden zijn aan de verplichting, vermeld in paragraaf 1, te recupereren. De VREG zorgt voor de transparantie en de regulariteit van de verkoop van die certificaten door de netbeheerders. De Vlaamse Regering kan nadere regels bepalen betreffende de manier waarop, de voorwaarden waaronder en het tijdsbestek waarbinnen de netbeheerder de certificaten terug op de markt brengt.<br>
+§ 2. De netbeheerders brengen minstens één keer per jaar certificaten die aan hen werden overgedragen op de markt om de kosten die verbonden zijn aan de verplichting, vermeld in paragraaf 1, te recupereren. De Vlaamse Nutsregulator zorgt voor de transparantie en de regulariteit van de verkoop van die certificaten door de netbeheerders. De Vlaamse Regering kan nadere regels bepalen betreffende de manier waarop, de voorwaarden waaronder en het tijdsbestek waarbinnen de netbeheerder de certificaten terug op de markt brengt.<br>
 <br>
-De lijsten van de overgedragen certificaten en van de certificaten die door de netbeheerders op de markt werden gebracht, worden maandelijks door de netbeheerders aan de VREG meegedeeld.<br>
+De lijsten van de overgedragen certificaten en van de certificaten die door de netbeheerders op de markt werden gebracht, worden maandelijks door de netbeheerders aan de Vlaamse Nutsregulator meegedeeld.<br>
 <br>
 Vanaf het jaar 2010 verrekenen de netbeheerders, met uitzondering van de netbeheerder die overeenkomstig de federale Elektriciteitswet ook als transmissienetbeheerder is aangeduid, jaarlijks in het jaar n onderling de kost van de verplichting, vermeld in paragraaf 1, in verhouding tot de hoeveelheden verdeelde elektriciteit in het jaar n-1. De te verdelen kosten worden per netbeheerder beperkt tot een percentage van het distributiebudget, dat overeenstemt met het aandeel dat de kosten van de verplichting voor alle betrokken netbeheerders samen vertegenwoordigt in het totale distributiebudget, plus 5 %.<br>
 <br>
@@ -2928,9 +2768,9 @@ Vanaf het jaar 2015 verrekenen de netbeheerders, met uitzondering van de netbehe
 
 <p>De verplichting, vermeld in het eerste lid, geldt voor warmte-krachtinstallaties waarvoor de certificatenaanvraag werd ingediend na 30 juni 2006 en loopt over een periode van tien jaar vanaf de datum van indienstneming van de warmte-krachtinstallatie. Voor installaties die een startdatum vanaf 1 januari 2013 hebben, loopt de verplichting tot het einde van de periode waarin warmte-krachtcertificaten worden toegekend.</p>
 
-<p>§ 2. De netbeheerders brengen minstens één keer per jaar warmte-krachtcertificaten die aan hen werden overgedragen op de markt om de kosten die verbonden zijn aan de verplichting, vermeld in paragraaf 1, te recupereren. De VREG zorgt voor de transparantie en de regulariteit van de verkoop van die warmtekrachtcertificaten door de netbeheerders. De Vlaamse Regering kan nadere regels bepalen betreffende de manier waarop, de voorwaarden waaronder en het tijdsbestek waarbinnen de netbeheerder de certificaten terug op de markt brengt.</p>
+<p>§ 2. De netbeheerders brengen minstens één keer per jaar warmte-krachtcertificaten die aan hen werden overgedragen op de markt om de kosten die verbonden zijn aan de verplichting, vermeld in paragraaf 1, te recupereren. De Vlaamse Nutsregulator zorgt voor de transparantie en de regulariteit van de verkoop van die warmtekrachtcertificaten door de netbeheerders. De Vlaamse Regering kan nadere regels bepalen betreffende de manier waarop, de voorwaarden waaronder en het tijdsbestek waarbinnen de netbeheerder de certificaten terug op de markt brengt.</p>
 
-<p>De lijsten van de overgedragen warmte-krachtcertificaten en van de warmte-krachtcertificaten die door de netbeheerders op de markt werden gebracht, worden maandelijks door de netbeheerders aan de VREG meegedeeld.</p>
+<p>De lijsten van de overgedragen warmte-krachtcertificaten en van de warmte-krachtcertificaten die door de netbeheerders op de markt werden gebracht, worden maandelijks door de netbeheerders aan de Vlaamse Nutsregulator meegedeeld.</p>
 
 <p>Vanaf het jaar 2010 verrekenen de netbeheerders, met uitzondering van de netbeheerder die overeenkomstig de federale Elektriciteitswet ook als transmissienetbeheerder is aangeduid, jaarlijks in het jaar n onderling de meerkosten van de verplichting, vermeld in paragraaf 1, in verhouding tot de hoeveelheden verdeelde elektriciteit in het jaar n-1. De te verdelen kosten worden per netbeheerder beperkt tot een percentage van het distributiebudget, dat overeenstemt met het aandeel dat de kosten van de verplichting voor alle betrokken netbeheerders samen vertegenwoordigt in het totale distributiebudget, plus 5 %.<br>
 <br>
@@ -2963,7 +2803,7 @@ Vanaf het jaar 2015 verrekenen de netbeheerders, met uitzondering van de netbehe
 
 ### ART. 7.1.10.
 
-<p>§ 1. Iedere persoon die in het jaar n-1 als toegangshouder geregistreerd stond in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks uiterlijk op 31 oktober van het jaar n, bij de VREG het aantal groenestroomcertificaten in te dienen dat bepaald wordt met toepassing van § 2 of § 4 in voorkomend geval.</p>
+<p>§ 1. Iedere persoon die in het jaar n-1 als toegangshouder geregistreerd stond in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks uiterlijk op 31 oktober van het jaar n, bij de Vlaamse Nutsregulator het aantal groenestroomcertificaten in te dienen dat bepaald wordt met toepassing van § 2 of § 4 in voorkomend geval.</p>
 
 <p>§ 2. Het aantal groenestroomcertificaten dat in een bepaald jaar n moet worden ingediend, wordt tot en met 31 maart 2012 vastgesteld met de formule :<br>
 C = G x Ev, waarbij :<br>
@@ -3040,7 +2880,7 @@ Indien de Vlaamse Regering certificaten aanvaardt voor groene stroom die niet is
 
 ### ART. 7.1.11.
 
-<p>§ 1. Iedere persoon die in het jaar n-1 geregistreerd stond als toegangshouder in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet, de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks, uiterlijk op 31 oktober van het jaar n, bij de VREG het aantal warmtekrachtcertificaten in te dienen dat bepaald wordt met toepassing van § 2.<br>
+<p>§ 1. Iedere persoon die in het jaar n-1 geregistreerd stond als toegangshouder in het toegangsregister van een elektriciteitsdistributienetbeheerder, een beheerder van een gesloten distributienet, de beheerder van het plaatselijk vervoernet van elektriciteit of transmissienetbeheerder, op een afnamepunt in het Vlaamse Gewest, en geen netbeheerder is, is verplicht jaarlijks, uiterlijk op 31 oktober van het jaar n, bij de Vlaamse Nutsregulator het aantal warmtekrachtcertificaten in te dienen dat bepaald wordt met toepassing van § 2.<br>
 <br>
 § 2. Het aantal warmte-krachtcertificaten dat in een bepaald jaar n moet worden ingediend, wordt vastgesteld met de formule :<br>
 <br>
@@ -3102,7 +2942,13 @@ De Vlaamse Regering zorgt met toepassing van het eerste en het tweede lid en all
 
 ### ART. 7.1.12.
 
-De Vlaamse Regering kan besluiten om, na advies van de VREG, in het kader van de verplichtingen van artikelen 7.1.10 en 7.1.11, certificaten te aanvaarden die respectievelijk worden toegekend voor elektriciteitsproductie uit hernieuwbare energie en primaire energiebesparing door kwalitatieve warmtekrachtkoppeling in installaties buiten het Vlaamse Gewest.<br /><br />Voor het aanvaarden van de in het eerste lid vermelde certificaten dienen een aantal randvoorwaarden vervuld te zijn. Die randvoorwaarden hebben betrekking op het bestaan van gelijke of gelijkwaardige garanties inzake de aflevering en op de goede werking van de certificatenmarkt.<br /><br />De Vlaamse Regering stelt de procedure en voorwaarden vast voor de aanvaarding van dergelijke certificaten in het kader van de verplichtingen van artikelen 7.1.10 en 7.1.11. De Vlaamse Regering kan een voorwaarde tot wederkerigheid instellen.<br /><br />De Vlaamse Regering sluit hierover een samenwerkingsakkoord af met de federale overheid, de andere gewesten of andere landen.
+De Vlaamse Regering kan besluiten om, na advies van de Vlaamse Nutsregulator, in het kader van de verplichtingen van artikelen 7.1.10 en 7.1.11, certificaten te aanvaarden die respectievelijk worden toegekend voor elektriciteitsproductie uit hernieuwbare energie en primaire energiebesparing door kwalitatieve warmtekrachtkoppeling in installaties buiten het Vlaamse Gewest.<br>
+<br>
+Voor het aanvaarden van de in het eerste lid vermelde certificaten dienen een aantal randvoorwaarden vervuld te zijn. Die randvoorwaarden hebben betrekking op het bestaan van gelijke of gelijkwaardige garanties inzake de aflevering en op de goede werking van de certificatenmarkt.<br>
+<br>
+De Vlaamse Regering stelt de procedure en voorwaarden vast voor de aanvaarding van dergelijke certificaten in het kader van de verplichtingen van artikelen 7.1.10 en 7.1.11. De Vlaamse Regering kan een voorwaarde tot wederkerigheid instellen.<br>
+<br>
+De Vlaamse Regering sluit hierover een samenwerkingsakkoord af met de federale overheid, de andere gewesten of andere landen.
 
 ### ART. 7.1.13.
 
@@ -3123,25 +2969,31 @@ Als een leverancier die kosten expliciet vermeldt op de factuur, mag het vermeld
 
 ### ART. 7.1/1.1.
 
-§ 1. De Vlaamse Regering bepaalt onder welke voorwaarden de VREG een garantie van oorsprong toekent aan de eigenaar van een productie-installatie die in het Vlaamse Gewest ligt, of aan de natuurlijke persoon of rechtspersoon die de eigenaar daarvoor heeft aangewezen, voor:<br>
+§ 1. De Vlaamse Regering bepaalt onder welke voorwaarden de Vlaamse Nutsregulator een garantie van oorsprong toekent aan de eigenaar van een productie-installatie die in het Vlaamse Gewest ligt, of aan de natuurlijke persoon of rechtspersoon die de eigenaar daarvoor heeft aangewezen, voor:<br>
 1° elke MWh elektriciteit die in de installatie wordt opgewekt uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling;<br>
 2° elke MWh gas die in de installatie wordt opgewekt uit hernieuwbare energiebronnen;<br>
 3° elke MWh warmte of koude die in de installatie wordt opgewekt uit hernieuwbare energiebronnen.<br>
 <br>
 De Vlaamse Regering kan beslissen om ook garanties van oorsprong toe te laten kennen voor elektriciteit, gas, warmte of koude die is opgewekt uit andere energiebronnen, en voor vloeibare of vaste brandstoffen.<br>
 <br>
-De VREG kent die garanties van oorsprong toe op basis van de productiewaarden en gegevens die met dat doel worden bezorgd door de instantie die de Vlaamse Regering daarvoor heeft aangewezen.<br>
+De Vlaamse Nutsregulator kent die garanties van oorsprong toe op basis van de productiewaarden en gegevens die met dat doel worden bezorgd door de instantie die de Vlaamse Regering daarvoor heeft aangewezen.<br>
 <br>
 § 2. De Vlaamse Regering legt de nadere toepassingsregels en procedures vast voor de vorm, de inhoud, de aanvraag en de toekenning van de garanties van oorsprong, en voor de meting, bepaling en controle van de geproduceerde hoeveelheid elektriciteit, gas, warmte of koude waarvoor de garanties van oorsprong worden toegekend.<br>
 <br>
 § 2/1. De Vlaamse Regering kan uitzonderingen vastleggen voor de toekenning van garanties van oorsprong, afhankelijk van een minimumcapaciteit van de productie-installatie, het ontvangen van financiële steun en het al dan niet verbruiken van energie ter plaatse op de site van opwekking.<br>
 <br>
-§ 3. De garanties van oorsprong die de VREG toegekend heeft, worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per garantie van oorsprong in de centrale databank worden opgenomen.<br>
+§ 3. De garanties van oorsprong die de Vlaamse Nutsregulator toegekend heeft, worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per garantie van oorsprong in de centrale databank worden opgenomen.<br>
 <br>
-Jaarlijks wordt door de VREG uiterlijk op 31 januari het aantal garanties van oorsprong dat gedurende het vorige kalenderjaar aan rechtspersonen is toegekend actief openbaar gemaakt. De voormelde openbaarmaking bevat al de volgende elementen per rechtspersoon:<br>
+Jaarlijks wordt door de Vlaamse Nutsregulator uiterlijk op 31 januari het aantal garanties van oorsprong dat gedurende het vorige kalenderjaar aan rechtspersonen is toegekend actief openbaar gemaakt. De voormelde openbaarmaking bevat al de volgende elementen per rechtspersoon:<br>
 1° het ondernemingsnummer, vermeld in artikel III.17 van het Wetboek van economisch recht, van de ontvanger van de garanties van oorsprong en ook de naam, het postnummer, de gemeente en het land die aan dat ondernemingsnummer of vergelijkbaar identificatienummer gekoppeld zijn;<br>
 2° het adres van de productie-installatie waar de garanties van oorsprong terechtkomen, op basis van het postnummer van het vestigingsnummer of de andere lokalisatieparameter in het dossierbehandelingssysteem;<br>
-3° per productie-installatie, vermeld in paragraaf 1, en per ondernemingsnummer: het vermogen en de datum van indienstname, de technologie, het aantal garanties van oorsprong dat per jaar gedurende de vorige tien jaar is toegekend.
+3° per productie-installatie, vermeld in paragraaf 1, en per ondernemingsnummer: het vermogen en de datum van indienstname, de technologie, het aantal garanties van oorsprong dat per jaar gedurende de vorige tien jaar is toegekend.<br>
+<br>
+De databank dient voor het verwerken en opvolgen van de aanvraag, de behandeling, de toekenning, de verhandeling, de import, de export, de vernietiging en de inlevering van garanties van oorsprong, alsook voor de handhaving van de certificatenverplichtingen, de verkoop van elektriciteit als groene stroom, en voor controle en transparantie van de markt, en de rapportering en controle van andere verplichtingen die door of krachtens titel V en VII van dit decreet worden ingesteld.<br>
+<br>
+De Vlaamse Nutsregulator is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De persoonsgegevens die in het kader van het toekennen van garanties van oorsprong worden verwerkt, worden bewaard tot één jaar na het verstrijken van de periode waarin de garanties van oorsprong geldig zijn.
 
 ### ART. 7.1/1.2.
 
@@ -3161,15 +3013,15 @@ De Vlaamse Regering bepaalt onder welke voorwaarden garanties van oorsprong die 
 
 Een garantie van oorsprong kan alleen worden ingeleverd op de wijze, vermeld in artikel 7.1/1.2, voor de staving van de levering van een hoeveelheid energie uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling, als die levering plaatsvindt binnen twaalf maanden na het einde van de productieperiode van de energie waarvoor de garanties van oorsprong werden toegekend.<br>
 <br>
-De VREG kan een garantie van oorsprong, die nog ingeleverd kan worden, op verzoek van de eigenaar ervan vernietigen. De betrokken eigenaar kan aan de VREG vragen om de vernietiging van de garanties van oorsprong in kwestie te attesteren.
+De Vlaamse Nutsregulatorkan een garantie van oorsprong, die nog ingeleverd kan worden, op verzoek van de eigenaar ervan vernietigen. De betrokken eigenaar kan aan de Vlaamse Nutsregulatorvragen om de vernietiging van de garanties van oorsprong in kwestie te attesteren.
 
 ### ART 7.1/1.5.
 
-Voor het gebruik van de centrale databank, vermeld in artikel 7.1/1.1, § 3, voor de registratie van een aankoop, import, export, inlevering en vernietiging van een garantie van oorsprong, kan de betaling van een retributie aan de VREG worden vereist.<br>
+Voor het gebruik van de centrale databank, vermeld in artikel 7.1/1.1, § 3, voor de registratie van een aankoop, import, export, inlevering en vernietiging van een garantie van oorsprong, kan de betaling van een retributie aan de Vlaamse Nutsregulator worden vereist.<br>
 <br>
-De retributie is in dat geval verschuldigd door de persoon die de garanties van oorsprong aankoopt, exporteert, importeert, inlevert of laat vernietigen door de VREG.<br>
+De retributie is in dat geval verschuldigd door de persoon die de garanties van oorsprong aankoopt, exporteert, importeert, inlevert of laat vernietigen door de Vlaamse Nutsregulator.<br>
 <br>
-De VREG bepaalt het tarief van de retributie, alsook de wijze waarop de retributie wordt geïnd. Die retributie kan niet meer bedragen dan 5 eurocent per garantie van oorsprong die wordt aangekocht, geëxporteerd, geïmporteerd, ingeleverd of vernietigd, en ze kan evenmin hoger zijn dan 5% van de gemiddelde marktwaarde van de garanties van oorsprong die gedurende het voorgaande jaar werden verhandeld.<br>
+De Vlaamse Nutsregulator bepaalt het tarief van de retributie, alsook de wijze waarop de retributie wordt geïnd. Die retributie kan niet meer bedragen dan 5 eurocent per garantie van oorsprong die wordt aangekocht, geëxporteerd, geïmporteerd, ingeleverd of vernietigd, en ze kan evenmin hoger zijn dan 5% van de gemiddelde marktwaarde van de garanties van oorsprong die gedurende het voorgaande jaar werden verhandeld.<br>
 <br>
 De Vlaamse Regering kan ook een retributie vastleggen voor de verwerking van de aanvraag, de opvolging van de rapportering en de berekening van het aantal toe te kennen garanties van oorsprong.
 
@@ -3205,7 +3057,7 @@ De volgende personen kunnen aan energiedelen doen:<br>
 <br>
 De titularis van het toegangspunt wijst bij energiedelen altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de netbeheerder zijn.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, iedere persoon, vermeld in het eerste lid, in het kader van energiedelen verplichtingen opleggen over de volgende aspecten:<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, iedere persoon, vermeld in het eerste lid, in het kader van energiedelen verplichtingen opleggen over de volgende aspecten:<br>
 1° de informatieverlening;<br>
 2° de behandeling van klachten;<br>
 3° maatregelen van sociale aard;<br>
@@ -3249,7 +3101,7 @@ De Vlaamse Regering bepaalt de fasering en timing om de activiteit, vermeld in p
 <br>
 De titularis van het toegangspunt wijst bij de activiteit, vermeld in het eerste lid, altijd een toegangshouder aan op het toegangspunt. Die toegangshouder kan in geen geval de netbeheerder zijn of de vereniging van mede-eigenaars, tenzij die een leveringsvergunning heeft aangevraagd.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de vereniging van mede- eigenaars in het kader van de activiteit, vermeld in het eerste lid, verplichtingen opleggen over de volgende aspecten:<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de vereniging van mede- eigenaars in het kader van de activiteit, vermeld in het eerste lid, verplichtingen opleggen over de volgende aspecten:<br>
 1° &nbsp;de informatieverlening;<br>
 2° de behandeling van klachten;<br>
 3° &nbsp;maatregelen van sociale aard;<br>
@@ -3269,21 +3121,24 @@ De betrokken personen sluiten elk een overeenkomst over hun rechten en verplicht
 <br>
 §3. De Vlaamse Regering kan de nadere regels bepalen voor de activiteit, vermeld in paragraaf 2, eerste lid. De regels hebben betrekking op de minimale bepalingen van de overeenkomsten die worden gesloten tussen de betrokken personen, met inbegrip van bepalingen betreffende het uitstappen uit de activiteit, vermeld in paragraaf 2, eerste lid, het vastleggen van de benodigde gegevens, waaronder de meting en meetgegevens, en de voorwaarden waaraan de methodieken voor de berekening van energiehoeveelheden voor de allocatie, reconciliatie en facturatie, en de aanpassingen aan die berekeningen moeten voldoen.
 
-## HOOFDSTUK III. Beperking aansluitkosten productie-installaties voor elektriciteit uit warmtekrachtinstallaties
+## HOOFDSTUK III. ...
 
 ### ART. 7.3.1.
 
-De kosten voor de aanleg van de elektrische leidingen over de eerste&nbsp;zevenhonderdvijftig meter op het openbaar domein tussen het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit en de productie-installatie, zijn ten laste van de netbeheerder in kwestie voor zover het vermogen van die productie-installatie minstens 75 kWe is en niet hoger is dan 5 MWe. De aanvrager van de aansluiting draagt alle overige kosten bij een nieuwe aansluiting van een productie-installatie van elektriciteit uit kwalitatieve warmtekrachtkoppeling op het distributienet of het plaatselijk vervoernet van elektriciteit.<br>
-<br>
-De kosten voor de aanleg van de aardgasleidingen over de eerste zevenhonderdvijftig meter op het openbaar domein tussen het aardgasdistributienet en een productie-installatie met een vermogen van minstens 75 kWe en niet hoger dan 5 MWe zijn ten laste van de aardgasnetbeheerder voor zover de aansluitingscapaciteit van die productie-installatie niet hoger is dan 2500 m3/h. De aanvrager van de aansluiting draagt alle overige kosten bij een nieuwe aansluiting van een productie-installatie van elektriciteit uit kwalitatieve warmtekrachtkoppeling op het aardgasdistributienet.<br>
-<br>
-De kosten, vermeld in het eerste en tweede lid, die ten laste van de netbeheerder gelegd worden, worden beschouwd als kosten ten gevolge van de openbaredienstverplichtingen van de netbeheerder als netbeheerder.
+...
 
 ## HOOFDSTUK IV. Informatieverlening over de oorsprong en milieugevolgen van de geleverde [energie (verv. decr. 26 april 2019, art. 10, I: 30 mei 2019)]
 
 ### ART. 7.4.1.
 
-De leverancier voor elektriciteit meldt op zijn facturen en in al zijn gedrukte en elektronische promotiemateriaal :<br />1° het aandeel van elke energiebron in de totale brandstofmix die de leverancier in het voorgaande jaar heeft gebruikt in het Vlaamse Gewest, en het aandeel van elke energiebron in de brandstofmix van het aangeboden product van de leverancier aan de betrokken afnemers in het Vlaamse Gewest;<br />2° een verwijzing naar de bestaande officiële referentiebronnen waar voor het publiek toegankelijke informatie beschikbaar is over de gevolgen voor het milieu, ten minste voor wat betreft CO2-emissies en radioactief afval van elektriciteitsproductie die met verschillende energiebronnen geproduceerd is door de totale brandstofmix van de leverancier gedurende het voorafgaande jaar;<br />3° een verklaring dat aan de VREG garanties van oorsprong werden voorgelegd voor geleverde stroom uit hernieuwbare energie of kwalitatieve warmtekrachtkoppeling.<br /><br />De VREG gaat na of de door de leverancier aan zijn klanten verstrekte informatie betrouwbaar is.<br /><br />De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen in het eerste lid.
+De leverancier voor elektriciteit meldt op zijn facturen en in al zijn gedrukte en elektronische promotiemateriaal :<br>
+1° het aandeel van elke energiebron in de totale brandstofmix die de leverancier in het voorgaande jaar heeft gebruikt in het Vlaamse Gewest, en het aandeel van elke energiebron in de brandstofmix van het aangeboden product van de leverancier aan de betrokken afnemers in het Vlaamse Gewest;<br>
+2° een verwijzing naar de bestaande officiële referentiebronnen waar voor het publiek toegankelijke informatie beschikbaar is over de gevolgen voor het milieu, ten minste voor wat betreft CO2-emissies en radioactief afval van elektriciteitsproductie die met verschillende energiebronnen geproduceerd is door de totale brandstofmix van de leverancier gedurende het voorafgaande jaar;<br>
+3° een verklaring dat aan de Vlaamse Nutsregulator garanties van oorsprong werden voorgelegd voor geleverde stroom uit hernieuwbare energie of kwalitatieve warmtekrachtkoppeling.<br>
+<br>
+De Vlaamse Nutsregulator gaat na of de door de leverancier aan zijn klanten verstrekte informatie betrouwbaar is.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen in het eerste lid.
 
 ### ART 7.4.3.
 
@@ -3301,7 +3156,7 @@ De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen, 
 
 ### ART. 7.5.1.
 
-De Vlaamse Regering kan, na advies van de VREG, de leveranciers, de transmissienetbeheerder, de beheerder van het vervoersnet en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de leveranciers, de transmissienetbeheerder, de beheerder van het vervoersnet en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
 <br>
 In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.&nbsp;De voormelde gegevens omvatten minstens:<br>
 1° de identificatie- en contactgegevens van afnemers;<br>
@@ -4408,23 +4263,23 @@ Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot 
 <br>
 Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
 
-## Afdeling II. Toezicht door de VREG
+## Afdeling II. Toezicht door de Vlaamse Nutsregulator
 
 ### ART. 13.1.2.
 
-§ 1. De VREG kan aan een marktpartij of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier of tussenpersoon bij de levering van thermische energie, of aan hun aangestelden, bestuurders, managers en personeelsleden de gegevens en inlichtingen vragen die nodig zijn voor de uitvoering van zijn taken en bevoegdheden, vermeld in artikel 3.1.3 en 3.1.4.<br>
+§ 1. De Vlaamse Nutsregulator kan aan een marktpartij of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier of tussenpersoon bij de levering van thermische energie, of aan hun aangestelden, bestuurders, managers en personeelsleden de gegevens en inlichtingen vragen die nodig zijn voor de uitvoering van zijn taken en bevoegdheden, vermeld in artikel 6 tot en met 12 van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator.<br>
 <br>
-Een marktpartij, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, warmte- of koudeleverancier, tussenpersoon bij de levering van thermische energie, of hun aangestelden, bestuurders, managers en personeelsleden, tot wie de VREG een vraag heeft gericht om gegevens en inlichtingen te verstrekken die nodig zijn om zijn taken en bevoegdheden, vermeld in artikel 3.1.3 en 3.1.4, uit te voeren, is verplicht om die gegevens en inlichtingen accuraat, volledig en consistent mee te delen aan de VREG.<br>
+Een marktpartij, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, warmte- of koudeleverancier, tussenpersoon bij de levering van thermische energie, of hun aangestelden, bestuurders, managers en personeelsleden, tot wie de Vlaamse Nutsregulator een vraag heeft gericht om gegevens en inlichtingen te verstrekken die nodig zijn om zijn taken en bevoegdheden, vermeld in artikel 6 tot en met 12 van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, uit te voeren, is verplicht om die gegevens en inlichtingen accuraat, volledig en consistent mee te delen aan de Vlaamse Nutsregulator.<br>
 <br>
-§ 2. De personeelsleden van de VREG zijn bevoegd om toezicht uit te oefenen op de naleving van titels IV, IV/1, V, VI en hoofdstuk II tot en met IV van titel VII van dit decreet en de uitvoeringsbepalingen ervan en de niet-naleving hiervan vast te stellen in een proces-verbaal.<br>
+§ 2. De personeelsleden van de Vlaamse Nutsregulator zijn bevoegd om toezicht uit te oefenen op de naleving van titels IV, IV/1, V, VI en hoofdstuk II tot en met IV van titel VII van dit decreet en de uitvoeringsbepalingen ervan en de niet-naleving hiervan vast te stellen in een proces-verbaal.<br>
 <br>
-Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de VREG bij iedere marktpartij&nbsp;of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren,&nbsp;warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
+Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de Vlaamse Nutsregulator bij iedere marktpartij&nbsp;of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren,&nbsp;warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon gekregen;<br>
 2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.<br>
 <br>
-§ 3. De marktpartij of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier&nbsp;aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken op grond van § 1, of toegang te verlenen aan de personeelsleden van de VREG op grond van § 2, is verplicht om binnen de door de VREG gestelde termijn alle medewerking te verlenen.<br>
+§ 3. De marktpartij of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier&nbsp;aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken op grond van § 1, of toegang te verlenen aan de personeelsleden van de Vlaamse Nutsregulator op grond van § 2, is verplicht om binnen de door de Vlaamse Nutsregulator gestelde termijn alle medewerking te verlenen.<br>
 <br>
-Gegevens of inlichtingen die in het kader van § 1 en § 2 worden verkregen, gebruikt de VREG alleen voor de uitoefening van haar taken en bevoegdheden, vermeld in de artikelen 3.1.3 en 3.1.4.
+Gegevens of inlichtingen die in het kader van § 1 en § 2 worden verkregen, gebruikt de Vlaamse Nutsregulator alleen voor de uitoefening van haar taken en bevoegdheden, vermeld in de artikelen 3.1.3 en 3.1.4.
 
 ## Afdeling III. Toezicht door [het VEKA (verv. decr. 4 december 2020, art. 30, I: 1 januari 2021)]
 
@@ -4496,31 +4351,34 @@ Indien de bewoner niettegenstaande een verleende toestemming of machtiging als v
 
 ### ART. 13.2.1.
 
-Worden gestraft met een geldboete van een tot vijfhonderd euro en/of een gevangenisstraf van één maand tot één jaar :<br />1° zij die krachtens dit decreet verrichte verificaties of onderzoeken van de VREG of van de Vlaamse Regering hinderen, weigeren de informatie te verstrekken die zij gehouden zijn mede te delen krachtens dit decreet, of bewust verkeerde of onvolledige informatie verstrekken;<br />2° zij die elektriciteit of aardgas leveren aan afnemers die aangesloten zijn op een distributienet of plaatselijk vervoernet van elektriciteit, zonder over een leveringsvergunning te beschikken;<br />3° ...
+Worden gestraft met een geldboete van een tot vijfhonderd euro en/of een gevangenisstraf van één maand tot één jaar :<br>
+1° zij die krachtens dit decreet verrichte verificaties of onderzoeken van de Vlaamse Nutsregulator of van de Vlaamse Regering hinderen, weigeren de informatie te verstrekken die zij gehouden zijn mede te delen krachtens dit decreet, of bewust verkeerde of onvolledige informatie verstrekken;<br>
+2° zij die elektriciteit of aardgas leveren aan afnemers die aangesloten zijn op een distributienet of plaatselijk vervoernet van elektriciteit, zonder over een leveringsvergunning te beschikken;<br>
+3° ...
 
 ### ART. 13.2.2.
 
-Elke overtreding van het beroepsgeheim, zoals vermeld in de artikelen 3.1.12 , 4.1.11 en 4.6.7, wordt gestraft met de straffen die bepaald zijn in artikel 458 van het Strafwetboek.
+Elke overtreding van het beroepsgeheim, zoals vermeld in de artikelen&nbsp; 4.1.11 en 4.6.7, wordt gestraft met de straffen die bepaald zijn in artikel 458 van het Strafwetboek.
 
-## HOOFDSTUK III. Administratieve sancties opgelegd door de VREG
+## HOOFDSTUK III. Administratieve sancties opgelegd door de Vlaamse Nutsregulator
 
 ## Afdeling I. Algemene procedure
 
 ### ART. 13.3.1.
 
-§ 1. Tenzij dit decreet in een specifieke procedure voorziet, kan de VREG elke natuurlijke persoon of rechtspersoon schriftelijk in gebreke stellen bij niet-naleving van de bepalingen van&nbsp;titel IV, IV/1, V, VI hoofdstuk I tot en met IV van titel VII en artikel 13.1.2, van dit decreet en de bijbehorende uitvoeringsbesluiten, met inbegrip van&nbsp;de tariefmethodologie, vermeld in artikel 4.1.30, de technische reglementen en het technisch reglement warmte- of koudenetten.<br>
+§ 1. Tenzij dit decreet in een specifieke procedure voorziet, kan de Vlaamse Nutsregulator elke natuurlijke persoon of rechtspersoon schriftelijk in gebreke stellen bij niet-naleving van de bepalingen van&nbsp;titel IV, IV/1, V, VI hoofdstuk I tot en met IV van titel VII en artikel 13.1.2, van dit decreet en de bijbehorende uitvoeringsbesluiten, met inbegrip van&nbsp;de tariefmethodologie, vermeld in artikel 4.1.30, de technische reglementen en het technisch reglement warmte- of koudenetten.<br>
 <br>
-§ 2. De VREG kan de persoon die in gebreke werd gesteld overeenkomstig § 1 en werd gehoord of daartoe naar behoren werd opgeroepen,&nbsp;een van de administratieve geldboetes, vermeld in artikel 13.3.2, 13.3.3, 13.3.4 of 13.3.6, opleggen. De VREG zorgt ervoor dat er in deze gevallen geen kennelijke wanverhouding bestaat tussen de feiten die aan de administratieve boete ten grondslag ligt en de administratieve boete die op grond van die feiten wordt opgelegd.<br>
+§ 2. De Vlaamse Nutsregulator kan de persoon die in gebreke werd gesteld overeenkomstig § 1 en werd gehoord of daartoe naar behoren werd opgeroepen,&nbsp;een van de administratieve geldboetes, vermeld in artikel 13.3.2, 13.3.3, 13.3.4 of 13.3.6, opleggen. De Vlaamse Nutsregulator zorgt ervoor dat er in deze gevallen geen kennelijke wanverhouding bestaat tussen de feiten die aan de administratieve boete ten grondslag ligt en de administratieve boete die op grond van die feiten wordt opgelegd.<br>
 <br>
-De VREG legt de persoon die in gebreke werd gesteld wegens niet-naleving van de artikelen 7.1.10, 7.1.11 of 7.2.3, en werd gehoord of daartoe naar behoren werd opgeroepen, de administratieve boete op, voorzien in artikel 13.3.5.<br>
+De Vlaamse Nutsregulator legt de persoon die in gebreke werd gesteld wegens niet-naleving van de artikelen 7.1.10, 7.1.11 of 7.2.3, en werd gehoord of daartoe naar behoren werd opgeroepen, de administratieve boete op, voorzien in artikel 13.3.5.<br>
 <br>
 § 3. Het opleggen van de administratieve boete wordt aan de betrokkene meegedeeld in een met redenen omklede aangetekende brief, met verwijzing naar de bepalingen die van toepassing zijn, de hoogte van de administratieve boete en in voorkomend geval de berekening ervan, en de beroepsmogelijkheid.<br>
 <br>
-§ 4. Binnen een vervaltermijn van zestig dagen vanaf de kennisgeving van de beslissing, kan de beslissing van de VREG tot oplegging van een administratieve geldboete worden aangevochten bij de Raad van State.<br>
+§ 4. ...<br>
 <br>
 § 5. Na de ontvangst van de kennisgeving, vermeld in § 3, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden.<br>
 <br>
-De VREG kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+De Vlaamse Nutsregulator kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 6. Als de betrokkene nalaat de administratieve geldboete binnen de in § 5 bepaalde termijn te betalen, wordt de geldboete bij dwangbevel ingevorderd.<br>
 <br>
@@ -4538,9 +4396,9 @@ De verjaring wordt gestuit op de wijze en onder de voorwaarden die bepaald is bi
 
 ### ART. 13.3.2.
 
-Tenzij dit decreet in een specifieke administratieve sanctie voorziet, kan de VREG een administratieve geldboete opleggen, al dan niet per kalenderdag. De administratieve geldboete per kalenderdag mag niet minder dan 250 euro per kalenderdag bedragen, noch meer dan 250.000 euro per kalenderdag, noch mag de administratieve geldboete in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.<br>
+Tenzij dit decreet in een specifieke administratieve sanctie voorziet, kan de Vlaamse Nutsregulator een administratieve geldboete opleggen, al dan niet per kalenderdag. De administratieve geldboete per kalenderdag mag niet minder dan 250 euro per kalenderdag bedragen, noch meer dan 250.000 euro per kalenderdag, noch mag de administratieve geldboete in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.<br>
 <br>
-Met behoud van de toepassing van het eerste lid kan de VREG, tenzij dit decreet in een specifieke administratieve sanctie voorziet, een dwangsom opleggen, als de betrokken overtreder bij het verstrijken van de termijn die de VREG bepaalt, in gebreke blijft. De dwangsom mag niet minder dan 250 euro per kalenderdag<br>
+Met behoud van de toepassing van het eerste lid kan de Vlaamse Nutsregulator, tenzij dit decreet in een specifieke administratieve sanctie voorziet, een dwangsom opleggen, als de betrokken overtreder bij het verstrijken van de termijn die de Vlaamse Nutsregulator bepaalt, in gebreke blijft. De dwangsom mag niet minder dan 250 euro per kalenderdag<br>
 &nbsp;<br>
 bedragen, noch meer dan 250.000 euro per kalenderdag, noch mag de dwangsom in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.
 
@@ -4548,41 +4406,41 @@ bedragen, noch meer dan 250.000 euro per kalenderdag, noch mag de dwangsom in to
 
 ### ART. 13.3.3.
 
-De VREG legt de netbeheerder of de warmte- of koudenetbeheerder voor een overtreding van de openbaredienstverplichtingen, opgelegd op basis van artikel 4.1.22, 2° tot en met 4°, en artikel 4/1.1.6, een administratieve geldboete op die niet minder bedraagt dan 1000 euro en niet meer dan 1% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
+De Vlaamse Nutsregulator legt de netbeheerder of de warmte- of koudenetbeheerder voor een overtreding van de openbaredienstverplichtingen, opgelegd op basis van artikel 4.1.22, 2° tot en met 4°, en artikel 4/1.1.6, een administratieve geldboete op die niet minder bedraagt dan 1000 euro en niet meer dan 1% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
 
 ### ART. 13.3.4.
 
-De VREG legt de netbeheerder of de warmte- of koudenetbeheerder bij het niet-naleven van de termijnen voor de heraansluiting van de elektriciteits- of aardgastoevoer, voor de toevoer van thermische energie en voor de herinschakeling van de stroombegrenzer in de budgetmeter een administratieve geldboete op van 1000 euro per kalenderdag die de termijn, vermeld in artikel 6.1.2, § 3, of artikel 6.2.2, § 3, overschrijdt, tenzij de netbeheerder of de koude- of warmtenetbeheerder kan aantonen dat de oorzaak van de overschrijding van de termijn niet aan hem te wijten is.
+De Vlaamse Nutsregulator legt de netbeheerder of de warmte- of koudenetbeheerder bij het niet-naleven van de termijnen voor de heraansluiting van de elektriciteits- of aardgastoevoer, voor de toevoer van thermische energie en voor de herinschakeling van de stroombegrenzer in de budgetmeter een administratieve geldboete op van 1000 euro per kalenderdag die de termijn, vermeld in artikel 6.1.2, § 3, of artikel 6.2.2, § 3, overschrijdt, tenzij de netbeheerder of de koude- of warmtenetbeheerder kan aantonen dat de oorzaak van de overschrijding van de termijn niet aan hem te wijten is.
 
 ### ART 13.3.4/1.
 
-De VREG legt de leverancier of de warmte- of koudeleverancier voor een overtreding van de openbaredienstverplichtingen, opgelegd op basis van artikel 4.3.2, 4°, of artikel 4/1.3.2, 4°, een administratieve geldboete op die niet minder bedraagt dan 1000 euro en niet meer dan 1% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
+De Vlaamse Nutsregulator&nbsp;legt de leverancier of de warmte- of koudeleverancier voor een overtreding van de openbaredienstverplichtingen, opgelegd op basis van artikel 4.3.2, 4°, of artikel 4/1.3.2, 4°, een administratieve geldboete op die niet minder bedraagt dan 1000 euro en niet meer dan 1% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
 
 ## Afdeling IV. Procedure en administratieve geldboete bij niet-naleving van de bepalingen inzake groenestroomcertificaten, warmtekrachtcertificaten en groenewarmtecertificaten
 
 ### ART. 13.3.5.
 
-§ 1. De VREG legt aan een certificaatplichtige de volgende administratieve boete op :<br>
+§ 1. De Vlaamse Nutsregulator legt aan een certificaatplichtige de volgende administratieve boete op :<br>
 1° een boete van :<br>
-a) 125 euro per groenestroomcertificaat dat de certificaatplichtige tot en met 31 maart 2012 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
-b) 118 euro per groenestroomcertificaat dat de certificaatplichtige op 31 maart 2013 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
-c) 100 euro per groenestroomcertificaat dat de certificaatplichtige na 31 maart 2013 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
+a) 125 euro per groenestroomcertificaat dat de certificaatplichtige tot en met 31 maart 2012 te weinig heeft ingediend bij de Vlaamse Nutsregulator in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
+b) 118 euro per groenestroomcertificaat dat de certificaatplichtige op 31 maart 2013 te weinig heeft ingediend bij de Vlaamse Nutsregulator in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
+c) 100 euro per groenestroomcertificaat dat de certificaatplichtige na 31 maart 2013 te weinig heeft ingediend bij de Vlaamse Nutsregulator in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
 2° een boete van :<br>
-a) 41 euro per warmtekrachtcertificaat dat de certificaatplichtige tot en met 31 maart 2015 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.11;<br>
-b) 38 euro per warmtekrachtcertificaat dat de certificaatplichtige na 31 maart 2015 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.11.<br>
-3° een boete van 125 euro per groenewarmtecertificaat dat de certificaatplichtige te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.2.3.<br>
+a) 41 euro per warmtekrachtcertificaat dat de certificaatplichtige tot en met 31 maart 2015 te weinig heeft ingediend bij de Vlaamse Nutsregulator in het kader van de certificatenverplichting, vermeld in artikel 7.1.11;<br>
+b) 38 euro per warmtekrachtcertificaat dat de certificaatplichtige na 31 maart 2015 te weinig heeft ingediend bij de Vlaamse Nutsregulator in het kader van de certificatenverplichting, vermeld in artikel 7.1.11.<br>
+3° een boete van 125 euro per groenewarmtecertificaat dat de certificaatplichtige te weinig heeft ingediend bij de Vlaamse Nutsregulator in het kader van de certificatenverplichting, vermeld in artikel 7.2.3.<br>
 <br>
 § 1/1. [...&nbsp;<u>vernietigd bij <a href="https://nl.const-court.be/public/n/2013/2013-154n.pdf">arrest Grondwettelijk Hof nr. 154/2013 van 13 november 2013</a>]</u>.<br>
 <br>
-§ 2. De betrokkene kan, indien hij het oneens is met de berekening van de administratieve boete, op straffe van verval binnen de dertig kalenderdagen na de kennisgeving, vermeld in artikel 13.3.1, § 3, de VREG per aangetekende brief op de hoogte brengen van de materiële vergissingen of rekenfouten die bij de berekening gemaakt zouden zijn. Dit bezwaar schorst de termijn bedoeld in artikel 13.3.1, § 4, tot de beslissing van de VREG over het bezwaar, bedoeld in het volgend lid.<br>
+§ 2. De betrokkene kan, indien hij het oneens is met de berekening van de administratieve boete, op straffe van verval binnen de dertig kalenderdagen na de kennisgeving, vermeld in artikel 13.3.1, § 3, de Vlaamse Nutsregulator per aangetekende brief op de hoogte brengen van de materiële vergissingen of rekenfouten die bij de berekening gemaakt zouden zijn. Dit bezwaar schorst de termijn bedoeld in artikel 13.3.1, § 4, tot de beslissing van de Vlaamse Nutsregulator over het bezwaar, bedoeld in het volgend lid.<br>
 <br>
-De VREG kan haar beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als blijkt dat er materiële vergissingen of rekenfouten gemaakt zouden zijn. Zoniet wijst zij het bezwaar van betrokkene af.
+De Vlaamse Nutsregulator kan haar beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als blijkt dat er materiële vergissingen of rekenfouten gemaakt zouden zijn. Zoniet wijst zij het bezwaar van betrokkene af.
 
 ## [Afdeling V. Administratieve geldboete bij misbruik van gegevens uit meters (ing. Decr. 26 april 2019, art. 40, I: 21 juni 2019)]
 
 ### ART 13.3.6.
 
-De VREG legt aan iedere natuurlijke persoon of rechtspersoon die de gegevens die de netbeheerder verzamelt conform artikel 4.1.8/2, aanwendt op een wijze die niet in overeenstemming is met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, een administratieve geldboete op die niet lager mag zijn dan 1000 euro en niet hoger mag zijn dan 20 miljoen euro of voor een onderneming 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, als dat cijfer hoger is.
+De Vlaamse Nutsregulator legt aan iedere natuurlijke persoon of rechtspersoon die de gegevens die de netbeheerder verzamelt conform artikel 4.1.8/2, aanwendt op een wijze die niet in overeenstemming is met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, een administratieve geldboete op die niet lager mag zijn dan 1000 euro en niet hoger mag zijn dan 20 miljoen euro of voor een onderneming 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, als dat cijfer hoger is.
 
 ## HOOFDSTUK IV. Administratieve sancties opgelegd door [het VEKA (verv. decr. 4 december 2020, art. 35, I: 1 januari 2021)]
 
@@ -5218,7 +5076,7 @@ Indien de afnemer, vermeld in het eerste lid, op diens eigen site echter aangesl
 
 ### ART 14.3.3.
 
-§ 1. De heffing, vermeld in dit hoofdstuk, wordt van rechtswege met ingang van heffingsjaar 2020 jaarlijks op 1 januari geïndexeerd door het tarief, vermeld in artikel 14.3.2, te vermenigvuldigen met het gewogen gemiddelde van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen, dat per 1 januari van toepassing is, en te delen door het gewogen gemiddelde van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen dat op 31 december 2018 van toepassing was. De VREG stelt daarvoor de nodige gegevens ter beschikking aan de Vlaamse Belastingdienst.<br>
+§ 1. De heffing, vermeld in dit hoofdstuk, wordt van rechtswege met ingang van heffingsjaar 2020 jaarlijks op 1 januari geïndexeerd door het tarief, vermeld in artikel 14.3.2, te vermenigvuldigen met het gewogen gemiddelde van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen, dat per 1 januari van toepassing is, en te delen door het gewogen gemiddelde van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen dat op 31 december 2018 van toepassing was. De Vlaamse Nutsregulator stelt daarvoor de nodige gegevens ter beschikking aan de Vlaamse Belastingdienst.<br>
 <br>
 § 2. In afwijking van paragraaf 1 wordt het tarief voor een directe lijn die de grenzen van de eigen site overschrijdt en waar de afnemer aangesloten is op hoogspanning of in eilandwerking is als vermeld in artikel 14.3.2, 3°, geïndexeerd aan de hand van het gewogen gemiddelde van het gedeelte van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen dat van toepassing is op zij die rechtstreeks aangesloten zijn op de transformatoren tussen het hoogspanningsnet en het middenspanningsnet.<br>
 <br>
@@ -5230,7 +5088,7 @@ Indien de afnemer, vermeld in het eerste lid, op diens eigen site echter aangesl
 
 De elektriciteitsdistributienetbeheerder in wiens geografisch gebied de directe lijn, vermeld in artikel 14.3.1, gelegen is, meet de elektriciteit die op jaarbasis in de directe lijn geïnjecteerd wordt. De Vlaamse Regering kan nadere regels bepalen aangaande hoe die elektriciteit wordt gemeten.<br>
 <br>
-De elektriciteitsdistributienetbeheerder, vermeld in het eerste lid, zorgt ervoor dat voor een nieuwe toegelaten directe lijn als vermeld in artikel 4.5.1, § 2, in gebruik wordt genomen, ze wordt uitgerust met een meter die toelaat de elektriciteit die in de directe lijn geïnjecteerd wordt te meten als vermeld in dit hoofdstuk. De VREG bezorgt de elektriciteitsdistributienetbeheerders de nodige informatie om die installatie mogelijk te maken. De kost van deze meter en de plaatsing ervan is ten laste van de beheerder van de directe lijn.<br>
+De elektriciteitsdistributienetbeheerder, vermeld in het eerste lid, zorgt ervoor dat voor een nieuwe toegelaten directe lijn als vermeld in artikel 4.5.1, § 2, in gebruik wordt genomen, ze wordt uitgerust met een meter die toelaat de elektriciteit die in de directe lijn geïnjecteerd wordt te meten als vermeld in dit hoofdstuk. De Vlaamse Nutsregulator&nbsp;bezorgt de elektriciteitsdistributienetbeheerders de nodige informatie om die installatie mogelijk te maken. De kost van deze meter en de plaatsing ervan is ten laste van de beheerder van de directe lijn.<br>
 <br>
 De elektriciteitsdistributienetbeheerders, vermeld in het eerste lid, melden voor 1 februari van het jaar dat volgt op het heffingsjaar aan de Vlaamse Belastingdienst voor elke directe lijn die in hun gebied ligt als vermeld in artikel 14.3.1, de hoeveelheid elektriciteit die gedurende het vorige kalenderjaar in die lijn werd geïnjecteerd.
 
@@ -5274,7 +5132,7 @@ De inkomsten die voortvloeien uit de opbrengst van de heffingen, vermeld in deze
 
 ### ART 14/1.1.1.
 
-§ 1. De Vlaamse Regering kan regelluwe zones vaststellen waarbinnen in afwijking van de door of krachtens titel IV, IV/1, VII, IX, XI, vastgestelde bepalingen binnen een bepaald kader en binnen een beperkt geografisch afgebakend gebied tijdelijk kan worden geëxperimenteerd met een andere toepassing dan de door of krachtens die bepalingen vastgelegde regels. Indien het een afwijking betreft van de door of krachtens titel IV vastgestelde bepalingen, dan wint de Vlaamse Regering hierbij het advies in van de VREG.<br>
+§ 1. De Vlaamse Regering kan regelluwe zones vaststellen waarbinnen in afwijking van de door of krachtens titel IV, IV/1, VII, IX, XI, vastgestelde bepalingen binnen een bepaald kader en binnen een beperkt geografisch afgebakend gebied tijdelijk kan worden geëxperimenteerd met een andere toepassing dan de door of krachtens die bepalingen vastgelegde regels. Indien het een afwijking betreft van de door of krachtens titel IV vastgestelde bepalingen, dan wint de Vlaamse Regering hierbij het advies in van de Vlaamse Nutsregulator.<br>
 <br>
 De Vlaamse Regering kan categorieën van regelluwe zones bepalen. De Vlaamse Regering stelt de voorwaarden vast waaronder dan binnen een dergelijke regelluwe zone voor een bepaald doel wordt opgetreden en bepaalt van welke bepalingen mag worden afgeweken. De Vlaamse Regering kan voor de toepassing in die zones echter geen bepalingen aannemen of afwijkingen toestaan die strijdig zijn met artikel 4.1.7 tot en met artikel 4.1.8/1, of met de verplichtingen van Europese richtlijnen, verordeningen en besluiten.<br>
 <br>
@@ -5322,7 +5180,7 @@ De Vlaamse Regering kan voorzien in uitzonderingen op de bepalingen van dit decr
 
 ### ART. 15.3.3.
 
-Voor wat betreft de productie-installaties waarvoor reeds groenestroomcertificaten werden toegekend vóór de inwerkingtreding van artikel 7.1.1, kent de VREG de groenestroomcertificaten toe aan de producent van de elektriciteit die in de productie-installaties wordt opgewekt uit hernieuwbare energiebronnen.
+Voor wat betreft de productie-installaties waarvoor reeds groenestroomcertificaten werden toegekend vóór de inwerkingtreding van artikel 7.1.1, kent de Vlaamse Nutsregulator de groenestroomcertificaten toe aan de producent van de elektriciteit die in de productie-installaties wordt opgewekt uit hernieuwbare energiebronnen.
 
 ### ART. 15.3.4.
 
@@ -5334,11 +5192,14 @@ Het Energiefonds, vermeld in artikel 3.2.1 neemt de uitstaande rechten en plicht
 
 ### ART. 15.3.5/1.
 
-Het beheer van een op 1 juli 2011 bestaand net voor distributie van elektriciteit of aardgas dat voldoet aan de criteria van artikel 1.1.3, 56°/2, is toegestaan als gesloten distributienet mits melding aan de VREG, zelfs indien dit net de grenzen van de eigen site, als bedoeld in artikel 4.6.1, overschrijdt.
+Het beheer van een op 1 juli 2011 bestaand net voor distributie van elektriciteit of aardgas dat voldoet aan de criteria van artikel 1.1.3, 56°/2, is toegestaan als gesloten distributienet mits melding aan de Vlaamse Nutsregulator, zelfs indien dit net de grenzen van de eigen site, als bedoeld in artikel 4.6.1, overschrijdt.
 
 ### ART. 15.3.5/2.
 
-Elke beheerder van een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de VREG aangewezen distributienetbeheerder en dat geen op 1 juli 2011 bestaande directe lijn of directe leiding is, moet zich conformeren aan de bepalingen van dit decreet door, naargelang het geval :<br />1° het voldoen aan de bepalingen van artikelen 4.7.2 en 4.7.3, als het net een toegelaten privédistributienet betreft, als vermeld in artikel 4.7.1, § 2;<br />2° de overdracht van het beheer van het distributienet aan de distributienetbeheerder, als het net een niet-toegelaten privédistributienet betreft, binnen redelijke termijn zodra een achterliggende netgebruiker of een leverancier op vraag van en voor rekening van een achterliggende afnemer, zijn rechten wil uitoefenen;<br />3° het melden als gesloten distributienet overeenkomstig artikel 15.3.5/1 en het voldoen aan de bepalingen van artikelen 4.6.2 tot en met 4.6.9, waarbij de artikelen 4.6.3, 8° tot en met 12°, 4.6.8 en 4.6.9 slechts van toepassing zijn binnen redelijke termijn zodra een achterliggende netgebruiker of een leverancier op vraag van en voor rekening van een achterliggende afnemer zijn rechten wil uitoefenen.
+Elke beheerder van een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de Vlaamse Nutsregulator aangewezen distributienetbeheerder en dat geen op 1 juli 2011 bestaande directe lijn of directe leiding is, moet zich conformeren aan de bepalingen van dit decreet door, naargelang het geval :<br>
+1° het voldoen aan de bepalingen van artikelen 4.7.2 en 4.7.3, als het net een toegelaten privédistributienet betreft, als vermeld in artikel 4.7.1, § 2;<br>
+2° de overdracht van het beheer van het distributienet aan de distributienetbeheerder, als het net een niet-toegelaten privédistributienet betreft, binnen redelijke termijn zodra een achterliggende netgebruiker of een leverancier op vraag van en voor rekening van een achterliggende afnemer, zijn rechten wil uitoefenen;<br>
+3° het melden als gesloten distributienet overeenkomstig artikel 15.3.5/1 en het voldoen aan de bepalingen van artikelen 4.6.2 tot en met 4.6.9, waarbij de artikelen 4.6.3, 8° tot en met 12°, 4.6.8 en 4.6.9 slechts van toepassing zijn binnen redelijke termijn zodra een achterliggende netgebruiker of een leverancier op vraag van en voor rekening van een achterliggende afnemer zijn rechten wil uitoefenen.
 
 ### ART. 15.3.5/3.
 
@@ -5368,7 +5229,9 @@ In afwijking van artikel 4.5.1, §2, zevende lid, vervalt de beslissing tot toel
 
 ### ART. 15.3.5/8.
 
-Afnemers waarvan de gratis hoeveelheid elektriciteit nog niet werd   toegekend voor het leveringsjaar 2015 en de afnemers waarvan de gratis   hoeveelheid elektriciteit niet correct is toegekend op hun afrekeningsfactuur   hebben nog steeds recht op de toekenning van de gratis hoeveelheid   elektriciteit. Dit recht houdt op te bestaan indien de afnemer niet binnen een   termijn van twee jaar na de afrekeningsfactuur waarop de gratis hoeveelheid   elektriciteit normaal gezien moest toegekend worden, aan zijn leverancier   kenbaar heeft gemaakt dat de toegekende gratis hoeveelheid elektriciteit op deze   afrekeningsfactuur niet correct of niet toegekend is. In afwijking van artikel   6.1.1, tweede lid, zijn de kosten voor de levering van deze gratis elektriciteit   ten laste van alle afnemers.<BR><BR>De VREG ziet toe op de correcte naleving van   deze overgangsbepaling.
+Afnemers waarvan de gratis hoeveelheid elektriciteit nog niet werd toegekend voor het leveringsjaar 2015 en de afnemers waarvan de gratis hoeveelheid elektriciteit niet correct is toegekend op hun afrekeningsfactuur hebben nog steeds recht op de toekenning van de gratis hoeveelheid elektriciteit. Dit recht houdt op te bestaan indien de afnemer niet binnen een termijn van twee jaar na de afrekeningsfactuur waarop de gratis hoeveelheid elektriciteit normaal gezien moest toegekend worden, aan zijn leverancier kenbaar heeft gemaakt dat de toegekende gratis hoeveelheid elektriciteit op deze afrekeningsfactuur niet correct of niet toegekend is. In afwijking van artikel 6.1.1, tweede lid, zijn de kosten voor de levering van deze gratis elektriciteit ten laste van alle afnemers.<br>
+<br>
+De Vlaamse Nutsregulator ziet toe op de correcte naleving van deze overgangsbepaling.
 
 ### ART 15.3.5/9.
 
@@ -5376,11 +5239,11 @@ De elektriciteitsdistributienetbeheerders zorgen ervoor dat tegen uiterlijk 1 ju
 
 ### ART 15.3.5/10.
 
-Tegen de beslissingen die de VREG met toepassing van titel IV, hoofdstuk I, afdeling XII, heeft genomen, en die op de dag van de inwerkingtreding van dit artikel niet definitief waren, loopt een nieuwe beroepstermijn van 30 dagen vanaf diezelfde dag.
+Tegen de beslissingen die de Vlaamse Nutsregulator met toepassing van titel IV, hoofdstuk I, afdeling XII, heeft genomen, en die op de dag van de inwerkingtreding van dit artikel niet definitief waren, loopt een nieuwe beroepstermijn van 30 dagen vanaf diezelfde dag.
 
 ### ART 15.3.5/11.
 
-In afwijking van artikel 14.1.1 wordt het geheel van afnamepunten waarvoor bij de VREG op 1 januari 2018 al een aanvraag tot goedkeuring als een gesloten distributienet lopende is, behandeld conform artikel 14.1.1, § 2, tweede lid, op voorwaarde dat tegen uiterlijk 1 januari 2021 over deze aanvraag een gunstige beslissing valt.<br>
+In afwijking van artikel 14.1.1 wordt het geheel van afnamepunten waarvoor bij de Vlaamse Nutsregulator op 1 januari 2018 al een aanvraag tot goedkeuring als een gesloten distributienet lopende is, behandeld conform artikel 14.1.1, § 2, tweede lid, op voorwaarde dat tegen uiterlijk 1 januari 2021 over deze aanvraag een gunstige beslissing valt.<br>
 <br>
 In afwijking van artikel 14.1.1 wordt het geheel van afnamepunten waarvoor bij de daartoe bevoegde federale overheidsdienst op 1 januari 2018 al een aanvraag tot goedkeuring als een gesloten industrieel net, vermeld in artikel 2, 41°, van de federale Elektriciteitswet, lopende is, behandeld conform artikel 14.1.1, § 2, tweede lid, op voorwaarde dat tegen uiterlijk 1 januari 2021 over deze aanvraag een gunstige beslissing valt.<br>
 <br>
@@ -5404,23 +5267,23 @@ Artikel 4.1.8, § 2, is niet van toepassing op de productie van thermische energ
 
 ### ART 15.3.5/15.
 
-De leveranciers die actief zijn in het Vlaamse Gewest en die op de dag van inwerkingtreding van artikel 4.3.1, § 1, eerste lid, van dit decreet, zoals gewijzigd bij het decreet van 26 april 2019 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de uitrol van digitale meters en tot wijziging van artikel 7.1.1, 7.1.2 en 7.1.5 van hetzelfde decreet, nog geen leveringsvergunning van de VREG zouden hebben, krijgen bij wijze van overgangsregeling zes maanden de tijd vanaf de dag van inwerkingtreding van voormeld artikel om een leveringsvergunning van de VREG te verkrijgen.
+De leveranciers die actief zijn in het Vlaamse Gewest en die op de dag van inwerkingtreding van artikel 4.3.1, § 1, eerste lid, van dit decreet, zoals gewijzigd bij het decreet van 26 april 2019 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de uitrol van digitale meters en tot wijziging van artikel 7.1.1, 7.1.2 en 7.1.5 van hetzelfde decreet, nog geen leveringsvergunning van de Vlaamse Nutsregulator zouden hebben, krijgen bij wijze van overgangsregeling zes maanden de tijd vanaf de dag van inwerkingtreding van voormeld artikel om een leveringsvergunning van de Vlaamse Nutsregulator te verkrijgen.
 
 ### ART 15.3.5/17.
 
-De werkmaatschappij past tegen uiterlijk 1 april 2019 de statuten en de samenstelling van haar raad van bestuur aan de voorwaarden, vermeld in artikel 4.1.5/1, aan. Als de werkmaatschappij de statuten of de samenstelling van de raad van bestuur niet aanpast, dan kan de VREG de toestemming, vermeld in artikel 4.1.5, eerste lid, intrekken.
+De werkmaatschappij past tegen uiterlijk 1 april 2019 de statuten en de samenstelling van haar raad van bestuur aan de voorwaarden, vermeld in artikel 4.1.5/1, aan. Als de werkmaatschappij de statuten of de samenstelling van de raad van bestuur niet aanpast, dan kan de Vlaamse Nutsregulator de toestemming, vermeld in artikel 4.1.5, eerste lid, intrekken.
 
 ### ART 15.3.5/18.
 
-§1. In afwijking van artikel 4.1.1, eerste lid, hebben de distributienetbeheerders tot 1 september 2023 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid. De distributienetbeheerders bezorgen de VREG uiterlijk op 1 september 2023 het bewijs dat ze voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid.<br>
+§1. In afwijking van artikel 4.1.1, eerste lid, hebben de distributienetbeheerders tot 1 september 2023 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid. De distributienetbeheerders bezorgen de Vlaamse Nutsregulator uiterlijk op 1 september 2023 het bewijs dat ze voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid.<br>
 <br>
-In afwijking van het eerste lid heeft een distributienetbeheerder tot 1 januari 2025 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, op voorwaarde dat hij voor 1 september 2023 aan de VREG het bewijs bezorgt dat het bevoegde orgaan de onomkeerbare beslissing heeft genomen om alle nodige rechtshandelingen te stellen die resulteren in de naleving van die voor- waarden.<br>
+In afwijking van het eerste lid heeft een distributienetbeheerder tot 1 januari 2025 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, op voorwaarde dat hij voor 1 september 2023 aan de Vlaamse Nutsregulator het bewijs bezorgt dat het bevoegde orgaan de onomkeerbare beslissing heeft genomen om alle nodige rechtshandelingen te stellen die resulteren in de naleving van die voor- waarden.<br>
 <br>
-De VREG doet conform de procedure die de Vlaamse Regering volgens artikel 4.1.4 heeft vastgesteld, waar dat nodig is, een nieuwe aanwijzing als distributienetbeheerder of wijzigt de bestaande aanwijzing als distributienetbeheerder.<br>
+De Vlaamse Nutsregulator doet conform de procedure die de Vlaamse Regering volgens artikel 4.1.4 heeft vastgesteld, waar dat nodig is, een nieuwe aanwijzing als distributienetbeheerder of wijzigt de bestaande aanwijzing als distributienetbeheerder.<br>
 <br>
 §2. In afwijking van artikel 4.1.1, eerste lid, hebben de distributienetbeheerders tot wier werkingsgebied gemeenten behoren die worden samengevoegd tot een nieuwe gemeente als bedoeld in deel 2, titel 8, van het decreet van 22 december 2017 over het lokaal bestuur maar die voorafgaand aan de samenvoeging tot verschillende distributienetbeheerders behoorden tot 1 januari van het tweede jaar volgende op de inwerkingtreding van die samenvoeging de tijd om opnieuw te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, waarbij onderling gebieden kunnen worden uitgewisseld.<br>
 <br>
-De VREG doet conform de procedure die de Vlaamse Regering volgens artikel 4.1.4 heeft vastgesteld, waar dat nodig is, een nieuwe aanwijzing als distributienetbeheerder of wijzigt de bestaande aanwijzing als distributienetbeheerder.
+De Vlaamse Nutsregulator doet conform de procedure die de Vlaamse Regering volgens artikel 4.1.4 heeft vastgesteld, waar dat nodig is, een nieuwe aanwijzing als distributienetbeheerder of wijzigt de bestaande aanwijzing als distributienetbeheerder.
 
 ### ART 15.3.5/19.
 
@@ -5428,13 +5291,13 @@ Ten aanzien van de beperkingen, vermeld in artikel 4.1.5/2, genieten de gedelege
 
 ### ART 15.3.5/20.
 
-In afwijking van artikel 3.1.3, eerste lid, 4°, g), publiceert de VREG de daarin vermelde studie voor het eerst tegen uiterlijk 1 september 2019.
+...
 
 ### ART 15.3.5/21.
 
-De VREG kan bepalen dat een elektriciteitsproductie-eenheid in gespecifieerde omstandigheden als een bestaande productie-eenheid, dan wel als een nieuwe productie-installatie wordt beschouwd in het kader van de Netcode betreffende eisen voor de aansluiting van elektriciteitsproducenten op het net, als bedoeld in verordening 2016/631/EU.<br>
+De Vlaamse Nutsregulator kan bepalen dat een elektriciteitsproductie-eenheid in gespecifieerde omstandigheden als een bestaande productie-eenheid, dan wel als een nieuwe productie-installatie wordt beschouwd in het kader van de Netcode betreffende eisen voor de aansluiting van elektriciteitsproducenten op het net, als bedoeld in verordening 2016/631/EU.<br>
 <br>
-De VREG kan bepalen dat een distributiesysteem of een verbruikseenheid in gespecifieerde omstandigheden als bestaand, dan wel als nieuw wordt beschouwd in het kader van de Netcode voor aansluiting van verbruikers, als bedoeld in verordening 2016/1388/EU.
+De Vlaamse Nutsregulator kan bepalen dat een distributiesysteem of een verbruikseenheid in gespecifieerde omstandigheden als bestaand, dan wel als nieuw wordt beschouwd in het kader van de Netcode voor aansluiting van verbruikers, als bedoeld in verordening 2016/1388/EU.
 
 ### ART 15.3.5/22.
 
@@ -5446,7 +5309,7 @@ Als de Vlaamse Regering beslist om de schorsing van de geldigheidsduur van de st
 
 ### ART 15.3.5/23.
 
-In afwijking van artikel 4.1.30, § 4, kan de VREG eenmalig de tariefmethodologie en de elektriciteitsdistributietarieven met terugwerkende kracht aanpassen om te verhinderen dat aan prosumenten tweemaal elektriciteits- distributienettarieven worden aangerekend voor hetzelfde gebruik van het elektriciteitsdistributienet, zoals is ontstaan als gevolg van arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof.
+In afwijking van artikel 4.1.30, § 4, kan de Vlaamse Nutsregulator eenmalig de tariefmethodologie en de elektriciteitsdistributietarieven met terugwerkende kracht aanpassen om te verhinderen dat aan prosumenten tweemaal elektriciteits- distributienettarieven worden aangerekend voor hetzelfde gebruik van het elektriciteitsdistributienet, zoals is ontstaan als gevolg van arrest nr. 5/2021 van 14 januari 2021 van het Grondwettelijk Hof.
 
 ### ART 15.3.5/24.
 
