@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041050,
+  "title": "Decreet van 2025-07-14 programmadecreet bij de aanpassing van de begroting 2025",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041050/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "b78ffff8633a03262a3b33f025ca34e93edb195d6d29b126bb163122b9c59483",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041050&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-07-14",
+  "gazette": "2025-07-28",
+  "numac": 2025005656,
+  "document_start": "2025-08-07",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
