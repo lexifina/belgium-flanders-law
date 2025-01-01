@@ -13,6 +13,7 @@ In dit besluit wordt verstaan onder :<br>
 2° ambulante begeleiding : de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur, waarbij de persoon met een handicap of zijn netwerk zich naar de hulpverlener verplaatst;<br>
 3° ambulante outreach :&nbsp;het overbrengen van handicapspecifieke kennis en expertise over de ondersteuning van personen met een handicap of vermoeden van handicap aan professionals of aan ondersteuners van personen met een handicap om die actoren te versterken in hun hulp- en dienstverlening aan personen met een handicap of vermoeden van handicap. De outreach duurt minimaal één en maximaal twee uur en de ontvangers van de outreach verplaatsen zich naar de aanbieder van de outreach;<br>
 4° dagopvang : de ondersteuning overdag voor een aangepaste opvang of een aangepaste dagbesteding;<br>
+4°/1 G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen;<br>
 5° mobiele begeleiding : de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur, waarbij de hulpverlener zich naar de persoon met een handicap of zijn netwerk verplaatst;<br>
 6° mobiele outreach :&nbsp;het op locatie overbrengen van handicapspecifieke kennis en expertise over de ondersteuning van personen met een handicap of vermoeden van handicap aan professionals of aan ondersteuners van personen met een handicap om die actoren te versterken in hun hulp- en dienstverlening aan personen met een handicap of vermoeden van handicap. De outreach duurt minimaal één en maximaal twee uur;<br>
 7° verblijf : het verblijf met overnachting, met inbegrip van de opvang en ondersteuning gedurende de ochtend en de avonduren;<br>
@@ -108,9 +109,7 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en   de d
 
 <p>De werkingstoelage, vermeld in het eerste lid, kan worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang, verblijf of groepsbegeleiding verstrekt.</p>
 
-<p>§ 2. Het bedrag, vermeld in paragraaf 1, eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule :</p>
-
-<p>(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).<br>
+<p>§2. Het bedrag, vermeld in paragraaf 1, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 § 3. De voorziening, de voorziening erkend conform artikel 2, tweede tot en met zesde lid, uitgezonderd, kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
@@ -124,7 +123,7 @@ Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op vo
 <br>
 Op verzoek van het agentschap bewijst de voorziening het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).</p>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.</p>
 
 ### ART 9/1.
 
@@ -233,8 +232,7 @@ Voor de berekening van het maximumaantal personeelspunten per persoon per kalend
 <br>
 De voorziening mag voor een groepsbegeleiding een bijdrage vragen van maximaal 5 euro.</p>
 
-<p>De maximumbedragen, vermeld in het eerste tot en met het derde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule :<br>
-(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).<br>
+<p>De maximumbedragen, vermeld in het eerste tot en met het vierde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 De voorziening mag geen bijdrage voor globale individuele ondersteuning vragen.</p>
 
