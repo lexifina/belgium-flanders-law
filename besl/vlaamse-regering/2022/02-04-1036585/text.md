@@ -32,7 +32,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Alken, As, Beringen, Bilzen, Bocholt, Borgloon, Bree, Diepenbeek, Dilsen-Stokkem, Genk, Gingelom, Halen, Ham, Hamont-Achel, Hasselt, Hechtel-Eksel, Heers, Herk-de Stad, Herstappe, Heusden-Zolder, Hoeselt, Houthalen-Helchteren, Kinrooi, Kortessem, Lanaken, Leopoldsburg, Lommel, Lummen, Maaseik, Maasmechelen, Nieuwerkerken, Oudsbergen, Peer, Pelt, Riemst, Sint-Truiden, Tessenderlo, Tongeren, Voeren, Wellen, Zonhoven en Zutendaal vormen het werkingsgebied Regio Limburg.<br>
+De gemeenten Alken, As, Beringen, Bilzen-Hoeselt, Bocholt, Bree, Diepenbeek, Dilsen-Stokkem, Genk, Gingelom, Halen, Hamont-Achel, Hasselt, Hechtel-Eksel, Heers, Herk-de Stad, Herstappe, Heusden-Zolder, Houthalen-Helchteren, Kinrooi, Lanaken, Leopoldsburg, Lommel, Lummen, Maaseik, Maasmechelen, Nieuwerkerken, Oudsbergen, Peer, Pelt, Riemst, Sint-Truiden, Tessenderlo-Ham, Tongeren-Borgloon, Voeren, Wellen, Zonhoven en Zutendaal vormen het werkingsgebied Regio Limburg.<br>
 <br>
 De Vlaamse Regering staat daarbij een uitzondering toe op het geografisch aaneensluiten van de gemeenten.
 
