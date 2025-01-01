@@ -2,16 +2,16 @@
   "codex_id": 1038683,
   "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot wijziging van het besluit van de Vlaamse Regering van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en de provinciale besturen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038683/VolledigDocument?datum=2023-10-21",
-  "source_sha256": "9a6f19372b1d08e3131b8ada7efa74a63158ea5c9f3d329ae7652184a38c826a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038683/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "4cfdf97e965d75d4ad48218aa134303e11e791100f78ffe1cedcff1929c2386b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038683&param=informatie",
-  "as_of": "2023-10-21",
+  "as_of": "2025-01-01",
   "made": "2023-07-14",
   "gazette": "2023-10-11",
   "numac": 2023044447,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-10-21",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2023-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

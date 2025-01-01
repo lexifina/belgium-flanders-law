@@ -28,6 +28,32 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan artikel 2 van het besluit van de Vlaamse Regering van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en de provinciale besturen wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Elk beleidsrapport, en de bijbehorende documentatie, is digitaal doorzoekbaar.”.
+
+### ART 2.
+
+In artikel 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden punt 1° tot en met 3° vervangen door wat volgt:<br>
+“1° een beleidsverklaring met een beknopte beschrijving van het geplande beleid en de financiële kerncijfers voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
+2° het overzicht met de beschrijving van alle beleidsdoelstellingen;<br>
+3° de omschrijving van de prioritaire acties en de bijbehorende verwachte ontvangsten en uitgaven voor elk jaar waarop het meerjarenplan betrekking heeft, met een verwijzing naar de beleidsdoelstelling waarbij ze aansluiten;”;<br>
+2° in het eerste lid wordt punt 4° opgeheven;<br>
+3° in het tweede lid wordt de zinsnede “vermeld in het eerste lid, 1° tot 4°, gelezen als "actieplannen", en worden de woorden "prioritaire actie", vermeld in het eerste lid, 2°, gelezen als "prioritair actieplan".” vervangen door de zinsnede “vermeld in het eerste lid, 3°, gelezen als "actieplannen".”.
+
+### ART 3.
+
+In artikel 10 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 1° vervangen door wat volgt:<br>
+“1° de verwachte ontvangsten en uitgaven per beleidsdoelstelling;”;<br>
+2° in het eerste lid wordt punt 2° vervangen door wat volgt:<br>
+“2° de verwachte ontvangsten en uitgaven waarvoor geen beleidsdoelstellingen zijn geformuleerd.”;<br>
+3° in het eerste lid wordt punt 3° opgeheven;<br>
+4° het tweede lid wordt opgeheven.
+
 ### ART 9.
 
 De volgende artikelen van dit besluit treden in werking op 1 januari 2025:<br>
