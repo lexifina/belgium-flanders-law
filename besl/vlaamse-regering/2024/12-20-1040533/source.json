@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040533,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-20 tot vervanging van bijlage 2 van het besluit van de Vlaamse Regering van 17 maart 2017 tot uitvoering van het decreet van 5 februari 2016 houdende het toeristische logies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040533/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "a17fd82c3d4ddfe0cbefc67d51abd7b4e1c73e5cd22c3853348229cb56936445",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040533&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-12-20",
+  "gazette": "2025-01-14",
+  "numac": 2025000147,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
