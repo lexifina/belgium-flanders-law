@@ -27,6 +27,18 @@ In artikel 3, eerste lid, van het besluit van de Vlaamse Regering van 21 juni 20
 2° er wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
 “6° als organisatie, vermeld in artikel 2 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers, de bepalingen van hetzelfde decreet toepassen.”.
 
+### ART 2.
+
+In hoofdstuk 2, afdeling 1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 30 november 2018 en 25 januari 2019, wordt het opschrift van onderafdeling 2 vervangen door wat volgt:&nbsp;<br>
+<br>
+“Onderafdeling 2. Voorwaarden voor het centrum voor teleonthaal”.
+
+### ART 3.
+
+In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, en paragraaf 2, eerste lid, worden de woorden “Elk centrum” vervangen door de woorden “Het centrum”;<br>
+2° in paragraaf 1, derde lid, en paragraaf 2, tweede lid, 1°, worden de woorden “de centra” vervangen door de woorden “het centrum”.
+
 ### ART 4.
 
 Aan artikel 11 van hetzelfde besluit, waarvan de bestaande tekst paragraaf 1 zal vormen, worden de volgende wijzigingen aangebracht:&nbsp;<br>
@@ -36,6 +48,17 @@ Aan artikel 11 van hetzelfde besluit, waarvan de bestaande tekst paragraaf 1 zal
 4° er wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
 “§2. Deze paragraaf voorziet in de gedeeltelijke omzetting van Richtlijn (EU) 2017/541 van het Europees Parlement en de Raad van 15 maart 2017 inzake terrorismebestrĳding en ter vervanging van Kaderbesluit 2002/475/JBZ van de Raad en tot wijziging van Besluit 2005/671/JBZ van de Raad.<br>
 De hulp- en dienstverlening aan slachtoffers en hun na- of naastbestaanden, vermeld in paragraaf 1, eerste lid, 8°, 9°, 13°, 14° en 15°, wordt onmiddellijk verleend of aansluitend op de hulp- en dienstverlening die door andere organisaties en overheden wordt geboden en wordt verleend zolang het slachtoffer of de na- of naastbestaande dat nodig acht, met aandacht voor de specifieke behoeften van slachtoffers van misdrijven als vermeld in boek II, titel Iter, van het Strafwetboek.”.
+
+### ART 5.
+
+In artikel 16, eerste lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de woorden “De centra” worden telkens vervangen door de woorden “Het centrum”;<br>
+2° het woord “voeren” wordt vervangen door het woord “voert”;<br>
+3° het woord “tonen” wordt vervangen door het woord “toont”.
+
+### ART 6.
+
+In artikel 18, §2, van hetzelfde besluit worden de woorden “de centra” vervangen door de woorden “het centrum”.
 
 ### ART 7.
 
@@ -48,6 +71,10 @@ In artikel 20 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 ### ART 8.
 
 In artikel 24, §4, tweede lid, 1°, van hetzelfde besluit worden de woorden “kleinstedelijke zorgregio’s” vervangen door het woord “eerstelijnszones”.
+
+### ART 9.
+
+In artikel 28, §1, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 november 2018, worden de woorden “de centra voor teleonthaal” vervangen door de woorden “het centrum voor teleonthaal”.
 
 ### ART 10.
 

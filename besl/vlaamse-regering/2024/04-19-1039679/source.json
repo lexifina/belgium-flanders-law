@@ -2,16 +2,16 @@
   "codex_id": 1039679,
   "title": "Besluit van de Vlaamse Regering van 2024-04-19 tot wijziging van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039679/VolledigDocument?datum=2024-05-27",
-  "source_sha256": "c2857422d82c19cda620cebe8354461650090d95c2a4ee1dc3e21bf02e70b0b8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039679/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "9a82328ce69fe7dd0d8d65fdebd4e742d3ecbce0ffbcf3d0e4f67a221c8eb481",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039679&param=informatie",
-  "as_of": "2024-05-27",
+  "as_of": "2025-01-01",
   "made": "2024-04-19",
   "gazette": "2024-05-17",
   "numac": 2024004386,
   "document_start": "2024-05-27",
   "document_end": null,
-  "in_force": "2024-05-27",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2024-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
