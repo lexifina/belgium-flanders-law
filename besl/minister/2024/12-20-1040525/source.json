@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040525,
+  "title": "Ministerieel besluit van 2024-12-20 tot vervanging van bijlage 1 van het ministerieel besluit van 14 juli 2023 tot bepaling van de comfortclassificatienormen voor een erkend toeristisch logies",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040525/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "16dc040ce9228ce40cdffb866c8d51110ae63cd1a5ebe3251dada23bb5c2ce5a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040525&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-12-20",
+  "gazette": "2025-01-14",
+  "numac": 2025000019,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
