@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039807,
+  "title": "Besluit van de Vlaamse Regering van 2024-04-26 tot wijziging van het besluit van de Vlaamse Regering van 17 mei 2019 tot erkenning en subsidiëring van de zorgraden en houdende inwerkingtreding van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders, wat betreft de opdrachten, de samenstelling, de erkenningsvoorwaarden en de subsidiëring en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 4 februari 2022 over de regels voor de erkenning en subsidiëring van een partnerorganisatie als Vlaams Instituut voor de Eerste Lijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039807/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "a0b3dec0ea41cbaa9dc6806459d2f6de7a7a57aebbb05c366d33e43c30d459fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039807&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-04-26",
+  "gazette": "2024-06-27",
+  "numac": 2024005706,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
