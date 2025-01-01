@@ -1126,6 +1126,16 @@ DE VLAAMSE REGERING BESLUIT:
 In artikel 9 van het besluit van de Vlaamse Regering tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009 en gewijzigd bij de besluiten van de Vlaamse Regering van 6 juni 2014, 27 november 2015, 14 juli 2017 en 9 maart 2018, wordt punt 2° opnieuw opgenomen in de volgende lezing:&nbsp;<br>
 “2° hetzij worden uitgevoerd op basis van een omgevingsvergunning voor stedenbouwkundige handelingen die afgeleverd is met toepassing van de wetgeving op de ruimtelijke ordening na advies van het agentschap én op voorwaarde van afwijking overeenkomstig artikel 10 als dat van toepassing is;”.
 
+### ART 2.
+
+Aan hetzelfde besluit wordt een artikel 7bis toegevoegd, dat luidt als volgt:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br>
+“De gouverneur kan een captatieverbod voor oppervlaktewater opleggen om schade aan beschermde vegetaties door aanhoudende droogte te voorkomen, voor de duur van deze droogte, en na eensluidend advies van het Instituut en de Coördinatiecommissie Integraal Waterbeleid. Dit heeft enkel betrekking op ruimtelijk kwetsbare gebieden conform artikel 1.1.2., 10° van de VCRO. Het captatieverbod geldt niet voor onttrekkingen met weidepompen in functie van drenking van vee en onttrekkingen van water bestemd voor menselijke consumptie.<br>
+<br>
+In dit artikel wordt verstaan onder capteren: het met alle mogelijke middelen onttrekken van water uit de waterweg.<br>
+<br>
+In dit artikel wordt verstaan onder oppervlaktewater: de definitie zoals gehanteerd in het decreet van 18 juli 2003 betreffende het integraal waterbeleid, artikel 1.1.3., §2, 3°.”.
+
 ## Hoofdstuk 2. Wijziging van het besluit van de Vlaamse Regering van 11 oktober 2002 tot bepaling van de wapens die tot de reglementaire uitrusting behoren van sommige ambtenaren van het Agentschap voor Natuur en Bos en tot vaststelling van de bijzondere bepalingen betreffende het voorhanden hebben, het bewaren en het dragen van wapens
 
 ### ART 3.
@@ -1173,6 +1183,16 @@ In artikel 23, tweede lid, van hetzelfde besluit, gewijzigd bij de besluiten van
 2° punt 3° wordt vervangen door wat volgt:<br>
 “3° natuurbeheerplannen als vermeld in artikel 16ter van het decreet van 21 oktober 1997 en goedgekeurd overeenkomstig artikel 16octies, alsook de beheerplannen, vermeld in artikel 107, eerste lid, van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor ook een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;”;<br>
 3° punt 6° en 7° worden opgeheven.
+
+### ART 12.
+
+Aan hetzelfde besluit wordt een artikel 27bis toegevoegd, dat luidt als volgt:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Boven op het beschermende statuut dat voortvloeit uit de verbodsbepalingen van afdeling 2, kan de minister een captatieverbod voor oppervlaktewater opleggen om schade aan beschermde soorten en hun leefgebieden door aanhoudende droogte te voorkomen, voor de duur van deze droogte, en na eensluidend advies van het Instituut en de Coördinatiecommissie Integraal Waterbeleid. Dit heeft enkel betrekking op ruimtelijk kwetsbare gebieden conform artikel 1.1.2., 10° van de VCRO, en voor zover de beschermde soort is opgenomen in een besluit van de Vlaamse Regering houdende vaststelling van de instandhoudingsdoelstellingen en prioriteiten voor een aangewezen speciale beschermingszone. Het captatieverbod geldt niet voor onttrekkingen met weidepompen in functie van drenking van vee en onttrekkingen van water bestemd voor menselijke consumptie.<br>
+<br>
+In dit artikel wordt verstaan onder capteren: het met alle mogelijke middelen onttrekken van water uit de waterweg.<br>
+<br>
+In dit artikel wordt verstaan onder oppervlaktewater: de definitie zoals gehanteerd in het decreet van 18 juli 2003 betreffende het integraal waterbeleid, artikel 1.1.3., §2, 3°.”.
 
 ### ART 13.
 
@@ -1240,6 +1260,22 @@ Bovengenoemde persoonsgegevens worden, conform artikel 5 van de Algemene Verorde
 ### ART 18.
 
 In artikel 34, tweede lid, punt 3° van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt de zinsnede ‘de beheerder van het erkende opvangcentrum’ vervangen door de zinsnede ‘de beheerder of het hoofd dierenzorg van het erkende opvangcentrum’.
+
+### ART 19.
+
+Aan artikel 38, §2, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“De jaarlijkse werkingssubsidie kan ook verhoogd worden met een bedrag dat overeenkomt met 50% van de bewezen kosten voor de inzet van een dierenarts, tot een maximaal bedrag van 15000 euro. Dit bedrag dient besteed te worden aan courante ondersteuning door een dierenarts ter plaatse in het opvangcentrum, conform de noodzakelijke kwaliteitsstandaarden zoals bedoeld onder bijlage 4, A, 10°. De aanwezigheid van de dierenarts in het opvangcentrum wordt bijgehouden in een logboek dat te allen tijde door het agentschap raadpleegbaar moet zijn.".
+
+### ART 20.
+
+In artikel 39 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in paragraaf 1, tweede lid, worden de woorden “de salarisschaal van een administratieve medewerker van het Vlaamse Gewest” vervangen door de woorden “de salarisschaal in de graad van deskundige van het Vlaamse Gewest”;<br>
+2° in paragraaf 2 wordt punt 1° vervangen door wat volgt:<br>
+“1° het opvangcentrum is erkend door het agentschap;”;<br>
+3° in paragraaf 2 worden punten 2° en 3° geschrapt;<br>
+4° in paragraaf 2, 4° wordt het woord ‘dertig’ vervangen door het woord ‘zestig’:<br>
+5° in paragraaf 2, 5°, wordt het woord ‘zeshonderd’ vervangen door het woord ‘duizendvijfhonderd’.
 
 ### ART 21.
 
@@ -1319,6 +1355,19 @@ Afdeling 2 Subsidiëring van taxidiensten voor wilde dieren<br>
 Art. 40/7<br>
 <br>
 Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies verlenen aan de erkende taxidiensten.”.
+
+### ART 23.
+
+In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 25 januari 2019, wordt een artikel 40/8 ingevoegd, dat luidt als volgt:<br>
+&nbsp;&nbsp; &nbsp;<br>
+“Art. 40/8<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 1. Elke erkende taxidienst kan aanspraak maken op een jaarlijkse werkingssubsidie van 4500 euro.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De subsidie kan alleen worden toegekend als de taxidienst het geografische werkingsgebied van het opvangcentrum of de opvangcentra waarmee het een samenwerkingsovereenkomst heeft substantieel uitbreidt naar een regio die niet afgedekt wordt door de erkende opvangcentra noch door een andere erkende taxidienst. Het hoofd van het agentschap stelt ter uitvoering daarvan een kaart op met de regio’s waar er behoefte is aan bijkomende opvangcapaciteit. Die kaart staat op de website natuurenbos.vlaanderen.be van het agentschap.<br>
+<br>
+§ 2. De bedragen worden jaarlijks geïndexeerd volgens de onderstaande formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex.<br>
+(bedrag x nieuw indexcijfer) / indexcijfer van datum 1 juni 2004.”.
 
 ### ART 24.
 

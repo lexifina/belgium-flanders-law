@@ -2,16 +2,16 @@
   "codex_id": 1040266,
   "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot wijziging van de regelgeving over soorten, soortenschade, wapens, visserij en jacht, tot opheffing van het besluit van de Vlaamse Regering van 27 maart 1985 houdende reglementering van de handelingen die het grondwater kunnen verontreinigen en tot wijziging van het Besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040266/VolledigDocument?datum=2024-10-20",
-  "source_sha256": "845c571b3ca6b9f0d4992dc94c24a765034141e2f4d3812bce279cbd3a62b10d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040266/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "e1136198725afcde00792d9b4d8cd2f65bf03506948397b524e10031ac041b77",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040266&param=informatie",
-  "as_of": "2024-10-20",
+  "as_of": "2025-01-01",
   "made": "2024-07-19",
   "gazette": "2024-10-10",
   "numac": 2024009175,
   "document_start": "2024-10-20",
   "document_end": null,
-  "in_force": "2024-10-20",
-  "article_versions": 82,
-  "record_form": "consolidated version as in force on 2024-10-20; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 87,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
