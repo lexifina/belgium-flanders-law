@@ -590,24 +590,7 @@ Artikel   31 van hetzelfde decreet wordt vervangen door wat volgt:<BR   style="T
 
 ### ART. 107.
 
-<p>§ 1. Er wordt een `Vlaams Dierenwelzijnsfonds' opgericht, hierna genoemd `het Fonds'. Het Fonds is een begrotingsfonds als vermeld in&nbsp;artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.</p>
-
-<p>§ 2. Het fonds wordt gespijsd met :<br>
-1° de opbrengsten voortvloeiend uit de bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, met name :<br>
--de retributie voor de aanvragen tot erkenning bedoeld in artikel 3bis, § 2, 3°, b), tweede lid;<br>
--de retributie voor de aanvragen tot erkenning bedoeld in artikel 5, § 3, tweede lid;<br>
--de bijdrage voor de identificatie en registratie van honden en katten bedoeld in artikel 7;<br>
--de administratieve boetes bedoeld in artikel 41bis;<br>
-- de retributie, bedoeld in artikel 13, § 1, tweede lid;<br>
-- de retributie, bedoeld in artikel 34ter, § 2, tweede lid.<br>
-- retributies voor de behandeling van de aanvragen tot erkenning, bedoeld in artikel 21, § 1, en artikel 22;<br>
-- retributies voor de behandeling van de vergunningen, bedoeld in artikel 21, § 3.<br>
-2° schenkingen, legaten en sponsoring.<br>
-3° vrijwillige bijdragen van de proefdiergebruikers voor onderzoek naar en promotie van alternatieven voor dierproeven;<br>
-4° rechtsplegingsvergoedingen die in het kader van rechtszaken opgelegd kunnen worden;<br>
-5° de inning van bij de eigenaar of voormalige eigenaar teruggevorderde onkosten die voortvloeien uit de inbeslagname van zijn verwaarloosde dieren.<br>
-<br>
-§ 3. De inkomsten van het Fonds mogen aangewend worden voor de financiering van administratie- en werkingskosten, personeelskosten van de entiteit bevoegd voor dierenwelzijn, kosten voor juridische bijstand&nbsp;kosten voor sensibilisering, kosten voor studies en wetenschappelijk onderzoek,&nbsp;dierenwelzijnsprijzen, investeringen, toezicht, en de toepassing en controle van de bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren en de uitvoeringsbesluiten, waaronder ook de kosten die gepaard gaan met de inbeslagname van verwaarloosde dieren, alsook het verlenen van subsidies voor het dekken van de kosten voortvloeiend uit het gesubsidieerd wetenschappelijk onderzoek in het kader van dierenwelzijn, inclusief de onderzoeksprojecten toegekend voor 1 juli 2014 door de FOD Volksgezondheid,&nbsp;en deze bestemd ter uitvoering van projecten in het kader van het Klimaatbeleid.</p>
+<p>...</p>
 
 ## HOOFDSTUK 21 Slotbepalingen
 
