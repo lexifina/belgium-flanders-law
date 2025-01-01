@@ -513,7 +513,8 @@ Het centrum registreert in voorkomend geval de volgende gegevens:<br>
 2° de datum van de winning van de eicellen, de identiteit van de donor en het aantal eicellen van elke winning van eicellen;<br>
 3° een lijst over de ontvangst van sperma of eicellen, met vermelding van de datum van aankomst en per donor het aantal en de herkomst;<br>
 4° een lijst over de verzending van sperma of eicellen, met vermelding van de datum van verzending en per donor het aantal en de ontvanger;<br>
-5° de datum van winning, aankomst of aankoop van de embryo's, in voorkomend geval de coördinaten van het aanleverende centrum voor embryo's, de identificatie van de embryo's, het aantal aanwezige embryo's, de herkomst en bestemming van de embryo's, de identiteit van de donoren en de identiteit van de draagmoederdieren bij embryotransplantatie.
+5° de datum van winning, aankomst of aankoop van de embryo's, in voorkomend geval de coördinaten van het aanleverende centrum voor embryo's, de identificatie van de embryo's, het aantal aanwezige embryo's, de herkomst en bestemming van de embryo's, de identiteit van de donoren en de identiteit van de draagmoederdieren bij embryotransplantatie.<br>
+6° een lijst met het aantal weggegooide of vernietigde dosissen sperma, eicellen en embryo’s per donor, met vermelding van de datum waarop ze weggegooid of vernietigd zijn.
 
 ### ART 45.
 
@@ -689,6 +690,18 @@ a) de goedgekeurde jaarrekeningen van het laatste boekjaar, met de balans, de re
 b) een resultatenrekening voor elk gesubsidieerd activiteitenprogramma met alle opbrengsten en kosten voor de werkingsperiode;<br>
 c) de verantwoordingsstukken voor alle gedane uitgaven, voor elk gesubsidieerd activiteitenprogramma.
 
+### ART 62/1.
+
+De subsidies, vermeld in artikel 61 van dit besluit, worden verleend onder de voorwaarden, vermeld in artikel 21, 24, 26, 27, 30 en 38 van verordening (EU) 2022/2472 van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L327 van 21 december 2022, blz. 1–81, met inbegrip van de latere wijzigingen.<br>
+<br>
+De subsidies voldoen aan de volgende voorwaarden en aan alle andere voorwaarden, vermeld in hoofdstuk I en hoofdstuk II van de voormelde verordening:<br>
+1°&nbsp;&nbsp; &nbsp;de steun wordt verstrekt aan kleine, middelgrote en micro-ondernemingen (kmo's) als vermeld in artikel 1, lid 1, a), van de voormelde verordening;<br>
+2°&nbsp;&nbsp; &nbsp;bedrijven waartegen een bevel tot terugvordering uitstaat als gevolg van een eerder besluit van de Commissie waarin steun onrechtmatig en onverenigbaar met de interne markt is verklaard als vermeld in artikel 1, lid 4, van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
+3°&nbsp;&nbsp; &nbsp;bedrijven in moeilijkheden als vermeld in artikel 1, lid 5, van de voormelde verordening, komen niet in aanmerking voor de steun;<br>
+4°&nbsp;&nbsp; &nbsp;de steun is transparant als vermeld in artikel 5, lid 3, a), van de voormelde verordening, en heeft een stimulerend effect als vermeld in artikel 6 van de voormelde verordening.<br>
+<br>
+De begunstigden maken conform artikel 38, lid 4, van de voormelde verordening de resultaten van de gesubsidieerde activiteiten beschikbaar op het internet op het moment van rapportering of vanaf de datum waarop informatie over de resultaten aan leden van specifieke organisaties wordt gegeven, afhankelijk van wat als eerste plaatsvindt. De voormelde resultaten blijven op het internet beschikbaar gedurende ten minste vijf jaar vanaf de einddatum van het kalenderjaar waarop de subsidie betrekking heeft.
+
 ## Afdeling 2. Algemene werkingssubsidies
 
 ### ART 63.
@@ -721,7 +734,32 @@ De verenigingen die erkend zijn conform artikel 4 van verordening (EU) nr. 2016/
 2° bezorgen de bevoegde entiteit de notulen van de vergaderingen, vermeld in punt 1° ;<br>
 3° bezorgen jaarlijks, binnen zes maanden na het afsluiten van hun werkingsjaar, aan de bevoegde entiteit een activiteitenverslag van het voorbije werkingsjaar. De bevoegde entiteit kan om bijkomende informatie verzoeken.<br>
 <br>
-De centra die erkend zijn conform artikel 40 van dit besluit, bezorgen uiterlijk op 31 maart een activiteitenverslag van het afgelopen jaar aan de bevoegde entiteit. De bevoegde entiteit kan om bijkomende informatie verzoeken.
+De centra die erkend zijn voor de winning en opslag van levende producten van runderen, schapen, geiten en paardachtigen conform artikel 40, bezorgen uiterlijk op 31 maart een activiteitenverslag van het voorgaande kalenderjaar aan de bevoegde entiteit. De minister kan de inhoud van het activiteitenverslag bepalen. De bevoegde entiteit bepaalt de vorm van het activiteitenverslag en de wijze waarop het wordt aangeleverd en kan om bijkomende informatie verzoeken.<br>
+<br>
+De centra die erkend zijn voor de winning en opslag van levende producten van varkens conform artikel 40, bezorgen maandelijks voor de vijftiende van elke maand een activiteitenverslag van de voorgaande maand aan de bevoegde entiteit. De minister kan de inhoud van het activiteitenverslag bepalen. De bevoegde entiteit bepaalt de vorm van het activiteitenverslag en de wijze waarop het wordt aangeleverd en kan om bijkomende informatie verzoeken.
+
+## HOOFDSTUK 12/1. Gegevensverwerking
+
+### ART 64/1.
+
+De bevoegde entiteit is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+De persoonsgegevens van de volgende categorieën betrokkenen kunnen worden verwerkt:<br>
+1°&nbsp;&nbsp; &nbsp;de personen die de erkende verenigingen, de gespecialiseerde pluimveebedrijven en centra vertegenwoordigen in het e-loket van de bevoegde entiteit;<br>
+2°&nbsp;&nbsp; &nbsp;de werknemers van de erkende verenigingen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de fokkers die zijn aangesloten bij de erkende verenigingen.&nbsp;<br>
+<br>
+Voor de uitvoering van dit besluit kunnen de volgende categorieën van persoonsgegevens verwerkt worden:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;financiële gegevens.&nbsp;<br>
+<br>
+De verwerking van de persoonsgegevens, vermeld in het derde lid, is noodzakelijk voor de vervulling van een taak van algemeen belang als vermeld in artikel 6, lid 1, e), van de voormelde verordening.<br>
+<br>
+Het doel voor de gegevensverwerking is enerzijds het verlenen van subsidies en alle activiteiten die daarmee verband houden en anderzijds het publiceren van de geaggregeerde en geanonimiseerde cijfers en kengetallen van de activiteiten van de erkende centra en van de erkende gespecialiseerde pluimveebedrijven.
+
+### ART 64/2.
+
+De bevoegde entiteit zorgt voor de bescherming en vertrouwelijkheid van de informatie die fokkers, verenigingen, centra en gespecialiseerde pluimveebedrijven aan de bevoegde entiteit bezorgen.
 
 ## HOOFDSTUK 13. - Slotbepalingen
 
