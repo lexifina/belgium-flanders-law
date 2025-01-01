@@ -52,6 +52,67 @@ In artikel 2.34, §1, van dezelfde codex worden de volgende wijzigingen aangebra
 
 In artikel 3.5, tweede lid, 2°, van dezelfde codex worden tussen het woord “procedure” en het woord “voor” de woorden “en de voorwaarden” ingevoegd.
 
+### ART 10.
+
+In artikel 3.56 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 en gewijzigd bij het decreet van 21 april 2023, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+“In afwijking van het eerste lid worden persoonsgegevens verwerkt om de voorwaarden en vereisten, vermeld in artikel 3.58 tot en met 3.60, toe te passen.”;<br>
+2° in paragraaf 2 worden tussen het derde en het vierde lid twee leden ingevoegd, die luiden als volgt:<br>
+“De verwerkingsverantwoordelijke in het kader van de toepassing van artikel 3.58 en 3.59 zijn, ieder wat betreft de verwerkingen die zij voor hun rekening nemen:<br>
+1° de steden of gemeenten;<br>
+2° de dienst die door de Vlaamse Regering belast is met het woonbeleid.<br>
+De dienst die door de Vlaamse Regering belast is met het woonbeleid, is de verwerkingsverantwoordelijke in het kader van de toepassing van artikel 3.60.”;<br>
+3° aan paragraaf 4, eerste lid, worden een punt 4° en een punt 5° toegevoegd, die luiden als volgt:<br>
+“4° van tien jaar nadat het kotlabel, vermeld in artikel 3.59, §2, van deze codex, is vervallen of tien jaar na de beslissing om geen kotlabel toe te kennen;<br>
+5° van een jaar nadat een melding als vermeld in artikel 3.60 van deze codex is geschrapt.”.
+
+### ART 11.
+
+In artikel 3.57 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 en gewijzigd bij de decreten van 21 april 2023 en 22 december 2023, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1, eerste lid, wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° voor woningen waarvoor een procedure voor de toekenning van een Vlaams kotlabel wordt gevolgd conform artikel 3.59, of die gemeld zijn als studentenhuisvesting conform artikel 3.60.”;<br>
+2° aan paragraaf 1, tweede lid, worden een punt 6° tot en met 9° toegevoegd, die luiden als volgt:<br>
+“6° informatie over de aanduiding als studentenhuisvesting;<br>
+7° informatie over het bestaan van het Vlaamse kotlabel met vermelding van de voorwaarden die zijn vervuld en in voorkomend geval informatie over de gemeentelijke voorwaarden met vermelding of die zijn vervuld;<br>
+8° informatie over de weigering om een Vlaams kotlabel toe te kennen met vermelding van de voorwaarden die wel of niet zijn vervuld en in voorkomend geval informatie over de gemeentelijke voorwaarden;<br>
+9° informatie dat de procedure voor de toekenning van een Vlaams kotlabel en in voorkomend geval de procedure voor de gemeentelijke voorwaarden, lopende is.”;<br>
+3° er worden een paragraaf 4 en een paragraaf 5 toegevoegd, die luiden als volgt:<br>
+“§4. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan persoonsgegevens die noodzakelijk zijn voor de goede organisatie en opvolging van conformiteitsonderzoeken die verlopen volgens de procedure, vermeld in artikel 3.3, en die worden uitgevoerd door controleurs die erkend zijn conform de bepalingen die de Vlaamse Regering krachtens artikel 3.5, tweede lid, vaststelt, ter beschikking stellen aan private rechtspersonen die de diensten van die controleurs aanbieden. De voormelde private rechtspersonen zijn de verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens die ze ontvangen.<br>
+§5. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan de persoonsgegevens die ze verwerkt in het kader van de toepassing van artikel 3.60, doorgeven aan de steden en gemeenten voor het opvolgen van het aanbod van studentenhuisvesting. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan die persoonsgegevens gebruiken voor statistische verwerking en kan ze ter beschikking stellen van andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De dienst die door de Vlaamse Regering belast is met het woonbeleid, kan die persoonsgegevens verder verwerken voor doeleinden als vermeld in artikel 1.5 die verenigbaar zijn met de oorspronkelijke doeleinden.”.
+
+### ART 12.
+
+Aan boek 3 van dezelfde codex, het laatst gewijzigd bij het decreet van 22 december 2023, wordt een deel 11 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Deel 11. Kotlabel en melding van studentenhuisvesting”.
+
+### ART 13.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 22 december 2023, wordt aan deel 11, toegevoegd bij artikel 12, een artikel 3.58 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3.58. In dit deel wordt verstaan onder:<br>
+1° student: iedere persoon die ingeschreven is bij een instelling die voltijds onderwijs aanbiedt;<br>
+2° studentenhuisvesting: elke woning die verhuurd wordt of te huur of ter beschikking gesteld wordt met het oog op de huisvesting van een of meer studenten.”.
+
+### ART 14.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 22 december 2023, wordt aan hetzelfde deel 11 een artikel 3.59 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3.59. §1. De gemeenteraad kan bij verordening:<br>
+1° bepalen dat een studentenhuisvesting het kotlabel, vermeld in paragraaf 2, kan krijgen;<br>
+2° het kotlabel, vermeld in paragraaf 2, verplichten om een studentenhuisvesting te verhuren of ter beschikking te stellen.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid.<br>
+<br>
+§2. Een kotlabel toont aan dat een studentenhuisvesting aan al de volgende voorwaarden voldoet:<br>
+1° de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vermeld in artikel 3.1 van deze codex, en, in voorkomend geval, de strengere veiligheids- en kwaliteitsnormen die de gemeenteraad kan opleggen conform artikel 3.2, eerste lid, 2°, van deze codex;<br>
+2° de vereisten van brandveiligheid van woningen;<br>
+3° het aantal woongelegenheden is vergund of vergund geacht conform de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure om een kotlabel als vermeld in het eerste lid, aan te vragen, te behandelen en toe te kennen. De Vlaamse Regering bepaalt de geldigheidsduur van het kotlabel, vermeld in het eerste lid, het uitzicht ervan, en op welke wijze het wordt bekendgemaakt. De gemeente kan nadere regels bepalen.<br>
+<br>
+§3. Als de gemeenteraad een verordening als vermeld in paragraaf 1, eerste lid, heeft, kan ze bijkomende voorwaarden opleggen, die geen afbreuk doen aan het kotlabel, vermeld in paragraaf 2, eerste lid.”.
+
 ### ART 16.
 
 In artikel 4.22, §3, tweede lid, van dezelfde codex, gewijzigd bij het decreet van 9 juli 2021, wordt de zinsnede “kandidatenregister, vermeld in boek 6, deel 3, van de woonmaatschappij” vervangen door de zinsnede “centraal inschrijvingsregister, vermeld in artikel 6.5”.
@@ -131,6 +192,12 @@ Voor de berekening van de termijn, vermeld in het derde en vierde lid, is de ver
 De Vlaamse Regering bezorgt de vernietigingsbeslissing met een beveiligde zending aan de gemeente of het intergemeentelijk samenwerkingsverband.”.
 
 ## Hoofdstuk 5. Slotbepalingen
+
+### ART 23.
+
+De bepalingen uit gemeentelijke verordeningen die in strijd zijn met artikel 3.58 en 3.59 van de Vlaamse Codex Wonen van 2021 worden van rechtswege opgeheven op de datum van de inwerkingtreding van artikel 12 tot en met 14 van dit decreet.<br>
+<br>
+De kotlabels en de uitbatingsvergunningen die zijn uitgereikt voor de inwerkingtreding van artikel 12 tot en met 14 van dit decreet, blijven geldig conform de geldigheidsduur die bij gemeentelijke verordening is bepaald. De kotlabels die de stad Leuven uitreikt vanaf 1 januari 2024 tot de datum van de inwerkingtreding van de verordening, worden van rechtswege omgezet in een Vlaams kotlabel als vermeld in artikel 3.59 van de Vlaamse Codex Wonen van 2021.
 
 ### ART 24.
 
