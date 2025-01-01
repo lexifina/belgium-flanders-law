@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040133,
+  "title": "Besluit van de Vlaamse Regering van 2024-07-19 tot wijziging van het besluit van de Vlaamse Regering van 19 januari 2018 tot regeling van de Vlaamse deelname aan en/of subsidiëring van internationale onderzoeksinfrastructuren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040133/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "54f52931fb92ba5898daae84b43fd63550d482a904be0439d1f1c998711a1dbb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040133&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-07-19",
+  "gazette": "2024-08-28",
+  "numac": 2024007868,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
