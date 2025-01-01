@@ -88,6 +88,16 @@ In artikel 2 van het decreet van 8 mei 2009 betreffende het algemeen welzijnswer
 3° er wordt een punt 12° toegevoegd, dat luidt als volgt:<br>
 “12° referentieregio: een gebiedsafbakening van verschillende gemeenten samen als vermeld in artikel 5 van het decreet van 3 februari 2023 over de regiovorming en tot wijziging van het decreet van 22 decem-ber 2017 over het lokaal bestuur.”.
 
+### ART 11.
+
+In hoofdstuk II, afdeling III, van hetzelfde decreet wordt het opschrift van onderafdeling I vervangen door wat volgt:<br>
+<br>
+“Onderafdeling I. Centrum voor teleonthaal”.
+
+### ART 12.
+
+In artikel 5, eerste lid, van hetzelfde decreet worden de woorden “Elk centrum” vervangen door de woorden “Het centrum”.
+
 ### ART 13.
 
 In artikel 6 van hetzelfde decreet wordt het woord “alle” opgeheven.
