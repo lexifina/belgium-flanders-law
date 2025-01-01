@@ -41,11 +41,13 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 Het terugkommoment bestaat uit de drie volgende onderdelen, die op dezelfde dag en in de volgende volgorde worden gegeven :<br>
-1° de kennismaking en de reflectie als beginnende bestuurder. Dit onderdeel duurt 30 minuten;<br>
-2° de praktijkoefeningen op het oefenterrein. Dit onderdeel duurt 120 minuten;<br>
-3° het groepsgesprek. Dit onderdeel duurt 90 minuten.<br>
+1° de kennismaking en de reflectie als beginnende bestuurder. Dit onderdeel duurt minstens 15 minuten;<br>
+2° de praktijkoefeningen op het oefenterrein. Dit onderdeel duurt minstens 90 minuten;<br>
+3° het groepsgesprek. Dit onderdeel duurt minstens 30 minuten.<br>
 <br>
-De onderdelen omvatten de leerstof, opgenomen in bijlage 1, die bij dit besluit is gevoegd.
+De drie onderdelen, vermeld in het eerste lid, duren samen in totaal vier uur.<br>
+<br>
+De onderdelen, vermeld in het eerste lid, omvatten de leerstof, opgenomen in bijlage 1, die bij dit besluit is gevoegd.
 
 ### ART 3.
 
@@ -53,7 +55,7 @@ Het terugkommoment kan alleen worden gevolgd bij een instelling die door de mini
 
 ### ART 4.
 
-De deelnemers hebben alleen voldaan aan de verplichting om het terugkommoment te volgen als ze elk van de drie onderdelen, vermeld in artikel 2, eerste lid, hebben gevolgd.<br>
+De deelnemers hebben alleen voldaan aan de verplichting om het terugkommoment te volgen als ze elk van de drie onderdelen, vermeld in artikel 2, eerste lid, volledig hebben gevolgd.<br>
 <br>
 Deelnemers zijn evenwel vrijgesteld van het onderdeel, vermeld in artikel 2, eerste lid, 2°, als ze aan de instelling het bewijs leveren dat ze alleen een voertuig mogen besturen dat speciaal aan hun handicap is aangepast.
 
@@ -65,23 +67,72 @@ Nadat de deelnemers de drie onderdelen, vermeld in artikel 2, eerste lid, gevolg
 
 ### ART 6.
 
-Iedere deelnemer volgt het terugkommoment op zijn vroegst zes en uiterlijk negen maanden nadat hij het rijbewijs B heeft behaald.<br>
+§1. Iedere deelnemer volgt het terugkommoment op zijn vroegst zes en uiterlijk negen maanden nadat hij het rijbewijs B heeft behaald.<br>
 <br>
-In afwijking van het eerste lid volgen de deelnemers, vermeld in artikel 56, eerste lid, 2°, die hun rijbewijs behaald hebben voor 1 juli 2018, het terugkommoment binnen drie maanden na 1 januari 2019.<br>
+§2. De toezichthouder kan uitstel toekennen aan de deelnemer om te voldoen aan de verplichting van het volgen van het terugkommoment binnen de tijdspanne, vermeld in paragraaf 1, in de volgende gevallen:<br>
+1°&nbsp;&nbsp; &nbsp;de deelnemer bevindt zich om medische redenen in de onmogelijkheid om het terugkommoment binnen de tijdspanne, vermeld in paragraaf 1, te volgen. Dat wordt door een behandelend arts verklaard in een attest waarmee de deelnemer uitstel aanvraagt en waarvan de minister het model bepaalt;<br>
+2°&nbsp;&nbsp; &nbsp;de deelnemer bevindt zich ten gevolge van een rechterlijke maatregel in een toestand van vrijheidsbeneming en is in de onmogelijkheid om het terugkommoment binnen de tijdspanne, vermeld in paragraaf 1, te volgen. Die toestand wordt door de directie van de inrichting waar de betrokkene zich bevindt, bevestigd in een attest waarmee de deelnemer uitstel aanvraagt en waarvan de minister het model bepaalt;<br>
+3°&nbsp;&nbsp; &nbsp;de deelnemer verblijft om beroeps- of dienstredenen in het buitenland en bevindt zich in de onmogelijkheid om het terugkommoment binnen de tijdspanne, vermeld in paragraaf 1, te volgen. Die onmogelijkheid wordt door de militaire of burgerlijke overheid of door de werkgever onder wie de werknemer ressorteert, bevestigd in een attest waarmee de deelnemer uitstel aanvraagt en waarvan de minister het model bepaalt;<br>
+4°&nbsp;&nbsp; &nbsp;de deelnemer verblijft om studieredenen in het buitenland en bevindt zich in de onmogelijkheid om het terugkommoment binnen de tijdspanne, vermeld in paragraaf 1, te volgen. Die onmogelijkheid wordt door de directie van de instelling waar hij studeert, bevestigd in een attest waarmee de deelnemer uitstel aanvraagt en waarvan de minister het model bepaalt;<br>
+5°&nbsp;&nbsp; &nbsp;de deelnemer bevindt zich in de onmogelijkheid om het terugkommoment waarvoor hij was ingeschreven, te volgen wegens het overlijden van een van de volgende personen:<br>
+a)&nbsp;&nbsp; &nbsp;de echtgenoot of de samenwonende partner van de deelnemer;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;de kinderen of de pleegkinderen van de deelnemer, van de echtgenoot van de deelnemer of van de samenwonende partner van de deelnemer;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de ouders, de stiefouders, de pleegouders of de schoonkinderen van de deelnemer, van de echtgenoot van de deelnemer of van de samenwonende partner van de deelnemer;<br>
+d)&nbsp;&nbsp; &nbsp;de broers, de zussen, de grootouders of de kleinkinderen van de deelnemer, van de echtgenoot van de deelnemer of van de samenwonende partner van de deelnemer.<br>
 <br>
-De toezichthouder kan uitstel toekennen aan de deelnemer om te voldoen aan de verplichting van het volgen van het terugkommoment binnen de tijdspanne vermeld in het eerste en het tweede lid in de volgende gevallen :<br>
-1° wanneer de deelnemer zich om medische redenen in de onmogelijkheid bevindt om het terugkommoment binnen de tijdspanne vermeld in het eerste en het tweede lid te volgen. Dat wordt door een behandelende arts verklaard in een attest waarvan de Minister het model bepaalt;<br>
-2° wanneer de deelnemer ten gevolge van een rechterlijke maatregel in een toestand van vrijheidsbeneming verkeert en in de onmogelijkheid is om het terugkommoment binnen de tijdspanne vermeld in het eerste en het tweede lid te volgen. Die toestand wordt door de directie van de inrichting waar de betrokkene zich bevindt, bevestigd in een attest waarvan de Minister het model bepaalt;<br>
-3° wanneer de deelnemer om beroeps- of dienstredenen in het buitenland verblijft en zich in de onmogelijkheid bevindt het terugkommoment binnen de tijdspanne vermeld in het eerste en het tweede lid te volgen. Die onmogelijkheid wordt door de militaire of burgerlijke overheid of door de werkgever onder wie de werknemer ressorteert, bevestigd in een attest waarvan de Minister het model bepaalt;<br>
-4° wanneer de deelnemer om studieredenen in het buitenland verblijft en zich in de onmogelijkheid bevindt om het terugkommoment binnen de tijdspanne vermeld in het eerste en het tweede lid te volgen. Die onmogelijkheid wordt door de directie van de instelling waar hij studeert, bevestigd in een attest waarvan de Minister het model bepaalt.<br>
+De toezichthouder kan in het geval, vermeld in het eerste lid, 5°, uitstel toekennen als voldaan is aan de volgende voorwaarden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het terugkommoment waarvoor de deelnemer was ingeschreven, valt in de periode vanaf de datum van het overlijden tot en met de datum van de uitvaart;<br>
+2°&nbsp;&nbsp; &nbsp;de onmogelijkheid om het terugkommoment te volgen waarvoor de deelnemer was ingeschreven, wordt bevestigd in een attest waarmee de deelnemer uitstel aanvraagt en waarvan de minister het model bepaalt en waaraan de volgende documenten worden toegevoegd:<br>
+a)&nbsp;&nbsp; &nbsp;een kopie van het uittreksel of het afschrift van de akte van overlijden;<br>
+b)&nbsp;&nbsp; &nbsp;een bewijs van de datum van de uitvaart;<br>
+c)&nbsp;&nbsp; &nbsp;een bewijs van de inschrijving voor het terugkommoment.&nbsp;<br>
 <br>
-De attesten vermeld in het derde lid, 1°, 2°, 3° en 4°, bevatten steeds de datum vanaf wanneer de onmogelijkheid van het volgen van het terugkommoment start en de datum vanaf wanneer deze onmogelijkheid ophoudt.<br>
+§3. De attesten, vermeld in paragraaf 2, bevatten de volgende gegevens van de deelnemer:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de naam, de voornaam, het rijksregisternummer, het telefoonnummer en het e-mailadres;<br>
+2°&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van de afspraak om het terugkommoment te volgen en de naam van de instelling;<br>
+3°&nbsp;&nbsp; &nbsp;de verklaring van de deelnemer dat het terugkommoment niet kan worden gevolgd met de verwijzing naar de reden en het verzoek om uitstel;<br>
+4°&nbsp;&nbsp; &nbsp;de datum waarop de deelnemer het attest heeft ingevuld;<br>
+5°&nbsp;&nbsp; &nbsp;de handtekening.<br>
 <br>
-De deelnemer richt de aanvraag tot uitstel samen met het attest vermeld in het derde lid, 1°, 2°, 3° of 4°, op elektronische wijze of bij een ter post aangetekende brief aan de toezichthouder uiterlijk binnen de termijn dat de deelnemer het terugkommoment overeenkomstig het eerste en het tweede lid moet volgen. De postdatum geldt hierbij als bewijs.<br>
+Naast de gegevens, vermeld in het eerste lid, bevatten de attesten, vermeld in paragraaf 2, naargelang het geval, ook de volgende gegevens:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het attest, vermeld in paragraaf 2, eerste lid, 1°:<br>
+a)&nbsp;&nbsp; &nbsp;de naam, de voornaam, het RIZIV-nummer en het e-mailadres van de behandelende arts;<br>
+b)&nbsp;&nbsp; &nbsp;het adres van de praktijk van de behandelende arts;<br>
+c)&nbsp;&nbsp; &nbsp;de begindatum en de einddatum van de periode waarin de deelnemer om medische redenen het terugkommoment niet kan volgen;<br>
+d)&nbsp;&nbsp; &nbsp;de verklaring van de behandelende arts dat de deelnemer het terugkommoment niet kan volgen om medische redenen tijdens de periode, vermeld in c);<br>
+e)&nbsp;&nbsp; &nbsp;de handtekening en de stempel van de behandelende arts;<br>
+f)&nbsp;&nbsp; &nbsp;de datum waarop de behandelende arts het attest heeft ingevuld;<br>
+2°&nbsp;&nbsp; &nbsp;het attest, vermeld in paragraaf 2, eerste lid, 2°:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de naam, het adres en het e-mailadres van de inrichting;<br>
+b)&nbsp;&nbsp; &nbsp;de naam en de voornaam van de directeur van de inrichting;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de begindatum en de einddatum van de periode waarin de deelnemer wegens vrijheidsbeneming het terugkommoment niet kan volgen;<br>
+d)&nbsp;&nbsp; &nbsp;de verklaring van de directeur van de inrichting dat de deelnemer het terugkommoment niet kan volgen wegens vrijheidsbeneming tijdens de periode, vermeld in c);<br>
+e)&nbsp;&nbsp; &nbsp;de handtekening van de directeur van de inrichting;&nbsp;<br>
+f)&nbsp;&nbsp; &nbsp;de datum waarop de directeur van de inrichting het attest heeft ingevuld;<br>
+3°&nbsp;&nbsp; &nbsp;het attest, vermeld in paragraaf 2, eerste lid, 3°:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de naam, het ondernemingsnummer, het adres en het e-mailadres van de militaire overheid, de burgerlijke overheid of de werkgever;<br>
+b)&nbsp;&nbsp; &nbsp;de naam en de voornaam van de directeur of leidinggevende;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de begindatum en de einddatum van de periode waarin de deelnemer wegens de uitoefening van een beroep of dienst in het buitenland het terugkommoment niet kan volgen;<br>
+d)&nbsp;&nbsp; &nbsp;de verklaring van de directeur of de leidinggevende dat de deelnemer het terugkommoment niet kan volgen omdat de deelnemer om beroeps- of dienstredenen in het buitenland verblijft tijdens de periode, vermeld in c);<br>
+e)&nbsp;&nbsp; &nbsp;de handtekening van de directeur of de leidinggevende;<br>
+f)&nbsp;&nbsp; &nbsp;de datum waarop de directeur of de leidinggevende het attest heeft ingevuld;<br>
+4°&nbsp;&nbsp; &nbsp;het attest, vermeld in paragraaf 2, eerste lid, 4°:<br>
+a)&nbsp;&nbsp; &nbsp;de naam, het adres en het e-mailadres van de onderwijsinstelling;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;de naam en de voornaam van de directeur of de rector of van zijn gemachtigde;<br>
+c)&nbsp;&nbsp; &nbsp;de begindatum en de einddatum van de periode waarin de deelnemer wegens een studie in het buitenland het terugkommoment niet kan volgen;<br>
+d)&nbsp;&nbsp; &nbsp;de verklaring van de directeur of de rector of van zijn gemachtigde dat de deelnemer het terugkommoment niet kan volgen omdat de deelnemer om studiereden in het buitenland verblijft tijdens de periode, vermeld in c);&nbsp;<br>
+e)&nbsp;&nbsp; &nbsp;de handtekening van de directeur of de rector of van zijn gemachtigde;&nbsp;<br>
+f)&nbsp;&nbsp; &nbsp;de stempel van de onderwijsinstelling;<br>
+g)&nbsp;&nbsp; &nbsp;de datum waarop de directeur, de rector of zijn gemachtigde het attest heeft ingevuld;<br>
+5°&nbsp;&nbsp; &nbsp;het attest, vermeld in paragraaf 2, tweede lid, 2°: de verwantschap tussen de deelnemer en de overledene.<br>
 <br>
-De toezichthouder brengt de beslissing over de aanvraag tot uitstel uiterlijk binnen een maand nadat de deelnemer het terugkommoment moest volgen ter kennis van de aanvrager.<br>
+§4. De deelnemer bezorgt het attest, vermeld in paragraaf 2, eerste lid, 1°, 2°, 3° of 4°, of het attest en de daaraan toegevoegde documenten, vermeld in paragraaf 2, tweede lid, 2°, op elektronische wijze of met een aangetekende brief aan de toezichthouder uiterlijk vijf kalenderdagen na afloop van de termijn waarin de deelnemer het terugkommoment conform paragraaf 1 moet volgen. De postdatum geldt daarbij als bewijs.<br>
 <br>
-Wanneer uitstel toegekend wordt, vermeldt de toezichthouder de termijn waarbinnen het terugkommoment gevolgd dient te worden. Deze termijn vangt aan vanaf de dag na de datum van ophouden van de onmogelijkheid tot het volgen van het terugkommoment zoals opgenomen in het attest vermeld in het derde lid, 1°, 2°, 3° of 4°, en eindigt uiterlijk drie maanden na deze datum zonder dat de maximumtermijn van artikel 4, eerste lid, van het decreet van 9 maart 2018, wordt overschreden.
+De toezichthouder brengt de deelnemer op elektronische wijze of met de post op de hoogte van de beslissing over de aanvraag tot uitstel uiterlijk binnen een maand nadat de deelnemer het attest en desgevallend de daaraan toegevoegde documenten, vermeld in het eerste lid, heeft ingediend.<br>
+<br>
+Als uitstel toegekend wordt, vermeldt de toezichthouder de termijn waarin het terugkommoment gevolgd moet worden. Die termijn eindigt, zonder daarbij de maximumtermijn, vermeld in artikel 4, eerste lid, van het decreet van 9 maart 2018, te overschrijden, uiterlijk drie maanden na een van de volgende data:<br>
+1°&nbsp;&nbsp; &nbsp;in de gevallen, vermeld in paragraaf 2, eerste lid, 1°, 2°, 3° en 4°, de datum van ophouden van de onmogelijkheid om het terugkommoment te volgen zoals opgenomen in het attest, vermeld in paragraaf 2, eerste lid, 1°, 2°, 3° en 4;<br>
+2°&nbsp;&nbsp; &nbsp;in het geval, vermeld in paragraaf 2, eerste lid, 5°, de datum van de uitvaart.
 
 ## HOOFDSTUK IV. Kostprijs van het terugkommoment
 
@@ -89,11 +140,11 @@ Wanneer uitstel toegekend wordt, vermeldt de toezichthouder de termijn waarbinne
 
 Om het terugkommoment te volgen, betaalt de deelnemer aan de instelling een maximale vergoeding van 100 euro, inclusief de belasting over de toegevoegde waarde.<br>
 <br>
-Als een deelnemer zich aanbiedt om het terugkommoment te volgen nadat de termijn, vermeld in artikel 6, verstreken is, betaalt hij aan de instelling boven op de vergoeding, vermeld in het eerste lid, ook een toeslag van 50 euro, inclusief de belasting over de toegevoegde waarde. De instelling betaalt die toeslag aan het bestuur op de wijze die het bestuur vaststelt.<br>
+Als een deelnemer zich aanbiedt om het terugkommoment te volgen nadat de termijn, vermeld in artikel 6,&nbsp;§1, of de termijn, vermeld in artikel 6, §4, derde lid, als door de toezichthouder uitstel werd toegekend, verstreken is, betaalt hij aan de instelling boven op de vergoeding, vermeld in het eerste lid, ook een toeslag van 50 euro, inclusief de belasting over de toegevoegde waarde. De instelling betaalt die toeslag aan het bestuur op de wijze die het bestuur vaststelt.<br>
 <br>
 De bedragen, vermeld in het eerste en tweede lid, worden voorafgaand aan het terugkommoment geïnd.<br>
 <br>
-De bedragen, vermeld in het eerste en tweede lid, zijn gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 31 december van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
+De bedragen, vermeld in het eerste en tweede lid, zijn gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 30 november van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
 
 ## HOOFDSTUK V. Erkenning en subsidiëring van de instellingen
 
@@ -141,7 +192,7 @@ De drie praktijkoefeningen worden uitgevoerd op de volgende ondergrond:<br>
 2° de afleidingsoefening: op een natte ondergrond met verminderde wrijvingscoëfficiënt;<br>
 3° de slalomoefening met promillebrillen: op een droge of een natte ondergrond.<br>
 <br>
-Het oefenterrein moet vrij zijn van constructies die of materiaal dat ongevallen zou kunnen veroorzaken of de veiligheid en de correcte uitvoering van de oefeningen zou kunnen belemmeren alsook van steenslag en bladeren.
+Het oefenterrein moet vrij zijn van constructies die of materiaal dat ongevallen zou kunnen veroorzaken of de veiligheid en de correcte uitvoering van de oefeningen zou kunnen belemmeren.
 
 ### ART 12.
 
@@ -149,7 +200,7 @@ Het oefenterrein beschikt minimaal over de volgende uitrustingen :<br>
 1° een brandblusser van minstens 5 kilogram;<br>
 2° een absorberend product voor olievlekken;<br>
 3° een EHBO-uitrusting met al het noodzakelijke hulpverleningsmateriaal;<br>
-4° een goed werkende vaste lichtinstallatie als de praktijkoefeningen, vermeld in artikel 2, eerste lid, 2°, voor zonsopgang of na zonsondergang worden gegeven.
+4° een goed werkende lichtinstallatie als de praktijkoefeningen, vermeld in artikel 2, eerste lid, 2°, voor zonsopgang of na zonsondergang worden gegeven.
 
 ### ART 13.
 
@@ -167,15 +218,19 @@ Het voertuig dat gebruikt wordt tijdens het onderdeel, vermeld in artikel 2, eer
 3° het is uitgerust met een combinatie van achteruitkijkspiegels;<br>
 4° het heeft aan de beide zijden twee deuren;<br>
 5° de achterbank is uitgerust met hoofdsteunen;<br>
-6° de dubbele bediening is verwijderd.<br>
+6° de dubbele bediening is verwijderd of is onbruikbaar gemaakt als er een deelnemer op de passagiersstoel vooraan zit.<br>
 <br>
 Alle materiële en lichamelijke schade die door het voertuig wordt berokkend aan bestuurders, passagiers en derden, is door een verzekeringspolis gedekt.
 
 ### ART 15.
 
-De instellingen voorzien minstens in één voertuig per drie deelnemers om tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, te gebruiken.<br>
+De instellingen voorzien minstens in één voertuig per zes deelnemers om tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, te gebruiken.<br>
 <br>
-Tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, mogen er maximaal drie deelnemers in een voertuig plaatsnemen.
+De instellingen hebben ook altijd een reservevoertuig ter beschikking om tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, te gebruiken.
+
+### ART 15/1.
+
+De instellingen beschikken minstens over een voertuig dat uitgerust is met een automatische schakeling, en een voertuig dat uitgerust is met een handschakeling, om tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, te gebruiken.
 
 ### ART 16.
 
@@ -187,19 +242,24 @@ Per voertuig moeten er drie promillebrillen van verschillende gradaties beschikb
 
 ### ART 18.
 
-Elk voertuig beschikt over een systeem dat tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, een onafgebroken, kwalitatieve en wederkerige communicatie tussen de deelnemer en de lesgever garandeert.
+Elk voertuig beschikt, als er geen lesgever in het voertuig zit, over een systeem dat tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, een onafgebroken, kwalitatieve en wederkerige communicatie tussen de deelnemer en de lesgever garandeert.
 
 ## Onderafdeling 4. Voorwaarden voor de inhoud en de organisatie van het terugkommoment
 
 ### ART 19.
 
-Het terugkommoment kan slechts georganiseerd worden voor groepen van minstens zes en maximaal achttien deelnemers.<br>
+Het terugkommoment kan slechts georganiseerd worden voor groepen van minstens vier en maximaal achttien deelnemers.<br>
 <br>
-Tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, is er minstens één lesgever per zes deelnemers.<br>
+Tijdens het onderdeel, vermeld in artikel 2, eerste lid, 2°, is er minstens één lesgever per vier deelnemers.<br>
 <br>
 Deelnemers hebben recht op redelijke aanpassingen waarin de instelling voorziet.<br>
 <br>
-Deelnemers met een gehoorhandicap, namelijk dove of slechthorende deelnemers, kunnen zich laten bijstaan door een beëdigd doventolk die de instelling aanwijst, onverminderd de eventuele toepassing van het besluit van de Vlaamse Regering van 15 januari 2016 houdende de vaststelling van overkoepelende regels voor het centraal tolkenbureau voor de beleidsdomeinen Onderwijs en Welzijn, Volksgezondheid en Gezin. De tolk mag geen betrekking uitoefenen in een erkende rijschool of op welke wijze ook professioneel rijonderricht geven.
+Dove of slechthorende deelnemers kunnen zich laten bijstaan door een tolk Vlaamse gebarentaal die ze zelf voorstellen of die, bij gebrek aan een voorstel van de deelnemer, de instelling aanwijst.<br>
+<br>
+De tolk, vermeld in het vierde lid, voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;hij is ingeschreven bij het centraal tolkenbureau, vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 15 januari 2016 houdende de vaststelling van overkoepelende regels voor het centraal tolkenbureau voor de beleidsdomeinen Onderwijs en Welzijn, Volksgezondheid en Gezin;<br>
+2°&nbsp;&nbsp; &nbsp;hij heeft de deontologische code van het centraal tolkbureau, vermeld in punt 1°, ondertekend;<br>
+3°&nbsp;&nbsp; &nbsp;hij oefent geen betrekking uit in een erkende rijschool en hij geeft op geen enkele wijze professioneel rijonderricht.
 
 ### ART 20.
 
@@ -290,7 +350,7 @@ Zolang de erkenning behouden blijft, is een jaarlijkse retributie van 80 euro ve
 <br>
 Het bestuur int de retributies op de wijze die in het betalingsverzoek bepaald is.<br>
 <br>
-De bedragen van de retributies zijn gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. De bedragen worden op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 31 december van het voorgaande jaar bereikt is, en worden tot op de dichtstbijzijnde euro naar beneden afgerond.
+De bedragen van de retributies zijn gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. De bedragen worden op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 30 november van het voorgaande jaar bereikt is, en worden tot op de dichtstbijzijnde euro naar beneden afgerond.
 
 ## Afdeling 5. Subsidiëring
 
@@ -298,7 +358,7 @@ De bedragen van de retributies zijn gekoppeld aan het indexcijfer van de gezondh
 
 De instelling kan een subsidie van 20 euro, te vermeerderen met de verschuldigde belasting over de toegevoegde waarde, ontvangen per deelnemer die wordt geregistreerd conform artikel 23.<br>
 <br>
-Het bedrag van de subsidie is gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 31 december van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
+Het bedrag van de subsidie is gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 30 november van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
 
 ### ART 32.
 
@@ -420,7 +480,7 @@ Bij de aanvraag tot erkenning is een retributie van 80 euro verschuldigd om de b
 <br>
 Het bestuur int de retributie op de wijze die in het betalingsverzoek bepaald is.<br>
 <br>
-Het bedrag van de retributie is gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 31 december van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
+Het bedrag van de retributie is gekoppeld aan het indexcijfer van de gezondheidsindex dat op 31 december 2017 is bereikt. Het bedrag wordt op 1 januari van elk jaar aangepast aan het indexcijfer van de gezondheidsindex dat op 30 november van het voorgaande jaar bereikt is, en wordt tot op de dichtstbijzijnde euro naar beneden afgerond.
 
 ## HOOFDSTUK VII. Controle
 
@@ -515,7 +575,7 @@ De gegevensbank van het bestuur bevat de volgende gegevens:<br>
 4° de gegevens, vermeld in artikel 55/5;<br>
 5° de gegevens, vermeld in artikel 55/6;<br>
 6° de gegevens, vermeld in artikel 55/7;<br>
-7° van iedere deelnemer de begin- en einddatum van de termijn, vermeld in artikel 6, eerste of tweede lid;<br>
+7° van iedere deelnemer de begin- en einddatum van de termijn, vermeld in artikel 6, §1;<br>
 8° in voorkomend geval, de gegevens, vermeld in artikel 55/8;<br>
 9° in voorkomend geval, de gegevens, vermeld in artikel 55/9;<br>
 10° in voorkomend geval, de gegevens, vermeld in artikel 55/10;<br>
@@ -568,10 +628,10 @@ Van iedere instelling worden de volgende gegevens verzameld:<br>
 
 ### ART 55/8.
 
-Als conform artikel 6, vijfde lid, een uitstel wordt aangevraagd, worden van de deelnemer de volgende gegevens verzameld:<br>
-1° de postdatum van de aanvraag tot uitstel;<br>
-2° de aangehaalde reden voor de aanvraag tot uitstel;<br>
-3° conform artikel 6, vierde lid, de datum vanaf wanneer de onmogelijkheid om het terugkommoment te volgen start en de datum vanaf wanneer die onmogelijkheid ophoudt;<br>
+Als conform artikel 6, §4, een uitstel wordt aangevraagd, worden de volgende gegevens verzameld:<br>
+1° de postdatum van het attest waarmee de deelnemer uitstel aanvraagt;<br>
+2° het attest, vermeld in artikel 6, §2, eerste lid, 1°, 2°, 3° of 4°, of het attest en de daaraan toegevoegde documenten, vermeld in artikel 6, §2, tweede lid, 2°;<br>
+3° ...;<br>
 4° de datum van de beslissing over de aanvraag tot uitstel;<br>
 5° de beslissing over de aanvraag tot uitstel;<br>
 6° de begin- en einddatum van de termijn waarin de deelnemer het terugkommoment moet volgen als een uitstel wordt toegestaan.
