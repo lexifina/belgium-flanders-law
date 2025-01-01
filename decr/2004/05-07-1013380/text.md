@@ -204,6 +204,19 @@ Op verzoek van het centraal kerkbestuur of, als er geen centraal kerkbestuur wer
 
 Het centraal kerkbestuur kan, ook namens de kerkfabrieken die eronder vallen, afspraken maken met de gemeenteoverheid. Die afspraken zijn bindend voor het centraal kerkbestuur, het gemeentebestuur en de betrokken kerkfabrieken. Het centraal kerkbestuur bezorgt de gemaakte afspraken aan alle betrokken kerkfabrieken. De wijze van kennisgeving wordt bepaald in overleg tussen het centraal kerkbestuur en de kerkfabrieken die eronder vallen.<br /><br />Een kerkfabriek kan beroep instellen bij de provinciegouverneur tegen de gemaakte afspraken binnen een termijn van dertig dagen die ingaat op de dag na de kennisgeving, vermeld in het eerste lid.<br /><br />De provinciegouverneur spreekt zich uit over het beroep binnen een termijn van dertig dagen die ingaat op de dag na de ontvangst van het beroep. Hij verstuurt zijn beslissing uiterlijk de laatste dag van die termijn aan de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan.<br /><br />Als binnen de termijn van dertig dagen geen beslissing aan de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan is verstuurd, wordt de provinciegouverneur geacht het beroep te hebben ingewilligd.
 
+### ART 33/2.
+
+Het meerjarenplan, vermeld in artikel 41, en eventuele wijzigingen ervan, is gebaseerd op een kerkenbeleidsplan.<br>
+<br>
+Een kerkenbeleidsplan is een schriftelijk document dat een lokaal gedragen langetermijnvisie bevat voor alle parochiekerken op het grondgebied van de gemeente. Het is goedgekeurd en ondertekend door het representatief orgaan van de rooms-katholieke eredienst en door het gemeentebestuur. Het kerkenbeleidsplan bevat minstens al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;een beschrijving van de betrokken kerken, met hun cultuurhistorische waarde, hun beschermingsstatuut en hun bouwfysische toestand;<br>
+2°&nbsp;&nbsp; &nbsp;informatie over de eigendomstoestand;<br>
+3°&nbsp;&nbsp; &nbsp;de situering van elke kerk in zijn ruimtelijke omgeving;<br>
+4° &nbsp;&nbsp; &nbsp;een beschrijving van het actuele gebruik en de actuele functie van de betrokken kerken;<br>
+5° &nbsp;&nbsp; &nbsp;een onderbouwde visie op het toekomstige gebruik en de toekomstige functie van de betrokken kerken, inclusief een plan van aanpak over de wijze waarop &nbsp;de toekomstige invulling (eredienst, valorisatie, medegebruik, neven- en herbestemming) kan worden gerealiseerd.<br>
+<br>
+Het kerkenbeleidsplan, of de ondertekende bevestiging van een bestaand kerkenbeleidsplan, is niet ouder dan zes maanden als het meerjarenplan wordt ingediend met toepassing van artikel 42, eerste lid. Als dat nog niet het geval is op het &nbsp;ogenblik dat het meerjarenplan wordt ingediend, dan kan de gemeenteraad in het meerjarenplan investeringsuitgaven voor het gebouw van de eredienst waarvoor er geen overeenstemming bestaat over de toekomstige functie opschorten tot het ogenblik dat er een aangepast meerjarenplan wordt goedgekeurd dat wel gebaseerd is op een nieuw of herbevestigd kerkenbeleidsplan.
+
 ## HOOFDSTUK II GOEDEREN
 
 ## AFDELING 1 BEHEER VAN DE GOEDEREN EN BESCHIKKING OVER DE GOEDEREN
