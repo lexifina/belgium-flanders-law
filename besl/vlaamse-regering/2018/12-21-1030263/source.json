@@ -2,16 +2,16 @@
   "codex_id": 1030263,
   "title": "Besluit van de Vlaamse Regering van 2018-12-21 betreffende de huur van hulpmiddelen voor communicatie, computerbediening en omgevingsbedieningen voor personen met een snel degeneratieve aandoening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030263/VolledigDocument?datum=2024-10-01",
-  "source_sha256": "ba948883fd5fd2d9c3e5517b757a5d43a86330285f9d70818f8611c33e7701e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030263/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "4deaf8b949b59e466fe08e3a9858b1e2d36e899e16896c0a311b52d1bf57f36f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030263&param=informatie",
-  "as_of": "2024-10-01",
+  "as_of": "2025-01-01",
   "made": "2018-12-21",
   "gazette": "2019-02-14",
   "numac": 2019010709,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2024-10-01",
+  "in_force": "2025-01-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2024-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

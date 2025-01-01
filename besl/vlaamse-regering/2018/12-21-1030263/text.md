@@ -70,7 +70,9 @@ De hulpmiddelenfiches die zijn opgenomen in bijlage 2, die bij dit besluit is ge
 <br>
 De huurforfaits dekken de maandelijkse huur van de hulpmiddelen en alle onderdelen die deel uitmaken van een huurpakket, met inbegrip van alle kosten die samengaan met de aflevering, het testen, de montage, de indienststelling, het consulteren van de helpdesk, het onderhoud, de herstelling, de terugname en de reconditionering van de hulpmiddelen, alsook de vereiste aanpassingen, en de verplaatsingskosten van de verstrekker.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de tabel, vermeld in het tweede lid, en de hulpmiddelenfiches, vermeld in het derde lid, actualiseren.<br>
+De huurforfaits die opgenomen zijn in de tabel, opgenomen in bijlage 1, die bij dit besluit is gevoegd, worden jaarlijks op 1 januari aangepast, rekening houdend met de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering gebeurt.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de tabel, die is opgenomen in bijlage 1, die bij dit besluit is gevoegd, en de hulpmiddelenfiches, vermeld in het derde lid, actualiseren.<br>
 <br>
 § 2. Als aangetoond wordt dat geen enkel van de huurpakketten, tegemoetkomt aan de bijzondere noden van de betrokken persoon met een snel degeneratieve aandoening, kan, in afwijking van paragraaf 1, tweede lid, aanspraak gemaakt worden op een tegemoetkoming voor andere hulpmiddelen voor communicatie, computerbediening of omgevingsbediening dan die waarin de huurpakketten voorzien. Die tegemoetkoming kan de vorm aannemen van een tussenkomst in de kosten van aankoop of van maandelijkse huurforfaits.
 
