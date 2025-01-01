@@ -201,7 +201,7 @@ De Vlaamse Regering wordt gemachtigd de samenstelling te wijzigen op basis van w
 ### ART. 36.
 
 De inkomsten van Natuurinvest worden gevormd door :<br>
-1° de opbrengsten, gehaald uit de verkoop van hout en andere producten uit de domeinen in beheer van het agentschap;<br>
+1° ...;<br>
 2° het valoriseren van de resultaten van de uitgevoerde activiteiten, vermeld in artikel 31;<br>
 3° de giften, legaten, schenkingen, beurzen, prijzen of alle andere giften die zijn aanvaard krachtens de wet van 12 juli 1931 betreffende de uitbreiding tot alle rechtspersonen van het voordeel van de voorlopige aanvaarding van bij akte gedane schenkingen onder de levenden;<br>
 4° heffingen, retributies, subsidies en dergelijke meer;<br>
