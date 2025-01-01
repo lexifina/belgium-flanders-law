@@ -58,6 +58,8 @@ De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid wo
 
 <P>De betekening met een aangetekende brief wordt, behalve in geval van bewijs   van het tegendeel door de geadresseerde, geacht plaats te vinden op de werkdag   die valt na de datum van de poststempel van de aangetekende brief. De datum van   aanbieding door de postdiensten geldt, niet de feitelijke kennisneming van de   beveiligde zending op een later tijdstip. De datum van de poststempel heeft   bewijskracht zowel voor de verzending als voor de ontvangst.<BR></P>  <P>De betekening door afgifte tegen ontvangstbewijs wordt geacht plaats te   vinden op de datum van het ontvangstbewijs.<BR></P>  <P>De bij het decreet en dit besluit bedoelde termijnen lopen eveneens tegen de   minderjarigen, de ontzette personen en andere onbekwamen. Het College kan de   termijnen van hun verval ontheffen wanneer het vaststaat dat de   vertegenwoordiging van die personen niet tijdig was verzekerd voor het   verstrijken van de termijnen.<BR></P>
 
+## Onderafdeling 3 Woonplaatskeuze
+
 ### ART. 7.
 
 <p>§ 1. Met uitzondering van de besturen kiest elke partij in haar eerste processtuk een woonplaats in België die geldt voor alle daaropvolgende proceshandelingen van de zaak.<br>
