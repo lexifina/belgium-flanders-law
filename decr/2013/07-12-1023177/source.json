@@ -2,16 +2,16 @@
   "codex_id": 1023177,
   "title": "Decreet van 2013-07-12 houdende toekenning van subsidies voor gebouwen van de [eredienst en gebouwen] voor de openbare uitoefening van de niet-confessionele morele dienstverlening [...]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023177/VolledigDocument?datum=2024-03-15",
-  "source_sha256": "ad72d39e423309d650e3dfb8bf82a3c89cd545c836b0b4cf674a6fd46df83d30",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023177/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "fe5cdc86b263e80a1540aa8077579f53845f3ab18b8c5efca24955fa13980850",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023177&param=informatie",
-  "as_of": "2024-03-15",
+  "as_of": "2025-01-01",
   "made": "2013-07-12",
   "gazette": "2013-08-13",
   "numac": 2013204597,
   "document_start": "2013-08-23",
   "document_end": null,
-  "in_force": "2024-03-15",
+  "in_force": "2025-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2024-03-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

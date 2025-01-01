@@ -58,7 +58,9 @@ De subsidie voor de investeringen, vermeld in artikel 5, kan worden aangevraagd 
 
 ### ART. 8.
 
-Bij de subsidieaanvraag moet een advies van het erkend representatief   orgaan van de eredienst worden gevoegd en een advies van het college van   burgemeester en schepenen of de deputatie van het betrokken gemeente- of   provinciebestuur. Behalve bij een subsidieaanvraag voor de studies, vermeld in   artikel 5, 4°, moet uit die adviezen blijken dat het gebouw waarvoor de subsidie   wordt aangevraagd een gebouw van de eredienst blijft, zowel voor het erkend   representatief orgaan van de eredienst als voor de gemeente- of provincieraad,   in de langetermijnvisie op de gebouwen van die eredienst in die gemeente of   provincie. Uit die adviezen moet ook blijken dat de investeringen waarvoor de   subsidie wordt aangevraagd, passen in die langetermijnvisie.<BR>
+De subsidieaanvraag voor de eredienstgebouwen of de gewezen gebouwen van de eredienst van de rooms-katholieke eredienst past in het laatst goedgekeurde kerkenbeleidsplan, vermeld in artikel 33/2 van het decreet van 7 mei 2004.<br>
+<br>
+Bij de subsidieaanvraag voor de eredienstgebouwen of gewezen gebouwen van de eredienst van de andere erkende erediensten wordt een positief advies gevoegd van het erkende representatief orgaan van de eredienst en van het college van burgemeester en schepenen of de deputatie van het betrokken gemeente- of provinciebestuur. Uit die adviezen moet blijken dat de investeringen waarvoor de subsidie wordt aangevraagd, passen in een langetermijnvisie met betrekking tot het gebouw.
 
 ## HOOFDSTUK 3 Subsidiëring voor gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening
 
