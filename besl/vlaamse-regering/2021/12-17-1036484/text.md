@@ -26,13 +26,13 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Een subsidie van maximaal 216.424 euro wordt jaarlijks toegekend vanuit begrotingsartikel MB0/1MI-H-2-UA/WT met basisallocatie MBO 1MI026 3122 - EXPLOITATIESUBSIDIES AAN DE AUTONOME EN GEMEENTELIJKE HAVENBEDRIJVEN aan het Havenbedrijf Antwerpen, NV van publiek recht, Zaha Hadidplein 1, 2030 Antwerpen, met KBO-nummer 0248.399.380.<br>
+Een subsidie van maximaal 216.424 euro wordt jaarlijks toegekend vanuit begrotingsartikel MB0/1MI-H-2-UA/WT met basisallocatie MBO 1MI026 3122 - EXPLOITATIESUBSIDIES AAN DE AUTONOME EN GEMEENTELIJKE HAVENBEDRIJVEN aan het Haven van Antwerpen-Brugge, NV van publiek recht, Zaha Hadidplein 1, 2030 Antwerpen, met KBO-nummer 0248.399.380.<br>
 <br>
 Het budget dat voor de jaarlijkse toekenning van subsidies beschikbaar is, is maximaal gelijk aan de jaarlijkse begrotingskredieten voor exploitatiesubsidies aan de autonome en gemeentelijke havenbedrijven. Dit maximum kan met andere woorden jaarlijks opnieuw worden geëvalueerd en worden bijgesteld, of kan worden herzien naar aanleiding van begrotingsmaatregelen in het kader van het algemeen begrotingsbeleid.
 
 ### ART 2.
 
-De subsidie, vermeld in artikel 1, kan jaarlijks worden toegekend in 2021 tot en met 2024.
+De subsidie, vermeld in artikel 1, kan worden toegekend in 2025.
 
 ### ART 3.
 
@@ -48,7 +48,7 @@ Door de activiteiten, vermeld in artikel 3, te realiseren, wordt bijgedragen tot
 
 ### ART 6.
 
-De Vlaamse minister, bevoegd voor de waterinfrastructuur en het waterbeleid, legt jaarlijks het uit te betalen subsidiebedrag voor de begunstigde, vermeld in artikel 1, in een ministerieel besluit vast. Het ministerieel besluit van 2022, 2023 en 2024 wordt opgemaakt na een evaluatie van het voorgaande jaar en wordt voor advies voorgelegd aan de Inspectie van Financiën.
+De Vlaamse minister, bevoegd voor de waterinfrastructuur en het waterbeleid, legt jaarlijks het uit te betalen subsidiebedrag voor de begunstigde, vermeld in artikel 1, in een ministerieel besluit vast. Het ministerieel besluit van 2025 wordt opgemaakt na een evaluatie van het voorgaande jaar en wordt voor advies voorgelegd aan de Inspectie van Financiën.
 
 ### ART 7.
 

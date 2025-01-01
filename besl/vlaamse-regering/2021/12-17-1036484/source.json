@@ -2,16 +2,16 @@
   "codex_id": 1036484,
   "title": "Besluit van de Vlaamse Regering van 2021-12-17 tot toekenning van subsidies aan [Haven van Antwerpen-Brugge] voor de instandhouding, het onderhoud en de exploitatie van de binnen het havengebied gelegen kanaaldokken en zwaaikommen in de haven van Antwerpen, met uitzondering van het verwerken van de specie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036484/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "f6eae3f6a9b3c7c55920096bf3134687a9e90c9fb5e8433e2de2df789d624bd0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036484/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "cb1ed72d88ced6d251f4b6919194f215ad01a039b6929e7378240777dea6922c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036484&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2025-01-01",
   "made": "2021-12-17",
   "gazette": "2022-02-11",
   "numac": 2022030084,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2025-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2021-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
