@@ -210,6 +210,10 @@ In artikel 480 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse 
 &nbsp; b) E = het bedrag van het deel A2 zoals berekend in de berekening van de basistegemoetkoming voor zorg geldig op 1 juli 2024;<br>
 3° de gemiddelde bezettingsgraad in de referentieperiode van 1 juli 2022 tot en met 30 juni 2023 = het aantal ligdagen zoals meegedeeld voor de referentieperiode gedeeld door het gewogen gemiddelde aantal erkende woongelegenheden van het woonzorgcentrum en het centrum voor kortverblijf in de referentieperiode.”.
 
+### ART 15.
+
+In artikel 482, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 juli 2021 en 14 oktober 2022, wordt de zinsnede “die niet onder de toepassing vallen van artikel 479 of artikel 483, § 2,” opgeheven.
+
 ### ART 16.
 
 In artikel 487 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 14 oktober 2022 en 6 oktober 2023, worden de volgende wijzigingen aangebracht:<br>
