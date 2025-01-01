@@ -614,7 +614,7 @@ b) bron: Nationale Bank van België, Centrale voor kredieten aan particulieren (
 c) periode: de gegevens van het laatst beschikbare jaar;<br>
 8° het aantal geplaatste en ingeschakelde budgetmeters ten opzichte van het aantal huishoudelijke elektriciteitsafnemers die aangesloten zijn op het distributienet:<br>
 a) omschrijving: het aantal geplaatste en ingeschakelde budgetmeters, gedeeld door het aantal huishoudelijke elektriciteitsafnemers die aangesloten zijn op het distributienet;<br>
-b) bron: Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG);<br>
+b) bron: Vlaamse Nutsregulator;<br>
 c) periode: de gegevens van het laatst beschikbare jaar.<br>
 Het aantal inwoners van twaalf jaar of ouder, vermeld in artikel 35, wordt als volgt omschreven:<br>
 a) omschrijving: het aantal inwoners van 12 jaar of ouder;<br>
