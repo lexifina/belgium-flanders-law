@@ -75,6 +75,8 @@ In de beleidsrapporten wordt een onderscheid gemaakt tussen de exploitatie, de i
 3° de rapporteringsperiode;<br>
 4° de volgnummers van de laatste inschrijvingen in de dagboeken, vermeld in artikel 82, 84 of 86, die verwerkt zijn in het rapport.<br>
 <br>
+Elk beleidsrapport, en de bijbehorende documentatie, is digitaal doorzoekbaar.<br>
+<br>
 § 3. Elke pagina van een beleidsrapport vermeldt al de volgende gegevens:<br>
 1° het type van het beleidsrapport;<br>
 2° de rapporteringsperiode.<br>
@@ -139,13 +141,13 @@ De toelichting van het meerjarenplan bevat alle informatie over de verrichtingen
 ### ART 8.
 
 De strategische nota van het meerjarenplan, vermeld in artikel 7, § 2, bevat ten minste al de volgende elementen:<br>
-1° per beleidsdoelstelling waar de prioritaire acties in kaderen: de omschrijving van de beleidsdoelstelling en van de prioritaire acties;<br>
-2° per beleidsdoelstelling waar de prioritaire acties in kaderen en per prioritaire actie: de verwachte ontvangsten en uitgaven voor de exploitatie, de investeringen en de financiering, voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
-3° per beleidsdoelstelling waar de prioritaire acties in kaderen: het totaal van de verwachte ontvangsten en uitgaven voor de exploitatie, de investeringen en de financiering, voor de niet-prioritaire acties voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
-4° het overzicht van de beleidsdoelstellingen waarin geen prioritaire acties kaderen;<br>
+1° een beleidsverklaring met een beknopte beschrijving van het geplande beleid en de financiële kerncijfers voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
+2° het overzicht met de beschrijving van alle beleidsdoelstellingen;<br>
+3° de omschrijving van de prioritaire acties en de bijbehorende verwachte ontvangsten en uitgaven voor elk jaar waarop het meerjarenplan betrekking heeft, met een verwijzing naar de beleidsdoelstelling waarbij ze aansluiten;<br>
+4° ...;<br>
 5° een verwijzing naar de plaats waar het overzicht ter beschikking is met de omschrijving van alle beleidsdoelstellingen, actieplannen en acties, en de bijbehorende ramingen van ontvangsten en uitgaven die zijn opgenomen in het meerjarenplan.<br>
 <br>
-De Vlaamse Gemeenschapscommissie kan er ook voor kiezen om in de strategische nota de prioritaire actieplannen op te nemen, in plaats van de prioritaire acties. De prioritaire actieplannen zijn dan die actieplannen waar de prioritaire acties in kaderen. Als de Vlaamse Gemeenschapscommissie gebruikmaakt van die mogelijkheid, wordt het woord "acties", vermeld in het eerste lid, 1° tot 4°, gelezen als "actieplannen", en worden de woorden "prioritaire actie", vermeld in het eerste lid, 2°, gelezen als "prioritair actieplan".
+De Vlaamse Gemeenschapscommissie kan er ook voor kiezen om in de strategische nota de prioritaire actieplannen op te nemen, in plaats van de prioritaire acties. De prioritaire actieplannen zijn dan die actieplannen waar de prioritaire acties in kaderen. Als de Vlaamse Gemeenschapscommissie gebruikmaakt van die mogelijkheid, wordt het woord "acties", vermeld in het eerste lid, 3°, gelezen als "actieplannen".
 
 ### ART 9.
 
@@ -157,11 +159,9 @@ De financiële nota van het meerjarenplan, vermeld in artikel 7, § 2, bestaat u
 ### ART 10.
 
 Het financiële doelstellingenplan, vermeld in artikel 9, 1°, bevat al de volgende elementen voor elk jaar waarop het meerjarenplan betrekking heeft:<br>
-1° de verwachte ontvangsten en uitgaven per beleidsdoelstelling waar de prioritaire acties in kaderen;<br>
-2° de verwachte ontvangsten en uitgaven van de beleidsdoelstellingen waar geen prioritaire acties in kaderen;<br>
-3° de verwachte ontvangsten en uitgaven waarvoor geen beleidsdoelstellingen zijn geformuleerd.<br>
-<br>
-Als de Vlaamse Gemeenschapscommissie gebruikmaakt van de mogelijkheid, vermeld in artikel 8, tweede lid, wordt het woord "acties", vermeld in het eerste lid, 1° en 2°, gelezen als "actieplannen".
+1° de verwachte ontvangsten en uitgaven per beleidsdoelstelling;<br>
+2° de verwachte ontvangsten en uitgaven waarvoor geen beleidsdoelstellingen zijn geformuleerd;<br>
+3° ....
 
 ### ART 11.
 
