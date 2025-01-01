@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040664,
+  "title": "Besluit van de Vlaamse Regering van 2025-02-28 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de verlenging van de begeleiding door energiehuizen bij het onderhoud en de verduurzaming van de verwarmingsinstallatie en de plaatsing van zonnepanelen, en van het VLAREL, wat betreft uitstel van het verval van bepaalde erkenningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040664/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "0a16faa4708785c3ab6ec1d33fbda6ff964976a127cf9740dd4ba579cad2d84a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040664&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-02-28",
+  "gazette": "2025-03-21",
+  "numac": 2025002306,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
