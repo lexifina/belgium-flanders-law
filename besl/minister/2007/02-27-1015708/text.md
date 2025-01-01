@@ -21,20 +21,20 @@ Besluit :<br>
 
 ### ART. 1.
 
-Er wordt een tussenoverlegcomité opgericht, hierna te noemen beleidsdomeinoverlegcomité, voor het beleidsdomein Werk en Sociale Economie. inzonderheid voor volgende entiteiten : het departement Werk en Sociale Economie, het Vlaams Subsidieagentschap voor Werk en Sociale Economie, de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding-VDAB en het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen.<br /><br />
+...
 
 ### ART. 2.
 
-In het gebied van het beleidsdomeinoverlegcomité wordt er een basisoverlegcomité opgericht, hierna te noemen entiteitsoverlegcomité, voor elk van volgende entiteiten : <br />EOC Departement Werk en Sociale Economie<br />EOC Vlaams Subsidieagentschap voor Werk en Sociale Economie<br />EOC Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - VDAB<br />EOC Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen<br /><br />
+...
 
 ### ART. 3.
 
-§ 1. De afvaardiging van de overheid in het beleidsdomeinoverlegcomité wordt als volgt vastgesteld :<br />a) Voorzitter<br />- de voorzitter van het managementcomité of bij ontstentenis door een N-functie aangeduid door de beleidsraad.<br />b) Leden<br />- de leden worden door de voorzitter van het beleidsdomeinoverlegcomité gekozen in functie van de punten van de dagorde.<br /><br />§ 2. De voorzitter van het beleidsdomeinoverlegcomité duidt bij afwezigheid of verhindering zijn plaatsvervanger aan.<br /><br />
+...
 
 ### ART. 4.
 
-§ 1. De afvaardiging van de overheid in een entiteitsoverlegcomité wordt als volgt vastgesteld :<br />a) Voorzitter<br />- hoofd van de entiteit <br />b) Leden<br />- de leden worden door de voorzitter van het entiteitsoverlegcomité gekozen in functie van de punten van de dagorde.<br /><br />§ 2. De voorzitter van het entiteitsoverlegcomité duidt bij afwezigheid of verhindering zijn plaatsvervanger aan.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op 27 februari 2007.<br /><br />
+...
