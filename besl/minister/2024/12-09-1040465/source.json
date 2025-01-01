@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040465,
+  "title": "Ministerieel besluit van 2024-12-09 tot verlening van de vrijstelling, vermeld in artikel 3.19, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040465/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "a019e0db609ff0a02c235b7d353711100ddcc7db1a0b12f88b45263f04a39737",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040465&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-12-09",
+  "gazette": "2024-12-17",
+  "numac": 2024011416,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
