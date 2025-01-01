@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041345,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-12 tot invoering van een extra subsidie als compensatie voor de hogere brandstofkosten van de diensten voor gezinszorg in 2025 en tot wijziging van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers en het besluit van de Vlaamse Regering van 24 september 2021 tot bepaling van een aantal evaluatiecriteria voor de programmatie van diensten voor gezinszorg en van een aantal criteria voor de verdeling van de extra uren gezinszorg over de erkende diensten voor gezinszorg, naar aanleiding van de COVID-19-pandemie en VIA6",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041345/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "757098ff92fa2e915842839062819bc0e72b5cf5d913fa433f3566ac01e2609a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041345&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-09-12",
+  "gazette": "2025-10-13",
+  "numac": 2025007573,
+  "document_start": "2025-10-23",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
