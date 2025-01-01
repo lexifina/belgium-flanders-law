@@ -233,10 +233,11 @@ De besteding van het bedrag, vermeld in het eerste lid, mag evenwel gespreid wor
 
 ### ART. 22.
 
-De werkingssubsidies en de aanvullende werkingssubsidies worden op 1 januari (jaar X) aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
-(basisbedrag x G-index december jaar X<sup>-1</sup>) / G-index december 2015<br>
+In dit artikel wordt verstaan onder G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
-Het bedrag, vermeld in artikel 19, tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).
+De werkingssubsidies en de aanvullende werkingssubsidies worden jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
+<br>
+Het bedrag, vermeld in artikel 19, tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART. 23.
 
@@ -322,7 +323,9 @@ Met behoud van de toepassing van eventuele rechterlijke beslissingen over de ond
 <br>
 § 5. De bedragen, vermeld in dit artikel, zijn gekoppeld aan de spilindex van de consumptieprijzen, daarvoor berekend en benoemd in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basis is de spilindex die geldig is op 1 januari 2014.<br>
 <br>
-De bedragen, vermeld in het eerste lid, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening moet worden gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen aan het indexcijfer van de consumptieprijzen worden gekoppeld.
+In afwijking van het eerste lid zijn de bedragen, vermeld in paragraaf 3, gekoppeld aan de spilindex die geldig is op 1 januari 2025.<br>
+<br>
+De bedragen, vermeld in het eerste en het tweede lid, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening moet worden gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen aan het indexcijfer van de consumptieprijzen worden gekoppeld.
 
 ## Onderafdeling 3 Gemeenschappelijke bepalingen
 
