@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040682,
+  "title": "Ministerieel besluit van 2025-03-17 tot vastlegging van het totale aantal voltijdse equivalenten per erkende dienst maatschappelijk werk van het ziekenfonds voor 2025",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040682/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "5518f74b930dc0dfb9c1872793466dc5953c88349771a9d57a92a0ba6204b8db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040682&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-03-17",
+  "gazette": "2025-03-27",
+  "numac": 2025002446,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
