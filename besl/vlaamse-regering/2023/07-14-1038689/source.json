@@ -2,16 +2,16 @@
   "codex_id": 1038689,
   "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot wijziging van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038689/VolledigDocument?datum=2023-09-25",
-  "source_sha256": "245d6c673485d71a3f966068ece7424d849ecfb40c41494408cd82f6e4926ac4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038689/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "7daa28ef5b9ecafcf4b94331165de13299acf2812a8bb676d46cba72cbf909fb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038689&param=informatie",
-  "as_of": "2023-09-25",
+  "as_of": "2025-01-01",
   "made": "2023-07-14",
   "gazette": "2023-09-15",
   "numac": 2023044479,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-09-25",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2023-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
