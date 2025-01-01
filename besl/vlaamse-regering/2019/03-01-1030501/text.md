@@ -150,7 +150,7 @@ De jaarlijkse subsidie voor een gebruikersvereniging met informatieloket voor co
 <br>
 De jaarlijkse subsidie voor een gebruikersvereniging met informatieloket voor collectieve overlegorganen die aan minder dan 75 collectieve overlegorganen informatie en bijstand verleent, bedraagt 50.000 euro (vijftigduizend euro).<br>
 <br>
-§ 2. De bedragen, vermeld in het paragraaf 1, worden jaarlijks op 1 januari aangepast op basis van de volgende formule: (basisbedrag x G-index december 20..)/G-index december 2018.<br>
+§ 2. De bedragen, vermeld in het paragraaf 1, worden jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 In het eerste lid wordt verstaan onder G-index: de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>

@@ -2,16 +2,16 @@
   "codex_id": 1030501,
   "title": "Besluit van de Vlaamse Regering van 2019-03-01 houdende de vergunningsvoorwaarden en de subsidieregeling van gebruikersverenigingen met informatieloket voor personen met een handicap en van gebruikersverenigingen met informatieloket voor collectieve overlegorganen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030501/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "b21fd44ebd6ca8b4a6cdc0fa1b4f10ffca2c9970613031f650297d79d9c81b1c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030501/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "93b8f07594ac3130c534f041598155226383d2add2d6e590cdbf084342d1ff41",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030501&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2025-01-01",
   "made": "2019-03-01",
   "gazette": "2019-04-02",
   "numac": 2019030260,
   "document_start": "2019-04-03",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2025-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
