@@ -223,7 +223,7 @@ b) bron: Nationale Bank van België, Centrale voor kredieten aan particulieren (
 c) periode: de gegevens van het laatst beschikbare jaar;<br>
 8° indicator 8:<br>
 a) omschrijving: het aantal geplaatste en ingeschakelde budgetmeters, gedeeld door het aantal huishoudelijke elektriciteitsafnemers die aangesloten zijn op het distributienet;<br>
-b) bron: Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG);<br>
+b) bron: Vlaamse Nutsregulator;<br>
 c) periode: de gegevens van het laatst beschikbare jaar;<br>
 <br>
 Het aantal inwoners van 12 jaar of ouder, vermeld in artikel 4, § 2, vijfde lid, wordt als volgt omschreven:<br>
@@ -397,7 +397,7 @@ periode: de gegevens van het laatst beschikbare jaar;<br>
 bron: Nationale Bank van België, Centrale voor kredieten aan particulieren (CKP), en FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
 periode: de gegevens van het laatst beschikbare jaar;<br>
 8) het aantal geplaatste en ingeschakelde budgetmeters, gedeeld door het aantal huishoudelijke elektriciteitsafnemers die aangesloten zijn op het distributienet:<br>
-bron: Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG);<br>
+bron: Vlaamse Nutsregulator;<br>
 periode: de gegevens van het laatst beschikbare jaar;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 2 krijgen als gewicht 1,00;<br>
