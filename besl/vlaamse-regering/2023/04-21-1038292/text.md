@@ -42,7 +42,7 @@ In dit besluit wordt verstaan onder:<br>
 1° agromilieuklimaatmaatregelen: de maatregelen, vermeld in artikel 3, eerste lid, 1°, 4°, 7°, 9°, 10° en 18°;<br>
 2° areaalgebonden maatregelen: de maatregelen, vermeld in artikel 3, eerste lid, 1° tot en met 7°, 9°, 11° tot en met 17;<br>
 3° bedrijf: het bedrijf, vermeld in artikel 3, 2), van verordening (EU) 2021/2115, dat bestaat uit een of meer exploitaties;<br>
-4° beslag: het beslag, vermeld in artikel 2, §2, 12°, koninklijk besluit van 20 mei 2022;<br>
+4° beslag: het beslag, vermeld in artikel 2, §2, 12°, van het koninklijk besluit van 20 mei 2022;<br>
 5° besluit van 4 juli 2014: het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020;<br>
 6° besluit van 5 september 2014: het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020;&nbsp;<br>
 7° besluit van 17 mei 2019: het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de fokkerij van voor de landbouw nuttige huisdieren;<br>
@@ -65,6 +65,7 @@ In dit besluit wordt verstaan onder:<br>
 24° hoofdteelt: de hoofdteelt, vermeld in artikel 1, 25°, van het besluit van 21 april 2023;<br>
 25° koninklijk besluit van 20 mei 2022: het koninklijk besluit van 20 mei 2022 betreffende de identificatie en de registratie van bepaalde hoefdieren, pluimvee, konijnen en bepaalde vogels;&nbsp;<br>
 26° landbouwer: de landbouwer, vermeld in artikel 3, 1) van verordening (EU) 2021/2115;<br>
+26°/1 melkproductieregistratie: het meten van de melkproductie en het bepalen van onder andere het vet- en eiwitgehalte, en de lactose van geregistreerde koeien van melkrassen en dubbeldoel rassen met melkproductie;<br>
 27° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
 28° ministerieel besluit van 23 juni 2015: ministerieel besluit van 23 juni 2015 houdende vaststelling van de verzamelaanvraag en de nadere regels voor de gemeenschappelijke identificatie van percelen, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid:<br>
 29° nateelt: de teelt die na de hoofdteelt op hetzelfde perceel en in hetzelfde kalenderjaar ingezaaid word;<br>
@@ -76,7 +77,7 @@ In dit besluit wordt verstaan onder:<br>
 35° sanitel: het geautomatiseerde gegevensbestand, vermeld in artikel 2, §2, 1°, van het koninklijk besluit van 20 mei 2022;&nbsp;<br>
 36° subsidiabele hectare: de subsidiabele hectare, vermeld in artikel 5 van het besluit van 21 april 2023;&nbsp;<br>
 37° steunaanvraag: de aanvraag tot toetreding tot de subsidieregeling;<br>
-38° taakkaart: een met behulp van grondmonsters gekalibreerde kaart die informatie over pH-variaties in de bodem weergeeft en plaatsspecifiek bekalkingsadvies geeft op basis van een bodemscan van het perceel;&nbsp;<br>
+38° taakkaart: een met behulp van grondmonsters gekalibreerde kaart die informatie over pH-variaties in de bodem weergeeft en plaatsspecifiek bekalkingsadvies geeft op basis van een bodemscan van het perceel en die voor het campagnejaar in kwestie opgenomen is in de lijst van producentgerichte acties, vermeld in bijlage 1 van de toelichting bij het Vlaams Strategisch Plan ter uitwerking van operationele programma’s, met als titel ‘lijst van producentgerichte acties’;&nbsp;<br>
 39° tijdelijk grasland: grasland dat behoort tot het bouwland;<br>
 40° uiterste indieningsdatum: de datum, vermeld in artikel 7 van het ministerieel besluit van 23 juni 2015; &nbsp;<br>
 41° uiterste wijzigingsdatum van de verzamelaanvraag: de datum, vermeld in artikel 18, §1, eerste lid, van het ministerieel besluit van 23 juni 2015;<br>
@@ -632,14 +633,14 @@ Een landbouwer komt in aanmerking voor de subsidie, vermeld in artikel 42 tot en
 ### ART 47.
 
 §1. In dit artikel wordt verstaan onder:<br>
-1° runderen van het rastype melk: runderen van matige tot geringe bevleesdheid en runderen van superieure tot goede bevleesheid die deelnemen aan melkproductieregistratie; &nbsp;<br>
-2° runderen van het rastype vlees: runderen van superieure tot goede bevleesdheid die niet deelnemen aan melkproductieregistratie.<br>
+1° runderen van het rastype melk: runderen van matige tot geringe bevleesdheid en runderen van superieure tot goede bevleesdheid, die onder melkproductieregistratie staan; &nbsp;<br>
+2° runderen van het rastype vlees: runderen van superieure tot goede bevleesdheid , die niet onder melkproductieregistratie staan.<br>
 <br>
-§2. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 3, eerste lid, 8°, gaat de landbouwer een verbintenis aan voor de duur van een jaar, met uitzondering van de verbintenis die start op 31 mei 2023 conform artikel 10, derde lid.
+§2. Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 3, eerste lid, 8°, gaat de landbouwer een verbintenis aan voor de duur van een jaar, met uitzondering van de verbintenis die start op 31 mei 2023 conform artikel 10, derde lid, of die start op 30 april, conform artikel 10, vijfde lid.
 
 ### ART 48.
 
-Als de landbouwer een verbintenis afsluit voor een van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), is de verbintenis van toepassing op uitsluitend runderen van het rastype melk van ieder actief rundveebeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt. Hij geeft in de verzamelaanvraag aan voor welke voedermaatregel, vermeld in punt 1) tot en met 5) van dat artikel, de verbintenis wordt afgesloten.&nbsp;Het voormelde actieve rundveebeslag voldoet aan de volgende voorwaarden:&nbsp;<br>
+Als de landbouwer een verbintenis afsluit voor een van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), is de verbintenis van toepassing op uitsluitend runderen van het rastype melk van ieder actief rundveebeslag dat op de startdatum van de verbintenis aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt. Hij geeft in de verzamelaanvraag aan voor welke voedermaatregel, vermeld in punt 1) tot en met 5) van dat artikel, de verbintenis wordt afgesloten.&nbsp;Het voormelde actieve rundveebeslag voldoet aan de volgende voorwaarden:&nbsp;<br>
 1° het is actief vanaf de startdatum van de verbintenis tot en met 31 december van het verbintenisjaar;&nbsp;<br>
 2° het heeft subsidiabele dieren als vermeld in het tweede lid.<br>
 <br>
@@ -650,11 +651,13 @@ De landbouwer leeft in dat geval de verbintenis na voor de volgende dieren, die 
 <br>
 De minister kan de combinatiemogelijkheden van de maatregelen, vermeld in artikel 3, eerste lid, 8°, a), en de modaliteiten daarvan bepalen. Als er geen combinatiemogelijkheden zijn bepaald, kan slechts één van de maatregelen toegepast worden op het bedrijf.<br>
 <br>
-De verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 5), kan alleen worden gesloten op voorwaarde dat ook een verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 1), wordt gesloten.
+De verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 5), kan alleen worden gesloten op voorwaarde dat ook een verbintenis voor de maatregel, vermeld in artikel 3, eerste lid, 8°, a), 1), wordt gesloten.<br>
+<br>
+In geval van een volledige bedrijfsovername tijdens de verbintenistermijn leven de overnemer of de overlater gedurende de periode dat het beslag op zijn naam staat, de voorwaarden na die van toepassing zijn op de verbintenis.
 
 ### ART 49.
 
-Als de landbouwer een verbintenis afsluit voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), is de verbintenis van toepassing op uitsluitend runderen van het rastype vlees van ieder actief rundveebeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt.&nbsp;Het voormelde actieve rundveebeslag voldoet aan de volgende voorwaarden:&nbsp;<br>
+Als de landbouwer een verbintenis afsluit voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), is de verbintenis van toepassing op uitsluitend runderen van het rastype vlees van ieder actief rundveebeslag dat op de startdatum van de verbintenis aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest of Brussels Hoofdstedelijk Gewest ligt.&nbsp;Het voormelde actieve rundveebeslag voldoet aan de volgende voorwaarden:&nbsp;<br>
 1° het is actief vanaf de startdatum van de verbintenis tot en met 31 december van het verbintenisjaar;&nbsp;<br>
 2° het heeft subsidiabele dieren als vermeld in het tweede lid.<br>
 <br>
@@ -665,7 +668,9 @@ De landbouwer sluit de verbintenis, vermeld in het eerste lid, voor een of meer 
 <br>
 Voor iedere categorie, vermeld in het tweede lid, sluit de landbouwer een afzonderlijke verbintenis.<br>
 <br>
-De landbouwer leeft de verbintenis na voor alle runderen&nbsp;die onder de verbintenis vallen en die in de loop van verbintenistermijn aanwezig zijn op zijn bedrijf.
+De landbouwer leeft de verbintenis na voor alle runderen&nbsp;die onder de verbintenis vallen en die in de loop van de verbintenistermijn aanwezig zijn op zijn bedrijf.<br>
+<br>
+In geval van een volledige bedrijfsovername in de loop van de verbintenistermijn leven de overnemer of de overlater gedurende de periode dat het beslag op zijn naam staat, de voorwaarden na die van toepassing zijn op de verbintenis.
 
 ## Afdeling 2. De voorwaarden voor melk- en vleesvee
 
@@ -675,9 +680,9 @@ Om in aanmerking te komen voor de subsidie voor een maatregel, vermeld in artike
 1° gedurende de hele verbintenistermijn geïdentificeerd en geregistreerd zijn conform het koninklijk besluit van 20 mei 2022;<br>
 2° aanwezig zijn op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer.<br>
 <br>
-Om in aanmerking te komen voor de subsidie voor een maatregel, vermeld in artikel 3, eerste lid, 8°, a), moet voldaan zijn al de volgende voorwaarden:<br>
-1° de runderen waarop de verbintenis betrekking heeft moeten in Sanitel geregistreerd zijn als rastype melk. Op bedrijven die deelnemen aan melkproductieregistratie moeten de runderen in Sanitel geregistreerd zijn als rastype melk of als rastypte gemengd;&nbsp;<br>
-2° alle kalveren, die zijn voorgebracht door de runderen als vermeld in artikel 48, tweede lid, en waarop de verbintenis betrekking heeft in het verbintenisjaar, moeten tijdig geïdentificeerd en in Sanitel geregistreerd zijn.<br>
+Om in aanmerking te komen voor de subsidie voor een maatregel, vermeld in artikel 3, eerste lid, 8°, a), moet voldaan zijn aan al de volgende voorwaarden:<br>
+1° de runderen waarop de verbintenis betrekking heeft, zijn in sanitel geregistreerd als rastype melk. In bedrijven waarvan de runderen onder melkproductieregistratie staan, zijn de runderen in sanitel geregistreerd als rastype melk of als rastype gemengd;&nbsp;<br>
+2° alle kalveren, die zijn voortgebracht door de runderen als vermeld in artikel 48, tweede lid, en waarop de verbintenis betrekking heeft in het verbintenisjaar, moeten tijdig geïdentificeerd en in Sanitel geregistreerd zijn.<br>
 <br>
 Om in aanmerking te komen voor de subsidie voor de maatregel, vermeld in artikel 3, eerste lid, 8°, b), moeten de runderen waarop de verbintenis betrekking heeft in Sanitel geregistreerd zijn als rastype vlees of als rastype gemengd.
 
@@ -849,7 +854,11 @@ Om een verbintenis te kunnen sluiten, als vermeld in het eerste lid, moet aan de
 
 Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 3, eerste lid, 10°, gaat de landbouwer een verbintenis aan voor de duur van vijf jaar.&nbsp;<br>
 <br>
-De verbintenis, vermeld in het eerste lid, heeft betrekking op ieder actief beslag van de diersoort waarvoor de verbintenis wordt aangegaan, dat aan de landbouwer toebehoort en waarbij het adres van dat beslag in het Vlaamse Gewest ligt.
+De verbintenis, vermeld in het eerste lid, heeft betrekking op ieder actief beslag van de diersoort waarvoor de verbintenis wordt aangegaan, dat op de uiterste wijzigingsdatum van de verzamelaanvraag in het verbintenisjaar aan de landbouwer toebehoort en waarbij het adres van dat beslag in het Vlaamse Gewest ligt.&nbsp;Het beslag is actief vanaf 1 januari van het verbintenisjaar tot en met 31 december van het verbintenisjaar.<br>
+<br>
+De verbintenis, vermeld in het eerste lid, kan in de volgende gevallen tijdens de looptijd ervan gewijzigd worden:<br>
+1°&nbsp;&nbsp; &nbsp;in het tweede of derde verbintenisjaar kan het aantal subsidiabele dieren, dat is vastgelegd in de verbintenis, worden verhoogd met maximaal 20%, zonder dat daarbij de verbintenistermijn wijzigt;<br>
+2°&nbsp;&nbsp; &nbsp;als het aantal subsidiabele dieren, dat is vastgelegd in de verbintenis, verhoogt met meer dan 20%, kan de verbintenis worden stopgezet vanaf 31 december van het verbintenisjaar en kan een nieuwe verbintenis worden gesloten. Die nieuwe verbintenis heeft opnieuw een duur van vijf opeenvolgende jaren en start op 1 januari van het volgende kalenderjaar. De subsidie die al is toegekend voor de eerste verbintenis, blijft behouden als aan de verbintenisvoorwaarden is voldaan voor die periode.
 
 ## Afdeling 2. De voorwaarden
 
@@ -858,12 +867,12 @@ De verbintenis, vermeld in het eerste lid, heeft betrekking op ieder actief besl
 ### ART 61.
 
 §1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 10°, a), afhankelijk van de beschikbare begrotingskredieten, een jaarlijkse subsidie verkrijgen van:<br>
-1° maximaal 250 euro per dier voor het houden van minimaal 10 en maximaal 125 dieren van de volgende lokale rundveerassen:<br>
+1° maximaal 250 euro per dier voor het houden van minimaal 5 en maximaal 225 dieren dieren van de volgende lokale rundveerassen:<br>
 a) het rode ras;<br>
 b) het wit-rode ras;<br>
 c) het Belgische wit-blauwe dubbeldoelras;<br>
 d) Kempens roodbont;<br>
-2° maximaal 280 euro per dier voor het houden van minimaal 10 en maximaal 125 dieren van de lokale rundveerassen, vermeld in punt 1°, die onder melkproductieregistratie staan. De landbouwer komt pas voor de jaarlijkse subsidie in aanmerking als hij gedurende het verbintenisjaar in kwestie deelneemt aan de melkproductieregistratie. In dat geval ontvangt hij alleen deze subsidie, en niet de subsidie als vermeld in punt 1°.&nbsp;<br>
+2° maximaal 280 euro per dier voor het houden van minimaal 5 en maximaal 225 dieren van de lokale rundveerassen, vermeld in punt 1°, die onder melkproductieregistratie staan. De landbouwer komt pas voor de jaarlijkse subsidie in aanmerking als hij gedurende het verbintenisjaar in kwestie deelneemt aan de melkproductieregistratie. In dat geval ontvangt hij alleen deze subsidie, en niet de subsidie als vermeld in punt 1°.&nbsp;<br>
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in de eerste paragraaf, als hij gedurende de verbintenistermijn minstens het aantal subsidiabele runderen houdt dat is vastgelegd in de verbintenis.&nbsp;<br>
 <br>
@@ -872,7 +881,8 @@ Een rund is subsidiabel als aan al de volgende voorwaarden is voldaan:<br>
 2° het dier is conform de voorwaarden, vermeld in het technisch reglement van het stamboek, als raszuiver fokdier ingeschreven in de hoofdsectie van het stamboek van een ras als vermeld in paragraaf 1, 1°, waarvoor een goedgekeurd fokprogramma wordt uitgevoerd als vermeld in artikel 13 van het besluit van 17 mei 2019;<br>
 3° het dier is een vrouwelijk dier;<br>
 4° het dier is minstens zes maanden oud op 1 januari van het verbintenisjaar of bij vervanging;&nbsp;<br>
-5° het dier is aanwezig op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer.
+5° het dier is aanwezig op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer;<br>
+6° het resultaat van de melkproductieregistratie, vermeld in paragraaf 1, 2°, wordt gebruikt in de stamboekwerking van het betrokken ras.
 
 ## Onderafdeling 2. Lokale schapen- en geitenrassen
 
@@ -914,7 +924,7 @@ Een schaap of geit is subsidiabel als aan al de volgende voorwaarden is voldaan:
 Een varken is subsidiabel als aan al de volgende voorwaarden is voldaan:<br>
 1° het dier is tijdig en conform de voorwaarden, vermeld in het technisch reglement van het stamboek, als raszuiver fokdier ingeschreven in de hoofdsectie van het stamboek van een ras als vermeld in paragraaf 1, waarvoor een goedgekeurd fokprogramma wordt uitgevoerd als vermeld in artikel 13 van het besluit van 17 mei 2019;<br>
 2° het maximum aantal subsidiabele dieren is het aantal productieve zeugen van een ras als vermeld in paragraaf 1, dat in de hoofdsectie van het stamboek is geregistreerd en dat in het verbintenisjaar een correct geregistreerde worp heeft;&nbsp;<br>
-3° het dier is minstens één jaar oud op de uiterste indieningsdatum van de verzamelaanvraag of bij vervanging;<br>
+3° het dier is minstens zes maanden oud op 1 januari van het verbintenisjaar of bij vervanging;<br>
 4° het dier is een vrouwelijk dier;<br>
 5° het dier is aanwezig op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer.
 
@@ -1098,8 +1108,8 @@ De verbintenis, vermeld in artikel 75 wordt gesloten per bufferstrook, die is aa
 3° de grasbufferstrook wordt in het najaar van het jaar dat het verbintenisjaar voorafgaat, ingezaaid of is dan aanwezig;<br>
 4° de grasbufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de grasbufferstrook een winterteelt ingezaaid wordt of als de grasbufferstrook, opnieuw aangelegd wordt;&nbsp;<br>
 5° de grasbufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 12 meter. Daarop gelden de volgende uitzonderingen:<br>
-&nbsp; a) als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een medium, een lage of een heel lage erosiegevoeligheid, heeft de grasstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
-&nbsp; b) als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een zeer hoge of een hoge erosiegevoeligheid, heeft de grasbufferstrook een minimale breedte van 9 meter en een maximale breedte van 30 meter;<br>
+a) als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een medium, een lage of een heel lage erosiegevoeligheid, heeft de grasstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
+b) als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een zeer hoge of een hoge erosiegevoeligheid, heeft de grasbufferstrook een minimale breedte van 9 meter en een maximale breedte van 30 meter;<br>
 6° de grasbufferstrook wordt minstens een keer per jaar gemaaid;&nbsp;<br>
 7° als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel bouwland en de grasstrook, genivelleerd, zodat afstromend water optimaal over de grasstrook kan vloeien;&nbsp;<br>
 8° de grasbufferstrook mag gebruikt worden als wendakker, op voorwaarde dat dat gebruik geen impact heeft op de bufferende functie en de grasbufferstrook voldoende ontwikkeld is:<br>
@@ -1110,7 +1120,9 @@ De verbintenis, vermeld in artikel 75 wordt gesloten per bufferstrook, die is aa
 <br>
 Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
 <br>
-Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.&nbsp;<br>
+Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.<br>
+<br>
+Wanneer uitzonderlijke weersomstandigheden de aanleg of aanwezigheid van de grasbufferstrook in het najaar van het jaar voorafgaand aan het verbintenisjaar als vermeld in het eerste lid, 3°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.&nbsp;<br>
 <br>
 §4. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de grasbufferstrook en het perceel bouwland bepalen.
 
@@ -1135,7 +1147,9 @@ Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op
 <br>
 Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
 <br>
-Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.&nbsp;<br>
+Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.<br>
+<br>
+Wanneer uitzonderlijke weersomstandigheden de aanleg of aanwezigheid van de grasbufferstrook in het najaar van het jaar voorafgaand aan het verbintenisjaar als vermeld in het eerste lid, 4°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.&nbsp;<br>
 <br>
 §2. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de grasbufferstrook en het perceel bouwland bepalen.
 
@@ -1150,13 +1164,13 @@ Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op
 2° de vegetatie op de bufferstrook kan duidelijk onderscheiden worden van de vegetatie op het perceel bouwland;&nbsp;<br>
 3° de bufferstrook wordt in het najaar van het jaar dat het verbintenisjaar voorafgaat, ingezaaid of is dan aanwezig;<br>
 4° de bufferstrook wordt minstens eenmaal in het verbintenisjaar gemaaid. Het maaien gebeurt:&nbsp;<br>
-a)&nbsp;&nbsp; &nbsp;ofwel voor 15 juli van het verbintenisjaar. Minstens een derde van de strook wordt pas na 15 juli en uiterlijk op 31 december gemaaid;&nbsp;<br>
-b)&nbsp;&nbsp; &nbsp;ofwel na 15 juli van het verbintenisjaar;<br>
+a) ofwel voor 15 juli van het verbintenisjaar. Minstens een derde van de strook wordt pas na 15 juli en uiterlijk op 31 december gemaaid;&nbsp;<br>
+b) ofwel na 15 juli van het verbintenisjaar;<br>
 5° de bufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de bufferstrook een winterteelt ingezaaid wordt of &nbsp;als de bufferstrook opnieuw aangelegd wordt;&nbsp;<br>
 6° de bufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 18 meter. Daarop gelden de volgende uitzonderingen:<br>
-&nbsp; a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,3 hectare is.&nbsp;<br>
-&nbsp; b) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een medium, een lage of een heel lage erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
-&nbsp; c) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een zeer hoge of een hoge erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 9 meter en een maximale breedte van 30 meter op percelen;&nbsp;<br>
+a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,3 hectare is.&nbsp;<br>
+b) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een medium, een lage of een heel lage erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
+c) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een zeer hoge of een hoge erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 9 meter en een maximale breedte van 30 meter op percelen;&nbsp;<br>
 7° op de bufferstrook is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan;<br>
 8° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel bouwland en de grasstrook genivelleerd, zodat afstromend water optimaal over de grasstrook kan vloeien.&nbsp;<br>
 9° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, mag er een plantaardige dam op aanwezig zijn;<br>
@@ -1165,7 +1179,9 @@ b)&nbsp;&nbsp; &nbsp;ofwel na 15 juli van het verbintenisjaar;<br>
 <br>
 Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
 <br>
-Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de bufferstrook moet ingezaaid worden voor 1 mei 2024.&nbsp;<br>
+Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de bufferstrook moet ingezaaid worden voor 1 mei 2024.<br>
+<br>
+Wanneer uitzonderlijke weersomstandigheden de aanleg of aanwezigheid van de bufferstrook met graskruidenmengsel in het najaar van het jaar voorafgaand aan het verbintenisjaar als vermeld in het eerste lid, 3°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.&nbsp;<br>
 <br>
 §3. De minister bepaalt de samenstelling van het graskruidenmengsel, vermeld in het eerste lid, en kan bijkomende teelttechnische en voorwaarden voor het beheer van de bufferstrook en het perceel bouwland bepalen.
 
@@ -1179,18 +1195,21 @@ Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op
 1° de bufferstrook bestaat uit een strook die is ingezaaid met een bloemenmengsel. Het aangrenzende perceel is bouwland of een blijvende teelt. De oppervlakte van de bufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
 2° de vegetatie op de bufferstrook kan duidelijk onderscheiden worden van de vegetatie op het perceel bouwland;&nbsp;<br>
 3° de bufferstrook is ingezaaid voor 1 mei van het verbintenisjaar;<br>
-4° de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland met een lage tot een zeer hoge erosiegevoeligheid komt alleen in aanmerking voor subsidie als ook een verbintenis voor een grasbufferstrook in het kader van erosiebestrijding als vermeld in artikel 3, eerste lid, 12°, a), wordt aangegaan, en de landbouwer in aanmerking komt voor subsidie. De grasbufferstrook moet, in afwijking van artikel 77, §2, 7°, in alle gevallen een minimale breedte hebben van 6 meter;&nbsp;<br>
+4° ...;&nbsp;<br>
+4°/1 de bufferstrook is ingezaaid op een perceel met een verwaarloosbare tot een lage erosiegevoeligheid;<br>
 5° de bufferstrook wordt gemaaid in de periode vanaf 15 september tot en met 31 december van het verbintenisjaar;&nbsp;<br>
 6° de bufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de bufferstrook een winterteelt ingezaaid wordt of als de bufferstrook opnieuw aangelegd wordt;&nbsp;<br>
 7° de bufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 18 meter. Daarop gelden volgende uitzonderingen:<br>
-&nbsp; a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,30 hectare is;<br>
-&nbsp; b) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een medium, een lage of een heel lage erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
-&nbsp; c) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een hoge of zeer hoge erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 9 meter over de hele lengte van de strook met een maximale breedte van 30 meter.<br>
+a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,30 hectare is;<br>
+b) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een lage of een heel lage erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
+c) ...<br>
 8° op de bufferstrook is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan;<br>
 9° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel bouwland en de bufferstrook, genivelleerd, zodat afstromend water optimaal over de grasstrook kan vloeien;&nbsp;<br>
-10° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, mag er een plantaardige dam op aanwezig zijn;<br>
+10° ...;<br>
 11° de landbouwer heeft de bufferstrook in kwestie in eigen gebruik gedurende de verbintenistermijn;<br>
 12° de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+<br>
+Wanneer uitzonderlijke weersomstandigheden de aanleg van de bufferstrook met bloemenmengsel voor 1 mei van het verbintenisjaar als vermeld in het eerste lid, 3°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.<br>
 <br>
 §3. De minister bepaalt de samenstelling van het bloemenmengsel, vermeld in paragraaf 2, 1°, en kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de strook en het perceel bouwland bepalen.
 
@@ -1459,15 +1478,17 @@ In afwijking van het eerste lid, punten 2° en 3°, moet de landbouwer:&nbsp;<br
 
 Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld in artikel 3, eerste lid, 18°, gaat de landbouwer een verbintenis aan voor de duur van een jaar.&nbsp;<br>
 <br>
-De verbintenis, vermeld in het eerste lid, kan enkel gesloten worden voor een actief vleeskalver- of pluimvee- of varkensbeslag dat aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest ligt.<br>
+De verbintenis, vermeld in het eerste lid, kan enkel gesloten worden voor een actief vleeskalver- of pluimvee- of varkensbeslag dat&nbsp; op 1 januari in het verbintenisjaar aan de landbouwer toebehoort, en waarbij het adres van dat beslag in het Vlaamse Gewest ligt.&nbsp;Het beslag is actief gedurende de volledige verbintenistermijn.<br>
 <br>
-De verbintenis, vermeld in het eerste lid, wordt gesloten per diercategorie en kan maximaal drie keer worden aangegaan. De laatste verbintenis moet uiterlijk worden gesloten binnen de twee jaar na de eerste verbintenis.
+De verbintenis, vermeld in het eerste lid, wordt gesloten per diercategorie en kan maximaal drie keer worden aangegaan. De laatste verbintenis moet uiterlijk worden gesloten binnen de twee jaar na de eerste verbintenis.<br>
+<br>
+In geval van een volledige bedrijfsovername in de loop van de verbintenistermijn leven de overnemer of de overlater gedurende de periode dat het beslag op zijn naam staat, de voorwaarden na die van toepassing zijn op de verbintenis.
 
 ## Afdeling 2. De voorwaarden
 
 ### ART 99.
 
-§1. In dit artikel wordt verstaan onder BD100-waarde: het aantal behandeldagen met antibiotica per honderd dagen voor een diercategorie, berekend in het kader van het Belgisch nationaal actieplan "One Health" voor de bestrijding van antimicrobiële resistentie.<br>
+§1. In dit artikel wordt verstaan onder BD100-waarde: het aantal behandeldagen met antibiotica per honderd dagen voor een diercategorie, berekend in het kader van het Belgisch nationaal actieplan "One Health" voor de bestrijding van antimicrobiële resistentie op basis van de gegevens die beschikbaar zijn in Sanitel-Med op uiterlijk 16 april van het jaar na het verbintenisjaar.<br>
 <br>
 Voor dit besluit gelden de volgende diercategorieën:&nbsp;<br>
 1° biggen niet-gespeend;<br>
@@ -1515,7 +1536,8 @@ Met uitzondering van het geval van overmacht, vermeld in artikel 3, eerste lid, 
 §2. Een meerjarige verbintenis kan alleen voortijdig worden beëindigd of opgeschort zonder dat dat de volledige of gedeeltelijke terugbetaling van de door de landbouwer ontvangen steun tot gevolg heeft als een van de volgende voorwaarden is vervuld:<br>
 1° er is sprake van overmacht of uitzonderlijke omstandigheden;<br>
 2° het volledige areaal of een deel van het areaal dat onder de verbintenis of de verbintenissen voor eenzelfde maatregel valt, of het volledige bedrijf wordt definitief overgedragen gedurende de looptijd van de verbintenis. De verbintenis, of het deel ervan dat overeenstemt met de areaaloverdracht, kan worden overgenomen door de overnemer of kan vervallen. Een verbintenis kan niet overgedragen worden als het bedrijf van de overlater geschorst is overeenkomstig artikel 56, 8° en 9° van het besluit van 29 oktober 2021;<br>
-3° het bedrijf of een deel ervan wordt herkaveld en valt binnen een ruilverkaveling van overheidswege of valt binnen een door de bevoegde autoriteiten goedgekeurde ruilverkaveling. De verbintenis kan dan aangepast worden aan de nieuwe bedrijfssituatie of wordt beëindigd als die aanpassing niet mogelijk is.
+3° het bedrijf of een deel ervan wordt herkaveld en valt binnen een ruilverkaveling van overheidswege of valt binnen een door de bevoegde autoriteiten goedgekeurde ruilverkaveling. De verbintenis kan dan aangepast worden aan de nieuwe bedrijfssituatie of wordt beëindigd als die aanpassing niet mogelijk is;<br>
+4° de dieren die onder de verbintenis of de verbintenissen voor dezelfde maatregel vallen en die op het bedrijf aanwezig zijn, worden definitief overgedragen gedurende de looptijd van de verbintenis. De verbintenis, of het deel ervan dat overeenstemt met de overgedragen dieren, kan worden overgenomen door de overnemer of kan vervallen.
 
 ## Titel 5. Controles en sancties
 
@@ -1524,7 +1546,7 @@ Met uitzondering van het geval van overmacht, vermeld in artikel 3, eerste lid, 
 ### ART 102.
 
 In deze titel wordt verstaan onder:<br>
-1° aangegeven dieren: dieren waarvoor in het kader van een diergebonden maatregel een steun- of betalingsaanvraag is ingediend;<br>
+1° aangegeven dieren: dieren waarvoor in het kader van een diergebonden maatregel een steun- of betalingsaanvraag is ingediend conform artikel 69 van verordening (EU) 2021/2116 via een geautomatiseerd claimsysteem, op basis van sanitel voor de maatregelen, vermeld in artikel 3, eerste lid, 8°, van dit besluit, of op basis van de gegevensbestanden van de stamboeken voor de maatregelen, vermeld in artikel 3, eerste lid, 10°, van dit besluit;<br>
 2° geconstateerd dier: een dier waarvoor aan alle gestelde voorwaarden die gekoppeld zijn aan het dier, is voldaan;<br>
 3° gewasgroep: een groep voor elk van de arealen die worden aangegeven voor de toepassing van een andere areaalgebonden maatregel. Indien binnen dezelfde areaalgebonden maatregel verschillende steunbedragen gelden worden deze ook als aparte groep beschouwd behalve in het geval van degressieve steunbedragen. Als hetzelfde areaal als basis voor een steunaanvraag of een betalingsaanvraag in het kader van meer dan een areaalgebonden maatregel dient, wordt dat areaal voor elk van die maatregelen afzonderlijk in aanmerking genomen;<br>
 4° geconstateerd areaal: het areaal waarvoor is voldaan aan alle subsidiabiliteitscriteria of andere verplichtingen die verband houden met de voorwaarden voor de verlening van de steun.
@@ -1595,7 +1617,7 @@ Als een verbintenisvoorwaarde, een subsidiabiliteitsvoorwaarde of een conditiona
 7° de aangegeven oppervlakte is kleiner dan de geconstateerde oppervlakte;<br>
 8° de landbouwer heeft niet alle percelen die hij in eigen gebruik heeft in dat jaar, aangegeven in de verzamelaanvraag, waardoor er sprake is van onderaangifte;<br>
 9° de verzamelaanvraag is niet tijdig ingediend;<br>
-10° het aangegeven aantal dieren is groter dan het geconstateerde aantal dieren;<br>
+10° het aantal aangegeven dieren is groter dan het aantal geconstateerde dieren;<br>
 11° het aangevraagde subsidiebedrag is hoger dan het bedrag waarop de landbouwer recht heeft.&nbsp;<br>
 <br>
 §3. De administratieve sancties, vermeld in paragraaf 1, kunnen een van de volgende vormen aannemen:<br>
@@ -1648,11 +1670,11 @@ Het eerste lid geldt ook voor documenten, contracten of andere verklaringen die 
 <br>
 Als de uiterste indieningsdatum met meer dan 25 dagen overschreden wordt, wordt de aanvraag niet ontvankelijk geacht en wordt er geen steun aan de landbouwer verleend.
 
-## Afdeling 3. Berekening van steun en administratieve sancties bij te hoge aangifte voor diergebonden maatregelen of niet-naleving van de voorwaarden
+## Afdeling 3. Berekening van steun en administratieve sancties voor diergebonden maatregelen bij te hoge aangifte voor diergebonden maatregelen of niet-naleving van de voorwaarden
 
 ### ART 114.
 
-Als het aantal dieren dat in een steun- of een betalingsaanvraag in het kader van een diergebonden maatregel aangegeven is, groter is dan het aantal dat geconstateerd is bij administratieve controles of controles ter plaatse, wordt, onverminderd de mogelijkheid om bijkomende administratieve sancties als vermeld in artikel 110, op te leggen, de steun berekend op basis van het geconstateerde aantal dieren.<br>
+Als het aantal aangegeven dieren in het kader van een diergebonden maatregel groter is dan het aantal geconstateerde dieren, wordt met behoud van de toepassing van de mogelijkheid om bijkomende administratieve sancties als vermeld in artikel 110, op te leggen, de steun berekend op basis van het aantal geconstateerde dieren, met behoud van de toepassing van artikel 115, §1, 4°, en §3.<br>
 <br>
 De dieren die gedurende het verbintenisjaar zijn overgebracht naar een andere plaats dan de plaats die is aangegeven in de laatste verzamelaanvraag van de landbouwer, worden toch als geconstateerd beschouwd als zij bij de controle ter plaatse onmiddellijk zijn gelokaliseerd op het bedrijf.
 
@@ -1661,17 +1683,21 @@ De dieren die gedurende het verbintenisjaar zijn overgebracht naar een andere pl
 §1. Als een niet-naleving met betrekking tot de identificatie- en registratieregeling voor runderen, schapen of geiten wordt vastgesteld, geldt het volgende:<br>
 1° een dier dat op het bedrijf aanwezig is en waarvan een van de twee identificatiemiddelen kwijtgeraakt of onleesbaar is, wordt als geconstateerd beschouwd als het nog duidelijk en individueel is geïdentificeerd door het tweede identificatiemiddel en alle andere middelen van de identificatie- en registratieregeling, vermeld in het koninklijk besluit van 20 mei 2022;<br>
 2° een enkel dier dat op het bedrijf aanwezig is en waarvan beide identificatiemiddelen kwijtgeraakt of onleesbaar zijn, wordt als geconstateerd beschouwd als het nog duidelijk en individueel kan worden geïdentificeerd door alle andere middelen van de identificatie- en registratieregeling, vermeld in het koninklijk besluit van 20 mei 2022, en de landbouwer kan aantonen dat hij al vóór de aankondiging van de controle ter plaatse actie heeft ondernomen om de situatie te corrigeren;<br>
-3° als het bij de vastgestelde niet-naleving om onjuiste vermeldingen in het register of Sanitel gaat, die evenwel niet van belang zijn voor de naleving van de andere subsidiabiliteitsvoorwaarden in het kader van de maatregel in kwestie, wordt het dier in kwestie alleen als niet geconstateerd beschouwd als die onjuiste vermeldingen bij ten minste twee controles binnen een periode van 24 maanden worden vastgesteld. In alle overige gevallen worden de dieren in kwestie na de eerste vaststelling als niet geconstateerd beschouwd.<br>
+3° als het bij de vastgestelde niet-naleving om onjuiste vermeldingen in het register of Sanitel gaat, die evenwel niet van belang zijn voor de naleving van de andere subsidiabiliteitsvoorwaarden in het kader van de maatregel in kwestie, wordt het dier in kwestie alleen als niet geconstateerd beschouwd als die onjuiste vermeldingen bij ten minste twee controles binnen een periode van 24 maanden worden vastgesteld. In alle overige gevallen worden de dieren in kwestie na de eerste vaststelling als niet geconstateerd beschouwd;<br>
+4° als de niet-naleving alleen wordt vastgesteld bij een administratieve controle op basis van Sanitel, wordt het dier in kwestie als geconstateerd beschouwd. In geval van die niet-naleving wordt voor het dier in kwestie geen steun betaald.<br>
 <br>
-§2. Een niet-naleving met betrekking tot de identificatie- en registratieregeling voor runderen, schapen of geiten heeft geen gevolg voor de landbouwer, als het gaat om een kennelijke fout die de bevoegde entiteit heeft erkend op basis van een algemene beoordeling van het specifieke geval en als de landbouwer te goeder trouw heeft gehandeld.
+§2. Een niet-naleving met betrekking tot de identificatie- en registratieregeling voor runderen, schapen of geiten heeft geen gevolg voor de landbouwer, als het gaat om een kennelijke fout die de bevoegde entiteit heeft erkend op basis van een algemene beoordeling van het specifieke geval en als de landbouwer te goeder trouw heeft gehandeld.<br>
+<br>
+§3. Als voor een rund, schaap, geit of varken een niet-naleving van de voorwaarden, vermeld in het technisch reglement van het stamboek, alleen wordt vastgesteld bij een administratieve controle op basis van het gegevensbestand van dat stamboek, wordt het dier in kwestie als geconstateerd beschouwd. In geval van die niet-naleving wordt voor het dier in kwestie geen steun betaald.
 
 ### ART 116.
 
-§1. Het totale bedrag aan steun waarop de landbouwer in het kader van een diergebonden maatregel voor het verbintenisjaar in kwestie recht heeft, wordt bepaald op basis van het geconstateerde aantal dieren, op voorwaarde dat bij administratieve controles of controles ter plaatse voldaan is aan al de volgende voorwaarden:<br>
+§1. Het totale bedrag aan steun waarop de landbouwer in het kader van een diergebonden maatregel voor het verbintenisjaar in kwestie recht heeft, wordt, met behoud van de toepassing van artikel 115, §1, 4°, en §3, bepaald op basis van het aantal geconstateerde dieren, op voorwaarde dat al de volgende voorwaarden zijn vervuld:<br>
 1° er zijn niet meer dan drie dieren niet geconstateerd;<br>
-2° de niet-geconstateerde runderen, schapen of geiten kunnen individueel worden geïdentificeerd aan de hand van middelen die in de identificatie- en registratieregeling voor die dieren vastgesteld zijn.<br>
+2° de niet-geconstateerde runderen, schapen of geiten kunnen individueel worden geïdentificeerd aan de hand van middelen die in de identificatie- en registratieregeling voor die dieren vastgesteld zijn;<br>
+3° de niet-geconstateerde varkens kunnen individueel worden geïdentificeerd met de middelen die in het technisch reglement van het stamboek vastgesteld zijn.<br>
 <br>
-§2. Als er meer dan drie niet-geconstateerde dieren zijn of als de niet-geconstateerde runderen, schapen of geiten niet individueel geïdentificeerd kunnen worden aan de hand van middelen die in de identificatie- en registratieregeling voor die dieren vastgesteld zijn, wordt het totale bedrag aan steun waarop de landbouwer voor het verbintenisjaar in kwestie recht heeft, bepaald op basis van het geconstateerde aantal dieren en verlaagd met:<br>
+§2. Als er meer dan drie niet-geconstateerde dieren zijn of als de niet-geconstateerde dieren niet individueel geïdentificeerd kunnen worden, wordt, met behoud van de toepassing van artikel 115, §1, 4°, en §3, het totale bedrag aan steun waarop de landbouwer voor het verbintenisjaar in kwestie recht heeft, bepaald op basis van het aantal geconstateerde dieren en verlaagd met:<br>
 1° het percentage, berekend overeenkomstig het tweede lid, als dat niet hoger is dan 20%;<br>
 2° twee keer het &nbsp;percentage, berekend overeenkomstig het tweede lid, als dat hoger dan 20% is, maar niet hoger dan 30% is.<br>
 <br>
@@ -1708,7 +1734,9 @@ Indien het perceel waarop de niet-naleving werd vastgesteld tijdens dat kalender
 1° het percentage van de lineaire verlaging, vastgesteld overeenkomstig artikel 87, §1, van Verordening (EU) nr. 2021/2115;<br>
 2° het aanpassingspercentage, vermeld in artikel 17 van Verordening (EU) nr. 2021/2116.<br>
 <br>
-§4. Het bedrag van de betaling dat voortvloeit uit de toepassing van paragraaf 2 dient als basis voor de berekening van de verlagingen die overeenkomstig artikel 85 van verordening (EU) 2021/2116 en hoofdstuk III van gedelegeerde verordening (EU) 2022/1172 wegens niet-naleving van de conditionaliteitsverplichtingen moeten worden toegepast.
+§4. Het bedrag van de betaling dat voortvloeit uit de toepassing van paragraaf 2 dient als basis voor de berekening van de verlagingen die overeenkomstig artikel 85 van verordening (EU) 2021/2116 en hoofdstuk III van gedelegeerde verordening (EU) 2022/1172 wegens niet-naleving van de conditionaliteitsverplichtingen moeten worden toegepast.<br>
+<br>
+§5. Het bedrag van de betaling dat voortvloeit uit de toepassing van paragraaf 2 dient als basis voor de berekening van de verlagingen die overeenkomstig artikel 89 van verordening (EU) 2021/2116 wegens niet-naleving van de sociale conditionaliteit moeten worden toegepast.
 
 ## Hoofdstuk 5. Administratieve sancties als vermeld in het landbouwdecreet
 
