@@ -30,23 +30,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-§ 1. In dit artikel wordt verstaan onder:<br>
-1° minister: de Vlaamse minister, bevoegd voor de sociale economie.<br>
-<br>
-§ 2. De minister kent aan het Fonds voor Bestaanszekerheid voor de Sociale Werkplaatsen, hierna fonds genoemd, een subsidie toe als al de volgende voorwaarden zijn vervuld:<br>
-1° het fonds gebruikt de subsidie alleen om loonkosten van maatwerkbedrijven uit te betalen;<br>
-2° de maatwerkbedrijven, vermeld in punt 1°, zijn erkend als sociale werkplaatsen en ressorteren sinds 21 september 2004 onder het paritair comité 327, subcomité 327.01;<br>
-3° met de subsidie worden de loonkosten van personeelsleden gecompenseerd die door de maatwerkbedrijven, vermeld in punt 1°, in het kader van de sociale Maribelmaatregel voor 1 januari 2004 als bijkomende tewerkstelling zijn aangeworven.<br>
-<br>
-§ 3. De toekenning van de subsidie is tijdelijk. De subsidie bedraagt:<br>
-1° maximaal 1.400.000 euro voor het kalenderjaar 2023;<br>
-2° maximaal 1.000.000 euro voor het kalenderjaar 2024.<br>
-<br>
-§ 4. Het fonds bezorgt elk jaar een jaarverslag en een jaarplanning aan de minister waarin is bepaald volgens welke voorwaarden de middelen in het lopende jaar zullen worden uitbetaald aan de begunstigde ondernemingen.<br>
-<br>
-Het jaarverslag, vermeld in het eerste lid, licht de nominatieve verdeling van de middelen aan de begunstigde ondernemingen en ook de voortgang van de groei in tewerkstelling toe.<br>
-<br>
-Het fonds stort op eenvoudig verzoek de vergoeding terug als die niet wordt aangewend conform de doelstelling, vermeld in het eerste lid.
+...
 
 ### ART 2.
 
