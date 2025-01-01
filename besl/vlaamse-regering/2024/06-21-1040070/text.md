@@ -284,6 +284,10 @@ Nadat het agentschap Sport Vlaanderen een overzicht van de uitgevoerde sportmedi
 
 ## Hoofdstuk 6. Wijzigingsbepaling
 
+### ART 19.
+
+In bijlage 3 bij het besluit van de Vlaamse Regering van 16 september 2016 tot vaststelling van de algemene erkennings- en subsidiëringsvoorwaarden voor de georganiseerde sportsector, gewijzigd bij de besluiten van de Vlaamse Regering van 8 januari 2021, 3 september 2021 en 9 september 2022, wordt punt 10° opgeheven.
+
 ## Hoofdstuk 7. Slotbepalingen
 
 ### ART 20.
