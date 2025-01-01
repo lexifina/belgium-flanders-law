@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Laarne, Lochristi, Wachtebeke en Wetteren vormen het werkingsgebied Gent- Oost.
+De gemeenten Laarne, Lochristi en Wetteren vormen het werkingsgebied Gent- Oost.
 
 ### ART 2.
 
