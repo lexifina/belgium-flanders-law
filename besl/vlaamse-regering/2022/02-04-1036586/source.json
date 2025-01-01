@@ -2,16 +2,16 @@
   "codex_id": 1036586,
   "title": "Besluit van de Vlaamse Regering van 2022-02-04 tot vaststelling van het werkingsgebied Midwest-Oost",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036586/VolledigDocument?datum=2022-03-18",
-  "source_sha256": "a0d887a6a85804d746e51401957e8fada425c8d4316ed7782decfd7594bdcb8a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036586/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "7bde9a8801f3e5e231e2bc51b6a3000f453e10445fdc861ad0582754b6f0f7ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036586&param=informatie",
-  "as_of": "2022-03-18",
+  "as_of": "2025-01-01",
   "made": "2022-02-04",
   "gazette": "2022-03-08",
   "numac": 2022040215,
   "document_start": "2022-03-18",
   "document_end": null,
-  "in_force": "2022-03-18",
+  "in_force": "2025-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2022-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

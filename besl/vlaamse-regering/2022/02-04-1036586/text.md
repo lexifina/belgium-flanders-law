@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De gemeenten Meulebeke, Pittem, Ruislede, Tielt en Wingene vormen het werkingsgebied Midwest-Oost.
+De gemeenten Pittem, Tielt en Wingene vormen het werkingsgebied Midwest-Oost.
 
 ### ART 2.
 
