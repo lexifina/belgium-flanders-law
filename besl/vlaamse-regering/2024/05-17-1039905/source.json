@@ -2,16 +2,16 @@
   "codex_id": 1039905,
   "title": "Besluit van de Vlaamse Regering van 2024-05-17 tot wijziging van het besluit van de Vlaamse Regering van 11 oktober 2013 tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit, wat betreft de verlenging van de openbaredienstverplichting voor het vervoer van personen met een handicap of een ernstig beperkte mobiliteit en de aanpassing van de compensatiebedragen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039905/VolledigDocument?datum=2024-07-19",
-  "source_sha256": "cf0ca20254f97729aaae4b10081c85862b962fb5100b687bfb7c1b5944762e2f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039905/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "be4680a6613d8d38117d88a528a892dca4e7c1bad2fe19c53a1473adc31c3686",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039905&param=informatie",
-  "as_of": "2024-07-19",
+  "as_of": "2025-01-01",
   "made": "2024-05-17",
   "gazette": "2024-07-09",
   "numac": 2024006735,
   "document_start": "2024-07-19",
   "document_end": null,
-  "in_force": "2024-07-19",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2024-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

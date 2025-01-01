@@ -26,6 +26,26 @@ DE VLAAMSE REGERING BESLUIT:
 
 In artikel 3, tweede lid, van het besluit van de Vlaamse Regering van 11 oktober 2013 tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit, ingevoegd bij het besluit van de Vlaamse Regering van 28 september 2018, vervangen bij het besluit van de Vlaamse Regering van 31 januari 2020 en gewijzigd bij het besluit van de Vlaamse Regering van 23 december 2022, wordt het jaartal “2024” vervangen door het jaartal “2026”.
 
+### ART 2.
+
+In artikel 17 van hetzelfde besluit worden het tweede tot en met het vierde lid vervangen door wat volgt:<br>
+<br>
+“Tot en met 25 kilometer bedraagt de compensatie:<br>
+1° 1,75 euro per gereden kilometer als alleen een gebruiker in een rolstoel wordt vervoerd;<br>
+2° 3,5 euro per gereden kilometer als twee of meer gebruikers in een rolstoel worden vervoerd, ongeacht het aantal gebruikers zonder rolstoel;<br>
+3° 60 eurocent per gereden kilometer als alleen een gebruiker zonder rolstoel wordt vervoerd;<br>
+4° 1,20 euro per gereden kilometer als twee of meer gebruikers zonder rolstoel worden vervoerd;<br>
+5° 2,35 euro per gereden kilometer als een gebruiker met een rolstoel en een of meer gebruikers zonder rolstoel worden vervoerd.<br>
+<br>
+Vanaf 26 kilometer tot en met 50 kilometer bedraagt de compensatie:<br>
+1° 0,90 eurocent per gereden kilometer als alleen een gebruiker in een rolstoel wordt vervoerd;<br>
+2° 1,75 euro per gereden kilometer als twee of meer gebruikers in een rolstoel worden vervoerd, ongeacht het aantal gebruikers zonder rolstoel;<br>
+3° 30 eurocent per gereden kilometer als alleen een gebruiker zonder rolstoel wordt vervoerd;<br>
+4° 60 eurocent per gereden kilometer als twee of meer gebruikers zonder rolstoel worden vervoerd;<br>
+5° 1,20 euro per gereden kilometer als een gebruiker met een rolstoel en een of meer gebruikers zonder rolstoel worden vervoerd.”.<br>
+<br>
+Voor ritten waarvan de totale afstand maximaal zes kilometer bedraagt, wordt de totale compensatie, die berekend is op de wijze, vermeld in het eerste lid, vermeerderd met 1,2 euro.”.
+
 ### ART 3.
 
 Artikel 2 treedt in werking op 1 januari 2025.
