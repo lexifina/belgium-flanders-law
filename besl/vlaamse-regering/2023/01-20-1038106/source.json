@@ -2,16 +2,16 @@
   "codex_id": 1038106,
   "title": "Besluit van de Vlaamse Regering van 2023-01-20 tot vaststelling van de minimale voorwaarden van de rechtspositieregeling van het personeel van lokale en provinciale besturen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038106/VolledigDocument?datum=2024-07-25",
-  "source_sha256": "2c5f735727133d13606d45973ae7755a2818a9ec25a52f0eb4a9a83167434bcc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038106/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "6449ca8b28b26c9950c2c674576598b2288d0110f6641cb983327023b6c9bd85",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038106&param=informatie",
-  "as_of": "2024-07-25",
+  "as_of": "2025-01-01",
   "made": "2023-01-20",
   "gazette": "2023-03-08",
   "numac": 2023040838,
   "document_start": "2023-03-18",
   "document_end": null,
-  "in_force": "2024-07-25",
-  "article_versions": 95,
-  "record_form": "consolidated version as in force on 2024-07-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 96,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

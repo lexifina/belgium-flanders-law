@@ -799,6 +799,34 @@ De raad stelt in de rechtspositieregeling de nadere regels vast voor het geval h
 3° uitdiensttreding;<br>
 4° overlijden.
 
+### ART 52/1.
+
+§1. In dit artikel wordt verstaan onder VIA-personeelsleden: de personeelsleden bedoeld in artikel 2, §1, die werken in de volgende publieke inrichtingen of diensten die door de Vlaamse Gemeenschap worden erkend, vergund of gesubsidieerd:<br>
+1°&nbsp;&nbsp; &nbsp;een revalidatieziekenhuis;<br>
+2°&nbsp;&nbsp; &nbsp;een initiatief voor beschut wonen;<br>
+3°&nbsp;&nbsp; &nbsp;een woonzorgcentrum;<br>
+4°&nbsp;&nbsp; &nbsp;een dagverzorgingscentrum;<br>
+5°&nbsp;&nbsp; &nbsp;een centrum voor kortverblijf voor bejaarden;<br>
+6°&nbsp;&nbsp; &nbsp;een groep van assistentiewoningen;<br>
+7°&nbsp;&nbsp; &nbsp;de kinderopvang;<br>
+8°&nbsp;&nbsp; &nbsp;de jeugdhulp;<br>
+9°&nbsp;&nbsp; &nbsp;een voorziening voor personen met een handicap;<br>
+10°&nbsp;&nbsp; &nbsp;een categoraal ziekenhuis;<br>
+11°&nbsp;&nbsp; &nbsp;een medisch sociaal opvangcentrum;<br>
+12°&nbsp;&nbsp; &nbsp;de diensten voor gezins- en bejaardenzorg;<br>
+13°&nbsp;&nbsp; &nbsp;de ambulante revalidatievoorzieningen;<br>
+14°&nbsp;&nbsp; &nbsp;de lokale dienstencentra.<br>
+<br>
+§2. VIA-personeelsleden hebben recht op een aaneensluitende vakantieperiode van minstens drie opeenvolgende weken tijdens het kalenderjaar, inclusief drie weekends die in die periode vallen.<br>
+<br>
+§3. De toepassing van paragraaf 2 op VIA-personeelsleden die in een beurtrolsysteem van één weekend op twee werken, impliceert niet dat voor die personeelsleden een recht ontstaat op vijf opeenvolgende vrije weekends of dat ze verplicht kunnen worden om op jaarbasis meer dan 25 weekends te presteren.<br>
+<br>
+§4. Het recht, vermeld in paragraaf 2, kan uitzonderlijk beperkt worden bij organisatorische noodwendigheden.<br>
+<br>
+In het eerste lid wordt verstaan onder organisatorische noodwendigheden: de verzekering van onontbeerlijke personeelsomkadering voor het functioneren van de dienst nadat alle beschikbare ondersteunings- of vervangingsmogelijkheden binnen het huidige organisatorische kader zijn ingezet tijdens de vakantieperiode in kwestie.<br>
+<br>
+§5. De raad stelt voor de VIA-personeelsleden in de rechtspositieregeling de nadere regels vast van de procedure voor de individuele en collectieve vakantieplanning en de voorrangscriteria.
+
 ### ART 53.
 
 Met behoud van de toepassing van artikel 47, §2, vierde lid, geven de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, recht op jaarlijkse vakantiedagen, rekening houdend met de prestatieregeling, met uitzondering van de periodes gelijkgesteld met dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13° en 14°.&nbsp;<br>
