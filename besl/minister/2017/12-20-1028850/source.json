@@ -2,16 +2,16 @@
   "codex_id": 1028850,
   "title": "Ministerieel besluit van 2017-12-20 houdende de uitbetalingsregels voor de vergoedingen voor de opkoop van warmte-krachtcertificaten door de elektriciteitsdistributienetbeheerders, vermeld in artikel 6.4.14/3 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028850/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "03256740875733458fcaccdd960bee4d1fa6f83ae6cfb7ecc693f098104d432e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028850/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "f56493dc442eece0bc39e4c122eb360c180f9bbf41768a67d8be8b8169a896d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028850&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2025-01-01",
   "made": "2017-12-20",
   "gazette": "2017-12-28",
   "numac": 2017014373,
   "document_start": "2017-12-28",
   "document_end": null,
-  "in_force": "2021-01-01",
+  "in_force": "2025-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
