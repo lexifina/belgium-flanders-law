@@ -40,6 +40,15 @@ In artikel 9 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Reg
 <br>
 &nbsp;
 
+### ART 4.
+
+In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 januari 2022, wordt een artikel 9/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 9/1. Naast de subsidie, vermeld in artikel 9, eerste lid, kent het agentschap aan de opdrachthouder Consulentenwerking die is erkend voor de provincie Antwerpen, een subsidie van maximaal 80.000 euro (tachtigduizend euro) per jaar toe.<br>
+<br>
+De uitbetaling, aanwending en indexering van het subsidiebedrag, vermeld in het eerste lid, is onderworpen aan de regels en de voorwaarden, vermeld in artikel 9, tweede tot en met het zesde lid. Voor de toepassing van de regels en de voorwaarden, vermeld in artikel 9, tweede tot en met het zesde lid, wordt het subsidiebedrag, vermeld in artikel 9, eerste lid, en het subsidiebedrag, vermeld in het eerste lid, samengeteld en beschouwd als één subsidiebedrag.”.<br>
+&nbsp;
+
 ### ART 5.
 
 In artikel 10 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
