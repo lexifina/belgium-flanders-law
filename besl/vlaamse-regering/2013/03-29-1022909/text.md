@@ -34,7 +34,11 @@ In de schoot van KATHO wordt een cel machtiging assistentiehondenscholen   opger
 
 ### ART. 8.
 
-<P>Het Vlaams Agentschap voor Personen met een Handicap verleent, voor de   oprichting en de werking van de cel, aan KATHO een forfaitaire subsidie van   25.551,08 euro op jaarbasis.<BR></P>  <P>Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 maart aangepast   volgens de formule : 25.551,08 euro x G-index februari 20xx/G-index februari   2013.<BR></P>  <P>De subsidie, vermeld in het eerste lid, wordt voor het eerste werkingsjaar   verdubbeld.<BR></P>
+<p>Het Vlaams Agentschap voor Personen met een Handicap verleent, voor de oprichting en de werking van de cel, aan KATHO een forfaitaire subsidie van 26.325 euro op jaarbasis.</p>
+
+<p>Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.</p>
+
+<p>De subsidie, vermeld in het eerste lid, wordt voor het eerste werkingsjaar verdubbeld.</p>
 
 ### ART. 9.
 
