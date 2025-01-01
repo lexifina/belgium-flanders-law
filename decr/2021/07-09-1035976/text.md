@@ -465,7 +465,7 @@ In artikel 153viciesquinquies, ingevoegd bij het decreet van 6 juli 2018 en gewi
 
 ### ART 60.
 
-§ 1. AGION wordt ertoe gemachtigd verbintenissen aan te gaan voor een totaal van maximaal 750.000 euro subsidie per jaar in het kader van een uiterst dringende capaciteitsproblematiek om een tijdelijke subsidie te geven aan de inrichtende machten van het gesubsidieerd onderwijs voor de huur en plaatsing van tijdelijke modulaire units.<br>
+§ 1. AGION wordt ertoe gemachtigd verbintenissen aan te gaan voor een totaal van maximaal 2.000.000 euro subsidie per jaar in het kader van een uiterst dringende capaciteitsproblematiek om een tijdelijke subsidie te geven aan de inrichtende machten van het gesubsidieerd onderwijs voor de huur en plaatsing van tijdelijke modulaire units.<br>
 <br>
 Dit bedrag wordt gekoppeld aan de consumptieprijsindex van december 2020, basis 2013, en wordt jaarlijks op 1 januari berekend.<br>
 <br>

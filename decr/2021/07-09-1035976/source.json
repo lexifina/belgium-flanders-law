@@ -2,16 +2,16 @@
   "codex_id": 1035976,
   "title": "Decreet van 2021-07-09 Programmadecreet bij de aanpassing van de begroting 2021",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035976/VolledigDocument?datum=2021-09-01",
-  "source_sha256": "d61ffae0f0f2aa5cef647625923f9b0882cc244ae4e8736e727fded854f051d7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035976/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "b8601d940a3dc778b068e604249e9d910db1918ed8f84890077d6a63e4607985",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035976&param=informatie",
-  "as_of": "2021-09-01",
+  "as_of": "2025-01-01",
   "made": "2021-07-09",
   "gazette": "2021-08-20",
   "numac": 2021032223,
   "document_start": "2021-08-30",
   "document_end": null,
-  "in_force": "2021-09-01",
+  "in_force": "2025-01-01",
   "article_versions": 74,
-  "record_form": "consolidated version as in force on 2021-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
