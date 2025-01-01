@@ -8,6 +8,21 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## Hoofdstuk 2. Wijziging van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten
 
+### ART 2.
+
+In het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, gewijzigd bij de decreten van 20 januari 2006, 6 juli 2012, 22 december 2017 en 22 oktober 2021, wordt een artikel 33/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 33/2. Het meerjarenplan, vermeld in artikel 41, en eventuele wijzigingen ervan, is gebaseerd op een kerkenbeleidsplan.<br>
+<br>
+Een kerkenbeleidsplan is een schriftelijk document dat een lokaal gedragen langetermijnvisie bevat voor alle parochiekerken op het grondgebied van de gemeente. Het is goedgekeurd en ondertekend door het representatief orgaan van de rooms-katholieke eredienst en door het gemeentebestuur. Het kerkenbeleidsplan bevat minstens al de volgende gegevens:<br>
+1° een beschrijving van de betrokken kerken, met hun cultuurhistorische waarde, hun beschermingsstatuut en hun bouwfysische toestand;<br>
+2° informatie over de eigendomstoestand;<br>
+3° de situering van elke kerk in zijn ruimtelijke omgeving;<br>
+4° een beschrijving van het actuele gebruik en de actuele functie van de betrokken kerken;<br>
+5° een onderbouwde visie op het toekomstige gebruik en de toekomstige functie van de betrokken kerken, inclusief een plan van aanpak over de wijze waarop &nbsp;de toekomstige invulling (eredienst, valorisatie, medegebruik, neven- en herbestemming) kan worden gerealiseerd.<br>
+<br>
+Het kerkenbeleidsplan, of de ondertekende bevestiging van een bestaand kerkenbeleidsplan, is niet ouder dan zes maanden als het meerjarenplan wordt ingediend met toepassing van artikel 42, eerste lid. Als dat nog niet het geval is op het &nbsp;ogenblik dat het meerjarenplan wordt ingediend, dan kan de gemeenteraad in het meerjarenplan investeringsuitgaven voor het gebouw van de eredienst waarvoor er geen overeenstemming bestaat over de toekomstige functie opschorten tot het ogenblik dat er een aangepast meerjarenplan wordt goedgekeurd dat wel gebaseerd is op een nieuw of herbevestigd kerkenbeleidsplan.".
+
 ## Hoofdstuk 3. Wijzigingen van het decreet van 12 juli 2013 houdende toekenning van subsidies voor gebouwen van de eredienst, gebouwen voor de openbare uitoefening van de niet-confessionele morele dienstverlening en crematoria
 
 ### ART 3.
@@ -42,7 +57,24 @@ In artikel 6 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<b
 
 In artikel 7, 3°, van hetzelfde decreet worden tussen de woorden "van het gebouw van de eredienst" en de woorden "waarvoor de subsidie wordt aangevraagd" de woorden "of het gewezen gebouw van de eredienst" ingevoegd.
 
+### ART 8.
+
+Artikel 8 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 8. De subsidieaanvraag voor de eredienstgebouwen of de gewezen gebouwen van de eredienst van de rooms-katholieke eredienst past in het laatst goedgekeurde kerkenbeleidsplan, vermeld in artikel 33/2 van het decreet van 7 mei 2004.<br>
+<br>
+Bij de subsidieaanvraag voor de eredienstgebouwen of gewezen gebouwen van de eredienst van de andere erkende erediensten wordt een positief advies gevoegd van het erkende representatief orgaan van de eredienst en van het college van burgemeester en schepenen of de deputatie van het betrokken gemeente- of provinciebestuur. Uit die adviezen moet blijken dat de investeringen waarvoor de subsidie wordt aangevraagd, passen in een langetermijnvisie met betrekking tot het gebouw.".
+
 ## Hoofdstuk 4. Wijzigingen van het Onroerenderfgoeddecreet van 12 juli 2013
+
+### ART 9.
+
+In artikel 2.1 van het Onroerenderfgoeddecreet van 12 juli 2013, gewijzigd bij de decreten van 15 juli 2016 en 13 juli 2018, wordt punt 31°/1 opgeheven.<br>
+&nbsp;
+
+### ART 10.
+
+In artikel 12.3.12 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt het tweede lid opgeheven.
 
 ## Hoofdstuk 5. Inwerkingtreding
 
