@@ -2,16 +2,16 @@
   "codex_id": 1039555,
   "title": "Decreet van 2024-03-01 tot wijziging van de regelgeving over de organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsnood, de zorgraden en de verwerking van persoonsgegevens in het kader van het digitale zorg- en ondersteuningsplan, de financiering van eerstelijnszorgaanbieders en voor beleidsdoeleinden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039555/VolledigDocument?datum=2024-08-15",
-  "source_sha256": "bc20fb4de5248d18a6940d8950873d16cfb415a5072bf13c9ff997e61346b680",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039555/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "ee6b5d1e522b15584de1555e4e8cb178215ac360d5bb51556759e190effe025d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039555&param=informatie",
-  "as_of": "2024-08-15",
+  "as_of": "2025-01-01",
   "made": "2024-03-01",
   "gazette": "2024-04-05",
   "numac": 2024003034,
   "document_start": null,
   "document_end": null,
-  "in_force": "2024-08-15",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-08-15; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
