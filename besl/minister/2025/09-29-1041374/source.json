@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041374,
+  "title": "Ministerieel besluit van 2025-09-29 tot vaststelling van de urencontingenten gezinszorg van de erkende diensten voor gezinszorg voor het jaar 2025",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041374/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "16c158a26df0b90d807a7cced003850d3595b2a764a2e3b4cf64fa8f0f33b559",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041374&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-09-29",
+  "gazette": "2025-10-22",
+  "numac": 2025007824,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
