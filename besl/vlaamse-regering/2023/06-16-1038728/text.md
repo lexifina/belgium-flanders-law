@@ -460,6 +460,196 @@ In artikel 6.4.1/1/1 van hetzelfde besluit, vervangen bij het besluit van de Vla
 ” opgeheven.<br>
 &nbsp;
 
+### ART 21.
+
+Artikel 6.4.1/1/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 september 2020, vervangen bij het besluit van de Vlaamse Regering van 18 december 2020 en gewijzigd bij de besluiten van de Vlaamse Regering van 10 december 2021 en 4 februari 2022, wordt vervangen door wat volgt:<br>
+<br>
+“§1. Art. 6.4.1/1/4. §1. De elektriciteitsdistributienetbeheerder geeft vanaf 2021 aan aanvragers een premie voor de grondige energetische renovatie van een woning, collectief woongebouw of wooneenheid. De voormelde aanvragers zijn voor de voormelde woning, het voormelde collectieve woongebouw of de voormelde wooneenheid uitgesloten van de premie, vermeld in artikel 6.4.1/1/3.<br>
+<br>
+Aanvragers kunnen de premie, vermeld in het eerste lid, verkrijgen als al de volgende voorwaarden zijn vervuld:&nbsp;<br>
+1° de aanvrager beschikt over een energieprestatiecertificaat dat niet ouder is dan 2019 en dat dateert van ten laatste 31 december 2026, waaruit blijkt dat de woning of het collectieve woongebouw energielabel E of F had, of de wooneenheid een energielabel D, E of F had;&nbsp;<br>
+2° er is nog geen voucher, vermeld in artikel 6.4.1/1/3, geactiveerd;<br>
+3° de aanvrager is houder van een zakelijk recht verbonden aan de voormelde woning, het voormelde collectief woongebouw of de voormelde wooneenheid.<br>
+<br>
+Binnen vijf jaar na de datum van het energieprestatiecertificaat, vermeld in het tweede lid, 1°, beschikt de aanvrager ook over een nieuw geldig energieprestatiecertificaat. Voor energieprestatiecertificaten als vermeld in het tweede lid, 1°, die zijn opgemaakt in 2019 of 2020, begint de voormelde termijn te lopen vanaf 1 januari 2021.<br>
+<br>
+Uit het nieuwe energieprestatiecertificaat, vermeld in het derde lid, blijkt minstens de volgende energetische verbetering:<br>
+1° voor een wooneenheid een energieprestatiecertificaat met minstens label B;<br>
+2° voor een woning of collectief woongebouw een energieprestatiecertificaat met minstens label C.<br>
+<br>
+De aanvraag van de uitbetaling van de premie, vermeld in het eerste lid, wordt ingediend bij de elektriciteitsdistributiebeheerder uiterlijk binnen twaalf maanden nadat de termijn van vijf jaar, vermeld in het derde lid, is verstreken.<br>
+<br>
+Voor elke woning, elk collectief woongebouw of elke wooneenheid kan maar één aanvraag als vermeld in het vijfde lid, worden ingediend en de voormelde aanvraag blijft verbonden aan de woning, het collectieve woongebouw of de wooneenheid.<br>
+<br>
+De hoogte van de premie, vermeld in het eerste lid, bedraagt:<br>
+1° voor een wooneenheid:<br>
+a) 2500 euro als label B wordt behaald;<br>
+b) 3750 euro als label A wordt behaald;<br>
+2° voor een woning of collectief woongebouw:<br>
+a) 2500 euro als label C wordt behaald;<br>
+b) 3750 euro als label B wordt behaald;<br>
+c) 5000 euro als label A wordt behaald.<br>
+<br>
+In afwijking van het zevende lid wordt voor uitbetalingen die vanaf 1 april 2024 worden aangevraagd, aan bewoners als vermeld in artikel 5.186, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021 en die voldoen aan de inkomensgrenzen, vermeld in artikel 5.187, derde lid, van het Besluit Vlaamse Codex Wonen van 2021, met toepassing van artikel 5.187, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021, en aan de verhuurders, vermeld in artikel 5.186, eerste lid, 8°, van het Besluit Vlaamse Codex Wonen van 2021, volgende bedragen toegekend:<br>
+1° voor een wooneenheid:<br>
+a) 3000 euro als label B wordt behaald;<br>
+b) 4500 euro als label A wordt behaald;<br>
+2° voor een woning of collectief woongebouw:<br>
+a) 3000 euro als label C wordt behaald;<br>
+b) 4500 euro als label B wordt behaald;<br>
+c) 6000 euro als label A wordt behaald.<br>
+<br>
+Als een aanvrager als vermeld in het eerste lid, achtereenvolgens verschillende geldige energieprestatiecertificaten met opeenvolgende labelverbeteringen voorlegt gedurende de periode, vermeld in het vierde lid, wordt na de uitbetaling van een eerdere premie als bijkomende premie alleen het verschil tussen de premie voor het label waarvoor al een premie is uitbetaald, en de premie die gekoppeld is aan het nieuw bereikte label, vermeld in het vijfde lid, uitbetaald, waarbij dat laatste label altijd beter moet zijn dan het vorige bereikte label.<br>
+<br>
+De minister kan nadere regels bepalen voor de manier waarop de premie kan worden aangevraagd en de bewijsstukken die worden vereist.<br>
+<br>
+§2. Voor uitbetalingen van premies als vermeld in paragraaf 1, die worden aangevraagd vanaf 1 januari 2025, worden in afwijking van paragraaf 1 de volgende bedragen toegekend aan de aanvrager:<br>
+<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:595px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:40px; vertical-align:top; width:126px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:40px; vertical-align:top; width:119px"><strong>EPC-label na renovatie</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:40px; vertical-align:top; width:174px"><strong>zonder ventilatiesysteem</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:40px; vertical-align:top; width:176px"><strong>met ventilatiesysteem</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:126px"><strong>woning of collectief woongebouw</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:119px"><strong>A</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:174px">4000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:176px">5000 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:119px"><strong>B</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:174px">3000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:176px">3750 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:119px"><strong>C</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:174px">2000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:176px">2500 euro</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:30px; vertical-align:top; width:126px"><strong>wooneenheid</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:30px; vertical-align:top; width:119px"><strong>A</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:30px; vertical-align:top; width:174px">3000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:30px; vertical-align:top; width:176px">3750 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:119px"><strong>B</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:174px">2000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:176px">2500 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In afwijking van het eerste lid worden aan bewoners als vermeld in artikel 5.186, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, die voldoen aan de inkomensgrenzen, vermeld in artikel 5.187, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021, met toepassing van artikel 5.187, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021, de volgende bedragen toegekend voor uitbetalingen die worden aangevraagd vanaf 1 januari 2025:<br>
+<br>
+<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:590px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:123px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:120px"><strong>EPC-label na renovatie</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:169px"><strong>zonder ventilatiesysteem</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:178px"><strong>met ventilatiesysteem</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:123px"><strong>woning of collectief woongebouw</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:120px"><strong>A</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:169px">5000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:178px">6000 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:120px"><strong>B</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:169px">3750 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:178px">4500 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:120px"><strong>C</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:169px">2500 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:178px">3000 euro</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:123px"><strong>wooneenheid</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:120px"><strong>A</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:169px">3750 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:178px">4500 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:120px"><strong>B</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:169px">2500 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:178px">3000 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In afwijking van het eerste en tweede lid worden aan bewoners als vermeld in artikel 5.186, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, die voldoen aan de inkomensgrenzen, vermeld in artikel 5.187, derde lid, van het Besluit Vlaamse Codex Wonen van 2021, met toepassing van artikel 5.187, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021, en aan de verhuurders, vermeld in artikel 5.186, eerste lid, 8°, van het Besluit Vlaamse Codex Wonen van 2021, de volgende bedragen toegekend voor uitbetalingen die worden aangevraagd vanaf 1 januari 2025:<br>
+<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:590px">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:123px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:120px"><strong>EPC-label na renovatie</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:169px"><strong>zonder ventilatiesysteem</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:37px; vertical-align:top; width:178px"><strong>met ventilatiesysteem</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:123px"><strong>woning of collectief woongebouw</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:120px"><strong>A</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:169px">6000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:178px">7000 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:120px"><strong>B</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:169px">4500 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:178px">5250 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:120px"><strong>C</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:169px">3000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:31px; vertical-align:top; width:178px">3500 euro</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:123px"><strong>wooneenheid</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:120px"><strong>A</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:169px">4500 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:178px">5250 euro</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:120px"><strong>B</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:169px">3000 euro</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:top; width:178px">3500 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+De minister kan nadere regels bepalen en technische vereisten vastleggen waaraan het ventilatiesysteem, vermeld in het eerste lid, of de uitvoerders van de werkzaamheden, respectievelijk de installateurs van de voormelde ventilatiesystemen moeten voldoen om in aanmerking te komen voor de bedragen, vermeld in deze paragraaf.<br>
+<br>
+§3. In afwijking van paragraaf 1 komen aanvragers die voor 1 januari 2021 al minstens één investering als vermeld in artikel 6.4.1/1/3, met eindfacturen tot en met 31 december 2020 hebben gedaan en daarvoor een premie hebben aangevraagd, niet in aanmerking voor de premie, vermeld in paragraaf 1, tenzij de termijn, vermeld in artikel 6.4.1/1/3, eerste lid, is verstreken.&nbsp;<br>
+&nbsp;<br>
+Als de termijn, vermeld in artikel 6.4.1/1/3, eerste lid, is verstreken, dan dateert het energieprestatiecertificaat, vermeld in paragraaf 1, derde lid, echter van na het verstrijken van de termijn, vermeld in artikel 6.4.1/1/3, eerste lid.&nbsp;<br>
+&nbsp;<br>
+Als de termijn, vermeld in artikel 6.4.1/1/3, eerste lid, niet is verstreken, blijft de woning, het collectieve woongebouw of de wooneenheid onderworpen aan de premievoorwaarden, vermeld in artikel 6.4.1/1/3.&nbsp;<br>
+&nbsp;<br>
+In afwijking van het eerste tot en met het derde lid komen aanvragers die vanaf 1 januari 2021 de nieuwe houder van het zakelijk recht van de woning, het collectieve woongebouw of de wooneenheid zijn geworden, in aanmerking voor de premie, vermeld in dit artikel. In hoofde van de nieuwe houder van het zakelijk recht wordt het recht op een geactiveerde voucher, vermeld in artikel 6.4.1/1/3, beëindigd.<br>
+<br>
+§4. Vanaf 1 januari 2021 kunnen geen nieuwe vouchers als vermeld in artikel 6.4.1/1/3, worden geactiveerd.<br>
+<br>
+In afwijking van het eerste lid en van paragraaf 1 kunnen de aanvragers, vermeld in paragraaf 1, eerste lid, kiezen tussen de premie, vermeld in paragraaf 1, of de premie, vermeld in artikel 6.4.1/1/3, als al de volgende voorwaarden zijn vervuld:<br>
+1° de voucher, vermeld in artikel 6.4.1/1/3 is voor 1 januari 2021 nog niet geactiveerd;<br>
+2° de eerste eindfactuur voor de gedane investeringen heeft een datum vanaf 1 januari 2021 tot en met 31 december 2021;<br>
+3° de aanvragers- kunnen voor de eindfactuur, vermeld in punt 2°, een ondertekende bestelbon of ondertekende offerte voorleggen die dateert van vóór 1 januari 2021;<br>
+4° de aanvraag van de premie voor de investeringen die op de eindfactuur, vermeld in punt 2°, vermeld zijn, wordt ingediend voor 1 juli 2022.<br>
+<br>
+De keuze van de aanvragers, vermeld in het paragraaf 1, eerste lid, is voor die woning, dat collectieve woongebouw of die wooneenheid onherroepelijk. Als de aanvrager kiest voor de premies, vermeld in artikel 6.4.1/1/3, blijft die woning, dat collectieve woongebouw of die wooneenheid onderworpen aan de daarbij van toepassing zijnde premievoorwaarden.<br>
+<br>
+De minister kan nadere regels bepalen voor de wijze waarop aanvragers de elektriciteitsdistributienetbeheerder op de hoogte kunnen brengen van hun keuze en voor de bewijsdocumenten die vereist zijn.”.
+
 ### ART 22.
 
 In artikel 6.4.1/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011, vervangen bij het besluit van de Vlaamse Regering van 4 februari 2022 en gewijzigd bij het besluit van de Vlaamse Regering van 20 mei 2022, worden de volgende wijzigingen aangebracht:&nbsp;<br>
@@ -647,6 +837,37 @@ Om in aanmerking te komen voor de tegemoetkomingen, vermeld in het artikel 6.4.1
 De bedragen vermeld in het tweede en derde lid, worden gekoppeld aan het gezondheidsindexcijfer 127,92 van oktober 2022 (basisjaar 2013). Ze worden jaarlijks op 1 januari aangepast aan het gezondheidsindexcijfer van de maand oktober die voorafgaat aan de aanpassing en afgerond naar het hogere tiental.<br>
 <br>
 In het vierde lid wordt verstaan onder gezondheidsindexcijfer: het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.”.
+
+### ART 28.
+
+In artikel 6.4.1/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 oktober 2022, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:&nbsp;<br>
+“De distributienetbeheerder laat een energiescan uitvoeren in de woning van een afnemer die dat vraagt en van wie het inkomen de grenzen, vermeld in artikel 6.4.1/6/3, derde lid, niet overschrijdt.”;&nbsp;<br>
+2° er wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+“In afwijking van het eerste lid laat de distributienetbeheerder een energiescan uitvoeren in de woning van een afnemer die dat vraagt en die onder minstens een van de volgende categorieën valt:&nbsp;<br>
+1° een afnemer met een meter met geactiveerde voorafbetalingsfunctie voor elektriciteit of aardgas;<br>
+2° een afnemer voor wie de elektriciteitsdistributienetbeheerder of de aardgasdistributienetbeheerder een verzoek tot afsluiting van de elektriciteits- dan wel aardgastoevoer bij de lokale adviescommissie heeft ingediend met toepassing van artikel 5.3.16 of 5.4.17;<br>
+3° iedere afnemer voor wie het OCMW de inschatting maakt dat een energiescan relevant kan zijn.”;<br>
+3° in het bestaande tweede lid, dat het derde lid wordt, wordt de zinsnede “het eerste lid, 4°” vervangen door de woorden “het tweede lid”;<br>
+4° in het bestaande derde lid, dat het vierde lid wordt, wordt na de zinsnede “vanaf 1 januari 2019 opgenomen in het takenpakket van de energiehuizen” de zinsnede “en moet uiterlijk 31 december 2025 volledig zijn uitgevoerd. De energiescan kan worden aangevraagd tot een door de minister vast te stellen datum, en uiterlijk tot en met 30 juni 2024.” ingevoegd;&nbsp;<br>
+5° het bestaande vijfde en zesde lid worden opgeheven;<br>
+6° in het bestaande achtste lid, dat het zesde lid wordt, wordt de zinsnede “zoals bepaald in punt 1 tot en met 3 van het tweede lid” vervangen door de zinsnede “vermeld in het tweede lid, 1° en 2°”;<br>
+7° in het bestaande negende lid, dat het zevende lid wordt, wordt de zinsnede “en de uitvoering van dak- of zoldervloerisolatie, vermeld in artikel 6.4.1/9” opgeheven;&nbsp;<br>
+&nbsp;8° in het bestaande tiende lid, dat het achtste lid wordt, wordt het woord “zevende” vervangen door het woord “vijfde”.
+
+### ART 29.
+
+In artikel 6.4.1/9 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 juli 2022, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
+“Aanvragen voor de ondersteuning, vermeld in het eerste en tweede lid, kunnen tot een door de minister vast te stellen datum, en uiterlijk tot en met 30 juni 2024, worden ingediend. De ondersteuning, vermeld in het eerste en tweede lid, moet uiterlijk op 31 december 2025 volledig uitgevoerd zijn.”;&nbsp;<br>
+2° in het bestaande tiende lid, dat het elfde lid wordt, worden de woorden “vermeld in het zevende lid” vervangen door de woorden “zoals bepaald in punt 1 tot en met 3 van het eerste lid”;&nbsp;<br>
+3° in het bestaande elfde lid, dat het twaalfde lid wordt, wordt de zinsnede “vermeld in het zevende, achtste en negende lid” vervangen door de zinsnede "vermelde in het negende, tiende en elfde lid”.
+
+### ART 30.
+
+In artikel 6.4.1/9/1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2016 en gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° tussen de zinsnede “vanaf 1 januari 2017” en de woorden “een aanbod inzake” wordt de zinsnede “tot een door de minister vast te stellen datum, en uiterlijk tot en met 30 juni 2024” ingevoegd;&nbsp;<br>
+2° de zin “De ondersteuning moet uiterlijk op 31 december 2025 volledig uitgevoerd zijn.” wordt toegevoegd.&nbsp;
 
 ### ART 32.
 
