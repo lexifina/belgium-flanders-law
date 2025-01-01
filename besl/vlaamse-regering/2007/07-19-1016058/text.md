@@ -107,14 +107,9 @@ De organisaties die op 31 december 2018 erkend zijn als organisaties die de vrij
 
 ### ART. 10.
 
-<p>§ 1. Aan de erkende organisaties worden subsidies verleend die op jaarbasis 79.415,48 euro euro bedragen.<br>
+<p>§ 1. Aan de erkende organisaties worden subsidies verleend die op jaarbasis 131.200 euro bedragen.<br>
 <br>
-Het subsidiebedrag, vermeld in het eerste lid, wordt verhoogd met de volgende bedragen :<br>
-1° voor het jaar 2008 met 505 euro;<br>
-2° voor het jaar 2009 met 681 euro;<br>
-3° voor het jaar 2010 met 859 euro.<br>
-<br>
-Voor het bedrag, vermeld in het eerste lid, moet elke erkende organisatie op jaarbasis ten minste 400 prestaties in kader van de activiteiten, vermeld in artikel 2, eerste lid, 4°, a) tot en met c), bewijzen, waarvan minimaal 150 prestaties geleverd zijn voor 30 activiteiten als vermeld in artikel 2, 4°, b).<br>
+Voor het bedrag, vermeld in het eerste lid, moet elke erkende organisatie op jaarbasis ten minste 400 prestaties in kader van de activiteiten, vermeld in artikel 2, eerste lid, 4°, a) tot en met c), bewijzen, waarvan minimaal 150 prestaties geleverd zijn voor 30 activiteiten als vermeld i artikel 2, 4°, b).<br>
 <br>
 De activiteit, vermeld in artikel 2, eerste lid, 4°, a), waarmee een persoon met een handicap eenmalig bereikt wordt, komt in aanmerking voor één prestatie.<br>
 <br>
@@ -136,17 +131,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, binnen de kredi
 <br>
 Maximaal 30 % van het subsidiebedrag, vermeld in § 1, wordt besteed aan werkingskosten of kan eventueel worden aangewend om occasionele externe medewerkers aan te trekken voor het opzetten of begeleiden van activiteiten.<br>
 <br>
-§ 3.&nbsp;Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex van toepassing op 1 januari 2002, conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
-<br>
-Het subsidiebedrag, vermeld in paragraaf 1 eerste lid, worden telkens op 1 januari van het jaar aangepast volgens de formule :<br>
-<br>
-Subsidiebedrag x spilindex 1/01/jaar<br>
---------------------------------------------<br>
-basisindex 1/01/2002<br>
-<br>
-Het subsidiebedrag, vermeld in paragraaf 1, tweede lid, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2006, conform de wet van 1 maart 1977 houdende de inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
-<br>
-Het subsidiebedrag, vermeld in paragraaf 1, tweede lid, wordt telkens op 1 januari van het jaar aangepast met de volgende formule: (subsidiebedrag x spilindex januari 20..)/basisindex 1/01/2006.</p>
+§3. Het subsidiebedrag, vermeld in het paragraaf 1, eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.</p>
 
 ### ART. 11.
 
