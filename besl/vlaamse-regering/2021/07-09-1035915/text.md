@@ -56,6 +56,32 @@ e) eenheden van een landbouwgebouw die niet voor bewoning bestemd zijn;".
 Aan artikel 7.15.2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 december 2020, wordt een § 3/1 toegevoegd die luidt als volgt :<br>
 " § 3/1. Als het bedrag van het hoofdkrediet lager is dan 30.000 euro in hoofdsom, is het bedrag van het hoofdkrediet minstens gelijk aan het bedrag van het renovatiekrediet.".
 
+### ART 3.
+
+In titel VIII van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt in het opschrift van hoofdstuk I de zinsnede ", type C" opgeheven.
+
+### ART 4.
+
+In artikel 8.1.1 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste en vierde lid wordt de zinsnede ", type C" telkens opgeheven;<br>
+2° in het tweede lid wordt de zinsnede ", type C" opgeheven.
+
+### ART 5.
+
+In artikel 8.1.1/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2016 en gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2020, wordt de zinsnede ", type C" opgeheven.
+
+### ART 6.
+
+In artikel 8.1.1/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2016 en gewijzigd bij de besluiten van de Vlaamse Regering van 8 september 2017, 9 oktober 2020 en 11 december 2020, wordt de zinsnede ", type C" telkens opgeheven.
+
+### ART 7.
+
+In artikel 8.1.2, § 1, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2020 en 11 december 2020, wordt de zinsnede ", type C" opgeheven.
+
+### ART 8.
+
+In titel VIII van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt hoofdstuk II, dat bestaat uit artikel 8.2.1, opgeheven.
+
 ### ART 9.
 
 In artikel 9.2.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 15 juli 2016, 30 november 2018 en 9 oktober 2020, worden de volgende wijzigingen aangebracht :<br>
@@ -151,6 +177,10 @@ Aan titel IX, hoofdstuk II, afdeling II, van hetzelfde besluit, het laatst gewij
 <br>
 Art. 9.2.10/2. De gebruiker van een publiek gebouw met een bruikbare vloeroppervlakte van minstens 250 m<sup>2</sup> hangt het voorblad van een geldig energieprestatiecertificaat niet-residentiële gebouwen op een plaats die voor het publiek zichtbaar is in het gebouw waarop het betrekking heeft.".
 
+### ART 20.
+
+In titel IX, hoofdstuk II, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt afdeling IV, die bestaat uit artikel 9.2.12 tot en met 9.2.16, opgeheven.
+
 ### ART 21.
 
 Aan titel IX van het Energiebesluit van 19 november 2010, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, wordt hoofdstuk III, dat bestaat uit artikel 9.3.1 en artikel 9.3.2, opnieuw opgenomen in de volgende lezing :<br>
@@ -178,6 +208,23 @@ In afwijking van artikel 9.3.1 is een niet-residentieel gebouw dat een beschermd
 De minister kan nadere regels vaststellen over de wijze waarop aangetoond wordt dat het niet-residentiële gebouw onder de uitzonderingen, vermeld in het eerste en tweede lid valt.<br>
 <br>
 Art. 9.3.3. De verplichtingen zoals vermeld in artikel 9.3.1 worden opgelegd aan respectievelijk de eigenaar, de opstalhouder of de erfpachter. Wanneer er meerdere eigenaars, opstalhouders of erfpachters zijn, rust deze verplichting op elk van hen".
+
+### ART 22.
+
+In titel XI, hoofdstuk I, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 december 2020, worden in het opschrift van afdeling I de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", type C, " wordt vervangen door het woord "en";<br>
+2° de woorden "en de interne energiedeskundigen" worden opgeheven.
+
+### ART 23.
+
+In artikel 11.1.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 13 januari 2017, 8 september 2017, 9 oktober 2020 en 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de zinsnede ", type C" en de zinsnede ", en de interne energiedeskundigen" opgeheven;<br>
+2° in paragraaf 2 wordt de zinsnede ", type C" telkens opgeheven;<br>
+3° in paragraaf 2 worden de zinsnede ", of een interne energiedeskundige" en de zinsnede ", en in artikel 8.2.1 voor de interne energiedeskundige" opgeheven.
+
+### ART 24.
+
+In artikel 11.2.1, § 1, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 oktober 2020 en 11 december 2020, wordt de zinsnede ", of het erkenningsnummer of het registratienummer van energiedeskundige type C of een interne energiedeskundige" opgeheven.
 
 ### ART 25.
 
