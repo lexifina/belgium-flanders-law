@@ -110,15 +110,12 @@ Als de vergunninghouder binnen of gedurende een jaar geen gebruik gemaakt heeft 
 
 ### ART. 22.
 
-[Zijn vrijgesteld van variabele en vaste retributie:<br>
-<br>
+Zijn vrijgesteld van variabele en vaste retributie:<br>
 1° de tijdelijke activiteiten van sociale, culturele, pedagogische, caritatieve, godsdienstige, sportieve en recreatieve aard;<br>
-<br>
 2° de tijdelijke aankondigingen van de activiteiten, genoemd in 1°, evenals de politieke affichage;<br>
-<br>
 3° de bestendige constructies van algemeen belang, zoals openbare verlichting, rioleringen, hydranten, straatmeubilair, op voorwaarde dat de gemeente ze in het kader van artikel 135 van de Nieuwe Gemeentewet heeft aangebracht, of dat een vervoermaatschappij ze heeft aangebracht, en voorzover ze op geen enkele wijze inkomsten opbrengen;<br>
-<br>
-4° de toegangen tot woningen. (verv. B.V.R. 25 juni 2004, art. 4, I: 10 september 2004) ]
+4° de toegangen tot woningen.&nbsp;<br>
+5° de laadinfrastructuur voor elektrische voertuigen, vermeld in artikel 43, zevende lid, van het decreet.
 
 ## HOOFDSTUK IX BESTAANDE VERGUNNINGEN EN REGULARISATIES
 

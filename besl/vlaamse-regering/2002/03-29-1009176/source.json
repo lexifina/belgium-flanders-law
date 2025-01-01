@@ -2,16 +2,16 @@
   "codex_id": 1009176,
   "title": "Besluit van de Vlaamse Regering van 2002-03-29 betreffende het toekennen van vergunningen, het vaststellen en innen van retributies voor het privatieve gebruik van het openbaar domein van de wegen, de waterwegen en hun aanhorigheden, de zeewering en de dijken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009176/VolledigDocument?datum=2022-06-01",
-  "source_sha256": "e30a2ee3ac6e600f8604ab424d54ad3405fbe34e4ca23ea2ee5028409abab8cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009176/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "bbcd6245d892eda95324c5d8563922746fa1c3ff3f65a79df6c6edb070a1d8fa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009176&param=informatie",
-  "as_of": "2022-06-01",
+  "as_of": "2025-01-01",
   "made": "2002-03-29",
   "gazette": "2002-05-30",
   "numac": 2002035689,
   "document_start": "2002-06-01",
   "document_end": null,
-  "in_force": "2022-06-01",
+  "in_force": "2025-01-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2022-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
