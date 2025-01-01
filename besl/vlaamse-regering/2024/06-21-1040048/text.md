@@ -149,7 +149,38 @@ De bijlage bij hetzelfde besluit wordt opgeheven.
 
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 16 september 2016 tot vaststelling van de algemene erkennings- en subsidiëringsvoorwaarden voor de georganiseerde sportsector
 
+### ART 13.
+
+In artikel 16, §1, eerste lid, van het besluit van de Vlaamse Regering van 16 september 2016 tot vaststelling van de algemene erkennings- en subsidiëringsvoorwaarden voor de georganiseerde sportsector, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2022, wordt tussen het woord “score” en het woord “op” de zinsnede “in het werkingsjaar x-2” ingevoegd.
+
+### ART 14.
+
+In artikel 18/6, §1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 september 2022, wordt tussen het woord “score” en het woord “op” de zinsnede “in het werkingsjaar x-2” ingevoegd.
+
+### ART 15.
+
+In bijlage 3 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 8 januari 2021, 3 september 2021 en 9 september 2022, wordt een punt 10°/1 ingevoegd, dat luidt als volgt:<br>
+“10°/1 frisbee”.
+
+### ART 16.
+
+In bijlage 4 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2022, worden de volgende wijzigingen aangebracht:<br>
+1° de zinnen “Bestaat er een document dat bepaalt dat het bestuursorgaan de reële en de gewenste profielen bij het ontstaan van elke vacature evalueert? Kan de organisatie aantonen dat die evaluatie conform deze verplichting heeft plaatsgevonden?” worden vervangen door de zin “Bestaat er een document dat bepaalt dat het bestuursorgaan de reële en de gewenste profielen periodiek (minstens elke vier jaar) of wanneer een bestuursmandaat vacant wordt evalueert?”;<br>
+2° de zin “Beschikt de organisatie over een actueel document waarin de afbakening van taken en bevoegdheden tussen het bestuursorgaan, de algemene vergadering, de directie en (als die aanwezig zijn) de comités beschreven is” wordt vervangen door de zin “Beschikt de organisatie over een actueel document waarin de afbakening van taken en bevoegdheden tussen het bestuursorgaan, de algemene vergadering en (als die aanwezig zijn) de comités beschreven is?”;<br>
+3° de zinnen “Bepalen de statuten van de organisatie welke onverenigbaarheden er zijn met lidmaatschap van het bestuursorgaan?<br>
+Daarin worden minstens de volgende situaties opgenomen als onverenigbaar:<br>
+1) de combinatie met een vertegenwoordigende of strategische functie in een bedrijf dat een commerciële band heeft met de organisatie, 2) een familiale band (eerste of tweede graad) met een personeelslid en 3) de combinatie met een functie in een rechtsprekend orgaan binnen de organisatie.” worden vervangen door de zinnen “Bepalen de statuten van de organisatie welke onverenigbaarheden er zijn met lidmaatschap van het bestuursorgaan? Daarin worden minstens de volgende situaties opgenomen als onverenigbaar:&nbsp;<br>
+1) de combinatie met een vertegenwoordigende of strategische functie in een bedrijf dat een commerciële band heeft met de organisatie;<br>
+2) een familiale band (eerste of tweede graad) met personeelsleden die een strategische, beleidsmatige of inhoudelijke functie hebben;&nbsp;<br>
+3) de combinatie met een functie in een rechtsprekend orgaan binnen de organisatie.”.
+
 ## Hoofdstuk 4. Wijzigingen van het besluit van de Vlaamse Regering van 16 september 2016 betreffende de uitvoering van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector inzake de vaststelling van de voorwaarden om een subsidie te verkrijgen voor de uitvoering van de beleidsfocussen jeugdsport, kansengroepen, innovatie, sportkampen, rationalisatie en professionalisering in sportkaderopleidingen
+
+### ART 17.
+
+In artikel 13 van het besluit van de Vlaamse Regering van 16 september 2016 betreffende de uitvoering van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector inzake de vaststelling van de voorwaarden om een subsidie te verkrijgen voor de uitvoering van de beleidsfocussen jeugdsport, kansengroepen, innovatie, sportkampen, rationalisatie en professionalisering in sportkaderopleidingen, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid, 9°, en in het derde lid, 9°, wordt de zinsnede “/afschrijving” opgeheven;<br>
+2° in het tweede lid, 10°, derde lid, 10°, vierde lid, 6°, en vijfde lid, 8°, worden de woorden “specifieke kosten” vervangen door de woorden “afschrijvingen en specifieke kosten”.
 
 ## Hoofdstuk 5. Slotbepalingen
 
