@@ -2,16 +2,16 @@
   "codex_id": 1023967,
   "title": "Besluit van de Vlaamse Regering van 2014-03-21 betreffende de stimuleringsregeling voor de audiovisuele sector, vermeld in artikel 184/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023967/VolledigDocument?datum=2014-04-04",
-  "source_sha256": "0419d5ad1c16789b02e4c6bf7ca4cd19800e67ea173a9748a9b4d560c315855e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023967/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "e836f6fb5ca725f2ecf1591ba9ca2ac3a05914af398a080abcb17447bcf46807",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023967&param=informatie",
-  "as_of": "2014-04-04",
+  "as_of": "2025-01-01",
   "made": "2014-03-21",
   "gazette": "2014-04-03",
   "numac": 2014035376,
   "document_start": "2014-04-04",
   "document_end": "2024-12-31",
-  "in_force": "2014-04-04",
+  "in_force": "2025-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2014-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
