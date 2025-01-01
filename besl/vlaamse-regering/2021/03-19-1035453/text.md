@@ -63,7 +63,8 @@ Een erkend dierenasiel komt in aanmerking voor een forfaitaire basissubsidie van
 3° het erkende dierenasiel voert een gezond financieel beleid dat diverse inkomstenbronnen bevat, beschikt over een transparante financiële werking, voert een realistische begroting en beschikt over financiële jaarverslagen;<br>
 4° het erkende dierenasiel verbindt zich ertoe om in het jaar waarin de subsidieaanvraag wordt ingediend, telefonisch bereikbaar en beschikbaar te zijn tussen 9u en 17u om in beslag genomen dieren te transporteren en op te vangen, en ondertekent de intentieverklaring daarover die de dienst op zijn website ter beschikking stelt;<br>
 5° het gebruikt het computerprogramma Animal Shelter;<br>
-6° als er te adopteren dieren zijn, biedt het dierenasiel minstens 75% van de te adopteren dieren ter adoptie aan via de website adopteereendier.be.
+6° als er te adopteren dieren zijn, biedt het dierenasiel minstens 75% van de te adopteren dieren ter adoptie aan via de website adopteereendier.be;<br>
+8° de vaste personeelsleden in loondienst die voltijds tewerkgesteld zijn en instaan voor de verzorging van de dieren, zijn in het bezit van een diploma of getuigschrift als vermeld in artikel 5, §1, van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren.
 
 ## Afdeling 3. Aantal opvangplaatsen
 
