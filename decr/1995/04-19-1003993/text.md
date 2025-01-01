@@ -25,7 +25,7 @@ a) de volle eigendom;<br>
 b) het recht van opstal of van erfpacht;<br>
 c) het vruchtgebruik;<br>
 10° ...;<br>
-11° basisstudie: de studie die een gedetailleerd voorstel van de uit te voeren saneringswerkzaamheden, de te realiseren herbestemming, een kostprijsraming en een tijdtabel voor de uitvoering bevat. De basisstudie vormt een wezenlijk onderdeel van de eigenlijke aanvraag om financiële ondersteuning, zoals bedoeld in artikel 43 van dit decreet;<br>
+11° ...;<br>
 12° ...;<br>
 13° ....<br>
 14° ....<br>
@@ -228,59 +228,23 @@ De aanvaarding van de schrapping heeft rechtsgevolgen vanaf de datum   van&nbsp;
 
 <P>...</P>
 
-## HOOFDSTUK IV [FINANCIËLE ONDERSTEUNING VAN SANERINGSWERKZAAMHEDEN IN HET KADER VAN DE VERNIEUWING (verv. decr. 18 juni 2021, art. 4, I: 1 oktober 2021)]
+## HOOFDSTUK IV ...
 
 ### ART. 42.
 
-§ 1. Binnen de beschikbare kredieten kan financiële steun worden toegekend voor de sanering van een bedrijfsruimte.<br>
-<br>
-Die financiële steun bedraagt:<br>
-1° 60% van de kosten van de saneringswerkzaamheden als de aanvrager aantoont dat het saneringsvoorstel en de te realiseren herbestemming substantieel bijdragen aan een of meer van de volgende doelstellingen:<br>
-a) de verhoging van het ruimtelijk rendement;<br>
-b) de ontharding en vergroening;<br>
-c) de transitie naar hernieuwbare energie en klimaatneutraliteit;<br>
-d) de versterking van de verweving van activiteiten, of van gedeeld of meervoudig ruimtegebruik;<br>
-2° 30% van de kosten van de saneringswerkzaamheden in alle andere gevallen.<br>
-<br>
-De financiële steun kan worden aangevraagd vanaf de datum waarop de bedrijfsruimte twee opeenvolgende jaren in de inventaris is opgenomen.<br>
-<br>
-Afhankelijk van de beschikbare kredieten kan de Vlaamse Regering steeds beslissen om maar een basissubsidie van 30% van de kosten van de sanerings- werkzaamheden toe te kennen.<br>
-<br>
-Om in aanmerking te komen voor de financiële steun moeten bij de uitvoering van de saneringswerkzaamheden de principes van water- en energiezuinigheid, circulair slopen en klimaattransitie gerespecteerd worden. De Vlaamse Regering kan nadere regels bepalen voor de water- en energiezuinigheid, het circulair slopen en de klimaattransitie.<br>
-<br>
-Om in aanmerking te komen voor de financiële steun mag bij de vernieuwing geen vergunningsplichtige zonevreemde functiewijziging ter uitvoering van artikel 4.4.23 van de Vlaamse Codex Ruimtelijke Ordening worden doorgevoerd in een of meer van de bedrijfsgebouwen, of in de bijbehorende bedrijfswoning.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels om in aanmerking te komen voor de financiële steun, vermeld in het tweede lid, 1°.<br>
-<br>
-§ 2. De financiële steun, vermeld in paragraaf 1, tweede lid, kan alleen worden aangevraagd door een eigenaar die hoogstens twee jaar eigenaar is van de bedrijfsruimte, te rekenen vanaf de datum van het verlijden van de authentieke akte.<br>
-<br>
-De volgende vennootschappen en personen worden evenwel niet beschouwd als een eigenaar als vermeld in het eerste lid:<br>
-1° de vennootschappen waarin de vroegere eigenaar of eigenaars van het onroerend goed rechtstreeks of onrechtstreeks participeren;<br>
-2° bloed- en aanverwanten tot en met de derde graad.<br>
-<br>
-§ 3. De verleende financiële steun is van toepassing op de werkelijk gedragen kosten, na aftrek van de eventuele opbrengst van de saneringswerkzaamheden, exclusief de btw. Het bedrag van die kosten bedraagt minstens 24.750 euro. De financiële steun voor de saneringswerkzaamheden wordt maar toegekend voor zover bij het bestek van de werkzaamheden een postgewijze verantwoording gevoegd is.<br>
-<br>
-Als de werkelijk gedragen saneringskosten, na aftrek van de eventuele opbrengst van de saneringswerkzaamheden, lager zijn dan de geraamde kosten in de basisstudie, wordt de subsidie berekend op basis van de werkelijke kosten, zoals die blijken uit de vorderingsstaten van de aannemer.<br>
-<br>
-Als de werkelijk gedragen saneringskosten, na aftrek van de eventuele opbrengst van de saneringswerkzaamheden, hoger zijn dan de geraamde kosten in de basisstudie, wordt de subsidie berekend op basis van de werkelijke kosten, zoals die blijken uit de vorderingsstaten van de aannemer, met een beperking van die verhoging tot maximaal 10% van de geraamde kosten
+...
 
 ### ART. 43.
 
-De Vlaamse regering bepaalt de voorwaarden waaraan de eigenlijke aanvraag tot financiële ondersteuning moet voldoen alsmede de procedure voor behandeling van de aanvraag.
+...
 
 ### ART. 44.
 
-§ 1. ...<br>
-<br>
-§ 2. De saneringswerkzaamheden dienen te geschieden met machtneming van het decreet van 25 april 2014 betreffende de omgevingsvergunning. Indien bij de saneringswerkzaamheden ook de verwijdering van afbraakmateriaal met inbegrip van afvalstoffen is opgenomen, dienen de bepalingen van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen&nbsp;in acht genomen te worden.<br>
-<br>
-§ 3. Dezelfde saneringswerkzaamheden kunnen voor dezelfde leegstaande en/of verwaarloosde bedrijfsruimte slechts eenmaal voor financiële steunverlening in het kader van dit decreet in aanmerking komen.<br>
-<br>
-Er kan geen financiële steun voor de saneringswerkzaamheden worden toegekend als voor dezelfde leegstaande en/of verwaarloosde bedrijfsruimte ook financiële steun voor de verwerving ervan werd toegekend.
+...
 
 ### ART. 45.
 
-Werkzaamheden waarvoor reeds andere subsidies of tegemoetkomingen zijn toegekend, komen niet in aanmerking voor financiële steun in het kader van dit decreet, behoudens de subsidies die in mindering worden gebracht van het door het&nbsp;BRV-fonds, vermeld in artikel 1.6.1 van de Vlaamse Codex Ruimtelijke Ordening te dragen aandeel.
+...
 
 ### ART. 46.
 
@@ -288,20 +252,15 @@ Werkzaamheden waarvoor reeds andere subsidies of tegemoetkomingen zijn toegekend
 
 ### ART. 47.
 
-[De Vlaamse regering bepaalt de voorwaarden voor uitbetaling van de financiële steun, bedoeld in artikel 42. (verv. decr. 20 december 1996, art. 92, I: 1 januari 1997) ]
+...
 
 ### ART. 48.
 
-Onverminderd het bepaalde in artikel 50, § 1, is de financiële steun onmiddellijk terugvorderbaar, te vermeerderen met de wettelijke intresten, indien:<br>
-1° het werk definitief wordt stopgezet zonder dat de vernieuwing is beëindigd zoals bepaald in de basisstudie. Onder definitieve stopzetting van het werk dient te worden verstaan elke stillegging van meer dan 3 maanden die niet kan worden gerechtvaardigd door overmacht;<br>
-2° is vastgesteld dat het werk niet overeenstemt met de basisstudie;<br>
-3° het werk niet binnen de voorgeschreven termijnen zoals vermeld in de basisstudie, is uitgevoerd, behoudens rechtvaardiging door overmacht;<br>
-4° de voorwaarden zoals bepaald in artikel 42 en 45 niet worden nageleefd;<br>
-5° binnen een termijn van tien jaar na de goedkeuring van de definitieve subsidie in een of meer van de bedrijfsgebouwen, of in de bijbehorende bedrijfswoning een vergunningsplichtige zonevreemde functiewijziging wordt doorgevoerd ter uitvoering van artikel 4.4.23 van de Vlaamse Codex Ruimtelijke Ordening.
+...
 
 ### ART. 49.
 
-Er wordt ambtshalve een wettelijke hypothecaire inschrijving genomen ten voordele van het Vlaamse Gewest op de goederen die daarvoor in aanmerking komen en in het Vlaamse Gewest gelegen zijn en die toebehoren aan de aanvrager van de in artikel 42, § 1, bedoelde financiële steun. Deze neemt rang op de datum van inschrijving.
+...
 
 ## HOOFDSTUK V ONTEIGENING TOT ALGEMEEN NUT
 
