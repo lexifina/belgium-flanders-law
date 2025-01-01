@@ -38,11 +38,16 @@ Het algemeen welzijnswerk heeft tot doel : <br />1° de toegankelijkheid van de 
 
 ## Afdeling III. Taken
 
-## Onderafdeling I. Centra voor teleonthaal
+## Onderafdeling I. Centrum voor teleonthaal
 
 ### ART. 5.
 
-Elk centrum voor teleonthaal heeft tot taak : <br />1° op permanente basis hulpverlening, crisisopvang, informatie en advies te verstrekken via de telefoon of een ander elektronisch communicatiemiddel, met bijzondere aandacht voor zelfdodingspreventie;<br />2° zo nodig gericht door te verwijzen naar andere personen of diensten;<br />3° situaties te signaleren die een negatieve weerslag hebben op de integriteit, het welzijn en de ontplooiingskansen van personen en te wijzen op ontwikkelingen met betrekking tot de welzijnsbehoeften.<br /><br />De Vlaamse Regering kan de taken, vermeld in het eerste lid, concretiseren of aanvullen.
+Het centrum voor teleonthaal heeft tot taak :<br>
+1° op permanente basis hulpverlening, crisisopvang, informatie en advies te verstrekken via de telefoon of een ander elektronisch communicatiemiddel, met bijzondere aandacht voor zelfdodingspreventie;<br>
+2° zo nodig gericht door te verwijzen naar andere personen of diensten;<br>
+3° situaties te signaleren die een negatieve weerslag hebben op de integriteit, het welzijn en de ontplooiingskansen van personen en te wijzen op ontwikkelingen met betrekking tot de welzijnsbehoeften.<br>
+<br>
+De Vlaamse Regering kan de taken, vermeld in het eerste lid, concretiseren of aanvullen.
 
 ## Onderafdeling II. Centra voor algemeen welzijnswerk
 
