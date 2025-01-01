@@ -2,16 +2,16 @@
   "codex_id": 1039527,
   "title": "Besluit van de Vlaamse Regering van 2024-02-23 tot wijziging van het Fokkerijbesluit van 17 mei 2019",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039527/VolledigDocument?datum=2024-06-29",
-  "source_sha256": "7a6c108a49982246f45e0d9dd060de4140f0698af90f02d5ee240dbf73c15dc3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039527/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "5ca6404c082994d4d1a32f450d96dab184ef7be4f0de32c06378bd4c09f67385",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039527&param=informatie",
-  "as_of": "2024-06-29",
+  "as_of": "2025-01-01",
   "made": "2024-02-23",
   "gazette": "2024-03-26",
   "numac": 2024002793,
   "document_start": "2025-01-01",
   "document_end": null,
-  "in_force": "2024-06-29",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2024-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
