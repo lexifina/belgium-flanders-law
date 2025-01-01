@@ -14,6 +14,18 @@ De volgende vormvereisten zijn vervuld:&nbsp;<br>
 <br>
 DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BESLUIT:
 
+### ART 1.
+
+Het opschrift van het ministerieel besluit van 20 mei 2022 tot vaststelling van de nadere regels en technische vereisten, vermeld in artikels 6.4.1/1, 6.4.1/1/1, 6.4.1/5 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010, wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Ministerieel besluit tot vaststelling van de nadere regels en technische vereisten, vermeld in artikels 6.4.1/1, 6.4.1/1/1, 6.4.1/5, 6.4.1/1/4 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010”.
+
+### ART 2.
+
+In hetzelfde besluit wordt het opschrift van hoofdstuk 1 vervangen door wat volgt:<br>
+<br>
+“Hoofdstuk 1. Nadere regels en technische vereisten, vermeld in artikel 6.4.1/1, artikel 6.4.1/1/1, artikel 6.4.1/1/4, artikel 6.4.1/5 en artikel 6.4.1/5/1 van het Energiebesluit van 19 november 2010”.
+
 ### ART 3.
 
 In artikel 2 van hetzelfde besluit, wordt punt 7°, c), 7) opgeheven.&nbsp;
@@ -21,6 +33,16 @@ In artikel 2 van hetzelfde besluit, wordt punt 7°, c), 7) opgeheven.&nbsp;
 ### ART 4.
 
 In artikel 3, 2°, i), 8) van hetzelfde besluit, gewijzigd bij het besluit van 29 juni 2022, worden tussen de woorden “Europees productlabel” en de woorden “of het Europees pakketlabel” de woorden “, Europese productfiche” ingevoegd.
+
+### ART 5.
+
+Aan hetzelfde besluit wordt een artikel 3/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3/1. De ventilatievoorzieningen, vermeld in artikel 6.4.1/1/4, §2, vierde lid van het Energiebesluit van 19 november 2010, moeten voldoen aan de minimale ventilatievoorzieningen bepaald in deel IX.2 van bijlage 18/4 bij het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs en zoals blijkt uit het energieprestatiecertificaat residentiële gebouwen.”.
+
+### ART 6.
+
+In artikel 4 van hetzelfde besluit, wordt tussen de zinsnede “6.4.1/1/1,” en de zinsnede “6.4.1/5” de zinsnede “6.4.1/1/4,” ingevoegd.
 
 ### ART 7.
 
