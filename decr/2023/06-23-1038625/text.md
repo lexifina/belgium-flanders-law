@@ -39,13 +39,16 @@ In het eerste lid wordt verstaan onder transversale manier: de manier waarop ver
 
 ### ART 4.
 
-Om de participatie in het vrijetijdsaanbod en in het bijzonder in het cultuur-, jeugd- en sportaanbod te consolideren, te verhogen en te verbreden, subsidieert de Vlaamse Regering publiq op voorwaarde dat publiq de strategische doelstelling heeft om participatie te stimuleren en te faciliteren via communicatie-, marketing- en informatiediensten. De ontwikkelde aanpak is gestoeld op een bewezen expertise in het veld.<br>
+Om de participatie in het vrijetijdsaanbod en in het bijzonder in het cultuur-, jeugd- en sportaanbod te consolideren, te verhogen en te verbreden, subsidieert de Vlaamse Regering publiq op voorwaarde dat publiq de strategische doelstelling heeft om participatie te stimuleren en te faciliteren via communicatie-, marketing- en informatiediensten. De ontwikkelde aanpak is gestoeld op een bewezen expertise in het veld, alsook het ontwikkelen van expertise en trajecten in kader van de participatie van kansengroepen.<br>
 <br>
 Bij de uitvoering van de strategische doelstelling, vermeld in het eerste lid:<br>
 1° richt publiq zich prioritair op een actieve exploitatie van een digitaal platform waarin diverse instrumenten geïntegreerd zijn die participatie bevorderen;<br>
-2° zet publiq in op informatie- en communicatietechnologie in functie van de participatie van kansengroepen;<br>
+2° zet publiq in op informatie- en communicatietechnologie, alsook op aanvullende strategieën in functie van de participatie van kansengroepen;<br>
 3° richt publiq zich zowel rechtstreeks tot het publiek als onrechtstreeks via partnerschappen met lokale besturen, andere collectieve actoren en alle organisatoren van vrijetijdsactiviteiten, met de nadruk op de sectoren cultuur, jeugd- werk en sport;<br>
-4° verbindt publiq zich ertoe de opgedane kennis over participatie met de vrijetijdssector te delen in zijn ecosysteem.
+4° verbindt publiq zich ertoe de opgedane kennis over participatie met de vrijetijdssector te delen in zijn ecosysteem;<br>
+5° neemt publiq de rol op van expertisecentrum voor vrijetijdsparticipatie van kansengroepen in cultuur, jeugd en sport, vertrekkend vanuit de leefwereld en het perspectief van deze doelgroep. Het voormelde impliceert:<br>
+a)&nbsp;&nbsp; &nbsp;ondersteuning op het niveau van visie en methodes;<br>
+b)&nbsp;&nbsp; &nbsp;het faciliteren van samenwerkingsverbanden en concrete projecten.
 
 ### ART 4/1.
 
