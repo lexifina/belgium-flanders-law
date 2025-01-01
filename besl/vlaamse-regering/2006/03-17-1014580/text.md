@@ -10,7 +10,7 @@
 
 Voor de toepassing van dit besluit wordt verstaan onder :<br>
 1° agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br>
-2° ...<br>
+2°: G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen;<br>
 3° verwijzende instanties : de instanties, vermeld in artikel 22 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap, die door het agentschap zijn erkend om een multidisciplinair verslag op te maken;<br>
 4° ...<br>
 5° personen met een handicap: personen met een handicap zoals bedoeld in artikel 2, 2°, van het decreet van 7 mei 2004;<br>
@@ -299,15 +299,13 @@ De algemene erkenningsvoorwaarden, vastgesteld ter uitvoering van artikel 47 van
 
 ### ART. 42.
 
-§ 1. Het agentschap verleent het Platform jaarlijks subsidies. Het subsidiebedrag bedraagt maximaal 600.000 euro per jaar.<br>
+§1. Het agentschap verleent het Platform jaarlijks subsidies. Het subsidiebedrag bedraagt maximaal 600.000 euro per jaar.<br>
 <br>
-§ 2. Maximaal 25 % van het subsidiebedrag, vermeld in § 1, kan aangewend worden voor werkingskosten, uitrustingskosten en centrale beheerskosten in verband met de coördinatie van de werking van het Platform en de logistieke ondersteuning. Minstens 75 % wordt aangewend voor personeelskosten.<br>
+§2. Maximaal 25 % van het subsidiebedrag, vermeld in § 1, kan aangewend worden voor werkingskosten, uitrustingskosten en centrale beheerskosten in verband met de coördinatie van de werking van het Platform en de logistieke ondersteuning. Minstens 75 % wordt aangewend voor personeelskosten.<br>
 <br>
 De loonschalen alsmede de verplaatsings- en onkostenvergoedingen voor ambtenaren, die van toepassing zijn bij de Vlaamse Gemeenschap, gelden als maximum voor de uitgaven inzake personeelskosten van het Platform.<br>
 <br>
-§ 3. Het maximumsubsidiebedrag, vermeld in § 1, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2005. De subsidiebedragen worden telkens op 1 januari van het jaar aangepast volgens de formule :<br>
-subsidiebedrag x index 1 januari kalenderjaar/ basisindex 1 januari 2006<br>
-&nbsp;
+§3. Het maximumsubsidiebedrag, vermeld in paragraaf 1, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART. 43.
 
@@ -351,9 +349,7 @@ De opdracht van de vereniging bestaat erin de vertegenwoordiging van de verwijze
 
 Het agentschap verleent de vereniging van verwijzende instanties jaarlijks subsidies. Het subsidiebedrag bedraagt maximaal 300.000 euro per jaar.<br>
 <br>
-Het maximumsubsidiebedrag, vermeld in het eerste lid, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2011. Het subsidiebedrag wordt telkens op 1 januari van het kalenderjaar aangepast volgens de formule :<br>
-<br>
-subsidiebedrag x index 1 januari kalenderjaar/basisindex 1 januari 2011<br>
+Het maximumsubsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 &nbsp;
 
 ## [TITEL IV/1 Contactorganisaties (ing. BVR 18 februari 2011, art. 43, I: 1 maart 2010)]
