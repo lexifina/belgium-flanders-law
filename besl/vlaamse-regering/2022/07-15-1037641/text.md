@@ -30,10 +30,9 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 Voor de woonmaatschappij die erkend is voor het werkingsgebied Gent-Oost, wordt de verhouding van de stemrechten tussen de gemeenten en OCMW’s die in dat werkingsgebied liggen, op de volgende wijze vastgesteld:<br>
-1°&nbsp;&nbsp; &nbsp;gemeente Laarne: 14,09%;<br>
-2°&nbsp;&nbsp; &nbsp;gemeente Lochristi: 22,17%;<br>
-3°&nbsp;&nbsp; &nbsp;gemeente Wachtebeke: 25,88%;<br>
-4°&nbsp;&nbsp; &nbsp;gemeente Wetteren: 37,86%.<br>
+1°&nbsp;&nbsp; &nbsp;gemeente Laarne: 16,57%;<br>
+2°&nbsp;&nbsp; &nbsp;gemeente Lochristi: 40,95%;<br>
+3°&nbsp;&nbsp; &nbsp;gemeente Wetteren: 42,48%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
