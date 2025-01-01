@@ -94,9 +94,15 @@ Een subsidie als vermeld in het eerste lid, kan worden aangewend voor:<br>
 <br>
 Minstens 80% van het subsidiebedrag, vermeld in het eerste lid, wordt aangewend voor personeelskosten. Maximaal 20% mag worden aangewend voor werkingskosten.<br>
 <br>
-Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: het maximale geïndexeerde subsidiebedrag van het voorgaande jaar x G-index van december van het voorgaande jaar/G-index van december van het jaar daarvoor.<br>
+Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 Als uit de evaluatie van het jaarverslag, vermeld in artikel 10 van dit besluit, of het jaarverslag, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, blijkt dat het agentschap te veel subsidies heeft betaald, wordt het te veel betaalde bedrag teruggevorderd.
+
+### ART 9/1.
+
+Naast de subsidie, vermeld in artikel 9, eerste lid, kent het agentschap aan de opdrachthouder Consulentenwerking die is erkend voor de provincie Antwerpen, een subsidie van maximaal 80.000 euro (tachtigduizend euro) per jaar toe.<br>
+<br>
+De uitbetaling, aanwending en indexering van het subsidiebedrag, vermeld in het eerste lid, is onderworpen aan de regels en de voorwaarden, vermeld in artikel 9, tweede tot en met het zesde lid. Voor de toepassing van de regels en de voorwaarden, vermeld in artikel 9, tweede tot en met het zesde lid, wordt het subsidiebedrag, vermeld in artikel 9, eerste lid, en het subsidiebedrag, vermeld in het eerste lid, samengeteld en beschouwd als één subsidiebedrag.
 
 ### ART 10.
 
