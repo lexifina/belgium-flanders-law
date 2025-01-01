@@ -45,6 +45,7 @@ a) werken of diensten aan:<br>
 13) cultuurgoederen;<br>
 b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monumenten en de cultuurgoederen die er integrerend deel van uitmaken;<br>
 11° /1 gezondheidsindex: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994;<br>
+11° /2 kerkenbeleidsplan: kerkenbeleidsplan vermeld in artikel 33/2 van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten;<br>
 12° kostenraming: een lijst met posten van de beoogde maatregelen, werkzaamheden en diensten, met aanduiding van de benodigde hoeveelheden en hun vermoedelijke kostprijs, al dan niet gebaseerd op de goedgekeurde lijst met forfaitaire werkzaamheden;<br>
 12° /1 ...;<br>
 12° /2 ...;<br>
@@ -2611,7 +2612,7 @@ Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premi
 3° een onderzoekspremie;<br>
 4° een premie voor archeologisch vooronderzoek met ingreep in de bodem;<br>
 5° een premie voor buitensporige opgravingskosten;<br>
-6° een belastingvermindering, als vermeld in artikel 145/36 van het Wetboek van de inkomstenbelastingen 1992;<br>
+6° ...;<br>
 7° een verlaging van de schenkbelasting, als vermeld in artikel 2.8.4.4.1 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 8° een verlaging van de verkooprechten, als vermeld in artikel 2.9.4.2.10 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 9° een erfgoedpremie volgens de bijzondere procedure;<br>
@@ -2688,7 +2689,7 @@ De erfgoedpremie bedraagt 40 % van de aanvaarde kostenraming, exclusief   btw.<B
 ### ART. 11.2.10.
 
 Een verhoogde erfgoedpremie van 60% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor het beheer van of voor werkzaamheden of diensten aan of in:<br>
-1° beschermde monumenten die bestemd zijn voor een erkende eredienst. De verhoogde premie kan alleen worden toegekend als er een actueel kerkenbeleidsplan bestaat voor de gebouwen van een erkende eredienst, met uitzondering van de kathedralen;<br>
+1° beschermde monumenten die voor een erkende eredienst zijn bestemd. Voor gebouwen van de rooms-katholieke eredienst, met uitzondering van de kathedralen, kan alleen een verhoogde premie toegekend worden als ze in een actueel kerkenbeleidsplan aangewezen zijn voor ander gebruik dan de eredienst in de vorm van valorisatie, medegebruik, neven- of herbestemming;<br>
 2° beschermde goederen die eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, welzijnsvereniging of een woonmaatschappij, die een publieksfunctie hebben, tenzij ze in hoofdzaak een commerciële of andere bestemming hebben die economische opbrengsten genereert. Als het gebouw bestemd is voor de eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1° ;<br>
 3° onderwijsgebouwen;<br>
 4° als monument beschermde, maalvaardige en voor het publiek ontsloten molens;<br>
@@ -2775,7 +2776,7 @@ Het premiedossier bevat de volgende elementen, als die van toepassing zijn:<br>
 3° een beschrijving van de geplande handelingen;<br>
 4° een motivering van de geplande handelingen, in voorkomend geval met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan of de motivatie waarom een beheersplan niet nodig is;<br>
 5° een kostenraming met uitsplitsing per post of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werken;<br>
-6° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd;<br>
+6° bij beschermde monumenten die bestemd zijn voor de rooms-katholieke eredienst: het actuele kerkenbeleidsplan van de gemeente in kwestie;<br>
 7° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
 8° in het geval, vermeld in artikel 11.2.12, § 2, de statuten van de stichting of de vereniging, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de stichting of vereniging.<br>
 <br>
@@ -2926,7 +2927,7 @@ Het premiedossier bevat de volgende elementen, als die van toepassing zijn:<br>
 3° een beschrijving van de geplande handelingen;<br>
 4° een motivering van de geplande handelingen, in voorkomend geval met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan;<br>
 5° een kostenraming met uitsplitsing per post of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werken;<br>
-6° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd;<br>
+6° bij beschermde monumenten die bestemd zijn voor de rooms-katholieke eredienst: het actuele kerkenbeleidsplan van de gemeente in kwestie;<br>
 7° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
 8° in het geval vermeld in artikel 11.2.12, § 2, de statuten van de stichting of de vereniging, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de stichting of de vereniging;<br>
 9° alle relevante documenten over de aanstelling van de ontwerper, of de motivatie waarom er geen ontwerper hoeft te worden aangesteld;<br>
@@ -3068,7 +3069,7 @@ De onderzoekspremie wordt berekend op basis van de aanvaarde kostenraming.   Er 
 1° ...<br>
 2° historisch en historisch-archivalisch, bouwtechnisch, materiaaltechnisch, of stabiliteitstechnisch voorafgaand onderzoek, of archeologisch vooronderzoek;<br>
 3° voorafgaand onderzoek naar de kwaliteit van houtige beplanting met erfgoedwaarde en de groeiplaats ervan, met inbegrip van de analyse van de impact van geplande ingrepen;<br>
-4° bestemmings- en herbestemmingsonderzoek;<br>
+4° bestemmings- en herbestemmingsonderzoek. Voor gebouwen van de rooms-katholieke eredienst, met uitzondering van de kathedralen, kan alleen een onderzoekspremie toegekend worden als ze in een actueel kerkenbeleidsplan aangewezen zijn voor ander gebruik dan de eredienst in de vorm van neven- of herbestemming;<br>
 5° het laten uitvoeren van een energieaudit van een beschermd monument.<br>
 <br>
 De minister kan de nadere regels daarvoor bepalen.</p>
@@ -3096,7 +3097,8 @@ De werken of diensten waarvoor een onderzoekspremie wordt gevraagd, mogen pas wo
 2° een beschrijving van de geplande handelingen;<br>
 3° een motivering van de geplande handelingen;<br>
 4° een kostenraming;<br>
-5° een voorstel van toewijzing van de opdracht, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit, vermeld in afdeling 5.</p>
+5° een voorstel van toewijzing van de opdracht, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit, vermeld in afdeling 5;<br>
+6° bij gebouwen van de rooms-katholieke eredienst, met uitzondering van de kathedralen: het actuele kerkenbeleidsplan van de gemeente in kwestie.</p>
 
 <p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
@@ -3504,52 +3506,35 @@ De toelage wordt jaarlijks beschikbaar gesteld in de vorm van het volgende voors
 <br>
 Het agentschap brengt het erkende archeologische solidariteitsfonds schriftelijk op de hoogte van de resultaten van de beoordeling. Als er bij de beoordeling ernstige tekortkomingen worden vastgesteld, wordt het saldo niet of gedeeltelijk uitbetaald.
 
-## [Afdeling 9 Vermindering personenbelasting (ing. BVR 23 november 2018, art. 3, I: aanslagjaar 2019)]
+## Afdeling 9 ...
 
-## [Onderafdeling 1. Voorwaarden waaraan beheersmaatregelen, werkzaamheden en diensten moeten voldoen om in aanmerking te komen voor de belastingvermindering (ing. BVR 23 november 2018, art. 3, I: aanslagjaar 2019)]
+## Onderafdeling 1. ...
 
 ### ART 11.9.1.
 
-De volgende uitgaven komen in aanmerking voor de belastingvermindering, vermeld in artikel 14536 van het Wetboek van de inkomstenbelastingen 1992:<br>
-1° de uitgaven voor beheersmaatregelen, werken of diensten die opgenomen zijn in een door de minister vastgestelde exhaustieve lijst met werkzaamheden;<br>
-2° de uitgaven voor beheersmaatregelen, werken of diensten die vermeld zijn in een goedgekeurd en op het ogenblik van de uitgaven geldig beheersplan;<br>
-3° de uitgaven voor noodzakelijk voorafgaand onderzoek in het kader van de beheersmaatregelen, werken of diensten, vermeld in punt 1° en 2°.<br>
-<br>
-De beheersmaatregelen, werkzaamheden of diensten, vermeld in het eerste lid, moeten conform de regelgeving over het onroerend erfgoed zijn uitgevoerd.
+...
 
-## [Onderafdeling 2. Aanvragen en verlenen van het attest voor de belastingvermindering (ing. BVR 23 november 2018, art. 3, I: aanslagjaar 2019)]
+## Onderafdeling 2. ...
 
 ### ART 11.9.2.
 
-De belastingplichtige dient de attestaanvraag voor de belastingvermindering, vermeld in artikel 14536 van het Wetboek van de inkomstenbelastingen 1992, in bij het agentschap.<br>
-<br>
-Het aanvraagdossier bevat:<br>
-1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
-2° een beschrijving van de uitgevoerde beheersmaatregelen, werken of diensten of van het voorafgaande onderzoek in het kader hiervan;<br>
-3° betalingsbewijzen die aantonen dat de uitgaven volledig betaald zijn;<br>
-4° een verklaring van de belastingplichtige dat de uitgaven, vermeld in artikel 11.9.1, voldoen aan de voorwaarden voor de toepassing van de belastingvermindering, vermeld in artikel 14536 van het Wetboek van de inkomstenbelastingen 1992.<br>
-<br>
-De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.
+...
 
 ### ART 11.9.3.
 
-De belastingplichtige dient de attestaanvraag in bij het agentschap vóór 15 januari van het jaar dat volgt op het jaar waarin de uitgaven, vermeld in artikel 11.9.1, zijn gedaan.
+...
 
 ### ART 11.9.4.
 
-Het agentschap verleent per belastingplichtige één attest per jaar waarin uitgaven zijn gedaan.<br>
-<br>
-Als de belastingplichtige al een attest heeft gekregen, kan hij, in geval van gewijzigde omstandigheden, een wijziging van attest aanvragen bij het agentschap vóór 15 januari van het jaar dat volgt op het jaar waarin de uitgaven, vermeld in artikel 11.9.1, zijn gedaan. Het gewijzigde attest vervangt het eerder verleende attest.
+...
 
 ### ART 11.9.5.
 
-Als niet voldaan is aan de voorwaarden voor het verkrijgen van een attest, ontvangt de aanvrager een weigering van het agentschap en, in voorkomend geval, opmerkingen over de wijze waarop de aanvraag moet worden aangepast om een attest te verkrijgen. Een aangepaste aanvraag komt tegemoet aan die opmerkingen en kan conform artikel 11.9.2 opnieuw worden ingediend.<br>
-<br>
-Als de aanvrager de weigering ontvangt na 15 januari van het jaar dat volgt op het jaar waarin de uitgaven, vermeld in artikel 11.9.1, zijn gedaan, wordt de nieuwe aanvraag opnieuw ingediend binnen vijftien dagen na de dag van de ontvangst van de weigering.
+...
 
 ### ART 11.9.6.
 
-Het agentschap bezorgt het attest aan de aanvrager.
+...
 
 ## [Afdeling 10. Premie voor archeologisch vooronderzoek met ingreep in de bodem (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
