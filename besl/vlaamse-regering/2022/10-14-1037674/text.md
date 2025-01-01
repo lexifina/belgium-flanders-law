@@ -181,6 +181,10 @@ Aan artikel 479 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt 
 <br>
 "Dit artikel is niet van toepassing op tegemoetkomingen die betrekking hebben op de factureringsperiode van 1 januari 2023 tot en met 31 december 2023.".
 
+### ART 14.
+
+In artikel 479 van hetzelfde besluit, gewijzigd bij dit besluit, wordt het derde lid opgeheven.
+
 ### ART 15.
 
 In artikel 480, §1, vierde lid, van hetzelfde besluit worden tussen het woord "uitzendcontract" en de zinsnede ", of die werkzaam zijn" de woorden "vanuit een uitzendbureau dat de bevoegde overheid heeft erkend" ingevoegd.
@@ -191,6 +195,10 @@ In artikel 482 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 1° de woorden "een aantal van bachelors" worden vervangen door de woorden "een aantal bachelors";<br>
 2° er wordt een tweede lid toegevoegd, dat luidt als volgt:&nbsp;<br>
 "In afwijking van het eerste lid wordt voor de factureringsperiode van 1 januari 2023 tot en met 31 december 2023, een aantal bachelors in de verpleegkunde die de norm voor verpleegkundigen, vermeld in artikel 429 en 430, opvullen, gefinancierd volgens de loonkosten van een bachelor in de verpleegkunde, in de factureringsperiode van 1 januari 2023 tot en met 31 december 2023, ongeacht of er een personeelstekort is als vermeld in artikel 479 of artikel 483, §2. Het aantal bachelors in de verpleegkunde dat op die wijze wordt gefinancierd, bedraagt maximaal 30% van de theoretische norm voor verpleegkundigen, vermeld in artikel 476, §1.".
+
+### ART 17.
+
+In artikel 482 van hetzelfde besluit, gewijzigd bij dit besluit, wordt het tweede lid opgeheven.
 
 ### ART 18.
 
@@ -220,6 +228,10 @@ c) de logistiek medewerker in de zorg heeft minstens 60 studiepunten behaald op 
 d) de logistiek medewerker is actief ingeschreven in een opleiding tot verpleegkundige of zorgkundige;<br>
 e) de logistiek medewerker heeft met succes een EVC-traject doorlopen dat competenties bevat van logistiek assistent in de zorg of ermee verwant is in een door de Vlaamse overheid erkend EVC-testcentrum, zoals bepaald in artikel 6 van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties en verwierf een bewijs van beroepskwalificatie. De minister bepaalt de bewijzen van beroepskwalificatie die recht geven op een tewerkstelling als logistiek medewerker in de zorg.<br>
 De voorziening bewijst op eerste verzoek van het agentschap dat aan de voorwaarden, vermeld in het vierde lid, is voldaan en levert de nodige bewijsstukken om dat te staven.".
+
+### ART 19.
+
+In artikel 487, §1, van hetzelfde besluit, gewijzigd bij dit besluit, wordt het tweede lid opgeheven.
 
 ### ART 20.
 
