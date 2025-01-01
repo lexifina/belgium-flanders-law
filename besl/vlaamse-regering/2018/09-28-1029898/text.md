@@ -141,11 +141,15 @@ De persoon met een handicap die ondersteuning geniet als vermeld in artikel 6, �
 
 ### ART 10.
 
-§ 1. De vergunde zorgaanbieders die een individuele dienstverleningsovereenkomst hebben geregistreerd waarbij wordt voorzien in ondersteuning als vermeld in artikel 6, § 1, worden door het agentschap gesubsidieerd voor 87 personeelspunten en een bedrag van 6481 euro als werkingstoelagen per persoon op jaarbasis.<br>
+§1. In dit artikel wordt verstaan onder G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+§1/1. De vergunde zorgaanbieders die een individuele dienstverleningsovereenkomst hebben geregistreerd waarbij wordt voorzien in ondersteuning als vermeld in artikel 6, § 1, worden door het agentschap gesubsidieerd voor 87 personeelspunten en een bedrag van 6481 euro als werkingstoelagen per persoon op jaarbasis.<br>
 <br>
 In voorkomend geval wordt het aantal personeelspunten en het bedrag van de werkingstoelagen pro rata aangepast, rekening houdend met de effectieve duur van de geregistreerde individuele dienstverleningsovereenkomst.<br>
 <br>
-§ 2. Maximaal 3 % van de personeelspunten die subsidieerbaar zijn conform paragraaf 1, kan worden omgezet in werkingsmiddelen tegen een bedrag per punt.<br>
+Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
+<br>
+§2. Maximaal 3 % van de personeelspunten die subsidieerbaar zijn conform paragraaf 1, kan worden omgezet in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
 Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
@@ -153,7 +157,7 @@ De werkingsmiddelen, vermeld in het eerste lid, mogen niet aangewend worden voor
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>

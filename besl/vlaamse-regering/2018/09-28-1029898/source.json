@@ -2,16 +2,16 @@
   "codex_id": 1029898,
   "title": "Besluit van de Vlaamse Regering van 2018-09-28 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029898/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "cd81e6c5f69205ce314780a10476c38da52bb6d8bcb201cdb729d581575fba11",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029898/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "d3651e958ad3338a3e187f266e8952748744e60ff848db5857589c9ffcb28d14",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029898&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2025-01-01",
   "made": "2018-09-28",
   "gazette": "2018-11-13",
   "numac": 2018032117,
   "document_start": "2018-10-15",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2025-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
