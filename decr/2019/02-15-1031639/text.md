@@ -15,9 +15,9 @@ Dit decreet regelt een gemeenschapsaangelegenheid en, wat de artikelen 74, 75 en
 § 1. In dit decreet wordt verstaan onder:<br>
 1° entiteit: een koepelterm voor zowel een woongelegenheid in een woonzorgcentrum, een verblijfseenheid in een centrum voor kortverblijf of een centrum voor herstelverblijf of een centrum voor dagverzorging, als een assistentiewoning in een groep van assistentiewoningen;<br>
 2° gebruiker: iedere natuurlijke persoon die vanuit een verminderd zelfzorgvermogen een beroep doet of kan doen op woonzorg;<br>
-3° geïntegreerde zorg en ondersteuning: het op operationeel en organisatorisch niveau samenwerken van alle betrokken zorg- en welzijnsactoren en initiatieven van vrijwillige en informele zorg in het streven naar een samenhangende en continue zorg en ondersteuning aan de gebruiker en zijn mantelzorgers, waarbij de zorg- en ondersteuningsvraag en de context van de gebruiker het uitgangspunt vormen en dat gedurende de hele levensloop;<br>
+3° geïntegreerde zorg en ondersteuning: het op operationeel en organisatorisch niveau samenwerken van alle betrokken zorg- en welzijnsactoren en initiatieven van vrijwillige en informele zorg in het streven naar een samenhangende en continue zorg en ondersteuning aan de gebruiker en zijn mantelzorgers, waarbij de zorg- en ondersteuningsnood en de context van de gebruiker het uitgangspunt vormen en dat gedurende de hele levensloop;<br>
 4° initiatiefnemer: de rechtspersoon die een woonzorgvoorziening of een vereniging uitbaat of zal uitbaten;<br>
-5° integrale zorg en ondersteuning: de zorg en ondersteuning die een persoon met een zorg- en ondersteuningsvraag als geheel benadert, rekening houdend met aspecten van medische, psychosociale, levensbeschouwelijke en culturele aard en ook met factoren uit het dagelijks leven;<br>
+5° integrale zorg en ondersteuning: de zorg en ondersteuning die een persoon met een zorg- en ondersteuningsnood als geheel benadert, rekening houdend met aspecten van medische, psychosociale, levensbeschouwelijke en culturele aard en ook met factoren uit het dagelijks leven;<br>
 5° /1 koepelorganisatie: een vennootschap naar Belgisch of buitenlands recht, een vzw, een stichting of een vereniging naar buitenlands recht met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mag uitkeren of bezorgen behalve voor het in de statuten bepaalde belangeloze doel waarin erkende woonzorgvoorzieningen of verenigingen vertegenwoordigd zijn, en die de belangen van die woonzorgvoorzieningen of verenigingen behartigt;<br>
 6° mantelzorger: de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met verminderd zelfzorgvermogen, niet beroepshalve maar meer dan occasioneel, helpt en ondersteunt in het dagelijkse leven;<br>
 7° natuurlijk thuismilieu: de plaats waar de gebruiker effectief woont of inwoont, met uitsluiting van het woonzorgcentrum;<br>
@@ -35,8 +35,8 @@ Dit decreet regelt een gemeenschapsaangelegenheid en, wat de artikelen 74, 75 en
 19° woonzorgvoorziening: een lokaal dienstencentrum, een thuiszorgvoorziening, een groep van assistentiewoningen of een woonzorgcentrum;<br>
 20° zelfzorgvermogen: het vermogen om als natuurlijke persoon beslissingen en acties in het dagelijkse leven uit te voeren om te voldoen aan zijn basisbehoeften, en de bijbehorende activiteiten. Die activiteiten kunnen onder meer betrekking hebben op de uitvoering van huishoudelijke activiteiten, het leggen van sociale contacten en de mogelijkheid om zich te ontplooien en zich te oriënteren in tijd en ruimte;<br>
 21° zorg en ondersteuning: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, die uitgevoerd worden in het kader van dit decreet. Met zorg en ondersteuning wordt gelijkgesteld: hulp- en dienstverlening;<br>
-22° zorg- en ondersteuningsplan: een werkinstrument waarin, na vraagverheldering of indicatiestelling, op aangeven van en in samenspraak met de gebruiker de zorg- en ondersteuningsdoelstellingen en de afspraken over de geplande zorg en ondersteuning voor een persoon met een zorg- en ondersteuningsvraag zijn opgenomen, en dat toegankelijk is voor de persoon zelf en de betrokken informele en professionele zorg- en welzijnsactoren;<br>
-23° zorg- en ondersteuningsvraag: de nood aan zorg en ondersteuning die door de gebruiker of zijn omgeving subjectief aangevoeld of objectief vastgesteld wordt.<br>
+22° zorg- en ondersteuningsplan: een zorg- en ondersteuningsplan als vermeld in artikel 2, 17°, van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
+23° zorg- en ondersteuningsnood: de nood aan zorg en ondersteuning die door de gebruiker of zijn omgeving subjectief aangevoeld of objectief vastgesteld wordt.<br>
 <br>
 § 2. Met de gebruiker, vermeld in paragraaf 1, 2°, wordt ook zijn vertegenwoordiger bedoeld.<br>
 <br>
@@ -77,14 +77,14 @@ In het eerste lid, 8°, wordt verstaan onder aanklampende zorg: de ongevraagde z
 In het eerste lid, 9°, wordt verstaan onder:<br>
 1° vroegtijdige zorgplanning: een continu en dynamisch proces van reflectie en dialoog tussen de gebruiker, zijn naasten en de zorgverlener(s), waarbij toekomstige zorg- en ondersteuningsdoelen besproken en gepland kunnen worden die de besluitvorming bevorderen op het ogenblik dat de gebruiker niet meer in staat is zijn wil te uiten;<br>
 2° palliatieve zorg: een benadering die de kwaliteit van het leven verbetert van gebruikers en hun naasten die te maken hebben met een levensbedreigende aandoening, lijden te voorkomen en verlichten, door middel van vroegtijdige signalering en zorgvuldige beoordeling en behandeling van pijn en andere problemen van lichamelijke, psychosociale en existentiële aard;<br>
-3° levenseindezorg: de zorg en ondersteuning die beantwoordt aan de wensen van de persoon met een zorg- en ondersteuningsvraag, meer bepaald die wensen en zorg- en ondersteuningsvragen die gericht zijn op de laatste levensfase.<br>
+3° levenseindezorg: de zorg en ondersteuning die beantwoordt aan de wensen van de persoon met een zorg- en ondersteuningsnood, meer bepaald die wensen en zorg- en ondersteuningsnoden die gericht zijn op de laatste levensfase.<br>
 <br>
 In het eerste lid, 15°, wordt verstaan onder zorgrelatie: de relationele band die in het kader van woonzorg ontstaat tussen de gebruiker en de persoon die zorg en ondersteuning verleent.<br>
 <br>
 § 2. Woonzorgvoorzieningen en verenigingen nemen al de volgende organisatorische werkingsprincipes in acht:<br>
 1° ze werken mee aan en faciliteren buurtgerichte zorg;<br>
 2° ze besteden bijzondere aandacht aan preventie en vroegdetectie;<br>
-3° ze stellen het zorg- en ondersteuningsaanbod algemeen beschikbaar voor de doelgroep van de woonzorgvoorziening, met een bijzondere aandacht voor de zorg- en ondersteuningsvragen van kwetsbare groepen;<br>
+3° ze stellen het zorg- en ondersteuningsaanbod algemeen beschikbaar voor de doelgroep van de woonzorgvoorziening, met een bijzondere aandacht voor de zorg- en ondersteuningsnoden van kwetsbare groepen;<br>
 4° ze zetten de in de woonzorgvoorziening aanwezige expertise en ervaring in op een bepaald domein bij middel van objectieve en transparante informatie- of adviesverstrekking, buiten de context van de eigen woonzorgvoorziening;<br>
 5° ze voeren een beleid rond ethisch verantwoorde zorg;<br>
 6° ze voeren een diversiteitsbeleid ten aanzien van de gebruikers en de personeelsleden;<br>
@@ -93,14 +93,14 @@ In het eerste lid, 15°, wordt verstaan onder zorgrelatie: de relationele band d
 9° ze signaleren op een beleidsgerichte manier belemmerende factoren in het aanbieden van de woonzorg;<br>
 10° ze voeren een beleid rond vorming, training en intervisie om de deskundigheid van het personeel en het management te bevorderen;<br>
 11° ze bieden de minst ingrijpende zorg;<br>
-12° ze nemen sociale inclusie en destigmatisering van personen met een zorg- en ondersteuningsvraag als uitgangspunt, zowel op individueel als op publiek vlak;<br>
+12° ze nemen sociale inclusie en destigmatisering van personen met een zorg- en ondersteuningsnood als uitgangspunt, zowel op individueel als op publiek vlak;<br>
 13° ze garanderen kwaliteit van bestuur en management;<br>
 14° ze waarborgen financiële en bestuurlijke weerbaarheid en transparantie;<br>
 15° ze voeren een dynamisch personeelsbeleid met het oog op werkbaar werk en zorg op maat;<br>
 16° ze zetten in op innovatie en digitalisering van zorg- en ondersteuningsprocessen en gegevensdeling;<br>
 17° ze zetten middelen efficiënt en effectief in.<br>
 <br>
-In het eerste lid, 1°, wordt verstaan onder buurtgerichte zorg: de zorg die erop gericht is de sociale cohesie te versterken, vragen naar zorg en ondersteuning uit de buurt op te vangen, gebruikers indien nodig toe te leiden naar gepaste zorg en ondersteuning of die zelf op te nemen, maar ook de buurt actief te betrekken bij de werking van de voorziening door een actieve samenwerking op lokaal vlak, afgestemd met het lokaal sociaal beleidsplan, onder regie van het lokaal bestuur zoals bepaald in het decreet van 9 februari 2018 houdende het lokaal sociaal beleid.<br>
+In het eerste lid, 1°, wordt verstaan onder buurtgerichte zorg: de zorg die erop gericht is de sociale cohesie te versterken, noden aan zorg en ondersteuning uit de buurt op te vangen, gebruikers indien nodig toe te leiden naar gepaste zorg en ondersteuning of die zelf op te nemen, maar ook de buurt actief te betrekken bij de werking van de voorziening door een actieve samenwerking op lokaal vlak, afgestemd met het lokaal sociaal beleidsplan, onder regie van het lokaal bestuur zoals bepaald in het decreet van 9 februari 2018 houdende het lokaal sociaal beleid.<br>
 <br>
 In het eerste lid, 2°, wordt verstaan onder vroegdetectie: het geheel van activiteiten die tot doel hebben signalen te herkennen die kunnen wijzen op een beginnend of een bestaand gezondheids- of welzijnsrisico of probleem bij een gebruiker binnen een bepaalde woon- en zorgcontext.
 
@@ -213,7 +213,7 @@ De Vlaamse Regering kan bepalen welke andere opdrachten een lokaal dienstencentr
 
 ### ART 11.
 
-Een dienst voor gezinszorg is een woonzorgvoorziening die als doelstelling heeft aan gebruikers met een zorg- en ondersteuningsvraag aan huis of buitenshuis individueel of collectief gezinszorg te bieden die er specifiek op gericht is de gebruiker en zijn mantelzorger te ondersteunen en te handhaven in zijn natuurlijk thuismilieu.
+Een dienst voor gezinszorg is een woonzorgvoorziening die als doelstelling heeft aan gebruikers met een zorg- en ondersteuningsnood aan huis of buitenshuis individueel of collectief gezinszorg te bieden die er specifiek op gericht is de gebruiker en zijn mantelzorger te ondersteunen en te handhaven in zijn natuurlijk thuismilieu.
 
 ### ART 12.
 
@@ -256,7 +256,7 @@ De Vlaamse Regering kan bepalen welke andere opdrachten een dienst voor gezinszo
 
 ### ART 15.
 
-Een dienst voor oppashulp is een woonzorgvoorziening die als doelstelling heeft gebruikers met een zorg- en ondersteuningsvraag en hun mantelzorgers te ondersteunen in de thuiszorgsituatie door oppashulp met vrijwilligers en verenigingswerkers te bieden.
+Een dienst voor oppashulp is een woonzorgvoorziening die als doelstelling heeft gebruikers met een zorg- en ondersteuningsnood en hun mantelzorgers te ondersteunen in de thuiszorgsituatie door oppashulp met vrijwilligers en verenigingswerkers te bieden.
 
 ### ART 16.
 
@@ -282,7 +282,7 @@ Met behoud van de toepassing van artikel 38, tweede lid, bepaalt de Vlaamse Rege
 3° het verplichte gebruik van steriel materiaal;<br>
 4° de verplichte aanwezigheid van het nodige materiaal dat voor de verzorging aan huis wenselijk is.<br>
 <br>
-Het gebruikersdossier, vermeld in het eerste lid, 2°, is het document dat per gebruiker, op basis van een evaluatie van het zelfzorgvermogen en een omschrijving van de zorg- en ondersteuningsvraag, weergeeft welke passende zorg en ondersteuning de dienst voor thuisverpleging wil aanbieden of nodig acht en dat kan worden bijgestuurd naargelang de evoluerende zorg- en ondersteuningsvraag. Dat dossier maakt de bij voorkeur digitale uitwisseling van gegevens tussen de verpleegkundigen van de dienst enerzijds, en tussen verpleegkundigen van de dienst thuisverpleging en de woonzorgvoorzieningen anderzijds mogelijk met als doel de zorg en ondersteuning aan de gebruiker continu en optimaal te laten verlopen.
+Het gebruikersdossier, vermeld in het eerste lid, 2°, is het document dat per gebruiker, op basis van een evaluatie van het zelfzorgvermogen en een omschrijving van de zorg- en ondersteuningsnood, weergeeft welke passende zorg en ondersteuning de dienst voor thuisverpleging wil aanbieden of nodig acht en dat kan worden bijgestuurd naargelang de evoluerende zorg- en ondersteuningsnood. Dat dossier maakt de bij voorkeur digitale uitwisseling van gegevens tussen de verpleegkundigen van de dienst enerzijds, en tussen verpleegkundigen van de dienst thuisverpleging en de woonzorgvoorzieningen anderzijds mogelijk met als doel de zorg en ondersteuning aan de gebruiker continu en optimaal te laten verlopen.
 
 ## Onderafdeling 4. Dienst maatschappelijk werk van het ziekenfonds
 
@@ -339,7 +339,7 @@ De Vlaamse Regering kan bepalen welke andere opdrachten een dienst voor gastopva
 
 ### ART 23.
 
-Een centrum voor dagverzorging is een woonzorgvoorziening waar in een aangepaste infrastructuur gedurende de dag zorg en ondersteuning wordt aangeboden aan personen met een zorg- en ondersteuningsvraag, met het oog op respijtzorg.
+Een centrum voor dagverzorging is een woonzorgvoorziening waar in een aangepaste infrastructuur gedurende de dag zorg en ondersteuning wordt aangeboden aan personen met een zorg- en ondersteuningsnood, met het oog op respijtzorg.
 
 ### ART 24.
 
@@ -363,7 +363,7 @@ De Vlaamse Regering bepaalt aan welke specifieke doelgroepen en onder welke voor
 
 ### ART 25.
 
-Een centrum voor kortverblijf is een woonzorgvoorziening waar in een aangepaste infrastructuur gedurende een beperkte periode zorg en ondersteuning aangeboden wordt aan personen met een zorg- en ondersteuningsvraag met het oog op respijtzorg.
+Een centrum voor kortverblijf is een woonzorgvoorziening waar in een aangepaste infrastructuur gedurende een beperkte periode zorg en ondersteuning aangeboden wordt aan personen met een zorg- en ondersteuningsnood met het oog op respijtzorg.
 
 ### ART 26.
 
@@ -380,7 +380,7 @@ b) psychosociale, agogische en existentiële ondersteuning;<br>
 8° de continuïteit van de zorg en ondersteuning van thuis naar het centrum voor kortverblijf en van het centrum voor kortverblijf naar thuis of een thuisvervangende omgeving waarborgen.<br>
 <br>
 Naast de opdrachten, vermeld in het eerste lid, verricht het centrum voor kortverblijf minstens één van de volgende opdrachten, waardoor de volgende drie types van centra voor kortverblijf onderscheiden worden:<br>
-1° een centrum voor kortverblijf type 1, waarin respijtzorg voor ouderen met een zorg- en ondersteuningsvraag aangeboden wordt;<br>
+1° een centrum voor kortverblijf type 1, waarin respijtzorg voor ouderen met een zorg- en ondersteuningsnood aangeboden wordt;<br>
 2° een centrum voor kortverblijf type 2, waarin respijtzorg voor andere specifieke doelgroepen vanaf 18 jaar aangeboden wordt;<br>
 3° een centrum voor kortverblijf type 3, waarin respijtzorg voor ernstig zieke kinderen en jongeren tot en met 21 jaar aangeboden wordt.<br>
 <br>
@@ -430,7 +430,7 @@ De groep van assistentiewoningen heeft de volgende opdrachten:<br>
 7° buurtbewoners en lokale organisaties verbinden met de werking van de groep van assistentiewoningen;<br>
 8° een woonassistent aanstellen om de opdrachten, vermeld in punt 2° tot en met 7°, te realiseren.<br>
 <br>
-In het eerste lid, 2°, wordt verstaan onder noodoproep: een zorg- en ondersteuningsvraag van de gebruiker via het oproepsysteem en die 24 op 24 uur onmiddellijk, zonder uitstel, wordt beantwoord, eventueel via een spreekluistersysteem.<br>
+In het eerste lid, 2°, wordt verstaan onder noodoproep: een zorg- en ondersteuningsnood van de gebruiker via het oproepsysteem en die 24 op 24 uur onmiddellijk, zonder uitstel, wordt beantwoord, eventueel via een spreekluistersysteem.<br>
 <br>
 In het eerste lid, 2°, wordt verstaan onder:<br>
 1° crisiszorg: een onmiddellijke en aangepaste interventie in geval van een noodsituatie die niet vooraf kan worden ingeschat en waarin onmiddellijk zorg en ondersteuning moet worden geboden. Een noodsituatie is daarbij een situatie waar de fysieke, psychische, sociale en materiële veiligheid en gezondheid van de gebruiker bedreigd is of wordt;<br>
@@ -460,7 +460,7 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de toestemming.
 
 ### ART 33.
 
-Een woonzorgcentrum is een woonzorgvoorziening waar in een aangepaste infrastructuur en binnen een organisatorisch geheel zorg en ondersteuning wordt geboden in een thuisvervangend milieu aan ouderen met een complexe zorg- en ondersteuningsvraag, die er permanent verblijven.
+Een woonzorgcentrum is een woonzorgvoorziening waar in een aangepaste infrastructuur en binnen een organisatorisch geheel zorg en ondersteuning wordt geboden in een thuisvervangend milieu aan ouderen met een complexe zorg- en ondersteuningsnood, die er permanent verblijven.
 
 ### ART 34.
 
@@ -475,7 +475,7 @@ b) psychosociale, agogische en existentiële ondersteuning;<br>
 6° zinvolle dagbesteding en ontspanning organiseren of aanbieden;<br>
 7° de gebruiker activeren, ondersteunen en revalideren;<br>
 8° buurtbewoners en lokale organisaties verbinden met de werking van het woonzorgcentrum;<br>
-9° ervoor zorgen dat voor elke gebruiker een voor zorgverleners toegankelijk woonzorgleefplan wordt opgemaakt dat permanent wordt bijgewerkt en afgestemd is met de gebruiker, met als doel de zorg en ondersteuning aan de gebruiker continu, persoonsgericht en op maat te laten verlopen in functie van zijn evo-luerende zorg- en ondersteuningsvraag.<br>
+9° ervoor zorgen dat voor elke gebruiker een voor zorgverleners toegankelijk woonzorgleefplan wordt opgemaakt dat permanent wordt bijgewerkt en afgestemd is met de gebruiker, met als doel de zorg en ondersteuning aan de gebruiker continu, persoonsgericht en op maat te laten verlopen in functie van zijn evoluerende zorg- en ondersteuningsnood.<br>
 <br>
 In het eerste lid, 9°, wordt verstaan onder woonzorgleefplan: het plan dat door het woonzorgcentrum in aansluiting op het zorg- en ondersteuningsplan en in samenspraak met de gebruiker wordt opgemaakt en de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het wonen, de zorg en het leven in het woonzorgcentrum bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert.<br>
 <br>
@@ -690,7 +690,7 @@ De Vlaamse Regering kan een programmatie als vermeld in het eerste lid bepalen v
 
 § 1. Een initiatiefnemer die met het oog op de uitbating van een lokaal dienstencentrum, een centrum voor dagopvang van een dienst voor gezinszorg, een centrum voor dagverzorging, een centrum voor kortverblijf, een centrum voor herstelverblijf of een woonzorgcentrum wil bouwen of verbouwen, een bestaand gebouw alsdusdanig inrichten, zijn activiteiten wil verplaatsen of de capaciteit van zijn voorziening wil verhogen, is onderworpen aan de voorafgaande vergunning van de Vlaamse Regering. De Vlaamse Regering legt de procedure daarvoor vast, die de mogelijkheid bevat om een bezwaar in te dienen. De Vlaamse Regering kan bepalen dat voor de types van woonzorgvoorzieningen die ze aanwijst, de voorafgaande vergunning wordt verleend op basis van een oproep met het oog op de realisatie van die woonzorgvoorzieningen in het geografische gebied dat in de oproep wordt aangewezen.<br>
 <br>
-De voorafgaande vergunning kan alleen worden verleend als het initiatief past in de programmatie, vermeld in artikel 51, past binnen de meerjarenraming die op basis van artikel 6, § 2, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming door de Vlaamse Regering is vastgelegd en past in het kader van de globale zorgstrategische visie, waarvan de elementen door de Vlaamse Regering worden bepaald. Die elementen hebben onder meer betrekking op de zorg- en ondersteuningsvraag, de wijze waarop woonzorg zal worden aangeboden, de wijze waarop wordt afgestemd met de uitgangspunten van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders, de plaats van het initiatief binnen het geheel van bestaande woonzorgvoorzieningen en andere welzijnsvoorzieningen en zorgverleners en de samenwerking met die voorzieningen en zorgverleners en de wijze waarop wordt aangesloten op lokale beleidsintenties. De Vlaamse Regering kan aanvullende voorwaarden bepalen om de voorafgaande vergunning te verlenen.<br>
+De voorafgaande vergunning kan alleen worden verleend als het initiatief past in de programmatie, vermeld in artikel 51, past binnen de meerjarenraming die op basis van artikel 6, § 2, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming door de Vlaamse Regering is vastgelegd en past in het kader van de globale zorgstrategische visie, waarvan de elementen door de Vlaamse Regering worden bepaald. Die elementen hebben onder meer betrekking op de zorg- en ondersteuningsnood, de wijze waarop woonzorg zal worden aangeboden, de wijze waarop wordt afgestemd met de uitgangspunten van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders, de plaats van het initiatief binnen het geheel van bestaande woonzorgvoorzieningen en andere welzijnsvoorzieningen en zorgverleners en de samenwerking met die voorzieningen en zorgverleners en de wijze waarop wordt aangesloten op lokale beleidsintenties. De Vlaamse Regering kan aanvullende voorwaarden bepalen om de voorafgaande vergunning te verlenen.<br>
 <br>
 Het eerste en tweede lid zijn niet van toepassing op de groepen van assistentiewoningen, tenzij een programmatie wordt vastgesteld.<br>
 <br>
@@ -751,14 +751,14 @@ De Vlaamse Regering kan voor de woonzorgvoorzieningen en verenigingen in het twe
 
 § 1. In dit artikel wordt verstaan onder de algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
 <br>
-§ 2. Woonzorgvoorzieningen, verenigingen, partnerorganisaties als vermeld in artikel 60 en projecten als vermeld in artikel 61, verzamelen op een gestructureerde, systematische wijze gegevens over de gebruikers, hun mantelzorgers, de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders van de woonzorgvoorziening of vereniging, de aard van de zorg- en ondersteuningsvraag, de geboden woonzorg, de kwaliteit en het effect ervan, met als doel:<br>
-1° over de noodzakelijke informatie te beschikken die nodig is voor de zorg en ondersteuning aan de gebruiker, zodat de zorg en ondersteuning verleend door de woonzorgvoorziening zelf of in samenwerking met andere zorg- en welzijnsactoren passend wordt afgestemd op de evoluerende zorg- en ondersteuningsvraag van de gebruiker en het zorg- en ondersteuningstraject per gebruiker kan worden opgevolgd en bijgestuurd, waar nodig;<br>
+§ 2. Woonzorgvoorzieningen, verenigingen, partnerorganisaties als vermeld in artikel 60 en projecten als vermeld in artikel 61, verzamelen op een gestructureerde, systematische wijze gegevens over de gebruikers, hun mantelzorgers, de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders van de woonzorgvoorziening of vereniging, de aard van de zorg- en ondersteuningsnood, de geboden woonzorg, de kwaliteit en het effect ervan, met als doel:<br>
+1° over de noodzakelijke informatie te beschikken die nodig is voor de zorg en ondersteuning aan de gebruiker, zodat de zorg en ondersteuning verleend door de woonzorgvoorziening zelf of in samenwerking met andere zorg- en welzijnsactoren passend wordt afgestemd op de evoluerende zorg- en ondersteuningsnood van de gebruiker en het zorg- en ondersteuningstraject per gebruiker kan worden opgevolgd en bijgestuurd, waar nodig;<br>
 2° aan de Vlaamse overheid gegevens te bezorgen om haar in staat te stellen de woonzorg passend te financieren en haar woonzorgbeleid af te stemmen op de evoluerende maatschappelijke behoeften en de kwaliteit van de geboden woonzorg te monitoren conform het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen. Die gegevens zijn, waar mogelijk, geanonimiseerd;<br>
 3° over de noodzakelijke informatie over de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders te beschikken die noodzakelijk is om een kwaliteitsvol zorg- en ondersteuningsaanbod te kunnen garanderen en waar nodig bijzondere maatregelen te kunnen treffen.<br>
 <br>
 § 3. De persoonsgegevens die verzameld worden in het kader van dit decreet, worden verwerkt conform de regelgeving over de bescherming bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, eerste lid, 1), e), en artikel 10 van de algemene verordening gegevensbescherming en, wat gegevens over gezondheid als vermeld in artikel 9, eerste lid, van de algemene verordening gegevensbescherming betreft, op artikel 9, tweede lid, 2), h), van de algemene verordening gegevensbescherming.<br>
 <br>
-De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de algemene verordening gegevensbescherming, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.&nbsp;<br>
+De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de algemene verordening gegevensbescherming, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.<br>
 <br>
 De verwerking van persoonsgegevens vindt plaats met respect voor de rechten van de betrokken gebruikers en mantelzorgers.<br>
 <br>
@@ -775,44 +775,44 @@ De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, 
 <br>
 De persoonsgegevens van de gebruiker, vermeld in het eerste lid, worden minimaal tot twee jaar na het beëindigen van de zorg en ondersteuning aan de betrokken gebruiker bewaard en mogen maximaal tot vijf jaar na het beëindigen van de zorg en ondersteuning aan de betrokken gebruiker worden bewaard. Die persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
 <br>
-De persoonsgegevens van de personeelsleden, de vrijwilligers, de verenigingswerkers en de bestuurders worden bewaard tot tien jaar na de beëindiging van de arbeidsovereenkomst, het ondernemingscontract, het bestuursmandaat of het verenigings- of vrijwilligerswerk. Die persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
+De persoonsgegevens van de personeelsleden, de vrijwilligers, de verenigingswerkers en de bestuurders worden bewaard tot tien jaar na de beëindiging van de arbeidsovereenkomst, het ondernemingscontract, het bestuursmandaat of het verenigings- of vrijwilligerswerk. Die persoonsgegevens kunnen op elektronische wijze worden bewaard<br>
 <br>
 De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming:<br>
 1° de regels voor en de wijze van verwerking van de gegevens;<br>
-2° ...<br>
-3° ...<br>
+2° ...;<br>
+3° ...;<br>
 4° de vorm waarin en de wijze waarop gegevens worden uitgewisseld.<br>
 <br>
-§ 5.&nbsp;Om woonzorgvoorzieningen en verenigingen te vergunnen, te erkennen en te subsidiëren binnen de programmatie en voor het toezicht op de erkenningsvoorwaarden en de handhaving ervan, worden persoonsgegevens van de gebruiker, inclusief gegevens over gezondheid als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, en de persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders verwerkt door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+§5. Om woonzorgvoorzieningen en verenigingen te vergunnen, te erkennen en te subsidiëren binnen de programmatie en voor het toezicht op de erkenningsvoorwaarden en de handhaving ervan, worden persoonsgegevens van de gebruiker, inclusief gegevens over gezondheid als vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, en de persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders verwerkt door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
 In het kader van de doeleinden, vermeld in het eerste lid, verwerkt het voormelde Departement Zorg de volgende persoonsgegevens van de gebruiker:<br>
-1°&nbsp; de persoonsgegevens met het oog op de identificatie van de betrokken gebruiker, inclusief het Rijksregisternummer of bis-nummer;<br>
-2°&nbsp; de geboortedatum;<br>
-3°&nbsp; het geslacht;<br>
-4°&nbsp; de gemeente waar de hoofdverblijfplaats gelegen is;<br>
-5°&nbsp; de datum van overlijden;<br>
-6°&nbsp; de gezondheidsgegevens over de gebruiker;<br>
-7°&nbsp; de gegevens over de zorg en ondersteuning die door de woonzorgvoorziening wordt verleend;<br>
-8°&nbsp; de plaats waar de zorg en ondersteuning wordt verleend door de woonzorgvoorziening.<br>
+1° de persoonsgegevens met het oog op de identificatie van de betrokken gebruiker, inclusief het Rijksregisternummer of bis-nummer;<br>
+2° de geboortedatum;<br>
+3° het geslacht;<br>
+4° de gemeente waar de hoofdverblijfplaats gelegen is;<br>
+5° de datum van overlijden;<br>
+6° de gezondheidsgegevens over de gebruiker;<br>
+7° de gegevens over de zorg en ondersteuning die door de woonzorgvoorziening wordt verleend;<br>
+8° de plaats waar de zorg en ondersteuning wordt verleend door de woonzorgvoorziening.<br>
 <br>
 In het kader van de doeleinden, vermeld in het eerste lid, verwerkt het voormelde Departement Zorg de volgende persoonsgegevens van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders:<br>
-1° de persoonsgegevens met het oog op de identificatie van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders, inclusief het Rijks- registernummer of het bis-nummer;<br>
-2°&nbsp; de geboortedatum;<br>
-3°&nbsp; het geslacht;<br>
-4°&nbsp; de gemeente waar de hoofdverblijfplaats gelegen is;<br>
-5°&nbsp; de datum van overlijden;<br>
-6°&nbsp; de gegevens over de tewerkstelling van de personeelsleden;<br>
-7°&nbsp; de gegevens over de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders, namelijk:<br>
-a)&nbsp; de genoten opleiding;<br>
-b)&nbsp; de gegevens van het uittreksel uit het strafregister die noodzakelijk zijn om na te gaan of de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders geen eigenschappen hebben die onverzoenbaar zijn met hun functie.<br>
-&nbsp;<br>
+1° de persoonsgegevens met het oog op de identificatie van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders, inclusief het Rijksregisternummer of het bis-nummer;<br>
+2° de geboortedatum;<br>
+3° het geslacht;<br>
+4° de gemeente waar de hoofdverblijfplaats gelegen is;<br>
+5° de datum van overlijden;<br>
+6° de gegevens over de tewerkstelling van de personeelsleden;<br>
+7° de gegevens over de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders, namelijk:<br>
+&nbsp;&nbsp;a) de genoten opleiding;<br>
+&nbsp;&nbsp;b) de gegevens van het uittreksel uit het strafregister die noodzakelijk zijn om na te gaan of de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders geen eigenschappen hebben die onverzoenbaar zijn met hun functie.<br>
+<br>
 De Vlaamse Regering kan de persoonsgegevens, vermeld in het tweede en derde lid, nader preciseren.<br>
 <br>
 De persoonsgegevens, vermeld in het tweede lid, worden bewaard tot maximaal twee jaar na het beëindigen van de zorg en ondersteuning aan de gebruiker door een woonzorgvoorziening of vereniging. Die persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
 <br>
 De persoonsgegevens van de personeelsleden, vermeld in het derde lid, worden minimaal twee jaar en maximaal vijftig jaar bewaard. De persoonsgegevens van de vrijwilligers, verenigingswerkers en bestuurders, vermeld in het derde lid, worden bewaard tot maximaal vijf jaar na het einde van de activiteit als vrijwilliger, verenigingswerker of bestuurder en ten hoogste voor een termijn van vijftig jaar. De persoonsgegevens kunnen op elektronische wijze worden bewaard.<br>
 <br>
-De persoonsgegevens, vermeld in het tweede en derde lid, kunnen worden overgemaakt aan het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, voor zover die gegevens noodzakelijk zijn voor het uitvoeren van de opdrachten en taken van dat agentschap bepaald in of ter uit- voering van het voornoemde decreet van 18 mei 2018.<br>
+De persoonsgegevens, vermeld in het tweede en derde lid, kunnen worden overgemaakt aan het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, voor zover die gegevens noodzakelijk zijn voor het uitvoeren van de opdrachten en taken van dat agentschap bepaald in of ter uitvoering van het voornoemde decreet van 18 mei 2018.<br>
 <br>
 De Vlaamse Regering bepaalt, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, al de volgende elementen:<br>
 1° de regels voor de wijze van verwerking van de gegevens;<br>
