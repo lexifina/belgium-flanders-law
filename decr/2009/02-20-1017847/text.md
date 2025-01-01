@@ -69,15 +69,25 @@ Bij elke daling of stijging van het aantal opgenomen studiepunten met 2 % of mee
 
 ### ART. 4.
 
-§ 1. Naast de werkingsuitkering ontvangt de Hogere Zeevaartschool vanaf het begrotingsjaar 2009 een bedrag van 169.183 euro voor investeringsmiddelen en een bedrag van 18.839 euro voor eigenaarsonderhoud.<br>
+§1. Naast de werkingsuitkering ontvangt de Hogere Zeevaartschool een bedrag van 194.000 euro voor investeringsmiddelen (prijsniveau 2024).<br>
 <br>
-§ 2. Vanaf het begrotingsjaar 2011 wordt het bedrag van de investeringsmiddelen geïndexeerd volgens de evolutie van de gezondheidsindex.<br>
+§2. Vanaf het begrotingsjaar 2025 wordt het bedrag van de investeringsmiddelen, vermeld in paragraaf 1, geïndexeerd aan de hand van de indexeringsformule, vermeld in artikel III.46, §5, van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
 <br>
 § 3. De investeringsmiddelen dragen uitsluitend bij tot de dekking van de uitgaven voor de aankoop van gebouwen, voor gehele of gedeeltelijke nieuwbouw of verbouwing, voor de voorafgaande afbraakwerken, voor de omgevingswerken, voor de eerste uitrusting, voor de aankoop van gronden, voor de aankoop van didactische en wetenschappelijke apparatuur die bestemd is voor het onderwijs, en voor de onroerende investeringen voor de sociale voorzieningen, en tot dekking van de kapitaal- en intrestlasten die voortvloeien uit leningen voor de investeringsuitgaven.<br>
 <br>
 § 4. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in begrotingsjaar 2018 een eenmalige bijkomende investeringsdotatie van 10.000.000 euro.<br>
 <br>
-§ 5. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in het begrotingsjaar 2021 eenmalige bijkomende investeringsmiddelen ten bedrage van 100.000 euro.
+§ 5. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in het begrotingsjaar 2021 eenmalige bijkomende investeringsmiddelen ten bedrage van 100.000 euro.<br>
+<br>
+§6. Als aanvulling op het bedrag, vermeld in paragraaf 1, kan de Vlaamse Rege-ring in begrotingsjaar 2025 een eenmalige bijkomende investeringstoelage van 20.000.000 euro toekennen aan de Hogere Zeevaartschool in het kader van het renovatie- en nieuwbouwproject. De daaraan gekoppelde betaalkredieten worden over vijf jaar gespreid: 10 procent wordt uitbetaald in 2025, 20 procent in 2026, 30 procent in 2027, 20 procent in 2028 en 20 procent in 2029.<br>
+<br>
+De Hogere Zeevaartschool dient voor de toekenning een inhoudelijk dossier in bij de Vlaamse Regering dat minstens bestaat uit de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;een actuele en realistische bouwprijs met inbegrip van ecologische technieken;<br>
+2° &nbsp;&nbsp; &nbsp;een degelijke projectmatige opvolging van het bouwproces;<br>
+3° &nbsp;&nbsp; &nbsp;een regelmatige rapportering aan de regeringscommissaris;<br>
+4° &nbsp;&nbsp; &nbsp;een engagementsverklaring van externe partijen.<br>
+<br>
+De Vlaamse Regering is gemachtigd om het betalingsritme te koppelen aan eventueel bijkomende voorwaarden omtrent cofinanciering.
 
 ## HOOFDSTUK III. Overgangsbepalingen voor het personeel
 
