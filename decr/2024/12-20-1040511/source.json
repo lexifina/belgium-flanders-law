@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040511,
+  "title": "Decreet van 2024-12-20 tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap \"Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding\", wat de raad van bestuur betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040511/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "68122fc99dfe98e64a0d5cb68e9b70a3da4dee17e69c894dcba523050edb7e91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040511&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2024-12-20",
+  "gazette": "2024-12-30",
+  "numac": 2024011930,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
