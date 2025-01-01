@@ -1077,7 +1077,7 @@ De aangelegenheden die bij artikel 3 tot en met 13/1 aan de verschillende beleid
 
 ### ART 29/1.
 
-Voor het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie wordt het Vlaams ministerie van Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie opgericht, dat bestaat uit het departement Economie, Wetenschap en Innovatie, het departement Werk en Sociale Economie en de volgende agentschappen zonder rechtspersoonlijkheid:<br>
+Voor het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie wordt het Vlaams ministerie van Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie opgericht, dat bestaat uit het departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie en de volgende agentschappen zonder rechtspersoonlijkheid:<br>
 1°&nbsp;&nbsp; &nbsp;Agentschap Innoveren en Ondernemen;<br>
 2°&nbsp;&nbsp; &nbsp;Agentschap Landbouw en Zeevisserij;&nbsp;<br>
 3°&nbsp;&nbsp; &nbsp;Instituut voor Landbouw-, Visserij- en Voedingsonderzoek.&nbsp;<br>
