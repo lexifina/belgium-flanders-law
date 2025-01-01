@@ -276,29 +276,27 @@ De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het ope
 
 ### BIJLAGE
 
-Subsidieerbare sporttakken topsport voor de olympiade Parijs 2022-2024<br>
+Subsidieerbare sporttakken topsport voor de olympiade Los Angeles 2025-2028<br>
 <br>
 1° Categorie 1: de olympische disciplines van de volgende sporttakken, aangeboden door unisportfederaties van categorie A1:<br>
 a) atletiek;<br>
-b) badminton;<br>
-c) basketbal;<br>
-d) boksen: Engels boksen;<br>
-e) boogschieten;<br>
-f) gewichtheffen - powerliften;<br>
-g) golf;<br>
-h) gymnastiek;<br>
-i) hockey;<br>
-j) ijsschaatsen;<br>
-k) judo;<br>
-l) kano - kajak;<br>
-l/1) klimmen;<br>
+b) basketbal;<br>
+c) boksen: Engels boksen;<br>
+d) boogschieten;<br>
+e) gewichtheffen - powerliften;<br>
+f) golf;<br>
+g) gymnastiek;<br>
+h) hockey;<br>
+i) ijsschaatsen;<br>
+j) judo;<br>
+k) kano - kajak;<br>
+l) klimmen;<br>
 m) paardensport;<br>
 n) roeien;<br>
 o) rugby;<br>
-p) schermen;<br>
-q) schietsport;<br>
-q/1) skatesport;<br>
-r) skiën – snowboarden;<br>
+p) schietsport;<br>
+q) skatesport;<br>
+r) skiën - snowboarden;<br>
 s) taekwondo;<br>
 t) tafeltennis;<br>
 u) tennis;<br>
@@ -306,8 +304,11 @@ v) triatlon - duatlon;<br>
 w) voetbal;<br>
 x) volleybal;<br>
 y) wielrennen;<br>
-z) zeilen – surfen;<br>
+z) zeilen - surfen;<br>
 aa) zwemmen.<br>
+<br>
 2° Categorie 2: de paralympische disciplines van de sporttak G-sport, aangeboden door de unisportfederatie G-sport.<br>
+<br>
 3° Categorie 3: de disciplines van de sporttakken, aangeboden door unisportfederaties van categorie A2 of de unisportfederatie G-sport, die voor het eerst of opnieuw op het programma van de Olympische Spelen of Paralympische Spelen worden opgenomen na de lopende olympiade.<br>
+<br>
 4° Categorie 4: de sporttakken of disciplines die niet behoren tot de categorieën, vermeld in punt 1°, 2° of 3°, maar die wel door topsporters of topsporttalenten worden beoefend die deelnemen aan de Olympische Spelen, de Paralympische Spelen, de Youth Olympic Games, de European Games, het EYOF of de Wereldspelen.
