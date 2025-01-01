@@ -40,7 +40,7 @@ a) 29,9168% volgens het aantal inwoners in de steden Antwerpen en Gent;<br>
 b) 1,5956 % voor de stad Brugge;<br>
 c) 1,1167 % voor de stad Leuven;<br>
 d) 5,3433 % volgens het aantal inwoners in de volgende steden: Turnhout, Roeselare, Genk, Oostende, Hasselt, Sint-Niklaas, Kortrijk, Mechelen en Aalst;<br>
-e) 1,9945 % volgens het aantal inwoners in de volgende steden: Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geel, Halle, Herentals, leper, Knokke-Heist, Lier, Lokeren, Mol, Oudenaarde, Ronse, Sint-Truiden, Tielt, Tienen, Tongeren, Vilvoorde en Waregem;<br>
+e) 1,9945 % volgens het aantal inwoners in de volgende steden: Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geel, Halle, Herentals, leper, Knokke-Heist, Lier, Lokeren, Mol, Oudenaarde, Ronse, Sint-Truiden, Tielt, Tienen, Tongeren-Borgloon, Vilvoorde en Waregem;<br>
 f) 0,9972 % volgens het aantal inwoners in de gemeenten waarvan het grondgebied grenst aan de zee;<br>
 2° 7,9778 % voor de centrumfunctie:<br>
 a) 3,9889 % volgens de actieve bevolking, tewerkgesteld in de gemeente;<br>
@@ -98,6 +98,8 @@ Vanaf het eerste jaar van de tweede bestuursperiode is de toe te passen index ge
 § 1. Het berekende gemeentelijk aandeel, na de toepassing van de waarborgregeling, bedoeld in artikel 10 van dit decreet, wordt verminderd als de aanslagvoeten voor de aanvullende personenbelasting of de opcentiemen op de onroerende voorheffing van die gemeente, in het jaar dat aan de berekening voorafgaat, lager zijn dan de respectieve drempelwaarden van 5 % en&nbsp;441 opcentiemen. Die vermindering bedraagt respectievelijk 0,5 % voor elk tiende van een procent en vijfentwintig&nbsp;vierhonderdeenenveertigste procent voor elke opcentiem onder de drempelwaarde.<br>
 <br>
 Als de gemeente gedifferentieerde tarieven voor de opcentiemen op de onroerende voorheffing heeft vastgesteld overeenkomstig artikel 41 van het decreet van 22 december 2017 over het lokaal bestuur, wordt het eerste lid van toepassing als het gewogen gemiddelde van alle tarieven lager ligt dan de drempelwaarde van 441 opcentiemen. Voor de berekening van het gewogen gemiddelde wordt aan de verschillende tarieven een wegingsfactor toegekend die overeenstemt met het aandeel van het belastbaar kadastraal inkomen waarop elk tarief van toepassing is, in verhouding tot het totale belastbare kadastrale inkomen van de gemeente.<br>
+<br>
+In het geval van een samenvoeging van gemeenten wordt het eerste lid van toe-passing als het gewogen gemiddelde van de aanslagvoeten voor de aanvullende personenbelasting of van de opcentiemen op de onroerende voorheffing van de samen te voegen gemeenten, in het jaar dat aan de berekening voorafgaat, lager ligt dan de drempelwaarden van 5 procent of 441 opcentiemen. Voor de bereke-ning van het gewogen gemiddelde wordt aan de verschillende aanslagvoeten voor de aanvullende personenbelasting een wegingsfactor toegekend die overeenstemt met de opbrengst aan personenbelasting waarop elke aanslagvoet van toepassing is, in verhouding tot de totale opbrengst aan personenbelasting voor de samen te voegen gemeenten. Voor de berekening van het gewogen gemiddelde van de op-centiemen op de onroerende voorheffing wordt aan de verschillende tarieven een wegingsfactor toegekend die overeenstemt met het aandeel van het belastbaar kadastraal inkomen waarop elk tarief van toepassing is, in verhouding tot het to-tale belastbare kadastrale inkomen van de samen te voegen gemeenten.<br>
 <br>
 § 2. De som van de bedragen die in mindering wordt gebracht van de gemeenten bedoeld in § 1, wordt evenredig verdeeld onder de overige gemeenten, behalve onder de gemeenten van wie de aandelen overeenkomstig de bepalingen in artikel 10, verhoogd werden tot de gewaarborgde ontvangst.<br>
 <br>
@@ -223,8 +225,8 @@ Vanaf het begrotingsjaar 2018 worden aan de volgende gemeenten de volgende bedra
 3° Hasselt: 4.953.000,00 euro;<br>
 4° Kortrijk: 1.064.000 euro;<br>
 5° Waregem: 325.000 euro;<br>
-6° Moerbeke: 5700,00 euro;<br>
-7° Tongeren: 4.040.000,00 euro.<br>
+6° Lokeren: 5700,00 euro;<br>
+7° Tongeren-Borgloon: 4.040.000,00 euro.<br>
 <br>
 De bedragen die aan de gemeenten, vermeld in het eerste lid, worden toegekend,&nbsp;worden vanaf het begrotingsjaar 2019 elk jaar aangepast met een evolutiepercentage. Dat percentage is gelijk aan de procentuele verhouding, berekend tot op een honderdste van de eenheid, tussen het gezondheidsindexcijfer van de maand maart van het jaar dat het begrotingsjaar voorafgaat met dat van de maand maart van het daaraan voorafgaande jaar.<br>
 <br>
