@@ -202,8 +202,7 @@ In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het s
 
 ### ART. 17.
 
-Het bedrag, vermeld in artikel 16, tweede lid, wordt vanaf 1 januari 2022 jaarlijks aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule:<br>
-(basisbedrag x G-index december 20..)/G-index december 2020.
+Het bedrag, vermeld in artikel 16, tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ## HOOFDSTUK 7 Toezicht
 
