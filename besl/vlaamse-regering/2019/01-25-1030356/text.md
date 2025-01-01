@@ -131,7 +131,7 @@ Binnen de perken van de kredieten die daarvoor op zijn begroting zijn vastgelegd
 <br>
 De jaarlijkse subsidie bedraagt 100.000 euro (honderdduizend euro).<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast op basis van de volgende formule: (basisbedrag x G-index december 20..)/G-index december 2018.<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 In het derde lid wordt verstaan onder G-index: de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
