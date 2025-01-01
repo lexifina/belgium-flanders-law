@@ -25,7 +25,7 @@ In dit besluit wordt verstaan onder samenwerkingsakkoord van 16 februari 2016: h
 ### ART 2.
 
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen coördinerende dienst, vermeld in artikel 4, § 1, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
-1° Carolien Allebosch;<br>
+1° ...;<br>
 2° ...;<br>
 3° ...;<br>
 4° ...;<br>
@@ -35,16 +35,17 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 8° Barbara Jans;<br>
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
-11° Leen Torfs;<br>
+11° ...;<br>
 12° ...;<br>
 13° Mark Schaerlaekens;<br>
-14° Bruno Reiners.<br>
+14° Bruno Reiners;<br>
+15° Tine Depester.<br>
 &nbsp;
 
 ### ART 3.
 
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen beoordelingsdienst, vermeld in artikel 4, § 2, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
-1° Carolien Allebosch;<br>
+1° ...;<br>
 2° ...;<br>
 3° ...;<br>
 4° ...;<br>
@@ -54,10 +55,11 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 8° Barbara Jans;<br>
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
-11° Leen Torfs;<br>
+11° ...;<br>
 12°...;<br>
 13° Mark Schaerlaekens;<br>
-14° Bruno Reiners.<br>
+14° Bruno Reiners;<br>
+15° Tine Depester.<br>
 &nbsp;
 
 ### ART 4.
@@ -78,7 +80,8 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 13° Bart Boschmans;<br>
 14° Ivo Broekmans;<br>
 15° Iris Castel;<br>
-16° Gwenny Vanhaecke.
+16° Gwenny Vanhaecke;<br>
+17° Yoran De Smet.
 
 ### ART 5.
 
