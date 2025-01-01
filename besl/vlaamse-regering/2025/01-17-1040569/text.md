@@ -23,6 +23,34 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap
 
+### ART 3.
+
+Aan artikel 2 van het besluit van de Vlaamse regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, laatst gewijzigd bij het besluit van de Vlaamse Regering van 5 maart 2021, wordt een punt 21° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“21° G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.”.
+
+### ART 4.
+
+In artikel 11, §4, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 19 juli 2007 en 12 december 2008, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het tweede lid wordt tussen het woord “wordt” en het woord “vastgesteld” de zinsnede “voor 2024” ingevoegd;<br>
+2° in het tweede lid wordt het bedrag “410 euro” vervangen door het bedrag “449,73 euro”;&nbsp;<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+&nbsp;“De tegemoetkoming voor het gespecialiseerde persoonlijke advies van een gemachtigde expert wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering gebeurt.”.
+
+### ART 5.
+
+In artikel 16 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 26 april 2019 en gewijzigd bij het besluit van de Vlaamse Regering van 20 januari 2023, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° het zesde lid wordt opgeheven;<br>
+2° het bestaande zevende lid, dat het zesde lid wordt, wordt vervangen door wat volgt:&nbsp;<br>
+“De refertebedragen en de basiskosten die opgenomen zijn in de refertelijst en in de refertelijst bis, worden jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering gebeurt.”.
+
+### ART 6.
+
+In artikel 16/1, vijfde lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 januari 2023, worden de woorden “en zevende” opgeheven.&nbsp;
+
+### ART 7.
+
+In artikel 16/6, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2023, wordt het woord “zevende” vervangen door het woord “zesde”.
+
 ## Hoofdstuk 3. Wijziging van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget
 
 ### ART 8.
@@ -54,5 +82,12 @@ Onder de procedures, vermeld in het eerste lid, worden de volgende procedures ve
 ## Hoofdstuk 4. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
 ## Hoofdstuk 5. Wijzigingen van het besluit van de Vlaamse Regering van 21 december 2018 betreffende de huur van hulpmiddelen voor communicatie, computerbediening en omgevingsbedieningen voor personen met een snel degeneratieve aandoening
+
+### ART 12.
+
+In artikel 3, §1, van het besluit van de Vlaamse Regering van 21 december 2018 betreffende de huur van hulpmiddelen voor communicatie, computerbediening en omgevingsbedieningen voor personen met een snel degeneratieve aandoening worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° tussen het vierde en het vijfde lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
+“De huurforfaits die opgenomen zijn in de tabel, opgenomen in bijlage 1, die bij dit besluit is gevoegd, worden jaarlijks op 1 januari aangepast, rekening houdend met de afgevlakte gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering gebeurt.”;<br>
+2° in het bestaande vijfde lid, dat het zesde lid wordt, worden de woorden “vermeld in het tweede lid” vervangen door de zinsnede “die is opgenomen in bijlage 1, die bij dit besluit is gevoegd”.
 
 ## Hoofdstuk 6. Slotbepalingen
