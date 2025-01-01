@@ -2,16 +2,16 @@
   "codex_id": 1039858,
   "title": "Decreet van 2024-05-03 tot vervanging van bijlagen bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en de Codex Secundair Onderwijs en tot wijziging van het decreet van 19 april 2024 over het onderwijs XXXIV",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039858/VolledigDocument?datum=2024-07-11",
-  "source_sha256": "1dd1defbdea2f2edcd5ad05eeac81b1cd6d1d814c44e3d2b731fcbc22b4e9b13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039858/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "9ee500f8a60eee4b2ed11d64faab2b61ec3f3c8b4882010078f179d764b77e9d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039858&param=informatie",
-  "as_of": "2024-07-11",
+  "as_of": "2025-01-01",
   "made": "2024-05-03",
   "gazette": "2024-07-01",
   "numac": 2024006437,
   "document_start": "2024-07-11",
   "document_end": null,
-  "in_force": "2024-07-11",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

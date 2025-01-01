@@ -4,6 +4,10 @@
 
 Dit decreet regelt een gemeenschapsaangelegenheid.
 
+### ART 2.
+
+Bijlage IV bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, gewijzigd bij de decreten van 19 december 2014 en 3 juli 2020, wordt vervangen door bijlage 1, die bij dit decreet is gevoegd.
+
 ### ART 4.
 
 Artikel 67 en 127 van het decreet van 19 april 2024 over het onderwijs XXXIV worden opgeheven.
