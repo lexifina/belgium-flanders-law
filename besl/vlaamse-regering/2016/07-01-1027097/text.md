@@ -27,32 +27,50 @@
 
 ### ART 1.
 
-<span style="color: rgb(0, 0, 0);">Dit besluit is van toepassing op de internaten in het vrij gesubsidieerd onderwijs.</span><br>
+Dit besluit is van toepassing op de onderwijsinternaten in het vrij gesubsidieerd onderwijs.<br>
 &nbsp;
 
-## HOOFDSTUK 2 Regularisatie van DAC-werknemers in de gesubsidieerde vrije internaten
+## HOOFDSTUK 2 Regularisatie van DAC-werknemers in de gesubsidieerde vrije onderwijsinternaten
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0);">Met het oog op de regularisatie van de DAC-werknemers in de gesubsidieerde vrije internaten ontvangt de vzw Vlaams Secretariaat Katholiek Onderwijs jaarlijks een subsidie voor de tewerkstelling van personeelsleden in de internaten.</span><br>
+Met het oog op de regularisatie van de DAC-werknemers in de gesubsidieerde vrije onderwijsinternaten ontvangt de vzw Tewerkstellingsfonds voor het Vrij Onderwijs Vlaanderen jaarlijks een subsidie voor de tewerkstelling van personeelsleden in de onderwijsinternaten.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De subsidie wordt jaarlijks vastgelegd in de begroting.</span>
+De subsidie wordt jaarlijks vastgelegd in de begroting.
 
 ### ART 3.
 
-<span style="color: rgb(0, 0, 0);">§ 1. Bij de verdeling van de subsidie over de internaten moet rekening worden gehouden met de weging van het aantal internen waarbij de volgende wegingsfactoren worden gehanteerd:</span><br>
-<span style="color: rgb(0, 0, 0);">1° voor leerlingen in het kleuteronderwijs: 1,5;</span><br>
-<span style="color: rgb(0, 0, 0);">2° voor leerlingen in het lager onderwijs: 1,3;</span><br>
-<span style="color: rgb(0, 0, 0);">3° voor leerlingen in het secundair onderwijs: 1.</span><br>
+§1. In deze paragraaf wordt verstaan onder ORE: omkaderingsrekeneenheid of omkaderingsrekeneenheden.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">De leerlingen van vestigingsplaatsen worden samengeteld met de leerlingen van hoofdvestigingen.</span><br>
+De verdeling van de subsidie over de onderwijsinternaten wordt berekend op basis van de verhouding van het volume aan ORE voor gewone en bijkomende verblijfsdagen die aan een onderwijsinternaat zijn toegekend, tot het totale volume van de ORE die aan de betrokken onderwijsinternaten zijn toegekend.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 2. De subsidie per internaat kan nooit meer bedragen dan het equivalent van 9 halftijdse personeelsleden.</span><br>
+In het tweede lid wordt verstaan onder:<br>
+1° gewone verblijfsdagen: de gewone verblijfsdagen, vermeld in artikel 5 van het decreet van 16 juni 2023 over de onderwijsinternaten;<br>
+2° bijkomende verblijfsdagen: de bijkomende verblijfsdagen, vermeld in artikel 27, §1, tweede lid, 1°, van het voormelde decreet.<br>
 <br>
-<span style="color: rgb(0, 0, 0);">§ 3. In afwijking van paragraaf 1 geldt voor de volgende internaten:</span><br>
-<span style="color: rgb(0, 0, 0);">1° aan Spermalie met instellingsnummer 100891 worden zes halftijdse equivalenten toegekend;</span><br>
-<span style="color: rgb(0, 0, 0);">2° aan Ter Groene Poorte met instellingsnummer 108341 worden negen halftijdse equivalenten toegekend;</span><br>
-<span style="color: rgb(0, 0, 0);">3° aan Ter Duinen met instellingsnummer 100991 worden zeven halftijdse equivalenten toegekend.</span><br>
+Voor de bepaling van de toegekende ORE voor de verdeling van de subsidie in het jaar X wordt rekening gehouden met het driejaarlijkse gemiddelde aan ORE die zijn toegekend in het schooljaar (X-1) – X en de twee voorgaande schooljaren.&nbsp;<br>
+<br>
+Voor de bepaling van de toegekende ORE voor de verdeling van de subsidie voor de periode 1 september 2025 tot en met 31 december 2025 wordt rekening gehouden met het gemiddelde aan ORE die zijn toegekend in het schooljaar 2023-2024 en het schooljaar 2024-2025.<br>
+<br>
+§1/1. In afwijking van paragraaf 1 wordt voor de verdeling van de subsidie voor de periode 1 januari 2025 tot en met 31 augustus 2025 rekening gehouden met de weging van het aantal internen, waarbij de volgende wegingsfactoren worden gehanteerd:<br>
+1° voor leerlingen in het kleuteronderwijs: 1,5;<br>
+2° voor leerlingen in het lager onderwijs: 1,3;<br>
+3° voor leerlingen in het secundair onderwijs: 1.<br>
+<br>
+De leerlingen van vestigingsplaatsen worden samengeteld met de leerlingen van hoofdvestigingen.&nbsp;<br>
+<br>
+De subsidie per internaat kan nooit meer bedragen dan het equivalent van negen halftijdse personeelsleden.<br>
+<br>
+In afwijking van het eerste lid worden aan de volgende onderwijsinternaten het volgende aantal halftijdse equivalenten toegekend:<br>
+1° Spermalie met instellingsnummer 100891: zes;<br>
+2° Ter Groene Poorte met instellingsnummer 108341: negen;<br>
+3° Ter Duinen met instellingsnummer 100991: zeven.<br>
+<br>
+§2. De vzw Tewerkstellingsfonds voor het Vrij Onderwijs Vlaanderen kan bij de verantwoording van de besteding van de subsidie administratieve kosten inbrengen.&nbsp;<br>
+<br>
+Het maximale bedrag voor de administratieve kosten, vermeld in het eerste lid, wordt vermeld in het besluit waarmee de subsidie wordt toegekend.&nbsp;<br>
+<br>
+Administratieve kosten als vermeld in het eerste lid, kunnen alleen worden ingebracht als er voldoende middelen resten na de verdeling van de subsidie over de onderwijsinternaten.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 Slotbepalingen
