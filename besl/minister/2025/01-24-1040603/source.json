@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040603,
+  "title": "Ministerieel besluit van 2025-01-24 houdende de subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid voor 2025",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040603/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "7a1eb72d3cb8d12aaf13d121ec20ee67ac43982e7d668fd6fe52110764e16738",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040603&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-01-24",
+  "gazette": "2025-02-14",
+  "numac": 2025001457,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
