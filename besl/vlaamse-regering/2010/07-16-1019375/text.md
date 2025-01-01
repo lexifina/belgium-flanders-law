@@ -56,7 +56,7 @@ Overeenkomstig artikel 4.2.3. van de Vlaamse Codex Ruimtelijke Ordening zijn de 
 
 ### ART 1.6.
 
-De bepalingen van dit besluit zijn niet van toepassing op handelingen gelegen in:<br>
+De bepalingen van dit besluit zijn niet van toepassing op handelingen&nbsp;die volledig of gedeeltelijk zijn gelegen in:<br>
 1° een vijf meter brede strook, te rekenen vanaf de bovenste rand van het talud van ingedeelde onbevaarbare en bevaarbare waterlopen, alsook in de bedding van deze waterlopen;<br>
 2° de erfdienstbaarheidszone langs grachten van algemeen belang, opgelegd in toepassing van artikel 23 ter van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
 3° een afgebakende oeverzone als vermeld in artikel 1.1.3., § 2, 46°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
@@ -422,8 +422,8 @@ g)&nbsp;&nbsp; &nbsp;de publiciteitsinrichting wordt maximaal zestig dagen voor 
 ### ART. 10.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de uitvoering van de volgende handelingen op openbaar domein of op een terrein dat na de handelingen tot het openbaar domein zal behoren :<br>
-1° de aanleg van verhardingen waarvan de oppervlakte&nbsp;300 vierkante meter of minder bedraagt, met een reliëfwijziging van minder dan 50 cm;<br>
-2° het geheel of gedeeltelijk wijzigen van een bestaande verharding. De vrijstelling geldt niet als de bestaande weg een aardeweg, grindweg, steengruisweg of kasseiweg is of als de bestaande weg een waterdoorlatend karakter heeft;<br>
+1° de aanleg van verhardingen waarvan de totale bijkomende oppervlakte van de voorgenomen ruimtelijk samen horende handelingen&nbsp;300 vierkante meter of minder bedraagt, met een reliëfwijziging van minder dan 50 cm;<br>
+2° het geheel of gedeeltelijk wijzigen van een bestaande verharding. De vrijstelling geldt niet als de bestaande verharding een waterdoorlatend karakter heeft en vervangen wordt door een niet-waterdoorlatende verharding;<br>
 3° de aanleg van verhoogde kruispunten, verkeersdrempels en andere verkeersremmende ingrepen binnen de bestaande verhardingsbreedte;<br>
 4° gebruikelijke ondergrondse constructies en aansluitingen, zoals installaties voor het transport of de distributie van drinkwater, hemelwater, afvalwater, elektriciteit, aardgas, warmte- en koudenetleidingen en andere nutsvoorzieningen;<br>
 5° gebruikelijke aanhorigheden;<br>
