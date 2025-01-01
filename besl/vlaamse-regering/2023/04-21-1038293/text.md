@@ -39,9 +39,9 @@ In dit besluit wordt verstaan onder:<br>
 9° bomenrij: een lijnvormig vrijstaand landschapselement dat bestaat uit minstens drie bomen in één rij met maximaal twintig meter tussen de stammen;<br>
 10° bouwland:&nbsp;<br>
 &nbsp; a) land dat niet voldoet aan de definitie van blijvende teelten of blijvend grasland en dat voor de teelt van gewassen wordt gebruikt of dat daarvoor beschikbaar is, maar braak ligt;<br>
-&nbsp; &nbsp;b) land dat is braakgelegd overeenkomstig artikel 31 of 70 van verordening (EU) 2021/2115 of de GLMC-norm 8, vermeld in bijlage III bij verordening (EU) 2021/2115;<br>
+&nbsp; &nbsp;b) land dat is braakgelegd overeenkomstig artikel 31 of 70 van verordening (EU) 2021/2115;<br>
 11° braakliggend land: bouwland waarop geen landbouwproductie plaatsvindt, maar waarop een spontane vegetatie tot ontwikkeling komt of een maatregel wordt genomen om de biodiversiteitsvoordelen te vergroten en waarbij geen landbouwproducten worden geoogst. Percelen blijvend grasland uit de voorgaande campagne kunnen niet als braakliggend land beschouwd worden;;<br>
-12° bufferstroken en akkerranden: onder bufferstroken en akkerranden vallen alle bufferstroken en akkerranden, met inbegrip van de bufferstroken langs waterlopen die vereist zijn in het kader van GLMC 4, RBE 1, RBE 2 of RBE 7 als bedoeld in bijlage III bij Verordening (EU) nr. 2021/2115, en de akkerranden die beschermd zijn in het kader van GLMC 8, RBE 3 of RBE 4 als bedoeld in die bijlage, met een minimumbreedte van minstens 1 meter. Bufferstroken en akkerranden moeten ofwel bedekt zijn door de ontwikkeling van een spontane vegetatie, ofwel door de inzaai van een gewas, zonder dat er landbouwproductie op mag plaatsvinden. Als de bufferstroken of akkerranden kunnen worden onderscheiden van de aangrenzende teelt, mogen ze worden begraasd of gemaaid;<br>
+12° bufferstroken en akkerranden: onder bufferstroken en akkerranden vallen alle bufferstroken en akkerranden, met inbegrip van de bufferstroken langs waterlopen die vereist zijn in het kader van GLMC 4, RBE 1, RBE 2 of RBE 7 als bedoeld in bijlage III bij Verordening (EU) nr. 2021/2115, en de akkerranden die beschermd zijn in het kader van GLMC 8, RBE 3 of RBE 4 als bedoeld in die bijlage, met een minimumbreedte van minstens 1 meter. Bufferstroken en akkerranden moeten ofwel bedekt zijn door de ontwikkeling van een spontane vegetatie, ofwel door de inzaai van een gewas, zonder dat er landbouwproductie op mag plaatsvinden.&nbsp;<br>
 13° conditionaliteit: beheerseisen die voortvloeien uit Europese verordeningen en richtlijnen over klimaat en milieu, volksgezondheid, gezondheid van planten en dierenwelzijn, en normen voor het in goede landbouw- en milieuconditie (GLMC) houden van landbouwgrond volgens de thema’s klimaatverandering, water, bodem, biodiversiteit en landschap, vermeld in bijlage III van verordening (EU) 2021/2115;<br>
 14° controleorgaan biologische productie en etikettering biologische producten: het controleorgaan dat erkend is conform artikel 24 en 25 van het besluit van 29 oktober 2021;<br>
 15° decreet van 21 oktober 1997: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
@@ -55,7 +55,7 @@ In dit besluit wordt verstaan onder:<br>
 22° haag of heg: een rij bomen of struiken die vlak naast elkaar staan en aaneengesloten zijn. Een haag of heg is overal minder dan twee meter breed;<br>
 23° hakhout met korte omlooptijd: meerjarige dicht bij elkaar staande houtgewassen van boomsoorten van de gecombineerde nomenclatuurcode van de Europese Unie GN-code 0602 90 41, zoals vastgesteld overeenkomstig artikel 10 van verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief, waarvan de wortelstokken of stronken na de oogst in de grond blijven en die in het daaropvolgende seizoen nieuwe scheuten vormen. Hakhout met korte omlooptijd heeft een maximale omlooptijd van acht jaar;<br>
 24° herverdelende inkomenssteun: de aanvullende herverdelende inkomenssteun voor duurzaamheid, vermeld in artikel 29 van Verordening (EU) 2021/2115;<br>
-25° hoofdteelt: de teelt die volgens de gangbare teeltpraktijk op een perceel overwegend aanwezig is van 15 mei tot en met 31 augustus;<br>
+25° hoofdteelt: de teelt die volgens de gangbare teeltpraktijk overwegend aanwezig is op een perceel in de periode van 15 mei tot en met 31 augustus. In afwijking van het voormelde worden aardappelen en wintergewassen, met uitzondering van onrijp geoogste wintergranen en onrijp geoogste wintergranen met vlinderbloemigen, altijd beschouwd als hoofdteelt;<br>
 26° hoogstamboomgaard: een perceel landbouwgrond met hoogstamfruitbomen;<br>
 27° houtkant: een uitgestrekte en aaneengesloten vegetatiestrook, vrijstaand van andere landschapselementen, die bestaat uit struiken of uit bomen. Een houtkant is maximaal tien meter breed;<br>
 28° kleibodem: bodem die op grond van de bodemkaart gekarakteriseerd wordt met de codes U (zware klei) of E (klei), zoals vermeld in het Compendium voor de monsterneming, meting en analyse in het kader van bodembescherming, goedgekeurd bij het ministerieel besluit van 12 oktober 2017 houdende de goedkeuring van het compendium voor de monsterneming, meting en analyse in het kader van bodembescherming (BOC), versie 2.1, of vergelijkbare bodems in de zeepolders of in de bodemstaalanalyse met de codes 50 (klei), 60 (lichte polder) of 70 (polder);<br>
@@ -95,7 +95,8 @@ In dit besluit wordt verstaan onder:<br>
 52° verordening (EU) 2021/2115: verordening (EU) 2021/2115 van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) worden gefinancierd, en tot intrekking van Verordeningen (EU) nr. 1305/2013 en (EU) nr. 1307/2013;<br>
 53° verordening (EU) 2021/2116: verordening (EU) 2021/2116 van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EU) nr. 1306/2013;<br>
 54° verzamelaanvraag: aanvraagsysteem dat het geospatiale en diergebonden aanvraagsysteem omvat, vermeld in artikel 65, lid 4, a), van verordening (EU) 2021/2116;<br>
-55° werkdag: een dag die geen zaterdag, zondag, wettelijke of Vlaamse decretale feestdag is.
+55° werkdag: een dag die geen zaterdag, zondag, wettelijke of Vlaamse decretale feestdag is;<br>
+56° wintergewas: een gewas dat geen gras is en dat wordt ingezaaid in het najaar met het oog op landbouwproductie in het daaropvolgende jaar, met inbegrip van wintergranen en wintergranen met vlinderbloemigen.
 
 ## Afdeling 2. Gemeenschappelijke bepalingen
 
@@ -145,7 +146,7 @@ b)&nbsp;&nbsp; &nbsp;gedistilleerde dranken die gemaakt zijn met granen, noten o
 c)&nbsp;&nbsp; &nbsp;consumptie-ijs en yoghurt die gemaakt zijn met melk die voor minstens 75% afkomstig is van eigen dieren;<br>
 3° de landbouwer heeft een standaardverdiencapaciteit die groter is dan of gelijk is aan het minimaal factorinkomen van 7.500 euro;<br>
 4° de landbouwer of een aan de landbouwer verbonden onderneming is geen overheidsinstelling, erkende terreinbeherende natuurvereniging, hogeschool of universiteit;<br>
-5° binnen de landbouwer is er minstens één bedrijfshoofd, zaakvoerder, lid, vennoot of bestuurder dat of die geen rustpensioen ontvangt.<br>
+5° binnen de landbouwer is er minstens één bedrijfshoofd dat, zaakvoerder die, lid dat, in geval van een feitelijke vereniging, gecommanditeerde vennoot die, vennoot onder firma die of bestuurder die geen rustpensioen ontvangt.<br>
 <br>
 De minister bepaalt de nadere regels voor de voorwaarde bepaald in het eerste lid, punt 5° en de inwerkingtreding ervan.&nbsp;<br>
 <br>
@@ -177,7 +178,7 @@ De minister kan:<br>
 
 Onder subsidiabele hectare wordt verstaan: arealen van de landbouwer die bestaan uit:<br>
 1° landbouwareaal van het bedrijf dat in de loop van het jaar waarvoor de steun wordt aangevraagd, wordt gebruikt voor een landbouwactiviteit, of landbouwareaal van het bedrijf dat ook voor niet-landbouwactiviteiten wordt gebruikt, op voorwaarde dat de uitoefening van de landbouwactiviteit geen noemenswaardige hinder ondervindt van de intensiteit, de aard, de duur en de planning van de niet-landbouwactiviteiten;<br>
-2° areaal van het bedrijf als vermeld in artikel 4, lid 4, b), i), ii) en iii), van verordening (EU) 2021/2115;<br>
+2° areaal van het bedrijf als vermeld in artikel 4, lid 4, b), i) en ii), van verordening (EU) 2021/2115;<br>
 3° areaal van het bedrijf dat recht gaf op betalingen op grond van titel III, hoofdstuk II, afdeling 2, onderafdeling 2, van verordening (EU) 2021/2115, of op grond van de basisbetalingsregeling of de regeling over een enkele areaalbetaling, vermeld in titel III van verordening (EU) nr. 1307/2013, en dat geen subsidiabele hectare is op basis van punt 1° en 2°:<br>
 &nbsp; a) als gevolg van de toepassing van richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna, en richtlijn 2009/147/EG van het Europees Parlement en de Raad van 30 november 2009 inzake het behoud van de vogelstand of richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid op dat areaal;<br>
 &nbsp; b) als gevolg van op grond van verordening (EU) 2021/2115 vastgestelde areaalgebonden interventies die onder het &nbsp;geïntegreerd beheers- en controlesysteem, vermeld in titel IV, hoofdstuk II, van verordening (EU) 2021/2116 vallen en die de productie van producten die niet vermeld zijn in bijlage I bij het Verdrag betreffende de werking van de Europese Unie, door middel van natte teelten mogelijk maken;<br>
@@ -195,7 +196,7 @@ De minister bepaalt de boomsoorten voor de toepassing van de definitie van hakho
 Onderhoud van braakliggend land bestaat uit het beperken van opslag van houtige planten en verruiging zodat beweiding of teelt mogelijk is zonder dat daarvoor voorbereidende activiteiten nodig zijn die verder gaan dan het gebruik van de gebruikelijke landbouwmethoden en -machines. Braakliggend land wordt jaarlijks gemaaid.<br>
 <br>
 Onderhoud van natuurlijke graslanden bestaat uit het beperken van verruiging zodat beweiding of maaien mogelijk is zonder dat daarvoor voorbereidende activiteiten nodig zijn die verder gaan dan het gebruik van de gebruikelijke landbouwmethoden en -machines. Het onderhoud bestaat uit een van de volgende maatregelen:<br>
-1° het jaarlijks maaien voor 1 oktober van het campagnejaar in kwestie;<br>
+1° het jaarlijks maaien van de percelen;<br>
 2° het laten begrazen van de percelen.<br>
 <br>
 Onderhoud van percelen met blijvende teelten bestaat uit het beperken van verruiging en het gewas in een toestand houden die voor productie geschikt is. Het onderhoud op gronden met blijvende teelten bestaat uit volgende maatregelen:<br>
@@ -255,7 +256,9 @@ De minister kan bepalen:<br>
 3° de wijze waarop de teelttoestemming wordt gegeven;&nbsp;<br>
 4° de regels over de bezorging van de officiële etiketten van de zaaizaden.<br>
 <br>
-De minister kan de formulieren voor de aanvraag van de teelttoestemming voor hennep en de vorm ervan vastleggen.&nbsp;<br>
+De minister kan de volgende elementen bepalen:<br>
+1°&nbsp;&nbsp; &nbsp;de minimale zaaidichtheid om een teelttoestemming voor de teelt van hennep te verkrijgen;<br>
+2°&nbsp;&nbsp; &nbsp;de formulieren voor de aanvraag van de teelttoestemming voor hennep en de vorm ervan.<br>
 <br>
 §3. De teelt van hennep wordt gecontroleerd conform artikel 3 van gedelegeerde verordening (EU) 2022/126. De minister kan de aanvullende voorwaarden voor de controle bepalen.
 
@@ -290,7 +293,7 @@ De indicatieve financiële allocatie voor de ecoregelingen voor elk kalenderjaar
 
 Het deel van de basisinkomenssteun dat hoger is dan 100.000 euro, wordt met 100% verminderd. Het deel tussen de 60.000 en 100.000 euro wordt met 85% verminderd.<br>
 <br>
-De minister legt de gemiddelde minimumbedragen, de gemiddelde maximumbedragen en de indicatieve gemiddelde eenheidsbedragen voor de basisinkomenssteun vast volgens de bepaalde enveloppe en zoals bepaald in de herverdelingsflexibiliteit, vermeld in artikel 102 van verordening (EU) 2021/2115.<br>
+De minister legt de gemiddelde minimumbedragen, de gemiddelde maximumbedragen en de indicatieve gemiddelde eenheidsbedragen voor de basisinkomenssteun vast volgens de enveloppe, als vermeld in het Vlaams Strategisch Plan voor het Gemeenschappelijk Landbouwbeleid 2023 – 2027, en kan maatregelen nemen zoals bepaald in de herverdelingsflexibiliteit, vermeld in artikel 102 van verordening (EU) 2021/2115.<br>
 <br>
 De bevoegde entiteit kent de basisinkomenssteun toe op basis van betalingsrechten, vermeld in artikel 23 van verordening (EU) 2021/2115.
 
@@ -564,6 +567,10 @@ De minister:<br>
 
 De conditionaliteit bestaat uit de GLMC-normen zoals bepaald in dit hoofdstuk en uit de uit het Unierecht voortvloeiende beheerseisen, vermeld in artikel 12, vierde lid, van verordening (EU) 2021/2115. Als de beheerseisen strengere regels bepalen dan deze bepaald door de GLMC-normen dan zijn deze strengere regels van toepassing.
 
+### ART 49/1.
+
+De minister kan tijdelijke afwijkingen toestaan van de termijnen en perioden, vermeld in afdeling 2 als weersomstandigheden landbouwers in een bepaald jaar beletten aan die vereisten te voldoen.
+
 ## Afdeling 2. GLMC-normen
 
 ## Onderafdeling 1. Behoud van blijvend grasland op basis van een verhouding blijvend grasland ten opzichte van het landbouwareaal
@@ -722,85 +729,64 @@ b)&nbsp;&nbsp; &nbsp;winterploegen toepassen op percelen met een leem- of een kl
 In de volgende gevallen zijn landbouwbedrijven vrijgesteld van de norm voor gewasrotatie, vermeld in artikel 60:<br>
 1° meer dan 75% van het bouwland dat wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren, of voor de teelt van vlinderbloemige gewassen ligt braak of wordt gebruikt voor een combinatie daarvan;&nbsp;<br>
 2° meer dan 75% van het subsidiabele landbouwareaal is blijvend grasland en wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of wordt gedurende een aanzienlijk deel van het jaar of een aanzienlijk deel van de gewascyclus beteeld met gewassen die onder water staan, of wordt gebruikt voor een combinatie daarvan.<br>
+3° het bouwlandareaal bedraagt niet meer dan 10 hectare.<br>
 <br>
 Ter uitvoering van artikel 1, lid 1, van uitvoeringsverordening (EU) 2022/1317 geldt in 2023 op bouwlandpercelen een vrijstelling van de norm voor gewasrotatie, vermeld in artikel 60, §1, van dit besluit. Percelen waarop de landbouwer zich ertoe verbindt een maatregel toe te passen als vermeld in artikel 3, 6° of 15°, van het besluit van 21 april 2023, komen niet in aanmerking voor de voormelde vrijstelling.
 
 ### ART 60.
 
-§1. De landbouwer past de volgende normen voor gewasrotatie toe door:&nbsp;<br>
-1° op bedrijfsniveau, elk jaar minimaal op een derde van zijn bouwlandareaal, met uitzondering van het areaal met meerjarige gewassen, grassen en andere kruidachtige voedergewassen of braakliggend land, gewasrotatie toepassen door een van de volgende maatregelen te nemen:<br>
-&nbsp; a) een andere hoofdteelt telen dan het voorgaande jaar;<br>
-&nbsp; b) na de hoofdteelt van het voorgaande jaar een nateelt aanhouden die minstens twaalf weken op het perceel aanwezig blijft en die tot een andere gewassoort behoort dan de hoofdteelt van het betrokken jaar;<br>
-2° op perceelsniveau nooit vier jaar na elkaar dezelfde hoofdteelt aanhouden, tenzij die hoofdteelt behoort tot de meerjarige gewassen, grassen en andere kruidachtige voedergewassen of &nbsp;het om braakliggend land gaat.&nbsp;<br>
+§1.&nbsp;De landbouwer voldoet aan de norm voor gewasrotatie door een van de volgende maatregelen toe te passen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;op perceelsniveau, met uitzondering van het areaal met meerjarige gewassen, grassen en andere kruidachtige voedergewassen of braakliggend land, gewasrotatie toepassen door een van de volgende maatregelen te nemen:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;een andere hoofdteelt telen dan het voorgaande jaar;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;na de hoofdteelt van het voorgaande jaar een nateelt aanhouden die minstens twaalf weken op het perceel aanwezig blijft en die tot een andere gewassoort behoort dan de hoofdteelt van het jaar in kwestie;<br>
+2°&nbsp;&nbsp; &nbsp;gewasdiversificatie toepassen door de volgende minimumvereisten in acht te nemen:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;als de oppervlakte van het bouwland van een bedrijf meer dan 10 en niet meer dan 30 hectare bedraagt, worden op het bouwland van dat bedrijf ten minste twee verschillende hoofdteelten geteeld, waarbij de omvangrijkste teelt &nbsp;niet meer dan 75% van dat bouwland bestrijkt;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;als de oppervlakte van het bouwland van een bedrijf meer dan 30 hectare bedraagt, worden op het bouwland van dat bedrijf ten minste drie verschillende hoofdteelten &nbsp;geteeld, waarbij de omvangrijkste teelt &nbsp;niet meer dan 75 percent van dat bouwland bestrijkt en de twee omvangrijkste teelten &nbsp;samen niet meer dan 95% van dat bouwland bestrijken.<br>
 <br>
 De landbouwers die aangesloten zijn bij een controleorgaan biologische productie en etikettering biologische producten, worden geacht te voldoen aan de norm voor gewasrotatie voor de percelen die onder controle van &nbsp;het voormelde controleorgaan staan en die niet gedeclasseerd zijn.<br>
 <br>
-Voor de volgende percelen geldt ook een vrijstelling van de verplichting, vermeld in het eerste lid:&nbsp;<br>
-1°&nbsp;&nbsp; &nbsp;percelen met teelten in volle grond onder vaste overkapping;&nbsp;<br>
+Voor de volgende percelen geldt ook een vrijstelling van de verplichting, vermeld in het eerste lid, 1°:<br>
+1°&nbsp;&nbsp; &nbsp;percelen met teelten in volle grond onder vaste overkapping;<br>
 2°&nbsp;&nbsp; &nbsp;percelen met knolbegonia of met sierteelten in containers op en in volle grond;<br>
-3°&nbsp;&nbsp; &nbsp;percelen die besmet zijn met knolcyperus (Cyperus esculentus) op een zandbodem, op voorwaarde dat het perceel in de verzamelaanvraag bekend is als een perceel dat besmet is met knolcyperus. De vrijstelling voor de voormelde percelen geldt tot het perceel vrij is van knolcyperus.<br>
-<br>
-In het derde lid wordt verstaan onder zandbodem: bodem die op grond van de bodemkaart gekarakteriseerd wordt met de codes P (licht zandleem), S (lemig zand) of Z (zand), zoals vermeld in het Compendium voor de monsterneming, meting en analyse in het kader van de bodembescherming, goedgekeurd bij het ministerieel besluit van 12 oktober 2017 houdende goedkeuring van het compendium voor monsterneming, meting en analyse in het kader van de bodembescherming (BOC), versie 2.1, of een combinatie van de code P, S, Z.&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;percelen die besmet zijn met knolcyperus (Cyperus esculentus), op voorwaarde dat het perceel in de verzamelaanvraag bekend is als een perceel dat besmet is met knolcyperus. De vrijstelling geldt tot het perceel vrij is van knolcyperus;<br>
+4°&nbsp;&nbsp; &nbsp;percelen met aardbeien;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;percelen voor forcerie van witloof.<br>
 <br>
 De landbouwer die in het kader van educatieve demonstraties of in het kader van wetenschappelijke proefnemingen een gewasrotatie wil toepassen die afwijkt van de bepalingen in paragraaf 1, eerste lid, dient daarvoor een gemotiveerde aanvraag in bij de bevoegde entiteit.&nbsp;<br>
 <br>
-Een aanvraag als vermeld in het vijfde lid, bevat al de volgende gegevens:&nbsp;<br>
+Een aanvraag als vermeld in het vierde lid, bevat al de volgende gegevens:&nbsp;<br>
 1°&nbsp;&nbsp; &nbsp;de voor- en achternaam of de benaming van de aanvrager;&nbsp;<br>
 2°&nbsp;&nbsp; &nbsp;de teelt en het perceel waarvoor de aanvrager de afwijking wil verkrijgen;&nbsp;<br>
-3°&nbsp;&nbsp; &nbsp;de tijdsduur waarvoor de afwijking wordt aangevraagd;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de tijdsduur waarvoor de afwijking wordt aangevraagd;<br>
 4°&nbsp;&nbsp; &nbsp;een omschrijving van de geplande educatieve demonstratie of wetenschappelijke proefneming, met vermelding van de bepalingen van het eerste lid waarvan de aanvrager wil afwijken.&nbsp;<br>
 <br>
-De aanvrager dient een aanvraag als vermeld in het vijfde lid, in bij de bevoegde entiteit minimaal dertig werkdagen voor het begin van de periode waarvoor de aanvrager de afwijking wil verkrijgen. Als de voormelde aanvraag conform het zesde lid onvolledig is of onvoldoende informatie bevat, kan de bevoegde entiteit aanvullende gegevens opvragen.<br>
+De aanvrager dient een aanvraag als vermeld in het vierde lid, in bij de bevoegde entiteit minimaal dertig werkdagen voor het begin van de periode waarvoor de aanvrager de afwijking wil verkrijgen. Als voormelde aanvraag conform het vijfde lid onvolledig is of onvoldoende informatie bevat, kan de bevoegde entiteit aanvullende gegevens opvragen.&nbsp;<br>
 <br>
-De bevoegde entiteit kan voor een aanvraag als vermeld in het vijfde lid, de toelating geven om van de bepalingen in het eerste lid af te wijken en beslist binnen twintig werkdagen nadat ze de voormelde aanvraag heeft ontvangen. Als de bevoegde entiteit bijkomende gegevens opvraagt conform het zevende lid, wordt de lopende beslissingstermijn gestuit en begint een nieuwe beslissingstermijn te lopen vanaf de dag waarop de bevoegde entiteit de bijkomende gegevens ontvangt.<br>
+De bevoegde entiteit kan voor een aanvraag als vermeld in het vierde lid de toelating geven om van de bepalingen in het eerste lid af te wijken en beslist binnen twintig werkdagen nadat ze de voormelde aanvraag heeft ontvangen. Als de bevoegde entiteit bijkomende gegevens opvraagt conform het zesde lid, wordt de lopende beslissingstermijn gestuit en begint een nieuwe beslissingstermijn te lopen vanaf de dag waarop de bevoegde entiteit de bijkomende gegevens ontvangt.<br>
 <br>
 §2. De teelt van aardappelen, met uitzondering van de teelt van aardappelen onder niet-verplaatsbare serres, kan niet in een rotatie die sneller is dan een op de drie jaar. Voor de teelt van gecertificeerd pootgoed geldt een rotatie van een op de vier jaar.
 
 ### ART 61.
 
-De minister bepaalt welke teelten beschouwd worden als een aparte gewasgroep om te voldoen aan de norm voor gewasrotatie, vermeld in artikel 60.
+De minister bepaalt wanneer er sprake is van een verschillende teelt om te voldoen aan de norm voor gewasrotatie, vermeld in artikel 60.
 
 ## Onderafdeling 8. Niet-productieve elementen en arealen ter verbetering van de biodiversiteit op landbouwbedrijven
 
 ### ART 62.
 
-In de volgende gevallen zijn landbouwbedrijven vrijgesteld van de &nbsp;norm voor niet-productieve elementen:<br>
-1° meer dan 75% van het bouwland dat wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of voor de teelt van vlinderbloemige gewassen, ligt braak of wordt gebruikt wordt voor een combinatie daarvan;<br>
-2° meer dan 75% van het subsidiabele landbouwareaal is blijvend grasland en wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of wordt gedurende een aanzienlijk deel van het jaar of een aanzienlijk deel van de gewascyclus beteeld met gewassen die onder water staan, of wordt gebruikt wordt voor een combinatie daarvan;<br>
-3° niet meer dan 10 hectare van het areaal is bouwland, waarvan minstens 50% bouwlandareaal onder vaste overkappingen is.
+...
 
 ### ART 63.
 
-In de volgende gevallen is de norm voor niet-productieve elementen vervuld:<br>
-1° minstens 4% van het bouwland bestaat uit niet-productieve elementen en arealen, met inbegrip van braakliggend land;<br>
-2° minstens 7% van het bouwland wordt enerzijds gebruikt voor vanggewassen die geteeld zijn zonder gebruik te maken van gewasbeschermingsmiddelen en bestaat anderzijds uit niet-productieve elementen en arealen, met inbegrip van braakliggend land, waarbij het aandeel van deze laatste groep minstens 3% moet bedragen.
+...
 
 ### ART 64.
 
-§1. De volgende niet-productieve elementen en arealen komen in aanmerking om te voldoen aan de verplichtingen, vermeld in artikel 63:<br>
-1° bufferstroken en akkerranden;<br>
-2° hagen en heggen, houtkanten, groepen van bomen en bomenrijen;<br>
-3° braakliggend land;<br>
-4° poelen;<br>
-5° sloten.<br>
-<br>
-§2. In uitvoering van artikel 1, eerste lid, van uitvoeringsverordening (EU) 2022/1317 mogen op percelen die in 2023 braak gelegd worden om te voldoen aan de norm, vermeld in artikel 63, groenten, aardappelen en graangewassen geteeld worden, tenzij de braak gelegde percelen: &nbsp;<br>
-1° liggen in groengebieden, parkgebieden, buffergebieden, bosgebieden of in bestemmingsgebieden die vergelijkbaar zijn met die gebieden;<br>
-2° aangewezen zijn als één van de gebieden vermeld in punt 1° op de plannen van aanleg of de ruimtelijke uitvoeringsplannen die van kracht zijn in de ruimtelijke ordening.<br>
-<br>
-Wanneer op braakliggend land conform het eerste lid groenten en graangewassen geteeld worden, kunnen voor die percelen geen verbintenissen afgesloten worden voor het toepassen van een maatregel zoals beschreven in artikel 3, 6° of 7° van het besluit van 21 april 2023.<br>
-<br>
-§3. Ter uitvoering van artikel 1, lid 1, van uitvoeringsverordening (EU) 2024/587 van de Commissie van 12 februari 2024 tot vaststelling van een afwijking, voor claimjaar 2024, van Verordening (EU) 2021/2115 van het Europees Parlement en de Raad wat betreft de toepassing van norm 8 voor een goede landbouw- en milieuconditie van grond (GLMC), de datums voor de subsidiabiliteit van de uitgaven voor een bijdrage uit het ELGF en de regels inzake wijzigingen van de strategische GLB-plannen met het oog op wijzigingen van bepaalde ecoregelingen, en in afwijking van artikel 63 van dit besluit is de norm voor niet-productieve elementen in 2024 ook vervuld als minstens 4% van het bouwland wordt gebruikt voor niet-productieve elementen en arealen als vermeld in paragraaf 1, of vanggewassen die worden geteeld zonder gewasbeschermingsmiddelen te gebruiken, of een combinatie hiervan.<br>
-<br>
-In afwijking van artikel 19 van het ministerieel besluit van 23 juni 2023 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid, voor wat de rechtstreekse betalingen betreft, geldt voor de vanggewassen die worden geteeld ter uitvoering van het eerste lid, een wegingsfactor van 1.
+...
 
 ### ART 65.
 
-De minister kan:<br>
-1° de vereiste minimale of maximale afmetingen bepalen van de elementen en arealen, vermeld in artikel 64, en ook handelingen die erop verboden zijn;<br>
-2° specifieke regels bepalen voor de inzaai van vanggewassen, meer bepaald voor de inzaai- en aanhoudperiode;<br>
-3°de toegestane activiteiten op&nbsp;braakliggend land, bufferstroken en akkerranden bepalen;<br>
-4° de omzettingsfactoren en wegingsfactoren bepalen voor het berekenen van het totale areaal aan niet-productieve elementen en arealen.
+...
 
 ### ART 66.
 
@@ -837,7 +823,17 @@ Voor de procedure, vermeld in het derde lid, kan de minister:<br>
 
 ### ART 69.
 
-Binnen en buiten Natura 2000-gebied is het verboden om ecologisch kwetsbaar blijvend grasland om te zetten of om te ploegen.
+Binnen en buiten Natura 2000-gebied is het verboden om ecologisch kwetsbaar blijvend grasland om te zetten of om te ploegen.<br>
+<br>
+Landbouwers zijn vrijgesteld van het ploegverbod, vermeld in het eerste lid, om schade die werd aangebracht door wilde dieren of invasieve soorten aan ecologisch kwetsbaar blijvend grasland te herstellen, onverminderd de bepalingen van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en zijn uitvoeringsbesluiten.&nbsp;<br>
+<br>
+Indien de landbouwer gebruik wenst te maken van de vrijstelling, vermeld in het tweede lid, meldt hij dit aan de bevoegde entiteit vooraleer over te gaan tot het herstel. De minister kan bepalen welke documenten of bewijsstukken deze melding moet omvatten.
+
+## Hoofdstuk 4/1. Sociale conditionaliteit
+
+### ART 69/1.
+
+Conform artikel 14 van verordening (EU) 2021/2115 leeft de landbouwer de toepasselijke arbeidsvoorwaarden of werkgeversverplichtingen na die voortvloeien uit de rechtshandelingen, vermeld in bijlage IV bij de voormelde verordening.
 
 ## Hoofdstuk 5. Geïntegreerd beheers- en controlesysteem
 
@@ -925,11 +921,12 @@ Als er een tegenstrijdigheid bestaat tussen verrichtingen die uitgevoerd zijn vi
 ### ART 80.
 
 In dit hoofdstuk wordt verstaan onder:<br>
-1° aangegeven dieren: de dieren waarvoor in het kader van de gekoppelde inkomenssteun een steunaanvraag is ingediend;<br>
+1° aangegeven dieren: de dieren waarvoor in het kader van de gekoppelde inkomenssteun conform artikel 69 van verordening (EU) 2021/2116 een steunaanvraag is ingediend via een geautomatiseerd claimsysteem, op basis van Sanitel;<br>
 2° areaalgebonden interventies: de areaalgebonden rechtstreekse betalingen;<br>
 3° geconstateerd dier: een dier waarvoor aan alle gestelde voorwaarden die gekoppeld zijn aan het dier, is voldaan;<br>
 4° geconstateerd areaal: het areaal waarvoor aan alle subsidiabiliteitscriteria of andere verplichtingen die verband houden met de voorwaarden om de steun te verlenen, is voldaan, ongeacht het aantal betalingsrechten waarover de begunstigde beschikt;<br>
-5° gewasgroep: een groep voor elk van de arealen die worden aangegeven voor de toepassing van een andere areaalgebonden interventie. Als hetzelfde areaal als basis voor een steunaanvraag in het kader van meer dan een areaalgebonden interventie dient, wordt dat areaal voor elk van die regelingen afzonderlijk in aanmerking genomen.
+5° gewasgroep: een groep voor elk van de arealen die worden aangegeven voor de toepassing van een andere areaalgebonden interventie. Als hetzelfde areaal als basis voor een steunaanvraag in het kader van meer dan een areaalgebonden interventie dient, wordt dat areaal voor elk van die regelingen afzonderlijk in aanmerking genomen;<br>
+6° Sanitel: het geautomatiseerde gegevensbestand, vermeld in artikel 2, §2, 1°, van het koninklijk besluit van 20 mei 2022.
 
 ### ART 81.
 
@@ -1001,7 +998,7 @@ Als een subsidiabiliteitsvoorwaarde of conditionaliteitsverplichting opgevolgd w
 7° de aangegeven oppervlakte is kleiner dan de geconstateerde oppervlakte;<br>
 8° de landbouwer heeft niet alle percelen die hij in eigen gebruik heeft in dat jaar, aangegeven in de verzamelaanvraag waardoor er sprake is van onderaangifte;<br>
 9° de verzamelaanvraag is niet tijdig ingediend;<br>
-10° het aangegeven aantal dieren is groter dan het geconstateerde aantal dieren;<br>
+10° het aantal aangegeven dieren is groter dan het aantal geconstateerde dieren;<br>
 11° het aangevraagde subsidiebedrag is hoger dan het bedrag waarop de begunstigde recht heeft.&nbsp;<br>
 <br>
 §3. De administratieve sancties, vermeld in paragraaf 1, kunnen een van de volgende vormen aannemen:<br>
@@ -1041,11 +1038,7 @@ In afwijking daarvan, als die persoon geen steun ontvangt in het kader van de ar
 
 ### ART 91.
 
-§1. Voor een steunaanvraag in het kader van de basisbetalingsregeling, de herverdelingsbetaling en, in voorkomend geval, de regeling voor jonge landbouwers geldt het volgende:<br>
-1° als het aangegeven aantal betalingsrechten hoger is dan het aantal betalingsrechten waarover de begunstigde beschikt, worden de aangegeven betalingsrechten verlaagd tot het aantal betalingsrechten waarover de begunstigde beschikt;<br>
-2° als er een verschil tussen het aangegeven aantal betalingsrechten en het aangegeven areaal bestaat, wordt het aangegeven areaal aangepast aan het kleinste getal.<br>
-<br>
-Om de steun in het kader van de basisbetalingsregeling te berekenen, wordt uitgegaan van het gemiddelde van de waarden van de verschillende betalingsrechten voor het aangegeven areaal in kwestie.<br>
+§1. Bij vaststelling van een verschil tussen het aangegeven aantal betalingsrechten en het aangegeven areaal bij een steunaanvraag in het kader van de basisinkomenssteun voor duurzaamheid, wordt het aangegeven areaal aangepast aan het kleinste getal.<br>
 <br>
 §2. Voor steunaanvragen in het kader van areaalgebonden interventies geldt, onverminderd de mogelijkheid om bijkomende administratieve sancties als vermeld in artikel 88, op te leggen, het volgende:<br>
 1° als het geconstateerde areaal van een gewasgroep groter blijkt dan het areaal dat in de steunaanvraag aangegeven is, wordt de steun berekend op basis van het aangegeven areaal;<br>
@@ -1069,27 +1062,27 @@ In geval van niet-aangifte van alle arealen in de verzamelaanvraag als vermeld i
 
 ### ART 93.
 
-Als het aantal dieren dat in een steunaanvraag in het kader van de gekoppelde inkomenssteun aangegeven is, groter is dan het aantal dat geconstateerd is bij administratieve controles of controles ter plaatse, wordt, onverminderd de mogelijkheid om bijkomende administratieve sancties als vermeld in artikel 88, op te leggen, de steun berekend op basis van het geconstateerde aantal dieren.<br>
+Als het aantal dieren dat in een steunaanvraag in het kader van de gekoppelde inkomenssteun aangegeven is, groter is dan het aantal geconstateerde dieren, wordt, met behoud van de toepassing van de mogelijkheid om bijkomende administratieve sancties als vermeld in artikel 88, op te leggen, en met behoud van de toepassing van artikel 94, §1, 4°, de steun berekend op basis van het aantal geconstateerde dieren.<br>
 <br>
-De dieren die gedurende de campagne zijn overgebracht naar een andere plaats dan de plaats die is aangegeven in de laatste verzamelaanvraag van de landbouwer, worden toch als geconstateerd beschouwd als zij bij de controle ter plaatse onmiddellijk zijn gelokaliseerd op het bedrijf.
+De dieren die gedurende de campagne zijn overgebracht naar een andere plaats dan de plaats die is aangegeven in de laatste verzamelaanvraag van de landbouwer, worden toch als geconstateerd dier beschouwd als zij bij de controle ter plaatse onmiddellijk zijn gelokaliseerd op het bedrijf.
 
 ### ART 94.
 
 §1. Als een niet-naleving met betrekking tot de identificatie- en registratieregeling voor runderen wordt vastgesteld, geldt het volgende:<br>
 1° een dier dat op het bedrijf aanwezig is en waarvan een van de twee identificatiemiddelen kwijtgeraakt of onleesbaar is, wordt als geconstateerd beschouwd als het nog duidelijk en individueel is geïdentificeerd door het tweede identificatiemiddel en alle andere middelen van de identificatie- en registratieregeling, vermeld in het koninklijk besluit van 20 mei 2022;<br>
 2° een enkel dier dat op het bedrijf aanwezig is en waarvan beide identificatiemiddelen kwijtgeraakt of onleesbaar zijn, wordt als geconstateerd beschouwd als het nog duidelijk en individueel kan worden geïdentificeerd door alle andere middelen van de identificatie- en registratieregeling, vermeld in het koninklijk besluit van 20 mei 2022, en de landbouwer kan aantonen dat hij al vóór de aankondiging van de controle ter plaatse actie heeft ondernomen om de situatie te corrigeren;<br>
-3° als het bij de vastgestelde niet-naleving om onjuiste vermeldingen in het register of Sanitel, zijnde het geautomatiseerde gegevensbestand, vermeld in artikel 2, §2, 1°, van het koninklijk besluit van 20 mei 2022;<br>
-4° gaat, die evenwel niet van belang zijn voor de naleving van de andere subsidiabiliteitsvoorwaarden in het kader van de maatregel in kwestie, wordt het dier in kwestie alleen als niet geconstateerd beschouwd als die onjuiste vermeldingen bij ten minste twee controles binnen een periode van 24 maanden worden vastgesteld. In alle overige gevallen worden de dieren in kwestie na de eerste vaststelling als niet geconstateerd beschouwd.<br>
+3° als de vastgestelde niet-naleving om onjuiste vermeldingen in het register of Sanitel, gaat, die evenwel niet van belang zijn voor de naleving van de andere subsidiabiliteitsvoorwaarden in het kader van de maatregel in kwestie, wordt het dier in kwestie alleen als niet-geconstateerd beschouwd als die onjuiste vermeldingen bij ten minste twee controles binnen een periode van 24 maanden worden vastgesteld. In alle overige gevallen worden de dieren in kwestie na de eerste vaststelling als niet-geconstateerd beschouwd;<br>
+4° als de niet-naleving alleen wordt vastgesteld bij een administratieve controle op basis van Sanitel, wordt het dier in kwestie als geconstateerd beschouwd. Bij een dergelijke niet-naleving wordt er conform artikel 88, §2, 1°, van dit besluit, voor het dier in kwestie geen steun betaald.<br>
 <br>
 §2. Een niet-naleving met betrekking tot de identificatie- en registratieregeling voor runderen heeft geen gevolg voor de landbouwer, als het gaat om een kennelijke fout die de bevoegde entiteit heeft erkend op basis van een algemene beoordeling van het specifieke geval en als de landbouwer te goeder trouw heeft gehandeld.
 
 ### ART 95.
 
-§1. Het totale bedrag aan steun waarop de landbouwer in het kader van de gekoppelde inkomenssteun in de campagne in kwestie recht heeft, wordt bepaald op basis van het geconstateerde aantal dieren, op voorwaarde dat bij administratieve controles of controles ter plaatse voldaan is aan al de volgende voorwaarden:<br>
-1° er zijn niet meer dan drie dieren niet geconstateerd;<br>
+§1. Met behoud van de toepassing van artikel 94, §1, 4°, wordt het totale bedrag aan steun waarop de landbouwer in het kader van de gekoppelde inkomenssteun in de campagne in kwestie recht heeft, bepaald op basis van het aantal geconstateerde dieren, op voorwaarde dat voldaan is aan al de volgende voorwaarden:<br>
+1° er zijn niet meer dan drie dieren niet-geconstateerd;<br>
 2° de niet-geconstateerde runderen kunnen individueel worden geïdentificeerd aan de hand van middelen die in de identificatie- en registratieregeling voor die dieren vastgesteld zijn.<br>
 <br>
-§2. Als er meer dan drie niet-geconstateerde dieren zijn of als de niet-geconstateerde runderen niet individueel geïdentificeerd kunnen worden aan de hand van middelen die in de identificatie- en registratieregeling voor die dieren vastgesteld zijn, wordt het totale bedrag aan steun waarop de landbouwer voor de campagne in kwestie recht heeft, bepaald op basis van het geconstateerde aantal dieren en verlaagd met:<br>
+§2. Als er meer dan drie niet-geconstateerde dieren zijn of als de niet-geconstateerde runderen niet individueel geïdentificeerd kunnen worden aan de hand van middelen die in de identificatie- en registratieregeling voor die dieren vastgesteld zijn, wordt, met behoud van de toepassing van artikel 94, §1, 4°, het totale bedrag aan steun waarop de landbouwer voor de campagne in kwestie recht heeft, bepaald op basis van het geconstateerde aantal dieren en verlaagd met:<br>
 1° het percentage, berekend overeenkomstig het tweede lid, als dat niet hoger is dan 20%;<br>
 2° twee keer het percentage, berekend overeenkomstig het tweede lid, als dat hoger dan 20% is, maar niet hoger dan 30% is.<br>
 <br>
@@ -1115,7 +1108,9 @@ Als het overeenkomstig het tweede lid bepaalde percentage hoger dan 50% is, word
 2° het percentage van de lineaire verlaging, vastgesteld overeenkomstig artikel 87, §1 van verordening (EU) nr. 2021/2115;<br>
 3° het aanpassingspercentage, vermeld in artikel 17 van verordening (EU) nr. 2021/2116.<br>
 <br>
-§3. Het bedrag van de betaling dat voortvloeit uit de toepassing van paragraaf 2 dient als basis voor de berekening van de verlagingen die overeenkomstig artikel 85 van verordening (EU) 2021/2116 en hoofdstuk III van gedelegeerde verordening (EU) 2022/1172 wegens niet-naleving van de conditionaliteitsverplichtingen moeten worden toegepast.
+§3. Het bedrag van de betaling dat voortvloeit uit de toepassing van paragraaf 2 dient als basis voor de berekening van de verlagingen die overeenkomstig artikel 85 van verordening (EU) 2021/2116 en hoofdstuk III van gedelegeerde verordening (EU) 2022/1172 wegens niet-naleving van de conditionaliteitsverplichtingen moeten worden toegepast.<br>
+<br>
+§4. Het bedrag van de betaling dat voortvloeit uit de toepassing van paragraaf 2, wordt gebruikt als basis voor de berekening van de verlagingen, vermeld in artikel 89 van verordening (EU) 2021/2116.
 
 ## Hoofdstuk 8. Bezwaarprocedure
 
