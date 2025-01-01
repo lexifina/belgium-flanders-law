@@ -9,25 +9,27 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 ### ART 2.
 
 In dit decreet wordt verstaan onder:<br>
-1° eerstelijnszone: het werkgebied van de zorgraad, vermeld in artikel 13;<br>
+1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+1°/1 eerstelijnszone: het werkgebied van de zorgraad, vermeld in artikel 13;<br>
 2° eerstelijnszorg: de zorg en ondersteuning die zich richt op personen die behoefte hebben aan laagdrempelige, breed toegankelijke, ambulante en generalistische zorg en ondersteuning voor gezondheids- of welzijnsgerelateerde problemen, zowel van fysieke, psychologische als sociale aard, die wordt aangeboden door eerstelijnszorgaanbieders, al dan niet na verwijzing door een andere zorgaanbieder;<br>
-3° eerstelijnszorgaanbieder: een persoon, dienst of organisatie die als zorg- of welzijnsactor professioneel zorg of ondersteuning verleent aan personen met een zorg- en ondersteuningsvraag, met uitzondering van de personen, diensten of organisaties met een gespecialiseerd zorg- en ondersteuningsaanbod;<br>
-4° geïntegreerde zorg en ondersteuning: de samenwerking op operationeel en organisatorisch niveau van alle betrokken zorg- en welzijnsactoren en initiatieven van vrijwillige en informele zorg- en welzijnsactoren in het streven naar een samenhangende en continue zorg voor en ondersteuning van de persoon met een zorg- en ondersteuningsvraag en zijn mantelzorgers, waarbij de zorg- en ondersteuningsvraag en de context van de persoon met een zorg- en ondersteuningsvraag het uitgangspunt vormen tijdens de hele levensloop;<br>
-5° informele zorg: de zorg en ondersteuning die personen niet beroepshalve maar meer dan occasioneel verlenen aan de persoon met een zorg- en ondersteuningsvraag;<br>
+3° eerstelijnszorgaanbieder: een persoon, dienst of organisatie die als zorg- of welzijnsactor professioneel zorg of ondersteuning verleent aan personen met een zorg- en ondersteuningsnood, met uitzondering van de personen, diensten of organisaties met een gespecialiseerd zorg- en ondersteuningsaanbod;<br>
+4° geïntegreerde zorg en ondersteuning: de samenwerking op operationeel en organisatorisch niveau van alle betrokken zorg- en welzijnsactoren en initiatieven van vrijwillige en informele zorg- en welzijnsactoren in het streven naar een samenhangende en continue zorg voor en ondersteuning van de persoon met een zorg- en ondersteuningsnood en zijn mantelzorgers, waarbij de zorg- en ondersteuningsvraag en de context van de persoon met een zorg- en ondersteuningsvraag het uitgangspunt vormen tijdens de hele levensloop;<br>
+5° informele zorg: de zorg en ondersteuning die personen niet beroepshalve maar meer dan occasioneel verlenen aan de persoon met een zorg- en ondersteuningsnood;<br>
 6° interdisciplinair: de wijze van samenwerking die opgebouwd wordt vanuit gezamenlijk geformuleerde zorg- en ondersteuningsdoelen, waarbij die zorg- en ondersteuningsdoelen niet gerealiseerd kunnen worden door één discipline of organisatie. In een interdisciplinaire samenwerking worden inzichten vanuit verschillende invalshoeken, disciplines en ervaringen gecombineerd;<br>
+6°/1 levensdoel: een persoonlijke doelstelling van de persoon met een zorg- en ondersteuningsnood, gebaseerd op zijn waarden en wensen, die toelaat doelgerichte zorg te verlenen en zorg- en ondersteuningsdoelen op te stellen;<br>
 7° lokale besturen: de gemeenten en de openbare centra voor maatschappelijk welzijn;<br>
-8° mantelzorger: de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met een zorg- en ondersteuningsvraag, niet beroepshalve maar meer dan occasioneel, helpt en steunt in het dagelijkse leven;<br>
+8° mantelzorger: de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met een zorg- en ondersteuningsnood, niet beroepshalve maar meer dan occasioneel, helpt en steunt in het dagelijkse leven;<br>
 9° organisatie met terreinwerking: een organisatie met rechtspersoonlijkheid die op het terrein de opdrachten uitvoert, de methodieken, die al dan niet aangereikt worden door een partnerorganisatie, toepast of ondersteuning aanlevert voor de eerstelijnszorg, en die daarvoor door de Vlaamse Regering erkend of gesubsidieerd wordt;<br>
 10° partnerorganisatie: een organisatie met rechtspersoonlijkheid die als centrum van expertise fungeert binnen het geheel of deelaspecten van de eerstelijnszorg en die door de Vlaamse Regering erkend en gesubsidieerd wordt, of gesubsidieerd wordt via een beheersovereenkomst;<br>
-11° vertegenwoordiger: de natuurlijke persoon die in de plaats van de persoon met een zorg- en ondersteuningsvraag optreedt bij alle handelingen die de persoon met een zorg- en ondersteuningsvraag moet stellen in het kader van dit decreet, als die niet in staat is zijn rechten zelf uit te oefenen;<br>
-12° zelfregie: de persoon met een zorg- of ondersteuningsvraag beschikt over het vermogen om de zorg en ondersteuning zowel procesmatig als inhoudelijk te laten aansluiten bij zijn levensdoelen en de levenskwaliteit die hij wil, hij kan controle erop uitoefenen en hij heeft de leiding erover;<br>
-13° zelfzorgvermogen: de persoon met een zorg- of ondersteuningsvraag bezit het vermogen om als natuurlijke persoon beslissingen en acties in het dagelijkse leven uit te voeren om te voldoen aan zijn basisbehoeften, en de bijbehorende activiteiten;<br>
-14° zorgaanbieder: een persoon, dienst of organisatie die als zorg- of welzijnsactor professioneel zorg of ondersteuning verleent aan personen met een zorg- en ondersteuningsvraag, inclusief de personen, diensten of organisaties met een gespecialiseerd zorg- en ondersteuningsaanbod;<br>
+11° vertegenwoordiger: de natuurlijke persoon die in de plaats van de persoon met een zorg- en ondersteuningsnood optreedt bij alle handelingen die de persoon met een zorg- en ondersteuningsvraag moet stellen in het kader van dit decreet, als die niet in staat is zijn rechten zelf uit te oefenen;<br>
+12° zelfregie: de persoon met een zorg- en ondersteuningsnood beschikt over het vermogen om de zorg en ondersteuning zowel procesmatig als inhoudelijk te laten aansluiten bij zijn levensdoelen en de levenskwaliteit die hij wil, hij kan controle erop uitoefenen en hij heeft de leiding erover;<br>
+13° zelfzorgvermogen: de persoon met een zorg- en ondersteuningsnood bezit het vermogen om als natuurlijke persoon beslissingen en acties in het dagelijkse leven uit te voeren om te voldoen aan zijn basisbehoeften, en de bijbehorende activiteiten;<br>
+14° zorgaanbieder: een persoon, dienst of organisatie die als zorg- of welzijnsactor professioneel zorg of ondersteuning verleent aan personen met een zorg- en ondersteuningsnood, inclusief de personen, diensten of organisaties met een gespecialiseerd zorg- en ondersteuningsaanbod;<br>
 15° zorg en ondersteuning: een activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, uitgevoerd in het kader van dit decreet;<br>
-16° zorg- en ondersteuningsdoel: een doel dat geformuleerd wordt door de persoon met een zorg- en ondersteuningsvraag, zijn vertegenwoordiger of mantelzorger en zijn zorgaanbieders met betrekking tot de wenselijke zorg met het oog op de levensdoelen en de levenskwaliteit die de persoon met een zorg- en ondersteuningsvraag wil bereiken;<br>
-17° zorg- en ondersteuningsplan: een werkinstrument waarin, na vraagverheldering of indicatiestelling, op aangeven van en in samenspraak met de persoon de zorg- en ondersteuningsdoelen en de afspraken over de geplande zorg en ondersteuning voor de persoon met een zorg- en ondersteuningsvraag zijn opgenomen, en dat toegankelijk is voor het zorgteam;<br>
-18° zorg- en ondersteuningsvraag: de nood aan zorg en ondersteuning die een persoon of zijn omgeving aanvoelt of die objectief vastgesteld wordt;<br>
-19° zorgteam: de persoon met een zorg- en ondersteuningsvraag en de betrokken informele en professionele zorg- en welzijnsactoren die, in het kader van een zorg- en ondersteuningsplan, samenwerken rond de zorg voor de persoon met een zorg- en ondersteuningsvraag.
+16° zorg- en ondersteuningsdoel: een doel dat geformuleerd wordt door de persoon met een zorg- en ondersteuningsnood, zijn vertegenwoordiger of mantelzorger en zijn zorgaanbieders met betrekking tot de wenselijke zorg met het oog op de levensdoelen en de levenskwaliteit die de persoon met een zorg- en ondersteuningsnood wil bereiken;<br>
+17° zorg- en ondersteuningsplan: een al dan niet digitaal werkinstrument waarin, na vraagverheldering of indicatiestelling, op aangeven van en in samenspraak met de persoon met een zorg- en ondersteuningsnood, de zorg- en ondersteuningsdoelen en de werkafspraken over de geplande zorg en ondersteuning voor die persoon zijn opgenomen en waarmee het zorg- en ondersteuningsteam met elkaar samenwerkt en communiceert;<br>
+18° zorg- en ondersteuningsnood: de nood aan zorg en ondersteuning die een persoon of zijn omgeving aanvoelt of die objectief vastgesteld wordt;<br>
+19° zorg- en ondersteuningsteam: de persoon met een zorg- en ondersteuningsnood en de betrokken informele en professionele zorg- en welzijnsactoren die, in het kader van een zorg- en ondersteuningsplan, samenwerken rond de zorg voor de persoon met een zorg- en ondersteuningsnood.
 
 ## HOOFDSTUK 2. Werkingsprincipes voor een persoonsgerichte en geïntegreerde organisatie van de eerstelijnszorg
 
@@ -38,79 +40,87 @@ Dit decreet regelt de organisatie van de eerstelijnszorg, de regionale zorgplatf
 ### ART 4.
 
 In de eerstelijnszorg staan volgende werkingsprincipes voorop:<br>
-1° het benaderen van de persoon met een zorg- en ondersteuningsvraag vanuit het principe van integrale zorg en ondersteuning, vermeld in artikel 4, tweede lid, 1°, met respect voor zijn recht op zelfbeschikking;<br>
-2° het centraal stellen van de persoon met een zorg- en ondersteuningsvraag en uitgaan van zijn zorg- en ondersteuningsvraag, keuzes, behoeften en levensdoelen;<br>
+1° het benaderen van de persoon met een zorg- en ondersteuningsnood vanuit het principe van integrale zorg en ondersteuning, vermeld in artikel 4, tweede lid, 1°, met respect voor zijn recht op zelfbeschikking;<br>
+2° het centraal stellen van de persoon met een zorg- en ondersteuningsnood en uitgaan van zijn zorg- en ondersteuningsnood, keuzes, behoeften en levensdoelen;<br>
 3° het ondersteunen en versterken van het zelfzorgvermogen en de informele zorg, in overeenstemming met het subsidiariteitsprincipe;<br>
 4° het maximaal inzetten op het verhogen van de zorggeletterdheid;<br>
 5° het maximaal inzetten op preventie, vroegdetectie en vroeginterventie;<br>
 6° bij de planning, organisatie en uitvoering van de eerstelijnszorg staan de volgende doelstellingen voorop:<br>
-a) de kwaliteit van de eerstelijnszorg zoals de persoon met een zorg- en ondersteuningsvraag die ervaart, optimaliseren;<br>
+a) de kwaliteit van de eerstelijnszorg zoals de persoon met een zorg- en ondersteuningsnood die ervaart, optimaliseren;<br>
 b) de gezondheid en het welzijn van de bevolking met bijzondere aandacht voor toegankelijkheid en sociale rechtvaardigheid verbeteren;<br>
-c) een meerwaarde creëren op het vlak van gezondheid en welzijn voor de persoon met een zorg- en ondersteuningsvraag met de ingezette middelen;<br>
+c) een meerwaarde creëren op het vlak van gezondheid en welzijn voor de persoon met een zorg- en ondersteuningsnood met de ingezette middelen;<br>
 d) een kwaliteitsvolle en duurzame manier van werken voor de zorgaanbieders verzekeren;<br>
 7° het op een kwaliteitsvolle wijze organiseren en uitvoeren van de integrale zorg en ondersteuning. Toegankelijkheid, aanvaardbaarheid, geschiktheid, effectiviteit, veiligheid, rechtvaardigheid, relevantie, efficiëntie, innovatie en duurzaamheid staan daarbij voorop;<br>
-8° het nastreven van een geïntegreerde zorg en ondersteuning. Daarvoor kunnen gegevens over de persoon met wie een zorgrelatie bestaat, gedeeld worden op voorwaarde dat de vrije keuze en de transparante en objectieve informatie aan de persoon worden gevrijwaard. De gegevens worden gedeeld overeenkomstig de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) en het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg, en bij voorkeur op digitale wijze. Een goede kennis van het zorg- en ondersteuningslandschap is daarvoor onontbeerlijk.<br>
+8° het nastreven van een geïntegreerde zorg en ondersteuning. Daarvoor kunnen gegevens over de persoon met wie een zorgrelatie bestaat, gedeeld worden op voorwaarde dat de vrije keuze en de transparante en objectieve informatie aan de persoon worden gevrijwaard. De gegevens worden gedeeld overeenkomstig de algemene verordening gegevensbescherming en het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg, en bij voorkeur op digitale wijze. Een goede kennis van het zorg- en ondersteuningslandschap is daarvoor onontbeerlijk.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
-1° integrale zorg en ondersteuning: de zorg en ondersteuning die een persoon met een zorg- en ondersteuningsvraag als geheel benadert, rekening houdend met aspecten van medische, psychosociale, levensbeschouwelijke en culturele aard en ook met factoren uit het dagelijkse leven;<br>
+1° integrale zorg en ondersteuning: de zorg en ondersteuning die een persoon met een zorg- en ondersteuningsnood als geheel benadert, rekening houdend met aspecten van medische, psychosociale, levensbeschouwelijke en culturele aard en ook met factoren uit het dagelijkse leven;<br>
 2° vroegdetectie: het geheel van activiteiten om een aandoening of problematiek in een zo vroeg mogelijke fase van de ontwikkeling of een verhoogd risico op die aandoening of problematiek op te sporen;<br>
 3° vroeginterventie: het geheel van activiteiten die uitgevoerd worden door zorgaanbieders om adequaat te reageren op de signalen die bij de vroegdetectie worden opgevangen;<br>
-4° zorgrelatie: de relationele band die in het kader van dit decreet ontstaat tussen een persoon met een zorg- en ondersteuningsvraag en de eerstelijnszorgaanbieder;<br>
+4° zorgrelatie: de relationele band die in het kader van dit decreet ontstaat tussen een persoon met een zorg- en ondersteuningsnood en de eerstelijnszorgaanbieder;<br>
 5° zelfbeschikking: het recht op eigen keuze en zelfstandigheid in het bepalen van het eigen leven;<br>
-6° zorggeletterdheid: de mate waarin de persoon met een zorg- en ondersteuningsvraag beschikt over het vermogen om fundamentele informatie en diensten op het gebied van gezondheid en welzijn te verkrijgen, te verwerken en te begrijpen, zodat hij een beslissing kan nemen die zijn gezondheid en welzijn ten goede komt.
+6° zorggeletterdheid: de mate waarin de persoon met een zorg- en ondersteuningsnood beschikt over het vermogen om fundamentele informatie en diensten op het gebied van gezondheid en welzijn te verkrijgen, te verwerken en te begrijpen, zodat hij een beslissing kan nemen die zijn gezondheid en welzijn ten goede komt.
 
-## HOOFDSTUK 3. Organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsvraag
+## HOOFDSTUK 3. Organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsnood
 
 ### ART 5.
 
-Bij de organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsvraag respecteren alle betrokken zorgaanbieders de zorg- en ondersteuningsdoelen van die persoon, alsook zijn zelfzorgvermogen, zijn keuzevrijheid en zijn wens en vermogen tot zelfregie.<br>
+Bij de organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsnood respecteren alle betrokken zorgaanbieders de zorg- en ondersteuningsdoelen van die persoon, alsook zijn zelfzorgvermogen, zijn keuzevrijheid en zijn wens en vermogen tot zelfregie.<br>
 <br>
-Over de organisatie van de eerstelijnszorg om die zorg- en ondersteuningsdoelen te bereiken, vermeld in het eerste lid, worden samenwerkingsafspraken gemaakt tussen de betrokken zorgaanbieders, de persoon met een zorg- en ondersteuningsvraag en eventueel de mantelzorgers.
+Over de organisatie van de eerstelijnszorg om die zorg- en ondersteuningsdoelen te bereiken, vermeld in het eerste lid, worden samenwerkingsafspraken gemaakt tussen de betrokken zorgaanbieders, de persoon met een zorg- en ondersteuningsnood en eventueel de mantelzorgers.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsnood en de samenwerkingsafspraken, vermeld in het tweede lid.
 
 ### ART 6.
 
-§ 1. Bij complexe zorg- en ondersteuningsbehoeften of bij langdurige zorg en ondersteuning wordt op verzoek van de persoon met een zorg- en ondersteuningsvraag of zijn vertegenwoordiger een zorg- en ondersteuningsplan opgemaakt. Het zorg- en ondersteuningsplan wordt opgemaakt en uitgevoerd door het zorgteam.<br>
+§ 1. Bij complexe zorg- en ondersteuningsbehoeften of bij langdurige zorg en ondersteuning wordt op verzoek van de persoon met een zorg- en ondersteuningsnood of zijn vertegenwoordiger een zorg- en ondersteuningsplan opgemaakt. Het zorg- en ondersteuningsplan wordt opgemaakt en uitgevoerd door het zorg- en ondersteuningsteam.<br>
 <br>
-Ook op verzoek van de mantelzorgers of de eerstelijnszorgaanbieders kan een zorg- en ondersteuningsplan worden opgesteld, op voorwaarde dat de persoon met een zorg- en ondersteuningsvraag of zijn vertegenwoordiger daarmee akkoord gaat.<br>
+Ook op verzoek van de mantelzorgers of de eerstelijnszorgaanbieders kan een zorg- en ondersteuningsplan worden opgesteld, op voorwaarde dat de persoon met een zorg- en ondersteuningsnood of zijn vertegenwoordiger daarmee akkoord gaat.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen met betrekking tot het zorg- en ondersteuningsplan en het opstellen ervan.<br>
 <br>
-Een zorgteam bestaat uit:<br>
-1° de persoon met een zorg- en ondersteuningsvraag of zijn vertegenwoordiger;<br>
+Een zorg- en ondersteuningsteam bestaat uit:<br>
+1° de persoon met een zorg- en ondersteuningsnood of zijn vertegenwoordiger;<br>
 2° in voorkomend geval de persoon of personen actief in de informele zorg;<br>
-3° de zorgaanbieders, gekozen door de persoon met een zorg- en ondersteuningsvraag, die betrokken zijn bij de realisatie van de zorg- en ondersteuningsdoelen van de persoon, vermeld in punt 1°.<br>
+3° de zorgaanbieders, gekozen door de persoon met een zorg- en ondersteuningsnood, die betrokken zijn bij de realisatie van de zorg- en ondersteuningsdoelen van de persoon, vermeld in punt 1°.<br>
 <br>
-De samenstelling van het zorgteam wordt in het zorg- en ondersteuningsplan opgenomen.<br>
+De samenstelling van het zorg- en ondersteuningsteam wordt in het zorg- en ondersteuningsplan opgenomen.<br>
 <br>
-§ 2. In deze paragraaf wordt verstaan onder interdisciplinair overleg: een overleg van het zorgteam, waarvan minstens drie zorgaanbieders deel uitmaken.<br>
-<br>
-Het zorgteam vervult de volgende taken:<br>
+§ 2. Het zorg- en ondersteuningsteam vervult de volgende taken:<br>
 1° het zorg- en ondersteuningsplan opmaken, uitvoeren, evalueren en zo nodig bijsturen om de zorg- en ondersteuningsdoelen te bereiken;<br>
 2° de persoon of zijn vertegenwoordiger, als dat nodig is, in contact brengen met zorgaanbieders die er nog niet bij betrokken zijn of met diensten uit andere domeinen dan de eerstelijnszorg, altijd met respect voor de vrije keuze van de persoon;<br>
 3° tijdelijk expertise toevoegen, als dat nodig is, voor de uitvoering van het zorg- en ondersteuningsplan;<br>
 4° als dat nodig is, een interdisciplinair overleg organiseren.<br>
 <br>
-De Vlaamse Regering kan bijkomende taken formuleren voor het zorgteam en nadere regels bepalen voor de uitvoering van de taken, vermeld in het eerste lid.<br>
+De Vlaamse Regering kan bijkomende taken formuleren voor het zorg- en ondersteuningsteam en nadere regels bepalen voor de uitvoering van de taken, vermeld in het eerste lid.<br>
 <br>
-De Vlaamse Regering kan de nadere regels, en in voorkomend geval, de financieringsvoorwaarden, het financieringsbedrag en de procedure voor het aanvragen en toekennen van de financiering van de taak, vermeld in het eerste lid, 4°, bepalen.<br>
+§ 3. De zorgcoördinator is het aanspreekpunt van het zorg- en ondersteuningsteam dat als lid van het zorg- en ondersteuningsteam de taak op zich neemt om het overzicht te behouden en ervoor te zorgen dat alle zorg en ondersteuning, vastgelegd op basis van de zorg- en ondersteuningsnood van de persoon, afgestemd, opgevolgd en geëvalueerd wordt.<br>
 <br>
-§ 3. De zorgcoördinator is het aanspreekpunt van het zorgteam dat als lid van het zorgteam de taak op zich neemt om het overzicht te behouden en ervoor te zorgen dat alle zorg en ondersteuning, vastgelegd op basis van de zorg- of ondersteuningsvragen van de persoon, afgestemd, opgevolgd en geëvalueerd wordt.<br>
+De persoon met een zorg- en ondersteuningsnood of zijn vertegenwoordiger neemt bij voorkeur de taak van zorgcoördinator op. Voor die taak kan de persoon bijgestaan worden door een lid van het zorg- en ondersteuningsteam.<br>
 <br>
-De persoon met een zorg- en ondersteuningsvraag of zijn vertegenwoordiger neemt bij voorkeur de taak van zorgcoördinator op. Voor die taak kan de persoon bijgestaan worden door een lid van het zorgteam.<br>
+Als de persoon met een zorg- en ondersteuningsnood of zijn vertegenwoordiger dat niet wil of kan opnemen, of bij scharniermomenten, wijst de persoon met een zorg- en ondersteuningsnood in samenspraak en na beraadslaging met het zorg- en ondersteuningsteam een zorgaanbieder als zorgcoördinator aan.<br>
 <br>
-Als de persoon met een zorg- en ondersteuningsvraag of zijn vertegenwoordiger dat niet wil of kan, wijst de persoon met een zorg- en ondersteuningsvraag in samenspraak met en op aangeven van het zorgteam een zorgcoördinator aan.<br>
+In het derde lid wordt verstaan onder scharniermomenten: situaties waarbij de context van de zorg en ondersteuning, de frequentie waarmee de zorg en ondersteuning wordt toegediend, of de complexiteit wijzigt.<br>
 <br>
 § 4. De Vlaamse Regering kan de nadere regels, en in voorkomend geval, de financieringsvoorwaarden, het financieringsbedrag en de procedure voor het aanvragen en toekennen van de financiering van de taak, vermeld in paragraaf 3, bepalen.
 
 ### ART 7.
 
-§ 1. In dit artikel wordt verstaan onder casemanagement: de grondige analyse en evaluatie van het zorg- en ondersteuningsproces, opgebouwd en uitgevoerd door het zorgteam, om tot duidelijke probleemstelling te komen, en de oplossingsgerichte procesbegeleiding en zorgafstemming die daaraan verbonden worden.<br>
+§ 1. In dit artikel wordt verstaan onder casemanagement: de grondige analyse en evaluatie van de zorg- en ondersteuningsnood of het zorg- en ondersteuningsproces, opgebouwd en uitgevoerd door het zorg- en ondersteuningsteam, om tot duidelijke probleemstelling te komen, en de oplossingsgerichte procesbegeleiding en zorgafstemming die daaraan verbonden worden.<br>
 <br>
-§ 2. Bij een, al dan niet versnelde, toenemende complexiteit of bij verlies van zelfregie of zelfzorgvermogen van de persoon met een zorg- en ondersteuningsvraag nemen de leden van het zorgteam in samenspraak met en op aangeven van de persoon of zijn vertegenwoordiger alle nodige maatregelen om de zorg en ondersteuning blijvend af te stemmen op de zorg- en ondersteuningsvraag.<br>
+§ 2. ...<br>
 <br>
-§ 3. Als het zorgteam niet slaagt in de realisatie van de opdracht, vermeld in paragraaf 2, kan op aanvraag van de zorgcoördinator en met akkoord van het zorgteam een zorgaanbieder, die de taak van casemanagement opneemt, tijdelijk ingezet worden ter ondersteuning van het zorgteam.<br>
+§3. Het aanstellen van een zorgaanbieder, die de taak van casemanagement op zich neemt, kan alleen in de volgende gevallen:<br>
+1°&nbsp;&nbsp; &nbsp;in zorgsituaties waarbij voldaan is aan al de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;de personen met een zorg- en ondersteuningsnood ontvangen niet de zorg die volgens hun noden aanwezig moet zijn;<br>
+b)&nbsp;&nbsp; &nbsp;er is geen zorg- en ondersteuningsteam aanwezig of samengesteld;<br>
+c)&nbsp;&nbsp; &nbsp;geen enkele zorgaanbieder is bij machte om door de hoge complexiteit het zorgproces aan te vatten;<br>
+2° bij zorgprocessen waarbij het bestaande zorg- en ondersteuningsteam er niet in slaagt om de zorg- en ondersteuningsdoelen te bereiken of waarbij de personen met een zorg- en ondersteuningsnood, hun informele verzorger of een zorgaanbieder aangeven dat er verbetering moet komen in het zorgproces.<br>
 <br>
-De zorgaanbieder die de taak van casemanagement opneemt, maakt geen deel uit van het zorgteam en treedt niet in de plaats van het zorgteam.<br>
+De zorgaanbieder die de taak van casemanagement opneemt:<br>
+1° maakt geen deel uit van het zorg- en ondersteuningsteam;<br>
+2° treedt niet in de plaats van het zorg- en ondersteuningsteam;<br>
+3° neemt de taak van casemanagement tijdelijk op.<br>
 <br>
 § 4. De Vlaamse Regering kan de nadere regels, en in voorkomend geval, de financieringsvoorwaarden, het financieringsbedrag en de procedure voor het aanvragen en toekennen van de financiering van de taak, vermeld in paragraaf 3, bepalen.
 
@@ -144,25 +154,26 @@ Een zorgraad neemt de vorm aan van een privaatrechtelijke vereniging met rechtsp
 
 ### ART 11.
 
-Een zorgraad voert minstens de volgende opdrachten uit:<br>
-1° de organisatie en het aanbod van kwaliteitsvolle zorg en ondersteuning afstemmen op de zorg- en ondersteuningsvragen, zoals vastgesteld op bevolkingsniveau binnen het werkgebied van de zorgraad, in samenspraak met:<br>
-a) de verenigingen van personen met een zorg- en ondersteuningsvraag en met de verenigingen van mantelzorgers en de verenigingen van vrijwilligers;<br>
-b) de eerstelijnszorgaanbieders;<br>
-c) de personen, diensten of organisaties met een gespecialiseerd zorgaanbod;<br>
-d) de lokale besturen.<br>
-De zorgraad kan daarbij doelgroepspecifiek of wijkgericht te werk gaan;<br>
-2° een lokaal sociaal beleid als vermeld in artikel 3, 4°, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid, ondersteunen;<br>
-3° beroepsgroepspecifieke verenigingen ondersteunen die alle vrijwillig toegetreden eerstelijnszorgaanbieders die binnen het werkgebied van de zorgraad hun beroepsactiviteit uitoefenen, groeperen;<br>
-4° eerstelijnszorgaanbieders ondersteunen:<br>
-a) bij de organisatie van kwaliteitsvolle en geïntegreerde zorg en ondersteuning van de personen met een zorg- en ondersteuningsvraag als vermeld in hoofdstuk 3, en met inbegrip van digitale gegevensdeling en het klachtenbeleid bij de interdisciplinaire en multidisciplinaire samenwerking bij het aanbieden van die zorg;<br>
-b) bij de aanlevering van gegevens voor de sociale kaart;<br>
-5° meewerken aan de uitvoering van Vlaamse gezondheidsdoelstellingen en zo nodig andere doelstellingen voor het werkgebied voorstellen aan de Vlaamse Gemeenschap.<br>
+Een zorgraad als vermeld in artikel 9, voert al de volgende opdrachten uit: 1° de organisatie en het aanbod van kwaliteitsvolle zorg en ondersteuning<br>
+binnen zijn werkgebied afstemmen op de zorg- en ondersteuningsnoden door prioriteiten te bepalen die vastgesteld zijn op het bevolkingsniveau binnen het werkgebied van een zorgraad als vermeld in artikel 9. De voormelde zorgraad voert de voormelde opdracht uit in samenspraak met de volgende actoren:<br>
+a)&nbsp;&nbsp; &nbsp;de verenigingen van personen met een zorg- en ondersteuningsnood, de verenigingen van mantelzorgers en de verenigingen van vrijwilligers;<br>
+b)&nbsp;&nbsp; &nbsp;de eerstelijnszorgaanbieders;<br>
+c)&nbsp;&nbsp; &nbsp;de personen, diensten of organisaties met een gespecialiseerd zorgaanbod waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
+d)&nbsp;&nbsp; &nbsp;de lokale besturen, die hun beleidslijnen en inhoudelijke prioriteiten bepalen in het kader van het lokaal sociaal beleid, en die een gezamenlijk initiatief kunnen nemen om een bovenlokaal sociaal beleid te ontwikkelen.<br>
+De voormelde zorgraad stemt voor de voormelde opdracht eveneens af met de personen, diensten of organisaties met een gespecialiseerd zorg- aanbod waarvoor de Vlaamse Gemeenschap niet bevoegd is, in functie van de beleidsprioriteiten;<br>
+2° &nbsp; een lokaal sociaal beleid ondersteunen;<br>
+3° het brede veld van beroepsgroepspecifieke verenigingen, eerstelijnszorgaanbieders, verenigingen van mantelzorgers, personen met een zorg- en ondersteuningsnood en vrijwilligers ondersteunen bij de organisatie van kwaliteitsvolle en geïntegreerde zorg en ondersteuning van de persoon met een zorg- en ondersteuningsnood als vermeld in hoofdstuk 3, met inbegrip van digitale gegevensdeling bij de interdisciplinaire en multidisciplinaire samenwerking bij het aanbieden van die zorg;<br>
+4° meewerken aan de uitvoering van de beleidsdoelstellingen voor het beleidsdomein Welzijn, Volksgezondheid en Gezin en, als dat nodig is, andere prioritaire doelstellingen voor het werkgebied voorstellen aan de Vlaamse Gemeenschap.<br>
 <br>
-In het eerste lid wordt verstaan onder:<br>
+Als de opdracht, vermeld in het eerste lid, 1°, wordt uitgevoerd, kan de zorgraad, vermeld in artikel 9, doelgroepspecifiek en/of wijkgericht te werk gaan en zich baseren op de uitgewerkte zorgstrategische planning en het populatiemanagement. De uitgewerkte zorgstrategische planning zet maximaal in op een geïntegreerd zorg- en ondersteuningsaanbod en respecteert de keuzevrijheid van de patiënt. De zorgraad evalueert het proces van populatiemanagement continu met het oog op kwaliteit en stelt het proces bij wanneer nodig.<br>
+<br>
+In het eerste en tweede lid wordt verstaan onder:<br>
 1° kwaliteitsvolle zorg: de verantwoorde zorg en ondersteuning die rekening houdt met doeltreffendheid, doelmatigheid, continuïteit, maatschappelijke aanvaardbaarheid en gebruikersgerichtheid;<br>
-2° multidisciplinaire samenwerking: de wijze van samenwerking van zorgaanbieders rond en met de persoon met een zorg- en ondersteuningsvraag, die betrekking heeft op verschillende disciplines en waarbij vanuit de eigen discipline gehandeld wordt zonder combinatie of uitwisseling van expertise, ervaring of kennis;<br>
+1°/1 lokaal sociaal beleid: het lokaal sociaal beleid, vermeld in artikel 3, 4°, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
+2° multidisciplinaire samenwerking: de wijze van samenwerking van zorgaanbieders rond en met de persoon met een zorg- en ondersteuningsnood, die betrekking heeft op verschillende disciplines en waarbij vanuit de eigen discipline gehandeld wordt zonder combinatie of uitwisseling van expertise, ervaring of kennis;<br>
+2°/1 populatiemanagement: een stapsgewijs en cyclisch proces om via weloverwogen interventies, ondersteund door data en kennis en al dan niet gesegmenteerd, de toestand van een welomschreven populatie te behouden of te verbeteren op verschillende domeinen en de socio-economische gradiënt in sterven, ziekte en gezondheid te reduceren. De voormelde verschillende domeinen kunnen zowel organisatorische, medische, preventieve als welzijnsdoelstellingen bevatten;<br>
 3° vrijwilliger: de natuurlijke persoon die zijn activiteiten uitvoert op vrijwillige basis, onbezoldigd en in een georganiseerd verband;<br>
-4° sociale kaart: de gegevensbank, beheerd door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, met identificatie-, contact- en werkingsgegevens van de zorgaanbieders in Vlaanderen en in Brussel.<br>
+4° zorgstrategische planning: een plan waarbij op basis van gezondheidsindicatoren en demografische gegevens de zorgnood binnen de eerstelijnszorg wordt bepaald en die toelaat om op basis van die zorgnood het toekomstige aanbod in de eerste lijn te bepalen.<br>
 <br>
 Voor de ondersteuning van deze opdrachten doet de zorgraad zo veel mogelijk een beroep op de deskundigheid van de organisaties met terreinwerking en de partnerorganisaties.<br>
 <br>
@@ -177,8 +188,9 @@ In dit artikel wordt verstaan onder afgevaardigde: een persoon die namens een lo
 Een zorgraad is pluralistisch en divers samengesteld en bestaat minstens uit de afgevaardigden van:<br>
 1° de lokale besturen;<br>
 2° de eerstelijnszorgaanbieders van verschillende disciplines, de woonzorgcentra, diensten voor gezinszorg, diensten maatschappelijk werk van de ziekenfondsen, centra algemeen welzijnswerk;<br>
-3° de verenigingen van personen met een zorg- en ondersteuningsvraag;<br>
-4° de erkende verenigingen voor mantelzorgers en gebruikers.<br>
+3° de verenigingen van personen met een zorg- en ondersteuningsnood;<br>
+4° de erkende verenigingen voor mantelzorgers en gebruikers;<br>
+5° de voorzieningen die erkend, vergund of gesubsidieerd zijn door het Vlaams Agentschap voor Personen met een Handicap, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, en de voorzieningen die erkend, vergund of gesubsidieerd zijn door het agentschap Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
 <br>
 Als het werkgebied van de zorgraad gelegen is in het tweetalige gebied Brussel-Hoofdstad is de deelname van afgevaardigden van de lokale besturen uit het tweetalige gebied Brussel-Hoofdstad facultatief. De lokale besturen uit het tweetalige gebied Brussel-Hoofdstad worden uitgenodigd om via afgevaardigden deel te nemen aan de vergaderingen van de zorgraad.<br>
 <br>
@@ -223,7 +235,7 @@ Een regionaal zorgplatform neemt de vorm aan van een privaatrechtelijke verenigi
 
 Een regionaal zorgplatform voert minstens de volgende opdrachten uit:<br>
 1° het beleidsdomein Welzijn, Volksgezondheid en Gezin adviseren over de afstemming van het aanbod aan zorg en ondersteuning op de behoeften van de bevolking binnen zijn werkgebied;<br>
-2° de zorg en ondersteuning op elkaar afstemmen, zodat de zorgcontinuïteit voor de persoon met een zorg- en ondersteuningsvraag kan gegarandeerd worden;<br>
+2° de zorg en ondersteuning op elkaar afstemmen, zodat de zorgcontinuïteit voor de persoon met een zorg- en ondersteuningsnood kan gegarandeerd worden;<br>
 3° problemen, drempels of knelpunten behandelen die niet door de zorgraden binnen hun werkgebied opgelost kunnen worden.<br>
 <br>
 In het eerste lid, 1°, wordt verstaan onder het beleidsdomein Welzijn, Volksgezondheid en Gezin: het beleidsdomein, vermeld in artikel 2, 7°, en artikel 9 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
@@ -242,7 +254,7 @@ De volgende organisaties die binnen zijn werkgebied werken, zijn minstens lid va
 3° de erkende regionale expertisecentra dementie;<br>
 4° de geestelijke gezondheidsnetwerken;<br>
 5° de zorgraden binnen het werkgebied van het regionaal zorgplatform;<br>
-6° de verenigingen van personen met een zorg- en ondersteuningsvraag en van erkende verenigingen van mantelzorgers en gebruikers.<br>
+6° de verenigingen van personen met een zorg- en ondersteuningsnood en van erkende verenigingen van mantelzorgers en gebruikers.<br>
 <br>
 Ziekenhuizen en ziekenhuissamenwerkingsverbanden kunnen participeren aan de regionale zorgplatformen zonder dat zij evenwel lid moeten worden en zonder de bijhorende verplichtingen gekoppeld aan de regionale zorgplatformen.<br>
 <br>
@@ -322,6 +334,8 @@ De Vlaamse Regering bepaalt in voorkomend geval de nadere regels voor de subsidi
 
 ## HOOFDSTUK 10. Gegevensverwerking
 
+## Afdeling 1. Verwerking van persoonsgegevens in het kader van de financiering, vermeld in artikel 8, en voor beleidsdoeleinden
+
 ### ART 23.
 
 §1. De bevoegde dienst die de Vlaamse Regering aanwijst, verzamelt persoonsgegevens over de eerstelijnszorgaanbieders die in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad werken. De voormelde gegevens worden verzameld voor de volgende doeleinden:<br>
@@ -385,6 +399,220 @@ De persoonsgegevens, vermeld in het eerste lid, zijn, waar mogelijk, geanonimise
 §6. Voor de toepassing van dit artikel neemt het departement, vermeld in paragraaf 4, passende technische en organisatorische maatregelen conform artikel 32 van de algemene verordening gegevensbescherming om een beveiligingsniveau te waarborgen dat op het risico afgestemd is.<br>
 <br>
 In het kader van de toepassing van dit artikel voldoet het departement, vermeld in paragraaf 4, aan de principes van gegevensbescherming door ontwerp en door standaardinstellingen, vermeld in artikel 25 van de algemene verordening gegevensbescherming.
+
+## Afdeling 2. Gegevensverwerking in het kader van het digitale zorg- en ondersteuningsplan
+
+### ART 23/1.
+
+In deze afdeling wordt verstaan onder:<br>
+1° elektronischecommunicatiegegevens: de inhoud die via elektronischecommunicatiediensten wordt uitgewisseld, en metagegevens over die elektronische communicatie, namelijk de gegevens die worden verwerkt in een elektronischecommunicatienetwerk met het oog op de transmissie, de distributie of de uitwisseling van elektronischecommunicatie-inhoud;<br>
+2° overig lid van het zorg- en ondersteuningsteam: elk lid van het zorg- en ondersteuningsteam, vermeld in artikel 6, §1, vierde lid, dat niet de persoon met de zorg- en ondersteuningsnood of zijn vertegenwoordiger, de zorgaanbieder of de mantelzorger is;<br>
+3° zorg- en ondersteuningstaak: elke handeling die aan een lid of aan verschil- lende leden van het zorg- en ondersteuningsteam wordt toegewezen om de zorg- en ondersteuningsdoelen te bereiken.
+
+### ART 23/2.
+
+De persoonsgegevens, vermeld in artikel 23/3, worden in het kader van de opmaak van het digitale zorg- en ondersteuningsplan verwerkt voor de volgende verwerkingsdoeleinden:<br>
+1° het bepalen van de levensdoelen van de persoon met een zorg- en ondersteuningsnood;<br>
+2° het opstellen en, als dat nodig is, toewijzen van de zorg- en ondersteuningsdoelen door de leden van het zorg- en ondersteuningsteam aan de leden van het zorg- en ondersteuningsteam;<br>
+3° het opstellen en toewijzen van de zorg- en ondersteuningstaken door het zorg- en ondersteuningsteam aan de leden van het zorg- en ondersteuningsteam;<br>
+4° &nbsp; het samenstellen en valideren van het zorg- en ondersteuningsteam;<br>
+5° &nbsp; het mogelijk maken van niet-dringende communicatie tussen de leden van het zorg- en ondersteuningsteam in de communicatiemodule van het digitale zorg- en ondersteuningsplan over de inhoud ervan;<br>
+6° het in kaart brengen van de complexe context van de persoon met een zorg- en ondersteuningsnood;<br>
+7° het bepalen van de kalender en tijdslijn aan de hand van interne en externe agenda’s, die de ingeplande zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood weergeven;<br>
+8° &nbsp; het mogelijk maken van beleidsrapportering;<br>
+9° het bevorderen en verbeteren van de kwaliteit van de zorg en ondersteuning en ook van het zorg- en ondersteuningsplan.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° communicatiemodule: het elektronische communicatiemiddel voor veilige en eenvoudige niet-dringende communicatie dat toegankelijk is voor alle leden van het zorg- en ondersteuningsteam, inclusief de persoon met een zorg- en ondersteuningsnood, en dat de mogelijkheid biedt om gericht te communiceren tussen alle leden van het zorg- en ondersteuningsteam;<br>
+2° complexe context: de multidimensionale biopsychosociale context van de persoon met een zorg- en ondersteuningsnood, die beknopte biomedische informatie en uitgebreide niet-medische informatie over de persoon met een zorg- en ondersteuningsnood bevat over zijn psychologische en socio-economische achtergrond;<br>
+3° externe agenda: een agenda vanuit een extern softwarepakket waarin een lid van het zorg- en ondersteuningsteam zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood opneemt, die wordt geïmporteerd in het digitale zorg- en ondersteuningsplan of waarnaar de zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood worden geëxporteerd;<br>
+4° interne agenda: de zorg- en ondersteuningstaken die een lid van het zorg- en ondersteuningsteam manueel inplant in het digitale zorg- en ondersteuningsplan;<br>
+5° niet-dringende communicatie: de communicatie, in welke vorm ook, tussen de leden van het zorg- en ondersteuningsteam over zaken die betrekking hebben op het digitale zorg- en ondersteuningsplan en op de persoon met een zorg- en ondersteuningsnood, zonder dat het urgente medische of niet-medische communicatie betreft. Onder urgent wordt van vitaal belang of met de nood aan dringende medische tussenkomst verstaan.
+
+### ART 23/3.
+
+De volgende categorieën van persoonsgegevens van een persoon met een zorg- en ondersteuningsnood worden verwerkt voor de verwerkingsdoeleinden, vermeld in artikel 23/2:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;het INSZ-nummer;<br>
+4° de gegevens over de gezondheid en het welzijn van de persoon met een zorg- en ondersteuningsnood;<br>
+5° de relevante gegevens die nodig zijn om zorg en ondersteuning te verlenen aan de persoon met een zorg- en ondersteuningsnood, en die verschillen van gegevens over gezondheid, namelijk:<br>
+a)&nbsp;&nbsp; &nbsp;de sociaaleconomische situatie, op grond van opleiding, beroep en inkomen, die tevens betrekking kan hebben op tegemoetkomingen, van de persoon met een zorg- en ondersteuningsnood en de gegevens over de welzijnstoestand van de persoon met een zorg- en ondersteuningsnood;<br>
+b)&nbsp;&nbsp; &nbsp;de aangewezen zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood;<br>
+c)&nbsp;&nbsp; &nbsp;de zorg- en ondersteuningsplanning, -coördinatie en -communicatie;<br>
+d)&nbsp;&nbsp; &nbsp;de verzameling van gegevens die de graad van zorgbehoevendheid van de persoon met een zorg- en ondersteuningsnood meten;<br>
+e)&nbsp;&nbsp; &nbsp;de levens-, zorg- en ondersteuningsdoelen van de persoon met een zorg- en ondersteuningsnood;<br>
+f)&nbsp;&nbsp; &nbsp;de gegevens over de religieuze of levensbeschouwelijke overtuigingen van de persoon met een zorg- en ondersteuningsnood;<br>
+6°&nbsp;&nbsp; &nbsp;de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+7°&nbsp;&nbsp; &nbsp;de gegevens over de hoedanigheid van de persoon met een zorg- en ondersteuningsnood;<br>
+8°&nbsp;&nbsp; &nbsp;de technische gegevens over de identiteit van de persoon met een zorg- en ondersteuningsnood en zijn gebruik van het digitale zorg- en ondersteuningsplan;<br>
+9°&nbsp;&nbsp; &nbsp;de statistische gegevens over het gebruik van het digitale zorg- en ondersteuningsplan.<br>
+<br>
+De volgende categorieën van persoonsgegevens van de zorgaanbieder worden verwerkt voor de verwerkingsdoeleinden, vermeld in artikel 23/2:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;het INSZ-nummer en het erkenningsnummer;<br>
+4°&nbsp;&nbsp; &nbsp;de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de hoedanigheid van de gebruiker;<br>
+6°&nbsp;&nbsp; &nbsp;de technische gegevens over de identiteit van de zorgaanbieder en zijn gebruik van het digitale zorg- en ondersteuningsplan;<br>
+7°&nbsp;&nbsp; &nbsp;de statistische gegevens over het gebruik van het digitale zorg- en ondersteuningsplan.<br>
+<br>
+De volgende categorieën van persoonsgegevens van de mantelzorger worden verwerkt voor de verwerkingsdoeleinden, vermeld in artikel 23/2:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;het INSZ-nummer;<br>
+4°&nbsp;&nbsp; &nbsp;de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de hoedanigheid van de gebruiker;<br>
+6°&nbsp;&nbsp; &nbsp;de technische gegevens over de identiteit van de mantelzorger en zijn gebruik van het digitale zorg- en ondersteuningsplan;<br>
+7°&nbsp;&nbsp; &nbsp;de statistische gegevens over het gebruik van het digitale zorg- en ondersteuningsplan.<br>
+<br>
+De volgende categorieën van persoonsgegevens van de overige leden van het zorg- en ondersteuningsteam worden verwerkt voor de verwerkingsdoeleinden, vermeld in artikel 23/2:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;het INSZ-nummer;<br>
+4°&nbsp;&nbsp; &nbsp;de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de hoedanigheid van de gebruiker;<br>
+6°&nbsp; &nbsp; de technische gegevens over de identiteit van de overige leden van het zorg- en ondersteuningsteam en hun gebruik van het digitale zorg- en ondersteuningsplan;<br>
+7°&nbsp; &nbsp; de statistische gegevens over het gebruik van het digitale zorg- en ondersteuningsplan.<br>
+<br>
+De Vlaamse Regering kan, na advies van de bevoegde toezichthoudende autoriteit, vermeld in artikel 4, 21), van de algemene verordening gegevensbescherming, de lijst van gegevens, vermeld in dit artikel, nader preciseren.<br>
+&nbsp;
+
+### ART 23/4.
+
+De volgende gebruikers ontvangen bepaalde persoonsgegevens als vermeld in artikel 23/3, conform hun rol in het digitale zorg- en ondersteuningsplan:<br>
+1° de persoon met een zorg- en ondersteuningsnood;<br>
+2° de zorgaanbieder;<br>
+3° de mantelzorger;<br>
+4° de overige leden van het zorg- en ondersteuningsteam;<br>
+5° de bevoegde dienst die de Vlaamse Regering aanwijst.<br>
+&nbsp;
+
+### ART 23/5.
+
+De personen met een zorg- en ondersteuningsnood hebben toegang tot de volgende persoonsgegevens, vermeld in artikel 23/3:<br>
+1° hun identificatie- en contactgegevens;<br>
+2° hun INSZ-nummer;<br>
+3° de identificatie- en contactgegevens van de zorgaanbieders;<br>
+4° het erkenningsnummer van de zorgaanbieders;<br>
+5° de identificatie- en contactgegevens van de mantelzorgers;<br>
+6° de identificatie- en contactgegevens van de overige leden van het zorg- en ondersteuningsteam;<br>
+7° de gegevens over hun gezondheid;<br>
+8° de relevante gegevens die nodig zijn om zorg en ondersteuning te verlenen aan de personen, en die verschillen van de gegevens over gezondheid, namelijk:<br>
+a) hun sociaaleconomische situatie, op grond van opleiding, beroep en inkomen, die tevens betrekking kan hebben op tegemoetkomingen, en gegevens over hun welzijnstoestand;<br>
+b) de zorg- en ondersteuningstaken die voor die personen aangewezen zijn;<br>
+c) de zorg- en ondersteuningsplanning, -coördinatie en -communicatie;<br>
+d) de verzameling van gegevens die hun graad van zorgbehoevendheid meten;<br>
+e) hun levens-, zorg- en ondersteuningsdoelen;<br>
+f)&nbsp; de gegevens over hun religieuze of levensbeschouwelijke overtuigingen;<br>
+9° de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+10° de gegevens over de hoedanigheden van de leden van het zorg- en ondersteuningsteam.<br>
+<br>
+De zorgaanbieder die lid is van het zorg- en ondersteuningsteam, heeft toegang tot de volgende persoonsgegevens, vermeld in artikel 23/3:<br>
+1° de identificatie- en contactgegevens van de zorgaanbieders;<br>
+2° het erkenningsnummer van de zorgaanbieders;<br>
+3° de identificatie- en contactgegevens van de persoon met een zorg- en ondersteuningsnood;<br>
+4° het INSZ-nummer van de persoon met een zorg- en ondersteuningsnood;<br>
+5° de identificatie- en contactgegevens van de mantelzorgers;<br>
+6° de identificatie- en contactgegevens van de overige leden van het zorg- en ondersteuningsteam;<br>
+7° de gegevens over de gezondheid van de persoon met een zorg- en ondersteuningsnood;<br>
+8° de relevante gegevens die nodig zijn om zorg en ondersteuning te verlenen aan de persoon met een zorg- en ondersteuningsnood, en die verschillen van de gegevens over gezondheid, namelijk:<br>
+a) de sociaaleconomische situatie, op grond van opleiding, beroep en inkomen, die tevens betrekking kan hebben op tegemoetkomingen, van de persoon met een zorg- en ondersteuningsnood en de gegevens over de welzijnstoestand van de persoon met een zorg- en ondersteuningsnood;<br>
+b) de aangewezen zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood;<br>
+c) de zorg- en ondersteuningsplanning, -coördinatie en -communicatie;<br>
+d) de verzameling van gegevens die de graad van zorgbehoevendheid van de persoon met een zorg- en ondersteuningsnood meten;<br>
+e) de levens-, zorg- en ondersteuningsdoelen van de persoon met een zorg- en ondersteuningsnood;<br>
+f)&nbsp; de gegevens over de religieuze of levensbeschouwelijke overtuigingen van de persoon met een zorg- en ondersteuningsnood;<br>
+9° de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+10° de gegevens over de hoedanigheden van de leden van het zorg- en ondersteuningsteam.<br>
+<br>
+De mantelzorger heeft toegang tot de volgende persoonsgegevens, vermeld in artikel 23/3:<br>
+1° de eigen identificatie- en contactgegevens;<br>
+2° de identificatie- en contactgegevens van de persoon met een zorg- en ondersteuningsnood;<br>
+3° het INSZ-nummer van de persoon met een zorg- en ondersteuningsnood;<br>
+4° de identificatie- en contactgegevens van zorgaanbieders;<br>
+5° het erkenningsnummer van de zorgaanbieders;<br>
+6° de identificatie- en contactgegevens van de overige leden van het zorg- en ondersteuningsteam;<br>
+7° de relevante gegevens die nodig zijn om zorg en ondersteuning te verlenen aan de persoon met een zorg- en ondersteuningsnood, en die verschillen van de gegevens over gezondheid, namelijk:<br>
+a) de sociaaleconomische situatie, op grond van opleiding, beroep en inkomen, die tevens betrekking kan hebben op tegemoetkomingen, van de persoon met een zorg- en ondersteuningsnood en de gegevens over de welzijnstoestand van de persoon met een zorg- en ondersteuningsnood;<br>
+b) de aangewezen zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood;<br>
+c) de zorg- en ondersteuningsplanning, -coördinatie en -communicatie;<br>
+d) de verzameling van gegevens die de graad van zorgbehoevendheid van de persoon met een zorg- en ondersteuningsnood meten;<br>
+e) de levens-, zorg- en ondersteuningsdoelen van de persoon met een zorg- en ondersteuningsnood;<br>
+f)&nbsp; de gegevens over de religieuze of levensbeschouwelijke overtuigingen van de persoon met een zorg- en ondersteuningsnood;<br>
+8° de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+9° de gegevens over de hoedanigheden van de leden van het zorg- en ondersteuningsteam.<br>
+<br>
+De overige leden van het zorg- en ondersteuningsteam hebben toegang tot de volgende persoonsgegevens, vermeld in artikel 23/3:<br>
+1° de eigen identificatie- en contactgegevens;<br>
+2° de identificatie- en contactgegevens van de persoon met een zorg- en ondersteuningsnood;<br>
+3° de identificatie- en contactgegevens van zorgaanbieders;<br>
+4° het erkenningsnummer van de zorgaanbieders;<br>
+5° de identificatie- en contactgegevens van de mantelzorgers;<br>
+6° de identificatie- en contactgegevens van de overige leden van het zorg- en ondersteuningsteam;<br>
+7° als de persoon met een zorg- en ondersteuningsnood daarmee instemt, de relevante gegevens die nodig zijn om zorg en ondersteuning te verlenen aan de persoon met een zorg- en ondersteuningsnood, en die verschillen van de gegevens over gezondheid, namelijk:<br>
+a) de sociaaleconomische situatie, op grond van opleiding, beroep en inkomen, die tevens betrekking kan hebben op tegemoetkomingen, van de persoon met een zorg- en ondersteuningsnood en de gegevens over de welzijnstoestand van de persoon met een zorg- en ondersteuningsnood;<br>
+b) de aangewezen zorg- en ondersteuningstaken voor de persoon met een zorg- en ondersteuningsnood;<br>
+c) de &nbsp; &nbsp; &nbsp;zorg-&nbsp; en&nbsp; ondersteuningsplanning,&nbsp; -coördinatie&nbsp; en -communicatie;<br>
+d) de verzameling van gegevens die de graad van zorgbehoevendheid van de persoon met een zorg- en ondersteuningsnood meten;<br>
+e) de levens-, zorg- en ondersteuningsdoelen van de persoon met een zorg- en ondersteuningsnood;<br>
+f)&nbsp; de gegevens over de religieuze of levensbeschouwelijke overtuigingen van de persoon met een zorg- en ondersteuningsnood;<br>
+8° de elektronischecommunicatiegegevens die uitgewisseld worden tussen de leden van het zorg- en ondersteuningsteam;<br>
+9° de gegevens over de hoedanigheden van de leden van het zorg- en ondersteuningsteam.<br>
+<br>
+De bevoegde dienst die de Vlaamse Regering aanwijst, heeft toegang tot de volgende persoonsgegevens, vermeld in artikel 23/3:<br>
+1° de technische gegevens over het gebruik van het digitale zorg- en ondersteuningsplan door de persoon met een zorg- en ondersteuningsnood, de zorgaanbieder, de mantelzorger en de overige leden van het zorg- en ondersteuningsteam;<br>
+2° de statistische gegevens over het gebruik van het digitale zorg- en ondersteuningsplan door de persoon met een zorg- en ondersteuningsnood, de zorgaanbieder, de mantelzorger en de overige leden van het zorg- en ondersteuningsteam.
+
+### ART 23/6.
+
+De rechten van de leden van het zorg- en ondersteuningsteam, vermeld in artikel 12 tot en met 22 en artikel 34 van de algemene verordening<br>
+&nbsp;<br>
+gegevensbescherming, en de beginselen, vermeld in artikel 5 van de voormelde verordening, kunnen conform artikel 23, lid 1, van voormelde verordening worden beperkt om de voorkoming, het onderzoek, de opsporing en de vervolging van handelingen die tegen de eer en de waardigheid van de uitoefening van gereglementeerde beroepen ingaan, te waarborgen. Dit is slechts mogelijk vanaf de ontvangst van het verzoek tot uitoefening van een van deze rechten en voor de duur van het onderzoek, de opsporing en/of de vervolging van handelingen die tegen de eer en de waardigheid van de uitoefening van gereglementeerde beroepen ingaan. Dit doet geen afbreuk aan de verplichting die rust op de verwerkingsverantwoordelijke om juistheid van de persoonsgegevens te waarborgen, zoals vermeld in artikel 5, lid 1, d), van de algemene verordening gegevensbescherming.
+
+### ART 23/7.
+
+§1. De verwerkte persoonsgegevens, vermeld in artikel 23/3, eerste lid, 1° tot en met 7°, worden maximaal zes maanden na het overlijden van de persoon met een zorg- en ondersteuningsnood, of na de opschorting van zijn gebruikersprofiel in het digitale zorg- en ondersteuningsplan bewaard.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in artikel 23/3, eerste lid, 8° en 9°, worden maximaal vijf jaar na de laatste verwerking ervan bewaard.<br>
+<br>
+§2. De verwerkte persoonsgegevens, vermeld in artikel 23/3, tweede lid, 1° tot en met 5°, worden maximaal zes maanden bewaard nadat de persoon met een zorg- en ondersteuningsnood is overleden, of maximaal zes maanden nadat zijn gebruikersprofiel in het digitale zorg- en ondersteuningsplan is opgeschort.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in artikel 23/3, tweede lid, 6° en 7°, worden maximaal vijf jaar na de laatste verwerking ervan bewaard.<br>
+<br>
+§3. De verwerkte persoonsgegevens, vermeld in artikel 23/3, derde lid, 1° tot en met 5°, worden maximaal zes maanden bewaard nadat de persoon met een zorg- en ondersteuningsnood is overleden, of maximaal zes maanden nadat zijn gebruikersprofiel in het digitale zorg- en ondersteuningsplan is opgeschort.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in artikel 23/3, derde lid, 6° en 7°, worden maximaal vijf jaar na de laatste verwerking ervan bewaard.<br>
+<br>
+§4. De verwerkte persoonsgegevens, vermeld in artikel 23/3, vierde lid, 1° tot en met 5°, worden maximaal zes maanden bewaard nadat de persoon met een zorg- en ondersteuningsnood is overleden, of maximaal zes maanden nadat zijn gebruikersprofiel in het digitale zorg- en ondersteuningsplan is opgeschort.<br>
+<br>
+De verwerkte persoonsgegevens, vermeld in artikel 23/3, vierde lid, 6° en 7°, worden maximaal vijf jaar na de laatste verwerking ervan bewaard.<br>
+<br>
+§5. De verwerkte persoonsgegevens over het digitale zorg- en ondersteuningsplan, namelijk de gebruikersprofielen en de contactgegevens van de gebruikers, vermeld in artikel 23/4, worden bewaard voor maximaal zes maanden nadat de persoon met een zorg- en ondersteuningsnood is overleden, of maximaal zes maanden nadat zijn gebruikersprofiel in het digitale zorg- en ondersteuningsplan is opgeschort.<br>
+<br>
+Als de gegevens, vermeld in het eerste lid, technische gegevens zijn, worden die maximaal vijf jaar na de laatste verwerking ervan bewaard.<br>
+<br>
+§6. De Vlaamse Regering kan voor specifieke gegevens een bewaartermijn bepalen die korter is dan de bewaartermijnen, vermeld in paragraaf 1 tot en met 5.
+
+### ART 23/8.
+
+Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor het beheer van het digitale zorg- en ondersteuningsplan.<br>
+<br>
+In het kader van andere verwerkingen binnen het digitale zorg- en ondersteuningsplan in het kader van het aanbieden van zorg kunnen het departement, vermeld in het eerste lid, en de zorgaanbieders optreden als gezamenlijke verwerkingsverantwoordelijken als vermeld in artikel 26 van de algemene verordening gegevensbescherming. In dat geval leggen ze hun respectieve rollen, verantwoordelijkheden en verplichtingen vast in een overeenkomst conform artikel 26, lid 1, van de algemene verordening gegevensbescherming.<br>
+<br>
+In andere gevallen dan het geval, vermeld in het tweede lid, treden de zorgaanbieders binnen hun gezondheidsrechtelijke verplichtingen waaraan ze moeten voldoen, op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de voormelde verordening, en het departement, vermeld in het eerste lid, als verwerker als vermeld in artikel 4, 8), van de voormelde verordening.<br>
+<br>
+Het departement, vermeld in het eerste lid, en elke gebruiker die persoonsgegevens ontvangt, conform artikel 23/4, leggen hun onderlinge afspraken over de gegevensuitwisseling schriftelijk vast.<br>
+<br>
+De gebruikers, vermeld in artikel 23/4, zijn verantwoordelijk voor de inhoud die ze ter beschikking stellen en uitwisselen via het digitale zorg- en ondersteuningsplan, en voor het zorgvuldige gebruik van de gegevens die ze verkregen hebben via het digitale zorg- en ondersteuningsplan.<br>
+<br>
+Het departement, vermeld in het eerste lid, heeft nooit toegang tot een individueel zorg- en ondersteuningsplan van een persoon met een zorg- en ondersteuningsnood, noch kan het een individueel zorg- en ondersteuningsplan beheren in het kader van zorg en welzijn. Dit laat de mogelijkheden van het departement, vermeld in het eerste lid, echter onverlet om nodige maatregelen te treffen in het kader van zijn verantwoordelijkheden en plichten als verwerkingsverantwoordelijke.
+
+### ART 23/9.
+
+Voor de toepassing van deze afdeling neemt het departement, vermeld in artikel 23/8, eerste lid, passende technische en organisatorische maatregelen conform artikel 32 van de algemene verordening gegevensbescherming om een beveiligingsniveau te waarborgen dat op het risico afgestemd is.<br>
+<br>
+In het kader van de toepassing van deze afdeling voldoet het departement, vermeld in artikel 23/8, eerste lid, aan de principes van gegevensbescherming door ontwerp en door standaardinstellingen, vermeld in artikel 25 van de algemene verordening gegevensbescherming.
 
 ## HOOFDSTUK 11. Verantwoordingsplicht en toezicht
 
