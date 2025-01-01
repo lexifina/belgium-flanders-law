@@ -19,6 +19,11 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Aan artikel 2 van het Onroerenderfgoedbesluit van 16 mei 2014, gewijzigd bij het besluit van de Vlaamse Regering van 2 september 2022, wordt een punt 11° /2 toegevoegd, dat luidt als volgt:<br>
+“11°/2 kerkenbeleidsplan: kerkenbeleidsplan vermeld in artikel 33/2 van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten;”.
+
 ### ART 2.
 
 Aan artikel 6.6.1 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
@@ -34,6 +39,31 @@ Artikel 9.1.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 ### ART 4.
 
 In artikel 9.1.3, eerste lid, en artikel 9.1.4, eerste lid, van hetzelfde besluit wordt het woord “jaarlijks” opgeheven.
+
+### ART 5.
+
+In artikel 11.2.10, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 14 december 2018 en gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt punt 1° vervangen door wat volgt:<br>
+“1° beschermde monumenten die voor een erkende eredienst zijn bestemd. Voor gebouwen van de rooms-katholieke eredienst, met uitzondering van de kathedralen, kan alleen een verhoogde premie toegekend worden als ze in een actueel kerkenbeleidsplan aangewezen zijn voor ander gebruik dan de eredienst in de vorm van valorisatie, medegebruik, neven- of herbestemming;”.
+
+### ART 6.
+
+In artikel 11.2.18, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 11 december 2020, wordt punt 6° vervangen door wat volgt:<br>
+“6° bij beschermde monumenten die bestemd zijn voor de rooms-katholieke eredienst: het actuele kerkenbeleidsplan van de gemeente in kwestie;”.
+
+### ART 7.
+
+In artikel 11.2.28, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 11 december 2020, wordt punt 6° vervangen door wat volgt:<br>
+“6° bij beschermde monumenten die bestemd zijn voor de rooms-katholieke eredienst: het actuele kerkenbeleidsplan van de gemeente in kwestie;”.
+
+### ART 8.
+
+In artikel 11.3.5, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 december 2016 en 14 december 2018, wordt punt 4° vervangen door wat volgt:<br>
+“4° bestemmings- en herbestemmingsonderzoek. Voor gebouwen van de rooms-katholieke eredienst, met uitzondering van de kathedralen, kan alleen een onderzoekspremie toegekend worden als ze in een actueel kerkenbeleidsplan aangewezen zijn voor ander gebruik dan de eredienst in de vorm van neven- of herbestemming;”.
+
+### ART 9.
+
+Aan artikel 11.3.8, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 11 december 2020, wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° bij gebouwen van de rooms-katholieke eredienst, met uitzondering van de kathedralen: het actuele kerkenbeleidsplan van de gemeente in kwestie.”.
 
 ### ART 10.
 
