@@ -232,6 +232,10 @@ In artikel 51 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 3° er wordt een derde lid toegevoegd, dat luidt als volgt:&nbsp;<br>
 “Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25% van de jaarlijkse personeelskosten.”.
 
+### ART 25.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 maart 2022, wordt hoofdstuk V/1, dat bestaat uit artikel 57/1 tot en met 57/18, opgeheven.
+
 ### ART 26.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 11 maart 2022, wordt hoofdstuk V/1, opgeheven door artikel 25, opnieuw opgenomen in de volgende lezing:<br>
