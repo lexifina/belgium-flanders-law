@@ -88,7 +88,23 @@ Overeenkomstig artikelen 6, eerste lid en 7 van het decreet van 21   december 20
 
 ### ART. 17.
 
-<P>Het aantal kilometer wordt berekend volgens de snelste route met een   routeplanner naar keuze. Voor de berekening van de compensatie wordt maximaal   rekening gehouden met 50 kilometer.<BR></P>  <P>Tot en met 25 kilometer bedraagt de compensatie :<BR>1° 1,50 euro per gereden   kilometer als alleen een gebruiker in een rolstoel wordt vervoerd;<BR>2° 3 euro   per gereden kilometer als twee of meer gebruikers in een rolstoel worden   vervoerd, ongeacht het aantal gebruikers zonder rolstoel;<BR>3° 50 eurocent per   gereden kilometer als alleen een gebruiker zonder rolstoel wordt vervoerd;<BR>4°   1 euro per gereden kilometer als twee of meer gebruikers zonder rolstoel worden   vervoerd;<BR>5° 2 euro per gereden kilometer als een gebruiker met een rolstoel   en een of meer gebruikers zonder rolstoel worden vervoerd .<BR></P>  <P>Vanaf 26 kilometer tot en met 50 kilometer bedraagt de compensatie :<BR>1° 75   eurocent per gereden kilometer als alleen een gebruiker in een rolstoel wordt   vervoerd;<BR>2° 1,50 euro per gereden kilometer als twee of meer gebruikers in   een rolstoel worden vervoerd, ongeacht het aantal gebruikers zonder   rolstoel;<BR>3° 25 eurocent per gereden kilometer als alleen een gebruiker   zonder rolstoel wordt vervoerd;<BR>4° 50 eurocent per gereden kilometer als twee   of meer gebruikers zonder rolstoel worden vervoerd;<BR>5° 1 euro per gereden   kilometer als een gebruiker met een rolstoel en een of meer gebruikers zonder   rolstoel worden vervoerd.<BR></P>  <P>Voor ritten waarvan de totale afstand maximaal 6 kilometer bedraagt, wordt de   totale compensatie, berekend op de wijze, vermeld in het eerste lid, vermeerderd   met 1 euro.</P>
+<p>Het aantal kilometer wordt berekend volgens de snelste route met een routeplanner naar keuze. Voor de berekening van de compensatie wordt maximaal rekening gehouden met 50 kilometer.</p>
+
+<p>Tot en met 25 kilometer bedraagt de compensatie:<br>
+1°&nbsp;&nbsp; &nbsp;1,75 euro per gereden kilometer als alleen een gebruiker in een rolstoel wordt vervoerd;<br>
+2°&nbsp;&nbsp; &nbsp;3,5 euro per gereden kilometer als twee of meer gebruikers in een rolstoel worden vervoerd, ongeacht het aantal gebruikers zonder rolstoel;<br>
+3°&nbsp;&nbsp; &nbsp;60 eurocent per gereden kilometer als alleen een gebruiker zonder rolstoel wordt vervoerd;<br>
+4°&nbsp;&nbsp; &nbsp;1,20 euro per gereden kilometer als twee of meer gebruikers zonder rolstoel worden vervoerd;<br>
+5°&nbsp;&nbsp; &nbsp;2,35 euro per gereden kilometer als een gebruiker met een rolstoel en een of meer gebruikers zonder rolstoel worden vervoerd.<br>
+<br>
+Vanaf 26 kilometer tot en met 50 kilometer bedraagt de compensatie:<br>
+1°&nbsp;&nbsp; &nbsp;0,90 eurocent per gereden kilometer als alleen een gebruiker in een rolstoel wordt vervoerd;<br>
+2°&nbsp;&nbsp; &nbsp;1,75 euro per gereden kilometer als twee of meer gebruikers in een rolstoel worden vervoerd, ongeacht het aantal gebruikers zonder rolstoel;<br>
+3°&nbsp;&nbsp; &nbsp;30 eurocent per gereden kilometer als alleen een gebruiker zonder rolstoel wordt vervoerd;<br>
+4°&nbsp;&nbsp; &nbsp;60 eurocent per gereden kilometer als twee of meer gebruikers zonder rolstoel worden vervoerd;<br>
+5°&nbsp;&nbsp; &nbsp;1,20 euro per gereden kilometer als een gebruiker met een rolstoel en een of meer gebruikers zonder rolstoel worden vervoerd.”.<br>
+<br>
+Voor ritten waarvan de totale afstand maximaal zes kilometer bedraagt, wordt de totale compensatie, die berekend is op de wijze, vermeld in het eerste lid, vermeerderd met 1,2 euro</p>
 
 ### ART. 18.
 
