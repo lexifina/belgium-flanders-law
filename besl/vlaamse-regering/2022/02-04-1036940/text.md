@@ -96,27 +96,8 @@ In het VIVEL is er minstens de volgende representatieve en gelijkwaardige verteg
 8°&nbsp;&nbsp; &nbsp;minimaal een en maximaal twee vertegenwoordigers van de ziekenhuizen.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
-1° welzijnsactoren:<br>
-a) de woonzorgcentra;<br>
-b) de diensten voor gezinszorg;<br>
-c) de lokale dienstencentra;<br>
-d) de diensten maatschappelijk werk van de ziekenfondsen;<br>
-e) de centra voor algemeen welzijnswerk;<br>
-f) de openbare centra voor maatschappelijk welzijn;<br>
-g) voorzieningen die erkend, vergund of gesubsidieerd zijn door het Vlaams Agentschap voor Personen met een Handicap, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-h) voorzieningen die erkend, vergund of gesubsidieerd zijn door het agentschap Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
-2° eerstelijnsgezondheidszorgactoren:<br>
-a) de huisartsen;<br>
-b) de thuisverpleegkundigen;<br>
-c) de kinesitherapeuten;<br>
-d) de tandartsen;<br>
-e) de apothekers;<br>
-f) de podologen;<br>
-g) de vroedvrouwen;<br>
-h) de ergotherapeuten;<br>
-i) de diëtisten;<br>
-j) de klinisch psychologen;<br>
-k) de partners die actief zijn in functie 1 van de netwerken volwassenen artikel 107 en activiteitenprogramma 1 van de netwerken geestelijke gezondheid kinderen en jongeren.
+1°&nbsp;&nbsp; &nbsp;eerstelijnsgezondheidszorgactoren: de eerstelijnszorgactoren, vermeld in artikel 1, 4°/1, van het besluit van de Vlaamse Regering van 17 mei 2019 tot erkenning en subsidiëring van de zorgraden en houdende inwerkingtreding van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
+2°&nbsp;&nbsp; &nbsp;welzijnsactoren: de welzijnsactoren, vermeld in artikel 1, 4°/3, van het besluit van de Vlaamse Regering van 17 mei 2019 tot erkenning en subsidiëring van de zorgraden en houdende inwerkingtreding van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.
 
 ### ART 5.
 

@@ -2,16 +2,16 @@
   "codex_id": 1036940,
   "title": "Besluit van de Vlaamse Regering van 2022-02-04 over de regels voor de erkenning en subsidiëring van een partnerorganisatie als Vlaams Instituut voor de Eerste Lijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036940/VolledigDocument?datum=2024-01-02",
-  "source_sha256": "8feb4d4ef6bb24145aa6ee690b187395fe371f724ad0ffc0a419d9d0beda2daa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036940/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "01ebce84fd35ffdce9bd9300db65299b83861d84075a7706c9848009a55e1e2f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036940&param=informatie",
-  "as_of": "2024-01-02",
+  "as_of": "2025-01-01",
   "made": "2022-02-04",
   "gazette": "2022-04-25",
   "numac": 2022031188,
   "document_start": "2022-01-01",
   "document_end": null,
-  "in_force": "2024-01-02",
+  "in_force": "2025-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2024-01-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
