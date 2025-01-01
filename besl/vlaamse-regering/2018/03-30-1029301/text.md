@@ -619,6 +619,8 @@ Elk beleidsrapport vermeldt al de volgende gegevens:<br>
 4° de volgnummers van de laatste inschrijvingen in de dagboeken, vermeld in artikel 84, 86 of 88, die verwerkt zijn in het rapport.<br>
 <br>
 Voor de districten wordt het woord ondernemingsnummer, vermeld in het eerste lid, 2°, gelezen als vestigingsnummer.<br>
+<br>
+Elk beleidsrapport, en de bijbehorende documentatie, is digitaal doorzoekbaar.<br>
 &nbsp;
 
 ### ART 3.
@@ -677,13 +679,13 @@ De bewijsstukken, de dagboeken en de hulpdagboeken worden minimaal gedurende tie
 ### ART 8.
 
 De strategische nota bevat ten minste al de volgende elementen:<br>
-1° per beleidsdoelstelling waar de prioritaire acties in kaderen, de omschrijving van de beleidsdoelstelling en van de prioritaire acties;<br>
-2° per beleidsdoelstelling waar de prioritaire acties in kaderen en per prioritaire actie, de verwachte ontvangsten en uitgaven voor exploitatie, investeringen en financiering, voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
-3° per beleidsdoelstelling waar de prioritaire acties in kaderen, het totaal van de verwachte ontvangsten en uitgaven voor exploitatie, investeringen en financiering, voor de niet-prioritaire acties voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
-4° het overzicht van de beleidsdoelstellingen waarin geen prioritaire acties kaderen;<br>
+1° een beleidsverklaring met een beknopte beschrijving van het geplande beleid en de financiële kerncijfers voor elk jaar waarop het meerjarenplan betrekking heeft;<br>
+2° het overzicht met de beschrijving van alle beleidsdoelstellingen;<br>
+3° de omschrijving van de prioritaire acties en de bijbehorende verwachte ontvangsten en uitgaven voor elk jaar waarop het meerjarenplan betrekking heeft, met een verwijzing naar de beleidsdoelstelling waarbij ze aansluiten;<br>
+4° ...;<br>
 5° een verwijzing naar de plaats waar het overzicht ter beschikking is met de omschrijving van alle beleidsdoelstellingen, actieplannen en acties, en de bijbehorende ramingen van ontvangsten en uitgaven die zijn opgenomen in het meerjarenplan.<br>
 <br>
-Een bestuur kan er ook voor kiezen om in de strategische nota de prioritaire actieplannen op te nemen, in plaats van de prioritaire acties. De prioritaire actieplannen zijn dan die actieplannen waar de prioritaire acties in kaderen. Voor de besturen die gebruikmaken van deze mogelijkheid, wordt het woord "acties", vermeld in het eerste lid, 1° tot 4°, gelezen als "actieplannen", en worden de woorden "prioritaire actie", vermeld in het eerste lid, 2°, gelezen als "prioritair actieplan".<br>
+Een bestuur kan er ook voor kiezen om in de strategische nota de prioritaire actieplannen op te nemen, in plaats van de prioritaire acties. De prioritaire actieplannen zijn dan die actieplannen waar de prioritaire acties in kaderen. Voor de besturen die gebruikmaken van deze mogelijkheid, wordt het woord "acties", vermeld in het eerste lid, 3°, gelezen als "actieplannen".<br>
 <br>
 Als een gemeente de keuze, vermeld in het tweede lid, maakt, dan geldt die ook voor de districten van die gemeente.<br>
 &nbsp;
@@ -699,11 +701,9 @@ De financiėle nota van het meerjarenplan bestaat uit al de volgende onderdelen:
 ### ART 10.
 
 Het financiėle doelstellingenplan, vermeld in artikel 9, 1°, bevat al de volgende elementen voor elk jaar waarop het meerjarenplan betrekking heeft:<br>
-1° de verwachte ontvangsten en uitgaven per beleidsdoelstelling waar de prioritaire acties in kaderen;<br>
-2° de verwachte ontvangsten en uitgaven van de beleidsdoelstellingen waar geen prioritaire acties in kaderen;<br>
-3° de verwachte ontvangsten en uitgaven waar geen beleidsdoelstellingen voor werden geformuleerd.<br>
-<br>
-Voor de besturen die gebruikmaken van de mogelijkheid, vermeld in artikel 8, tweede lid, wordt het woord "acties", vermeld in het eerste en het tweede lid, gelezen als "actieplannen".<br>
+1° de verwachte ontvangsten en uitgaven per beleidsdoelstelling;<br>
+2° de verwachte ontvangsten en uitgaven waarvoor geen beleidsdoelstellingen zijn geformuleerd;<br>
+3° ....<br>
 &nbsp;
 
 ### ART 11.
