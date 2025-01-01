@@ -24,6 +24,7 @@ In dit besluit wordt verstaan onder:<br>
 1° agentschap: het agentschap, vermeld in artikel 2, 1°, van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
 2° besluit van 4 februari 2011: het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 3° budget: een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+3°/1 G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen;<br>
 4° leidend ambtenaar: de administrateur-generaal van het agentschap;<br>
 5° partner in de geestelijke gezondheidszorg: een voorziening die de gebruiker residentieel ondersteunt wegens een ernstige psychische problematiek;<br>
 6° persoonsvolgende middelen: de persoonsvolgende middelen, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden, en voor de module en het bedrag, vermeld in artikel 2, tweede lid, 6°, van het voormelde besluit;<br>
@@ -141,11 +142,15 @@ In afwijking van het eerste lid zijn artikel 15, 16 en 17 van het voormelde besl
 <br>
 Het bedrag, vermeld in het eerste lid, wordt voor minstens voor 80% gebruikt voor personeelskosten. Onder personeelskosten worden ook de kosten verstaan die verbonden zijn aan de inschakeling van personeel in dienst van de partner in de geestelijke gezondheidszorg. om de ondersteuning te verlenen, vermeld in artikel 7, eerste lid.<br>
 <br>
-Als uit de registraties in de webapplicatie, vermeld in artikel 15, blijkt dat de ondersteuning geen volledig kalenderjaar omvat, wordt het bedrag, vermeld in het eerste lid, pro rata toegekend in verhouding tot de periode van de ondersteuning.
+Als uit de registraties in de webapplicatie, vermeld in artikel 15, blijkt dat de ondersteuning geen volledig kalenderjaar omvat, wordt het bedrag, vermeld in het eerste lid, pro rata toegekend in verhouding tot de periode van de ondersteuning.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 12.
 
-Het agentschap verleent bijkomend een werkingstoelage van 89 euro per personeelspunt waarvoor de unit, vermeld in artikel 2, is erkend.
+Het agentschap verleent bijkomend een werkingstoelage van 89 euro per personeelspunt waarvoor de unit, vermeld in artikel 2, is erkend.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 13.
 
@@ -164,7 +169,7 @@ De werkingsmiddelen, vermeld in het eerste lid, kunnen niet aangewend worden voo
 <br>
 In afwijking van het vijfde lid kunnen de werkingsmiddelen, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, met de volgende formule: (basisbedrag x index december 20../index december 2017).
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 14.
 
