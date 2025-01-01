@@ -28,6 +28,7 @@ In dit besluit wordt verstaan onder:<br>
 4° dagondersteuning: de ondersteuning die gedurende de dag wordt geboden. De geleverde ondersteuning is moeilijk tot niet individueel te plannen of toe te wijzen. De ondersteuning heeft per definitie voor een deel een niet-instrumenteel karakter en bestaat uit begeleiding en permanentie. De dagondersteuning wordt uitgedrukt in dagdelen. De voormiddag en de namiddag zijn dagdelen;<br>
 5° gedetineerde: een gedetineerde als vermeld in de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden;<br>
 6° geïnterneerde: de persoon die geïnterneerd is als vermeld in de wet van 5 mei 2014 betreffende de internering;<br>
+6°/1 G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen;<br>
 7° handicap: een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 8° psychosociale begeleiding: een-op-eenbegeleiding die tot doel heeft de gebruiker en de context te ondersteunen in de organisatie van zijn dagelijkse leven;<br>
 9° gevangenis: een gevangenis als vermeld in artikel 2, 15°, van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden;<br>
@@ -39,8 +40,6 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 Het agentschap kan binnen de grenzen van de middelen die daarvoor zijn vastgelegd op zijn begroting, voorzieningen erkennen en subsidiëren om ondersteuning te bieden aan personen die door het agentschap zijn erkend als een persoon met een handicap, of aan personen met een vermoeden van handicap, die in de gevangenis verblijven als gedetineerde of als geïnterneerde.<br>
-<br>
-De persoon met een handicap of met een vermoeden van een handicap dient een aanvraag in bij het agentschap om te kunnen gebruikmaken van de ondersteuning.<br>
 &nbsp;
 
 ### ART 3.
@@ -87,11 +86,13 @@ Het agentschap verleent bijkomend een werkingstoelage van 89 euro per personeels
 Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 8, eerste lid, van dit besluit, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
 Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 2, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het overleg met de werknemersvertegenwoordiging.<br>
+<br>
+Het bedrag, vermeld in het derde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 &nbsp;
 
 ### ART 7/1.
 
-Het gedeelte van de werkingstoelage, vermeld in artikel 7, tweede lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+Het gedeelte van de werkingstoelage, vermeld in artikel 7, derde lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
 <br>
 De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
 <br>
@@ -113,7 +114,7 @@ Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevor
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt<br>
 &nbsp;
 
 ### ART 9.
@@ -198,6 +199,8 @@ Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 17 eerste lid
 <br>
 Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.<br>
 <br>
+Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
+<br>
 &nbsp;
 
 ### ART 16/1.
@@ -224,7 +227,7 @@ Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevor
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden conform artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.
 
 ### ART 18.
 
