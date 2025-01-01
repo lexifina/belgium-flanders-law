@@ -54,6 +54,16 @@ a) de ontwikkeling van een omgeving waarin dataproducenten hun data kunnen delen
 b) de harmonisatie en verrijking van data uit decentrale dataproducten in geaggregeerde dataproducten;<br>
 c) de ontsluiting van dataproducten naar data-afnemers;”.
 
+### ART 11.
+
+In artikel 4 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt aan de eerste zin de zinsnede “, alsook het ontwikkelen van expertise en trajecten in kader van de participatie van kansengroepen.” toegevoegd;<br>
+2° in het tweede lid wordt in punt 2° tussen het woord “communicatietechnologie” en het woord “in” de zinsnede “, alsook op aanvullende strategieën” ingevoegd;<br>
+3° aan het tweede lid wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
+“5° neemt publiq de rol op van expertisecentrum voor vrijetijdsparticipatie van kansengroepen in cultuur, jeugd en sport, vertrekkend vanuit de leefwereld en het perspectief van deze doelgroep. Het voormelde impliceert:<br>
+a) ondersteuning op het niveau van visie en methodes;<br>
+b) het faciliteren van samenwerkingsverbanden en concrete projecten.”.
+
 ### ART 12.
 
 In hetzelfde decreet wordt een artikel 4/1 ingevoegd, dat luidt als volgt:<br>
