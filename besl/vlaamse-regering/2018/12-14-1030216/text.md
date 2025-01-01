@@ -204,11 +204,15 @@ In afwijking van artikel 11 van het voormelde besluit hoeft de bijstandsorganisa
 
 ### ART 12.
 
-§ 1. De vergunde zorgaanbieders die conform artikel 9 een individuele dienstverleningsovereenkomst hebben geregistreerd, worden door het agentschap gesubsidieerd voor het aantal personeelspunten en het bedrag werkingsmiddelen dat is vastgesteld voor de module van ondersteuning die het agentschap heeft toegewezen aan de geïnterneerde persoon met een handicap die wordt ondersteund.<br>
+§1. In dit artikel wordt verstaan onder G-index: het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+§1/1. De vergunde zorgaanbieders die conform artikel 9 een individuele dienstverleningsovereenkomst hebben geregistreerd, worden door het agentschap gesubsidieerd voor het aantal personeelspunten en het bedrag werkingsmiddelen, vermeld in de tabel, die is opgenomen is in de bijlage die bij dit besluit is gevoegd, dat is vastgesteld voor de module van ondersteuning die het agentschap heeft toegewezen aan de geïnterneerde persoon met een handicap die wordt ondersteund.<br>
 <br>
 In voorkomend geval wordt het aantal personeelspunten en het bedrag van de werkingsmiddelen pro rata aangepast, rekening houdend met de effectieve duur van de geregistreerde individuele dienstverleningsovereenkomst.<br>
 <br>
-§ 2. Maximaal 3% van de personeelspunten die conform paragraaf 1 subsidieerbaar zijn, kan worden omgezet in werkingsmiddelen tegen een bedrag per punt.<br>
+Het bedrag van de werkingsmiddelen, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
+<br>
+§2. Maximaal 3% van de personeelspunten die conform paragraaf 1 subsidieerbaar zijn, kan worden omgezet in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
 Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
@@ -216,7 +220,7 @@ De werkingsmiddelen, vermeld in het eerste lid, mogen niet aangewend worden voor
 <br>
 In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangewend worden voor de vergoeding van variabele prestaties die niet vergoed worden overeenkomstig artikel 13/1 en 13/2 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten.<br>
 <br>
-Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de volgende formule: (basisbedrag x index december 20../index december 2017).<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, als aan een van de volgende voorwaarden is voldaan:<br>
 1° er is voorafgaand overleg gepleegd over de aanwending van het bedrag met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
