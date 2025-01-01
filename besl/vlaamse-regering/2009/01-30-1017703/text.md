@@ -12,18 +12,24 @@ In dit besluit wordt verstaan onder :<br>
 1° aanvrager : de persoon of de rechtspersoon die geen winst beoogt en die een aanvraag tot erkenning als Logo indient;<br>
 2° ...;<br>
 3° administratie: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+3°/1 beleidsplan: een meerjarenplan voor de volledige duur van de erkenningsperiode van een Logo, met inbegrip van een meerjarenbegroting, dat aangeeft hoe de opdrachten, vermeld in artikel 30 van het decreet van 21 november 2003 en in artikel 17 van dit besluit, worden uitgevoerd;<br>
 4° centrum voor geestelijke gezondheidszorg : de erkende verzorgingsvoorziening die op multidisciplinaire wijze ambulante geestelijke gezondheidszorg verleent in een extramuraal kader aan personen wiens geestelijke gezondheid verstoord is, vermeld in artikel 2, 1°, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
 5° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+5°/1 eerstelijnszone: een eerstelijnszone als vermeld in artikel 26 van het besluit van de Vlaamse Regering van 17 mei 2019 tot erkenning en subsidiëring van de zorgraden en houdende inwerkingtreding van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders;<br>
+5°/2 jaarplan: de concretisering van het beleidsplan van een Logo voor een werkingsjaar, met inbegrip van een begroting voor dat werkingsjaar;<br>
 6° Logo : een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003;<br>
 7° lokaal sociaal beleid : het geheel van de beleidsbepaling en acties van lokaal bestuur en de acties van lokale actoren, met het oog op het garanderen van de toegang van elke burger tot de rechten, vastgelegd in artikel 23 en 24, § 3, van de Grondwet, en vermeld in het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
 8° preventiemethodiek: een geheel van te volgen vaste, weldoordachte werkwijzen om een bepaalde doelstelling op het vlak van het preventieve gezondheidsbeleid te bereiken. Een preventiemethodiek grijpt in op een of meer types van strategieën zoals educatie, omgevingsinterventies, het vastleggen van afspraken en regels, en het aanbieden van preventieve zorg of begeleiding, en kan ook materialen of diensten omvatten om de preventiemethodiek te kunnen toepassen;<br>
 9° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
-10° preventieorganisaties: de gemeente- en OCMW-besturen, verder lokale besturen te noemen, verenigingen, organisaties, of plaatselijke of regionale afdelingen ervan, met een werking binnen het werkgebied van een Logo, die een meerwaarde kunnen bieden aan de locoregionale uitvoering van het preventieve gezondheidsbeleid in dat werkgebied;<br>
+10° preventieorganisaties: lokale besturen, verenigingen, organisaties, of plaatselijke of regionale afdelingen ervan, met een werking binnen het werkgebied van een Logo, die een meerwaarde kunnen bieden aan de locoregionale uitvoering van het preventieve gezondheidsbeleid;<br>
+10°/1 proportioneel universalisme: het werkingsprincipe op basis waarvan acties en beleid gericht zijn op alle burgers, maar met een verschillende intensiteit voor bepaalde doelgroepen. Volgens proportioneel universalisme kan gezondheidsongelijkheid alleen fundamenteel aangepakt worden als ingezet wordt op alle groepen tegelijk;<br>
 11° ...<br>
-12° medisch milieukundige : een medewerker van een Logo die wordt belast met taken rond milieugerelateerde gezondheid;<br>
+12° medisch milieukundige : een medewerker van een Logo&nbsp;met medisch milieukundige expertise die wordt belast met taken rond milieugerelateerde gezondheid;<br>
 13° onafhankelijkheid : het kunnen innemen van een ongebonden standpunt, op basis van objectieve vaststellingen, dat louter vanuit natuur- en sociaalwetenschappelijke kennis wordt gemotiveerd;<br>
 13°/1 secretaris-generaal: het hoofd van de administratie;<br>
-14° Vlaams medisch milieukundig netwerk : het samenwerkingsmodel dat bestaat uit drie actieniveaus, op de eerste lijn staan de medisch milieukundigen van de Logo's, op de tweede lijn staan de administratie en de afdeling Vlaams Planbureau voor Omgeving van het Departement Omgeving, op de derde lijn staan de organisaties die zorgen voor de wetenschappelijke onderbouwing van het milieugerelateerde gezondheidsbeleid.
+13°/2 setting: de context, omstandigheden en sociale omgeving met een aantal vaste kenmerken, waarin iets plaatsvindt, ook levensdomein genoemd. De onderscheiden settings zijn gezin, vrije tijd, onderwijs, werk, zorg en welzijn, buurt en lokale gemeenschap;<br>
+13°/3 referentieregio: een referentieregio als vermeld in artikel 5 van het Regiodecreet van 3 februari 2023;<br>
+14° Vlaams medisch milieukundig netwerk : het samenwerkingsmodel dat bestaat uit drie actieniveaus, op de eerste lijn staan de medisch milieukundigen van de Logo's, op de tweede lijn staan de administratie en de administratie die onder het beleidsdomein Omgeving ressorteert, op de derde lijn staan de organisaties die zorgen voor de wetenschappelijke onderbouwing van het milieugerelateerde gezondheidsbeleid.
 
 ## HOOFDSTUK II Toepassingsgebied
 
@@ -36,7 +42,9 @@ Dit besluit bepaalt de werkgebieden van de Logo's, vermeld in artikel 29 van het
 
 ### ART. 3.
 
-De secretaris-generaal erkent een Logo voor minimaal twee en maximaal drie jaar als het Logo voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
+De secretaris-generaal erkent een Logo voor vijf jaar als het Logo voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4.<br>
+<br>
+Er worden twee Logo’s erkend, respectievelijk één voor het Nederlandse taalgebied en één voor het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
 Aan de erkenning is een subsidie verbonden volgens de bepalingen van dit besluit.<br>
 &nbsp;
@@ -45,11 +53,27 @@ Aan de erkenning is een subsidie verbonden volgens de bepalingen van dit besluit
 
 Voor een erkenning als Logo moeten al de volgende voorwaarden vervuld zijn :<br>
 1° de aanvrager dient een aanvraag tot erkenning in bij de administratie;<br>
-2° de aanvrager bezorgt de administratie een lijst van de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, met een werking binnen het werkgebied van het Logo waarvoor een aanvraag tot erkenning wordt ingediend;<br>
-3° de aanvrager toont aan dat minimaal met de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, contact werd opgenomen om te participeren in en ondersteuning te bieden aan het Logo;<br>
-4° de aanvraag wordt ondersteund door minimaal 50 % van de preventieorganisaties van elke groep, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd. De aanvrager toont dat aan met een lijst die ondertekend wordt door voldoende vertegenwoordigers van elke groep;<br>
+2° de aanvraag bestaat minstens uit een voorontwerp van jaarplan voor het eerste werkingsjaar en een beleidsplan voor de duur van de erkenning waarin de aanvrager:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de organisatiestructuur van het Logo toelicht;<br>
+b)&nbsp;&nbsp; &nbsp;toelicht hoe de regionale en lokale werking worden uitgebouwd;<br>
+c)&nbsp;&nbsp; &nbsp;toelicht hoe de opdrachten en het locoregionale karakter van de opdrachten gewaarborgd worden;&nbsp;<br>
+d)&nbsp;&nbsp; &nbsp;toelicht hoe in de werking de principes van het facettenbeleid, vermeld in artikel 2, 9°, van het decreet van 21 november 2003, worden geïmplementeerd;<br>
+e)&nbsp;&nbsp; &nbsp;toelicht hoe in de werking de principes van het proportioneel universalisme worden geïmplementeerd;<br>
+f)&nbsp;&nbsp; &nbsp;een gedetailleerd plan opmaakt voor de aanwending van de subsidies, vermeld in dit besluit, met minstens een meerjarenbegroting voor de duur van de erkenning, volgens een sjabloon dat de administratie ter beschikking stelt;<br>
+3° ...;<br>
+4° ...;<br>
 5° het Logo waarvoor een erkenning wordt aangevraagd is een vereniging zonder winstoogmerk of wordt opgericht door een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan het Logo opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid;<br>
-6° de aanvrager toont aan dat het Logo voldoet aan de bepalingen over het werkgebied, vermeld in artikel 11.<br>
+6° ...<br>
+<br>
+Als de aanvraag betrekking heeft op het tweetalige gebied Brussel-Hoofdstad, toont de aanvrager in het beleidsplan zijn lokale en regionale werking als vermeld in het eerste lid, 2°, b), aan door een beschrijving van de uitbouw van een netwerk van locoregionale preventieactoren.&nbsp;<br>
+<br>
+Als de aanvraag betrekking heeft op het Nederlandse taalgebied, toont de aanvrager in het beleidsplan minstens aan dat de lokale en regionale werking, vermeld in het eerste lid, 2°, b), voldoet aan de volgende voorwaarden: &nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;binnen elke referentieregio richt de aanvrager een netwerk van locoregionale preventieactoren op. De aanvrager kan, afhankelijk van de locoregionale noden, een gemotiveerd verzoek indienen bij de administratie om de netwerken van locoregionale preventieactoren van verschillende referentieregio’s die aan elkaar grenzen, samen te voegen, op voorwaarde dat de spreiding van de netwerken van locoregionale preventieactoren over het Nederlandse taalgebied gewaarborgd blijft en dat de locoregionale noden om de netwerken van locoregionale preventieactoren samen te voegen, voldoende aangetoond zijn. De aanvrager kan nooit minder dan vijf netwerken van locoregionale preventieactoren voorzien voor het volledige Nederlandse taalgebied;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;om de betrokkenheid van de locoregionale preventieactoren te verzekeren, richt de aanvrager per gebied waar een netwerk als vermeld in 1°, opgericht is, een adviesraad op. De adviesraad is samengesteld uit vertegenwoordigers van de diverse preventieorganisaties en settings, met minstens vertegenwoordigers vanuit de lokale besturen. De bevoegdheden van de adviesraad zijn:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de betrokkenheid van de locoregionale preventieactoren verzekeren;<br>
+b)&nbsp;&nbsp; &nbsp;de adviesverlening over regionale en lokale doelstellingen binnen de gezondheidsdoelstellingen en de geformuleerde operationele doelstellingen;<br>
+c)&nbsp;&nbsp; &nbsp;de opvolging van de locoregionale werking;<br>
+d)&nbsp;&nbsp; &nbsp;de adviesverlening over de besteding van budgetten over de regionale en lokale werking, met inbegrip van de financiële inbreng van regionale en lokale partners.<br>
 &nbsp;
 
 ### ART. 5.
@@ -78,10 +102,7 @@ Alle gegevens en documenten die betrekking hebben op dit besluit worden elektron
 
 ### ART. 7.
 
-Als aan de voorwaarde van artikel 4, 4°, niet is voldaan, buiten de wil van het Logo in kwestie om, kan toch een erkenning worden verleend na de goedkeuring door de secretaris-generaal van de motivatie van de aanvrager waarom de voorwaarde niet is vervuld.<br>
-<br>
-In voorkomend geval vermindert de secretaris-generaal het bedrag van de subsidie, vermeld in artikel 24, met 3 % per groep van preventieorganisaties als vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, die de aanvraag tot erkenning niet ondersteunt.<br>
-&nbsp;
+...
 
 ### ART. 8.
 
@@ -97,7 +118,7 @@ Om erkend te blijven, moet een Logo voldoen aan al de bepalingen van dit besluit
 
 ### ART. 9.
 
-De secretaris-generaal verlengt de erkenning van de Logo's eenmalig voor minimaal twee en maximaal drie jaar als het dossier tot verlenging van de erkenning voldoet aan de voorwaarden, vermeld in artikel 8 en 10, § 1 tot en met § 3
+De secretaris-generaal verlengt de erkenning van de Logo's voor een nieuwe periode van vijf jaar als het dossier tot verlenging van de erkenning voldoet aan de voorwaarden, vermeld in artikel 8 en 10, § 1 tot en met § 3, en een nieuw beleidsplan en jaarplan als vermeld in artikel 4, eerste lid, 2°, werden ingediend.
 
 ### ART. 10.
 
@@ -128,28 +149,39 @@ De erkenning wordt van rechtswege verlengd op voorwaarde dat het Logo de termijn
 
 ### ART. 11.
 
-Het werkgebied van een Logo valt samen met het gebied van een regionale stad, vermeld in de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen, of met het tweetalig gebied Brussel-Hoofdstad.<br /><br />In een gebied van een regionale stad en in het tweetalig gebied Brussel-Hoofdstad kan maar een Logo worden erkend en gesubsidieerd.<br /><br />
+Het werkgebied van een Logo is het Nederlandse taalgebied, of het tweetalig gebied Brussel-Hoofdstad.<br>
+<br>
+In het Nederlandse taalgebied kan maar één Logo worden erkend en gesubsidieerd.<br>
+<br>
+In het tweetalig gebied Brussel-Hoofdstad kan maar één Logo worden erkend en gesubsidieerd.<br>
+&nbsp;
 
 ### ART. 12.
 
-Om de opdrachten en initiatieven uit te voeren, doet het Logo een beroep op personeelsleden en personen die ressorteren onder het Logo en op een netwerk van preventieorganisaties uit het werkgebied van het Logo. <br /><br />
+Om de opdrachten en initiatieven uit te voeren, doet het Logo een beroep op personeelsleden en personen die ressorteren onder het Logo en op de preventieorganisaties uit het gebied van de netwerken van locoregionale preventieactoren, vermeld in artikel 4, tweede lid of derde lid, 1°, van het Logo.<br>
+&nbsp;
 
 ### ART. 13.
 
-Het Logo kan zelf personeelsleden aanwerven in dienstverband maar kan ook personen vergoeden voor prestaties.<br /><br />De deskundigheden, vermeld in artikel 2 van de bijlage, die bij dit besluit is gevoegd, zijn in voldoende mate aanwezig onder de personeelsleden en personen die ressorteren onder het Logo. Er is sprake van voldoende deskundigheid als de opleiding, de vorming, de ervaring en de inzetbaarheid van die personeelsleden en personen het Logo in staat stellen om de opdrachten naar behoren uit te voeren. <br /><br />De deskundigheid, vermeld in artikel 2, 7°, van de bijlage die bij dit besluit is gevoegd, is in voldoende mate aanwezig, als minimaal het volgende aantal voltijdsequivalenten, afgekort VTE, wordt tewerkgesteld bij een Logo voor specifiek milieugerelateerde gezondheidstaken :<br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20090529-q01-art3_bestanden/filelist.xml&quote;><title>Gebied van een regionale stad</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>deschrmb</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>deschrmb</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>1</o:TotalTime>  <o:Created>2009-07-09T08:17:00Z</o:Created>  <o:LastSaved>2009-07-09T08:18:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>45</o:Words>  <o:Characters>250</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>2</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>294</o:CharactersWithSpaces>  <o:Version>11.9999</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;span.SpellE	&lftaco;mso-style-name:&quote;&quote;;	mso-spl-e:yes;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;2050&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoNormalTable border=1 cellpadding=0 style='mso-cellspacing:1.5pt'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Gebied van een regionale  stad<o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>VTE<br>  medisch milieukundige<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Antwerpen  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>2<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Mechelen  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Turnhout  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Genk  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:5'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Hasselt  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:6'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Aalst  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:7'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Gent  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>2<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:8'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span class=SpellE><span style='font-size:10.0pt;  mso-bidi-font-size:12.0pt'>Sint-Niklaas</span></span><span style='font-size:  10.0pt;mso-bidi-font-size:12.0pt'> <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:9'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Leuven  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:10'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Brussel  (behalve het tweetalige gebied <span class=SpellE>Brussel-Hoofdstad</span>) <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:11'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Brugge  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:12'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Oostende  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:13'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Kortrijk  <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:14;mso-yfti-lastrow:yes'>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span class=SpellE><span style='font-size:10.0pt;  mso-bidi-font-size:12.0pt'>Roeselare</span></span><span style='font-size:  10.0pt;mso-bidi-font-size:12.0pt'> <o:p></o:p></span></p>  </td>  <td style='padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>0,5<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html> <br /><br />De medisch milieukundige moet zijn taken in volle onafhankelijkheid kunnen uitvoeren.
+Het Logo kan zelf personeelsleden aanwerven in dienstverband maar kan ook personen vergoeden voor prestaties.<br>
+<br>
+De deskundigheden, vermeld in artikel 2 van de bijlage, die bij dit besluit is gevoegd, zijn in voldoende mate aanwezig onder de personeelsleden en personen die ressorteren onder het Logo. Er is sprake van voldoende deskundigheid als de opleiding, de vorming, de ervaring en de inzetbaarheid van die personeelsleden en personen het Logo in staat stellen om de opdrachten naar behoren uit te voeren.<br>
+<br>
+De deskundigheid, vermeld in artikel 2, 7°, van de bijlage die bij dit besluit is gevoegd, is in voldoende mate aanwezig als minimaal dertien voltijdsequivalenten, afgekort VTE, voor de functie van medisch milieukundigen worden tewerkgesteld bij het Logo met als werkgebied het Nederlandse taalgebied, voor specifiek milieugerelateerde gezondheidstaken.<br>
+<br>
+De spreiding van inzet van het aantal VTE over de referentieregio’s is afhankelijk van het aantal inwoners per referentieregio en de milieugerelateerde gezondheidsimpact, zoals gevisualiseerd in de Zorgatlas van het Departement Zorg.<br>
+<br>
+De medisch milieukundige moet zijn taken in volle onafhankelijkheid kunnen uitvoeren.
 
 ### ART. 14.
 
-Elke preventieorganisatie wordt door het Logo in kwestie uitgenodigd om deel te nemen aan het netwerk van dat Logo. Al de deelnemende preventieorganisaties samen vormen het netwerk van het Logo. <br /><br />
+Elke preventieorganisatie wordt door het Logo in kwestie uitgenodigd om deel te nemen aan het netwerk, vermeld in artikel 4, tweede lid of derde lid, 1°
 
 ### ART. 15.
 
-§ 1. Het Logo houdt rekening met de specifieke behoeften van delen van zijn werkgebied.<br>
+§1. Het Logo houdt rekening met de specifieke behoeften van delen van zijn werkgebied.<br>
 <br>
-§ 2. Het Logo kan met een of meer andere Logo's samenwerken aan specifieke opdrachten en initiatieven.<br>
-<br>
-Als twee of meer Logo's een structureel samenwerkingsverband willen aangaan, moet dat voornemen vooraf gemeld worden aan de administratie en moet dat samenwerkingsverband goedgekeurd worden door de secretaris-generaal. Dat samenwerkingsverband tussen Logo's mag de samenwerking van het Logo met de preventieorganisaties uit zijn werkgebied niet in het gedrang brengen en moet garanderen dat het locoregionaal karakter van het takenpakket gerespecteerd blijft.<br>
-&nbsp;
+§2. De Logo’s werken samen aan specifieke opdrachten en initiatieven. De samenwerkingsmodaliteiten worden in een samenwerkingsovereenkomst tussen de Logo’s vastgelegd.
 
 ### ART. 16.
 
@@ -160,17 +192,18 @@ De minister kan vastleggen dat het Logo samenwerkingsafspraken moet maken met an
 ### ART. 17.
 
 <p>§ 1. Om de realisatie van de Vlaamse gezondheidsdoelstellingen na te streven als vermeld in artikel 30, § 1, van het decreet van 21 november 2003, en ter uitvoering van artikel 30, § 2, van voormelde decreet, voert een Logo binnen haar werkgebied en daar waar haar samenwerking met preventieorganisaties een meerwaarde heeft, al de volgende taken uit:<br>
-1° de operationele doelstellingen voor de Logo's, die geformuleerd zijn door de administratie na goedkeuring door de minister, realiseren. Die doelstellingen concretiseren de beleidsprioriteiten van het preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen en worden door de administratie opgenomen in het registratiesysteem, vermeld in artikel 8, 4° ;<br>
+1° de operationele doelstellingen voor de Logo’s die geformuleerd zijn door de administratie, realiseren en concretiseren in een jaarplan. Dat jaarplan sluit aan bij de beleidsprioriteiten van het preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen. Om de voortgang van het jaarplan te evalueren, leveren de Logo’s data aan in het registratiesysteem, vermeld in artikel 8, 4°, dat ter beschikking gesteld wordt door de administratie;<br>
 2° het adviseren van de administratie en de minister, op verzoek of op eigen initiatief, over het Vlaamse preventieve gezondheidsbeleid, onder meer over de behoefte aan preventiemethodieken en over de noden bij de implementatie ervan;<br>
-3° het, minstens eenmaal per legislatuur, opmaken van een zelfevaluatie voor de minister, met daarin voorstellen van efficiëntieverhoging van de eigen werking;<br>
-4° aanspreekpunt zijn voor en, binnen haar taken, een samenwerking uitbouwen met de preventieorganisaties, in het bijzonder de preventieorganisaties, vermeld in artikel 1 van de bijlage die bij dit besluit is gevoegd;<br>
+3° het, minstens eenmaal per erkenningsperiode, opmaken van een evaluatie voor de administratie, met daarin voorstellen van efficiëntieverhoging van de eigen werking;<br>
+4° aanspreekpunt zijn voor en, binnen haar taken, een samenwerking uitbouwen met de preventieorganisaties;<br>
 5° het dissemineren bij preventieorganisaties van preventiemethodieken in het kader van de preventieve gezondheidszorg en het facettenbeleid, vermeld in artikel 3, tweede lid, van het decreet van 21 november 2003, die aangeleverd worden door partnerorganisaties, of aangeleverd worden door andere organisaties en die aanvaard worden door de administratie. Het dissemineren van preventiemethodieken houdt onder meer in:<br>
-a) het zoeken van geschikte preventieorganisaties voor een bepaalde preventiemethodiek of een geheel van preventiemethodieken;<br>
-b) het informeren van preventieorganisaties over het aanbod aan methodieken en de toepassing van die preventiemethodieken;<br>
+a) het zoeken en samenbrengen van geschikte preventieorganisaties voor een bepaalde preventiemethodiek of een geheel van preventiemethodieken;<br>
+b) het informeren van, en bevorderen van de deskundigheid van preventieorganisaties over het aanbod aan methodieken en de toepassing van die preventiemethodieken;<br>
 c) het aanmoedigen van preventieorganisaties om de acties op basis van bepaalde preventiemethodieken uit te voeren binnen hun eigen werking en hun eigen beleid en deze ook structureel op te nemen in hun werking en in hun eigen beleid;<br>
-d) het informeren van preventieorganisaties over en het, waar nodig en mogelijk, doorverwijzen van preventieorganisaties naar organisaties met terreinwerking, andere organisaties en individuele zorgaanbieders, voor eventuele verdere ondersteuning bij de uitvoering van de preventiemethodieken;<br>
-e) het helpen bij het organiseren van vormingen voor preventieorganisaties zodat zij acties kunnen opzetten op basis van de preventiemethodieken en die structureel kunnen verankeren in hun werking.<br>
-6° het bekendmaken van actieplannen voor het realiseren van de Vlaamse gezondheidsdoelstellingen bij lokale besturen en hen begeleiden en ondersteunen bij het uitwerken en opvolgen van hun lokale preventieve gezondheidsbeleid;<br>
+d) het informeren van preventieorganisaties over en het, waar nodig en mogelijk, doorverwijzen en begeleiden van preventieorganisaties naar organisaties met terreinwerking, andere organisaties en individuele zorgaanbieders, voor eventuele verdere ondersteuning bij de uitvoering van de preventiemethodieken;<br>
+e) het helpen bij het organiseren van vormingen voor preventieorganisaties zodat zij acties kunnen opzetten op basis van de preventiemethodieken en die structureel kunnen verankeren in hun werking;<br>
+f) het ondersteunen van preventieorganisaties met expertise en kennis over de lokale situatie en specifieke doelgroepen;<br>
+6° het bekendmaken van actieplannen voor het realiseren van de Vlaamse gezondheidsdoelstellingen bij de verschillende settings en hen begeleiden en ondersteunen bij het uitwerken en opvolgen van het preventieve gezondheidsbeleid;<br>
 7° het opnemen van de eerstelijnsfunctie binnen het Vlaams medisch milieukundig netwerk voor milieugerelateerde gezondheidsproblemen. Dat houdt in:<br>
 a) de taken, vermeld in punt 1° tot en met 6° ;<br>
 b) de taken, vermeld in artikel 4 en 5, § 1, § 2 en § 4, van het Binnenmilieubesluit van 11 juni 2004;<br>
@@ -180,72 +213,82 @@ e) een eerstelijnsaanspreekpunt zijn voor professionelen uit de gezondheidszorg,
 f) het uitvoeren van preventieve taken die gericht zijn op de beïnvloedbare factoren van milieugerelateerde gezondheid, zoals informeren, voorlichten en sensibiliseren;<br>
 g) het lokaal initiëren en conceptualiseren van, alsook het bijdragen aan, het opzetten, het uitvoeren en het afstemmen van preventieprogramma's binnen de milieugerelateerde gezondheidszorg, en het uitwerken van een voorstel van plan van aanpak voor milieugerelateerde gezondheidsvraagstukken;<br>
 h) het ondersteunen en adviseren van onder meer professionelen uit de gezondheidszorg en preventieorganisaties bij potentiële milieugerelateerde gezondheidsproblemen;<br>
-i) medewerking verlenen, door de medisch milieukundigen, aan de coördinator van de eerstelijnsfunctie van het Vlaams medisch milieukundig netwerk door onder meer deelname aan project- en of werkgroepen, ontwikkeling van preventiemethodieken;<br>
+i) medewerking verlenen, door de medisch milieukundigen, aan de eerstelijnsfunctie van het Vlaams medisch milieukundig netwerk door onder meer deelname aan project- en of werkgroepen, ontwikkeling van preventiemethodieken;<br>
 j) het detecteren en signaleren van, het meewerken aan de impactinschatting van, en het bieden van ondersteuning in de opvolging van lokale milieugerelateerde potentiële gezondheidsproblemen;<br>
 k) het detecteren en ter harte nemen van ongerustheid over milieu en gezondheid;<br>
-l) professionelen uit de gezondheidszorg en preventieorganisaties wegwijs maken in de bestaande preventiemethodieken&nbsp;met betrekking tot gezondheid en milieu.<br>
+l) professionelen uit de gezondheidszorg en preventieorganisaties wegwijs maken in de bestaande preventiemethodieken&nbsp;met betrekking tot gezondheid en milieu;<br>
+8° het samenbrengen, interpreteren en duiden van informatie en data in functie van het lokale preventieve gezondheidsbeleid, en die op een actieve manier ter beschikking stellen aan de administratie en de preventieorganisaties.<br>
 <br>
 De taak, vermeld in het eerste lid, 7°, geldt niet voor het Logo van het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
-§ 2. Eigen initiatieven van het Logo als vermeld in artikel 30, § 3, van het decreet van 21 november 2003, zijn niet in strijd met de initiatieven en richtlijnen van de Vlaamse Regering en brengen de opdrachten van de Logo's niet in het gedrang. Ze zijn dus toegelaten als ze vooraf aan de administratie worden gemeld en geregistreerd worden in het registratiesysteem, vermeld in artikel 8, 4°.<br>
+§ 2. Eigen initiatieven van het Logo als vermeld in artikel 30, §3, van het decreet van 21 november 2003, zijn toegelaten op voorwaarde dat:<br>
+1°&nbsp;&nbsp; &nbsp;ze niet in strijd zijn met het Vlaams preventief gezondheidsbeleid;<br>
+2°&nbsp;&nbsp; &nbsp;ze de prioritaire opdrachten van de Logo’s niet in het gedrang brengen;<br>
+3°&nbsp;&nbsp; &nbsp;ze vooraf aan de administratie worden gemeld;<br>
+4°&nbsp;&nbsp; &nbsp;het Logo voor die initiatieven dezelfde gegevens verzamelt als voor de Vlaamse initiatieven en die gegevens op dezelfde manier doorgeeft aan de administratie.<br>
 <br>
 Voor de volgende initiatieven gelden bijkomend de erbij vermelde voorwaarden:<br>
 1° meewerken aan de ontwikkeling en de evaluatie van preventiemethodieken:<br>
 a) de preventiemethodieken worden ontwikkeld of geëvalueerd door een partnerorganisatie of door een andere organisatie die aanvaard is door de administratie;<br>
 b) de te ontwikkelen of te evalueren preventiemethodiek past in de Vlaamse beleidsprioriteiten;<br>
-c) per werkingsjaar wordt maximaal 5% van de geïndexeerde subsidie van dat werkingsjaar besteed aan dit initiatief en het initiatief, vermeld in punt 2°, samen.<br>
-De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
 2° zelf ontwikkelen van preventiemethodieken:<br>
 a) het Logo heeft daarvoor toestemming gekregen van de administratie;<br>
 b) bij de ontwikkeling van de preventiemethodiek wordt samengewerkt met een partnerorganisatie of met een andere organisatie die aanvaard is door de administratie;<br>
 c) de nood aan die preventiemethodiek aantonen;<br>
 d) de preventiemethodiek is toepasbaar in heel Vlaanderen;<br>
 e) de preventiemethodiek past in de Vlaamse beleidsprioriteiten;<br>
-f) per werkingsjaar wordt maximaal 5% van de geïndexeerde subsidie van dat werkingsjaar besteed aan dit initiatief en het initiatief, vermeld in punt 1°, samen. De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
-3° begeleiden van andere preventieorganisaties dan lokale besturen bij het uitwerken en opvolgen van hun preventieve gezondheidsbeleid:<br>
-a) het Logo krijgt daarvoor toestemming van de administratie, waarbij de toestemming bepaalt welk aandeel van de geïndexeerde subsidie van dat werkingsjaar maximaal besteed mag worden aan dit initiatief. De eventuele reserve mag niet besteed worden aan dit initiatief;<br>
-b) dit initiatief wordt ontwikkeld op verzoek van de preventieorganisaties in kwestie.<br>
+f) de subsidies die toegekend zijn op basis van dit besluit en de eventuele reserves die daarmee aangelegd zijn, mogen niet besteed worden aan dit initiatief;<br>
+3° ...<br>
 <br>
 De volgende eigen initiatieven van het Logo als vermeld in artikel 30, § 3, van het decreet van 21 november 2003, zijn in strijd met de initiatieven en richtlijnen van de Vlaamse Regering of brengen de opdrachten van de Logo's in het gedrang en zijn dus niet toegelaten:<br>
 1° het dissemineren van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard worden door de administratie;<br>
-2° het begeleiden van lokale besturen bij het uitwerken en opvolgen van hun lokale preventieve gezondheidsbeleid in het kader van hun lokaal sociaal beleid door gebruik te maken van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard zijn door de administratie.<br>
+2° het begeleiden van lokale besturen&nbsp;en andere settings bij het uitwerken en opvolgen van hun preventieve gezondheidsbeleid door gebruik te maken van preventiemethodieken die niet aangeleverd zijn door partnerorganisaties of die aangeleverd worden door andere organisaties en niet aanvaard zijn door de administratie.<br>
 <br>
-De minister kan de taken, vermeld in paragraaf 1, nader bepalen en bijkomende voorwaarden bepalen voor de initiatieven, vermeld in paragraaf 2, eerste lid.</p>
+§3. De minister kan de taken, vermeld in paragraaf 1, nader bepalen en bijkomende voorwaarden bepalen voor de initiatieven, vermeld in paragraaf 2, eerste lid.</p>
 
 ### ART. 17/1.
 
-Om een maximale ondersteuning bij het uitwerken en opvolgen van het lokale preventieve gezondheidsbeleid van de lokale besturen als vermeld in artikel 17, § 1, eerste lid, 6°, van dit besluit te bewerkstelligen, ontvangen de Logo's een bijkomende subsidie als vermeld in artikel 24, tweede lid, van dit besluit om lokale preventiewerkingen te financieren, als voldaan is aan alle volgende voorwaarden:<br>
-1° de lokale preventiewerkingen worden als volgt georganiseerd:<br>
-a) de lokale besturen nemen het initiatief voor de oprichting van een lokale preventiewerking, delen dit mee aan het Logo in kwestie, staan in voor de organisatie ervan en voor de afstemming met hun lokaal sociaal beleidsplan;<br>
-b) de lokale preventiewerking is gericht op een werkgebied van minstens twee aaneensluitende gemeenten dat volledig valt binnen het werkgebied van de samenwerkingsverbanden voor de eerste lijn. De verplichting tot het betrekken van een of meer aaneensluitende gemeenten binnen het werkgebied van een samenwerkingsverband voor de eerstelijn vervalt indien de gemeente in kwestie of een deel van de gemeente het volledig werkgebied van een samenwerkingsverband voor de eerstelijn omvat;<br>
-c) de lokale preventiewerking aanvaardt het aanbod van het Logo zoals vermeld in artikel 17, § 1, eerste lid, 6° van dit besluit;<br>
-d) er wordt een beherend lokaal bestuur aangesteld of het beheer gebeurt via een andere intergemeentelijke samenwerkingsvorm, die de middelen voor de lokale preventiewerking, met inbegrip van de toegekende subsidie, beheert en verder beheerder wordt genoemd;<br>
-e) als alle deelnemende lokale besturen van een lokale preventiewerking dat wensen, kan de organisatie van de lokale preventiewerking in kwestie gedelegeerd worden naar het Logo dat het werkgebied van de lokale preventiewerking omvat of naar een andere rechtspersoon die werkzaam is binnen het werkgebied van de lokale preventiewerking die expertise heeft op het vlak van de beleidsdoelstellingen van het Vlaamse preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen als vermeld in punt 2°, a). In dat geval wordt de lokale preventiewerking een afzonderlijk activiteitencentrum en, als het een delegatie naar het Logo betreft, wordt dat beschouwd als een taak als vermeld in artikel 30, § 2, van het decreet van 21 november 2003;<br>
-2° binnen de lokale preventiewerkingen worden de volgende taken opgenomen onder de verantwoordelijkheid van de beheerder, vermeld in punt 1°, d):<br>
-a) organiseren en uitvoeren van een lokaal preventief gezondheidsbeleid dat afgestemd is op verschillende initiatieven en thema's binnen de beleidsdoelstellingen van het Vlaamse preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen en dat gebruik maakt van de preventiemethodieken, met uitzondering van het opnemen van de eerstelijnsfunctie binnen het Vlaams medisch milieukundig netwerk, vermeld in artikel 17, § 1, eerste lid, 7°, van dit besluit. Die taak kan het geven van geïndividualiseerde adviezen rechtstreeks aan burgers inhouden als de interventies die daarvoor nodig zijn kortdurend zijn en geen behandeling betreffen;<br>
-b) jaarlijks, na begeleiding en ondersteuning van het Logo in kwestie, rapporteren aan de administratie over de lokale preventiewerking;<br>
-3° de bijkomende subsidie wordt uitsluitend en volledig aangewend voor lokale preventiewerkingen;<br>
-4° er is voorafgaand aan het toekennen van de subsidie een engagementsverklaring bezorgd aan de administratie waaruit blijkt dat de lokale besturen in kwestie voor de realisatie van de taken van de lokale preventiewerkingen alle volgende engagementen opnemen voor de duur van hun legislatuur:<br>
-a) instaan voor cofinanciering van personeelskosten voor de lokale preventiewerking die ten minste even groot is als de subsidie vanuit de Vlaamse overheid voor de lokale preventiewerking, als vermeld in artikel 24;<br>
-b) met die financiering en de bijkomende subsidie personeel inzetten dat beschikt over voldoende competenties voor de lokale preventiewerking;<br>
-c) het organiseren en uitvoeren van een lokaal preventief gezondheidsbeleid dat aan de andere voorwaarden voldoet;<br>
-d) jaarlijks rapporteren als vermeld in punt 2°, b).<br>
+Om een maximale ondersteuning bij het uitwerken en opvolgen van het lokale preventieve gezondheidsbeleid van de lokale besturen als vermeld in artikel 17, §1, eerste lid, 6°, van dit besluit, te bewerkstelligen, kan een subsidie voorzien worden om intergemeentelijke preventiewerkingen te financieren, als voldaan is aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de intergemeentelijke preventiewerkingen worden als volgt georganiseerd:<br>
+a)&nbsp;&nbsp; &nbsp;de lokale besturen nemen het initiatief voor de oprichting van een intergemeentelijke preventiewerking, delen dat mee aan het Logo in kwestie, staan in voor de organisatie ervan en voor de afstemming met hun lokaal sociaal beleidsplan;<br>
+b)&nbsp;&nbsp; &nbsp;de intergemeentelijke preventiewerking is gericht op een werkgebied van minstens twee aaneensluitende gemeenten dat volledig valt binnen het werkgebied van een eerstelijnszone. De verplichting tot het betrekken van een of meer aaneensluitende gemeenten binnen het werkgebied van een eerstelijnszone vervalt als de gemeente in kwestie of een deel van de gemeente het volledige werkgebied van een eerstelijnszone omvat. Bij fusiegemeenten die al voor die fusie een intergemeentelijke preventiewerking hadden, vervalt de verplichting tot het betrekken van een of meer aaneensluitende gemeenten binnen het werkgebied van een eerstelijnszone voor de twee legislaturen vanaf de fusie;<br>
+c)&nbsp;&nbsp; &nbsp;de intergemeentelijke preventiewerking aanvaardt de inhoudelijke ondersteuning van het Logo, vermeld in artikel 17, §1, eerste lid, 6°, van dit besluit;<br>
+d)&nbsp;&nbsp; &nbsp;er wordt ofwel een beherend lokaal bestuur aangesteld of het beheer gebeurt door het Logo of via een andere intergemeentelijke samenwerkingsvorm, die de middelen voor de intergemeentelijke preventiewerking, met inbegrip van de toegekende subsidie, beheert, hierna beheerder te noemen;<br>
+e)&nbsp;&nbsp; &nbsp;als alle deelnemende lokale besturen van een intergemeentelijke preventiewerking dat wensen, kan de organisatie van de intergemeentelijke preventiewerking in kwestie gedelegeerd worden aan het Logo dat het werkgebied van de intergemeentelijke preventiewerking omvat, maar het kan ook aan een andere rechtspersoon gedelegeerd worden die werkt binnen het werkgebied van de intergemeentelijke preventiewerking en die expertise heeft op het vlak van de beleidsdoelstellingen van het Vlaamse preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen, vermeld in punt 2°, a). Als het Logo de beheerder is, wordt de intergemeentelijke preventiewerking een afzonderlijk activiteitencentrum en wordt dat beschouwd als een taak als vermeld in artikel 30, §2, van het decreet van 21 november 2003;<br>
+2°&nbsp;&nbsp; &nbsp;binnen de intergemeentelijke preventiewerkingen worden de volgende taken opgenomen onder de verantwoordelijkheid van de beheerder, vermeld in punt 1°, d):<br>
+a)&nbsp;&nbsp; &nbsp;organiseren en uitvoeren van een lokaal preventief gezondheidsbeleid dat afgestemd is op verschillende initiatieven en thema's binnen de beleidsdoelstellingen van het Vlaamse preventieve gezondheidsbeleid en de realisatie van de Vlaamse gezondheidsdoelstellingen, en dat gebruikmaakt van de preventiemethodieken, met uitzondering van het opnemen van de eerstelijnsfunctie binnen het Vlaams medisch milieukundig netwerk, vermeld in artikel 17, §1, eerste lid, 7°, van dit besluit. Die taak kan het geven van geïndividualiseerde adviezen rechtstreeks aan burgers inhouden als de interventies die daarvoor nodig zijn, kortdurend zijn en geen behandeling betreffen;<br>
+b)&nbsp;&nbsp; &nbsp;jaarlijks uiterlijk tegen 31 maart van het jaar dat volgt op het werkingsjaar waarin de intergemeentelijke preventiewerking een subsidie ontvangen heeft, een jaarrapport indienen bij de administratie. Het jaarrapport bestaat uit:&nbsp;<br>
+i.&nbsp;&nbsp; &nbsp;een beknopt werkingsverslag;&nbsp;<br>
+ii.&nbsp;&nbsp; &nbsp;een financiële verantwoording;<br>
+c)&nbsp;&nbsp; &nbsp;jaarlijks uiterlijk tegen 31 januari van het jaar dat volgt op het werkingsjaar waarin de intergemeentelijke preventiewerking een subsidie ontvangen heeft, de preventieactiviteiten van de intergemeentelijke preventiewerking registreren in het registratiesysteem dat de administratie daarvoor ter beschikking stelt;<br>
+3°&nbsp;&nbsp; &nbsp;de subsidie wordt uitsluitend en volledig aangewend voor intergemeentelijke preventiewerkingen;<br>
+4°&nbsp;&nbsp; &nbsp;met behoud van de toepassing van het vijfde lid wordt er bij de aanvang van de intergemeentelijke preventiewerking, of bij de wijziging van de samenstelling of van de beheerder van de intergemeentelijke samenwerking een engagementsverklaring bezorgd aan de administratie waaruit blijkt dat de lokale besturen in kwestie voor de realisatie van de taken van de intergemeentelijke preventiewerkingen alle volgende engagementen opnemen:<br>
+a)&nbsp;&nbsp; &nbsp;instaan voor cofinanciering van personeelskosten en werkingsmiddelen voor de intergemeentelijke preventiewerking, die ten minste even groot is als de subsidie vanuit de Vlaamse overheid voor de intergemeentelijke preventiewerking;<br>
+b)&nbsp;&nbsp; &nbsp;met die financiering en de bijkomende subsidie personeel inzetten dat beschikt over voldoende competenties voor de intergemeentelijke preventiewerking en in werkingsmiddelen daarvoor voorzien;<br>
+c)&nbsp;&nbsp; &nbsp;het organiseren en uitvoeren van een lokaal preventief gezondheidsbeleid dat aan de andere voorwaarden voldoet;<br>
+d)&nbsp;&nbsp; &nbsp;jaarlijks rapporteren als vermeld in punt 2°, b).<br>
 <br>
-Om in aanmerking te komen voor de bijkomende subsidie, vermeld in het eerste lid, deelt het lokaal bestuur dat een lokale preventiewerking wil opstarten dat mee aan de administratie voor 31 mei voorafgaand aan het jaar waarin de start gepland is. Die mededeling is niet verplicht voor de lokale preventiewerkingen die opgestart worden in het eerste jaar van een gemeentelijke legislatuur.<br>
+De subsidie, vermeld in het eerste lid, wordt niet toegekend voor gemeenten in het tweetalige gebied Brussel-Hoofdstad.<br>
 <br>
-Afhankelijk van de beschikbare ruimte binnen de Vlaamse begroting kan de minister, bij de opstart van een lokale preventiewerking in het eerste jaar van een gemeentelijke legislatuur of als niet voldaan is aan de verplichting, vermeld in het tweede lid, beslissen de subsidie op te schorten tot een volgend kalenderjaar.<br>
+De secretaris-generaal kent de subsidie, vermeld in het eerste lid, jaarlijks bij besluit toe aan de beheerder, vermeld in het eerste lid, 1°, d).<br>
 <br>
-De bijkomende subsidie, vermeld in het eerste lid, wordt niet toegekend voor gemeenten in het tweetalige gebied Brussel-Hoofdstad.<br>
+De subsidie, vermeld in het eerste lid, wordt pas uitbetaald als is aangetoond dat voldaan is aan al de voorwaarden, vermeld in het eerste lid. Voor de voorwaarden waar dat nog niet mogelijk is, wordt de subsidie uitbetaald op basis van de engagementsverklaring, vermeld in het eerste lid, 4°.<br>
 <br>
-De bijkomende subsidie, vermeld in het eerste lid, wordt pas uitbetaald als is aangetoond dat voldaan is aan al de voorwaarden, vermeld in artikel 17/1. Voor de voorwaarden waar dat nog niet mogelijk is, wordt de subsidie uitbetaald op basis van een engagementsverklaring. Een Logo kan de middelen voor de lokale preventiewerkingen alleen ter beschikking stellen aan de beheerder, als het Logo in kwestie daarvoor gesubsidieerd wordt.<br>
+Bij iedere wijziging in de samenstelling van de intergemeentelijke preventiewerking of van de beheerder, vermeld in het eerste lid, 1°, d), moet een nieuwe engagementsverklaring als vermeld in het eerste lid, 4°, aan de administratie bezorgd worden.<br>
 <br>
 De minister kan de bepalingen, vermeld in dit artikel, preciseren.<br>
 <br>
-Als, door de bepalingen over het werkgebied van lokale preventiewerkingen, vermeld in het eerste lid, 1°, b), voor lokale preventiewerkingen van bepaalde lokale besturen geen subsidie zou kunnen worden toegekend, kan de minister afwijkingen toestaan bij het vastleggen van het werkgebied van die lokale preventiewerkingen.<br>
+Als door de bepalingen over het werkgebied van intergemeentelijke preventiewerkingen, vermeld in het eerste lid, 1°, b), voor intergemeentelijke preventiewerkingen van bepaalde lokale besturen geen subsidie zou kunnen worden toegekend, kan de minister afwijkingen toestaan bij het vastleggen van het werkgebied van die intergemeentelijke preventiewerkingen.<br>
 <br>
-De bijkomende subsidie, vermeld in het eerste lid, wordt niet toegekend aan de volgende gemeenten: Brakel, Denderleeuw, Gavere, Geraardsbergen, Haaltert, Herzele, Horebeke, Kluisbergen, Kruishoutem, Liedekerke, Lierde, Maarkedal, Ninove, Oudenaarde, Ronse, Sint-Lievens-Houtem, Wortegem-Petegem, Zingem en Zottegem, zolang voor die gemeenten een subsidie wordt verleend voor preventieve taken aan het centrum voor geestelijke gezondheid Zuid-Oost-Vlaanderen, of aan zijn opvolger, in het kader van de preventiewerking van het vroegere Provinciaal Interbestuurlijk Samenwerkingsverband voor de Aanpak van Drugmisbruik (PISAD)".<br>
+De verplichting tot cofinanciering door het lokale bestuur, vermeld in het eerste lid, 4°, a), is niet van toepassing als de secretaris-generaal, ongeacht de reden, geen subsidie zou toekennen.<br>
 <br>
-De verplichting tot co-financiering door het lokale bestuur, vermeld in het eerste lid, 4°, a), is niet van toepassing indien de Vlaamse Regering, ongeacht de reden, geen subsidie zou toekennen.
+Voor de subsidie voor de intergemeentelijke preventiewerkingen wordt jaarlijks in een bedrag voorzien van 3000 euro per gemeente, vermeerderd met 0,08 euro, beide gekoppeld aan de gezondheidsindex van december 2018, per gewogen inwoner van de gemeenten waarvan het lokaal bestuur participeert aan een intergemeentelijke preventiewerking. Het gewogen aantal inwoners is het aantal inwoners, op dezelfde wijze vastgelegd zoals bepaald in het voorlaatste lid van dit artikel, vermeerderd met eenmaal het aantal inwoners dat volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht heeft op een verhoogde tegemoetkoming. Die berekening wordt gemaakt bij de aanvang van een nieuwe intergemeentelijke preventiewerking en vervolgens elk tweede jaar van de legislatuur van de lokale besturen. Bij een fusie van intergemeentelijke preventiewerkingen wordt de subsidie opnieuw berekend. De subsidie wordt jaarlijks geïndexeerd op basis van de gezondheidsindex.<br>
+<br>
+Het aantal inwoners in het werkgebied van de intergemeentelijke preventiewerking wordt, voor de toepassing van dit besluit, bepaald door de administratie op basis van de gegevens die zijn aangeleverd door het Belgische Statistiekbureau Statbel. Het aantal inwoners dat volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht heeft op een verhoogde tegemoetkoming, wordt voor het laatst beschikbare kalenderjaar bepaald door de administratie op basis van de gegevens die zijn aangeleverd door het intermutualistisch agentschap, vermeld in artikel 278 van de programmawet (I) van 24 december 2002.<br>
+<br>
+Voor intergemeentelijke preventiewerkingen met een looptijd die korter is dan een volledig kalenderjaar, wordt de bijkomende subsidie berekend in verhouding tot de duur van de intergemeentelijke preventiewerking.<br>
+<br>
+In de loop van het werkingsjaar dat volgt op het werkingsjaar waarin de intergemeentelijke preventiewerking een subsidie ontvangen heeft, controleert de administratie de gerapporteerde gegevens, vermeld in het eerste lid, 2°, b), en c). Indien blijkt dat de verantwoording voor de subsidie onvoldoende is, vordert de administratie het gedeelte van de subsidie dat onvoldoende verantwoord is terug.
 
 ## HOOFDSTUK VII Schorsing en intrekking van de erkenning
 
@@ -319,118 +362,41 @@ Het ontvankelijke bezwaarschrift wordt behandeld volgens de regels die zijn vast
 
 ### ART. 23.
 
-Elk werkingsjaar wordt aan een Logo een subsidie toegekend. <br /><br />
+Elk werkingsjaar kent de secretaris-generaal aan de Logo’s een subsidie toe binnen de beschikbare begrotingskredieten.
 
 ### ART. 24.
 
-De subsidie voor een Logo, vermeld in artikel 23, met uitzondering van het Logo voor het tweetalige gebied Brussel-Hoofdstad, bedraagt 0,6187 euro per inwoner in het werkgebied van een Logo, en een bedrag per Logo als vermeld in de volgende tabel:<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>vzw Logo Antwerpen</td>
-			<td>226.415,00</td>
-		</tr>
-		<tr>
-			<td>Logo Mechelen vzw</td>
-			<td>154.879,00</td>
-		</tr>
-		<tr>
-			<td>vzw Logo Kempen</td>
-			<td>154.259,00</td>
-		</tr>
-		<tr>
-			<td>Logo Zenneland</td>
-			<td>151.092,00</td>
-		</tr>
-		<tr>
-			<td>Logo Oost-Brabant</td>
-			<td>153.708,00</td>
-		</tr>
-		<tr>
-			<td>Logo Brugge</td>
-			<td>116.359,00</td>
-		</tr>
-		<tr>
-			<td>Logo Midden-West-Vlaanderen</td>
-			<td>115.594,00</td>
-		</tr>
-		<tr>
-			<td>Logo Leieland</td>
-			<td>116.283,00</td>
-		</tr>
-		<tr>
-			<td>Logo Oostende</td>
-			<td>118.365,00</td>
-		</tr>
-		<tr>
-			<td>Logo Dender vzw</td>
-			<td>115.675,00</td>
-		</tr>
-		<tr>
-			<td>Logo Gezond+ (Gent)</td>
-			<td>227.585,00</td>
-		</tr>
-		<tr>
-			<td>Logo-Waasland vzw</td>
-			<td>117.418,00</td>
-		</tr>
-		<tr>
-			<td>Logo regio Genk</td>
-			<td>117.321,00</td>
-		</tr>
-		<tr>
-			<td>Logo regio Hasselt</td>
-			<td>192.148,00</td>
-		</tr>
-	</tbody>
-</table>
+<p>De subsidie voor het Logo met het Nederlandse taalgebied als werkgebied wordt vastgelegd op 8.452.201 euro.<br>
 <br>
-Naast de subsidie, vermeld in het eerste lid, wordt voor de lokale preventiewerkingen een bedrag voorzien van 3.000 euro per gemeente, vermeerderd met 0,08 euro, beide aan de gezondheidsindex van december 2018, per gewogen inwoner van de gemeenten waarvan het lokaal bestuur participeert aan een lokale preventiewerking, vermeld in en onder de voorwaarden van artikel 17/1. Het gewogen aantal inwoners is het aantal inwoners, op dezelfde wijze vastgelegd zoals bepaald in het voorlaatste lid van dit artikel, vermeerderd met eenmaal het aantal inwoners die volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht hebben op een verhoogde tegemoetkoming. Indien de deelnemende gemeenten aan de lokale preventiewerking tot het werkgebied van een verschillend Logo behoren, dan wordt de subsidie voor de lokale preventiewerking in kwestie toegekend aan het Logo dat de deelnemende gemeente met de meeste inwoners in haar werkgebied heeft. In dit geval kan een Logo, in tegenstelling tot de bepaling vermeld in artikel 17, § 1, eerste lid, de taken vermeld in artikel 17, § 1, eerste lid, 6°, toch verrichten ten aanzien van de lokale besturen van gemeenten buiten haar werkgebied. Artikel 31, § 1 en § 3, en artikel 32 en 34 zijn niet van toepassing op de bijkomende subsidie voor de lokale preventiewerkingen. Voor lokale preventiewerkingen met een looptijd die korter is dan een volledig kalenderjaar wordt de bijkomende subsidie in verhouding berekend, met uitzondering van de bijkomende subsidie voor het eerste jaar van een gemeentelijke legislatuur. Voor het eerste jaar van de gemeentelijke legislatuur wordt de volledige bijkomende subsidie toegekend als het document, vermeld in artikel 17/1, eerste lid, 4°, aan de administratie wordt bezorgd voor 1 april van het jaar in kwestie. Reserveaanleg voor de lokale preventiewerkingen is toegestaan en is geregeld naar analogie met de bepalingen van artikel 29. De bijkomende subsidie is onderhevig aan toezicht door de administratie naar analogie van artikel 35 en 36.<br>
-<br>
-De subsidiebedragen kunnen worden verhoogd in uitvoering van Vlaamse Intersectorale Akkoorden voor de social- en non-profitsectoren, gesloten na 1 januari 2014.<br>
-<br>
-Het aantal inwoners in het werkgebied van het Logo wordt, voor de toepassing van dit besluit, bepaald door de administratie op basis van de gegevens die zijn aangeleverd door de dienst Demografie, Algemene Directie Statistiek en Economische Informatie en die betrekking hebben op het kalenderjaar dat twee kalenderjaren voorafgaat aan het werkingsjaar waarop de subsidie betrekking heeft. Het aantal inwoners dat volgens de verplichte verzekering voor geneeskundige verzorging en uitkeringen recht heeft op een verhoogde tegemoetkoming, wordt voor het laatst beschikbare kalenderjaar bepaald door de administratie op basis van de gegevens die zijn aangeleverd door het intermutualistisch agentschap.<br>
-<br>
-De Vlaamse Regering kan de bedragen voor de bijkomende subsidie, vermeld in het tweede lid, verhogen, eventueel in functie van de eigen bijdrage van de gemeenten.
-<p>&nbsp;</p>
+Het subsidiebedrag, vermeld in het eerste lid, wordt voor minstens 80 procent aangewend voor personeelskosten.</p>
 
 ### ART. 25.
 
-<p>De subsidie voor het Logo van het tweetalige gebied Brussel-Hoofdstad wordt vastgelegd op 253.151,00 euro.</p>
+<p>De subsidie voor het Logo van het tweetalige gebied Brussel-Hoofdstad wordt vastgelegd op 303.088,00 euro.<br>
+<br>
+Het subsidiebedrag, vermeld in het eerste lid, wordt voor minstens 80 procent aangewend voor personeelskosten.</p>
 
 ### ART. 26.
 
-<p>De subsidie, vermeld in artikel 23, die berekend wordt per Logo conform artikel 24, wordt elk werkingsjaar in januari geïndexeerd volgens de ontwikkeling van de gezondheidsindex door de bedragen, vermeld in artikel 24 en 25,&nbsp;&nbsp;en die berekend zijn op basis van de afgevlakte gezondheidsindex, aan te passen volgens de volgende formule:</p>
-&nbsp;
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td rowspan="2">bedrag Y = bedrag Y-1 x</td>
-			<td>gezondheidsindex december Y-1 gezondheidsindex december Y-2</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-In de formule, vermeld in het eerste lid, wordt verstaan onder:<br>
-1° Y: het kalenderjaar waarop de subsidie betrekking heeft;<br>
-2° gezondheidsindex: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.<br>
-<br>
-De aanpassing van de bedragen, vermeld in het eerste lid, gebeurt voor het bedrag per inwoner tot vier cijfers na de komma en voor de overige bedragen tot twee cijfers na de komma. Het subsidiebedrag voor een bepaald werkingsjaar wordt afgerond tot op de euro. Bij alle afrondingen wordt het laatste cijfer vanaf de waarde vijf naar boven afgerond, cijfers met een waarde lager dan vijf worden naar beneden afgerond.
 <p>&nbsp;</p>
+
+<p>Vanaf werkingsjaar 2026 wordt de subsidie, vermeld in artikel 23, elk werkingsjaar in januari geïndexeerd door de bedragen, vermeld in artikel 24, eerste lid, en artikel 25, eerste lid, zoals tot dan toe geïndexeerd conform dit artikel, aan te passen volgens de volgende formule:&nbsp;<br>
+<br>
+Subsidiebedrag Y = 20% subsidiebedrag Y – 1 + (80% subsidiebedrag Y – 1 x (afgevlakte gezondheidsindex december Y – 1 / afgevlakte gezondheidsindex december Y – 2))&nbsp;<br>
+<br>
+In de formule, vermeld in het eerste lid, wordt verstaan onder:&nbsp;<br>
+1° Y: het kalenderjaar waarop de subsidie betrekking heeft;&nbsp;<br>
+2° afgevlakte gezondheidsindex: het prijsindexcijfer, vermeld in artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen.</p>
 
 ### ART. 27.
 
-§ 1. De Logo's ontvangen driemaandelijks een deel van de subsidie, vermeld in artikel 24, eerste lid.<br>
+§ 1. De Logo's ontvangen driemaandelijks een deel van de subsidie, vermeld in artikel 24 en 25.<br>
 <br>
 Elk deel bedraagt 25 % van de geïndexeerde subsidie.<br>
 <br>
-Het derde en het vierde deel voor een bepaald werkingsjaar worden, behalve in het eerste werkingsjaar van een erkenning als Logo, pas uitbetaald als de registratiegegevens, vermeld in artikel 8, 4°, en het financiële verslag, vermeld in artikel 8, 5°, van het vorige werkingsjaar aan de administratie worden bezorgd.<br>
+Het derde en het vierde deel voor een bepaald werkingsjaar worden, behalve in het eerste werkingsjaar van een erkenning als Logo, pas uitbetaald als de registratiegegevens, vermeld in artikel 8, 4°, en het financiële verslag, vermeld in artikel 8, 5°, van het vorige werkingsjaar aan de administratie werden bezorgd.<br>
 <br>
-De bijkomende subsidie, vermeld in artikel 24, tweede lid, wordt volledig uitbetaald bij het driemaandelijks deel dat uitbetaald wordt als voldaan is aan de subsidievoorwaarden voor de bijkomende subsidie, vermeld in artikel 17/1.<br>
-<br>
-§ 2. In de loop van het volgende werkingsjaar maakt de administratie een jaarafrekening op basis van zijn beoordeling van de registratiegegevens, vermeld in artikel 8, 4°, die bezorgd werden, en van het financiële verslag, vermeld in artikel 8, 5° en een jaarafrekening per lokale preventiewerking voor de bijkomende subsidie, vermeld in artikel 24, tweede lid, op basis van de beoordeling van de registratiegegevens, vermeld in artikel 17/1, eerste lid, 1°, c), en van het financiële verslag, vermeld in artikel 17/1, eerste lid, 1°, d).<br>
+§ 2. In de loop van het volgende werkingsjaar maakt de administratie een jaarafrekening op basis van zijn beoordeling van de registratiegegevens, vermeld in artikel 8, 4°, die bezorgd werden, en van het financiële verslag, vermeld in artikel 8, 5°.<br>
 <br>
 Als uit de evaluatie door de administratie blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is, beslist de administratie een deel van de ingebrachte kosten niet te aanvaarden.
 
@@ -440,23 +406,21 @@ Inkomsten die verkregen worden buiten dit besluit, worden niet in mindering gebr
 
 ### ART. 29.
 
-§ 1. De aanleg van een reserve per Logo als vermeld in artikel 38, § 3, van het decreet van 21 november 2003, die wordt opgebouwd uit de subsidie in het kader van dit besluit, hierna reserve te noemen, wordt toegestaan.<br>
+§1. De aanleg van een reserve per Logo als vermeld in artikel 38, § 3, van het decreet van 21 november 2003, die wordt opgebouwd uit de subsidie in het kader van dit besluit, hierna reserve te noemen, wordt toegestaan.<br>
 <br>
-§ 2. De reserve wordt elk werkingsjaar ter gelegenheid van de jaarafrekening door de administratie bepaald door de subsidie in het kader van dit besluit te verminderen met de uitgaven die aanvaard zijn door de administratie in het kader van de uitvoering van dit besluit. De reserve wordt afzonderlijk bepaald, zowel voor de basissubsidie als voor de bijkomende subsidie voor de lokale preventiewerkingen.<br>
+§2. De reserve wordt elk werkingsjaar ter gelegenheid van de jaarafrekening door de administratie bepaald door de subsidie in het kader van dit besluit te verminderen met de uitgaven die aanvaard zijn door de administratie in het kader van de uitvoering van dit besluit. Als een Logo beheerder is van een intergemeentelijke preventiewerking als vermeld in artikel 17/1, eerste lid, 1°, d), van dit besluit, wordt de reserve in het kader van de subsidie, vermeld in artikel 17/1 van dit besluit, afzonderlijk bepaald en afzonderlijk behandeld van de reserve in het kader van de subsidie, vermeld in artikel 23 van dit besluit.<br>
 <br>
-§ 3.&nbsp;Elke reserve die wordt opgebouwd in een bepaald werkingsjaar, mag niet meer bedragen dan een&nbsp;vijfde van de geïndexeerde subsidie voor het werkingsjaar in kwestie.<br>
+§3.&nbsp;Elke reserve die wordt opgebouwd in een bepaald werkingsjaar, mag niet meer bedragen dan een&nbsp;vijfde van de geïndexeerde subsidie voor het werkingsjaar in kwestie.<br>
 <br>
 Elke&nbsp;gecumuleerde reserve mag op het einde van een bepaald werkingsjaar nooit meer bedragen dan de helft van de geïndexeerde subsidie voor het werkingsjaar in kwestie.<br>
 <br>
 Als de reserve de limieten, vermeld in het eerste en tweede lid, overschrijdt, wordt dat verrekend bij de eerstvolgende uitbetaling van subsidies in het kader van dit besluit, of wordt het bedrag van de overschrijding van de reserve teruggevorderd.<br>
 <br>
-§ 4.&nbsp;Elke reserve is overdraagbaar naar een volgend werkingsjaar binnen een lopende erkenning of naar een volgende erkenning van dezelfde rechtspersoon of de rechtsopvolger ervan. Als werkgebieden wijzigen, wordt de reserve verdeeld in verhouding tot het aantal inwoners van de nieuwe werkgebieden.<br>
+§4. Elke reserve is overdraagbaar naar een volgend werkingsjaar binnen een lopende erkenning of naar een volgende erkenning van dezelfde rechtspersoon of de rechtsopvolger ervan.<br>
 <br>
-Zonder afbreuk te doen aan de bepaling § 3, tweede lid, wordt&nbsp;elke reserve in voorkomend geval verhoogd met&nbsp;elke reserve van een of meer Logo's die voordien geheel of gedeeltelijk in het werkgebied van het Logo werkten en die hun reserve hebben opgebouwd met subsidies van de Vlaamse overheid.<br>
+§5. De reserve kan alleen aangewend worden voor de realisatie van de opdrachten en initiatieven van het Logo en voor de verbintenissen die eruit voortvloeien.<br>
 <br>
-§ 5. De reserve kan alleen aangewend worden voor de realisatie van de opdrachten en initiatieven van het Logo en voor de verbintenissen die eruit voortvloeien.<br>
-<br>
-§ 6. Als de erkenning wordt ingetrokken of als geen nieuwe erkenning wordt verleend aan dezelfde rechtspersoon of aan de rechtsopvolger ervan, wordt de gecumuleerde reserve na afloop van de erkenning teruggevorderd.
+§6. Als de erkenning wordt ingetrokken of als geen nieuwe erkenning wordt verleend aan dezelfde rechtspersoon of aan de rechtsopvolger ervan, wordt de gecumuleerde reserve na afloop van de erkenning teruggevorderd.
 
 ### ART. 30.
 
@@ -561,7 +525,7 @@ De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoe
 
 ### ART. 1.
 
-De preventieorganisaties die minstens moeten worden uitgenodigd om te participeren in het Logo en om het Logo te ondersteunen, zijn al de preventieorganisaties die behoren tot de volgende groepen die in het werkgebied van het Logo werken : <br />1° de huisartsenkringen die in het werkgebied van het Logo werken;<br />2° de centra voor leerlingenbegeleiding, afgekort de CLB's, met scholen in het werkgebied van het Logo;<br />3° de externe diensten voor preventie en bescherming op het werk, met een door de Vlaamse overheid erkende afdeling Medisch Toezicht waarop bedrijven in het werkgebied van het Logo een beroep doen, en de interne diensten voor preventie en bescherming op het werk, met een door de Vlaamse overheid erkend departement Medisch Toezicht, van bedrijven in het werkgebied van het Logo;<br />4° de lokale besturen : hetzij de gemeentebesturen, hetzij de O.C.M.W.'s, hetzij de gemeentebesturen en de O.C.M.W.'s samen met een werking in het werkgebied van het Logo;<br />5° de diensten van de ziekenfondsen die de gezondheidsbevordering behartigen en die in het werkgebied van het Logo werken;<br />6° de consultatiebureaus van Kind en Gezin die in het werkgebied van het Logo werken. <br /><br />Voor het tweetalig gebied Brussel-Hoofdstad wordt de groep, vermeld in punt 4°, vervangen door de dienst van de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid. <br /><br />
+...
 
 ### ART. 2.
 
