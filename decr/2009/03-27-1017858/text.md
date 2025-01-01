@@ -73,6 +73,7 @@ b) de commerciële communicatie;<br>
 29° organisator :<br>
 a) de persoon of vereniging die een evenement organiseert;<br>
 b) de houder van de exploitatierechten op het evenement;<br>
+29°/2 productieproject: een project dat voorgelegd of uitgevoerd wordt in het kader van de toepassing van artikel 188/2, §1, eerste lid, 1°, en dat voldoet aan de voorwaarden zoals bepaald door de Vlaamse Regering;<br>
 30° productplaatsing: elke vorm van audiovisuele commerciële communicatie die bestaat in het opnemen van, of het verwijzen naar, een product, dienst of handelsmerk in het kader van een programma of door gebruikers gegenereerde inhoud, tegen betaling of een soortgelijke vergoeding;<br>
 31° programma: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, die ongeacht de duur ervan, een afzonderlijk element vormt van een schema opgesteld door een omroeporganisatie of een catalogus opgesteld door een omroeporganisatie, met inbegrip van bioscoopfilms, videoclips, sportevenementen, komische series, documentaires, kinderprogramma's en origineel drama;<br>
 32° programma-aanbod : het geheel van aangeboden programma's;<br>
@@ -1463,23 +1464,21 @@ De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere line
 
 ### ART. 157.
 
-§ 1. De niet-lineaire televisieomroeporganisaties bieden in hun programma-catalogus minstens 30% Europese producties aan waarvan een aanzienlijk deel Nederlandstalige Europese producties zijn. De niet-lineaire televisieomroeporganisaties zorgen voor een prominente plaats van deze Europese producties in hun programmacatalogus.<br>
+§ 1. De&nbsp;televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden bieden in hun programma-catalogus minstens 30% Europese producties aan waarvan een aanzienlijk deel Nederlandstalige Europese producties zijn. De&nbsp;televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden zorgen voor een prominente plaats van deze Europese producties in hun programmacatalogus.<br>
 <br>
-Het eerste lid is niet van toepassing op niet-lineaire televisieomroep-organisaties met een lage omzet of een klein publiek en is niet van toepassing op kleine en micro-ondernemingen. De Vlaamse Regering bepaalt de criteria van een lage omzet en van een klein publiek.<br>
+De verplichtingen, vermeld in het eerste lid, zijn niet van toepassing op televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden die minstens aan een van de volgende voorwaarden voldoen:<br>
+1° &nbsp; ze zijn een micro-onderneming;<br>
+2° ze bereiken met hun aanbod van niet-lineaire televisiediensten minder dan 0,5% van alle inwoners van het Nederlandse taalgebied.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en regels voor de vrijstellingen, vermeld in het tweede lid.<br>
 <br>
 De Vlaamse Regering kan voor de bepaling van een aanzienlijk deel Nederlandstalige Europese producties zoals bedoeld in het eerste lid quota opleggen.<br>
 <br>
-§ 2. De particuliere niet-lineaire televisieomroeporganisaties nemen deel aan de productie van Vlaamse audiovisuele werken, ofwel onder de vorm van een financiële bijdrage aan de productie of de coproductie van Vlaamse audiovisuele werken, ofwel onder de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds. Deze bijdrage wordt door het Vlaams Audiovisueel Fonds besteed aan Vlaamse, kwalitatieve onafhankelijke coproducties in reeksvorm.<br>
+§ 2. ...<br>
 <br>
-De particuliere niet-lineaire televisieomroeporganisaties die deelnemen aan de productie van Vlaamse audiovisuele werken onder de vorm van een financiële bijdrage aan het Vlaams Audiovisueel Fonds, kunnen rechten verwerven met betrekking tot producties die gerealiseerd worden met die financiële bijdrage. De Vlaamse Regering bepaalt hiervoor de nadere voorwaarden en procedures.<br>
+§ 3. De&nbsp;televisieomroeporganisaties die niet-lineaire televisiediensten aanbieden bezorgen elk jaar voor 31 maart aan de Vlaamse Regulator voor de Media een verslag over de wijze waarop aan de bepalingen van paragraaf 1 is voldaan. De Vlaamse Regulator voor de Media maakt die gegevens openbaar.<br>
 <br>
-De Vlaamse Regering bepaalt de criteria, de voorwaarden en de procedures voor de deelname van de particuliere niet-lineaire televisieomroeporganisaties aan de productie van Vlaamse audiovisuele werken, met inbegrip van de grondslag, het tarief of het bedrag en eventuele vrijstellingen of verminderingen van de financiële bijdrage.<br>
-<br>
-Het besluit van de Vlaamse Regering strekkende tot de uitvoering van het tweede lid, alsook ieder later besluit van de Vlaamse Regering strekkende tot de wijziging van datzelfde besluit, wordt van rechtswege opgeheven met terugwerkende kracht tot op de datum van de inwerkingtreding ervan als het niet binnen één maand na de goedkeuring door de Vlaamse Regering aan het Vlaams Parlement ter bekrachtiging wordt voorgelegd. Het besluit wordt bekrachtigd bij decreet binnen zes maanden na de goedkeuring ervan. Die periodes worden opgeschort tijdens het parlementaire reces en bij de ontbinding van het parlement.<br>
-<br>
-§ 3. De niet-lineaire televisieorganisaties bezorgen elk jaar voor 31 maart aan de Vlaamse Regulator voor de Media een verslag over de wijze waarop aan de bepalingen van de paragrafen 1 en 2 is voldaan. De Vlaamse Regulator voor de Media maakt die gegevens openbaar.<br>
-<br>
-§ 4. De bepalingen van paragrafen 2 en 3 zijn ook van toepassing op niet-lineaire televisieomroeporganisaties die&nbsp;gevestigd zijn in&nbsp;een lidstaat van de Europese Unie of in een staat van de Europese Economische Ruimte en niet-lineaire televisiediensten aanbieden die gericht zijn op het Nederlandse taalgebied.
+§ 4. ...
 
 ## HOOFDSTUK II. Particuliere lineaire televisiediensten
 
@@ -1923,23 +1922,11 @@ De dienstenverdeler die gebruik maakt van een etheromroepnetwerk of een   entite
 
 Dienstenverdelers die zowel lineaire als niet-lineaire televisieprogramma's aanbieden, zijn verplicht om via hun aanbod toegang te geven tot de al dan niet gemeenschappelijke betalende niet-lineaire televisiedienst van een of meerdere lineaire televisieomroeporganisaties die onder het toepassingsgebied van artikel 154, eerste en tweede lid, vallen, en die om die toegang verzoeken, zodat eindgebruikers rechtstreeks toegang kunnen krijgen tot die niet-lineaire televisiedienst, waarvan het aanbod een aanzienlijk deel aan Nederlandstalige Europese producties dient te bevatten en hieraan een prominente plaats dient te geven. De Vlaamse Regering kan voor de bepaling van een aanzienlijk deel Nederlandstalige Europese producties quota opleggen.
 
+## TITEL 1/1. ...
+
 ### ART. 184/1.
 
-&nbsp;§ 1. Iedere dienstenverdeler die een of meerdere omroepdiensten van een of meerdere televisieomroeporganisaties die vallen onder de bevoegdheid van de Vlaamse Gemeenschap, op lineaire of niet-lineaire wijze ter beschikking stelt van het publiek, neemt deel aan de productie van audiovisuele werken, ofwel onder de vorm van een financiële bijdrage aan de coproductie van audiovisuele werken, ofwel onder de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds. Deze bijdrage wordt door het Vlaams Audiovisueel Fonds besteed aan Vlaamse, kwalitatieve onafhankelijke producties in reeksvorm, die tot stand komen in coproductie met de openbare omroeporganisatie van de Vlaamse Gemeenschap en/of de in Vlaanderen erkende en/of aangemelde televisieomroeporganisaties en waarover de Vlaamse Regering met het Vlaams Audiovisueel Fonds een beheersovereenkomst sluit.<br>
-<br>
-De dienstenverdeler brengt het Vlaams Audiovisueel Fonds, de Vlaamse Regulator voor de Media en de Vlaamse Regering ieder jaar vóór 15 februari met een ter post aangetekende brief op de hoogte van de door hem gekozen vorm van deelname, bij gebrek waaraan hij geacht wordt gekozen te hebben voor participatie door middel van een financiële bijdrage aan het Vlaams Audiovisueel Fonds.<br>
-<br>
-§ 2. De in § 1 vermelde financiële bijdrage aan coproductie neemt de vorm aan van coproductieprojecten die voor beoordeling van de ontvankelijkheid en erkenning worden voorgelegd aan de Vlaamse Regulator voor de Media. De Vlaamse Regering bepaalt de nadere modaliteiten met betrekking tot de procedure voor indiening van de coproductieprojecten alsook met betrekking tot de beoordeling van de ontvankelijkheid en de erkenning van deze coproductieprojecten. De Vlaamse Regering bepaalt tevens de nadere modaliteiten met betrekking tot de procedure voor de financiële bijdrage aan het Vlaams Audiovisueel Fonds.<br>
-<br>
-§ 3. Het forfaitaire bedrag van de deelname van elke dienstenverdeler aan de productie van audiovisuele werken, vermeld in paragraaf 1, bedraagt 3 miljoen euro per jaar. In afwijking daarvan kan de dienstenverdeler opteren voor een deelname voor een bedrag van 1,3 euro per abonnee in het Nederlandse taalgebied, berekend op grond van de meest recente en door de Vlaamse Regulator voor de Media aanvaarde gegevens die werden meegedeeld in uitvoering van artikel 182. Worden die gegevens niet adequaat aangeleverd, dan zal de forfaitaire bijdrage verschuldigd zijn.<br>
-<br>
-De bedragen, vermeld in het eerste lid, worden vanaf 1 januari 2015 jaarlijks geïndexeerd op basis van het prijsindexcijfer zoals bepaald in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. Dit gebeurt door de bedragen zoals vermeld in het eerste lid, te vermenigvuldigen met hierboven vermeld prijsindexcijfer vastgesteld voor de maand januari van het lopende jaar en te delen door het hierboven vermeld prijsindexcijfer vastgesteld voor de maand februari van het jaar 2014.<br>
-<br>
-Een dienstenverdeler waarvan blijkt dat hij met toepassing van § 2 voor de betrokken periode onvoldoende investeringen in coproductieprojecten heeft voorgelegd aan de Vlaamse Regulator voor de Media, is gehouden tot de financiële bijdrage, als bedoeld in § 1, aan het Vlaams Audiovisueel Fonds voor het volledige bedrag als bedoeld in die paragraaf&nbsp;met aftrek van de reeds voorgelegde investeringen.<br>
-<br>
-Heeft de dienstenverdeler zijn keuze voor investering in coproductie van audiovisuele werken kenbaar gemaakt en is het tekort aan investering in coproductieprojecten te wijten aan de beslissing van de Vlaamse Regulator voor de Media dat een of meerdere coproductieprojecten niet ontvankelijk zijn of niet erkend worden overeenkomstig de procedure bedoeld in § 2, dan stort de dienstenverdeler het saldo van de totaal verschuldigde financiële bijdrage als bedoeld in § 1 aan het Vlaams Audiovisueel Fonds.<br>
-<br>
-§ 4. Een participatie in een coproductie ter uitvoering van een andere wettelijke of reglementaire verplichting of die een ander wettelijk of reglementair voordeel met zich meebrengt, kan niet in rekening worden gebracht in het kader van de deelnameplicht, vermeld in dit artikel.
+...
 
 ## TITEL II. DOORGIFTEMOGELIJKHEDEN EN DOORGIFTEVERPLICHTINGEN
 
@@ -2002,6 +1989,148 @@ De Vlaamse Regulator voor de Media moet vooraf op de hoogte worden gebracht van 
 ### ART. 188.
 
 Het is een dienstenverdeler verboden andere omroepprogramma's door te geven dan die waarvan de doorgifte krachtens deze titel is toegestaan, behoudens toestemming van de Vlaamse Regulator voor de Media, die daaraan voorwaarden kan verbinden.<br /><br />Een dienstenverdeler mag zelf een analoog en twee digitale kanalen gebruiken als hij die hoofdzakelijk gebruikt om informatie te verstrekken over de omroepprogramma's en de diensten die hij doorgeeft of aanbiedt en over de moeilijkheden die de werking van de dienst beïnvloeden.
+
+## DEEL IV/1. Stimulering van de audiovisuele sector door deelname aan de productie van audiovisuele werken
+
+## TITEL I. Toepassingsgebied
+
+### ART 188/1.
+
+§1. De volgende investeerders nemen jaarlijks deel aan de productie van audiovisuele werken in de vorm van een rechtstreekse financiële bijdrage aan de productie van audiovisuele werken of in de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds:<br>
+1° dienstenverdelers die een of meer omroepdiensten van een of meer televisieomroeporganisaties die vallen onder de bevoegdheid van de Vlaamse Gemeenschap, op lineaire of niet-lineaire wijze ter beschikking stellen van het publiek;<br>
+2° particuliere omroeporganisaties die onder de bevoegdheid vallen van de Vlaamse Gemeenschap met toepassing van artikel 150/1 voor de door hen aangeboden niet-lineaire televisiediensten in een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte, of daarbuiten;<br>
+3° particuliere omroeporganisaties, voor de door hen aangeboden niet-lineaire televisiediensten in:<br>
+a)&nbsp;&nbsp; &nbsp;het Nederlandse taalgebied;<br>
+b)&nbsp;&nbsp; &nbsp;het tweetalige gebied Brussel-Hoofdstad;<br>
+4° &nbsp; aanbieders van videoplatformdiensten die onder de bevoegdheid vallen van de Vlaamse Gemeenschap met toepassing van artikel 176/3 voor de door hen aangeboden videoplatformdiensten in een andere lidstaat van de Europese Unie of de Europese Economische Ruimte, of daarbuiten;<br>
+5° aanbieders van videoplatformdiensten, voor de door hen aangeboden videoplatformdiensten in:<br>
+a)&nbsp;&nbsp; &nbsp;het Nederlandse taalgebied;<br>
+b)&nbsp;&nbsp; &nbsp;het tweetalige gebied Brussel-Hoofdstad.<br>
+&nbsp;<br>
+§2. De verplichte financiële bijdrage aan de productie van audiovisuele werken, vermeld in paragraaf 1, is niet van toepassing op:<br>
+1°&nbsp;&nbsp; &nbsp;particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden en die minstens aan een van de volgende voorwaarden voldoen:<br>
+a)&nbsp;&nbsp; &nbsp;ze zijn een micro-onderneming;<br>
+b)&nbsp;&nbsp; &nbsp;ze bereiken met hun aanbod van niet-lineaire televisiediensten minder dan 0,5% van alle inwoners van het Nederlandse taalgebied;<br>
+c)&nbsp;&nbsp; &nbsp;ze bieden jaarlijks minder dan tien audiovisuele werken aan;<br>
+d)&nbsp;&nbsp; &nbsp;hun aanbod bestaat hoofdzakelijk uit programma’s die gebaseerd zijn op ‘Broadcaster Video on Demand’-rechten;<br>
+2°&nbsp;&nbsp; &nbsp;dienstenverdelers en aanbieders van videoplatformdiensten die een micro-onderneming zijn.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en regels voor de vrijstellingen van de bijdrage.
+
+## TITEL II. Algemene bepalingen
+
+### ART 188/2.
+
+§1. De rechtstreekse financiële bijdrage aan de productie van audiovisuele werken, als vermeld in artikel 188/1, §1, kan de volgende vormen aannemen: 1°&nbsp;&nbsp; &nbsp;een bijdrage aan Vlaamse productieprojecten, die worden voorgelegd aan de Vlaamse Regulator voor de Media om de ontvankelijkheid en erkenning ervan<br>
+te beoordelen;<br>
+2°&nbsp;&nbsp; &nbsp;een bijdrage om uitzendrechten voor het Nederlandse taalgebied te verwerven op een Vlaams productieproject, vermeld in punt 1°.<br>
+<br>
+Het Vlaams Audiovisueel Fonds besteedt de gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds, vermeld in artikel 188/1, §1, conform de beheersovereenkomsten tussen de Vlaamse Gemeenschap en het Vlaams Audiovisueel Fonds vzw over het VAF/Mediafonds en VAF/Filmfonds.<br>
+<br>
+§2. De Vlaamse Regering bepaalt:<br>
+1° de criteria op basis waarvan een productieproject kan gekwalificeerd worden als een Vlaams productieproject;<br>
+2° de nadere regels, voorwaarden en de procedure voor indiening van de Vlaamse productieprojecten, vermeld in paragraaf 1, eerste lid, 1°;<br>
+3° de voorwaarden en de regels om een bijdrage om uitzendrechten te verwerven als vermeld in paragraaf 1, eerste lid, 2°, mee in rekening te nemen;<br>
+4° de voorwaarden en regels met betrekking tot de beoordeling van de ontvankelijkheid, de erkenning en de opvolging van de Vlaamse productieprojecten en bijdragen om uitzendrechten te verwerven, vermeld in paragraaf 1, eerste lid;<br>
+5° de nadere regels met betrekking tot de procedure voor de gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+§3. Investeerders die met toepassing van paragraaf 1 onvoldoende financiële bijdragen aan Vlaamse productieprojecten hebben voorgelegd aan de Vlaamse Regulator voor de Media, of die onvoldoende financiële bijdragen aan Vlaamse productieprojecten kunnen inbrengen als gevolg van de beslissing van de Vlaamse Regulator voor de Media dat een of meer Vlaamse productieprojecten niet ontvankelijk zijn<br>
+&nbsp;<br>
+of niet erkend worden, zijn gehouden tot de financiële bijdrage aan het Vlaams Audiovisueel Fonds voor het volledige bedrag, vermeld in titel III, met aftrek van de bijdragen die al zijn voorgelegd voor Vlaamse productieprojecten die al zijn voorgelegd en erkend.<br>
+<br>
+§4. Een financiële bijdrage aan een productie ter uitvoering van een andere wettelijke of reglementaire verplichting of die een ander wettelijk of reglementair voordeel met zich meebrengt, kan niet in rekening worden gebracht in het kader van de bijdrageverplichting, vermeld in artikel 188/1, §1.
+
+### ART 188/3.
+
+Iedere investeerder, vermeld in artikel 188/1, §1, bezorgt de Vlaamse Regulator voor de Media, het Vlaams Audiovisueel Fonds, de Vlaamse minister bevoegd voor media en de Vlaamse minister bevoegd voor cultuur jaarlijks vóór 15 april de volgende gegevens en bewijsstukken:<br>
+1° de gekozen vorm van deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1;<br>
+2° het bedrag van de financiële bijdrage, vermeld in titel III, en, in voorkomend geval, de bewijsstukken om het voormelde bedrag te staven;<br>
+3° in voorkomend geval het bewijs van toepasbaarheid van een van de uitsluitingsgronden, vermeld in artikel 188/1, §2. De bewijsstukken van de voorwaarden, vermeld in artikel 188/1, §2, eerste lid, 1° en 2°, hebben betrekking op de gegevens van het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1.<br>
+<br>
+Als de gegevens of de bewijsstukken, vermeld in het eerste lid onder punt 2° en punt 3°, niet tijdig zijn ingediend, wordt de investeerder geacht gekozen te hebben voor een deelname aan de productie van audiovisuele werken door middel van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds voor het forfaitaire bedrag dat de investeerder verschuldigd is op basis van respectievelijk artikel 188/4, 1°, artikel 188/5, §1, eerste lid, 1°, of artikel 188/6, §1, eerste lid, 1°. De Vlaamse Regulator voor de Media brengt de betrokken investeerder daarvan op de hoogte. Een investeerder is vrijgesteld van het betalen van het forfaitair bedrag indien hij binnen de tien werkdagen na de kennisgeving aan de Vlaamse Regulator voor de Media, kan aantonen dat hij voldoet aan één van de uitsluitingsgronden, vermeld in artikel 188/1, §2.<br>
+<br>
+De dossiers met de gegevens en bewijsstukken, vermeld in het eerste lid, worden in het Nederlands ingediend. De investeerder die gevestigd is in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, of daarbuiten, of in België maar niet in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad, kan zijn dossier in het Engels indienen.<br>
+<br>
+De gegevens en bewijsstukken, vermeld in het eerste lid, worden elektronisch ingediend, op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden en regels betreffende de rapportering door de Vlaamse Regulator voor de Media en het Vlaams Audiovisueel Fonds over de deelname aan de productie van audiovisuele werken in de vorm van een rechtstreekse financiële bijdrage aan de productie van audiovisuele werken of in de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds als vermeld in artikel 188/1.
+
+## TITEL III. Bijdrage
+
+## HOOFDSTUK I. Dienstenverdelers
+
+### ART 188/4.
+
+De dienstenverdelers kiezen een van de volgende systemen voor het bepalen van de jaarlijkse bijdrage om hun verplichting tot deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1, na te leven:<br>
+1° de betaling van een forfaitair bedrag van 7 miljoen euro. Het voormelde forfaitaire bedrag wordt jaarlijks geïndexeerd conform artikel 188/7;<br>
+2° de betaling van een bedrag van 3 euro per abonnee in het Nederlandse taalgebied. Het voormelde bedrag wordt jaarlijks geïndexeerd conform artikel 188/7. Het aantal abonnees wordt bepaald op grond van de meest recente gegevens die zijn meegedeeld ter uitvoering van artikel 182, voorafgaand aan het jaar van de deelname aan de productie van audiovisuele werken, en die door de Vlaamse Regulator voor de Media aanvaard zijn.
+
+## HOOFDSTUK II. Particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden
+
+### ART 188/5.
+
+§1. De particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden, kiezen een van de volgende systemen voor het bepalen van de jaarlijkse bijdrage om hun verplichting tot deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1, na te leven:<br>
+1° de betaling van een forfaitair bedrag van 7 miljoen euro. Het voormelde forfaitaire bedrag wordt jaarlijks geïndexeerd conform artikel 188/7;<br>
+2° &nbsp; de betaling van een bedrag dat gelijk is aan:<br>
+a)&nbsp;&nbsp; &nbsp;2% van hun omzet als die tussen 0 euro en 15 miljoen euro ligt;<br>
+b)&nbsp;&nbsp; &nbsp;3% van hun omzet als die tussen 15 en 30 miljoen euro ligt;<br>
+c)&nbsp;&nbsp; &nbsp;4% van hun omzet als die hoger dan 30 miljoen euro ligt.<br>
+<br>
+De omzet, vermeld in het eerste lid, 2°, heeft betrekking op de omzet die gerealiseerd wordt in het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken.<br>
+<br>
+In het eerste lid, 2°, wordt onder omzet verstaan: de volgende inkomsten uit de levering aan de eindgebruiker van niet-lineaire televisiediensten, exclusief btw: 1°&nbsp;&nbsp; &nbsp;de inkomsten uit de betaling door de eindgebruiker. Die omvatten niet de inkomsten van particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden die geen onderscheiden rechtspersoonlijkheid hebben van<br>
+een dienstenverdeler of waarover exclusieve controle wordt uitgeoefend door een dienstenverdeler die valt onder de toepassing van artikel 188/1, §1, 1°, voor hun aanbod van niet-lineaire televisiediensten dat op transactionele basis alleen beschikbaar is voor abonnees van die dienstenverdeler;<br>
+&nbsp;<br>
+2° de inkomsten uit overeenkomsten met dienstenverdelers en aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+3° &nbsp; de inkomsten uit de valorisatie van data;<br>
+4° &nbsp; de inkomsten uit audiovisuele commerciële communicatie.<br>
+<br>
+Als een particuliere omroeporganisatie die niet-lineaire televisiediensten aanbiedt, gedurende het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken, minder dan twaalf maanden actief was, wordt de jaaromzet berekend door de gemiddelde maandelijkse omzet van het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken, met twaalf te vermenigvuldigen.<br>
+<br>
+De particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden, bewijzen hun omzet, vermeld in het eerste lid, 2°, met stukken die gevalideerd zijn door een bedrijfsrevisor. De voormelde stukken worden integraal als bijlage gevoegd bij de gegevens en bewijsstukken, vermeld in artikel 188/3. De Vlaamse Regulator voor de Media is bevoegd om over de voormelde stukken alle relevante inlichtingen en documenten te vragen aan de particuliere omroeporganisaties die niet-lineaire televisiediensten aanbieden.<br>
+<br>
+§2. Voor de particuliere omroeporganisaties wat betreft hun diensten, vermeld in 188/1, §1, 2°, wordt voor de berekening van de omzet, vermeld in paragraaf 1, eerste lid, 2°, rekening gehouden met de inkomsten in alle andere lidstaten van de Europese Unie waarop ze zich richten, in voorkomend geval na aftrek van de inkomsten die afkomstig zijn uit een andere lidstaat waarop de omroeporganisatie zich richt en waar ze met toepassing van artikel 13 van de richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten onderworpen is aan een stelsel van financiële bijdragen aan de productie van Europese werken.<br>
+<br>
+Voor particuliere omroeporganisaties wat betreft hun diensten, vermeld in artikel 188/1, §1, 3°, wordt alleen rekening gehouden met de inkomsten van de diensten die aangeboden worden in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad om de omzet, vermeld in paragraaf 1, eerste lid, 2°, te berekenen.
+
+## HOOFDSTUK III. Aanbieders van videoplatformdiensten
+
+### ART 188/6.
+
+§1. Aanbieders van videoplatformdiensten kiezen een van de volgende systemen voor het bepalen van de jaarlijkse bijdrage om hun verplichting tot deelname aan de productie van audiovisuele werken, vermeld in artikel 188/1, §1, na te leven:<br>
+1° de betaling van een forfaitair bedrag van 7 miljoen euro. Het voormelde forfaitaire bedrag wordt jaarlijks geïndexeerd conform artikel 188/7;<br>
+2° &nbsp; de betaling van een bedrag dat gelijk is aan:<br>
+a)&nbsp;&nbsp; &nbsp;2% van hun omzet als die tussen 0 euro en 15 miljoen euro ligt;<br>
+b)&nbsp;&nbsp; &nbsp;3% van hun omzet als die tussen 15 en 30 miljoen euro ligt;<br>
+c)&nbsp;&nbsp; &nbsp;4% van hun omzet als die hoger dan 30 miljoen euro ligt.<br>
+&nbsp;<br>
+De omzet, vermeld in het eerste lid, 2°, heeft betrekking op de omzet die gerealiseerd wordt in het tweede jaar dat voorafgaat aan het jaar van de deelname aan de productie van audiovisuele werken.<br>
+<br>
+In het eerste lid, 2°, wordt verstaan onder omzet: de inkomsten, exclusief btw, die verworven worden uit:<br>
+1°&nbsp;&nbsp; &nbsp;de betaling door de eindgebruiker;<br>
+2°&nbsp;&nbsp; &nbsp;de overeenkomsten met dienstenverdelers en aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten;<br>
+3°&nbsp;&nbsp; &nbsp;de valorisatie van data;<br>
+4°&nbsp;&nbsp; &nbsp;commerciële communicatie.<br>
+<br>
+§2. De aanbieders van videoplatformdiensten bewijzen hun omzet, vermeld in paragraaf 1, tweede lid, met stukken die gevalideerd zijn door een bedrijfsrevisor. De voormelde stukken worden integraal als bijlage gevoegd bij de gegevens en bewijsstukken, vermeld in artikel 188/3. De Vlaamse Regulator voor de Media is bevoegd om over de voormelde stukken alle relevante inlichtingen en documenten te vragen aan de aanbieders van de videoplatformdienst.<br>
+<br>
+§3. Voor aanbieders van videoplatformdiensten wat betreft hun diensten, vermeld in artikel 188/1, §1, 4°, wordt voor de berekening van de omzet, vermeld in paragraaf 1, eerste lid, 2°, rekening gehouden met de inkomsten in alle andere lidstaten van de Europese Unie waarop ze zich richten, in voorkomend geval na aftrek van de inkomsten die afkomstig zijn uit een andere lidstaat waarop de aanbieder van de videoplatformdienst zich richt en waar deze ook onderworpen is aan een stelsel van financiële bijdragen teneinde de productie van Europese werken te stimuleren.<br>
+<br>
+Voor aanbieders van videoplatformdiensten wat betreft hun diensten, vermeld in artikel 188/1, §1, 5°, wordt alleen rekening gehouden met de inkomsten van de diensten die aangeboden worden in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad om de omzet, vermeld in paragraaf 1, eerste lid, 2°, te berekenen.
+
+## HOOFDSTUK IV. Indexering
+
+### ART 188/7.
+
+De bedragen, vermeld in artikel 188/4, 188/5 en 188/6, worden vanaf 1 januari 2025 jaarlijks geïndexeerd op basis van het prijsindexcijfer zoals bepaald in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ‘s lands concurrentievermogen.<br>
+<br>
+De indexatie, vermeld in het eerste lid, gebeurt door de bedragen, vermeld in artikel 188/4, 188/5 en 188/6, te vermenigvuldigen met het voormelde prijsindexcijfer dat is vastgesteld voor de maand januari van het lopende jaar, en door dat resultaat te delen door het hierboven vermeld prijsindexcijfer vastgesteld voor de maand januari van het jaar 2024.
+
+## TITEL IV. Evaluatie
+
+### ART 188/8.
+
+De Vlaamse Regering maakt, uiterlijk in het derde jaar na de inwerkingtreding, een evaluatie op van de regeling, vermeld in artikel 188/1 tot en met 188/7.
 
 ## DEEL V. Netwerken
 
@@ -2830,27 +2959,29 @@ De Vlaamse Regulator voor de Media is verantwoordelijk voor, of verleent medewer
 9°/1 het verlenen van advies aan de Vlaamse Regering indien de VRT nieuwe diensten of activiteiten wil uitoefenen die niet gedekt zijn door de beheersovereenkomst, zoals bepaald in artikel 18;<br>
 10° het uitvoeren van bijzondere opdrachten die de Vlaamse Regering indien nodig kan toevertrouwen aan de algemene kamer, voor zover die betrekking hebben op de taken, vermeld in punten 1° tot 9°/1.<br>
 11° het nemen van de maatregelen krachtens artikel 192/12, 200, § 1/1, artikel 200/1 en 200/2;<br>
-12° de uitvoering van de opdrachten omschreven in en/of voortvloeiend uit artikel 184/1 en het besluit van de Vlaamse Regering in uitvoering van artikel 184/1, § 2.<br>
+12° de uitvoering van de opdrachten omschreven in en/of voortvloeiend uit&nbsp;artikel 188/1 tot en met 188/6 en het besluit van de Vlaamse Regering in uitvoering van artikel 188/1 tot en met 188/6.<br>
 13° het toezicht houden op de correctheid van de bereikcijfers die door de dienstenverdelers ter beschikking worden gesteld, het berekenen van het gemiddeld procentueel dagbereik van de regionale televisieomroeporganisaties, en het berekenen van de afzonderlijke bereikvergoedingen als vermeld in artikel 166/1, § 2, lid 6, die de dienstenverdelers verschuldigd zijn aan de regionale omroeporganisaties;<br>
 14° met behoud van de toepassing van paragraaf 3, eerste lid, 2°, niet-bindende interpretatieve richtsnoeren opstellen die de bepalingen van dit decreet of de uitvoeringsbesluiten ervan verduidelijken;<br>
 15° met behoud van de toepassing van paragraaf 3, eerste lid, 3°, adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering;<br>
-16° de uitvoering van de opdrachten omschreven in en/of voortvloeiend uit artikel 157 en de uitvoeringsbesluiten ervan;<br>
+16° ...<br>
 17° het maken en handhaven van de lijst, vermeld in artikel 150/1, § 4/2;<br>
 18° de Europese Commissie inlichten als vermeld in artikel 150/1, § 4/3;<br>
 19° het openbaar maken van de verslagen, vermeld in artikel 151, § 4;<br>
 20° het contactpunt onderhouden als vermeld in artikel 151, § 7;<br>
-21° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie&nbsp;of van de andere staat in de Europese Economische Ruimte over de kennisgeving, vermeld in artikel 161, tweede lid, en in artikel 175, tweede lid;<br>
+21° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie of van de andere staat in de Europese Economische Ruimte over de kennisgeving, vermeld in artikel 161, tweede lid, en in artikel 175, tweede lid;<br>
 22° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van een andere staat over de klachten of de opmerkingen, vermeld in artikel 176/8;<br>
 23° het informeren van de nationale regulerende instantie of het nationale regulerende orgaan van de andere lidstaat van de Europese Unie of van de andere staat in de Europese Economische Ruimte, vermeld in artikel 220/1;<br>
 24° het toezicht als bevoegde autoriteit, vermeld in artikel 176/10.<br>
 25° de opmaak van een jaarlijks overzicht van producenten waarin aangegeven wordt of deze producenten al dan niet onafhankelijk zijn op basis van artikel 2, 49°, a) en b); de publicatie van dit overzicht op de website van de Vlaamse Regulator voor de Media jaarlijks vóór 1 november; het doorvoeren van wijzigingen aan dit overzicht op voorwaarde dat producenten hierom vragen en stukken overmaken die zulke wijziging rechtvaardigen en die gevalideerd zijn door een bedrijfsrevisor. Dit overzicht bevat minimaal de producenten die de drie voorafgaande jaren productiesteun hebben aangevraagd bij het Vlaams Audiovisueel Fonds;<br>
+26° de opmaak van een jaarlijks overzicht van producenten waarin aangegeven wordt of deze producenten al dan niet voldoen aan de voorwaarden die met toepassing van artikel 188/2, §2, 4°, door de Vlaamse Regering aan producenten worden opgelegd in het kader van de ontvankelijkheid van de Vlaamse productieprojecten; de publicatie van dit overzicht op de website van de Vlaamse Regulator voor de Media jaarlijks vóór 1 november; het doorvoeren van wijzigingen aan dit overzicht op voorwaarde dat producenten hierom vragen en stukken overmaken die zulke wijziging rechtvaardigen en die gevalideerd zijn door een bedrijfsrevisor. Dit overzicht bevat minimaal de producenten die de drie voorafgaande jaren betrokken waren bij een Vlaams productieproject dat werd ingediend in het kader van een rechtstreekse financiële bijdrage aan de productie van audiovisuele werken met toepassing van artikel 188/2, §1, eerste lid;<br>
+27° de opmaak van een jaarlijks verslag met de geaggregeerde cijfers betreffende de investeringen die werden gedaan krachtens artikel 188/2, §1, eerste lid, en de investeringen die werden gedaan krachtens artikel 188/2, §1, tweede lid, mits er uit deze verslagen op geen enkele manier bedrijfsgevoelige informatie kan afgeleid worden. De Vlaamse Regering bepaalt de nadere regels van dit rapport. De Vlaamse Regulator voor de Media publiceert dit verslag op zijn website.<br>
 <br>
 De algemene kamer handelt volledig autonoom bij de uitoefening van haar bevoegdheden, vermeld in paragraaf 2. Bij de uitoefening van de taken, vermeld in het eerste lid, 1° tot en met 7° en 11°, houdt de algemene kamer evenwel zeer zorgvuldig rekening met door Berec aangenomen richtsnoeren, adviezen, aanbevelingen, gemeenschappelijke standpunten, beste praktijken en methodologieën; en voor de taken, vermeld in het eerste lid, 1° tot en met 7°, ook met de aanbevelingen en besluiten van de Europese Commissie die zijn aangenomen om de geharmoniseerde toepassing van richtlijn 2018/1972 te garanderen. In geval van betwistingen wordt de algemene kamer in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
 §3. De kamer voor onpartijdigheid en bescherming van minderjarigen heeft de volgende taken:<br>
 1° uitspraak doen over geschillen die gerezen zijn naar aanleiding van de toepassing van artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, 176/4, §1, 2°, en artikel 180, §6;<br>
 2° niet-bindende interpretatieve richtsnoeren opstellen over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, 176/4, §1, 2°, en artikel 180, §6;<br>
-3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°, 176/4, §1, 2°, en artikel 180, §6.<br>
+3° adviezen formuleren als dit decreet en de uitvoeringsbesluiten ervan erin voorzien, of op verzoek van de Vlaamse Regering over artikel 38, 39, 40/1, 42, 72, 5°, 176/4, § 1, 1°,&nbsp; 176/4, §1, 2°, en artikel 180, §6.<br>
 <br>
 De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij volledig autonoom uitspraak. In geval van betwistingen wordt de kamer voor onpartijdigheid en bescherming van minderjarigen in rechte vertegenwoordigd door haar voorzitter.<br>
 <br>
@@ -3011,6 +3142,7 @@ Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artik
 5° de schorsing of opheffing van de zendvergunning;<br>
 6° de schorsing of opheffing van de erkenning van de omroeporganisatie;<br>
 7° de doorgifteschorsing, vermeld in artikel 40/1.<br>
+7°/1 het bevel de activiteiten als aanbieder van videoplatformdiensten te schorsen of stop te zetten als de aanbieder van een videoplatformdienst de verplichtingen, vermeld in deel IV/1, niet naleeft.<br>
 <br>
 In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of opheffen.
 
@@ -3361,43 +3493,38 @@ De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Me
 ### ART 237/11.
 
 §1. De Vlaamse Regulator voor de Media treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de volgende verwerkingsdoeleinden:<br>
-1° het registreren van de vorm van deelname met betrekking tot stimulering van de audiovisuele sector, vermeld in artikel 157, §2, en 184/1, §1;<br>
-2° het beoordelen van de ontvankelijkheid van coproductieprojecten en de erkenning ervan, vermeld in artikel 157, §2, en 184/1, §2;<br>
-3° het ontvangen van de omzet van aanbieders van videoplatformdiensten, vermeld in artikel 26 van het decreet van 1 maart 2024 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft het stimuleren van de audiovisuele sector door financiële bijdragen aan de productie van audiovisuele werken.<br>
+1° het registreren van de vorm van deelname, de indiening, de beoordeling van de ontvankelijkheid, de erkenning en de opvolging met betrekking tot de stimulering van de audiovisuele sector, vermeld in artikel 188/2, §2, 2° en 4°;<br>
+2° de bekendmaking van de deelname aan de productie van Vlaamse productieprojecten, vermeld in artikel 188/3, laatste lid.<br>
 <br>
-§2. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op contactpersonen van particuliere niet-lineaire televisieomroeporganisaties en dienstenverdelers.<br>
-<br>
-De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van betrokkenen:<br>
-1°&nbsp;&nbsp; &nbsp;contactpersonen van particuliere niet-lineaire televisieomroeporganisaties en dienstenverdelers;<br>
-2°&nbsp;&nbsp; &nbsp;producenten;<br>
-3°&nbsp;&nbsp; &nbsp;coproducenten;<br>
-4°&nbsp;&nbsp; &nbsp;auteurs;<br>
-5°&nbsp;&nbsp; &nbsp;regisseurs;<br>
-6°&nbsp;&nbsp; &nbsp;scenaristen;<br>
-7°&nbsp;&nbsp; &nbsp;acteurs;<br>
-8°&nbsp;&nbsp; &nbsp;overige medewerkers van coproductieprojecten.<br>
+§2. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, heeft betrekking op de volgende categorieën betrokkenen:<br>
+1°&nbsp;&nbsp; &nbsp;de scenarist, de regisseur en de producenten;<br>
+2°&nbsp;&nbsp; &nbsp;leden van de beoordelingscommissie;<br>
+3°&nbsp;&nbsp; &nbsp;alle personen die aan een Vlaams productieproject meewerken;<br>
+4°&nbsp;&nbsp; &nbsp;vertegenwoordigers en contactpersonen bij de investeerders;<br>
+5°&nbsp;&nbsp; &nbsp;personen die vermeld worden in de aanvragen en de bijlagen ervan.<br>
 &nbsp;<br>
-De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de contactpersonen van aanbieders van videoplatformdiensten.<br>
+§3. De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1°&nbsp;&nbsp; &nbsp;identificatiegegevens, waaronder rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;geslacht;<br>
+3°&nbsp;&nbsp; &nbsp;leeftijd;<br>
+4°&nbsp;&nbsp; &nbsp;financiële gegevens;<br>
+5°&nbsp;&nbsp; &nbsp;opleidingsgegevens;<br>
+6°&nbsp;&nbsp; &nbsp;loon- en tewerkstellingsgegevens;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over expertise.<br>
 <br>
-§3. De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 1°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
-1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
-2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
-3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+§4. De Vlaamse Regulator voor de Media kan persoonsgegevens die verwerkt zijn in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° en 2°, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
 <br>
-De verwerking van persoonsgegevens in het kader van het verwerkingsdoel- einde, vermeld in paragraaf 1, 2°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
-1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
-2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
-3°&nbsp;&nbsp; &nbsp;mandaatgegevens;<br>
-4°&nbsp;&nbsp; &nbsp;gegevens die opgenomen zijn in het curriculum vitae.<br>
+§5. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.<br>
 <br>
-De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in paragraaf 1, 3°, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
-1° identificatiegegevens;<br>
-2° contactgegevens;<br>
-3° mandaatgegevens.<br>
+§6. De Vlaamse Regulator voor de Media kan de gegevens van investeerders wiens Vlaamse productieprojecten werden erkend, bekendmaken. De bedoelde bekendmaking omvat de volgende informatie:<br>
+a)&nbsp;&nbsp; &nbsp;de volledige officiële naam zoals die is ingeschreven in de Kruispuntbank van Ondernemingen, voor de investeerders die een rechtspersoon zijn;<br>
+b)&nbsp;&nbsp; &nbsp;de volledige naam van de ondernemer zoals die is ingeschreven of anderszins officieel is erkend, voor de investeerders die een vereniging van natuurlijke of rechtspersonen zonder eigen rechtspersoonlijkheid zijn;<br>
+c)&nbsp;&nbsp; &nbsp;de gemeente waar de investeerder woont of is ingeschreven, en, indien voorhanden, de postcode of het deel daarvan dat de gemeente identificeert;<br>
+d)&nbsp;&nbsp; &nbsp;het productieproject.<br>
 <br>
-§4. De Vlaamse Regulator voor de Media kan persoonsgegevens die verwerkt zijn in het kader van de verwerkingsdoeleinden, vermeld in paragraaf 1, 1° tot en met 3°, uitwisselen met regulerende instanties of regulerende organen van andere lidstaten van de Europese Unie.<br>
-<br>
-§5. De persoonsgegevens die conform dit artikel door de Vlaamse Regulator voor de Media worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in paragraaf 1. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 aan die persoonsgegevens een definitieve bestemming toegewezen.
+De Vlaamse Regulator voor de Media kan de gegevens van leden van de beoordelingscommissie bekendmaken. De bedoelde bekendmaking omvat de volgende informatie:<br>
+a)&nbsp;&nbsp; &nbsp;de voornaam en de familienaam;<br>
+b)&nbsp;&nbsp; &nbsp;de postcode van de hoofdverblijfplaats.
 
 ### ART 237/12.
 
@@ -3851,16 +3978,21 @@ De persoonsgegevens die conform dit artikel door de sectorraad Media van de Raad
 
 ### ART 237/27.
 
-Het Vlaams Audiovisueel Fonds treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van het registreren van de vorm van deelname met betrekking tot de stimulering van de audiovisuele sector, vermeld in artikel 157 en 184/1.<br>
+Het Vlaams Audiovisueel Fonds treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de uitvoering van de taken, vermeld in artikel 188/2, §2, 5°, en 188/3, laatste lid.<br>
 <br>
-De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de contactpersonen van dienstenverdelers.<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, heeft betrekking op de vertegenwoordigers en contactpersonen bij de investeerders, vermeld in artikel 188/1, §1.<br>
 <br>
-De verwerking van persoonsgegevens in het kader van het verwerkingsdoeleinde, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
-1°&nbsp;&nbsp; &nbsp;identificatiegegevens;<br>
-2°&nbsp;&nbsp; &nbsp;contactgegevens;<br>
-3°&nbsp;&nbsp; &nbsp;mandaatgegevens.<br>
+De verwerking van persoonsgegevens in het kader van de verwerkingsdoeleinden, vermeld in het eerste lid, heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
+1° identificatiegegevens, waaronder het rijksregisternummer;<br>
+2° contactgegevens;<br>
+3° &nbsp; mandaatgegevens.<br>
+&nbsp;<br>
+De persoonsgegevens die conform dit artikel door het Vlaams Audiovisueel Fonds worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid. Na afloop van die tien jaar wordt conform artikel III.87, §1, 3°, van het Bestuursdecreet van 7 december 2018 een definitieve bestemming toegewezen aan de bestuursdocumenten waarin die persoonsgegevens vervat zitten.<br>
 <br>
-De persoonsgegevens die conform dit artikel door het Vlaams Audiovisueel Fonds worden verwerkt, kunnen op basis van dit artikel uiterlijk bewaard worden tot tien jaar na afloop van de verwerking, vermeld in het eerste lid.
+Het Vlaams Audiovisueel Fonds kan de gegevens van investeerders die een gelijkwaardige financiële bijdrage aan het VAF storten als vermeld in artikel 188/1,&nbsp;§1, bekendmaken. De bedoelde bekendmaking omvat de volgende informatie:<br>
+a)&nbsp;&nbsp; &nbsp;de volledige officiële naam zoals die is ingeschreven in de Kruispuntbank van Ondernemingen, voor de investeerders die een rechtspersoon zijn;<br>
+b)&nbsp;&nbsp; &nbsp;de volledige naam van de ondernemer zoals die is ingeschreven of anderszins officieel is erkend, voor de investeerders die een vereniging van natuurlijke of rechtspersonen zonder eigen rechtspersoonlijkheid zijn;<br>
+c)&nbsp;&nbsp; &nbsp;de gemeente waar de investeerder woont of is ingeschreven, en, indien voorhanden, de postcode of het deel daarvan dat de gemeente identificeert.
 
 ## TITEL V. VRT
 
