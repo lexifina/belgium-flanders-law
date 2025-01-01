@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041510,
+  "title": "Samenwerkingsakkoord van 2025-10-03 tot wijziging van het samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Franse Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de financiering van zorg bij gebruik van zorgvoorzieningen over de grenzen van de deelstaat",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041510/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "e98f5e080196eba5c3157187420f88ecdc0fc34b11c048e5f0992b7ef521e157",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041510&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-10-03",
+  "gazette": "2025-11-21",
+  "numac": 0,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
