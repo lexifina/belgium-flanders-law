@@ -35,16 +35,14 @@ Voor de woonmaatschappij die erkend is voor het werkingsgebied Halle-Vilvoorde-M
 2°&nbsp;&nbsp; &nbsp;gemeente Asse: 18,04%;<br>
 3°&nbsp;&nbsp; &nbsp;gemeente Bever: 0,76%;<br>
 4°&nbsp;&nbsp; &nbsp;gemeente Dilbeek: 26,09%;<br>
-5°&nbsp;&nbsp; &nbsp;gemeente Galmaarden: 3,60%;<br>
-6°&nbsp;&nbsp; &nbsp;gemeente Gooik: 3,81%;<br>
-7°&nbsp;&nbsp; &nbsp;gemeente Herne: 2,18%;<br>
-8°&nbsp;&nbsp; &nbsp;gemeente Lennik: 2,64%;<br>
-9°&nbsp;&nbsp; &nbsp;gemeente Liedekerke: 5,46%;<br>
-10°&nbsp;&nbsp; &nbsp;gemeente Merchtem: 6,76%;<br>
-11°&nbsp;&nbsp; &nbsp;gemeente Opwijk: 5,48%;<br>
-12°&nbsp;&nbsp; &nbsp;gemeente Roosdaal: 5,21%;<br>
-13°&nbsp;&nbsp; &nbsp;gemeente Ternat: 10,32%;<br>
-14°&nbsp;&nbsp; &nbsp;gemeente Wemmel: 5.06%.<br>
+5°&nbsp;&nbsp; &nbsp;gemeente Lennik: 2,64%;<br>
+6°&nbsp;&nbsp; &nbsp;gemeente Liedekerke: 5,46%;<br>
+7°&nbsp;&nbsp; &nbsp;gemeente Merchtem: 6,76%;<br>
+8°&nbsp;&nbsp; &nbsp;gemeente Opwijk: 5,48%;<br>
+9°&nbsp;&nbsp; &nbsp;gemeente Pajottegem: 9,59%;<br>
+10°&nbsp;&nbsp; &nbsp;gemeente Roosdaal: 5,21%;<br>
+11°&nbsp;&nbsp; &nbsp;gemeente Ternat: 10,32%;<br>
+12°&nbsp;&nbsp; &nbsp;gemeente Wemmel: 5,06%.<br>
 <br>
 Als een gemeente of een OCMW als vermeld in het eerste lid, geen aandeelhouder is van de woonmaatschappij, vermeld in het eerste lid, wordt het percentage dat aan die gemeente of OCMW is toegekend, proportioneel over de andere gemeenten en OCMW's verdeeld. De voormelde proportionele herverdeling gebeurt in verhouding tot de percentages, vermeld in het eerste lid.
 
