@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041124,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-18 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 7 februari 2025 over de verdeling van de middelen van het Vlaams Agentschap voor Personen met een Handicap voor niet rechtstreeks toegankelijke zorg en ondersteuning voor het jaar 2025",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041124/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "40585121805bd5ea2996495aba3a56feedca94accd58701aee0496b4229f8c1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041124&param=informatie",
+  "as_of": "2025-01-01",
+  "made": "2025-07-18",
+  "gazette": "2025-08-11",
+  "numac": 2025005956,
+  "document_start": "2025-01-01",
+  "document_end": null,
+  "in_force": "2025-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
