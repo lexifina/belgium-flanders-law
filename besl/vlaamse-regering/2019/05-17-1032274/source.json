@@ -2,16 +2,16 @@
   "codex_id": 1032274,
   "title": "Besluit van de Vlaamse Regering van 2019-05-17 tot erkenning en subsidiëring van de zorgraden en houdende inwerkingtreding van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032274/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "f23b775eb7875eb3abdeef612a7c561c365fa5ee516b8f4aa9dfd962858e650d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032274/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "34a12231dc0876fa689612c4caf22b9a99c49f3dda7bcc911d527c90710a05df",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032274&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2025-01-01",
   "made": "2019-05-17",
   "gazette": "2019-09-20",
   "numac": 2019014454,
   "document_start": "2019-10-01",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2025-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
