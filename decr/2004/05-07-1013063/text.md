@@ -213,12 +213,16 @@ h) andere instellingen of personen dan vermeld onder 2°, a) tot g), van dit lid
 
 ### ART. 7.
 
-§ 1. De VDAB wordt bestuurd door een raad van bestuur, die samengesteld is uit:<br>
-1° een voorzitter die niet behoort tot of verbonden is met de organisaties bedoeld in 2°;<br>
-2° een gelijk aantal leden die worden aangesteld op voordracht van respectievelijk de representatieve werkgevers- en werknemersorganisaties, die alleen stemgerechtigd zijn;<br>
-3° de gedelegeerd bestuurder van de VDAB bedoeld in artikel 14, eerste lid.<br>
+§1. VDAB wordt bestuurd door een raad van bestuur, die samengesteld is uit:<br>
+1° &nbsp;&nbsp; &nbsp;een voorzitter die door de Vlaamse Regering wordt benoemd uit de onafhankelijke leden, vermeld in punt 3°;<br>
+2° &nbsp;&nbsp; &nbsp;vier bestuurders die worden aangesteld op voordracht van de representatieve werkgeversorganisaties; vier bestuurders die worden aangesteld op voor-dracht van de representatieve werknemersorganisaties;<br>
+3° &nbsp;&nbsp; &nbsp;zeven onafhankelijke bestuurders die worden aangesteld op voordracht van de raad van bestuur;<br>
+4° &nbsp;&nbsp; &nbsp;de gedelegeerd bestuurder van VDAB, vermeld in artikel 14, eerste lid;<br>
+5° &nbsp;&nbsp; &nbsp;twee regeringscommissarissen worden aangesteld conform artikel III.13 van het Bestuursdecreet.<br>
 <br>
-§ 2. Het aantal leden van de raad van bestuur, bedoeld in § 1, 2°, wordt door de Vlaamse regering vastgesteld na advies van de representatieve werkgevers- en werknemersorganisaties.
+De leden van de raad van bestuur, vermeld in punt 1°, 2° en 3°, zijn stemge-rechtigd.<br>
+<br>
+§2. De bepalingen van artikel III.40 tot en met III.43 van het Bestuursdecreet zijn van toepassing op de onafhankelijke bestuurders van de raad van bestuur.
 
 ### ART. 8.
 
