@@ -27,6 +27,45 @@ DE VLAAMSE REGERING BESLUIT:
 
 In artikel 1, 5°, en artikel 41, §1, derde lid, van bijlage 10 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers wordt de zinsnede “titel VII van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode” vervangen door de zinsnede “boek 6 van de Vlaamse Codex Wonen van 2021”.
 
+### ART 2.
+
+In artikel 1.2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 9 februari 2024, wordt een punt 72°/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+“72°/1 kotlabel: een kotlabel als vermeld in artikel 3.59, §2, eerste lid, van de Vlaamse Codex Wonen van 2021;”.
+
+### ART 3.
+
+Aan boek 3 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 december 2023, wordt een deel 12, dat bestaat uit artikel 3.58 tot en met 3.60, toegevoegd, dat luidt als volgt:<br>
+<br>
+“Deel 12. Kotlabel&nbsp;<br>
+<br>
+Art. 3.58. De gemeente brengt het agentschap op de hoogte van een gemeentelijke verordening als vermeld in artikel 3.59, §1, eerste lid, van de Vlaamse Codex Wonen van 2021. De minister kan de wijze bepalen waarop de voormelde melding gebeurt.&nbsp;<br>
+<br>
+Art. 3.59. §1. De houder van het zakelijk recht of de onderverhuurder die een woning verhuurt of te huur of ter beschikking stelt, vraagt een kotlabel aan bij de burgemeester van de gemeente waarin de studentenhuisvesting ligt. De minister kan de aanvraagprocedure nader bepalen. &nbsp;<br>
+<br>
+De aanvraag van een kotlabel, vermeld in het eerste lid, bevat al de volgende gegevens:<br>
+1° de identificatiegegevens van de verhuurder;<br>
+2° de identificatiegegevens van de houder van het zakelijk recht;<br>
+3° de identificatiegegevens van de woning.<br>
+<br>
+De aanvraag van een kotlabel, vermeld in het eerste lid, bevat naast de gegevens, vermeld in het tweede lid, in voorkomend geval de volgende bijkomende gegevens:<br>
+1° de identificatiegegevens van het gebouw waarvan de woning deel uitmaakt;<br>
+2° de identificatiegegevens van de kamerwoning;<br>
+3° de identificatiegegevens van de kamer of kamers.<br>
+<br>
+De burgemeester bezorgt de aanvrager van een kotlabel een ontvangstbewijs van de aanvraag, vermeld in het eerste lid, met vermelding van de aanvraagdatum. Als de aanvraag, vermeld in het eerste lid, wordt ingediend via een beveiligd webformulier, kan een automatische ontvangstbevestiging worden afgeleverd.&nbsp;<br>
+<br>
+§2. De burgemeester beheert de aanvragen voor een kotlabel in VLOK.&nbsp;<br>
+<br>
+§3. Het agentschap kan de modellen voor het kotlabel vaststellen.&nbsp;<br>
+<br>
+Art. 3.60. De burgemeester levert een kotlabel af, als de volgende documenten, die bewijzen dat aan de voorwaarden, vermeld in artikel 3.59, §2, eerste lid, van de Vlaamse Codex Wonen van 2021, is voldaan, voorliggen:<br>
+1° een conformiteitsattest als vermeld in artikel 3.6 van de voormelde codex;<br>
+2° in voorkomend geval, een bewijs dat het lokaal bestuur aflevert, waaruit blijkt dat de kamer voldoet aan de strengere veiligheids- en kwaliteitsnormen die de gemeenteraad kan opleggen conform artikel 3.2, eerste lid, 2°, van de voormelde codex;<br>
+3° een positief brandweerattest of een positief rapport van een brandtoezichter;<br>
+4° een bewijs dat het aantal woongelegenheden vergund is of vergund wordt geacht conform de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+<br>
+Het kotlabel vervalt van rechtswege vanaf het ogenblik dat een van de documenten, vermeld in het eerste lid, vervalt.”.
+
 ### ART 4.
 
 Aan artikel 4.242 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:<br>

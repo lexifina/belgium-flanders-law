@@ -2,16 +2,16 @@
   "codex_id": 1039952,
   "title": "Besluit van de Vlaamse Regering van 2024-05-17 tot wijziging van bijlage 10 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers en het Besluit Vlaamse Codex Wonen van 2021, wat betreft het Vlaamse kotlabel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039952/VolledigDocument?datum=2024-08-08",
-  "source_sha256": "86b3bb602d20485db8e917bf146d364e783d5ec6020d8a3c3e7f560ec5f6ec95",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039952/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "9fd2a1c3ff8bced283c770c29e92fa97d4180325cfb6f526ac65655e25e619ca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039952&param=informatie",
-  "as_of": "2024-08-08",
+  "as_of": "2025-01-01",
   "made": "2024-05-17",
   "gazette": "2024-07-29",
   "numac": 2024006984,
   "document_start": "2024-08-08",
   "document_end": null,
-  "in_force": "2024-08-08",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
