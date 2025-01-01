@@ -2,16 +2,16 @@
   "codex_id": 1012025,
   "title": "Decreet van 2003-11-21 betreffende het preventieve gezondheidsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012025/VolledigDocument?datum=2024-06-17",
-  "source_sha256": "c24ee7ae66a70200b19c5613adab1eb40fd46026985555aa1c472b1d8aa24a13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012025/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "7e86fe8baf95dc1acbfb5448b6c864edb23b41468b4219e1a26def1c810862a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012025&param=informatie",
-  "as_of": "2024-06-17",
+  "as_of": "2025-01-01",
   "made": "2003-11-21",
   "gazette": "2004-02-03",
   "numac": 2004035090,
   "document_start": null,
   "document_end": null,
-  "in_force": "2024-06-17",
-  "article_versions": 95,
-  "record_form": "consolidated version as in force on 2024-06-17; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 96,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }
