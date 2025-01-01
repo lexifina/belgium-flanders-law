@@ -70,7 +70,7 @@ Dit besluit is van toepassing op :<br>
 22° de personeelsleden van het Eigen Vermogen Flanders Hydraulics, vermeld in artikel 5 van het decreet van 31 januari 2003 betreffende de oprichting van een Eigen Vermogen "Flanders Hydraulics";<br>
 23° de personeelsleden van het Eigen Vermogen Digitaal Vlaanderen, vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 24° de personeelsleden van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen, vermeld in de wet van 27 juni 1930 waarbij de rechtspersoonlijkheid wordt verleend aan de wetenschappelijke instellingen en kunstinrichtingen welke van het Ministerie van Kunsten en Wetenschappen afhangen of in het koninklijk besluit van 22 september 1931 betreffende het Koninklijk Museum voor Schone Kunsten te Antwerpen - Rechtspersoonlijkheid.<br>
-25° de personeelsleden van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG), vermeld in artikel 3.1.12/4, § 1 van het Energiedecreet van 8 mei 2009;<br>
+25° de personeelsleden van de Vlaamse Nutsregulator, vermeld in artikel 30 van het decreet van 19 april 2024 houdende de operationalisering van een Vlaamse Nutsregulator.<br>
 26° de personeelsleden van het Vlaams Mensenrechteninstituut, vermeld in artikel 3, 9°, van het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut.<br>
 <br>
 De personeelsleden, vermeld in het eerste lid, zijn statutair of contractueel tewerkgesteld.<br>
