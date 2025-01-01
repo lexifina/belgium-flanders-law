@@ -2,16 +2,16 @@
   "codex_id": 1039625,
   "title": "Decreet van 2024-03-29 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039625/VolledigDocument?datum=2024-08-26",
-  "source_sha256": "688283d6b8429fc9da97c3ad06c9e7685a841377000ad25cec989b0869ac65d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039625/VolledigDocument?datum=2025-01-01",
+  "source_sha256": "9a45a1da52f1f47d9e8564ce022dfb58fe56f6fee17c3c2a577e17092cfd72d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039625&param=informatie",
-  "as_of": "2024-08-26",
+  "as_of": "2025-01-01",
   "made": "2024-03-29",
   "gazette": "2024-04-25",
   "numac": 2024003725,
   "document_start": "2025-06-30",
   "document_end": null,
-  "in_force": "2024-08-26",
-  "article_versions": 71,
-  "record_form": "consolidated version as in force on 2024-08-26; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-01-01",
+  "article_versions": 77,
+  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -56,7 +56,7 @@ In dit decreet wordt verstaan onder:<br>
 29° vervoersonderneming voor koolstofdioxide: een natuurlijke persoon of rechtspersoon die een vervoersinstallatie voor koolstofdioxide uitbaat;<br>
 30° VEKA: het Vlaams Energie- en Klimaatagentschap, vermeld in titel II van het Energiebesluit van 19 november 2010;<br>
 31° verbruiker: de exploitant van een locatie voor verbruik;<br>
-32° VREG: de Vlaamse Regulator van de Elektriciteits- en Gasmarkt, vermeld in titel III, hoofdstuk I, van het decreet houdende algemene bepalingen betreffende het energiebeleid van 8 mei 2009.
+32° Vlaamse Nutsregulator: de autonome dienst met rechtspersoonlijkheid, vermeld in het decreet van 29 maart 2024 over de operationalisering van een Vlaamse Nutsregulator.
 
 ### ART 4.
 
@@ -66,27 +66,19 @@ Met uitzondering van artikel 83 is dit decreet niet van toepassing op terminals 
 <br>
 Met uitzondering van artikel 80 tot en met 83 is dit decreet niet van toepassing op pijpleidingen voor het vervoer van koolstofdioxide waarvoor de omgevingsvergunning werd verleend voor de datum van de bekendmaking van dit decreet.
 
-## Hoofdstuk 2. Regulator voor de markt voor het vervoer van koolstofdioxide via pijpleidingen
+## Hoofdstuk 2. ...
 
 ### ART 5.
 
-De VREG wordt aangewezen als regulator voor de markt voor het vervoer van koolstofdioxide via pijpleidingen.
+...
 
 ### ART 6.
 
-De VREG heeft, voor wat de toepassing van dit decreet en zijn uitvoeringsbesluiten betreft, als missie de bevordering van de transparantie en de efficiëntie van de markt voor het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.
+...
 
 ### ART 7.
 
-Om zijn missie waar te maken heeft de VREG de volgende taken:<br>
-1° gemotiveerde adviezen geven in de gevallen bepaald door dit decreet of de uitvoeringsbesluiten van dit decreet;<br>
-2° adviseren en rapporteren over de ontwikkeling van de markt voor het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest;<br>
-3° op eigen initiatief of op verzoek van de minister studies of onderzoeken uitvoeren in verband met de ontwikkeling van een transparante en efficiënte markt voor het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest;<br>
-4° toezicht houden op de naleving door een beheerder van een lokale cluster, het vervoersnetwerk, een terminal voor vloeibaarmaking, een gesloten industrieel net voor koolstofdioxide en een directe leiding, en door producenten en verbruikers van alle verplichtingen die hen krachtens dit decreet en zijn uitvoeringsbesluiten zijn opgelegd;<br>
-5° toezicht houden op de zekerheid en de betrouwbaarheid van de lokale clusters en het vervoersnetwerk;<br>
-6° alle opdrachten uitvoeren die eraan worden opgedragen door decreten, besluiten, reglementen en beslissingen van de Vlaamse Regering.<br>
-<br>
-De Vlaamse Regering kan de taken, vermeld in het eerste lid, nader omschrijven.
+...
 
 ## Afdeling 1. Aanwijzing van de beheerder van een lokale cluster en onafhankelijkheidsvoorwaarden
 
@@ -96,7 +88,7 @@ Het beheer van een lokale cluster wordt waargenomen door een beheerder aangeweze
 
 ### ART 9.
 
-De Vlaamse Regering wijst, na advies van de VREG, een beheerder van een lokale cluster aan.<br>
+De Vlaamse Regering wijst, na advies van de Vlaamse Nutsregulator, een beheerder van een lokale cluster aan.<br>
 <br>
 De Vlaamse Regering bepaalt het aaneensluitend geografisch afgebakend gebied waarvoor de beheerder van een lokale cluster wordt aangewezen.<br>
 <br>
@@ -114,7 +106,7 @@ Voor het verstrijken van zijn mandaat kan de beheerder van een lokale cluster om
 
 ### ART 11.
 
-De Vlaamse Regering bepaalt, na advies van de VREG, de volgende elementen:<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de volgende elementen:<br>
 1° de voorwaarden waaraan een kandidaat-beheerder van een lokale cluster moet voldoen om te kunnen worden aangewezen als beheerder van een lokale cluster en waaraan een beheerder van een lokale cluster moet blijven voldoen om aangewezen te blijven als beheerder van een lokale cluster;<br>
 2° de voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de beheerder van een lokale cluster;<br>
 3° de voorwaarden voor de wijziging van het aaneensluitend geografisch afgebakend gebied waarvoor de beheerder van een lokale cluster is aangewezen;<br>
@@ -163,7 +155,7 @@ Het beheer van een lokale cluster omvat de volgende taken:<br>
 12° de netgebruikers van de lokale cluster de informatie verstrekken die ze nodig hebben voor een efficiënte toegang tot de lokale cluster;<br>
 13° het voorzien van een afdoende monitoringssysteem om de conformiteit van de koolstofdioxidestromen met de technische eisen van de lokale cluster te vrijwaren.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de taken van de beheerder van een lokale cluster, vermeld in het eerste lid, nader omschrijven.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de taken van de beheerder van een lokale cluster, vermeld in het eerste lid, nader omschrijven.
 
 ## Afdeling 3. Ontvlechting, onafhankelijkheid, vertrouwelijkheid en non-discriminatie
 
@@ -195,14 +187,14 @@ De beheerder van een lokale cluster houdt in zijn interne boekhouding afzonderli
 
 ### ART 17.
 
-De Vlaamse Regering kan, na advies van de VREG, nadere regels bepalen voor:<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, nadere regels bepalen voor:<br>
 1° de vereisten voor de onafhankelijkheid van de beheerder van de lokale cluster, vermeld in artikel 13;<br>
 2° de voorzorgsmaatregelen die door de beheerder van de lokale cluster moeten worden genomen ter bescherming van de vertrouwelijkheid van de commerciële gegevens;<br>
 3° de maatregelen ter voorkoming van elke discriminatie tussen netgebruikers of categorieën van netgebruikers en, in het bijzonder, elke discriminatie ten gunste van met de beheerder van de lokale cluster verbonden netgebruikers.
 
 ### ART 18.
 
-De Vlaamse Regering kan, na advies van de VREG, de beheerder van een lokale cluster openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan producenten en verbruikers.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de beheerder van een lokale cluster openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan producenten en verbruikers.
 
 ### ART 19.
 
@@ -216,21 +208,27 @@ Het ontwikkelingsplan bevat ten minste de volgende elementen:<br>
 5° in voorkomend geval, de terminals voor vloeibaarmaking waarop de lokale cluster zal aansluiten;<br>
 6° in voorkomend geval, de voorziene alternatieve modi voor het vervoer van koolstofdioxide waarop de lokale cluster zal aansluiten.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, bijkomende elementen van het ontwikkelingsplan bepalen.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, bijkomende elementen van het ontwikkelingsplan bepalen.<br>
 <br>
 Het ontwikkelingsplan, vermeld in het eerste lid, wordt goedgekeurd door de Vlaamse Regering conform paragraaf 3.<br>
 <br>
 §2. De beheerder van de lokale cluster consulteert alle relevante marktpartijen binnen zijn geografische werkingsgebied in functie van de noden van de producenten en verbruikers en de relevante overheden over het ontwikkelingsplan, vermeld in paragraaf 1. De resultaten van de voormelde consultatie worden bij het ontwikkelingsplan gevoegd.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de nadere regels bepalen voor de vorm, de procedure en de inhoud van de consultatie, vermeld in het eerste lid.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de nadere regels bepalen voor de vorm, de procedure en de inhoud van de consultatie, vermeld in het eerste lid.<br>
 <br>
-§3. De Vlaamse Regering beslist, na advies van de VREG, binnen negentig dagen na de dag waarop ze het voormelde ontwikkelingsplan heeft ontvangen over de goedkeuring, vermeld in paragraaf 1. Als de minister aan de beheerder van de lokale cluster bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen, met negentig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Deze bijkomende inlichtingen worden meegedeeld aan de VREG.<br>
+§3. De Vlaamse Regering beslist, na advies van de Vlaamse Nutsregulator, binnen negentig dagen na de dag waarop ze het voormelde ontwikkelingsplan heeft ontvangen over de goedkeuring, vermeld in paragraaf 1. Als de minister aan de beheerder van de lokale cluster bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen, met negentig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Deze bijkomende inlichtingen worden meegedeeld aan de Vlaamse Nutsregulator.<br>
 <br>
 De Vlaamse Regering bepaalt de procedure voor het indienen van het ontwikkelingsplan.<br>
 <br>
 Weigert de Vlaamse Regering de goedkeuring van het ontwikkelingsplan, dan kan de minister, na overleg, de beheerder van de lokale cluster vragen het ontwikkelingsplan binnen een redelijke termijn aan te passen.<br>
 <br>
 Het goedgekeurde ontwikkelingsplan wordt op de website van de beheerder van de lokale cluster bekendgemaakt.
+
+### ART 20.
+
+Na een positieve kosten-batenanalyse door de Vlaamse Nutsregulator kan de Vlaamse Regering de beheerder van de lokale cluster bevelen de lokale cluster verder te ontwikkelen als de ontwikkeling van de lokale cluster van uitzonderlijk economisch belang is voor het Vlaamse Gewest.<br>
+&nbsp;<br>
+De Vlaamse Regering bepaalt de procedure voor de verplichte ontwikkeling. De Vlaamse Regering bepaalt de criteria waaraan de kosten-batenanalyse, vermeld in het eerste lid, moet voldoen.
 
 ## Afdeling 7. Maatregelen in geval van lekkages of significante onregelmatigheden
 
@@ -254,6 +252,16 @@ De Vlaamse Regering kan de procedure bij lekkages of significante onregelmatighe
 
 Het beheer van het vervoersnetwerk wordt waargenomen door de beheerder aangewezen conform artikel 29.
 
+### ART 29.
+
+De Vlaamse Regering wijst, na advies van de Vlaamse Nutsregulator, een beheerder van het vervoersnetwerk in het Vlaamse Gewest aan.<br>
+<br>
+De Vlaamse Regering kan voorwaarden opleggen bij de aanwijzing van de beheerder van het vervoersnetwerk. Deze voorwaarden hebben betrekking op:<br>
+1° de kwaliteitsnormen voor de koolstofdioxidestroom die wordt vervoerd door het vervoersnetwerk;<br>
+2° de interoperabiliteit van het vervoersnetwerk met de lokale clusters en terminals voor vloeibaarmaking.<br>
+<br>
+De kandidaat-beheerder van het vervoersnetwerk wordt met een beveiligde zending op de hoogte gebracht van de beslissing tot aanwijzing als beheerder van het vervoersnetwerk.
+
 ### ART 30.
 
 De aanwijzing, vermeld in artikel 29, is geldig voor een hernieuwbare termijn van twintig jaar.<br>
@@ -262,7 +270,7 @@ Voor het verstrijken van zijn mandaat kan de beheerder van het vervoersnetwerk o
 
 ### ART 31.
 
-De Vlaamse Regering bepaalt, na advies van de VREG, de volgende elementen:<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de volgende elementen:<br>
 1° de voorwaarden waaraan de kandidaat-beheerder van het vervoersnetwerk moet voldoen om te kunnen worden aangewezen als beheerder van het vervoersnetwerk en waaraan de beheerder van het vervoersnetwerk moet blijven voldoen om aangewezen te blijven als beheerder van het vervoersnetwerk;<br>
 2° de voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de beheerder van het vervoersnetwerk;<br>
 3° de procedure en de criteria voor de aanwijzing, de hernieuwing van de aanwijzing, de wijziging en de beëindiging van de aanwijzing van een beheerder van het vervoersnetwerk.<br>
@@ -309,7 +317,7 @@ Het beheer van het vervoersnetwerk omvat de volgende taken:<br>
 14° de netgebruikers van het vervoersnetwerk de informatie verstrekken die ze nodig hebben voor een efficiënte toegang tot het vervoersnetwerk;<br>
 15° het voorzien in een afdoende monitoringssysteem om de conformiteit van de koolstofdioxidestromen met de technische eisen van het vervoersnetwerk te vrijwaren.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de taken van de beheerder van het vervoersnetwerk, vermeld in het eerste lid, nader omschrijven.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de taken van de beheerder van het vervoersnetwerk, vermeld in het eerste lid, nader omschrijven.
 
 ## Afdeling 3. Ontvlechting, onafhankelijkheid, vertrouwelijkheid en non-discriminatie
 
@@ -339,14 +347,14 @@ De interne boekhouding van de beheerder van het vervoersnetwerk bevat een balans
 
 ### ART 37.
 
-De Vlaamse Regering kan, na advies van de VREG, nadere regels bepalen met betrekking tot:<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, nadere regels bepalen met betrekking tot:<br>
 1° de vereisten voor de onafhankelijkheid van de beheerder van het vervoersnetwerk, vermeld in artikel 33;<br>
 2° de voorzorgsmaatregelen die door de beheerder van het vervoersnetwerk moeten worden genomen ter bescherming van de vertrouwelijkheid van de commerciële gegevens;<br>
 3° de maatregelen ter voorkoming van elke discriminatie tussen netgebruikers of categorieën van netgebruikers en, in het bijzonder, elke discriminatie ten gunste van met de beheerder van het vervoersnetwerk verbonden ondernemingen.
 
 ### ART 38.
 
-De Vlaamse Regering kan, na advies van de VREG, de beheerder van het vervoersnetwerk openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de beheerder van het vervoersnetwerk openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening.
 
 ### ART 39.
 
@@ -364,21 +372,29 @@ Het ontwikkelingsplan bevat ten minste de volgende elementen:<br>
 9° in voorkomend geval, de terminals voor vloeibaarmaking waar het vervoersnetwerk op zal aansluiten;<br>
 10° in voorkomend geval, de voorziene alternatieve modi voor het vervoer van koolstofdioxide waarop het vervoersnetwerk zal aansluiten.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, bijkomende elementen van het ontwikkelingsplan bepalen.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, bijkomende elementen van het ontwikkelingsplan bepalen.<br>
 <br>
 Het ontwikkelingsplan, vermeld in het eerste lid, wordt goedgekeurd door de Vlaamse Regering conform paragraaf 3.<br>
 <br>
 §2. De beheerder van het vervoersnetwerk consulteert alle relevante nationale en internationale marktpartijen en de relevante overheden over het ontwikkelingsplan, vermeld in paragraaf 1. De resultaten van de voormelde consultatie worden bij het ontwikkelingsplan gevoegd.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de nadere regels bepalen voor de vorm, de procedure en de inhoud van de consultatie, vermeld in het eerste lid.<br>
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de nadere regels bepalen voor de vorm, de procedure en de inhoud van de consultatie, vermeld in het eerste lid.<br>
 <br>
-§3. De Vlaamse Regering beslist, na advies van de VREG, binnen negentig dagen na de dag waarop ze het voormelde ontwikkelingsplan heeft ontvangen over de goedkeuring, vermeld in paragraaf 1. Als de minister aan de beheerder van het vervoersnetwerk bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen, met negentig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Deze bijkomende inlichtingen worden meegedeeld aan de VREG.<br>
+§3. De Vlaamse Regering beslist, na advies van de Vlaamse Nutsregulator, binnen negentig dagen na de dag waarop ze het voormelde ontwikkelingsplan heeft ontvangen over de goedkeuring, vermeld in paragraaf 1. Als de minister aan de beheerder van het vervoersnetwerk bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen, met negentig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Deze bijkomende inlichtingen worden meegedeeld aan de Vlaamse Nutsregulator.<br>
 <br>
 De Vlaamse Regering bepaalt de procedure voor het indienen van het ontwikkelingsplan.<br>
 <br>
 Weigert de Vlaamse Regering de goedkeuring van het ontwikkelingsplan, dan vraagt de minister, na overleg, de beheerder van het vervoersnetwerk het ontwikkelingsplan binnen een redelijke termijn aan te passen.<br>
 <br>
 Het goedgekeurde ontwikkelingsplan wordt op de website van de beheerder van het vervoersnetwerk bekendgemaakt.
+
+### ART 40.
+
+De Vlaamse Regering kan de beheerder van het vervoersnetwerk bevelen het vervoersnetwerk verder te ontwikkelen. Na een positieve kosten-batenanalyse door de Vlaamse Nutsregulator kan de verplichte ontwikkeling alleen worden bevolen in volgende gevallen:<br>
+1° de ontwikkeling van het vervoersnetwerk is van uitzonderlijk economisch belang voor het Vlaamse Gewest;<br>
+2° de ontwikkeling van het vervoersnetwerk is van uitzonderlijk belang voor de interconnectie van het Vlaamse Gewest met een pijpleiding of een netwerk van pijpleidingen die zich niet op het grondgebied van het Vlaamse Gewest bevinden.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de verplichte ontwikkeling. De Vlaamse Regering bepaalt de criteria waaraan de kosten-batenanalyse, vermeld in het eerste lid, moet voldoen.
 
 ## Afdeling 7. Maatregelen in geval van lekkages of significante onregelmatigheden
 
@@ -412,7 +428,7 @@ Het beheer van een terminal voor vloeibaarmaking omvat de volgende taken:<br>
 7° potentiële netgebruikers toegang geven tot de terminal voor vloeibaarmaking onder de voorwaarden, vermeld in artikel 64;<br>
 8° de netgebruikers van een terminal voor vloeibaarmaking de informatie verstrekken die ze nodig hebben voor een efficiënte toegang tot de terminal voor vloeibaarmaking.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, de taken van de beheerder van een terminal voor vloeibaarmaking, vermeld in het eerste lid, nader omschrijven.
+De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de taken van de beheerder van een terminal voor vloeibaarmaking, vermeld in het eerste lid, nader omschrijven.
 
 ## Afdeling 2. Ontvlechting, onafhankelijkheid, vertrouwelijkheid en non-discriminatie
 
@@ -436,7 +452,7 @@ De informatie die noodzakelijk is voor een goede marktwerking wordt openbaar gem
 
 ### ART 52.
 
-De Vlaamse Regering bepaalt, na advies van de VREG:<br>
+De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator:<br>
 1° de vereisten voor de onafhankelijkheid van de beheerder van een terminal voor vloeibaarmaking, vermeld in artikel 49;<br>
 2° de voorzorgsmaatregelen die door de beheerder van een terminal voor vloeibaarmaking moeten worden genomen ter bescherming van de vertrouwelijkheid van de commerciële gegevens;<br>
 3° de maatregelen ter voorkoming van elke discriminatie tussen netgebruikers of categorieën van netgebruikers en, in het bijzonder, elke discriminatie ten gunste van met de beheerder van een terminal voor vloeibaarmaking verbonden ondernemingen.
@@ -457,13 +473,51 @@ Als de beheerder van een terminal voor vloeibaarmaking nalaat de nodige corriger
 <br>
 De Vlaamse Regering kan de procedure bij lekkages of significante onregelmatigheden als vermeld in het eerste lid nader bepalen.
 
+### ART 55.
+
+§1. De aanleg en het beheer van een gesloten industrieel net voor koolstofdioxide is alleen toegelaten nadat een voorafgaande toelating van de Vlaamse Nutsregulator is verkregen. De Vlaamse Nutsregulator wint het advies van de relevante beheerder van de lokale cluster en de beheerder van het vervoersnetwerk in. De adviestermijn voor de betrokken beheerder bedraagt vijftien dagen. De Vlaamse Nutsregulator beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Deze periode wordt met zestig dagen verlengd als de Vlaamse Nutsregulator aanvullende informatie vraagt.<br>
+<br>
+De Vlaamse Nutsregulator verleent de toelating slechts als het gesloten industrieel net voor koolstofdioxide voldoet aan al de volgende voorwaarden:<br>
+1° de aangesloten ondernemingen bepalen gezamenlijk de technische en commerciële voorwaarden voor het gebruik van het gesloten industrieel net voor koolstofdioxide;<br>
+2° het gesloten industrieel net voor koolstofdioxide wordt ofwel gezamenlijk beheerd door de aangesloten ondernemingen, ofwel wijzen de aangesloten ondernemingen gezamenlijk een beheerder aan;<br>
+3° de veiligheid van onder meer lokale clusters, het vervoersnetwerk of andere netten in hetzelfde geografisch gebied als waar het gesloten industrieel net voor koolstofdioxide gelegen is, komt niet in het gedrang.<br>
+<br>
+De Vlaamse Nutsregulator houdt bij het verlenen van de toelating, vermeld in het eerste lid, rekening met de efficiënte inzet van lokale clusters en het vervoersnetwerk, de impact op de ontwikkeling van de markt voor het vervoer van koolstofdioxide en de eventuele weigering van aansluiting op een lokale cluster of het vervoersnetwerk of een gebrek aan aanbod tot aansluiting of toegang op een lokale cluster of het vervoersnetwerk tegen redelijke economische of technische voorwaarden.<br>
+<br>
+Als de Vlaamse Nutsregulator oordeelt dat niet meer aan de voorwaarden, vermeld in het tweede lid, is voldaan, heft de Vlaamse Nutsregulator de toelating op. De Vlaamse Regering kan de nadere procedure na opheffing van de toelating bepalen. Deze procedure kan onder meer de nadere voorwaarden en modaliteiten bij overdracht van beheer of eigendom van het gesloten industrieel net voor koolstofdioxide omvatten.<br>
+<br>
+§2. Verleent de Vlaamse Nutsregulator de toelating, vermeld in paragraaf 1, eerste lid, dan legt hij de geografisch afgebakende industriële locatie vast in de toelatingsbeslissing. De geografisch afgebakende industriële locatie is niet groter dan wat strikt noodzakelijk is.<br>
+<br>
+§3. De Vlaamse Nutsregulator kan de nadere modaliteiten vastleggen voor de melding, de toekenning, de wijziging en de opheffing van de toelating, met behoud van de toepassing van wat bepaald is in paragraaf 1, eerste tot en met derde lid.
+
+### ART 56.
+
+Het beheer van een gesloten industrieel net voor koolstofdioxide omvat de volgende taken:<br>
+1° het beheer, het onderhoud en de ontwikkeling van het gesloten industrieel net voor koolstofdioxide, met daarbij het waarborgen van de veiligheid, de betrouwbaarheid en de efficiëntie en het in acht nemen van het milieu;<br>
+2° potentiële netgebruikers toegang geven tot het gesloten industrieel net voor koolstofdioxide onder de voorwaarden, vermeld in artikel 64;<br>
+3° de netgebruikers van het gesloten industrieel net voor koolstofdioxide de informatie verstrekken die ze nodig hebben voor een efficiënte toegang tot het gesloten industrieel net voor koolstofdioxide;<br>
+4° alle redelijke en beschikbare maatregelen nemen om emissies te voorkomen en te minimaliseren bij het beheer van het gesloten industrieel net voor koolstofdioxide;<br>
+5° het verstrekken van de nodige inlichtingen aan de beheerders van de lokale clusters of het vervoersnetwerk waarmee zijn gesloten industrieel net voor koolstofdioxide verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen netten te waarborgen;<br>
+6° het opstellen, het bewaren en ter beschikking houden van de plannen van zijn gesloten industrieel net voor koolstofdioxide voor de bevoegde regulator, de gebruikers van het gesloten industrieel net voor koolstofdioxide en de beheerder van de lokale cluster of het vervoersnetwerk waaraan zijn gesloten industrieel net voor koolstofdioxide is gekoppeld;<br>
+7° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn gesloten industrieel net voor koolstofdioxide en de bijbehorende installaties;<br>
+8° het verstrekken van de nodige meetgegevens en andere gegevens aan de producenten, de verbruikers, de beheerders van een lokale cluster, de beheerder van het vervoersnetwerk en de Vlaamse Nutsregulator;<br>
+9° het informeren van de Vlaamse Nutsregulator, binnen dertig dagen, over elke wijziging met betrekking tot het voldoen aan de criteria van artikel 55, §1, tweede lid.
+
+### ART 59.
+
+De aansluiting van een gesloten industrieel net voor koolstofdioxide op een terminal voor vloeibaarmaking gelegen buiten de geografisch afgebakende industriële locatie is alleen toegelaten nadat een voorafgaande toelating van de Vlaamse Nutsregulator is verkregen.<br>
+<br>
+De Vlaamse Regering stelt de nadere toepassingsregels, procedures en criteria vast voor de toelating, vermeld in het eerste lid. De voormelde criteria zijn objectief en niet-discriminatoir. De toelating, vermeld in het eerste lid, wordt afhankelijk gesteld van een weigering van toegang tot de lokale cluster of het vervoersnetwerk of van het ontbreken van een aanbod tot gebruik van de lokale cluster of het vervoersnetwerk onder redelijke economische en technische voorwaarden.<br>
+<br>
+De Vlaamse Nutsregulator beslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De Vlaamse Nutsregulator wint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de beheerder van de lokale cluster in wiens geografisch gebied het gesloten industrieel net voor koolstofdioxide gelegen is. Deze adviestermijn bedraagt vijftien dagen.
+
 ## Hoofdstuk 7. Toegang van derden
 
 ## Afdeling 1. Toegang van derden
 
 ### ART 62.
 
-§1. De VREG stelt, na voorafgaand stakeholdersoverleg, een ontwerp van technisch reglement op voor het beheer van een lokale cluster en het beheer van het vervoersnetwerk. Dat ontwerp van reglement wordt ter consultatie aan de marktpartijen voorgelegd.<br>
+§1. De Vlaamse Nutsregulator stelt, na voorafgaand stakeholdersoverleg, een ontwerp van technisch reglement op voor het beheer van een lokale cluster en het beheer van het vervoersnetwerk. Dat ontwerp van reglement wordt ter consultatie aan de marktpartijen voorgelegd.<br>
 <br>
 De Vlaamse Regering kan de minimale elementen bepalen die worden behandeld in het technisch reglement, vermeld in het eerste lid. Het technisch reglement houdt minstens rekening met de volgende elementen:<br>
 1° de voorwaarden hebben als doel het garanderen van een eerlijke en open toegang, met niet-discriminerende en transparante toegang op basis van goedgekeurde tarieven;<br>
@@ -472,7 +526,7 @@ De Vlaamse Regering kan de minimale elementen bepalen die worden behandeld in he
 4° de noodzaak om de behoeften van de beheerder van een lokale cluster of een vervoersnetwerk die naar behoren gemotiveerd en redelijk zijn, en de belangen van alle andere netgebruikers van een lokale cluster of een vervoersnetwerk of de relevante behandelingsfaciliteiten in acht te nemen;<br>
 5° het aandeel van de afvang en geologische opslag van koolstofdioxide in het geheel van de reductieverplichtingen voor koolstofdioxide voor het Vlaamse Gewest.<br>
 <br>
-§2. Het technisch reglement, vermeld in paragraaf 1, wordt goedgekeurd door de Vlaamse Regering. In voorkomend geval wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de VREG, die, rekening houdend met de opmerkingen van de Vlaamse Regering, de gevraagde aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+§2. Het technisch reglement, vermeld in paragraaf 1, wordt goedgekeurd door de Vlaamse Regering. In voorkomend geval wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de Vlaamse Nutsregulator, die, rekening houdend met de opmerkingen van de Vlaamse Regering, de gevraagde aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
 &nbsp;<br>
 De Vlaamse Regering bepaalt de procedure voor de goedkeuring, vermeld in het eerste lid.<br>
 <br>
@@ -504,17 +558,17 @@ Een beheerder van een gesloten industrieel net voor koolstofdioxide of een behee
 
 ### ART 65.
 
-§1. Voor de toegang tot een lokale cluster gelden tarieven die goedgekeurd zijn door de VREG.<br>
+§1. Voor de toegang tot een lokale cluster gelden tarieven die goedgekeurd zijn door de Vlaamse Nutsregulator.<br>
 <br>
-§2. De beheerder van een lokale cluster legt een tariefvoorstel voor aan de VREG. Dit tariefvoorstel houdt rekening met de volgende principes:<br>
+§2. De beheerder van een lokale cluster legt een tariefvoorstel voor aan de Vlaamse Nutsregulator. Dit tariefvoorstel houdt rekening met de volgende principes:<br>
 1° de tarieven zijn objectief en niet-discriminerend, gebaseerd op de werkelijke kosten en een redelijke winstmarge;<br>
 2° de tarieven zijn transparant voor de netgebruiker;<br>
 3° de tarieven strekken ertoe een juist evenwicht te bieden tussen de kwaliteit van de gepresteerde diensten en de prijzen die door de aangesloten ondernemingen worden gedragen;<br>
 4° de gehanteerde afschrijvingstermijnen weerspiegelen de verwachte economische levensduur van de pijpleidingen.<br>
 <br>
-§3. De VREG gaat, binnen een termijn van negentig dagen, na of het tariefvoorstel in overeenstemming is met de principes, vermeld in paragraaf 2. Is het tariefvoorstel in overeenstemming met de principes dan keurt de VREG het tariefvoorstel goed.<br>
+§3. De Vlaamse Nutsregulator gaat, binnen een termijn van negentig dagen, na of het tariefvoorstel in overeenstemming is met de principes, vermeld in paragraaf 2. Is het tariefvoorstel in overeenstemming met de principes dan keurt de Vlaamse Nutsregulator het tariefvoorstel goed.<br>
 <br>
-Is het tariefvoorstel niet in overeenstemming met de principes, vermeld in paragraaf 2, dan verzoekt de VREG de beheerder in kwestie een nieuw tariefvoorstel voor te leggen.<br>
+Is het tariefvoorstel niet in overeenstemming met de principes, vermeld in paragraaf 2, dan verzoekt de Vlaamse Nutsregulator de beheerder in kwestie een nieuw tariefvoorstel voor te leggen.<br>
 <br>
 §4. De beheerder van een lokale cluster publiceert de tarieven, goedgekeurd conform paragraaf 3, op een website die voor het publiek toegankelijk is.<br>
 <br>
@@ -522,9 +576,9 @@ Is het tariefvoorstel niet in overeenstemming met de principes, vermeld in parag
 
 ### ART 66.
 
-§1. Voor de toegang tot het vervoersnetwerk gelden tarieven die goedgekeurd zijn door de VREG.<br>
+§1. Voor de toegang tot het vervoersnetwerk gelden tarieven die goedgekeurd zijn door de Vlaamse Nutsregulator.<br>
 <br>
-§2. De beheerder van het vervoersnetwerk legt een tariefvoorstel voor aan de VREG. De beheerder van het vervoersnetwerk consulteert, bij de opmaak van het tariefvoorstel, de relevante beheerders van pijpleidingen of netwerken van pijpleidingen in het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest.<br>
+§2. De beheerder van het vervoersnetwerk legt een tariefvoorstel voor aan de Vlaamse Nutsregulator. De beheerder van het vervoersnetwerk consulteert, bij de opmaak van het tariefvoorstel, de relevante beheerders van pijpleidingen of netwerken van pijpleidingen in het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest.<br>
 <br>
 Dit tariefvoorstel houdt rekening met de volgende principes:<br>
 1° de tarieven zijn objectief en niet-discriminerend, gebaseerd op de werkelijke kosten en een redelijke winstmarge;<br>
@@ -532,11 +586,11 @@ Dit tariefvoorstel houdt rekening met de volgende principes:<br>
 3° de tarieven strekken ertoe een juist evenwicht te bieden tussen de kwaliteit van de gepresteerde diensten en de prijzen die door de aangesloten ondernemingen worden gedragen;<br>
 4° de gehanteerde afschrijvingstermijnen weerspiegelen de verwachte economische levensduur van de pijpleidingen.<br>
 <br>
-§3. De VREG gaat, binnen een termijn van negentig dagen, na of het tariefvoorstel in overeenstemming is met de principes, vermeld in paragraaf 2. Voorafgaand aan de goedkeuring treedt de VREG in overleg met de bevoegde autoriteiten van de relevante gewesten.<br>
+§3. De Vlaamse Nutsregulator gaat, binnen een termijn van negentig dagen, na of het tariefvoorstel in overeenstemming is met de principes, vermeld in paragraaf 2. Voorafgaand aan de goedkeuring treedt de Vlaamse Nutsregulator in overleg met de bevoegde autoriteiten van de relevante gewesten.<br>
 &nbsp;<br>
-Is het tariefvoorstel in overeenstemming met de principes, vermeld in paragraaf 2, dan keurt de VREG het tariefvoorstel goed.<br>
+Is het tariefvoorstel in overeenstemming met de principes, vermeld in paragraaf 2, dan keurt de Vlaamse Nutsregulator het tariefvoorstel goed.<br>
 <br>
-Is het tariefvoorstel niet in overeenstemming met de principes, vermeld in paragraaf 2, dan verzoekt de VREG de beheerder in kwestie een nieuw tariefvoorstel voor te leggen.<br>
+Is het tariefvoorstel niet in overeenstemming met de principes, vermeld in paragraaf 2, dan verzoekt de Vlaamse Nutsregulator de beheerder in kwestie een nieuw tariefvoorstel voor te leggen.<br>
 <br>
 §4. De beheerder van een lokale cluster of het vervoersnetwerk publiceert de tarieven, goedgekeurd conform paragraaf 3, op een website die voor het publiek toegankelijk is.<br>
 <br>
@@ -544,11 +598,11 @@ Is het tariefvoorstel niet in overeenstemming met de principes, vermeld in parag
 
 ### ART 67.
 
-Tegen de beslissingen die de VREG met toepassing van artikel 65 en 66 van dit decreet heeft genomen, kan door iedere persoon die een belang aantoont, beroep aangetekend worden voor het hof van beroep van Brussel, zetelend zoals in kort geding.<br>
+Tegen de beslissingen die de Vlaamse Nutsregulator met toepassing van artikel 65 en 66 van dit decreet heeft genomen, kan door iedere persoon die een belang aantoont, beroep aangetekend worden voor het hof van beroep van Brussel, zetelend zoals in kort geding.<br>
 <br>
 Het beroep wordt, op straffe van onontvankelijkheid, die ambtshalve wordt uitgesproken, ingesteld bij ondertekend verzoekschrift dat wordt neergelegd ter griffie van het hof van beroep binnen een termijn van dertig dagen vanaf de kennisgeving van de beslissing of, voor de belanghebbenden aan wie de beslissing niet ter kennis is gebracht, binnen een termijn van dertig dagen vanaf de publicatie van de beslissing, of, bij ontstentenis van publicatie, binnen een termijn van dertig dagen vanaf de kennisneming ervan. Het verzoekschrift wordt ter griffie neergelegd in zoveel exemplaren als er betrokken partijen zijn.<br>
 <br>
-Binnen drie werkdagen die volgen op de neerlegging van het verzoekschrift, wordt hiervan kennisgegeven via gerechtsbrief door de griffie van het hof van beroep aan alle partijen die door de verzoeker bij de zaak worden betrokken. De griffie van het hof van beroep vraagt de VREG het administratief dossier betreffende de aangevochten akte met het verzoekschrift bij de griffie neer te leggen. De neerlegging van het administratief dossier geschiedt ten laatste samen met de eerste conclusie van de VREG. Het administratief dossier kan door de partijen worden geraadpleegd bij de griffie van het hof van beroep vanaf de neerlegging ervan en tot de sluiting der debatten.<br>
+Binnen drie werkdagen die volgen op de neerlegging van het verzoekschrift, wordt hiervan kennisgegeven via gerechtsbrief door de griffie van het hof van beroep aan alle partijen die door de verzoeker bij de zaak worden betrokken. De griffie van het hof van beroep vraagt de Vlaamse Nutsregulator het administratief dossier betreffende de aangevochten akte met het verzoekschrift bij de griffie neer te leggen. De neerlegging van het administratief dossier geschiedt ten laatste samen met de eerste conclusie van de Vlaamse Nutsregulator. Het administratief dossier kan door de partijen worden geraadpleegd bij de griffie van het hof van beroep vanaf de neerlegging ervan en tot de sluiting der debatten.<br>
 <br>
 Het hof van beroep kan op verzoek van een partij of op eigen initiatief oordelen dat de rechtsgevolgen van de geheel of gedeeltelijk vernietigde beslissing geheel of gedeeltelijk in stand blijven of voorlopig in stand blijven voor een termijn die het bepaalt. Deze maatregel kan evenwel alleen worden bevolen om uitzonderlijke redenen die een aantasting van het legaliteitsbeginsel rechtvaardigen, bij een met bijzondere redenen omklede beslissing en na een tegensprekelijk debat. Deze beslissing moet ook rekening houden met de belangen van derden.
 
@@ -567,7 +621,7 @@ Een koolstofdioxidestroom kan incidentele aanverwante stoffen uit de bron of het
 
 §1. De beheerder van een lokale cluster stelt, rekening houdend met wat bepaald wordt in artikel 68, normen vast met betrekking tot de kwaliteit van de koolstofdioxidestroom na overleg met de netgebruikers en potentiële netgebruikers binnen het aansluitend geografisch afgebakend gebied waarvoor hij is aangewezen conform artikel 9. De beheerder van een lokale cluster houdt daarbij rekening met Europese normen en, indien voorhanden, de normen vastgelegd door de beheerder van het vervoersnetwerk.<br>
 <br>
-De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de VREG. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
+De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
 <br>
 §2. De beheerder van een lokale cluster houdt toezicht op de naleving van de normen, vermeld in paragraaf 1, eerste lid. De beheerder van de lokale cluster neemt alle nodige maatregelen om niet-naleving van de normen te voorkomen en te remediëren.<br>
 <br>
@@ -577,7 +631,7 @@ De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regerin
 
 §1. De beheerder van het vervoersnetwerk stelt, rekening houdend met wat bepaald wordt in artikel 68, normen vast met betrekking tot de kwaliteit van de koolstofdioxidestroom na overleg met de netgebruikers, de beheerders van de lokale clusters en beheerders van pijpleidingen of netwerk van pijpleidingen voor het vervoer van koolstofdioxide die niet in het Vlaamse Gewest liggen. De beheerder van het vervoersnetwerk houdt daarbij rekening met Europese normen.<br>
 <br>
-De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de VREG. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
+De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
 <br>
 §2. De beheerder van het vervoersnetwerk houdt toezicht op de naleving van de normen, vermeld in paragraaf 1, eerste lid. De beheerder van het vervoersnetwerk neemt alle nodige maatregelen om niet-naleving van de normen te voorkomen en te remediëren.
 
@@ -620,7 +674,7 @@ De beheerder van een lokale cluster, het vervoersnetwerk, een terminal voor vloe
 
 ## Hoofdstuk 10. Toezicht en sancties
 
-## Afdeling 1. Toezicht door de VREG
+## Afdeling 1. Toezicht door de Vlaamse Nutsregulator
 
 ### ART 75.
 
@@ -649,7 +703,7 @@ Als bij grensoverschrijdende geschillen de jurisdictie over de lokale cluster, d
 <br>
 §3. Tegen de beslissingen die de Vlaamse Nutsregulator met toepassing van het eerste lid heeft genomen, staat beroep open bij de bevoegde rechtbank, met toepassing van artikel 556 en volgende van het Gerechtelijk Wetboek.
 
-## Afdeling 3. Administratieve sancties opgelegd door de VREG
+## Afdeling 3. Administratieve sancties opgelegd door de Vlaamse Nutsregulator
 
 ### ART 77.
 
