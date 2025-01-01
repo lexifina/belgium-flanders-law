@@ -53,11 +53,9 @@ De extra punten, vermeld in het vierde en vijfde lid, kunnen niet gecombineerd w
 
 ### ART 3.
 
-Ter uitvoering van artikel 46, derde lid, 1°, van het besluit van 21 april 2023 wordt de subsidie alleen toegekend aan actieve landbouwers die:<br>
-1° op de uiterste wijzigingsdatum van de verzamelaanvraag beschikken over een actief rundveebeslag en minimaal tien subsidiabele zoogkoeien hebben in de loop van het jaar waarvoor ze de subsidie aanvragen;<br>
-2° in de verzamelaanvraag de plaatsen aanduiden waar de zoogkoeien waarvoor een subsidie wordt aangevraagd, worden aangehouden.<br>
-<br>
-Als runderen van verschillende landbouwers behoren tot een gemeenschappelijk rundveebeslag, wordt de subsidie alleen toegekend als voor elk rund van de landbouwers in Sanitel de relatie tussen het rund en de exploitatie is geregistreerd en als die relatie op permanente en correcte wijze wordt geactualiseerd.
+Ter uitvoering van artikel 46, derde lid, 1°, van het besluit van 21 april 2023 wordt de subsidie alleen toegekend aan actieve landbouwers die op de uiterste wijzigingsdatum van de verzamelaanvraag beschikken over een actief rundveebeslag en die minimaal tien subsidiabele zoogkoeien hebben in de loop van het jaar waarvoor ze de subsidie aanvragen.<br>
+&nbsp;<br>
+&nbsp;Als runderen van verschillende landbouwers behoren tot een gemeenschappelijk rundveebeslag, wordt de subsidie alleen toegekend als voor elk rund van de landbouwer in Sanitel de relatie tussen het rund en de exploitatie is geregistreerd en als die relatie op permanente en correcte wijze wordt geactualiseerd.
 
 ### ART 4.
 
@@ -67,11 +65,11 @@ Als runderen van verschillende landbouwers behoren tot een gemeenschappelijk run
 3° de zoogkoeien hebben in het jaar waarvoor de subsidie wordt aangevraagd bij de landbouwer minstens één kalf voortgebracht van het rastype vlees. Per zoogkoe wordt maar één kalving per jaar in aanmerking genomen, waarbij de kalving van een tweeling maar als één kalving wordt beschouwd. Als een zoogkoe in hetzelfde jaar twee keer kalft bij twee verschillende landbouwers, wordt alleen de eerste kalving in aanmerking genomen, op voorwaarde dat de zoogkoe aan alle voorwaarden, vermeld in 1°, 2°, 5° en 6°, voldoet. Als de zoogkoe niet aan alle voorwaarden, vermeld in 1°, 2°, 5° en 6°, voldoet, komt de landbouwer bij wie de tweede kalving heeft plaatsgevonden, niet in aanmerking voor de subsidie. De kalveren moeten correct en tijdig geïdentificeerd en in Sanitel geregistreerd zijn overeenkomstig de bepalingen van het koninklijk besluit van 20 mei 2022;<br>
 4° minstens 30% van de kalveren van het rastype vlees, vermeld in art. 4, §1, 3° en geboren tijdens het jaar waarvoor de subsidie wordt aangevraagd, heeft gedurende een periode van minimaal drie maanden deel uitgemaakt van een van de rundveebeslagen van de landbouwer;&nbsp;<br>
 5° de zoogkoeien hebben toegang tot de weide minstens gedurende de periode van 15 mei tot en met 15 september van het jaar waarvoor de subsidie wordt aangevraagd. De bevoegde entiteit kan beslissen dat deze voorwaarde niet van toepassing is onder meer op basis van de gezondheidstoestand of vruchtbaarheidscyclus van de dieren, of voor reforme dieren;<br>
-6° de zoogkoeien moeten aanwezig zijn op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer, vermeld in artikel 3, eerste lid, 2°.&nbsp;<br>
+6°&nbsp;de zoogkoeien moeten aanwezig zijn op een van de plaatsen die aangegeven zijn in de laatste verzamelaanvraag van de landbouwer, vermeld in artikel 7.<br>
 <br>
-§2. Als meer dan 10% van de zoogkoeien, vermeld in paragraaf 1, 1°, minder dan acht maanden vóór de kalving onafgebroken deel uitmaakt van een van de rundveebeslagen van de landbouwer, wordt het aantal subsidiabele zoogkoeien teruggebracht tot het aantal dat wel aan de voorwaarden, vermeld in §1, 1°, 2°, 3°, 5° en 6°, voldoet.<br>
+Voor de toepassing van het eerste lid, 1°, 3° en 4°, worden na een volledige bedrijfsovername die plaatsvindt voor de uiterste wijzigingsdatum van de verzamelaanvraag de zoogkoeien geacht onafgebroken deel te hebben uitgemaakt van het beslag van de overnemer voor het betrokken jaar.<br>
 <br>
-Als minder dan 30% van de kalveren van het rastype vlees, vermeld in paragraaf 1, 4°, meer dan drie maanden na de geboorte deel heeft uitgemaakt van een van de rundveebeslagen van de landbouwer, wordt het totale eenheidsbedrag proportioneel verminderd. De vermindering wordt toegepast op basis van de verhouding tussen het reële percentage en het minimum van 30%.<br>
+§2. ...<br>
 &nbsp;
 
 ### ART 5.
@@ -114,11 +112,13 @@ De bedragen die worden vastgesteld conform het tweede lid, worden afgerond tot o
 
 ### ART 6.
 
-Als een landbouwer een exploitatie inclusief rundveebeslag na de uiterste wijzigingsdatum van de verzamelaanvraag van het betrokken jaar overneemt, dan behoudt de overlater het recht op de subsidie als:<br>
+§1. Als een landbouwer een exploitatie inclusief rundveebeslag na de uiterste wijzigingsdatum van de verzamelaanvraag van het betrokken jaar overneemt, dan behoudt de overlater het recht op de subsidie als:<br>
 1° de overlater gedurende de rest van het jaar voldoet aan de instapvoorwaarden vermeld in artikel 45, lid 1, 1° en 2° van het besluit van 21 april 2023, en artikel 2 van dit besluit;<br>
 2° de overnemer gedurende de rest van het jaar voldoet aan de voorwaarden vermeld in artikel 3 en 4, §1 van dit besluit.<br>
 <br>
 Met behoud van de voorwaarden uit het eerste lid, blijft het recht op de subsidie alleen behouden voor de landbouwer die een subsidieaanvraag heeft ingediend conform artikel 7.<br>
+<br>
+§2. In geval van een volledige bedrijfsovername voor de uiterste wijzigingsdatum van de verzamelaanvraag leven de overnemer en de overlater, ieder voor de periode dat het beslag op zijn naam staat, de voorwaarden na vermeld in artikel 3 en artikel 4, §1, van dit besluit.<br>
 &nbsp;
 
 ### ART 7.
