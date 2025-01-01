@@ -60,9 +60,9 @@ De beslissing over de toekenning van de subsidies wordt genomen op basis van een
 
 ### ART 4.
 
-Opgroeien regie kent de jaarlijkse subsidie, vermeld in artikel 2, toe voor een projectperiode van drie jaar.<br>
+Opgroeien regie kent de jaarlijkse subsidie, vermeld in artikel 2, toe voor een projectperiode van&nbsp;drie en een half&nbsp;jaar.<br>
 <br>
-De projectperiode loopt van 1 januari 2022 tot en met 31 december 2024.
+De projectperiode loopt van 1 januari 2022 tot en met 30 juni 2025.
 
 ## Hoofdstuk 3. Doelstelling en opdrachten
 
@@ -77,17 +77,18 @@ a) de dagindeling in een goede balans van inspanning en ontspanning voorziet en 
 b) de werking plaatsvindt in de fysieke nabijheid van elkaar;<br>
 3° dat kwaliteitsvol en toegankelijk is.<br>
 <br>
-Het realiseren van de doelstelling, vermeld in het eerste lid, houdt ook in dat er aandacht is voor continuïteit met thuis en de buurt, meer bepaald door:<br>
-1° het ontwikkelen van een gedeelde visie en praktijk met betrekking tot ouderparticipatie en ouderbeleid met aandacht voor samenwerking en communicatie met alle ouders over hun kinderen;<br>
-2° de verbinding met preventieve gezinsondersteuning, waaronder het Huis van het Kind, en met cultuur en vrije tijd, de lokale besturen en met de CLB's.<br>
+Het realiseren van de doelstelling, vermeld in het eerste lid, houdt ook in dat er aandacht is voor goed bestuur en continuïteit met thuis en de buurt door:<br>
+1°&nbsp;&nbsp; &nbsp;de ontwikkeling van een gedeelde visie en praktijk op beleidsvoerend vermogen, vermeld in artikel 13/0 van het Vergunningsbesluit van 22 november 2013 en artikel 5 van het besluit van de Vlaamse Regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang, en waarbij ouderparticipatie, doeltreffende communicatie, transparantie en samenwerking in functie van lokale beleidsdoelstellingen essentieel zijn;<br>
+2°&nbsp;&nbsp; &nbsp;de verbinding met preventieve gezinsondersteuning, waaronder het Huis van het Kind, met cultuur en vrije tijd, met de CLB’s en de centra voor inclusieve kinderopvang.<br>
 <br>
 Het realiseren van de doelstelling, vermeld in het eerste lid, doet geen afbreuk aan de vrije keuze voor kinderopvang of aan de vrije schoolkeuze van ouders en ook niet aan de bepalingen betreffende het opnamebeleid in het decreet van 20 april 2012 of aan het decreet van 25 november 2011 betreffende het inschrijvingsrecht.
 
 ### ART 6.
 
-Het vernieuwend project, vermeld in artikel 2, bestaat uit twee fases:<br>
-1° een eerste fase die loopt van 1 januari 2022 tot en met 31 augustus 2023;<br>
-2° een tweede fase die loopt van 1 september 2023 tot en met 31 december 2024.
+Het vernieuwend project, vermeld in artikel 2, bestaat uit de volgende fases:<br>
+1°&nbsp;&nbsp; &nbsp;een eerste fase, die loopt van 1 januari 2022 tot en met 31 augustus 2023;<br>
+2°&nbsp;&nbsp; &nbsp;een tweede fase, die loopt van 1 september 2023 tot en met 31 december 2024;<br>
+3°&nbsp;&nbsp; &nbsp;een derde fase, die loopt van 1 januari 2025 tot en met 30 juni 2025.
 
 ### ART 7.
 
@@ -117,7 +118,7 @@ De partner, vermeld in het eerste lid, die door het lokale samenwerkingsverband 
 <br>
 De partners die deel uitmaken van het lokale samenwerkingsverband, vermeld in het eerste lid, maken afspraken over de besteding van de subsidie, met respect voor de interne besluitvorming die geldt voor elke partner die deel uitmaakt van het lokale samenwerkingsverband, en zorgen ervoor dat ze het vertegenwoordigingsmandaat hebben.<br>
 <br>
-Zowel in de eerste als in de tweede fase, vermeld in artikel 6, eerste lid, zorgt het lokale samenwerkingsverband voor een protocol van akkoord van de lokale comités binnen onderwijs, vermeld in artikel 3, 35°, van het decreet basisonderwijs van 25 februari 1997.
+In elke fase, vermeld in artikel 6, zorgt het lokale samenwerkingsverband voor een protocol van akkoord van de lokale comités binnen onderwijs, vermeld in artikel 3, 35°, van het decreet basisonderwijs van 25 februari 1997.
 
 ### ART 10.
 
@@ -127,7 +128,8 @@ a) pedagogische en zorgcontinuïteit vanuit het perspectief en de noden van het 
 b) de verbinding en balans tussen zorg, leren, spelen en opvoeden, met aandacht voor het welbevinden en de betrokkenheid van elk kind;<br>
 c) kwaliteitsvolle interacties met en tussen kinderen met het oog op de ontwikkeling van een positief zelfbeeld en een brede ontwikkeling van motorische, cognitieve en psychosociale competenties van het kind. Daarbij gaat bijzondere aandacht naar de taalontwikkeling en het verwerven van de Nederlandse taal;<br>
 d) gelijke kansen voor alle kinderen. Het lokale samenwerkingsverband richt zich tot alle gezinnen met kinderen, kinderen en aanstaande ouders. Daarbij gaat bijzondere aandacht naar kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
-2° het vormen van een professionele leergemeenschap, waarbij wordt ingezet op professionele continuïteit. Dit betekent dat medewerkers, waaronder kinderbegeleiders en leerkrachten, leren van elkaar en een gezamenlijke visie en praktijk ontwikkelen met betrekking tot professionalisering.
+2° het vormen van een professionele leergemeenschap, waarbij wordt ingezet op professionele continuïteit. Dit betekent dat medewerkers, waaronder kinderbegeleiders en leerkrachten, leren van elkaar en een gezamenlijke visie en praktijk ontwikkelen met betrekking tot professionalisering.<br>
+3° het documenteren van de opdrachten, vermeld in punt 1° en 2°.
 
 ### ART 11.
 
@@ -142,7 +144,7 @@ Het lerend netwerk heeft volgende doelstellingen:<br>
 
 ### ART 12.
 
-Het lokale samenwerkingsverband maakt tussentijds en op het einde van de projectperiode, vermeld in artikel 4, een zelfevaluatie.<br>
+Het lokale samenwerkingsverband maakt tussentijds en op het einde van de tweede en de derde fase, vermeld in artikel 6, 2° en 3°, een zelfevaluatie.<br>
 <br>
 De zelfevaluatie heeft betrekking op de volgende aspecten:<br>
 1° de mate waarin de doelstelling, vermeld in artikel 5, de opdrachten, vermeld in artikel 10, en de beoogde resultaten, vermeld in het ondernemingsplan, worden gerealiseerd;<br>
@@ -253,7 +255,7 @@ Opgroeien regie betaalt de jaarlijkse subsidie, vermeld in artikel 2, uit op kwa
 <br>
 Voor het jaar waarin de subsidie wordt opgestart, wordt het voorschot uitbetaald na de beslissing tot toekenning van de subsidie.<br>
 <br>
-Na de verwerking van de rapportering, vermeld in artikel 26, wordt het saldo al dan niet volledig uitbetaald.<br>
+Na de verwerking van de rapportering, vermeld in artikel 25, wordt het saldo al dan niet volledig uitbetaald.<br>
 <br>
 De subsidie is uitgedrukt tegen 100% van de spilindex die van toepassing is op 1 januari 2021. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing gebeurt telkens vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
@@ -274,7 +276,7 @@ Opgroeien regie oefent toezicht uit op de naleving van de bepalingen van dit bes
 
 ### ART 25.
 
-Het samenwerkingsverband dat de subsidie, vermeld in artikel 2, ontvangt, kan op eenvoudig verzoek van Opgroeien regie jaarlijks rapporteren over de aanwending van de subsidie en de voortgang van het vernieuwend project.
+Het lokale samenwerkingsverband dat de subsidie, vermeld in artikel 2, ontvangt, rapporteert jaarlijks aan Opgroeien regie over de aanwending van de subsidie en de voortgang van het vernieuwend project.
 
 ### ART 26.
 
