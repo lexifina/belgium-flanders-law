@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040482,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-13 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft een aantal procedurele aspecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040482/VolledigDocument?datum=2025-01-03",
+  "source_sha256": "a51e417a95b79eeb76f496d8386b41a6ad2021ddeca1660a9f9dafb98a40cfd0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040482&param=informatie",
+  "as_of": "2025-01-03",
+  "made": "2024-12-13",
+  "gazette": "2024-12-24",
+  "numac": 2024011666,
+  "document_start": "2025-01-03",
+  "document_end": null,
+  "in_force": "2025-01-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
