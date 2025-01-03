@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040481,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-13 tot herverdeling vanuit een provisioneel krediet (SG0-1SKC2TG-PR) van de Vlaamse Gemeenschap voor het begrotingsjaar 2024",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040481/VolledigDocument?datum=2025-01-03",
+  "source_sha256": "0d556ebeb2534c23b8c75423ebf5256ae3cf64fc287304b9d3c305d6af9b261f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040481&param=informatie",
+  "as_of": "2025-01-03",
+  "made": "2024-12-13",
+  "gazette": "2024-12-24",
+  "numac": 2024011648,
+  "document_start": "2025-01-03",
+  "document_end": null,
+  "in_force": "2025-01-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
