@@ -53,7 +53,9 @@ b) in voorkomende geval: een verklaring dat de condensatieketel werd geïnstalle
 
 ### ART 5.
 
-Voor de werkzaamheden, vermeld in artikel 5.189, § 2, eerste lid, 3°, van het Besluit Vlaamse Codex Wonen van 2021, voegt de aanvrager bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van hetzelfde besluit, het bewijs dat is voldaan aan de ventilatievoorzieningen in woongebouwen, vermeld in bijlage IX van het Energiebesluit van 19 november 2010. Dit bewijs wordt geleverd door bij de aanvraag een attest van de aannemer te voegen of een factuur met vermelding van de plaatsing van een ventilatiesysteem of de plaatsing van aparte roosters of een ander bewijsmiddel waarmee wordt aangetoond dat voldaan is aan de ventilatievoorzieningen in woongebouwen.
+De aanvrager toont aan dat voldaan is aan één van de eisen vermeld in artikel 5.189, §2, tweede lid van het Besluit Vlaamse Codex Wonen, door bij de aanvraag , vermeld in artikel 5.190, §1, eerste lid, van hetzelfde besluit, één van de volgende bewijsstukken te voegen:<br>
+1° een attest van de aannemer of een factuur met vermelding van de plaatsing van een ventilatiesysteem of de plaatsing van aparte roosters waarmee wordt aangetoond dat voldaan is aan de luchttoevoereisen, vermeld in bijlage IX van het Energiebesluit van 19 november 2010, voor de woonkamers, slaapkamers, studeerkamers, speelkamers of analoge ruimten waarin het buitenschrijnwerk wordt geplaatst;<br>
+2° een energieprestatiecertificaat residentiële gebouwen, dat dateert vanaf 2 januari 2024 en van na de uitgevoerde werken, dat aantoont dat voldaan is aan de minimale ventilatievoorzieningen bepaald in deel IX.2 van bijlage 18/4 van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs.
 
 ### ART 6.
 
