@@ -426,7 +426,21 @@ In titel IV, hoofdstuk 7, afdeling 3, van de programmawet van 24 december 2002 (
 
 ## Afdeling 3. Stopzetting maatregel Derde Arbeidscircuit (DAC)
 
+### ART 58.
+
+De Vlaamse Regering wordt gemachtigd om een opheffings- en vergoedingsregeling uit te vaardigen ten behoeve van werknemers met een DAC-statuut.<br>
+<br>
+Onder DAC-statuut wordt de regeling verstaan die is vastgesteld bij koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector.
+
 ## Afdeling 4. Stopzetting van de maatregel gesubsidieerde contractuelen (gesco)
+
+### ART 59.
+
+In dit artikel wordt verstaan onder gescoregeling: de regeling die is vastgesteld bij:<br>
+1° het besluit van de Vlaamse regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
+2° het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen.<br>
+<br>
+De werkgever kan werknemers die zijn tewerkgesteld overeenkomstig de gescoregeling niet meer vervangen met ingang van 1 februari 2025.
 
 ## Afdeling 5. Hervorming Vlaams opleidingsverlof en verankering gemeenschap-pelijk initiatiefrecht
 
