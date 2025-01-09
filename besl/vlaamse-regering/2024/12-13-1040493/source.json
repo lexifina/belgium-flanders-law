@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040493,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-13 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 2 december 2022 tot vastlegging van de lijst van de bacheloropleidingen met een starttoets",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040493/VolledigDocument?datum=2025-01-09",
+  "source_sha256": "e8563aeff0c1be96ab95415ed7811a0df5e41e499de612204202d56e33cfd422",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040493&param=informatie",
+  "as_of": "2025-01-09",
+  "made": "2024-12-13",
+  "gazette": "2024-12-30",
+  "numac": 2024011759,
+  "document_start": "2025-01-09",
+  "document_end": null,
+  "in_force": "2025-01-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-01-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
