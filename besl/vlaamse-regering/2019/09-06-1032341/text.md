@@ -61,7 +61,7 @@ In dit besluit wordt verstaan onder:<br>
 6° exploitant van een BKG-installatie: de houder(s) van de omgevingsvergunning(en) van een BKG-installatie;<br>
 7° exploitant van een nieuwkomer: de houder(s) van de omgevingsvergunning(en) van een nieuwkomer;<br>
 8° gedelegeerde verordening (EU) 2019/331: de gedelegeerde verordening (EU) 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10 bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
-9° minister: de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid;<br>
+9° minister: de Vlaamse minister, bevoegd voor het klimaat;<br>
 10° nieuwkomer:<br>
 a) tijdens de toewijzingsperiode 2021-2025: een BKG-installatie waaraan voor het eerst een omgevingsvergunning is verleend voor de exploitatie van de ingedeelde inrichting of activiteit die betrekking heeft op de broeikasgasemissies van de BKG-installatie in de periode die begint op 1 juli 2019 en afloopt op 30 juni 2024;<br>
 b) tijdens de toewijzingsperiode 2026-2030: een BKG-installatie waaraan voor het eerst een omgevingsvergunning is verleend voor de exploitatie van de ingedeelde inrichting of activiteit die betrekking heeft op de broeikasgasemissies van de BKG-installatie in de periode die begint op 1 juli 2024 en afloopt op 30 juni 2029;<br>
