@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040466,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-06 waarbij de overstroming die zich voordeed van 2 januari tot en met 5 januari 2024 als een ramp wordt erkend en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040466/VolledigDocument?datum=2025-01-18",
+  "source_sha256": "5f9c41c8253d7bf69fe4dd3321c282f778f45aadf2340f7a8560b54616afffea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040466&param=informatie",
+  "as_of": "2025-01-18",
+  "made": "2024-12-06",
+  "gazette": "2025-01-08",
+  "numac": 2024011428,
+  "document_start": "2025-01-18",
+  "document_end": null,
+  "in_force": "2025-01-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
