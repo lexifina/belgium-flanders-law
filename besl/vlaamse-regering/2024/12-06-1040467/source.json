@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040467,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-06 waarbij de hevige regenval die zich voordeed op 17 mei en 18 mei 2024 als een ramp wordt beschouwd en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040467/VolledigDocument?datum=2025-01-18",
+  "source_sha256": "7cb5025165b6476aa1f0e7516022197b5977ef5afa8bc59a0442e412ad2a7966",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040467&param=informatie",
+  "as_of": "2025-01-18",
+  "made": "2024-12-06",
+  "gazette": "2025-01-08",
+  "numac": 2024011430,
+  "document_start": "2025-01-18",
+  "document_end": null,
+  "in_force": "2025-01-18",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
