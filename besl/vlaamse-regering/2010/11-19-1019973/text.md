@@ -175,7 +175,7 @@ b) laboratorium in de discipline lucht voor het nemen van monsters en het uitvoe
 c) laboratorium in de discipline bodem, deeldomein bodembescherming, voor het nemen van monsters en het uitvoeren van metingen en analyses in het kader van de bodembescherming,&nbsp;vermeld in artikel 59, § 1 en artikel 60, § 4, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid voor het pakket, vermeld in bijlage 3, 3°, die bij dit besluit is gevoegd.<br>
 d) laboratorium in de discipline bodem, deeldomein bemesting, de discipline mest en de discipline diervoeder, voor het nemen van monsters en het uitvoeren van analyses op bodem, meststoffen en diervoeders in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 e) laboratorium in de discipline afvalstoffen en andere materialen voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses ter uitvoering van&nbsp;titel&nbsp;II en III van het VLAREM en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<br>
-f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodem ter uitvoering van het Bodemdecreet en het VLAREBO en de toepassing van die analyses ter uitvoering van titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
+f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodem ter uitvoering van het Bodemdecreet en zijn uitvoeringsbesluiten en de toepassing van die analyses ter uitvoering van titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
 6° bodemsaneringsdeskundigen : bodemsaneringsdeskundigen als vermeld in het Bodemdecreet, van type 1 of type 2 :<br>
 Een bodemsaneringsdeskundige van type 1 kan de volgende taken uitvoeren in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan :<br>
 a) het leiden van de uitvoering van een oriënterend bodemonderzoek;<br>
@@ -462,7 +462,8 @@ b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad i
 a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de disciplines geologie en bodemkunde aan bod komen;<br>
 b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
 3° beschikken over minstens drie jaar praktische ervaring in een milieusector die relevant is voor het onderzoek inzake bodemverontreiniging, verworven binnen zes jaar, voorafgaand aan de erkenningsaanvraag;<br>
-4° beschikken over een getuigschrift van aanvullende vorming voor bodemsaneringsdeskundigen, module 1, dat door een erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van bijlage 17, die bij dit besluit is gevoegd.
+4° beschikken over een getuigschrift van aanvullende vorming voor bodemsaneringsdeskundigen, module 1, dat door een erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van bijlage 17, die bij dit besluit is gevoegd;<br>
+5° beschikken over een kwaliteitsverantwoordelijke met minstens drie jaar praktische ervaring in een milieusector die relevant is voor het onderzoek inzake bodemverontreiniging, verworven binnen zes jaar voorafgaand aan de aanvraag, die bij de bodemsaneringsdeskundige de taken, vermeld in artikel 53/3, §1, 8°, uitvoert.
 
 ### ART. 25/2.
 
@@ -487,7 +488,8 @@ b) ofwel minstens de graad van bachelor of een daarmee gelijkgestelde graad in e
 8° beschikken over minstens vijf jaar praktische ervaring in werfopvolging, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
 9° beschikken over een getuigschrift van aanvullende vorming voor bodemsaneringsdeskundigen, module 2, dat door een erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van bijlage 17, die bij dit besluit is gevoegd;<br>
 10° beschikken over minstens één natuurlijk persoon die met gunstig gevolg een opleiding heeft genoten waarin minstens de volgende onderwerpen aan bod zijn gekomen : de Vlaamse reglementeringen inzake de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit, het grondwaterbeheer en de stedenbouw en ruimtelijke ordening;<br>
-11° beschikken over minstens één natuurlijk persoon of minstens één natuurlijk persoon contractueel ter beschikking hebben met de nodige ervaring om een mathematisch grondwatermodel te hanteren en de resultaten ervan correct te interpreteren.
+11° beschikken over minstens één natuurlijk persoon of minstens één natuurlijk persoon contractueel ter beschikking hebben met de nodige ervaring om een mathematisch grondwatermodel te hanteren en de resultaten ervan correct te interpreteren;<br>
+12° beschikken over een kwaliteitsverantwoordelijke met minstens drie jaar praktische ervaring in een milieusector die relevant is voor het onderzoek inzake bodemverontreiniging, verworven binnen zes jaar voorafgaand aan de aanvraag, die bij de bodemsaneringsdeskundige de taken, vermeld in artikel 53/3, § 1, 8°, uitvoert.
 
 ## [Onderafdeling 7 Erkenningsvoorwaarden voor bedrijven (verv. BVR 18 maart 2016, art. 223, I: 5 september 2016)]
 
@@ -1345,7 +1347,7 @@ Het erkende laboratorium geeft op verzoek van de bevoegde afdeling het nodige ge
 2° een erkend laboratorium als vermeld in artikel 6, 5°, b) : het compendium voor de monsterneming, meting en analyse van lucht, afgekort LUC;<br>
 3° een erkend laboratorium als vermeld in artikel 6, 5°, c) : het compendium voor de monsterneming, meting en analyse in het kader van bodembescherming, afgekort BOC;<br>
 4° een erkend laboratorium als vermeld in artikel 6, 5°, d) : het compendium bemonsterings- en analysemethodes in het kader van het Mestdecreet, afgekort BAM;<br>
-5° een erkend laboratorium als vermeld in artikel 6, 5°, e) en f) : het compendium voor de monsterneming en analyse in het kader van het Materialendecreet en het Bodemdecreet, afgekort CMA.<br>
+5° een erkend laboratorium als vermeld in artikel 6, 5°, e) en f) : het compendium voor de monsterneming en analyse in het kader van het Materialendecreet en het Bodemdecreet, afgekort CMA, en het WAC.<br>
 <br>
 Het compendium wordt op voorstel van de bevoegde afdeling goedgekeurd bij ministerieel besluit en de inhoudstafel wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
 <br>
@@ -1470,14 +1472,20 @@ Als het erkende laboratorium een monsternemer die het geregistreerd heeft, niet 
 ### ART. 53/3.
 
 § 1. De erkende bodemsaneringsdeskundige, vermeld in artikel 6, 6° :<br>
-1° ziet erop toe dat alle monsters die genomen zijn in het kader van het Bodemdecreet, geanalyseerd worden overeenkomstig het CMA, door een laboratorium als vermeld in artikel 6, 5°, f);<br>
-2° voert het veldwerk uit of ziet erop toe dat het veldwerk wordt uitgevoerd overeenkomstig het CMA;<br>
+1° ziet erop toe dat alle monsters die genomen zijn in het kader van het Bodemdecreet, geanalyseerd worden overeenkomstig het CMA en het WAC, door een laboratorium als vermeld in artikel 6, 5°, f);<br>
+2° voert het veldwerk uit of ziet erop toe dat het veldwerk wordt uitgevoerd overeenkomstig het CMA en het WAC;<br>
 3° deelt op eenvoudig verzoek onmiddellijk aan de afdeling, bevoegd voor bodembeheer, mee waar veldwerk in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan wordt gepland in de periode die is aangegeven in het verzoek van de afdeling, bevoegd voor bodembeheer;<br>
 4° voert de taken, vermeld in artikel 6, 6°, uit in overeenstemming met de standaardprocedures of de codes van goede praktijk, vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan;<br>
 5° houdt een klachtenregister bij dat ter inzage ligt voor de toezichthoudende overheid;<br>
 6° beschikt zelf over een model voor risicoanalyse van bodemverontreiniging dat aanvaard wordt door de afdeling, bevoegd voor bodembeheer, als het om een bodemsaneringsdeskundige van type 2 gaat;<br>
 7° ...<br>
-8° beschikt over een kwaliteitshandboek, en past de inhoud ervan toe bij de uitvoering van taken in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan. Het kwaliteitshandboek wordt opgesteld conform een code van goede praktijk;<br>
+8° beschikt over een kwaliteitshandboek, en past de inhoud ervan toe bij de uitvoering van taken in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan. Het kwaliteitshandboek wordt opgesteld conform een code van goede praktijk. Het kwaliteitshandboek bevat ook de omschrijving van de taken van de kwaliteitsverantwoordelijke, vermeld in artikel 25/1, 5°, en artikel 25/2, 12°.<br>
+De kwaliteitsverantwoordelijke heeft minstens de volgende taken bij de bodemsaneringsdeskundige:<br>
+a)&nbsp;&nbsp; &nbsp;optreden als algemeen aanspreekpunt over de kwaliteit van de uitvoering van de taken van de bodemsaneringsdeskundige in het kader van het Bodemdecreet en de uitvoeringsbesluiten;<br>
+b)&nbsp;&nbsp; &nbsp;uitvoeren van interne kwaliteitscontroles;<br>
+c)&nbsp;&nbsp; &nbsp;opvolgen van relevante wetgeving;<br>
+d)&nbsp;&nbsp; &nbsp;opvolgen van audits;<br>
+e)&nbsp;&nbsp; &nbsp;opvolgen en inventariseren van klachten;<br>
 9° schoolt zich of de personen die bij hem in dienst zijn, permanent bij wat betreft het milieucompartiment bodem, inclusief milieutechnologie en milieuwetgeving in verband met bodem, door cursussen, seminaries, studiedagen en dergelijke te volgen. De duur van de bijscholing van de bodemsaneringsdeskundige per kalenderjaar is als volgt :<br>
 a) in geval van een bodemsaneringsdeskundige van type 1 : de duur van de bijscholing bedraagt minstens 7,5 uur per persoon die voor de bodemsaneringsdeskundige beschikt over een handtekeningsbevoegdheid module 1 of 2. Als er meer dan twee personen beschikken over de voormelde handtekeningsbevoegdheid voor de bodemsaneringsdeskundige, is voldaan aan de bijscholingsvereiste als de totale duur van de bijscholing minstens 15 uur bedraagt;<br>
 b) in geval van een bodemsaneringsdeskundige van type 2 : de duur van de bijscholing bedraagt minstens 7,5 uur per persoon die voor de bodemsaneringsdeskundige beschikt over een handtekeningsbevoegdheid module 1 of 2, met een minimum van 20 uur als de totale duur van de bijscholing. Als er meer dan acht personen beschikken over de voormelde handtekeningsbevoegdheid voor de bodemsaneringsdeskundige, is voldaan aan de bijscholingsvereiste als de totale duur van de bijscholing minstens 60 uur bedraagt.<br>
@@ -1510,7 +1518,7 @@ De afdeling, bevoegd voor bodembeheer, betekent de beslissing aan de bodemsaneri
 
 § 1. De erkende bodemsaneringsdeskundige garandeert een kwaliteitsvolle uitvoering van de werkzaamheden, die ook de objectieve en onafhankelijke uitvoering van de dienstverlening omvat.<br>
 <br>
-De bodemsaneringsdeskundige kan geen gebruik maken van zijn erkenning als de objectieve en onafhankelijke uitvoering van de dienstverlening ten aanzien van de opdrachtgever of de uitvoerder van de bodemsaneringswerken niet kan worden gewaarborgd. De beoordeling of de objectieve en onafhankelijke uitvoering van een dienstverlening kan worden gewaarborgd, gebeurt door de bodemsaneringsdeskundige volgens de werkwijze, opgenomen in de standaardprocedures, vermeld in titel III, hoofdstuk IV tot en met VI, XII en XIII, van het Bodemdecreet.<br>
+De bodemsaneringsdeskundige kan geen gebruik maken van zijn erkenning als de objectieve en onafhankelijke uitvoering van de dienstverlening ten aanzien van de opdrachtgever of de uitvoerder van de bodemsaneringswerken&nbsp;of de uitvoerder van de andere maatregelen, vermeld in titel II, hoofdstuk VI, van titel III van het Bodemdecreet niet kan worden gewaarborgd. De beoordeling of de objectieve en onafhankelijke uitvoering van een dienstverlening kan worden gewaarborgd, gebeurt door de bodemsaneringsdeskundige volgens de werkwijze, opgenomen in de standaardprocedures, vermeld in titel III, hoofdstuk IV tot en met VI, XII en XIII, van het Bodemdecreet.<br>
 <br>
 De voormelde standaardprocedures bevatten een niet-limitatieve opsomming van de gevallen waarin, tot het bewijs van het tegendeel, wordt vermoed dat de erkende bodemsaneringsdeskundige zich conform het tweede lid in een situatie van onverenigbaarheid bevindt.".<br>
 <br>
@@ -4584,128 +4592,125 @@ De bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de al
 
 ### BIJLAGE 17.
 
-<p style="text-align: justify;">Programma van de aanvullende vorming voor bodemsaneringsdeskundigen</p>
+<p>Programma van de aanvullende vorming voor bodemsaneringsdeskundigen</p>
 
-<p style="text-align: justify;">1° Het programma van de aanvullende vorming beantwoordt ten minste aan de volgende voorwaarden:</p>
+<p>1° Het programma van de aanvullende vorming beantwoordt ten minste aan de volgende voorwaarden:</p>
 
-<p style="text-align: justify;">a) het programma is zo opgevat dat het de kandidaat in staat stelt de nodige kennis en bekwaamheid te verwerven met betrekking tot de taken van de bodemsaneringsdeskundige, vermeld in artikel 6, 6°;</p>
+<p>a) het programma is zo opgevat dat het de kandidaat in staat stelt de nodige kennis en bekwaamheid te verwerven met betrekking tot de taken van de bodemsaneringsdeskundige, vermeld in artikel 6, 6°;</p>
 
-<p style="text-align: justify;">b) het programma wordt opgesplitst in de volgende twee modules:</p>
+<p>b) het programma wordt opgesplitst in de volgende twee modules:</p>
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">PROGRAMMA-INHOUD</p>
+			<td style="background-color:transparent; width:460.6pt">
+			<p>PROGRAMMA-INHOUD</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Module 1. Relevante milieuwetgeving in verband met bodem, de standaardprocedure 'oriënterend bodemonderzoek', de standaardprocedures en codes van goede praktijk inzake het grondverzet, en het compendium voor de monsterneming en analyse in het kader van het Materialendecreet en Bodemdecreet, afgekort CMA</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Module 1. Relevante milieuwetgeving in verband met bodem, de standaardprocedure 'oriënterend bodemonderzoek', de standaardprocedures en codes van goede praktijk inzake het grondverzet, en het compendium voor de monsterneming en analyse in het kader van het Materialendecreet en Bodemdecreet, afgekort CMA</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">1.1. Relevante milieuwetgeving in verband met bodem</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>1.1. Relevante milieuwetgeving in verband met bodem</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Kennis van de volgende wetgeving:</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Kennis van de volgende wetgeving:</p>
 
-			<p style="text-align: justify;">1° het Bodemdecreet en het VLAREBO;</p>
+			<p>1° het Bodemdecreet en het VLAREBO;</p>
 
-			<p style="text-align: justify;">2° de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;</p>
+			<p>2° de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;</p>
 
-			<p style="text-align: justify;">3° de bepalingen over verminderde milieuheffing van de afvalstoffenreglementering;</p>
+			<p>3° de bepalingen over verminderde milieuheffing van de afvalstoffenreglementering;</p>
 
-			<p style="text-align: justify;">4° de bepalingen van het VLAREL met betrekking tot de erkenning als bodemsaneringsdeskundige.</p>
+			<p>4° de bepalingen van het VLAREL met betrekking tot de erkenning als bodemsaneringsdeskundige.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">1.2. Standaardprocedure 'oriënterend bodemonderzoek'</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>1.2. Standaardprocedure 'oriënterend bodemonderzoek'</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Inhoudelijk vertrouwd raken met de standaardprocedure 'oriënterend bodemonderzoek'.</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Inhoudelijk vertrouwd raken met de standaardprocedure 'oriënterend bodemonderzoek'.</p>
 
-			<p style="text-align: justify;">Een oriënterend bodemonderzoek correct kunnen uitvoeren en erover rapporteren.</p>
+			<p>Een oriënterend bodemonderzoek correct kunnen uitvoeren en erover rapporteren.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">1.3. Standaardprocedures en codes van goede praktijk inzake het grondverzet</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>1.3. Standaardprocedures en codes van goede praktijk inzake het grondverzet</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Kennis van de wettelijke bepalingen inzake de grondverzetsregeling. Het inhoudelijk vertrouwd raken met de bestaande standaardprocedures en codes van goede praktijk zodat de verschillende studies en verslagen correct kunnen worden uitgevoerd en gerapporteerd:</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Kennis van de wettelijke bepalingen inzake de grondverzetsregeling. Het inhoudelijk vertrouwd raken met de bestaande standaardprocedures en codes van goede praktijk zodat de verschillende studies en verslagen correct kunnen worden uitgevoerd en gerapporteerd:</p>
 
-			<p style="text-align: justify;">1° standaardprocedure 'studie van de ontvangende grond';</p>
+			<p>1° standaardprocedure 'studie van de ontvangende grond';</p>
 
-			<p style="text-align: justify;">2° standaardprocedure 'opmaak van een technisch verslag'.</p>
+			<p>2° standaardprocedure 'opmaak van een technisch verslag'.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">1.4. Het CMA wat betreft de monsterneming in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>1.4. Het CMA wat betreft de monsterneming in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Module 2. Overige standaardprocedures en codes van goede praktijk, vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Module 2. Overige standaardprocedures en codes van goede praktijk, vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">2.1. De overige standaardprocedures</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>2.1. De overige standaardprocedures</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Inhoudelijk vertrouwd raken met de bestaande standaardprocedures zodat de verschillende bodemonderzoeken en projecten correct kunnen worden uitgevoerd en gerapporteerd:</p>
-
-			<p style="text-align: justify;">1° standaardprocedure 'beschrijvend bodemonderzoek';</p>
-
-			<p style="text-align: justify;">2° standaardprocedure 'oriënterend en beschrijvend bodemonderzoek';</p>
-
-			<p style="text-align: justify;">3° standaardprocedure 'bodemsaneringsproject';</p>
-
-			<p style="text-align: justify;">4° standaardprocedure 'beperkt bodemsaneringsproject';</p>
-
-			<p style="text-align: justify;">5° standaardprocedure 'bodemsaneringswerken, eindevaluatieonderzoek en nazorg'.</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Inhoudelijk vertrouwd raken met de bestaande standaardprocedures zodat de verschillende bodemonderzoeken en projecten correct kunnen worden uitgevoerd en gerapporteerd:<br>
+			1° de standaardprocedure 'beschrijvend bodemonderzoek';<br>
+			2° de standaardprocedure 'oriënterend en beschrijvend bodemonderzoek';<br>
+			3° de standaardprocedure 'bodemsaneringsproject';<br>
+			4° de standaardprocedure 'beperkt bodemsaneringsproject';<br>
+			5° de standaardprocedure 'bodemsaneringswerken, eindevaluatieonderzoek en nazorg';<br>
+			6° de standaardprocedure ‘gasolietankgerelateerd bodemonderzoek’;<br>
+			7° de standaardprocedure, vermeld in artikel 82octies van het Bodemdecreet.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">2.2. De overige codes van goede praktijk</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>2.2. De overige codes van goede praktijk</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
-			<p style="text-align: justify;">Inhoudelijk vertrouwd raken met de belangrijkste elementen van de verschillende door de</p>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:460.6pt">
+			<p>Inhoudelijk vertrouwd raken met de belangrijkste elementen van de verschillende door de</p>
 
-			<p style="text-align: justify;">OVAM opgestelde en gepubliceerde codes van goede praktijk.</p>
+			<p>OVAM opgestelde en gepubliceerde codes van goede praktijk.</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="text-align: justify;">c) het programma omvat ten minste 30 uur voor module 1 en 30 uur voor module 2.</p>
+<p>c) het programma omvat ten minste 30 uur voor module 1 en 30 uur voor module 2.</p>
 
-<p style="text-align: justify;">Beide modules van de aanvullende vorming kunnen afzonderlijk worden gevolgd;</p>
+<p>Beide modules van de aanvullende vorming kunnen afzonderlijk worden gevolgd;</p>
 
-<p style="text-align: justify;">2° Beide modules van de aanvullende vorming worden afgesloten met een examen.</p>
+<p>2° Beide modules van de aanvullende vorming worden afgesloten met een examen.</p>
 
-<p style="text-align: justify;">Een persoon die slaagt voor het examen, krijgt een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen voor de overeenstemmende module. In afwijking daarvan krijgen de personen, vermeld in artikel 103/2 en 103/3, na het volgen van de aanvullende vorming voor bodemsaneringsdeskundigen een getuigschrift van de aanvullende vorming voor de gevolgde module.</p>
+<p>Een persoon die slaagt voor het examen, krijgt een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen voor de overeenstemmende module. In afwijking daarvan krijgen de personen, vermeld in artikel 103/2 en 103/3, na het volgen van de aanvullende vorming voor bodemsaneringsdeskundigen een getuigschrift van de aanvullende vorming voor de gevolgde module.</p>
 
-<p style="text-align: justify;">Een persoon die het onderricht van module 1 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 1.</p>
+<p>Een persoon die het onderricht van module 1 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 1.</p>
 
-<p style="text-align: justify;">Een persoon die het onderricht van module 2 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 2 als hij in het bezit is van een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen, module 1.</p>
+<p>Een persoon die het onderricht van module 2 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 2 als hij in het bezit is van een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen, module 1.</p>
 
-<p style="text-align: justify;">&nbsp;</p>
+<p>&nbsp;</p>
 3° In afwijking van punt 2° worden de personen, vermeld in artikel 53/4, § 3, artikel 103/2 en 103/3, door de erkende opleidingscentra toegelaten om deel te nemen aan het examen van de overeenstemmende module zonder dat ze voorafgaandelijk het onderricht van de modules hebben gevolgd.
 
 ## [BIJLAGE 18 Retributies voor de behandeling van de aanvraag en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu (ing. BVR 1 maart 2013, art. 180)]
