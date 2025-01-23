@@ -2,16 +2,16 @@
   "codex_id": 1023356,
   "title": "Ministerieel besluit van 2013-10-21 inzake cofinanciering van bodemsaneringswerken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023356/VolledigDocument?datum=2019-04-01",
-  "source_sha256": "7d80f9d67fb642420474ddedabfbd15ae3655e9873a8b361248ea27393ab47c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023356/VolledigDocument?datum=2025-01-23",
+  "source_sha256": "08dfd6f20c235d83cb0aa2d5e9c87cca0b8df1e92c76c5e000e83442e2f98e30",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023356&param=informatie",
-  "as_of": "2019-04-01",
+  "as_of": "2025-01-23",
   "made": "2013-10-21",
   "gazette": "2013-10-29",
   "numac": 2013036016,
   "document_start": "2013-11-08",
   "document_end": null,
-  "in_force": "2019-04-01",
+  "in_force": "2025-01-23",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-23; future article versions excluded; article text as the API gives it"
 }

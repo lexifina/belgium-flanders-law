@@ -14,7 +14,11 @@ In dit besluit wordt verstaan onder :<BR>VLAREBO : het besluit van de   Vlaamse 
 
 ### ART. 2.
 
-Het percentage van de cofinanciering, vermeld in artikel 54/5 van het   VLAREBO, bedraagt :<BR>1° 35% als de begunstigde een onderneming;<BR>2° 50% als   de begunstigde geen onderneming is.<BR>
+Het percentage van de cofinanciering, vermeld in artikel 54/5 van het VLAREBO, bedraagt :<br>
+1° 35% als de begunstigde een onderneming;<br>
+2° 50% als de begunstigde geen onderneming is.<br>
+<br>
+In afwijking van het eerste lid bedraagt het percentage van de cofinanciering 80% als de eigenaar bij beslissing of van rechtswege vrijgesteld is van saneringsplicht.
 
 ## HOOFDSTUK 3 Beoordeling van de aanvraag tot cofinanciering
 
