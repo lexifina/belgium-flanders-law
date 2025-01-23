@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040491,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-06 tot wijziging van het VLAREBO-besluit van 14 december 2007, het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en het VLAREL van 19 november 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040491/VolledigDocument?datum=2025-01-23",
+  "source_sha256": "ecb8d5fef235ca6855f88294a80fe57aef8973e4d24deffaacc3609aa33eee2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040491&param=informatie",
+  "as_of": "2025-01-23",
+  "made": "2024-12-06",
+  "gazette": "2025-01-13",
+  "numac": 2024011752,
+  "document_start": "2025-01-23",
+  "document_end": null,
+  "in_force": "2025-01-23",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2025-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
