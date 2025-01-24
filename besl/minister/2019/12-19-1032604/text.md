@@ -24,17 +24,16 @@ Besluit :
 
 ### ART 1.
 
-Er wordt een soortenbeschermingsprogramma voor de kamsalamander (Triturus cristatus), hierna `SBP kamsalamander' te noemen, vastgesteld overeenkomstig artikel 27, § 1, tweede lid, van het Soortenbesluit van 15 mei 2009. Het SBP kamsalamander wordt als bijlage bij dit besluit gevoegd.
+...
 
 ### ART 2.
 
-Het toepassingsgebied van het SBP kamsalamander wordt beschreven in de bijlage bij dit besluit.<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Conform artikel 27, § 3, tweede lid, van het Soortenbesluit van 15 mei 2009 kan het SBP kamsalamander worden gewijzigd, opgeschort of voortijdig stopgezet indien naar aanleiding van de opvolging en de evaluatie, wordt vastgesteld dat de acties en maatregelen die vastgesteld zijn in het SBP, ontoereikend zijn.
+...
 
 ### ART 4.
 
-Dit besluit treedt buiten werking bij het verstrijken van een periode van vijf jaar vanaf de datum van bekendmaking ervan.
+...

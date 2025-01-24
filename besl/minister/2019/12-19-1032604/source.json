@@ -2,16 +2,16 @@
   "codex_id": 1032604,
   "title": "Ministerieel besluit van 2019-12-19 houdende de vaststelling van een soortenbeschermingsprogramma voor de kamsalamander (Triturus cristatus)",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032604/VolledigDocument?datum=2020-02-02",
-  "source_sha256": "11a13fca8cbae52a0a33e51a310a657bb78fb8f71fb284cf20e1fab8a1cc7085",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032604/VolledigDocument?datum=2025-01-24",
+  "source_sha256": "34109a0eca6ae6711ebd28f69e2aa6a2013413a6aecd78a61cf0bd907c6ea779",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032604&param=informatie",
-  "as_of": "2020-02-02",
+  "as_of": "2025-01-24",
   "made": "2019-12-19",
   "gazette": "2020-01-23",
   "numac": 2020010091,
   "document_start": "2020-02-02",
   "document_end": "2025-01-23",
-  "in_force": "2020-02-02",
+  "in_force": "2025-01-24",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-24; future article versions excluded; article text as the API gives it"
 }
