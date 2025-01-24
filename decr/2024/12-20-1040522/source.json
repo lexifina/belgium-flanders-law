@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040522,
+  "title": "Decreet van 2024-12-20 tot wijziging van artikel 8 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat een technische rechtzetting betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040522/VolledigDocument?datum=2025-01-24",
+  "source_sha256": "22cc68fdf9e6eafa956b9ec2340dd13fb10f65c18745f714422f2a1ad770be19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040522&param=informatie",
+  "as_of": "2025-01-24",
+  "made": "2024-12-20",
+  "gazette": "2025-01-14",
+  "numac": 2024011965,
+  "document_start": "2025-01-24",
+  "document_end": null,
+  "in_force": "2025-01-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
