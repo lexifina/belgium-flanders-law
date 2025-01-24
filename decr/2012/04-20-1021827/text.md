@@ -177,7 +177,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de basissubsidie, waaronder mi
 3° de gezinssamenstelling:<br>
 4° de aanwezigheid van pleegkinderen, als bedoeld in artikel 2, 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, in het gezin en die in aanmerking komen voor kinderopvang als bedoeld in artikel 2, 2°.<br>
 <br>
-De financiële bijdrage van de gezinnen voor de kinderopvang van een pleegkind als vermeld in het tweede lid, 3°, of van een kind van een minderjarige tienermoeder, stemt overeen met het laagst mogelijke inkomenstarief, onafhankelijk van het inkomen van het pleeggezin of van het gezin van de minderjarige.<br>
+De financiële bijdrage van de gezinnen voor de kinderopvang van een pleegkind als vermeld in het tweede lid, 3°, of van een kind van een moeder die op het moment van de aanvraag is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor het gewoon of buitengewoon secundair onderwijs of in de leertijd, stemt overeen met het laagst mogelijke inkomenstarief, onafhankelijk van het inkomen van het pleeggezin of van het gezin van de moeder.<br>
 <br>
 § 2. Behoudens de bepalingen in § 1 geldt ten aanzien van de kinderopvanglocaties in het tweetalige gebied Brussel-Hoofdstad een voorrang voor kinderen waarvan minstens één ouder het Nederlands voldoende machtig is en dit ten belope van maximaal 55 percent van hun opvangcapaciteit.<br>
 <br>
