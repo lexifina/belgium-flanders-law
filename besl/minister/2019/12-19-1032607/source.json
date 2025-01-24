@@ -2,16 +2,16 @@
   "codex_id": 1032607,
   "title": "Ministerieel besluit van 2019-12-19 houdende de vaststelling van een soortenbeschermingsprogramma voor de poelkikker (Pelophylax lessonae)",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032607/VolledigDocument?datum=2020-02-02",
-  "source_sha256": "d7f5604e7ee7930a54248efb52c7151a44cbe6d1bc2ecf7d6993daf1851de59a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032607/VolledigDocument?datum=2025-01-24",
+  "source_sha256": "d421e0644c92591f96a042e3712688e91e551acac44d0d74c5eb943217bebbee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032607&param=informatie",
-  "as_of": "2020-02-02",
+  "as_of": "2025-01-24",
   "made": "2019-12-19",
   "gazette": "2020-01-23",
   "numac": 2020010088,
   "document_start": "2020-02-02",
   "document_end": "2025-01-23",
-  "in_force": "2020-02-02",
+  "in_force": "2025-01-24",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-01-24; future article versions excluded; article text as the API gives it"
 }
