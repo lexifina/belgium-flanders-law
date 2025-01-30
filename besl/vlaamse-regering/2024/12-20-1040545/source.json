@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040545,
+  "title": "Besluit van de Vlaamse Regering van 2024-12-20 tot vaststelling van het toepassingsgebied van de verordening voor het verkeer van havenvoertuigen in de haven van Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040545/VolledigDocument?datum=2025-01-30",
+  "source_sha256": "0c97388c85b79c1eb4bdc83dcba5b17466c9c02e9d9a4ecaf63a579dfd2241b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040545&param=informatie",
+  "as_of": "2025-01-30",
+  "made": "2024-12-20",
+  "gazette": "2025-01-20",
+  "numac": 2025000287,
+  "document_start": "2025-01-30",
+  "document_end": null,
+  "in_force": "2025-01-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
