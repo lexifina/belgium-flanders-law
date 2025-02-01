@@ -41,7 +41,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1
 
-Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°<br>
+Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:329px">
 	<tbody>
@@ -65,6 +65,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
@@ -823,6 +826,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
 		</tr>
 		<tr>
@@ -842,6 +848,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
@@ -1802,6 +1811,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
@@ -2953,6 +2965,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Evergem</strong></td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
@@ -3703,6 +3718,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
@@ -3728,6 +3746,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bierbeek</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
@@ -3922,6 +3943,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
 		</tr>
 		<tr>
@@ -3932,6 +3956,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
@@ -4424,6 +4451,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Truiden</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
@@ -5104,6 +5134,12 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wingene</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>137828 - GO! CVO Scala</strong></td>
 		</tr>
 		<tr>
@@ -5347,6 +5383,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ledegem</strong></td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
@@ -5587,6 +5626,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
 		</tr>
 		<tr>
@@ -5602,7 +5644,7 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:329px"><a name="_Hlk181976734">Nederlands tweede taal richtgraad 1 en 2</a></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Torhout</strong></td>
@@ -5705,6 +5747,12 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>28431 - CVO LBC</strong></td>
@@ -5954,6 +6002,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
@@ -6757,6 +6808,12 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Machelen</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Meise</strong></td>
 		</tr>
 		<tr>
@@ -7381,10 +7438,16 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:329px"><a name="_Hlk181975935">Informatie- en communicatietechnologie</a></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Meerhout</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Merksplas</strong></td>
@@ -7750,6 +7813,15 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zandhoven</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zoersel</strong></td>
 		</tr>
 		<tr>
@@ -7877,6 +7949,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Pieters-Leeuw</strong></td>
@@ -8635,7 +8710,7 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:329px"><a name="_Hlk181976578">Informatie- en communicatietechnologie</a></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
@@ -8678,6 +8753,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
@@ -8761,6 +8839,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
@@ -8834,6 +8915,9 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zonnebeke</strong></td>
@@ -9383,8 +9467,6 @@ Bijlage 1. Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra vo
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ### BIJLAGE 2.
 
