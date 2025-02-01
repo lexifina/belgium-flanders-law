@@ -587,6 +587,12 @@ In artikel 13 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 In artikel 14 van hetzelfde besluit wordt de zinsnede “, of door instrumenterende ambtenaren” opgeheven.
 
+### ART 5.
+
+In titel III, hoofdstuk III, van hetzelfde besluit wordt het opschrift van afdeling IV, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2013, vervangen door wat volgt:&nbsp;<br>
+&nbsp;<br>
+“Afdeling IV. Cofinanciering voor de uitvoering van bodemsaneringswerken”.&nbsp;
+
 ### ART 6.
 
 In artikel 54/1, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 23 oktober 2015, wordt de zinsnede “verordening (EU) nr. 1407/2023 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun” vervangen door de zinsnede “verordening (EU) nr. 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun”.&nbsp;
@@ -622,6 +628,82 @@ In artikel 54/14 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART 12.
 
 In artikel 54/15, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 21 september 2018, wordt de zinsnede “Onverminderd artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof” vervangen door de zinsnede “Met behoud van de toepassing van artikel 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019”.
+
+### ART 13.
+
+In titel III, hoofdstuk III, van hetzelfde besluit wordt een afdeling IV/1, die bestaat uit artikel 54/15/1 tot en met 54/15/9, ingevoegd, die luidt als volgt:&nbsp;<br>
+&nbsp;<br>
+“Afdeling IV/1. Cofinanciering voor de uitvoering van het beschrijvend bodemonderzoek voor bodemverontreiniging met PFAS als gevolg van brandbestrijding en brandblusoefening&nbsp;<br>
+&nbsp;<br>
+Onderafdeling I. Algemeen&nbsp;<br>
+&nbsp;<br>
+Art. 54/15/1. Binnen de perken van de beschikbare begrotingskredieten kan de administrateur-generaal van de OVAM op aanvraag cofinanciering toekennen aan de personen, vermeld in artikel 54/15/2, voor de uitvoering van het beschrijvend bodemonderzoek voor bodemverontreiniging met PFAS als gevolg van brandbestrijding of brandblusoefening als vermeld in artikel 54/15/3.&nbsp;<br>
+<br>
+De cofinanciering wordt toegekend met inachtneming van de verordening (EU) verordening (EU) nr. 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de de-minimissteun.&nbsp;<br>
+&nbsp;<br>
+Onderafdeling II. Toepassingsgebied&nbsp;<br>
+&nbsp;<br>
+A. Personeel toepassingsgebied&nbsp;<br>
+&nbsp;<br>
+Art. 54/15/2. De exploitant, gebruiker of eigenaar van de grond waarop de bodemverontreiniging met PFAS als gevolg van brandbestrijding of brandblusoefening tot stand gekomen is, komt in aanmerking voor cofinanciering.&nbsp;<br>
+&nbsp;<br>
+De volgende personen, vermeld in het eerste lid, komen niet in aanmerking voor cofinanciering:&nbsp;<br>
+1° de exploitant, gebruiker of eigenaar die vrijgesteld is van de saneringsplicht;&nbsp;<br>
+2° de exploitant, gebruiker of eigenaar die als onderneming niet voldoet aan de voorwaarden voor de-minimissteunverlening;<br>
+3° de exploitant, gebruiker of eigenaar ten laste van wie een proces-verbaal of een verslag van vaststelling werd opgesteld wegens schending van het Bodemdecreet of dit besluit.&nbsp;<br>
+&nbsp;<br>
+B. Materieel toepassingsgebied&nbsp;<br>
+&nbsp;<br>
+Art. 54/15/3. De uitvoering van het beschrijvend bodemonderzoek komt in aanmerking voor cofinanciering als aan de drie volgende voorwaarden voldaan is:&nbsp;<br>
+1° het beschrijvend bodemonderzoek heeft betrekking op bodemverontreiniging met PFAS als gevolg van brandbestrijding of blandblusoefening waarvoor de OVAM heeft beslist dat conform het Bodemdecreet een beschrijvend bodemonderzoek moet worden uitgevoerd;<br>
+2° het beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vermeld in artikel 38, §2, van het Bodemdecreet;&nbsp;<br>
+3° het beschrijvend bodemonderzoek wordt of werd uitgevoerd op kosten van de persoon, vermeld in artikel 54/15/2, die de aanvraag tot cofinanciering heeft ingediend.&nbsp;<br>
+&nbsp;<br>
+Onderafdeling III. Kosten die in aanmerking komen voor cofinanciering&nbsp;<br>
+&nbsp;<br>
+Art. 54/15/4. De volgende kosten van een beschrijvend bodemonderzoek als vermeld in artikel 54/15/3 komen in aanmerking voor cofinanciering:<br>
+1° als het gaat om ondernemingen en niet-ondernemingen andere dan natuurlijke personen: de kosten van een beschrijvend bodemonderzoek waarvoor de opdracht tot uitvoering is gegeven na 21 september 2021 en waarvan de facturen dateren van minder dan vier jaar voor de datum van ontvangst van de aanvraag tot cofinanciering;<br>
+2° als het gaat om niet-ondernemingen natuurlijke personen:<br>
+a) de kosten van een beschrijvend bodemonderzoek waarvoor de opdracht tot uitvoering is gegeven na 21 september 2021 en voor 1 februari 2025 en waarvan de facturen dateren van minder dan vier jaar voor de datum van ontvangst van de aanvraag tot cofinanciering;<br>
+b) de kosten van een beschrijvend bodemonderzoek waarvoor de OVAM een cofinancieringsbeslissing heeft genomen overeenkomstig artikel 54/15/8, derde lid, &nbsp;op voorwaarde dat het beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige aangesteld door de OVAM conform de wetgeving overheidsopdrachten .<br>
+<br>
+Onderafdeling IV. Percentage van de cofinanciering<br>
+&nbsp;<br>
+Art. 54/15/5. Het percentage van de cofinanciering voor kosten als vermeld in artikel 54/15/4 is als volgt:&nbsp;<br>
+1° voor ondernemingen: 35%;&nbsp;<br>
+2° voor niet-ondernemingen andere dan natuurlijke personen: 50%;&nbsp;<br>
+3° voor niet-ondernemingen natuurlijke personen: 95%. In elk geval bedraagt de eigen bijdrage maximaal 500 euro.&nbsp;<br>
+<br>
+Onderafdeling V. Maximaal bedrag van de cofinanciering<br>
+<br>
+Art. 54/15/6. Het gecumuleerde bedrag van de cofinanciering voor het beschrijvend bodemonderzoek voor dezelfde bodemverontreiniging, dat aan een begunstigde toegekend wordt, kan niet meer dan 300.000 euro bedragen.&nbsp;<br>
+<br>
+Onderafdeling VI. Procedure voor de aanvraag en de toekenning van cofinanciering &nbsp;<br>
+<br>
+Art. 54/15/7. Een aanvraag tot cofinanciering wordt elektronisch bij de OVAM ingediend met een volledig ingevuld, gedateerd en ondertekend aanvraagformulier. Het model van het aanvraagformulier wordt vastgesteld bij besluit van de administrateur-generaal van de OVAM en voorziet in ieder geval in de opvraging van de volgende gegevens:&nbsp;<br>
+1° de ligging van de grond;&nbsp;<br>
+2° een aan de OVAM tegenstelbare akte waaruit blijkt dat de aanvrager van de cofinanciering exploitant, gebruiker of eigenaar van de grond is;<br>
+3° voor de cofinanciering van kosten als vermeld in artikel 54/15/4, 1°, en 2°, a): een kopie van de facturen voor de kosten voor het beschrijvend bodemonderzoek. De facturen worden opgenomen in een rekeningstaat, en een gedetailleerde vorderingsstaat en een betalingsbewijs worden bijgevoegd. De administrateur-generaal van de OVAM kan een model van vorderings- en rekeningstaat vastleggen, en vormvereisten voor de facturen opleggen.&nbsp;<br>
+<br>
+Voor kosten als vermeld in artikel 54/15/4, 1°, en 2°, a), kunnen maximaal twee aanvragen tot cofinanciering bij de OVAM worden ingediend.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Een aanvraag tot cofinanciering die niet voldoet aan de vereisten, vermeld in het eerste en tweede lid, is niet ontvankelijk.&nbsp;<br>
+<br>
+Art. 54/15/8. De OVAM onderzoekt de ontvankelijkheid van de aanvraag. Als de OVAM oordeelt dat de aanvraag ontvankelijk is, neemt de administrateur-generaal van de OVAM na onderzoek en beoordeling van het aanvraagdossier een beslissing over de aanvraag tot cofinanciering.&nbsp;<br>
+<br>
+De beslissing over de cofinanciering van kosten als vermeld in artikel 54/15/4, 1°, en 2°, a), bevat in ieder geval het bedrag van de cofinanciering. Het uit te betalen bedrag van de cofinanciering wordt berekend door het toepasselijke percentage van de cofinanciering te vermenigvuldigen met de kosten die in aanmerking komen voor cofinanciering en die opgenomen zijn in de facturen die beantwoorden aan de vereisten, vermeld in artikel 54/15/7, eerste lid, 3°.&nbsp;<br>
+<br>
+De beslissing over de cofinanciering van kosten als vermeld in artikel 54/15/4, 2°, b), bevat in ieder geval de volgende elementen:&nbsp;<br>
+1° het percentage van de cofinanciering en de maximale eigen bijdrage van de begunstigde dat van toepassing is;&nbsp;<br>
+2° de voorwaarde dat het beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige aangesteld door de OVAM conform de wetgeving overheidsopdrachten.<br>
+<br>
+Onderafdeling VII. Terugvordering&nbsp;<br>
+&nbsp;<br>
+Artikel 54/15/9. Met behoud van de toepassing van artikel 76 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, kan de OVAM in de volgende gevallen de uitbetaalde cofinanciering geheel of gedeeltelijk terugvorderen:&nbsp;<br>
+1° bij vaststelling dat de cofinanciering uitbetaald is op basis van onjuiste of onvolledige gegevens, opgenomen in de aanvraag tot cofinanciering;&nbsp;<br>
+2° bij vaststelling dat de bepalingen, vastgesteld bij of krachtens het Bodemdecreet, niet zijn nageleefd bij de uitvoering van het beschrijvend bodemonderzoek.&nbsp;<br>
+&nbsp;<br>
+In geval van terugvordering wordt de Europese referentievoet voor terugvordering van onrechtmatig verleende staatssteun toegepast.”.&nbsp;
 
 ### ART 14.
 
