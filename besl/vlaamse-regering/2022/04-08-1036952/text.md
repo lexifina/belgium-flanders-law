@@ -255,6 +255,12 @@ Als een stad als vermeld in het eerste lid, voldoet aan de voorwaarden om de sub
 
 Vanaf 1 januari 2025 worden geen nieuwe slaapplekken meer aangemeld in de Vlaamse Huisvestingstool.
 
+### ART 7/3.
+
+Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van 1000 euro per slaapplek, uitgezonderd de private slaapplekken, vermeld in artikel 2, die geregistreerd, gevalideerd en, als dat vereist is, bevestigd is in de Vlaamse Huisvestingstool, en die op 1 januari 2025 is toegewezen aan een ontheemde. Per lokaal bestuur zijn er op 1 januari 2025 minimaal vijf toegewezen slaapplekken, exclusief de private slaapplekken, vermeld in artikel 2, om in aanmerking te komen voor de subsidie.<br>
+<br>
+Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van 1000 euro voor elke nieuwe ontheemde in België met opvangnood die via het agentschap wordt toegewezen aan een publieke slaapplek die voldoet aan de voorwaarden, vermeld in artikel 3, tweede lid, 1°, 2°, 3°, 5° en 6°, en een slaapplek in een nooddorp als vermeld in artikel 7, met het oog op de doorstroom. Het agentschap registreert per maand het aantal ontheemden die worden toegewezen aan die slaapplekken.
+
 ## HOOFDSTUK 5. Aanvraag, controle en uitbetaling van de subsidie
 
 ### ART 8.
