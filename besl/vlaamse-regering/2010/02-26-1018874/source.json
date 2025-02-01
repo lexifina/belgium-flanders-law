@@ -2,16 +2,16 @@
   "codex_id": 1018874,
   "title": "Besluit van de Vlaamse Regering van 2010-02-26 betreffende de prestatieregeling en de vaststelling van het recht op een salaris in een ambt in de centra voor volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018874/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "f637e4423dff4e7ce37302c120eb00cb1ffcc35a19470aedb621cdf77ee68a46",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018874/VolledigDocument?datum=2025-02-01",
+  "source_sha256": "02655121469ea07265c78d79387cce042b47b191ab45d86253f85e5543f385cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018874&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-02-01",
   "made": "2010-02-26",
   "gazette": "2010-03-22",
   "numac": 2010201360,
   "document_start": "2010-09-01",
   "document_end": null,
-  "in_force": "2024-09-01",
+  "in_force": "2025-02-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-02-01; future article versions excluded; article text as the API gives it"
 }
