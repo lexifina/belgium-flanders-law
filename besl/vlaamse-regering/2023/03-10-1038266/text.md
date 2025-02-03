@@ -50,6 +50,7 @@ Het comité valt onder de bevoegdheid van de minister.
 2° één vertegenwoordiger, die wordt voorgedragen door de Vlaamse minister, bevoegd voor de omgeving en de natuur;&nbsp;<br>
 3° één vertegenwoordiger, die wordt voorgedragen door de Vlaamse minister, bevoegd voor het budgettair beleid;&nbsp;<br>
 4° één vertegenwoordiger, die wordt voorgedragen door de Vlaamse minister, bevoegd voor het dierenwelzijn;&nbsp;<br>
+4°/1 één vertegenwoordiger, die wordt voorgedragen door de Vlaamse minister, bevoegd voor het plattelandsbeleid;<br>
 5° één vertegenwoordiger, die wordt voorgedragen door de Vlaamse minister-president, indien nog niet vertegenwoordigd in hoedanigheid van een andere bevoegdheid;<br>
 6° één vertegenwoordiger, die wordt voorgedragen door iedere viceminister-president, indien zij nog niet vertegenwoordigd zijn in hoedanigheid van een andere bevoegdheid;<br>
 7° één vertegenwoordiger die wordt voorgedragen door de beheersautoriteit GLB-SP;<br>
@@ -58,7 +59,7 @@ Het comité valt onder de bevoegdheid van de minister.
 10° één vertegenwoordiger die wordt voorgedragen door de bevoegde entiteit;&nbsp;<br>
 11° één vertegenwoordiger die wordt voorgedragen door het Agentschap Natuur en Bos;<br>
 12° één vertegenwoordiger die wordt voorgedragen door de Vlaamse Landmaatschappij;<br>
-13° één vertegenwoordiger die wordt voorgedragen door het Departement Omgeving;<br>
+13° ...;<br>
 14° één vertegenwoordiger die wordt voorgedragen door de Vereniging van Vlaamse Provincies;<br>
 15° één vertegenwoordiger die wordt voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten;<br>
 16° één vertegenwoordiger die wordt voorgedragen door de Sociaal-Economische Raad van Vlaanderen;<br>

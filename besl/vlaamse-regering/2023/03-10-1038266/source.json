@@ -2,16 +2,16 @@
   "codex_id": 1038266,
   "title": "Besluit van de Vlaamse Regering van 2023-03-10 tot oprichting en samenstelling van het monitoringcomité ter implementatie van het Vlaams strategisch GLB-plan voor de periode 2023-2027",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038266/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "ef7b2bcb5cd6298cf4ab4e827823a5c4afb1b23b9069ed0be2f97b70cd35b2c5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038266/VolledigDocument?datum=2025-02-03",
+  "source_sha256": "56f9604709aff2b467b3bbea4c22d45d78e60dd1e6dbae35fcd239160931ebc5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038266&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2025-02-03",
   "made": "2023-03-10",
   "gazette": "2023-08-14",
   "numac": 2023041849,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2025-02-03",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-02-03; future article versions excluded; article text as the API gives it"
 }
