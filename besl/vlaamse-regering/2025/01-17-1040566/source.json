@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040566,
+  "title": "Besluit van de Vlaamse Regering van 2025-01-17 tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 10 maart 2023 tot oprichting en samenstelling van het monitoringcomité ter implementatie van het Vlaams strategisch GLB-plan voor de periode 2023-2027",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040566/VolledigDocument?datum=2025-02-03",
+  "source_sha256": "9adc96f9d67bbe24d78384c24011f0a9f284ab4dab76f92fa21a211eb416979b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040566&param=informatie",
+  "as_of": "2025-02-03",
+  "made": "2025-01-17",
+  "gazette": "2025-01-24",
+  "numac": 2025000624,
+  "document_start": "2025-02-03",
+  "document_end": null,
+  "in_force": "2025-02-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
