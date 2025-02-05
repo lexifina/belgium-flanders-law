@@ -19,13 +19,13 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME
 
 ### ART 1.
 
-Het bedrag van de retributie voor de uitreiking van een nieuw of geactualiseerd asbestinventarisattest bedraagt vijftig euro.<br>
+Het bedrag van de retributie voor de uitreiking van een nieuw of geactualiseerd asbestinventarisattest bedraagt 59 euro (negenenvijftig euro).<br>
 <br>
 Indien de asbestinventaris binnen de 30 kalenderdagen na ontsluiting van het asbestinventarisattest aangepast wordt en het bijhorende asbestinventarisattest geactualiseerd moet worden is geen retributie verschuldigd.
 
 ### ART 2.
 
-Het bedrag van de retributie voor de behandeling van een aanvraagdossier tot erkenning als certificatie-instelling asbest bedraagt duizendtweehonderd euro.
+Het bedrag van de retributie voor de behandeling van een aanvraagdossier tot erkenning als certificatie-instelling asbest bedraagt 1387 euro (duizend driehonderdzevenentachtig euro).
 
 ### ART 3.
 
