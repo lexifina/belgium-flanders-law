@@ -21,6 +21,19 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## Hoofdstuk 1. Wijzigingen van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap
 
+### ART 1.
+
+In artikel 9, §4, van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, ingevoegd bij het besluit van de Vlaamse Regering van 20 november 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zin “Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, § 1, eerste lid, 1°, of § 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld in de collectieve arbeidsovereenkomsten inzake de toekenning van een jaarlijkse eindejaarspremie die zijn afgesloten in het paritair comité 337.” vervangen door de zin “Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, §1, eerste lid, 1°, of §2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie waarvan het bedrag is vastgesteld in de collectieve arbeidsovereenkomsten over de toekenning van een jaarlijkse eindejaarspremie, die zijn gesloten in het paritair comité 337.”;<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
+“De eindejaarspremie, vermeld in het eerste lid, kan niet gecombineerd worden met een eenmalige premie.”.
+
+### ART 2.
+
+In artikel 10 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 juni 2022 en gewijzigd bij de besluiten van de Vlaamse Regering van 17 februari 2023 en 19 januari 2024, wordt een paragraaf 4/1 ingevoegd, die luidt als volgt:<br>
+<br>
+“§4/1. De kosten voor een eenmalige premie kunnen met het PAB maximaal worden vergoed tot het bedrag van de eindejaarspremie dat is vastgesteld in de collectieve arbeidsovereenkomsten over de toekenning van een jaarlijkse eindejaarspremie, die zijn gesloten in het paritair comité 337.”.
+
 ## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap
 
 ### ART 3.
@@ -81,6 +94,18 @@ Onder de procedures, vermeld in het eerste lid, worden de volgende procedures ve
 
 ## Hoofdstuk 4. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
+### ART 10.
+
+In artikel 23, §3, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, ingevoegd bij het besluit van de Vlaamse Regering van 11 december 2020, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid wordt de zin “In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld binnen het paritair comité 337.” vervangen door de zin “In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie waarvan het bedrag is vastgesteld binnen het paritair comité 337.”;<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
+“De eindejaarspremie, vermeld in het eerste lid, kan niet gecombineerd worden met een eenmalige premie.”.
+
+### ART 11.
+
+Aan artikel 24 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 8 juni 2018, 5 maart 2021 en 23 februari 2024, wordt een punt 19° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“19° de kosten voor een eenmalige premie tot maximaal de eindejaarspremie waarvan het bedrag is vastgesteld binnen het paritair comité 337.”.
+
 ## Hoofdstuk 5. Wijzigingen van het besluit van de Vlaamse Regering van 21 december 2018 betreffende de huur van hulpmiddelen voor communicatie, computerbediening en omgevingsbedieningen voor personen met een snel degeneratieve aandoening
 
 ### ART 12.
@@ -91,3 +116,15 @@ In artikel 3, §1, van het besluit van de Vlaamse Regering van 21 december 2018 
 2° in het bestaande vijfde lid, dat het zesde lid wordt, worden de woorden “vermeld in het tweede lid” vervangen door de zinsnede “die is opgenomen in bijlage 1, die bij dit besluit is gevoegd”.
 
 ## Hoofdstuk 6. Slotbepalingen
+
+### ART 13.
+
+Artikel 3, 4, 5, 6, 7 en 12 hebben uitwerking met ingang van 1 januari 2025.&nbsp;<br>
+<br>
+Artikel 8 heeft uitwerking met ingang van 1 januari 2024.&nbsp;<br>
+<br>
+Artikel 9 heeft uitwerking met ingang van 1 januari 2021.&nbsp;
+
+### ART 14.
+
+De Vlaamse minister, bevoegd voor personen met een beperking, is belast met de uitvoering van dit besluit.&nbsp;

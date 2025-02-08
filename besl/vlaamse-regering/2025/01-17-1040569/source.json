@@ -2,16 +2,16 @@
   "codex_id": 1040569,
   "title": "Besluit van de Vlaamse Regering van 2025-01-17 tot wijziging van diverse besluiten van de Vlaamse Regering over de ondersteuning van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040569/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "7171d63c6b13e439a79dd70dabfde0e443e35caae7a5e2fad3b0e7ccff758d00",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040569/VolledigDocument?datum=2025-02-08",
+  "source_sha256": "945ace0cb45eb37e53cdc3b0c78264912f2bb141636189b11af12e863c1c5f39",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040569&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2025-02-08",
   "made": "2025-01-17",
   "gazette": "2025-01-29",
   "numac": 2025000705,
   "document_start": null,
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-02-08",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2025-02-08; future article versions excluded; article text as the API gives it"
 }
