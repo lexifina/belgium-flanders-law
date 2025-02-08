@@ -155,7 +155,9 @@ Als het met toepassing van het eerste lid berekende bedrag voor het jaar x lager
 <br>
 De verhoging van het maximumbudget, vermeld in het eerste lid, kan alleen worden aangewend voor de vergoeding van de kosten, vermeld in het eerste lid.<br>
 <br>
-§ 4. Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, § 1, eerste lid, 1°, of § 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld in de collectieve arbeidsovereenkomsten inzake de toekenning van een jaarlijkse eindejaarspremie die zijn afgesloten in het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+§ 4. Als de budgethouder een overeenkomst sluit als vermeld in artikel 12, §1, eerste lid, 1°, of §2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie waarvan het bedrag is vastgesteld in de collectieve arbeidsovereenkomsten over de toekenning van een jaarlijkse eindejaarspremie, die zijn gesloten in het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+<br>
+De eindejaarspremie, vermeld in het eerste lid, kan niet gecombineerd worden met een eenmalige premie.<br>
 <br>
 Het agentschap vraagt met het oog op de berekening en de betaling van de tegemoetkoming voor de eindejaarspremie, vermeld in het eerste lid, de volgende gegevens op bij de Rijksdienst voor de Sociale Zekerheid:<br>
 1° de identificatiegegevens van de budgethouders die overeenkomsten als vermeld in het eerste lid hebben gesloten;<br>
@@ -203,6 +205,8 @@ Budgethouders kunnen pas een kostenstaat met bedragen die ze hebben besteed, met
 § 3. Het PAB kan worden aangewend om de kosten die verband houden met de inzet van hoogdrempelige individuele bijstand te vergoeden.<br>
 <br>
 § 4. De kosten voor vervoer van de persoon met een handicap kunnen met het PAB worden vergoed met uitzondering van de kosten voor vervoer in verband met de schoolaanvullende of schoolvervangende dagopvang door een multifunctioneel centrum die wordt gesubsidieerd krachtens een andere reglementering op het gebied van de maatschappelijk integratie van personen met een handicap.<br>
+<br>
+§4/1. De kosten voor een eenmalige premie kunnen met het PAB maximaal worden vergoed tot het bedrag van de eindejaarspremie dat is vastgesteld in de collectieve arbeidsovereenkomsten over de toekenning van een jaarlijkse eindejaarspremie, die zijn gesloten in het paritair comité 337.<br>
 <br>
 § 5. Het PAB kan worden aangewend om de volgende bijstand die wordt verleend door een multifunctioneel centrum te vergoeden als die bijstand al niet wordt vergoed krachtens andere reglementering op het gebied van de maatschappelijke integratie van personen met een handicap:<br>
 1° 155 nachten verblijf per kalenderjaar;<br>
