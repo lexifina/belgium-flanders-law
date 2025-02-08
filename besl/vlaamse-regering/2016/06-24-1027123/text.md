@@ -366,14 +366,16 @@ Budgethouders kunnen pas een kostenstaat met bedragen die ze vrij hebben besteed
 §1. Als budgethouders in het kader van de besteding van het budget als cashbudget een arbeidsovereenkomst sluiten, voldoen ze aan hun fiscale en sociaal-rechterlijke verplichtingen als werkgever, aan de bepalingen over de verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01 en aan de bepalingen over het minimumloon en de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337.<br>
 <br>
 §2. Als budgethouders een beroep willen doen op een minderjarige voor het bieden van zorg en ondersteuning, kan dat alleen in het kader van een van de volgende overeenkomsten :<br>
-1° een overeenkomst voor tewerkstelling van studenten als vermeld in Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De budgethouder voldoet als werkgever aan alle fiscale en sociaal rechtelijke verplichtingen, de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01 en de bepalingen over de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337;<br>
+1° een overeenkomst voor tewerkstelling van studenten als vermeld in Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De budgethouder voldoet als werkgever aan alle fiscale en sociaal rechtelijke verplichtingen, de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01 en de bepalingen over&nbsp; de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337;<br>
 2° een overeenkomst met een organisatie die vrijwilligers ter beschikking stelt.<br>
 <br>
 Vóór de ingangsdatum van een overeenkomst als vermeld in het eerste lid, 1°, moet de budgethouder het schriftelijke bewijs van de machtiging door een ouder of de voogd, vermeld in artikel 43 van de wet van 3 juli 1978 betreffende arbeidsovereenkomsten, aan het agentschap bezorgen. Het agentschap stelt een model voor de machtiging ter beschikking.<br>
 <br>
 De budgethouder bezorgt een machtiging door een ouder of de voogd aan het agentschap voor de ingangsdatum van de overeenkomst, vermeld in het eerste lid, 2°. Het agentschap stelt een model voor de machtigingen ter beschikking.<br>
 <br>
-§3. In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld binnen het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+§3. In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie waarvan het bedrag is vastgesteld binnen het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+<br>
+De eindejaarspremie, vermeld in het eerste lid, kan niet gecombineerd worden met een eenmalige premie.<br>
 <br>
 Het agentschap vraagt met het oog op de berekening en de betaling van de tegemoetkoming voor de eindejaarspremie, vermeld in het tweede lid, de volgende gegevens op bij de Rijksdienst voor de Sociale Zekerheid :<br>
 1° de identiteit van de budgethouders die overeenkomsten als vermeld in het eerste lid hebben afgesloten;<br>
@@ -408,7 +410,8 @@ De volgende kosten worden in het kader van de verantwoording van de besteding va
 15° de kosten voor het verlenen van zorg en ondersteuning op basis van een overeenkomst die gesloten wordt met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 16° de kosten die voortvloeien uit een overeenkomst met een natuurlijke persoon of met een rechtspersoon over het verlenen individuele ondersteuningsfuncties;<br>
 17° de kosten voor zorg en ondersteuning die voortvloeien uit een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor hoogstens vijftien personen met een handicap per dag en waarbij minimaal één derde van de leden van de organen van die rechtspersoon mantelzorgers of familie tot de tweede graad zijn van de personen met een handicap die worden ondersteund;<br>
-18° de gebruikersbijdrage voor zorg en ondersteuning die aangerekend wordt door een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin en die zorg en ondersteuning verleent op basis van een overeenkomst als vermeld in artikel 7, 2°, j.<br>
+18° de gebruikersbijdrage voor zorg en ondersteuning die aangerekend wordt door een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin en die zorg en ondersteuning verleent op basis van een overeenkomst als vermeld in artikel 7, 2°, j;<br>
+19° de kosten voor een eenmalige premie tot maximaal de eindejaarspremie waarvan het bedrag is vastgesteld binnen het paritair comité 337.<br>
 &nbsp;
 
 ## HOOFDSTUK 7 Stopzetten van het budget
