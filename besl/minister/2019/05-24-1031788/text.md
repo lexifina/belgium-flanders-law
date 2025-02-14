@@ -19,7 +19,7 @@ Besluit :
 
 ### ART 1.
 
-De volgende statutaire en contractuele personeelsleden van de subentiteit bevoegd voor het dierenwelzijn van het Departement Omgeving van de Vlaamse overheid worden overeenkomstig artikel 34, § 1, eerste lid, 2° van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren aangewezen:<br>
+De volgende statutaire en contractuele personeelsleden van de subentiteit bevoegd voor het dierenwelzijn van het Departement Omgeving van de Vlaamse overheid worden overeenkomstig&nbsp;artikel 64, § 1, eerste lid, 2° van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 aangewezen:<br>
 1° Lien Hebbelinck;<br>
 2° Hanne Coenen;<br>
 3° Sabine Colle;<br>
@@ -32,7 +32,7 @@ De volgende statutaire en contractuele personeelsleden van de subentiteit bevoeg
 10° Kristien Henckaerts;<br>
 11° Ann Lamberechts;<br>
 12° Joeri Larivière;<br>
-13° ...;<br>
+13° Chloé Janssen;<br>
 14° Yves Opsomer;<br>
 15° Sarah Rimaux;<br>
 16° Eveline Roose;<br>
