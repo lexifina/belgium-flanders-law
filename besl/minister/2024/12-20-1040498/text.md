@@ -116,18 +116,16 @@ In uitvoering van de meerjarenplannen, gebeuren de aanlandingen van die vissoort
 7° voor steenbolk: 20 cm lengte;<br>
 8° voor gehele zeeduivel: 500 g gewicht;<br>
 9° voor gekopte zeeduivel: 200 g gewicht;<br>
-10° voor tong: 25 cm lengte;<br>
+10° voor tong: 24 cm lengte;<br>
 11° voor schar: 23 cm lengte.<br>
 <br>
 Het vermarkten voor directe menselijke consumptie van de in het eerste lid vermelde soorten is verboden, als ze niet de in de Europese regelgeving en de in het eerste lid vastgestelde minimuminstandhoudingsreferentiegroottes hebben.<br>
 <br>
 Het aan boord houden en de aanvoer in havens van de Europese Unie van soorten, in een presentatievorm die controle op de minimuminstandhoudingsreferentiegroottes in de Europese of Vlaamse wetgeving onmogelijk maakt, is verboden.<br>
 <br>
-In de Belgische visafslagen mag de nationale sortering voor tong gekend als tong 8 (productgewicht kleiner dan 120 g), en de nationale sortering voor zeeduivelstaarten gekend onder zeeduivelstaart 6 (productgewicht kleiner dan 200 g) niet gecommercialiseerd worden. De hoeveelheden van de vangsten die onder deze sortering vallen, mogen niet voor menselijke consumptie verkocht worden en dienen voor de aanvang van de veiling of op uitdrukkelijk verzoek van de toezichthouders van de bevoegde autoriteit, door de visafslag gedenatureerd te worden.<br>
+In de Belgische visafslagen mag de nationale sortering voor zeeduivelstaarten gekend onder zeeduivelstaart 6 (productgewicht kleiner dan 200 g) niet gecommercialiseerd worden. De hoeveelheden van de vangsten die onder deze sortering vallen, mogen niet voor menselijke consumptie verkocht worden en dienen voor de aanvang van de veiling of op uitdrukkelijk verzoek van de toezichthouders van de bevoegde autoriteit, door de visafslag gedenatureerd te worden.<br>
 <br>
-De onderste instelling van de automatische sorteermachines, die op de visafslagen gebruikt worden, wordt vastgelegd op respectievelijk 120 g voor tong en 200 g voor gekopte zeeduivel.<br>
-<br>
-In afwijking van het eerste lid, punt 10, is de aanvoerlengte van 25 cm voor tong niet van toepassing voor een vissersvaartuig met een motorvermogen van 221 kW of minder en een bruto-tonnenmaat van niet meer dan 80 GT en voor visreizen, die volledig in het ICES-gebied IVc plaatsvinden.<br>
+De onderste instelling van de automatische sorteermachines, die op de visafslagen gebruikt worden, wordt vastgelegd op 200 g voor gekopte zeeduivel.<br>
 <br>
 §2. Voor de soorten waarvoor geen Europese conversiefactoren vastgesteld zijn, worden volgende conversiefactoren gebruikt voor de berekening van het levend gewicht op basis van het verwerkt gewicht:<br>
 1° factor 1,18 voor gegutte rondvis;<br>
@@ -183,7 +181,7 @@ De registratie van visuren in het elektronisch logboek is verplicht.
 
 §1. Het systeem van beperking van het aantal communautaire zeedagen in het ICES-gebied VIIe ingesteld overeenkomstig bijlage II van Verordening (EU) 2024/257 van de Raad van 10 januari 2024 tot vaststelling, voor 2024, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, is van toepassing in januari 2025.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
-Het aantal communautaire zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van Verordening (EU) 2025/ van de Raad tot vaststelling, voor 2025, van de vangstmogelijkheden voor bepaalde visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, wordt toegekend voor de periode van 1 februari 2025 tot en met 31 januari 2026.<br>
+Het aantal communautaire zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van&nbsp;Verordening (EU) 2025/202 van de Raad van 30 januari 2025 tot vaststelling, voor 2025 en 2026, van de vangstmogelijkheden voor bepaalde visbestanden die in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, en tot wijziging van Verordening (EU) 2024/257 wat betreft vangstmogelijkheden voor 2025, wordt toegekend voor de periode van 1 februari 2025 tot en met 31 januari 2026.<br>
 &nbsp;&nbsp; &nbsp;<br>
 In het ICES-gebied VIIe is de overdracht van communautaire zeedagen tussen individuele vissersvaartuigen verboden.<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -191,7 +189,7 @@ In het ICES-gebied VIIe is de overdracht van communautaire zeedagen tussen indiv
 &nbsp;&nbsp; &nbsp;<br>
 §3. Bij de overschrijding van de grenzen in het ICES-gebied VIIe, registreren de kapiteins van vissersvaartuigen in hun elektronisch logboek de dag, het tijdstip en de positie van de overschrijding.<br>
 &nbsp;&nbsp; &nbsp;<br>
-De visvergunning van vissersvaartuigen die hun aantal communautaire zeedagen in het gebied VIIe overschrijden, kan voor minstens vijf opeenvolgende dagen worden ingetrokken door de bevoegde entiteit. De vismachtiging VIIe, afgeleverd overeenkomstig bijlage II van Verordening (EU) 2025/ van de Raad tot vaststelling, voor 2025, van de vangstmogelijkheden voor bepaalde visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, en tot vaststelling, voor 2026 en 2027, van dergelijke vangstmogelijkheden, wordt bovendien in 2026 slechts voor zes maanden toegekend.
+De visvergunning van vissersvaartuigen die hun aantal communautaire zeedagen in het gebied VIIe overschrijden, kan voor minstens vijf opeenvolgende dagen worden ingetrokken door de bevoegde entiteit. De vismachtiging VIIe, afgeleverd overeenkomstig bijlage II van Verordening (EU) 2025/202 van de Raad van 30 januari 2025 tot vaststelling, voor 2025 en 2026, van de vangstmogelijkheden voor bepaalde visbestanden die in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, en tot wijziging van Verordening (EU) 2024/257 wat betreft vangstmogelijkheden voor 2025, en tot vaststelling, voor 2026 en 2027, van dergelijke vangstmogelijkheden, wordt bovendien in 2026 slechts voor zes maanden toegekend.
 
 ## Afdeling 3. Vaartdagen
 
@@ -255,7 +253,7 @@ In afwijking van het eerste lid is het vanaf 1 februari 2025 tot en met 31 oktob
 <br>
 Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen tegen uiterlijk 6 januari 2025, 12.00 uur, met een aangetekende brief of per e-mail een aanvraag tot de bevoegde entiteit.<br>
 <br>
-Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong in de ICES-gebieden VIIf, g voor de periode 1 februari 2025 tot en met 31 oktober 2025, 5000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
+Behoudens herziening door de bevoegde entiteit bedraagt de toegewezen hoeveelheid tong in de ICES-gebieden VIIf, g voor de periode 1 februari 2025 tot en met 31 oktober 2025, 6000 kg per vaartuig dat op de lijst, vermeld in het tweede lid, wordt opgenomen.<br>
 &nbsp;<br>
 Bij overschrijding van de hoeveelheden tong, vermeld in het vierde lid, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht.<br>
 <br>
