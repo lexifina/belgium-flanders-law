@@ -7489,7 +7489,8 @@ a)&nbsp;&nbsp; &nbsp;het INSZ-nummer;<br>
 b)&nbsp;&nbsp; &nbsp;het aantal gepresteerde en gelijkgestelde dagen en voor de periode van deeltijdse tewerkstelling het aantal gepresteerde en gelijkgestelde uren;<br>
 c)&nbsp;&nbsp; &nbsp;het aantal niet-gelijkgestelde dagen of uren;<br>
 d)&nbsp;&nbsp; &nbsp;het statuut: loontrekkende of statutair;<br>
-e)&nbsp;&nbsp; &nbsp;als het gaat om een nieuw personeelslid of als een einde is gesteld aan de tewerkstelling: de begindatum en in voorkomend geval de einddatum.<br>
+e)&nbsp;&nbsp; &nbsp;als het gaat om een nieuw personeelslid of als een einde is gesteld aan de tewerkstelling: de begindatum en in voorkomend geval de einddatum;<br>
+f) de voor- en achternaam.<br>
 <br>
 Naast de gegevens, vermeld in het eerste lid, bezorgt het woonzorgcentrum de volgende documenten aan de administratie op eerste verzoek:<br>
 1°&nbsp;&nbsp; &nbsp;een kopie van de RSZ-aangifte waarin de personeelsleden in kwestie zijn opgenomen;<br>
@@ -7532,7 +7533,8 @@ a)&nbsp;&nbsp; &nbsp;het INSZ-nummer;<br>
 b)&nbsp;&nbsp; &nbsp;het aantal gepresteerde en gelijkgestelde dagen en voor de periode van deeltijdse tewerkstelling het aantal gepresteerde en gelijkgestelde uren;<br>
 c)&nbsp;&nbsp; &nbsp;het aantal niet-gelijkgestelde dagen of uren;<br>
 d)&nbsp;&nbsp; &nbsp;het statuut: loontrekkende of statutair;<br>
-e)&nbsp;&nbsp; &nbsp;als het gaat om een nieuw personeelslid of als een einde is gesteld aan de tewerkstelling: de begindatum en in voorkomend geval de einddatum.<br>
+e)&nbsp;&nbsp; &nbsp;als het gaat om een nieuw personeelslid of als een einde is gesteld aan de tewerkstelling: de begindatum en in voorkomend geval de einddatum;<br>
+f)&nbsp; &nbsp; &nbsp;de voor- en achternaam.<br>
 <br>
 Naast de gegevens, vermeld in het eerste lid, bezorgt het woonzorgcentrum de volgende documenten aan de administratie op eerste verzoek:<br>
 1°&nbsp;&nbsp; &nbsp;een kopie van de RSZ-aangifte waarin de personeelsleden in kwestie zijn opgenomen;<br>
