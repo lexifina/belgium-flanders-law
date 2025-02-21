@@ -2,16 +2,16 @@
   "codex_id": 1037436,
   "title": "Besluit van de Vlaamse Regering van 2022-09-09 over wegcontroles en controles ter plaatse bij ondernemingen van alle vervoerscategorieën inzake voorschriften van sociale aard voor het wegvervoer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037436/VolledigDocument?datum=2022-10-14",
-  "source_sha256": "ff88168697ca5806826353cdce86880f9bf36dd3f555edc80586d716ed490455",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037436/VolledigDocument?datum=2025-02-21",
+  "source_sha256": "36c9ced6f7b9d164495822aec03a98e73876c311056092814276bcbf8b95567e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037436&param=informatie",
-  "as_of": "2022-10-14",
+  "as_of": "2025-02-21",
   "made": "2022-09-09",
   "gazette": "2022-10-04",
   "numac": 2022033501,
   "document_start": "2022-10-14",
   "document_end": null,
-  "in_force": "2022-10-14",
+  "in_force": "2025-02-21",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2022-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-02-21; future article versions excluded; article text as the API gives it"
 }

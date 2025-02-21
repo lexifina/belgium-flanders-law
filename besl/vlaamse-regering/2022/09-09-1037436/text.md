@@ -184,4 +184,201 @@ De Vlaamse minister, bevoegd voor de fiscaliteit, en de Vlaamse minister, bevoeg
 
 ### BIJLAGE
 
-Bijlage. Lijst met inbreuken als vermeld in artikel 15, tweede lid (<a href="https://www.ejustice.just.fgov.be/mopdf/2022/10/04_1.pdf#page=70">link naar de bijlage</a>)
+Lijst met inbreuken als vermeld in artikel 15, tweede lid<br>
+&nbsp;
+<table style="width:603px">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="vertical-align:top; width:145px">RECHTSGRONDSLAG</td>
+			<td rowspan="2" style="vertical-align:top; width:238px">SOORT INBREUK</td>
+			<td colspan="3" style="vertical-align:top; width:221px">ERNST</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:91px">ERNSTIGSTE</td>
+			<td style="vertical-align:top; width:65px">HEEL ERNSTIG</td>
+			<td style="vertical-align:top; width:65px">ERNSTIG</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="vertical-align:top; width:603px">Installatie van de tachograaf</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;3, lid 1, 4 en 4bis, en artikel&nbsp;22 van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">geen tachograaf met typegoedkeuring geïnstalleerd en in gebruik</td>
+			<td style="vertical-align:top; width:91px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="vertical-align:top; width:603px">Gebruik van tachografen, bestuurderskaarten en registratiebladen</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;23, lid&nbsp;1, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">gebruik van een tachograaf die niet door een erkende werkplaats is gecontroleerd</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="vertical-align:top; width:145px">artikel&nbsp;27 van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De bestuurder bezit/gebruikt meer dan een bestuurderskaart.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">rijden met een vervalste bestuurderskaart (<em>geldt als rijden zonder bestuurderskaart</em>)</td>
+			<td style="vertical-align:top; width:91px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">rijden met de bestuurderskaart van een andere bestuurder (<em>geldt als rijden zonder bestuurderskaart</em>)</td>
+			<td style="vertical-align:top; width:91px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">rijden met een bestuurderskaart die is verkregen op grond van foute verklaringen en/of vervalste documenten (<em>geldt als rijden zonder bestuurderskaart</em>)</td>
+			<td style="vertical-align:top; width:91px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;32, lid&nbsp;1, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De tachograaf werkt niet correct (<em>bv. de tachograaf is niet correct geïnspecteerd, gekalibreerd en verzegeld</em>).</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;32, lid&nbsp;1, en artikel&nbsp;33, lid&nbsp;1, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De tachograaf is niet correct gebruikt (<em>bv. doelbewust, vrijwillig of verplicht misbruik, ontbreken van instructies over correct gebruik enz.</em>).</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align:top; width:145px">artikel&nbsp;32, lid&nbsp;3, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">aanwezigheid in het voertuig en/of gebruik van een frauduleus apparaat dat de geregistreerde gegevens van de tachograaf kan wijzigen</td>
+			<td style="vertical-align:top; width:91px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">vervalsen, verbergen, schrappen of vernietigen van gegevens die zijn opgeslagen op de registratiebladen, of van gegevens die zijn opgeslagen of gedownload van de tachograaf en/of bestuurderskaart</td>
+			<td style="vertical-align:top; width:91px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align:top; width:145px">artikel 33, lid 2, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De onderneming houdt de registratiebladen, print-outs en gedownloade gegevens niet bij.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">Geregistreerde en opgeslagen gegevens zijn niet beschikbaar gedurende minstens een jaar.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="vertical-align:top; width:145px">artikel 34, lid 1, van Verordening (EU) nr. 165/2014<br>
+			&nbsp;</td>
+			<td style="vertical-align:top; width:238px">incorrect gebruik van registratiebladen/bestuurderskaart</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">niet-toegestane intrekking van registratiebladen of bestuurderskaart, met gevolgen voor de registratie van relevante gegevens</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:238px">Het registratieblad of de bestuurderskaart is gebruikt gedurende een langere periode dan die waarvoor ze bestemd is, en er zijn gegevens verloren gegaan.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel 34, lid 2, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">gebruik van vuile of beschadigde registratiebladen of bestuurderskaarten, met onleesbare gegevens</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel 34, lid 4, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">Het registratieblad of de bestuurderskaart is niet in het correcte slot gebruikt (meervoudige bemanning).</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="vertical-align:top; width:603px">Voorleggen van informatie</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel 34, lid 6, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De vereiste informatie is niet aangebracht op het registratieblad.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel 34, lid 7, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De bestuurder heeft de symbolen van de landen waarvan hij de grenzen tijdens zijn dagelijkse werktijd heeft overschreden, niet vermeld.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel 34, lid 7, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De bestuurder heeft de symbolen van de landen waar de werkperiode van de dag is begonnen en beëindigd, niet vermeld.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;36 van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">controle weigeren</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;36 van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De bestuurder kan de handmatig opgetekende gegevens en de afdrukken van de lopende dag en van de voorgaande 28 dagen niet overleggen (tot en met 30 december 2024).<br>
+			De bestuurder kan de handmatig opgetekende gegevens en de afdrukken van de lopende dag en van de voorgaande 56 dagen niet overleggen (vanaf 31 december 2024).</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;36 van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De bestuurder beschikt over een bestuurderskaart, maar kan die niet voorleggen.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="vertical-align:top; width:603px">Storingen</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;37, lid&nbsp;1, en artikel&nbsp;22, lid&nbsp;1, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De tachograaf is niet hersteld door een erkende installateur of werkplaats.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:145px">artikel&nbsp;37, lid&nbsp;2, van Verordening (EU) nr. 165/2014</td>
+			<td style="vertical-align:top; width:238px">De bestuurder vermeldt niet alle vereiste informatie tijdens de tijdvakken die niet meer worden geregistreerd omdat de tachograaf onbruikbaar of defect is.</td>
+			<td style="vertical-align:top; width:91px">&nbsp;</td>
+			<td style="vertical-align:top; width:65px">X</td>
+			<td style="vertical-align:top; width:65px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
