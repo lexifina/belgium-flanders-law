@@ -16,7 +16,7 @@ DE VLAAMSE MINISTER VAN OMGEVING EN LANDBOUW BESLUIT:
 
 ### ART 1.
 
-De uiterlijke datum voor het indienen van een aanvraag van een vergoeding voor een oranje bedrijf, vermeld in artikel 8, §2, eerste lid, van het besluit van de Vlaamse Regering van 20 september 2024 over het flankerend beleid ter uitvoering van de programmatische aanpak stikstof, wordt verlengd tot en met 28 februari 2025.
+De uiterlijke datum voor het indienen van een aanvraag van een vergoeding voor een oranje bedrijf, vermeld in artikel 8, §2, eerste lid, van het besluit van de Vlaamse Regering van 20 september 2024 over het flankerend beleid ter uitvoering van de programmatische aanpak stikstof, wordt verlengd tot en met 1 september&nbsp; 2025.
 
 ### ART 2.
 
