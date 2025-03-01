@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040656,
+  "title": "Ministerieel besluit van 2025-02-21 tot wijziging van het ministerieel besluit van 30 april 2019 houdende vaststelling van de minimale kwaliteitseisen voor de multidisciplinaire teams die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap wat betreft de definitie van hulpmiddelendeskundige",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040656/VolledigDocument?datum=2025-03-01",
+  "source_sha256": "59f97adc7dbf219d6ef3c7c8e987fd437019e25281d91de07b31f5db574cec09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040656&param=informatie",
+  "as_of": "2025-03-01",
+  "made": "2025-02-21",
+  "gazette": "2025-03-14",
+  "numac": 2025002160,
+  "document_start": "2025-03-01",
+  "document_end": null,
+  "in_force": "2025-03-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
