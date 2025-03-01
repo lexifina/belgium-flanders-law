@@ -1,5 +1,9 @@
 # Decreet van 2025-07-18 over de lerenden en de organisatie in het onderwijs
 
+### ART 19.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 april 2024, wordt afdeling VIII, die bestaat uit artikel 72bis tot en met 72septies, opgeheven.
+
 ### ART 75.
 
 Aan artikel IV.35/2 van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, ingevoegd bij het decreet van 7 juli 2023, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
