@@ -52,4 +52,4 @@ De aanvrager van een subsidie als vermeld in artikel 42/1, legt, samen met de aa
 
 ### ART 3.
 
-Artikel 2 treedt in werking op een datum die de minister bepaalt en uiterlijk 1 maart 2025.
+Artikel 2 treedt in werking op 1 maart 2026.
