@@ -417,7 +417,7 @@ De bepalingen in paragraaf 2 en 3 zijn niet van toepassing voor Golfrog.&nbsp;
 
 §1. Het is voor een vissersvaartuig in de ICES-gebieden II, IV, verboden bij makreelvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis.<br>
 <br>
-De makreelvangsten in andere ICES-gebieden zijn verboden.&nbsp;<br>
+Het is voor een vissersvaartuig in de ICES-gebieden VII, VIIIab, verboden bij makreelvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis.&nbsp;<br>
 <br>
 §2. In de ICES-gebieden IV en VIId, zijnde Noordzee en Oostelijk Engels Kanaal, is het voor een vissersvaartuig verboden bij de haringvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis.<br>
 <br>
