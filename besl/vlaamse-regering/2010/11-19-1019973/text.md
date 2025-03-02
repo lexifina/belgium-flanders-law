@@ -64,14 +64,14 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 41°&nbsp;...<br>
 42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van het beleidsdomein Omgeving;<br>
 43° bevoegde afdeling :<br>
-a) voor de erkenning, vermeld in artikel 6, 1°, a) tot en met e) en g, 2°, d, 3°, 4°, a) en e) en 5°, a) tot en met c): het departement;<br>
+a) voor de erkenning, vermeld in artikel 6, 1°, a) tot en met e), en g), 2°, d), 3°, 4°, a) en e), en 5°, a) en b): de afdeling van het departement, bevoegd voor erkenningen;<br>
 b) voor de erkenning, vermeld in artikel 6, 1°, f), 2°, a) tot en met b) en e) tot en met i), 4°, b) tot en met d), f), en h) tot en met l), 7°, b) en c), en 8° : het Vlaams Energie- en Klimaatagentschap;<br>
-c) voor de erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
+c) voor de erkenning, vermeld in artikel 6, 5°, c) en d): de Mestbank;<br>
 d) voor de erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
 e) voor de erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
 f) voor de erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de entiteit binnen de VMM die bevoegd is voor de erkenning van boorbedrijven;<br>
-g) voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid: het departement;<br>
-h) voor de registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan: de Mestbank;<br>
+g) voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid of de registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan: de Mestbank;<br>
+h) ...;<br>
 i) voor de erkenning, vermeld in artikel 6, 1°, h): de entiteit binnen de VMM die bevoegd is voor de erkenning van deskundigen overstromingsattest;<br>
 44° ...<br>
 45° titel III van het VLAREM : het besluit van de Vlaamse Regering van 16 mei 2014 houdende bijkomende algemene en sectorale milieuvoorwaarden voor GPBV-installaties;<br>
@@ -172,7 +172,7 @@ Een laboratorium in de discipline water kan erkend worden voor een of meer van d
 4) drinkwater;<br>
 De minister kan de deeldomeinen voor een pakket vastleggen;<br>
 b) laboratorium in de discipline lucht voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses in het kader van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, en de uitvoeringsbesluiten ervan, en titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
-c) laboratorium in de discipline bodem, deeldomein bodembescherming, voor het nemen van monsters en het uitvoeren van metingen en analyses in het kader van de bodembescherming,&nbsp;vermeld in artikel 59, § 1 en artikel 60, § 4, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid voor het pakket, vermeld in bijlage 3, 3°, die bij dit besluit is gevoegd.<br>
+c) laboratorium in de discipline bodem, deeldomein bodembescherming, voor het nemen van monsters en het uitvoeren van metingen en analyses in het kader van de bodembescherming, vermeld in artikel 54 en artikel 57, §2 van het besluit van de Vlaamse Regering 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid voor het pakket, vermeld in bijlage 3, 3°, die bij dit besluit is gevoegd;<br>
 d) laboratorium in de discipline bodem, deeldomein bemesting, de discipline mest en de discipline diervoeder, voor het nemen van monsters en het uitvoeren van analyses op bodem, meststoffen en diervoeders in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 e) laboratorium in de discipline afvalstoffen en andere materialen voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses ter uitvoering van&nbsp;titel&nbsp;II en III van het VLAREM en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<br>
 f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodem ter uitvoering van het Bodemdecreet en zijn uitvoeringsbesluiten en de toepassing van die analyses ter uitvoering van titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
@@ -331,7 +331,18 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus vo
 
 ### ART. 18.
 
-§ 1. De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de   milieucoördinator, vermeld in artikel 6, 3°, a), voor het uitoefenen van de   functie bij inrichtingen, aangeduid met de kenletter A in de vijfde kolom van de   lijst van de als hinderlijk beschouwde inrichtingen, vastgesteld in de   indelingslijst vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid:<BR>1° een natuurlijke persoon   zijn;<BR>2° de graad van master of een daarmee gelijkgeschakelde graad   bezitten;<BR>3° in het bezit zijn van een getuigschrift van aanvullende vorming   voor milieucoördinatoren van het eerste niveau of van het overgangsniveau dat,   nadat de persoon het vastgelegde onderricht heeft gevolgd en geslaagd is voor   het examen, vermeld in bijlage 2, die bij dit besluit is gevoegd, uitgereikt is   door een erkend opleidingscentrum als vermeld in artikel 6, 4°, a) ;<BR>4°   minstens één jaar praktische ervaring in het beheersen en voorkomen van   milieuhinder en risico's op bedrijfsniveau verworven hebben binnen vijf jaar   voorafgaand aan de erkenningsaanvraag.<BR><BR>§ 2. De hierna vermelde bijzondere   erkenningsvoorwaarden gelden voor de milieucoördinator, vermeld in artikel 6,   3°, a), voor het uitoefenen van de functie bij inrichtingen, aangeduid met de   kenletter B in de vijfde kolom van de lijst van de als hinderlijk beschouwde   inrichtingen, vastgesteld in de indelingslijst vermeld in artikel 5.2.1, § 1,   van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid:<BR>1° een natuurlijke persoon zijn;<BR>2° minstens de graad van   bachelor of een daarmee gelijkgeschakelde graad bezitten;<BR>3° in het bezit   zijn van een getuigschrift van aanvullende vorming voor milieucoördinatoren van   het tweede niveau dat, nadat de persoon het vastgelegde onderricht heeft gevolgd   en geslaagd is voor het examen, vermeld in bijlage 2, die bij dit besluit is   gevoegd, uitgereikt is door een erkend opleidingscentrum als vermeld in artikel   6, 4°, a) ;<BR>4° minstens één jaar praktische ervaring in het beheersen en   voorkomen van milieuhinder en risico's op bedrijfsniveau verworven hebben binnen   vijf jaar voorafgaand aan de erkenningsaanvraag.<BR><BR>
+§ 1. De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de milieucoördinator, vermeld in artikel 6, 3°, a), voor het uitoefenen van de functie bij inrichtingen, aangeduid met de kenletter A in de vijfde kolom van de lijst van de als hinderlijk beschouwde inrichtingen, vastgesteld in de indelingslijst vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid:<br>
+1° een natuurlijke persoon zijn;<br>
+2° de graad van master of een daarmee gelijkgeschakelde graad bezitten;<br>
+3° in het bezit zijn van een getuigschrift van aanvullende vorming voor milieucoördinatoren van het eerste niveau of van het overgangsniveau dat, nadat de persoon het vastgelegde onderricht heeft gevolgd en geslaagd is voor het examen, vermeld in bijlage 2, die bij dit besluit is gevoegd, uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, a) ;<br>
+4° ...<br>
+<br>
+§ 2. De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de milieucoördinator, vermeld in artikel 6, 3°, a), voor het uitoefenen van de functie bij inrichtingen, aangeduid met de kenletter B in de vijfde kolom van de lijst van de als hinderlijk beschouwde inrichtingen, vastgesteld in de indelingslijst vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid:<br>
+1° een natuurlijke persoon zijn;<br>
+2° minstens de graad van bachelor of een daarmee gelijkgeschakelde graad bezitten;<br>
+3° in het bezit zijn van een getuigschrift van aanvullende vorming voor milieucoördinatoren van het tweede niveau dat, nadat de persoon het vastgelegde onderricht heeft gevolgd en geslaagd is voor het examen, vermeld in bijlage 2, die bij dit besluit is gevoegd, uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, a) ;<br>
+4° ...<br>
+&nbsp;
 
 ### ART. 19.
 
@@ -557,33 +568,30 @@ c) de gegevens en verklaringen die bewijzen dat voldaan is aan de van toepassing
 4° in voorkomend geval, de vermelding dat de termijn, vermeld in 3°, pas begint te lopen op het moment dat alle ontbrekende documenten zijn ingediend;<br>
 5° de vermelding van de beschikbare rechtsmiddelen, de bevoegde instanties die er kennis van nemen, alsook de te respecteren formaliteiten en termijnen.<br>
 <br>
-Een aanvraag die onvolledig bevonden wordt en waaraan door de aanvrager binnen een termijn van negentig dagen, te rekenen vanaf de dag na de indiening van de aanvraag, geen gegevens of documenten worden toegevoegd opdat de aanvraag volledig zou zijn, wordt definitief onvolledig geacht. De bevoegde afdeling brengt de aanvrager daarvan op de hoogte.<br>
+Een aanvraag die onvolledig bevonden wordt en waaraan door de aanvrager binnen een termijn van negentig dagen, te rekenen vanaf de dag na de indiening van de aanvankelijke aanvraag, geen gegevens of documenten worden toegevoegd opdat de aanvraag volledig zou zijn, wordt definitief onvolledig geacht. De bevoegde afdeling brengt de aanvrager daarvan op de hoogte.<br>
 <br>
 § 2. De bevoegde afdeling onderzoekt de aanvraag tot erkenning. De bevoegde afdeling vraagt advies aan de volgende overheidsorganen:<br>
-1° voor de aanvragen tot erkenning als milieudeskundige in de discipline geluid en trillingen als vermeld in artikel 6, 1°, c): aan de personeelsleden van het departement die deskundig zijn op het vlak van geluidshinder en aan de personeelsleden van het departement die deskundig zijn op het vlak van milieueffectrapportage;<br>
-2° voor de aanvragen tot erkenning als MER-deskundige als vermeld in artikel 6, 1°, d): aan de personeelsleden van het departement die deskundig zijn op het vlak van milieueffectrapportage.<br>
-Voor de volgende disciplines wordt een aanvullend advies gevraagd aan:<br>
-a) mens, deeldomeinen:<br>
-1) gezondheid: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
-2) ...<br>
-3) mobiliteit: de afdeling Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken;<br>
-4) ruimtelijke aspecten: de personeelsleden van het departement die deskundig zijn op het gebied van ruimtelijke ordening;<br>
-b) biodiversiteit: het Agentschap voor Natuur en Bos;<br>
-c) bodem: deeldomeinen:<br>
-1) pedologie: de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming, en aan de afdeling, bevoegd voor bodembeheer;<br>
-2) geologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, en aan de afdeling, bevoegd voor bodembeheer;<br>
-d) water, deeldomeinen:<br>
-1) geohydrologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, de personeelsleden van de VMM die deskundig zijn op het vlak van grondwaterhydrologie, en aan de afdeling, bevoegd voor bodembeheer;<br>
-2) oppervlakte- en afvalwater: de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterbeheer, en de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterverontreiniging;<br>
-3) mariene waters: de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterverontreiniging;<br>
-e) lucht, deeldomeinen:<br>
-1) geur: de personeelsleden van de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
-2) luchtverontreiniging: de personeelsleden van de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
-f) ...<br>
-g) geluid en trillingen: de personeelsleden van het departement die deskundig zijn op het vlak van geluidshinder;<br>
-h) klimaat: de personeelsleden van&nbsp;de Vlaamse Milieumaatschappij die deskundig zijn op het vlak van luchtverontreiniging;<br>
-i) landschap, bouwkundig erfgoed en archeologie: het agentschap Onroerend Erfgoed;<br>
-3° voor de aanvragen tot erkenning als VR-deskundige als vermeld in artikel 6, 1°, e): aan de personeelsleden van het departement die deskundig zijn op het vlak van veiligheidsrapportage;<br>
+1° ...;<br>
+2° voor de aanvragen tot erkenning als MER-deskundige als vermeld in artikel 6, 1°, d), van dit besluit, wordt voor de volgende disciplines een advies gevraagd aan:<br>
+a)&nbsp;&nbsp; &nbsp;mens, deeldomeinen:<br>
+1)&nbsp;&nbsp; &nbsp;gezondheid: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+2)&nbsp;&nbsp; &nbsp;mobiliteit: de afdeling Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken, vermeld in artikel 28, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3)&nbsp;&nbsp; &nbsp;ruimtelijke aspecten: de personeelsleden van het departement die deskundig zijn op het gebied van ruimtelijke ordening;<br>
+b)&nbsp;&nbsp; &nbsp;biodiversiteit: het Agentschap voor Natuur en Bos, vermeld in artikel 29, §1, 4°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+c)&nbsp;&nbsp; &nbsp;bodem: deeldomeinen:<br>
+1)&nbsp;&nbsp; &nbsp;pedologie: de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming, en aan de afdeling, bevoegd voor bodembeheer;<br>
+2)&nbsp;&nbsp; &nbsp;geologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, en aan de afdeling, bevoegd voor bodembeheer;<br>
+d)&nbsp;&nbsp; &nbsp;water, deeldomeinen:<br>
+1)&nbsp;&nbsp; &nbsp;geohydrologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, de personeelsleden van de VMM die deskundig zijn op het vlak van grondwaterhydrologie, en aan de afdeling, bevoegd voor bodembeheer;<br>
+2)&nbsp;&nbsp; &nbsp;oppervlakte- en afvalwater: de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterbeheer, en de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterverontreiniging;<br>
+3)&nbsp;&nbsp; &nbsp;mariene waters: de personeelsleden van de VMM die deskundig zijn op het vlak van oppervlaktewaterverontreiniging;<br>
+e)&nbsp;&nbsp; &nbsp;lucht, deeldomeinen:<br>
+1)&nbsp;&nbsp; &nbsp;geur: de personeelsleden van de VMM die deskundig zijn op het vlak van luchtverontreiniging;<br>
+2)&nbsp;&nbsp; &nbsp;luchtverontreiniging: de personeelsleden van de VMM die deskundig zijn op het vlak van luchtverontreiniging;<br>
+f)&nbsp;&nbsp; &nbsp;geluid en trillingen: de personeelsleden van het departement die deskundig zijn op het vlak van geluidshinder;<br>
+g)&nbsp;&nbsp; &nbsp;klimaat: de personeelsleden van het Vlaams Energie- en Klimaatagentschap, vermeld in artikel 29, §1, 3° van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, die deskundig zijn op het vlak van klimaat;<br>
+h)&nbsp;&nbsp; &nbsp;landschap, bouwkundig erfgoed en archeologie: het agentschap Onroerend Erfgoed;<br>
+3° ...;<br>
 4° voor de aanvragen tot erkenning als laboratorium als vermeld in artikel 6, 5°, c): aan de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming;<br>
 5° voor de aanvragen tot erkenning als boorbedrijf als vermeld in artikel 6, 7°, a), voor de disciplines, vermeld in artikel 6, 7°, a), 3) tot en met 5): aan de personeelsleden van het departement die deskundig zijn op het vlak van de natuurlijke rijkdommen;<br>
 6° voor de aanvragen tot erkenning als MER-coördinator als vermeld in artikel 6, 1°, g): de personeelsleden van het departement die deskundig zijn op het vlak van milieueffectrapportage.<br>
@@ -670,11 +678,12 @@ b) de personen die in een ander gewest in België of in een andere lidstaat van 
 a) de bedrijven die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/4;<br>
 b) de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 6 van verordening nr. 2015/2067 een geldig certificaat hebben behaald;<br>
 13° bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) : de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 8 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
-14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6.<br>
+14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6;<br>
+15° milieucoördinator als vermeld in artikel 6, 3°, a), van dit besluit: de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 18 van dit besluit.<br>
 <br>
 De erkenning, vermeld in het eerste lid, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan&nbsp;dde bevoegde afdeling en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aan&nbsp;de bevoegde afdeling, bij de melding van het gebruik van de erkenning.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling.<br>
+De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan&nbsp;de bevoegde afdeling.&nbsp;De persoon, vermeld in het eerste lid, 15°, legt zijn getuigschrift van aanvullende vorming voor milieucoördinatoren van het eerste, het tweede of overgangsniveau voor aan de bevoegde afdeling, bij melding van het gebruik van de erkenning.<br>
 <br>
 § 3. De erkenning van rechtswege, vermeld in paragraaf 1 en 2, is niet van toepassing op personen die niet voldoen aan de algemene erkenningsvoorwaarden, vermeld in artikel 8.<br>
 &nbsp;
@@ -772,7 +781,7 @@ e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of 
 De erkende MER-deskundige, vermeld in artikel 6, 1°, d) :<br>
 1° beschikt over de nodige software voor het voorspellen van effecten van plannen en projecten op mens en milieu en kan die hanteren en de resultaten ervan correct interpreteren;<br>
 2° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
-3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de discipline waarvoor hij erkend is, door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen per discipline.<br>
+3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving over de discipline waarvoor hij erkend is, door jaarlijks acht bijscholingspunten te verzamelen als vermeld in bijlage 26, die bij dit besluit is gevoegd;<br>
 4° mag zijn erkenning niet gebruiken als :<br>
 a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
 b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
@@ -785,7 +794,7 @@ e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of 
 De erkende VR-deskundige, vermeld in artikel 6, 1°, e) :<br>
 1° beschikt over de nodige software voor het berekenen van risico's voor mens en milieu bij industriële ongevallen waarbij gevaarlijke stoffen betrokken zijn, en kan die hanteren en de resultaten ervan correct interpreteren;<br>
 2° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
-3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake veiligheidsrapportage door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen.<br>
+3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving over veiligheidsrapportage door jaarlijks acht bijscholingspunten te verzamelen als vermeld in bijlage 26, die bij dit besluit is gevoegd;<br>
 4° mag zijn erkenning niet gebruiken als :<br>
 a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
 b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
@@ -809,10 +818,13 @@ Als het certificaat van bekwaamheid inzake de keuring van airconditioningsysteme
 
 De erkende MER-coördinator, vermeld in artikel 6, 1°, g):<br>
 1° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
-2° blijft op de hoogte van de recentste ontwikkelingen en wetgeving over milieueffectrapportage door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen;<br>
-3° de erkende MER-coördinator garandeert een kwaliteitsvolle uitvoering van de werkzaamheden, die ook de objectieve en onafhankelijke uitvoering van de dienstverlening omvat.<br>
-<br>
-De MER-coördinator kan geen gebruik maken van zijn erkenning als de objectieve en onafhankelijke uitvoering van de dienstverlening ten aanzien van de opdrachtgever niet kan worden gewaarborgd. De beoordeling of de objectieve en onafhankelijke uitvoering van een dienstverlening kan worden gewaarborgd, gebeurt door de MER-coördinator volgens de werkwijze, opgenomen in de standaardprocedure, vastgesteld door de minister. Deze standaardprocedure bevat een niet-limitatieve opsomming van de gevallen waarin, tot het bewijs van het tegendeel, wordt vermoed dat de MER-coördinator zich in een situatie van onverenigbaarheid bevindt. In afwijking hiervan kan de MER-coördinator toch gebruik maken van zijn erkenning als hij in het kader van de betrokken dienstverlening toepassing maakt van de beheersmaatregelen, opgenomen in de standaardprocedure.
+2° blijft op de hoogte van de recentste ontwikkelingen en wetgeving over milieueffectrapportage door jaarlijks acht bijscholingspunten te verzamelen als vermeld in bijlage 26, die bij dit besluit is gevoegd;<br>
+3° mag zijn erkenning niet gebruiken als:<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.
 
 ### ART 39/3.
 
@@ -1402,7 +1414,7 @@ Indien de objectiviteit en onafhankelijkheid door het erkende laboratorium niet 
 
 ### ART. 52.
 
-Het erkende laboratorium, vermeld in artikel 6, 5°, c), stelt de adviezen met betrekking tot het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid op, conform de Code van goede praktijk bodembescherming.<br>
+Het erkende laboratorium, vermeld in artikel 6, 5°, c), stelt de adviezen met betrekking tot het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid op, conform de Code van goede praktijk bodembescherming.<br>
 &nbsp;
 
 ### ART. 53.
@@ -1445,7 +1457,7 @@ Als het erkende laboratorium een monsternemer die het geregistreerd heeft, niet 
 
 ### ART. 53/2.
 
-§ 1. Voor alle monsternemingen die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid doet het erkende laboratorium, vermeld in artikel 6, 5°, c), een aanmelding bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming. De aanmelding wordt gedaan via een webapplicatie. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie in het BOC. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, kunnen gebruikt worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.<br>
+§ 1. Voor alle monsternemingen die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid doet het erkende laboratorium, vermeld in artikel 6, 5°, c), een aanmelding bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming. De aanmelding wordt gedaan via een webapplicatie. De minister bepaalt de nadere regels voor de aanmelding en de webapplicatie in het BOC. Alleen de analyseresultaten van de monsternemingen die voorafgaand zijn aangemeld bij de subentiteit van het departement Omgeving, bevoegd voor bodembescherming, kunnen gebruikt worden in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid.<br>
 <br>
 § 2. Het erkende laboratorium, vermeld in artikel 6, 5°, c), zorgt dat er een gps-datalogger gebruikt wordt bij de monsternemingen.<br>
 <br>
@@ -1669,7 +1681,7 @@ Bij een schorsing of opheffing van de erkenning als koeltechnisch bedrijf als ve
 De bedragen van die retributie worden vastgesteld in bijlage 18, A, die bij dit besluit is gevoegd.<br>
 <br>
 § 2. Voor de uitoefening van het toezicht op de erkenning wordt een retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten laste van elke natuurlijke persoon of rechtspersoon die in het bezit is van een erkenning als vermeld in artikel 6. Die retributie is op de volgende tijdstippen verschuldigd :<br>
-1° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 1° tot en met 10°, 12°, b), en 13°, of van personen die met toepassing van artikel 32, § 1, op basis van een gelijkwaardige titel van rechtswege erkend zijn als technicus als vermeld in artikel 6, 2° : jaarlijks, te beginnen vanaf het jaar nadat het erkenningsbewijs verkregen is, uiterlijk op 31 mei van het betreffende jaar;<br>
+1° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 1° tot en met 10°, 12°, b), 13° en 15°, of van personen die met toepassing van artikel 32, § 1, op basis van een gelijkwaardige titel van rechtswege erkend zijn als technicus als vermeld in artikel 6, 2° : jaarlijks, te beginnen vanaf het jaar nadat het erkenningsbewijs verkregen is, uiterlijk op 31 mei van het betreffende jaar;<br>
 2° in geval van een laboratorium in de discipline bodem, deeldomein bodembescherming of bemesting: jaarlijks, te beginnen vanaf het jaar nadat de registratie van de monsternemer verkregen is, uiterlijk op 31 mei van het betreffende jaar;<br>
 3° in alle andere gevallen dan de gevallen, vermeld in punt 1° en 2° : jaarlijks, te beginnen vanaf het jaar nadat de erkenning verleend is, uiterlijk op 31 mei van het betreffende jaar.<br>
 <br>
@@ -1764,7 +1776,7 @@ In het geval, vermeld in het eerste lid, moet de koeltechnicus slagen voor het a
 <br>
 De bevoegde afdeling bezorgt voor de technici, vermeld in artikel 6, 2°, i), het erkenningsnummer, de startdatum van de erkenning en de gegevens, vermeld in bijlage 15, 10°, die bij dit besluit is gevoegd, en vermeld in bijlage 19, 1°, a) en c), die bij dit besluit is gevoegd, aan een instantie die het sectorale opleidingsbeleid ondersteunt.<br>
 <br>
-§ 2. De entiteit waartoe de bevoegde afdeling behoort, is voor de ontvangen persoonsgegevens als vermeld in paragraaf 1 de verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG, uitgezonderd voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid waarvoor de Mestbank voor de verzameling en beoordeling de verwerkingsverantwoordelijke is en het departement voor de overige verwerkingen de verwerkingsverantwoordelijke is.
+§ 2. De entiteit waartoe de bevoegde afdeling behoort, is voor de ontvangen persoonsgegevens als vermeld in paragraaf 1 de verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG, uitgezonderd voor de registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid waarvoor de Mestbank voor de verzameling en beoordeling de verwerkingsverantwoordelijke is en het departement voor de overige verwerkingen de verwerkingsverantwoordelijke is.
 
 ## HOOFDSTUK 12 Bijzondere bepaling over tijdelijke en incidentele uitoefening van diensten
 
@@ -1813,7 +1825,7 @@ de bevoegde afdeling wijst een keuringsinstelling aan voor een periode van maxim
 
 ### ART 58/3.
 
-§ 1. Een natuurlijk persoon die door een erkend laboratorium geregistreerd wil worden als monsternemer van bodemmonsters in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid of in het kader van het Mestdecreet en de uitvoeringsbesluiten beschikt over een bevoegdheidsverklaring die het erkende laboratorium uitgereikt heeft met toepassing van artikel 53/1, § 6, of artikel 53/2, § 6.<br>
+§ 1. Een natuurlijk persoon die door een erkend laboratorium geregistreerd wil worden als monsternemer van bodemmonsters in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid of in het kader van het Mestdecreet en de uitvoeringsbesluiten beschikt over een bevoegdheidsverklaring die het erkende laboratorium uitgereikt heeft met toepassing van artikel 53/1, § 6, of artikel 53/2, § 6.<br>
 <br>
 Het erkende laboratorium dat een natuurlijke persoon wil registreren, bezorgt aan de Mestbank:<br>
 1° het registratieformulier, ondertekend door de monsternemer, waarvan het model is vastgesteld door de Mestbank, met de identificatiegegevens, opgenomen in bijlage 19, die bij dit besluit is gevoegd;<br>
@@ -1834,7 +1846,7 @@ De Mestbank bezorgt de gegevens van de geregistreerde monsternemers voor de erke
 
 Een geregistreerde monsternemer moet voldoen aan de volgende gebruikseisen:<br>
 1° alleen de monsternemingen uitvoeren in opdracht van het erkende laboratorium waarvoor hij geregistreerd is en werken conform het kwaliteitssysteem van het erkende laboratorium;<br>
-2° het BOC toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+2° het BOC toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
 3° het BAM toepassen bij de monsternemingen van de bodem die uitgevoerd worden in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan;<br>
 4° beschikken over het nodige materiaal, vermeld in het BOC of BAM, om de monsternemingen correct uit te voeren;<br>
 5° gebruikmaken van een gps-datalogger voor alle monsternemingen die uitgevoerd worden. De minister bepaalt de nadere regels voor het gebruik van de gps-datalogger in het BAM of het BOC;<br>
@@ -1871,7 +1883,7 @@ De minister kan in het BOC of in het BAM voor een of meer parameters de toegesta
 <br>
 § 5. Als de registratie wordt geschorst of opgeheven, betekent de bevoegde afdeling de beslissing met een aangetekende brief aan de persoon in kwestie en aan het erkende laboratorium waarvoor de monsternemer geregistreerd is.<br>
 <br>
-De schorsing of opheffing van de registratie geldt zowel voor de registratie als monsternemer van bodemmonsters in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid als voor de registratie als monsternemer van bodemmonsters in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan.<br>
+De schorsing of opheffing van de registratie geldt zowel voor de registratie als monsternemer van bodemmonsters in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid als voor de registratie als monsternemer van bodemmonsters in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan.<br>
 <br>
 § 6. Als de procedure tot schorsing of opheffing van de registratie wordt stopgezet, worden de monsternemer en het erkende laboratorium waarvoor de monsternemer geregistreerd is, daarvan op de hoogte gebracht.
 
@@ -4779,14 +4791,6 @@ A. Retributie voor de behandeling van de aanvraag tot erkenning<br>
 			<td>500 euro</td>
 		</tr>
 		<tr>
-			<td>milieucoördinatoren en milieuverificateurs</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>- milieucoördinatoren</td>
-			<td>250 euro</td>
-		</tr>
-		<tr>
 			<td>bodemsaneringsdeskundigen</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -5295,11 +5299,11 @@ De opleiding bestaat uit ten minste de volgende onderdelen:<br>
 a) de kwaliteitsprocedures en technische procedures van het erkende laboratorium in wiens opdracht de monsternemer monsternames wenst uit te voeren en dit met betrekking tot het nemen van bodemmonsters conform het BOC of het BAM;<br>
 b) het VLAREL inzake de registratie als monsternemer;<br>
 c) het BAM inzake het nemen van bodemmonsters voor een registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten;<br>
-d) het BOC inzake het nemen van bodemmonsters voor een registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+d) het BOC inzake het nemen van bodemmonsters voor een registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
 &nbsp;<br>
 2° een praktisch onderdeel:<br>
 a) het correct uitvoeren van een monstername conform het BAM voor een registratie als monsternemer in het kader van het Mestdecreet en de uitvoeringsbesluiten;<br>
-b) het correct uitvoeren van een monstername conform het BOC voor een registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+b) het correct uitvoeren van een monstername conform het BOC voor een registratie als monsternemer in het kader van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
 c) de bewaring en het transport van bodemmonsters;<br>
 d) de bediening en het onderhoud van alle apparatuur in het kader van monsternames.
 
@@ -5329,3 +5333,37 @@ De opleiding, vermeld in artikel 13/3, 3°, bestaat ten minste uit de volgende o
 5° de mogelijkheden om een gebouw beter te beschermen tegen overstromingen zowel met maatregelen die impact hebben op de score als met maatregelen die een betere bescherming bieden maar geen impact hebben op de overstromingsscore;<br>
 6° de wijze waarop een overstromingsattest opgemaakt moet worden;<br>
 7° het uitwerken van minimaal drie cases om de aangereikte theorie te illustreren.
+
+### BIJLAGE 26
+
+Bijlage 26. Permanente vorming van MER-deskundigen, MER-coördinatoren en VR-deskundigen&nbsp;<br>
+<br>
+Hoofdstuk 1. Algemeen<br>
+<br>
+Artikel 1. De erkende MER-deskundigen, VR-deskundigen en MER-coördinatoren behalen jaarlijks acht bijscholingspunten als vermeld in artikel 38, 3°, artikel 39, 3°, en artikel 39/2, 2°.&nbsp;<br>
+<br>
+Als de erkende MER-deskundige, VR-deskundige of MER-coördinator meer dan acht bijscholingspunten heeft behaald, kan die maximaal zestien punten overdragen naar het volgende jaar.<br>
+<br>
+Hoofdstuk 2. Bijscholingspunten voor MER-deskundigen<br>
+<br>
+Art. 2. De erkende MER-deskundigen kunnen op de volgende wijzen bijscholingspunten verzamelen:&nbsp;<br>
+1° een opleiding volgen over de discipline waarvoor ze erkend zijn. Een uur opleiding komt overeen met een punt;<br>
+2° een opleiding doceren over de discipline waarvoor ze erkend zijn. Een uur opleiding komt overeen met twee punten. De erkende MER-deskundige kan maximaal zes punten verzamelen door een opleiding te doceren;<br>
+3° deelnemen aan sectorale overlegmomenten met kennisuitwisseling over de discipline of de wetgeving over de discipline. De bevoegde afdeling bepaalt daarbij het aantal behaalde punten;<br>
+4° medewerking verlenen aan de bevoegde afdeling. De bevoegde afdeling bepaalt daarbij het aantal behaalde punten.<br>
+<br>
+Hoofdstuk 3. Bijscholingspunten voor VR-deskundigen<br>
+<br>
+Art. 3. De erkende VR-deskundigen kunnen op de volgende wijzen bijscholingspunten verzamelen:<br>
+1° een opleiding over veiligheidsrapportage volgen. Een uur opleiding komt overeen met een punt;<br>
+2° een opleiding over veiligheidsrapportage doceren. Een uur opleiding komt overeen met twee punten. De erkende VR-deskundige kan maximaal zes punten verzamelen door een opleiding te doceren;<br>
+3° deelnemen aan sectorale overlegmomenten met kennisuitwisseling over veiligheidsrapportage en de wetgeving over veiligheidsrapportage. De bevoegde afdeling bepaalt daarbij het aantal behaalde punten;<br>
+4° medewerking verlenen aan de bevoegde afdeling. De bevoegde afdeling bepaalt daarbij het aantal behaalde punten.<br>
+<br>
+Hoofdstuk 4. Bijscholingspunten voor MER-coördinatoren<br>
+<br>
+Art. 4. De erkende MER-coördinatoren kunnen op de volgende wijzen bijscholingspunten verzamelen:<br>
+1° een opleiding over milieueffectrapportage volgen. Een uur opleiding komt overeen met een punt;<br>
+2° een opleiding over milieueffectrapportage doceren. Een uur opleiding komt overeen met twee punten. De erkende MER-coördinator kan maximaal zes punten verzamelen door een opleiding te doceren;<br>
+3° deelnemen aan sectorale overlegmomenten met kennisuitwisseling over milieueffectrapportage en de wetgeving over milieueffectrapportage. De bevoegde afdeling bepaalt daarbij het aantal behaalde punten;<br>
+4° medewerking verlenen aan de bevoegde afdeling. De bevoegde afdeling bepaalt daarbij het aantal behaalde punten.
