@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040613,
+  "title": "Besluit van de Vlaamse Regering van 2025-01-31 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het VLAREL van 19 november 2010, wat betreft het doorvoeren van optimalisaties rond de erkenningen leefmilieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040613/VolledigDocument?datum=2025-03-02",
+  "source_sha256": "94e476f385b75caace2b354911a8dacd29ba81c5bc25157171704012e37198b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040613&param=informatie",
+  "as_of": "2025-03-02",
+  "made": "2025-01-31",
+  "gazette": "2025-02-20",
+  "numac": 2025001617,
+  "document_start": "2025-03-02",
+  "document_end": null,
+  "in_force": "2025-03-02",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2025-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
