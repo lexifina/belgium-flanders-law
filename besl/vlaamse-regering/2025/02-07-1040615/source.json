@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040615,
+  "title": "Besluit van de Vlaamse Regering van 2025-02-07 tot goedkeuring van de wijziging van de statuten van de Vlaamse Maatschappij voor Sociaal Wonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040615/VolledigDocument?datum=2025-03-07",
+  "source_sha256": "b694db904b66b2df315ae3caf7928eefc5dffa1ea376a57d3adb1ade365d2bd6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040615&param=informatie",
+  "as_of": "2025-03-07",
+  "made": "2025-02-07",
+  "gazette": "2025-02-25",
+  "numac": 2025001640,
+  "document_start": "2025-03-07",
+  "document_end": null,
+  "in_force": "2025-03-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
