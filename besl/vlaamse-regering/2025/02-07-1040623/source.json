@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040623,
+  "title": "Besluit van de Vlaamse Regering van 2025-02-07 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de aangifte en het register voor kunstmest en de bemesting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040623/VolledigDocument?datum=2025-03-09",
+  "source_sha256": "75a5a340b999ff617dd0e00e53fd5d4d675539cd175ef142cd04c48d7d6c92e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040623&param=informatie",
+  "as_of": "2025-03-09",
+  "made": "2025-02-07",
+  "gazette": "2025-02-27",
+  "numac": 2025001769,
+  "document_start": "2025-03-09",
+  "document_end": null,
+  "in_force": "2025-03-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
