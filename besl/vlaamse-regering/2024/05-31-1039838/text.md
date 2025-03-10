@@ -81,7 +81,7 @@ De bevoegde entiteit maakt de erkenning van een vereniging als stamboekverenigin
 
 ### ART 4.
 
-§1. Iedere erkende stamboekvereniging registreert de honden en katten en hun nakomelingen van haar honden- of kattenfokkers in een centrale databank. De afstamming van alle nakomelingen is geverifieerd met een ouderschapscontrole.<br>
+§1. Iedere erkende stamboekvereniging registreert de honden en katten en hun nakomelingen van haar honden- of kattenfokkers in een centrale databank. De afstamming van de nakomelingen is geverifieerd met een ouderschapscontrole op de wijze en in de gevallen, vermeld in het derde tot en met vijfde lid.<br>
 <br>
 De registratie, vermeld in het eerste lid, bevat al de volgende gegevens van het dier:<br>
 1° het identificatienummer;<br>
@@ -92,7 +92,16 @@ De registratie, vermeld in het eerste lid, bevat al de volgende gegevens van het
 6° de datum van overlijden;<br>
 7° de resultaten van de prestatieonderzoeken, vermeld in artikel 5;<br>
 8° de naam en het adres van de honden- of kattenfokker;<br>
-9° na ouderschapscontrole het identificatienummer van de ouders en, als dat bekend is, het identificatienummer van de voorouders van het dier.<br>
+9° na de ouderschapscontrole, als vermeld in het derde tot en met vijfde lid, het identificatienummer van de ouders en, als dat bekend is, het identificatienummer van de voorouders van het dier.<br>
+<br>
+Als er bij de verificatie van de afstamming gewerkt wordt met het SNP (Single Nucleotide Polymorphism) DNA-profiel voor ouderschapscontrole, wordt de afstamming van ten minste één nakomeling getest, waarbij het aantal te testen DNA-stalen op de volgende wijze afhankelijk is van de grootte van het nest:<br>
+1° een tot vijf nakomelingen: een staal;<br>
+2° zes tot tien nakomelingen: twee stalen;<br>
+3° meer dan tien nakomelingen: drie stalen.<br>
+<br>
+De erkende stamboekvereniging of het laboratorium selecteert het staal of de stalen, vermeld in het derde lid, willekeurig uit de DNA-stalen die van alle nakomelingen worden afgenomen. Als een of meer van de testresultaten geen verwantschap tussen nakomeling en een van de ouderdieren aantoont, wordt een ouderschapscontrole van alle nakomelingen uit het nest uitgevoerd of opnieuw uitgevoerd.<br>
+<br>
+Als er bij de verificatie van de afstamming niet gewerkt wordt met het SNP DNA-profiel voor ouderschapscontrole, wordt de afstamming van alle nakomelingen uit het nest getest.<br>
 <br>
 §2. Bij de registratie van een hond of kat worden alle afstammingsgegevens en prestatieonderzoeken van het dier en zijn voorouders overgenomen die al bekend zijn.<br>
 <br>
@@ -122,7 +131,7 @@ De registratie, vermeld in het eerste lid, bevat voor elk onderzocht dier al de 
 <br>
 De aanvragen, vermeld in het eerste lid, worden in elektronische vorm ingediend.<br>
 <br>
-De bevoegde entiteit beoordeelt een fokprogramma en beslist over de goedkeuring van de aanvraag, vermeld in het eerste lid, binnen zestig dagen na de dag waarop de bevoegde entiteit een aanvraag als vermeld in het eerste lid, heeft ontvangen die volledig is conform paragraaf 2. Fokprogramma’s kunnen pas goedgekeurd worden als ze maatregelen bevatten die een toename van de gemiddelde inteelt van het ras of de variëteit begrenzen, de genetische diversiteit ten minste behouden en erfelijke aandoeningen terugdringen.<br>
+De bevoegde entiteit beoordeelt een fokprogramma en beslist over de goedkeuring van de aanvraag, vermeld in het eerste lid, binnen zestig dagen na de dag waarop de bevoegde entiteit een aanvraag als vermeld in het eerste lid, heeft ontvangen die volledig is conform paragraaf 2. Fokprogramma’s kunnen pas goedgekeurd worden als ze maatregelen bevatten die een toename van de gemiddelde inteelt van het ras of de variëteit begrenzen, de genetische diversiteit ten minste behouden en erfelijke aandoeningen terugdringen.&nbsp;Om de fokprogramma’s te beoordelen, kan de bevoegde entiteit een beroep doen op externe experten die de genetische en klinische aspecten van de fokprogramma’s kunnen beoordelen. De minister kan bepalen dat de experten een forfaitaire vergoeding per uur ontvangen voor hun geleverde bijdrage en legt de vergoeding in voorkomend geval vast.<br>
 <br>
 Wijzigingen van een fokprogramma worden conform het eerste en tweede lid ter goedkeuring voorgelegd aan de bevoegde entiteit. De bevoegde entiteit beoordeelt de voormelde wijzigingen en beslist over de goedkeuring van die wijzigingen binnen zestig dagen na de dag waarop de bevoegde entiteit het voorstel tot wijzing heeft ontvangen.&nbsp;<br>
 <br>
@@ -133,12 +142,12 @@ De goedgekeurde fokprogramma’s worden door de bevoegde entiteit openbaar gemaa
 2° het doel van het fokprogramma;<br>
 3° de wijze waarop het doel wordt gerealiseerd;&nbsp;<br>
 4° een rasfiche die al de volgende elementen bevat:&nbsp;<br>
-&nbsp; a) de prestatieonderzoeken die uitgevoerd moeten worden;<br>
-&nbsp; b) de methode, de frequentie en de minimale leeftijd waarop de prestatieonderzoeken uitgevoerd moeten worden;&nbsp;<br>
+a) de prestatieonderzoeken die uitgevoerd moeten worden;<br>
+b) de methode, de frequentie en de minimale leeftijd waarop de prestatieonderzoeken uitgevoerd moeten worden;&nbsp;<br>
 5° een fokadvies per prestatieonderzoek, vermeld in de rasfiche, in een bepaalde fokcombinatie. De voormelde fokcombinatie omvat per prestatieonderzoek de volgende mogelijkheden: positief, voorwaardelijk positief en fokverbod; &nbsp;<br>
-6° een globaal fokadvies over de fokcombinatie dat gebaseerd is op de afzonderlijke fokadviezen en de maximale inteeltcoëfficiënt.&nbsp;<br>
+6° een globaal fokadvies over de fokcombinatie dat gebaseerd is op de afzonderlijke fokadviezen en de mate van inteelt en genetische diversiteit.&nbsp;<br>
 <br>
-In het eerste lid, 6°, wordt verstaan onder inteeltcoëfficiënt: de mate van inteelt en genetische diversiteit die gekwantificeerd is op een geijkte wetenschappelijk vastgelegde methode.<br>
+De mate van inteelt en genetische diversiteit, vermeld in het eerste lid, 6°, wordt gekwantificeerd op een geijkte wetenschappelijk vastgelegde methode.<br>
 <br>
 De bevoegde entiteit stelt op haar website een modelformulier ter beschikking.<br>
 <br>
