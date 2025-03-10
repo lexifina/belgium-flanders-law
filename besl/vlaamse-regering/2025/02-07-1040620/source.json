@@ -2,16 +2,16 @@
   "codex_id": 1040620,
   "title": "Besluit van de Vlaamse Regering van 2025-02-07 tot wijziging van artikel 4, 6 en 22 van het besluit van de Vlaamse Regering van 31 mei 2024 over de fokkerij van honden en katten en de voorwaarden om stambomen af te leveren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040620/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "70ecf20894980a82a3c51ee6adcaf6d60606423362e659bfef7433fee34968b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040620/VolledigDocument?datum=2025-03-10",
+  "source_sha256": "49e0ff73e5a6bd02cd7fa45ef36002cae6492b82bd8381f4cf0fe0fbe3caaa0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040620&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2025-03-10",
   "made": "2025-02-07",
   "gazette": "2025-02-28",
   "numac": 2025001734,
   "document_start": "2025-03-10",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-03-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-03-10; future article versions excluded; article text as the API gives it"
 }
