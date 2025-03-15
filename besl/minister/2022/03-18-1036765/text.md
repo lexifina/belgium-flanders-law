@@ -22,8 +22,8 @@ DE VLAAMSE MINISTER VAN ONDERWIJS, SPORT, DIERENWELZIJN EN VLAAMSE RAND BESLUIT:
 
 ### ART 1.
 
-Ter uitvoering van artikel 13, § 1, eerste lid, van het besluit van de Vlaamse Regering van 16 juni 2017 houdende de uitvoering van het decreet van 5 mei 2017 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur bedraagt het maximale subsidiebedrag voor projecten bovenlokale sportinfrastructuur 1.350.000 euro (een miljoen driehonderdvijftigduizend euro).
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 20 maart 2022.
+...
