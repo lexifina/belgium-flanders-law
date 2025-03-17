@@ -2,16 +2,16 @@
   "codex_id": 1030324,
   "title": "Ministerieel besluit van 2018-11-26 tot uitvoering van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030324/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "a49cab26e71e6b19fd13543a755a6f2d768b9fd34fc9a24f97dc51bd720e9671",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030324/VolledigDocument?datum=2025-03-17",
+  "source_sha256": "1906a71a43cdeea2de83324301b98ffbb32df1c13bf6c4d2c08edd5754beb348",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030324&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2025-03-17",
   "made": "2018-11-26",
   "gazette": "2019-03-01",
   "numac": 2019040437,
   "document_start": "2018-10-19",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2025-03-17",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-03-17; future article versions excluded; article text as the API gives it"
 }
