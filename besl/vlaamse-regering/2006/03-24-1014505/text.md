@@ -10,7 +10,11 @@
 3° het verstrekken van beleids- en beleidsondersteunende diensten voor het beleidsdomein. Het Departement Mobiliteit en Openbare Werken is gemachtigd om beleids- en beleidsondersteunende diensten te verlenen aan andere beleidsdomeinen en derden. De samenwerking tussen het Departement Mobiliteit en Openbare Werken als aanbieder van beleids- en beleidsondersteunende diensten en de andere entiteiten van het beleidsdomein, andere beleidsdomeinen of derden als aanvrager ervan, kan worden vastgelegd in samenwerkingsakkoorden. De beleidsondersteuning houdt geen overdracht in van bevoegdheid of verantwoordelijkheid van de aanvrager naar de aanbieder van die diensten;<br>
 4° het beheer en de exploitatie van de maritieme toegangswegen tot de Vlaamse zeehavens;<br>
 5° de supervisie over de uitrusting en de uitbating van de Vlaamse regionale luchthavens;<br>
-6° ...<br>
+6° ...;<br>
+7° op de volgende wijzen de rol als modusneutrale regisseur voor een sterk mobiliteitsbeleid uitoefenen:<br>
+a)&nbsp;&nbsp; &nbsp;via de investeringscel;<br>
+b)&nbsp;&nbsp; &nbsp;via de vervoersautoriteit;<br>
+c)&nbsp;&nbsp; &nbsp;als coördinator.<br>
 <br>
 § 2. Het departement Mobiliteit en Openbare Werken is overeenkomstig artikel III.2 van het bestuursdecreet van 7 december 2018 ook belast met de taken van beleidsuitvoering die niet werden toevertrouwd aan een agentschap van het desbetreffende beleidsdomein.
 
