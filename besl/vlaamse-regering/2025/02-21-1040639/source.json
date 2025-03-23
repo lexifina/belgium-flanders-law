@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040639,
+  "title": "Besluit van de Vlaamse Regering van 2025-02-21 tot wijziging van het besluit van de Vlaamse Regering van 24 maart 2006 tot operationalisering van het beleidsdomein Mobiliteit en Openbare Werken, wat betreft de rol van het departement als modusneutrale regisseur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040639/VolledigDocument?datum=2025-03-23",
+  "source_sha256": "4e469b31418fcf83aea4f8847671656162d0f2ae4f2fcecd688fb8b9be3214e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040639&param=informatie",
+  "as_of": "2025-03-23",
+  "made": "2025-02-21",
+  "gazette": "2025-03-13",
+  "numac": 2025001998,
+  "document_start": "2025-03-23",
+  "document_end": null,
+  "in_force": "2025-03-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
