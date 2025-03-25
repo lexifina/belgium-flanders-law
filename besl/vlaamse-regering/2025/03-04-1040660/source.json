@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040660,
+  "title": "Besluit van de Vlaamse Regering van 2025-03-04 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de premie voor de aankoop of verhuur van energiezuinige huishoudtoestellen, vermeld in artikel 6.4.1/4 van het voormelde besluit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040660/VolledigDocument?datum=2025-03-25",
+  "source_sha256": "48be91f2619446256723e6cb2d3f3c76d71a958950c7ab86081269b22b092e81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040660&param=informatie",
+  "as_of": "2025-03-25",
+  "made": "2025-03-04",
+  "gazette": "2025-03-24",
+  "numac": 2025002219,
+  "document_start": "2025-03-25",
+  "document_end": null,
+  "in_force": "2025-03-25",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
