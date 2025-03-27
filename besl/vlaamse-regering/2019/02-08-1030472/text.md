@@ -169,6 +169,10 @@ Eén van de in het eerste lid vermelde personen, die de werking van de ziekenwag
 
 De ambulancier niet-dringend patiëntenvervoer is houder van het certificaat van een opleiding eerste hulp van minstens 24 uur, tenzij hij zich kan beroepen op eerder verworven kwalificaties. Dat certificaat is op het moment waarop hij de functie opneemt, niet ouder dan drie jaar. Een organisatie die bekrachtigd is door de gemengde werkgroep opleiding, reikt het certificaat uit. De lijst van de bekrachtigde organisaties wordt gepubliceerd op de website van de administratie.
 
+### ART 16.
+
+De ambulancier niet-dringend patiëntenvervoer is houder van het brevet van hulpverlener-ambulancier, vermeld in artikel 6ter, § 2, van de wet van 8 juli 1964 betreffende de dringende geneeskundige hulpverlening.
+
 ### ART 17.
 
 In elke ziekenwagen worden de tarieven en maximumtarieven duidelijk zichtbaar geafficheerd.
