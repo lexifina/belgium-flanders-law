@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040661,
+  "title": "Decreet van 2025-02-21 over emissiemonitoring van wegvoertuigen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040661/VolledigDocument?datum=2025-03-29",
+  "source_sha256": "2a0f477cc4a000e5a6069160a7e673a62280178307faa6655656a8c258dac90c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040661&param=informatie",
+  "as_of": "2025-03-29",
+  "made": "2025-02-21",
+  "gazette": "2025-03-19",
+  "numac": 2025002227,
+  "document_start": "2025-03-29",
+  "document_end": null,
+  "in_force": "2025-03-29",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2025-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
