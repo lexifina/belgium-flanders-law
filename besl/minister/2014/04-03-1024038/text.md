@@ -81,7 +81,7 @@ De delegatie, vermeld in het eerste lid, punt 3°, geldt niet voor het weigeren 
 4° het eindgebruik speelt zich af binnen een land waarover het Vlaams Parlement een resolutie heeft aangenomen met betrekking tot de uitvoer van strategische goederen;<br>
 5° het Departement Buitenlandse Zaken acht concrete elementen van de aanvraag relevant in het kader van de actuele politieke gevoeligheid van het land van eindgebruik.<br>
 <br>
-§ 4. De leidend ambtenaar rapporteert driemaandelijks over het gebruik van de bevoegdheden, vermeld in dit artikel, aan de Vlaamse minister, bevoegd voor de in-, uit- en doorvoer van strategische goederen. Deze rapportering bevat alle noodzakelijke informatie over de aanvragen die met toepassing van dit besluit in de periode in kwestie zijn toegekend of geweigerd.<br>
+§ 4. De leidend ambtenaar rapporteert halfjaarlijks over het gebruik van de bevoegdheden, vermeld in dit artikel, aan de Vlaamse minister, bevoegd voor de in-, uit- en doorvoer van strategische goederen. Deze rapportering bevat alle noodzakelijke informatie over de aanvragen die met toepassing van dit besluit in de periode in kwestie zijn toegekend of geweigerd.<br>
 <br>
 De rapportering, vermeld in het eerste lid, is opgedeeld in verschillende hoofdstukken. Elk aanvraagtype, vermeld in dit artikel, vormt een apart hoofdstuk.<br>
 <br>
