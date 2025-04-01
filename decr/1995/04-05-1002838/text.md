@@ -2686,6 +2686,7 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 4° de Jachtwet van 28 februari 1882;<br>
 5° de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
 5° /1 de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
+5°/2 de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties;<br>
 6° de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van hoofdstuk IIIbis en de uitvoeringsbesluiten ervan betreft;<br>
 6°/1 ...;<br>
 7° de wet van 12 juli 1973 op het natuurbehoud;<br>
