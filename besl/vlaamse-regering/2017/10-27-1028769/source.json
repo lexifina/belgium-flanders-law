@@ -2,16 +2,16 @@
   "codex_id": 1028769,
   "title": "Besluit van de Vlaamse Regering van 2017-10-27 betreffende de commissie voor de evaluatie van de werking van de pedagogische begeleidingsdiensten en de permanente ondersteuningscellen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028769/VolledigDocument?datum=2017-12-03",
-  "source_sha256": "82fb8b3ff92e618eabbe1d862b9b1e774720e73a6ba8f5ebfc3447065fab9474",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028769/VolledigDocument?datum=2025-04-01",
+  "source_sha256": "fd1b18c986e30222e6290759db15c81b9a5434a797070b2591f29297f0445d7a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028769&param=informatie",
-  "as_of": "2017-12-03",
+  "as_of": "2025-04-01",
   "made": "2017-10-27",
   "gazette": "2017-11-23",
   "numac": 2017040826,
   "document_start": "2017-12-03",
   "document_end": "2025-03-31",
-  "in_force": "2017-12-03",
+  "in_force": "2025-04-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2017-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-04-01; future article versions excluded; article text as the API gives it"
 }
