@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040609,
+  "title": "Besluit van de Vlaamse Regering van 2025-01-31 tot wijziging van het besluit van de Vlaamse regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap wat betreft de vergoeding van de multidisciplinaire teams en de samenstelling van de adviescommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040609/VolledigDocument?datum=2025-04-01",
+  "source_sha256": "b9ade78d6785d72148d4dad874664761a055e3685cead397dd299d3833c9da30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040609&param=informatie",
+  "as_of": "2025-04-01",
+  "made": "2025-01-31",
+  "gazette": "2025-02-19",
+  "numac": 2025001529,
+  "document_start": "2025-04-01",
+  "document_end": null,
+  "in_force": "2025-04-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
