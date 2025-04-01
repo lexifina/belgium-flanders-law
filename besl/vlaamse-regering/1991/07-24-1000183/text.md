@@ -363,9 +363,11 @@ Bij de combinatie van een vraag naar individuele materiële bijstand met een vra
 <br>
 §4bis. Het agentschap betaalt aan de multidisciplinaire teams, vermeld in artikel 22, een vergoeding van 50 euro voor de afname van de storend gedragsschaal, vermeld in artikel 4 van het ministerieel besluit van 26 november 2018 tot uitvoering van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, voor de vaststelling van ernstige gedragsstoornissen in het kader van de bepaling van een zorggroep als vermeld in bijlage 2 bij besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, als het agentschap voor de persoon in kwestie met een handicap geen resultaten heeft van een afname van het zorgzwaarte-instrument, vermeld in artikel 1, 24°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.<br>
 <br>
-§5. De bedragen, vermeld in paragraaf 1, 2, 3, 4 en 4bis, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.&nbsp;<br>
+§5. De bedragen, vermeld in paragraaf 1, 2, 3 ,4 en 4bis, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.&nbsp;<br>
 <br>
 De geïndexeerde bedragen worden afgerond tot op de euro.<br>
+<br>
+§5/1. Het agentschap betaalt de vergoedingen, vermeld in paragraaf 1, paragraaf 2, eerste lid, 1° en 2°, en paragraaf 3 en 4, op voorwaarde dat het multidisciplinair team voldoet aan de minimale kwaliteitseisen voor het verslag, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°.<br>
 <br>
 §6. Voor elk verslag voor de prestaties, vermeld in paragraaf 1, 3 en 4, eerste lid, dat bij het agentschap wordt ingediend, vult het agentschap een scoreblad in. Als het verslag niet beantwoordt aan de minimale kwaliteitseisen, vermeld in artikel 24, §1, 2°, §2, 3°, en §3, 3°, vraagt het agentschap bijkomende informatie op.<br>
 <br>
@@ -413,14 +415,14 @@ Het agentschap maakt jaarlijks een verslag van de werking van de adviescommissie
 <br>
 In geval van overbelasting van één of meer kamers, kunnen de verenigde kamers beslissen tot het bijkomend instellen van één of meer tijdelijke kamers. Deze beslissing moet bekrachtigd worden door de Vlaamse minister die bevoegd is voor de bijstand aan personen en die de werkingsduur ervan vaststelt.<br>
 <br>
-§ 2. Elke kamer bestaat uit acht leden, met name:<br>
+§ 2. Elke kamer bestaat uit&nbsp;zeven leden, met name:<br>
 1° een licentiaat, master of doctor in de rechten, die bij voorkeur ook ambtenaar van het agentschap is;<br>
-2° een doctor in de genees-, heel- en verloskunde;<br>
+2° een doctor in de genees-, heel- en verloskunde of master in de geneeskunde;<br>
 3° een licentiaat of master in de psychologische of pedagogische wetenschappen;<br>
-4° een licentiaat of master in de gedrags-, psychosociale, sociale of paramedische wetenschappen;<br>
+4° ...<br>
 5° twee leden met een van de volgende kwalificaties:<br>
-a) licentiaat, master, of gegradueerde in de kinesitherapie, logopedie of ergotherapie;<br>
-b) houder van een diploma van een basisopleiding van één cyclus in het hoger onderwijs, studiegebied sociaal-agogisch werk of een houder van het diploma van gegradueerde verpleegkundige;<br>
+a) licentiaat, master, gegradueerde of bachelor in de revalidatiewetenschappen en de kinesitherapie, logopedie of ergotherapie;<br>
+b) houder van een diploma van een basisopleiding van één cyclus in het hoger onderwijs, studiegebied sociaal-agogisch werk of een houder van het diploma van gegradueerde verpleegkundige of bachelor in de verpleegkunde;<br>
 c) deskundige in de hulpmiddelentechniek;<br>
 6° een ervaringsdeskundige;<br>
 7° een ambtenaar van het agentschap.<br>
