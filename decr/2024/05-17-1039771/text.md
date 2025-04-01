@@ -23,7 +23,21 @@ Aan artikel 591 van het Gerechtelijk Wetboek, het laatst gewijzigd bij de wet va
 
 ## Hoofdstuk 3. Wijzigingen aan de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties
 
+### ART 4.
+
+Aan de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties wordt een artikel 3 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 3. In afwijking van artikel 2 is titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid van toepassing op de handhaving van deze wet en de uitvoeringsbesluiten ervan wat betreft de bepalingen die behoren tot de bevoegdheid van het Vlaamse Gewest. Het niet voldoen aan de verplichtingen die door of krachtens deze wet zijn ingesteld, wordt daarbij gelijkgesteld aan een milieu-inbreuk.<br>
+&nbsp;<br>
+In afwijking van artikel 16.3.1, §1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn de daartoe door de leidend ambtenaar aangeduide personeelsleden van het Departement Omgeving daarbij bevoegd voor de handhaving en controle op de naleving van de voorwaarden en de verplichtingen die opgelegd zijn door of krachtens deze wet.”.
+
 ## Hoofdstuk 4. Wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
+
+### ART 6.
+
+In artikel 16.1.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid wordt een punt 5°/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“5°/2 de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties;”.
 
 ## Hoofdstuk 5. Wijzigingen van het Energiedecreet van 8 mei 2009
 
