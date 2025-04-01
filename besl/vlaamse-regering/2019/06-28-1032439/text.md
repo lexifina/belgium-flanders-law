@@ -3893,9 +3893,9 @@ Aan de gebruiker wordt altijd op een interdisciplinaire wijze de nodige individu
 
 ### ART 13.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Wat de organisatie van de zorg en ondersteuning betreft, zijn artikel 32, 33, 38, 39 en 40 van bijlage 11 van overeenkomstige toepassing op het centrum type 1.<br>
+<p>Wat de organisatie van de zorg en ondersteuning betreft, zijn artikel 32, 33, 38, 39 en 40 van bijlage 11 van overeenkomstige toepassing op het centrum type 1.<br>
 <br>
-Op de centrum type 1, dat wordt uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn, is artikel 33/1 van bijlage 11 van overeenkomstige toepassing.</span></span></p>
+Op de centrum type 1, dat wordt uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn,zijn artikel 33/1 en 33/2 van bijlage 11 van overeenkomstige toepassing.</p>
 
 ## Onderafdeling 2. De collectieve inspraak van de gebruikers en de klachtenbehandeling
 
@@ -6332,39 +6332,39 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 13.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§1. Uiterlijk bij de opname bezorgt de initiatiefnemer aan de bewoner of zijn vertegenwoordiger, tegen ontvangstbewijs, een kopie van de interne afsprakennota.</span></span></span><br>
+<p>§1. Uiterlijk bij de opname bezorgt de initiatiefnemer aan de bewoner of zijn vertegenwoordiger, tegen ontvangstbewijs, een kopie van de interne afsprakennota.<br>
 <br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">§2. De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, vermeld in artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019.</span></span></span></span><br>
+§2. De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, vermeld in artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§3. De interne afsprakennota bevat de volgende elementen: </span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° de identificatie- en contactgegevens van de initiatiefnemer en de verantwoordelijke beheersinstantie ervan; </span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° het erkenningsnummer van het woonzorgcentrum;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">3° de wijze waarop in het woonzorgcentrum het dagelijkse leven en de verzorging worden georganiseerd, in het bijzonder met betrekking tot:<br>
-a)&nbsp;</span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de dagindeling;<br>
-b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de maaltijden;&nbsp;<br>
-c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije toegang van familie en vrienden van de bewoners met respect voor de bezoekregeling;<br>
-d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het roken in het woonzorgcentrum;<br>
-e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de organisatie van activiteiten voor zelfontplooiing, sociale contacten, zinvolle tijdsbesteding;<br>
-f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de organisatie van de persoonlijke was;<br>
-g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de organisatie van de levensbeschouwelijke ondersteuning;<br>
-h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het restrictiebeleid ten aanzien van bewoners met een bijzonder zorgprofiel;<br>
-i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije keuze van ziekenhuis;&nbsp;<br>
-j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije keuze van apotheker;<br>
-k)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling voor een ziekenhuisopname;<br>
-l)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling voor de geneesmiddelen;<br>
-m)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het beleid binnen het woonzorgcentrum voor de vroegtijdige zorgplanning, de palliatieve en levenseindezorg;<br>
-n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije keuze van de behandelende arts en zijn toegang tot het woonzorgcentrum overeenkomstig de bepalingen van het huishoudelijk reglement met betrekking tot de medische activiteiten;</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">4° de regels voor het houden van huisdieren;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">5° de procedure bij brand en ernstige gebeurtenissen met impact op de dagelijkse werking;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">6° de procedure bij grensoverschrijdend gedrag;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">7° de procedure die beschrijft hoe de bewoner, zijn vertegenwoordiger of mantelzorger betrokken worden bij de besluitvorming over het woonzorgleefplan, en de manier waarop de bewoner of zijn vertegenwoordiger het plan kunnen consulteren;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;de wijze waarop de collectieve participatie van de bewoners in de werking van de voorziening wordt georganiseerd, met inbegrip van de wijze van samenstelling en functionering van de gebruikersraad;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;de wijze waarop de informatie over de organisatie en de strategische&nbsp;beslissingen van het management aan de bewoners, vertegenwoordigers of mantelzorgers worden meegedeeld;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;de procedure voor de behandeling van suggesties, opmerkingen en &nbsp;klachten, en de naam van de persoon aan wie ze kunnen worden &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meegedeeld; </span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;een verwijzing naar de instanties die toezicht uitoefenen op de erkenning&nbsp;van het woonzorgcentrum en een verwijzing naar de toepasselijke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; erkenningsvoorwaarden;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">12° de garantie van vrije toegang voor de bedienaren van de erediensten en de mogelijkheid om een actuele lijst van de bedienaren en afgevaardigden bij het woonzorgcentrum op te vragen.</span></span></span><br>
+§3. De interne afsprakennota bevat de volgende elementen:<br>
+1° de identificatie- en contactgegevens van de initiatiefnemer en de verantwoordelijke beheersinstantie ervan;<br>
+2° het erkenningsnummer van het woonzorgcentrum;<br>
+3° de wijze waarop in het woonzorgcentrum het dagelijkse leven en de verzorging worden georganiseerd, in het bijzonder met betrekking tot:<br>
+a)&nbsp;de dagindeling;<br>
+b)&nbsp;de maaltijden;&nbsp;<br>
+c)&nbsp;de vrije toegang van familie en vrienden van de bewoners met respect voor de bezoekregeling;<br>
+d)&nbsp;het roken in het woonzorgcentrum;<br>
+e)&nbsp;de organisatie van activiteiten voor zelfontplooiing, sociale contacten, zinvolle tijdsbesteding;<br>
+f)&nbsp;de organisatie van de persoonlijke was;<br>
+g)&nbsp;de organisatie van de levensbeschouwelijke ondersteuning;<br>
+h)&nbsp;het restrictiebeleid ten aanzien van bewoners met een bijzonder zorgprofiel;<br>
+i)&nbsp;de vrije keuze van ziekenhuis;&nbsp;<br>
+j)&nbsp;de vrije keuze van apotheker;<br>
+k)&nbsp;de regeling voor een ziekenhuisopname;<br>
+l)&nbsp;de regeling voor de geneesmiddelen;<br>
+m)&nbsp;het beleid binnen het woonzorgcentrum voor de vroegtijdige zorgplanning, de palliatieve en levenseindezorg;<br>
+n)&nbsp;de vrije keuze van de behandelende arts en zijn toegang tot het woonzorgcentrum;<br>
+4° de regels voor het houden van huisdieren;<br>
+5° de procedure bij brand en ernstige gebeurtenissen met impact op de dagelijkse werking;<br>
+6° de procedure bij grensoverschrijdend gedrag;<br>
+7° de procedure die beschrijft hoe de bewoner, zijn vertegenwoordiger of mantelzorger betrokken worden bij de besluitvorming over het woonzorgleefplan, en de manier waarop de bewoner of zijn vertegenwoordiger het plan kunnen consulteren;<br>
+8°&nbsp;de wijze waarop de collectieve participatie van de bewoners in de werking van de voorziening wordt georganiseerd, met inbegrip van de wijze van samenstelling en functionering van de gebruikersraad;<br>
+9°&nbsp;de wijze waarop de informatie over de organisatie en de strategische&nbsp;beslissingen van het management aan de bewoners, vertegenwoordigers of mantelzorgers worden meegedeeld;<br>
+10°&nbsp;de procedure voor de behandeling van suggesties, opmerkingen en &nbsp;klachten, en de naam van de persoon aan wie ze kunnen worden &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meegedeeld;<br>
+11°&nbsp;een verwijzing naar de instanties die toezicht uitoefenen op de erkenning&nbsp;van het woonzorgcentrum en een verwijzing naar de toepasselijke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; erkenningsvoorwaarden;<br>
+12° de garantie van vrije toegang voor de bedienaren van de erediensten en de mogelijkheid om een actuele lijst van de bedienaren en afgevaardigden bij het woonzorgcentrum op te vragen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Wijzigingen aan de afsprakennota worden vooraf meegedeeld en kunnen op zijn vroegste toegepast worden dertig dagen na de kennisgeving ervan aan de bewoner of, in voorkomend geval, aan zijn vertegenwoordiger, de gebruikers- en familieraad.</span></span></span></p>
+Wijzigingen aan de afsprakennota worden vooraf meegedeeld en kunnen op zijn vroegste toegepast worden dertig dagen na de kennisgeving ervan aan de bewoner of, in voorkomend geval, aan zijn vertegenwoordiger, de gebruikers- en familieraad.</p>
 
 ### ART 14.
 
@@ -6617,45 +6617,99 @@ Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfve
 
 ### ART 33/1.
 
-§ 1. In elk woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, wijst de initiatiefnemer een coördinerend en raadgevend arts aan die een erkende huisarts is en die uiterlijk vier jaar na zijn aanwijzing houder is van een attest dat toegang verleent tot de functie van coördinerend en raadgevend arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door de administratie, met vrucht afgerond is.<br>
+§1. Het medische zorgbeleid maakt integraal deel uit van het globale beleid van het woonzorgcentrum. Het medische zorgbeleid omvat de organisatie en de coördinatie van de medische activiteit, de afspraken over en de opvolging van de opdrachten van de coördinerende en raadgevende arts en de toepassing ervan in beleidsthema’s waarin medische aspecten aan bod komen.&nbsp;<br>
 <br>
-De coördinerend en raadgevend arts is verbonden aan het woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, met een ondernemingscontract. de administratie kan een exemplaar van dat contract opvragen.<br>
+Het medische zorgbeleid wordt bepaald door de coördinerende en raadgevende arts en de initiatiefnemer van het woonzorgcentrum. Het is door iedereen op eenvoudig verzoek raadpleegbaar. De initiatiefnemer communiceert het medische zorgbeleid actief aan al de volgende personen:<br>
+1°&nbsp;&nbsp; &nbsp;de bewoner of zijn vertegenwoordiger;<br>
+2°&nbsp;&nbsp; &nbsp;de gebruikers- en familieraad;<br>
+3°&nbsp;&nbsp; &nbsp;alle behandelende artsen in het woonzorgcentrum.<br>
 <br>
-Het ondernemingscontract vermeldt de rechten en plichten van beide partijen, waaronder minstens de te leveren prestaties en de vergoeding. De te leveren prestaties omvatten minstens de prestaties vermeldt onder § 4 van dit artikel.<br>
+Het medische zorgbeleid van het woonzorgcentrum wordt minstens elke twee jaar geëvalueerd en geactualiseerd.<br>
 <br>
-De vergoeding is minstens gelijk aan het bedrag waarvoor het woonzorgcentrum een tegemoetkoming ontvangt in het kader van artikel 500 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+De coördinerende en raadgevende arts verstrekt, in overeenstemming met het reglement van de medische activiteit van het woonzorgcentrum, advies aan de initiatiefnemer over beleidsmatige medische aangelegenheden. De initiatiefnemer is de eindverantwoordelijke voor het medische zorgbeleid.<br>
 <br>
-De prestaties van de coördinerend en raadgevend arts bedragen gemiddeld minstens twee uur en twintig minuten per week per dertig bewoners.<br>
+§2. In elk woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, stelt de initiatiefnemer een of meer coördinerende en raadgevende artsen aan. Als er verschillende coördinerende en raadgevende artsen zijn aangesteld, worden hun taken en functies samen uitgeoefend en wijst de initiatiefnemer onder hen één titelvoerende coördinerende en raadgevende arts aan.<br>
 <br>
-§ 2. De opleidingscyclus, vermeld in paragraaf 1, behandelt de organisatie van een Vlaams woonzorgcentrum en centrum voor kortverblijf type 1 en de zorg binnen een Vlaams woonzorgcentrum en een centrum voor kortverblijf type 1, met verwijzing naar de regelgeving die van toepassing is op het woonzorgcentrum en het centrum voor kortverblijf type 1 in kwestie. De organisatie die de opleidingscyclus aanbiedt, heeft minstens een samenwerkingsverband met een van de academische huisartsencentra van de Vlaamse universiteiten gesloten.<br>
+Iedere coördinerende en raadgevende arts is een erkende huisarts en is uiterlijk vier jaar na de aanstelling houder van een attest dat toegang verleent tot de functie van coördinerende en raadgevende arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door de administratie, met vrucht afgerond is. Gedurende de duurtijd van de aanstelling toont de arts zijn actieve deelname aan de continue professionele navorming voor huisartsen en voor coördinerende en raadgevende artsen aan.<br>
 <br>
-De Vlaamse Regering kan bijkomende kwaliteitscriteria voor de opleidingscyclus bepalen, alsook de voorwaarden voor de Continue Professionele Educatie, CPE, die jaarlijks onderhouden wordt.<br>
+Het woonzorgcentrum gaat in dialoog met de huisartsenkring die actief is in de gemeente waarin het woonzorgcentrum ligt, over de kandidaten voor coördinerende en raadgevende arts, die door beide partijen kunnen worden voorgedragen. De initiatiefnemer behoudt het recht om onder de voorgedragen kandidaten autonoom een keuze te maken.<br>
 <br>
-Die opleidingscyclus omvat minstens de volgende onderdelen:<br>
-1° de organisatie van en de regelgeving over woonzorgcentra en centra voor kortverblijf type 1, inclusief de kwaliteit van zorg;<br>
-2° de specificiteit van de geriatrische geneeskunde, inclusief palliatieve zorg, levenseindezorg en farmaceutische zorg;<br>
-3° het voorkomen en het beheersen van uitbraken van infecties, en het beheer van de antibiotherapie;<br>
-4° de communicatietechnieken, inclusief de communicatie met bewoners met mentale of cognitieve beperkingen en de communicatie over de wensen en voorkeuren van de bewoners.<br>
+Iedere coördinerende en raadgevende arts is verbonden aan het woonzorgcentrum met een ondernemingscontract dat of een overeenkomst die de functionele relatie tussen de coördinerende en raadgevende arts en de initiatiefnemer bepaalt. De administratie kan een exemplaar van dat contract of die overeenkomst opvragen. Het ondernemingscontract of de overeenkomst vermeldt de rechten en plichten van beide partijen, waaronder al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de te leveren prestaties;<br>
+2°&nbsp;&nbsp; &nbsp;de aanwezigheidsvergoeding;<br>
+3°&nbsp;&nbsp; &nbsp;de afspraken over het functionele honorarium, vermeld in artikel 33/2.<br>
 <br>
-De Vlaamse Regering bepaalt de procedure om de erkenning van de opleidingscyclus te verkrijgen, en de regels voor de evaluatie van de opleidingscyclus, vermeld in paragraaf 1, eerste lid, en kan ook bijkomend regels vaststellen voor de duur van de erkenning en de weigering, wijziging of intrekking van de erkenning. De minister kan de onderdelen, vermeld in het derde lid, nader bepalen.<br>
+Geen enkele vorm van overeenkomst bevat een exclusiviteitsbeding of een niet-concurrentiebeding
+
+### ART 33/2.
+
+De vergoeding voor de functie van de coördinerende en raadgevende arts of artsen is minstens gelijk aan het bedrag waarvoor het woonzorgcentrum een tegemoetkoming ontvangt als vermeld in artikel 500 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.&nbsp;<br>
 <br>
-Het toezicht op de opleidingscyclus, vermeld in het eerste lid, wordt uitgeoefend met inachtneming van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid waarbij de opleidingsinstantie wordt behandeld als een actor in de zorg.<br>
+De vergoeding, vermeld in het eerste lid, bestaat uit de volgende gedeelten:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een aanwezigheidsvergoeding;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;een functioneel honorarium.<br>
 <br>
-§ 3. De kandidaten coördinerend en raadgevend arts worden voorgedragen door de huisartsenkring die actief is in de gemeente waarin het woonzorgcentrum, al dan niet met bijbehorende centrum voor kortverblijf type 1, zich bevindt. De initiatiefnemer behoudt het recht om onder de voorgedragen kandidaten autonoom een keuze te maken.<br>
+De coördinerende en raadgevende arts is minstens gemiddeld drie uur per week aanwezig in een woonzorgcentrum met vijftig of meer erkende woongelegenheden, hetzij individueel, hetzij in een groep van coördinerende en raadgevende artsen.&nbsp;<br>
 <br>
-§ 4. In samenspraak met de directeur, de hoofdverpleegkundige(n) of, in voorkomend geval, de teamverantwoordelijke(n) staat de coördinerend en raadgevend arts in voor al de volgende taken:<br>
-1° in relatie met het medische korps:<br>
-a) op geregelde tijdstippen, individuele en collectieve overlegvergaderingen met de behandelende artsen organiseren;<br>
-b) de continuïteit van de medische zorg coördineren en organiseren;<br>
-c) de opmaak en het up-to-date houden van de dossiers van de bewoners die de behandelende artsen bijhouden, coördineren;<br>
-d) de medische activiteiten bij ziektetoestanden die gevaar opleveren voor de bewoners of het personeel, coördineren;<br>
-e) het farmaceutische zorgbeleid coördineren in overleg met de behandelende artsen en de apotheker die de geneesmiddelen levert voor de bewoners in het woonzorgcentrum, of, in voorkomend geval, de coördinerende en adviserende apotheker. Dat omvat voor de geneesmiddelen ten minste het opstellen en het gebruik van een geneesmiddelenformularium omvat, alsook het oordeelkundige gebruik van specifieke geneesmiddelenklassen en de alternatieve niet-farmacologische aanpak bij de bewoners van het woonzorgcentrum;<br>
-f) huisartsen die in het woonzorgcentrum werken, actief informeren over het beleid van het woonzorgcentrum met betrekking tot het rationeel voorschrijven van geneesmiddelen;<br>
-2° bijscholing en vorming: meewerken aan de organisatie van activiteiten in het kader van bijscholing en vorming in het domein van de gezondheidszorg voor het personeel van het woonzorgcentrum, al dan niet met bijbehorend centrum voor kortverblijf type 1, en voor de betrokken behandelende artsen.<br>
+Woonzorgcentra met minder dan vijftig erkende woongelegenheden kunnen afwijken van de aanwezigheidsduur, vermeld in het derde lid, en beschrijven de aanwezigheidsduur in de overeenkomst tussen het woonzorgcentrum en de coördinerende en raadgevende arts.<br>
 <br>
-De minister kan de taken, vermeld in het eerste lid, 1°, nader bepalen en kan bepalen welke vormingsactiviteiten voor de bijscholing en vorming, vermeld in het eerste lid, 2°, in aanmerking komen.<br>
+De aanwezigheidsvergoeding, vermeld in het tweede lid, 1°, is gelijk aan 65,63 euro per uur, gekoppeld aan het spilindexcijfer 103,04 (1 juni 2017; basis 2013 = 100). De indexering verloopt conform artikel 511 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
-§ 5. De aanstelling van een coördinerend en raadgevend arts mag niet leiden tot een feitelijke beperking van de vrije keuze van de huisarts.
+Het functionele honorarium, vermeld in het tweede lid, 2°, is het verschil tussen het deel F van de basistegemoetkoming zorg, vermeld in artikel 500 van het besluit van de Vlaamse Regering houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, en de aanwezigheidsvergoeding, vermeld in het tweede lid, 1°, en het vijfde lid. Het functionele honorarium wordt besteed aan de uitvoering van het medische zorgbeleid en wordt beschreven per kalenderjaar.<br>
+<br>
+Het functionele honorarium, vermeld in het tweede lid, 2°, is voorbestemd voor de uitvoering van de taken, vermeld in artikel 33/4, §1. De titelvoerende coördinerende en raadgevende arts en de initiatiefnemer beslissen samen over de besteding ervan.<br>
+<br>
+De initiatiefnemer toont aan dat de vergoeding voor de coördinerende en raadgevende arts besteed wordt conform de overeenkomst tussen de coördinerende en raadgevende arts en het woonzorgcentrum, vermeld in artikel 33/1.<br>
+<br>
+Als de titelvoerende coördinerende en raadgevende arts en de initiatiefnemer niet tot een gezamenlijke beslissing komen over de besteding van het functionele honorarium, vermeld in het tweede lid, 2°, vordert de administratie het functionele honorarium terug.
+
+### ART 33/3.
+
+De opleidingscyclus, vermeld in artikel 33/1, §2, tweede lid, behandelt de organisatie van en het medische zorgbeleid in een Vlaams woonzorgcentrum en centrum voor kortverblijf type 1. De organisatie die die opleidingscyclus aanbiedt, heeft minstens een samenwerkingsverband met een van de academische huisartsencentra van de Vlaamse universiteiten, vermeld in II.2 van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+<br>
+De Vlaamse Regering kan bijkomende kwaliteitscriteria voor de opleidingscyclus, vermeld in het eerste lid, bepalen, en ook de voorwaarden voor de continue professionele navorming, die jaarlijks onderhouden wordt.&nbsp;<br>
+<br>
+De opleidingscyclus, vermeld in het eerste lid, omvat al de volgende onderdelen:<br>
+1°&nbsp;&nbsp; &nbsp;de organisatie van en de regelgeving over woonzorgcentra en centra voor kortverblijf type 1 en andere woonzorgvormen, inclusief de kwaliteit van de zorg;<br>
+2°&nbsp;&nbsp; &nbsp;de specificiteit van de geriatrische geneeskunde, inclusief palliatieve zorg, levenseindezorg en farmaceutische zorg;<br>
+3°&nbsp;&nbsp; &nbsp;het voorkomen en het beheersen van uitbraken van infecties en het beheer van de antimicrobiële middelen;<br>
+4°&nbsp;&nbsp; &nbsp;risicobeheer en kwaliteit op het vlak van medisch zorgbeleid verbeteren vanuit analyse van incidenten en bijna-incidenten;<br>
+5°&nbsp;&nbsp; &nbsp;de communicatietechnieken, inclusief de communicatie met bewoners met mentale of cognitieve beperkingen en de communicatie over de wensen en voorkeuren van de bewoners over hun behandeling en levenseinde.<br>
+<br>
+De Vlaamse Regering bepaalt:<br>
+1°&nbsp;&nbsp; &nbsp;de procedure om de erkenning van de opleidingscyclus te verkrijgen;<br>
+2°&nbsp;&nbsp; &nbsp;de regels voor de evaluatie van de opleidingscyclus, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering kan bijkomend regels vaststellen voor de duur van de erkenning en de weigering, wijziging of intrekking van de erkenning. De minister kan de lijst van onderdelen, vermeld in het derde lid, nader bepalen.<br>
+<br>
+Het toezicht op de opleidingscyclus, vermeld in het eerste lid, wordt uitgeoefend met inachtneming van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid, waarbij de opleidingsinstantie wordt behandeld als een actor in de zorg.
+
+### ART 33/4.
+
+§1. In samenspraak met de directeur, de hoofdverpleegkundige of hoofdverpleegkundigen of, in voorkomend geval, de teamverantwoordelijke of teamverantwoordelijken staat de coördinerende en raadgevende arts in voor al de volgende taken:<br>
+1°&nbsp;&nbsp; &nbsp;actief participeren in het beleidsoverleg van de initiatiefnemer over het te voeren medische zorgbeleid;<br>
+2°&nbsp;&nbsp; &nbsp;het medische zorgbeleid afstemmen met de arbeidsarts over thema’s die het welzijn van de medewerkers aanbelangen;<br>
+3°&nbsp;&nbsp; &nbsp;op uitnodiging van de leden van de bewonersraad aanwezig zijn op de bewonersraad;<br>
+4°&nbsp;&nbsp; &nbsp;bemiddelen bij conflicten met bewoners, families en mantelzorgers over het medische zorgbeleid;<br>
+5°&nbsp;&nbsp; &nbsp;in relatie tot de behandelende artsen in het woonzorgcentrum:<br>
+a)&nbsp;&nbsp; &nbsp;op geregelde tijdstippen individuele en collectieve overlegvergaderingen organiseren met de behandelende artsen;<br>
+b)&nbsp;&nbsp; &nbsp;de continuïteit van de medische zorg coördineren en organiseren;<br>
+c)&nbsp;&nbsp; &nbsp;de behandelende artsen stimuleren het medische gedeelte van het woonzorgleefplan actueel te houden;<br>
+d)&nbsp;&nbsp; &nbsp;het infectiologische beleid en de populatiegerichte medische zorg coördineren bij ziektetoestanden die impact hebben op meer dan één bewoner, het personeel of het woonzorgcentrum;<br>
+e)&nbsp;&nbsp; &nbsp;het farmacologische zorgbeleid coördineren en bijsturen in overleg met de behandelende artsen en de apotheker die de geneesmiddelen levert aan de bewoners in het woonzorgcentrum of, in voorkomend geval, met de coördinerende en adviserende apotheker, wat voor de geneesmiddelen ten minste het volgende omvat:<br>
+a)&nbsp;&nbsp; &nbsp;een geneesmiddelenformularium opstellen en gebruiken;<br>
+b)&nbsp;&nbsp; &nbsp;specifieke geneesmiddelenklassen oordeelkundig gebruiken;<br>
+c)&nbsp;&nbsp; &nbsp;de alternatieve niet-farmacologische aanpak bij de bewoners van het woonzorgcentrum;<br>
+f)&nbsp;&nbsp; &nbsp;behandelende huisartsen actief betrekken bij en informeren over het rationeel voorschrijven van geneesmiddelen;<br>
+g)&nbsp;&nbsp; &nbsp;het mondzorgbeleid in het woonzorgcentrum coördineren;<br>
+6°&nbsp;&nbsp; &nbsp;met de huisartsenkring die actief is in de huisartsenzone waarin het woonzorgcentrum zich bevindt, streven naar een eenvormig medisch zorgbeleid voor alle woonzorgcentra in die huisartsenzone;<br>
+7°&nbsp;&nbsp; &nbsp;met de zorgvoorzieningen en de coördinerende en adviserende apotheker met wie het woonzorgcentrum een schriftelijke samenwerkingsovereenkomst heeft, op structurele wijze overleg plegen en hen actief informeren over het medische zorgbeleid;<br>
+8°&nbsp;&nbsp; &nbsp;meewerken aan de organisatie van bijscholing en vorming over medische aangelegenheden en het medische zorgbeleid;<br>
+9°&nbsp;&nbsp; &nbsp;op eigen initiatief of op verzoek van de initiatiefnemer advies verlenen over het medische zorgbeleid.<br>
+<br>
+De minister kan de taken, vermeld in het eerste lid, nader bepalen.<br>
+<br>
+§2. De aanstelling van een coördinerende en raadgevende arts leidt niet tot een feitelijke beperking van de vrije keuze van huisarts door de bewoner.
 
 ### ART 34.
 
@@ -6667,18 +6721,36 @@ De minister kan de taken, vermeld in het eerste lid, 1°, nader bepalen en kan b
 
 ### ART 35.
 
-<p><span style="color:black">Voor de organisatie van het medische beleid beschikt de initiatiefnemer over een algemeen reglement van de medische activiteit met de rechten en plichten van de behandelende artsen die actief zijn in het woonzorgcentrum. Dat reglement wordt overhandigd aan elke behandelende arts. Door dat reglement te ondertekenen verbindt elke behandelende arts zich ertoe om zo efficiënt mogelijk samen te werken aan de medische organisatie en de medische zorg van het woonzorgcentrum.<br>
+<p>§1. Voor de organisatie van het medische zorgbeleid beschikt de initiatiefnemer over een algemeen reglement van de medische activiteit met de rechten en plichten van de behandelende artsen die actief zijn in het woonzorgcentrum. Dat reglement wordt overhandigd aan elke behandelende arts. Door dat reglement te ondertekenen, verbindt de behandelende arts zich ertoe zo efficiënt mogelijk samen te werken aan het medische zorgbeleid van het woonzorgcentrum.<br>
 <br>
-Het algemeen reglement van de medische activiteit beschrijft minstens de volgende punten:<br>
-1° het engagement van de behandelende artsen om aan te sluiten bij een coherent medisch beleid binnen het woonzorgcentrum, onder andere met betrekking tot het voorschrijven en opvolgen van medicatie en specifiek antibiotica<strong>,</strong> het verlenen van kwaliteitsvolle zorg, het interdisciplinair overleg, het overleg met de toeleverende apotheker(s), en het overleg met de coördinerend en raadgevend arts en, in voorkomend geval, de coördinerende en adviserende apotheker;<br>
-2° de normale openings- en bezoektijden behalve in noodgeval;<br>
-3° de contacten met familie;<br>
-4° de overlegvergaderingen in het woonzorgcentrum;<br>
-5° het bijhouden van het medische dossier van de bewoner inclusief het&nbsp;valideren van het medicatieschema;<br>
-6°&nbsp;het gebruik van het geneesmiddelenformularium, onder andere het voorschrijven van de minst dure geneesmiddelen, alsook het gebruik van elektronische voorschriften en de correcte toepassing van de richtlijnen rond antibioticumgebruik;<br>
-7° de facturatiemodaliteiten van de honoraria;<br>
-8° de informatiedoorstroming in geval van overdraagbare ziekten.<br>
-9°&nbsp;de verbintenis om relevante gezondheidsgegevens van hun patiënten interdisciplinair te delen, met toestemming van de bewoner of zijn vertegenwoordiger met het oog op de kwaliteit en de continuïteit van de zorg en ondersteuning van de bewoner.</span></p>
+Als een arts die een bewoner in het woonzorgcentrum behandelt, het algemeen reglement van de medische activiteit, vermeld in het eerste lid, niet ondertekent, bespreekt de coördinerende en raadgevende arts dat met die arts. Als die arts na dat gesprek het algemeen reglement van de medische activiteit niet ondertekent, informeert het woonzorgcentrum de huisartsenkring die actief is in de huisartsenzone waarin het woonzorgcentrum zich bevindt, en vraagt de huisartsenkring te bemiddelen zodat de arts het algemeen reglement van de medische activiteit ondertekent.&nbsp;<br>
+<br>
+§2. Het algemeen reglement van de medische activiteit, vermeld in paragraaf 1, beschrijft al de volgende punten:<br>
+1°&nbsp;&nbsp; &nbsp;de afspraken over de adviesbevoegdheid van de coördinerende en raadgevende arts of artsen ten aanzien van de initiatiefnemer;<br>
+2°&nbsp;&nbsp; &nbsp;de naam, de bereikbaarheid en de functiebeschrijving van de coördinerende en raadgevende arts of artsen. Als verschillende artsen de taken en functies van de coördinerende en raadgevende arts uitoefenen, wijzen die artsen één titelvoerende coördinerende en raadgevende arts aan. De titelvoerende coördinerende en raadgevende arts is de contactpersoon met de administratie en het Departement Zorg. Alle andere taken en functies worden onderling tussen alle coördinerende en raadgevende artsen beschreven en verdeeld;<br>
+3°&nbsp;&nbsp; &nbsp;de processen en procedures die de behandelende arts aanbelangen om het medisch zorgbeleid te realiseren;<br>
+4°&nbsp;&nbsp; &nbsp;de wijze waarop de behandelende artsen betrokken worden bij de ontwikkeling, uitvoering, opvolging en evaluatie van het medische zorgbeleid van het woonzorgcentrum;<br>
+5°&nbsp;&nbsp; &nbsp;het engagement van de behandelende artsen om mee te werken aan het medische zorgbeleid in het woonzorgcentrum, voor al de volgende elementen:<br>
+a)&nbsp;&nbsp; &nbsp;het gewetensvolle, expliciete en oordeelkundige gebruik van het beste recente wetenschappelijke bewijs bij het maken van keuzes over de zorg, rekening houdend met de klinische en sociale context;<br>
+b)&nbsp;&nbsp; &nbsp;het voorschrijven en opvolgen van medicatie, in het bijzonder van antibiotica;<br>
+c)&nbsp;&nbsp; &nbsp;het verlenen van kwaliteitsvolle medische zorg, met in het bijzonder aandacht voor:<br>
+1)&nbsp;&nbsp; &nbsp;dementiezorg;<br>
+2)&nbsp;&nbsp; &nbsp;palliatieve en levenseindezorg;<br>
+3)&nbsp;&nbsp; &nbsp;valpreventie;<br>
+4)&nbsp;&nbsp; &nbsp;infectiepreventie en -bestrijding;<br>
+5)&nbsp;&nbsp; &nbsp;ondervoeding;<br>
+6)&nbsp;&nbsp; &nbsp;vrijheidsbeperkende maatregelen;<br>
+7)&nbsp;&nbsp; &nbsp;mondzorg;<br>
+d)&nbsp;&nbsp; &nbsp;het overleg met de toeleverende apothekers en, als dat van toepassing is, het overleg met de andere coördinerende en raadgevende artsen en de coördinerende en adviserende apotheker;<br>
+6°&nbsp;&nbsp; &nbsp;de afspraken over het bezoek door de behandelende arts aan de bewoner, waaronder de aangewezen tijdstippen en de informatieoverdracht tussen de behandelende arts en een verpleegkundige, uitgezonderd in spoedeisende situaties;<br>
+7°&nbsp;&nbsp; &nbsp;de overlegstructuur in het woonzorgcentrum waaraan de coördinerende en raadgevende arts deelneemt en waarvoor een behandelende arts kan worden uitgenodigd;<br>
+8°&nbsp;&nbsp; &nbsp;de afspraken over het bijhouden en actualiseren van het medische dossier van de bewoner, inclusief het valideren van het medicatieschema en de informatie die nodig is voor ongeplande zorg;<br>
+9°&nbsp;&nbsp; &nbsp;het gebruik van het geneesmiddelenformularium, het gebruik van elektronische voorschriften en de correcte toepassing van de richtlijnen op het vlak van geneesmiddelen;<br>
+10°&nbsp;&nbsp; &nbsp;de facturatiemodaliteiten van de honoraria;<br>
+11°&nbsp;&nbsp; &nbsp;de wijze van informatiedoorstroming in geval van overdraagbare ziekten;<br>
+12°&nbsp;&nbsp; &nbsp;de verbintenis om als lid van het zorgteam interdisciplinair samen te werken met het oog op de kwaliteit en de continuïteit van de zorg en ondersteuning van de bewoner en het woonzorgleefplan van een bewoner;<br>
+13°&nbsp;&nbsp; &nbsp;de aanpak van een situatie waarin wordt vastgesteld dat een behandelende arts het ondertekende algemeen reglement van de medische activiteit niet naleeft en de bevoegdheid van de coördinerende en raadgevende arts daarin;<br>
+14°&nbsp;&nbsp; &nbsp;het mandaat van de coördinerende en raadgevende arts in populatiegerichte medische zorg in het woonzorgcentrum, de relatie tussen die populatiegerichte medische zorg en de individuele behandeling door een huisarts van een bewoner in het woonzorgcentrum en de relatie tot handelingswijzen die ontwikkeld worden in het kader van risicoparaatheid.</p>
 
 ### ART 36.
 
