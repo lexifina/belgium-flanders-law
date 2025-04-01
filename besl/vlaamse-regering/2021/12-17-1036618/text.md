@@ -100,22 +100,15 @@ De exploitant voert het gewestgrensoverschrijdend geregeld vervoer uit overeenko
 
 ### ART 12.
 
-De exploitant kan in het kader van een overeenkomst met overheden, publieke instellingen en privépartners specifieke vervoerbewijzen met korting en geïntegreerde vervoerbewijzen aanbieden.
+...
 
 ### ART 13.
 
-Om het aanbod op economisch verantwoorde wijze af te stemmen op de reële vraag van de reizigers en de vraag naar zijn diensten te stimuleren, kan de exploitant kortingen toekennen en promotionele vervoerbewijzen aanbieden.<br>
-<br>
-In het eerste lid wordt verstaan onder promotionele vervoerbewijzen: tijdelijk door de exploitant aangeboden vervoerbewijzen waarvan de prijs in het kader van een promotionele actie afwijkt van de tarieven bepaald in het besluit van de Vlaamse Regering van 24 januari 2020 tot bepaling van het tariefbeleid voor het kernnet en het aanvullende net en tot wijziging van artikel 66 van het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de exploitatie en de tarieven van de VVM.
+...
 
 ### ART 14.
 
-De volgende categorieën van personen zijn vrijgesteld van betaling van het openbaar vervoer binnen het kernnet en aanvullend net:<br>
-1° personen met een handicap;<br>
-2° personen die in het bezit zijn van een begeleiderskaart en die een persoon met een handicap begeleiden tijdens de reis;<br>
-3° oud-strijders en personen die met hen gelijkgesteld zijn;<br>
-4° begeleide kinderen tot zes jaar;<br>
-5° parlementsleden, als ze geen afstand doen van hun grondwettelijk prerogatief.
+...
 
 ### ART 15.
 
