@@ -99,11 +99,9 @@ Het departement beheert de opleidingsdatabank, die deel uitmaakt van het digital
 
 Voor de start van de opleiding meldt de verstrekker van de opleiding, vermeld in artikel 109, § 1, van de wet van 22 januari 1985, de opleiding, die voldoet aan de voorwaarden, vermeld in artikel 2, ter registratie aan in de opleidingsdatabank.<br>
 <br>
-In afwijking van het eerste lid meldt de verstrekker van de opleiding, vermeld in artikel 109, § 1, eerste lid, 3° en 4°, van de wet van 22 januari 1985, de opleiding, die voldoet aan de voorwaarden vermeld in artikel 2, aan ter registratie ten minste drie maanden voor de start van de opleiding.<br>
-<br>
 De minister bepaalt de wijze van aanmelding ter registratie en welke gegevens en documenten worden ingediend.<br>
 <br>
-In geval van een onvolledige aanmelding ter registratie vraagt het departement de opleidingsverstrekker om de ontbrekende gegevens en documenten binnen een termijn van dertig dagen aan te vullen.
+In geval van een onvolledige aanmelding ter registratie vraagt het departement de ontbrekende gegevens en documenten bij de opleidingsverstrekker op. Als het departement binnen een termijn van dertig dagen vanaf de datum van het opvragen van de ontbrekende informatie niet over de ontbrekende informatie beschikt, verklaart het departement de aanmelding ter registratie onontvankelijk. De aanvrager wordt daarvan op de hoogte gebracht.
 
 ### ART 5.
 
@@ -125,9 +123,9 @@ Als de bevoegde goedkeuringsinstantie de registratie weigert, motiveert ze haar 
 
 ### ART 6.
 
-Bij elke wijziging van het programma van een opleiding waarvan de registratie is goedgekeurd, meldt de opleidingsverstrekker de gewijzigde opleiding als nieuwe opleiding aan ter registratie in de opleidingsdatabank, ten minste drie maanden voor de start van de opleiding.<br>
+Bij elke wijziging van het programma van een opleiding waarvan de registratie is goedgekeurd, meldt de opleidingsverstrekker de gewijzigde opleiding als nieuwe opleiding aan ter registratie in de opleidingsdatabank.<br>
 <br>
-In afwijking van het eerste lid meldt de verstrekker van de opleiding vermeld in artikel 109, § 1, 1° en 2°, van de wet van 22 januari 1985 de gewijzigde opleiding als nieuwe opleiding aan ter registratie in de opleidingendatabank, voor de start van de opleiding.<br>
+In afwijking van het eerste lid meldt de verstrekker van de opleiding vermeld in artikel 109, § 1, 1° en 2°, van de wet van 22 januari 1985 de gewijzigde opleiding als nieuwe opleiding aan ter registratie in de opleidingsdatabank, voor de start van de opleiding.<br>
 <br>
 In afwijking van het eerste lid is de verplichting in het eerste lid niet van toepassing voor de opleidingen die zijn opgenomen in het Hogeronderwijsregister, vermeld in artikel II.170 van de Codex Hoger Onderwijs van 11 oktober 2013.
 
@@ -184,7 +182,7 @@ Het departement oordeelt op basis van de gegevens waarover het beschikt in de op
 <br>
 Als het departement over te weinig informatie beschikt om de evaluatie te maken, vraagt het bijkomende gegevens op bij de opleidingsverstrekker.<br>
 <br>
-De opleidingsverstrekker bezorgt die gegevens binnen een termijn van een maand vanaf het verzoek.
+De opleidingsverstrekker bezorgt die gegevens binnen een termijn van een maand vanaf het verzoek.&nbsp;Als de opleidingsverstrekker die gegevens niet bezorgd heeft binnen een maand na de aangetekende aanmaning, wordt de opleiding uit de opleidingsdatabank verwijderd. De opleidingsverstrekker wordt daarvan op de hoogte gebracht. De opleidingsverstrekker verwittigt onverwijld de voor de opleiding ingeschreven werknemers, die op het ogenblik dat de opleiding uit de opleidingsdatabank verwijderd wordt nog niet met de opleiding gestart zijn, dat de opleiding geen recht meer geeft op Vlaams opleidingsverlof. De werknemer informeert de werkgever hierover.
 
 ### ART 13.
 
@@ -194,11 +192,7 @@ Het departement brengt de opleidingsverstrekker op de hoogte van een negatieve e
 
 § 1. Bij een positieve evaluatie wordt de goedkeuring van de registratie van de arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof met een jaar verlengd.<br>
 <br>
-§ 2. Bij een negatieve evaluatie beschikt de opleidingsverstrekker over een termijn van een jaar vanaf de kennisgeving van de evaluatie om de opleiding bij te sturen en de nieuwe opleiding aan te melden ter registratie.<br>
-<br>
-Na de bijsturing van de opleiding meldt de opleidingsverstrekker de opleiding als nieuwe opleiding aan ter registratie in de opleidingsdatabank, volgens de procedure vermeld in artikel 5, § 2.<br>
-<br>
-De negatief geëvalueerde opleiding verliest van rechtswege de status van arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof twee maanden na de kennisgeving van de negatieve evaluatie of in geval van een beroepsprocedure twee maanden na de kennisgeving van de negatieve evaluatie door de Beroeps- en Evaluatiecommissie van het departement Werk en Sociale Economie, vermeld in het eerste lid.
+§ 2.&nbsp;De negatief geëvalueerde opleiding verliest van rechtswege de status van arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof twee maanden na de kennisgeving van de negatieve evaluatie of in geval van een beroepsprocedure twee maanden na de kennisgeving van de negatieve evaluatie door de Beroeps- en Evaluatiecommissie van het departement Werk en Sociale Economie, vermeld in het eerste lid.&nbsp;De opleidingsverstrekker verwittigt onverwijld de voor de opleiding ingeschreven werknemers, die op het ogenblik dat de opleiding uit de opleidingsdatabank verwijderd wordt nog niet met de opleiding gestart zijn, dat de opleiding geen recht meer geeft op Vlaams opleidingsverlof. De werknemer informeert de werkgever hierover.
 
 ### ART 15.
 
@@ -330,9 +324,9 @@ Als het departement vaststelt dat de werknemer de opleiding, vermeld in artikel 
 
 ### ART 29.
 
-§ 1. De opleidingsverstrekker, vermeld in artikel 109 van de wet van 22 januari 1985, bezorgt de werknemer het inschrijvingsattest en het certificaat. De minister bepaalt de vermeldingen op deze documenten.<br>
+§1. De opleidingsverstrekker, vermeld in artikel 109 van de wet van 22 januari 1985, bezorgt de werknemer het inschrijvingsattest en het certificaat. De minister bepaalt de vermeldingen op deze documenten.<br>
 <br>
-§ 2. De opleidingsverstrekker registreert in het digitale platform Vlaamse opleidingsincentives:<br>
+§2. De opleidingsverstrekker registreert in het digitale platform Vlaamse opleidingsincentives:<br>
 1° in geval van een opleiding die regelmatige aanwezigheid vereist:<br>
 a) het aantal uren aanwezigheid;<br>
 b) het aantal uren gewettigde afwezigheid;<br>
@@ -348,11 +342,11 @@ b) de datum van het behalen van het evaluatieresultaat of de aflevering van het 
 a) het attest dat verklaart dat de werknemer het leerproces heeft doorlopen;<br>
 b) de datum van aflevering van het certificaat.<br>
 <br>
-§ 3. De minister bepaalt de concrete modaliteiten voor de attestering en de registratie door de opleidingsverstrekker.<br>
+§3. De minister bepaalt de concrete modaliteiten voor de attestering en de registratie door de opleidingsverstrekker.<br>
 <br>
-§ 4. De verstrekker van een opleiding die regelmatige aanwezigheid vereist, houdt een dagelijkse aanwezigheidslijst of -register ter beschikking van de Vlaamse sociale inspectie.<br>
+§4. De verstrekker van een opleiding die regelmatige aanwezigheid vereist, houdt een dagelijkse aanwezigheidslijst ter beschikking van het departement en de Vlaamse Sociale Inspectie voor evaluatie en toezicht.<br>
 <br>
-§ 5. De opleidingsverstrekker brengt het departement op de hoogte van de stopzetting van een opleiding.
+§5. De opleidingsverstrekker brengt het departement op de hoogte van de stopzetting van een opleiding.
 
 ### ART 30.
 
@@ -360,58 +354,59 @@ De opleidingsverstrekker verstrekt op verzoek van het departement de inlichtinge
 
 ### ART 31.
 
-De opleidingsverstrekker die de verplichtingen inzake attestering, vermeld in deze afdeling, niet nakomt, ontvangt een aangetekende aanmaning. Indien de opleidingsverstrekker hieraan geen gevolg geeft binnen een periode van 30 dagen trekt het departement de registratie van zijn geregistreerde opleidingen ambtshalve in.
+De opleidingsverstrekker die de verplichtingen inzake attestering en registratie, vermeld in deze afdeling, niet nakomt, ontvangt een aangetekende aanmaning. Als de opleidingsverstrekker daaraan geen gevolg geeft binnen een periode van dertig dagen, kan het departement bij zwaarwichtige of herhaaldelijk vastgestelde inbreuken op de naleving van voormelde verplichtingen, de registratie van zijn geregistreerde opleidingen ambtshalve intrekken.
 
 ## HOOFDSTUK 5. Terugbetaling aan de werkgever
 
-## Afdeling 1. Voorwaarden
+## Afdeling 1. Aanvraagprocedure
 
 ### ART 32.
 
-De werkgever krijgt een terugbetaling van de lonen en de sociale bijdragen in kader van het Vlaams opleidingsverlof als:<br>
-1° de registratie van de opleiding goedgekeurd is volgens de procedure, vermeld in hoofdstuk 2, afdeling 3;<br>
-2° hij de uren Vlaams opleidingsverlof in de DmfA correct heeft geregistreerd;<br>
-3° de werknemer zijn maximum aantal uren niet heeft overschreden;<br>
-4° de werknemer de opleiding nauwgezet heeft gevolgd.<br>
-5° de werknemer akkoord is om de opleiding te volgen onder het stelsel van het Vlaams opleidingsverlof.<br>
+De werkgever dient een aanvraag tot terugbetaling in door de opleiding van de werknemer aan te melden in het digitale platform Vlaamse opleidingsincentives binnen een termijn van drie maanden na de start van de opleiding. De minister bepaalt de verdere modaliteiten van de aanvraag.<br>
+<br>
+Als de werknemer een loopbaangerichte opleiding volgt, bezorgt de werknemer aan het departement een attest van de loopbaanbegeleider met zijn persoonlijke ontwikkelingsplan waarin de noodzakelijke behoefte aan die opleiding is opgenomen, samen met het inschrijvingsbewijs.
+
+### ART 33.
+
+De werkgever verstrekt op verzoek van het departement de inlichtingen die noodzakelijk zijn om zijn aanvraag tot terugbetaling goed te keuren of te berekenen.<br>
+<br>
+Als de werkgever nalaat de inlichtingen te verstrekken binnen dertig dagen vanaf de dag waarop de werkgever het verzoek om aanvullende informatie heeft ontvangen, vervalt zijn aanvraag tot terugbetaling.
+
+### ART 34.
+
+Nadat het departement de aanvraag onderzocht heeft en vastgesteld heeft dat de terugbetalingsaanvraag voldoet aan de voorwaarden van het Vlaams opleidingsverlof, brengt het departement de werkgever en de werknemer daarvan schriftelijk op de hoogte.<br>
+<br>
+Als het departement vaststelt dat de terugbetalingsaanvraag niet voldoet aan de voorwaarden van het Vlaams opleidingsverlof, brengt het departement de werkgever en de werknemer hiervan schriftelijk op de hoogte met vermelding van de motivering voor de weigering van de terugbetaling.
+
+## Afdeling 2. Registratie van opgenomen Vlaams opleidingsverlof
+
+### ART 35.
+
+Per kwartaal registreert de werkgever in de DmfA het aantal uren Vlaams opleidingsverlof dat de werknemer heeft opgenomen.
+
+## Afdeling 3. Berekening van het aantal uren terugbetaling van het Vlaams opleidingsverlof
+
+### ART 36.
+
+Het departement berekent per werknemer en per werkgever per schooljaar het bedrag van de terugbetaling op basis van:<br>
+1° de attestering en de registraties, vermeld in hoofdstuk 4, van de opleidingsverstrekker;<br>
+2° de registratie door de werkgever van het Vlaams opleidingsverlof in de DmfA;<br>
+3° het maximum aantal uren Vlaams opleidingsverlof waarop de werknemer recht heeft;<br>
+4° alle terugbetalingsaanvragen voor de werknemer.<br>
+<br>
+De terugbetaling van het Vlaams opleidingsverlof wordt toegekend voor de uren waarop de werknemer recht heeft, zoals bepaald in artikel 23, op voorwaarde dat de opleiding nauwgezet wordt gevolgd, zoals bepaald in artikel 27.<br>
+<br>
+De terugbetaalde uren zijn beperkt tot het maximum aantal uren Vlaams opleidingsverlof van de werknemer voor dat opleidingsjaar. De terugbetaling aan de werkgever is altijd op voorwaarde dat de werknemer ermee akkoord gaat om de opleiding te volgen onder het stelsel van het Vlaams opleidingsverlof.<br>
 <br>
 Voor de terugbetaling van de uren Vlaams opleidingsverlof die opgenomen zijn door een werknemer die halftijds en met een vast uurrooster werkt, geldt als bijkomende voorwaarde dat de uren Vlaams opleidingsverlof samenvallen met de arbeidsuren van de werknemer volgens zijn dienstrooster.<br>
 <br>
 Voor de terugbetaling van de uren Vlaams opleidingsverlof voor een opleiding met werkplekleren bij een andere werkgever, geldt als bijkomende voorwaarde dat noch de werknemer, noch de eigen werkgever worden vergoed voor de gepresteerde arbeid.<br>
 <br>
-Voor de terugbetaling van de uren Vlaams opleidingsverlof voor een opleiding waarbij de eigen werkgever ook de opleidingsverstrekker is, geldt als bijkomende voorwaarde dat de werknemer dankzij de opleiding in staat is een andere dan de huidige functie of een onder invloed van een grondig wijzigende omgeving sterk veranderende functie, uit te oefenen.
-
-## Afdeling 2. Registratie van opgenomen Vlaams opleidingsverlof
-
-### ART 33.
-
-De werkgever dient een aanvraag tot terugbetaling in door de opleiding van de werknemer aan te melden in het digitale platform Vlaamse opleidingsincentives binnen een termijn van drie maanden na de start van de opleiding. De minister bepaalt de verdere modaliteiten van de aanvraag. Het departement bevestigt de ontvangst van de aanvraag aan de werknemer en de werkgever.<br>
+Voor de terugbetaling van de uren Vlaams opleidingsverlof voor een opleiding waarbij de eigen werkgever ook de opleidingsverstrekker is, geldt als bijkomende voorwaarde dat de werknemer dankzij de opleiding in staat is een andere dan de huidige functie of een onder invloed van een grondig gewijzigde omgeving sterk veranderende functie, uit te oefenen.<br>
 <br>
-Als de werknemer een loopbaangerichte opleiding volgt, bezorgt hij het departement een attest van de loopbaanbegeleider dat in zijn persoonlijke ontwikkelingsplan de noodzakelijke behoefte aan een opleiding is opgenomen, samen met het inschrijvingsbewijs. Het departement bevestigt de ontvangst van dit attest aan de werknemer en de werkgever.
+Na de berekening bezorgt het departement de werkgever de elementen waarop de berekening gebaseerd is, en, in geval van terugbetaling, het tijdstip van de betaling.
 
-### ART 34.
-
-De werkgever verstrekt op verzoek van het departement de inlichtingen die noodzakelijk zijn om zijn aanvraag te onderzoeken.<br>
-<br>
-Als de werkgever nalaat de inlichtingen te verstrekken binnen een maand, na herhaald verzoek van het departement met een aangetekende brief, vervalt zijn aanvraag tot terugbetaling.
-
-### ART 35.
-
-Het departement beoordeelt de aanvraag tot terugbetaling op basis van:<br>
-1° de ontvangen attestering, vermeld in hoofdstuk 4, van de opleidingsverstrekker;<br>
-2° de registratie door de werkgever van het Vlaams opleidingsverlof in de DmfA;<br>
-3° het maximumaantal uren Vlaams opleidingsverlof waarop de werknemer recht heeft.<br>
-4° het akkoord van de werknemer om de opleiding te volgen onder het stelsel van het Vlaams opleidingsverlof, vermeld in artikel 32, eerste lid, 5°.
-
-### ART 36.
-
-Nadat het departement de aanvraag onderzocht heeft, brengt het de werkgever op de hoogte van de beslissing tot terugbetaling van het Vlaams opleidingsverlof.<br>
-<br>
-De beslissing omvat:<br>
-1° in voorkomend geval, het tijdstip van de terugbetaling;<br>
-2° in voorkomend geval, de motivering voor de niet-terugbetaling.
-
-## Afdeling 3. Berekening van het aantal uren terugbetaling van het Vlaams opleidingsverlof
+## Afdeling 4. Forfaitair bedrag
 
 ### ART 37.
 
