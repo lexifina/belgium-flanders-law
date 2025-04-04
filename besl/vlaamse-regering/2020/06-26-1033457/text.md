@@ -31,9 +31,6 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 De erkenning als regionale televisieomroeporganisatie van onder vermelde omroeporganisaties wordt verlengd van 1 juli 2020 tot en met 30 juni 2029:<br>
-FOCUS Televisie VZW - Regionale televisie voor het Noorden van West-Vlaanderen (Focus)<br>
-Koningstraat 104/8 te 8400 Oostende<br>
-Ondernemingsnr.: 0448.696.363<br>
 Regionale Televisie Aalst-Dendermonde-Sint-Niklaas, Dagelijkse Regionale Informatie en Educatie VZW (TV Oost)<br>
 Stationsplein 14A te 9100 Sint-Niklaas<br>
 Ondernemingsnr.: 0448.803.063<br>
