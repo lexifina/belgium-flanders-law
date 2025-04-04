@@ -24,8 +24,8 @@ Besluit :
 
 ### ART 1.
 
-De erkenning als regionale televisieomroeporganisatie van de West-Vlaamse Televisie Regio Zuid vzw, gevestigd te Kwadestraat 151, bus B, 8800, Roeselare, wordt verlengd van 8 januari 2019 tot en met 8 januari 2028.
+...
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...
