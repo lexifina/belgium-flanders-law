@@ -129,4 +129,11 @@ h)&nbsp;&nbsp; &nbsp;Natuur- en groentechnieken (duaal).<br>
 <br>
 2° Arbeidsmarktfinaliteit: Diamantbewerking (duaal).<br>
 <br>
+* Bij besluit van de Vlaamse Regering van 14 maart 2025&nbsp;worden de curriculumdossiers van de volgende structuuronderdelen van de derde graad van het secundair onderwijs vervangen door de volgende curriculumdossiers:<br>
+1°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arbeidsmarktfinaliteit: Basiszorg en ondersteuning (duaal);<br>
+2°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dubbele finaliteit:<br>
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gezondheidszorg;<br>
+b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optiektechnieken.<br>
+(<a href="https://www.ejustice.just.fgov.be/mopdf/2025/03/26_1.pdf#page=241">link naar de bijlage</a>)<br>
+<br>
 &nbsp;
