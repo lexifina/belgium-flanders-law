@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040679,
+  "title": "Besluit van de Vlaamse Regering van 2025-03-14 tot wijziging van het besluit van de Vlaamse Regering van 8 december 2023 tot uitvoering van het decreet van 23 juni 2023 over wonen in eigen streek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040679/VolledigDocument?datum=2025-04-05",
+  "source_sha256": "b2aba397389d40ec88555b7a239ff8ab029bbf9f52a0ffaafb358f87750a9dab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040679&param=informatie",
+  "as_of": "2025-04-05",
+  "made": "2025-03-14",
+  "gazette": "2025-03-26",
+  "numac": 2025002407,
+  "document_start": "2025-04-05",
+  "document_end": null,
+  "in_force": "2025-04-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
