@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040669,
+  "title": "Besluit van de Vlaamse Regering van 2025-03-14 waarbij de hagelbuien die zich voordeden op 9 juli 2024 als een ramp worden erkend en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040669/VolledigDocument?datum=2025-04-05",
+  "source_sha256": "e15e61fe71766a2c62d30cd681a22e645a015f9677936ca0ed5d180127531175",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040669&param=informatie",
+  "as_of": "2025-04-05",
+  "made": "2025-03-14",
+  "gazette": "2025-03-26",
+  "numac": 2025002361,
+  "document_start": "2025-04-05",
+  "document_end": null,
+  "in_force": "2025-04-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
