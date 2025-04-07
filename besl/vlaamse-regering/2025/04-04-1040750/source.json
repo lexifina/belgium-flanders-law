@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040750,
+  "title": "Besluit van de Vlaamse Regering van 2025-04-04 tot overdracht van een personeelslid van het Agentschap Binnenlands Bestuur aan het Agentschap Digitaal Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040750/VolledigDocument?datum=2025-04-07",
+  "source_sha256": "e16a29644ec21c1988edb6bf042e53f59d20aeef51c847c5cf6a8e0881dba042",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040750&param=informatie",
+  "as_of": "2025-04-07",
+  "made": "2025-04-04",
+  "gazette": "2025-04-23",
+  "numac": 2025003112,
+  "document_start": "2025-04-07",
+  "document_end": null,
+  "in_force": "2025-04-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-04-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
