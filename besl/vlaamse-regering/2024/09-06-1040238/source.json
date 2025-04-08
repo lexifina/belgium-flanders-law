@@ -2,16 +2,16 @@
   "codex_id": 1040238,
   "title": "Besluit van de Vlaamse Regering van 2024-09-06 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en titel III van het VLAREM van 16 mei 2014",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040238/VolledigDocument?datum=2024-10-14",
-  "source_sha256": "20ff7908127feb23d75adb7b7a22dcd3d72b6687e238c87b8625cc3d974a42a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040238/VolledigDocument?datum=2025-04-08",
+  "source_sha256": "e66f8e384d0ff18b2d0123ce9cde4afb122c750b935d2810fe9cfa713b28906b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040238&param=informatie",
-  "as_of": "2024-10-14",
+  "as_of": "2025-04-08",
   "made": "2024-09-06",
   "gazette": "2024-10-04",
   "numac": 2024008914,
   "document_start": "2024-10-14",
   "document_end": null,
-  "in_force": "2024-10-14",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2024-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-04-08",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2025-04-08; future article versions excluded; article text as the API gives it"
 }

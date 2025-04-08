@@ -503,6 +503,10 @@ In artikel 5.43.2.41 van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 <br>
 “De exploitant van een of meer stookinstallaties met een nominaal thermisch ingangsvermogen van 1 MW of meer of een persoon die de exploitant daarvoor heeft gemachtigd, registreert de stookinstallaties met de instrumenten die het Departement Omgeving daarvoor beschikbaar stelt. De gegevens van deze stookinstallaties worden uiterlijk op 31 december 2025 geregistreerd.”.
 
+### ART 9.
+
+In artikel 5.58.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 januari 1999, wordt de zinsnede “bedoeld in rubriek 58” vervangen door de zinsnede “, vermeld rubriek 58, 1°,”.
+
 ### ART 10.
 
 In artikel 6.10.2.2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 december 2011 en vervangen bij het besluit van de Vlaamse Regering van 10 juni 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -549,6 +553,206 @@ In het eerste lid wordt onder SAWAP verstaan: de small area wireless access poin
 &nbsp;Voor frequenties boven de 400 MHz mag een correctie van de afstanden toegepast worden in verhouding tot de referentieniveaus bij de frequentie in kwestie zoals vermeld in de tabel, opgenomen in artikel 6.10.2.1, eerste lid. Voor gemiddelde effectief uitgestraalde vermogens boven de 20 W is altijd een conformiteitsattest noodzakelijk.<br>
 &nbsp;In geval van vrijstelling van het aanvragen van een conformiteitsattest, dient de operator vóór de exploitatie een kennisgeving in via de website van de afdeling, bevoegd voor milieuhinder van elektromagnetische golven als vermeld in artikel 6.10.2.2bis. Voor gemiddelde effectief uitgestraalde vermogens boven 20 W is altijd een conformiteitsattest noodzakelijk.”;<br>
 2° in paragraaf 3, 5 en 6 wordt de zinsnede “artikel 6.10.2.2bis, §2” vervangen door de zinsnede “artikel 6.10.2.2bis”.
+
+### ART 11.
+
+In bijlage 1 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 27 november 2015 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 23 februari 2024, worden de volgende wijzigingen aangebracht:<br>
+1° rubriek 16.12 wordt vervangen door wat volgt:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:50px">16.12.</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; width:339px">Installaties die met het oog op de geologische opslag overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond of richtlijn 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van Richtlijn 85/337/EEG van de Raad, de Richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad:</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:24px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:33px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:15px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:50px">&nbsp;</td>
+			<td style="vertical-align:top; width:35px">&nbsp;</td>
+			<td style="vertical-align:top; width:304px">koolstofdioxidestromen afvangen</td>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:24px">&nbsp;1</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:33px">N</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:15px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:50px">&nbsp;</td>
+			<td style="vertical-align:top; width:35px">&nbsp;</td>
+			<td style="vertical-align:top; width:304px">koolstofdioxidestromen afvangen, afkomstig van installaties die met een X zijn aangeduid in de vierde kolom van de indelingslijst</td>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:24px">1</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:33px">N,X</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:15px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:50px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; vertical-align:top; width:35px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; vertical-align:top; width:304px">broeikasgassen afvangen, afkomstig van installaties die met een Y zijn aangeduid in de vierde kolom van de indelingslijst</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:24px">&nbsp;1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:33px">&nbsp;N,Y<sub>k</sub></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:15px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+”;<br>
+2° rubriek 30.1 wordt vervangen door wat volgt:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:50px">30.1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:399px">Inrichtingen voor het mechanisch behandelen van minerale producten:<br>
+			<br>
+			(De volgende activiteiten en inrichtingen vallen niet onder deze rubriek:<br>
+			<br>
+			beperkte mechanische activiteiten, zoals het sorteren of zeven van bodemmaterialen, vermeld in rubriek 60, 61 of 63;<br>
+			inrichtingen voor het mechanisch behandelen van inerte afvalstoffen die bij de uitvoering van wegen- of sloopwerken ontstaan (zie daarvoor rubrieken 2.2.2, a), b) of h))<br>
+			<br>
+			1° met een geïnstalleerde totale drijfkracht van:<br>
+			&nbsp;
+			<ol>
+				<li>5 kW tot en met 10 kW</li>
+			</ol>
+			&nbsp;
+
+			<ol>
+				<li>meer dan 10 kW tot en met 200 kW</li>
+			</ol>
+			&nbsp;
+
+			<ol>
+				<li>meer dan 200 kW</li>
+			</ol>
+			<br>
+			2° een breek- of zeefinstallatie, andere dan deze, vermeld in punt 1°<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:24px">&nbsp;<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			&nbsp;3<br>
+			<br>
+			2<br>
+			<br>
+			1<br>
+			<br>
+			2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:33px"><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			&nbsp;<br>
+			<br>
+			T<br>
+			<br>
+			&nbsp; T<br>
+			<br>
+			T&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:15px"><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			N<br>
+			<br>
+			N<br>
+			<br>
+			N&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:11px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:37px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+”;<br>
+3° rubriek 58 wordt vervangen door wat volgt:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:50px">58.</td>
+			<td colspan="2" style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; width:399px">Crematoria en andere lijkbezorging&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:24px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:33px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:15px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:50px">&nbsp;</td>
+			<td style="vertical-align:top; width:95px">1°</td>
+			<td style="vertical-align:top; width:304px">Crematoria</td>
+			<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:24px">&nbsp;1</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:33px">G</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:15px">N&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:50px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; vertical-align:top; width:95px">2°</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; vertical-align:top; width:304px">Alkalische hydrolyse&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:24px">1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:33px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:15px">N&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:28px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:19px">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+”.
 
 ### ART 12.
 
