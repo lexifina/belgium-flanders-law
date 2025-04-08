@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040580,
+  "title": "Ministerieel besluit van 2025-01-13 tot wijziging van bijlage 2 bij het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040580/VolledigDocument?datum=2025-04-08",
+  "source_sha256": "f22a00f2516fbf76aad2cdb614522db42214f4418498470ef10672f5f670bf3d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040580&param=informatie",
+  "as_of": "2025-04-08",
+  "made": "2025-01-13",
+  "gazette": "2025-02-11",
+  "numac": 2025001076,
+  "document_start": "2025-04-08",
+  "document_end": null,
+  "in_force": "2025-04-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
