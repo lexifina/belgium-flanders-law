@@ -169,74 +169,36 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° erkenninghouder: Stad Genk;<br>
-2° energiesyndicus-leverancier: de natuurlijke persoon of rechtspersoon die elektriciteit en aardgas verkoopt en energiediensten levert binnen de regelluwe zone voor energie.
+...
 
 ### ART 2.
 
-De regelluwe zone voor energie bestaat uit het gebied waarop het gemeentelijk ruimtelijk uitvoeringsplan "Waterschei DSO", dat bij uittreksel werd bekendgemaakt in het Belgisch Staatsblad van 5 augustus 2008, betrekking heeft.
+...
 
 ### ART 3.
 
-In de regelluwe zone voor energie mag de energiesyndicus-leverancier afwijken van wat bepaald is door of krachtens artikel 4.3.1 van het Energiedecreet van 8 mei 2009, met uitzondering van artikel 3.1.12 tot en met 3.1.14 en artikel 3.1.20 van het Energiebesluit van 19 november 2010 die van overeenkomstige toepassing zijn.
+...
 
 ### ART 4.
 
-In dit artikel wordt verstaan onder betrokken partijen:<br>
-de erkenninghouder en de volgende andere partijen:<br>
-1° AGB Genk;<br>
-2° Holding Wetenschapspark Waterschei nv;<br>
-3° Campus EnergyVille nv;<br>
-4° lncubaThor;<br>
-5° T2-campus cvba;<br>
-6° Mo-Thor nv;<br>
-7° M@G.<br>
-<br>
-De erkenninghouder duidt de energiesyndicus-leverancier aan.<br>
-<br>
-De energiesyndicus-leverancier heeft voor de regelluwe zone voor energie de hoedanigheid van leverancier als vermeld in artikel 1.1.3, 78°, van het Energiedecreet van 8 mei 2009.<br>
-<br>
-De energiesyndicus-leverancier verkoopt elektriciteit en aardgas en levert energiediensten aan de betrokken partijen in de regelluwe zone voor energie. De energiesyndicus-leverancier sluit daartoe met de betrokken partijen overeenkomsten die de energiediensten bepalen, en respecteert het recht op vrije leverancierskeuze, vermeld in artikel 4.4.1 van het Energiedecreet van 8 mei 2009. Hij brengt zijn afnemers op de hoogte van de afwijking van artikel 4.3.1 van het Energiedecreet van 8 mei 2009 en de potentiële gevolgen daarvan.
+...
 
 ### ART 5.
 
-§ 1. De erkenninghouder rapporteert conform artikel 10/1.4.1, § 1, van het Energiebesluit van 19 november 2010, tegen 1 juli 2021 voor de eerste maal aan de Vlaamse minister, bevoegd voor de energie.<br>
-<br>
-Het rapport, vermeld in het eerste lid, bevat:<br>
-1° de bespreking van de voortgang;<br>
-2° de bespreking van de kritische succesfactoren;<br>
-3° de resultaten van het project die al zijn verwezenlijkt;<br>
-4° de lessen die getrokken zijn;<br>
-5° de beleidsaanbevelingen die gebaseerd zijn op de inzichten en de resultaten van het project.<br>
-<br>
-De erkenninghouder herhaalt de rapportering elk jaar voor de duur van de erkenning.<br>
-<br>
-§ 2. De erkenninghouder bezorgt uiterlijk drie maanden na het verstrijken van de erkenning conform artikel 10/1.4.1, § 2, van het Energiebesluit van 19 november 2010, een rapport met een eindevaluatie van het project aan de Vlaamse minister, bevoegd voor de energie.<br>
-<br>
-Het rapport, vermeld in het eerste lid bevat:<br>
-1° de bespreking van de kritische succesfactoren die hebben bijgedragen tot het al dan niet slagen van het project;<br>
-2° de lessen die uit de elementen, vermeld in punt 1°, kunnen worden getrokken, de manier waarop het project kan worden veralgemeend;<br>
-3° de beleidsaanbevelingen die gebaseerd zijn op de inzichten en de resultaten van het project.<br>
-<br>
-§ 3. De erkenninghouder bezorgt beleidsaanbevelingen die betrekking hebben op energiegemeenschappen van burgers en hernieuwbare-energiegemeenschappen als vermeld in de Europese richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU respectievelijk de Europese richtlijn (EU) 2018/2001 van 11 december 2018 van het Europees Parlement en de Raad ter bevordering van het gebruik van energie uit hernieuwbare bronnen, voor 31 augustus 2020 aan de Vlaamse minister, bevoegd voor de energie.
+...
 
 ### ART 6.
 
-De heer Leonardo Meeus, associate professor energiemarkt aan de Vlerick Business School, wordt aangeduid als externe expert.<br>
-<br>
-De taak van de externe expert omvat naast het verplichte nazicht van het eindrapport, vermeld in artikel 5, § 2, ten minste de kritische evaluatie van het verplichte jaarlijkse rapport, vermeld in artikel 5, § 1, vooraleer dat rapport wordt bezorgd aan de Vlaamse minister, bevoegd voor de energie.<br>
-<br>
-De kosten die verbonden zijn aan de taak van de expert, zijn volledig ten laste van de erkenninghouder.
+...
 
 ### ART 7.
 
-De personeelsleden van de&nbsp;Vlaamse Nutsregulator houden toezicht op de naleving van de bepalingen van dit besluit. Artikel 13.1.2, § 2, van het Energiedecreet van 8 mei 2009 is daarbij van overeenkomstige toepassing.
+...
 
 ### ART 8.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad en treedt buiten werking vijf jaar na de datum van de inwerkingtreding van dit besluit.
+...
 
 ### ART 9.
 
-De Vlaamse minister, bevoegd voor de energie, is belast met de uitvoering van dit besluit.
+...
