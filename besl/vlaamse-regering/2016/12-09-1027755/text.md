@@ -23,23 +23,16 @@ Besluit :<br>
 
 ### ART 1.
 
-Aan de leden van de beoordelingscommissie, vermeld in <a href="#" data-codex-params-artikelversieid="1237612" data-codex-params-artikelid="1177463" data-codex-params-documentid="1023967">artikel 9 van het besluit van de Vlaamse Regering van 21 maart 2014 </a>betreffende de stimuleringsregeling voor de audiovisuele sector, vermeld in artikel 184/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, kan presentiegeld worden toegekend van 250 euro per zitting.<br>
-<br>
-Per dag kan maar één keer presentiegeld worden toegekend.<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Aan de leden van de beoordelingscommissie, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 21 maart 2014 betreffende de stimuleringsregeling voor de audiovisuele sector, vermeld in artikel 184/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, kunnen daarenboven nog reis- en verblijfkosten worden vergoed, die in geen geval meer mogen bedragen dan de vergoedingen die ambtenaren van rang A3/A4 van de Vlaamse administratie ontvangen.<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Het presentiegeld en de vergoeding van reis- en verblijfkosten worden vanaf 1 januari 2018 jaarlijks geïndexeerd op basis van het prijsindexcijfer, zoals bepaald in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-De indexering, vermeld in het eerste lid, gebeurt door de bedragen te vermenigvuldigen met het prijsindexcijfer voor de maand januari van het lopende jaar, en te delen door het prijsindexcijfer voor de maand februari van het jaar 2017.<br>
-&nbsp;
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...
