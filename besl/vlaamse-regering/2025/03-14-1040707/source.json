@@ -2,16 +2,16 @@
   "codex_id": 1040707,
   "title": "Besluit van de Vlaamse Regering van 2025-03-14 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft het lokaal woonbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040707/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "37f9f0357a14fb757011ec99acff4588a237822f48f11c0785751da63f3b6815",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040707/VolledigDocument?datum=2025-04-19",
+  "source_sha256": "2df5560928ef38a6db94136969229cd3a62587426bead2bf897934ac413b8562",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040707&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2025-04-19",
   "made": "2025-03-14",
   "gazette": "2025-04-09",
   "numac": 2025002761,
   "document_start": "2025-04-19",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-04-19",
+  "article_versions": 58,
+  "record_form": "consolidated version as in force on 2025-04-19; future article versions excluded; article text as the API gives it"
 }
