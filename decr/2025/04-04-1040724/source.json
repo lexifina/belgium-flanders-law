@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040724,
+  "title": "Decreet van 2025-04-04 tot instemming met het samenwerkingsakkoord van 10 januari 2024 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de toewijzing en de verdeling van het bedrag dat is vastgelegd in artikel 2 van de beslissing van het Comité van Ministers van de Belgisch-Luxemburgse Economische Unie (BLEU) van 14 december 2001, zoals gewijzigd bij de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040724/VolledigDocument?datum=2025-04-25",
+  "source_sha256": "450e64d832cdca410f6b9805bbb4e70e931727cc0aa1f3077c4042cb61a55547",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040724&param=informatie",
+  "as_of": "2025-04-25",
+  "made": "2025-04-04",
+  "gazette": "2025-04-15",
+  "numac": 2025002959,
+  "document_start": "2025-04-25",
+  "document_end": null,
+  "in_force": "2025-04-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2025-04-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
