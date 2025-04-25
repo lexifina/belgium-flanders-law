@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040838,
+  "title": "Besluit van de Vlaamse Regering van 2025-04-25 tot het openstellen en het verlenen van steun binnen de oproep City of Things 2025",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040838/VolledigDocument?datum=2025-04-25",
+  "source_sha256": "9ed445cf4138414c89521bbddce34fd269abbac1e43c87f90ac72383a0a4aaae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040838&param=informatie",
+  "as_of": "2025-04-25",
+  "made": "2025-04-25",
+  "gazette": "2025-05-20",
+  "numac": 2025003602,
+  "document_start": "2025-04-25",
+  "document_end": null,
+  "in_force": "2025-04-25",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2025-04-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
