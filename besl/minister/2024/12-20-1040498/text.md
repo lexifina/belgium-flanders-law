@@ -283,7 +283,29 @@ In de periode van 1 januari 2025 tot en met 31 oktober 2025 is het in het ICES-g
 
 ### ART 19.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2025 tot en met 31 december 2025.&nbsp;
+§1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2025 tot en met 31 december 2025.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. In afwijking van paragraaf 1 is het vanaf 1 juni 2025 om 00.00 uur, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2025" vermeld worden, toegestaan om in de ICES-gebieden VIIIa en b aanwezig te zijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen van het groot vlootsegment uiterlijk op 4 april 2025 via een aangetekende brief of per e-mail een aanvraag voor het bekomen van een visvergunning tot de bevoegde entiteit richten.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§3. Vanaf 1 juni 2025 tot en met 30 september 2025 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid overschrijdt die gelijk is aan 16 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§4. Ingeval de hoeveelheden tong, vermeld in §3, worden overschreden, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend in 2026.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. De vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2025” vermeld worden, leveren 7 kg/kW tong in voor het ICES-gebied VIIfg gedurende de periode 1 juli 2025 tot en met 31 oktober 2025. Daarnaast wordt voor deze vaartuigen vanaf 1 juli 2025 tot en met 31 oktober 2025 voor de Ierse Zee (VIIa) een hoeveelheid ingeleverd van 4 kg/kW.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Tijdens een zelfde visreis in de Golf van Gascogne mag slechts één soort vistuig aan boord worden gehouden.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§6. Het is verboden gemengde visreizen te maken, waarbij tijdens dezelfde visreis de ICES-gebieden VIIIa en b gecombineerd worden met vissen in andere ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§7. Bij niet-naleving van de bepalingen van paragraaf 1 of paragraaf 2, wordt het maximum aantal vaartdagen vermeld in artikel 12 van het betrokken vissersvaartuig verminderd met 10 dagen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Bovendien zullen de vissersvaartuigen vermeld in het eerste lid, niet aanwezig mogen zijn in de ICES-gebieden VIIIa en b gedurende het jaar 2026.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§8. Het de-minimisquotum voor tong in de ICES-gebieden VIIIa en b wordt vastgelegd op 10.100 kg tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden VIIIa en b vastgelegd op maximaal 8% van de reeds in de visreis gerealiseerde tongvangst in het gebied in kwestie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§9. Een gedetailleerd overzicht van de technische bepalingen wordt aan de reders bezorgd door de bevoegde entiteit voor de start van de campagne.
 
 ## Hoofdstuk 2. Toewijzing van vangstmogelijkheden per visreis
 
@@ -461,13 +483,27 @@ Voor de vaartdagen waarop het vissersvaartuig actief is met vistuig van de inspa
 <br>
 De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt. De bevoegde entiteit zal desgevallend hierover te gepasten tijde de nodige communicatie voeren.&nbsp;<br>
 <br>
-§10. Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 125 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+§9/1. In de periode van 7 april 2025 tot en met 30 juni 2025 wordt voor de ICES-gebieden VII per vissersvaartuig een hoeveelheid witte koolvis toegekend van 10kg.<br>
 <br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 250 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+§10. Het is in de periode van 1 januari 2025 tot en met 31 maart 2025 in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 100 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
 <br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+Het is in de periode van 1 april 2025 tot en met 30 april 2025 in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 125 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
 <br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 100 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+Vanaf 1 mei 2025 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 175 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+<br>
+Het is in de periode van 1 januari 2025 tot en met 31 maart 2025 in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+<br>
+Het is in de periode van 1 april 2025 tot en met 30 april 2025 in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 250 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 1 mei 2025 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 350 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+<br>
+Het is in de periode van 1 januari 2025 tot en met 30 april 2025 in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+<br>
+Vanaf 1 mei 2025 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 75 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+<br>
+Het is in de periode van 1 januari 2025 tot en met 30 april 2025 in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 100 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+<br>
+Vanaf 1 mei 2025 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 150 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
 <br>
 §11. Het is in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 20 &nbsp;kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
 <br>
