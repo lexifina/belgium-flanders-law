@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040757,
+  "title": "Ministerieel besluit van 2025-04-07 tot vervanging van bijlage 3 bij het ministerieel besluit van 10 januari 2019 tot uitvoering van diverse bepalingen van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling en bijlage 1 bij het ministerieel besluit van 17 oktober 2022 tot uitvoering van artikel 26, §2, 1°, en artikel 47, eerste lid, van het besluit van de Vlaamse Regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040757/VolledigDocument?datum=2025-05-01",
+  "source_sha256": "14730cddddbe0e998ee26db3dc1fed5410ddfae64ce9550e2660ffbc29c1248c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040757&param=informatie",
+  "as_of": "2025-05-01",
+  "made": "2025-04-07",
+  "gazette": "2025-04-22",
+  "numac": 2025003157,
+  "document_start": "2025-05-01",
+  "document_end": null,
+  "in_force": "2025-05-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
