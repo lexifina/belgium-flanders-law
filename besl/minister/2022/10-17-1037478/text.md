@@ -35,32 +35,38 @@
 
 ### BIJLAGE 1.
 
-<p>Lijst met getuigschriften of attesten van opleidingen:<br>
+<p>Lijst met getuigschriften of attesten van opleidingen als vermeld in artikel 1<br>
 <br>
-1°&nbsp;Bachelor sociaal werk;&nbsp;<br>
-2°&nbsp;Bachelor ergotherapie;&nbsp;<br>
-3°&nbsp;Bachelor orthopedagogie;&nbsp;<br>
-4°&nbsp;Bachelor sociale readaptatiewetenschappen;&nbsp;<br>
-5°&nbsp;Bachelor sociale verpleegkunde;&nbsp;<br>
-6°&nbsp;Bachelor gezinswetenschappen;&nbsp;<br>
-7°&nbsp;Bachelor toegepaste psychologie;&nbsp;<br>
-8°&nbsp;Master pedagogische Wetenschappen;&nbsp;<br>
-9°&nbsp;Master psychologie;<br>
-10°&nbsp;Bachelor-na-bachelor sociale gezondheidszorg;&nbsp;<br>
-11°&nbsp;HBO -&nbsp;Begeleider sociale economie;<br>
-12°&nbsp;HBO -&nbsp;Agogische bijscholing orthopedagogie;<br>
-13°&nbsp;HBO -&nbsp;Orthopedagogie;<br>
-14°&nbsp;HBO -&nbsp;Maatschappelijke werk;<br>
-15°&nbsp;HBO - Sociaal -&nbsp;cultureel werk;<br>
-16°&nbsp;Graduaatsopleiding - Orthopedagogie;&nbsp;<br>
-17°&nbsp;Graduaatsopleiding - Maatschappelijk werk;&nbsp;<br>
-18°&nbsp;Graduaatsopleiding - Sociaal - cultureel werk;&nbsp;<br>
-19°&nbsp;Bachelor in het milieu- en preventiemanagement;&nbsp;<br>
-20°&nbsp;Certified disability management professional -&nbsp;RIZIV;<br>
-21°&nbsp;Postgraduaat Supported employment -&nbsp;ArteveldeHogeschool;<br>
-22°&nbsp;Creditbewijs bijscholing supported employment -&nbsp;ArteveldeHogeschool;<br>
-23°&nbsp;Basiscursus begeleider op de werkvloer VONST;<br>
-24°&nbsp;Basiscursus voor monitoren/begeleiders Groep Maatwerk.</p>
+1° bachelor Sociaal Werk; <br>
+2° bachelor Ergotherapie; <br>
+3° bachelor Orthopedagogie; <br>
+4° bachelor Sociale Readaptatiewetenschappen; <br>
+5° bachelor Sociale Verpleegkunde; <br>
+6° bachelor Gezinswetenschappen; <br>
+7° bachelor Toegepaste Psychologie;<br>
+8° bachelor Logopedie; <br>
+9° master Pedagogische Wetenschappen; <br>
+10° master Psychologie;<br>
+11° bachelor-na-bachelor Sociale Gezondheidszorg; <br>
+12° hbo – Begeleider Sociale Economie;<br>
+13° hbo – Agogische Bijscholing Orthopedagogie;<br>
+14° hbo – Orthopedagogie;<br>
+15° hbo – Maatschappelijke Werk;<br>
+16° hbo – Sociaal–cultureel Werk;<br>
+17° graduaatsopleiding - Orthopedagogie; <br>
+18° graduaatsopleiding - Maatschappelijk Werk; <br>
+19° graduaatsopleiding - Sociaal-cultureel Werk; <br>
+20° bachelor in het Milieu- en Preventiemanagement; <br>
+21° Certified Disability Management Professional – RIZIV;<br>
+22° Certified Return to Work Coordinator – RIZIV;<br>
+23° postgraduaat Supported Employment – Arteveldehogeschool;<br>
+24° creditbewijs bijscholing Supported Employment – Arteveldehogeschool;<br>
+25° basiscursus LDE (VONST);<br>
+26° basiscursus Begeleider op de Werkvloer (VONST);<br>
+27° basiscursus voor Monitoren/Begeleiders (Groep Maatwerk);<br>
+28° begeleider Sociale Economie (CVO);<br>
+29° basisopleiding Begeleider Individueel Maatwerk (Groep Maatwerk);<br>
+30° basisopleiding Maatwerkcoaches (Groep Maatwerk).</p>
 
 ### BIJLAGE 2.
 
