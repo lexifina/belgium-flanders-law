@@ -393,42 +393,43 @@ Dit besluit treedt in werking op 1 januari 2019.
 	</tbody>
 </table>
 
-### BIJLAGE
+### BIJLAGE 3
 
-Lijst met getuigschriften of attesten van opleidingen&nbsp;<br>
+Lijst met getuigschriften of attesten van opleidingen als vermeld in artikel 5, eerste lid<br>
 <br>
-1° Bachelor sociaal werk;<br>
-2° Bachelor maatschappelijk werk;<br>
-3° Bachelor ergotherapie;<br>
-4° Bachelor sociale verpleegkunde;<br>
-5° Bachelor orthopedagogie;<br>
-6° Bachelor sociale readaptatiewetenschappen;<br>
-7° Bachelor gezinswetenschappen;<br>
-8° Bachelor toegepaste psychologie;<br>
-9° Bachelor logopedie<br>
-10° Master pedagogische Wetenschappen;<br>
-11° Master psychologie<br>
-12° Bachelor lerarenopleiding;<br>
-13° Bachelor-na-bachelor sociale gezondheidszorg;<br>
-14° HBO - Begeleider sociale economie;<br>
-15° HBO - Agogische bijscholing orthopedagogie;<br>
-16° HBO - Orthopedagogie;<br>
-17° HBO - Maatschappelijk werk;<br>
-18° HBO - Sociaal - cultureel werk;<br>
-19° HBO - Specifieke lerarenopleiding;<br>
-20° Graduaatsopleiding - Orthopedagogie; &nbsp;<br>
-21° Graduaatsopleiding - Maatschappelijk werk; &nbsp;<br>
-22° Graduaatsopleiding - Sociaal - cultureel werk; &nbsp;<br>
-23° Bachelor in het milieu- en preventiemanagement;<br>
-24° Certified disability management professional – RIZIV;&nbsp;<br>
-25° Postgraduaat Supported employment;&nbsp;<br>
-26° Creditbewijs bijscholing supported employment;&nbsp;<br>
-27° Basiscursus LDE (VONST)&nbsp;<br>
-28° Basiscursus begeleider op de werkvloer (VONST);&nbsp;<br>
-29° Basiscursus voor monitoren/begeleiders (Groep Maatwerk);&nbsp;<br>
-30° Begeleider Sociale Economie (CVO);&nbsp;<br>
-31° Basisopleiding begeleider individueel maatwerk (Groep Maatwerk);&nbsp;<br>
-32° Basisopleiding maatwerkcoaches (Groep Maatwerk).
+1° bachelor Sociaal Werk;<br>
+2° bachelor Maatschappelijk Werk;<br>
+3° bachelor Ergotherapie;<br>
+4° bachelor Sociale Verpleegkunde;<br>
+5° bachelor Orthopedagogie;<br>
+6° bachelor Sociale Readaptatiewetenschappen;<br>
+7° bachelor Gezinswetenschappen;<br>
+8° bachelor Toegepaste Psychologie;<br>
+9° bachelor Logopedie;<br>
+10° master Pedagogische Wetenschappen;<br>
+11° master Psychologie;<br>
+12° bachelor Lerarenopleiding;<br>
+13° bachelor-na-bachelor Sociale Gezondheidszorg;<br>
+14° hbo - Begeleider Sociale Economie;<br>
+15° hbo - Agogische Bijscholing Orthopedagogie;<br>
+16° hbo - Orthopedagogie;<br>
+17° hbo - Maatschappelijk Werk;<br>
+18° hbo - Sociaal-cultureel Werk;<br>
+19° hbo - Specifieke Lerarenopleiding;<br>
+20° graduaatsopleiding - Orthopedagogie;<br>
+21° graduaatsopleiding - Maatschappelijk Werk;<br>
+22° graduaatsopleiding - Sociaal-cultureel Werk;<br>
+23° bachelor in het Milieu- en Preventiemanagement;<br>
+24° Certified Disability Management Professional – RIZIV; <br>
+25° Certified Return to Work Coordinator – RIZIV;<br>
+26° postgraduaat Supported Employment; <br>
+27° creditbewijs bijscholing Supported Employment; <br>
+28° basiscursus LDE (VONST) ;<br>
+29° basiscursus Begeleider op de Werkvloer (VONST); <br>
+30° basiscursus voor Monitoren/Begeleiders (Groep Maatwerk); <br>
+31° begeleider Sociale Economie (CVO); <br>
+32° basisopleiding Begeleider Individueel Maatwerk (Groep Maatwerk); <br>
+33° basisopleiding Maatwerkcoaches (Groep Maatwerk).
 
 ### Bijlage 4
 
