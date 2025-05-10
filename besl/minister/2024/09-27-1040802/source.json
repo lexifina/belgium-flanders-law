@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040802,
+  "title": "Ministerieel besluit van 2024-09-27 tot bepaling van de hoogte van de compensatie voor een uitvallende omvormer en modulatie van een omvormer voor het jaar 2024",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040802/VolledigDocument?datum=2025-05-10",
+  "source_sha256": "af5c9bda6ed800904ce1ddfcb87a2da0b18bee79dabeeef5e2b8511c457cb18b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040802&param=informatie",
+  "as_of": "2025-05-10",
+  "made": "2024-09-27",
+  "gazette": "2025-04-30",
+  "numac": 2025003384,
+  "document_start": "2025-05-10",
+  "document_end": null,
+  "in_force": "2025-05-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
