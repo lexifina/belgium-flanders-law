@@ -2,16 +2,16 @@
   "codex_id": 1026304,
   "title": "Ministerieel besluit van 2015-12-10 houdende delegatie van sommige bevoegdheden betreffende de niet-bestemde onroerende goederen die behoren tot het domein van de Vlaamse Gemeenschap of het Vlaamse Gewest aan personeelsleden van het agentschap Facilitair Bedrijf",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026304/VolledigDocument?datum=2016-01-24",
-  "source_sha256": "03dec879c591136ea3b27222e05294209bf35a03a28d62d8344d6cdb37e34d49",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026304/VolledigDocument?datum=2025-05-15",
+  "source_sha256": "e2c2f59a2cf3cebdb135f32da73cca6cfffd38a334b89f46901764067066f8d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026304&param=informatie",
-  "as_of": "2016-01-24",
+  "as_of": "2025-05-15",
   "made": "2015-12-10",
   "gazette": "2016-01-14",
   "numac": 2015036629,
   "document_start": "2016-01-24",
   "document_end": "2025-05-14",
-  "in_force": "2016-01-24",
+  "in_force": "2025-05-15",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2016-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-05-15; future article versions excluded; article text as the API gives it"
 }
