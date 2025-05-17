@@ -2987,9 +2987,11 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 <p>Pakket W.1.1 is een uitbreiding van pakket W.1.5.1.</p>
 
-<p>W.1.2 ogenblikkelijke staalname (schepstaal) van water</p>
+<p>W.1.2 ogenblikkelijke staalname (schepstaal) van water:<br>
+W.1.2.1 voor chemische analyses<br>
+W.1.2.2 voor bacteriologische analyses</p>
 
-<p>W.1.3 tijds- en/of debietsgebonden staalname</p>
+<p>W.1.3 tijds- en/of debietsgebonden staalname (verzamelmonster)</p>
 
 <p>W.1.4 staalname van water uit peilbuizen:<br>
 <br>
@@ -2999,11 +3001,10 @@ W.1.4.2 met diepe (≥ 30 m) waterstand<br>
 <br>
 De pakketten onder W.1.4 zijn telkens een uitbreiding van pakket W.1.5.1 en W.1.5.2.</p>
 
-<p>W.1.5 meting ter plaatse van de volgende parameters:</p>
-
-<p>W.1.5.1 temperatuur</p>
-
-<p>W.1.5.2 zuurtegraad en elektrische geleidbaarheid</p>
+<p>W.1.5 meting ter plaatse van de volgende parameters:<br>
+W.1.5.1 temperatuur<br>
+W.1.5.2 zuurtegraad<br>
+W.1.5.3 elektrische geleidbaarheid</p>
 
 <p>W.1.6 meting ter plaatse van opgeloste zuurstof</p>
 
@@ -3025,7 +3026,7 @@ W.2.2 de kwantitatieve bepaling van reuk en smaak</p>
 
 <p>W.3 anorganische fysicochemische parameters:</p>
 
-<p>W.3.1 chloride, sulfaat, nitraat, nitriet, totaal orthofosfaat, opgelost fluoride en ammonium</p>
+<p>W.3.1 chloride, sulfaat, nitraat, nitriet, orthofosfaat, fluoride en ammonium</p>
 
 <p>W.3.2 natrium, calcium, kalium, magnesium en totale hardheid</p>
 
@@ -3033,7 +3034,7 @@ W.2.2 de kwantitatieve bepaling van reuk en smaak</p>
 
 <p>W.3.6 alkaliniteit</p>
 
-<p>W.3.7 totaal anorganisch gebonden fluoride<br>
+<p>W.3.7 ...<br>
 <br>
 W.3.8. saturatie-index</p>
 
@@ -3073,7 +3074,9 @@ W.4.2.11 cerium<br>
 <br>
 W.4.2.12 aluminium inclusief dialuminiumtrioxide<br>
 <br>
-W.4.2.13 cerium inclusief ceriumdioxide</p>
+W.4.2.13 cerium inclusief ceriumdioxide<br>
+<br>
+W.4.2.14 uranium</p>
 
 <p>&nbsp;</p>
 
@@ -3087,17 +3090,17 @@ W.4.2.13 cerium inclusief ceriumdioxide</p>
 
 <p>W.5.4 petroleumetherextraheerbare stoffen (gravimetrische bepaling)</p>
 
-<p>W.5.5 TOC als verschilmeting (TOC = TC-TIC)</p>
+<p>W.5.5 ...</p>
 
-<p>W.5.6 TOC als sommeting (TOC = POC + NPOC)</p>
+<p>W.5.6 ...</p>
 
-<p>W.5.7 NPOC</p>
+<p>W.5.7 TOC</p>
 
 <p>W.5.8 totaal cyanide</p>
 
 <p>W.5.9 vrije cyanide</p>
 
-<p>W.5.10 opgelost sulfide en in zuur milieu oplosbaar sulfide</p>
+<p>W.5.10 sulfide</p>
 
 <p>W.5.11 fenolindex</p>
 
@@ -3115,9 +3118,12 @@ W.4.2.13 cerium inclusief ceriumdioxide</p>
 
 <p>W.5.18 bromaat</p>
 
-<p>W.5.19 kleur van afvalwater</p>
-
-<p>W. 6 organische groepsparameters :<br>
+<p>W.5.19 kleur van afvalwater<br>
+<br>
+W.5.20 chloraat en chloriet<br>
+W.5.21 perchloraat<br>
+<br>
+W. 6 organische groepsparameters :<br>
 W.6.1 extraheerbare organische halogeenverbindingen (EOX)<br>
 W.6.2 adsorbeerbare organische halogeenverbindingen (AOX)<br>
 W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
@@ -3141,7 +3147,7 @@ W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
 
 <p>W.7.9 organofluorverbindingen:<br>
 W.7.9.1 standaardreeks per- en polyfluoralkylverbindingen (WAC/IV/A/025)<br>
-W.7.9.2 korte keten per- en polyfluoralkylverbindingen (WAC/IV/A/026)</p>
+W.7.9.2 ultrakorte keten per- en polyfluoralkylverbindingen (WAC/IV/A/026)</p>
 
 <p>W. 7.10 organotinverbindingen</p>
 
@@ -3171,13 +3177,15 @@ W.7.20 ftalaten</p>
 
 <p>W.8.2 Salmonella</p>
 
-<p>W.8.3 <em>Legionella pneumophila</em> en <em>Legionella species</em></p>
+<p>W.8.3 Legionella pneumophila en Legionella species</p>
 
 <p>W.8.4 Coagulase positieve stafylokokken</p>
 
-<p>W.8.5 <em>Clostridium perfringens</em></p>
+<p>W.8.5 Clostridium perfringens</p>
 
-<p>W.8.6 <em>Pseudomonas aeruginosa</em></p>
+<p>W.8.6 Pseudomonas aeruginosa<br>
+<br>
+W.8.7 somatische colifagen</p>
 
 <p>&nbsp;</p>
 
@@ -3197,7 +3205,9 @@ W.9.2.2.2 test met embryo's van zebravis Danio rerio</p>
 
 <p>W.9.2.4 inhibitie van de bioluminescentie in <em>Vibrio fischeri</em><br>
 <br>
-W.9.2.5 elimineerbaarheid via de Zahn-Wellens test</p>
+W.9.2.5 elimineerbaarheid via de Zahn-Wellenstest<br>
+Pakket W.9.2.5 is een uitbreiding van de pakketten W.5.7, W.9.2.1, W.9.2.2.1, W.9.2.2.2, W.9.2.3 en W.9.2.4.<br>
+&nbsp;</p>
 
 <p>&nbsp;</p>
 
