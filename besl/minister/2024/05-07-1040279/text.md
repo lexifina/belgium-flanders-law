@@ -35,7 +35,9 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-Het compendium voor de monsterneming, meting en analyse van lucht, afgekort LUC, en de bijhorende inhoudstafel, die opgenomen zijn in de bijlage die bij dit besluit is gevoegd, worden goedgekeurd.
+Het compendium voor de monsterneming, meting en analyse van lucht, afgekort LUC, en de bijhorende inhoudstafel, die opgenomen zijn in de bijlage die bij dit besluit is gevoegd, worden goedgekeurd.<br>
+<br>
+Voor wat de laboratoria betreft voor de naleving van de erkenningsvoorwaarden, vermeld in hoofdstuk 4 van het VLAREL, en de naleving van de gebruikseisen, vermeld in hoofdstuk 8 van het VLAREL, heeft de in het eerste lid bedoelde goedkeuring uitwerking met ingang van 15 januari 2024. Voor het overige heeft die goedkeuring uitwerking met ingang van de tiende dag na de bekendmaking van dit besluit in het Belgisch Staatsblad.
 
 ### ART 2.
 
