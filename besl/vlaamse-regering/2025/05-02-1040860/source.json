@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040860,
+  "title": "Besluit van de Vlaamse Regering van 2025-05-02 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de wijziging van de PV-verplichting voor grote afnemers en de vastlegging van een maximale bandingfactor voor nieuwe projecten met betrekking tot windenergie met een startdatum vanaf 1 januari 2026",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040860/VolledigDocument?datum=2025-05-20",
+  "source_sha256": "91b28d327152f2ce3afe6935cfae6c4c209179b05c7dca87772713a0ef27a123",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040860&param=informatie",
+  "as_of": "2025-05-20",
+  "made": "2025-05-02",
+  "gazette": "2025-05-20",
+  "numac": 2025003884,
+  "document_start": "2025-05-20",
+  "document_end": null,
+  "in_force": "2025-05-20",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2025-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
