@@ -2,16 +2,16 @@
   "codex_id": 1040882,
   "title": "Besluit van de Vlaamse Regering van 2025-05-23 houdende de eerste herverdeling van begrotingsartikel CB0-1CBD2AM-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2025",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040882/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d7c424cd5c574910e3b6fae1ce7531c2d89466ea2d4b674f95c74d4c67f13a42",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040882/VolledigDocument?datum=2025-05-23",
+  "source_sha256": "15cfcdbfc112cb2fb32eac8ef3dab6ead9b08b7357293b8baae0dc1a9f80f794",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040882&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-05-23",
   "made": "2025-05-23",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-05-23",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-05-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-05-23; future article versions excluded; article text as the API gives it"
 }
