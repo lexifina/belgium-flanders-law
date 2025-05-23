@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040865,
+  "title": "Besluit van de Vlaamse Regering van 2025-05-16 tot wijziging van het besluit van de Vlaamse Regering van 5 april 2019 houdende het faciliteren van een multifunctionele of innoverende infrastructuur van voorzieningen van het beleidsdomein Welzijn, Volksgezondheid en Gezin en tot wijziging van sectorale regelgeving, wat betreft infrastructuurnormen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040865/VolledigDocument?datum=2025-05-23",
+  "source_sha256": "d0c0fd5b1e172cba74ef60706d890b762644f507d231a3e7649574a00ecdb36e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040865&param=informatie",
+  "as_of": "2025-05-23",
+  "made": "2025-05-16",
+  "gazette": "2025-05-23",
+  "numac": 2025003916,
+  "document_start": "2025-05-23",
+  "document_end": null,
+  "in_force": "2025-05-23",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2025-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
