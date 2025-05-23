@@ -2,16 +2,16 @@
   "codex_id": 1031897,
   "title": "Besluit van de Vlaamse Regering van 2019-04-05 houdende het faciliteren van een multifunctionele [of innoverende] infrastructuur van voorzieningen van het beleidsdomein Welzijn, Volksgezondheid en Gezin en tot wijziging van sectorale regelgeving, wat betreft infrastructuurnormen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031897/VolledigDocument?datum=2024-09-21",
-  "source_sha256": "ac0fd30e9b358a6eef966638cfd5cb81b359ab327c6b901dcfcefda3b51747cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031897/VolledigDocument?datum=2025-05-23",
+  "source_sha256": "b986edd53f0de05d37f6baa7c7edc58904af5c258e0d69dc0b5663de952b4a45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031897&param=informatie",
-  "as_of": "2024-09-21",
+  "as_of": "2025-05-23",
   "made": "2019-04-05",
   "gazette": "2019-07-10",
   "numac": 2019030608,
   "document_start": "2019-07-20",
   "document_end": null,
-  "in_force": "2024-09-21",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2024-09-21; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-05-23",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2025-05-23; future article versions excluded; article text as the API gives it"
 }
