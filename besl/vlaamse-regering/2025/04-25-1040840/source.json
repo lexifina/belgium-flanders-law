@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040840,
+  "title": "Besluit van de Vlaamse Regering van 2025-04-25 tot uitvoering van het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040840/VolledigDocument?datum=2025-05-25",
+  "source_sha256": "a84128bde34b10bfea025c8329800f300bb2c1e4e687155297608586ddef404a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040840&param=informatie",
+  "as_of": "2025-05-25",
+  "made": "2025-04-25",
+  "gazette": "2025-05-15",
+  "numac": 2025003614,
+  "document_start": "2025-05-25",
+  "document_end": null,
+  "in_force": "2025-05-25",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2025-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
