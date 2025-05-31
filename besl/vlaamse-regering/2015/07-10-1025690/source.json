@@ -2,16 +2,16 @@
   "codex_id": 1025690,
   "title": "Besluit van de Vlaamse Regering van 2015-07-10 tot vaststelling van het huishoudelijk reglement van de landcommissies, vermeld in artikel 2.2.3, § 3, van het decreet van 28 maart 2014 betreffende de landinrichting, en tot oprichting van de programmacommissie, vermeld in artikel 3.2.1 van het voormelde decreet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025690/VolledigDocument?datum=2015-08-20",
-  "source_sha256": "01a79234d65e686e45d5c1cf82fda010bb30ffc8afa4b92ffc31a888206e7da6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025690/VolledigDocument?datum=2025-05-31",
+  "source_sha256": "d840fcb96dca95b3c22e8397ee15edd8a0fee9c065e4bf01bd7ee3705371530c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025690&param=informatie",
-  "as_of": "2015-08-20",
+  "as_of": "2025-05-31",
   "made": "2015-07-10",
   "gazette": "2015-08-10",
   "numac": 2015035990,
   "document_start": "2015-08-20",
   "document_end": null,
-  "in_force": "2015-08-20",
+  "in_force": "2025-05-31",
   "article_versions": 16,
   "table_of_contents_notes": [
     "article version 1272313 (Art. 1., start 2015-08-20, no end date) is not in the table of contents, which lists a later version of Art. 1.: not placed",
@@ -29,5 +29,5 @@
     "article version 1272325 (Art. 13., start 2015-08-20) is not in the Codex table of contents: placed after Art. 12.",
     "article version 1272326 (Art. 14., start 2015-08-20) is not in the Codex table of contents: placed after Art. 13."
   ],
-  "record_form": "consolidated version as in force on 2015-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-05-31; future article versions excluded; article text as the API gives it"
 }
