@@ -23,6 +23,10 @@ Een sportinfrastructuur wordt als topsportinfrastructuur beschouwd indien ze het
 <br>
 Het minimale begrotingskrediet voor de subsidiëring van bovenlokale sportinfrastructuur bedraagt 5.000.000 euro (5 miljoen euro). Het minimale begrotingskrediet voor het eerste jaar van een olympiade voor topsportinfrastructuur bedraagt 10.000.000 euro (10 miljoen euro).
 
+### ART 3/1.
+
+Als een subsidie op basis van het decreet van 21 februari 2025 over de subsidiëring als tegemoetkoming in de bouw en exploitatie van nieuwe publieke zwembaden is toegekend of de ingediende subsidieaanvraag op basis van het voormelde decreet nog niet beoordeeld is, kan geen subsidieaanvraag worden ingediend op basis van dit decreet voor dezelfde investeringen.
+
 ## HOOFDSTUK 2 Investeringssubsidies voor de bouw of renovatie van bovenlokale sportinfrastructuur in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad
 
 ## Afdeling 1 Subsidiedoel en subsidietrekkers
