@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040740,
+  "title": "Besluit van de Vlaamse Regering van 2025-04-04 over de overdracht van personeelsleden van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB) aan het agentschap Facilitair Bedrijf door de inkanteling van kantoorgebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040740/VolledigDocument?datum=2025-06-01",
+  "source_sha256": "d74b0a68b099c2d879588f7d4385b5a504df57cc7da98164c0b0ebac78590a03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040740&param=informatie",
+  "as_of": "2025-06-01",
+  "made": "2025-04-04",
+  "gazette": "2025-04-25",
+  "numac": 2025003028,
+  "document_start": "2025-06-01",
+  "document_end": null,
+  "in_force": "2025-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
