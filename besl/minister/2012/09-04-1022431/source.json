@@ -2,16 +2,16 @@
   "codex_id": 1022431,
   "title": "Ministerieel besluit van 2012-09-04 houdende vaststelling van de materiaalcodelijst voor de codering van materialen in de materialenregisters van grondstoffenproducenten en -gebruikers",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022431/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "0fd22c8925a8fa23b378d92de30afac0e2f3ee1f46e5671a45c4822311173939",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022431/VolledigDocument?datum=2025-06-01",
+  "source_sha256": "9b54a827ab7f6fd8e26b1f24a695eaee31a261bb83c11d057f01bb9b9bdadc81",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022431&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2025-06-01",
   "made": "2012-09-04",
   "gazette": "2012-10-30",
   "numac": 2012036135,
   "document_start": "2013-01-01",
   "document_end": "2025-05-31",
-  "in_force": "2013-01-01",
+  "in_force": "2025-06-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-06-01; future article versions excluded; article text as the API gives it"
 }
