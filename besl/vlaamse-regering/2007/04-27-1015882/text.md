@@ -45,689 +45,656 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 
 ### BIJLAGE I.
 
-<p>Bijlage I. Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen<br>
+Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen<br>
 <br>
-Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijnen 2003/90/EG en 2003/91/EG wat betreft de protocollen voor het onderzoek van bepaalde rassen van landbouw- en groentegewassen, zoals laatst gewijzigd door uitvoeringsrichtlijn (EU) 2023/1438 van de Commissie van 10 juli 2023.<br>
+Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek en van de Richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
 <br>
-1° landbouwgewassen</p>
-
-<table border="1" cellspacing="0">
+1° landbouwgewassen
+<table cellspacing="0" style="border-collapse:collapse; width:623px">
 	<tbody>
 		<tr>
-			<td>wetenschappelijke benaming</td>
-			<td>triviale naam</td>
-			<td>CBP-protocol</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">wetenschappelijke benaming</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">triviale naam</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">CBP-protocol</td>
 		</tr>
 		<tr>
-			<td><em>Avena nuda&nbsp;</em>L.</td>
-			<td>naakte haver</td>
-			<td>TP 20/3 van 6.3.2020</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Avena nuda</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">naakte haver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 20/3 van 6.3.2020</td>
 		</tr>
 		<tr>
-			<td><em>Avena sativa&nbsp;</em>L. (met inbegrip van&nbsp;<em>A. byzantina&nbsp;</em>K. Koch)</td>
-			<td>haver</td>
-			<td>TP 20/3 van 6.3.2020</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Avena sativa</em> L. (met inbegrip van <em>A. byzantina</em> K. Koch)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">haver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 20/3 van 6.3.2020</td>
 		</tr>
 		<tr>
-			<td><em>Brassica napus&nbsp;</em>L. (partim)</td>
-			<td>koolzaad</td>
-			<td>TP 36/3 van 21.4.2020</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica napus</em> L. (partim)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">koolzaad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 36/3 van 21.4.2020</td>
 		</tr>
 		<tr>
-			<td><em>Brassica napus&nbsp;</em>L. var.<br>
-			<em>napobrassica&nbsp;</em>(L.) Rchb.</td>
-			<td>koolraap</td>
-			<td>TP 89/1 van 11.3.2015</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica napus </em>L. var.<em> napobrassica </em>(L.) Rchb.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">koolraap</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 89/1 van 11.3.2015</td>
 		</tr>
 		<tr>
-			<td><em>Cannabis sativa&nbsp;</em>L.</td>
-			<td>hennep</td>
-			<td>TP 276/2 rev. van 30.12.2022</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Cannabis sativa </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">hennep</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 276/2 rev. van 30.12.2022</td>
 		</tr>
 		<tr>
-			<td><em>Dactylis glomerata&nbsp;</em>L.</td>
-			<td>kropaar</td>
-			<td>TP 31/1 van 25.3.2021</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Dactylis glomerata </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">kropaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 31/1 van 25.3.2021</td>
 		</tr>
 		<tr>
-			<td><em>Festuca arundinacea&nbsp;</em>Schreb.</td>
-			<td>rietzwenkgras</td>
-			<td>TP 39/1 van 1.10.2015</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Festuca arundinacea </em>Schreb.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">rietzwenkgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 39/1 van 1.10.2015</td>
 		</tr>
 		<tr>
-			<td><em>Festuca filiformis&nbsp;</em>Pourr.</td>
-			<td>fijnbladig schapengras</td>
-			<td>TP 67/1 van 23.6.2011</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Festuca filiformis</em> Pourr.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">fijnbladig schapengras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 67/1 van 23.6.2011</td>
 		</tr>
 		<tr>
-			<td><em>Festuca ovina&nbsp;</em>L.</td>
-			<td>schapengras</td>
-			<td>TP 67/1 van 23.6.2011</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Festuca</em> <em>ovina</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">schapengras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 67/1 van 23.6.2011</td>
 		</tr>
 		<tr>
-			<td><em>Festuca pratensis&nbsp;</em>Huds.</td>
-			<td>beemdlangbloem</td>
-			<td>TP 39/1 van 1.10.2015</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Festuca pratensis </em>Huds.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">beemdlangbloem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 39/1 van 1.10.2015</td>
 		</tr>
 		<tr>
-			<td><em>Festuca rubra&nbsp;</em>L.</td>
-			<td>roodzwenkgras</td>
-			<td>TP 67/1 van 23.6.2011</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Festuca rubra</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">roodzwenkgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 67/1 van 23.6.2011</td>
 		</tr>
 		<tr>
-			<td><em>Festuca trachyphylla&nbsp;</em>(Hack.) Hack.</td>
-			<td>hardzwenkgras</td>
-			<td>TP 67/1 van 23.6.2011</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Festuca trachyphylla</em> (Hack.) Hack.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">hardzwenkgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 67/1 van 23.6.2011</td>
 		</tr>
 		<tr>
-			<td><em>Glycine max&nbsp;</em>(L.) Merr.</td>
-			<td>sojabonen</td>
-			<td>TP 80/1 van 15.3.2017</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Glycine max</em> (L.) Merr.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sojabonen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 80/1 van 15.3.2017</td>
 		</tr>
 		<tr>
-			<td><em>Gossypium&nbsp;</em>spp.</td>
-			<td>katoen</td>
-			<td>TP 88/2 van 11.12.2020</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Gossypium </em>spp.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">katoen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 88/2 van 11.12.2020</td>
 		</tr>
 		<tr>
-			<td><em>Helianthus annuus&nbsp;</em>L.</td>
-			<td>zonnebloem</td>
-			<td>TP 81/1 van 31.10.2002</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Helianthus annuus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">zonnebloem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 81/1 van 31.10.2002<br>
+			&nbsp;</td>
 		</tr>
 		<tr>
-			<td><em>Hordeum vulgare&nbsp;</em>L.</td>
-			<td>gerst</td>
-			<td>TP 19/5 van 19.3.2019</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Hordeum vulgare</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">gerst</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 19/5 van 19.3.2019<br>
+			&nbsp;</td>
 		</tr>
 		<tr>
-			<td><em>Linum usitatissimum&nbsp;</em>L.</td>
-			<td>vlas/lijnzaad</td>
-			<td>TP 57/2 van 19.3.2014</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Linum usitatissimum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">vlas/lijnzaad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 57/2 van 19.3.2014</td>
 		</tr>
 		<tr>
-			<td><em>Lolium multiflorum&nbsp;</em>Lam.</td>
-			<td>Italiaans raaigras</td>
-			<td>TP 4/2 van 19.3.2019</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lolium multiflorum</em> Lam.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">Italiaans raaigras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 4/2 van 19.3.2019</td>
 		</tr>
 		<tr>
-			<td><em>Lolium perenne&nbsp;</em>L.</td>
-			<td>Engels raaigras</td>
-			<td>TP 4/2 van 19.3.2019</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lolium perenne</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">Engels raaigras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 4/2 van 19.3.2019</td>
 		</tr>
 		<tr>
-			<td><em>Lolium x hybridum&nbsp;</em>Hausskn.</td>
-			<td>gekruist raaigras</td>
-			<td>TP 4/2 van 19.3.2019</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lolium x hybridum </em>Hausskn.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">gekruist raaigras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 4/2 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago sativa </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">luzerne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 6/1 corr. van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago </em>x <em>varia </em>T. Martyn</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">bonte luzerne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 6/1 corr. van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Oryza sativa</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rijst</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 16/3 van 1.10.2015</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Phleum nodosum </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">klein timotheegras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 34/1 van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Phleum pratense </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">timotheegras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 34/1 van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Pisum sativum</em> L. (partim)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">voedererwt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 7/2 rev. 3 corr. van 6.3.2020</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Poa pratensis </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">veldbeemdgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 33/1 van 15.3.2017</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Raphanus sativus </em>L. var. <em>oleiformis</em> Pers.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">bladrammenas</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 178/1 van 15.3.2017</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Sinapis alba</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">gele mosterd</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 179/1 van 15.3.2017</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Secale cereale</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rogge</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 58/1 rev. corr. van 27.4.2022</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Solanum tuberosum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">aardappel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 23/4 van 28.11.2023</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Sorghum bicolor</em> (L.) Moench subsp. <em>bicolor</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sorgho</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 122/1 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Sorghum bicolor</em> (L.) Moench subsp. <em>drummondii</em> (Steud.) de Wet ex Davidse</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">soedangras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 122/1 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Sorghum bicolor</em> (L.) Moench subsp. <em>bicolor</em> x <em>Sorghum bicolor</em> (L.) Moench subsp. <em>drummondii</em> (Steud.) de Wet ex Davidse</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">hybriden die het product zijn van de kruising van <em>Sorghum bicolor</em> subsp. <em>bicolor</em> met <em>Sorghum bicolor </em>subsp. <em>drummondii</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 122/1 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Trifolium pratense </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rode klaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 5/1 van 22.12.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Triticum aestivum</em> L. subsp. <em>aestivum</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tarwe</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 3/5 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Triticum turgidum</em> L. subsp. <em>durum</em> (Desf.) van Slageren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">harde tarwe</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 120/3 van 19.3.2014</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>xTriticosecale</em> Wittm. ex A. Camus</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">hybriden die het product zijn van de kruising van een soort van het geslacht <em>Triticum</em> met een soort van het geslacht <em>Secale</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 121/3 corr. van 27.4.2022</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Vicia faba </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">veldboon</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 8/1 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Vicia sativa </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">voederwikke</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 32/1 van 19.4.2016</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Zea mays</em> L. (partim)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">maïs</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 2/3 van 11.3.2010</td>
 		</tr>
 	</tbody>
 </table>
-&nbsp;
-
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td><em>Medicago sativa&nbsp;</em>L.</td>
-			<td>luzerne</td>
-			<td>TP 6/1 corr. van 22.12.2021</td>
-		</tr>
-		<tr>
-			<td><em>Medicago&nbsp;</em>x&nbsp;<em>varia&nbsp;</em>T. Martyn</td>
-			<td>bonte luzerne</td>
-			<td>TP 6/1 corr. van 22.12.2021</td>
-		</tr>
-		<tr>
-			<td><em>Oryza sativa&nbsp;</em>L.</td>
-			<td>rijst</td>
-			<td>TP 16/3 van 1.10.2015</td>
-		</tr>
-		<tr>
-			<td><em>Phleum nodosum&nbsp;</em>L.</td>
-			<td>klein timotheegras</td>
-			<td>TP 34/1 van 22.12.2021</td>
-		</tr>
-		<tr>
-			<td><em>Phleum pratense&nbsp;</em>L.</td>
-			<td>timotheegras</td>
-			<td>TP 34/1 van 22.12.2021</td>
-		</tr>
-		<tr>
-			<td><em>Pisum sativum&nbsp;</em>L. (partim)</td>
-			<td>voedererwt</td>
-			<td>TP 7/2 rev. 3 corr. van 6.3.2020</td>
-		</tr>
-		<tr>
-			<td><em>Poa pratensis&nbsp;</em>L.</td>
-			<td>veldbeemdgras</td>
-			<td>TP 33/1 van 15.3.2017</td>
-		</tr>
-		<tr>
-			<td><em>Raphanus sativus&nbsp;</em>L. var.<br>
-			<em>oleiformis&nbsp;</em>Pers.</td>
-			<td>bladrammenas</td>
-			<td>TP 178/1 van 15.3.2017</td>
-		</tr>
-		<tr>
-			<td><em>Sinapis alba&nbsp;</em>L.</td>
-			<td>gele mosterd</td>
-			<td>TP 179/1 van 15.3.2017</td>
-		</tr>
-		<tr>
-			<td><em>Secale cereale&nbsp;</em>L.</td>
-			<td>rogge</td>
-			<td>TP 58/1 rev. corr. van 27.4.2022</td>
-		</tr>
-		<tr>
-			<td><em>Solanum tuberosum&nbsp;</em>L.</td>
-			<td>aardappel</td>
-			<td>TP 23/3 van 15.3.2017</td>
-		</tr>
-		<tr>
-			<td><em>Sorghum bicolor&nbsp;</em>(L.) Moench subsp.&nbsp;<em>bicolor</em></td>
-			<td>sorgho</td>
-			<td>TP 122/1 van 19.3.2019</td>
-		</tr>
-		<tr>
-			<td><em>Sorghum bicolor&nbsp;</em>(L.) Moench subsp.&nbsp;<em>drummondii&nbsp;</em>(Steud.) de Wet ex Davidse</td>
-			<td>soedangras</td>
-			<td>TP 122/1 van 19.3.2019</td>
-		</tr>
-		<tr>
-			<td><em>Sorghum bicolor&nbsp;</em>(L.) Moench subsp.&nbsp;<em>bicolor&nbsp;</em>x&nbsp;<em>Sorghum bicolor&nbsp;</em>(L.) Moench subsp.&nbsp;<em>drummondii&nbsp;</em>(Steud.) de Wet ex Davidse</td>
-			<td>hybriden die het product zijn van de kruising van&nbsp;<em>Sorghum bicolor&nbsp;</em>subsp.&nbsp;<em>bicolor&nbsp;</em>met&nbsp;<em>Sorghum bicolor&nbsp;</em>subsp.&nbsp;<em>drummondii</em></td>
-			<td>TP 122/1 van 19.3.2019</td>
-		</tr>
-		<tr>
-			<td><em>Trifolium pratense&nbsp;</em>L.</td>
-			<td>rode klaver</td>
-			<td>TP 5/1 van 22.12.2021</td>
-		</tr>
-		<tr>
-			<td><em>Triticum aestivum&nbsp;</em>L. subsp.<br>
-			<em>aestivum</em></td>
-			<td>tarwe</td>
-			<td>TP 3/5 van 19.3.2019</td>
-		</tr>
-		<tr>
-			<td><em>Triticum turgidum&nbsp;</em>L. subsp.<br>
-			<em>durum&nbsp;</em>(Desf.) van Slageren</td>
-			<td>harde tarwe</td>
-			<td>TP 120/3 van 19.3.2014</td>
-		</tr>
-		<tr>
-			<td><em>xTriticosecale&nbsp;</em>Wittm. ex A. Camus</td>
-			<td>hybriden die het product zijn van de kruising van een soort van het geslacht&nbsp;<em>Triticum&nbsp;</em>met een soort van het geslacht&nbsp;<em>Secale</em></td>
-			<td>TP 121/3 corr. van 27.4.2022</td>
-		</tr>
-		<tr>
-			<td><em>Vicia faba&nbsp;</em>L.</td>
-			<td>veldboon</td>
-			<td>TP 8/1 van 19.3.2019</td>
-		</tr>
-		<tr>
-			<td><em>Vicia sativa&nbsp;</em>L.</td>
-			<td>voederwikke</td>
-			<td>TP 32/1 van 19.4.2016</td>
-		</tr>
-		<tr>
-			<td><em>Zea mays&nbsp;</em>L. (partim)</td>
-			<td>maïs</td>
-			<td>TP 2/3 van 11.3.2010</td>
-		</tr>
-	</tbody>
-</table>
-<br>
 <br>
 2° groentegewassen
-<table border="1" cellspacing="0">
+<table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
-			<td>wetenschappelijke benaming</td>
-			<td>triviale naam</td>
-			<td>CBP-protocol</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">wetenschappelijke benaming</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">triviale naam</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">CBP-protocol</td>
 		</tr>
 		<tr>
-			<td><em>Allium cepa&nbsp;</em>L. (Aggregatum- groep)</td>
-			<td>sjalot</td>
-			<td>TP 46/2 van 1.4.2009</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Allium cepa </em>L. (Aggregatum-groep)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sjalot</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 46/2 van 1.4.2009</td>
 		</tr>
 		<tr>
-			<td><em>Allium cepa&nbsp;</em>L. (Cepa-groep)</td>
-			<td>ui en echalion</td>
-			<td>TP 46/2 van 1.4.2009</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Allium cepa</em> L. (Cepa-groep)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">ui en echalion</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 46/2 van 1.4.2009</td>
 		</tr>
 		<tr>
-			<td><em>Allium fistulosum&nbsp;</em>L.</td>
-			<td>stengelui</td>
-			<td>TP 161/1 van 11.3.2010</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Allium fistulosum </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">stengelui</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 161/1 van 11.3.2010</td>
 		</tr>
 		<tr>
-			<td><em>Allium porrum&nbsp;</em>L.</td>
-			<td>prei</td>
-			<td>TP 85/2 van 1.4.2009</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Allium porrum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">prei</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 85/2 van 1.4.2009</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Allium sativum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">knoflook</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 162/2 van 30.5.2023</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Allium schoenoprasum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">bieslook</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 198/2 van 11.3.2015</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Apium graveolens</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">selderij</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 82/1 van 13.3.2008</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Apium graveolens</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">knolselderij</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 74/1 van 13.3.2008</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Asparagus officinalis</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">asperge</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 130/2 van 16.2.2011</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Beta vulgaris</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rode biet, inclusief Cheltenham beet</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 60/1 van 1.4.2009</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Beta vulgaris </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">snijbiet</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 106/2 van 14.4.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">bloemkool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 45/2 rev. 3 van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">boerenkool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 90/1 van 16.2.2011</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">broccoli</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 151/2 rev. 3 corr. van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">spruitjes</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 54/2 rev. 2 van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">koolrabi</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 65/2 rev. van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassic</em><em>a oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">savooiekool, wittekool en rodekool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 48/3 rev. 3 van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica rapa</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">Chinese kool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 105/1 van 13.3.2008</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Capsicum annuum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">paprika of Spaanse peper</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 76/2 rev. 2 corr. van 21.4.2020</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium endivia</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">krulandijvie en andijvie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 118/3 van 19.3.2014</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium intybus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">bladcichorei</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 154/2 rev. van 31.3.2023</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium intybus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">cichorei voor de industrie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 172/2 van 1.12.2005</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium intybus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">witlof</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 173/2 van 21.3.2018</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Citrullus lanatus</em> (Thunb.) Matsum. et Nakai</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">watermeloen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 142/2 rev. 3 van 29.2.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucumis melo</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">meloen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 104/2 rev. 2 van 25.3.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucumis sativus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">komkommer en augurk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 61/2 rev. 2 van 19.3.2019</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucurbita maxima </em>Duchesne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">pompoen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 155/1 van 11.3.2015</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucurbita maxima </em>Duchesne x<em> Cucurbita moschata</em> Duchesne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">interspecifieke hybriden van <em>Cucurbita maxima</em> Duchesne x <em>Cucurbita moschata</em> Duchesne voor gebruik als wortelstokken/ onderstammen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 311/1 van 15.3.2017</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucurbita pepo</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">courgette</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 119/1 rev. van 19.3.2014</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cynara cardunculus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">artisjok en kardoen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 184/2 rev. van 6.3.2020</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:208px"><em>Daucus carota</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:208px">wortel en voederwortel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:208px">TP 49/3 corr. van 13.3.2008</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Foeniculum vulgare</em> Mill.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">venkel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 183/2 van 14.4.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lactuca sativa</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sla</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 13/6 rev. 3 van 27.4.2022</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Petroselinum crispum</em> (Mill.) Nyman ex A. W. Hill</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">peterselie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 136/1 corr. van 21.3.2007</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Phaseolus coccineus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">pronkboon</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 9/1 van 21.3.2007</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Phaseolus vulgaris</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">stamboon en stokboon</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 12/4 van 27.2.2013</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Pisum sativum</em> L. (partim)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">kreukzadige doperwt, rondzadige doperwt en peul</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 7/2 rev. 3 corr. van 6.3.2020</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Raphanus sativus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">radijs, rammenas</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 64/2 rev. 2 van 29.2.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Rheum rhabarbarum </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rabarber</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 62/1 van 19.4.2016</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Scorzonera hispanica </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">schorseneer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 116/1 van 11.3.2015</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Solanum lycope</em><em>rsicum </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tomaat</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 44/4 rev. 5 van 14.4.2021</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Solanum habrochaites </em>S. Knapp &amp; D.M. Spooner;<em> Solanum lycopersicum </em>L. x<em> Solanum habrochaites </em>S. Knapp &amp; D.M. Spooner;<em> Solanum lycopersicum </em>L. x<em> Solanum peruvianum </em>(L.) Mill.;<em> Solanum pimpinellifolium</em> L. x <em>Solanum habrochaites</em> S. Knapp &amp; D.M. Spooner</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tomaatwortelstokken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 294/1 rev. 6 van 29.2.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Solanum melongena</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">aubergine</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 117/1 van 13.3.2008</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Spinacia o</em><em>leracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">spinazie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 55/5 rev. 4 van 27.4.2022</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Valerianella locusta</em> (L.) Laterr.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">veldsla</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 75/2 rev. van 29.2.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Vicia faba</em> L. (partim)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tuinboon</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 206/1 van 25.3.2004</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Zea mays</em> L. (partim)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">suikermaïs en pofmaïs</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 2/3 van 11.3.2010</td>
 		</tr>
 	</tbody>
 </table>
-&nbsp;
-
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td><em>Allium sativum&nbsp;</em>L.</td>
-			<td>knoflook</td>
-			<td>TP 162/2 van 30.5.2023</td>
-		</tr>
-		<tr>
-			<td><em>Allium schoenoprasum&nbsp;</em>L.</td>
-			<td>bieslook</td>
-			<td>TP 198/2 van 11.3.2015</td>
-		</tr>
-		<tr>
-			<td><em>Apium graveolens&nbsp;</em>L.</td>
-			<td>selderij</td>
-			<td>TP 82/1 van 13.3.2008</td>
-		</tr>
-		<tr>
-			<td><em>Apium graveolens&nbsp;</em>L.</td>
-			<td>knolselderij</td>
-			<td>TP 74/1 van 13.3.2008</td>
-		</tr>
-		<tr>
-			<td><em>Asparagus officinalis&nbsp;</em>L.</td>
-			<td>asperge</td>
-			<td>TP 130/2 van 16.2.2011</td>
-		</tr>
-		<tr>
-			<td><em>Beta vulgaris&nbsp;</em>L.</td>
-			<td>rode biet, inclusief Cheltenham beet</td>
-			<td>TP 60/1 van 1.4.2009</td>
-		</tr>
-		<tr>
-			<td><em>Beta vulgaris&nbsp;</em>L.</td>
-			<td>snijbiet</td>
-			<td>TP 106/2 van 14.4.2021</td>
-		</tr>
-		<tr>
-			<td><em>Brassica oleracea&nbsp;</em>L.</td>
-			<td>bloemkool</td>
-			<td>TP 45/2 rev. 2 van 21.3.2018</td>
-		</tr>
-		<tr>
-			<td><em>Brassica oleracea&nbsp;</em>L.</td>
-			<td>boerenkool</td>
-			<td>TP 90/1 van 16.2.2011</td>
-		</tr>
-		<tr>
-			<td><em>Brassica oleracea&nbsp;</em>L.</td>
-			<td>broccoli</td>
-			<td>TP 151/2 rev. 2 van 21.4.2020</td>
-		</tr>
-		<tr>
-			<td><em>Brassica oleracea&nbsp;</em>L.</td>
-			<td>spruitjes</td>
-			<td>TP 54/2 rev. van 15.3.2017</td>
-		</tr>
-		<tr>
-			<td><em>Brassica oleracea&nbsp;</em>L.</td>
-			<td>koolrabi</td>
-			<td>TP 65/2 van 30.5.2023</td>
-		</tr>
-		<tr>
-			<td><em>Brassica oleracea&nbsp;</em>L.</td>
-			<td>savooiekool, wittekool en rodekool</td>
-			<td>TP 48/3 rev. 2 van 25.3.2021</td>
-		</tr>
-		<tr>
-			<td><em>Brassica rapa&nbsp;</em>L.</td>
-			<td>Chinese kool</td>
-			<td>TP 105/1 van 13.3.2008</td>
-		</tr>
-		<tr>
-			<td><em>Capsicum annuum&nbsp;</em>L.</td>
-			<td>paprika of Spaanse peper</td>
-			<td>TP 76/2 rev. 2 corr. van 21.4.2020</td>
-		</tr>
-		<tr>
-			<td><em>Cichorium endivia&nbsp;</em>L.</td>
-			<td>krulandijvie en andijvie</td>
-			<td>TP 118/3 van 19.3.2014</td>
-		</tr>
-		<tr>
-			<td><em>Cichorium intybus&nbsp;</em>L.</td>
-			<td>bladcichorei</td>
-			<td>TP 154/2 rev. van 31.3.2023</td>
-		</tr>
-		<tr>
-			<td><em>Cichorium intybus&nbsp;</em>L.</td>
-			<td>cichorei voor de industrie</td>
-			<td>TP 172/2 van 1.12.2005</td>
-		</tr>
-		<tr>
-			<td><em>Cichorium intybus&nbsp;</em>L.</td>
-			<td>witlof</td>
-			<td>TP 173/2 van 21.3.2018</td>
-		</tr>
-		<tr>
-			<td><em>Citrullus lanatus&nbsp;</em>(Thunb.) Matsum. et Nakai</td>
-			<td>watermeloen</td>
-			<td>TP 142/2 rev. 2 van 31.3.2023</td>
-		</tr>
-		<tr>
-			<td><em>Cucumis melo&nbsp;</em>L.</td>
-			<td>meloen</td>
-			<td>TP 104/2 rev. 2 van 25.3.2021</td>
-		</tr>
-		<tr>
-			<td><em>Cucumis sativus&nbsp;</em>L.</td>
-			<td>komkommer en augurk</td>
-			<td>TP 61/2 rev. 2 van 19.3.2019</td>
-		</tr>
-		<tr>
-			<td><em>Cucurbita maxima&nbsp;</em>Duchesne</td>
-			<td>pompoen</td>
-			<td>TP 155/1 van 11.3.2015</td>
-		</tr>
-		<tr>
-			<td><em>Cucurbita maxima&nbsp;</em>Duchesne x&nbsp;<em>Cucurbita moschata&nbsp;</em>Duchesne</td>
-			<td>interspecifieke hybriden van&nbsp;<em>Cucurbita maxima&nbsp;</em>Duchesne x&nbsp;<em>Cucurbita moschata&nbsp;</em>Duchesne voor gebruik als wortelstokken/ onderstammen</td>
-			<td>TP 311/1 van 15.3.2017</td>
-		</tr>
-		<tr>
-			<td><em>Cucurbita pepo&nbsp;</em>L.</td>
-			<td>courgette</td>
-			<td>TP 119/1 rev. van 19.3.2014</td>
-		</tr>
-		<tr>
-			<td><em>Cynara cardunculus&nbsp;</em>L.</td>
-			<td>artisjok en kardoen</td>
-			<td>TP 184/2 rev. van 6.3.2020</td>
-		</tr>
-		<tr>
-			<td><em>Daucus carota&nbsp;</em>L.</td>
-			<td>wortel en voederwortel</td>
-			<td>TP 49/3 van 13.3.2008</td>
-		</tr>
-		<tr>
-			<td><em>Foeniculum vulgare&nbsp;</em>Mill.</td>
-			<td>venkel</td>
-			<td>TP 183/2 van 14.4.2021</td>
-		</tr>
-		<tr>
-			<td><em>Lactuca sativa&nbsp;</em>L.</td>
-			<td>sla</td>
-			<td>TP 13/6 rev. 3 van 27.4.2022</td>
-		</tr>
-		<tr>
-			<td><em>Petroselinum crispum&nbsp;</em>(Mill.) Nyman ex A. W. Hill</td>
-			<td>peterselie</td>
-			<td>TP 136/1 corr. van 21.3.2007</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td><em>Phaseolus coccineus&nbsp;</em>L.</td>
-			<td>pronkboon</td>
-			<td>TP 9/1 van 21.3.2007</td>
-		</tr>
-		<tr>
-			<td><em>Phaseolus vulgaris&nbsp;</em>L.</td>
-			<td>stamboon en stokboon</td>
-			<td>TP 12/4 van 27.2.2013</td>
-		</tr>
-		<tr>
-			<td><em>Pisum sativum&nbsp;</em>L. (partim)</td>
-			<td>kreukzadige doperwt, rondzadige doperwt en peul</td>
-			<td>TP 7/2 rev. 3 corr. van 16.3.2020</td>
-		</tr>
-		<tr>
-			<td><em>Raphanus sativus&nbsp;</em>L.</td>
-			<td>radijs, rammenas</td>
-			<td>TP 64/2 rev. corr. van 11.3.2015</td>
-		</tr>
-		<tr>
-			<td><em>Rheum rhabarbarum&nbsp;</em>L.</td>
-			<td>rabarber</td>
-			<td>TP 62/1 van 19.4.2016</td>
-		</tr>
-		<tr>
-			<td><em>Scorzonera hispanica&nbsp;</em>L.</td>
-			<td>schorseneer</td>
-			<td>TP 116/1 van 11.3.2015</td>
-		</tr>
-		<tr>
-			<td><em>Solanum lycopersicum&nbsp;</em>L.</td>
-			<td>tomaat</td>
-			<td>TP 44/4 rev. 5 van 14.4.2021</td>
-		</tr>
-		<tr>
-			<td><em>Solanum habrochaites&nbsp;</em>S. Knapp &amp; D.M. Spooner;&nbsp;<em>Solanum lycopersicum&nbsp;</em>L. x&nbsp;<em>Solanum habrochaites&nbsp;</em>S. Knapp &amp; D.M. Spooner;&nbsp;<em>Solanum lycopersicum&nbsp;</em>L. x&nbsp;<em>Solanum peruvianum&nbsp;</em>(L.) Mill.;&nbsp;<em>Solanum lycopersicum</em><br>
-			L. x&nbsp;<em>Solanum cheesmaniae&nbsp;</em>(L. Ridley) Fosberg;&nbsp;<em>Solanum pimpinellifolium&nbsp;</em>L. x&nbsp;<em>Solanum habrochaites&nbsp;</em>S. Knapp &amp; D.M. Spooner</td>
-			<td>tomaatwortelstokken</td>
-			<td>TP 294/1 rev. 5 van 14.4.2021</td>
-		</tr>
-		<tr>
-			<td><em>Solanum melongena&nbsp;</em>L.</td>
-			<td>aubergine</td>
-			<td>TP 117/1 van 13.3.2008</td>
-		</tr>
-		<tr>
-			<td><em>Spinacia oleracea&nbsp;</em>L.</td>
-			<td>spinazie</td>
-			<td>TP 55/5 rev. 4 van 27.4.2022</td>
-		</tr>
-		<tr>
-			<td><em>Valerianella locusta&nbsp;</em>(L.) Laterr.</td>
-			<td>veldsla</td>
-			<td>TP 75/2 van 21.3.2007</td>
-		</tr>
-		<tr>
-			<td><em>Vicia faba&nbsp;</em>L. (partim)</td>
-			<td>tuinboon</td>
-			<td>TP 206/1 van 25.3.2004</td>
-		</tr>
-		<tr>
-			<td><em>Zea mays&nbsp;</em>L. (partim)</td>
-			<td>suikermaïs en pofmaïs</td>
-			<td>TP 2/3 van 11.3.2010</td>
-		</tr>
-	</tbody>
-</table>
+<br>
+De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (<a href="https://cpvo.europa.eu/en">https://cpvo.europa.eu/en</a>).
 
 ### BIJLAGE II.
 
-Vervanging van bijlage II bij het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek<br>
-<br>
 Bijlage II. Lijst van gewassen die moeten voldoen aan de UPOV-testrichtsnoeren<br>
 <br>
-Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijnen 2003/90/EG en 2003/91/EG wat betreft de protocollen voor het onderzoek van bepaalde rassen van landbouw- en groentegewassen, zoals laatst gewijzigd door uitvoeringsrichtlijn (EU) 2023/1438 van de Commissie van 10 juli 2023.<br>
+Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek en van de Richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
 <br>
-1° landbouwgewassen<br>
-<br>
-&nbsp;
-<table border="1" cellspacing="0">
+1° landbouwgewassen
+<table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
-			<td>wetenschappelijke benaming</td>
-			<td>triviale naam</td>
-			<td>UPOV-richtsnoer</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">wetenschappelijke benaming</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">triviale naam</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">UPOV-richtsnoer</td>
 		</tr>
 		<tr>
-			<td><em>Agrostis canina </em>L.</td>
-			<td>kruipend struisgras/ moerasstruisgras</td>
-			<td>TG/30/6 van 12.10.1990</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Agrostis canina</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">kruipend struisgras/ moerasstruisgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/30/6 van 12.10.1990</td>
 		</tr>
 		<tr>
-			<td><em>Agrostis capillaris </em>L.</td>
-			<td>gewoon struisgras</td>
-			<td>TG/30/6 van 12.10.1990</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Agrostis capillaris</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">gewoon struisgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/30/6 van 12.10.1990</td>
 		</tr>
 		<tr>
-			<td><em>Agrostis gigantea </em>Roth</td>
-			<td>hoog struisgras</td>
-			<td>TG/30/6 van 12.10.1990</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Agrostis gigantea</em> Roth</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">hoog struisgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/30/6 van 12.10.1990</td>
 		</tr>
 		<tr>
-			<td><em>Agrostis stolonifera </em>L.</td>
-			<td>wit struisgras</td>
-			<td>TG/30/6 van 12.10.1990</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Agrostis stolonifera</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">wit struisgras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/30/6 van 12.10.1990</td>
 		</tr>
 		<tr>
-			<td><em>Arachis hypogaea </em>L.</td>
-			<td>grondnoot/pinda</td>
-			<td>TG/93/4 van 9.4.2014</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Arachis hypogaea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">grondnoot/pinda</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/93/4 van 9.4.2014</td>
 		</tr>
 		<tr>
-			<td><em>Beta vulgaris </em>L.</td>
-			<td>voederbiet</td>
-			<td>TG/150/3 van 4.11.1994</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Beta vulgaris</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">voederbiet</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/150/3 van 4.11.1994</td>
 		</tr>
 		<tr>
-			<td><em>Brassica juncea </em>(L.) Czern</td>
-			<td>sareptamosterd</td>
-			<td>TG/335/1 van 17.12.2020</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica juncea</em> (L.) Czern</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sareptamosterd</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/335/1 van 17.12.2020</td>
 		</tr>
 		<tr>
-			<td><em>Brassica rapa </em>L. var.<br>
-			<em>silvestris </em>(Lam.) Briggs</td>
-			<td>raapzaad</td>
-			<td>TG/185/3 van 17.4.2002</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica rapa</em> L. var. <em>silvestris </em>(Lam.) Briggs</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">raapzaad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/185/3 van 17.4.2002</td>
 		</tr>
 		<tr>
-			<td><em>Bromus catharticus </em>Vahl</td>
-			<td>paardengras</td>
-			<td>TG/180/3 van 4.4.2001</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Bromus catharticus</em> Vahl</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">paardengras</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/180/3 van 4.4.2001</td>
 		</tr>
 		<tr>
-			<td><em>Bromus sitchensis </em>Trin.</td>
-			<td>alaskadravik</td>
-			<td>TG/180/3 van 4.4.2001</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Bromus sitchensis</em> Trin.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">alaskadravik</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/180/3 van 4.4.2001</td>
 		</tr>
 		<tr>
-			<td><em>Carthamus tinctorius </em>L.</td>
-			<td>saffloer</td>
-			<td>TG/134/3 van 12.10.1990</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Carthamus tinctorius</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">saffloer</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/134/4 van 24.10.2023</td>
 		</tr>
 		<tr>
-			<td><em>xFestulolium </em>Asch. et Graebn.</td>
-			<td>hybriden die het gevolg zijn van de kruising van een soort van het geslacht <em>Festuca </em>met een soort van het geslacht <em>Lolium</em></td>
-			<td>TG/243/1 van 9.4.2008</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>xFestulolium </em>Asch. et Graebn.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">hybriden die het product zijn van de kruising van een soort van het geslacht <em>Festuca </em>met een soort van het geslacht<em> Lolium</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/243/1 van 9.4.2008</td>
 		</tr>
 		<tr>
-			<td><em>Lotus corniculatus </em>L.</td>
-			<td>rolklaver</td>
-			<td>TG 193/1 van 9.4.2008</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lotus corniculatus </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rolklaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG 193/1 van 9.4.2008</td>
 		</tr>
 		<tr>
-			<td><em>Lupinus albus </em>L.</td>
-			<td>witte lupine</td>
-			<td>TG/66/4 van 31.3.2004</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lupinus albus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">witte lupine</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/66/4 van 31.3.2004</td>
 		</tr>
 		<tr>
-			<td><em>Lupinus angustifolius </em>L.</td>
-			<td>blauwe lupine</td>
-			<td>TG/66/4 van 31.3.2004</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lupinus angustifolius</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">blauwe lupine</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/66/4 van 31.3.2004</td>
 		</tr>
 		<tr>
-			<td><em>Lupinus luteus </em>L.</td>
-			<td>gele lupine</td>
-			<td>TG/66/4 van 31.3.2004</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lupinus luteus</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">gele lupine</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/66/4 van 31.3.2004</td>
 		</tr>
 		<tr>
-			<td><em>Medicago doliata </em>Carmign.</td>
-			<td>(geen triviale naam in hetNL)</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago doliata</em> Carmign.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">(geen triviale naam in het NL)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago italica </em>(Mill.) Fiori</td>
-			<td>(geen triviale naam in hetNL)</td>
-			<td>TG/228/1 van 5.4.2006</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td><em>Medicago littoralis </em>Rohde ex Loisel.</td>
-			<td>(geen triviale naam in hetNL)</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago italica </em>(Mill.) Fiori</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">(geen triviale naam in het NL)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago lupulina </em>L.</td>
-			<td>hopperupsklaver</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago littoralis</em> Rohde ex Loisel.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">(geen triviale naam in het NL)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago murex </em>Willd.</td>
-			<td>(geen triviale naam in hetNL)</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago lupulina</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">hopperupsklaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago polymorpha </em>L.</td>
-			<td>ruige rupsklaver</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago murex </em>Willd.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">(geen triviale naam in het NL)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago rugosa </em>Desr.</td>
-			<td>(geen triviale naam in het NL)</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago polymorpha</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">ruige rupsklaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago scutellata </em>(L.) Mill.</td>
-			<td>slakkenklaver</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago rugosa</em> Desr.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">(geen triviale naam in het NL)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Medicago truncatula </em>Gaertn.</td>
-			<td>(geen triviale naam in hetNL)</td>
-			<td>TG/228/1 van 5.4.2006</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago scutellata </em>(L.) Mill.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">slakkenklaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Papaver somniferum </em>L.</td>
-			<td>blauwmaanzaad</td>
-			<td>TG/166/4 van 9.4.2014</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Medicago truncatula</em> Gaertn.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">(geen triviale naam in het NL)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/228/1 van 5.4.2006</td>
 		</tr>
 		<tr>
-			<td><em>Phacelia tanacetifolia </em>Benth.</td>
-			<td>phacelia</td>
-			<td>TG/319/1 van 5.4.2017</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Papaver somniferum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">blauwmaanzaad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/166/4 van 9.4.2014</td>
 		</tr>
 		<tr>
-			<td><em>Trifolium repens </em>L.</td>
-			<td>witte klaver</td>
-			<td>TG/38/7 van 9.4.2003</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Phacelia tanacetifolia </em>Benth.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">phacelia</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/319/1 van 5.4.2017</td>
 		</tr>
 		<tr>
-			<td><em>Trifolium subterraneum </em>L.</td>
-			<td>onderaardse klaver</td>
-			<td>TG/170/3 van 4.4.2001</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Trifolium repens</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">witte klaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/38/7 van 9.4.2003</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Trifolium subterraneum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">onderaardse klaver</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/170/3 van 4.4.2001</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-2° groentegewassen<br>
-&nbsp;
-<table border="1" cellspacing="0">
+2° groentegewassen
+<table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
-			<td>wetenschappelijke benaming</td>
-			<td>triviale naam</td>
-			<td>UPOV-richtsnoer</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">wetenschappelijke benaming</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">triviale naam</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:208px">UPOV-richtsnoer</td>
 		</tr>
 		<tr>
-			<td><em>Brassica rapa </em>L.</td>
-			<td>meiraap/stoppelknol</td>
-			<td>TG/37/11 van 23.9.2022</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica rapa</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">meiraap/stoppelknol</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/37/11 van 23.9.2022</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-<br>
-De tekst van deze richtsnoeren is te vinden op de website van de Internationale Unie tot bescherming van kweekproducten (UPOV) (<a href="http://www.upov.int/portal/index.html.en">www.upov.int/portal/index.html.en</a>).
+De tekst van deze richtsnoeren is te vinden op de website van de Internationale Unie tot bescherming van kweekproducten (UPOV) (<a href="http://www.upov.int/portal/index.html.en">www.upov.int/portal/index.html.en</a>).<br>
+&nbsp;
 
 ### BIJLAGE
 
