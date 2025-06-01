@@ -674,8 +674,7 @@ Die afstanden hoeven niet in acht genomen te worden, als er voldoende beschermin
 <br>
 3. Het zaad moet bovendien aan de volgende voorwaarden voldoen.<br>
 <br>
-A. Normen :<br>
-</p>
+A. Normen :</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -1361,6 +1360,11 @@ A. Normen :<br>
 		<tr>
 			<td>Potato spindle tuber viroid [PSTVD0]</td>
 			<td>Capsicum annuum L., Solanum lycopersicum L.</td>
+			<td>0 %</td>
+		</tr>
+		<tr>
+			<td>Tomato brown rugose fruit virus [ToBRFV]</td>
+			<td>Capsicum annuum L., met uitzondering van zaden van een ras waarvan bekend is dat het resistent is tegen ToBRFV, Solanum lycopersicum L. en hybriden daarvan</td>
 			<td>0 %</td>
 		</tr>
 	</tbody>
