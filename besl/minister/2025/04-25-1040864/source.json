@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040864,
+  "title": "Ministerieel besluit van 2025-04-25 tot wijziging van het ministerieel besluit van 20 december 2023 tot erkenning en bepaling van de modaliteiten en voorwaarden voor de installatie, de verificatie, het onderhoud en het gebruik van de verschillende indelingsmethoden voor karkassen van geslachte varkens",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040864/VolledigDocument?datum=2025-06-01",
+  "source_sha256": "214a6ed65e70a4c2129d40bdf01a6d280badee9209f5561db5ad174115c48f8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040864&param=informatie",
+  "as_of": "2025-06-01",
+  "made": "2025-04-25",
+  "gazette": "2025-05-22",
+  "numac": 2025003897,
+  "document_start": "2025-06-01",
+  "document_end": null,
+  "in_force": "2025-06-01",
+  "article_versions": 56,
+  "record_form": "consolidated version as in force on 2025-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
