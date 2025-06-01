@@ -1120,8 +1120,7 @@ d) De naleving van de normen voor de minimale raszuiverheid van gecertificeerd z
 <br>
 4. Het zaaizaad moet voor kiemkracht, mechanische zuiverheid en gehalte aan zaden van andere plantensoorten (inclusief Orobanche spp.) aan de volgende andere normen of voorwaarden voldoen :<br>
 A. Tabel :<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -1981,6 +1980,16 @@ De aanwezigheid van gereguleerde niet-quarantaineorganismen op het zaad en de re
 			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
 			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat</td>
 			<td>niet meer dan vijf sclerotiën of delen van sclerotiën aangetroffen bij een laboratorium-onderzoek van een representatief monster van elke partij zaad, van een in bijlage III, kolom 4, aangegeven formaat".</td>
+		</tr>
+		<tr>
+			<td colspan="5">Virussen, viroïden, virusachtige ziekten en fytoplasma’s</td>
+		</tr>
+		<tr>
+			<td>Tobacco ringspot virus [TRSV00]</td>
+			<td>Glycine max (L.) Merr.</td>
+			<td>0%</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 	</tbody>
 </table>

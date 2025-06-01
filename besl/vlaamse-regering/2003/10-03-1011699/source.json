@@ -2,16 +2,16 @@
   "codex_id": 1011699,
   "title": "Besluit van de Vlaamse Regering van 2003-10-03 houdende reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011699/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "b35c92ef40b5ae97dad175cd9ca30397f5f172479c50dcde09d06c687b6c78d1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011699/VolledigDocument?datum=2025-06-01",
+  "source_sha256": "8479afcc737d7d07a9f006c941765fcfebc737f678bb0af9a62d8ff55ce22728",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011699&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2025-06-01",
   "made": "2003-10-03",
   "gazette": "2003-11-07",
   "numac": 2003201587,
   "document_start": "2003-11-07",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2025-06-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-06-01; future article versions excluded; article text as the API gives it"
 }
