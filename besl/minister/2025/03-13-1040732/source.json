@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040732,
+  "title": "Ministerieel besluit van 2025-03-13 tot wijziging van verschillende besluiten, wat betreft de voorschriften voor plaagorganismen op plantaardig teeltmateriaal",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040732/VolledigDocument?datum=2025-06-01",
+  "source_sha256": "38457cfb7f1321348ccf66b340e900b65b06883ed697d2b6cd64181f7baf67e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040732&param=informatie",
+  "as_of": "2025-06-01",
+  "made": "2025-03-13",
+  "gazette": "2025-04-17",
+  "numac": 2025002987,
+  "document_start": "2025-06-01",
+  "document_end": null,
+  "in_force": "2025-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
