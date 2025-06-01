@@ -110,8 +110,50 @@ De volgende ministeriële besluiten worden opgeheven :<br />1° Ministerieel bes
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=69">Gereguleerde niet-quarantaineorganismen betreffende teeltmateriaal en plantgoed van groentegewassen</a>
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2020/08/17_1.pdf#page=69">Gereguleerde niet-quarantaineorganismen betreffende teeltmateriaal en plantgoed van groentegewassen</a><br>
+<br>
+<br>
+Bij artikel 4 van het ministerieel besluit van 13 maart 2025 wordt met ingang van 1 juni 2025 de volgende wijziging doorgevoerd in&nbsp; de tabel van bijlage 1:<br>
+<br>
+Tussen de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">potato spindle tuber (viroid)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px"><em>Capsicum annuum</em> L. <em>Solanum lycopersicum</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+en de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">tomato spotted wilt tospovirus</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px"><em>Capsicum annuum</em> L., <em>Lactuca sativa</em> L., <em>Solanum lycopersicum</em> L., <em>Solanum melongena</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:184px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”<br>
+wordt de volgende rij ingevoegd:<br>
+<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:208px">Tomato brown rugose fruit virus (ToBRFV)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:208px"><em>Capsicum annuum</em> L., met uitzondering van materiaal van een ras waarvan bekend is dat het resistent is tegen ToBRFV, <em>Solanum lycopersicum</em> L. en hybriden daarvan</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:208px">0%</td>
+		</tr>
+	</tbody>
+</table>
+”.
+
+<p>&nbsp;</p>
 
 ## Bijlage 2
 
