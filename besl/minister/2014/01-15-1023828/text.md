@@ -10,216 +10,204 @@ De lijst van vervoerders die worden belast met de uitvoering van de   openbaredi
 
 ### BIJLAGE
 
-Lijst met vervoerders belast met de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit:<br>
-&nbsp;
-<table cellspacing="0" style="border-collapse:collapse">
+Lijst met vervoerders belast met de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit:
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
-			<td style="border-bottom:3px solid black; border-left:1px solid black; border-right:3px solid black; border-top:3px solid black; height:44px; vertical-align:top; width:96px">Vervoersgebied</td>
-			<td style="border-bottom:3px solid black; border-left:none; border-right:1px solid black; border-top:3px solid black; height:44px; vertical-align:top; width:131px">Aanbieder</td>
-			<td style="border-bottom:3px solid black; border-left:none; border-right:1px solid black; border-top:3px solid black; height:44px; vertical-align:top; width:116px">Ondernemingsnr</td>
-			<td style="border-bottom:3px solid black; border-left:none; border-right:3px solid black; border-top:3px solid black; height:44px; vertical-align:top; width:139px">Adres</td>
-			<td style="border-bottom:3px solid black; border-left:none; border-right:1px solid black; border-top:3px solid black; height:44px; vertical-align:top; width:161px">Aangesteld van tot</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:27px; width:105px">Vervoersgebied</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:131px">Benaming</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:83px">Ondernemings-nummer</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:121px">Adres</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:179px">Periode openbaredienstverplichting</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:44px; vertical-align:top; width:96px">Aalst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:44px; vertical-align:top; width:131px">MOBAR VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:44px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:44px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:44px; vertical-align:top; width:161px">Van 01-11-2016 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Aalst</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-11-2016 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Antwerpen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Antwerpse Rolkar VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">431 407 104</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Clara Snellingsstraat 27,<br>
-			2100 Antwerpen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:41px; width:105px">Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:131px">Antwerpse Rolkar vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:83px">431 407 104</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:121px">Professor Van den Wildenberglaan 2, 2100 Deurne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Brasschaat- Zoersel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Handicar Zoersel VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">435 804 865</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Bethaniënlei 108, 2980 Zoersel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Brasschaat-Zoersel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Handicar Zoersel vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">435 804 865</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Bethaniënlei 108, 2980 Zoersel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Brugge</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">MOBAR VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-11-2016 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Brugge</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-11-2016 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Brussel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Sociaal Vervoer Brussel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">462 087 511</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Fontainasstraat 13 bus 2,<br>
-			1060 Sint-Gillis</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Sociaal Vervoer Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">462 087 511</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Fontainasstraat 13, 1060 Sint-Gillis</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Dendermonde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">I.K.O.O. VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">449 514 133</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Papiermolenstraat 5, 9200 Dendermonde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Dendermonde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">I.K.O.O. vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">449 514 133</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Papiermolenstraat 5, 9200 Dendermonde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">MOBAR VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Halle-Vilvoorde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Eigen Thuis VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">414 950 162</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Schildpadstraat 30, 1850 Grimbergen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Halle-Vilvoorde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Havinet VZW – site Eigen Thuis</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">642 602 234</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Schildpadstraat 30, 1850 Grimbergen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:28px; vertical-align:top; width:96px">Ieper</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:28px; vertical-align:top; width:131px">OCMW Ieper</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:28px; vertical-align:top; width:116px">211 104 959</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:28px; vertical-align:top; width:139px">Ter Waarde 1, 8900 Ieper</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:28px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Ieper</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">OCMW Ieper</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">211 104 959</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ter Waarde 1, 8900 Ieper</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Kempen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Welzijnszorg Kempen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">222 947 570</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Campus Blairon 200,<br>
-			2300 Turnhout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Kempen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Welzijnszorg Kempen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">222 947 570</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Albert Van Dyckstraat 20, 2300 Turnhout</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Kortrijk</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Woon en Zorg Heilig Hart VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">413 595 330</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Budastraat 30, 8500 Kortrijk</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Kortrijk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Woon en Zorg Heilig Hart vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">413 595 330</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Budastraat 30, 8500 Kortrijk</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Leuven</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Leuven-Hageland Mobiel VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px"><br>
-			443 636 725</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ijzerenmolenstraat 10 bus<br>
-			2,&nbsp; 3001 Heverlee</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Leuven</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Leuven-Hageland Mobiel vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; vertical-align:bottom; width:83px">443 636 725</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ijzerenmolenstraat 10 bus 2, 3001 Heverlee</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Lokeren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">OCMW Lokeren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">212 194 131</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Lepelstraat 4, 9160 Lokeren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Lokeren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">OCMW Lokeren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">212 194 131</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Lepelstraat 4, 9160 Lokeren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Maasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Provincie Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">207 725 203</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Universiteitslaan 1, 3500 Hasselt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Maasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Provincie Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">207 725 203</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Universiteitslaan 1, 3500 Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Mechelen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Vlotter Facilities</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">466 004 529</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Colonel Silvertopstraat 15<br>
-			2850 Boom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Mechelen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Vlotter Facilities</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">466 004 529</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Tunnelweg 1, 2845 Niel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:70px; vertical-align:top; width:96px"><br>
-			Meetjesland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:70px; vertical-align:top; width:131px">Stad Eeklo- lokaal dienstencentrum Zonneheem</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:70px; vertical-align:top; width:116px">207 448 158<br>
-			<br>
-			Vestigingseenheid 2.160.734.089</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:70px; vertical-align:top; width:139px"><br>
-			Schietspoelstraat 9, 9900 Eeklo</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:70px; vertical-align:top; width:161px"><br>
-			Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:41px; width:105px">Meetjesland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:131px">Stad Eeklo lokaal dienstencentrum Zonneheem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:83px">207 448 158</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:121px">Schietspoelstraat 9, 9900 Eeklo</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Menen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">MOBAR vzw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2017 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:41px; width:105px">Menen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:41px; width:179px">Van 01-11-2017 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Midden-Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Provincie Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">207 725 203</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Universiteitslaan 1, 3500 Hasselt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Midden-Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Provincie Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">207 725 203</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Universiteitslaan 1, 3500 Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Noord-Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Provincie Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">207 725 203</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Universiteitslaan 1, 3500 Hasselt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Noord-Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Provincie Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">207 725 203</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Universiteitslaan 1, 3500 Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Oostende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">CM-Mobiel Oostende vzw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">476 214 075</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ieperstraat 12, 8400 Oostende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Minder mobielen centrale vzw - CM Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">476 214 075</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Cirkelstraat 8, 8400 Oostende</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2024</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Oudenaarde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">MOBAR VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-11-2016 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Oudenaarde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-11-2016 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Roeselare-Tielt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">MOBAR VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Roeselare-Tielt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Veurne- Diksmuide</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Ziekenvervoer Deroo Bvba</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">442 383 049</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Stationsplein 4, 8660 De Panne</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2017 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Veurne-Diksmuide</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Taxi Deroo bvba</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">442 383 049</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Stationsplein 4, 8660 De Panne</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-11-2017 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Waasland</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">I.K.O.O. VZW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">449 514 133</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Papiermolenstraat 5, 9200 Dendermonde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Waasland</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">I.K.O.O. vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">449 514 133</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Papiermolenstraat 5, 9200 Dendermonde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">West-Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Provincie Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">207 725 203</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Universiteitslaan 1, 3500 Hasselt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">West-Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Provincie Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">207 725 203</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Universiteitslaan 1, 3500 Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Zuid-Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">Provincie Limburg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">207 725 203</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Universiteitslaan 1, 3500 Hasselt</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Wetteren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-11-2016 tot 31-12-2026</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:96px">Wetteren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:131px">MOBAR vzw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:116px">870 940 036</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:3px solid black; border-top:none; height:42px; vertical-align:top; width:139px">Ottergemsesteenweg Zuid 680 9000 Gent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:42px; vertical-align:top; width:161px">Van 01-11-2016 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Zuid-Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Provincie Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">207 725 203</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Universiteitslaan 1, 3500 Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2026</td>
 		</tr>
 	</tbody>
 </table>
