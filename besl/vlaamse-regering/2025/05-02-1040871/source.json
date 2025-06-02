@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040871,
+  "title": "Besluit van de Vlaamse Regering van 2025-05-02 tot wijziging van het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het VLAREBO-besluit van 14 december 2007, het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040871/VolledigDocument?datum=2025-06-02",
+  "source_sha256": "11f09347f172bf7c7431564aa6f6e0e0a7e72fb6748d2433812c146eb2f26c31",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040871&param=informatie",
+  "as_of": "2025-06-02",
+  "made": "2025-05-02",
+  "gazette": "2025-05-23",
+  "numac": 2025004001,
+  "document_start": "2025-06-02",
+  "document_end": null,
+  "in_force": "2025-06-02",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2025-06-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
