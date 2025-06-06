@@ -2456,25 +2456,13 @@ De algemeen directeur, de adjunct-algemeendirecteur en de financieel directeur w
 <br>
 Het ontslag wegens beroepsongeschiktheid ingevolge het ontoereikend functioneren van het personeelslid, is niet mogelijk zonder voorafgaande evaluatie.
 
-## Onderafdeling 6. Beëindiging van de hoedanigheid van het statutaire personeelslid
-
 ### ART 194/1.
 
-[<strong><em>BELANGRIJKE OPMERKING</em></strong>:&nbsp;<u>Dit artikel werd ingevoegd bij artikel 8 van het decreet van 16 juni 2023, dat werd vernietigd bij <a href="https://nl.const-court.be/public/n/2025/2025-085n.pdf">arrest 2025/85 van het Grondwettelijk Hof van 5 juni 2025</a>.&nbsp;<br>
-De gevolgen van de vernietigde bepalingen blijven evenwel gehandhaafd tot 5 juni 2025, datum van het arrest</u>.]&nbsp;<br>
-<br>
-Met behoud van de toepassing van artikel 194, vierde lid, van dit decreet zijn voor de beëindiging van de hoedanigheid van het statutaire personeelslid artikel 15 en titel I, hoofdstuk IV, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, met uitzondering van artikel 33, 37, § 1, vijfde lid, § 2 tot en met § 4, artikel 37/3, 37/5, 37/7, 37/11, 38 en 39bis, van overeenkomstige toepassing.<br>
-<br>
-De beëindiging van de hoedanigheid van het statutaire personeelslid mag niet kennelijk onredelijk zijn. De beëindiging is gebaseerd op redenen die verband houden met het gedrag of de geschiktheid van het personeelslid of berusten op noodwendigheden voor de werking van het bestuur. Het mag geen beëindiging zijn waartoe nooit beslist zou zijn door een normaal en redelijk handelend lokaal bestuur.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels voor de beëindiging van het statutaire dienstverband.
+...
 
 ### ART 194/2.
 
-[<strong><em>BELANGRIJKE OPMERKING</em></strong>:&nbsp;<u>Dit artikel werd ingevoegd bij artikel 9 van het decreet van 16 juni 2023, dat werd vernietigd bij <a href="https://nl.const-court.be/public/n/2025/2025-085n.pdf">arrest 2025/85 van het Grondwettelijk Hof van 5 juni 2025</a>.&nbsp;<br>
-De gevolgen van de vernietigde bepalingen blijven evenwel gehandhaafd tot 5 juni 2025, datum van het arrest</u>.]&nbsp;<br>
-<br>
-De rechtbanken, vermeld in artikel 578 en 607 van het Gerechtelijk Wetboek van 10 oktober 1967, zijn bevoegd voor geschillen over de beëindiging van de hoedanigheid van het statutaire personeelslid, vermeld in artikel 194/1 van dit decreet.
+...
 
 ## Afdeling 4. Verdere uitvoeringsmaatregelen
 
@@ -2524,21 +2512,22 @@ Elke handeling of gedraging die een tekortkoming aan de beroepsplichten uitmaakt
 
 ### ART 200.
 
-[<strong><em>BELANGRIJKE OPMERKING</em></strong>:&nbsp;<u>Dit artikel werd gewijzigd bij artikel 10 van het decreet van 16 juni 2023, dat werd vernietigd bij <a href="https://nl.const-court.be/public/n/2025/2025-085n.pdf">arrest 2025/85 van het Grondwettelijk Hof van 5 juni 2025</a>.&nbsp;<br>
-De gevolgen van de vernietigde bepalingen blijven evenwel gehandhaafd tot 5 juni 2025, datum van het arrest</u>.]&nbsp;<br>
-<br>
 § 1. De volgende tuchtstraffen kunnen worden opgelegd:<br>
 1° blaam;<br>
 2° inhouding van salaris;<br>
-3° schorsing met inhouding van salaris.<br>
+3° schorsing met inhouding van salaris;<br>
+4° ontslag van ambtswege;<br>
+5° afzetting.<br>
 <br>
 § 2. De gemeenteraad kan de voorwaarden en de grenzen vaststellen van de tuchtstraffen, vermeld in paragraaf 1. De inhouding van salaris en de schorsing met inhouding van salaris mogen respectievelijk een termijn van zes maanden en een jaar niet overschrijden.<br>
+<br>
+De tuchtstraf afzetting kan slechts worden opgelegd als de feiten die daaraan ten grondslag liggen, door de wetten en decreten als een misdaad zijn omschreven.<br>
 <br>
 Elke tuchtstraf die een inhouding van salaris inhoudt, mag niet hoger zijn dan de begrenzing, vermeld in artikel 23, tweede lid, van de wet van 12 april 1965 betreffende de bescherming van het loon van de werknemers.<br>
 <br>
 § 3. De tuchtstraffen, de voorwaarden en de grenzen die de gemeenteraad in voorkomend geval vaststelt, zijn van rechtswege van toepassing op de personeelsleden van het openbaar centrum voor maatschappelijk welzijn dat de gemeente bedient.<br>
 <br>
-§ 4. Elke tuchtstraf wordt in het persoonlijk dossier van de personeelsleden doorgehaald na verloop van een termijn van één jaar voor de blaam, drie jaar voor de inhouding van salaris en vier jaar voor de schorsing met inhouding van salaris. Die termijnen lopen vanaf de datum waarop de tuchtstraf werd uitgesproken door de tuchtoverheid of, indien beroep werd aangetekend overeenkomstig artikel 214, vanaf de datum van de uitspraak van de Beroepscommissie voor Tuchtzaken. De doorhaling heeft enkel uitwerking voor de toekomst. De gemeenteraad kan kortere doorhalingstermijnen vaststellen.
+§ 4. Elke tuchtstraf, behalve het ontslag van ambtswege en de afzetting, wordt in het persoonlijk dossier van de personeelsleden doorgehaald na verloop van een termijn van één jaar voor de blaam, drie jaar voor de inhouding van salaris en vier jaar voor de schorsing met inhouding van salaris. Die termijnen lopen vanaf de datum waarop de tuchtstraf werd uitgesproken door de tuchtoverheid of, indien beroep werd aangetekend overeenkomstig artikel 214, vanaf de datum van de uitspraak van de Beroepscommissie voor Tuchtzaken. De doorhaling heeft enkel uitwerking voor de toekomst. De gemeenteraad kan kortere doorhalingstermijnen vaststellen.
 
 ## Onderafdeling 4. De tuchtoverheid
 
@@ -2634,12 +2623,9 @@ Als binnen de termijnen, vermeld in het eerste lid, geen tuchtstraf wordt opgele
 
 ### ART 210.
 
-[<strong><em>BELANGRIJKE OPMERKING</em></strong>:&nbsp;<u>Dit artikel werd gewijzigd bij artikel 11 van het decreet van 16 juni 2023, dat werd vernietigd bij <a href="https://nl.const-court.be/public/n/2025/2025-085n.pdf">arrest 2025/85 van het Grondwettelijk Hof van 5 juni 2025</a>.&nbsp;<br>
-De gevolgen van de vernietigde bepalingen blijven evenwel gehandhaafd tot 5 juni 2025, datum van het arrest</u>.]&nbsp;<br>
-<br>
 Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, geen tuchtstraf oplegt of een tuchtstraf zonder inhouding van salaris oplegt, wordt de preventieve schorsing ingetrokken en betaalt de gemeente of het openbaar centrum voor maatschappelijk welzijn het ingehouden salaris uit.<br>
 <br>
-Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, een tuchtstraf met inhouding van salaris oplegt, heeft de tuchtstraf uitwerking met ingang van de dag waarop de preventieve schorsing is ingegaan. In dat geval wordt het bedrag van het salaris dat ingehouden is tijdens de schorsing in mindering gebracht op het bedrag van het salarisverlies dat verbonden is aan de tuchtstraf. Als het bedrag van het ingehouden salaris groter is dan het bedrag van het salarisverlies dat verbonden is aan de tuchtstraf, betaalt de gemeente of het openbaar centrum voor maatschappelijk welzijn het verschil uit.
+Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, een tuchtstraf met inhouding van salaris, ontslag van ambtswege of afzetting oplegt, heeft de tuchtstraf uitwerking met ingang van de dag waarop de preventieve schorsing is ingegaan. In dat geval wordt het bedrag van het salaris dat ingehouden is tijdens de schorsing in mindering gebracht op het bedrag van het salarisverlies dat verbonden is aan de tuchtstraf. Als het bedrag van het ingehouden salaris groter is dan het bedrag van het salarisverlies dat verbonden is aan de tuchtstraf, betaalt de gemeente of het openbaar centrum voor maatschappelijk welzijn het verschil uit.
 
 ### ART 211.
 
