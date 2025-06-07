@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040874,
+  "title": "Decreet van 2025-05-02 tot oprichting en regeling van het Vlaams Meldpunt voor Grensoverschrijdend Gedrag",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040874/VolledigDocument?datum=2025-06-07",
+  "source_sha256": "80372c34838e44bd3541755476fa8bad7efe7885f1ca91ee14d14b98094e537c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040874&param=informatie",
+  "as_of": "2025-06-07",
+  "made": "2025-05-02",
+  "gazette": "2025-05-28",
+  "numac": 2025004058,
+  "document_start": "2025-06-07",
+  "document_end": null,
+  "in_force": "2025-06-07",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2025-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
