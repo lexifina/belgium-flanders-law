@@ -133,7 +133,7 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>33°graad : aanduiding van gegradueerde,&nbsp;bachelor, master of doctor verleend op het einde van een opleiding c.q. na promotie met de uitreiking van een diploma;<br>
 <br>
-33°/0 grensoverschrijdend gedrag: elke aantasting van de integriteit van een persoon, waaronder machtsmisbruik, ongewenst seksueel gedrag, geweld en pesterijen;<br>
+33°/0 grensoverschrijdend gedrag: elke aantasting van de integriteit van een persoon,&nbsp;wegens machtsmisbruik, ongewenst seksueel gedrag, geweld en pesterijen;<br>
 <br>
 33° /1 hbo5-opleiding: een opleiding van het hoger beroepsonderwijs die buiten de context van deze codex werd of wordt aangeboden, met name door een cvo of een secundaire school;</p>
 
