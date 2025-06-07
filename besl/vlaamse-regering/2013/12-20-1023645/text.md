@@ -22,11 +22,31 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-<P>De minister kent de subsidie toe door middel van een principiële belofte van   subsidie op basis van het aanvraagdossier. <BR></P>  <P>De minister bepaalt de samenstelling van het aanvraagdossier en de wijze   waarop dat kan worden bezorgd aan het agentschap.<BR></P>  <P>Het bedrag van de subsidie wordt vastgesteld op basis van de raming van de   kostprijs die het agentschap aanvaard heeft voor het beoogde werk of de beoogde   studie, vermeld in artikel 5, 9 of 13 van het decreet van 12 juli 2013, verhoogd   met 7 % als tegemoetkoming in de algemene kosten, overeenkomstig artikel 4 van   het decreet van 12 juli 2013.<BR></P>  <P>Als het subsidiebedrag dat op die manier berekend is, minder bedraagt dan   15.000 euro, wordt de subsidie niet toegekend, tenzij het gaat om werken om   veiligheidsredenen, bliksemafleiding, elektriciteitswerken, de vernieuwing van   centrale verwarming of een studie.<BR></P>  <P>De subsidie wordt berekend op het bedrag met inbegrip van de btw, op   voorwaarde dat de initiatiefnemer aantoont dat hij die niet kan recupereren als   btw-plichtige.<BR></P>  <P>Op het ogenblik van de principiële belofte wordt de subsidie vastgelegd   binnen de perken van de daarvoor opgenomen vastleggingskredieten in de Vlaamse   begroting.<BR></P>  <P>De initiatiefnemer mag de gunningsprocedure pas opstarten nadat de   principiële belofte van subsidie verleend is.<BR></P>  <P>In het vorige lid wordt verstaan onder gunningsprocedure : de procedure   waarbij de initiatiefnemer overgaat tot een van de wijzen van gunning, vermeld   in de toepasselijke wetgeving inzake de   overheidsopdrachten.<BR></P>
+<p>De minister kent de subsidie toe door middel van een principiële belofte van subsidie op basis van het aanvraagdossier.</p>
+
+<p>De minister bepaalt de samenstelling van het aanvraagdossier en de wijze waarop dat kan worden bezorgd aan het agentschap.</p>
+
+<p>Het bedrag van de subsidie wordt vastgesteld op basis van de raming van de kostprijs die het agentschap aanvaard heeft voor het beoogde werk of de beoogde studie, vermeld in artikel 5, 9 of 13 van het decreet van 12 juli 2013, verhoogd met 7 % als tegemoetkoming in de algemene kosten, overeenkomstig artikel 4 van het decreet van 12 juli 2013.</p>
+
+<p>Als het subsidiebedrag dat op die manier berekend is, minder bedraagt dan 15.000 euro, wordt de subsidie niet toegekend, tenzij het gaat om werken om veiligheidsredenen, bliksemafleiding, elektriciteitswerken, de vernieuwing van centrale verwarming of een studie.</p>
+
+<p>De subsidie wordt berekend op het bedrag met inbegrip van de btw, op voorwaarde dat de initiatiefnemer aantoont dat hij die niet kan recupereren als btw-plichtige.</p>
+
+<p>Op het ogenblik van de principiële belofte wordt de subsidie vastgelegd binnen de perken van de daarvoor opgenomen vastleggingskredieten in de Vlaamse begroting.</p>
+
+<p>&nbsp;</p>
 
 ### ART. 3.
 
-<P>De initiatiefnemer verstuurt uiterlijk twaalf maanden na de ontvangst van de   principiële belofte van subsidie het gunningsdossier naar het agentschap. De   initiatiefnemer kan een gemotiveerd verzoek indienen om van die termijn af te   wijken. Het agentschap kan die afwijking al dan niet toestaan.<BR></P>  <P>De minister bepaalt de samenstelling van het gunningsdossier en de wijze   waarop dat kan worden bezorgd aan het agentschap.<BR></P>  <P>De minister verleent de vaste belofte van subsidie op basis van het   gunningsdossier. Het agentschap herberekent op dat ogenblik het subsidiebedrag   op basis van het gunningsbedrag. Als het zo berekende subsidiebedrag minder   bedraagt dan 12.000 euro, wordt er geen vaste belofte van subsidie verleend,   tenzij het gaat om werken om veiligheidsredenen, bliksemafleiding,   elektriciteitswerken, de vernieuwing van centrale verwarming of een   studie.<BR></P>  <P>Als het herberekende subsidiebedrag hoger ligt dan het initiële bedrag, dan   wordt een bijkomende subsidie vastgelegd.<BR></P>  <P>De initiatiefnemer mag de studie of de werkenopdracht pas sluiten en   aanvatten nadat de minister de vaste belofte van subsidie heeft   verleend.<BR></P>  <P>Als het agentschap van oordeel is dat de wetgeving op de overheidsopdrachten   niet werd nageleefd, wordt geen vaste belofte van subsidie   verleend.<BR></P>
+<p>De initiatiefnemer verstuurt na de ontvangst van de principiële belofte van subsidie het gunningsdossier naar het agentschap.</p>
+
+<p>De minister bepaalt de samenstelling van het gunningsdossier en de wijze waarop dat kan worden bezorgd aan het agentschap.</p>
+
+<p>De minister verleent de vaste belofte van subsidie op basis van het gunningsdossier. Het agentschap herberekent op dat ogenblik het subsidiebedrag op basis van het gunningsbedrag. Als het zo berekende subsidiebedrag minder bedraagt dan 12.000 euro, wordt er geen vaste belofte van subsidie verleend, tenzij het gaat om werken om veiligheidsredenen, bliksemafleiding, elektriciteitswerken, de vernieuwing van centrale verwarming of een studie.</p>
+
+<p>Als het herberekende subsidiebedrag hoger ligt dan het initiële bedrag, dan wordt een bijkomende subsidie vastgelegd.</p>
+
+<p>Als het agentschap van oordeel is dat de wetgeving op de overheidsopdrachten niet werd nageleefd, wordt geen vaste belofte van subsidie verleend.</p>
 
 ### ART. 4.
 
