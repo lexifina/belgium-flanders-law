@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040879,
+  "title": "Ministerieel besluit van 2025-05-19 tot erkenning van een instelling als vermeld in artikel 17 van het koninklijk besluit van 28 juni 2009 betreffende het vervoer via de weg of per spoor van gevaarlijke goederen, met uitzondering van ontplofbare en radioactieve stoffen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040879/VolledigDocument?datum=2025-06-09",
+  "source_sha256": "be7df27a911497a427a24c3765cb789a039ed9d13adde455f3bad8d394257723",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040879&param=informatie",
+  "as_of": "2025-06-09",
+  "made": "2025-05-19",
+  "gazette": "2025-05-30",
+  "numac": 2025004106,
+  "document_start": "2025-06-09",
+  "document_end": null,
+  "in_force": "2025-06-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2025-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
