@@ -2,16 +2,16 @@
   "codex_id": 1040925,
   "title": "Besluit van de Vlaamse Regering van 2025-06-13 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2025",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040925/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "23165e6dbf98ac53b88bed01cd99d74caf5db53ed995de854e592cc65336ada5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040925/VolledigDocument?datum=2025-06-13",
+  "source_sha256": "0320e81ed180557fb1e9c8c1d763654f950299d8fc17ab169445a0d1279ccff8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040925&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-06-13",
   "made": "2025-06-13",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-06-13",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-06-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-06-13; future article versions excluded; article text as the API gives it"
 }
