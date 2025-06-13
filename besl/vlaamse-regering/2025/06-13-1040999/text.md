@@ -34,3 +34,25 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Binnenland, Steden- e
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+In dit besluit wordt verstaan onder:<br>
+1° LEKP 1.0: Lokaal Energie- en Klimaatpact 1.0;<br>
+2° het Loket voor Lokale Besturen van het Agentschap Binnenlands Bestuur: het digitaal loket of de online toepassing van het Agentschap Binnenlands Bestuur voor gegevensdeling tussen de lokale besturen en het agentschap, beschikbaar op de website van het Agentschap Binnenlands Bestuur.
+
+### ART 2.
+
+De gemeenten van het Vlaamse Gewest krijgen vanuit begrotingsartikel SJ0-1SMC2GA-WT een subsidie van maximaal 9.330.999 euro (negen miljoen driehonderd dertigduizend negenhonderd negenennegentig euro) voor klimaatacties om de doelstellingen van het LEKP 1.0 te realiseren.
+
+### ART 3.
+
+De gemeente bezorgt, indien dit nog niet gebeurd is, de gemeenteraadsbeslissing tot ondertekening van LEKP 1.0 uiterlijk op 5 december 2025 via het Loket voor Lokale Besturen van het Agentschap Binnenlands Bestuur in de module subsidiebeheer, bestemd voor het specifieke pact.
+
+### ART 4.
+
+De subsidies, vermeld in artikel 2, worden toegekend als een specifieke subsidie ter realisatie van de doelstellingen van LEKP 1.0.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor het binnenlands bestuur en het stedenbeleid, is belast met de uitvoering van dit besluit.
