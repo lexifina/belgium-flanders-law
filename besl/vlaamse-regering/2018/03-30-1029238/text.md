@@ -25,7 +25,7 @@ Besluit :<br>
 
 ### ART 1.
 
-De maatschappelijke zetel van de Vlaamse Landmaatschappij wordt met ingang van 6 juni 2018 gevestigd in de Koning Albert II-laan 15, in 1210 Brussel.<br>
+De maatschappelijke zetel van de Vlaamse Landmaatschappij wordt met ingang van 6 juni 2018 gevestigd in de Koning Albert II-laan 15 bus 152, in 1210 Brussel.<br>
 &nbsp;
 
 ### ART 2.
