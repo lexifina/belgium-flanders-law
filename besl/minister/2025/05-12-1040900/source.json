@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040900,
+  "title": "Ministerieel besluit van 2025-05-12 tot wijziging van het ministerieel besluit van 14 december 2012 houdende uitvoering van artikel 2, tweede lid, en artikel 20 van het besluit van de Vlaamse Regering van 14 december 2012 betreffende contractuele betrekkingen en samenwerking in de sector melk en zuivelproducten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040900/VolledigDocument?datum=2025-06-15",
+  "source_sha256": "1f262a53f3e2fefd684cfdd34a5a4ebd63922ddb12cf86a35606a2fddb0a1f1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040900&param=informatie",
+  "as_of": "2025-06-15",
+  "made": "2025-05-12",
+  "gazette": "2025-06-05",
+  "numac": 2025004231,
+  "document_start": "2025-06-15",
+  "document_end": null,
+  "in_force": "2025-06-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
