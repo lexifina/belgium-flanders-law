@@ -2,16 +2,16 @@
   "codex_id": 1022737,
   "title": "Ministerieel besluit van 2012-12-14 houdende uitvoering van [artikel 2 en 4 van het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten en brancheorganisaties, wat betreft de] sector melk en zuivelproducten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022737/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "eadd6fefc21d6e4f979b276cc74ec836e56a9e908d51adb1f1a355d9b46277b8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022737/VolledigDocument?datum=2025-06-15",
+  "source_sha256": "b24fb0118efb4c7215e27519245da52db3bac44be8f72de5bfb31c363c5b4086",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022737&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2025-06-15",
   "made": "2012-12-14",
   "gazette": "2013-02-18",
   "numac": 2013200920,
   "document_start": "2012-04-02",
   "document_end": null,
-  "in_force": "2015-01-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-06-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-06-15; future article versions excluded; article text as the API gives it"
 }

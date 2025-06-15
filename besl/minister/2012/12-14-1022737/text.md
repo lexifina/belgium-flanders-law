@@ -6,13 +6,21 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder besluit van de Vlaamse Regering van 14   december 2012 : het besluit van de Vlaamse Regering van 14 december 2012   betreffende contractuele betrekkingen en samenwerking in de sector melk en   zuivelproducten.
+In dit besluit wordt verstaan onder het besluit van 31 januari 2014: het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten- en brancheorganisaties.
+
+### ART 1/1.
+
+Binnen de sector melk- en zuivelproducten, vermeld in artikel 2, eerste lid, 12°/1, van het besluit van 31 januari 2014, wordt de deelsector biologische melk- en zuivelproducten aangewezen.<br>
+<br>
+Producenten die melk- en zuivelproducten produceren en in het kader van die productie deelnemen aan de voedselkwaliteitsregeling die is ingesteld bij verordening (EU) nr. 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad, behoren tot de deelsector biologische melk- en zuivelproducten, vermeld in het eerste lid.
 
 ### ART. 2.
 
-Ter uitvoering van artikel 2, tweede lid, van het besluit van de Vlaamse Regering van 14 december 2012, wordt het minimum aantal leden per groep van producenten waarvoor de erkenning wordt aangevraagd, vastgesteld op 40.<br>
+§1. Ter uitvoering van artikel 4, tweede lid, van het besluit van 31 januari 2014 wordt het minimumaantal leden per groep van producenten in de sector melk- en zuivelproducten waarvoor de erkenning als producentenorganisatie wordt aangevraagd, vastgesteld op veertig.<br>
 <br>
-In afwijking van het eerste lid wordt het minimum aantal leden voor producentengroeperingen die uitsluitend bestaan uit producenten van biologische melk, die voldoen aan de bepalingen van Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91, en van Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008, tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft, vastgesteld op 10. Daarbij is vereist dat de producenten van biologische melk gedurende de hele duur van hun lidmaatschap voldoen aan de bepalingen van voormelde verordeningen.
+§2. Ter uitvoering van artikel 4, derde lid, van het besluit van 31 januari 2014 wordt voor de deelsector biologische melk- en zuivelproducten, vermeld in artikel 2 van dit besluit, het minimumaantal leden per groep van producenten waarvoor de erkenning als producentenorganisatie wordt aangevraagd, vastgesteld op tien, op voorwaarde dat die uitsluitend bestaan uit producenten van biologische melk- en zuivelproducten.<br>
+<br>
+Om meegeteld te worden voor het minimumaantal leden, vermeld in het eerste lid, is vereist dat de producenten van biologische melk- en zuivelproducten die lid zijn van de producentenorganisatie, gedurende de hele duur van hun lidmaatschap van de producentenorganisatie voldoen aan de voorwaarden, vermeld in verordening ((EU) nr. 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad.
 
 ### ART. 3.
 
