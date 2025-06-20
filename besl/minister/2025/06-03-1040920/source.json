@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040920,
+  "title": "Ministerieel besluit van 2025-06-03 tot samenstelling van de Vlaamse Adviescommissie voor Volksraadplegingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040920/VolledigDocument?datum=2025-06-20",
+  "source_sha256": "447c7fba818f35dd0935a5e546a951730940f508b6e237d151051e4b5f063518",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040920&param=informatie",
+  "as_of": "2025-06-20",
+  "made": "2025-06-03",
+  "gazette": "2025-06-19",
+  "numac": 2025004473,
+  "document_start": "2025-06-20",
+  "document_end": null,
+  "in_force": "2025-06-20",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
