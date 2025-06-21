@@ -30,46 +30,47 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-De volgende gemeenten worden beschouwd te liggen in risicozone voor wolvenschade, zoals bepaald in artikel 1, 5° van het Besluit van de Vlaamse Regering tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen van 26 november 2021:<br>
-- Antwerpen;<br>
-- As;<br>
-- Balen;<br>
-- Beringen;<br>
-- Bocholt;<br>
-- Brasschaat;<br>
-- Brecht;<br>
-- Bree;<br>
-- Dessel;<br>
-- Dilsen-Stokkem;<br>
-- Essen;<br>
-- Geel;<br>
-- Genk;<br>
-- Ham;<br>
-- Hamont-Achel;<br>
-- Hechtel-Eksel;<br>
-- Heusden-Zolder;<br>
-- Hoogstraten;<br>
-- Houthalen-Helchteren;<br>
-- Kalmthout;<br>
-- Kapellen;<br>
-- Kinrooi;<br>
-- Lanaken;<br>
-- Leopoldsburg;<br>
-- Lommel;<br>
-- Maaseik;<br>
-- Maasmechelen;<br>
-- Malle;<br>
-- Meerhout;<br>
-- Mol;<br>
-- Oudsbergen;<br>
-- Peer;<br>
-- Pelt;<br>
-- Rijkevorsel;<br>
-- Schilde;<br>
-- Schoten;<br>
-- Stabroek;<br>
-- Wuustwezel;<br>
-- Zonhoven;<br>
-- Zutendaal.<br>
-<br>
-Deze vaststelling gebeurt met als doel dat veehouders in deze gemeenten in aanmerking komen voor subsidies voor wolfwerende maatregelen, overeenkomstig het Besluit van de Vlaamse Regering tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen van 26 november 2021.
+De volgende gemeenten worden beschouwd te liggen in een risicozone voor wolvenschade, zoals bepaald in artikel 1, 5° van het Besluit van de Vlaamse Regering tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen van 26 november 2021:<br>
+&nbsp;&nbsp; &nbsp;- Antwerpen;<br>
+&nbsp;&nbsp; &nbsp;- As;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Balen;<br>
+&nbsp;&nbsp; &nbsp;- Beringen;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Bocholt;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Brasschaat;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Brecht;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Bree;<br>
+&nbsp;&nbsp; &nbsp;- Dessel;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Dilsen-Stokkem;<br>
+&nbsp;&nbsp; &nbsp;- Essen;<br>
+&nbsp;&nbsp; &nbsp;- Geel;<br>
+&nbsp;&nbsp; &nbsp;- Genk;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Hamont-Achel;<br>
+&nbsp;&nbsp; &nbsp;- Hechtel-Eksel;<br>
+&nbsp;&nbsp; &nbsp;- Heusden-Zolder;<br>
+&nbsp;&nbsp; &nbsp;- Hoogstraten;<br>
+&nbsp;&nbsp; &nbsp;- Houthalen-Helchteren;<br>
+&nbsp;&nbsp; &nbsp;- Kalmthout;<br>
+&nbsp;&nbsp; &nbsp;- Kapellen;<br>
+&nbsp;&nbsp; &nbsp;- Kinrooi;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Lanaken;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Leopoldsburg;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Lommel;<br>
+&nbsp;&nbsp; &nbsp;- Maaseik;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Maasmechelen;<br>
+&nbsp;&nbsp; &nbsp;- Malle;<br>
+&nbsp;&nbsp; &nbsp;- Meerhout;<br>
+&nbsp;&nbsp; &nbsp;- Mol;<br>
+&nbsp;&nbsp; &nbsp;- Oudsbergen;<br>
+&nbsp;&nbsp; &nbsp;- Peer;<br>
+&nbsp;&nbsp; &nbsp;- Pelt;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Rijkevorsel;<br>
+&nbsp;&nbsp; &nbsp;- Schilde;<br>
+&nbsp;&nbsp; &nbsp;- Schoten;<br>
+&nbsp;&nbsp; &nbsp;- Stabroek;<br>
+&nbsp;&nbsp; &nbsp;- Tessenderlo-Ham;<br>
+&nbsp;&nbsp; &nbsp;- Wuustwezel;&nbsp;<br>
+&nbsp;&nbsp; &nbsp;- Zonhoven;<br>
+&nbsp;&nbsp; &nbsp;- Zutendaal.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Deze vaststelling gebeurt met als doel dat veehouders in deze gemeenten in aanmerking komen voor subsidies voor wolfwerende maatregelen, overeenkomstig het Besluit van de Vlaamse Regering tot vaststelling van de regels voor de subsidiëring van wolfwerende maatregelen van 26 november 2021.<br>
+&nbsp;

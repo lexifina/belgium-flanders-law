@@ -2,16 +2,16 @@
   "codex_id": 1037053,
   "title": "Ministerieel besluit van 2022-05-03 over de vaststelling van de risicozone voor wolvenschade",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037053/VolledigDocument?datum=2022-05-28",
-  "source_sha256": "7852307fb3a324b41c6aa3ef777bec0596feeeb064ffebcc8f54482bd49d5c64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037053/VolledigDocument?datum=2025-06-21",
+  "source_sha256": "f6b33f89e5b8ebea8c9cde961c15f3d246b7c4f79d8abe8a1e94aa8a73d51c85",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037053&param=informatie",
-  "as_of": "2022-05-28",
+  "as_of": "2025-06-21",
   "made": "2022-05-03",
   "gazette": "2022-05-18",
   "numac": 2022032033,
   "document_start": "2022-05-28",
   "document_end": null,
-  "in_force": "2022-05-28",
+  "in_force": "2025-06-21",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2022-05-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-06-21; future article versions excluded; article text as the API gives it"
 }
