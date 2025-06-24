@@ -49,7 +49,7 @@ De voorzitter van het Administratief Team Luchtemissies Veeteelt, vermeld in art
 
 ### ART 6.
 
-De leden van het WeComV die conform artikel 2.17.1 van titel II van het VLAREM recht hebben op presentiegelden, ontvangen per vergadering van het WeComV een vergoeding van 200 euro, met een maximum van 5400 euro per jaar.
+De leden van het WeComV die conform artikel 2.17.1 van titel II van het VLAREM recht hebben op presentiegelden, ontvangen per vergadering van het WeComV een vergoeding van 400 euro, met een maximum van 16200 euro per jaar.
 
 ### ART 7.
 
