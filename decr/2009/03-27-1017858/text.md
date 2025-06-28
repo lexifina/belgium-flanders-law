@@ -26,7 +26,7 @@ In dit decreet wordt verstaan onder :<br>
 1° /8 bijbehorende faciliteiten : de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten, fysieke infrastructuren en andere faciliteiten of elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten en die gebouwen of toegangen tot gebouwen, bekabeling van gebouwen, antennes, torens en andere ondersteunende constructies, kabelgoten, kabelbuizen, masten, mangaten en straatkasten omvatten;<br>
 2° breedbeeldtelevisieprogramma : programma dat geheel of gedeeltelijk is geproduceerd en gemonteerd om te worden weergegeven in een schermvullend breedbeeldformaat. Het 16 :9-formaat geldt als referentiekader voor breedbeeldtelevisieprogramma's;<br>
 3° boodschappen van algemeen nut :<br>
-a) elke boodschap over hun beleid, die uitgaat van overheden of openbare instellingen, verenigingen of overheidsbedrijven die een meerderheid van overheidsvertegenwoordigers in&nbsp;het bestuursorgaan hebben en een taak van openbare dienst vervullen die niet door de particuliere sector wordt uitgeoefend, en die bevoegd zijn voor en zich geheel of gedeeltelijk richten tot de Vlaamse Gemeenschap of de Nederlandstalige bevolking van het tweetalige gebied Brussel-Hoofdstad, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
+a) elke boodschap over hun beleid, die uitgaat van overheden of openbare instellingen, verenigingen of overheidsbedrijven die een meerderheid van overheidsvertegenwoordigers in het bestuursorgaan hebben en een taak van openbare dienst vervullen die niet door de particuliere sector wordt uitgeoefend, en die bevoegd zijn voor en zich geheel of gedeeltelijk richten tot de Vlaamse Gemeenschap of de Nederlandstalige bevolking van het tweetalige gebied Brussel-Hoofdstad, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 b) elke boodschap over hun opdracht van algemeen belang, die uitgaat van sociale en humanitaire verenigingen of van verenigingen die behoren tot het domein van het algemeen welzijn, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 c) elke boodschap die uitgaat van door openbare besturen erkende of gesubsidieerde culturele verenigingen, en die ertoe strekt hun culturele activiteiten aan het publiek kenbaar te maken, ongeacht de vorm en ongeacht de betaling of de betalingswijze;<br>
 4° collectieve antenne ten behoeve van een gesloten gebruikersgroep : een installatie voor het opvangen van signalen van radio-omroep en televisie, waaraan verscheidene eindontvangsttoestellen zijn verbonden en voor het gebruik waarvan - buiten het aandeel van de gebruiker in de werkelijke kosten die uit de installatie, de werking en het onderhoud van de installatie voortvloeien - geen enkel abonnementsgeld wordt geëist;<br>
@@ -35,6 +35,7 @@ c) elke boodschap die uitgaat van door openbare besturen erkende of gesubsidieer
 6° /1 Contactcomité: het contactcomité, vermeld in artikel 29 van richtlijn 2010/13/EU van het Europees Parlement en de Raad van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten (richtlijn audiovisuele mediadiensten);<br>
 7° dienstenverdeler : elke rechtspersoon die door middel van elektronische communicatienetwerken een of meer omroepdiensten levert aan het publiek. De omroeporganisatie die alleen de eigen omroepdiensten ter beschikking van het publiek stelt, is geen dienstenverdeler;<br>
 7° /1 door gebruikers gegenereerde inhoud: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, bestemd voor het algemene publiek of een deel ervan, die ongeacht de duur ervan een afzonderlijk element vormt, die door een gebruiker is gecreeerd en door die gebruiker of een andere gebruiker is geüpload naar een videoplatformdienst;<br>
+7° /2 eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten: elke soort apparatuur voor gebruik door consumenten met als voornaamste functie het verlenen van toegang tot televisiediensten;<br>
 8° elektronisch communicatienetwerk : de transmissiesystemen, al dan niet gebaseerd op een permanente infrastructuur of gecentraliseerde beheercapaciteit, en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken signalen van radio-omroep en televisie over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen, voor zover deze voor overdracht van signalen van radio-omroep en televisie worden gebruikt, waaronder satellietomroepnetwerken, vaste (circuut- en pakketgeschakelde, met inbegrip van internet) en mobiele netwerken, elektriciteitsnetten, etheromroepnetwerken en kabelomroepnetwerken;<br>
 9° elektronische communicatiedienst : een gewoonlijk tegen vergoeding via elektronische communicatienetwerken aangeboden dienst die geheel of hoofdzakelijk bestaat uit het overbrengen van signalen van radio-omroep en televisie;<br>
 10° etheromroepnetwerk : elektronisch communicatienetwerk waardoor signalen van radio-omroep en televisie in digitale vorm, al dan niet gecodeerd, via aardse zenders aan derden worden doorgegeven. Een etheromroepnetwerk kan radio-omroep- en televisiesignalen doorgeven in de hele Vlaamse Gemeenschap of in een deel ervan;<br>
@@ -49,7 +50,7 @@ b) de producties, vermeld in punt a), 1), en a), 2), zijn producties die voornam
 3) de bijdrage van de coproducenten van deze staten in de totale kosten van de coproductie is doorslaggevend en de coproductie staat niet onder controle van een of meer buiten deze staten gevestigde producenten;<br>
 c) producties die geen Europese producties zijn als vermeld in a), maar die vervaardigd worden in het kader van tussen de lidstaten en derde landen gesloten bilaterale coproductieverdragen, worden als Europese producties beschouwd mits de coproducenten uit de Europese Gemeenschap een meerderheidsaandeel hebben in de totale productiekosten en de productie niet onder controle staat van een of meer buiten de lidstaten gevestigde producenten;<br>
 12° evenement : een voor het publiek toegankelijke gebeurtenis. De gebeurtenis vormt een afgerond geheel met een natuurlijk begin en einde. Als een evenement zich uitstrekt over verschillende dagen, wordt elke dag als een afzonderlijk evenement beschouwd;<br>
-13° exclusiviteitshouder : elke omroeporganisatie die ressorteert onder de Vlaamse Gemeenschap, een andere gemeenschap of een andere lidstaat van de Europese Unie&nbsp;of een andere staat in de Europese Economische Ruimte die voor evenementen exclusieve uitzendrechten heeft verworven voor de Vlaamse Gemeenschap;<br>
+13° exclusiviteitshouder : elke omroeporganisatie die ressorteert onder de Vlaamse Gemeenschap, een andere gemeenschap of een andere lidstaat van de Europese Unie of een andere staat in de Europese Economische Ruimte die voor evenementen exclusieve uitzendrechten heeft verworven voor de Vlaamse Gemeenschap;<br>
 14° geavanceerde digitale eindapparatuur : kastjes met converter en decoder en geïntegreerde digitale televisietoestellen voor de ontvangst van de digitale interactieve omroepdiensten;<br>
 14° /1 interconnectie : een specifiek type toegang dat tussen exploitanten van openbare netwerken wordt gerealiseerd door het fysiek en logisch verbinden van openbare elektronische communicatienetwerken die door dezelfde of een andere onderneming worden gebruikt om het de gebruikers van een onderneming mogelijk te maken te communiceren met die van dezelfde of van een andere onderneming of toegang te hebben tot diensten die door een andere onderneming worden aangeboden, wanneer die diensten worden aangeboden door de betrokken partijen of andere partijen die toegang hebben tot het netwerk;<br>
 15° jongere : een persoon vanaf twaalf jaar tot onder de leeftijd van zestien jaar;<br>
@@ -60,6 +61,7 @@ c) producties die geen Europese producties zijn als vermeld in a), maar die verv
 19° kinderprogramma : een programma dat zich voornamelijk richt tot kinderen, wat onder meer kan blijken uit de inhoud, het tijdstip van uitzenden, de vormgeving, de presentatie en de wijze van aankondiging;<br>
 20° lineaire radiodienst : een lineaire auditieve omroepdienst, dat is een door een omroeporganisatie aangeboden omroepdienst voor het gelijktijdig beluisteren van auditieve programma's op basis van een programmaschema;<br>
 21° lineaire televisiedienst : een lineaire audiovisuele omroepdienst, dat is een door een omroeporganisatie aangeboden omroepdienst voor het gelijktijdig bekijken van audiovisuele programma's op basis van een programmaschema;<br>
+21° /0 micro-onderneming: onderneming met minder dan tien werknemers en een jaaromzet of een jaarlijks balanstotaal van maximaal 2 miljoen euro;<br>
 21° /1 netwerk met zeer hoge capaciteit : hetzij een elektronisch communicatienetwerk dat ten minste tot aan het distributiepunt volledig uit optischevezelelementen bestaat, hetzij een elektronisch communicatienetwerk dat, in gebruikelijke piekomstandigheden, in staat is om soortgelijke netwerkprestaties te bieden wat betreft downlinken uplinkbandbreedte, veerkrachtigheid van het netwerk, parameters met betrekking tot fouten, latentietijden en de veranderingen daarin. De netwerkprestaties kunnen ook als vergelijkbaar worden beschouwd als de eindgebruiker een andere gebruikservaring heeft vanwege de inherent verschillende kenmerken van het medium dat op het netwerk wordt aangesloten;<br>
 22° netwerkoperator : de aanbieder van een elektronisch communicatienetwerk. Onder aanbieden wordt begrepen het bouwen, exploiteren, leiden en beschikbaar stellen van een elektronisch communicatienetwerk;<br>
 23° niet-lineaire radiodienst : een niet-lineaire auditieve omroepdienst of auditieve omroepdienst op aanvraag, dat is een door een omroeporganisatie aangeboden omroepdienst die de gebruiker de mogelijkheid biedt om auditieve programma's te beluisteren op zijn individuele verzoek en op het door hem gekozen moment op basis van een door de omroeporganisatie geselecteerde programmacatalogus;<br>
@@ -73,6 +75,7 @@ b) de commerciële communicatie;<br>
 29° organisator :<br>
 a) de persoon of vereniging die een evenement organiseert;<br>
 b) de houder van de exploitatierechten op het evenement;<br>
+29° /1 personen met een handicap: personen met langdurige fysieke, mentale, intellectuele of zintuiglijke beperkingen die in hun interactie te kampen hebben met diverse drempels die hen kunnen beletten volledig, effectief en op voet van gelijkheid met anderen in de samenleving te participeren;<br>
 29°/2 productieproject: een project dat voorgelegd of uitgevoerd wordt in het kader van de toepassing van artikel 188/2, §1, eerste lid, 1°, en dat voldoet aan de voorwaarden zoals bepaald door de Vlaamse Regering;<br>
 30° productplaatsing: elke vorm van audiovisuele commerciële communicatie die bestaat in het opnemen van, of het verwijzen naar, een product, dienst of handelsmerk in het kader van een programma of door gebruikers gegenereerde inhoud, tegen betaling of een soortgelijke vergoeding;<br>
 31° programma: een reeks bewegende beelden, al dan niet met geluid, of een reeks van klanken of geluiden, die ongeacht de duur ervan, een afzonderlijk element vormt van een schema opgesteld door een omroeporganisatie of een catalogus opgesteld door een omroeporganisatie, met inbegrip van bioscoopfilms, videoclips, sportevenementen, komische series, documentaires, kinderprogramma's en origineel drama;<br>
@@ -91,8 +94,9 @@ b) de houder van de exploitatierechten op het evenement;<br>
 43° televisiedienst : een audiovisuele omroepdienst;<br>
 44° televisieomroeporganisatie : een aanbieder van televisiediensten;<br>
 45° telewinkelen : rechtstreekse aanbiedingen aan het publiek die worden uitgezonden met het oog op de levering tegen betaling van goederen of diensten, met inbegrip van onroerende goederen, rechten en verplichtingen;<br>
+45° /0 tot televisiediensten toegang verschaffende diensten: diensten die door middel van elektronische communicatienetwerken worden uitgezonden en die gebruikt worden om kennis te nemen van televisiediensten, ze te kiezen, er informatie over te ontvangen en ze te bekijken, alsmede alle beschikbaar gemaakte functies, zoals ondertiteling, audiobeschrijving, auditieve ondertiteling en gebarentaal, die resulteren uit het toepassen van maatregelen voor het toegankelijk maken van die diensten conform artikel 151. De tot televisiediensten toegang verschaffende diensten omvatten ook elektronische programmagidsen;<br>
 45° /1 transnationale markten : overeenkomstig artikel 65 van richtlijn (EU) 2018/1972 gedefinieerde markten die de Europese Unie of een aanzienlijk, zich over meer dan één lidstaat uitstrekkend, deel daarvan beslaan;<br>
-45° /1 videoplatformdienst: een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, waarbij het hoofddoel van de dienst, een daarvan losstaand gedeelte of een essentiële functie daarvan bestaat in het aanbieden van programma's, door gebruikers gegenereerde inhoud, of beide, aan het algemene publiek, waarvoor de aanbieder van het videoplatform geen redactionele verantwoordelijkheid draagt, ter informatie, vermaak of educatie via elektronische communicatienetwerken en waarvan de organisatie wordt bepaald door de aanbieder van het videoplatform, onder meer met automatische middelen of algoritmen, namelijk door weergeven, taggen en rangschikken;<br>
+45° /2 videoplatformdienst: een dienst als vermeld in artikel 56 en 57 van het Verdrag betreffende de werking van de Europese Unie, waarbij het hoofddoel van de dienst, een daarvan losstaand gedeelte of een essentiële functie daarvan bestaat in het aanbieden van audiovisuele programma's, door gebruikers gegenereerde&nbsp;audiovisuele inhoud, of beide, aan het algemene publiek, waarvoor de aanbieder van het videoplatform geen redactionele verantwoordelijkheid draagt, ter informatie, vermaak of educatie via elektronische communicatienetwerken en waarvan de organisatie wordt bepaald door de aanbieder van het videoplatform, onder meer met automatische middelen of algoritmen, namelijk door weergeven, taggen en rangschikken;<br>
 45°/3 Vlaams Audiovisueel Fonds, afgekort VAF: Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds;<br>
 46° zelfpromotie : de aanprijzing door een omroepdienst van eigen producten, diensten, programma's of netten;<br>
 47° zendapparatuur : ieder apparaat dat geheel of gedeeltelijk bestemd is om naar het publiek signalen van radio-omroep en televisie draadloos uit te zenden;<br>
@@ -105,10 +109,10 @@ a)&nbsp;&nbsp; &nbsp;de producent die aan al de volgende voorwaarden voldoet:<br
 &nbsp; 4)&nbsp;&nbsp; &nbsp;niet meer dan 25% van de stemrechten of vermogensrechten van de producent wordt rechtstreeks of onrechtstreeks aangehouden door een televisieomroeporganisatie;<br>
 &nbsp; 5)&nbsp;&nbsp; &nbsp;niet meer dan 25% van de stemrechten of vermogensrechten van de producent wordt rechtstreeks of onrechtstreeks aan gehouden door een vennootschap die rechtstreeks of onrecht streeks meer dan 25% van de stemrechten of vermogensrechten van een televisieomroeporganisatie aanhoudt;<br>
 b)&nbsp;&nbsp; &nbsp;de producent die wel afhankelijk is conform punt a), 2), 3), 4) of 5), maar die aan een van de volgende voorwaarden voldoet:<br>
-&nbsp;1)&nbsp;&nbsp; &nbsp;uit de cijfers onderliggend aan de laatste drie goedgekeurde jaarrekeningen blijkt dat de producent een gemiddelde jaaromzet uit audiovisuele producties heeft die voor minder dan 25%&nbsp;<br>
+&nbsp; 1)&nbsp;&nbsp; &nbsp;uit de cijfers onderliggend aan de laatste drie goedgekeurde jaarrekeningen blijkt dat de producent een gemiddelde jaaromzet uit audiovisuele producties heeft die voor minder dan 25%<br>
 rechtstreeks of onrechtstreeks is gerealiseerd bij de televisie-omroeporganisaties waarvan die producent afhankelijk is.<br>
 Voor de producent die nog niet over drie goedgekeurde jaarrekeningen beschikt, wordt de gemiddelde jaaromzet beoordeeld op basis van een schatting te goeder trouw;<br>
-&nbsp;2)&nbsp;&nbsp; &nbsp;de televisieomroeporganisatie waarvan de producent afhankelijk is, heeft maar een beperkte bewezen gemiddelde jaaromzet zoals blijkt uit de cijfers onderliggend aan de laatste drie goedgekeurde jaarrekeningen, namelijk maximaal 10 miljoen euro. Onder de vermelde omzet worden de inkomsten, exclusief btw, verstaan die verworven zijn in het kader van:<br>
+&nbsp; 2)&nbsp;&nbsp; &nbsp;de televisieomroeporganisatie waarvan de producent afhankelijk is, heeft maar een beperkte bewezen gemiddelde jaaromzet zoals blijkt uit de cijfers onderliggend aan de laatste drie goedgekeurde jaarrekeningen, namelijk maximaal 10 miljoen euro. Onder de vermelde omzet worden de inkomsten, exclusief btw, verstaan die verworven zijn in het kader van:<br>
 &nbsp; &nbsp; i)&nbsp;&nbsp; &nbsp;betaling door de consument;<br>
 &nbsp; &nbsp; ii)&nbsp;&nbsp; &nbsp;b2b-overeenkomsten met betrekking tot de exploitatie en/ of distributie van audiovisuele content;<br>
 &nbsp; &nbsp; iii)&nbsp;&nbsp; &nbsp;valorisatie van data;<br>
@@ -122,7 +126,7 @@ Voor de televisieomroeporganisatie die nog niet over drie goedgekeurde jaarreken
 55° digitaledienstenverordening: verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG;<br>
 55° administratie: de dienst die bevoegd is voor het mediabeleid;<br>
 56° algemene verordening gegevensbescherming: verordening (EU)2016/679<br>
-van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).”.<br>
 56° tussenhandeldienst: een tussenhandeldienst als vermeld in artikel 3, g), van de digitaledienstenverordening;<br>
 57° bevoegde autoriteit: een bevoegde autoriteit als vermeld in artikel 49 van de digitaledienstenverordening.
 
@@ -2871,7 +2875,42 @@ De Vlaamse Regulator voor de Media kan voorwaarden opleggen aan leveranciers van
 
 ### ART. 214/1.
 
-De Vlaamse Regering kan voorwaarden opleggen aan omroeporganisaties en dienstenverdelers met betrekking tot het aanbieden van interoperabele televisiediensten voor eindgebruikers met een handicap.
+De Vlaamse Regering kan voorwaarden opleggen aan omroeporganisaties en dienstenverdelers met betrekking tot het aanbieden van interoperabele televisiediensten voor personen met een handicap.
+
+### ART 214/2.
+
+§ 1. Eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten die vanaf 28 juni 2025 in de handel wordt gebracht, voldoet aan de toegankelijkheidsvoorschriften die zijn opgenomen in afdeling 1 en 2 van bijlage 1, die bij dit decreet is gevoegd.<br>
+<br>
+§ 2. Tot televisiediensten toegang verschaffende diensten die vanaf 28 juni 2025 aan consumenten worden geleverd, voldoen aan de toegankelijkheidsvoorschriften die zijn opgenomen in afdeling 3 en 4 van bijlage 1, die bij dit decreet is gevoegd.<br>
+<br>
+Aanbieders van tot televisiediensten toegang verschaffende diensten stellen conform bijlage 2, die bij dit decreet is gevoegd, de vereiste informatie op en leggen uit op welke manier de diensten aan de toepasselijke toegankelijkheidsvereisten voldoen. De informatie wordt schriftelijk en mondeling aan het publiek ter beschikking gesteld, op een manier die toegankelijk is voor personen met een handicap. De aanbieders bewaren de informatie zolang de dienst in werking is.<br>
+<br>
+Micro-ondernemingen die de diensten, vermeld in het eerste lid, aanbieden, worden vrijgesteld van de toegankelijkheidsvoorschriften, vermeld in het eerste lid, en van elke verplichting in verband met de naleving van die voorschriften.<br>
+<br>
+§ 3. De toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, zijn uitsluitend van toepassing voor zover de naleving ervan geen van de volgende gevolgen heeft:<br>
+1° ze vereisen geen ingrijpende wijziging van een eindapparaat of dienst, die resulteert in een fundamentele wijziging van de wezenlijke aard ervan;<br>
+2° ze leveren geen onevenredige last op voor de betrokken aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende dien sten.<br>
+<br>
+Aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende diensten voeren een beoordeling uit om te kunnen bepalen of het naleven van de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, tot een fundamentele wijziging leidt of, conform de criteria die zijn opgenomen in bijlage 3, die bij dit decreet is gevoegd, een onevenredige last als vermeld in het eerste lid, 2°, oplevert.<br>
+<br>
+De Vlaamse Regering kan nadere regels publiceren betreffende de beoordeling van de fundamentele wijziging, vermeld in het eerste lid, 1°, en kan nadere invulling geven aan de criteria voor de beoordeling van de onevenredige last, vermeld in het eerste lid, 2°, opgenomen in bijlage 3.<br>
+<br>
+De aanbieders, vermeld in het tweede lid, documenteren hun beoordeling. Ze bewaren alle relevante resultaten gedurende een periode van vijf jaar nadat, naargelang van het geval, een eindapparaat voor het laatst op de markt is aangeboden of een dienst voor het laatst op de markt is verleend. Ze verstrekken aan de Vlaamse Regulator voor de Media, op zijn verzoek, een exemplaar van die beoordeling.<br>
+<br>
+De aanbieders van tot televisiediensten toegang verschaffende diensten die een beroep doen op het eerste lid, 2°, om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen, vernieuwen in al de volgende gevallen voor elke categorie of soort dienst hun beoordeling van de onevenredige last:<br>
+1° naar aanleiding van een wijziging van de aangeboden dienst;<br>
+2° op verzoek van de Vlaamse Regulator voor de Media;<br>
+3° in ieder geval ten minste om de vijf jaar.<br>
+<br>
+Micro-ondernemingen die zich met eindapparatuur bezighouden, zijn uitgezonderd van de verplichting om hun beoordeling te documenteren. Als de Vlaamse Regulator voor de Media er echter om vraagt, verstrekken die micro-ondernemingen die een beroep doen op het eerste lid om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen, aan de Vlaamse Regulator voor de Media de feiten die relevant zijn voor de beoordeling, vermeld in het tweede lid.<br>
+<br>
+Aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende diensten, met uitzondering van micro-ondernemingen, die voor een specifiek eindapparaat of specifieke dienst een beroep doen op het eerste lid om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte.<br>
+<br>
+§ 4. Als aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende diensten uit andere bronnen dan hun eigen middelen financiering ontvangen om de toegankelijkheid te verbeteren, ongeacht of het om publieke of particuliere financiering gaat, kunnen ze geen beroep doen op paragraaf 3, eerste lid, 2°, om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen.<br>
+<br>
+§ 5. In afwijking van paragraaf 1 en 2 mogen aanbieders van tot televisiediensten toegang verschaffende diensten gedurende een overgangsperiode die afloopt op 28 juni 2030, hun diensten blijven verlenen met gebruik van de eindapparaten die ze voor die datum al rechtmatig gebruikten bij het verlenen van vergelijkbare diensten.<br>
+<br>
+Dienstverleningscontracten die de aanbieders, vermeld in het eerste lid, gesloten hebben voor 28 juni 2025, kunnen ongewijzigd blijven doorlopen totdat ze verstrijken, evenwel uiterlijk tot vijf jaar na die datum.
 
 ## DEEL VII. De Vlaamse Regulator voor de Media
 
@@ -3148,8 +3187,9 @@ Als de algemene kamer, binnen de grenzen van haar bevoegdheden, vermeld in artik
 4° een administratieve geldboete tot 125.000 euro;<br>
 5° de schorsing of opheffing van de zendvergunning;<br>
 6° de schorsing of opheffing van de erkenning van de omroeporganisatie;<br>
-7° de doorgifteschorsing, vermeld in artikel 40/1.<br>
+7° de doorgifteschorsing, vermeld in artikel 40/1;<br>
 7°/1 het bevel de activiteiten als aanbieder van videoplatformdiensten te schorsen of stop te zetten als de aanbieder van een videoplatformdienst de verplichtingen, vermeld in deel IV/1, niet naleeft.<br>
+8° doeltreffende herstelmaatregelen met het oog op de naleving van artikel 214/2.<br>
 <br>
 In geval van het ongebruikt laten van de toegewezen zendmogelijkheden of het verkeerd gebruiken ervan, kan de algemene kamer de erkenning van een landelijke, netwerk- of lokale radio-omroeporganisatie of de vergunning voor een etheromroepnetwerk schorsen of opheffen.
 
@@ -4127,3 +4167,135 @@ Televisieomroeporganisaties die een erkenning hebben verkregen met toepassing va
 ### ART. 244.
 
 De bepalingen van deel III, titel II, hoofdstuk IV, treden in werking op 1 september 2009.
+
+### BIJLAGE 1
+
+Bijlage 1. Toegankelijkheidsvoorschriften voor eindapparatuur en diensten als vermeld in artikel 214/2<br>
+<br>
+Afdeling 1. - Algemene toegankelijkheidsvoorschriften voor eindapparatuur<br>
+<br>
+Eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten wordt zodanig ontworpen en geproduceerd dat ze het te verwachten gebruik door personen met een handicap zo veel mogelijk bevordert, en gaat vergezeld, waar mogelijk in of op het eindapparaat, van toegankelijke informatie over de manier waarop ze werkt en over haar toegankelijkheidsfuncties.<br>
+<br>
+1. Voorschriften over informatieverstrekking<br>
+<br>
+a) De informatie over het gebruik van het eindapparaat die op het eindapparaat zelf is aangebracht, zoals etiketten, instructies en waarschuwingen, voldoet aan al de volgende voorwaarden:<br>
+1) ze is beschikbaar gesteld via meer dan één zintuiglijk kanaal;<br>
+2) ze is gepresenteerd op een begrijpelijke manier;<br>
+3) ze is gepresenteerd op een voor de gebruikers waarneembare manier;<br>
+4) ze is gepresenteerd met gebruikmaking van lettertypes in een geschikte grootte en vorm, rekening houdend met de te verwachten gebruiksomstandigheden en ook met gebruikmaking van voldoende contrast en een aanpasbare letter-, regel- en alinea-afstand.<br>
+b) Als de instructies voor het gebruik van een eindapparaat niet op het eindapparaat zelf zijn aangebracht, maar worden aangeboden bij het gebruik van het eindapparaat of op een andere wijze, zoals via een website, onder meer ten aanzien van de toegankelijkheidsfuncties van het eindapparaat, hoe ze geactiveerd worden en de interoperabiliteit ervan met hulpvoorzieningen, zijn die instructies bij het in de handel brengen openbaar toegankelijk, en voldoen ze aan al de volgende voorwaarden:<br>
+1) ze zijn beschikbaar gesteld via meer dan één zintuiglijk kanaal;<br>
+2) ze zijn gepresenteerd op een begrijpelijke manier;<br>
+3) ze zijn gepresenteerd op een voor de gebruikers waarneembare manier;<br>
+4) ze zijn gepresenteerd met gebruikmaking van lettertypes in een geschikte grootte en vorm, rekening houdend met de te verwachten gebruiksomstandigheden en ook met gebruikmaking van voldoende contrast en een aanpasbare letter-, regel- en alinea-afstand;<br>
+5) wat de inhoud betreft zijn ze weergegeven in tekstformats die in alternatieve hulpformats kunnen worden omgezet, zodat ze op verschillende manieren en via meer dan één zintuiglijk kanaal kunnen worden aangeboden;<br>
+6) ze zijn vergezeld van een alternatieve weergave van niet-tekstuele inhoud;<br>
+7) ze zijn vergezeld van een beschrijving van de gebruikersinterface van het eindapparaat, zoals gebruik, bediening en terugkoppeling, invoer en uitvoer, die wordt verstrekt conform punt 2. In de beschrijving wordt voor elk punt dat in punt 2 wordt vermeld, aangegeven of het eindapparaat al dan niet van die functies is voorzien;<br>
+8) ze zijn vergezeld van een beschrijving van de functionaliteit van het eindapparaat, namelijk het resultaat van functies die gericht zijn op de behoeften van personen met een handicap conform punt 2. In de beschrijving wordt voor elk punt dat in punt 2 wordt vermeld, aangegeven of het eindapparaat al dan niet van die functies voorzien is;<br>
+9) ze zijn vergezeld van een beschrijving van de software- en apparatuurinterface voor aansluiting van het eindapparaat op hulpapparaten. De beschrijving omvat een lijst van dergelijke hulpapparaten die tegelijkertijd met het eindapparaat zijn getest.<br>
+<br>
+2. Ontwerp van de gebruikersinterface en van de functionaliteit<br>
+<br>
+Het eindapparaat, met inbegrip van zijn gebruikersinterface, bevat kenmerken, elementen en functies waardoor personen met een handicap toegang hebben tot het eindapparaat, en het eindapparaat kunnen waarnemen, bedienen, begrijpen en controleren, doordat wordt gezorgd voor het volgende:<br>
+a) bij een eindapparaat dat zorgt voor communicatie, waaronder communicatie tussen personen, voor bediening, informatie, controle en oriëntatie, zijn die functies via meer dan één zintuiglijk kanaal mogelijk; daartoe behoort het aanbieden van alternatieven voor zien, horen, spraak en tactiele elementen;<br>
+b) bij een eindapparaat met een spraakfunctie zijn alternatieven voor spraak en steminvoer aanwezig voor communicatie, bediening, controle en oriëntatie;<br>
+c) bij een eindapparaat dat gebruik maakt van visuele elementen, zijn de functies flexibele vergroting, helderheid en contrast aanwezig voor communicatie, informatie en bediening, en er is interoperabiliteit met de programma's en hulpapparaten voor navigatie door de interface;<br>
+d) bij een eindapparaat dat voor het overbrengen van informatie, het weergeven van een handeling, het vragen om een reactie of het identificeren van elementen gebruik maakt van kleur, is er een alternatief voor kleur voorhanden;<br>
+e) bij een eindapparaat dat voor het overbrengen van informatie, het weergeven van een handeling, het vragen om een reactie of het identificeren van elementen gebruik maakt van auditieve signalen, is er een alternatief voor auditieve signalen voorhanden;<br>
+f) bij een eindapparaat dat gebruik maakt van visuele elementen, zijn er flexibele manieren voorhanden zijn om de helderheid van het beeld te verbeteren;<br>
+g) bij een eindapparaat dat gebruik maakt van auditieve elementen, zijn er functies voor volume- en snelheidsregeling door de gebruiker voorhanden, en ook verbeterde audiofuncties, zoals vermindering van geluidsinterferentie van producten in de nabijheid en functies voor een helder geluid;<br>
+h) bij een eindapparaat met manuele bediening en controle zijn er alternatieven voor sequentiële controle en alternatieven voor fijnmotorische controle voorhanden, waarbij wordt vermeden dat voor het gebruik simultane controle nodig is, en wordt gebruikgemaakt van via tast te onderscheiden onderdelen;<br>
+i) het eindapparaat heeft geen bedieningswijzen waarbij grote reikwijdte en veel kracht nodig zijn;<br>
+j) het eindapparaat kan niet tot aanvallen van fotosensitieve epilepsie leiden;<br>
+k) het eindapparaat beschermt de privacy van de gebruiker bij het gebruik van de toegankelijkheidsfuncties;<br>
+l) het eindapparaat biedt een alternatief voor biometrische identificatie en controle;<br>
+m) de functionaliteit van het eindapparaat is consistent en het biedt voldoende en flexibele interactietijd;<br>
+n) het eindapparaat is voorzien van software en apparatuur voor aansluiting van het eindapparaat op hulptechnologieën;<br>
+o) het eindapparaat beantwoordt aan de volgende specifieke voorschriften: eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten maakt voor personen met een handicap de door de verlener van de televisiedienst verstrekte toegankelijkheidscomponenten beschikbaar wat betreft toegang, keuze, controle en personalisering door gebruikers en wat betreft transmissie naar hulpapparaten.<br>
+<br>
+3. Ondersteunende diensten<br>
+<br>
+Als ondersteunende diensten, zoals helpdesks, callcenters, technische ondersteuning, bemiddelingsdiensten en opleidingsdiensten, beschikbaar zijn, verstrekken zij via toegankelijke communicatiemethoden informatie over de toegankelijkheid van het eindapparaat en de compatibiliteit ervan met hulptechnologieën.<br>
+<br>
+Afdeling 2. - Toegankelijkheidsvoorschriften in verband met eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten<br>
+<br>
+Naast de voorschriften, vermeld in afdeling 1, worden de verpakking en de instructies van de eindapparaten die onder deze afdeling vallen, toegankelijk gemaakt om het te verwachten gebruik van de eindapparaten door personen met een handicap zo veel mogelijk te bevorderen. Dat houdt in:<br>
+a) de verpakking van het eindapparaat, met inbegrip van de daarin verstrekte informatie, bijvoorbeeld over openen, sluiten, gebruiken, verwijderen, en eventueel verstrekte informatie over de toegankelijkheidskenmerken van het eindapparaat, wordt toegankelijk gemaakt. Die toegankelijke informatie wordt, als dat mogelijk is, op de verpakking verstrekt;<br>
+b) de instructies voor installatie en onderhoud, opslag en verwijdering van het eindapparaat, die niet op het eindapparaat zelf staan, maar met andere middelen, zoals een website, beschikbaar worden gemaakt, zijn op het moment van het in de handel brengen van het eindapparaat openbaar beschikbaar en voldoen aan al de volgende voorschriften:<br>
+1) ze zijn beschikbaar via meer dan één zintuiglijk kanaal;<br>
+2) ze worden op een begrijpelijke manier gepresenteerd;<br>
+3) ze worden gepresenteerd op een voor de gebruikers waarneembare manier;<br>
+4) ze worden gepresenteerd met gebruikmaking van een lettertype in een geschikte grootte en vorm, rekening houdend met de te verwachten gebruiksomstandigheden, en met gebruikmaking van voldoende contrast en ook van een aanpasbare letter-, regel- en alinea-afstand;<br>
+5) wat betreft de inhoud, worden de instructies aangeboden in tekstformats die in alternatieve hulpformats kunnen worden omgezet, zodat ze op verschillende manieren en via meer dan één zintuiglijk kanaal kunnen worden aangeboden;<br>
+6) bij de instructies met niet-tekstuele inhoud wordt een alternatieve weergave van die inhoud gevoegd.<br>
+<br>
+Afdeling 3. - Algemene toegankelijkheidsvoorschriften voor diensten<br>
+<br>
+Om het te verwachten gebruik van de diensten door personen met een handicap zo veel mogelijk te bevorderen, wordt bij het verlenen van diensten gezorgd voor het volgende:<br>
+a) de eindapparaten die bij het verlenen van diensten worden gebruikt, zijn toegankelijk in overeenstemming met afdeling 1 van deze bijlage;<br>
+b) er wordt informatie verstrekt over het functioneren van de dienst en, als bij het verlenen van de dienst eindapparaten worden gebruikt, over de link naar die eindapparaten en ook informatie over de toegankelijkheidskenmerken en interoperabiliteit van die eindapparaten met hulpapparaten en voorzieningen, en wel als volgt:<br>
+1) de informatie wordt via meer dan één zintuiglijk kanaal aangeboden;<br>
+2) de informatie wordt op een begrijpelijke manier gepresenteerd;<br>
+3) de informatie wordt op een voor de gebruikers waarneembare manier gepresenteerd;<br>
+4) de informatie wordt, wat de inhoud betreft, beschikbaar gesteld in tekstformats die in alternatieve hulpformats kunnen worden omgezet, zodat ze door de gebruikers op verschillende manieren en via meer dan één zintuiglijk kanaal kunnen worden weergegeven;<br>
+5) de informatie wordt gepresenteerd met gebruikmaking van een lettertype in een geschikte grootte en vorm, rekening houdend met de te verwachten gebruiksomstandigheden, en met gebruikmaking van voldoende contrast en ook van een aanpasbare letter-, regel- en alinea-afstand;<br>
+6) niet-tekstuele inhoud wordt aangevuld met een alternatieve weergave van die inhoud;<br>
+7) er wordt elektronische informatie verstrekt die nodig is om de dienst op een consistente en geschikte manier te kunnen leveren, en wel door die informatie waarneembaar, bedienbaar, begrijpelijk en robuust te maken;<br>
+c) websites, inclusief de daaraan gerelateerde onlinetoepassingen, en diensten op mobiele apparatuur, inclusief mobiele toepassingen, worden toegankelijk gemaakt op een consistente en geschikte manier, door ze waarneembaar, bedienbaar, begrijpelijk en robuust te maken;<br>
+d) als ondersteunende diensten zoals helpdesks, callcenters, technische ondersteuning, bemiddelingsdiensten en opleidingsdiensten, beschikbaar zijn, verstrekken ze via toegankelijke communicatiemethoden informatie over de toegankelijkheid van de dienst en de compatibiliteit ervan met hulptechnologieën.<br>
+<br>
+Afdeling 4. - Bijzondere toegankelijkheidsvoorschriften voor specifieke diensten<br>
+<br>
+Tot televisiediensten toegang verschaffende diensten voldoen aan de volgende voorwaarden:<br>
+a) elektronische programmagidsen leveren die voor de gebruikers waarneembaar, bedienbaar, begrijpelijk en robuust zijn, en informatie verstrekken over de beschikbaarheid van toegankelijkheid;<br>
+b) zorg dragen voor volledige transmissie van de toegankelijkheidscomponenten van televisiediensten, zoals ondertiteling, audiobeschrijving, auditieve ondertiteling en gebarentaal, met passende kwaliteit voor accurate weergave, met synchronisatie van geluid en video, en met mogelijkheid tot weergave- en gebruikscontrole voor de gebruiker.
+
+### BIJLAGE 2
+
+Bijlage 2. Informatie over diensten als vermeld in artikel 214/2, § 2, tweede lid, die aan toegankelijkheidsvoorschriften voldoen<br>
+<br>
+1. De aanbieder van tot televisiediensten toegang verschaffende diensten neemt in de algemene voorwaarden of een gelijkwaardig document de informatie op waaruit blijkt dat de dienst aan de toegankelijkheidsvoorschriften, vermeld in artikel 214/2, die zijn opgenomen in bijlage 1, voldoet. Die informatie omvat een beschrijving van de toepasselijke voorschriften en heeft, voor zover dat relevant is voor de beoordeling, betrekking op het ontwerp en de werking van de dienst. De informatie omvat, als dat van toepassing is, al de volgende elementen:<br>
+a) een algemene beschrijving van de dienst die in toegankelijke formats is weergegeven;<br>
+b) de beschrijvingen en toelichtingen die nodig zijn om te begrijpen hoe de dienst werkt;<br>
+c) een beschrijving van de manier waarop de dienst voldoet aan de toepasselijke toegankelijkheidsvoorschriften, die zijn opgenomen in bijlage 1.<br>
+2. Om aan punt 1 van deze bijlage te voldoen, mag de aanbieder de<br>
+geharmoniseerde normen en technische specificaties waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, volledig of gedeeltelijk toepassen.<br>
+3. De aanbieder verschaft informatie waaruit blijkt dat de conformiteit van de dienst met punt 1 van deze bijlage en met de toepasselijke voorschriften, vermeld in artikel 214/2 van dit decreet, door het dienstverleningsproces en het toezicht daarop wordt gewaarborgd.
+
+### BIJLAGE 3
+
+Bijlage 3. Criteria voor de beoordeling van de onevenredige last vermeld in artikel 214/2, § 3<br>
+<br>
+Criteria voor het uitvoeren en documenteren van de beoordeling<br>
+<br>
+1. Verhouding van de nettokosten van de naleving van de toegankelijkheidsvoorschriften tot de totale kosten, met name de exploitatie- en investeringsuitgaven, van de vervaardiging, distributie of invoer van het eindapparaat voor, of het verlenen van de dienst aan, de marktdeelnemers<br>
+<br>
+De volgende criteria worden gebruikt om de nettokosten voor de naleving van de toegankelijkheidsvoorschriften te beoordelen:<br>
+a) criteria met betrekking tot de eenmalige organisatiekosten die in de beoordeling moeten worden meegenomen:<br>
+1) kosten voor extra personeel met expertise op het gebied van toegankelijkheid;<br>
+2) kosten voor opleiding van personeel en competentieverwerving op het gebied van toegankelijkheid;<br>
+3) kosten voor de ontwikkeling van een nieuwe procedure ter integratie van toegankelijkheid in de productontwikkeling of dienstverlening;<br>
+4) kosten voor de ontwikkeling van richtsnoeren inzake de toegankelijkheid;<br>
+5) eenmalige kosten voor het leren begrijpen van de wetgeving over de toegankelijkheid;<br>
+b) criteria met betrekking tot de lopende productie- en ontwikkelingskosten die in de beoordeling moeten worden meegenomen:<br>
+1) kosten voor het ontwerpen van de toegankelijkheidsfuncties van het eindapparaat of de dienst;<br>
+2) kosten van de productieprocessen;<br>
+3) kosten voor het testen van een eindapparaat of dienst op toegankelijkheid;<br>
+4) kosten om documentatie samen te stellen.<br>
+<br>
+2. De geraamde kosten en baten voor de marktdeelnemers, inclusief productieprocessen en investeringen, in verhouding tot de geraamde voordelen voor personen met een handicap, rekening houdend met aantal keer dat het specifieke eindapparaat of de specifieke dienst is gebruikt, en de frequentie van dat gebruik<br>
+<br>
+3. Verhouding van de nettokosten van de naleving van de toegankelijkheidsvoorschriften tot de netto-omzet van de marktdeelnemer<br>
+<br>
+De volgende criteria worden gebruikt om de nettokosten van de naleving van de toegankelijkheidsvoorschriften te beoordelen:<br>
+a) criteria met betrekking tot de eenmalige organisatiekosten die in de beoordeling moeten worden meegenomen:<br>
+1) kosten voor extra personeel met expertise op het gebied van toegankelijkheid;<br>
+2) kosten voor opleiding van personeel en competentieverwerving op het gebied van toegankelijkheid;<br>
+3) kosten voor de ontwikkeling van een nieuwe procedure ter integratie van toegankelijkheid in de productontwikkeling of dienstverlening;<br>
+4) kosten voor de ontwikkeling van richtsnoeren inzake toegankelijkheid;<br>
+5) eenmalige kosten voor het leren begrijpen van de wetgeving over de toegankelijkheid;<br>
+b) criteria met betrekking tot de lopende productie- en ontwikkelingskosten die in de beoordeling moeten worden meegenomen:<br>
+1) kosten voor het ontwerpen van de toegankelijkheidsfuncties van het eindapparaat of de dienst;<br>
+2) kosten van de productieprocessen;<br>
+3) kosten voor het testen van een eindapparaat of dienst op toegankelijkheid;<br>
+4) kosten om documentatie samen te stellen.
