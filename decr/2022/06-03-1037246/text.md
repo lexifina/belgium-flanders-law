@@ -14,6 +14,18 @@ Aan artikel 1 van het decreet van 27 maart 2009 betreffende radio-omroep en tele
 "4° richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie;<br>
 5° richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten.".
 
+### ART 3.
+
+In artikel 2 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2012, 7 december 2018 en 19 maart 2021, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een punt 7° /2 ingevoegd, dat luidt als volgt:<br>
+"7° /2 eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten: elke soort apparatuur voor gebruik door consumenten met als voornaamste functie het verlenen van toegang tot televisiediensten;";<br>
+2° er wordt een punt 21° /0 ingevoegd, dat luidt als volgt:<br>
+"21° /0 micro-onderneming: onderneming met minder dan tien werknemers en een jaaromzet of een jaarlijks balanstotaal van maximaal 2 miljoen euro;";<br>
+3° er wordt een punt 29° /1 ingevoegd, dat luidt als volgt:<br>
+"29° /1 personen met een handicap: personen met langdurige fysieke, mentale, intellectuele of zintuiglijke beperkingen die in hun interactie te kampen hebben met diverse drempels die hen kunnen beletten volledig, effectief en op voet van gelijkheid met anderen in de samenleving te participeren;";<br>
+4° er wordt een punt 45° /0 ingevoegd, dat luidt als volgt:<br>
+"45° /0 tot televisiediensten toegang verschaffende diensten: diensten die door middel van elektronische communicatienetwerken worden uitgezonden en die gebruikt worden om kennis te nemen van televisiediensten, ze te kiezen, er informatie over te ontvangen en ze te bekijken, alsmede alle beschikbaar gemaakte functies, zoals ondertiteling, audiobeschrijving, auditieve ondertiteling en gebarentaal, die resulteren uit het toepassen van maatregelen voor het toegankelijk maken van die diensten conform artikel 151. De tot televisiediensten toegang verschaffende diensten omvatten ook elektronische programmagidsen;".
+
 ### ART 4.
 
 In artikel 98/1 van hetzelfde decreet, ingevoegd bij het decreet van 19 maart 2021, worden de woorden "na de inwerkingtreding van dit decreet" vervangen door de woorden "vanaf 9 mei 2021".
@@ -58,6 +70,46 @@ In artikel 193, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 23 de
 
 In artikel 201, § 1, tweede en derde lid, van hetzelfde decreet wordt het woord "intrekken" telkens vervangen door het woord "opheffen".
 
+### ART 12.
+
+In artikel 214/1 van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2012, worden de woorden "eindgebruikers met een handicap" vervangen door de woorden "personen met een handicap".
+
+### ART 13.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 12 februari 2021, wordt een artikel 214/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 214/2. § 1. Eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten die vanaf 28 juni 2025 in de handel wordt gebracht, voldoet aan de toegankelijkheidsvoorschriften die zijn opgenomen in afdeling 1 en 2 van bijlage 1, die bij dit decreet is gevoegd.<br>
+<br>
+§ 2. Tot televisiediensten toegang verschaffende diensten die vanaf 28 juni 2025 aan consumenten worden geleverd, voldoen aan de toegankelijkheidsvoorschriften die zijn opgenomen in afdeling 3 en 4 van bijlage 1, die bij dit decreet is gevoegd.<br>
+<br>
+Aanbieders van tot televisiediensten toegang verschaffende diensten stellen conform bijlage 2, die bij dit decreet is gevoegd, de vereiste informatie op en leggen uit op welke manier de diensten aan de toepasselijke toegankelijkheidsvereisten voldoen. De informatie wordt schriftelijk en mondeling aan het publiek ter beschikking gesteld, op een manier die toegankelijk is voor personen met een handicap. De aanbieders bewaren de informatie zolang de dienst in werking is.<br>
+<br>
+Micro-ondernemingen die de diensten, vermeld in het eerste lid, aanbieden, worden vrijgesteld van de toegankelijkheidsvoorschriften, vermeld in het eerste lid, en van elke verplichting in verband met de naleving van die voorschriften.<br>
+<br>
+§ 3. De toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, zijn uitsluitend van toepassing voor zover de naleving ervan geen van de volgende gevolgen heeft: 1° ze vereisen geen ingrijpende wijziging van een eindapparaat of dienst, die resulteert in een fundamentele wijziging van de wezenlijke aard ervan;<br>
+2° ze leveren geen onevenredige last op voor de betrokken aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende dien sten.<br>
+<br>
+Aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende diensten voeren een beoordeling uit om te kunnen bepalen of het naleven van de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, tot een fundamentele wijziging leidt of, conform de criteria die zijn opgenomen in bijlage 3, die bij dit decreet is gevoegd, een onevenredige last als vermeld in het eerste lid, 2°, oplevert.<br>
+<br>
+De Vlaamse Regering kan nadere regels publiceren betreffende de beoordeling van de fundamentele wijziging, vermeld in het eerste lid, 1°, en kan nadere invulling geven aan de criteria voor de beoordeling van de onevenredige last, vermeld in het eerste lid, 2°, opgenomen in bijlage 3.<br>
+<br>
+De aanbieders, vermeld in het tweede lid, documenteren hun beoordeling. Ze bewaren alle relevante resultaten gedurende een periode van vijf jaar nadat, naargelang van het geval, een eindapparaat voor het laatst op de markt is aangeboden of een dienst voor het laatst op de markt is verleend. Ze verstrekken aan de Vlaamse Regulator voor de Media, op zijn verzoek, een exemplaar van die beoordeling.<br>
+<br>
+De aanbieders van tot televisiediensten toegang verschaffende diensten die een beroep doen op het eerste lid, 2°, om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen, vernieuwen in al de volgende gevallen voor elke categorie of soort dienst hun beoordeling van de onevenredige last:<br>
+1° naar aanleiding van een wijziging van de aangeboden dienst;<br>
+2° op verzoek van de Vlaamse Regulator voor de Media;<br>
+3° in ieder geval ten minste om de vijf jaar.<br>
+<br>
+Micro-ondernemingen die zich met eindapparatuur bezighouden, zijn uitgezonderd van de verplichting om hun beoordeling te documenteren. Als de Vlaamse Regulator voor de Media er echter om vraagt, verstrekken die micro-ondernemingen die een beroep doen op het eerste lid om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen, aan de Vlaamse Regulator voor de Media de feiten die relevant zijn voor de beoordeling, vermeld in het tweede lid.<br>
+<br>
+Aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende diensten, met uitzondering van micro-ondernemingen, die voor een specifiek eindapparaat of specifieke dienst een beroep doen op het eerste lid om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen, brengen de Vlaamse Regulator voor de Media daarvan op de hoogte.<br>
+<br>
+§ 4. Als aanbieders van eindapparatuur met interactieve computerfuncties voor toegang tot televisiediensten en aanbieders van tot televisiediensten toegang verschaffende diensten uit andere bronnen dan hun eigen middelen financiering ontvangen om de toegankelijkheid te verbeteren, ongeacht of het om publieke of particuliere financiering gaat, kunnen ze geen beroep doen op paragraaf 3, eerste lid, 2°, om de toegankelijkheidsvoorschriften, vermeld in paragraaf 1 en 2, niet toe te passen.<br>
+<br>
+§ 5. In afwijking van paragraaf 1 en 2 mogen aanbieders van tot televisiediensten toegang verschaffende diensten gedurende een overgangsperiode die afloopt op 28 juni 2030, hun diensten blijven verlenen met gebruik van de eindapparaten die ze voor die datum al rechtmatig gebruikten bij het verlenen van vergelijkbare diensten.<br>
+<br>
+Dienstverleningscontracten die de aanbieders, vermeld in het eerste lid, gesloten hebben voor 28 juni 2025, kunnen ongewijzigd blijven doorlopen totdat ze verstrijken, evenwel uiterlijk tot vijf jaar na die datum.".
+
 ### ART 14.
 
 In artikel 216, § 4, derde lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 maart 2021, worden de woorden "van dit artikel" opgeheven.
@@ -73,6 +125,10 @@ In artikel 228 van hetzelfde decreet, gewijzigd bij de decreten van 23 december 
 2° aan het eerste lid wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
 "8° doeltreffende herstelmaatregelen met het oog op de naleving van artikel 214/2.";<br>
 3° in het tweede lid wordt het woord "intrekken" vervangen door het woord "opheffen".
+
+### ART 17.
+
+Aan hetzelfde decreet, het laatst gewijzigd bij het decreet van 12 februari 2021, worden een bijlage 1 tot en met 3 toegevoegd, die als bijlage 1 tot en met 3 bij dit decreet zijn gevoegd.
 
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 12 februari 2021 houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie met betrekking tot de landelijke en regionale radio-omroeporganisaties en de technische eindapparatuur voor FM-radio-ontvangst van radio-omroeporganisaties
 
