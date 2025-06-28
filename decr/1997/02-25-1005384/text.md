@@ -2921,7 +2921,7 @@ In afwijking van het eerste lid kan Vlaamse Gebarentaal in het tweetalige gebied
 
 ### ART. 44.
 
-§ 1. 1° Ontwikkelingsdoelen voor het gewoon kleuteronderwijs zijn minimumdoelen die het Vlaams Parlement wenselijk acht voor die leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br>
+§1. 1° Ontwikkelingsdoelen voor het gewoon kleuteronderwijs zijn minimumdoelen die het Vlaams Parlement wenselijk acht voor die leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br>
 <br>
 Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes op populatieniveau bij de leerlingen na te streven.<br>
 <br>
@@ -2945,7 +2945,7 @@ Voor de kwaliteitscontrole met het oog op de erkenning en de doorlichting, verme
 <br>
 4° Voor het onderwijs in godsdienst, niet-confessionele zedenleer en cultuur-beschouwing, zijn er geen ontwikkelingsdoelen of eindtermen.<br>
 <br>
-§ 2. De ontwikkelingsdoelen en eindtermen worden geformuleerd in functie van volgende sleutelcompetenties:<br>
+§2. De ontwikkelingsdoelen en eindtermen worden geformuleerd in functie van volgende sleutelcompetenties:<br>
 1. competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op vlak van lichamelijke, geestelijke en emotionele gezondheid;<br>
 2. competenties in het Nederlands en, voor die scholen waar onderwijs door middel van Vlaamse Gebarentaal wordt gegeven, bijkomend ook competenties in de Vlaamse Gebarentaal;<br>
 3. competenties in andere talen;<br>
@@ -2965,19 +2965,19 @@ Voor de kwaliteitscontrole met het oog op de erkenning en de doorlichting, verme
 <br>
 Het Vlaams Parlement haakt deze ontwikkelingsdoelen en eindtermen niet vast aan leergebieden. Het zijn de schoolbesturen die de verbinding maken tussen de ontwikkelingsdoelen en eindtermen en de in dit decreet opgenomen leergebieden.<br>
 <br>
-§ 3. De ontwikkeling van eindtermen en ontwikkelingsdoelen wordt gecoördineerd door de regering. De regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten uit basis- en secundair onderwijs, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs en vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen waar de aspecten kennis, vaardigheden, inzichten en indien van toepassing attitudes aan bod komen. Ze geeft ook het belang en de uitgangspunten ervan aan. Ze bewaakt de haalbaarheid.<br>
+§3. De ontwikkeling van minimumdoelen wordt geïnitieerd door de Vlaamse Regering. De regering stelt daartoe een expertencommissie aan, die ten minste bestaat uit experten uit de academische wereld en onderwijspersoneel van de verschillende netten. De expertencommissie formuleert wetenschappelijk onderbouwde minimumdoelen die voldoen aan de volgende kwaliteitscriteria: ze zijn ambitieus, kennisrijk, eenduidig interpreteerbaar, evalueerbaar, consistent, coherent en haalbaar. De expertencommissie wordt geadviseerd door een of meer ontwikkelcommissies voor verschillende vakdisciplines waaronder leerpsychologie en gedragswetenschappen, die een ontwerp van minimumdoelen voor hun respectieve vakdisciplines opstellen. Die subcommissies bestaan uit leerkrachten, directies, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs, en vakexperten en andere experten uit het hoger onderwijs.<br>
 <br>
-De ontwikkelde eindtermen en ontwikkelingsdoelen worden vervolgens door de ontwikkelcommissie voorgelegd aan een valideringscommissie. De valideringscommissie bestaat uit leden van de onderwijsinspectie en andere experten. De valideringscommissie valideert of stuurt de ontwikkelde eindtermen of ontwikkelingsdoelen terug naar de ontwikkelcommissie met het oog op bijsturing, waarna ze finaal ter validering aan de valideringscommissie worden voorgelegd. De valideringscommissie bewaakt de coherentie, consistentie en evalueerbaarheid van de eindtermen en ontwikkelingsdoelen.<br>
+Het finale ontwerp van het geheel van minimumdoelen wordt bepaald door de expertencommissie. Het Vlaams Parlement of de Vlaamse Regering legt dat finale ontwerp vervolgens voor advies voor aan de Vlaamse Onderwijsraad, de Sociaal-Economische Raad van Vlaanderen en de vertegenwoor-digers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerde onderwijs. De Vlaamse Onderwijsraad, de Sociaal-Economische Raad van Vlaanderen en de onderwijsverstrekkers baseren hun advies minstens op de kwaliteitscriteria, vermeld in het eerste lid. Het advies van de Vlaamse Onderwijsraad wordt verstrekt binnen de termijn, vermeld in artikel 72 van het decreet van 2 april 2004 betreffende de participatie op school en de Vlaamse Onderwijsraad. Het advies van de Sociaal-Economische Raad van Vlaanderen wordt verstrekt binnen de termijn, vermeld in artikel 14 van het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen. Het advies van de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerde onderwijs wordt verstrekt binnen een termijn van dertig kalenderdagen. In spoedeisende gevallen, die met redenen worden omkleed, kan de adviesverzoeker de termijn inkorten op voorwaarde dat die termijn ten minste tien werkdagen bedraagt.<br>
 <br>
-De ontwikkelingsdoelen en eindtermen worden door de regering als een ontwerp van decreet ingediend bij het Vlaams Parlement. Het Vlaams Parlement kan het initiatief nemen de in het eerste lid voorziene procedure op te starten.<br>
+De minimumdoelen worden periodiek gescreend op hun actualiteitswaarde en worden zo nodig bijgestuurd. Minstens om de vijf jaar wordt over die screening gerapporteerd aan het Vlaams Parlement. De Vlaamse Regering bepaalt daarvoor de procedure.<br>
 <br>
-De ontwikkelingsdoelen en eindtermen worden periodiek gescreend op hun actualiteitswaarde en worden zo nodig bijgestuurd. De regering bepaalt de procedure voor deze screening en bijsturing.<br>
+Het bereiken van de minimumdoelen en de leerwinst bij kleuters wordt om de drie jaar gepeild door middel van een representatieve steekproef in het laatste jaar van het kleuteronderwijs. De Vlaamse Regering bepaalt daarvoor de procedure.<br>
 <br>
-§ 4. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel blijven de bestaande ontwikkelingsdoelen en eindtermen van toepassing. In afwijking van paragraaf 3 en 5 kan de regering de bestaande ontwikkelingsdoelen voor het buitengewoon basisonderwijs herordenen en technisch aanpassen.<br>
+§4. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel blijven de bestaande ontwikkelingsdoelen en eindtermen van toepassing. In afwijking van paragraaf 3 en 5 kan de regering de bestaande ontwikkelingsdoelen voor het buitengewoon basisonderwijs herordenen en technisch aanpassen.<br>
 <br>
 Bij de ontwikkeling en de implementatie van de ontwikkelingsdoelen en eindtermen wordt rekening gehouden met de coherentie en continuïteit over het kleuter- en lager onderwijs heen en de aansluiting op de eindtermen en ontwikkelingsdoelen van het secundair onderwijs, zonder de eigenheid van het basisonderwijs uit het oog te verliezen.<br>
 <br>
-§ 5. Het Vlaams Parlement keurt een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen goed waar kennis telkens geëxpliciteerd wordt en vaardigheden, inzichten en indien van toepassing attitudes aan bod komen.<br>
+§5. De minimumdoelen worden bij decreet vastgesteld.<br>
 <br>
 §6. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel, kan een klassenraad, na overleg met de ouders, beslissen om de ontwikkelingsdoelen voor het gewoon kleuteronderwijs, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen in het gewoon basisonderwijs, bekrachtigd bij het decreet van 15 juli 1997 die opgenomen zijn in bijlage 5 bij dit decreet niet na te streven bij leerlingen die doof of slechthorend zijn als vermeld in artikel 37/8, §5, of 37/45, §5, en die ingeschreven zijn in de taalafdeling Nederlands-Vlaamse Gebarentaal.<br>
 <br>
