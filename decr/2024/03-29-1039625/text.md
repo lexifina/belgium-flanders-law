@@ -80,6 +80,8 @@ Met uitzondering van artikel 80 tot en met 83 is dit decreet niet van toepassing
 
 ...
 
+## Hoofdstuk 3. Lokale clusters
+
 ## Afdeling 1. Aanwijzing van de beheerder van een lokale cluster en onafhankelijkheidsvoorwaarden
 
 ### ART 8.
@@ -196,6 +198,8 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, nadere regels b
 
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de beheerder van een lokale cluster openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan producenten en verbruikers.
 
+## Afdeling 4. Ontwikkelingsplan en verplichte ontwikkeling
+
 ### ART 19.
 
 §1. De beheerder van een lokale cluster maakt tweejaarlijks een indicatief ontwikkelingsplan op.<br>
@@ -226,9 +230,66 @@ Het goedgekeurde ontwikkelingsplan wordt op de website van de beheerder van de l
 
 ### ART 20.
 
-Na een positieve kosten-batenanalyse door de Vlaamse Nutsregulator kan de Vlaamse Regering de beheerder van de lokale cluster bevelen de lokale cluster verder te ontwikkelen als de ontwikkeling van de lokale cluster van uitzonderlijk economisch belang is voor het Vlaamse Gewest.<br>
+Na een positieve kosten-batenanalyse door de VREG kan de Vlaamse Regering de beheerder van de lokale cluster bevelen de lokale cluster verder te ontwikkelen als de ontwikkeling van de lokale cluster van uitzonderlijk economisch belang is voor het Vlaamse Gewest.<br>
 &nbsp;<br>
 De Vlaamse Regering bepaalt de procedure voor de verplichte ontwikkeling. De Vlaamse Regering bepaalt de criteria waaraan de kosten-batenanalyse, vermeld in het eerste lid, moet voldoen.
+
+## Afdeling 5. Erfdienstbaarheden voor de beheerder van de lokale cluster
+
+### ART 21.
+
+§1. De beheerder van een lokale cluster heeft in het kader van de erfdienstbaarheid ten voordele van de beheerder de volgende rechten:<br>
+1° het recht om boomtakken af te hakken die te dicht bij de bovengrondse pijpleidingen van een lokale cluster komen en die schade aan de pijpleidingen kunnen veroorzaken;<br>
+2° het recht om wortels in te korten die te dicht bij ondergrondse pijpleidingen van een lokale cluster komen en die schade aan de pijpleidingen kunnen veroorzaken.<br>
+<br>
+§2. In afwijking van paragraaf 1, 1° en 2°, kan de beheerder van een lokale cluster overgaan tot het rooien van de aanwezige bomen en beplantingen als om veiligheidsredenen het recht, vermeld in paragraaf 1, 1° en 2°, niet volstaat.<br>
+<br>
+§3. De Vlaamse Regering kan per geval bepalen dat het voor de beheerder van een lokale cluster van algemeen nut is om pijpleidingen van een lokale cluster aan te leggen boven of onder private onbebouwde gronden, en kan de voorwaarden vastleggen waaronder dat gebeurt.<br>
+<br>
+De beheerder van een lokale cluster heeft de volgende rechten in het geval, vermeld in het eerste lid:<br>
+1° het recht om de pijpleidingen van de lokale cluster aan te leggen boven of onder de gronden, vermeld in het eerste lid;<br>
+2° het recht om te zorgen voor het toezicht op de pijpleidingen, vermeld in punt 1°;<br>
+3° het recht om de noodzakelijke onderhouds- en herstellingswerken uit te voeren aan de pijpleidingen, vermeld in punt 1°.<br>
+<br>
+§4. De aangelegde pijpleidingen en de bijbehorende uitrustingen blijven eigendom van de beheerder van een lokale cluster. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br>
+<br>
+§5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 1° en 2°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of in voorkomend geval de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat deze gedurende een maand het verzoek van de netbeheerder zonder gevolg heeft gelaten. In die gevallen kan de beheerder van de lokale cluster overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de netbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, gebeurt dat op kosten van de beheerder zelf.<br>
+<br>
+Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, mogen de werken, vermeld in paragraaf 1 tot en met 3, door de beheerder van de lokale cluster pas worden aangevangen na de rechtstreekse voorafgaande kennisgeving met een aangetekende brief aan de belanghebbende eigenaars, huurders, pachters, domeinbeheerder en iedere andere houder van een zakelijk recht op het bewuste onroerend goed. Die kennisgeving vindt minstens twee maanden voor de geplande start van de werken plaats.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de uitvoering van die rechten.
+
+### ART 22.
+
+Als de aanwezige bomen en beplantingen gerooid worden conform artikel 21, is de beheerder van een lokale cluster een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de procedure om de hoogte van de vergoeding te bepalen.<br>
+<br>
+Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
+
+### ART 23.
+
+De uitoefening door de beheerder van een lokale cluster van een recht als vermeld in artikel 21 kan de eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed niet hinderen in zijn recht van omheinen, afbreken, verbouwen, herstellen of bouwen.<br>
+<br>
+Als de eigenaar, pachter, domeinbeheerder of houder van een zakelijk recht een recht als vermeld in het eerste lid wil uitoefenen, neemt de beheerder van een lokale cluster de ondergrondse pijpleidingen en de bovengrondse pijpleidingen die geplaatst zijn op de onbebouwde grond, weg, verplaatst die of past ze aan als ze de uitvoering van de rechten, vermeld in het eerste lid, hinderen.<br>
+<br>
+De eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het onroerend goed in kwestie bezorgt de betrokken beheerder van een lokale cluster het verzoek tot wegneming, verplaatsing of aanpassing als vermeld in het tweede lid minstens zes maanden voor de geplande start van de werken.<br>
+<br>
+De kosten om de pijpleidingen weg te nemen, te verplaatsen of aan te passen als vermeld in het tweede lid, zijn ten laste van de betrokken beheerder van een lokale cluster.<br>
+<br>
+De beheerder van een lokale cluster kan de kosten, vermeld in het vierde lid, terugvorderen van respectievelijk de eigenaar, pachter, domeinbeheerder of van de houder van een zakelijk recht als die nog niet gestart is met de werken binnen een termijn van drie jaar na het verzoek tot wegneming, verplaatsing of aanpassing.
+
+## Afdeling 6. Gebruik van het openbaar domein of de gemeentewegen
+
+### ART 24.
+
+De beheerder van een lokale cluster heeft het recht het openbaar domein en de gemeentewegen te gebruiken om pijpleidingen en bijbehorende uitrustingen boven of onder het openbaar domein en de gemeentewegen aan te leggen en te onderhouden als hij over een voorafgaande domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de na te leven voorwaarden, de dossiersamenstelling en de te volgen procedure.
+
+### ART 25.
+
+De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden van de domeintoelating toevoegen of aanpassen of de beheerder van een lokale cluster verplichten de ondergrondse of bovengrondse pijpleidingen en de steunen die geplaatst zijn op het openbaar domein of de gemeentewegen, weg te nemen, te verplaatsen of aan te passen. De betrokken beheerder van een lokale cluster voert het verzoek tot wegnemen, verplaatsen of aanpassen uit binnen een redelijke termijn nadat hij het voormelde verzoek heeft ontvangen. De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken beheerder van een lokale cluster.
 
 ## Afdeling 7. Maatregelen in geval van lekkages of significante onregelmatigheden
 
@@ -246,6 +307,8 @@ Als de beheerder van een lokale cluster nalaat om de nodige corrigerende maatreg
 <br>
 De Vlaamse Regering kan de procedure bij lekkages of significante onregelmatigheden als vermeld in het eerste lid nader bepalen.
 
+## Hoofdstuk 4. Het vervoersnetwerk in het Vlaamse Gewest
+
 ## Afdeling 1. Aanwijzing van de beheerder van het vervoersnetwerk en onafhankelijkheidsvoorwaarden
 
 ### ART 28.
@@ -254,7 +317,7 @@ Het beheer van het vervoersnetwerk wordt waargenomen door de beheerder aangeweze
 
 ### ART 29.
 
-De Vlaamse Regering wijst, na advies van de Vlaamse Nutsregulator, een beheerder van het vervoersnetwerk in het Vlaamse Gewest aan.<br>
+De Vlaamse Regering wijst, na advies van de VREG, een beheerder van het vervoersnetwerk in het Vlaamse Gewest aan.<br>
 <br>
 De Vlaamse Regering kan voorwaarden opleggen bij de aanwijzing van de beheerder van het vervoersnetwerk. Deze voorwaarden hebben betrekking op:<br>
 1° de kwaliteitsnormen voor de koolstofdioxidestroom die wordt vervoerd door het vervoersnetwerk;<br>
@@ -356,6 +419,8 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, nadere regels b
 
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de beheerder van het vervoersnetwerk openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening.
 
+## Afdeling 4. Ontwikkelingsplan en verplichte ontwikkeling
+
 ### ART 39.
 
 §1. De beheerder van het vervoersnetwerk maakt tweejaarlijks een indicatief ontwikkelingsplan op.<br>
@@ -390,11 +455,68 @@ Het goedgekeurde ontwikkelingsplan wordt op de website van de beheerder van het 
 
 ### ART 40.
 
-De Vlaamse Regering kan de beheerder van het vervoersnetwerk bevelen het vervoersnetwerk verder te ontwikkelen. Na een positieve kosten-batenanalyse door de Vlaamse Nutsregulator kan de verplichte ontwikkeling alleen worden bevolen in volgende gevallen:<br>
+De Vlaamse Regering kan de beheerder van het vervoersnetwerk bevelen het vervoersnetwerk verder te ontwikkelen. Na een positieve kosten-batenanalyse door de VREG kan de verplichte ontwikkeling alleen worden bevolen in volgende gevallen:<br>
 1° de ontwikkeling van het vervoersnetwerk is van uitzonderlijk economisch belang voor het Vlaamse Gewest;<br>
 2° de ontwikkeling van het vervoersnetwerk is van uitzonderlijk belang voor de interconnectie van het Vlaamse Gewest met een pijpleiding of een netwerk van pijpleidingen die zich niet op het grondgebied van het Vlaamse Gewest bevinden.<br>
 <br>
 De Vlaamse Regering bepaalt de procedure voor de verplichte ontwikkeling. De Vlaamse Regering bepaalt de criteria waaraan de kosten-batenanalyse, vermeld in het eerste lid, moet voldoen.
+
+## Afdeling 5. Erfdienstbaarheden voor de beheerder van het vervoersnetwerk
+
+### ART 41.
+
+§1. De beheerder van het vervoersnetwerk heeft in het kader van de erfdienstbaarheid ten voordele van de beheerder van het vervoersnetwerk de volgende rechten:<br>
+1° het recht om boomtakken af te hakken die te dicht bij de bovengrondse pijpleidingen van het vervoersnetwerk komen en die schade aan de pijpleidingen kunnen veroorzaken;<br>
+2° het recht om wortels in te korten die te dicht bij ondergrondse pijpleidingen van het vervoersnetwerk komen en die schade aan de pijpleidingen kunnen veroorzaken.<br>
+<br>
+§2. In afwijking van paragraaf 1, 1° en 2°, kan de beheerder van het vervoersnetwerk ook overgaan tot het rooien van de aanwezige bomen en beplantingen als om veiligheidsredenen het recht, vermeld in paragraaf 1, 1° en 2°, niet volstaat.<br>
+<br>
+§3. De Vlaamse Regering kan per geval bepalen dat het voor de beheerder van het vervoersnetwerk van algemeen nut is om pijpleidingen van het vervoersnetwerk aan te leggen boven of onder private onbebouwde gronden, en kan de voorwaarden vastleggen waaronder dat gebeurt.<br>
+<br>
+De beheerder van het vervoersnetwerk heeft de volgende rechten in het geval, vermeld in het eerste lid:<br>
+1° het recht om de pijpleidingen van het vervoersnetwerk aan te leggen boven of onder de gronden, vermeld in het eerste lid;<br>
+2° het recht om te zorgen voor het toezicht op de pijpleidingen, vermeld in punt 1°;<br>
+3° het recht om de noodzakelijke onderhouds- en herstellingswerken uit te voeren aan de pijpleidingen, vermeld in punt 1°.<br>
+<br>
+§4. De aangelegde pijpleidingen en de bijbehorende uitrustingen blijven eigendom van de beheerder van het vervoersnetwerk. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br>
+<br>
+§5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 1° en 2°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of in voorkomend geval de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat deze gedurende een maand het verzoek van de netbeheerder zonder gevolg heeft gelaten. In die gevallen kan de beheerder van het vervoersnetwerk overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de netbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, gebeurt dat op kosten van de beheerder zelf.<br>
+<br>
+Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, mogen de werken, vermeld in paragraaf 1 tot en met 3, door de beheerder van het vervoersnetwerk pas worden aangevangen na de rechtstreekse voorafgaande kennisgeving met een aangetekende brief aan de belanghebbende eigenaars, huurders, pachters, domeinbeheerder en iedere andere houder van een zakelijk recht op het bewuste onroerend goed. Die kennisgeving vindt minstens twee maanden voor de geplande start van de werken plaats.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de uitvoering van die rechten.
+
+### ART 42.
+
+Als de aanwezige bomen en beplantingen gerooid worden conform artikel 41, is de beheerder van het vervoersnetwerk een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de procedure om de hoogte van de vergoeding te bepalen.<br>
+<br>
+Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
+
+### ART 43.
+
+De uitoefening door de beheerder van het vervoersnetwerk van een recht als vermeld in artikel 41 kan de eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed niet hinderen in zijn recht van omheinen, afbreken, verbouwen, herstellen of bouwen.<br>
+<br>
+Als de eigenaar, pachter, domeinbeheerder of houder van een zakelijk recht een recht als vermeld in het eerste lid wil uitoefenen, neemt de beheerder van het vervoersnetwerk de ondergrondse pijpleidingen en de bovengrondse pijpleidingen die geplaatst zijn op de onbebouwde grond, weg, verplaatst die of past ze aan als ze de uitvoering van de rechten, vermeld in het eerste lid, hinderen.<br>
+<br>
+De eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het onroerend goed in kwestie bezorgt de beheerder van het vervoersnetwerk het verzoek tot wegneming, verplaatsing of aanpassing als vermeld in het tweede lid minstens zes maanden voor de geplande start van de werken.<br>
+<br>
+De kosten voor de wegneming, verplaatsing of aanpassing als vermeld in het tweede lid zijn ten laste van de beheerder van het vervoersnetwerk.<br>
+<br>
+De beheerder van het vervoersnetwerk kan de kosten, vermeld in het vierde lid, terugvorderen van respectievelijk de eigenaar, de pachter, de domeinbeheerder of de houder van een zakelijk recht als die nog niet gestart is met de werken binnen een termijn van drie jaar na het verzoek tot wegneming, verplaatsing of aanpassing.
+
+## Afdeling 6. Gebruik van het openbaar domein of de gemeentewegen
+
+### ART 44.
+
+De beheerder van het vervoersnetwerk heeft het recht het openbaar domein en de gemeentewegen te gebruiken om pijpleidingen en de bijbehorende uitrustingen boven of onder het openbaar domein en de gemeentewegen aan te leggen en te onderhouden als hij over een voorafgaande domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de na te leven voorwaarden, de samenstelling van het dossier en de te volgen procedure.
+
+### ART 45.
+
+De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden aan de domeintoelating toevoegen, voorwaarden aanpassen of de beheerder van het vervoersnetwerk verplichten de ondergrondse of bovengrondse pijpleidingen en de steunen die geplaatst zijn op het openbaar domein of de gemeentewegen, weg te nemen, te verplaatsen of aan te passen. De beheerder van het vervoersnetwerk voert het verzoek tot wegnemen, verplaatsen of aanpassen uit binnen een redelijke termijn nadat hij het verzoek heeft ontvangen. De kosten voor de wegneming, verplaatsing of aanpassing zijn ten laste van de beheerder van het vervoersnetwerk.
 
 ## Afdeling 7. Maatregelen in geval van lekkages of significante onregelmatigheden
 
@@ -473,22 +595,28 @@ Als de beheerder van een terminal voor vloeibaarmaking nalaat de nodige corriger
 <br>
 De Vlaamse Regering kan de procedure bij lekkages of significante onregelmatigheden als vermeld in het eerste lid nader bepalen.
 
+## Hoofdstuk 6. Gesloten industriële netten voor het vervoer van koolstofdioxide
+
+## Afdeling 1. Voorwaarden en toelatingsprocedure
+
 ### ART 55.
 
-§1. De aanleg en het beheer van een gesloten industrieel net voor koolstofdioxide is alleen toegelaten nadat een voorafgaande toelating van de Vlaamse Nutsregulator is verkregen. De Vlaamse Nutsregulator wint het advies van de relevante beheerder van de lokale cluster en de beheerder van het vervoersnetwerk in. De adviestermijn voor de betrokken beheerder bedraagt vijftien dagen. De Vlaamse Nutsregulator beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Deze periode wordt met zestig dagen verlengd als de Vlaamse Nutsregulator aanvullende informatie vraagt.<br>
+§1. De aanleg en het beheer van een gesloten industrieel net voor koolstofdioxide is alleen toegelaten nadat een voorafgaande toelating van de VREG is verkregen. De VREG wint het advies van de relevante beheerder van de lokale cluster en de beheerder van het vervoersnetwerk in. De adviestermijn voor de betrokken beheerder bedraagt vijftien dagen. De VREG beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Deze periode wordt met zestig dagen verlengd als de VREG aanvullende informatie vraagt.<br>
 <br>
-De Vlaamse Nutsregulator verleent de toelating slechts als het gesloten industrieel net voor koolstofdioxide voldoet aan al de volgende voorwaarden:<br>
+De VREG verleent de toelating slechts als het gesloten industrieel net voor koolstofdioxide voldoet aan al de volgende voorwaarden:<br>
 1° de aangesloten ondernemingen bepalen gezamenlijk de technische en commerciële voorwaarden voor het gebruik van het gesloten industrieel net voor koolstofdioxide;<br>
 2° het gesloten industrieel net voor koolstofdioxide wordt ofwel gezamenlijk beheerd door de aangesloten ondernemingen, ofwel wijzen de aangesloten ondernemingen gezamenlijk een beheerder aan;<br>
 3° de veiligheid van onder meer lokale clusters, het vervoersnetwerk of andere netten in hetzelfde geografisch gebied als waar het gesloten industrieel net voor koolstofdioxide gelegen is, komt niet in het gedrang.<br>
 <br>
-De Vlaamse Nutsregulator houdt bij het verlenen van de toelating, vermeld in het eerste lid, rekening met de efficiënte inzet van lokale clusters en het vervoersnetwerk, de impact op de ontwikkeling van de markt voor het vervoer van koolstofdioxide en de eventuele weigering van aansluiting op een lokale cluster of het vervoersnetwerk of een gebrek aan aanbod tot aansluiting of toegang op een lokale cluster of het vervoersnetwerk tegen redelijke economische of technische voorwaarden.<br>
+De VREG houdt bij het verlenen van de toelating, vermeld in het eerste lid, rekening met de efficiënte inzet van lokale clusters en het vervoersnetwerk, de impact op de ontwikkeling van de markt voor het vervoer van koolstofdioxide en de eventuele weigering van aansluiting op een lokale cluster of het vervoersnetwerk of een gebrek aan aanbod tot aansluiting of toegang op een lokale cluster of het vervoersnetwerk tegen redelijke economische of technische voorwaarden.<br>
 <br>
-Als de Vlaamse Nutsregulator oordeelt dat niet meer aan de voorwaarden, vermeld in het tweede lid, is voldaan, heft de Vlaamse Nutsregulator de toelating op. De Vlaamse Regering kan de nadere procedure na opheffing van de toelating bepalen. Deze procedure kan onder meer de nadere voorwaarden en modaliteiten bij overdracht van beheer of eigendom van het gesloten industrieel net voor koolstofdioxide omvatten.<br>
+Als de VREG oordeelt dat niet meer aan de voorwaarden, vermeld in het tweede lid, is voldaan, heft de VREG de toelating op. De Vlaamse Regering kan de nadere procedure na opheffing van de toelating bepalen. Deze procedure kan onder meer de nadere voorwaarden en modaliteiten bij overdracht van beheer of eigendom van het gesloten industrieel net voor koolstofdioxide omvatten.<br>
 <br>
-§2. Verleent de Vlaamse Nutsregulator de toelating, vermeld in paragraaf 1, eerste lid, dan legt hij de geografisch afgebakende industriële locatie vast in de toelatingsbeslissing. De geografisch afgebakende industriële locatie is niet groter dan wat strikt noodzakelijk is.<br>
+§2. Verleent de VREG de toelating, vermeld in paragraaf 1, eerste lid, dan legt hij de geografisch afgebakende industriële locatie vast in de toelatingsbeslissing. De geografisch afgebakende industriële locatie is niet groter dan wat strikt noodzakelijk is.<br>
 <br>
-§3. De Vlaamse Nutsregulator kan de nadere modaliteiten vastleggen voor de melding, de toekenning, de wijziging en de opheffing van de toelating, met behoud van de toepassing van wat bepaald is in paragraaf 1, eerste tot en met derde lid.
+§3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning, de wijziging en de opheffing van de toelating, met behoud van de toepassing van wat bepaald is in paragraaf 1, eerste tot en met derde lid.
+
+## Afdeling 2. Taken van de beheerder van het gesloten industrieel net voor koolstofdioxide
 
 ### ART 56.
 
@@ -500,16 +628,44 @@ Het beheer van een gesloten industrieel net voor koolstofdioxide omvat de volgen
 5° het verstrekken van de nodige inlichtingen aan de beheerders van de lokale clusters of het vervoersnetwerk waarmee zijn gesloten industrieel net voor koolstofdioxide verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen netten te waarborgen;<br>
 6° het opstellen, het bewaren en ter beschikking houden van de plannen van zijn gesloten industrieel net voor koolstofdioxide voor de bevoegde regulator, de gebruikers van het gesloten industrieel net voor koolstofdioxide en de beheerder van de lokale cluster of het vervoersnetwerk waaraan zijn gesloten industrieel net voor koolstofdioxide is gekoppeld;<br>
 7° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn gesloten industrieel net voor koolstofdioxide en de bijbehorende installaties;<br>
-8° het verstrekken van de nodige meetgegevens en andere gegevens aan de producenten, de verbruikers, de beheerders van een lokale cluster, de beheerder van het vervoersnetwerk en de Vlaamse Nutsregulator;<br>
-9° het informeren van de Vlaamse Nutsregulator, binnen dertig dagen, over elke wijziging met betrekking tot het voldoen aan de criteria van artikel 55, §1, tweede lid.
+8° het verstrekken van de nodige meetgegevens en andere gegevens aan de producenten, de verbruikers, de beheerders van een lokale cluster, de beheerder van het vervoersnetwerk en de VREG;<br>
+9° het informeren van de VREG, binnen dertig dagen, over elke wijziging met betrekking tot het voldoen aan de criteria van artikel 55, §1, tweede lid.
+
+## Afdeling 3. Aansluiting op een lokale cluster, het vervoersnetwerk of een terminal voor vloeibaarmaking
+
+### ART 57.
+
+Een gesloten industrieel net voor koolstofdioxide kan de grenzen van de geografisch afgebakende industriële locatie, vastgelegd conform artikel 55, §2, slechts overschrijden om:<br>
+1° het gesloten industrieel net voor koolstofdioxide aan te sluiten op een lokale cluster of het vervoersnetwerk;<br>
+2° het gesloten industrieel net voor koolstofdioxide aan te sluiten op een terminal voor vloeibaarmaking.
+
+### ART 58.
+
+De aansluiting van een gesloten industrieel net voor koolstofdioxide op een lokale cluster of het vervoersnetwerk is toegestaan.
 
 ### ART 59.
 
-De aansluiting van een gesloten industrieel net voor koolstofdioxide op een terminal voor vloeibaarmaking gelegen buiten de geografisch afgebakende industriële locatie is alleen toegelaten nadat een voorafgaande toelating van de Vlaamse Nutsregulator is verkregen.<br>
+De aansluiting van een gesloten industrieel net voor koolstofdioxide op een terminal voor vloeibaarmaking gelegen buiten de geografisch afgebakende industriële locatie is alleen toegelaten nadat een voorafgaande toelating van de VREG is verkregen.<br>
 <br>
 De Vlaamse Regering stelt de nadere toepassingsregels, procedures en criteria vast voor de toelating, vermeld in het eerste lid. De voormelde criteria zijn objectief en niet-discriminatoir. De toelating, vermeld in het eerste lid, wordt afhankelijk gesteld van een weigering van toegang tot de lokale cluster of het vervoersnetwerk of van het ontbreken van een aanbod tot gebruik van de lokale cluster of het vervoersnetwerk onder redelijke economische en technische voorwaarden.<br>
 <br>
-De Vlaamse Nutsregulator beslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De Vlaamse Nutsregulator wint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de beheerder van de lokale cluster in wiens geografisch gebied het gesloten industrieel net voor koolstofdioxide gelegen is. Deze adviestermijn bedraagt vijftien dagen.
+De VREG beslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De VREG wint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de beheerder van de lokale cluster in wiens geografisch gebied het gesloten industrieel net voor koolstofdioxide gelegen is. Deze adviestermijn bedraagt vijftien dagen.
+
+## Afdeling 4. Maatregelen in geval van lekkages of significante onregelmatigheden
+
+### ART 60.
+
+De beheerder van een gesloten industrieel net voor koolstofdioxide neemt alle redelijke en beschikbare maatregelen om emissies tijdens zijn activiteiten te voorkomen en tot een minimum te beperken.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot de maatregelen, vermeld in het eerste lid.
+
+### ART 61.
+
+De beheerder van een gesloten industrieel net voor koolstofdioxide brengt de minister onmiddellijk met een beveiligde zending op de hoogte van significante lekkages en significante onregelmatigheden, en treft de nodige corrigerende maatregelen, waaronder maatregelen voor de bescherming van de volksgezondheid.<br>
+<br>
+Als de beheerder van een gesloten industrieel net voor koolstofdioxide nalaat de nodige corrigerende maatregelen, vermeld in het eerste lid, te treffen, kan de minister de vereiste corrigerende maatregelen zelf nemen. De beheerder van het gesloten industrieel net voor koolstofdioxide draagt de kosten van de voormelde corrigerende maatregelen.<br>
+<br>
+De Vlaamse Regering kan de procedure bij lekkages of significante onregelmatigheden als vermeld in het eerste lid nader bepalen.
 
 ## Hoofdstuk 7. Toegang van derden
 
@@ -634,6 +790,31 @@ De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regerin
 De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
 <br>
 §2. De beheerder van het vervoersnetwerk houdt toezicht op de naleving van de normen, vermeld in paragraaf 1, eerste lid. De beheerder van het vervoersnetwerk neemt alle nodige maatregelen om niet-naleving van de normen te voorkomen en te remediëren.
+
+## Hoofdstuk 8. Directe leidingen
+
+### ART 71.
+
+De aanleg van een directe leiding die de bedrijfssite van de producent overschrijdt, is alleen toegelaten nadat een voorafgaande toelating van de Vlaamse Nutsregulatoris verkregen. De Vlaamse Nutsregulatorstelt daarvoor een aanvraagformulier ter beschikking op zijn website. De Vlaamse Regering kan voorwaarden vastleggen waaraan een directe leiding moet voldoen om te worden toegelaten.<br>
+&nbsp;<br>
+De Vlaamse Nutsregulatorbeslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De Vlaamse Nutsregulatorwint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de beheerder van de lokale cluster in wiens geografisch gebied de directe leiding gelegen is. Deze adviestermijn bedraagt vijftien dagen.<br>
+<br>
+De Vlaamse Nutsregulatorkan een aanvraag als vermeld in het eerste lid alleen weigeren in een van de hiernavolgende gevallen:<br>
+1° er is niet voldaan aan de voorwaarden, vermeld in het eerste lid, die de Vlaamse Regering vastgesteld heeft;<br>
+2° de veiligheid van onder meer lokale clusters, het vervoersnetwerk of andere netten in hetzelfde geografisch gebied als waar de directe leiding gelegen is, komt in het gedrang.<br>
+<br>
+De Vlaamse Regering stelt de rechten en verplichtingen vast van de houders van een toelating voor de aanleg van een directe leiding die de bedrijfssite van de producent overschrijdt.<br>
+<br>
+De beheerder van de directe leiding die de bedrijfssite van de producent overschrijdt, meldt elektronisch aan de Vlaamse Nutsregulatorde datum van ingebruikname en de ligging van de voormelde directe leiding binnen dertig dagen na de aanleg of ingebruikname van de voormelde directe leiding.<br>
+<br>
+De beslissing tot toelating van een directe leiding die de grenzen van de bedrijfssite van de producent overschrijdt, vervalt, bij gebrek aan indienststelling, van rechtswege vijf jaar na datum van de beslissing tot toelating.<br>
+<br>
+De Vlaamse Nutsregulatorheft de beslissing op tot toelating van een directe leiding die de grenzen van de bedrijfssite van de producent overschrijdt, in de volgende gevallen:<br>
+1° als de directe leiding de grenzen van de bedrijfssite van de producent niet meer overschrijdt;<br>
+2° bij buitendienststelling van de directe leiding;<br>
+3° er is niet voldaan aan de voorwaarden, vermeld in het eerste lid, die de Vlaamse Regering vastgesteld heeft.<br>
+<br>
+In afwijking van het eerste lid is een directe leiding die voorheen is toegelaten, maar waarvan de beslissing tot toelating conform het zevende lid, 1°, is opgeheven, en die, zonder enige andere wijziging te hebben ondergaan, opnieuw de grenzen van de bedrijfssite van de producent overschrijdt, van rechtswege toegelaten.
 
 ## Hoofdstuk 9. Veiligheid, monitoring en inspecties
 
@@ -775,7 +956,15 @@ De Vlaamse Regering legt de eisen vast voor de voormelde accuraatheid, volledigh
 <br>
 De Vlaamse Regering bepaalt de categorie-indeling, de rapporteringstermijn en de rapporteringswijze van de noodzakelijke gegevens, vermeld in het eerste lid.
 
+## Hoofdstuk 12. Wijzigingsbepalingen
+
 ## Afdeling 1. Wijzigingen aan het Gerechtelijk Wetboek
+
+### ART 84.
+
+Aan artikel 591 van het Gerechtelijk Wetboek, het laatst gewijzigd bij de wet van 4 februari 2020, worden een punt 26° en 27° toegevoegd, die luiden als volgt:<br>
+“26° van geschillen betreffende de erfdienstbaarheden, vermeld in artikel 21 en 41 van het decreet van 29 maart 2024 over het vervoer van koofstofdioxide via pijpleidingen in het Vlaamse Gewest;<br>
+27° van de vorderingen betreffende de aangelegenheden, vermeld in artikel 22, 23, 42 en 43 van het decreet van 29 maart 2024 over het vervoer van koofstofdioxide via pijpleidingen in het Vlaamse Gewest.”.
 
 ### ART 85.
 
@@ -787,6 +976,10 @@ Aan artikel 605quater van het Gerechtelijk Wetboek, het laatst gewijzigd bij de 
 ### ART 86.
 
 In artikel 2 van het decreet van 8 mei 2009 betreffende de diepe ondergrond, het laatst gewijzigd bij het decreet van 2 maart 2018, wordt punt 29 opgeheven.
+
+### ART 87.
+
+In hoofdstuk III, afdeling V, van hetzelfde decreet worden in het opschrift van onderafdeling I de woorden “transportnetwerken en” opgeheven.
 
 ### ART 88.
 
@@ -805,6 +998,8 @@ In artikel 60 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 1° in paragraaf 1 worden de woorden “transportnetwerken en” opgeheven;<br>
 2° in paragraaf 2 worden de woorden “het transportnetwerk of” telkens opgeheven.
 
+## Afdeling 3. Wijzigingen aan het Energiedecreet van 8 mei 2009
+
 ### ART 90.
 
 In artikel 7.1.10, §1, van het Energiedecreet van 8 mei 2009, het laatst gewijzigd bij het decreet van 10 november 2023, wordt de datum “30 april” vervangen door de datum “31 oktober”.
@@ -812,6 +1007,8 @@ In artikel 7.1.10, §1, van het Energiedecreet van 8 mei 2009, het laatst gewijz
 ### ART 91.
 
 In artikel 7.1.11, §1, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 november 2023, wordt de datum “30 april” vervangen door de datum “31 oktober”.
+
+## Hoofdstuk 13. Slotbepalingen
 
 ### ART 92.
 
