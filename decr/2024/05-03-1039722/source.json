@@ -2,16 +2,16 @@
   "codex_id": 1039722,
   "title": "Decreet van 2024-05-03 tot wijziging van het decreet van 3 juli 2015 tot invoering van de kilometerheffing en stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit in dat verband en tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039722/VolledigDocument?datum=2024-07-01",
-  "source_sha256": "e63a58e4d540d310a27017fd6f7bf79eba147cec9b9cf4260a6fb180580471b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039722/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "9a1544342497f53ab795dd317cd9c576796835d0afe48a8e1d7e5b8bf68edf74",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039722&param=informatie",
-  "as_of": "2024-07-01",
+  "as_of": "2025-07-01",
   "made": "2024-05-03",
   "gazette": "2024-05-22",
   "numac": 2024004733,
   "document_start": "2025-07-01",
   "document_end": null,
-  "in_force": "2024-07-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-07-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }
