@@ -161,6 +161,18 @@ In het geval, vermeld in het eerste lid, worden de fokprogramma’s voor de rass
 
 ## Afdeling 5. Stambomen
 
+### ART 8.
+
+Alleen erkende stamboekverenigingen kunnen stambomen afleveren.<br>
+<br>
+Stambomen worden alleen afgeleverd als het dier is gefokt conform het fokprogramma, vermeld in artikel 6.&nbsp;<br>
+<br>
+Het afleveren van stambomen kan niet geweigerd worden omdat een van de ouderdieren bij een andere stamboekvereniging is ingeschreven.
+
+### ART 9.
+
+Honden of katten die in Vlaanderen geboren zijn, kunnen enkel verkocht worden als honden of katten met een stamboom of pedigree als deze uitgereikt is door een erkende stamboekvereniging.
+
 ### ART 10.
 
 De stambomen, vermeld in artikel 8, bevatten al de volgende gegevens van het dier:<br>
