@@ -2,16 +2,16 @@
   "codex_id": 1006506,
   "title": "Besluit van de Vlaamse Regering van 1998-12-01 tot vaststelling van de regeling omtrent de afwezigheden, de tucht, de administratieve standen, het verlof, de mandaatsbeëindiging, het onderzoek van de lichamelijke geschiktheid en het geneeskundig toezicht voor het academisch personeel bij de universiteiten in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006506/VolledigDocument?datum=2024-06-28",
-  "source_sha256": "c20bd300acce6ce215f5941804d35ded41255031d5c3cc1cc727da773a423da3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006506/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "b6137ce7ec11fbb89e81ed3e336c079eb05d27490d2278702ccf26c226f26824",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006506&param=informatie",
-  "as_of": "2024-06-28",
+  "as_of": "2025-07-01",
   "made": "1998-12-01",
   "gazette": "1999-02-13",
   "numac": 1999035159,
   "document_start": "1999-01-01",
   "document_end": null,
-  "in_force": "2024-06-28",
+  "in_force": "2025-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2024-06-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }
