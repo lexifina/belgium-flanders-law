@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040911,
+  "title": "Ministerieel besluit van 2025-06-06 tot vaststelling van de standaardprocedures met betrekking tot vorm en inhoud van de meldingen in het materialeninformatiesysteem, met inbegrip van technische specificaties voor het elektronisch bezorgen van de meldingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040911/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "13bd6f9f40c986bee8c63935b2602294650856d5918bdf80cd4a3374b50f72a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040911&param=informatie",
+  "as_of": "2025-07-01",
+  "made": "2025-06-06",
+  "gazette": "2025-06-19",
+  "numac": 2025004383,
+  "document_start": "2025-07-01",
+  "document_end": null,
+  "in_force": "2025-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
