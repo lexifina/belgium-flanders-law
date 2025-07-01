@@ -31,39 +31,27 @@ De werkzaamheden vermeld in artikel 5.189, § 2, eerste lid, 1°, 4° en 5°, va
 
 ### ART 3.
 
-De werkzaamheden vermeld in artikel 5.189, § 2, eerste lid, 6°, c), 3) van het Besluit Vlaamse Codex Wonen van 2021 hebben geen betrekking op bubbelbaden, stoomdouches, badkamermeubelen en -accessoires.
+...
 
 ### ART 4.
 
-Voor de werkzaamheden vermeld in artikel 5.189, § 2, eerste lid, 7°, gelden de volgende nadere regels en technische vereisten:<br>
-1° de ketel is voorzien van een CE-markering en beschikt minstens over een A productlabel toegekend volgens de Gedelegeerde Verordening (EU) nr. 811/2013 van de Commissie van 18 februari 2013 ter aanvulling van Richtlijn 2010/30/EU van het Europees Parlement en de Raad wat de energie-etikettering van ruimteverwarmingstoestellen, combinatieverwarmingstoestellen, pakketten van ruimteverwarmingstoestellen, temperatuurregelaars en zonne-energie-installaties en pakketten van combinatieverwarmingstoestellen, temperatuurregelaars en zonne-energie-installaties;<br>
-2° de facturen, vermeld in artikel 5.191, § 1, eerste lid, van het besluit Vlaamse Codex Wonen van 2021, of de door de aannemer ingevulde en ondertekende attesten die samen met het aanvraagformulier meegeleverd worden, vermelden samen minstens:<br>
-a) het merk en het type van de geplaatste installatie;<br>
-b) het vermogen uitgedrukt in kilowatt van de geplaatste installatie;<br>
-c) het brandstoftype van de oude verwarmingsinstallatie;<br>
-d) het brandstoftype van de geplaatste verwarmingsketel;<br>
-e) de kostprijs van het materiaal en de plaatsing;<br>
-f) de datum waarop de installatie werd geplaatst;<br>
-g) het Europees productlabel toegekend volgens de Gedelegeerde Verordening (EU) nr. 811/2013 van de Commissie van 18 februari 2013 ter aanvulling van Richtlijn 2010/30/EU van het Europees Parlement en de Raad wat de energie-etikettering van ruimteverwarmingstoestellen, combinatieverwarmingstoestellen, pakketten van ruimteverwarmingstoestellen, temperatuurregelaars en zonne-energie-installaties en pakketten van combinatieverwarmingstoestellen, temperatuurregelaars en zonne-energie-installaties;<br>
-3° de factuur, een bijgevoegd document of het aanvraagformulier bevat minstens:<br>
-a) een verklaring dat de ketel is voorzien van een CE-markering en minstens beschikt over een A product label toegekend volgens de Gedelegeerde Verordening (EU) nr. 811/2013 van de Commissie van 18 februari 2013 ter aanvulling van Richtlijn 2010/30/EU van het Europees Parlement en de Raad wat de energie-etikettering van ruimteverwarmingstoestellen, combinatieverwarmingstoestellen, pakketten van ruimteverwarmingstoestellen, temperatuurregelaars en zonne-energie-installaties en pakketten van combinatieverwarmingstoestellen, temperatuurregelaars en zonne-energie-installaties;<br>
-b) in voorkomende geval: een verklaring dat de condensatieketel werd geïnstalleerd in een gebouw gelegen in een gebied waar geen aardgasdistributienet aanwezig is op het ogenblik van de uitvoering van de werken;
+...
 
 ## HOOFDSTUK 2. De bewijsstukken te voegen bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van het Besluit Vlaamse Codex Wonen van 2021
 
 ### ART 5.
 
-De aanvrager toont aan dat voldaan is aan één van de eisen vermeld in artikel 5.189, §2, tweede lid van het Besluit Vlaamse Codex Wonen, door bij de aanvraag , vermeld in artikel 5.190, §1, eerste lid, van hetzelfde besluit, één van de volgende bewijsstukken te voegen:<br>
-1° een attest van de aannemer of een factuur met vermelding van de plaatsing van een ventilatiesysteem of de plaatsing van aparte roosters waarmee wordt aangetoond dat voldaan is aan de luchttoevoereisen, vermeld in bijlage IX van het Energiebesluit van 19 november 2010, voor de woonkamers, slaapkamers, studeerkamers, speelkamers of analoge ruimten waarin het buitenschrijnwerk wordt geplaatst;<br>
+De aanvrager toont aan dat voldaan is aan één van de eisen vermeld in artikel 5.189, §2, vierde lid van het Besluit Vlaamse Codex Wonen, door bij de aanvraag , vermeld in artikel 5.190, §1, eerste lid, van hetzelfde besluit, één van de volgende bewijsstukken te voegen:<br>
+1° een factuur met vermelding van de plaatsing van een ventilatiesysteem of de plaatsing van aparte roosters waarmee wordt aangetoond dat voldaan is aan de luchttoevoereisen, vermeld in bijlage IX van het Energiebesluit van 19 november 2010, voor de woonkamers, slaapkamers, studeerkamers, speelkamers of analoge ruimten waarin het buitenschrijnwerk wordt geplaatst;<br>
 2° een energieprestatiecertificaat residentiële gebouwen, dat dateert vanaf 2 januari 2024 en van na de uitgevoerde werken, dat aantoont dat voldaan is aan de minimale ventilatievoorzieningen bepaald in deel IX.2 van bijlage 18/4 van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten en de certificering van aannemers en installateurs.
 
 ### ART 6.
 
-Voor de werkzaamheden, vermeld in artikel 5.189, § 2, eerste lid, 6° van het Besluit Vlaamse Codex Wonen van 2021, voegt de aanvrager bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van hetzelfde besluit, het attest van een erkend keuringsorgaan dat de conformiteit van de installatie met het Algemeen Reglement op de Electrische Installaties aantoont.
+Voor de werkzaamheden, vermeld in artikel 5.189, § 2, eerste lid, 6°, a), van het Besluit Vlaamse Codex Wonen van 2021, voegt de aanvrager bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van hetzelfde besluit, het attest van een erkend keuringsorgaan dat de conformiteit van de installatie met het Algemeen Reglement op de Electrische Installaties aantoont.
 
 ### ART 7.
 
-Voor de werkzaamheden, vermeld in artikel 5.189, § 2, eerste lid, 7° van het Besluit Vlaamse Codex Wonen van 2021, voegt de aanvrager bij de aanvraag, vermeld in artikel 5.190, § 1 eerste lid van hetzelfde besluit, het keuringsrapport, vermeld in artikel 7, § 3 van het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater.
+...
 
 ### ART 8.
 
