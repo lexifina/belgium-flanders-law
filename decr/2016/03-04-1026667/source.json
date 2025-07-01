@@ -2,16 +2,16 @@
   "codex_id": 1026667,
   "title": "Decreet van 2016-03-04 houdende het Vlaamse doelgroepenbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026667/VolledigDocument?datum=2023-07-01",
-  "source_sha256": "99dda331a9be4039fea0bbc152d802acd649d43671e680f6bc843a6850a65313",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026667/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "69c30bbe4422984f12f83cc7e32f2583fed9aeff274f4464ba499b8b1b0891a9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026667&param=informatie",
-  "as_of": "2023-07-01",
+  "as_of": "2025-07-01",
   "made": "2016-03-04",
   "gazette": "2016-04-04",
   "numac": 2016035396,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-07-01",
-  "article_versions": 24,
-  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-07-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }
