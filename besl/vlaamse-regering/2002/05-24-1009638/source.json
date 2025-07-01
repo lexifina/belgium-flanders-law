@@ -2,16 +2,16 @@
   "codex_id": 1009638,
   "title": "Besluit van de Vlaamse Regering van 2002-05-24 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009638/VolledigDocument?datum=2022-09-01",
-  "source_sha256": "8f77de3b10e9290e044a5df22a5bb5c55df195a5bc1e781e2b444811d05667fe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009638/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "511fd74ff9a1a476fac1bc37ffbd3006534f8a5f1040928da4ddafc1bbd31247",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009638&param=informatie",
-  "as_of": "2022-09-01",
+  "as_of": "2025-07-01",
   "made": "2002-05-24",
   "gazette": "2002-09-07",
   "numac": 2002036130,
   "document_start": null,
   "document_end": null,
-  "in_force": "2022-09-01",
+  "in_force": "2025-07-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2022-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }

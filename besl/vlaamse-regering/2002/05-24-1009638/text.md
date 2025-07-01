@@ -98,7 +98,9 @@ Voor de toepassing van het eerste lid wordt onder palliatieve verzorging verstaa
 
 ### ART. 13.
 
-<p>De personeelsleden hebben&nbsp;het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken om voor hun kind te zorgen.&nbsp;De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor ouderschapsverlof.<br>
+<p>De personeelsleden hebben bij de geboorte of adoptie van hun kind of in het kader van langdurige pleegzorg het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken om voor hun kind of voor het pleegkind te zorgen. Langdurige pleegzorg is pleegzorg waarvan bij de aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouder of dezelfde pleegouders zal verblijven.<br>
+<br>
+Artikel 2, en de voorwaarde dat het personeelslid het ambt in hoofdambt uitoefent, vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor ouderschapsverlof.<br>
 <br>
 De volledige onderbreking van de beroepsloopbaan kan in periodes van een maand of een veelvoud daarvan, met een maximumduur van 4 maanden worden genomen.<br>
 <br>
@@ -110,15 +112,16 @@ De onderbreking van de beroepsloopbaan met een tiende kan worden opgenomen in pe
 
 ### ART 13/1.
 
-In afwijking van artikel 13, tweede lid, kan de periode van vier maanden, na akkoord van het hogeschoolbestuur, volledig of gedeeltelijk worden opgesplitst in periodes van een week of een veelvoud daarvan. Het hogeschoolbestuur kan die opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in weken, het resterende gedeelte minder dan vier weken bedraagt, heeft het personeelslid het recht om dat saldo in overleg met het hogeschoolbestuur op te nemen. Het hogeschoolbestuur kan de opname van het saldo met maximaal 1 academiejaar en uiterlijk tot de in artikel 14 vermelde leeftijd uitstellen omwille van de continuïteit van het onderwijs of de dienstverlening.<br>
+In afwijking van artikel 13, derde lid, kan de periode van vier maanden, na akkoord van het hogeschoolbestuur, volledig of gedeeltelijk worden opgesplitst in periodes van een week of een veelvoud daarvan. Het hogeschoolbestuur kan die opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in weken, het resterende gedeelte minder dan vier weken bedraagt, heeft het personeelslid het recht om dat saldo in overleg met het hogeschoolbestuur op te nemen. Het hogeschoolbestuur kan de opname van het saldo met maximaal 1 academiejaar en uiterlijk tot de in artikel 14 vermelde leeftijd uitstellen omwille van de continuïteit van het onderwijs of de dienstverlening.<br>
 <br>
-In afwijking van artikel 13, derde lid, kan de periode van acht maanden, na akkoord van het hogeschoolbestuur, volledig of gedeeltelijk worden opgesplitst in periodes van een maand of een veelvoud daarvan. Het hogeschoolbestuur kan die opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in maanden, het resterende gedeelte een maand bedraagt, heeft het personeelslid het recht om dat saldo in overleg met het hogeschoolbestuur op te nemen. Het hogeschoolbestuur kan de opname van het saldo met maximaal 1 academiejaar en uiterlijk tot de in artikel 14 vermelde leeftijd uitstellen omwille van de continuïteit van het onderwijs of de dienstverlening.
+In afwijking van artikel 13, vierde lid, kan de periode van acht maanden, na akkoord van het hogeschoolbestuur, volledig of gedeeltelijk worden opgesplitst in periodes van een maand of een veelvoud daarvan. Het hogeschoolbestuur kan die opnamevorm weigeren. Het hogeschoolbestuur deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in maanden, het resterende gedeelte een maand bedraagt, heeft het personeelslid het recht om dat saldo in overleg met het hogeschoolbestuur op te nemen. Het hogeschoolbestuur kan de opname van het saldo met maximaal 1 academiejaar en uiterlijk tot de in artikel 14 vermelde leeftijd uitstellen omwille van de continuïteit van het onderwijs of de dienstverlening.
 
 ### ART. 14.
 
 Het personeelslid heeft recht op het ouderschapsverlof :<br>
 1° naar aanleiding van de geboorte van zijn kind tot het kind twaalf jaar wordt;<br>
-2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, en dit uiterlijk tot het kind twaalf jaar wordt.<br>
+2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, en dit uiterlijk tot het kind twaalf jaar wordt;<br>
+3° in het kader van langdurige pleegzorg, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van het gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, uiterlijk tot het kind twaalf jaar wordt. Het personeelslid kan dit recht uitoefenen voor zover en zo lang het betrokken kind bij hem geplaatst is in het kader van langdurige pleegzorg.<br>
 <br>
 Wanneer het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft, die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag, of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag, wordt de leeftijdsgrens vastgesteld op 21 jaar.<br>
 <br>
@@ -278,15 +281,16 @@ In geval het personeelslid wenst gebruik te maken van de verlenging van de perio
 <br>
 Het hogeschoolbestuur vult het formulier bedoeld in artikel 16, § 2 van het voormelde koninklijk besluit van 12 augustus 1991 in, en overhandigt het aan het personeelslid.<br>
 <br>
-§ 4. Het personeelslid dat zijn loopbaan wenst te onderbreken om voor zijn kind te zorgen in het kader van het ouderschapsverlof, deelt dit mee aan zijn hogeschoolbestuur.<br>
+§ 4. Het personeelslid dat zijn loopbaan wenst te onderbreken om voor zijn kind of voor het pleegkind te zorgen in het kader van het ouderschapsverlof, deelt dit mee aan zijn hogeschoolbestuur.<br>
 <br>
 Bij deze mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld.<br>
 <br>
 Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof ingaat, naar gelang van het geval, volgende stavingdocumenten:<br>
 1° ...<br>
-2° een attest waaruit de adoptie blijkt.<br>
+2° een attest waaruit de adoptie blijkt;<br>
+3° een attest waaruit de langdurige pleegzorg blijkt.<br>
 <br>
-Bij de in het derde lid,&nbsp;2°, vermelde documenten moet steeds een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
+Bij de in het derde lid, 2° en 3°, vermelde documenten&nbsp;moet steeds een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
 <br>
 § 5. Het personeelslid dat zijn loopbaanonderbreking wenst te onderbreken voor de verzorging van een ziek gezinslid of ziek familielid deelt dit mee aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest afgeleverd door de behandelende geneesheer van het zwaar ziek gezins- of familielid tot de tweede graad, waaruit blijkt dat het personeelslid bereid is bijstand of verzorging te verlenen aan de zwaar zieke persoon. In geval van hospitalisatie van het kind wordt het bewijs van hospitalisatie geleverd door een attest van het betrokken ziekenhuis.<br>
 <br>
