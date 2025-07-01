@@ -58,7 +58,7 @@ c) de werknemers in een van de volgende tewerkstellingsprogramma's:<br>
 2) een tewerkstellingsprogramma in het kader van individueel maatwerk als vermeld in het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling, als een loonpremie als vermeld in hoofdstuk 4, afdeling 2, van het voormelde decreet, en een begeleidingspremie als vermeld in hoofdstuk 4, afdeling 3, van het voormelde decreet, wordt toegekend;<br>
 3) een tewerkstellingsprogramma als vermeld in artikel 60, § 7, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
 4) een tewerkstellingsprogramma in het kader van het wijk-werken, vermeld in artikel 3, 9°, van het Wijk-werkendecreet van 7 juli 2017;<br>
-5) een tewerkstellingsprogramma in het kader van sociale inschakelingseconomie als vermeld in artikel 59 van de wet van 26 maart 1999 betreffende het Belgisch actieplan voor de werkgelegenheid 1998 en houdende diverse bepalingen;<br>
+5) ...;<br>
 d) werknemers die om medische redenen, erkend door een arbeidsgeneesheer conform boek I, titel, 4 van de codex over het welzijn op het werk, hun huidige functie niet meer kunnen uitoefenen;<br>
 32° collectieve sluiting: de periode waarin de onderneming of een technische bedrijfseenheid van de onderneming gesloten is met toepassing van:<br>
 a) de wetgeving op de jaarlijkse vakantie van werknemers;<br>
