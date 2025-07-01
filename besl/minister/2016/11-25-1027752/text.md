@@ -234,69 +234,87 @@ Het ministerieel besluit van 27 februari 2014 ter uitvoering van artikel 8, 11, 
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=98">http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=98</a><br>
+1. Opleidingstitels die in aanmerking komen voor een verantwoordelijke voor maximaal achttien kinderopvangplaatsen<br>
+1.1.&nbsp;van het secundair onderwijs arbeidsmarktfinaliteit: een bewijs van beroepskwalificatie “Kinderbegeleider baby’s en peuters” niveau 4;<br>
+1.2.&nbsp;van het secundair onderwijs dubbele finaliteit:<br>
+&nbsp; a) een diploma van het tweede jaar van de derde graad van de richting Opvoeding en Begeleiding, onderwijskwalificatie 4;<br>
+&nbsp; b) een bewijs van beroepskwalificatie “Persoonsbegeleider” niveau 4;<br>
+1.3. van het secundair volwassenonderwijs:<br>
+&nbsp; a) een diploma secundair onderwijs, met inbegrip van bewijs van beroepskwalificatie “Kinderbegeleider baby’s en peuters” niveau 4;<br>
+&nbsp; b) een certificaat “Kinderbegeleider baby's en peuters”, een bewijs van beroepskwalificatie “Kinderbegeleider baby’s en peuters” niveau 4;<br>
+&nbsp; c) een certificaat “Persoonsbegeleider”, een bewijs van beroepskwalificatie “Persoonsbegeleiders” niveau 4;<br>
+1.4. van het hoger beroepsonderwijs:<br>
+&nbsp; a) een diploma van gegradueerde in de orthopedagogische begeleiding;<br>
+&nbsp; b) een diploma van gegradueerde in de basisverpleegkunde;<br>
+&nbsp; c) een diploma van gegradueerde van het studiegebied Sociaal-Agogisch Werk van de volgende studierichtingen:<br>
+&nbsp; &nbsp; 1) Assistent in de Psychologie;<br>
+&nbsp; &nbsp; 2) Maatschappelijk Werk;<br>
+&nbsp; &nbsp; 3) Orthopedagogie;<br>
+&nbsp; &nbsp; 4) Personeelswerk;<br>
+&nbsp; &nbsp; 5) Sociaal-Cultureel Werk of Syndicaal Werk;<br>
+1.5. van het hoger onderwijs:<br>
+&nbsp; a) een diploma op het niveau van een bachelor of van een master;<br>
+&nbsp; b) een attest dat bevestigt dat voor minstens 120 studiepunten een creditbewijs behaald is, inclusief vrijstellingen, of dat het eerste en tweede studiejaar, inclusief vrijstellingen, met vrucht zijn voltooid, van een van de volgende studierichtingen:<br>
+&nbsp; &nbsp; 1) Pedagogie van het Jonge Kind, Kleuteronderwijs, Lager Onderwijs, Secundair Onderwijs, Gezinswetenschappen, Maatschappelijke Veiligheid, Orthopedagogie, Sociaal Werk, Sociale Readaptatiewetenschappen, Toegepaste Psychologie, Verpleegkunde, Vroedkunde van het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
+&nbsp; &nbsp; 2) Ergotherapie, Revalidatiewetenschappen en Kinesitherapie of Audiologie en Logopedie;<br>
+1.6.&nbsp;kwalificatiebewijzen die behaald zijn tot een bepaalde einddatum, namelijk kwalificatiebewijzen:<br>
+&nbsp; a) uitgereikt tot en met 31 augustus 2011: een eindstudiebewijs van de postgraduaatsopleiding Leidinggevende in Kinderopvang, georganiseerd door de Arteveldehogeschool van Gent;<br>
+&nbsp; b) uitgereikt tot en met 1 oktober 2015: een getuigschrift van de postgraduaatsopleiding Verantwoordelijke in Kinderopvang, georganiseerd door de Karel De Grote-Hogeschool van Antwerpen;<br>
+&nbsp; c) uitgereikt tot en met oktober 2018: een ondernemersdiploma Verantwoordelijke Kinderopvang, uitgereikt door een SYNTRA-centrum, een eindstudiebewijs van de ondernemersopleiding Beheerder Particuliere Opvanginstelling, georganiseerd door het Vlaams Instituut voor het Zelfstandig Ondernemen of een SYNTRA-centrum;<br>
+&nbsp; d) uitgereikt in 1966 en 1997: een diploma van het tweejarige opleidings- en tewerkstellingsproject voor migrantenvrouwen in de kinderopvang, georganiseerd door VBJK, Vernieuwing in de Basisvoorzieningen voor Jonge kinderen, in samenwerking met het Vlaams Centrum voor Integratie van Migranten en Kind en Gezin;<br>
+&nbsp; e) behaald vóór 1 september 2008: een attest van de achtdaagse cursus verantwoordelijke van particuliere kinderdagverblijven, georganiseerd door het centrum voor volwassenenonderwijs Vormingsleergang voor Sociaal en Pedagogisch Werk in Kortrijk, en een attest van de achtdaagse cursus dagopvang jonge kinderen, georganiseerd door het centrum voor volwassenenonderwijs Technicum Noord-Antwerpen, afdeling VLOD in Antwerpen;<br>
+&nbsp; f) een attest dat bevestigt dat minstens twee derde van de modules van de graduaatsopleiding Orthopedagogie van het volwassenenonderwijs, inclusief vrijstellingen, met vrucht is voltooid, of het eerste en het tweede studiejaar van de graduaatsopleiding Orthopedagogie in het volwassenenonderwijs met vrucht zijn voltooid;<br>
+&nbsp; g) uitgereikt tot en met 31 augustus 2022: een attest kinderbegeleider baby's en peuters, behaald aan een centrum voor volwassenenonderwijs met onderwijsbevoegdheid voor de opleiding Begeleider in de Kinderopvang. Het attest toont aan dat er 18 modules gevolgd zijn uit de opleiding Begeleider in de kinderopvang, namelijk:<br>
+&nbsp; &nbsp; 1) alle theoretische en praktijkmodules "Zorg in de kinderopvang" en "Begeleiding van het jonge kind";<br>
+&nbsp; &nbsp; 2) de modules 2, 4, 6 en 7 "Begeleiding van het schoolgaande kind";<br>
+&nbsp; h) uitgereikt tot en met 31 augustus 2025:<br>
+&nbsp; &nbsp; 1) van het secundair beroepsonderwijs:<br>
+&nbsp; &nbsp; &nbsp; i) een diploma van het derde jaar van de derde graad van de volgende studierichtingen: Kinderzorg, Begeleider in Kinderopvang of Kinderzorg/Begeleider in Kinderopvang;<br>
+&nbsp; &nbsp; &nbsp; ii) een studiegetuigschrift en een kwalificatiegetuigschrift van het zesde leerjaar van de studierichting Kinderverzorging;<br>
+&nbsp; &nbsp; &nbsp; iii) een studiegetuigschrift van het tweede leerjaar van de derde graad van de studierichting Kinderverzorging;<br>
+&nbsp; &nbsp; &nbsp; iv) een brevet van het zesde leerjaar van de studierichting Kinderverzorging;<br>
+&nbsp; &nbsp; &nbsp; v) een diploma van het derde jaar van de vierde graad van de studierichting Verpleegkunde;<br>
+&nbsp; &nbsp; &nbsp; vi) een diploma van het derde jaar van de derde graad van een naamloos jaar, als bij het diploma en door de verificateur van het Vlaams Ministerie van Onderwijs en Vorming een voor waar en echt verklaard attest is gevoegd waarop vermeld is dat het leerplan Kinderzorg volledig is gevolgd;<br>
+&nbsp; &nbsp; &nbsp; vii) een diploma van het beroepssecundair onderwijs, een bewijs van onderwijskwalificatie “Kinderbegeleider duaal” niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "Kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "Kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
+&nbsp; &nbsp; &nbsp; viii) een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar, een bewijs van onderwijskwalificatie "Kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "Kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "Kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
+&nbsp; &nbsp; &nbsp; ix) een certificaat van de opleiding Begeleider in de Kinderopvang van het deeltijds beroepssecundair onderwijs;<br>
+&nbsp; &nbsp; &nbsp; x) het certificaat Begeleider in de Kinderopvang, behaald in de leertijd;<br>
+&nbsp; &nbsp; &nbsp; xi) een diploma van het secundair onderwijs, uitgereikt door de Examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs, dat betrekking heeft op een examenprogramma van de studierichting Personenzorg, specialisatiejaar, met de onderliggende studierichting Kinderverzorging van het voltijds secundair onderwijs;<br>
+&nbsp; &nbsp; 2) van het secundair technisch onderwijs:<br>
+&nbsp; &nbsp; &nbsp; i)&nbsp;een diploma van het tweede jaar van de derde graad van de volgende richtingen: Bijzondere Jeugdzorg en Verpleegaspirant;<br>
+&nbsp; &nbsp; &nbsp; ii) een diploma van het secundair-na-secundair Internaatswerking of Leefgroepenwerking;<br>
+&nbsp; &nbsp; &nbsp; iii) een diploma van het derde jaar van de derde graad van de richting Internaatswerking of Leefgroepenwerking;<br>
+&nbsp; &nbsp; 3) van het secundair volwassenonderwijs:<br>
+&nbsp; &nbsp; &nbsp; i) een certificaat Kinderzorg, Begeleider in de Kinderopvang of Kinderzorg/Begeleider Kinderopvang;<br>
+&nbsp; &nbsp; &nbsp; ii) een certificaat Jeugd- en Gehandicaptenzorg;<br>
+1.7. kwalificatiebewijzen via een beroepskwalificerend traject dat erkend is via het gemeenschappelijke kwaliteitskader: een bewijs van beroepskwalificatie "Kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
+1.8. een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, tot en met 31 december 2021 uitgereikt door SYNTRA Vlaanderen of, vanaf 1 januari 2021, door het agentschap Innoveren en Ondernemen (VLAIO).<br>
 <br>
-* Met ingang van 1 juli 2018 wordt aan punt 1.3 van bijlage 3 een punt g) tot en met j) toegevoegd, die luiden als volgt:<br>
-"g) een diploma van het beroepssecundair onderwijs, een bewijs van onderwijskwalificatie "kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
-h) een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar, een bewijs van onderwijskwalificatie "kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
-i) een certificaat, een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
-j) uitgereikt tot en met december 2021: een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, uitgereikt door SYNTRA Vlaanderen;" (Zie MB 11 oktober 2018, art. 2, I: 1 juli 2018).<br>
+2. Opleidingstitels die in aanmerking komen voor een verantwoordelijke voor meer dan achttien kinderopvangplaatsen<br>
+2.1. een kwalificatiebewijs als vermeld in punt 1.5, a);<br>
+2.2. postgraduaten, behaald tot een bepaalde einddatum als vermeld in punt 1.6, a) en b).<br>
 <br>
-* Met ingang van 28 september 2019 worden de volgende wijzigingen aangebracht:<br>
-"1° in punt 1.5, a), wordt de zinsnede ", uitgereikt vanaf september 2011" opgeheven;<br>
-2° in punt 1.6 wordt punt a) vervangen door wat volgt:<br>
-"a) een attest dat bevestigt dat de graduaatsopleiding Orthopedagogie in het hoger onderwijs, inclusief vrijstellingen, met vrucht is voltooid;";<br>
-3° in punt 1.7, a), wordt de zinsnede "Toegepaste Psychologie, Verpleegkunde" vervangen door de zinsnede "Toegepaste Psychologie, Verpleegkunde, Vroedkunde";<br>
-4° in punt 1.7, b), wordt de zinsnede "vermeld in punt a)" vervangen door de zinsnede "vermeld in punt a), c), d) en e)";<br>
-5° in punt 1.7 wordt punt d) vervangen door wat volgt :<br>
-"d) een diploma van een bachelor in de ergotherapie, een diploma van een bachelor in de revalidatiewetenschappen en kinesitherapie of een diploma van een bachelor in de audiologie en logopedie;";<br>
-6° aan punt 1.8 wordt een punt f) toegevoegd, dat luidt als volgt :<br>
-"f) een attest dat bevestigt dat ofwel minstens twee derde van de modules van de graduaatsopleiding Orthopedagogie van het volwassenenonderwijs, inclusief vrijstellingen, met vrucht is voltooid, ofwel het eerste en het tweede studiejaar van de graduaatsopleiding Orthopedagogie in het volwassenenonderwijs met vrucht zijn voltooid.";<br>
-7° aan rubriek 1 wordt een punt 1.9 toegevoegd, dat luidt als volgt :<br>
-"1.9 van een master of van het hoger onderwijs van verschillende cycli :<br>
-a) een masterdiploma of diploma van het hoger onderwijs van meer dan één cyclus van een afstudeerrichting die behoort tot het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
-b) een masterdiploma of diploma van het hoger onderwijs van meer dan één cyclus, gecombineerd met een diploma van leraar, behaald vanaf het schooljaar 2007-2008;<br>
-c) een diploma van master in de verpleegkunde en de vroedkunde;<br>
-d) een diploma van master in de ergotherapeutische wetenschap of een diploma van master in de revalidatiewetenschappen en kinesitherapie;<br>
-e) een diploma van master of Medicine in de jeugdgezondheidszorg;<br>
-f) een diploma van master of Science in de logopedische en audiologische wetenschappen.";<br>
-8° in punt 2.1 wordt de zinsnede "punt 1.7, a), c) en e)" vervangen door de zinsnede "punt 1.7, a), c), d) en e)";<br>
-9° punt 2.2 wordt vervangen door wat volgt :<br>
-"2.2 een diploma als vermeld in punt 1.9;";<br>
-10° punt 2.4 wordt opgeheven;<br>
-11° punt 3.1 en 3.2 worden vervangen door wat volgt:<br>
-"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.9.";<br>
-12° in punt 6.4 worden tussen de woorden "een deelcertificaat van" en de woorden "een instantie" de woorden "een taalopleiding Nederlands aangeboden door" ingevoegd." (Zie MB 21 mei 2019, art. 5, I: 28 september 2019).<br>
+3. Opleidingstitels die in aanmerking komen voor de kinderbegeleider<br>
+3.1. een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.8.<br>
 <br>
-* Met ingang van 27 september 2021 worden de volgende wijzigingen aangebracht:<br>
-1° in punt 1.2 wordt punt c) vervangen door wat volgt:<br>
-"c) een certificaat, een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;";<br>
-2° in punt 1.3 wordt punt j) opgeheven;<br>
-3° in punt 1.8 wordt een punt g) toegevoegd, dat luidt als volgt:<br>
-"g) uitgereikt tot en met 31 augustus 2022: een attest kinderbegeleider baby's en peuters, behaald aan een centrum voor volwassenenonderwijs met onderwijsbevoegdheid voor de opleiding Begeleider in de Kinderopvang. Het attest toont aan dat er 18 modules gevolgd zijn uit de opleiding Begeleider in de kinderopvang namelijk:<br>
-1) alle theoretische en praktijkmodules "Zorg in de kinderopvang" en "Begeleiding van het jonge kind";<br>
-2) de modules 2, 4, 6 en 7 "Begeleiding van het schoolgaande kind";";<br>
-4° er worden een punt 1.10 en een punt 1.11 toegevoegd, die luiden als volgt:<br>
-"1.10 kwalificatiebewijzen via een beroepskwalificerend traject dat erkend is via het gemeenschappelijk kwaliteitskader: een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
-1.11 een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, tot en met 31 december 2021 uitgereikt door SYNTRA Vlaanderen of, vanaf 1 januari 2021, door het Agentschap Innoveren en Ondernemen (VLAIO).".<br>
-5°&nbsp; punt 3.1 wordt vervangen als volgt:<br>
-"3.1 een kwalificatiebewijs als vermeld in punt 1.1 tot en met 1.11.".<br>
+4. Opleidingstitels die in aanmerking komen voor de personen die vóór 1 april 2014 als verantwoordelijke of kinderbegeleider werkten<br>
+Voor de personen die vóór 1 april 2014 als verantwoordelijke of kinderbegeleider werkten in een kinderopvanglocatie die hetzij een erkenning, hetzij een toestemming, hetzij een attest van toezicht had van Kind en Gezin, komen naast de kwalificatiebewijzen voor verantwoordelijke, vermeld in punt 1 en 2, of de kwalificatiebewijzen voor kinderbegeleiders, vermeld in punt 3, ook de volgende kwalificatiebewijzen in aanmerking:<br>
+4.1.&nbsp;een diploma of certificaat van het hoger beroepsonderwijs en van het hoger onderwijs van het korte type voor sociale promotie, met uitzondering van de specifieke lerarenopleiding en het getuigschrift pedagogische bekwaamheid;<br>
+4.2. een diploma van het hoger onderwijs met een of meer cycli, van een bachelor of van een master.<br>
 <br>
-*Met ingang van 1 april 2022 worden de volgende wijzigingen aangebracht:<br>
-1° punt 1.7 wordt vervangen door wat volgt:&nbsp;<br>
-“1.7 van een bachelor of van het hoger onderwijs van één cyclus:&nbsp;<br>
-a)&nbsp;&nbsp; &nbsp;een diploma op het niveau van een bachelor;<br>
-b)&nbsp;&nbsp; &nbsp;een attest dat bevestigt dat voor minstens 120 studiepunten een creditbewijs behaald is, inclusief vrijstellingen, of dat het eerste en tweede studiejaar, inclusief vrijstellingen, met vrucht zijn voltooid, van een van de volgende studierichtingen:<br>
-1)&nbsp;&nbsp; &nbsp;Pedagogie van het Jonge Kind, Kleuteronderwijs, Lager Onderwijs, Secundair Onderwijs, Gezinswetenschappen, Maatschappelijke Veiligheid, Orthopedagogie, Sociaal Werk, Sociale Readaptatiewetenschappen, Toegepaste Psychologie, Verpleegkunde, Vroedkunde van het studiegebied Psychologie en Pedagogische Wetenschappen;<br>
-2)&nbsp;&nbsp; &nbsp;Ergotherapie, Revalidatiewetenschappen en Kinesitherapie of Audiologie en Logopedie;”;<br>
-2° punt 2.1 wordt vervangen door wat volgt:<br>
-“2.1 een kwalificatiebewijs, als vermeld in punt 1.7, a).” (Zie MB 18 november 2022, B.S. 19 januari 2023, art. 1, I: 1 april 2022).<br>
+5. Attesten die in aanmerking komen als attest van actieve kennis van het Nederlands<br>
+5.1. een certificaat Nederlands als Vreemde Taal van de Nederlandse Taalunie;<br>
+5.2. een bewijs van de Huizen van het Nederlands;<br>
+5.3. een certificaat van Selor;<br>
+5.4. een certificaat of een deelcertificaat van een taalopleiding Nederlands, aangeboden door een instantie die erkend is door het Vlaams Ministerie van Onderwijs en Vorming, en waarop het agentschap voor Kwaliteitszorg in Onderwijs en Vorming het toezicht uitoefent;<br>
+5.5. een diploma van een instantie waarvan het Nederlands de onderwijstaal is, die erkend is door het Vlaams Ministerie van Onderwijs en Vorming;<br>
+5.6. een certificaat van een onderwijsinstantie die in die hoedanigheid erkend is in het land van herkomst en geaccrediteerd is als taalopleiding Nederlands.<br>
+Voor de kinderbegeleider komt naast de attesten, vermeld in punt 5.1 tot en met 5.6, ook het volgende attest als attest van actieve kennis van het Nederlands in aanmerking:<br>
+5.7. een attest van een instantie dat aantoont dat de houder negen jaar lager en secundair onderwijs heeft gevolgd, waarbij het Nederlands de onderwijstaal was.<br>
 <br>
-*Met ingang van 1 januari 2024 wordt er een punt 1.4/1 ingevoegd dat luidt als volgt:<br>
-“1.4/1 van het secundair onderwijs met dubbele finaliteit: een diploma van het tweede jaar van de derde graad van de richting Opvoeding en Begeleiding, onderwijskwalificatie 4.”.<br>
-(Zie MB 4 december 2023, art. 11, I: 1 januari 2024)<br>
-<br>
-&nbsp;
+6. Een opleidingstitel, een bekwaamheidsattest of beroepservaring wordt als gelijkwaardig erkend ten opzichte van een van de opleidingstitels of attesten, vermeld in titel 1 tot en met 5 als het:<br>
+6.1. overeenkomstig het decreet van 24 februari 2017 tot gedeeltelijke omzetting van richtlijn&nbsp;2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties als gelijkwaardig erkend wordt;<br>
+6.2. door het agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS), NARIC-Vlaanderen als gelijkwaardig erkend wordt.
 
 ## BIJLAGE 4
 
