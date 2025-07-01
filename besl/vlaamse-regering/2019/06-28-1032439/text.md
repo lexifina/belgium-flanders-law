@@ -5642,6 +5642,8 @@ Als het centrum in het begrotingsjaar een gemiddelde bezettingsgraad van minder 
 <br>
 Het subsidiebedrag, vermeld in het eerste lid, bestaat voor 80% uit een subsidie voor personeelskosten en voor 20% uit een subsidie voor werkingskosten.<br>
 <br>
+In afwijking van artikel 19, tweede lid, van dit besluit is de basisindex voor het subsidiebedrag, vermeld in het eerste lid, de index die van toepassing is op 1 januari 2025.<br>
+<br>
 §2. Elk trimester wordt een voorschot uitbetaald van 22,5% van het subsidiebedrag per erkende verblijfseenheid in exploitatie als vermeld in paragraaf 1, eerste lid, vermenigvuldigd met het aantal erkende, reeds gesubsidieerde verblijfseenheden in exploitatie op 1 januari van het begrotingsjaar. Die voorschotten worden uitbetaald voor het einde van de tweede maand van het trimester waarop ze betrekking hebben.<br>
 &nbsp;&nbsp; &nbsp;<br>
 In afwijking van het eerste lid, worden voor de erkende verblijfseenheden in exploitatie die nog niet gesubsidieerd zijn en die een eerste keer in het begrotingsjaar en ten vroegste vanaf de ingangsdatum van de erkenning in aanmerking komen voor subsidiëring zoals bepaald in artikel 21 van dit besluit, twee voorschotten uitbetaald van 22,5% van het subsidiebedrag per erkende verblijfseenheid in exploitatie als vermeld in paragraaf 1, eerste lid, vermenigvuldigd met het aantal erkende verblijfseenheden in exploitatie op 1 juli van het begrotingsjaar.<br>
