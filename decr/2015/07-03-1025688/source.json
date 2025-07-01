@@ -2,16 +2,16 @@
   "codex_id": 1025688,
   "title": "Decreet van 2015-07-03 tot invoering van de kilometerheffing en stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 in dat verband",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025688/VolledigDocument?datum=2016-04-01",
-  "source_sha256": "943f8a47bd03cdde3389091347e3d662e0b9879a1834db8aba091e9b0e68e71b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025688/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "78bfbb46955628dabc7c031cfd632620fc6532f9128f19adee217ffd58aa9c44",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025688&param=informatie",
-  "as_of": "2016-04-01",
+  "as_of": "2025-07-01",
   "made": "2015-07-03",
   "gazette": "2015-08-10",
   "numac": 2015035995,
   "document_start": "2016-04-01",
   "document_end": null,
-  "in_force": "2016-04-01",
+  "in_force": "2025-07-01",
   "article_versions": 45,
-  "record_form": "consolidated version as in force on 2016-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }
