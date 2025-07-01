@@ -2,16 +2,16 @@
   "codex_id": 1040519,
   "title": "Decreet van 2024-12-20 Programmadecreet bij de begroting 2025",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040519/VolledigDocument?datum=2025-01-09",
-  "source_sha256": "40dd59de3a3b53f975c00253ba1bebec9e2057eba807ab037cf1ce3f90dcaddd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040519/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "e741c8b4a30e1d65cb7450fb43cf84141933a14a5e095366ab8adf83a11c0628",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040519&param=informatie",
-  "as_of": "2025-01-09",
+  "as_of": "2025-07-01",
   "made": "2024-12-20",
   "gazette": "2024-12-30",
   "numac": 2024011944,
   "document_start": "2025-01-01",
   "document_end": null,
-  "in_force": "2025-01-09",
-  "article_versions": 62,
-  "record_form": "consolidated version as in force on 2025-01-09; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-07-01",
+  "article_versions": 65,
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }

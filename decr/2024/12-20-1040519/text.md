@@ -382,6 +382,65 @@ Artikel 145/23 van hetzelfde wetboek, gewijzigd bij het decreet van 21 december 
 
 ## Afdeling 10. Aanpassing tarieven kilometerheffing
 
+### ART 54.
+
+In artikel 2.4.4.0.2, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, vervangen bij het decreet van 3 juli 2015 en gewijzigd bij de decreten van 20 december 2019 en 2 april 2021, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt het getal “13” vervangen door het getal “13,5”;<br>
+2° in punt 4° wordt de tabel vervangen door de volgende tabel:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse; width:13.0cm">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:406px">maximaal toegestane totaalgewicht</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:85px">G</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:406px">maximaal toegestane totaalgewicht hoger dan 3,5 ton en lager dan 12 ton</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:85px">-10,1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:406px">maximaal toegestane totaalgewicht hoger dan of gelijk aan 12 ton en niet hoger dan of gelijk aan 32 ton</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:85px">-1,7</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:406px">maximaal toegestane totaalgewicht hoger dan 32 ton</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:85px">0,8</td>
+		</tr>
+	</tbody>
+</table>
+”;<br>
+3° in punt 8° wordt de tabel vervangen door de volgende tabel:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:227px">EURO-emissieklasse</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:57px">Ex</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:227px">EURO 6 of hoger</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:57px">1,2</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:227px">EURO 5 of EEV</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:57px">2,2</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:227px">EURO 4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:57px">3,4</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:227px">EURO 3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:57px">6,6</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:227px">overige EURO-emissieklassen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:57px">8,6</td>
+		</tr>
+	</tbody>
+</table>
+”.
+
 ## Afdeling 11. Beperkte indexatie werkingsmiddelen
 
 ### ART 55.
@@ -441,6 +500,14 @@ In dit artikel wordt verstaan onder gescoregeling: de regeling die is vastgestel
 2° het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen.<br>
 <br>
 De werkgever kan werknemers die zijn tewerkgesteld overeenkomstig de gescoregeling niet meer vervangen met ingang van 1 februari 2025.
+
+### ART 60.
+
+Het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 23 juni 2023, wordt opgeheven.
+
+### ART 61.
+
+Het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 februari 2015 wordt opgeheven.
 
 ## Afdeling 5. Hervorming Vlaams opleidingsverlof en verankering gemeenschap-pelijk initiatiefrecht
 
