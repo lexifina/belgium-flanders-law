@@ -60,7 +60,7 @@ De verdeling van de taken, vermeld in dit artikel, tussen het agentschap en de e
 
 ### ART 3.
 
-De aanvragen, vermeld in artikel 1, kunnen bij het unieke loket worden ingediend vanaf 1 oktober 2022. Hiervoor stelt het unieke loket een elektronisch formulier ter beschikking.<br>
+De aanvragen, vermeld in artikel 1, kunnen bij het unieke loket worden ingediend vanaf 1 september 2025. Hiervoor stelt het unieke loket een elektronisch formulier ter beschikking.<br>
 <br>
 De aanvragen, vermeld in artikel 1, bevatten:<br>
 1° het digitaal ondertekende en volledig ingevulde aanvraagformulier;<br>
@@ -85,19 +85,17 @@ Het elektronisch formulier, vermeld in het eerste lid, alsook iedere wijziging a
 
 § 1. Het unieke loket bezorgt de aanvrager binnen een maand na de ontvangst van de aanvraag een ontvangstmelding met een elektronisch bericht of per brief, als de aanvrager daar expliciet om verzoekt, met vermelding van het verdere verloop van de procedure.<br>
 <br>
-§ 2. Binnen acht maanden na de aanvraagdatum wordt het overzicht van de elementen die nuttig zijn voor de berekening van de tegemoetkoming of de premie, vermeld in artikel 1, desgevallend aangevuld met het overzicht van de facturen die in aanmerking worden genomen, of de beslissing tot weigering van de tegemoetkoming of de premie, vermeld in artikel 1, bezorgd aan de aanvrager via het unieke loket met een elektronisch bericht of per brief, als de aanvrager daar expliciet om vraagt.<br>
+§ 2. Binnen zes maanden na de aanvraagdatum wordt het overzicht van de elementen die nuttig zijn voor de berekening van de tegemoetkoming of de premie, vermeld in artikel 1, desgevallend aangevuld met het overzicht van de facturen die in aanmerking worden genomen, of de beslissing tot weigering van de tegemoetkoming of de premie, vermeld in artikel 1, bezorgd aan de aanvrager via het unieke loket met een elektronisch bericht of per brief, als de aanvrager daar expliciet om vraagt.<br>
 <br>
 § 3. Als de aanvrager het niet eens is met het overzicht, vermeld in paragraaf 2, kan die binnen een maand na de ontvangst ervan met een elektronisch formulier dat door het unieke loket ter beschikking wordt gesteld, beroep instellen. Binnen drie maanden nadat de aanvrager het beroep heeft ingediend, wordt de beslissing in beroep overgemaakt aan de aanvrager via het unieke loket met een elektronisch bericht of per brief, als de aanvrager daar expliciet om vraagt. De beslissing bevat een verwijzing naar de bevoegde instantie bij betwisting.<br>
 <br>
 De aanvrager kan een beslissing tot weigering van de tegemoetkoming of de premie, vermeld in artikel 1, betwisten door binnen een maand na de ontvangst ervan beroep in te stellen bij het unieke loket, met een elektronisch formulier dat door het unieke loket ter beschikking wordt gesteld. Binnen drie maanden nadat de aanvrager het beroep heeft ingediend, wordt de weigering bevestigd, of worden de aangepaste berekeningselementen aan de aanvrager bezorgd via het unieke loket met een elektronisch bericht of per brief, als de aanvrager daar expliciet om vraagt. De beslissing bevat een verwijzing naar de bevoegde instantie bij betwisting.<br>
 <br>
-Als de aanvrager binnen acht maanden na de aanvraagdatum noch een beslissing tot weigering, noch het overzicht, vermeld in paragraaf 2, heeft ontvangen, kan de aanvrager binnen een maand, na deze termijn van acht maanden beroep aantekenen bij het unieke loket tegen het stilzitten met een elektronisch formulier dat door het unieke loket ter beschikking wordt gesteld. Binnen drie maanden nadat de aanvrager het beroep heeft ingediend, wordt de aanvraag geweigerd, of worden de berekeningselementen aan de aanvrager bezorgd. De beslissing bevat een verwijzing naar de bevoegde instantie bij betwisting.<br>
+Als de aanvrager binnen zes maanden na de aanvraagdatum noch een beslissing tot weigering, noch het overzicht, vermeld in paragraaf 2, heeft ontvangen, kan de aanvrager binnen een maand, na deze termijn van zes maanden beroep aantekenen bij het unieke loket tegen het stilzitten met een elektronisch formulier dat door het unieke loket ter beschikking wordt gesteld. Binnen drie maanden nadat de aanvrager het beroep heeft ingediend, wordt de aanvraag geweigerd, of worden de berekeningselementen aan de aanvrager bezorgd. De beslissing bevat een verwijzing naar de bevoegde instantie bij betwisting.<br>
 <br>
-§ 4. Het unieke loket bezorgt de definitieve beslissing tot het verlenen van de tegemoetkoming aan de aanvrager met een elektronisch bericht of per brief, als de aanvrager daar expliciet om verzoekt, en betaalt de tegemoetkoming uit binnen twaalf maanden na de aanvraagdatum. De tegemoetkoming wordt uitbetaald aan de aanvrager.<br>
+§ 4. Het unieke loket bezorgt de definitieve beslissing tot het verlenen van de tegemoetkoming aan de aanvrager met een elektronisch bericht of per brief, als de aanvrager daar expliciet om verzoekt, en betaalt de tegemoetkoming uit binnen tien maanden na de aanvraagdatum. De tegemoetkoming wordt uitbetaald aan de aanvrager.<br>
 <br>
-De aanvrager houdt de betalingsbewijzen gedurende twee jaar na de uitbetaling van de tegemoetkomingen ter beschikking van het unieke loket en legt ze onmiddellijk voor op eenvoudig verzoek van het unieke loket.<br>
-<br>
-§ 5. De termijn van acht maanden, vermeld in paragraaf 2 en paragraaf 3, derde lid, en de termijn van twaalf maanden, vermeld in paragraaf 4, eerste lid, worden respectievelijk ingekort tot zes maanden en tien maanden, voor de aanvragen die worden ingediend vanaf 1 juli 2024.
+De aanvrager houdt de betalingsbewijzen gedurende twee jaar na de uitbetaling van de tegemoetkomingen ter beschikking van het unieke loket en legt ze onmiddellijk voor op eenvoudig verzoek van het unieke loket.
 
 ### ART 5.
 
