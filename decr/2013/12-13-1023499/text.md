@@ -20,10 +20,10 @@ Deze codex regelt een gewestaangelegenheid.<BR>
 5° bevoegd personeelslid : het personeelslid van de Vlaamse administratie dat wordt aangewezen conform de besluiten van de Vlaamse Regering, en dat belast is met de uitvoering van de bepalingen van deze codex;<br>
 5° /1 decreet Kilometerheffing : decreet van 3 juli 2015 tot invoering van de kilometerheffing en de stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit in dat verband;<br>
 6° decreet van 19 april 1995 : het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
-7° ...;<br>
-7° /1 dienstverlener : elke door een tolheffende instantie, vermeld in artikel 4, tweede lid, 2°, van het decreet Kilometerheffing op haar tolgebied, vermeld in artikel 5, § 2, derde lid, 1°, van het decreet Kilometerheffing toegelaten juridische entiteit die een dienst aanbiedt van facturatie aan gebruikers, inning en afdracht aan de gewesten van de kilometerheffing op basis van gegevens die geregistreerd zijn door een elektronische registratievoorziening;<br>
-7° /2 dienstverleningsovereenkomst : de overeenkomst tussen de houder van een voertuig en een dienstverlener naar zijn keuze, die voorafgaand aan het gebruik van enige weg voor dat voertuig moet worden gesloten;<br>
-7° /3 elektronische registratievoorziening : de elektronische boordapparatuur bestemd voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst, die, al dan niet met behulp van elektronische apparatuur op afstand, data uitwisselt om te komen tot de registratie van afgelegde kilometers, alsook tot de berekening van de kilometerheffing op die geregistreerde afstand;<br>
+7° decreet van 22 december 1995 : het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+7°/1 dienstaanbieder: elke juridische entiteit die door de tolheffer, vermeld in artikel 4, tweede lid, 2°, van het decreet Kilometerheffing geaccrediteerd is om in haar tolgebied, vermeld in artikel 4, §2, derde lid, 1°, van het decreet Kilometerheffing, een dienst aan te bieden van inning van de kilometerheffing bij de gebruikers, en van afdracht aan de tolheffer, op basis van door boordapparatuur geregistreerde of verkregen gegevens;<br>
+7° /2 dienstverleningsovereenkomst : de overeenkomst tussen de houder van een voertuig en een dienstaanbieder naar zijn keuze of de hoofddienstaanbieder, die voorafgaand aan het gebruik van enige weg voor dat voertuig moet worden gesloten;<br>
+7°/3 boordapparatuur: alle hardware- of softwarecomponenten die aan boord van een voertuig zijn geïnstalleerd of worden meegenomen, en die worden gebruikt als onderdeel van de toldienst, om gegevens te verzamelen, op te slaan, te verwerken en vanop afstand te ontvangen of te verzenden;<br>
 8° entiteit van de Vlaamse administratie: een intern of extern verzelfstandigd agentschap of een departement;<br>
 9° erfbelasting : verzamelterm voor het successierecht en het recht van overgang;<br>
 10° eurovignet : de belasting die tot en met de inwerkingtreding van het decreet van 3 juli 2015 tot invoering van de kilometerheffing en de stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 in dat verband geheven werd overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de toenmalige bepalingen van titel 2, hoofdstuk 4, van deze codex;<br>
@@ -37,11 +37,11 @@ Deze codex regelt een gewestaangelegenheid.<BR>
 16° recht van overgang : de belasting die onder de benaming `het recht van overgang bij overlijden van niet-rijksinwoners' wordt geheven overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 7, van deze codex;<br>
 17° registratiebelasting : verzamelterm voor de schenkbelasting, het verkooprecht, het verdeelrecht en het recht op hypotheekvestiging;<br>
 18° rijksinwoner : de natuurlijke persoon die naargelang het geval op het ogenblik van zijn overlijden of op het ogenblik van de schenking binnen het Rijk zijn domicilie of de zetel van zijn vermogen heeft gevestigd of de rechtspersoon die op het ogenblik van de schenking binnen het Rijk zijn zetel van werkelijke leiding heeft gevestigd;<br>
-18° /1 schatter-expert: natuurlijk persoon die beroepsmatig schattingen en waarderingen van onroerende goederen uitvoert en daarvoor beschikt over de beroepskwalificatie, vermeld in artikel 3.3.1.0.9/1, § 2, 2° ;<br>
+18° /1 ...;<br>
 19° schenkbelasting : de belasting die onder de benaming `registratierecht op de schenkingen onder de levenden van roerende of onroerende goederen' geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 8, van deze codex;<br>
 20° successierecht : de belasting die onder de benaming `het successierecht van rijksinwoners' wordt geheven overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 7, van deze codex;<br>
 21° vennootschappen : een vennootschap, vereniging, inrichting of instelling die regelmatig is opgericht, rechtspersoonlijkheid bezit en een onderneming exploiteert of zich bezighoudt met verrichtingen van winstgevende aard. Lichamen met rechtspersoonlijkheid die naar Belgisch recht zijn opgericht en die voor de toepassing van de inkomstenbelastingen worden geacht geen rechtspersoonlijkheid te bezitten, worden niet als vennootschappen aangemerkt;<br>
-22° verdeelrecht : de belasting die onder de benaming `registratierecht op de gedeeltelijke of gehele verdelingen van in België gelegen onroerende goederen, de afstanden onder bezwarende titel, onder mede-eigenaars, van onverdeelde delen in soortgelijke goederen, en de omzettingen overeenkomstig artikel 4.61 en 4.62 van het Burgerlijk Wetboek, zelfs indien er geen onverdeeldheid is' geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 10, van deze codex;<br>
+22° verdeelrecht : de belasting die onder de benaming `registratierecht op de gedeeltelijke of gehele verdelingen van in België gelegen onroerende goederen, de afstanden onder bezwarende titel, onder mede-eigenaars, van onverdeelde delen in soortgelijke goederen, en de omzettingen overeenkomstig artikel 745quater en artikel 745quinquies van het Burgerlijk Wetboek, zelfs indien er geen onverdeeldheid is' geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 10, van deze codex;<br>
 23° verkeersbelasting : de belastingen die geheven worden overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 2, van deze codex;<br>
 24° verkooprecht : de belasting die onder de benaming `registratierecht op de overdrachten onder bezwarende titel van in België gelegen onroerende goederen met uitsluiting van de overdrachten die het gevolg zijn van een inbreng in een vennootschap behalve voor zover het een inbreng betreft door een natuurlijke persoon van een woning in een Belgische vennootschap' geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 9, van deze codex;<br>
 25° ...<br>
@@ -78,11 +78,13 @@ In titel 2, hoofdstuk 3, wordt verstaan onder :<br>
 5° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
 In titel 2, hoofdstuk 4, wordt verstaan onder :<br>
-1° EURO-emissieklasse : de klasse gedefinieerd op basis van de emissiegrenswaarden, vermeld in bijlage 0 van richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen;<br>
-1°/0 emissievrij voertuig: een voertuig dat beantwoordt aan de voorwaarden als bepaald in artikel 3, punt 11, van verordening (EU) 2019/1242 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van CO2-emissienormen voor nieuwe zware bedrijfsvoertuigen en tot wijziging van Verordeningen (EG) nr. 595/2009 en (EU) 2018/956 van het Europees Parlement en de Raad en Richtlijn 96/53/EG van de Raad.<br>
-2° gegarandeerde betaalmiddel : het betaalmiddel waarmee de dienstverlener, vermeld in artikel 1.1.0.0.2, eerste lid, 7° /1, de kilometerheffing en, in voorkomend geval, de aan de houder van het voertuig gefactureerde inningskosten op het eerste verzoek kan innen, zonder verdere toelating van de houder van het voertuig en zonder dat die de betaling die met het betaalmiddel is verricht, kan annuleren;<br>
+1° Euro-emissieklasse: de klasse gedefinieerd op basis van emissiegrenswaarden, zoals omschreven in bijlage 0 van richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van wegeninfrastructuur aan voertuigen, met toevoeging van de klasse “minder vervuilend dan Euro VI, met inbegrip van emissievrije voertuigen;<br>
+1°/0 emissievrij voertuig: een voertuig dat beantwoordt aan de voorwaarden als bepaald in artikel 3, punt 11, van verordening (EU) 2019/1242 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van CO2-emissienormen voor nieuwe zware bedrijfsvoertuigen en tot wijziging van Verordeningen (EG) nr. 595/2009 en (EU) 2018/956 van het Europees Parlement en de Raad en Richtlijn 96/53/EG van de Raad;<br>
+1°/1 gebruiker: de houder van het voertuig die een dienstverleningsovereenkomst heeft met een dienstaanbieder of de hoofddienstaanbieder;<br>
+2° gegarandeerde betaalmiddel : het betaalmiddel waarmee de dienstaanbieder, vermeld in artikel 1.1.0.0.2, eerste lid, 7°/1, of de hoofddienstaanbieder, vermeld in artikel 5, tweede lid, van het decreet Kilometerheffing de kilometerheffing en, in voorkomend geval, de aan de gebruiker gefactureerde inningskosten op het eerste verzoek kunnen innen, zonder verdere toelating van de gebruiker en zonder dat die de betaling die met het betaalmiddel is verricht, kunnen annuleren;<br>
 3° kilometer : elke kilometer, afgerond op het hogere of lagere duizendste, naargelang het cijfer van de tienduizendsten al of niet vijf bereikt;<br>
 4° niet-geconcedeerde weg : de weg of het gedeelte van de weg waarvan het beheer niet in concessie is gegeven;<br>
+4°/1° vervoer over de weg van goederen: het vervoer van elk goed dat op een voertuig kan worden geladen of afgeladen, met inbegrip van het vervoer van werktuigen en gereedschapsmachines en van werktuigvoertuigen, alsook het vervoer van elk goed door die werktuigen, gereedschapsmachines en werktuigvoertuigen, als ze worden gebruikt op een niet-geconcedeerde weg;<br>
 5° Viapass : het publiekrechtelijk vormgegeven interregionaal samenwerkingsverband in de vorm van een gemeenschappelijke instelling als vermeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, vermeld in artikel 18 van het samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 6° voertuig : een motorvoertuig of een samenstel van voertuigen, bedoeld of gebruikt, al dan niet uitsluitend, voor het vervoer over de weg van goederen, waarvan het maximaal toegestane totaalgewicht meer dan 3,5 ton bedraagt;<br>
 7° weg : de landwegen en de aanhorigheden ervan.<br>
@@ -97,7 +99,7 @@ a) de persoon die op dag van het openvallen van de nalatenschap met de erflater 
 b) de persoon die op de dag van het openvallen van de nalatenschap met de erflater of op de dag van de schenking met de schenker wettelijk samenwoont, overeenkomstig de bepalingen van boek III, titel Vbis, van het Burgerlijk Wetboek;<br>
 c) de personen die op de dag van het openvallen van de nalatenschap of op de dag van de schenking ten minste één jaar ononderbroken met de erflater of de schenker samenwonen en met de erflater of de schenker een gemeenschappelijke huishouding voeren. Artikel 2.7.4.1.1, § 2, derde lid, artikel 2.7.4.2.2 en artikel 2.8.6.0.3 zijn echter alleen van toepassing voor de personen die op de dag van het openvallen van de nalatenschap of op de dag van de schenking ten minste drie jaar ononderbroken met de erflater of de schenker samenwonen en met de erflater of de schenker een gemeenschappelijke huishouding voeren. Deze voorwaarden worden geacht ook vervuld te zijn als het samenwonen en het voeren van een gemeenschappelijke huishouding met de erflater of de schenker, aansluitend op de bedoelde periode van één of drie jaar tot op de dag van het overlijden, ingevolge overmacht onmogelijk is geworden. Een inschrijving in het bevolkingsregister houdt een weerlegbaar vermoeden in van ononderbroken samenwoning en van het voeren van een gemeenschappelijke huishouding;<br>
 5° verkrijging in rechte lijn :<br>
-a) een verkrijging tussen personen die de ene van de andere afstammen, overeenkomstig artikel 4.11, §1, van het Burgerlijk Wetboek, of tussen personen die ingevolge volle adoptie overeenkomstig artikel 356-1 van het Burgerlijk Wetboek een statuut met dezelfde rechten en verplichtingen hebben;<br>
+a) een verkrijging tussen personen die de ene van de andere afstammen, overeenkomstig artikel 736 van het Burgerlijk Wetboek, of tussen personen die ingevolge volle adoptie overeenkomstig artikel 356-1 van het Burgerlijk Wetboek een statuut met dezelfde rechten en verplichtingen hebben;<br>
 b) een verkrijging tussen een persoon en het kind van zijn partner, ongeacht of de verkrijging plaatsvindt voor of na het overlijden van de partner. Als de verkrijging plaatsvindt na het overlijden van de partner, moet die laatste zijn hoedanigheid van partner ten aanzien van de eerst vermelde persoon nog hebben op de datum van zijn overlijden;<br>
 c) een verkrijging tussen personen tussen wie een relatie van zorgouder en zorgkind bestaat of heeft bestaan. Er is sprake van een zorgrelatie als iemand vóór de leeftijd van eenentwintig jaar gedurende drie achtereenvolgende jaren bij een andere persoon heeft ingewoond en gedurende die tijd hoofdzakelijk van die andere persoon, of van de andere persoon en zijn partner samen, de hulp en verzorging heeft gekregen die kinderen normaal van hun ouders krijgen. De inschrijving van het zorgkind in het bevolkings- of het vreemdelingenregister op het adres van de zorgouder geldt als weerlegbaar vermoeden van inwoning bij de zorgouder;<br>
 d) een verkrijging door een persoon die met de overledene of de schenker een verwantschapsband had of heeft die voortkomt uit gewone adoptie, maar uitsluitend als daarvoor de nodige bewijsstukken worden aangebracht en als :<br>
@@ -126,7 +128,7 @@ In titel 2, hoofdstuk 8, wordt de schenkbelasting, vermeld in het eerste lid, 19
 4° de schenking van roerende goederen door een niet-rijksinwoner natuurlijke persoon of een rechtspersoon aan een niet-rijksinwoner natuurlijke persoon of een rechtspersoon als de schenking ter registratie wordt aangeboden in het Vlaamse Gewest.<br>
 <br>
 In titel 2, hoofdstuk 9, wordt in afwijking van het eerste lid verstaan onder :<br>
-1° ...;<br>
+1°...;<br>
 2° aanhorigheid : elk gebouwd of ongebouwd onroerend goed dat volgens de aard, de ligging, de oppervlakte en de waarde ervan een normale bijhorigheid vormt, al naargelang het geval, hetzij van het huis of de verdieping of het gedeelte van verdieping, hetzij van een op te richten woning;<br>
 3° ...;<br>
 4° ...;<br>
@@ -2784,7 +2786,16 @@ De belasting wordt geheven in overeenstemming met de bepalingen van   artikel 3.
 
 ### ART. 2.4.2.0.1.
 
-§ 1. De belastingplichtige is degene die houder is van het voertuig. De   houder van het voertuig is degene, hetzij :<BR>1° op naam van wie het kenteken   van het voertuig is ingeschreven bij de overheid die belast is met de   inschrijving van de voertuigen;<BR>2° op naam van wie het kenteken van het   voertuig is ingeschreven bij het buitenlands geldende equivalent van de overheid   die belast is met de inschrijving van de voertuigen;<BR>3° die het voertuig,   waarvoor geen kenteken is ingeschreven bij de overheid die belast is met de   inschrijving van de voertuigen of zijn equivalent in het buitenland, feitelijk   ter beschikking heeft.<BR><BR>Voor de toepassing van het eerste lid wordt, in   geval van een samenstel van voertuigen, het kenteken van het motorvoertuig   bedoeld.<BR><BR>§ 2. In afwijking van paragraaf 1, eerste lid, kan de houder van   het voertuig, als het voertuig door de houder ervan bestendig of gewoonlijk ter   beschikking is gesteld van een derde door verhuur, leasing of een andere   overeenkomst, die derde na hun gezamenlijk akkoord, aanwijzen als de houder van   het voertuig. De initiële houder van het voertuig blijft solidair aansprakelijk   voor de goede uitvoering van de verplichtingen van de vermelde derde.<BR><BR>De   Vlaamse Regering kan de voorwaarden, beperkingen en nadere regels van deze   mogelijkheid bepalen.
+§ 1. De belastingplichtige is degene die houder is van het voertuig. De houder van het voertuig is degene, hetzij :<br>
+1° op naam van wie het kenteken van het voertuig is ingeschreven bij de overheid die belast is met de inschrijving van de voertuigen;<br>
+2° op naam van wie het kenteken van het voertuig is ingeschreven bij het buitenlands geldende equivalent van de overheid die belast is met de inschrijving van de voertuigen;<br>
+3° die het voertuig, waarvoor geen kenteken is ingeschreven bij de overheid die belast is met de inschrijving van de voertuigen of zijn equivalent in het buitenland, feitelijk ter beschikking heeft.<br>
+<br>
+Voor de toepassing van het eerste lid wordt, in geval van een samenstel van voertuigen, het kenteken van het trekkend voertuig bedoeld.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, eerste lid, kan de houder van het voertuig, als het voertuig door de houder ervan bestendig of gewoonlijk ter beschikking is gesteld van een derde door verhuur, leasing of een andere overeenkomst, die derde na hun gezamenlijk akkoord, aanwijzen als de houder van het voertuig. De initiële houder van het voertuig blijft solidair aansprakelijk voor de goede uitvoering van de verplichtingen van de vermelde derde.<br>
+<br>
+De Vlaamse Regering kan de voorwaarden, beperkingen en nadere regels van deze mogelijkheid bepalen.
 
 ## Afdeling 3 Belastbare grondslag
 
@@ -2804,7 +2815,7 @@ De hoogte van het tarief Tz, vermeld in artikel 2.4.4.0.1, 1°, uitgedrukt in eu
 Tz = F x (Bt + a X A + b X G + c X En + d X Et + e X Ep + f X Ex),<br>
 waarbij :<br>
 1° F = factor, die 1 is voor de wegen of wegsegmenten, vermeld in punt 3°, die limitatief opgesomd zijn in bijlage 2, en 0 voor alle andere wegen of wegsegmenten;<br>
-2° Bt = basistarief van de heffing, met waarde 13 eurocent;<br>
+2° Bt = basistarief van de heffing, met waarde 13,5 eurocent;<br>
 3° A = variatie in functie van wegtype W met een tarief dat hoger is dan nul eurocent, gedifferentieerd volgens de volgende tabel :<br>
 &nbsp;
 <table border="1">
@@ -2831,7 +2842,7 @@ waarbij :<br>
 De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaande tabel, vallen, worden limitatief opgesomd in bijlage 2;<br>
 4° G = variatie in functie van gewichtsklasse van het voertuig, gedifferentieerd volgens de volgende tabel :<br>
 &nbsp;
-<table border="1">
+<table border="1" cellspacing="0">
 	<tbody>
 		<tr>
 			<td>maximaal toegestane totaalgewicht</td>
@@ -2839,7 +2850,7 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 		</tr>
 		<tr>
 			<td>maximaal toegestane totaalgewicht hoger dan 3,5 ton en lager dan 12 ton</td>
-			<td>-9,8</td>
+			<td>-10,1</td>
 		</tr>
 		<tr>
 			<td>maximaal toegestane totaalgewicht hoger dan of gelijk aan 12 ton en niet hoger dan of gelijk aan 32 ton</td>
@@ -2847,7 +2858,7 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 		</tr>
 		<tr>
 			<td>maximaal toegestane totaalgewicht hoger dan 32 ton</td>
-			<td>0,7</td>
+			<td>0,8</td>
 		</tr>
 	</tbody>
 </table>
@@ -2857,7 +2868,7 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 7° Ep = variatie in functie van de plaats;<br>
 8° Ex = toeslag in functie van de door het voertuig veroorzaakte externe kosten, in functie van de hoogte van de EURO-emissieklasse, gedifferentieerd volgens de volgende tabel :<br>
 &nbsp;
-<table border="1">
+<table border="1" cellspacing="0">
 	<tbody>
 		<tr>
 			<td>EURO-emissieklasse</td>
@@ -2865,26 +2876,27 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 		</tr>
 		<tr>
 			<td>EURO 6 of hoger</td>
-			<td>1,1</td>
+			<td>1,2</td>
 		</tr>
 		<tr>
 			<td>EURO 5 of EEV</td>
-			<td>2,1</td>
+			<td>2,2</td>
 		</tr>
 		<tr>
 			<td>EURO 4</td>
-			<td>3.2</td>
+			<td>3,4</td>
 		</tr>
 		<tr>
 			<td>EURO 3</td>
-			<td>6,3</td>
+			<td>6,6</td>
 		</tr>
 		<tr>
 			<td>overige EURO-emissieklassen</td>
-			<td>8,3</td>
+			<td>8</td>
 		</tr>
 	</tbody>
 </table>
+<br>
 <br>
 9° a, b, c, d, e, en f = factoren die een invloed uitoefenen op het gewicht van respectievelijk A, G, En, Et, Ep en Ex, waarbij a = 1, b = 1, c = 0, d = 0, e = 0, en f = 1.<br>
 <br>
@@ -3053,7 +3065,9 @@ De houder van een voertuig als vermeld in paragraaf 1, 2° tot en met 4°, dat n
 <br>
 § 4. De vrijstellingen vermeld in paragraaf 1 blijven gelden tot niet langer aan de voorwaarden van dit artikel is voldaan.<br>
 <br>
-§ 5. De bevoegde entiteit van de Vlaamse administratie maakt onmiddellijk aan Viapass de voertuigen kenbaar die van een vrijstelling genieten ingevolge dit artikel.</p>
+§ 5. De bevoegde entiteit van de Vlaamse administratie maakt onmiddellijk aan Viapass de voertuigen kenbaar die van een vrijstelling genieten ingevolge dit artikel.<br>
+<br>
+§6. Het vrijgestelde voertuig wordt opgenomen in een lijst met vrijgestelde voertuigen door de Vlaamse administratie. Die lijst wordt bijgehouden en bijgewerkt in overeenstemming met de geldende regels ter bescherming van de persoonsgegevens.</p>
 
 ## Afdeling 7 Wijze van heffing
 
@@ -5709,30 +5723,60 @@ Als de laatste dag van een termijn als vermeld in deze afdeling, op een   zaterd
 
 ### ART. 3.3.1.0.11.
 
-&nbsp;§ 1. Tenzij het voertuig is vrijgesteld van de kilometerheffing, moet de houder van een voertuig als vermeld in artikel 1.1.0.0.2, vijfde lid, 6°, voorafgaand aan het gebruik van elke weg, voor dat voertuig met een dienstverlener naar keuze een dienstverleningsovereenkomst sluiten.<br>
+§ 1. Tenzij het voertuig is vrijgesteld van de kilometerheffing, moet de houder van een voertuig als vermeld in artikel 1.1.0.0.2, vijfde lid, 6°, voorafgaand aan het gebruik van elke weg, voor dat voertuig met een dienstaanbieder of de hoofddienstaanbieder naar keuze een dienstverleningsovereenkomst sluiten.<br>
 <br>
-De houder van een voertuig die de dienstverlener verzoekt om een dienstverleningsovereenkomst te sluiten, moet aan de dienstverlener alle voertuigdocumenten voorleggen die nodig zijn om het kenteken van het voertuig in kwestie, het maximaal toegestane totaalgewicht en de EURO-emissieklasse vast te stellen.<br>
+De houder van een voertuig die de dienstaanbieder of de hoofddienstaanbieder verzoekt om een dienstverleningsovereenkomst te sluiten, moet aan de dienstaanbieder of de hoofddienstaanbieder alle voertuigdocumenten voorleggen die nodig zijn om de voertuigclassificatieparameters, vermeld in artikel 3, 35°, van het decreet van 3 juni 2022 over elektronische tolheffingssystemen voor het wegverkeer, waaronder het kenteken van het voertuig in kwestie, het maximaal toegestane totaalgewicht en de EURO-emissieklasse vast te stellen.<br>
 <br>
 Bij gebreke aan afdoend bewijs van het maximaal toegestane totaalgewicht van het voertuig, wordt het voertuig geacht een maximaal toegestaan totaalgewicht van hoger dan 32 ton te hebben.<br>
 <br>
 Bij gebreke aan afdoend bewijs van de EURO-emissieklasse van het voertuig, wordt het voertuig geacht te behoren tot de categorie `overige EURO-emissieklassen', vermeld in de tabellen, opgenomen in artikel 2.4.4.0.2, eerste lid, 5° en 7°.<br>
 <br>
-De vermoedens, vermeld in het derde en vierde lid, worden toegepast tot die met afdoend bewijs worden weerlegd. Dat bewijs heeft evenwel geen invloed op de heffingen die verschuldigd zijn voor kilometers die zijn afgelegd vóór de verificatie van de gegevens uit het voorgelegde bewijsstuk door de dienstverlener.<br>
+De vermoedens, vermeld in het derde en vierde lid, worden toegepast tot die met afdoend bewijs worden weerlegd. Dat bewijs heeft evenwel geen invloed op de heffingen die verschuldigd zijn voor kilometers die zijn afgelegd vóór de verificatie van de gegevens uit het voorgelegde bewijsstuk door de dienstaanbieder of de hoofddienstaanbieder.<br>
 <br>
 De houder van het voertuig heeft het recht heeft om, voorafgaand aan het gebruik van een weg, de emissieklasse van het voertuig elektronisch mee te delen.<br>
 <br>
-§ 2. De dienstverlener kan de uitvoering van de dienstverleningsovereenkomst alleen schorsen in die gevallen waarin de houder van het voertuig of, in voorkomend geval, de bestuurder :<br>
-1° niet voldoet aan zijn betalingsverplichtingen jegens de dienstverlener, zoals die in de dienstverleningsovereenkomst zijn bepaald;<br>
-2° in voorkomend geval, geen of een ontoereikend gegarandeerd betaalmiddel ter beschikking heeft gesteld;<br>
-3° gebruikmaakt van de elektronische registratievoorziening op een wijze die strijdig is met de gebruiksaanwijzing die door de dienstverlener ter beschikking is gesteld;<br>
-4° nalaat een defect aan de elektronische registratievoorziening te melden;<br>
-5° de instructies van de dienstverlener niet opvolgt met het oog op de vervanging of de herstelling van de defecte elektronische registratievoorziening.<br>
+§1/1. De dienstaanbieder of de hoofddienstaanbieder is ertoe gehouden om de juistheid van de door de houder van het voertuig voorgelegde voertuig- documenten, alsook de elektronisch meegedeelde emissieklasse, vermeld in paragraaf 1, tweede lid, te controleren.<br>
 <br>
-De dienstverlener brengt de houder van het voertuig en de bevoegde entiteit van de Vlaamse administratie onmiddellijk op de hoogte van de schorsing van de uitvoering van de dienstverleningsovereenkomst.
+§ 2. De dienstaanbieder of de hoofddienstaanbieder kan de uitvoering van de dienstverleningsovereenkomst alleen schorsen in die gevallen waarin de gebruiker of, in voorkomend geval, de bestuurder :<br>
+1° niet voldoet aan zijn betalingsverplichtingen jegens de dienstaanbieder of de hoofddienstaanbieder, zoals die in de dienstverleningsovereenkomst zijn bepaald;<br>
+2° in voorkomend geval, geen of een ontoereikend gegarandeerd betaalmiddel ter beschikking heeft gesteld;<br>
+3° gebruikmaakt van de boordapparatuur op een wijze die strijdig is met de gebruiksaanwijzing die door de dienstaanbieder of de hoofddienstaanbieder ter beschikking is gesteld;<br>
+4° nalaat een defect aan de boordapparatuur te melden;<br>
+5° de instructies van de dienstaanbieder of de hoofddienstaanbieder niet opvolgt met het oog op de vervanging of de herstelling van de defecte boordapparatuur.<br>
+<br>
+De dienstaanbieder of de hoofddienstaanbieder vermeldt de schorsing van de uitvoering van de dienstverleningsovereenkomst op de lijst van ongeldig verklaarde boordapparatuur en brengt de gebruiker en de Vlaamse administratie onmiddellijk op de hoogte van de schorsing van de uitvoering van de dienstverleningsovereenkomst.<br>
+<br>
+§3. De dienstaanbieder en de hoofddienstaanbieder stellen een lijst op van ongeldig verklaarde boordapparatuur die verband houdt met hun dienstverleningsovereenkomsten met de gebruikers, waaronder minstens de gebeurtenissen, vermeld in paragraaf 2, 1° tot en met 5°, en de schorsing van de dienstverleningsovereenkomst.<br>
+<br>
+Ze werken die lijst bij en delen de bijgewerkte lijst minstens dagelijks mee aan de tolheffer.<br>
+<br>
+De lijst van ongeldig verklaarde boordapparatuur wordt bijgehouden in overeenstemming met de geldende regels over de bescherming van persoonsgegevens.<br>
+&nbsp;
 
 ### ART. 3.3.1.0.13.
 
-§ 1. De registratie van afgelegde kilometers, die nodig is voor de   berekening van de kilometerheffing, wordt gedaan met behulp van een   elektronische registratievoorziening.<BR><BR>§ 2. Tenzij het voertuig is   vrijgesteld van de kilometerheffing, moet de houder van het voertuig voorafgaand   aan het gebruik van elke weg ervoor zorgen dat het voertuig is uitgerust met de   elektronische registratievoorziening die aan hem ter beschikking gesteld   is.<BR><BR>Als de bestuurder niet de houder van het voertuig is, rust op hem   dezelfde verplichting als vermeld in het eerste lid.<BR><BR>§ 3. De bestuurder   ziet er tijdens elk gebruik van een weg op toe dat de elektronische   registratievoorziening, volgens de gegevens die de mens-machine-interface   aangeeft, de afstand die het voertuig aflegt registreert.<BR><BR>In het eerste   lid wordt verstaan onder mens-machine-interface : ieder onderdeel van de   elektronische registratievoorziening waarmee de elektronische   registratievoorziening en de gebruiker ervan met elkaar communiceren, met   inbegrip van, in voorkomend geval, de toetsen en het beeldscherm.<BR><BR>§ 4. De   houder van het voertuig stelt zich onmiddellijk in verbinding met de   dienstverlener in de volgende gevallen :<BR>1° als de elektronische   registratievoorziening signaleert dat het voertuig niet meer voldoet aan de bij   deze codex of de uitvoeringsbesluiten ervan bepaalde vereisten;<BR>2° als elk   signaal door de elektronische registratievoorziening ontbreekt;<BR>3° als hij   het signaal ontvangt dat het ter beschikking gestelde gegarandeerde betaalmiddel   ontoereikend is geworden.<BR><BR>Als de bestuurder niet de houder van het   voertuig is, rust op hem dezelfde verplichting als vermeld in het eerste   lid.<BR><BR>De dienstverlener geeft, waar nodig, instructies aan de bestuurder   van het voertuig, waarbij die laatste ertoe gehouden is die instructies na te   leven.<BR><BR>Voor de toepassing van dit artikel wordt verstaan onder   elektronische registratievoorziening : de elektronische boordapparatuur bestemd   voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst,   die, al dan niet met behulp van elektronische apparatuur op afstand, data   uitwisselt om te komen tot de registratie van afgelegde kilometers, alsook tot   de berekening van de kilometerheffing op die geregistreerde afstand.<BR><BR>De   Vlaamse Regering bepaalt de instructies, vermeld in het derde lid.
+§ 1. De registratie van afgelegde kilometers, die nodig is voor de berekening van de kilometerheffing, wordt gedaan met behulp van een boordapparatuur.<br>
+<br>
+§ 2. Tenzij het voertuig is vrijgesteld van de kilometerheffing, moet de houder van het voertuig voorafgaand aan het gebruik van elke weg ervoor zorgen dat het voertuig is uitgerust met de boordapparatuur die aan hem ter beschikking gesteld is.<br>
+<br>
+Als de bestuurder niet de houder van het voertuig is, rust op hem dezelfde verplichting als vermeld in het eerste lid.<br>
+<br>
+§ 3. De bestuurder ziet er tijdens elk gebruik van een weg op toe dat enkel één boordapparatuur die geschikt is voor gebruik in het tolgebied geactiveerd is en volgens de gegevens die de mens-machine-interface aangeeft, de afstand die het voertuig aflegt registreert.<br>
+<br>
+In het eerste lid wordt verstaan onder mens-machine-interface : ieder onderdeel van de boordapparatuur waarmee de boordapparatuur en degene die deze gebruikt met elkaar communiceren, met inbegrip van, in voorkomend geval, de toetsen en het beeldscherm.<br>
+<br>
+§ 4. De houder van het voertuig stelt zich onmiddellijk in verbinding met de dienstaanbieder en de hoofddienstaanbieder in de volgende gevallen :<br>
+1° als de boordapparatuur signaleert dat het voertuig niet meer voldoet aan de bij deze codex of de uitvoeringsbesluiten ervan bepaalde vereisten;<br>
+2° als elk signaal door de boordapparatuur ontbreekt;<br>
+3° als hij het signaal ontvangt dat het ter beschikking gestelde gegarandeerde betaalmiddel ontoereikend is geworden.<br>
+<br>
+Als de bestuurder niet de houder van het voertuig is, rust op hem dezelfde verplichting als vermeld in het eerste lid.<br>
+<br>
+De dienstaanbieder en de hoofddienstaanbieder geeft, waar nodig, instructies aan de bestuurder van het voertuig, waarbij die laatste ertoe gehouden is die instructies na te leven.<br>
+<br>
+Voor de toepassing van dit artikel wordt verstaan onder boordapparatuur : de elektronische boordapparatuur bestemd voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst, die, al dan niet met behulp van elektronische apparatuur op afstand, data uitwisselt om te komen tot de registratie van afgelegde kilometers, alsook tot de berekening van de kilometerheffing op die geregistreerde afstand.<br>
+<br>
+De Vlaamse Regering bepaalt de instructies, vermeld in het derde lid.
 
 ### ART 3.3.1.0.14.
 
@@ -7113,9 +7157,9 @@ Als de belastingschuldige niet de eigenaar is van het voertuig dat het voorwerp 
 
 ### ART. 3.13.2.0.5.
 
-<p>Als een overtreding van de bepalingen van deze codex&nbsp;wordt geconstateerd, zal een verslag van vaststelling worden opgemaakt door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3. Het verslag van vaststelling vermeldt minstens de overtreding alsook de elementen die moeten toelaten de overtreder te identificeren.</p>
+<p>Als een overtreding van de bepalingen van deze codex&nbsp;wordt geconstateerd, zal een verslag van vaststelling worden opgemaakt door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3. Het verslag van vaststelling vermeldt minstens de overtreding alsook de elementen die moeten toelaten de overtreder te identificeren.&nbsp;Het verslag van vaststelling voor een overtreding van de bepalingen met betrekking tot de kilometerheffing vermeldt minstens het bedrag van de administratieve boete, de aard, de datum en het uur van de gepleegde overtreding, de verwijzing naar de artikelen die werden miskend, de naam en het adres van de bevoegde entiteit van de Vlaamse administratie bij wie informatie over de inbreuk en de boete kan worden verkregen en het administratief beroep dat kan worden ingesteld samen met de termijn, alsook de elementen die moeten toelaten de houder of de bestuurder van het voertuig te identificeren.</p>
 
-<p>Na het opstellen van de verslagen van vaststelling, vermeld in het eerste lid, wordt een afschrift ervan aan de overtreder afgeleverd binnen vijftien dagen na de vaststelling van de overtreding, op straffe van verval van de bijzondere bewijswaarde van het verslag van vaststelling.</p>
+<p>Na het opstellen van de verslagen van vaststelling, vermeld in het eerste lid, wordt een afschrift ervan aan de overtreder afgeleverd binnen vijftien dagen na de vaststelling van de overtreding, op straffe van verval van de bijzondere bewijswaarde van het verslag van vaststelling.&nbsp;Na het opstellen van een verslag van vaststelling als vermeld in het eerste lid, met betrekking tot de kilometerheffing, wordt een afschrift ervan aan de houder van het voertuig of aan de bestuurder van het betrokken voertuig afgeleverd in de taal van het kentekenbewijs, als dat beschikbaar is, en in ieder geval in een officiële taal van de lidstaat van inschrijving van het voertuig, binnen vijftien dagen na de vaststelling van de overtreding, op straffe van verval van de bijzondere bewijswaarde van het verslag van vaststelling.</p>
 
 <p>De verslagen van vaststelling, vermeld in het eerste lid, opgemaakt door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, verdienen het volle geloof in rechten totdat de valsheid ervan bewezen is.<br>
 <br>
@@ -7396,23 +7440,23 @@ De administratieve geldboete, vermeld in het tweede lid, wordt berekend volgens 
 		</tr>
 		<tr>
 			<td>A</td>
-			<td>-manipulatie van de elektronische registratievoorziening;<br>
-			-vervalsing van de boorddocumenten die nodig zijn om het maximaal toegestane totaalgewicht en de euro-emissieklasse van het voertuig te bepalen;</td>
+			<td>-manipulatie van de boordapparatuur;<br>
+			-vervalsing van de voertuigdocumenten die nodig zijn om het maximaal toegestane totaalgewicht en de euro-emissieklasse van het voertuig te bepalen;</td>
 			<td>1.000</td>
 		</tr>
 		<tr>
 			<td>B</td>
-			<td>-er is geen elektronische registratievoorziening voor België aan boord van het voertuig;<br>
+			<td>-er is geen boordapparatuur voor België aan boord van het voertuig;<br>
 			-er is geen dienstverleningsovereenkomst afgesloten voor het betrokken voertuig;</td>
 			<td>800</td>
 		</tr>
 		<tr>
 			<td>C</td>
-			<td>-de elektronische registratievoorziening is niet geactiveerd;<br>
-			-de elektronische registratievoorziening aan boord van het voertuig is diegene van een ander voertuig; -gebruik van het belastbaar wegennet terwijl de dienst-verleningsovereenkomst geschorst is;<br>
-			-gebruik van het belastbaar wegennet nadat de elektronische registratievoorziening het signaal heeft ontvangen dat het ter beschikking gestelde gegarandeerde betaalmiddel ontoereikend is geworden;<br>
-			- gebruik van het belastbaar wegennet terwijl de elektronische registratievoorziening een probleem signaleert, of elk signaal door de elektronische registratievoorziening ontbreekt, zonder dat de houder van het voertuig zich onmiddellijk in verbinding stelt met de dienstverlener;<br>
-			gebruik van het belastbaar wegennet terwijl de elektronische registratievoorziening een probleem signaleert, of elk signaal door de elektronische registratievoorziening ontbreekt, nadat de houder van het voertuig zich onmiddellijk in verbinding stelt met de dienstverlener, maar zonder dat hij de gegeven instructies naleeft;</td>
+			<td>-de boordapparatuur is niet geactiveerd;<br>
+			-de boordapparatuur aan boord van het voertuig is diegene van een ander voertuig; -gebruik van het belastbaar wegennet terwijl de dienst-verleningsovereenkomst geschorst is;<br>
+			-gebruik van het belastbaar wegennet nadat de boordapparatuur het signaal heeft ontvangen dat het ter beschikking gestelde gegarandeerde betaalmiddel ontoereikend is geworden;<br>
+			- gebruik van het belastbaar wegennet terwijl de boordapparatuur een probleem signaleert, of elk signaal door de boordapparatuur ontbreekt, zonder dat de houder van het voertuig zich onmiddellijk in verbinding stelt met de dienstaanbieder of de hoofddienstaanbieder;<br>
+			gebruik van het belastbaar wegennet terwijl de boordapparatuur een probleem signaleert, of elk signaal door de boordapparatuur ontbreekt, nadat de houder van het voertuig zich onmiddellijk in verbinding stelt met de dienstaanbieder of de hoofddienstaanbieder, maar zonder dat hij de gegeven instructies naleeft;</td>
 			<td>500</td>
 		</tr>
 		<tr>
