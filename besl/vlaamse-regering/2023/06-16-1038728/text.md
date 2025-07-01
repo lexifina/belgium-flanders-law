@@ -869,6 +869,10 @@ In artikel 6.4.1/9/1, eerste lid, van hetzelfde besluit, ingevoegd bij het beslu
 1° tussen de zinsnede “vanaf 1 januari 2017” en de woorden “een aanbod inzake” wordt de zinsnede “tot een door de minister vast te stellen datum, en uiterlijk tot en met 30 juni 2024” ingevoegd;&nbsp;<br>
 2° de zin “De ondersteuning moet uiterlijk op 31 december 2025 volledig uitgevoerd zijn.” wordt toegevoegd.&nbsp;
 
+### ART 31.
+
+...
+
 ### ART 32.
 
 In artikel 6.5.1 van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 8 juli 2022, wordt tussen het woord “ondernemingen” en de woorden “met een totaal finaal energiegebruik” de zinsnede “, niet-commerciële instellingen of publiekrechtelijke rechtspersonen” ingevoegd.
@@ -1731,7 +1735,7 @@ Artikel 25, 1° en 3°, en artikel 112 treden in werking op 1 april 2024.&nbsp;<
 <br>
 Artikel 6.4.1/4, tweede lid, 1° en 2°, derde en zevende lid, van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 22 van dit besluit, artikel 7.9.2/1, §1, eerste lid, 5° en tweede en derde lid van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 66 van dit besluit, en artikel 7.9.3/1, §2, tweede lid, 3°, vijfde lid, paragraaf 4/1 van het &nbsp;Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 67 van dit besluit, hebben uitwerking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.&nbsp;<br>
 <br>
-Artikel 7.9.2/1, §1, eerste lid, 6° en vierde tot en met zevende lid van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 66 van dit besluit, en artikel 7.9.3/1, §2, tweede lid, 4°, zesde lid, en paragraaf 4/3 van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 67 van dit besluit, hebben uitwerking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.<br>
+Artikel 7.9.2/1, §1, eerste lid, 6°, van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 66 van dit besluit, en gewijzigd bij artikel 17, 2° van het besluit van 23 mei 2025, artikel 7.9.2/1, § 1, vierde tot en met zevende lid, van het Energiebesluit, zoals ingevoegd bij artikel 66 van dit besluit, en artikel 7.9.3/1, §2, tweede lid, 4°, zesde lid, en paragraaf 4/3 van het Energiebesluit van 19 november 2010, zoals ingevoegd bij artikel 67 van dit besluit, hebben uitwerking op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum.<br>
 <br>
 Artikel 12, 2° en 3°, treedt in werking op 1 juli 2024.<br>
 <br>
