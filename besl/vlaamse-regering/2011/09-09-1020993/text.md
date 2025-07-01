@@ -192,21 +192,23 @@ De opzegging moet worden gericht aan de inrichtende macht. Voor de personeelsled
 
 ### ART. 22.
 
-De personeelsleden hebben recht op ouderschapsverlof om voor hun kind te zorgen. Ze hebben daarvoor één van de volgende opties:<br>
-1° hun beroepsloopbaan volledig onderbreken in periodes van een maand of een veelvoud daarvan, met een maximumduur van vier maanden;<br>
-2° hun beroepsloopbaan halftijds onderbreken in periodes van twee maanden of een veelvoud daarvan, met een maximumduur van acht maanden;<br>
-3° hun beroepsloopbaan met een vijfde onderbreken, in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van twintig maanden;<br>
-4° hun beroepsloopbaan met een tiende onderbreken, in periodes van tien maanden of een veelvoud daarvan, met een maximumduur van veertig maanden, na akkoord van de inrichtende macht. Als de inrichtende macht weigert, deelt de inrichtende macht die gemotiveerde beslissing schriftelijk mee aan het personeelslid.<br>
+De personeelsleden hebben bij de geboorte of adoptie van hun kind of in het kader van langdurige pleegzorg recht op ouderschapsverlof om voor hun kind of voor het pleegkind te zorgen. Langdurige pleegzorg is pleegzorg waarvan bij de aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouder of dezelfde pleegouders zal verblijven.<br>
 <br>
-De personeelsleden hebben de mogelijkheid om bij het opnemen van hun ouderschapsverlof gebruik te maken van de verschillende opnamevormen, vermeld in het eerste lid. Bij een wijziging van opnamevorm wordt rekening gehouden met het principe dat één maand volledige loopbaanonderbreking overeenstemt met twee maanden halftijdse loopbaanonderbreking of met vijf maanden loopbaanonderbreking met een vijfde of met tien maanden loopbaanonderbreking met een tiende.<br>
+De personeelsleden, vermeld in het eerste lid, hebben een van de volgende opties om voor hun kind of voor het pleegkind te zorgen:<br>
+1°&nbsp;&nbsp; &nbsp;hun beroepsloopbaan volledig onderbreken in periodes van een maand of een veelvoud daarvan, met een maximumduur van vier maanden;<br>
+2°&nbsp;&nbsp; &nbsp;hun beroepsloopbaan halftijds onderbreken in periodes van twee maanden of een veelvoud daarvan, met een maximumduur van acht maanden;<br>
+3°&nbsp;&nbsp; &nbsp;hun beroepsloopbaan met een vijfde onderbreken, in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van twintig maanden;<br>
+4°&nbsp;&nbsp; &nbsp;hun beroepsloopbaan met een tiende onderbreken, in periodes van tien maanden of een veelvoud daarvan, met een maximumduur van veertig maanden, na akkoord van de inrichtende macht. Als de inrichtende macht weigert, deelt de inrichtende macht die gemotiveerde beslissing schriftelijk mee aan het personeelslid.<br>
+<br>
+De personeelsleden hebben de mogelijkheid om bij het opnemen van hun ouderschapsverlof gebruik te maken van de verschillende opnamevormen, vermeld in het tweede lid. Bij een wijziging van opnamevorm wordt rekening gehouden met het principe dat één maand volledige loopbaanonderbreking overeenstemt met twee maanden halftijdse loopbaanonderbreking of met vijf maanden loopbaanonderbreking met een vijfde of met tien maanden loopbaanonderbreking met een tiende.<br>
 <br>
 Als een periode van loopbaanonderbreking voor ouderschapsverlof eindigt binnen een periode van zeven kalenderdagen voor een herfst-, kerst-, krokus- of paasvakantie of eindigt gedurende een herfst-, kerst-, krokus- of paasvakantie, en het personeelslid neemt een nieuwe periode van loopbaanonderbreking voor ouderschapsverlof gedurende diezelfde vakantie of binnen een periode van 7 kalenderdagen na diezelfde vakantie, dan wordt de tussenliggende vakantieperiode of een deel ervan, beschouwd als een afwezigheid voor verminderde prestaties. In dat geval mag de duur van de afwezigheid voor verminderde prestaties van zestig maanden overschreden worden waarop het betrokken personeelslid aanspraak kan maken krachtens de reglementaire bepalingen die van toepassing zijn op dat personeelslid. Met behoud van de berekeningswijze van de geldelijke anciënniteit voor tijdelijke personeelsleden met het recht op uitgestelde bezoldiging, komen de voormelde dagen wel in aanmerking voor de berekening van de geldelijke anciënniteit en worden ze niet meegerekend om de duur te bepalen van de periode van afwezigheid voor verminderde prestaties waarop het personeelslid nog recht heeft.
 
 ### ART 22/1.
 
-In afwijking van artikel 22, eerste lid, 1°, kan de periode van vier maanden, na akkoord van de inrichtende macht van de instelling of instellingen of het centrum of de centra waar hij werkt, volledig of gedeeltelijk worden opgesplitst in periodes van een week of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in weken, het resterende gedeelte minder dan vier weken bedraagt, heeft het personeelslid het recht om dat saldo zonder akkoord van de inrichtende macht op te nemen.<br>
+In afwijking van artikel 22, tweede lid, 1°, kan de periode van vier maanden, na akkoord van de inrichtende macht van de instelling of instellingen of het centrum of de centra waar hij werkt, volledig of gedeeltelijk worden opgesplitst in periodes van een week of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in weken, het resterende gedeelte minder dan vier weken bedraagt, heeft het personeelslid het recht om dat saldo zonder akkoord van de inrichtende macht op te nemen.<br>
 <br>
-In afwijking van artikel 22, eerste lid, 2°, kan de periode van acht maanden, na akkoord van de inrichtende macht volledig of gedeeltelijk worden opgesplitst in periodes van een maand of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in maanden, het resterende gedeelte een maand bedraagt, heeft het personeelslid het recht om dat saldo zonder akkoord van de inrichtende macht op te nemen.
+In afwijking van artikel 22, tweede lid, 2°, kan de periode van acht maanden, na akkoord van de inrichtende macht volledig of gedeeltelijk worden opgesplitst in periodes van een maand of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid. Als in geval van een gedeeltelijke opsplitsing in maanden, het resterende gedeelte een maand bedraagt, heeft het personeelslid het recht om dat saldo zonder akkoord van de inrichtende macht op te nemen.
 
 ### ART. 23.
 
@@ -226,21 +228,23 @@ In afwijking van artikel 22, eerste lid, 2°, kan de periode van acht maanden, n
 
 Het personeelslid heeft recht op het ouderschapsverlof :<br>
 1° vanaf de geboorte van zijn kind tot op de vooravond van de dag waarop het kind twaalf jaar wordt;<br>
-2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, uiterlijk tot op de vooravond van de dag waarop het kind twaalf jaar wordt.<br>
+2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, uiterlijk tot op de vooravond van de dag waarop het kind twaalf jaar wordt;<br>
+3° in het kader van langdurige pleegzorg, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van het gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, uiterlijk tot op de vooravond van de dag waarop het kind twaalf jaar wordt. Het personeelslid kan dit recht uitoefenen voor zover en zo lang het betrokken kind bij hem geplaatst is in het kader van langdurige pleegzorg.<br>
 <br>
 Wanneer het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag, of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag,&nbsp;geldt de leeftijdsgrens van 21 jaar in plaats van 12 jaar.<br>
 &nbsp;
 
 ### ART. 25.
 
-Het personeelslid dat zijn loopbaan wil onderbreken om voor zijn kind te zorgen in het kader van ouderschapsverlof, deelt dat mee aan de inrichtende macht van de instelling(en) of het/de centr(um)(a) waar hij werkt, met uitzondering van de personeelsleden van de inspectie, die dat meedelen aan de Vlaamse Regering. Bij die mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld.<br>
+Het personeelslid dat zijn loopbaan wil onderbreken om voor zijn kind of voor het pleegkind te zorgen in het kader van ouderschapsverlof, deelt dat mee aan de inrichtende macht van de instelling(en) of het/de centr(um)(a) waar hij werkt, met uitzondering van de personeelsleden van de inspectie, die dat meedelen aan de Vlaamse Regering. Bij die mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld.<br>
 <br>
 Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof ingaat, naar gelang van het geval, de volgende bewijsstukken :<br>
 1° ...<br>
 2° een attest waaruit de adoptie blijkt;<br>
-3° een attest waaruit blijkt dat het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag , of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag.<br>
+3° een attest waaruit blijkt dat het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag , of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag;<br>
+4° een attest waaruit de langdurige pleegzorg blijkt.<br>
 <br>
-Bij de documenten, vermeld in het tweede lid,&nbsp;2°, moet altijd een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
+Bij de documenten, vermeld in het tweede lid,&nbsp;2° en 4°, moet altijd een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
 &nbsp;
 
 ### ART 25/1.
