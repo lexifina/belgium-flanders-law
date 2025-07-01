@@ -18,6 +18,26 @@ In titel II, hoofdstuk III, van hetzelfde decreet, het laatst gewijzigd bij het 
 <br>
 “Afdeling 11. Mandaat van leraar-specialist”.
 
+### ART 21.
+
+In artikel 85, §2, zesde lid, 2°, en zevende lid, van hetzelfde decreet, ingevoegd bij het decreet van 16 maart 2018, worden de woorden “diploma secundair onderwijs” vervangen door de zinsnede “diploma secundair onderwijs of diploma secundair onderwijs, onderwijskwalificatie niveau 4”.
+
+### ART 22.
+
+In artikel 87, §2bis, zesde lid, 1°, en zevende lid, van hetzelfde decreet, ingevoegd bij het decreet van 16 maart 2018, worden de woorden “diploma secundair onderwijs” vervangen door de zinsnede “diploma secundair onderwijs of diploma secundair onderwijs, onderwijskwalificatie niveau 4”.
+
+### ART 23.
+
+In artikel 98, §2, twaalfde lid, 2°, en dertiende lid, van hetzelfde decreet, vervangen bij het decreet van 16 maart 2018, worden de woorden “diploma secundair onderwijs” vervangen door de zinsnede “diploma secundair onderwijs of diploma secundair onderwijs, onderwijskwalificatie niveau 4”.
+
+### ART 25.
+
+In artikel 105, §3bis, twaalfde lid, 2°, en dertiende lid, van hetzelfde decreet, ingevoegd bij het decreet van 16 maart 2018 worden de woorden “diploma secundair onderwijs” vervangen door de zinsnede “diploma secundair onderwijs of diploma secundair onderwijs, onderwijskwalificatie niveau 4”.
+
+### ART 26.
+
+In artikel 113novies, §4, eerste lid, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 16 maart 2018 en gewijzigd bij het decreet van 9 juli 2021, worden de woorden “diploma van het secundair onderwijs” vervangen door de zinsnede “diploma secundair onderwijs of diploma secundair onderwijs, onderwijskwalificatie niveau 4”.
+
 ### ART 67.
 
 Aan artikel 27, §2, eerste lid, van het decreet Rechtspositie Basiseducatie van 7 juli 2017, ingevoegd bij het decreet van 19 april 2024, wordt de volgende zin toegevoegd:<br>
