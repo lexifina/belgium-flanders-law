@@ -1645,16 +1645,12 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 
 ### BIJLAGE 4
 
-Bijlage 4. Concordantietabellen<br>
+Concordantietabellen<br>
 <br>
 <strong>VOLTIJDS SECUNDAIR ONDERWIJS 3<sup>DE</sup> GRAAD</strong><br>
 <br>
-<strong>Daar waar in het kader van de modernisering concordantie van een bestaand structuuronderdeel keuzemogelijkheden naar meerdere structuuronderdelen voorziet, kan een school slechts √©√©n structuuronderdeel kiezen. Dit kan onder meer inhouden dat een keuze moet worden gemaakt tussen finaliteit waarnaar wordt geconcordeerd of dat een keuze moet worden gemaakt tussen structuuronderdeel eerste + tweede leerjaar derde graad dan wel structuuronderdeel derde graad 7<sup>de</sup> leerjaar waarnaar wordt geconcordeerd. Concordantie kan dus nooit tot uitbreiding van het studieaanbod leiden.</strong><br>
+<strong>Daar waar in het kader van de modernisering concordantie van een bestaand structuuronderdeel keuzemogelijkheden naar meerdere structuuronderdelen voorziet, kan een school slechts √©√©n structuuronderdeel kiezen. Concordantie kan dus nooit tot uitbreiding van het studieaanbod leiden.</strong><br>
 <strong>Uitzondering op dit laatste (in aantal benamingen van structuuronderdelen uitgedrukt) is de situatie voor het experiment modulair in BSO waar concordantie van een bestaand structuuronderdeel dat niet in een graad is ondergebracht er zal toe leiden dat in het kader van de modernisering de benaming van het structuuronderdeel per graad verschilt. De concordantie gebeurt immers afzonderlijk voor de tweede graad, voor de derde graad (eerste en tweede leerjaar) en voor de derde graad 7<sup>de</sup> leerjaar. Concordantie impliceert dat het structuuronderdeel niet meer experimenteel modulair is en wordt omgezet naar een structuur die w√©l uit graden bestaat.</strong><br>
-<br>
-Extra verduidelijking m.b.t. het huidig aanbod:<br>
-De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚Äú7de leerjaar‚Äù of ‚Äú7de leerjaren‚Äù al naargelang het geval. Voor de voorbereidende leerjaren hoger onderwijs, het naamloos leerjaar en de specialisatiejaren wordt aan deze benaming ook de finaliteit toegevoegd. Zo heet een voorbereidend jaar op het hoger onderwijs of het naamloos leerjaar vanaf volgend schooljaar een ‚Äú7<em>de</em> leerjaar gericht op het hoger onderwijs‚Äù. Een specialisatiejaar (bso) wordt een ‚Äú7de leerjaar gericht op instroom arbeidsmarkt‚Äù.<br>
-<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:983px">
 	<tbody>
@@ -1676,292 +1672,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<em>(*) Niche-structuuronderdeel</em></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Economie-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Economie-moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Economie-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Economie-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Economie-moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Economie-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Economie-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Economie-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Wetenschappen-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Economie-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Economie-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-Latijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Grieks-Latijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Grieks-Latijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Latijn-moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Grieks-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Latijn-wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grieks-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Grieks-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Humane wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Humane wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Latijn-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Latijn-moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Latijn-moderne talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Latijn-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Latijn-wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Latijn-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Latijn-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen-wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderne talen-wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Wetenschappen-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Rudolf Steinerpedagogie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Rudolf Steinerpedagogie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Wetenschappen-wiskunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Wetenschappen-wiskunde</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Algemeen secundair onderwijs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Yeshiva</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Yeshiva</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:51px; width:95px">Algemeen secundair onderwijs</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:47px">aso</td>
@@ -1970,17 +1680,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:161px">Na OK4</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:193px">Bijzondere wetenschappelijke vorming na structuuronderdeel met dubbele finaliteit en doorstroomfinaliteit (onderwijskwalificatie 4)</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Autotechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Autotechnieken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
@@ -2004,126 +1703,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Polyvalent mecanicien zware bedrijfsvoertuigen</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Onderhoudsmechanica auto</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Carrosserie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Koetswerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Tweewielers en lichte verbrandingsmotoren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Brom- en motorfietsinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Tweewielers en lichte verbrandingsmotoren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Fietsinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Tweewielers en lichte verbrandingsmotoren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mecanicien tuin-, park- en bosmachines</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Vrachtwagenchauffeur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Vrachtwagenchauffeur (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Hulpmecanicien personen- en lichte bedrijfswagens</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Onderhoudsmechanica auto</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Koetswerkhersteller</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koetswerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Koetswerkhersteller specialiteit cartuning en lettering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koetswerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Mecanicien personen- en lichte bedrijfswagens</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Onderhoudsmechanica auto</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Plaatwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koetswerk</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
@@ -2139,53 +1718,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technicus personen- en lichte bedrijfswagens</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Onderhoudsmechanica auto</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technicus personen- en lichte bedrijfswagens</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Autotechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technicus personen- en lichte bedrijfswagens</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technicus personen- en lichte bedrijfswagens specialiteit LPG</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Onderhoudsmechanica auto</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technicus personen- en lichte bedrijfswagens specialiteit LPG</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Autotechnieken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Auto</td>
@@ -2306,171 +1841,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Polyvalent technieker havenvoertuigen (*)</em></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Ballet</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ballet</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Ballet (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Ballet</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Modern ballet</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Ballet (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Architecturale en binnenhuiskunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Architectuur en Interieur (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Architecturale vorming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Architecturale vorming (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Artistieke opleiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beeldende kunst (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Artistieke opleiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Artistieke opleiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Goud en juwelen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Audiovisuele vorming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Audiovisuele vorming (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Beeldende vorming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beeldende vorming (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le kunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Architecturale vorming (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le kunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beeldende vorming (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le kunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Architectuur en interieur (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le kunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beeldende kunst (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Toegepaste beeldende kunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beeldende kunst (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Vrije beeldende kunst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beeldende kunst (*)</em></td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
@@ -2492,7 +1862,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Beeldende kunsten</td>
@@ -2550,61 +1920,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouw- en houtkunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bouw- en houtwetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouw- en houtkunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bouwtechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouw- en houtkunde</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Houttechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouwtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bouw- en houtwetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouwtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bouwtechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouw constructie- en planningstechnieken</td>
@@ -2625,195 +1940,14 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Bouwplaatsmachinist</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bouwplaatsmachinist</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Duurzaam wonen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Afwerking bouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Duurzaam wonen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Binnen- en buitenschrijnwerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Duurzaam wonen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Binnenschrijnwerk en interieur</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Duurzaam wonen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Decoratie en schilderwerken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Duurzaam wonen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Ruwbouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Duurzaam wonen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Schrijnwerker houtbouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ruwbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Ruwbouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ruwbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">IJzervlechter en bekister-betonneerder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ruwbouwafwerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Afwerking bouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ruwbouwafwerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Stukadoor</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ruwbouwafwerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Vloerder-tegelzetter</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Ruwbouwafwerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Restauratievakman pleister- en stucwerk (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Schilderwerk en decoratie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Decoratie en schilderwerken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Schilderwerk en decoratie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Fijnschilder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Steen- en marmerbewerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Natuursteenbewerker</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Metselaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Bouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Metselaar</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Ruwbouw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Renovatievakman ruwbouw</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
@@ -2831,21 +1965,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Metselaar siermetselwerk</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Bouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Metselaar siermetselwerk</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Ruwbouw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Renovatievakman ruwbouw</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
@@ -2856,28 +1978,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Restauratievakman metselwerk (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Vloerder-tegelzetter</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Bouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Vloerder-tegelzetter</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Afwerking bouw</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
@@ -2888,28 +1988,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Vloerder-tegelzetter</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Werfbediener ruwbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Bouw</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Bouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Werfbediener ruwbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Ruwbouw</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
@@ -3036,6 +2114,16 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Renovatievakman ruwbouw</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Bouw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Renovatie bouw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Stukadoor</td>
 		</tr>
 		<tr>
@@ -3140,82 +2228,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische STEM-wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische technieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Farmaceutisch-technisch assistent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische technieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Farmaceutisch-technisch assistent</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Farmaceutisch technisch assistent</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Techniek-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische STEM-wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Techniek-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technologische wetenschappen en engineering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Techniek-wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische technieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Chemie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Apotheekassistent</td>
@@ -3257,72 +2269,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Water- en luchtbeheersingstechnieken</td>
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Etalage en standendecoratie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Publiciteitsgrafiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Publiciteitsgrafiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Publiciteitsgrafiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Publiciteitsgrafiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Publiciteitsgrafiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Grafimedia (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Decoratieve technieken</td>
@@ -3415,245 +2361,11 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia voorbereider - assistent vormgever in de printmedia (*)</em></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Fotografie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Fotografie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Fotografie (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Glas-technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Glastechnieken</td>
-			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Glas-technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Glasinstrumentenbouw</td>
-			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Glas-technieken</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Labo-glasinstrumentenbouw</td>
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Grafische communicatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Informatica- en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Grafische communicatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Grafische communicatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Grafische communicatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Grafische communicatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Grafische communicatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Informatica- en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Multimedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Taal en Communicatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Printmedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Printmedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Printmedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Printmedia</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Printmedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Printmedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Printmedia</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3673,7 +2385,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3693,7 +2405,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3733,7 +2445,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3773,7 +2485,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3804,114 +2516,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia voorbereider - assistent vormgever in de printmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukken en afwerken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Printmedia</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukken en afwerken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukken en afwerken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Operator stansmachine in de papier- en kartonbewerkende industrie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukken en afwerken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Operator vouw-plakmachine in de papier- en kartonbewerkende industrie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukvoorbereiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukvoorbereiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukvoorbereiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Printmedia</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukvoorbereiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukvoorbereiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Grafimedia (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Drukvoorbereiding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Decor, etalage en publiciteit (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3941,7 +2545,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -3981,7 +2585,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in </em><em>interactieve producties</em><em> (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Crossmedia assistent in interactieve producties (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Grafische communicatie en media</td>
@@ -4202,215 +2806,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Rotatiedrukker</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Boekhouden-informatica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfsondersteunende informaticawetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Boekhouden-informatica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfswetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Boekhouden-informatica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Informatica- en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Boekhouden-informatica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Boekhouden-informatica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfsorganisatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Boekhouden-informatica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfsondersteunende informaticawetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfswetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfsorganisatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Commerci√´le organisatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Internationale handel en logistiek</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Informaticabeheer</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfsondersteunende informaticawetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Informaticabeheer</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Informatica- en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Informaticabeheer</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Informaticabeheer</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Secretariaat-talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Taal en communicatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Secretariaat-talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Taal en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Secretariaat-talen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfswetenschappen</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
@@ -4702,72 +3097,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kantoor</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Logistiek</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kantoor</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Onthaal, organisatie en sales</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kantoor</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bedrijfsorganisatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Verkoop</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Logistiek</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Verkoop</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Onthaal, organisatie en sales</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Verkoop</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Commerci√´le organisatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Handel</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kantooradministratie en gegevensbeheer</td>
@@ -4937,98 +3266,10 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Houttechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Houtechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Hout</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hout constructie- en planningstechnieken</td>
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Houtbewerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Binnen- en buitenschrijnwerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Houtbewerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Binnenschrijnwerk en interieur</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Houtbewerking-snijwerk</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Binnen- en buitenschrijnwerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Houtbewerking-snijwerk</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Binnenschrijnwerk en interieur</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Binnenschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Hout</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Binnenschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnen- en buitenschrijnwerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Binnenschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnenschrijnwerk en interieur</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
@@ -5049,28 +3290,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Trappenmaker</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Buitenschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Hout</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Buitenschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnen- en buitenschrijnwerk</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
@@ -5101,72 +3320,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Buitenschrijnwerker kunststoffen/PVC</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Machinaal houtbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Hout</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Machinaal houtbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnen- en buitenschrijnwerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Machinaal houtbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnenschrijnwerk en interieur</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Werkplaatsschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Hout</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Werkplaatsschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnen- en buitenschrijnwerk</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Werkplaatsschrijnwerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Binnenschrijnwerk en interieur</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Hout</td>
@@ -5486,48 +3639,15 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Meubelmaker</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Juwelen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Diamantbewerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Diamantbewerking (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Juwelen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Goud en juwelen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Goud en juwelen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Juwelen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Uurwerkmaken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Uurwerkmaken (*)</em></td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Juwelen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Geautomatiseerde diamantbewerking en<br>
 			kwaliteitsanalyse</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Kunst en creatie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Geautomatiseerde diamantbewerking en kwaliteitsanalist (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Diamantbewerker fantasieslijpen (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Juwelen</td>
@@ -5551,27 +3671,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Koel- en warmtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Koel- en warmtetechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Koel- en warmtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technicus hernieuwbare energietechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Koeling en warmte</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le koeltechnieken</td>
@@ -5583,61 +3682,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le warmtetechnieken</td>
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Centrale verwarming en sanitaire installaties</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Sanitaire en verwarmingsinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Koelinstallaties</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Koelinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Koelmonteur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koelinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Koeltechnieker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koelinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Koeltechnieker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koel- en warmtetechnieken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
@@ -5655,42 +3699,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Loodgieter</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Sanitaire en verwarmingsinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Loodgieter</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Technicus installatietechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Monteur centrale verwarming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Sanitaire en verwarmingsinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technieker centrale verwarming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koel- en warmtetechnieken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
@@ -5701,17 +3712,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Technicus hernieuwbare energietechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technieker centrale verwarming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Sanitaire en verwarmingsinstallaties</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
@@ -5739,42 +3739,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technieker klimatisatie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koel- en warmtetechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technieker klimatisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Technicus hernieuwbare energietechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technieker klimatisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Koelinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Technieker klimatisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Sanitaire en verwarmingsinstallaties</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Koeling en warmte</td>
@@ -5877,93 +3844,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Biotechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische wetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Dier- en landbouwtechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Agrotechnieken dier</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Dier- en landbouwtechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Dierenverzorgingstechnieken (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Natuur- en groentechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Natuur- en groentechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Natuur- en groentechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Tuinaanleg en -beheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px"><a name="_Hlk8361785">Land- en tuinbouw</a></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Natuur- en groentechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Natuurbeheerder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Planttechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Agrotechnieken plant</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Planttechnische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Tuinaanleg en -beheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Agro- en groenbeheer</td>
@@ -6024,94 +3904,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Dierenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Dierenzorg (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Dierenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Dierenverzorgingstechnieken (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Groendecoratie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Groendecoratie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Landbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Dier en milieu</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Landbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Plant en milieu</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Paardrijden en -verzorgen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Paardenhouderij (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Tuinbouw en groenvoorziening</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Plant en milieu</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Tuinbouw en groenvoorziening</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Groenaanleg en -beheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px"><a name="_Hlk8361923">Land- en tuinbouw</a></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Agromanagement</td>
@@ -6254,38 +4046,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Lichaams-verzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Schoonheidsverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Wellness en schoonheid</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Lichaams-verzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Schoonheidsverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Schoonheidsverzorging</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Lichaams-verzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Schoonheidsverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Schoonheidsspecialist-adviseur</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Lichaams-verzorging</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Esthetische lichaamsverzorging</td>
@@ -6306,17 +4066,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Lichaams-verzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Haarzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Haarverzorging</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Lichaams-verzorging</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Haarstilist</td>
@@ -6327,17 +4076,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maatschap-pelijke veiligheid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Defensie en veiligheid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Defensie en veiligheid (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maatschap-pelijke veiligheid</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Integrale veiligheid</td>
@@ -6377,72 +4115,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Integrale veiligheid (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Maritieme technieken Dek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Maritieme technieken dek (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Maritieme technieken Motoren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Maritieme technieken motoren (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Maritieme vorming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Zeevaart (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Maritieme vorming</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Zeevisserij (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Rijn- en binnenvaart</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Binnenvaart en beperkte kustvaart (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Rijn- en binnenvaart</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Binnenvaarttechnieken (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Maritieme opleidingen</td>
@@ -6493,334 +4165,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Aspirant-stuurman kustvaart en zeevisserij (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mechatronica</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Informatica- en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technologische wetenschappen en engineering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektronicatechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektrotechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Industri√´le ICT</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektriciteit-elektronica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Datacommunicatie- en netwerkinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektrische installatietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektrische installatietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektrotechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektrische installatietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Datacommunicatie- en netwerkinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektrische installatietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technicus hernieuwbare energietechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektromechanica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektromechanische technieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektromechanica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mechatronica</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektromechanica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technologische wetenschappen en engineering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektronische installatietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektrotechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektronische installatietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektronicatechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le ICT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Informatica- en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le ICT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technologische wetenschappen en engineering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le ICT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Applicatie- en databeheer</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le ICT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Industri√´le ICT</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le ICT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Datacommunicatie- en netwerkinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Industri√´le wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technologische wetenschappen en engineering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kunststoftechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mechanische vormgevingstechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Mechanische vormgevingstechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mechanische vormgevingstechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Podiumtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Podiuminstallaties (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Podiumtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Podiumtechnicus (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Podiumtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Podiumtechnieken (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Vliegtuigtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektronicatechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Vliegtuigtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Vliegtuigtechnieken (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
@@ -7027,7 +4371,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Installateur gebouwenautomatisering</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Technicus gebouwenautomatisering en energiemanagement</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
@@ -7070,105 +4414,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Vliegtuigtechnieker B2 (*)</em></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektrische installaties</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Datacommunicatie- en netwerkinstallaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Elektrische installaties</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Elektrische installaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kunststofverwerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mechanische vormgeving</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Kunststofverwerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Productie-industrie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Lassen-constructie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Lassen-constructie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Mechanisch onderhoud</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Preventief onderhoud machines en installaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Productieoperator</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Productie-industrie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Werktuigmachines</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Mechanische vormgeving</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">BMBE-lasser</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
@@ -7177,17 +4422,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lasser-monteerder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Buisfitter</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
@@ -7205,42 +4439,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Hoeklasser</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Hoeklasser</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lasser-monteerder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Industrieel elektrotechnisch installateur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektriciteit</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Industrieel elektrotechnisch installateur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektrische installaties</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
@@ -7268,28 +4469,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Installateur domotica</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektriciteit</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Installateur domotica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektrische installaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Installateur domotica</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektrotechnicus</td>
@@ -7302,18 +4481,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Installateur gebouwenautomatisering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Lasser monteerder</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Technicus gebouwenautomatisering en energiemanagement</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
@@ -7331,31 +4499,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Lasser monteerder BMBE</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Lasser monteerder BMBE</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lasser-monteerder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Lasser monteerder MIG/MAG</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
@@ -7373,53 +4519,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">MIG/MAG-lasser</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">MIG/MAG-lasser</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lasser-monteerder</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Onderhoudselektricien</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektriciteit</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Onderhoudselektricien</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektrische installaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Onderhoudselektricien</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Preventief onderhoud machines en installaties</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
@@ -7447,17 +4549,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Plaatlasser</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Plaatlasser</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lasser-monteerder</td>
@@ -7468,42 +4559,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Residentieel elektrotechnisch installateur</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektriciteit</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Residentieel elektrotechnisch installateur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektrische installaties</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Residentieel elektrotechnisch installateur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Elektrotechnicus</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">TIG-lasser</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Lassen-constructie</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mechanica-elektriciteit</td>
@@ -7664,28 +4722,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Pijpfitter-fabriceur</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mode</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Creatie en mode</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Mode (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mode</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Creatie en mode</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Mode (*)</em></td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Mode</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">tso</td>
@@ -7704,17 +4740,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK4</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px"><em>Ontwikkelaar patronen kleding- en confectieartikelen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mode</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderealisatie en -verkoop</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Moderealisatie</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mode</td>
@@ -7744,17 +4769,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Ontwikkelaar prototypes mode</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Muziek-instrumentenbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Muziekinstrumentenbouw</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Muziekinstrumentenbouw (*)</em></td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Muziek-instrumentenbouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
@@ -7776,27 +4790,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Optiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Optiektechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Optiektechnieken (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Optiek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Optiektechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Opticien (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Optiek</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Contactologie-optometrie</td>
@@ -7807,119 +4800,10 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Ortho-pedische technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Orthopedietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Orthopedietechnieken (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Ortho-pedische technieken</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Orthopedische instrumenten</td>
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Gezondheids- en welzijnswetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Welzijnswetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Gezondheids- en welzijnswetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Opvoeding en begeleiding</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Gezondheids- en welzijnswetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Gezondheidszorg</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Jeugd- en gehandicaptenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Welzijnswetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Jeugd- en gehandicaptenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Opvoeding en begeleiding</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Jeugd- en gehandicaptenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Persoonsbegeleider</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Sociale en technische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Welzijnswetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Sociale en technische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Gezondheidszorg</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Sociale en technische wetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Opvoeding en begeleiding</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
@@ -7969,83 +4853,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Organisatiehulp</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Assistentie in wonen, zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Organisatiehulp</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Basiszorg en ondersteuning</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Verzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Assistentie in wonen, zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Verzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Basiszorg en ondersteuning</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Begeleider in de kinderopvang</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Begeleider in de kinderopvang</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Assistentie in wonen, zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Begeleider in de kinderopvang</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Basiszorg en ondersteuning</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
@@ -8061,39 +4868,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Logistiek assistent in ziekenhuizen en zorginstellingen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Logistiek assistent in ziekenhuizen en zorginstellingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Assistentie in wonen, zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Logistiek assistent in ziekenhuizen en zorginstellingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Basiszorg en ondersteuning</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Logistiek assistent in ziekenhuizen en zorginstellingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Verzorgende/Zorgkundige</td>
@@ -8104,75 +4878,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Thuis- en bejaardenzorg/zorgkundige</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Thuis- en bejaardenzorg/zorgkundige</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Assistentie in wonen, zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Thuis- en bejaardenzorg/zorgkundige</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Basiszorg en ondersteuning</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Thuis- en bejaardenzorg/zorgkundige</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Verzorgende/Zorgkundige</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Verzorgende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">2de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Verzorgende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Assistentie in wonen, zorg en welzijn</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:102px">Experiment modularisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:198px">Verzorgende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:193px">Basiszorg en ondersteuning</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:34px; width:95px">Personenzorg</td>
@@ -8227,39 +4935,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Verzorgende/Zorgkundige</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Podium-kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Dans</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Dans (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Podium-kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Muziek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Muziek (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Podium-kunsten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Woordkunst-drama</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Kunst en creatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">kso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Woordkunst-Drama (*)</em></td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:51px; width:95px">Podium-kunsten</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:51px; width:47px">kso</td>
@@ -8291,127 +4966,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Economie (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Wetenschappen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Moderne talen-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Bedrijfswetenschappen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Sportwetenschappen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Sportwetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Wetenschappen-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Wetenschappen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Wiskunde-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Economie (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Wiskunde-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Overschrijdend</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Wetenschappen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">aso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Wiskunde-topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport-Bedrijfswetenschappen (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Lichamelijke opvoeding en sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Sportbegeleiding</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Lichamelijke opvoeding en sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Beweging en sport (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Topsport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport (Dubbele finaliteit) (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Sportclub- en fitnessbegeleider</td>
@@ -8422,32 +4976,10 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Topsport-sportinitiatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Sport</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Topsport (Finaliteit arbeidsmarkt) (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Sport</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Topsport-sportbegeleider</td>
 			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Tand-technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Tandtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Dentaaltechnieken (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Tand-technieken</td>
@@ -8458,39 +4990,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK4</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Dentaaltechnicus (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Textiel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Textiel- en chemische technieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Textielproductietechnieken (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Textiel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Textiel- en designtechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Textielontwerp en prototyping (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Textiel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Textielproduktietechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Textielproductietechnieken (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Textiel</td>
@@ -8514,17 +5013,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Textiel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Textiel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Textiel (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Textiel</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Instellen van textielmachines</td>
@@ -8532,127 +5020,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Productieoperator textielproductielijn (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Taal en communicatiewetenschappen</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Commerci√´le organisatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Taal en communicatie</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Onthaal, organisatie en sales</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en public relations</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Onthaal en recreatie (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
@@ -8683,17 +5050,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Onthaal en recreatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Onthaal en recreatie (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Toerisme</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Gespecialiseerd recreatiemedewerker</td>
@@ -8711,104 +5067,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Host (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Brood en banket</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Bakkerijtechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hospitality</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hospitality</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hospitality</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Toerisme</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hospitality</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Onthaal en recreatie (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hospitality</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Taal en cultuur</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px"><em>Host (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Hotel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Horeca</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Slagerij en vleeswaren</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Slagerij-Traiteurtechnieken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Voedingstechnieken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Doorstroom</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">tso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Biotechnologische en chemische wetenschappen</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
@@ -8888,110 +5146,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Slager-charcutier</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Brood- en banketbakkerij en confiserie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Brood- en banketbakkerij</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Brood- en banketbakkerij en confiserie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Chocolatier</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Brood- en banketbakkerij en confiserie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">IJsbereider</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Brood- en banketbakkerij en confiserie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Suiker- en marsepeinbewerker</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Grootkeuken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Grootkeuken en catering</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Restaurant en keuken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Restaurant en keuken</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Slagerij en verkoopsklare gerechten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">3de</td>
-			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:85px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Slagerij</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Slagerij en verkoopsklare gerechten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Culinair slager</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Slagerij en verkoopsklare gerechten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Gespecialiseerd verkoper slagerij</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Slagerij en verkoopsklare gerechten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Wild- en gevogelteslager</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
@@ -9082,24 +5236,17 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
 			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">IJsbereider</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Banketbakkerij-chocoladebewerking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
-			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Suiker- en marsepeinbewerker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Kwaliteits- en procesverantwoordelijke (banket)bakkerij</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:102px">7<sup>de</sup> leerjaar</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:47px">bso</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:198px">Dieetbakkerij</td>
-			<td colspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:541px">Schrappen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:83px">7<sup>de</sup> leerjaar</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:161px">Na OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:193px">Kwaliteits- en procesverantwoordelijke (banket)bakkerij</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Voeding</td>
@@ -9307,10 +5454,9 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 </table>
 <br>
 <br>
-<br>
 <strong>Stelsel van leren en werken</strong><br>
 <br>
-<strong>Elke opleiding van het stelsel van leren en werken wordt, indien van toepassing, naar afzonderlijke structuuronderdelen duaal voor de 2<sup>de</sup> graad, voor de 3<sup>de</sup> graad en voor 7<sup>de</sup> leerjaar uit de matrix geconcordeerd. Concordantie impliceert de omzetting van leren en werken naar duaal leren. Aangezien er binnen de huidige organisatie van het stelsel van leren en werken geen opdeling in graden bestaat zal dat in het kader van de modernisering er toe leiden dat de benaming van de structuuronderdelen per graad in de toekomst zal verschillen. De concordantie gebeurt dan ook afzonderlijk voor de tweede graad, voor de derde graad (eerste en tweede leerjaar) en voor de derde graad 7<sup>de</sup> leerjaar. Elke desbetreffende concordantie naar een structuuronderdeel duaal impliceert tevens de concordantie naar het, in voorkomend geval, overeenstemmend aanloopstructuuronderdeel duaal in de tweede graad finaliteit arbeidsmarkt en de derde graad (eerste en tweede leerjaar) finaliteit arbeidsmarkt.</strong><strong> </strong><br>
+<strong>Elke opleiding van het stelsel van leren en werken wordt, indien van toepassing, naar afzonderlijke structuuronderdelen duaal voor de 2<sup>de</sup> graad, voor de 3<sup>de</sup> graad en voor 7<sup>de</sup> leerjaar uit de matrix geconcordeerd. Concordantie impliceert de omzetting van leren en werken naar duaal leren. Aangezien er binnen de huidige organisatie van het stelsel van leren en werken geen opdeling in graden bestaat zal dat in het kader van de modernisering er toe leiden dat de benaming van de structuuronderdelen per graad in de toekomst zal verschillen. De concordantie gebeurt dan ook afzonderlijk voor de tweede graad, voor de derde graad (eerste en tweede leerjaar) en voor de derde graad 7<sup>de</sup> leerjaar.</strong><br>
 <br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:954px">
@@ -9415,54 +5561,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Tuinaanlegger-groenbeheerder duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Medewerker textielverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Medewerker textielverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Operator textielverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Operator textielverzorging</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker industrie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker industrie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch (BK)</td>
@@ -9674,22 +5772,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Assistent productieoperator voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Assistent productieoperator voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Bandenmonteur</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -9735,22 +5817,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Chocolatier duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Basisoperator proceschemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Basisoperator proceschemie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -10255,22 +6321,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Dekvloerlegger</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker tegelzetwerken en dekvloeren duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Dekvloerlegger</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Afwerking bouw duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Demonteur/monteur carrosserie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -10422,7 +6472,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Grootkeukenkok duaal</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px"><a name="_Hlk8859101">Alfabetisch</a></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Hoeknaadlasser</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -10444,22 +6494,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Lasser-monteerder duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Hulpkelner</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Hulpkelner duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Hulpkelner</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Restaurant en keuken duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -10545,62 +6579,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Elektrotechnicus duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel maaltijdbereider</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel maaltijdbereider</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel verpakker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Industrieel verpakker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel vleesbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel vleesbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel vleesproductenbereider</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industrieel vleesproductenbereider</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -10748,22 +6726,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Kelner</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Hulpkelner duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Kelner</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Restaurant en keuken duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Keukenmedewerker</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -10849,30 +6811,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Kok duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Kunststofbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Kunststofbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Kunststofbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Mechanische vormgeving duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -11012,78 +6950,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar extrusie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar extrusie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar extrusie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Mechanische vormgeving duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar spuitgieten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar spuitgieten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar spuitgieten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Mechanische vormgeving duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar thermisch vormen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar thermisch vormen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Machineregelaar thermisch vormen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Mechanische vormgeving duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Magazijnmedewerker</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Economie en organisatie</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -11113,14 +6979,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Logistiek assistent magazijn duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Medewerker kamerdienst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker kamerdienst duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -11201,6 +7059,14 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">IJzervlechter en bekister-betonneerder duaal</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Metselaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Renovatievakman ruwbouw duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -11428,30 +7294,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Paletten- en krattenmaker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Paletten- en krattenmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">PC-technicus</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Installateur elektrotechnische basiscomponenten duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">PC-technicus</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Datacommunicatie- en netwerkinstallaties duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Pijpfitter</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -11587,15 +7429,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Trappenmaker duaal</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Plaatser boven- en ondergrondse kabels en leidingen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Plaatser boven- en ondergrondse leidingen duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px"><a name="_Hlk8879859">Alfabetisch</a></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Plaatser buitenschrijnwerk</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -11867,7 +7701,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:34px; width:280px">Onderhoudsmecanicien zware bedrijfsvoertuigen duaal</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px"><a name="_Hlk8879193">Alfabetisch</a></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker hout</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -11932,30 +7766,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker kunststoffen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker kunststoffen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker kunststoffen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Mechanische vormgeving duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker metaal</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -11993,22 +7803,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Omsteller verspaning en Monteerder-afregelaar duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productiemedewerker voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -12076,22 +7870,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productieoperator voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Productieoperator voeding</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productie-industrie duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Residentieel elektrotechnisch installateur</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -12145,14 +7923,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Meubelmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Rioollegger</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Rioollegger duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -12472,7 +8242,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Installateur gebouwenautomatisering duaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Technicus gebouwenautomatisering en energiemanagement duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -12528,7 +8298,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Installateur gebouwenautomatisering duaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Technicus gebouwenautomatisering en energiemanagement duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -12592,44 +8362,12 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Installateur gebouwenautomatisering duaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Technicus gebouwenautomatisering en energiemanagement duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Torenkraanbestuurder</td>
 			<td colspan="4" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:539px">Schrappen (1 september 2025)</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Uitsnijder-uitbener</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Uitbener-uitsnijder duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Uitsnijder-uitbener rund</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Uitbener-uitsnijder duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Uitsnijder-uitbener schaap</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Uitbener-uitsnijder duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Uitsnijder-uitbener varken</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Uitbener-uitsnijder duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -12664,30 +8402,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Commercieel assistent duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Voeger</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Cementgebonden voeger duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Voeger</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker ruwbouw duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Voeger</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Ruwbouw duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -12736,6 +8450,14 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">IJzervlechter en bekister-betonneerder duaal</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Werfbediener</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Renovatievakman ruwbouw duaal</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Alfabetisch</td>
@@ -13943,7 +9665,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Florist duaal</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek land- en tuinbouw</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px"><a name="_Hlk8880336">Rubriek land- en tuinbouw</a></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Fruitteler</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Land- en tuinbouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
@@ -14143,22 +9865,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Productiemedewerker plant duaal</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek onderhoud</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Industri√´le schoonmaker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Schoonmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek onderhoud</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Polyvalent onderhoudswerker gebouwen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Onderhoudsmedewerker duaal</td>
-		</tr>
-		<tr>
 			<td rowspan="7" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek onderhoud</td>
 			<td rowspan="7" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Thuishelper</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
@@ -14201,44 +9907,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Verzorgende/Zorgkundige duaal</td>
-		</tr>
-		<tr>
-			<td rowspan="6" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek personenzorg</td>
-			<td rowspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Basismedewerker in organisaties (modulair stelsel)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Schoonmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Onderhoudsmedewerker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Keukenmedewerker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker kamerdienst duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Assistentie in wonen, zorg en welzijn duaal</td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek personenzorg</td>
@@ -14399,108 +10067,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">7<sup>de</sup> leerjaar na OK3</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">NVT</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Verzorgende/Zorgkundige duaal</td>
-		</tr>
-		<tr>
-			<td rowspan="6" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek personenzorg</td>
-			<td rowspan="6" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Onderhoudswerker (modulair stelsel)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Schoonmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Onderhoudsmedewerker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Keukenmedewerker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker kamerdienst duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Assistentie in wonen, zorg en welzijn duaal</td>
-		</tr>
-		<tr>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek personenzorg</td>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Schoonmaakhulp in de thuiszorg (modulair stelsel)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Schoonmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Keukenmedewerker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker kamerdienst duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Assistentie in wonen, zorg en welzijn duaal</td>
-		</tr>
-		<tr>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek personenzorg</td>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Schoonmaakhulp in instellingen en diensten (modulair stelsel)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker textielverzorging duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Schoonmaker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Keukenmedewerker duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Voeding en horeca</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Medewerker kamerdienst duaal</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">Maatschappij en welzijn</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px">Assistentie in wonen, zorg en welzijn duaal</td>
 		</tr>
 		<tr>
 			<td rowspan="7" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek personenzorg</td>
@@ -14680,14 +10246,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek schoonheidszorg</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Orthopedie-schoentechnicus</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Dubbel</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px"><em>Orthopedietechnieken duaal (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek schoonheidszorg</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Schoonheidsspecialiste</td>
 			<td colspan="4" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:539px">Schrappen (1 september 2024)</td>
 		</tr>
@@ -14791,22 +10349,6 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek zeevisserij</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Motorist 221 kW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">2de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px"><em>Matroos zeevisserij duaal (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek zeevisserij</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Motorist 221 kW</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:104px">STEM</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:79px">3de</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:76px">Arbeid</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:280px"><em>Zeevisserij duaal (*)</em></td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:141px">Rubriek zeevisserij</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:274px">Schipper beperkt vaargebied</td>
 			<td colspan="4" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:539px">Schrappen (1 september 2024)</td>
 		</tr>
@@ -14817,6 +10359,7 @@ De Se-n-Se van het technisch en kunstsecundair onderwijs worden vervangen door ‚
 <strong>BuSO OV3</strong><br>
 <br>
 <strong>Elke opleiding van BuSO OV3, die eenzelfde benaming heeft in alle fasen, wordt geconcordeerd naar een structuuronderdeel uit de matrix voor respectievelijk de opleidingsfase, de kwalificatiefase en de integratiefase. De concordantie zal of mag er toe leiden dat in het kader van de modernisering de benaming van het structuuronderdeel per fase verschilt. Hetzelfde geldt voor concordantie van opleidingen BuSO OV3 die experimenteel modulair worden georganiseerd en niet in fasen zijn ondergebracht. Concordantie impliceert dat de opleiding niet meer experimenteel modulair is en wordt omgezet naar structuuronderdelen binnen een structuur die w√©l uit fasen bestaat.</strong><br>
+<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
