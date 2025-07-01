@@ -26,6 +26,13 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 5.
+
+In artikel 432 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° het woord “zijinstroomzorgkundigen” wordt telkens vervangen door het woord “zij-instroomzorgkundigen”;<br>
+2° in het vierde lid wordt tussen het woord “in” en het getal “425” telkens het woord “artikel” ingevoegd;&nbsp;<br>
+3° in het vierde lid wordt het jaartal “2026” telkens vervangen door het jaartal “2027”.
+
 ### ART 12.
 
 In boek 3, deel 1, titel 6, hoofdstuk 2, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, wordt een artikel 454/1 ingevoegd, dat luidt als volgt:<br>
@@ -37,6 +44,10 @@ In boek 3, deel 1, titel 6, hoofdstuk 2, van hetzelfde besluit, het laatst gewij
 In boek 3, deel 1, titel 6, hoofdstuk 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 januari 2025, wordt een artikel 456/2 ingevoegd, dat luidt als volgt:<br>
 <br>
 “Tijdens de facturatieperiode die loopt tot en met 31 december 2025, op basis van de referentieperiode die loopt van 1 juli 2023 tot en met 30 juni 2024, wordt geen financiële vermindering toegepast als de voorziening na de definitieve berekening uitzonderlijk en eenmalig de gegevens in de elektronische vragenlijst vermeld in artikel 456 laat wijzigen.”.
+
+### ART 19.
+
+In artikel 475, §3, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 14 oktober 2022 en gewijzigd bij de besluiten van de Vlaamse Regering van 14 oktober 2022 en 6 oktober 2023, wordt het jaartal “2026” telkens vervangen door het jaartal “2027”.&nbsp;
 
 ### ART 24.
 
@@ -54,3 +65,7 @@ In artikel 487 van hetzelfde besluit, het laatst gewijzigd bij het besluit van d
 In hoofdstuk 2 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, wordt een artikel 5/2 ingevoegd, dat luidt als volgt:<br>
 <br>
 “Art. 5/2. Bij de eindafrekening van de maatregel vrijstelling van arbeidsprestaties op basis van de referentieperiode die loopt van 1 juli 2023 tot en met 30 juni 2024, wordt geen financiële vermindering toegepast als de voorziening na de definitieve berekening uitzonderlijk en eenmalig de gegevens in de vragenlijst, vermeld in artikel 5, §1, laat wijzigen.”.
+
+### ART 38.
+
+In artikel 24, punt 3°, van het besluit van de Vlaamse Regering van 14 oktober 2022 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft bijkomende flexibiliteit in de personeelsinzet in woonzorgcentra en centra voor kortverblijf, gewijzigd bij het besluit van de Vlaamse Regering van 6 oktober 2023, wordt het jaartal “2027” vervangen door het jaartal “2028”.&nbsp;

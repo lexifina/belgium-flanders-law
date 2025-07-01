@@ -2,16 +2,16 @@
   "codex_id": 1041203,
   "title": "Besluit van de Vlaamse Regering van 2025-07-18 tot wijziging van de regelgeving over de financiering van bepaalde zorgvoorzieningen in de Vlaamse sociale bescherming en de financiering van sociale akkoorden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041203/VolledigDocument?datum=2024-07-01",
-  "source_sha256": "80243d7fdf7c375d1776b01eb5621cbceb8cb7bca1211ffa37fced17540dea0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041203/VolledigDocument?datum=2025-07-01",
+  "source_sha256": "ace76f1b5d2884a264550775569377f1c24237703bd2ed0111fa26dd8253be05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041203&param=informatie",
-  "as_of": "2024-07-01",
+  "as_of": "2025-07-01",
   "made": "2025-07-18",
   "gazette": "2025-09-01",
   "numac": 2025006343,
   "document_start": "2025-09-11",
   "document_end": null,
-  "in_force": "2024-07-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-07-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
 }
