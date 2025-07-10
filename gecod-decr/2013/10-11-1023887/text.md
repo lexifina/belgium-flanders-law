@@ -4864,11 +4864,11 @@ De stuvoraad kiest een voorzitter en een ondervoorzitter. Als de voorzitter uit 
 
 ### ART II.355/1.
 
-Indien de student-stagiair&nbsp;bij de uitvoering van zijn stage de stagegever of derden schade berokkent, is hij, met behoud van toepassing van artikel 1384, derde tot en met het vijfde lid, van het Burgerlijk Wetboek, enkel aansprakelijk voor zijn bedrog en zijn zware schuld. Voor lichte schuld is de student-stagiair&nbsp;enkel aansprakelijk als die bij hem eerder gewoonlijk dan toevallig voorkomt.<br>
+Indien de student-stagiair&nbsp;bij de uitvoering van zijn stage de stagegever of derden schade berokkent, is hij enkel aansprakelijk voor zijn bedrog en zijn zware schuld. Voor lichte schuld is de student-stagiair&nbsp;enkel aansprakelijk als die bij hem eerder gewoonlijk dan toevallig voorkomt.<br>
 <br>
-De aansprakelijkheid van de vader en de moeder in de zin van artikel 1384, tweede lid, van het Burgerlijk Wetboek geldt enkel wanneer een minderjarige student-stagiair&nbsp;overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld.<br>
+De aansprakelijkheid van titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als een minderjarige student-stagiair conform de gevallen, vermeld in het eerste lid, persoonlijk aansprakelijk kan worden gesteld.&nbsp;De aansprakelijkheid van personen belast met het toezicht op anderen, vermeld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de student-stagiair conform de gevallen, vermeld in het eerste lid, persoonlijk aansprakelijk kan worden gesteld.<br>
 <br>
-De stagegever is een aansteller in de zin van artikel 1384, derde lid, van het Burgerlijk Wetboek.<br>
+De stagegever is een aansteller als vermeld in artikel 6.14, §1, van het Burgerlijk Wetboek.<br>
 <br>
 Alle met de bepalingen van dit artikel strijdige bedingen zijn nietig.
 
