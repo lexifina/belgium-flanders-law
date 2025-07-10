@@ -38,6 +38,32 @@ In artikel 105, §3bis, twaalfde lid, 2°, en dertiende lid, van hetzelfde decre
 
 In artikel 113novies, §4, eerste lid, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 16 maart 2018 en gewijzigd bij het decreet van 9 juli 2021, worden de woorden “diploma van het secundair onderwijs” vervangen door de zinsnede “diploma secundair onderwijs of diploma secundair onderwijs, onderwijskwalificatie niveau 4”.
 
+### ART 27.
+
+In artikel 126bis van hetzelfde decreet, ingevoegd bij het decreet van 17 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt de zinsnede “, met behoud van toepassing van artikel 1384, derde tot en met het vijfde lid van het Burgerlijk Wetboek,” opgeheven;<br>
+2° in het derde lid wordt de zinsnede “de vader en de moeder in de zin van artikel 1384, tweede lid, van het Burgerlijk Wetboek geldt enkel wanneer een minderjarige cursist-stagiair overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld” vervangen door de zinsnede “titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als een minderjarige cursist-stagiair conform de gevallen, vermeld in het tweede lid, persoonlijk aansprakelijk kan worden gesteld”;<br>
+3° &nbsp;aan het derde lid wordt de volgende zin toegevoegd:<br>
+“De aansprakelijkheid van personen belast met het toezicht op anderen, vermeld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de cursist-stagiair conform de gevallen, vermeld in het tweede lid, persoonlijk aansprakelijk kan worden gesteld.”;<br>
+4° in het vierde lid wordt de zinsnede “in de zin van artikel 1384, derde lid,” vervangen door de zinsnede “als vermeld in artikel 6.14, §1,”.
+
+### ART 33.
+
+In artikel 123/20 van dezelfde codex, ingevoegd bij het decreet van 19 juni 2015 en gewijzigd bij het decreet van 17 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid wordt de zinsnede “de vader en de moeder in de zin van artikel 1384, tweede lid van het burgerlijk wetboek geldt enkel wanneer de minderjarige leerling-stagiair overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld” vervangen door de zinsnede “titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als de minderjarige leerling-stagiair conform de gevallen, vermeld in dit lid, persoonlijk aansprakelijk kan worden gesteld”;<br>
+2° aan het derde lid wordt de volgende zin toegevoegd:<br>
+“De aansprakelijkheid van personen belast met het toezicht op anderen, vermeld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de leerling-stagiair conform de gevallen, vermeld in dit lid, persoonlijk aansprakelijk kan worden gesteld.”;<br>
+3° in het vierde lid wordt de zinsnede “in de zin van artikel 1384, derde lid,” vervangen door de zinsnede “als vermeld in artikel 6.14, §1,”.
+
+### ART 62.
+
+In artikel II.355/1 van dezelfde codex, ingevoegd bij het decreet van 17 juni 2016 en gewijzigd bij het decreet van 4 mei 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “, met behoud van toepassing van artikel 1384, derde tot en met het vijfde lid, van het Burgerlijk Wetboek,” opgeheven;<br>
+2° in het tweede lid wordt de zinsnede “de vader en de moeder in de zin van artikel 1384, tweede lid, van het Burgerlijk Wetboek geldt enkel wanneer een minderjarige student-stagiair overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld” vervangen door de zinsnede “titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als een minderjarige student-stagiair conform de gevallen, vermeld in het eerste lid, persoonlijk aansprakelijk kan worden gesteld”;<br>
+3° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+“De aansprakelijkheid van personen belast met het toezicht op anderen, vermeld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de student-stagiair conform de gevallen, vermeld in het eerste lid, persoonlijk aansprakelijk kan worden gesteld.”;<br>
+4° in het derde lid wordt de zinsnede “in de zin van artikel 1384, derde lid,” vervangen door de zinsnede “als vermeld in artikel 6.14, §1,”.
+
 ### ART 67.
 
 Aan artikel 27, §2, eerste lid, van het decreet Rechtspositie Basiseducatie van 7 juli 2017, ingevoegd bij het decreet van 19 april 2024, wordt de volgende zin toegevoegd:<br>

@@ -2,16 +2,16 @@
   "codex_id": 1040965,
   "title": "Decreet van 2025-06-06 over het onderwijs XXXV",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040965/VolledigDocument?datum=2025-07-01",
-  "source_sha256": "eb556894e746adc958be81de391a1648abcb19406d8b66bca61c0d9b3e3f9e5a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040965/VolledigDocument?datum=2025-07-10",
+  "source_sha256": "74fddcb8867a0c5390ca565e2a857a2d1ce777cd2952e7f5d5888051b4ad2d66",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040965&param=informatie",
-  "as_of": "2025-07-01",
+  "as_of": "2025-07-10",
   "made": "2025-06-06",
   "gazette": "2025-07-09",
   "numac": 2025004955,
   "document_start": "2025-09-01",
   "document_end": null,
-  "in_force": "2025-07-01",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2025-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-07-10",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2025-07-10; future article versions excluded; article text as the API gives it"
 }
