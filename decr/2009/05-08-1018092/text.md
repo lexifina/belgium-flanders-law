@@ -866,11 +866,19 @@ De personeelsleden en bestuurders van de netbeheerder en zijn werkmaatschappij z
 
 De netbeheerder is de netgebruiker die aangesloten is op zijn net in   overeenstemming met de wettelijke bepalingen vergoeding verschuldigd van de   schade die de netgebruiker leed als gevolg van een storing, behoudens   andersluidende contractuele bepalingen.<BR><BR>De vergoeding kan echter niet   meer bedragen dan 2.000.000 euro per incident, voor het geheel van de   schadegevallen. Als het totale bedrag van de schadevergoedingen dat   maximumbedrag overschrijdt, is de schadevergoeding die verschuldigd is aan elke   netgebruiker naar evenredigheid beperkt. Dit maximumbedrag geldt niet voor   schade aan personen.<BR><BR>De netbeheerder wordt in overeenstemming met de   wettelijke bepalingen in de rechten van de netgebruiker gesteld ten opzichte van   de veroorzaker van de storing, voor de door hem betaalde vergoeding met   toepassing van dit artikel.
 
-## [Onderafdeling II. Gemeenschappelijke bepalingen voor onderafdelingen III tot en met V (ing. decr. 20 december 2013, art. 6, I: 1 januari 2015)]
+## Onderafdeling II. Gemeenschappelijke bepalingen voor onderafdelingen III tot en met V, VII en VIII
 
 ### ART. 4.1.11/2.
 
-De bepalingen van onderafdeling III tot en met V gelden behoudens   andersluidende contractuele bepalingen.<BR><BR>De bepalingen van onderafdeling   III tot en met V sluiten de toepassing van andere wettelijke bepalingen niet   uit. De gezamenlijke toepassing van verschillende aansprakelijkheidsgronden kan   nooit leiden tot een hogere vergoeding dan de integrale herstelling van de   geleden schade. De vergoeding is beperkt tot 2.000.000 euro per incident, voor   het geheel van de schadegevallen. Als het totale bedrag van de   schadevergoedingen dat maximumbedrag overschrijdt, is de schadevergoeding die   verschuldigd is aan elke netgebruiker naar evenredigheid beperkt. Dit   maximumbedrag geldt niet voor schade aan personen.<BR><BR>De bedragen, vermeld   in artikel 4.1.11/3 tot en met 4.1.11/5, worden vanaf 1 januari 2015 jaarlijks   van rechtswege geïndexeerd door vermenigvuldiging met het gezondheidsindexcijfer   voor de maand juni van het jaar n-1 en die te delen door het   gezondheidsindexcijfer voor de maand juni 2013.<BR><BR>Onder   gezondheidsindexcijfers als vermeld in het tweede lid, wordt verstaan : het   prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2,   eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van   de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen,   bekrachtigd bij wet van 30 maart 1994.
+De bepalingen van onderafdeling III tot en met V, VII en VIII gelden behoudens andersluidende contractuele bepalingen.<br>
+<br>
+De bepalingen van onderafdeling III tot en met V, VII en VIII sluiten de toepassing van andere wettelijke bepalingen niet uit. De gezamenlijke toepassing van verschillende aansprakelijkheidsgronden kan nooit leiden tot een hogere vergoeding dan de integrale herstelling van de geleden schade. De vergoeding is beperkt tot 2.000.000 euro per incident, voor het geheel van de schadegevallen. Als het totale bedrag van de schadevergoedingen dat maximumbedrag overschrijdt, is de schadevergoeding die verschuldigd is aan elke netgebruiker naar evenredigheid beperkt. Dit maximumbedrag geldt niet voor schade aan personen.<br>
+<br>
+De bedragen, vermeld in artikel 4.1.11/3 tot en met 4.1.11/5, worden vanaf 1 januari 2015 jaarlijks van rechtswege geïndexeerd door vermenigvuldiging met het gezondheidsindexcijfer voor de maand juni van het jaar n-1 en die te delen door het gezondheidsindexcijfer voor de maand juni 2013.<br>
+<br>
+De bedragen, vermeld in artikel 4.1.11/7 tot en met 4.1.11/8, worden vanaf 1 januari 2027 jaarlijks van rechtswege geïndexeerd door de vermenigvuldiging van die bedragen met het gezondheidsindexcijfer van de maand december van het jaar n-1, gedeeld door het gezondheidsindexcijfer van de maand december 2025.<br>
+<br>
+Onder gezondheidsindexcijfers als vermeld in het derde en vierde lid, wordt verstaan : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994.
 
 ## [Onderafdeling III. Forfaitaire vergoeding bij laattijdige aansluiting (ing. decr. 20 decmeber 2013, art. 8, I: 1 januari 2015)]
 
@@ -926,6 +934,20 @@ De netbeheerder wordt in de rechten van de betrokkene gesteld ten opzichte van d
 ### ART 4.1.11/7.
 
 De distributienetbeheerder is aan de netgebruiker die, conform artikel 4.1.22/2, eerste lid, 7°, om de plaatsing van een digitale meter heeft verzocht, een vergoeding verschuldigd van 100 euro bij overschrijding van de termijn, vastgesteld door de Vlaamse Regering, conform artikel 4.1.22/2, vierde lid, voor het plaatsen van de digitale meter.
+
+## Onderafdeling VIII. Forfaitaire vergoeding bij laattijdige afrekenings- of slotfactuur
+
+### ART 4.1.11/7/1
+
+De netbeheerder is een forfaitaire vergoeding verschuldigd aan de netgebruiker die op zijn net is aangesloten als de leverancier van die netgebruiker niet tijdig een afrekenings- of slotfactuur kan bezorgen aan de netgebruiker conform de bepalingen die zijn vastgesteld krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, op voorwaarde dat dit te wijten is aan een technische oorzaak waardoor gedurende minstens tien opeenvolgende kalenderdagen geen klantenwissel of wissel van toegangshouder mogelijk is of waardoor geen doorsturing van technische, relationele of meetgegevens aan de toegangshouder mogelijk is of waardoor een foutcode in de systemen van de distributienetbeheerder optreedt of waarbij meerdere van deze problemen zich tegelijk manifesteren. Indien de netbeheerder de nodige gegevens in de situaties, vermeld in het eerste lid, niet tijdig kan bezorgen, dan meldt hij dit aan de leverancier.<br>
+<br>
+De leverancier meldt, zodra het hem bekend is, aan de netbeheerder dat hij aan de netgebruiker niet tijdig een afrekenings- of slotfactuur kan bezorgen conform de bepalingen vastgesteld krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, om de reden vermeld in het eerste lid. De vergoeding is verschuldigd zodra een termijn van 180 dagen verstreken is die begint te lopen op de dag na die melding. De vergoeding bedraagt per dag:<br>
+1°&nbsp;&nbsp; &nbsp;1,5 euro voor toegangspunten voor elektriciteit;<br>
+2°&nbsp;&nbsp; &nbsp;1,5 euro voor toegangspunten voor aardgas.<br>
+<br>
+De vergoeding is verschuldigd tot de dag waarop de netbeheerder de nodige gegevens ter beschikking stelt aan de leverancier conform het protocol dat de netbeheerders en de toegangshouders gebruiken voor de communicatie over de status, de relationele gegevens waaronder de stamgegevens, en de meetgegevens, de allocatie- en reconciliatiegegevens, de foutenafhandeling en de nettarieffacturatiegegevens.<br>
+<br>
+De distributienetbeheerder wordt in de rechten van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding met toepassing van dit artikel.
 
 ## Afdeling V. Aansluiting op een distributienet of het plaatselijk vervoernet van elektriciteit
 
@@ -3224,7 +3246,7 @@ De Vlaamse Regering kan hierbij bepalen dat de verplichting, vermeld in het eers
 &nbsp;<br>
 De Vlaamse Regering kan de voorwaarden bepalen waaronder fotovoltaïsche zonnepanelen niet in dienst genomen op de dakoppervlakte, andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject ook in aanmerking worden genomen voor het voldoen aan de verplichting, vermeld in het eerste lid.<br>
 <br>
-De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen, of delen van gebouwen, die zullen worden gesloopt of waarvan het dak, of een deel van het dak, zal worden vervangen binnen een door de Vlaamse Regering te bepalen termijn. Het uitstel kan nooit meer bedragen dan vijf jaar vanaf het ingaan van het uitstel dat aan de aanvrager is toegekend. Het voormelde uitstel vervalt als de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder is van een gebouw, niet binnen drie jaar na het ingaan van het uitstel een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot sloop kan voorleggen, voor zover een omgevingsvergunning voor sloop is vereist, of niet binnen twee jaar na het ingaan van het uitstel een door een aannemer getekende offerte voor de vervanging van het dak kan voorleggen. Het voormelde uitstel vervalt ook als binnen vijf jaar na het ingaan van het uitstel dat aan de aanvrager is toegekend, het gebouw niet is gesloopt of het dak niet is vervangen.<br>
+De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen of delen van gebouwen, en kan daartoe de randvoorwaarden vastleggen. Het uitstel kan nooit meer dan vijf jaar bedragen vanaf het ingaan van het uitstel. De Vlaamse Regering kan in ieder geval uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen of delen van gebouwen die zullen worden gesloopt of waarvan het dak of een deel van het dak zal worden vervangen binnen een door de Vlaamse Regering te bepalen termijn. Het voormelde uitstel in geval van sloop van een gebouw of dakvervanging vervalt als de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder is van een gebouw, niet binnen drie jaar na het ingaan van het uitstel een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot sloop kan voorleggen, voor zover een omgevingsvergunning voor sloop is vereist, of niet binnen twee jaar na het ingaan van het uitstel een door een aannemer getekende offerte voor de vervanging van het dak kan voorleggen. Het voormelde uitstel in geval van sloop van een gebouw of dakvervanging vervalt ook als binnen vijf jaar na het ingaan van het uitstel dat aan de aanvrager is toegekend, het gebouw niet is gesloopt of het dak niet is vervangen.<br>
 <br>
 Een beroep bij een administratief rechtscollege betreffende de omgevingsvergunning voor sloop, vermeld in het zesde lid, schorst de termijnen, vermeld in het zesde lid, tweede, derde en vierde zin, voor zover een omgevingsvergunning voor sloop vereist is.<br>
 <br>
@@ -5291,7 +5313,7 @@ Ten aanzien van de beperkingen, vermeld in artikel 4.1.5/2, genieten de gedelege
 
 ### ART 15.3.5/20.
 
-...
+Als de melding door de leverancier aan de netbeheerder dat hij aan de netgebruiker geen afrekenings- of slotfactuur kan bezorgen binnen de termijnen die zijn vastgelegd krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, al heeft plaatsgehad op de datum van de inwerkingtreding van het decreet van 13 juni 2025 tot wijziging van het Energiedecreet van 8 mei 2009, wat de invoering van een forfaitaire vergoedingsregeling voor geblokkeerde toegangspunten en de uitstelmogelijkheden voor de PV-verplichting betreft, begint de termijn van 180 dagen, vermeld in artikel 4.1.11/8, tweede lid, vanaf die dag te lopen.
 
 ### ART 15.3.5/21.
 
