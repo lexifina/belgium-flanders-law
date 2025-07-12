@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040947,
+  "title": "Decreet van 2025-06-13 tot wijziging van het Energiedecreet van 8 mei 2009, wat de invoering van een forfaitaire vergoedingsregeling voor geblokkeerde toegangspunten en de uitstelmogelijkheden voor de PV-verplichting betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040947/VolledigDocument?datum=2025-07-12",
+  "source_sha256": "b2852eb4964ff64363466010149c10dbc4b2d93dac3225bd38a8ecc3d0c5751b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040947&param=informatie",
+  "as_of": "2025-07-12",
+  "made": "2025-06-13",
+  "gazette": "2025-07-02",
+  "numac": 2025004838,
+  "document_start": "2025-07-12",
+  "document_end": null,
+  "in_force": "2025-07-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
