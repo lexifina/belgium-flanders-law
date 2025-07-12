@@ -26,6 +26,14 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+Dit besluit voorziet in de gedeeltelijke uitvoering van gedelegeerde verordening (EU) 2023/330 van de Commissie van 22 november 2022 tot wijziging en rectificatie van Gedelegeerde verordening (EU) 2022/126 tot aanvulling van Verordening (EU) 2021/2115 van het Europees Parlement en de Raad met aanvullende eisen voor bepaalde interventietypes die de lidstaten in het kader van die verordening in hun strategisch GLB-plan voor de periode 2023-2027 uitwerken, alsmede regels voor het aandeel in het kader van norm 1 inzake een goede landbouw- en milieuconditie (GLMC).
+
+### ART 2.
+
+In artikel 84, tweede lid, van het besluit van de Vlaamse Regering van 18 november 2022 over de gemeenschappelijke ordening van de markten in de sector groenten en fruit wordt de zin “Feitelijke verenigingen of andere verenigingen die niet inschrijvingsplichtig zijn in de Kruispuntbank voor Ondernemingen, geven zelf hun naam en adres door aan de bevoegde entiteit.” vervangen door de zin “Voor feitelijke verenigingen of andere verenigingen die niet inschrijvingsplichtig zijn in de Kruispuntbank voor Ondernemingen, gebeurt de identificatie aan de hand van de gegevens in het verenigingsregister, vermeld in artikel 4 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Feitelijke verenigingen of andere verenigingen die geen inschrijving in het verenigingsregister hebben, geven zelf hun naam en adres door aan de bevoegde entiteit.”.
+
 ### ART 3.
 
 In bijlage 3 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 26 januari 2024 en 3 mei 2024, wordt in punt 1.1.1 de zin “Aflossing van kredieten die zijn opgenomen voor een interventie, zijn niet subsidiabel.” vervangen door de zin “Aflossing van kredieten die zijn opgenomen voor een interventie waarvan de uitvoering vóór het begin van het operationele programma is begonnen, zijn niet subsidiabel.”.
@@ -51,3 +59,11 @@ In bijlage 3 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 
 In bijlage 3 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 26 januari 2024 en 3 mei 2024, wordt het opschrift van punt 2.6.12 vervangen door wat volgt:<br>
 “2.6.12 Interventie f12: Begeleiding van producentenorganisatie in het kader van milieu/klimaat”.
+
+### ART 8.
+
+Artikel 3, 4, 5, 6 en 7 hebben uitwerking met ingang van 1 januari 2025.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor de landbouw, is belast met de uitvoering van dit besluit.
