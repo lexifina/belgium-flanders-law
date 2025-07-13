@@ -33,11 +33,13 @@ Een urencontingent op het niveau van een regionale stad bedraagt minimaal 1539 u
 <br>
 De realisatie van het urencontingent, vermeld in het vijfde lid, wordt berekend door de procentuele verhouding te nemen van de prestaties gezinszorg van de dienst op het niveau van een regionale stad ten opzichte van het urencontingent dat aan de dienst toegewezen is voor die regionale stad, van hetzelfde jaar als het jaar waarin de uren gezinszorg in de regionale stad in kwestie gepresteerd zijn.<br>
 <br>
-De prestaties gezinszorg op het niveau van een regionale stad bestaan uit de som van de gesubsidieerde gepresteerde uren gezinszorg, zoals berekend in Vesta, de gesubsidieerde uren dagopvang en de gelijkgestelde gesubsidieerde uren op het niveau van die regionale stad.<br>
+De prestaties gezinszorg op het niveau van een regionale stad bestaan uit de som van de gesubsidieerde gepresteerde uren gezinszorg, zoals berekend in Vesta, de gesubsidieerde uren dagopvang , de gelijkgestelde gesubsidieerde uren en de gesubsidieerde uren die een zijinstromer presteert, op het niveau van die regionale stad.<br>
 <br>
 De gesubsidieerde uren dagopvang, vermeld in het achtste lid, worden berekend door de gesubsidieerde uren dagopvang, zoals geregistreerd in Vesta, te verdelen over de regionale steden in verhouding tot de gefactureerde uren dagopvang, vermeld in artikel 84, tweede lid, van bijlage 2.<br>
 <br>
 De gelijkgestelde gesubsidieerde uren, vermeld in het achtste lid, worden verdeeld over de regionale steden waarin de dienst actief is, in verhouding tot de gesubsidieerde gepresteerde uren. De gesubsidieerde gepresteerde uren gezinszorg bevatten de gesubsidieerde uren dagopvang, vermeld in het achtste lid.<br>
+<br>
+De uren die een zijinstromer presteert, zijn de uren die de diensten voor gezinszorg hebben ingediend conform artikel 65/1, §3, van bijlage 2.<br>
 <br>
 Het verschil tussen het urencontingent gezinszorg op het niveau van een regionale stad, dat toegewezen is voor het kalenderjaar, en het urencontingent gezinszorg op het niveau van dezelfde regionale stad, dat toegewezen is voor het voorgaande kalenderjaar, wordt toegevoegd aan de extra te verdelen uren gezinszorg in diezelfde regionale stad.<br>
 <br>
@@ -85,7 +87,7 @@ In het werkingsjaar 2026 wordt het percentage, vermeld in het eerste lid, vervan
 <br>
 Vanaf het werkingsjaar 2027 wordt het percentage, vermeld in het eerste lid, vervangen door 95%.<br>
 <br>
-De realisatie van het urencontingent, vermeld in het eerste lid, wordt berekend op de wijze, vermeld in artikel 2, zevende tot en met tiende lid.
+De realisatie van het urencontingent, vermeld in het eerste lid, wordt berekend op de wijze, vermeld in artikel 2, zevende tot en met elfde lid.
 
 ### ART 4.
 
