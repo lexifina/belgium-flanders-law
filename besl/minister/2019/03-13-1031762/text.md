@@ -47,9 +47,13 @@ Als het onverschuldigd betaalde bedrag hoger dan 1.000 euro is, legt de uitbetal
 De procedure voor de vaststelling van de goede trouw wordt bepaald door het agentschap.<br>
 <br>
 §2. De vaststelling van de goede trouw, vermeld in paragraaf 1, wordt gedaan op basis van een van de volgende categorieën van behartenswaardigheid:<br>
-1°&nbsp;&nbsp; &nbsp;handelingen van natuurlijke personen of rechtspersonen, zonder betrokkenheid van de leden van het feitelijk gezin, waardoor de begunstigde niet als veroorzaker van de terugvorderingen kan worden aangezien;&nbsp;<br>
-2°&nbsp;&nbsp; &nbsp;de personen die deel uitmaken van het feitelijk gezin, het rechthebbend of rechtgevend kind, bevinden zich in een behartenswaardige gezondheidstoestand;<br>
-3°&nbsp;&nbsp; &nbsp;externe factoren waardoor de terugvordering van de onverschuldigd betaalde toelagen disproportionele leedverzwaring toebrengt aan de begunstigde.<br>
+1° handelingen van natuurlijke personen of rechtspersonen, zonder betrokkenheid van de leden van het feitelijk gezin, waardoor de begunstigde niet als veroorzaker van de terugvorderingen kan worden aangezien;&nbsp;<br>
+2° de personen die deel uitmaken van het feitelijk gezin, het rechthebbend of rechtgevend kind, bevinden zich in een behartenswaardige gezondheidstoestand;<br>
+3° externe factoren waardoor de terugvordering van de onverschuldigd betaalde toelagen disproportionele leedverzwaring toebrengt aan de begunstigde;<br>
+4° de begunstigde heeft de nodige informatie meegedeeld aan de uitbetalingsactor, waardoor de beslissing die aan de basis ligt van de terugvordering vermeden had kunnen worden;&nbsp;<br>
+5° de kinderen zijn begunstigde voor zichzelf conform artikel 57, §3, en artikel 73 van het Groeipakketdecreet van 2018, tot en met de maand waarin het kind 25 jaar wordt, behoudens tegenindicatie die de behartenswaardigheid van de zwaar nalatige of verzuim plegende begunstigde ernstig ondergraaft.”.<br>
+<br>
+<br>
 <br>
 In het eerste lid wordt verstaan onder feitelijk gezin: het feitelijk gezin, &nbsp;vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 21 september 2018 tot vaststelling van de nadere regels voor het toekennen van een sociale toeslag en artikel 3 van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslagen leerling.<br>
  <br>
