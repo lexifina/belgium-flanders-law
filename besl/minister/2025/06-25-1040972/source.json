@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040972,
+  "title": "Ministerieel besluit van 2025-06-25 tot wijziging van bijlage 3 bij het besluit van de Vlaamse regering van 1 februari 2013 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040972/VolledigDocument?datum=2025-07-14",
+  "source_sha256": "e696d8a3384a12eb6d89817e35e23855c5fe59ef4c7c373211301f6e8d1673d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040972&param=informatie",
+  "as_of": "2025-07-14",
+  "made": "2025-06-25",
+  "gazette": "2025-07-04",
+  "numac": 2025004990,
+  "document_start": "2025-07-14",
+  "document_end": null,
+  "in_force": "2025-07-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2025-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
