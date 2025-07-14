@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040974,
+  "title": "Besluit van de Vlaamse Regering van 2025-06-20 over het goederenvervoer met brede fietsaanhangwagens in het kader van een tweede pilootproject",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040974/VolledigDocument?datum=2025-07-14",
+  "source_sha256": "03f679bd6d49f357e4746946e76ceb05817dd344cf360394efadddac9ecdc24f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040974&param=informatie",
+  "as_of": "2025-07-14",
+  "made": "2025-06-20",
+  "gazette": "2025-07-04",
+  "numac": 2025004996,
+  "document_start": "2025-07-14",
+  "document_end": "2027-12-31",
+  "in_force": "2025-07-14",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2025-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
