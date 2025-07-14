@@ -417,7 +417,7 @@ BIJLAGE 3 Lijst van de wateren als vermeld in artikel 12, §2 en §4.<br>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:115px; width:447px">Albertkanaal<br>
 			Inbegrepen: Kanaalkom in Hasselt, Insteekdok in Tessenderlo en Dokken van Merksem.<br>
-			Niet inbegrepen: Kolenhaven in Genk, Kolenhaven in Beringen in de buurt van de Havenstraat en Kolenhaven Beringen in de buurt van de Kolenhavenlaan.</td>
+			Niet inbegrepen: Kolenhaven in Genk, Kolenhaven in Lummen in de buurt van de Havenstraat en Kolenhaven Beringen in de buurt van de Kolenhavenlaan.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:115px; width:76px">X</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:115px; width:83px">X</td>
 		</tr>
@@ -559,34 +559,9 @@ BIJLAGE 3 Lijst van de wateren als vermeld in artikel 12, §2 en §4.<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">De Gavers in Geraardsbergen: kleine visvijver</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Boerekreek in Sint-Laureins</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
-			<td style="border-bottom:none; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Bazelse Kreek en Rupelmondse Kreek in Kruibeke</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:19px; width:83px">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">E3-zandwinningsput aan de Drieselstraat in Oostakker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Groot Molsbroek (Hamputten)</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:58px; width:447px">Kreken in Sint-Laureins: Roeselarekreek, Nieuwe Roesalearekreek, Put Roste Muis, De Val, Molenkreek, Oostpolderkreek, Mesurekreek, Bentillekreek</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:76px">X</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:58px; width:83px">X</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:447px">Rode Sluis in Moerbeke</td>
@@ -604,11 +579,6 @@ BIJLAGE 3 Lijst van de wateren als vermeld in artikel 12, §2 en §4.<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grote Kil en Grote Geul in Assenede</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Visvijver van Weerde</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
@@ -624,7 +594,32 @@ BIJLAGE 3 Lijst van de wateren als vermeld in artikel 12, §2 en §4.<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kleine vijver in Domein Ter Rijst in Pepingen</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Kreken in Sint-Laureins: Boerekreek, Roeselarekreek, Oostpolderkreek, Mesurekreek, Bentillekreek, Hollandergatkreek, Blokkreek</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Donkmeer in Berlare</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Groot Molsbroek – Hamputten (in de hengelzones die de vzw Durme aangewezen heeft)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Paalse Plas in Beringen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">X</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Grote vijver in Domein Ter Rijst in Pepingen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; width:447px">Geevaertvijver in Sint-Genesius-Rode</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:76px">X</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:83px">&nbsp;</td>
 		</tr>
