@@ -174,12 +174,14 @@ Rubrieken curriculumdossier tweede en derde graad<br>
 1° titel onderwijskwalificatie/structuuronderdeel (= titel curriculumdossier);<br>
 2° inhoudelijke omschrijving en doelstelling van het structuuronderdeel (= studierichting);<br>
 3° positionering in het opleidingsaanbod secundair onderwijs:<br>
-a) graad;<br>
-b) finaliteit;<br>
-c) onderwijsvorm;<br>
-d) domein/domeinoverschrijdend;<br>
-e) VKS-niveau;<br>
-f) logische doorstroommogelijkheden;<br>
+a)&nbsp;&nbsp; &nbsp;graad;<br>
+b)&nbsp;&nbsp; &nbsp;in geval van een zevende leerjaar, of het gericht is op instroom arbeidsmarkt of op hoger onderwijs;<br>
+c)&nbsp;&nbsp; &nbsp;finaliteit;<br>
+d)&nbsp;&nbsp; &nbsp;onderwijsvorm;<br>
+e)&nbsp;&nbsp; &nbsp;domein/domeinoverschrijdend;<br>
+f)&nbsp;&nbsp; &nbsp;VKS-niveau;<br>
+g)&nbsp;&nbsp; &nbsp;logische doorstroommogelijkheden;<br>
+h)&nbsp;&nbsp; &nbsp;in geval van een zevende leerjaar gericht op instroom arbeidsmarkt: de duurtijd, uitgedrukt in semesters;<br>
 4° specifieke toelatingsvoorwaarden, vastgelegd in regelgeving;<br>
 5° samenstelling onderwijskwalificatie/structuuronderdeel;<br>
 6° ordening/samenhang onderwijsdoelen; voor elk afzonderlijk onderwijsdoel wordt aangeduid wat het statuut ervan is;<br>
@@ -192,7 +194,8 @@ d) de beroepsgerichte competenties, gebaseerd op één of meer beroepskwalificat
 e) de onderliggende beroepskwalificatie(s), deelkwalificatie(s) of certificaten die van rechtswege toelating verlenen tot duale structuuronderdelen van de derde graad arbeidsmarktfinaliteit (bso);<br>
 9° studiebekrachtiging.<br>
 (*) De statuten zijn:<br>
-a) eindtermen;<br>
-b) cesuurdoelen - specifieke eindtermen;<br>
-c) doelen die leiden tot een of meer erkende beroepskwalificaties;<br>
-d) differentiële doelen.
+a)&nbsp;&nbsp; &nbsp;eindtermen;<br>
+b)&nbsp;&nbsp; &nbsp;cesuurdoelen - specifieke eindtermen;<br>
+c)&nbsp;&nbsp; &nbsp;doelen die leiden tot een of meer erkende beroepskwalificaties;<br>
+d)&nbsp;&nbsp; &nbsp;differentiële doelen;&nbsp;<br>
+e)&nbsp;&nbsp; &nbsp;doelen die zijn afgeleid van eindtermen of specifieke eindtermen.
