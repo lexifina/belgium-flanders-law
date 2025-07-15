@@ -76,6 +76,33 @@ In artikel 6 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt
 
 In artikel 7 van hetzelfde besluit wordt het woord “busbegeleider” vervangen door de zinsnede ”busbegeleider/parkingwachter”.
 
+### ART 27.
+
+In bijlage 2 bij het besluit van de Vlaamse Regering van 4 mei 2018 betreffende curriculumdossiers en leerplannen in het onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 2 september 2022, worden de volgende wijzigingen aangebracht:<br>
+1° punt 3° wordt vervangen door wat volgt:<br>
+“3° positionering in het opleidingsaanbod secundair onderwijs:<br>
+a) graad;<br>
+b) in geval van een zevende leerjaar, of het gericht is op instroom arbeidsmarkt of op hoger onderwijs;<br>
+c) finaliteit;<br>
+d) onderwijsvorm;<br>
+e) domein/domeinoverschrijdend;<br>
+f) VKS-niveau;<br>
+g) logische doorstroommogelijkheden;<br>
+h) in geval van een zevende leerjaar gericht op instroom arbeidsmarkt: de duurtijd, uitgedrukt in semesters;”;<br>
+2° de bepaling<br>
+“(*) De statuten zijn:<br>
+a) eindtermen;<br>
+b) cesuurdoelen - specifieke eindtermen;<br>
+c) doelen die leiden tot een of meer erkende beroepskwalificaties;<br>
+d) differentiële doelen.”<br>
+wordt vervangen door de bepaling<br>
+“(*) De statuten zijn:<br>
+a) eindtermen;<br>
+b) cesuurdoelen - specifieke eindtermen;<br>
+c) doelen die leiden tot een of meer erkende beroepskwalificaties;<br>
+d) differentiële doelen;&nbsp;<br>
+e) doelen die zijn afgeleid van eindtermen of specifieke eindtermen.”.&nbsp;
+
 ### ART 60.
 
 In artikel 7, 2°, van het besluit van de Vlaamse Regering van 20 september 2024 voor een financiële ondersteuning van maximaal 1.059.083,80 euro aan diverse begunstigden voor het project “Ondersteuningsbeleid voor cognitief sterk functionerende leerlingen” voor de periode van 1 september 2024 t.e.m. 31 augustus 2025 wordt de datum “20 november 2025” vervangen door de datum “20 december 2025”.
