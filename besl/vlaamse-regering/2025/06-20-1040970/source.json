@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040970,
+  "title": "Besluit van de Vlaamse Regering van 2025-06-20 tot erkenning van de masteropleiding “Master in het basisonderwijs” als nieuwe opleiding van de Vrije Universiteit Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040970/VolledigDocument?datum=2025-07-17",
+  "source_sha256": "ff244cf5dba3bd353bd11884c4faea69ca50e1054a548b1b59b4e517686e3246",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040970&param=informatie",
+  "as_of": "2025-07-17",
+  "made": "2025-06-20",
+  "gazette": "2025-07-07",
+  "numac": 2025004961,
+  "document_start": "2025-07-17",
+  "document_end": null,
+  "in_force": "2025-07-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
