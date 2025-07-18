@@ -2,16 +2,16 @@
   "codex_id": 1031725,
   "title": "Omzendbrief van 2019-05-03 KB/ABB 2019/4 over de strategische meerjarenplannen 2020-2025 van de lokale en provinciale besturen volgens de beleids- en beheerscyclus",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031725/VolledigDocument?datum=2019-05-03",
-  "source_sha256": "d4f0c062443451e47cd6c62c631f6e4a45fa4b180ec6c9535d66f574c2f9414d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031725/VolledigDocument?datum=2025-07-18",
+  "source_sha256": "e72fc5921a651436c9b6dcbd85b17aa2eca32f79c746f010fa7235ab7288254a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031725&param=informatie",
-  "as_of": "2019-05-03",
+  "as_of": "2025-07-18",
   "made": "2019-05-03",
   "gazette": "2019-05-27",
   "numac": 2019030454,
   "document_start": "2019-05-03",
   "document_end": "2025-07-17",
-  "in_force": "2019-05-03",
+  "in_force": "2025-07-18",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2019-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-07-18; future article versions excluded; article text as the API gives it"
 }
