@@ -110,3 +110,7 @@ In artikel 7, 2°, van het besluit van de Vlaamse Regering van 20 september 2024
 ### ART 61.
 
 In artikel 8, §1, eerste lid, van hetzelfde besluit wordt de datum “20 november 2025” vervangen door de datum “20 december 2025”.
+
+### ART 64.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 18 juli 2025 tot herverdeling van kredieten ingeschreven onder begrotingsartikel FC0-1FBE2AA-PR van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2025 wordt de ESR-code “44.30” bij de basisallocaties 1FD106 en 1FD112 vervangen door de ESR-code “44.10”.
