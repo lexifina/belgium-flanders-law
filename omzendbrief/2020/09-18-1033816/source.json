@@ -2,16 +2,16 @@
   "codex_id": 1033816,
   "title": "Omzendbrief van 2020-09-18 KBBJ/ABB 2020/3 - over de aanpassing van de meerjarenplannen 2020-2025 van de lokale en provinciale besturen volgens de beleids- en beheerscyclus",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033816/VolledigDocument?datum=2020-09-18",
-  "source_sha256": "7b0e4aafc05dc0721f20757020b213885c2986941a1e6f27a5704e6f33879bef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033816/VolledigDocument?datum=2025-07-18",
+  "source_sha256": "4b1c2435e24f3c3aea26da344bd2a3410bee32514fc69f19bb2c9b9ec62c01ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033816&param=informatie",
-  "as_of": "2020-09-18",
+  "as_of": "2025-07-18",
   "made": "2020-09-18",
   "gazette": "2020-11-16",
   "numac": 2020043500,
   "document_start": "2020-09-18",
   "document_end": "2025-07-17",
-  "in_force": "2020-09-18",
+  "in_force": "2025-07-18",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2020-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-07-18; future article versions excluded; article text as the API gives it"
 }
