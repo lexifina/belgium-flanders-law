@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040988,
+  "title": "Besluit van de Vlaamse Regering van 2025-06-27 tot oprichting van een taalafdeling Nederlands-Vlaamse Gebarentaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040988/VolledigDocument?datum=2025-07-19",
+  "source_sha256": "31c795681346adbb6afedd57e5de441670443b016d5e0ed3acc0a247ac560e69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040988&param=informatie",
+  "as_of": "2025-07-19",
+  "made": "2025-06-27",
+  "gazette": "2025-07-09",
+  "numac": 2025005099,
+  "document_start": "2025-07-19",
+  "document_end": null,
+  "in_force": "2025-07-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
