@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041011,
+  "title": "Decreet van 2025-06-27 tot wijziging van artikel 12/3 en 12/4 van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en artikel 13/6 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041011/VolledigDocument?datum=2025-07-26",
+  "source_sha256": "25ea7a25ce4bce46a17508e6a9232d8c957ebf03fa5e745789d03a9a03a489fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041011&param=informatie",
+  "as_of": "2025-07-26",
+  "made": "2025-06-27",
+  "gazette": "2025-07-16",
+  "numac": 2025005298,
+  "document_start": "2025-07-26",
+  "document_end": null,
+  "in_force": "2025-07-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
