@@ -582,10 +582,10 @@ Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafver
 1° een buitenlandse onderdaan België heeft laten binnenkomen om er te worden tewerkgesteld, of daartoe heeft bijgedragen, tenzij de buitenlandse onderdaan in het bezit is van een geldige arbeidskaart en met uitzondering van de buitenlandse onderdaan voor wie de werkgever na zijn aankomst in België een arbeidsvergunning kan verkrijgen om er te worden tewerkgesteld;<br>
 2° een buitenlandse onderdaan heeft beloofd, tegen betaling van welke vergoeding ook, hetzij een betrekking voor hem te zoeken, hetzij hem een betrekking te bezorgen, hetzij formaliteiten te vervullen voor zijn tewerkstelling in België;<br>
 3° van een buitenlandse onderdaan een vergoeding in welke vorm ook heeft gevraagd of aangenomen, hetzij om voor hem een betrekking te zoeken, hetzij om hem een betrekking te bezorgen, hetzij om formaliteiten te vervullen voor zijn tewerkstelling in België;<br>
-4° zijn opgetreden tussen:<br>
+4° is opgetreden tussen de volgende personen en autoriteiten en daarbij daden heeft gesteld die die personen of autoriteiten op een dwaalspoor kunnen brengen:<br>
 a)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en een werkgever;<br>
-b)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en de autoriteiten die zijn belast met de toepassing van deze wet of de uitvoeringsbesluiten ervan of de controle en het toezicht op de wet of de uitvoeringsbesluiten ervan;<br>
-c)&nbsp;&nbsp; &nbsp;een werkgever en de vermelde autoriteiten en waarbij daden zijn gesteld die hetzij die buitenlandse onderdaan, hetzij de werkgever, hetzij de vermelde autoriteiten op een dwaalspoor kunnen brengen.<br>
+b)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en de autoriteiten die zijn belast met de toepassing van deze wet of de uitvoeringsbesluiten ervan of met de controle en het toezicht op deze wet of de uitvoeringsbesluiten ervan;<br>
+c)&nbsp;&nbsp; &nbsp;een werkgever en de autoriteiten, vermeld in punt b).<br>
 <br>
 § 5. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro aan :<br>
 1° een aannemer, buiten het kader van een keten van onderaannemers, of een intermediaire aannemer, in het kader van een dergelijke keten, als hun rechtstreekse onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt;<br>
