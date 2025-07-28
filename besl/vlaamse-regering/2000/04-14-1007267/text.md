@@ -21,10 +21,12 @@
 Een omgevingsvergunning voor stedenbouwkundige handelingen is evenwel niet vereist in gebieden die op de plannen van aanleg of op de uitvoeringsplannen aangegeven zijn als militair domein, als de hoofdfunctie van een bebouwd onroerend goed geheel of gedeeltelijk wordt gewijzigd van een hoofdfunctie, vermeld in het eerste lid, 1° tot 9°, naar de hoofdfunctie militaire functie, voor zover het gaat om installaties of gebouwen van militair strategisch belang.<br>
 <br>
 Een omgevingsvergunning voor stedenbouwkundige handelingen is evenmin vereist als de hoofdfunctie van een bebouwd onroerend goed geheel of gedeeltelijk wordt gewijzigd van een van de in het eerste lid opgesomde hoofdfuncties naar een hoofdfunctie die bestaat uit noodopvang, als aan al de volgende voorwaarden is voldaan:<br>
-1° het betreft gegroepeerde opvang van asielzoekers, daklozen of burgers wiens woning onbewoonbaar is;<br>
+1° het betreft gegroepeerde opvang van asielzoekers, daklozen, burgers van wie de woning onbewoonbaar is of personen die tijdelijk beschermd worden met toepassing van artikel 57/29 tot en met 57/36 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 2° onvoorziene omstandigheden geven aanleiding tot een dringende opvangbehoefte;<br>
 3° de opvang is nodig om humanitaire redenen;<br>
-4° de opvang is tijdelijk voor een periode van maximaal drie jaar.<br>
+4° de opvang is tijdelijk:<br>
+a)&nbsp;&nbsp; &nbsp;in geval van personen die tijdelijk beschermd worden als vermeld in punt 1°, voor een periode tot maximaal zes maanden na de beëindiging van de tijdelijke bescherming;<br>
+b)&nbsp;&nbsp; &nbsp;in geval van asielzoekers, daklozen en burgers van wie de woning onbewoonbaar is als vermeld in punt 1°, voor een totale duur van maximaal drie jaar.<br>
 <br>
 § 2. Een omgevingsvergunning voor stedenbouwkundige handelingen is steeds nodig als het onroerende bebouwde goed een exploitatiewoning bij een gebouw dat onder de functiecategorie "land- en tuinbouw in de ruime zin" of "industrie en bedrijvigheid" valt, betreft en de nieuwe hoofdfunctie na overdracht van enig zakelijk recht geen binding meer heeft met de al dan niet beëindigde exploitatie.<br>
 <br>
