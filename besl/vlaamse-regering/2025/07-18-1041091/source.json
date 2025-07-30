@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041091,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-18 tot wijziging van bijlage 1 bij het besluit van de Vlaamse Regering van 25 mei 2018 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de binnenwateren aan de wetenschappelijke en technische vooruitgang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041091/VolledigDocument?datum=2025-07-30",
+  "source_sha256": "ea46f0dfd964ace3643d24cd6ab4017c5937a46d5484ebcdc652f84c379c0498",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041091&param=informatie",
+  "as_of": "2025-07-30",
+  "made": "2025-07-18",
+  "gazette": "2025-07-30",
+  "numac": 2025005770,
+  "document_start": "2025-07-30",
+  "document_end": null,
+  "in_force": "2025-07-30",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
