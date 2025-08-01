@@ -534,9 +534,22 @@ In artikel 4, §1, van hetzelfde decreet, gewijzigd bij de decreten van 20 de-ce
 4° &nbsp;een achtste lid wordt toegevoegd, dat luidt als volgt:<br>
 “De bedragen van de toelagen in het kader van het gezinsbeleid, vermeld in deel 1 en 3 van boek 2 en deel 2 van boek 5, die ingevolge de toepassing van het vierde tot en met zesde lid werden bekomen op 31 december 2024, worden vanaf 1 januari 2025 jaarlijks op 1 september aangepast overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand juli van het jaar van de indexering, ten opzichte van de afgevlakte gezondheidsindex voor de maand juli van het jaar dat het jaar van de indexering voorafgaat, met een jaarlijkse minimale procentuele stijging van 2 procent.”.
 
+### ART 73.
+
+In hetzelfde decreet wordt boek 2, deel 2, titel 2, dat bestaat uit artikel 49 en 50, opgeheven.<br>
+&nbsp;
+
 ### ART 75.
 
 In hetzelfde decreet wordt artikel 54 opgeheven.
+
+### ART 76.
+
+In artikel 62 van hetzelfde decreet wordt het tweede lid opgeheven.
+
+### ART 77.
+
+Artikel 74 van hetzelfde decreet wordt opgeheven.
 
 ## Hoofdstuk 8. Inwerkingtreding
 
