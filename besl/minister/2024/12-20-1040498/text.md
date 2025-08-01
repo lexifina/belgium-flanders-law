@@ -433,7 +433,7 @@ Vanaf 1 juli 2025 worden in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-
 <br>
 In de periode van 1 juli 2025 tot en met 31 oktober 2025 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg.<br>
 <br>
-§4. Het is in de ICES-gebieden II, IV, zijnde de Noordzee en het Schelde-estuarium, verboden bij een zeeduivelvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 600 kg levend gewicht vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+§4. Het is in de ICES-gebieden II, IV, zijnde de Noordzee en het Schelde-estuarium, verboden bij een zeeduivelvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 1200 kg levend gewicht vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
 <br>
 §5. De bevoegde entiteit zal in het eerste kwartaal van 2025 de reders bevragen om vanaf april 2025 de bordenvisserij te beoefenen in de Noorse zone. Bij een positieve respons zal de bevoegde entiteit het quotum verdelen onder de regelmatig indienende aanvragers. Als er te veel aanvragen zijn, wordt er door de bevoegde entiteit een loting georganiseerd op de zitting van de Quotacommissie in maart 2025.&nbsp;
 
@@ -545,7 +545,7 @@ Het is in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het GVS ver
 <br>
 Er worden geen vangstbeperkingen voor schelvisvangst in het ICES-gebied VIIa ingesteld.<br>
 <br>
-§12. Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de lengvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 30 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
+§12. Het is in de ICES-gebieden II, IV voor een vissersvaartuig verboden bij de lengvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 40 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.<br>
 <br>
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt. De bevoegde entiteit zal desgevallend hierover te gepasten tijde de nodige communicatie voeren.<br>
 <br>
