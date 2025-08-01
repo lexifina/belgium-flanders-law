@@ -269,7 +269,7 @@ Het resultaat van de indexatie van de bedragen, vermeld in artikel 43 en 51 van 
 
 ### ART 15/1.
 
-De dienst betaalt de selectieve participatietoeslag student, vermeld in artikel 49 en artikel 50 van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, gelijktijdig met de studietoelage.
+...
 
 ## HOOFDSTUK III. Procedurele voorwaarden
 
