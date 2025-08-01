@@ -69,10 +69,10 @@ e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen reside
 32° ouder: de juridische vader, de juridische moeder of meemoeder, van wie de afstamming met het rechtgevende kind of het rechthebbende kind of de rechthebbende leerling is vastgesteld overeenkomstig titel VII van boek I van het Burgerlijk Wetboek, alsook de adoptant na de adoptie van het kind;<br>
 33° private uitbetalingsactor: een private rechtspersoon, vergund met het oog op de uitbetaling van toelagen in het kader van het gezinsbeleid, vermeld in het decreet van 7 juli 2017;<br>
 34° rechtgevend kind: een kind dat een recht op gezinsbijslagen doet ontstaan;<br>
-35° rechthebbend kind, rechthebbende leerling of student: een kind, leerling of student aan wie de kinderopvangtoeslag, de kleutertoeslag of de selectieve participatietoeslag wordt toegekend;<br>
+35° rechthebbend kind of rechthebbende leerling: een kind of leerling aan wie de kinderopvangtoeslag, de kleutertoeslag of de selectieve par-ticipatietoeslag wordt toegekend;<br>
 36° schooljaar: schooljaar als vermeld in artikel 2, 19°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 37° secundair onderwijs: het onderwijs zoals bedoeld in artikel 3, 37°, van het -besluit van de Vlaamse Regering van 17 december 2010 houdende de codificatie betreffende het secundair onderwijs;<br>
-38° selectieve participatietoeslagen: toeslagen die tot doel hebben een bijdrage te leveren aan de democratisering van het onderwijs, en die worden toegekend aan de leerling ter ondersteuning van zijn deelname aan het onderwijs of aan de student bovenop de studietoelage ter ondersteuning van zijn deelname aan hoger onderwijs;<br>
+38° selectieve participatietoeslagen: toeslagen die tot doel hebben een bijdrage te leveren aan de democratisering van het onderwijs, en die worden toegekend aan de leerling ter ondersteuning van zijn deelname aan het onderwijs;<br>
 39° specifieke ondersteuningsbehoefte: de mate waarin een kind behoefte heeft aan specifieke ondersteuning ten gevolge van een aandoening die een beperking met zich meebrengt voor het kind en zijn omgeving;<br>
 40° startbedrag adoptie: een eenmalige toelage die uitbetaald wordt naar aanleiding van de adoptie van een rechtgevend kind;<br>
 41° startbedrag geboorte: een eenmalige toelage die uitbetaald wordt naar aanleiding van de geboorte van een rechtgevend kind;<br>
@@ -737,17 +737,15 @@ De minimale selectieve participatietoeslag bedraagt 829,80 euro.<br>
 <br>
 § 7. Het uiteindelijke bedrag van de selectieve participatietoeslag wordt afgerond tot twee cijfers na de komma.
 
-## Titel 2. Selectieve participatietoeslagen student
+## Titel 2. ...
 
 ### ART 49.
 
-Een selectieve participatietoeslag student wordt toegekend aan de student aan wie, overeenkomstig het decreet van 8 juni 2007, een studietoelage voor hoger onderwijs wordt toegekend.<br>
-<br>
-De Vlaamse Regering kan ook nadere regels met betrekking tot de selectieve participatietoeslagen student nader bepalen.
+...
 
 ### ART 50.
 
-Een student als vermeld in artikel 49, eerste lid, heeft recht op een jaarlijkse selectieve participatietoeslag van 50 euro.
+...
 
 ## Deel 3. Andere toelagen
 
@@ -894,9 +892,7 @@ Iedere wijziging van de begunstigden die zich voordoet in de loop van een maand,
 
 ### ART 62.
 
-De selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, worden toegekend aan de rechthebbende leerling.<br>
-<br>
-De selectieve participatietoeslagen student, vermeld in boek 2, deel 2, titel 2, worden toegekend aan de rechthebbende student.
+De selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, worden toegekend aan de rechthebbende leerling.
 
 ### ART 63.
 
@@ -1109,11 +1105,7 @@ Na deze periode heeft de aansluiting van rechtswege dezelfde gevolgen als vermel
 
 ### ART 74.
 
-§ 1. De selectieve participatietoeslagen student, vermeld in boek 2, deel 2, titel 2, worden uitbetaald door het Vlaams Ministerie van Onderwijs en Vorming, op basis van dezelfde regels en termijnen als bepaald in het decreet van 8 juni 2007, op dezelfde bankrekening van de student als de bankrekening die gebruikt wordt voor de uitbetaling van de studietoelage.<br>
-<br>
-De student kan voorafgaand aan de uitbetaling in zijn eigen belang het Vlaams Ministerie van Onderwijs en Vorming verzoeken om de selectieve participatietoeslagen student uit te betalen op een andere bankrekening.<br>
-<br>
-§ 2. De Vlaamse Regering kan de uitvoeringsregels van de uitbetaling selectieve participatietoeslag student nader bepalen. De Vlaamse Regering bepaalt het tijdstip waarop de selectieve participatietoeslagen student worden uitbetaald.
+...
 
 ## HOOFDSTUK 3. Gemeenschappelijke bepalingen
 
