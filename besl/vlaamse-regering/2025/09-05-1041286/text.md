@@ -34,6 +34,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 In artikel 7/4, tweede lid, van het besluit van de Vlaamse Regering van 13 juli 2007 betreffende het onderwijs aan huis voor zieke kinderen en jongeren, ingevoegd bij het besluit van de Vlaamse Regering van 21 juni 2024, wordt de zinsnede “, vermeld in artikel 7 van het ministerieel besluit van 3 maart 2023” vervangen door de zinsnede “als vermeld in artikel 5 van het ministerieel besluit van 7 juni 2024”.
 
+### ART 15.
+
+Artikel 15/1 van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, ingevoegd bij het besluit van de Vlaamse Regering van 3 mei 2019, wordt opgeheven.
+
 ### ART 16.
 
 Aan het opschrift van het besluit van de Vlaamse Regering van 4 juli 2008 betreffende de bestaanszekerheidsvergoeding voor busbegeleiders, gewijzigd bij de besluiten van de Vlaamse Regering van 12 september 2014 en 29 april 2022, worden de woorden ‘en parkingwachters’ toegevoegd.
