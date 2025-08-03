@@ -1162,19 +1162,11 @@ De Vlaamse Regering verleent binnen de beschikbare begrotingskredieten   jaarlij
 
 De Vlaamse Regering ziet erop toe dat de algemene werking van de   expertisecellen, vóór het verstrijken van het lopende convenant, geëvalueerd   wordt aan de hand van de strategische en operationele doelstellingen en   indicatoren die vastgelegd zijn in het convenant.<BR><BR>De voorwaarden voor een   nieuw convenant worden onder meer bepaald door de resultaten van de   evaluatie.
 
-## [TITEL IV/2. VERWERKING VAN PERSOONSGEGEVENS DOOR HET AGENTSCHAP INNOVEREN EN ONDERNEMEN (ing. Decr. 25 maart 2022, art. 29, I: 9 juni 2022)]
+## TITEL IV/2. ...
 
 ### ART 63/23.
 
-Het Agentschap Innoveren en Ondernemen is gemachtigd om voor de uitvoering van de taken, vermeld in artikel 4, § 1 en § 2, van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen, volgende verwerkingen van persoonsgegevens uit te voeren:<br>
-1° de geautomatiseerde besluitvorming, vermeld in artikel 22, lid 2, b), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrij verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
-2° de toegang tot en de mededeling van de informatiegegevens vermeld in artikel 5, § 1, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en het gebruik van het Rijksregisternummer, vermeld in artikel 8, § 1, van voormelde wet.<br>
-<br>
-De machtiging tot de verwerking van de persoonsgegevens, vermeld in het eerste lid, 2°, wordt ook verleend aan de vzw, vermeld in artikel 14/1, de vzw Flanders District of Creativity, vermeld in artikel 14/2, en de erkende centra, vermeld in artikel 26/2, § 1, 1°, van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid, als zij taken uitvoeren in opdracht van het Agentschap Innoveren en Ondernemen.<br>
-<br>
-De Vlaamse Regering stelt de aanvullende reglementering van de verwerkingen, vermeld in het eerste lid, vast overeenkomstig de verplichtingen van de toepasselijke regelgeving, vermeld in het eerste lid, en artikel 6, lid 3, van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
-<br>
-De Vlaamse Regering stelt de rechtsbasis en de essentiële elementen van de overige verwerkingen van persoonsgegevens door het Agentschap Innoveren en Ondernemen vast overeenkomstig artikel 6, lid 3, van de verordening, vermeld in het tweede lid.
+...
 
 ## TITEL V SLOTBEPALINGEN
 
