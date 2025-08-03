@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041032,
+  "title": "Decreet van 2025-07-14 over de DAB Investeringsprogramma energiebeheer en klimaat overheidsgebouwen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041032/VolledigDocument?datum=2025-08-03",
+  "source_sha256": "664d5c85712008318040ea3b21399c2c6ec8d1a8e26ff7d34747afeef9175950",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041032&param=informatie",
+  "as_of": "2025-08-03",
+  "made": "2025-07-14",
+  "gazette": "2025-07-24",
+  "numac": 2025005539,
+  "document_start": "2025-08-03",
+  "document_end": null,
+  "in_force": "2025-08-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
