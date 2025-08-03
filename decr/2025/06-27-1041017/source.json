@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041017,
+  "title": "Decreet van 2025-06-27 over de verwerking van persoonsgegevens door het Agentschap Innoveren en Ondernemen en zijn partnerorganisaties, wat de uitvoering van de taken van het Agentschap Innoveren en Ondernemen betreft (citeeropschrift: \"het AVG-decreet VLAIO\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041017/VolledigDocument?datum=2025-08-03",
+  "source_sha256": "e4dcb8275ca2b5dae965c752cc61656a7296c4dbe1e16b3fafd9fb00fa4c805d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041017&param=informatie",
+  "as_of": "2025-08-03",
+  "made": "2025-06-27",
+  "gazette": "2025-07-24",
+  "numac": 2025005434,
+  "document_start": "2025-08-03",
+  "document_end": null,
+  "in_force": "2025-08-03",
+  "article_versions": 76,
+  "record_form": "consolidated version as in force on 2025-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
