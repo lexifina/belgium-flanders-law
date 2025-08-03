@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041035,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-14 tot wijziging van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren, wat betreft het garantiecertificaat voor honden en katten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041035/VolledigDocument?datum=2025-08-03",
+  "source_sha256": "3eb8940dd9fc1dd4cd59b48b0136c25801501fdc28f013acf2d4059139ba9937",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041035&param=informatie",
+  "as_of": "2025-08-03",
+  "made": "2025-07-14",
+  "gazette": "2025-07-24",
+  "numac": 2025005543,
+  "document_start": "2025-08-03",
+  "document_end": null,
+  "in_force": "2025-08-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
