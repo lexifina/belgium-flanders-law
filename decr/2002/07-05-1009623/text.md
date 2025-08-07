@@ -109,15 +109,19 @@ In het geval van een samenvoeging van gemeenten wordt het eerste lid van toe-pas
 
 ### ART. 12.
 
-§ 1. Elke gemeente kan vragen een deel van het aandeel rechtstreeks te storten op de rekening van het OCMW. De beslissing moet uitgaan van de OCMW-raad en de gemeenteraad en moet uiterlijk op 30 juni van het jaar dat de verdeling voorafgaat, toekomen op de administratie Binnenlandse Aangelegenheden. Het OCMW-aandeel wordt uitgedrukt in hele procenten van het totale aandeel of in een bedrag, afgerond op duizend euro.<br>
+§1. Elke gemeente kan vragen een deel van het aandeel rechtstreeks te storten op de rekening van het OCMW. De beslissing moet uitgaan van de OCMW-raad en de gemeenteraad en moet uiterlijk op 30 juni van het jaar dat de verdeling voorafgaat, toekomen op de administratie Binnenlandse Aangelegenheden. Het OCMW-aandeel wordt uitgedrukt in hele procenten van het totale aandeel of in een bedrag, afgerond op duizend euro.<br>
 <br>
-§ 2. Een meegedeeld percentage of bedrag wordt het daaropvolgende jaar behouden, tenzij de beslissing vóór de in § 1 bedoelde datum door de gemeenteraad en de OCMW-raad wordt gewijzigd.<br>
+§2. Een meegedeeld percentage of bedrag wordt het daaropvolgende jaar behouden, tenzij de beslissing vóór de in § 1 bedoelde datum door de gemeenteraad en de OCMW-raad wordt gewijzigd.<br>
 <br>
-§ 3. Bij ontstentenis van een dergelijke beslissing of als die beslissing te laat aankomt, wordt 8 % van het gemeentelijk aandeel binnen het Vlaams Gemeentefonds rechtstreeks op de rekening van het OCMW gestort.
+§3. Bij ontstentenis van een dergelijke beslissing of als die beslissing te laat aankomt, wordt 8 % van het gemeentelijk aandeel binnen het Vlaams Gemeentefonds rechtstreeks op de rekening van het OCMW gestort.<br>
+<br>
+§4. Als gemeenten worden samengevoegd, ontvangt het nieuwe OCMW automatisch voor het jaar van de samenvoeging een deel van het definitieve aandeel van de nieuwe gemeente dat overeenkomt met het procentuele aandeel van de gezamenlijke laatste definitieve aandelen van de oude OCMW’s in de gezamenlijke laatste definitieve aandelen van de oude gemeenten.
 
 ### ART. 13.
 
-Op het einde van de maanden januari tot en met oktober van elk jaar worden, onverminderd de bepalingen van artikel 21, aan elke gemeente en aan elk OCMW een voorschot uitbetaald dat gelijk is aan één tiende van hun aandeel, volgens de verhouding bepaald in artikel 12, en zonder de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, en de vermindering bepaald in artikel 19septies van het laatste jaar waarvoor de Vlaamse regering de definitieve verdeling heeft bepaald.
+Op het einde van de maanden januari tot en met oktober van elk jaar worden, onverminderd de bepalingen van artikel 21, aan elke gemeente en aan elk OCMW een voorschot uitbetaald dat gelijk is aan één tiende van hun aandeel, volgens de verhouding bepaald in artikel 12, en zonder de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, en de vermindering bepaald in artikel 19septies van het laatste jaar waarvoor de Vlaamse regering de definitieve verdeling heeft bepaald.<br>
+<br>
+Als gemeenten worden samengevoegd, bestaat in het eerste jaar van de samenvoeging elk voorschot aan de nieuwe gemeente en elk voorschot aan het nieuwe OCMW uit de som van de voorschotten aan respectievelijk de oude gemeenten en de oude OCMW’s, die volgens het eerste lid zijn berekend.
 
 ### ART. 14.
 
