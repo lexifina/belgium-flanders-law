@@ -153,7 +153,9 @@ In artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleidin
 
 Vanaf 2020 wordt op de begroting een algemene werkingssubsidie voor de gemeenten van het Vlaamse Gewest ingeschreven, als gedeeltelijke compensatie van de kosten en minderontvangsten door de vrijwaring van de open ruimte en om het behoud en de inrichting van de open ruimte te stimuleren.<br>
 <br>
-In 2020, 2021, 2022, 2023 en 2024 bedraagt de werkingssubsidie respectievelijk 20 %, 40 %, 60 %, 80 % en 100 % van het bedrag voor open ruimte in het Gemeentefonds van het voorgaande jaar, exclusief het aandeel van de steden, vermeld in artikel 6, § 1, 1°, a), b), c) en d), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, en aangevuld met een jaarlijkse groeivoet van 3,5 %. Vanaf 2025 wordt enkel nog de jaarlijkse groeivoet van 3,5 % toegepast.<br>
+In 2020, 2021, 2022, 2023 en 2024 bedraagt de werkingssubsidie respectievelijk 20 %, 40 %, 60 %, 80 % en 100 % van het bedrag voor open ruimte in het Gemeentefonds van het voorgaande jaar, exclusief het aandeel van de steden, vermeld in artikel 6, § 1, 1°, a), b), c) en d), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, en aangevuld met een jaarlijkse groeivoet van 3,5 %.<br>
+<br>
+In 2025 bedraagt de werkingssubsidie 100% van het bedrag voor open ruimte in het Gemeentefonds van het voorgaande jaar, exclusief het aandeel van de steden, vermeld in artikel 6, §1, 1°, a), b), c) en d), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, aangevuld met een groeivoet van 3,5%.<br>
 &nbsp;
 
 ### ART 23.
@@ -166,11 +168,7 @@ Bij een samenvoeging van gemeenten worden de gegevens over de gekadastreerde opp
 
 ### ART 23/1.
 
-Bij een samenvoeging van gemeenten mogen de nieuwe gemeenten niet minder ontvangen dan de som van de aandelen van de samen te voegen gemeenten of delen van gemeenten in het jaar dat voorafgaat aan de samenvoeging. Als de samenvoeging gepaard gaat met de opsplitsing van een of meer gemeenten wordt om de gewaarborgde ontvangst van de nieuwe gemeenten te berekenen, het aandeel van de op te splitsen gemeenten in het jaar dat voorafgaat aan de samenvoeging, ook opgesplitst, in dezelfde verhouding als de inwonersaantallen van de opgesplitste delen.<br>
-<br>
-De gewaarborgde ontvangst voor de nieuwe gemeenten, vermeld in het eerste lid, wordt, met ingang van het jaar van de samenvoeging, elk jaar geïndexeerd met 3,5%. De indexatie is cumulatief.<br>
-<br>
-In afwijking van artikel 23, tweede lid, zijn de bepalingen, vermeld in het eerste en tweede lid, ook van toepassing in geval van een samenvoeging met een stad zoals vermeld in artikel 6, § 1, 1°, a), b), c) of d), van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds.
+...
 
 ### ART 24.
 
@@ -180,15 +178,19 @@ De Vlaamse Regering stelt jaarlijks het aandeel van elke gemeente vast. De aande
 
 De Vlaamse Regering betaalt de vastgestelde aandelen aan de gemeenten uit op het einde van de eerste maand van het vierde kwartaal.
 
+### ART 25/1.
+
+De algemene werkingssubsidie wordt gebruikt voor de algemene financiering van de gemeenten van het Vlaamse Gewest en is volledig vrij van verantwoordings- en rapporteringsverplichtingen.
+
 ## Afdeling 2. Financiering lokale besturen: responsabiliseringsbijdragen
 
 ### ART 26.
 
 Vanaf 2020 kent de Vlaamse Regering aan de Vlaamse gemeenten, OCMW's, autonome gemeentebedrijven, havenbedrijven, hulpverleningszones, politiezones, ziekenhuizen en welzijnsverenigingen een dotatie toe ten belope van de helft van de door hen verschuldigde responsabiliseringsbijdragen, vermeld in artikel 19 van de wet van 24 oktober 2011 tot vrijwaring van een duurzame financiering van de pensioenen van de vastbenoemde personeelsleden van de provinciale en plaatselijke overheidsdiensten en van de lokale politiezones, tot wijziging van de wet van 6 mei 2002 tot oprichting van het fonds voor de pensioenen van de geïntegreerde politie en houdende bijzondere bepalingen inzake sociale zekerheid en houdende diverse wijzigingsbepalingen.<br>
 <br>
-De dotatie houdt geen rekening met de korting die de besturen kunnen krijgen op de responsabiliseringsbijdrage door de verschuldigde premie voor een aanvullende pensioenregeling voor hun contractueel personeel in mindering te brengen.<br>
+De dotatie houdt geen rekening met de korting die de besturen kunnen krijgen op de responsabiliseringsbijdrage door de verschuldigde premie voor een aanvullende pensioenregeling voor hun contractueel personeel in mindering te brengen.&nbsp;De dotatie houdt ook geen rekening met de verhoging die de besturen kunnen krijgen op de responsabiliseringsbijdrage doordat een aanvullende pensioenregeling voor hun contractueel personeel ontbreekt.<br>
 <br>
-Voor de percentages van de wettelijke basisbijdrage en voor de responsabiliseringscoëfficiënt wordt uitgegaan van de percentages waarop de ramingen van de responsabiliseringsbijdragen door de Federale Pensioendienst van mei 2019 gebaseerd zijn. Wijzigingen aan die percentages worden enkel in rekening gebracht als ze een daling van de responsabiliseringsbijdrage van dat bestuur tot gevolg hebben.
+Voor de wettelijke basisbijdrage wordt uitgegaan van een percentage van 43% en voor de responsabiliseringscoëfficiënt wordt uitgegaan van een percentage van 75%. Met die percentages wordt alleen rekening gehouden als ze een daling van de responsabiliseringsbijdrage tot gevolg hebben.
 
 ### ART 27.
 
@@ -198,9 +200,13 @@ Als de correctie, vermeld in het eerste lid, leidt tot een negatief bedrag, kan 
 
 ### ART 28.
 
-De vastgestelde bedragen worden aan de besturen volledig betaald op de eerste werkdag van de maand december van elk jaar.<br>
+De vastgestelde bedragen worden aan de besturen jaarlijks uiterlijk op 23 december volledig betaald.<br>
 <br>
-Als het begrotingskrediet voor een bepaald jaar ontoereikend is, worden de dotaties aan de besturen pro rata het beschikbare begrotingskrediet betaald op de eerste werkdag van de maand december van dat jaar. Het nog te betalen saldo voor dat jaar wordt toegevoegd aan het begrotingskrediet van het volgende jaar en betaald binnen de twee maanden nadat daarvoor het nodige krediet op de begroting werd ingeschreven.
+Als het begrotingskrediet voor een bepaald jaar ontoereikend is, worden de dotaties aan de besturen pro rata het beschikbare begrotingskrediet uiterlijk betaald op 23 december van dat jaar. Het nog te betalen saldo voor dat jaar wordt toegevoegd aan het begrotingskrediet van het volgende jaar en betaald binnen de twee maanden nadat daarvoor het nodige krediet op de begroting werd ingeschreven.
+
+### ART 28/1.
+
+De dotatie, vermeld in artikel 26, wordt gebruikt voor de algemene financiering van de besturen, vermeld in artikel 26, en is volledig vrij van verantwoordings- en rapporteringsverplichtingen.
 
 ## Afdeling 3. Invordering van provincie- en gemeentebelastingen
 
