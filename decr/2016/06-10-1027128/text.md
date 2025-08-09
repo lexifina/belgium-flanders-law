@@ -329,17 +329,17 @@ c) een mentoropleiding moet volgen behalve als hij daarvan wordt vrijgesteld;</s
 
 ### ART 16.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Als de leerling bij de uitvoering van de overeenkomst van alternerende opleiding de onderneming of derden schade berokkent of gebrekkig werk levert, is hij alleen aansprakelijk in geval van bedrog of zware schuld.</span><br>
+§ 1. Als de leerling bij de uitvoering van de overeenkomst van alternerende opleiding de onderneming of derden schade berokkent of gebrekkig werk levert, is hij alleen aansprakelijk in geval van bedrog of zware schuld.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor lichte schuld is hij alleen aansprakelijk als die schuld eerder gewoonlijk dan toevallig bij hem voorkomt.</span><br>
+Voor lichte schuld is hij alleen aansprakelijk als die schuld eerder gewoonlijk dan toevallig bij hem voorkomt.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De aansprakelijkheid van de vader en de moeder in de zin van artikel 1384, tweede lid, van het Burgerlijk Wetboek geldt enkel wanneer de minderjarige leerling overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld.</span><br>
+De aansprakelijkheid van titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als de minderjarige leerling conform de gevallen, vermeld in het eerste en tweede lid, persoonlijk aansprakelijk kan worden gesteld. De aansprakelijkheid van personen belast met het toezicht op anderen, vermeld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de leerling conform de gevallen, vermeld in het eerste en tweede lid, persoonlijk aansprakelijk kan worden gesteld..<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De onderneming is een aansteller in de zin van artikel 1384, derde lid, van het Burgerlijk Wetboek.</span><br>
+De onderneming is een aansteller als vermeld in artikel 6.14, §1, van het Burgerlijk Wetboek.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle met de bepalingen van deze paragraaf strijdige bedingen zijn nietig.</span><br>
+Alle met de bepalingen van deze paragraaf strijdige bedingen zijn nietig.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De leerling is niet verantwoordelijk voor de beschadigingen of de sleet die toe te schrijven zijn aan het regelmatige gebruik van het voorwerp, noch voor het toevallige verlies ervan.</span><br>
+§ 2. De leerling is niet verantwoordelijk voor de beschadigingen of de sleet die toe te schrijven zijn aan het regelmatige gebruik van het voorwerp, noch voor het toevallige verlies ervan.<br>
 &nbsp;
 
 ### ART 17.
