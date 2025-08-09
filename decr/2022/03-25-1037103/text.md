@@ -206,9 +206,9 @@ De tijd die de cursist moet besteden aan de uitvoering van zijn overeenkomst in 
 <br>
 Voor lichte schuld is hij alleen aansprakelijk als die schuld eerder gewoonlijk dan toevallig bij hem voorkomt.<br>
 <br>
-De aansprakelijkheid van de vader en de moeder, vermeld in artikel 1384, tweede lid, van het Oud Burgerlijk Wetboek, geldt alleen als de minderjarige cursist conform het eerste en tweede lid persoonlijk aansprakelijk kan worden gesteld.<br>
+De aansprakelijkheid van titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als de minderjarige cursist conform de gevallen, vermeld in het eerste en tweede lid, persoonlijk aansprakelijk kan worden gesteld. De aansprakelijkheid van personen belast met het toezicht op anderen, vermeld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de cursist conform de gevallen, vermeld in het eerste en tweede lid, persoonlijk aansprakelijk kan worden gesteld.<br>
 <br>
-De onderneming is een aansteller als vermeld in artikel 1384, derde lid, van het Oud Burgerlijk Wetboek.<br>
+De onderneming is een aansteller als vermeld in artikel 6.14, §1, van het Burgerlijk Wetboek.<br>
 <br>
 Alle bedingen die met de bepalingen van deze paragraaf strijdig zijn, zijn nietig.<br>
 <br>
