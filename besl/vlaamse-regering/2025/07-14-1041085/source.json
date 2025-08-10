@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041085,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-14 tot gedeeltelijke opheffing van het rooilijnplan nr. T°26 van de gewestweg N12 te Deurne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041085/VolledigDocument?datum=2025-08-10",
+  "source_sha256": "43438a1f4193ea0537f09693eb642cf76c82df4ac59a1d4b3880529491fd6fcd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041085&param=informatie",
+  "as_of": "2025-08-10",
+  "made": "2025-07-14",
+  "gazette": "2025-07-31",
+  "numac": 2025005742,
+  "document_start": "2025-08-10",
+  "document_end": null,
+  "in_force": "2025-08-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
