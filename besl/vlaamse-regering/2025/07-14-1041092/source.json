@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041092,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-14 tot gedeeltelijke opheffing van het rooilijnplan nr. B-A/I-4 van de gewestweg N1 te Merksem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041092/VolledigDocument?datum=2025-08-10",
+  "source_sha256": "3a62aca727976075be25a0e9a2c438fecac354dc1fa741ed93c6581b3d68b6e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041092&param=informatie",
+  "as_of": "2025-08-10",
+  "made": "2025-07-14",
+  "gazette": "2025-07-31",
+  "numac": 2025005775,
+  "document_start": "2025-08-10",
+  "document_end": null,
+  "in_force": "2025-08-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
