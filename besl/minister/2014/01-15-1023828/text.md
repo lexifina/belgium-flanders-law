@@ -14,11 +14,11 @@ Lijst met vervoerders belast met de openbaredienstverplichting tot het vervoer v
 <table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
-			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:27px; width:105px">Vervoersgebied</td>
-			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:131px">Benaming</td>
-			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:83px">Ondernemings-nummer</td>
-			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:121px">Adres</td>
-			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; width:179px">Periode openbaredienstverplichting</td>
+			<td style="background-color:#d9d9d9; border-color:black; border-style:solid; border-width:1px; height:27px; text-align:center; width:105px">Vervoersgebied</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; text-align:center; width:131px">Benaming</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; text-align:center; width:83px">Ondernemings-nummer</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; text-align:center; width:121px">Adres</td>
+			<td style="background-color:#d9d9d9; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:27px; text-align:center; width:179px">Periode openbaredienstverplichting</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Aalst</td>
@@ -155,10 +155,10 @@ Lijst met vervoerders belast met de openbaredienstverplichting tot het vervoer v
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Oostende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">Minder mobielen centrale vzw - CM Oostende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">476 214 075</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Cirkelstraat 8, 8400 Oostende</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-01-2014 tot 31-12-2024</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:131px">MOBAR vzw&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:83px">870 940 036</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:121px">Ottergemsesteenweg Zuid 680, 9000 Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:27px; width:179px">Van 01-07-2025 tot 31-12-2026</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:27px; width:105px">Oudenaarde</td>
