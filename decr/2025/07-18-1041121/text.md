@@ -27,3 +27,7 @@ In artikel 16, §1, van het decreet van 25 maart 2022 tot regeling van bepaalde 
 1° het derde lid wordt vervangen door wat volgt:<br>
 ”De aansprakelijkheid van titularissen van het gezag over de persoon van minderjarigen, vermeld in artikel 6.12 van het Burgerlijk Wetboek, geldt alleen als de minderjarige cursist conform de gevallen, vermeld in het eerste en tweede lid, persoonlijk aansprakelijk kan worden gesteld. De aansprakelijkheid van personen belast met het toezicht op anderen, ver-meld in artikel 6.13 van het Burgerlijk Wetboek, geldt alleen als de cursist conform de gevallen, vermeld in het eerste en tweede lid, persoonlijk aansprakelijk kan worden gesteld.”;<br>
 2° in het vierde lid wordt de zinsnede “als vermeld in artikel 1384, derde lid, van het Oud Burgerlijk Wetboek” vervangen door de zinsnede “als vermeld in artikel 6.14, §1, van het Burgerlijk Wetboek”.
+
+### ART 86.
+
+In artikel 71 van het decreet van 17 mei 2024 over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht wordt het jaartal “2025” vervangen door het jaartal “2026”.
