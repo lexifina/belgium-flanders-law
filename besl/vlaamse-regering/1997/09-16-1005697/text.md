@@ -124,7 +124,7 @@ Afwezigheden tijdens de werkplekcomponent van duale structuuronderdelen of de aa
 
 ### ART. 14quater.
 
-Problematische afwezigheden zijn :<br>
+Een afwezigheid van een leerling wordt beschouwd als een problematische afwezigheid als die leerling minimaal één lesuur van de halve lesdag problematisch afwezig is. Problematische afwezigheden zijn:<br>
 a) alle afwezigheden bij het leren die niet onder toepassing vallen van de artikelen 14ter, 14quinquies en 14septies ;<br>
 b) alle afwezigheden bij het werkplekleren die niet onder toepassing vallen van hetzij artikel 6, § 3, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, hetzij het arbeidsreglement of, bij ontstentenis daarvan, de door de organisator van het werkplekleren vastgelegde regeling.<br>
 <br>
