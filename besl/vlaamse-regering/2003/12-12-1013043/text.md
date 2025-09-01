@@ -230,7 +230,9 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=169">1. Afkortingen</a></p>
+<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=169">1. Afkortingen</a><br>
+<br>
+Bij artikel 19 van het BVR van 19 september 2025 wordt met ingang van 1 september 2025 in&nbsp;punt 1. Afkortingen tussen de woorden “code 22 met ingang van 1 september 2023” en de woorden “VE de vereiste bekwaamheidsbewijzen” de zinsnede “code 23 met ingang van 1 september 2025” ingevoegd.</p>
 
 ## 2. Overzicht
 
@@ -284,7 +286,230 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="https://www.ejustice.just.fgov.be/mopdf/2023/12/08_1.pdf#page=176">3.5. Psychopedagogisch werker</a></p>
+3.5 PSYCHOPEDAGOGISCH WERKER&nbsp;<br>
+<br>
+<br>
+&nbsp;
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>SSC</td>
+			<td>code</td>
+			<td>BEKWAAMHEIDSBEWIJZEN</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Basisdiploma:</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- hoktVL assistent in de psychologie;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- hoktVL orthopedagogie;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- het diploma van onderwijzer(es);</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- het diploma van kleuteronderwijzer(es);</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- het diploma van geaggregeerde voor het lager secundair onderwijs of het diploma van regent(es);</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- het diploma van een basisopleiding in één cyclus van het studiegebied onderwijs;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>1</td>
+			<td>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>9</td>
+			<td>- bachelor (PBA) gezinswetenschappen;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>3</td>
+			<td>- bachelor (PBA) orthopedagogie;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>3</td>
+			<td>- bachelor (PBA) toegepaste psychologie;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>3</td>
+			<td>- bachelor in het onderwijs: kleuteronderwijs;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>3</td>
+			<td>- bachelor in het onderwijs: lager onderwijs;</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>3</td>
+			<td>- bachelor in het onderwijs: secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>VE</td>
+			<td>333</td>
+			<td>23</td>
+			<td>- bachelor (PBA) sociale readaptatiewetenschappen.</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Basisdiploma:</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>2</td>
+			<td>- hoktSP orthopedagogie;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>2</td>
+			<td>- hoktSP gezinswetenschappen;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>2</td>
+			<td>- hoktSP sociale readaptatiewetenschappen;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>2</td>
+			<td>- hoktSP assistent in de psychologie;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>9</td>
+			<td>- hoktSP assistent inzake beroepskeuze;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>9</td>
+			<td>- gegradueerde orthopedagogie van het hoger beroepsonderwijs;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>9</td>
+			<td>- gegradueerde gezinswetenschappen van het hoger beroepsonderwijs;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>9</td>
+			<td>- gegradueerde sociale readaptatiewetenschappen van het hoger beroepsonderwijs;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>9</td>
+			<td>- gegradueerde assistent in de psychologie van het hoger beroepsonderwijs;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>2</td>
+			<td>- een van de vereiste bekwaamheidsbewijzen voor psychopedagogisch consulent;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>8</td>
+			<td>- ten minste hoktVL als vermeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's, + BPB;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>3</td>
+			<td>- het diploma van master, vermeld in artikel 6, punt 2bis van het besluit van 14 juni 1989 + BPB;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>17</td>
+			<td>- het diploma van professioneel gerichte bachelor, vermeld in artikel 6, punt 34bis, van het besluit van 14 juni 1989 + BPB;</td>
+		</tr>
+		<tr>
+			<td>VO</td>
+			<td>333</td>
+			<td>18</td>
+			<td>- het diploma van bachelor, vermeld in artikel 7, punt 6, van het besluit van 14 juni 1989 + BPB.</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>Basisdiploma:</td>
+		</tr>
+		<tr>
+			<td>AN</td>
+			<td>300</td>
+			<td>6</td>
+			<td>- ten minste hokt;</td>
+		</tr>
+		<tr>
+			<td>AN</td>
+			<td>300</td>
+			<td>17</td>
+			<td>- ten minste PBA als vermeld in artikel 7 van het besluit van 14 juni 1989;</td>
+		</tr>
+		<tr>
+			<td>AN</td>
+			<td>300</td>
+			<td>18</td>
+			<td>- ten minste bachelor als vermeld in artikel 7 van het besluit van 14 juni 1989.</td>
+		</tr>
+	</tbody>
+</table>
 
 ## 3.6. Paramedisch werker
 
