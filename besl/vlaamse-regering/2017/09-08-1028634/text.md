@@ -43,9427 +43,9436 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs als vermeld in artikel 1, 1°<br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:329px">
+<table cellspacing="0" style="border-collapse:collapse; width:355px">
 	<tbody>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>112581 - GO! CVO Cursa</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>112581 - GO! CVO Cursa</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beringen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beringen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bilzen-Hoeselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bilzen-Hoeselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bree</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bree</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Genk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Genk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lanaken</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lanaken</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Leopoldsburg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Leopoldsburg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lommel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lommel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maaseik</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maaseik</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maasmechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maasmechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Pelt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Pelt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Truiden</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Truiden</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tessenderlo-Ham</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tessenderlo-Ham</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tongeren-Borgloon</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tongeren-Borgloon</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zonhoven</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zonhoven</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>113712 - GO! hét CVO Pro</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Aalst</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>113712 - GO! hét CVO Pro</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Aalst</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Avelgem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Avelgem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Denderleeuw</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Denderleeuw</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Geraardsbergen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Geraardsbergen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Harelbeke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Harelbeke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ingelmunster</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ingelmunster</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kruisem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kruisem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Liedekerke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Liedekerke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oudenaarde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Oudenaarde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ronse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ronse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Spiere-Helkijn</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Spiere-Helkijn</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Waregem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Waregem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zottegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zottegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>117721 - CVO Vitant</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>117721 - CVO Vitant</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Hebreeuws</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Hebreeuws</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Boom</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Boom</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brasschaat</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brasschaat</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kapellen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kapellen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Stabroek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Stabroek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>123992 - CVO Kisp</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Aalst</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>123992 - CVO Kisp</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Aalst</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Aalter (fusie)</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Aalter (fusie)</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Asse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Asse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brasschaat</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brasschaat</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Deinze (fusie)</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Deinze (fusie)</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Destelbergen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Destelbergen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Dilbeek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dilbeek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Eeklo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Eeklo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Gavere</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gavere</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Geraardsbergen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Geraardsbergen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Liedekerke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Liedekerke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lier</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lier</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lochristi</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lochristi</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Merchtem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Merchtem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oudenaarde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Dendermonde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Oudenaarde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ronse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ronse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ternat</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ternat</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zelzate</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zelzate</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>128521 - GO! CVO Crescendo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beersel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Berlaar</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>128521 - GO! CVO Crescendo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Drogenbos</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beersel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Halle</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Berlaar</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Drogenbos</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Halle</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Heist-op-den-Berg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hoeilaart</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Heist-op-den-Berg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Huldenberg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Keerbergen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hoeilaart</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kortenberg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kraainem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Huldenberg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lennik</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Keerbergen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lier</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kortenberg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kraainem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lennik</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Linkebeek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lier</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Linkebeek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Mechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Overijse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Pajottegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Mechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Overijse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Pajottegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Mechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Genesius-Rode</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Pieters-Leeuw</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Genesius-Rode</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tervuren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tremelo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Vilvoorde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Pieters-Leeuw</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wezembeek-Oppem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zaventem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tervuren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>130765 - PCVO Limburg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bilzen-Hoeselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dilsen-Stokkem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tremelo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Genk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Vilvoorde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wezembeek-Oppem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zaventem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>130765 - PCVO Limburg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bilzen-Hoeselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Dilsen-Stokkem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Heusden-Zolder</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maasmechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Genk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maasmechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Riemst</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tongeren-Borgloon</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Voeren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>130864 - GO! CVO VOLT</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Aarschot</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Riemst</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tongeren-Borgloon</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Voeren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>130864 - GO! CVO VOLT</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Aarschot</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Begijnendijk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Diest</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Begijnendijk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Diest</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Haacht</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Herent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Holsbeek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Landen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Haacht</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Leuven</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Herent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Holsbeek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Landen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Leuven</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lubbeek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Leuven Centraal</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lubbeek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Leuven Centraal</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Leuven Hulp</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Leuven Hulp</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Rotselaar</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Scherpenheuvel-Zichem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tielt-Winge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tienen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Rotselaar</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Scherpenheuvel-Zichem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tielt-Winge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tienen</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>131318 - CVO Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Evergem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zoutleeuw</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>131318 - CVO Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Evergem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Textiel</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Merelbeke-Melle</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Textiel</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Merelbeke-Melle</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Textiel</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>131871 - CVO Qrios</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Aarschot</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bierbeek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bilzen-Hoeselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Textiel</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Diest</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>131482 - CVO Groeipunt (131482)</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beveren-Kruibeke-Zwijndrecht</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Genk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Deinze (fusie)</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hamont-Achel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hamme</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lokeren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Herk-de-Stad</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Houthalen-Helchteren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ninove</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kortenberg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Leuven</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Beveren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maaseik</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maasmechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Nieuwerkerken</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Peer</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Pelt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Oudenaarde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ronse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Niklaas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wetteren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wortegem-Petegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zele</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Leuven Centraal</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zottegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>131871 - CVO Qrios</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Aarschot</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Tongeren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bierbeek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bilzen-Hoeselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Genk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hamont-Achel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Truiden</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Herk-de-Stad</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Houthalen-Helchteren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tienen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tongeren-Borgloon</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kortenberg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Leuven</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zutendaal</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>131888 - CVO Groeipunt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Assenede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maaseik</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beveren-Kruibeke-Zwijndrecht</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Deinze (fusie)</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maasmechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dendermonde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Eeklo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Nieuwerkerken</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Peer</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bibliotheek-, archief en documentatiekunde</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Pelt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hamme</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lokeren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ninove</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Leuven Centraal</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oudenaarde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Beveren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Tongeren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Dendermonde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Truiden</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tienen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bibliotheek-, archief en documentatiekunde</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tongeren-Borgloon</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Oudenaarde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zutendaal</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>131888 - CVO Groeipunt (131888)</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Assenede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Deinze (fusie)</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Eeklo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Niklaas</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wetteren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wortegem-Petegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zele</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bibliotheek-, archief en documentatiekunde</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zottegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>132001 - CVO Creo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Deerlijk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Harelbeke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hooglede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bibliotheek-, archief en documentatiekunde</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kortrijk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kuurne</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lichtervelde</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>132001 - CVO Creo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Deerlijk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Menen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Harelbeke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Moorslede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hooglede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oostrozebeke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kortrijk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ruiselede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kuurne</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lichtervelde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Menen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Moorslede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Ruiselede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Roeselare</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Roeselare</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Staden</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tielt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wevelgem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wingene</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>137828 - GO! CVO Scala</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Blankenberge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Staden</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bredene</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brugge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tielt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wevelgem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wingene</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>137828 - GO! CVO Scala</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Blankenberge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bredene</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Gistel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Harelbeke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Izegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gistel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Knokke-Heist</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Harelbeke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Izegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Koekelare</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kortrijk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Knokke-Heist</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Koekelare</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kortrijk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ledegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maldegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Menen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Moorslede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ledegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oostende</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maldegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Menen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Maritieme diensten</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Moorslede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Oostende</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Brugge - Penitentiair Centrum</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ruiselede</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Maritieme diensten</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Ruiselede</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Roeselare</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tielt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Torhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Roeselare</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tielt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Waregem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wervik</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wevelgem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><a name="_Hlk181976734">Nederlands tweede taal richtgraad 1 en 2</a></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Torhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wingene</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zwevegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Waregem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wervik</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wevelgem</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>28431 - CVO LBC</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wingene</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zwevegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>28431 - CVO LBC</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beringen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beveren-Kruibeke-Zwijndrecht</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brasschaat</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beringen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brecht</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Herk-de-Stad</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hoogstraten</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beveren-Kruibeke-Zwijndrecht</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kalmthout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brasschaat</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Leopoldsburg</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Herk-de-Stad</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hoogstraten</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kalmthout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mortsel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Leopoldsburg</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lummen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Mechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Gent</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Beveren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Mortsel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hoogstraten</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Gent</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Beveren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Mechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Hoogstraten</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Turnhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Wortel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Mechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Schoten</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Katelijne-Waver</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Niklaas</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Wortel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Katelijne-Waver</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Stekene</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tessenderlo-Ham</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Turnhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Niklaas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Waasmunster</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>28531 - CVO Encora 028531</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Stekene</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>29124 - CVO Encora 029124</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tessenderlo-Ham</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>29389 - CVO Encora 029389</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Turnhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bibliotheek-, archief en documentatiekunde</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Waasmunster</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>28531 - CVO Encora 028531</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>29124 - CVO Encora 029124</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>29389 - CVO Encora 029389</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bibliotheek-, archief en documentatiekunde</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>30271 - CVO HIK</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Arendonk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Geel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>30271 - CVO HIK</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Arendonk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Geel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Herentals</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Laakdal</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Herentals</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mol</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tessenderlo-Ham</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Laakdal</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Mol</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Westerlo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tessenderlo-Ham</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>32383 - CVO Semper</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Asse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brussels Hoofdstedelijk Gewest</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Westerlo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Grimbergen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>32383 - CVO Semper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Asse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Halle</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brussels Hoofdstedelijk Gewest</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Londerzeel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Machelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Meise</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Grimbergen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Halle</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Londerzeel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brussel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Machelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Meise</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Haren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Steenokkerzeel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Vilvoorde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Haren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wemmel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Steenokkerzeel</strong></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>32491 - CVO Lethas Brussel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brussels Hoofdstedelijk Gewest</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Vilvoorde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brussel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wemmel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Haren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>32491 - CVO Lethas Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brussels Hoofdstedelijk Gewest</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>32888 - CVO CLT</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Leuven</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Hebreeuws</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Scandinavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>34066 - CVO SNT</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Blankenberge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Haren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>32888 - CVO CLT</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Leuven</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brugge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Hebreeuws</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Scandinavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>34066 - CVO SNT</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Blankenberge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brugge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>39222 - PCVO Moderne Talen Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maasmechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Voeren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>39371 - CVO De Verdieping</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hasselt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Heers</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Heusden-Zolder</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>39222 - PCVO Moderne Talen Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maasmechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Hasselt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Voeren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>39371 - CVO De Verdieping</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Heusden-Zolder</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Houthalen-Helchteren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Maasmechelen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Pelt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Truiden</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tongeren-Borgloon</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Houthalen-Helchteren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>41129 - GO! CVO EduKempen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Balen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Maasmechelen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>41129 - GO! CVO EduKempen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Balen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beerse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brecht</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dessel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beerse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Edegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brecht</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Geel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Geel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Herentals</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Herentals</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hoogstraten</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hoogstraten</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Malle</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Malle</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><a name="_Hlk181975935">Informatie- en communicatietechnologie</a></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Meerhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Meerhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Merksplas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Merksplas</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Mol</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mol</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Merksplas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Merksplas</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Turnhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Turnhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Wortel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Wortel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Retie</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Retie</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Turnhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Turnhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Westerlo</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Westerlo</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zandhoven</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zandhoven</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zoersel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>41285 - GO! CVO Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brussels Hoofdstedelijk Gewest</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zoersel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>41285 - GO! CVO Brussel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Asse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brussels Hoofdstedelijk Gewest</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Brussel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Assistentie vrije zorgberoepen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Chemie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dilbeek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Halle</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brussel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Assistentie vrije zorgberoepen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Haren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Chemie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Pieters-Leeuw</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Vilvoorde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>46474 - GO! CVO Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Haren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Pieters-Leeuw</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Vilvoorde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>46474 - GO! CVO Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Maritieme diensten</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Boom</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Bornem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Maritieme diensten</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brasschaat</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Essen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kalmthout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Boom</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kapellen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Bornem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brasschaat</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Essen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kalmthout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kapellen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kontich</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lint</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Mortsel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Niel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lint</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Nijlen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mortsel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: FPC Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Niel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Antwerpen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Nijlen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : FPC Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Antwerpen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Maritieme diensten</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Puurs-Sint-Amands</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Maritieme diensten</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Rumst</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Schoten</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Puurs-Sint-Amands</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Rumst</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Stabroek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Schoten</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wijnegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Willebroek</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Stabroek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wijnegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Willebroek</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>48462 - GO! CVO Focus</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beveren-Kruibeke-Zwijndrecht</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>48462 - GO! CVO Focus</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beveren-Kruibeke-Zwijndrecht</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dendermonde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Hamme</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Laarne</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Hamme</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lebbeke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Lokeren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Laarne</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lebbeke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Lokeren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Printmedia</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Beveren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slavische talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Beveren</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Dendermonde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Dendermonde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Oosterse talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Gillis-Waas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Sint-Niklaas</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Oosterse talen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Gillis-Waas</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Sint-Niklaas</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Temse</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Temse</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wetteren</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zele</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wetteren</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>48488 - CVO Cervo-GO!</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>De Panne</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zele</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><a name="_Hlk181976578">Informatie- en communicatietechnologie</a></td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>48488 - CVO Cervo-GO!</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>De Panne</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Logistiek en verkoop</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Diksmuide</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Logistiek en verkoop</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slagerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Diksmuide</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Gistel</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ieper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Slagerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Gistel</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Koksijde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ieper</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Middelkerke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Koksijde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Nieuwpoort</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Middelkerke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Nieuwpoort</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Slavische talen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Ieper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: maatwerk</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Poperinge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Veurne</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ieper</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Zonnebeke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Poperinge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:329px"><strong>48736 - CVO MIRAS</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Veurne</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Anzegem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Beernem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zonnebeke</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>48736 - CVO MIRAS</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Anzegem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Beernem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Brugge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Groot transport</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Groot transport</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijke decoratie- en naaitechnieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Dentergem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Diksmuide</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Ieper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Dentergem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Diksmuide</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijk erfgoed</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ieper</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Grafische communicatie en media</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijk erfgoed</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">ICT-technieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">ICT-technieken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Koksijde</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Kortrijk</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambulante Zorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Koksijde</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bijzondere educatieve noden</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese neventalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kortrijk</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambulante Zorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bijzondere educatieve noden</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Langemark-Poelkapelle</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese neventalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Menen</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Middelkerke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Oostende</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Langemark-Poelkapelle</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Menen</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oostende</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Meubelmakerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Oostkamp</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Fotografie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Oostkamp</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lichaamsverzorging</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Brugge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Afwerking bouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ambachtelijke accessoires</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lichaamsverzorging</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bakkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Brugge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Drankenkennis</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Afwerking bouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Horeca</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Land- en tuinbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Drankenkennis</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: maatwerk</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mode: realisaties</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Ruwbouw</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Land- en tuinbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Toerisme</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>PI: Gevangenis Ieper</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Ruwbouw</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudhulp</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Poperinge</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Toerisme</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>PI : Gevangenis Ieper</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudhulp</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Poperinge</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Roeselare</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Tielt</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Roeselare</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tielt</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Torhout</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Torhout</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Veurne</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Waregem</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Aanvullende algemene vorming</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Veurne</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Administratie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Algemene personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Auto</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Waregem</strong></td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Bedrijfsbeheer</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese hoofdtalen richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Administratie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Europese talen richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijk koken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Huishoudelijke decoratie- en naaitechnieken</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Koeling en warmte</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Lassen</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Mechanica-elektriciteit</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Koeling en warmte</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Nederlands tweede taal richtgraad 3 en 4</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Lassen</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Schrijnwerkerij</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Specifieke personenzorg</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wervik</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px"><strong>Wielsbeke</strong></td>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:329px">Informatie- en communicatietechnologie</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wervik</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wielsbeke</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
 		</tr>
 	</tbody>
 </table>
