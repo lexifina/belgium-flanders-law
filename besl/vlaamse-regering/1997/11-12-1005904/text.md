@@ -132,7 +132,7 @@ De afspraken over de modaliteiten aangaande het onderwijs op afstand en aangaand
 
 ### ART. 10quinquies.
 
-§ 1. Alle afwezigheden die niet vallen onder artikel 10ter , 1° tot en met 5°, en artikel 10quater, worden beschouwd als problematische afwezigheden.<br>
+§ 1. Alle afwezigheden van een leerling die minimaal één lestijd van een halve lesdag bedragen en die niet vallen onder artikel 10ter , 1° tot en met 5°, en artikel 10quater, worden beschouwd als problematische afwezigheden.<br>
 <br>
 § 2. De afwezigheden die geregistreerd zijn als problematisch, worden om de regelmatigheid van de leerling te beoordelen beschouwd als gewettigde afwezigheden, op voorwaarde dat de school in begeleidende maatregelen voor de leerling in kwestie voorziet. Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, signaleert de school bovendien de problematische afwezigheden aan het centrum voor leerlingenbegeleiding en werkt ermee samen rond begeleiding van de jongere in kwestie. Van die begeleiding houdt de school een dossier bij, dat een onderdeel mag zijn van het leerlingendossier.<br>
 <br>
@@ -160,7 +160,7 @@ Dit hoofdstuk is van toepassing op de leerplichtige leerlingen in het gewoon en 
 
 ### ART 10septies/2.
 
-Alle afwezigheden die niet conform artikel 26 van het decreet basisonderwijs van 25 februari 1997 door de directie als aanvaardbaar worden geacht, worden geregistreerd als andere afwezigheden.<br>
+Alle afwezigheden die niet conform artikel 26 van het decreet basisonderwijs van 25 februari 1997 door de directie als aanvaardbaar worden geacht, worden geregistreerd als andere afwezigheden.&nbsp;Een afwezigheid van een leerling wordt beschouwd als een andere afwezigheid als die leerling minimaal één lestijd van de halve lesdag afwezig is zonder dat die afwezigheid door de directie als aanvaardbaar wordt geacht.<br>
 <br>
 Om de regelmatigheid van de leerling te beoordelen, worden de andere afwezigheden, vermeld in het eerste lid, als aanvaardbare afwezigheden beschouwd, op voorwaarde dat:<br>
 1° de school in begeleidende maatregelen voor de kleuter in kwestie voorziet;<br>
