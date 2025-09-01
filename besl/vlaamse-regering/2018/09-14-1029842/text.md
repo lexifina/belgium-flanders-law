@@ -41,9 +41,7 @@ De periode van twintig opleidingsdagen per schooljaar waarin de leerling geen ov
 
 ### ART 3.
 
-In zijn hoedanigheid van stemgerechtigd lid van de klassenraad moet de mentor het ambtsgeheim bewaren waartoe de stemgerechtigde leden van het bestuurs- en onderwijzend personeel, waarop de rechtspositieregeling in onderwijs van toepassing is, gehouden zijn. Als de leerling de werkplekcomponent achtereenvolgens op verschillende werkplekken invult en er dus verschillende mentoren bij die leerling zijn betrokken tijdens hetzelfde schooljaar, kunnen die mentoren bij stemming in de klassenraad samen maar één stem uitbrengen. Bij staking van stemmen van de mentoren stemt de trajectbegeleider namens die mentoren, onverminderd zijn eigen stem.<br>
-<br>
-Tussen de aanbieder duaal leren en de werkplek worden praktische afspraken gemaakt over het functioneren van de mentor in de klassenraad, met inbegrip van het al dan niet aanwezig zijn van de mentor op klassenraadsvergaderingen.
+...
 
 ### ART 4.
 
@@ -109,46 +107,7 @@ De volgende organisatoren zijn organisatoren die instaan voor de organisatie van
 
 ### ART 8.
 
-§ 1. In duale structuuronderdelen, behalve bij 7de leerjaren, kunnen de volgende studiebewijzen uitgereikt worden:<br>
-1° een diploma van secundair onderwijs;<br>
-2° een studiegetuigschrift van het tweede leerjaar van de derde graad;<br>
-3° een studiegetuigschrift van het derde leerjaar van de derde graad;<br>
-4° een getuigschrift van de tweede graad van het secundair onderwijs;<br>
-5° een bewijs van beroepskwalificatie;<br>
-6° een bewijs van deelkwalificatie;<br>
-7° een bewijs van competenties.<br>
-<br>
-In duale structuuronderdelen 7de leerjaren kunnen de studiebewijzen, vermeld in het eerste lid, 5° tot en met 7°, uitgereikt worden.<br>
-<br>
-In aanloopstructuuronderdelen kunnen de studiebewijzen, vermeld in het eerste lid, 4° tot en met 7°, uitgereikt worden. Die studiebekrachtiging gebeurt met in acht name van het gegeven dat, zoals vastgelegd in het standaardtraject in kwestie, de inhoud van een aanloopstructuuronderdeel altijd een onderdeel is van de inhoud van het duaal structuuronderdeel waaraan het is gekoppeld.<br>
-<br>
-Een duaal structuuronderdeel kan op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden. Met behoud van de toepassing van het derde lid kan een aanloopstructuuronderdeel op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden.<br>
-<br>
-De studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, gelden als een onderwijskwalificatie als vermeld in artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Het studiebewijs, vermeld in het eerste lid, 4°, geldt alleen als een onderwijskwalificatie als het uitgereikt wordt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het voormelde decreet.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 5°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een beroepskwalificatie.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 6°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een deel van een beroepskwalificatie. Dat wordt expliciet op het model van studiebewijs vermeld, samen met de benaming van de beroepskwalificatie.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 7°, wordt toegekend als de leerling bepaalde competenties heeft verworven uit een erkende kwalificatie, zonder dat hij evenwel in aanmerking komt voor een van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6°.<br>
-<br>
-§ 2. Een attest van regelmatige lesbijwoning wordt uitgereikt bij vroegtijdige beëindiging van de opleiding zonder dat er attesteerbare competenties verworven zijn of na het eerste leerjaar van een graad. Als het attest wordt uitgereikt na het eerste leerjaar van een graad, verleent het van rechtswege toegang tot het tweede leerjaar van die graad. Het attest kan ook uitgereikt worden in aanloopstructuuronderdelen.<br>
-<br>
-§ 3. De volgende modellen, inclusief invulinstructies, zijn opgenomen in de volgende bijlagen:<br>
-1° het model voor een diploma van secundair onderwijs is opgenomen in bijlage 1, die bij dit besluit is gevoegd;<br>
-2° het model voor een studiegetuigschrift van het tweede leerjaar van de derde graad is opgenomen in bijlage 3, die bij dit besluit is gevoegd;<br>
-3° het model voor een studiegetuigschrift van het derde leerjaar van de derde graad is opgenomen in bijlage 4, die bij dit besluit is gevoegd;<br>
-4° het model voor een getuigschrift van de tweede graad van het secundair onderwijs is opgenomen in bijlage 5, die bij dit besluit is gevoegd;<br>
-5° het model voor een bewijs van beroepskwalificatie is opgenomen in bijlage 6, die bij dit besluit is gevoegd;<br>
-6° het model voor een bewijs van deelkwalificatie is opgenomen in bijlage 7, die bij dit besluit is gevoegd;<br>
-7° het model voor een bewijs van competenties is opgenomen in bijlage 8, die bij dit besluit is gevoegd;<br>
-8° het model voor een attest van regelmatige lesbijwoning is opgenomen in bijlage 9, die bij dit besluit is gevoegd.<br>
-<br>
-Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld. Op het model van studiebewijs, vermeld in het eerste lid, 4°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld, als het studiebewijs wordt uitgereikt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
-<br>
-Op het model van het studiebewijs, vermeld in het eerste lid, 5°, wordt expliciet vermeld dat het een beroepskwalificatie betreft, samen met de naam van de beroepskwalificatie en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
-<br>
-In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6°, wordt een studiebewijssupplement geïntegreerd.
+...
 
 ## Afdeling 4. Financiering en subsidiëring
 
@@ -363,13 +322,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=167">Bijlage 1</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 1:<br>
-<br>
-1° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
-"De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-2° bij de invulinstructies wordt punt (9) en de bijhorende tekst opgeheven.
+...
 
 ### BIJLAGE
 
@@ -377,96 +330,48 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=171">Bijlage 3</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 3:<br>
-<br>
-1° in het opschrift wordt de zinsnede "3° " vervangen door de zinsnede "2° ";<br>
-2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
-"De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-3° bij de invulinstructies wordt punt (8) en de bijhorende tekst opgeheven.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=173">Bijlage 4</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 4:<br>
-<br>
-1° in het opschrift wordt de zinsnede "4° " vervangen door de zinsnede "3° ";<br>
-2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
-"De inhoud van de opleiding . . . . . duaal (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-3° bij de invulinstructies wordt punt (8) en de bijhorende tekst opgeheven.<br>
-<br>
-* Bij BVR van 22 september 2023, BS 23 november 2023, worden met ingang van 1 september 2023 de&nbsp;volgende wijzigingen aangebracht aan bijlage 4:<br>
-1° in het opschrift wordt het woord “specialisatiejaar” vervangen door de zinsnede “7de leerjaar gericht op instroom arbeidsmarkt”;<br>
-2° het woord “specialisatiejaar” wordt telkens vervangen door de zinsnede “7de leerjaar gericht op instroom arbeidsmarkt”.<br>
-<br>
-&nbsp;
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=176">Bijlage 5</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 5:<br>
-<br>
-1° in het opschrift wordt de zinsnede "5° " vervangen door de zinsnede "4° ";<br>
-2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
-"De inhoud van de opleiding . . . . . (1) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-3° bij de invulinstructies wordt punt (9) en de bijhorende tekst opgeheven.<br>
-<br>
-* Bij BVR van 28 augustus 2020, BS 18 september 2020, worden met ingang van 1 september 2020,&nbsp;de volgende wijzigingen aangebracht aan bijlage 5:<br>
-<br>
-de bepaling "(*) Dit mag alleen vermeld worden bij een opleiding uit het beroepssecundair onderwijs" wordt vervangen door wat volgt:<br>
-"(*) Op het model van het getuigschrift van de tweede graad van het secundair onderwijs mag alleen worden verwezen naar "onderwijskwalificatie", "beroepskwalificatie" of "deelkwalificatie" als het getuigschrift wordt uitgereikt in het gewoon of buitengewoon beroepssecundair onderwijs en als de opleiding uit minstens één beroepskwalificatie of deelkwalificatie bestaat.".<br>
-&nbsp;
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/28_1.pdf#page=165">Bijlage 6</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=181">Bijlage 7</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 7:<br>
-<br>
-1° in het opschrift van wordt de zinsnede "7° " vervangen door de zinsnede "6° ";<br>
-2° in het studiebewijssupplement wordt de laatste zin vervangen door wat volgt:<br>
-"De inhoud van de opleiding . . . . . (6) is gebaseerd op een standaardtraject (www.kwalificatiesencurriculum.be/duaal-leren) dat de overheid heeft vastgelegd.";<br>
-3° bij de invulinstructies wordt punt (10) en de bijhorende tekst opgeheven.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=183">Bijlage 8</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 8:<br>
-<br>
-In het opschrift van bijlage 8 wordt de zinsnede "8° " vervangen door de zinsnede "7° ".
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=185">Bijlage 9</a><br>
-<br>
-* Bij BVR van 19 juli 2019, BS 28 augustus 2019, worden met ingang van 1 september 2019, de volgende wijzigingen aangebracht aan bijlage 9<br>
-<br>
-In het opschrift van bijlage&nbsp;9wordt de zinsnede "9 " vervangen door de zinsnede "8 ".
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=187">Bijlage 10</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=189">Bijlage 11</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=191">Bijlage 12</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=193">Bijlage 13</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=195">Bijlage 14</a>
+...
