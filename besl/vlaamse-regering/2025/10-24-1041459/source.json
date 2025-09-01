@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041459,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-24 tot erkenning van het graduaat in de laboratoriumassistentie als nieuwe opleiding van UC Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041459/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "b5363b33f69a2e573479da7099630bf13f3d6fc5176613994e8840dcaeace3dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041459&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-10-24",
+  "gazette": "2025-11-17",
+  "numac": 2025008517,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
