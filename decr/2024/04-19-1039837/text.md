@@ -1089,6 +1089,10 @@ Aan artikel 357/52 van dezelfde codex, ingevoegd bij het decreet van 30 maart 20
 <br>
 “Het eerste lid is niet van toepassing voor de uren-leraar voor anderstalige nieuwkomers in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.”.
 
+### ART 127.
+
+...
+
 ## Hoofdstuk 14. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
 ### ART 128.
@@ -2198,3 +2202,55 @@ Bijlage IV. De werkingsgebieden van de centra voor basiseducatie en de centra vo
 		</tr>
 	</tbody>
 </table>
+
+### BIJLAGE 2
+
+Vervanging van bijlage I bij de Codex Secundair Onderwijs van 17 december 2010<br>
+<br>
+Bijlage I. – Indeling in onderwijszones<br>
+<br>
+Zonenummer / Gemeenten<br>
+1. Antwerpen, Wommelgem<br>
+2. Aartselaar, Boom, Bornem, Hemiksem, Niel, Puurs-Sint-Amands, Rumst, Schelle, Willebroek<br>
+3. Geel, Grobbendonk, Herentals, Herenthout, Laakdal, Lille, Olen, Vorselaar, Westerlo<br>
+4. Essen, Kalmthout, Kapellen, Stabroek, Wuustwezel,<br>
+5. Berlaar, Heist-op-den-Berg, Lier, Lint, Nijlen, Ranst<br>
+6. Baarle-Hertog, Brasschaat, Brecht, Hoogstraten, Malle, Merksplas, Rijkevorsel, Schilde, Schoten, Wijnegem, Zandhoven, Zoersel<br>
+7. Bonheiden, Boortmeerbeek, Duffel, Haacht, Kampenhout, Keerbergen, Mechelen, Putte, Rotselaar, Sint-Katelijne-Waver, Tremelo, Zemst<br>
+8. Balen, Dessel, Meerhout, Mol<br>
+9. Boechout,&nbsp; Edegem, Hove, Kontich, Mortsel<br>
+10. Arendonk, Beerse, Kasterlee, Oud-Turnhout, Ravels, Retie, Turnhout, Vosselaar<br>
+11. Aarschot, Begijnendijk, Herselt, Holsbeek, Hulshout, Tielt-Winge<br>
+12. Affligem, Asse, Dilbeek, Kapelle-op-den-Bos, Londerzeel, Meise, Merchtem, Opwijk, Ternat, Wemmel<br>
+13. Alle gemeenten van het administratief arrondissement Brussel-hoofdstad<br>
+14. Bekkevoort, Diest, Halen, Scherpenheuvel-Zichem, Tessenderlo-Ham<br>
+15. Beersel, Drogenbos, Pajottegem, Halle,&nbsp; Lennik, Linkebeek, Pepingen, Sint-Genesius-Rode, Sint-Pieters-Leeuw<br>
+16. Bertem, Bierbeek, Herent, Leuven, Lubbeek, Oud-Heverlee<br>
+17. Boutersem, Geetbets, Glabbeek, Hoegaarden, Kortenaken, Linter, Tienen, Zoutleeuw<br>
+18. Grimbergen, Hoeilaart, Huldenberg, Kortenberg, Kraainem, Machelen, Overijse, Steenokkerzeel, Tervuren, Vilvoorde, Wezembeek-Oppem, Zaventem<br>
+19. Beringen, Hechtel-Eksel, Heusden-Zolder, Leopoldsburg, Lummen,<br>
+20. As, Genk, Houthalen-Helchteren, Zutendaal<br>
+21. Alken, Diepenbeek, Hasselt, Herk-de-Stad, Zonhoven<br>
+22. Bocholt, Bree, Hamont-Achel, Lommel, Oudsbergen, Pelt, Peer<br>
+23. Dilsen-Stokkem, Kinrooi, Maaseik, Maasmechelen,<br>
+24. Gingelom, Heers, Landen, Nieuwerkerken, Sint-Truiden, Wellen<br>
+25. Bilzen-Hoeselt, Herstappe, Lanaken, Riemst, Tongeren-Borgloon, Voeren<br>
+26. Aalst, Erpe-Mere, Lede<br>
+27. Aalter, Deinze, Dentergem, Kruisem, Oostrozebeke, Pittem, Tielt, Wingene, Zulte<br>
+28. Buggenhout, Dendermonde, Hamme, Lebbeke,<br>
+29. Assenede, Eeklo, Kaprijke, Maldegem, Sint-Laureins, Zelzate, Lievegem<br>
+30. Nazareth-De Pinte, Destelbergen, Evergem, Gent, Lochristi, Merelbeke-Melle,&nbsp; Sint-Martens-Latem<br>
+31. Bever,&nbsp; Geraardsbergen, Lierde<br>
+32. Berlare, Laarne, Lokeren, Oosterzele, Waasmunster, Wetteren, Wichelen, Zele<br>
+33. Denderleeuw, Haaltert, Liedekerke, Ninove, Roosdaal<br>
+34. Gavere, Horebeke, Kluisbergen, Maarkedal, Oudenaarde, Ronse, Wortegem-Petegem, Zwalm<br>
+35. Beveren-Kruibeke-Zwijndrecht, Sint-Gillis-Waas, Sint-Niklaas, Stekene, Temse<br>
+36. Brakel, Herzele, Sint-Lievens-Houtem, Zottegem<br>
+37. Beernem, Blankenberge, Brugge, Damme, De Haan, Jabbeke, Knokke-Heist, Oostkamp, Zuienkerke<br>
+38. Heuvelland, Ieper, Langemark-Poelkapelle, Mesen, Poperinge, Vleteren, Zonnebeke<br>
+39. Deerlijk, Harelbeke, Kortrijk, Kuurne, Menen, Spiere-Helkijn, Wervik, Wevelgem, Zwevegem<br>
+40. Bredene, Gistel, Middelkerke, Oostende, Oudenburg<br>
+41. Ardooie, Hooglede, Ingelmunster, Izegem, Ledegem, Lendelede, Moorslede, Roeselare, Staden<br>
+42. Ichtegem, Koekelare, Kortemark, Lichtervelde, Torhout, Zedelgem<br>
+43. Alveringem, De Panne, Diksmuide, Houthulst, Koksijde, Lo-Reninge, Nieuwpoort, Veurne<br>
+44. Anzegem, Avelgem, Waregem, Wielsbeke
