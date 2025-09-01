@@ -16,7 +16,7 @@ In afwijking van het eerste lid, gelden voor een directeur van een ziekenhuissch
 
 ### ART. 4.
 
-Voor het onderwijs in de vakken, bedoeld in artikel 2, § 1 van het besluit van de Vlaamse regering tot vaststelling van de vakken in de onderwijsinstellingen georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap, waar buitengewoon secundair onderwijs van opleidingsvorm 4 wordt georganiseerd, kan de Vlaamse regering de vereiste, de voldoende geachte of de andere bekwaamheidsbewijzen vaststellen, alsmede de eraan verbonden salarisschalen.
+...
 
 ### ART. 5.
 
