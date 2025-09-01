@@ -41,17 +41,20 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° andere steunaanvragers: de steunaanvragers, vermeld in artikel 5, lid 2, c), d) en e), van de gedelegeerde verordening;<br>
 2° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-2° /1° biologische groenten en fruit en melk:<br>
-a) groenten en fruit en melk die beschouwd kunnen worden als biologische producten als vermeld in artikel 3, punt 2, van de verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad;<br>
+2° /1° biologische groenten en fruit en zuivel:<br>
+a) groenten en fruit en zuivel die beschouwd kunnen worden als biologische producten als vermeld in artikel 3, punt 2, van de verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad;<br>
 b) groenten en fruit die beschouwd kunnen worden als omschakelingsproducten als vermeld in artikel 3, punt 7, van de voormelde verordening;<br>
 3° groenten en fruit: de producten van de sector groenten en fruit en de sector bananen, vermeld in bijlage I, deel IX en XI, van de verordening;<br>
 4° indicatorschool: een onderwijsinstelling uit het buitengewoon lager onderwijs, het buitengewoon secundair onderwijs of een onderwijsinstelling uit het basisonderwijs waarvan minstens 15% van de ingeschreven leerlingen rechthebbende is van de indicator "schooltoelage" als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, in het tweede schooljaar voor het schooljaar waarvoor een deelnameverklaring als vermeld in artikel 7 van dit besluit, wordt ingediend;<br>
 5° melk: consumptiemelk en de lactosevrije versies daarvan als bedoeld in artikel 23, lid 3, b), van de verordening evenals dranken op basis van melk met cacao, of natuurlijk gearomatiseerd, als bedoeld in bijlage V van de verordening, die niets van het volgende bevatten: toegevoegde suiker, toegevoegd zout, toegevoegde vetten, toegevoegde zoetstoffen, toegevoegde kunstmatige smaakversterkers E620 tot en met E650 als omschreven in Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven.<br>
 6° ministers: de Vlaamse minister, bevoegd voor het gezondheidsbeleid, de Vlaamse minister, bevoegd voor onderwijs en vorming,&nbsp;en de Vlaamse minister, bevoegd voor de landbouw;<br>
 7° onderwijsinstelling: een instelling in het Vlaamse Gewest, die door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd wordt voor basisonderwijs, inclusief onthaalonderwijs voor anderstalige nieuwkomers, of buitengewoon secundair onderwijs;<br>
+7°/1 portie zuivel: minstens 200 ml melk of minstens 125 ml yoghurt, zonder dat beide gecombineerd worden;<br>
 8° gedelegeerde verordening: de gedelegeerde verordening (EU) nr. 2017/40 van de Commissie van 3 november 2016 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad, met betrekking tot Uniesteun voor de verstrekking van groenten en fruit, bananen en melk in onderwijsinstellingen en tot wijziging van Gedelegeerde Verordening (EU) nr. 907/2014;<br>
 9° verordening: verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<br>
-10° schoolregeling: de schoolfruit- en groentenregeling, vermeld in artikel 23 van de verordening, en de schoolmelk- en zuivelproductenregeling, vermeld in artikel 26 van de verordening.
+10° schoolregeling: de schoolfruit- en groentenregeling, vermeld in artikel 23 van de verordening, en de schoolmelk- en zuivelproductenregeling, vermeld in artikel 26 van de verordening;<br>
+11° yoghurt: yoghurt als vermeld in artikel 23, lid 4, b), van de verordening, die geen toegevoegde suiker, toegevoegd zout, toegevoegde vetten, toegevoegde zoetstoffen of toegevoegde kunstmatige smaakversterkers E620 tot en met E650 als vermeld in Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven, bevat;<br>
+12° zuivel: melk en yoghurt.
 
 ### ART 2.
 
@@ -73,10 +76,10 @@ In de aanvraag verbindt de onderwijsinstelling zich er toe:<br>
 1° de verbintenissen, vermeld in artikel 6, lid 1, a), c), e) en f), van de gedelegeerde verordening, aan te gaan;<br>
 2° ...<br>
 3° de ouders van de leerlingen op de hoogte te brengen van de deelname van de onderwijsinstelling aan de schoolregeling via de poster die hun door de bevoegde entiteit na de inschrijving wordt bezorgd;<br>
-4° de groenten en fruit en de melk die in het kader van de schoolregeling verstrekt worden zonder bijkomende voorwaarden aan te bieden aan alle leerlingen van de school in kwestie, voor consumptie door die leerlingen op schooldagen;<br>
+4° de groenten en fruit en de zuivel die in het kader van de schoolregeling verstrekt worden zonder bijkomende voorwaarden aan te bieden aan alle leerlingen van de school in kwestie, voor consumptie door die leerlingen op schooldagen;<br>
 5° de onterecht uitbetaalde steun terug te betalen;<br>
 6° de groenten en fruit die in het kader van de schoolregeling verstrekt worden alleen aan te bieden buiten de schoolmaaltijden.<br>
-7° de melk die in het kader van de schoolregeling verstrekt wordt, aan te bieden buiten de schoolmaaltijden. De melk wordt alleen binnen de schoolmaaltijden aangeboden als ze voldoet aan al de volgende voorwaarden:<br>
+7° de zuivel die in het kader van de schoolregeling verstrekt wordt, aan te bieden buiten de schoolmaaltijden. In afwijking daarvan kan een portie zuivel, die bestaat uit minstens 200 ml melk, binnen de schoolmaaltijden aangeboden worden als ze voldoet aan al de volgende voorwaarden:<br>
 a)&nbsp;&nbsp; &nbsp;ze wordt niet gebruikt in de bereiding van de schoolmaaltijden;<br>
 b)&nbsp;&nbsp; &nbsp;ze wordt niet gebruikt om producten te vervangen die deel uitmaken van de schoolmaaltijden waarvoor een financiële bijdrage is ontvangen door de onderwijsinstelling. De voormelde voorwaarde geldt niet als de onderwijsinstelling de schoolmaaltijd gratis distribueert.<br>
 <br>
@@ -86,9 +89,9 @@ De ministers kunnen de uiterste indieningsdatum en de wijze waarop de erkennings
 
 ### ART 5.
 
-Aan de onderwijsinstellingen, die erkend zijn conform artikel 4, kan steun worden verleend voor de verstrekking van een portie biologische of niet-biologische groenten en fruit en melk aan kinderen in onderwijsinstellingen in het kader van de schoolregeling.<br>
+Aan de onderwijsinstellingen, die erkend zijn conform artikel 4, kan steun worden verleend voor de verstrekking van een portie biologische of niet-biologische groenten en fruit en een portie zuivel aan kinderen in onderwijsinstellingen in het kader van de schoolregeling.<br>
 <br>
-De steun, vermeld in het eerste lid, wordt verleend voor de verstrekking van één portie per leerling per week gedurende minstens een van de volgende twee perioden:<br>
+De steun, vermeld in het eerste lid, wordt verleend voor de verstrekking van één portie groenten en fruit en één portie zuivel per leerling per week gedurende minstens een van de volgende twee perioden:<br>
 1° een eerste periode van maximaal tien, al dan niet aaneengesloten, weken, die plaatsvindt vanaf 1 september tot en met 31 januari;<br>
 2° een tweede periode van maximaal tien, al dan niet aaneengesloten, weken, die plaatsvindt vanaf 1 januari tot en met 30 april.<br>
 <br>
@@ -101,17 +104,17 @@ De ministers kunnen:<br>
 
 ### ART 6.
 
-De steun, vermeld in artikel 5, eerste lid, bestaat uit een forfaitair steunbedrag per portie biologische of niet-biologische groenten en fruit, en melk.<br>
+De steun, vermeld in artikel 5, eerste lid, bestaat uit een forfaitair steunbedrag per portie biologische of niet-biologische groenten en fruit, en per portie zuivel.<br>
 <br>
 De ministers bepalen de forfaitaire steunbedragen, vermeld in het eerste lid, en houden daarbij rekening met de evolutie van de marktprijzen.<br>
 <br>
-De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het&nbsp;forfaitaire steunbedrag voor niet-biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, als minstens een van die porties in de periode in kwestie, niet biologisch is.<br>
+De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het&nbsp;forfaitaire steunbedrag voor niet-biologische groenten en fruit en zuivel, vermeld in het eerste en tweede lid, als minstens een van die porties in de periode in kwestie, niet biologisch is.<br>
 <br>
-De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het forfaitaire steunbedrag voor biologische groenten en fruit en melk, vermeld in het eerste en tweede lid, alleen als alle verstrekte porties in de periode in kwestie biologisch zijn.<br>
+De onderwijsinstelling ontvangt voor alle porties, verstrekt aan een leerling in een van de perioden, vermeld in artikel 5, tweede lid, het forfaitaire steunbedrag voor biologische groenten en fruit en zuivel, vermeld in het eerste en tweede lid, alleen als alle verstrekte porties in de periode in kwestie biologisch zijn.<br>
 <br>
 Er kan alleen steun worden toegekend voor het aantal leerlingen dat de onderwijsinstelling heeft doorgegeven in de deelnameverklaring, vermeld in artikel 7, of in de steunaanvraag, vermeld in artikel 9, tweede lid.<br>
 <br>
-De ministers kunnen bepalen met welke documenten de aankoop van de porties biologische of niet-biologische groenten en fruit en melk, vermeld in het eerste lid, en de hoeveelheid ervan, gestaafd wordt. De onderwijsinstelling dient de voormelde documenten in bij de steunaanvraag, vermeld in artikel 9.
+De ministers kunnen bepalen met welke documenten de aankoop van de porties biologische of niet-biologische groenten en fruit en zuivel, vermeld in het eerste lid, en de hoeveelheid ervan, gestaafd wordt. De onderwijsinstelling dient de voormelde documenten in bij de steunaanvraag, vermeld in artikel 9.
 
 ### ART 7.
 
@@ -119,9 +122,9 @@ Elk schooljaar dienen de erkende onderwijsinstellingen die willen deelnemen aan 
 <br>
 In deze deelnameverklaring geven de onderwijsinstellingen het aantal leerlingen door dat ingeschreven is voor het schooljaar in kwestie aan het begin van het schooljaar.<br>
 <br>
-In de deelnameverklaring verklaart de onderwijsinstelling dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform artikel 5.<br>
+In de deelnameverklaring verklaart de onderwijsinstelling dat ze de groenten, het fruit en de zuivel in het kader van de schoolregeling verstrekt conform artikel 5.<br>
 <br>
-Bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, 2° en in afwijking van het derde lid, verklaart de onderwijsinstelling in de deelnameverklaring dat ze de groenten, het fruit en de melk in het kader van de schoolregeling verstrekt conform de door de ministers bepaalde modaliteiten.<br>
+Bij een uitgebreide verstrekking als vermeld in artikel 5, vierde lid, 2° en in afwijking van het derde lid, verklaart de onderwijsinstelling in de deelnameverklaring dat ze de groenten, het fruit en de zuivel in het kader van de schoolregeling verstrekt conform de door de ministers bepaalde modaliteiten.<br>
 <br>
 De ministers kunnen de uiterste indieningsdatum en de wijze waarop de deelnameverklaring ingediend wordt, bepalen.<br>
 <br>
@@ -141,7 +144,7 @@ De ministers kunnen de uiterste indieningsdatum, de wijze waarop de steunaanvraa
 
 ### ART 9/1.
 
-De kosten voor de groenten en fruit en melk die door de onderwijsinstelling worden verstrekt aan haar leerlingen en waarvoor ze al een financiële bijdrage of steun ontvangt, komen niet in aanmerking voor de steun, vermeld in artikel 5, eerste lid.
+De kosten voor de groenten en fruit en zuivel die door de onderwijsinstelling worden verstrekt aan haar leerlingen en waarvoor ze al een financiële bijdrage of steun ontvangt, komen niet in aanmerking voor de steun, vermeld in artikel 5, eerste lid.
 
 ## HOOFDSTUK 4 Andere steunaanvragers
 
