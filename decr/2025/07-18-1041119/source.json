@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041119,
+  "title": "Decreet van 2025-07-18 tot wijziging van het besluit van de Vlaamse Regering van 24 maart 2023 over tijdelijke projecten in het basis- en secundair onderwijs in het kader van een herwaardering van het lerarenambt en van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041119/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "185ba9ef1c484397c888abe8953115f72c88dc0c2ee455abd9c0600b9b89f784",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041119&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-07-18",
+  "gazette": "2025-08-07",
+  "numac": 2025005897,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
