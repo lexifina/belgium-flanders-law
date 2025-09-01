@@ -81,6 +81,15 @@ Om te voldoen aan de voorwaarde, vermeld in het eerste lid, 2°, kunnen modules 
 <br>
 De minister specificeert de competenties in het eerste lid, 1°, en stelt een beoordelingssysteem vast om na te gaan of een opleiding voldoet aan de voorwaarde, vermeld in het eerste lid, 1°. De minister deelt dit ministerieel besluit, na consultatie van de sociale partners en na overleg binnen de Vlaamse Regering, mee aan de Vlaamse Regering.<br>
 <br>
+Volgende activiteiten geven geen recht op Vlaams opleidingsverlof:<br>
+1° onthaaltrajecten;<br>
+2° begeleiding van een startende collega door meter/peter;<br>
+3° een online aanbod van opleidingsvideo’s;<br>
+4° lunch and learn sessies;<br>
+5° bedrijfstheater;&nbsp;<br>
+6° lerende netwerken;<br>
+7° intervisie.<br>
+<br>
 § 2. De arbeidsmarktgerichte opleiding, vermeld in artikel 109, § 1, 1°, c), d), van de wet van 22 januari 1985, geeft recht op Vlaams opleidingsverlof als ze voldoet aan de voorwaarden, vermeld in paragraaf 1, 1°, 3° en 4°.<br>
 <br>
 § 3. De loopbaangerichte opleiding, vermeld in artikel 107ter, 3°, van de wet van 22 januari 1985, geeft recht op Vlaams opleidingsverlof als ze voldoet aan de voorwaarden, vermeld in paragraaf 1, 2° en 3°.
@@ -268,7 +277,20 @@ Het Vlaams opleidingsverlof kan worden toegekend aan een werknemer voor maximaal
 <br>
 Aan de werknemer wordt een aantal uren recht op Vlaams opleidingsverlof toegekend a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand maart die voorafgaat aan het opleidingsjaar, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.<br>
 <br>
-In afwijking van het tweede lid heeft de werknemer die in de maand maart die voorafgaat aan het opleidingsjaar geen contractuele tewerkstellingsbreuk heeft van minstens 50 %, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.
+In afwijking van het tweede lid heeft de werknemer die in de maand maart die voorafgaat aan het opleidingsjaar geen contractuele tewerkstellingsbreuk heeft van minstens 50 %, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 50 % bedraagt van een voltijdse tewerkstelling.<br>
+<br>
+In afwijking van het eerste lid, worden voor het schooljaar 2025-2026 werknemers die minder dan 80% zijn tewerkgesteld of gemiddeld minder dan 28 uur per week werken, uitgesloten van de toepassing van hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985.&nbsp;<br>
+<br>
+In afwijking van het tweede lid, wordt voor het schooljaar 2025-2026 aan de werknemer een aantal uren recht op Vlaams opleidingsverlof toegekend a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand maart die voorafgaat aan het opleidingsjaar, op voorwaarde dat die minstens 80 % bedraagt van een voltijdse tewerkstelling.<br>
+<br>
+In afwijking van het derde lid, heeft voor het schooljaar 2025-2026, in afwijking van het vijfde lid, de werknemer die in de maand maart die voorafgaat aan het opleidingsjaar geen contractuele tewerkstellingsbreuk heeft van minstens 80%, recht op het aantal uren Vlaams opleidingsverlof a rato van de contractuele tewerkstellingsbreuk zoals opgenomen in de DmfA van de maand waarin de eerste opleiding start, op voorwaarde dat die minstens 80% bedraagt van een voltijdse tewerkstelling.
+
+### ART 22/1.
+
+Voor het recht op Vlaams opleidingsverlof in de gevallen waarin de werknemer tewerkgesteld wordt als uitzendkracht in toepassing van hoofdstuk 2 van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, gelden de volgende bijkomende voorwaarden:<br>
+1° de gebruiker valt onder het toepassingsgebied bepaald in of krachtens artikel 108 §1 van de wet van 22 januari 1985;<br>
+2° het uitzendbureau moet de ontvangen terugbetaling doorstorten aan de gebruiker;<br>
+3° het uitzendbureau mag aan de gebruiker een administratieve kost aanrekenen voor het indienen van de terugbetalingsaanvraag, maar mag geen percentage van de ontvangen terugbetaling achterhouden. Het afsprakenkader met betrekking tot de administratieve kost moet transparant en op voorhand opgenomen worden in een overeenkomst tussen het uitzendbureau en de gebruiker.
 
 ### ART 23.
 
@@ -414,7 +436,9 @@ De terugbetaling aan de werkgever wordt beperkt tot een forfaitair bedrag per uu
 
 ### ART 38.
 
-Vanaf het schooljaar 2014-2015 bedraagt het forfaitaire bedrag per uur Vlaams opleidingsverlof voor de terugbetaling aan de werkgevers 21,30 euro.
+Vanaf het schooljaar 2014-2015 bedraagt het forfaitaire bedrag per uur Vlaams opleidingsverlof voor de terugbetaling aan de werkgevers 21,30 euro.<br>
+<br>
+In afwijking van het eerste lid bedraagt voor het schooljaar 2025-2026 het forfaitair bedrag per uur Vlaams opleidingsverlof voor de terugbetaling aan de werkgever 14,91 euro.
 
 ## HOOFDSTUK 6. Cumulatie
 
