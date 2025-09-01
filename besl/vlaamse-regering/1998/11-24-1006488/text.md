@@ -78,10 +78,10 @@ De Vlaamse minister bevoegd voor het onderwijs is belast met de uitvoering van d
 
 ### BIJLAGE 1
 
-Bijlage. Model van het getuigschrift basisonderwijs<br>
+Model van het getuigschrift basisonderwijs<br>
 &nbsp;<br>
-&nbsp;<strong>VLAAMSE GEMEENSCHAP</strong><br>
-<strong>Getuigschrift basisonderwijs, onderwijskwalificatie niveau 1</strong><br>
+<strong>VLAAMSE GEMEENSCHAP</strong><br>
+<strong>Getuigschrift van basisonderwijs, onderwijskwalificatie niveau 1</strong><br>
 <strong>&nbsp;</strong><br>
 uitgereikt krachtens artikel 53, 54 en 56 van het decreet basisonderwijs van 25 februari 1997 en het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan.<br>
 &nbsp;<br>
@@ -94,22 +94,26 @@ van het schoolbestuur van de school<br>
 .................................................................................................................<br>
 die erkend is door de Vlaamse Gemeenschap<br>
 &nbsp;<br>
+<br>
+<br>
 bevestigt hiermee dat (<em>voor- en achternaam van de leerling in drukletters</em>)<br>
 .................................................................................................................<br>
 geboren op (<em>geboortedatum, met de maand voluit geschreven</em>)<br>
 .................................................................................................................<br>
-het getuigschrift basisonderwijs behaald heeft:<span style="font-size:10.8333px">(<sup>1</sup>)</span><br>
-- via het gemeenschappelijk curriculum<br>
-- via een individueel aangepast curriculum of een individueel handelingsplan<br>
-- door te slagen voor de examencommissie voor het getuigschrift basisonderwijs.<br>
-.................................................................................................................<br>
+het getuigschrift basisonderwijs behaald heeft.<br>
+<br>
+<br>
 <br>
 Dit getuigschrift is uitgereikt in het schooljaar ............... - ............... (<em>twee opeenvolgende jaartallen van telkens vier cijfers</em>).<br>
-&nbsp;<br>
+<br>
+<br>
+<br>
 Handtekening voor het schoolbestuur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handtekening van de leerling<br>
 &nbsp;<br>
-&nbsp;<br>
-&nbsp;(<sup>1</sup>) Een van de drie mogelijkheden opnemen op het getuigschrift.
+<br>
+<br>
+<br>
+&nbsp;
 
 ### BIJLAGE 2
 
