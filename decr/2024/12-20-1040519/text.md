@@ -511,6 +511,31 @@ Het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van 
 
 ## Afdeling 5. Hervorming Vlaams opleidingsverlof en verankering gemeenschap-pelijk initiatiefrecht
 
+### ART 62.
+
+In artikel 109 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, vervangen bij het decreet van 12 oktober 2018 en gewijzigd bij het decreet van 19 juni 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 1°, wordt punt d) vervangen door wat volgt:<br>
+“d) de beroepskwalificerende trajecten, vermeld in artikel 2, 2°, van het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader;”;<br>
+2° in paragraaf 2, eerste lid, wordt de zinsnede “paragraaf 1, 1°, a), b) en e), 2°, 3° en 4°” vervangen door de zinsnede “paragraaf 1, 1°, a), b) en e), en 2°”;<br>
+3° aan paragraaf 2 worden een vijfde, zesde en zevende lid toegevoegd, die luiden als volgt:&nbsp;<br>
+“De arbeidsmarktgerichte opleidingen, vermeld in paragraaf 1, 3° en 4°, geven recht op Vlaams opleidingsverlof als ze voldoen aan de voorwaarden die de Vlaamse Regering bepaalt. Voor bedrijfsinterne opleidingen wordt het verkrijgen van een gunstig preadvies van de door de Vlaamse Regering aangeduide dienst als extra beperkende voorwaarde ingevoerd. Dat preadvies gaat de arbeidsmarktgerichtheid van de opleiding na. De Vlaamse Regering bepaalt de procedure en de voorwaarden van het preadvies nader.<br>
+De voorwaarden, vermeld in het vijfde lid, hebben minstens betrekking op de minimale duurtijd van de opleiding, de vorm van de opleiding, de kwaliteitsvereisten van de opleidingsverstrekker, de beoordelingscriteria naar arbeidsmarktgerichtheid en de aanmelding bij de dienst die aange-duid wordt door de Vlaamse Regering.&nbsp;<br>
+De bedrijfsinterne opleidingen, vermeld in het vijfde lid, zijn opleidingen die de werkgever organiseert voor werknemers van de eigen onderneming en waarbij de geleerde vaardigheden primair in het belang zijn van het functioneren van de onderneming.”.
+
+### ART 63.
+
+In artikel 111 van dezelfde wet, vervangen bij het decreet van 12 oktober 2018, wordt paragraaf 1 vervangen door wat volgt:&nbsp;<br>
+<br>
+“§1. De werknemer beslist autonoom om een arbeidsmarktgerichte of loop-baangerichte opleiding te volgen in het kader van het Vlaams opleidingsverlof. De werknemer neemt hiervoor zelf initiatief of kan ingaan op een voorstel van zijn werkgever.&nbsp;<br>
+<br>
+De werknemer heeft het recht om op het werk afwezig te zijn, met behoud van het geplafonneerde loon dat op het gewone tijdstip moet worden uitbe-taald, om opleiding te volgen, om te studeren of om examens af te leggen.&nbsp;<br>
+<br>
+De Vlaamse Regering bepaalt de modaliteiten voor de aanvraag en voor de afwezigheid op het werk.”.
+
+### ART 64.
+
+Artikel 109 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, zoals gewijzigd bij artikel 62 van dit decreet, is niet van toepassing op de al aangevatte opleidingen die op 1 september 2025 niet zijn afgerond.
+
 ## Hoofdstuk 7. Welzijn, Volksgezondheid en Gezin
 
 ## Afdeling 1. Aanpassing van het Groeipakketdecreet van 2018 in kader van het regeerakkoord
@@ -533,6 +558,28 @@ In artikel 4, §1, van hetzelfde decreet, gewijzigd bij de decreten van 20 de-ce
 3° &nbsp;in het vijfde lid wordt de zinsnede “vanaf 1 januari 2025” vervangen door de zinsnede “tot en met 31 december 2024 niet jaarlijks verhoogd met een index van 2 procent”;<br>
 4° &nbsp;een achtste lid wordt toegevoegd, dat luidt als volgt:<br>
 “De bedragen van de toelagen in het kader van het gezinsbeleid, vermeld in deel 1 en 3 van boek 2 en deel 2 van boek 5, die ingevolge de toepassing van het vierde tot en met zesde lid werden bekomen op 31 december 2024, worden vanaf 1 januari 2025 jaarlijks op 1 september aangepast overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand juli van het jaar van de indexering, ten opzichte van de afgevlakte gezondheidsindex voor de maand juli van het jaar dat het jaar van de indexering voorafgaat, met een jaarlijkse minimale procentuele stijging van 2 procent.”.
+
+### ART 68.
+
+In artikel 27, §1, punt 2°, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 maart 2019, worden de woorden “en het daaraan voorafgaande schooljaar” opgeheven.
+
+### ART 69.
+
+In artikel 28, §1, punt 2°, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 maart 2019, worden de woorden “en het daaraan voorafgaande schooljaar” opgeheven.
+
+### ART 70.
+
+In artikel 30, §2, van hetzelfde decreet, gewijzigd bij de decreten van 22 maart 2019 en 3 juli 2020, wordt de zinsnede “en het daaraan voorafgaande schooljaar hetzij eveneens 30 al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest, hetzij minder dan 290 halve schooldagen aanwezig is geweest indien de leerling toen onderworpen was aan de leerplicht en gedurende dat schooljaar ingeschreven was in een kleuterschool, met uitzondering van de leerlingen bedoeld onder 27, §2, 4°, van dit decreet” opgeheven.
+
+### ART 71.
+
+In artikel 34, §2, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 maart 2019, wordt de zinsnede “, en als hij gedurende het schooljaar dat voorafgaat aan het schooljaar in kwestie 30, al dan niet gespreide halve schooldagen ongewettigd afwezig is geweest tijdens de lessen in de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor voltijds gewoon of buitengewoon secundair onderwijs of de erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs, en/of het werkplekleren dat deel uitmaakt van de opleiding in de periode van 1 september tot en met 30 juni” opgeheven.
+
+### ART 72.
+
+Aan artikel 39 van hetzelfde decreet wordt een paragraaf 6 toegevoegd, die luidt als volgt:&nbsp;<br>
+<br>
+“§6. In afwijking van dit artikel heeft een rechthebbende leerling als vermeld in artikel 24, geen recht op een selectieve participatietoeslag als welbepaalde inkomsten, overeenkomstig artikel 38, §3, door weging een bepaald bedrag overschrijden. De Vlaamse Regering bepaalt de inkomsten die daarvoor in aanmerking komen, de modaliteiten van de weging, en de Vlaamse Regering stelt het bedrag vast dat niet mag worden overschreden.”.
 
 ### ART 73.
 
