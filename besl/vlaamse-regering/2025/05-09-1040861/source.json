@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040861,
+  "title": "Besluit van de Vlaamse Regering van 2025-05-09 tot vastlegging van de opleidingsprofielen voor het buitengewoon secundair onderwijs van opleidingsvorm 3, wat de integratiefase betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040861/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "83f40c844c19bfad917f8ced22691a13198f5f2204c0bf73a796459ee15c9055",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040861&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-05-09",
+  "gazette": "2025-05-27",
+  "numac": 2025003885,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
