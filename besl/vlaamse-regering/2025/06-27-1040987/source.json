@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040987,
+  "title": "Besluit van de Vlaamse Regering van 2025-06-27 tot goedkeuring van de programmatie van structuuronderdelen in opleidingsvorm 4 van het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040987/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "3f45d795c7eecc0d8de70a13f4d76a8810de2e3074e744c45b5d6ae6fafde385",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040987&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-06-27",
+  "gazette": "2025-07-09",
+  "numac": 2025005097,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
