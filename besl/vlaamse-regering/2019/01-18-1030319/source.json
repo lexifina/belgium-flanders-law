@@ -2,16 +2,16 @@
   "codex_id": 1030319,
   "title": "Besluit van de Vlaamse Regering van 2019-01-18 betreffende de goedkeuring van het operationeel kader inrichting onderzoeksmaster",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030319/VolledigDocument?datum=2019-09-01",
-  "source_sha256": "e6fdd72bde322de15888c2362aa0f345e28c6717399b8453375746d33e749c12",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030319/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "e63e025c60cb50b93c57e9a579ad8342646a4a88cfc1bc4ea0a2e5e409a506d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030319&param=informatie",
-  "as_of": "2019-09-01",
+  "as_of": "2025-09-01",
   "made": "2019-01-18",
   "gazette": "2019-02-28",
   "numac": 2019040403,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2019-09-01",
+  "in_force": "2025-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2019-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }
