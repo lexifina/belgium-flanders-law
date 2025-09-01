@@ -158,6 +158,100 @@ Platteput 9<br>
 Kwalificatiefase Schilder<br>
 Domein: STEM
 
+### ART 3.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2025-2026 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Integratiefase Fietshersteller<br>
+Domein: STEM<br>
+2° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Integratiefase Plaatser soepele vloerbekleding<br>
+Domein: STEM<br>
+3° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Integratiefase Plaatser wandbekleding<br>
+Domein: STEM<br>
+4° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Integratiefase Medewerker fastfood<br>
+Domein: Voeding en horeca<br>
+5° SBSO Ter Zee - GO school voor BuSO Aan Zee<br>
+Maurits Sabbestraat 8<br>
+8400 Oostende<br>
+Integratiefase Medewerker spoelkeuken<br>
+Domein: Voeding en horeca<br>
+6° BuSO Sint-Jan-Berchmansinstituut<br>
+Hof-ten-Berglaand 8<br>
+2870 Puurs - Sint-Amands<br>
+Integratiefase Medewerker spoelkeuken<br>
+Domein: Voeding en horeca<br>
+7° BuSO Sint-Jan-Berchmansinstituut<br>
+Hof-ten-Berglaand 8<br>
+2870 Puurs - Sint-Amands<br>
+Integratiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+8° Provinciale School voor BuSO de Wissel<br>
+Arbeidsstraat 66<br>
+3600 Genk<br>
+Integratiefase Medewerker kapper<br>
+Domein: Maatschappij en Welzijn<br>
+9° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Integratiefase Winkelmedewerker<br>
+Domein: Economie en organisatie<br>
+10° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Integratiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+11° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Integratiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+12° Buso Haverlo<br>
+Weidestraat 156<br>
+8310 Brugge<br>
+Integratiefase Fietshersteller<br>
+Domein: STEM<br>
+13° Buso De Ast<br>
+Boeschepestraat 46<br>
+8970 Poperinge<br>
+Integratiefase Fietshersteller<br>
+Domein: STEM<br>
+14° Buso De Ast<br>
+Boeschepestraat 46<br>
+8970 Poperinge<br>
+Integratiefase Hoeknaadlasser<br>
+Domein: STEM<br>
+15° Richtpunt campus Buggenhout<br>
+Platteput 5<br>
+9256 Buggenhout<br>
+Integratiefase Werkplaatsbuitenschrijnwerker hout<br>
+Domein: STEM<br>
+16° Richtpunt campus Buggenhout<br>
+Platteput 6<br>
+9257 Buggenhout<br>
+Integratiefase Machinaal houtbewerker<br>
+Domein: STEM<br>
+17° Richtpunt campus Buggenhout<br>
+Platteput 7<br>
+9258 Buggenhout<br>
+Integratiefase Voeger<br>
+Domein: STEM<br>
+18° Richtpunt campus Buggenhout<br>
+Platteput 9<br>
+9260 Buggenhout<br>
+Integratiefase Schilder<br>
+Domein: STEM
+
 ### ART 4.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2021.
