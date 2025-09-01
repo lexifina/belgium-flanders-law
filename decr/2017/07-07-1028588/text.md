@@ -746,109 +746,121 @@ Een nieuwe vaste benoeming is ook mogelijk voor een personeelslid als vermeld in
 <br>
 Als de beslissing van de preventieadviseur-arbeidsgeneesheer, vermeld in artikel 73/2, § 4, c), van de codex over het welzijn op het werk van 28 april 2017, niet leidt tot een overeenkomst over tewerkstelling, kan het centrumbestuur een vastbenoemd personeelslid de uitoefening van zijn ambt ontzeggen.
 
-## HOOFDSTUK 14 De ontwikkelcyclus
+## HOOFDSTUK 14 Begeleiding, remediëring en evaluatie
 
 ### ART 76.
 
-De ontwikkelcyclus heeft de volgende doelstellingen:<br>
-1° het ontwikkelen van de competenties van personeelsleden;<br>
-2° het bereiken van de doelstellingen van het centrum;<br>
-3° het stimuleren van de jobtevredenheid van de personeelsleden;<br>
-4° het evalueren van de prestaties van de personeelsleden.<br>
+De begeleiding van de personeelsleden heeft de volgende doelstellingen:<br>
+1° de competenties van personeelsleden ontwikkelen;<br>
+2° de doelstellingen van het centrum bereiken;<br>
+3° de jobtevredenheid van de personeelsleden stimuleren.<br>
 <br>
-De ontwikkelcyclus komt tot stand door gesprekken te voeren tussen het personeelslid en de coach-evaluator, die gebaseerd zijn op het competentieprofiel en het functieprofiel.<br>
+Het centrumbestuur legt regels vast voor de begeleiding van de personeelsleden. De regels waarborgen de rechten van het personeelslid.<br>
 <br>
-De Federatie Centra voor Basiseducatie maakt samen met de representatieve vakorganisaties de nodige afspraken op sectorniveau voor de organisatie van planningsgesprekken, evolutiegesprekken en evaluatiegesprekken die gebaseerd zijn op het competentie- en het functieprofiel.
+Op basis van de functiebeschrijving voorziet de evaluator in coaching en begeleiding voor de personeelsleden waarbij ook externen ingeschakeld kunnen worden, als dat nodig is.<br>
+<br>
+Ieder personeelslid heeft het recht om een opvolgingsgesprek aan te vragen. Van een opvolgingsgesprek kan op verzoek van zowel het personeelslid als de evaluator een verslag worden opgemaakt waarin eventueel persoons– en ontwikkelingsgerichte doelstellingen worden opgenomen. Wanneer of het personeelslid of de evaluator expliciet om een opvolgingsgesprek vraagt, moet een verslag opgemaakt worden.<br>
+<br>
+Als uit de begeleiding blijkt dat er nood is aan striktere begeleiding, legt de evaluator een remediëringstraject als vermeld in artikel 81 en 83 vast.<br>
+&nbsp;
 
 ### ART 77.
 
-De volgende actoren spelen een rol in de ontwikkelcyclus, vermeld in artikel 80:<br>
-1° de coach-evaluator;<br>
-2° de kwaliteitsbewaker;<br>
-3° de tweede evaluator.<br>
+§1. De evaluator werkt in het centrum waar de personeelsleden worden geëvalueerd.<br>
 <br>
-De coach-evaluator werkt in het centrum waar de desbetreffende personeelsleden worden gecoacht en geëvalueerd. De planningsgesprekken, de evolutiegesprekken en de evaluatiegesprekken worden gehouden tussen het personeelslid en de coach-evaluator.<br>
+Het eerste lid is niet van toepassing op de evaluator van de directeur van het centrum.<br>
+&nbsp;<br>
+De evaluator beschikt over de nodige competenties en vaardigheden om de evaluatieprocedure naar behoren te kunnen verzekeren.<br>
 <br>
-De kwaliteitsbewaker draagt geen eindverantwoordelijkheid voor de ontwikkelcyclus, maar bewaakt de correcte opvolging van het hele proces. De kwaliteitsbewaker is een bestuurslid van het centrum. De kwaliteitsbewaker kan ook de tweede evaluator zijn.<br>
+De evaluator van een leraar basiseducatie is in het bezit van een bewijs pedagogische bekwaamheid conform het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de ambten, de bekwaamheidsbewijzen en de salarisschalen in de centra voor basiseducatie.<br>
 <br>
-De tweede evaluator is de hiërarchische meerdere van de coach-evaluator. De tweede evaluator draagt de eindverantwoordelijkheid voor de bijsturingscyclus.
+Voor een personeelslid dat aangesteld is in een wervingsambt met uitzondering van de stafmedewerker, is de evaluator de stafmedewerker, de adjunct-directeur of de directeur. Voor de stafmedewerker is de evaluator de adjunct-directeur of de directeur. Voor de adjunct-directeur is de evaluator de directeur en voor de directeur is de evaluator een bestuurslid van het centrum.<br>
+<br>
+De evaluatiegesprekken worden gehouden tussen het personeelslid en de evaluator.<br>
+<br>
+De evaluator draagt de eindverantwoordelijkheid van het hele proces van begeleiding, remediëring en evaluatie.<br>
+<br>
+§2. Het centrumbestuur bewaakt het correcte verloop van het hele proces van begeleiding, remediëring en evaluatie.<br>
+&nbsp;
 
 ### ART 78.
 
-§ 1. Voor de coach-evaluator gelden de volgende bepalingen:<br>
-1° de coach-evaluator is een personeelslid van het centrumbestuur waar het betrokken personeelslid werkt. Deze bepaling geldt niet voor de coach-evaluator van de directeur van het centrum;<br>
-2° de coach-evaluator van een leraar basiseducatie moet in het bezit zijn van een bewijs pedagogische bekwaamheid conform het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de ambten, de bekwaamheidsbewijzen en de salarisschalen in de centra voor basiseducatie.<br>
-<br>
-§ 2. Voor een personeelslid dat aangesteld is in een wervingsambt met uitzondering van de stafmedewerker, is de coach-evaluator de stafmedewerker, de adjunct-directeur of de directeur. Voor de stafmedewerker is de coach-evaluator de adjunct-directeur of de directeur. Voor de adjunct-directeur is de coach-evaluator de directeur en voor de directeur is de coach-evaluator een bestuurslid van het centrum.<br>
-<br>
-§ 3. Voor de tweede evaluator gelden de volgende bepalingen:<br>
-1° als de coach-evaluator aangesteld is in het ambt van stafmedewerker, is de tweede evaluator aangesteld in een selectie- of bevorderingsambt;<br>
-2° als de coach-evaluator aangesteld is in een selectie-ambt, is de tweede evaluator aangesteld in een bevorderingsambt;<br>
-3° als de coach-evaluator aangesteld is in een bevorderingsambt, is de tweede evaluator een bestuurslid van het centrum.
+...
 
 ### ART 79.
 
-§ 1. De coach-evaluator en het personeelslid leggen per ambt en per centrumbestuur waar het personeelslid werkt, een geïndividualiseerde functiebeschrijving vast. Daarbij houden ze rekening met de algemene afspraken die ter uitvoering van paragraaf 3 zijn vastgelegd, met de bepalingen van het arbeidsreglement en met de bepalingen van de arbeidsovereenkomst.<br>
+§1. De evaluator is verantwoordelijk voor het opstellen of het wijzigen van een functiebeschrijving. In de functiebeschrijving wordt rekening gehouden met al de volgende elementen:<br>
+1° de algemene afspraken die ter uitvoering van paragraaf 3 zijn vastgelegd;<br>
+2° de bepalingen van het arbeidsreglement;<br>
+3° &nbsp;de bepalingen van de arbeidsovereenkomst.<br>
 <br>
-De coach-evaluator is verantwoordelijk voor het opstellen of het wijzigen van een geïndividualiseerde functiebeschrijving voor ieder personeelslid. De geïndividualiseerde functiebeschrijving is gebaseerd op het functieprofiel en het competentieprofiel.<br>
+§2. De functiebeschrijving omvat de kerntaken en de centrumspecifieke doelststellingen.<br>
 <br>
-§ 2. De geïndividualiseerde functiebeschrijving omvat de taakdoelstellingen en de ontwikkelingsdoelstellingen. In de functiebeschrijving worden ook de centrumspecifieke doelstellingen opgenomen.<br>
+De kerntaken, vermeld in het eerste lid, omvatten al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de taken die eigen zijn aan de functie;<br>
+2°&nbsp;&nbsp; &nbsp;de professionalisering;<br>
+3°&nbsp;&nbsp; &nbsp;het overleg en de samenwerking met directie en collega’s.<br>
 <br>
-De functiebeschrijving bevat ook de rechten en plichten voor de permanente vorming. Als het personeelslid professionalisering wordt opgelegd, zijn de kosten ten laste van het centrumbestuur.<br>
+Als het personeelslid professionalisering wordt opgelegd, zijn de kosten ten laste van het centrumbestuur.<br>
 <br>
-§ 3. Het centrumbestuur onderhandelt over de algemene afspraken over de functiebeschrijvingen in het lokaal onderhandelingscomité. Daarbij wordt rekening gehouden met de principes, vermeld in dit hoofdstuk.<br>
+§3. Het centrumbestuur onderhandelt over de algemene afspraken over de functiebeschrijvingen in het lokaal onderhandelingscomité. In die algemene afspraken wordt rekening gehouden met de principes, vermeld in dit hoofdstuk.<br>
 <br>
-§ 4. Een opleiding tot coach-evaluator is wenselijk voor wie als coach-evaluator wordt aangesteld.
+§4. Zowel het personeelslid als de evaluator ontvangen een schriftelijk of elektronisch exemplaar van de functiebeschrijving op een manier waarbij de ontvangstdatum duidelijk is.<br>
+<br>
+§5. Als een personeelslid geen functiebeschrijving ontvangen heeft, kan het personeelslid niet geëvalueerd worden.
 
 ### ART 80.
 
-§ 1. De ontwikkelcyclus kan opgedeeld worden in de volgende drie cycli:<br>
-1° de eerste ontwikkelcyclus duurt maximaal 12 maanden. Alle personeelsleden die op 1 september van een schooljaar minder dan 1 jaar dienstanciënniteit in het centrum hebben, behoren tot deze cyclus;<br>
-2° de tweede ontwikkelcyclus duurt maximaal 24 maanden. Alle personeelsleden die op 1 september van een schooljaar meer dan 12 maanden en minder dan 36 maanden dienstanciënniteit in het centrum hebben, behoren tot deze cyclus;<br>
-3° de derde ontwikkelcyclus duurt maximaal 48 maanden. Alle personeelsleden die op 1 september van een schooljaar meer dan 36 maanden dienstanciënniteit in het centrum hebben, behoren tot deze cyclus.
+...
 
 ### ART 81.
 
-Nadat de coach-evaluator aan een personeelslid een eerste evaluatie met eindconclusie `onvoldoende' heeft toegekend, start het centrumbestuur een bijsturingscyclus op.<br>
+§1. Als op basis van opvolgingsgesprekken blijkt dat er problemen zijn met de prestaties of de wijze van functioneren van een personeelslid, kan de evaluator een eerste remediëringstraject voor het personeelslid opstarten. De termijn van het eerste remediëringstraject duurt minimaal negen maanden.<br>
 <br>
-De bijsturingscyclus duurt maximaal zes maanden.
+De evaluator kan de termijn, vermeld in het eerste lid, bij een tussentijdse beoordeling vroegtijdig stopzetten of verlengen.<br>
+<br>
+§2. Om het eerste remediëringstraject op te starten, wordt een document opgemaakt waarin duidelijke afspraken opgenomen zijn over de noodzakelijke persoons- en ontwikkelingsgerichte doelstellingen, de termijn van het traject en een eventuele verlenging van de termijn. De beslissing over de werkpunten en over de termijn wordt gemotiveerd. Zowel het personeelslid als de evaluator ontvangen een schriftelijk of elektronisch exemplaar van dit document op een manier waarbij de ontvangstdatum duidelijk is. De ontvangstdatum van dit document is de start van het eerste remediëringstraject.<br>
+<br>
+§3. Het eerste remediëringstraject wordt afgesloten met een evaluatiedocument dat binnen de vijftien dagen na het evaluatiegesprek aan de geëvalueerde bezorgd wordt. De evaluatie leidt tot een gemotiveerde conclusie ‘gunstig’ of ‘ongunstig’. Zowel het personeelslid als de evaluator ontvangen een schriftelijk of elektronisch exemplaar van het evaluatiedocument op een manier waarbij de ontvangstdatum duidelijk is.<br>
+<br>
+De conclusie ‘gunstig’ betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de vereisten voldoen die aan de functie verbonden zijn, en dat het remediëringstraject eindigt. De conclusie ‘ongunstig’ betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan alle vereisten voldoen die aan de functie verbonden zijn en dat er een tweede remediëringstraject nodig is.<br>
+<br>
+Tegen de conclusie ‘ongunstig’ kan een personeelslid beroep aantekenen bij de kamer van het college van beroep, vermeld in artikel 84. Dat beroep werkt niet opschortend.<br>
+<br>
+Als de kamer van het college van beroep de conclusie ‘ongunstig’ vernietigt, wordt het remediëringstraject van het personeelslid beëindigd en worden de prestaties en de wijze van functioneren van het personeelslid geacht te voldoen aan de vereisten die aan de functie verbonden zijn. Als de kamer van het college van beroep de conclusie ‘ongunstig’ niet vernietigt, loopt het tweede remediëringstraject, vermeld in artikel 83, verder.
 
 ### ART 82.
 
-Een personeelslid wordt minstens op de volgende tijdstippen geëvalueerd:<br>
-1° op het einde van de eerste en tweede ontwikkelcyclus;<br>
-2° op het einde van de bijsturingscyclus.
+...
 
 ### ART 83.
 
-Er wordt een evaluatiegesprek gehouden tussen het personeelslid en de coach-evaluator.<br>
+§1. Als na het eerste remediëringstraject, vermeld in artikel 81, het personeelslid de conclusie ‘ongunstig’ krijgt, wordt een tweede remediëringstraject opgestart. De termijn van het tweede remediëringstraject bedraagt minimaal drie maanden.<br>
 <br>
-Het evaluatiegesprek leidt altijd tot een evaluatieverslag en bevat een eindconclusie.<br>
+De termijn, vermeld in het eerste lid, kan bij een gunstige tussentijdse beoordeling vroegtijdig stopgezet worden.<br>
+&nbsp;<br>
+§2. Om het tweede remediëringstraject op te starten, wordt een document opgemaakt waarin duidelijke afspraken opgenomen worden over de noodzakelijke werkpunten, de acties tot verbetering en de termijn van het traject. De beslissing over de werkpunten en over de termijn wordt gemotiveerd. Zowel het personeelslid als de evaluator ontvangen daar een schriftelijk of elektronisch exemplaar van op een manier waarop de ontvangstdatum duidelijk is. De ontvangstdatum van dit document is de start van het tweede remediëringstraject.<br>
 <br>
-Het evaluatieverslag wordt opgesteld door de coach-evaluator en ondertekend door de coach-evaluator, de kwaliteitsbewaker en het personeelslid.<br>
+§3. Het tweede remediëringstraject wordt afgesloten met een evaluatie. Die evaluatie leidt tot een gemotiveerde eindconclusie ‘gunstig’ of ‘onvoldoende’. De eindconclusie ‘gunstig’ betekent dat de prestaties en de wijze van functioneren van het personeelslid aan de vereisten voldoen die aan de functie verbonden zijn en dat het remediëringstraject eindigt. De eindconclusie ‘onvoldoende’ betekent dat de prestaties of de wijze van functioneren van het personeelslid niet aan de vereisten voldoen die aan de functie verbonden zijn.<br>
 <br>
-In geval van een bijsturingscyclus stelt de tweede evaluator het verslag op en wordt het verslag ondertekend door het personeelslid, de kwaliteitsbewaker en de tweede evaluator.<br>
+De evaluator bezorgt de eindconclusie na het tweede remediëringstraject aan de geëvalueerde binnen vijftien dagen na het evaluatiegesprek.<br>
 <br>
-De coach-evaluator bezorgt het evaluatieverslag aan de geëvalueerde binnen vijftien kalenderdagen na het evaluatiegesprek.<br>
-<br>
-Het personeelslid kan opmerkingen toevoegen aan het definitieve beschrijvende evaluatieverslag. Het personeelslid bezorgt het evaluatieverslag met zijn eventuele opmerkingen terug aan de coach-evaluator en de kwaliteitsbewaker binnen zeven kalenderdagen nadat hij het heeft ontvangen.<br>
-<br>
-Als het evaluatieverslag de eindconclusie `onvoldoende' bevat, zijn op straffe van nietigheid altijd de beroepsmogelijkheden vermeld.<br>
-<br>
-Als de kwaliteitsbewaker bij een evaluatie met eindconclusie `onvoldoende' vaststelt dat de procedure niet correct verlopen is, is de evaluatie ongeldig.
+Tegen de conclusie ‘onvoldoende’ kan een personeelslid beroep aantekenen bij de kamer van het college van beroep, vermeld in artikel 84. Als het evaluatieverslag de eindconclusie ‘onvoldoende’ bevat, zijn op straffe van nietigheid altijd de beroepsmogelijkheden vermeld.<br>
+&nbsp;
 
 ### ART 84.
 
-Tegen een evaluatie met eindconclusie `onvoldoende' kan het personeelslid beroep aantekenen bij de kamer van het college van beroep.<br>
+Zowel tegen een evaluatie met conclusie ‘ongunstig’ als tegen een evaluatie met eindconclusie ‘onvoldoende’ kan het personeelslid beroep aantekenen bij de kamer van het college van beroep.<br>
 <br>
-De kamer van het college van beroep doet uitspraak over de evaluatie met eindconclusie `onvoldoende' door enerzijds na te gaan of de evaluatie op een zorgvuldige en kwaliteitsvolle manier is uitgevoerd, en door anderzijds de redelijkheid van de sanctie te beoordelen.<br>
+De kamer van het college van beroep doet uitspraak over de evaluatie met conclusie ‘ongunstig’ en over de evaluatie met eindconclusie `onvoldoende' door enerzijds na te gaan of de evaluatie op een zorgvuldige en kwaliteitsvolle manier is uitgevoerd, en door anderzijds de redelijkheid van de sanctie te beoordelen.<br>
 <br>
 De kamer van het college van beroep heeft de volgende bevoegdheden:<br>
 1° nagaan of de procedureregels op het niveau van het centrum zijn nageleefd;<br>
 2° nagaan of de evaluatie is uitgevoerd volgens de regels en in de geest van de functiebeschrijvingen en de evaluatie;<br>
 3° oordelen of de beslissing afdoende is gemotiveerd. Dat houdt in dat de motieven de beslissing in rechte en in feite aanvaardbaar maken;<br>
-4° oordelen of er een redelijke verhouding bestaat tussen de feiten en de uiteindelijke beslissing om een evaluatie met eindconclusie `onvoldoende' te geven;<br>
-5° de beslissing om een evaluatie met eindconclusie `onvoldoende' te geven vernietigen.<br>
+4° oordelen of er een redelijke verhouding bestaat tussen de feiten en de uiteindelijke beslissing om een evaluatie met conclusie ‘ongunstig’ of een evaluatie met eindconclusie onvoldoende’ te geven;<br>
+5° de beslissing om een evaluatie met conclusie ‘ongunstig’ te geven vernietigen;<br>
+6° de beslissing om een evaluatie met eindconclusie `onvoldoende’ te geven vernietigen.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regelen voor de samenstelling en de uitoefening van het mandaat van de leden van het college van beroep met dien verstande dat:<br>
 1° de kamer wordt voorgezeten door een onafhankelijke persoon;<br>
@@ -861,7 +873,7 @@ De Vlaamse Regering bepaalt de nadere regelen voor de samenstelling en de uitoef
 De Vlaamse Regering benoemt de voorzitter en bepaalt de vergoedingen waarop hij recht heeft en bepaalt de nadere regelen voor het secretariaat en de werkingskosten van het college van beroep.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regelen voor de beroepsprocedure en voor de werking van de kamer van het college van beroep in het procedurereglement, met dien verstande dat:<br>
-1° op straffe van verval het beroep ingesteld wordt binnen een termijn van twintig kalenderdagen die volgen op de overhandiging van de kopie van het evaluatieverslag met eindconclusie `onvoldoende' door de coach-evaluator. Die termijn kan worden geschorst tijdens een vakantieperiode;<br>
+1° op straffe van verval het beroep ingesteld wordt binnen een termijn van twintig kalenderdagen die volgen op de overhandiging van de kopie van het evaluatieverslag hetzij met de conclusie ‘ongunstig’, hetzij met de eindconclusie ‘onvoldoende’ door de evaluator. Die termijn kan worden geschorst tijdens een vakantieperiode;<br>
 2° het beroep de evaluatie met eindconclusie `onvoldoende' opschort;<br>
 3° voor het vaststellen van de redenen tot wraking van de voorzitter en de leden zal worden uitgegaan van het bepaalde in artikel 828 van het Gerechtelijk Wetboek;<br>
 4° de rechten van de verdediging tijdens de procedure worden gewaarborgd.
@@ -874,11 +886,11 @@ Als het personeelslid beroep aantekent, is de evaluatie met eindconclusie `onvol
 
 ### ART 86.
 
-§ 1. Het personeelslid dat tijdelijk aangesteld is, kan door het centrumbestuur ontslagen worden als het in het centrum een evaluatie met eindconclusie `onvoldoende' heeft gekregen tijdens de bijsturingscyclus.<br>
+§1. Zowel het personeelslid dat tijdelijk aangesteld is als dat vastbenoemd is, kan door het centrumbestuur ontslagen worden als het na het tweede remediëringstraject in het centrum een evaluatie met eindconclusie ‘onvoldoende’ heeft gekregen.<br>
 <br>
-§ 2. Het centrumbestuur ontslaat een vastbenoemd personeelslid als het in hetzelfde centrum twee opeenvolgende definitieve evaluaties met eindconclusie `onvoldoende', ofwel drie definitieve evaluaties met eindconclusie `onvoldoende' voor het ambt in kwestie in zijn loopbaan heeft gekregen.<br>
+§2. ...<br>
 <br>
-§ 3. Een centrumbestuur kan een personeelslid dat vastbenoemd is in het ambt van directeur en dat voorheen vastbenoemd was in een ander ambt, na één definitieve evaluatie met eindconclusie `onvoldoende' uit het ambt van directeur verwijderen.<br>
+§ 3. Een centrumbestuur kan een personeelslid dat vastbenoemd is in het ambt van directeur en dat voorheen vastbenoemd was in een ander ambt, na de definitieve evaluatie met eindconclusie ‘onvoldoende’ na het tweede remediëringstraject uit het ambt van directeur verwijderen.<br>
 <br>
 Als het personeelslid voorheen vastbenoemd was in een ambt in dat centrum, kan het zijn ambt in dat centrum opnieuw opnemen na zijn verwijdering uit het ambt van directeur. In dat geval bestaat de mogelijkheid tot afwijking van het maximumpercentage voor de vaste benoeming, vermeld in artikel 39, § 3.
 

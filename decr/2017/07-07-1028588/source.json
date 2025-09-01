@@ -2,16 +2,16 @@
   "codex_id": 1028588,
   "title": "Decreet van 2017-07-07 betreffende de rechtspositie van de personeelsleden in de basiseducatie (citeeropschrift: decreet Rechtspositie Basiseducatie)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028588/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "befbe37ca7ac2d9231a53926654afddc3f1a25f753f91297cb0748527e8bb0f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028588/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "8c395c5609cd74fe927ae4ed42ec5e8d00f6c2f4168629da97f0623a46cfaa5c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028588&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-09-01",
   "made": "2017-07-07",
   "gazette": "2017-09-15",
   "numac": 2017013120,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2024-09-01",
+  "in_force": "2025-09-01",
   "article_versions": 112,
-  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }
