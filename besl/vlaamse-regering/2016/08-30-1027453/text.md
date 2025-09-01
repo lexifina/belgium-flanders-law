@@ -55,24 +55,15 @@
 
 ### ART 1.
 
-§ 1. De klassenraad bepaalt de minimale en de maximale duur van de niet-verplichte leerlingenstage of sociaal-maatschappelijke training, die in groep en onder voortdurende begeleiding van de leraar kan plaatsvinden in opleidingsvorm 1.<br>
+In opleidingsvorm 1 kan voor een leerlingengroep, met permanente begeleiding van de leraar, of voor een individuele leerling een leerlingenstage of sociaal-maatschappelijke training worden georganiseerd.<br>
 <br>
-De maximale duur van de niet-verplichte individuele leerlingenstage of van de individuele sociaal maatschappelijke training in opleidingsvorm 1 is dertig dagen per schooljaar. De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen.<br>
+In opleidingsvorm 2, tweede fase, kan voor een leerlingengroep, met permanente begeleiding van de leraar, of voor een individuele leerling een leerlingenstage worden georganiseerd.<br>
 <br>
-§ 2. De klassenraad bepaalt de minimale en de maximale duur van de niet-verplichte leerlingenstage, die in groep en onder voortdurende begeleiding van de leraar kan plaatsvinden in de tweede fase van opleidingsvorm 2.<br>
+In opleidingsvorm 3, laatste jaar opleidingsfase en de volledige kwalificatiefase, kan voor een leerlingengroep, met permanente begeleiding van de leraar, een leerlingenstage worden georganiseerd. In opleidingsvorm 3, kwalificatiefase, wordt, al dan niet over de jaren gespreid, voor elke individuele leerling een leerlingenstage van minimaal vijftien dagen georganiseerd.&nbsp;<br>
 <br>
-De maximale duur van de niet-verplichte individuele leerlingenstage tijdens de tweede fase van opleidingsvorm 2 is dertig dagen per schooljaar. In het laatste jaar van de tweede fase kan de klassenraad die duur verlengen tot zestig dagen. De duur kan in het laatste jaar van de tweede fase langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen.<br>
+Het derde lid is niet van toepassing voor de duale opleidingen van opleidingsvorm 3.<br>
 <br>
-In opleidingsvorm 2 kan een leerling tijdens het laatste jaar van de tweede fase op basis van een individuele handelingsplanning, na de beslissing van de klassenraad, zo mogelijk in samenspraak met de ouders en de leerling, een leerlingenstage volgen in een alternerende vorm van leerlingenstage en vorming op school op weekbasis. Hierbij kan afgeweken worden van de maximale stageduur, vermeld in het eerste lid.<br>
-<br>
-§ 3. De klassenraad bepaalt de minimale en de maximale duur van de niet-verplichte leerlingenstage, die in groep en onder voortdurende begeleiding van de leraar kan plaatsvinden in de kwalificatiefase en in het laatste jaar van de opleidingsfase van opleidingsvorm 3.<br>
-<br>
-De minimale duur van de verplichte individuele leerlingenstage tijdens de kwalificatiefase in opleidingsvorm 3, met uitzondering van het laatste jaar, is vijf dagen per schooljaar. De maximale duur is vijftien dagen per schooljaar.&nbsp;De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen.<br>
-<br>
-De minimale duur van de verplichte leerlingenstage tijdens het laatste jaar van de kwalificatiefase is tien dagen. De maximale duur is dertig dagen per schooljaar. De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen.<br>
-<br>
-§ 4. Zo nodig kunnen de leerlingenstage en de sociaal-maatschappelijke training, vermeld in paragraaf 1 tot en met 3, worden opgesplitst in periodes van halve dagen.<br>
-&nbsp;
+De duur van een leerlingenstage en van een sociaal-maatschappelijke training kan worden opgesplitst in periodes van halve dagen. De duur van een individuele leerlingenstage kan binnen dezelfde opleiding of fase per leerling verschillen als daar een gemotiveerde reden voor bestaat.
 
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket "uren-leraar" in het voltijds secundair onderwijs
 
