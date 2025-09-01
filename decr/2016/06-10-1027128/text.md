@@ -55,7 +55,7 @@ Het secretariaat wordt opgenomen door het Departement Werk en Sociale Economie e
 <br>
 De Vlaamse Regering regelt op voorstel van de Vlaamse minister, bevoegd voor het werk, en de Vlaamse minister, bevoegd voor het onderwijs, de werking van het secretariaat.<br>
 <br>
-De instanties, vermeld in het eerste lid, 4° tot en met 11°, duiden een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
+De instanties, vermeld in het eerste lid, 4° tot en met 14°, duiden een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
 <br>
 Met uitzondering van de leden, vermeld in het eerste lid, 1°, 12°, 13° en 14°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen.<br>
 <br>
@@ -123,13 +123,13 @@ Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook bevoegd
 2° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs namens het volwassenenonderwijs;<br>
 3° een vertegenwoordiger van het Departement Onderwijs en Vorming namens het volwassenenonderwijs.<br>
 <br>
-De instanties, vermeld in het tweede lid, duiden hun effectieve en plaatsvervangende vertegenwoordiger(s) aan.<br>
+De instanties, vermeld in het tweede, het derde en het vierde lid, duiden hun effectieve en plaatsvervangende vertegenwoordiger(s) aan.<br>
 <br>
-De leden, vermeld in het tweede lid, kiezen onder elkaar een voorzitter en een ondervoorzitter, die niet tot dezelfde geleding behoren.<br>
+De leden, vermeld in het tweede, het derde en het vierde lid, kiezen onder elkaar een voorzitter en een ondervoorzitter, die niet tot dezelfde geleding behoren.<br>
 <br>
 Met uitzondering van de secretaris en de leden, vermeld in het vierde lid, hebben alle leden, vermeld in het tweede lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen.<br>
 <br>
-Met uitzondering van de secretaris en de leden, vermeld in het tweede lid, 4°, 5° en 7°, hebben alle leden, vermeld in het tweede lid en het vierde lid, stemrecht over de bevoegdheden in het kader van de duale opleidingen.<br>
+Met uitzondering van de secretaris en de leden, vermeld in het tweede lid, 3°, 4°, 5° en 7°, hebben alle leden, vermeld in het tweede lid en het vierde lid, stemrecht over de bevoegdheden in het kader van de duale opleidingen.<br>
 <br>
 Met uitzondering van de secretaris hebben alle leden, vermeld in het tweede lid en het vierde lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen en de duale opleidingen.<br>
 <br>
@@ -443,21 +443,21 @@ In afwijking van artikel 18, tweede lid, is de onderneming in de volgende gevall
 
 ### ART 26.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De onderneming of de leerling of zijn wettelijke vertegenwoordiger kunnen het bestaan van een reden inroepen die de verbreking van de uitvoering van de overeenkomst wettigt, als de leerling, respectievelijk onderneming, ernstig tekortschiet in de verplichtingen met betrekking tot de uitvoering van de overeenkomst, als er omstandigheden zijn die het goede verloop van de opleiding op de werkplek ernstig belemmeren of als de leerling wil overschakelen naar een andere opleiding.</span><br>
+§ 1. De onderneming of de leerling of zijn wettelijke vertegenwoordiger kunnen het bestaan van een reden inroepen die de verbreking van de uitvoering van de overeenkomst wettigt, als de leerling, respectievelijk onderneming, ernstig tekortschiet in de verplichtingen met betrekking tot de uitvoering van de overeenkomst, als er omstandigheden zijn die het goede verloop van de opleiding op de werkplek ernstig belemmeren of als de leerling wil overschakelen naar een andere opleiding.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De onderneming of de leerling of zijn wettelijke vertegenwoordiger moeten de reden, vermeld in paragraaf 1, schriftelijk mededelen aan de trajectbegeleider. De trajectbegeleider bemiddelt en probeert de partijen te verzoenen. Daarvoor beschikt de trajectbegeleider over een termijn van maximaal drie weken. Die termijn neemt een aanvang vanaf de ontvangst van de schriftelijke mededeling. Een schorsing van de uitvoering van de overeenkomst tijdens de verzoeningstermijn schorst de verzoeningstermijn niet.</span><br>
+§ 2. De onderneming of de leerling of zijn wettelijke vertegenwoordiger moeten de reden, vermeld in paragraaf 1, schriftelijk mededelen aan de trajectbegeleider. De trajectbegeleider bemiddelt en probeert de partijen te verzoenen. Daarvoor beschikt de trajectbegeleider over een termijn van maximaal drie weken. Die termijn neemt een aanvang vanaf de ontvangst van de schriftelijke mededeling. Een schorsing van de uitvoering van de overeenkomst tijdens de verzoeningstermijn schorst de verzoeningstermijn niet.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Tijdens de verzoeningstermijn moeten de partijen de uitvoering van de overeenkomst voortzetten.</span><br>
+Tijdens de verzoeningstermijn moeten de partijen de uitvoering van de overeenkomst voortzetten.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de partijen tot een verzoening komen, wordt de uitvoering van de overeenkomst voortgezet.</span><br>
+Als de partijen tot een verzoening komen, wordt de uitvoering van de overeenkomst voortgezet.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de partijen niet tot een verzoening komen, kan de partij die de wens tot beëindiging heeft geuit, ook effectief overgaan tot de beëindiging van de overeenkomst. De beëindiging gaat in de dag na de ontvangst van de schriftelijke mededeling.</span><br>
+Als de partijen niet tot een verzoening komen, kan de partij die de wens tot beëindiging heeft geuit, ook effectief overgaan tot de beëindiging van de overeenkomst. De beëindiging gaat in de dag na de ontvangst van de schriftelijke mededeling.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. De onderneming of de leerling of zijn wettelijke vertegenwoordiger, naargelang het geval, kan beroep aantekenen bij het Vlaams Partnerschap Duaal Leren als hij van oordeel is dat de ingeroepen reden de beëindiging van de uitvoering van de overeenkomst van alternerende opleiding niet wettigt.</span><br>
+§ 3. De onderneming of de leerling of zijn wettelijke vertegenwoordiger, naargelang het geval, kan beroep aantekenen bij het Vlaams Partnerschap Duaal Leren als hij van oordeel is dat de ingeroepen reden de beëindiging van de uitvoering van alternerende opleiding niet wettigt of als hij van oordeel is dat de overeenkomst niet conform paragraaf 2 of artikel 25 is beëindigd.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de procedure voor het beroep.</span><br>
+De Vlaamse Regering bepaalt de procedure voor het beroep.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het Vlaams Partnerschap Duaal Leren oordeelt dat de ingeroepen reden de beëindiging van de uitvoering van de overeenkomst van alternerende opleiding door de onderneming niet wettigt, is aan de leerling die beroep heeft aangetekend een schadevergoeding verschuldigd conform artikel 17, § 4.</span><br>
+Als het Vlaams Partnerschap Duaal Leren oordeelt dat de ingeroepen reden de beëindiging van de uitvoering van de overeen-komst van alternerende opleiding door de onderneming niet wettigt of als het oordeelt dat de overeenkomst niet conform paragraaf 2 of artikel 25 is beëindigd, is aan de leerling die beroep heeft aangetekend een schadevergoeding verschuldigd conform artikel 17, § 4.<br>
 &nbsp;
 
 ### ART 27.
