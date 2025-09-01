@@ -44,6 +44,10 @@ Scholen of centra die deelnemen aan de Vlaamse toetsen, duiden personeelsleden a
 
 De leerlingen leggen de Vlaamse toetsen af via het digitale toetsplatform in een lokaal van de school of het centrum waar de leerling is ingeschreven. Minstens een aantal toetsen zijn adaptief, waarbij de moeilijkheidsgraad van de vragen aangepast is aan het prestatieniveau van de leerling.
 
+### ART 4.
+
+Leerlingen die afwezig zijn op het moment van de toetsafname, krijgen vanaf het schooljaar 2025-2026 een tweede kans om de toets af te leggen. De school maakt zelf de afweging of ze inhaalmomenten voor afwezige leerlingen organiseert. Maar als afwezige leerlingen of hun ouders een inhaalmoment wensen, dient de school hierop in te gaan.
+
 ### ART 5.
 
 De procedure voor de inzage van de Vlaamse toetsen voor leerlingen of hun ouders verloopt op de volgende wijze:&nbsp;<br>
