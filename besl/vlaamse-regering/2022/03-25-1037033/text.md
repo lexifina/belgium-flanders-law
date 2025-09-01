@@ -238,6 +238,145 @@ Nieuwmoerse Steenweg 113<br>
 Kwalificatiefase Medewerker florist<br>
 Domein: Land- en tuinbouw
 
+### ART 3.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, § 3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2025-2026 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Integratiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+2° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Integratiefase Medewerker fastfood<br>
+Domein: Voeding en horeca<br>
+3° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Integratiefase Medewerker florist<br>
+Domein: Land- en tuinbouw<br>
+4° GO! IBSO Woudlucht<br>
+Prosperdreef 3<br>
+3001 Leuven<br>
+Integratiefase Medewerker spoelkeuken<br>
+Domein: Voeding en horeca<br>
+5° Buso Don Bosco<br>
+Lenniksesteenweg 2<br>
+1500 Halle<br>
+Integratiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+6° Buso Sint-Jozefinstituut<br>
+Kerkstraat 153<br>
+2060 Antwerpen<br>
+Integratiefase Bandenmonteur<br>
+Domein: STEM<br>
+7° Buso Sint-Jozefinstituut<br>
+Kerkstraat 153<br>
+2060 Antwerpen<br>
+Integratiefase Machinaal houtbewerker<br>
+Domein: STEM<br>
+8° Buso t Lommert<br>
+Botermelkbaan 75<br>
+2900 Schoten<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+9° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Assistent plantaardige productie<br>
+Domein: Land- en tuinbouw<br>
+10° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+11° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Medewerker productielijn, kleding, confectie en meubelstoffering<br>
+Domein: Maatschappij en Welzijn<br>
+12° Buso Emmaüs<br>
+Leihoekstraat 7_B<br>
+9870 Zulte<br>
+Integratiefase Hoeknaadlasser<br>
+Domein: STEM<br>
+13° RHIZO 7 BuSO De Lage Kouter<br>
+Beekstraat 113_B<br>
+8500 Kortrijk<br>
+Integratiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+14° Buso VIBO De Ring<br>
+Steenweg op Mol 154_A<br>
+2360 Oud-Turnhout<br>
+Integratiefase Assistent plantaardige productie<br>
+Domein: Land- en tuinbouw<br>
+15° Buso VIBO De Ring<br>
+Steenweg op Mol 154_A<br>
+2360 Oud-Turnhout<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+16° Berkenbeek SO 2 (buso)<br>
+Nieuwmoerse Steenweg 113<br>
+2990 Wuustwezel<br>
+Integratiefase Assistent plantaardige productie<br>
+Domein: Land- en tuinbouw<br>
+17° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Medewerker tegelzetwerken en dekvloeren<br>
+Domein: STEM<br>
+18° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Plaatser binnenschrijnwerk<br>
+Domein: STEM<br>
+19° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Plaatser buitenschrijnwerk<br>
+Domein: STEM<br>
+20° Buso Kristus-Koning<br>
+Bethaniënlei 5<br>
+2960 Brecht<br>
+Integratiefase Plaatser interieurprojecten<br>
+Domein: STEM<br>
+21° Buso VTS 3 - OV 3<br>
+Breedstraat 104<br>
+9100 Sint-Niklaas<br>
+Integratiefase Winkelmedewerker<br>
+Domein: Economie en organisatie<br>
+22° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Integratiefase Medewerker kamerdienst<br>
+Domein: Voeding en horeca<br>
+23° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Integratiefase Plaatser binnenschrijnwerk<br>
+Domein: STEM<br>
+24° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Integratiefase Plaatser buitenschrijnwerk<br>
+Domein: STEM<br>
+25° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Integratiefase Plaatser interieurprojecten<br>
+Domein: STEM<br>
+26° Sint-Paulusschool campus VTI/VIBSO<br>
+Toekomststraat 75<br>
+8790 Waregem<br>
+Integratiefase Schoonmaker<br>
+Domein: Maatschappij en Welzijn<br>
+27° Berkenbeek SO 2 (buso)<br>
+Nieuwmoerse Steenweg 113<br>
+2990 Wuustwezel<br>
+Integratiefase Medewerker florist<br>
+Domein: Land- en tuinbouw
+
 ### ART 4.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2022.
