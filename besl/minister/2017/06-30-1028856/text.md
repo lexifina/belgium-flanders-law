@@ -44,21 +44,21 @@ Een erkenningsaanvraag als vermeld in artikel 4, tweede lid, van het besluit van
 
 ### ART 2/1.
 
-Ter uitvoering van artikel 5, vierde lid, 1°, van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen wordt voor de verstrekking van biologische en niet-biologische melk, in afwijking van artikel 5, tweede lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal drie porties per leerling en per week in de eerste en in de tweede periode, vermeld in artikel 5, tweede lid, van het voormelde besluit.
+Ter uitvoering van artikel 5, vierde lid, 1°, van het besluit van de Vlaamse Regering van 21 april 2017 betreffende de ondersteuning van de verstrekking van groenten, fruit en melk aan leerlingen in onderwijsinstellingen wordt voor de verstrekking van biologische en niet-biologische zuivel, in afwijking van artikel 5, tweede lid, van hetzelfde besluit, de steun, vermeld in artikel 5, eerste lid, van hetzelfde besluit, verleend voor de verstrekking van maximaal vijf porties per leerling en per week in de eerste en in de tweede periode, vermeld in artikel 5, tweede lid, van het voormelde besluit.
 
 ### ART 3.
 
 Ter uitvoering van artikel 6, tweede lid, van het besluit van 21 april 2017 bedraagt het forfaitaire steunbedrag per leerling per portie:<br>
 1°&nbsp;&nbsp; &nbsp;biologische groenten en fruit: 0,65 euro;<br>
-2°&nbsp;&nbsp; &nbsp;biologische melk: 0,35 euro;<br>
+2°&nbsp;&nbsp; &nbsp;biologische zuivel: 0,35 euro;<br>
 3°&nbsp;&nbsp; &nbsp;niet-biologische groenten en fruit: 0,4 euro;<br>
-4°&nbsp;&nbsp; &nbsp;niet-biologische melk: 0,35 euro.<br>
+4°&nbsp;&nbsp; &nbsp;niet-biologische zuivel: 0,35 euro.<br>
 <br>
 De volgende documenten zijn bewijsstukken als vermeld in artikel 6, zesde lid, van het voormelde besluit, die bij de steunaanvraag, vermeld in artikel 9 van het voormelde besluit, worden ingediend:<br>
 1°&nbsp;&nbsp; &nbsp;de factuur;<br>
 2°&nbsp;&nbsp; &nbsp;de leveringsbon en het bijbehorende betaalbewijs.<br>
 <br>
-Op de documenten, vermeld in het tweede lid, staan de soorten aangeleverde groenten, fruit en melk, de hoeveelheid, en de datum van levering vermeld.
+Op de documenten, vermeld in het tweede lid, staan de soorten aangeleverde groenten, fruit en zuivel, de hoeveelheid, en de datum van levering vermeld.
 
 ### ART 4.
 
