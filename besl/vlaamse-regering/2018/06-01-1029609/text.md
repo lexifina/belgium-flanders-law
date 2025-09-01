@@ -111,13 +111,13 @@ Leerlingen of ouders die verzet hebben aangetekend, zijn verplicht het systemati
 <br>
 De leerlingen of de ouders bezorgen binnen vijftien dagen na de datum van het systematische contact een verslag van het systematische contact aan een beroepsbeoefenaar in de gezondheidszorg van het centrum dat de school van de betrokken leerling begeleidt.<br>
 <br>
-§ 3. Leerplichtigen in huisonderwijs of hun ouders kunnen zich verzetten tegen de uitvoering van een systematisch contact door een bepaalde medewerker van een centrum. In dat geval wordt het systematische contact uitgevoerd door een andere medewerker van het centrum of door een beroepsbeoefenaar in de gezondheidszorg, bevoegd voor de opdracht in kwestie, die niet tot een centrum behoort.<br>
+§ 3. Leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs of hun ouders kunnen zich verzetten tegen de uitvoering van een systematisch contact door een bepaalde medewerker van een centrum. In dat geval wordt het systematische contact uitgevoerd door een andere medewerker van het centrum of door een beroepsbeoefenaar in de gezondheidszorg, bevoegd voor de opdracht in kwestie, die niet tot een centrum behoort.<br>
 <br>
 Het verzet wordt schriftelijk meegedeeld aan de directeur van het centrum dat voor het systematische contact gekozen is met een aangetekende brief of tegen afgifte van een ontvangstbewijs of via een beveiligde digitale zending. Het verzet is getekend en gedateerd.<br>
 <br>
-De leerplichtigen in huisonderwijs of hun ouders die verzet hebben aangetekend, zijn verplicht het systematische contact te laten uitvoeren binnen negentig dagen, met ingang van de datum waarop de aangetekende brief, vermeld in het tweede lid, is verzonden of met ingang van de datum die op het ontvangstbewijs is vermeld.<br>
+De leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs of hun ouders die verzet hebben aangetekend, zijn verplicht het systematische contact te laten uitvoeren binnen negentig dagen, met ingang van de datum waarop de aangetekende brief, vermeld in het tweede lid, is verzonden of met ingang van de datum die op het ontvangstbewijs is vermeld.<br>
 <br>
-De leerplichtigen in huisonderwijs of hun ouders bezorgen binnen vijftien dagen na de datum van het systematische contact een verslag van het systematische contact aan een beroepsbeoefenaar in de gezondheidszorg van een centrum.<br>
+De leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs of hun ouders bezorgen binnen vijftien dagen na de datum van het systematische contact een verslag van het systematische contact aan een beroepsbeoefenaar in de gezondheidszorg van een centrum.<br>
 <br>
 § 4. De bevoegde diensten van de Vlaamse Regering bepalen het model van het verslag.
 
@@ -141,11 +141,11 @@ De beroepsbeoefenaar in de gezondheidszorg van het centrum informeert de directi
 <br>
 Het Draaiboek Infectieziekten CLB vormt daarbij de leidraad voor elk centrum. De bevoegde diensten van de Vlaamse Regering stellen het Draaiboek Infectieziekten CLB ter beschikking.<br>
 <br>
-§ 2. De bevoegde diensten van de Vlaamse Regering informeren de organisator van huisonderwijs voor leerplichtigen welk vermoeden of voorkomen van welke infectieziekte gemeld moet worden aan een beroepsbeoefenaar in de gezondheidszorg van een centrum als vermeld in het Draaiboek Infectieziekten CLB. Het gaat alleen over de leerlingen in huisonderwijs voor wie een verklaring over huisonderwijs is ingediend en bij wie de plaats van het huisonderwijs verschilt van hun domicilie.<br>
+§ 2. De bevoegde diensten van de Vlaamse Regering informeren de organisator van huisonderwijs voor leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs welk vermoeden of voorkomen van welke infectieziekte gemeld moet worden aan een beroepsbeoefenaar in de gezondheidszorg van een centrum als vermeld in het Draaiboek Infectieziekten CLB. Het gaat alleen over de leerplichtigen in huisonderwijs met een verklaring van rechten en plichten inzake huisonderwijs en bij wie de plaats van het huisonderwijs verschilt van hun domicilie.<br>
 <br>
 De beroepsbeoefenaar in de gezondheidszorg van het centrum die de melding ontvangt, bepaalt, zo nodig in overleg met de afdeling bevoegd voor de bestrijding van infectieziekten van het Departement Zorg, welke maatregelen genomen moeten worden in geval van een infectieziekte.<br>
 <br>
-De beroepsbeoefenaar in de gezondheidszorg van het centrum informeert de organisator van huisonderwijs over welke maatregelen genomen moeten worden.<br>
+De beroepsbeoefenaar in de gezondheidszorg van het centrum informeert de organisator van huisonderwijs voor leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs over welke maatregelen genomen moeten worden.<br>
 <br>
 Het Draaiboek Infectieziekten CLB vormt daarbij de leidraad voor elk centrum. De bevoegde diensten van de Vlaamse Regering stellen het Draaiboek Infectieziekten CLB ter beschikking.
 
@@ -207,7 +207,7 @@ Als alle betrokken partijen gehoord zijn, kan vastgesteld worden dat de bemiddel
 
 ### ART 17.
 
-De Vlaamse minister bevoegd voor onderwijs bepaalt de grootorde van het werkingsbudget voor de uitvoering van een systematisch contact en vaccinatie bij leerplichtigen in huisonderwijs en de wijze waarop dat werkingsbudget wordt toegekend.
+De Vlaamse minister bevoegd voor onderwijs bepaalt de grootorde van het werkingsbudget voor de uitvoering van een systematisch contact en vaccinatie bij leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs en de wijze waarop dat werkingsbudget wordt toegekend.
 
 ## HOOFDSTUK V. Infrastructuur en uitrusting in het kader van leerlingenbegeleiding
 
@@ -255,7 +255,7 @@ Elke medewerker van het centrum is ervoor verantwoordelijk het multidisciplinair
 5° overstap naar het secundair onderwijs;<br>
 6° revalidatie tijdens de lestijden;<br>
 7° definitieve uitsluiting;<br>
-8° leerplichtigen met een verklaring huisonderwijs;<br>
+8° leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs huisonderwijs;<br>
 9° lengte;<br>
 10° gewicht;<br>
 11° gehoor;<br>
@@ -309,13 +309,7 @@ De vraag naar ontoegankelijkheid in de gevallen, vermeld in het eerste lid, 1° 
 
 ### ART 27.
 
-§ 1. Bij schoolverandering draagt het centrum het multidisciplinaire dossier van een leerling over aan het ander centrum waartoe de leerling behoort, tenzij daartegen verzet wordt aangetekend door:<br>
-1° de bekwame leerling;<br>
-2° de ouders, in eigen naam of namens de niet-bekwame leerling.<br>
-<br>
-Het verzet wordt schriftelijk ingediend binnen tien werkdagen na de mededeling waarin de leerling en de ouders op de hoogte worden gebracht van de geplande overdracht door de directeur van het nieuwe centrum waartoe de leerling behoort. Voor het berekenen van de tien werkdagen wordt rekening gehouden met de sluitingsperiodes van het CLB zoals vermeld in artikel 11 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding.<br>
-<br>
-§ 2. Het verzet, vermeld in paragraaf 1, kan geen betrekking hebben op de overdracht van de identificatiegegevens, de gegevens in het kader van de verplichte begeleiding van leerlingen met leerplichtproblemen, en de gegevens in het kader van de systematische contacten.
+...
 
 ### ART 28.
 
