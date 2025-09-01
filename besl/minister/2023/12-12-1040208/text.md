@@ -1020,6 +1020,34 @@ Invulinstructies:<br>
 (5) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
 (6) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
 
+### BIJLAGE 27.
+
+<strong>Model (formaat A4 = 210 x 297 mm) van het diploma van secundair onderwijs, onderwijskwalificatie niveau 4 behaald in het zevende leerjaar gericht op het hoger onderwijs na onderwijskwalificatie niveau 3.</strong><br>
+<br>
+VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br>
+DEPARTEMENT ONDERWIJS EN VORMING<br>
+DIPLOMA VAN SECUNDAIR ONDERWIJS, ONDERWIJSKWALIFICATIE<br>
+NIVEAU 4<br>
+Benaming en adres van het schoolbestuur: (1) ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Benaming, adres en nummer van de school:<br>
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………<br>
+Derde graad van het secundair onderwijs<br>
+Structuuronderdeel: zevende leerjaar gericht op het hoger onderwijs na onderwijskwalificatie niveau 3<br>
+Ondergetekende, ………………………………, directeur van bovengenoemde school, bevestigt dat ……………………………… (2), geboren op ……………………………… (3),<br>
+1° als regelmatige leerling het zevende leerjaar gericht op het hoger onderwijs na onderwijskwalificatie niveau 3 heeft gevolgd;<br>
+2° het laatstgenoemde leerjaar met vrucht heeft beëindigd in bovengenoemde school of centrum en structuuronderdeel.<br>
+De directeur bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br>
+Gegeven te ………………………………, op ……………………………… (4).<br>
+De directeur,<br>
+Stempel van de school<br>
+<br>
+<br>
+Invulinstructies:<br>
+(1) voor vzw’s wordt het adres van de zetel van het schoolbestuur of het centrumbestuur vermeld;<br>
+(2) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte; indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk ook een tweede voornaam worden vermeld;<br>
+(3) de maand van de geboortedatum voluit in letters; voor een leerling waarvoor geen officiële geboortedag en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br>
+(4) op 30 juni of vroeger in het schooljaar, indien de leerling al geslaagd verklaard wordt in de loop van het schooljaar.
+
 ### BIJLAGE 28.
 
 <strong>Model (formaat A4 = 210 x 297 mm) van bewijs van beroepskwalificatie in het voltijds gewoon secundair onderwijs en het buitengewoon secundair onderwijs, opleidingsvorm 4</strong><br>
