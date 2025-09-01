@@ -315,7 +315,8 @@ De som van de studieomvang van de leerjaren van de studierichting specialisatie 
 § 1. In het domein woordkunst-drama kan een academie de volgende langlopende studierichtingen aanbieden die leiden tot een beroepskwalificatie zoals bepaald door de socioculturele sector :<br>
 1° creërend acteur;<br>
 2° theaterregisseur;<br>
-3° vertolkend acteur.<br>
+3° vertolkend acteur;<br>
+4° Audiomaker.<br>
 <br>
 De Vlaamse Regering bepaalt welke beroepskwalificatie met welke studierichting behaald kan worden.<br>
 <br>
@@ -693,7 +694,7 @@ Tijdelijke en definitieve uitsluitingen kunnen alleen uitgevoerd worden na een p
 
 Een leerling kan een individueel aangepast curriculum volgen als de directeur en de betrokken leerkrachten na overleg met de leerling en de betrokken personen motiveren dat de leerling ondanks redelijke aanpassingen onvoldoende leerwinst kan boeken in het gemeenschappelijke curriculum, als de leerling voldoet aan een van de volgende voorwaarden:<br>
 1° beschikken over een IAC-verslag als vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997;<br>
-2° beschikken over een IACverslag als vermeld in artikel 294 van de Codex Secundair Onderwijs;<br>
+2° beschikken over een IACverslag als vermeld in artikel 294 van de Codex Secundair Onderwijs van 17 december 2010 of beschikken over een OV4-verslag als vermeld in artikel 294, §2, 2°, van de voormelde codex;<br>
 3° erkend zijn als persoon met een handicap met toepassing van een Vlaamse, een andere Belgische of buitenlandse wetgeving;<br>
 4° een medisch attest kunnen voorleggen waaruit blijkt dat de leerling een aandoening heeft die de leerling verhindert om alle leeractiviteiten in het lessenrooster te volgen. Het attest is ondertekend door een arts, psycholoog of lid van een multidisciplinair team dat erkend is door het Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
@@ -705,7 +706,7 @@ Een leerling met een individueel aangepast curriculum kan afwijken van een of me
 <br>
 De directeur en de betrokken leerkrachten ontwikkelen het individueel aangepast curriculum in samenspraak met de leerling en de betrokken personen, bewaken de ontwikkelingsgerichtheid en nemen de nodige pedagogische, didactische en organisatorische maatregelen. De directeur en betrokken leerkrachten kunnen een beroep doen op externe deskundigen of op de pedagogische begeleidingsdienst.<br>
 <br>
-Een individueel aangepast curriculum duurt maximaal een leerjaar langer dan de graad waarin de leerling is ingeschreven. De leerling kan het leertraject niet verlengen. Bij het beëindigen van de graad reikt de academie aan de leerling een leerbewijs uit.<br>
+Een individueel aangepast curriculum duurt maximaal een leerjaar langer dan de graad&nbsp;of de kortlopende studierichting waarin de leerling is ingeschreven. De leerling kan het leertraject niet verlengen. Bij het beëindigen van de graad of de kortlopende studierichting reikt de academie aan de leerling een leerbewijs uit.<br>
 <br>
 De onderwijsinspectie en het Agentschap voor Onderwijsdiensten kunnen het individueel aangepast curriculum op elk moment inkijken in de academie. De coëfficiënten, vermeld in artikel 67, § 3, eerste en tweede lid, zijn van toepassing als de academie het individueel aangepast curriculum niet kan voorleggen en de leerling een lessenrooster volgt dat afwijkt van de bepalingen over de studieomvang, vermeld in artikel 12 tot en met 20.<br>
 &nbsp;
@@ -1207,7 +1208,7 @@ In afwijking van de bepalingen in artikel 69 tot en met 72 en artikel 79 kan de 
 
 § 1. Het schoolbestuur beslist, met toepassing van de reglementering over overleg en onderhandeling, over de aanwending van de lestijden.<br>
 <br>
-Het schoolbestuur kan het totale aantal toegekende lestijden aanwenden voor de organisatie van leeractiviteiten, muzikaal begeleiden en leeractiviteiten op maat. Het schoolbestuur kan maximaal 5 % van het aantal toegekende lestijden aanwenden voor pedagogische coördinatie.&nbsp;<br>
+Het schoolbestuur kan het totale aantal toegekende lestijden aanwenden voor de organisatie van leeractiviteiten, muzikaal begeleiden en leeractiviteiten op maat. Het schoolbestuur kan maximaal 5 % van het aantal toegekende lestijden aanwenden voor pedagogische coördinatie.&nbsp;Het resultaat van de berekening van dat percentage wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier en naar het lagere geheel getal als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier.<br>
 <br>
 § 2. Elke lestijd die voor leeractiviteiten aangewend wordt resulteert elke week van het schooljaar in een leeractiviteit van minstens vijftig minuten voor het domein beeldende en audiovisuele kunsten en ministens zestig minuten voor de domeinen dans, woordkunst-drama en muziek, of minstens vijftig of zestig minuten voor de domeinoverschrijdende initiatieopleiding, rekening houdend met de bepalingen over de organisatie van het schooljaar, vermeld in artikel 63 en 64.<br>
 <br>
@@ -1462,7 +1463,7 @@ De uitkomst van de berekening, vermeld in het eerste lid, wordt afgerond naar de
 
 ### ART 82.
 
-Het schoolbestuur kan ten laste van de werkingsmiddelen, vermeld in artikel 83 en 84, ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie, of ten laste van de eigen middelen, personeel aanwerven.<br>
+Het schoolbestuur kan ten laste van de werkingsmiddelen, vermeld in artikel 83 en 84, ten laste van subsidies die het beleidsdomein Onderwijs en Vorming, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, toekent om de kwaliteit van onderwijs te versterken, ten laste van subsidies die de Stichting Leerpunt toekent om de kwaliteit van onderwijs te versterken, ten laste van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, ten laste van een premie of premies in het kader van maatwerk bij individuele inschakeling uitgekeerd door het Departement Werk en Sociale Economie, of ten laste van de eigen middelen, personeel aanwerven.<br>
 <br>
 In het gemeenschapsonderwijs kan een schoolbestuur de mogelijkheid, vermeld in het eerste lid, aanwenden voor de personeelscategorieën, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, van toepassing in het deeltijds kunstonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel.<br>
 <br>
@@ -1475,6 +1476,8 @@ Het personeelslid dat door een schoolbestuur van een academie van het gemeenscha
 Het personeelslid dat door een schoolbestuur van een academie van het gesubsidieerd onderwijs wordt aangeworven conform het derde lid, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs is op hem van toepassing.<br>
 <br>
 Het Agentschap voor Onderwijsdiensten betaalt het salaris of salaristoelage rechtstreeks aan de betrokken personeelsleden. Het Agentschap voor Onderwijsdiensten vordert het brutosalaris of de brutosalaristoelage, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van het schoolbestuur terug.<br>
+<br>
+In het eerste lid wordt verstaan onder Stichting Leerpunt: de private stichting opgericht door de Vlaamse Regering bij beslissing van 16 december 2022, met ondernemingsnummer 0795.192.043.<br>
 &nbsp;
 
 ## Afdeling 6 Werkingsmiddelen
@@ -1582,7 +1585,7 @@ Voor de toepassing van het eerste lid wordt de domeinoverschrijdende initiatieop
 
 Voor het schooljaar 2018-2019 bedraagt het inschrijvingsgeld :<br>
 1° 307 euro;<br>
-2° 129 euro als de leerling de leeftijd van 25 jaar niet heeft bereikt of voldoet aan een voorwaarde als vermeld in artikel 92, § 1 of § 2;<br>
+2° 129 euro als de leerling de leeftijd van 25 jaar niet heeft bereikt op 31 december van het schooljaar in kwestie of voldoet aan een voorwaarde als vermeld in artikel 92, § 1 of § 2;<br>
 3° 65 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie;<br>
 4° 42 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het betrokken schooljaar en voldoet aan een voorwaarde als vermeld in artikel 92.<br>
 <br>

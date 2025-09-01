@@ -2,16 +2,16 @@
   "codex_id": 1029281,
   "title": "Decreet van 2018-03-09 betreffende het deeltijds kunstonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029281/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "3f7a09cb741370cf9738be12ea3b570b6e06b11d833eb7b62b15206e6a08b075",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029281/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "fe0027cacd3c4a70df3ca912dd3338f8fb93be59ca19e41448330eb08b747bd5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029281&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-09-01",
   "made": "2018-03-09",
   "gazette": "2018-05-11",
   "numac": 2018011963,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2024-09-01",
+  "in_force": "2025-09-01",
   "article_versions": 175,
-  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }
