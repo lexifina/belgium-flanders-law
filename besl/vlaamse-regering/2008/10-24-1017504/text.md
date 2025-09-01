@@ -35,51 +35,29 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 <br>
 § 2. Het centrumbestuur heeft het recht binnen vijftien kalenderdagen na de betekening van de principiële beslissing van de VDAB tot gehele of gedeeltelijke inhouding, om een verweerschrift in te dienen bij de raad van bestuur van de VDAB. De raad van bestuur van de VDAB neemt een definitieve beslissing binnen vijfenveertig kalenderdagen na de betekening in kwestie. Als na het verstrijken van die datum geen definitieve beslissing aan het centrumbestuur werd betekend, blijft de subsidiëring behouden. De definitieve beslissing over de inhouding gaat in op een door de raad van bestuur van de VDAB te bepalen datum.
 
-## HOOFDSTUK IV. Opleidingsaanbod deeltijds beroepssecundair onderwijs en leertijd
+## HOOFDSTUK IV. ...
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is voor het schooljaar 2024-2025 opgenomen in bijlage III, die bij dit besluit is gevoegd.
+...
 
 ### ART 6/1.
 
-Voor de experimenteel modulaire opleidingen van het deeltijds beroepssecundair onderwijs bevat bijlage III/1, die bij dit besluit is gevoegd:<br>
-1° de centra die deze opleidingen mogen organiseren uiterlijk tot en met het schooljaar 2024-2025;<br>
-2° de opleidingen;<br>
-3° de opleidingenstructuur;<br>
-4° de doelen voor de beroepsgerichte vorming.<br>
-<br>
-De organisatie van de experimenteel modulaire opleiding Verzorgende/Zorgkundige is aan de volgende voorwaarde verbonden: is in overeenstemming met het Koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige, zoals gewijzigd.
+...
 
 ### ART. 7.
 
 ...
 
-## HOOFDSTUK V. Organisatie deeltijds beroepssecundair onderwijs en leertijd
+## HOOFDSTUK V. ...
 
 ### ART. 8.
 
-<p>In bijlage V, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2024-2025 voor elke afzonderlijke opleiding van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald:<br>
-1° de overeenstemmende referentiekaders;<br>
-2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br>
-3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br>
-<br>
-In bijlage VI, die bij dit besluit is gevoegd, worden voor wat betreft het schooljaar 2024-2025 voor elke afzonderlijke opleiding van de leertijd de volgende elementen bepaald:<br>
-1° de overeenstemmende referentiekaders;<br>
-2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.</p>
+<p>...</p>
 
 ### ART. 8bis.
 
-De organisatie van de opleiding begeleider in de kinderopvang is aan de volgende voorwaarden verbonden :<br>
-1° voor de component leren :<br>
-a) opdat het centrum knowhow zou hebben inzake kinderopvang, kan het centrum samenwerken met een centrum voor volwassenenonderwijs dat de opleiding begeleider in de kinderopvang aanbiedt;<br>
-b) aangezien een zorgvuldige monitoring van de kwaliteit van de opleiding en de output ervan nodig is, zal onderwijs of de onderwijsoverheid nauw samenwerken met Kind en Gezin;<br>
-2° voor de component werkplekleren :<br>
-a) jongeren beneden de achttien jaar kunnen in de kinderopvang alleen als logistiek personeelslid werken;<br>
-b) jongeren boven de achttien jaar kunnen als begeleider in de kinderopvang werken, maar niet binnen de verplichte personeelsformatie;<br>
-c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelfstandige kinderopvangsector die beschikt over de minimale financiële ondersteuning, in aanmerking.<br>
-<br>
-De organisatie van de opleiding Verzorgende/Zorgkundige is aan de volgende voorwaarde verbonden: is in overeenstemming met het Koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige, zoals gewijzigd.
+...
 
 ### ART 8ter.
 
@@ -89,51 +67,15 @@ De organisatie van de opleiding Verzorgende/Zorgkundige is aan de volgende voorw
 
 ...
 
-## HOOFDSTUK VI. Toelating
+## HOOFDSTUK VI. ...
 
 ### ART. 9.
 
-De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br>
-1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br>
-2° ...;<br>
-3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br>
-a) bouwplaatsmachinist;<br>
-b) dakafdichter;<br>
-c) dakdekker;<br>
-d) dakdekker leien en pannen;<br>
-e) dakdekker metalen daken;<br>
-f) ...;<br>
-g) daktimmerman;<br>
-h) magazijnmedewerker;<br>
-i) machinist mobiele kraan;<br>
-j) rigger-monteerder;<br>
-k) torenkraanbestuurder;<br>
-l)&nbsp; bestuurder mobiele kraan;;<br>
-m) matroos;<br>
-n) motorist 221 kW;<br>
-o) roerganger;<br>
-p) schipper beperkt vaargebied;<br>
-q) bestuurder heftruck;<br>
-r) bestuurder reachtruck;<br>
-s) installateur fotovoltaïsche systemen;<br>
-t) matroos binnenvaart;<br>
-u) matroos motordrijver binnenvaart;<br>
-v) stellingbouwer;<br>
-4° a) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Maaltijdbereider als hij houder is van een van de volgende studiebewijzen :<br>
-1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br>
-2) een certificaat, uitgereikt in de opleiding Productiemedewerker Voeding van het deeltijds beroepssecundair onderwijs of de leertijd;<br>
-b) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Vleesproductenbereider als hij houder is van een van de volgende studiebewijzen :<br>
-1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br>
-2) een certificaat, uitgereikt in de opleiding Industrieel Vleesbewerker van het deeltijds beroepssecundair onderwijs of de leertijd.<br>
-<br>
-Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
+...
 
 ### ART 9bis.
 
-Voor individuele situaties en in uitzonderlijke omstandigheden kan van een of meer van de voorwaarden, vermeld in artikel 3, 1°, a), c) en e), van het decreet, worden afgeweken als aan al de volgende voorwaarden is voldaan :<br>
-1° de klassenraad neemt een gunstige en gemotiveerde beslissing uiterlijk 25 lesdagen na aanvang van de regelmatige lesbijwoning;<br>
-2° de klassenraad bestaat ten minste uit alle stemgerechtigde leden en een afgevaardigde van het centrum voor leerlingenbegeleiding in kwestie;<br>
-3° de toegestane afwijking wordt gemeld aan de bevoegde diensten van de Vlaamse Gemeenschap.
+...
 
 ## HOOFDSTUK VII. [... (opgeh. BVR 18 december 2020, art. 62, I: 1 januari 2021)]
 
@@ -147,24 +89,21 @@ Voor individuele situaties en in uitzonderlijke omstandigheden kan van een of me
 
 Ter uitvoering van artikel 58, derde lid, en artikel 59, tweede lid, van het decreet en ter uitvoering van artikel 3, § 5, van de wet van 29 juni 1983 betreffende de leerplicht gelden inzake wettiging van afwezigheden en problematische afwezigheden de bepalingen van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs.
 
-## HOOFDSTUK IX. Studiebekrachtiging deeltijds beroepssecundair onderwijs
+## HOOFDSTUK IX. ...
 
 ### ART. 12.
 
-Het model en de invulonderrichtingen, vermeld in artikel 74 van het decreet, van de volgende studiebewijzen van het deeltijds beroepssecundair onderwijs, zijn opgenomen in bijlage VII tot en met XIII, die bij dit besluit zijn gevoegd :<br />1° attest van verworven competenties;<br />2° deelcertificaat;<br />3° certificaat;<br />4° getuigschrift van de tweede graad van het secundair onderwijs;<br />5° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br />6° diploma van secundair onderwijs;<br />7° getuigschrift over de basiskennis van het bedrijfsbeheer.
+...
 
 ### ART. 12bis.
 
-Voor opleidingen die gebaseerd zijn op een beroepskwalificatie, geldt het   certificaat als bewijs van beroepskwalificatie. Op het model van het certificaat   dat wordt uitgereikt na voltooiing van de opleidingen die gebaseerd zijn op een   beroepskwalificatie, wordt vermeld dat het een bewijs van beroepskwalificatie   betreft en welk niveau dat bewijs heeft binnen de Vlaamse kwalificatiestructuur   en het Europese kwalificatiekader.
+...
 
 ### ART. 12ter.
 
-De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
-1° - van niveau 2 : Behandelaar luchtvracht en bagage, Medewerker groen- en tuinaanleg, Medewerker groen- en tuinbeheer en Medewerker textielverzorging;<br>
-2° - van niveau 3 : Kapper;<br>
-3° - van niveau 4 : Kapper-salonverantwoordelijke, Operator textielverzorging en Tuinaanlegger/groenbeheerder.
+...
 
-## HOOFDSTUK X. Studiebekrachtiging leertijd
+## HOOFDSTUK X. ...
 
 ### ART. 13.
 
@@ -176,28 +115,19 @@ De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
 
 ### ART. 15.
 
-Ter uitvoering van artikel 81 van het decreet wordt in bijlage XIV, die bij dit besluit is gevoegd, bepaald welke certificaten van een opleiding of welke combinatie van certificaten van een opleiding aanleiding geeft tot de uitreiking van een getuigschrift leertijd.
+...
 
 ### ART. 16.
 
-Het model en de invulonderrichtingen, vermeld in artikel 84 van het decreet, van de volgende studiebewijzen van de leertijd, zijn opgenomen in bijlage XV tot en met XIX, die bij dit besluit zijn gevoegd :<br>
-1° certificaat;<br>
-2° getuigschrift leertijd;<br>
-3° getuigschrift van de tweede graad van het secundair onderwijs;<br>
-4° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br>
-5° diploma van secundair onderwijs;<br>
-6° ...
+...
 
 ### ART. 16bis.
 
-Voor opleidingen die gebaseerd zijn op een beroepskwalificatie, geldt het   certificaat als bewijs van beroepskwalificatie. Op het model van het certificaat   dat wordt uitgereikt na voltooiing van de opleidingen die gebaseerd zijn op een   beroepskwalificatie, wordt vermeld dat het een bewijs van beroepskwalificatie   betreft en welk niveau dat bewijs heeft binnen de Vlaamse kwalificatiestructuur   en het Europese kwalificatiekader.
+...
 
 ### ART. 16ter.
 
-De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
-1° - van niveau 2 : Behandelaar luchtvracht en bagage, Medewerker groen- en tuinaanleg, Medewerker groen- en tuinbeheer en Medewerker textielverzorging;<br>
-2° - van niveau 3 : Kapper;<br>
-3° - van niveau 4 : Kapper-salonverantwoordelijke, Operator textielverzorging en Tuinaanlegger/groenbeheerder.
+...
 
 ## HOOFDSTUK XI. Financiering en subsidiëring deeltijds beroepssecundair onderwijs
 
@@ -210,7 +140,7 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 ### ART. 18.
 
 §1. Een centrum voor deeltijds beroepssecundair onderwijs kan uren-leraar aanwenden om een gastleraar in te zetten conform de volgende voorwaarden:<br>
-1° het centrum kan een of meer gastleraren inzetten in een vacante betrekking als vermeld in artikel 90, §1, 3°, van het decreet of tijdens de schooljaren 2023-2024 en 2024-2025 in een niet-vacante betrekking conform artikel 22/16, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+1° het centrum kan een of meer gastleraren inzetten in een vacante betrekking als vermeld in artikel 90, §1, 3°, van het decreet of tijdens de schooljaren 2025-2026 tot en met 2029-2030 in een niet-vacante betrekking conform artikel 22/16, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010;<br>
 2°&nbsp; als het centrum voor deeltijds beroepssecundair onderwijs wekelijkse uren-leraar aanwendt voor een vacante betrekking van gastleraar als vermeld in artikel 90, §1, 3°, van het decreet, meldt het centrum het aantal uren-leraar en de periode van aanwending aan het Agentschap voor Onderwijsdiensten. Als het centrum de uren-leraar van een niet-vacante betrekking in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komt voor een reguliere vervanging, aanwendt voor een gastleraar als vermeld in artikel 22/16, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010, meldt het centrum het aantal uren-leraar en de periode van aanwending aan het Agentschap voor Onderwijsdiensten;<br>
 3°&nbsp; de uren-leraar die conform punt 2° worden gemeld, worden door het Agentschap voor Onderwijsdiensten omgezet in een krediet dat wordt vastgesteld op 68,93 euro per omgezet uur-leraar. Het voormelde krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Het voormelde krediet wordt vanaf 1 januari 2023 gekoppeld aan de spilindex 123,14. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br>
 4°&nbsp; het Agentschap voor Onderwijsdiensten kent het totale geïndexeerde krediet voor de aanwending van gastleraren, vermeld in punt 3°, toe aan het centrum in de vorm van een voorschot van 25% van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 75% in de loop van de maand juni die daarop volgt;<br>
@@ -225,516 +155,7 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 
 ### ART 18bis.
 
-Met toepassing van artikel 90, §2, van het decreet en artikel 22/15, eerste lid, van de Codex Secundair Onderwijs van 17 december 2010 kan een centrum voor deeltijds beroepssecundair onderwijs uren-leraar op de volgende wijze omzetten in punten voor de aanwending in wervingsambten van het ondersteunend personeel:<br>
-1° voor een betrekking met puntenwaarde 63:
-<table border="1" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">3</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">8</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">19</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31,5</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">58</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
-		</tr>
-	</tbody>
-</table>
-2° voor een betrekking met puntenwaarde 82::
-
-<table border="1" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">14</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">25</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">29</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">32</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">36</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">39</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">43</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">46</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">50</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">53</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">61</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">64</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">75</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
-		</tr>
-	</tbody>
-</table>
-3° voor een betrekking met puntenwaarde 85:
-
-<table border="1" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">4</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">7</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">15</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">18</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">30</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">41</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">48</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">59</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">67</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">70</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">74</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">81</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">85</td>
-		</tr>
-	</tbody>
-</table>
-4° voor een betrekking met puntenwaarde 120::
-
-<table border="1" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">punten</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">10</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">21</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">26</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">31</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">37</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">42</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">47</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">52</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">57</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">63</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">68</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">73</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">78</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">83</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">89</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">94</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">99</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">110</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">120</td>
-		</tr>
-	</tbody>
-</table>
-6° voor een betrekking met puntenwaarde 126:
-
-<table border="1" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:1px inset #222222">uren-leraar</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:1px inset #222222">Punten</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">1</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">5</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">2</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">11</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">3</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">16</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">4</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">22</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">5</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">27</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">6</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">33</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">7</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">38</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">8</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">44</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">9</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">49</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">10</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">55</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">11</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">60</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">12</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">66</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">13</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">71</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">14</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">77</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">15</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">82</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">16</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">88</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">17</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">93</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">18</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">99</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">19</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">104</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">20</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">110</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">21</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">115</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">22</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">121</td>
-		</tr>
-		<tr>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:1px inset #222222; border-right:1px inset #222222; border-top:none">23</td>
-			<td style="background-color:white; border-bottom:1px inset #222222; border-left:none; border-right:1px inset #222222; border-top:none">126</td>
-		</tr>
-	</tbody>
-</table>
+...
 
 ### ART 18ter.
 
@@ -901,1021 +322,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE III
 
-Bijlage III. Lijst van opleidingen voor wat betreft het schooljaar 2024-2025<br>
-<br>
-1° <u>Deeltijds beroepssecundair onderwijs:</u><br>
-<br>
-<u>Categorie 1: Opleidingen modulair georganiseerd op basis van een beroepskwalificatie</u><br>
-Kapper-salonverantwoordelijke<br>
-Tuinaanlegger/groenbeheerder<br>
-<br>
-<u>Categorie 2: Opleidingen modulair georganiseerd na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap</u><br>
-Administratief medewerker kmo<br>
-Basisoperator proceschemie<br>
-Bekister<br>
-Bestuurder mobiele kraan<br>
-Buitenschrijnwerker<br>
-Callcentermedewerker<br>
-Carrosseriehersteller<br>
-Chocoladebewerker<br>
-Dakafdichter<br>
-Dakdekker<br>
-Dakdekker leien en pannen<br>
-Daktimmerman<br>
-Decor- &amp; standenbouwer<br>
-Glaswerker<br>
-Grootkeukenkok<br>
-IJsbereider<br>
-IJzervlechter<br>
-Industrieel elektrotechnisch installateur<br>
-Industrieel maaltijdbereider<br>
-Industrieel vleesbewerker<br>
-Industrieel vleesproductenbereider<br>
-Installateur fotovoltaïsche systemen<br>
-Kok<br>
-Kunststofbewerker<br>
-Machineregelaar extrusie<br>
-Machineregelaar spuitgieten<br>
-Machineregelaar thermisch vormen<br>
-Meubelmaker<br>
-Meubelstoffeerder<br>
-Natuursteenbewerker<br>
-Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen<br>
-Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen<br>
-Onderhoudsmecanicien zware bedrijfsvoertuigen<br>
-Pijpfitter<br>
-Plaatser buitenschrijnwerk<br>
-Plaatser natuursteen<br>
-Plaatser parket<br>
-Podiumtechnicus<br>
-Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen<br>
-Polyvalent mecanicien zware bedrijfsvoertuigen<br>
-Slager/bereider verkoopklare gerechten<br>
-Slager/spekslager<br>
-Spuiter carrosserie<br>
-Stellingbouwer<br>
-Technicus domotica<br>
-Technicus elektrische zwembaduitrustingen<br>
-Technicus immotica<br>
-Technicus inbraakbeveiligingssystemen<br>
-Tertiair elektrotechnisch installateur<br>
-Torenkraanbestuurder<br>
-Verhuizer-drager<br>
-Verhuizer-inpakker<br>
-Werkplaatsschrijnwerker aluminium<br>
-Werkplaatsschrijnwerker kunststoffen<br>
-<br>
-<u>Categorie 3: alle opleidingen (niet-modulair georganiseerd) die niet onder categorie 1 en 2 vallen</u><br>
-<br>
-<u>Rubriek KLEDING EN CONFECTIE</u><br>
-Patronenmaker<br>
-<br>
-<u>Rubriek LAND- EN TUINBOUW</u><br>
-Assistent-hoefsmid<br>
-Hoefsmid<br>
-<br>
-<u>Rubriek PERSONENZORG</u><br>
-Begeleider in de kinderopvang<br>
-Verzorgende<br>
-Verzorgende/zorgkundige<br>
-<br>
-<u>Rubriek SPORT EN VRIJE TIJD</u><br>
-Animator in de evenementensector<br>
-Buurtsportwerker<br>
-Sportbegeleider<br>
-<br>
-2° <u>Leertijd:</u><br>
-<br>
-<u>Categorie 1: Opleidingen op basis van een beroepskwalificatie</u><br>
-Kapper-salonverantwoordelijke<br>
-Tuinaanlegger/groenbeheerder<br>
-<br>
-<u>Categorie 2: Opleidingen na screening als vermeld in artikel 23, §1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap</u><br>
-Administratief medewerker kmo<br>
-Basisoperator proceschemie<br>
-Bekister<br>
-Bestuurder mobiele kraan<br>
-Buitenschrijnwerker<br>
-Callcentermedewerker<br>
-Carrosseriehersteller<br>
-Chocoladebewerker<br>
-Dakafdichter<br>
-Dakdekker<br>
-Dakdekker leien en pannen<br>
-Daktimmerman<br>
-Decor- &amp; standenbouwer<br>
-Glaswerker<br>
-Grootkeukenkok<br>
-IJsbereider<br>
-IJzervlechter<br>
-Industrieel elektrotechnisch installateur<br>
-Industrieel maaltijdbereider<br>
-Industrieel vleesbewerker<br>
-Industrieel vleesproductenbereider<br>
-Installateur fotovoltaïsche systemen<br>
-Kok<br>
-Kunststofbewerker<br>
-Machineregelaar extrusie<br>
-Machineregelaar spuitgieten<br>
-Machineregelaar thermisch vormen<br>
-Meubelmaker<br>
-Meubelstoffeerder<br>
-Natuursteenbewerker<br>
-Onderhouds- en diagnosetechnicus personenwagens en lichte bedrijfsvoertuigen<br>
-Onderhouds- en diagnosetechnicus zware bedrijfsvoertuigen<br>
-Onderhoudsmecanicien zware bedrijfsvoertuigen<br>
-Pijpfitter<br>
-Plaatser buitenschrijnwerk<br>
-Plaatser natuursteen<br>
-Plaatser parket<br>
-Podiumtechnicus<br>
-Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen<br>
-Polyvalent mecanicien zware bedrijfsvoertuigen<br>
-Restauratievakman meubelen<br>
-Slager/bereider verkoopklare gerechten<br>
-Slager/spekslager<br>
-Spuiter carrosserie<br>
-Stellingbouwer<br>
-Technicus domotica<br>
-Technicus elektrische zwembaduitrustingen<br>
-Technicus immotica<br>
-Technicus inbraakbeveiligingssystemen<br>
-Tertiair elektrotechnisch installateur<br>
-Torenkraanbestuurder<br>
-Verhuizer-drager<br>
-Verhuizer-inpakker<br>
-Werkplaatsschrijnwerker aluminium<br>
-Werkplaatsschrijnwerker kunststoffen<br>
-<br>
-<u>Categorie 3: alle opleidingen die niet onder categorie 1 en 2 vallen</u><br>
-<br>
-<u>Rubriek KUNST EN AMBACHTEN</u><br>
-Glazenier<br>
-<br>
-<u>Rubriek LAND- EN TUINBOUW</u><br>
-Florist<br>
-Hoefsmid<br>
-Paardenhouder<br>
-<br>
-<u>Rubriek PERSONENZORG</u><br>
-Begeleider in de kinderopvang<br>
-Verzorgende<br>
-Verzorgende/zorgkundige<br>
-<br>
-<u>Rubriek SCHOONHEIDSZORG</u><br>
-Orthopedie-schoentechnicus<br>
-Tandprothesetechnicus<br>
-<br>
-<u>Rubriek SPORT EN VRIJE TIJD</u><br>
-Animator in de evenementensector<br>
-Sportbegeleider<br>
-<br>
-<strong>Aandacht:</strong> leerlingen die in het schooljaar 2023-2024 een opleiding volgen die in bovenstaande lijst niet is opgenomen, kunnen deze opleiding binnen een normaal tijdsbestek en zonder onderbreking verder zetten.
+...
 
 ### BIJLAGE III/1
 
-Bijlage III/1. Experimenteel modulair deeltijds beroepssecundair onderwijs<br>
-<br>
-Hieronder worden respectievelijk weergegeven:<br>
-1° de centra die deze opleidingen kunnen organiseren uiterlijk tot en met het schooljaar 2024-2025; 2° de opleidingen (+ administratieve groepsnummers) vanaf 1 september 2023;<br>
-3° de opleidingenstructuur vanaf 1 september 2023;<br>
-4° de doelen voor de beroepsgerichte vorming vanaf 1 september 2023.<br>
-<br>
-Centra:<br>
-1)GO! SO De Vesten Herentals<br>
-Augustijnenlaan 32<br>
-2200 Herentals<br>
-2)Regionaal centrum voor leren en werken<br>
-Zandstraat 85<br>
-2300 Turnhout<br>
-3)Don Bosco Technisch Instituut<br>
-Salesianenlaan 1<br>
-2660 Hoboken<br>
-4)CLW Kortrijk<br>
-Scheutistenlaan 8<br>
-8500 Kortrijk<br>
-<br>
-Opleidingen:<br>
-38604 Begeleider in de kinderopvang<br>
-38608 Thuis- en bejaardenzorg/zorgkundige<br>
-38607 Verzorgende<br>
-<br>
-Opleidingenstructuur<br>
-<br>
-<br>
-<br>
-<br>
-In de hierboven vermelde modules verwijst het cijfer naar het aantal weken als duurtijd van de module binnen het voltijds gewoon secundair onderwijs. Voor het deeltijds beroepssecundair onderwijs is de duurtijd louter indicatief.<br>
-<br>
-Samenhang<br>
-<br>
-<br>
-In de hierboven vermelde modules verwijst het cijfer naar het aantal weken als duurtijd van de module binnen het voltijds gewoon secundair onderwijs. Voor het deeltijds beroepssecundair onderwijs is de duurtijd louter indicatief.<br>
-<br>
-Doelen voor de beroepsgerichte vorming<br>
-<br>
-Module Basis communicatie<br>
-<br>
-In deze module worden sociale vaardigheden aangebracht die nodig zijn voor het eigen functioneren. De eigen identiteit, communiceren en zich informeren, met anderen omgaan en andere samenlevingsvormen en culturen staan centraal. Daarnaast is er ook aandacht voor de eigen expressieve mogelijkheden.<br>
-<br>
-met zichzelf omgaan<br>
-➢ met eigen mogelijkheden en beperkingen omgaan<br>
-➢ met eigen ervaringen omgaan<br>
-➢ met eigen gevoelens, emoties, waarden en normen omgaan<br>
-<br>
-met anderen omgaan<br>
-➢ zichzelf voorstellen<br>
-➢ gericht luisteren<br>
-➢ gericht waarnemen<br>
-➢ vragen stellen<br>
-➢ zich informeren<br>
-➢ reflecteren<br>
-➢ empathisch zijn<br>
-➢ anderen respecteren<br>
-➢ conflicten hanteren<br>
-➢ zich expressief uiten<br>
-➢ met diversiteit omgaan<br>
-➢ met anderen communiceren<br>
-➢ met zijn sociaal netwerk contact nemen<br>
-➢ met problemen en moeilijkheden omgaan<br>
-<br>
-Module Basis gezondheid<br>
-<br>
-In deze module worden de basiselementen van gezondheid, hygiëne en zorg aangebracht. Er wordt eveneens een eerste inzicht in de sector meegegeven.<br>
-Al deze aspecten hebben betrekking op zelfzorg en mantelzorg.<br>
-<br>
-de gezondheids- en welzijnszorg verkennen<br>
-➢ regionale diensten en hulpverleners inventariseren<br>
-➢ informatie over diensten en hulpverleners inwinnen<br>
-<br>
-methodisch werken<br>
-➢ economisch werken<br>
-➢ ecologisch werken<br>
-➢ ergonomisch werken<br>
-➢ hygiënisch werken<br>
-➢ planmatig werken<br>
-➢ veilig werken<br>
-<br>
-voor de gezondheid van zichzelf en anderen zorgen<br>
-➢ behoeften van de mens inventariseren<br>
-➢ gezondheidsproblemen inventariseren<br>
-➢ zich over gezondheidsproblemen informeren<br>
-➢ een zorgproces opstellen<br>
-➢ huismiddeltjes en volksremedies kritisch bevragen<br>
-➢ eigen waarden formuleren<br>
-<br>
-voor veiligheid, preventie en EHBO instaan<br>
-➢ preventieve aanwijzingen geven<br>
-➢ basisprincipes van EHBO toepassen<br>
-➢ dringende eerste hulp verlenen<br>
-➢ veiligheidsvoorschriften naleven<br>
-<br>
-Module Basis huishouding<br>
-<br>
-In deze module wordt de zorg voor de eigen leef- en woonsituatie aangeleerd. De nadruk ligt in deze module op maaltijden bereiden, textiel onderhouden, een woning onderhouden en administratie in functie van een huishouding. Er is ook aandacht voor methodisch, ergonomisch en hygiënisch werken. Al deze aspecten hebben betrekking op zelfzorg en mantelzorg.<br>
-<br>
-methodisch werken<br>
-➢ economisch werken<br>
-➢ ecologisch werken<br>
-➢ ergonomisch werken<br>
-➢ hygiënisch werken<br>
-➢ planmatig werken<br>
-➢ veilig werken<br>
-<br>
-eenvoudige en evenwichtige maaltijden verzorgen<br>
-➢ eenvoudige maaltijden bereiden<br>
-➢ voedingsmiddelen bewaren<br>
-➢ de vaat doen en opruimen<br>
-➢ de tafel dekken en afruimen<br>
-➢ evenwichtige maaltijden samenstellen<br>
-<br>
-textiel en schoeisel onderhouden<br>
-➢ wastechnieken toepassen<br>
-➢ het gereinigde textiel kastklaar maken<br>
-➢ eenvoudige herstellingen uitvoeren<br>
-➢ schoeisel onderhouden<br>
-<br>
-een woning inrichten en onderhouden<br>
-➢ een woning sfeervol inrichten<br>
-➢ bloemen en planten verzorgen<br>
-➢ schoonmaaktechnieken toepassen<br>
-<br>
-administratieve taken verrichten<br>
-➢ elementaire computervaardigheden toepassen<br>
-➢ briefwisseling verzorgen<br>
-➢ financiële verrichtingen uitvoeren<br>
-➢ een klassement bijhouden<br>
-➢ een voorraad op peil houden<br>
-➢ diensten contacteren<br>
-<br>
-Module Begeleiding van het jonge kind<br>
-<br>
-In deze module ligt het zwaartepunt op de gespecialiseerde vaardigheden die nodig zijn om als begeleider van het kind van 0-3 jaar te functioneren. Volgende elementen komen daarbij aan bod: pedagogische visie, teamwerk, het leef- en woonklimaat, spelactiviteiten, omgaan met kinderen en hun ouders, de ontwikkeling stimuleren, een opvoedende houding aannemen. Hierbij wordt ook aandacht besteed aan de integratie van de begeleider in het werkveld.<br>
-<br>
-een visie op kinderopvang toepassen<br>
-➢ de wettelijke reglementering in verband met de kinderopvang verduidelijken<br>
-➢ de rol van Kind en Gezin omschrijven<br>
-➢ de conventie van de rechten van het kind verwoorden<br>
-➢ pedagogisch verantwoord handelen<br>
-➢ aan kwaliteitsbevorderende initiatieven meewerken<br>
-➢ beroepsgeheim respecteren<br>
-<br>
-methodisch handelen<br>
-➢ een begeleidingsplan uitvoeren<br>
-➢ ecologisch, economisch, ergonomisch, hygiënisch en veilig werken<br>
-➢ bij noodsituaties de verantwoordelijke verwittigen<br>
-<br>
-observeren en rapporteren<br>
-➢ observeren<br>
-➢ schriftelijk en mondeling rapporteren<br>
-<br>
-in team werken<br>
-➢ met collega’s, verantwoordelijken en andere hulpverleners constructief samenwerken<br>
-➢ in team overleggen<br>
-➢ klachten, vragen, suggesties aan de verantwoordelijke(n) signaleren<br>
-<br>
-voor de dagelijkse verzorging van het kind instaan<br>
-➢ het kind bij de hygiënische zorgen begeleiden<br>
-➢ hygiënische zorgen uitvoeren<br>
-➢ basisregels van hygiëne toepassen<br>
-➢ zelfredzaamheid stimuleren<br>
-➢ til- en verplaatsingstechnieken toepassen<br>
-➢ gezonde voeding bereiden<br>
-➢ de eetsituaties begeleiden<br>
-➢ met de voedingsgewoonten van de kinderen rekening houden<br>
-➢ op de voeding- en vochtinname van de kinderen toezien<br>
-➢ rustmomenten organiseren<br>
-➢ over slapende en rustende kinderen toezicht houden<br>
-➢ ernstig zieke kinderen in afzonderlijke ruimte opvangen<br>
-➢ informatie over het zieke kind inwinnen<br>
-➢ het zieke kind verzorgen<br>
-➢ in opdracht medicijnen toedienen<br>
-➢ medicijngebruik registeren<br>
-➢ medicijnen bewaren<br>
-➢ ziekteverloop opvolgen<br>
-<br>
-met het kind in dagelijkse situaties omgaan<br>
-➢ voor een warm onthaal zorgen<br>
-➢ voor afhaalmoment van de kinderen instaan<br>
-➢ structuur aanbieden<br>
-➢ sensitief en responsief met de kinderen omgaan<br>
-➢ de ontwikkeling van de kinderen opvolgen<br>
-➢ met frequent voorkomende problemen in de opvoeding omgaan<br>
-➢ kinderen stimuleren<br>
-➢ met diversiteit omgaan<br>
-➢ een huiselijke sfeer creëren<br>
-➢ voor een gepaste groepssfeer zorgen<br>
-➢ voor een basissfeer van veiligheid en geborgenheid zorgen<br>
-➢ ruimte laten en met de gevoelens en gewoontes van het kind rekening houden<br>
-➢ met conflicten bij kinderen omgaan<br>
-➢ met kinderen met specifieke behoeften omgaan<br>
-➢ met observatie- en stimuleringsprogramma's werken<br>
-➢ opvoedingsmethoden en opvoedingsmiddelen hanteren<br>
-<br>
-activiteiten plannen, organiseren en begeleiden<br>
-➢ mogelijkheden tot vrij spel scheppen<br>
-➢ spelimpulsen geven<br>
-➢ het spelaanbod op het individuele kind afstemmen<br>
-➢ het spelaanbod op de groep afstemmen<br>
-➢ het spelaanbod op de omstandigheden afstemmen<br>
-➢ spelmateriaal kiezen<br>
-➢ speltechnieken en spelvormen toepassen<br>
-➢ activiteiten organiseren en coördineren<br>
-➢ een groep begeleiden<br>
-➢ activiteiten voor het zieke kind organiseren<br>
-<br>
-met de ouders en externen omgaan<br>
-➢ sensitief en responsief met de ouders omgaan<br>
-➢ met de ouders en externen informatie en ervaringen uitwisselen<br>
-➢ de autonomie en de opvoedingsstijl van de ouders respecteren<br>
-➢ met de ouders een vertrouwensrelatie opbouwen<br>
-➢ moeilijke gesprekken voeren<br>
-➢ voor nieuwe ouders en hun kind een ‘wen-periode’ inlassen<br>
-➢ afhaalpersonen van de kinderen herkennen<br>
-➢ bij niet gemachtigd afhalen van een kind de verantwoordelijke verwittigen<br>
-➢ afspraken naleven en laten naleven<br>
-➢ met opvoedingsvragen van ouders omgaan<br>
-➢ aan ouderparticipatie meewerken<br>
-➢ met informatie in verband met de opvangvoorziening omgaan<br>
-<br>
-met gevaar en onverwachte situaties omgaan<br>
-➢ eerstehulpdiensten en/of bevoegde personen oproepen<br>
-➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
-➢ bij verstikking maatregelen nemen<br>
-➢ bij verbranding maatregelen nemen<br>
-➢ bij bloedingen maatregelen nemen<br>
-➢ kleine wonden verzorgen<br>
-➢ met medicatie omgaan<br>
-➢ gevaarlijke situaties inschatten<br>
-➢ bij onverwachte situaties initiatief nemen<br>
-<br>
-het leef- en woonklimaat verzorgen<br>
-➢ leefruimten gepast inrichten<br>
-➢ de kinderen bij de zorg voor leef- en woonklimaat betrekken<br>
-➢ veiligheid waarborgen<br>
-➢ defecten en problemen in verband met de infrastructuur detecteren en signaleren<br>
-➢ de openings- en sluitingsprocedure van een opvangvoorziening toepassen<br>
-<br>
-administratieve taken uitvoeren<br>
-➢ registratiesystemen toepassen<br>
-➢ eenvoudige administratieve taken uitvoeren<br>
-<br>
-voor het eigen functioneren instaan<br>
-➢ informatiebronnen raadplegen<br>
-➢ vakliteratuur raadplegen<br>
-➢ het eigen functioneren bespreken<br>
-<br>
-Module Begeleiding van het schoolgaande kind<br>
-<br>
-In deze module ligt het zwaartepunt op de gespecialiseerde vaardigheden die nodig zijn om als begeleider van het schoolgaande kind te functioneren. Een pedagogische visie, teamwerk, het leef- en woonklimaat, spelactiviteiten, omgaan met kinderen en hun ouders, de ontwikkeling stimuleren, een opvoedende houding aannemen en pedagogisch omgaan met kinderen bij huiswerk- en spelbegeleiding komen daarbij aan bod. Er wordt ook aandacht besteed aan de integratie van de begeleid(st)er in het werkveld.<br>
-<br>
-een visie op kinderopvang toepassen<br>
-➢ de wettelijke reglementering i.v.m. de buitenschoolse kinderopvang verduidelijken<br>
-➢ de rol van Kind en Gezin ten aanzien van de opvangvoorzieningen omschrijven<br>
-➢ de conventie van de rechten van het kind verwoorden<br>
-➢ pedagogisch verantwoord handelen<br>
-➢ aan kwaliteitsbevorderende initiatieven meewerken<br>
-➢ het beroepsgeheim respecteren<br>
-<br>
-methodisch handelen<br>
-➢ een begeleidingsplan uitvoeren<br>
-➢ ecologisch, economisch, ergonomisch, hygiënisch en veilig werken<br>
-➢ bij noodsituaties de verantwoordelijke verwittigen<br>
-<br>
-observeren en rapporteren<br>
-➢ observeren<br>
-➢ schriftelijk en mondeling rapporteren<br>
-<br>
-in team werken<br>
-➢ met collega’s, verantwoordelijken en andere hulpverleners constructief samenwerken<br>
-➢ aan teamoverleg deelnemen<br>
-➢ klachten, vragen, suggesties aan verantwoordelijke signaleren<br>
-<br>
-voor de dagelijkse verzorging van het kind instaan<br>
-➢ het kind bij de hygiënische zorgen begeleiden<br>
-➢ basisregels van hygiëne toepassen<br>
-➢ gezonde voeding bereiden<br>
-➢ de eetsituaties begeleiden<br>
-➢ met de voedingsgewoonten van de kinderen rekening houden<br>
-➢ op de voeding- en vochtinname van de kinderen toezien<br>
-➢ rustmomenten organiseren<br>
-<br>
-met het kind in dagelijkse situaties omgaan<br>
-➢ voor een warm onthaal zorgen<br>
-➢ voor het afhaalmoment van de kinderen instaan<br>
-➢ een huiselijke sfeer creëren<br>
-➢ voor een basissfeer van veiligheid en geborgenheid zorgen<br>
-➢ voor een gepaste groepssfeer zorgen<br>
-➢ sensitief en responsief met de kinderen omgaan<br>
-➢ ruimte laten en met de gevoelens en gewoontes van het kind rekening houden<br>
-➢ met diversiteit omgaan<br>
-➢ kinderen stimuleren<br>
-➢ structuur aanbieden<br>
-➢ met conflicten bij kinderen omgaan<br>
-➢ de ontwikkeling van de kinderen opvolgen<br>
-➢ met frequent voorkomende problemen bij de ontwikkeling omgaan<br>
-➢ met kinderen met specifieke behoeften omgaan<br>
-➢ opvoedingsmethoden en opvoedingsmiddelen hanteren<br>
-➢ met observatie- en stimuleringsprogramma’s werken<br>
-<br>
-activiteiten plannen, organiseren en begeleiden<br>
-➢ mogelijkheden tot vrij spel scheppen<br>
-➢ spelimpulsen geven<br>
-➢ spelaanbod op het individuele kind afstemmen<br>
-➢ spelaanbod op de groep afstemmen<br>
-➢ spelaanbod op de omstandigheden afstemmen<br>
-➢ spelmateriaal kiezen<br>
-➢ speltechnieken en spelvormen toepassen<br>
-➢ spelactiviteiten organiseren en coördineren<br>
-➢ een groep begeleiden<br>
-<br>
-met de ouders en externen contact nemen<br>
-➢ sensitief en responsief met de ouders omgaan<br>
-➢ met de ouders en externen informatie en ervaringen uitwisselen<br>
-➢ de autonomie en de opvoedingsstijl van de ouders respecteren<br>
-➢ met de ouders een vertrouwensrelatie opbouwen<br>
-➢ moeilijke gesprekken voeren<br>
-➢ afhaalpersonen van de kinderen herkennen<br>
-➢ bij niet gemachtigd afhalen van een kind de verantwoordelijke verwittigen<br>
-➢ afspraken naleven en laten naleven<br>
-➢ met opvoedingsvragen van ouders omgaan<br>
-➢ aan ouderparticipatie meewerken<br>
-➢ met informatie in verband met de opvangvoorziening omgaan<br>
-<br>
-met gevaar en onverwachte situaties omgaan<br>
-➢ eerstehulpdiensten en/of bevoegde personen oproepen<br>
-➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
-➢ bij verstikking maatregelen nemen<br>
-➢ bij verbranding maatregelen nemen<br>
-➢ bij bloedingen maatregelen nemen<br>
-➢ kleine wonden verzorgen<br>
-➢ met medicatie omgaan<br>
-➢ gevaarlijke situaties inschatten<br>
-➢ bij onverwachte situaties initiatief nemen<br>
-<br>
-het leef- en woonklimaat verzorgen<br>
-➢ leefruimten gepast inrichten<br>
-➢ de kinderen bij de zorg voor leef- en woonklimaat betrekken<br>
-➢ de veiligheid waarborgen<br>
-➢ defecten en problemen in verband met de infrastructuur detecteren en signaleren<br>
-➢ een openings- en sluitingsprocedure van de opvangvoorziening toepassen<br>
-<br>
-administratieve taken uitvoeren<br>
-➢ registratiesystemen toepassen<br>
-➢ eenvoudige administratieve taken uitvoeren<br>
-<br>
-voor het eigen functioneren instaan<br>
-➢ informatiebronnen raadplegen<br>
-➢ vakliteratuur raadplegen<br>
-➢ het eigen functioneren bespreken<br>
-<br>
-Module Complexe zorg in residentiële situaties<br>
-<br>
-Het zwaartepunt ligt in deze module op de gespecialiseerde vaardigheden in complexe zorgsituaties in residentiële situaties. Volgende elementen komen daarbij aan bod: zorgvisie, teamwerk, leef- en woonklimaat, langdurig zieke en terminale zorgvragers.<br>
-<br>
-de organisatie van de voorzieningen voor ouderen in complexe zorgsituaties in de gezondheids- en welzijnszorg beschrijven<br>
-➢ het begrip complexe zorgsituatie uitleggen<br>
-➢ de plaats van de voorzieningen voor ouderen in complexe zorgsituaties in de gezondheids- en welzijnszorg beschrijven<br>
-➢ de taak en verantwoordelijkheid van een verzorgende beschrijven<br>
-➢ kenmerken van zorgvragers beschrijven<br>
-<br>
-binnen de zorgverlening functioneren<br>
-➢ het effect van complexe zorgsituaties op het zorgproces beschrijven<br>
-➢ het effect van veranderingen in de zorgvisie op het zorgproces beschrijven<br>
-➢ een zorgvisie toepassen<br>
-➢ zich ivm zijn werkzaamheden informeren<br>
-➢ na overleg een werkplan opstellen en uitvoeren<br>
-➢ een zorgplan mee uitvoeren<br>
-➢ prioriteiten stellen<br>
-➢ zelfstandig werken<br>
-➢ observeren en rapporteren<br>
-➢ in overeenstemming met het beroepsgeheim handelen<br>
-<br>
-in een multidisciplinair team werken<br>
-➢ de eigen plaats binnen een team bepalen<br>
-➢ overdracht geven<br>
-➢ in team aan een zorgplan werken<br>
-➢ met conflicten omgaan<br>
-➢ zich aan wisselende werkomstandigheden aanpassen<br>
-➢ onder supervisie werken<br>
-➢ het eigen functioneren bespreken<br>
-➢ collega's raadplegen<br>
-<br>
-de zorgvrager verzorgen<br>
-➢ de zorgvrager verzorgen<br>
-➢ preventief handelen<br>
-➢ prothesen afnemen, aandoen en onderhouden<br>
-➢ basisprincipes van comfortzorg verwoorden<br>
-➢ volgens de principes van comfortzorg handelen<br>
-➢ het uitvoeren van therapeutische oefeningen stimuleren<br>
-➢ hulpmiddelen gebruiken<br>
-➢ de preventie van en de voorgeschreven zorg bij smetten toepassen<br>
-➢ de preventie van en de voorgeschreven zorg bij drukletsels (1ste graad) toepassen<br>
-<br>
-het leef- en woonklimaat verzorgen<br>
-➢ voor de huishoudelijke activiteiten zorg dragen<br>
-➢ een huislijke sfeer scheppen<br>
-➢ voor het maaltijdgebeuren instaan<br>
-➢ de tijdsbesteding in functie van de noden van de zorgvrager helpen invullen<br>
-<br>
-met de zorgvrager omgaan<br>
-➢ zich in de belevingswereld van de zorgvrager inleven<br>
-➢ structuur in de dagindeling en tijdsbeleving aanbrengen<br>
-➢ de zorgvrager tot sociale contacten stimuleren<br>
-➢ de zorgvrager naar activiteiten begeleiden<br>
-➢ zich aan de communicatievormen van de zorgvrager aanpassen<br>
-➢ moeilijke gesprekken voeren<br>
-➢ met probleemgedrag omgaan<br>
-➢ de zorgvrager in veranderingsprocessen begeleiden<br>
-➢ de zorgvrager bij verwerkingsprocessen steunen<br>
-<br>
-met langdurig en/of terminaal zieke zorgvragers omgaan<br>
-➢ principes van palliatieve zorgen beschrijven<br>
-➢ verwerkingsprocessen van de zorgvrager en zijn sociaal netwerk beschrijven<br>
-➢ met langdurig en/of terminaal zieke zorgvragers omgaan<br>
-➢ met elementen van lijden en verwerkingsprocessen omgaan<br>
-➢ communicatie- en omgangsvormen aan de evolutie van de ziekte aanpassen<br>
-<br>
-met het sociale netwerk van de zorgvrager contact onderhouden<br>
-➢ de eigen plaats binnen het sociale netwerk bewaken<br>
-➢ met de belevingswereld van het sociale netwerk rekening houden<br>
-➢ voor de participatie van het sociale netwerk aandacht hebben<br>
-<br>
-Module Complexe zorg in thuissituaties<br>
-<br>
-In deze module worden de vaardigheden aangeleerd om als professionele zorgverlener de thuiszorg op zich te nemen. Daarbij staat zelfstandig de huishouding, voor en met de zorgvrager, organiseren en doen centraal. Er wordt ook aandacht besteed aan de verschillende actoren en het werken in specifieke situaties die zich kunnen voordoen in de thuiszorg<br>
-<br>
-de organisatie van de thuiszorg in de gezondheids- en welzijnszorg beschrijven<br>
-➢ de plaats van de thuiszorg in de gezondheids- en welzijnszorg beschrijven<br>
-➢ de organisatie van de thuiszorg beschrijven<br>
-➢ de taak, plaats en verantwoordelijkheid van de verzorgende beschrijven<br>
-➢ de werking van mantelzorg en zelfhulpgroepen, beschrijven<br>
-➢ complexe probleemsituaties beschrijven<br>
-<br>
-binnen de zorgverlening functioneren<br>
-➢ specifieke aspecten van een zorgvisie in de thuiszorg beschrijven<br>
-➢ het effect van veranderingen in de zorgvisie op het zorgproces beschrijven<br>
-➢ een zorgvisie toepassen<br>
-➢ zich ivm zijn werkzaamheden informeren<br>
-➢ na overleg een werkplan opstellen en uitvoeren<br>
-➢ een zorgplan mee uitvoeren<br>
-➢ prioriteiten stellen<br>
-➢ zelfstandig werken<br>
-➢ observeren en rapporteren<br>
-➢ in overeenstemming met het beroepsgeheim handelen<br>
-➢ bij noodsituaties gepast reageren<br>
-➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
-<br>
-in een multidisciplinair team werken<br>
-➢ de eigen plaats binnen een team bepalen<br>
-➢ de werking van een multidisciplinair team beschrijven<br>
-➢ overdracht geven<br>
-➢ in team aan een zorgplan werken<br>
-➢ met conflicten omgaan<br>
-➢ zich aan wisselende werkomstandigheden aanpassen<br>
-➢ onder supervisie werken<br>
-➢ het eigen functioneren bespreken<br>
-➢ collega's raadplegen<br>
-<br>
-de zorgvrager verzorgen<br>
-➢ de zorgvrager verzorgen<br>
-<br>
-voor de opvang van het zieke kind instaan<br>
-➢ voor de opvang van het zieke kind instaan<br>
-➢ de meest voorkomende symptomen benoemen<br>
-➢ in crisissituaties hulp vragen<br>
-➢ met het zieke kind omgaan<br>
-➢ met ouders informatie en ervaringen uitwisselen<br>
-<br>
-het leef- en woonklimaat verzorgen<br>
-➢ het huishouden zelfstandig doen<br>
-➢ de huishoudelijke activiteiten en zorgactiviteiten op elkaar afstemmen<br>
-➢ een huiselijke sfeer scheppen<br>
-➢ de tijdsbesteding in functie van de noden van de zorgvrager helpen invullen<br>
-➢ op vraag van de zorgvrager administratieve taken uitvoeren<br>
-<br>
-met de zorgvrager en zijn sociaal netwerk omgaan<br>
-➢ voor de participatie van het sociale netwerk aandacht hebben<br>
-➢ problematische gezinssituaties beschrijven<br>
-➢ zich in de belevingswereld van de zorgvrager en zijn sociaal netwerk inleven<br>
-➢ de eigen plaats binnen het sociale netwerk bewaken<br>
-➢ met principes van gezinsgericht werken rekening houden<br>
-<br>
-interculturele aspecten in het werk opnemen<br>
-➢ interculturele aspecten in het werk opnemen<br>
-➢ met verschillen in taal en gewoonten omgaan<br>
-➢ met verschillende vormen van wonen en leven rekening houden<br>
-<br>
-Module Initiatie zorg<br>
-<br>
-In deze module komt vooral de introductie tot het beroep van verzorgende aan bod. De klemtoon ligt op algemene principes van zorgvisie, de omgang met de zorgvrager en elementaire hulp bieden. Daarnaast maakt ook het systematisch werken deel uit van deze module. Deze module richt zich zowel naar de oudere zorgvrager als naar het jonge kind.<br>
-<br>
-een visie op zorg en gezondheid toepassen<br>
-➢ de taak, plaats en verantwoordelijkheid van de verzorgende binnen verschillende werkvelden situeren<br>
-➢ een zorgvisie toepassen<br>
-<br>
-methodisch werken<br>
-➢ planmatig werken<br>
-➢ ecologisch werken<br>
-➢ economisch werken<br>
-➢ ergonomisch werken<br>
-➢ hygiënisch werken<br>
-➢ veilig werken<br>
-➢ procedures opvolgen<br>
-<br>
-observeren en rapporteren<br>
-➢ observatieopdrachten uitvoeren<br>
-➢ uitgevoerde observaties rapporteren<br>
-<br>
-in team werken<br>
-➢ in een team werken<br>
-➢ met feedback omgaan<br>
-<br>
-met de zorgvrager en zijn netwerk omgaan<br>
-➢ met de instellingscultuur rekening houden<br>
-➢ omgangsvormen hanteren<br>
-➢ assertief reageren<br>
-➢ zich flexibel opstellen<br>
-➢ met anderen respectvol omgaan<br>
-➢ de eigen grenzen en die van anderen respecteren<br>
-➢ basisvaardigheden van multicultureel werken toepassen<br>
-➢ het beroepsgeheim respecteren<br>
-<br>
-andere zorgverstrekkers bij de zorgverlening helpen<br>
-➢ zorgvragen herkennen<br>
-➢ onder toezicht van andere zorgverstrekkers bij het verzorgen, eten, de toiletgang, het rusten en de slaap hulp bieden<br>
-➢ onder toezicht van andere zorgverstrekkers hulpmiddelen gebruiken<br>
-<br>
-de zorgvrager bij het bewegen helpen<br>
-➢ de zorgvrager bij het bewegen en verplaatsen ondersteunen<br>
-➢ de zorgvrager een goede houding geven<br>
-➢ hulpmiddelen gebruiken<br>
-<br>
-het woon- en leefklimaat verzorgen<br>
-➢ voor huishoudelijke activiteiten zorg dragen<br>
-➢ voor een huiselijke sfeer zorgen<br>
-➢ de leefruimte onderhouden<br>
-➢ maaltijden bereiden in functie van de zorgvrager<br>
-➢ levensmiddelen inmaken en bewaren in functie van gezinsverbruik<br>
-➢ textiel onderhouden<br>
-<br>
-elementaire hulp bieden en inroepen<br>
-➢ de eerstehulpdiensten en/of bevoegde personen oproepen<br>
-➢ basisprincipes van EHBO toepassen<br>
-➢ reanimatie toepassen zoals het van elke burger wordt verwacht<br>
-➢ bij levensbedreigende situaties hulp bieden<br>
-<br>
-Module Logistiek werk in ziekenhuizen en zorginstellingen<br>
-<br>
-In deze module worden alle vaardigheden aangebracht die men als logistiek assistent verbonden aan een ziekenhuis of zorginstelling nodig heeft. De aandacht gaat vooral naar ‘begeleidende taken’ zoals maaltijden bedelen, de kamer schoon en op orde houden, boodschappen doen voor de zorgvrager, elementaire ondersteuning bieden bij het bewegen van de zorgvrager. Naast de concrete taken gaat de aandacht ook naar omgangsvaardigheden en houdingen, nodig voor dit beroep.<br>
-<br>
-in een organisatie functioneren<br>
-➢ de organisatie van een ziekenhuis en een zorginstelling verduidelijken<br>
-➢ de werkorganisatie van een afdeling en een verpleegkundig departement verduidelijken<br>
-➢ de taak en plaats van de logistiek assistent in een ziekenhuis en een zorginstelling situeren<br>
-➢ specifieke doelgroepen herkennen<br>
-<br>
-methodisch werken<br>
-➢ het toegewezen takenpakket plannen<br>
-➢ het nodige materiaal verzamelen<br>
-➢ de eigen werkruimte organiseren<br>
-➢ volgens een voorgeschreven procedure de taken uitvoeren<br>
-➢ planmatig werken<br>
-➢ de werkplanning aanpassen<br>
-➢ het eigen werk controleren en bijsturen<br>
-➢ ecologisch werken<br>
-➢ economisch werken<br>
-➢ ergonomisch werken<br>
-➢ hygiënisch werken<br>
-➢ veilig werken<br>
-➢ procedures opvolgen<br>
-➢ met de dagindeling en activiteiten van anderen rekening houden<br>
-<br>
-waarnemen en rapporteren<br>
-➢ gericht waarnemen<br>
-➢ mondeling en schriftelijk rapporteren<br>
-<br>
-met anderen communiceren<br>
-➢ omgangsvormen hanteren<br>
-➢ met anderen en de werkomgeving respectvol omgaan<br>
-➢ zich flexibel opstellen<br>
-➢ assertief reageren<br>
-➢ de eigen grenzen en die van anderen respecteren<br>
-➢ het beroepsgeheim respecteren<br>
-➢ met de instellingscultuur rekening houden<br>
-➢ basisvaardigheden van multicultureel werken toepassen<br>
-<br>
-in team werken<br>
-➢ opdrachten van anderen aanvaarden<br>
-➢ in team overleggen<br>
-➢ met collega’s en zorgverstrekkers samenwerken<br>
-➢ met anderen samenwerken<br>
-<br>
-elementaire hulp bieden en inroepen<br>
-➢ de eerstehulpdiensten en/of bevoegde personen oproepen<br>
-➢ basisprincipes van EHBO toepassen<br>
-➢ reanimatie toepassen zoals het van elke burger wordt verwacht<br>
-➢ bij levensbedreigende situaties hulp bieden<br>
-<br>
-aan animatieactiviteiten meewerken<br>
-➢ animatieactiviteiten ondersteunen<br>
-➢ de zorgvrager begeleiden<br>
-<br>
-maaltijden voorbereiden, bedelen, toedienen en afruimen<br>
-➢ maaltijden op een afdeling verzorgen<br>
-➢ menukeuzes invullen<br>
-➢ maaltijden en dranken bedienen<br>
-➢ maaltijden voorbereiden<br>
-➢ tussendoortjes bereiden<br>
-➢ dieetmaaltijden herkennen<br>
-➢ de vaat doen<br>
-➢ tafels dekken en afruimen<br>
-➢ de keuken in orde houden<br>
-➢ de keukenvoorraad bijhouden<br>
-<br>
-onderhoudstaken uitvoeren<br>
-➢ onderhoudstaken verbonden aan een afdeling uitvoeren<br>
-➢ de lokalen onderhouden<br>
-➢ het interieur van kamers en leefruimten verzorgen<br>
-➢ schoonmaakmaterialen en toestellen gebruiken<br>
-➢ schoonmaakmaterialen en toestellen onderhouden<br>
-➢ schoonmaaktechnieken voor het onderhoud van verschillende ruimten toepassen<br>
-➢ verzorgingsmateriaal reinigen en ontsmetten<br>
-➢ patiëntenkamers desinfecteren<br>
-➢ bedden opmaken<br>
-➢ afval sorteren en verwijderen<br>
-➢ klein onderhoud aan materialen uitvoeren<br>
-<br>
-de linnenkamer beheren<br>
-➢ de linnenwagen en verzorgingswagen aanvullen<br>
-➢ textielgoed verzamelen<br>
-➢ textielgoed sorteren<br>
-➢ textielgoed verdelen<br>
-<br>
-voor de persoonlijke bezittingen van de zorgvrager zorg dragen<br>
-➢ kleine herstellingen uitvoeren<br>
-➢ de bezittingen van de zorgvrager verzorgen<br>
-➢ voor of met de zorgvrager boodschappen doen<br>
-<br>
-administratieve taken uitvoeren<br>
-➢ gegevens invoeren<br>
-➢ telefonische oproepen doorverbinden<br>
-➢ de post, documenten wegbrengen<br>
-➢ verzorgingsmateriaal, farmaceutische producten, stalen en apparaten transporteren<br>
-➢ de voorraad formulieren bijhouden<br>
-➢ klasseringsprincipes toepassen<br>
-<br>
-bij tillen, verplaatsen en vervoeren hulp bieden<br>
-➢ samen met de andere zorgverstrekkers de zorgvrager tillen en verplaatsen<br>
-➢ de zorgvrager die geen bestendig toezicht nodig heeft, met behulp van rolstoel, ziekenhuisbed vervoeren<br>
-➢ de zorgvrager bij het bewegen en verplaatsen ondersteunen<br>
-<br>
-Module Zorg in de kinderopvang<br>
-<br>
-In deze module worden de elementaire taken van de verzorgende bij kinderen aangeleerd.<br>
-De aandacht gaat vooral naar de dagelijkse verzorging en dagelijkse omgang met kinderen, de eigen beroepsrelaties en houdingen. Ook het methodisch werken en omgangsvaardigheden maken deel uit van deze module. Hierbij wordt ook aandacht besteed aan de integratie in het werkveld.<br>
-<br>
-in een organisatie functioneren<br>
-➢ de verschillende opvangvormen voor kinderen situeren<br>
-➢ de functie van kinderopvang in de samenleving verduidelijken<br>
-➢ de taak en verantwoordelijkheid van de begeleider binnen de voorziening situeren<br>
-<br>
-een visie op kinderopvang toepassen<br>
-➢ pedagogische verantwoord handelen<br>
-<br>
-methodisch werken<br>
-➢ een zorgplan uitvoeren<br>
-➢ de verschillende werkzaamheden op elkaar afstemmen<br>
-➢ ecologisch werken<br>
-➢ economisch werken<br>
-➢ ergonomisch werken<br>
-➢ hygiënisch werken<br>
-➢ veilig werken<br>
-➢ het beroepsgeheim respecteren<br>
-<br>
-observeren en rapporteren<br>
-➢ observatieopdrachten uitvoeren<br>
-➢ uitgevoerde observaties rapporteren<br>
-<br>
-in team werken<br>
-➢ met de verantwoordelijke en collega’s overleggen<br>
-➢ in team aan een zorgplan werken<br>
-<br>
-voor de dagelijkse verzorging van het kind instaan<br>
-➢ het kind bij de hygiënische zorgen begeleiden<br>
-➢ hygiënische zorgen uitvoeren<br>
-➢ zelfredzaamheid stimuleren<br>
-➢ bij het innemen van medicatie helpen<br>
-➢ kinder-, baby- en dieetvoeding bereiden<br>
-➢ maaltijden aangepast aan de noden van het kind verzorgen<br>
-➢ de veiligheid en het comfort van het kind waarborgen<br>
-➢ reanimatie toepassen zoals het van elke burger verwacht wordt<br>
-➢ parameters controleren<br>
-➢ eerste signalen van ziek zijn herkennen<br>
-➢ over slapende en rustende kinderen toezicht houden<br>
-➢ til- en verplaatsingstechnieken toepassen<br>
-➢ hulpmiddelen gebruiken<br>
-<br>
-met het kind in dagelijkse situaties omgaan<br>
-➢ met de algemene ontwikkeling van het kind rekening houden<br>
-➢ de meest voorkomende problemen en gedragingen bij de dagelijkse omgang observeren<br>
-➢ de structuur in de dagindeling en de tijdsbeleving helpen aanhouden<br>
-➢ sensitief en responsief met kinderen omgaan<br>
-<br>
-activiteiten begeleiden<br>
-➢ spelmaterialen gebruiken<br>
-➢ spelactiviteiten uitvoeren<br>
-<br>
-met de ouders en het sociaal netwerk omgaan<br>
-➢ met ouders en sociaal netwerk contact nemen<br>
-➢ met een andere cultuur en/of leefomgeving rekening houden<br>
-<br>
-lokalen, speel- en werkmateriaal onderhouden<br>
-➢ speel- en werkmateriaal ontsmetten<br>
-➢ lokalen en ruimtes opruimen en onderhouden<br>
-➢ huishoudelijke activiteiten uitvoeren<br>
-<br>
-voor het eigen functioneren aandacht hebben<br>
-➢ aan de hand van een stramien op eigen functioneren reflecteren<br>
-<br>
-Module Zorg in residentiële en thuissituaties<br>
-<br>
-In deze module worden de taken van de verzorgende bij de zorgvrager in de verschillende leeftijdsfases aangeleerd.<br>
-De aandacht gaat vooral naar het zelfstandig uitvoeren van de taken van het beroep in welzijnssituaties(niet complexe zorgsituaties) in residentiële en semi-residentiële settingen (PVT, RVT, rusthuizen, diensten voor beschut wonen voor zorgvragers met een psychiatrische problematiek en thuiszorgvoorzieningen) en in de gezinszorg.<br>
-<br>
-in een organisatie functioneren<br>
-➢ de plaats van de verschillende residentiële en thuiszorgvoorzieningen in de gezondheids- en welzijnszorg situeren<br>
-➢ de organisatie en functie van de voorzieningen verduidelijken<br>
-➢ de taak en verantwoordelijkheid van de verzorgende beschrijven<br>
-➢ met informatie in verband met de voorziening omgaan<br>
-➢ termen in verband met de voorziening gebruiken<br>
-➢ de functie van het personeel verduidelijken<br>
-➢ kenmerken van specifieke doelgroepen benoemen<br>
-<br>
-binnen de zorgverlening functioneren<br>
-➢ een zorgvisie toepassen<br>
-➢ kwaliteitsvol werken<br>
-➢ een zorgplan mee uitvoeren<br>
-➢ zich in verband met zijn werkzaamheden informeren<br>
-➢ de verschillende werkzaamheden op elkaar afstemmen<br>
-➢ in overeenstemming met het beroepsgeheim handelen<br>
-➢ zich aan wisselende werkomstandigheden aanpassen<br>
-➢ met feedback omgaan<br>
-➢ administratie met betrekking tot de organisatie verrichten<br>
-➢ in het evalueren en verbeteren van de dienstverlening participeren<br>
-<br>
-observeren en rapporteren<br>
-➢ gericht observeren<br>
-➢ hulpvragen benoemen<br>
-➢ problemen en veranderingen in de toestand van de zorgvrager aan bevoegde personen signaleren<br>
-➢ mondeling en schriftelijk rapporteren<br>
-<br>
-in een team werken<br>
-➢ onder supervisie werken<br>
-➢ in team aan een zorgplan werken<br>
-➢ zich aan wisselende werkomstandigheden aanpassen<br>
-➢ het eigen functioneren bespreken<br>
-➢ op een professionele wijze met collega’s, verantwoordelijken en andere hulpverleners samenwerken<br>
-➢ met de verantwoordelijke, collega’s en/of de zorgvrager overleggen<br>
-<br>
-een beroepsrelatie met de zorgvrager en zijn sociaal netwerk aangaan, onderhouden en beëindigen<br>
-➢ respect tonen<br>
-➢ initiatief nemen<br>
-➢ zich assertief gedragen<br>
-➢ contacten aangaan, onderhouden en beëindigen<br>
-➢ discreet zijn<br>
-➢ empathisch communiceren<br>
-➢ met conflicten en probleemgedrag omgaan<br>
-➢ inspraak geven<br>
-➢ met diversiteit omgaan<br>
-➢ met regels en afspraken omgaan<br>
-➢ werk en privé gescheiden houden<br>
-➢ met de mantelzorg samenwerken<br>
-➢ met de belevingswereld van het sociale netwerk rekening houden<br>
-➢ de eigen plaats binnen het sociale netwerk bewaken<br>
-➢ de eigen communicatievaardigheden en omgangsvaardigheden aan de zorgvrager en zijn sociaal netwerk aanpassen<br>
-➢ op professionele wijze informatie verstrekken<br>
-➢ een professionele vertrouwensrelatie opbouwen<br>
-<br>
-voor de eigen persoonlijkheid in zijn werkzaamheden aandacht hebben<br>
-➢ voor eigen waarden en normen aandacht hebben<br>
-➢ eigen emoties en gevoelens herkennen<br>
-➢ eigen handelen en houdingen evalueren<br>
-➢ met ongewenste intimiteiten omgaan<br>
-➢ zich over zijn rechten en plichten informeren<br>
-➢ aan de hand van een stramien op eigen functioneren reflecteren<br>
-➢ eigen deskundigheid opbouwen<br>
-<br>
-de zorgvrager begeleiden<br>
-➢ met elementen van de belevingswereld van de zorgvrager omgaan<br>
-➢ het belang van aandachtspersonen beschrijven<br>
-➢ de structuur in de dagindeling en de tijdsbeleving helpen aanhouden<br>
-➢ het dagprogramma helpen invullen en ondersteunen<br>
-➢ tijdsbesteding in functie van noden stimuleren<br>
-➢ welzijns- en gezondheidsbevorderend werken<br>
-➢ bij verplaatsingen de zorgvrager begeleiden<br>
-<br>
-animatieactiviteiten begeleiden<br>
-➢ een animatieve grondhouding aannemen<br>
-➢ groepsactiviteiten helpen begeleiden<br>
-➢ tot deelname aan animatieactiviteiten stimuleren<br>
-<br>
-voor de dagelijkse verzorging bij de zorgvrager instaan<br>
-➢ de zorgvrager bij hygiënische zorgen en uiterlijke verzorging hulp bieden<br>
-➢ hygiënische zorgen uitvoeren<br>
-➢ verzorgingsmaterialen gebruiken<br>
-➢ de zorgvrager bij aan- en uitkleden helpen<br>
-➢ zelfredzaamheid en zelfstandigheid stimuleren<br>
-➢ de veiligheid en het comfort, autonomie en de fysieke integriteit van de zorgvrager waarborgen<br>
-➢ reanimatie toepassen zoals het van elke burger wordt verwacht<br>
-➢ hulpmiddelen hanteren<br>
-➢ til- en verplaatsingstechnieken toepassen<br>
-➢ een evenwichtig waak- en slaapritme bevorderen<br>
-➢ dagritme bevorderen en ondersteunen<br>
-➢ het slaapcomfort van de zorgvrager bevorderen<br>
-➢ voor voldoende voedsel- en vochtinname aandacht hebben<br>
-<br>
-voor de specifieke verzorging instaan<br>
-➢ prothesen, steunkousen, warmwaterkruiken en ijszakken hanteren<br>
-➢ urinecollector ledigen<br>
-➢ voedingsproblemen en vochtbalans signaleren<br>
-➢ bij verslikken gepast reageren<br>
-➢ preventie van kleine huidletsels en drukletsels toepassen<br>
-➢ bij een genezen stoma een stomazakje verwijderen en aanbrengen<br>
-➢ opgelegde maatregelen ter preventie van infecties toepassen<br>
-➢ bij orale medicatie-inname toezien en helpen<br>
-➢ niet-steriele opname van urine en faeces uitvoeren<br>
-➢ bij de zindelijkheidstraining en mictietraining helpen<br>
-<br>
-voor huishoudelijke activiteiten instaan<br>
-➢ in samenspraak met de zorgvrager een evenwichtig weekmenu opstellen<br>
-➢ maaltijden bereiden in functie van de zorgvrager<br>
-➢ naar zorg in de kinderopvang<br>
-➢ de levensmiddelenvoorraad beheren<br>
-➢ boodschappen doen met en voor de zorgvrager<br>
-<br>
-bij de administratie van de zorgvrager helpen<br>
-➢ courante formulieren voor de zorgvrager invullen
+...
 
 ### BIJLAGE III/2
 
@@ -1935,7 +346,7 @@ bij de administratie van de zorgvrager helpen<br>
 
 ### BIJLAGE V
 
-Bijlage V. Opleidingenstructuur en invulling van opleidingen deeltijds beroepssecundair onderwijs voor wat betreft het schooljaar 2024-2025 (<strong>→ link nog toevoegen</strong>)
+...
 
 ### BIJLAGE V/1
 
@@ -1975,7 +386,7 @@ Bijlage V. Opleidingenstructuur en invulling van opleidingen deeltijds beroepsse
 
 ### BIJLAGE VI
 
-Bijlage VI. Invulling van opleidingen leertijd voor wat betreft het schooljaar 2024-2025 (→ <strong>link nog toevoegen</strong>)
+...
 
 ### BIJLAGE VI/1
 
@@ -1987,59 +398,55 @@ Bijlage VI. Invulling van opleidingen leertijd voor wat betreft het schooljaar 2
 
 ### BIJLAGE VII
 
-Attest van verworven competenties (deeltijds beroepssecundair   onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=23">Bijlage   VII</A><BR><BR>* Bij BVR van 10 juli 2015, B.S. 12 augustus 2015, wordt bijlage   VII met ingang van 1 september 2015 als volgt gewijzigd:<BR>"aan de rubriek   "Aandacht"&nbsp; wordt de volgende bepaling toegevoegd :<BR>"als het certificaat   wordt uitgereikt in een opleiding die gebaseerd is op een beroepskwalificatie,   wordt onder het opschrift "Certificaat" de volgende bepaling toegevoegd en   wordt, naargelang van het geval, 2, 3 dan wel 4 als niveau vermeld :<BR>Bewijs   van beroepskwalificatie niveau ... van de Vlaamse kwalificatiestructuur en   niveau ... van het Europese kwalificatiekader" "<BR><BR>* Bij BVR van 10 juli   2015, B.S. 28 augustus 2015, wordt aan bijlage VII een rubriek toegevoegd die   luidt als volgt:<BR>"Aandacht: als het certificaat wordt uitgereikt in de   opleiding Zorgkundige, dan wordt de zin "Hij/zij bevestigt dat al de wettelijke,   decretale en reglementaire voorschriften werden nageleefd" vervangen door de zin   "Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire   voorschriften werden nageleefd met inbegrip van het KB nr. 78 van 10 november   1967 betreffende de uitoefening van de gezondheidszorgberoepen.".
+...
 
 ### BIJLAGE VIII
 
-Deelcertificaat (deeltijds beroepssecundair onderwijs)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=25" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE IX
 
-Certificaat (deeltijds beroepssecundair onderwijs)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=27" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE X
 
-Getuigschrift van de tweede graad van het secundair onderwijs (deeltijds beroepssecundair onderwijs)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=29" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE XI
 
-Studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs (deeltijds beroepssecundair onderwijs)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=31" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE XII
 
-Diploma van secundair onderwijs (derde graad) (deeltijds beroepssecundair   onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=33">Bijlage   XII</A><BR><BR>*Bij BVR van 10 juli 2015, B.S. 12 augustus 2015, wordt   bijlage&nbsp;XII met ingang van 1 september 2015 als volgt gewijzigd:<BR>"aan de   rubriek "Aandacht"&nbsp; wordt de volgende bepaling toegevoegd :<BR>"als het   certificaat wordt uitgereikt in een opleiding die gebaseerd is op een   beroepskwalificatie, wordt onder het opschrift "Certificaat" de volgende   bepaling toegevoegd en wordt, naargelang van het geval, 2, 3 dan wel 4 als   niveau vermeld :<BR>Bewijs van beroepskwalificatie niveau ... van de Vlaamse   kwalificatiestructuur en niveau ... van het Europese kwalificatiekader"   "<BR><BR>*Bij BVR van 10 juli 2015, B.S. 28 augustus 2015, wordt aan bijlage XII   met ingang van 1 september volgende rubriek toegevoegd:<BR>"Aandacht: als het   certificaat wordt uitgereikt in de opleiding Zorgkundige dan wordt de zin "Zij   bevestigen dat al de wettelijke, decretale en reglementaire voorschriften werden   nageleefd" vervangen door de zin "Zij bevestigen dat al de wettelijke, decretale   en reglementaire voorschriften werden nageleefd met inbegrip van het KB nr. 78   van 10 november 1967 betreffende de uitoefening van de   gezondheidszorgberoepen.".
+...
 
 ### BIJLAGE XIII
 
-Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssecundair onderwijs)<BR><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=35">Bijlage   XIII</A><BR><BR>*Bij BVR van 10 juli 2015, B.S. 28 augustus 2015, wordt aan   bijlage XIII met ingang van 1 september volgende rubriek   toegevoegd:<BR>"Aandacht: als het&nbsp;getuigschrift leertijd&nbsp;wordt   uitgereikt in de opleiding Zorgkundige dan wordt de zin "Zij bevestigen dat al   de wettelijke, decretale en reglementaire voorschriften werden nageleefd"   vervangen door de zin "Zij bevestigen dat al de wettelijke, decretale en   reglementaire voorschriften werden nageleefd met inbegrip van het KB nr. 78 van   10 november 1967 betreffende de uitoefening van de   gezondheidszorgberoepen.".
+...
 
 ### BIJLAGE XIV
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/19_1.pdf#page=207">Combinatie van certificaten die leiden tot een getuigschrift leertijd</a></p>
+<p>...</p>
 
 ### BIJLAGE XV
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=187">Bijlage XV Model</a><br>
-&nbsp;
+...
 
 ### BIJLAGE XVI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2021/02/19_1.pdf#page=208">Model van getuigschrift leertijd</a>
+...
 
 ### BIJLAGE XVII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=191">Bijlage XVII Model</a><br>
-&nbsp;
+...
 
 ### BIJLAGE XVIII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=193">Bijlage XVIII Model</a><br>
-<br>
-&nbsp;
+...
 
 ### BIJLAGE XIX
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=195">Bijlage XIX Model</a>
+...
 
 ### BIJLAGE XX
 
