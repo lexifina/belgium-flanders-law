@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040914,
+  "title": "Besluit van de Vlaamse Regering van 2025-05-23 tot vastlegging van de standaardtrajecten duaal voor het buitengewoon secundair onderwijs van opleidingsvorm 3, wat de kwalificatiefase en integratiefase betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040914/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "019516c0f44b9e4962feb3dfdaa5f2cc3a88a4bd5b70656d007f4112bc11d2fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040914&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-05-23",
+  "gazette": "2025-06-20",
+  "numac": 2025004414,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
