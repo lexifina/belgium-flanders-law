@@ -2,16 +2,16 @@
   "codex_id": 1037954,
   "title": "Decreet van 2022-12-23 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037954/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "b066ae5e1f0ba458fd7a5542c5442005237fb3fae55080f26c6cd53bc06444b6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037954/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "babc8a39813d736a0c074b22828ea5aedf4f41fc68fc85ca04d9a0eef593b652",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037954&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2025-09-01",
   "made": "2022-12-23",
   "gazette": "2023-01-31",
   "numac": 2023040163,
   "document_start": "2023-09-01",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2025-09-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }

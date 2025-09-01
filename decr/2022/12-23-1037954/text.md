@@ -12,7 +12,7 @@ Dit decreet regelt een gewestaangelegenheid.
 
 In dit decreet wordt verstaan onder:<br>
 1° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
-2° leerling: de leerling in het secundair onderwijs die een opleiding volgt die naar een onderwijskwalificatie van hoogstens niveau 4 van de Vlaamse kwalificatiestructuur leidt;<br>
+2° leerling: de leerling in het secundair onderwijs die een opleiding volgt van hoogstens niveau 4 van de Vlaamse kwalificatiestructuur;<br>
 3° lerende: de leerling, de cursist in het volwassenenonderwijs en de student in het hoger onderwijs;<br>
 4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een lerende opleidt;<br>
 5° onderwijskwalificatie: de onderwijskwalificatie, vermeld in artikel 2, 17°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br>
