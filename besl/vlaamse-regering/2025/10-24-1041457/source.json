@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041457,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-24 tot erkenning van het graduaat in de laboratoriumassistentie als nieuwe opleiding van de Artesis Plantijn Hogeschool Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041457/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "c811cd4f8020816821eff9121696aafc849e6fb1b4fc7691a615fc7d02be8679",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041457&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-10-24",
+  "gazette": "2025-11-17",
+  "numac": 2025008503,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
