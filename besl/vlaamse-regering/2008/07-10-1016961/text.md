@@ -129,8 +129,9 @@ Bijlage XIV<br>
 
 Bijlage XXI. Afwijking van het minimale aantal lestijden in de opleidingen van de studiegebieden algemene personenzorg, assistentie vrije zorgberoepen en specifieke personenzorg<br>
 <br>
-<strong>1. Overzicht maximale afwijking per module in de opleidingen van het studiegebied algemene personenzorg</strong>
-<table cellspacing="0" style="border-collapse:collapse">
+<strong>1. Overzicht maximale afwijking per module in de opleidingen van het studiegebied algemene personenzorg</strong><br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:217px">&nbsp;</td>
@@ -657,9 +658,10 @@ Bijlage XXI. Afwijking van het minimale aantal lestijden in de opleidingen van d
 	</tbody>
 </table>
 <br>
-<strong>2. Overzicht maximale afwijking per module in de opleiding van het studiegebied assistentie vrije zorgberoepen</strong>
-
-<table cellspacing="0" style="border-collapse:collapse">
+<br>
+<strong>2. Overzicht maximale afwijking per module in de opleiding van het studiegebied assistentie vrije zorgberoepen</strong><br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:217px">&nbsp;</td>
@@ -694,9 +696,10 @@ Bijlage XXI. Afwijking van het minimale aantal lestijden in de opleidingen van d
 	</tbody>
 </table>
 <br>
-<strong>3. Overzicht maximale afwijking per module in de opleidingen van het studiegebied specifieke personenzorg </strong>
-
-<table cellspacing="0" style="border-collapse:collapse">
+<br>
+<strong>3. Overzicht maximale afwijking per module in de opleidingen van het studiegebied specifieke personenzorg</strong><br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:217px">&nbsp;</td>
@@ -708,13 +711,13 @@ Bijlage XXI. Afwijking van het minimale aantal lestijden in de opleidingen van d
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:217px"><strong>Opleiding Kinderbegeleider Baby’s en Peuters</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:135px"><strong>720</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><strong>668</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><strong>1030</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><strong>1050</strong></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:217px">EHBO en levensreddend handelen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:135px">20</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px">8</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px">-</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px">40</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:217px">De kinderopvang en ik</td>
@@ -804,13 +807,13 @@ Bijlage XXI. Afwijking van het minimale aantal lestijden in de opleidingen van d
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:217px"><strong>Opleiding Kinderbegeleider Schoolgaande Kinderen</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:135px"><strong>680</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><strong>628</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><strong>970</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><strong>990</strong></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:217px">EHBO en levensreddend handelen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:135px">20</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px">8</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px">-</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px">40</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:217px">De kinderopvang en ik</td>
@@ -1127,9 +1130,10 @@ Bijlage XXI. Afwijking van het minimale aantal lestijden in de opleidingen van d
 	</tbody>
 </table>
 <br>
-<strong>4. Overzicht maximale afwijking van opleidingsprofielen in overgangsperiode</strong>
+<br>
+<strong>4.&nbsp;Overzicht maximale afwijking van opleidingsprofielen in overgangsperiode</strong>
 
-<table cellspacing="0" style="border-collapse:collapse; width:728px">
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
 	<tbody>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:208px">&nbsp;</td>
