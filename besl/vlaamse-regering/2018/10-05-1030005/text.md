@@ -181,6 +181,26 @@ De volgende onderwijstypes voldoen aan de voorwaarden, vermeld in artikel 16:<br
 1° het onderwijs dat gevolgd wordt in een instelling voor buitengewoon onderwijs die georganiseerd, erkend of gesubsidieerd wordt door de Vlaamse Gemeenschap, de Franse Gemeenschap of de Duitstalige Gemeenschap conform artikel 24 van de Grondwet;<br>
 2° het onderwijs dat buiten België gevolgd wordt, waarvan het programma erkend is door de buitenlandse overheid of overeenstemt met een programma dat erkend is door die overheid.
 
+### ART 19/1.
+
+§1. In afwijking van artikel 16 is het kind dat ingeschreven is in een opleiding Basisverpleegkunde van het hoger beroepsonderwijs met in totaal minstens 27 studiepunten per schooljaar, rechtgevend op gezinsbijslagen.&nbsp;<br>
+<br>
+§2. Het kind, vermeld in paragraaf 1, geeft recht op gezinsbijslagen voor het volledige schooljaar als het een totaal van minstens 27 studiepunten heeft door:<br>
+1°&nbsp;&nbsp; &nbsp;een inschrijving uiterlijk op 30 november van het schooljaar in kwestie;<br>
+2°&nbsp;&nbsp; &nbsp;verschillende inschrijvingen waarvan de eerste uiterlijk op 30 november van het schooljaar in kwestie.<br>
+<br>
+Als het kind in totaal minstens 27 studiepunten heeft als gevolg van een of meer inschrijvingen na 30 november van het schooljaar in kwestie, is er recht op gezinsbijslagen vanaf de datum van de eerste of enige inschrijving.<br>
+<br>
+Het aantal studiepunten wordt in aanmerking genomen, ongeacht:<br>
+1°&nbsp;&nbsp; &nbsp;de spreiding ervan per semester;<br>
+2°&nbsp;&nbsp; &nbsp;de inschrijving voor een of meer opleidingen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de inschrijving in een of meer instellingen die de opleiding Basisverpleegkunde van het hoger beroepsonderwijs inrichten.&nbsp;<br>
+<br>
+§3. Als het kind voor minder dan 27 studiepunten is ingeschreven, maar het om een diplomajaar basisverpleegkunde gaat, blijft het recht op gezinsbijslagen behouden gedurende één jaar.<br>
+<br>
+In het eerste lid wordt onder diplomajaar basisverpleegkunde verstaan: het schooljaar waarin het kind voor de opleiding Basisverpleegkunde van het hoger beroepsonderwijs waarvoor het is ingeschreven, het diploma kan behalen.<br>
+&nbsp;
+
 ### ART 20.
 
 § 1. De gezinsbijslagen voor het kind dat afwezig is wegens ziekte, blijven maximaal behouden tot het einde van de zomervakantie van het schooljaar dat volgt op het schooljaar waarin het kind ziek geworden is.<br>
@@ -314,9 +334,13 @@ In het eerste en tweede lid wordt verstaan onder vakantie in het buitenland: de 
 
 ### ART 32.
 
-Een kind dat ingeschreven is voor een of meer vormingen van het hoger onderwijs met in totaal minder dan 27 studiepunten, en dat daarnaast een opleiding in het niet-hoger onderwijs volgt, heeft recht op gezinsbijslagen als aan de voorwaarde, vermeld in artikel 16, tweede lid, is voldaan.<br>
+Een kind dat ingeschreven is voor een of meer vormingen van het hoger onderwijs&nbsp;of een opleiding Basisverpleegkunde van het hoger beroepsonderwijs met in totaal minder dan 27 studiepunten, en dat daarnaast een opleiding in het niet-hoger onderwijs volgt, heeft recht op gezinsbijslagen als aan de voorwaarde, vermeld in artikel 16, tweede lid, is voldaan.<br>
 <br>
-Voor de toepassing van dit artikel worden de studiepunten die toegekend zijn in het kader van het hoger onderwijs, omgezet in lesuren waarbij mag worden aangenomen dat één studiepunt overeenstemt met dertig minuten les.
+Voor de toepassing van dit artikel worden de studiepunten die toegekend zijn in het kader van het hoger onderwijs en de opleiding Basisverpleegkunde van het hoger beroepsonderwijs, omgezet in lesuren waarbij mag worden aangenomen dat één studiepunt overeenstemt met dertig minuten les.
+
+### ART 32/1.
+
+Een kind dat ingeschreven is voor een of meer vormingen van het hoger onderwijs met in totaal minder dan 27 studiepunten, en dat daarnaast ingeschreven is in een opleiding Basisverpleegkunde van het hoger beroepsonderwijs, heeft recht op gezinsbijslagen als het in totaal voor minstens 27 studiepunten ingeschreven is.
 
 ### ART 33.
 
@@ -389,13 +413,13 @@ De gezinsbijslagen worden toegekend aan de schoolverlater voor een periode van i
 De termijn van twaalf maanden, vermeld in het eerste lid, start op de volgende tijdstippen:<br>
 1° de maand nadat het rechtgevende kind 18 jaar is geworden conform artikel 8, § 2, eerste lid, 1°, van het voormelde decreet, als het kind niet aansluitend een recht op gezinsbijslagen kan openen op basis van artikel 8, § 2, eerste lid, 3°, van het voormelde decreet of op basis van de algemene vrijstellingen verleend conform artikel 8, § 3, tweede lid, van het voormelde decreet;<br>
 2° de maand nadat het rechtgevende kind 21 jaar is geworden conform artikel 8, § 2, eerste lid, 2°, van het voormelde decreet of na het einde van de erkenning, als het kind met een specifieke ondersteuningsbehoefte, tussen de leeftijd van 18 en 21 jaar conform artikel 8, § 2, eerste lid, 2°, van het voormelde decreet, niet aansluitend een recht op gezinsbijslagen kan openen op basis van artikel 8, § 2, eerste lid, 3°, van het voormelde decreet of op basis van de algemene vrijstellingen verleend conform artikel 8, § 3, tweede lid, van het voormelde decreet;<br>
-3° de maand na de datum waarop een studie, leertijd of vorming voortijdig is beëindigd op basis van artikel 16 en 24 van dit besluit;<br>
-4° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarden over niet-hoger onderwijs op basis van artikel 16 van dit besluit;<br>
+3° de maand na de datum waarop een studie, leertijd of vorming voortijdig is beëindigd op basis van artikel 16, 19/1 en 24 van dit besluit;<br>
+4° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarden over niet-hoger onderwijs op basis van artikel 16 en 19/1 van dit besluit;<br>
 5° de maand na de einddatum van de vakanties op basis van artikel 22 en 28 van dit besluit;<br>
 6° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarden voor hoger onderwijs op basis van artikel 24 van dit besluit;<br>
 7° de maand na het bereiken van de zes maanden afwezigheid wegens ziekte als die afwezigheid niet gewettigd wordt na onderzoek door de bevoegde dienst conform artikel 20, § 1, artikel 26, § 1, en artikel 35, § 1, van dit besluit;<br>
 8° de maand nadat meer dan vier maanden is verstreken tussen twee school- of academiejaren in België of een andere EER-lidstaat of Zwitserland op basis van artikel 31 van dit besluit;<br>
-9° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarde, vermeld in artikel 16, tweede lid, lid, van dit besluit, als het kind is ingeschreven voor een of meer vormingen van het hoger onderwijs met in totaal minder dan 27 studiepunten en daarnaast een opleiding in het niet-hoger onderwijs volgt, op basis van artikel 32 van dit besluit;<br>
+9° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarde, vermeld in artikel 16, tweede lid, van dit besluit, als het kind is ingeschreven voor een of meer vormingen van het hoger onderwijs met in totaal minder dan 27 studiepunten en daarnaast een opleiding in het niet-hoger onderwijs volgt, op basis van artikel 32 van dit besluit of niet meer voldoet aan de voorwaarden, vermeld in artikel 32/1 van dit besluit;<br>
 10° de maand waarin het rechtgevende kind niet meer uitsluitend lessen volgt in het hoger onderwijs waarvan de modaliteiten niet uitgedrukt worden in studiepunten, of de maand waarin het rechtgevende kind niet meer ingeschreven is voor een bijkomend jaar voor de geïntegreerde proef in het onderwijs voor sociale promotie, op basis van artikel 33 van dit besluit;<br>
 11° de maand na het einde van de stageperiode die vereist is om in een openbaar ambt te worden benoemd of de maand na de onderbreking van die stage, op basis van artikel 38 van dit besluit;<br>
 12° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarden voor de algemene vrijstellingen voor kinderen buiten België op basis van artikel 47, 48 en 49 van dit besluit.<br>
@@ -495,7 +519,8 @@ De ouder, vermeld in het eerste lid, mag alleen beschouwd worden als begunstigde
 8° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en naar een school gaan die buiten België ligt, op voorwaarde dat ze elke dag terugkeren naar hun ouders of naar hun opvoeders, die hun ouders vervangen;<br>
 9° kinderen die een studietoelage ontvangen om lessen buiten België te volgen. Een binnenlandse of buitenlandse instelling kan die studietoelage toekennen. Het Departement Onderwijs en Vorming, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, deelt de toekenning van die studietoelage door een instelling binnen het Nederlandse taalgebied mee. Als een instelling van een andere deelentiteit of een buitenlandse instelling die studietoelage toekent, wordt dat bewezen met een officieel attest;<br>
 10° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en het voorwerp uitmaken van een ontvoering conform de voorwaarden, vermeld in hoofdstuk 3 van dit besluit, en buiten België verblijven;<br>
-11° kinderen die buiten België geadopteerd worden en binnen twee maanden na de adoptie hun woonplaats hebben in het Nederlandse taalgebied.<br>
+11° kinderen die buiten België geadopteerd worden en binnen twee maanden na de adoptie hun woonplaats hebben in het Nederlandse taalgebied;<br>
+12° kinderen die niet-hoger onderwijs volgen buiten België via een Belgisch erkend uitwisselingsprogramma, op voorwaarde dat de inschrijving in de Belgische onderwijsinstelling blijft behouden en dat ze een attest van het Belgisch erkend uitwisselingsprogramma kunnen voorleggen.<br>
 <br>
 § 2. De algemene vrijstellingen, vermeld in paragraaf 1, zijn alleen geldig als de volgende voorwaarden cumulatief vervuld zijn:<br>
 1° de kinderen hebben geen recht op gezinsbijslagen krachtens de regelgeving van een andere deelentiteit, krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling. De minister kan bepalen wat onder recht op gezinsbijslagen krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling wordt verstaan;<br>
