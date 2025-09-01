@@ -2,16 +2,16 @@
   "codex_id": 1009198,
   "title": "Besluit van de Vlaamse Regering van 2002-02-22 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009198/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "09e93d8d95d95ed032e6aee5716a730fbbd21bb04562786a8c2faead3b7c72f1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009198/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "d7b8959cd4d9d5ba6d23eb005c57b02f4bb345a1c8be5f07cd6e97c16883835b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009198&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2025-09-01",
   "made": "2002-02-22",
   "gazette": "2002-06-12",
   "numac": 2002035726,
   "document_start": null,
   "document_end": "2025-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2025-09-01",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }
