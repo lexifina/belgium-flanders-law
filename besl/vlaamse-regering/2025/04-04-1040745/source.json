@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040745,
+  "title": "Besluit van de Vlaamse Regering van 2025-04-04 tot goedkeuring van de programmatie van structuuronderdelen in het gewoon voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040745/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "0111b8370178932368447a823331024a115fcf30accb3c1c738c9a30835e4d14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040745&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-04-04",
+  "gazette": "2025-04-25",
+  "numac": 2025003032,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
