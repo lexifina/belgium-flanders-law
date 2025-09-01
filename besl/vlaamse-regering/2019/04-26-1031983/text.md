@@ -49,9 +49,7 @@ De periode van twintig opleidingsdagen per schooljaar waarin de leerling geen ov
 
 ### ART 3.
 
-In zijn hoedanigheid van stemgerechtigd lid van de klassenraad bewaart de mentor het ambtsgeheim waartoe ook de andere stemgerechtigde leden van het bestuurs- en onderwijzend en paramedisch, medisch, orthopedagogisch, psychologisch en sociaal personeel, op wie de rechtspositieregeling in het onderwijs van toepassing is, gehouden zijn. Als de leerling de werkplekcomponent achtereenvolgens op verschillende werkplekken invult en er dus verschillende mentoren bij de leerling zijn betrokken tijdens hetzelfde schooljaar, kunnen de mentoren bij stemming in de klassenraad samen maar één stem uitbrengen. Bij staking van stemmen van de mentoren stemt de trajectbegeleider namens de mentoren, onverminderd zijn eigen stem.<br>
-<br>
-Tussen de aanbieder duaal leren en de werkplek worden praktische afspraken gemaakt over het functioneren van de mentor in de klassenraad, met inbegrip van het al dan niet aanwezig zijn van de mentor op klassenraadsvergaderingen.
+...
 
 ### ART 4.
 
@@ -70,83 +68,11 @@ De oproep, vermeld in het eerste lid, omvat minstens de volgende elementen:<br>
 
 ### ART 5.
 
-§ 1. In duale structuuronderdelen van opleidingsvorm 4, behalve bij 7de leerjaren, kunnen de volgende studiebewijzen uitgereikt worden:<br>
-1° een diploma van secundair onderwijs;<br>
-2° een studiegetuigschrift van het tweede leerjaar van de derde graad;<br>
-3° een studiegetuigschrift van het derde leerjaar van de derde graad;<br>
-4° een getuigschrift van de tweede graad van het secundair onderwijs;<br>
-5° een bewijs van beroepskwalificatie;<br>
-6° een bewijs van deelkwalificatie;.<br>
-<br>
-In voorkomend geval kunnen in duale structuuronderdelen van opleidingsvorm 4, 7de leerjaren de studiebewijzen, vermeld in het eerste lid, 5° en 6°, uitgereikt worden.<br>
-<br>
-Een duaal structuuronderdeel kan op een of meer beroepskwalificaties of deelkwalificaties zijn gebaseerd en bijgevolg tot een of meer bewijzen van beroepskwalificatie of bewijzen van deelkwalificatie leiden.<br>
-<br>
-De studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, gelden als een onderwijskwalificatie als vermeld in artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Het studiebewijs, vermeld in het eerste lid, 4°, geldt alleen als een onderwijskwalificatie als het uitgereikt wordt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het voormelde decreet.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 5°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een beroepskwalificatie.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 6°, geldt met toepassing van artikel 14 van het voormelde decreet als een deel van een beroepskwalificatie. Dat wordt expliciet op het model van het studiebewijs vermeld, samen met de benaming van de beroepskwalificatie.<br>
-<br>
-§ 2. Een bewijs van competenties wordt toegekend in opleidingsvorm 4 als de leerling bepaalde competenties heeft verworven uit een erkende kwalificatie, zonder dat hij echter in aanmerking komt voor een van de studiebewijzen, vermeld in paragraaf 1.<br>
-<br>
-§ 3. Een attest van regelmatige lesbijwoning wordt uitgereikt in opleidingsvorm 4 bij vroegtijdige beëindiging van de opleiding zonder dat er competenties verworven zijn of na het eerste leerjaar van een graad. Als het attest wordt uitgereikt na het eerste leerjaar van een graad, verleent het van rechtswege toegang tot het tweede leerjaar van die graad.<br>
-<br>
-§ 4. De volgende modellen, inclusief invulinstructies, zijn opgenomen in de volgende bijlagen:<br>
-1° het model voor een diploma van secundair onderwijs is opgenomen in bijlage 1, die bij het besluit van de Vlaamse Regering van 14 september 2018 houdende uitvoeringsmaatregelen betreffende het duaal leren en de aanloopfase en diverse andere maatregelen is gevoegd;<br>
-2° het model voor een studiegetuigschrift van het tweede leerjaar van de derde graad is opgenomen in bijlage 3, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
-3° het model voor een studiegetuigschrift van het derde leerjaar van de derde graad is opgenomen in bijlage 4, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
-4° het model voor een getuigschrift van de tweede graad van het secundair onderwijs is opgenomen in bijlage 5, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
-5° het model voor een bewijs van beroepskwalificatie is opgenomen in bijlage 6, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
-6° het model voor een bewijs van deelkwalificatie is opgenomen in bijlage 7,die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
-7° het model voor een bewijs van competenties is opgenomen in bijlage 8, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd;<br>
-8° het model voor een attest van regelmatige lesbijwoning is opgenomen in bijlage 9, die bij het voornoemde besluit van de Vlaamse Regering van 14 september 2018 is gevoegd.<br>
-<br>
-Op de modellen van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld. Op het model van studiebewijs, vermeld in het eerste lid, 4°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wordt het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader vermeld, als het studiebewijs wordt uitgereikt in een structuuronderdeel van het beroepssecundair onderwijs dat beantwoordt aan de samenstelling, vermeld in artikel 14, 2°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
-<br>
-Op het model van het studiebewijs, vermeld in het eerste lid, 5°, wordt expliciet vermeld dat het een beroepskwalificatie betreft, samen met de naam van de beroepskwalificatie en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
-<br>
-In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 6°, wordt een studiebewijssupplement geïntegreerd.
+...
 
 ### ART 6.
 
-§ 1. In duale structuuronderdelen van opleidingsvorm 3 kunnen in de kwalificatiefase en de integratiefase de volgende studiebewijzen uitgereikt worden:<br>
-1° een getuigschrift van de opleiding, een bewijs van onderwijskwalificatie niveau 2;<br>
-2° een getuigschrift van de opleiding;<br>
-3° een bewijs van beroepskwalificatie;<br>
-4° een bewijs van deelkwalificatie.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 1°, dat pas uitgereikt kan worden nadat de modernisering secundair onderwijs is doorgevoerd, geldt, met toepassing van artikel 14 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, als een onderwijskwalificatie.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 3°, geldt, met toepassing van artikel 14 van het voormelde decreet, als een beroepskwalificatie.<br>
-<br>
-Leerlingen die één van de studiebewijzen, vermeld in het eerste lid, behalen in de kwalificatiefase van een duaal structuuronderdeel kunnen niet toegelaten worden tot de integratiefase van de identieke duale opleiding en niet toegelaten worden tot de integratiefase van een verwante niet-duale opleiding.<br>
-<br>
-Het studiebewijs, vermeld in het eerste lid, 4°, geldt, met toepassing van artikel 14 van het voormelde decreet als een deelkwalificatie en wordt toegekend als de leerling niet in aanmerking komt voor een van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 3°. Dat studiebewijs geldt als een deel van een beroepskwalificatie. Dat wordt expliciet vermeld op het model van het studiebewijs, vermeld in paragraaf 4, samen met de benaming van de beroepskwalificatie.<br>
-<br>
-§ 2. Een attest van verworven bekwaamheden, wordt uitgereikt in opleidingsvorm 3 in de kwalificatiefase en de integratiefase als de leerling bepaalde competenties heeft verworven uit een erkende kwalificatie binnen zijn opleiding, zonder dat hij echter in aanmerking komt voor een van de studiebewijzen, vermeld in paragraaf 1.<br>
-<br>
-Een leerling die in een duale kwalificatiefase een attest van verworven bekwaamheden heeft behaald kan alleen op gemotiveerd advies van de klassenraad, worden toegelaten tot de duale integratiefase van dezelfde opleiding.<br>
-<br>
-Een leerling die in een niet-duale kwalificatiefase een attest van verworven bekwaamheden heeft behaald kan alleen op gemotiveerd advies van de klassenraad, worden toegelaten tot de duale integratiefase van een verwante opleiding.<br>
-<br>
-§ 3. Een attest beroepsonderwijs wordt uitgereikt in opleidingsvorm 3 in de kwalificatiefase en de integratiefase als een leerling niet in aanmerking komt voor één van de studiebewijzen, vermeld in paragraaf 1 en 2.<br>
-<br>
-Een leerling die in een duale of niet duale kwalificatiefase een attest beroepsonderwijs heeft behaald kan niet worden toegelaten tot de duale integratiefase.<br>
-<br>
-§ 4. De volgende modellen inclusief invulinstructies zijn opgenomen in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
-1° het model voor een getuigschrift van de opleiding, een bewijs van onderwijskwalificatie niveau 2, is opgenomen in bijlage 1, die bij dit besluit is gevoegd;<br>
-2° het model voor een getuigschrift van de opleiding, is opgenomen in bijlage 2, die bij dit besluit is gevoegd;<br>
-3° het model voor een bewijs van beroepskwalificatie is opgenomen in bijlage 3, die bij dit besluit is gevoegd;<br>
-4° het model voor een bewijs van deelkwalificatie is opgenomen in bijlage 4, die bij dit besluit is gevoegd;<br>
-5° het model voor een attest van verworven bekwaamheden, is opgenomen in bijlage 5, die bij dit besluit is gevoegd;<br>
-6° het model voor een attest beroepsonderwijs is opgenomen in bijlage 6, die bij dit besluit is gevoegd.<br>
-<br>
-Op het model van het studiebewijs, vermeld in het eerste lid, 1°, wordt expliciet vermeld dat het een onderwijskwalificatie betreft en wat het niveau van die onderwijskwalificatie is binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
-<br>
-Op het model van het studiebewijs, vermeld in het eerste lid, 2° , wordt expliciet vermeld dat het een beroepskwalificatie of een deelkwalificatie omvat, samen met de naam van de beroepskwalificatie en het niveau ervan binnen de Vlaamse kwalificatiestructuur en het Europese kwalificatiekader.<br>
-<br>
-In het model van de studiebewijzen, vermeld in het eerste lid, 1° tot en met 4°, wordt een studiebewijssupplement geïntegreerd.
+...
 
 ## Afdeling 3. Financiering en subsidiëring
 
@@ -245,24 +171,24 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/02_1.pdf#page=41">Bijlage 1</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/02_1.pdf#page=43">Bijlage 2</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/02_1.pdf#page=45">Bijlage 3</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/02_1.pdf#page=47">Bijlage 4</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/02_1.pdf#page=49">Bijlage 5</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/02_1.pdf#page=51">Bijlage 6</a>
+...
