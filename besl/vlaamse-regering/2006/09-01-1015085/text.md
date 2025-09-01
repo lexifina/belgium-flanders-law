@@ -79,7 +79,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XIII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=60">Bijlage XIII</a>
+...
 
 ### BIJLAGE
 
