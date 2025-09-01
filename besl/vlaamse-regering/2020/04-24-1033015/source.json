@@ -2,16 +2,16 @@
   "codex_id": 1033015,
   "title": "Besluit van de Vlaamse Regering van 2020-04-24 tot goedkeuring van de programmatie van niet-duale opleidingen in opleidingsvorm 3 van het buitengewoon secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033015/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "3ea0de3c6e95e26cb517bc9289e388558f86a2a34dd5ee2f422145407e736108",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033015/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "27bf94f059f15863d7d950c525f1cef1a482851d2b2bfa940fac2e5d6967f506",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033015&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2025-09-01",
   "made": "2020-04-24",
   "gazette": "2020-05-18",
   "numac": 2020041218,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-09-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }
