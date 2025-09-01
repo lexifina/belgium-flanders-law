@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041464,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-24 tot erkenning van het graduaat in de laboratoriumassistentie als nieuwe opleiding van de Hogeschool Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041464/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "8d79bbd0a7b09ca0a60aecdd5fa1acc7edb4b1be88258bf2ba3547a65a72aa95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041464&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-10-24",
+  "gazette": "2025-11-17",
+  "numac": 2025008533,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
