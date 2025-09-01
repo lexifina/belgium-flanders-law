@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041404,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-10 tot erkenning van de masteropleiding “Master in de ingenieurswetenschappen: schepen en mariene technologie” als nieuwe opleiding van de Universiteit Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041404/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "cceadca35c22446001f7036c7032f500943c4281d16e8d1925b17d5e0cca8f0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041404&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-10-10",
+  "gazette": "2025-10-28",
+  "numac": 2025008064,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
