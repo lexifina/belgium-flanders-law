@@ -20740,3 +20740,427 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+22° Met ingang van 1 september 2025 kan de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:26.0cm">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:495px"><strong>module </strong></td>
+			<td style="height:19px; width:460px"><strong>module</strong></td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:28px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Bekabeling in residentiële gebouwen</td>
+			<td style="height:19px; width:460px">Configuratie netwerktoestellen</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:28px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Bekabeling in residentiële gebouwen</td>
+			<td style="height:19px; width:460px">Elektrische installaties voor de installateur</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:28px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Bekabeling in residentiële gebouwen</td>
+			<td style="height:19px; width:460px">Elektrische installaties voor de technicus</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:28px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Bekabeling in tertaire en industriële gebouwen</td>
+			<td style="height:19px; width:460px">Configuratie netwerktoestellen</td>
+			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:28px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Bekabeling in tertaire en industriële gebouwen</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Bekabeling in tertaire en industriële gebouwen</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Beveiliging van datastromen</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Beveiliging van datastromen</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Beveiliging van datastromen</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Gebruikersbeheer en apparaatbeveiliging</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Gebruikersbeheer en apparaatbeveiliging</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Gebruikersbeheer en apparaatbeveiliging</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Inrichting en installatie van een netwerkkast of serverruimte</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Inrichting en installatie van een netwerkkast of serverruimte</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Inrichting en installatie van een netwerkkast of serverruimte</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Bekabeling voor bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Bekabeling voor thuisnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Beveiliging van datastromen bij bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Gebruikersbeheer en apparaatbeveiliging bij bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Klantgerichte communicatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Klantgerichte communicatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Netwerken en toestellen aansluiten, verbinden en vervangen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Netwerkkast of serverruimte inrichten en installeren</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Netwerkprotocollen bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Netwerkprotocollen thuisnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Netwerkverbindingen bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Netwerkverbindingen thuisnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Nieuwe technologieën installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Nieuwe technologieën technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Project Installateur Datacommunicatie en Netwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Project Technicus Datacommunicatie en Netwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Veilig werken met elektriciteit</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">IT-documentatie</td>
+			<td colspan="2" style="height:19px; width:488px">Veilig werken met elektriciteit</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Multimediale toestellen aansluiten en verbinden</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Multimediale toestellen aansluiten en verbinden</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Multimediale toestellen aansluiten en verbinden</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkprotocollen in een residentiële context</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkprotocollen in een residentiële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkprotocollen in een residentiële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkprotocollen in een tertiaire of industriële context</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkprotocollen in een tertiaire of industriële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkprotocollen in een tertiaire of industriële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkverbindingen in een residentiële context</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkverbindingen in een residentiële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkverbindingen in een residentiële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkverbindingen in een tertiaire of industriële context</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkverbindingen in een tertiaire of industriële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; width:495px">Netwerkverbindingen in een tertiaire of industriële context</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Nieuwe technologieën</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Nieuwe technologieën</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Nieuwe technologieën</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Professionele communicatie</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Professionele communicatie</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Professionele communicatie</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Project datacommunicatie- en netwerktechnicus</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Project datacommunicatie- en netwerktechnicus</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Project datacommunicatie- en netwerktechnicus</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden aan betegelde wanden</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden aan betegelde wanden</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden aan betegelde wanden</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden hout 1</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden hout 1</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden hout 1</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden hout 2</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden hout 2</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden hout 2</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden isolatie</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden isolatie</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden isolatie</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden metaal</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden metaal</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden metaal</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden pannen- en leiendaken</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden pannen- en leiendaken</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden pannen- en leiendaken</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden tegelvloeren</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden tegelvloeren</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden tegelvloeren</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden vloerbekleding</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden vloerbekleding</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden vloerbekleding</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden wanden plaatsen 1</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden wanden plaatsen 1</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden wanden plaatsen 1</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden wanden plaatsen 2</td>
+			<td colspan="2" style="height:19px; width:488px">Basis bewerkingstechnieken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden wanden plaatsen 2</td>
+			<td colspan="2" style="height:19px; width:488px">Project onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Technische werkzaamheden wanden plaatsen 2</td>
+			<td colspan="2" style="height:19px; width:488px">Taken en bevoegdheden onderhoudsmedewerker</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Veilig werken met elektriciteit</td>
+			<td colspan="2" style="height:19px; width:488px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Veilig werken met elektriciteit</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Veilig werken met elektriciteit</td>
+			<td colspan="2" style="height:19px; width:488px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Werkplekleren voor de transport- en logistiek medewerker</td>
+			<td colspan="2" style="height:19px; width:488px">Stage Hulpdeclarant</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een eerste vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Engels voor transport en logistiek</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een eerste vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Frans voor transport en logistiek</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een tweede vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Engels voor transport en logistiek</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:495px">Zakelijke communicatie in een tweede vreemde taal 1</td>
+			<td colspan="2" style="height:19px; width:488px">Frans voor transport en logistiek</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+&nbsp;
