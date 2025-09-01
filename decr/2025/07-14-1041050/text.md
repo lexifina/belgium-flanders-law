@@ -166,6 +166,14 @@ In artikel 196sexies, §1, van hetzelfde decreet, ingevoegd bij het decreet van 
 
 ## Hoofdstuk 6. Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie
 
+### ART 20.
+
+In titel V van de wet van 23 december 2005 betreffende het generatiepact, het laatst gewijzigd bij het decreet van 18 mei 2018, wordt hoofdstuk III, dat bestaat uit artikel 79 tot en met 87, opgeheven.
+
+### ART 21.
+
+Het decreet van 10 maart 2017 betreffende de maatregelen ten gunste van de tewerkstelling van jongeren in de socialprofitsector die voortvloeien uit de wet van 23 december 2005 betreffende het generatiepact wordt opgeheven.
+
 ## Hoofdstuk 7. Welzijn, Volksgezondheid en Gezin
 
 ### ART 22.
