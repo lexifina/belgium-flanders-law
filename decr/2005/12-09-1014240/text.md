@@ -9,11 +9,15 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 De bepalingen van dit decreet zijn van toepassing op:<br>
 1° de gefinancierde of gesubsidieerde instellingen voor basisonderwijs;<br>
 2° de gefinancierde of gesubsidieerde instellingen voor secundair onderwijs;<br>
-3° de erkende centra voor deeltijdse vorming in het kader van de deeltijdse leerplicht;<br>
+3° ...;<br>
 4° de gefinancierde of gesubsidieerde centra voor volwassenenonderwijs;<br>
 5° de gefinancierde of gesubsidieerde instellingen voor deeltijds kunstonderwijs;<br>
 6° de gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding;<br>
-7° voor wat de leertijd betreft : de gesubsidieerde centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen;<br>
+7° de gesubsidieerde centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, voor wat de duale en aanloopstructuuronderdelen die ze aanbieden betreft;<br>
+8° de gefinancierde of gesubsidieerde centra voor basiseducatie;<br>
+8° de gefinancierde of gesubsidieerde leersteuncentra;<br>
+9° de gefinancierde of gesubsidieerde onderwijsinternaten.<br>
+<br>
 <br>
 Het geheel van die onderwijsinstellingen en centra wordt hierna "scholen en centra" genoemd.
 
