@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041128,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-18 tot erkenning van de bacheloropleiding “Bachelor in de tandheelkunde” als nieuwe opleiding van de Vrije Universiteit Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041128/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "23da93f616b79c2f747e20acdf678125972d09c008ae7fee51e45893ffda0962",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041128&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-07-18",
+  "gazette": "2025-08-13",
+  "numac": 2025006007,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
