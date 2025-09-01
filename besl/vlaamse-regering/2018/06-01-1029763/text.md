@@ -188,7 +188,37 @@ Voor elk aanloopstructuuronderdeel wordt in bijlage 4/2, die bij dit besluit is 
 
 De structuuronderdelen Gezondheidszorg en Verzorgende/Zorgkundige, gerangschikt binnen de matrix in het studiedomein Maatschappij en Welzijn, zijn in overeenstemming met het Koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige, zoals gewijzigd.
 
+### ART 4/3/1.
+
+De 7de leerjaren gericht op instroom arbeidsmarkt met een duurtijd van één semester of drie aaneensluitende semesters zijn opgenomen in bijlage 4/3, die bij dit besluit is gevoegd.
+
+### ART 4/3/2.
+
+De basisopties, de eventuele invulling via pakket, of de structuuronderdelen die vervangen zijn door de wijzigingen in de lijst van basisopties, en de eventuele invulling via pakket, vermeld in artikel 1, §1, eerste lid, 1°, of in de matrix met structuuronderdelen die opgenomen is in bijlage 2, die bij dit besluit is gevoegd, zijn opgenomen in de tabel, vermeld in bijlage 6, die bij dit besluit is gevoegd.
+
 ## [HOOFDSTUK 1/1. Lesuren in opleidingsvorm 3 (ing. BVR 22 september 2023, art. 63, I: 1 september 2025)]
+
+### ART 4/4.
+
+§1. Op weekbasis worden in de onderscheiden fasen, met uitzondering van de integratiefase, ten minste 32 lesuren en maximaal 36 lesuren besteed aan de algemene en sociale vorming en aan de beroepsgerichte vorming.<br>
+<br>
+De algemene en sociale vorming wordt wekelijks verstrekt gedurende:<br>
+1°&nbsp;&nbsp; &nbsp;ten minste 14 lesuren in de observatiefase;<br>
+2°&nbsp;&nbsp; &nbsp;ten minste 10 lesuren in de opleidingsfase;<br>
+3°&nbsp;&nbsp; &nbsp;ten minste 10 lesuren in de kwalificatiefase.<br>
+<br>
+De beroepsgerichte vorming wordt wekelijks verstrekt gedurende:<br>
+1°&nbsp;&nbsp; &nbsp;ten minste 16 lesuren in de observatiefase;<br>
+2°&nbsp;&nbsp; &nbsp;ten minste 13 lesuren in de opleidingsfase;<br>
+3°&nbsp;&nbsp; &nbsp;ten minste 19 lesuren in de kwalificatiefase.<br>
+<br>
+De school kan de overige lesuren een vrije invulling geven.<br>
+<br>
+§2. De integratiefase in de vorm van alternerende beroepsopleiding bestaat uit twee dagen vorming op school en drie dagen werkervaring in een regulier bedrijf. Ze omvat wekelijks ten minste 14 lesuren op school en 24 uren werkervaring in een regulier bedrijf.<br>
+<br>
+Zowel algemene en sociale vorming als beroepsgerichte vorming moet worden georganiseerd. De verhouding tussen die componenten mag vrij worden vastgelegd op basis van de individuele behoeften van de leerling.<br>
+<br>
+De vorming op school of de werkervaring kan uitzonderlijk gedurende een langere periode zonder onderbreking georganiseerd worden, met een maximum van drie weken, als de klassenraad daarvoor een bijkomende motivering opstelt.
 
 ## HOOFDSTUK 2. Wijziging van het besluit van de Vlaamse Regering van 5 juni 1989 tot vaststelling van de algemene vakken, de kunstvakken, de technische vakken en de praktische vakken in de instellingen voor voltijds secundair onderwijs en in de instellingen voor voltijds secundair onderwijs die als centra voor deeltijds beroepssecundair onderwijs fungeren, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap, met uitzondering van de instellingen voor buitengewoon secundair onderwijs
 
@@ -430,7 +460,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 2
 
-Bijlage 2. Matrix secundair onderwijs<br>
+Matrix secundair onderwijs<br>
 <br>
 <strong>MATRIX SECUNDAIR ONDERWIJS 2<sup>e</sup> GRAAD</strong><br>
 <br>
@@ -439,12 +469,12 @@ Bijlage 2. Matrix secundair onderwijs<br>
 <table cellspacing="0" style="border-collapse:collapse; width:961px">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-bottom:none; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:103px">&nbsp;</td>
+			<td rowspan="2" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:103px">&nbsp;</td>
 			<td colspan="2" style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:41px; width:348px"><strong>Finaliteit Doorstroom</strong></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:41px; width:174px"><strong>Dubbele finaliteit </strong><br>
 			<strong>(doorstroom / arbeidsmarkt)</strong></td>
 			<td colspan="2" style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:2px solid black; height:41px; width:234px"><strong>Finaliteit Arbeidsmarkt </strong></td>
-			<td rowspan="2" style="border-bottom:none; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:102px"><strong>BuSO</strong><br>
+			<td rowspan="2" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:102px"><strong>BuSO</strong><br>
 			<strong>OV1 en OV2</strong><br>
 			beschermd arbeidsmilieu /<br>
 			dagbesteding</td>
@@ -459,7 +489,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:none; height:41px; width:102px"><strong>BuSO OV3</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:103px"><strong>TAAL EN CULTUUR</strong></td>
+			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:103px"><strong>TAAL EN CULTUUR</strong></td>
 			<td rowspan="8" style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:174px">Economische wetenschappen<br>
 			Freinetpedagogie<br>
 			Grieks-Latijn<br>
@@ -477,7 +507,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			Toerisme</td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:132px"><em>Onthaal en recreatie (*)</em></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:none; height:41px; vertical-align:top; width:102px">/</td>
-			<td rowspan="8" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:102px"><em><u>OV1</u></em><br>
+			<td rowspan="8" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:102px"><em><u>OV1</u></em><br>
 			Opleidings-vorm gericht op maat-schappelijk functioneren en participeren in een omgeving waar ondersteuning voorzien is en in voorkomend geval op arbeidsdeel­name in een omgeving waar ondersteuning voorzien is.<br>
 			<br>
 			<em><u>OV2</u></em><br>
@@ -508,6 +538,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			Printmedia<br>
 			Schilderen en decoratie<br>
 			<em>Binnenvaart (*)</em><br>
+			<em>Diamantbewerking (*)</em><br>
 			<em>Textiel (*)</em><br>
 			<em>Zeevaart en zeevisserij (*)</em></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:none; height:35px; vertical-align:top; width:102px">Basis bouw<br>
@@ -530,8 +561,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			<em>Fotografie (*)</em><br>
 			<em>Grafische technieken (*)</em></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:44px; vertical-align:top; width:132px"><em>Artistiek-creatieve bewerkingen (*)</em><br>
-			<em>Decor en etalage (*)</em><br>
-			<em>Diamantbewerking (*)</em></td>
+			<em>Decor en etalage (*)</em></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:none; height:44px; vertical-align:top; width:102px">/</td>
 		</tr>
 		<tr>
@@ -589,19 +619,18 @@ Bijlage 2. Matrix secundair onderwijs<br>
 	</tbody>
 </table>
 <br>
-<br>
 <strong>MATRIX SECUNDAIR ONDERWIJS 3<sup>e</sup> GRAAD</strong><br>
 <strong><em>(*)</em></strong><strong>: niche-structuuronderdelen / (°): deze structuuronderdelen kunnen ook aangeboden worden binnen BuSO OV4</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:963px">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-bottom:none; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:112px">&nbsp;</td>
+			<td rowspan="2" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:112px">&nbsp;</td>
 			<td colspan="2" style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:41px; width:340px"><strong>Finaliteit Doorstroom</strong></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:41px; width:170px"><strong>Dubbele finaliteit </strong><br>
 			<strong>(doorstroom / arbeidsmarkt)</strong></td>
 			<td colspan="2" style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:2px solid black; height:41px; width:236px"><strong>Finaliteit Arbeidsmarkt </strong></td>
-			<td rowspan="2" style="border-bottom:none; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:104px"><strong>BuSO</strong><br>
+			<td rowspan="2" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:104px"><strong>BuSO</strong><br>
 			<strong>OV1 en OV2</strong><br>
 			beschermd arbeidsmilieu /<br>
 			dagbesteding</td>
@@ -616,7 +645,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:none; height:41px; width:104px"><strong>BuSO OV3</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:112px"><strong>TAAL EN CULTUUR</strong></td>
+			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:112px"><strong>TAAL EN CULTUUR</strong></td>
 			<td rowspan="8" style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:170px">Economie-Moderne talen<br>
 			Economie-Wiskunde<br>
 			Freinetpedagogie<br>
@@ -639,7 +668,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			Toerisme</td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:132px"><em>Onthaal en recreatie (*)</em></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:none; border-top:none; height:41px; vertical-align:top; width:104px">/</td>
-			<td rowspan="8" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:104px"><em><u>OV1</u></em><br>
+			<td rowspan="8" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:41px; vertical-align:top; width:104px"><em><u>OV1</u></em><br>
 			Opleidings-vorm gericht op maatschap-pelijk functioneren en participeren in een omgeving waar ondersteuning voorzien is en in voorkomend geval op arbeids-deelname in een omgeving waar ondersteuning voorzien is.<br>
 			<br>
 			<em><u>OV2</u></em><br>
@@ -695,6 +724,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			Ruwbouw<br>
 			Sanitaire en verwarmings-installaties<br>
 			<em>Binnenvaart en beperkte kustvaart (*)</em><br>
+			<em>Diamantbewerking (*)</em><br>
 			<em>Podiuminstallaties (*)</em><br>
 			<em>Textiel (*)</em><br>
 			<em>Vrachtwagen-chauffeur (*)</em><br>
@@ -735,7 +765,6 @@ Bijlage 2. Matrix secundair onderwijs<br>
 			<em>Grafimedia (*)</em><br>
 			<em>Mode (*)</em></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:44px; vertical-align:top; width:132px"><em>Decor, etalage en publiciteit (*)</em><br>
-			<em>Diamantbewerking (*)</em><br>
 			<em>Goud en juwelen (*)</em><br>
 			<em>Muziek-instrumentenbouw (*)</em><br>
 			<em>Uurwerkmaken (*)</em></td>
@@ -826,6 +855,7 @@ Bijlage 2. Matrix secundair onderwijs<br>
 		</tr>
 	</tbody>
 </table>
+<br>
 Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelezen worden als opleidingsfase respectievelijk kwalificatiefase/integratiefase.<br>
 <br>
 <br>
@@ -863,7 +893,7 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Polyvalent mecanicien zware bedrijfsvoertuigen<br>
 			Technicus hernieuwbare energietechnieken<br>
 			Technieker industriële procesautomatisatie<br>
-			<em>Crossmedia assistent </em><em>in interactieve producties (*)</em><br>
+			<em>Crossmedia assistent in interactieve producties (*)</em><br>
 			<em>Dentaaltechnicus (*)</em><br>
 			<em>Grafimedia voorbereider – assistent vormgever in de printmedia (*)</em><br>
 			<em>Grafimedia voorbereider in de printmedia – CTP operator (*)</em><br>
@@ -889,7 +919,6 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Flexodrukker<br>
 			IJzervlechter en bekister-betonneerder<br>
 			Industrieel schilder<br>
-			Installateur gebouwenautomatisering<br>
 			Installateur nutsvoorzieningen<br>
 			Interieurbouwer<br>
 			Lasser-monteerder<br>
@@ -909,10 +938,14 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Plaatser houten vloerbedekking<br>
 			Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen<br>
 			Print en Sign Operator<br>
+			Renovatievakman ruwbouw<br>
 			Rotatiedrukker<br>
 			Schrijnwerker houtbouw<br>
 			Spuiter carrosserie<br>
 			Stukadoor<br>
+			Technicus datacommunicatie en netwerken (vanaf 1 september 2026)<br>
+			Technicus elektrische voertuigen (vanaf 1 september 2026)<br>
+			Technicus gebouwenautomatisering en energiemanagement<br>
 			Technicus industriële elektriciteit<br>
 			Technicus installatietechnieken<br>
 			Technicus koelinstallaties<br>
@@ -923,6 +956,7 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			<em>Aspirant-stuurman binnenscheepvaart (*)</em><br>
 			<em>Aspirant-stuurman kustvaart en zeevisserij (*)</em><br>
 			<em>Autobus- en autocarchauffeur (*)</em><br>
+			<em>Diamantbewerker fantasieslijpen (*)</em><br>
 			<em>Podiumtechnicus (*)</em><br>
 			<em>Productieoperator textielproductielijn (*)</em><br>
 			<em>Restauratievakman dakwerk (*)</em><br>
@@ -943,8 +977,7 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			<em>Grafimedia voorbereider in de printmedia – CTP operator (*)</em><br>
 			<em>Grafimedia voorbereider in de printmedia – online publicaties (*)</em><br>
 			<em>Ontwikkelaar patronen kleding- en confectieartikelen (*)</em></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:44px; vertical-align:top; width:280px"><em>Geautomatiseerde diamantbewerking en kwaliteitsanalist (*)</em><br>
-			<em>Juweelontwerper-goudsmid (*)</em><br>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:44px; vertical-align:top; width:280px"><em>Juweelontwerper-goudsmid (*)</em><br>
 			<em>Muziekinstrumentenbouwer historische muziekinstrumenten (*)</em><br>
 			<em>Restaurateur muziekinstrumenten (*)</em><br>
 			<em>Uurwerkhersteller-specialist (*)</em></td>
@@ -1010,11 +1043,10 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Gespecialiseerd verkoper slagerij<br>
 			Grootkeukenkok<br>
 			Hotelreceptionist<br>
-			IJsbereider<br>
 			Kok<br>
+			Kwaliteits- en procesverantwoordelijke (banket)bakkerij<br>
 			Slager-charcutier<br>
 			Sommelier<br>
-			Suiker- en marsepeinbewerker<br>
 			Wild- en gevogelteslager</td>
 		</tr>
 		<tr>
@@ -1026,7 +1058,6 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 		</tr>
 	</tbody>
 </table>
-<br>
 <br>
 <br>
 <strong>MATRIX SECUNDAIR ONDERWIJS Structuuronderdelen “duaal” </strong><strong>2<sup>e</sup> GRAAD</strong><br>
@@ -1126,27 +1157,30 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 <table cellspacing="0" style="border-collapse:collapse; width:962px">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-bottom:none; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:41px; vertical-align:top; width:198px">&nbsp;</td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:41px; width:378px"><strong>Dubbele finaliteit</strong><br>
+			<td rowspan="2" style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:1.0cm; vertical-align:top; width:198px">&nbsp;</td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:1.0cm; width:378px"><strong>Dubbele finaliteit</strong><br>
 			<strong>(doorstroom / arbeidsmarkt)</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:41px; width:386px"><strong>Finaliteit Arbeidsmarkt</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:2px solid black; height:1.0cm; width:386px"><strong>Finaliteit Arbeidsmarkt</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; width:378px"><strong>TSO (°)</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; width:386px"><strong>BSO (°)</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; width:378px"><strong>TSO (°)</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; width:386px"><strong>BSO (°)</strong></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:2px solid black; height:34px; vertical-align:top; width:198px"><strong>TAAL EN CULTUUR</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:378px">/</td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:386px"><em>/</em></td>
+			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:198px"><strong>TAAL EN CULTUUR</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:378px">/</td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:386px"><em>/</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:198px"><strong>STEM</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:378px">Autotechnieken duaal<br>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:378px">Applicatie- en databeheer duaal (vanaf 1 september 2026)<br>
+			Autotechnieken duaal<br>
 			Biotechnologische en chemische technieken duaal<br>
 			Bouwtechnieken duaal<br>
 			Elektromechanische technieken duaal<br>
+			Elektronicatechnieken duaal (vanaf 1 september 2026)<br>
 			Elektrotechnieken duaal<br>
+			Industriële ICT duaal (vanaf 1 september 2026)<br>
 			Koel- en warmtetechnieken duaal<br>
 			Mechanische vormgevingstechnieken duaal<br>
 			<em>Orthopedietechnieken duaal (*)</em><br>
@@ -1172,14 +1206,15 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Ruwbouw duaal<br>
 			Sanitaire en verwarmingsinstallaties duaal<br>
 			<em>Binnenvaart en beperkte kustvaart duaal (*)</em><br>
+			<em>Diamantbewerking duaal (*)</em><br>
 			<em>Podiuminstallaties duaal (*)</em><br>
 			<em>Textiel duaal (*)</em><br>
 			<em>Zeevisserij duaal (*)</em></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:198px"><strong>KUNST EN CREATIE</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:378px"><em>/</em></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:386px"><em>Diamantbewerking duaal (*)</em></td>
+			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:198px"><strong>KUNST EN CREATIE</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:378px"><em>/</em></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:386px">/</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:39px; vertical-align:top; width:198px"><strong>LAND- EN<em> </em>TUINBOUW</strong></td>
@@ -1194,7 +1229,8 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:30px; vertical-align:top; width:198px"><strong>ECONOMIE EN</strong><br>
 			<strong>ORGANISATIE</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:30px; vertical-align:top; width:378px">Bedrijfsorganisatie duaal<br>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:30px; vertical-align:top; width:378px">Applicatie- en databeheer duaal (vanaf 1 september 2026)<br>
+			Bedrijfsorganisatie duaal<br>
 			Commerciële organisatie duaal</td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:30px; vertical-align:top; width:386px">Logistiek duaal<br>
 			Onthaal, organisatie en sales duaal</td>
@@ -1203,15 +1239,15 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:43px; vertical-align:top; width:198px"><strong>MAATSCHAPPIJ EN WELZIJN</strong></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:43px; vertical-align:top; width:378px">/</td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:43px; vertical-align:top; width:386px">Assistentie in wonen, zorg en welzijn duaal<br>
-			Basiszorg en ondersteuning duaal (vanaf 1 september 2025)<br>
+			Basiszorg en ondersteuning duaal<br>
 			Haarverzorging duaal<br>
 			Moderealisatie duaal<br>
 			Textielverzorging duaal</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:198px"><strong>SPORT</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:378px">/</td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:34px; vertical-align:top; width:386px">/</td>
+			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:198px"><strong>SPORT</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:378px">/</td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:386px">/</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:46px; vertical-align:top; width:198px"><strong>VOEDING EN HORECA</strong></td>
@@ -1223,7 +1259,6 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 		</tr>
 	</tbody>
 </table>
-<br>
 <br>
 <br>
 <strong>MATRIX SECUNDAIR ONDERWIJS Structuuronderdelen “duaal” 7<sup>de</sup> leerjaren</strong><br>
@@ -1250,12 +1285,16 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:197px"><strong>STEM</strong></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:378px">Beveiligingstechnicus duaal<br>
 			Chemische procestechnieken duaal<br>
+			Industrieel uitvoeringstekenaar duaal (vanaf 1 september 2026)<br>
+			Meettechnieker duaal (vanaf 1 september 2026)<br>
 			Polyvalent mecanicien zware bedrijfsvoertuigen duaal<br>
 			Technicus hernieuwbare energietechnieken duaal<br>
 			Technieker industriële procesautomatisatie duaal<br>
 			<em>Dentaaltechnicus duaal (*)</em><br>
 			<em>Polyvalent technieker havenvoertuigen duaal (*)</em><br>
-			<em>Regelaar textielproductiemachines duaal (*)</em></td>
+			<em>Regelaar textielproductiemachines duaal (*)</em><br>
+			<em>Vliegtuigtechnieker B1 duaal (*) </em>(vanaf 1 september 2026)<br>
+			<em>Vliegtuigtechnieker B2 duaal (*) </em>(vanaf 1 september 2026)</td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:386px">Asfalt- en betonwegenbouwer duaal<br>
 			Bouwglastechnieker duaal<br>
 			Brandertechnicus gas/stookolie duaal<br>
@@ -1271,10 +1310,10 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Flexodrukker duaal<br>
 			IJzervlechter en bekister-betonneerder duaal<br>
 			Industrieel schilder duaal<br>
-			Installateur gebouwenautomatisering duaal<br>
 			Installateur nutsvoorzieningen duaal<br>
 			Interieurbouwer duaal<br>
 			Lasser-monteerder duaal<br>
+			Mecanicien tuin-, park- en bosmachines duaal (vanaf 1 september 2026)<br>
 			Meubelmaker duaal<br>
 			Meubelstoffeerder duaal<br>
 			Monteur steigerbouw duaal<br>
@@ -1290,24 +1329,29 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Plaatser houten vloerbedekking duaal<br>
 			Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen duaal<br>
 			Print en Sign Operator duaal<br>
+			Renovatievakman ruwbouw duaal<br>
 			Rotatiedrukker duaal<br>
 			Schrijnwerker houtbouw duaal<br>
 			Spuiter carrosserie duaal<br>
 			Stukadoor duaal<br>
+			Technicus datacommunicatie en netwerken duaal (vanaf 1 september 2026)<br>
+			Technicus elektrische voertuigen duaal (vanaf 1 september 2026)<br>
+			Technicus gebouwenautomatisering en energiemanagement duaal<br>
 			Technicus installatietechnieken duaal<br>
 			Technicus koelinstallaties duaal<br>
 			Trappenmaker duaal<br>
-			Vloerder-tegelzetter<br>
+			Vloerder-tegelzetter duaal<br>
 			<em>Aspirant-stuurman binnenscheepvaart duaal (*)</em><br>
+			<em>Diamantbewerker fantasieslijpen duaal (*)</em><br>
 			<em>Podiumtechnicus duaal (*)</em><br>
 			<em>Productieoperator textielproductielijn duaal</em><em> (*)</em><br>
 			<em>Restauratievakman schilder- en decoratiewerk duaal (*)</em><br>
 			<em>Restauratievakman schrijnwerk duaal (*)</em></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:23px; vertical-align:top; width:197px"><strong>KUNST EN CREATIE</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:23px; vertical-align:top; width:378px">/</td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:23px; vertical-align:top; width:386px"><em>Geautomatiseerde diamantbewerking en kwaliteitsanalist duaal (*)</em></td>
+			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:197px"><strong>KUNST EN CREATIE</strong></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:378px">/</td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:386px">/</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:39px; vertical-align:top; width:197px"><strong>LAND- EN<em> </em>TUINBOUW</strong></td>
@@ -1347,17 +1391,18 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:46px; vertical-align:top; width:197px"><strong>VOEDING EN HORECA</strong></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:46px; vertical-align:top; width:378px">/</td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:46px; vertical-align:top; width:386px">Chocolatier duaal<br>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:46px; vertical-align:top; width:386px">Barman duaal (vanaf 1 september 2026)<br>
+			Chocolatier duaal<br>
 			Culinair slager duaal<br>
 			Gespecialiseerd verkoper slagerij duaal<br>
 			Grootkeukenkok duaal<br>
 			Hotelreceptionist duaal<br>
 			Kok duaal<br>
-			Slager-charcutier duaal</td>
+			Slager-charcutier duaal<br>
+			Sommelier duaal (vanaf 1 september 2026)</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 <br>
 <br>
 <strong>MATRIX SECUNDAIR ONDERWIJS Structuuronderdelen “duaal” finaliteit arbeidsmarkt BuSO OV3</strong><br>
@@ -1380,7 +1425,7 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Cementgebonden voeger duaal<br>
 			Fietshersteller duaal<br>
 			Hoeknaadlasser duaal<br>
-			Insteller plaatbewerking duaal (vanaf 1 september 2025)<br>
+			Insteller plaatbewerking duaal<br>
 			Machinaal houtbewerker duaal<br>
 			Medewerker hout duaal<br>
 			Medewerker ruwbouw duaal<br>
@@ -1388,11 +1433,11 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Medewerker tegelzetwerken en dekvloeren duaal<br>
 			Monteur sanitaire en verwarmingsinstallaties duaal<br>
 			Paletten- en krattenmaker duaal<br>
-			Plaatser binnenschrijnwerk duaal (vanaf 1 september 2025)<br>
-			Plaatser buitenschrijnwerk duaal (vanaf 1 september 2025)<br>
-			Plaatser interieurprojecten duaal (vanaf 1 september 2025)<br>
+			Plaatser binnenschrijnwerk duaal<br>
+			Plaatser buitenschrijnwerk duaal<br>
+			Plaatser interieurprojecten duaal<br>
 			Productiemedewerker industrie duaal<br>
-			Samensteller duaal (vanaf 1 september 2025)<br>
+			Samensteller duaal<br>
 			Voorbewerker carrosserie duaal</td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:35px; vertical-align:top; width:378px">Bandenmonteur duaal<br>
 			Cementgebonden voeger duaal<br>
@@ -1465,7 +1510,6 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 		</tr>
 	</tbody>
 </table>
-<br>
 <br>
 <br>
 <strong>MATRIX SECUNDAIR ONDERWIJS Aanloopstructuuronderdelen </strong><strong>2<sup>e</sup> GRAAD</strong><br>
@@ -1562,7 +1606,6 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 </table>
 <br>
 <br>
-<br>
 <strong>MATRIX SECUNDAIR ONDERWIJS Aanloopstructuuronderdelen 3</strong><strong><sup>e</sup></strong><strong> GRAAD</strong><br>
 <br>
 <strong><em>(*)</em></strong><strong>: niche-structuuronderdelen</strong><br>
@@ -1597,11 +1640,12 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 			Aanloop printmedia duaal<br>
 			Aanloop ruwbouw duaal<br>
 			Aanloop sanitaire en verwarmingsinstallaties duaal<br>
+			<em>Aanloop diamantbewerking duaal (*)</em><br>
 			<em>Aanloop podiuminstallaties duaal (*)</em></td>
 		</tr>
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:19px; vertical-align:top; width:198px"><strong>KUNST EN CREATIE</strong></td>
-			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:19px; vertical-align:top; width:548px"><em>Aanloop diamantbewerking duaal (*)</em></td>
+			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:19px; vertical-align:top; width:548px">/</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:26px; vertical-align:top; width:198px"><strong>LAND- EN<em> </em>TUINBOUW</strong></td>
@@ -1620,7 +1664,7 @@ Noot: De indeling in tweede respectievelijk derde graad moet voor BuSO OV3 gelez
 		<tr>
 			<td style="border-bottom:2px solid black; border-left:2px solid black; border-right:2px solid black; border-top:none; height:43px; vertical-align:top; width:198px"><strong>MAATSCHAPPIJ EN WELZIJN</strong></td>
 			<td style="border-bottom:2px solid black; border-left:none; border-right:2px solid black; border-top:none; height:43px; vertical-align:top; width:548px">Aanloop assistentie in wonen, zorg en welzijn duaal<br>
-			Aanloop basiszorg en ondersteuning duaal (vanaf 1 september 2025)<br>
+			Aanloop basiszorg en ondersteuning duaal<br>
 			Aanloop haarverzorging duaal<br>
 			Aanloop moderealisatie duaal<br>
 			Aanloop textielverzorging duaal</td>
@@ -13074,6 +13118,7 @@ Bijlage 4/1. Samenstelling van structuuronderdelen<br>
 <br>
 De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in de benaming het begrip duaal en de samenstelling, in voorkomend geval, van hetzelfde structuuronderdeel met in de benaming het begrip duaal is identiek.<br>
 <br>
+<br>
 <strong>2<sup>de</sup> graad - DUBBELE FINALITEIT (doorstroom / arbeidsmarkt)</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
@@ -13227,6 +13272,7 @@ De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in d
 	</tbody>
 </table>
 <br>
+<br>
 <strong>2<sup>de</sup> graad - FINALITEIT ARBEIDSMARKT</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
@@ -13243,13 +13289,13 @@ De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in d
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Recreatief medewerker, Onthaalmedewerker</td>
 		</tr>
 		<tr>
-			<td rowspan="9" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
+			<td rowspan="10" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px">Bouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Metselaar, Stukadoor, Dekvloerlegger, Vloerder-tegelzetter</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px">Elektriciteit</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Elektrotechnisch installateur, Onderhoudsmonteur, Koelmonteur, Vakman installatietechnieken, Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen, Fietstechnicus, Mecanicien bromfietsen en motorfietsen, Assistent podiumtechnicus, Datacommunicatie- en netwerktechnieker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Elektrotechnisch installateur, Onderhoudsmonteur, Koelmonteur, Vakman installatietechnieken, Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen, Fietstechnicus, Mecanicien bromfietsen en motorfietsen, Assistent podiumtechnicus, Installateur datacommunicatie en netwerken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px">Hout</td>
@@ -13272,6 +13318,10 @@ De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in d
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Matroos binnenscheepvaart</td>
 		</tr>
 		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Diamantbewerking (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Diamantbewerker</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Textiel (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Tufter, Wever</td>
 		</tr>
@@ -13280,17 +13330,13 @@ De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in d
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Matroos STCW II/4, Roerganger zeevisserij, Motorist 221kW,</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
+			<td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Artistiek-creatieve bewerkingen (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Uurwerkhersteller, Medewerker goudsmid</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Decor en etalage (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Commercieel ruimtelijk vormgever</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Diamantbewerking (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Diamantbewerker</td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>LAND- EN TUINBOUW</strong></td>
@@ -13308,8 +13354,7 @@ De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in d
 		</tr>
 	</tbody>
 </table>
-&nbsp;
-
+<br>
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
 	<tbody>
 		<tr>
@@ -13350,11 +13395,13 @@ De samenstelling in onderstaande tabellen van een structuuronderdeel zonder in d
 	</tbody>
 </table>
 <br>
+<br>
 <strong>3<sup>de</sup> graad - FINALITEIT DOORSTROOM</strong><br>
 <br>
 De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van het decreet van 14 juli 2023 over de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs.<br>
 <br>
-<strong>3<sup>de</sup> graad - DUBBELE FINALITEIT (doorstroom / arbeidsmarkt)</strong><br>
+<br>
+<a name="_Hlk111106882"><strong>3<sup>de</sup> graad - DUBBELE FINALITEIT (doorstroom / arbeidsmarkt)</strong></a><br>
 <br>
 De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van het decreet van 14 juli 2023 over de onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs.<br>
 <br>
@@ -13590,6 +13637,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 	</tbody>
 </table>
 <br>
+<br>
 <strong>3<sup>de</sup> graad - FINALITEIT ARBEIDSMARKT</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
@@ -13606,7 +13654,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Recreatief medewerker + Onthaalmedewerker</td>
 		</tr>
 		<tr>
-			<td rowspan="25" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
+			<td rowspan="26" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px">Afwerking bouw</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Stukadoor + Dekvloerlegger + Vloerder-tegelzetter</td>
 		</tr>
@@ -13628,7 +13676,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px">Datacommunicatie- en netwerkinstallaties</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Datacommunicatie- en netwerktechnieker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Installateur datacommunicatie en netwerken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px">Decoratie en schilderwerken</td>
@@ -13687,6 +13735,10 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Matroos binnenscheepvaart</td>
 		</tr>
 		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Diamantbewerking (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Diamantbewerker</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Podiuminstallaties (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Assistent podiumtechnicus</td>
 		</tr>
@@ -13707,13 +13759,9 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Motorist 221kW + set van competenties uit Roerganger zeevisserij</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
+			<td rowspan="4" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Decor, etalage en publiciteit (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Commercieel ruimtelijk vormgever</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Diamantbewerking (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:529px">Diamantbewerker</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:265px"><em>Goud en juwelen (*)</em></td>
@@ -13815,6 +13863,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 	</tbody>
 </table>
 <br>
+<br>
 <strong>7<sup>de</sup> leerjaren die gericht zijn op instroom arbeidsmarkt na behaalde OK 4</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
@@ -13905,8 +13954,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		</tr>
 	</tbody>
 </table>
-&nbsp;
-
+<br>
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
 	<tbody>
 		<tr>
@@ -13978,6 +14026,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 	</tbody>
 </table>
 <br>
+<br>
 <strong>7<sup>de</sup> leerjaren die gericht zijn op instroom arbeidsmarkt na behaalde OK 3</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:926px">
@@ -13998,7 +14047,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Host</td>
 		</tr>
 		<tr>
-			<td rowspan="58" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
+			<td rowspan="62" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Asfalt- en betonwegenbouwer</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Asfalt- en betonwegenbouwer</td>
 		</tr>
@@ -14063,10 +14112,6 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Industrieel schilder</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Installateur gebouwenautomatisering</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Installateur gebouwenautomatisering</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Installateur nutsvoorzieningen</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Installateur nutsvoorzieningen</td>
 		</tr>
@@ -14127,12 +14172,12 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Operator vouw-plakmachine in de papier- en kartonbewerkende industrie</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Plaatser houten vloerbedekking</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Plaatser houten vloerbedekking</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Pijpfitter-fabriceur</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Pijpfitter-fabriceur</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Plaatser houten vloerbedekking</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Plaatser houten vloerbedekking</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
@@ -14141,6 +14186,10 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:26px; width:302px">Print en Sign operator</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:26px; width:491px">Print &amp; sign operator</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:26px; width:302px">Renovatievakman ruwbouw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:26px; width:491px">Renovatievakman metselwerk</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Rotatiedrukker</td>
@@ -14157,6 +14206,18 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Stukadoor</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Stukadoor</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Technicus datacommunicatie en netwerken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Technicus Datacommunicatie en Netwerken</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Technicus elektrische voertuigen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Technicus elektrische voertuigen</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Technicus gebouwenautomatisering en energiemanagement</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Installateur gebouwenautomatisering + Installateur Energiemanagementsystemen</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Technicus industriële elektriciteit</td>
@@ -14199,6 +14260,10 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Autobuschauffeur + Autocarchauffeur</td>
 		</tr>
 		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Diamantwerker fantasieslijpen (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Diamantbewerker fantasievormen</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Podiumtechnicus (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Podiumtechnicus</td>
 		</tr>
@@ -14231,25 +14296,21 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Restauratievakman schrijnwerk</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Geautomatiseerde diamantbewerking en kwaliteitsanalist (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Operator automatisch diamantbewerken</td>
-		</tr>
-		<tr>
+			<td rowspan="4" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Juweelontwerper-goudsmid (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Juweelontwerper-goudsmid</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Juweelontwerper/goudsmid</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Muziekinstrumentenbouwer historische muziekinstrumenten (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Bouwer historische strijk- en tokkelinstrumenten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Bouwer van historische strijk- en tokkelinstrumenten</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Restaurateur muziekinstrumenten (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Restaurateur historische strijk- en tokkelinstrumenten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Restaurateur van historische strijk- en tokkelinstrumenten</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Uurwerkhersteller-specialist (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Uurwerkhersteller-specialist</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Uurwerkhersteller specialist</td>
 		</tr>
 		<tr>
 			<td rowspan="10" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>LAND- EN TUINBOUW</strong></td>
@@ -14343,10 +14404,16 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">/</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">/</td>
 		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:926px">
+	<tbody>
 		<tr>
-			<td rowspan="16" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>VOEDING EN HORECA</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Barman</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Barman</td>
+			<td rowspan="15" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; vertical-align:top; width:132px"><strong>VOEDING EN HORECA</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; width:302px">Barman</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; width:491px">Barman</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Chef de partie desserten, gebak en brood</td>
@@ -14385,12 +14452,12 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Receptionist</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">IJsbereider</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">IJsbereider</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Kok</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Kok</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Kwaliteits- en procesverantwoordelijke (banket)bakkerij</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Kwaliteits- en procesverantwoordelijke (banket)bakkerij</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Slager-charcutier</td>
@@ -14401,15 +14468,12 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Sommelier</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Suiker- en marsepeinbewerker</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Suiker- en marsepeinbewerker</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Wild- en gevogelteslager</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Wild- en gevogelteslager</td>
 		</tr>
 	</tbody>
 </table>
+<br>
 <br>
 <strong>Structuuronderdeel “duaal” (OK2)</strong><br>
 &nbsp;
@@ -14635,6 +14699,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		</tr>
 	</tbody>
 </table>
+<br>
 <br>
 <strong>Aanloopstructuuronderdeel duaal 2<sup>de</sup> graad</strong><br>
 &nbsp;
@@ -14894,7 +14959,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">/</td>
 		</tr>
 		<tr>
-			<td rowspan="18" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
+			<td rowspan="19" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>STEM</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Aanloop afwerking bouw duaal</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Dekvloerlegger + Stukadoor + Vloerder-tegelzetter</td>
 		</tr>
@@ -14912,7 +14977,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Aanloop datacommunicatie- en netwerkinstallaties duaal</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Datacommunicatie- en netwerktechnieker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Installateur datacommunicatie en netwerken</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px">Aanloop decoratie en schilderwerken duaal</td>
@@ -14963,13 +15028,17 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Monteur installatietechnieken</td>
 		</tr>
 		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Aanloop diamantbewerking duaal (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Diamantbewerker</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Aanloop podiuminstallaties duaal (*)</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Assistent podiumtechnicus</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>KUNST EN CREATIE</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>Aanloop diamantbewerking duaal (*)</em></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">Diamantbewerker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:302px"><em>/</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; width:491px">/</td>
 		</tr>
 		<tr>
 			<td rowspan="6" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:132px"><strong>LAND- EN TUINBOUW</strong></td>
@@ -15051,6 +15120,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 	</tbody>
 </table>
 <br>
+<br>
 <strong>BuSO OV3 opleidingsfase</strong><br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:925px">
@@ -15119,6 +15189,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		</tr>
 	</tbody>
 </table>
+<br>
 <br>
 <strong>BuSO OV3 kwalificatiefase</strong><br>
 &nbsp;
@@ -15288,6 +15359,7 @@ De specifieke eindtermen per structuuronderdeel zijn bepaald in bijlage 3 van he
 		</tr>
 	</tbody>
 </table>
+<br>
 <br>
 <strong>BuSO OV3 integratiefase</strong><br>
 &nbsp;
@@ -15887,13 +15959,204 @@ Bijlage 4/2. Koppeling mogelijke aanloopstructuuronderdelen duaal aan structuuro
 	</tbody>
 </table>
 
+### BIJLAGE 4/3
+
+Bijlage 4/3. 7de leerjaren gericht op instroom arbeidsmarkt met een duurtijd van één semester of drie opeenvolgende semesters als vermeld in artikel 4/3/1<br>
+<br>
+7de leerjaren die gericht zijn op instroom arbeidsmarkt na OK3<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:119px">domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:305px">structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:127px">duurtijd<br>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="6" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:119px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Bestuurder mobiele kraan</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Monteur steigerbouw</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Operator stansmachine in de papier- en kartonbewerkende industrie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Operator vouw-plakmachine in de papier- en kartonbewerkende industrie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Plaatser houten vloerbedekking</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Torenkraanbestuurder</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:119px">Economie en organisatie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:305px">Klantcontactmedewerker<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:119px">Maatschappij en welzijn</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:305px">Procesoperator textielverzorging<br>
+			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:119px">Voeding en horeca</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Barman</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Chef de partie desserten, gebak en brood</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Chef de partie groenten, fruit en kruiden</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Chef de partie vis, schaal- en schelpdieren</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:305px">Chef de partie vlees, wild en gevogelte</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:127px">1 semester</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+7de leerjaren die gericht zijn op instroom arbeidsmarkt na OK4<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:113px">domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:307px">structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:132px">duurtijd<br>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:113px">STEM</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:307px">Farmaceutisch technisch assistent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:132px">3 semesters</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:307px">Industrieel uitvoeringstekenaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:132px">1 semester</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:bottom; width:307px">Meettechnieker</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:132px">1 semester</td>
+		</tr>
+	</tbody>
+</table>
+
 ### BIJLAGE 5
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=115">http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=115</a>
 
 ### BIJLAGE 6
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=117">http://www.ejustice.just.fgov.be/mopdf/2018/09/28_1.pdf#page=117</a>
+Vervangingen van structuuronderdelen<br>
+<br>
+De bestaande structuuronderdelen worden door wijziging aan de lijst basisopties of wijziging van invulling via pakket of wijziging aan de matrix secundair onderwijs via onderstaande tabellen automatisch vervangen door het gewijzigde structuuronderdeel.<br>
+<br>
+<strong>Matrix secundair onderwijs 2<sup>de</sup> en 3<sup>de</sup> graad</strong><br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:926px">
+	<tbody>
+		<tr>
+			<td colspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; width:454px"><strong>Bestaand structuuronderdeel:</strong></td>
+			<td colspan="5" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; width:472px"><strong>Vervangen door structuuronderdeel:</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:1.0cm; width:76px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:49px">Graad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:97px">Finaliteit</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:45px">Vorm</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:187px">Structuuronderdeel<br>
+			<em>(*) Niche-structuuronderdeel</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:78px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:49px">Graad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:106px">Finaliteit</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:45px">Vorm</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:195px">Structuuronderdeel<br>
+			<em>(*) Niche-structuuronderdeel</em></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:76px">Kunst en creatie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:49px">2de</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:97px">Arbeidsmarkt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:45px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:187px"><em>Diamantbewerking (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:78px">Stem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:49px">2de</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:106px">Arbeidsmarkt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:45px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:195px"><em>Diamantbewerking (*)</em></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:76px">Kunst en creatie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:49px">3de</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:97px">Arbeidsmarkt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:45px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:187px"><em>Diamantbewerking (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:78px">Stem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:49px">3de</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:106px">Arbeidsmarkt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:45px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:195px"><em>Diamantbewerking (*)</em></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:76px">Kunst en creatie</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:49px">3de</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:97px">Arbeidsmarkt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:45px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:187px"><em>Diamantbewerking duaal (*)</em></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:78px">Stem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:49px">3de</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:106px">Arbeidsmarkt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:45px">bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:195px"><em>Diamantbewerking duaal (*)</em></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<strong>7<sup>de</sup> leerjaren secundair onderwijs duaal</strong><br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse; width:926px">
+	<tbody>
+		<tr>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:23px; width:454px"><strong>Bestaand structuuronderdeel</strong></td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:23px; width:472px"><strong>Vervangen door structuuronderdeel:</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:1.0cm; width:95px">Studiegebied</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:189px">Type 7<sup>de</sup> leerjaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:170px">Structuuronderdeel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:78px">Domein</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:200px">Type 7<sup>de</sup> leerjaar</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:1.0cm; width:195px">Structuuronderdeel</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:20px; width:95px">Mechanica-Elektriciteit</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:189px">7<sup>de</sup> leerjaar gericht op instroom arbeidsmarkt - bso</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:170px">Installateur gebouwenautomatisering duaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:78px">Stem</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:200px">7<sup>de</sup> leerjaar gericht op instroom arbeidsmarkt na behaalde OK3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:20px; width:195px">Technicus gebouwenautomatisering en energiemanagement duaal</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE 7
 
