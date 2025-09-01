@@ -6,13 +6,13 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 juli 1998 houdende d
 
 ### ART. 1.
 
-Dit besluit is van toepassing op een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instelling voor gewoon secundair onderwijs die binnen het studiegebied Maritieme opleidingen de optie Rijn- en Binnenvaart organiseert.<br />
+Dit besluit is van toepassing op een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instelling voor gewoon secundair onderwijs die de studierichting Binnenvaart en Beperkte kustvaart organiseert.
 
 ### ART. 2.
 
 <p>§1. De personeelscategorie van het varend personeel bestaat uit de ambten van kapitein/master, dekofficier, officier-werktuigkundige, schipper, matroos-motordrijver, matroos, volmatroos en lichtmatroos.<br>
 <br>
-Voor de onderstaande ambten zijn de bekwaamheidsbewijzen vereist die worden vastgelegd door de Federale Overheidsdienst bevoegd voor Maritiem Transport. Aan die ambten zijn de volgende salarisschalen verbonden :</p>
+Voor de onderstaande ambten zijn de bekwaamheidsbewijzen vereist, vermeld in hoofdstuk 2 en 3 van het besluit van de Vlaamse Regering van 6 mei 2022 over de beroepscompetenties voor binnenvaartpersoneel. Aan die ambten zijn de volgende salarisschalen verbonden :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:287.6pt">
 	<tbody>
@@ -1002,7 +1002,16 @@ Voor de onderstaande ambten zijn de bekwaamheidsbewijzen vereist die worden vast
 
 ### ART. 3.
 
-§ 1. De gemiddelde wekelijkse prestatie in een ambt van het varend personeel bedraagt 38 uur van 60 minuten. De personeelsleden die worden aangesteld in een betrekking in een van deze ambten, kunnen ook nacht- en weekendprestaties vervullen, naargelang de behoeften en met respect voor de exploitatiewijze van het schip zoals bepaald in het koninklijk besluit van 9 maart 2007 houdende de bemanningsvoorschriften op de scheepvaartwegen van het Koninkrijk.<br /><br />§ 2. Voor de personeelsleden die een ambt van het varend personeel uitoefenen, gelden de principes die van toepassing zijn op het administratief personeel voor wat betreft:<br />1° de bezoldigingsregeling;<br />2° de verlofregeling;<br />3° de jaarlijkse vakantieregeling.<br /><br />§ 3. In afwijking van § 2 houdt de instelling bij de inschaling van de personeelsleden in de salarisschalen vermeld in artikel 2, § 1, rekening met specifieke ambtsgebonden prestaties die vermeld zijn in hun dienstboekje op basis van de hiervoor geldende regels die worden vastgelegd door de Federale Overheidsdienst bevoegd voor Maritiem Transport.<br /><br />Deze prestaties kunnen, beperkt tot een maximum van 10 jaar, in aanmerking genomen worden voor de geldelijke anciënniteit.<br />
+§ 1. De gemiddelde wekelijkse prestatie in een ambt van het varend personeel bedraagt 38 uur van 60 minuten. De personeelsleden die worden aangesteld in een betrekking in een van deze ambten, kunnen ook nacht- en weekendprestaties vervullen, naargelang de behoeften en met respect voor de exploitatiewijze van het schip zoals bepaald in het koninklijk besluit van 9 maart 2007 houdende de bemanningsvoorschriften op de scheepvaartwegen van het Koninkrijk.<br>
+<br>
+§ 2. Voor de personeelsleden die een ambt van het varend personeel uitoefenen, gelden de principes die van toepassing zijn op het administratief personeel voor wat betreft:<br>
+1° de bezoldigingsregeling;<br>
+2° de verlofregeling;<br>
+3° de jaarlijkse vakantieregeling.<br>
+<br>
+§ 3. In afwijking van § 2 houdt de instelling bij de inschaling van de personeelsleden in de salarisschalen vermeld in artikel 2, § 1, rekening met specifieke ambtsgebonden prestaties die vermeld zijn in hun dienstboekje, vermeld in artikel 31 van het besluit van de Vlaamse Regering van 6 mei 2022 over de beroepscompetenties voor binnenvaartpersoneel.<br>
+<br>
+Deze prestaties kunnen, beperkt tot een maximum van 10 jaar, in aanmerking genomen worden voor de geldelijke anciënniteit.
 
 ### ART. 4.
 
