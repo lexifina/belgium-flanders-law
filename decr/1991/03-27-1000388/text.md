@@ -55,7 +55,7 @@ De bepalingen van deze titel die specifiek van toepassing zijn op een leerkracht
 <br>
 § 4. ...<br>
 <br>
-§ 5. In het gesubsidieerd officieel onderwijs ingericht door de gemeenten gelegen in het Vlaamse Gewest is het college van burgemeester en schepenen bevoegd voor de aanstelling, vaste benoeming, ontslag en afzetting van personeelsleden evenals voor het toekennen van een afwezigheid, een verlof, een terbeschikkingstelling, een affectatie, een zorgkrediet&nbsp;en een loopbaanonderbreking. In afwijking op artikelen 58, 86 en 106 van het Gemeentedecreet van 15 juli 2005 kunnen deze bevoegdheden niet uitgeoefend worden door de secretaris.<br>
+§ 5. In het gesubsidieerd officieel onderwijs ingericht door de gemeenten gelegen in het Vlaamse Gewest is het college van burgemeester en schepenen bevoegd voor de aanstelling, vaste benoeming, ontslag en afzetting van personeelsleden evenals voor het toekennen van een afwezigheid, een verlof, een terbeschikkingstelling, een affectatie, een zorgkrediet&nbsp;en een loopbaanonderbreking. In afwijking van artikel 57 en 170 van het decreet van 22 december 2017 over het lokaal bestuur kunnen die bevoegdheden niet uitgeoefend worden door de algemeen directeur.<br>
 <br>
 In het gesubsidieerd officieel onderwijs ingericht door de gemeenten van het Brusselse Hoofdstedelijke Gewest is het college van burgemeester en schepenen bevoegd voor het toekennen van een afwezigheid, een verlof, een terbeschikkingstelling, een tijdelijke aanstelling, een affectatie, een zorgkrediet&nbsp;en een loopbaanonderbreking, voor zover die de duur van maximaal twaalf maanden niet overschrijdt.<br>
 <br>
