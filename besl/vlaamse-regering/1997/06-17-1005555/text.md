@@ -1256,120 +1256,7 @@ De omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen va
 
 ### ART 20septies.
 
-Ter uitvoering van artikel 130, §2, vijfde lid, van het decreet kunnen de vacante lestijden, vermeld in artikel 130, §2, tweede lid, van het decreet, en ter uitvoering van artikel 153viciessexies, vierde lid, van het decreet kunnen de niet-vacante lestijden, vermeld in artikel 153viciessexies, eerste lid, van het decreet, in het gewoon basisonderwijs worden omgezet in punten, na omzetting conform de volgende tabel:
-<table border="1">
-	<tbody>
-		<tr>
-			<td>lestijden</td>
-			<td>punten</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>7</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>11</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>14</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>18</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>21</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>25</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>28</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>32</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>35</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>39</td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td>43</td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td>46</td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td>50</td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td>53</td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td>57</td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td>60</td>
-		</tr>
-		<tr>
-			<td>19</td>
-			<td>64</td>
-		</tr>
-		<tr>
-			<td>20</td>
-			<td>67</td>
-		</tr>
-		<tr>
-			<td>21</td>
-			<td>71</td>
-		</tr>
-		<tr>
-			<td>22</td>
-			<td>74</td>
-		</tr>
-		<tr>
-			<td>23</td>
-			<td>78</td>
-		</tr>
-		<tr>
-			<td>24</td>
-			<td>81</td>
-		</tr>
-		<tr>
-			<td>25</td>
-			<td>85</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-Uit de punten die conform het eerste lid worden verkregen, kunnen de volgende ambten worden ingericht:<br>
-1° het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel;<br>
-2° het ambt van ICT-coördinator uit de categorie beleids- en ondersteunend personeel;<br>
-3° het ambt van administratief medewerker uit de categorie beleids- en ondersteunend personeel;<br>
-4° vanaf 1 januari 2022 het ambt van beleidsondersteuner uit de categorie beleids- en ondersteunend personeel;<br>
-5° vanaf 1 september 2023 het ambt van adjunct-directeur uit de categorie beleids- en ondersteunend personeel.<br>
-<br>
-De punten worden omgerekend naar gefinancierde of gesubsidieerde betrekkingen van het beleids- en ondersteund personeel conform artikel 4quater, 4quinquies, 4sexies en 4novies van het besluit van de Vlaamse regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs.
+...
 
 ## ONDERAFDELING 2 AANVULLENDE LESTIJDEN VOOR DE OPVANG VAN ANDERSTALIGE NIEUWKOMERS
 
@@ -1452,7 +1339,7 @@ De lestijden worden op de volgende wijze omgerekend naar de gefinancierde of ges
 
 ### ART 23undecies.
 
-Een school kan tijdens de schooljaren 2023-2024 en 2024-2025 lestijden aanwenden om een gastleraar in te zetten als vermeld in artikel 141, §4, van het decreet, conform de volgende voorwaarden:<br>
+Een school kan tijdens de schooljaren 2025-2026 tot en met 2029-2030 lestijden aanwenden om een gastleraar in te zetten als vermeld in artikel 141, §4, van het decreet, conform de volgende voorwaarden:<br>
 1°&nbsp;&nbsp; &nbsp;als de school lestijden aanwendt om een gastleraar in te zetten, bezorgt de school de volgende gegevens aan het Agentschap voor Onderwijsdiensten:<br>
 a)&nbsp;&nbsp; &nbsp;het aantal lestijden van de wekelijkse lesopdracht waarvoor ze de voormelde lestijden wil aanwenden;&nbsp;<br>
 b)&nbsp;&nbsp; &nbsp;de periode van aanwending van de voormelde lestijden;<br>
