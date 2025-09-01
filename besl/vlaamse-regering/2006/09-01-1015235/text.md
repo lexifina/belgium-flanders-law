@@ -63,11 +63,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### Bijlage IX
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_2.pdf#page=43" title=" bijlage IX" target="_blank" class="pdf">bijlage IX</a>
+...
 
 ### Bijlage X
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_2.pdf#page=59" title=" bijlage X" target="_blank" class="pdf">bijlage X</a>
+...
 
 ### Bijlage XI
 
