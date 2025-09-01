@@ -274,7 +274,7 @@ a) ...;<br>
 b) ...;<br>
 c) ...;<br>
 d) ...;<br>
-e) de eindtermen derde leerjaar derde graad bso en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
+e) ...;<br>
 f) de eindtermen voor de aanvullende algemene vorming voor het volwassenenonderwijs en één of meer erkende beroepskwalificaties al dan niet aangevuld met één of meer deelkwalificaties;<br>
 g) ...;<br>
 h) ...<br>
