@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040946,
+  "title": "Decreet van 2025-06-20 tot wijziging van artikel 115/8 van de Codex Secundair Onderwijs van 17 december 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040946/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "417347c312dd0e29a49a8f65b01173459848122f8dba6c03869fa2019b1e6f9c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040946&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-06-20",
+  "gazette": "2025-06-30",
+  "numac": 2025004802,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
