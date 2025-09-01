@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041363,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-12 tot vaststelling van de regels om extra ICT-middelen in 2025 toe te kennen in het kader van het Digiplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041363/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "b36371a13fbc2f5fa6a5444b685d59679e676681ad8308554c38dfc2224a5c21",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041363&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-09-12",
+  "gazette": "2025-10-20",
+  "numac": 2025007743,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
