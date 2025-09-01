@@ -52,7 +52,7 @@ Dit besluit is van toepassing op:<br>
 
 ### ART 3.
 
-§1. Conform artikel 3 van het besluit van 15 juli 2022 kunnen schoolbesturen van 1 september 2023 tot en met 31 augustus 2025 in scholen van het basisonderwijs en in scholen van het secundair onderwijs tijdelijke projecten organiseren die, met het oog op een al dan niet organieke implementatie, leiden tot het verzamelen van gegevens die toelaten om beleidsconclusies te trekken over de volgende elementen:<br>
+§1. Conform artikel 3 van het besluit van 15 juli 2022 kunnen schoolbesturen van 1 september 2023 tot en met 31 augustus 2026 in scholen van het basisonderwijs en in scholen van het secundair onderwijs tijdelijke projecten organiseren die, met het oog op een al dan niet organieke implementatie, leiden tot het verzamelen van gegevens die toelaten om beleidsconclusies te trekken over de volgende elementen:<br>
 1° het lerarentekort terugdringen;&nbsp;<br>
 2° het beroep van leraar herwaarderen.<br>
 <br>
@@ -115,7 +115,7 @@ Een overzicht van de tijdelijke projecten, vermeld in het eerste lid, is als bij
 
 ### ART 7.
 
-§1. Voor de tijdelijke projecten, vermeld in artikel 5, eerste lid, 1° tot en met 10° en 12°, en voor de tijdelijke projecten, vermeld in artikel 6, eerste lid, 2° tot en met 5°, 7° tot en met 11° en 14° en 15°, gelden van 1 september 2023 tot en met 31 augustus 2025 de volgende afwijkingen van de regelgeving conform artikel 4 van het decreet van 9 december 2005:<br>
+§1. Voor de tijdelijke projecten, vermeld in artikel 5, eerste lid, 1° tot en met 10° en 12°, en voor de tijdelijke projecten, vermeld in artikel 6, eerste lid, 2° tot en met 5°, 7° tot en met 11° en 14° en 15°, gelden van 1 september 2023 tot en met 31 augustus 2026 de volgende afwijkingen van de regelgeving conform artikel 4 van het decreet van 9 december 2005:<br>
 1° afwijkingen van het decreet basisonderwijs van 25 februari 1997:<br>
 &nbsp; a) in afwijking van artikel 41 van het decreet basisonderwijs van 25 februari 1997 kan een school wekelijks één lestijd van de twee lestijden onderwijs in de erkende godsdiensten en in de zedenleer die op die godsdiensten berust, en in de niet-confessionele zedenleer een andere aanwending geven;<br>
 &nbsp; b) in afwijking van artikel 130, §2, tweede en derde lid, van het decreet basisonderwijs van 25 februari 1997 kan een school bij een vastgesteld lerarentekort vanaf 1 september van het lopende schooljaar meer dan 20% van de lestijden die aan de school zijn toegekend, omzetten in punten voor de aanwending ervan in ambten van het beleids- en ondersteunend personeel of in uren voor de aanwending ervan in ambten van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel;<br>
@@ -243,15 +243,15 @@ Het expertenpanel is samengesteld uit al de volgende leden:<br>
 <br>
 De schoolbesturen en scholen die deelnemen aan de tijdelijke projecten, vermeld in artikel 5 en 6, verlenen hun medewerking aan de werkzaamheden, al dan niet ter plaatse, van het expertenpanel.<br>
 <br>
-De opvolging door het expertenpanel mondt uit in een eindevaluatie van de tijdelijke projecten, vermeld in artikel 5 en 6, in het schooljaar 2024-2025. De voormelde eindevaluatie resulteert in een rapport met beleidsbeslissingen over de wenselijkheid, de haalbaarheid en de budgettaire inpasbaarheid van wijzigingen in de geldende wetgeving en de regelgeving in het kader van de knelpunten, vermeld in artikel 3, §2, tweede lid. Dat rapport wordt aan de Vlaamse Regering bezorgd.
+De opvolging door het expertenpanel mondt uit in een eindevaluatie van de tijdelijke projecten, vermeld in artikel 5 en 6, in het schooljaar 2025-2026. De voormelde eindevaluatie resulteert in een rapport met beleidsbeslissingen over de wenselijkheid, de haalbaarheid en de budgettaire inpasbaarheid van wijzigingen in de geldende wetgeving en de regelgeving in het kader van de knelpunten, vermeld in artikel 3, §2, tweede lid. Dat rapport wordt aan de Vlaamse Regering bezorgd.
 
 ## Hoofdstuk 5. Slotbepalingen
 
 ### ART 11.
 
-Artikel 1 tot en met 6 en artikel 9 tot en met 10 van dit besluit hebben uitwerking met ingang van 1 september 2022 en treden buiten werking op 1 september 2025.<br>
+Artikel 1 tot en met 6 en artikel 9 tot en met 10 van dit besluit hebben uitwerking met ingang van 1 september 2022 en treden buiten werking op 1 september 2026.<br>
 <br>
-Artikel 7 en 8 treden in werking op de dag van de bekrachtiging van dit besluit door de Vlaamse Regering volgend op de stemming ervan in het Vlaams parlement en treedt buiten werking op 1 september 2025.<br>
+Artikel 7 en 8 treden in werking op de dag van de bekrachtiging van dit besluit door de Vlaamse Regering volgend op de stemming ervan in het Vlaams parlement en treedt buiten werking op 1 september 2026.<br>
 &nbsp;
 
 ### ART 12.
