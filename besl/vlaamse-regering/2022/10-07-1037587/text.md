@@ -35,7 +35,7 @@ In dit besluit wordt verstaan onder:<br>
 
 Ter uitvoering van artikel 62, §1, 3°, en artikel 63, §1quater, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs organiseren de NT2-centra een NT2-test, die bestaat uit een gestandaardiseerde NT2-test en trajectevaluatie.&nbsp;<br>
 <br>
-Rekening houdend met het opleidingsprofiel van de NT2-opleiding waarvoor de cursist een certificaat wil behalen, legt de cursist een NT2-test af om aan te tonen dat hij het vereiste taalvaardigheidsniveau verworven heeft. &nbsp;De cursist die slaagt voor elk &nbsp;onderdeel van de NT2-test, vermeld in artikel 2, 29°bis van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ontvangt een certificaat. Per onderdeel van de NT2-test telt het resultaat van de gestandaardiseerde NT2-test &nbsp;mee voor 60% van het totaalresultaat van dat onderdeel.
+Rekening houdend met het opleidingsprofiel van de NT2-opleiding waarvoor de cursist een certificaat wil behalen, legt de cursist een NT2-test af om aan te tonen dat hij het vereiste taalvaardigheidsniveau verworven heeft. &nbsp;De cursist die slaagt voor elk &nbsp;onderdeel van de NT2-test, vermeld in artikel 2, 29°bis van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ontvangt een certificaat. Per onderdeel van de NT2-test telt het resultaat van de gestandaardiseerde NT2-test &nbsp;mee voor 80% van het totaalresultaat van dat onderdeel.
 
 ## Hoofdstuk 2. Ontwikkeling van de gestandaardiseerde NT2-test
 
@@ -90,10 +90,10 @@ Als de cursist niet akkoord gaat met de resultaten van de NT2-test, kan de cursi
 
 ### ART 8.
 
-In afwijking van artikel 2, eerste lid, organiseren de NT2-centra tijdens de schooljaren 2023-2024 en 2024-2025 een NT2-test die bestaat uit minstens een gestandaardiseerde NT2-test voor de onderdelen lezen en schrijven en een trajectevaluatie voor alle onderdelen.<br>
+In afwijking van artikel 2, eerste lid, organiseren de NT2-centra tijdens de schooljaren 2023-2024 tot en met 2025-2026 een NT2-test die bestaat uit minstens een gestandaardiseerde NT2-test voor de onderdelen lezen en schrijven en een trajectevaluatie voor alle onderdelen.<br>
 <br>
-In afwijking van artikel 2, tweede lid, voldoet de cursist aan al de volgende voorwaarden om tijdens de schooljaren 2023-2024 en 2024-2025 te slagen voor de NT2-test:<br>
-1° slagen voor de onderdelen lezen en schrijven, waarbij het resultaat op de gestandaardiseerde NT2-test meetelt voor 60% van het totaalresultaat voor die onderdelen;<br>
+In afwijking van artikel 2, tweede lid, voldoet de cursist aan al de volgende voorwaarden om tijdens de schooljaren 2023-2024 tot en met 2025-2026 te slagen voor de NT2-test:<br>
+1° slagen voor de onderdelen lezen en schrijven, waarbij het resultaat op de gestandaardiseerde NT2-test meetelt voor 80% van het totaalresultaat voor die onderdelen;<br>
 2° slagen voor de onderdelen spreken en luisteren door te slagen voor de trajectevaluatie.
 
 ### ART 9.
