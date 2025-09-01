@@ -6,3 +6,7 @@ In artikel 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 <br>
 “In afwijking van het eerste lid, gelden voor een directeur van een ziekenhuisschool, als vermeld in artikel 3, 47°/1 van de Codex Secundair Onderwijs van 17 december 2010, de bekwaamheidsbewijzen die gelden voor het ambt van directeur in het buitengewoon secundair onderwijs van een instelling met opleidingsvorm 4 met derde graad en andere opleidingsvormen.”<br>
 &nbsp;
+
+### ART 8.
+
+Artikel 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2012, wordt opgeheven.
