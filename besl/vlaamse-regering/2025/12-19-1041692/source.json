@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041692,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-19 tot wijziging van diverse besluiten in het kader van het kwaliteitszorgstelsel in het hoger onderwijs, wat betreft de wijziging van de beoordelingskaders en de operationele kaders, voor de periode 2025 tot en met 2031",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041692/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "39bebfc357c79b84ddac962692b23f0a6dfce160e706182f6630e57a63f7e3a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041692&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-12-19",
+  "gazette": "2026-01-23",
+  "numac": 2026000153,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
