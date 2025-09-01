@@ -2,16 +2,16 @@
   "codex_id": 1041286,
   "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van verschillende besluiten van de Vlaamse Regering over het beleidsdomein onderwijs en vorming, wat betreft de structuur en organisatie van het leerplichtonderwijs, het deeltijds kunstonderwijs, het hoger onderwijs en de clb’s",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041286/VolledigDocument?datum=2025-08-01",
-  "source_sha256": "78dd4673082d435d9db296292fd27b905cfc064f3259868357e0c0d2e5f5dff7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041286/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "aec968bad429656a0c8fcb731bdac4435e893c68bb13bdc12518a01f4b91503e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041286&param=informatie",
-  "as_of": "2025-08-01",
+  "as_of": "2025-09-01",
   "made": "2025-09-05",
   "gazette": "2025-10-02",
   "numac": 2025007236,
   "document_start": "2025-10-01",
   "document_end": null,
-  "in_force": "2025-08-01",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2025-08-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-09-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }

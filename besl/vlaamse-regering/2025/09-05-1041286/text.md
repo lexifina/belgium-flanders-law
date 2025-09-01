@@ -30,6 +30,29 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 2.
+
+In artikel 14quater, eerste lid, van het besluit van de Vlaamse regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken, ingevoegd bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt de inleidende zin “Problematische afwezigheden zijn:” vervangen door de inleidende zin “Een afwezigheid van een leerling wordt beschouwd als een problematische afwezigheid als die leerling minimaal één lesuur van de halve lesdag problematisch afwezig is. &nbsp;Problematische afwezigheden zijn:”.
+
+### ART 6.
+
+In artikel 10quinquies, §1, van het besluit van de Vlaamse regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 21 maart 2003 en gewijzigd bij het besluit van de Vlaamse Regering van 13 september 2013, worden tussen de woorden “Alle afwezigheden” en de woorden “die niet vallen” de woorden “van een leerling die minimaal één lestijd van een halve lesdag bedragen en” ingevoegd.
+
+### ART 7.
+
+Aan artikel 10septies/2, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 september 2020, wordt de volgende zin toegevoegd:<br>
+<br>
+“Een afwezigheid van een leerling wordt beschouwd als een andere afwezigheid als die leerling minimaal één lestijd van de halve lesdag afwezig is zonder dat die afwezigheid door de directie als aanvaardbaar wordt geacht.”.
+
+### ART 11.
+
+Bijlage 1 bij het besluit van de Vlaamse regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan, vervangen bij het besluit van de Vlaamse Regering van 21 juni 2024, wordt vervangen door bijlage 1, die bij dit besluit is gevoegd.
+
+### ART 13.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 6 juli 2007 tot vaststelling van de indienings- en adviseringsprocedure voor voorstellen van nieuwe structuuronderdelen in het secundair onderwijs dat niet of niet automatisch tot een onderwijskwalificatie leidt, gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt punt 2° opnieuw opgenomen in de volgende lezing:<br>
+“2° in geval van een zevende leerjaar gericht op instroom arbeidsmarkt: de duurtijd;”.
+
 ### ART 14.
 
 In artikel 7/4, tweede lid, van het besluit van de Vlaamse Regering van 13 juli 2007 betreffende het onderwijs aan huis voor zieke kinderen en jongeren, ingevoegd bij het besluit van de Vlaamse Regering van 21 juni 2024, wordt de zinsnede “, vermeld in artikel 7 van het ministerieel besluit van 3 maart 2023” vervangen door de zinsnede “als vermeld in artikel 5 van het ministerieel besluit van 7 juni 2024”.
@@ -80,6 +103,20 @@ In artikel 6 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt
 
 In artikel 7 van hetzelfde besluit wordt het woord “busbegeleider” vervangen door de zinsnede ”busbegeleider/parkingwachter”.
 
+### ART 25.
+
+Artikel 1 van het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 7 juli 2017, 18 mei 2018 en 28 augustus 2020, wordt vervangen door wat volgt:<br>
+<br>
+“Artikel 1. In opleidingsvorm 1 kan voor een leerlingengroep, met permanente begeleiding van de leraar, of voor een individuele leerling een leerlingenstage of sociaal-maatschappelijke training worden georganiseerd.<br>
+<br>
+In opleidingsvorm 2, tweede fase, kan voor een leerlingengroep, met permanente begeleiding van de leraar, of voor een individuele leerling een leerlingenstage worden georganiseerd.<br>
+<br>
+In opleidingsvorm 3, laatste jaar opleidingsfase en de volledige kwalificatiefase, kan voor een leerlingengroep, met permanente begeleiding van de leraar, een leerlingenstage worden georganiseerd. In opleidingsvorm 3, kwalificatiefase, wordt, al dan niet over de jaren gespreid, voor elke individuele leerling een leerlingenstage van minimaal vijftien dagen georganiseerd.&nbsp;<br>
+<br>
+Het derde lid is niet van toepassing voor de duale opleidingen van opleidingsvorm 3.<br>
+<br>
+De duur van een leerlingenstage en van een sociaal-maatschappelijke training kan worden opgesplitst in periodes van halve dagen. De duur van een individuele leerlingenstage kan binnen dezelfde opleiding of fase per leerling verschillen als daar een gemotiveerde reden voor bestaat.”.
+
 ### ART 27.
 
 In bijlage 2 bij het besluit van de Vlaamse Regering van 4 mei 2018 betreffende curriculumdossiers en leerplannen in het onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 2 september 2022, worden de volgende wijzigingen aangebracht:<br>
@@ -106,6 +143,126 @@ b) cesuurdoelen - specifieke eindtermen;<br>
 c) doelen die leiden tot een of meer erkende beroepskwalificaties;<br>
 d) differentiële doelen;&nbsp;<br>
 e) doelen die zijn afgeleid van eindtermen of specifieke eindtermen.”.&nbsp;
+
+### ART 30.
+
+In artikel 8, §3, van het besluit van de Vlaamse Regering van 1 juni 2018 tot operationalisering van de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, gewijzigd bij het besluit van de Vlaamse Regering van 5 april 2019, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid worden de woorden “Leerplichtigen in huisonderwijs” vervangen door de woorden “Leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs”;<br>
+2° in het derde en het vierde lid worden de woorden “Leerplichtigen in huisonderwijs” vervangen door de woorden “leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs”.
+
+### ART 31.
+
+In artikel 10 , §2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 mei 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden “de organisator van huisonderwijs voor leerplichtigen” vervangen door de woorden “de organisator van huisonderwijs voor leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs” en worden de woorden “de leerlingen in huisonderwijs voor wie een verklaring over huisonderwijs is ingediend” vervangen door de woorden “de leerplichtigen in huisonderwijs met een verklaring van rechten en plichten inzake huisonderwijs”;<br>
+2° in het derde lid worden de woorden “de organisator van huisonderwijs” vervangen door de woorden “de organisator van huisonderwijs voor leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs”.
+
+### ART 32.
+
+In artikel 17 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 3 juni 2022, worden de woorden “leerplichtigen in huisonderwijs” vervangen door de woorden “leerplichtigen met een verklaring van rechten en plichten inzake huisonderwijs”.
+
+### ART 33.
+
+In artikel 24/1, §1, 8°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 april 2019, wordt het woord “verklaring” vervangen door de woorden “verklaring van rechten en plichten inzake huisonderwijs”.
+
+### ART 35.
+
+Artikel 27 van hetzelfde besluit wordt opgeheven.&nbsp;
+
+### ART 37.
+
+Aan artikel 10, eerste lid, van het besluit van de Vlaamse Regering van 15 juli 2022 over de organisatie van het secundair onderwijs, wat leerlingen betreft, gewijzigd bij de besluiten van de Vlaamse Regering van 5 mei 2023 en 22 september 2023, wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+“4° uiterlijk aan het einde van de screening, vermeld in artikel 357/47 van de Codex Secundair Onderwijs van 17 december 2010, in een aanloopstructuuronderdeel.”.
+
+### ART 38.
+
+In artikel 28, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 22 september 2023, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2023-2024” opgeheven.
+
+### ART 39.
+
+In artikel 29, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 22 september 2023, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2024-2025” opgeheven.
+
+### ART 40.
+
+In artikel 30, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 22 september 2023, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2024-2025” opgeheven.
+
+### ART 41.
+
+In artikel 31 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 22 september 2023, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid, 3°, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2023-2024” opgeheven;<br>
+2° in het eerste lid, 4°, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2024-2025” opgeheven;<br>
+3° in het tweede lid, 3°, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2024-2025” vervangen door de zinsnede “, dat is behaald”;<br>
+4° in het tweede lid, 4°, wordt de zinsnede “, dat is uitgereikt tot en met het schooljaar 2024-2025” vervangen door de zinsnede “, dat is behaald”.
+
+### ART 42.
+
+In artikel 43, tweede lid, van hetzelfde besluit worden de woorden “het structuuronderdeel” vervangen door de zinsnede “hetzij de graad, hetzij het structuuronderdeel als het een zevende leerjaar betreft”.
+
+### ART 43.
+
+In artikel 47, tweede lid, 1°, van hetzelfde besluit worden de woorden “de duur van het structuuronderdeel” vervangen door de zinsnede “de duur van hetzij de graad, hetzij het structuuronderdeel als het een zevende leerjaar betreft”.
+
+### ART 44.
+
+In artikel 49, 1°, van hetzelfde besluit worden de woorden “het structuuronderdeel” vervangen door de woorden “de graad”.
+
+### ART 45.
+
+In artikel 50, 1°, van hetzelfde besluit worden de woorden “het structuuronderdeel” vervangen door de zinsnede “hetzij de graad, hetzij het structuuronderdeel als het een zevende leerjaar betreft”.<br>
+&nbsp;
+
+### ART 46.
+
+In artikel 51, 1°, van hetzelfde besluit worden de woorden “het structuuronderdeel” vervangen door de woorden “de graad”.
+
+### ART 47.
+
+In artikel 52, 1°, van hetzelfde besluit worden de woorden “het structuuronderdeel” vervangen door de zinsnede “hetzij de graad, hetzij het structuuronderdeel als het een zevende leerjaar betreft”.
+
+### ART 49.
+
+In artikel 62, eerste lid, 1°, van hetzelfde besluit wordt de zinsnede “, enkel in de tweede en de derde graad,” vervangen door de woorden “in alle structuuronderdelen”.
+
+### ART 50.
+
+In artikel 71, eerste lid, 3°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 21 juni 2024, worden de volgende wijzigingen aangebracht:<br>
+1° punt b) wordt vervangen door wat volgt:<br>
+“b) als de leerling in het eerste leerjaar of het tweede leerjaar van een structuuronderdeel van de derde graad van de arbeidsmarktfinaliteit – bso de doelen van een structuuronderdeel van de tweede graad van de arbeidsmarktfinaliteit – bso dat leidt tot een onderwijskwalificatie niveau 2, of een structuuronderdeel van het buitengewoon secundair onderwijs, opleidingsvorm 3, dat leidt tot een onderwijskwalificatie niveau 2, die zijn vastgelegd door of krachtens decreet- of regelgeving en die nog niet zijn behaald, in voldoende mate behaalt;”;<br>
+2° punt c) wordt opgeheven.
+
+### ART 51.
+
+In artikel 73 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 22 september 2023, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° aan het eerste lid wordt een punt 4° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“4° bewijs van slagen voor de basisvorming: als de leerling in een structuuronderdeel van de derde graad van de doorstroomfinaliteit – aso, kso of tso, dubbele finaliteit – kso of tso, of arbeidsmarktfinaliteit – bso geslaagd is voor de basisvorming.”;<br>
+2° tussen het eerste en tweede lid wordt een lid ingevoegd, dat luidt als volgt:&nbsp;<br>
+“In het eerste lid, 4°, wordt verstaan onder basisvorming: het onderdeel van de vorming dat gemeenschappelijk is voor alle studierichtingen van de derde graad doorstroomfinaliteit – aso, kso of tso, dubbele finaliteit – kso of tso, respectievelijk arbeidsmarktfinaliteit – bso.”;<br>
+3° in het bestaande derde lid, dat het vierde lid wordt, worden de woorden “het tweede lid” vervangen door de woorden “het derde lid”;<br>
+4° in het bestaande vierde lid, dat het vijfde lid wordt, worden tussen de woorden “bewijsvoering van” en de woorden “behaalde beroepskwalificaties” de woorden “het slagen voor de basisvorming en de” ingevoegd.
+
+### ART 52.
+
+In artikel 75, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 mei 2023, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in de eerste zin wordt de zinsnede “, 1°,” opgeheven;&nbsp;<br>
+2° tussen de zinsnede “een getuigschrift van het buitengewoon secundair onderwijs van opleidingsvorm 3” en de zinsnede “gegeven worden,” wordt de zinsnede “of een getuigschrift, onderwijskwalificatie niveau 2” ingevoegd.&nbsp;
+
+### ART 54.
+
+Aan artikel 84 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 22 september 2023, wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+“6° ijsschaatsen (discipline kunstschaatsen).”.
+
+### ART 55.
+
+In artikel 89 van hetzelfde besluit wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“Van de evaluatiebeslissingen van de klassenraad wordt een proces-verbaal opgemaakt en worden er notulen gemaakt die een synthese bevatten van de elementen die tot de beslissingen hebben geleid, waaronder eventueel het resultaat van een stemming. De voorzitter en drie leden van de klassenraad ondertekenen het proces-verbaal en de notulen. De processen-verbaal worden gedurende vijftig jaar bewaard en de notulen worden gedurende vijf jaar bewaard.”.
+
+### ART 59.
+
+In artikel 41 van het besluit van de Vlaamse Regering van 14 juli 2023 over de onderwijsinternaten, gewijzigd bij het besluit van de Vlaamse Regering van 21 juni 2024, worden tussen het tweede en het derde lid twee leden ingevoegd, die luiden als volgt:&nbsp;<br>
+<br>
+“Het bedrag, vermeld in het tweede lid, wordt vanaf schooljaar 2025-2026 gekoppeld aan de evolutie van de spilindex, waarbij het bedrag van 2024-2025 is berekend tegen de indexcoëfficiënt van 2,0807. &nbsp;Het bedrag van een schooljaar X/X+1 wordt telkens gekoppeld aan de indexcoëfficiënt van oktober X.<br>
+<br>
+In het derde lid wordt verstaan onder spilindex: het begrip spilindex als vermeld in artikel 2 van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.”.&nbsp;
 
 ### ART 60.
 
