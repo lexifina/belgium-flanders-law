@@ -2,16 +2,16 @@
   "codex_id": 1038254,
   "title": "Besluit van de Vlaamse Regering van 2023-03-24 tot goedkeuring van de programmatie van niet-duale structuuronderdelen in opleidingsvorm 3 in het buitengewoon secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038254/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "cdc5201321e45aa6d37bac0f53fb7bdd88a1651d0248c443b0ddb5431bdbdba7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038254/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "529c86d1071b1e32f5c9f5dfafa3fa1d2044b4d7cf87f33041128b9e9a2b71f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038254&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2025-09-01",
   "made": "2023-03-24",
   "gazette": "2023-07-28",
   "numac": 2023041659,
   "document_start": "2023-08-07",
   "document_end": null,
-  "in_force": "2023-09-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }

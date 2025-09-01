@@ -309,6 +309,160 @@ Verheydenstraat 39<br>
 Kwalificatiefase Huishoudhulp zorg<br>
 Domein: Maatschappij en Welzijn
 
+### ART 2.
+
+Aan de volgende onderwijsinstellingen wordt, met toepassing van artikel 289, §3 van de Codex Secundair Onderwijs van 17 december 2010, voor het schooljaar 2025-2026 toestemming verleend om de volgende programmatie aan te bieden:<br>
+1° Stedelijke Buso De Vest<br>
+Vestenstraat 14<br>
+1800 VILVOORDE<br>
+Integratiefase Polyvalent administratief ondersteuner<br>
+Domein: Economie en organisatie<br>
+2° Stedelijke Buso De Vest<br>
+Vestenstraat 14<br>
+1800 VILVOORDE<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+3° Buso Maria Assumpta<br>
+Heiveld 15<br>
+1745 OPWIJK<br>
+Integratiefase Medewerker textielverzorging<br>
+Domein: Maatschappij en Welzijn<br>
+4° Buso Sint-Janshof<br>
+Nekkerspoelstraat 358B<br>
+2800 MECHELEN<br>
+Integratiefase Samensteller<br>
+Domein: STEM<br>
+5° Buso Sint-Janshof<br>
+Nekkerspoelstraat 358B<br>
+2800 MECHELEN<br>
+Integratiefase Medewerker kamerdienst<br>
+Domein: Voeding en Horeca<br>
+6° Buso Sint-Janshof<br>
+Nekkerspoelstraat 358B<br>
+2800 MECHELEN<br>
+Integratiefase Medewerker groen- en tuinbeheer<br>
+Domein: Land- en Tuinbouw<br>
+7° Buso Sint-Janshof<br>
+Nekkerspoelstraat 358B<br>
+2800 MECHELEN<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+8° Buso Sint-Barbara<br>
+Mijnschoolstraat 63<br>
+3580 BERINGEN<br>
+Integratiefase Verpakker<br>
+Domein: Economie en organisatie<br>
+9° Buso Sint-Barbara<br>
+Mijnschoolstraat 63<br>
+3580 BERINGEN<br>
+Integratiefase Schoonmaker<br>
+Domein: Maatschappij en Welzijn<br>
+10° Buso Sint-Barbara<br>
+Mijnschoolstraat 63<br>
+3580 BERINGEN<br>
+Integratiefase Paletten- en krattenmaker<br>
+Domein: STEM<br>
+11° Buso Sint-Barbara<br>
+Mijnschoolstraat 63<br>
+3580 BERINGEN<br>
+Integratiefase Medewerker spoelkeuken<br>
+Domein: Voeding en Horeca<br>
+12° Buso Sint-Barbara<br>
+Mijnschoolstraat 63<br>
+3580 BERINGEN<br>
+Integratiefase Medewerker kamerdienst<br>
+Domein: Voeding en Horeca<br>
+13° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Winkelmedewerker<br>
+Domein: Economie en organisatie<br>
+14° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Plaatser binnenschrijnwerk<br>
+Domein: STEM<br>
+15° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Medewerker spoelkeuken<br>
+Domein: Voeding en Horeca<br>
+16° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Medewerker kamerdienst<br>
+Domein: Voeding en Horeca<br>
+17° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Medewerker fastfood<br>
+Domein: Voeding en Horeca<br>
+18° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Magazijnmedewerker<br>
+Domein: Economie en organisatie<br>
+19° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+20° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Fietshersteller<br>
+Domein: STEM<br>
+21° Buso Don Bosco<br>
+Bergemeersenstraat 106<br>
+9300 AALST<br>
+Integratiefase Bestuurder interne transportmiddelen<br>
+Domein: Economie en organisatie<br>
+22° Buso Sint-Franciscusschool<br>
+Penitentenlaan 1<br>
+9620 ZOTTEGEM<br>
+Integratiefase Medewerker ruwbouw<br>
+Domein: STEM<br>
+23° Buso Sint-Franciscusschool<br>
+Penitentenlaan 1<br>
+9620 ZOTTEGEM<br>
+Integratiefase Medewerker kamerdienst<br>
+Domein: Voeding en Horeca<br>
+24° Buso Sint-Franciscusschool<br>
+Penitentenlaan 1<br>
+9620 ZOTTEGEM<br>
+Integratiefase Medewerker fastfood<br>
+Domein: Voeding en Horeca<br>
+25° BuSO Bernardusscholen 8<br>
+Vlaanderenstraat 6<br>
+9700 OUDENAARDE<br>
+Integratiefase Schoonmaker<br>
+Domein: Maatschappij en Welzijn<br>
+26° BuSO Bernardusscholen 8<br>
+Vlaanderenstraat 6<br>
+9700 OUDENAARDE<br>
+Integratiefase Medewerker spoelkeuken<br>
+Domein: Voeding en Horeca<br>
+27° BuSO Bernardusscholen 8<br>
+Vlaanderenstraat 6<br>
+9700 OUDENAARDE<br>
+Integratiefase Logistiek assistent in de zorg<br>
+Domein: Maatschappij en Welzijn<br>
+28° BuSO Bernardusscholen 8<br>
+Vlaanderenstraat 6<br>
+9700 OUDENAARDE<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn<br>
+29° BuSO Cardijnschool - Anderlecht<br>
+Verheydenstraat 39<br>
+1070 ANDERLECHT<br>
+Integratiefase Schoonmaker<br>
+Domein: Maatschappij en Welzijn<br>
+30° BuSO Cardijnschool - Anderlecht<br>
+Verheydenstraat 39<br>
+1070 ANDERLECHT<br>
+Integratiefase Huishoudhulp zorg<br>
+Domein: Maatschappij en Welzijn
+
 ### ART 3.
 
 Artikel 1 van dit besluit treedt in werking op 1 september 2023.
