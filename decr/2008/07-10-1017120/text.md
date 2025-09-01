@@ -905,7 +905,7 @@ c) de overgedragen uren-leraar van een bepaald schooljaar kunnen enkel in het da
 d) overdracht is alleen mogelijk als het centrumbestuur in kwestie op erewoord verklaart dat het tijdens dat schooljaar in de onderwijsinstelling waarvan het centrum in kwestie deel uitmaakt, of in het autonome centrum zelf, overeenkomstig de geldende reglementering, geen nieuwe of aanvullende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel moet uitspreken. De niet-naleving van die bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid;<br>
 e) in de overgedragen uren-leraar kunnen geen personeelsleden vastbenoemd worden. Het centrumbestuur moet een verklaring op erewoord afleggen dat in de vermelde uren-leraar geen personeelsleden vastbenoemd worden. De niet-naleving van die bepaling heeft tot gevolg dat de vaste benoeming geen uitwerking heeft ten aanzien van de overheid. In afwijking van deze bepalingen is vaste benoeming mogelijk op 1 januari 2021.<br>
 <br>
-§ 2. Bij een tekort aan onderwijzend personeel kan het centrumbestuur tijdens de schooljaren 2022-2023, 2023-2024 en 2024-2025 maximaal 20% van de aan het centrum toegekende vacante uren-leraar, vermeld in artikel 89, § 1, omzetten in punten voor de aanwending in ambten van het ondersteunend personeel.<br>
+§ 2. Bij een tekort aan onderwijzend personeel kan het centrumbestuur tijdens de schooljaren 2025-2026 tot en met 2029-2030 maximaal 20% van de aan het centrum toegekende vacante uren-leraar, vermeld in artikel 89, § 1, omzetten in punten voor de aanwending in ambten van het ondersteunend personeel.<br>
 <br>
 De omzettingen, vermeld in het eerste lid, kunnen telkens gebeuren vanaf 1 oktober van het lopende schooljaar in kwestie en gelden voor de duur van het lopende schooljaar. In afwijking hiervan eindigt een omzetting van uren-leraar als het personeelslid dat aangesteld is in een betrekking die via voormelde omzetting werd opgericht in een ambt van het ondersteunend personeel, tijdens het schooljaar vrijwillig ontslag neemt volgens artikel 25 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of volgens artikel 26 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs. In dit geval eindigt de omzetting voor het overeenkomend deel van de uren-leraar vanaf het ogenblik dat het ontslag ingaat.<br>
 <br>
@@ -989,7 +989,7 @@ In het zesde lid wordt verstaan onder klassenraad: de begeleidende klassenraad o
 <br>
 §5. De Vlaamse Regering kan subsidies toekennen aan een externe organisatie of bedrijf om in het kader van het lerarentekort tussen centrumbesturen en ondernemingen of organisaties een bemiddelende of coachende rol op te nemen.<br>
 <br>
-§6. De maatregelen, vermeld in dit artikel, worden geëvalueerd tijdens het schooljaar 2024-2025.<br>
+§6. De maatregelen, vermeld in dit artikel, worden geëvalueerd tijdens het schooljaar 2025-2026 en 2029-2030.<br>
 &nbsp;
 
 ### ART. 91.
