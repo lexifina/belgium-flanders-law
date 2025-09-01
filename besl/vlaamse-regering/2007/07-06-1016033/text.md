@@ -15,7 +15,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 juli 1998 houdende d
 Het dossier met het voorstel bevat ten minste de volgende elementen :<br>
 1° de benaming van het structuuronderdeel;<br>
 1° /1 de aanvragers en de actoren die bij de opmaak betrokken zijn;<br>
-2° ...;<br>
+2° in geval van een zevende leerjaar gericht op instroom arbeidsmarkt: de duurtijd;<br>
 3° de beschrijving van de plaats in de opleidingsstructuur waar het structuuronderdeel wordt georganiseerd en een inschatting van de wenselijkheid van een aanbodbeperking;<br>
 4° de toelichting en motivering van het voorstel, geïnspireerd op en gestructureerd volgens de criteria die bij de adviesformulering worden gehanteerd, vermeld in artikel 5.
 
