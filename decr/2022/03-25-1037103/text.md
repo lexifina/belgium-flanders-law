@@ -296,11 +296,11 @@ Als de partijen tot een verzoening komen, wordt de uitvoering van de overeenkoms
 <br>
 Als de partijen niet tot een verzoening komen, kan de partij die de wens tot beëindiging heeft geuit, de overeenkomst ook daadwerkelijk beëindigen. De beëindiging gaat in de dag na de dag waarop de andere partij de schriftelijke beëindiging heeft ontvangen.<br>
 <br>
-§ 3. De onderneming of de cursist of zijn wettelijke vertegenwoordiger, naargelang het geval, kan beroep aantekenen bij het Vlaams Partnerschap Duaal Leren als de onderneming of de cursist of zijn wettelijke vertegenwoordiger meent dat de ingeroepen reden de beëindiging van de uitvoering van de overeenkomst niet wettigt.<br>
+§ 3. De onderneming of de cursist of zijn wettelijke vertegenwoordiger, naargelang het geval, kan beroep aantekenen bij het Vlaams Partnerschap Duaal Leren als hij van oordeel is dat de ingeroepen reden de beëindiging van de uitvoering van alternerende opleiding niet wettigt of als hij van oordeel is dat de overeenkomst niet conform paragraaf 2 of artikel 23 is beëindigd.<br>
 <br>
 De Vlaamse Regering bepaalt de procedure voor het beroep.<br>
 <br>
-Als het Vlaams Partnerschap Duaal Leren oordeelt dat de ingeroepen reden de beëindiging van de uitvoering van de overeenkomst door de onderneming niet wettigt, is aan de cursist die beroep heeft aangetekend, een schadevergoeding verschuldigd conform artikel 17, § 4.
+Als het Vlaams Partnerschap Duaal Leren oordeelt dat&nbsp;de ingeroepen reden de beëindiging van de uitvoering van de overeen-komst door de onderneming niet wettigt of als het oordeelt dat de overeenkomst niet conform paragraaf 2 of artikel 23 is beëindigd, is aan de cursist die beroep heeft aangetekend, een schadevergoeding verschuldigd conform artikel 17, § 4.
 
 ### ART 25.
 
