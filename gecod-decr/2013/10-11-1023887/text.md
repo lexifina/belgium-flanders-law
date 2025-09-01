@@ -621,8 +621,8 @@ De opdracht van het IJoS is het uitbouwen van een interdisciplinair en internati
 a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; opleidingen in het hoger beroepsonderwijs;<br>
 b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nieuwe bachelor- of masteropleidingen overeenkomstig artikel II.153, §3;<br>
 2°&nbsp;&nbsp; een oordeel uit te brengen over het aanbieden van een anderstalige initiële bachelor- of masteropleiding overeenkomstig artikel II.263;<br>
-3°&nbsp;&nbsp; een&nbsp;oordeel uit te brengen over een vrijstelling van een equivalentievoorwaarde voor een anderstalige initiële bachelor- of masteropleiding overeenkomstig artikel II.264;<br>
-4°&nbsp;&nbsp; een oordeel uit te brengen over een afwijking op de voorwaarde tot het aanbieden van een equivalente opleiding overeenkomstig artikel II.268;<br>
+3°&nbsp;&nbsp; ...;<br>
+4°&nbsp;&nbsp; ...;<br>
 5°&nbsp;&nbsp; ...;<br>
 6°&nbsp;&nbsp; ...;<br>
 7°&nbsp;&nbsp; ...;<br>
@@ -1199,18 +1199,86 @@ De onderstaande afkortingen zijn voor de volgende categorieën voorbehouden:<br>
 
 ### ART. II.78.
 
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§1. De Katholieke Universiteit   Leuven kan in het administratief arrondissement Leuven academisch gerichte   opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of   over de volgende studiegebieden of delen van studiegebieden:</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">1°&nbsp;&nbsp;   Wijsbegeerte en moraalwetenschappen, waarvoor de graden van bachelor en master   kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">2°&nbsp;&nbsp;   Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht, waarvoor de graden   van bachelor en master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">3°&nbsp;&nbsp;   Taal- en letterkunde, waarvoor de graden van bachelor en master kunnen worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">4°&nbsp;&nbsp;   Geschiedenis, waarvoor de graden van bachelor en master kunnen worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">5°&nbsp;&nbsp;   Archeologie en kunstwetenschappen, waarvoor de graden van bachelor en master   kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">6°&nbsp;&nbsp;   Rechten, notariaat en criminologische wetenschappen, waarvoor de graden van   bachelor en master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">7°&nbsp;&nbsp;   Psychologie en pedagogische wetenschappen, waarvoor de graden van bachelor en   master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">8°&nbsp;&nbsp;   Economische en toegepaste economische wetenschappen, waarvoor de graden van   bachelor en master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">9°&nbsp;&nbsp;   Politieke en sociale wetenschappen, waarvoor de graden van bachelor en master   kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">10°Sociale   gezondheidswetenschappen, waarvoor de graden van bachelor en master kunnen   worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">11°Bewegings-   en revalidatiewetenschappen, waarvoor de graden van bachelor en master kunnen   worden verleend; </P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">12°Wetenschappen,   waarvoor de graden van bachelor en master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">13°Toegepaste   wetenschappen, waarvoor de graden van bachelor en master kunnen worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">14°Toegepaste   biologische wetenschappen, waarvoor de graden van bachelor en master kunnen   worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">15°Geneeskunde,   waarvoor de graden van bachelor en master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">16°Tandheelkunde,   waarvoor de graden van bachelor en master kunnen worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">17°Farmaceutische   wetenschappen, waarvoor de graden van bachelor en master kunnen worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">18°Biomedische   wetenschappen, waarvoor de graden van bachelor en master kunnen worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-pagination: none; mso-list: l4 level1 lfo1; tab-stops: list 18.0pt; mso-layout-grid-align: none">19°Industriële   wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen   worden verleend.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§2. Op het grondgebied van de   stad Kortrijk kan de Katholieke Universiteit Leuven academisch gerichte   opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of   over de volgende studiegebieden of delen van studiegebieden:</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">1°&nbsp;&nbsp;   Taal- en letterkunde, waarvoor de graad van bachelor kan worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">2°&nbsp;&nbsp;   Geschiedenis, waarvoor de graad van bachelor kan worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">3°&nbsp;&nbsp;   Rechten, waarvoor de graad van bachelor kan worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">4°&nbsp;&nbsp;   Wetenschappen, waarvoor de graad van bachelor kan worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">5°&nbsp;&nbsp;   Geneeskunde, waarvoor de graad van bachelor kan worden verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">6°&nbsp;&nbsp;   Toegepaste economische wetenschappen, waarvoor de graad van bachelor kan worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">7°&nbsp;&nbsp;   Biomedische wetenschappen, waarvoor de graad van bachelor kan worden   verleend;</P>  <P class=MsoNormal   style="VERTICAL-ALIGN: baseline; MARGIN: 0cm 0cm 0pt 17.85pt; TEXT-INDENT: -17.85pt; mso-pagination: none; mso-list: l5 level1 lfo2; tab-stops: list 18.0pt; mso-layout-grid-align: none">8°&nbsp;&nbsp;   Onderwijskunde, waarvoor de graad van bachelor kan worden verleend.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. In de vestiging Brussel-Hoofdstad kan de   Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de   graden die daarop betrekking hebben, verlenen in of over de volgende   studiegebieden of delen van studiegebieden: </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">1°&nbsp;&nbsp;   Architectuur, waarvoor de graden van bachelor en master kunnen worden verleend;   </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">2°&nbsp;&nbsp;   Sociale gezondheidswetenschappen, waarvoor de graden van bachelor en master   kunnen worden verleend; </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">3°&nbsp;&nbsp;   Handelswetenschappen en bedrijfskunde, waarvoor de graden van bachelor en master   kunnen worden verleend; </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">4°&nbsp;&nbsp;   Toegepaste taalkunde, waarvoor de graden van bachelor en master kunnen worden   verleend;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">5°&nbsp;&nbsp;   Rechten, waarvoor de graden van bachelor en master kunnen worden verleend.   Daarbij kan de graad van master enkel en alleen verleend worden als het een   master-na-masteropleiding betreft;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">6°&nbsp;&nbsp;   Taal- en letterkunde, waarvoor de graad van bachelor kan worden verleend;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo3">7°&nbsp;&nbsp;   Economische en toegepaste economische wetenschappen, waarvoor de graad van   bachelor kan worden verleend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. In de vestiging Gent kan de Katholieke   UniversiteIt Leuven academisch gerichte opleidingen aanbieden en de graden die   daarop betrekking hebben, verlenen in of over de volgende studiegebieden of   delen van studiegebieden : </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l2 level1 lfo4">1°&nbsp;&nbsp;   Architectuur, waarvoor de graden van bachelor en master kunnen worden verleend;   </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l2 level1 lfo4">2°&nbsp;&nbsp;   Industriële wetenschappen en technologie, waarvoor de graden van bachelor en   master kunnen worden verleend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. ... </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. In de vestiging Geel kan de Katholieke   Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die   daarop betrekking hebben, verlenen in of over de volgende studiegebieden of   delen van studiegebIeden:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo5">1°&nbsp;&nbsp;   Biotechniek, waarvoor de graden van bachelor en master kunnen worden verleend;   </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo5">2°&nbsp;&nbsp;   Industriële wetenschappen en technologie, waarvoor de graden van bachelor en   master kunnen worden verleend.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§7. In de vestiging Diepenbeek kan de Katholieke   Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die   daarop betrekking hebben, verlenen in of over het studiegebied of delen van het   studiegebied Industriële wetenschappen en technologie, waarvoor de graden van   bachelor en master kunnen worden verleend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§8. In de vestiging Aalst kan de Katholieke   Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die   daarop betrekking hebben, verlenen in of over het studiegebied of delen van het   studiegebied Industriële wetenschappen en technologie, waarvoor de graden van   bachelor en master kunnen worden verleend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§9. In de vestiging Antwerpen kan de Katholieke   Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die   daarop betrekking hebben, verlenen in of over de volgende studiegebieden of   delen van studiegebieden: </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo6">1°&nbsp;&nbsp;   Handelswetenschappen en bedrijfskunde, waarvoor de graden van bachelor en master   kunnen worden verleend; </P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo6">2°&nbsp;&nbsp;   Toegepaste taalkunde, waarvoor de graden van bachelor en master kunnen worden   verleend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§10. In de vestiging Sint-Katelijne-Waver kan de   Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de   graden die daarop betrekking hebben, verlenen in of over het studiegebied of   delen van het studiegebied Industriële wetenschappen en technologie, waarvoor de   graden van bachelor en master kunnen worden verleend. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§11. In de vestiging Brugge kan de Katholieke   Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die   daarop betrekking hebben, verlenen in of over het studiegebied of delen van het   studiegebied Revalidatiewetenschappen, waarvoor de graad van bachelor kan worden   verleend.<BR><BR>In de vestiging Brugge kan de Katholieke Universiteit Leuven   academisch gerichte bacheloropleidingen aanbieden in of over het studiegebied of   delen van het studiegebied Industriële wetenschappen en technologie.<BR><BR>In   de vestiging Brugge kan de Katholieke Universiteit Leuven academisch gerichte   opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of   over het studiegebied of delen van het studiegebied Industriële wetenschappen en   technologie, waarvoor de graden van bachelor en master kunnen worden   verleend.</P>
+<p>§1. De Katholieke Universiteit Leuven kan in het administratief arrondissement Leuven academisch gerichte opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of over de volgende studiegebieden of delen van studiegebieden:<br>
+1°&nbsp;&nbsp; Wijsbegeerte en moraalwetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+2°&nbsp;&nbsp; Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+3°&nbsp;&nbsp; Taal- en letterkunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+4°&nbsp;&nbsp; Geschiedenis, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+5°&nbsp;&nbsp; Archeologie en kunstwetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+6°&nbsp;&nbsp; Rechten, notariaat en criminologische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+7°&nbsp;&nbsp; Psychologie en pedagogische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+8°&nbsp;&nbsp; Economische en toegepaste economische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+9°&nbsp;&nbsp; Politieke en sociale wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+10°Sociale gezondheidswetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+11°Bewegings- en revalidatiewetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+12°Wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+13°Toegepaste wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+14°Toegepaste biologische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+15°Geneeskunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+16°Tandheelkunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+17°Farmaceutische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+18°Biomedische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+19°Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§2. Op het grondgebied van de stad Kortrijk kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of over de volgende studiegebieden of delen van studiegebieden:<br>
+1°&nbsp;&nbsp; Taal- en letterkunde, waarvoor de graad van bachelor kan worden verleend;<br>
+2°&nbsp;&nbsp; Geschiedenis, waarvoor de graad van bachelor kan worden verleend;<br>
+3°&nbsp;&nbsp; Rechten, waarvoor de graad van bachelor kan worden verleend;<br>
+4°&nbsp;&nbsp; Wetenschappen, waarvoor de graad van bachelor kan worden verleend;<br>
+5°&nbsp;&nbsp; Geneeskunde, waarvoor de graad van bachelor kan worden verleend;<br>
+6°&nbsp;&nbsp; Toegepaste economische wetenschappen, waarvoor de graad van bachelor kan worden verleend;<br>
+7°&nbsp;&nbsp; Biomedische wetenschappen, waarvoor de graad van bachelor kan worden verleend;<br>
+8°&nbsp;&nbsp; Onderwijskunde, waarvoor de graad van bachelor kan worden verleend.<br>
+<br>
+Op het grondgebied van de stad Kortrijk kan de Katholieke Universiteit Leuven in het studiegebied Handelswetenschappen en bedrijfskunde de opleiding master in de handelswetenschappen aanbieden en de daarop betrekking hebbende graad van master verlenen.<br>
+<br>
+Voor de erkenning door de Vlaamse Regering van de opleiding, vermeld in het eerste lid, zijn de regels, vermeld in artikel II.153, §2 tot en met §6, niet van toepassing. De Katholieke Universiteit Leuven dient voor de opleiding, vermeld in het eerste lid, onmiddellijk een dossier in bij de accreditatieorganisatie.<br>
+<br>
+§3. In de vestiging Brussel-Hoofdstad kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over de volgende studiegebieden of delen van studiegebieden:<br>
+1°&nbsp;&nbsp; Architectuur, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+2°&nbsp;&nbsp; Sociale gezondheidswetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+3°&nbsp;&nbsp; Handelswetenschappen en bedrijfskunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+4°&nbsp;&nbsp; Toegepaste taalkunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+5°&nbsp;&nbsp; Rechten, waarvoor de graden van bachelor en master kunnen worden verleend. Daarbij kan de graad van master enkel en alleen verleend worden als het een master-na-masteropleiding betreft;<br>
+6°&nbsp;&nbsp; Taal- en letterkunde, waarvoor de graad van bachelor kan worden verleend;<br>
+7°&nbsp;&nbsp; Economische en toegepaste economische wetenschappen, waarvoor de graad van bachelor kan worden verleend.<br>
+<br>
+§4. In de vestiging Gent kan de Katholieke UniversiteIt Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over de volgende studiegebieden of delen van studiegebieden :<br>
+1°&nbsp;&nbsp; Architectuur, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+2°&nbsp;&nbsp; Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§5. ...<br>
+<br>
+§6. In de vestiging Geel kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over de volgende studiegebieden of delen van studiegebIeden:<br>
+1°&nbsp;&nbsp; Biotechniek, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+2°&nbsp;&nbsp; Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§7. In de vestiging Diepenbeek kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over het studiegebied of delen van het studiegebied Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§8. In de vestiging Aalst kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over het studiegebied of delen van het studiegebied Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§9. In de vestiging Antwerpen kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over de volgende studiegebieden of delen van studiegebieden:<br>
+1°&nbsp;&nbsp; Handelswetenschappen en bedrijfskunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
+2°&nbsp;&nbsp; Toegepaste taalkunde, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§10. In de vestiging Sint-Katelijne-Waver kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over het studiegebied of delen van het studiegebied Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.<br>
+<br>
+§11. In de vestiging Brugge kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over het studiegebied of delen van het studiegebied Revalidatiewetenschappen, waarvoor de graad van bachelor kan worden verleend.<br>
+<br>
+In de vestiging Brugge kan de Katholieke Universiteit Leuven academisch gerichte bacheloropleidingen aanbieden in of over het studiegebied of delen van het studiegebied Industriële wetenschappen en technologie.<br>
+<br>
+In de vestiging Brugge kan de Katholieke Universiteit Leuven academisch gerichte opleidingen aanbieden en de graden die daarop betrekking hebben, verlenen in of over het studiegebied of delen van het studiegebied Industriële wetenschappen en technologie, waarvoor de graden van bachelor en master kunnen worden verleend.</p>
 
 ### ART. II.79.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De transnationale Universiteit Limburg kan academisch gerichte opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of over de studiegebieden of delen van studiegebieden zoals bepaald in het verdrag tussen de Vlaamse Gemeenschap en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg, ondertekend te Maastricht op 18 januari 2001 en goedgekeurd bij het decreet van 13 juli 2001.<br>
+<p>§1. De transnationale Universiteit Limburg kan academisch gerichte opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of over de studiegebieden of delen van studiegebieden zoals bepaald in het verdrag tussen de Vlaamse Gemeenschap en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg, ondertekend te Maastricht op 18 januari 2001 en goedgekeurd bij het decreet van 13 juli 2001.<br>
 <br>
 Daarnaast kan de tUL een academisch gerichte opleiding aanbieden en de daarop betrekking hebbende graden van bachelor en master verlenen in het studiegebied Rechten.<br>
 <br>
 §2. De Universiteit Hasselt kan in het administratief arrondissement Hasselt academisch gerichte opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in of over de volgende studiegebieden of delen van studiegebieden:<br>
 1°&nbsp;&nbsp; Toegepaste economische wetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
 2°&nbsp;&nbsp; Wetenschappen, waarvoor de graad van bachelor kan worden verleend;<br>
-3°&nbsp;&nbsp; Geneeskunde, waarvoor de graad van bachelor kan worden verleend;<br>
+3° &nbsp;&nbsp; &nbsp;Geneeskunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
 4°&nbsp;&nbsp; Verkeerskunde, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
 5°&nbsp;&nbsp; Revalidatiewetenschappen, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
 6°&nbsp;&nbsp; Architectuur, waarvoor de graden van bachelor en master kunnen worden verleend;<br>
@@ -1220,10 +1288,15 @@ Daarnaast kan de tUL een academisch gerichte opleiding aanbieden en de daarop be
 § 3. De Universiteit Hasselt kan in het administratief arrondissement Hasselt de educatieve masteropleiding Wetenschappen en Technologie aanbieden en de desbetreffende graad van master uitreiken in het studiegebied Wetenschappen. Zij sluit hiertoe een samenwerkingsovereenkomst af met een andere Vlaamse universiteit die bevoegd is om deze masteropleiding te organiseren.<br>
 <br>
 § 4. Met behoud van de toepassing van paragraaf 2 en 3 kan de Universiteit Hasselt in het administratief arrondissement Hasselt de volgende academisch gerichte opleidingen aanbieden en de daarop betrekking hebbende graden verlenen:<br>
-1° in het studiegebied Geneeskunde de opleiding master in de verpleegen vroedkunde en de daarop betrekking hebbende graad van master verlenen;<br>
-2° in het studiegebied Geneeskunde de opleiding master Systeemen procesinnovatie in de gezondheidszorg en de daarop betrekking hebbende graad van master verlenen;<br>
+1° ...;<br>
+2° ...;<br>
 3° in het studiegebied Wetenschappen de opleiding master in Materiomics en de daarop betrekking hebbende graad van master verlenen;<br>
-4° in het studiegebied Politieke en Sociale Wetenschappen de opleiding bachelor in de sociale wetenschappen en de daarop betrekking hebbende graad van bachelor verlenen.</p>
+4° in het studiegebied Politieke en Sociale Wetenschappen de opleiding bachelor in de sociale wetenschappen en de daarop betrekking hebbende graad van bachelor verlenen;<br>
+5° in het studiegebied Politieke en Sociale Wetenschappen de oplei-ding master in de Sociale Wetenschappen.<br>
+<br>
+Voor de erkenning door de Vlaamse Regering van de opleiding, vermeld in het eerste lid, 5°, zijn de regels, vermeld in artikel II.153, §2 tot en met §6, niet van toepassing. De Universiteit Hasselt dient voor de opleiding, vermeld in het eerste lid, onmiddellijk een dossier in bij de accreditatieor-ganisatie.<br>
+<br>
+Voor de opleiding master in de Geneeskunde in het studiegebied Ge-neeskunde sluit de Universiteit Hasselt een samenwerkingsovereenkomst af met een andere Vlaamse universiteit die bevoegd is om die masteroplei-ding te organiseren.</p>
 
 ### ART. II.80.
 
@@ -1917,7 +1990,7 @@ Deel 2, titel 3, hoofdstuk 5, is voor deze erkenning niet van toepassing.<br>
 <br>
 De Vlaamse Regering kan een masteropleiding voor basisonderwijs erkennen na ontvangst van een positief toetsingsbesluit van de accreditatieorganisatie, vermeld in deel 2, titel 3, hoofdstuk 9, afdeling 3/1, onderafdeling 4. De Vlaamse Regering neemt het besluit tot erkenning van de nieuwe opleiding binnen een ordetermijn van dertig dagen, die ingaat de dag na de dag van de ontvangst van het positief toetsingsbesluit en het onderliggende beoordelingsrapport van de accreditatieorganisatie. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling. De opleiding krijgt een erkenning als nieuwe opleiding tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang van de masteropleiding voor basisonderwijs voor de eerste keer geheel doorlopen werd.<br>
 <br>
-De hogescholen en de universiteiten die de gezamenlijk georganiseerde masteropleiding voor basisonderwijs aanbieden, sluiten een overeenkomst die afspraken bevat omtrent het opleidingsprogramma, de wijze van administratie van de studenten en de financiële transacties tussen de instellingen. De financiering vanuit de werkingsenveloppe wordt als volgt verdeeld: de opgenomen studiepunten in een master basisonderwijs worden naar rato van de werklast verdeeld over de verschillende aanbieders, met minstens 30% voor de deelnemende hogescholen.
+De universiteit en hogescholen die in de opleiding zijn betrokken sluiten een overeenkomst die afspraken bevat over het opleidingsprogramma, de wijze van administratie van de studenten en de financiële transacties tussen de instellingen. De overeenkomst legt ook vast op welke wijze de gegenereerde middelen, op basis van de vastgestelde financieringspunten van de opleiding, worden verdeeld. Bij deze verdeling wordt rekening gehouden met de werklast van de verschillende betrokken partners, en wordt minstens 30 procent van de gegenereerde middelen door de universiteit overgedragen aan de deelnemende hogescholen.
 
 ### ART. II.115.
 
@@ -1981,19 +2054,16 @@ De instellingen dragen de kosten van de beoordelingsprocedures, vermeld in hoofd
 3° het tarief voor de opleidingsaccreditatie, vermeld in hoofdstuk 9/1, afdeling 3, bedraagt per opleiding ten minste 5000 euro en ten hoogste 20.000 euro;<br>
 4° het tarief voor de opleidingsaccreditatie, vermeld in hoofdstuk 9/1, afdeling 4, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro.<br>
 5° het tarief voor de toets nieuwe opleiding, vermeld in artikel II.153/5, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro;<br>
-6° het tarief voor de opleidingsaccreditatie, vermeld in artikel II.170/12, vierde lid en II.170/17, § 3, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro.<br>
+6° het tarief voor de opleidingsaccreditatie, vermeld in artikel II.170/12, vierde lid en II.170/17, § 3, bedraagt per opleiding ten minste 500 euro en ten hoogste 2000 euro;<br>
+7° het tarief voor de beperkte review, vermeld in artikel II.170/8, §1, 2°, bedraagt per instelling ten hoogste 80 procent van het tarief voor de instellingsreview.<br>
 <br>
 Vanaf 2020 worden de bedragen, vermeld in het eerste lid, en de bedragen die de Vlaamse minister bevoegd voor onderwijs bepaald heeft overeenkomstig dit lid, aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 september 2019. Het bedrag wordt afgerond naar het dichtstbijzijnde geheel getal.
 
 ### ART II.124/2.
 
-§ 1. De accreditatieorganisatie voert jaarlijkse systeembrede analyses uit in het hoger onderwijs. Deze analyses brengen goede praktijken inzake onderwijsbeleid en onderwijskwaliteit in beeld en bieden de mogelijkheid om van elkaar te leren.<br>
+§ 1. De accreditatieorganisatie voert systeembrede analyses uit in het hoger onderwijs. Deze analyses brengen goede praktijken inzake onderwijsbeleid en onderwijskwaliteit in beeld en bieden de mogelijkheid om van elkaar te leren.<br>
 <br>
-§ 2. De instellingen, vermeld in artikel II.2 en II.3, nemen tijdens een periode van zes jaar ten minste twee keer deel aan een systeembrede analyse.<br>
-<br>
-Voor de toepassing van het eerste lid worden de transnationale Universiteit Limburg en de Universiteit Hasselt als één instelling beschouwd.<br>
-<br>
-De VLUHR, de studentenkoepelverenigingen, de accreditatieorganisatie en de bevoegde dienst van de Vlaamse Regering leggen samen de onderwerpen en de kalender vast. De eerste periode van zes jaar gaat van start in het academiejaar 2020-2021.
+§ 2. ...
 
 ### ART II.124/3.
 
@@ -2260,11 +2330,11 @@ Als de Vlaamse Regering beslist dat er geen bestaande hbo5-opleiding verwant is 
 
 ### ART. II.151.
 
-<p>De bacheloren masteropleidingen die worden geselecteerd&nbsp;overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi- of gezamenlijke diplomering wordt vooropgesteld, worden niet beschouwd als nieuwe opleidingen zoals bedoeld in artikel II.150. De instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de vereiste onderwijsbevoegdheid beschikken. Deze worden geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar volgend op het laatste academiejaar van de Europese erkenning of tot en met het einde van het tweede academiejaar na de verlenging van de Europese erkenning. De duur van de overgangsaccreditatie kan nooit meer dan 7 academiejaren zijn.<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
+<p>De bacheloren masteropleidingen die worden geselecteerd&nbsp;overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi- of gezamenlijke diplomering wordt vooropgesteld, worden niet beschouwd als nieuwe opleidingen zoals bedoeld in artikel II.150. De instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de vereiste onderwijsbevoegdheid beschikken. Die opleidingen worden geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang die voor de opleiding in kwestie is bepaald, voor de eerste keer volledig is doorlopen sinds de deelname van de Vlaamse instelling aan die opleiding.<!--?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--><br>
 <br>
 Het instellingsbestuur kan de inschrijving voor een bacheloren masteropleiding die geselecteerd werd overeenkomstig de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multiof gezamenlijke diplomering wordt vooropgesteld,&nbsp;wel afhankelijk maken van een onderzoek naar de geschiktheid en de bekwaamheid van de student om deze opleiding te volgen.<br>
 <br>
-Een bachelor­ of masteropleiding die kadert binnen een ‘European Universities Initiative’ dat als pilootproject in 2019 of 2020 is goedgekeurd, of de verlengingen daarvan, wordt geacht een opleiding te zijn die is geselecteerd conform de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi­ of gezamenlijke diplomering wordt vooropgesteld als vermeld in het eerste lid. De instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de vereiste onderwijsbevoegdheid beschikken. De voormelde opleidingen starten uiterlijk in het academiejaar dat volgt op het academiejaar waarin het pilootproject afloopt of waarin de verlengingen van het pilootproject aflopen. In afwijking van het eerste lid, worden deze opleidingen geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang bepaald voor de desbetreffende opleiding voor de eerste keer geheel doorlopen werd.</p>
+Een bachelor­ of masteropleiding die kadert binnen een ‘European Universities Initiative’ dat als pilootproject in 2019 of 2020 is goedgekeurd, of de verlengingen daarvan, wordt geacht een opleiding te zijn die is geselecteerd conform de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen multi­ of gezamenlijke diplomering wordt vooropgesteld als vermeld in het eerste lid. De instellingen kunnen deze opleidingen alleen maar aanbieden voor zover ze over de vereiste onderwijsbevoegdheid beschikken. De voormelde opleidingen starten uiterlijk in het academiejaar dat volgt op het academiejaar waarin het pilootproject afloopt of waarin de verlengingen van het pilootproject aflopen. Die opleidingen worden geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang die voor de opleiding in kwestie is bepaald, voor de eerste keer volledig is doorlopen.</p>
 
 ### ART. II.152.
 
@@ -2735,7 +2805,8 @@ Voor de opleidingen van het hoger beroepsonderwijs, de bachelor- en masteropleid
 5° de studieomvang van de opleiding, uitgedrukt in studiepunten;<br>
 6° in voorkomend geval de specificatie van de graad, vermeld in artikel II.77;<br>
 7° in voorkomend geval de bijkomende titel die de houder van het diploma kan voeren, vermeld in artikel II.76;<br>
-8° de vermelding van de onderwijstaal van de opleiding.<br>
+8° de vermelding van de onderwijstaal van de opleiding;<br>
+9° in voorkomend geval de afstudeerrichtingen binnen de opleiding.<br>
 <br>
 Voor de bachelor- en de masteropleidingen geeft de eerste lijst de situatie weer van het academiejaar 2018-2019, voor de opleidingen van het hoger beroepsonderwijs de situatie van het academiejaar 2019-2020.<br>
 <br>
@@ -2796,7 +2867,9 @@ De instellingen, vermeld in artikel II.2 en II.3, zijn onderworpen aan een inste
 <br>
 De accreditatieorganisatie organiseert voor elke instelling als vermeld in artikel II.2 en II.3, een instellingsreview in de periode die loopt vanaf het begin van het academiejaar 2020-2021 tot en met het einde van het academiejaar 2024-2025. Vervolgens organiseert de accreditatieorganisatie voor elke instelling als vermeld in artikel II.2 en II.3, elke zes jaar een instellingsreview.<br>
 <br>
-De accreditatieorganisatie legt in overleg met de VLUHR als koepelorganisatie de kalender van de instellingsreviews vast.
+De accreditatieorganisatie legt in overleg met de VLUHR als koepelorganisatie de kalender van de instellingsreviews vast.<br>
+<br>
+In afwijking van het eerste lid kan een instelling die onderwijsbevoegdheid heeft voor één studiegebied, beslissen om niet te worden onderworpen aan een instellingsreview. De instelling meldt die beslissing aan de accreditatieorganisatie en aan de Vlaamse minister bevoegd voor onderwijs en vorming, uiterlijk twee jaar voor de geldigheidsduur van het besluit instellingsreview afloopt. Voor de accreditatie van de opleidingen van die instelling wordt de procedure, vermeld in deel 2, titel 3, hoofdstuk 9/1, afdeling 4, gevolgd en gelden de rechtsgevolgen, vermeld in artikel II.170/18, §4. In afwijking van artikel II.170/15, eerste lid, moet de instelling in het kader van de organisatie van de externe beoordelingen, vermeld in artikel II.170/17, §1, een beroep doen op de accreditatieorganisatie als evaluatieorgaan.
 
 ### ART II.170/3.
 
@@ -2895,6 +2968,8 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 De accreditatie van gezamenlijk georganiseerde opleidingen die voltooid worden met een gezamenlijk diploma als vermeld in artikel II.171, wordt verleend op gezamenlijke aanvraag van de betrokken Vlaamse instellingsbesturen.<br>
 <br>
 De accreditatieaanvraag wordt ingediend uiterlijk acht maanden voor de lopende accreditatie of de erkenning als nieuwe opleiding verstrijkt. De termijnen worden berekend van maand tot maand en van dag tot dag. In die termijnen is de dag waarop de termijn verstrijkt inbegrepen.<br>
+<br>
+De toelating voor de organisatie van de opleidingen, vermeld in het eerste lid, 7°, vervalt op het einde van het tweede academiejaar dat volgt op het einde van het academiejaar waarin de studieomvang die bepaald is voor de nieuwe opleiding, voor de eerste keer geheel doorlopen werd. De accreditatieaanvraag voor die opleidingen wordt ingediend uiterlijk elf maanden voor de toelating verstrijkt. De termijnen worden berekend van maand tot maand en van dag tot dag. In die termijnen is de dag waarop de termijn verstrijkt inbegrepen.<br>
 <br>
 In afwijking van het tweede lid dient er voor het gezamenlijk organiseren door meerdere hogeronderwijsinstellingen van een verkort traject van opleidingen die geaccrediteerd zijn bij elk van de betrokken instellingen geen accreditatieaanvraag te worden ingediend.<br>
 <br>
@@ -3056,7 +3131,7 @@ Individuele hogescholen of universiteiten kunnen uit de uitzondering, vermeld in
 <br>
 §5. Universiteiten of hogescholen kunnen voor de toepassing van dit artikel besluiten de uitreiking van gezamenlijke diploma’s te differentiëren per afstudeerrichting.<br>
 <br>
-§6. Als de aanvangsdatum van de erkenningen als nieuwe opleiding of van de accreditatie van de opleidingen die als een gezamenlijk verkort traject worden georganiseerd als vermeld in artikel II.170/9, §1, vierde lid, verschillend is, dan geldt als aanvangsdatum van de erkenning als nieuwe opleiding of van de accreditatie van dit gezamenlijk georganiseerd verkort traject de vroegste aanvangsdatum van de apart georganiseerde opleidingen van de betrokken instellingen.</p>
+§6. Als de aanvangsdatum van de erkenningen als nieuwe opleiding of van de accreditatie van de opleidingen die als een gezamenlijk verkort traject worden georganiseerd als vermeld in artikel II.170/9, §1, vijfde lid, verschillend is, dan geldt als aanvangsdatum van de erkenning als nieuwe opleiding of van de accreditatie van dit gezamenlijk georganiseerd verkort traject de vroegste aanvangsdatum van de apart georganiseerde opleidingen van de betrokken instellingen.</p>
 
 ### ART. II.172.
 
@@ -3104,13 +3179,14 @@ Als de samenwerking de gezamenlijke organisatie van onderwijsactiviteiten en and
 
 ### ART. II.176.
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:justify">Om als regelmatige student toegelaten te worden tot een opleiding van het hoger beroepsonderwijs, georganiseerd door een hogeschool, moet de student voldaan hebben aan de leerplicht.<br>
+<p>Om als regelmatige student toegelaten te worden tot een opleiding van het hoger beroepsonderwijs, georganiseerd door een hogeschool, moet de student voldaan hebben aan de leerplicht.<br>
 <br>
 Daarenboven moet de student beschikken over 1 van de volgende studiebewijzen:<br>
 1°&nbsp;&nbsp; een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, dat minstens 3 jaar behaald is;<br>
 1° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 3, uitgereikt vanaf het schooljaar 2024-2025;<br>
 2°&nbsp;&nbsp; een diploma van het secundair onderwijs, uitgereikt tot en met het schooljaar 2024-2025;<br>
 2° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;<br>
+2°/2 een diploma van secundair onderwijs uitgereikt door een centrum voor volwassenenonderwijs tot en met het schooljaar 2025-2026;<br>
 3°&nbsp;&nbsp; een certificaat van een opleiding van het secundair onderwijs voor sociale promotie van minimaal 900 lestijden;<br>
 4°&nbsp;&nbsp; een certificaat van een opleiding van het secundair volwassenenonderwijs van minimaal 900 lestijden;<br>
 5°&nbsp;&nbsp; een diploma van het hoger onderwijs voor sociale promotie;<br>
@@ -3137,9 +3213,10 @@ De voorwaarden om een toelatingsproef als vermeld in het eerste lid, punt 3°, t
 
 ### ART. II.178.
 
-<p style="margin-left:0cm; margin-right:0cm">Als algemene toelatingsvoorwaarden voor een bacheloropleiding gelden:<!--?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /--><br>
+<p>Als algemene toelatingsvoorwaarden voor een bacheloropleiding gelden:<!--?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /--><br>
 1°&nbsp;&nbsp; een diploma van het secundair onderwijs, uitgereikt tot en met het schooljaar 2024-2025;<br>
 1° /1 een diploma secundair onderwijs, onderwijskwalificatie niveau 4, uitgereikt vanaf het schooljaar 2024-2025;<br>
+1°/2 een diploma van secundair onderwijs uitgereikt door een centrum voor volwassenenonderwijs tot en met het schooljaar 2025-2026;<br>
 2°&nbsp;&nbsp; een diploma van het hoger onderwijs van het korte type met volledig leerplan;<br>
 3°&nbsp;&nbsp; een diploma van het hoger onderwijs voor sociale promotie, met uitzondering van het Getuigschrift Pedagogische Bekwaamheid, of<br>
 4°&nbsp;&nbsp; een diploma of certificaat, uitgereikt in het kader van het hoger beroepsonderwijs;<br>
@@ -3638,7 +3715,7 @@ In afwijking van het eerste lid kan een hogeschool of universiteit geen bijkomen
 
 ### ART. II.210.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. &nbsp;Voor beurstariefstudenten die in een academiejaar een inschrijving nemen, bedraagt het studiegeld :<br>
+<p>§1. &nbsp;Voor beurstariefstudenten die in een academiejaar een inschrijving nemen, bedraagt het studiegeld :<br>
 1°&nbsp;&nbsp; voor het vast gedeelte :&nbsp;105 euro, en;<br>
 2°&nbsp;&nbsp; voor het variabel gedeelte : 0 euro per opgenomen studiepunt.<br>
 <br>
@@ -3648,7 +3725,7 @@ Voor bijna-beursstudenten die in een academiejaar een inschrijving nemen, bedraa
 <br>
 De bepalingen in het eerste en tweede lid gelden niet voor een inschrijving in een bachelor-na-bacheloropleiding en een master-na-masteropleiding.<br>
 <br>
-§ 2. Studenten die het laatste jaar secundair onderwijs volgen en die met een creditcontract voor maximaal 10 studiepunten ingeschreven zijn in het hoger onderwijs, betalen 52,5 euro</p>
+§2. Voor studenten van de derde graad secundair onderwijs die met een creditcontract voor maximaal twaalf studiepunten ingeschreven zijn in het hoger onderwijs, bedraagt het studiegeld 52,5 euro.</p>
 
 ### ART. II.211.
 
@@ -4145,9 +4222,7 @@ De voorwaarde vermeld in het derde lid is niet van toepassing op de volgende opl
 1°&nbsp;&nbsp; de equivalente opleiding master in de ingenieurswetenschappen, fotonica, gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universteit Brussel;<br>
 2°&nbsp;&nbsp; de equivalente opleiding master in de geografie, gezamenlijk aangeboden door de Katholieke Universiteit Leuven en de Vrije Universiteit Brussel;<br>
 3°&nbsp;&nbsp; de gezamenlijk georganiseerde equivalente opleidingen die van de Commissie Hoger Onderwijs de toelating hebben gekregen om het volgen van de onderwijsactiviteiten te spreiden over meer dan 1 vestiging. De aanvragen tot afwijking worden door de Commissie Hoger Onderwijs behandeld overeenkomstig de procedure beschreven in artikel II.263;<br>
-4°&nbsp;&nbsp; de equivalente opleiding master in de ingenieurswetenschappen : biomedische ingenieurstechnieken, gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universiteit Brussel.<br>
-<br>
-De instelling kan in het kader van de procedure, vermeld in artikel II.264, een vrijstelling van de equivalentievoorwaarde aanvragen.</p>
+4°&nbsp;&nbsp; de equivalente opleiding master in de ingenieurswetenschappen : biomedische ingenieurstechnieken, gezamenlijk aangeboden door de Universiteit Gent en de Vrije Universiteit Brussel.</p>
 
 ### ART. II.263.
 
@@ -4158,7 +4233,7 @@ De aanvragen en het bijbehorende dossier worden ingediend:<br>
 2° in het geval het een nieuwe initiële bachelor- of masteropleiding betreft zoals vermeld in artikel II.150, samen met het aanvraagdossier macrodoelmatigheid nieuwe opleiding zoals vermeld in artikel II.153, § 2.<br>
 <br>
 §2. De Commissie Hoger Onderwijs brengt een oordeel uit op basis van de volgende criteria waaraan cumulatief voldaan moet worden :<br>
-1° binnen de Vlaamse Gemeenschap wordt een equivalente initiële bachelor- of masteropleiding aangeboden als vermeld in artikel II.262, § 2, tenzij er een positief oordeel is van de Commissie Hoger Onderwijs of een positieve beslissing van de Vlaamse Regering over de vrijstelling van de equivalentievoorwaarde, vermeld in artikel II.264;<br>
+1° binnen de Vlaamse Gemeenschap wordt een equivalente initiële bachelor- of masteropleiding aangeboden als vermeld in artikel II.262, § 2;<br>
 2°&nbsp;&nbsp; de aanwezigheid van voldoende garanties inzake kwaliteit en democratisering, vermeld in artikel II.270 en II.271;<br>
 3°&nbsp;&nbsp; de aanwezigheid van een verantwoording die de meerwaarde voor de student en het afnemende veld en de functionaliteit voor de opleiding aantoont;<br>
 4°&nbsp;&nbsp; de naleving van de maximumpercentages van 9% c.q. 35%, vermeld in artikel II.266, op basis van het overzicht van de anderstalige initiële bachelor- c.q masteropleidingen die in het lopende academiejaar worden aangeboden.<br>
@@ -4185,37 +4260,7 @@ Als een instelling een erkende anderstalige initiële bachelorof masteropleiding
 
 ### ART. II.264.
 
-<p>§ 1. Een instelling of meerdere instellingen samen kan/kunnen bij de Commissie Hoger Onderwijs een aanvraag tot vrijstelling van de equivalentievoorwaarde indienen voor een anderstalige initiële bachelor- of masteropleiding. Deze aanvraag, samen met het bijhorende dossier, wordt bij de Commissie Hoger Onderwijs ingediend:<br>
-1° samen met de aanvraag voor een anderstalige initiële bachelor- of masteropleiding overeenkomstig de voorschriften vastgelegd in artikel II.263; ofwel<br>
-2° in het geval van een bestaande equivalente opleiding uiterlijk op 1 oktober van het academiejaar voorafgaand aan het academiejaar waarop de instelling(en) de betrokken equivalente opleiding wil(len) stopzetten. Het aanvraagdossier stelt de Commissie Hoger Onderwijs in staat de toetsing aan de criteria, vermeld in paragraaf 2, uit te voeren.<br>
-<br>
-Samen met het aanvraagdossier wordt aan de Commissie Hoger Onderwijs een advies bezorgd van de VLIR, voor de aanvragen van de universiteiten, of de VLHORA, voor de aanvragen van de hogescholen, over de gevraagde vrijstelling van de equivalentievoorwaarde. Als het advies van de VLIR of de VLHORA niet opgenomen is in het aanvraagdossier dat aan de Commissie Hoger Onderwijs wordt bezorgd, verklaart de Commissie Hoger Onderwijs de aanvraag voor de opleiding in kwestie onontvankelijk. De Commissie Hoger Onderwijs kan binnen een termijn van 15 dagen aan de VLIR of de VLHORA verduidelijkingen vragen over het door hen geleverde advies.<br>
-<br>
-§ 2. De Commissie Hoger Onderwijs brengt een oordeel uit over de aanvraag van vrijstelling van de equivalentievoorwaarde op basis van de volgende criteria, waaraan cumulatief voldaan moet worden :<br>
-1° de anderstalige opleiding is internationaal georiënteerd, doordat :<br>
-a) het beheersen van algemene en specifieke beroepsgerichte competenties, samen met de vakinhoudelijke competenties niet kan worden bereikt in een Nederlandstalige opleiding;<br>
-b) de afgestudeerden in hoofdzaak op de internationale arbeidsmarkt terechtkomen;<br>
-2° de opleiding heeft geen betrekking op het erfgoed van de Nederlandse taal of cultuur, of de afgestudeerden van de opleiding komen niet in hoge mate in aanraking met Nederlandstalige burgers;<br>
-3° de aanwezige expertise en capaciteit in Vlaanderen is te beperkt om een dubbel aanbod te creëren.<br>
-<br>
-In het geval het een aanvraag als vermeld in artikel II.264, § 1, eerste lid, 2°, betreft, geldt naast de criteria, vermeld in het eerste lid, als bijkomend criterium dat het aantal studenten in de Nederlandstalige opleiding onvoldoende is om een dubbel aanbod te creëren.<br>
-<br>
-De Commissie Hoger Onderwijs onderzoekt expliciet alle criteria, omschrijft per criterium haar bevindingen, antwoordt op alle argumenten die worden aangebracht in het aanvraagdossier en in het advies van de VLIR de VLHORA, en motiveert haar positieve of negatieve oordeel over het ingediende dossier.<br>
-<br>
-§ 3. De Commissie Hoger Onderwijs brengt haar oordeel uit :<br>
-1° als de aanvraag van vrijstelling van de equivalentievoorwaarde samen ingediend wordt met een aanvraag van een anderstalige opleiding voor een bestaande initiële bachelor- of masteropleiding : samen met het oordeel, vermeld in artikel II.263, § 3, eerste lid, 1° ;<br>
-2° als de aanvraag van vrijstelling van de equivalentievoorwaarde samen ingediend wordt met een aanvraag van een anderstalige opleiding voor een nieuwe initiële bachelor- of masteropleiding : samen met het oordeel, vermeld in artikel II.263, § 3, eerste lid, 2° ;<br>
-3° als de aanvraag van vrijstelling van de equivalentievoorwaarde betrekking heeft op de afbouw of stopzetting van een bestaande equivalente opleiding : uiterlijk op 31 januari van het academiejaar dat voorafgaat aan het academiejaar waarin de equivalente opleiding wordt afgebouwd of stopgezet.<br>
-<br>
-De Commissie Hoger Onderwijs bezorgt haar oordeel aan het instellingsbestuur en aan de Vlaamse Regering.<br>
-<br>
-Bij een negatief oordeel van de Commissie Hoger Onderwijs kan de instelling binnen een vervaltermijn van 15 dagen, die ingaat op de dag na de ontvangst van de beslissing van de Commissie Hoger Onderwijs, beroep instellen bij de Vlaamse Regering. De Vlaamse Regering neemt een beslissing binnen een vervaltermijn van 30 dagen, die ingaat op de dag na de ontvangst van het beroepschrift.<br>
-<br>
-Bij een positief oordeel van de Commissie Hoger Onderwijs, tenzij de Vlaamse Regering binnen een vervaltermijn van 45 dagen, die ingaat op de dag waarop de Commissie Hoger Onderwijs haar oordeel aan de Vlaamse Regering bezorgt, alsnog negatief oordeelt, of bij een positieve beslissing van de Vlaamse Regering, wordt voor de anderstalige bachelor- of masteropleiding die in het aanvraagdossier is vermeld, van rechtswege een vrijstelling van equivalentie verleend :<br>
-1° in het geval het een bestaande initiële bachelor- of masteropleiding betreft : na het positief doorlopen van de procedure, vermeld in artikel II.263;<br>
-2° in het geval het een nieuwe initiële bachelor- of masteropleiding betreft : na het positief doorlopen van de programmatieprocedure, vermeld in artikel II.153.<br>
-<br>
-Als de Commissie Hoger Onderwijs geen oordeel velt uiterlijk op de data, vermeld in deze paragraaf, of als de Vlaamse Regering geen beslissing neemt naar aanleiding van een beroepschrift op de momenten, vermeld in deze paragraaf, wordt het oordeel of de beslissing geacht negatief te zijn.</p>
+<p>...</p>
 
 ### ART. II.265.
 
@@ -4226,9 +4271,9 @@ Als de Commissie Hoger Onderwijs geen oordeel velt uiterlijk op de data, vermeld
 <br>
 Voor de opleidingen, vermeld in punt 1° en 2°, loopt deze afwijking door wanneer de opleiding na afloop van de erkenning wordt voortgezet.<br>
 <br>
-§2. In afwijking van artikel II.262, §2, kan de Vlaamse Regering een lijst opstellen van anderstalige initiële bachelor- of masteropleidingen of van anderstalige afstudeerrichtingen van initiële bachelor- of masteropleidingen die in het kader van een School of Arts worden aangeboden, waarbij niet moet voorzien worden in een equivalente opleiding.<br>
+§2. ...<br>
 <br>
-§3. In afwijking van artikel II.262, §2, kan een instelling voor een anderstalige initiële bachelor- of masteropleiding die gezamenlijk wordt georganiseerd met een instelling buiten de Vlaamse Gemeenschap een afwijking van de equivalentieregel vragen bij de Vlaamse Regering. De instelling dient daartoe een aanvraag in uiterlijk op 1 maart van het academiejaar voorafgaand aan het academiejaar dat de instelling de gezamenlijke anderstalige opleiding voor het eerst wil organiseren. In het aanvraagdossier geeft de instelling duidelijk aan dat de gezamenlijke anderstalige opleiding een gezamenlijk programma bevat, bekrachtigd wordt met een gezamenlijk diploma en dat de expertise van de opleidingsonderdelen die buiten de Vlaamse Gemeenschap georganiseerd worden, niet in Vlaamse Gemeenschap aanwezig is. De Vlaamse Regering neemt een beslissing uiterlijk op 1 juni van hetzelfde academiejaar.</p>
+§3. ...</p>
 
 ## Afdeling 3 Anderstalig aanbod
 
@@ -4272,7 +4317,19 @@ Bij de bepaling van de breuken, vermeld in het eerste lid, punt 1° en 2°, en h
 
 ### ART. II.268.
 
-<P style="TEXT-INDENT: -14.15pt; MARGIN: 0cm 0cm 0pt 14.1pt" class=CM16>§1. De Vlaamse Regering maakt   jaarlijks een evaluatie van:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=CM16>1°&nbsp;&nbsp; de verhouding van de omvang van het   aantal aangeboden anderstalige opleidingsonderdelen, uitgedrukt in studiepunten,   ten opzichte van de totale omvang van het aantal aangeboden   opleidingsonderdelen, uitgedrukt in studiepunten, in de niet-anderstalige   initiële bachelor- en masteropleidingen; </P>  <P   style="LINE-HEIGHT: 12.65pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=CM53>2°&nbsp;&nbsp; het aandeel van de omvang van   anderstalige opleidingsonderdelen, uitgedrukt in studiepunten, in het gevolgde   opleidingstraject van afgestudeerden in de niet-anderstalige initiële bachelor-   en masteropleidingen. </P>  <P style="LINE-HEIGHT: 12.3pt; MARGIN: 0cm 53pt 0pt 0cm" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>§2. Als uit de evaluatie, vermeld in   paragraaf 1, blijkt dat meer dan 33% van het aantal afgestudeerden in een   niet-anderstalige initiële bachelor- c.q. masteropleiding meer dan 18,33% c.q.   50% van hun studiepunten verworven hebben in opleidingsonderdelen in een andere   taal dan het Nederlands, dan wordt deze opleiding beschouwd als een anderstalige   initiële bachelor- of masteropleiding. </P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>Als uit de evaluatie, vermeld in   paragraaf 1, blijkt dat gedurende 2 opeenvolgende academiejaren ten minste 25%   en ten hoogste 33% van het aantal afgestudeerden in een niet-anderstalige   initiële bachelor- c.q. masteropleiding meer dan 18,33% c.q. 50% van hun   studiepunten verworven hebben in opleidingsonderdelen in een andere taal dan het   Nederlands, dan wordt deze opleiding beschouwd als een anderstalige initiële   bachelor- of masteropleiding. </P>  <P style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt"   class=CM55>&nbsp;</P>  <P style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt"   class=CM55>Voor de berekening van de grenzen van   18,33% c.q. 50% worden de opleidingsonderdelen vermeld in artikel II.261, §2, 1°   en 3°, niet meegerekend. </P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM55>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM55>§3. Vanaf het academiejaar volgend op   het academiejaar waarin de resultaten van de evaluatie beschikbaar zijn, moet de   instelling een equivalente initiële bachelor- of masteropleiding aanbieden. Deze   equivalente opleiding komt gedurende 3 academiejaren niet in aanmerking als   enige equivalente opleiding in de Vlaamse Gemeenschap, als vermeld in artikel   II.262. </P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM55>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM55>Van deze voorwaarde kan afgeweken   worden als de Commissie Hoger Onderwijs, op basis van een aanvraag van de   instelling, oordeelt dat een dergelijke curriculumopbouw in de toekomst niet   langer mogelijk is </P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>De eerste evaluatie heeft   betrekking op de afgestudeerden in het academiejaar 2013-2014 voor de   masteropleidingen met een studieomvang van 60 studiepunten en op de   afgestudeerden in het academiejaar 2014-2015 voor de masteropleidingen met een   studieomvang van meer dan 60 studiepunten. Voor de bacheloropleidingen heeft de   eerste evaluatie betrekking op de afgestudeerden in het academiejaar   2015-2016.</P>
+<p>§1. De Vlaamse Regering maakt jaarlijks een evaluatie van:<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+1°&nbsp;&nbsp; de verhouding van de omvang van het aantal aangeboden anderstalige opleidingsonderdelen, uitgedrukt in studiepunten, ten opzichte van de totale omvang van het aantal aangeboden opleidingsonderdelen, uitgedrukt in studiepunten, in de niet-anderstalige initiële bachelor- en masteropleidingen;<br>
+2°&nbsp;&nbsp; het aandeel van de omvang van anderstalige opleidingsonderdelen, uitgedrukt in studiepunten, in het gevolgde opleidingstraject van afgestudeerden in de niet-anderstalige initiële bachelor- en masteropleidingen.<br>
+<br>
+§2. Als uit de evaluatie, vermeld in paragraaf 1, blijkt dat meer dan 33% van het aantal afgestudeerden in een niet-anderstalige initiële bachelor- c.q. masteropleiding meer dan 18,33% c.q. 50% van hun studiepunten verworven hebben in opleidingsonderdelen in een andere taal dan het Nederlands, dan wordt deze opleiding beschouwd als een anderstalige initiële bachelor- of masteropleiding.<br>
+<br>
+Als uit de evaluatie, vermeld in paragraaf 1, blijkt dat gedurende 2 opeenvolgende academiejaren ten minste 25% en ten hoogste 33% van het aantal afgestudeerden in een niet-anderstalige initiële bachelor- c.q. masteropleiding meer dan 18,33% c.q. 50% van hun studiepunten verworven hebben in opleidingsonderdelen in een andere taal dan het Nederlands, dan wordt deze opleiding beschouwd als een anderstalige initiële bachelor- of masteropleiding.<br>
+<br>
+Voor de berekening van de grenzen van 18,33% c.q. 50% worden de opleidingsonderdelen vermeld in artikel II.261, §2, 1° en 3°, niet meegerekend.<br>
+<br>
+§3. Vanaf het academiejaar volgend op het academiejaar waarin de resultaten van de evaluatie beschikbaar zijn, moet de instelling een equivalente initiële bachelor- of masteropleiding aanbieden. Deze equivalente opleiding komt gedurende 3 academiejaren niet in aanmerking als enige equivalente opleiding in de Vlaamse Gemeenschap, als vermeld in artikel II.262.<br>
+<br>
+De eerste evaluatie heeft betrekking op de afgestudeerden in het academiejaar 2013-2014 voor de masteropleidingen met een studieomvang van 60 studiepunten en op de afgestudeerden in het academiejaar 2014-2015 voor de masteropleidingen met een studieomvang van meer dan 60 studiepunten. Voor de bacheloropleidingen heeft de eerste evaluatie betrekking op de afgestudeerden in het academiejaar 2015-2016.</p>
 
 ### ART. II.269.
 
@@ -5089,23 +5146,15 @@ Binnen de door het hogeschoolbestuur of de hogeschoolbesturen goedgekeurde jaar-
 
 ### ART. II.378.
 
-<p>§1. De graden gegradueerde, maatschappelijke assistent, vroedvrouw, kleuterleid(st)er, kleuteronderwijzer(es), onderwijzer(es), assistent in de psychologie, maatschappelijk adviseur, architect-assistent, technisch ingenieur, van geaggregeerde voor het secundair onderwijs groep 1 of van geaggregeerde voor het lager secundair onderwijs die de hogescholen, de Examencommissie van de Vlaamse Gemeenschap of de Examencommissie van de Staat hebben verleend vóór het academiejaar 2004-2005 in het hogeschoolonderwijs van 1 cyclus of in het hoger onderwijs van het korte type met volledig leerplan, zijn gelijkgeschakeld met de graad van bachelor. De houders van die graden zijn gerechtigd tot het voeren van de titel van bachelor.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
-
-<p>&nbsp;</p>
-
-<p>De graden van industrieel ingenieur, architect, interieurarchitect, meester, licentiaat of handelsingenieur die de hogescholen, de Examencommissie van de Vlaamse Gemeenschap of de Examencommissie van de Staat hebben verleend vóór het academiejaar 2004-2005 in het hogeschoolonderwijs van 2 cycli of in het hoger onderwijs van het lange type met volledig leerplan, zijn gelijkgeschakeld met de graad van master. De houders van die graden zijn gerechtigd tot het voeren van de titel van master.</p>
-
-<p>&nbsp;</p>
-
-<p>De Vlaamse Regering neemt de aanvullende maatregelen die nodig zijn voor de gelijkschakeling van de andere graden die in het hoger onderwijs werden verleend overeenkomstig de voorschriften zoals die op het ogenblik van de uitreiking luidden, met de graad van bachelor of master.</p>
-
-<p>&nbsp;</p>
-
-<p>§2. De graad van gegradueerde, die een Centrum voor Volwassenenonderwijs heeft uitgereikt ten aanzien van een op grond van artikel II.138 geaccrediteerde opleiding, in de periode voorafgaand aan de uitreiking van het nieuwe bachelordiploma door de ontvangende ambtshalve geregistreerde instelling of door het overdragende Centrum voor Volwassenenonderwijs en de ontvangende ambtshalve geregistreerde instelling gezamenlijk in toepassing van artikel II.138, § 4, is gelijkgesteld met de graad van bachelor. De houders van die graden zijn gerechtigd tot het voeren van de titel van bachelor.</p>
-
-<p>&nbsp;</p>
-
-<p>§3. De opleiding tot lijnpiloot georganiseerd door een door het Belgisch Bestuur van de Luchtvaart erkende privé-instelling wordt gelijkgesteld met een professionele bacheloropleiding.</p>
+<p>§1. De graden gegradueerde, maatschappelijke assistent, vroedvrouw, kleuterleid(st)er, kleuteronderwijzer(es), onderwijzer(es), assistent in de psychologie, maatschappelijk adviseur, architect-assistent, technisch ingenieur, van geaggregeerde voor het secundair onderwijs groep 1 of van geaggregeerde voor het lager secundair onderwijs die de hogescholen, de Examencommissie van de Vlaamse Gemeenschap of de Examencommissie van de Staat hebben verleend vóór het academiejaar 2004-2005 in het hogeschoolonderwijs van 1 cyclus of in het hoger onderwijs van het korte type met volledig leerplan, zijn gelijkgeschakeld met de graad van bachelor. De houders van die graden zijn gerechtigd tot het voeren van de titel van bachelor.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--><br>
+<br>
+De graden van industrieel ingenieur, architect, interieurarchitect, meester, licentiaat of handelsingenieur die de hogescholen, de Examencommissie van de Vlaamse Gemeenschap of de Examencommissie van de Staat hebben verleend vóór het academiejaar 2004-2005 in het hogeschoolonderwijs van 2 cycli of in het hoger onderwijs van het lange type met volledig leerplan, zijn gelijkgeschakeld met de graad van master. De houders van die graden zijn gerechtigd tot het voeren van de titel van master.<br>
+<br>
+De Vlaamse Regering neemt de aanvullende maatregelen die nodig zijn voor de gelijkschakeling van de andere graden die in het hoger onderwijs werden verleend overeenkomstig de voorschriften zoals die op het ogenblik van de uitreiking luidden, met de graad van bachelor of master.<br>
+<br>
+§2. De graad van gegradueerde, die een Centrum voor Volwassenenonderwijs heeft uitgereikt ten aanzien van een op grond van artikel II.138 geaccrediteerde opleiding, in de periode voorafgaand aan de uitreiking van het nieuwe bachelordiploma door de ontvangende ambtshalve geregistreerde instelling of door het overdragende Centrum voor Volwassenenonderwijs en de ontvangende ambtshalve geregistreerde instelling gezamenlijk in toepassing van artikel II.138, § 4, is gelijkgesteld met de graad van bachelor. De houders van die graden zijn gerechtigd tot het voeren van de titel van bachelor.<br>
+<br>
+§3....</p>
 
 ### ART. II.379.
 
@@ -5307,7 +5356,11 @@ De inhoudelijk coördinerende instelling heeft als taak om de gezamenlijke organ
 <br>
 De administratief beherende instelling is altijd een secundaire school. De cursist schrijft zich in aan de administratief beherende instelling voor de volledige opleiding. Voor de financiering, de subsidiëring en het inschrijvingsgeld gelden de vigerende decretale en regelgevende bepalingen van de administratief beherende instelling.<br>
 <br>
+In een samenwerkingsverband tussen één hogeschool en meer scholen van het voltijds secundair onderwijs heeft de toepassing van deze paragraaf betrekking op die hogeschool en elke secundaire school afzonderlijk.<br>
+<br>
 § 3. Binnen het samenwerkingsverband reiken de onderwijsinstellingen gezamenlijk het diploma van gegradueerde met bijbehorende kwalificatie en de deelcertificaten uit.<br>
+<br>
+In een samenwerkingsverband tussen één hogeschool en meer scholen van het voltijds secundair onderwijs heeft de toepassing van deze paragraaf betrekking op die hogeschool en elke secundaire school afzonderlijk.<br>
 <br>
 § 4. Een samenwerkingsverband kan samenwerken met :<br>
 1° een of meer publieke verstrekkers van beroepsopleidingen voor volwassenen;<br>
@@ -5342,6 +5395,8 @@ Een samenwerkingsverband vervult de volgende opdrachten :<br>
 11° het uitwerken en evalueren van een kwaliteitsvolle EVC-procedure;<br>
 12° het uitwerken van de communicatie(strategie) over het aanbod van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs;<br>
 13° de organisatie van de toelatingsproef, vermeld in artikel 163, § 2, 3°, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+In een samenwerkingsverband tussen één hogeschool en meerdere scholen van het voltijds secundair onderwijs kan de vervulling van elke opdracht, vermeld in het eerste lid, betrekking hebben op elke secundaire school afzonderlijk of op meerdere secundaire scholen samen.<br>
 <br>
 De inspectie, vermeld in titel IV van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, beoordeelt in samenwerking met de accreditatieorganisatie de kwaliteit van de opleidingen Verpleegkunde en Basisverpleegkunde van het hoger beroepsonderwijs georganiseerd door het samenwerkingsverband.<br>
 <br>
