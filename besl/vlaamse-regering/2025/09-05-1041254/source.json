@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041254,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot vaststelling van de vorm van het diploma van gegradueerde in de Basisverpleegkunde en de inhoud van het bijbehorende diplomasupplement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041254/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "2553a4bd3c2c41cc17e37c68e7ba492dbf570b5b2c77749465b713ac0d0f4f38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041254&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-09-05",
+  "gazette": "2025-10-01",
+  "numac": 2025007051,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
