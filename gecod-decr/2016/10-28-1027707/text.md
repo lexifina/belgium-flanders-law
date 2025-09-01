@@ -1862,7 +1862,7 @@ Het salaris of de salaristoelage, toegekend aan een terbeschikking gesteld perso
 In afwijking van voorgaand lid, kan een personeelslid er echter toe gemachtigd worden een hem aangeboden betrekking te weigeren met behoud van het voordeel van de bepalingen van dit decreet en van de besluiten van de Vlaamse Regering getroffen ter uitvoering ervan, onder de door de Vlaamse Regering te bepalen voorwaarden.<br>
 <br>
 §3. De hierna vermelde personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking, blijven, in afwachting van reaffectatie en wedertewerkstelling, ten bedrage van het maximum aantal uren waarvoor zij ter beschikking gesteld zijn, beschikbaar voor het uitoefenen van pedagogische taken:<br>
-- diegenen die ter beschikking gesteld zijn wegens volledige ontstentenis van betrekking, indien zij de voordelen genieten die werden toegekend in het kader van rationalisatie- en programmatiemaatregelen;<br>
+- diegenen die ter beschikking gesteld zijn wegens volledige ontstentenis van betrekking;<br>
 - diegenen die ter beschikking gesteld zijn wegens volledige ontstentenis van betrekking en een reaffectatie of wedertewerkstelling hebben aanvaard voor een gedeelte van de opdracht waarvoor zij werden ter beschikking gesteld wegens ontstentenis van betrekking;<br>
 - diegenen die ter beschikking gesteld zijn wegens gedeeltelijke ontstentenis van betrekking.<br>
 <br>
@@ -2418,6 +2418,72 @@ Gemeenten die fusioneren conform het decreet Vrijwillige Samenvoeging van Gemeen
 ### ART X/2.1.
 
 De vervangende ontwikkelingsdoelen en eindtermen basisonderwijs, die zijn ingediend op initiatief van de acht schoolbesturen van de Franstalige faciliteitenscholen in de gemeenten Drogenbos, Linkebeek, Kraainem, Sint­Genesius­Rode, Wemmel en Wezembeek­Oppem, en met toepassing van het besluit van de Vlaamse Regering van 18 december 2020 over vervangende eindtermen op initiatief van de Franstalige faciliteitenscholen in de gemeenten Drogenbos, Linkebeek, Kraainem, Sint­Genesius­Rode, Wemmel en Wezembeek­Oppem in hun geheel gelijkwaardig zijn verklaard, worden goedgekeurd op grond van de specifieke institutionele context op basis waarvan die scholen zijn opgericht. De vervangende onderwijsdoelen zijn de decretale competentiesokkels van de Franse Gemeenschap.
+
+## DEEL X/3 PERSOONSGEGEVENS IN ONDERWIJSAANGELEGENHEDEN
+
+### ART X/3.1.
+
+§1. De bevoegde diensten van de Vlaamse Gemeenschap, bevoegd voor de leerplichtcontrole en de financiële ondersteuning van instellingen, verwerken persoonsgegevens van leerplichtigen die vallen onder het stelsel van huisonderwijs en hun ouders.<br>
+<br>
+De voormelde gegevens worden verwerkt voor de volgende doeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;de controle op de leerplicht en op huisonderwijs;<br>
+2°&nbsp;&nbsp; &nbsp;het ondersteunen van het onderwijsbeleid;<br>
+3°&nbsp;&nbsp; &nbsp;de registratie van studiebewijzen en het opvolgen van de studievoortgang en onderwijsloopbaantrajecten;<br>
+4°&nbsp;&nbsp; &nbsp;het ondersteunen van de lokale overlegplatformen, vermeld in deel VIII, hoofdstuk 1.<br>
+<br>
+De verwerking van de persoonsgegevens, vermeld in paragraaf 2, zijn verwerkingen die noodzakelijk zijn voor het algemeen belang, vermeld in artikel 6.1, e), van de algemene verordening gegevensbescherming. Uit de verwerking van de persoonsgegevens, vermeld in paragraaf 2, kan ook de verwerking van gegevens over gezondheid, ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen als de bijzondere categorieën van persoonsgegevens, vermeld in artikel 9, eerste lid, van de algemene verordening gegevensbescherming volgen. De voormelde verwerkingen zijn noodzakelijke verwerkingen om redenen van zwaarwegend algemeen belang als vermeld in artikel 9, tweede lid, g), van de algemene verordening gegevensbescherming. De redenen van algemeen belang en zwaarwegend algemeen belang betreffen het garanderen van het recht op onderwijs van de leerplichtigen en de gezondheid en integriteit van de leerplichtigen.<br>
+<br>
+§2. Voor de doeleinden, vermeld in paragraaf 1, tweede lid, verwerken de bevoegde diensten van de Vlaamse Gemeenschap de volgende gegevens van leerplichtigen die vallen onder het stelsel van huisonderwijs:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens: de voor- en achternaam, het geslacht, de geboortedatum, de geboorteplaats, de nationaliteit, het identificatienum-mer van het Rijksregister of het identificatienummer van de Kruispunt-bank, vermeld in artikel 8, §1, 1° en 2°, van de Wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;woonplaats: domicilieadres, hoofdverblijfplaats en informatie betreffende tijdelijke afwezigheid;<br>
+3°&nbsp;&nbsp; &nbsp;onderwijsloopbaangegevens: voorafgaande onderwijsloopbaan en studiebewijzen, deelname en resultaten van deelname aan examencom-missie basis- en secundair onderwijs, vrijstelling van de examencommissie als vermeld in artikel 26bis/2, §2, eerste lid, 1°, van het decreet basison-derwijs van 25 februari 1997 en als vermeld in artikel 110/30, §2, eerste lid, 1°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+4°&nbsp;&nbsp; &nbsp;gezondheid: gegevens over de deelname aan systematische contacten en de medewerking aan profylactische maatregelen als vermeld artikel 6, §4, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
+5°&nbsp;&nbsp; &nbsp;huisonderwijsgegevens: gegevens als vermeld in artikel 26bis/1, §1, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/29, §1, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+6°&nbsp;&nbsp; &nbsp;de voor- en achternaam, het opleidingsniveau en het vakgebied van de lesgevers en het adres waar huisonderwijs wordt gegeven als er gezamen-lijk huisonderwijs georganiseerd wordt, conform artikel 26bis/1, §1, derde lid, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/29, §1, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+Voor de doeleinden, vermeld in paragraaf 1, tweede lid, verwerken de bevoegde diensten van de Vlaamse Gemeenschap de volgende gegevens van ouders van leerplichtigen die huisonderwijs volgen: de persoonsgegevens, vermeld in het eerste lid, 1° en 2°, de contactgegevens, e-mailadres en telefoonnummer en, in zoverre de ouders ook optreden als lesgever als vermeld in artikel 26bis/1, §1, 2°, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/29, §1, 2°, van de Codex Secundair Onderwijs van 17 december 2010, de persoonsgegevens, vermeld in het eerste lid, 5°.<br>
+<br>
+Voor de doeleinden, vermeld in paragraaf 1, tweede lid, verwerken de bevoegde diensten van de Vlaamse Gemeenschap de volgende gegevens van de organisator van het gezamenlijk huisonderwijs en de lesgevers, vermeld in artikel 26bis/1, §1, derde lid, van het decreet basisonderwijs van 25 februari 1997 en 110/29, §1, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010: de persoonsgegevens, vermeld in het eerste lid, 1°, 2°, 5° en 6°, en de contactgegevens, e-mailadres en telefoonnummer.<br>
+<br>
+Voor de doeleinden, vermeld in paragraaf 1, tweede lid, verwerken de bevoegde diensten van de Vlaamse Gemeenschap de volgende gegevens van andere personen uit het sociale netwerk rond de leerplichtige die een rol opnemen in het voldoen aan de voorwaarden van huisonderwijs: de persoonsgegevens, vermeld in het eerste lid, 1° en 5°.<br>
+<br>
+§3. De bevoegde diensten van de Vlaamse Gemeenschap zijn verwerkingsverantwoordelijke voor de gegevens, vermeld in paragraaf 1 en 2. De personeelsleden van de bevoegde diensten van de Vlaamse Gemeenschap hebben toegang tot de verwerkte gegevens als dat noodzakelijk is voor de taken die zij uitvoeren.<br>
+<br>
+§4. De bevoegde diensten van de Vlaamse Gemeenschap verstrekken de gegevens, vermeld in dit artikel, aan andere overheidsdiensten bevoegd voor onderwijs, jeugdhulp, justitie, binnenlandse zaken en welzijn wanneer dat noodzakelijk is voor de uitoefening van hun opdrachten.
+
+### ART X/3.2.
+
+§1. De onderwijsinspectie verwerkt persoonsgegevens van leerplichtigen die vallen onder het stelsel van huisonderwijs en hun ouders.<br>
+<br>
+De voormelde gegevens worden verwerkt voor de controle op het huisonderwijs, vermeld in artikel 26ter van het decreet basisonderwijs van 25 februari 1997 en in artikel 110/31 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+De verwerking van de persoonsgegevens, vermeld in paragraaf 2, zijn verwerkingen die noodzakelijk zijn voor het algemeen belang, vermeld in artikel 6.1, e), van de algemene verordening gegevensbescherming. Uit de verwerking van de persoonsgegevens, vermeld in paragraaf 2, kan ook de verwerking van gegevens over gezondheid, ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen als de bijzondere categorieën van persoonsgegevens, vermeld in artikel 9, eerste lid, van de algemene verordening gegevensbescherming volgen. De voormelde verwerkin-gen zijn noodzakelijke verwerkingen om redenen van zwaarwegend algemeen belang als vermeld in artikel 9, tweede lid, g), van de algemene verordening gegevensbescherming. De redenen van algemeen belang en zwaarwegend algemeen belang betreffen het garanderen van het recht op onderwijs van de leerplichtigen en de gezondheid en integriteit van de leerplichtigen.<br>
+<br>
+§2. Voor het doeleinde, vermeld in paragraaf 1, tweede lid, verwerkt de onderwijsinspectie de volgende gegevens van leerplichtigen die vallen onder het stelsel van huisonderwijs:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens: de voor- en achternaam, het geslacht, de geboortedatum, de geboorteplaats, de nationaliteit, het identificatienum-mer van het Rijksregister of het identificatienummer van de Kruispunt-bank, vermeld in artikel 8, §1, 1° en 2°, van de Wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;woonplaats: domicilieadres, hoofdverblijfplaats en informatie betreffende tijdelijke afwezigheid;<br>
+3°&nbsp;&nbsp; &nbsp;onderwijsloopbaangegevens: voorafgaande onderwijsloopbaan en studiebewijzen, deelname en resultaten van deelname aan examencom-missie basis- en secundair onderwijs, vrijstelling van de examencommissie als vermeld in artikel 26bis/2, §2, eerste lid, 1°, van het decreet basisonderwijs van 25 februari 1997 en als vermeld in artikel 110/30, §2, eerste lid, 1°, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+4°&nbsp;&nbsp; &nbsp;gezondheid: gegevens over de deelname aan systematische contacten en de medewerking aan profylactische maatregelen als vermeld artikel 6, §4, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
+5°&nbsp;&nbsp; &nbsp;huisonderwijsgegevens: gegevens als vermeld in artikel 26bis/1, §1, van het decreet basisonderwijs en artikel 110/29, §1, van de Codex Secundair Onderwijs van 17 december 2010;<br>
+6°&nbsp;&nbsp; &nbsp;de voor- en achternaam, het opleidingsniveau en het vakgebied van de lesgevers en het adres waar huisonderwijs wordt gegeven als er gezamen-lijk huisonderwijs georganiseerd wordt, conform artikel 26bis/1, §1, derde lid, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/29, §1, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+Voor de doeleinden, vermeld in paragraaf 1, verwerkt de onderwijsinspectie de volgende gegevens van ouders van de leerplichtigen die huisonderwijs volgen: de persoonsgegevens, vermeld in het eerste lid, 1° en 2°, de contactgegevens, e-mailadres en telefoonnummer en in zoverre de ouders ook optreden als lesgever als vermeld in artikel 26bis/1, §1, 2°, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/29, §1, 2°, van de Codex Secundair Onderwijs van 17 december 2010, de persoonsgegevens, vermeld in het eerste lid, 5°.<br>
+<br>
+Voor de doeleinden, vermeld in paragraaf 1, verwerkt de onderwijsinspectie de volgende gegevens van de organisator van het gezamenlijk huisonderwijs en de lesgevers, vermeld in artikel 26bis/1, §1, derde lid, van het decreet basisonderwijs van 25 februari 1997 en 110/29, §1, tweede lid, van de Codex Secundair Onderwijs van 17 december 2010: de persoonsgegevens, vermeld in het eerste lid, 1°, 2°, 5° en 6°, en de contactgegevens, e-mailadres en telefoonnummer.<br>
+<br>
+Voor de doeleinden, vermeld in paragraaf 1, verwerkt de onderwijsinspectie de volgende gegevens van andere personen uit het sociale netwerk rond de leerplichtige die een rol opnemen in het voldoen aan de voorwaarden van huisonderwijs: de persoonsgegevens, vermeld in het eerste lid, 1° en 5°.<br>
+<br>
+§3. De onderwijsinspectie is verwerkingsverantwoordelijke voor de gegevens, vermeld in paragraaf 1 en 2. De personeelsleden van onderwijsinspectie hebben toegang tot de verwerkte gegevens als dat noodzakelijk is voor de taken die zij uitvoeren.<br>
+<br>
+§4. De onderwijsinspectie verstrekt de gegevens, vermeld in dit artikel, aan andere overheidsdiensten bevoegd voor onderwijs, jeugdhulp, justitie, binnenlandse zaken en welzijn wanneer dat noodzakelijk is voor de uitoefening van hun opdrachten, in overeenstemming met artikel 8 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+<br>
+§5. De onderwijsinspectie verstrekt de gegevens over haar bevindingen bij de controle, vermeld in artikel 26ter van het decreet basisonderwijs van 25 februari 1997 en in artikel 110/31 van de Codex Secundair Onderwijs van 17 december 2010, aan bevoegde diensten van de Vlaamse Gemeenschap.<br>
+<br>
+De onderwijsinspectie en bevoegde diensten van de Vlaamse Gemeenschap zijn verwerkingsverantwoordelijke voor deze gegevens. De onderwijsinspectie zorgt ervoor dat de overgedragen persoonsgegevens correct zijn.<br>
+<br>
+§6. Als de onderwijsinspectie inschat dat de ontwikkelingskansen of de integriteit van een leerplichtige die onder het stelsel van huisonderwijs valt, niet gevrijwaard zijn, dan verstrekt de onderwijsinspectie de persoonsgege-vens, vermeld in paragraaf 2, aan de gemandateerde voorzieningen, vermeld in hoofdstuk 8, afdeling 2, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
+<br>
+De onderwijsinspectie en de gemandateerde voorzieningen zijn verwerkingsverantwoordelijke voor de gegevens. De onderwijsinspectie zorgt ervoor dat de overgedragen persoonsgegevens correct zijn.
 
 ## DEEL XI BEPALINGEN INZAKE CODIFICATIE VAN ONDERWIJSREGELGEVING
 
