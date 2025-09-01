@@ -2,16 +2,16 @@
   "codex_id": 1037667,
   "title": "Besluit van de Vlaamse Regering van 2022-09-09 over de lerarenbonus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037667/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "90a8e0e2f4a537094d018c412b10cdc21be581996915b01e948cac53d25e5907",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037667/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "42ef37586fcea1578b2e03b424800c3dd6f2b9184dc5e97dd08667414c03ff7e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037667&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-09-01",
   "made": "2022-09-09",
   "gazette": "2022-11-28",
   "numac": 2022021182,
   "document_start": "2022-09-01",
   "document_end": "2030-08-31",
-  "in_force": "2024-09-01",
+  "in_force": "2025-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
 }

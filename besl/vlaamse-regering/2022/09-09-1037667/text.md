@@ -79,11 +79,11 @@ De instelling waar het personeelslid de lerarenbonus, vermeld in artikel 2, opne
 
 ### ART 9/1.
 
-Een personeelslid dat een lerarenbonus als vermeld in artikel 2, kreeg vóór 1 september 2026, blijft na 31 augustus 2026 recht hebben op de lerarenbonus of kan na 31 augustus 2026 verder gebruik maken van de lerarenbonus gedurende drie kalenderjaren, te rekenen vanaf de eerste dag van de inschrijving aan een lerarenopleiding.
+Een personeelslid dat een lerarenbonus als vermeld in artikel 2, kreeg vóór 1 september 2030, blijft na 31 augustus 2030 recht hebben op de lerarenbonus of kan na 31 augustus 2030 verder gebruik maken van de lerarenbonus gedurende drie kalenderjaren, te rekenen vanaf de eerste dag van de inschrijving aan een lerarenopleiding.
 
 ### ART 10.
 
-Dit besluit treedt in werking op 1 september 2022. Met uitzondering van artikel 9/1 treedt dit besluit buiten werking op 1 september 2026.
+Dit besluit treedt in werking op 1 september 2022. Met uitzondering van artikel 9/1 treedt dit besluit buiten werking op 1 september 2030.
 
 ### ART 11.
 
