@@ -657,7 +657,11 @@ Een tekort op het vlak van de signaalfunctie en consultatieve leerlingenbegeleid
 Een tekort op het vlak van de kwaliteit van de leersteun, vermeld in artikel 38, §1, derde lid, kan leiden tot de verplichting voor het leersteuncentrum om zich extern te laten begeleiden.<br>
 <br>
 §6. Tijdens de eerste twee schooljaren van inwerkingtreding van bij decreet of besluit vastgelegde onderwijsdoelen, kan het niet of niet in voldoende mate bereiken of nastreven, naargelang van het geval, van die onderwijsdoelen, niet leiden tot een advies als vermeld in paragraaf 5, eerste lid, 2°.<br>
-:<br>
+<br>
+In afwijking van het eerste lid zijn de volgende gedoogperiodes van toepassing voor het basisonderwijs:<br>
+1 ° tijdens de eerste twee schooljaren van inwerkingtreding van de bij decreet of besluit vastgelegde onderwijsdoelen kan het niet of niet in voldoende mate implementeren, naargelang van het geval, van die onderwijsdoelen niet leiden tot een advies als vermeld in paragraaf 5, eerste lid, 2°;<br>
+2° tot en met het schooljaar 2030-2031 kan het niet of niet in voldoende mate bereiken of nastreven, naargelang van het geval, van die onderwijsdoelen niet leiden tot een advies als vermeld in paragraaf 5, eerste lid, 2°.<br>
+<br>
 §7. Voor het basisen secundair onderwijs zijn volgende evaluaties van het gelijkeonderwijskansenbeleid mogelijk:<br>
 1° een positieve evaluatie: dit heeft als gevolg dat de school het werkingsbudget op basis van de leerlingenkenmerken, alsook, naargelang het geval, de SES-lestijden, de aanvullende lestijden, de extra uren-leraar of de extra lesuren ontvangt tot de daaropvolgende schooldoorlichting, conform de berekeningen gebaseerd op, naargelang het geval, artikel 85, §2, 134 en 139ter decies van het decreet basisonderwijs van 25 februari 1997 en artikel 227, 235, 249 of 319 van de Codex Secundair Onderwijs van 17 december 2010;<br>
 2° een negatieve evaluatie: dit heeft als gevolg dat de school een engagement tot remediëring met externe begeleiding en ondersteuning moet aangaan. Als de eerstvolgende evaluatie door de onderwijsinspectie opnieuw negatief is, dan ontvangt de school vanaf het daaropvolgend schooljaar, slechts de helft van het werkingsbudget op basis van de leerlingenkenmerken, alsook, naargelang het geval, de helft van het aantal SES-lestijden, aanvullende lestijden, extra uren-leraar of extra lesuren waarop ze normaliter recht heeft en dat tot en met het schooljaar waarin een evaluatie positief is. De onderwijsinspectie evalueert de school opnieuw binnen een termijn van 1 jaar.
