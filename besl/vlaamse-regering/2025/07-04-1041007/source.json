@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041007,
+  "title": "Besluit van de Vlaamse Regering van 2025-07-04 tot erkenning van het graduaat in de sales support als nieuwe opleiding van Hogeschool Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041007/VolledigDocument?datum=2025-09-01",
+  "source_sha256": "fb0f6923035ed0890c5ebe3c431ac2ee37757e6c29ed0d3cc9312ca147485f09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041007&param=informatie",
+  "as_of": "2025-09-01",
+  "made": "2025-07-04",
+  "gazette": "2025-09-05",
+  "numac": 2025005266,
+  "document_start": "2025-09-01",
+  "document_end": null,
+  "in_force": "2025-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
