@@ -34,7 +34,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-Modulaire opleiding Procesoperator Chemie<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/10/31_1.pdf#page=45" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+...
 
 ### BIJLAGE
 
