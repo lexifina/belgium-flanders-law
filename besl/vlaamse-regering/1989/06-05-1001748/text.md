@@ -2,10 +2,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend personeel van de volgende instellingen die door de Vlaamse Gemeenschap gefinancierd en gesubsidieerd worden :<br>
-1° de instellingen voor voltijds secundair onderwijs;<br>
-2° de instellingen voor voltijds secundair onderwijs die deeltijds beroepssecundair onderwijs organiseren;<br>
-3° de instellingen voor voltijds secundair zeevisserijonderwijs die deeltijds secundair zeevisserijonderwijs organiseren.<br>
+Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend personeel van de instellingen voor voltijds secundair onderwijs die door de Vlaamse Gemeenschap gefinancierd en gesubsidieerd worden.<br>
 <br>
 Dit besluit is ook van toepassing op de autonome centra voor deeltijds beroepssecundair onderwijs die door de Vlaamse Gemeenschap gefinancierd en gesubsidieerd worden.<br>
 <br>
