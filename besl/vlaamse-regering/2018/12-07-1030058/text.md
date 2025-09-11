@@ -59,7 +59,7 @@ In dit hoofdstuk wordt verstaan onder:<br>
 1° voorziening: een van de volgende instellingen als zij vallen onder het toepassingsgebied van de collectieve arbeidsovereenkomst of een protocol zoals voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en in de uitvoeringsbesluiten bij deze wet, vermeld in artikel 3 van dit besluit:<br>
 a) de revalidatievoorzieningen<br>
 b) de woonzorgcentra;<br>
-c) de dagverzorgingscentra;<br>
+c) de centra voor dagverzorging;<br>
 d) de centra voor kortverblijf;<br>
 e) de psychiatrische verzorgingstehuizen;<br>
 f) de multidisciplinaire begeleidingsequipes voor palliatieve zorg;<br>
@@ -71,10 +71,11 @@ b) de medewerkers patiëntenvervoer;<br>
 c) de laboratoriumtechnologen;<br>
 d) de opvoeders-begeleiders die in de zorgteams geïntegreerd zijn;<br>
 e) de logistiek assistenten;<br>
-f) de maatschappelijk assistenten en psychologisch assistenten die in de zorgteams werken of die in het therapeutisch programma geïntegreerd zijn;<br>
+f) de maatschappelijk assistenten en psychologisch assistenten die in de zorgteams werken of die in het therapeutisch programma geïntegreerd zijn die tewerkgesteld zijn in de voorzieningen vermeld in punt 1°, a), e), f), g) en h);;<br>
 g) de werknemers vermeld in artikel 54bis en 54ter van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
-h) de kinesitherapeuten, ergotherapeuten, logopedisten, audiologen en diëtisten;<br>
-i) de psychologen, orthopedagogen en pedagogen, die in de zorgteams werken of die in het therapeutisch programma geïntegreerd zijn;<br>
+h) de kinesitherapeuten, ergotherapeuten, logopedisten, audiologen en diëtisten die tewerkgesteld zijn in de voorzieningen vermeld in punt 1°, a), e), f), g) en h);<br>
+i) de psychologen, orthopedagogen en pedagogen, die in de zorgteams werken of die in het therapeutisch programma geïntegreerd zijn die tewerkgesteld zijn in de voorzieningen vermeld in punt 1°, a), e), f), g) en h);<br>
+j) het personeel voor reactivering, vermeld in artikel 431 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming die tewerkgesteld zijn in de voorzieningen vermeld in punt 1°, b), c) en d);<br>
 3° gelijkgestelde dagen of uren: de niet-gepresteerde dagen of uren die gelijkgesteld worden als ze aanleiding geven tot de betaling van een vergoeding door de voorziening;<br>
 4° niet-gelijkgestelde dagen of uren: de niet-gepresteerde dagen of uren die niet gelijkgesteld worden met arbeidsdagen of uren, als ze geen aanleiding geven tot de betaling van een vergoeding door de voorziening. Daarin moeten ook de dagen worden opgenomen van het personeelslid met disponibiliteit door ziekte.<br>
 <br>
@@ -183,9 +184,9 @@ Op basis van het INSZ-nummer dat wordt meegedeeld conform het eerste lid, haalt 
 <br>
 De voorziening is verplicht om de voorlopige tegemoetkomingen, vermeld in artikel 8, die eventueel te veel betaald zijn, terug te storten aan de administratie als blijkt dat ze op geen andere wijze gerecupereerd kunnen worden.<br>
 <br>
-§3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
+§3. De administratie kan jaarlijks de gegevens die meegedeeld zijn in de elektronisch ingevulde vragenlijst, vermeld in paragraaf 2, controleren&nbsp;tot en met 31 december van het tweede kalenderjaar dat volgt op de laatste dag van de referentieperiode waarvoor de gegevens zijn doorgegeven door de gegevens te vergelijken met de authentieke bronnen van de bevoegde overheidsdiensten die daarvoor beschikbaar zijn. Als de administratie dat nodig acht, kan het bijkomende informatie opvragen bij de voorziening.<br>
 <br>
-Als de administratie in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen referentieperiode, kan de administratie de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de referentieperiode. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.<br>
+Als de administratie in het kader van de controles, vermeld in het eerste lid, vaststelt dat er foutieve gegevens meegedeeld zijn in de laatst afgelopen periode waarvoor de gegevens zijn doorgegeven, kan de administratie de gegevens die de voorziening via de elektronische vragenlijst bezorgd heeft, nadat het informatie ingewonnen heeft bij de voorziening, aanpassen op basis van de reële gegevens voor de periode waarvoor de gegevens zijn doorgegeven. Op basis van de reële gegevens wordt de tegemoetkoming herberekend.<br>
 <br>
 §4. De administratie bewaart de persoonsgegevens, vermeld in paragraaf 1, gedurende maximaal tien jaar nadat de voorziening de gegevens in kwestie heeft bezorgd.
 
@@ -215,7 +216,9 @@ De voorziening waarvoor met toepassing van het zevende lid, uitzonderlijk en een
 <br>
 Als een voorziening de gegevens uitzonderlijk en eenmalig laat wijzigen conform het zevende lid, met het oog op een wijziging van de berekening van de bedragen, vermeld in artikel 8, §1, eerste lid, van dit besluit, door de administratie én een wijziging van de basistegemoetkoming voor zorg conform artikel 454, achtste lid, en/of artikel 456, §2, achtste lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wordt alleen het bedrag van de basistegemoetkoming voor zorg verminderd conform artikel 454, tiende lid, en artikel 456, §2, tiende lid van het voormelde besluit. De bedragen van de definitieve tegemoetkomingen per personeelslid, vermeld in artikel 8, §1, eerste lid, van dit besluit, worden in dat geval niet verminderd.<br>
 <br>
-Als de gegevens, vermeld in artikel 5, §1, eerste lid, op de eenentwintigste dag na de dag waarop de voorziening de definitieve berekening, vermeld in het zesde lid, heeft ontvangen, nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.
+Als de gegevens, vermeld in artikel 5, §1, eerste lid, op de eenentwintigste dag na de dag waarop de voorziening de definitieve berekening, vermeld in het zesde lid, heeft ontvangen, nog altijd niet zijn bezorgd, kan de administratie de terugbetaling eisen van de voorlopige tegemoetkomingen, vermeld in artikel 8.<br>
+<br>
+Na afloop van de termijn, vermeld in het vijfde lid, kan de voorziening de gegevens niet meer aanpassen. De administratie kan de gegevens aanpassen naar aanleiding van een gemotiveerd verzoek, conform het zevende lid, een vaststelling in het kader van een controle, conform artikel 5, §3, of in geval van een vergissing van het agentschap.
 
 ### ART 5/2.
 
