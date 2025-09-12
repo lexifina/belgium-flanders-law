@@ -1,0 +1,334 @@
+# Ministerieel besluit van 2025-09-12 houdende goedkeuring van de lijst met de definitieve onderverdeling van gemeenten in categorieën in het kader van de voortgangstoets van 2024
+
+### Aanhef
+
+DE VLAAMSE MINISTER VAN WONEN, ENERGIE EN KLIMAAT, TOERISME EN JEUGD,<br>
+&nbsp;&nbsp; &nbsp;<br>
+Gelet op artikel 2.23, §2 van de Vlaamse Codex van Wonen van 2021;&nbsp;<br>
+Gelet op artikel 2.58 van het Uitvoeringsbesluit Vlaamse Codex Wonen;&nbsp;<br>
+Na mededeling aan de Vlaamse Regering, 12 september 2025,<br>
+&nbsp;&nbsp; &nbsp;<br>
+BESLUIT:
+
+### ART 1.
+
+De lijst met de definitieve onderverdeling van gemeenten in categorieën in het kader van de voortgangstoets van 2024 wordt goedgekeurd. De goedgekeurde lijst is opgenomen in de bijlage bij dit besluit.
+
+### ART 2.
+
+Dit besluit treedt in werking op de datum van ondertekening ervan.
+
+### BIJLAGE
+
+<strong>Voortgangstoets 2024 – Definitieve indeling in categorieën</strong><br>
+<br>
+<strong><u>I. Gemeenten in categorie 1: 170 gemeenten </u></strong><br>
+<br>
+1. AALST<br>
+2 AARSCHOT<br>
+3. ANTWERPEN<br>
+4. ARENDONK<br>
+5. AS<br>
+6. ASSENEDE<br>
+7. AVELGEM<br>
+8. BAARLE-HERTOG<br>
+9. BALEN<br>
+10. BEERNEM<br>
+11. BEERSE<br>
+12. BEGIJNENDIJK<br>
+13. BEKKEVOORT<br>
+14. BERINGEN<br>
+15. BERLAAR<br>
+16. BEVEREN<br>
+17. BIERBEEK<br>
+18. BLANKENBERGE<br>
+19. BOCHOLT<br>
+20. BOECHOUT<br>
+21. BOOM<br>
+22. BORGLOON<br>
+23. BORNEM<br>
+24. BORSBEEK<br>
+25. BRECHT<br>
+26. BREDENE<br>
+27. BREE<br>
+28. BRUGGE<br>
+29. BUGGENHOUT<br>
+30. DE HAAN<br>
+31. DE PANNE<br>
+32. DE PINTE<br>
+33. DEERLIJK<br>
+34. DEINZE<br>
+35. DENDERLEEUW<br>
+36. DENDERMONDE<br>
+37. DENTERGEM<br>
+38. DIEST<br>
+39. DIKSMUIDE<br>
+40. DILSEN-STOKKEM<br>
+41. DUFFEL<br>
+42. EDEGEM<br>
+43. EEKLO<br>
+44. ERPE-MERE<br>
+45. ESSEN<br>
+46. GEEL<br>
+47. GENK<br>
+48. GENT<br>
+49. GERAARDSBERGEN<br>
+50. GINGELOM<br>
+51. GISTEL<br>
+52. GLABBEEK<br>
+53. HAACHT<br>
+54. HAM<br>
+55. HAMME<br>
+56. HAMONT-ACHEL<br>
+57. HARELBEKE<br>
+58. HASSELT<br>
+59. HEIST-OP-DEN-BERG<br>
+60. HEMIKSEM<br>
+61. HERENT<br>
+62. HERENTALS<br>
+63. HERENTHOUT<br>
+64. HERK-DE-STAD<br>
+65. HERSTAPPE<br>
+66. HERZELE<br>
+67. HEUVELLAND<br>
+68. HOESELT<br>
+69. HOOGLEDE<br>
+70. HOOGSTRATEN<br>
+71. HOUTHALEN-HELCHTEREN<br>
+72. HOUTHULST<br>
+73. IEPER<br>
+74. INGELMUNSTER<br>
+75. IZEGEM<br>
+76. KASTERLEE<br>
+77. KINROOI<br>
+78. KLUISBERGEN<br>
+79. KNOKKE-HEIST<br>
+80. KOEKELARE<br>
+81. KORTEMARK<br>
+82. KORTESSEM<br>
+83. KORTRIJK<br>
+84. KRUIBEKE<br>
+85. KUURNE<br>
+86. LAAKDAL<br>
+87. LANGEMARK-POELKAPELLE<br>
+88. LEBBEKE<br>
+89. LEDEGEM<br>
+90. LENDELEDE<br>
+91. LEOPOLDSBURG<br>
+92. LICHTERVELDE<br>
+93. LIEDEKERKE<br>
+94. LIER<br>
+95. LINT<br>
+96. LOKEREN<br>
+97. LOMMEL<br>
+98. MAASEIK<br>
+99. MAASMECHELEN<br>
+100. MALLE<br>
+101. MECHELEN<br>
+102. MEERHOUT<br>
+103. MELLE<br>
+104. MENEN<br>
+105. MERELBEKE<br>
+106. MESEN<br>
+107. MEULEBEKE<br>
+108. MOERBEKE<br>
+109. MOL<br>
+110. MOORSLEDE<br>
+111. MORTSEL<br>
+112. NAZARETH<br>
+113. NIEUWERKERKEN<br>
+114. NIEUWPOORT<br>
+115. NINOVE<br>
+116. OLEN<br>
+117. OOSTENDE<br>
+118. OOSTERZELE<br>
+119. OOSTKAMP<br>
+120. OOSTROZEBEKE<br>
+121. OUDENAARDE<br>
+122. OUDENBURG<br>
+123. PEER<br>
+124. PELT<br>
+125. PEPINGEN<br>
+126. POPERINGE<br>
+127. PUTTE<br>
+128. RIJKEVORSEL<br>
+129. ROESELARE<br>
+130. ROTSELAAR<br>
+131. RUISELEDE<br>
+132. SCHELLE<br>
+133. SINT-GILLIS-WAAS<br>
+134. SINT-LIEVENS-HOUTEM<br>
+135. SINT-NIKLAAS<br>
+136. SINT-TRUIDEN<br>
+137. SPIERE-HELKIJN<br>
+138. STADEN<br>
+139. STEKENE<br>
+140. TEMSE<br>
+141. TIELT<br>
+142. TIENEN<br>
+143. TONGEREN<br>
+144. TORHOUT<br>
+145. TURNHOUT<br>
+146. VEURNE<br>
+147. VILVOORDE<br>
+148. VORSELAAR<br>
+149. VOSSELAAR<br>
+150. WACHTEBEKE<br>
+151. WAREGEM<br>
+152. WELLEN<br>
+153. WERVIK<br>
+154. WESTERLO<br>
+155. WETTEREN<br>
+156. WEVELGEM<br>
+157. WEZEMBEEK-OPPEM<br>
+158. WICHELEN<br>
+159. WIELSBEKE<br>
+160. WILLEBROEK<br>
+161. WINGENE<br>
+162. ZEDELGEM<br>
+163. ZELE<br>
+164. ZELZATE<br>
+165. ZONNEBEKE<br>
+166. ZOTTEGEM<br>
+167. ZOUTLEEUW<br>
+168. ZUTENDAAL<br>
+169. ZWEVEGEM<br>
+170. ZWIJNDRECHT<br>
+<br>
+<strong><u>II. Gemeenten in categorie 2a: 124 gemeenten</u></strong><br>
+<br>
+1. AARTSELAAR<br>
+2. AFFLIGEM<br>
+3. ALKEN<br>
+4. ANZEGEM<br>
+5. ARDOOIE<br>
+6. ASSE<br>
+7. BEERSEL<br>
+8. BERLARE<br>
+9. BERTEM<br>
+10. BEVER<br>
+11. BILZEN<br>
+12. BONHEIDEN<br>
+13. BOORTMEERBEEK<br>
+14. BOUTERSEM<br>
+15. BRASSCHAAT<br>
+16. DAMME<br>
+17. DESSEL<br>
+18. DESTELBERGEN<br>
+19. DIEPENBEEK<br>
+20. DILBEEK<br>
+21. DROGENBOS<br>
+22. GALMAARDEN<br>
+23. GAVERE<br>
+24. GEETBETS<br>
+25. GOOIK<br>
+26. GRIMBERGEN<br>
+27. GROBBENDONK<br>
+28. HAALTERT<br>
+29. HALEN<br>
+30. HALLE<br>
+31. HECHTEL-EKSEL<br>
+32. HEERS<br>
+33. HERNE<br>
+34. HERSELT<br>
+35. HEUSDEN-ZOLDER<br>
+36. HOEGAARDEN<br>
+37. HOEILAART<br>
+38. HOREBEKE<br>
+39. HOVE<br>
+40. HULDENBERG<br>
+41. HULSHOUT<br>
+42. ICHTEGEM<br>
+43. KALMTHOUT<br>
+44. KAMPENHOUT<br>
+45. KAPELLEN<br>
+46. KAPELLE-OP-DEN-BOS<br>
+47. KAPRIJKE<br>
+48. KEERBERGEN<br>
+49. KOKSIJDE<br>
+50. KONTICH<br>
+51. KORTENAKEN<br>
+52. KORTENBERG<br>
+53. KRAAINEM<br>
+54. KRUISEM<br>
+55. LAARNE<br>
+56. LANAKEN<br>
+57. LANDEN<br>
+58. LEDE<br>
+59. LENNIK<br>
+60. LEUVEN<br>
+61. LIERDE<br>
+62. LIEVEGEM<br>
+63. LILLE<br>
+64. LINKEBEEK<br>
+65. LINTER<br>
+66. LOCHRISTI<br>
+67. LONDERZEEL<br>
+68. LO-RENINGE<br>
+69. LUBBEEK<br>
+70. LUMMEN<br>
+71. MAARKEDAL<br>
+72. MACHELEN<br>
+73. MALDEGEM<br>
+74. MEISE<br>
+75. MERCHTEM<br>
+76. MERKSPLAS<br>
+77. MIDDELKERKE<br>
+78. NIEL<br>
+79. NIJLEN<br>
+80. OPWIJK<br>
+81. OUD-HEVERLEE<br>
+82. OUDSBERGEN<br>
+83. OUD-TURNHOUT<br>
+84. OVERIJSE<br>
+85. PITTEM<br>
+86. PUURS-SINT-AMANDS<br>
+87. RANST<br>
+88. RAVELS<br>
+89. RETIE<br>
+90. RIEMST<br>
+91. RONSE<br>
+92. ROOSDAAL<br>
+93. RUMST<br>
+94. SCHERPENHEUVEL-ZICHEM<br>
+95. SCHILDE<br>
+96. SCHOTEN<br>
+97. SINT-GENESIUS-RODE<br>
+98. SINT-KATELIJNE-WAVER<br>
+99. SINT-LAUREINS<br>
+100. SINT-MARTENS-LATEM<br>
+101. SINT-PIETERS-LEEUW<br>
+102. STABROEK<br>
+103. STEENOKKERZEEL<br>
+104. TERNAT<br>
+105. TERVUREN<br>
+106. TESSENDERLO<br>
+107. TIELT-WINGE<br>
+108. TREMELO<br>
+109. VLETEREN<br>
+110. VOEREN<br>
+111. WAASMUNSTER<br>
+112. WEMMEL<br>
+113. WIJNEGEM<br>
+114. WOMMELGEM<br>
+115. WORTEGEM-PETEGEM<br>
+116. WUUSTWEZEL<br>
+117. ZANDHOVEN<br>
+118. ZAVENTEM<br>
+119. ZEMST<br>
+120. ZOERSEL<br>
+121. ZONHOVEN<br>
+122. ZUIENKERKE<br>
+123. ZULTE<br>
+124. ZWALM<br>
+<br>
+<br>
+<strong><u>III. Gemeenten in categorie 2b: 6 gemeenten</u></strong><br>
+<br>
+1. AALTER<br>
+2. ALVERINGEM<br>
+3. BRAKEL<br>
+4. EVERGEM<br>
+5. HOLSBEEK<br>
+6. JABBEKE<br>
+&nbsp;

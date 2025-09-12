@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041285,
+  "title": "Ministerieel besluit van 2025-09-12 houdende goedkeuring van de lijst met de definitieve onderverdeling van gemeenten in categorieën in het kader van de voortgangstoets van 2024",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041285/VolledigDocument?datum=2025-09-12",
+  "source_sha256": "1a93f2eaae6bf3a60498952cf16c07f942a3348e2890de02141012fbb03ce705",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041285&param=informatie",
+  "as_of": "2025-09-12",
+  "made": "2025-09-12",
+  "gazette": "2025-10-06",
+  "numac": 2025007241,
+  "document_start": "2025-09-12",
+  "document_end": null,
+  "in_force": "2025-09-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
