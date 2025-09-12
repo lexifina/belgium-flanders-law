@@ -64,7 +64,7 @@ Iedere maand wordt per OLO met een resterende duurtijd van 1 tot 30 jaar het gem
 <br>
 Per type lening waarin een OLO-referentie wordt gebruikt, en per looptijd wordt een gewogen gemiddelde OLO bepaald. De berekening gaat uit van een theoretische aflossingstabel per leningstype, waarbij de kapitaalaflossingen starten vanaf het einde van het eerste jaar.<br>
 <br>
-Voor een lening als vermeld in artikel 15, starten de kapitaalaflossingen in de theoretische aflossingstabel op het einde van het tweede jaar. Voor dat leningstype wordt uitgegaan van een rentevoet van -1 % en een progressiviteit in de aflossingen van 2%.<br>
+Voor een lening als vermeld in artikel 15, starten de kapitaalaflossingen in de theoretische aflossingstabel op het einde van het tweede jaar.&nbsp;Voor het leningstype wordt uitgegaan van een lening als vermeld in artikel 5.44, §2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021.<br>
 <br>
 Als er geen OLO is met een resterende duurtijd op een bepaalde looptijd, wordt via interpolatie of extrapolatie een waarde bepaald, tenzij het om een looptijd van langer dan dertig jaar gaat. In dat geval wordt de waarde op dertig jaar genomen.<br>
 <br>
@@ -169,10 +169,10 @@ In dit artikel wordt verstaan onder een FS3-bulletlening: de lening zoals vermel
 
 ### ART 15.
 
-Onder de volgende voorwaarden kan de VMSW een marktconforme FS3-lening op 33 jaar met een tussenkomst toekennen:<br>
+Onder de volgende voorwaarden kan de VMSW een marktconforme FS4-lening op 33 jaar met een tussenkomst toekennen:<br>
 1° aard van de lening: een lening met progressieve annuïteiten;<br>
-2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal vijf jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 33 jaar;<br>
-3° aflossing: kapitaalaflossingen volgens een progressiviteit van 2 % en een rentevoet van -1 %;<br>
+2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal tien jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 33 jaar;<br>
+3° aflossing: kapitaalaflossingen volgens een progressiviteit en een rentevoet als vermeld in artikel 5.44, §2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021;<br>
 4° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5 van dit besluit, die zowel tijdens de opname- als de consolidatiefase dezelfde is;<br>
 5° vaststelling rentevoet: op basis van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker, referentierentevoet verhoogd met marge;<br>
 6° bijkomende marge: de VMSW kan een bijkomende marge aanrekenen van minimaal 25 en maximaal 50 basispunten conform artikel 4.78 van het Besluit Vlaamse Codex Wonen van 2021;<br>
@@ -237,7 +237,7 @@ De VMSW kan een lening Rollend Grondfonds op 33 jaar verstrekken met een tussenk
 Onder de volgende voorwaarden kan de VMSW de lening, vermeld in het eerste lid, toekennen:<br>
 1° aard van de lening: een lening met progressieve annuïteiten;<br>
 2° looptijd: de lening wordt verstrekt binnen een periode van drie maanden na de datum van de beslissing over de toekenning van de Vlaamse minister, bevoegd voor het woonbeleid. De opnameperiode duurt maximaal tien jaar. De aflossingsfase duurt 33 jaar;<br>
-3° aflossing: kapitaalaflossingen rekening houdend met een progressiviteit van 2 % en een rentevoet van -1 %;<br>
+3° aflossing: kapitaalaflossingen rekening houdend met een progressiviteit en een rentevoet als vermeld in artikel 5.44, §2, eerste lid, van het Besluit Vlaamse Codex Wonen van 2021;<br>
 4° referentierentevoet: vaste rentevoet gebaseerd op de OLO-referentie die bepaald is conform artikel 5 van dit besluit, die zowel tijdens de opname- als de consolidatiefase dezelfde is;<br>
 5° vaststelling rentevoet: op basis van de datum van de vraag voor budgettoewijzing van de ontlener aan de leningsverstrekker wordt de rentevoet vastgelegd als de som van de referentierentevoet en de marge;<br>
 6° bijkomende marge: de VMSW kan een marge aanrekenen van minimaal 25 en maximaal 50 basispunten conform artikel 4.78 van het Besluit Vlaamse Codex Wonen van 2021;<br>
