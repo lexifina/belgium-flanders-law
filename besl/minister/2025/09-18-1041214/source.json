@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041214,
+  "title": "Ministerieel besluit van 2025-09-18 tot lancering van een oproep in 2025 om vormingsplannen in te dienen voor het vormingstype vormingsprojecten over gewasbescherming of smart farming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041214/VolledigDocument?datum=2025-09-15",
+  "source_sha256": "d45acef1ba36d8cd6f6b0d9f6cc8744c5fc132cb45a976bb460d628b95f76bb4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041214&param=informatie",
+  "as_of": "2025-09-15",
+  "made": "2025-09-18",
+  "gazette": "2025-09-23",
+  "numac": 2025006597,
+  "document_start": "2025-09-15",
+  "document_end": null,
+  "in_force": "2025-09-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2025-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
