@@ -233,11 +233,11 @@ Van de vergunningsaanvraag, vermeld in het eerste lid, wordt kennisgenomen en er
 ### ART 15/1.
 
 Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een project of voor de verandering van een project, waarvoor overeenkomstig artikel 15 het college van burgemeester en schepenen bevoegd is, is evenwel de deputatie bevoegd als voldaan is aan volgende twee voorwaarden:<br>
-1° voor het project moet een milieueffectrapport worden opgesteld en is er geen ontheffing van de rapportageverplichting verkregen;<br>
+1°&nbsp;voor het project wordt een milieueffectrapport of project-m.e.r.-screening opgesteld en is er geen ontheffing van de rapportageverplichting verkregen;<br>
 2° het college van burgemeester en schepenen is initiatiefnemer en aanvrager van het project.<br>
 <br>
 Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een project of voor de verandering van een project, waarvoor overeenkomstig artikel 15 de deputatie bevoegd is, is evenwel de Vlaamse Regering bevoegd als voldaan is aan volgende twee voorwaarden:<br>
-1° voor het project moet een milieueffectrapport worden opgesteld en is er geen ontheffing van de rapportageverplichting verkregen;<br>
+1°&nbsp;voor het project wordt een milieueffectrapport of project-m.e.r.-screening opgesteld en is er geen ontheffing van de rapportageverplichting verkregen;<br>
 2° de deputatie is initiatiefnemer en aanvrager van het project.
 
 ## Onderafdeling 2 Omgevingsvergunningscommissie
@@ -297,9 +297,7 @@ De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 20.
 
-Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.<br>
-<br>
-Als de aanvraag door de bevoegde overheid zelf wordt ingediend, dan verricht de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar de in het eerste lid vermelde taken.
+Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.
 
 ### ART. 21.
 
@@ -473,9 +471,7 @@ De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 39.
 
-Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.<br>
-<br>
-Als de aanvraag door de bevoegde overheid zelf wordt ingediend, dan verricht de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar de in het eerste lid vermelde taken.
+Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.
 
 ### ART. 40.
 
