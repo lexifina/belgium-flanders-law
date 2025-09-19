@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041521,
+  "title": "Decreet van 2025-11-21 tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat het vermijden van een belangenconflict betreft bij omgevingsvergunningen die door een gemeente of provincie zijn aangevraagd",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041521/VolledigDocument?datum=2025-09-19",
+  "source_sha256": "44de6a5df8be363f2e2493ef89bb1c442fe4657a5327a3d302beec52a9a6438c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041521&param=informatie",
+  "as_of": "2025-09-19",
+  "made": "2025-11-21",
+  "gazette": "2025-11-28",
+  "numac": 2025008940,
+  "document_start": "2025-09-19",
+  "document_end": null,
+  "in_force": "2025-09-19",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
