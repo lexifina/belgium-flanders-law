@@ -2,16 +2,16 @@
   "codex_id": 1041295,
   "title": "Besluit van de Vlaamse Regering van 2025-09-26 tot herverdeling van VAK en VEK op begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2025 in het kader van de toekenning investeringsmiddelen en gastbijdrage EMPHASIS ERIC aan VIB in 2025",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041295/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "00c58b925df85d9223b2876192c75d2b3847eea3617df8cd1deb4890047e6af8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041295/VolledigDocument?datum=2025-09-26",
+  "source_sha256": "6193f19229ce077437c118a33a09bc343b98fffb34d1a85030a44e0fec8d7f9f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041295&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-09-26",
   "made": "2025-09-26",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-09-26",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-09-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-09-26; future article versions excluded; article text as the API gives it"
 }
