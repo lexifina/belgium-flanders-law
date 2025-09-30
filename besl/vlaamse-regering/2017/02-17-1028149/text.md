@@ -353,7 +353,9 @@ De vermindering wordt automatisch beslist voor iedere maatwerkafdeling waarbij d
 <br>
 De invulling in het jaar in kwestie wordt gemeten aan de hand van de contractuele prestatiebreuk van alle doelgroepwerknemers met loonkosten in het jaar in kwestie.<br>
 <br>
-De beslissing, vermeld in het tweede en het vijfde lid, heeft ingang de eerste dag van het vierde kwartaal.
+De beslissing, vermeld in het tweede en het vijfde lid, heeft ingang de eerste dag van het vierde kwartaal.<br>
+<br>
+In afwijking van het derde lid beslist de minister over het aandeel en de datum van toekenning van het vrijgekomen contingent dat in 2025 voor herverdeling in aanmerking komt. Het aandeel van het contingent dat voor herverdeling in aanmerking komt wordt per een voltijdsequivalent automatisch herverdeeld onder maatwerkbedrijven met meer dan 95% invulling op jaarbasis, waarbij het maatwerkbedrijf met de hoogste invullingsgraad als eerste in aanmerking komt.
 
 ### ART 31/1.
 
