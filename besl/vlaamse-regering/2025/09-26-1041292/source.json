@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041292,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-26 tot wijziging van artikel 31 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041292/VolledigDocument?datum=2025-09-30",
+  "source_sha256": "96956723794eb0705b07ca08e0f2f34f336b4b76c9e582f603bb6fda84a39d85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041292&param=informatie",
+  "as_of": "2025-09-30",
+  "made": "2025-09-26",
+  "gazette": "2025-10-01",
+  "numac": 2025007293,
+  "document_start": "2025-09-30",
+  "document_end": null,
+  "in_force": "2025-09-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
