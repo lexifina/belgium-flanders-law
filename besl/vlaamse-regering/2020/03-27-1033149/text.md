@@ -34,7 +34,7 @@ In dit besluit wordt verstaan onder:<br>
 a) het administratieve en geldelijke statuut van het personeel;<br>
 b) de personeelsformatie van de strategische adviesraad SERV;<br>
 c) de betrekkingen tussen de overheid en de vakbonden van haar personeel;<br>
-d) het ontwerpen en vaststellen van aanvullende bepalingen, richtlijnen, afspraken, standaarden, normen en procedures voor personeel, die gelden voor de diensten van de Vlaamse overheid of de Vlaamse openbare instellingen alsook het toezicht op de toepassing ervan;<br>
+d) het ontwerpen en vaststellen van aanvullende bepalingen, richtlijnen, afspraken, standaarden, normen en procedures voor personeel, die gelden voor de diensten van de Vlaamse overheid alsook het toezicht op de toepassing ervan;<br>
 e) de organisatie van en het functioneren met betrekking tot de personeelsaangelegenheden;<br>
 f) het voeren van een beleid inzake humanresourcesmanagement;<br>
 g) de coördinatie van de uitvoeringsmaatregelen over het specifieke personeelsbeleid;<br>
@@ -48,11 +48,11 @@ c) de administratieve diensten van de Raad van het Gemeenschapsonderwijs;<br>
 5° intern verzelfstandigd agentschap zonder rechtspersoonlijkheid: een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid als vermeld in artikel 1quater van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 6° specifieke personeelsbeleid: de toepassing van het algemene personeelsbeleid en van de bepalingen ervan op het individuele personeelslid;<br>
 7° Vlaamse minister, bevoegd voor de bestuurszaken: de Vlaamse minister, bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie;<br>
-8° Vlaamse openbare instelling: een openbare instelling, die niet ressorteert onder de diensten van de Vlaamse overheid en waarvoor de Vlaamse Regering bevoegd is om de rechtspositie van het personeel vast te stellen;
+8° ...;
 
 ### ART 2.
 
-De Vlaamse minister, bevoegd voor de bestuurszaken, regelt het algemene personeelsbeleid van de diensten van de Vlaamse overheid en de Vlaamse openbare instellingen conform de bepalingen van dit besluit en met behoud van de toepassing van de reglementaire bepalingen die daarvoor gelden.
+De Vlaamse minister, bevoegd voor de bestuurszaken, regelt het algemene personeelsbeleid van de diensten van de Vlaamse overheid conform de bepalingen van dit besluit en met behoud van de toepassing van de reglementaire bepalingen die daarvoor gelden.
 
 ### ART 3.
 
@@ -68,9 +68,9 @@ Voor de aangelegenheden, vermeld in het eerste lid, vraagt de Vlaamse minister d
 
 ### ART 5.
 
-Voor het algemene personeelsbeleid van een Vlaamse openbare instelling en van de strategische adviesraad SERV wordt het initiatief genomen door de Vlaamse minister die belast is met het bestuur van of het toezicht op de instelling of de strategische adviesraad.<br>
+Voor het algemene personeelsbeleid van de strategische adviesraad SERV wordt het initiatief genomen door de Vlaamse minister die belast is met het bestuur van of het toezicht op de strategische adviesraad.<br>
 <br>
-Voor de aangelegenheden, vermeld in het eerste lid, vraagt de Vlaamse minister die belast is met het bestuur van of het toezicht op de instelling of de strategische adviesraad het akkoord van de Vlaamse minister, bevoegd voor de bestuurszaken.<br>
+Voor de aangelegenheden, vermeld in het eerste lid, vraagt de Vlaamse minister die belast is met het bestuur van of het toezicht op de strategische adviesraad het akkoord van de Vlaamse minister, bevoegd voor de bestuurszaken.<br>
 <br>
 In afwijking van het tweede lid is het akkoord van de Vlaamse minister, bevoegd voor de bestuurszaken, niet vereist voor de aangelegenheden, vermeld in artikel 1, 2°, b).
 
@@ -90,7 +90,7 @@ De Vlaamse minister, bevoegd voor de bestuurszaken, beslist over het gevraagde a
 
 ### ART 8.
 
-Als de aangelegenheden van het algemene personeelsbeleid van een Vlaamse openbare instelling, een agentschap met rechtspersoonlijkheid of een strategische adviesraad een financiële weerslag hebben, moeten ze, samen met het advies van de Inspectie van Financiën of van de gemachtigde van Financiën, voor akkoord worden voorgelegd aan de Vlaamse minister, bevoegd voor de begroting.
+Als de aangelegenheden van het algemene personeelsbeleid van een instelling, een agentschap met rechtspersoonlijkheid of een strategische adviesraad een financiële weerslag hebben, moeten ze, samen met het advies van de Inspectie van Financiën of van de gemachtigde van Financiën, voor akkoord worden voorgelegd aan de Vlaamse minister, bevoegd voor de begroting.
 
 ### ART 9.
 
