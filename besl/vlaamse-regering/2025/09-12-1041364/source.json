@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041364,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-12 tot wijziging van de regelgeving, wat betreft de gezagsfuncties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041364/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "7292e87220ba4217a49c91e0fc0e03ce60a4eaf228850ed16d8a83ff072d5d18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041364&param=informatie",
+  "as_of": "2025-10-01",
+  "made": "2025-09-12",
+  "gazette": "2025-10-22",
+  "numac": 2025007764,
+  "document_start": "2025-10-01",
+  "document_end": null,
+  "in_force": "2025-10-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2025-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
