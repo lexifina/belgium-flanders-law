@@ -2,16 +2,16 @@
   "codex_id": 1005477,
   "title": "Besluit van de Vlaamse Regering van 1997-06-17 betreffende de programmatie- en de rationalisatienormen in het gewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005477/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "8f09dbecb0095726bc59b88b6a422bdf98482085948d7e2e90cc0786a9a2066c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005477/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "2f345effacc3512703f448a8da2213ec9e3110cf7032c7d28dbbe447e90c9597",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005477&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-10-01",
   "made": "1997-06-17",
   "gazette": "1997-07-19",
   "numac": 1997035827,
   "document_start": "1997-09-01",
   "document_end": null,
-  "in_force": "2024-09-01",
+  "in_force": "2025-10-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

@@ -150,7 +150,32 @@ Als er bij de oprichting, vermeld in het eerste lid, al een taalafdeling Nederla
 
 ### ART. 5.
 
-...
+§1. De volgende documenten worden gevoegd bij de gemotiveerde aanvraag met het oprichtingsdossier, vermeld in artikel 112bis, §3, tweede lid, van het decreet, dat ondertekend wordt door het schoolbestuur:<br>
+1°&nbsp;&nbsp; &nbsp;het protocol van de onderhandelingen in het lokaal comité;<br>
+2°&nbsp;&nbsp; &nbsp;het verslag van het overleg binnen de schoolraad.<br>
+<br>
+§2. De Vlaamse Regering houdt ten minste rekening met de volgende criteria om de ontvankelijke aanvragen te beoordelen:<br>
+1°&nbsp;&nbsp; &nbsp;worden in het programmatievoorstel de noodzaak, de doelmatigheid en de leefbaarheid, met inbegrip van een realistische inschatting van het potentiële aantal leerlingen, afdoende gemotiveerd in een omgevingsanalyse, waarbij in de mate van het mogelijke ook rekening gehouden wordt met het lokale aanbod;<br>
+2°&nbsp;&nbsp; &nbsp;wordt, in relatie tot het al bestaande aanbod van een taalafdeling Nederlands-Vlaamse Gebarentaal of programmatieaanvragen van andere scholen voor dezelfde taalafdeling Nederlands-Vlaamse Gebarentaal, een redelijke spreiding beoogd, rekening houdend met de groep, vermeld in artikel 3, 21°, van het decreet, en met de wetenschappelijk te verwachten prevalentie;<br>
+3°&nbsp;&nbsp; &nbsp;worden de aangepaste en schoolexterne begeleidingsmogelijkheden voor de te programmeren doelgroep in kaart gebracht, en als dat niet het geval is, wordt dat afdoende gemotiveerd;<br>
+4°&nbsp;&nbsp; &nbsp;beschikt de school over de nodige expertise voor een taalafdeling Nederlands-Vlaamse Gebarentaal;<br>
+5°&nbsp;&nbsp; &nbsp;zijn er recent inspanningen geleverd om het personeel te professionaliseren voor de taalafdeling Nederlands-Vlaamse Gebarentaal of zijn dergelijke inspanningen gepland;<br>
+6°&nbsp;&nbsp; &nbsp;heeft de school de vereiste infrastructurele en materiële voorzieningen op het gebied van toegankelijkheid en hulpmiddelen voor de taalafdeling Nederlands-Vlaamse Gebarentaal;<br>
+7°&nbsp;&nbsp; &nbsp;is er onderhandeld met het lokaal onderhandelingscomité, en wat is de inhoud van het protocol en is er overleg gepleegd met de schoolraad en wat is het resultaat van het overleg.<br>
+<br>
+§3. Nadat het Agentschap voor Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming, hierna agentschap te noemen, de aanvraag conform artikel 112bis, §3, van het decreet ontvangen en bezorgd heeft, brengen de Vlaamse Onderwijsraad, de adviescommissie Vlaamse Gebarentaal, de Onderwijsinspectie en het agentschap binnen een redelijke termijn en uiterlijk zestig dagen na de uiterste indieningsdatum van de aanvraag, een advies uit, dat ze bezorgen aan de minister. In de termijn van zestig dagen zijn de vakantieperioden niet inbegrepen.<br>
+<br>
+In het eerste lid wordt verstaan onder vakantieperioden: de perioden, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap.<br>
+<br>
+De Vlaamse Onderwijsraad en de adviescommissie Vlaamse Gebarentaal baseren hun advies, vermeld in het eerste lid, op het onderzoek van ten minste de beoordelingscriteria, vermeld in paragraaf 2.<br>
+<br>
+De Onderwijsinspectie baseert zijn advies, vermeld in het eerste lid, op het onderzoek van ten minste de beoordelingscriteria, vermeld in paragraaf 2, 3° tot en met 7°.<br>
+<br>
+Het agentschap baseert zijn advies, vermeld in het eerste lid, op het onderzoek van ten minste de beoordelingscriteria, vermeld in paragraaf 2, 1°, 2° en 7°.<br>
+<br>
+§4. De Vlaamse Regering beslist op basis van een voorstel van de minister. De Vlaamse Regering beslist uiterlijk op 31 maart van het voorafgaande schooljaar. Deze beslissingstermijn geldt als ordetermijn.<br>
+<br>
+§5. Het agentschap brengt het schoolbestuur schriftelijk op de hoogte van de beslissing, vermeld in paragraaf 4, binnen een periode van veertien dagen na die beslissing.
 
 ## AFDELING 3 [...]
 
