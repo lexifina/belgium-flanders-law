@@ -14,22 +14,23 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN BESLUIT:
 
 ### ART 1.
 
-De maximumcapaciteit van de gemeenschapsinstellingen bedraagt 324 plaatsen, die op de volgende wijze worden verdeeld:<br>
+De maximumcapaciteit van de gemeenschapsinstellingen bedraagt 333 plaatsen, die op de volgende wijze worden verdeeld:<br>
 1° de gemeenschapsinstelling De Kempen in Mol:<br>
 &nbsp; a) 85 plaatsen gesloten begeleiding voor jongens waarvan 8 plaatsen kortverblijf;<br>
 &nbsp; b) 16 plaatsen gesloten begeleiding voor meisjes waarvan 2 plaatsen kortverblijf;<br>
 &nbsp; c) 10 time-out plaatsen voor jongens;<br>
 &nbsp; d) 10 time-out plaatsen voor meisjes;<br>
 2° de gemeenschapsinstelling De Zande:<br>
-&nbsp; a) 96 plaatsen gesloten begeleiding voor jongens waarvan 10 plaatsen kortverblijf voor een periode van maximaal 14 dagen;&nbsp;<br>
+&nbsp; a) 96 plaatsen gesloten begeleiding voor jongens waarvan 10 plaatsen kortverblijf;&nbsp;<br>
 &nbsp; b) 25 plaatsen gesloten begeleiding voor meisjes waarvan 2 plaatsen kortverblijf;&nbsp;<br>
 &nbsp; c) 10 time-out plaatsen voor jongens;&nbsp;<br>
 &nbsp; d) 10 time-out plaatsen voor meisjes;<br>
 3° de gemeenschapsinstelling De Grubbe in Kortenberg:&nbsp;<br>
 &nbsp; a) 53 plaatsen gesloten oriëntatie voor jongens;<br>
-&nbsp; b) 9 plaatsen gesloten oriëntatie voor meisjes.<br>
+&nbsp; b) 9 plaatsen gesloten oriëntatie voor meisjes;<br>
+&nbsp;&nbsp;c) 9 plaatsen kortverblijf voor jongens.<br>
 <br>
-Van de capaciteit vermeld in het vorige lid, 1° a) en b) kunnen maximaal &nbsp;9 plaatsen worden ingezet voor een langdurige gesloten begeleiding.<br>
+De capaciteit, vermeld in het eerste lid, 1°, a) en b), en 2°, a), en b), kan ook ingezet worden voor langdurige gesloten begeleiding als vermeld in artikel 37 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht.<br>
 <br>
 De time-out capaciteit, vermeld in het eerste lid, wordt georganiseerd voor de opvang van minderjarigen die met toepassing van artikel 48, § 1, 9°, van het decreet van 12 juli 2013 worden toevertrouwd aan een gemeenschapsinstelling.<br>
 <br>
@@ -37,10 +38,7 @@ Het betreft een afgebakende fase van veertien dagen binnen een bestaand hulpverl
 
 ### ART 2.
 
-Binnen de maximumcapaciteit, vermeld in artikel 1, 1° a) en b), 2° a) en b) en 3° a) en b) wordt volgende capaciteit voorbehouden als bijzondere capaciteit voor minderjarige verdachten of delictplegers voor wie de maatregel of sanctie nog loopt en die meer dan vijf dagen ontvlucht, weggelopen of onwettig afwezig zijn en met het oog op een efficiënt gebruik van de capaciteit op basis van de noodwendigheden:<br>
-1° in de gemeenschapsinstelling De Kempen: 8 plaatsen voor jongens en 2 plaatsen voor meisjes;<br>
-2° in de gemeenschapsinstelling Zande: 9 plaatsen voor jongens en 3 plaatsen voor meisjes;<br>
-3° in de gemeenschapsinstelling De Grubbe: 5 plaatsen voor jongens en 1 plaats voor meisjes.
+...
 
 ### ART 3.
 
