@@ -42,3 +42,13 @@ In artikel VIIbis 69 van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 Aan artikel XIbis 66, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “Voor de loods op proef, die op basis van artikel XIbis 67 geen recht heeft op de toelagen vermeld in het eerste lid, wordt het bruto maandsalaris verminderd met 80% van een twaalfde van 7460 euro”.
+
+### ART 34.
+
+Bijlage 5bis bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024 en vervangen bij het besluit van de Vlaamse Regering van 19 september 2025, wordt vervangen door de bijlage die bij dit besluit is gevoegd.
+
+### Bijlage 1
+
+Vervanging van bijlage 5bis van het Vlaams personeelsstatuut van 13 januari 2006<br>
+<br>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2026/10/16_2.pdf#page=87">bijlage</a>
