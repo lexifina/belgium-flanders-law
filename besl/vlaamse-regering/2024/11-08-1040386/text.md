@@ -63,7 +63,7 @@ Sociale vaardigheden:<br>
 <br>
 1.4. Niveau (VKS en EQF)<br>
 <br>
-4<br>
+5<br>
 <br>
 1.5. Jaar van erkenning<br>
 <br>

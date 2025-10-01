@@ -2,16 +2,16 @@
   "codex_id": 1040386,
   "title": "Besluit van de Vlaamse Regering van 2024-11-08 tot erkenning van de beroepskwalificatie farmaceutisch-technisch assistent gericht op de publieke apotheek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040386/VolledigDocument?datum=2024-12-08",
-  "source_sha256": "7fec6bebcb9f468e5397856010ff27743b3af12bb42b0935331ea9971ab570c9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040386/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "f544c7b0f3124be7b5e01210ecf0fb5a02a73c50a6b12b89725a611e6181852f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040386&param=informatie",
-  "as_of": "2024-12-08",
+  "as_of": "2025-10-01",
   "made": "2024-11-08",
   "gazette": "2024-11-28",
   "numac": 2024010619,
   "document_start": "2024-12-08",
   "document_end": null,
-  "in_force": "2024-12-08",
+  "in_force": "2025-10-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
