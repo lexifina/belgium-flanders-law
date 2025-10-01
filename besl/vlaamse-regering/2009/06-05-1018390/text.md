@@ -1299,11 +1299,17 @@ De verplicht ingeschreven werkzoekende die zich op een medische reden beroept om
 
 ### ART. 111/18.
 
-Er wordt een controledienst opgericht die kennisneemt van de dossiers die   hem worden bezorgd. Die controledienst is een onafhankelijke en neutrale   dienst.<BR><BR>De controledienst oefent zijn taken onpartijdig uit en de   controletaak wordt gescheiden van de bemiddelings-, begeleidings- en   opleidingstaken van de VDAB. De medewerkers van de controledienst vermijden   ieder reëel en vermeend belangenconflict. Telkens als een verdenking zou kunnen   ontstaan op dat vlak, moet de medewerker zich laten vervangen.<BR><BR>De   controledienst is bovendien onafhankelijk, hetgeen betekent dat de medewerkers   van de VDAB die met de controletaak zijn belast, niet mogen worden beïnvloed bij   het nemen van hun beslissingen en zich alleen mogen laten leiden door objectieve   overwegingen en feiten. Onafhankelijkheid in de adviesfunctie, vermeld in   artikel 111/20, wil zeggen dat de controledienst alle belangen en standpunten in   overweging neemt en als adviseur volledig losstaat van de belangen van enige   partij.
+§1. Er wordt een controledienst opgericht die kennisneemt van de dossiers die hem worden bezorgd. Die controledienst is een onafhankelijke en neutrale dienst.<br>
+<br>
+De controledienst oefent zijn taken onpartijdig uit en de controletaak wordt gescheiden van de bemiddelings-, begeleidings- en opleidingstaken van de VDAB. De medewerkers van de controledienst vermijden ieder reëel en vermeend belangenconflict. Telkens als een verdenking zou kunnen ontstaan op dat vlak, moet de medewerker zich laten vervangen.<br>
+<br>
+De controledienst is bovendien onafhankelijk, hetgeen betekent dat de medewerkers van de VDAB die met de controletaak zijn belast, niet mogen worden beïnvloed bij het nemen van hun beslissingen en zich alleen mogen laten leiden door objectieve overwegingen en feiten. Onafhankelijkheid in de adviesfunctie, vermeld in artikel 111/20, wil zeggen dat de controledienst alle belangen en standpunten in overweging neemt en als adviseur volledig losstaat van de belangen van enige partij.<br>
+<br>
+§2. De personeelsleden van de controledienst die bevoegd zijn om sancties op te leggen overeenkomstig de bepalingen van dit besluit, worden aangewezen door de gedelegeerd bestuurder van de VDAB.
 
 ### ART. 111/19.
 
-De controledienst beoordeelt de ontvankelijkheid van dossiers die aan hem   worden bezorgd. Als het dossier ontvankelijk is, wordt de verplicht ingeschreven   werkzoekende uitgenodigd om gehoord te worden over de feiten die aan de   grondslag liggen van de reden waarom het dossier is doorgestuurd naar de   controledienst, en over zijn verweermiddelen.
+De dossiers die de controledienst ontvangt, worden eerst beoordeeld op de ontvankelijkheid ervan. Als het dossier ontvankelijk is, wordt de verplicht ingeschreven werkzoekende uitgenodigd om gehoord te worden over de feiten die aan de grondslag liggen van de reden waarom het dossier is doorgestuurd naar de controledienst, en over zijn verweermiddelen.
 
 ### ART. 111/20.
 
@@ -1319,48 +1325,48 @@ Als de verplicht ingeschreven werkzoekende wil gebruikmaken van het schriftelijk
 <br>
 § 3. De verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder.<br>
 <br>
-§ 4. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, of geen schriftelijk verweer indient en als hij geen uitstel van het verhoor heeft gekregen, neemt de controledienst een beslissing bij verstek.
+§ 4. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, of geen schriftelijk verweer indient en als hij geen uitstel van het verhoor heeft gekregen, neemt het personeelslid van de controledienst dat conform artikel 111/18, §2, wordt aangewezen een beslissing bij verstek.
 
 ### ART. 111/22.
 
-§ 1. De controledienst beslist over de schorsing, vermindering of uitsluiting van het recht op werkloosheids- of inschakelingsuitkeringen. De controledienst kan ook een verwittiging geven.<br>
+§1. De personeelsleden van de controledienst die conform artikel 111/18, §2, worden aangewezen, beslissen over de schorsing, vermindering of uitsluiting van het recht op werkloosheids- of inschakelingsuitkeringen. Die personeelsleden van de controledienst kunnen ook een verwittiging geven.<br>
 <br>
-§ 2. De controledienst houdt, voor zover die informatie ter beschikking is uiterlijk op het moment van het verhoor, rekening met:<br>
-1° de informatie, afkomstig van de verplicht ingeschreven werkzoekende;<br>
-2° de informatie, afkomstig van de bemiddelaar. Hieronder vallen het dossier dat de bemiddelaar heeft bezorgd aan de controledienst, de beoordelingen en de evaluaties die de bemiddelaar heeft opgemaakt conform afdeling 2;<br>
-3° de informatie, afkomstig van partnerorganisaties;<br>
-4° voor wat betreft de toepassing van artikel 52bis, § 2, tweede lid, van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, de beslissingen die zijn genomen binnen een periode van twaalf maanden vóór de controledienst een beslissing heeft genomen;<br>
-5° voor wat betreft de toepassing van artikel 58/9, § 4, van het voormelde koninklijk besluit, de informatie die van de RVA komt, met inbegrip van sancties die de RVA of de diensten van de andere gewesten die bevoegd zijn voor de controle op de beschikbaarheid, hebben opgelegd, als die sancties zijn opgelegd binnen de periode van vierentwintig maanden vóór de controledienst een beslissing heeft genomen.<br>
+§2. De personeelsleden van de controledienst die conform artikel 111/18, §2, van dit besluit zijn aangewezen, houden, als die informatie ter beschikking is uiterlijk op het moment van het verhoor, rekening met al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de informatie, die de verplicht ingeschreven werkzoekende bezorgde;<br>
+2°&nbsp;&nbsp; &nbsp;de informatie, die de bemiddelaar bezorgde. Hieronder vallen het dossier dat de bemiddelaar heeft bezorgd aan de controledienst, de beoordelingen en de evaluaties die de bemiddelaar heeft opgemaakt conform afdeling 2;<br>
+3°&nbsp;&nbsp; &nbsp;de informatie, die de partnerorganisaties bezorgden;<br>
+4°&nbsp;&nbsp; &nbsp;voor de toepassing van artikel 52bis, § 2, tweede lid, van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, de beslissingen die zijn genomen binnen een periode van twaalf maanden vóór de personeelsleden van de controledienst die conform artikel 111/18, §2, van dit besluit zijn aangewezen, een beslissing hebben genomen;<br>
+5°&nbsp;&nbsp; &nbsp;voor de toepassing van artikel 58/9, § 4, van het voormelde koninklijk besluit, de informatie die van de RVA komt, met inbegrip van sancties die de RVA of de diensten van de andere gewesten die bevoegd zijn voor de controle op de beschikbaarheid, hebben opgelegd, als die sancties zijn opgelegd binnen een periode van vierentwintig maanden vóór de personeelsleden van de controledienst die conform artikel 111/18, §2, van dit besluit zijn aangewezen, een beslissing hebben genomen.<br>
 <br>
 De controledienst heeft het recht om alle relevante informatie op te vragen ter verduidelijking van de dossiers die hem worden bezorgd, bij elke persoon of organisatie die relevante informatie over de dossiers kunnen bezitten. Bij een vermoeden van het gebruik van vervalste stukken zal de controledienst de RVA hiervan op de hoogte stellen.<br>
 <br>
-§ 3. De controledienst onderwerpt de verplicht ingeschreven werkzoekende aan een medisch onderzoek als vermeld in artikel 111/7, § 3. Uiterlijk op de datum die is vastgelegd voor het verhoor, werpt de verplicht ingeschreven werkzoekende zijn ongeschiktheid op.
+§3. De controledienst onderwerpt de verplicht ingeschreven werkzoekende aan een medisch onderzoek als vermeld in artikel 111/7, § 3. Uiterlijk op de datum die is vastgelegd voor het verhoor, werpt de verplicht ingeschreven werkzoekende zijn ongeschiktheid op.
 
 ### ART. 111/23.
 
-§ 1. De beslissing van de controledienst wordt schriftelijk meegedeeld aan de verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor. De voormelde termijn wordt opgeschort voor de duur van eventuele onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. Als de beslissing invloed heeft op het recht op uitkeringen, wordt ze meegedeeld aan de RVA ter uitvoering.<br>
+§ 1. De beslissing van het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen wordt schriftelijk meegedeeld aan de verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor. De voormelde termijn wordt opgeschort voor de duur van eventuele onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. Als de beslissing invloed heeft op het recht op uitkeringen, wordt ze meegedeeld aan de RVA ter uitvoering.<br>
 <br>
 De gemotiveerde beslissing die bezorgd wordt aan de werkzoekende, vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop het beroep moet worden ingesteld.<br>
 <br>
-§ 2. Als een beroep bij de arbeidsrechtbank wordt ingesteld tegen een beslissing van de controledienst, brengt de VDAB de RVA daarvan op de hoogte.
+§ 2. Als een beroep bij de arbeidsrechtbank wordt ingesteld tegen een beslissing van het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, brengt de VDAB de RVA daarvan op de hoogte.
 
 ## [Afdeling 4. Herzieningsprocedure (ing. BVR 18 december 2015, art. 21, I: 1 januari 2016)]
 
 ### ART. 111/24.
 
-Met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring kan de controledienst zijn beslissing herzien binnen de termijn voor het instellen van een beroep bij het bevoegde rechtscollege of, als het beroep al is ingesteld, tot de sluiting van de debatten als:<br>
-1° vastgesteld wordt dat de beslissing van de controledienst is aangetast door een juridische of materiële vergissing;<br>
-2° op de datum waarop de beslissing is ingegaan, het recht door een wettelijke of reglementaire bepaling is gewijzigd;<br>
-3° een nieuw feit of nieuw bewijsmateriaal dat een weerslag heeft op de rechten van de verzoeker, ingeroepen wordt;<br>
-4° vastgesteld wordt dat de beslissing van de controledienst is aangetast doordat de verplicht ingeschreven werkzoekende onjuiste of onvolledige verklaringen heeft afgelegd, een vereiste aangifte niet heeft gedaan of te laat heeft gedaan, onjuiste of vervalste stukken heeft voorgelegd of onregelmatigheden heeft begaan.<br>
+Met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring kunnen de personeelsleden van de controledienst die conform artikel 111/18, §2, zijn aangewezen, in al de volgende gevallen de beslissing, vermeld in artikel 111/22, herzien binnen de termijn om een beroep bij het bevoegde rechtscollege in te stellen of, als het beroep al is ingesteld, tot de sluiting van de debatten:<br>
+1°&nbsp;&nbsp; &nbsp;er wordt vastgesteld dat de beslissing van het personeelslid van de controledienst dat artikel 111/18, §2 is aangewezen, is aangetast door een juridische of materiële vergissing;<br>
+2°&nbsp;&nbsp; &nbsp;op de datum waarop de beslissing is ingegaan, is het recht door een wettelijke of reglementaire bepaling gewijzigd;<br>
+3°&nbsp;&nbsp; &nbsp;er wordt een nieuw feit of nieuw bewijsmateriaal ingeroepen dat een weerslag heeft op de rechten van de verzoeker;<br>
+4°&nbsp;&nbsp; &nbsp;er wordt vastgesteld dat de beslissing van het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, is aangetast doordat de verplicht ingeschreven werkzoekende onjuiste of onvolledige verklaringen heeft afgelegd, een vereiste aangifte niet heeft gedaan of te laat heeft gedaan, onjuiste of vervalste stukken heeft voorgelegd of onregelmatigheden heeft begaan.<br>
 <br>
-Bij een juridische of materiële vergissing door VDAB kan de controledienst in afwijking van het eerste lid, 1°, zijn beslissing herzien binnen de wettelijke en reglementaire verjaringstermijnen.<br>
+In afwijking van het eerste lid, 1°, kunnen de personeelsleden van de controledienst die conform artikel 111/18, §2, zijn aangewezen, bij een juridische of materiële vergissing door de VDAB de beslissing vermeld in artikel 111/22, herzien binnen de wettelijke en reglementaire verjaringstermijnen.<br>
 <br>
 De nieuwe beslissing heeft uitwerking op de datum waarop de verbeterde beslissing had moeten ingaan, met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring. Die beslissing wordt aan de RVA meegedeeld.
 
 ### ART. 111/25.
 
-Als tegen de beslissing van de controledienst beroep is ingesteld, en die   beslissing wordt herzien met toepassing van deze afdeling, wordt de herziening   aan het bevoegde arbeidsgerecht meegedeeld. De controledienst brengt het   bevoegde arbeidsgerecht op de hoogte van de nieuwe beslissing als ze een   weerslag kan hebben op het geding.
+Als tegen de beslissing van het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, beroep is ingesteld, en die beslissing wordt herzien met toepassing van deze afdeling, wordt de herziening aan het bevoegde arbeidsgerecht meegedeeld. De controledienst brengt het bevoegde arbeidsgerecht op de hoogte van de nieuwe beslissing als ze een weerslag kan hebben op het geding.
 
 ## [Afdeling 5. Controle van beschikbaarheid tijdens outplacementbegeleiding (ing. BVR 18 december 2015, art. 21, I: 1 januari 2016)]
 
@@ -1420,20 +1426,20 @@ De inlichtingen, vermeld in het eerste lid, worden tijdens het gesprek aan de jo
 <br>
 De jonge verplicht ingeschreven werkzoekende wordt er verder van op de hoogte gebracht dat het recht op inschakelingsuitkeringen kan worden geopend als hij een tweede al dan niet opeenvolgende positieve beoordeling van zijn werkzoekgedrag krijgt, op voorwaarde dat hij voldoet aan de andere voorwaarden, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering.<br>
 <br>
-§ 4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier aan de controledienst, samen met zijn advies. De controledienst beoordeelt de ontvankelijkheid van de dossiers die aan hem worden bezorgd. Als het dossier ontvankelijk is, wordt de jonge verplicht ingeschreven werkzoekende uitgenodigd om gehoord te worden over de feiten die aan de grondslag liggen van de reden waarom het dossier is doorgestuurd naar de controledienst, en over zijn verweermiddelen.<br>
+§ 4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier aan de controledienst, samen met zijn advies. De dossiers worden eerst beoordeeld op de ontvankelijkheid ervan. Als het dossier ontvankelijk is, wordt de jonge verplicht ingeschreven werkzoekende uitgenodigd om gehoord te worden over de feiten die aan de grondslag liggen van de reden waarom het dossier is doorgestuurd naar de controledienst, en over zijn verweermiddelen.<br>
 <br>
 Het verhoor vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen tussen de jonge verplicht ingeschreven werkzoekende en de controledienst. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt. De controledienst brengt de jonge verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten. Het verhoor kan uitgesteld worden conform het derde lid, maar vindt uiterlijk plaats zes maanden nadat de controledienst het dossier heeft ontvangen. Als het een laatste uitnodiging voor verhoor betreft, vermeldt de uitnodiging dat.<br>
 <br>
 Als de jonge verplicht ingeschreven werkzoekende de dag waarop hij uitgenodigd is, verhinderd is, kan hij met een gemotiveerd verzoek vragen dat het verhoor verdaagd wordt. De controledienst beslist over dat verzoek en legt in voorkomend geval een nieuwe datum voor het verhoor vast. Behalve in geval van overmacht wordt het uitstel maar één keer verleend. De controledienst moet het verzoek tot uitstel uiterlijk ontvangen binnen zeven dagen nadat de uitnodiging verzonden is, behoudens in geval van overmacht.<br>
 <br>
-De jonge verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder. Als de jonge verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon, noch door vertegenwoordiging, en hij geen uitstel van het verhoor heeft gekregen, neemt de controledienst een beslissing bij verstek.<br>
+De jonge verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder. Als de jonge verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon, noch door vertegenwoordiging, en hij geen uitstel van het verhoor heeft gekregen, neemt een personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen een beslissing bij verstek.<br>
 <br>
-§ 5. De controledienst geeft het dossier een positieve of negatieve beoordeling. De controledienst kan een negatieve beoordeling uitspreken als:<br>
+§ 5. Het personeelslid van de controledienst dat conform artikel 111/18, §2 is aangewezen geeft het dossier een positieve of negatieve beoordeling. Het personeelslid van de controledienst dat conform artikel 111/18, §2 is aangewezen kan een negatieve beoordeling uitspreken als:<br>
 1° de jonge verplicht ingeschreven werkzoekende niet ingaat op de uitnodiging, vermeld in artikel 111/28;<br>
 2° de jonge verplicht ingeschreven werkzoekende niet aanwezig is, noch in persoon noch door vertegenwoordiging, op het verhoor, vermeld in paragraaf 4;<br>
 3° de jonge verplicht ingeschreven werkzoekende tijdens het verhoor niet kan aantonen dat hij zich voldoende integreert op de arbeidsmarkt.<br>
 <br>
-§ 6. De beslissing van de controledienst wordt schriftelijk meegedeeld aan de jonge verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor. De voormelde termijn wordt opgeschort tijdens de duurtijd van eventuele verdere onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de jonge verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. De gemotiveerde beslissing die bezorgd wordt aan de jonge verplicht ingeschreven werkzoekende, vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop beroep kan worden ingesteld.<br>
+§ 6. De beslissing van het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, wordt schriftelijk meegedeeld aan de jonge verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor, vermeld in paragraaf 4.&nbsp;De voormelde termijn wordt opgeschort tijdens de duurtijd van eventuele verdere onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de jonge verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. De gemotiveerde beslissing die bezorgd wordt aan de jonge verplicht ingeschreven werkzoekende, vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop beroep kan worden ingesteld.<br>
 <br>
 Als het gaat om het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand van de beroepsinschakelingstijd.<br>
 <br>
@@ -1570,9 +1576,9 @@ Tenzij anders is bepaald in dit hoofdstuk, kan de vrijstelling, vermeld in het e
 <br>
 VDAB kan een aanwezigheidsattest vragen aan de werkzoekende met vrijstelling.<br>
 <br>
-§ 2. Als blijkt dat de verplicht ingeschreven werkzoekende een formeel afsprakenblad, gemaakt in het kader van de voormelde vrijstelling, niet naleeft, kan een ultiem afsprakenblad worden opgesteld conform artikel 111/12. Als het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan de controledienst met toepassing van artikel 111/13, en de controledienst neemt een negatieve beslissing, dan wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende van wie de vrijstelling werd ingetrokken, wordt daarvan op de hoogte gebracht.<br>
+§ 2. Als blijkt dat de verplicht ingeschreven werkzoekende een formeel afsprakenblad, gemaakt in het kader van de voormelde vrijstelling, niet naleeft, kan een ultiem afsprakenblad worden opgesteld conform artikel 111/12. Als het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan de controledienst met toepassing van artikel 111/13, en het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende van wie de vrijstelling werd ingetrokken, wordt daarvan op de hoogte gebracht.<br>
 <br>
-§ 3. Als de verplicht ingeschreven werkzoekende niet ingaat op een afspraak met VDAB die tot doel heeft de studie, opleiding of stage op te volgen waarvoor vrijstelling werd verleend, wordt zijn dossier aan de controledienst bezorgd conform artikel 111/6. Als de controledienst een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende wordt hiervan op de hoogte gebracht.<br>
+§ 3. Als de verplicht ingeschreven werkzoekende niet ingaat op een afspraak met VDAB die tot doel heeft de studie, opleiding of stage op te volgen waarvoor vrijstelling werd verleend, wordt zijn dossier aan de controledienst bezorgd conform artikel 111/6. Als het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende wordt hiervan op de hoogte gebracht.<br>
 <br>
 § 4. Als de verplicht ingeschreven werkzoekende zijn studie, opleiding of stage stopzet om redenen die aan hemzelf te wijten zijn, wordt de vrijstelling stopgezet en wordt zijn dossier aan de controledienst bezorgd met toepassing van artikel 111/16, eerste lid, 4°.
 
