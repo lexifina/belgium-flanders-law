@@ -32,6 +32,10 @@ Een projectvoorstel wordt ingediend door minstens één Vlaamse   onderzoekscent
 
 De uitvoeringstijd van een projectvoorstel bedraagt vier jaar. Mits een   grondige motivering kan in een projectvoorstel een kortere uitvoeringstijd   worden voorzien.<BR><BR>In het projectvoorstel wordt aangegeven of het onderzoek   primair een maatschappelijke of een economische finaliteit heeft.<BR><BR>Een   projectvoorstel bevat een voorstel van projectbegroting met een overzicht van de   kosten verbonden aan de uitvoering van het project. In geval van een consortium   wordt voor elke projectaanvrager een voorstel van deelprojectbegroting   opgesteld. Bij de opstelling van het voorstel van projectbegroting worden de   richtlijnen gevolgd die zijn opgenomen als bijlage bij dit besluit.<BR><BR>De   voorgestelde projectbegroting bedraagt ten hoogste 500.000 euro per jaar. Indien   het project in consortiumverband wordt uitgevoerd kan de projectbegroting worden   verhoogd tot een maximum van 500.000 euro per jaar vermenigvuldigd met het   aantal rechtspersonen die als projectaanvrager optreden op voorwaarde dat de   deelprojectbegroting van deze projectaanvragers minimaal 15 % van de totale   projectbegroting bedraagt.<BR><BR>De voorgestelde deelbegroting van de niet in   Vlaanderen gevestigde onderzoekscentra die deel uitmaken van een consortium of   die als derden specifieke deeltaken uitvoeren, kan cumulatief niet meer dan 20   procent van de voorgestelde projectbegroting bedragen<BR><BR>Voor het uitvoeren   van specifieke deeltaken, kan in het projectvoorstel worden voorzien dat beroep   wordt gedaan op de diensten van derden, verder contractant(en) genoemd. De   totale kostprijs van de taken die worden voorgesteld om aan contractanten toe te   vertrouwen, kan niet meer dan 30 % van de voorgestelde projectbegroting   bedragen.<BR><BR>Indien een projectvoorstel wordt ingediend door een consortium   bestaande uit ten minste drie projectaanvragers kan ongeacht de eerder in dit   artikel vermelde maximumbedragen de voorgestelde projectbegroting, worden   vermeerderd met een forfaitaire toeslag van 5 % voor het dekken van de   coördinatiekosten.
 
+### ART 5/1.
+
+Er wordt alleen steun verleend aan onderzoekscentra die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.
+
 ## HOOFDSTUK III MAXIMALE STEUNPERCENTAGE EN CUMULATIE MET ANDERE STEUN
 
 ## AFDELING 1 MAXIMAAL STEUNPERCENTAGE
@@ -70,7 +74,9 @@ Ten laatste 120 kalenderdagen na de uiterste indiendatum van de volledige projec
 
 ### ART. 13.
 
-Onverminderd de toepassing van artikel 27, worden voor projectenvoorstellen waaraan steun wordt toegekend, verder projecten genoemd, de voorwaarden en de nadere regelen die de raad van bestuur heeft vastgelegd voor de steun, opgenomen in een overeenkomst die het agentschap sluit met de projectaanvrager en in geval van een consortium met de projectaanvragers, volgens een type-overeenkomst goedgekeurd door de raad van bestuur.
+Onverminderd de toepassing van artikel 27, worden voor projectenvoorstellen waaraan steun wordt toegekend, verder projecten genoemd, de voorwaarden en de nadere regelen die de raad van bestuur heeft vastgelegd voor de steun, opgenomen in een overeenkomst die het agentschap sluit met de projectaanvrager en in geval van een consortium met de projectaanvragers, volgens een type-overeenkomst goedgekeurd door de raad van bestuur.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Fonds voor Wetenschappelijk Onderzoek, het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 14.
 
