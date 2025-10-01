@@ -82,7 +82,9 @@ d) een vertegenwoordiger van een van de volgende gebruikersorganisaties: Katholi
 De vertegenwoordigers van de Vlaamse Regering vermeld in artikel 10, 1° van het decreet, bestaan uit:<br>
 1° een vertegenwoordiger van de minister-president;<br>
 2° een vertegenwoordiger van de viceministers-presidenten;<br>
-3° een vertegenwoordiger van de ministers.
+3° een vertegenwoordiger van de ministers.<br>
+<br>
+De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.
 
 ### ART 4.
 
@@ -120,7 +122,9 @@ d) een vertegenwoordiger van een van de volgende gebruikersorganisaties: Katholi
 De vertegenwoordigers van de Vlaamse Regering vermeld in artikel 11, 1°, bestaan uit:<br>
 1° een vertegenwoordiger van de minister-president;<br>
 2° een vertegenwoordiger van de viceministers-presidenten;<br>
-3° een vertegenwoordiger van de ministers.
+3° een vertegenwoordiger van de ministers.<br>
+<br>
+De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.
 
 ### ART 5.
 
@@ -158,7 +162,9 @@ d) een vertegenwoordiger van een van de volgende gebruikersorganisatie: Katholie
 De vertegenwoordigers van de Vlaamse Regering vermeld in artikel 12, 1°, bestaan uit:<br>
 1° een vertegenwoordiger van de minister-president;<br>
 2° een vertegenwoordiger van de viceministers-presidenten;<br>
-3° een vertegenwoordiger van de ministers.
+3° een vertegenwoordiger van de ministers.<br>
+<br>
+De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.
 
 ### ART 6.
 
@@ -189,7 +195,9 @@ d) een vertegenwoordiger van een van de volgende armoedeorganisaties: Caritas, W
 De vertegenwoordigers van de Vlaamse Regering vermeld in artikel 13, 1°, bestaan uit:<br>
 1° een vertegenwoordiger van de minister-president;<br>
 2° een vertegenwoordiger van de viceministers-presidenten;<br>
-3° een vertegenwoordiger van de ministers.
+3° een vertegenwoordiger van de ministers.<br>
+<br>
+De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.
 
 ## HOOFDSTUK 3. Werking van de Vlaamse Raad WVG
 
