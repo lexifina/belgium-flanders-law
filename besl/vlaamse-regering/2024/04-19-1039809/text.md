@@ -76,7 +76,7 @@ Dit besluit valt onder de toepassing van de algemene groepsvrijstellingsverorden
 <br>
 Als de individuele aanmeldingsdrempels, vermeld in artikel 4 van de voormelde verordening, overschreden worden, wordt de voorgenomen steun vóór goedkeuring aangemeld bij de Europese Commissie.<br>
 <br>
-De onderneming die een steunaanvraag indient, is op de datum van de indiening van de steunaanvraag geen onderneming in moeilijkheden als vermeld in artikel 2, punt 18, van de voormelde verordening, en heeft geen procedure op basis van Europees recht lopen waarbij een toegekende steun wordt teruggevorderd.&nbsp;<br>
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 In afwijking van het derde lid geldt de voorwaarde over ondernemingen in moeilijkheden niet voor een starter als vermeld in artikel 22, lid 2, van de voormelde verordening. Het maximale steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening, wordt in dat geval alleen toegepast als dat lager is dan de maximale steunintensiteit, vermeld in dit besluit en de uitvoeringsbesluiten ervan.<br>
 <br>
@@ -111,7 +111,7 @@ De volgende ondernemingen komen niet in aanmerking voor steun:<br>
 &nbsp; b) stopzetting;<br>
 &nbsp; c) faillissement;<br>
 &nbsp; d) vereffening;<br>
-2° ondernemingen die op het moment van de steunaanvraag een insolventieprocedure als vermeld in artikel I.23, 1°, van het Wetboek van economisch recht, hebben lopen of gedagvaard zijn door de Rijksdienst voor Sociale Zekerheid, als vermeld in de Verrijkte Kruispuntbank van Ondernemingen.
+2° ondernemingen die op het moment van de steunaanvraag een insolventieprocedure als vermeld in artikel I.23, 1°, van het Wetboek van economisch recht, hebben lopen.
 
 ### ART 7.
 
@@ -340,7 +340,7 @@ De steun wordt aan de onderneming uitbetaald in de volgende drie schijven:<br>
 &nbsp; b) de onderneming de ecologie-uitgaven voor 60% heeft uitgevoerd;<br>
 3° 40% op voorwaarde dat:<br>
 &nbsp; a) de onderneming de uitbetaling van de schijf aanvraagt;<br>
-&nbsp; b) de onderneming de ecologie-uitgaven volledig heeft uitgevoerd en de subsidiabele ecologie-uitgaven door de onderneming in een van haar vestigingseenheden in het Vlaamse Gewest geëxploiteerd worden;<br>
+&nbsp; b) de onderneming de ecologie-uitgaven volledig heeft uitgevoerd en de subsidiabele ecologie-uitgaven door de onderneming in het Vlaamse Gewest geëxploiteerd worden;<br>
 &nbsp; c) de onderneming aan alle voorwaarden voldoet, vermeld in het decreet van 16 maart 2012, dit besluit en de uitvoeringsbesluiten ervan.<br>
 <br>
 In afwijking van het eerste lid kan de minister het aantal betalingsschijven verlagen, het betalingsquotiënt verhogen en de voorwaarden bepalen waaronder de betaling wordt uitgevoerd.
@@ -349,7 +349,7 @@ In afwijking van het eerste lid kan de minister het aantal betalingsschijven ver
 
 De steun wordt uitbetaald onder de voorwaarde dat de onderneming zich niet bevindt in een van de rechtstoestanden, vermeld in artikel 6, 1°, of een insolventieprocedure als vermeld in artikel 6, 2°.<br>
 <br>
-Als de onderneming een openstaande onbetwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot de onderneming het bewijs levert dat het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
+Als de onderneming een openstaande&nbsp;en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot de onderneming het bewijs levert dat het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART 25.
 
