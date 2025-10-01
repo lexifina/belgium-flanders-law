@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041287,
+  "title": "Ministerieel besluit van 2025-09-18 houdende de vervanging van de refertelijst en de refertelijst bis betreffende individuele materiële bijstand en tot aanpassing van de hulpmiddelenfiches",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041287/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "4e9edaee3ee256a653a09b9f3e0a898f8e66c48873f7f0b7810cb76abde151a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041287&param=informatie",
+  "as_of": "2025-10-01",
+  "made": "2025-09-18",
+  "gazette": "2025-10-09",
+  "numac": 2025007238,
+  "document_start": "2025-10-01",
+  "document_end": null,
+  "in_force": "2025-10-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2025-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
