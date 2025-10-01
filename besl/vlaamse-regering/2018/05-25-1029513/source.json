@@ -2,16 +2,16 @@
   "codex_id": 1029513,
   "title": "Besluit van de Vlaamse Regering van 2018-05-25 tot regeling van steun aan projecten van collectief onderzoek en ontwikkeling en collectieve kennisverspreiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029513/VolledigDocument?datum=2023-10-13",
-  "source_sha256": "0b015576df7b88935b848401d2fcb0cbdb404720577f7717f74c93c314a43d32",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029513/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "8d4fb549c0e1d61cbe7665d14a81692026aef2d38264558d5aa7dd08d0847975",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029513&param=informatie",
-  "as_of": "2023-10-13",
+  "as_of": "2025-10-01",
   "made": "2018-05-25",
   "gazette": "2018-07-10",
   "numac": 2018040160,
   "document_start": "2018-05-25",
   "document_end": null,
-  "in_force": "2023-10-13",
+  "in_force": "2025-10-01",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

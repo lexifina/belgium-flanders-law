@@ -261,7 +261,9 @@ In het tweede lid wordt verstaan onder Agentschap Innoveren en Ondernemen: het a
 
 Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen negentig werkdagen na de ontvangst van de steunaanvraag, onverminderd de verlenging, vermeld in artikel 18, tweede lid, artikel 19, tweede lid, en artikel 24, tweede lid, of de steunaanvraag voldoet aan de beoordelingsdimensies, vermeld in artikel 25, en verleent in voorkomend geval steun conform de voorwaarden, vermeld in dit besluit.<br>
 <br>
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van bijkomende concrete voorwaarden die het oplegt, zodat een project conform de bepalingen, vermeld in dit besluit, wordt uitgevoerd.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van bijkomende concrete voorwaarden die het oplegt, zodat een project conform de bepalingen, vermeld in dit besluit, wordt uitgevoerd.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen, of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART 27.
 
