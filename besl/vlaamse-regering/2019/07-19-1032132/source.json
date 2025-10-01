@@ -2,16 +2,16 @@
   "codex_id": 1032132,
   "title": "Besluit van de Vlaamse Regering van 2019-07-19 tot toekenning van steun voor de (her)aanleg van bedrijventerreinen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032132/VolledigDocument?datum=2023-10-13",
-  "source_sha256": "7bfdcc3865a1add159419b2cd705accc5071ff220cff070414f84255e2902872",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032132/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "e8d712dfea8c72771b3785fce62e18e278ca3df09094a6c80b9108bf0626041d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032132&param=informatie",
-  "as_of": "2023-10-13",
+  "as_of": "2025-10-01",
   "made": "2019-07-19",
   "gazette": "2019-08-22",
   "numac": 2019014069,
   "document_start": "2019-09-01",
   "document_end": null,
-  "in_force": "2023-10-13",
+  "in_force": "2025-10-01",
   "article_versions": 56,
-  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

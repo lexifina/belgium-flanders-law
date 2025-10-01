@@ -76,7 +76,7 @@ De steun voor de werken, vermeld in artikel 28, eerste lid, 7° tot en met 9°, 
 <br>
 Als er geen sprake is van staatssteun, worden de bepalingen van dit besluit toegepast. Als er wel sprake is van staatssteun wordt een rechtvaardigingsgrond gezocht in de Europese staatssteunregelgeving, bij voorkeur in de algemene groepsvrijstellingsverordening, dan wel in de andere onderdelen van de Europese staatssteun regelgeving of via een aanmelding bij de Europese Commissie.<br>
 <br>
-§ 3. De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees of nationaal recht hebben lopen, waarbij een toegekende steun wordt teruggevorderd.<br>
+§ 3.&nbsp;Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 Er kan geen steun worden toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen als vermeld in artikel 1, lid 2, van de voormelde verordening.<br>
 <br>
@@ -241,7 +241,9 @@ De subsidie wordt uitbetaald in de volgende schijven:<br>
 2° een tweede schijf van 30 % als 50 % van de kosten die in aanmerking komen, gefactureerd is;<br>
 3° het saldo als 100 % van de kosten die in aanmerking komen, gefactureerd en gerealiseerd is.<br>
 <br>
-De aanvragen tot uitbetaling moeten ingediend worden binnen zes maanden nadat het subsidiedossier is afgesloten.
+De aanvragen tot uitbetaling moeten ingediend worden binnen zes maanden nadat het subsidiedossier is afgesloten.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het agentschap of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ## HOOFDSTUK 4. Termijnen
 
@@ -512,7 +514,9 @@ Als het project in verschillende fases wordt uitgevoerd als vermeld in artikel 2
 
 De subsidie wordt uitbetaald in de volgende schijven:<br>
 1° een eerste schijf van 60 % als ten minste 20 % van de kosten die in aanmerking komen, gefactureerd is;<br>
-2° het saldo als 100 % van de kosten die in aanmerking komen, gefactureerd en gerealiseerd is.
+2° het saldo als 100 % van de kosten die in aanmerking komen, gefactureerd en gerealiseerd is.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het agentschap of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART 45.
 
