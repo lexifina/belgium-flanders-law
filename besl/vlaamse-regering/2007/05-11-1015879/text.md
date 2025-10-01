@@ -26,7 +26,7 @@ Deze regelgeving valt onder de toepassing van verordening (EU) nr.   651/2014 va
 
 ### ART. 2/2.
 
-De onderneming mag op de indieningsdatum van de steunaanvraag geen   achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen   onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de   algemene groepsvrijstellingsverordening en geen procedure op basis van Europees   of nationaal recht hebben lopen waarbij een toegekende steun wordt   teruggevorderd.
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.
 
 ## HOOFDSTUK II Toepassingsgebied
 
@@ -180,7 +180,7 @@ De indiener die in het kader van dit besluit een subsidie wil ontvangen, dient n
 
 ### ART. 28/1.
 
-Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op   basis van Europees of nationaal recht hebben lopen waarbij een toegekende steun   wordt teruggevorderd.
+Als de onderneming een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het agentschap of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 29.
 

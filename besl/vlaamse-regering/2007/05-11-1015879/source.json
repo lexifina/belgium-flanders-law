@@ -2,16 +2,16 @@
   "codex_id": 1015879,
   "title": "Besluit van de Vlaamse Regering van 2007-05-11 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015879/VolledigDocument?datum=2023-10-13",
-  "source_sha256": "9e8056c44e804dbb4bce627d867b3862e90032324555338b0e48834551098682",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015879/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "f44abc781b689b9c65ab773456bc9f43248f56eb555579e367864c9fec1c4dc5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015879&param=informatie",
-  "as_of": "2023-10-13",
+  "as_of": "2025-10-01",
   "made": "2007-05-11",
   "gazette": "2007-06-21",
   "numac": 2007035840,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2023-10-13",
+  "in_force": "2025-10-01",
   "article_versions": 39,
-  "record_form": "consolidated version as in force on 2023-10-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
