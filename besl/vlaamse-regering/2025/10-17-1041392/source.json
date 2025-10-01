@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041392,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-17 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, wat betreft de aanpassing van het bedrag van de tegemoetkoming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041392/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "b75d02a0610f135c6729738469b40f48fd927a5edfae4f646366cc769cbedef3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041392&param=informatie",
+  "as_of": "2025-10-01",
+  "made": "2025-10-17",
+  "gazette": "2025-10-23",
+  "numac": 2025008008,
+  "document_start": "2025-10-01",
+  "document_end": null,
+  "in_force": "2025-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
