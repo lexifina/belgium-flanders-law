@@ -2,16 +2,16 @@
   "codex_id": 1039963,
   "title": "Besluit van de Vlaamse Regering van 2024-05-03 over de vaststelling van de netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om televisieomroepprogramma’s door te geven",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039963/VolledigDocument?datum=2024-07-28",
-  "source_sha256": "df8196e488c2eab5aec8b1f5e85b524182d8e53613798b790d3de5ee0d144592",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039963/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "ead25c73aea4c52f2878d18e0f517a4438451b3ed53cb9f92d1fb87c74f20344",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039963&param=informatie",
-  "as_of": "2024-07-28",
+  "as_of": "2025-10-01",
   "made": "2024-05-03",
   "gazette": "2024-07-18",
   "numac": 2024007033,
   "document_start": "2024-07-28",
   "document_end": null,
-  "in_force": "2024-07-28",
+  "in_force": "2025-10-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2024-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

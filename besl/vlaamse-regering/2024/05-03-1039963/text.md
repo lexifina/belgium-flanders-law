@@ -21,7 +21,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 De volgende netwerken zijn netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen:&nbsp;<br>
-1° VOO, met zetel Jean Jaurès 46, 4430 Ans, ondernemingsnummer 0696.668.549, voor het verzorgingsgebied van de gemeente Voeren;<br>
+1° Orange Netco bv met zetel in Avenue du Bourget 3, 1140 Evere, ondernemingsnummer 1022.514.315, voor het verzorgingsgebied van de gemeente Voeren;<br>
 2° Wyre, met zetel Liersesteenweg 4, 2800 Mechelen, ondernemingsnummer 0787.805.690, voor het verzorgingsgebied van de andere gemeenten van het Vlaamse Gewest;<br>
 3° Proximus en Fiberklaar met als respectievelijke zetel en ondernemingsnummer Koning Albert II laan 27, 1030 Brussel, 0202.239.951 en Raymonde de Larochelaan 13, bus 2 03, 0760.540.475 voor het verzorgingsgebied van de andere gemeenten van het Vlaamse Gewest.
 
