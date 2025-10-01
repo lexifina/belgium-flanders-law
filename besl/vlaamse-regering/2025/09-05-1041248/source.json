@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041248,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van verschillende besluiten over steunmaatregelen van het Agentschap Innoveren en Ondernemen, wat betreft de Europese voorwaarden, de opschorting van uitbetaling bij openstaande schulden en het toepassingsgebied van EFRO- en ESF-steun",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041248/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "cbfd01b40fcf4ec573f8114b270c36462e1389b3d9ace60134a00475a921afae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041248&param=informatie",
+  "as_of": "2025-10-01",
+  "made": "2025-09-05",
+  "gazette": "2025-09-26",
+  "numac": 2025006990,
+  "document_start": "2025-10-01",
+  "document_end": null,
+  "in_force": "2025-10-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2025-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
