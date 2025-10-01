@@ -2,16 +2,16 @@
   "codex_id": 1041213,
   "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de onroerend bezitsvoorwaarde, de huurwaarborglening en de berekening van het maximumpercentage van het jaarlijkse investeringsvolume van woonmaatschappijen voor basiskoten en geconventioneerde huurwoningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041213/VolledigDocument?datum=2025-09-26",
-  "source_sha256": "2e3fad7681f19bd5e0806ea6672f5aa8dc1a888631d1ee8032ea7edee6504bff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041213/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "0ffa378cb6efa8ecaf4008b32e95e403ed064ebe611a73400976d906cda7d121",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041213&param=informatie",
-  "as_of": "2025-09-26",
+  "as_of": "2025-10-01",
   "made": "2025-09-05",
   "gazette": "2025-09-16",
   "numac": 2025006535,
   "document_start": "2025-09-26",
   "document_end": null,
-  "in_force": "2025-09-26",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2025-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-10-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
