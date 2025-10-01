@@ -37,9 +37,10 @@ c) per schooljaar: 1 200;<br>
 <br>
 Onder evaluatie als vermeld in het eerste lid wordt verstaan :<br>
 1° de organisatie van vooraf aangekondigde examens of proeven over grotere leerstofgehelen, met uitzondering van de bekwaamheidsproeven, opgelegd in het kader van externe certificering »;<br>
-2° elk besluitvormingsproces van de klassenraad tijdens het schooljaar, met inbegrip van de deliberatie. Die deliberatie kan op zijn vroegst van start gaan op de vijfde laatste lesdag van :<br>
-a) hetzij de maand juni;<br>
-b) hetzij de maand januari. Dit besluitvormingsproces in de maand januari kan alleen georganiseerd worden voor de structuuronderdelen, aangeduid als Se-n-Se, die eindigen op 31 januari van het lopende schooljaar en voor de modules van de HBO5-opleiding verpleegkunde die eindigen op 31 januari van het lopende schooljaar;<br>
+2° elk besluitvormingsproces van de klassenraad tijdens het schooljaar, met inbegrip van de deliberatie. Zolang stages bezig zijn, kan de deliberatie voor de leerlingen in kwestie niet beëindigd worden. De deliberatie kan:<br>
+a)&nbsp;&nbsp; &nbsp;op zijn vroegst van start gaan op de vijfde laatste lesdag van de maand juni;<br>
+b)&nbsp;&nbsp; &nbsp;op zijn vroegst van start gaan op de vijfde laatste lesdag van de maand januari voor de zevende leerjaren gericht op instroom arbeidsmarkt, die eindigen op 31 januari van het lopende schooljaar;<br>
+c)&nbsp;&nbsp; &nbsp;georganiseerd worden op elk tijdstip van het schooljaar voor de opleiding Basisverpleegkunde van het hoger beroepsonderwijs.<br>
 <br>
 Zolang stages aan gang zijn, mag evenwel de deliberatie voor de betrokken leerlingen niet beëindigd worden.<br>
 <br>
