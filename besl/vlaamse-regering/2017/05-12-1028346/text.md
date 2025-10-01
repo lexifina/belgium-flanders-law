@@ -55,7 +55,7 @@ Een onderneming moet cumulatief aan de volgende basisvoorwaarden voldoen om in a
 4° de onderneming bevindt zich niet in een niet-toegelaten rechtstoestand als vermeld in artikel 7;<br>
 5° de onderneming is geen overheidsonderneming als vermeld in artikel 8;<br>
 6° in de vestiging, vermeld in punt 2°, vindt er op vaste tijdstippen als vermeld in artikel 9 persoonlijk en direct contact met de klanten plaats;<br>
-7° de onderneming heeft geen procedure op basis van Europees of nationaal recht lopen waarbij een toegekende steun wordt teruggevorderd;<br>
+7° de onderneming heeft geen procedure op basis van Europees recht lopen waarbij een toegekende steun wordt teruggevorderd;<br>
 8° de onderneming en de vestiging, vermeld in punt 2°, zijn actief.<br>
 <br>
 Een onderneming dient aan de voorwaarden, vermeld in het eerste lid, 1° en 5°, te voldoen:<br>
@@ -284,7 +284,9 @@ De onderneming ontvangt een schriftelijke kennisgeving van de beslissing, vermel
 
 Als het Agentschap Innoveren en Ondernemen beslist dat de hinderpremie wordt toegekend, wordt ze uitbetaald.<br>
 <br>
-De hinderpremie wordt alleen uitbetaald op een Belgisch rekeningnummer op naam van de begunstigde onderneming.
+De hinderpremie wordt alleen uitbetaald op een Belgisch rekeningnummer op naam van de begunstigde onderneming.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ## Afdeling 6. Meldpunt
 
