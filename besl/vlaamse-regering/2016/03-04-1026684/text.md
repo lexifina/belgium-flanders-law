@@ -24,7 +24,15 @@ De steun aan innovatieclusters wordt toegekend aan een voor   de innovatiecluste
 
 ### ART. 4.
 
-<P>Er   wordt geen steun verleend aan clusterorganisaties die niet voldoen aan de   regelgeving die van toepassing is in het Vlaamse Gewest.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   beslissingscomité kan een steunaanvraag onontvankelijk verklaren op basis van   een van de volgende elementen :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de steunaanvrager of eventuele partners hebben onvoldoende financiële   draagkracht om het project uit te voeren of te doen slagen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de steunaanvrager of partners bij het project voldoen niet aan de overige   verplichtingen of vergunningen vanwege de overheid;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de steunaanvrager of partners bij het project hebben blijk gegeven van   niet-correct gedrag naar aanleiding van vorige aanvragen, onder meer inzake   informatieverstrekking, inhoudelijke en financiële verplichtingen of   verslaggeving;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de uitdrukkelijke toestemming van de bevoegde overheid voor een steunvraag met   militaire affiniteit of dat projectresultaten beoogt of kan beogen voor   militaire doeleinden, ontbreekt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   clusterorganisatie mag op de indieningsdatum van de steunaanvraag geen   achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen   onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de   algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees   of nationaal recht hebben lopen waarbij toegekende steun wordt   teruggevorderd.</P>
+<p>Er wordt geen steun verleend aan clusterorganisaties die niet voldoen aan de regelgeving die van toepassing is in het Vlaamse Gewest.</p>
+
+<p>Het beslissingscomité kan een steunaanvraag onontvankelijk verklaren op basis van een van de volgende elementen :<br>
+1° de steunaanvrager of eventuele partners hebben onvoldoende financiële draagkracht om het project uit te voeren of te doen slagen;<br>
+2° de steunaanvrager of partners bij het project voldoen niet aan de overige verplichtingen of vergunningen vanwege de overheid;<br>
+3° de steunaanvrager of partners bij het project hebben blijk gegeven van niet-correct gedrag naar aanleiding van vorige aanvragen, onder meer inzake informatieverstrekking, inhoudelijke en financiële verplichtingen of verslaggeving;<br>
+4° de uitdrukkelijke toestemming van de bevoegde overheid voor een steunvraag met militaire affiniteit of dat projectresultaten beoogt of kan beogen voor militaire doeleinden, ontbreekt.</p>
+
+<p>Er wordt alleen steun verleend aan clusterorganisaties die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.</p>
 
 ### ART. 5.
 
@@ -115,6 +123,10 @@ Voor de investeringssteun zijn twee voorschotten mogelijk van   telkens 30 % van
 ### ART. 24.
 
 <P>Bij afloop van het project wordt, zowel voor de exploitatiesteun   als voor de investeringssteun, bij de laatste betalingsschijf het saldo berekend   op basis van de reële en bewezen uitgaven en pro rata de effectief ingebrachte   cofinanciering. Het saldo kan geen aanleiding geven tot een overschrijding van   de toegekende maximale subsidie.</P>  <P><BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Het   beslissingscomité bepaalt de nadere modaliteiten van de   betalingen.</P>
+
+### ART 24/1.
+
+Als de onderneming een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ## HOOFDSTUK 9. Sancties en terugvorderingen
 
