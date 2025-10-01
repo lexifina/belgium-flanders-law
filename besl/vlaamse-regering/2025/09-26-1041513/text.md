@@ -80,3 +80,27 @@ In artikel 47, §1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vla
 1° punt 7° en punt 11° worden opgeheven;<br>
 2° er wordt een punt 12° toegevoegd, dat luidt als volgt:&nbsp;<br>
 “12° kinderen die niet-hoger onderwijs volgen buiten België via een Belgisch erkend uitwisselingsprogramma, op voorwaarde dat de inschrijving in de Belgische onderwijsinstelling blijft behouden en dat ze een attest van het Belgisch erkend uitwisselingsprogramma kunnen voorleggen.”.
+
+### ART 88.
+
+Aan artikel 3 van het besluit van de Vlaamse Regering van 21 december 2018 betreffende de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, gewijzigd bij het besluit van de Vlaamse Regering van 14 januari 2022, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.”.
+
+### ART 89.
+
+Aan artikel 4 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.”.
+
+### ART 90.
+
+Aan artikel 5 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.”.
+
+### ART 91.
+
+Aan artikel 6 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.”.
