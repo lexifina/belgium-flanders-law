@@ -741,12 +741,12 @@ In afwijking van paragraaf 1 meldt het EVA in de gevallen, vermeld in paragraaf 
 
 <p>§ 2. Het EVA stelt een inbreuk vast. De vaststellingen gelden tot bewijs van het tegendeel.</p>
 
-<p>De Vlaamse Regering wijst het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid aan die de administratieve geldboete oplegt.&nbsp;Een administratieve geldboete kan alleen worden opgelegd binnen de termijn van twee jaar nadat een inbreuk is vastgesteld.</p>
+<p>De Vlaamse Regering of haar gemachtigde wijst bij het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in artikel 39, §1, derde lid, de personeelsleden aan die de administratieve geldboete opleggen. Een administratieve geldboete kan alleen worden opgelegd binnen de termijn van twee jaar nadat een inbreuk is vastgesteld.</p>
 
 <p>Een administratieve geldboete kan pas opgelegd worden nadat :<br>
 1° de betrokken inburgeraar van het EVA een schriftelijke aanmaning heeft ontvangen om zich in regel te stellen;<br>
 2° de betrokken inburgeraar zich niet in regel heeft gesteld binnen een door de Vlaamse Regering te bepalen termijn;<br>
-3° de betrokken inburgeraar, al dan niet bijgestaan door een raadsman, de kans heeft gekregen om gehoord te worden door het departement of intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, aangewezen door de Vlaamse Regering.</p>
+3° de betrokken inburgeraar, al dan niet bijgestaan door een raadsman, de kans heeft gekregen om gehoord te worden door de personeelsleden van het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat de Vlaamse Regering of haar gemachtigde overeenkomstig het tweede lid heeft aangewezen.</p>
 
 <p>De betrokkene wordt van de beslissing op de hoogte gebracht met een ter post aangetekende brief of met een brief tegen ontvangstbewijs. De kennisgeving vermeldt de wijze waarop tegen de beslissing beroep kan worden ingesteld.</p>
 
