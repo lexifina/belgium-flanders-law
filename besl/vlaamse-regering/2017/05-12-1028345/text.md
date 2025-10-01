@@ -50,7 +50,7 @@ Eveneens in afwijking van het eerste lid kan steun worden toegekend met toepassi
 
 ### ART 3.
 
-De onderneming die een steunaanvraag indient, mag op de datum van de toekenning van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees of nationaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd als vermeld in artikel 1, lid 4, van de voormelde verordening.<br>
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 Er kan geen steun worden toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen, vermeld in artikel 1, lid 2, van de voormelde verordening.<br>
 <br>
@@ -284,7 +284,9 @@ De Vlaamse Regering machtigt de Vlaamse minister, bevoegd voor het technologisch
 
 Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen negentig werkdagen na de ontvangst van de steunaanvraag, onverminderd de verlenging, vermeld in artikel 20, 21 en 26, of de steunaanvraag voldoet aan de beoordelingsvoorwaarden, vermeld in artikel 27, en verleent in voorkomend geval steun in overeenstemming met de voorwaarden vermeld in dit besluit.<br>
 <br>
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van door haar opgelegde bijkomende concrete voorwaarden zodat een project bij uitvoering voldoet aan de bepalingen, opgelegd in dit besluit.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van door haar opgelegde bijkomende concrete voorwaarden zodat een project bij uitvoering voldoet aan de bepalingen, opgelegd in dit besluit.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART 29.
 
