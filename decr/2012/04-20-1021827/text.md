@@ -350,24 +350,24 @@ De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevat
 
 ### ART. 21.
 
-Als de kinderopvanglocatie georganiseerd wordt zonder een vergunning van het agentschap&nbsp;als vermeld in artikel 4, of als de vergunning wordt opgeheven, geeft het agentschap een sluitingsbevel aan de organisator met vermelding van de datum waarop de sluiting ingaat. In geval van een imminent en ernstig gevaar voor de gezondheid of veiligheid van de kinderen kan de sluiting onmiddellijk worden opgelegd.<br>
+Als de kinderopvanglocatie georganiseerd wordt zonder een vergunning van het agentschap&nbsp;als vermeld in artikel 4, of als de vergunning wordt opgeheven, geeft het bevoegde personeelslid van het agentschap een sluitingsbevel aan de organisator, met vermelding van de datum waarop de sluiting ingaat. In geval van een imminent en ernstig gevaar voor de gezondheid of veiligheid van de kinderen kan de sluiting onmiddellijk worden opgelegd.<br>
 <br>
 Als de uitoefening van de kinderopvang opgeschort moet worden of als een kinderopvanglocatie moet sluiten, licht het agentschap zo spoedig mogelijk de burgemeester van de gemeente van de kinderopvanglocatie daarover in.<br>
 <br>
 De burgemeester gaat na of de opschorting of het sluitingsbevel wordt nageleefd. Als dat niet het geval is, gaat de burgemeester over tot sluiting van de kinderopvanglocatie. Die maatregel wordt op kosten en op risico van de organisator uitgevoerd. De burgemeester informeert het agentschap&nbsp;over zijn vaststellingen.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels.
+De Vlaamse Regering wijst de personeelsleden van het agentschap aan die bevoegd zijn om de beslissingen overeenkomstig de bepalingen van dit artikel te nemen en bepaalt de nadere regels.
 
 ## Afdeling 4. Bestuurlijke geldboete
 
 ### ART. 22.
 
-Het agentschap kan een bestuurlijke geldboete van 100 tot 100.000 euro opleggen als de organisator :<br>
+Het bevoegde personeelslid van het agentschap kan een bestuurlijke geldboete van 100 tot 100.000 euro opleggen als de organisator :<br>
 1° het door of krachtens dit decreet geregelde toezicht door de private toezichthouder verhindert;<br>
 2° kinderopvang organiseert zonder vergunning als vermeld in artikel 4;<br>
 3° de bepalingen van dit decreet en de uitvoeringsbesluiten ervan niet naleeft.<br>
 <br>
-De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat het agentschap het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete. De organisator mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br>
+De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat het bevoegde personeelslid van het agentschap het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete. De organisator mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br>
 <br>
 De betrokkene kan, op straffe van verval van het recht tot het instellen van het beroep, binnen een termijn van een maand vanaf de kennisgeving van de beslissing waarbij hem een bestuurlijke geldboete wordt opgelegd tegen die beslissing beroep aantekenen met een verzoekschrift bij de Raad van State. Dat beroep schorst de uitvoering van de beslissing.<br>
 <br>
@@ -375,7 +375,7 @@ Als de betrokkene weigert de bestuurlijke geldboete te betalen, wordt ze bij dwa
 <br>
 De vordering tot voldoening van de bestuurlijke geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het tweede lid, of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de bestuurlijke geldboete.
+De Vlaamse Regering wijst de personeelsleden van het agentschap aan die overeenkomstig de bepalingen van deze afdeling bevoegd zijn om bestuurlijke geldboeten op te leggen, en bepaalt de nadere regels voor het opleggen en het betalen van de bestuurlijke geldboete.
 
 ### ART. 23.
 
