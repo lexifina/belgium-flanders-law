@@ -43,6 +43,10 @@ Een projectvoorstel gaat altijd uit van minstens één Vlaamse instelling   van 
 
 Een project heeft een maximale duur van 2 maal 2 jaar, op voorwaarde dat er een positieve tussentijdse evaluatie van het project is na twee jaar met betrekking tot de voorzetting van het project.<br /><br />Het projectvoorstel omvat een voorstel van projectbegroting in de vorm van een kostenramingsstaat. In geval van een projectconsortium omvat het voorstel voor elke aanvrager ook een deelprojectbegroting. De projectkosten die opgenomen moeten worden in de kostenstaat zijn in overeenstemming met de kostenomschrijving, vermeld in de bijlage bij dit besluit.<br /><br />De voorgestelde projectbezetting heeft betrekking op minstens één voltijds equivalent onderzoeker per jaar.
 
+### ART 5/1.
+
+Er wordt alleen steun verleend aan een Vlaamse instelling van hoger onderwijs, onderzoeksinstellingen en praktijkcentra die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.
+
 ## HOOFDSTUK III STEUNPERCENTAGE EN CUMULATIE MET ANDERE STEUN
 
 ## AFDELING 1 STEUNPERCENTAGE
@@ -75,7 +79,9 @@ Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen zal voor de be
 
 ### ART. 10.
 
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist op basis van het dossier, waaronder het advies van de externe deskundigen, en bepaalt de omvang en de aard van de steun, alsmede de bijzondere voorwaarden en bepalingen ervan.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist op basis van het dossier, waaronder het advies van de externe deskundigen, en bepaalt de omvang en de aard van de steun, alsmede de bijzondere voorwaarden en bepalingen ervan.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen, of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 11.
 

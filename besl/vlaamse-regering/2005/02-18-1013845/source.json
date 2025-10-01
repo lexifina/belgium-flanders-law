@@ -2,16 +2,16 @@
   "codex_id": 1013845,
   "title": "Besluit van de Vlaamse Regering van 2005-02-18 betreffende de projectmatige financiering van toegepast collectief onderzoek voor de land- en tuinbouwsector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013845/VolledigDocument?datum=2021-01-01",
-  "source_sha256": "28578f8c982abdb72d408f959608f24ca87c6dbddd25f83b6d419632b99f5c57",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013845/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "dcfb2ebb01938beed4c083ba353c2b344e0fde99d69a8d7d9f935ed3bbcb4833",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013845&param=informatie",
-  "as_of": "2021-01-01",
+  "as_of": "2025-10-01",
   "made": "2005-02-18",
   "gazette": "2005-07-01",
   "numac": 2005035743,
   "document_start": "2005-02-18",
   "document_end": null,
-  "in_force": "2021-01-01",
-  "article_versions": 30,
-  "record_form": "consolidated version as in force on 2021-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-10-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
