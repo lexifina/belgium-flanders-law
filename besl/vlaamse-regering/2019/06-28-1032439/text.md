@@ -4209,7 +4209,7 @@ In afwijking van het eerste lid voldoen de centra voor kortverblijf die worden u
 
 <p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Aanvullend op artikel 4, 7, 8, 25, 26, artikel 39, §2, artikel 48, 49, en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van centra type 2 de specifieke voorwaarden, vermeld in dit hoofdstuk.</span></span></p>
 
-## Afdeling 2. Voorwaarden betreffende de gebruiker en zijn mantelzorger(s)
+## Afdeling 2. Voorwaarden voor de gebruiker en zijn mantelzorger
 
 ### ART 44.
 
@@ -4810,13 +4810,16 @@ De erkenning als centrum type 3 heeft van rechtswege de beëindiging van de reva
 ### ART 103.
 
 <p>De gebruiker voldoet aan al de volgende voorwaarden:<br>
-1°&nbsp;bij het begin van de verblijfsperiode maximaal 21 jaar oud zijn.<br>
-2°&nbsp;behoren tot een van de volgende doelgroepen:<br>
-&nbsp; a)&nbsp;kinderen en jongeren met een aandoening die tot een vroegtijdige dood kan of zal leiden;<br>
-&nbsp; b)&nbsp;kinderen en jongeren met een aandoening die onafwendbaar een vroegtijdige dood meebrengt;<br>
-&nbsp; c)&nbsp;kinderen en jongeren met een progressieve aandoening zonder hoop op genezing;<br>
-&nbsp; d)&nbsp;kinderen en jongeren met een niet-progressieve aandoening die hun kwetsbaarheid vergroot;<br>
-3°&nbsp;voornamelijk thuis verzorgd worden en frequente en noodzakelijke medische verzorging krijgen.<br>
+&nbsp;&nbsp; &nbsp;1° de gebruiker is bij het begin van de verblijfsperiode maximaal 21 jaar oud;<br>
+&nbsp;&nbsp; &nbsp;2° de gebruiker wordt thuis of in een thuisvervangende omgeving verzorgd en heeft nood aan frequente en noodzakelijke medische verzorging en continu toezicht;<br>
+&nbsp;&nbsp; &nbsp;3° de gebruiker behoort tot een van de volgende doelgroepen:<br>
+a)&nbsp;&nbsp; &nbsp;kinderen en jongeren met een aandoening waarvan een langdurige, intensievere behandeling mogelijk niet het gewenste resultaat heeft en zo een vroegtijdig overlijden met zich kan meebrengen;<br>
+b)&nbsp;&nbsp; &nbsp;kinderen en jongeren die een lange intensieve behandeling nodig hebben voor een complexe medische aandoening die ernstige complicaties of een vroegtijdig overlijden met zich kan meebrengen, waardoor ze niet kunnen deelnemen aan de activiteiten die voor kinderen van hun leeftijd normaal zijn;<br>
+c)&nbsp;&nbsp; &nbsp;kinderen en jongeren met een progressieve aandoening, zonder hoop op genezing;<br>
+d)&nbsp;&nbsp; &nbsp;kinderen en jongeren met een niet-progressieve aandoening die hun kwetsbaarheid vergroot, alsook onvoorziene risico’s op complicaties met zich meebrengt met ernstige achteruitgang van hun toestand tot gevolg;<br>
+4° er is in het eigen netwerk van de gebruiker of in de bestaande voorzieningen onvoldoende medische ondersteuning om ouders en mantelzorgers tijdelijk te ontlasten van de nodige zorg en omkadering voor hun kind, of het kind of de jongere is vanwege zijn complexe medische zorg nog nooit buiten de thuissituatie opgevangen.<br>
+<br>
+Als de gebruiker voldoet aan de voorwaarde, vermeld in het eerste lid, 3°, c), zijn de behandelingen die het centrum type 3 aanbiedt, uitsluitend palliatief of ondersteunend van aard. Die handelingen kunnen zich over verscheidene jaren uitstrekken.<br>
 <br>
 Gebruikers worden doorverwezen door hun behandelend arts of huisarts of worden rechtstreeks aangemeld door hun ouders of mantelzorgers met de nodige medische informatie om de zorg en ondersteuning veilig te kunnen waarborgen.</p>
 
@@ -4851,7 +4854,7 @@ Het centrum type 3 staat zeven dagen op zeven dagen, dag en nacht, ter beschikki
 
 ### ART 108.
 
-<p>De gebruiker kan vrij zijn huisarts kiezen en, in voorkomend geval, het ziekenhuis waar hij opgenomen wil worden. Die vrije keuze wordt nageleefd en wordt op geen enkele manier beïnvloed, tenzij er zich een acute crisis voordoet, die geregeld wordt via een vastgelegde procedure.<br>
+<p>De vrije keuze van de eigen huisarts wordt altijd gevrijwaard. Het centrum type 3 kan een beroep doen op een huisarts of kinderarts die bij ziekte en medische problemen in de eerste plaats overlegt met de ouders of de wettelijke vertegenwoordiger van de gebruiker en, indien nodig, met de eigen huisarts of specialist van het ziekenhuis waar de gebruiker opgevolgd wordt.<br>
 <br>
 In het centrum type 3 geldt een totaal rookverbod binnen alle interne ruimtes en buiten in de onmiddellijke omgeving van kinderen van het centrum type 3.<br>
 <br>
@@ -4874,26 +4877,31 @@ Er wordt voor elke verblijfseenheid waar gebruikers zijn opgenomen, een inventar
 <p>Het verblijf wordt geconcretiseerd in een schriftelijke opnameovereenkomst die de belanghebbende partijen ondertekenen en die minstens de volgende bepalingen bevat:<br>
 1°&nbsp;de volgende de administratieve gegevens:<br>
 a)&nbsp;de identificatiegegevens van de contracterende partijen;<br>
-b)&nbsp;het erkenningsnummer van het centrum type 3;<br>
+b)&nbsp;het erkenningsnummer van het centrum type 3 en de verantwoordelijke beheersinstantie daarvan;<br>
 c)&nbsp;de vastgelegde eerste verblijfsdatum;<br>
 2°&nbsp;de opname- en ontslagprocedure die de volgende elementen bevat:<br>
 a)&nbsp;de voorwaarden voor de opstart en de beëindiging van het verblijf;<br>
 b)&nbsp;omstandigheden die aanleiding kunnen geven tot ontslag uit het centrum type 3, de ontslagprocedure en de opzeggingstermijn;<br>
 c)&nbsp;de wijze waarop de gebruiker de overeenkomst kan beëindigen, en de toepasselijke opzeggingstermijn;&nbsp;<br>
-d)&nbsp;de specifieke regelingen bij tijdelijke afwezigheid ten gevolge van een crisisopvang of het overlijden van de gebruiker;<br>
+d)&nbsp;...;<br>
 3° de gebruikersbijdragen en de facturatie die de volgende elementen bevatten:<br>
 a)&nbsp;&nbsp; &nbsp;het bedrag van de gebruikersbijdrage die per verblijfsdag wordt aangerekend;<br>
 b)&nbsp;&nbsp; &nbsp;de diensten en goederen die in het bedrag van de gebruikersbijdrage inbegrepen zijn;<br>
 c)&nbsp;&nbsp; &nbsp;de diensten en goederen die niet in het bedrag van de gebruikersbijdrage inbegrepen zijn, en die de gebruiker zelf moet aankopen of waarin hij zelf moet voorzien;<br>
-d)&nbsp;&nbsp; &nbsp;de diensten en leveringen die niet in het bedrag van de gebruikersbijdrage inbegrepen zijn, maar die het centrum type 3 kan aanbieden tegen een extra vergoeding, met telkens de vermelding van de kostprijs. De voormelde kostprijs omvat minstens de kostprijs voor het verblijf, vermeld in artikel 104, tweede lid, van deze bijlage;<br>
-e)&nbsp;&nbsp; &nbsp;de percentages van de interesten en de procedure als de factuur te laat wordt betaald;<br>
-f)&nbsp;&nbsp; &nbsp;de percentages van de interesten, de procedure en de ontvankelijkheidsvereisten als de factuur niet wordt betaald<br>
+d) de diensten en leveringen die niet in het bedrag van de gebruikersbijdrage inbegrepen zijn, maar die het centrum type 3 kan aanbieden tegen een extra vergoeding, met telkens de vermelding van de kostprijs volgens marktconforme prijzen die gebaseerd zijn op reëel aantoonbare prijzen;<br>
+e)&nbsp;&nbsp; &nbsp;...;<br>
+f)&nbsp;&nbsp; &nbsp;...<br>
 4°&nbsp;de regelingen voor aansprakelijkheid en verzekeringen;<br>
 5°&nbsp;de wijze waarop de overeenkomst kan worden gewijzigd;<br>
 6°&nbsp;de vermelding dat het centrum type 3 geen goederen, noch gelden van de gebruiker in beheer neemt, met uitzondering van de verrekening van kosten die rechtstreeks met het verblijf in het centrum type 3 te maken hebben;<br>
-7°&nbsp;een verklaring in eer en geweten van de gebruiker of zijn vertegenwoordiger dat ze correcte informatie verschaffen aan het centrum type 3. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de gebruiker of zijn vertegenwoordiger aansprakelijk gesteld worden.<br>
+7°&nbsp;een verklaring in eer en geweten van de gebruiker of zijn vertegenwoordiger dat ze correcte informatie verschaffen aan het centrum type 3. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de gebruiker of zijn vertegenwoordiger aansprakelijk gesteld worden;<br>
+8° de redenen waarom een opnameovereenkomst onmiddellijk kan worden stopgezet of aangepast en de vermelding dat een opzegging om gelijk welke andere reden mogelijk is, mits inachtneming van een vooropgestelde opzegtermijn.<br>
 <br>
-De schriftelijke opnameovereenkomst is van bepaalde duur. De overeengekomen ontslagdatum wordt als richtinggevend beschouwd, want ze kan in overleg met de gebruiker of zijn vertegenwoordiger en het zorgteam gewijzigd worden in functie van de specifieke noden aan zorg en ondersteuning van de gebruiker. De motivering van de gewijzigde ontslagdatum maakt deel uit van het zorg- en ondersteuningsplan. Elke bepaling of de toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp.<br>
+De opnameovereenkomst wordt bij het eerste verblijf aan de gebruiker ter ondertekening aangeboden. De opnameovereenkomst is van bepaalde duur. Ze gaat in bij de eerste opnamedag en is geldig gedurende het lopende kalenderjaar. De opnameovereenkomst wordt één keer per jaar herbekeken bij het begin van een volgend kalenderjaar en wordt dan weer ter ondertekening aangeboden. De opnameovereenkomst kan in overleg met de gebruiker of zijn vertegenwoordiger en het zorgteam gewijzigd worden in functie van de specifieke noden aan zorg en ondersteuning van de gebruiker. Elke bepaling of de toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp.<br>
+<br>
+Een sluiting die is opgelegd door de overheid, maakt onmiddellijk een einde aan de schriftelijke opnameovereenkomst op de dag dat de gebruiker de voorziening verlaat.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Ook een overlijden van de gebruiker maakt onmiddellijk een einde aan de schriftelijke opnameovereenkomst. In deze situaties mag er geen opzegvergoeding aangerekend worden.<br>
 <br>
 Er kan geen enkele vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</p>
 
@@ -4904,8 +4912,8 @@ Er kan geen enkele vergoeding aangerekend worden vóór de schriftelijke opnameo
 De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, vermeld in artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
 §2. De interne afsprakennota vermeldt de volgende elementen:<br>
-1°&nbsp;de identificatie- en contactgegevens van het centrum type 3 en de verantwoordelijke beheerinstantie ervan;<br>
-2° het erkenningsnummer van het centrum type 3;<br>
+1°&nbsp;...;<br>
+2° ...;<br>
 3°&nbsp;de wijze waarop binnen het centrum type 3 het dagelijkse leven en de verzorging worden georganiseerd, in het bijzonder met betrekking tot:<br>
 &nbsp; a)&nbsp;de dagindeling;<br>
 &nbsp; b)&nbsp;de maaltijden;&nbsp;<br>
@@ -4916,7 +4924,7 @@ De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, 
 &nbsp; g)&nbsp;het restrictiebeleid ten aanzien van gebruikers met een bijzonder zorgprofiel;<br>
 &nbsp; h)&nbsp;de vrije keuze en de regeling voor de ontvangst van de behandelende arts en andere zorgverleners;<br>
 &nbsp; i)&nbsp;de vrije keuze van ziekenhuis en de regeling voor een ziekenhuisopname bij acute crisis;<br>
-&nbsp; j)&nbsp;de vrije toegang van familie en vrienden van de gebruikers met respect voor de bezoekregeling;&nbsp;<br>
+&nbsp; j)&nbsp;de vrije toegang van familie en vrienden van de gebruikers;&nbsp;<br>
 &nbsp; k)&nbsp;de mogelijkheden en beperkingen binnen het centrum type 3 in verband met de vroegtijdige zorgplanning, de palliatieve en levenseindezorg;<br>
 4°&nbsp;de verwachtingen ten aanzien van de gebruiker met betrekking tot zijn eigen zorgmateriaal en medicatie, gerelateerd aan zijn dagdagelijkse zorg;<br>
 5°&nbsp;de regels voor het houden van huisdieren;<br>
@@ -4925,7 +4933,7 @@ De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, 
 8°&nbsp;de afspraken over het consulteren van het zorg- en ondersteuningsplan door de gebruiker of zijn vertegenwoordiger;<br>
 9°&nbsp;de procedure voor de behandeling van suggesties, opmerkingen en klachten en de naam van de persoon aan wie die kunnen worden meegedeeld;<br>
 10°&nbsp;een verwijzing naar de instanties die toezicht uitoefenen op de erkenning van het centrum type 3 en een verwijzing naar de toepasselijke &nbsp;&nbsp;&nbsp; erkenningsvoorwaarden;<br>
-11°&nbsp;de garantie op vrije toegang voor de bedienaren van de erediensten en de beschikbaarheid van een actuele lijst van de bedienaren en afgevaardigden bij het centrum type 3.</p>
+11°&nbsp;de garantie op vrije toegang voor de bedienaren van de erediensten.</p>
 
 <p>&nbsp;</p>
 
@@ -4933,9 +4941,9 @@ De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, 
 
 <p>De initiatiefnemer ontslaat een gebruiker niet tenzij wegens overmacht of om redenen volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.<br>
 <br>
-Als de initiatiefnemer een gebruiker ontslaat omdat zijn gedragingen ernstig storend zijn voor de medegebruikers of voor de werking van het centrum type 3, of omdat zijn gezondheidstoestand van dien aard is, dat een definitieve overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel van de behandelende arts ingewonnen, in voorkomend geval, ook van de coördinerende arts en van het interdisciplinaire personeelsteam dat die gebruiker verzorgt. Als dat wenselijk is, kan ook externe experten om advies worden verzocht.<br>
+Als de initiatiefnemer een gebruiker ontslaat omdat zijn gedragingen ernstig storend zijn voor de medegebruikers of voor de werking van het centrum type 3, of omdat zijn gezondheidstoestand van dien aard is, dat een definitieve overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel van de behandelende arts en van de ouders of de wettelijke vertegenwoordiger van de gebruiker ingewonnen, in voorkomend geval, ook van de coördinerende arts en van het interdisciplinaire personeelsteam dat die gebruiker verzorgt.&nbsp;<br>
 <br>
-De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</p>
+De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf.</p>
 
 ### ART 115.
 
@@ -4947,15 +4955,15 @@ Als een kamer ontruimd en opnieuw in gebruik genomen wordt binnen de opzeggingst
 
 ### ART 116.
 
-Een sluiting die opgelegd is door de overheid, maakt onmiddellijk een einde aan de schriftelijke opnameovereenkomst op de dag dat de gebruiker de voorziening verlaat. In dat geval mag er geen opzegvergoeding aangerekend worden.
+...
 
 ### ART 117.
 
-<p>Het overlijden of crisisopvang in een ziekenhuis van een gebruiker maakt een einde aan de schriftelijke opnameovereenkomst.<br>
+<p>Het overlijden of crisisopvang in een ziekenhuis van een gebruiker maakt een einde aan de schriftelijke opnameovereenkomst vanaf de dag na het overlijden of de opvang in een ziekenhuis.<br>
 <br>
 Bij overlijden bedraagt de termijn waarover de nabestaanden beschikken om de verblijfseenheid te ontruimen, twee dagen.<br>
 <br>
-Als de verblijfseenheid niet binnen de termijn, vermeld in het tweede lid, ontruimd is, ontruimt het centrum type 3 de verblijfseenheid zelf en slaat de persoonlijke bezittingen van de overleden gebruiker op. Daarvoor kunnen tegen marktconforme prijzen opslagkosten aan de nabestaanden aangerekend worden.<br>
+Als de verblijfseenheid niet binnen de termijn, vermeld in het tweede lid, ontruimd is, ontruimt het centrum type 3 de verblijfseenheid zelf en slaat de persoonlijke bezittingen van de overleden gebruiker op. Daarvoor kunnen tegen marktconforme prijzen opslagkosten aan de nabestaanden aangerekend worden, vanaf de derde dag na de dag van het overlijden.<br>
 <br>
 Als na drie maanden na het overlijden van de gebruiker de goederen niet opgehaald worden door de nabestaanden, kunnen die goederen op kosten van de nabestaanden, volgens de regels bepaald in de schriftelijke opnameovereenkomst uit het centrum type 3 worden verwijderd.</p>
 
@@ -5012,7 +5020,7 @@ Het kwaliteitsmanagementsysteem, vermeld in het in eerste lid, 3°, worden minim
 1°&nbsp;de volgende primaire processen:<br>
 &nbsp; a)&nbsp;de procedure voor onthaal en de eerste verblijfsdag;<br>
 &nbsp; b)&nbsp;de procedure voor planning en organisatie van de begeleiding, verzorging en verpleegkunde;<br>
-&nbsp; c)&nbsp;de procedure voor vrijheidsbeperkende maatregelen<br>
+&nbsp; c)&nbsp;de procedure voor vrijheidsbeperkende maatregelen;<br>
 &nbsp; d)&nbsp;de procedure voor doorverwijzing;<br>
 &nbsp; e)&nbsp;procedure voor vrijwillig ontslag, verplicht ontslag en overlijden;<br>
 &nbsp; f)&nbsp;de procedure om informatie over de gebruiker te verwerven en door te geven rekening houdend met de vereiste van een behoorlijk gebruikers- en toegangsbeheer en een veilige uitwisseling van persoonsgegeven tussen de betrokken actoren;<br>
@@ -5065,15 +5073,13 @@ De minister kan daarvoor nadere regels bepalen.</p>
 &nbsp; b)&nbsp;elke gebruiker kan minstens één keer per week een bad of douche nemen, naar keuze;&nbsp;<br>
 &nbsp; c)&nbsp;voor elke gebruiker worden de gepaste preventieve en curatieve maatregelen getroffen;<br>
 &nbsp; d)&nbsp;de gebruiker krijgt dagelijks de voorgeschreven medicatie, zoals besproken met de gebruiker en opgenomen in het zorg- en ondersteuningsplan, aangeboden en, in voorkomend geval, toegediend;<br>
-3°&nbsp;de paramedische zorg en ondersteuning: aan de gebruiker worden kinesitherapeutische of logopedische behandelingen die de behandelende arts voorgeschreven heeft, zoals besproken met de gebruiker en opgenomen in het zorg- en ondersteuningsplan, gegarandeerd;<br>
+3°&nbsp;de paramedische zorg en ondersteuning: aan de gebruiker worden de noodzakelijke kinesitherapeutische behandelingen die de behandelende arts voorgeschreven heeft, zoals besproken met de gebruiker en opgenomen in het zorg- en ondersteuningsplan, gegarandeerd;<br>
 4°&nbsp;het medische toezicht van de gebruiker:<br>
 &nbsp; a)&nbsp;de vrije keuze van de huisarts wordt altijd gevrijwaard;<br>
 &nbsp; b)&nbsp;de pediater houdt het medische dossier bij van de gebruiker;<br>
 &nbsp; c)&nbsp;het medische dossier is altijd raadpleegbaar door de huisarts van wacht;<br>
 5°&nbsp;de psychosociale, agogische, existentiële en emotionele ondersteuning: in voorkomend geval wordt aan de gebruiker, de familie of mantelzorgers de nodige ondersteuning geboden tijdens het verblijf aangepast aan de vraag van de gebruiker;<br>
-6°&nbsp;de levensbeschouwelijke begeleiding aangepast aan de wensen van de gebruiker, door:<br>
-&nbsp; a)&nbsp;te beschikken over een geactualiseerde lijst van de bedienaren van de erediensten en afgevaardigden van de Centrale Vrijzinnige Raad;<br>
-&nbsp; b)&nbsp;de vrije keuze altijd te vrijwaren;<br>
+6° de levensbeschouwelijke begeleiding aangepast aan de wensen van de gebruiker, door de vrije keuze altijd te vrijwaren;<br>
 7°&nbsp;sociale contacten stimuleren en het sociale netwerk onderhouden en versterken:<br>
 &nbsp; a)&nbsp;de voor de gebruiker betekenisvolle contacten kennen en ervoor zorgen dat die, na toestemming van de gebruiker, kunnen worden onderhouden;<br>
 &nbsp; b)&nbsp;de onderlinge contacten tussen de gebruikers stimuleren;<br>
@@ -5103,18 +5109,18 @@ De minister kan daarvoor nadere regels bepalen.</p>
 &nbsp; h)&nbsp;liaisonfiche met de noodzakelijke medische gegevens in geval van nood of ziekenhuisopname.<br>
 3°&nbsp;een medisch deel dat al de volgende gegevens bevat:<br>
 &nbsp; a)&nbsp;de medische voorgeschiedenis en medische probleemlijst;<br>
-&nbsp; b)&nbsp;het klinisch onderzoek bij op de eerste verblijfsdag en tijdens het verblijf;<br>
+&nbsp; b) een klinisch onderzoek als de verblijfsduur langer dan één week bedraagt en bij ziekte van de gebruiker;<br>
 &nbsp; c)&nbsp;de allergieën, vaccinaties en dieetvoorschriften;<br>
 &nbsp; d)&nbsp;in voorkomend geval: de DNR-code die geactualiseerd is en afgestemd is met de gebruiker of zijn vertegenwoordiger;<br>
-&nbsp; e)&nbsp;de afspraken over vroegtijdige zorgplanning, de palliatieve zorg en de levenseindezorg;<br>
+&nbsp; e)&nbsp;in voorkomend geval de afspraken over vroegtijdige zorgplanning, de palliatieve zorg en de levenseindezorg;<br>
 &nbsp; f)&nbsp;het medicatieschema omvattende de redenen om een geneesmiddel op te starten, te wijzigen of het gebruik ervan stop te zetten.</p>
 
 ### ART 128.
 
 <p>Er wordt periodiek, gestructureerd en in voorkomend geval op interdisciplinaire wijze overlegd over het gebruikersdossier met de gebruiker en, als de gebruiker dat wil, zijn mantelzorger(s).<br>
 <br>
-Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfverantwoordelijkheid van de gebruiker gewaarborgd op de volgende wijze<br>
-1°&nbsp;de gebruiker of zijn vertegenwoordiger kan altijd inzage vragen in het gebruikersdossier, in dat deel van het gebruikersdossier dat hem rechtstreeks aanbelangt en heeft het recht op rectificatie van zijn gegevens. Hij kan zelf gegevens noteren op een daarvoor vastgestelde ruimte. Die gegevens kunnen aanzetten tot dialoog en tot aanpassing van het gebruikersdossier;<br>
+Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfverantwoordelijkheid van de gebruiker gewaarborgd op de volgende wijze:<br>
+1°&nbsp;de gebruiker of zijn vertegenwoordiger kan altijd inzage vragen in het gebruikersdossier, in dat deel van het gebruikersdossier dat hem rechtstreeks aanbelangt en heeft het recht op rectificatie van zijn gegevens.<br>
 2°&nbsp;het gebruikersdossier en de individuele dossiers van de behandelaars en de huisarts worden bewaard met de vereiste technische en organisatorische maatregelen ter bescherming van de persoonsgegevens, zodat alleen personen die daarvoor bevoegd zijn er toegang toe hebben.<br>
 <br>
 Bij vertrek van de gebruiker uit het centrum type 3 begeleidt het centrum type 3 de gebruiker voldoende opdat hij met de nodige afspraken over de zorgafstemming naar zijn thuismilieu kan terugkeren.</p>
@@ -5125,13 +5131,11 @@ Bij vertrek van de gebruiker uit het centrum type 3 begeleidt het centrum type 3
 
 ### ART 129.
 
-<p>Het centrum staat de hele week dag en nacht ter beschikking van de gebruikers.</p>
+<p>...</p>
 
 ### ART 130.
 
-<p>Het centrum type 3 integreert zich aantoonbaar in de buurt op al de volgende wijzen:<br>
-1°&nbsp;erop toezien dat de gebruikers kunnen deelnemen aan activiteiten georganiseerd in de buurt of door lokale organisaties en verenigingen;<br>
-2°&nbsp;buurtbewoners en lokale organisaties uitnodigen om aan ontspannings- en ontmoetingsactiviteiten deel te nemen.</p>
+<p>...</p>
 
 ### ART 131.
 
@@ -5152,16 +5156,10 @@ Als er in of rond het centrum type 3 dieren worden gehouden, dan gebeurt dat met
 
 ### ART 133.
 
-<p>De initiatiefnemer van het centrum type 3 sluit een schriftelijke samenwerkingsovereenkomst met:<br>
-1°&nbsp;een erkende gespecialiseerde dienst Moeder en Kind, of een erkend centrum voor gespecialiseerde zorg voor kinderen en jongeren;<br>
-2°&nbsp;een palliatief netwerk of een erkende dienst voor palliatieve zorgen.<br>
-<br>
-De schriftelijke samenwerkingsovereenkomst, vermeld in het eerste lid, bepaalt onder meer:<br>
-1°&nbsp;de gedeelde visie op integrale en geïntegreerde zorg en ondersteuning;<br>
-2°&nbsp;het doel van de samenwerking;<br>
-3°&nbsp;de frequentie van het structurele overleg tussen de samenwerkende partners;<br>
-4°&nbsp;de wijze waarop expertise en ervaring op een bepaald domein gedeeld of ingezet kunnen worden;<br>
-5°&nbsp;de wijze waarop de samenwerking op een structurele wijze wordt geëvalueerd.</p>
+<p>De initiatiefnemer van het centrum type 3 werkt nauw samen met:<br>
+1° een erkende gespecialiseerde dienst Moeder en Kind, of een erkend centrum voor gespecialiseerde zorg voor kinderen en jongeren, en sluit daarmee een schriftelijke samenwerkingsovereenkomst;<br>
+2° een palliatief netwerk of een erkende dienst voor palliatieve zorgen waardoor de gebruiker al opgevolgd wordt;<br>
+3° een dienst spoedgevallen van een erkend ziekenhuis in de onmiddellijke omgeving van het centrum type 3, zo nodig door middel van dringend ziekenvervoer.</p>
 
 ## Onderafdeling 2. Klachtenbehandeling
 
@@ -5173,7 +5171,7 @@ De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klacht
 <br>
 Op basis van een periodieke analyse van de klachten formuleert het centrum type 3 correctieve en preventieve maatregelen.<br>
 <br>
-§2. De gegevens over de Woonzorglijn worden op een zichtbare plaats uitgehangen.</p>
+§2....</p>
 
 ## Onderafdeling 3. Facturatie
 
@@ -5184,29 +5182,37 @@ Op basis van een periodieke analyse van de klachten formuleert het centrum type 
 2°&nbsp;het aantal dagen dat de gebruiker in het centrum type 3 verbleven heeft, met opgave van de data;<br>
 3°&nbsp;de gevraagde gebruikersbijdrage per verblijfsdag;<br>
 4°&nbsp;een gedetailleerde opgave van alle extra vergoedingen die boven op de gebruikersbijdrage in rekening zijn gebracht, met vermelding van de aard, het aantal en het bedrag;<br>
-5° ...;<br>
+5° in voorkomend geval de bedragen die in mindering gebracht zijn voor niet-gebruikte diensten en leveringen, in het bijzonder bij tijdelijke afwezigheid of bij overlijden;<br>
 6° het totale verschuldigde nettobedrag dat de gebruiker of zijn vertegenwoordiger moet betalen;<br>
-7° in voorkomend geval, de in mindering gebrachte bedragen voor niet-gebruikte diensten en leveringen, in het bijzonder bij tijdelijke afwezigheid of bij overlijden;<br>
-8° in voorkomend geval, de al betaalde bedragen voor de afgelopen verblijfsperiode en de te betalen bedragen voor de volgende maand;<br>
-9° het totale verschuldigde nettobedrag, dat de gebruiker of zijn vertegenwoordiger moet betalen.</p>
+7° ...;<br>
+8° ...;<br>
+9° ...<br>
+<br>
+De gevraagde gebruikersbijdrage per verblijfsdag, vermeld in het eerste lid, 3°, en de extra vergoedingen, vermeld in het eerste lid, 4°, worden duidelijk geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden, en wordt vermeld in een onthaalbrochure of op de website van het centrum type 3.</p>
 
 ### ART 136.
 
 <p>De termijn voor het betalen van de factuur bedraagt dertig dagen te rekenen vanaf ontvangst.<br>
 <br>
-Als de factuur niet of te laat wordt betaald kunnen interesten worden aangerekend. De percentages en de procedure daarvoor zijn bepaald in de schriftelijke opnameovereenkomst.<br>
+Als de factuur niet of te laat wordt betaald kunnen interesten worden aangerekend. De percentages en de procedure daarvoor zijn bepaald in de schriftelijke opnameovereenkomst of in de betalingsvoorwaarden.<br>
 <br>
-Als de factuur niet wordt betaald stelt het centrum type 3 de gebruiker of zijn vertegenwoordiger in gebreke en leidt deze toe naar een van de kernactoren van het geïntegreerd breed onthaal voor onderzoek van mogelijkheden tot financiële ondersteuning. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst.<br>
-<br>
-De minister kan nadere regels bepalen over de wijze waarop de gebruikersbijdrage berekend moet worden.</p>
+Als de factuur niet wordt betaald stelt het centrum type 3 de gebruiker of zijn vertegenwoordiger in gebreke en leidt deze toe naar een van de kernactoren van het geïntegreerd breed onthaal voor onderzoek van mogelijkheden tot financiële ondersteuning. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst of in de betalingsvoorwaarden.</p>
 
 ### ART 137.
 
-<p>De initiatiefnemer van het centrum type 3 legt op eenvoudig verzoek de bewijsstukken voor die de extra vergoeding, vermeld in artikel 112, eerste lid, 3°, d), van deze bijlage, rechtvaardigen. De extra vergoeding wordt alleen tegen marktconforme prijzen aangerekend. De extra vergoeding is gebaseerd op een reële aantoonbare kostenberekening.</p>
+<p>De initiatiefnemer van het centrum type 3 legt op eenvoudig verzoek de bewijsstukken voor die de extra vergoeding, vermeld in artikel 112, eerste lid, 3°, d), van deze bijlage, rechtvaardigen.</p>
 
 ### ART 138.
 
 Het overzicht van de gehanteerde gebruikersbijdrage per verblijfsdag en van de aangerekende extra vergoedingen, is beschikbaar in het centrum type 3.
+
+### ART 138/1.
+
+Het centrum vordert van de gebruiker een gebruikersbijdrage voor de aangeboden verblijfsperiode, die maximaal 5,77 euro per verblijfsdag bedraagt. Dat bedrag wordt geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld.<br>
+<br>
+De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast overeenkomstig artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van ’s lands concurrentievermogen. De basisindex is de index die van toepassing is op 1 januari 2019. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar dat volgt op de indexsprong.<br>
+<br>
+De minister kan voor de berekening van de gebruikersbijdrage, vermeld in het eerste lid, een bijdrageschaal vastleggen die rekening houdt met het inkomen en de gezinssamenstelling van de gebruiker.
 
 ### ART 139.
 
@@ -5230,11 +5236,13 @@ De initiatiefnemer kan geen borgstelling vragen.</p>
 
 ### ART 143.
 
-<p>Een centrum type 3 beschikt over het volgende personeel:<br>
+<p>Een centrum type 3 beschikt op jaarbasis over het volgende personeel:<br>
 1°&nbsp;0,20 voltijdsequivalenten artsen-specialisten in de pediatrie;<br>
 2°&nbsp;0,50 voltijdsequivalenten klinische psychologen of klinische orthopedagogen;<br>
 3°&nbsp;6,50 voltijdsequivalenten bachelor verpleegkundigen, waaronder een 0,3 voltijdsequivalenten hoofdverpleegkundige;<br>
-4°&nbsp;drie voltijdsequivalenten ondersteunende functies vrij in te vullen voor administratie, animatie, logistiek, kwaliteit en coördinatie.</p>
+4°&nbsp;drie voltijdsequivalenten ondersteunende functies vrij in te vullen voor administratie, animatie, logistiek, kwaliteit en coördinatie.<br>
+<br>
+Het centrum type 3 kan aantonen hoe de inzet van het personeel, zoals vermeld in het eerste lid, op elk moment in verhouding staat met het aantal gebruikers die verblijven in het centrum type 3.</p>
 
 ### ART 144.
 
@@ -5266,95 +5274,75 @@ Als aan een van de personen, vermeld in het eerste lid, een werkstraf of een and
 
 ### ART 148.
 
-<p>Alle te bouwen of te verbouwen centra type 3, waarvoor een omgevingsvergunning voor de geplande bouwwerkzaamheden wordt afgeleverd, moeten voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;door de Vlaamse Regering zijn maximaal tien verblijfseenheden erkend, evenredig verdeeld over de erkende centra type 3;<br>
-2°&nbsp;er wordt per gebruiker een minimale bruto-oppervlakte van 30 m2 voorzien. Deze oppervlakte omvat: de verblijfseenheid van de gebruiker met sanitaire cel, de zit- en eetruimten, de gemeenschappelijke sanitaire ruimten, de voor de gebruiker beschikbare ruimten en de voor de gebruiker toegankelijke gangen;<br>
-3°&nbsp;de bruto oppervlakte van het centrum type 3 wordt berekend voor zeven verblijfseenheden. Dit zijn vijf erkende verblijfseenheden, één verblijfseenheid voor crisisopvang en één verblijfseenheid om de opnamewissels op te vangen;<br>
-4°&nbsp;het centrum type 3 is zo ingericht en uitgerust dat het volledig aangepast is aan het aantal gebruikers en hun specifieke noden Het bevat tenminste de volgende lokalen:<br>
-&nbsp; a)&nbsp;zeven individuele verblijfseenheden, om gebruikers op elk moment te kunnen opnemen waarvoor de isolatie noodzakelijk is, met afzonderlijk rolstoeltoegankelijk sanitair en het nodige comfort en de nodige inrichting om altijd alle gebruikers kwaliteitsvol en veilig op te vangen en te verzorgen. De kamers zijn voorzien van een veiligheidssysteem. Er is minstens één noodoproepsysteem in de kamer en in het sanitair voorhanden. De verblijfseenheden hebben een minimale oppervlakte van 16m², sanitair niet inbegrepen. Als een verblijfseenheid aangewend wordt voor het verblijf van meer dan twee gebruikers of begeleiders, dan is deze verblijfseenheid voldoende groot, zodat zij comfortabel en, waar nodig, aangepast kunnen verblijven in het centrum;<br>
-&nbsp; b)&nbsp;een lokaal voor de verpleegkundigen waar ze hun specifieke werkzaamheden kunnen organiseren, inclusief een beveiligde bergruimte voor medicatie;<br>
-&nbsp; c)&nbsp;een lokaal voor de coördinerende arts, tevens fungeert als diagnostisch en therapeutisch onderzoekslokaal;<br>
-&nbsp; d)&nbsp;een zitruimte waar de ouders, begeleiders of mantelzorgers zich kunnen terugtrekken;<br>
-&nbsp; e)&nbsp;een verdeelkeuken, eetruimte en living;<br>
-&nbsp; f)&nbsp;een propere en vuile utility;<br>
-&nbsp; g)&nbsp;een zorgbadkamer met hoog-laag bad, een tillift, een verzorgingstafel en sanitair;<br>
-&nbsp; h)&nbsp;een inrijdouche met verzorgingstafel en sanitair;<br>
-&nbsp; i)&nbsp;een spel- en educatieve ruimte;<br>
-&nbsp; j)&nbsp;een ontspannings- en snoezelruimte;<br>
-&nbsp; k)&nbsp;afzonderlijk sanitair voor gebruiker(s), ouders en begeleiders enerzijds en personeel anderzijds;<br>
-&nbsp; l)&nbsp;een voldoende grote berging om de verschillende type bedden en rolstoelen op te slaan;<br>
-&nbsp; m)&nbsp;een opname- administratieve ruimte;<br>
-&nbsp; n)&nbsp;lockers en opbergruimtes voor het personeel;<br>
-5°&nbsp;de verschillende soorten ruimten voor de gebruiker(s) en ouders of mantelzorgers zijn toegankelijk voor rolstoelgebruikers.<br>
-6°&nbsp;de lokalen zijn uitgerust voor de hygiënische verzorging van kinderen van alle leeftijden. De ouders of begeleiders hebben de mogelijkheid betrokken te worden bij de verzorging van hun kind in de kamer waar het wordt verzorgd;<br>
-7°&nbsp;een ouder of begeleider kan verblijven en inslapen in de nabijheid van zijn kind;<br>
-8°&nbsp;meubilair, vloer en speelgoed zijn desinfecteerbaar en af- of uit-wasbaar en worden regelmatig gereinigd via een vaste procedure;<br>
-9°&nbsp;de spel- en educatieve ruimte is tenminste in gebruik tijdens de normale werkuren. Ze is uitgerust met meubilair, speelgoed en andere voorzieningen, aangepast aan de betrokken doelgroep. Deze ruimte heeft die oppervlakte van minstens 20m²;<br>
-10°&nbsp;de infrastructuur van het centrum type 3 laat toe dat de minimale privacy van elke gebruiker gewaarborgd is en dat het altijd mogelijk is om de noodzakelijke zorg te bieden en hulp te verlenen;<br>
-11°&nbsp;er is een aparte zit- en eetruimte van minimaal 4m2 per gebruiker;<br>
-12°&nbsp;bij elke zit- en eetruimte zijn voldoende gemeenschappelijke toiletten beschikbaar die toegankelijk zijn voor rolstoelgebruikers. In de onmiddellijke buurt van de kinesitherapieruimte is er een aangepast toilet beschikbaar;<br>
-13°&nbsp;er is een ruimte waar geneesmiddelen en dossiers op een veilige en discrete manier bewaard kunnen worden;<br>
-14°&nbsp;in het centrum type 3 is er ten minste één gemeenschappelijke badkamer beschikbaar met een aangepaste bad- of douchegelegenheid en een toilet;<br>
-15°&nbsp;in de gebruikerskamers en in de zit- en eetruimte bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte. Het glasoppervlak van het raam in alle kamers en gemeenschappelijke ruimten begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is een ongehinderd zicht naar buiten mogelijk;<br>
-16°&nbsp;in het centrum type 3 is minimaal aansluiting op tv, radio, wifi en telefoon mogelijk;<br>
-17°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, zijn minstens 1,80 m breed.<br>
-18°&nbsp;de inrichting van het gebouw kan een kleinschalige werking toelaten. Er worden huiselijke en gezellige accenten gelegd;<br>
-19°&nbsp;de gebouwen en de lokalen worden regelmatig onderhouden;<br>
-20°&nbsp;de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;<br>
-21°&nbsp;de infrastructuur van het centrum type 3 laat toe dat de minimale privacy van elke gebruiker gewaarborgd is en dat het altijd mogelijk is om de gepaste zorg te bieden en hulp te verlenen;<br>
-22°&nbsp;de infrastructuur van het centrum type 3 en de omgeving die toegankelijk is voor gebruikers en bezoekers, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter;<br>
-23°&nbsp;geneesmiddelen, producten die bij inname tot gezondheidsrisico's kunnen leiden, en dossiers worden op een veilige en discrete manier bewaard;<br>
-24°&nbsp;er is ten minste een uitgeruste en aparte ruimte voor kinesitherapie of ergotherapie met bijbehorende bergruimte. De ruimte biedt de nodige privacy voor de gebruikers.<br>
-<br>
-De buitenruimte van het gebouw of de gebouwen, vermeld in het eerste lid, voldoet aan al de volgende voorwaarden:<br>
-1°&nbsp;er is een beschutte fietsenstalling voor bezoekers en personeel beschikbaar;<br>
-2°&nbsp;per gebruiker is een oppervlakte van 3 m² beschikbaar als buitenruimte voor gebruikers, bezoekers en personeel.<br>
-<br>
-De circulatieruimte van het gebouw of de gebouwen, vermeld in het eerste lid, voldoet aan al de volgende voorwaarden:<br>
-1°&nbsp;elk centrum type 3 met twee of meer bouwlagen die toegankelijk zijn voor gebruikers, beschikt over ten minste één lift. Het aantal liften wordt afgestemd op het aantal gebruikers en het voorziene gebruik;<br>
-2°&nbsp;in alle ruimten die voor de gebruikers toegankelijk zijn worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet geweerd kunnen worden, worden ze ondervangen conform de bepalingen in de stedenbouwkundige verordening toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
-3°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, zijn minstens 1,80 m breed;<br>
-4°&nbsp;in het kader van valpreventie zijn trappenhallen beveiligd.<br>
-<br>
-De uitrusting en de inrichting van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
-1°&nbsp;het centrum type 3 kan per gebruiker het nodige meubilair ter beschikking stellen opdat elke gebruiker op een comfortabele manier kan eten, rusten en slapen. De inrichting van de kamer biedt de nodige flexibiliteit om het meubilair te plaatsen, op voorwaarde dat de zorg- en dienstverlening en de veiligheid niet in het gedrang komen;<br>
-2°&nbsp;in elke zit- en leefruimte kunnen alle gebruikers van een leefgroep op een comfortabele manier zitten;<br>
-3°&nbsp;alle bedden zijn aangepast aan de specifieke behoeften van de gebruiker;<br>
-4°&nbsp;in de kamer is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en de ondersteuning van de gebruiker, altijd mogelijk;<br>
-5°&nbsp;voor elke gebruiker kan op de kamer een koelkast ter beschikking gesteld worden;<br>
-6°&nbsp;in elke kamer zijn minimaal de voorzieningen aanwezig om tv, radio, draadloos internet en vaste telefonie te gebruiken;<br>
-7°&nbsp;de gebruiker heeft vanuit zijn bed de mogelijkheid om een licht te bedienen;<br>
-8°&nbsp;in iedere kamer is er warm en koud stromend water;<br>
-9°&nbsp;er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
-10°&nbsp;de volgende uitrusting is ter beschikking: bloeddrukmeter met kindermanchettes; reanimatiemateriaal- en medicatie voor kinderen en jongeren, inclusief richtlijnen; verzorgingsmateriaal, tilliften, brancard en rolstoelen; animatiemateriaal, speelgoed en bibliotheek;<br>
-11°&nbsp;afval wordt in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat;<br>
-12°&nbsp;elke gebruiker kan altijd in alle ruimte die voor de gebruikers toegankelijk zijn een aangepast oproepsysteem gebruiken en in elke sanitaire cel is permanent een oproepsysteem aanwezig dat gemakkelijk bereikbaar is voor de gebruikers. De ruimte waaruit de noodoproep komt, is identificeerbaar;<br>
-13°&nbsp;ICT is beschikbaar in het centrum type 3, ter ondersteuning van de zelfredzaamheid en de sociale contacten van de gebruikers, de kwaliteit van zorg(opvolging) en de uitvoering van zorgtaken;<br>
-14°&nbsp;ramen en toegangen kunnen beveiligd worden.<br>
-<br>
-Het gebruikerscomfort van het gebouw of de gebouwen, vermeld in het eerste lid, voldoet aan al de volgende voorwaarden:<br>
-1°&nbsp;om zich te verplaatsen in het gebouw kunnen de gebruikers zich behelpen met leuningen en handgrepen. In gangen worden aan beide kanten leuningen aangebracht;<br>
-2°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar een gebruiker kan gaan zitten;<br>
-3°&nbsp;ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht;<br>
-4°&nbsp;in alle verblijfsruimten begint het glasoppervlak van het raam op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend een ongehinderd zicht naar buiten mogelijk;<br>
-5°&nbsp;in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
-6°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. 's Nachts zijn de verblijfseenheden en gangen zodanig verlicht dat de gebruikers zich veilig kunnen verplaatsen. In de verblijfsruimten wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
-7°&nbsp;er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
-8°&nbsp;de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
-9°&nbsp;in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de gebruikers;<br>
-10°&nbsp;in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimen een temperatuur van maximaal 26°C of in geval de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren.<br>
-11°&nbsp;als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gesteld die voldoende groot is voor alle gebruikers van wie de verblijfsruimten de vereiste temperaturen niet halen;<br>
-12°&nbsp;aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding van gebruikers door direct zonlicht vermeden worden;<br>
-13°&nbsp;in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm.<br>
-<br>
-Een persoon wordt aangewezen als verantwoordelijke voor het beheer en onderhoud van de technische installaties. Die persoon staat in voor de energieboekhouding.<br>
-<br>
-Een sanitaire ruimte, aangepast aan de behoeften van een rolstoelgebruiker als vermeld het eerste lid, 4°, a), voldoet aan de voorwaarden, vermeld in artikel 30, 31 en 31/1 van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid, en aan al de volgende voorwaarden:<br>
-1°&nbsp;er is een vrije draaicirkel met diameter van 1,50 meter in de sanitaire ruimte;<br>
-2°&nbsp;er zijn handgrepen aangebracht aan beide kanten van het toilet;<br>
-3°&nbsp;de wastafel is onderrijdbaar;<br>
-4°&nbsp;de kraan is eenvoudig te bedienen voor mensen met een fysieke beperking;<br>
-5°&nbsp;de spiegel is aangepast of aanpasbaar aan de rolstoelgebruiker.</p>
+<p>In dit artikel wordt verstaan onder verblijfsruimte: de individuele verblijfseenheden en de gemeenschappelijke ruimten die toegankelijk zijn voor de gebruikers.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Alle te bouwen of te verbouwen centra type 3, waarvoor een omgevingsvergunning voor de geplande bouwwerkzaamheden wordt afgeleverd, moeten voldoen aan al de volgende voorwaarden:<br>
+1° de Vlaamse Regering heeft maximaal tien verblijfseenheden ervan erkend, evenredig verdeeld over de erkende centra type 3;<br>
+2° er wordt per gebruiker in een minimale netto-oppervlakte van 30 m² voorzien. Die oppervlakte omvat: de verblijfseenheid van de gebruiker met sanitaire cel, de zit- en eetruimten en de gemeenschappelijke sanitaire ruimte;<br>
+3° de bruto-oppervlakte van het centrum type 3 wordt berekend voor zeven verblijfseenheden. Dat zijn vijf erkende verblijfseenheden, één verblijfseenheid voor crisisopvang en één verblijfseenheid om de opnamewissels op te vangen;<br>
+4° het centrum type 3 is zo ingericht en uitgerust dat het volledig aangepast is aan het aantal gebruikers en hun specifieke noden. Het bevat ten minste de volgende lokalen:<br>
+a) zeven individuele verblijfseenheden, met afzonderlijk rolstoeltoegankelijk sanitair, waaronder minimaal een wastafel met koud en warm water, en een toilet, en het nodige comfort en de nodige inrichting om altijd alle gebruikers kwaliteitsvol en veilig op te vangen en te verzorgen. De individuele verblijfseenheden zijn voorzien van een veiligheidssysteem. Er is minstens één noodoproepsysteem in de kamer en in de sanitaire cel voorhanden. De verblijfseenheden hebben een minimale netto-oppervlakte van 12m², de sanitaire cel niet inbegrepen. Als een ouder of begeleider op de kamer van het kind of de jongere verblijft en slaapt, is een minimale netto-oppervlakte van 16m² vereist, de sanitaire cel niet inbegrepen, zodat de ouder of begeleider comfortabel en, waar nodig, aangepast kan verblijven in het centrum;<br>
+b) een of meer lokalen die bestemd zijn voor de volgende activiteiten:<br>
+1) een ruimte voor de verpleegkundigen en de coördinerende arts, die ook kan fungeren als diagnostisch en therapeutisch onderzoekslokaal;<br>
+2) een gesprekslokaal waar ook opnames kunnen gebeuren;<br>
+3) een ruimte voor administratieve activiteiten en specifieke werkzaamheden door de verpleegkundigen;<br>
+c) een zorgbadkamer met hoog-laagbad en een inrijdouche, een tillift, een verzorgingstafel en toilet;<br>
+d) voldoende sanitaire installaties voor personeel;<br>
+e) een propere en een vuile utility;<br>
+f) een voldoende grote bergruimte;<br>
+g) een af te sluiten ruimte of kast waar geneesmiddelen en dossiers op een veilige en discrete manier bewaard kunnen worden. Er is ook een koelkast ter beschikking om sommige geneesmiddelen koel en veilig te bewaren. Die koelkast is uitsluitend bestemd voor geneesmiddelen en is afsluitbaar of bevindt zich in een afsluitbare ruimte.<br>
+&nbsp;&nbsp; &nbsp;<br>
+&nbsp;De binnenruimtes van het gebouw of de gebouwen, vermeld in het tweede lid, voldoen aan al de volgende voorwaarden:<br>
+&nbsp;1° de lokalen zijn uitgerust voor de hygiënische verzorging van kinderen en jongeren van alle leeftijden. De ouders of begeleiders hebben de mogelijkheid om betrokken te worden bij de verzorging van hun kind of jongere in de kamer waar het wordt verzorgd;<br>
+&nbsp;2° als dat noodzakelijk is voor de doelgroep, bestaat de mogelijkheid om een ouder of begeleider te laten verblijven en slapen in de nabijheid van het kind of de jongere;<br>
+&nbsp;3° het meubilair, de vloer en het speelgoed zijn desinfecteerbaar en af- of uitwasbaar en worden regelmatig gereinigd via een vaste procedure;<br>
+&nbsp;4° de infrastructuur laat toe dat de minimale privacy van elke gebruiker gewaarborgd is en dat het altijd mogelijk is om de noodzakelijke zorg te bieden en hulp te verlenen;<br>
+&nbsp;5° in de gebruikerskamers en in de zit- en eetruimte bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte. Het glasoppervlak van het raam in alle kamers en gemeenschappelijke ruimten begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is een ongehinderd zicht naar buiten mogelijk;<br>
+&nbsp;6° de inrichting van het gebouw kan een kleinschalige werking toelaten. Er worden huiselijke en gezellige accenten gelegd;<br>
+&nbsp;7° de gebouwen en lokalen worden regelmatig onderhouden;<br>
+&nbsp;8° de infrastructuur en de omgeving die toegankelijk is voor gebruikers en bezoekers, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter;<br>
+&nbsp;9° de ramen en toegangen kunnen beveiligd worden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+&nbsp;De buitenruimte van het gebouw of de gebouwen, vermeld in het tweede lid, voldoet aan al de volgende voorwaarden:<br>
+&nbsp;1° er is een beschutte fietsenstalling voor bezoekers en personeel beschikbaar;<br>
+&nbsp;2° per gebruiker is een oppervlakte van 3 m² beschikbaar als buitenruimte voor gebruikers, bezoekers en personeel.<br>
+&nbsp;&nbsp;<br>
+&nbsp;De circulatieruimte van het gebouw of de gebouwen, vermeld in het tweede lid, voldoet aan de volgende voorwaarden:<br>
+&nbsp;1° gebouwen met twee of meer bouwlagen die toegankelijk zijn voor gebruikers, beschikken over ten minste één lift. Het aantal liften wordt afgestemd op het aantal gebruikers en het voorziene gebruik;<br>
+&nbsp;2° in het kader van valpreventie zijn trappenhallen beveiligd.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De gemeenschappelijke &nbsp;sanitaire ruimten en de sanitaire cellen zijn aangepast aan de behoeften van een rolstoelgebruiker en voldoen aan de voorwaarden, vermeld in artikel 30, 31 en 31/1 van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid, en aan al de volgende voorwaarden:<br>
+1° er is een vrije draaicirkel met diameter van 1,50 meter in de sanitaire ruimte;<br>
+2° er zijn handgrepen aangebracht aan beide kanten van het toilet;<br>
+3° de wastafel is onderrijdbaar;<br>
+4° de kraan is eenvoudig te bedienen voor mensen met een fysieke beperking;<br>
+5° de spiegel is aangepast of aanpasbaar aan de rolstoelgebruiker.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De uitrusting en de inrichting van het gebouw of de gebouwen, vermeld in het tweede lid, voldoen aan al de volgende voorwaarden:<br>
+1° het centrum type 3 kan per gebruiker het nodige meubilair ter beschikking stellen opdat elke gebruiker op een comfortabele manier kan eten, rusten en slapen. De inrichting van de kamer biedt de nodige flexibiliteit om het meubilair te plaatsen, op voorwaarde dat de zorg- en dienstverlening en de veiligheid niet in het gedrang komen;<br>
+2° in elke zit- en leefruimte kunnen alle gebruikers van een leefgroep op een comfortabele manier zitten;<br>
+3° alle bedden zijn aangepast aan de specifieke behoeften van de gebruiker;<br>
+4° in de gebruikerskamers is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en de ondersteuning van de gebruiker, altijd mogelijk;<br>
+5° in de gebruikerskamers en in de zit- en eetruimte zijn minimaal de voorzieningen aanwezig om tv, radio en draadloos internet te gebruiken;<br>
+6° in iedere verblijfseenheid is er warm en koud stromend water;<br>
+7° er wordt in medisch materiaal voorzien in het kader van mogelijke urgenties. Medicatie en materiaal zijn aanwezig volgens het noodprotocol van de individuele patiënt. Er is voorzien in animatiemateriaal, speelgoed en bibliotheek;<br>
+8° afval wordt in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat;<br>
+9° elke gebruiker kan altijd in alle ruimten die voor de gebruikers toegankelijk zijn, een aangepast oproepsysteem gebruiken en in elke sanitaire cel is permanent een oproepsysteem aanwezig dat gemakkelijk bereikbaar is voor de gebruikers. De ruimte waaruit de noodoproep komt, is identificeerbaar;<br>
+10° ICT is beschikbaar in het centrum type 3, ter ondersteuning van de zelfredzaamheid en de sociale contacten van de gebruikers, de kwaliteit van de zorg en zorgopvolging en de uitvoering van de zorgtaken.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het gebruikerscomfort van het gebouw of de gebouwen, vermeld in het tweede lid, voldoet aan al de volgende voorwaarden:<br>
+1° ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht;<br>
+2° in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
+3° de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. ’s Nachts zijn de verblijfseenheden en de gangen zodanig verlicht dat de gebruikers zich veilig kunnen verplaatsen. In de verblijfsruimten wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+4° er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
+5° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
+6° in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de gebruikers;<br>
+7° in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22 °C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimten een temperatuur te bewaren van maximaal 26 °C of, als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur;<br>
+8° als de waarschuwingsfase van het Vlaamse Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gesteld die voldoende groot is voor alle gebruikers van wie de verblijfsruimten de vereiste temperaturen niet halen;&nbsp;<br>
+9° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding van gebruikers door direct zonlicht vermeden worden;<br>
+10° in verblijfsruimten bedraagt de CO2-concentratie maximaal 1200 ppm.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Een persoon wordt aangewezen als verantwoordelijke voor het beheer en onderhoud van de technische installaties. Die persoon staat in voor de energieboekhouding.</p>
 
 ### ART 149.
 
