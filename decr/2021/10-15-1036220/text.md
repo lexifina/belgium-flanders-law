@@ -24,7 +24,7 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART 3.
 
-Elke buitenlandse onderdaan die op het grondgebied van het Vlaamse Gewest een zelfstandige beroepsactiviteit uitoefent hetzij als natuurlijke persoon, hetzij binnen een rechtspersoon of binnen iedere andere organisatie zonder rechtspersoonlijkheid moet in het bezit zijn van een beroepskaart.
+Elke buitenlandse onderdaan die op het grondgebied van het Vlaamse Gewest een zelfstandige beroepsactiviteit uitoefent hetzij als natuurlijke persoon, hetzij binnen een rechtspersoon of binnen iedere andere organisatie zonder rechtspersoonlijkheid moet in het bezit zijn van een beroepskaart die wordt afgeleverd door de personeelsleden die daartoe zijn aangewezen bij het departement.
 
 ### ART 4.
 
