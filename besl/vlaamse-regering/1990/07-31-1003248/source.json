@@ -2,16 +2,16 @@
   "codex_id": 1003248,
   "title": "Besluit van de Vlaamse Regering van 1990-07-31 houdende vaststelling van de voorwaarden en de modaliteiten onder dewelke de leerlingen van het deeltijds beroepssecundair onderwijs en de voor de vervulling van de leerplicht erkende vorming worden begeleid door de psycho-medisch-sociale centra",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003248/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "0814760c6d84c1f41cde01d960f9b58fde41f7f4e2b18e06c2ce347cec14a86a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003248/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "f530b1c3dce39abe6bf480724dbb15beaffb46c39d87cd659b3143315e6fadd4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003248&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-10-01",
   "made": "1990-07-31",
   "gazette": "1990-12-13",
   "numac": 1990030226,
   "document_start": "1990-09-01",
   "document_end": "2025-09-30",
-  "in_force": "2006-06-01",
+  "in_force": "2025-10-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
