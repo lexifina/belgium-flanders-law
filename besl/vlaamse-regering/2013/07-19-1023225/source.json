@@ -2,16 +2,16 @@
   "codex_id": 1023225,
   "title": "Besluit van de Vlaamse Regering van 2013-07-19 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023225/VolledigDocument?datum=2025-02-01",
-  "source_sha256": "b5bf3cb3dd5d963e7033a25436479c6a134dc7c4fcaf59680464ee4e349fef90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023225/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "7b6cb521b09875302ea2e231a641e4f5d76879bc774cc4a5e73e09c3dce17e0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023225&param=informatie",
-  "as_of": "2025-02-01",
+  "as_of": "2025-10-01",
   "made": "2013-07-19",
   "gazette": "2013-09-06",
   "numac": 2013035726,
   "document_start": "2013-10-01",
   "document_end": null,
-  "in_force": "2025-02-01",
+  "in_force": "2025-10-01",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2025-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

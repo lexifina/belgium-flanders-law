@@ -54,7 +54,7 @@ Om voor steun in aanmerking te komen moet de onderneming over een exploitatiezet
 
 <p>Er wordt geen steun verleend aan ondernemingen die niet voldoen aan de regelgeving die van toepassing is in het Vlaamse Gewest.<br>
 <br>
-De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene vrijstellingsverordening, en geen procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 In afwijking van het tweede lid geldt de voorwaarde over ondernemingen in moeilijkheden niet voor een starter als vermeld in artikel 22, 2, van de algemene groepsvrijstellingsverordening. Het maximale steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening, wordt alleen toegepast als dat lager is dan de maximale steunintensiteit, vermeld in dit besluit en de uitvoeringsbesluiten ervan.</p>
 
@@ -381,7 +381,7 @@ b) het Agentschap Innoveren en Ondernemen de mogelijkheid heeft gehad om vast te
 
 ### ART. 41/1.
 
-Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd. Als er een procedure tot terugvordering loopt, wordt de uitbetaling van de subsidie opgeschort tot de onderneming het bewijs levert dat het terug te vorderen bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
+Als de onderneming een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 42.
 
