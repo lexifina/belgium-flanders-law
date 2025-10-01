@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041234,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het besluit van de Vlaamse regering van 19 juli 2002 houdende vaststelling van de kiesprocedure voor de Raad van het Gemeenschapsonderwijs, wat betreft de digitalisering van de procedure",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041234/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "05aa8450f10a878227deab26c4f43bbb99891290b329bb8e42e976c1f34bc38c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041234&param=informatie",
+  "as_of": "2025-10-01",
+  "made": "2025-09-05",
+  "gazette": "2025-09-24",
+  "numac": 2025006765,
+  "document_start": "2025-10-01",
+  "document_end": null,
+  "in_force": "2025-10-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2025-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
