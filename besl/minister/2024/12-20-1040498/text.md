@@ -549,7 +549,7 @@ Er worden geen vangstbeperkingen voor schelvisvangst in het ICES-gebied VIIa ing
 <br>
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt. De bevoegde entiteit zal desgevallend hierover te gepasten tijde de nodige communicatie voeren.<br>
 <br>
-§13. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.
+§13. Het is in de ICES-gebieden IVb-c en VIId, voor een vissersvaartuig verboden bij de horsmakreelvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 20 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in die ICES-gebieden.
 
 ## Hoofdstuk 3. Inruilen van dagen
 
