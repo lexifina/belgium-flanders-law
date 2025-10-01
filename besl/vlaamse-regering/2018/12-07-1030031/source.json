@@ -2,16 +2,16 @@
   "codex_id": 1030031,
   "title": "Besluit van de Vlaamse Regering van 2018-12-07 houdende uitvoering van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030031/VolledigDocument?datum=2024-05-01",
-  "source_sha256": "bcf20c52f716ba3428207f05f9c3752b08ed4927b9cad79a6193508fdfaf6653",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030031/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "c348f1073ec4ff023df0f66abfb12d0fe60637c910d68e4d33ac83fe1c2f16ad",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030031&param=informatie",
-  "as_of": "2024-05-01",
+  "as_of": "2025-10-01",
   "made": "2018-12-07",
   "gazette": "2018-12-21",
   "numac": 2018015432,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2024-05-01",
+  "in_force": "2025-10-01",
   "article_versions": 89,
-  "record_form": "consolidated version as in force on 2024-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

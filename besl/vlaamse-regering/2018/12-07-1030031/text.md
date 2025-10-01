@@ -57,7 +57,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-§ 1. Een arbeidsvergunning en een arbeidskaart worden uitgereikt voor de tewerkstelling van de onderdaan van een derde land die aan een van de volgende voorwaarden voldoet:<br>
+§1. Een arbeidsvergunning en een arbeidskaart worden uitgereikt voor de tewerkstelling van de onderdaan van een derde land die aan een van de volgende voorwaarden voldoet:<br>
 1° hij wordt toegelaten tot arbeid voor een aaneengesloten periode van maximaal negentig dagen, of voor een periode van maximaal negentig dagen binnen een periode van honderdtachtig dagen, berekend conform artikel 6, tweede en derde lid, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 2° hij wordt toegelaten tot arbeid voor een bepaalde duur als grensarbeider;<br>
 3° hij wordt toegelaten als au pair op grond van hoofdstuk VI, afdeling 2, van het koninklijk besluit van 9 juni 1999 houdende uitvoering van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers.<br>
@@ -66,13 +66,19 @@ In het eerste lid, 2°, wordt verstaan onder grensarbeider: de werknemer die op 
 <br>
 De bepalingen van hoofdstuk 10 zijn van toepassing op de aanvragen van toelating tot arbeid als vermeld in het eerste lid.<br>
 <br>
-§ 2. De geldigheidsduur van de arbeidsvergunning en de arbeidskaart stemmen overeen met de geldigheidsduur van de toelating tot arbeid.<br>
+§2. De geldigheidsduur van de arbeidsvergunning en de arbeidskaart stemmen overeen met de geldigheidsduur van de toelating tot arbeid.<br>
 <br>
 De arbeidsvergunning en de arbeidskaart verliezen hun geldigheid als de toelating tot arbeid niet langer geldig is, of ingetrokken is.<br>
 <br>
-§ 3. In toepassing van de eerste paragraaf, 1°, kan voor aanvragen op basis van artikel 18 een gemeenschappelijke arbeidsvergunning uitgereikt worden voor een contingent van minstens vijftien werknemers.<br>
+§3. In toepassing van de eerste paragraaf, 1°, kan voor aanvragen op basis van artikel 18 een gemeenschappelijke arbeidsvergunning uitgereikt worden voor een contingent van minstens vijftien werknemers.<br>
 <br>
-De bevoegde overheid wint, bij de beoordeling van de aanvraag vermeld in het eerste lid, het advies in van het bevoegde paritaire comité.
+Het personeelslid van de bevoegde overheid dat conform paragraaf 4 is aangewezen wint, bij de beoordeling van de aanvraag vermeld in het eerste lid, het advies in van het bevoegde paritaire comité.<br>
+<br>
+§4. Het hoofd van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie van het Vlaams Ministerie van Werk, Economie, Wetenschap, Innovatie, Land-bouw en Sociale Economie, vermeld in artikel 29/1, eerste lid van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse ad-ministratie wijst bij de bevoegde overheid de personeelsleden aan die op basis van de wet van 30 april 1999 en conform dit besluit bevoegd zijn om te beslissen over al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de toelatingen tot arbeid;<br>
+2°&nbsp;&nbsp; &nbsp;de hernieuwing van de toelatingen tot arbeid;<br>
+3°&nbsp;&nbsp; &nbsp;de weigering en intrekking van de toelatingen tot arbeid.<br>
+&nbsp;
 
 ### ART 3.
 
@@ -142,11 +148,11 @@ De bevoegde overheid brengt de werkgever op de hoogte als die een nieuwe toelati
 <br>
 §2. Als tijdens de eerste twaalf maanden van de toelating tot arbeid die is afgeleverd in het kader van de Europese blauwe kaart, een nieuwe arbeidsovereenkomst wordt gesloten, brengt de nieuwe werkgever de bevoegde overheid uiterlijk binnen 15 kalenderdagen schriftelijk of op elektronische wijze op de hoogte en bezorgt die een kopie van de arbeidsovereenkomst, vermeld in artikel 46, eerste lid, 1°.&nbsp;<br>
 <br>
-De bevoegde overheid kan zich verzetten tegen de wijziging overeenkomstig artikel 67, §1, uiterlijk binnen dertig dagen na de ontvangst van de kennisgeving voor zover de voorwaarden in artikel 21 niet zijn vervuld.<br>
+De personeelsleden van de bevoegde overheid die conform artikel 2, §4, zijn aangewezen, kunnen zich verzetten tegen de wijziging overeenkomstig artikel 67, §1, uiterlijk binnen dertig dagen na de ontvangst van de kennisgeving voor zover de voorwaarden in artikel 21 niet zijn vervuld.<br>
 <br>
 §3. Als tijdens de geldigheid van een toelating tot arbeid afgeleverd in het kader van de seizoenarbeidersvergunning , een nieuwe arbeidsovereenkomst voor seizoenarbeid wordt gesloten, brengt de nieuwe werkgever de bevoegde overheid uiterlijk binnen 15 kalenderdagen onmiddellijk schriftelijk of op elektronische wijze op de hoogte, en bezorgt die een kopie van de arbeidsovereenkomst, gesloten overeenkomstig afdeling 2 van hoofdstuk 8.<br>
 <br>
-De bevoegde overheid kan zich verzetten tegen de wijziging overeenkomstig artikel 67, §1, uiterlijk binnen dertig dagen na de ontvangst van de kennisgeving.<br>
+De personeelsleden van de bevoegde overheid die conform artikel 2, §4, zijn aangewezen, kunnen zich verzetten tegen de wijziging overeenkomstig artikel 67, §1, uiterlijk binnen dertig dagen na de ontvangst van de kennisgeving.<br>
 <br>
 In het eerste lid wordt onder seizoenarbeidersvergunning het volgende verstaan: de vergunning als bedoeld in artikel 12, 3° van het samenwerkingsakkoord van 6 december 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende uitvoering van het samenwerkingsakkoord van 2 februari 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten.
 
@@ -206,7 +212,7 @@ De weigeringsgrond, vermeld in het eerste lid, 4°, is alleen van toepassing op 
 <br>
 De weigeringsgronden, vermeld in het eerste lid, 7° tot en met 9°, zijn niet van toepassing op de aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op de aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.&nbsp;<br>
 &nbsp;<br>
-Bij de beoordeling van de toelating tot arbeid houdt de bevoegde overheid rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
+Bij de beoordeling van de toelating tot arbeid houdt het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
 
 ### ART 13.
 
@@ -231,13 +237,13 @@ De intrekkingsgrond, vermeld in het eerste lid, 2°, is niet van toepassing op d
 <br>
 De intrekkingsgrond, vermeld in het eerste lid, 4°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.<br>
 <br>
-&nbsp;Bij de beoordeling van de toelating houdt de bevoegde overheid rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
+&nbsp;Bij de beoordeling van de toelating houdt het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
 
 ### ART 14.
 
 § 1. De toelating tot arbeid voor een bepaalde duur verliest haar geldigheid als de houder ervan niet langer beschikt over een wettig verblijf in België.<br>
 <br>
-De van rechtswege toelating tot arbeid in het kader van kortetermijnmobiliteit, vermeld in artikel 16, § 1, eerste lid, 5° en 6°, vervalt als de bevoegde overheid de aanvraag van langetermijnmobiliteit die wordt ingediend voor de persoon, vermeld in artikel 17, eerste lid, 6° of 7°, afwijst.<br>
+De van rechtswege toelating tot arbeid in het kader van kortetermijnmobiliteit, vermeld in artikel 16, § 1, eerste lid, 5° en 6°, vervalt als het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen, de aanvraag van langetermijnmobiliteit die wordt ingediend voor de persoon, vermeld in artikel 17, eerste lid, 6° of 7°, afwijst.<br>
 <br>
 § 2. De toelating tot arbeid voor onbepaalde duur verliest haar geldigheid als de onderdaan van een derde land gedurende een periode van meer dan een jaar uit het land afwezig blijft, behalve als die afwezigheid niet het verlies van zijn recht of machtiging tot verblijf tot gevolg had conform artikel 39, § 3 of § 5 van het koninklijk besluit van 8 oktober 1981 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.<br>
 <br>
@@ -745,11 +751,11 @@ De onderdaan van een derde land vult de aanvraag naar behoren in en ondertekent 
 
 ### ART 66.
 
-De bevoegde overheid beslist binnen tien dagen vanaf de ontvangst van de aanvraag, vermeld in artikel 41 of 65, of de aanvraag volledig is, en brengt de aanvrager op de hoogte van die beslissing.<br>
+De bevoegde overheid controleert binnen tien dagen vanaf de dag waarop ze de aanvraag, vermeld in artikel 41 of 65, heeft ontvangen, of de aanvraag volledig is, en brengt de aanvrager op de hoogte..<br>
 <br>
 Een onvolledige aanvraag kan aangevuld worden conform artikel 19, § 2 van het samenwerkingsakkoord van 2 februari 2018.<br>
 <br>
-De aanvrager, vermeld in artikel 65, wordt met een aangetekend schrijven op de hoogte gebracht van de beslissing van onontvankelijkheid.
+Met toepassing van artikel 19, §3 van het samenwerkingsakkoord van 2 februari 2018, verklaart het personeelslid van de bevoegde overheid dat conform artikel 2, §4, van dit besluit is aangewezen, de aanvraag onontvankelijk. De werkgever of de werknemer, vermeld in artikel 65 van dit besluit, wordt met een aangetekende brief op de hoogte gebracht van de beslissing van onontvankelijkheid.
 
 ### ART 67.
 
@@ -794,20 +800,20 @@ De werkgever voegt de documenten, vermeld in artikel 44, en, al naargelang het g
 
 ### ART 72.
 
-§ 1. De bevoegde overheid beslist binnen tien dagen vanaf de dag van de ontvangst van de aanvraag, vermeld in artikel 69, of de aanvraag volledig is, en brengt de aanvrager op de hoogte van haar beslissing.<br>
+§1. De bevoegde overheid controleert binnen tien dagen vanaf de dag waarop ze de aanvraag, vermeld in artikel 69, heeft ontvangen, of de aanvraag volledig is, en brengt de aanvrager op de hoogte.<br>
 <br>
-§ 2. Als de aanvrager niet alle documenten voorlegt die vereist zijn om de aanvraag te staven, of als ze onvolledig zijn, deelt de bevoegde overheid hem schriftelijk mee welke aanvullende inlichtingen of documenten hij moet voorleggen. Ze doet dat binnen vijftien dagen na de betekening van de brief waarin die documenten gevraagd worden.<br>
+§2. Als de aanvrager niet alle documenten voorlegt die vereist zijn om de aanvraag te staven, of als ze onvolledig zijn, deelt de bevoegde overheid hem schriftelijk mee welke aanvullende inlichtingen of documenten hij moet voorleggen. Ze doet dat binnen vijftien dagen na de betekening van de brief waarin die documenten gevraagd worden.<br>
 <br>
-§ 3. Als de aanvullende documenten of inlichtingen niet binnen de termijn, vermeld in paragraaf 2, geleverd werden, verklaart de bevoegde overheid de aanvraag onontvankelijk.<br>
+§3. Als de aanvullende documenten of inlichtingen niet binnen de termijn, vermeld in paragraaf 2, geleverd werden, verklaart het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen, de aanvraag onontvankelijk.<br>
 De werkgever wordt met een aangetekende brief op de hoogte gebracht van de beslissing van onontvankelijkheid.
 
 ### ART 73.
 
-§1. De bevoegde overheid beslist over de aanvraag van een toelating tot arbeid uiterlijk honderdtwintig dagen nadat ze de aanvrager op de hoogte heeft gebracht dat de aanvraag volledig is.<br>
-&nbsp;&nbsp; &nbsp;<br>
-In uitzonderlijke omstandigheden die verbonden zijn aan de complexiteit van de aanvraag, kan de bevoegde overheid de termijn, vermeld in het eerste lid, verlengen. De bevoegde overheid brengt de werkgever daarvan op de hoogte.<br>
-&nbsp;&nbsp; &nbsp;<br>
-Als de bevoegde overheid na het verstrijken van de termijnen, vermeld in het eerste en tweede lid, geen beslissing over de toelating tot arbeid neemt, wordt de aanvraag van toelating tot arbeid geacht gunstig te zijn beoordeeld.<br>
+§1. Het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen, beslist over de aanvraag van een toelating tot arbeid uiterlijk honderdtwintig dagen nadat de bevoegde overheid de aanvrager op de hoogte heeft gebracht dat de aanvraag volledig is.<br>
+<br>
+In uitzonderlijke omstandigheden die verbonden zijn aan de complexiteit van de aanvraag, kan de bevoegde overheid de termijn, vermeld in het eerste lid, verlengen. De bevoegde overheid brengt de werkgever op de hoogte van de beslissing tot verlenging van de termijn, vermeld in het eerste lid.<br>
+<br>
+Als het personeelslid van de bevoegde overheid dat overeenkomstig artikel 2, §4, is aangewezen nadat de termijnen, vermeld in het eerste en tweede lid, zijn verstreken, geen beslissing over de toelating tot arbeid neemt, wordt de aanvraag van toelating tot arbeid geacht gunstig te zijn beoordeeld.<br>
 <br>
 §2. Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft, wordt de beslissing over de aanvraag van een toelating tot arbeid genomen uiterlijk negentig dagen na de kennisgeving van het feit dat de aanvraag volledig is.<br>
 <br>
@@ -817,7 +823,7 @@ Als de aanvraag een toelating tot arbeid als seizoenarbeider betreft, wordt de b
 
 ### ART 74.
 
-§ 1. De bevoegde overheid betekent haar beslissing om de toelating tot arbeid toe te kennen, te weigeren of in te trekken met een aangetekend schrijven aan de aanvrager, &nbsp;en brengt de werknemer elektronisch op de hoogte van deze beslissing.<br>
+§ 1. De bevoegde overheid betekent de beslissing van het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen, om de toelating tot arbeid toe te kennen, te weigeren of in te trekken, met een aangetekende brief aan de aanvrager, en brengt de werknemer elektronisch op de hoogte van die beslissing.<br>
 <br>
 De beslissing vermeldt de mogelijkheid tot beroep, vermeld in artikel 9 van de wet van 30 april 1999, de bevoegde instanties die er kennis van nemen, alsook de te eerbiedigen vormvereisten en termijnen.<br>
 <br>
