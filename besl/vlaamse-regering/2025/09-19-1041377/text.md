@@ -174,6 +174,10 @@ In artikel 3, §3, eerste lid, van hetzelfde besluit worden de woorden “op bas
 
 ## Hoofdstuk 12. Wijziging van het besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
+### ART 23.
+
+In artikel 6ter, eerste lid, 4°, van het besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 2 oktober 2009 en hersteld bij het besluit van de Vlaamse Regering van 15 september 2023, wordt het bedrag “76,78 euro” vervangen door het bedrag “76,68 euro”.
+
 ## Hoofdstuk 13. Wijziging van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
 
 ### ART 24.

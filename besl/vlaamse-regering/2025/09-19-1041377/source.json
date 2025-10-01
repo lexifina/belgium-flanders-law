@@ -2,16 +2,16 @@
   "codex_id": 1041377,
   "title": "Besluit van de Vlaamse Regering van 2025-09-19 tot wijziging van diverse besluiten van de Vlaamse Regering, wat betreft personeel in het basisonderwijs, het deeltijds kunstonderwijs, het secundair onderwijs, het volwassenenonderwijs, de onderwijsinternaten, de leersteuncentra, de centra voor leerlingenbegeleiding, het hoger onderwijs en de inspectie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041377/VolledigDocument?datum=2025-09-01",
-  "source_sha256": "c1b343563dd7de9329711455cfe0b29738d31157dc9f5f90e1b0332e50882ff8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041377/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "cbe4d428ee847f6ae34dfbcc7f8664e7bf479813e8a670b2c54b79a8768a01f4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041377&param=informatie",
-  "as_of": "2025-09-01",
+  "as_of": "2025-10-01",
   "made": "2025-09-19",
   "gazette": "2025-10-24",
   "numac": 2025007873,
   "document_start": "2025-09-01",
   "document_end": null,
-  "in_force": "2025-09-01",
-  "article_versions": 41,
-  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-10-01",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
