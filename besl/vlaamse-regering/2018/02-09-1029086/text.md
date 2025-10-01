@@ -48,6 +48,12 @@ a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.
 
+## HOOFDSTUK 2/1. Gewestelijke personeelsleden voor de beboeting
+
+### ART 2/1.
+
+De leidend ambtenaar van het departement wijst de personeelsleden van het departement aan die optreden als gewestelijke entiteit, als vermeld in artikel 6.1.1, 2° van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.
+
 ## HOOFDSTUK 3. Gewestelijke personeelsleden inzake herstel en invordering
 
 ### ART 3.
