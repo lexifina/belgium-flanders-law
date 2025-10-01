@@ -19,7 +19,11 @@ In dit besluit wordt verstaan onder :<br>
 6° de-minimisverordening: de de-minimisverordening, vermeld in artikel 3, 9° van het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
 7° DAEB de-minimisverordening: de verordening (EU) 2023/2832 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen, en de latere wijzigingen ervan;<br>
 8° DAEB besluit : het besluit van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen (Publicatieblad van 11 januari 2011, L 7/3), en de latere wijzigingen ervan;<br>
-9° onderneming : iedere entiteit, ongeacht haar rechtsvorm, die een economische activiteit uitoefent. Vennootschappen met rechtspersoonlijkheid van privaat recht, verenigingen die een economische activiteit uitoefenen, en buitenlandse ondernemingen met een gelijkaardig statuut, die beschikken over een exploitatiezetel in het Vlaamse Gewest worden als zodanig beschouwd. De onderneming dient, met uitzondering van de representatieve vakbonden, rechtspersoonlijkheid te bezitten naar publiek of privaat recht;<br>
+9° onderneming: iedere entiteit, ongeacht haar rechtsvorm, die een economische activiteit uitoefent, namelijk:<br>
+a)&nbsp;&nbsp; &nbsp;natuurlijke personen die zelfstandig een beroepsactiviteit uitoefenen;<br>
+b)&nbsp;&nbsp; &nbsp;vennootschappen van privaat recht;<br>
+c)&nbsp;&nbsp; &nbsp;verenigingen die een economische activiteit uitoefenen;<br>
+d)&nbsp;&nbsp; &nbsp;buitenlandse ondernemingen met een gelijkaardig statuut, die beschikken over een exploitatiezetel in het Vlaamse Gewest;<br>
 10° staatssteun : elke maatregel die aan alle criteria, vermeld in artikel 107, lid 1, van het Verdrag betreffende de werking van de Europese Unie, voldoet;<br>
 11° steun : elke maatregel waarbij subsidies worden toegekend aan entiteiten die niet als onderneming beschouwd moeten worden;<br>
 12° monitoringcomité: het monitoringcomité, vermeld in titel IV, hoofdstuk 1, van de gemeenschappelijke structuurfondsenverordening;<br>
@@ -91,7 +95,7 @@ De staatssteun wordt verleend binnen de maximale grenzen van de algemene groepsv
 
 ### ART. 13.
 
-De onderneming is op de indieningsdatum van de steunaanvraag geen onderneming in moeilijkheden als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en heeft geen procedure op basis van Europees recht lopen waarbij een toegekende steun wordt teruggevorderd, als vermeld in artikel 1, lid 4, van voormelde verordening. &nbsp;<br>
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.&nbsp;&nbsp;<br>
 <br>
 Er wordt geen steun toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen, vermeld in artikel 1, lid 2, van voormelde verordening.&nbsp;<br>
 <br>
@@ -129,7 +133,9 @@ De beheerautoriteit kan op voorwaarde van aanmelding bij de Europese Commissie s
 
 ### ART. 18.
 
-De beheerautoriteit bepaalt de modaliteiten met betrekking tot de uitbetaling en terugvordering, vermeld in titel VI&nbsp;van de gemeenschappelijke structuurfondsenverordening.
+De beheerautoriteit bepaalt de modaliteiten met betrekking tot de uitbetaling en terugvordering, vermeld in titel VI&nbsp;van de gemeenschappelijke structuurfondsenverordening.<br>
+<br>
+Als de onderneming een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 19.
 
