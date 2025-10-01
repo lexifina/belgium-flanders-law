@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042383,
+  "title": "Ministerieel besluit van 2026-09-24 tot wijziging van het ministerieel besluit van 7 juni 2024 tot vaststelling van de capaciteit van de gemeenschapsinstellingen en het Vlaams detentiecentrum, wat betreft de verhoging van de capaciteit in de gemeenschapsinstelling De Grubbe",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042383/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "fbc7eb68fc9ce56dfe24a78009d479ec315baefc261fc4bf6e71a51da97c8a9e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042383&param=informatie",
+  "as_of": "2025-10-01",
+  "made": "2026-09-24",
+  "gazette": "2026-10-06",
+  "numac": 2026007125,
+  "document_start": "2025-10-01",
+  "document_end": null,
+  "in_force": "2025-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
