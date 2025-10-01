@@ -1707,7 +1707,7 @@ Tegen de beslissing waarbij het bevoegde bestuursorgaan met toepassing van artik
 
 De bestuurlijke transactiebevoegdheid is een afhandelingsbevoegdheid voor een of meer inbreuken waarbij het bevoegde bestuursorgaan de overtreder voorstelt een bepaalde geldsom te betalen.<br>
 <br>
-De bestuurlijke geldboete is een afhandelingsbevoegdheid voor een of meer inbreuken waarbij het bevoegde bestuursorgaan de overtreder de onvoorwaardelijke verplichting oplegt een geldsom te betalen die gericht is op bestraffing.
+De bestuurlijke geldboete is een afhandelingsbevoegdheid voor een of meer inbreuken waarbij de personeelsleden die daartoe zijn aangewezen bij het bevoegde bestuursorgaan, de overtreder de onvoorwaardelijke verplichting opleggen om een geldsom te betalen die gericht is op bestraffing.
 
 ### ART 136.
 
@@ -1781,12 +1781,12 @@ De bevoegdheid tot het opleggen van een exclusieve bestuurlijke geldboete verval
 
 ### ART 144.
 
-§ 1. Als het bevoegde bestuursorgaan beslist een beboetingsprocedure op te starten, brengt het de vermoedelijke overtreder daarvan op de hoogte met een kennisgeving binnen een termijn van zestig dagen die aanvangt na, al naargelang het geval:<br>
+§ 1. Als het bevoegde personeelslid van het bevoegde bestuursorgaan beslist een beboetingsprocedure op te starten, brengt het de vermoedelijke overtreder daarvan op de hoogte met een kennisgeving binnen een termijn van zestig dagen die aanvangt na, al naargelang het geval:<br>
 1° het verstrijken van de transactietermijn;<br>
 2° de kennisgeving van het proces-verbaal tot vaststelling van de inbreuk.<br>
 <br>
 § 2. In die kennisgeving wordt aan de betrokkene het voornemen meegedeeld een bestuurlijke geldboete op te leggen. Hij wordt er uitgenodigd om ter zake schriftelijk zijn verweer mee te delen binnen een termijn van dertig dagen na de kennisgeving. Hij kan er ook toe worden uitgenodigd om binnen dezelfde termijn stukken mee te delen die zijn financiële draagkracht toelichten. Hij wordt er daarnaast op gewezen:<br>
-1° dat hij de gegevens waarop het voornemen tot het opleggen van een bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen. Als blijkt dat de verdediging van de betrokkene dat redelijkerwijs vergt, draagt het bevoegde bestuursorgaan er zo veel mogelijk zorg voor dat die gegevens hem worden meegedeeld in een taal die voor hem begrijpelijk is;<br>
+1° dat hij de gegevens waarop het voornemen tot het opleggen van een bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen. Als blijkt dat de verdediging van de betrokkene dat redelijkerwijs vergt, draagt het bevoegde personeelslid van het bevoegde bestuursorgaan er zo veel mogelijk zorg voor dat die gegevens hem worden meegedeeld in een taal die voor hem begrijpelijk is;<br>
 2° dat hij kan worden gehoord. Het verzoek om te worden gehoord, moet worden ingediend binnen dertig dagen na de kennisgeving;<br>
 3° dat hij niet verplicht is om, voor het opleggen van de boete, inlichtingen over de inbreuk te verstrekken.
 
@@ -1796,7 +1796,7 @@ Als de vermoedelijke overtreder wordt gehoord, is bijstand door een tolk toegest
 
 ### ART 146.
 
-Het bevoegde bestuursorgaan kan de gezinsinspecteurs om aanvullende inlichtingen verzoeken.
+Het bevoegde personeelslid van het bevoegde bestuursorgaan kan de gezinsinspecteurs om aanvullende inlichtingen verzoeken.
 
 ## Onderafdeling 3. De beslissing
 
@@ -1806,7 +1806,7 @@ Het onderzoek van het dossier kan aanleiding geven tot het opleggen van een excl
 
 ### ART 148.
 
-Als de inbreuk niet aan de overtreder kan worden verweten, legt het bestuursorgaan geen exclusieve bestuurlijke geldboete op.
+Als de inbreuk niet aan de overtreder kan worden verweten, legt het bevoegde personeelslid van het bevoegde bestuursorgaan geen exclusieve bestuurlijke geldboete op.
 
 ### ART 149.
 
@@ -1857,16 +1857,16 @@ Samen met het proces-verbaal bezorgt de gezinsinspecteur het Openbaar Ministerie
 <br>
 Een beslissing om de inbreuk strafrechtelijk te behandelen, sluit het voorstellen van een bestuurlijke transactie en het opleggen van een alternatieve bestuurlijke geldboete uit. Een beslissing om de inbreuk niet strafrechtelijk te behandelen en om de sorteertermijn stilzwijgend te laten verstrijken, houdt het verval van de strafvordering in.<br>
 <br>
-Als het Openbaar Ministerie tijdig beslist niet strafrechtelijk te behandelen of als het de sorteertermijn stilzwijgend laat voorbijgaan, kan het bevoegde bestuursorgaan een voorstel doen om een bestuurlijke transactie te betalen of kan het de procedure starten om een alternatieve bestuurlijke geldboete op te leggen.
+Als het Openbaar Ministerie tijdig beslist niet strafrechtelijk te behandelen of als het de sorteertermijn stilzwijgend laat voorbijgaan, kan het bevoegde bestuursorgaan een voorstel doen om een bestuurlijke transactie te betalen of kan het bevoegde personeelslid van het bevoegde bestuursorgaan de procedure starten om een alternatieve bestuurlijke geldboete op te leggen.
 
 ### ART 156.
 
-§ 1. Als het bevoegde bestuursorgaan beslist een beboetingsprocedure op te starten, brengt het de vermoedelijke overtreder daarvan op de hoogte met een kennisgeving binnen een termijn van zestig dagen na, al naargelang het geval:<br>
+§ 1. Als het bevoegde personeelslid van het bevoegde bestuursorgaan beslist een beboetingsprocedure op te starten, brengt het de vermoedelijke overtreder daarvan op de hoogte met een kennisgeving binnen een termijn van zestig dagen na, al naargelang het geval:<br>
 1° het verstrijken van de transactietermijn;<br>
 2° de kennisgeving door het Openbaar Ministerie van een tijdige sorteerbeslissing om de inbreuk niet strafrechtelijk te behandelen dan wel het stilzwijgend verstrijken van de sorteertermijn waarover het Openbaar Ministerie beschikt.<br>
 <br>
 § 2. In de kennisgeving wordt aan de betrokkene het voornemen meegedeeld een alternatieve bestuurlijke geldboete op te leggen. Hij wordt er uitgenodigd om ter zake schriftelijk zijn verweer mee te delen binnen een termijn van dertig dagen na de kennisgeving. Hij kan er ook toe worden uitgenodigd om binnen dezelfde termijn stukken mee te delen die zijn financiële draagkracht toelichten. Hij wordt er daarnaast op gewezen:<br>
-1° dat hij de gegevens waarop het voornemen tot het opleggen van een bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen. Als blijkt dat de verdediging van de betrokkene dat redelijkerwijs vergt, draagt het bevoegde bestuursorgaan er zo veel mogelijk zorg voor dat die gegevens hem worden meegedeeld in een taal die voor hem begrijpelijk is;<br>
+1° dat hij de gegevens waarop het voornemen tot het opleggen van een bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen. Als blijkt dat de verdediging van de betrokkene dat redelijkerwijs vergt, draagt het bevoegde personeelslid van het bevoegde bestuursorgaan er zo veel mogelijk zorg voor dat die gegevens hem worden meegedeeld in een taal die voor hem begrijpelijk is;<br>
 2° dat hij kan worden gehoord. Het verzoek om te worden gehoord, moet worden ingediend binnen dertig dagen na de kennisgeving;<br>
 3° dat hij niet verplicht is om, voor het opleggen van de boete, inlichtingen over de inbreuk te verstrekken.
 
@@ -1876,7 +1876,7 @@ Als de vermoedelijke overtreder wordt gehoord, is bijstand door een tolk toegest
 
 ### ART 158.
 
-Het bevoegde bestuursorgaan kan de gezinsinspecteurs om aanvullende inlichtingen verzoeken.
+Het bevoegde personeelslid van het bevoegde bestuursorgaan kan de gezinsinspecteurs om aanvullende inlichtingen verzoeken.
 
 ## Onderafdeling 3. De beslissing
 
@@ -1886,7 +1886,7 @@ Het onderzoek van het dossier kan aanleiding geven tot het opleggen van een alte
 
 ### ART 160.
 
-Als de inbreuk niet aan de overtreder kan worden verweten, legt het bestuursorgaan geen bestuurlijke geldboete op.
+Als de inbreuk niet aan de overtreder kan worden verweten, legt het bevoegde personeelslid van het bevoegde bestuursorgaan geen bestuurlijke geldboete op.
 
 ### ART 161.
 
@@ -1894,7 +1894,7 @@ Als een alternatieve bestuurlijke geldboete wordt opgelegd, wordt de hoogte van 
 
 ### ART 162.
 
-Als het een alternatieve bestuurlijke geldboete oplegt, kan het bevoegde bestuursorgaan geheel of gedeeltelijk uitstel van uitvoering van betaling toekennen met een proefperiode van minstens één jaar en hoogstens drie jaar. De proefperiode neemt een aanvang bij de kennisgeving van de beboetingsbeslissing.
+Als het een alternatieve bestuurlijke geldboete oplegt, kan het bevoegde personeelslid van het bevoegde bestuursorgaan geheel of gedeeltelijk uitstel van uitvoering van betaling toekennen met een proefperiode van minstens één jaar en hoogstens drie jaar. De proefperiode neemt een aanvang bij de kennisgeving van de beboetingsbeslissing.
 
 ### ART 163.
 
@@ -1911,7 +1911,7 @@ b) die maatregel op kosten van de beboete persoon wordt uitgevoerd overeenkomsti
 
 ### ART 164.
 
-Binnen een termijn van honderdtwintig dagen na de kennisgeving van de opstart van de beboetingsprocedure beslist het bevoegde bestuursorgaan over het opleggen van een alternatieve bestuurlijke geldboete en brengt het de betrokkene met een kennisgeving op de hoogte van zijn beslissing.
+Binnen een termijn van honderdtwintig dagen na de kennisgeving van de opstart van de beboetingsprocedure beslist het bevoegde personeelslid van het bevoegde bestuursorgaan over het opleggen van een alternatieve bestuurlijke geldboete en brengt het de betrokkene met een kennisgeving op de hoogte van zijn beslissing.
 
 ### ART 165.
 
@@ -1919,13 +1919,13 @@ Het uitstel van uitvoering van betaling wordt herroepen als de beboete persoon g
 <br>
 In voorkomend geval wordt het uitstel herroepen bij dezelfde beslissing als de beslissing waarbij een bestuurlijke geldboete wordt opgelegd voor de nieuwe inbreuk die begaan is tijdens de proefperiode. Beide boetebedragen worden tegelijkertijd ingevorderd.<br>
 <br>
-Als het bevoegde bestuursorgaan kennisneemt van een strafrechtelijke beteugeling, bij veroordelend vonnis of op een andere wijze, van een nieuwe inbreuk die gepleegd is gedurende de proefperiode, beslist het tot herroeping van het uitstel en gaat het over tot kennisgeving van die beslissing aan de betrokkene.
+Als het bevoegde personeelslid van het bevoegde bestuursorgaan kennisneemt van een strafrechtelijke beteugeling, bij veroordelend vonnis of op een andere wijze, van een nieuwe inbreuk die gepleegd is gedurende de proefperiode, beslist het tot herroeping van het uitstel en gaat het over tot kennisgeving van die beslissing aan de betrokkene.
 
 ## Afdeling 5. Beroep tegen de bestuurlijke geldboete
 
 ### ART 166.
 
-Tegen de beslissing waarbij het bevoegde bestuursorgaan een bestuurlijke geldboete oplegt, kan de persoon aan wie de boete is opgelegd, beroep instellen bij de bevoegde rechtbank. Het beroep wordt ingesteld binnen een termijn van negentig dagen vanaf de datum van de ontvangst van de bestreden beslissing.<br>
+Tegen de beslissing waarbij het bevoegde personeelslid van het bevoegde bestuursorgaan een bestuurlijke geldboete oplegt, kan de persoon aan wie de boete is opgelegd, beroep instellen bij de bevoegde rechtbank. Het beroep wordt ingesteld binnen een termijn van negentig dagen vanaf de datum van de ontvangst van de bestreden beslissing.<br>
 <br>
 Het instellen van een beroep schorst de uitvoering van de aangevochten beslissing. De Vlaamse Regering kan nadere regels bepalen.
 
@@ -1933,9 +1933,9 @@ Het instellen van een beroep schorst de uitvoering van de aangevochten beslissin
 
 ### ART 167.
 
-Een bestuurlijke geldboete moet worden betaald binnen een termijn van negentig dagen na de kennisgeving van de beboetingsbeslissing van het bevoegde bestuursorgaan of, in voorkomend geval, de bevoegde rechtbank.<br>
+Een bestuurlijke geldboete moet worden betaald binnen een termijn van negentig dagen na de kennisgeving van de beboetingsbeslissing van het bevoegde personeelslid van het bevoegde bestuursorgaan of, in voorkomend geval, de bevoegde rechtbank.<br>
 <br>
-Een bestuurlijke geldboete waarvan, met toepassing van artikel 165, het uitstel van uitvoering van betaling is herroepen, moet worden betaald binnen een termijn van negentig dagen na de kennisgeving van de herroepingsbeslissing van het bevoegde bestuursorgaan, of in voorkomend geval, de bevoegde rechtbank.
+Een bestuurlijke geldboete waarvan, met toepassing van artikel 165, het uitstel van uitvoering van betaling is herroepen, moet worden betaald binnen een termijn van negentig dagen na de kennisgeving van de herroepingsbeslissing van het bevoegde personeelslid van het bevoegde bestuursorgaan, of in voorkomend geval, de bevoegde rechtbank.
 
 ### ART 168.
 
@@ -1947,11 +1947,13 @@ Als de overtreder weigert de bestuurlijke geldboete te betalen, wordt ze na een 
 
 ### ART 170.
 
-De rechtsvordering tot invordering van de bestuurlijke geldboete verjaart vijf jaar na de dag waarop geen beroep meer kan worden aangetekend tegen de beslissing van het bevoegde bestuursorgaan of, in voorkomend geval, de dag waarop de rechterlijke beslissing kracht van gewijsde verwierf. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.
+De rechtsvordering tot invordering van de bestuurlijke geldboete verjaart vijf jaar na de dag waarop geen beroep meer kan worden aangetekend tegen de beslissing van het bevoegde personeelslid van het bevoegde bestuursorgaan of, in voorkomend geval, de dag waarop de rechterlijke beslissing kracht van gewijsde verwierf. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.
 
 ### ART 171.
 
-De Vlaamse Regering kan de nadere regels bepalen voor het opleggen en het betalen van de administratieve geldboete.
+De Vlaamse Regering kan de nadere regels bepalen voor het opleggen en het betalen van de administratieve geldboete.<br>
+<br>
+Het bevoegde bestuursorgaan wijst de personeelsleden aan die overeenkomstig de bepalingen van dit hoofdstuk bevoegd zijn om bestuurlijke geldboeten op te leggen.
 
 ## Titel 4. Nalevingsondersteuning en handhaving ten aanzien van de private uitbetalingsactoren
 
@@ -1989,14 +1991,16 @@ Met inachtneming van artikel 14 van de wet van 16 mei 2003 tot vaststelling van 
 
 ### ART 176.
 
-Als de private uitbetalingsactor een inbreuk pleegt of een vergunning heeft verkregen op basis van onjuiste gegevens, kan&nbsp;het agentschap Opgroeien regie een of meer van de volgende bestuurlijke maatregelen opleggen:<br>
+Als de private uitbetalingsactor een inbreuk pleegt of een vergunning heeft verkregen op basis van onjuiste gegevens, kan het bevoegde personeelslid van het agentschap Opgroeien regie een of meer van de volgende bestuurlijke maatregelen opleggen:<br>
 1° een verbod om nieuwe begunstigden aan te sluiten;<br>
 2° de opmaak en uitvoering van een herstelplan;<br>
-3° de opheffing van de vergunning.
+3° de opheffing van de vergunning.<br>
+<br>
+De Vlaamse Regering wijst de personeelsleden van het agentschap Opgroeien regie aan die overeenkomstig de bepalingen van deze afdeling bevoegd zijn om de bestuurlijke maatregelen, vermeld in het eerste lid, op te leggen en de bezwaren tegen die maatregelen te behandelen.
 
 ### ART 177.
 
-§ 1. Het agentschap Opgroeien regie betekent het voornemen tot het opleggen van een bestuurlijke maatregel aan de private uitbetalingsactor en bepaalt in de voorgenomen beslissing minstens het volgende:<br>
+§ 1. Het bevoegde personeelslid van het agentschap Opgroeien regie betekent het voornemen tot het opleggen van een bestuurlijke maatregel aan de private uitbetalingsactor en bepaalt in de voorgenomen beslissing minstens het volgende:<br>
 1° de motieven van de voorgenomen beslissing;<br>
 2° de termijn waarin de uitbetalingsactor zijn verweer kan formuleren en de kans krijgt om gehoord te worden;<br>
 3° de termijn waarin de beslissing definitief wordt;<br>
@@ -2004,7 +2008,7 @@ Als de private uitbetalingsactor een inbreuk pleegt of een vergunning heeft verk
 <br>
 De uitbetalingsactor wordt op zijn verzoek gehoord. De uitbetalingsactor mag zich daarbij laten bijstaan of vertegenwoordigen door een raadsman of een andere persoon.<br>
 <br>
-§ 2. Bij hoogdringendheid kan&nbsp;het agentschap Opgroeien regie onmiddellijk een bestuurlijke maatregel nemen.
+§ 2. Bij hoogdringendheid kan&nbsp;het bevoegde personeelslid van het agentschap Opgroeien regiee onmiddellijk een bestuurlijke maatregel nemen.
 
 ### ART 178.
 
@@ -2016,7 +2020,7 @@ De beslissing tot het al dan niet opleggen van een bestuurlijke maatregel wordt 
 
 ### ART 179.
 
-Tegen de opheffing van de vergunning kan de uitbetalingsactor bij&nbsp;het agentschap Opgroeien regie met een kennisgeving bezwaar aantekenen binnen dertig dagen na de ontvangst van de kennisgeving van de beslissing.<br>
+Tegen de opheffing van de vergunning kan de uitbetalingsactor bij&nbsp;het bevoegde personeelslid van het agentschap Opgroeien regie met een kennisgeving bezwaar aantekenen binnen dertig dagen na de ontvangst van de kennisgeving van de beslissing.<br>
 <br>
 Het bezwaarschrift bevat, op straffe van niet-ontvankelijkheid, de motivering van het bezwaar.<br>
 <br>
@@ -2024,7 +2028,7 @@ De Vlaamse Regering kan nadere regels bepalen voor de ontvankelijkheidsvereisten
 
 ### ART 180.
 
-Het agentschap Opgroeien regie&nbsp;beslist binnen tien dagen na de kennisgeving van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de bezwaarindiener daarvan op de hoogte. Als er niet tijdig een beslissing is genomen, wordt het bezwaar geacht ontvankelijk te zijn.
+Het bevoegde personeelslid van het agentschap Opgroeien regie&nbsp;beslist binnen tien dagen na de kennisgeving van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de bezwaarindiener daarvan op de hoogte. Als er niet tijdig een beslissing is genomen, wordt het bezwaar geacht ontvankelijk te zijn.
 
 ### ART 181.
 
@@ -2040,7 +2044,7 @@ Het bezwaar schorst de uitvoering van de beslissing, tenzij de beslissing bij ho
 
 ### ART 183.
 
-§ 1. Het agentschap Opgroeien regie kan een exclusieve bestuurlijke geldboete van 200 tot 20.000 euro opleggen als de private uitbetalingsactor een andere inbreuk begaat dan de inbreuken, vermeld in artikel 189 en 190, of als hij de vergunningsvoorwaarden, vermeld in het decreet van 7 juli 2017 en de uitvoeringsbesluiten ervan, niet naleeft.<br>
+§ 1. Het bevoegde personeelslid van het agentschap Opgroeien regie kan een exclusieve bestuurlijke geldboete van 200 tot 20.000 euro opleggen als de private uitbetalingsactor een andere inbreuk begaat dan de inbreuken, vermeld in artikel 189 en 190, of als hij de vergunningsvoorwaarden, vermeld in het decreet van 7 juli 2017 en de uitvoeringsbesluiten ervan, niet naleeft.<br>
 <br>
 § 2. De exclusieve bestuurlijke geldboete kan worden opgelegd binnen een termijn van honderdtachtig dagen vanaf de dag van de vaststelling van de inbreuk, op voorwaarde dat de private uitbetalingsactor de kans kreeg om zijn verweer op nuttige wijze mee te delen. De private uitbetalingsactor mag vragen om gehoord te worden en kan zich daarbij laten bijstaan door een raadsman.<br>
 <br>
@@ -2050,15 +2054,15 @@ Als een exclusieve bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing
 
 ### ART 184.
 
-§ 1. Voor de inbreuken, vermeld in artikel 189 en 190, kan&nbsp; het agentschap Opgroeien regie&nbsp;de uitbetalingsactor die de inbreuk heeft gepleegd, een bestuurlijke geldboete opleggen van 300 tot 30.000 euro.<br>
+§ 1. Voor de inbreuken, vermeld in artikel 189 en 190, kan&nbsp; het bevoegde personeelslid van het agentschap Opgroeien regie&nbsp;de uitbetalingsactor die de inbreuk heeft gepleegd, een bestuurlijke geldboete opleggen van 300 tot 30.000 euro.<br>
 <br>
 § 2. Bij de vaststelling van een inbreuk als vermeld in paragraaf 1, bezorgt de zorginspecteur het proces-verbaal van vaststelling onmiddellijk aan het Openbaar Ministerie bij de rechtbank binnen het rechtsgebied waar de feiten zijn gepleegd. Samen met het proces-verbaal bezorgt de zorginspecteur een schriftelijk verzoek waarin het Openbaar Ministerie wordt gevraagd zich uit te spreken over de al dan niet strafrechtelijke behandeling van de inbreuk. Het Openbaar Ministerie beschikt daarvoor over een termijn van honderdtachtig dagen vanaf de dag waarop het verslag van vaststelling is verzonden.<br>
 <br>
 Een beslissing om de inbreuk strafrechtelijk te behandelen, sluit het opleggen van een bestuurlijke geldboete uit. Een beslissing om de inbreuk niet strafrechtelijk te behandelen en de beslissingstermijn stilzwijgend te laten verstrijken, houdt het verval van de strafvordering in.<br>
 <br>
-§ 3. Als het Openbaar Ministerie tijdig beslist niet strafrechtelijk te behandelen of als het de termijn stilzwijgend laat verstrijken, kan&nbsp;het agentschap Opgroeien regie de procedure voor het opleggen van een alternatieve bestuurlijke geldboete starten.<br>
+§ 3. Als het Openbaar Ministerie tijdig beslist niet strafrechtelijk te behandelen of als het de termijn stilzwijgend laat verstrijken, kan&nbsp;het bevoegde personeelslid van het agentschap Opgroeien regie de procedure voor het opleggen van een alternatieve bestuurlijke geldboete starten.<br>
 <br>
-Het agentschap Opgroeien regie&nbsp;beschikt over een termijn van honderdtachtig dagen om een bestuurlijke geldboete op te leggen vanaf, al naargelang het geval, de kennisneming van de beslissing, vermeld in paragraaf 2, of het stilzwijgend verstrijken van de termijn, vermeld in dezelfde paragraaf.<br>
+Het bevoegde personeelslid van het agentschap Opgroeien regie&nbsp;beschikt over een termijn van honderdtachtig dagen om een bestuurlijke geldboete op te leggen vanaf, al naargelang het geval, de kennisneming van de beslissing, vermeld in paragraaf 2, of het stilzwijgend verstrijken van de termijn, vermeld in dezelfde paragraaf.<br>
 <br>
 § 4. De kennisgeving van een beboetingsbeslissing aan de beboete uitbetalingsactor vermeldt het bedrag, de wijze waarop en de termijn waarin de boete moet worden betaald, alsook de motivering voor het opleggen van de bestuurlijke geldboete en voor de hoogte van het bedrag. De kennisgeving vermeldt daarnaast de wijze waarop en de termijn waarin tegen de beslissing beroep kan worden ingesteld.
 
@@ -2082,7 +2086,7 @@ Als de uitbetalingsactor weigert de administratieve geldboete te betalen, wordt 
 
 De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de datum van de beslissing of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met artikel 2250 van het Burgerlijk Wetboek.<br>
 <br>
-De Vlaamse Regering kan de nadere regels bepalen voor het opleggen en het betalen van de administratieve geldboete.
+De Vlaamse Regering wijst de personeelsleden van het agentschap Opgroeien regie aan die overeenkomstig de bepalingen van dit hoofdstuk bevoegd zijn om bestuurlijke geldboeten op te leggen, en kan de nadere regels bepalen voor het opleggen en het betalen van de administratieve geldboete.
 
 ## Titel 5. Strafbepalingen
 
@@ -2112,13 +2116,15 @@ Onder gestructureerde criminele vereniging wordt verstaan een vereniging die nie
 
 ### ART 192.
 
-§ 1. Aan de door de Vlaamse Gemeenschap vergunde opvangplaats, waarbij de organisator niet werkt met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het besluit van de Vlaamse Regering van 22 november 2013 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters, kan&nbsp;het agentschap Opgroeien regie een bestuurlijke geldboete van 250 tot 1500 euro opleggen als de organisator de verplichting, vermeld in artikel 52, tweede lid, niet naleeft.<br>
+§1. Aan de door de Vlaamse Gemeenschap vergunde opvangplaats, waarbij de organisator niet werkt met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het besluit van de Vlaamse Regering van 22 november 2013 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters, kan&nbsp;het bevoegde personeelslid van het agentschap Opgroeien regie een bestuurlijke geldboete van 250 tot 1500 euro opleggen als de organisator de verplichting, vermeld in artikel 52, tweede lid, niet naleeft.<br>
 <br>
 Als er sprake is van herhaling, bedraagt de geldboete minstens 500 euro en hoogstens 3.000 euro.<br>
 <br>
-§ 2. De bestuurlijke geldboete kan worden opgelegd binnen een termijn van honderdtachtig dagen vanaf de dag van de vaststelling van de inbreuk, op voorwaarde dat de organisator de kans kreeg om zijn verweer op nuttige wijze mee te delen. De organisator mag vragen om gehoord te worden en kan zich daarbij laten bijstaan door een raadsman.<br>
+§2. De bestuurlijke geldboete kan worden opgelegd binnen een termijn van honderdtachtig dagen vanaf de dag van de vaststelling van de inbreuk, op voorwaarde dat de organisator de kans kreeg om zijn verweer op nuttige wijze mee te delen. De organisator mag vragen om gehoord te worden en kan zich daarbij laten bijstaan door een raadsman.<br>
 <br>
-Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald, alsook de motivering voor het opleggen van de bestuurlijke geldboete en voor de hoogte van het bedrag. De kennisgeving van de beslissing aan de organisator vermeldt de wijze waarop en de termijn waarin tegen de beslissing beroep kan worden ingesteld.
+Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald, alsook de motivering voor het opleggen van de bestuurlijke geldboete en voor de hoogte van het bedrag. De kennisgeving van de beslissing aan de organisator vermeldt de wijze waarop en de termijn waarin tegen de beslissing beroep kan worden ingesteld.<br>
+<br>
+§3. De Vlaamse Regering wijst de personeelsleden van het agentschap Opgroeien regie aan die overeenkomstig de bepalingen van deze titel bevoegd zijn voor de handhaving van het decreet ten aanzien van de organisatoren, vermeld in artikel 51, eerste lid, 3°.
 
 ## Boek 4. Wijzigingsbepalingen
 
