@@ -60,6 +60,20 @@ In artikel 432 van hetzelfde besluit, het laatst gewijzigd bij het besluit van d
 2° in het vierde lid wordt tussen het woord “in” en het getal “425” telkens het woord “artikel” ingevoegd;&nbsp;<br>
 3° in het vierde lid wordt het jaartal “2026” telkens vervangen door het jaartal “2027”.
 
+### ART 6.
+
+In boek 3, deel 1, titel 4, hoofdstuk 1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 28 juni 2019, 4 december 2020, 16 juli 2021 en 1 juli 2022, wordt een artikel 437/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 437/1. Een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging kan bij een administratieve vergissing de zorgkas verzoeken om een afwijking van de termijn, vermeld in artikel 435, §1.&nbsp;<br>
+<br>
+Het woonzorgcentrum, het centrum voor kortverblijf of het centrum voor dagverzorging waarvoor een afwijking van de termijn, vermeld in artikel 435, §1, wordt toegepast, ontvangt een elektronisch bericht. Dit elektronisch bericht vermeldt de datum waarop de periode ingaat waarvoor recht is op een tegemoetkoming voor zorg. Deze datum valt op de dag die wordt bepaald door 25% van het aantal kalenderdagen vanaf de begindatum van de opname tot en met de dag voor de dag van de goedgekeurde aanmelding van de opname toe te voegen aan de begindatum van de opname.<br>
+<br>
+De vermeerdering met 25%, vermeld in het tweede lid, wordt afgerond naar onder, waarbij kalenderdagen worden uitgedrukt in gehele getallen.”.
+
+### ART 7.
+
+In artikel 438, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 juli 2022, wordt de zinsnede “artikel 437 en 439” vervangen door de zinsnede “artikel 437, 437/1 en 439”.&nbsp;
+
 ### ART 8.
 
 In artikel 451/1, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 november 2023, wordt de zinsnede “artikel 453, §1, eerste lid, 1°, d)” vervangen door de zinsnede “artikel 453, §1, eerste lid, 1°, e)”.
