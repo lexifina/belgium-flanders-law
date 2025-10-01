@@ -40,7 +40,7 @@ Een evenredig deel van de wachttijd, vermeld in het eerste lid, wordt in aanmerk
 ### ART. 2.
 
 De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden vrijgesteld van de betaling van werkgeversbijdragen aan de Rijksdienst voor Sociale Zekerheid voor :<br>
-1° 26,99 % van de globale basiswerkgeversbijdragen, vermeld in artikel 3, § 3, 1°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij;<br>
+1° 24,26% van de globale basiswerkgeversbijdragen, vermeld in artikel 3, § 3, 1°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij;<br>
 2° de bijdrage aan het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers, vermeld in artikel 58 en 60 van de wet van 26 juni 2002 betreffende de sluiting van ondernemingen.
 
 ### ART. 3.
