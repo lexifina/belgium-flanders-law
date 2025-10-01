@@ -20,7 +20,7 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
-## HOOFDSTUK 1. Definities
+## HOOFDSTUK 1. Algemene bepalingen
 
 ### ART 1.
 
@@ -31,6 +31,13 @@ In dit besluit wordt verstaan onder:<br>
 4° minister: de Vlaamse minister, bevoegd voor werk;<br>
 5° verblijfswet: de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 6° wet van 30 april 1999: de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers.
+
+### ART 1/1.
+
+Het hoofd van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie van het Vlaams Ministerie van Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie, vermeld in artikel 29/1, eerste lid van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie wijst bij de bevoegde overheid de personeelsleden aan die op basis van het decreet van 15 oktober 2021 en conform dit besluit bevoegd zijn om te beslissen over al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de aflevering van een beroepskaart;<br>
+2°&nbsp;&nbsp; &nbsp;de hernieuwing van een beroepskaart;<br>
+3°&nbsp;&nbsp; &nbsp;de weigering en intrekking van een beroepskaart.
 
 ## HOOFDSTUK 2. Vrijstellingen
 
@@ -114,11 +121,11 @@ De forfaitaire vergoedingen, vermeld in het eerste lid, worden geïnd met een ov
 
 ### ART 5.
 
-§ 1. De bevoegde overheid onderzoekt of de aanvraag volledig en ontvankelijk is conform de voorwaarden, vermeld in artikel 3, en brengt de aanvrager daarvan schriftelijk op de hoogte.<br>
+§1. Het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, onderzoekt of de aanvraag van een beroepskaart volledig en ontvankelijk is conform de voorwaarden, vermeld in artikel 3. De bevoegde overheid brengt de aanvrager schriftelijk op de hoogte van de beslissing daarover.<br>
 <br>
-Als niet alle documenten toegevoegd zijn, of als ze onvolledig zijn, deelt de bevoegde overheid mee welke aanvullende documenten of inlichtingen de aanvrager moet voorleggen, binnen dertig dagen na de datum van die kennisgeving. Als de aanvrager de aanvullende documenten of inlichtingen niet tijdig bezorgt, verklaart de bevoegde overheid de aanvraag onontvankelijk.<br>
+Als niet alle documenten toegevoegd zijn, of als ze onvolledig zijn, deelt de bevoegde overheid mee welke aanvullende documenten of inlichtingen de aanvrager moet voorleggen binnen dertig dagen na de datum van die kennisgeving. Als de aanvrager de aanvullende documenten of inlichtingen niet tijdig bezorgt, verklaart het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, de aanvraag onontvankelijk.<br>
 <br>
-§ 2. De bevoegde overheid beslist uiterlijk binnen 120 dagen na de dag waarop ze de aanvraag ontvankelijk heeft verklaard, over de aanvraag om een beroepskaart te verkrijgen, te hernieuwen of te wijzigen.<br>
+§ 2. Het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, beslist uiterlijk binnen 120 dagen na de dag waarop ze de aanvraag ontvankelijk heeft verklaard, over de aanvraag om een beroepskaart te verkrijgen, te hernieuwen of te wijzigen.<br>
 <br>
 Als het om een aanvraag gaat die een uitzonderlijke complexiteit behelst, kan de bevoegde overheid de termijn, vermeld in het eerste lid, verlengen met maximaal 120 dagen. Als de bevoegde overheid die termijn verlengt, brengt ze de aanvrager schriftelijk op de hoogte van de maximale termijn waarbinnen de beslissing wordt genomen.<br>
 <br>
@@ -148,7 +155,7 @@ De aanvraag om de beroepskaart te hernieuwen of te wijzigen wordt ingediend uite
 <br>
 Als de termijn, vermeld in het eerste lid, is verstreken, beschouwt de bevoegde overheid de aanvraag om de beroepskaart te hernieuwen of te wijzigen als een eerste aanvraag om de beroepskaart te verkrijgen.<br>
 <br>
-Als de bevoegde overheid geen beslissing neemt vóór het verstrijken van de geldigheidsduur van de beroepskaart, kan de aanvrager die beschikt over een wettig verblijf, zijn zelfstandige beroepsactiviteiten voortzetten in afwachting van deze beslissing.
+Als het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, geen beslissing neemt vóór het verstrijken van de geldigheidsduur van de beroepskaart, kan de aanvrager die beschikt over een wettig verblijf, zijn zelfstandige beroepsactiviteiten voortzetten in afwachting van deze beslissing.
 
 ## HOOFDSTUK 5. Voorwaarden om de innovatieve, economische, culturele, artistieke of sportieve meerwaarde van de zelfstandige beroepsactiviteit voor Vlaanderen te bepalen
 
@@ -164,13 +171,13 @@ De beoogde zelfstandige beroepsactiviteit heeft een gunstige impact op het econo
 
 De Vlaamse Regering kan een lijst opstellen van organisaties uit de Vlaamse, culturele of artistieke sector die in aanmerking komen voor een samenwerking als vermeld in artikel 8, eerste lid, 1°, van het decreet van 15 oktober 2021.<br>
 <br>
-De bevoegde overheid kan gemotiveerd afwijken van de lijst als vermeld in het eerste lid.
+Het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, kan gemotiveerd afwijken van de lijst als vermeld in het eerste lid.
 
 ## HOOFDSTUK 6. Weigering en intrekking
 
 ### ART 12.
 
-In de volgende gevallen weigert de bevoegde overheid de aanvraag om een beroepskaart te verkrijgen, te hernieuwen of te wijzigen:<br>
+In de volgende gevallen weigert het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, de aanvraag om een beroepskaart te verkrijgen, te hernieuwen of te wijzigen:<br>
 1° de aanvraag bevat onjuiste, vervalste of onrechtmatig verkregen gegevens, verklaringen of onrechtmatig verrichte aanpassingen;<br>
 2° de voorwaarden, vermeld in artikel 5 tot en met 9 van het decreet van 15 oktober 2021, of in de uitvoeringsbesluiten ervan, zijn niet vervuld;<br>
 3° de onderneming is opgericht of opereert met als belangrijkste doel om een beroepskaart te verkrijgen of de binnenkomst van buitenlandse werknemers of zelfstandigen te vergemakkelijken;<br>
@@ -178,7 +185,7 @@ In de volgende gevallen weigert de bevoegde overheid de aanvraag om een beroepsk
 5° de buitenlandse onderdaan of de onderneming houdt zich niet aan de verplichtingen die zijn opgelegd door de fiscale of sociaalrechtelijke wetgeving;<br>
 6° de onderneming verkeert in staat van faillissement of van kennelijk onvermogen, maakt het voorwerp uit van een procedure tot faillietverklaring, of heeft een gerechtelijke reorganisatie aangevraagd of verkregen.<br>
 <br>
-In de volgende gevallen kan de bevoegde overheid de aanvraag om een beroepskaart te verkrijgen, te hernieuwen of te wijzigen weigeren:<br>
+In de volgende gevallen kan het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, de aanvraag om een beroepskaart te verkrijgen, te hernieuwen of te wijzigen weigeren:<br>
 1° als tegen de buitenlandse onderdaan of de onderneming een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
 a) artikel 12/1, § 1, artikel 12/3, § 1, of artikel 12/4 van de wet van 30 april 1999;<br>
 b) artikel 13/5, artikel 13/6, § 2, § 4, of § 5, of artikel 14, tweede lid van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;<br>
@@ -188,7 +195,7 @@ d) artikel 175/1, § 1, artikel 181, § 1, of artikel 181/1 van het Sociaal Stra
 
 ### ART 13.
 
-In de volgende gevallen trekt de bevoegde overheid de beroepskaart in:<br>
+In de volgende gevallen trekt het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, de beroepskaart in:<br>
 1° voor de aanvraag zijn bedrieglijke praktijken, onvolledige, onjuiste of vervalste verklaringen gebruikt, of zijn onrechtmatig verkregen gegevens bezorgd of onrechtmatig aanpassingen verricht;<br>
 2° de onderneming is opgericht of opereert met als belangrijkste doel om een beroepskaart te verkrijgen of de binnenkomst van buitenlandse werknemers of zelfstandigen te vergemakkelijken;<br>
 3° de onderneming voert geen economische of maatschappelijke activiteiten uit;<br>
@@ -199,7 +206,7 @@ In de volgende gevallen trekt de bevoegde overheid de beroepskaart in:<br>
 8° de buitenlandse onderdaan of de onderneming houdt zich niet aan de verplichtingen die zijn opgelegd door de fiscale of sociaalrechtelijke wetgeving;<br>
 9° de toelating om het grondgebied te betreden voor meer dan 90 dagen wordt niet verleend aan de buitenlandse onderdaan.<br>
 <br>
-In de volgende gevallen kan de bevoegde overheid de beroepskaart intrekken:<br>
+In de volgende gevallen kan het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, de beroepskaart intrekken:<br>
 1° de buitenlandse onderdaan heeft een strafrechtelijke veroordeling opgelopen, die in kracht van gewijsde is gegaan. Die veroordeling houdt al dan niet verband met de uitoefening van de zelfstandige beroepsactiviteit;<br>
 2° tegen de buitenlandse onderdaan of de onderneming is een sanctie uitgesproken op grond van een van de volgende bepalingen:<br>
 a) artikel 12/1, § 1, artikel 12/3, § 1, of artikel 12/4 van de wet van 30 april 1999;<br>
@@ -220,7 +227,7 @@ De minister kan bijkomende instanties aanduiden voor de adviesinwinning, vermeld
 
 ### ART 15.
 
-Zolang het beroep bij de minister hangende is, verklaart de bevoegde overheid elke ingediende aanvraag voor dezelfde zelfstandige beroepsactiviteit, die na het beroep is ingesteld, onontvankelijk.<br>
+Zolang het beroep bij de minister hangende is, verklaart het personeelslid van de bevoegde overheid dat conform artikel 1/1 is aangewezen, elke ingediende aanvraag voor dezelfde zelfstandige beroepsactiviteit, die na het beroep is ingesteld, onontvankelijk.<br>
 <br>
 De beroepsprocedure tegen een weigerings- of intrekkingsbeslissing heeft geen schorsende werking.
 
