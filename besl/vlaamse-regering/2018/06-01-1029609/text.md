@@ -286,9 +286,9 @@ De gegevens worden door het Departement Zorg bewaard tot maximaal 30 jaar na ont
 
 ### ART 25.
 
-§ 1. Het centrum waartoe de leerling behoort, is verantwoordelijk voor de verwerking van de gegevens van het multidisciplinaire dossier, met uitzondering van de persoonsgegevens die op de gezondheid betrekking hebben. Het centrum is hier verwerkingsverantwoordelijke.<br>
+§ 1. Het bestuur van het centrum waartoe de leerling behoort, is verwerkingsverantwoordelijke voor de gegevens van het multidisciplinaire dossier.<br>
 <br>
-§ 2. Een beroepsbeoefenaar in de gezondheidszorg die in het centrum werkt waartoe de leerling behoort, is verantwoordelijk voor de verwerking van de persoonsgegevens die op de gezondheid betrekking hebben. Die beroepsbeoefenaar in de gezondheidszorg is bekend bij de overige medewerkers van het centrum.<br>
+§ 2. Een beroepsbeoefenaar in de gezondheidszorg die in het centrum werkt waartoe de leerling behoort, houdt toezicht op de verwerking van de persoonsgegevens die op de gezondheid betrekking hebben. Die beroepsbeoefenaar in de gezondheidszorg is bekend bij de overige medewerkers van het centrum.<br>
 <br>
 De verantwoordelijke beroepsbeoefenaar in de gezondheidszorg van het centrum waartoe de leerling behoort, kan taken voor de verwerking van persoonsgegevens die op de gezondheid betrekking hebben, delegeren aan andere medewerkers van het centrum onder de verantwoordelijkheid van de beroepsbeoefenaar in de gezondheidszorg. Alle overige medewerkers van het centrum worden daarvan op de hoogte gebracht.
 
@@ -327,7 +327,7 @@ In afwijking van artikel 28 hebben personeelsleden van de school waar de leerlin
 <br>
 De inzage kan op digitale wijze verlopen. Bij elke inzage wordt de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens toegepast.<br>
 <br>
-Bij het centrum voor leerlingenbegeleiding dat instaat voor de begeleiding en de ondersteuning van de leerling met een IAC-verslag, OV4-verslagof GC-verslag, is het centrum zelf verwerkingsverantwoordelijke. Bij de school waar de leerling met een IAC-verslag, OV4-verslag of GC-verslag is ingeschreven, is het schoolbestuur van de school waar de leerling met een IAC-verslag, OV4-verslag of een GC-verslag is ingeschreven, de verwerkingsverantwoordelijke.<br>
+Bij het centrum voor leerlingenbegeleiding dat instaat voor de begeleiding en de ondersteuning van de leerling met een IAC-verslag, OV4-verslag of GC-verslag, is het bestuur van het centrum verwerkingsverantwoordelijke. Bij de school waar de leerling met een IAC-verslag, OV4-verslag of GC-verslag is ingeschreven, is het schoolbestuur van de school waar de leerling met een IAC-verslag, OV4-verslag of een GC-verslag is ingeschreven, de verwerkingsverantwoordelijke.<br>
 <br>
 In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen leerlingen en ouders zich niet verzetten tegen de inzage.
 
