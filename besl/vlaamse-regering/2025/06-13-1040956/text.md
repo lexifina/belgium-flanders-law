@@ -42,6 +42,18 @@ In afwijking van het eerste lid betaalt het departement aan de werknemer met een
 <br>
 Er geldt een vermoeden van onrechtmatig gebruik van de ontslagregeling als vermeld in het eerste lid, als de werkgever met toepassing van dit besluit de arbeidsovereenkomst met de werknemer met een DAC-statuut beëindigt om hem opnieuw aan te werven binnen een termijn van zes maanden die aanvangt op de dag waarop de werknemer zijn laatste dag van de opzegtermijn heeft gepresteerd.
 
+### ART 2.
+
+In het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector worden de volgende hoofdstukken opgeheven;<br>
+1° hoofdstuk I, dat bestaat uit artikel 1 tot en met 4;<br>
+2° hoofdstuk II, afdeling 1 tot en met 4, dat bestaat uit de artikelen 1 tot en met 12;<br>
+3° hoofdstuk III, afdeling 1 tot en met 6, dat bestaat uit artikel 13 tot en met 25;<br>
+4° hoofdstuk IV, dat bestaat uit artikel 26 tot en met 27.
+
+### ART 3.
+
+Het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector, zoals van kracht op 30 september 2025, blijft van toepassing voor de duur van de opzegtermijn als de werkgever de beëindiging van de arbeidsovereenkomst conform artikel 1, §2, tweede lid, van dit besluit uiterlijk op 30 september 2025 heeft betekend.
+
 ### ART 4.
 
 Artikel 10 van het decreet van 4 maart 2016 houdende het Vlaamse doelgroepenbeleid treedt in werking op 1 juli 2025.
