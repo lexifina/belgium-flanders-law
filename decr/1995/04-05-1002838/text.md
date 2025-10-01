@@ -2748,7 +2748,7 @@ niet beschouwd worden als een milieu-inbreuk;<br>
 a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-4° gewestelijke entiteit : de subentiteit van het Vlaams Ministerie van Omgeving, die de Vlaamse Regering aanwijst om de alternatieve bestuurlijke geldboete of de exclusieve bestuurlijke geldboete op te leggen;<br>
+4° gewestelijke entiteit: de personeelsleden van het Departement Omgeving die de Vlaamse Regering of haar gemachtigde aanwijst om overeenkomstig artikel 16.4.25 een bestuurlijke geldboete op te leggen;<br>
 5° gemachtigde ambtenaar : de door de Vlaamse Regering aangewezen ambtenaar of ambtenaren;<br>
 6° referentiemeetmethode : geschreven en publiek toegankelijke werkwijze die voor een bepaalde meting dient te worden toegepast. Worden in elk geval beschouwd als referentiemeetmethode en worden in geval van onderlinge tegenstrijdigheden toegepast in de hierna voorziene volgorde :<br>
 a) de toepasselijke bepalingen in de Belgische wetten, decreten en besluiten;<br>
