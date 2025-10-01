@@ -84,9 +84,7 @@ Een onderneming komt alleen in aanmerking voor steun als ze over een exploitatie
 
 ### ART 6.
 
-Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, geen openstaande onbetwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
-<br>
-In het eerste lid wordt verstaan onder Fonds voor Innoveren en Ondernemen: het fonds, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002.
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.
 
 ### ART 7.
 
@@ -234,7 +232,9 @@ Het Agentschap Innoveren en Ondernemen brengt de onderneming schriftelijk op de 
 
 De steun wordt aan de onderneming uitbetaald uiterlijk op 31 december van het kalenderjaar volgend op het emissiejaar.<br>
 <br>
-In afwijking van het eerste lid wordt de steun voor het emissiejaar 2021 uitbetaald op uiterlijk 31 mei 2023.
+In afwijking van het eerste lid wordt de steun voor het emissiejaar 2021 uitbetaald op uiterlijk 31 mei 2023.<br>
+<br>
+Als de onderneming een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ## Hoofdstuk 6. Terugvordering
 

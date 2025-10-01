@@ -2,16 +2,16 @@
   "codex_id": 1038135,
   "title": "Besluit van de Vlaamse Regering van 2023-02-03 tot toekenning van steun aan ondernemingen voor de compensatie van indirecte emissiekosten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038135/VolledigDocument?datum=2023-02-03",
-  "source_sha256": "84a7a8440813ff9d63c8ced45d18dce2c2550b924a7efa70e8c943ea0e8c0769",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038135/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "69a73c0dbf635048dc54863f89ae26f6960df7c285b8e09f2dde68af137901e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038135&param=informatie",
-  "as_of": "2023-02-03",
+  "as_of": "2025-10-01",
   "made": "2023-02-03",
   "gazette": "2023-05-12",
   "numac": 2023040986,
   "document_start": "2023-02-03",
   "document_end": null,
-  "in_force": "2023-02-03",
+  "in_force": "2025-10-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2023-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
