@@ -227,19 +227,29 @@ De minister brengt zijn eindbeslissing uit binnen de termijn, vermeld in artikel
 
 De leerlingen van het gewoon basisonderwijs kunnen zich aanmelden tijdens de volgende periode:<br>
 1° voor de inschrijvingen voor het schooljaar 2024-2025: van 27 februari 2024 tot en met 19 maart 2024;<br>
-2° voor de inschrijvingen voor het schooljaar 2025-2026: van 25 februari 2025 tot en met 18 maart 2025.<br>
+2° voor de inschrijvingen voor het schooljaar 2025-2026: van 25 februari 2025 tot en met 18 maart 2025;<br>
+3° voor de inschrijvingen voor het schooljaar 2026-2027: van 24 februari 2026 tot en met 17 maart 2026.<br>
 <br>
 Het gewoon basisonderwijs maakt de resultaten van de aanmeldingen die conform het eerste lid zijn gedaan, uiterlijk op de volgende data bekend:<br>
 1° voor de inschrijvingen voor het schooljaar 2024-2025: 19 april 2024;<br>
-2° voor de inschrijvingen voor het schooljaar 2025-2026: 25 april 2025.<br>
+2° voor de inschrijvingen voor het schooljaar 2025-2026: 25 april 2025;<br>
+3° voor de inschrijvingen voor het schooljaar 2026-2027: 24 april 2026.<br>
 <br>
 De gunstig gerangschikte leerlingen voor het gewoon basisonderwijs kunnen zich inschrijven in de aanmeldende scholen tijdens de volgende periode:<br>
 1° voor de inschrijvingen voor het schooljaar 2024-2025: van 22 april 2024 tot en met 13 mei 2024;<br>
-2° voor de inschrijvingen voor het schooljaar 2025-2026: van 28 april 2025 tot en met 19 mei 2025.<br>
+2° voor de inschrijvingen voor het schooljaar 2025-2026: van 28 april 2025 tot en met 19 mei 2025;<br>
+3° voor de inschrijvingen voor het schooljaar 2026-2027: van 27 april 2026 tot en met 12 mei 2026.<br>
 <br>
 De start van de inschrijvingen voor het gewoon basisonderwijs voor de vrije plaatsen in de aanmeldende scholen na de ordening is op de volgende data:<br>
 1° voor het schooljaar 2024-2025: 23 mei 2024;<br>
-2° voor het schooljaar 2025-2026: 27 mei 2025.
+2° voor het schooljaar 2025-2026: 27 mei 2025;<br>
+3° voor het schooljaar 2026-2027: 21 mei 2026.<br>
+<br>
+Vanaf de inschrijvingen voor het schooljaar 2027-2028 bepaalt de minister:<br>
+1°&nbsp;&nbsp; &nbsp;de periode waarin de leerlingen van het gewoon basisonderwijs zich kunnen aanmelden;<br>
+2°&nbsp;&nbsp; &nbsp;de uiterlijke data waarop het gewoon basisonderwijs de resultaten van de aanmeldingen bekendmaakt die conform punt 1° zijn gedaan;<br>
+3°&nbsp;&nbsp; &nbsp;de periode waarin de gunstig gerangschikte leerlingen voor het gewoon basisonderwijs zich kunnen inschrijven in de aanmeldende scholen;<br>
+4° &nbsp;&nbsp; &nbsp;de data voor de start van de inschrijvingen voor het gewoon basisonderwijs voor de vrije plaatsen in de aanmeldende scholen na de ordening.
 
 ## Afdeling 2. Gewoon secundair onderwijs
 
@@ -247,19 +257,29 @@ De start van de inschrijvingen voor het gewoon basisonderwijs voor de vrije plaa
 
 De leerlingen van het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs kunnen zich aanmelden tijdens de volgende periode:<br>
 1° voor de inschrijvingen voor het schooljaar 2024-2025: van 25 maart 2024 tot en met 19 april 2024;<br>
-2° voor de inschrijvingen voor het schooljaar 2025-2026: van 31 maart 2025 tot en met 25 april 2025.<br>
+2° voor de inschrijvingen voor het schooljaar 2025-2026: van 31 maart 2025 tot en met 25 april 2025;<br>
+3° voor de inschrijvingen voor het schooljaar 2026-2027: van 31 maart 2026 tot en met 24 april 2026.<br>
 <br>
 Het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs maakt de resultaten van de aanmeldingen die conform het eerste lid zijn gedaan, uiterlijk op de volgende data bekend:<br>
 1° voor de inschrijvingen voor het schooljaar 2024-2025: 13 mei 2024;<br>
-2° voor de inschrijvingen voor het schooljaar 2025-2026: 19 mei 2025.<br>
+2° voor de inschrijvingen voor het schooljaar 2025-2026: 19 mei 2025;<br>
+3° voor de inschrijvingen voor het schooljaar 2026-2027: 19 mei 2026.<br>
 <br>
 De gunstig gerangschikte leerlingen voor het gewoon secundair onderwijs kunnen zich inschrijven in de aanmeldende scholen tijdens de volgende periode:<br>
 1° voor de inschrijvingen voor het schooljaar 2024-2025: van 14 mei 2024 tot en met 10 juni 2024;<br>
-2° voor de inschrijvingen voor het schooljaar 2025-2026: van 20 mei 2025 tot en met 16 juni 2025.<br>
+2° voor de inschrijvingen voor het schooljaar 2025-2026: van 20 mei 2025 tot en met 16 juni 2025;<br>
+3° voor de inschrijvingen voor het schooljaar 2026-2027: van 20 mei 2026 tot en met 16 juni 2026.<br>
 <br>
 De inschrijvingen voor het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs voor de niet-aanmeldende scholen en voor de vrije plaatsen in de aanmeldende scholen na de ordening starten op de volgende data:<br>
 1° voor het schooljaar 2024-2025: 14 mei 2024;<br>
-2° voor het schooljaar 2025-2026: 20 mei 2025.
+2° voor het schooljaar 2025-2026: 20 mei 2025;<br>
+3° voor het schooljaar 2026-2027: 20 mei 2026.<br>
+<br>
+Vanaf de inschrijvingen voor het schooljaar 2027-2028 bepaalt de minister:<br>
+1° de periode waarin de leerlingen van het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs zich kunnen aanmelden;<br>
+2° de uiterlijke data waarop het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs de resultaten van de aanmeldingen bekendmaakt die conform punt 1° zijn gedaan;<br>
+3° de periode waarin de gunstig gerangschikte leerlingen voor het gewoon secundair onderwijs zich kunnen inschrijven in de aanmeldende scholen;<br>
+4° de data voor de start van de inschrijvingen voor het eerste leerjaar van de eerste graad van het gewoon secundair onderwijs voor de niet-aanmeldende scholen en voor de vrije plaatsen in de aanmeldende scholen na de ordening.
 
 ## Hoofdstuk 5. De aanmeldingsprocedures
 

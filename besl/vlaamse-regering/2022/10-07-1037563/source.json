@@ -2,16 +2,16 @@
   "codex_id": 1037563,
   "title": "Besluit van de Vlaamse Regering van 2022-10-07 over het inschrijvingsrecht in het basisonderwijs en het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037563/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "d70faace48b6ab5b86251c633357a4fec78e3754cd6d5b4747bb4e7ed1c14264",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037563/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "066806c538bcf93b6fd4e7bdf764f227bbb226b36e783d26e97a151f304f8e3e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037563&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-10-01",
   "made": "2022-10-07",
   "gazette": "2022-12-29",
   "numac": 2022042626,
   "document_start": "2022-09-01",
   "document_end": null,
-  "in_force": "2024-09-01",
+  "in_force": "2025-10-01",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2024-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
