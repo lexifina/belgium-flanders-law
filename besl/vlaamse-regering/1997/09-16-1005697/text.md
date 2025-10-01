@@ -198,11 +198,32 @@ De leerplichtige voldoet niet aan de leerplicht wanneer aan de bepalingen, verme
 
 ### ART. 14undecies/1.
 
-De controle door de onderwijsinspectie, vermeld in artikel 110/31, § 1,   van de codex wordt uitgevoerd na afspraak tussen de onderwijsinspectie en de   ouders, waarna ook schriftelijke afspraken volgen over de organisatie en het   verloop van de controle.<BR><BR>Ouders die voor huisonderwijs kiezen verbinden   zich ertoe alle documenten te overhandigen die de uitvoering van de voormelde   controle mogelijk moeten maken.<BR><BR>De voormelde controle kan uitgevoerd   worden hetzij op de plaats waar het onderwijs wordt verstrekt, hetzij op een   plaats die de onderwijsinspectie aanwijst en waarmee de ouders zich akkoord   verklaren.<BR><BR>De voormelde controle wordt uitgevoerd door minstens twee   onderwijsinspecteurs, die de mogelijkheid moeten krijgen om de betrokken   leerplichtige inzake het huisonderwijs te observeren en te   spreken.
+De controle door de onderwijsinspectie, vermeld in artikel 110/31, § 1, van de codex wordt uitgevoerd na afspraak tussen de onderwijsinspectie en de ouders, waarna ook schriftelijke afspraken volgen over de organisatie en het verloop van de controle.&nbsp;Om de afspraak vast te leggen, stelt de onderwijsinspectie drie data voor. Als de ouders weigeren om op een van deze data in te gaan, wordt dat beschouwd als het niet aanvaarden van een controle als vermeld in artikel 110/31, §3, van de codex.<br>
+<br>
+Ouders die voor huisonderwijs kiezen verbinden zich ertoe alle documenten te overhandigen die de uitvoering van de voormelde controle mogelijk moeten maken.<br>
+<br>
+De voormelde controle kan uitgevoerd worden hetzij op de plaats waar het onderwijs wordt verstrekt, hetzij op een plaats die de onderwijsinspectie aanwijst.&nbsp;Als het volgens de onderwijsinspectie niet mogelijk is om de controle uit te voeren op de plaats waar het onderwijs wordt verstrekt en op de plaats die de onderwijsinspectie aanwijst, kan de onderwijsinspectie beslissen om de controle digitaal uit te voeren.<br>
+<br>
+De voormelde controle wordt uitgevoerd door minstens twee onderwijsinspecteurs, die de mogelijkheid moeten krijgen om de betrokken leerplichtige inzake het huisonderwijs te observeren en te spreken.
 
 ### ART. 14undecies/2.
 
-De onderwijsinspectie hanteert tijdens het controlebezoek de volgende   criteria om te controleren of het verstrekte huisonderwijs beantwoordt aan de   doelstellingen, vermeld in artikel 110/28 van de codex:<BR>1° de onderwijsdoelen   van het huisonderwijs;<BR>2° de afstemming van het verstrekte huisonderwijs op   de leerbehoefte van de leerling;<BR>3° de planning van het huisonderwijs;<BR>4°   de wijze waarop het huisonderwijs structuur krijgt;<BR>5° de beschikbaarheid van   leermiddelen;<BR>6° de tijd die besteed wordt aan het huisonderwijs;<BR>7° het   voorzien van een evaluatie van de onderwijsdoelen.<BR><BR>Aan de hand van de   criteria, vermeld in het eerste lid, beoordeelt de onderwijsinspectie meer   specifiek:<BR>1° of voor de leerplichtigen die conform artikel 110/30 van de   codex verplicht zijn een getuigschrift of diploma te behalen bij de   examencommissie, via het huisonderwijs gewerkt wordt aan een voldoende   evenwichtig aanbod van de basisvorming;<BR>2° of het huisonderwijs heeft geleid   tot meer kennis en vaardigheden;<BR>3° of de vakken van de basisvorming van het   examenprogramma, die voldoende gericht zijn op de daarin na te streven   ontwikkelingsdoelen of te bereiken eindtermen, aan bod komen.
+De onderwijsinspectie hanteert tijdens het controlebezoek de volgende criteria om te controleren of het verstrekte huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 110/28 van de codex:<br>
+1° de onderwijsdoelen van het huisonderwijs;<br>
+2° de afstemming van het verstrekte huisonderwijs op de leerbehoefte van de leerling;<br>
+3° de planning van het huisonderwijs;<br>
+4° de wijze waarop het huisonderwijs structuur krijgt;<br>
+5° de beschikbaarheid van leermiddelen;<br>
+6° de tijd die besteed wordt aan het huisonderwijs;<br>
+7° het voorzien van een evaluatie van de onderwijsdoelen;<br>
+8° het nastreven van sociale participatie.<br>
+<br>
+Aan de hand van de criteria, vermeld in het eerste lid, beoordeelt de onderwijsinspectie meer specifiek:<br>
+1° of voor de leerplichtigen die conform artikel 110/30 van de codex verplicht zijn een getuigschrift of diploma te behalen bij de examencommissie, via het huisonderwijs gewerkt wordt aan een voldoende evenwichtig aanbod van de basisvorming;<br>
+2° of het huisonderwijs heeft geleid tot meer kennis en vaardigheden;<br>
+3° of de vakken van de basisvorming van het examenprogramma, die voldoende gericht zijn op de daarin na te streven ontwikkelingsdoelen of te bereiken eindtermen, aan bod komen.<br>
+<br>
+Als de onderwijsinspectie bij een controle vaststelt, dat het verstrekte onderwijs kennelijk niet beantwoordt aan de minimumeisen, vermeld in artikel 110/28, tweede lid, van de codex, wordt binnen zes maanden na de controle een nieuwe afspraak gemaakt voor een controle als vermeld in artikel 14 undecies/1. De termijn wordt geschorst tijdens de duur van de kerst-, paas- en zomervakantie.
 
 ### ART. 14duodecies.
 
@@ -210,7 +231,17 @@ Een aanvraag tot het hervatten van huisonderwijs, vermeld in artikel 1, § 6, ze
 
 ### ART. 14terdecies.
 
-§ 1. De onderwijsinspectie onderzoekt of er voldoende garanties aanwezig zijn dat het huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 1, § 6, derde lid, van de wet van 29 juni 1983 betreffende de leerplicht, en beslist over de mogelijkheid om het huisonderwijs te hervatten.<br /><br />§ 2. Het onderzoek, vermeld in paragraaf 1, wordt uitgevoerd op basis van de schriftelijke aanvraag, vermeld in artikel 14duodecies.<br /><br />§ 3. De beslissing, vermeld in paragraaf 1, wordt gemotiveerd en binnen veertien kalenderdagen na de ontvangst van de schriftelijke aanvraag met een aangetekende brief aan de personen die het ouderlijke gezag uitoefenen of in rechte of in feite de minderjarige leerling onder hun bewaring hebben betekend. De poststempel geldt als datum van de betekening.<br /><br />In afwijking van het eerste lid wordt de termijn waarin de inspectie een beslissing moet nemen, geschorst tijdens en voor de duur van de kerst-, paas- en zomervakantie.<br /><br />§ 4. Een gebrek aan een beslissing binnen de in paragraaf 3 vermelde termijn, wordt geacht een toestemming voor de hervatting van huisonderwijs te zijn.
+§ 1. De onderwijsinspectie onderzoekt of er voldoende garanties aanwezig zijn dat het huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 1, § 6, derde lid, van de wet van 29 juni 1983 betreffende de leerplicht, en beslist over de mogelijkheid om het huisonderwijs te hervatten.<br>
+<br>
+§ 2. Het onderzoek, vermeld in paragraaf 1, wordt uitgevoerd op basis van de schriftelijke aanvraag, vermeld in artikel 14duodecies.<br>
+<br>
+§ 3. De beslissing, vermeld in paragraaf 1, wordt gemotiveerd en binnen dertig kalenderdagen na de ontvangst van de schriftelijke aanvraag met een aangetekende brief aan de personen die het ouderlijke gezag uitoefenen of in rechte of in feite de minderjarige leerling onder hun bewaring hebben betekend. De poststempel geldt als datum van de betekening.<br>
+<br>
+Als de onderwijsinspectie bij een controle vaststelt, dat het verstrekte onderwijs kennelijk niet beantwoordt aan de minimumeisen, vermeld in artikel 110/28, tweede lid, van de codex, wordt binnen zes maanden na de controle een nieuwe afspraak gemaakt voor een controle als vermeld in artikel 14 undecies/1. De termijn wordt geschorst tijdens de duur van de kerst-, paas- en zomervakantie.<br>
+<br>
+In afwijking van het eerste lid wordt de termijn waarin de inspectie een beslissing moet nemen, geschorst tijdens en voor de duur van de kerst-, paas- en zomervakantie.<br>
+<br>
+§ 4. Een gebrek aan een beslissing binnen de in paragraaf 3 vermelde termijn, wordt geacht een toestemming voor de hervatting van huisonderwijs te zijn.
 
 ### ART. 14quaterdecies.
 

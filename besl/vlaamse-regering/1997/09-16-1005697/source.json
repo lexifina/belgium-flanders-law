@@ -2,16 +2,16 @@
   "codex_id": 1005697,
   "title": "Besluit van de Vlaamse Regering van 1997-09-16 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs [of in het stelsel van leren en werken (verv. BVR 24/10/2008, art. 23)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005697/VolledigDocument?datum=2025-09-01",
-  "source_sha256": "e42a5ee3ccc3712fb7acf2b7521df3effd9e197c57f590faca01d4a0bf40abdd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005697/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "e9f9ac5d0e5422a5a2846a28066146800cfaca4148b0f91391cf9d76189cdbc4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005697&param=informatie",
-  "as_of": "2025-09-01",
+  "as_of": "2025-10-01",
   "made": "1997-09-16",
   "gazette": "1997-10-31",
   "numac": 1997036302,
   "document_start": "1997-09-01",
   "document_end": null,
-  "in_force": "2025-09-01",
+  "in_force": "2025-10-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2025-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
