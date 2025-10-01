@@ -98,7 +98,8 @@ De volgende beroepskwalificaties gelden voor de vierde graad van de langlopende 
 De volgende beroepskwalificaties gelden voor de vierde graad van de langlopende studierichtingen van het domein woordkunst-drama, vermeld in artikel 16, § 1, van het decreet van 9 maart 2018:<br>
 1° creërend acteur: amateur creërend acteur;<br>
 2° theaterregisseur: amateur regisseur podiumkunsten;<br>
-3° vertolkend acteur: amateur vertolkend acteur.<br>
+3° vertolkend acteur: amateur vertolkend acteur;<br>
+4° audiomaker: amateur audiomaker.<br>
 &nbsp;
 
 ### ART 11.
