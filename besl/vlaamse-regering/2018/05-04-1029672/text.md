@@ -373,25 +373,25 @@ d) woordkunst-drama;<br>
 a) speltheater;<br>
 b) verteltheater;<br>
 4° in de studierichting creërend acteur in de vierde graad:<br>
-a) cabaret en comedy;<br>
-b) figuren- en poppentheater;<br>
-c) improvisatietheater;<br>
-d) kleinkunst;<br>
-e) mime en bewegingstheater;<br>
-f) radio maken;<br>
-g) spreek- en verteltheater;<br>
-h) theatermaker;<br>
+a)&nbsp;&nbsp; &nbsp;cabaret en comedy;<br>
+b)&nbsp;&nbsp; &nbsp;figuren- en poppentheater;<br>
+c)&nbsp;&nbsp; &nbsp;improvisatietheater;<br>
+d)&nbsp;&nbsp; &nbsp;kleinkunst;<br>
+e)&nbsp;&nbsp; &nbsp;mime en bewegingstheater;<br>
+f)&nbsp;&nbsp; &nbsp;spreek- en verteltheater;<br>
+g)&nbsp;&nbsp; &nbsp;theatermaker;<br>
 5° in de studierichting theaterregisseur in de vierde graad: regie;<br>
-6° in de kortlopende studierichting woordkunst- en dramacultuur:<br>
-a) woordkunst- en dramacultuur;<br>
-b) recensent woordkunst-drama;<br>
-7° in de kortlopende studierichting schrijver:<br>
-a) proza;<br>
-b) poëzie;<br>
-c) dramateksten;<br>
-d) literaire non-fictie;<br>
-e) literaire teksten;<br>
-8° in de kortlopende studierichting specialisatie woordkunst-drama: de opties, vermeld in punt 3° tot en met 5°.
+6° in de studierichting audiomaker in de vierde graad: radio maken;<br>
+7° in de kortlopende studierichting woordkunst- en dramacultuur:<br>
+a)&nbsp;&nbsp; &nbsp;woordkunst- en dramacultuur;<br>
+b)&nbsp;&nbsp; &nbsp;recensent woordkunst-drama;<br>
+8° in de kortlopende studierichting schrijver:<br>
+a)&nbsp;&nbsp; &nbsp;proza;<br>
+b)&nbsp;&nbsp; &nbsp;poëzie;<br>
+c)&nbsp;&nbsp; &nbsp;dramateksten;<br>
+d)&nbsp;&nbsp; &nbsp;literaire non-fictie;<br>
+e)&nbsp;&nbsp; &nbsp;literaire teksten;<br>
+9° in de kortlopende studierichting specialisatie woordkunst-drama: de opties, vermeld in punt 3° tot en met 6°.
 
 ## Onderafdeling 2. Vakken
 
@@ -444,7 +444,7 @@ g) tekstschrijven en -vertolken;<br>
 7° in de studierichting creërend acteur in de optie figuren- en poppentheater: figuren- en poppentheater;<br>
 8° in de studierichting creërend acteur in de optie improvisatietheater: improvisatietheater;<br>
 9° in de studierichting creërend acteur in de optie mime en bewegingstheater: mime en bewegingstheater;<br>
-10° in de studierichting creërend acteur in de optie radio maken: radio maken;<br>
+10° in de studierichting audiomaker in de optie radio maken: radio maken;<br>
 11° in de studierichting theaterregisseur in de optie regie:<br>
 a) dramaturgie;<br>
 b) spelcoaching;<br>
