@@ -48,7 +48,7 @@ Eveneens in afwijking van het eerste lid kan steun worden toegekend met toepassi
 
 ### ART 3.
 
-De onderneming die een steunaanvraag indient als subsidiegerechtigde in een consortium, mag op de datum van de toekenning van de steun geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees of nationaal recht hebben lopen, waarbij een toegekende steun wordt teruggevorderd als vermeld in artikel 1, lid 4, van de voormelde verordening.<br>
+Er wordt alleen steun verleend aan subsidiegerechtigden in een consortium die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 Er kan geen steun worden toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen als vermeld in artikel 1, lid 2, van de voormelde verordening.<br>
 <br>
@@ -295,7 +295,9 @@ De Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, maakt de no
 
 Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen beslist binnen negentig werkdagen na de ontvangst van de steunaanvraag, onverminderd de verlenging, vermeld in artikel 18, tweede lid, artikel 19, tweede lid, en artikel 24, tweede lid, of de steunaanvraag voldoet aan de beoordelingsvoorwaarden, vermeld in artikel 25, en verleent in voorkomend geval steun conform de voorwaarden, vermeld in dit besluit.<br>
 <br>
-Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van bijkomende concrete voorwaarden die het oplegt, zodat een project bij de uitvoering voldoet aan de bepalingen van dit besluit.
+Het beslissingscomité bij het Fonds voor Innoveren en Ondernemen kan de steunverlening afhankelijk maken van bijkomende concrete voorwaarden die het oplegt, zodat een project bij de uitvoering voldoet aan de bepalingen van dit besluit.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen, of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART 28.
 

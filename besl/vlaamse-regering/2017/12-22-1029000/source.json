@@ -2,16 +2,16 @@
   "codex_id": 1029000,
   "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot regeling van steun aan consortia van ondernemingen voor onderzoek en ontwikkeling, ingebed in een ruimer samenwerkingsverband met onderzoeksorganisaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029000/VolledigDocument?datum=2021-06-09",
-  "source_sha256": "a36d0c7fb88c4c720276abdddffac99e061c33d338447d36e98a41a1d9985863",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029000/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "c644cf96635cb76d789e885f05bbf05b0030b77176ba2d2f3488a10560aa4c01",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029000&param=informatie",
-  "as_of": "2021-06-09",
+  "as_of": "2025-10-01",
   "made": "2017-12-22",
   "gazette": "2018-02-12",
   "numac": 2018010262,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2021-06-09",
+  "in_force": "2025-10-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2021-06-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }
