@@ -58,7 +58,7 @@ Alle steun die toegekend wordt met toepassing van dit besluit en de uitvoeringsb
 
 ### ART 3.
 
-Op de indieningsdatum van de steunaanvraag mag de steunaanvrager geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht als vermeld in artikel 1, lid 4, van de voormelde verordening, of nationaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
+Er wordt alleen steun verleend aan ondernemingen die op de datum van de indiening van de steunaanvraag en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
 <br>
 Er kan geen steun worden toegekend met toepassing van dit besluit voor werkzaamheden die verband houden met de uitvoer naar derde landen of voor werkzaamheden die afhangen van het gebruik van binnenlandse goederen als vermeld in artikel 1, lid 2, van de voormelde verordening.<br>
 <br>
@@ -344,7 +344,9 @@ b) aantoont dat het project loopt;<br>
 3° een derde schijf van 30% op zijn vroegst dertig dagen na de datum van de steuntoekenning op voorwaarde dat:<br>
 a) de steunaanvrager de uitbetaling van de schijf aanvraagt;<br>
 b) de steunaanvrager verklaart dat de uitgaven die in aanmerking komen voor steun, volledig betaald zijn;<br>
-c) het Agentschap Innoveren en Ondernemen gecontroleerd heeft dat alle voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit, de uitvoeringsbesluiten en de beslissing tot steuntoekenning, vermeld in artikel 39 en 40, zijn nageleefd.
+c) het Agentschap Innoveren en Ondernemen gecontroleerd heeft dat alle voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit, de uitvoeringsbesluiten en de beslissing tot steuntoekenning, vermeld in artikel 39 en 40, zijn nageleefd.<br>
+<br>
+Als de steunaanvrager een openstaande en niet in het kader van een gerechtelijke procedure betwiste schuld heeft bij het Agentschap Innoveren en Ondernemen of het Fonds voor Innoveren en Ondernemen, vermeld in artikel 41, §1, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt de uitbetaling opgeschort tot het teruggevorderde bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART 43.
 
