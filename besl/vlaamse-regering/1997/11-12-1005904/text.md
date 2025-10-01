@@ -195,7 +195,13 @@ De leerplichtige voldoet niet aan de leerplicht wanneer aan de bepalingen,   ver
 
 ### ART. 10decies/1.
 
-De controle door de onderwijsinspectie, vermeld in artikel 26ter, § 1, van   het decreet basisonderwijs van 25 februari 1997, wordt uitgevoerd na afspraak   tussen de onderwijsinspectie en de ouders, waarna ook schriftelijke afspraken   volgen over de organisatie en het verloop van de controle.<BR><BR>Ouders die   voor huisonderwijs kiezen verbinden zich ertoe alle documenten te overhandigen   die de uitvoering van de voormelde controle mogelijk moeten maken.<BR><BR>De   voormelde controle kan uitgevoerd worden hetzij op de plaats waar het onderwijs   wordt verstrekt, hetzij op een plaats die de onderwijsinspectie aanwijst en   waarmee de ouders zich akkoord verklaren.<BR><BR>De voormelde controle wordt   uitgevoerd door minstens twee onderwijsinspecteurs, die de mogelijkheid moeten   krijgen om de betrokken leerplichtige inzake het huisonderwijs te observeren en   te spreken.<BR>
+De controle door de onderwijsinspectie, vermeld in artikel 26ter, § 1, van het decreet basisonderwijs van 25 februari 1997, wordt uitgevoerd na afspraak tussen de onderwijsinspectie en de ouders, waarna ook schriftelijke afspraken volgen over de organisatie en het verloop van de controle.&nbsp;Om de afspraak vast te leggen, stelt de onderwijsinspectie drie data voor. Als de ouders weigeren om op een van die data in te gaan, wordt dat beschouwd als het niet aanvaarden van een controle als vermeld in artikel 26ter, §3, van het decreet basisonderwijs van 25 februari 1997.<br>
+<br>
+Ouders die voor huisonderwijs kiezen verbinden zich ertoe alle documenten te overhandigen die de uitvoering van de voormelde controle mogelijk moeten maken.<br>
+<br>
+De voormelde controle kan uitgevoerd worden hetzij op de plaats waar het onderwijs wordt verstrekt, hetzij op een plaats die de onderwijsinspectie aanwijst.&nbsp;Als het volgens de onderwijsinspectie niet mogelijk is om de controle uit te voeren op de plaats waar het onderwijs wordt verstrekt en op de plaats die de onderwijsinspectie aanwijst, kan de onderwijsinspectie beslissen om de controle digitaal uit te voeren.<br>
+<br>
+De voormelde controle wordt uitgevoerd door minstens twee onderwijsinspecteurs, die de mogelijkheid moeten krijgen om de betrokken leerplichtige inzake het huisonderwijs te observeren en te spreken.
 
 ### ART. 10decies/2.
 
@@ -206,12 +212,15 @@ De onderwijsinspectie hanteert tijdens het controlebezoek de volgende criteria o
 4° de wijze waarop het huisonderwijs structuur krijgt;<br>
 5° de beschikbaarheid van leermiddelen;<br>
 6° de tijd die besteed wordt aan het huisonderwijs;<br>
-7° het voorzien van een evaluatie van de onderwijsdoelen.<br>
+7° het voorzien van een evaluatie van de onderwijsdoelen;<br>
+8° het nastreven van sociale participatie.<br>
 <br>
 Aan de hand van de criteria, vermeld in het eerste lid, beoordeelt de onderwijsinspectie meer specifiek:<br>
 1° of voor de leerplichtigen die conform artikel 26bis/2 van het voormelde decreet basisonderwijs van 25 februari 1997 verplicht zijn een getuigschrift te behalen bij de examencommissie, via het huisonderwijs gewerkt wordt aan een voldoende evenwichtig aanbod van de verschillende leergebieden;<br>
 2° of het huisonderwijs heeft geleid tot meer kennis en vaardigheden;<br>
-3° of, naargelang de leeftijd, alle leergebieden, vermeld in artikel 39 of 40 van het decreet basisonderwijs van 25 februari 1997, aan bod komen.
+3° of, naargelang de leeftijd, alle leergebieden, vermeld in artikel 39 of 40 van het decreet basisonderwijs van 25 februari 1997, aan bod komen.<br>
+<br>
+Als de onderwijsinspectie bij een controle vaststelt, dat het verstrekte onderwijs kennelijk niet beantwoordt aan de minimumeisen, vermeld in artikel 26bis van het decreet basisonderwijs van 25 februari 1997, wordt binnen zes maanden na de controle een nieuwe afspraak gemaakt voor een controle als vermeld in artikel 10decies/1. De termijn wordt geschorst tijdens de kerst-, paas- en zomervakantie.
 
 ### ART. 10undecies.
 
@@ -219,7 +228,17 @@ Een aanvraag tot het hervatten van huisonderwijs, vermeld in artikel 26ter, § 3
 
 ### ART. 10duodecies.
 
-§ 1. De onderwijsinspectie onderzoekt of er voldoende garanties aanwezig zijn dat het huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 26ter, § 3, tweede lid, van het decreet basisonderwijs van 25 februari 1997, en beslist over de mogelijkheid om het huisonderwijs te hervatten.<br /><br />§ 2. Het onderzoek, vermeld in paragraaf 1, wordt uitgevoerd op basis van de schriftelijke aanvraag, vermeld in artikel 10undecies.<br /><br />§ 3. De beslissing, vermeld in paragraaf 1, wordt gemotiveerd en binnen veertien kalenderdagen na de ontvangst van de schriftelijke aanvraag, met een aangetekende brief aan de ouders betekend. De poststempel geldt als datum van de betekening.<br /><br />In afwijking van het eerste lid wordt de termijn waarin de inspectie een beslissing moet nemen, geschorst tijdens en voor de duur van de kerst-, paas- en zomervakantie.<br /><br />§ 4. Een gebrek aan een beslissing binnen de in paragraaf 3 vermelde termijn, wordt geacht een toestemming voor de hervatting van huisonderwijs te zijn.
+§ 1. De onderwijsinspectie onderzoekt of er voldoende garanties aanwezig zijn dat het huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 26ter, § 3, tweede lid, van het decreet basisonderwijs van 25 februari 1997, en beslist over de mogelijkheid om het huisonderwijs te hervatten.<br>
+<br>
+§ 2. Het onderzoek, vermeld in paragraaf 1, wordt uitgevoerd op basis van de schriftelijke aanvraag, vermeld in artikel 10undecies.<br>
+<br>
+§ 3. De beslissing, vermeld in paragraaf 1, wordt gemotiveerd en binnen dertig kalenderdagen na de ontvangst van de schriftelijke aanvraag, met een aangetekende brief aan de ouders betekend. De poststempel geldt als datum van de betekening.<br>
+<br>
+Als de onderwijsinspectie van oordeel is dat het voor het onderzoek, vermeld in paragraaf 1, noodzakelijk is dat er een afspraak of bezoek aan de plaats waar het huisonderwijs zal worden verstrekt, wordt georganiseerd en het is niet mogelijk dit gesprek binnen de termijn van dertig dagen, vermeld in het eerste lid, te laten doorgaan, wordt de termijn verlengd met dertig dagen.<br>
+<br>
+In afwijking van het eerste lid wordt de termijn waarin de inspectie een beslissing moet nemen, geschorst tijdens en voor de duur van de kerst-, paas- en zomervakantie.<br>
+<br>
+§ 4. Een gebrek aan een beslissing binnen de in paragraaf 3 vermelde termijn, wordt geacht een toestemming voor de hervatting van huisonderwijs te zijn.
 
 ### ART. 10terdecies.
 
