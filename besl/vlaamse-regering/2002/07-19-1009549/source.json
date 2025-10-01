@@ -2,16 +2,16 @@
   "codex_id": 1009549,
   "title": "Besluit van de Vlaamse Regering van 2002-07-19 houdende vaststelling van de kiesprocedure voor de Raad van het Gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009549/VolledigDocument?datum=2018-03-01",
-  "source_sha256": "9a4b2364e96811d15616226f1ba161c497f67a515c812bbf861961039033dcfd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009549/VolledigDocument?datum=2025-10-01",
+  "source_sha256": "7fa7dca438075239ca1b5a1244008b523e4aa0da5dfb448397d5678580f7e01f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009549&param=informatie",
-  "as_of": "2018-03-01",
+  "as_of": "2025-10-01",
   "made": "2002-07-19",
   "gazette": "2002-08-30",
   "numac": 2002036108,
   "document_start": "2002-08-30",
   "document_end": null,
-  "in_force": "2018-03-01",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2018-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-10-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
 }

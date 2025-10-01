@@ -8,7 +8,7 @@
 
 ### ART. 2.
 
-Uiterlijk op [1 april (verv. B.V.R. 3 februari 2006, art. 3, I: 5 maart 2006) ] van de kiesperiode bezorgen de algemeen directeurs de door het college van directeurs opgemaakte lijst van de schoolraden die bestaan op 1 januari van de kiesperiode aan de [afgevaardigd bestuurder. (verv. B.V.R. 3 februari 2006, art. 3, I: 5 maart 2006) ]
+Uiterlijk op 1 september van de kiesperiode bezorgen de algemeen directeurs de lijst van de schoolraden die het college van directeurs heeft opgesteld, aan de afgevaardigd bestuurder.
 
 ## HOOFDSTUK II VERKIEZING VAN LEDEN VAN DE RAAD DOOR KIESCOLLEGE
 
@@ -26,12 +26,26 @@ Het kiesbureau neemt alle noodzakelijke maatregelen om het regelmatig verloop va
 
 Het kiesbureau wordt samengesteld&nbsp;uiterlijk op 1 februari van de kiesperiode.
 
+### ART 5/1.
+
+De verkiezingen verlopen op digitale wijze. Het kiesbureau beslist welke verkiezingstool wordt gebruikt en stelt een handleiding op voor het gebruik van de tool en de praktische organisatie van de digitale verkiezingen.<br>
+<br>
+Het kiesbureau kan beslissen om de verkiezingen schriftelijk te organiseren.&nbsp;<br>
+<br>
+De beslissing, vermeld in het tweede lid, wordt genomen uiterlijk op 1 maart van de kiesperiode.&nbsp;<br>
+<br>
+De bepalingen over de schriftelijke stemverrichtingen en de schriftelijke telling van de stemmen worden vastgelegd door het kiesbureau in een handleiding bij het kiesreglement.<br>
+<br>
+De verkiezingen vinden plaats tijdens een fysieke schoolraad. Als de schoolraden fysiek niet kunnen samenkomen door overmacht, zijn de artikels over de stemming op afstand door de directeurs van de centra voor leerlingenbegeleiding, vermeld in artikel 13, ook van toepassing op de overige kiesgerechtigden. Het kiesbureau bepaalt in dat geval de verdere stappen die moeten worden genomen om de verkiezingsprocedure op afstand te organiseren.<br>
+<br>
+De kiesprocedure die wordt gevolgd tijdens een kiesperiode, is van toepassing op alle kiesgerechtigden.
+
 ## AFDELING 2 DE KIESGERECHTIGDEN
 
 ### ART. 6.
 
 Er is geen stemplicht. Zijn kiesgerechtigd voor de verkiezing van de eerste geleding van vijf rechtstreeks te verkiezen leden van de Raad:<br>
-1° de drie leden van de schoolraad, rechtstreeks verkozen door en uit de ouders van de regelmatige leerlingen, uitgezonderd in het onderwijs voor sociale promotie en het deeltijds kunstonderwijs voor volwassenen, waar de meerderjarige cursisten kiesgerechtigd en verkiesbaar zijn;<br>
+1° de drie leden van de schoolraad, rechtstreeks verkozen door en uit de ouders van de regelmatige leerlingen, uitgezonderd in het volwassenenonderwijs en het deeltijds kunstonderwijs voor volwassenen, waar de meerderjarige cursisten kiesgerechtigd en verkiesbaar zijn;<br>
 2° de twee gecoöpteerde leden van de schoolraad.<br>
 <br>
 Zijn kiesgerechtigd voor de verkiezing van de tweede geleding van vijf rechtstreeks te verkiezen leden van de Raad:<br>
@@ -62,6 +76,10 @@ Deze oproep vermeldt:<br>
 
 ## AFDELING 4 DE KANDIDATUREN
 
+### ART 7/1.
+
+Iedereen die op 1 april van de kiesperiode naar Belgisch recht meerderjarig is, kan zich kandidaat stellen.
+
 ### ART. 8.
 
 De kandidaatstelling voor de rechtstreekse verkiezingen vermeldt de naam, de voornaam, de geboortedatum en de woonplaats. De kandidaatstelling wordt conform de voorschriften uit de oproep uiterlijk op 1 juni van de kiesperiode bezorgd aan de voorzitter van het kiesbureau.
@@ -76,24 +94,19 @@ Het kiesbureau maakt uiterlijk op [15 juni  <span class="reference">(verv. B.V.R
 
 ### ART. 10.
 
-§ 1. Indien het aantal kandidaten per geleding gelijk is aan het aantal te begeven mandaten, zoals bepaald in artikel 31, § 1, 1° en 2° van het bijzonder decreet, worden zij door het kiesbureau als verkozen verklaard.<br>
+§1. Indien het aantal kandidaten per geleding gelijk is aan het aantal te begeven mandaten, zoals bepaald in artikel 31, § 1, 1° en 2° van het bijzonder decreet, worden zij door het kiesbureau als verkozen verklaard.<br>
 <br>
-§ 2. Indien er voor de eerste respectievelijk de tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op&nbsp;15 september&nbsp;van de kiesperiode, aan de schooldirecteur:<br>
-- de lijst met de kandidaten;<br>
-- een kopie van de kandidaatstellingen (KRR 1);<br>
-- de nodige stembiljetten (KRR 2 en KRR 3);<br>
-- de omslagen (KRR 4 en KRR 5);<br>
-- het formulier voor het opmaken van het proces-verbaal (KRR 6).<br>
+§2. Als er voor de eerste of de tweede geleding meer dan vijf kandidaten zijn, stuurt het kiesbureau, uiterlijk op 15 september van de kiesperiode, de volgende documenten naar de schooldirecteur:<br>
+1° de lijst met de kandidaten;<br>
+2° een kopie van de kandidaatstellingen.<br>
 <br>
-Uiterlijk op&nbsp;20 september&nbsp;van de kiesperiode leggen de schooldirecteurs het document kandidaatstelling (KRR1) en de kandidatenlijst ter inzage van alle kiesgerechtigden.<br>
+Uiterlijk op 20 september van de kiesperiode leggen de schooldirecteurs het document kandidaatstelling en de kandidatenlijst ter inzage van alle kiesgerechtigden.<br>
 <br>
 Het kiesbureau plaatst de kandidatenlijst en de documenten kandidaatstelling op de website van de administratieve diensten.<br>
 <br>
-§ 3. Indien er voor de eerste, respectievelijk tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op&nbsp;15 september&nbsp;van de kiesperiode, aan de directeurs van de centra voor leerlingenbegeleiding:<br>
+§3. Indien er voor de eerste, respectievelijk tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op&nbsp;15 september&nbsp;van de kiesperiode, aan de directeurs van de centra voor leerlingenbegeleiding:<br>
 - de lijst met de kandidaten;<br>
-- een kopie van de kandidaatstellingen (KRR 1);<br>
-- een stembiljet (KRR 3);<br>
-- een omslag (KRR 5).
+- een kopie van de kandidaatstellingen (KRR 1).
 
 ## AFDELING 5 DE STEMVERRICHTINGEN
 
@@ -103,33 +116,31 @@ De stemming gebeurt per schoolraad uitgezonderd voor de directeurs van de centra
 
 ### ART. 12.
 
-§ 1. De rechtstreekse verkiezingen hebben plaats tijdens een vergadering van de schoolraad die doorgaat in de periode&nbsp;van 1 oktober tot en met 15 oktober van de kiesperiode.<br>
+§1. De rechtstreekse verkiezingen hebben plaats tijdens een vergadering van de schoolraad die doorgaat in de periode&nbsp;van 1 oktober tot en met 15 oktober van de kiesperiode.<br>
 <br>
-§ 2. De voorzitter van de schoolraad geeft aan de kiesgerechtigden voor de respectieve geledingen, zoals bedoeld in artikel 6 het stembiljet (KRR 2 of KRR 3 naargelang het geval) en een omslag (KRR 4 of KRR 5, naargelang het geval). Stembrieven die om één of andere reden te onderscheiden zijn van de andere stembrieven worden door de voorzitter van de schoolraad ongeldig gemaakt door alle kandidaten aan te kruisen en vernietigd.<br>
+§2. De praktische organisatie van de stemverrichtingen verloopt op de wijze die het centraal kiesbureau vaststelt in de handleiding, vermeld in artikel 5/1.<br>
 <br>
-§ 3. Elk aanwezig lid van de schoolraad brengt voor de betreffende geleding zijn stem uit door het stemvak van maximaal vijf kandidaten aan te kruisen.<br>
+Elk aanwezig lid van de schoolraad is gerechtigd een stem uit te brengen op maximaal vijf kandidaten. Stemmen bij volmacht is uitgesloten<br>
 <br>
-§ 4. De kiesgerechtigde brengt zijn stem uit en steekt het geplooide stembiljet (KRR 2 of KRR 3, naargelang het geval) in de omslag (KRR 4 of KRR 5, naargelang het geval). Hij kleeft de omslag dicht en geeft hem af aan de voorzitter van de schoolraad.<br>
+§3. ...<br>
 <br>
-§ 5. In geval van vergissing kan de kiesgerechtigde bij de voorzitter van de schoolraad een nieuwe stembrief vragen.<br>
+§4. ...<br>
 <br>
-De ingeleverde stembrief wordt vooraf door de kiesgerechtigde ongeldig gemaakt door alle kandidaten aan te kruisen. Hij overhandigt deze ongeldige stembrief vervolgens aan de voorzitter van de schoolraad, die hem onmiddellijk vernietigt.<br>
+§5. ...<br>
 <br>
-§ 6. Van de stemverrichtingen wordt een proces-verbaal (KRR 6) opgemaakt.<br>
+§6. Van de stemverrichtingen wordt een proces-verbaal (6) opgemaakt.<br>
 <br>
 De aanwezige leden van de schoolraad en de schooldirecteur(s) ondertekenen het proces-verbaal. Elke door een lid van de schoolraad of door de schooldirecteur(s) vastgestelde onregelmatigheid moet in het proces-verbaal worden opgenomen. Het proces-verbaal wordt in twee exemplaren opgemaakt. Eén exemplaar wordt door de schoolraad in zijn archief bewaard.<br>
 <br>
-§ 7. Onmiddellijk na het afsluiten van de stemverrichtingen worden de omslagen met de geldige stembrieven en het tweede exemplaar van het proces-verbaal (KRR 6) in een gewone verzamelomslag gestoken.<br>
+§7. ...<br>
 <br>
-Deze verzamelomslag wordt uiterlijk op de werkdag volgend op de verkiezingen door de directeur aangetekend gezonden naar het kiesbureau.<br>
+§8. De stemming is vrij en geheim. De voorzitters van de schoolraden en de schooldirecteurs waken over het geheim van de stemming.<br>
 <br>
-§ 8. De stemming is vrij en geheim. De voorzitters van de schoolraden en de schooldirecteurs waken over het geheim van de stemming.<br>
-<br>
-§ 9. Stemmen bij volmacht is uitgesloten.
+§9. ...
 
 ### ART. 13.
 
-De directeur van het centrum voor leerlingenbegeleiding brengt zijn stem uit door het stemvak aan te kruisen naast maximum vijf kandidaten en steekt de geplooide stembrief (KRR 3) in de omslag (KRR 5). Hij kleeft de omslag dicht en stopt die in een tweede, gewone omslag. De tweede omslag wordt uiterlijk op&nbsp;15 oktober&nbsp; van de kiesperiode aangetekend gezonden naar de voorzitter van het kiesbureau.
+De directeur van het centrum voor leerlingenbegeleiding brengt een stem uit vanop afstand op de wijze die het centraal kiesbureau vaststelt in de handleiding, vermeld in artikel 5/1.
 
 ## AFDELING 6 DE VERRICHTINGEN VAN HET KIESBUREAU
 
@@ -137,17 +148,23 @@ De directeur van het centrum voor leerlingenbegeleiding brengt zijn stem uit doo
 
 Uiterlijk op 1 december organiseert het kiesbureau de samenkomst waarop de uitslag van de verkiezingen wordt vastgesteld. De uitslag van de verkiezingen wordt vastgesteld op een moment waarop alle leden van het kiesbureau aanwezig zijn.
 
+### ART 14/1.
+
+Als het kiesbureau conform artikel 5/1 bepaalt dat de verkiezingen schriftelijk worden georganiseerd, worden de stemmen geteld en wordt de uitslag vastgelegd volgens de handleiding, vermeld in artikel 5/1.
+
 ### ART. 15.
 
-<P>De volgende stembrieven zijn ongeldig <BR>1° de stembrieven waarop geen stem   is uitgebracht; <BR>2° de stembrieven waarop meer dan vijf kandidaten zijn   aangeduid; <BR>3° de stembrieven die de kiezer herkenbaar kunnen maken door   aantekeningen, tekens of doorhalingen. <BR><BR>Een stembrief waarop het   stemteken op onvolkomen wijze is aangebracht, wordt als geldig aangezien, als de   wil van de kiezer op voldoende wijze tot uiting is gebracht.</P>
+<p>...</p>
 
 ### ART. 16.
 
-Indien het kiesbureau onregelmatigheden bij de stemverrichtingen vaststelt, kan het de schoolraad opnieuw doen samenkomen voor een herverkiezing. Als onregelmatigheden worden inzonderheid beschouwd deze bedoeld in artikel 12, § 8 en § 9 van dit besluit. Het kiesbureau of een daardoor gemandateerde afvaardiging kan op deze vergadering aanwezig zijn. De data worden door het kiesbureau bepaald.
+Indien het kiesbureau onregelmatigheden bij de stemverrichtingen vaststelt, kan het de schoolraad opnieuw doen samenkomen voor een herverkiezing. Als onregelmatigheden worden inzonderheid beschouwd deze bedoeld in artikel 12, §2 en §8 van dit besluit. Het kiesbureau of een daardoor gemandateerde afvaardiging kan op deze vergadering aanwezig zijn. De data worden door het kiesbureau bepaald.
 
 ### ART. 17.
 
-De rangschikking van de kandidaten wordt per geleding bepaald door het aantal stemmen dat ieder van hen behaalde, in dalende volgorde.
+De rangschikking van de kandidaten wordt per geleding bepaald door het aantal stemmen dat ieder van hen behaalde, in dalende volgorde.<br>
+<br>
+Bij gelijkheid van stemmen wordt de rangschikking bij loting bepaald. De loting wordt uitgevoerd door de voorzitter van het kiesbureau.
 
 ### ART. 18.
 
