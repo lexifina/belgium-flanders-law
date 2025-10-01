@@ -26,7 +26,7 @@ De aanvraag voor de Rijdende kleuterschool Vlaanderen, zoals vermeld in artikel 
 
 ### ART. 4.
 
-De aanvraag wordt ingediend voor een periode van vijf kalenderjaren overeenkomstig artikel 169, § 5, van het decreet van 25 februari 1997. Uiterlijk op 1 oktober van het jaar dat voorafgaat aan de start van de periode van vijf kalenderjaren waarop de aanvraag betrekking heeft, moet het aanvraagdossier worden ingediend bij het Vlaams Ministerie van Onderwijs en Vorming, Departement Onderwijs en Vorming, afdeling Basisonderwijs en Deeltijds Kunstonderwijs, Koning Albert II-laan 15, 1210 Brussel.
+De aanvraag wordt ingediend voor een periode van vijf kalenderjaren overeenkomstig artikel 169, § 5, van het decreet van 25 februari 1997. Uiterlijk op 1 oktober van het jaar dat voorafgaat aan de start van de periode van vijf kalenderjaren waarop de aanvraag betrekking heeft, moet het aanvraagdossier worden ingediend bij het Vlaams Ministerie van Onderwijs en Vorming, Departement Onderwijs en Vorming.
 
 ## HOOFDSTUK 3 Kwaliteitsbeoordeling en toekenning van de subsidie en een verlof wegens bijzondere opdracht
 
