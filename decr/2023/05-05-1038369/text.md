@@ -2,6 +2,10 @@
 
 ## Hoofdstuk 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## Hoofdstuk 2. Definities
 
 ### ART 2.
@@ -25,6 +29,17 @@ In dit decreet wordt verstaan onder:<br>
 
 ## Hoofdstuk 3. Principes en kwaliteitskaders, -instrumenten en -indicatoren
 
+### ART 3.
+
+Bij kwaliteit van zorg gelden de volgende principes:<br>
+1° kwaliteit van zorg vormt een essentieel onderdeel en doel van maatschappelijk verantwoorde zorg en ondersteuning;<br>
+2° de ervaring van de zorggebruiker, en in voorkomend geval zijn wettelijke vertegenwoordiger, staat centraal en geldt als een belangrijke referentie voor kwaliteit van zorg. Kwaliteit van zorg draagt bij tot de kwaliteit van leven van de zorggebruiker, desgevallend van zijn naasten en houdt rekening met zijn persoonlijk netwerk;<br>
+3° kwaliteit van zorg wordt waar mogelijk onderbouwd door wetenschappelijke evidentie, op basis van kwantitatieve of kwalitatieve elementen en data;<br>
+4° kwaliteit van zorg is, met respect voor de autonomie en het sociaal ondernemerschap van de voorziening, een gedeelde verantwoordelijkheid van de voorzieningen en van de overheid, in dialoog met de zorggebruiker en rekening houdend met de vrije keuzes, de regie en de vooropgestelde zorg- en levensdoelen van de zorggebruiker, en in voorkomend geval zijn wettelijke vertegenwoordiger;<br>
+5° kwaliteit van zorg vereist transparantie, zowel wat de totstandkoming, als wat de uitvoering, de monitoring en de evaluatie ervan betreft;<br>
+6° kwaliteit van zorg vereist een continue aandacht voor de opportuniteiten die technologische, innovatieve, digitale of zorgvernieuwende toepassingen, hulpmiddelen en methodieken met zich mee kunnen brengen voor zowel de zorggebruiker, de voorzieningen als de overheid;<br>
+7° kwaliteit van zorg is het leidend richtsnoer voor de organisatie en uitvoering van de zorg en vertaalt zich in een impactgerichte kwaliteitscultuur.
+
 ## Hoofdstuk 4. Belanghebbendenoverleg en partnerorganisaties
 
 ### ART 5.
@@ -45,7 +60,30 @@ De betrokken administratie zit het belanghebbendenoverleg voor.<br>
 <br>
 De Vlaamse Regering kan voor de werking van het belanghebbendenoverleg procedures en modaliteiten bepalen.
 
+### ART 6.
+
+§1. De Vlaamse Regering kan in het kader van dit decreet en binnen de begrotingskredieten een of meer partnerorganisaties subsidiëren, voor een of meer opdrachten, vermeld in paragraaf 2.<br>
+<br>
+De Vlaamse Regering bepaalt het subsidiekader, conform artikel 76/2 van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
+<br>
+§2. De partnerorganisaties nemen minstens een van de volgende opdrachten op:<br>
+1° kwaliteitsindicatoren of kwaliteitsinstrumenten ontwikkelen en valideren, waar mogelijk geïnspireerd op internationale standaarden, en dit met aandacht voor sectorale, intersectorale als internationale benchmarking;<br>
+2° de implementatie van kwaliteitsindicatoren of andere kwaliteitsinstrumenten ondersteunen;<br>
+3° gegevens en resultaten van kwaliteit van zorg verzamelen;<br>
+4° de gegevens en resultaten, vermeld in punt 3°, ontsluiten op maat van verschillende doelgroepen en voor het brede publiek;<br>
+5° gebruikerservaringen verzamelen en publiek ontsluiten.<br>
+<br>
+De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader preciseren, de voorwaarden voor de uitvoering ervan bepalen en bijkomende opdrachten vastleggen.
+
 ## Hoofdstuk 5. Evaluatie, stimuli, sancties en proeftuinen
+
+### ART 8.
+
+De Vlaamse Regering kan maatregelen nemen, met inbegrip van financiële ondersteuning, die de voorzieningen stimuleren en responsabiliseren om kwaliteit van zorg te realiseren. De principes van doelregelgeving en een resultaatsgerichte financiering staan daarbij centraal.
+
+### ART 10.
+
+De Vlaamse Regering kan, per sector of gelijklopend voor meer sectoren, proeftuinen installeren die inzichten en beleidsaanbevelingen opleveren inzake kwaliteit van zorg. In de proeftuin kunnen vernieuwende ideeën in een concrete praktijksetting en in een regelluw kader uitgeprobeerd worden. De Vlaamse Regering bepaalt de modaliteiten voor deze proeftuinen, waaronder in elk geval de financiering.
 
 ## Hoofdstuk 6. Wijzigingsbepalingen
 
