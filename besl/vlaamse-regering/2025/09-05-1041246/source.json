@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041246,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot ontwikkeling van de onderwijskwalificatie graduaat in het retailmanagement en tot opheffing van het besluit van de Vlaamse Regering van 22 februari 2013 tot erkenning van de onderwijskwalificatie “graduaat in het winkelmanagement”",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041246/VolledigDocument?datum=2025-10-06",
+  "source_sha256": "ccfd547b82aae6e40645e625beb0b4ffa492d0e547180ec025025dcd73e96b50",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041246&param=informatie",
+  "as_of": "2025-10-06",
+  "made": "2025-09-05",
+  "gazette": "2025-09-26",
+  "numac": 2025006888,
+  "document_start": "2025-10-06",
+  "document_end": null,
+  "in_force": "2025-10-06",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-10-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
