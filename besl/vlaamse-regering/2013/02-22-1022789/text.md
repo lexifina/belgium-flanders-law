@@ -32,12 +32,12 @@
 
 ### ART. 1.
 
-De onderwijskwalificatie "graduaat in het winkelmanagement", ingeschaald   op niveau 5 van de Vlaamse kwalificatiestructuur, wordt erkend. De   onderwijskwalificatie "graduaat in het winkelmanagement" is ondergebracht in het   studiegebied "handelswetenschappen en bedrijfskunde" van het hoger   beroepsonderwijs. De studieomvang van de onderwijskwalificatie bedraagt 120   studiepunten.
+...
 
 ### ART. 2.
 
-De competenties van de onderwijskwalificatie "graduaat in het   winkelmanagement" zijn opgenomen in de beroepskwalificaties : <BR>1°   winkelmanager klein of middelgroot verkooppunt, erkend bij het besluit van de   Vlaamse Regering van 20 april 2012;<BR>2° departementsverantwoordelijke groot   verkooppunt, erkend bij het besluit van de Vlaamse Regering van 14 september   2012.
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.
+...
