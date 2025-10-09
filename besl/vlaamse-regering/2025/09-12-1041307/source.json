@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041307,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-12 over de Vlaamse beleidsprioriteiten 2026-2031 in het kader van het lokaal sociaal beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041307/VolledigDocument?datum=2025-10-09",
+  "source_sha256": "e481d077a238495c2ede7439df0919e01265da6069df930cf6f8cd6426e3b0d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041307&param=informatie",
+  "as_of": "2025-10-09",
+  "made": "2025-09-12",
+  "gazette": "2025-10-08",
+  "numac": 2025007329,
+  "document_start": "2025-10-09",
+  "document_end": null,
+  "in_force": "2025-10-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
