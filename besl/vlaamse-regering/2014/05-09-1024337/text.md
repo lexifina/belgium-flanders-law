@@ -122,7 +122,7 @@ g) voor gezinsopvang: het voldoen aan de mogelijkheid tot veilige evacuatie en a
 ### ART. 9.
 
 Naast het elektronische aanvraagformulier, vermeld in artikel 8, bezorgt de organisator de volgende documenten, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap:<br>
-1° een uittreksel uit het strafregister van de organisator als vermeld in artikel 5 en 49 van het Vergunningsbesluit van 22 november 2013;<br>
+1° een uittreksel uit het strafregister van de organisator als vermeld in artikel 5 en 58/1 van het Vergunningsbesluit van 22 november 2013;<br>
 2° een uittreksel uit het strafregister van de verantwoordelijke als vermeld in artikel 4 en 40, § 2, eerste lid, 1° , van het Vergunningsbesluit van 22 november 2013;<br>
 2/1° het indicatief advies van het ondersteuningsnetwerk kinderopvang in het kader van het starterstraject, als dat van toepassing is;<br>
 3° voor groepsopvang:<br>
