@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041289,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het Vergunningsbesluit van 22 november 2013, het Procedurebesluit van 9 mei 2014 en het besluit van de Vlaamse Regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041289/VolledigDocument?datum=2025-10-13",
+  "source_sha256": "119cab84b9a4052e25eef0d91ea84f986868fdadda1a50b8bd09e6a89e563293",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041289&param=informatie",
+  "as_of": "2025-10-13",
+  "made": "2025-09-05",
+  "gazette": "2025-10-03",
+  "numac": 2025007254,
+  "document_start": "2025-10-13",
+  "document_end": null,
+  "in_force": "2025-10-13",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2025-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
