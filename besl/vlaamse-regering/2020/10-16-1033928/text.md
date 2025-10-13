@@ -180,7 +180,7 @@ De organisator zorgt ervoor dat de begeleiders in de opvanglocatie voldoende, ac
 
 ### ART 16.
 
-De organisator beschikt voor zichzelf en voor de medewerkers over een recent uittreksel uit het strafregister conform artikel 11, tweede lid, 4°, van het decreet van 3 mei 2019.
+Overeenkomstig artikel 11, tweede lid, 4°, van het decreet van 3 mei 2019 controleert de organisator bij de aanstelling van elke persoon die in de opvanglocatie werkt, het goed zedelijk gedrag van de betrokkene, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt en beschikt voor.
 
 ## Afdeling 5. Monitoring en evaluatie
 
@@ -217,12 +217,12 @@ c) de gewenste startdatum van het kwaliteitslabel, die op zijn vroegst de datum 
 3° de volgende beleidsmatige informatie over het opvangaanbod:<br>
 a) het maximumaantal kinderen dat de organisator gelijktijdig in de opvanglocatie wil opvangen;<br>
 b) de informatie over het structurele opvangaanbod van de organisator, vermeld in artikel 4;<br>
-4° een verklaring op erewoord van de organisator dat hij zal voldoen aan de voorwaarden, vermeld in artikel 4 tot 20, voor elke opvanglocatie waarvoor hij het kwaliteitslabel heeft;<br>
+4° een verklaring op erewoord van de organisator dat hij zal voldoen aan de voorwaarden, vermeld in artikel 4 tot 20, voor elke opvanglocatie waarvoor hij het kwaliteitslabel heeft en dat hij de controle overeenkomstig artikel 11, tweede lid, 4° van het decreet van 3 mei 2019 en artikel 16 heeft uitgevoerd;<br>
 5° een verklaring op erewoord van de organisator dat hij het lokaal bestuur geïnformeerd heeft over zijn intentie om een label aan te vragen;<br>
 6° de datum en de handtekening van de organisator.<br>
 <br>
 Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator de volgende documenten op de wijze, vermeld in de administratieve richtlijnen van het agentschap:<br>
-1° een uittreksel uit het strafregister van de organisator en van de verantwoordelijke conform artikel 16;<br>
+1° een uittreksel uit het strafregister van de organisator conform artikel 11, tweede lid, 4° van het decreet van 3 mei 2019;<br>
 2° de documenten waaruit blijkt dat de reden voor een voorafgaande weigering of opheffing van een kwaliteitslabel voor dezelfde opvanglocatie niet langer bestaat.
 
 ### ART 22.
@@ -247,7 +247,7 @@ Het agentschap meldt tegelijk elke beslissing over een kwaliteitslabel aan het l
 
 De organisator meldt voor elke opvanglocatie met een kwaliteitslabel aan het agentschap onmiddellijk:<br>
 1° de wijziging van de identiteitsgegevens en de contactgegevens van de contactpersoon van de organisator;<br>
-2° de wijziging van de gegevens van de verantwoordelijke, met inbegrip van een uittreksel uit het strafregister van de nieuwe verantwoordelijke als vermeld in artikel 16;<br>
+2° de wijziging van de gegevens van de verantwoordelijke met inbegrip van een verklaring op eer dat de organisator de controle vermeld in artikel 11, tweede lid, 4° van het decreet van 3 mei 2019 en artikel 16 heeft uitgevoerd;<br>
 3° de datum van de definitieve stopzetting van een opvanglocatie;<br>
 4° de tijdelijke stopzetting van een opvanglocatie van minstens één ononderbroken jaar, met vermelding van de datum van de stopzetting, de reden van stopzetting, de vermoedelijke duur van de stopzetting en de datum van de herstart;<br>
 5° de definitieve of tijdelijke verhuizing van de opvanglocatie.<br>
@@ -262,7 +262,7 @@ De organisator informeert het lokaal bestuur van een verhuizing en de stopzettin
 
 Het agentschap volgt de naleving van de bepalingen van dit besluit.<br>
 <br>
-Het agentschap voert het toezicht op de documenten uit.<br>
+Het agentschap oefent toezicht uit op basis van alle informatie die beschikbaar is.<br>
 <br>
 Zorginspectie voert het toezicht ter plaatse uit.<br>
 <br>
