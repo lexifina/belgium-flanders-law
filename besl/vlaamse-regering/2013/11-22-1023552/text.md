@@ -53,7 +53,7 @@ Dit besluit wordt aangehaald als: Vergunningsbesluit van 22 november   2013.
 
 ### ART. 5.
 
-<p>De organisator heeft de integriteit en het beleidsvoerend vermogen om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvolle kinderopvang te organiseren. Dat blijkt onder meer uit het document, vermeld in artikel 49, § 2.</p>
+<p>De organisator heeft de integriteit en het beleidsvoerend vermogen om op een rechtmatige manier, rekening houdend met geldende normen en waarden, kwaliteitsvolle kinderopvang te organiseren. De integriteit blijkt onder meer uit de controle, vermeld in artikel 58/1.</p>
 
 ### ART. 6.
 
@@ -390,6 +390,12 @@ De organisator zorgt voor een aanwezigheidsregister dat aanwezig is in de   kind
 
 ## Afdeling 4 Personen werkzaam in de kinderopvanglocatie
 
+## Onderafdeling 1. De organisator
+
+### ART 39/0.
+
+De organisator, hetzij de natuurlijke persoon, hetzij een of meer personen die handelingsbekwaam zijn om de rechtspersoon te vertegenwoordigen, zijn minstens 21 jaar oud en zijn in staat om een kinderopvanglocatie organisatorisch te beheren.
+
 ## Onderafdeling 1 De verantwoordelijke
 
 ### ART. 39.
@@ -407,7 +413,7 @@ De organisator zorgt voor een aanwezigheidsregister dat aanwezig is in de   kind
 <p>§ 1. De verantwoordelijke is minstens 21 jaar oud.<br>
 <br>
 § 2. De organisator heeft de volgende documenten over de verantwoordelijke :<br>
-1° een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012;<br>
+1° een uittreksel uit het strafregister overeenkomstig artikel 6, §4, en artikel 24, vijftiende lid, van het decreet van 20 april 2012;<br>
 2° een attest van medische geschiktheid overeenkomstig artikel 6, § 4, tweede lid, van het decreet van 20 april 2012. Uit dat attest blijkt dat de persoon geen fysieke en psychische beperking of aandoening heeft die de opgevangen kinderen in gevaar kan brengen, meer bepaald :<br>
 a) een attest A van medische geschiktheid, opgemaakt door de verantwoordelijke, volgens het model dat door de minister wordt vastgesteld;<br>
 b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
@@ -416,11 +422,9 @@ c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, 
 4° een attest van kennis van levensreddend handelen bij kinderen. De minister bepaalt wat de leerinhouden voor die attesten zijn en op welke wijze de uitreikende instanties zich kunnen bekendmaken;<br>
 5° een kwalificatiebewijs dat door de minister wordt vastgesteld.<br>
 <br>
-Het document, vermeld in het eerste lid, 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere kinderopvanglocatie van de organisator. Het document, vermeld in het eerste lid, 1° en 4°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de kennis over de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
+Het document, vermeld in het eerste lid, 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere kinderopvanglocatie van de organisator. Het document, vermeld in het eerste lid, 4°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de kennis over de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
-<br>
-De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgegeven wordt door de verantwoordelijke aan de organisator.<br>
 <br>
 § 3. De organisator heeft voor de persoon, vermeld in artikel 39, eerste lid, 2°, het document, vermeld in paragraaf 2, eerste lid, 3°.</p>
 
@@ -450,7 +454,7 @@ De mogelijkheid, vermeld in het derde lid, zal geëvalueerd worden door het agen
 <p>§ 1. De kinderbegeleider is minstens 18 jaar oud.&nbsp;De kinderbegeleider in een kwalificerend traject duaal leren wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject duaal leren.<br>
 <br>
 § 2. De organisator heeft de volgende documenten over de kinderbegeleider :<br>
-1° een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012;<br>
+1° een uittreksel uit het strafregister overeenkomstig artikel 6, §4, en artikel 24, vijftiende lid, van het decreet van 20 april 2012;<br>
 2° een attest van medische geschiktheid overeenkomstig artikel 6, § 4, tweede lid, van het decreet van 20 april 2012. Uit dat attest blijkt dat de persoon geen fysieke en psychische beperking of aandoening heeft die de opgevangen kinderen in gevaar kan brengen, meer bepaald :<br>
 a) een attest A van medische geschiktheid, opgemaakt door de kinderbegeleider, volgens het model dat door de minister wordt vastgesteld;<br>
 b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
@@ -462,11 +466,9 @@ b) een bewijs van actieve deelname aan een kwalificerend traject dat de minister
 1)&nbsp;&nbsp; &nbsp;per kinderbegeleider in een kwalificerend traject werken er drie voltijdsequivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt a), op het niveau van de organisator;&nbsp;<br>
 2)&nbsp;&nbsp; &nbsp;er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt a), aanwezig in de kinderopvanglocatie.<br>
 <br>
-Het document, vermeld in het eerste lid,&nbsp; 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, moet het document dateren uit het lopende schooljaar. Het document, vermeld in het eerste lid, 1° en 3°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
+Het document, vermeld in het eerste lid,&nbsp; 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, moet het document dateren uit het lopende schooljaar. Het document, vermeld in het eerste lid, 3°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
-<br>
-De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgegeven wordt door de kinderbegeleider aan de organisator.<br>
 <br>
 § 3. De organisator heeft voor minstens één kinderbegeleider een attest van actieve kennis van het Nederlands dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn, waaruit blijkt dat het behaalde taalvaardigheidsniveau voor luisteren en gesprekken voeren het ERK-niveau B1 is, en voor lezen en schrijven het ERK-niveau A2 is.<br>
 <br>
@@ -481,7 +483,7 @@ De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het
 ### ART. 45.
 
 <p>De organisator heeft de volgende documenten over de andere personen die in de kinderopvanglocatie regelmatig direct contact hebben met de opgevangen kinderen :<br>
-1° een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012;<br>
+1° een uittreksel uit het strafregister overeenkomstig artikel 6, §4, en artikel 24, vijftiende lid, van het decreet van 20 april 2012;<br>
 2° een attest van medische geschiktheid overeenkomstig artikel 6, § 4, tweede lid, van het decreet van 20 april 2012. Uit dat attest blijkt dat de meerderjarige persoon met regelmatig direct contact en de minderjarige persoon die werkt in de kinderopvang of er stage loopt, geen fysieke en psychische beperking of aandoening heeft die de opgevangen kinderen in gevaar kan brengen, meer bepaald :<br>
 a) een attest A van medische geschiktheid, opgemaakt door de betrokken persoon, volgens het model dat door de minister wordt vastgesteld;<br>
 b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
@@ -490,9 +492,7 @@ c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, 
 Het document, vermeld in het eerste lid, 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de persoon stage loopt, moet het document dateren uit het lopende schooljaar.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document<br>
-te vernieuwen.<br>
-<br>
-De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgegeven wordt door de persoon aan de organisator.</p>
+te vernieuwen.</p>
 
 ## Afdeling 5 Organisatorisch management
 
@@ -520,15 +520,7 @@ Voor de aanwezigheid van de kinderbegeleiders zorgt de organisator voor een plan
 
 ### ART. 49.
 
-<p>§ 1. De organisator, hetzij de natuurlijke persoon, hetzij een of meer personen die handelingsbekwaam zijn om de rechtspersoon te vertegenwoordigen, is minstens 21 jaar oud.&nbsp;<br>
-<br>
-§ 2. De organisator heeft het volgende uittreksel :<br>
-1° voor de organisator die een natuurlijke persoon is, met inbegrip van de persoon of personen, vermeld in artikel 53, 2° : een uittreksel uit het strafregister overeenkomstig artikel 6, § 4, eerste lid, van het decreet van 20 april 2012, waaronder voor de organisator ook verstaan wordt dat hij in staat is om een kinderopvanglocatie organisatorisch te beheren;<br>
-2° voor de organisator die een rechtspersoon is : een uittreksel uit het centraal strafregister op naam van de rechtspersoon, of een gelijkwaardig attest, uitgereikt door een bevoegde buitenlandse instantie, voor wie niet in België gedomicilieerd is, waaruit blijkt dat de organisator van onberispelijk gedrag is om met kinderen om te gaan, waaronder voor de organisator ook verstaan wordt dat hij in staat is om een kinderopvanglocatie organisatorisch te beheren.<br>
-<br>
-Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip dat uittreksel te vernieuwen.<br>
-<br>
-De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgegeven wordt aan het agentschap.</p>
+<p>...</p>
 
 ### ART. 50.
 
@@ -583,6 +575,15 @@ Bij de procedure worden de termijnen vermeld voor de stappen, vermeld in het twe
 De organisator registreert de klachten. In de voormelde registratie worden minstens de volgende gegevens opgenomen:<br>
 1°&nbsp;&nbsp; &nbsp;een omschrijving of samenvatting van de klacht;<br>
 2°&nbsp;&nbsp; &nbsp;het resultaat van de klachtenbehandeling in termen van gegrond, ongegrond of onduidelijk.
+
+## Onderafdeling 5. Controle op het uittreksel uit het strafregister door de organisatoren en bijbehorende meldingen
+
+### ART 58/1.
+
+§1. Overeenkomstig artikel 6, §4, van het decreet van 20 april 2012 controleert de organisator bij de aanstelling van elke nieuwe verantwoordelijke en kinderbegeleider en voor elke andere meerderjarige persoon die in de kinderopvanglocatie regelmatig direct contact heeft met de opgevangen kinderen, het goed zedelijk gedrag van de betrokkene dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt.<br>
+De organisator is verwerkingsverantwoordelijke.&nbsp;<br>
+<br>
+§2. Als daar een gegronde indicatie voor is, kan het agentschap de organisator gemotiveerd verzoeken om voor een verantwoordelijke, een kinderbegeleider of voor een meerderjarige persoon die in de kinderopvanglocatie regelmatig direct contact heeft, een controle als vermeld in paragraaf 1 en paragraaf 2 uit te voeren.
 
 ## Afdeling 6 Samenwerking
 
