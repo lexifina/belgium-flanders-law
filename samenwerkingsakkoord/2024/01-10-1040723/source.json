@@ -2,16 +2,16 @@
   "codex_id": 1040723,
   "title": "Samenwerkingsakkoord van 2024-01-10 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de toewijzing en de verdeling van het bedrag dat is vastgelegd in artikel 2 van de beslissing van het Comité van Ministers van de Belgisch-Luxemburgse Economische Unie (BLEU) van 14 december 2001, zoals gewijzigd bij de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040723/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "fe7eb1e7ac61b0264d4d25ac6785f6146f100214c545dbe64ceb09470f812479",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040723/VolledigDocument?datum=2025-10-16",
+  "source_sha256": "14100f2d55be9f66ad83d0c694615c299596ea72dcff58bf9d769547d22bffc3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040723&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-10-16",
   "made": "2024-01-10",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-10-16",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-10-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-10-16; future article versions excluded; article text as the API gives it"
 }

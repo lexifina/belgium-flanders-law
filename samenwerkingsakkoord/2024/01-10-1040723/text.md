@@ -25,3 +25,16 @@ Het Waalse Gewest vertegenwoordigd door de Waalse Regering in de persoon van de 
 Het Brussels Hoofdstedelijk Gewest vertegenwoordigd door de Brusselse Hoofdstedelijke Regering in de persoon van de Minister van de Plaatselijke besturen;<br>
 <br>
 zijn het volgende overeengekomen:
+
+### ART 1.
+
+§1. Het bedrag dat is vastgelegd in artikel 2 van de beslissing van het Comité van Ministers van de Belgisch-Luxemburgse Economische Unie (BLEU) van 14 december 2001, zoals gewijzigd bij de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021, wordt toegewezen aan de gemeenten van het Konlnknjk.<br>
+<br>
+§2. Het bedrag bedoeld in § 1 wordt verdeeld tussen de gemeenten in verhouding tot de aanvullende gemeentebelasting bedoeld in artikel 466 van het Wetboek van de<br>
+inkomstenbelastingen 1992, die berekend zou worden op de belasting die gevestigd wordt na afloop van de termijn bepaald in artikel 359, tweede lid van hetzelfde Wetboek, indien de door een inwoner van Belgiê verkregen beroepsinkomsten van Luxemburgse oorsprong uit bronnen In Belgiê zouden zijn verkregen.<br>
+<br>
+§3. De Federale Staat is verantwoordelijk voor de verdeling bedoeld in § 2.
+
+### ART 2.
+
+Dit samenwerkingsakkoord is van toepassing op de bedragen die worden ontvangen in uitvoering van de beslissing van het Comité van Ministers van de BLEU van 14 december 2001, zoals gewijzigd door de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021.
