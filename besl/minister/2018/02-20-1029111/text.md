@@ -30,7 +30,7 @@ De lijst met attesten en indicaties die recht geven op de ondersteuningsgraden, 
 1° de personen met een arbeidshandicap die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 gevolgd hebben;<br>
 2° de personen met een arbeidshandicap die tot de groep van personen met een matig verstandelijke beperking behoren, en waarbij de persoonlijke score gelijk aan of lager is dan 3 standaarddeviaties beneden de gemiddelde score;<br>
 3° de personen met een significante beperking in het intellectuele functioneren die wordt vastgesteld op basis van een erkende, gestandaardiseerde, individueel afgenomen en breed dekkende intelligentietest, en waarbij de persoonlijke score gelijk aan of lager is dan 2 standaarddeviaties beneden de gemiddelde score;<br>
-4° de personen met een arbeidshandicap die recht hebben op verhoogde kinderbijslag krachtens artikel 47 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders, of krachtens artikel 20, § 2, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen, als ze bij de evaluatie van de zelfredzaamheid ten minste 4 punten krijgen conform de bepalingen van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies, 62, § 3, en 63 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders, van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen, van artikel 3 van het koninklijk besluit van 28 augustus 1991 tot uitvoering van de artikelen 20, §§ 2 en 3, 26 en 35 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag, ten voordele van de zelfstandigen, en van artikel 23 van het koninklijk besluit van 21 februari 1991 tot wijziging van sommige bepalingen betreffende de regeling van de gezinsbijslag ten voordele van de zelfstandigen;<br>
+4° De personen met een arbeidshandicap die recht geven op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, zoals bepaald in artikel 16 van het &nbsp;Groeipakketdecreet van 27 april 2018, tot de leeftijd van 21 jaar;<br>
 5° de personen met een arbeidshandicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming en voor wie de graad van zelfredzaamheid op ten minste 9 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming;<br>
 6° de personen met een arbeidshandicap die ofwel minstens twee jaar onafgebroken in een psychiatrische voorziening of erkende beschutte woonvorm opgenomen zijn, ofwel in de loop van de twee jaar die aan de toekenning van het statuut van zwakke werknemer voorafgaan, minstens drie keer in een psychiatrische voorziening opgenomen werden, ofwel door een blijvend cognitief functieverlies ten gevolge van psychiatrische aandoeningen die voorkomen in de limitatieve opsomming van bepaalde aandoeningen uit de medische stoorniscodelijst voor arbeidsbeperking van de VDAB, deskundige psychiatrische behandeling behoeven en sedert minstens een jaar onder regelmatig medisch toezicht staan;<br>
 7° de personen die op basis van het wetenschappelijk gevalideerde ICF-indiceringsinstrument ontwikkeld door de VDAB voldoen aan volgende criteria: minimaal vijf problemen wat betreft arbeidsmatige zelfredzaamheid:<br>
@@ -218,107 +218,112 @@ Bijlage tot bepaling van de categorieën van het indiceringsinstrument die de VD
 
 ### BIJLAGE 2
 
-Criteriumlijst: criteria voor toekenning van een advies CMW (= collectief maatwerk) op basis van attesten of ICF, als vermeld in artikel 1/1 van het ministerieel besluit van 20 februari 2018 tot uitvoering van artikel 13 en 51 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling.&nbsp;<br>
+<strong>Lijst met attesten en indicaties op basis van ICF voor toekenning van een advies CMW (= collectief maatwerk)<br>
 <br>
 1. COLLECTIEF MAATWERK: ONDERSTEUNING VOOR LANGER DAN 2 JAAR<br>
-1.1 Rechtstreeks advies obv attesten<br>
-1.2 Niet rechtstreeks advies obv ICF<br>
+1.1 Rechtstreekse adviezen obv. attesten<br>
+1.2 Niet rechtstreekse adviezen obv. ICF<br>
+<br>
 2. COLLECTIEF MAATWERK: ONDERSTEUNING VOOR MAXIMUM 2 JAAR (= uiterst kwetsbaren)<br>
-2.1 Niet rechtstreeks advies obv ICF<br>
-<br>
-1. COLLECTIEF MAATWERK: ONDERSTEUNING VOOR LANGER DAN 2 JAAR<br>
-<br>
-1.1 Rechtstreekse adviezen obv. attesten:<br>
-- beschikken over één van de volgende, door het VAPH/VFSIPH/RF/Fonds ’81 gegeven, tickets van onbepaalde duur:<br>
-&nbsp; ○ w2&nbsp;<br>
-&nbsp; ○ dagcentrum (Z75, sinds 1/1/2012: Z76)<br>
-&nbsp; ○ tehuis werkenden (Z70, sinds 1/1/2012: Z71) voor één van de volgende doelgroepen:<br>
-&nbsp; &nbsp; ■ matig verstandelijke handicap<br>
-&nbsp; &nbsp; ■ ernstig/diep verstandelijke handicap<br>
-&nbsp; &nbsp; ■ motorisch B<br>
-&nbsp; &nbsp; ■ gehoor-en/of spraakstoornis<br>
-&nbsp; &nbsp; ■ blind of slechtziend<br>
-&nbsp; ○ beschermd wonen (Z64, sinds 1/1/2012: Z66) voor één van de volgende doelgroepen:<br>
-&nbsp; &nbsp; ■ matig verstandelijke handicap<br>
-&nbsp; &nbsp; ■ ernstig/diep verstandelijke handicap<br>
-&nbsp; &nbsp; ■ motorisch B<br>
-&nbsp; &nbsp; ■ gehoor-en/of spraakstoornis<br>
-&nbsp; &nbsp; ■ blind of slechtziend<br>
-- beschikken over een geldige, positieve beslissing van het VAPH waaruit blijkt dat de persoon met een arbeidshandicap tot één van de volgende doelgroepen behoort:&nbsp;<br>
-&nbsp; ○ personen met een verstandelijke handicap en een ernstige communicatieve beperking<br>
-&nbsp; ○ personen met ernstige stoornissen van de mentale functies en een ernstige communicatieve beperking<br>
-- beschikken over een positieve beslissing van het VAPH voor spoedprocedure<br>
-- beschikken over een beslissing van het VAPH waaruit blijkt dat de persoon met een arbeidshandicap één van onderstaande B- of P-waarden behaalde in kader van de inschaling van persoonsvolgende financiering (PVF):&nbsp;<br>
-&nbsp; ○ B4<br>
-&nbsp; ○ B5<br>
-&nbsp; ○ B6<br>
-&nbsp; ○ B7<br>
-&nbsp; ○ P4<br>
-&nbsp; ○ P5<br>
-&nbsp; ○ P6<br>
-- een schriftelijke verklaring op eer van een vroegere beschutte werkplaats dat de aanvrager in het verleden, door een beslissing van het Rijksfonds, als doelgroepwerknemer (categorie A, B of C) gesubsidieerd werd volgens het MB van 23 maart 1970, artikel 5<br>
-- OV3 gevolgd zonder behalen van een kwalificatiegetuigschrift, getuigschrift van de opleiding, getuigschrift van verworven competenties, getuigschrift van alternerende beroepsopleiding, zonder enig getuigschrift/diploma van een later gevolgde opleiding.<br>
-- toegang (gehad) hebben tot arbeidszorg met een ticket dagcentrum van het VAPH/VFSIPH/Fonds’81<br>
-- Buitengewoon Lager onderwijs (BLO) gevolgd hebben zonder een attest, getuigschrift of diploma van een later gevolgde niveauverhogende opleiding<br>
-- onderwijs gevolgd hebben in OV1 of OV2 zonder een getuigschrift/diploma van een later gevolgde niveauverhogende opleiding<br>
-- toegang tot ION (inclusief onderwijs type 2) gehad hebben<br>
-- op basis van de medische criteria in aanmerking komen voor een erkenning inkomensvervangende tegemoetkoming &nbsp;van onbepaalde duur<br>
-- beschikken over een integratietegemoetkoming van onbepaalde duur<br>
-&nbsp; ○ vanaf categorie 2 of 9 punten bij auditieve handicaps<br>
-&nbsp; ○ vanaf categorie 3 of 12 punten bij visuele, verstandelijke en psychische handicaps<br>
-&nbsp; ○ vanaf categorie 4 of 15 punten bij een fysieke handicap<br>
-- beschikken over een gerechtelijke beslissing van bewindvoering, zoals voorheen bedoeld met de verlengde minderjarigheid&nbsp;<br>
-- één van de volgende limitatief gecodeerde problematieken:<br>
-&nbsp; ○ dementie, gediagnosticeerd door een neuroloog: F00, F01, F02<br>
-&nbsp; ○ aan een middel gebonden stoornis, gediagnosticeerd door een (neuro-) psychiater of neuroloog: F106, F107<br>
-&nbsp; ○ amnestische stoornis, chronisch, organisch, niet als gevolg van een middel, gediagnosticeerd door een (neuro-)psychiater: F04<br>
-&nbsp; ○ psychische stoornis ten gevolge van lichamelijke ziekte en beschadiging en dysfunctie van de hersenen, gediagnosticeerd door een (neuro-)psychiater: F06<br>
-&nbsp; ○ persoonlijkheidsstoornissen en gedragsstoornissen door ziekte, beschadiging en dysfunctie van de hersenen, gediagnosticeerd door een (neuro-)psychiater: F070, F0720<br>
-&nbsp; ○ persoonlijkheidsstoornissen en gedragsstoornissen door ziekte, beschadiging en dysfunctie van de hersenen, gediagnosticeerd door een (neuro-)psychiater of neuroloog: F0721<br>
-&nbsp; ○ psychotische stoornissen gediagnosticeerd door een psychiater: F20, F22, F25<br>
-&nbsp; ○ depressieve stoornissen, chronisch, in psychiatrische behandeling (geweest) gedurende 5 jaar én gediagnosticeerd door een psychiater: F33, F341<br>
-&nbsp; ○ bipolaire stoornissen gediagnosticeerd door een psychiater: F31, F340<br>
-&nbsp; ○ neurotische en stressgebonden stoornissen chronisch, in psychiatrische behandeling (geweest) gedurende 5 jaar én gediagnosticeerd door een psychiater &nbsp;F428, F431<br>
-&nbsp; ○ somatoforme stoornis, gediagnosticeerd door een psychiater: F44<br>
-&nbsp; ○ dissociatieve stoornissen, gediagnosticeerd door een psychiater: F440, F441, F4481, F481, F449<br>
-&nbsp; ○ eetstoornissen, gediagnosticeerd door een psychiater: F5001, F5021<br>
-&nbsp; ○ stoornissen in de impulsbeheersing, gediagnosticeerd door een psychiater: F638, F639<br>
-&nbsp; ○ persoonlijkheidsstoornissen, in psychiatrische behandeling (geweest) gedurende 5 jaar én gediagnosticeerd door een psychiater: F21, F600, F6010, F6031, F605, F606, F607, F608<br>
-&nbsp; ○ verstandelijke handicap, gediagnosticeerd door een psycholoog &nbsp;door middel van de afname van een recente breeddekkende intelligentietest waarbij de persoon met arbeidshandicap voldoende kennis van het Nederlands heeft: F7001, F71, F72<br>
-&nbsp; ○ pervasieve stoornissen, gediagnosticeerd door een psychiater: F840, F842, F843, F849<br>
-&nbsp; &nbsp; ■ in combinatie met een verstandelijke handicap, gediagnosticeerd door een psycholoog door middel van de afname van een recente breeddekkende intelligentietest waarbij de persoon met arbeidshandicap voldoende kennis van het Nederlands heeft: F70, F7001, F71, F72, F79<br>
-&nbsp; &nbsp; ■ in combinatie met een communicatiestoornis, gediagnosticeerd door een psychiater of psycholoog: F8091<br>
-&nbsp; &nbsp; ■ in combinatie met een leerstoornis, gediagnosticeerd door een neuroloog of psycholoog: F8190<br>
-&nbsp; &nbsp; ■ in combinatie met een gedrags- en emotionele stoornis begonnen in de kinderleeftijd/adolescentie en gediagnosticeerd door een psychiater, neuroloog of psycholoog: F900, F901<br>
-&nbsp; ○ leerstoornis, gediagnosticeerd door een neuroloog of oogarts: F8191<br>
-&nbsp; ○ degeneratieve aandoeningen van het centrale zenuwstelsel, gediagnosticeerd door een neuroloog of internist: G10, G20, G21, G23, G30, G122, G3120<br>
-&nbsp; ○ andere aandoeningen van het zenuwstelsel, gediagnosticeerd door een neuroloog: G920, G9340<br>
-&nbsp; ○ aandoening van de ogen, gediagnosticeerd door een oogarts: H540, H541, H5401, H5420, H5421, H5422, H5423, H5424<br>
-&nbsp; &nbsp; ■ in combinatie met een verstandelijke handicap ,gediagnosticeerd door een psycholoog door middel van afname van een recente breeddekkende intelligentietest waarbij de persoon met arbeidshandicap voldoende kennis van het Nederlands heeft: F70, F7001, F71, F72<br>
-&nbsp; &nbsp; ■ in combinatie met een stoornis in de motorische vaardigheden ,gediagnosticeerd door een neuroloog of psycholoog: F82, F820, F8201, F8202<br>
-&nbsp; ○ aandoeningen van het oor, gediagnosticeerd door een neus-, keel- en oorarts: H9131<br>
-&nbsp; ○ aangeboren afwijking, gediagnosticeerd door een geneticus of een pediater: Q90<br>
-<br>
-1.2 Niet rechtstreekse adviezen obv. ICF:<br>
-<br>
-Het gaat steeds om personen met:<br>
-1. Voldoende rendementsverlies en voldoende begeleidingsnood waardoor een duurzame en intensieve begeleiding op een grondig aangepaste werkvloer aangewezen is.<br>
-EN&nbsp;<br>
-2. Een indicatie Pmp (er zijn minstens 8 problemen met een licht of ernstig probleem waarvan minstens 3 categorieën in de cluster arbeidsmatige zelfredzaamheid).<br>
-<br>
-2. COLLECTIEF MAATWERK: ONDERSTEUNING VOOR MAXIMUM 2 JAAR (=uiterst kwetsbaren)<br>
-<br>
-2.1 Niet rechtstreekse adviezen obv. ICF:<br>
-<br>
-Het gaat steeds om personen met:<br>
-1. Een indicatie Pmp (er zijn minstens 8 problemen met een licht of ernstig probleem waarvan minstens 3 categorieën in de cluster arbeidsmatige zelfredzaamheid)<br>
-EN<br>
-2. Die gedurende ten minste 24 maanden geen reguliere betaalde betrekking heeft gehad.<br>
-De gelijkgestelde periodes omvatten:&nbsp;<br>
-&nbsp; ● de ononderbroken periode, buiten deze van het gewaarborgd loon, gelegen in een tijdsspanne waarin de persoon als werknemer nog verbonden is door een arbeidsovereenkomst, die aanleiding geeft tot de betaling van ziekte-, invaliditeits- of moederschapsuitkeringen<br>
-&nbsp; ● de ononderbroken periode van gevangenzetting waarin de persoon als werknemer nog verbonden is door een arbeidsovereenkomst<br>
-EN<br>
-3. Die voldoen aan een van volgende bijkomende voorwaarden&nbsp;<br>
-&nbsp; a. beschikken over een Ligo-attest of gelijkwaardig<br>
-&nbsp; b. detentie&nbsp;<br>
+2.1 Niet rechtstreekse adviezen obv ICF</strong><br>
 &nbsp;
+<h3>1. COLLECTIEF MAATWERK: ONDERSTEUNING VOOR LANGER DAN 2 JAAR</h3>
+<strong>1.1. Rechtstreekse adviezen obv. attesten:</strong><br>
+<br>
+1.1.1. beschikken over één van de volgende, door het VAPH/VFSIPH/RF/Fonds ’81 gegeven, tickets van onbepaalde duur:<br>
+&nbsp; 1.1.1.1. W2<br>
+&nbsp; 1.1.1.2. dagcentrum (Z75, sinds 1/1/2012: Z76)<br>
+&nbsp; 1.1.1.3. tehuis werkenden (Z70, sinds 1/1/2012: Z71) voor één van de volgende doelgroepen:<br>
+&nbsp; &nbsp; 1.1.1.3.1. matig verstandelijke handicap<br>
+&nbsp; &nbsp; 1.1.1.3.2. ernstig/diep verstandelijke handicap<br>
+&nbsp; &nbsp; 1.1.1.3.3. motorisch B<br>
+&nbsp; &nbsp; 1.1.1.3.4. gehoor-en/of spraakstoornis<br>
+&nbsp; &nbsp; 1.1.1.3.5. blind of slechtziende<br>
+&nbsp; 1.1.1.4. beschermd wonen (Z64, sinds 1/1/2012: Z66) voor één van de volgende doelgroepen:<br>
+&nbsp; &nbsp; 1.1.1.4.1. matig verstandelijke handicap<br>
+&nbsp; &nbsp; 1.1.1.4.2. ernstig/diep verstandelijke handicap<br>
+&nbsp; &nbsp; 1.1.1.4.3. motorisch B<br>
+&nbsp; &nbsp; 1.1.1.4.4. gehoor-en/of spraakstoornis<br>
+&nbsp; &nbsp; 1.1.1.4.5. blind of slechtziend<br>
+1.1.2. beschikken over een geldige, positieve beslissing van het VAPH waaruit blijkt dat de persoon met een arbeidshandicap tot één van de volgende doelgroepen behoort:&nbsp;<br>
+&nbsp; 1.1.2.1. personen met een verstandelijke handicap en een ernstige communicatieve beperking<br>
+&nbsp; 1.1.2.2. personen met ernstige stoornissen van de mentale functies en een ernstige communicatieve beperking<br>
+1.1.3. beschikken over een positieve beslissing van het VAPH voor spoedprocedure<br>
+1.1.4. beschikken over een beslissing van het VAPH waaruit blijkt dat de persoon met een arbeidshandicap één van onderstaande B- of P-waarden behaalde in kader van de inschaling van persoonsvolgende financiering (PVF):&nbsp;<br>
+&nbsp; 1.1.4.1. B4<br>
+&nbsp; 1.1.4.2. B5<br>
+&nbsp; 1.1.4.3. B6<br>
+&nbsp; 1.1.4.4. B7<br>
+&nbsp; 1.1.4.5. P4<br>
+&nbsp; 1.1.4.6. P5<br>
+&nbsp; 1.1.4.7. P6<br>
+1.1.5. een schriftelijke verklaring op eer van een vroegere beschutte werkplaats dat de aanvrager in het verleden, door een beslissing van het Rijksfonds, als doelgroepwerknemer (categorie A, B of C) gesubsidieerd werd volgens het MB van 23 maart 1970, artikel 5<br>
+1.1.6. beschikken over een attest van VDAB waarbij wordt geattesteerd dat is voldaan aan alle voorwaarden voor de wedertewerkstelling vermeld in artikel 57/1 van het Besluit van de Vlaamse Regering tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling.<br>
+1.1.7. OV3 gevolgd zonder behalen van een kwalificatiegetuigschrift, getuigschrift van de opleiding, deelcertificaat of getuigschrift van verworven competenties, getuigschrift van alternerende beroepsopleiding, bewijs van deelkwalificatie , bewijs van beroepskwalificatie, getuigschrift onderwijskwalificatie niveau 2 van de opleiding, (deel) certificaat van de opleiding, zonder enig getuigschrift/diploma van een later gevolgde opleiding.<br>
+1.1.8. toegang (gehad) hebben tot arbeidszorg met een ticket dagcentrum van het VAPH/VFSIPH/Fonds’81<br>
+1.1.9. Buitengewoon Lager onderwijs (BLO) gevolgd hebben zonder een attest, getuigschrift of diploma van een later gevolgde niveauverhogende opleiding<br>
+1.1.10. onderwijs gevolgd hebben in OV1 of OV2 zonder enig getuigschrift/diploma van een later gevolgde niveauverhogende opleiding<br>
+1.1.11. toegang tot ION (inclusief onderwijs type 2) gehad hebben<br>
+1.1.12. Beschikken over een IAC verslag<br>
+&nbsp; 1.1.12.1. met vermelding van OV1/OV2, zonder enig getuigschrift/diploma van een later gevolgde niveauverhogende opleiding behaald zonder IAC of OV4 verslag.<br>
+&nbsp; 1.1.12.2. met vermelding van OV3 en een attest verworven bekwaamheden, attest van lesbijwoning of bewijs van competenties zonder enig getuigschrift/diploma van een later gevolgde niveauverhogende opleiding.<br>
+1.1.13. op basis van de medische criteria in aanmerking komen voor een erkenning inkomensvervangende tegemoetkoming van onbepaalde duur<br>
+1.1.14. beschikken over een integratietegemoetkoming van onbepaalde duur<br>
+&nbsp; 1.1.14.1. vanaf categorie 2 of 9 punten bij auditieve handicaps<br>
+&nbsp; 1.1.14.2. vanaf categorie 3 of 12 punten bij visuele, verstandelijke en psychische handicaps<br>
+&nbsp; 1.1.14.3. vanaf categorie 4 of 15 punten bij een fysieke handicap<br>
+1.1.15. beschikken over een gerechtelijke beslissing van bewindvoering, zoals voorheen bedoeld met de verlengde minderjarigheid&nbsp;<br>
+1.1.16. één van de volgende limitatief gecodeerde problematieken:<br>
+&nbsp; 1.1.16.1. dementie, gediagnosticeerd door een neuroloog: F00, F01, F02<br>
+&nbsp; 1.1.16.2. aan een middel gebonden stoornis, gediagnosticeerd door een (neuro-) psychiater of neuroloog: F106, F107<br>
+&nbsp; 1.1.16.3. amnestische stoornis, chronisch, organisch, niet als gevolg van een middel, gediagnosticeerd door een (neuro-)psychiater: F04<br>
+&nbsp; 1.1.16.4. psychische stoornis ten gevolge van lichamelijke ziekte en beschadiging en dysfunctie van de hersenen, gediagnosticeerd door een (neuro-)psychiater: F06<br>
+&nbsp; 1.1.16.5. persoonlijkheidsstoornissen en gedragsstoornissen door ziekte, beschadiging en dysfunctie van de hersenen, gediagnosticeerd door een (neuro-)psychiater: F070, F0720<br>
+&nbsp; 1.1.16.6. persoonlijkheidsstoornissen en gedragsstoornissen door ziekte, beschadiging en dysfunctie van de hersenen, gediagnosticeerd door een (neuro-)psychiater of neuroloog: F0721<br>
+&nbsp; 1.1.16.7. psychotische stoornissen gediagnosticeerd door een psychiater: F20, F22, F25<br>
+&nbsp; 1.1.16.8. depressieve stoornissen, chronisch, in psychiatrische behandeling (geweest) gedurende 5 jaar én gediagnosticeerd door een psychiater: F33, F341<br>
+&nbsp; 1.1.16.9. bipolaire stoornissen gediagnosticeerd door een psychiater: F31, F340<br>
+&nbsp; 1.1.16.10. neurotische en stressgebonden stoornissen chronisch, in psychiatrische behandeling (geweest) gedurende 5 jaar én gediagnosticeerd door een psychiater &nbsp;F428, F431<br>
+&nbsp; 1.1.16.11. somatoforme stoornis, gediagnosticeerd door een psychiater: F44<br>
+&nbsp; 1.1.16.12. dissociatieve stoornissen, gediagnosticeerd door een psychiater: F440, F441, F4481, F481, F449<br>
+&nbsp; 1.1.16.13. eetstoornissen, gediagnosticeerd door een psychiater: F5001, F5021<br>
+&nbsp; 1.1.16.14. stoornissen in de impulsbeheersing, gediagnosticeerd door een psychiater: F638, F639<br>
+&nbsp; 1.1.16.15. persoonlijkheidsstoornissen, in psychiatrische behandeling (geweest) gedurende 5 jaar én gediagnosticeerd door een psychiater: F21, F600, F6010, F6031, F605, F606, F607, F608<br>
+&nbsp; 1.1.16.16. verstandelijke handicap, gediagnosticeerd door een psycholoog &nbsp;door middel van de afname van een recente breeddekkende intelligentietest waarbij de persoon met arbeidshandicap voldoende kennis van het Nederlands heeft: F7001, F71, F72<br>
+&nbsp; 1.1.16.17. pervasieve stoornissen, gediagnosticeerd door een psychiater: F840, F842, F843, F849<br>
+&nbsp; &nbsp; 1.1.16.17.1. in combinatie met een verstandelijke handicap, gediagnosticeerd door een psycholoog door middel van de afname van een recente breeddekkende intelligentietest waarbij de persoon met arbeidshandicap voldoende kennis van het Nederlands heeft: F70, F7001, F71, F72, F79<br>
+&nbsp; &nbsp; 1.1.16.17.2. in combinatie met een communicatiestoornis, gediagnosticeerd door een psychiater of psycholoog: F8091<br>
+&nbsp; &nbsp; 1.1.16.17.3. in combinatie met een leerstoornis, gediagnosticeerd door een neuroloog of psycholoog: F8190<br>
+&nbsp; &nbsp; 1.1.16.17.4. in combinatie met een gedrags- en emotionele stoornis begonnen in de kinderleeftijd/adolescentie en gediagnosticeerd door een psychiater, neuroloog of psycholoog: F900, F901<br>
+1.1.16.18. leerstoornis, gediagnosticeerd door een neuroloog of oogarts: F8191<br>
+1.1.16.19. degeneratieve aandoeningen van het centrale zenuwstelsel, gediagnosticeerd door een neuroloog of internist: G10, G20, G21, G23, G30, G122, G3120<br>
+1.1.16.20. andere aandoeningen van het zenuwstelsel, gediagnosticeerd door een neuroloog: G920, G9340<br>
+1.1.16.21. aandoening van de ogen, gediagnosticeerd door een oogarts: H540, H541, H5401, H5420, H5421, H5422, H5423, H5424<br>
+&nbsp; 1.1.16.21.1. in combinatie met een verstandelijke handicap ,gediagnosticeerd door een psycholoog door middel van afname van een recente breeddekkende intelligentietest waarbij de persoon met arbeidshandicap voldoende kennis van het Nederlands heeft: F70, F7001, F71, F72<br>
+&nbsp; 1.1.16.21.2. in combinatie met een stoornis in de motorische vaardigheden, gediagnosticeerd door een neuroloog of psycholoog: F82, F820, F8201, F8202<br>
+1.1.16.22. aandoeningen van het oor, gediagnosticeerd door een neus-, keel- en oorarts: H9131<br>
+1.1.16.23. aangeboren afwijking, gediagnosticeerd door een geneticus of een pediater: Q90<br>
+<br>
+<strong>1.2. Niet rechtstreekse adviezen obv. ICF:</strong><br>
+<br>
+<strong>Het gaat steeds om personen met:</strong><br>
+<br>
+Voldoende rendementsverlies en voldoende begeleidingsnood waardoor een duurzame en intensieve begeleiding op een grondig aangepaste werkvloer aangewezen is.<br>
+<strong>EN</strong><br>
+Een <strong>indicatie Pmp</strong> (er zijn minstens 8 problemen met een licht of ernstig probleem waarvan minstens 3 categorieën in de cluster arbeidsmatige zelfredzaamheid).<br>
+&nbsp;
+<h3>2. COLLECTIEF MAATWERK: ONDERSTEUNING VOOR MAXIMUM 2 JAAR (=uiterst kwetsbaren)</h3>
+<strong>2.1. Niet rechtstreekse adviezen obv. ICF:<br>
+<br>
+Het gaat steeds om personen met:</strong><br>
+Een <strong>indicatie Pmp</strong> (er zijn minstens 8 problemen met een licht of ernstig probleem waarvan minstens 3 categorieën in de cluster arbeidsmatige zelfredzaamheid)<br>
+<strong>EN</strong><br>
+Die gedurende <strong>ten minste 24 maanden geen reguliere betaalde betrekking</strong> heeft gehad.<br>
+<br>
+De gelijkgestelde periodes omvatten:&nbsp;<br>
+● de ononderbroken periode, buiten deze van het gewaarborgd loon, gelegen in een tijdsspanne waarin de persoon als werknemer nog verbonden is door een arbeidsovereenkomst, die aanleiding geeft tot de betaling van ziekte-, invaliditeits- of moederschapsuitkeringen<br>
+● de ononderbroken periode van gevangenzetting waarin de persoon als werknemer nog verbonden is door een arbeidsovereenkomst<br>
+<strong>EN</strong><br>
+Die voldoen aan een van de volgende voorwaarden:<br>
+a. beschikken over een Ligo-attest of gelijkwaardig<br>
+b. detentie&nbsp;
