@@ -2,16 +2,16 @@
   "codex_id": 1029936,
   "title": "Ministerieel besluit van 2018-11-26 betreffende de trajecten, vermeld in artikel 7, vierde lid, 2°, van het besluit van de Vlaamse Regering van 19 januari 2018 betreffende de bescherming van de verkeersinfrastructuur in geval van vervoer met langere en zwaardere slepen in het kader van een tweede proefproject",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029936/VolledigDocument?datum=2018-12-03",
-  "source_sha256": "1233f92ca7423626e5b211937d778d70c74b3602ecff6b5332b31620b6fcb150",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029936/VolledigDocument?datum=2025-10-18",
+  "source_sha256": "fe906a1048f3039ccb07559d3ef6c7789b572b0f01cecc1a91dbb19ffe53be08",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029936&param=informatie",
-  "as_of": "2018-12-03",
+  "as_of": "2025-10-18",
   "made": "2018-11-26",
   "gazette": "2018-12-03",
   "numac": 2018015064,
   "document_start": "2018-12-03",
   "document_end": null,
-  "in_force": "2018-12-03",
+  "in_force": "2025-10-18",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2018-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-18; future article versions excluded; article text as the API gives it"
 }

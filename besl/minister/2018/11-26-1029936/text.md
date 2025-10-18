@@ -33,9 +33,7 @@ b) Bell Telephonelaan 3B-N19 - complex Geel-West (E313-23);<br>
 8° Genk:<br>
 a) complex Park midden-Limburg (E314-30) - N726 - Transportlaan - Hengelhoefstraat - Hermeslaan-Mercuriuslaan 549;<br>
 b) Mercuriuslaan 549 - Hermeslaan - Hengelhoefstraat - Transportlaan - N726 - complex Park midden-Limburg (E314-30);<br>
-9° Gent:<br>
-a) complex Zwijnaarde E17 - R4 (enkel mogelijk komende van Antwerpen); R4 (binnenring) - Gestichtstraat - Zwijnaardsesteenweg - oprijden site Coca-Cola;<br>
-b) Zwijnaardesteenweg; Gestichtstraat; R4 (binnenring); B402; aantakken op E40;<br>
+9° ...;<br>
 10° Gent:<br>
 a) kruispunt Langerbruggestraat met Göteborgstraat - Göteborgstraat - Geeraard van den Daelestraat (volledig);<br>
 b) Geeraard van den Daelestraat - Göteborgstraat - kruising Göteborgstraat met Langerbruggestraat;<br>
