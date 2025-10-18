@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041312,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft de toezichtopdrachten voor de personeelsleden van de Mestbank, en tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de oprichting van het opvolgingsorgaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041312/VolledigDocument?datum=2025-10-18",
+  "source_sha256": "ed2aae33ba25d6ef3e4be179c67443a3e72083ef3efcfe6842e0caacaf71c2b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041312&param=informatie",
+  "as_of": "2025-10-18",
+  "made": "2025-09-05",
+  "gazette": "2025-10-08",
+  "numac": 2025007371,
+  "document_start": "2025-10-18",
+  "document_end": null,
+  "in_force": "2025-10-18",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
