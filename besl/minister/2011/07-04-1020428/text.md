@@ -6,13 +6,15 @@ De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Spo
 
 ### ART. 1.
 
-De secretaris-generaal van het Departement Werk en Sociale Economie, is het hoofd van de cel Administratieve Geldboeten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 januari 2005 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn.<br>
+De secretaris-generaal van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, is het hoofd van de cel Administratieve Geldboeten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 januari 2005 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn.<br>
+<br>
 Bij tijdelijke afwezigheid of verhindering wordt de secretaris-generaal vervangen door het afdelingshoofd van de afdeling Beleid, of door het hoofd van de Juridische Dienst, of door het teamhoofd van de cel Administratieve Geldboeten van het departement Werk en Sociale Economie.<br>
 &nbsp;
 
 ### ART. 2.
 
-De secretaris-generaal van het Departement Werk en Sociale Economie is gemachtigd om de eed van de sociaalrechtelijke inspecteurs af te nemen.<br /><br />
+De secretaris-generaal van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie is gemachtigd om de eed van de sociaalrechtelijke inspecteurs af te nemen.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -26,7 +28,7 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 Lijst van sociaalrechtelijke inspecteurs als vermeld in artikel 3<br>
 <br>
-De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie:&nbsp;
+De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie:
 <table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -34,10 +36,10 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 			<table cellspacing="0" style="border-collapse:collapse; width:277px">
 				<tbody>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Aerts Lorette</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Arts Lukas</td>
 					</tr>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Beckers Mieke</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Blanckaert Sarah</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Botteldoorn Kristof</td>
@@ -58,7 +60,7 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Chaïbi Abdellah</td>
 					</tr>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Costermans Cornelia</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Charlier Dirk</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Crals Myriam</td>
@@ -68,6 +70,12 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Cuypers Ines</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Cypers Marijke</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Bruyn Wannes</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Saedeleir Inge</td>
@@ -82,13 +90,13 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Smet Deborah</td>
 					</tr>
 					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Vos Yolanda</td>
+					</tr>
+					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">De Wit Jurgen</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Decraene Evelien</td>
-					</tr>
-					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dehondt Eric</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Dhondt Nathalie</td>
@@ -100,19 +108,34 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Feremans David</td>
 					</tr>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Gijsel Lize</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Geypen Delphine</td>
 					</tr>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Haerinck Frank</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Gijsel Lize</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Haerinck Jana</td>
 					</tr>
 					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Haes Gerdy</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Hannet Julie</td>
+					</tr>
+					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Herman Katrien</td>
 					</tr>
 					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Himschoot Edward</td>
+					</tr>
+					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Hooft Helen</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Hoornaert Elke</td>
+					</tr>
+					<tr>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Horemans Manon</td>
 					</tr>
 					<tr>
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Jacobs Pascal</td>
@@ -124,7 +147,7 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lambrechts Ann</td>
 					</tr>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lasure Sabien</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">&nbsp;</td>
 					</tr>
 				</tbody>
 			</table>
@@ -136,6 +159,9 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:266px">
 						<table cellspacing="0" style="border-collapse:collapse; width:277px">
 							<tbody>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lasure Sabien</td>
+								</tr>
 								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Marchand Thalassa</td>
 								</tr>
@@ -155,6 +181,12 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Mikaeli Hewa</td>
 								</tr>
 								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Morsa Judy</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Moustakim Hanan</td>
+								</tr>
+								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Nolens Farah</td>
 								</tr>
 								<tr>
@@ -165,6 +197,9 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 								</tr>
 								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Peeraer Hans</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Quix Stien</td>
 								</tr>
 								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Rijnders Laura</td>
@@ -188,7 +223,16 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Smits Elke</td>
 								</tr>
 								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Smout Anneleen</td>
+								</tr>
+								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Tanghe Katlijn</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Usta Havvanur</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Usta Yakup</td>
 								</tr>
 								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Van der Velde Petra</td>
@@ -215,19 +259,19 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vandenbussche Stefanie</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vanhove Bianca</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vanhove Bianca</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Velghe Wim</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Velghe Wim</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Verhaegen Jelle</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verdickt Nona</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Verstraaten Katty</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verhaegen Jelle</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vossen Floriaan</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Vossen Floriaan</td>
 								</tr>
 							</tbody>
 						</table>
