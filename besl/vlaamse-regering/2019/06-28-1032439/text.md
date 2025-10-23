@@ -1282,7 +1282,14 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 4° een bekwaamheidsattest, uitgereikt door een opleidingscentrum dat erkend is door de Franse of de Duitstalige Gemeenschap en dat opleidingen organiseert die zowel naar inhoud als naar niveau gelijkwaardig zijn aan de opleidingen die leiden tot een bekwaamheidsattest als vermeld in punt 3°;<br>
 5° een buitenlands studiebewijs, op voorwaarde dat het door het National Academic and professional Recognition and Information Centre (NARIC-Vlaanderen) gelijkwaardig wordt verklaard met een Vlaams studiebewijs als vermeld in punt 1°, of 2°;<br>
 6° een conformiteitsattest, uitgereikt met toepassing van artikel 7 tot en met 11 van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009;<br>
-7° een attest waaruit blijkt dat de persoon geregistreerd is als zorgkundige.</p>
+7° een attest waaruit blijkt dat de persoon geregistreerd is als zorgkundige.<br>
+<br>
+In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid voor de studiebewijzen die vanaf het schooljaar 2024-2025 behaald worden in het secundair onderwijs, bij de indiensttreding over een diploma van secundair onderwijs met onderwijskwalificatie niveau 3 of niveau 4, dat is behaald in het studiedomein Maatschappij en Welzijn, samen met een van de volgende beroepskwalificaties:<br>
+1°&nbsp;&nbsp; &nbsp;verzorgende;<br>
+2°&nbsp;&nbsp; &nbsp;zorgkundige;<br>
+3°&nbsp;&nbsp; &nbsp;kinderbegeleider baby’s en peuters;<br>
+4°&nbsp;&nbsp; &nbsp;kinderbegeleider schoolgaande kinderen;<br>
+5°&nbsp;&nbsp; &nbsp;persoonsbegeleider.</p>
 
 ### ART 30.
 
@@ -1444,23 +1451,23 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 
 ### ART 49.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het jaarlijks extra aantal te subsidiëren uren gezinszorg bedraagt minstens 4% van het totale aantal subsidiabele uren van het voorafgaande jaar, zonder dat de programmatie, vermeld in artikel 2 van deze bijlage, overschreden kan worden. </span></span><br>
+<p>Het jaarlijks extra aantal te subsidiëren uren gezinszorg bedraagt minstens 4% van het totale aantal subsidiabele uren van het voorafgaande jaar, zonder dat de programmatie, vermeld in artikel 2 van deze bijlage, overschreden kan worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Met behoud van de toepassing van het eerste lid, legt de Vlaamse Regering elk jaar het totale aantal subsidiabele uren vast, waarvan maximaal 32.265 uren DOP-uren zijn. </span></span><br>
+Met behoud van de toepassing van het eerste lid, legt de Vlaamse Regering elk jaar het totale aantal subsidiabele uren vast, waarvan maximaal 32.265 uren DOP-uren zijn.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister bepaalt jaarlijks per <span style="color:black">regionale stad en</span> per dienst het maximale aantal subsidiabele uren waarover de dienst beschikt voor het aanbieden van gezinszorg. Bij het toekennen van het jaarlijkse extra urencontingent houdt de minister onder andere rekening met een evenredige beschikbaarheid van uren in relatie tot de behoeften die vastgesteld worden per regionale stad. Het procentuele aandeel van de extra te subsidiëren uren gezinszorg, dat kan worden toegekend aan nieuwe initiatieven, mag niet meer bedragen dan de procentuele ruimte in de programmatie in het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de extra te subsidiëren uren gezinszorg worden toegekend.</span></span><br>
+De minister bepaalt jaarlijks per regionale stad en per dienst het maximale aantal subsidiabele uren waarover de dienst beschikt voor het aanbieden van gezinszorg. Bij het toekennen van het jaarlijkse extra urencontingent houdt de minister onder andere rekening met een evenredige beschikbaarheid van uren in relatie tot de behoeften die vastgesteld worden per regionale stad. Het procentuele aandeel van de extra te subsidiëren uren gezinszorg, dat kan worden toegekend aan nieuwe initiatieven, mag niet meer bedragen dan de procentuele ruimte in de programmatie in het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de extra te subsidiëren uren gezinszorg worden toegekend.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De procentuele ruimte in de programmatie, vermeld in het derde lid, is het procentueel aandeel van de uren gezinszorg in de programmacijfers, vermeld in artikel 2, 1°, van deze bijlage, voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, die nog niet effectief gepresteerd zijn in hetzelfde jaar door de diensten.</span></span><br>
+De procentuele ruimte in de programmatie, vermeld in het derde lid, is het procentueel aandeel van de uren gezinszorg in de programmacijfers, vermeld in artikel 2, 1°, van deze bijlage, voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, die nog niet effectief gepresteerd zijn in hetzelfde jaar door de diensten.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Om de effectief gepresteerde uren gezinszorg, vermeld in het vierde lid, te bepalen, worden de gegevens gebruikt die naar Vesta zijn doorgestuurd. De effectief gepresteerde uren gezinszorg bevatten de uren die gepresteerd zijn in een centrum voor dagopvang.</span></span><br>
+Om de effectief gepresteerde uren gezinszorg, vermeld in het vierde lid, te bepalen, worden de gegevens gebruikt die naar Vesta zijn doorgestuurd. De effectief gepresteerde uren gezinszorg bevatten de uren die gepresteerd zijn in een centrum voor dagopvang.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een erkende dienst mag de onbenutte subsidiabele uren gezinszorg van een bepaalde regionale stad aanwenden in een andere regionale stad.</span></span><br>
+Een erkende dienst mag de onbenutte subsidiabele uren gezinszorg van een bepaalde regionale stad aanwenden in een andere regionale stad.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister bepaalt jaarlijks het aantal te erkennen nieuwe initiatieven. Diensten die erkend worden ter uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2018 tot vaststelling van de regels voor het verlenen van een erkennings- of omzettingskalender en tot wijziging van de regels voor de voorafgaande vergunning, worden als een nieuw initiatief beschouwd.</span></span><br>
+De minister bepaalt jaarlijks het aantal te erkennen nieuwe initiatieven. Diensten die erkend worden ter uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2018 tot vaststelling van de regels voor het verlenen van een erkennings- of omzettingskalender en tot wijziging van de regels voor de voorafgaande vergunning, worden als een nieuw initiatief beschouwd.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Aan een erkende dienst wordt in het eerste werkjaar van zijn erkenning een urencontingent toegekend van 15.390 uren gezinszorg.</span></span><br>
+Aan een erkende dienst wordt in het eerste werkjaar van zijn erkenning een urencontingent toegekend dat gelijk is aan het aantal dagen dat de dienst erkend is in dat jaar, gedeeld door het totale aantal dagen van dat jaar, vermenigvuldigd met 15.390 uren.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister bepaalt de procedure voor de aanvraag en de toewijzing van de DOP-uren, vermeld in het tweede lid, aan de erkende diensten voor gezinszorg.</span></span></p>
+De minister bepaalt de procedure voor de aanvraag en de toewijzing van de DOP-uren, vermeld in het tweede lid, aan de erkende diensten voor gezinszorg.</p>
 
 ### ART 50.
 
@@ -1725,12 +1732,12 @@ De erkende diensten beschrijven het beleid en vermelden de initiatieven die ze i
 ### ART 65/1.
 
 §1. In dit artikel wordt verstaan onder zijinstromer: een personeelslid dat aangeworven is door een dienst voor gezinszorg in het kader van het structureel instroomkanaal voor de zorg- en welzijnssectoren, vermeld in het intersectoraal kaderakkoord van 1 juli 2022 over het structureel instroomkanaal voor de zorg- en welzijnssectoren, en dat voldoet aan al de volgende voorwaarden:<br>
-1° het personeelslid beschikt nog niet over een van de documenten, vermeld in artikel 29, tweede lid, van deze bijlage, maar volgt een opleidingstraject van maximaal anderhalf jaar voltijds om een van die documenten te verwerven;<br>
+1° het personeelslid beschikt nog niet over een van de documenten, vermeld in artikel 29, tweede en derde lid, van deze bijlage, maar volgt een opleidingstraject van maximaal anderhalf jaar voltijds om een van die documenten te verwerven;<br>
 2° het personeelslid is aangeworven met een contract van onbepaalde duur;<br>
 3° het personeelslid ontvangt tijdens het opleidingstraject een loon van de dienst voor gezinszorg volgens de voorwaarden die bepaald zijn in de sectorale collectieve arbeidsovereenkomsten van het paritair comité dat bevoegd is voor de diensten voor gezinszorg van de Vlaamse Gemeenschap, of volgens de geldende loonvoorwaarden voor lokale besturen;<br>
 4° het personeelslid heeft het recht om tijdens het opleidingstraject afwezig te zijn op het werk vanaf de eerste tot en met de laatste schooldag, met uitzondering van de vakantieperiodes, om lessen te volgen, examens af te leggen en stages te lopen, met behoud van het loon, dat de dienst voor gezinszorg op de gewone tijdstippen uitbetaalt;<br>
 5° het personeelslid krijgt van de dienst voor gezinszorg coaching en begeleiding op de werkvloer, waarvoor de subsidiëring buiten het toepassingsgebied van dit hoofdstuk valt;<br>
-6° het personeelslid wordt door de dienst voor gezinszorg aangesteld als verzorgend personeelslid, conform de bepalingen in deze bijlage, zodra het een van de documenten, vermeld in artikel 29, tweede lid, van deze bijlage, verworven heeft, en is vanaf dat ogenblik niet langer een zijinstromer.<br>
+6° het personeelslid wordt door de dienst voor gezinszorg aangesteld als verzorgend personeelslid, conform de bepalingen in deze bijlage, zodra het een van de documenten, vermeld in artikel 29, tweede en derde lid, van deze bijlage, verworven heeft, en is vanaf dat ogenblik niet langer een zijinstromer.<br>
 <br>
 §2. De diensten voor gezinszorg kunnen subsidiabele uren gezinszorg en bijscholing die toegekend worden conform artikel 49, derde lid, en artikel 65 van deze bijlage, en die ze niet benutten voor verzorgend personeel, aanwenden voor de financiering van de loonkosten van de zijinstromers die ze aangeworven hebben.<br>
 <br>
@@ -1738,9 +1745,27 @@ Met behoud van de toepassing van het eerste lid ontvangt een dienst binnen de be
 <br>
 De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de diensten toegekend, samen met het saldo, vermeld in artikel 66, eerste lid, van deze bijlage.<br>
 <br>
-§3. De diensten voor gezinszorg bezorgen aan&nbsp;de administratie jaarlijks voor 1 mei per zijinstromer het totale aantal uren waarvoor ze tijdens het voorbije jaar een loon uitbetaald hebben.<br>
+§3. De diensten voor gezinszorg bezorgen aan&nbsp;de administratie jaarlijks voor 1 mei per zijinstromer en per regionale stad het totale aantal uren waarvoor ze tijdens het voorbije jaar een loon uitbetaald hebben.<br>
 <br>
 §4. Voor de verdeling van de subsidies, vermeld in artikel 58 tot en met 61 en in artikel 64 van deze bijlage, worden zijinstromers gelijkgesteld met verzorgende personeelsleden.
+
+### ART 65/2.
+
+§1. In dit artikel wordt verstaan onder&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;leerling duaal leren: een leerling met wie de dienst voor gezinszorg een overeenkomst van alternerende opleiding heeft gesloten;<br>
+2°&nbsp;&nbsp; &nbsp;overeenkomst van alternerende opleiding: een overeenkomst van alternerende opleiding als vermeld in artikel 3, eerste lid, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.<br>
+<br>
+§2. De diensten voor gezinszorg kunnen subsidiabele uren gezinszorg en bijscholing die toegekend worden conform artikel 49, derde lid, en artikel 65 van deze bijlage, en die ze niet benutten voor verzorgend personeel, gebruiken voor de financiering van de leervergoeding, vermeld in artikel 17, §1, eerste lid, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen, van leerlingen duaal leren.<br>
+<br>
+Met behoud van de toepassing van het eerste lid ontvangt een dienst binnen de beschikbare begrotingskredieten een forfaitair bedrag van 32,74 euro per uur dat de leerling duaal leren voor de dienst gepresteerd heeft, met een maximum van gemiddeld 18 uur per begonnen maand van de overeenkomst van alternerende opleiding die is gesloten.<br>
+<br>
+De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de diensten toegekend, samen met het saldo, vermeld in artikel 66, eerste lid, van deze bijlage.<br>
+<br>
+§3. De diensten voor gezinszorg bezorgen aan de administratie jaarlijks vóór 1 mei per leerling duaal leren en per regionale stad het totale aantal gepresteerde uren tijdens het voorbije jaar, samen met de begin- en einddatum van de overeenkomst van alternerende opleiding.<br>
+<br>
+§4. Voor de verdeling van de subsidies, vermeld in artikel 59, 60 en 64 van deze bijlage, worden leerlingen duaal leren gelijkgesteld met verzorgende personeelsleden.<br>
+<br>
+§5. Voor de toepassing van artikel 28 van deze bijlage wordt een leerling duaal leren gelijkgesteld met een stagiair.
 
 ### ART 66.
 
@@ -1764,7 +1789,7 @@ De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de di
 
 ### ART 69.
 
-<p>De subsidiebedragen, vermeld in artikel 52, eerste en derde lid, en artikel 65/1, §2, tweede lid, van deze bijlage, zijn uitgedrukt tegen 100% op basis van de spilindex die van toepassing is op 1 januari 2019. Binnen de beschikbare begrotingskredieten worden die subsidiebedragen geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
+<p>De subsidiebedragen, vermeld in artikel 52, eerste en derde lid, artikel 65/1, §2, tweede lid, en artikel 65/2, §2, tweede lid, van deze bijlage, zijn uitgedrukt tegen 100% op basis van de spilindex die van toepassing is op 1 januari 2019. Binnen de beschikbare begrotingskredieten worden die subsidiebedragen geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
 <br>
 De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
