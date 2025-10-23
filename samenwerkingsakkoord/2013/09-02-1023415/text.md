@@ -46,11 +46,7 @@
 
 ### ART. 1.
 
-Dit samenwerkingsakkoord beoogt het beheer en de administratie te organiseren van de taken bedoeld in de richtlijn, mits inachtneming van de regels inzake bevoegdheidsverdeling.<br>
-<br>
-Dit samenwerkingsakkoord beoogt tevens de uitvoering van verordening nr. 421/2014 van het Europees Parlement en de Raad van 16 april 2014 tot wijziging van Richtlijn 2003/87/EG tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, met het oog op de tenuitvoerlegging tegen 2020 van een internationale overeenkomst die op emissies van de internationale luchtvaart wereldwijd één markt gebaseerde maatregel toepast en van verordening (EU) 2017/2392 van het Europees Parlement en de Raad van 13 december 2017 tot wijziging van Richtlijn 2003/87/EG om de huidige beperkingen van het toepassingsgebied voor luchtvaartactiviteiten voort te zetten en de tenuitvoerlegging van een wereldwijde marktgebaseerde maatregel vanaf 2021 voor te bereiden.<br>
-<br>
-Dit samenwerkingsakkoord beoogt tevens uitvoering te geven aan de regeling voor koolstofcompensatie en -reductie voor internationale luchtvaart zoals beslist door de Internationale Burgerluchtvaartorganisatie (ICAO) op 27 juni 2018.&nbsp;
+Dit samenwerkingsakkoord beoogt het beheer en de administratie te organiseren van de taken bedoeld in de richtlijn met betrekking tot de luchtvaartsector, mits inachtneming van de regels inzake bevoegdheidsverdeling.
 
 ## HOOFDSTUK II Definities
 
@@ -58,29 +54,29 @@ Dit samenwerkingsakkoord beoogt tevens uitvoering te geven aan de regeling voor 
 
 In dit samenwerkingsakkoord wordt verstaan onder :<br>
 1° bevoegdheden : de bevoegdheid van de gewesten inzake de bescherming van het leefmilieu, onder meer van de lucht, zoals voorzien bij artikel 6, § 1, II, 1°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, zoals geïnterpreteerd door het arrest van het Grondwettelijk Hof nr. 33/2011 van 2 maart 2011, de bevoegdheid van de federale overheid om de uitrusting en de exploitatie van de luchthaven Brussel-Nationaal te regelen als voorzien bij artikel 6, § 1, X, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, en de bevoegdheid van de federale overheid wat betreft de bescherming van de lucht tegen verontreiniging en aantasting in het luchtruim boven de Belgische mariene gebieden;<br>
-2° registerverordening: verordening (EU) 389/2013 van de Commissie van 2 mei 2013 tot instelling van een EU-register overeenkomstig richtlijn 2003/87/EG van het Europees Parlement en de Raad, beschikkingen 280/2004/EG en 406/2009/EG van het Europees Parlement en de Raad en tot intrekking van de verordeningen (EU) 920/2010 en 1193/2011 van de Commissie;<br>
+2° registerverordening: gedelegeerde verordening (EU) 2019/1122 van de Commissie van 12 maart 2019 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad betreffende de werking van het EU-register;<br>
 3° richtlijn: Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, zoals gewijzigd;<br>
 4° Nationale Klimaatcommissie : de commissie opgericht volgens artikel 3 van het samenwerkingsakkoord van 14 november 2002 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het opstellen, het uitvoeren en het opvolgen van een Nationaal Klimaatplan, alsook het rapporteren, in het kader van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering en het Protocol van Kyoto;<br>
 5° contracterende partijen : de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest;<br>
 6° emissierecht : overeenkomstig de bepalingen van de richtlijn overdraagbaar recht om, uitsluitend teneinde aan de eisen van de richtlijn te voldoen, gedurende een bepaalde periode één ton koolstofdioxide-equivalent uit te stoten;<br>
-7° register: het deel van het geconsolideerd systeem van Europese registers overeenkomstig artikel 19 van de richtlijn en artikel 10 van verordening 525/2013, dat wordt beheerd door België conform de registerverordening en het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake Klimaatverandering;<br>
+7° register: het deel van het geconsolideerd systeem van Europese registers overeenkomstig artikel 19 van de richtlijn en artikel 40 van verordening (EU) 2018/1999, dat wordt beheerd door België conform de registerverordening en het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake Klimaatverandering;<br>
 8° emissie : emissie van broeikasgassen in de atmosfeer door een vliegtuig dat een in bijlage I van de richtlijn genoemde luchtvaartactiviteit uitoefent, van de met betrekking tot die activiteit gespecificeerde gassen;<br>
 9° vliegtuigexploitant : de persoon die een luchtvaartuig exploiteert op het moment dat die een in bijlage I van de richtlijn genoemde luchtvaartactiviteit uitoefent of, wanneer die persoon niet bekend is of niet is geïdentificeerd door de eigenaar van het vliegtuig, de eigenaar zelf van het vliegtuig, en voor wie België de verantwoordelijke lidstaat is overeenkomstig artikel 3 van dit samenwerkingsakkoord;<br>
 10° registeradministrateur: de Belgische nationale administrateur overeenkomstig de registerverordening, te weten de federale overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, die de rekeningen en de gebruikers in het register beheert;<br>
-11° veiling : de verkoop van emissierechten aan de vliegtuigexploitanten zoals georganiseerd krachtens de richtlijn;<br>
-12° kosteloze toewijzing : de toekenning aan de vliegtuigexploitanten van het aandeel emissierechten dat niet verplicht moet worden geveild krachtens de richtlijn, zoals georganiseerd krachtens dit samenwerkingsakkoord;<br>
-13° bijzondere reserve : de bijzondere reserve voor sommige vliegtuigexploitanten die een luchtvaartactiviteit beginnen uit te oefenen na het toezichtsjaar van de lopende periode, of waarvan de luchtvaartactiviteiten sindsdien een bepaalde toename hebben gekend, overeenkomstig de modaliteiten van dit samenwerkingsakkoord;<br>
-14° toezichtsjaar : voor de perioden van 1 januari tot 31 december 2012 en van 1 januari 2013 tot 31 december 2020, het jaar 2010; voor de latere perioden, het burgerlijk jaar dat eindigt 24 maanden voor de aanvang van elke periode;<br>
-15° periode : de duur waarvoor er een vast volume emissierechten wordt toegewezen bestemd om de emissies van een luchtvaartactiviteit te dekken, in casu van 1 januari tot 31 december 2012 (eerste periode), van 1 januari 2013 tot 31 december 2020 (tweede periode), enzovoort;<br>
-16° emissiereductie-eenheid of ERU : een eenheid die is verleend overeenkomstig artikel 6 van het Protocol van Kyoto en de overeenkomstig het UNFCCC of het Protocol van Kyoto genomen besluiten;<br>
-17° gecertificeerde emissiereductie of CER, een eenheid die is verleend overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het UNFCCC of het Protocol van Kyoto genomen besluiten;<br>
+11° ...;<br>
+12° kosteloze toewijzing : de toekenning aan de vliegtuigexploitanten van het aandeel emissierechten dat niet verplicht moet worden geveild krachtens de richtlijn;<br>
+13° ...;<br>
+14° ...;<br>
+15° periode: een tien jaar durende periode in casu van 1 januari 2021 tot 31 december 2030 enzovoort;<br>
+16° ...;<br>
+17° ...;<br>
 18° luchthavenbeheerder : de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven waaraan het meeste, in bijlage I van de richtlijn genoemde luchtvaartactiviteiten van de vliegtuigexploitant worden toegeschreven in het referentiejaar. Een luchthaven krijgt een in bijlage I van de richtlijn genoemde luchtvaartactiviteit toegeschreven als deze vertrekt van deze luchthaven of als deze landt op deze luchthaven, op voorwaarde dat de vlucht niet vertrekt vanuit een lidstaat waarop het Verdrag tot oprichting van de Europese Gemeenschap van toepassing is. In het geval dat er aan meerdere luchthavens evenveel luchtvaartactiviteiten worden toegeschreven, is de luchthavenbeheerder de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven, waarvoor de CO2-emissies van de aan haar toegeschreven luchtvaartactiviteiten het grootste zijn.;<br>
 19° referentiejaar : met betrekking tot een vliegtuigexploitant die na januari 2006 zijn exploitatie in de Unie is begonnen, het eerste kalenderjaar van die exploitatie; in alle andere gevallen, het kalenderjaar dat is ingegaan op 1 januari 2006;<br>
 20° de bevoegde autoriteit : de aangewezen autoriteiten overeenkomstig artikel 18 van richtlijn, in dit geval het Waalse Gewest, het Vlaamse Gewest, het Brusselse Hoofdstedelijke Gewest en de federale overheid;<br>
-21° verordening nr. 421/2014: verordening nr. 421/2014 van het Europees Parlement en de Raad van 16 april 2014 tot wijziging van Richtlijn 2003/87/EG tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, met het oog op de tenuitvoerlegging tegen 2020 van een internationale overeenkomst die op emissies van de internationale luchtvaart wereldwijd één markt gebaseerde maatregel toepast;<br>
-22° verordening (EU) 525/2013: verordening (EU) 525/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende en bewakings- en rapportagesysteem voor de uitstoot van broeikasgassen en een rapporteringsmechanisme voor overige informatie op nationaal niveau en op het niveau van de Unie met betrekking tot klimaatverandering, en tot intrekking van beschikking 280/2004/EG;<br>
-23° koninklijk besluit van 21 juli 2017: koninklijk besluit van 21 juli 2017 betreffende het beheer van het register voor broeikasgassen van België en de voorwaarden van toepassing op de gebruikers ervan;<br>
-24° verordening (EU) 2017/2392: verordening (EU) 2017/2392 van het Europees Parlement en de Raad van 13 december 2017 tot wijziging van Richtlijn 2003/87/EG om de huidige beperkingen van het toepassingsgebied voor luchtvaartactiviteiten voort te zetten en de tenuitvoerlegging van een wereldwijde marktgebaseerde maatregel vanaf 2021 voor te bereiden;<br>
+21° ...;<br>
+22° verordening (EU) 2018/1999: verordening (EU) 2018/1999 van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van Verordeningen (EG) nr. 663/2009 en (EG) nr. 715/2009 van het Europees Parlement en de Raad, Richtlijnen 94/22/EG, 98/70/EG, 2009/31/EG, 2009/73/EG, 2010/31/EU, 2012/27/EU en 2013/30/EU van het Europees Parlement en de Raad, Richtlijnen 2009/119/EG en (EU) 2015/652 van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 van het Europees Parlement en de Raad;<br>
+23° ...;<br>
+24° ...;<br>
 25° CORSIA: « Carbon Offsetting and Reduction Scheme for International Aviation », de regeling voor koolstofcompensatie en -reductie voor internationale luchtvaart zoals beslist door de Internationale Burgerluchtvaartorganisatie (ICAO) op 27 juni 2018;<br>
 26° gedelegeerde verordening (EU) 2019/1603: de gedelegeerde verordening (EU) 2019/1603 van de Commissie van 18 juli 2019 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat betreft de door de Internationale Burgerluchtvaartorganisatie aangenomen maatregelen voor de monitoring, rapportage en verificatie van luchtvaartemissies ter uitvoering van een wereldwijde marktgebaseerde maatregel;<br>
 27° CORSIA-vliegtuigexploitant: een luchtvaartmaatschappij die onder het toepassingsgebied van artikel 1 van de gedelegeerde verordening (EU) 2019/1603 valt, en die ofwel:<br>
@@ -103,17 +99,26 @@ Wordt niet beschouwd als een CORSIA-vliegtuigexploitant: een luchtvaartmaatschap
 
 ### ART. 5.
 
-<p>§ 1. - De registeradministrateur creëert voor elke vliegtuigexploitant die overeenkomstig artikel 4 is opgelijst een vliegtuigexploitanttegoedrekening.</p>
+<p>...</p>
 
-<p>§ 2. - Elke vliegtuigexploitant moet deze tegoedrekening activeren overeenkomstig het koninklijk besluit van 21 juli 2017.</p>
-
-<p>§ 3. - Onder voorbehoud van bijzondere bepalingen aangenomen door de Federale Overheid voor de uitvoering van dit samenwerkingsakkoord, zijn de regels betreffende het beheer van het register voor broeikasgassen van België en de voorwaarden van toepassing op de gebruikers ervan, wat de vliegtuigexploitanten betreft, vastgelegd in het koninklijk besluit van 21 juli 2017.</p>
-
-## HOOFDSTUK V Emissiemonitoringplan en monitoringplan voor tonkilometergegevens
+## HOOFDSTUK V Tenuitvoerlegging van de handel in broeikasgasemissierechten binnen de Europese Unie
 
 ### ART. 6.
 
-<P>§ 1. - Minstens vier maanden voor de aanvang van elk toezichtsjaar leggen de   vliegtuigexploitanten hun emissiemonitoringplan en monitoringplan voor   tonkilometergegevens voor aan hun luchthavenbeheerders, die ze onverwijld   bezorgen aan de respectieve bevoegde autoriteiten.<BR></P>  <P>Voor de toepassing van deze paragraaf passeren alle communicaties van de   vliegtuigexploitanten naar hun respectieve bevoegde autoriteit langs de   luchthavenbeheerder. In het geval van de luchthaven Brussel-Nationaal stuurt de   luchthavenbeheerder ook een kopie naar de bevoegde overheid voor de exploitatie   van de luchthaven Brussel-Nationaal, en passeren alle communicaties van de   respectieve bevoegde autoriteit naar de vliegtuigexploitanten langs de bevoegde   overheid voor de exploitatie van de luchthaven Brussel-Nationaal.<BR></P>  <P>§ 2. - De respectieve bevoegde autoriteiten keuren alle   emissiemonitoringplannen en monitoringplannen voor tonkilometergegevens die   betrekking hebben op de periode goed en bezorgen ze aan de Nationale   Klimaatcommissie ter bekrachtiging.<BR></P>
+<p>§ 1. - Vliegtuigexploitanten leggen hun emissiemonitoringplan en jaarlijks emissieverslag voor aan hun luchthavenbeheerders, die ze onverwijld bezorgen aan de respectieve bevoegde autoriteiten.</p>
+
+<p>Voor de toepassing van deze paragraaf passeren alle communicaties van de vliegtuigexploitanten naar hun respectieve bevoegde autoriteit langs de luchthavenbeheerder. In het geval van de luchthaven Brussel-Nationaal stuurt de luchthavenbeheerder ook een kopie naar de bevoegde overheid voor de exploitatie van de luchthaven Brussel-Nationaal, en passeren alle communicaties van de respectieve bevoegde autoriteit naar de vliegtuigexploitanten langs de bevoegde overheid voor de exploitatie van de luchthaven Brussel-Nationaal.</p>
+
+<p>§2. De respectieve bevoegde autoriteiten staan in voor de goedkeuring van de emissiemonitoringplannen en emissieverslagen.<br>
+<br>
+§3. De respectieve bevoegde autoriteiten nemen de maatregelen die nodig zijn om ervoor te zorgen dat de vliegtuigexploitanten en de luchthavenbeheerders paragraaf 1 naleven.<br>
+<br>
+§4. De respectieve bevoegde autoriteiten staan in voor de behandeling van het verzoek van een vliegtuigexploitant om bepaalde emissiedata niet te publiceren, overeenkomstig artikel 14, §6, van de richtlijn.<br>
+&nbsp;</p>
+
+### ART 6/1.
+
+De bevoegde autoriteiten staan in voor de kosteloze toewijzing van emissierechten bedoeld in artikel 3c §6 en artikel 3d §1a van de richtlijn.
 
 ## HOOFDSTUK VI Aanvragen tot kosteloze toewijzing van emissierechten : aangifte en nazicht van de tonkilometergegevens
 
@@ -121,130 +126,91 @@ Wordt niet beschouwd als een CORSIA-vliegtuigexploitant: een luchtvaartmaatschap
 
 ### ART. 7.
 
-<p>§ 1. - De aanvragen van de vliegtuigexploitanten voor kosteloze toewijzing van emissierechten worden ten minste 21 maanden voor de aanvang van de periode waarop de aanvraag betrekking heeft door de vliegtuigexploitanten ingediend bij hun luchthavenbeheerders, die ze onverwijld bezorgen aan de respectieve bevoegde autoriteiten.</p>
-
-<p>Voor de toepassing van deze paragraaf passeren alle communicaties van de vliegtuigexploitanten naar hun respectieve bevoegde autoriteit langs de luchthavenbeheerder. In het geval van de luchthaven Brussel-Nationaal stuurt de luchthavenbeheerder ook een kopie naar de bevoegde overheid voor de exploitatie van de luchthaven Brussel-Nationaal, en passeren alle communicaties van de respectieve bevoegde autoriteit naar de vliegtuigexploitanten langs de bevoegde overheid voor de exploitatie van de luchthaven Brussel-Nationaal.</p>
-
-<p>De bevoegde autoriteiten bezorgen de ontvangen aanvragen aan de Nationale Klimaatcommissie ten minste negentien maanden voor de aanvang van de periode waarop de aanvragen betrekking hebben.</p>
-
-<p>De aanvragen omvatten de gegevens met betrekking tot de overeenkomstig bijlagen IV en V van de richtlijn bewaakte, aangegeven en gecontroleerde tonkilometers voor de luchtvaartactiviteiten die tijdens het toezichtsjaar door de vliegtuigexploitant worden gevoerd.</p>
-
-<p>Achttien maanden voor de aanvang van de periode waarop de aanvraag betrekking heeft legt de Nationale Klimaatcommissie de ontvangen aanvragen aan de Europese Commissie voor.</p>
-
-<p>Binnen de twee maanden nadat de Europese Commissie een beslissing heeft genomen overeenkomstig artikel 3sexies, § 3, van de richtlijn, berekent elke bevoegde autoriteit voor elke aan hem toegewezen vliegtuigexploitant het totaal aantal toegewezen emissierechten voor de betreffende periode, alsook het totaal voor elk jaar van deze periode, en bezorgt de toewijzingstabel aan de Nationale Klimaatcommissie.</p>
-
-<p>§ 2. - De Nationale Klimaatcommissie aggregeert de toewijzingstabellen van de bevoegde autoriteiten, die aan haar worden bezorgd overeenkomstig paragraaf 1, en geeft opdracht aan de registeradministrateur om deze geaggregeerde toewijzingstabel te publiceren op de website van het nationaal register.</p>
-
-<p>§ 3. - Op 28 februari van elk jaar, verleent de registeradministrateur in toepassing van paragraaf 1 aan elke vliegtuigexploitant het aantal aan hem toegewezen emissierechten voor het betreffende jaar.</p>
+<p>...</p>
 
 ## Afdeling II Aanvragen van emissierechten uit de bijzondere reserve voor sommige vliegtuigexploitanten
 
 ### ART. 8.
 
-<p>§ 1. - Een kosteloze toewijzing van emissierechten uit de bijzondere reserve is voorzien voor de vliegtuigexploitanten :<br>
-1° die een luchtvaartactiviteit beginnen uit te oefenen na het toezichtsjaar waarvoor de tonkilometergegevens werden medegedeeld;<br>
-of<br>
-2° van wie de tonkilometergegevens een gemiddelde jaarlijkse stijging vertonen groter dan 18 % tussen het toezichtsjaar waarvoor de tonkilometergegevens voor een periode werden medegedeeld, en het tweede kalenderjaar van deze periode;<br>
-en van wie de activiteiten bedoeld in punten 1° en 2° niet gedeeltelijk of geheel kaderen in de uitoefening van een luchtvaartactiviteit die voorheen werd uitgeoefend door een andere vliegtuigexploitant.</p>
-
-<p>§ 2. - In toepassing van paragraaf 1 kan een vliegtuigexploitant zich niet meer dan 1.000.000 emissierechten zien toewijzen.</p>
+<p>...</p>
 
 ### ART. 9.
 
-<P>§ 1. - De vliegtuigexploitanten die overeenkomstig artikel 8 in aanmerking   komen voor een toewijzing van emissierechten uit de bijzondere reserve moeten   een aanvraag indienen bij hun luchthavenbeheerders, die ze onverwijld bezorgen   aan de respectieve bevoegde autoriteiten voor 30 juni in het derde jaar van de   periode waarop de aanvraag betrekking heeft.<BR></P>  <P>Voor de toepassing van deze paragraaf passeren alle communicaties van de   vliegtuigexploitanten naar hun respectieve bevoegde autoriteit langs de   luchthavenbeheerder. In het geval van de luchthaven Brussel-Nationaal stuurt de   luchthavenbeheerder ook een kopie naar de bevoegde overheid voor de exploitatie   van de luchthaven Brussel-Nationaal, en passeren alle communicaties van de   respectieve bevoegde autoriteit naar de vliegtuigexploitanten langs de bevoegde   overheid voor de exploitatie van de luchthaven Brussel-Nationaal.<BR></P>  <P>§ 2. - De aanvragen van de vliegtuigexploitanten worden door de respectieve   bevoegde autoriteiten aan de Nationale Klimaatcommissie bezorgd ten laatste op   30 september van het derde jaar van de periode waarop de aanvraag betrekking   heeft.<BR></P>  <P>§ 3. - De aanvraag :<BR>1° omvat de gegevens met betrekking tot de   overeenkomstig bijlagen IV en V van de richtlijn bewaakte, aangegeven en   gecontroleerde tonkilometers voor de luchtvaartactiviteiten bedoeld in bijlage I   van de richtlijn en die door de vliegtuigexploitant worden gevoerd gedurende het   tweede kalenderjaar van de periode waarop ze betrekking heeft; <BR>2° voert het   bewijs aan dat de toelaatbaarheidscriteria bedoeld in artikel 8 vervuld zijn;   en<BR>3° vermeldt in het geval van een vliegtuigexploitant op wie artikel 8, §   1, 2°, van toepassing is : <BR>a) de stijgingsratio uitgedrukt in tonkilometers   met betrekking tot de activiteiten van deze vliegtuigexploitant tussen het   toezichtsjaar waarvoor de tonkilometergegevens werden medegedeeld voor hun   initiële aanvraag van kosteloze toewijzing voor de periode, en het tweede   kalenderjaar van deze periode;<BR>b) de stijging in absolute cijfers uitgedrukt   in tonkilometers die betrekking heeft op de activiteiten van deze   vliegtuigexploitant tussen het toezichtsjaar waarvoor de tonkilometergegevens   werden medegedeeld voor hun initiële aanvraag van kosteloze toewijzing voor de   periode, en het tweede kalenderjaar van deze periode; <BR>c) het gedeelte van de   stijging in absolute cijfers, uitgedrukt in tonkilometers, met betrekking tot de   activiteiten van deze vliegtuigexploitant tussen het toezichtsjaar waarvoor de   tonkilometergegevens werden medegedeeld voor hun initiële aanvraag van kosteloze   toewijzing voor de periode, en het tweede kalenderjaar van deze periode, dat het   percentage overtreft vermeld in artikel 8, § 1, 2°. <BR></P>
+<p>...</p>
 
 ### ART. 10.
 
-<p>§ 1. - De Nationale Klimaatcommissie legt de ontvangen aanvragen aan de Europese Commissie voor ten laatste 6 maanden na de uiterste datum voorzien in artikel 9, § 1.</p>
-
-<p>§ 2. - Binnen de twee maanden nadat de Europese Commissie een beslissing heeft genomen tot vaststelling van de referentiewaarde volgens artikel 3septies, § 5, van de richtlijn, berekent elke bevoegde autoriteit de volgende elementen en bezorgt deze aan de Nationale Klimaatcommissie :<br>
-1° de toewijzing van emissierechten afkomstig uit de bijzondere reserve aan de vliegtuigexploitanten die onder haar bevoegdheid vallen en waarvan de aanvraag werd voorgelegd aan de Commissie overeenkomstig paragraaf 1. Deze toewijzing wordt berekend door de referentiewaarde te vermenigvuldigen :<br>
-a) in het geval van een vliegtuigexploitant die valt onder toepassing van artikel 8, § 1, 1°, met de tonkilometergegevens vervat in de aanvraag die aan de Commissie werd voorgelegd;<br>
-b) in het geval van een vliegtuigexploitant die valt onder toepassing van artikel 8, § 1, 2°, met het gedeelte van de stijging in absolute cijfers, uitgedrukt in tonkilometers, dat het percentage overtreft vermeld in artikel 8, § 1, 2°, vervat in de aanvraag die aan de Commissie werd voorgelegd; en<br>
-2° de toewijzing van emissierechten aan elke vliegtuigexploitant voor elk jaar, berekend door de toewijzing van emissierechten bepaald overeenkomstig punt 1° te delen door het aantal volledige kalenderjaren die nog overblijven van de periode waarop de toewijzing betrekking heeft.</p>
-
-<p>De Nationale Klimaatcommissie aggregeert de toewijzingen aan de respectieve vliegtuigexploitanten zoals berekend overeenkomstig 1°, en geeft opdracht aan de registeradministrateur om deze geaggregeerde toewijzingstabel te publiceren op de website van het nationaal register.</p>
+<p>...</p>
 
 ### ART. 11.
 
-De emissierechten die niet kosteloos moeten worden toegewezen worden   geveild.<BR>
+...
 
 ## HOOFDSTUK VII Het veilen van de emissierechten
 
 ### ART. 12.
 
-De registeradministrateur wordt aangeduid als veiler.<BR>
+...
 
 ### ART. 13.
 
 Het huidige samenwerkingsakkoord is geenszins een voorafname op de   verdeling van de inkomsten uit de veiling.<BR>
 
-## HOOFDSTUK VIII Aangifte en verificatie van de emissies
+## HOOFDSTUK VIII ...
 
 ### ART. 14.
 
-<p>§ 1. - Elk jaar, vanaf 1 januari 2012, sturen de vliegtuigexploitanten ten laatste de tweede donderdag van de maand maart, hun jaarlijks emissieverslag voor het voorbije kalenderjaar en het verificatierapport naar hun luchthavenbeheerders, die de respectieve bevoegde autoriteiten daar onverwijld over inlichten.</p>
-
-<p>Voor de toepassing van deze paragraaf passeren alle communicaties van de vliegtuigexploitanten naar hun respectieve bevoegde autoriteit langs de luchthavenbeheerder. In het geval van de luchthaven Brussel-Nationaal stuurt de luchthavenbeheerder ook een kopie naar de bevoegde overheid voor de exploitatie van de luchthaven Brussel-Nationaal, en passeren alle communicaties van de respectieve bevoegde autoriteit naar de vliegtuigexploitanten langs de bevoegde overheid voor de exploitatie van de luchthaven Brussel-Nationaal.</p>
-
-<p>§ 2. - De Nationale Klimaatcommissie vergewist zich ervan dat de bevoegde autoriteiten de aangiften van de vliegtuigexploitanten samen met de verificatierapporten hebben goedgekeurd overeenkomstig de criteria vastgelegd in bijlage V van de richtlijn, en licht vervolgens de registeradministrateur daarover in met de toelating van de respectieve toegelaten vertegenwoordiger van de bevoegde autoriteit zoals die wordt bepaald in het samenwerkingsakkoord van 20 januari 2017 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de organisatie en het administratief beheer van het nationaal register voor broeikasgassen van België overeenkomstig Richtlijn 2003/87/ EG van het Europees Parlement en de Raad en verordening (EU) 525/2013 van het Europees Parlement en de Raad, alsmede bepaalde elementen van de veiling overeenkomstig verordening (EU) 1031/2010 van de Commissie.</p>
-
-<p>§ 3. - Overeenkomstig de bepalingen van het koninklijk besluit van 21 juli 2017&nbsp;blokkeert de registeradministrateur de overdracht van alle emissierechten of CERs en ERUs vanaf de tegoedrekening van de vliegtuigexploitant wiens verslag op de 31 maart niet als bevredigend werd bevonden.</p>
+<p>...</p>
 
 ### ART. 15.
 
 &nbsp;De bevoegde autoriteiten nemen de maatregelen die nodig zijn om   ervoor te zorgen dat de vliegtuigexploitanten en de luchthavenbeheerders artikel   14, § 1, naleven.<BR>
 
-## HOOFDSTUK IX Geldigheid, inlevering en annulering van emissierechten
+## HOOFDSTUK IX ...
 
 ### ART. 16.
 
-De emissierechten die verleend worden vanaf 1 januari 2013 zijn geldig voor onbepaalde tijd.<br>
-<br>
-Emissierechten die met ingang van 1 januari 2021 worden verleend, bevatten een aanduiding waaruit blijkt in welke periode van tien jaar te rekenen vanaf 1 januari 2021 zij zijn verstrekt, en zijn geldig voor emissies met ingang van het eerste jaar van die periode.
+...
 
 ### ART. 17.
 
-<p>§ 1. - Elke vliegtuigexploitant levert uiterlijk op 30 april van ieder jaar een hoeveelheid emissierechten in die gelijk is aan de totale emissies gedurende het voorgaande kalenderjaar, die overeenkomstig artikel 14, § 2, geverifieerd zijn en die voortvloeien uit de luchtvaartactiviteiten waarvoor hij als vliegtuigexploitant wordt beschouwd.</p>
-
-<p>§ 2. - In afwijking van paragraaf 1 mag een vliegtuigexploitant voor elk kalenderjaar van de periode tot en met 2020 een hoeveelheid CERs en ERUs inleveren in plaats van emissierechten, en dit tot een bepaald percentage van het aantal emissierechten dat de vliegtuigexploitant overeenkomstig paragraaf 1 moet inleveren zoals gepubliceerd door de Europese Commissie.</p>
-
-<p>§ 3. - Het totaal van de emissies van het voorgaande kalenderjaar is de hoeveelheid die wordt geverifieerd en als bevredigend wordt beschouwd door de bevoegde autoriteit en geviseerd door de Nationale Klimaatcommissie, zoals het werd meegedeeld aan de registeradministrateur overeenkomstig artikel 14, § 2.</p>
+<p>...</p>
 
 ### ART. 18.
 
-<P>§ 1. - De registeradministrateur annuleert de emissierechten die werden   ingeleverd overeenkomstig artikel 17, § 1. <BR></P>  <P>§ 2. - Vier maanden na het begin van iedere periode bedoeld in paragraaf 1,   annuleert de registeradministrateur de emissierechten die niet meer geldig zijn   en die niet overeenkomstig paragraaf 1 werden ingeleverd en   geannuleerd.<BR></P>
+<p>...</p>
 
 ### ART. 19.
 
-De registeradministrateur publiceert op de website van het nationaal   broeikasgasregister de naam van de vliegtuigexploitanten die zich niet houden   aan de voorschriften van artikel 17 inzake het inleveren van voldoende   emissierechten.<BR>
+...
 
 ## HOOFDSTUK X Sancties
 
 ### ART. 20.
 
-<P>§ 1. - Elke vliegtuigexploitant die uiterlijk op 30 april van elk jaar niet   voldoende emissierechten heeft ingeleverd ter dekking van zijn emissies in het   voorgaande jaar, krijgt een boete opgelegd wegens overmatige emissie. Voor elke   ton uitgestoten kooldioxide-equivalent waarvoor de vliegtuigexploitant geen   emissierechten heeft ingeleverd bedraagt de boete wegens overmatige emissie 100   EUR, vanaf 2013 geïndexeerd.<BR></P>  <P>§ 2. - De Nationale Klimaatcommissie vergewist zich ervan dat deze boete door   de respectieve bevoegde autoriteit wordt opgelegd.<BR></P>  <P>§ 3. - De betaling van de boete wegens overmatige emissie ontslaat de   vliegtuigexploitant niet van de verplichting, bij de inlevering van   emissierechten in verband met het volgende kalenderjaar, een hoeveelheid   emissierechten in te leveren die gelijk is aan die   emissieoverschrijding.<BR></P>  <P>§ 4. - Als een vliegtuigexploitant zich niet houdt aan de vereisten van dit   akkoord en de uitvoeringsmaatregelen ervan, en als andere maatregelen die de   naleving ervan moeten waarborgen er niet toe hebben geleid hem daartoe te   dwingen, kan de federale overheid de Nationale Klimaatcommissie ermee gelasten   de Europese Commissie te vragen een beslissing te nemen waarbij de betrokken   vliegtuigexploitant een exploitatieverbod krijgt opgelegd.<BR></P>  <P>§ 5. - De vraag die werd geformuleerd in toepassing van paragraaf 4 omvat   :<BR>a) elementen die aantonen dat de vliegtuigexploitant zijn verplichtingen   krachtens dit akkoord niet is nagekomen;<BR>b) toelichtingen omtrent de   dwangmaatregelen die de respectieve bevoegde autoriteit heeft ingesteld om de   naleving van dit akkoord te waarborgen;<BR>c) een rechtvaardiging van het   opgelegde exploitatieverbod op gemeenschapsniveau; en<BR>d) een aanbeveling   omtrent de draagwijdte van een exploitatieverbod op gemeenschapsniveau en   omtrent de eventuele voorwaarden die toegepast zouden moeten worden.<BR></P>  <P>§ 6. - De federale overheid organiseert het nodige en haalbare overleg met   het oog op de goedkeuring van een beslissing naar aanleiding van een krachtens   paragrafen 4 en 5 ingediende aanvraag, en neemt deel aan hetzelfde overleg dat   wordt georganiseerd door de Europese Commissie.<BR></P>  <P>§ 7. - De federale overheid gelast de Nationale Klimaatcommissie ermee, de   Commissie op de hoogte te brengen van elke maatregel die werd genomen om een   dergelijke beslissing ten uitvoer te brengen.<BR></P>
+<p>§1. De registeradministrateur publiceert op de website van het nationaal broeikasgasregister de naam van de vliegtuigexploitanten die zich niet houden aan de voorschriften van de richtlijn inzake het inleveren van voldoende emissierechten.</p>
 
-## [HOOFDSTUK X/1. - Afwijkingen die gelden vooruitlopend op de tenuitvoerlegging (ing. SA 16 oktober 2015, art. 3, I: 23 maart 2017)][van de wereldwijde marktgebaseerde maatregel van de ICAO (verv. SA 15 december 2020, art. 10, I: 27 mei 2022)]
+<p>§2. De bevoegde autoriteiten staan in voor het opleggen van de boete voor het onvoldoende inleveren van emissierechten overeenkomstig artikel 16, §3 van de richtlijn. De Nationale Klimaatcommissie vergewist zich ervan dat deze boete door de respectieve bevoegde autoriteit wordt opgelegd.</p>
+
+<p>§3. ...</p>
+
+<p>§4. - Als een vliegtuigexploitant zich niet houdt aan de vereisten van de richtlijn, en als andere maatregelen die de naleving ervan moeten waarborgen er niet toe hebben geleid hem daartoe te dwingen, kan de federale overheid de Nationale Klimaatcommissie ermee gelasten de Europese Commissie te vragen een beslissing te nemen waarbij de betrokken vliegtuigexploitant een exploitatieverbod krijgt opgelegd.</p>
+
+<p>§5. - De vraag die werd geformuleerd in toepassing van paragraaf 4 omvat :<br>
+a) elementen die aantonen dat de vliegtuigexploitant zijn verplichtingen krachtens dit akkoord niet is nagekomen;<br>
+b) toelichtingen omtrent de dwangmaatregelen die de respectieve bevoegde autoriteit heeft ingesteld om de naleving van dit akkoord te waarborgen;<br>
+c) een rechtvaardiging van het opgelegde exploitatieverbod op gemeenschapsniveau; en<br>
+d) een aanbeveling omtrent de draagwijdte van een exploitatieverbod op gemeenschapsniveau en omtrent de eventuele voorwaarden die toegepast zouden moeten worden.</p>
+
+<p>§6. - De federale overheid organiseert het nodige en haalbare overleg met het oog op de goedkeuring van een beslissing naar aanleiding van een krachtens paragrafen 4 en 5 ingediende aanvraag, en neemt deel aan hetzelfde overleg dat wordt georganiseerd door de Europese Commissie.</p>
+
+<p>§7. - De federale overheid gelast de Nationale Klimaatcommissie ermee, de Commissie op de hoogte te brengen van elke maatregel die werd genomen om een dergelijke beslissing ten uitvoer te brengen.</p>
+
+## HOOFDSTUK X/1. ...
 
 ### ART 20/1.
 
-§ 1. In afwijking van de artikelen 6, 14, 15, 17 en 20, beschouwen de bevoegde autoriteit en de Nationale Klimaatcommissie de in deze artikelen vastgestelde verplichtingen als vervuld en ondernemen zij geen actie tegen vliegtuigexploitanten voor wat betreft :<br>
-1° alle emissies van vluchten naar of van luchthavens gelegen in landen buiten de Europese Economische Ruimte (EER) in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2023;<br>
-2° alle emissies van vluchten tussen een luchthaven gelegen in een ultraperifeer gebied in de zin van artikel 349 van het Verdrag betreffende de werking van de Europese Unie, en een luchthaven gelegen in een ander gebied van de Europese Economische Ruimte (EER) in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2023;<br>
-3° ...<br>
-<br>
-Voor de toepassing van de artikelen 14 en 17 worden de geverifieerde emissies van vluchten andere dan deze vermeld in het eerste lid,&nbsp; beschouwd als geverifieerde emissies van de vliegtuigexploitant.<br>
-<br>
-§ 2. In afwijking van artikel 7, § 1, en artikel 10, § 2, worden aan vliegtuigexploitanten voor wie de tijdelijke afwijkingen, vermeld in paragraaf 1,&nbsp; gelden, elk jaar een aantal kosteloze emissierechten toegewezen die zijn verminderd in verhouding tot de vermindering van de verplichting om emissierechten in te leveren, vermeld in paragraaf 1.<br>
-<br>
-In afwijking van artikel 11 worden emissierechten die niet zijn toegewezen uit de bijzondere reserve&nbsp; geannuleerd.<br>
-<br>
-Wat de activiteiten in de kalenderjaren met ingang van 1 januari 2017 tot en met 31 december 2023&nbsp;betreft, berekent elke bevoegde autoriteit uiterlijk op 15 augustus 2018 voor elke aan hem toegewezen vliegtuigexploitant het aantal kosteloze toegewezen emissierechten overeenkomstig het eerste lid, en bezorgt de toewijzingstabel aan de Nationale Klimaatcommissie. De Nationale Klimaatcommissie aggregeert de toewijzingstabellen van de bevoegde autoriteiten die aan haar worden bezorgd, en geeft opdracht aan de registeradministrateur om de geaggregeerde toewijzingstabel te publiceren op de website van het nationaal broeikasgasregister ten laatste op 31 augustus 2018.<br>
-<br>
-§ 3. In afwijking van artikel 6 zijn vliegtuigexploitanten niet verplicht om emissiemonitoringplannen in te dienen die de maatregelen beschrijven om emissies te bewaken en te rapporteren met betrekking tot vluchten waarvoor de tijdelijke afwijkingen, vermeld in paragraaf 1, gelden.<br>
-<br>
-§ 4. In afwijking van artikel 14, paragraaf 1 en 2, worden de emissies van een vliegtuigexploitant met totale jaarlijkse emissies van minder dan 25.000 ton CO<sub>2</sub> of van een vliegtuigexploitant met totale jaarlijkse emissies van minder dan 3.000 ton CO<sub>2</sub> van andere vluchten dan die welke in paragraaf 1, worden bedoeld&nbsp; beschouwd als geverifieerde emissies als deze werden vastgesteld met gebruikmaking van het instrument voor kleine emittenten dat door verordening (EU) nr. 606/2010 van de Commissie is goedgekeurd en door Eurocontrol werd voorzien van gegevens uit zijn ETS-ondersteuningsfaciliteit.
+...
 
 ## [HOOFDSTUK X/2 Tenuitvoerlegging van CORSIA (ing. SA 15 december 2020, art. 12, I: 27 mei 2022)]
 
