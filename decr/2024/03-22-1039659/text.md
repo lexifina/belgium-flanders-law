@@ -485,6 +485,6 @@ De Vlaamse Regering wordt gemachtigd om artikel 3, 39°/3, van het koninklijk be
 
 ### ART 49.
 
-Artikel 24 tot en met 35 en artikel 48 treden in werking op een datum die de Vlaamse Regering bepaalt en uiterlijk op 31 december 2025.<br>
+Artikel 24 tot en met 35 en artikel 48 treden in werking op een datum die de Vlaamse Regering bepaalt en uiterlijk op 31 december 2026.<br>
 <br>
 Artikel 7, 1°, heeft uitwerking met ingang van 1 maart 2004.
