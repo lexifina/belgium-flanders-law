@@ -25,3 +25,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 12.
 
 In artikel 64/1, §1, eerste lid, van bijlage 2 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 12 september 2025, wordt het bedrag “3.000.000 euro” vervangen door het bedrag “2.510.265,80 euro”.
+
+### ART 15.
+
+In artikel 69, eerste lid, van bijlage 2 bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 11 februari 2022 en 31 augustus 2023, wordt de zinsnede “artikel 52, eerste en derde lid, en artikel 65/1, §2, tweede lid,” vervangen door de zinsnede “artikel 52, eerste en derde lid, artikel 65/1, §2, tweede lid, en artikel 65/2, §2, tweede lid,”.
