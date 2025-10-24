@@ -2,16 +2,16 @@
   "codex_id": 1041430,
   "title": "Besluit van de Vlaamse Regering van 2025-10-24 tot herverdeling van VAK en VEK op begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2025 in het kader van een bijkomende toelage aan het Agentschap Plantentuin Meise voor het implementeren van haar Masterplan Onderzoeksgebouwen en Infrastructuur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041430/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "583209dff42ad67303415e4f0bb0b3baecb920e5e839b33b08f09fa41cffa88a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041430/VolledigDocument?datum=2025-10-24",
+  "source_sha256": "a1049e3babad5020134216f5f1fc1d213ace8e1bc66b57cd905703775274d477",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041430&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-10-24",
   "made": "2025-10-24",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-10-24",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-10-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-10-24; future article versions excluded; article text as the API gives it"
 }
