@@ -150,9 +150,10 @@ De volgende personen kunnen een persoon aansluiten die een beroep wil doen op ee
 1° de echtgenoot, echtgenote of de wettelijk samenwonende partner van de persoon in kwestie;<br>
 2° een verwant in de eerste graad van de persoon in kwestie;<br>
 3° de verantwoordelijke van de zorgvoorziening in kwestie;<br>
-4° de verstrekker van mobiliteitshulpmiddelen in kwestie.<br>
+4° de verstrekker van mobiliteitshulpmiddelen in kwestie;<br>
+5° de overlegorganisator in kwestie.<br>
 <br>
-De personen, vermeld in het eerste lid, 3° en 4°, kunnen een persoon alleen administratief aansluiten.
+De personen, vermeld in het eerste lid, 3°, 4° en 5°, kunnen een persoon alleen administratief aansluiten.
 
 ### ART 14.
 
@@ -445,12 +446,7 @@ Onder uitzonderlijke kosten als vermeld in artikel 130, § 2, tweede lid, van he
 
 ### ART 41.
 
-De beslissing, vermeld in artikel 133, § 2, eerste lid, van het besluit van 30 november 2018, vermeldt minstens de volgende informatie:<br>
-1° het totaalbedrag van de ten onrechte uitbetaalde tegemoetkomingen en de berekeningswijze ervan;<br>
-2° de vraag om het bedrag van de ten onrechte uitbetaalde tegemoetkomingen terug te betalen en de betalingstermijn;<br>
-3° de reden van de beslissing om de ten onrechte uitbetaalde tegemoetkomingen terug te vorderen;<br>
-4° de verjaringstermijn die in aanmerking genomen wordt, en, als die geen twee jaar bedraagt, de motivering ervan;<br>
-5° de mogelijkheid om een gerechtsdeurwaarder in te schakelen om de ten onrechte uitbetaalde tegemoetkomingen terug te vorderen, als de zorgvoorziening of de verstrekker van mobiliteitshulpmiddelen niet tijdig reageert.
+De beslissing, vermeld in artikel 133, §2, eerste lid, van het besluit van 30 november 2018, vermeldt al de informatie, vermeld in artikel 39, 1° tot en met 7°, van dit besluit.
 
 ## HOOFDSTUK 3. Vertegenwoordiging
 
@@ -496,12 +492,13 @@ Als de gebruiker een kind is dat wordt opgevangen in het kader van de perspectie
 Om een zorgbudget voor zwaar zorgbehoevenden in het kader van mantel- en thuiszorg te verkrijgen, beantwoorden de attesten, vermeld in artikel 151, § 1, van het besluit van 30 november 2018, aan de volgende criteria:<br>
 1° het attest op basis van de score op de Katz-schaal in de thuisverpleging wordt afgeleverd door de verzekeringsinstelling;<br>
 2° het attest op basis van de score op de Katz-schaal in een verzorgingsinrichting wordt afgeleverd door de verzekeringsinstelling of is in het bezit van de zorgkas;<br>
-3° het attest op basis van de score op de BelRAI-screener of op de BEL-schaal, afgenomen in het kader van de activiteiten persoonsverzorging, huishoudelijke hulp of schoonmaakhulp, verricht door een dienst voor gezinszorg en aanvullende thuiszorg in het kader van het Woonzorgdecreet van 13 maart 2009, of de activiteit schoonmaakhulp, verricht door een dienst voor logistieke hulp in het kader van het Woonzorgdecreet van 13 maart 2009, wordt afgeleverd door de dienst voor gezinszorg en aanvullende thuiszorg of door de dienst voor logistieke hulp waarop de gebruiker een beroep doet;<br>
-4° het attest op basis van bijkomende kinderbijslag wordt afgeleverd door de Federale Overheidsdienst Sociale Zekerheid, door de dienst die de kinderbijslag voor de persoon in kwestie uitbetaalt, door Kind en Gezin of door de verzekeringsinstelling;<br>
+3° het attest op basis van de score of de punten op de BelRAI-screener wordt afgeleverd door de voorziening die de BelRAI-screener heeft afgenomen, vermeld in artikel 151, §1, eerste lid, 1°, van het besluit van 30 november 2018;<br>
+4° het attest op basis van zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte wordt afgeleverd door het Agentschap Opgroeien Regie, het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, de dienst die het Groeipakket, vermeld in het Groeipakketdecreet van 2018, uitbetaalt, of de verzekeringsinstelling. Het attest op basis van bijkomende kinderbijslag wordt afgeleverd door Iriscare als vermeld in artikel 2 van de ordonnantie van 23 maart 2017 houdende de oprichting van de bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag of de verzekeringsinstelling;<br>
 5° de attesten op basis van de score op de medisch-sociale schaal die wordt gebruikt voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming, worden afgeleverd door de verzekeringsinstelling of door de Federale Overheidsdienst Sociale Zekerheid of zijn in het bezit van de zorgkas;<br>
-6° het kine-E-attest wordt door de verzekeringsinstelling afgeleverd.<br>
+6° het kine-E-attest wordt door de verzekeringsinstelling afgeleverd;<br>
+7° het attest waarin wordt vastgesteld dat de gebruiker vóór de eerste dag van de vierde maand die volgt op de datum waarop het recht op een tegemoetkoming geopend wordt, recht heeft op de forfaitaire tegemoetkoming, vermeld in artikel 2 van het koninklijk besluit van 2 december 1999 tot vaststelling van de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging voor geneesmiddelen, verzorgingsmiddelen en hulpmiddelen voor palliatieve thuispatiënten, bedoeld in artikel 34, 14°, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, wordt afgeleverd door de verzekeringsinstelling.<br>
 <br>
-Met uitzondering van het kine-E-attest bevatten de attesten, vermeld in het eerste lid, minstens de volgende gegevens:<br>
+Met uitzondering van het Kine-E-attest en het attest, vermeld in het eerste lid, 7°, bevatten de attesten, vermeld in het eerste lid, minstens de volgende gegevens:<br>
 1° de voor- en achternaam, het adres, de geboortedatum en het identificatienummer van de gebruiker bij wie de indicatiestelling afgenomen is;<br>
 2° de naam van de instantie die het attest heeft afgeleverd;<br>
 3° de naam van de schaal waarop het attest is gebaseerd;<br>
@@ -514,6 +511,11 @@ Het kine-E-attest, vermeld in het eerste lid, 6°, bevat minstens de volgende ge
 2° de naam van de instantie die het attest heeft afgeleverd;<br>
 3° de datum van toekenning van het attest;<br>
 4° de duur van de geldigheid van het attest.<br>
+<br>
+Het attest, vermeld in het eerste lid, 7°, bevat al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en de achternaam, het adres en het identificatienummer van de gebruiker aan wie het attest toegekend wordt;<br>
+2°&nbsp;&nbsp; &nbsp;de naam van de instantie die het attest heeft afgeleverd;<br>
+3°&nbsp;&nbsp; &nbsp;de datum van toekenning van het attest.<br>
 <br>
 De gebruiker of zijn vertegenwoordiger bezorgt het attest, vermeld in het eerste lid, aan de zorgkas.
 
@@ -531,9 +533,11 @@ De attesten op basis van de score op de Katz-schaal in een verzorgingsinrichting
 <br>
 De zorgkas die een verblijfsattest ontvangt dat verstrekt is door een voorziening of door een professionele zorgverlener die in een andere lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte of in Zwitserland gevestigd is, vraagt aan het agentschap of de voorziening voldoet aan de voorwaarden, vermeld in artikel 149, 4°, van het besluit van 30 november 2018.
 
+## Afdeling 2. ...
+
 ### ART 47.
 
-De zorgkas die een beschrijvend verslag ontvangt als vermeld in artikel 158 van het besluit van 30 november 2018, vraagt aan het agentschap of de persoon die het verslag heeft ingevuld, een arts is die zijn activiteiten op rechtmatige wijze verricht in het woonland.
+...
 
 ## HOOFDSTUK 2. Beslissing over de tegemoetkoming
 
@@ -545,7 +549,7 @@ De mededeling bij een positieve beslissing over het zorgbudget voor zwaar zorgbe
 3° de vermelding van de geldigheidsduur van de beslissing tot toekenning van de tegemoetkoming;<br>
 4° de vermelding van de zorgvorm en het bedrag waarop de gebruiker een beroep kan doen;<br>
 5° een motivering van de beslissing;<br>
-6° de mededeling dat de gebruiker of zijn vertegenwoordiger het recht heeft om op elk moment een herziening van de beslissing over het zorgbudget voor zwaar zorgbehoevenden te vragen;<br>
+6° ...;<br>
 7° de melding dat de gebruiker of zijn vertegenwoordiger een verandering van zorgvorm en elke ernstige verandering van de gezondheidstoestand van de gebruiker onmiddellijk moet meedelen aan zijn zorgkas. Daar wordt aan toegevoegd dat als hij de veranderingen niet meedeelt, de ten onrechte verkregen tegemoetkomingen teruggevorderd kunnen worden van de gebruiker;<br>
 8° de mededeling dat de gebruiker of zijn vertegenwoordiger tegen de beslissing van de zorgkas een beroepschrift bij het agentschap kan indienen, een beschrijving van alle voorwaarden om een beroepschrift in te dienen, en de te volgen procedure.
 

@@ -2,16 +2,16 @@
   "codex_id": 1032156,
   "title": "Ministerieel besluit van 2019-03-26 betreffende de uitvoering van de Vlaamse sociale bescherming, wat de gemeenschappelijke basisbepalingen en de zorgbudgetten betreft",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032156/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "967b1ad965293e79fd75ae0606266c93e11ebefc99c65f80cbacd36ed64f66d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032156/VolledigDocument?datum=2025-10-30",
+  "source_sha256": "f60707d38b55d278f3df485f4d4a53faa2e96a2c1efde4c725fdaba1fb20c7eb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032156&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2025-10-30",
   "made": "2019-03-26",
   "gazette": "2019-08-28",
   "numac": 2019014023,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2025-10-30",
   "article_versions": 86,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-30; future article versions excluded; article text as the API gives it"
 }
