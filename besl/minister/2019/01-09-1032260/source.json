@@ -2,16 +2,16 @@
   "codex_id": 1032260,
   "title": "Ministerieel besluit van 2019-01-09 betreffende de uitvoering van de Vlaamse sociale bescherming, wat de softwarevereisten betreft",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032260/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "a226ccf190ebe99db8b59066808da5f44cd001845026ba9647decffc19cac6b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032260/VolledigDocument?datum=2025-10-30",
+  "source_sha256": "ad4e21b5fd362d5a59c0c12ec2c87033bed7f74e2435e4de12626324bf5fa8ac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032260&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2025-10-30",
   "made": "2019-01-09",
   "gazette": "2019-09-18",
   "numac": 2019014426,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2025-10-30",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-10-30; future article versions excluded; article text as the API gives it"
 }

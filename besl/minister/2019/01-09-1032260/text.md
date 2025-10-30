@@ -21,7 +21,7 @@ Besluit :<br>
 
 ### ART 1.
 
-De functionele vereisten en de vereisten van betrouwbaarheid en veiligheid waaraan de digitale applicaties, vermeld in artikel 338, derde lid, artikel 376, § 1, tweede lid, artikel 435, § 1, en artikel 521, § 1, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming moeten voldoen, hebben betrekking op de communicatie met het digitale platform Vlaamse sociale bescherming en worden door het agentschap uitgeschreven in diverse instructies die online ter beschikking worden gesteld.<br>
+De functionele vereisten en de vereisten van betrouwbaarheid en veiligheid waaraan de digitale applicaties, vermeld in artikel 338, derde lid, artikel 376, § 1, tweede lid, artikel 435, § 1, en artikel 521, § 1, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming moeten voldoen, hebben betrekking op de communicatie met het digitale platform Vlaamse sociale bescherming en worden door het agentschap uitgeschreven, na advies van een groep van onafhankelijke experten, in diverse instructies die online ter beschikking worden gesteld.<br>
 <br>
 In het eerste lid wordt verstaan onder het digitale platform Vlaamse sociale bescherming: het digitale platform Vlaamse sociale bescherming als vermeld in artikel 28 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
