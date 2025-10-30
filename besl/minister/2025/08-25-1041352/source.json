@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041352,
+  "title": "Ministerieel besluit van 2025-08-25 over de nieuw ingekantelde sectoren en tot wijziging van de regelgeving over de Vlaamse sociale bescherming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041352/VolledigDocument?datum=2025-10-30",
+  "source_sha256": "1de3241e2e4ce13a030f1b9205a5ef5c08fbf24c2bbfe4bbd448e3f6eb0d7cf0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041352&param=informatie",
+  "as_of": "2025-10-30",
+  "made": "2025-08-25",
+  "gazette": "2025-10-20",
+  "numac": 2025007717,
+  "document_start": "2025-10-30",
+  "document_end": null,
+  "in_force": "2025-10-30",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2025-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
