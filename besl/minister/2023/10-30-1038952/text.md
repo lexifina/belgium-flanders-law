@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder besluit van 30 november 2018: het besluit va
 
 ### ART 2.
 
-Als een gebruiker wordt vervoerd door een professionele vervoerder in een voertuig dat is aangepast voor het vervoer in een rolstoel, als vermeld in artikel 534/105/2, tweede lid, van het besluit van 30 november 2018, bedraagt het bedrag van de tegemoetkoming, vermeld in artikel 534/105/1, van het besluit van 30 november 2018:<br>
+Als een gebruiker wordt vervoerd door een professionele vervoerder in een voertuig dat is aangepast voor het vervoer in een rolstoel, als vermeld in artikel 534/105/2, tweede lid, van het besluit van 30 november 2018, bedraagt het bedrag van de tegemoetkoming, vermeld in artikel 534/105/2 van het besluit van 30 november 2018:<br>
 1° 25,00 euro voor het traject tot en met de vijfde kilometer;<br>
 2° 2,96 euro per kilometer vanaf de zesde kilometer.<br>
 &nbsp;
