@@ -53,27 +53,27 @@ Worden tot plaatsvervangende afgevaardigden van de representatieve werknemersorg
 
 ### ART 7.
 
-De heer Davy Scherlippens wordt tot effectieve vertegenwoordiger van de Vlaamse minister, bevoegd voor het onderwijs, benoemd.
+Mevrouw Isabelle Goudeseune wordt tot effectieve vertegenwoordiger van de Vlaamse minister, bevoegd voor het onderwijs, benoemd.
 
 ### ART 8.
 
-Mevrouw Isabelle Goudeseune wordt tot plaatsvervangende vertegenwoordiger van de Vlaamse minister, bevoegd voor het onderwijs, benoemd.
+De heer Wim Nijst wordt tot plaatsvervangende vertegenwoordiger van de Vlaamse minister, bevoegd voor het onderwijs, benoemd.
 
 ### ART 9.
 
-De heer Daan Blomme wordt tot effectieve vertegenwoordiger van de Vlaamse minister, bevoegd voor de professionele vorming, benoemd.
+De heer Jeroen Wouters&nbsp;wordt tot effectieve vertegenwoordiger van de Vlaamse minister, bevoegd voor de professionele vorming, benoemd.
 
 ### ART 10.
 
-Mevrouw Marion Vrijens wordt tot plaatsvervangend vertegenwoordiger van de Vlaamse minister, bevoegd voor de professionele vorming, benoemd.
+Mevrouw Yanne Bogaerts wordt tot plaatsvervangend vertegenwoordiger van de Vlaamse minister, bevoegd voor de professionele vorming, benoemd.
 
 ### ART 11.
 
-Mevrouw Marie Grâce Ishoborabyose wordt tot secretaris benoemd.
+De heer Stijn Deschietere wordt tot secretaris benoemd.
 
 ### ART 12.
 
-Mevrouw Sigrid Van Mulders wordt tot plaatsvervangend secretaris benoemd.
+Carine Pissoort wordt tot plaatsvervangend secretaris benoemd.
 
 ### ART 13.
 
