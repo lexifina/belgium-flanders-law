@@ -62,11 +62,28 @@ In het kader van die doelstellingen, vermeld in het eerste en tweede lid, is het
 2° een platform voor datakluizen voor burgers ontwikkelen en beheren en diensten in dat verband verlenen. De datakluizen worden ter beschikking gesteld aan burgers. Het gebruik van een datakluis is voor burgers niet verplicht.&nbsp;Een datakluis kan geïdentificeerd worden aan de hand van het identificatie-nummer van het Rijksregister.&nbsp;Een burger kan uitsluitend op zijn uitdrukkelijk verzoek zijn datakluis activeren en in voorkomend geval deactiveren, zijn gegevens daarin opslaan, aanpassen of verwijderen en de mededeling van die gegevens beheren op zijn verzoek, en in geval van mededeling van persoonsgegevens, op voorwaarde dat de burger zijn toestemming verleent als vermeld in artikel 29 van dit decreet;<br>
 3° platformen ontwikkelen en beheren en diensten verlenen om metagegevens van overheidsinstanties geïntegreerd te delen en te raadplegen;<br>
 4° platformen ontwikkelen en beheren en diensten verlenen om metagegevens van burgers geïntegreerd te delen en te raadplegen;<br>
-5° platformen ontwikkelen en beheren en diensten verlenen die zorg dragen voor de veilige en gewaarborgde afhandeling van de transacties tussen de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 &nbsp;over het Vastgoedinformatieplatform, en die de eventuele verschuldigde vergoeding verwerken die volgt uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
-5°/1 de eventuele verschuldigde retributies aanrekenen en innen die volgen uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform. De Vlaamse Regering kan het bedrag van de retributie en nadere voorwaarden en regels voor de retributie vastleggen;<br>
+5° platformen ontwikkelen en beheren en diensten verlenen die zorg dragen voor de veilige en gewaarborgde afhandeling van de transacties tussen de betrokken burgers, de overheidsinstanties, de aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform, aanleverende entiteiten als vermeld in artikel 2, 1°, van het decreet van 14 juli 2025 over het platform voor overlijdensadministratie, of ontvangende entiteiten als vermeld in artikel 2, 17°, van het decreet van 14 juli 2025 over het platform voor overlijdensadministratie en die de eventuele verschuldigde vergoeding verwerken die volgt uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door:<br>
+a)&nbsp;&nbsp; &nbsp;de betrokken burgers, de overheidsinstanties, of de aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
+b)&nbsp;&nbsp; &nbsp;aanleverende entiteiten als vermeld in artikel 2, 1°, van het decreet van 14 juli 2025 over het platform voor overlijdensadministratie;<br>
+c)&nbsp;&nbsp; &nbsp;ontvangende entiteiten als vermeld in artikel 2, 17°, van het decreet van 14 juli 2025 over het platform voor overlijdensadministratie;<br>
+5°/1 de eventuele verschuldigde retributies aanrekenen en innen die volgen uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door:<br>
+a)&nbsp;&nbsp; &nbsp;de betrokken burgers, de overheidsinstanties, of de aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
+b)&nbsp;&nbsp; &nbsp;aanleverende entiteiten als vermeld in artikel 2, 1°, van het decreet van 14 juli 2025 over het platform voor overlijdensadministratie;<br>
+c)&nbsp;&nbsp; &nbsp;ontvangende entiteiten als vermeld in artikel 2, 17°, van het decreet van 14 juli 2025 over platform voor overlijdensadministratie.<br>
+De Vlaamse Regering kan het bedrag van de retributie en nadere voorwaarden en regels voor de retributie vastleggen;<br>
 5°/2 de eventuele verschuldigde vergoedingen bepalen, aanrekenen en innen die volgen uit de toegang tot of het gebruik van de platformen of diensten, vermeld in deze paragraaf, door de betrokken burgers, overheidsinstanties of aanvragers, vermeld in artikel 2, 2°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform;<br>
 6° de taken, vermeld in artikel 4 van het KLIP-decreet van 14 maart 2008, uitvoeren;<br>
 7° de taken, vermeld in artikel 5 van het GIPOD-decreet van 4 april 2014, uitvoeren;<br>
+7°/1 de rol opnemen van vertrouwde derde partij in een datagedreven ecosysteem met het oog op het anonimiseren en pseudonimiseren van persoonsgegevens om de verdere verwerking ervan mogelijk te maken. Het Vlaams Datanutsbedrijf houdt de persoonsgegevens die verwerkt worden in het kader van die opdracht alleen bij zolang dat noodzakelijk is in het kader van de pseudonimisering of de anonimisering;<br>
+7°/2 tussenkomen bij de mededeling van persoonsgegevens in een datagedreven ecosysteem. Als dat nodig is, kan het Vlaams Datanutsbedrijf, in overleg met de betrokken actoren, na advies van het adviescomité, vermeld in artikel 10, §1, tijdelijk een kopie maken van de gegevens die het als tussenpersoon verwerkt, met de loutere bedoeling de latere terbeschikkingstelling van die gegevens efficiënter te doen verlopen, op voorwaarde dat het Vlaams Datanutsbedrijf:<br>
+a)&nbsp;&nbsp; &nbsp;de gegevens niet wijzigt;<br>
+b)&nbsp;&nbsp; &nbsp;de gegevens bijwerkt conform de regels die bepaald zijn in overleg met de betrokken actoren;<br>
+c)&nbsp;&nbsp; &nbsp;onmiddellijk de opgeslagen gegevens verwijdert of de toegang ertoe onmogelijk maakt in een van de volgende gevallen:<br>
+1° zodra het Vlaams Datanutsbedrijf daadwerkelijk kennis heeft van de volgende gevallen:<br>
+i)&nbsp;&nbsp; &nbsp;de persoonsgegevens zijn verwijderd van de plaats waar ze zich oorspronkelijk bevonden;<br>
+ii)&nbsp;&nbsp; &nbsp;de toegang tot die gegevens is onmogelijk gemaakt;<br>
+2° zodra een administratieve of gerechtelijke autoriteit heeft bevolen de gegevens te verwijderen of de toegang ertoe onmogelijk te maken.<br>
+Het Vlaams Datanutsbedrijf evalueert op regelmatige basis de noodzaak om een tijdelijke kopie te maken van de voormelde gegevens, in overleg met de betrokken actoren.<br>
 8° bijzondere opdrachten uitvoeren die aansluiten bij de doelstellingen, vermeld in artikel 4, §1, van dit decreet, of bij de beleidsuitvoerende taken, vermeld in punt 1° tot en met 7°, en die bij of krachtens een decreet worden toegewezen aan het Vlaams Datanutsbedrijf.<br>
 <br>
 §2. In geval de Vlaamse instanties instemmen met een specifieke gegevensmededeling en daartoe de toegang tot een toepassing van het Vlaams Datanutsbedrijf hebben gevraagd, gebruiken de Vlaamse instanties het platform, vermeld in paragraaf 1, 2°, om gegevens mee te delen die de Vlaamse instanties beheren, conform artikel 13, §1, 1° en 2°.<br>
@@ -286,7 +303,11 @@ De ontvangende entiteiten zijn ontvangers als vermeld in artikel 4 van de algeme
 8° aanbieders van diensten binnen de cultuur- en mediasector;<br>
 9° aanbieders van diensten binnen de vastgoedsector;<br>
 10° retailbedrijven;<br>
-11° het notariaat.
+11° het notariaat;<br>
+12° lokale overheden;<br>
+13° aanbieders van diensten binnen de uitvaartsector; 14°&nbsp;&nbsp; &nbsp;externe overheden;<br>
+15° advocaten;<br>
+16° verzekeringsinstellingen.
 
 ### ART 22.
 
@@ -316,7 +337,9 @@ Dit hoofdstuk geldt behoudens afwijkende regelgeving en zonder afbreuk te doen a
 13° gegevens in het kader van stedenbouwkundige misdrijven, milieumisdrijven en milieu-inbreuken;<br>
 14° woning-, gebouw- of grondkenmerken;<br>
 15° geografische gegevens;<br>
-16° energiegegevens.<br>
+16° energiegegevens;<br>
+17° gegevens in verband met overlijden als vermeld in artikel 2, 12°, van het decreet van 14 juli 2025 over het platform voor overlijdensadministratie;<br>
+18° logs.<br>
 <br>
 §2. De persoonsgegevens die door het Vlaams Datanutsbedrijf worden verwerkt, hebben betrekking op de natuurlijke personen die hun datakluis, vermeld in artikel 5, §1, 2°, hebben geactiveerd.
 
@@ -383,6 +406,15 @@ b) zodra een administratieve of gerechtelijke autoriteit heeft bevolen de gegeve
 2° de mededeling van persoonsgegevens aan de ontvangende entiteit in kwestie tijdelijk of permanent stopzetten.<br>
 <br>
 §3. Elke burger heeft het recht om te weten welke ontvangende entiteiten gedurende de laatste zes maanden persoonsgegevens over hem via het Vlaams Datanutsbedrijf hebben geraadpleegd of bijgewerkt. Het Vlaams Datanutsbedrijf voorziet daarvoor in de gepaste middelen conform de voorwaarden en regels waarover het adviescomité, vermeld in artikel 10, §1, advies heeft gegeven conform artikel 10, §2.
+
+### ART 30/1.
+
+Alle personen die door hun functie betrokken zijn bij de inzameling, raadpleging, mededeling, het gebruik of een andere verwerking van gegevens die krachtens wettelijke, decretale of reglementaire bepalingen onder een beroepsgeheim vallen, eerbiedigen het vertrouwelijke karakter van die gegevens alsof ze zelf onderworpen zijn aan dat beroepsgeheim. Die personen worden in al de volgende gevallen van die plicht ontheven:<br>
+1° &nbsp;ze worden geroepen om in rechte getuigenis af te leggen;<br>
+2° ze zijn bij of krachtens de wet of het decreet van die plicht ontslagen; 3° ze zijn verplicht bekend te maken wat ze weten;<br>
+4° ze hebben het schriftelijke akkoord gekregen van de derde die door de onthulling zal worden getroffen.<br>
+<br>
+Alle personen die door hun functie betrokken zijn bij de inzameling, raadpleging, mededeling, het gebruik of een andere verwerking van gegevens via het Vlaams Datanutsbedrijf, bewaren het vertrouwelijke karakter van de gegevens. Elke schending van de vertrouwelijkheidsverplichting wordt gestraft met een gevangenisstraf van een tot drie jaar en een geldboete van 25 euro tot 625 euro.
 
 ## Hoofdstuk 12. Wijzigingen van het KLIP-decreet van 14 maart 2008
 
