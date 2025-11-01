@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041139,
+  "title": "Decreet van 2025-07-14 over het platform voor overlijdensadministratie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041139/VolledigDocument?datum=2025-11-01",
+  "source_sha256": "ec879e308382c4b18fa65dacbde403c8919827e17815c2da7c39adee85925502",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041139&param=informatie",
+  "as_of": "2025-11-01",
+  "made": "2025-07-14",
+  "gazette": "2025-08-18",
+  "numac": 2025006149,
+  "document_start": "2025-11-01",
+  "document_end": null,
+  "in_force": "2025-11-01",
+  "article_versions": 50,
+  "record_form": "consolidated version as in force on 2025-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
