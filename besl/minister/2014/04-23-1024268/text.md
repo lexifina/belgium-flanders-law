@@ -51,7 +51,14 @@ b) de organisator gezinsopvang in het verzoek aanduidt of hij de intentie heeft 
 
 ### ART. 6.
 
-Het berekende en individueel verminderde inkomenstarief, vermeld in   artikel 33, 34 en 34/1&nbsp;van het Subsidiebesluit van 22 november 2013, en de   bedragen, vermeld in dit besluit, met uitzondering van het bedrag, vermeld in   artikel 22, de inkomensschijf van 3700 euro en de verhoging met 0,60 euro,   vermeld in artikel 25, 3°, en de schijf van 50 euro, vermeld in artikel 28, 1°,   worden elk jaar op 1 januari verhoogd met de procentuele stijging van het   gezondheidsindexcijfer tussen 1 oktober van het vorige kalenderjaar en 1 oktober   van het daaraan voorafgaande kalenderjaar.<BR><BR>De indexering van het   berekende inkomenstarief, vermeld in het eerste lid, wordt toegepast vóór de   aftrek van de vermindering voor kinderen ten laste, vermeld in artikel   28.<BR>
+De volgende tarieven en bedragen worden jaarlijks op 1 oktober aangepast overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand juli van het jaar van de indexering, ten opzichte van de afgevlakte gezondheidsindex voor de maand juli van het jaar dat aan het jaar van de indexering voorafgaat:<br>
+1°&nbsp;&nbsp; &nbsp;het berekende en individueel verminderde inkomenstarief, vermeld in artikel 33, 34 en 34/1 van het Subsidiebesluit van 22 november 2013;<br>
+2°&nbsp;&nbsp; &nbsp;de bedragen, vermeld in dit besluit, met uitzondering van:<br>
+a)&nbsp;&nbsp; &nbsp;het bedrag, vermeld in artikel 22 van dit besluit;<br>
+b)&nbsp;&nbsp; &nbsp;de inkomensschijf van 3700 euro en de verhoging met 0,60 euro, vermeld in artikel 25, eerste lid, 3°, van dit besluit;<br>
+c)&nbsp;&nbsp; &nbsp;de schijf van 50 euro, vermeld in artikel 28, eerste lid, 1°, van dit besluit, worden jaarlijks op 1 oktober aangepast overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand juli van het jaar van de indexering, ten opzichte van de afgevlakte gezondheidsindex voor de maand juli van het jaar dat het jaar van de indexering voorafgaat.<br>
+<br>
+De indexering van het berekende inkomenstarief, vermeld in het eerste lid, wordt toegepast vóór de aftrek van de vermindering voor kinderen ten laste, vermeld in artikel 28.
 
 ## HOOFDSTUK 5 Betalingsregeling en bezorgen gegevens
 
@@ -215,7 +222,7 @@ De startdatum, vermeld op het attest inkomenstarief, is de maand na de aanvraag 
 1° bij de start van de kinderopvang, in welk geval de startdatum steeds de maand van de start is;<br>
 2° het OCMW of de organisator een beslissing nemen als vermeld in artikel 34/1 van het Subsidiebesluit van 22 november 2013, die kan gelden met terugwerkende kracht.<br>
 <br>
-De einddatum, vermeld op het attest inkomenstarief, is de laatste dag van het kalenderjaar van de aanvraag van het attest inkomenstarief. Als het kind drie en een half jaar, zes jaar of negen jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind drie en een half jaar, zes jaar of negen jaar wordt. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt. Als het kind drie en een half jaar, zes jaar of negen jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind drie en een half jaar, zes jaar of negen jaar wordt.
+De einddatum, vermeld op het attest inkomenstarief, is de eerstvolgende 30 september na de aanvraag van het attest inkomenstarief. Als het kind drie en een half jaar, zes jaar of negen jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind drie en een half jaar, zes jaar of negen jaar wordt. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt. Als het kind drie en een half jaar, zes jaar of negen jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind drie en een half jaar, zes jaar of negen jaar wordt.
 
 ### ART. 23.
 
