@@ -146,7 +146,7 @@ De professioneel actieve persoon, of een door hem aangestelde derde, betaalt een
 
 ### ART. 9.
 
-De loopbaancheque vermeldt de naam van de titularis, is niet overdraagbaar en heeft een geldigheidsduur van maximaal drie maanden vanaf de datum van uitgifte.<br>
+De loopbaancheque vermeldt de naam van de titularis, is niet overdraagbaar en heeft een geldigheidsduur van maximaal drie maanden vanaf de datum van uitgifte.&nbsp;De loopbaanbegeleiding wordt uiterlijk zes maanden na de datum van de uitgifte van de loopbaancheque afgerond.<br>
 <br>
 Bij verval van de geldigheidsduur van de loopbaancheque betaalt de verstrekker de eigen bijdrage van de professioneel actieve persoon, vermeld in artikel 8, terug. Een vervallen loopbaancheque ontzegt de niet-begeleide professioneel actieve persoon niet de mogelijkheid om een nieuwe loopbaancheque aan te vragen overeenkomstig de voorwaarden van dit besluit.
 
@@ -286,6 +286,18 @@ De VDAB monitort de dienstverlening op het vlak van de   loopbaanbegeleiding, in
 ### ART. 21.
 
 Klachten over de loopbaanbegeleiding kunnen schriftelijk, telefonisch of   via elektronische post worden ingediend zowel bij de gemandateerde onderneming   als bij de VDAB.
+
+## HOOFDSTUK 8/1. Bepalingen inzake de verwerking van persoonsgegevens
+
+### ART 21/1.
+
+De rechtvaardigheidsgrond voor de verwerking van persoonsgegevens is een taak van algemeen belang volgens artikel 6 van de algemene verordening gegevensbescherming, meer specifiek artikel 4, 1° van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+<br>
+De verwerkingsverantwoordelijken zijn de gemandateerde organisatie en de VDAB, elk voor de gegevens die zij verwerken.<br>
+<br>
+De volgende categorieën persoonsgegevens worden verwerkt: contact- en identificatiegegevens, loopbaangegevens, overeenkomsten, bewijzen van aanwezigheid, POP's naar aanleiding van de begeleiding.<br>
+<br>
+De VDAB en de gemandateerde organisatie hebben toegang tot de betreffende persoonsgegevens.
 
 ## HOOFDSTUK 9. Wijzigingsbepalingen
 
