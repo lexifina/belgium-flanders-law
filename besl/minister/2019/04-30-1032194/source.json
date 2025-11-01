@@ -2,16 +2,16 @@
   "codex_id": 1032194,
   "title": "Ministerieel besluit van 2019-04-30 houdende vaststelling van de minimale kwaliteitseisen voor de multidisciplinaire teams die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032194/VolledigDocument?datum=2025-03-01",
-  "source_sha256": "2fcadc01f4a212ca329ee7d323031aa175cfe852962d94ea22fd000e20ea9b53",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032194/VolledigDocument?datum=2025-11-01",
+  "source_sha256": "b0a6fdd8febcdf350e89dd06562da6013ae992991587e5c704ef8fc6e048c0f6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032194&param=informatie",
-  "as_of": "2025-03-01",
+  "as_of": "2025-11-01",
   "made": "2019-04-30",
   "gazette": "2019-09-04",
   "numac": 2019041923,
   "document_start": "2019-07-01",
   "document_end": null,
-  "in_force": "2025-03-01",
+  "in_force": "2025-11-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2025-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-11-01; future article versions excluded; article text as the API gives it"
 }
