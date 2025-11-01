@@ -24,7 +24,11 @@ De leden van de Vlaamse Regering beschikken over een kabinet dat bestaat uit sta
 
 ### ART. 4.
 
-De personeelsleden van de kabinetten kunnen gedetacheerd of aangesteld worden.
+De personeelsleden van de kabinetten kunnen gedetacheerd of aangesteld worden.<br>
+<br>
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° gedetacheerd personeelslid: een personeelslid dat met instemming van zijn werkgever van herkomst tijdelijk op een kabinet werkt en van wie het salaris verder betaald wordt door de werkgever van herkomst.<br>
+2° aangestelde personeelslid: een personeelslid van wie het salaris niet betaald wordt door een werkgever van herkomst maar door het kabinet als vermeld in artikel 20, §1 3° en §2 2°.
 
 ### ART. 5.
 
@@ -111,7 +115,11 @@ De medewerkers van deze cel maken deel uit van het kabinet van de minister-presi
 
 ### ART. 13.
 
-<P>Het lid van de Vlaamse Regering benoemt en ontslaat de personeelsleden van   het kabinet.<BR><BR>De benoeming en het ontslag van de kabinetschef en de   adjunct-kabinetschef worden bij mededeling ter kennis van de Vlaamse Regering   gebracht.</P>
+<p>§1. Elke minister benoemt en ontslaat de personeelsleden van het eigen kabinet. Elke mi-nister brengt de Vlaamse Regering met een mededeling op de hoogte van de benoeming en het ontslag van de kabinetschef en de adjunct-kabinetschef. &nbsp;<br>
+<br>
+§2. Als het mandaat van een minister in de loop van een regeerperiode eindigt, zijn de personeelsleden van het eigen kabinet van rechtswege ontslagen met ingang van de da-tum van de beëindiging van het mandaat van de minister.&nbsp;<br>
+&nbsp;&nbsp;<br>
+Aan het einde van een regeerperiode zijn alle personeelsleden van de kabinetten van rechtswege ontslagen met ingang van de datum van de beëdiging van de nieuwe Vlaamse Regering.</p>
 
 ### ART. 14.
 
@@ -125,13 +133,29 @@ De kabinetschef of de adjunct-kabinetschef zendt de instructies en nota's van he
 
 ### ART. 15/1.
 
-§ 1. Dit artikel voorziet in de omzetting van Richtlijn 91/533/EG van de Raad van 14 oktober 1991 betreffende de verplichting van de werkgever om de werknemer te informeren over de voorwaarden die op zijn arbeidsverhouding van toepassing zijn.<br /><br />§ 2. Het lid van de Vlaamse Regering, hierna de werkgever te noemen, stelt voor het personeel van zijn kabinet een informatiedocument op waarin de belangrijkste elementen van de arbeidsverhouding zijn vervat. <br /><br />Het model van het informatiedocument, bedoeld in het eerste lid, wordt vastgesteld door de Vlaamse Regering.<br /><br />De werkgever brengt het informatiedocument schriftelijk ter kennis van zijn personeel, of deelt schriftelijk de plaats mee waar het kan worden geraadpleegd.<br /><br />Door de werkgever aangebrachte wijzigingen aan het informatiedocument worden eveneens schriftelijk ter kennis gebracht van het personeel, of de werkgever deelt schriftelijk de plaats mee waar het kan worden geraadpleegd.
+§1. Dit artikel voorziet in de omzetting van artikel 4 van Richtlijn (EU) 2019/1152 van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie.<br>
+<br>
+§ 2. Het lid van de Vlaamse Regering, hierna de werkgever te noemen, stelt voor het personeel van zijn kabinet een informatiedocument op waarin de belangrijkste elementen van de arbeidsverhouding zijn vervat.<br>
+<br>
+Het model van het informatiedocument, bedoeld in het eerste lid, wordt vastgesteld door de Vlaamse Regering.<br>
+<br>
+De werkgever brengt het informatiedocument schriftelijk ter kennis van zijn personeel, of deelt schriftelijk de plaats mee waar het kan worden geraadpleegd.<br>
+<br>
+Door de werkgever aangebrachte wijzigingen aan het informatiedocument worden eveneens schriftelijk ter kennis gebracht van het personeel, of de werkgever deelt schriftelijk de plaats mee waar het kan worden geraadpleegd.
 
 ### ART. 15/2.
 
 De administrateur-generaal van het Agentschap Overheidspersoneel neemt de juridische beslissing met betrekking tot de erkenning van arbeidsongevallen en van ongevallen op de weg naar en van het werk, en met betrekking tot de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector, wat betreft de personeelsleden van de kabinetten van de leden van de Vlaamse Regering. Hij kan de bevoegdheden, die hem in dit besluit zijn toegewezen inzake arbeidsongevallen, ongevallen op de weg naar en van het werk en beroepsziekten delegeren aan een andere lijnmanager van een entiteit van een Vlaams ministerie.
 
-## HOOFDSTUK IV Financieel statuut
+### ART 15/3.
+
+De personeelsleden van de kabinetten zijn onderworpen aan een regeling sui generis. Hun aanstelling of detachering is uitsluitend het gevolg van eenzijdige administratieve handelin-gen van een minister of de Vlaamse Regering met individuele strekking. De wet van 3 juli 1978 betreffende de arbeidsovereenkomsten is niet van toepassing, behalve in de uitzon-deringsgevallen vermeld in dit besluit.<br>
+&nbsp;<br>
+De gedetacheerde personeelsleden blijven onderworpen aan het sociale zeker-heidsstatuut van hun werkgever van herkomst.<br>
+<br>
+De aangestelde personeelsleden zijn onderworpen aan hetzelfde sociale zeker-heidsstatuut als het contractuele personeel van de diensten van de Vlaamse overheid en in het kader daarvan zijn hun werkgevers de ministeries van de Vlaamse Gemeenschap.
+
+## HOOFDSTUK IV Financieel statuut en rechtspositie van de personeelsleden van de kabinetten
 
 ## Afdeling 1 Algemene bepalingen
 
@@ -155,7 +179,20 @@ De salarissen zijn aan 100 % en volgen de evolutie van het indexcijfer van de co
 
 ### ART. 20.
 
-§ 1. De geldelijke toestand van de personeelsleden van een kabinet die behoren tot een ministerie, een andere openbare dienst of een gesubsidieerde onderwijsinrichting, wordt als volgt geregeld :<br />1° De gedetacheerde personeelsleden van de diensten van de Vlaamse overheid worden verder gesalarieerd door hun departement van herkomst. Dit salaris wordt door het departement voor de duur van de detachering aangerekend op de kabinetsbegroting. De personeelsleden ontvangen verder een salariscomplement, vastgesteld door de minister binnen de perken van de daartoe toegekende budgettaire middelen.<br />2° Voor de gedetacheerde personeelsleden van andere ministeries, openbare diensten of gesubsidieerde onderwijsinrichtingen stort, indien de werkgever ermee instemt de betaling van het salaris voort te zetten, het lid van de Vlaamse Regering het salaris van het personeelslid, het vakantiegeld, de eindejaarstoelage en alle toelagen en vergoedingen inherent aan de uitgeoefende functie, alle berekend volgens de bepalingen die in de instelling van herkomst op hem van toepassing zijn, eventueel verhoogd met de werkgeversbijdragen aan de dienst van herkomst terug. De personeelsleden ontvangen verder een salariscomplement, vastgesteld door de minister binnen de perken van de daartoe toegekende budgettaire middelen.<br />3° Indien de werkgever van de personeelsleden, genoemd in 2°, de betaling van het salaris stopzet, krijgen de personeelsleden hun salaris in toepassing van artikel 17 van dit besluit.<br /><br />§ 2. De geldelijke toestand van de personeelsleden van een kabinet die niet behoren tot een ministerie, een andere openbare dienst of een gesubsidieerde onderwijsinrichting, wordt als volgt geregeld :<br />1° Indien de werkgever ermee instemt de betaling van het salaris voort te zetten, ontvangen de personeelsleden een salariscomplement, vastgesteld door de minister binnen de perken van de daartoe toegekende budgettaire middelen. Het bevoegde lid van de Vlaamse Regering stort het salaris van het personeelslid, eventueel verhoogd met de werkgeversbijdragen aan de instelling van herkomst terug.<br />2° Indien de werkgever de betaling van het salaris stopzet, krijgen de personeelsleden hun salaris in toepassing van artikel 17 van dit besluit.<br /><br />§ 3. Het salariscomplement, vermeld in § 1 en § 2, wordt beschouwd als een toelage. Dat salariscomplement wordt in aanmerking genomen voor de berekening van het vakantiegeld en de eindejaarstoelage.
+§ 1. De geldelijke toestand van de personeelsleden van een kabinet die behoren tot een ministerie, een andere openbare dienst of een gesubsidieerde onderwijsinrichting, wordt als volgt geregeld :<br>
+1° De gedetacheerde personeelsleden van de diensten van de Vlaamse overheid worden verder gesalarieerd door hun entiteit van herkomst. Dit salaris wordt door de entiteit voor de duur van de detachering aangerekend op de kabinetsbegroting. De personeelsleden ontvangen verder een salariscomplement, vastgesteld door de minister binnen de perken van de daartoe toegekende budgettaire middelen.<br>
+2° Voor de gedetacheerde personeelsleden van andere ministeries, openbare diensten of gesubsidieerde onderwijsinrichtingen stort, indien de werkgever ermee instemt de betaling van het salaris voort te zetten, het lid van de Vlaamse Regering het salaris van het personeelslid, het vakantiegeld, de eindejaarstoelage en alle toelagen en vergoedingen inherent aan de uitgeoefende functie, alle berekend volgens de bepalingen die in de instelling van herkomst op hem van toepassing zijn, eventueel verhoogd met de werkgeversbijdragen aan de dienst van herkomst terug. De personeelsleden ontvangen verder een salariscomplement, vastgesteld door de minister binnen de perken van de daartoe toegekende budgettaire middelen.<br>
+3° Indien de werkgever van de personeelsleden, genoemd in 2°, de betaling van het salaris stopzet, krijgen de personeelsleden hun salaris in toepassing van artikel 17 van dit besluit.<br>
+<br>
+§ 2. De geldelijke toestand van de personeelsleden van een kabinet die niet behoren tot een ministerie, een andere openbare dienst of een gesubsidieerde onderwijsinrichting, wordt als volgt geregeld :<br>
+1° Indien de werkgever ermee instemt de betaling van het salaris voort te zetten, ontvangen de personeelsleden een salariscomplement, vastgesteld door de minister binnen de perken van de daartoe toegekende budgettaire middelen. Het bevoegde lid van de Vlaamse Regering stort het salaris van het personeelslid, eventueel verhoogd met de werkgeversbijdragen aan de instelling van herkomst terug.<br>
+2° Indien de werkgever de betaling van het salaris stopzet, krijgen de personeelsleden hun salaris in toepassing van artikel 17 van dit besluit.<br>
+<br>
+§ 3. Het salariscomplement, vermeld in § 1 en § 2, wordt beschouwd als een toelage. Dat salariscomplement wordt in aanmerking genomen voor de berekening van het vakantiegeld en de eindejaarstoelage.<br>
+<br>
+Het salariscomplement is niet verschuldigd bij een afwezigheid, met uitzondering van een afwezigheid omwille van moederschapsrust, die langer duurt dan 35 dagen.&nbsp;<br>
+<br>
+Voor de toepassing van het vorige lid wordt rekening gehouden met afwezigheden die starten vanaf 1 november 2025.
 
 ## [Afdeling 3 Vergoedingen, toelagen en sociale voordelen (verv. BVR 15 maart 2019, art. 1, I: 1 juli 2019)]
 
@@ -181,7 +218,17 @@ Aan het personeelslid met de functie van chauffeur wordt een forfaitaire   vergo
 
 ### ART. 24.
 
-De regeling voor het personeel van de diensten van de Vlaamse overheid inzake de werkgeversbijdrage in het woon-werkverkeer met het openbaar vervoer is van overeenkomstige toepassing op het personeel van de kabinetten. Voor de kabinetschef en de adjunct-kabinetschef is het supplement voor een abonnement in eerste klasse ten laste van de kabinetsbegroting.
+De regeling voor het personeel van de diensten van de Vlaamse overheid inzake de werkgeversbijdrage in het woon-werkverkeer met het openbaar vervoer is van overeenkomstige toepassing op het personeel van de kabinetten. Voor de kabinetschef en de adjunct-kabinetschef is het supplement voor een abonnement in eerste klasse ten laste van de kabinetsbegroting.<br>
+<br>
+De personeelsleden van de kabinetten met een handicap die aan de voorwaarden voldoen om over een parkeerkaart te beschikken, die is uitgereikt door de bevoegde federale overheid hebben recht op de tegemoetkoming van het woon-werkverkeer voor perso-neelsleden met een handicap als vermeld in het Vlaams personeelsstatuut van 13 januari 2006.
+
+### ART 24/1.
+
+Na akkoord van de minister kunnen de aangestelde personeelsleden van de kabinetten beroep doen op de regeling over de fietsleasing vermeld in het Vlaams personeelsstatuut van 13 januari 2006.&nbsp;<br>
+<br>
+De personeelsleden van de kabinetten gedetacheerd door een werkgever die niet behoort tot de diensten van de Vlaamse overheid zoals gedefinieerd in artikel I 2 van het Vlaams personeelsstatuut van 13 januari 2006 kunnen na akkoord van de minister beroep doen op de in het eerste lid vermelde regeling op voorwaarde dat:<br>
+1° zij bij de werkgever van herkomst geen beroep kunnen doen op fietsleasing;<br>
+2° het budget voor de fietsleasing uitsluitend bestaat uit de door het kabinet toegekende eindejaarstoelage en/of maximum 11 vakantiedagen.&nbsp;
 
 ### ART. 25.
 
@@ -189,7 +236,34 @@ De regeling voor de ambtenaren van de diensten van de Vlaamse overheid inzake ve
 
 ### ART. 26.
 
-§ 1. Het lid van de Vlaamse Regering kent een forfaitaire toelage wegens   ontslag toe aan personen die, volgens hiernavermelde voorwaarden, functies in   een kabinet van de Vlaamse Regering hebben waargenomen en generlei   beroepsinkomen of vervangingsinkomen of rustpensioen genieten. Een   overlevingspensioen of een uitkering van het gewaarborgd minimum door een   Openbaar Centrum voor Maatschappelijk Welzijn wordt niet als een   vervangingsinkomen beschouwd.<BR><BR>§ 2. Deze toelage beloopt :<BR>1° één maand   salaris voor een ononderbroken activiteitsperiode op een kabinet van de Vlaamse   Regering&nbsp;vanaf één tot zes maanden;<BR>2° twee maanden salaris voor een   ononderbroken activiteitsperiode vanaf zes maanden tot één jaar;<BR>3° drie   maanden salaris voor een ononderbroken activiteitsperiode vanaf 1 tot 11/2   jaar;<BR>4° vier maanden salaris voor een ononderbroken activiteitsperiode vanaf   11/2 tot twee jaar;<BR>5° maximaal vijf maanden salaris voor een ononderbroken   activiteitsperiode vanaf twee jaar en meer.<BR><BR>§ 3. De toelage wegens   ontslag wordt in maandelijkse schijven uitbetaald. Om van deze toelage te kunnen   genieten dient belanghebbende maandelijks een verklaring op erewoord in te   sturen waaruit blijkt dat hij gedurende de betrokken periode generlei   beroepsactiviteit uitoefende, of dat hij zich bevindt in één van de voorwaarden   voorzien in § 4.<BR><BR>§ 4. In afwijking van § 1, kent het lid van de Vlaamse   Regering een forfaitaire toelage wegens ontslag toe aan personen die functies in   een kabinet van de Vlaamse Regering hebben waargenomen en uitsluitend titularis   zijn van één of meer onvolledige functies of genieten van één of meer pensioenen   ten laste van de Schatkist die betrekking hebben op één of meer onvolledige   loopbanen of die een werkloosheidsuitkering of een vervangingsinkomen ingevolge   ziekte of zwangerschap genieten.<BR><BR>In dit geval wordt de toelage wegens   ontslag vastgesteld overeenkomstig § 2, enkel verminderd met de totale som die   aan de betrokkene voor de overeenstemmende periode is verschuldigd als :<BR>1°   hetzij salaris voor de onvolledige functies, voor zover betrokkene na de datum   van het ontslag op het kabinet titularis werd van deze functies,<BR>2° hetzij   pensioen voor een onvolledige loopbaan, voor zover het recht op dit pensioen   ontstond of door betrokkene werd aangewend na de datum van het ontslag op het   kabinet;<BR>3° hetzij werkloosheidsuitkering;<BR>4° hetzij vervangingsinkomen   ingevolge ziekte of zwangerschap.<BR><BR>Er wordt voor de toepassing van het   tweede lid geen rekening gehouden met het salaris voor onvolledige functies   waarvan betrokkene titularis was voor de datum van het ontslag op het kabinet of   het pensioen voor een onvolledige loopbaan dat aan betrokkene werd uitbetaald   voor de datum van het ontslag op het kabinet.<BR><BR>§ 5. Er is geen toelage   wegens ontslag verschuldigd aan hen die uit eigen beweging hun ambt   neerleggen.<BR><BR>§ 6. De ontslagen aangestelde personeelsleden die gedurende   een onafgebroken periode van twee jaar op een Vlaams kabinet tewerkgesteld waren   en niet uit eigen beweging het ambt hebben neergelegd, kunnen gebruik maken van   outplacementbegeleiding onder analoge voorwaarden als de personeelsleden van de   Vlaamse overheid. Aanvragen die worden ingediend binnen een periode van één   maand, te rekenen van de datum van de aangetekende zending die het geëigende   aanvraagformulier bevat, zijn ontvankelijk.
+§1. In geval van ontslag op basis van artikel 13, §1, kent de minister een forfaitaire toe-lage wegens ontslag toe aan personen die voldoen aan de voorwaarden vermeld in het derde lid.<br>
+<br>
+In geval van ontslag op basis van artikel 13 §2 wordt een forfaitaire toelage we-gens ontslag van rechtswege toegekend aan de personen die voldoen aan de voorwaarden vermeld in het derde lid.<br>
+<br>
+De forfaitaire toelage wegens ontslag, vermeld in het eerste en tweede lid, wordt toegekend aan de personen die functies in een kabinet van de Vlaamse Regering hebben waargenomen en geen beroepsinkomen, vervangingsinkomen of rustpensioen krijgen. Een overlevingspensioen of een uitkering van het gewaarborgd minimum door een Openbaar Centrum voor Maatschappelijk Welzijn wordt niet als een vervangingsinkomen be-schouwd.<br>
+<br>
+§2. Deze toelage beloopt :<br>
+1° één maand salaris voor een ononderbroken activiteitsperiode op een kabinet van de Vlaamse Regering&nbsp;vanaf één tot zes maanden;<br>
+2° twee maanden salaris voor een ononderbroken activiteitsperiode vanaf zes maanden tot één jaar;<br>
+3° drie maanden salaris voor een ononderbroken activiteitsperiode vanaf 1 tot 11/2 jaar;<br>
+4° vier maanden salaris voor een ononderbroken activiteitsperiode vanaf 11/2 tot twee jaar;<br>
+5° maximaal vijf maanden salaris voor een ononderbroken activiteitsperiode vanaf twee jaar en meer.<br>
+<br>
+§3. De toelage wegens ontslag wordt in maandelijkse schijven uitbetaald. Om van deze toelage te kunnen genieten dient belanghebbende maandelijks een verklaring op erewoord in te sturen waaruit blijkt dat hij gedurende de betrokken periode generlei beroepsactiviteit uitoefende, of dat hij zich bevindt in één van de voorwaarden voorzien in § 4.<br>
+<br>
+§4. In afwijking van § 1, kent het lid van de Vlaamse Regering een forfaitaire toelage wegens ontslag toe aan personen die functies in een kabinet van de Vlaamse Regering hebben waargenomen en uitsluitend titularis zijn van één of meer onvolledige functies of genieten van één of meer pensioenen ten laste van de Schatkist die betrekking hebben op één of meer onvolledige loopbanen of die een werkloosheidsuitkering of een vervangingsinkomen ingevolge ziekte of zwangerschap genieten.<br>
+<br>
+In dit geval wordt de toelage wegens ontslag vastgesteld overeenkomstig § 2, enkel verminderd met de totale som die aan de betrokkene voor de overeenstemmende periode is verschuldigd als :<br>
+1° hetzij salaris voor de onvolledige functies, voor zover betrokkene na de datum van het ontslag op het kabinet titularis werd van deze functies,<br>
+2° hetzij pensioen voor een onvolledige loopbaan, voor zover het recht op dit pensioen ontstond of door betrokkene werd aangewend na de datum van het ontslag op het kabinet;<br>
+3° hetzij werkloosheidsuitkering;<br>
+4° hetzij vervangingsinkomen ingevolge ziekte of zwangerschap.<br>
+<br>
+Er wordt voor de toepassing van het tweede lid geen rekening gehouden met het salaris voor onvolledige functies waarvan betrokkene titularis was voor de datum van het ontslag op het kabinet of het pensioen voor een onvolledige loopbaan dat aan betrokkene werd uitbetaald voor de datum van het ontslag op het kabinet.<br>
+<br>
+§5. Er is geen toelage wegens ontslag verschuldigd aan hen die uit eigen beweging hun ambt neerleggen.<br>
+<br>
+§6. De ontslagen aangestelde personeelsleden die gedurende een onafgebroken periode van twee jaar op een Vlaams kabinet tewerkgesteld waren en niet uit eigen beweging het ambt hebben neergelegd, kunnen gebruik maken van outplacementbegeleiding onder analoge voorwaarden als de personeelsleden van de Vlaamse overheid. Aanvragen die worden ingediend binnen een periode van één maand, te rekenen van de datum van de aangetekende zending die het geëigende aanvraagformulier bevat, zijn ontvankelijk.
 
 ## HOOFDSTUK V Slotbepalingen
 
