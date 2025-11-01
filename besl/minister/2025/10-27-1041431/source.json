@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041431,
+  "title": "Ministerieel besluit van 2025-10-27 tot wijziging van het ministerieel besluit van 20 december 2022 houdende de samenstelling van de Vlaamse opleidingscommissie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041431/VolledigDocument?datum=2025-11-01",
+  "source_sha256": "e2d10dd79b309efed8fe10748fec6ac596c69941b354dae412eabf8e2ef84c87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041431&param=informatie",
+  "as_of": "2025-11-01",
+  "made": "2025-10-27",
+  "gazette": "2025-11-04",
+  "numac": 2025008266,
+  "document_start": "2025-11-01",
+  "document_end": null,
+  "in_force": "2025-11-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2025-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
