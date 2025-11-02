@@ -2,16 +2,16 @@
   "codex_id": 1041380,
   "title": "Besluit van de Vlaamse Regering van 2025-09-26 tot wijziging van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank, wat betreft de basissubsidie en het subsidiekader",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041380/VolledigDocument?datum=2025-09-01",
-  "source_sha256": "a86d5c12ba03db6533e072ad2c9ae18a8d3df60e89aea482235c4760f3dddd75",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041380/VolledigDocument?datum=2025-11-02",
+  "source_sha256": "4f6e0609953cbfc54d2a94a46fd209b81d8f8cb7f5060353ee2ab1b5246afb32",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041380&param=informatie",
-  "as_of": "2025-09-01",
+  "as_of": "2025-11-02",
   "made": "2025-09-26",
   "gazette": "2025-10-23",
   "numac": 2025007902,
   "document_start": "2025-11-02",
   "document_end": null,
-  "in_force": "2025-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2025-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-11-02",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2025-11-02; future article versions excluded; article text as the API gives it"
 }
