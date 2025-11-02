@@ -168,7 +168,7 @@ Het afstammingscentrum waakt erover dat alle leden van het multidisciplinair tea
 
 ### ART 15.
 
-Overeenkomstig artikel 7, eerste lid, 3°, van het decreet van 26 april 2019 maakt de vergunde organisatie een jaarverslag op over de activiteiten van het afstammingscentrum. De vergunde organisatie bezorgt dat jaarverslag in de loop van het eerste trimester dat volgt op het einde van elk boekjaar aan het Vlaams Centrum voor Adoptie. Het jaarverslag bevat al de volgende elementen :<br>
+Overeenkomstig artikel 7, eerste lid, 3°, van het decreet van 26 april 2019 maakt de vergunde organisatie een jaarverslag op over de activiteiten van het afstammingscentrum. De vergunde organisatie bezorgt dat jaarverslag in de loop van het eerste trimester dat volgt op het einde van elk boekjaar aan het Vlaams Centrum voor Adoptie. Het jaarverslag bevat een functionele verantwoording die uit al de volgende elementen bestaat :<br>
 1° een activiteitenverslag, inclusief een overzicht van :<br>
 a) het aantal aanmeldingen van individuele vragen naar afstamming;<br>
 b) vragen die leiden tot de afname van een DNA-staal;<br>
@@ -176,7 +176,11 @@ c) vragen tot inzage in dossiers met gegevens van genetische verwanten;<br>
 d) het aantal lopende dossiers;<br>
 e) het aantal bemiddelingen tussen genetische verwanten;<br>
 f) het aantal DNA-stalen die overgemaakt zijn aan het vergunde centrum voor menselijke erfelijkheid;<br>
-2° een lijst met de personeelsleden van het multidisciplinair team bij het afstammingscentrum, met vermelding van hun kwalificaties.
+2° een lijst met de personeelsleden van het multidisciplinair team bij het afstammingscentrum, met vermelding van hun kwalificaties.<br>
+<br>
+Het jaarverslag bevat ook een financiële verantwoording waarin wordt aangetoond welke kosten zijn gemaakt om de opdrachten te realiseren, vermeld in artikel 4 van het decreet van 26 april 2019, waarvoor de subsidie is toegekend. De financiële verantwoording wordt verleend via de resultatenrekening waarin alle kosten en opbrengsten van het voorgaande jaar zijn opgenomen voor de gesubsidieerde activiteiten, of via een ander financieel verslag waaruit blijkt welke kosten zijn gemaakt om de doelstellingen te realiseren met de ontvangen subsidie in het voorgaande jaar.<br>
+<br>
+De originele, genummerde en gedateerde bewijsstukken die betrekking hebben op de periode waarin de vergunning loopt, worden voor controle ter beschikking gehouden.
 
 ## Afdeling 7. Participatie van de gebruikers van het afstammingscentrum
 
@@ -318,11 +322,36 @@ De subsidie, vermeld in het eerste lid, is gekoppeld aan de spilindex die van to
 <br>
 Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert Opgroeien regie aan het afstammingscentrum een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90% van de jaarsubsidie. Het saldo van 10% van de jaarsubsidie wordt uitbetaald in de loop van het daaropvolgende jaar.
 
+### ART 26/1.
+
+Teneinde de doelgerichtheid van de subsidie, vermeld in artikel 26, te beoordelen, worden de resultaten van de opdrachten, vermeld in artikel 4 van het decreet van 26 april 2019, &nbsp;beoordeeld aan de hand van de volgende indicatoren:<br>
+1°&nbsp;&nbsp; &nbsp;algemene indicatoren:<br>
+a)&nbsp;&nbsp; &nbsp;de kwalificaties van het personeel dat instaat voor de opdrachten van het afstammingscentrum, waaruit blijkt dat er minimaal een lid is met relevante juridische expertise en daarnaast leden met psychologische, pedagogische of orthopedagogische expertise op het vlak van afstamming en adoptie, of personen die gelijkwaardig zijn door ervaring;<br>
+b)&nbsp;&nbsp; &nbsp;het aantal lopende dossiers;<br>
+c)&nbsp;&nbsp; &nbsp;het aantal begeleide zoektochten naar genetische verwanten per kalenderjaar;<br>
+d)&nbsp;&nbsp; &nbsp;het aantal afgenomen DNA-stalen per kalenderjaar, met het oog op registratie in de DNA-databank;<br>
+e)&nbsp;&nbsp; &nbsp;het aantal uitgevoerde DNA-matchings per kalenderjaar, met rapportering van het aantal effectieve matches;<br>
+f)&nbsp;&nbsp; &nbsp;het aantal vragen of klachten van de gebruikers over de opdrachten van het afstammingscentrum;<br>
+g)&nbsp;&nbsp; &nbsp;de samenwerking met het Vlaams Centrum voor Adoptie;<br>
+2°&nbsp;&nbsp; &nbsp;voor de informatieopdracht en de begeleidingsopdracht:<br>
+a)&nbsp;&nbsp; &nbsp;het aantal vragen, begeleidingen, inzages en bemiddelingen bij contacten of ontmoetingen die het afstammingscentrum doet per kalenderjaar;<br>
+b)&nbsp;&nbsp; &nbsp;de gemiddelde termijn waarin de gebruikers geholpen worden met hun vraag naar informatie, begeleiding of inzage;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;het aantal doorverwijzingen per kalenderjaar naar externe gespecialiseerde diensten of hulpverleningsinstanties;<br>
+3°&nbsp;&nbsp; &nbsp;voor de expertiseopdracht:<br>
+a)&nbsp;&nbsp; &nbsp;het aantal georganiseerde studiedagen of kennisdelingsactiviteiten per kalenderjaar;<br>
+b)&nbsp;&nbsp; &nbsp;het aantal opgestelde en verspreide rapporten, adviezen of publicaties over afstammingsgerelateerde thema’s per kalenderjaar;<br>
+c)&nbsp;&nbsp; &nbsp;het aantal samenwerkingen en formele samenwerkingsakkoorden met relevante partners, waaronder minstens het Vlaams Centrum voor Adoptie, erkende adoptiediensten, het centrum voor menselijke erfelijkheid en andere internationale instellingen of overheden die een opdracht hebben in het kader van afstammingsvragen;<br>
+d)&nbsp;&nbsp; &nbsp;het aantal deelnames aan beleidsplatformen, overlegstructuren of netwerken over afstamming, adoptie of verwante domeinen.
+
 ### ART 27.
 
 De voor het afstammingscentrum vergunde organisatie voert een financieel beleid zodat de beschikbare middelen doeltreffend worden ingezet, zowel voor een continue hulp- en dienstverlening als voor medewerkers, infrastructuur, uitrusting en goederen.<br>
 <br>
-De ontvangen subsidies kunnen niet aangewend worden voor de persoonlijke verrijking van de bestuurders, personeelsleden of andere personen die bij de werking van de dienst van het afstammingscentrum betrokken zijn, noch voor andere doeleinden en opdrachten dan de opdrachten en doeleinden, vermeld in het decreet van 26 april 2019.
+De ontvangen subsidies kunnen niet aangewend worden voor de persoonlijke verrijking van de bestuurders, personeelsleden of andere personen die bij de werking van de dienst van het afstammingscentrum betrokken zijn, noch voor andere doeleinden en opdrachten dan de opdrachten en doeleinden, vermeld in het decreet van 26 april 2019.<br>
+<br>
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.<br>
+<br>
+De organisatie erkent het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
 
 ### ART 28.
 
