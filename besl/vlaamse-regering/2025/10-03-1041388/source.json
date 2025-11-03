@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041388,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-03 tot goedkeuring van de statuten van de NV Waterunie Operator",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041388/VolledigDocument?datum=2025-11-03",
+  "source_sha256": "9087fefc8918f788585545c7df4e720d48c7e0a2ebd1fb7bfdfd01a9b99cfed7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041388&param=informatie",
+  "as_of": "2025-11-03",
+  "made": "2025-10-03",
+  "gazette": "2025-10-24",
+  "numac": 2025007976,
+  "document_start": "2025-11-03",
+  "document_end": null,
+  "in_force": "2025-11-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
