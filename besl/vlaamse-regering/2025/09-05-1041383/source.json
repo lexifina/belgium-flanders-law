@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041383,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het koninklijk besluit van 9 maart 2007 houdende de bemanningsvoorschriften op de scheepvaartwegen van het Koninkrijk, het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de technische voorschriften voor binnenschepen en het besluit van de Vlaamse Regering van 6 mei 2022 over de beroepscompetenties voor binnenvaartpersoneel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041383/VolledigDocument?datum=2025-11-03",
+  "source_sha256": "351d60dafd0065bb72f81be38484818d848d9fe074ac507d4840e5559cb2191a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041383&param=informatie",
+  "as_of": "2025-11-03",
+  "made": "2025-09-05",
+  "gazette": "2025-10-24",
+  "numac": 2025007947,
+  "document_start": "2025-11-03",
+  "document_end": null,
+  "in_force": "2025-11-03",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2025-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
