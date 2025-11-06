@@ -24,20 +24,21 @@ In dit besluit wordt verstaan onder besluit van 12 februari 2021: het besluit va
 
 ### ART 2.
 
-De beleidsprioriteiten, vermeld in artikel 6 en 9 van het besluit van 12 februari 2021, die in aanmerking komen zijn de volgende:<br>
-1° geïntegreerde gewasbescherming;<br>
-2° klimaat (mitigatie en adaptatie) en duurzaamheid;<br>
-3° voeding en gezondheid;<br>
-4° bodemkwaliteit;<br>
-5° circulaire landbouw en duurzaam grondstoffenbeheer;<br>
-6° landbouw als economische sector;<br>
-7° data en digitalisering;<br>
-8° smart farming;<br>
-9° water.
+De beleidsprioriteiten, vermeld in artikel 6 en 9 van het besluit van 12 februari 2021, die in aanmerking komen zijn de volgende:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;geïntegreerde gewasbescherming;<br>
+2°&nbsp;&nbsp; &nbsp;klimaatmitigatie en klimaatadaptatie;<br>
+3°&nbsp;&nbsp; &nbsp;voeding en gezondheid;<br>
+4°&nbsp;&nbsp; &nbsp;bodemkwaliteit;<br>
+5°&nbsp;&nbsp; &nbsp;circulaire landbouw en duurzaam grondstoffenbeheer;<br>
+6°&nbsp;&nbsp; &nbsp;landbouw als economische sector;<br>
+7°&nbsp;&nbsp; &nbsp;smartfarming, data en digitalisering;<br>
+8°&nbsp;&nbsp; &nbsp;water;<br>
+9°&nbsp;&nbsp; &nbsp;landschapszorg en biodiversiteit;<br>
+10°&nbsp;&nbsp; &nbsp;sociale aspecten van de landbouwbedrijfsvoering.
 
 ### ART 3.
 
-De vijfjarenplannen, vermeld in artikel 6 van het besluit van 12 februari 2021, worden door de praktijkcentra die betrokken zijn bij het vijfjarenplan in kwestie, op elektronische wijze ingediend bij de bevoegde entiteit uiterlijk op 30 juni van het jaar vóór het eerste jaar van de periode van vijf jaar in kwestie.<br>
+De vijfjarenplannen, vermeld in artikel 6 van het besluit van 12 februari 2021, worden door de praktijkcentra die betrokken zijn bij het vijfjarenplan in kwestie, op elektronische wijze ingediend bij de bevoegde entiteit uiterlijk op 31 oktober van het jaar vóór het eerste jaar van de periode van vijf jaar in kwestie.<br>
 <br>
 De bevoegde entiteit kan voor de opmaak van de vijfjarenplannen een modelformulier ter beschikking stellen.
 
@@ -49,11 +50,11 @@ De bevoegde entiteit kan voor de opmaak van de jaarplannen een modelformulier te
 
 ### ART 5.
 
-Het totale beschikbare budget wordt ter uitvoering van artikel 10 van het het besluit van 12 februari 2021 op de volgende wijze verdeeld:<br>
-1° akkerbouw: 22,79 %;<br>
-2° groenten: 36,15 %;<br>
-3° fruit: 18,95 %;<br>
-4° sierteelt: 22,12 %.
+Het totale beschikbare budget wordt ter uitvoering van artikel 10 van het besluit van 12 februari 2021 op de volgende wijze verdeeld:<br>
+1°&nbsp;&nbsp; &nbsp;akkerbouw: 24.17%;<br>
+2°&nbsp;&nbsp; &nbsp;groenten: 34.29%;<br>
+3°&nbsp;&nbsp; &nbsp;fruit: 19.36%;<br>
+4°&nbsp;&nbsp; &nbsp;sierteelt: 22.19%.
 
 ### ART 6.
 

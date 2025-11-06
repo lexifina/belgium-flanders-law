@@ -2,16 +2,16 @@
   "codex_id": 1035238,
   "title": "Ministerieel besluit van 2021-02-12 tot uitvoering van het besluit van de Vlaamse Regering van 12 februari 2021 tot subsidiëring van praktijkcentra die actief zijn in het onderzoek, de voorlichting en de ontwikkeling van de plantaardige productie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035238/VolledigDocument?datum=2021-03-05",
-  "source_sha256": "7052899fdd95bc0edf2c97d94bc30bae171bd646c953a708f658aecf1de9052c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035238/VolledigDocument?datum=2025-11-06",
+  "source_sha256": "eb06b12e919c9f691bea7597b06338b5a44f3f9403a637c5be88ec01ca0557ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035238&param=informatie",
-  "as_of": "2021-03-05",
+  "as_of": "2025-11-06",
   "made": "2021-02-12",
   "gazette": "2021-02-23",
   "numac": 2021030389,
   "document_start": "2021-03-05",
   "document_end": null,
-  "in_force": "2021-03-05",
+  "in_force": "2025-11-06",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2021-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-11-06; future article versions excluded; article text as the API gives it"
 }
