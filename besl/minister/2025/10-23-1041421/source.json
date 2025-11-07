@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041421,
+  "title": "Ministerieel besluit van 2025-10-23 over een oproep voor 2025 tot indiening van steunaanvragen als vermeld in artikel 12 van het besluit van de Vlaamse Regering van 7 juli 2023 houdende maatregelen voor de verbetering van de productie en afzet van producten van de bijenteelt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041421/VolledigDocument?datum=2025-11-07",
+  "source_sha256": "1e743ec208053c98ebdfef5cf96adc33750eeb2f0798c80a5d138425d8adf8ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041421&param=informatie",
+  "as_of": "2025-11-07",
+  "made": "2025-10-23",
+  "gazette": "2025-10-28",
+  "numac": 2025008108,
+  "document_start": "2025-11-07",
+  "document_end": null,
+  "in_force": "2025-11-07",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2025-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
