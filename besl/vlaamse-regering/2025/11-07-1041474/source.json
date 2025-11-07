@@ -2,16 +2,16 @@
   "codex_id": 1041474,
   "title": "Besluit van de Vlaamse Regering van 2025-11-07 tot herverdeling vanuit een provisioneel krediet (SG0-1SKC2TG-PR) van de Vlaamse Gemeenschap voor het begrotingsjaar 2025",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041474/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "42f1840b0fcd8ce20bd72fe81dfeab4890fc2b131d5098b02d1dd51bf588e216",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041474/VolledigDocument?datum=2025-11-07",
+  "source_sha256": "e034bac6e4e3756f6ddf1a14fc06e25f7ca1a2b736b5d9fa35cb656e2754326a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041474&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-11-07",
   "made": "2025-11-07",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-11-07",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-11-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-11-07; future article versions excluded; article text as the API gives it"
 }
