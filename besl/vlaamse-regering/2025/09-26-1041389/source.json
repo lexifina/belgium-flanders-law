@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041389,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-26 tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 22 maart 2024 over de financiële tussenkomst in de planschadevergoeding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041389/VolledigDocument?datum=2025-11-08",
+  "source_sha256": "a567bd2aaf62ffc6938d238f46dd5fcb6be8f5a04eb231f99e35d155cb54503e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041389&param=informatie",
+  "as_of": "2025-11-08",
+  "made": "2025-09-26",
+  "gazette": "2025-10-29",
+  "numac": 2025007989,
+  "document_start": "2025-11-08",
+  "document_end": null,
+  "in_force": "2025-11-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
