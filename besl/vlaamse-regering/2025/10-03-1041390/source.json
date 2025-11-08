@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041390,
+  "title": "Besluit van de Vlaamse Regering van 2025-10-03 tot bepaling van bijkomende subcategorieën van gebiedsaanduiding binnen de categorie van gebiedsaanduiding landbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041390/VolledigDocument?datum=2025-11-08",
+  "source_sha256": "0e0b8101473714473afeeb2032bfead57efcc1515de5c01dd984c87a3d5a0631",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041390&param=informatie",
+  "as_of": "2025-11-08",
+  "made": "2025-10-03",
+  "gazette": "2025-10-29",
+  "numac": 2025007999,
+  "document_start": "2025-11-08",
+  "document_end": null,
+  "in_force": "2025-11-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
