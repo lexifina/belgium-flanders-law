@@ -38,7 +38,11 @@ De tussenkomst in planschadevergoedingen ten laste van het Lokaal Bouwshiftfonds
 
 De financiële tussenkomst, vermeld in artikel 2 van dit besluit, bedraagt 66% van de planschadevergoeding voor percelen waarvoor de gemeente via een ruimtelijk uitvoeringsplan een herbestemming heeft doorgevoerd van een zone die onder de categorie van de gebiedsaanduiding wonen, bedrijvigheid, recreatie of gemeenschaps- en nutsvoorzieningen, vermeld in artikel 2.2.6, §2, van de Vlaamse Codex Ruimtelijke Ordening, valt, naar een zone die onder de categorie van gebiedsaanduiding bos valt.&nbsp;<br>
 <br>
-De voormelde financiële tussenkomst bedraagt 50% van de planschadevergoeding voor percelen waarvoor de gemeente via een ruimtelijk uitvoeringsplan een herbestemming heeft doorgevoerd van een zone die onder de categorie van de gebiedsaanduiding wonen, bedrijvigheid, recreatie of gemeenschaps- en nutsvoorzieningen, vermeld in artikel 2.2.6, §2, van de voormelde codex, valt, naar een bouwvrije zone die onder de categorie van gebiedsaanduiding natuur en reservaat, overig groen of agrarisch gebied, vermeld in artikel 2.2.6, §2, van de voormelde codex, valt.
+De voormelde financiële tussenkomst bedraagt 50% van de planschadevergoeding voor percelen waarvoor de gemeente via een ruimtelijk uitvoeringsplan een herbestemming heeft doorgevoerd van een zone die onder de categorie van de gebiedsaanduiding wonen, bedrijvigheid, recreatie of gemeenschaps- en nutsvoorzieningen, vermeld in artikel 2.2.6, §2, van de voormelde codex, valt, naar één van volgende zones of gebieden:&nbsp;<br>
+1.&nbsp;&nbsp; &nbsp;een zone die onder de categorie van gebiedsaanduiding reservaat en natuur of de categorie overige groen, vermeld in artikel 2.2.6, §2, van de voormelde codex, valt;<br>
+2.&nbsp;&nbsp; &nbsp;een zone die onder de subcategorie van gebiedsaanduiding bouwvrij agrarisch gebied, vermeld in artikel 2.2.6, §2, van de voormelde codex, valt,&nbsp;<br>
+3.&nbsp;&nbsp; &nbsp;een zone die onder de subcategorie agrarisch gebied met overdruk natuurverweving, vermeld in het Besluit van de Vlaamse Regering tot bepaling van een bijkomende subcategorie van gebiedsaanduiding, valt,<br>
+4.&nbsp;&nbsp; &nbsp;een zone die onder de subcategorie agrarisch gebied met ecologisch belang, vermeld in voormeld besluit van de Vlaamse Regering, valt.
 
 ### ART 5.
 
