@@ -2,16 +2,16 @@
   "codex_id": 1041420,
   "title": "Ministerieel besluit van 2025-10-23 tot wijziging van artikel 2 en artikel 5 van het ministerieel besluit van 24 mei 2023 tot uitvoering van diverse bepalingen van het besluit van de Vlaams Regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041420/VolledigDocument?datum=2024-10-01",
-  "source_sha256": "b0af2e8536db91ebea94c062d28ded8f31dbd51c1394638525f3922a9d7745a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041420/VolledigDocument?datum=2025-11-09",
+  "source_sha256": "a4e36c3e5a8f37e3d386628d20771a9e2dcc4708725bcc9e60dc771ad176cfd0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041420&param=informatie",
-  "as_of": "2024-10-01",
+  "as_of": "2025-11-09",
   "made": "2025-10-23",
   "gazette": "2025-10-30",
   "numac": 2025008107,
   "document_start": "2024-11-09",
   "document_end": null,
-  "in_force": "2024-10-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2024-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-11-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-11-09; future article versions excluded; article text as the API gives it"
 }

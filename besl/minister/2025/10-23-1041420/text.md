@@ -23,3 +23,20 @@ DE VLAAMSE MINISTER VAN BINNENLAND, STEDEN- EN PLATTELANDSBELEID, SAMENLEVEN, IN
 
 In artikel 2, 1°, van het ministerieel besluit van 24 mei 2023 tot uitvoering van diverse bepalingen van het besluit van de Vlaams Regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling wordt een kenletter e’ ingevoegd die luidt als volgt:&nbsp;<br>
 “e’ ) Code 15: het gedeelte enkel vakantiegeld dat de werknemer ontvangt voor vakantiedagen die niet opgenomen kunnen worden, o.a. omwille van ziekte, en die de 24 maanden volgend op het vakantiejaar kunnen opgenomen worden.”.
+
+### ART 2.
+
+Artikel 5 van hetzelfde ministerieel besluit wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 5. Als de zelfstandige met een arbeidsbeperking voldoende bedrijfsactiviteiten aantoont aan de hand van het fiscaal aanslagbiljet als vermeld in artikel 62, tweede lid, 2°, van het besluit van 15 juli 2022, controleert het departement de volgende rubrieken van het aanslagbiljet:&nbsp;<br>
+1° de rubrieken gezamenlijk belastbaar inkomen of gezamenlijk belastbare beroepsinkomsten;<br>
+2° de deelrubrieken:<br>
+&nbsp; a) bezoldigingen van bedrijfsleiders;<br>
+&nbsp; b) winsten van nijverheids-, handel-, of landbouwbedrijven, meer bepaald het nettoresultaat;<br>
+&nbsp; c) baten van vrije beroepen, ambten, posten en andere bezigheden.<br>
+<br>
+De zelfstandige met een arbeidsbeperking die wegens opstart van de activiteiten over onvoldoende bijdrage beschikt, kan bij afwezigheid van de in artikel 62, tweede lid, 1° en 2°, van het besluit van 15 juli 2022 bedoelde elementen, voldoende activiteiten aantonen aan de hand van de voorlopige sociale bijdrage door middel van het leefbaarheidsattest, dat door het Vlaams Agentschap Innoveren en Ondernemen wordt afgeleverd en dat geldig is tijdens een periode van vier kwartalen die start bij de aanvang van de ondersteuningspremie.”.
+
+### ART 3.
+
+Artikel 1 heeft uitwerking met ingang van 1 oktober 2024.
