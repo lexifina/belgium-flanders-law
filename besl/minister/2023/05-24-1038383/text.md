@@ -82,12 +82,14 @@ Voor werkgevers die niet beschikken over berekende loonpremies geldt de prestati
 
 ### ART 5.
 
-Als de zelfstandige met een arbeidsbeperking voldoende bedrijfsactiviteiten aantoont aan de hand van het fiscaal aanslagbiljet als vermeld in artikel 62, eerste lid, 2°, van het besluit van 15 juli 2022, controleert het departement de volgende rubrieken van het aanslagbiljet: &nbsp;<br>
-1° de rubrieken gezamenlijk belastbaar beroepsinkomen of belastbaar beroepsinkomen;<br>
+Als de zelfstandige met een arbeidsbeperking voldoende bedrijfsactiviteiten aantoont aan de hand van het fiscaal aanslagbiljet als vermeld in artikel 62, tweede lid, 2°, van het besluit van 15 juli 2022, controleert het departement de volgende rubrieken van het aanslagbiljet:&nbsp;<br>
+1° de rubrieken gezamenlijk belastbaar inkomen of gezamenlijk belastbare beroepsinkomsten;<br>
 2° de deelrubrieken:<br>
 a) bezoldigingen van bedrijfsleiders;<br>
-b) winsten van nijverheids-, handel-, of landbouwbedrijven;&nbsp;<br>
-c) baten van vrije beroepen, ambten, posten en andere bezigheden.
+b) winsten van nijverheids-, handel-, of landbouwbedrijven, meer bepaald het nettoresultaat;<br>
+c) baten van vrije beroepen, ambten, posten en andere bezigheden.<br>
+<br>
+De zelfstandige met een arbeidsbeperking die wegens opstart van de activiteiten over onvoldoende bijdrage beschikt, kan bij afwezigheid van de in artikel 62, tweede lid, 1° en 2°, van het besluit van 15 juli 2022 bedoelde elementen, voldoende activiteiten aantonen aan de hand van de voorlopige sociale bijdrage door middel van het leefbaarheidsattest, dat door het Vlaams Agentschap Innoveren en Ondernemen wordt afgeleverd en dat geldig is tijdens een periode van vier kwartalen die start bij de aanvang van de ondersteuningspremie.
 
 ### ART 6.
 
