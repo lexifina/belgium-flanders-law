@@ -6,9 +6,13 @@
 
 ### ART. 1.
 
-<p>De geregistreerde inzamelaars, handelaars en makelaars van categorie 1-materiaal met uitzondering van kadavers en categorie 2-materiaal met uitzondering van kadavers, categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, mengsels van categorie 3-materiaal met categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, moeten beschikken over en werken volgens een geactualiseerd intern kwaliteitsborgingssysteem.</p>
-
-<p>De geregistreerde inzamelaars, handelaars en makelaars categorie 1-materiaal met uitzondering van kadavers en categorie 2-materiaal met uitzondering van kadavers, categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, mengsels van categorie 3-materiaal met categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie sluiten een overeenkomst met de producenten van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn opgenomen:<br>
+<p>De geregistreerde inzamelaars, handelaars en makelaars van categorie 1 en 2 dierlijke bijproducten moeten beschikken over en werken volgens een geactualiseerd intern kwaliteitsborgingssysteem met uitzondering van het volgende materiaal van categorie 1 en 2:<br>
+1° Kadavers van categorie 1;<br>
+2° Kadavers van categorie 2;<br>
+3° Materiaal van categorie 2 dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie;<br>
+4° Mengsels van materiaal van categorie 3 met materiaal van categorie 2 dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie.&nbsp;<br>
+<br>
+De geregistreerde inzamelaars, handelaars en makelaars die overeenkomstig het eerste lid moeten beschikken over een intern kwaliteitsborgingssysteem, sluiten een overeenkomst met de producenten van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn opgenomen:<br>
 1° de naam, het adres en het erkenningsnummer van de geregistreerde inzamelaar, handelaar of makelaar;<br>
 2° de naam, het adres en het erkennings- of vergunningsnummer, als dat openbaar is gemaakt door het Federaal Agentschap voor de Veiligheid van de Voedselketen, van de producent van dierlijke bijproducten;<br>
 3° de aard van de dierlijke bijproducten waarvoor de overeenkomst wordt opgesteld;<br>
@@ -18,13 +22,13 @@
 7° de afspraken over overmacht, vakantieregelingen, overname van contracten;<br>
 8° de geldigheidsduur van de overeenkomst.<br>
 <br>
-De geregistreerde inzamelaars, handelaars en makelaars van categorie 1-materiaal met uitzondering van kadavers en categorie 2-materiaal met uitzondering van kadavers, categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, mengsels van categorie 3-materiaal met categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, sluiten een overeenkomst met de geregistreerde vervoerders van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn opgenomen:<br>
+De geregistreerde inzamelaars, handelaars en makelaars die overeenkomstig het eerste lid moeten beschikken over een intern kwaliteitsborgingssysteem , sluiten een overeenkomst met de geregistreerde vervoerders van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn opgenomen:<br>
 1° de naam, het adres en het erkenningsnummer van de geregistreerde inzamelaar, handelaar of makelaar;<br>
 2° de naam en het adres van de geregistreerde vervoerder;<br>
 3° de aard van de dierlijke bijproducten waarvoor de overeenkomst wordt opgesteld;<br>
 4° een verklaring van de geregistreerde inzamelaar, handelaar of makelaar dat de geregistreerde vervoerder in zijn opdracht dierlijke bijproducten ophaalt.<br>
-<br>
-De geregistreerde inzamelaars, handelaars en makelaars van categorie 1-materiaal met uitzondering van kadavers en categorie 2-materiaal met uitzondering van kadavers, categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, mengsels van categorie 3-materiaal met categorie 2-materiaal dat rechtstreeks mag worden ingezet in een erkende composterings- of vergistingsinstallatie, sluiten een overeenkomst met de bestemmeling van de dierlijke bijproducten, waarin ten minste de volgende gegevens zijn opgenomen:<br>
+&nbsp;&nbsp; &nbsp;<br>
+De geregistreerde inzamelaars, handelaars en makelaars die overeenkomstig het eerste lid moeten beschikken over een intern kwaliteitsborgingssysteem, sluiten een overeenkomst met de bestemmeling van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn opgenomen:<br>
 1° de naam, het adres en het erkenningsnummer van de geregistreerde inzamelaar, handelaar of makelaar;<br>
 2° de naam, het adres en, indien van toepassing, het erkenningsnummer van de bestemmeling;<br>
 3° de aard en categorie van de dierlijke bijproducten waarvoor de overeenkomst wordt opgesteld;<br>
@@ -36,7 +40,30 @@ De geregistreerde inzamelaars, handelaars en makelaars van categorie 1-materiaal
 
 ### ART. 3.
 
-<P>De geregistreerde inzamelaars, handelaars en makelaars van kadavers van   landbouwhuisdieren moeten beschikken over en werken volgens een geactualiseerd   intern kwaliteitsborgingssysteem.<BR></P>  <P>De geregistreerde inzamelaars, handelaars en makelaars van kadavers van   landbouwhuisdieren moeten beschikken over een overeenkomst met het Vlaamse   Gewest inzake de financiering van de ophaling.<BR></P>  <P>De geregistreerde inzamelaars, handelaars en makelaars van kadavers van   landbouwhuisdieren sluiten een overeenkomst met de geregistreerde vervoerders   van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn   opgenomen:<BR>1° de naam, het adres en het erkenningsnummer van de   geregistreerde inzamelaar, handelaar of makelaar;<BR>2° de naam en het adres van   de geregistreerde vervoerder;<BR>3° de aard van de dierlijke bijproducten   waarvoor de overeenkomst wordt opgesteld;<BR>4° een verklaring van de   geregistreerde inzamelaar, handelaar of makelaar dat de geregistreerde   vervoerder in zijn opdracht dierlijke bijproducten ophaalt.<BR></P>  <P>De geregistreerde inzamelaars, handelaars en makelaars van kadavers van   landbouwhuisdieren sluiten een overeenkomst met de bestemmeling van de dierlijke   bijproducten, waarin ten minste de volgende gegevens zijn opgenomen:<BR>1° de   naam, het adres en het erkenningsnummer van de geregistreerde inzamelaar,   handelaar of makelaar;<BR>2° de naam, het adres en, indien van toepassing, het   erkenningsnummer van de bestemmeling;<BR>3° de aard en categorie van de   dierlijke bijproducten waarvoor de overeenkomst wordt opgesteld;<BR>4° een   verklaring van de bestemmeling dat de geregistreerde inzamelaar, handelaar of   makelaar de dierlijke bijproducten bij hem mag aanleveren;<BR>5° de afspraken   over de financiering.<BR></P>  <P>De geregistreerde inzamelaars, handelaars en makelaars van kadavers van   landbouwhuisdieren houden in hun register bijkomend de volgende gegevens   bij:<BR>1° de diersoort;<BR>2° of de producent een particulier of een   professionele veehouder is.<BR></P>
+<p>De geregistreerde inzamelaars, handelaars en makelaars van kadavers van landbouwhuisdieren moeten beschikken over en werken volgens een geactualiseerd intern kwaliteitsborgingssysteem.<br>
+<br>
+De geregistreerde inzamelaars, handelaars en makelaars van kadavers van landbouwhuisdieren moeten beschikken over een overeenkomst met het Vlaamse Gewest inzake de financiering van de ophaling.<br>
+<br>
+Het eerste en tweede lid zijn niet van toepassing voor geregistreerde inzamelaars, handelaars en makelaars van kadavers van landbouwhuisdieren die cumulatief voldoen aan de volgende voorwaarden:<br>
+1° de kadavers van de landbouwhuisdieren worden aangeleverd bij een hiervoor vergund en erkend dierencrematorium,<br>
+2° het gewicht van het aangeleverde kadaver bedraagt maximaal 100 kg.<br>
+<br>
+De geregistreerde inzamelaars, handelaars en makelaars van kadavers van landbouwhuisdieren sluiten een overeenkomst met de geregistreerde vervoerders van de dierlijke bijproducten waarin ten minste de volgende gegevens zijn opgenomen:<br>
+1° de naam, het adres en het erkenningsnummer van de geregistreerde inzamelaar, handelaar of makelaar;<br>
+2° de naam en het adres van de geregistreerde vervoerder;<br>
+3° de aard van de dierlijke bijproducten waarvoor de overeenkomst wordt opgesteld;<br>
+4° een verklaring van de geregistreerde inzamelaar, handelaar of makelaar dat de geregistreerde vervoerder in zijn opdracht dierlijke bijproducten ophaalt.<br>
+<br>
+De geregistreerde inzamelaars, handelaars en makelaars van kadavers van landbouwhuisdieren sluiten een overeenkomst met de bestemmeling van de dierlijke bijproducten, waarin ten minste de volgende gegevens zijn opgenomen:<br>
+1° de naam, het adres en het erkenningsnummer van de geregistreerde inzamelaar, handelaar of makelaar;<br>
+2° de naam, het adres en, indien van toepassing, het erkenningsnummer van de bestemmeling;<br>
+3° de aard en categorie van de dierlijke bijproducten waarvoor de overeenkomst wordt opgesteld;<br>
+4° een verklaring van de bestemmeling dat de geregistreerde inzamelaar, handelaar of makelaar de dierlijke bijproducten bij hem mag aanleveren;<br>
+5° de afspraken over de financiering.<br>
+<br>
+De geregistreerde inzamelaars, handelaars en makelaars van kadavers van landbouwhuisdieren houden in hun register bijkomend de volgende gegevens bij:<br>
+1° de diersoort;<br>
+2° of de producent een particulier of een professionele veehouder is.</p>
 
 ### ART. 4.
 
