@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041425,
+  "title": "Ministerieel besluit van 2025-10-23 tot wijziging van het Ministerieel Besluit van 1 juli 2014 betreffende het kwaliteitsborgingssysteem voor inzamelaars, handelaars en makelaars van dierlijke bijproducten van categorie 1 en categorie 2",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041425/VolledigDocument?datum=2025-11-10",
+  "source_sha256": "50ab2eb70d52708d774908224b2cc3ec6101cd1b450074ecc9fbda65c855330c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041425&param=informatie",
+  "as_of": "2025-11-10",
+  "made": "2025-10-23",
+  "gazette": "2025-10-31",
+  "numac": 2025008147,
+  "document_start": "2025-11-10",
+  "document_end": null,
+  "in_force": "2025-11-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
