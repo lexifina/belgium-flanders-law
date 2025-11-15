@@ -27,21 +27,28 @@ Binnen het vaccinatieschema zijn er een aantal vaccinaties   waarvoor een maxima
 
 ### ART. 4.
 
-Het vaccinatieprogramma voor kinderen en jongeren omvat volledige basisvaccinatie tegen volgende ziektes of kiemen: polio, difterie, tetanus, kinkhoest, Haemophilus influenzae type b, hepatitis B, pneumokokken, mazelen, bof, rubella, meningokokken van serogroep C en voor meisjes tegen HPV.<br>
+Het vaccinatieprogramma voor kinderen en jongeren omvat volledige basisvaccinatie tegen volgende ziektes of kiemen: polio, difterie, tetanus, kinkhoest, Haemophilus influenzae type b, hepatitis B, pneumokokken, mazelen, bof, rubella, meningokokken van serogroepen ACWY en HPV.<br>
 <br>
 Behoudens variaties om medische redenen omvat het vaccinatieprogramma de volgende aanbevolen vaccinaties en vaccinatiemomenten:<br>
 1° op de leeftijd van 8 weken: een hexavalent vaccin tegen polio, difterie, tetanus, kinkhoest Haemophilus influenzae type b en hepatitis B en een geconjugeerd vaccin tegen pneumokokken;<br>
 2° op de leeftijd van 12 weken: een hexavalent vaccin tegen polio, difterie, tetanus, kinkhoest Haemophilus influenzae type b en hepatitis B;<br>
 3° op de leeftijd van 16 weken: een hexavalent vaccin tegen polio, difterie, tetanus, kinkhoest Haemophilus influenzae type b en hepatitis B en een geconjugeerd vaccin tegen pneumokokken;<br>
 4° op de leeftijd van 12 maanden: een vaccin tegen mazelen, bof en rubella en een geconjugeerd vaccin tegen pneumokokken;<br>
-5° op de leeftijd van 15 maanden: een hexavalent vaccin tegen polio, difterie, tetanus, kinkhoest Haemophilus influenzae type b en hepatitis B en een geconjugeerd vaccin tegen meningokokken van serogroep C;<br>
+5° op de leeftijd van 15 maanden: een hexavalent vaccin tegen polio, difterie, tetanus, kinkhoest Haemophilus influenzae type b en hepatitis B en een geconjugeerd vaccin tegen meningokokken van serogroepen ACWY;<br>
+5°/1 op de leeftijd van 24 maanden: een vaccin tegen mazelen, bof en rubella;<br>
 6° in het eerste leerjaar van het lager onderwijs of op de leeftijd van 6 jaar: een tetravalent vaccin tegen polio, difterie, tetanus en kinkhoest;<br>
-7° in het vijfde leerjaar van het lager onderwijs of op de leeftijd van 10 jaar: een vaccin tegen mazelen, bof en rubella;<br>
-8° in het eerste jaar secundair onderwijs of op de leeftijd van 12 jaar, enkel voor meisjes: een volledige vaccinatie tegen HPV (humaan papillomavirus) ter preventie van baarmoederhalskanker bestaande uit twee vaccinaties;<br>
+7° ...;<br>
+8° in het eerste jaar secundair onderwijs of op de leeftijd van 12 jaar: een volledige vaccinatie tegen HPV (humaan papillomavirus) ter preventie van baarmoederhalskanker bestaande uit twee vaccinaties;<br>
 9° in het derde jaar secundair onderwijs of op de leeftijd van 14 jaar: een boostervaccinatie tegen difterie, tetanus en kinkhoest (dosis voor volwassenen);<br>
-10° inhaalvaccinatie voor alle kinderen en jongeren wanneer bij nazicht van de vaccinatiestatus vastgesteld wordt dat deze onvolledig is, behalve voor de vaccinatie tegen HPV waarbij de vaccinatie binnen het vaccinatieprogramma beperkt is tot één enkele leeftijdscohorte;<br>
+10° inhaalvaccinatie voor alle kinderen en jongeren wanneer bij nazicht van de vaccinatiestatus vastgesteld wordt dat deze onvolledig is, behalve voor:&nbsp;<br>
+a) de vaccinatie tegen HPV waarbij de vaccinatie binnen het vaccinatieprogramma beperkt is tot de leeftijd van zestien jaar;<br>
+b) de vaccinatie tegen meningokokken van serogroepen ACWY, waarbij de vaccinatie binnen het vaccinatieprogramma beperkt is tot kinderen en jongeren die in het verleden niet zijn gevaccineerd tegen meningokokken van serogroep C;<br>
 11° volledige hervaccinatie van personen die hun bescherming/immuniteit verloren zijn na beenmerg- en stamceltransplantatie;<br>
-12° een extra poliovaccinatie voor jongeren,&nbsp;zo snel mogelijk en ten laatste binnen 3 maanden na aankomst uit landen waar er, volgens de recentste gegevens van de Wereldgezondheidsorganisatie, wild poliovirus circuleert en die geen extra dosis van het poliovaccin hebben gekregen voor hun vertrek.
+12° een extra poliovaccinatie voor jongeren,&nbsp;zo snel mogelijk en ten laatste binnen 3 maanden na aankomst uit landen waar er, volgens de recentste gegevens van de Wereldgezondheidsorganisatie, wild poliovirus circuleert en die geen extra dosis van het poliovaccin hebben gekregen voor hun vertrek.<br>
+<br>
+In afwijking van het tweede lid, 5°/1, omvat het vaccinatieprogramma voor kinderen en jongeren die geboren zijn vanaf het jaar 2018 tot en met het jaar 2022 een vaccinatie tegen mazelen, bof en rubella in het tweede leerjaar.<br>
+<br>
+In afwijking van het tweede lid, 5°/1, omvat het vaccinatieprogramma voor kinderen en jongeren die geboren zijn in het jaar 2016 of 2017 een vaccinatie tegen mazelen, bof en rubella in het vierde leerjaar.
 
 ### ART. 5.
 
@@ -58,7 +65,7 @@ Het vaccinatieprogramma voor volwassenen omvat de volgende vaccinaties en vaccin
 2° vaccinatie tegen difterie, tetanus en kinkhoest voor zwangere vrouwen tijdens elke zwangerschap;<br>
 3° vaccinatie tegen difterie, tetanus en kinkhoest als cocoonvaccinatie voor gezinsleden en andere personen die zorgen voor een pasgeborene;<br>
 4° jaarlijkse vaccinatie tegen seizoensgriep voor alle residenten van woonzorgcentra die door Vlaanderen erkend worden;<br>
-5° inhaalvaccinatie tegen mazelen, bof en rubella bij volwassenen jonger dan 25 jaar, wanneer bij nazicht van de vaccinatiestatus vastgesteld wordt dat ze geen twee vaccinaties tegen mazelen gehad hebben;<br>
+5° inhaalvaccinatie tegen mazelen, bof en rubella bij volwassenen geboren na 1970, wanneer bij nazicht van de vaccinatiestatus vastgesteld wordt dat ze geen twee vaccinaties tegen mazelen gehad hebben;<br>
 6° volledige hervaccinatie van personen die hun bescherming/immuniteit verloren zijn na beenmerg- en stamceltransplantatie;<br>
 7° een extra poliovaccinatie voor volwassenen, zo snel mogelijk en ten laatste binnen 3 maanden na aankomst uit landen waar er, volgens de recentste gegevens van de Wereldgezondheidsorganisatie, wild poliovirus circuleert en die geen extra dosis van het poliovaccin hebben gekregen voor hun vertrek.
 
@@ -69,7 +76,7 @@ Het vaccinatieschema voor volwassenen omvat de volgende aanbevolen vaccinaties d
 2° jaarlijkse griepvaccinatie voor personen jonger dan 65 jaar die behoren tot de risicogroepen voor complicaties van griep, volgens aanbeveling die jaarlijks door de Hoge Gezondheidsraad wordt geactualiseerd;<br>
 3° jaarlijkse griepvaccinatie voor personen ouder dan 65 jaar;<br>
 4° jaarlijkse griepvaccinatie voor gezondheidspersoneel;<br>
-5° inhaalvaccinatie tegen mazelen, bof en rubella bij volwassenen tussen 25 en 40 jaar, wanneer bij nazicht van de vaccinatiestatus vastgesteld wordt dat ze geen twee vaccinaties tegen mazelen gehad hebben;<br>
+5° ...;<br>
 6° aanbevolen vaccinaties voor reizigers, vermeld op de website over reisgeneeskunde van het Instituut voor Tropische Geneeskunde;<br>
 7° vaccinatie tegen hepatitis A voor personeel dat tewerkgesteld is in de voedselketen;<br>
 8° vaccinatie tegen pneumokokken voor personen ouder dan 65 jaar volgens de aanbevelingen van de Hoge Gezondheidsraad;<br>
@@ -81,4 +88,4 @@ Alle vaccins die door de Vlaamse overheid gratis ter   beschikking gesteld worde
 
 ### ART. 9.
 
-De vaccinaties die toegediend zijn met de vaccins, vermeld in   artikel 3 en 8, moeten geregistreerd worden in de vaccinatiedatabank van   Vaccinnet, overeenkomstig artikel 43, § 3, van het decreet van 21 november 2013   betreffende het preventieve gezondheidsbeleid, en artikel 9 van het besluit van   de Vlaamse Regering van 16 mei 2014 houdende diverse bepalingen ter uitvoering   van het decreet van 21 november 2003 betreffende het preventieve   gezondheidsbeleid en tot wijziging van uitvoeringsbesluiten van dit   decreet.
+...
