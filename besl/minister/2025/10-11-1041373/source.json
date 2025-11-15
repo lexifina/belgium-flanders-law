@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041373,
+  "title": "Ministerieel besluit van 2025-10-11 tot wijziging van het ministerieel besluit van 29 januari 2015 tot het bepalen van het vaccinatieschema voor Vlaanderen, wat betreft de aanpassing van het vaccinatieschema",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041373/VolledigDocument?datum=2025-11-15",
+  "source_sha256": "3faf587a54e7c120c4b25c2ff259e16f380bc6f3eb52f31ef804958eaee0d310",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041373&param=informatie",
+  "as_of": "2025-11-15",
+  "made": "2025-10-11",
+  "gazette": "2025-10-27",
+  "numac": 2025007802,
+  "document_start": "2025-11-15",
+  "document_end": null,
+  "in_force": "2025-11-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
