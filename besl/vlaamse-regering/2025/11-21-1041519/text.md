@@ -27,3 +27,70 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Mobiliteit, Openbare 
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2025 worden herverdeeld overeenkomstig onderstaande tabel:<br>
+(in duizend euro)
+<table cellspacing="0" style="border-collapse:collapse; width:1000px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; text-align:center; vertical-align:middle; width:22%">Begrotingsartikel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Ent.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Basisall.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">ESR</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Van<br>
+			VAK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Van<br>
+			VEK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Naar<br>
+			VAK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Naar<br>
+			VEK</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:22%">MB0-1MFH2LB-PR</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">MB0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">1MF071</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0100</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">148.758</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:22%">MB0-1MHH5RY-PA</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">MB0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">1MH009</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">8571</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">123.758</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:22%">MD0-1MHH2RF-WT</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">MD0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">1MH246</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">7310</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">25.000</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:22%">Totaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">148.758</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">148.758</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor Mobiliteit, Openbare Werken, Havens en Sport is belast met de uitvoering van dit besluit.&nbsp;
