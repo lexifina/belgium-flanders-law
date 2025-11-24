@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041465,
+  "title": "Decreet van 2025-10-24 tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur, wat betreft een remediëringstraject na een forensische audit",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041465/VolledigDocument?datum=2025-11-24",
+  "source_sha256": "5099a925ec1dd4840c15ff13f039f1ed55a5fdc7ed297582f328dcb486de72cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041465&param=informatie",
+  "as_of": "2025-11-24",
+  "made": "2025-10-24",
+  "gazette": "2025-11-14",
+  "numac": 2025008536,
+  "document_start": "2025-11-24",
+  "document_end": null,
+  "in_force": "2025-11-24",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
