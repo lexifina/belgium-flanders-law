@@ -2661,7 +2661,7 @@ Met behoud van de toepassing van de termijn, vermeld in het eerste en tweede lid
 <br>
 Als de Beroepscommissie voor Tuchtzaken het beroep gegrond verklaart, vernietigt ze de bestreden beslissing.
 
-## HOOFDSTUK 5. Organisatiebeheersing en audit
+## HOOFDSTUK 5. Organisatiebeheersing, audit en remediëringstraject
 
 ## Afdeling 1. Organisatiebeheersing
 
@@ -2733,6 +2733,12 @@ Als een dossier dat persoonsgegevens als vermeld in het tweede lid, bevat, naar 
 ### ART 224.
 
 De gemeenteraad en de raad voor maatschappelijk welzijn kunnen een interne audit organiseren. In afwijking van artikel 170 kunnen ze er daarbij voor kiezen om de personeelsleden die belast zijn met de interne audit niet onder de algemene leiding van de algemeen directeur te plaatsen. In dat geval is artikel 194, tweede lid, en 208, § 2, tweede lid, van toepassing op die personeelsleden, met dien verstande dat "de ombudsman" wordt gelezen als "het personeelslid belast met de interne audit".
+
+## Afdeling 3. Remediëringstraject
+
+### ART 224/1
+
+Naar aanleiding van een forensisch auditrapport over een gemeente of een openbaar centrum voor maatschappelijk welzijn als vermeld in artikel 222, tweede lid, belast de Vlaamse Regering de provinciegouverneur ermee om de gemeente of het openbaar centrum voor maatschappelijk welzijn te begeleiden bij de uitvoering van een remediëringstraject. Met het oog op het versterken van de globale integriteitsaanpak verleent de gouverneur in het kader van het remediëringstraject ondersteuning op maat van de gemeente of het openbaar centrum voor maatschappelijk welzijn.
 
 ## TITEL 3. De extern verzelfstandigde agentschappen
 
@@ -2908,14 +2914,17 @@ De deelname is onderworpen aan de voorwaarde dat aan het autonoom gemeentebedrij
 
 ### ART 241.
 
-Artikel 221 tot en met 223 en de bepalingen van titel 4 zijn van toepassing op de autonome gemeentebedrijven, met uitzondering van artikel 249, § 3 en § 4, artikel 256, artikel 260, derde lid, artikel 262, § 1, tweede lid, artikel 264, tweede lid, en hoofdstuk 3 en 4, en met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+Artikel 221 tot en met 223, artikel 224/1 en de bepalingen van titel 4 zijn van toepassing op de autonome gemeentebedrijven, met uitzondering van artikel 249, § 3 en § 4, artikel 256, artikel 260, derde lid, artikel 262, § 1, tweede lid, artikel 264, tweede lid, en hoofdstuk 3 en 4, en met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
 1° "de gemeente" als "het autonoom gemeentebedrijf";<br>
 2° "de gemeente en het openbaar centrum voor maatschappelijk welzijn" als "het autonoom gemeentebedrijf";<br>
 3° "elke gemeente en elk openbaar centrum voor maatschappelijk welzijn" als "elk autonoom gemeentebedrijf";<br>
 4° "in elke gemeente en in elk openbaar centrum voor maatschappelijk welzijn" als "in elk autonoom gemeentebedrijf";<br>
 5° "de gemeenteraad" , "de gemeenteraad en de raad voor maatschappelijk welzijn" en "de gemeenteraad of de raad voor maatschappelijk welzijn" als "de raad van bestuur";<br>
 6° "raadsleden" als "leden van de raad van bestuur";<br>
-7° "het college van burgemeester en schepenen" als "de raad van bestuur".<br>
+7° "het college van burgemeester en schepenen" als "de raad van bestuur";<br>
+8°&nbsp; “een gemeente of een openbaar centrum voor maatschappelijk wel-zijn” als “een autonoom gemeentebedrijf”;<br>
+9°&nbsp; “de gemeente of het openbaar centrum voor maatschappelijk welzijn” als “het autonoom gemeentebedrijf”.”<br>
+<br>
 <br>
 De Vlaamse Regering bepaalt de nadere voorwaarden voor de toepassing van de bepalingen van het eerste lid op de autonome gemeentebedrijven.
 
@@ -5428,7 +5437,7 @@ Al de akten, facturen, aankondigingen, publicaties en andere stukken die uitgaan
 
 ### ART 479.
 
-Artikel 221 tot en met 223 zijn van toepassing op de welzijnsvereniging met dien verstande dat "in elke gemeente en in elk openbaar centrum voor maatschappelijk welzijn" gelezen wordt als "in elke welzijnsvereniging".
+Artikel 221 tot en met 223 en artikel 224/1 zijn van toepassing op de welzijnsvereniging met dien verstande dat "in elke gemeente en in elk openbaar centrum voor maatschappelijk welzijn" gelezen wordt als "in elke welzijnsvereniging", "een gemeente of een openbaar centrum voor maatschappelijk welzijn” gelezen wordt als “een welzijnsvereniging” en “de gemeente of het openbaar centrum voor maatschappelijk welzijn” gelezen wordt als “de welzijnsvereniging”.
 
 ### ART 480.
 
