@@ -2,16 +2,16 @@
   "codex_id": 1040173,
   "title": "Besluit van de Vlaamse Regering van 2024-07-19 over de prijzen voor woonzorgvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040173/VolledigDocument?datum=2024-09-01",
-  "source_sha256": "e81ddd8502c79534aaecaf2caac4cb90d8641158d4091780702ab31536762f0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040173/VolledigDocument?datum=2025-11-27",
+  "source_sha256": "875ef6ce8a5d8bed4640027eed13851fcc339a9f1ec743ab225eb9617dea8a09",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040173&param=informatie",
-  "as_of": "2024-09-01",
+  "as_of": "2025-11-27",
   "made": "2024-07-19",
   "gazette": "2024-08-28",
   "numac": 2024007989,
   "document_start": "2024-09-01",
   "document_end": null,
-  "in_force": "2024-09-01",
+  "in_force": "2025-11-27",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2024-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-11-27; future article versions excluded; article text as the API gives it"
 }

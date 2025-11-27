@@ -120,11 +120,11 @@ In afwijking van het vierde lid wordt voor de berekening van het verhogingsperce
 <br>
 Een groep van assistentiewoningen deelt zowel de kosten van het genotsrecht als de kosten van de zorg en ondersteuning mee in het formulier, vermeld in het eerste lid. De groep van assistentiewoningen kan ervoor kiezen een van de componenten of beide componenten te indexeren.&nbsp;<br>
 <br>
-§2. De ingediende verhoging, vermeld in paragraaf 1, mag op zijn vroegst toegepast worden vanaf de eerste dag van de tweede maand die volgt op de maand van de spilindexoverschrijding, als aan al de volgende voorwaarden is voldaan:<br>
+§2. De ingediende verhoging, vermeld in paragraaf 1, mag op zijn vroegst toegepast worden vanaf de eerste dag van de derde maand die volgt op de maand van de spilindexoverschrijding, als aan al de volgende voorwaarden is voldaan:<br>
 1° de nieuwe geïndexeerde dagprijzen zijn ingediend met het formulier, vermeld in paragraaf 1, eerste lid, in overeenstemming met de bepalingen in paragraaf 1, derde en vierde lid;<br>
 2° de nieuwe geïndexeerde dagprijzen en het spilindexcijfer dat erop van toepassing is, zijn aan de bewoners of hun vertegenwoordigers kenbaar gemaakt voorafgaandelijk aan de toepassing van de nieuwe geïndexeerde dagprijzen. &nbsp;<br>
 <br>
-De ingediende verhoging, vermeld in paragraaf 1, moet uiterlijk worden toegepast vanaf de eerste dag van de vijfde maand die volgt op de maand van de spilindexoverschrijding.&nbsp;<br>
+De ingediende verhoging, vermeld in paragraaf 1, moet uiterlijk worden toegepast vanaf de eerste dag van de zesde maand die volgt op de maand van de spilindexoverschrijding.&nbsp;<br>
 <br>
 §3. Als de ingediende verhoging, vermeld in paragraaf 1, niet tijdig wordt toegepast:<br>
 1° verliest de initiatiefnemer het recht op de verhoging. De dagprijzen die golden vóór de ingediende verhoging, vermeld in paragraaf 1, blijven verder van toepassing;&nbsp;<br>
