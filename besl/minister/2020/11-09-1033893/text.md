@@ -24,25 +24,24 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-Er wordt een beheerregeling voor de muskusrat (Ondatra zibethicus) vastgesteld overeenkomstig artikel 28, § 3, eerste lid, van het Soortenbesluit van 15 mei 2009. De beheerregeling voor de muskusrat wordt als bijlage 1 bij dit besluit gevoegd.
+...
 
 ### ART 2.
 
-Een motiveringsnota waarin aangetoond wordt dat de maatregelen van een beheerregeling niet disproportioneel zijn en geen significant ongunstige impact hebben op de biodiversiteit of op de staat van instandhouding van inheemse soorten, overeenkomstig artikel 30, § 1 van het Soortenbesluit van 15 mei 2009, wordt als bijlage 2 bij dit besluit gevoegd.
+...
 
 ### ART 3.
 
-Conform artikel 31, tweede lid, van het Soortenbesluit van 15 mei 2009 kan de minister de beheerregeling muskusrat doen wijzigen, opschorten of stopzetten.
+...
 
 ### ART 4.
 
-Dit besluit treedt buiten werking bij het verstrijken van een periode van vijf jaar vanaf de datum van bekendmaking ervan.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=82">Bijlage 1: Beheerregeling voor de muskusrat zoals vermeld in artikel 1 van het ministerieel besluit tot vaststelling van een beheerregeling voor de muskusrat (Ondatra zibethicus)</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/11/30_1.pdf#page=99">Bijlage 2: Motiveringsnota bij de beheerregeling voor de muskusrat zoals vermeld in artikel 2 van het ministerieel besluit tot vaststelling van een beheerregeling voor de muskusrat (Ondatra zibethicus)</a><br>
-&nbsp;
+...
