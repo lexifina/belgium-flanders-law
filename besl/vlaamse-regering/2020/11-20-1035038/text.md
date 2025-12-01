@@ -34,8 +34,8 @@ In dit besluit wordt verstaan onder:<br>
 2° decreet van 26 april 2019: het decreet van 26 april 2019 betreffende basisbereikbaarheid;<br>
 3° departement: het Departement Mobiliteit en Openbare Werken, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° minister: de Vlaamse minister, bevoegd voor het gemeenschappelijk vervoer, de Vlaamse minister, bevoegd voor het algemeen mobiliteitsbeleid, de Vlaamse minister, bevoegd voor de weginfrastructuur en het wegenbeleid, en de Vlaamse minister, bevoegd voor de waterinfrastructuur en het waterbeleid en de Vlaamse minister, bevoegd voor de regionale luchthavens;<br>
-5° Plan-milieueffectrapport over een regionaal mobiliteitsplan, afgekort plan-MER: een milieueffectrapport als vermeld in artikel 4.1.1, § 1, eerste lid, 7°, van het decreet van 5 april 1995, over het voorgenomen regionaal mobiliteitsplan;<br>
-6° plan-m.e.r.-screening: een analyse aan de hand van de criteria die opgenomen zijn in bijlage I bij het decreet van 5 april 1995, die aantoont dat het regionale mobiliteitsplan geen aanzienlijke effecten op mens en milieu kan hebben.
+5° Plan-milieueffectrapport over een regionaal mobiliteitsplan, afgekort plan-MER: een milieueffectrapport als vermeld in artikel 4.1.1, 7°, van het decreet van 5 april 1995, over het voorgenomen regionaal mobiliteitsplan;<br>
+6° plan-m.e.r.-screening: een geheel van milieu-informatie, ongeacht de drager, waarin van een voorgenomen regionaal mobiliteitsplan wordt aangegeven of er aanzienlijke milieueffecten te verwachten zijn aan de hand van de criteria, vermeld in bijlage I bij het decreet van 5 april 1995.
 
 ## HOOFDSTUK 3. Algemene bepalingen
 
@@ -55,10 +55,10 @@ c) de derde fase met de opmaak van het actieplan, vermeld in artikel 11, § 2, e
 
 ### ART 4.
 
-De milieueffectrapportage voor een regionaal mobiliteitsplan wordt met toepassing van artikel 4.2.4, § 1, van het decreet van 5 april 1995 geïntegreerd in het proces tot opmaak of herziening van het regionale mobiliteitsplan op de wijze bepaald in dit besluit. De procedure en de termijnen voor de milieueffectrapportage voor een regionaal mobiliteitsplan zijn geregeld in het derde lid en in hoofdstuk 4 en 5 van dit besluit. Artikel 4.2.3, 4.2.8, § 1bis, en artikel 4.2.9, § 1 en § 2, van het decreet van 5 april 1995 zijn van toepassing, met uitzondering van de procedurele aspecten en termijnen, vermeld in de voormelde bepalingen.<br>
-<br>
-Als informatie in het regionale mobiliteitsplan is opgenomen die vereist is conform artikel 4.2.8, § 1bis, van het decreet van 5 april 1995, kan daarnaar verwezen worden in het plan-MER.<br>
-<br>
+De milieueffectrapportage voor een regionaal mobiliteitsplan wordt met toepassing van artikel 4.1.4, eerste lid, van het decreet van 5 april 1995 geïntegreerd in het proces tot opmaak of herziening van het regionale mobiliteitsplan op de wijze bepaald in dit besluit. De procedure en de termijnen voor de milieueffectrapportage voor een regionaal mobiliteitsplan zijn geregeld in het derde lid en in hoofdstuk 4 en 5 van dit besluit. Artikel 4.3.2, 4.4.4, en artikel 4.5.1, van het decreet van 5 april 1995 zijn van toepassing, met uitzondering van de procedurele aspecten en termijnen, vermeld in de voormelde bepalingen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Als informatie in het regionale mobiliteitsplan is opgenomen die vereist is conform artikel 4.4.4, van het decreet van 5 april 1995, kan daarnaar verwezen worden in het plan-MER.<br>
+&nbsp;&nbsp; &nbsp;<br>
 Het departement stelt de erkende MER-coördinator aan.
 
 ## HOOFDSTUK 4. Participatie
@@ -76,14 +76,14 @@ Het participatietraject kan in de loop van het planningsproces worden aangepast.
 <br>
 Het participatietraject en eventuele wijzigingen worden bekendgemaakt op de website van de vervoerregioraad.<br>
 <br>
-§ 2. Als een milieueffectrapportage wordt uitgevoerd, worden de volgende actoren op de wijze, conform hoofdstuk 5 van dit besluit, betrokken bij het planningsproces:<br>
-1° de administratie, bevoegd voor milieueffectrapportage;<br>
+§ 2. Als een milieubeoordeling wordt uitgevoerd, worden de volgende actoren op de wijze, conform hoofdstuk 5 van dit besluit, betrokken bij het planningsproces:<br>
+1° het Vlaams expertisecentrum m.e.r.;<br>
 2° de gemeenten die behoren tot de vervoerregio in kwestie;<br>
 3° een ander gewest, een lidstaat van de Europese Unie of de federale overheid in de volgende gevallen:<br>
 a) als het plan aanzienlijke effecten kan hebben op mens of milieu in het ander gewest, in de lidstaat of in een gebied dat onder de federale bevoegdheid valt;<br>
 b) als het andere gewest, de lidstaat of de federale overheid verzoekt om betrokken te worden.<br>
 <br>
-§ 3. Als een milieueffectrapportage wordt uitgevoerd, wijst de administratie, bevoegd voor milieueffectrapportage, adviesinstanties aan die wegens hun specifieke verantwoordelijkheden op milieugebied met de milieueffecten van de uitvoering van het regionale mobiliteitsplan te maken kunnen krijgen.<br>
+§ 3. Als een milieubeoordeling wordt uitgevoerd, wijst het Vlaams expertisecentrum m.e.r., adviesinstanties aan die wegens hun specifieke verantwoordelijkheden op milieugebied met de milieueffecten van de uitvoering van het regionale mobiliteitsplan te maken kunnen krijgen.<br>
 <br>
 De adviesinstanties, vermeld in het eerste lid, worden, op de wijze bepaald in hoofdstuk 5, bijkomend geraadpleegd.
 
@@ -97,19 +97,17 @@ De adviesinstanties, vermeld in het eerste lid, worden, op de wijze bepaald in h
 <br>
 De actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, worden geraadpleegd over het voorstel tot inhoudsafbakening van het plan-MER, vermeld in het eerste lid. Als dat nodig is, past de erkende MER-coördinator het voorstel aan na de voormelde raadpleging.<br>
 <br>
-De administratie, bevoegd voor milieueffectrapportage, beoordeelt de kwaliteit van het voorstel tot inhoudsafbakening van het plan-MER en de wijze waarop is omgegaan met de adviezen die zijn verleend. Het plan-MER wordt opgesteld in overeenstemming met de voormelde kwaliteitsbeoordeling.<br>
+Het Vlaams expertisecentrum m.e.r., beoordeelt de kwaliteit van het voorstel tot inhoudsafbakening van het plan-MER en de wijze waarop is omgegaan met de adviezen die zijn verleend. Het plan-MER wordt opgesteld in overeenstemming met de voormelde kwaliteitsbeoordeling.<br>
 <br>
-§ 3. Als conform artikel 4.2.3, § 2, 2°, of § 3, van het decreet van 5 april 1995 een plan-m.e.r.-screening wordt opgemaakt, worden de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, van dit besluit, geraadpleegd over de plan-m.e.r.-screening. Als dat nodig is, wordt de plan-m.e.r.-screening aangepast na de voormelde raadpleging.<br>
+§ 3. Als conform artikel 4.3.2, §2, van het decreet van 5 april 1995 een plan-m.e.r.-screening wordt opgemaakt, worden de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, van dit besluit, geraadpleegd over de plan-m.e.r.-screening. Als dat nodig is, wordt de plan-m.e.r.-screening aangepast na de voormelde raadpleging.<br>
 <br>
-Uiterlijk voor het voorlopige ontwerp van regionaal mobiliteitsplan wordt vastgesteld, beslist de administratie, bevoegd voor milieueffectrapportage, of de opmaak van een plan-MER vereist is.<br>
+Uiterlijk voor het voorlopige ontwerp van regionaal mobiliteitsplan wordt vastgesteld, beslist het Vlaams expertisecentrum m.e.r., of de opmaak van een plan-MER vereist is.<br>
 <br>
-§ 4. Als conform artikel 4.2.3, § 3bis en § 3ter, van het decreet van 5 april 1995 een gemotiveerd verzoek tot ontheffing wordt opgemaakt, worden de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, van dit besluit, geraadpleegd over het verzoek tot ontheffing. Als dat nodig is, wordt het verzoek tot ontheffing aangepast na de voormelde raadpleging.<br>
+§ 4. ...<br>
 <br>
-Uiterlijk voor het voorlopige ontwerp van regionaal mobiliteitsplan wordt vastgesteld, beslist de administratie, bevoegd voor milieueffectrapportage, over het verzoek tot ontheffing.<br>
+§ 5. Als aan de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, conform paragraaf 2 en 3 om advies wordt gevraagd, leveren ze het advies af binnen dertig dagen na de dag waarop ze de adviesvraag hebben ontvangen. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
 <br>
-§ 5. Als aan de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, conform paragraaf 2, 3 en 4 om advies wordt gevraagd, leveren ze het advies af binnen dertig dagen na de dag waarop ze de adviesvraag hebben ontvangen. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
-<br>
-§ 6. De administratie, bevoegd voor milieueffectrapportage, bezorgt de kwaliteitsbeoordeling van de inhoudsafbakening van het plan-MER of de beslissing over de plan-m.e.r.-screening of over de MER-ontheffing aan de vervoerregioraad. Ze worden samen met de verleende adviezen bekendgemaakt.
+§ 6. Het Vlaams expertisecentrum m.e.r., bezorgt de kwaliteitsbeoordeling van de inhoudsafbakening van het plan-MER of de beslissing over de plan-m.e.r.-screening aan de vervoerregioraad. Ze worden samen met de verleende adviezen bekendgemaakt.
 
 ### ART 7.
 
@@ -120,7 +118,7 @@ Uiterlijk voor het voorlopige ontwerp van regionaal mobiliteitsplan wordt vastge
 § 3. Nadat de minister het voorlopige ontwerp van regionaal mobiliteitsplan heeft goedgekeurd conform paragraaf 2, bezorgt het departement het voorlopige ontwerp van regionaal mobiliteitsplan aan de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, met in voorkomend geval de volgende documenten:<br>
 1° het ontwerp van plan-MER;<br>
 2° de plan-m.e.r.-screening en de beslissing over de plan-m.e.r.-screening;<br>
-3° het verzoek en de beslissing tot MER-ontheffing.<br>
+3° ...<br>
 <br>
 § 4. Binnen negentig dagen na de dag waarop de gemeenten, vermeld in artikel 5, § 2, 2° en, in voorkomend geval, van de gemeenten die conform artikel 5, § 3, als adviesinstantie zijn aangewezen, de documenten, vermeld in paragraaf 3, hebben ontvangen, organiseren de colleges van burgemeester en schepenen van de voormelde gemeenten een openbaar onderzoek. Binnen de voormelde termijn bezorgen de voormelde gemeenten de ingediende opmerkingen en bezwaren aan de vervoerregioraad.<br>
 <br>
@@ -147,9 +145,9 @@ Opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn van het o
 
 § 1. Aan de documenten, vermeld in artikel 7, § 3, kunnen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de adviezen, de opmerkingen en de bezwaren die geformuleerd zijn tijdens het advies verlenen, conform artikel 7, § 5 en het openbaar onderzoek.<br>
 <br>
-§ 2. Als een ontwerp van plan-MER is opgemaakt, beoordeelt de administratie, bevoegd voor milieueffectrapportage, de kwaliteit van het plan-MER vóór het ontwerp van regionaal mobiliteitsplan wordt vastgesteld. Ze toetst daarvoor aan de kwaliteitsbeoordeling, vermeld in artikel 6, § 2, derde lid, van dit besluit, en aan de gegevens die vereist zijn conform artikel 4.2.8, § 1bis, van het decreet van 5 april 1995. Ze houdt daarbij rekening met de adviezen, opmerkingen en bezwaren die tijdens het advies verlenen, conform artikel 7, § 5 en het openbaar onderzoek zijn gemaakt.<br>
+§ 2. Als een ontwerp van plan-MER is opgemaakt, beoordeelt het Vlaams expertisecentrum m.e.r., de kwaliteit van het plan-MER vóór het ontwerp van regionaal mobiliteitsplan wordt vastgesteld. Ze toetst daarvoor aan de kwaliteitsbeoordeling, vermeld in artikel 6, § 2, derde lid, van dit besluit, en aan de gegevens die vereist zijn conform artikel 4.4.4. van het decreet van 5 april 1995. Ze houdt daarbij rekening met de adviezen, opmerkingen en bezwaren die tijdens het advies verlenen, conform artikel 7, § 5 en het openbaar onderzoek zijn gemaakt.<br>
 <br>
-Als conform paragraaf 1 de plan-m.e.r.-screening of het verzoek tot ontheffing is gewijzigd, wordt de administratie, bevoegd voor milieueffectrapportage, verzocht om opnieuw te beslissen of de opmaak van een plan-MER vereist is. De administratie, bevoegd voor milieueffectrapportage, raadpleegt daarvoor de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, waarvan ze een bijkomend advies noodzakelijk acht.<br>
+Als conform paragraaf 1 de plan-m.e.r.-screening is gewijzigd, wordt het Vlaams expertisecentrum m.e.r., verzocht om opnieuw te beslissen of de opmaak van een plan-MER vereist is. Het Vlaams expertisecentrum m.e.r., raadpleegt daarvoor de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3, waarvan ze een bijkomend advies noodzakelijk acht.<br>
 <br>
 § 3. Als het ontwerp van regionaal mobiliteitsplan door de vervoerregioraad wordt vastgesteld conform artikel 18, § 3/1, eerste lid, van het decreet van 26 april 2019, wordt rekening gehouden met, in voorkomend geval:<br>
 1° het plan-MER en de kwaliteitsbeoordeling ervan, vermeld in paragraaf 2;<br>
@@ -157,7 +155,7 @@ Als conform paragraaf 1 de plan-m.e.r.-screening of het verzoek tot ontheffing i
 3° de inhoud van de ingewonnen adviezen;<br>
 4° de grensoverschrijdende raadpleging.<br>
 <br>
-§ 4. Het ontwerp van regionaal mobiliteitsplan dat is vastgesteld en, in voorkomend geval, het plan-MER of de plan- m.e.r.-screening en de beslissing daarover of het verzoek en de beslissing tot MER-ontheffing worden bekendgemaakt op de website van de vervoerregioraad.
+§ 4. Het ontwerp van regionaal mobiliteitsplan dat is vastgesteld en, in voorkomend geval, het plan-MER of de plan- m.e.r.-screening en de beslissing daarover worden bekendgemaakt op de website van de vervoerregioraad.
 
 ### ART 9.
 
@@ -165,16 +163,16 @@ Als conform paragraaf 1 de plan-m.e.r.-screening of het verzoek tot ontheffing i
 <br>
 Het goedgekeurde regionale mobiliteitsplan wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad en treedt in werking tien dagen na die bekendmaking.<br>
 <br>
-§ 2. Het departement bezorgt het goedgekeurde regionale mobiliteitsplan en, in voorkomend geval, het plan-MER of de plan- m.e.r.-screening en de beslissing daarover of het verzoek en de beslissing tot MER-ontheffing aan de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3.<br>
+§ 2. Het departement bezorgt het goedgekeurde regionale mobiliteitsplan en, in voorkomend geval, het plan-MER of de plan- m.e.r.-screening aan de actoren en de adviesinstanties, vermeld in artikel 5, § 2, 2° en 3°, en § 3.<br>
 <br>
 § 3. De vervoerregioraad publiceert bij de bekendmaking, vermeld in paragraaf 2, de volgende informatie op haar website:<br>
 1° het regionale mobiliteitsplan, zoals het is vastgesteld en goedgekeurd;<br>
-2° in voorkomend geval, het plan-MER of de plan- m.e.r.-screening en de beslissing daarover of het verzoek en de beslissing tot MER-ontheffing;<br>
+2° in voorkomend geval, het plan-MER of de plan- m.e.r.-screening;<br>
 3° in voorkomend geval, een verklaring die de volgende elementen samenvat:<br>
 a) de manier waarop de milieuoverwegingen in het regionale mobiliteitsplan zijn geïntegreerd;<br>
 b) in voorkomend geval, de manier waarop rekening is gehouden met het plan-MER, de adviezen, de raadpleging van het publiek en het resultaat van de grensoverschrijdende raadpleging;<br>
 c) de redenen waarom is gekozen voor het regionale mobiliteitsplan, zoals het is aangenomen, in het licht van de andere redelijke alternatieven die zijn behandeld;<br>
-4° in voorkomend geval, de monitoringmaatregelen waartoe wordt besloten conform artikel 4.6.3bis van het decreet van 5 april 1995.
+4° in voorkomend geval, de monitoringmaatregelen waartoe wordt besloten conform artikel 4.5.4. van het decreet van 5 april 1995.
 
 ## HOOFDSTUK 6. Slotbepaling
 

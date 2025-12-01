@@ -2,16 +2,16 @@
   "codex_id": 1035038,
   "title": "Besluit van de Vlaamse Regering van 2020-11-20 over de regionale mobiliteitsplannen met integratie van de milieueffectrapportage",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035038/VolledigDocument?datum=2021-01-23",
-  "source_sha256": "c6f418f293cfa0028ff43a99f595bdaaae422d124f6516dd0f58e08e602ba6c5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035038/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "751339d1d313c0d30a8f478d3bae75b2a606441c8c5a40d92206a2100f6775ac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035038&param=informatie",
-  "as_of": "2021-01-23",
+  "as_of": "2025-12-01",
   "made": "2020-11-20",
   "gazette": "2021-01-13",
   "numac": 2020016420,
   "document_start": "2021-01-23",
   "document_end": null,
-  "in_force": "2021-01-23",
+  "in_force": "2025-12-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2021-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }
