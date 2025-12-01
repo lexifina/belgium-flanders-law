@@ -88,7 +88,7 @@ De CIW organiseert tijdens de eerste helft van het openbaar onderzoek in elke be
 
 ### ART 7.
 
-De CIW formuleert na het einde van het openbaar onderzoek op basis van de ontvangen adviezen en reacties en, in voorkomend geval, rekening houdend met het goedgekeurde plan-MER, een voorstel tot definitieve aanduiding op basis van de criteria, vermeld in artikel 5.6.8, § 1, tweede lid, van de VCRO.<br>
+De CIW formuleert na het einde van het openbaar onderzoek op basis van de ontvangen adviezen en reacties en, in voorkomend geval, rekening houdend met het plan-MER, een voorstel tot definitieve aanduiding op basis van de criteria, vermeld in artikel 5.6.8, § 1, tweede lid, van de VCRO.<br>
 <br>
 De Vlaamse Regering duidt de watergevoelige openruimtegebieden definitief aan.<br>
 <br>

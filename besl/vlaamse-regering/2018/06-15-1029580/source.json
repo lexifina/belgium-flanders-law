@@ -2,16 +2,16 @@
   "codex_id": 1029580,
   "title": "Besluit van de Vlaamse Regering van 2018-06-15 houdende nadere regels voor de aanduiding van watergevoelige openruimtegebieden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029580/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "80191cd7d124ee0bb82382e9647c879e9f6492ced9f68ecee1d512ff3d0de84c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029580/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "570f4cb2ce882678c68836d97b2c1ce26724300500f135ac1e335113dd127166",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029580&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2025-12-01",
   "made": "2018-06-15",
   "gazette": "2018-07-30",
   "numac": 2018013005,
   "document_start": "2018-08-09",
   "document_end": null,
-  "in_force": "2023-01-01",
+  "in_force": "2025-12-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }
