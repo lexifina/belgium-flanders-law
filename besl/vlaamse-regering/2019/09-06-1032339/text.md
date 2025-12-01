@@ -136,7 +136,7 @@ De initiatiefnemer beslist daarvoor op basis van een of meer van de volgende cri
 De infrastructuurgebonden projecten, vermeld in paragraaf 1, 12°, worden uitgevoerd conform artikel 2, § 1, op voorwaarde dat voldaan is aan een van de volgende voorwaarden:<br>
 1° de totale investeringskosten van de werken worden op ten minste 500.000 euro geraamd;<br>
 2° het betreft geen dringende herstellingen aan bestaande infrastructuur;<br>
-3° het betreft geen projecten of maatregelen die kaderen in de uitvoering van de geluidsactieplannen, vermeld in artikel 2.2.4.4.1. van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, of opgelegd als milderende maatregel in het kader van de milieueffectrapportage, vermeld in titel IV, hoofdstuk II en III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+3° het betreft geen projecten of maatregelen die kaderen in de uitvoering van de geluidsactieplannen, vermeld in artikel 2.2.4.4.1. van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, of opgelegd als milderende maatregel in het kader van de milieueffectrapportage, vermeld in titel IV, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 <br>
 In afwijking van het eerste en het tweede lid worden infrastructuurgebonden projecten, ongeacht het bedrag van de totale investeringskosten, in de volgende gevallen uitgevoerd conform artikel 2, § 1:<br>
 1° het betreft werken waarvoor een subsidie wordt aangevraagd op basis van het besluit van 25 januari 2013;<br>
@@ -184,11 +184,11 @@ Voor de projecten, vermeld in het eerste lid, wordt een unieke verantwoordingsno
 
 ### ART 7.
 
-Als de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, deel uitmaken van een plan of programma waarvoor een plan-MER moet worden opgemaakt conform titel IV, hoofdstuk II, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, kan de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, op zijn vroegst genomen worden nadat de bevoegde overheid het plan of programma waarvoor het plan-MER is opgemaakt, definitief heeft vastgesteld.<br>
+Als de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, deel uitmaken van een plan of programma waarvoor een plan-MER moet worden opgemaakt artikel 4.3.2. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, kan de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, op zijn vroegst genomen worden nadat de bevoegde overheid het plan of programma waarvoor het plan-MER is opgemaakt, definitief heeft vastgesteld.<br>
 <br>
 Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een ruimtelijk uitvoeringsplan moet worden opgemaakt conform titel II, hoofdstuk II, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, kan de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, op zijn vroegst worden genomen nadat de bevoegde overheid het ruimtelijk uitvoeringsplan definitief heeft goedgekeurd.<br>
 <br>
-Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een project-MER moet worden opgemaakt conform titel IV, hoofdstuk III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wordt bij de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, rekening gehouden met het ontwerp van project-MER.<br>
+Als er voor de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, een project-MER moet worden opgemaakt artikel 4.3.3. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wordt bij de startkeuze, vermeld in artikel 2, § 1, 1°, van dit besluit, rekening gehouden met het ontwerp van project-MER.<br>
 <br>
 Als de infrastructuurgebonden projecten, vermeld in artikel 4, § 1, van dit besluit, onderworpen worden aan de geïntegreerde besluitvormingsprocedure, conform hoofdstuk 2 van het decreet van 25 april 2014 betreffende complexe projecten, wordt de projectmethodologie, vermeld in artikel 2, § 1, van dit besluit, niet gevolgd.
 

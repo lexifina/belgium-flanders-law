@@ -2,16 +2,16 @@
   "codex_id": 1032339,
   "title": "Besluit van de Vlaamse Regering van 2019-09-06 tot bepaling van de nadere regels over de projectmethodologie en de projectstuurgroep in het kader van de basisbereikbaarheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032339/VolledigDocument?datum=2022-10-30",
-  "source_sha256": "00f574083955a00eb14f43f14e11c8fb1e659dd805557559844ee50db586dc8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032339/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "4e96e91cdb28c1d5234ac5bad028b30d4b40b749e12a380679f34c3719cfc2b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032339&param=informatie",
-  "as_of": "2022-10-30",
+  "as_of": "2025-12-01",
   "made": "2019-09-06",
   "gazette": "2019-10-14",
   "numac": 2019014881,
   "document_start": "2019-10-24",
   "document_end": null,
-  "in_force": "2022-10-30",
+  "in_force": "2025-12-01",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2022-10-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }
