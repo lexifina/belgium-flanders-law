@@ -443,856 +443,604 @@ De Vlaamse regering bepaalt de inhoud van het integraal milieujaarverslag, alsme
 
 ...
 
-## TITEL IV MILIEUEFFECT- EN VEILIGHEIDSRAPPORTAGE
+## TITEL IV MILIEUEFFECTRAPPORTAGE
 
-## HOOFDSTUK I DEFINITIES, PROCEDURELE BEPALINGEN, DOELSTELLINGEN EN KENMERKEN VAN DE MILIEUEFFECT- EN VEILIGHEIDSRAPPORTAGE
+## Hoofdstuk 1. Definities, algemene bepalingen en bepalingen over de milieueffecten van acties van andere landen of gewesten
 
-## AFDELING 1 DEFINITIES (ing. decr. 18 december 2002, art. 4)]
+## Afdeling 1. Definities
 
 ### ART. 4.1.1.
 
-§ 1. Tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:<br>
-1° milieu-effectrapportage: de procedure die al dan niet leidt tot het opstellen en goedkeuren van een milieueffectrapport over een voorgenomen actie en in voorkomend geval tot het gebruik ervan als hulpmiddel bij de besluitvorming omtrent deze actie, hierna m.e.r. te noemen;<br>
-2° veiligheidsrapportage: de procedure die al dan niet leidt tot het opstellen en goedkeuren van een ruimtelijk veiligheidsrapport of een omgevingsveiligheidsrapport over een voorgenomen actie en in voorkomend geval tot het gebruik ervan als hulpmiddel bij de besluitvorming omtrent deze actie, hierna v.r. te noemen;<br>
-3° actie: een plan, programma en/of project;<br>
-4° plan of programma : plan of programma, met inbegrip van die welke door de Europese Unie worden medegefinancierd, alsook de wijzigingen ervan, dat :<br>
-a) door een instantie op regionaal, provinciaal of&nbsp;gemeentelijk niveau wordt opgesteld en/of vastgesteld of dat door een instantie wordt opgesteld om middels een wetgevingsprocedure door het Vlaams Parlement of de Vlaamse Regering te worden vastgesteld;<br>
-en<br>
-b) op grond van decretale of van bestuursrechtelijke bepalingen is voorgeschreven.<br>
-5° project:<br>
-a) een voorgenomen vergunningsplichtige activiteit of een vergunningsplichtige activiteit die moet worden hervergund bij het verstrijken van de geldigheidsduur van de lopende vergunning en die bestaat uit:<br>
-- de uitvoering van bouwwerken, de totstandbrenging en in voorkomend geval de exploitatie van andere installaties, werkzaamheden of andere ingrepen in het milieu, inclusief de grondwaterwinningen en de ingrepen voor de ontginning van natuurlijke rijkdommen; of<br>
-- de exploitatie van een inrichting; dit is het hele door een exploitant beheerde gebied waar gevaarlijke stoffen aanwezig zijn in een of meer installaties, met inbegrip van gemeenschappelijke of bijbehorende infrastructuur of activiteiten; of<br>
-b) een voorgenomen activiteit met negatieve gevolgen voor het milieu die wordt meegefinancierd door het Vlaamse Gewest of de Vlaamse Gemeenschap in het kader van de internationale samenwerking;<br>
-6° rapport: een milieueffectrapport over een plan of programma, een milieueffectrapport over een project, een ruimtelijk veiligheidsrapport of een omgevingsveiligheidsrapport;<br>
-7° milieueffectrapport over een plan of programma: een openbaar document waarin, van een voorgenomen plan of programma en van de redelijkerwijze in beschouwing te nemen alternatieven, de te verwachten gevolgen voor mens en milieu in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geanalyseerd en geëvalueerd, en aangegeven wordt op welke wijze de aanzienlijke milieueffecten vermeden, beperkt, verholpen of gecompenseerd kunnen worden, hierna plan-MER te noemen;<br>
-8° milieueffectrapport over een project: een openbaar document waarin, van een voorgenomen project en van de redelijkerwijze in beschouwing te nemen alternatieven, de te verwachten gevolgen voor mens en milieu in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geanalyseerd en geëvalueerd, en aangegeven wordt op welke wijze de aanzienlijke milieueffecten vermeden, beperkt, verholpen of gecompenseerd kunnen worden, hierna project-MER te noemen;<br>
-9° ruimtelijk veiligheidsrapport: een openbaar document waarin, van een voorontwerp van ruimtelijke uitvoeringsplan en van de redelijkerwijze in beschouwing te nemen alternatieven, een wetenschappelijke beoordeling wordt gegeven van de geplande ontwikkelingen met betrekking tot nieuwe of bestaande inrichtingen en hun omgeving, wanneer de plaats van vestiging ervan of de ontwikkelingen zelf het risico op een zwaar ongeval kunnen vergroten of de gevolgen ervan ernstiger kunnen maken, hierna RVR te noemen;<br>
-10° omgevingsveiligheidsrapport: een openbaar document waarin - naast een beschrijving van het veiligheidsbeheersysteem van een inrichting - van een project en van de redelijkerwijze in beschouwing te nemen alternatieven, de scenario's voor zware ongevallen in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geïdentificeerd, geanalyseerd en geëvalueerd, en wordt aangetoond welke maatregelen kunnen en zullen worden getroffen om die zware ongevallen te voorkomen en de gevolgen ervan voor mens en milieu te beperken, hierna OVR te noemen;<br>
-10° /1 veiligheidsnota : een openbaar document waarin aangetoond wordt dat de verandering van een vergunde inrichting geen bijkomend aanzienlijk risico van zware ongevallen voor mens en milieu meebrengt ten opzichte van de bestaande toestand zoals die beschreven is in een voor die inrichting goedgekeurd omgevingsveiligheidsrapport, en waarbij met betrekking tot die verandering wordt aangetoond welke maatregelen getroffen werden of getroffen kunnen worden om zware ongevallen te voorkomen en om de gevolgen ervan voor mens en milieu te beperken;<br>
-11° niet-technische samenvatting: een samenvatting van een rapport die begrijpelijk is voor het publiek en toelaat om een voldoende zicht te krijgen op de milieueffecten of de mogelijke zware ongevallen en de mogelijke of te nemen maatregelen;<br>
-12° administratie: de door de Vlaamse regering aangewezen diensten die bevoegd zijn voor het leefmilieu;<br>
-13° initiatiefnemer:<br>
-a) voor wat de verplichtingen inzake de ruimtelijke uitvoeringsplannen betreft waarbij het ruimtelijk uitvoeringsplan het kader vormt voor één of meerdere projecten van één of meerdere privaat- of publiekrechtelijke natuurlijke of rechtspersonen: de overheid die het initiatief neemt tot opmaak van een ruimtelijk uitvoeringsplan overeenkomstig de artikelen 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening, tenzij deze privaat- of publiekrechtelijke natuurlijke of rechtsperso(o)n(en) een schriftelijk verzoek tot overname van deze verplichtingen indient of indienen bij de overheid die het initiatief neemt tot opmaak van een ruimtelijk uitvoeringsplan overeenkomstig de artikelen 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening en deze overheid het verzoek inwilligt. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het aanvraagdossier, de procedure en de modaliteiten van het verzoek tot overname verplichtingen inzake ruimtelijke uitvoeringsplannen; voor wat de verplichtingen betreft inzake de ruimtelijke uitvoeringsplannen andere dan deze die hierboven vermeld worden: de overheid die het initiatief neemt tot opmaak van een ruimtelijk uitvoeringsplan overeenkomstig de artikelen 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening;<br>
-b) voor wat de verplichtingen inzake de overige plannen en programma's betreft : de instantie die het initiatief neemt om een plan of programma op te stellen of te wijzigen;<br>
-c) voor wat de verplichtingen inzake projecten betreft : de aanvrager of houder van een vergunning voor een project;<br>
-14° het samenwerkingsakkoord: het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, goedgekeurd bij het decreet van 17 juli 2000;<br>
-15° betekening: het verzenden bij ter post aangetekende brief of per elektronische post;<br>
-16° ontvangstbewijs: de schriftelijke of elektronische bevestiging van ontvangst van een zending;<br>
-17° dag: kalenderdag;<br>
-18° publiek: een of meer natuurlijke of rechtspersonen en hun verenigingen, organisaties of groepen.<br>
-19° Verdrag : het Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband ondertekend in Espoo op 25 februari 1991.<br>
-20° afschrift: de op schriftelijke of elektronische wijze ter beschikking gestelde informatie.<br>
-<br>
-§ 2. De definities in het samenwerkingsakkoord gelden voor alle bepalingen van deze titel die betrekking hebben op de veiligheidsrapportage.
+In deze titel wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;actie: een plan, een programma of een project;<br>
+2°&nbsp;&nbsp; &nbsp;betrokken publiek: elke natuurlijke persoon of rechtspersoon en ook elke vereniging, organisatie of groep met rechtspersoonlijkheid die gevolgen ondervindt of mogelijk ondervindt van of belanghebbende is bij de besluitvor-ming over de voorgenomen actie, waarbij niet-gouvernementele organisaties die zich voor milieubescherming inzetten, geacht worden belanghebbende te zijn;<br>
+3°&nbsp;&nbsp; &nbsp;bevoegde overheid: de overheid die bevoegd is om een plan of programma vast te stellen of om over de vergunningsaanvraag van een project te beslis-sen;<br>
+4°&nbsp;&nbsp; &nbsp;grens- of gewestgrensoverschrijdende milieueffecten: de milieueffecten van een voorgenomen actie die zich volledig of gedeeltelijk situeert op het grond-gebied van het Vlaamse Gewest, die worden teweeggebracht in een andere verdragspartij bij het verdrag inzake milieueffectrapportage in grensover-schrijdend verband ondertekend te Espoo op 25 februari 1991, in een andere lidstaat van de Europese Unie of in een ander gewest;<br>
+5°&nbsp;&nbsp; &nbsp;initiatiefnemer:<br>
+a)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor de ruimtelijke uitvoeringsplannen waarbij het ruimtelijk uitvoeringsplan het kader vormt voor een of meer projecten van een of meer privaat- of publiekrechtelijke natuurlijke of rechtsperso-nen: de overheid die het initiatief neemt om een ruimtelijk uitvoeringsplan op te maken conform artikel 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Co-dex Ruimtelijke Ordening van 15 mei 2009, tenzij die privaat- of publiek-rechtelijke natuurlijke of rechtspersonen een schriftelijk verzoek tot overname van die verplichtingen indienen bij de overheid die het initiatief neemt om een ruimtelijk uitvoeringsplan op te maken conform artikel 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en die overheid het verzoek inwilligt;<br>
+b)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor andere ruimtelijke uitvoeringsplannen dan de ruimtelijke uitvoeringsplannen, vermeld in punt a): de overheid die het ini-tiatief neemt om een ruimtelijk uitvoeringsplan op te maken conform ar-tikel 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
+c)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor andere plannen en programma’s dan de plannen en programma’s, vermeld in punt a) en b): de instantie die het initiatief neemt om een plan of programma op te stellen of te wijzigen;<br>
+d)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor projecten: de aanvrager van een vergunning voor een project;<br>
+6°&nbsp;&nbsp; &nbsp;milieubeoordeling: het proces dat bestaat uit de volgende stappen:<br>
+a)&nbsp;&nbsp; &nbsp;een milieueffectrapport voorbereiden en opstellen;<br>
+b)&nbsp;&nbsp; &nbsp;raadplegingen van adviesinstanties en het betrokken publiek uitvoeren;<br>
+c)&nbsp;&nbsp; &nbsp;het onderzoek door de bevoegde overheid van de informatie die in het milieueffectrapport is gepresenteerd, en, in voorkomend geval, van alle aanvullende informatie die de initiatiefnemer verstrekt, en van alle rele-vante informatie die via de raadplegingen, vermeld in punt b), is ontvangen;<br>
+d)&nbsp;&nbsp; &nbsp;voor projecten: de gemotiveerde conclusie van de bevoegde overheid over de aanzienlijke effecten van de actie op het milieu. In die conclusie wordt rekening gehouden met de resultaten van het onderzoek, vermeld in punt c), de beslissing over de goedkeuring of afkeuring van het pro-ject-MER en, in voorkomend geval, haar eigen aanvullende onderzoek;<br>
+e)&nbsp;&nbsp; &nbsp;voor plannen en programma’s: de verklaring die samenvat op welke wijze milieuoverwegingen in het plan of programma zijn geïntegreerd en op welke wijze in de besluitvorming met het opgestelde milieueffectrapport en de resultaten van de raadplegingen, vermeld in punt b), rekening is gehouden, en die de redenen samenvat waarom is gekozen voor het plan of programma zoals het is aangenomen, in het licht van andere redelijke alternatieven die zijn behandeld;<br>
+f)&nbsp;&nbsp; &nbsp;de integratie van de gemotiveerde conclusie van de bevoegde overheid in de beslissing over de vergunningsaanvraag voor het project;<br>
+g)&nbsp;&nbsp; &nbsp;de informatieverstrekking over de beslissing over de actie;<br>
+7°&nbsp;&nbsp; &nbsp;milieueffectrapport, afgekort MER: een geheel van milieu-informatie, ongeacht de drager, waarin van een voorgenomen actie en van de redelijkerwijze in beschouwing te nemen alternatieven, de te verwachten aanzienlijke gevolgen voor mens en milieu in hun onderlinge samenhang op een systemati-sche en wetenschappelijk verantwoorde wijze worden geanalyseerd en geëvalueerd. In het milieueffectrapport wordt aangegeven op welke wijze de aanzienlijke milieueffecten vermeden, beperkt, verholpen of gecompenseerd kunnen worden;<br>
+8°&nbsp;&nbsp; &nbsp;plan-MER: een milieueffectrapport over een plan of programma;&nbsp;<br>
+9°&nbsp;&nbsp; &nbsp;project-MER: een milieueffectrapport over een project;<br>
+10°&nbsp;&nbsp; &nbsp;milieueffectrapportage, afgekort m.e.r.: het uitvoeren van een milieubeoor-deling of het nagaan aan de hand van een screening of een milieubeoordeling vereist is;<br>
+11°&nbsp;&nbsp; &nbsp;niet-technische samenvatting: een samenvatting van het milieueffectrapport die voldoende begrijpelijk is en het publiek en de instantie die bij de besluitvorming zijn betrokken, voldoende inzichten verschaft om zich een oordeel te kunnen vormen over de mogelijk aanzienlijke milieueffecten van een voorge-nomen actie;<br>
+12°&nbsp;&nbsp; &nbsp;plan of programma: een plan of een programma, met inbegrip van een plan of een programma dat de Europese Unie meefinanciert, en de wijzigingen ervan, dat voldoet aan al de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het is door een instantie op regionaal, provinciaal of gemeentelijk niveau opgesteld en/of vastgesteld of het is door een instantie opgesteld om door een wetgevingsprocedure door het Vlaams Parlement of de Vlaamse Regering te worden vastgesteld;<br>
+b)&nbsp;&nbsp; &nbsp;het is op grond van wettelijke of van bestuursrechtelijke bepalingen voorgeschreven;<br>
+13°&nbsp;&nbsp; &nbsp;project:<br>
+a)&nbsp;&nbsp; &nbsp;de uitvoering van bouwwerken of de totstandbrenging van andere instal-laties of werken;<br>
+b)&nbsp;&nbsp; &nbsp;andere ingrepen in natuurlijk milieu of landschap, inclusief de ingrepen voor de ontginning van bodemschatten;<br>
+14°&nbsp;&nbsp; &nbsp;publiek: een of meer natuurlijke of rechtspersonen en hun verenigingen, organisaties of groepen;<br>
+15°&nbsp;&nbsp; &nbsp;scoping: een geheel van milieu-informatie, ongeacht de drager, waarin de reikwijdte, het detailleringsniveau en de inhoudelijke aanpak van het milieuef-fectrapport worden vastgesteld;<br>
+16°&nbsp;&nbsp; &nbsp;scopingadvies: een advies over de reikwijdte, het detailleringsniveau en de inhoudelijke aanpak van de informatie die de initiatiefnemer in het milieuef-fectrapport moet opnemen;<br>
+17°&nbsp;&nbsp; &nbsp;screening: een geheel van milieu-informatie, ongeacht de drager, waarin van een voorgenomen actie wordt aangegeven of er aanzienlijke milieueffecten te verwachten zijn;<br>
+18°&nbsp;&nbsp; &nbsp;vergunning: de beslissing van de bevoegde overheid waardoor de initiatiefne-mer het recht verkrijgt om het project uit te voeren;<br>
+19°&nbsp;&nbsp; &nbsp;Vlaams expertisecentrum milieueffectrapportage, afgekort Vlaams expertisecentrum m.e.r: de instantie binnen het Departement Omgeving die belast is met taken van milieueffectrapportage.
 
-## [AFDELING 2 ALGEMENE BEPALINGEN MET BETREKKING TOT DE PROCEDURES (ing. decr. 18 december 2002, art. 4)]
+## Afdeling 2. Algemene bepalingen
 
 ### ART. 4.1.2.
 
-§ 1. De termijnen gaan in:<BR>1° in geval van betekening, op de&nbsp;derde   werkdag na de dag van de verzending;<BR>2° in geval van afgifte tegen   ontvangstbewijs, op de dag na de datum van het   ontvangstbewijs.<BR><BR>Betekeningen en mededelingen van eenzelfde beslissing of   document aan meer dan één persoon, gebeuren op dezelfde dag.<BR><BR>§ 2. De   termijnen verstrijken om middernacht van de laatste dag.
+Behoudens andersluidende bepalingen in de sectorale regelgeving voor plannen, programma’s en projecten, mag voor de adviesaanvragen, vermeld in deze titel, aan de vereiste van een advies worden voorbijgegaan als er geen advies wordt uitgebracht binnen de termijn die de Vlaamse Regering bepaalt.
 
 ### ART. 4.1.3.
 
-<P>...</P>
-
-## [AFDELING 3 DOELSTELLING EN KENMERKEN (ing. decr. 18 december 2002, art. 4)]
+<p>De procedures, vermeld in deze titel, en ook de milieubeoordeling en de terbeschikkingstelling van de relevante milieu-informatie kunnen volledig of gedeeltelijk digitaal verlopen conform de regels die de Vlaamse Regering bepaalt.</p>
 
 ### ART. 4.1.4.
 
-§ 1. De milieueffect- en veiligheidsrapportage beoogt, in de besluitvorming over acties die aanzienlijke milieueffecten kunnen veroorzaken en/of die een zwaar ongeval teweeg kunnen brengen, aan het milieubelang en de veiligheid en de gezondheid van de mens een plaats toe te kennen die evenwaardig is aan de sociale, economische en andere maatschappelijke belangen.<br>
+Voor een plan of een programma dat conform artikel 4.3.2 onder de werkings-sfeer van deze titel valt, kan de Vlaamse Regering bepalen op welke wijze de bepalingen over de screening of de milieubeoordeling in de besluitvorming over het plan of programma geïntegreerd worden.<br>
 <br>
-§ 2. Ter realisatie van de doelstelling, bedoeld in § 1, heeft de milieueffect- en veiligheidsrapportage als essentiële kenmerken:<br>
-1° de systematische en wetenschappelijk verantwoorde analyse en evaluatie van de te verwachten, of in het geval van zware ongevallen mogelijke, gevolgen voor mens en milieu, van een voorgenomen actie en van de redelijkerwijze in beschouwing te nemen alternatieven voor de actie of onderdelen ervan, en de beschrijving en evaluatie van de mogelijke maatregelen om de gevolgen van de voorgenomen actie op een samenhangende wijze te vermijden, te beperken, te verhelpen of te compenseren;<br>
-2° de kwaliteitsbeoordeling van de verzamelde informatie;<br>
-3° de actieve openbaarheid van de rapportage en de besluitvorming over de voorgenomen actie.<br>
-<br>
-§ 3. De administratie beschikt over voldoende expertise om de rapporten te onderzoeken. Als dat nodig is, heeft ze toegang tot voldoende expertise om de rapporten te onderzoeken.
-
-## [AFDELING 4 RELATIES TUSSEN RAPPORTAGES (ing. decr. 18 december 2002, art. 4)]
+Als bij decreet of besluit van de Vlaamse Regering geen wijze van integratie is bepaald, dan gelden voor een plan of programma dat overeenkomstig artikel 4.3.2 onder de werkingssfeer van deze titel valt, de bepalingen zoals voorzien in deze titel.
 
 ### ART. 4.1.5.
 
-In voorkomend geval wordt in latere rapportages, die worden opgesteld krachtens deze titel, rekening gehouden met de rapportages die krachtens deze titel werden uitgevoerd in eerdere stadia van de besluitvorming en met de goedgekeurde rapporten die daarvan het resultaat waren.  <span class="reference">(ing. decr. 18 december 2002, art. 4, I: 13 februari 2003)</span> ]
+Voor een project dat conform artikel 4.3.3 onder de werkingssfeer van deze titel valt, kan de Vlaamse Regering bepalen op welke wijze de bepalingen over de screening of de milieubeoordeling in de besluitvorming over dit project geïnte-greerd worden.<br>
+<br>
+Als bij decreet of besluit van de Vlaamse Regering geen wijze van integratie is bepaald, dan gelden voor een project dat overeenkomstig artikel 4.3.3 onder de werkingssfeer van deze titel valt, de bepalingen zoals voorzien in deze titel.
+
+## Afdeling 3. Milieueffecten van acties van andere landen of gewesten
 
 ### ART. 4.1.6.
 
-§ 1. Als meerdere rapportages moeten worden uitgevoerd, hetzij krachtens   deze titel, hetzij krachtens deze titel en andere gewestelijke en/of federale   regelgeving, neemt de administratie op eigen initiatief of op verzoek van de   initiatiefnemer(s) een beslissing over de mogelijkheid tot afstemming of   integratie van de verschillende rapporten en voorzover mogelijk van de   verschillende rapportages. Er wordt in ieder geval naar gestreefd dat de   verschillende rapportages zoveel mogelijk gelijktijdig worden   uitgevoerd.<BR><BR>De administratie neemt een beslissing over de wenselijkheid   van de afstemming of integratie uiterlijk bij haar beslissing over de inhoud van   het rapport, bedoeld in artikel 4.2.8, § 6, of in voorkomend geval bij haar   advies als vermeld in artikel 4.3.4, § 4, tweede lid, en artikel 4.5.2, §   4.<BR><BR>De administratie en de initiatiefnemer(s) plegen hierover vooraf   overleg.<BR><BR>§ 2. De Vlaamse regering kan nadere regelen vaststellen   betreffende de modaliteiten van de afstemming en integratie van de rapportages   en rapporten in de gevallen bedoeld in dit artikel.<BR><BR>Deze afstemming of   integratie kan betrekking hebben op rapportages in verschillende   beleidsdomeinen.
+Als een overheid met bevoegdheid in het Vlaamse Gewest vaststelt dat een voorgenomen actie in een andere verdragspartij bij het verdrag inzake milieueffectrapportage in grensoverschrijdend verband ondertekend te Espoo op 25 februari 1991, een andere lidstaat van de Europese Unie of een ander gewest of de federale overheid mogelijk aanzienlijke milieueffecten kan hebben op haar grondgebied of als het Vlaamse Gewest daarvan door de bevoegde autoriteiten van een andere verdragspartij bij het voormelde verdrag, een andere lidstaat van de Europese Unie of een ander gewest of de federale overheid op de hoogte wordt gebracht, neemt die overheid contact op met de bevoegde autoriteiten van de betrokken staat of het betrokken gewest of de federale overheid om mee te delen of ze wil deelnemen aan de milieubeoordeling van de voorgenomen actie in de betrokken staat of het betrokken gewest of de federale overheid.<br>
+<br>
+De Vlaamse Regering stelt de wijze vast waarop de adviesinstanties, die de Vlaamse Regering aanwijst, en het betrokken publiek in het Vlaamse Gewest binnen een redelijke termijn worden geïnformeerd over de voorgenomen actie, de gelegenheid krijgen om zich over de mogelijke aanzienlijke milieueffecten van de voorgenomen actie uit te spreken en op de hoogte worden gebracht van de informatie over de beslissing over de voorgenomen actie die de bevoegde autoriteiten van de betrokken staten of betrokken gewesten of de federale overheid bezorgen.
 
-## [AFDELING 5 DOORWERKING IN DE BESLUITVORMING (ing. decr. 18 december 2002, art. 4)]
+## AFDELING 4 ...
+
+## AFDELING 5 ...
 
 ### ART. 4.1.7.
 
-De overheid houdt bij haar beslissing over de voorgenomen actie, en in voorkomend geval ook bij de uitwerking ervan, terdege rekening met het goedgekeurde rapport of de goedgekeurde rapporten en met de opmerkingen en commentaren die over het rapport of de rapporten werden uitgebracht.<br>
-<br>
-Zij motiveert elke beslissing over de voorgenomen actie in het bijzonder op volgende punten:<br>
-1° de keuze voor de voorgenomen actie, een bepaald alternatief of bepaalde deelalternatieven, behalve dan voor wat het omgevingsveiligheidsrapport betreft;<br>
-2° de aanvaardbaarheid van te verwachten of mogelijke gevolgen voor mens of milieu van het gekozen alternatief;<br>
-3° de in het rapport of de rapporten voorgestelde maatregelen.
+...
 
-## [HOOFDSTUK II MILIEUEFFECTRAPPORTAGE OVER PLANNEN EN PROGRAMMA'S
+## Hoofdstuk 2. Doelstelling en kenmerken van de milieubeoordeling en relaties tussen effectbeoordelingen
 
-## AFDELING 1 WERKINGSSFEER
-
-## ONDERAFDELING 1 TOEPASSINGSGEBIED
+## Afdeling 1. Doelstelling en kenmerken van de milieubeoordeling
 
 ### ART. 4.2.1.
 
-Dit hoofdstuk is van toepassing op ieder plan of programma dat het kader vormt voor de toekenning van een vergunning voor een project.<br /><br />Dit hoofdstuk is eveneens van toepassing op ieder plan of programma, waarvoor, gelet op het mogelijke effect op gebieden, een passende beoordeling vereist is uit hoofde van artikel 36ter, § 3, eerste lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.
+Om in een hoog niveau van milieubescherming te voorzien, beoogt de milieubeoordeling, in de besluitvorming over acties die aanzienlijke milieueffecten kunnen veroorzaken, aan het milieubelang en de gezondheid van de mens een plaats toe te kennen die evenwaardig is aan de sociale, economische en andere maatschappelijke belangen.<br>
+<br>
+Om de doelstelling, vermeld in het eerste lid, te realiseren, heeft de milieubeoordeling de volgende essentiële kenmerken:<br>
+1°&nbsp;&nbsp; &nbsp;de systematische en wetenschappelijk verantwoorde analyse en evaluatie van de mogelijke aanzienlijke gevolgen voor mens en milieu, van een voorgenomen actie en van de redelijkerwijze in beschouwing te nemen alternatieven voor de actie of onderdelen ervan, en de beschrijving en evaluatie van de mogelijke maatregelen om de gevolgen van de voorgenomen actie op een samenhangende wijze te vermijden, te beperken, te verhelpen of, als dat mogelijk is, te compenseren;<br>
+2°&nbsp;&nbsp; &nbsp;de kwaliteitsbeoordeling van de verzamelde informatie;<br>
+3°&nbsp;&nbsp; &nbsp;de raadpleging van het betrokken publiek en de informatieverstrekking over de doorwerking van de milieubeoordeling in de besluitvorming over de voorgenomen actie.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. en de bevoegde overheid beschikken over of hebben toegang tot voldoende expertise om het milieueffectrapport te onderzoeken en de kwaliteit ervan te beoordelen.
+
+## Afdeling 2. Relaties tussen effectbeoordelingen
 
 ### ART. 4.2.2.
 
-Volgend plan of programma valt niet onder het toepassingsgebied van dit decreet :<br />1° plan of programma dat uitsluitend bestemd is voor nationale defensie;<br />2° financieel of begrotingsplan en -programma;<br />3° plan of programma dat wordt medegefinancierd in het kader van de huidige programmeringsperiode 2000-2006 betreffende EG-Verordening nr. 1260/1999 van de Raad van 21 juni 1999 houdende algemene bepalingen inzake de Structuurfondsen en de programmeringsperiode 2000-2006 en 2000-2007 van EG-Verordening nr. 1257/1999 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling uit het Europees Orientatie- en Garantiefonds voor de landbouw (EOGFL).
-
-## ONDERAFDELING 2 DE PLICHT TOT OPMAAK VAN EEN PLAN-MER
+Voor plannen en programma's die deel uitmaken van een hiërarchie van plannen en programma's, wordt, om overlapping van milieubeoordelingen te voorkomen, rekening gehouden met de uitvoering van de milieubeoordeling op verschillende niveaus van de hiërarchie
 
 ### ART. 4.2.3.
 
-§ 1. Het plan of programma, dat overeenkomstig artikel 4.2.1, onder het toepassingsgebied van dit hoofdstuk valt, wordt, alvorens het kan worden goedgekeurd, aan een milieueffectrapportage onderworpen in de gevallen bepaald in dit hoofdstuk.<br>
-<br>
-§ 2. Voor een plan of programma, dat overeenkomstig artikel 4.2.1, eerste lid, onder het toepassingsgebied van dit hoofdstuk valt, en dat niet het gebruik bepaalt van een klein gebied op lokaal niveau, noch een kleine wijziging inhoudt, moet een plan-MER worden opgemaakt, wanneer :<br>
-1° het plan of programma betrekking heeft op landbouw, bosbouw, visserij, energie, industrie, vervoer, afvalstoffenbeheer, waterbeheer, telecommunicatie, toerisme, ruimtelijke ordening of grondgebruik, en het kader vormt voor de toekenning van een vergunning voor een project opgesomd in bijlagen I, II en III&nbsp;van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van categorieën van projecten onderworpen aan milieueffectrapportage;<br>
-2° voor een ander plan of programma dan deze vermeld onder 1°, de initiatiefnemer aan de hand van de criteria die worden omschreven in bijlage I, die bij dit decreet is gevoegd, niet aantoont dat dit plan of programma geen aanzienlijke milieueffecten kan hebben. De Vlaamse Regering kan nadere regels vaststellen betreffende de beoordeling van de aanwezigheid van aanzienlijke milieueffecten.<br>
-<br>
-§ 3. Voor een plan of programma, dat overeenkomstig artikel 4.2.1, onder het toepassingsgebied van dit hoofdstuk valt, en dat het gebruik bepaalt van een klein gebied op lokaal niveau of een kleine wijziging inhoudt, moet geen plan-MER worden opgemaakt voor zover de initiatiefnemer aan de hand van de criteria die worden omschreven in bijlage I, die bij dit decreet is gevoegd, aantoont dat het plan of programma geen aanzienlijke milieueffecten kan hebben. De Vlaamse Regering kan nadere regels vaststellen betreffende de beoordeling van de aanwezigheid van aanzienlijke milieueffecten.<br>
-<br>
-§ 3bis. De administratie kan na een gemotiveerd verzoek van de initiatiefnemer van een voorgenomen plan of programma dat overeenkomstig § 2 of § 3 aan milieueffectrapportage moet worden onderworpen, dat voorgenomen plan of programma ontheffen van de verplichtingen inzake milieueffectrapportage overeenkomstig artikel 4.2.5 tot en met 4.2.10.<br>
-<br>
-Dat kan als de administratie oordeelt dat :<br>
-a) het voorgenomen plan of programma een uitwerking, wijziging, herziening of voortzetting inhoudt van een plan of programma, waarvoor reeds eerder een plan-MER werd goedgekeurd, en een nieuw plan-MER redelijkerwijze geen nieuwe of extra gegevens betreffende aanzienlijke milieueffecten kan bevatten; of<br>
-b) indien in het kader van andere rapportages of beoordelingen reeds een systematische en wetenschappelijk verantwoorde analyse en evaluatie van de te verwachten gevolgen voor mens en milieu gemaakt werd, die voldoet aan de essentiële kenmerken van een plan-MER zoals vermeld in artikel 4.1.4, § 2.<br>
-<br>
-§ 3ter Het gemotiveerd verzoek, vermeld in § 3bis, bevat ten minste :<br>
-1° een beschrijving en verduidelijking van het voorgenomen plan of programma, in voorkomend geval met een afbakening van het gebied erbij waarop het plan of programma betrekking heeft;<br>
-2° in voorkomend geval de gegevens die de administratie nodig heeft om de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten op de hoogte te kunnen brengen;<br>
-3° de verantwoording voor het verzoek en alle relevante gegevens ter staving ervan.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen betreffende de informatie die in het gemotiveerd verzoek opgenomen moet worden.<br>
-<br>
-§ 3quater. De administratie neemt binnen een termijn van dertig dagen na ontvangst van het verzoek, vermeld in § 3ter een beslissing. In voorkomend geval bevat de beslissing tevens de voorwaarden die eraan zijn verbonden. Indien de beslissing niet kan worden genomen binnen de hiervoor bedoelde termijn van dertig dagen brengt de administratie de initiatiefnemer hiervan schriftelijk of per elektronische post&nbsp;op de hoogte binnen deze termijn. In die kennisgeving geeft de administratie aan wanneer de beslissing uiterlijk zal worden genomen.<br>
-<br>
-De beslissing, vermeld in het eerste lid, wordt onverwijld door de administratie aan de initiatiefnemer betekend. Vanaf de betekening van de beslissing wordt ze bekendgemaakt en wordt ze samen met het gemotiveerd verzoek als vermeld in § 3ter ter inzage gelegd bij de administratie. Als het voorgenomen plan of voorgenomen programma aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie, en/of in verdragspartijen bij het Verdrag, en/of in andere gewesten, of als de bevoegde autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom verzoeken, dan wordt de beslissing vermeld in het eerste lid onverwijld door de administratie door betekening ter kennis gebracht van de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten.<br>
-<br>
-§ 4. Voor een plan of programma dat uitsluitend bestemd is voor noodsituaties moet geen plan-MER worden opgemaakt.<br>
-<br>
-§ 5. De toepassing van § 2 en § 3 mag er echter niet toe leiden dat plannen en programma's met mogelijke aanzienlijke milieueffecten niet onder het toepassingsgebied van dit hoofdstuk vallen.
-
-## ONDERAFDELING 3 INTEGRATIESPOOR
+Bij de milieubeoordeling wordt, om overlapping van milieubeoordelingen te voorkomen, rekening gehouden met het stadium van het ruimere besluitvor-mingsproces waarin de voorgenomen actie zich voordoet en met de mate waarin bepaalde aspecten beter op andere niveaus van het besluitvormingsproces kunnen worden beoordeeld.
 
 ### ART. 4.2.4.
 
-§ 1. Voor een plan of programma, dat overeenkomstig artikel 4.2.1, onder het toepassingsgebied van dit hoofdstuk valt, kan in een decreet of besluit van de Vlaamse Regering, dat desgevallend voor de opmaak van dat plan of programma van toepassing is, worden bepaald op welke wijze het onderzoek tot milieueffectrapportage of het plan-MER in de opmaakprocedure van dit plan of programma geïntegreerd wordt. Hierbij moet rekening worden gehouden met de volgende verplichtingen :<br>
-1° de plan-MER-plicht wordt vastgesteld en het plan-MER wordt opgemaakt overeenkomstig de vereisten betreffende het toepassingsgebied en de inhoudsafbakening van hoofdstuk II van titel IV van dit decreet;<br>
-2° het ontwerp van plan-MER wordt samen met het ontwerpplan of -programma met het oog op de raadpleging ervan beschikbaar gesteld van het publiek en de te raadplegen instanties;<br>
-3° ingeval het plan of programma aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie, en/of in verdragspartijen bij Verdrag, en/of in andere gewesten, of als bevoegde autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom verzoeken, wordt het onderzoek tot milieueffectrapportage of het ontwerp van plan-MER samen met het ontwerpplan of ontwerpprogramma voor raadpleging ter beschikking gesteld van de bevoegde autoriteiten van de betrokken lidstaten, verdragpartijen en/of gewesten;<br>
-4° bij de vaststelling van het ontwerp van plan of programma wordt met de resultaten van het plan-MER rekening gehouden;<br>
-5° bij de bekendmaking van het plan of programma wordt de volgende informatie ter beschikking gesteld van het publiek en de geraadpleegde instanties :<br>
-a) het plan of programma zoals het is vastgesteld;<br>
-b) een verklaring die samenvat :<br>
-1) hoe de milieuoverwegingen in het plan of programma werden geïntegreerd;<br>
-2) hoe rekening werd gehouden met het&nbsp;definitieve plan-MER en de gegeven adviezen en het resultaat van de grensoverschrijdende raadpleging;<br>
-3) de redenen waarom is gekozen voor het plan of programma zoals het is aangenomen, en dit in het licht van de andere redelijke alternatieven die zijn behandeld;<br>
-c) de monitoringmaatregelen waartoe wordt besloten overeenkomstig artikel 4.6.3<em>bis</em> van dit decreet.<br>
-<br>
-§ 2. Indien bij decreet of besluit van de Vlaamse Regering geen wijze van integratie is bepaald, dan gelden voor een plan of programma, als vermeld in § 1, de bepalingen zoals voorzien in dit hoofdstuk.
-
-## [AFDELING 2 ONDERZOEK TOT MILIEUEFFECTRAPPORTAGE]
+In voorkomend geval wordt in milieubeoordelingen rekening gehouden met de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;relevante informatie over de milieueffecten uit milieueffectrapporten die het resultaat zijn van milieubeoordelingen die krachtens deze titel zijn uitgevoerd in eerdere stadia van het ruimere besluitvormingsproces;<br>
+2°&nbsp;&nbsp; &nbsp;de beschikbare resultaten en relevante informatie over de milieueffecten die zijn verkregen door andere relevante beoordelingen die uitgevoerd zijn op grond van wetgeving, als en in de mate waarin die informatie de bevoegde overheid in staat stelt om zich op geïnformeerde wijze over de aanzienlijke milieueffecten van de voorgenomen actie uit te spreken.
 
 ### ART. 4.2.5.
 
-Bij het onderzoek tot milieueffectrapportage, vermeld in artikel 4.2.3, § 2, 2°, en artikel 4.2.3, § 3, raadpleegt de initiatiefnemer tijdig de instanties die door de Vlaamse Regering worden aangeduid, en dit op de wijze bepaald door de Vlaamse Regering.<br /><br />Deze instanties brengen hun advies uit op de wijze en binnen de termijn bepaald door de Vlaamse Regering.
+Hoofdstuk 4, afdeling 2, worden niet verplicht toegepast als de te verwachten aanzienlijke milieueffecten van een voorgenomen actie al zijn onderzocht in een milieueffectrapport dat voldoet aan de bepalingen van hoofdstuk 4, afdeling 2, en de bevoegde overheid in staat is om zich op geïnformeerde wijze over de aanzienlijke milieueffecten van de voorgenomen actie uit te spreken.
 
 ### ART. 4.2.6.
 
-§ 1. De initiatiefnemer bezorgt de administratie door betekening of door   afgifte&nbsp;tegen ontvangstbewijs een afschrift van de volgende documenten   :<BR>1° een beschrijving en verduidelijking van het voorgenomen plan of   voorgenomen programma, in voorkomend geval met inbegrip van een afbakening van   het gebied waarop het plan of programma betrekking heeft;<BR>2° in voorkomend   geval de gegevens, met de nodige vertaling, die de administratie nodig heeft   voor het aanvangen van de grensoverschrijdende informatie-uitwisseling;<BR>3°   het verzoek van de initiatiefnemer tot raadpleging van de instanties, vermeld in   artikel 4.2.5, eerste lid;<BR>4° de uitgebrachte adviezen, vermeld in artikel   4.2.5, tweede lid;<BR>5° de overeenkomstig artikel 4.2.3, § 2, 2°, en artikel   4.2.3, § 3, door de initiatiefnemer gedane analyse, met inbegrip van de redenen   waarom geen plan-MER overeenkomstig dit hoofdstuk moet worden opgemaakt. Dit   laatste kan ondermeer het geval zijn als :<BR>a) ...<BR>b) in het kader van   andere rapportages of beoordelingen reeds een systematische en wetenschappelijk   verantwoorde analyse en evaluatie van de te verwachten gevolgen voor mens en   milieu werden opgemaakt, die voldoen aan de essentiële kenmerken van een   plan-MER zoals vemeld in artikel 4.1.4, § 2.<BR><BR>§ 2. De administratie neemt   binnen een termijn van dertig dagen na ontvangst van de documenten, vemeld in §   1, een beslissing inzake de opmaak van een plan-MER.<BR><BR>§ 3. Als het   voorgenomen plan of voorgenomen programma aanzienlijke effecten kan hebben voor   mens of milieu in andere lidstaten van de Europese Unie, en/of in   verdragspartijen bij het Verdrag, en/of in andere gewesten, of als de bevoegde   autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom   verzoeken, dan wordt de termijn vermeld in § 2 met zestig dagen   verlengd.<BR><BR>De administratie bezorgt een afschrift van de documenten,   vermeld in § 1, aan de lidstaten, verdragspartijen, gewesten of autoriteiten,   vermeld in het eerste lid. De Vlaamse Regering bepaalt de voorwaarden waaronder   en de wijze waarop dit gebeurt.<BR><BR>§ 4. De administratie bezorgt haar   beslissing onverwijld aan :<BR>1° de initiatiefnemer, door betekening;<BR>2° de   geraadpleegde instanties, vermeld in artikel 4.2.5, eerste lid;<BR>3° in   voorkomend geval de geraadpleegde lidstaten, verdragspartijen, gewesten en/of   autoriteiten, vermeld in § 3, door betekening.
+Als verschillende beoordelingen van de milieueffecten worden uitgevoerd, krachtens deze titel of andere gewestelijke of federale regelgeving, adviseert het Vlaams expertisecentrum m.e.r. op eigen initiatief of op verzoek van de initiatiefnemer(s) over de mogelijkheid tot afstemming of integratie van de verschillende rapporten en, als dat mogelijk is, van de verschillende beoordelin-gen. Er wordt naar gestreefd dat de verschillende beoordelingen zo veel mogelijk gelijktijdig worden uitgevoerd.<br>
+<br>
+De Vlaamse Regering stelt de modaliteiten vast van de afstemming en inte-gratie van de beoordelingen en rapporten in de gevallen, vermeld in dit artikel.
 
 ### ART. 4.2.7.
 
-De documenten en beslissing, vermeld in artikel 4.2.6 worden door de administratie overeenkomstig artikel II.2, II.3 en II.4 van het Bestuursdecreet van 7 december 2018 ter beschikking gesteld van het publiek.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen.
+...
 
-## [AFDELING 3 KENNISGEVING EN INHOUDSAFBAKENING VAN HET PLAN-MER]
+## AFDELING 3. ...
 
 ### ART. 4.2.8.
 
-§ 1. De initiatiefnemer stelt de administratie door betekening of door afgifte&nbsp;tegen ontvangstbewijs in kennis van de reikwijdte, het detailleringsniveau en de aanpak van het plan-MER.<br>
-<br>
-De kennisgeving bevat ten minste :<br>
-1° een beschrijving en verduidelijking van de intenties inzake het voorgenomen plan of programma en een afbakening van het gebied waarop het plan of programma betrekking heeft;<br>
-2° in voorkomend geval een afschrift van het ontwerpplan of -programma en een verwijzing naar de besluitvormingsprocedure die ervoor van toepassing is;<br>
-3° in voorkomend geval de gegevens die de administratie nodig heeft voor het aanvangen van de grensoverschrijdende informatie-uitwisseling;<br>
-4° in voorkomend geval de relevante gegevens uit vorige rapportages en uit de goedgekeurde rapporten die daaruit zijn voortgekomen;<br>
-5° een voorstel van reikwijdte en detailleringsniveau van het plan-MER;<br>
-6° een document waarin de inhoudelijke aanpak, met inbegrip van de methodologie, van het plan-MER wordt voorgesteld, waarbij wordt gesteund op de gegevens vermeld in punt 5° en het MER-richtlijnenboek;<br>
-7° een beknopte beschrijving van de alternatieven voor het ontwerpplan of -programma of voor onderdelen ervan, die de initiatiefnemer heeft overwogen en, bondig weergegeven, zijn bedenkingen over de voor- en nadelen van de verschillende alternatieven;<br>
-8° de relevante gegevens over de voorgestelde erkende MER-coördinator en het voorgestelde team van MER-deskundigen, vermeld in artikel 4.2.9, en de taakverdeling tussen de deskundigen;<br>
-9° in voorkomend geval de gronden voor de vraag tot onttrekking aan bekendmaking en ter inzagelegging van de kennisgeving of aangeduide delen ervan.<br>
-<br>
-De Vlaamse Regering kan bijkomende voorwaarden en modaliteiten bepalen waaraan de kennisgeving moet voldoen.<br>
-<br>
-§ 1bis. Het plan-MER moet ten minste de volgende gegevens bevatten :<br>
-1° een schets van de inhoud, een omschrijving van de voornaamste doelstellingen van het plan of van het programma en het verband met andere relevante plannen en programma's;<br>
-2° de relevante aspecten van de bestaande situatie van het milieu en de mogelijke ontwikkeling ervan als het plan of het programma niet wordt uitgevoerd;<br>
-3° de milieukenmerken van de gebieden waarvoor de gevolgen aanzienlijk kunnen zijn;<br>
-4° alle bestaande milieuproblemen die relevant zijn voor het plan of programma, met inbegrip van met name milieuproblemen in gebieden die vanuit milieuoogpunt van bijzonder belang zijn, zoals gebieden die overeenkomstig richtlijnen 79/409/EEG en 92/43/EEG zijn aangewezen;<br>
-5° de relevante doelstellingen voor de milieubescherming en de wijze waarop rekening wordt gehouden met die doelstellingen en de milieuoverwegingen bij de voorbereiding van het plan of programma;<br>
-6° een beschrijving en onderbouwde beoordeling van de mogelijke aanzienlijke milieueffecten van het plan of programma en van de onderzochte redelijke alternatieven op, in voorkomend geval, de gezondheid en veiligheid van de mens, de ruimtelijke ordening, de biodiversiteit, de fauna en flora, de energie- en grondstoffenvoorraden, de bodem, het water, de atmosfeer, de klimatologische factoren, het geluid, het licht, de stoffelijke goederen, het cultureel erfgoed met inbegrip van het architectonisch en archeologisch erfgoed, het landschap, de mobiliteit, en de samenhang tussen de vermelde factoren. De beschrijving van de milieueffecten omvat de directe en, in voorkomend geval, de indirecte, secundaire, cumulatieve en synergetische effecten, permanent en tijdelijk, positief en negatief, op korte, middellange en lange termijn van het plan of programma. De aanzienlijke milieueffecten worden onder meer beoordeeld in het licht van de milieukwaliteitsnormen die zijn vastgesteld conform hoofdstuk II van titel II van dit decreet;<br>
-7° de maatregelen om aanzienlijke negatieve milieueffecten als gevolg van de uitvoering van het plan of programma te voorkomen, te beperken of zo veel mogelijk teniet te doen;<br>
-8° een schets met opgave van de redenen voor de selectie van de onderzochte alternatieven en een omschrijving van de wijze waarop de evaluatie is doorgevoerd, met inbegrip van de moeilijkheden die ondervonden zijn bij het inzamelen van de vereiste gegevens, zoals technische tekortkomingen of gebrek aan kennis;<br>
-9° een omschrijving van de monitoringsmaatregelen;<br>
-10° een niet-technische samenvatting van de gegevens, vermeld in punt 1° tot en met punt 9° ;<br>
-11° de nuttige informatie over de milieueffecten van de plannen en programma's die op andere besluitvormingsniveaus of krachtens andere wetgevingen ingewonnen wordt en kan worden gebruikt om de gegevens, vermeld in punt 1° tot en met 9°, te verstrekken.<br>
-<br>
-§ 2. De administratie neemt een beslissing over de volledigheid van de kennisgeving en betekent, uiterlijk binnen een termijn van twintig dagen na datum van ontvangst van de kennisgeving, deze beslissing aan de initiatiefnemer.<br>
-<br>
-Indien de kennisgeving onvolledig is, kan de initiatiefnemer de kennisgeving aanvullen overeenkomstig de beslissing die de punten van onvolledigheid van de kennisgeving opsomt en deze terug aan de administratie overmaken op de wijze vermeld in artikel 4.2.8, § 1.<br>
-<br>
-§ 3. De administratie legt de volledig verklaarde kennisgeving onverwijld en op de volgende wijzen ter beschikking van het publiek :<br>
-1° overeenkomstig artikel II.2, II.3 en II.4 van het Bestuursdecreet van 7 december 2018;<br>
-2° bij de initiatiefnemer;<br>
-3° via de internetsite van de administratie.<br>
-<br>
-De Vlaamse Regering kan nadere regels inzake de terinzagelegging vaststellen.<br>
-<br>
-§ 4. In voorkomend geval bezorgt de administratie, met het oog op advies, een afschrift van de volledig verklaarde kennisgeving aan :<br>
-1° de provincie en/of gemeente, waarvoor het plan of programma relevant is;<br>
-2° de instanties waarvan de administratie het advies nuttig acht.<br>
-<br>
-De Vlaamse Regering duidt de instanties aan die vanwege de administratie, met het oog op advies, een afschrift van de volledig verklaarde kennisgeving ontvangen.<br>
-<br>
-§ 5. Bij de bekendmaking of bij het overmaken van het afschrift van de volledig verklaarde kennisgeving wordt duidelijk aangegeven dat het publiek en de instanties eventuele opmerkingen over het plan-MER binnen een termijn van dertig dagen respectievelijk vanaf de datum van de bekendmaking of vanaf de datum van ontvangst van het afschrift van de volledig verklaarde kennisgeving, aan de administratie kunnen bezorgen, behoudens verlenging van deze termijn, zoals vermeld in het tweede lid.<br>
-<br>
-Als het plan of programma aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie, en/of in verdragspartijen bij het Verdrag, en/of in andere gewesten, of als de bevoegde autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom verzoeken, maakt de administratie door betekening het afschrift van de volledig verklaarde kennisgeving over aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten. Bij het overmaken van het afschrift wordt duidelijk aangegeven dat zij eventuele opmerkingen over het plan-MER binnen een termijn van zestig dagen vanaf de ontvangst van het afschrift aan de administratie kunnen bezorgen.<br>
-<br>
-§ 6. Na beëindiging van de termijnen, vermeld in § 5, beschikt de administratie over twintig dagen om een beslissing te nemen over :<br>
-1° de reikwijdte, het detailleringsniveau en de inhoudelijke aanpak van het plan-MER, met inbegrip van de methodologie, rekening houdend met de huidige stand van kennis en evaluatiemethoden, de inhoud en de precisiegraad van het plan of programma, de vordering van het besluitvormingsproces en het feit dat sommige aspecten misschien beter in andere fasen van dat proces worden geëvalueerd om herhaling van de evaluatie te voorkomen;<br>
-2° de bijzondere&nbsp;richtlijnen voor het opstellen van het plan-MER, die de administratie naast de algemene richtlijnen vervat in de richtlijnenboeken, zoals bedoeld in artikel 4.6.2, kan opleggen;<br>
-3° de goedkeuring van de voorgestelde opstellers van het plan-MER, vermeld in artikel 4.2.9.<br>
-<br>
-De Vlaamse Regering kan nadere regels aangaande de beslissing bepalen.<br>
-<br>
-§ 7. De administratie deelt onverwijld haar beslissing mee aan de initiatiefnemer en de geraadpleegde administraties, instanties, autoriteiten van lidstaten, verdragspartijen en/of gewesten.<br>
-<br>
-De beslissing wordt overeenkomstig&nbsp;artikel II.2, II.3 en II.4 van het Bestuursdecreet van 7 december 2018 ter beschikking gesteld van het publiek.
+...
 
-## [AFDELING 4 HET OPSTELLEN VAN HET PLAN-MER]
+## AFDELING 4 ...
 
 ### ART. 4.2.9.
 
-§ 1. Het plan-MER wordt opgesteld onder de verantwoordelijkheid en op kosten van de initiatiefnemer. De initiatiefnemer moet hiervoor een beroep doen op een erkende MER-coördinator. Hij stelt aan de MER-coördinator alle relevante informatie ter beschikking. Hij verleent alle medewerking opdat de MER-coördinator zijn taak naar behoren kan vervullen.<br /><br />§ 2. De erkende MER-coördinator mag geen belang hebben bij het voorgenomen plan of programma of de alternatieven, noch betrokken worden bij de latere uitvoering van het plan of programma. Hij voert zijn opdracht volledig onafhankelijk uit en geeft in voorkomend geval leiding aan een team van medewerkers dat geheel of gedeeltelijk door de initiatiefnemer ter beschikking wordt gesteld.<br /><br />De erkende MER-coördinator waakt erover dat de samenstelling van het team van medewerkers het mogelijk maakt om het plan-MER op te stellen in overeenstemming met het MER-richtlijnenboek en met inhoudsafbakening en bijzondere richtlijnen, vermeld in artikel 4.2.8, § 6.<br /><br />§ 3. Tijdens het opstellen van het plan-MER is de erkende MER-coördinator gehouden tot overleg met de administratie. De MER-coördinator moet in voorkomend geval de aanvullende bijzondere schriftelijke richtlijnen van de administratie, als aanvulling op de afgebakende inhoud en de bijzondere richtlijnen, vermeld in artikel 4.2.8, § 6, in acht nemen.<br /><br />De Vlaamse Regering kan de nadere voorwaarden met betrekking tot de uitoefening van de taak van de erkende MER-coördinator bepalen.
+...
 
-## AFDELING 5 HET ONDERZOEK EN HET GEBRUIK VAN HET PLAN-MER
+## AFDELING 5 ...
 
 ### ART. 4.2.10.
 
-De initiatiefnemer informeert de administratie op geregelde tijdstippen over de voortgang van het ontwerp van plan-MER en van het planningsproces. De administratie toetst het ontwerp van plan-MER en de daarin opgenomen informatie tijdens het planningsproces inhoudelijk aan de beslissing, vermeld in artikel 4.2.8, § 6. De initiatiefnemer zorgt ervoor dat de noodzakelijke informatie daarvoor tijdig en op elk moment beschikbaar is voor de administratie.
+...
 
 ### ART. 4.2.11.
 
-§ 1. De initiatiefnemer bezorgt, als dat nodig is, het ontwerp van plan of programma samen met het ontwerp van plan-MER en de beslissing, vermeld in artikel 4.2.8, § 6, aan het college van burgemeester en schepenen van elke gemeente waarvoor het ontwerp van plan of programma relevant is. Die gemeenten organiseren een openbaar onderzoek dat minstens zestig dagen duurt. Als al op basis van andere toepasselijke wetgeving een openbaar onderzoek moet worden georganiseerd, gelden de procedureregels van die wetgeving voor het openbaar onderzoek.<br>
-<br>
-Het openbaar onderzoek vindt in elk geval plaats vóór het plan of programma wordt vastgesteld of aan de wetgevingsprocedure wordt onderworpen.<br>
-<br>
-Opmerkingen worden schriftelijk bij het college van burgemeester en schepenen ingediend vóór het einde van de termijn van het openbaar onderzoek. Ze worden gevoegd bij het proces-verbaal tot sluiting van het openbaar onderzoek, dat binnen veertien dagen na de sluiting ervan door het college van burgemeester en schepenen wordt opgesteld. Het college van burgemeester en schepenen stuurt de opmerkingen en het proces-verbaal tot sluiting van het openbaar onderzoek binnen dertig dagen na de sluiting naar de initiatiefnemer.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels voor het openbaar onderzoek.<br>
-<br>
-§ 2. Op het ogenblik dat de initiatiefnemer de documenten, vermeld in paragraaf 1, in openbaar onderzoek laat brengen, bezorgt hij die documenten ook voor advies aan de reeds geraadpleegde instanties.<br>
-<br>
-Als het voorgenomen plan of programma aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie, of in verdragspartijen bij het Verdrag, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, bezorgt de initiatiefnemer de documenten, vermeld in paragraaf 1, voor advies aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen of gewesten.<br>
-<br>
-De adviezen moeten binnen vijfenveertig dagen na de adviesaanvraag worden bezorgd aan de initiatiefnemer. Als er sprake is van grens- of gewestoverschrijdende milieueffecten als vermeld in het tweede lid, wordt de termijn met zestig dagen verlengd.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de wijze waarop de bevoegde autoriteiten en de burgers van de lidstaten, verdragspartijen of gewesten hun mening over het ontwerp van plan-MER en het ontwerp van plan of programma kunnen meedelen, alsook over de wijze waarop overleg daarover wordt gepleegd.<br>
-<br>
-§ 3. De initiatiefnemer bezorgt de opmerkingen en adviezen, vermeld in paragraaf 1 en 2, en het voltooide plan-MER door betekening of door afgifte tegen ontvangstbewijs aan de administratie.<br>
-<br>
-§ 4. De administratie toetst het plan-MER inhoudelijk aan de beslissing, vermeld in artikel 4.2.8, § 6, rekening houdend met de opmerkingen en de adviezen, vermeld in paragraaf 1 en 2.<br>
-<br>
-De administratie beslist uiterlijk voor de definitieve vaststelling van het plan of programma over de goedkeuring of afkeuring van het plan-MER. Ze betekent die beslissing onverwijld aan de initiatiefnemer en de geraadpleegde administraties, instanties, autoriteiten van lidstaten, verdragspartijen of gewesten. In geval van afkeuring geeft ze aan waar het plan-MER tekortschiet.<br>
-<br>
-§ 5. De beslissing, vermeld in paragraaf 4, vermeldt dat de initiatiefnemer tegen de beslissing een gemotiveerd verzoek tot heroverweging kan betekenen of afgeven tegen ontvangstbewijs binnen een termijn van twintig dagen vanaf de ontvangst van de beslissing.<br>
-<br>
-Bij heroverweging beslist de administratie na advies van de adviescommissie als vermeld in artikel 4.6.4.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen voor de procedure tot heroverweging.<br>
-<br>
-§ 6. Bij de voorbereiding, en vóór de vaststelling of onderwerping van het plan of programma aan de wetgevingsprocedure, wordt rekening gehouden met :<br>
-1° het conform paragraaf 4 goedgekeurde plan-MER;<br>
-2° de opmerkingen, adviezen en het resultaat van de grens- of gewestoverschrijdende raadpleging, vermeld in paragraaf 1 en 2.<br>
-<br>
-§ 7. Als een plan of programma wordt vastgesteld, brengt de initiatiefnemer de instanties, bedoeld in paragraaf 2, eerste lid, het publiek en de autoriteiten van alle lidstaten, van de Europese Unie, verdragspartijen of gewesten, geraadpleegd uit hoofde van paragraaf 2, tweede lid, op de hoogte van de volgende documenten :<br>
-1° het plan of programma zoals het is vastgesteld;<br>
-2° een verklaring die samenvat :<br>
-a) hoe de milieuoverwegingen in het plan of programma zijn geïntegreerd;<br>
-b) hoe rekening is gehouden met het conform paragraaf 4 goedgekeurde plan-MER en de conform paragraaf 1 en 2 gegeven opmerkingen, adviezen en het resultaat van de grens- of gewestoverschrijdende raadpleging;<br>
-c) de redenen waarom is gekozen voor het plan of programma zoals het is aangenomen, in het licht van de andere redelijke alternatieven die zijn behandeld;<br>
-3° de monitoringsmaatregelen waartoe wordt besloten met toepassing van artikel 4.6.3bis.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels voor die informatie en de wijze van kennisgeving.
+...
 
-## [HOOFDSTUK III MILIEUEFFECTRAPPORTAGE OVER PROJECTEN
+## Hoofdstuk 3. Werkingssfeer en screening
 
-## AFDELING 1 TOEPASSINGSGEBIED (ing. decr. 18 december 2002, art. 4)]
+## Afdeling 1. Werkingssfeer
 
 ### ART. 4.3.1.
 
-Voorgenomen projecten worden, alvorens een vergunning kan worden verleend voor de ver-gunningsplichtige activiteit die het voorwerp uitmaakt van het project, aan een milieueffectrapportage onderworpen in de gevallen bepaald in dit hoofdstuk.<br>
+Voor de volgende plannen en programma’s is geen milieueffectrapportage vereist:<br>
+1°&nbsp;&nbsp; &nbsp;plannen of programma’s die uitsluitend bestemd zijn voor nationale defensie of noodsituaties;<br>
+2°&nbsp;&nbsp; &nbsp;financiële of begrotingsplannen en -programma’s.<br>
 <br>
-Bij de milieueffectrapportage over projecten worden de directe en indirecte aanzienlijke effecten van een project geval per geval op passende wijze geïdentificeerd, beschreven en beoordeeld op de volgende disciplines:<br>
-1° de bevolking en de menselijke gezondheid;<br>
-2° de biodiversiteit, met bijzondere aandacht voor de beschermde soorten en habitats, vermeld in bijlage I tot en met IV van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-3° het land, de bodem, het water, de lucht en het klimaat;<br>
-4° de materiële goederen, het cultureel erfgoed en het landschap;<br>
-5° de samenhang tussen de disciplines, vermeld in punt 1° tot en met 4°.<br>
-<br>
-De effecten op de disciplines, vermeld in het tweede lid, omvatten de verwachte effecten die voortvloeien uit de kwetsbaarheid van het project voor risico's op zware ongevallen of rampen die relevant zijn voor het project in kwestie.
+Voor projecten of projectonderdelen die uitsluitend bestemd zijn voor defen-sie, of voor projecten die uitsluitend de respons op civiele noodsituaties tot doel hebben, is er geen milieueffectrapportage vereist als de Vlaamse Regering beslist per geval dat de toepassing van een milieueffectrapportage nadelige gevolgen heeft voor die doeleinden.
 
 ### ART. 4.3.2.
 
-§ 1. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER moet worden opgesteld.<br>
+§1. Een milieubeoordeling wordt uitgevoerd voor de volgende plannen en programma’s:<br>
+1°&nbsp;&nbsp; de plannen of programma’s die voorbereid worden voor landbouw, bosbouw, visserij, energie, industrie, vervoer, regionale ontwikkeling, afvalstoffenbeheer, waterbeheer, telecommunicatie, toerisme en ruimtelijke ordening of grondgebruik en die het kader vormen voor de toekenning van toekomstige vergunningen voor een project als vermeld in bijlage I en II van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van de categorieën van projecten onderworpen aan milieueffectrapportage;<br>
+2°&nbsp;&nbsp; de plannen of programma’s waarvoor, gelet op het mogelijke effect op gebieden, een passende beoordeling vereist is conform artikel 36ter, §3, eerste lid, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
 <br>
-De verplichting tot het uitvoeren van een project-m.e.r. geldt niet voor de loutere hernieuwing van de omgevingsvergunning en de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben.<br>
+§2. Voor de plannen of programma’s, vermeld in paragraaf 1, die het gebruik bepalen van kleine gebieden op provinciaal of gemeentelijk niveau, of voor kleine wijzigingen aan die plannen of programma’s, is een milieubeoordeling alleen vereist als op basis van de screening blijkt dat het plan of programma aanzienlijke milieueffecten kan hebben.<br>
 <br>
-§ 2. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan in paragraaf 1 vermelde categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een gemotiveerd verzoek tot ontheffing van de rapportageverplichting moet worden opgesteld.<br>
+Voor andere plannen of programma’s dan de plannen of programma’s, vermeld in paragraaf 1, die het kader vormen voor de toekenning van toekomstige vergunningen voor projecten, is een milieubeoordeling vereist als op basis van de screening blijkt dat het plan of programma aanzienlijke milieueffecten kan hebben.<br>
 <br>
-De verplichting tot het uitvoeren van een project-m.e.r. geldt niet voor de loutere hernieuwing van de omgevingsvergunning en de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben.<br>
+§3. Als er geen milieubeoordeling vereist is conform paragraaf 1 of 2, kan een overheid vrijwillig een milieubeoordeling uitvoeren waarbij de bepalingen van hoofdstuk 4 van overeenkomstige toepassing zijn.<br>
 <br>
-§ 2bis. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan in paragrafen 1 en 2 vermelde categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een project-m.e.r.-screeningsnota moet worden opgesteld.<br>
-<br>
-De verplichting tot het uitvoeren van een project-m.e.r. geldt niet voor de loutere hernieuwing van de omgevingsvergunning en de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben.<br>
-<br>
-§ 3. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande projecten van de categorieën, vermeld in paragrafen 1 en 2, overeenkomstig dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een beslissing, geval per geval, van de administratie.<br>
-<br>
-§ 3bis. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande projecten van de categorieën, vermeld in paragrafen 1, 2 en 2bis, overeenkomstig dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een beslissing, geval per geval, van de overheid die beslist over de ontvankelijkheid en volledigheid van de vergunningsaanvraag.<br>
-<br>
-§ 4. De Vlaamse Regering kan de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, nader definiëren. Op grond van die criteria moet het mogelijk zijn uit te maken of aan een bepaald project, dan wel aan een verandering daarvan, al dan niet aanzienlijke milieueffecten verbonden kunnen zijn.<br>
-<br>
-Bij de aanwijzing van categorieën van projecten overeenkomstig paragrafen 1, 2, 2bis, 3 of 3bis kan de Vlaamse Regering eveneens de administraties, overheidsinstellingen en openbare besturen aanwijzen die, overeenkomstig artikel 4.3.4, § 4, een afschrift van de kennisgeving moeten ontvangen.<br>
-<br>
-Elke vaststelling of vervanging van de criteria, vermeld in het eerste lid, wordt meegedeeld aan de Europese Commissie.<br>
-<br>
-§ 5. De Vlaamse Regering kan besluiten dit hoofdstuk niet toe te passen op projecten, of projectonderdelen, die uitsluitend bestemd zijn voor defensie, dan wel op projecten die uitsluitend de respons op civiele noodsituaties tot doel hebben, als ze van oordeel is dat de toepassing ervan in die gevallen nadelige gevolgen heeft voor deze doeleinden.
+Als bij decreet of besluit van de Vlaamse Regering een wijze van integratie is bepaald, wordt de milieubeoordeling, vermeld in het eerste lid, conform die bepalingen uitgevoerd.
 
 ### ART. 4.3.3.
 
-§ 1. De Vlaamse Regering kan op gemotiveerd verzoek van de initiatiefnemer een welbepaald project dat conform artikel 4.3.2 en dit artikel aan milieueffectrapportage moet worden onderworpen, in uitzonderlijke gevallen vrijstellen van de verplichting tot milieueffectrapportage als de toepassing van de bepalingen over de milieueffectrapportage nadelige gevolgen heeft voor het doel van het project en als aan de doelstellingen, vermeld in dit hoofdstuk, wordt voldaan. De Vlaamse Regering kan de nadere regels over de inhoud van het gemotiveerde verzoek van de initiatiefnemer bepalen.<br>
+§1. Voor een vergunning kan worden verleend, wordt de volgende milieueffectrapportage uitgevoerd voor de volgende vergunningsplichtige projecten:<br>
+1°&nbsp;&nbsp; een milieubeoordeling: voor de categorieën van projecten die de Vlaamse Regering aanwijst als projecten die van rechtswege aan een milieubeoordeling zijn onderworpen;<br>
+2°&nbsp;&nbsp; een milieubeoordeling of een screening: voor de andere categorieën van projecten dan de projecten, vermeld in punt 1°, die de Vlaamse Regering aanwijst aan de hand van de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd.<br>
 <br>
-De Vlaamse Regering gaat in dat geval na of er geen andere vorm van beoordeling geschikt is en stelt de verzamelde informatie ter beschikking van het publiek.<br>
+§2. De volgende projecten vallen niet onder de werkingssfeer van deze titel:<br>
+1°&nbsp;&nbsp; de loutere hernieuwing van de vergunning, vermeld in artikel 70 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+2°&nbsp;&nbsp; de omzetting, vermeld in artikel 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
 <br>
-Als het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, worden de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen of gewesten betrokken bij de milieueffectrapportageprocedure voor er een beslissing wordt genomen.<br>
+§3. Een initiatiefnemer van een voorgenomen project kan in alle gevallen een milieubeoordeling uitvoeren conform hoofdstuk 4.<br>
 <br>
-De Vlaamse Regering kan nadere regels vaststellen voor de vrijstelling, vermeld in het eerste lid, en voor de grens- en gewestgrensoverschrijdende procedure, vermeld in het derde lid.<br>
+Als bij decreet of besluit van de Vlaamse Regering een wijze van integratie is bepaald, wordt de milieubeoordeling, vermeld in het eerste lid, conform die bepalingen uitgevoerd.<br>
 <br>
-§ 1bis. Een project dat met een specifiek decreet wordt aangenomen, kan door het decreet in kwestie vrijgesteld worden van de bepalingen over de openbare raadpleging over het project-MER, zoals vastgelegd in de toepasselijke vergunningsprocedure, als aan de doelstellingen, vermeld in dit hoofdstuk, wordt voldaan.<br>
+§4. In de andere gevallen dan de gevallen, vermeld in paragraaf 1 tot en met 3, kan de initiatiefnemer het Vlaams expertisecentrum m.e.r. verzoeken een advies uit te brengen over de kwaliteit van een project-MER dat hij heeft opgemaakt.<br>
 <br>
-Als het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, worden de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen of gewesten betrokken bij de milieueffectrapportageprocedure voor er een beslissing wordt genomen.<br>
+§5. De Vlaamse Regering kan op gemotiveerd verzoek van de initiatiefnemer een welbepaald project dat aan een milieubeoordeling moet worden onderworpen, in uitzonderlijke gevallen vrijstellen van de verplichting tot milieubeoordeling als de toepassing van de bepalingen over de milieubeoordeling nadelige gevolgen heeft voor het doel van het project en als aan de doelstellingen van deze titel wordt voldaan.<br>
 <br>
-§ 2. In de gevallen, vermeld in artikel 4.3.2, § 2bis en § 3bis, waarvoor een project-m.e.r.-screeningsnota werd opgesteld, neemt de overheid die beslist over de ontvankelijkheid en volledigheid van de vergunningsaanvraag of de overheid bevoegd voor de vraag tot omzetting krachtens artikel 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, een beslissing of er een project-MER moet worden opgesteld. Zij doet dat op het ogenblik van en als onderdeel van de beslissing over de ontvankelijkheid en volledigheid van de vergunningsaanvraag respectievelijk op het ogenblik van het onderzoek van de vraag tot omzetting. De beslissing dat al dan niet een project-MER moet worden opgesteld, wordt&nbsp;openbaar gemaakt door de vergunningverlenende overheid. De Vlaamse Regering kan verder inzake de project-m.e.r.-screening nadere regels vaststellen en kan de vorm en de inhoudelijke elementen van de project-m.e.r.-screeningsnota bepalen.<br>
+In het geval, vermeld in het eerste lid, gaat de Vlaamse Regering na of er geen andere vorm van beoordeling geschikt is en stelt de verzamelde informatie alsmede de gegevens over en de redenen van de vrijstelling ter beschikking van het publiek.<br>
 <br>
-Er moet geen milieueffectrapport over het project worden opgesteld als de overheid, vermeld in het eerste lid, oordeelt dat:<br>
-1° een toetsing aan de criteria van bijlage II uitwijst dat het voorgenomen project geen aanzienlijke gevolgen kan hebben voor het milieu en een project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten; of<br>
-2° vroeger al een plan-MER werd goedgekeurd betreffende een plan of programma waarin een project met vergelijkbare effecten beoordeeld werd of een project-MER werd goedgekeurd betreffende een project waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten.<br>
+Voor de vergunningsbeslissing wordt genomen, brengt de Vlaamse Regering de Europese Commissie op de hoogte van de redenen waarom de vrijstelling, vermeld in het eerste lid, is verleend en verschaft ze haar alle informatie die aan de bevolking ter beschikking is gesteld.<br>
 <br>
-§ 3. In de gevallen , vermeld in artikel 4.3.2, § 2 en § 3, kan de initiatiefnemer een gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de administratie.<br>
+Als het project aanzienlijke grens- of gewestgrensoverschrijdende milieueffecten kan hebben of als de bevoegde autoriteiten van de betrokken staten of gewesten daarom verzoeken, worden de betrokken bevoegde autoriteiten vóór de vergunningsbeslissing wordt genomen, op de hoogte gebracht van de redenen waarom de vrijstelling, vermeld in het eerste lid, is verleend.<br>
 <br>
-Voor zover het voorgenomen project niet valt onder de toepassing van de lijst van projecten die door de Vlaamse regering overeenkomstig artikel 4.3.2., § 1, is vastgesteld, kan de administratie een project toch ontheffen van de verplichting tot het opstellen van een project-MER als ze oordeelt dat:<br>
-1° vroeger al een plan-MER werd goedgekeurd betreffende een plan of programma waarin een project met vergelijkbare effecten beoordeeld werd of een project-MER werd goedgekeurd betreffende een project waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten; of<br>
-2° een toetsing aan de criteria van bijlage II uitwijst dat het voorgenomen project geen aanzienlijke gevolgen kan hebben voor het milieu en een project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten.<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de vrijstelling en de inhoud van het gemotiveerde verzoek, vermeld in het eerste lid, en voor de kennisgeving, vermeld in het vierde lid.<br>
 <br>
-§ 4. Het verzoek, vermeld in paragraaf 3, bevat ten minste:<br>
-1° een beschrijving en verduidelijking van het voorgenomen project, met in het bijzonder:<br>
-a) een beschrijving van de fysieke kenmerken van het hele project en, als dat relevant is, van sloopwerken;<br>
-b) een beschrijving van de locatie van het project, met bijzondere aandacht voor de kwetsbaarheid van het milieu in de gebieden waarop het project een invloed kan hebben;<br>
-2° een beschrijving van de waarschijnlijk aanzienlijke milieueffecten van het voorgenomen project;<br>
-3° als er informatie over deze effecten beschikbaar is: een beschrijving van de waarschijnlijk aanzienlijke milieueffecten van het voorgenomen project ten gevolge van:<br>
-a) de verwachte residuen en emissies en de productie van afvalstoffen, als dat van toepassing is;<br>
-b) het gebruik van natuurlijke hulpbronnen, met name bodem, land, water en biodiversiteit;<br>
-4° in voorkomend geval een beschrijving van de kenmerken van het voorgenomen project of van de geplande maatregelen om te vermijden of te voorkomen wat anders wellicht aanzienlijke milieueffecten zouden zijn geweest.<br>
+§6. Een project dat met een specifiek decreet wordt aangenomen, kan door het decreet in kwestie vrijgesteld worden van de bepalingen over de openbare raadpleging over het project-MER, zoals vastgelegd in hoofdstuk 4 van deze titel, als aan de doelstellingen, vermeld in artikel 4.2.1, wordt voldaan.<br>
 <br>
-Bij het verzoek, vermeld in paragraaf 3, wordt, als dat relevant is, rekening gehouden met de criteria, vermeld in bijlage II, die bij dit decreet is gevoegd, en wordt, als dat relevant is, rekening gehouden met de beschikbare resultaten van andere relevante beoordelingen van de milieueffecten die zijn gemaakt met toepassing van deze titel of met toepassing van andere gewestelijke of federale regelgeving.<br>
+Als het project aanzienlijke grens- of gewestgrensoverschrijdende milieueffecten kan hebben of als de bevoegde autoriteiten van de betrokken staten of gewesten daarom verzoeken, worden de betrokken bevoegde autoriteiten vóór de vergunningsbeslissing wordt genomen op de hoogte gebracht van de vrijstelling, vermeld in het eerste lid.<br>
 <br>
-De initiatiefnemer bezorgt het verzoek aan de administratie door betekening of door afgifte tegen ontvangstbewijs.<br>
-<br>
-§ 5. ...<br>
-<br>
-§ 6. De administratie neemt onverwijld en uiterlijk binnen een termijn van zestig dagen na de ontvangst van het verzoek, vermeld in paragraaf 3, een beslissing. In voorkomend geval bevat de beslissing ook de voorwaarden die aan de ontheffing zijn verbonden.<br>
-<br>
-Als besloten wordt dat een project-MER moet worden opgesteld, bevat de beslissing de belangrijkste redenen waarom een project-MER moet worden opgesteld, waarbij verwezen wordt naar de relevante criteria, vermeld in bijlage II, die bij dit decreet is gevoegd.<br>
-<br>
-Als besloten wordt dat er geen project-MER hoeft te worden opgesteld, bevat de beslissing de belangrijkste redenen waarom er geen project-MER hoeft te worden opgesteld, waarbij verwezen wordt naar de relevante criteria, vermeld in bijlage II, die bij dit decreet is gevoegd, en, als de initiatiefnemer die heeft voorgesteld, de kenmerken van het project of de geplande maatregelen om te vermijden of te voorkomen wat anders wellicht aanzienlijke nadelige milieueffecten zouden zijn geweest.<br>
-<br>
-De administratie houdt, als dat relevant is, bij de beslissing rekening met de resultaten van voorafgaande controles die zijn verricht of beoordelingen van de effecten op het milieu die zijn gemaakt met toepassing van deze titel of met toepassing van andere gewestelijke of federale regelgeving.<br>
-<br>
-De ontheffing wordt verleend voor een beperkte duur en vervalt als het project niet wordt aangevangen binnen de termijn die in de beslissing is vastgesteld. De ontheffing vervalt in elk geval zodra de initiatiefnemer zijn vergunningsaanvraag niet heeft ingediend binnen een termijn van vier jaar na de ontheffingsbeslissing.<br>
-<br>
-De beslissing wordt binnen een termijn van zeventig dagen na de ontvangst van het verzoek bekendgemaakt, ter inzage gelegd bij de administratie en aan de initiatiefnemer betekend.<br>
-<br>
-§ 7. De initiatiefnemer kan een gemotiveerd verzoek tot heroverweging van de beslissing, vermeld in paragraaf 3, aan de administratie betekenen of afgeven tegen ontvangstbewijs. Artikel 4.6.4 is van overeenkomstige toepassing.<br>
-<br>
-§ 8. In de gevallen, vermeld in paragraaf 1 en 6, wordt de definitieve beslissing&nbsp;door de initiatiefnemer gevoegd bij de vergunningsaanvraag of bij het meldingsformulier vermeld in artikel 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
-<br>
-§ 9. De administratie zorgt ervoor dat een afschrift van de definitieve beslissing of beslissingen wordt verstuurd naar de Commissie van de Europese Gemeenschap:<br>
-1° in de gevallen, vermeld in paragraaf 1: onverwijld en in ieder geval voor de vergunningsbeslissing is genomen;<br>
-2° in de gevallen, vermeld in paragraaf 1bis: om de twee jaar na 16 mei 2017<br>
-<br>
-§ 10. De Vlaamse regering kan nadere regelen vaststellen inzake&nbsp;de ontheffing van de verplichting tot het opstellen van een project-MER.
-
-## [AFDELING 2 AANMELDING EN INHOUDSAFBAKENING VAN HET VOORGENOMEN PROJECT-MER (verv. decr. 25 april 2014, art. 157, I: 23 februari 2017)]
+Vanaf 16 mei 2025 brengt het Vlaams expertisecentrum m.e.r. om de twee jaar de Europese Commissie op de hoogte van elk geval waarin de vrijstelling, vermeld in het eerste lid, is verleend.
 
 ### ART. 4.3.4.
 
-<p>§ 1. Voor de initiatiefnemer de vergunningsaanvraag of in voorkomend geval de vergunningsaanvragen indient, meldt hij aan de administratie zijn voornemen om een project-MER op te stellen.<br>
+<p>De Vlaamse Regering kan de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd, nader definiëren. Op grond van die criteria moet het mogelijk zijn uit te maken of een voorgenomen actie al dan niet aanzienlijke milieueffecten kan hebben.<br>
 <br>
-Die aanmelding bevat ten minste:<br>
-1° een beschrijving van het project, met inbegrip van de locatie en de technische capaciteit ervan en met inbegrip van een beknopte beschrijving van de overwogen alternatieven voor het project of voor onderdelen ervan;<br>
-2° de vergunningen die moeten worden aangevraagd en in voorkomend geval de bestaande vergunningstoestand;<br>
-3° een beschrijving van de te onderzoeken aanzienlijke effecten voor mens en milieu die het project vermoedelijk zal hebben;<br>
-4° een beschrijving van het procesverloop, met in voorkomend geval een beschrijving van het participatietraject;<br>
-5° in voorkomend geval alle beschikbare informatie over de mogelijke aanzienlijke grensoverschrijdende effecten van het project;<br>
-6° de relevante gegevens over de voorgestelde erkende MER-coördinator en het voorgestelde team van erkende MER-deskundigen, vermeld in artikel 4.3.6, en de taakverdeling tussen de deskundigen, op basis van de beschrijving, vermeld in punt 3° ;<br>
-7° in voorkomend geval een verzoek tot advies over de te verstrekken informatie, vermeld in artikel 4.3.7;<br>
-8° in voorkomend geval de gronden voor de vraag tot onttrekking aan bekendmaking van de aanmelding of aangeduide delen ervan.<br>
-<br>
-De administratie kan aan de initiatiefnemer steeds vragen om aanvullende informatie te verstrekken. De procedure kan pas worden voortgezet nadat de administratie de door haar gevraagde informatie heeft ontvangen.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de informatie die in de aanmelding opgenomen moet worden. Dit kan zowel gaan om aanvullende informatie die niet wordt vermeld in het tweede lid als om een verdere verduidelijking van de informatie vermeld in het tweede lid.<br>
-<br>
-§ 2. Als uit de aanmelding, vermeld in paragraaf 1, blijkt dat het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, meldt de administratie het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, met de vraag of ze hun commentaar aan de administratie kunnen meedelen. Die melding omvat ten minste de volgende informatie:<br>
-1° een afschrift van de aanmelding, vermeld in paragraaf 1;<br>
-2° een beschrijving van de rapportageprocedure die op het voorgenomen project van toepassing is;<br>
-3° informatie over de vergunningsplicht waaraan het voorgenomen project onderworpen is.<br>
-<br>
-De administratie brengt de initiatiefnemer ervan op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie gemeld werd.<br>
-<br>
-§ 3. De administratie neemt een beslissing over de opstellers van het project-MER, vermeld in artikel 4.3.6, en deelt haar beslissing aan de initiatiefnemer mee binnen de termijn en op de wijze die wordt bepaald door de Vlaamse Regering.<br>
-<br>
-§ 4. Als de aanmelding, vermeld in paragraaf 1, een verzoek tot advies als vermeld in paragraaf 1, tweede lid, 7°, bevat, bezorgt de administratie een afschrift van de aanmelding voor advies aan de administraties, overheidsinstellingen en openbare besturen die de Vlaamse Regering heeft aangewezen.<br>
-<br>
-Na ontvangst van de adviezen van de instanties, vermeld in het eerste lid, verleent de administratie een advies over de reikwijdte en het detailleringsniveau van&nbsp;de informatie die de initiatiefnemer overeenkomstig artikel 4.3.7 moet verstrekken. De administratie houdt bij haar advies rekening met de opmerkingen en commentaren van de administraties, overheidsinstellingen en openbare besturen in kwestie.<br>
-<br>
-§ 5. De administratie maakt de aanmelding, vermeld in paragraaf 1, binnen de door de Vlaamse Regering bepaalde termijn bekend op haar website.<br>
-<br>
-Als de initiatiefnemer in de aanmelding een vraag stelde tot onttrekking aan bekendmaking van de aanmelding of delen ervan, maakt de administratie in haar beslissing een belangenafweging overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018. De administratie kan de gegevens in kwestie geheel of gedeeltelijk onttrekken aan bekendmaking. Als ze beslist tot gehele of gedeeltelijke onttrekking aan bekendmaking van de aangeduide gegevens, moet ze de gegevens die aan bekendmaking worden onttrokken, opnemen in een bijlage. De bijlage wordt niet bekendgemaakt.<br>
-<br>
-Tegen de beslissing tot onttrekking aan bekendmaking staat beroep open overeenkomstig artikel II.48 tot en met artikel II.51 van het Bestuursdecreet van 7 december 2018 .<br>
-<br>
-§ 6. De Vlaamse Regering kan nadere regels vaststellen voor de aanmeldingsprocedure, de grens- en gewestgrensoverschrijdende procedure en de procedure van adviesverlening vanwege de adviesinstanties en de administratie.<br>
-<br>
-§ 7. De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag of vergunningsaanvragen aan de administratie vragen dat het project-MER inhoudelijk op zijn kwaliteit wordt getoetst.<br>
-In de gevallen, vermeld in het eerste lid, toetst de administratie het project-MER inhoudelijk aan:<br>
-1° de beslissing, vermeld in paragraaf 3;<br>
-2° in voorkomend geval het advies, vermeld in paragraaf 4, tweede lid;<br>
-3° de vereiste gegevens, vermeld in artikel 4.3.7;<br>
-4° in voorkomend geval de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in paragraaf 2.<br>
-<br>
-Het resultaat van de toetsing leidt tot de voorlopige goed- of afkeuring van het project-MER.<br>
-<br>
-De administratie bezorgt haar beslissing over de voorlopige goed- of afkeuring van het project-MER binnen een door de Vlaamse Regering bepaalde termijn aan de initiatiefnemer.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de voorlopige goed- of afkeuring van het project-MER en voor de bekendmaking ervan.</p>
+Elke vaststelling of vervanging van de criteria, vermeld in het eerste lid, wordt meegedeeld aan de Europese Commissie.</p>
+
+## Afdeling 2. Screening van plannen, programma’s en projecten
 
 ### ART. 4.3.5.
 
-<P>...</P>
-
-## [AFDELING 3 HET OPSTELLEN VAN HET PROJECT-MER (ing. B.V.R. 18 december 2002, art. 4)]
+<p>§1. Voor de plannen of programma’s, vermeld in artikel 4.3.2, §2, toetst de initiatiefnemer aan de hand van de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd, in een screening of het voorgenomen plan of programma aanzienlijke milieueffecten kan hebben. De Vlaamse Regering stelt nadere regels vast voor de vorm en de inhoud van de voormelde screening.<br>
+<br>
+De initiatiefnemer raadpleegt de instanties die door de Vlaamse Regering worden aangewezen, en het Vlaams expertisecentrum m.e.r. over de screening, vermeld in het eerste lid. De voormelde instanties en het Vlaams expertisecen-trum m.e.r. brengen hun advies uit op de wijze en binnen de termijn die de Vlaamse Regering bepaalt.<br>
+<br>
+§2. Als voor een plan of een programma als vermeld in artikel 4.3.2, §2, geen milieubeoordeling wordt uitgevoerd, motiveert de bevoegde overheid aan de hand van de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd, waarom het voorgenomen plan of programma geen aanzienlijke milieueffecten kan hebben. De bevoegde overheid houdt daarbij rekening met de screening en de verleende adviezen, vermeld in paragraaf 1.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast over de wijze van de bekend-making van de screening en van de motivatie, vermeld in het eerste lid.</p>
 
 ### ART. 4.3.6.
 
-§ 1. Het project-MER wordt opgesteld onder de verantwoordelijkheid en op kosten van de initiatiefnemer.<br>
+§1. Voor de projecten die de Vlaamse Regering conform artikel 4.3.3, §1, 2°, aanwijst, toetst de initiatiefnemer aan de hand van de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd, in een screening of het voorgenomen project aanzienlijke milieueffecten kan hebben.<br>
 <br>
-De initiatiefnemer moet hiervoor een beroep doen op een team van erkende MER-deskundigen onder leiding van een erkende MER-coördinator. Hij stelt aan de MER-coördinator alle relevante informatie ter beschikking die voorhanden is. Hij verleent alle medewerking opdat de MER-coördinator zijn taak naar behoren kan vervullen.<br>
+§2. De bevoegde overheid beslist zo snel mogelijk en uiterlijk binnen negentig dagen na de dag waarop de initiatiefnemer de screening bij de bevoegde overheid heeft ingediend of het project aan een milieubeoordeling conform hoofdstuk 4 moet worden onderworpen.<br>
 <br>
-§ 2. De erkende MER-coördinator en de erkende MER-deskundigen mogen geen belang hebben bij het voorgenomen project of de alternatieven, noch betrokken worden bij de latere uitvoering van het project. Ze voeren hun opdracht volledig onafhankelijk uit.<br>
+Als de bevoegde overheid beslist dat het project aan een milieubeoordeling conform hoofdstuk 4 moet worden onderworpen, vermeldt de bevoegde overheid de belangrijkste redenen die haar beslissing motiveren. In die motivering wordt verwezen naar de relevante criteria, vermeld in bijlage I, die bij dit decreet is gevoegd.<br>
 <br>
-De samenstelling van het team van erkende MER-deskundigen maakt het opstellen mogelijk van het project-MER in overeenstemming met het m.e.r.-richtlijnenboek en in voorkomend geval met het advies, vermeld in artikel 4.3.4, § 4, tweede lid.<br>
+Als de bevoegde overheid beslist dat het project niet aan een milieubeoorde-ling conform hoofdstuk 4 moet worden onderworpen, vermeldt de bevoegde overheid de belangrijkste redenen die haar beslissing motiveren. In die motivering wordt verwezen naar de relevante criteria, vermeld in bijlage I, die bij dit decreet is gevoegd, en, als de initiatiefnemer deze heeft voorgesteld, de geplande maatregelen om te vermijden of te voorkomen wat anders wellicht aanzienlijke nadelige milieueffecten zouden zijn geweest.<br>
 <br>
-§ 3. Tijdens het opstellen van het project-MER zijn de erkende MER-coördinator en in voorkomend geval de erkende MER-deskundigen gehouden tot overleg met de administratie.<br>
+Als de bevoegde overheid tevens de initiatiefnemer is, zorgt de bevoegde overheid in elk geval binnen de organisatie van administratieve bevoegdheden voor een passende scheiding tussen conflicterende functies opdat de taak vermeld in het eerste lid op een objectieve wijze kan verricht worden.<br>
 <br>
-§ 4. De administratie vervult haar taken op objectieve wijze en ziet erop toe dat ze zich niet bevindt in een situatie die tot een belangenconflict aanleiding geeft.
+§3. Als uit de toets, vermeld in paragraaf 1, of uit de beslissing van de bevoegde overheid, vermeld in paragraaf 2, blijkt dat het voorgenomen project aanzienlijke milieueffecten kan hebben, onderwerpt de initiatiefnemer het voorgenomen project aan een milieubeoordeling conform hoofdstuk 4.<br>
+<br>
+§4. De screening, vermeld in paragraaf 1, bevat ten minste de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een beschrijving en verduidelijking van het voorgenomen project met in het bijzonder:<br>
+a)&nbsp;&nbsp; &nbsp;een beschrijving van de fysieke kenmerken van het hele project en, als dat relevant is, van sloopwerken;<br>
+b)&nbsp;&nbsp; &nbsp;een beschrijving van de locatie van het project met bijzondere aandacht voor de kwetsbaarheid van het milieu in de gebieden waarop het project een invloed kan hebben;<br>
+2°&nbsp;&nbsp; &nbsp;een beschrijving van de mogelijk aanzienlijke milieueffecten van het voorgenomen project;<br>
+3°&nbsp;&nbsp; &nbsp;als er informatie over deze effecten beschikbaar is: een beschrijving van de mogelijk aanzienlijke milieueffecten van het voorgenomen project ten gevolge van:<br>
+a)&nbsp;&nbsp; &nbsp;de verwachte residuen en emissies en de productie van afvalstoffen, als dat van toepassing is;<br>
+b)&nbsp;&nbsp; &nbsp;het gebruik van natuurlijke hulpbronnen, namelijk bodem, land, water en biodiversiteit;<br>
+4°&nbsp;&nbsp; &nbsp;in voorkomend geval een beschrijving van de kenmerken van het voorgeno-men project of van de geplande maatregelen om te vermijden of te voorko-men wat anders wellicht aanzienlijke milieueffecten zouden zijn geweest.<br>
+<br>
+Bij de opmaak van de screening, vermeld in paragraaf 1, wordt, als dat relevant is, rekening gehouden met de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd, en wordt, als dat relevant is, rekening gehouden met de beschikbare resultaten van andere relevante beoordelingen van de milieueffecten die zijn gemaakt met toepassing van deze titel of met toepassing van andere regelgeving.<br>
+<br>
+Als de initiatiefnemer beslist dat het project niet aan een milieubeoordeling conform hoofdstuk 4 moet worden onderworpen, vermeldt de initiatiefnemer de belangrijkste redenen die zijn beslissing motiveren. In die motivering wordt verwezen naar de relevante criteria, vermeld in bijlage I, die bij dit decreet is gevoegd.<br>
+<br>
+De Vlaamse Regering stelt de vorm en de inhoud van de screening, vermeld in paragraaf 1, vast.<br>
+<br>
+§5. De beslissing, vermeld in paragraaf 2, wordt bekendgemaakt op de wijze die de Vlaamse Regering bepaalt.
+
+## AFDELING 3 ...
 
 ### ART. 4.3.7.
 
-§ 1. Als een milieueffectrapport is vereist, stelt de initiatiefnemer een project-MER op en dient hij die in. De door de initiatiefnemer te verstrekken informatie bevat ten minste:<br>
-1° een beschrijving van het project met informatie over de locatie, het ontwerp, de omvang en andere relevante kenmerken van het project;<br>
-2° een beschrijving van de waarschijnlijk aanzienlijke milieueffecten van het project;<br>
-3° een beschrijving van de kenmerken van het project of de geplande maatregelen om de waarschijnlijk aanzienlijke nadelige milieueffecten te vermijden, te voorkomen of te beperken en, als dat mogelijk is, te compenseren;<br>
-4° een beschrijving van de redelijke alternatieven die de initiatiefnemer heeft onderzocht en die relevant zijn voor het project, en de specifieke kenmerken ervan, met opgave van de belangrijkste motieven voor de gekozen optie, in het licht van de milieueffecten van het project;<br>
-5° een niet-technische samenvatting van de gegevens, vermeld in punt 1° tot en met 4° ;<br>
-6° alle aanvullende informatie als vermeld in bijlage IIbis, die bij dit decreet is gevoegd, die van belang is voor de specifieke kenmerken van een bepaald project of projecttype en voor de milieuaspecten die daardoor kunnen worden beïnvloed.<br>
-<br>
-Als er een advies wordt uitgebracht met toepassing van artikel 4.3.4, § 4, is het project-MER gebaseerd op dat advies en bevat het de informatie die redelijkerwijs mag worden vereist om tot een gemotiveerde conclusie over de aanzienlijke milieueffecten van het project te komen, waarbij rekening wordt gehouden met de bestaande kennis en beoordelingsmethodes. Om overlappingen van beoordelingen te voorkomen, houdt de initiatiefnemer bij het opstellen van het project-MER rekening met de beschikbare resultaten van andere uitgevoerde relevante beoordelingen met toepassing van deze titel of met toepassing van andere gewestelijke of federale regelgeving.<br>
-<br>
-§ 2. Het project-MER moet de in § 1 genoemde informatie slechts bevatten:<br>
-1° voorzover ze relevant is voor het stadium van het vergunningsproces waarin de milieueffect-rapportage wordt uitgevoerd en voor zover ze relevant is in het licht van de specifieke kenmerken van een bepaald project of de categorie van projecten waartoe de onderzochte actie behoort en de milieuaspecten die door het voorgenomen project kunnen worden beïnvloed;<br>
-2° voorzover de bestaande kennis en de bestaande effectanalyse- en beoordelingsmethodes redelijkerwijze toelaten om deze informatie te verzamelen en te verwerken.<br>
-<br>
-§ 3. De Vlaamse regering kan nadere regelen vaststellen inzake de inhoud van het project-MER.
+...
 
-## [AFDELING 4 HET ONDERZOEK EN HET GEBRUIK VAN HET PROJECT-MER (ing. decr. 18 december 2002, art. 4)]
+## AFDELING 4 ...
 
 ### ART. 4.3.8.
 
-<p>§ 1. Op de wijze, vermeld in de wetgeving van de desbetreffende vergunningsprocedure of -procedures, bezorgt de initiatiefnemer het project-MER aan de overheid die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het project.<br>
-<br>
-De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag bij de overheid, vermeld in het eerste lid, aan de administratie vragen om overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, bepaalde delen uit het project-MER aan het openbaar onderzoek binnen de vergunningsprocedure te onttrekken. Hij voegt bij zijn vraag tevens het voltooide project-MER toe en duidt over welke gegevens het gaat en op welke gronden de onttrekking aan de openbaarheid moet gebeuren. De administratie maakt een belangenafweging overeenkomstig het het artikel II.36 in kwestie. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan de openbaarheid onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de openbaarheid van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage bij het project-MER wordt niet ter inzage gelegd van het publiek tijdens de vergunningsprocedure.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen voor de samenwerking en informatie-uitwisseling van de administratie met de administraties betrokken in de vergunningsprocedure.<br>
-<br>
-§ 2. Na raadpleging van de adviesverlenende instanties, vermeld in het derde lid, en na afsluiting van het openbaar onderzoek van de vergunningsprocedure, toetst de administratie het project-MER inhoudelijk:<br>
-1° aan de beslissing, vermeld in artikel 4.3.4, § 3;<br>
-2° in voorkomend geval aan het advies, vermeld in artikel 4.3.4, § 4, tweede lid;<br>
-3° aan de vereiste gegevens, vermeld in artikel 4.3.7;<br>
-4° aan de adviezen, opmerkingen en commentaren van de instanties en het publiek over het project-MER, verstrekt naar aanleiding van het openbaar onderzoek;<br>
-5° in voorkomend geval aan de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in artikel 4.3.4, § 2, en het publiek over het project-MER, verstrekt naar aanleiding van het openbaar onderzoek in grensoverschrijdend verband.<br>
-<br>
-Het resultaat van de toetsing wordt opgenomen in het project-MER-verslag en leidt tot de goed- of afkeuring van het project-MER.<br>
-<br>
-De adviesverlenende instanties, vermeld in het eerste lid, zijn de instanties die de Vlaamse Regering heeft aangewezen en die vermeld zijn in de wetgeving van de desbetreffende vergunningsprocedure.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de wijze van raadpleging van de adviesverlenende instanties, vermeld in het eerste lid, en van de bevoegde autoriteiten, vermeld in het eerste lid, 5°, door de administratie.<br>
-<br>
-§ 3. De administratie bezorgt haar beslissing over de goed- of afkeuring van het project-MER:<br>
-1° aan de initiatiefnemer;<br>
-2° in voorkomend geval aan de administraties, overheidsinstellingen en openbare besturen, vermeld in artikel 4.3.4, § 4, eerste lid;<br>
-3° aan de adviesverlenende instanties, vermeld in paragraaf 2, derde lid;<br>
-4° in voorkomend geval aan de bevoegde autoriteiten, vermeld in artikel 4.3.4, § 2;<br>
-5° aan de overheid die in eerste aanleg een beslissing over de vergunningsaanvraag voor het project zal nemen.<br>
-<br>
-De beslissing bevat ook een afschrift van het project-MER-verslag, vermeld in paragraaf 2, tweede lid.<br>
-<br>
-§ 4. De Vlaamse Regering kan nadere regels vaststellen voor de goed- of afkeuring van het project-MER en voor de bekendmaking ervan.</p>
+<p>...</p>
 
 ### ART. 4.3.9.
 
-§ 1. Vanaf de betekening van de beslissing, vermeld in artikel 4.3.8, § 3, liggen het project-MER, het project-MER-verslag, vermeld in artikel 4.3.8, § 2, tweede lid, en in voorkomend geval het advies, vermeld in artikel 4.3.4, § 4, tweede lid, ter inzage bij de administratie.<br>
-<br>
-§ 2. De initiatiefnemer kan aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, gegevens in de in § 1 bedoelde stukken aan ter inzagelegging moet onttrekken. Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het voltooide project-MER aan de administratie bezorgt. Hij duidt in zijn vraag aan over welke gegevens het gaat en op welke gronden de onttrekking aan de ter inzagelegging moet gebeuren.<br>
-<br>
-De administratie neemt een beslissing over de vraag van de initiatiefnemer uiterlijk op het moment van de goed- of afkeuring van het project-MER. Ze maakt een belangenafweging overeenkomstig het bedoelde artikel. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan ter inzagelegging onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de ter inzagelegging van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage wordt niet ter inzage gelegd van het publiek.<br>
-<br>
-§ 3. De Vlaamse regering kan nadere regelen vaststellen inzake het gebruik van het project-MER bij de verdere besluitvorming over het voorgenomen project en inzake de bekendmaking van het definitieve besluit over het project.<br>
-<br>
-§ 4. De Vlaamse regering kan nadere regelen vaststellen betreffende de wijze waarop de bevoegde autoriteiten en de burgers van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2, hun commentaar op het goedgekeurde project-MER en het voorgenomen project kunnen meedelen, en betreffende de wijze waarop hierover overleg wordt gepleegd.<br>
-<br>
-Het definitieve vergunningsbesluit wordt opgestuurd aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2.<br>
-<br>
-§ 5. De Vlaamse Regering kan nadere regels vaststellen betreffende de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2, op de hoogte wordt gebracht van een vergunningsaanvraag die al dan niet een project-MER omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval te organiseren openbaar onderzoek.<br>
-<br>
-De Vlaamse Regering kan tevens nadere regels vaststellen betreffende het verstrekken van een advies over de vergunningsaanvraag, vermeld in het eerste lid, aan de bevoegde autoriteit van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2.<br>
-<br>
-De Vlaamse Regering kan ten slotte nadere regels vaststellen betreffende de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2, op de hoogte wordt gebracht van een beslissing over een vergunningsaanvraag die al dan niet een project-MER omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval ter beschikking stellen van deze beslissing aan het publiek.
+...
 
-## [HOOFDSTUK IV VEILIGHEIDSRAPPORTAGE OVER RUIMTELIJKE UITVOERINGSPLANNEN (ing. decr. 18 december 2002, art. 4)]
+## Hoofdstuk 4. Milieubeoordeling van plannen, programma’s en projecten
 
-### Tekst
-
-(Dit hoofdstuk treedt in werking op de datum waarop de wijzigingsbepalingen van hoofdstuk II van Titel II van het decreet van 18 mei 1999 houdende organisatie van de ruimtelijke ordening in werking treden waarmee uitvoering wordt gegeven aan de verplichtingen, bepaald in artikel 24 van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)<br /><br />Dit hoofdstuk treedt in werking op 29 juni 2007. Zie BVR 26 januari 2007, BS 19 juni 2007, art. 1.
+## Afdeling 1. Openbaarheid
 
 ### ART. 4.4.1.
 
-§ 1. De veiligheidsrapportage, bedoeld in dit hoofdstuk, heeft betrekking op de opmaak van de ruimtelijke uitvoeringsplannen, bedoeld in de Vlaamse Codex Ruimtelijke Ordening, teneinde uitvoering te geven aan de verplichtingen, bepaald in artikel 24 van het samenwerkingsakkoord.<br>
+De verplichtingen tot actieve openbaarheid, vermeld in dit hoofdstuk, doen geen afbreuk aan de toepassing van artikel II.3 en II.4 van het Bestuursdecreet van 7 december 2018.<br>
 <br>
-§ 2. De Vlaamse Regering stelt de criteria vast om te bepalen of voor een ruimtelijk uitvoeringsplan al dan niet een ruimtelijk veiligheidsrapport vereist is.
+De initiatiefnemer kan in elke fase van de milieubeoordeling, vermeld in afdeling 2 tot en met 5, conform de regels die de Vlaamse Regering bepaalt, verzoeken om bepaalde milieu-informatie volledig of gedeeltelijk aan de openbaarheid te onttrekken. Een dergelijk verzoek wordt door de betrokken overheidsinstantie behandeld conform artikel II.36 van het Bestuursdecreet van 7 december 2018.
+
+## Afdeling 2. Aanmelding en scoping
 
 ### ART. 4.4.2.
 
-§ 1. Het ruimtelijk veiligheidsrapport wordt opgesteld onder de verantwoordelijkheid en op kosten van de initiatiefnemer.<br>
+§1. De initiatiefnemer meldt aan het Vlaams expertisecentrum m.e.r. het voornemen om een plan-MER op te stellen voor een voorgenomen plan of programma.<br>
 <br>
-De initiatiefnemer moet hiervoor een beroep doen op een erkende VR-deskundige. Hij stelt aan de erkende deskundige alle relevante informatie die voorhanden is ter beschikking. Hij verleent alle medewerking opdat de erkende deskundige zijn taak naar behoren kan vervullen.<br>
+Het Vlaams expertisecentrum m.e.r. maakt de aanmelding, vermeld in het eerste lid, bekend.<br>
 <br>
-§ 2. De erkende deskundige mag geen belang hebben bij de exploitatie van bestaande of voorgenomen inrichtingen die eventueel in het RVR aan bod komen. Hij voert zijn opdracht volledig onafhankelijk uit.<br>
+De Vlaamse Regering bepaalt de inhoud van de aanmelding, vermeld in het eerste lid, en stelt de wijze vast waarop die aanmelding moet gebeuren en bekendgemaakt moet worden, en ook de termijn daarvoor.<br>
 <br>
-§ 3. Tijdens het opstellen van het ruimtelijk veiligheidsrapport is de erkende deskundige gehouden tot overleg met de administratie. De erkende deskundige moet in voorkomend geval de schriftelijke richtlijnen zoals geïntegreerd in de scopingnota vermeld in artikel 2.2.4, § 3, van de Vlaamse Codex Ruimtelijke Ordening, van de administratie in acht nemen.
+§2. De initiatiefnemer vraagt een scopingadvies over een voorstel van scoping aan het Vlaams expertisecentrum m.e.r. en de adviesinstanties die de Vlaamse Regering aanwijst.<br>
+<br>
+De Vlaamse Regering bepaalt de inhoud van het voorstel van scoping en stelt nadere regels vast voor de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. en de adviesinstanties hun scopingadvies, vermeld in het eerste lid, moeten verlenen.<br>
+<br>
+§3. De initiatiefnemer kan participatie over de scoping organiseren.<br>
+<br>
+§4. De initiatiefnemer kan het Vlaams expertisecentrum m.e.r. verzoeken een geïntegreerd scopingadvies te verlenen over het voorstel van scoping. In dat geval is de adviesvraag aan het Vlaams expertisecentrum, vermeld in paragraaf 2, niet verplicht.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. houdt bij het geïntegreerde scopingad-vies, vermeld in het eerste lid, rekening met de adviezen, vermeld in paragraaf 2.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. het geïntegreerde scopingadvies, vermeld in het eerste lid, verleent en ter beschikking stelt aan de geraadpleegde adviesinstanties en het betrokken publiek.<br>
+<br>
+§5. Als bij de aanmelding, vermeld in paragraaf 1, of bij de advisering, vermeld in paragraaf 2 of 4, blijkt dat het plan of programma aanzienlijke grens- of gewestgrensoverschrijdende milieueffecten kan hebben, of als de bevoegde autoriteiten van de betrokken staten of gewesten daarom verzoeken, deelt het Vlaams expertisecentrum m.e.r. de informatie die de initiatiefnemer heeft bezorgd, mee aan de betrokken bevoegde autoriteiten en deelt het ook de termijn mee waarin de bevoegde autoriteit kan bekendmaken of ze wil deelnemen aan de milieubeoordeling over het voorgenomen plan of programma. De Vlaamse Regering bepaalt de voormelde termijn.<br>
+<br>
+De mededeling, vermeld in het eerste lid, gebeurt uiterlijk op het moment dat de aanmelding wordt bekendgemaakt conform paragraaf 1, tweede lid, respectievelijk op het moment dat het Vlaams expertisecentrum m.e.r. het scopingadvies verleent.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de wijze waarop de informatie, vermeld in het eerste lid, wordt meegedeeld.
 
 ### ART. 4.4.3.
 
-Het ruimtelijk veiligheidsrapport bestaat uit ten minste volgende onderdelen :<br>
+§1. De initiatiefnemer meldt aan het Vlaams expertisecentrum m.e.r. het voornemen om een project-MER op te stellen voor een voorgenomen project.<br>
 <br>
-1° een algemeen deel dat de volgende informatie bevat:<br>
+Het Vlaams expertisecentrum m.e.r. maakt de aanmelding, vermeld in het eerste lid, bekend.<br>
 <br>
-a) een beschrijving van de doelstellingen en krachtlijnen van het voorontwerp van ruimtelijk uitvoeringsplan, met inbegrip van een kaart op aangepaste schaal;<br>
+De Vlaamse Regering stelt nadere regels vast voor de informatie die in de aanmelding, vermeld in het eerste lid, opgenomen moet worden, de wijze waarop die aanmelding moet gebeuren en bekendgemaakt moet worden, en de termijn daarvoor.<br>
 <br>
-b) een overzicht van de motieven voor de opmaak van het ruimtelijk uitvoeringplan;<br>
+§2. De initiatiefnemer kan het Vlaams expertisecentrum m.e.r. en de adviesin-stanties die de Vlaamse Regering aanwijst, raadplegen over een voorstel van scoping. Het voorstel van scoping bevat minstens:<br>
+1°&nbsp;&nbsp; &nbsp;informatie over de specifieke kenmerken van het project, inclusief de locatie en de technische capaciteit ervan;<br>
+2°&nbsp;&nbsp; &nbsp;informatie over de te verwachten aanzienlijke milieueffecten ervan.<br>
 <br>
-c) een beschrijving van de in beschouwing genomen alternatieven voor het voorontwerp van ruimtelijk uitvoeringsplan of een schets van de redelijkerwijze in beschouwing te nemen alternatieven voor bepaalde onderdelen ervan, telkens met inbegrip van de overwegingen ter zake van de initiatiefnemer;<br>
+De Vlaamse Regering stelt de nadere regels vast voor de bijkomende infor-matie die in het voorstel van scoping opgenomen moet worden en de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. en de adviesinstanties hun advies moeten verlenen.<br>
 <br>
-d) een vergelijking tussen de beschreven alternatieven en het voorontwerp van ruimtelijk uitvoeringsplan of de desbetreffende onderdelen ervan;<br>
+§3. De initiatiefnemer kan participatie over de scoping organiseren.<br>
 <br>
-2° een deel betreffende de invloed van het ruimtelijk uitvoeringsplan op de risico's op zware ongevallen voor mens en milieu dat de volgende informatie bevat:<br>
+§4. Op verzoek van de initiatiefnemer brengt het Vlaams expertisecentrum m.e.r. een geïntegreerd scopingadvies uit over het voorstel van scoping.<br>
 <br>
-a) een beschrijving van de methodieken die werden gebruikt voor de bepaling en de beoordeling van de risico's op zware ongevallen voor mens en milieu met inbegrip van een opsomming en omschrijving van de relevante criteria die in het ruimtelijk veiligheidsrapport gebruikt worden voor de afbakening van de risicozones;<br>
+Het Vlaams expertisecentrum m.e.r. houdt bij het geïntegreerde scopingad-vies, vermeld in het eerste lid, rekening met de adviezen van de adviesinstanties, vermeld in paragraaf 2.<br>
 <br>
-b) in voorkomend geval informatie over de aan de bestaande inrichtingen verbonden risico's op zware ongevallen voor mens en milieu en over de veiligheidsmaatregelen die bestaande inrichtingen hebben genomen en/of kunnen nemen ter voorkoming van zware ongevallen en ter beperking van de gevolgen ervan voor mens en milieu;<br>
+De Vlaamse Regering stelt de wijze vast waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. het geïntegreerde scopingadvies, vermeld in het eerste lid, verleent en ter beschikking stelt aan de geraadpleegde adviesinstanties en het betrokken publiek.<br>
 <br>
-c) voor het voorontwerp van ruimtelijk uitvoeringsplan en de beschreven alternatieven, een wetenschappelijke beoordeling van de invloed van de in beschouwing genomen ontwikkelingen rond bestaande inrichtingen en/of van de mogelijke vestiging van nieuwe inrichtingen op de risico's op zware ongevallen voor mens en milieu met inbegrip van de afgebakende risicozones;<br>
+§5. De Vlaamse Regering kan bepalen welke projecten aan een geïntegreerd scopingadvies onderworpen moeten worden. In dat geval verleent het Vlaams expertisecentrum m.e.r. een geïntegreerd scopingadvies conform paragraaf 4, tweede en derde lid.<br>
 <br>
-d) op basis van de in c) bedoelde beoordeling, aanbevelingen over:<br>
+§6. Als bij de aanmelding, vermeld in paragraaf 1, of nadien bij de advisering, vermeld in paragraaf 2, 4 of 5, blijkt dat het project aanzienlijke grens- of gewestgrensoverschrijdende milieueffecten kan hebben, of als de bevoegde autoriteiten van de betrokken staten of gewesten daarom verzoeken, deelt het Vlaams expertisecentrum m.e.r. de informatie die de initiatiefnemer heeft bezorgd mee aan de betrokken bevoegde autoriteiten en deelt het ook de termijn mee waarin de bevoegde autoriteit kan bekendmaken of ze wil deelnemen aan de milieubeoordeling over het project. De Vlaamse Regering bepaalt de voormelde termijn.<br>
 <br>
-1) de voorziene stedenbouwkundige voorschriften onder meer in het licht van de vereiste om ook op lange termijn voldoende afstand te bewaren tussen de onder het samenwerkingsakkoord vallende inrichtingen en bepaalde kwetsbare gebieden, bedoeld in artikel 24, § 1, laatste lid, van het samenwerkingsakkoord;<br>
+De mededeling, vermeld in het eerste lid, gebeurt uiterlijk op het moment dat de aanmelding wordt bekendgemaakt conform paragraaf 1, tweede lid, respectievelijk op het moment dat het Vlaams expertisecentrum m.e.r. het scopingadvies verleent.<br>
 <br>
-2) de aanvullende maatregelen die bestaande inrichtingen kunnen nemen om zware ongevallen te voorkomen en de gevolgen daarvan voor mens en milieu te beperken teneinde de risico's niet te vergroten;<br>
-<br>
-e) een globale evaluatie van het voorontwerp van ruimtelijk uitvoeringsplan en van de beschreven alternatieven in het kader van het beleid inzake voorkoming van zware ongevallen en beperking van de gevolgen ervan voor mens en milieu;<br>
-<br>
-3° een opgave van de moeilijkheden, technische leemten of ontbrekende kennis die de initiatiefnemer en/of de erkende deskundige eventueel hebben ondervonden bij het verzamelen en verwerken van de vereiste informatie en de daaruit voortvloeiende implicaties voor de wetenschappelijkheid van het rapport;<br>
-<br>
-4° een niet-technische samenvatting van de verstrekte gegevens zoals omschreven in 1° tot en met 3°. (ing. decr. 18 december 2002, art. 4) ]
+De Vlaamse Regering stelt nadere regels vast voor de wijze waarop de informatie, vermeld in het eerste lid, wordt meegedeeld.
+
+## Afdeling 3. Inhoud van het MER
 
 ### ART. 4.4.4.
 
-...
+Het plan-MER bevat ten minste al de volgende gegevens:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een schets van de inhoud, een omschrijving van de voornaamste doelstellin-gen van het plan of van het programma en het verband met andere relevante plannen en programma's;<br>
+2°&nbsp;&nbsp; &nbsp;informatie over de besluitvormingsprocedure;<br>
+3°&nbsp;&nbsp; &nbsp;de relevante aspecten van de bestaande situatie van het milieu en de mogelijke ontwikkeling ervan als het plan of het programma niet wordt uitgevoerd;<br>
+4°&nbsp;&nbsp; &nbsp;de milieukenmerken van de gebieden waarvoor de gevolgen aanzienlijk kunnen zijn;<br>
+5°&nbsp;&nbsp; &nbsp;alle bestaande milieuproblemen die relevant zijn voor het plan of programma, met inbegrip van milieuproblemen in gebieden die vanuit milieuoogpunt van bijzonder belang zijn, zoals speciale beschermingszones als bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+6°&nbsp;&nbsp; &nbsp;de relevante doelstellingen voor de milieubescherming en de wijze waarop rekening wordt gehouden met die doelstellingen en de milieuoverwegingen bij de voorbereiding van het plan of programma;<br>
+7°&nbsp;&nbsp; &nbsp;de gemotiveerde scoping; hierbij wordt rekening gehouden met de bepalingen van hoofdstuk 2, afdeling 2, van deze titel;<br>
+8°&nbsp;&nbsp; &nbsp;een beschrijving en onderbouwde beoordeling conform de scoping van de mogelijk aanzienlijke milieueffecten van het plan of programma en van de onderzochte redelijke alternatieven op, in voorkomend geval, de gezondheid en veiligheid van de mens, de ruimtelijke ordening, de biodiversiteit, de fauna en flora, de energie- en grondstoffenvoorraden, de bodem, het water, de atmosfeer, de klimatologische factoren, het geluid, het licht, de stoffelijke goederen, het cultureel erfgoed, met inbegrip van het architectonisch en archeologisch erfgoed, het landschap, de natuurgebieden, de mobiliteit, en de samenhang tussen de vermelde factoren. De beschrijving van de milieueffec-ten omvat de directe en, in voorkomend geval, de indirecte, secundaire, cumulatieve en synergetische effecten, permanent en tijdelijk, positief en negatief, op korte, middellange en lange termijn van het plan of programma. Als dat relevant is rekening houdend met de inhoud en het detailleringsniveau van het plan of programma, worden de aanzienlijke milieueffecten onder meer beoordeeld in het licht van de milieukwaliteitsnormen die zijn vastgesteld conform titel II, hoofdstuk II, van dit decreet;<br>
+9°&nbsp;&nbsp; &nbsp;de maatregelen om aanzienlijke negatieve milieueffecten als gevolg van de uitvoering van het plan of programma te voorkomen, te beperken of zo veel mogelijk teniet te doen;<br>
+10°&nbsp;&nbsp; &nbsp;een schets met opgave van de redenen voor de selectie, rekening houdende met het doel en de geografische werkingssfeer van het plan of programma, van de onderzochte redelijke alternatieven en een omschrijving van de wijze waarop de beoordeling is doorgevoerd, met inbegrip van de moeilijkheden die ondervonden zijn bij het inzamelen van de vereiste informatie, zoals techni-sche tekortkomingen of gebrek aan kennis;<br>
+11°&nbsp;&nbsp; &nbsp;een omschrijving van de monitoringsmaatregelen;<br>
+12°&nbsp;&nbsp; &nbsp;een niet-technische samenvatting van de gegevens, vermeld in punt 1° tot en met 10°;<br>
+13°&nbsp;&nbsp; &nbsp;de nuttige informatie over de milieueffecten van de plannen en programma's die op andere besluitvormingsniveaus of krachtens andere wetgevingen ingewonnen wordt en die kan worden gebruikt om de gegevens, vermeld in punt 1° tot en met 10°, te verstrekken.<br>
+<br>
+Het plan-MER bevat de informatie die redelijkerwijze mag worden vereist om tot een milieuverklaring voor het voorgenomen plan of programma te komen. In het plan-MER wordt rekening gehouden met:<br>
+1°&nbsp;&nbsp; &nbsp;de bestaande kennis en beoordelingsmethoden;<br>
+2°&nbsp;&nbsp; &nbsp;de inhoud en het detailleringsniveau van het plan of programma.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over de inhoud van het plan-MER.
 
 ### ART. 4.4.5.
 
-De Vlaamse regering kan nadere regelen vaststellen inzake de opmaak, het onderzoek en het verdere gebruik van het ruimtelijk veiligheidsrapport.  <span class="reference">(ing. decr. 18 december 2002, art. 4)</span> ]
+§1. Bij de milieubeoordeling van een project worden de directe en indirecte aanzienlijke effecten van een project per geval op passende wijze geïdentificeerd, beschreven en beoordeeld op de volgende factoren:<br>
+1°&nbsp;&nbsp; &nbsp;de bevolking en de menselijke gezondheid;<br>
+2°&nbsp;&nbsp; &nbsp;de biodiversiteit, met bijzondere aandacht voor de beschermde soorten en habitats, vermeld in bijlage I tot en met IV van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+3°&nbsp;&nbsp; &nbsp;land, bodem, water, lucht en klimaat;<br>
+4°&nbsp;&nbsp; &nbsp;materiële goederen, het cultureel erfgoed en het landschap;<br>
+5°&nbsp;&nbsp; &nbsp;de samenhang tussen de factoren, vermeld in punt 1° tot en met 4°.<br>
+<br>
+De effecten op de factoren, vermeld in het eerste lid, omvatten de verwachte effecten die voortvloeien uit de kwetsbaarheid van het project voor risico's op zware ongevallen en/of rampen die relevant zijn voor het project in kwestie.<br>
+<br>
+§2. Het project-MER bevat ten minste al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;een beschrijving van het project met informatie over de locatie, het ontwerp, de omvang en andere relevante kenmerken van het project;<br>
+2°&nbsp;&nbsp; &nbsp;de gemotiveerde scoping; hierbij wordt rekening gehouden met de bepalingen van hoofdstuk 2, afdeling 2, van deze titel;<br>
+3°&nbsp;&nbsp; &nbsp;een beschrijving van de mogelijk aanzienlijke milieueffecten van het project;<br>
+4°&nbsp;&nbsp; &nbsp;een beschrijving van de kenmerken van het project of de geplande maatregelen om de mogelijk aanzienlijke nadelige milieueffecten te vermij-den, te voorkomen of te beperken en, als dat mogelijk is, te compenseren;<br>
+5°&nbsp;&nbsp; &nbsp;een beschrijving van de redelijke alternatieven die de initiatiefnemer heeft onderzocht en die, onder meer rekening houdend met het doel en de geogra-fische werkingssfeer van het project, relevant zijn voor het project en de specifieke kenmerken ervan, met opgave van de belangrijkste motieven voor de gekozen optie, in het licht van de milieueffecten van het project;<br>
+6°&nbsp;&nbsp; &nbsp;een niet-technische samenvatting van de gegevens, vermeld in punt 1° tot en met 5°;<br>
+7°&nbsp;&nbsp; &nbsp;alle aanvullende informatie als vermeld in bijlage II, die bij dit decreet is gevoegd, die van belang is voor de specifieke kenmerken van een bepaald project of projecttype en voor de milieuaspecten die daardoor kunnen worden beïnvloed.<br>
+<br>
+Het project-MER bevat de informatie die redelijkerwijze mag worden vereist om tot een gemotiveerde conclusie over de aanzienlijke milieueffecten van het voorgenomen project te komen. In het project-MER wordt rekening gehouden met:<br>
+1° &nbsp;&nbsp; &nbsp;de bestaande kennis en beoordelingsmethoden;<br>
+2° &nbsp;&nbsp; &nbsp;de inhoud en het detailleringsniveau van het project.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over de inhoud van het project-MER.
 
-## [HOOFDSTUK V VEILIGHEIDSRAPPORTAGE OVER DE EXPLOITATIE VAN INRICHTINGEN
+## Afdeling 4. Raadpleging over het MER
 
-## AFDELING 1 TOEPASSINGSGEBIED (ing. decr. 18 december 2002, art. 4)]
+### ART 4.4.6.
+
+§1. De bevoegde overheid organiseert over het ontwerp van plan of programma samen met het plan-MER een openbaar onderzoek dat het betrokken publiek de gelegenheid biedt om opmerkingen en meningen over het ontwerp van plan of programma en het plan-MER te formuleren. Het openbaar onderzoek duurt minstens zestig dagen.<br>
+<br>
+Als de verplichting tot organisatie van een openbaar onderzoek over het ontwerp van plan of programma al geldt met toepassing van andere regelgeving dan deze titel, gelden de procedureregels en de termijnen van die regelgeving voor de organisatie van het openbaar onderzoek. Als het openbaar onderzoek conform de betreffende wetgeving zich niet tot het betrokken publiek richt, wordt het openbaar onderzoek daartoe uitgebreid.<br>
+<br>
+Het openbaar onderzoek vindt in elk geval plaats vóór het plan of programma wordt vastgesteld of aan de wetgevingsprocedure wordt onderworpen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor het openbaar onderzoek.<br>
+<br>
+§2. De bevoegde overheid stelt het ontwerp van plan of programma samen met het plan-MER voor advies ter beschikking van het Vlaams expertisecentrum m.e.r. en van de instanties die de Vlaamse Regering aanwijst.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. verleent advies over de kwaliteit van het plan-MER, waarbij het minstens de volledigheid ervan nagaat in het licht van de vereiste gegevens, vermeld in artikel 4.4.4, en het plan-MER toetst aan zijn scopingadvies of, in voorkomend geval, aan het geïntegreerde scopingadvies, vermeld in artikel 4.4.2, §4.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de vraag tot advies wordt gesteld, de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. en de geraadpleegde instanties hun adviezen meedelen.<br>
+<br>
+§3. Als blijkt dat het plan of programma aanzienlijke grens- of gewestgrensover-schrijdende milieueffecten kan hebben of als de bevoegde autoriteiten van de betrokken staten of gewest daarom verzoeken, deelt de bevoegde overheid het ontwerp van plan of programma en het plan-MER voor advies mee aan de betrokken bevoegde autoriteiten.<br>
+<br>
+De Vlaamse Regering bepaalt nadere regels opdat met de betrokken bevoegde autoriteiten gedetailleerde regelingen en een redelijke termijn overeengekomen worden om ervoor te zorgen dat de relevante adviesinstanties en het betrokken publiek in de betrokken staat of gewest binnen een redelijke termijn geïnformeerd worden en de gelegenheid krijgen hun mening bekend te maken, en ook over de wijze waarop daarover overleg wordt gepleegd.
+
+### ART 4.4.7.
+
+§1. De initiatiefnemer bezorgt het project-MER aan de overheid die bevoegd is om in eerste administratieve aanleg een beslissing te nemen over de vergunningsaan-vraag van het project. Het project-MER wordt onderworpen aan het openbaar onderzoek waarin voorzien is in de vergunningsprocedure in kwestie zodat het betrokken publiek over het project-MER opmerkingen en meningen kan formuleren. Het openbaar onderzoek duurt minstens dertig dagen.<br>
+<br>
+Als in de regelgeving van de vergunningsprocedure in kwestie niet in de organisatie van een openbaar onderzoek is voorzien, organiseert de bevoegde overheid een openbaar onderzoek dat het betrokken publiek de gelegenheid biedt om opmerkingen en meningen over de vergunningsaanvraag en het project-MER te formuleren. Het openbaar onderzoek duurt minstens dertig dagen.<br>
+<br>
+De Vlaamse Regering bepaalt de modaliteiten van het openbaar onderzoek.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de samenwerking en informatie-uitwisseling van het Vlaams expertisecentrum m.e.r. met de administraties die betrokken zijn bij de vergunningsprocedure.<br>
+<br>
+§2. De bevoegde overheid stelt de vergunningsaanvraag en het project-MER voor advies ter beschikking van de instanties die de Vlaamse Regering aanwijst.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de vraag om advies vermeld in het eerste lid, wordt gesteld, de wijze waarop en de termijnen waarin de geraadpleegde instanties voormelde adviezen meedelen.<br>
+<br>
+§3. De bevoegde overheid stelt het project-MER ter beschikking van het Vlaams expertisecentrum m.e.r.<br>
+<br>
+Na afsluiting van het openbaar onderzoek van de vergunningsprocedure, toetst het Vlaams expertisecentrum m.e.r. het project-MER:<br>
+1° &nbsp;&nbsp; &nbsp;aan de vereiste gegevens, vermeld in artikel 4.4.5, §2;<br>
+2° &nbsp;&nbsp; &nbsp;in voorkomend geval, aan zijn scopingadvies of aan het geïntegreerde scopingadvies, vermeld in artikel 4.4.3, §4 en §5;<br>
+3° &nbsp;&nbsp; &nbsp;aan de adviezen, opmerkingen en meningen, vermeld in paragraaf 1 en 2;<br>
+4° &nbsp;&nbsp; &nbsp;in voorkomend geval, het resultaat van de grens- of gewestgrensoverschrij-dende raadpleging vermeld in paragraaf 4 van dit artikel en artikel 4.4.3, §6.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. kan naast de adviezen, vermeld in paragraaf 2, ook het advies inwinnen van iedere dienst, instelling of organisatie die activiteiten ontwikkelt op het vlak van energie, leefmilieu, waterbeleid, landinrichting, natuurbehoud, ruimtelijke ordening, veiligheid of mobiliteit die ze nuttig acht voor de toetsing, vermeld in het tweede lid.<br>
+<br>
+Het resultaat van de toetsing, vermeld in het tweede lid, leidt tot de beslissing tot goedkeuring of afkeuring van het project-MER.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop het project-MER ter beschik-king wordt gesteld, de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. zijn beslissing tot goedkeuring of afkeuring meedeelt.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de beslissing tot goedkeuring of afkeuring van het project-MER en voor de bekendmaking ervan.<br>
+<br>
+§4. Als blijkt dat het project aanzienlijke grens- of gewestgrensoverschrijdende milieueffecten kan hebben of als de bevoegde autoriteiten van de betrokken staten of gewesten daarom verzoeken, deelt de bevoegde overheid al de volgende informatie mee aan de bevoegde autoriteiten van de betrokken staten of gewesten:<br>
+1°&nbsp;&nbsp; &nbsp;een beschrijving van het project, met alle beschikbare informatie over het mogelijke grensoverschrijdende effect ervan;<br>
+2°&nbsp;&nbsp; &nbsp;het project-MER;<br>
+3°&nbsp;&nbsp; &nbsp;informatie over de aard van de beslissing die kan worden genomen.<br>
+<br>
+De mededeling, vermeld in het eerste lid, gebeurt zo spoedig mogelijk en uiterlijk als het openbaar onderzoek start. De voormelde mededeling maakt mogelijk dat de relevante adviesinstanties en het betrokken publiek in de betrokken staten of gewesten binnen een redelijke termijn geïnformeerd worden en de gelegenheid krijgen hun adviezen en opmerkingen bekend te maken.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop de informatie, vermeld in het eerste lid, wordt meegedeeld en de wijze waarop en termijn waarin de adviezen, de opmerkingen en de meningen, vermeld in het tweede lid, bezorgd worden, en ook de wijze waarop overleg daarover wordt gepleegd.<br>
+<br>
+§5. De bevoegde overheid stelt de adviezen, vermeld in paragraaf 2, het project- MER, de beslissing tot de goedkeuring of afkeuring van het project-MER, vermeld in paragraaf 3, vierde lid, en, in voorkomend geval, het geïntegreerde scopingad-vies, vermeld in artikel 4.4.3, §4, ter beschikking van het betrokken publiek.<br>
+<br>
+De Vlaamse Regering stelt vast op welke wijze en binnen welke termijnen de informatie, vermeld in het eerste lid, ter beschikking wordt gesteld.
+
+## Afdeling 5. Besluitvorming
+
+### ART 4.4.8.
+
+§1. De bevoegde overheid houdt bij haar beslissing over het voorgenomen plan of programma en, in voorkomend geval, ook bij de uitwerking ervan rekening met al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;het plan-MER;<br>
+2°&nbsp;&nbsp; &nbsp;de opmerkingen en meningen, adviezen en het resultaat van de grens- of gewestgrensoverschrijdende raadpleging, vermeld in artikel 4.4.2, §2 tot en met §5, en artikel 4.4.6.<br>
+<br>
+De bevoegde overheid motiveert haar beslissing in het bijzonder door de opmaak van de verklaring, vermeld in artikel 4.1.1, 6°, e), en, in voorkomend geval, met betrekking tot de actualiteit van het MER.<br>
+<br>
+§2. Als een plan of programma wordt vastgesteld, brengt de bevoegde overheid het publiek, de instanties die conform artikel 4.4.6, §2, worden geraadpleegd, en, in voorkomend geval, de bevoegde autoriteiten van de staten of gewesten die met toepassing van artikel 4.4.6, §3, zijn betrokken, op de hoogte van al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;het plan of programma zoals het is vastgesteld;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de verklaring, vermeld in artikel 4.1.1, 6°, e);<br>
+3°&nbsp;&nbsp; &nbsp;de monitoringsmaatregelen waartoe wordt besloten met toepassing van artikel 4.5.4.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop en de termijn waarin de kennisgeving, vermeld in het eerste lid, gebeurt.
+
+### ART 4.4.9.
+
+§1. De bevoegde overheid houdt bij haar beslissing over het voorgenomen project en, in voorkomend geval, ook bij de uitwerking ervan terdege rekening met al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;het project-MER;<br>
+2°&nbsp;&nbsp; &nbsp;de opmerkingen en meningen, adviezen, de beslissing over de goedkeuring of afkeuring van het project-MER en het resultaat van de grens- of gewestgrensoverschrijdende raadpleging, vermeld in artikel 4.4.3, §2 tot en met §6, en artikel 4.4.7, §1 tot en met §4.<br>
+<br>
+De bevoegde overheid kan alleen maar de vergunning verlenen als het pro-ject-MER is goedgekeurd.<br>
+<br>
+De bevoegde overheid motiveert haar beslissing over het voorgenomen project in het bijzonder op de volgende punten:<br>
+1°&nbsp;&nbsp; &nbsp;de inhoud van de vergunningsbeslissing en de eventuele vergunningsvoor-waarden die daaraan gekoppeld zijn;<br>
+2°&nbsp;&nbsp; &nbsp;de keuze voor de voorgenomen actie, een bepaald alternatief of bepaalde deelalternatieven;<br>
+3°&nbsp;&nbsp; &nbsp;de aanvaardbaarheid van te verwachten of mogelijke gevolgen voor mens of milieu van het gekozen alternatief;<br>
+4°&nbsp;&nbsp; &nbsp;de gemotiveerde conclusie over de aanzienlijke effecten van de actie op het milieu;<br>
+5°&nbsp;&nbsp; &nbsp;in voorkomend geval, een beschrijving van de voornaamste maatregelen die in het project-MER zijn voorgesteld om aanzienlijke nadelige milieueffecten te vermijden, te voorkomen of te beperken en, als dat mogelijk is, te compen-seren;<br>
+6°&nbsp;&nbsp; &nbsp;in voorkomend geval, de monitoringmaatregelen;<br>
+7°&nbsp;&nbsp; &nbsp;na bestudering van de opmerkingen en meningen van het betrokken publiek, de voornaamste redenen en overwegingen waarop de beslissing is gebaseerd, met inbegrip van de informatie over de inspraakprocedure, vermeld in het eerste lid, 2°, en het project-MER;<br>
+8°&nbsp;&nbsp; &nbsp;in voorkomend geval, de actualiteit van het project-MER.<br>
+<br>
+§2. Als een beslissing over de vergunningsaanvraag is genomen, brengt de bevoegde overheid het betrokken publiek daarvan op de hoogte conform de bepalingen van de vergunningsprocedure in kwestie. De bevoegde overheid brengt het publiek, de instanties die conform artikel 4.4.7, §2, zijn geraadpleegd, en, in voorkomend geval, de bevoegde autoriteiten van de staten of gewesten die met toepassing van artikel 4.4.7, §4, zijn betrokken, op de hoogte binnen en gedurende de termijn die de Vlaamse Regering bepaalt.
+
+## Hoofdstuk 5. Kwaliteitszorg
+
+## Afdeling 1. MER-deskundigen en MER-coördinatoren
 
 ### ART. 4.5.1.
 
-§ 1. De bepalingen van dit hoofdstuk zijn van toepassing op alle   inrichtingen waarvoor :<BR>1° overeenkomstig artikel 12 van het   samenwerkingsakkoord, een veiligheidsrapport moet worden opgesteld of,   overeenkomstig artikel 13 van het samenwerkingsakkoord, het veiligheidsrapport   opnieuw moet worden beoordeeld ingevolge een wijzing aan de inrichting; en<BR>2°   overeenkomstig het decreet van 25 april 2014 betreffende de omgevingsvergunning   een vergunningsaanvraag moet worden ingediend voor het exploiteren of veranderen   ervan.<BR><BR>Voor de loutere hernieuwing van de omgevingsvergunning moet geen   omgevingsveiligheidsrapport opgemaakt worden.<BR><BR>§ 2. De Vlaamse regering   kan andere categorieën van inrichtingen aanwijzen waarvoor een   omgevingsveiligheidsrapport moet worden opgesteld overeenkomstig de bepalingen   van dit hoofdstuk. De Vlaamse regering kan, in afwijking van artikel 4.5.6,   bepalen dat voor deze categorieën van inrichtingen, het   omgevingsveiligheidsrapport bepaalde gegevens niet hoeft te bevatten.<BR><BR>§   3. In afwijking van paragraaf 1, kan de administratie na gemotiveerd verzoek van   de initiatiefnemer geval per geval beslissen dat voor veranderingen aan een   vergunde inrichting er geen bijwerking nodig is van een reeds voor deze   inrichting goedgekeurd omgevingsveiligheidsrapport.<BR><BR>§ 4. Het gemotiveerd   verzoek vermeld in paragraaf 3 bevat ten minste de volgende gegevens :<BR>1° een   beschrijving en een verduidelijking van de vergunde inrichting, alsook van de   veranderingen die in het kader van de vergunningsaanvraag worden   aangevraagd;<BR>2° de verantwoording van het verzoek en alle relevante gegevens   ter staving ervan;<BR>3° een veiligheidsnota waarin ten minste wordt aangetoond   dat :<BR>a) de geplande veranderingen geen bijkomend aanzienlijk risico van   zware ongevallen voor de mens en voor het leefmilieu meebrengt ten opzichte van   de bestaande toestand, en een nieuw omgevingsveiligheidsrapport daarover   redelijkerwijs geen nieuwe of extra gegevens kan bevatten;<BR>b) wat de geplande   veranderingen betreft, de nodige veiligheidsmaatregelen getroffen werden of   getroffen kunnen worden om zware ongevallen te voorkomen en om de gevolgen van   mogelijk zware ongevallen voor de mens of voor het leefmilieu op voldoende   geachte wijze te beperken, en een nieuw omgevingsveiligheidsrapport daarover   redelijkerwijs geen nieuwe of extra gegevens kan bevatten.<BR><BR>De   initiatiefnemer moet voor de opmaak van de veiligheidsnota een beroep doen op   een erkende deskundige.<BR><BR>De Vlaamse Regering kan nadere regels bepalen   betreffende de informatie en de modaliteiten waaraan het gemotiveerd verzoek   moet voldoen.<BR><BR>§ 5. De administratie neemt binnen een termijn van twintig   dagen na ontvangst van het verzoek, vermeld in paragraaf 4 een beslissing en   bezorgt ze onverwijld aan de initiatiefnemer. In voorkomend geval bevat de   beslissing tevens de voorwaarden die eraan zijn verbonden. Indien de beslissing   niet kan worden genomen binnen de hiervoor bedoelde termijn van twintig dagen   brengt de administratie de initiatiefnemer hiervan schriftelijk op de hoogte   binnen deze termijn. In die kennisgeving geeft de administratie aan wanneer de   beslissing uiterlijk zal worden genomen.<BR><BR>§ 6. In geval van een positieve   beslissing wordt die beslissing en de veiligheidsnota door de initiatiefnemer   gevoegd bij de vergunningsaanvraag.
-
-## [AFDELING 2 AANMELDING EN INHOUDSAFBAKENING VAN HET VOORGENOMEN OMGEVINGSVEILIGHEIDSRAPPORT (ing. decr. 18 december 2002, art. 4)]
+§1. Het milieueffectrapport wordt opgesteld onder de verantwoordelijkheid en op kosten van de initiatiefnemer. Om het milieueffectrapport op te stellen, doet de initiatiefnemer een beroep op een erkende MER-coördinator, die een team van deskundigen samenstelt. Het team bestaat uit erkende MER-deskundigen als het gaat om een project-MER.<br>
+<br>
+§2. De initiatiefnemer stelt aan de MER-coördinator alle relevante informatie ter beschikking en verleent alle medewerking opdat de MER-coördinator zijn taak naar behoren kan vervullen.<br>
+<br>
+§3. De erkende MER-coördinator en de deskundigen mogen geen persoonlijk belang hebben bij de realisatie van het voorgenomen plan, programma, project of de alternatieven ervoor. Ze voeren hun opdracht volledig onafhankelijk uit.<br>
+<br>
+De onafhankelijkheid van de erkende MER-coördinator en de deskundigen wordt beoordeeld op het niveau van de individuele natuurlijke persoon.<br>
+<br>
+Als de erkende MER-coördinator en de deskundigen betrokken zijn bij de opmaak van een plan-MER voor een plan of programma, belet de onafhankelijk-heidsvereiste van de erkende MER-coördinator en de deskundigen niet dat ze nadien de milieubeoordeling uitvoeren van een project waarvoor het eerder vastgestelde plan of programma het kader voor de vergunningverlening vormt.<br>
+<br>
+De onafhankelijkheidsvereiste van de erkende MER-coördinator en de deskun-digen belet evenmin dat een MER-coördinator of deskundige bij de overheid werkt die het plan of programma opstelt, op voorwaarde dat er op het niveau van de administratie wordt voorzien in een functionele scheiding tussen enerzijds de MER-coördinator en de deskundigen en anderzijds de natuurlijke personen die belast zijn met de opmaak van het plan of programma.
 
 ### ART. 4.5.2.
 
-<p>§ 1. Voor de initiatiefnemer de vergunningsaanvraag indient, meldt hij aan de administratie zijn voornemen om een OVR op te stellen.<br>
-<br>
-Die aanmelding bevat ten minste:<br>
-1° een beschrijving van het project, met inbegrip van een beknopte beschrijving van de overwogen alternatieven voor het project of voor onderdelen ervan;<br>
-2° de reden van de rapportageplicht van de inrichting;<br>
-3° de vergunningen die moeten worden aangevraagd en in voorkomend geval de bestaande vergunningstoestand;<br>
-4° een beschrijving van het procesverloop, met in voorkomend geval een beschrijving van het participatietraject;<br>
-5° in voorkomend geval de gegevens die de administratie nodig heeft voor het aanvangen van de grensoverschrijdende informatie-uitwisseling, vermeld in paragraaf 2;<br>
-6° de relevante gegevens over de voorgestelde erkende deskundige, vermeld in artikel 4.5.5, in voorkomend geval aangevuld met de lijst van deskundigen die de erkende deskundige zullen bijstaan en de taakverdeling tussen de deskundigen;<br>
-7° overeenkomstig de vereisten van artikel 4.5.6 en van het v.r.-richtlijnenboek, een beschrijving van de inhoudelijke aanpak, met inbegrip van de methodologie van het OVR;<br>
-8° in voorkomend geval een verzoek tot advies over de te verstrekken informatie, vermeld in artikel 4.5.6;<br>
-9° in voorkomend geval de gronden voor de vraag tot onttrekking aan bekendmaking van de aanmelding of aangeduide delen ervan.<br>
-<br>
-De administratie kan aan de initiatiefnemer steeds vragen om aanvullende informatie te verstrekken. De procedure kan pas worden voortgezet nadat de administratie de door haar gevraagde informatie heeft ontvangen.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de informatie die in aanmelding opgenomen moet worden. Dit kan zowel gaan om aanvullende informatie die niet wordt vermeld in het tweede lid als om een verdere verduidelijking van de informatie vermeld in het tweede lid.<br>
-<br>
-§ 2. Als uit de aanmelding, vermeld in paragraaf 1, blijkt dat het project ten gevolge van een zwaar ongeval betekenisvolle effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen dat op 17 maart 1992 in Helsinki werd ondertekend, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, meldt de administratie het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, met de vraag of ze hun commentaar aan de administratie kunnen meedelen. Die melding omvat ten minste de volgende informatie:<br>
-1° een afschrift van de aanmelding, vermeld in paragraaf 1;<br>
-2° een beschrijving van de rapportageprocedure die op het voorgenomen project van toepassing is;<br>
-3° informatie over de vergunningsplicht waaraan het voorgenomen project onderworpen is.<br>
-<br>
-De administratie brengt de initiatiefnemer ervan op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie werd gemeld.<br>
-<br>
-§ 3. De administratie neemt een beslissing over de opstellers van het OVR, vermeld in artikel 4.5.5, en deelt haar beslissing aan de initiatiefnemer mee binnen de termijn en op de wijze die wordt bepaald door de Vlaamse Regering.<br>
-<br>
-§ 4. Als de aanmelding, vermeld in paragraaf 1, een verzoek tot advies als vermeld in paragraaf 1, tweede lid, 8°, bevat, verleent de administratie een advies over de informatie die de initiatiefnemer overeenkomstig artikel 4.5.6 moet verstrekken.<br>
-<br>
-§ 5. De administratie maakt de aanmelding, vermeld in paragraaf 1, binnen de door de Vlaamse Regering bepaalde termijn bekend op haar website.<br>
-<br>
-Als de initiatiefnemer in de aanmelding een vraag stelde tot onttrekking aan bekendmaking van de aanmelding of delen ervan, maakt de administratie in haar beslissing een belangenafweging overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018. De administratie kan de gegevens in kwestie geheel of gedeeltelijk onttrekken aan bekendmaking. Als ze beslist tot gehele of gedeeltelijke onttrekking aan bekendmaking van de aangeduide gegevens, moet ze de gegevens die aan bekendmaking worden onttrokken, opnemen in een bijlage. De bijlage wordt niet bekendgemaakt.<br>
-<br>
-Tegen de beslissing tot onttrekking aan bekendmaking staat beroep open overeenkomstig artikel II.48 tot en met artikel II.51 van het Bestuursdecreet van 7 december 2018.<br>
-<br>
-§ 6. De Vlaamse Regering kan nadere regels vaststellen voor de aanmeldingsprocedure, de grens- en gewestgrensoverschrijdende procedure en de procedure van adviesverlening vanwege de administratie.<br>
-<br>
-§ 7. De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag aan de administratie vragen dat het OVR inhoudelijk op zijn kwaliteit wordt getoetst.<br>
-<br>
-In de gevallen, vermeld in het eerste lid, toetst de administratie het OVR inhoudelijk aan:<br>
-1° de beslissing, vermeld in paragraaf 3;<br>
-2° de beschrijving van de inhoudelijke aanpak van het OVR, vermeld in paragraaf 1, tweede lid, 7° ;<br>
-3° in voorkomend geval het advies, vermeld in paragraaf 4;<br>
-4° de vereiste gegevens, vermeld in artikel 4.5.6;<br>
-5° in voorkomend geval de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in paragraaf 2.<br>
-<br>
-Het resultaat van de toetsing leidt tot de voorlopige goed- of afkeuring van het OVR.<br>
-<br>
-De administratie bezorgt haar beslissing over de voorlopige goed- of afkeuring van het OVR binnen een door de Vlaamse Regering bepaalde termijn aan de initiatiefnemer.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de voorlopige goed- of afkeuring van het OVR en voor de bekendmaking ervan.</p>
+<p>De bepalingen van titel V, hoofdstuk VI, zijn van toepassing op de erkenning van coördinatoren en deskundigen.</p>
+
+## Afdeling 2. Vlaams expertisecentrum m.e.r.
 
 ### ART. 4.5.3.
 
-<P>...</P>
+<p>§1. Het Vlaams expertisecentrum m.e.r. verzamelt, beheert en actualiseert de wetenschappelijke onderbouwingen en informatie die nodig zijn om de kwaliteit en de uniformiteit van de milieubeoordeling te garanderen, en het stelt die wetenschappelijke onderbouwingen en informatie ook ter beschikking van:<br>
+1°&nbsp;&nbsp; &nbsp;het publiek;<br>
+2°&nbsp;&nbsp; &nbsp;de initiatiefnemers;<br>
+3°&nbsp;&nbsp; &nbsp;de erkende MER-coördinatoren;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de deskundigen;<br>
+5°&nbsp;&nbsp; &nbsp;de bevoegde overheden.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. faciliteert de samenwerking van de erkende MER-deskundigen, de erkende MER-coördinatoren en de adviesinstanties om een kennisnetwerk over milieueffectrapportage te onderhouden.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. vervult zijn taken op objectieve en onafhankelijke wijze en ziet erop toe dat het zich niet bevindt in een situatie die tot een belangenconflict aanleiding geeft.<br>
+<br>
+§2. Op verzoek van het Vlaams expertisecentrum m.e.r. bezorgt de initiatiefne-mer de data die zijn gebruikt om het milieueffectrapport op te maken, aan het Vlaams expertisecentrum m.e.r. De Vlaamse Regering bepaalt de voorwaarden voor de voormelde bezorging van data.</p>
+
+## Afdeling 3. Monitoring
 
 ### ART. 4.5.4.
 
-Als de initiatiefnemer aantoont dat bepaalde in de inrichting of in een deel van de inrichting zelf aanwezige stoffen geen zwaar ongeval teweeg kunnen brengen overeenkomstig de criteria, bedoeld in artikel 12, § 5, van het samenwerkingsakkoord, kan de administratie beslissen dat de gegevens van het omgevingsveiligheidsrapport beperkt worden tot diegene die van belang zijn voor de voorkoming van de resterende risico's op zware ongevallen en voor de beperking van de gevolgen daarvan voor mens en milieu.<br /><br />Als de administratie beslist om de gegevens van het omgevingsveiligheidsrapport te beperken, stuurt ze haar beslissing en alle nodige informatie onmiddellijk en in ieder geval voor de vergunningsbeslissing naar de Commissie van de Europese Gemeenschap.  <span class="reference">(ing. decr. 18 december 2002, art. 4, I: 13 februari 2003)</span> ]
-
-## [AFDELING 3 OPSTELLEN VAN HET OMGEVINGSVEILIGHEIDSRAPPORT (ing. decr. 18 december 2002, art. 4)]
+De bevoegde overheid gaat de aanzienlijke gevolgen na voor het milieu van de uitvoering van plannen en programma’s waarvoor een plan-MER is opgesteld, onder meer om onvoorziene negatieve gevolgen in een vroeg stadium te kunnen identificeren en passende herstellende maatregelen te kunnen nemen.<br>
+<br>
+Om te voldoen aan de bepalingen van het eerste lid, kunnen, als dat passend is, de bestaande monitoringsregelingen worden gebruikt om overlapping van monitoring te vermijden.<br>
+<br>
+De resultaten van de monitoring, vermeld in het eerste lid, worden beschik-baar gesteld voor de instanties, vermeld in artikel 4.4.6, §2, en voor het publiek.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de monitoring en het ter beschikking stellen van de resultaten ervan, vermeld in het eerste en het derde lid.
 
 ### ART. 4.5.5.
 
-§ 1. Het omgevingsveiligheidsrapport wordt opgesteld onder de   verantwoordelijkheid en op kosten van de initiatiefnemer.<BR><BR>De   initiatiefnemer moet hiervoor een beroep doen op een erkende deskundige. Hij   stelt aan de erkende deskundige alle relevante informatie ter beschikking die   voorhanden is. Hij verleent alle medewerking opdat de erkende deskundige zijn   taak naar behoren kan vervullen.<BR><BR>§ 2. De erkende deskundige mag geen   belang hebben bij de desbetreffende exploitatie. Hij voert zijn opdracht   volledig onafhankelijk uit.<BR><BR>§ 3. Tijdens het opstellen van het   omgevingsveiligheidsrapport is de erkende deskundige gehouden tot overleg met de   administratie. De erkende deskundige moet in voorkomend geval het advies,   vermeld in artikel 4.5.2, § 4, in acht nemen.
+Er wordt over projecten of over categorieën van projecten die gedurende een bepaalde periode zijn uitgevoerd, die aanzienlijke nadelige milieueffecten kunnen veroorzaken en waarvoor een project-MER is opgesteld, een evaluatie of een monitoringsonderzoek van de aanzienlijke nadelige milieueffecten ten gevolge van de bouw en exploitatie van de projecten georganiseerd.<br>
+<br>
+Om te voldoen aan de bepalingen van het eerste lid, kunnen, als dat passend is, bestaande monitoringsregelingen op grond van andere wetgeving worden gebruikt om overlapping van monitoring te vermijden.<br>
+<br>
+Het soort parameters dat wordt gemonitord, en de looptijd van de monitoring zijn evenredig met de aard, de locatie en de omvang van het project en met het belang van de milieueffecten.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de procedure van de evaluatie en de monitoring, vermeld in het eerste lid.
 
 ### ART. 4.5.6.
 
-Onverminderd de toepassing van artikel 4.5.4 bevat het omgevingsveiligheidsrapport tenminste de volgende gegevens, in de mate dat die beschikbaar kunnen zijn:<br>
-1° inlichtingen over het beheersysteem en de organisatie van de inrichting met het oog op de preventie van zware ongevallen. Deze inlichtingen moeten de punten bestrijken die in artikel 10 van het samenwerkingsakkoord zijn vervat;<br>
-2° presentatie van de omgeving van de inrichting:<br>
-a) een beschrijving van de locatie, met inbegrip van de geografische ligging, de meteorologische, geologische en hydrografische gegevens met inbegrip van de voor de veiligheid relevante elementen van de voorgeschiedenis;<br>
-b) een identificatie van de externe gevaarbronnen en gevoelige omgevingsobjecten alsmede de informatie die over deze bronnen beschikbaar is;<br>
-c) een beschrijving van de zones die door een zwaar ongeval kunnen worden getroffen;<br>
-3° beschrijving van de inrichting:<br>
-a) identificatie van de installaties en activiteiten binnen de inrichting die een zwaar ongeval teweeg kunnen brengen;<br>
-b) beschrijving van de activiteiten en producten uit de gedeelten van de inrichting die belangrijk zijn vanuit het oogpunt van de veiligheid;<br>
-c) beschrijving van procédés en werkwijzen;<br>
-d) beschrijving van de gevaarlijke stoffen:<br>
-1) een lijst van de gevaarlijke stoffen, die bestaat uit:<br>
-- de beschrijving van de gevaarlijke stoffen: chemische naam, CAS-nummer, naam volgens de IUPAC-nomenclatuur;<br>
-- de maximale hoeveelheid van de gevaarlijke stoffen die aanwezig zijn of kunnen zijn;<br>
-2) fysische, chemische en toxicologische kenmerken en gegevens, zowel over de onmiddellijk als over later optredende gevaren voor mens en milieu;<br>
-3) het fysische of chemische gedrag onder normale gebruiksvoorwaarden of bij voorzienbare ongevallen;<br>
-4° identificatie en analyse van de zware ongevallen met mogelijke gevolgen voor de omgeving (mens en milieu) en de preventiemiddelen:<br>
-a) gedetailleerde beschrijving van de scenario's voor mogelijke zware ongevallen en de omstandigheden waarin die zich kunnen voordoen, inclusief een samenvatting van de voorvallen die bij het op gang brengen van deze scenario's een belangrijke rol kunnen spelen, ongeacht of de oorzaken binnen of buiten de installatie liggen;<br>
-b) beschrijving van de mogelijke oorzaken van zware ongevallen en van de omstandigheden waarin zo'n zwaar ongeval zich zou kunnen voordoen, vergezeld van een beschrijving van de genomen preventieve maatregelen;<br>
-c) kwantificering van de risico's, zoals aangegeven in het v.r.-richtlijnenboek, verbonden aan de in a) beschreven scenario's;<br>
-d) beoordeling van de omvang en de ernst van de mogelijke gevolgen van de geïdentificeerde zware ongevallen;<br>
-e) beschrijving van de technische parameters die van belang zijn voor de veiligheid van de installaties en van de apparatuur die werd gepland voor de veiligheid van de installaties;<br>
-5° beschermings- en interventiemaatregelen om de gevolgen van een zwaar ongeval te beperken:<br>
-a) beschrijving van de technische parameters die van belang zijn voor de veiligheid van de installaties en van de apparatuur die werd gepland voor de veiligheid van de installaties;<br>
-b) beschrijving van de apparatuur die op de installatie is aangebracht om de gevolgen van zware ongevallen te beperken; organisatie van het alarm en de interventie;<br>
-c) beschrijving van de inzetbare interne of externe middelen;<br>
-d) beschrijving van het interne noodplan, bedoeld in artikel 15 van het samenwerkingsakkoord;<br>
-6° een beschrijving en beoordeling van de preventieve en gevolgbeperkende maatregelen van technische en organisatorische aard die de initiatiefnemer zal nemen, met inbegrip van de termijn waarop die verwezenlijkt zullen worden;<br>
-7° een schets van alternatieven die redelijkerwijze in beschouwing kunnen worden genomen naar locatie, inplanting, procédé en hoeveelheden gevaarlijke stoffen, inbegrepen het nulalternatief en de sluiting van de inrichting;<br>
-8° een opgave van de moeilijkheden, technische leemten of ontbrekende kennis die de initiatiefnemer en/of de deskundigen eventueel hebben ondervonden bij het verzamelen en verwerken van de vereiste informatie en de gevolgen daarvan voor de wetenschappelijkheid van het rapport;<br>
-9° een niet-technische samenvatting van de verstrekte gegevens zoals omschreven in 1° tot en met 8°. (ing. decr. 18 december 2002, art. 4, I: 13 februari 2003) ]
+...
 
-## [AFDELING 4 HET ONDERZOEK EN HET GEBRUIK VAN HET OMGEVINGSVEILIGHEIDSRAPPORT (ing. decr. 18 december 2002, art. 4)]
+## AFDELING 4 ...
 
 ### ART. 4.5.7.
 
-<p>§ 1. Op de wijze, vermeld in de wetgeving van de desbetreffende vergunningsprocedure, bezorgt de initiatiefnemer het OVR aan de overheid die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het project.<br>
-<br>
-De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag bij de overheid, vermeld in het eerste lid, aan de administratie vragen om overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, bepaalde delen uit het OVR aan het openbaar onderzoek binnen de vergunningsprocedure te onttrekken. Hij voegt bij zijn vraag tevens het voltooide OVR toe en duidt over welke gegevens het gaat en op welke gronden de onttrekking aan de openbaarheid moet gebeuren. De administratie maakt een belangenafweging overeenkomstig het artikel II.36 in kwestie. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan de openbaarheid onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de openbaarheid van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage bij het OVR wordt niet ter inzage gelegd van het publiek tijdens de vergunningsprocedure.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen voor de samenwerking en informatie-uitwisseling van de administratie met de administraties betrokken in de vergunningsprocedure.<br>
-<br>
-§ 2. Na raadpleging van de adviesverlenende instanties en na afsluiting van het openbaar onderzoek van de vergunningsprocedure, toetst de administratie het OVR inhoudelijk:<br>
-1° aan de beslissing, vermeld in artikel 4.5.2, § 3;<br>
-2° aan de beschrijving van de inhoudelijke aanpak van het OVR, vermeld in artikel 4.5.2, § 1, tweede lid, 7° ;<br>
-3° in voorkomend geval aan het advies, vermeld in artikel 4.5.2, § 4;<br>
-4° aan de vereiste gegevens, vermeld in artikel 4.5.6;<br>
-5° aan de adviezen, opmerkingen en commentaren van de instanties en het publiek over het OVR, verstrekt naar aanleiding van het openbaar onderzoek;<br>
-6° in voorkomend geval aan de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in artikel 4.5.2, § 2, en het publiek over het OVR, verstrekt naar aanleiding van het openbaar onderzoek in grensoverschrijdend verband.<br>
-<br>
-Het resultaat van de toetsing wordt opgenomen in het OVR-verslag en leidt tot de goed- of afkeuring van het OVR.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de wijze van raadpleging van de adviesverlenende instanties, vermeld in het eerste lid, en van de bevoegde autoriteiten, vermeld in het eerste lid, 5°, door de administratie.<br>
-<br>
-§ 3. De administratie bezorgt haar beslissing over de goed- of afkeuring van het OVR:<br>
-1° aan de initiatiefnemer;<br>
-2° aan de administraties, overheidsinstellingen en openbare besturen die de Vlaamse Regering heeft aangewezen;<br>
-3° in voorkomend geval aan de bevoegde autoriteiten, vermeld in artikel 4.5.2, § 2;<br>
-4° aan de overheid die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het project.<br>
-De beslissing bevat ook een afschrift van het OVR-verslag, vermeld in paragraaf 2, tweede lid.<br>
-<br>
-§ 4. De Vlaamse Regering kan nadere regels vaststellen voor de goed- of afkeuring van het OVR en de bekendmaking ervan.</p>
+<p>...</p>
 
 ### ART. 4.5.8.
 
-§ 1. Vanaf de betekening van de beslissing, vermeld in artikel 4.5.7, § 3, liggen het OVR, het OVR-verslag, vermeld in artikel 4.5.7, § 2, tweede lid, en in voorkomend geval het advies, vermeld in artikel 4.5.2, § 4, ter inzage bij de administratie.<br>
-<br>
-§ 2. De initiatiefnemer kan aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, gegevens in de in § 1 bedoelde stukken aan terinzagelegging moet onttrekken. Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het voltooide OVR aan de administratie bezorgt. Hij duidt in zijn vraag aan over welke gegevens het gaat en op welke gronden de onttrekking aan de ter inzagelegging moet gebeuren.<br>
-<br>
-De administratie neemt een beslissing over de vraag van de initiatiefnemer uiterlijk op het moment van de goed- of afkeuring van het OVR. Ze maakt een belangenafweging overeenkomstig het bedoelde artikel. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan ter inzagelegging onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de ter inzagelegging van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage wordt niet ter inzage gelegd van het publiek.<br>
-<br>
-§ 3. Bij de verdere besluitvorming over het voorgenomen project moet rekening worden gehouden met de noodzaak om risicoactiviteiten gescheiden en op voldoende afstand te houden van woongebieden, door publiek bezochte gebieden, ruimtelijk kwetsbare gebieden en door de Vlaamse regering nader te omschrijven bijzonder kwetsbare gebieden.<br>
-<br>
-De Vlaamse regering kan nadere regelen vaststellen inzake het gebruik van het omgevingsveiligheidsrapport bij de verdere besluitvorming over het voorgenomen project en inzake de bekendmaking van het besluit over het project.<br>
-<br>
-§ 4. De Vlaamse regering kan nadere regelen vaststellen betreffende de wijze waarop de bevoegde autoriteiten en de burgers van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.5.2, § 2, hun commentaar op het goedgekeurde omgevingsveiligheidsrapport en het voorgenomen project kunnen meedelen, en betreffende de wijze waarop hierover overleg wordt gepleegd.<br>
-<br>
-Het definitieve vergunningsbesluit betreffende het project wordt opgestuurd aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.5.2, § 2.<br>
-<br>
-§ 5. De Vlaamse Regering kan nadere regels vaststellen betreffende de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.5.2, § 2, op de hoogte wordt gebracht van een vergunningsaanvraag die al dan niet een OVR omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval te organiseren openbaar onderzoek.<br>
-<br>
-De Vlaamse Regering kan tevens nadere regels vaststellen betreffende het verstrekken van een advies over de vergunningsaanvraag, vermeld in het eerste lid, aan de bevoegde autoriteit van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.5.2, § 2.<br>
-<br>
-De Vlaamse Regering kan ten slotte nadere regels vaststellen betreffende de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.5.2, § 2, op de hoogte wordt gebracht van een beslissing over een vergunningsaanvraag die al dan niet een OVR omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval ter beschikking stellen van deze beslissing aan het publiek.
+...
 
-## [HOOFDSTUK VI GEMEENSCHAPPELIJKE ASPECTEN VAN KWALITEITSZORG
+## HOOFDSTUK VI...
 
-## AFDELING 1 DE ERKENNING VAN DESKUNDIGEN EN COÖRDINATOREN (ing. decr. 18 december 2002, art. 4)]
+## AFDELING 1 ...
 
 ### ART. 4.6.1.
 
-Op de erkenning van deskundigen en coördinatoren zijn de bepalingen van   titel V, hoofdstuk 6, van toepassing.
+...
 
-## [AFDELING 2 DE RICHTLIJNENBOEKEN, EVALUATIE EN MONITORING (ing. decr. 18 december 2002, art. 4)]
+## AFDELING 2 ...
 
 ### ART. 4.6.2.
 
-§ 1. De administratie stelt een richtlijnenboek inzake milieueffectrapportage op. Dit m.e.r.-richt-lijnenboek is het referentiewerk waarop de administratie, de initiatiefnemer, de erkende coördinatoren en de deskundigen zich baseren voor het goede verloop van de rapportage en voor de inhoud van een plan-MER of project-MER, met inbegrip van de methodologische aspecten.<br>
-<br>
-De bijzondere en in voorkomend geval de aanvullende bijzondere richtlijnen kunnen op gemotiveerde wijze het m.e.r.-richtlijnenboek aanvullen, strengere voorschriften bevatten of er in minder strenge zin van afwijken.<br>
-<br>
-Het advies, vermeld in artikel 4.3.4, § 4, tweede lid, omvat de bijzondere en in voorkomend geval de aanvullende bijzondere richtlijnen, vermeld in het tweede lid.<br>
-<br>
-§ 2. De administratie stelt een richtlijnenboek inzake veiligheidsrapportage op. Dit v.r.-richtlijnenboek is het referentiewerk waarop de administratie, de initiatiefnemer en de deskundigen zich baseren voor het goede verloop van de rapportage en de inhoud van een ruimtelijk veiligheidsrapport, een omgevingsveiligheidsrapport of een veiligheidsnota, met inbegrip van de methodologische aspecten.<br>
-<br>
-De bijzondere en in voorkomend geval aanvullende bijzondere richtlijnen kunnen op gemotiveerde wijze het v.r.-richtlijnenboek aanvullen, strengere voorschriften bevatten of er in minder strenge zin van afwijken.<br>
-<br>
-Het advies, vermeld in artikel 4.5.2, § 4, omvat de bijzondere en in voorkomend geval de aanvullende bijzondere richtlijnen, vermeld in het tweede lid.<br>
-<br>
-§ 3. De administratie is verantwoordelijk voor de geregelde actualisering van de richtlijnenboeken op basis van de wetenschappelijke en maatschappelijke ontwikkelingen, alsook de evaluatie van de ervaringen met milieueffect- en veiligheidsrapportages.
+...
 
 ### ART. 4.6.3.
 
-§ 1. Er wordt over een project of over categorieën van projecten die gedurende een bepaalde periode zijn uitgevoerd, die aanzienlijke nadelige milieueffecten kunnen veroorzaken en waarvoor een project-MER is opgesteld, een evaluatie of een monitoringonderzoek georganiseerd van de aanzienlijke nadelige milieueffecten ten gevolge van de bouw en exploitatie van het project of de projecten.<br>
-<br>
-Als dat passend is, kan worden gebruikgemaakt van bestaande monitoringregelingen op grond van andere wetgeving om overlapping van monitoring te vermijden.<br>
-<br>
-§ 2. Het soort parameters dat wordt gemonitord, en de looptijd van de monitoring moeten evenredig zijn met de aard, de locatie en de omvang van het project en met het belang van de milieueffecten.<br>
-<br>
-§ 3. De Vlaamse regering kan nadere regelen vaststellen voor de procedure van de evaluatie en het monitoringonderzoek.
+...
 
 ### ART. 4.6.3bis.
 
-§ 1. De initiatiefnemer gaat de aanzienlijke gevolgen voor het milieu van de tenuitvoerlegging van plannen en programma's na, onder meer om onvoorziene negatieve gevolgen in een vroeg stadium te kunnen identificeren en de passende herstellende maatregelen te kunnen nemen.<br /><br />§ 2. Om te voldoen aan de bepalingen van paragraaf 1 kunnen, als dat passend is, de bestaande monitoringsregelingen worden gebruikt om overlapping van monitoring te vermijden.<br /><br />§ 3. De Vlaamse Regering kan nadere regels vaststellen voor de monitoring.
+...
 
-## [AFDELING 3 DE ADVIESCOMMISSIE (ing. decr. 18 december 2002, art. 4)]
+## AFDELING 3 ...
 
 ### ART. 4.6.4.
 
-§ 1. Op gemotiveerd verzoek van de initiatiefnemer kan de administratie na advies van een adviescommissie de door de initiatiefnemer gespecificeerde elementen van volgende beslissingen in heroverweging nemen:<br>
-1° inzake milieueffectrapportage :<br>
-a) het toepassen van de verplichting tot het opstellen van een project-MER,vermeld in artikel 4.3.3, § 3;<br>
-b) ...;<br>
-c) de afkeuring van het plan-MER, vermeld in artikel 4.2.10, § 2;<br>
-2° inzake veiligheidsrapportage:<br>
-a)...;<br>
-b) de afkeuring van het ruimtelijk veiligheidsrapport, vermeld in artikel 4.4.4, § 2.<br>
-<br>
-§ 2. De verzoeker betekent zijn verzoek aan de administratie, of geeft het af tegen ontvangstbewijs, binnen een termijn van twintig dagen na ontvangst van de beslissing, bedoeld in 1.<br>
-<br>
-§ 3. Binnen een termijn van twintig dagen na ontvangst van het verzoek, bedoeld in § 2, wijst de leidend ambtenaar van de administratie drie of vijf leden van de adviescommissie aan. Deze leden zijn:<br>
-1° ofwel, deskundigen met ervaring op het gebied van de beoordeling van milieueffecten of risico's op zware ongevallen die geen rapporten opstellen overeenkomstig dit decreet; ze kunnen wel actief zijn in andere gewesten, in het kader van federale regelgeving of in het buitenland;<br>
-2° ofwel, deskundigen op het vlak van de problematiek die aan de adviescommissie wordt voorgelegd die evenwel geen erkende deskundigen zijn.<br>
-<br>
-De leden van de adviescommissie wijzen een voorzitter aan.<br>
-<br>
-Ze mogen geen belang hebben bij het al dan niet realiseren van de voorgenomen actie of de alternatieven en mogen niet hebben deelgenomen aan de beslissingen in het kader van de desbetreffende rapportages.<br>
-<br>
-§ 4. De adviescommissie formuleert een advies binnen een termijn van veertig dagen na ontvangst van het verzoek, bedoeld in § 2, en deelt het advies onverwijld en uiterlijk binnen een termijn van tien dagen mee aan de administratie.<br>
-<br>
-Voor zover het advies unaniem is, is het bindend.<br>
-<br>
-§ 5. Als het advies bindend is, volgt de administratie het onverwijld op.<br>
-<br>
-In alle andere gevallen neemt de administratie een beslissing onverwijld en binnen een termijn van zeventig dagen na ontvangst van het verzoek, bedoeld in § 2. Ze houdt daarbij rekening met het advies.<br>
-<br>
-De administratie keurt het rapport goed of af. Als de administratie het rapport afkeurt, geeft ze alle punten aan waarop het tekortschiet.<br>
-<br>
-§ 6. De administratie bezorgt de beslissing onverwijld en binnen een termijn van tachtig dagen na ontvangst van het verzoek, bedoeld in § 2, aan:<br>
-1° de initiatiefnemer en de verzoeker, door betekening;<br>
-2° in voorkomend geval de door de Vlaamse regering aangewezen betrokkenen.<br>
-<br>
-§ 7. De Vlaamse regering kan nadere regelen vaststellen betreffende de instelling, de vergoeding en de werking van de adviescommissie.
+...
 
-## [HOOFDSTUK VII TOEZICHTS- EN STRAFBEPALINGEN (ing. decr. 18 december 2002, art. 4)]
+## HOOFDSTUK VII ...
 
 ### ART. 4.7.1.
 
@@ -1301,6 +1049,350 @@ De administratie keurt het rapport goed of af. Als de administratie het rapport 
 ### ART. 4.7.2.
 
 ...
+
+## TITEL IV/1. VEILIGHEIDSRAPPORTAGE
+
+## Hoofdstuk 1. Definities, procedurele bepalingen, doelstellingen en kenmerken van de veiligheidsrapportage
+
+## Afdeling 1. Definities
+
+### ART 4/1.1.1.
+
+In deze titel wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;actie: een ruimtelijk uitvoeringsplan of project;<br>
+2°&nbsp;&nbsp; &nbsp;administratie: de diensten die de Vlaamse regering aanwijst die bevoegd zijn voor het leefmilieu;<br>
+3°&nbsp;&nbsp; &nbsp;betekening: aangetekend of met de elektronische post verzenden;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;initiatiefnemer:<br>
+a)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor de ruimtelijke uitvoeringsplannen waarbij het ruimtelijk uitvoeringsplan het kader vormt voor een of meer projecten van een of meer privaat- of publiekrechtelijke natuurlijke of rechtsperso-nen: de overheid die het initiatief neemt om een ruimtelijk uitvoeringsplan op te maken conform artikel 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Co-dex Ruimtelijke Ordening van 15 mei 2009, tenzij die privaat- of publiek-rechtelijke natuurlijke of rechtspersonen een schriftelijk verzoek tot overname van die verplichtingen indienen bij de overheid die het initiatief neemt om een ruimtelijk uitvoeringsplan op te maken conform artikel 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en die overheid het verzoek inwilligt;<br>
+b)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor andere ruimtelijke uitvoeringsplannen dan de ruimtelijke uitvoeringsplannen, vermeld in punt a): de overheid die het ini-tiatief neemt om een ruimtelijk uitvoeringsplan op te maken conform ar-tikel 2.2.7, 2.2.12 en 2.2.18 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
+c)&nbsp;&nbsp; &nbsp;voor de verplichtingen voor projecten: de aanvrager van een vergunning voor een project;<br>
+5°&nbsp;&nbsp; &nbsp;omgevingsveiligheidsrapport, afgekort OVR: een openbaar document waarin, naast een beschrijving van het veiligheidsbeheersysteem van een inrichting, van een project en van de redelijkerwijze in beschouwing te nemen alterna-tieven de scenario's voor zware ongevallen in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geïdentifi-ceerd, geanalyseerd en geëvalueerd, en waarin wordt aangetoond welke maatregelen kunnen en zullen worden getroffen om die zware ongevallen te voorkomen en de gevolgen ervan voor mens en milieu te beperken;<br>
+6°&nbsp;&nbsp; &nbsp;publiek: een of meer natuurlijke of rechtspersonen en hun verenigingen, organisaties of groepen;<br>
+7°&nbsp;&nbsp; &nbsp;project: een voorgenomen vergunningsplichtige activiteit of een vergunnings-plichtige activiteit die moet worden hervergund als de geldigheidsduur van de lopende vergunning is verstreken, die bestaat uit de exploitatie van een inrichting. De exploitatie van een inrichting is het hele gebied dat door een exploitant wordt beheerd en waar gevaarlijke stoffen aanwezig zijn in een of meer installaties, met inbegrip van gemeenschappelijke of bijbehorende infrastructuur of activiteiten;<br>
+8°&nbsp;&nbsp; &nbsp;rapport: een RVR of een OVR;<br>
+9°&nbsp;&nbsp; &nbsp;ruimtelijk veiligheidsrapport, afgekort RVR: een openbaar document waarin van een voorontwerp van ruimtelijk uitvoeringsplan en van de redelijkerwijze in beschouwing te nemen alternatieven een wetenschappelijke beoordeling wordt gegeven over de geplande ontwikkelingen bij nieuwe of bestaande inrichtingen en hun omgeving, als de vestigingsplaats of de ontwikkelingen zelf het risico op een zwaar ongeval kunnen vergroten of de gevolgen ervan ernstiger kunnen maken;<br>
+10°&nbsp;&nbsp; &nbsp;samenwerkingsakkoord van 16 februari 2016: het samenwerkingsakkoord van 16 februari 2016 tussen de federale staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken;<br>
+11° veiligheidsnota: een openbaar document waarin aangetoond wordt dat de verandering van een vergunde inrichting geen bijkomend aanzienlijk risico van zware ongevallen voor mens en milieu meebrengt ten opzichte van de be-staande toestand zoals die beschreven is in een OVR dat goedgekeurd is voor die inrichting, en waarbij voor die verandering wordt aangetoond welke maatregelen genomen zijn of genomen kunnen worden om zware ongevallen te voorkomen en om de gevolgen ervan voor mens en milieu te beperken;<br>
+12°&nbsp;&nbsp; &nbsp;veiligheidsrapportage, afgekort v.r.: de procedure die al dan niet leidt tot het opstellen en goedkeuren van een ruimtelijk veiligheidsrapport of een omge-vingsveiligheidsrapport over een voorgenomen actie en, in voorkomend geval, tot het gebruik ervan als hulpmiddel bij de besluitvorming omtrent deze actie.<br>
+<br>
+De definities in artikel 2 van het samenwerkingsakkoord van 16 februari 2016 gelden voor alle bepalingen van deze titel.
+
+## Afdeling 2. Algemene bepalingen over de procedures
+
+### ART 4/1.1.2.
+
+De termijnen gaan in:<br>
+1° &nbsp;&nbsp; &nbsp;in geval van betekening: op de derde werkdag na de dag van de verzending;<br>
+2° &nbsp;&nbsp; &nbsp;in geval van afgifte tegen ontvangstbewijs: op de dag na de datum van het ontvangstbewijs.<br>
+<br>
+Onder ontvangstbewijs wordt verstaan de schriftelijke of elektronische ontvangstbevestiging van een zending.<br>
+<br>
+Betekeningen en mededelingen van dezelfde beslissing of hetzelfde document aan meer dan een persoon gebeuren op dezelfde dag.<br>
+<br>
+De termijnen verstrijken om middernacht van de laatste dag.
+
+## Afdeling 3. Doelstelling en kenmerken
+
+### ART 4/1.1.3.
+
+De veiligheidsrapportage beoogt, in de besluitvorming over acties die een zwaar ongeval kunnen teweegbrengen, aan het milieubelang en de veiligheid en de gezondheid van de mens een plaats toe te kennen die evenwaardig is aan de sociale, economische en andere maatschappelijke belangen.<br>
+<br>
+Om de doelstelling, vermeld in het eerste lid, te realiseren, heeft de veilig-heidsrapportage de volgende essentiële kenmerken:<br>
+1°&nbsp;&nbsp; &nbsp;de systematische en wetenschappelijk verantwoorde analyse en evaluatie van de mogelijke gevolgen voor mens en milieu van een voorgenomen actie en van de redelijkerwijze in beschouwing te nemen alternatieven voor de actie of onderdelen ervan, en de beschrijving en evaluatie van de mogelijke maatre-gelen om de gevolgen van de voorgenomen actie op een samenhangende wijze te vermijden, te beperken, te verhelpen of te compenseren;<br>
+2°&nbsp;&nbsp; &nbsp;de kwaliteitsbeoordeling van de verzamelde informatie;<br>
+3°&nbsp;&nbsp; &nbsp;de actieve openbaarheid van de veiligheidsrapportage en de besluitvorming over de voorgenomen actie.<br>
+<br>
+De administratie beschikt over voldoende expertise om de rapporten te onderzoeken. Als dat nodig is, heeft ze toegang tot voldoende expertise om de rapporten te onderzoeken.
+
+## Afdeling 4. Relaties tussen rapportages
+
+### ART 4/1.1.4.
+
+In voorkomend geval wordt in latere rapportages, die worden opgesteld krachtens deze titel, rekening gehouden met de rapportages die krachtens deze titel zijn uitgevoerd in eerdere stadia van de besluitvorming en met de goedgekeurde rapporten die daarvan het resultaat waren.
+
+### ART 4/1.1.5.
+
+§1. Als verschillende rapportages moeten worden uitgevoerd met toepassing van deze titel of met toepassing van titel IV of andere gewestelijke of federale regelgeving, neemt de administratie op eigen initiatief of op verzoek van de initiatiefnemer(s) een beslissing over de mogelijkheid tot afstemming of integratie van de verschillende rapporten en, als dat mogelijk is, van de verschillende rapportages. Er wordt gestreefd naar een gelijktijdige uitvoering van de verschillende rapportages.<br>
+<br>
+De administratie neemt een beslissing over de wenselijkheid van de afstem-ming of integratie uiterlijk bij haar advies, vermeld in artikel 4/1.3.2, §4.<br>
+<br>
+§2. De Vlaamse Regering kan nadere regelen vaststellen voor de modaliteiten van de afstemming en integratie van de rapportages en rapporten in de gevallen, vermeld in dit artikel.<br>
+<br>
+De afstemming of integratie, vermeld in paragraaf 1, kan betrekking hebben op rapportages in verschillende beleidsdomeinen.
+
+## Afdeling 5. Doorwerking in de besluitvorming
+
+### ART 4/1.1.6.
+
+De overheid houdt bij haar beslissing over de voorgenomen actie en, in voorkomend geval, ook bij de uitwerking ervan rekening met het goedgekeurde rapport of de goedgekeurde rapporten en met de opmerkingen en commentaren die over het rapport of de rapporten zijn uitgebracht.<br>
+<br>
+De overheid motiveert elke beslissing over de voorgenomen actie in het bijzonder op de volgende punten:<br>
+1°&nbsp;&nbsp; &nbsp;de keuze voor de voorgenomen actie, een bepaald alternatief of bepaalde deelalternatieven, behalve wat het OVR betreft;<br>
+2°&nbsp;&nbsp; &nbsp;de aanvaardbaarheid van te verwachten of mogelijke gevolgen voor mens of milieu van het gekozen alternatief;<br>
+3°&nbsp;&nbsp; &nbsp;de maatregelen die in het rapport of de rapporten zijn voorgesteld.
+
+## Hoofdstuk 2. Veiligheidsrapportage over ruimtelijke uitvoeringsplannen
+
+### ART 4/1.2.1.
+
+De veiligheidsrapportage, vermeld in dit hoofdstuk, heeft betrekking op de opmaak van de ruimtelijke uitvoeringsplannen, vermeld in hoofdstuk II, titel II van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, om de verplichtingen, vermeld in artikel 25 van het samenwerkingsakkoord van 16 februari 2016, uit te voeren.<br>
+<br>
+De Vlaamse Regering stelt de criteria vast om te bepalen of voor een ruimte-lijk uitvoeringsplan al dan niet een RVR vereist is.
+
+### ART 4/1.2.2.
+
+§1. Het RVR wordt opgesteld onder de verantwoordelijkheid en op kosten van de initiatiefnemer.<br>
+<br>
+Om het RVR op te stellen, doet de initiatiefnemer een beroep op een erkende v.r.-deskundige. Hij stelt aan de erkende v.r.-deskundige alle relevante informatie ter beschikking die voorhanden is. Hij verleent alle medewerking opdat de erkende v.r.-deskundige zijn taak naar behoren kan vervullen.<br>
+<br>
+§2. Tijdens het opstellen van het RVR overlegt de erkende v.r.-deskundige met de administratie. De erkende v.r.-deskundige moet in voorkomend geval de schriftelijke richtlijnen die in de scopingnota, vermeld in artikel 2.2.4, §3, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, van de administratie geïntegreerd zijn, in acht nemen.
+
+### ART 4/1.2.3.
+
+Het RVR bestaat uit ten minste al de volgende onderdelen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een algemeen deel dat al de volgende informatie bevat:<br>
+a)&nbsp;&nbsp; &nbsp;een beschrijving van de doelstellingen en krachtlijnen van het vooront-werp van ruimtelijk uitvoeringsplan, met inbegrip van een kaart op aan-gepaste schaal;<br>
+b)&nbsp;&nbsp; &nbsp;een overzicht van de motieven voor de opmaak van het ruimtelijk uitvoe-ringplan;<br>
+c)&nbsp;&nbsp; &nbsp;een beschrijving van de in beschouwing genomen alternatieven voor het voorontwerp van ruimtelijk uitvoeringsplan of een schets van de redelij-kerwijze in beschouwing te nemen alternatieven voor bepaalde onderde-len ervan, telkens met inbegrip van de overwegingen ter zake van de ini-tiatiefnemer;<br>
+d)&nbsp;&nbsp; &nbsp;een vergelijking tussen de beschreven alternatieven en het voorontwerp van ruimtelijk uitvoeringsplan of de onderdelen ervan;<br>
+2°&nbsp;&nbsp; &nbsp;een deel over de invloed van het ruimtelijk uitvoeringsplan op de risico's op zware ongevallen voor mens en milieu, dat de volgende informatie bevat:<br>
+a)&nbsp;&nbsp; &nbsp;een beschrijving van de methodieken die zijn gebruikt voor de bepaling en de beoordeling van de risico's op zware ongevallen voor mens en milieu, met inbegrip van een opsomming en omschrijving van de relevante crite-ria die in het RVR gebruikt worden voor de afbakening van de risicozones;<br>
+b)&nbsp;&nbsp; &nbsp;in voorkomend geval, informatie over de risico’s op zware ongevallen voor mens en milieu die aan de bestaande inrichtingen zijn verbonden, en over de veiligheidsmaatregelen die bestaande inrichtingen hebben geno-men of kunnen nemen om zware ongevallen te voorkomen en om de ge-volgen ervan voor mens en milieu te beperken;<br>
+c)&nbsp;&nbsp; &nbsp;voor het voorontwerp van ruimtelijk uitvoeringsplan en de beschreven alternatieven, een wetenschappelijke beoordeling van de invloed van de in beschouwing genomen ontwikkelingen rond bestaande inrichtingen of van de mogelijke vestiging van nieuwe inrichtingen op de risico's op zware on-gevallen voor mens en milieu, met inbegrip van de afgebakende risicozo-nes;<br>
+d)&nbsp;&nbsp; &nbsp;aanbevelingen over de volgende elementen op basis van de wetenschap-pelijk beoordeling, vermeld in punt c):<br>
+1)&nbsp;&nbsp; &nbsp;de vastgelegde stedenbouwkundige voorschriften, onder meer in het licht van de vereiste om ook op lange termijn voldoende afstand te bewaren tussen de inrichtingen die vallen onder de toepassing van het samenwerkingsakkoord van 16 februari 2016, en bepaalde kwetsbare gebieden als vermeld in artikel 25, §2, van het voormelde samenwer-kingsakkoord;<br>
+2)&nbsp;&nbsp; &nbsp;de aanvullende maatregelen die bestaande inrichtingen kunnen nemen om zware ongevallen te voorkomen en de gevolgen daarvan voor mens en milieu te beperken om de risico's niet te vergroten;<br>
+e)&nbsp;&nbsp; &nbsp;een globale evaluatie van het voorontwerp van ruimtelijk uitvoeringsplan en van de beschreven alternatieven in het kader van het beleid om zware ongevallen te voorkomen en de gevolgen van die zware ongevallen voor mens en milieu te beperken;<br>
+3°&nbsp;&nbsp; &nbsp;een opgave van de moeilijkheden, technische leemten of ontbrekende kennis die de initiatiefnemer of de erkende deskundige eventueel heeft ondervonden bij het verzamelen en verwerken van de vereiste informatie en de implicaties die daaruit voortvloeien voor de wetenschappelijkheid van het rapport;<br>
+4°&nbsp;&nbsp; &nbsp;een niet-technische samenvatting van de verstrekte gegevens zoals omschreven in punt 1° tot en met 3°.
+
+### ART 4/1.2.4.
+
+De Vlaamse Regering kan nadere regelen vaststellen voor de opmaak, het onderzoek en het verdere gebruik van het RVR.
+
+## Hoofdstuk 3. Veiligheidsrapportage over de exploitatie van inrichtingen
+
+## Afdeling 1. Toepassingsgebied
+
+### ART 4/1.3.1.
+
+§1. De bepalingen van dit hoofdstuk zijn van toepassing op alle inrichtingen die aan al de volgende voorwaarden voldoen:<br>
+1°&nbsp;&nbsp; &nbsp;inrichtingen waarvoor conform artikel 8 van het samenwerkingsakkoord van 16 februari 2016 een veiligheidsrapport moet worden opgesteld of waarvoor conform artikel 10 van het voormelde samenwerkingsakkoord het veiligheids-rapport opnieuw moet worden beoordeeld door een wijziging aan de inrichting;<br>
+2°&nbsp;&nbsp; &nbsp;inrichtingen waarvoor conform artikel 5 van het decreet van 25 april 2014 betreffende de omgevingsvergunning een vergunningsaanvraag moet worden ingediend voor de exploitatie of verandering ervan.<br>
+<br>
+Voor de loutere hernieuwing van de omgevingsvergunning hoeft geen OVR opgemaakt te worden.<br>
+<br>
+§2. De Vlaamse Regering kan andere categorieën van inrichtingen aanwijzen waarvoor een OVR moet worden opgesteld conform de bepalingen van dit hoofdstuk. De Vlaamse Regering kan, in afwijking van artikel 4/1.3.4, bepalen dat voor de voormelde categorieën van inrichtingen het OVR bepaalde gegevens niet hoeft te bevatten.<br>
+<br>
+§3. In afwijking van paragraaf 1 kan de administratie na gemotiveerd verzoek van de initiatiefnemer geval per geval beslissen dat voor veranderingen aan een vergunde inrichting een OVR dat al voor die inrichting is goedgekeurd, niet bijgewerkt hoeft te worden.<br>
+<br>
+§4. Het gemotiveerde verzoek, vermeld in paragraaf 3, bevat ten minste al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;een beschrijving en een verduidelijking van de vergunde inrichting, en ook van de veranderingen die in het kader van de vergunningsaanvraag worden aangevraagd;<br>
+2°&nbsp;&nbsp; &nbsp;de verantwoording van het verzoek en alle relevante gegevens om het verzoek te staven;<br>
+3°&nbsp;&nbsp; &nbsp;een veiligheidsnota waarin ten minste al de volgende elementen worden aangetoond:<br>
+a)&nbsp;&nbsp; &nbsp;het bewijs dat de geplande veranderingen geen bijkomend aanzienlijk risico van zware ongevallen voor de mens en voor het leefmilieu mee-brengen ten opzichte van de bestaande toestand, en het bewijs dat een nieuw OVR daarover redelijkerwijs geen nieuwe of extra gegevens kan bevatten;<br>
+b)&nbsp;&nbsp; &nbsp;wat de geplande veranderingen betreft: het bewijs dat de nodige veilig-heidsmaatregelen getroffen zijn of getroffen kunnen worden om zware ongevallen te voorkomen en om de gevolgen van mogelijk zware onge-vallen voor de mens of voor het leefmilieu op voldoende geachte wijze te beperken, en het bewijs dat een nieuw OVR daarover redelijkerwijs geen nieuwe of extra gegevens kan bevatten.<br>
+<br>
+De initiatiefnemer doet voor de opmaak van de veiligheidsnota, vermeld in het eerste lid, 3°, een beroep op een erkende deskundige.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen over de informatie en de modaliteiten waaraan het gemotiveerde verzoek, vermeld in paragraaf 3, moet voldoen.<br>
+<br>
+§5. De administratie beslist over het gemotiveerde verzoek, vermeld in paragraaf 3, binnen twintig dagen na de dag waarop ze dat gemotiveerde verzoek heeft ontvangen. Ze bezorgt de beslissing bezorgt ze onverwijld aan de initiatiefnemer. In voorkomend geval bevat de beslissing ook de voorwaarden die eraan zijn verbonden. Als de beslissing niet kan worden genomen binnen de voormelde termijn, brengt de administratie de initiatiefnemer daarvan schriftelijk op de hoogte binnen die termijn. In die kennisgeving geeft de administratie aan wanneer de beslissing uiterlijk wordt genomen.<br>
+<br>
+§6. In geval van een positieve beslissing voegt de initiatiefnemer die beslissing en de veiligheidsnota bij de vergunningsaanvraag.
+
+## Afdeling 2. Aanmelding en inhoudsafbakening van het voorgenomen OVR
+
+### ART 4/1.3.2.
+
+§1. Voor de initiatiefnemer de vergunningsaanvraag indient, meldt hij aan de administratie zijn voornemen om een OVR op te stellen.<br>
+<br>
+De aanmelding, vermeld in het eerste lid, bevat ten minste de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een beschrijving van het project, met inbegrip van een beknopte beschrijving van de overwogen alternatieven voor het project of voor onderdelen ervan;<br>
+2°&nbsp;&nbsp; &nbsp;de reden van de rapportageplicht van de inrichting;<br>
+3°&nbsp;&nbsp; &nbsp;de vergunningen die moeten worden aangevraagd en, in voorkomend geval, de bestaande vergunningstoestand;<br>
+4°&nbsp;&nbsp; &nbsp;een beschrijving van het procesverloop met, in voorkomend geval, een beschrijving van het participatietraject;<br>
+5°&nbsp;&nbsp; &nbsp;in voorkomend geval de gegevens die de administratie nodig heeft voor de grensoverschrijdende informatie-uitwisseling, vermeld in paragraaf 2;<br>
+6°&nbsp;&nbsp; &nbsp;de relevante gegevens over de voorgestelde erkende deskundige, vermeld in artikel 4/1.3.3, in voorkomend geval aangevuld met de lijst van deskundigen die de erkende deskundige zullen bijstaan en de taakverdeling tussen de deskundigen;<br>
+7°&nbsp;&nbsp; &nbsp;conform artikel 4/1.3.4 en het v.r.-richtlijnenboek, vermeld in artikel 4/1.4.2, een beschrijving van de inhoudelijke aanpak, met inbegrip van de methodolo-gie van het OVR;<br>
+8°&nbsp;&nbsp; &nbsp;in voorkomend geval een verzoek om advies over de informatie die wordt verstrekt conform artikel 4/1.3.4;<br>
+9°&nbsp;&nbsp; &nbsp;in voorkomend geval de gronden voor de vraag tot onttrekking aan bekendmaking van de aanmelding of aangeduide delen ervan.<br>
+<br>
+De administratie kan aan de initiatiefnemer altijd vragen om aanvullende informatie te verstrekken. De procedure kan pas worden voortgezet nadat de administratie de door haar gevraagde aanvullende informatie heeft ontvangen.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de informatie die in de aanmelding, vermeld in het eerste lid, opgenomen moet worden. Die regels kunnen aanvullende elementen, die niet worden vermeld in het tweede lid, of een verdere verduidelijking van de elementen, vermeld in het tweede lid, betreffen.<br>
+<br>
+§2. Als uit de aanmelding, vermeld in paragraaf 1, blijkt dat het project ten gevolge van een zwaar ongeval betekenisvolle effecten kan hebben op mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het verdrag inzake de grensoverschrijdende gevolgen van industriële ongevallen, gedaan te Helsinki op 17 maart 1992, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, meldt de administratie het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, met de vraag of ze hun commentaar aan de administratie kunnen meedelen.<br>
+<br>
+De melding, vermeld in het eerste lid, omvat ten minste al de volgende informatie:<br>
+1°&nbsp;&nbsp; &nbsp;een afschrift van de aanmelding, vermeld in paragraaf 1;<br>
+2°&nbsp;&nbsp; &nbsp;een beschrijving van de rapportageprocedure die op het voorgenomen project van toepassing is;<br>
+3°&nbsp;&nbsp; &nbsp;informatie over de vergunningsplicht waaraan het voorgenomen project onderworpen is.<br>
+<br>
+De administratie brengt de initiatiefnemer ervan op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie is gemeld.<br>
+<br>
+§3. De administratie neemt een beslissing over de opstellers van het OVR, vermeld in artikel 4/1.3.3, en deelt haar beslissing aan de initiatiefnemer mee binnen de termijn en op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+§4. Als de aanmelding, vermeld in paragraaf 1, een verzoek om advies als vermeld in paragraaf 1, tweede lid, 8°, bevat, verleent de administratie een advies over de informatie die de initiatiefnemer conform artikel 4/1.3.4 moet verstrekken.<br>
+<br>
+§5. De administratie maakt de aanmelding, vermeld in paragraaf 1, bekend op haar website binnen de termijn die de Vlaamse Regering bepaalt.<br>
+<br>
+De initiatiefnemer kan in de aanmelding, vermeld in paragraaf 1, verzoeken om bepaalde informatie volledig of gedeeltelijk aan de openbaarheid te onttrekken. Het voormelde verzoek wordt door de betrokken overheidsinstantie behandeld conform artikel II.36 van het Bestuursdecreet van 7 december 2018. De administratie kan de gegevens in kwestie volledig of gedeeltelijk onttrekken aan bekendmaking. Als ze beslist tot volledige of gedeeltelijke onttrekking aan bekendmaking van de aangewezen gegevens, neemt ze de gegevens die aan bekendmaking worden onttrokken, op in een bijlage. De bijlage wordt niet bekendgemaakt.<br>
+<br>
+§6. De Vlaamse Regering bepaalt de modaliteiten van de aanmeldingsprocedure, de grens- en gewestgrensoverschrijdende procedure en de procedure van adviesverlening door de administratie.<br>
+<br>
+§7. Vóór de initiatiefnemer zijn vergunningsaanvraag indient, kan hij aan de administratie vragen dat het OVR inhoudelijk op zijn kwaliteit wordt getoetst.<br>
+<br>
+In het geval, vermeld in het eerste lid, toetst de administratie het OVR inhou-delijk aan de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de beslissing, vermeld in paragraaf 3;<br>
+2°&nbsp;&nbsp; &nbsp;de beschrijving van de inhoudelijke aanpak van het OVR, vermeld in paragraaf 1, tweede lid, 7°;<br>
+3°&nbsp;&nbsp; &nbsp;in voorkomend geval het advies, vermeld in paragraaf 4;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens die conform artikel 4/1.3.4 zijn vereist;<br>
+5°&nbsp;&nbsp; &nbsp;in voorkomend geval de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in paragraaf 2.<br>
+<br>
+Het resultaat van de toetsing leidt tot de voorlopige goedkeuring of afkeuring van het OVR.<br>
+<br>
+De administratie bezorgt haar beslissing over de voorlopige goedkeuring of afkeuring van het OVR aan de initiatiefnemer binnen een termijn die de Vlaamse Regering bepaalt.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de voorlopige goed-keuring of afkeuring van het OVR en voor de bekendmaking ervan.
+
+## Afdeling 3. Opstellen van het OVR
+
+### ART 4/1.3.3.
+
+§1. Het OVR wordt opgesteld onder de verantwoordelijkheid en op kosten van de initiatiefnemer.<br>
+<br>
+Om het OVR op te stellen, doet de initiatiefnemer een beroep op een erkende deskundige. Hij stelt aan de erkende deskundige alle relevante informatie ter beschikking die voorhanden is. Hij verleent alle medewerking opdat de erkende deskundige zijn taak naar behoren kan vervullen.<br>
+<br>
+§2. De erkende deskundige mag geen belang hebben bij de exploitatie in kwestie. Hij voert zijn opdracht volledig onafhankelijk uit.<br>
+<br>
+§3. Tijdens het opstellen van het OVR overlegt de erkende deskundige met de administratie. De erkende deskundige neemt in voorkomend geval het advies, vermeld in artikel 4/1.3.2, §4, in acht.
+
+### ART 4/1.3.4.
+
+Het OVR bevat ten minste al de volgende gegevens als die beschikbaar zijn:<br>
+1°&nbsp;&nbsp; &nbsp;inlichtingen over het beheersysteem en de organisatie van de inrichting met het oog op de preventie van zware ongevallen. Die inlichtingen hebben be-trekking op de punten, vermeld in bijlage 2, die bij het samenwerkingsak-koord van 16 februari 2016 is gevoegd;<br>
+2°&nbsp;&nbsp; &nbsp;een presentatie van de omgeving van de inrichting die al de volgende elementen bevat:<br>
+a)&nbsp;&nbsp; &nbsp;een beschrijving van de locatie, met inbegrip van de geografische ligging, de meteorologische, geologische en hydrografische gegevens, met inbe-grip van de elementen van de voorgeschiedenis die relevant zijn voor de veiligheid;<br>
+b)&nbsp;&nbsp; &nbsp;een identificatie van de externe gevaarbronnen en gevoelige omgevings-objecten, en ook de informatie die over die bronnen beschikbaar is;<br>
+c)&nbsp;&nbsp; &nbsp;een beschrijving van de zones die door een zwaar ongeval kunnen wor-den getroffen;<br>
+3°&nbsp;&nbsp; &nbsp;een beschrijving van de inrichting die al de volgende elementen bevat:<br>
+a)&nbsp;&nbsp; &nbsp;de identificatie van de installaties en activiteiten binnen de inrichting die een zwaar ongeval kunnen teweegbrengen;<br>
+b)&nbsp;&nbsp; &nbsp;de beschrijving van de activiteiten en producten uit de gedeelten van de inrichting die belangrijk zijn vanuit het oogpunt van de veiligheid;<br>
+c)&nbsp;&nbsp; &nbsp;een beschrijving van procedés en werkwijzen;<br>
+d)&nbsp;&nbsp; &nbsp;een beschrijving van de gevaarlijke stoffen die al de volgende elementen bevat:<br>
+1)&nbsp;&nbsp; &nbsp;een lijst van de gevaarlijke stoffen, die bestaat uit al de volgende elementen:<br>
+i)&nbsp;&nbsp; &nbsp;de beschrijving van de gevaarlijke stoffen met de chemische naam, het CAS-nummer en de naam volgens de IUPAC-nomenclatuur;<br>
+ii)&nbsp;&nbsp; &nbsp;de maximale hoeveelheid van de gevaarlijke stoffen die aanwezig zijn of kunnen zijn;<br>
+2)&nbsp;&nbsp; &nbsp;de fysische, chemische en toxicologische kenmerken en gegevens over de gevaren voor mens en milieu die onmiddellijk en later optre-den;<br>
+3)&nbsp;&nbsp; &nbsp;het fysische of chemische gedrag onder normale gebruiksvoorwaar-den of bij voorzienbare ongevallen;<br>
+4°&nbsp;&nbsp; &nbsp;een identificatie en analyse van de zware ongevallen met mogelijke gevolgen voor de omgeving (mens en milieu) en de preventiemiddelen, die bestaan uit al de volgende elementen:<br>
+a)&nbsp;&nbsp; &nbsp;een gedetailleerde beschrijving van de scenario’s voor mogelijke zware ongevallen en de omstandigheden waarin die zich kunnen voordoen, inclu-sief een samenvatting van de voorvallen die bij het op gang brengen van die scenario's een belangrijke rol kunnen spelen, ongeacht of de oorzaken binnen of buiten de installatie liggen;<br>
+b)&nbsp;&nbsp; &nbsp;een beschrijving van de mogelijke oorzaken van zware ongevallen en van de omstandigheden waarin zo'n zwaar ongeval zich zou kunnen voordoen, met een bijbehorende beschrijving van de genomen preventieve maatre-gelen;<br>
+c)&nbsp;&nbsp; &nbsp;een kwantificering van de risico's, zoals aangegeven in het v.r.-richtlijnenboek, vermeld in artikel 4/1.4.2, die verbonden zijn aan de sce-nario’s, vermeld in punt a);<br>
+d)&nbsp;&nbsp; &nbsp;een beoordeling van de omvang en de ernst van de mogelijke gevolgen van de geïdentificeerde zware ongevallen;<br>
+e)&nbsp;&nbsp; &nbsp;een beschrijving van de technische parameters die van belang zijn voor de veiligheid van de installaties en van de apparatuur die voor de veilig-heid van de installaties is gepland;<br>
+5°&nbsp;&nbsp; &nbsp;een overzicht van de beschermings- en interventiemaatregelen om de gevolgen van een zwaar ongeval te beperken, dat al de volgende elementen bevat:<br>
+a)&nbsp;&nbsp; &nbsp;een beschrijving van de technische parameters die van belang zijn voor de veiligheid van de installaties en van de apparatuur die voor de veilig-heid van de installaties is gepland;<br>
+b)&nbsp;&nbsp; &nbsp;een beschrijving van de apparatuur die op de installatie is aangebracht om de gevolgen van zware ongevallen te beperken;<br>
+c)&nbsp;&nbsp; &nbsp;de organisatie van het alarm en de interventie;<br>
+d)&nbsp;&nbsp; &nbsp;een beschrijving van de inzetbare interne of externe middelen;<br>
+e)&nbsp;&nbsp; &nbsp;een beschrijving van het interne noodplan, vermeld in artikel 11 van het samenwerkingsakkoord van 16 februari 2016;<br>
+6°&nbsp;&nbsp; &nbsp;een beschrijving en beoordeling van de preventieve en gevolgbeperkende maatregelen van technische en organisatorische aard die de initiatiefnemer zal nemen, met inbegrip van de termijn waarop die verwezenlijkt zullen worden;<br>
+7°&nbsp;&nbsp; &nbsp;een schets van alternatieven die redelijkerwijze in beschouwing kunnen worden genomen op het vlak van locatie, plaatsing, procedé en hoeveelheden gevaarlijke stoffen, inbegrepen het nulalternatief en de sluiting van de in-richting;<br>
+8°&nbsp;&nbsp; &nbsp;een opgave van de moeilijkheden, technische leemten of ontbrekende kennis die de initiatiefnemer of de deskundige eventueel heeft ondervonden bij het verzamelen en verwerken van de vereiste informatie en de gevolgen daarvan voor de wetenschappelijkheid van het rapport;<br>
+9°&nbsp;&nbsp; &nbsp;een niet-technische samenvatting van de verstrekte gegevens, vermeld in punt 1° tot en met 8°. De niet-technische samenvatting is een samenvatting die voldoende begrijpelijk is voor het publiek en toelaat om voldoende zicht te krijgen op de mogelijke zware ongevallen, de mogelijke maatregelen of de maatregelen die genomen moeten worden.
+
+## Afdeling 4. Het onderzoek en het gebruik van het OVR
+
+### ART 4/1.3.5.
+
+§1. Op de wijze, vermeld in de regelgeving van de vergunningsprocedure in kwestie, bezorgt de initiatiefnemer het OVR aan de overheid die in eerste aanleg een beslissing neemt over de vergunningsaanvraag voor het project.<br>
+<br>
+De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaan-vraag bij de overheid, vermeld in het eerste lid, aan de administratie vragen om overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, bepaalde delen uit het OVR aan het openbaar onderzoek binnen de vergunnings-procedure te onttrekken. Hij voegt bij zijn vraag tevens het voltooide OVR toe en duidt over welke gegevens het gaat en op welke gronden de onttrekking aan de openbaarheid moet gebeuren. De administratie maakt een belangenafweging overeenkomstig het artikel II.36 in kwestie. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan de openbaarheid onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de openbaarheid van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage bij het OVR wordt niet ter inzage gelegd van het publiek tijdens de vergunningsproce-dure.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de samenwerking en informatie-uitwisseling van de administratie met de administraties die bij de vergunningsprocedure betrokken zijn.<br>
+<br>
+§2. Na de raadpleging van de adviesverlenende instanties en nadat het openbaar onderzoek van de vergunningsprocedure is afgesloten, toetst de administratie het OVR inhoudelijk aan de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de beslissing, vermeld in artikel 4/1.3.2, §3;<br>
+2°&nbsp;&nbsp; &nbsp;de beschrijving van de inhoudelijke aanpak van het OVR, vermeld in artikel 4/1.3.2, §1, tweede lid, 7°;<br>
+3°&nbsp;&nbsp; &nbsp;in voorkomend geval het advies, vermeld in artikel 4/1.3.2, §4;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens die conform artikel 4/1.3.4 vereist zijn;<br>
+5°&nbsp;&nbsp; &nbsp;de adviezen, opmerkingen en commentaren van de instanties en het publiek over het OVR die verstrekt zijn naar aanleiding van het openbaar onderzoek;<br>
+6°&nbsp;&nbsp; &nbsp;in voorkomend geval de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in artikel 4/1.3.2, §2, en van het publiek over het OVR, die verstrekt zijn naar aanleiding van het openbaar onderzoek in grensoverschrijdend verband.<br>
+<br>
+Het resultaat van de toetsing wordt opgenomen in het OVR-verslag en leidt tot de goedkeuring of afkeuring van het OVR.<br>
+<br>
+De Vlaamse Regering stelt de wijze vast voor de raadpleging van de advies-verlenende instanties, vermeld in het eerste lid, en van de bevoegde autoriteiten, vermeld in het eerste lid, 6°, door de administratie.<br>
+<br>
+§3. De administratie bezorgt haar beslissing over de goedkeuring of afkeuring van het OVR aan de volgende actoren:<br>
+1°&nbsp;&nbsp; &nbsp;de initiatiefnemer;<br>
+2°&nbsp;&nbsp; &nbsp;de administraties, overheidsinstellingen en openbare besturen die de Vlaamse Regering aanwijst;<br>
+3°&nbsp;&nbsp; &nbsp;in voorkomend geval de bevoegde autoriteiten, vermeld in artikel 4/1.3.2, §2;<br>
+4°&nbsp;&nbsp; &nbsp;de overheid die in eerste aanleg een beslissing neemt over de vergunnings-aanvraag voor het project.<br>
+<br>
+De beslissing, vermeld in het eerste lid, bevat ook een afschrift van het OVR-verslag, vermeld in paragraaf 2, tweede lid.<br>
+<br>
+§4. De Vlaamse Regering kan nadere regels vaststellen voor de goedkeuring of afkeuring van het OVR en de bekendmaking ervan.
+
+### ART 4/1.3.6.
+
+§1. Vanaf de betekening van de beslissing, vermeld in artikel 4/1.3.5, §3, liggen het OVR, het OVR-verslag, vermeld in artikel 4/1.3.5, §2, tweede lid, en, in voorkomend geval, het advies, vermeld in artikel 4/1.3.2, §4, ter inzage bij de administratie.<br>
+<br>
+§2. De initiatiefnemer kan aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, gegevens in de in paragraaf 1 bedoelde stukken aan terinzagelegging moet onttrekken. Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het voltooide OVR aan de administratie bezorgt. Hij duidt in zijn vraag aan over welke gegevens het gaat en op welke gronden de onttrekking aan de ter inzagelegging moet gebeuren.<br>
+<br>
+De administratie neemt een beslissing over de vraag van de initiatiefnemer, vermeld in het eerste lid, uiterlijk op het moment van de goed- of afkeuring van het OVR. Ze maakt een belangenafweging conform artikel II.36 van het Bestuursdecreet van 7 december 2018. De administratie kan de gegevens, vermeld in het eerste lid, volledig of gedeeltelijk aan terinzagelegging onttrekken. Als ze beslist tot volledige of gedeeltelijke onttrekking aan de terinzagelegging van de aangewezen gegevens, neemt ze de relevante gegevens op in een bijlage. De bijlage wordt niet ter inzage gelegd van het publiek.<br>
+<br>
+§3. Bij de verdere besluitvorming over het voorgenomen project wordt rekening gehouden met de noodzaak om risicoactiviteiten gescheiden en op voldoende afstand te houden van al de volgende gebieden:<br>
+1°&nbsp;&nbsp; &nbsp;woongebieden;<br>
+2°&nbsp;&nbsp; &nbsp;door publiek bezochte gebieden;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;ruimtelijk kwetsbare gebieden;<br>
+4°&nbsp;&nbsp; &nbsp;bijzonder kwetsbare gebieden die de Vlaamse Regering bepaalt.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over het gebruik van het OVR bij de verdere besluitvorming over het voorgenomen project en over de bekendmaking van het besluit over het project.<br>
+<br>
+§4. De Vlaamse Regering kan nadere regels vaststellen over de wijze waarop de bevoegde autoriteiten en de burgers van de lidstaten, verdragspartijen of gewesten, vermeld in artikel 4/1.3.2, §2, hun commentaar kunnen meedelen over het OVR en het voorgenomen project, en over de wijze waarop daarover overleg wordt gepleegd.<br>
+<br>
+De beslissing over de vergunningsaanvraag over het voorgenomen project wordt opgestuurd naar de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen of gewesten, vermeld in artikel 4/1.3.2, §2.<br>
+<br>
+§5. De Vlaamse Regering kan nadere regels vaststellen over:<br>
+1°&nbsp;&nbsp; &nbsp;de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten, vermeld in artikel 4/1.3.2, §2, op de hoogte wordt gebracht van een vergunningsaanvraag die al dan niet een OVR omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, daarvan op de hoogte brengt;<br>
+2°&nbsp;&nbsp; &nbsp;het openbaar onderzoek dat in voorkomend geval georganiseerd moet worden.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over het verstrekken van een advies over de vergunningsaanvraag, vermeld in het eerste lid, aan de bevoegde autoriteit van de lidstaten, verdragspartijen of gewesten, vermeld in artikel 4/1.3.2, §2.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over:<br>
+1°&nbsp;&nbsp; &nbsp;de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten, vermeld in artikel 4/1.3.2, §2, op de hoogte wordt gebracht van een beslissing over een vergunningsaanvraag die al dan niet een OVR omvat, de administratie of de betrokken provincie waar de effecten zich kunnen voordoen, daarvan op de hoogte brengt;<br>
+2°&nbsp;&nbsp; &nbsp;het in voorkomend geval ter beschikking stellen van de beslissing, vermeld in punt 1°, aan het publiek.
+
+## Hoofdstuk 4. Aspecten van kwaliteitszorg
+
+## Afdeling 1. De erkenning van v.r.-deskundigen
+
+### ART 4/1.4.1.
+
+§1. Op de erkenning van v.r.-deskundigen zijn de bepalingen van titel V, hoofdstuk VI, van toepassing.<br>
+<br>
+§2. De erkende v.r.-deskundige mag geen persoonlijk belang hebben bij de realisatie van de voorgenomen actie of de alternatieven ervoor. Hij voert zijn opdracht volledig onafhankelijk uit.<br>
+<br>
+De onafhankelijkheid van de erkende v.r.-deskundige wordt beoordeeld op het niveau van de individuele fysieke persoon.<br>
+<br>
+De onafhankelijkheidsvereiste van de erkende v.r.-deskundige belet niet dat, als de erkende v.r.-deskundige betrokken is bij de opmaak van een RVR, de erkende v.r.-deskundige nadien de beoordeling kan uitvoeren van een project waarvoor het eerder vastgestelde ruimtelijk uitvoeringsplan het kader voor de vergunningverlening vormt.<br>
+<br>
+§3. De Vlaamse Regering kan de nadere voorwaarden over de uitoefening van de taak van de erkende v.r.-deskundige bepalen.
+
+## Afdeling 2. De richtlijnenboeken en evaluatie
+
+### ART 4/1.4.2.
+
+§1. De administratie stelt een richtlijnenboek over v.r. op. Dat v.r.- richtlijnenboek is het referentiewerk waarop de administratie, de initiatiefnemer en de deskundigen zich baseren voor het goede verloop van de rapportage en de inhoud van een RVR, een OVR of een veiligheidsnota, met inbegrip van de methodolo-gische aspecten.<br>
+<br>
+De bijzondere en in voorkomend geval aanvullende bijzondere richtlijnen, vermeld in het derde lid, kunnen op gemotiveerde wijze het v.r.-richtlijnenboek aanvullen, strengere voorschriften bevatten of er in minder strenge zin van afwijken.<br>
+<br>
+Het advies, vermeld in artikel 4/1.3.2, §4, omvat de bijzondere en in voorko-mend geval de aanvullende bijzondere richtlijnen, vermeld in het tweede lid.<br>
+<br>
+§2. De administratie is verantwoordelijk voor de geregelde actualisering van de richtlijnenboeken op basis van de wetenschappelijke en maatschappelijke ontwikkelingen, en de evaluatie van de ervaringen met veiligheidsrapportages.<br>
+&nbsp;
 
 ## [TITEL V EXPLOITATIE VAN INRICHTINGEN EN ACTIVITEITEN EN ERKENDE PERSONEN (ing. decr. 25 april 2014, art. 174)]
 
@@ -3895,36 +3987,55 @@ De personen tegen wie veiligheidsmaatregelen zijn genomen worden binnen een term
 
 ### Tekst
 
-De criteria overeenkomstig artikel 4.2.3, § 2, 2°, en artikel 4.2.3, § 3 zijn<br />1. de kenmerken van plannen en programma's, in het bijzonder gelet op:<br />a. de mate waarin het plan of programma een kader vormt voor projecten en andere activiteiten met betrekking tot de ligging, aard, omvang en gebruiksvoorwaarden, alsmede wat betreft de toewijzing van hulpbronnen;<br />b. de mate waarin het plan of programma andere plannen en programma's, met inbegrip van die welke deel zijn van een hiërarchisch geheel, beïnvloedt;<br />c. de relevantie van het plan of programma voor de integratie van milieuoverwegingen, vooral met het oog op de bevordering van duurzame ontwikkeling;<br />d. milieuproblemen die relevant zijn voor het plan of programma;<br />e. de relevantie van het plan of programma voor de toepassing van de milieuwetgeving van de Europese Gemeenschap (bijvoorbeeld plannen en programma's in verband met afvalstoffenbeheer of waterbescherming);<br />2. kenmerken van de effecten en van de gebieden die kunnen worden beïnvloed, in het bijzonder gelet op:<br />a. de waarschijnlijkheid, duur, frequentie en omkeerbaarheid van de effecten;<br />b. de cumulatieve aard van de effecten;<br />c. de grensoverschrijdende aard van de effecten;<br />d. de risico's voor de menselijke veiligheid of gezondheid of voor het milieu (bijvoorbeeld door ongevallen);<br />e. de orde van grootte en het ruimtelijk bereik van de effecten (geografisch gebied en omvang van de bevolking die getroffen kan worden);<br />f. de waarde en kwetsbaarheid van het gebied dat kan worden beïnvloed gelet op:<br />- bijzondere natuurlijke kenmerken of cultureel erfgoed;<br />- de overschrijding van de milieukwaliteitsnormen of van grenswaarden;<br />- intensief grondgebruik;<br />g. de effecten op gebieden en landschappen die door een lidstaat, door de Europese Gemeenschap, dan wel in internationaal verband als beschermd gebied zijn erkend.
-
-## [BIJLAGE II
-
-### BIJLAGE 2
-
-Bijlage II. - Criteria als vermeld in artikel 4.3.2, § 1, § 2, § 2bis, § 3, § 3bis en § 4<br>
-De criteria overeenkomstig artikel 4.3.2, § 1, § 2, § 2bis, § 3, § 3bis en § 4, zijn:<br>
+Bijlage I. Criteria betreffende de screening als vermeld in artikel 4.3.5. en 4.3.6.<br>
+<br>
+A. De criteria voor plannen en programma’s overeenkomstig artikel 4.3.5 zijn:<br>
+<br>
+1. De kenmerken van plannen en programma's, in het bijzonder gelet op:<br>
+a) de mate waarin het plan of programma een kader vormt voor projecten en andere activiteiten met betrekking tot de ligging, aard, omvang en gebruiksvoorwaarden, alsook wat betreft de toewijzing van hulpbronnen;<br>
+b) de mate waarin het plan of programma andere plannen en programma's, met inbegrip van die welke deel zijn van een hiërarchisch geheel, beïnvloedt;<br>
+c) de relevantie van het plan of programma voor de integratie van milieuoverwegingen, vooral met het oog op de bevordering van duurzame ontwikkeling;<br>
+d) milieuproblemen die relevant zijn voor het plan of programma;<br>
+e) de relevantie van het plan of programma voor de toepassing van de milieuwetgeving van de Europese Gemeenschap (bijvoorbeeld plannen en programma's in verband met afvalstoffenbeheer of waterbescherming).<br>
+<br>
+2. Kenmerken van de effecten en van de gebieden die kunnen worden beïnvloed, in het bijzonder gelet op:<br>
+a) de waarschijnlijkheid, duur, frequentie en omkeerbaarheid van de effecten;<br>
+b) de cumulatieve aard van de effecten;<br>
+c) de grensoverschrijdende aard van de effecten;<br>
+d) de risico's voor de menselijke veiligheid of gezondheid of voor het milieu (bijvoorbeeld door ongevallen);<br>
+e) de orde van grootte en het ruimtelijk bereik van de effecten (geografisch gebied en omvang van de bevolking die getroffen kan worden);<br>
+f) de waarde en kwetsbaarheid van het gebied dat kan worden beïnvloed, gelet op:<br>
+&nbsp; 1) bijzondere natuurlijke kenmerken of cultureel erfgoed;<br>
+&nbsp; 2) de overschrijding van de milieukwaliteitsnormen of van grenswaarden;<br>
+&nbsp; 3) intensief grondgebruik;<br>
+g) de effecten op gebieden en landschappen die door een lidstaat, door de Europese Gemeenschap, dan wel in internationaal verband als beschermd gebied zijn erkend.<br>
+<br>
+B. De criteria voor projecten overeenkomstig artikel 4.3.6 zijn:<br>
+&nbsp;<br>
 1° de kenmerken van de projecten. Bij de kenmerken van de projecten moeten in het bijzonder de volgende aspecten in overweging worden genomen:<br>
 a) de omvang en het ontwerp van het hele project;<br>
 b) de cumulatie met andere bestaande of goedgekeurde projecten;<br>
 c) het gebruik van natuurlijke hulpbronnen, met name land, bodem, water en biodiversiteit;<br>
 d) de productie van afvalstoffen;<br>
 e) verontreiniging en hinder;<br>
-f) de risico's op zware ongevallen of rampen die relevant zijn voor het project in kwestie, waaronder rampen die worden veroorzaakt door klimaat-verandering, in overeenstemming met wetenschappelijke kennis;<br>
-g) de risico's voor de menselijke gezondheid (bijvoorbeeld als gevolg van waterverontreiniging of luchtvervuiling);<br>
+f) de risico’s op zware ongevallen of rampen die relevant zijn voor het project in kwestie, waaronder rampen die worden veroorzaakt door klimaatverandering, in overeenstemming met wetenschappelijke kennis;<br>
+g) de risico’s voor de menselijke gezondheid (bijvoorbeeld als gevolg van waterverontreiniging of luchtvervuiling);<br>
+<br>
 2° de locatie van de projecten. Bij de mate van kwetsbaarheid van het milieu in de gebieden waarop de projecten van invloed kunnen zijn, moeten in het bijzonder de volgende aspecten in overweging worden genomen:<br>
 a) het bestaande en goedgekeurde landgebruik;<br>
 b) de relatieve rijkdom aan en de beschikbaarheid, de kwaliteit en het regeneratievermogen van natuurlijke hulpbronnen (met inbegrip van bodem, land, water en biodiversiteit) in het gebied en de ondergrond ervan;<br>
 c) het opnamevermogen van het natuurlijke milieu, met in het bijzonder aandacht voor de volgende types van gebieden:<br>
-1) wetlands, oeverformaties, riviermondingen;<br>
-2) kustgebieden en het mariene milieu;<br>
-3) berg en bosgebieden;<br>
-4) natuurreservaten en parken;<br>
-5) gebieden die in de wetgeving van de lidstaten zijn aangeduid of door die wetgeving worden beschermd;<br>
-6) Natura 2000-gebieden die zijn aangewezen krachtens het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-7) gebieden waarin de milieukwaliteitsnormen die in de wetgeving van de Unie zijn vastgesteld en die relevant zijn voor het project, niet worden nagekomen of worden beschouwd als nietnagekomen;<br>
-8) gebieden met een hoge bevolkingsdichtheid;<br>
-9) landschappen en plaatsen van historisch, cultureel of archeologisch belang;<br>
-3° de soort en de kenmerken van het potentiële effect. De waarschijnlijk aanzienlijke milieueffecten van projecten moeten, in samenhang met de criteria, vermeld in punt 1° en 2°, in aanmerking worden genomen, met aandacht voor het effect van het project op de disciplines, vermeld in artikel 4.3.1, tweede lid, met inachtneming van:<br>
+&nbsp; a. wetlands, oeverformaties en riviermondingen;<br>
+&nbsp; b. kustgebieden en het mariene milieu;<br>
+&nbsp; c. berg- en bosgebieden;<br>
+&nbsp; d. natuurreservaten en parken;<br>
+&nbsp; e. gebieden die in de wetgeving van de lidstaten zijn aangeduid of door die wetgeving worden beschermd;<br>
+f. Natura 2000-gebieden die zijn aangewezen krachtens het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+g. gebieden waarin de milieukwaliteitsnormen die in de wetgeving van de Unie zijn vastgesteld en die relevant zijn voor het project, niet worden nagekomen of worden beschouwd als niet-nagekomen;<br>
+h. gebieden met een hoge bevolkingsdichtheid;<br>
+i. landschappen en plaatsen van historisch, cultureel of archeologisch belang;<br>
+<br>
+3° de soort en de kenmerken van het potentiële effect. De mogelijke aanzienlijke milieueffecten van projecten moeten, in samenhang met de criteria, vermeld in punt 1° en 2°, in aanmerking worden genomen, met aandacht voor het effect van het project op de disciplines, vermeld in artikel 4.4.5, §1, met inachtneming van&nbsp;<br>
 a) de orde van grootte en het ruimtelijk bereik van de effecten (bijvoorbeeld geografisch gebied en omvang van de bevolking die getroffen kan worden);<br>
 b) de aard van het effect;<br>
 c) het grensoverschrijdende karakter van het effect;<br>
@@ -3934,34 +4045,40 @@ f) de verwachte aanvang, de duur, de frequentie en de omkeerbaarheid van het eff
 g) de cumulatie van effecten met de effecten van andere bestaande of goedgekeurde projecten;<br>
 h) de mogelijkheid om de effecten doeltreffend te verminderen.
 
-## [BIJLAGE IIbis INFORMATIE OP TE NEMEN IN HET PROJECT-MER ALS VERMELD IN ARTIKEL 4.3.7, § 1 (ing. decr. 23 december 2016, art. 13, I: te bepalen door de Vlaamse Regering)]
+## [BIJLAGE II
 
-### BIJLAGE IIbis
+### BIJLAGE 2
 
-Bijlage IIbis. - Informatie op te nemen in het project-MER als vermeld in artikel 4.3.7, § 1<br>
-<br>
-1° een beschrijving van het project, met in het bijzonder:<br>
+Bijlage II. Informatie op te nemen in het project-MER als vermeld in artikel 4.4.5, §2, eerste lid, 7°:<br>
+1° een beschrijving van het project met in het bijzonder:<br>
 a) een beschrijving van de locatie van het project;<br>
-b) een beschrijving van de fysieke kenmerken van het hele project, en, als dat relevant is, met inbegrip van de vereiste sloopwerken, en de eisen met betrekking tot landgebruik tijdens de bouw en bedrijfsfasen;<br>
+b) een beschrijving van de fysieke kenmerken van het hele project en, als dat relevant is, met inbegrip van de vereiste sloopwerken, en de eisen met betrekking tot landgebruik tijdens de bouw en bedrijfsfasen;<br>
 c) een beschrijving van de voornaamste kenmerken van de bedrijfsfase van het project (met name productieprocessen), bijvoorbeeld energievraag en energieverbruik, aard en hoeveelheden van de gebruikte materialen en natuurlijke hulpbronnen (waaronder water, land, bodem en biodiversiteit);<br>
-d) een prognose van de soort en de hoeveelheid van de verwachte residuen en emissies (zoals water, lucht, bodem en ondergrondverontreiniging, geluidshinder, trillingen, licht, warmte, straling) en de hoeveelheden en soorten afvalstoffen die geproduceerd zijn tijdens de bouw en bedrijfsfasen; 2° een beschrijving van de door de opdrachtgever onderzochte redelijke alternatieven (bijvoorbeeld met betrekking tot het projectontwerp, de technologie, de locatie, de omvang en de schaal) die relevant zijn voor het voorgestelde project en de specifieke kenmerken ervan, en een opgave van de belangrijkste redenen voor de selectie van de gekozen optie, met inbegrip van een vergelijking van de milieueffecten;<br>
-3° een beschrijving van de relevante aspecten van de huidige toestand van het milieu (referentiescenario) en een schets van de mogelijke ontwikkeling daarvan als het project niet wordt uitgevoerd voor zover natuurlijke veranderingen van het referentiescenario redelijkerwijs kunnen worden beoordeeld op basis van de beschikbaarheid van milieuinformatie en wetenschappelijke kennis;<br>
-4° een beschrijving van de disciplines, vermeld in artikel 4.3.1, tweede lid, waarop het project van aanzienlijke invloed kan zijn: bevolking, menselijke gezondheid, biodiversiteit (bijvoorbeeld fauna en flora), land (bijvoorbeeld ruimte-beslag), bodem (bijvoorbeeld organisch materiaal, erosie, verdichting, afdekking), water (bijvoorbeeld hydromorfologische veranderingen, kwantiteit en kwaliteit), lucht, klimaat (bijvoorbeeld broeikasgasemissies, effecten die van belang zijn voor adaptatie), materiële goederen, cultureel erfgoed, inclusief architectonische en archeologische aspecten, en het landschap;<br>
-5° een beschrijving van de waarschijnlijk aanzienlijke milieueffecten van het project ten gevolge van, onder meer:<br>
+d) een prognose van de soort en de hoeveelheid van de verwachte residuen en emissies (zoals water, lucht, bodem en ondergrondverontreiniging, geluidshinder, trillingen, licht, warmte, straling) en de hoeveelheden en soorten afvalstoffen die geproduceerd zijn tijdens de bouw en bedrijfsfasen;<br>
+2° een beschrijving van de door de opdrachtgever onderzochte redelijke alternatieven (bijvoorbeeld met betrekking tot het projectontwerp, de technologie, de locatie, de omvang en de schaal) die relevant zijn voor het voorgestelde project en de specifieke kenmerken ervan, en een opgave van de belangrijkste redenen voor de selectie van de gekozen optie, met inbegrip van een vergelijking van de milieueffecten;<br>
+3° een beschrijving van de relevante aspecten van de huidige toestand van het milieu (referentiescenario) en een schets van de mogelijke ontwikkeling daarvan als het project niet wordt uitgevoerd, voor zover natuurlijke veranderingen van het referentiescenario redelijkerwijs kunnen worden beoordeeld op basis van de beschikbaarheid van milieu-informatie en wetenschappelijke kennis;<br>
+4° een beschrijving van de disciplines, vermeld in artikel 4.4.5, §1, waarop het project van aanzienlijke invloed kan zijn: bevolking, menselijke gezondheid, biodiversiteit (bijvoorbeeld fauna en flora), land (bijvoorbeeld ruimtebeslag), bodem (bijvoorbeeld organisch materiaal, erosie, verdichting, afdekking), water (bijvoorbeeld hydromorfologische veranderingen, kwantiteit en kwaliteit), lucht, klimaat (bijvoorbeeld broeikasgasemissies, effecten die van belang zijn voor adaptatie), materiële goederen, cultureel erfgoed, inclusief architectonische en archeologische aspecten, en het landschap;<br>
+5° een beschrijving van de mogelijk aanzienlijke milieueffecten van het project ten gevolge van, onder meer:<br>
 a) de bouw en het bestaan van het project, met inbegrip van, als dat relevant is, sloopwerken;<br>
-b) het gebruik van natuurlijke hulpbronnen, met name land, bodem, water en biodiversiteit, waarbij zo veel mogelijk rekening wordt gehouden met de duurzame beschikbaarheid van die hulpbronnen;<br>
+&nbsp;b) het gebruik van natuurlijke hulpbronnen, met name land, bodem, water en biodiversiteit, waarbij zo veel mogelijk rekening wordt gehouden met de duurzame beschikbaarheid van die hulpbronnen;<br>
 c) de uitstoot van verontreinigende stoffen, geluidshinder, trillingen, licht, warmte, straling, het ontstaan van milieuhinder en het verwijderen en terugwinnen van afvalstoffen;<br>
-d) de risico's voor de menselijke gezondheid, het cultureel erfgoed of het milieu (bijvoorbeeld door ongevallen of rampen);<br>
+d) de risico’s voor de menselijke gezondheid, het cultureel erfgoed of het milieu (bijvoorbeeld door ongevallen of rampen);<br>
 e) de cumulatie van effecten met andere bestaande of goedgekeurde projecten, waarbij rekening wordt gehouden met alle bestaande milieuproblemen met betrekking tot gebieden die vanuit milieuoogpunt van bijzonder belang zijn en waarop het project van invloed kan zijn, of met het gebruik van natuurlijke hulpbronnen;<br>
 f) het effect van het project op het klimaat (bijvoorbeeld de aard en de omvang van emissies van broeikasgassen) en de kwetsbaarheid van het project voor klimaatverandering;<br>
 g) de gebruikte technologieën en stoffen;<br>
 6° een beschrijving van de methoden of bewijsstukken die gebruikt zijn voor de identificatie en de beoordeling van de aanzienlijke milieueffecten, met inbegrip van een overzicht van de moeilijkheden (bijvoorbeeld technische gebreken of ontbrekende kennis) die zijn ondervonden bij het verzamelen van de vereiste informatie en de belangrijkste onzekerheden;<br>
-7° een beschrijving van de geplande maatregelen om alle geïdentificeerde aanzienlijke nadelige milieueffecten te vermijden, te voorkomen, te beperken of zo mogelijk te compenseren en, in voorkomend geval, van eventuele voorgestelde monitoringsregelingen (bijvoorbeeld de voorbereiding van een postproject analyse). In die beschrijving moet worden uitgelegd in welke mate aanzienlijke nadelige milieueffecten worden vermeden, voorkomen, beperkt of gecompenseerd, zowel in de bouwfase als in de bedrijfsfase;<br>
-8° een beschrijving van de verwachte aanzienlijke nadelige milieueffecten van het project die voortvloeien uit de kwetsbaarheid van het project voor risico's op zware ongevallen of rampen die relevant zijn voor het project in kwestie. Daarvoor kan gebruikgemaakt worden van beschikbare relevante informatie die is verkregen met toepassing van het samenwerkingsakkoord van 5 juni 2015 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken of de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leef milieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle of overeenkomstig andere uitgevoerde relevante beoordelingen die zijn gemaakt met toepassing van titel IV of met toepassing van andere gewestelijke of federale regelgeving, als aan de vereisten, vermeld in titel IV, hoofdstuk III, wordt voldaan. In voorkomend geval moet de beschrijving de geplande maatregelen ter voorkoming of verzachting van de aanzienlijke nadelige milieueffecten van dergelijke gebeurtenissen omvatten, alsook details over de paraatheid en het voorgenomen reactievermogen bij dergelijke noodsituaties;<br>
-9° een niet-technische samenvatting van de informatie die verstrekt is conform punt 1° tot en met 8° ;<br>
-10° een referentielijst waarin de bronnen worden vermeld die zijn gebruikt voor de in het rapport opgenomen beschrijvingen en beoordelingen.<br>
+7° een beschrijving van de geplande maatregelen om alle geïdentificeerde aanzienlijke nadelige milieueffecten te vermijden, te voorkomen, te beperken of zo mogelijk te compenseren en, in voorkomend geval, van eventuele voorgestelde monitoringsregelingen (bijvoorbeeld de voorbereiding van een postprojectanalyse). In die beschrijving moet worden uitgelegd in welke mate aanzienlijke nadelige milieueffecten worden vermeden, voorkomen, beperkt of gecompenseerd, zowel in de bouwfase als in de bedrijfsfase;<br>
+8° een beschrijving van de verwachte aanzienlijke nadelige milieueffecten van het project die voortvloeien uit de kwetsbaarheid van het project, voor risico’s op zware ongevallen of rampen die relevant zijn voor het project in kwestie. Daarvoor kan gebruikgemaakt worden van beschikbare relevante informatie die is verkregen met toepassing van het samenwerkingsakkoord van 5 juni 2015 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken of de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle of overeenkomstig andere uitgevoerde relevante beoordelingen die zijn gemaakt met toepassing van titel IV of met toepassing van andere gewestelijke of federale regelgeving, als aan de vereisten, vermeld in titel IV, hoofdstuk 4, wordt voldaan. In voorkomend geval moet de beschrijving de geplande maatregelen ter voorkoming of verzachting van de aanzienlijke nadelige milieueffecten van dergelijke gebeurtenissen omvatten, alsook details over de paraatheid en het voorgenomen reactievermogen bij dergelijke noodsituaties;<br>
+9° een niet-technische samenvatting van de informatie die verstrekt is conform punt 1° tot en met 8°;<br>
+&nbsp;10° een referentielijst waarin de bronnen worden vermeld die zijn gebruikt voor de in het rapport opgenomen beschrijvingen en beoordelingen.<br>
 <br>
-De beschrijving van de waarschijnlijk aanzienlijke milieueffecten, vermeld in punt 5°, op de disciplines, vermeld in artikel 4.3.1, tweede lid, moet betrekking hebben op de directe en, in voorkomend geval, de indirecte, secundaire, cumulatieve en grensoverschrijdende effecten op korte termijn, middellange termijn en lange termijn, permanente en tijdelijke, positieve en negatieve effecten van het project. De aanzienlijke milieueffecten worden onder meer beoordeeld in het licht van de conform titel II, hoofdstuk II, vastgestelde milieukwaliteitsnormen.
+De beschrijving van de mogelijke aanzienlijke milieueffecten, vermeld in punt 5°, op de disciplines, vermeld in artikel 4.4.5, §1, moet betrekking hebben op de directe en, in voorkomend geval, de indirecte, secundaire, cumulatieve en grensoverschrijdende effecten op korte termijn, middellange termijn en lange termijn, permanente en tijdelijke, positieve en negatieve effecten van het project. De aanzienlijke milieueffecten worden onder meer beoordeeld in het licht van de milieukwaliteitsnormen die conform titel II, hoofdstuk II, zijn vastgesteld.
+
+## [BIJLAGE IIbis INFORMATIE OP TE NEMEN IN HET PROJECT-MER ALS VERMELD IN ARTIKEL 4.3.7, § 1 (ing. decr. 23 december 2016, art. 13, I: te bepalen door de Vlaamse Regering)]
+
+### BIJLAGE IIbis
+
+...
 
 ## [BIJLAGE III CRITERIA TER BEPALING VAN DE NEGATIEVE EFFECTEN ALS BEDOELD IN ARTIKEL 15.1.1, 6° (ing. decr. 21 december 2007, art. 3)]
 
