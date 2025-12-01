@@ -916,15 +916,15 @@ De verplichting tot het uitvoeren van een passende beoordeling geldt ook indien 
 <br>
 De initiatiefnemer is verantwoordelijk voor het opstellen van de passende beoordeling.<br>
 <br>
-Voor een plan of programma zoals gedefinieerd in artikel 4.1.1, § 1, 4°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, alsook de wijziging ervan, waarvoor, gelet op het betekenisvolle effect op een speciale beschermingszone, een passende beoordeling is vereist, is hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid van toepassing.<br>
+Een plan of programma als vermeld in artikel 4.1.1, 12°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en de wijzi-ging ervan, waarvoor, gelet op het betekenisvolle effect op een speciale beschermingszone, een passende beoordeling is vereist, valt onder de wer-kingssfeer van titel IV van het voormelde decreet.<br>
 <br>
-Wat betreft een plan of programma als vermeld in het vierde lid, dat geen ruimtelijk uitvoeringsplan is, maakt de passende beoordeling deel uit van de documenten die de initiatiefnemer bij het onderzoek tot milieueffectrapportage, vermeld in titel IV, hoofdstuk II, afdeling 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bezorgt aan de dienst, bevoegd voor milieueffectrapportage. Als de initiatiefnemer een gemotiveerd verzoek tot ontheffing van de verplichting inzake milieueffectrapportage indient als vermeld in artikel 4.2.3, § 3ter, van het voormelde decreet, maakt de passende beoordeling deel uit van dat verzoek. Als een plan-MER wordt opgemaakt, wordt de passende beoordeling daarin geïntegreerd.<br>
+Voor een plan of programma als vermeld in het vierde lid, dat geen ruim-telijk uitvoeringsplan is, voegt de initiatiefnemer de passende beoordeling bij de screening van het plan of programma, vermeld in artikel 4.3.5, §1, van het voormelde decreet. Als een plan-MER wordt opgemaakt, wordt de passende beoordeling daarin geïntegreerd.<br>
 <br>
 Bij een plan of programma als vermeld in het vierde lid, dat een ruimtelijk uitvoeringsplan is, maakt de passende beoordeling, als er geen plan-MER moet worden opgemaakt, zo mogelijk al deel uit van de startnota, vermeld in artikel 2.2.4 van de Vlaamse Codex Ruimtelijke Ordening, en in elk geval van de scopingnota, vermeld in het voormelde artikel. Als uit de scopingnota blijkt dat een plan-MER moet worden opgemaakt, wordt de passende beoordeling in het plan-MER geïntegreerd.<br>
 <br>
-Indien een vergunningsplichtige activiteit overeenkomstig artikel 4.3.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid onderworpen is aan de verplichting tot opmaak van een project-MER, wordt overeenkomstig hoofdstuk III van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid een project-MER opgemaakt.<br>
+Als een vergunningsplichtige activiteit conform artikel 4.3.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid onderwor-pen is aan de verplichting tot opmaak van een project-MER, wordt conform de bepalingen over de milieubeoordeling van projecten, vermeld in hoofdstuk 1, 2, 4 en 5 van titel IV van het voormelde decreet, een project-MER opge-maakt.<br>
 <br>
-De passende beoordeling wordt geïntegreerd in het project-MER of in het gemotiveerd verzoek tot ontheffing van de verplichting tot het opstellen van een project-MER, vermeld in artikel 4.3.3, § 4, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+De passende beoordeling wordt geïntegreerd in het project-MER.<br>
 <br>
 De Vlaamse Regering kan nadere regels van integratie en herkenbaarheid van de passende beoordeling in de milieueffectrapportage bepalen.<br>
 <br>
