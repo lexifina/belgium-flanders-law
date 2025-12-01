@@ -2,16 +2,16 @@
   "codex_id": 1038842,
   "title": "Besluit van de Vlaamse Regering van 2023-09-15 tot vaststelling van nadere regels voor aanvragen, adviezen en beslissingen over de vrijgave van woonreservegebieden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038842/VolledigDocument?datum=2023-11-05",
-  "source_sha256": "e8fb2e620165bc76f91babad92d8c0e7514071d92a5c0600f38badeee04b78f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038842/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "f3be9ef72bdffed53542b9c8d5035483835e3de704e0ea9819c4f71d8a595b7f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038842&param=informatie",
-  "as_of": "2023-11-05",
+  "as_of": "2025-12-01",
   "made": "2023-09-15",
   "gazette": "2023-10-26",
   "numac": 2023046058,
   "document_start": "2023-11-05",
   "document_end": null,
-  "in_force": "2023-11-05",
+  "in_force": "2025-12-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2023-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }

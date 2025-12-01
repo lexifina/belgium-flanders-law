@@ -93,19 +93,21 @@ Samen met het gemeenteraadsbesluit tot voorlopige vaststelling van een volledige
 1° het onderzoek tot milieueffectrapportage en de bijbehorende beslissing van de administratie, vermeld in artikel 4.2.6, §2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 2° het ontwerp van milieueffectrapport, vermeld in artikel 4.2.11 van het voormelde decreet.&nbsp;<br>
 <br>
-Door het gemeenteraadsbesluit op te laden in het digitale platform en daarbij de instanties aan te wijzen die om advies worden gevraagd conform artikel 5.6.12, §4, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, verstuurt het digitale platform automatisch een adviesvraag aan die instanties.<br>
+Samen met het gemeenteraadsbesluit tot voorlopige vaststelling van een volledige of gedeeltelijke vrijgave van het woonreservegebied laadt de gemeente ook een van de volgende documenten op in het digitale platform:<br>
+1° de screening en de bijbehorende motivering, vermeld in artikel 4.3.5, § 1 en § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+2° het ontwerp van milieueffectrapport, vermeld in artikel 4.4.6, § 1 van het voormelde decreet.<br>
 <br>
 De instanties, vermeld in het vierde lid, laden hun advies op in het digitale platform, dat automatisch een bericht verstuurt naar de gemeente.
 
 ### ART 9.
 
-Ter uitvoering van artikel 4.2.11 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid worden het openbaar onderzoek over het vrijgavebesluit en het openbaar onderzoek over het eventuele ontwerp van milieueffectrapport samen gehouden.
+Ter uitvoering van artikel 4.4.6. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid worden het openbaar onderzoek over het vrijgavebesluit en het openbaar onderzoek over het eventuele ontwerp van milieueffectrapport samen gehouden.
 
 ### ART 10.
 
 De gemeente laadt een gemeenteraadsbesluit tot definitieve vaststelling van een volledige of gedeeltelijke vrijgave van een woonreservegebied op in het digitale platform. Het digitale platform verstuurt automatisch een bericht naar alle instanties waaraan advies werd gevraagd met toepassing van artikel 8, vierde lid.<br>
 <br>
-Samen met het gemeenteraadsbesluit tot definitieve vaststelling van een volledige of gedeeltelijke vrijgave van het woonreservegebied laadt de gemeente het goedgekeurde milieueffectrapport, vermeld in artikel 4.2.11, §4, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, of een eventueel aangepast onderzoek tot milieueffectrapportage en de bijbehorende beslissing van de administratie, vermeld in artikel 4.2.6, §2, van het voormelde decreet, op in het digitale platform.<br>
+Samen met het gemeenteraadsbesluit tot definitieve vaststelling van een volledige of gedeeltelijke vrijgave van het woonreservegebied laadt de gemeente het milieueffectrapport, vermeld in artikel 4.4.8, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het bijbehorende kwaliteitsadvies van het Vlaams expertisecentrum m.e.r., vermeld in artikel 4.4.6, §2, tweede lid van het voormelde decreet, op in het digitale platform.<br>
 <br>
 Afschriften van eventuele schorsings- of vernietigingsbesluiten, vermeld in 5.6.12, §7, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, worden opgeladen in het digitale platform. Het digitale platform verstuurt automatisch een bericht naar de gemeente.
 
