@@ -2,16 +2,16 @@
   "codex_id": 1038430,
   "title": "Besluit van de Vlaamse Regering van 2023-05-05 tot regeling van de grensoverschrijdende raadpleging bij milieueffectbeoordeling van projecten van andere landen of gewesten, vermeld in artikel 4.3.9, §5, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038430/VolledigDocument?datum=2023-08-06",
-  "source_sha256": "8f1276e74b32cc5519602c587c4d9b134e3d545a308fd80016496144896d167f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038430/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "21e67e8f36843a6ed2b1f4bc1033f5e3ebae52d85b85bafdcb737052016dc98f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038430&param=informatie",
-  "as_of": "2023-08-06",
+  "as_of": "2025-12-01",
   "made": "2023-05-05",
   "gazette": "2023-07-27",
   "numac": 2023031281,
   "document_start": "2023-08-06",
   "document_end": "2025-11-30",
-  "in_force": "2023-08-06",
+  "in_force": "2025-12-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2023-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }
