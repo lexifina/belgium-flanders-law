@@ -19,6 +19,14 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel XIbis 71 van het Vlaams personeelsstatuut van 13 januari 2006, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024 en gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt punt 1° vervangen door wat volgt:<br>
+“1° verkeersleider centrale Zandvliet, Zeebrugge of Zelzate;”;<br>
+2° in paragraaf 1, eerste lid, wordt punt 5° opgeheven;<br>
+3° in paragraaf 2 worden tussen het woord “Zeebrugge” en het woord “waarop” de woorden “en de verkeersleiders van de centrale Zelzate” ingevoegd.&nbsp;
+
 ### ART 2.
 
 Aan deel XIbis, titel 5, hoofdstuk 6, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 maart 2024, wordt een artikel XIbis 81bis ingevoegd, dat luidt als volgt:<br>
