@@ -310,7 +310,7 @@ De lijst van toegekende certificaten van herkomst worden door het departement ge
 
 De aanvraag voor het bekomen van een certificaat van herkomst wordt aan het departement gericht. Het certificaat van herkomst kan worden aangevraagd vooraleer de benodigde vergunningen werden bekomen.<br>
 <br>
-Het aanvraagdossier dient te worden opgesteld door een opdrachtnemer die hiertoe werd aangesteld door de aanvrager van het certificaat van herkomst. Deze opdrachtnemer dient ofwel te beschikken over de nodige erkenningen voor een bodemsaneringsdeskundige, zoals bedoeld in het decreet van 22 februari 1995 betreffende de bodemsanering, ofwel dient hij overeenkomstig de bepalingen van het besluit van de Vlaamse regering van 23 maart 1989 houdende organisatie van de milieueffectbeoordeling erkend te zijn in de discipline bodem, deeldomein geologie.
+Het aanvraagdossier dient te worden opgesteld door een opdrachtnemer die hiertoe werd aangesteld door de aanvrager van het certificaat van herkomst. Deze opdrachtnemer dient ofwel te beschikken over de nodige erkenningen voor een bodemsaneringsdeskundige, zoals bedoeld in het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming, ofwel is de opdrachtnemer conform de bepalingen van het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu, erkend in de discipline bodem, deeldomein geologie.
 
 ### ART. 10bis.
 
@@ -540,7 +540,7 @@ n) aanduiding van de referentiepunten voor de opeenvolgende metingen;<br>
 
 ### ART. 37.
 
-De stand van zaken van elk aanvraagdossier waarvoor binnen een vastgestelde termijn een goedkeuring van het departement of de minister noodzakelijk is, wordt door het departement geregistreerd in een databank. Deze gegevens zijn opvraagbaar overeenkomstig het decreet van 18 mei 1999 betreffende de openbaarheid van bestuur.
+De stand van zaken van elk aanvraagdossier waarvoor binnen een vastgestelde termijn een goedkeuring van het departement of de minister noodzakelijk is, wordt door het departement geregistreerd in een databank. Deze gegevens zijn opvraagbaar overeenkomstig het het Bestuursdecreet van 7 december 2018.
 
 ### ART. 38.
 
