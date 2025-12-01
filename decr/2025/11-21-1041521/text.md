@@ -13,9 +13,25 @@ In artikel 15/1, eerste en tweede lid, van het decreet van 25 april 2014 betreff
 
 In artikel 20 van hetzelfde decreet, gewijzigd bij het decreet van 8 december 2017 en de decreten van 17 mei 2024, wordt het tweede lid opgeheven.
 
+### ART 4.
+
+In artikel 20 van hetzelfde decreet, gewijzigd bij artikel 3 van dit decreet, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede “artikel 4.3.3, §2,” wordt vervangen door de zinsnede “artikel 4.3.6, §1,”;<br>
+2° het woord “project-m.e.r.-screeningsnota” wordt vervangen door het woord “project-m.e.r.-screening”;<br>
+3° de woorden “die nota” worden vervangen door de woorden “die screening”;<br>
+4° de volgende zin wordt toegevoegd: “De bevoegde overheid of ambtenaar motiveert de beslissing conform artikel 4.3.6, §2, tweede en derde lid, van het DABM.”.
+
 ### ART 5.
 
 In artikel 39 van hetzelfde decreet, gewijzigd bij het decreet van 8 december 2017 en de decreten van 17 mei 2024, wordt het tweede lid opgeheven.
+
+### ART 6.
+
+In artikel 39 van hetzelfde decreet, gewijzigd bij artikel 5 van dit decreet, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede “artikel 4.3.3, §2,” wordt vervangen door de zinsnede “artikel 4.3.6, §1,”;<br>
+2° het woord “project-m.e.r.-screeningsnota” wordt vervangen door het woord “project-m.e.r.-screening”;<br>
+3° de woorden “die nota” worden vervangen door de woorden “die screening”;<br>
+4° de volgende zin wordt toegevoegd: “De bevoegde overheid of ambtenaar motiveert de beslissing conform artikel 4.3.6, §2, tweede en derde lid, van het DABM.”.
 
 ### ART 7.
 
