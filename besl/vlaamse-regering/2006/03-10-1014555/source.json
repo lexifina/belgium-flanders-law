@@ -2,16 +2,16 @@
   "codex_id": 1014555,
   "title": "Besluit van de Vlaamse Regering van 2006-03-10 houdende de vaststelling van de regels voor de scheiding tussen de gemeentelijke en bovengemeentelijke saneringsverplichting en de vaststelling van de zoneringsplannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014555/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "35b3187dd0a135ef4b70b8f700ba1bc86ec5a5331c2404c0b4904e25af7df316",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014555/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "283d850a4146b1f5584addc9b91e18ea67106116d4de44f4fd15463399c8f46b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014555&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2025-12-01",
   "made": "2006-03-10",
   "gazette": "2006-06-09",
   "numac": 2006035863,
   "document_start": "2006-06-19",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2025-12-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }
