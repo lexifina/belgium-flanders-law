@@ -486,8 +486,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 11.9.
 
-De vrijstelling, vermeld in artikel 11.1, tot en met artikel 11.8. geldt enkel voor zover deze handelingen niet voor komen op bijlage I en II van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van de categorieën van projecten onderworpen aan milieueffectrapportage.<br>
-&nbsp;
+De vrijstelling, vermeld in artikel 11.1, tot en met artikel 11.8. geldt enkel voor zover deze handelingen niet voor komen op bijlage 1 van het besluit van de Vlaamse Regering van 24 oktober 2025 tot uitvoering van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft de milieueffectrapportage.
 
 ## HOOFDSTUK 12 Telecommunicatie
 
