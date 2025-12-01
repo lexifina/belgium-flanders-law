@@ -424,90 +424,73 @@ Dit besluit voorziet in de gedeeltelijke omzetting van Richtlijn 2014/52/EU van 
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° administratie bevoegd voor veiligheids- en milieueffectrapportage: de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie;<br>
+1° administratie, bevoegd voor veiligheidsrapportage: de afdeling, bevoegd voor veiligheidsrapportage van het departement Omgeving;<br>
 2° decreet van 5 april 1995: het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
-## HOOFDSTUK 2 Nadere regels voor de milieueffectrapportage over projecten en voor de omgevingsveiligheidsrapportage voorafgaand aan en tijdens de omgevingsvergunningsprocedure
+## HOOFDSTUK 2 Nadere regels voor de omgevingsveiligheidsrapportage voorafgaand aan en tijdens de omgevingsvergunningsprocedure
 
 ## Afdeling 1 De aanmeldingsprocedure
 
-## Onderafdeling 1 De aanmelding van het voorgenomen project-MER
+## Onderafdeling 1 ...
 
 ### ART 3.
 
-De initiatiefnemer meldt zijn voornemen om een project-MER op te stellen, vermeld in artikel 4.3.4, § 1, van het decreet van 5 april 1995, voorafgaand aan de indiening van de vergunningsaanvraag of de vergunningsaanvragen aan de administratie bevoegd voor veiligheids- en milieueffectrapportage en, in voorkomend geval, voorafgaand aan het verzoek tot voorlopige goedkeuring.
+...
 
 ### ART 4.
 
-§ 1. Als de aanmelding een verzoek om advies bevat over de te verstrekken informatie, vermeld in artikel 4.3.4, § 1, lid 2, 7° en § 4 van het decreet van 5 april 1995, bezorgt de administratie bevoegd voor veiligheids- en milieueffectrapportage het verzoek om advies zo spoedig mogelijk aan de relevante bevoegde administraties, overheidsinstellingen en openbare besturen, vermeld in de bijlage die bij dit besluit is gevoegd. Die instanties bezorgen hun advies aan de administratie bevoegd voor veiligheids- en milieueffectrapportage binnen dertig dagen na de ontvangst van het verzoek om advies door de administratie bevoegd voor veiligheids- en milieueffectrapportage. Als een advies niet tijdig wordt verleend, wordt de procedure voortgezet.<br>
-<br>
-De administratie bevoegd voor veiligheids- en milieueffectrapportage neemt een beslissing over de aanmelding conform artikel 5 en bezorgt haar beslissing binnen zestig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer en aan de geraadpleegde administraties, overheidsinstellingen en openbare besturen. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
-<br>
-§ 2. Als uit de aanmelding blijkt dat het project aanzienlijke effecten kan hebben op mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo op 25 februari 1991, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, bezorgt de administratie bevoegd voor veiligheids- en milieueffectrapportage zo spoedig mogelijk samen met de informatie, vermeld in artikel 4.3.4, § 2, van het decreet van 5 april 1995, de vraag aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie of ze hun commentaar aan de administratie bevoegd voor veiligheids- en milieueffectrapportage kunnen meedelen binnen dertig dagen. Als er niet tijdig een antwoord wordt verleend, wordt de procedure voortgezet.<br>
-<br>
-De administratie bevoegd voor veiligheids- en milieueffectrapportage brengt de initiatiefnemer ervan onverwijld op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie gemeld is.<br>
-<br>
-De administratie bevoegd voor veiligheids- en milieueffectrapportage neemt een beslissing over de aanmelding conform artikel 5 en bezorgt haar beslissing binnen zestig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer en aan de geraadpleegde autoriteiten van de lidstaten, verdragspartijen of gewesten. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
-<br>
-§ 3. In alle andere gevallen dan de gevallen, vermeld in paragraaf 1 en 2, neemt de administratie bevoegd voor veiligheids- en milieueffectrapportage een beslissing over de aanmelding conform artikel 5 en bezorgt ze haar beslissing binnen twintig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.
+...
 
 ### ART 5.
 
-De beslissing over de aanmelding omvat ten minste de volgende informatie:<br>
-1° een beslissing over de aanstelling van de opstellers van het project-MER, vermeld in artikel 4.3.4, § 3 van het decreet van 5 april 1995;<br>
-2° in voorkomend geval een advies over de inhoud van het project-MER, vermeld in artikel 4.3.4, § 4 van het voormelde decreet, en de voorgestelde methodologie in het aanmeldingsdossier;<br>
-3° in voorkomend geval een beslissing over de vraag in de aanmelding tot onttrekking aan bekendmaking van de aanmelding of delen ervan.<br>
-<br>
-In voorkomend geval houdt de administratie bevoegd voor veiligheids- en milieueffectrapportage bij haar beslissing rekening met de adviezen, de opmerkingen en de commentaren, vermeld in artikel 4, § 1 en § 2.
+...
 
 ### ART 6.
 
-&nbsp;De administratie bevoegd voor veiligheids- en milieueffectrapportage maakt de aanmelding, vermeld in artikel 3, samen met de beslissing, vermeld in artikel 5, bekend op haar website onmiddellijk nadat de beslissing is genomen.
+...
 
 ## Onderafdeling 2 De aanmelding van het voorgenomen OVR
 
 ### ART 7.
 
-De initiatiefnemer meldt zijn voornemen om een OVR op te stellen, vermeld in artikel 4.5.2, § 1, van het decreet van 5 april 1995, voorafgaand aan de indiening van de vergunningsaanvraag en, in voorkomend geval, voorafgaand aan het verzoek tot voorlopige goedkeuring, aan de administratie bevoegd voor veiligheids- en milieueffectrapportage.
+De initiatiefnemer meldt zijn voornemen om een OVR op te stellen, vermeld in artikel 4/1.3.2., § 1, van het decreet van 5 april 1995, voorafgaand aan de indiening van de vergunningsaanvraag en, in voorkomend geval, voorafgaand aan het verzoek tot voorlopige goedkeuring, aan de administratie bevoegd voor veiligheidsrapportage.
 
 ### ART 8.
 
-§ 1. Als de aanmelding een verzoek om advies bevat over de te verstrekken informatie, vermeld in artikel 4.5.2, § 1, lid 2, 8° van het decreet van 5 april 1995, neemt de administratie bevoegd voor veiligheids- en milieueffectrapportage een beslissing over de aanmelding conform artikel 9 van dit besluit, en bezorgt ze haar beslissing binnen dertig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
+§ 1. Als de aanmelding een verzoek om advies bevat over de te verstrekken informatie, vermeld in artikel 4/1.3.2, § 1, lid 2, 8° van het decreet van 5 april 1995, neemt de administratie bevoegd voor veiligheidsrapportage een beslissing over de aanmelding conform artikel 9 van dit besluit, en bezorgt ze haar beslissing binnen dertig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheidsrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
 <br>
-§ 2. Als uit de aanmelding blijkt dat het project ten gevolge van een zwaar ongeval betekenisvolle effecten kan hebben op mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen, ondertekend in Helsinki op 17 maart 1992, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, bezorgt de administratie bevoegd voor veiligheids- en milieueffectrapportage zo spoedig mogelijk samen met de informatie, vermeld in artikel 4.5.2, § 2, van het decreet van 5 april 1995, de vraag aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie of ze hun commentaar aan de administratie kunnen meedelen binnen dertig dagen. Als er niet tijdig een antwoord wordt verleend, wordt de procedure voortgezet.<br>
+§ 2. Als uit de aanmelding blijkt dat het project ten gevolge van een zwaar ongeval betekenisvolle effecten kan hebben op mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen, ondertekend in Helsinki op 17 maart 1992, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, bezorgt de administratie bevoegd voor veiligheidsrapportage zo spoedig mogelijk samen met de informatie, vermeld in artikel 4/1.3.2, § 2, van het decreet van 5 april 1995, de vraag aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie of ze hun commentaar aan de administratie kunnen meedelen binnen dertig dagen. Als er niet tijdig een antwoord wordt verleend, wordt de procedure voortgezet.<br>
 <br>
-De administratie bevoegd voor veiligheids- en milieueffectrapportage brengt de initiatiefnemer ervan onverwijld op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie gemeld is.<br>
+De administratie bevoegd voor veiligheidsrapportage brengt de initiatiefnemer ervan onverwijld op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie gemeld is.<br>
 <br>
-De administratie bevoegd voor veiligheids- en milieueffectrapportage neemt een beslissing over de aanmelding conform artikel 9 en bezorgt haar beslissing binnen veertig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer en aan de geraadpleegde autoriteiten van de lidstaten, verdragspartijen of gewesten. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
+De administratie bevoegd voor veiligheidsrapportage neemt een beslissing over de aanmelding conform artikel 9 en bezorgt haar beslissing binnen veertig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer en aan de geraadpleegde autoriteiten van de lidstaten, verdragspartijen of gewesten. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheidsrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
 <br>
-§ 3. In alle andere gevallen dan de gevallen, vermeld in paragraaf 1 en 2, neemt de administratie bevoegd voor veiligheids- en milieueffectrapportage een beslissing over de aanmelding conform artikel 9 en bezorgt ze haar beslissing binnen twintig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.
+§ 3. In alle andere gevallen dan de gevallen, vermeld in paragraaf 1 en 2, neemt de administratie bevoegd voor veiligheidsrapportage een beslissing over de aanmelding conform artikel 9 en bezorgt ze haar beslissing binnen twintig dagen na de datum van de ontvangst van het volledige aanmeldingsdossier aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheidsrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.
 
 ### ART 9.
 
 De beslissing over de aanmelding omvat ten minste de volgende informatie:<br>
-1° een beslissing over de aanstelling van de erkende deskundige die het OVR zal opstellen, vermeld in artikel 4.5.2, § 3 van het decreet van 5 april 1995;<br>
-2° in voorkomend geval een advies over de inhoud van het OVR, vermeld in artikel 4.5.2, § 4, van het decreet van 5 april 1995, en de voorgestelde methodologie in het aanmeldingsdossier;<br>
+1° een beslissing over de aanstelling van de erkende deskundige die het OVR zal opstellen, vermeld in artikel 4/1.3.2, § 3, van het decreet van 5 april 1995;<br>
+2° in voorkomend geval een advies over de inhoud van het OVR, vermeld in artikel 4/1.3.2, § 4, van het decreet van 5 april 1995, en de voorgestelde methodologie in het aanmeldingsdossier;<br>
 3° in voorkomend geval een beslissing over de vraag in de aanmelding tot onttrekking aan bekendmaking van de aanmelding of delen ervan.<br>
 <br>
-In voorkomend geval houdt de administratie bevoegd voor veiligheids- en milieueffectrapportage bij haar beslissing rekening met de commentaren, vermeld in artikel 8, § 2.
+In voorkomend geval houdt de administratie bevoegd voor veiligheidsrapportage bij haar beslissing rekening met de commentaren, vermeld in artikel 8, § 2.
 
 ### ART 10.
 
-De administratie bevoegd voor veiligheids- en milieueffectrapportage maakt de aanmelding, vermeld in artikel 7, samen met de beslissing, vermeld in artikel 9, bekend op haar website onmiddellijk nadat de beslissing is genomen.
+De administratie bevoegd voor veiligheidsrapportage maakt de aanmelding, vermeld in artikel 7, samen met de beslissing, vermeld in artikel 9, bekend op haar website onmiddellijk nadat de beslissing is genomen.
 
 ## Afdeling 2 De voorlopige goedkeuring of afkeuring
 
 ### ART 11.
 
-Ter uitvoering van artikel 4.3.4, § 7, van het decreet van 5 april 1995 keurt de administratie bevoegd voor veiligheids- en milieueffectrapportage het project-MER, binnen dertig dagen na de ontvangst ervan, voorlopig goed of af en bezorgt ze die beslissing vervolgens binnen veertig dagen na de ontvangst ervan aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.<br>
-<br>
-Ter uitvoering van artikel 4.5.2, § 7, van het decreet van 5 april 1995 keurt de administratie bevoegd voor veiligheids- en milieueffectrapportage het OVR, binnen dertig dagen na de ontvangst ervan, voorlopig goed of af en bezorgt ze die beslissing vervolgens binnen veertig dagen na de ontvangst ervan aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheids- en milieueffectrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.
+Ter uitvoering van artikel 4/1.3.2, § 7, van het decreet van 5 april 1995 keurt de administratie bevoegd voor veiligheidsrapportage het OVR, binnen dertig dagen na de ontvangst ervan, voorlopig goed of af en bezorgt ze die beslissing vervolgens binnen veertig dagen na de ontvangst ervan aan de initiatiefnemer. Op uitdrukkelijk gemotiveerd verzoek van de administratie bevoegd voor veiligheidsrapportage en in onderling overleg met de initiatiefnemer kan een langere termijn worden afgesproken.
 
-## Afdeling 3 De vergunningsprocedure
+## Afdeling 3 ...
 
 ### ART 12.
 
-Zodra de administratie bevoegd voor veiligheids- en milieueffectrapportage het project-MER van de vergunningverlenende overheid ontvangt met het oog op het verlenen van een beslissing tot goedkeuring of afkeuring, bezorgt ze het project-MER op haar beurt met het oog op advies aan de relevante bevoegde administraties, overheidsinstellingen en openbare besturen, vermeld in de bijlage die bij dit besluit is gevoegd. Die instanties bezorgen hun advies aan de administratie bevoegd voor veiligheids- en milieueffectrapportage binnen dertig dagen na de ontvangst van het verzoek om advies door de administratie bevoegd voor veiligheids- en milieueffectrapportage. Als een advies niet tijdig wordt verleend, wordt het geacht positief te zijn.
+...
 
 ## HOOFDSTUK 3 Wijzigingen van het VLAREBO-besluit van 14 december 2007
 
