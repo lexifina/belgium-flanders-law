@@ -18,15 +18,18 @@ a) een aangetekend schrijven,<br>
 b) een afgifte tegen ontvangstbewijs,<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 4° departement: het Departement Omgeving;<br>
+4°/0 &nbsp;&nbsp; &nbsp;dienst bevoegd voor veiligheidsrapportage: de administratie, vermeld in artikel 4/1.1.1, eerste lid, 2°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid<br>
 4° /1 effectbeoordeling : de effectonderzoeken en effectrapportages die noodzakelijk zijn om een ruimtelijk uitvoeringsplan te onderbouwen, of als ondersteuning voor de te nemen beslissingen;<br>
 4° /2 erkennings-, rangschikkings- en beschermingsbesluiten inzake onroerend erfgoed : de erkennings-, rangschikkings- en beschermingsbesluiten, genomen met toepassing van de wet van 7 augustus 1931 op het behoud van monumenten en landschappen, het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg en het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 5° functie : het feitelijk gebruik van een onroerend goed of een gedeelte daarvan;<br>
 6° grondruilplan : het grondruilplan, vermeld in artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 7° handelingen : werkzaamheden, wijzigingen of activiteiten met ruimtelijke implicaties;<br>
 8° herverkaveling uit kracht van wet met planologische ruil : de herverkaveling uit kracht van wet met planologische ruil, vermeld in artikel 2.1.61 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
-8° /1 kwaliteitsbeoordeling : de kwaliteitsbeoordeling van de effectrapportages door de diensten, bevoegd voor milieueffectrapportage en veiligheidsrapportage, waarin wordt beoordeeld of de effectrapportages voldoen aan de essentiële kenmerken, vermeld in artikel 4.1.4, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, door :<br>
-a) vast te stellen dat geen milieueffectrapport of ruimtelijk veiligheidsrapport vereist is;<br>
-b) de inhoudsafbakening van het milieueffectrapport of ruimtelijk veiligheidsrapport te bepalen en het milieueffectrapport of ruimtelijk veiligheidsrapport daaraan te toetsen;<br>
+8°/1 &nbsp;&nbsp; &nbsp;kwaliteitsbeoordeling:<br>
+a)&nbsp;&nbsp; &nbsp;in geval van een milieueffectrapportage: de beoordeling van het milieueffectrapport door het Vlaams expertisecentrum m.e.r., waarin wordt beoordeeld of het milieueffectrapport voldoet aan de essentiële kenmerken, vermeld in artikel 4.2.1, tweede lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, door over de inhoudsafbakening van het milieueffect-rapport te adviseren en het milieueffectrapport daaraan te toet-sen;<br>
+b)&nbsp;&nbsp; &nbsp;in geval van een veiligheidsrapportage: de beoordeling van de vei-ligheidsrapportage door de dienst, bevoegd voor veiligheidsrappor-tage, waarin wordt beoordeeld of de veiligheidsrapportage voldoet aan de essentiële kenmerken, vermeld in artikel 4/1.1.3, tweede lid, van het voormelde decreet, door:<br>
+1)&nbsp;&nbsp; &nbsp;vast te stellen dat geen ruimtelijk veiligheidsrapport vereist is;<br>
+2)&nbsp;&nbsp; &nbsp;de inhoudsafbakening van het ruimtelijk veiligheidsrapport te bepalen en het ruimtelijk veiligheidsrapport daaraan te toetsen;<br>
 8° /2 landcommissie: een landcommissie als vermeld in artikel 2.2.1 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 9° plan van aanleg : een gewestplan, een algemeen plan van aanleg of een bijzonder plan van aanleg;<br>
 9° /1 projectbesluit : een besluit als vermeld in artikel 2, 10°, van het decreet van 25 april 2014 betreffende complexe projecten;<br>
@@ -62,6 +65,7 @@ d) het herkenbare onderdeel van een projectbesluit dat geldt als ruimtelijk uitv
 14° strategische adviesraad : de strategische adviesraad, opgericht bij het decreet van 10 maart 2006 houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
 15° (sub)categorie van gebiedsaanduiding : een generieke gebiedsbestemming, vermeld in artikel 2.2.6, § 2;<br>
 16° Vlaamse Belastingdienst : de gewestelijke administratie, bevoegd voor de inning en invordering van de Vlaamse belastingen;<br>
+16°/1 Vlaams expertisecentrum m.e.r.: het Vlaams expertisecentrum m.e.r., vermeld in artikel 4.1.1, 19°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 17° Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
 18° voorkeursbesluit : een besluit als vermeld in artikel 2, 19°, van het decreet van 25 april 2014 betreffende complexe projecten;<br>
 19° woonreservegebied: een gebied dat ressorteert onder:<br>
@@ -502,7 +506,9 @@ De regels voor de opmaak en de vaststelling van het gemeentelijk beleidsplan rui
 
 § 1. Een ruimtelijk uitvoeringsplan is het resultaat van een ruimtelijk planningsproces waarbij de effectbeoordelingen procedureel en inhoudelijk geïntegreerd worden in het proces, hierna genoemd : geïntegreerd planningsproces. Die integratie houdt in dat de effectbeoordelingen plaatsvinden tijdens het proces voor de opmaak van het ruimtelijk uitvoeringsplan. De effectbeoordelingen leveren gegevens over de mogelijke effecten van het voorgenomen ruimtelijk uitvoeringsplan. Die gegevens worden verwerkt in het planningsproces voor het voorgenomen ruimtelijk uitvoeringsplan.<br>
 <br>
-De procedure en de termijnen voor de opmaak van de effectbeoordelingen zijn geregeld in hoofdstuk II Ruimtelijke Uitvoeringsplannen van deze codex. Voor de overige aspecten van de effectbeoordelingen zijn artikel 4.2.3, 4.2.4, 4.2.8, § 1bis, artikel 4.2.9, § 1 en § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid voor de planmilieueffectrapportage van toepassing, en titel IV, hoofdstuk IV, van het voormelde decreet voor de ruimtelijke veiligheidsrapportage.<br>
+De procedure en de termijnen voor de opmaak van de effectbeoordelingen zijn geregeld in hoofdstuk II Ruimtelijke Uitvoeringsplannen van deze codex. Voor de overige aspecten van de effectbeoordelingen zijn artikel 4.1.4, tweede lid, artikel 4.3.2, 4.4.4 en 4.5.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid voor de planmilieueffectrapportage van toepassing, en titel IV/1, hoofdstuk 2, van het voormelde decreet voor de ruimtelijke veiligheidsrapportage.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het aanvraagdossier, de procedure en de modaliteiten van het verzoek tot over-nameverplichtingen inzake ruimtelijke uitvoeringsplannen zoals vermeld in artikel 4.1.1. en 4/1.1.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 <br>
 De effectrapporten bevatten de informatie zoals voorgeschreven in de toepasselijke regelgeving, met dien verstande dat naar de informatie die overeenkomstig de bepalingen van deze codex al in het ruimtelijk uitvoeringsplan is opgenomen, verwezen wordt in de effectrapporten.<br>
 <br>
@@ -560,18 +566,18 @@ De informatie over de inspraak of adviesvraag in elke fase geeft duidelijk aan w
 3° een beknopte beschrijving van de alternatieven voor het ontwerpplan of voor onderdelen ervan, die de initiatiefnemer heeft overwogen, en een beknopte beschrijving van de voor- en nadelen van de verschillende alternatieven;<br>
 4° een beschrijving van de reikwijdte en het detailleringsniveau van het voorgenomen ruimtelijk uitvoeringsplan en daaraan gekoppeld de reikwijdte en het detailleringsniveau van de te voeren effectonderzoeken zoals in die fase gekend;<br>
 5° de relatie met het&nbsp;ruimtelijk structuurplan of ruimtelijk beleidsplan en, in voorkomend geval, met andere relevante beleidsplannen;<br>
-6° de beschrijving van de te onderzoeken effecten en van de inhoudelijke aanpak van de effectbeoordelingen, met inbegrip van de methodologie, zoals bepaald door de wetgeving van de op te maken effectbeoordelingen en van andere onderzoeken die nodig zijn voor het plan. In voorkomend geval bevat de startnota ook een weergave van de gedane analyse, vermeld in artikel 4.2.6, § 1, 5°, en artikel 4.4.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, met inbegrip van de redenen waarom geen planmilieueffectrapport, respectievelijk ruimtelijk veiligheidsrapport moet worden opgemaakt;<br>
+6° de beschrijving van de te onderzoeken effecten en van de inhoudelijke aanpak van de effectbeoordelingen, met inbegrip van de methodologie, zoals bepaald door de wetgeving van de op te maken effectbeoordelingen en van andere onderzoeken die nodig zijn voor het plan. In voorkomend geval bevat de startnota ook de screening, vermeld in artikel 4.3.5, §1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, of de gedane analyse, vermeld in artikel 4/1.2.1 van het voormelde decreet, met inbegrip van de redenen waarom geen planmilieueffectrapport, respectievelijk ruimtelijk veiligheidsrapport moet worden opgemaakt;<br>
 7° in voorkomend geval, relevante gegevens uit vorige effectbeoordelingen of uit de goedgekeurde rapporten die daaruit zijn voortgekomen;<br>
 8° in voorkomend geval, de impact of het effect dat het geïntegreerde planningsproces kan hebben op mens of milieu in een ander gewest of land of op de gebieden die onder de federale bevoegdheid vallen;<br>
 9° een overzicht van instrumenten die samen met het voorgenomen ruimtelijk uitvoeringsplan ingezet kunnen worden, als die al bekend zijn in deze fase.<br>
 <br>
-§ 3. De scopingnota bouwt voort op de startnota en bevat minstens dezelfde onderdelen als de startnota. De scopingnota bepaalt de te onderzoeken ruimtelijke aspecten en de effectbeoordelingen die moeten worden uitgevoerd, alsook de methode ervan. Bij de opmaak wordt rekening gehouden met de adviezen en het resultaat van de participatie, vermeld in artikel 2.2.7, § 2, artikel 2.2.12, § 2, en artikel 2.2.18, § 2, van deze codex. De diensten, bevoegd voor milieueffectrapportage en veiligheidsrapportage, integreren hun kwaliteitsbeoordeling over de inhoudsafbakening van het planmilieueffectrapport conform artikel 4.2.8, § 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, respectievelijk van het ruimtelijk veiligheidsrapport conform artikel 4.4.2, § 3, van het voormelde decreet, in de scopingnota. De scopingnota is samen met de procesnota de leidraad voor het verdere verloop van het geïntegreerde planningsproces dat leidt tot de opmaak van het voorontwerp van ruimtelijk uitvoeringsplan.<br>
+§ 3. De scopingnota bouwt voort op de startnota en bevat minstens dezelfde onderdelen als de startnota. De scopingnota bepaalt de te onderzoeken ruimtelijke aspecten en de effectbeoordelingen die moeten worden uitgevoerd, alsook de methode ervan. Bij de opmaak wordt rekening gehouden met de adviezen en het resultaat van de participatie, vermeld in artikel 2.2.7, § 2, artikel 2.2.12, § 2, en artikel 2.2.18, § 2, van deze codex. Aan het Vlaams expertisecentrum m.e.r. wordt gevraagd om een advies te verlenen naargelang het geval over de screening of over de reikwijdte, het detailleringsniveau en de inhoudelijke aanpak van het milieueffectrapport. De dienst, bevoegd voor veiligheidsrapportage, integreert zijn kwaliteitsbeoorde-ling over de inhoudsafbakening van het ruimtelijk veiligheidsrapport conform artikel 4/1.2.2, §2, van het voormelde decreet, in de scopingnota. De scopingnota is samen met de procesnota de leidraad voor het verdere verloop van het geïntegreerde planningsproces dat leidt tot de opmaak van het voorontwerp van ruimtelijk uitvoeringsplan.<br>
 <br>
-Als uit de scopingnota blijkt dat een milieueffectrapport of een ruimtelijk veiligheidsrapport opgemaakt moet worden, maakt de dienst, bevoegd voor milieueffectrapportage, respectievelijk de dienst bevoegd voor veiligheidsrapportage, voor het verdere verloop van het geïntegreerde planningsproces deel uit van het planteam in functie van de effectrapportage.<br>
+Als uit de scopingnota blijkt dat een milieueffectrapport of een ruimtelijk veiligheidsrapport opgemaakt moet worden, maakt het Vlaams expertisecentrum m.e.r., respectievelijk de dienst bevoegd voor veiligheidsrapportage, voor het verdere verloop van het geïntegreerde planningsproces deel uit van het planteam in functie van de effectrapportage.<br>
 <br>
-Uiterlijk voor de voorlopige vaststelling van het ontwerp van ruimtelijk uitvoeringsplan wordt in de scopingnota door de dienst bevoegd voor milieueffectrapportage bepaald of een milieueffectrapport moet worden opgemaakt.<br>
+In voorkomend geval motiveert het planteam uiterlijk voor de voorlopige vaststelling van het ontwerp van ruimtelijk uitvoeringsplan in de scopingnota aan de hand van de criteria, vermeld in bijlage I bij het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, waarom het voorge-nomen ruimtelijk uitvoeringsplan geen aanzienlijke milieueffecten kan hebben. Daarbij wordt rekening gehouden met de screening, de adviezen die verleend zijn over de startnota en het advies van het Vlaams expertisecentrum m.e.r. over de screening.<br>
 <br>
-Uiterlijk voor de voorlopige vaststelling van het ontwerp van ruimtelijk uitvoeringsplan wordt in de scopingnota door de dienst bevoegd voor veiligheidsrapportage, in de gevallen bepaald overeenkomstig artikel 4.4.1, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bepaald of een ruimtelijk veiligheidsrapport moet worden opgemaakt.<br>
+Uiterlijk voor de voorlopige vaststelling van het ontwerp van ruimtelijk uitvoeringsplan wordt in de scopingnota door de dienst bevoegd voor veiligheidsrapportage, in de gevallen bepaald overeenkomstig artikel 4/1.2.1, tweede lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, bepaald of een ruimtelijk veiligheidsrapport moet worden opgemaakt.<br>
 <br>
 De scopingnota kan tijdens het geïntegreerde planningsproces aangevuld worden. De aangevulde scopingnota wordt op dezelfde wijze gepubliceerd als de oorspronkelijke scopingnota.<br>
 <br>
@@ -588,7 +594,7 @@ De scopingnota kan tijdens het geïntegreerde planningsproces aangevuld worden. 
 6° de relatie met het&nbsp;ruimtelijk structuurplan of ruimtelijk beleidsplan of de ruimtelijke structuurplannen of ruimtelijke beleidsplannen waarvan het een uitvoering is en, in voorkomend geval, een omschrijving van andere relevante beleidsplannen;<br>
 7° in voorkomend geval, een zo mogelijk limitatieve opgave van de voorschriften die strijdig zijn met het ruimtelijk uitvoeringsplan en die opgeheven worden;<br>
 7°/1 in voorkomend geval, een toelichting van de wijze waarop aan de bepalingen van artikel 2.2.6/1 wordt voldaan;<br>
-8° de kwaliteitsbeoordeling en, in voorkomend geval, de verklaring, vermeld in artikel 4.2.11, § 7, eerste lid, 2°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en, in voorkomend geval, een overzicht van de conclusies van de volgende effectbeoordelingen waarbij aangegeven wordt hoe die geïntegreerd zijn in het plan :<br>
+8° de kwaliteitsbeoordeling en, in voorkomend geval, de verklaring, vermeld in artikel 4.1.1, 6°, e), van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en, in voorkomend geval, een overzicht van de conclusies van de volgende effectbeoordelingen waarbij aangegeven wordt hoe die geïntegreerd zijn in het plan :<br>
 a) het planmilieueffectrapport;<br>
 b) de passende beoordeling;<br>
 c) het ruimtelijk veiligheidsrapport;<br>
@@ -744,7 +750,7 @@ De Vlaamse Regering kan te allen tijde beslissen om alsnog een plenaire vergader
 <br>
 De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.<br>
 <br>
-De Vlaamse Regering stuurt een individuele kennisgeving met een beveiligde zending naar de eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder of de leasinggever van de betrokken beschermde onroerende goederen als in het ontwerp van gewestelijk ruimtelijk uitvoeringsplan een erkennings-, rangschikkings- of beschermingsbesluit inzake onroerend erfgoed geheel of gedeeltelijk wordt gewijzigd of opgeheven. Die personen brengen de gebruikers van het onroerend goed en de zakelijkrechthouders van de cultuurgoederen met een beveiligde zending op de hoogte van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Ze brengen het departement met een beveiligde zending op de hoogte van de eventuele verkoop of overdracht van het eigendomsrecht of van de overdracht van een ander zakelijk recht, met de bijbehorende stavingsdocumenten, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving van de Vlaamse Regering vermeld. De nieuwe eigenaars of de nieuwe houders van het zakelijk recht worden op hun beurt door de Vlaamse Regering met een beveiligde zending van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan op de hoogte gebracht.<br>
+De Vlaamse Regering stuurt een individuele kennisgeving met een beveiligde zending naar de eigenaar, de blote eigenaar, de erfpachthouder, de opstalhouder of de leasinggever van de betrokken beschermde onroerende goederen als in het ontwerp van gewestelijk ruimtelijk uitvoeringsplan een erkennings-, rangschikkings- of beschermingsbesluit inzake onroerend erfgoed geheel of gedeeltelijk wordt gewijzigd of opgeheven. Die personen brengen de gebruikers en eigenaars van de cultuurgoederen met een beveiligde zending op de hoogte van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Ze brengen het departement met een beveiligde zending op de hoogte van de eventuele verkoop of overdracht van het eigendomsrecht of van de overdracht van een ander zakelijk recht, met de bijbehorende stavingsdocumenten, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving van de Vlaamse Regering vermeld. De nieuwe eigenaars of de nieuwe houders van het zakelijk recht worden op hun beurt door de Vlaamse Regering met een beveiligde zending van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan op de hoogte gebracht.<br>
 <br>
 § 3. Na de aankondiging worden het ontwerp van gewestelijk ruimtelijk uitvoeringsplan en het ontwerp van de effectbeoordelingsrapporten gedurende zestig dagen ter inzage gelegd in het gemeentehuis van elke gemeente waarvan het grondgebied door het ontwerp van gewestelijk ruimtelijk uitvoeringsplan of effectbeoordelingsrapporten geheel of gedeeltelijk wordt bestreken, en worden de ontwerpen gepubliceerd op de website, zoals gespecificeerd door de Vlaamse Regering.<br>
 <br>
@@ -758,7 +764,7 @@ De gemeenteraad en de provincieraad van respectievelijk de gemeenten en de provi
 <br>
 § 5. De Vlaamse Regering stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek het gewestelijk ruimtelijk uitvoeringsplan definitief vast.<br>
 <br>
-De bevoegde diensten voor milieueffectrapportage en veiligheidsrapportage beoordelen voorafgaand aan de definitieve vaststelling van het ruimtelijk uitvoeringsplan de kwaliteit van het planmilieueffectrapport respectievelijk ruimtelijk veiligheidsrapport. Ze toetsen aan de scopingnota en aan de gegevens die vereist zijn conform artikel 4.2.8, § 1bis, respectievelijk artikel 4.4.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en ze houden rekening met de tijdens het openbaar onderzoek geformuleerde adviezen, opmerkingen en bezwaren.<br>
+Het Vlaams expertisecentrum m.e.r. en de dienst, bevoegd voor veiligheidsrapportage beoordelen voorafgaand aan de definitieve vaststelling van het ruimtelijk uitvoeringsplan de kwaliteit van het planmilieueffectrapport respectievelijk ruimtelijk veiligheidsrapport. Ze toetsen aan de scopingnota en aan de gegevens die vereist zijn conform artikel 4.4.4 en 4/1.2.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en ze houden rekening met de tijdens het openbaar onderzoek geformuleerde adviezen, opmerkingen en bezwaren.<br>
 <br>
 Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de adviezen, opmerkingen en bezwaren die tijdens het openbaar onderzoek geformuleerd zijn.<br>
 <br>
@@ -807,7 +813,7 @@ Het advies wordt uitgebracht binnen een termijn van zestig dagen, die ingaat op 
 <br>
 De deputatie informeert de bevolking van de betrokken gemeenten uiterlijk de eerste dag van de termijn van zestig dagen over de inhoud van de startnota, raadpleegt de bevolking over de startnota gedurende dezelfde termijn, organiseert hierover ten minste één participatiemoment en maakt daarvan een verslag.<br>
 <br>
-De reacties worden uiterlijk de laatste dag van de termijn van de inspraak aan de deputatie bezorgd. De wijze waarop reacties bezorgd kunnen worden, alsook de uiterste datum worden uitdrukkelijk vermeld in de informatie over de startnota. De deputatie bezorgt de startnota, de adviezen, de reacties en het verslag van het participatiemoment aan de bevoegde dienst voor milieueffectrapportage en veiligheidsrapportage binnen een termijn van&nbsp;tien dagen na het afsluiten van de termijn.<br>
+De reacties worden uiterlijk de laatste dag van de termijn van de inspraak aan de deputatie bezorgd. De wijze waarop reacties bezorgd kunnen worden, alsook de uiterste datum worden uitdrukkelijk vermeld in de informatie over de startnota. De deputatie bezorgt de startnota, de adviezen, de reacties en het verslag van het participatiemoment aan het Vlaams expertisecentrum m.e.r. en de dienst, bevoegd voor veiligheidsrapportage binnen een termijn van&nbsp;tien dagen na het afsluiten van de termijn.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor deze adviesvraag en inspraak.
 
@@ -862,7 +868,7 @@ Als de provinciale commissie voor ruimtelijke ordening geen advies heeft verleen
 <br>
 § 6. De provincieraad stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek, tweehonderdentien dagen in geval van verlenging van de termijn, vermeld in paragraaf 5, eerste lid, het provinciaal ruimtelijk uitvoeringsplan definitief vast.<br>
 <br>
-De bevoegde diensten voor milieueffectrapportage en veiligheidsrapportage beoordelen voorafgaand aan de definitieve vaststelling van het ruimtelijk uitvoeringsplan de kwaliteit van het planmilieueffectrapport respectievelijk ruimtelijk veiligheidsrapport. Ze toetsen aan de scopingnota en aan de gegevens die vereist zijn conform artikel 4.2.8, § 1bis, respectievelijk artikel 4.4.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en ze houden rekening met de tijdens het openbaar onderzoek geformuleerde adviezen, opmerkingen en bezwaren.<br>
+Het Vlaams expertisecentrum m.e.r. en de dienst, bevoegd voor veiligheidsrapportage beoordelen voorafgaand aan de definitieve vaststelling van het ruimtelijk uitvoeringsplan de kwaliteit van het planmilieueffectrapport respectievelijk ruimtelijk veiligheidsrapport. Ze toetsen aan de scopingnota en aan de gegevens die vereist zijn conform artikel 4.4.4 en 4/1.2.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en ze houden rekening met de tijdens het openbaar onderzoek geformuleerde adviezen, opmerkingen en bezwaren.<br>
 <br>
 Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen, of uit de adviezen, uitgebracht door de aangewezen diensten en overheden, door een ander land, gewest of door de federale overheid, of uit het advies van de provinciale commissie voor ruimtelijke ordening.<br>
 <br>
@@ -931,7 +937,7 @@ Het advies wordt uitgebracht binnen een termijn van zestig dagen, die ingaat op 
 <br>
 Het college van burgemeester en schepenen informeert de bevolking van de gemeente uiterlijk de eerste dag van die termijn over de inhoud van de startnota, raadpleegt de bevolking over de startnota gedurende dezelfde termijn, organiseert hierover ten minste één participatiemoment en maakt daarvan een verslag.<br>
 <br>
-De reacties worden uiterlijk de laatste dag van de termijn van de inspraak aan het college van burgemeester en schepenen bezorgd. De wijze waarop reacties bezorgd kunnen worden, alsook de uiterste datum worden uitdrukkelijk vermeld in de informatie over de startnota. Het college van burgemeester en schepenen bezorgt de startnota, de adviezen, de reacties en het verslag van het participatiemoment aan de bevoegde dienst voor milieueffectrapportage en veiligheidsrapportage binnen een termijn van&nbsp;tien dagen na het afsluiten van de termijn.<br>
+De reacties worden uiterlijk de laatste dag van de termijn van de inspraak aan het college van burgemeester en schepenen bezorgd. De wijze waarop reacties bezorgd kunnen worden, alsook de uiterste datum worden uitdrukkelijk vermeld in de informatie over de startnota. Het college van burgemeester en schepenen bezorgt de startnota, de adviezen, de reacties en het verslag van het participatiemoment aan het Vlaams expertisecentrum m.e.r. en de dienst, bevoegd voor veiligheidsrapportage binnen een termijn van&nbsp;tien dagen na het afsluiten van de termijn.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor deze adviesvraag en inspraak.
 
@@ -957,19 +963,19 @@ Het college van burgemeester en schepenen kan te allen tijde beslissen om alsnog
 
 ### ART 2.2.21.
 
-§ 1. De gemeenteraad stelt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan voorlopig vast.<br>
+§1. De gemeenteraad stelt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan voorlopig vast.<br>
 <br>
 Na de voorlopige vaststelling wordt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan onmiddellijk opgestuurd naar de deputatie van de provincie waarin de gemeente ligt, naar het departement en naar de Vlaamse Regering.<br>
 <br>
-§ 2. Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan samen met het ontwerp van de effectbeoordelingsrapporten aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in paragraaf 1, minstens wordt aangekondigd door een bericht in het Belgisch Staatsblad. Die termijn is een termijn van orde.<br>
+§2. Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan samen met het ontwerp van de effectbeoordelingsrapporten aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in paragraaf 1, minstens wordt aangekondigd door een bericht in het Belgisch Staatsblad. Die termijn is een termijn van orde.<br>
 <br>
 De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.<br>
 <br>
-§ 3. Na de aankondiging worden het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan en het ontwerp van de effectbeoordelingsrapporten gedurende zestig dagen ter inzage gelegd in het gemeentehuis en worden de ontwerpen gepubliceerd op de website, zoals gespecificeerd door het college van burgemeester en schepenen. Voor zover de effectbeoordelingsrapporten geheel of gedeeltelijk het grondgebied van andere gemeenten bestrijken worden het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan en het ontwerp van de effectbeoordelingsrapporten tevens ter inzage gelegd in die gemeentehuizen.<br>
+§3. Na de aankondiging worden het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan en het ontwerp van de effectbeoordelingsrapporten gedurende zestig dagen ter inzage gelegd in het gemeentehuis en worden de ontwerpen gepubliceerd op de website, zoals gespecificeerd door het college van burgemeester en schepenen. Voor zover de effectbeoordelingsrapporten geheel of gedeeltelijk het grondgebied van andere gemeenten bestrijken worden het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan en het ontwerp van de effectbeoordelingsrapporten tevens ter inzage gelegd in die gemeentehuizen.<br>
 <br>
 Het openbaar onderzoek start uiterlijk op de dertigste dag nadat de aankondiging ervan in het Belgisch Staatsblad verschenen is. Die termijn is een termijn van orde.<br>
 <br>
-§ 4. De opmerkingen en de bezwaren worden uiterlijk de laatste dag van het openbaar onderzoek schriftelijk of digitaal aan de gemeentelijke commissie voor ruimtelijke ordening bezorgd.<br>
+§4. De opmerkingen en de bezwaren worden uiterlijk de laatste dag van het openbaar onderzoek schriftelijk of digitaal aan de gemeentelijke commissie voor ruimtelijke ordening bezorgd.<br>
 <br>
 De opmerkingen en de bezwaren kunnen ook uiterlijk de laatste dag van die termijn in het gemeentehuis worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval binnen tien dagen na het openbaar onderzoek de bezwaren en de opmerkingen aan de gemeentelijke commissie voor ruimtelijke ordening. Met de opmerkingen en de bezwaren die te laat aan de gemeentelijke commissie voor ruimtelijke ordening worden bezorgd, hoeft geen rekening te worden gehouden. De Vlaamse Regering kan nadere regels vaststellen voor de ontvangst en het bijhouden van bezwaren en opmerkingen door de gemeente en voor de wijze waarop ze aan de gemeentelijke commissie voor ruimtelijke ordening worden bezorgd.<br>
 <br>
@@ -981,13 +987,13 @@ Het departement bezorgt de gemeentelijke commissie voor ruimtelijke ordening en 
 <br>
 De gemeenteraad en de deputatie van respectievelijk de gemeenten en de provincies die grenzen aan de gemeente, kunnen de gemeentelijke commissie voor ruimtelijke ordening een advies bezorgen binnen de termijn, vermeld in paragraaf 3. Als toepassing is gemaakt van artikel 2.2.20, eerste lid, ten aanzien van een ander land of gewest of ten aanzien van de federale overheid kunnen deze instanties een advies bezorgen binnen dezelfde termijn.<br>
 <br>
-§ 5. De gemeentelijke commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen negentig dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de gemeenteraad. Het advies bevat de integrale adviezen van de deputatie en van het departement. Op hetzelfde ogenblik bezorgt de gemeentelijke commissie voor ruimtelijke ordening het college van burgemeester en schepenen de gebundelde adviezen, opmerkingen en bezwaren.<br>
+§5. De gemeentelijke commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen negentig dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de gemeenteraad. Het advies bevat de integrale adviezen van de deputatie en van het departement. Op hetzelfde ogenblik bezorgt de gemeentelijke commissie voor ruimtelijke ordening het college van burgemeester en schepenen de gebundelde adviezen, opmerkingen en bezwaren.<br>
 <br>
 Als de gemeentelijke commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de gemeenteraad.<br>
 <br>
-§ 6. De gemeenteraad stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek het gemeentelijk ruimtelijk uitvoeringsplan definitief vast.<br>
+§6. De gemeenteraad stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek het gemeentelijk ruimtelijk uitvoeringsplan definitief vast.<br>
 <br>
-De bevoegde diensten voor milieueffectrapportage en veiligheidsrapportage beoordelen voorafgaand aan de definitieve vaststelling van het ruimtelijk uitvoeringsplan de kwaliteit van het planmilieueffectrapport respectievelijk ruimtelijk veiligheidsrapport. Ze toetsen aan de scopingnota en aan de gegevens die vereist zijn conform artikel 4.2.8, § 1bis, respectievelijk artikel 4.4.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en ze houden rekening met de tijdens het openbaar onderzoek geformuleerde adviezen, opmerkingen en bezwaren.<br>
+Het Vlaams expertisecentrum m.e.r. en de dienst, bevoegd voor veiligheidsrapportage beoordelen voorafgaand aan de definitieve vaststelling van het ruimtelijk uitvoeringsplan de kwaliteit van het planmilieueffectrapport respectievelijk ruimtelijk veiligheidsrapport. Ze toetsen aan de scopingnota en aan de gegevens die vereist zijn conform artikel 4.4.4 en 4/1.2.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, en ze houden rekening met de tijdens het openbaar onderzoek geformuleerde adviezen, opmerkingen en bezwaren.<br>
 <br>
 Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen, of uit de adviezen, uitgebracht door de aangewezen diensten en overheden, of uit het advies van de gemeentelijke commissie voor ruimtelijke ordening.<br>
 <br>
@@ -995,9 +1001,9 @@ De definitieve vaststelling van het plan kan echter geen betrekking hebben op de
 <br>
 Op gemotiveerd verzoek van het college van burgemeester en schepenen beslist de gemeenteraad over een verlenging met zestig dagen van de termijn waarin het plan moet worden vastgesteld.<br>
 <br>
-§ 7. Als het gemeentelijk ruimtelijk uitvoeringsplan niet definitief wordt vastgesteld binnen de termijn, vermeld in paragraaf 6, eerste lid, vervalt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan.<br>
+§7. Als het gemeentelijk ruimtelijk uitvoeringsplan niet definitief wordt vastgesteld binnen de termijn, vermeld in paragraaf 6, eerste lid, vervalt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan.<br>
 <br>
-§ 8. De gemeenteraad kan, met het oog op het herstel van een onregelmatigheid, het besluit houdende definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het wettigheidsgebrek wordt rechtgezet.<br>
+§8. De gemeenteraad kan, met het oog op het herstel van een onregelmatigheid, het besluit houdende definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het wettigheidsgebrek wordt rechtgezet.<br>
 <br>
 De bepalingen van paragraaf 6 zijn onverminderd van toepassing, met uitzondering van de vervaltermijn van honderdtachtig dagen.
 
@@ -2148,7 +2154,7 @@ Hetzelfde geldt voor handelingen aan of in de omgeving van een beschermd monumen
 <br>
 De Vlaamse Regering bepaalt welke handelingen van algemeen belang onder het toepassingsgebied van het eerste lid vallen. Ze kan ook de regels bepalen op basis waarvan kan worden beslist dat niet door haar opgesomde handelingen toch onder het toepassingsgebied van het eerste lid vallen.<br>
 <br>
-Deze paragraaf verleent nimmer vrijstelling van de toepassing van de bepalingen inzake de milieueffectrapportage over projecten, opgenomen in hoofdstuk III van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+Deze paragraaf verleent nimmer vrijstelling van de toepassing van de bepalingen inzake de milieueffectrapportage over projecten, opgenomen in titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 &nbsp;
 
 ### ART. 4.4.7/1.
