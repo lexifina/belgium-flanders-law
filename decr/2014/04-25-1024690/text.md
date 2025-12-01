@@ -33,7 +33,7 @@ dan wel het verkavelen van gronden;<br>
 <br>
 Tenzij bij dit decreet een andersluidende definitie is bepaald, zijn de volgende definities van toepassing in dit decreet :<br>
 1° de definities, vermeld in artikel 1.1.2 en 4.1.1 van de VCRO;<br>
-2° de definities, vermeld in artikel 5.1.1 en 5.1.2 van het DABM;<br>
+2° de definities, vermeld in artikel 4.1.1, 5.1.1 en 5.1.2 van het DABM;;<br>
 3° de definities, vermeld in artikel 2 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;<br>
 4° de definities, vermeld in artikel 2 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.</p>
 
@@ -233,11 +233,11 @@ Van de vergunningsaanvraag, vermeld in het eerste lid, wordt kennisgenomen en er
 ### ART 15/1.
 
 Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een project of voor de verandering van een project, waarvoor overeenkomstig artikel 15 het college van burgemeester en schepenen bevoegd is, is evenwel de deputatie bevoegd als voldaan is aan volgende twee voorwaarden:<br>
-1°&nbsp;voor het project wordt een milieueffectrapport of project-m.e.r.-screening opgesteld en is er geen ontheffing van de rapportageverplichting verkregen;<br>
+1° voor het project wordt een milieueffectrapport of project-m.e.r.-screening opgesteld ;<br>
 2° het college van burgemeester en schepenen is initiatiefnemer en aanvrager van het project.<br>
 <br>
 Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een project of voor de verandering van een project, waarvoor overeenkomstig artikel 15 de deputatie bevoegd is, is evenwel de Vlaamse Regering bevoegd als voldaan is aan volgende twee voorwaarden:<br>
-1°&nbsp;voor het project wordt een milieueffectrapport of project-m.e.r.-screening opgesteld en is er geen ontheffing van de rapportageverplichting verkregen;<br>
+1° voor het project wordt een milieueffectrapport of project-m.e.r.-screening opgesteld ;<br>
 2° de deputatie is initiatiefnemer en aanvrager van het project.
 
 ## Onderafdeling 2 Omgevingsvergunningscommissie
@@ -297,11 +297,17 @@ De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 20.
 
-Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.
+Als met toepassing van artikel 4.3.6, §1, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screening is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die screening en beslist of er over het project een milieueffectrapport moet worden opgesteld.&nbsp;De bevoegde overheid of ambtenaar motiveert de beslissing conform artikel 4.3.6, §2, tweede en derde lid, van het DABM.
 
 ### ART. 21.
 
-<P>Het resultaat van het onderzoek, vermeld in artikel 19 en 20, wordt bij   beveiligde zending aan de aanvrager meegedeeld binnen een termijn van dertig   dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij   na de ontvangst van de ontbrekende gegevens of documenten.<BR></P>  <P>De beslissing dat er voor het project een milieueffectrapport moet worden   opgesteld, heeft van rechtswege de onvolledigheid van de vergunningsaanvraag en   de stopzetting van de vergunningsprocedure tot gevolg.<BR></P>  <P>Als het resultaat van het onderzoek, vermeld in artikel 20, niet binnen de   termijn, vermeld in het eerste lid, aan de indiener van de vergunningsaanvraag   is verzonden, doet de bevoegde vergunningverlenende overheid binnen een termijn   van negentig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is   ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten   uitdrukkelijk uitspraak of er een milieueffectrapport moet worden opgesteld. Als   zij beslist dat er een milieueffectrapport moet worden opgesteld verklaart zij   de vergunningsaanvraag onvolledig en zonder voorwerp en wordt de procedure   stopgezet.<BR><BR>Tegen de beslissing dat er een milieueffectrapport moet worden   opgesteld, de vergunningsaanvraag onvolledig en zonder voorwerp is en tegen de   stopzetting van de procedure kan geen administratief beroep als vermeld in   hoofdstuk 3 worden ingesteld..<BR></P>  <P>Als de bevoegde overheid, vermeld in artikel 20, beslist dat er een   milieueffectrapport over het project moet worden opgesteld, kan de aanvrager een   gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de   afdeling, bevoegd voor milieueffectrapportage overeenkomstig de procedure,   vermeld in artikel 4.3.3, § 3 tot en met § 9, van het DABM. De beslissing van de   afdeling, bevoegd voor milieueffectrapportage, vermeld in artikel 4.3.3, § 6,   van hetzelfde decreet, is bindend voor de bevoegde overheid, vermeld in artikel   20.<BR></P>
+<p>Het resultaat van het onderzoek, vermeld in artikel 19 en 20, wordt bij beveiligde zending aan de aanvrager meegedeeld binnen een termijn van dertig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.</p>
+
+<p>De beslissing dat er voor het project een milieueffectrapport moet worden opgesteld, heeft van rechtswege de onvolledigheid van de vergunningsaanvraag en de stopzetting van de vergunningsprocedure tot gevolg.</p>
+
+<p>Als het resultaat van het onderzoek, vermeld in artikel 20, niet binnen de termijn, vermeld in het eerste lid, aan de indiener van de vergunningsaanvraag is verzonden, doet de bevoegde vergunningverlenende overheid binnen een termijn van negentig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten uitdrukkelijk uitspraak of er een milieueffectrapport moet worden opgesteld. Als zij beslist dat er een milieueffectrapport moet worden opgesteld verklaart zij de vergunningsaanvraag onvolledig en zonder voorwerp en wordt de procedure stopgezet.<br>
+<br>
+Tegen de beslissing dat er een milieueffectrapport moet worden opgesteld, de vergunningsaanvraag onvolledig en zonder voorwerp is en tegen de stopzetting van de procedure kan geen administratief beroep als vermeld in hoofdstuk 3 worden ingesteld.</p>
 
 ### ART. 22.
 
@@ -339,7 +345,12 @@ Als het project vergunningsplichtige kleinhandelsactiviteiten omvat met een nett
 
 ### ART. 28.
 
-<P>Tenzij het milieueffectrapport of het omgevingsveiligheidsrapport al   goedgekeurd en nog actueel is, maakt de afdeling bevoegd voor   milieueffectrapportage en veiligheidsrapportage haar beslissing over de   goedkeuring of afkeuring van dit rapport bekend met toepassing van artikel   4.3.8, § 3, en artikel 4.5.7, § 3, van het DABM.<BR><BR>Als de afdeling bevoegd   voor milieueffectrapportage en veiligheidsrapportage het milieueffectrapport of   omgevingsveiligheidsrapport afkeurt, dan wordt de vergunningsprocedure van   rechtswege stopgezet.<BR></P>
+<p>Tenzij het milieueffectrapport of het omgevingsveiligheidsrapport al goedgekeurd en nog actueel is, maakt het Vlaams expertisecentrum m.e.r., respectievelijk de afdeling, bevoegd voor veiligheidsrapportage, zijn beslissing over de goedkeuring of afkeuring van dat rapport bekend met toepassing van artikel 4.4.7, §3, en artikel 4/1.3.6, §3, van het DABM.<br>
+<br>
+Als de afdeling, bevoegd voor veiligheidsrapportage, het omgevingsveiligheidsrapport afkeurt, wordt de vergunningsprocedure van rechtswege stopgezet.<br>
+<br>
+In dit artikel wordt verstaan onder de afdeling, bevoegd voor veiligheidsrapportage: de administratie, vermeld in artikel 4/1.1.1, eerste lid, 2°, van het DABM.<br>
+&nbsp;</p>
 
 ### ART. 29.
 
@@ -471,7 +482,7 @@ De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 39.
 
-Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.
+Als met toepassing van artikel 4.3.6, § 1, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screening is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die screening en beslist of er over het project een milieueffectrapport moet worden opgesteld.&nbsp;De bevoegde overheid of ambtenaar motiveert de beslissing conform artikel 4.3.6, §2, tweede en derde lid, van het DABM.
 
 ### ART. 40.
 
@@ -481,9 +492,7 @@ Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvr
 
 <p>Als het resultaat van het onderzoek, vermeld in artikel 39, niet binnen de termijn, vermeld in het eerste lid, aan de indiener van de vergunningsaanvraag is verzonden, doet de bevoegde vergunningverlenende overheid binnen een termijn van negentig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten uitdrukkelijk uitspraak of er een milieueffectrapport moet worden opgesteld. Als zij beslist dat er een milieueffectrapport moet worden opgesteld verklaart zij de vergunningsaanvraag onvolledig en zonder voorwerp en wordt de procedure stopgezet.<br>
 <br>
-Tegen de beslissing dat er een milieueffectrapport moet worden opgesteld, de vergunningsaanvraag onvolledig en zonder voorwerp is en tegen de stopzetting van de procedure kan geen administratief beroep als vermeld in hoofdstuk 3 worden ingesteld.<br>
-<br>
-Als de bevoegde overheid, vermeld in artikel 15, of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar, beslist dat er een milieueffectrapport over het project moet worden opgesteld, kan de aanvrager een gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de afdeling, bevoegd voor milieueffectrapportage overeenkomstig de procedure, vermeld in artikel 4.3.3, § 3 tot en met § 9, van het DABM. De beslissing van de afdeling, bevoegd voor milieueffectrapportage, vermeld in artikel 4.3.3, § 6, van hetzelfde decreet, is bindend voor de bevoegde overheid, vermeld in artikel 15, of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar.</p>
+Tegen de beslissing dat er een milieueffectrapport moet worden opgesteld, de vergunningsaanvraag onvolledig en zonder voorwerp is en tegen de stopzetting van de procedure kan geen administratief beroep als vermeld in hoofdstuk 3 worden ingesteld.</p>
 
 ### ART. 41.
 
@@ -2485,16 +2494,13 @@ De bepalingen van artikel 5 van het decreet van 28 juni 1985 betreffende   de mi
 
 <p>Als met toepassing van het eerste lid de milieuvergunning geacht wordt voor onbepaalde duur verleend te zijn, wordt de milieuvergunning voor de verandering van de exploitatie van de ingedeelde inrichting of activiteit ook voor onbepaalde duur geacht verleend te zijn, behalve als in het vergunningsbesluit van die milieuvergunning in een kortere vergunningstermijn is voorzien dan die welke op dat ogenblik gold voor de inrichting waarvoor de verandering toegelaten is.<br>
 <br>
-§ 1/1. Als met toepassing van artikel 4.3.3, § 2, van het DABM bij het meldingsformulier een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.<br>
+§ 1/1. Als met toepassing van artikel 4.3.6, § 1, van het DABM bij het meldingsformulier een project-m.e.r.-screening is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar die screening en beslist of er over het project een milieueffectrapport moet worden opgesteld.<br>
 <br>
 Het resultaat van het onderzoek, vermeld in het eerste lid, wordt bij beveiligde zending aan de aanvrager meegedeeld binnen een termijn van negentig dagen vanaf de dag na de datum waarop het meldingsformulier is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.<br>
 <br>
 De beslissing dat er voor het project een milieueffectrapport moet worden opgesteld, heeft van rechtswege de stopzetting van de omzettingsprocedure tot gevolg.<br>
 <br>
-Als de bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar, beslist dat er een milieueffectrapport over het project moet worden opgesteld, kan de aanvrager een gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de afdeling, bevoegd voor milieueffectrapportage overeenkomstig de procedure, vermeld in artikel 4.3.3, § 3 tot en met § 9, van het DABM. De beslissing van de afdeling, bevoegd voor milieueffectrapportage, vermeld in artikel 4.3.3, § 6, van hetzelfde decreet, is bindend voor de bevoegde overheid, vermeld in het eerste lid.<br>
-&nbsp;</p>
-
-<p>§ 2. De bevoegde overheid, vermeld in artikel 15, neemt akte van de mededeling, vermeld in paragraaf 1, punt 1°. De akte geeft de geactualiseerde vergunningssituatie op het vlak van de exploitatie van de ingedeelde inrichtingen of activiteiten weer. De bijzondere milieuvoorwaarden die als gevolg van hun tijdelijke karakter, van een veranderde exploitatie of van enige wettelijke of reglementaire bepaling geen uitwerking meer hebben, worden in de geactualiseerde vergunningssituatie niet vermeld.</p>
+§ 2. De bevoegde overheid, vermeld in artikel 15, neemt akte van de mededeling, vermeld in paragraaf 1, punt 1°. De akte geeft de geactualiseerde vergunningssituatie op het vlak van de exploitatie van de ingedeelde inrichtingen of activiteiten weer. De bijzondere milieuvoorwaarden die als gevolg van hun tijdelijke karakter, van een veranderde exploitatie of van enige wettelijke of reglementaire bepaling geen uitwerking meer hebben, worden in de geactualiseerde vergunningssituatie niet vermeld.</p>
 
 <p>De akte geldt als bewijs dat de milieuvergunning voortaan van onbepaalde duur is. Tegen die akte kan geen administratief beroep worden ingediend.</p>
 
