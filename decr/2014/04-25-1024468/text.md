@@ -21,8 +21,8 @@ b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere betekeningswijze die toegelaten is door de Vlaamse Regering, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 4° bevoegde overheid : de overheid die als enige bevoegd is voor het nemen van het voorkeursbesluit of projectbesluit over een complex project;<br>
 5° complex project : een project van groot maatschappelijk en ruimtelijk-strategisch belang dat vraagt om een geïntegreerd vergunningen- en ruimtelijk planproces;<br>
-6° dienst bevoegd voor milieueffectrapportage : de door de Vlaamse Regering aangewezen dienst bevoegd voor milieueffectrapportage;<br>
-7° MER : een milieurapport waarin de te verwachten gevolgen voor mens en milieu van een voorgenomen complex project en van de redelijkerwijs in beschouwing te nemen alternatieven in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geanalyseerd en geëvalueerd, en waarin aangegeven wordt op welke wijze de aanzienlijke milieueffecten vermeden, beperkt, verholpen of gecompenseerd kunnen worden;<br>
+6° ...;<br>
+7° milieueffectrapport, afgekort MER: een geheel van milieu-informatie, ongeacht de drager, waarin, van een voorgenomen actie en van de redelijkerwijze in beschouwing te nemen alternatieven de te verwachten aanzienlijke gevolgen voor mens en milieu in hun onderlinge samenhang op een systematische en wetenschappelijk verantwoorde wijze worden geanalyseerd en geëvalueerd. In het milieueffectrapport wordt aangegeven op welke wijze de aanzienlijke milieueffecten vermeden, beperkt, verholpen of gecompenseerd kunnen worden;<br>
 8° onderzoeksfase : de fase waarin een initiatief tot complex project in het licht van het te nemen voorkeursbesluit op zijn effecten wordt onderzocht;<br>
 9° procesverantwoordelijke : de door de bevoegde overheid aangewezen verantwoordelijke voor de formele processtappen tijdens de verkennings-, onderzoeks-, uitwerkings- of uitvoeringsfase van het complexe project;<br>
 10° projectbesluit : het eindbesluit van de bevoegde overheid over een complex project, genomen bij de afronding van de uitwerkingsfase en houdende vaststelling van een op uitvoeringsniveau gekozen alternatief;<br>
@@ -38,6 +38,7 @@ d) een gebied, aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijk
 16° uitwerkingsfase : de fase waarin het door het voorkeursbesluit gekozen alternatief van een complex project in het licht van het te nemen projectbesluit op zijn effecten wordt onderzocht;<br>
 17° Verdrag van Espoo : het verdrag inzake milieu-effectrapportage in grensoverschrijdend verband, aangenomen in Espoo op 25 februari 1991;<br>
 18° verkenningsfase : de fase waarin een initiatief tot complex project wordt voorbereid en aan de Vlaamse Regering, de provincieraad of gemeenteraad wordt voorgelegd;<br>
+18°/1 Vlaams expertisecentrum m.e.r.: het Vlaams expertisecentrum m.e.r., vermeld in artikel 4.1.1, 19°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid<br>
 19° voorkeursbesluit : het eerste besluit van de bevoegde overheid over een complex project, genomen bij de afronding van de onderzoeksfase en houdende vaststelling van een op strategisch niveau gekozen alternatief.
 
 ## Afdeling 3 Doelstelling en toepassingsgebied
@@ -52,7 +53,7 @@ Dit decreet regelt de mogelijkheid om voor een complex project te kiezen   voor 
 
 ### ART. 4.
 
-Dit decreet doet geen afbreuk aan de doelstellingen en inhoudelijke   verplichtingen die zijn vastgesteld bij of krachtens de Vlaamse Codex   Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen   inzake milieubeleid en de wetten, decreten en besluiten, vermeld in artikel 39,   40 en 41 met uitzondering van titel IV, hoofdstukken II, III en VI, afdeling   III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid en met uitzondering van artikel 36ter, § 3 tot en met § 6, van het   decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk   milieu.<BR>
+Dit decreet doet geen afbreuk aan de doelstellingen en inhoudelijke verplichtingen die zijn vastgesteld bij of krachtens de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de wetten, decreten en besluiten, vermeld in artikel 39, 40 en 41 met uitzondering van titel IV, hoofdstuk 4 en 5,&nbsp;van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en met uitzondering van artikel 36ter, § 3 tot en met § 6, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.
 
 ### ART 5.
 
@@ -124,7 +125,7 @@ De bevoegde overheid, vermeld in artikel 6, vervult haar taken voortvloeiende ui
 
 ### ART. 8.
 
-<p>§ 1. Bij de start van de onderzoeksfase wordt een alternatievenonderzoeksnota opgesteld. Die bevat een beschrijving van :<br>
+<p>§1. Bij de start van de onderzoeksfase wordt een alternatievenonderzoeksnota opgesteld. Die bevat een beschrijving van :<br>
 1° de doelstellingen en de geografische werkingssfeer van het geplande project;<br>
 2° de op strategisch niveau redelijkerwijs te onderzoeken alternatieven;<br>
 3° de wijze waarop de effecten van de redelijke alternatieven zullen worden onderzocht en beoordeeld in het licht van het te nemen voorkeursbesluit.<br>
@@ -133,7 +134,7 @@ Om overlapping van beoordeling te voorkomen, wordt er in de alternatievenon-derz
 <br>
 In de alternatievenonderzoeksnota, vermeld in het eerste lid, wordt de reikwijdte en het detailleringsniveau van het MER afgestemd op de inhoud en het detailleringsniveau van het te nemen voorkeursbesluit.<br>
 <br>
-§ 2. De procesverantwoordelijke bezorgt de alternatievenonderzoeksnota aan de dienst bevoegd voor milieueffectrapportage en aan de door de Vlaamse Regering bepaalde adviesinstanties.</p>
+§2. De procesverantwoordelijke bezorgt de alternatievenonderzoeksnota aan het Vlaams expertisecentrum m.e.r. en aan de door de Vlaamse Regering bepaalde adviesinstanties.&nbsp;De procesverantwoordelijke vraagt het Vlaams expertisecentrum m.e.r. een advies over de reikwijdte en het detailleringsniveau van de informatie die in het MER moet worden opgenomen, in het licht van het te nemen voorkeurs-besluit</p>
 
 <p>Het publiek wordt over de alternatievenonderzoeksnota geraadpleegd.</p>
 
@@ -141,15 +142,15 @@ In de alternatievenonderzoeksnota, vermeld in het eerste lid, wordt de reikwijdt
 
 <p>De Vlaamse Regering bepaalt de adviesinstanties, vermeld in het eerste lid, en kan nadere regels bepalen voor de adviesverlening door de adviesinstanties en de raadpleging van het publiek, vermeld in het eerste en het tweede lid. De Vlaamse Regering kan tevens de wijze en voorwaarden bepalen waarop de procesverantwoordelijke de alternatievenonderzoeksnota bezorgt aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten, vermeld in het derde lid.</p>
 
-<p>§ 3. De dienst bevoegd voor milieueffectrapportage beslist over de reikwijdte en het detailleringsniveau van de informatie die in het MER moet worden opgenomen, in het licht van het te nemen voorkeursbesluit. De dienst bevoegd voor milieueffectrapportage houdt bij zijn beslissing rekening met de adviezen van de adviesinstanties, met de opmerkingen van het publiek en met het resultaat van de grensoverschrijdende raadpleging, vermeld in paragraaf 2. De dienst bevoegd voor milieueffectrapportage integreert zijn beslissing in de alternatievenonderzoeksnota.</p>
-
-<p>De Vlaamse Regering bepaalt de nadere regels voor de beslissing van de dienst bevoegd voor milieueffectrapportage, vermeld in het eerste lid, en voor de bekendmaking van deze beslissing.</p>
+<p>§3. De procesverantwoordelijke kan het Vlaams expertisecentrum m.e.r. verzoeken een geïntegreerd advies te verlenen over de reikwijdte en het detailleringsniveau van de informatie die in het MER moet worden opgenomen. In dat geval is de adviesvraag aan het Vlaams expertisecentrum m.e.r., vermeld in paragraaf 2, eerste lid, niet verplicht. Het Vlaams expertisecen-trum m.e.r. houdt bij het geïntegreerde advies rekening met de adviezen van de adviesinstanties en met het resultaat van de grensoverschrijdende raad-pleging, vermeld in paragraaf 2, derde lid.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. het geïntegreerde scopingadvies, vermeld in het eerste lid, verleent en ter beschikking stelt aan de geraadpleegde adviesinstanties en het betrokken publiek.</p>
 
 ## Onderafdeling 2 Geïntegreerd effectenonderzoek
 
 ### ART. 9.
 
-<p>Op grond van de alternatievenonderzoeksnota, de adviezen en de opmerkingen van het publiek, vermeld in artikel 8, § 2, en de beslissing van de dienst bevoegd voor milieueffectrapportage, vermeld in artikel 8, § 3, wordt een geïntegreerd effectenonderzoek uitgevoerd.</p>
+<p>Op grond van de alternatievenonderzoeksnota, de adviezen en de opmerkingen van het publiek, vermeld in artikel 8, § 2, en het advies van het Vlaams expertisecentrum m.e.r., vermeld in artikel 8, §2, eerste lid, of §3 vermeld in artikel 8, § 3, wordt een geïntegreerd effectenonderzoek uitgevoerd.</p>
 
 <p>Het geïntegreerde effectenonderzoek omvat ten minste het ruimtelijke en het milieugerelateerde effectenonderzoek op strategisch niveau.</p>
 
@@ -161,7 +162,7 @@ In de alternatievenonderzoeksnota, vermeld in het eerste lid, wordt de reikwijdt
 
 ### ART. 10.
 
-<p>De inhoud van het ontwerp van MER wordt gebaseerd op de inhoudsvereisten, vermeld in artikel 4.2.8, § 1bis, en artikel 4.3.7 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.&nbsp;Bij het bepalen van de inhoud van het ontwerp van MER wordt rekening gehouden met de alternatievenonderzoeksnota, de adviezen en de opmerkingen van het publiek, vermeld in artikel 8, §2, en de beslissing van de dienst, bevoegd voor milieueffectrapportage, vermeld in artikel 8, §3.</p>
+<p>De inhoud van het ontwerp van MER wordt gebaseerd op de inhoudsvereisten, vermeld in artikel 4.4.4 en 4.4.5, §2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.&nbsp;Bij het bepalen van de inhoud van het ontwerp van MER wordt rekening gehouden met de alternatievenonderzoeksnota, de adviezen en de opmerkingen van het publiek, vermeld in artikel 8, §2, en desgevallend het geïntegreerd scopingsadvies van het Vlaams expertise-centrum m.e.r., vermeld in artikel 8, §3.</p>
 
 <p>Het ontwerp van MER houdt rekening met het detailleringsniveau van het te nemen voorkeursbesluit en met de doelstellingen en de geografische werkingssfeer van het geplande complexe project.</p>
 
@@ -177,7 +178,16 @@ In de alternatievenonderzoeksnota, vermeld in het eerste lid, wordt de reikwijdt
 
 <p>Alle adviesinstanties geven uiterlijk op het moment van de adviesvergadering hun advies. Als de adviesinstanties geen advies uitbrengen uiterlijk op de adviesvergadering, mag aan de adviesvereiste worden voorbijgegaan.</p>
 
-<p>De Vlaamse Regering kan de nadere procedurele regels voor de adviesvergadering vastleggen.</p>
+<p>De Vlaamse Regering kan de nadere procedurele regels voor de adviesvergadering vastleggen.<br>
+<br>
+§3. De procesverantwoordelijke bezorgt het ontwerp van MER voor advies aan het Vlaams expertisecentrum m.e.r.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. geeft een advies over de kwaliteit van het ontwerp van MER en toetst het ontwerp van MER inhoudelijk aan zijn advies, vermeld in artikel 8, §2, eerste lid, of §3, en aan de vereisten over de inhoud, vermeld in artikel 10, eerste lid.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. geeft advies uiterlijk op het moment van de adviesvergadering, vermeld in paragraaf 2. Als het Vlaams expertisecentrum m.e.r. geen advies uitbrengt uiterlijk op het moment van de adviesvergadering, mag aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+De Vlaamse Regering bepaalt de modaliteiten van de adviesvraag vermeld in het eerste lid.<br>
+&nbsp;</p>
 
 ### ART. 12.
 
@@ -229,11 +239,11 @@ b) de voorschriften van plannen van aanleg en van ruimtelijke uitvoeringsplannen
 
 ### ART 15/1.
 
-De dienst, bevoegd voor milieueffectrapportage, beoordeelt de kwaliteit van het ontwerp van MER en toetst het ontwerp van MER inhoudelijk aan de beslissing, vermeld in artikel 8, § 3, en aan de inhoudsvereisten, vermeld in artikel 10, eerste lid.<br>
+Het Vlaams expertisecentrum m.e.r. beoordeelt de kwaliteit van het ontwerp van MER en toetst het ontwerp van MER inhoudelijk aan de beslissing, vermeld in artikel 8, § 3, en aan de inhoudsvereisten, vermeld in artikel 10, eerste lid.<br>
 <br>
-Voor het voorkeursbesluit vastgesteld wordt, beslist de dienst, bevoegd voor milieueffectrapportage, over de goedkeuring of afkeuring van het MER. Hij bezorgt die beslissing aan de procesverantwoordelijke en aan de instanties en bevoegde autoriteiten waaraan conform artikel 8, § 2, eerste en derde lid, om advies werd verzocht.<br>
+Voor het voorkeursbesluit vastgesteld wordt, beslist het Vlaams expertisecentrum m.e.r. over de goedkeuring of afkeuring van het MER. Hij bezorgt die beslissing aan de procesverantwoordelijke en aan de instanties en bevoegde autoriteiten waaraan conform artikel 8, § 2, eerste en derde lid, om advies werd verzocht.<br>
 <br>
-In geval van afkeuring geeft de dienst bevoegd voor milieueffectrapportage aan waar het MER tekortschiet. De beslissing vermeldt dat de procesverantwoordelijke een gemotiveerd verzoek tot heroverweging kan indienen tegen de afkeuringsbeslissing.<br>
+In geval van afkeuring geeft het Vlaams expertisecentrum m.e.r. aan waar het MER tekortschiet. De beslissing vermeldt dat de procesverantwoordelijke een gemotiveerd verzoek tot heroverweging kan indienen tegen de afkeuringsbeslissing.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de procedure tot heroverweging, vermeld in het derde lid, en voor de bekendmaking van de beslissing, vermeld in het tweede lid.
 
@@ -276,32 +286,38 @@ In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit to
 
 ### ART. 18.
 
-<p>§ 1. Bij de start van de uitwerkingsfase wordt een projectonderzoeksnota opgesteld. Die bevat een beschrijving van :<br>
+<p>§1. Bij de start van de uitwerkingsfase wordt een projectonderzoeksnota opgesteld. Die bevat een beschrijving van :<br>
 1° het project en de flankerende maatregelen die opgenomen zijn in het voorkeursbesluit;<br>
 2° in voorkomend geval, een afweging over andere op inrichtings- en uit-voeringsniveau redelijkerwijs te onderzoeken alternatieven en varianten;<br>
 3° de wijze waarop de effecten van het project, de flankerende maatregelen en de redelijke alternatieven zullen worden onderzocht en beoordeeld in het licht van het te nemen projectbesluit.<br>
 <br>
 Een projectonderzoeksnota als vermeld in het eerste lid, kan gelden voor verschillende projectbesluiten als het alternatief dat in het voorkeursbesluit op strategisch niveau gekozen is, resulteert in verschillende concrete pro-jecten.</p>
 
-<p>§ 2. De procesverantwoordelijke bezorgt de projectonderzoeksnota aan de dienst bevoegd voor milieueffectrapportage en aan de door de Vlaamse Regering bepaalde adviesinstanties.</p>
+<p>§2. De procesverantwoordelijke bezorgt de projectonderzoeksnota aan het Vlaams expertisecentrum m.e.r. en aan de door de Vlaamse Regering bepaalde adviesinstanties.&nbsp;De procesverantwoordelijke vraagt het Vlaams expertisecentrum m.e.r. een advies over de reikwijdte en het detailleringsniveau van de informatie die in het MER moet worden opgenomen, in het licht van het te nemen projectbesluit.</p>
 
 <p>Als uit de projectonderzoeksnota blijkt dat er aanzienlijke effecten kunnen zijn voor mens of milieu in andere lidstaten van de Europese Unie, in verdragspartijen bij het Verdrag van Espoo of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, legt de procesverantwoordelijke de projectonderzoeksnota, samen met alle beschikbare informatie over de mogelijke (gewest)grensoverschrijdende effecten, voor advies voor aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, wat betreft de aanzienlijke effecten voor mens of milieu.</p>
 
 <p>De Vlaamse Regering bepaalt de adviesinstanties en kan nadere regels bepalen voor de adviesverlening door de adviesinstanties, vermeld in het eerste lid. De Vlaamse Regering kan tevens de wijze en voorwaarden bepalen waarop de procesverantwoordelijke de projectonderzoeksnota bezorgt aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten, vermeld in het tweede lid.</p>
 
-<p>§ 3. De dienst bevoegd voor milieueffectrapportage beslist over de reikwijdte en het detailleringsniveau van de informatie die in het MER moet worden opgenomen, in het licht van het te nemen projectbesluit. De dienst bevoegd voor milieueffectrapportage houdt bij zijn beslissing rekening met de adviezen van de adviesinstanties en met het resultaat van de grensoverschrijdende raadpleging, vermeld in paragraaf 2.</p>
-
-<p>De Vlaamse Regering bepaalt de nadere regels voor de beslissing van de afdeling bevoegd voor milieueffectrapportage, vermeld in het eerste lid, en voor de bekendmaking van deze beslissing.</p>
+<p>§3. De procesverantwoordelijke kan het Vlaams expertisecentrum m.e.r. verzoeken een geïntegreerd advies te verlenen over de reikwijdte en het detailleringsniveau van de informatie die in het MER moet worden opgenomen. In dat geval is de adviesvraag aan het Vlaams expertisecentrum m.e.r., vermeld in paragraaf 2, eerste lid, niet verplicht. Het Vlaams expertisecen-trum m.e.r. houdt bij het geïntegreerde advies rekening met de adviezen van de adviesinstanties en met het resultaat van de grensoverschrijdende raad-pleging, vermeld in paragraaf 2, tweede lid.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor de wijze waarop en de termijnen waarin het Vlaams expertisecentrum m.e.r. het geïntegreerde scopingadvies, vermeld in het eerste lid, verleent en ter beschikking stelt aan de geraadpleegde adviesinstanties en het betrokken publiek.</p>
 
 ## Onderafdeling 2 Geïntegreerd effectenonderzoek
 
 ### ART. 19.
 
-<P>Op grond van de projectonderzoeksnota, vermeld in artikel 18, § 1, de   adviezen, vermeld in artikel 18, § 2, en de beslissing van de dienst bevoegd   voor milieueffectrapportage, vermeld in artikel 18, § 3, wordt een geïntegreerd   effectenonderzoek gevoerd.<BR></P>  <P>Het geïntegreerd effectenonderzoek omvat ten minste het ruimtelijke en het   milieugerelateerde effectenonderzoek op uitvoeringsniveau.<BR></P>  <P>Als het complexe project, afzonderlijk of in combinatie met andere plannen of   projecten betekenisvolle effecten kan hebben voor een speciale beschermingszone   wordt een passende beoordeling gemaakt van de gevolgen voor dat gebied, waarbij   rekening wordt gehouden met de instandhoudingsdoelstellingen ervan. Die passende   beoordeling maakt een als dusdanig herkenbaar onderdeel uit van het   milieugerelateerde effectenonderzoek. De resultaten van het milieugerelateerde   effectenonderzoek worden vastgelegd in een ontwerp van MER.<BR></P>  <P>Op grond van toepasselijke regelgeving van andere beleidssectoren die   relevant zijn bij de beoordeling van een complex project, kunnen andere   onderzoeken, dan vermeld in het tweede en derde lid, in het onderzoek op   uitvoeringsniveau betrokken worden.<BR></P>
+<p>Op grond van de projectonderzoeksnota, vermeld in artikel 18, § 1, de adviezen, vermeld in artikel 18, § 2, en het advies van het Vlaams expertisecentrum m.e.r., vermeld in artikel 18, §2, eerste lid, of §3 wordt een geïntegreerd effectenonderzoek gevoerd.</p>
+
+<p>Het geïntegreerd effectenonderzoek omvat ten minste het ruimtelijke en het milieugerelateerde effectenonderzoek op uitvoeringsniveau.</p>
+
+<p>Als het complexe project, afzonderlijk of in combinatie met andere plannen of projecten betekenisvolle effecten kan hebben voor een speciale beschermingszone wordt een passende beoordeling gemaakt van de gevolgen voor dat gebied, waarbij rekening wordt gehouden met de instandhoudingsdoelstellingen ervan. Die passende beoordeling maakt een als dusdanig herkenbaar onderdeel uit van het milieugerelateerde effectenonderzoek. De resultaten van het milieugerelateerde effectenonderzoek worden vastgelegd in een ontwerp van MER.</p>
+
+<p>Op grond van toepasselijke regelgeving van andere beleidssectoren die relevant zijn bij de beoordeling van een complex project, kunnen andere onderzoeken, dan vermeld in het tweede en derde lid, in het onderzoek op uitvoeringsniveau betrokken worden.</p>
 
 ### ART. 20.
 
-<p>De inhoud van het ontwerp van MER wordt gebaseerd op de inhoudsvereisten, vermeld in artikel 4.2.8, § 1bis, en artikel 4.3.7 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.</p>
+<p>De inhoud van het ontwerp van MER wordt gebaseerd op de inhoudsvereisten, vermeld in artikel 4.4.4 en 4.4.5, §2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.</p>
 
 <p>Het ontwerp van MER houdt rekening met het detailleringsniveau van het te nemen projectbesluit en met de doelstellingen en de geografische werkingssfeer van het geplande project.</p>
 
@@ -309,17 +325,26 @@ Een projectonderzoeksnota als vermeld in het eerste lid, kan gelden voor verschi
 
 ### ART. 21.
 
-<p>§ 1. De resultaten van het geïntegreerde effectenonderzoek worden vastgelegd in effectenonderzoeksrapporten, waaronder het ontwerp van MER.</p>
+<p>§1. De resultaten van het geïntegreerde effectenonderzoek worden vastgelegd in effectenonderzoeksrapporten, waaronder het ontwerp van MER.</p>
 
 <p>Op basis van de conclusies van de effectenonderzoeksrapporten worden een synthesenota en een voorontwerp van projectbesluit opgemaakt.</p>
 
-<p>§ 2. De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van projectbesluit aan de adviesinstanties, vermeld in artikel 18, §2, die uitgenodigd worden op een adviesvergadering.</p>
+<p>§2. De procesverantwoordelijke bezorgt de synthesenota, de effectenonderzoeksrapporten en het voorontwerp van projectbesluit aan de adviesinstanties, vermeld in artikel 18, §2, die uitgenodigd worden op een adviesvergadering.</p>
 
 <p>De bestuursorganen, entiteiten of ambtenaren die gemachtigd zijn om in voorkomend geval de beslissingen, vermeld in artikel 40 en artikel 41 te nemen behoren in elk geval ook tot de adviesinstanties, vermeld in het eerste lid.</p>
 
 <p>Alle adviesinstanties geven uiterlijk op het moment van de adviesvergadering hun advies. Als de adviesinstanties geen advies uitbrengen uiterlijk op de adviesvergadering, mag aan de adviesvereiste worden voorbijgegaan.</p>
 
-<p>De Vlaamse Regering kan de nadere procedurele regels voor de adviesvergadering vastleggen.</p>
+<p>De Vlaamse Regering kan de nadere procedurele regels voor de adviesvergadering vastleggen.<br>
+<br>
+§3. De procesverantwoordelijke bezorgt het ontwerp van MER voor advies aan het Vlaams expertisecentrum m.e.r.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. geeft een advies over de kwaliteit van het ontwerp van MER en toetst het ontwerp van MER inhoudelijk aan haar advies, vermeld in artikel 18, §2, eerste lid, of §3, en aan de vereisten voor de inhoud, vermeld in artikel 20, eerste lid.<br>
+<br>
+Het Vlaams expertisecentrum m.e.r. geeft advies uiterlijk op het moment van de adviesvergadering, vermeld in paragraaf 2. Als het Vlaams expertisecentrum m.e.r. geen advies uitbrengt uiterlijk op het moment van de adviesvergadering, mag aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+De Vlaamse Regering bepaalt de modaliteiten van de adviesvraag, vermeld in het eerste lid.<br>
+&nbsp;</p>
 
 ## Onderafdeling 3 Ontwerp van projectbesluit
 
@@ -377,7 +402,13 @@ b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br
 
 ### ART. 25.
 
-<P>De dienst bevoegd voor milieueffectrapportage beoordeelt de kwaliteit van het   ontwerp van MER en toetst het ontwerp van MER inhoudelijk aan de beslissing,   vermeld in artikel 18, § 3, en aan de inhoudsvereisten, vermeld in artikel 20,   eerste lid.<BR></P>  <P>Voor het projectbesluit definitief vastgesteld wordt, beslist de dienst   bevoegd voor milieueffectrapportage over de goedkeuring of afkeuring van het   MER. Hij bezorgt die beslissing aan de procesverantwoordelijke en aan de   instanties en bevoegde autoriteiten waaraan conform artikel 18, § 2, en artikel   21, § 2, om advies werd verzocht.<BR></P>  <P>In geval van afkeuring geeft de dienst bevoegd voor milieueffectrapportage   aan waar het MER tekortschiet. De beslissing vermeldt dat de   procesverantwoordelijke een gemotiveerd verzoek tot heroverweging kan indienen   tegen de afkeuringsbeslissing.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de procedure tot   heroverweging, vermeld in het derde lid. Ze kan de nadere regels bepalen voor de   bekendmaking van de beslissing, vermeld in het tweede lid.<BR></P>
+<p>Het Vlaams expertisecentrum m.e.r. beoordeelt de kwaliteit van het ontwerp van MER en toetst het ontwerp van MER inhoudelijk aan de beslissing, vermeld in artikel 18, § 3, en aan de inhoudsvereisten, vermeld in artikel 20, eerste lid.</p>
+
+<p>Voor het projectbesluit definitief vastgesteld wordt, beslist het Vlaams expertisecentrum m.e.r. over de goedkeuring of afkeuring van het MER. Hij bezorgt die beslissing aan de procesverantwoordelijke en aan de instanties en bevoegde autoriteiten waaraan conform artikel 18, § 2, en artikel 21, § 2, om advies werd verzocht.</p>
+
+<p>In geval van afkeuring geeft het Vlaams expertisecentrum m.e.r. aan waar het MER tekortschiet. De beslissing vermeldt dat de procesverantwoordelijke een gemotiveerd verzoek tot heroverweging kan indienen tegen de afkeuringsbeslissing.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels voor de procedure tot heroverweging, vermeld in het derde lid. Ze kan de nadere regels bepalen voor de bekendmaking van de beslissing, vermeld in het tweede lid.</p>
 
 ## Onderafdeling 5 Projectbesluit
 
@@ -387,7 +418,7 @@ b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br
 
 <p>De bepalingen van artikel 16, § 1, tweede tot en met vierde lid, zijn van overeenkomstige toepassing bij de beslissing over de definitieve vaststelling van het projectbesluit.</p>
 
-<p>Het definitief vastgestelde projectbesluit heeft dezelfde indeling als vermeld in artikel 23, derde lid en bevat bovendien een gemotiveerde conclusie over de aanzienlijke effecten van het project op het milieu. Bij het nemen van de gemotiveerde conclusie wordt rekening gehouden met de beslissing over de goedkeuring van het MER van de dienst die bevoegd is voor milieueffectrapportage, en met de adviezen en de inspraak in het kader van het projectbesluit.</p>
+<p>Het definitief vastgestelde projectbesluit heeft dezelfde indeling als vermeld in artikel 23, derde lid en bevat bovendien een gemotiveerde conclusie over de aanzienlijke effecten van het project op het milieu. Bij het nemen van de gemotiveerde conclusie wordt rekening gehouden met de beslissing over de goedkeuring van het MER van het Vlaams expertisecentrum m.e.r., en met de adviezen en de inspraak in het kader van het projectbesluit.</p>
 
 <p>Als het alternatief dat in het voorkeursbesluit op strategisch niveau gekozen is, resulteert in verschillende concrete projecten, geeft het projectbesluit ter informatie de stand van verwezenlijking van het voorkeursbesluit en van de andere projectbesluiten die eraan gekoppeld zijn.</p>
 
