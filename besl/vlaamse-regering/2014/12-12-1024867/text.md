@@ -225,7 +225,12 @@ Raad van State<BR>Afdeling Wetgeving<BR>Advies 56.743/1 van 21 november   2014 o
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° betrokken gemeenten : de   gemeenten die geheel of gedeeltelijk behoren tot de geografische werkingssfeer   van het geplande project, vermeld in artikel 8, § 1, 1°, van het decreet van 25   april 2014;<BR>2° bevoegde autoriteit : de bevoegde autoriteit van het betrokken   gewest of de betrokken EU-lidstaat of de verdragspartij bij het Verdrag van   Espoo;<BR>3° decreet van 25 april 2014 : het decreet van 25 april 2014   betreffende complexe projecten;<BR>4° website complexe projecten : de website   www.complexeprojecten.be, ontwikkeld en beheerd door de Vlaamse administratie,   waar informatie ter beschikking is over complexe projecten.
+In dit besluit wordt verstaan onder :<br>
+1° betrokken gemeenten : de gemeenten die geheel of gedeeltelijk behoren tot de geografische werkingssfeer van het geplande project, vermeld in artikel 8, § 1, 1°, van het decreet van 25 april 2014;<br>
+2° bevoegde autoriteit : de bevoegde autoriteit van het betrokken gewest of de betrokken EU-lidstaat of de verdragspartij bij het Verdrag van Espoo;<br>
+3° decreet van 25 april 2014 : het decreet van 25 april 2014 betreffende complexe projecten;<br>
+4° website complexe projecten : de website www.complexeprojecten.be, ontwikkeld en beheerd door de Vlaamse administratie, waar informatie ter beschikking is over complexe projecten;<br>
+5° Vlaams expertisecentrum m.e.r., afgekort VECM: het Vlaams expertisecentrum m.e.r., vermeld in artikel 4.1.1, 19°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;
 
 ## HOOFDSTUK 2 Besluitvormingsprocedure
 
@@ -248,12 +253,12 @@ De bekend te maken procesnota is deze zoals die is opgemaakt op het ogenblik van
 De onderzoeksfase bestaat uit :<br>
 1° een raadpleging van het publiek over de alternatievenonderzoeksnota conform artikel 8, § 2, tweede lid, van het decreet van 25 april 2014 en hoofdstuk 3, afdeling 1, van dit besluit;<br>
 2° een adviesverlening over de alternatievenonderzoeksnota conform artikel 8, § 2, eerste, derde en vierde lid, van het voormelde decreet en hoofdstuk 3, afdeling 2, onderafdeling 1, van dit besluit;<br>
-3° een beslissing van de dienst, bevoegd voor milieueffectrapportage, over de reikwijdte en het detailleringsniveau van het MER conform artikel 8, § 3, van het voormelde decreet en artikel 35 van dit besluit, geïntegreerd in de geactualiseerde alternatievenonderzoeksnota;<br>
+3° een advies van het VECM over de reikwijdte en het detailleringsniveau van het MER conform artikel 8, §2, van het voormelde decreet of, in voorkomend geval, een geïntegreerd scopingadvies van het Vlaams expertisecentrum m.e.r. conform artikel 8, §3, van het voormelde decreet en artikel 35 van dit besluit, geïntegreerd in de geactualiseerde alternatievenonderzoeksnota;<br>
 4° een geïntegreerd effectenonderzoek conform artikel 9 en 11 van het voormelde decreet;<br>
 5° een adviesverlening over het voorontwerp van voorkeursbesluit en een adviesvergadering conform artikel 11, § 2, van het voormelde decreet en hoofdstuk 3, afdeling 2, onderafdeling 2, van dit besluit;<br>
 6° de vaststelling van het ontwerp van voorkeursbesluit conform artikel 14 van het voormelde decreet;<br>
 7° een openbaar onderzoek over het ontwerp van voorkeursbesluit en het ontwerp van MER conform artikel 15 van het voormelde decreet en hoofdstuk 3, afdeling 3, van dit besluit;<br>
-8° een beslissing van de dienst, bevoegd voor milieueffectrapportage, over de goedkeuring of afkeuring van het MER conform artikel 15/1 van het voormelde decreet en artikel 36 van dit besluit;<br>
+8° een beslissing van het VECM, over de goedkeuring of afkeuring van het MER conform artikel 15/1 van het voormelde decreet en artikel 36 van dit besluit;<br>
 9° de definitieve vaststelling van het voorkeursbesluit conform artikel 16 van het voormelde decreet;&nbsp;<br>
 10° de bekendmaking van het definitief vastgestelde voorkeursbesluit conform artikel 17, § 1 en § 2, van het voormelde decreet en hoofdstuk 3, afdeling 5, van dit besluit.
 
@@ -263,12 +268,12 @@ De onderzoeksfase bestaat uit :<br>
 
 De uitwerkingsfase bestaat uit :<br>
 1° een adviesverlening over de projectonderzoeksnota conform artikel 18, § 2, van het decreet van 25 april 2014 en hoofdstuk 3, afdeling 2, onderafdeling 3, van dit besluit;<br>
-2° een beslissing van de dienst, bevoegd voor milieueffectrapportage, over de reikwijdte en het detailleringsniveau van het MER conform artikel 18, § 3, van het voormelde decreet en artikel 37 van dit besluit, geïntegreerd in de geactualiseerde projectonderzoeksnota;<br>
+2° een advies van het VECM over de reikwijdte en het detailleringsniveau van het MER conform artikel 18, §2, van het voormelde decreet of, in voorkomend geval, artikel 18, §3, van het voormelde decreet en artikel 37 van dit besluit, geïntegreerd in de geactualiseerde projectonderzoeksnota;<br>
 3° een geïntegreerd effectenonderzoek conform artikel 19 en 21 van het voormelde decreet;<br>
 4° een adviesverlening over het voorontwerp van projectbesluit en een adviesvergadering conform artikel 21, § 2, van het voormelde decreet en hoofdstuk 3, afdeling 2, onderafdeling 4, van dit besluit;<br>
 5° de vaststelling van het ontwerp van projectbesluit conform artikel 23 van het voormelde decreet;<br>
 6° een openbaar onderzoek over het ontwerp van projectbesluit en het ontwerp van MER conform artikel 24 van het voormelde decreet en hoofdstuk 3, afdeling 3, van dit besluit;<br>
-7° een beslissing van de dienst, bevoegd voor milieueffectrapportage, over de goed- of afkeuring van het MER conform artikel 25 van het voormelde decreet en artikel 38 van dit besluit;<br>
+7° een beslissing van het VECM, over de goed- of afkeuring van het MER conform artikel 25 van het voormelde decreet en artikel 38 van dit besluit;<br>
 8° de definitieve vaststelling van het projectbesluit conform artikel 26 van het voormelde decreet,&nbsp;<br>
 9° de bekendmaking van het definitief vastgestelde projectbesluit conform artikel 27, § 1 en § 2, van het voormelde decreet en hoofdstuk 3, afdeling 5, van dit besluit.
 
@@ -278,7 +283,14 @@ De uitwerkingsfase bestaat uit :<br>
 
 ### ART. 5.
 
-<P>Ter   uitvoering van artikel 8, § 2, van het decreet van 25 april 2014 zorgt de   procesverantwoordelijke ervoor dat de alternatievenonderzoeksnota door het   publiek kan worden geraadpleegd.&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Via   een bericht in ten minste één dagblad of in het gemeentelijk infoblad dat   verspreid wordt in de betrokken gemeenten, én door aanplakking op de   aanplakplaatsen van die gemeenten wordt gemeld dat de   alternatievenonderzoeksnota tegelijkertijd via de volgende kanalen kan worden   geraadpleegd :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   bij de overheid die de startbeslissing heeft genomen, en op haar   website;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   bij de betrokken gemeenten en op hun website;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   op de website complexe projecten;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   in voorkomend geval, op de website die specifiek voor het project in kwestie is   ontwikkeld;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   op de website van de dienst, bevoegd voor milieueffectrapportage.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Ter uitvoering van artikel 8, § 2, van het decreet van 25 april 2014 zorgt de procesverantwoordelijke ervoor dat de alternatievenonderzoeksnota door het publiek kan worden geraadpleegd.&nbsp;</p>
+
+<p>Via een bericht in ten minste één dagblad of in het gemeentelijk infoblad dat verspreid wordt in de betrokken gemeenten, én door aanplakking op de aanplakplaatsen van die gemeenten wordt gemeld dat de alternatievenonderzoeksnota tegelijkertijd via de volgende kanalen kan worden geraadpleegd :<br>
+1° bij de overheid die de startbeslissing heeft genomen, en op haar website;<br>
+2° bij de betrokken gemeenten en op hun website;<br>
+3° op de website complexe projecten;<br>
+4° in voorkomend geval, op de website die specifiek voor het project in kwestie is ontwikkeld;<br>
+5° op de website van het VECM.</p>
 
 ### ART. 6.
 
@@ -286,7 +298,7 @@ De uitwerkingsfase bestaat uit :<br>
 
 ### ART. 7.
 
-De   procesverantwoordelijke bezorgt de opmerkingen die geformuleerd zijn tijdens de   raadpleging van het publiek aan de dienst, bevoegd voor milieueffectrapportage,   uiterlijk tien dagen na het verstrijken van de termijn, vermeld in artikel 6,   tweede lid.
+De procesverantwoordelijke bezorgt de opmerkingen die geformuleerd zijn tijdens de raadpleging van het publiek aan het VECM, uiterlijk tien dagen na het verstrijken van de termijn, vermeld in artikel 6, tweede lid.
 
 ## Afdeling 2 Adviesverlening
 
@@ -294,7 +306,11 @@ De   procesverantwoordelijke bezorgt de opmerkingen die geformuleerd zijn tijden
 
 ### ART. 8.
 
-<P>§   1. De procesverantwoordelijke bezorgt de alternatievenonderzoeksnota aan de   instanties, vermeld in artikel 9, met het verzoek daarover advies te   verlenen.&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Conform   artikel 8, § 2, eerste lid, van het decreet van 25 april 2014, bezorgt de   procesverantwoordelijke de alternatievenonderzoeksnota tegelijkertijd aan de   dienst, bevoegd voor milieueffectrapportage.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als uit de alternatievenonderzoeksnota blijkt dat er aanzienlijke effecten   kunnen zijn voor mens of milieu in andere lidstaten van de Europese Unie, of in   verdragspartijen bij het Verdrag van Espoo, of in andere gewesten, of als de   bevoegde autoriteiten van deze lidstaten, verdragspartijen of gewesten daarom   verzoeken, legt de procesverantwoordelijke de alternatievenonderzoeksnota samen   met alle beschikbare informatie over de mogelijke (gewest)grensoverschrijdende   effecten, per beveiligde zending voor aan de bevoegde autoriteiten van de   lidstaten, verdragspartijen of gewesten in kwestie, met het verzoek daarover   advies te verlenen binnen een termijn van vijfenveertig dagen na de datum van de   ontvangst van het verzoek.</P>
+<p>§ 1. De procesverantwoordelijke bezorgt de alternatievenonderzoeksnota aan de instanties, vermeld in artikel 9, met het verzoek daarover advies te verlenen.&nbsp;</p>
+
+<p>Conform artikel 8, § 2, eerste lid, van het decreet van 25 april 2014, bezorgt de procesverantwoordelijke de alternatievenonderzoeksnota tegelijkertijd aan het VECM.</p>
+
+<p>§ 2. Als uit de alternatievenonderzoeksnota blijkt dat er aanzienlijke effecten kunnen zijn voor mens of milieu in andere lidstaten van de Europese Unie, of in verdragspartijen bij het Verdrag van Espoo, of in andere gewesten, of als de bevoegde autoriteiten van deze lidstaten, verdragspartijen of gewesten daarom verzoeken, legt de procesverantwoordelijke de alternatievenonderzoeksnota samen met alle beschikbare informatie over de mogelijke (gewest)grensoverschrijdende effecten, per beveiligde zending voor aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, met het verzoek daarover advies te verlenen binnen een termijn van vijfenveertig dagen na de datum van de ontvangst van het verzoek.</p>
 
 ### ART. 9.
 
@@ -302,11 +318,15 @@ De   procesverantwoordelijke bezorgt de opmerkingen die geformuleerd zijn tijden
 
 ### ART. 10.
 
-<P>De   leidend ambtenaren, vermeld in artikel 9, § 1, eerste lid, en de instanties,   vermeld in artikel 9, § 2, § 3, eerste lid, derde lid en vierde lid en § 4,   bezorgen hun advies binnen vijfenveertig dagen na de datum van de ontvangst van   het verzoek, vermeld in artikel 8, § 1, eerste lid, aan de   procesverantwoordelijke.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   leidend ambtenaren, vermeld in artikel 9, § 1, tweede lid, en de instanties,   vermeld in artikel 9, § 3, tweede lid, bezorgen hun advies aan de   procesverantwoordelijke binnen vijfenveertig dagen die ingaat op de eerste dag   van de publicatie van de alternatievenonderzoeksnota op de website complexe   projecten.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De leidend ambtenaren, vermeld in artikel 9, § 1, eerste lid, en de instanties, vermeld in artikel 9, § 2, § 3, eerste lid, derde lid en vierde lid en § 4, bezorgen hun advies binnen vijfenveertig dagen na de datum van de ontvangst van het verzoek, vermeld in artikel 8, § 1, eerste lid, aan de procesverantwoordelijke.</p>
+
+<p>De leidend ambtenaren, vermeld in artikel 9, § 1, tweede lid, en de instanties, vermeld in artikel 9, § 3, tweede lid, bezorgen hun advies aan de procesverantwoordelijke binnen vijfenveertig dagen die ingaat op de eerste dag van de publicatie van de alternatievenonderzoeksnota op de website complexe projecten.<br>
+<br>
+Het VECM bezorgt het advies, vermeld in artikel 8, §2, eerste lid, van het decreet van 25 april 2014, binnen vijfenveertig dagen na de datum van de ontvangst van het verzoek, vermeld in artikel 8, §2, eerste lid, van het decreet van 25 april 2014, aan de procesverantwoordelijke.</p>
 
 ### ART. 11.
 
-De   procesverantwoordelijke bezorgt de uitgebrachte adviezen aan de dienst, bevoegd   voor milieueffectrapportage, uiterlijk tien dagen na het verstrijken van de   termijn, vermeld in artikel 10.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De procesverantwoordelijke bezorgt de uitgebrachte adviezen aan het VECM, uiterlijk tien dagen na het verstrijken van de termijn, vermeld in artikel 10.
 
 ## Onderafdeling 2 Adviesverlening over het voorontwerp van voorkeursbesluit
 
@@ -328,7 +348,11 @@ De   procesverantwoordelijke nodigt de leidend ambtenaren en de instanties, verm
 
 ### ART. 15.
 
-<P>§   1. De procesverantwoordelijke bezorgt de projectonderzoeksnota aan de   instanties, vermeld in artikel 16, met het verzoek advies te verlenen   erover.&nbsp;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Conform   artikel 18, § 2, eerste lid, van het decreet van 25 april 2014 bezorgt de   procesverantwoordelijke de projectonderzoeksnota ook aan de dienst, bevoegd voor   milieueffectrapportage.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als uit de projectonderzoeksnota blijkt dat er aanzienlijke effecten kunnen   zijn voor mens of milieu in andere lidstaten van de Europese Unie, in   verdragspartijen bij het Verdrag van Espoo of in andere gewesten, of als de   bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom   verzoeken, legt de procesverantwoordelijke de projectonderzoeksnota, samen met   alle beschikbare informatie over de mogelijke (gewest)grensoverschrijdende   effecten, per beveiligde zending voor aan de bevoegde autoriteiten van de   lidstaten, verdragspartijen of gewesten in kwestie, met het verzoek daarover   advies te verlenen binnen een termijn van vijfenveertig dagen na de datum van de   ontvangst van het verzoek.</P>
+<p>§ 1. De procesverantwoordelijke bezorgt de projectonderzoeksnota aan de instanties, vermeld in artikel 16, met het verzoek advies te verlenen erover.&nbsp;</p>
+
+<p>Conform artikel 18, § 2, eerste lid, van het decreet van 25 april 2014 bezorgt de procesverantwoordelijke de projectonderzoeksnota ook aan het VECM.</p>
+
+<p>§ 2. Als uit de projectonderzoeksnota blijkt dat er aanzienlijke effecten kunnen zijn voor mens of milieu in andere lidstaten van de Europese Unie, in verdragspartijen bij het Verdrag van Espoo of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, legt de procesverantwoordelijke de projectonderzoeksnota, samen met alle beschikbare informatie over de mogelijke (gewest)grensoverschrijdende effecten, per beveiligde zending voor aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, met het verzoek daarover advies te verlenen binnen een termijn van vijfenveertig dagen na de datum van de ontvangst van het verzoek.</p>
 
 ### ART. 16.
 
@@ -336,11 +360,15 @@ De   procesverantwoordelijke nodigt de leidend ambtenaren en de instanties, verm
 
 ### ART. 17.
 
-<P>De   leidend ambtenaren, vermeld in artikel 16, § 1, eerste lid, en de instanties,   vermeld in artikel 16, § 2 tot en met § 4, bezorgen hun advies binnen   vijfenveertig dagen na de datum van de ontvangst van het verzoek, vermeld in   artikel 15, § 1, eerste lid, aan de procesverantwoordelijke.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   leidend ambtenaren, vermeld in artikel 16, § 1, tweede lid, bezorgen hun advies   aan de procesverantwoordelijke binnen vijfenveertig dagen die ingaat op de   eerste dag van de publicatie van de projectonderzoeksnota op de website complexe   projecten.</P>
+<p>De leidend ambtenaren, vermeld in artikel 16, § 1, eerste lid, en de instanties, vermeld in artikel 16, § 2 tot en met § 4, bezorgen hun advies binnen vijfenveertig dagen na de datum van de ontvangst van het verzoek, vermeld in artikel 15, § 1, eerste lid, aan de procesverantwoordelijke.</p>
+
+<p>De leidend ambtenaren, vermeld in artikel 16, § 1, tweede lid, bezorgen hun advies aan de procesverantwoordelijke binnen vijfenveertig dagen die ingaat op de eerste dag van de publicatie van de projectonderzoeksnota op de website complexe projecten.<br>
+<br>
+Het VECM bezorgt het advies, vermeld in artikel 18, §2, eerste lid, van het decreet van 25 april 2014, binnen vijfenveertig dagen na de datum van de ontvangst van het verzoek, vermeld in artikel 18, §2, eerste lid, van het decreet van 25 april 2014, aan de procesverantwoordelijke.</p>
 
 ### ART. 18.
 
-De   procesverantwoordelijke bezorgt de uitgebrachte adviezen aan de dienst, bevoegd   voor milieueffectrapportage, uiterlijk tien dagen na het verstrijken van de   termijn, vermeld in artikel 17.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De procesverantwoordelijke bezorgt de uitgebrachte adviezen aan het VECM, uiterlijk tien dagen na het verstrijken van de termijn, vermeld in artikel 17.
 
 ## Onderafdeling 4 Adviesverlening over het voorontwerp van projectbesluit
 
@@ -376,7 +404,7 @@ Het ontwerp van voorkeursbesluit of projectbesluit kan samen met de synthesenota
 1° een publicatie op de volgende websites :<br>
 a) de website van de bevoegde overheid, vermeld in artikel 6 van het decreet van 25 april 2014;<br>
 b) de website van de betrokken gemeenten;<br>
-c) de website van de dienst, bevoegd voor milieueffectrapportage;<br>
+c) de website van het VECM;<br>
 d) de website complexe projecten;<br>
 e) in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld;<br>
 2° een publicatie in ten minste drie dagbladen of informatiebladen conform artikel 24 van dit besluit;<br>
@@ -492,7 +520,7 @@ In het eerste lid wordt verstaan onder eigenaar : de eigenaar volgens de meest r
 
 ### ART. 33.
 
-Als   het openbaar onderzoek betrekking heeft op het ontwerp van projectbesluit   bezorgt de procesverantwoordelijke de uitgebrachte opmerkingen en bezwaren aan   de dienst, bevoegd voor milieueffectrapportage, uiterlijk tien dagen na het   verstrijken van de termijn, vermeld in artikel 32, tweede   lid.
+Als het openbaar onderzoek betrekking heeft op het ontwerp van projectbesluit bezorgt de procesverantwoordelijke de uitgebrachte opmerkingen en bezwaren aan het VECM, uiterlijk tien dagen na het verstrijken van de termijn, vermeld in artikel 32, tweede lid.
 
 ## Onderafdeling 9 Landsgrens- en gewestgrensoverschrijdende effecten
 
@@ -510,7 +538,7 @@ Als   het openbaar onderzoek betrekking heeft op het ontwerp van projectbesluit 
 1° het openbaar onderzoek, vermeld in deze afdeling;<br>
 2° het openbaar onderzoek dat de bevoegde autoriteit op basis van de ontvangen documenten eventueel op haar eigen grondgebied organiseert.</p>
 
-<p>De bevoegde autoriteit bezorgt haar eventuele opmerkingen, samen met de resultaten van het eventueel door haar georganiseerde openbaar onderzoek, tegelijkertijd en per beveiligde zending aan de bevoegde overheid en de dienst, bevoegd voor milieueffectrapportage, binnen een termijn van twee maanden na de datum van de toezending, vermeld in het eerste lid.&nbsp;</p>
+<p>De bevoegde autoriteit bezorgt haar eventuele opmerkingen, samen met de resultaten van het eventueel door haar georganiseerde openbaar onderzoek, tegelijkertijd en per beveiligde zending aan de bevoegde overheid en het VECM, binnen een termijn van twee maanden na de datum van de toezending, vermeld in het eerste lid.&nbsp;</p>
 
 <p>§ 3. Overeenkomstig artikel 7, lid 4, van Richtlijn 2011/92/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende de milieueffectbeoordeling van bepaalde openbare en particuliere projecten, wordt met het betrokken gewest of de betrokken EU-lidstaat overleg gepleegd over onder andere de potentiële grensoverschrijdende effecten van het ontwerp van voorkeursbesluit respectievelijk projectbesluit en de maatregelen die worden overwogen om die effecten te beperken of teniet te doen en wordt een redelijke termijn overeengekomen waarbinnen het overleg moet plaatsvinden.</p>
 
@@ -520,35 +548,29 @@ Als   het openbaar onderzoek betrekking heeft op het ontwerp van projectbesluit 
 
 ### ART. 35.
 
-<p>§ 1. De dienst, bevoegd voor milieueffectrapportage, neemt de beslissing, vermeld in artikel 8, § 3, van het decreet van 25 april 2014, binnen een termijn van dertig dagen na de datum van ontvangst van de adviezen van de adviesinstanties, de opmerkingen van het publiek en het resultaat van de grensoverschrijdende raadpleging, vermeld in artikel 8, § 2, van het voormelde decreet.</p>
-
-<p>De beslissing van de dienst, bevoegd voor milieueffectrapportage, vermeld in het eerste lid, omvat ten minste de volgende gegevens :&nbsp;<br>
-1° de inhoudelijke aanpak van de rapportage, met inbegrip van de methodologie;<br>
-2° de algemene richtlijnen die van toepassing zijn conform artikel 4.6.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-3° de bijzondere richtlijnen voor het opstellen van het MER;<br>
-4° de aanstelling van de opstellers van het MER, vermeld in artikel 39 van dit besluit;<br>
-5° in voorkomend geval een beslissing over de onttrekking aan de bekendmaking van het MER of delen ervan.</p>
-
-<p>Conform artikel 8, § 3, eerste lid, van het decreet van 25 april 2014, houdt de dienst, bevoegd voor milieueffectrapportage, bij zijn beslissing rekening met de uitgebrachte adviezen, de opmerkingen van het publiek en met het resultaat van de grensoverschrijdende raadpleging.<br>
+<p>§ 1. De adviezen van het VECM, vermeld in artikel 8, §2, eerste lid en artikel 8, §3, van het decreet van 25 april 2014, omvatten ten minste de volgende informatie:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;een advies over de inhoudelijke aanpak van de rapportage, met inbegrip van de methodologie;<br>
+2°&nbsp;&nbsp; &nbsp;in voorkomend geval, een beslissing over de onttrekking aan de bekendmaking van het MER of delen ervan.<br>
 <br>
-De dienst, bevoegd voor milieueffectrapportage, integreert zijn beslissing, vermeld in het eerste lid, in de geactualiseerde alternatievenonderzoeksnota. De geactualiseerde alternatievenonderzoeksnota is samen met de procesnota de leidraad voor het verdere verloop van het geïntegreerde planningsproces dat leidt tot de opmaak van het voorontwerp van voorkeursbesluit.<br>
+Bij een geïntegreerd advies vermeld in artikel 8, §3, van het decreet van 25 april 2014, houdt het VECM rekening met de uitgebrachte adviezen en met het resultaat van de grensoverschrijdende raadpleging.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De adviezen van het VECM, vermeld in het eerste lid, worden geïntegreerd in de geactualiseerde alternatievenonderzoeksnota. De geactualiseerde alternatievenonderzoeksnota is samen met de procesnota de leidraad voor het verdere verloop van het geïntegreerde planningsproces dat leidt tot de opmaak van het voorontwerp van voorkeursbesluit.<br>
 <br>
-§ 2. De dienst, bevoegd voor milieueffectrapportage, deelt zijn beslissing uiterlijk binnen een termijn van veertig dagen na de datum van ontvangst van de adviezen van de adviesinstanties, de opmerkingen van het publiek en het resultaat van de grensoverschrijdende raadpleging, vermeld in artikel 8, § 2, van het voormelde decreet, mee aan :<br>
+§2. In voorkomend geval deelt het VECM het geïntegreerd scopingadvies uiterlijk binnen een termijn van veertig dagen na de datum van ontvangst van de adviezen van de adviesinstanties, vermeld in artikel 8, § 2, van het voormelde decreet, mee aan :<br>
 1° de procesverantwoordelijke;<br>
 2° de leidend ambtenaren die om advies zijn verzocht of die uit eigen beweging een advies hebben uitgebracht, conform artikel 9, § 1;<br>
 3° de instanties die om advies zijn verzocht of die uit eigen beweging een advies hebben uitgebracht, conform artikel 9, § 2 tot en met § 4;<br>
-4° in voorkomend geval, de bevoegde autoriteiten, vermeld in artikel 8, § 2, derde lid van het decreet van 25 april 2014.</p>
-
-<p>De beslissing, vermeld in het eerste lid, wordt ook bekendgemaakt op de volgende websites :<br>
+4° in voorkomend geval, de bevoegde autoriteiten, vermeld in artikel 8, § 2, derde lid van het decreet van 25 april 2014.<br>
+<br>
+Het geïntegreerd scopingadvies, vermeld in het eerste lid, wordt ook bekendgemaakt op de volgende websites :<br>
 1° de website van de bevoegde overheid, vermeld in artikel 6 van het decreet van 25 april 2014;<br>
-2° de website van de betrokken gemeenten;<br>
-3° de website van de dienst, bevoegd voor milieueffectrapportage;<br>
-4° de website complexe projecten;<br>
-5° in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld.</p>
+2° de website van het VECM;<br>
+3° de website complexe projecten;<br>
+4° in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld.</p>
 
 ### ART. 36.
 
-<p>De dienst, bevoegd voor milieueffectrapportage, neemt de beslissing over de goedkeuring of afkeuring van het MER, vermeld in artikel 15/1 van het decreet van 25 april 2014, binnen een termijn van dertig dagen na ontvangst van het MER.&nbsp;De dienst, bevoegd voor milieueffectrapportage, houdt bij zijn beslissing rekening met de uitgebrachte adviezen, de opmerkingen van het publiek en met het resultaat van de grensoverschrijdende raadpleging.</p>
+<p>Het VECM, neemt de beslissing over de goedkeuring of afkeuring van het MER, vermeld in artikel 15/1 van het decreet van 25 april 2014, binnen een termijn van dertig dagen na ontvangst van het MER.&nbsp;Het VECM, houdt bij zijn beslissing rekening met de uitgebrachte adviezen, de opmerkingen van het publiek en met het resultaat van de grensoverschrijdende raadpleging.</p>
 
 <p>Zij kan gemotiveerd beslissen om deze termijn te verlengen tot vijftig dagen. Zij bezorgt de verlengingsbeslissing binnen de termijn van dertig dagen, vermeld in het eerste lid.</p>
 
@@ -558,35 +580,29 @@ De dienst, bevoegd voor milieueffectrapportage, integreert zijn beslissing, verm
 
 ### ART. 37.
 
-<p>§ 1. De dienst, bevoegd voor milieueffectrapportage, neemt de beslissing, vermeld in artikel 18, § 3, van het decreet van 25 april 2014, binnen een termijn van dertig dagen na de datum van ontvangst van de adviezen van de adviesinstanties en het resultaat van de grensoverschrijdende raadpleging, vermeld in artikel 18, § 2, van het voormelde decreet.</p>
-
-<p>De beslissing van de dienst, bevoegd voor milieueffectrapportage, vermeld in het eerste lid, omvat ten minste de volgende gegevens :&nbsp;<br>
-1° de inhoudelijke aanpak van de rapportage, met inbegrip van de methodologie;<br>
-2° de algemene richtlijnen die van toepassing zijn conform artikel 4.6.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-3° de bijzondere richtlijnen voor het opstellen van het MER;<br>
-4° de aanstelling van de opstellers van het MER, vermeld in artikel 39 van dit besluit;<br>
-5° in voorkomend geval, een beslissing over de onttrekking aan de bekendmaking van het MER of delen ervan.</p>
-
-<p>Conform artikel 18, § 3, eerste lid, van het decreet van 25 april 2014, houdt de dienst, bevoegd voor milieueffectrapportage, bij zijn beslissing rekening met de uitgebrachte adviezen en met het resultaat van de grensoverschrijdende raadpleging.<br>
-<br>
-De dienst, bevoegd voor milieueffectrapportage, integreert zijn beslissing, vermeld in het eerste lid, in de geactualiseerde projectonderzoeksnota. De geactualiseerde projectonderzoeksnota is samen met de procesnota de leidraad voor het verdere verloop van het geïntegreerde planningsproces dat leidt tot de opmaak van het voorontwerp van projectbesluit.<br>
-<br>
-§ 2. De dienst, bevoegd voor milieueffectrapportage, deelt zijn beslissing uiterlijk binnen een termijn van veertig dagen na de datum van ontvangst van de adviezen van de adviesinstanties en het resultaat van de grensoverschrijdende raadpleging, vermeld in artikel 18, § 2, van het voormelde decreet, mee aan :<br>
+<p>§1. De adviezen van het VECM, vermeld in artikel 18, §2, eerste lid en artikel 18, §3, van het decreet van 25 april 2014, omvatten ten minste de volgende informatie:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een advies over de inhoudelijke aanpak van de rapportage, met inbegrip van de methodologie;<br>
+2°&nbsp;&nbsp; &nbsp;in voorkomend geval, een beslissing over de onttrekking aan de bekendmaking van het MER of delen ervan.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Bij een geïntegreerd advies vermeld in artikel 18, §3, van het decreet van 25 april 2014, houdt het VECM rekening met de uitgebrachte adviezen en met het resultaat van de grensoverschrijdende raadpleging.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De adviezen van het VECM, vermeld in het eerste lid, worden geïntegreerd in de geactualiseerde projectonderzoeksnota. De geactualiseerde projectonderzoeksnota is samen met de procesnota de leidraad voor het verdere verloop van het geïntegreerde planningsproces dat leidt tot de opmaak van het voorontwerp van projectbesluit."<br>
+&nbsp;&nbsp; &nbsp;<br>
+§ 2. In voorkomend geval deelt het VECM het geïntegreerd scopingadvies uiterlijk binnen een termijn van veertig dagen na de datum van ontvangst van de adviezen van de adviesinstanties, vermeld in artikel 18, § 2, van het voormelde decreet, mee aan :<br>
 1° de procesverantwoordelijke;<br>
 2° de leidende ambtenaren die om advies zijn verzocht of die uit eigen beweging een advies hebben uitgebracht, conform artikel 16, § 1;<br>
 3° de instanties die om advies zijn verzocht, conform artikel 16, § 2 tot en met § 4;<br>
-4° in voorkomend geval, de bevoegde autoriteiten, vermeld in artikel 18, § 2, tweede lid van het decreet van 25 april 2014.</p>
-
-<p>De beslissing, vermeld in het eerste lid, wordt ook bekendgemaakt op de volgende websites :<br>
+4° in voorkomend geval, de bevoegde autoriteiten, vermeld in artikel 18, § 2, tweede lid van het decreet van 25 april 2014.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het geïntegreerde scopingadvies, vermeld in het eerste lid, wordt ook bekendgemaakt op de volgende websites :<br>
 1° de website van de bevoegde overheid, vermeld in artikel 6 van het decreet van 25 april 2014;<br>
-2° de website van de betrokken gemeenten;<br>
-3° de website van de dienst, bevoegd voor milieueffectrapportage;<br>
-4° de website complexe projecten;<br>
-5° in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld.</p>
+2° de website van het VECM;<br>
+3° de website complexe projecten;<br>
+4° in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld.</p>
 
 ### ART. 38.
 
-<p>De dienst, bevoegd voor milieueffectrapportage, neemt de beslissing over de goedkeuring of afkeuring van het MER, vermeld in artikel 25 van het decreet van 25 april 2014, binnen een termijn van dertig dagen na ontvangst van het MER.&nbsp;De dienst, bevoegd voor milieueffectrapportage, houdt bij zijn beslissing rekening met de uitgebrachte adviezen, met de opmerkingen van het publiek en met het resultaat van de grensoverschrijdende raadpleging.</p>
+<p>Het VECM, neemt de beslissing over de goedkeuring of afkeuring van het MER, vermeld in artikel 25 van het decreet van 25 april 2014, binnen een termijn van dertig dagen na ontvangst van het MER.&nbsp;Het VECM, houdt bij zijn beslissing rekening met de uitgebrachte adviezen, met de opmerkingen van het publiek en met het resultaat van de grensoverschrijdende raadpleging.</p>
 
 <p>Zij kan gemotiveerd beslissen om deze termijn te verlengen tot vijftig dagen. Zij bezorgt de verlengingsbeslissing binnen de termijn van dertig dagen, vermeld in het eerste lid.&nbsp;</p>
 
@@ -596,13 +612,13 @@ De dienst, bevoegd voor milieueffectrapportage, integreert zijn beslissing, verm
 
 ### ART. 39.
 
-De   bepalingen, vermeld in artikel 4.3.6 van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, zijn van overeenkomstige toepassing bij   de opmaak van het MER in het kader van het decreet van 25 april   2014.
+De bepalingen, vermeld in artikel 4.5.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, zijn van overeenkomstige toepassing bij de opmaak van het MER in het kader van het decreet van 25 april 2014.
 
-## Onderafdeling 4 Heroverweging van het MER
+## Onderafdeling 4 ...
 
 ### ART. 40.
 
-De   bepalingen, vermeld in artikel 4.6.4 van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, zijn van overeenkomstige toepassing bij   de opmaak van het MER in het kader van het decreet van 25 april 2014 met dien   verstande dat het gemotiveerd verzoek tot heroverweging door de   procesverantwoordelijke ingediend dient te worden bij de dienst, bevoegd voor   milieueffectrapportage.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## Afdeling 5 Bekendmaking van het voorkeursbesluit en van het projectbesluit
 
@@ -616,7 +632,7 @@ a) de website van de bevoegde overheid, vermeld in artikel 6 van het decreet van
 b) de website van de betrokken gemeenten;<br>
 c) de website complexe projecten;<br>
 d) in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld;<br>
-e) de website van de dienst bevoegd voor milieueffectrapportage;<br>
+e) de website van het VECM;<br>
 2° een publicatie in ten minste drie dagbladen of informatiebladen conform artikel 43 van dit besluit;<br>
 3° een publicatie in het Belgisch Staatsblad conform artikel 44 van dit besluit;<br>
 4° een aanplakking van een affiche op volgende plaatsen :<br>
@@ -695,7 +711,7 @@ Gedurende de periode van dertig dagen, vermeld in het eerste lid, is het definit
 2° de website van de betrokken gemeenten;<br>
 3° de website complexe projecten;<br>
 4° in voorkomend geval, de website die specifiek voor het project in kwestie is ontwikkeld;<br>
-5° de website van de dienst, bevoegd voor milieueffectrapportage.</p>
+5° de website van het VECM.</p>
 
 ## HOOFDSTUK 4 Slotbepalingen
 

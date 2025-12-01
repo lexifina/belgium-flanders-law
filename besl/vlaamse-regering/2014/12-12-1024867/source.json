@@ -2,16 +2,16 @@
   "codex_id": 1024867,
   "title": "Besluit van de Vlaamse Regering van 2014-12-12 tot uitvoering van het decreet van 25 april 2014 betreffende complexe projecten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024867/VolledigDocument?datum=2024-09-20",
-  "source_sha256": "d03c6502d9173ce0029cc4cd9bb6a544df154131e5a1c6af3027dc477902c950",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024867/VolledigDocument?datum=2025-12-01",
+  "source_sha256": "f5957f41b90547ffc4019919e6f2eb2657238751f4b5d2894869d0f22f1d17f3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024867&param=informatie",
-  "as_of": "2024-09-20",
+  "as_of": "2025-12-01",
   "made": "2014-12-12",
   "gazette": "2015-01-21",
   "numac": 2015035045,
   "document_start": "2015-03-01",
   "document_end": null,
-  "in_force": "2024-09-20",
+  "in_force": "2025-12-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2024-09-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
 }
