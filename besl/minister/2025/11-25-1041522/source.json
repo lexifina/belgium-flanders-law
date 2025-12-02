@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041522,
+  "title": "Ministerieel besluit van 2025-11-25 tot wijziging van het ministerieel besluit van 20 december 2024 houdende tijdelijke aanvullende maatregelen voor het jaar 2025 tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041522/VolledigDocument?datum=2025-12-02",
+  "source_sha256": "80ad5a61aa98edc21607e1f6c8a80c90ffe8464e3158223f29400642e00ab3dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041522&param=informatie",
+  "as_of": "2025-12-02",
+  "made": "2025-11-25",
+  "gazette": "2025-12-01",
+  "numac": 2025008948,
+  "document_start": "2025-12-02",
+  "document_end": null,
+  "in_force": "2025-12-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
