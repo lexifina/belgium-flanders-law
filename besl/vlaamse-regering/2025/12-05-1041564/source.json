@@ -2,16 +2,16 @@
   "codex_id": 1041564,
   "title": "Besluit van de Vlaamse Regering van 2025-12-05 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2025 in het kader van de besteding van de middelen uit het Vlaams Klimaatfonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041564/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "811a7914f4fdae9e9d3e4cfd60124971e7e45d5c1de39a86ae00c9b1b91ffc0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041564/VolledigDocument?datum=2025-12-05",
+  "source_sha256": "9b99ffdb5f8f42726fb767bceac7bf26712c173e2ef32f072ebf50a0a65ddd09",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041564&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-12-05",
   "made": "2025-12-05",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-12-05",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2025-12-05; future article versions excluded; article text as the API gives it"
 }
