@@ -422,7 +422,7 @@ De termijn van twaalf maanden, vermeld in het eerste lid, start op de volgende t
 9° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarde, vermeld in artikel 16, tweede lid, van dit besluit, als het kind is ingeschreven voor een of meer vormingen van het hoger onderwijs met in totaal minder dan 27 studiepunten en daarnaast een opleiding in het niet-hoger onderwijs volgt, op basis van artikel 32 van dit besluit of niet meer voldoet aan de voorwaarden, vermeld in artikel 32/1 van dit besluit;<br>
 10° de maand waarin het rechtgevende kind niet meer uitsluitend lessen volgt in het hoger onderwijs waarvan de modaliteiten niet uitgedrukt worden in studiepunten, of de maand waarin het rechtgevende kind niet meer ingeschreven is voor een bijkomend jaar voor de geïntegreerde proef in het onderwijs voor sociale promotie, op basis van artikel 33 van dit besluit;<br>
 11° de maand na het einde van de stageperiode die vereist is om in een openbaar ambt te worden benoemd of de maand na de onderbreking van die stage, op basis van artikel 38 van dit besluit;<br>
-12° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarden voor de algemene vrijstellingen voor kinderen buiten België op basis van artikel 47, 48 en 49 van dit besluit.<br>
+12° de maand waarin het rechtgevende kind niet meer voldoet aan de voorwaarden voor de algemene vrijstellingen voor kinderen buiten België op basis van artikel 47, 47/1, 48 en 49 van dit besluit.<br>
 <br>
 Vanaf de maand dat het kind weer aan de voorwaarden van een kind met een specifieke ondersteuningsbehoefte, leerling, student of stagiair of van de algemene vrijstellingen voldoet, wordt het recht, vermeld in het eerste lid, geschorst en worden de gezinsbijslagen toegekend conform artikel 8, § 2, van het voormelde decreet en de algemene vrijstellingen verleend conform artikel 8, § 3, tweede lid, van het voormelde decreet. De periode die al krachtens dit artikel is toegekend, wordt in mindering gebracht van de termijn van twaalf maanden, vermeld in het eerste lid. De schorsing loopt zolang er een recht op gezinsbijslagen toegekend kan worden conform artikel 8, § 2, van het voormelde decreet en de algemene vrijstellingen verleend conform artikel 8, § 3, tweede lid, van het voormelde decreet, met uitzondering van het recht van de schoolverlater.
 
@@ -515,16 +515,26 @@ De ouder, vermeld in het eerste lid, mag alleen beschouwd worden als begunstigde
 4° kinderen die gedurende maximaal drie jaar buiten België verblijven wegens medische redenen van het kind of van de ouder, de persoon die geen bloed- of aanverwant is tot en met de derde graad van de ouder en met wie de ouder feitelijk samenwoont of de echtgenoot of echtgenote van de ouder. De medische redenen worden gestaafd met een medisch getuigschrift. Het medisch attest, ondertekend en gedagtekend door een arts, vermeldt dat het voor het kind of voor de ouder, de persoon die geen bloed- of aanverwant is tot en met de derde graad van de ouder en met wie de ouder feitelijk samenwoont of de echtgenoot of echtgenote van de ouder, onmogelijk is om terug te reizen naar België. Een buitenlands medisch attest wordt bevestigd door een arts die in België gevestigd is;<br>
 5° kinderen die tijdelijk buiten België verblijven, waarbij dit verblijf, in één of verscheidene keren, geen twee maand in de loop van hetzelfde kalenderjaar overschrijdt, terwijl ze hun woonplaats in het Nederlandse taalgebied hebben;<br>
 6° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en die alleen tijdens de schoolvakantie, vermeld in artikel 21, eerste lid, en artikel 28 van dit besluit, buiten België verblijven;<br>
-7° kinderen die buiten België geboren worden, terwijl een van de ouders zijn woonplaats in het Nederlandse taalgebied heeft, op voorwaarde dat het verblijf van een van de ouders en van het kind buiten België niet langer dan twee maanden na de geboorte duurt;<br>
+7° ...;<br>
 8° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en naar een school gaan die buiten België ligt, op voorwaarde dat ze elke dag terugkeren naar hun ouders of naar hun opvoeders, die hun ouders vervangen;<br>
 9° kinderen die een studietoelage ontvangen om lessen buiten België te volgen. Een binnenlandse of buitenlandse instelling kan die studietoelage toekennen. Het Departement Onderwijs en Vorming, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, deelt de toekenning van die studietoelage door een instelling binnen het Nederlandse taalgebied mee. Als een instelling van een andere deelentiteit of een buitenlandse instelling die studietoelage toekent, wordt dat bewezen met een officieel attest;<br>
 10° kinderen die hun woonplaats in het Nederlandse taalgebied hebben en het voorwerp uitmaken van een ontvoering conform de voorwaarden, vermeld in hoofdstuk 3 van dit besluit, en buiten België verblijven;<br>
-11° kinderen die buiten België geadopteerd worden en binnen twee maanden na de adoptie hun woonplaats hebben in het Nederlandse taalgebied;<br>
+11° ...;<br>
 12° kinderen die niet-hoger onderwijs volgen buiten België via een Belgisch erkend uitwisselingsprogramma, op voorwaarde dat de inschrijving in de Belgische onderwijsinstelling blijft behouden en dat ze een attest van het Belgisch erkend uitwisselingsprogramma kunnen voorleggen.<br>
 <br>
 § 2. De algemene vrijstellingen, vermeld in paragraaf 1, zijn alleen geldig als de volgende voorwaarden cumulatief vervuld zijn:<br>
 1° de kinderen hebben geen recht op gezinsbijslagen krachtens de regelgeving van een andere deelentiteit, krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling. De minister kan bepalen wat onder recht op gezinsbijslagen krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling wordt verstaan;<br>
 2° noch een van de ouders, noch de persoon die geen bloed- of aanverwant is tot en met de derde graad van een van de ouders en met wie de ouder feitelijk of wettelijk samenwoont, noch de echtgenoot of echtgenote van een van de ouders, oefent een winstgevende activiteit uit in het raam van een arbeidsovereenkomst of van een zelfstandige activiteit of in opdracht van een openbare dienst in het land waar de kinderen verblijven.
+
+### ART 47/1.
+
+§1. Voor de volgende kinderen gelden algemene vrijstellingen van de toekenningsvoorwaarde voor gezinsbijslagen, vermeld in artikel 8, §1, eerste lid, 1°, van het Groeipakketdecreet van 2018, wat betreft de woonplaats in het Nederlandse taalgebied, en van artikel 8, §3, eerste lid, van het voormelde decreet:<br>
+1°&nbsp;&nbsp; &nbsp;kinderen die buiten België geboren worden, terwijl een van de ouders in het Nederlandse taalgebied woont, op voorwaarde dat het verblijf van een van de ouders en van het kind buiten België niet langer dan twee maanden na de geboorte duurt;<br>
+2°&nbsp;&nbsp; &nbsp;kinderen die buiten België geadopteerd worden en binnen twee maanden na de adoptie in het Nederlandse taalgebied wonen.<br>
+<br>
+§2. De algemene vrijstellingen, vermeld in paragraaf 1, zijn alleen geldig als al de volgende voorwaarden vervuld zijn:<br>
+1°&nbsp;&nbsp; &nbsp;de kinderen hebben geen recht op gezinsbijslagen krachtens de regelgeving van een andere deelentiteit, krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling. De minister kan bepalen wat onder recht op gezinsbijslagen krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling wordt verstaan;<br>
+2°&nbsp;&nbsp; &nbsp;noch een van de ouders, noch de persoon die geen bloed- of aanverwant is tot en met de derde graad van een van de ouders en met wie de ouder feitelijk of wettelijk samenwoont, noch de echtgenoot of echtgenote van een van de ouders, oefent een winstgevende activiteit uit in het raam van een arbeidsovereenkomst of van een zelfstandige activiteit of in opdracht van een openbare dienst in het land waar de kinderen verblijven.
 
 ### ART 48.
 
@@ -546,7 +556,16 @@ b) er bestaat geen recht op het startbedrag geboorte krachtens de regelgeving va
 a) een van de ouders, de persoon die geen bloed- of aanverwant is tot en met derde graad van de ouder en met wie de ouder feitelijk of wettelijk samenwoont, of de echtgenoot of echtgenote van de ouder is een zelfstandige;<br>
 b) de gezinsbijslagen worden toegekend vanaf de eerste dag van de maand van de geboorte;<br>
 c) het kind heeft binnen twee maanden na de geboorte zijn woonplaats in het Nederlandse taalgebied;<br>
-d) er bestaat geen recht op startbedrag geboorte krachtens de regelgeving van een andere deelentiteit.
+d) er bestaat geen recht op startbedrag geboorte krachtens de regelgeving van een andere deelentiteit;<br>
+3° voor een kind dat geboren wordt buiten België, en overlijdt in het buitenland binnen twee maanden na de geboorte en als al de volgende voorwaarden zijn vervuld:<br>
+a)&nbsp;&nbsp; &nbsp;terwijl een van de ouders op het moment van de geboorte en het overlijden in het Nederlandse taalgebied woont;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;een van de ouders reist binnen de twee maanden na het overlijden terug naar België;<br>
+c)&nbsp;&nbsp; &nbsp;er bestaat geen recht op het startbedrag geboorte krachtens de regelgeving van een andere deelentiteit, krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling;<br>
+4° voor een kind dat geboren wordt buiten België en overlijdt in het buitenland binnen twaalf maanden na de geboorte, en als al de volgende voorwaarden vervuld zijn:<br>
+a)&nbsp;&nbsp; &nbsp;door medische redenen was het voor het kind onmogelijk om terug te reizen naar België. De medische redenen worden gestaafd met een medisch getuigschrift. Het medisch attest dat is ondertekend en gedagtekend door een arts, vermeldt dat het voor het kind onmogelijk was om terug te reizen naar België. Een buitenlands medisch attest wordt bevestigd door een arts die in België gevestigd is;<br>
+b)&nbsp;&nbsp; &nbsp;terwijl een van de ouders op het moment van de geboorte en het overlijden in het Nederlandse taalgebied woont;<br>
+c)&nbsp;&nbsp; &nbsp;een van de ouders reist binnen de twaalf maanden na het overlijden terug naar België;<br>
+d)&nbsp;&nbsp; &nbsp;er bestaat geen recht op het startbedrag geboorte krachtens de regelgeving van een andere deelentiteit, krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling.
 
 ### ART 51.
 
