@@ -31,6 +31,12 @@ In dit besluit wordt verstaan onder:<br>
 4° erkenningscommissies: de erkenningscommissie voor de beoefenaars van de klinische psychologie en de erkenningscommissie voor de beoefenaars van de klinische orthopedagogiek.<br>
 5° secretaris-generaal: het hoofd van de administratie.
 
+## Hoofdstuk 1/1. Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## Hoofdstuk 2. De erkenningscommissies
 
 ### ART 2.
@@ -118,6 +124,24 @@ Bij de aanvraag zijn de volgende documenten gevoegd:<br>
 2° een exemplaar van de schriftelijke overeenkomst voor de volledige duur van de opleiding die gesloten is tussen de kandidaat en de stagemeester of de verantwoordelijke instelling over de vergoeding van de kandidaat, met nauwkeurige vermelding van de duur van de overeenkomst;<br>
 3° een stagerapport, met inbegrip van de evaluatie door de stagemeester, en elk ander document dat de erkenningscommissie in staat stelt over de kwaliteiten van de aanvrager te adviseren;<br>
 4° de documenten die aantonen dat de aanvrager voldoet aan de criteria voor de erkenning van klinisch psychologen of klinisch orthopedagogen.<br>
+<br>
+§1/1. Tijdens de effectieve stageduur heeft de kandidaat recht op een onderbreking van in totaal maximaal vijftien weken om een van de volgende redenen:<br>
+1°&nbsp;&nbsp; &nbsp;zwangerschapsverlof als vermeld in artikel 39 van de Arbeidswet van 16 maart 1971;<br>
+2°&nbsp;&nbsp; &nbsp;geboorteverlof als vermeld in artikel 30 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+3°&nbsp;&nbsp; &nbsp;palliatief verlof als vermeld in artikel 100bis van de Herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
+4°&nbsp;&nbsp; &nbsp;medische redenen, zonder verlenging van de stage.&nbsp;<br>
+<br>
+De kandidaat vermeldt elke onafgebroken onderbreking van minimaal zeven dagen om de redenen, vermeld in het eerste lid, op het stageplan, vermeld in paragraaf 1, derde lid, 1°.<br>
+<br>
+Als de kandidaat de effectieve stageduur om de redenen, vermeld in het eerste lid, onderbreekt voor meer dan vijftien weken, wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
+<br>
+De kandidaat vermeldt de stageverlenging, vermeld in het derde lid, op het stageplan, vermeld in paragraaf 1, derde lid, 1°.<br>
+<br>
+§1/2. Voor elke onderbreking om een andere reden dan de redenen, vermeld in paragraaf 1/1, eerste lid, wordt de stage verlengd overeenkomstig de duurtijd van de onderbreking.<br>
+<br>
+De kandidaat vermeldt elke onderbreking, vermeld in het eerste lid, op het stageplan, vermeld in paragraaf 1, derde lid, 1°.<br>
+<br>
+De kandidaat vermeldt de stageverlenging op het stageplan, vermeld in paragraaf 1, derde lid, 1°.<br>
 <br>
 §2. Alleen dossiers die conform paragraaf 1 volledig zijn, worden aan de erkenningscommissie voorgelegd.<br>
 <br>
