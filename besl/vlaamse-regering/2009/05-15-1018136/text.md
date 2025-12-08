@@ -264,7 +264,14 @@ De minister bepaalt de wijze waarop de vereniging haar activiteiten en de bereik
 
 ### ART. 24.
 
-Een aanvraag tot erkenning is ontvankelijk als :<br />1° de vereniging bij de indiening van de aanvraag opgericht is als een vereniging zonder winstoogmerk en deze rechtspersoonlijkheid bezit, overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br />2° de programmatie, vermeld in artikel 23, § 1/1, niet ingevuld is;<br />3° de aanvraag vóór 1 mei met een aangetekende brief bij de administratie wordt ingediend;<br />4° de aanvraag de volgende documenten bevat :<br />a) een formulier met de gegevens van de vereniging, inclusief het ondernemingsnummer en het werkingsgebied; <br />b) een verslag over de werking, al dan niet als vereniging zonder winstoogmerk, over de twaalf maanden voorafgaand aan de aanvraag, dat zowel een inhoudelijk als een financieel deel bevat en dat is opgesteld overeenkomstig het model dat de minister bepaalt; <br />c) een exemplaar van de statuten van de vereniging, zoals neergelegd bij de griffie van de rechtbank van koophandel, en het bewijs van neerlegging van die statuten en van de andere akten, vermeld in artikel 3, § 1, van de voormelde wet van 27 juni 1921.
+Een aanvraag tot erkenning is ontvankelijk als :<br>
+1° de vereniging bij de indiening van de aanvraag opgericht is als een vereniging zonder winstoogmerk en deze rechtspersoonlijkheid bezit, overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br>
+2° de programmatie, vermeld in artikel 23, § 1/1, niet ingevuld is;<br>
+3° de aanvraag vóór 1 mei op digitale wijze bij de administratie wordt ingediend;<br>
+4° de aanvraag de volgende documenten bevat :<br>
+a) een formulier met de gegevens van de vereniging, inclusief het ondernemingsnummer en het werkingsgebied;<br>
+b) een verslag over de werking, al dan niet als vereniging zonder winstoogmerk, over de twaalf maanden voorafgaand aan de aanvraag, dat zowel een inhoudelijk als een financieel deel bevat en dat is opgesteld overeenkomstig het model dat de minister bepaalt;<br>
+c) ...
 
 ### ART. 25.
 
@@ -329,7 +336,7 @@ De secretaris-generaal kent aan de erkende verenigingen de subsidie toe binnen d
 
 ### ART 34/1.
 
-§1. Jaarlijks kent de secretaris-generaal, naast de subsidie bepaald in artikel 34 §1, binnen de beschikbare begrotingskredieten en na goedkeuring van een activiteitenplanning en jaarbegroting, aan vzw De Keeting, een extra bedrag van 96.128,61 euro op 1 januari 2023 toe voor werkings- en personeelskosten. Artikel 34 §3, artikel 35 en artikel 35/1 zijn van toepassing op deze subsidie.<br>
+§1. Jaarlijks kent de secretaris-generaal, naast de subsidie bepaald in artikel 34 §1, binnen de beschikbare begrotingskredieten en na goedkeuring van een activiteitenplanning en jaarbegroting, aan vzw De Keeting, een extra bedrag toe voor werkings- en personeelskosten.&nbsp;Het extra bedrag bedraagt 96.128,61 euro op 1 januari 2023. Artikel 34 §3, artikel 35 en artikel 35/1 zijn van toepassing op deze subsidie.<br>
 <br>
 §2. VZW De Keeting dient de stavingsstukken uiterlijk op 1 mei van het jaar dat volgt op het werkjaar waarvoor de subsidie werd verleend, bij de administratie in overeenkomstig het besluit van 13 januari 2006.<br>
 <br>
@@ -395,7 +402,8 @@ Een opleidingsorganisatie beschikt minstens over : <br />1° een algemeen coörd
 
 ### ART. 42.
 
-Een aanvraag tot erkenning is ontvankelijk als de organisatie die aanvraag met een aangetekende brief bij de administratie indient en als ze voldoet aan de regels die de minister bepaalt.<br /><br />
+Een aanvraag tot erkenning is ontvankelijk als de organisatie die aanvraag op digitale wijze bij de administratie indient en als ze voldoet aan de regels die de minister bepaalt.<br>
+&nbsp;
 
 ### ART. 43.
 
@@ -541,7 +549,9 @@ De Vlaamse Gemeenschapscommissie kan de subsidie-enveloppe aanwenden voor al de 
 <br>
 De subsidie wordt niet aangewend voor investeringen.<br>
 <br>
-Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.
+Activiteiten waarvoor met toepassing van andere regelingen van de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.<br>
+<br>
+De subsidie aan de Vlaamse Gemeenschapscommissie, vermeld in het eerste lid, wordt geïndexeerd op de wijze, vermeld in artikel 22.
 
 ### ART. 57/4.
 
@@ -598,7 +608,7 @@ c)&nbsp;&nbsp; &nbsp;gezamenlijke visie op en beleid rond inschakelen van ervari
 
 ### ART. 57/9.
 
-Een aanvraag tot erkenning als vormingsorganisatie over armoede is ontvankelijk als de organisatie die aanvraag met een aangetekende brief bij de administratie indient tussen 1 januari en 15 mei van het jaar dat voorafgaat aan de erkenning, en als de aanvraag een dossier bevat dat is samengesteld uit de organisatiegebonden gegevens, vermeld in artikel 57/7, en een meerjarenplan als vermeld in artikel 57/15.
+Een aanvraag tot erkenning als vormingsorganisatie over armoede is ontvankelijk als de organisatie die aanvraag op digitale wijze bij de administratie indient tussen 1 januari en 15 mei van het jaar dat voorafgaat aan de erkenning, en als de aanvraag een dossier bevat dat is samengesteld uit de organisatiegebonden gegevens, vermeld in artikel 57/7, en een meerjarenplan als vermeld in artikel 57/15.
 
 ### ART. 57/10.
 
