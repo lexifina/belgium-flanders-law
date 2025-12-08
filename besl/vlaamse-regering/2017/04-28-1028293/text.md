@@ -29,6 +29,12 @@ In dit besluit wordt verstaan onder:<br>
 4° erkenningscommissies: de erkenningscommissies voor de erkenning van de beoefenaars van de tandheelkunde;<br>
 5° secretaris-generaal: het hoofd van de administratie.
 
+## HOOFDSTUK 1/1 Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2 De erkenningscommissie en het voorzitterscollege
 
 ### ART 2.
@@ -169,21 +175,27 @@ De kandidaat houdt een exemplaar bij van elke schriftelijke overeenkomst die ges
 
 ### ART 10.
 
-§ 1. De stage wordt in principe ononderbroken gevolgd.<br>
+§1. De stage wordt in principe ononderbroken gevolgd.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 kan de administratie, na het advies van de erkenningscommissie, een onderbreking toestaan. De kandidaat meldt daarvoor onmiddellijk een onderbreking van de stage aan de administratie.<br>
+§2. Tijdens de effectieve opleidingsduur heeft de kandidaat recht op een onderbreking van in totaal maximaal vijftien weken om een van de volgende redenen:<br>
+1°&nbsp;&nbsp; &nbsp;zwangerschapsverlof als vermeld in artikel 39 van de Arbeidswet van 16 maart 1971;<br>
+2°&nbsp;&nbsp; &nbsp;geboorteverlof als vermeld in artikel 30 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+3°&nbsp;&nbsp; &nbsp;palliatief verlof als vermeld in artikel 100bis van de Herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
+4°&nbsp;&nbsp; &nbsp;medische redenen, zonder verlenging van de stage.<br>
 <br>
-Voor elke onderbreking, vermeld in het eerste lid, wordt de stage verlengd.<br>
+De kandidaat deelt elke onafgebroken onderbreking van minimum zeven dagen, om de redenen, vermeld in het eerste lid, mee via een wijziging van het stageplan als vermeld in artikel 9.<br>
 <br>
-De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
-<br>
-§ 3. Tijdens de effectieve opleidingsduur heeft de kandidaat bovendien recht op een onderbreking van in totaal maximaal vijftien weken wegens zwangerschapsverlof als vermeld in de Arbeidswet van 16 maart 1971, wegens palliatief verlof als vermeld in de Herstelwet van 22 januari 1985 houdende sociale bepalingen, of om medische redenen, zonder verlenging van de stage.<br>
-<br>
-Voor elke onderbreking, vermeld in het eerste lid, van meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
+&nbsp;Als de kandidaat de effectieve opleidingsduur, om de redenen, vermeld in het eerste lid, onderbreekt voor meer dan vijftien weken, wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.&nbsp;<br>
 <br>
 De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
 <br>
-§ 4. ...
+§3. De administratie kan, na het advies van de erkenningscommissie, een onderbreking toestaan om een andere reden dan de redenen, vermeld in paragraaf 2, eerste lid.&nbsp;<br>
+<br>
+Voor elke onderbreking, vermeld in het eerste lid, wordt de stage verlengd overeenkomstig de duurtijd van de onderbreking.&nbsp;<br>
+<br>
+De kandidaat deelt elke onderbreking, vermeld in het eerste lid, mee via een wijziging van het stageplan als vermeld in artikel 9.<br>
+<br>
+De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.
 
 ### ART 11.
 
@@ -231,7 +243,7 @@ De administratie bezorgt zijn definitieve beslissing, na een advies van de erken
 
 ### ART 14.
 
-§ 1. De beoefenaar van de tandheelkunde die de erkenning als houder van een bijzondere beroepstitel wil verkrijgen, dient daarvoor maximaal een maand vooraf of na de beëindiging van de stage zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.<br>
+§1. De beoefenaar van de tandheelkunde die de erkenning als houder van een bijzondere beroepstitel wil verkrijgen, dient daarvoor maximaal een maand vooraf of na de beëindiging van de stage zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.<br>
 <br>
 de administratie kan voor de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.<br>
 <br>
@@ -240,7 +252,7 @@ Bij de aanvraag zijn de volgende documenten gevoegd:<br>
 2° het laatste stagerapport, alsook elk ander document dat de erkenningscommissie in staat stelt over de waarde van de aanvrager te adviseren;<br>
 3° het bewijs dat de aanvrager geslaagd is voor de opleiding, vermeld in artikel 8, § 1, derde lid, 3°.<br>
 <br>
-§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
+§2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
 <br>
 Als een aanvraagdossier onvolledig is, vraagt de administratie de ontbrekende documenten bij de aanvrager op. De aanvrager krijgt een maand de tijd om de ontbrekende documenten te bezorgen. Daarna kan de aanvraag administratief worden afgesloten.<br>
 <br>
@@ -252,7 +264,13 @@ De erkenningscommissie kan adviseren dat de opleiding nog gedurende een bepaalde
 <br>
 De kandidaat zal worden beoordeeld op basis van de evaluatie van het theoretische gedeelte, het klinische gedeelte en de scriptie.<br>
 <br>
-§ 3. de administratie beslist, na advies van de erkenningscommissie, over de aanvraag tot erkenning als houder van een bijzondere beroepstitel. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.
+§3. de administratie beslist, na advies van de erkenningscommissie, over de aanvraag tot erkenning als houder van een bijzondere beroepstitel. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
+§4. De kandidaat die twaalf maanden na de beëindiging van de stage geen erkenningsaanvraag heeft ingediend, kan worden uitgenodigd voor de vergadering van de erkenningscommissie.&nbsp;<br>
+<br>
+Als de kandidaat die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.&nbsp;<br>
+<br>
+Na advies van de erkenningscommissie kan het dossier administratief worden afgesloten.
 
 ## Afdeling 3 Gemeenschappelijke bepaling
 
