@@ -14,6 +14,12 @@ In dit besluit wordt verstaan onder :<br>
 3° erkenningscommissie : de erkenningscommissies voor de erkenning van beoefenaars van paramedische beroepen;<br>
 4° secretaris-generaal: het hoofd van de administratie.
 
+## HOOFDSTUK 1/1 Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2 Samenstelling en opdrachten van de erkenningscommissie
 
 ### ART. 2.
@@ -146,17 +152,19 @@ De administratie bezorgt de definitieve beslissing van de minister aan de aanvra
 
 ### ART. 14.
 
-<p>Als een beoefenaar van een paramedisch beroep niet meer aan de kwalificatievoorwaarden voldoet, kan de administratie de erkenning van die beoefenaar in kwestie of het voordeel dat toegekend is conform artikel 10 en 11, intrekken.</p>
-
-<p>de administratie kan een erkenning of een voordeel pas intrekken nadat het daarover het advies van de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de beoefenaar van een paramedisch beroep heeft bekendgemaakt.</p>
-
-<p>De beoefenaar van een paramedisch beroep, van wie de administratie de erkenning of het voordeel, toegekend conform artikel 10 en 11, wil intrekken conform het tweede lid, kan binnen dertig dagen na de ontvangst van het voornemen een bezwaarnota indienen.</p>
-
-<p>De bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het advies van de erkenningscommissie wordt de definitieve beslissing van de administratie aan de beoefenaar van een paramedisch beroep bezorgd.</p>
+<p>Als een beoefenaar van een paramedisch beroep niet meer aan de kwalificatievoorwaarden voldoet, kan de administratie de erkenning van die beoefenaar in kwestie of het voordeel dat toegekend is conform artikel 10 en 11, intrekken.<br>
+<br>
+De administratie kan een erkenning of een voordeel pas intrekken nadat het daarover het advies van de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de beoefenaar van een paramedisch beroep heeft bekendgemaakt.<br>
+<br>
+De beoefenaar van een paramedisch beroep, van wie de administratie de erkenning of het voordeel, toegekend conform artikel 10 en 11, wil intrekken conform het tweede lid, kan binnen dertig dagen na de ontvangst van het voornemen een bezwaarnota indienen.<br>
+<br>
+Als de aanvrager geen bezwaarnota indient binnen de termijn, vermeld in het derde lid, wordt het voornemen tot intrekking, vermeld in het tweede lid, van rechtswege geacht een definitieve beslissing te zijn.<br>
+<br>
+De bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het advies van de erkenningscommissie wordt de definitieve beslissing van de administratie aan de beoefenaar van een paramedisch beroep bezorgd.</p>
 
 ### ART 14/1.
 
-Als conform artikel 12, §4, een erkenning wordt afgeleverd op basis van de leer- en ervaringsbewijzendatabank en achteraf blijkt dat onterecht een erkenning is afgeleverd omdat de gegevens niet correct zijn, kan de administratie de erkenning in afwijking van artikel 14 intrekken. Die beslissing wordt aan de persoon in kwestie bezorgd.
+Als conform artikel 12, §4, een erkenning wordt afgeleverd op basis van de leer- en ervaringsbewijzendatabank en achteraf blijkt dat onterecht een erkenning is afgeleverd omdat de gegevens niet correct zijn, kan de administratie de erkenningsbeslissing in afwijking van artikel 14 intrekken. Die beslissing wordt aan de persoon in kwestie bezorgd.
 
 ### ART. 15.
 
