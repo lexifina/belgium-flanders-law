@@ -30,15 +30,7 @@ d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van
 
 ### ART. 2.
 
-De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<br>
-1° de regelgeving over de brandveiligheid;<br>
-2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br>
-3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
-4° het algemeen reglement inzake elektrische installaties;<br>
-5° de typebestekken, opgesteld door het Vlaams Ministerie van Mobiliteit en Openbare Werken;<br>
-6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br>
-7° de regelgeving over de milieuvergunningen;<br>
-8° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.<br>
+De infrastructuur met een functionele bestemming in de sector van de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
 <br>
 De gebouwen waarover een voorziening in de jeugdhulp of een centrum voor ontwikkelingsstoornissen of een vergunde dienst voor pleegzorg beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.
 
