@@ -2,16 +2,16 @@
   "codex_id": 1037810,
   "title": "Besluit van de Vlaamse Regering van 2022-12-09 houdende de nadere regels voor het verkrijgen van een ondersteuningstoeslag en tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van de Vlaamse sociale bescherming (citeeropschrift: \"Besluit Ondersteuningstoeslag van 2022\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037810/VolledigDocument?datum=2023-09-01",
-  "source_sha256": "aeaf32989f67cfb8e2c3c900a1de27fb735eba507ac0f5b2f49eeb6a4ec2e81d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037810/VolledigDocument?datum=2025-12-08",
+  "source_sha256": "f268136b966f14b0d7ad8a5463de0b881bb483e11b14058c6cff86aa21ca223b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037810&param=informatie",
-  "as_of": "2023-09-01",
+  "as_of": "2025-12-08",
   "made": "2022-12-09",
   "gazette": "2022-12-30",
   "numac": 2022043031,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2023-09-01",
+  "in_force": "2025-12-08",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2023-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-08; future article versions excluded; article text as the API gives it"
 }
