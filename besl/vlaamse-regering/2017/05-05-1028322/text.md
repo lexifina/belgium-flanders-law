@@ -22,6 +22,12 @@ In dit besluit wordt verstaan onder:<br>
 3° erkenningscommissie: de erkenningscommissie voor de erkenning van de beroepstitel van vroedvrouw;<br>
 4° secretaris-generaal: het hoofd van de administratie.
 
+## HOOFDSTUK 1/1. Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2. Samenstelling en opdrachten van de erkenningscommissie
 
 ### ART 2.
