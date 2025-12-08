@@ -132,7 +132,7 @@ Om erkend te blijven voldoet een vereniging na een jaar, te rekenen vanaf de dat
 § 1. Om een bijkomende erkenning voor een centrum voor dagopvang te verkrijgen, voldoet een dienst voor gezinszorg aan al de volgende voorwaarden:<br>
 1° op het ogenblik dat de erkenningsaanvraag wordt ingediend, past het centrum voor dagopvang in de programmatie, vermeld in hoofdstuk 2 van bijlage 7, die bij dit besluit is gevoegd;<br>
 2° op het ogenblik dat de erkenningsaanvraag wordt ingediend, voldoet het centrum voor dagopvang aan de specifieke erkenningsvoorwaarden voor de infrastructuur, vermeld in hoofdstuk 4, afdeling 4 van bijlage 2, die bij dit besluit is gevoegd;<br>
-3° op het ogenblik dat de erkenningsaanvraag wordt ingediend of binnen een maximaal één jaar vanaf de datum van de erkenningsbeslissing, voldoet het centrum voor dagopvang aan al de volgende voorwaarden:<br>
+3° op het ogenblik dat de erkenningsaanvraag wordt ingediend of binnen maximaal één jaar vanaf de datum van de erkenningsbeslissing, voldoet het centrum voor dagopvang aan al de volgende voorwaarden:<br>
 a) de voorwaarden, vermeld in artikel 8 tot en met 14;<br>
 b) de erkenningsvoorwaarden, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
 <br>
@@ -161,7 +161,7 @@ Om voorlopig erkend te kunnen worden past een centrum voor dagverzorging, een ce
 
 § 1. Om de kwaliteit van de zorg en ondersteuning te garanderen en te bestendigen, beantwoordt de woonzorgvoorziening of de vereniging aan de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen. Initiatiefnemers die meerdere woonzorgvoorzieningen of verenigingen uitbaten kunnen de voor deze voorzieningen of verenigingen van toepassing zijnde kwaliteitshandboeken en de rapportageverplichtingen integreren in een gemeenschappelijk document.<br>
 <br>
-Zolang echter de lijst, vermeld in artikel 6, § 2, van dat decreet, niet is opgesteld en uiterlijk tot 31 december 2021, leeft, in afwijking van het eerste lid, de woonzorgvoorziening of de vereniging de bepalingen van paragraaf 2 en van artikel 9 na.<br>
+Zolang echter de lijst, vermeld in artikel 6, § 2, van dat decreet, niet is opgesteld, leeft, in afwijking van het eerste lid, de woonzorgvoorziening of de vereniging de bepalingen van paragraaf 2 en van artikel 9 na.<br>
 <br>
 § 2. De woonzorgvoorziening of de vereniging voert een zelfevaluatie uit. Die zelfevaluatie bevat een periodieke evaluatie van de volgende aspecten:<br>
 1° de werking van de woonzorgvoorziening of de vereniging;<br>
@@ -195,7 +195,7 @@ In afwijking van het tweede lid worden de gegevens over de activiteiten van de d
 <br>
 De woonzorgvoorziening of de vereniging hanteert een procedure voor de preventie van, de detectie van en gepaste reacties op grensoverschrijdend gedrag ten aanzien van de gebruikers. In die procedure is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over de gevallen van grensoverschrijdend gedrag ten aanzien van de gebruikers.<br>
 <br>
-De woonzorgvoorziening of de vereniging meldt, op een geanonimiseerde wijze, elke vorm van grensoverschrijdend gedrag ten aanzien van de gebruikers aan de administratie. de administratie stelt daarvoor een formulier ter beschikking.<br>
+De woonzorgvoorziening of de vereniging meldt, op een geanonimiseerde wijze, elke vorm van grensoverschrijdend gedrag ten aanzien van de gebruikers aan de administratie. De administratie stelt daarvoor een formulier ter beschikking.<br>
 <br>
 § 2. Ernstige gebeurtenissen die de zorg en ondersteuning, de gezondheid, de veiligheid, de waardigheid of de integriteit van de gebruikers in het gedrang kunnen brengen, of die daarop een ernstige impact hebben, worden onmiddellijk aan de administratie gemeld.<br>
 <br>
@@ -215,24 +215,24 @@ Als aan een van de personen, vermeld in het eerste lid, een werkstraf of een and
 1° als dat noodzakelijk is voor de zorg en ondersteuning aan een gebruiker deelt de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project persoonsgegevens over die gebruiker mee aan een andere zorgaanbieder op voorwaarde dat de gebruiker daarover is geïnformeerd en er uitdrukkelijk heeft mee ingestemd en, als het de mededeling van gezondheidsgegevens betreft, als de zorgaanbieder aan het beroepsgeheim onderworpen is;<br>
 2° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project bewaart de persoonsgegevens van een gebruiker in een gebruikersdossier en werkt samen met de andere zorgaanbieders uit het zorgteam via het digitale zorg- en ondersteuningsplan, waarin minstens de zorg- en ondersteuningsdoelen en de afspraken over de geplande zorg en ondersteuning voor een persoon met een zorg- en ondersteuningsvraag worden opgenomen, en dat toegankelijk is voor het zorgteam;<br>
 3° behalve in de gevallen dat de mededeling of de inzage van persoonsgegevens nodig is voor de berekening van de subsidies of voor de uitoefening van het toezicht, vermeld in artikel 63 van het Woonzorgdecreet van 15 februari 2019, worden aan de administratie geen persoonsgegevens meegedeeld of ter inzage gegeven;<br>
-4° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project bewaart de persoonsgegevens over een gebruiker minimaal twee jaar na het beëindigen van de zorg en ondersteuning aan de betrokken gebruiker. De woonzorgvoorziening, de vereniging, de partnerorganisatie of het project mag die gegevens tot maximaal vijf jaar na het beëindigen van die zorg en ondersteuning bewaren. Persoonsgegevens kunnen op elektronische wijze worden bewaard;<br>
+4° ...;<br>
 5° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project informeert de gebruikers over de verwerking van hun persoonsgegevens, en garandeert de gebruikers het recht op inzage en het recht op rectificatie van zijn gegevens, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
 6° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project zorgt voor de beveiliging van de verwerking van de persoonsgegevens over de gebruikers, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
 In het eerste lid wordt verstaan onder zorgaanbieder: een persoon, dienst of organisatie, die als zorg- of welzijnsactor professioneel zorg of ondersteuning verleent aan personen met een zorg- en ondersteuningsvraag, inclusief de personen, diensten of organisaties met een gespecialiseerd zorg- en ondersteuningsaanbod<br>
 <br>
 Met behoud van de toepassing van artikel 59, § 4, van het Woonzorgdecreet van 15 februari 2019, gelden voor de gegevensverwerking van persoonsgegevens van de personeelsleden en bestuurders door de woonzorgvoorzieningen, verenigingen, partnerorganisaties en projecten de volgende verplichtingen:<br>
-1° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project bewaart de persoonsgegevens over een personeelslid of een bestuurder tot tien jaar na de beëindiging van de arbeidsovereenkomst of het bestuursmandaat. Persoonsgegevens kunnen op elektronische wijze worden bewaard;<br>
+1° ...;<br>
 2° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project informeert de personeelsleden en bestuurders over de verwerking van hun persoonsgegevens, en garandeert die personen het recht op inzage en het recht op rectificatie van zijn gegevens, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
 3° de woonzorgvoorziening, de vereniging, de partnerorganisatie of het project zorgt voor de beveiliging van de verwerking van de persoonsgegevens over de personeelsleden en bestuurders, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
 § 2. Met behoud van de toepassing van artikel 59, § 5, van het Woonzorgdecreet van 15 februari 2019, gelden voor de gegevensverwerking van persoonsgegevens van de gebruiker door de administratie de volgende verplichtingen:<br>
-1° de administratie bewaart de persoonsgegevens van een gebruiker minimaal twee jaar. Ze mag die gegevens tot maximaal tien jaar bewaren. Persoonsgegevens kunnen op elektronische wijze worden bewaard;<br>
+1° ...;<br>
 2° de administratie informeert de gebruikers over de verwerking van hun persoonsgegevens, en garandeert de gebruikers het recht op inzage en het recht op rectificatie van zijn gegevens, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
 3° de administratie zorgt voor de beveiliging van de verwerking van de persoonsgegevens over de gebruikers, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
 Met behoud van de toepassing van artikel 59, § 5, van het Woonzorgdecreet van 15 februari 2019, gelden voor de gegevensverwerking van persoonsgegevens van de personeelsleden en bestuurders door de administratie de volgende verplichtingen:<br>
-1° de administratie bewaart de persoonsgegevens van personeelsleden en bestuurders minimaal twee jaar en maximaal vijftig jaar. Persoonsgegevens kunnen op elektronische wijze worden bewaard;<br>
+1° ...;<br>
 2° de administratie informeert de personeelsleden en bestuurders over de verwerking van hun persoonsgegevens, en garandeert die personen het recht op inzage en het recht op rectificatie van zijn gegevens, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
 3° de administratie zorgt voor de beveiliging van de verwerking van de persoonsgegevens over personeelsleden en bestuurders, overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
@@ -305,7 +305,7 @@ Op straffe van niet-ontvankelijkheid vraagt een lokaal dienstencentrum, een dien
 
 ### ART 23.
 
-De subsidie wordt vastgesteld op de wijze, vermeld in bijlage 1 tot 3, 5 tot en met 9 en 12, die bij dit besluit zijn gevoegd.
+De subsidie wordt vastgesteld op de wijze, vermeld in bijlage 1 tot en met 3, 5 tot en met 9 en 12, die bij dit besluit zijn gevoegd.
 
 ### ART 24.
 
@@ -789,37 +789,37 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Artikel 1. In deze bijlage wordt verstaan onder:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;antenne: een decentrale plaats waar het lokaal dienstencentrum op systematische basis een of meer van zijn opdrachten realiseert;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;centrum: een lokaal dienstencentrum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;meerjarenplan: een dynamisch en flexibel instrument waarin een centrum over een periode van drie jaar, op basis van een buurtanalyse, een strategische planning maakt met betrekking tot de te bereiken doelstellingen, de manier waarop de beschikbare middelen hierop worden ingezet, de wijze waarop de realisaties worden geëvalueerd, en waarin voor prioritaire doelgroepen activiteiten gepland worden die bijdragen tot de realisatie van het lokaal sociaal beleid zoals bepaald in artikel 4 van het decreet lokaal sociaal beleid van 9 februari 2018.</span></span></span></span></p>
+<p>Artikel 1. In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;antenne: een decentrale plaats waar het lokaal dienstencentrum op systematische basis een of meer van zijn opdrachten realiseert;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+2°&nbsp;centrum: een lokaal dienstencentrum;<br>
+3° meerjarenplan: een dynamisch en flexibel instrument waarin een centrum, op basis van een buurtanalyse, een strategische planning maakt over de doelstellingen die bereikt moeten worden, de manier waarop de beschikbare middelen daarop worden ingezet, de wijze waarop de realisaties worden geëvalueerd, en de wijze waarop voor prioritaire doelgroepen activiteiten gepland worden die bijdragen tot de realisatie van het lokaal sociaal beleid, vermeld in artikel 4 van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid.</p>
 
 ## Hoofdstuk 2. Programmatie
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het programma voor de centra bestaat uit de volgende elementen:</span></span><br>
-1° programmacijfers als vermeld in artikel 3;<br>
-2° evaluatiecriteria als vermeld in artikel 4.</p>
+<p>Het programma voor de centra bestaat uit de volgende elementen:<br>
+1° programmacijfers als vermeld in artikel 3 van deze bijlage;<br>
+2° evaluatiecriteria als vermeld in artikel 4 van deze bijlage.</p>
 
 ### ART 3.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De programmacijfers voor de centra, vermeld in artikel 2, 1°, worden op de volgende wijze bepaald: in een gemeente van het Nederlandse taalgebied en van het tweetalige gebied Brussel-Hoofdstad kan per begonnen schijf van 15.000 inwoners één centrum worden opgericht.</span></span></p>
+<p>De programmacijfers voor de centra, vermeld in artikel 2, 1°, van deze bijlage worden op de volgende wijze bepaald: in een gemeente van het Nederlandse taalgebied en van het tweetalige gebied Brussel-Hoofdstad kan per begonnen schijf van 15.000 inwoners één centrum worden opgericht.</p>
 
-<p>Voor de toepassing van de programmacijfers, vermeld in artikel 2, 1°, wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar waarin de aanvraag tot voorafgaande vergunning is ingediend. Die bevolkingsprojectie wordt door de minister vastgelegd en voldoet tenminste aan de volgende voorwaarden:<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° ze is per afzonderlijk kalenderjaar opgesteld;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3° ze is regionaal gedifferentieerd tot op het niveau van de gemeenten binnen het Nederlandse taalgebied.</span></span></span></span></p>
+<p>Voor de toepassing van de programmacijfers, vermeld in artikel 2, 1°, van deze bijlage wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar waarin de aanvraag tot voorafgaande vergunning is ingediend. Die bevolkingsprojectie wordt door de minister vastgelegd en voldoet tenminste aan de volgende voorwaarden:<br>
+1° ze is per afzonderlijk kalenderjaar opgesteld;<br>
+2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br>
+3° ze is regionaal gedifferentieerd tot op het niveau van de gemeenten binnen het Nederlandse taalgebied.</p>
 
 ### ART 4.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De evaluatiecriteria voor de centra, vermeld in artikel 2, 2°, worden door de minister vastgelegd. Hij houdt daarbij minstens rekening met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de verhouding voor de gemeente in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende centra en het totale aantal geplande centra waarvoor hetzij een voorafgaande vergunning is verleend, hetzij een ontvankelijke, nog niet afgehandelde erkenningsaanvraag is ingediend die voldoet aan de programmatie;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de datum waarop de ontvankelijke aanvraag tot voorafgaande vergunning is ingediend;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de ligging en de bereikbaarheid van het centrum waarvoor een aanvraag tot voorafgaande vergunning is ingediend;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;het toekomstige profiel van de gebruikers van het centrum waarvoor een voorafgaande vergunning wordt aangevraagd;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de samenwerkingsverbanden met andere woonzorg- en welzijnsvoorzieningen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de geografische spreiding van de centra.</span></span></span></span></p>
+<p>De evaluatiecriteria voor de centra, vermeld in artikel 2, 2°, van deze bijlage, worden door de minister vastgelegd. Hij houdt daarbij minstens rekening met:<br>
+1°&nbsp;de verhouding voor de gemeente in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende centra en het totale aantal geplande centra waarvoor hetzij een voorafgaande vergunning is verleend, hetzij een ontvankelijke, nog niet afgehandelde erkenningsaanvraag is ingediend die voldoet aan de programmatie;<br>
+2°&nbsp;de datum waarop de ontvankelijke aanvraag tot voorafgaande vergunning is ingediend;<br>
+3°&nbsp;de ligging en de bereikbaarheid van het centrum waarvoor een aanvraag tot voorafgaande vergunning is ingediend;<br>
+4°&nbsp;het toekomstige profiel van de gebruikers van het centrum waarvoor een voorafgaande vergunning wordt aangevraagd;<br>
+5°&nbsp;de samenwerkingsverbanden met andere woonzorg- en welzijnsvoorzieningen;<br>
+6°&nbsp;de geografische spreiding van de centra.</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -827,7 +827,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART 5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Aanvullend op artikel 4, 7, 8, 9, 10, 42, 52 en 59 van het Woonzorgdecreet van 15 februari 2019, gelden voor de erkenning van lokale dienstencentra de specifieke voorwaarden, vermeld in dit hoofdstuk.</span></span></p>
+<p>Aanvullend op artikel 4, 7, 8, 9, 10, 52 en 59 van het Woonzorgdecreet van 15 februari 2019, gelden voor de erkenning van lokale dienstencentra de specifieke voorwaarden, vermeld in dit hoofdstuk.</p>
 
 ## Afdeling 2. Voorwaarden voor de zorg en ondersteuning
 
@@ -850,7 +850,9 @@ De administratie kan de buurtanalyse en het meerjarenplan opvragen.</p>
 
 ### ART 8.
 
-<span style="font-size:10.0pt">Het centrum vangt signalen, problemen en noden van gebruikers, mantelzorgers, buurtbewoners, lokale hulpverleners en andere vrijwillige en professionele actoren in de buurt op en kaart ze op een aantoonbare wijze aan door actieve aanwezigheid in lokale overlegmomenten en door acties op te nemen in het meerjarenplan.</span>
+Het centrum vangt signalen, problemen en noden van gebruikers, mantelzorgers, buurtbewoners, lokale hulpverleners en andere vrijwillige en professionele actoren in de buurt op en kaart ze op een aantoonbare wijze aan door actieve aanwezigheid in lokale overlegmomenten en door acties op te nemen in het meerjarenplan.<br>
+<br>
+De inhoud en termijn van het meerjarenplan van het centrum worden afgestemd op de inhoud en termijn van het meerjarenplan van het lokaal bestuur van de gemeente waarin het centrum ligt.
 
 ### ART 9.
 
@@ -1004,7 +1006,7 @@ De subsidie-enveloppe, vermeld in het eerste lid, wordt voor een openbaar centru
 ### ART 1.
 
 <p>In deze bijlage wordt verstaan onder:<br>
-1°&nbsp;algemene psychosociale en (ped)agogische ondersteuning: de activiteiten, vermeld in artikel 2, 2°, van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009;<br>
+1°&nbsp;algemene psychosociale en (ped)agogische ondersteuning: de activiteiten, vermeld in artikel 4, eerste lid, 2° en 3°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening;<br>
 2°&nbsp;begeleidend personeel: de personeelsleden van een dienst die met een of meer van de volgende opdrachten belast zijn:<br>
 a)&nbsp;de sociale onderzoeken verrichten;<br>
 b) de gebruikers en hun informeel zorg- en ondersteuningsnetwerk bij het opnemen van de eigen zorgregie ondersteunen en versterken;<br>
@@ -1037,7 +1039,7 @@ b) de begeleiding van de gebruikers die verbonden zijn met de doelgroepwerknemer
 c) de opvolging van de werkrelatie van de doelgroepwerknemer en de gebruikers en de specifieke zorgcontext waarin ze werken<br>
 20° ondersteuningsplan: een ondersteuningsplan als vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
 21° oppashulp: het zorg- en ondersteuningsaanbod dat erin bestaat de gebruiker gezelschap te bieden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorg;<br>
-22° persoonsverzorging: de activiteiten, vermeld in artikel 2, 1°, van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009;<br>
+22° persoonsverzorging: de activiteiten, vermeld in artikel 4, eerste lid, 1°, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening;<br>
 23° regionale stad: een regionale stad als vermeld in de bijlage bij het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen of het tweetalige gebied Brussel-Hoofdstad;<br>
 24° toezicht houden: met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en indien nodig dringende zorg en ondersteuning verlenen of professionele zorg of mantelzorg inroepen;<br>
 25° verzorgend personeel: de personeelsleden van een dienst die aan de gebruiker persoonsverzorging en huishoudelijke hulp aanbieden, alsook algemene psychosociale en (ped)agogische ondersteuning die met die activiteiten verband houden, met als doel de gebruiker en zijn mantelzorger te handhaven en te ondersteunen in het natuurlijke thuismilieu;<br>
@@ -1090,21 +1092,19 @@ c) de opvolging van de werkrelatie van de doelgroepwerknemer en de gebruikers en
 
 ### ART 6.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Het begeleidend personeel van de dienst verricht jaarlijks een sociaal onderzoek in het natuurlijk thuismilieu van de gebruiker. Als aan de gebruiker uitsluitend schoonmaakhulp, karweihulp of oppashulp wordt verleend, wordt het sociaal onderzoek tweejaarlijks verricht. Als aan de gebruiker uitsluitend gezinszorg aangeboden wordt in een centrum voor dagopvang, kan het sociaal onderzoek ook in dat centrum verricht worden.</span></span><br>
+<p>§1. Het begeleidend personeel van de dienst verricht jaarlijks een sociaal onderzoek in het natuurlijk thuismilieu van de gebruiker. Als aan de gebruiker uitsluitend schoonmaakhulp, karweihulp of oppashulp wordt verleend, wordt het sociaal onderzoek tweejaarlijks verricht. Als aan de gebruiker uitsluitend gezinszorg aangeboden wordt in een centrum voor dagopvang, kan het sociaal onderzoek ook in dat centrum verricht worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Als onderdeel van het sociaal onderzoek, vermeld in paragraaf 1, evalueert en objectiveert de dienst, behalve bij kraamzorg, het zelfzorgvermogen van de gebruiker op het vlak van gezinszorg.</span></span><br>
+§2. Als onderdeel van het sociaal onderzoek, vermeld in paragraaf 1, evalueert en objectiveert de dienst, behalve bij kraamzorg, het zelfzorgvermogen van de gebruiker op het vlak van gezinszorg.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het zelfzorgvermogen van de gebruiker wordt ter uitvoering van artikel 12, §1, derde lid, 2°, van het Woonzorgdecreet van 15 februari 2019 vastgesteld aan de hand van de BelRAI screener en het Sociaal Supplement, eventueel aangevuld, ter uitvoering van artikel 12, §1, eerste lid, 5°, van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care.</span></span><br>
+Het zelfzorgvermogen van de gebruiker wordt ter uitvoering van artikel 12, §1, derde lid, 2°, van het Woonzorgdecreet van 15 februari 2019 vastgesteld aan de hand van de BelRAI Screener en het Sociaal Supplement, eventueel aangevuld, ter uitvoering van artikel 12, §1, eerste lid, 5°, van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als er al een actuele evaluatie en objectivering van het zelfzorgvermogen van de gebruiker aan de hand van de instrumenten, vermeld in het tweede lid, ter beschikking zijn, worden die gebruikt, tenzij de situatie van de gebruiker intussen gewijzigd is.</span></span><br>
+Als er al een actuele evaluatie en objectivering van het zelfzorgvermogen van de gebruiker aan de hand van de instrumenten, vermeld in het tweede lid, ter beschikking zijn, worden die gebruikt, tenzij de situatie van de gebruiker intussen gewijzigd is.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister bepaalt de nadere regels in verband met de vaststelling van het zelfzorgvermogen en het gebruik van de instrumenten voor indicatiestelling.</span></span><br>
+De minister bepaalt de nadere regels in verband met de vaststelling van het zelfzorgvermogen en het gebruik van de instrumenten voor indicatiestelling.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. Een sociaal onderzoek als vermeld in paragraaf 1, is niet vereist als de dienst aan een gebruiker in een groep van assistentiewoningen crisiszorg of overbruggingszorg als vermeld in bijlage 10 die bij dit besluit is gevoegd verstrekt.</span></span><br>
+§3.&nbsp;In geval van acute zorg mag het sociaal onderzoek, vermeld in paragraaf 1, door de dienst ook na de start van de hulpverlening uitgevoerd worden tot maximaal veertien dagen erna. De dienst hoeft geen sociaal onderzoek uit te voeren als de gezinszorg niet voortgezet wordt na die veertien dagen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In geval van acute zorg mag het sociaal onderzoek, vermeld in paragraaf 1, door de dienst ook na de start van de hulpverlening uitgevoerd worden tot maximaal veertien dagen erna. De dienst hoeft geen sociaal onderzoek uit te voeren als de gezinszorg niet voortgezet wordt na die veertien dagen.</span></span><br>
-<br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">In het tweede lid wordt verstaan onder acute zorg: de gezinszorg die gedurende maximaal veertien dagen wordt geboden door verzorgend personeel in geval van een noodsituatie die niet vooraf kan worden ingeschat en waarin onmiddellijk zorg vereist is.&nbsp;</span></p>
+In het eerste lid wordt verstaan onder acute zorg: de gezinszorg die gedurende maximaal veertien dagen wordt geboden door verzorgend personeel in geval van een noodsituatie die niet vooraf kan worden ingeschat en waarin onmiddellijk zorg vereist is.&nbsp;</p>
 
 ### ART 7.
 
@@ -1267,7 +1267,7 @@ Als de dienst niet zelf in de nodige zorg en ondersteuning kan voorzien, leidt h
 
 ### ART 29.
 
-<p>Een dienst stelt doorlopend minstens tien voltijdsequivalent verzorgend personeel tewerk. De verzorgende personeelsleden verrichten de activiteiten, vermeld in artikel 2 van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009, met behoud de toepassing van artikel 3, 4 en 4/1 van het voormelde besluit.</p>
+<p>Een dienst stelt doorlopend minstens tien voltijdsequivalent verzorgend personeel tewerk. De verzorgende personeelsleden verrichten de activiteiten, vermeld in artikel 4, eerste lid, van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, met behoud van de toepassing van artikel 6 van het voormelde decreet.</p>
 
 <p>Een verzorgend personeelslid beschikt bij de indiensttreding over een van de volgende documenten:<br>
 1° een van de volgende studiebewijzen, uitgereikt in het studiegebied personenzorg, waarbij de minister bepaalt welke opleidingen binnen het studiegebied personenzorg in aanmerking komen:<br>
@@ -1281,7 +1281,7 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 3° een bekwaamheidsattest van verzorgende-zorgkundige als vermeld in artikel 3, §1, eerste lid, van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige;<br>
 4° een bekwaamheidsattest, uitgereikt door een opleidingscentrum dat erkend is door de Franse of de Duitstalige Gemeenschap en dat opleidingen organiseert die zowel naar inhoud als naar niveau gelijkwaardig zijn aan de opleidingen die leiden tot een bekwaamheidsattest als vermeld in punt 3°;<br>
 5° een buitenlands studiebewijs, op voorwaarde dat het door het National Academic and professional Recognition and Information Centre (NARIC-Vlaanderen) gelijkwaardig wordt verklaard met een Vlaams studiebewijs als vermeld in punt 1°, of 2°;<br>
-6° een conformiteitsattest, uitgereikt met toepassing van artikel 7 tot en met 11 van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009;<br>
+6° ...;<br>
 7° een attest waaruit blijkt dat de persoon geregistreerd is als zorgkundige.<br>
 <br>
 In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid voor de studiebewijzen die vanaf het schooljaar 2024-2025 behaald worden in het secundair onderwijs, bij de indiensttreding over een diploma van secundair onderwijs met onderwijskwalificatie niveau 3 of niveau 4, dat is behaald in het studiedomein Maatschappij en Welzijn, samen met een van de volgende beroepskwalificaties:<br>
@@ -1293,14 +1293,14 @@ In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid 
 
 ### ART 30.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst stelt per 105&nbsp;gebruikers, aan wie hij gezinszorg door verzorgend personeel biedt, één voltijdsequivalent begeleidend personeel tewerk. Per 53&nbsp;extra gebruikers aan wie hij gezinszorg aanbiedt, stelt hij daarbovenop één halftijdsequivalent begeleidend personeel tewerk.</span></span><br>
+<p>De dienst stelt per 105&nbsp;gebruikers, aan wie hij gezinszorg door verzorgend personeel biedt, één voltijdsequivalent begeleidend personeel tewerk. Per 53&nbsp;extra gebruikers aan wie hij gezinszorg aanbiedt, stelt hij daarbovenop één halftijdsequivalent begeleidend personeel tewerk.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een begeleidend personeelslid of een lid van het omkaderingspersoneel beschikt over de nodige competenties voor de opdrachten, vermeld in artikel 1, 2°, die aan hem worden toegewezen. Hij beschikt bij de indiensttreding over een van de volgende graden of studiebewijzen:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de graad van bachelor;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de graad van master;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;een buitenlands studiebewijs op voorwaarde dat het door het National Academic and professional Recognition and Information Centre (NARIC-Vlaanderen) gelijkwaardig wordt verklaard met een Vlaams studiebewijs dat leidt tot de graad van bachelor of master.</span></span></span></span><br>
+Een begeleidend personeelslid of een lid van het omkaderingspersoneel beschikt over de nodige competenties voor de opdrachten, vermeld in artikel 1, 2° en 19°, van deze bijlage, die aan hem worden toegewezen. Hij beschikt bij de indiensttreding over een van de volgende graden of studiebewijzen:<br>
+1°&nbsp;de graad van bachelor;<br>
+2°&nbsp;de graad van master;<br>
+3°&nbsp;een buitenlands studiebewijs op voorwaarde dat het door het National Academic and professional Recognition and Information Centre (NARIC-Vlaanderen) gelijkwaardig wordt verklaard met een Vlaams studiebewijs dat leidt tot de graad van bachelor of master.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een begeleidend personeelslid of een lid van het omkaderingspersoneel dat belast is met het verrichten van de sociale onderzoeken, voldoet aan de voorwaarden, vermeld in artikel 156 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</span></span></p>
+Een begeleidend personeelslid dat belast is met het verrichten van de sociale onderzoeken, voldoet aan de voorwaarden, vermeld in artikel 156 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</p>
 
 ### ART 31.
 
@@ -1361,9 +1361,9 @@ In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid 
 
 ### ART 39.
 
-<p>Een centrum voor dagopvang van een dienst voldoet aan de specifieke erkenningsvoorwaarden van hoofdstuk 3 van bijlage 7 die bij dit besluit is gevoegd, met uitzondering van artikel 19, artikel 20, 2°, en 3°, artikel 21, 22, 25, 43, tweede lid, artikel 44, en afdeling 5 van dat voormelde hoofdstuk 3.<br>
+<p>Een centrum voor dagopvang van een dienst voldoet aan de specifieke erkenningsvoorwaarden van hoofdstuk 3 van bijlage 7 die bij dit besluit is gevoegd, met uitzondering van artikel 19, artikel 20, 2°, en 3°, artikel 21, 22, 22/1, 25, 43, tweede lid, artikel 44, en afdeling 5 van dat voormelde hoofdstuk 3.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">In afwijking van artikel 10, eerste lid, 3°, artikel 15, artikel 31 tot en met 41 van bijlage 7 die bij dit besluit is gevoegd, factureert het centrum voor dagopvang een prijs per uur in plaats van een dagprijs aan de gebruiker. De minister kan de nadere regels bepalen.&nbsp;</span></p>
+In afwijking van artikel 10, eerste lid, 3°, artikel 15, artikel 31 tot en met 41 van bijlage 7 die bij dit besluit is gevoegd, factureert het centrum voor dagopvang een prijs per uur in plaats van een dagprijs aan de gebruiker. De minister kan de nadere regels bepalen.&nbsp;</p>
 
 ### ART 40.
 
@@ -1383,7 +1383,7 @@ In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid 
 
 ### ART 44.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voor dagopvang realiseert een gemiddelde bezettingsgraad van maximaal tien.</span></span>
+Het centrum voor dagopvang realiseert een gemiddelde bezettingsgraad van maximaal tien gebruikers.
 
 ## Afdeling 4. Het gebouw
 
@@ -1397,41 +1397,41 @@ In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid 
 
 ### ART 46.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voor dagopvang voldoet aan de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het centrum ontwikkelt zijn werking in een eigen, duidelijk te onderscheiden infrastructuur die architectonisch één geheel vormt. Als het centrum is ingericht in de gebouwen van een woonzorgcentrum of van een andere voorziening, duidt een aparte ingang of een aangepaste bewegwijzering op de eigen werking ervan;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de ingang van het centrum is zo aangepast dat de gebruikers bij aankomst en vertrek gemakkelijk kunnen in- en uitstappen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;er is minstens één gemeenschappelijke leefruimte waar alle gebruikers op een comfortabele manier kunnen zitten, en die geschikt is voor polyvalent gebruik;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;in minstens één ruimte is het mogelijk om privégesprekken te voeren en gepaste zorg en ondersteuning te bieden met een minimale privacy voor de gebruiker;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;er is in het centrum of in de onmiddellijke nabijheid ervan ten minste één badkamer, met een aangepaste bad- of douchegelegenheid, die voor alle gebruikers toegankelijk is;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;minstens één toilet is toegankelijk voor rolstoelgebruikers<span style="background-color:white"><span style="font-family:Verdana,sans-serif">;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;er is voldoende bergruimte in het centrum;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;iedere gebruiker heeft de mogelijkheid om te rusten in een rustige omgeving;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;het gebouw is voorzien op een kleinschalige werking en is huiselijk en gezellig ingericht; </span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;het nodige meubilair is aangepast aan de specifieke behoeften van de gebruikers;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;dossiers en geneesmiddelen, met uitzondering van de geneesmiddelen die koel bewaard moeten worden, worden bewaard op een veilige en discrete manier en zijn niet toegankelijk voor de gebruikers; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">12°&nbsp;er is een koelkast ter beschikking voor het koel bewaren van sommige geneesmiddelen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">13°&nbsp;persoonlijke bezittingen van de gebruikers kunnen op een veilige manier bewaard worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">14°&nbsp;ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">15°&nbsp;de gebouwen en de lokalen worden regelmatig onderhouden;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">16°&nbsp;restafval en gft worden in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">17°&nbsp;de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">18°&nbsp;de infrastructuur van het centrum en de omgeving die toegankelijk is voor gebruikers en bezoekers, is integraal toegankelijk; </span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">19°&nbsp;om zich te verplaatsen kunnen de gebruikers zich behelpen met leuningen of handgrepen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">20°&nbsp;de ruimten die toegankelijk zijn voor gebruikers en zich niet op het gelijkvloers verdiep bevinden, zijn bereikbaar via ten minste één lift. Dat kan ook een traplift zijn;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">21°&nbsp;treden, trappen en andere hindernissen worden vermeden. Als die niveauverschillen niet geweerd kunnen worden, worden ze ondervangen conform de bepalingen in de bepalingen in het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid en worden ze duidelijk gesignaleerd en worden ze duidelijk gesignaleerd;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">22°&nbsp;ramen, toegangen en trappenhallen kunnen beveiligd worden; </span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">23°&nbsp;elke gebruiker kan altijd in alle ruimten die toegankelijk zijn voor de gebruikers een efficiënt en aangepast oproepsysteem gebruiken dat gemakkelijk bereikbaar is voor de gebruikers. In elke sanitaire cel is een vast oproepsysteem aanwezig. De ruimte waaruit de noodoproep komt, is identificeerbaar. De aangewende oproepsystemen zijn betrouwbaar zijn en worden regelmatig gecontroleerd;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">24°&nbsp;als de dienst een mobiel oproepsysteem gebruikt en het eveneens aanwendt voor dwaaldetectie, wordt de toestemming van de gebruiker of zijn vertegenwoordiger gevraagd en de noodzaak ervan gemotiveerd in het zorg- en ondersteuningsplan.</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">25°&nbsp;ICT is beschikbaar in het centrum ter ondersteuning van de kwaliteit van zorg en zorgopvolging en de uitvoering van zorgtaken. In minstens één leefruimte kunnen de gebruikers naar televisie kijken en naar de radio luisteren en via minstens één toestel hebben ze toegang tot het internet;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">26°&nbsp;hulpmiddelen en materialen die noodzakelijk zijn voor de zorg en de ondersteuning van de gebruiker, zijn afgestemd op de zorg- en ondersteuningsnoden van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">27°&nbsp;de voor de gebruikers toegankelijke ruimtes in een centrum hebben samen een nettovloeroppervlakte van minimaal 5 m² per aanwezige gebruiker. Die ruimten omvatten niet de badkamer, de sanitaire ruimten en de gangen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">28°&nbsp;in elke leefruimte bedraagt het raamoppervlak tenminste een zesde van de nettovloeroppervlakte. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte. Het glasoppervlak van het raam in elke leefruimte begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is er een ongehinderd zicht naar buiten;</span></span></span> </span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">29°&nbsp;alle afmetingen zijn nettoafmetingen, gemeten van plint tot plint. De oppervlakte onder schuine wanden wordt daarbij niet meegeteld, behalve vanaf het punt waarop een normale doorgangshoogte van 2,30 m begint;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">30°&nbsp;in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">31°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. In de leefruimte wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In de leefruimte zijn daarvoor voldoende aansluitingen geïnstalleerd;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">32°&nbsp;er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">33°&nbsp;in de leefruimte zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de gebruikers;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">34°&nbsp;in de leefruimte bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimten een temperatuur van maximaal 26°C of, als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren. </span></span></span></span></p>
+<p>Het centrum voor dagopvang voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;het centrum ontwikkelt zijn werking in een eigen, duidelijk te onderscheiden infrastructuur die architectonisch één geheel vormt. Als het centrum is ingericht in de gebouwen van een woonzorgcentrum of van een andere voorziening, duidt een aparte ingang of een aangepaste bewegwijzering op de eigen werking ervan;<br>
+2°&nbsp;de ingang van het centrum is zo aangepast dat de gebruikers bij aankomst en vertrek gemakkelijk kunnen in- en uitstappen;<br>
+3°&nbsp;er is minstens één gemeenschappelijke leefruimte waar alle gebruikers op een comfortabele manier kunnen zitten, en die geschikt is voor polyvalent gebruik;<br>
+4°&nbsp;in minstens één ruimte is het mogelijk om privégesprekken te voeren en gepaste zorg en ondersteuning te bieden met een minimale privacy voor de gebruiker;<br>
+5°&nbsp;er is in het centrum of in de onmiddellijke nabijheid ervan ten minste één badkamer, met een aangepaste bad- of douchegelegenheid, die voor alle gebruikers toegankelijk is;<br>
+6°&nbsp;minstens één toilet is toegankelijk voor rolstoelgebruikers;<br>
+7°&nbsp;er is voldoende bergruimte in het centrum;<br>
+8°&nbsp;iedere gebruiker heeft de mogelijkheid om te rusten in een rustige omgeving;<br>
+9°&nbsp;het gebouw is voorzien op een kleinschalige werking en is huiselijk en gezellig ingericht;<br>
+10°&nbsp;het nodige meubilair is aangepast aan de specifieke behoeften van de gebruikers;<br>
+11°&nbsp;dossiers en geneesmiddelen, met uitzondering van de geneesmiddelen die koel bewaard moeten worden, worden bewaard op een veilige en discrete manier en zijn niet toegankelijk voor de gebruikers;<br>
+12°&nbsp;er is een koelkast ter beschikking voor het koel bewaren van sommige geneesmiddelen;<br>
+13°&nbsp;persoonlijke bezittingen van de gebruikers kunnen op een veilige manier bewaard worden;<br>
+14°&nbsp;ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht;<br>
+15°&nbsp;de gebouwen en de lokalen worden regelmatig onderhouden;<br>
+16°&nbsp;restafval en gft worden in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat;<br>
+17°&nbsp;de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;<br>
+18°&nbsp;de infrastructuur van het centrum en de omgeving die toegankelijk is voor gebruikers en bezoekers, is integraal toegankelijk;<br>
+19°&nbsp;om zich te verplaatsen kunnen de gebruikers zich behelpen met leuningen of handgrepen;<br>
+20°&nbsp;de ruimten die toegankelijk zijn voor gebruikers en zich niet op het gelijkvloers verdiep bevinden, zijn bereikbaar via ten minste één lift. Dat kan ook een traplift zijn;<br>
+21°&nbsp;treden, trappen en andere hindernissen worden vermeden. Als die niveauverschillen niet geweerd kunnen worden, worden ze ondervangen conform de bepalingen in de bepalingen in het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
+22°&nbsp;ramen, toegangen en trappenhallen kunnen beveiligd worden;<br>
+23°&nbsp;elke gebruiker kan altijd in alle ruimten die toegankelijk zijn voor de gebruikers een efficiënt en aangepast oproepsysteem gebruiken dat gemakkelijk bereikbaar is voor de gebruikers. In elke sanitaire cel is een vast oproepsysteem aanwezig. De ruimte waaruit de noodoproep komt, is identificeerbaar. De aangewende oproepsystemen zijn betrouwbaar zijn en worden regelmatig gecontroleerd;<br>
+24°&nbsp;als de dienst een mobiel oproepsysteem gebruikt en het eveneens aanwendt voor dwaaldetectie, wordt de toestemming van de gebruiker of zijn vertegenwoordiger gevraagd en de noodzaak ervan gemotiveerd in het zorg- en ondersteuningsplan.<br>
+25°&nbsp;ICT is beschikbaar in het centrum ter ondersteuning van de kwaliteit van zorg en zorgopvolging en de uitvoering van zorgtaken. In minstens één leefruimte kunnen de gebruikers naar televisie kijken en naar de radio luisteren en via minstens één toestel hebben ze toegang tot het internet;<br>
+26°&nbsp;hulpmiddelen en materialen die noodzakelijk zijn voor de zorg en de ondersteuning van de gebruiker, zijn afgestemd op de zorg- en ondersteuningsnoden van de gebruiker;<br>
+27°&nbsp;de voor de gebruikers toegankelijke ruimtes in een centrum hebben samen een nettovloeroppervlakte van minimaal 5 m² per aanwezige gebruiker. Die ruimten omvatten niet de badkamer, de sanitaire ruimten en de gangen;<br>
+28°&nbsp;in elke leefruimte bedraagt het raamoppervlak tenminste een zesde van de nettovloeroppervlakte. In een leefruimte met een nettovloeroppervlakte van meer dan 30 m² is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte. Het glasoppervlak van het raam in elke leefruimte begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is er een ongehinderd zicht naar buiten;<br>
+29°&nbsp;alle afmetingen zijn nettoafmetingen, gemeten van plint tot plint. De oppervlakte onder schuine wanden wordt daarbij niet meegeteld, behalve vanaf het punt waarop een normale doorgangshoogte van 2,30 m begint;<br>
+30°&nbsp;in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
+31°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. In de leefruimte wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In de leefruimte zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+32°&nbsp;er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
+33°&nbsp;in de leefruimte zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de gebruikers;<br>
+34°&nbsp;in de leefruimte bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimten een temperatuur van maximaal 26°C of, als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren.</p>
 
 ## Hoofdstuk 5. Subsidiëring
 
@@ -1911,15 +1911,15 @@ Voor alle andere verplaatsingen dan de verplaatsingen, vermeld in het eerste en 
 
 ### ART 80.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als een dienst de norm van 95%, vermeld in artikel 79, §1, 1°, en 2°, van deze bijlage, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 71, tweede lid, 1°, en artikel 72, eerste lid, 1°, van deze bijlage verminderd met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° 5% als de dienst een percentage haalt dat lager is dan 95% en hoger dan of gelijk aan 90%;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;10% als de dienst een percentage haalt dat lager is dan 90% en hoger dan of gelijk aan 85%;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;(100% - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85%.</span></span></span></span><br>
+<p>Als een dienst de norm van 95%, vermeld in artikel 79, §1, 1°, en 2°, van deze bijlage, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 71, tweede lid, 1°, en artikel 72, 1° , van deze bijlage verminderd met:<br>
+1° 5% als de dienst een percentage haalt dat lager is dan 95% en hoger dan of gelijk aan 90%;<br>
+2°&nbsp;10% als de dienst een percentage haalt dat lager is dan 90% en hoger dan of gelijk aan 85%;<br>
+3°&nbsp;(100% - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85%.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als een dienst de norm van 90%, vermeld in artikel 79, §1, 3°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 71, tweede lid, 2°, 3°, en 4°, en artikel 72, eerste lid, 2°, 3°, en 4°, van deze bijlage verminderd met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;5% als de dienst een percentage haalt dat lager is dan 90% en hoger dan of gelijk aan 85%;<br>
-2°&nbsp;</span></span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">10% als de dienst een percentage haalt dat lager is dan 85% en hoger dan of gelijk aan 80%;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">(100% - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80%.</span></p>
+Als een dienst de norm van 90%, vermeld in artikel 79, §1, 3°, van deze bijlage, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 71, tweede lid, 2°, 3°, en 4°, en artikel 72, 2°, 3°, en 4°, van deze bijlage verminderd met:<br>
+1°&nbsp;5% als de dienst een percentage haalt dat lager is dan 90% en hoger dan of gelijk aan 85%;<br>
+2°&nbsp;10% als de dienst een percentage haalt dat lager is dan 85% en hoger dan of gelijk aan 80%;<br>
+3°&nbsp;(100% - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80%.</p>
 
 ### ART 81.
 
@@ -1955,13 +1955,13 @@ Als de bewijsstukken, vermeld in het tweede lid, het bedrag, vermeld in paragraa
 
 ### ART 83/1.
 
-Het jaarlijkse subsidiebedrag, vermeld in artikel 83, wordt berekend per centrum voor dagopvang waarvoor de dienst een bijkomende erkenning heeft.<br>
+Het jaarlijkse subsidiebedrag, vermeld in artikel 83 van deze bijlage, wordt berekend per centrum voor dagopvang waarvoor de dienst een bijkomende erkenning heeft.<br>
 <br>
-Het voomelde jaarlijkse subsidiebedrag wordt toegekend op basis van de erkenning op 1 januari van het werkingsjaar in kwestie.<br>
+Het vjaarlijkse subsidiebedrag, vermeld in het eerste lid, wordt toegekend op basis van de erkenning op 1 januari van het werkingsjaar in kwestie.<br>
 <br>
 Als de erkenning van een centrum voor dagopvang stopt, wordt het voormelde jaarlijkse subsidiebedrag proportioneel herrekend op basis van het aantal erkende dagen in het werkingsjaar in kwestie.<br>
 <br>
-Nieuwe centra voor dagopvang komen alleen in aanmerking voor subsidiëring als vermeld in artikel 83, als de erkenning vóór 1 januari van dat werkingsjaar is aangevraagd en als die erkenning uiterlijk op 1 januari van datzelfde werkingsjaar ingaat.
+Nieuwe centra voor dagopvang komen alleen in aanmerking voor subsidiëring als vermeld in artikel 83 van deze bijlage, als de erkenning vóór 1 januari van dat werkingsjaar is aangevraagd en als die erkenning uiterlijk op 1 januari van datzelfde werkingsjaar ingaat.
 
 ### ART 84.
 
@@ -1971,19 +1971,19 @@ Als een centrum voor dagopvang een gerealiseerde gemiddelde bezettingsgraad van 
 
 ### ART 84/1.
 
-De initiatiefnemer van het centrum voor dagopvang bezorgt vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, vermeld in artikel 83, via het e-loket aan de administratie de bezettingsgegevens van het centrum voor dagopvang.<br>
+De initiatiefnemer van het centrum voor dagopvang bezorgt vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, vermeld in artikel 83 van deze bijlage, via het e-loket aan de administratie de bezettingsgegevens van het centrum voor dagopvang.<br>
 <br>
 De bezettingsgegevens, vermeld in het eerste lid, bestaan uit het totale aantal aanwezigheidsuren van alle gebruikers tijdens het jaar in kwestie.
 
 ### ART 84/2.
 
-Vóór 1 juli van het werkingsjaar waarop de subsidie, vermeld in artikel 83, betrekking heeft, wordt een voorschot van 90% van het maximale subsidiebedrag, vermeld in artikel 84, eerste lid, en artikel 86 uitbetaald.
+Vóór 1 juli van het werkingsjaar waarop de subsidie, vermeld in artikel 83 van deze bijlage, betrekking heeft, wordt een voorschot van 90% van het maximale subsidiebedrag, vermeld in artikel 84, eerste lid, en artikel 86 van deze bijlage, uitbetaald.
 
 ### ART 84/3.
 
-Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd op basis van de gegevens die bezorgd worden conform artikel 84/1.<br>
+Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd op basis van de gegevens die bezorgd worden conform artikel 84/1 van deze bijlage.<br>
 <br>
-Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, wordt het teveel aan subsidie dat conform artikel 84/2 is uitbetaald, teruggevorderd.
+Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, wordt het teveel aan subsidie dat conform artikel 84/2 van deze bijlage is uitbetaald, teruggevorderd.
 
 ### ART 85.
 
@@ -1993,7 +1993,7 @@ Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, 
 
 ### ART 86.
 
-<p>De subsidiebedragen, vermeld in artikel 84, eerste en tweede lid, van deze bijlage worden voor een centrum voor dagopvang van een private dienst verhoogd met 200,09 euro om de maatregel eindejaarspremie&nbsp;en de maatregel baremaverhoging voor omkadering uit het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018 tot 2020 uit te voeren, en met 915,21 euro om de koopkrachtmaatregel uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.</p>
+<p>De subsidiebedragen, vermeld in artikel 84, eerste en tweede lid, van deze bijlage, worden voor een centrum voor dagopvang van een private dienst verhoogd met 200,09 euro om de maatregel eindejaarspremie&nbsp;en de maatregel baremaverhoging voor omkadering uit het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018 tot 2020 uit te voeren, en met 915,21 euro om de koopkrachtmaatregel uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 uit te voeren.</p>
 
 <ol>
 </ol>
@@ -2008,16 +2008,16 @@ Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, 
 
 ### ART 88.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Bij een overdracht van de erkenning gelden voor de subsidiëring van de overnemer tijdens het eerste jaar de bepalingen van hoofdstuk 5, op voorwaarde dat de onderstaande bepalingen daar niet van afwijken:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;voor de toepassing van artikel 54, §2, van deze bijlage wordt ook het aantal gebruikers in aanmerking genomen dat door de overgedragen dienst is geholpen in het voorgaande jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;voor de toepassing van artikel 54, §3, van deze bijlage wordt ook het aantal gesubsidieerde uren van de overgedragen dienst in het voorgaande jaar in aanmerking genomen voor de berekening van het gemiddelde aantal vte verzorgend personeel;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;voor de toepassing van artikel 58, §2, eerste lid, artikel 61, §2, artikel 63, §2, eerste lid, artikel 77, §2, en artikel 78, §2, eerste lid, van deze bijlage worden ook de gegevens van de overgedragen dienst over het voorgaande jaar in aanmerking genomen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;voor de toepassing van artikel 59, §2, tweede lid, van deze bijlage wordt ook het aantal kilometers in aanmerking genomen dat in het voorgaande jaar is afgelegd door het personeel van de overgedragen dienst, als de afgelegde kilometers beantwoorden aan de voorwaarden van paragraaf 2 van dat artikel;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;voor de toepassing van artikel 60, §3, eerste lid, van deze bijlage wordt ook het aantal kilometers in aanmerking genomen dat in het voorgaande jaar is afgelegd door het verzorgend personeel, het logistiek personeel of de doelgroepwerknemers van de overgedragen dienst, als de afgelegde kilometers beantwoorden aan de voorwaarden van paragraaf 2 van dat artikel;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;voor de toepassing van artikel 62, §2, van deze bijlage wordt ook het urencontingent gezinszorg in aanmerking genomen dat in het voorgaande jaar toegewezen was aan de overgedragen dienst;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;voor de toepassing van artikel 66 van deze bijlage worden de voorschotten ook berekend op basis van de gesubsidieerde prestatie-uren en de gesubsidieerde uren bijscholing van de overgedragen dienst in het voorgaande jaar;</span> </span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8° voor de toepassing van artikel 68 van deze bijlage worden de voorschotten van de overnemer tijdens het eerste, tweede en derde jaar mede berekend op basis van de subsidies die tijdens het tweede jaar dat aan het jaar in kwestie voorafgaat, aan de overgedragen dienst uitbetaald zijn;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;voor de toepassing van artikel 81 van deze bijlage worden ook het aantal vte logistiek personeel en het aantal vte doelgroepwerknemers in aanmerking genomen die in het voorgaande jaar toegewezen zijn aan de overgedragen dienst.</span></span></span></span></p>
+<p>Bij een overdracht van de erkenning gelden voor de subsidiëring van de overnemer tijdens het eerste jaar de bepalingen van hoofdstuk 5 van deze bijlage, op voorwaarde dat de onderstaande bepalingen daar niet van afwijken:<br>
+1°&nbsp;voor de toepassing van artikel 54, §2, van deze bijlage wordt ook het aantal gebruikers in aanmerking genomen dat door de overgedragen dienst is geholpen in het voorgaande jaar;<br>
+2°&nbsp;voor de toepassing van artikel 54, §3, van deze bijlage wordt ook het aantal gesubsidieerde uren van de overgedragen dienst in het voorgaande jaar in aanmerking genomen voor de berekening van het gemiddelde aantal vte verzorgend personeel;<br>
+3°&nbsp;voor de toepassing van artikel 58, §2, eerste lid, artikel 61, §2, artikel 63, §2, eerste lid, artikel 77, §2, en artikel 78, §2, eerste lid, van deze bijlage worden ook de gegevens van de overgedragen dienst over het voorgaande jaar in aanmerking genomen;<br>
+4°&nbsp;voor de toepassing van artikel 59, §2, tweede lid, van deze bijlage wordt ook het aantal kilometers in aanmerking genomen dat in het voorgaande jaar is afgelegd door het personeel van de overgedragen dienst, als de afgelegde kilometers beantwoorden aan de voorwaarden van paragraaf 2 van dat artikel;<br>
+5°&nbsp;voor de toepassing van artikel 60, §3, eerste lid, van deze bijlage wordt ook het aantal kilometers in aanmerking genomen dat in het voorgaande jaar is afgelegd door het verzorgend personeel, het logistiek personeel of de doelgroepwerknemers van de overgedragen dienst, als de afgelegde kilometers beantwoorden aan de voorwaarden van paragraaf 2 van dat artikel;<br>
+6°&nbsp;voor de toepassing van artikel 62, §2, van deze bijlage wordt ook het urencontingent gezinszorg in aanmerking genomen dat in het voorgaande jaar toegewezen was aan de overgedragen dienst;<br>
+7°&nbsp;voor de toepassing van artikel 66 van deze bijlage worden de voorschotten ook berekend op basis van de gesubsidieerde prestatie-uren en de gesubsidieerde uren bijscholing van de overgedragen dienst in het voorgaande jaar;<br>
+8° voor de toepassing van artikel 68 van deze bijlage worden de voorschotten van de overnemer tijdens het eerste, tweede en derde jaar mede berekend op basis van de subsidies die tijdens het tweede jaar dat aan het jaar in kwestie voorafgaat, aan de overgedragen dienst uitbetaald zijn;<br>
+9°&nbsp;voor de toepassing van artikel 81 van deze bijlage worden ook het aantal vte logistiek personeel en het aantal vte doelgroepwerknemers in aanmerking genomen die in het voorgaande jaar toegewezen zijn aan de overgedragen dienst.</p>
 
 ## Hoofdstuk 7. Overgangsbepalingen
 
@@ -2031,9 +2031,9 @@ Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, 
 
 ### ART 91.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van artikel 6, § 2, tweede lid, van deze bijlage kan de dienst het zelfzorgvermogen van de gebruiker vaststellen:<br>
+In afwijking van artikel 6, § 2, tweede lid, van deze bijlage kan de dienst het zelfzorgvermogen van de gebruiker vaststellen:<br>
 1° aan de hand van de BEL-profielschaal en het BEL-gegevens cliëntsysteem tot 1 juni 2021;<br>
-2° aan de hand van de BelRAI screener en het BEL-gegevens cliëntsysteem van 1 juni 2021 tot 1 januari 2023.</span></span>
+2° aan de hand van de BelRAI Screener en het BEL-gegevens cliëntsysteem van 1 juni 2021 tot 1 januari 2023.
 
 ### ART 92.
 
@@ -2085,10 +2085,10 @@ Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, 
 <p>In deze bijlage wordt verstaan onder:<br>
 1°&nbsp;dienst: een dienst voor oppashulp;<br>
 2°&nbsp;gezelschap bieden: in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven;<br>
-3°&nbsp;oppashulp: het aanbod dat erin bestaat de gebruiker gezelschap te houden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorger;<br>
-4°&nbsp;oppasser: een vrijwilliger of verenigingswerker die oppashulp verleent;<br>
+3°&nbsp;oppashulp: het aanbod dat erin bestaat de gebruiker gezelschap te bieden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorger;<br>
+4°&nbsp;oppasser: een vrijwilliger die oppashulp verleent;<br>
 5°&nbsp;toezicht houden: met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<br>
-6°&nbsp;verenigingswerker: een natuurlijke persoon die een activiteit als vermeld in artikel 2, 1°, van de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie, verricht;<br>
+6°&nbsp;...;<br>
 7°&nbsp;VO: het systeem van elektronische gegevensuitwisseling waarvan elke dienst gebruikmaakt om de gegevens over zijn oppassers en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan de administratie te bezorgen;<br>
 8° vrijwilliger: een natuurlijke persoon die een activiteit als vermeld in artikel 3, 1°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, verricht.</p>
 
@@ -2096,9 +2096,9 @@ Als blijkt dat het centrum voor dagopvang te veel voorschotten heeft ontvangen, 
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het programma van de diensten bestaat uit de volgende elementen:<br>
-1°&nbsp;</span></span><span style="color:black">programmacijfers als vermeld in artikel 3;<br>
-2°&nbsp;</span><span style="color:black">evaluatiecriteria als vermeld in artikel 4.</span></p>
+<p>Het programma van de diensten bestaat uit de volgende elementen:<br>
+1°&nbsp;programmacijfers als vermeld in artikel 3 van deze bijlage;<br>
+2°&nbsp;evaluatiecriteria als vermeld in artikel 4 van deze bijlage.</p>
 
 ### ART 3.
 
@@ -2113,11 +2113,11 @@ Voor de toepassing van de programmacijfers, vermeld in het eerste en tweede lid,
 
 ### ART 4.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister legt de evaluatiecriteria, vermeld in artikel 2, 2°, vast. Hij houdt daarbij <span style="color:black">minstens </span>rekening met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de verhouding, voor de regio in kwestie, tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende diensten en het totale aantal diensten waarvoor een ontvankelijke, nog niet afgehandelde erkenningsaanvraag ingediend is die voldoet aan de programmatie; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° de datum waarop de ontvankelijke erkenningsaanvraag is ingediend;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de geografische spreiding van de diensten binnen de regio in kwestie;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de samenwerkingsverbanden met andere welzijnsvoorzieningen en vrijwilligersorganisaties.</span></span></span></span></p>
+<p>De minister legt de evaluatiecriteria, vermeld in artikel 2, 2°, van deze bijlage, vast. Hij houdt daarbij minstens rekening met:<br>
+1°&nbsp;de verhouding, voor de regio in kwestie, tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende diensten en het totale aantal diensten waarvoor een ontvankelijke, nog niet afgehandelde erkenningsaanvraag ingediend is die voldoet aan de programmatie;<br>
+2° de datum waarop de ontvankelijke erkenningsaanvraag is ingediend;<br>
+3°&nbsp;de geografische spreiding van de diensten binnen de regio in kwestie;<br>
+4°&nbsp;de samenwerkingsverbanden met andere welzijnsvoorzieningen en vrijwilligersorganisaties.</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -2135,7 +2135,7 @@ Voor de toepassing van de programmacijfers, vermeld in het eerste en tweede lid,
 
 ### ART 7.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst voldoet aan de bepalingen van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie en het decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin.</span></span>
+De dienst voldoet aan de bepalingen van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers en het decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin.
 
 ### ART 8.
 
@@ -2209,7 +2209,7 @@ Voor de toepassing van de programmacijfers, vermeld in het eerste en tweede lid,
 
 ### ART 17.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De dienst is gevestigd en coördineert de vraag naar en het aanbod van oppashulp in de regio, vermeld in artikel 3, tweede lid, waarvoor hij erkend is. De dienst kan de vraag naar en het aanbod van oppashulp coördineren in een werkingsgebied dat hij heeft omschreven en dat ruimer is dan de regio waarvoor hij is erkend, als de beslissing tot erkenning van de dienst dat ruimere werkingsgebied vermeldt. </span></span>
+De dienst is gevestigd en coördineert de vraag naar en het aanbod van oppashulp in de regio, vermeld in artikel 3, tweede lid, van deze bijlage, waarvoor hij erkend is. De dienst kan de vraag naar en het aanbod van oppashulp coördineren in een werkingsgebied dat hij heeft omschreven en dat ruimer is dan de regio waarvoor hij is erkend, als de beslissing tot erkenning van de dienst dat ruimere werkingsgebied vermeldt.
 
 ### ART 18.
 
@@ -2284,15 +2284,15 @@ Aan een erkende dienst wordt in het eerste werkjaar van zijn erkenning een urenc
 
 ### ART 31.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Om voor subsidiëring in aanmerking te komen, presteert een erkende dienst minstens het aantal uren oppashulp, vermeld in artikel 6.</span></span><br>
+<p>§1. Om voor subsidiëring in aanmerking te komen, presteert een erkende dienst minstens het aantal uren oppashulp, vermeld in artikel 6 van deze bijlage.<br>
 <br>
 De subsidie-enveloppe voor de erkende diensten bestaat uit:<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een basissubsidie van 34.858,23 euro voor de eerste 5000 uur oppashulp in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 3000 uur in die regio;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;een forfaitair bedrag van 1,963 euro per uur oppashulp, gepresteerd in het werkingsgebied van de dienst, dat het aantal uren, vermeld in punt 1°, overstijgt.</span></span></span></span><br>
+1°&nbsp;een basissubsidie van 34.858,23 euro voor de eerste 5000 uur oppashulp in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 3000 uur in die regio;<br>
+2°&nbsp;een forfaitair bedrag van 1,963 euro per uur oppashulp, gepresteerd in het werkingsgebied van de dienst, dat het aantal uren, vermeld in punt 1°, overstijgt.<br>
 <br>
-Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximale aantal subsidiabele uren dat met toepassing van artikel 30 aan de dienst is toegewezen.<br>
+Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximale aantal subsidiabele uren dat met toepassing van artikel 30 van deze bijlage aan de dienst is toegewezen.<br>
 <br>
-§2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren oppashulp, vermeld in artikel 6, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 34.858,23 euro.<br>
+§2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren oppashulp, vermeld in artikel 6 van deze bijlage, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 34.858,23 euro.<br>
 <br>
 §3. De basissubsidie, vermeld in paragraaf 1, tweede lid, 1°, en paragraaf 2, wordt voor een private dienst verhoogd met 666,86 euro om de maatregel eindejaarspremie uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.<br>
 <br>
@@ -2327,19 +2327,19 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 2.
 
-<p style="margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Aanvullend op </span>artikel 4, 7, 8, 17, 18, 42 en 59 van het Woonzorgdecreet van 15 februari 2019, gelden voor de erkenning van de diensten de specifieke voorwaarden, vermeld in dit hoofdstuk.</span></span></p>
+<p>Aanvullend op artikel 4, 7, 8, 17, 18 en 59 van het Woonzorgdecreet van 15 februari 2019, gelden voor de erkenning van de diensten de specifieke voorwaarden, vermeld in dit hoofdstuk.</p>
 
 ## Afdeling 2. Voorwaarden voor de zorg en ondersteuning
 
 ### ART 3.
 
-<p style="margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Overeenkomstig artikel 18, eerste lid, 2°, van het Woonzorgdecreet wordt voor elke patiënt een gebruikersdossier opgesteld. Dit dossier bevat de volgende informatie:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de identificatiegegevens van de patiënt: voor- en achternaam, het adres, het telefoonnummer, de geboortedatum en het geslacht;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de datum waarop het dossier wordt opgesteld met in voorkomend geval de vermelding van de verstrekker op wie de patiënt al eerder een beroep voor thuisverpleging heeft gedaan;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de naam van de verantwoordelijke verpleegkundige;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;in voorkomend geval een lijst met de medische instructies;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;een lijst van de verpleegproblemen, verpleegkundige doelstellingen en interventies;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de vermelding of er al dan niet een zorg- en ondersteuningsplan is.</span></span></span></span></p>
+<p>Overeenkomstig artikel 18, eerste lid, 2°, van het Woonzorgdecreet van 15 februari 2019 wordt voor elke patiënt een gebruikersdossier opgesteld. Dit dossier bevat de volgende informatie:<br>
+1°&nbsp;de identificatiegegevens van de patiënt: voor- en achternaam, het adres, het telefoonnummer, de geboortedatum en het geslacht;<br>
+2°&nbsp;de datum waarop het dossier wordt opgesteld met in voorkomend geval de vermelding van de verstrekker op wie de patiënt al eerder een beroep voor thuisverpleging heeft gedaan;<br>
+3°&nbsp;de naam van de verantwoordelijke verpleegkundige;<br>
+4°&nbsp;in voorkomend geval een lijst met de medische instructies;<br>
+5°&nbsp;een lijst van de verpleegproblemen, verpleegkundige doelstellingen en interventies;<br>
+6°&nbsp;de vermelding of er al dan niet een zorg- en ondersteuningsplan is.</p>
 
 ### ART 4.
 
@@ -2479,47 +2479,47 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 4.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst vervult jaarlijks de volgende activiteiten:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de dienst bereikt gemiddeld ten minste 250 gebruikers per vte die met toepassing van artikel 31 aan de dienst is toegewezen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de dienst biedt per vte die met toepassing van artikel 31 aan de dienst is toegewezen, begeleiding aan gemiddeld ten minste 25 gebruikers. Begeleiding betekent het aanbieden van ten minste een van de onderstaande typemodules:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">psychosociale begeleiding bij verliesverwerking;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">zorgbegeleiding in complexe thuissituaties;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">trajectbegeleiding.</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">In begeleidingsdossiers treedt de dienst actief in overleg met andere betrokken zorgaanbieders om afspraken te maken over de zorg aan de gebruiker. De wijze waarop in overleg wordt getreden houdt onder andere in: telefonisch verkeer, persoonlijk gesprek, digitale communicatiemiddelen en opvolgsystemen.</span> <span style="color:black">De dienst kan de </span><span style="color:black">gebruiker op zijn verzoek bijstaan door</span><span style="color:black"> de integrale en geïntegreerde zorg te coördineren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3° de dienst benadert ten minste vijf verschillende doelgroepen door een aantoonbare proactieve actie. Een doelgroep is een groep waarbij een bepaald relevant kenmerk gemeenschappelijk is. Dat gemeenschappelijke kenmerk kan van uiteenlopende aard zijn. De verschillende doelgroepen kunnen verschillend van grootte zijn. Bij ten minste 20% van het totale aantal proactief benaderde personen leidt de proactieve actie tot een vervolgactie door de maatschappelijk werker in het dossier van de benaderde persoon;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;ten minste 50% van het totale aantal bereikte gebruikers in het werkjaar in kwestie heeft een beperkt zelfzorgvermogen of is aangewezen op hulpmiddelen of hulp van personen om activiteiten van het dagelijks leven uit te voeren of is kwetsbaar op financieel of sociaal vlak en voldoet ten minste aan een van de volgende criteria:</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op het forfait B of C;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op het palliatief forfait;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op een </span><span style="font-family:Verdana,sans-serif; font-size:10pt">zorgtoeslag voor kinderen m</span><span style="font-family:Verdana,sans-serif; font-size:10pt">et een specifieke ondersteuningsbehoefte</span><span style="font-family:Verdana,sans-serif; font-size:10pt">;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker krijgt een attest of tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid of hulp van derden in het kader van de ziekte- en invaliditeitsuitkering;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op het forfait voor chronisch zieken of het incontinentieforfait;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op een van de zorgbudgetten in het kader van de Vlaamse sociale bescherming;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op de sociale maximumfactuur;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft een dossier bij het Vlaams Agentschap voor Personen met een Handicap;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker is langdurig of frequent opgenomen in het ziekenhuis;<br>
-&nbsp; j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft recht op mobiliteitshulpmiddelen;<br>
-&nbsp; k)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker heeft een beperkt inkomen;<br>
-&nbsp; l)&nbsp;</span><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">de gebruiker heeft geen ondersteunend sociaal netwerk;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">5° van het totale aantal bereikte gebruikers binnen een van de volgende typemodules zijn per vte die met toepassing van artikel 31 aan de dienst is toegewezen, gemiddeld ten minste 25 gebruikers personen met een handicap:</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">&nbsp; a)&nbsp;directe hulp en ondersteuning;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">&nbsp; b)&nbsp;psychosociale begeleiding bij verliesverwerking;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">&nbsp; c)&nbsp;zorgbegeleiding in complexe thuissituaties;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">&nbsp; d)&nbsp;trajectbegeleiding;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">&nbsp; e)&nbsp;ergotherapeutische begeleiding;</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6° van het totale aantal bereikte gebruikers binnen een van de onderstaande typemodules zijn per vte die met toepassing van artikel 31 aan de dienst is toegewezen, gemiddeld ten minste 15 gebruikers personen met&nbsp;dementie of met een vermoeden van dementie:</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; a) directe hulp en ondersteuning</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; b) psychosociale begeleiding bij verliesverwerking;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; c) zorgbegeleiding in complexe thuissituaties;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; d)&nbsp;trajectbegeleiding;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; e) ergotherapeutische begeleiding;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7° de dienst staat, al dan niet op basis van een samenwerkingsverband, in voor het uitlenen van en het verstrekken van advies over minstens twintig verschillende soorten hulpmiddelen voor gebruikers of ter ondersteuning van specifieke zorgsituaties;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;de dienst staat per vte die met toepassing van artikel 31 aan de dienst is toegewezen, al dan niet in samenwerking, in voor het uitlenen en onderhouden van minstens zeven personenalarmtoestellen en beschikt per kalenderjaar over een verwijzingslijst voor minstens evenveel gebruikers. Voor het uitlenen van een personenalarmtoestel kunnen eenmalige plaatsings- of waarborgkosten aangerekend worden van maximaal 60 euro. De gebruikersbijdrage voor het uitlenen van een personenalarmtoestel, omvat alle andere kosten en bedraagt voor ten minste een type toestel maximaal 23 euro per maand. De dienst voorziet in de mogelijkheid van een verminderde gebruikersbijdrage voor personen met een beperkte financiële draagkracht. De voormelde bedragen zijn exclusief eventuele extra externe functionaliteiten en zijn gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2019. De bedragen worden gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;de dienst verstrekt per vte die met toepassing van artikel 31 aan de dienst is toegewezen, aan minstens 3,5 gebruikers </span><span style="color:black">advies over aanpassingen aan de woning en advies over en begeleiding bij het gebruik van technologische aanpassingen. Voor het afleveren van </span><span style="color:black">de adviezen woningaanpassing is er minstens een plaatsbezoek geweest in het natuurlijke thuismilieu van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10° de dienst verstrekt per vte die met toepassing van artikel 31 aan de dienst is toegewezen, </span><span style="color:black">aan minstens 3,5 gebruikers ergotherapeutische begeleiding</span><span style="color:black"> in de leefomgeving van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11° de dienst kan voorzien in de coördinatie van het multidisciplinaire overleg voor gebruikers met een langdurig ernstig verminderd zelfzorgvermogen. Die activiteit wordt minstens opgenomen voor de gemeenten waar geen andere zorgaanbieder dat overleg organiseert, conform artikel 4, 9°, van het besluit van de Vlaamse Regering van 19 december 2008 betreffende de samenwerkingsinitiatieven eerstelijnsgezondheidszorg. De coördinatie verloopt op basis van een samenwerkingsverband met een SEL en omvat de organisatorische en administratieve ondersteuning, het voorzitten van het overleg en het bewaken van de voortgangscontrole van het overleg door de administratieve opvolging en afhandeling ervan. De minister kan de nadere regels voor het overleg bepalen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">12° de dienst kan, al dan niet in samenwerking, begeleiding bieden bij de aanpassing van de woning aan gebruikers voor wie advies over de aanpassing van hun woning als vermeld in punt 9°, onvoldoende garanties biedt op de realisatie ervan. </span></span></span></span><br>
+<p>De dienst vervult jaarlijks de volgende activiteiten:<br>
+1°&nbsp;de dienst bereikt gemiddeld ten minste 250 gebruikers per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen;<br>
+2°&nbsp;de dienst biedt per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, begeleiding aan gemiddeld ten minste 25 gebruikers. Begeleiding betekent het aanbieden van ten minste een van de onderstaande typemodules:<br>
+&nbsp; a)&nbsp;psychosociale begeleiding bij verliesverwerking;<br>
+&nbsp; b)&nbsp;zorgbegeleiding in complexe thuissituaties;<br>
+&nbsp; c)&nbsp;trajectbegeleiding.<br>
+In begeleidingsdossiers treedt de dienst actief in overleg met andere betrokken zorgaanbieders om afspraken te maken over de zorg aan de gebruiker. De wijze waarop in overleg wordt getreden houdt onder andere in: telefonisch verkeer, persoonlijk gesprek, digitale communicatiemiddelen en opvolgsystemen. De dienst kan de gebruiker op zijn verzoek bijstaan door de integrale en geïntegreerde zorg te coördineren;<br>
+3° de dienst benadert ten minste vijf verschillende doelgroepen door een aantoonbare proactieve actie. Een doelgroep is een groep waarbij een bepaald relevant kenmerk gemeenschappelijk is. Dat gemeenschappelijke kenmerk kan van uiteenlopende aard zijn. De verschillende doelgroepen kunnen verschillend van grootte zijn. Bij ten minste 20% van het totale aantal proactief benaderde personen leidt de proactieve actie tot een vervolgactie door de maatschappelijk werker in het dossier van de benaderde persoon;<br>
+4°&nbsp;ten minste 50% van het totale aantal bereikte gebruikers in het werkjaar in kwestie heeft een beperkt zelfzorgvermogen of is aangewezen op hulpmiddelen of hulp van personen om activiteiten van het dagelijks leven uit te voeren of is kwetsbaar op financieel of sociaal vlak en voldoet ten minste aan een van de volgende criteria:<br>
+&nbsp; a)&nbsp;de gebruiker heeft recht op het forfait B of C;<br>
+&nbsp; b)&nbsp;de gebruiker heeft recht op het palliatief forfait;<br>
+&nbsp; c)&nbsp;de gebruiker heeft recht op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte;<br>
+&nbsp; d)&nbsp;de gebruiker krijgt een attest of tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid of hulp van derden in het kader van de ziekte- en invaliditeitsuitkering;<br>
+&nbsp; e)&nbsp;de gebruiker heeft recht op het forfait voor chronisch zieken of het incontinentieforfait;<br>
+&nbsp; f)&nbsp;de gebruiker heeft recht op een van de zorgbudgetten in het kader van de Vlaamse sociale bescherming;<br>
+&nbsp; g)&nbsp;de gebruiker heeft recht op de sociale maximumfactuur;<br>
+&nbsp; h)&nbsp;de gebruiker heeft een dossier bij het Vlaams Agentschap voor Personen met een Handicap;<br>
+&nbsp; i)&nbsp;de gebruiker is langdurig of frequent opgenomen in het ziekenhuis;<br>
+&nbsp; j)&nbsp;de gebruiker heeft recht op mobiliteitshulpmiddelen;<br>
+&nbsp; k)&nbsp;de gebruiker heeft een beperkt inkomen;<br>
+&nbsp; l)&nbsp;de gebruiker heeft geen ondersteunend sociaal netwerk;<br>
+5° van het totale aantal bereikte gebruikers binnen een van de volgende typemodules zijn per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, gemiddeld ten minste 25 gebruikers personen met een handicap:<br>
+&nbsp; a)&nbsp;directe hulp en ondersteuning;<br>
+&nbsp; b)&nbsp;psychosociale begeleiding bij verliesverwerking;<br>
+&nbsp; c)&nbsp;zorgbegeleiding in complexe thuissituaties;<br>
+&nbsp; d)&nbsp;trajectbegeleiding;<br>
+&nbsp; e)&nbsp;ergotherapeutische begeleiding;<br>
+6° van het totale aantal bereikte gebruikers binnen een van de onderstaande typemodules zijn per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, gemiddeld ten minste 15 gebruikers personen met&nbsp;dementie of met een vermoeden van dementie:<br>
+&nbsp; a) directe hulp en ondersteuning<br>
+&nbsp; b) psychosociale begeleiding bij verliesverwerking;<br>
+&nbsp; c) zorgbegeleiding in complexe thuissituaties;<br>
+&nbsp; d)&nbsp;trajectbegeleiding;<br>
+&nbsp; e) ergotherapeutische begeleiding;<br>
+7° de dienst staat, al dan niet op basis van een samenwerkingsverband, in voor het uitlenen van en het verstrekken van advies over minstens twintig verschillende soorten hulpmiddelen voor gebruikers of ter ondersteuning van specifieke zorgsituaties;<br>
+8°&nbsp;de dienst staat per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, al dan niet in samenwerking, in voor het uitlenen en onderhouden van minstens zeven personenalarmtoestellen en beschikt per kalenderjaar over een verwijzingslijst voor minstens evenveel gebruikers. Voor het uitlenen van een personenalarmtoestel kunnen eenmalige plaatsings- of waarborgkosten aangerekend worden van maximaal 60 euro. De gebruikersbijdrage voor het uitlenen van een personenalarmtoestel, omvat alle andere kosten en bedraagt voor ten minste een type toestel maximaal 23 euro per maand. De dienst voorziet in de mogelijkheid van een verminderde gebruikersbijdrage voor personen met een beperkte financiële draagkracht. De voormelde bedragen zijn exclusief eventuele extra externe functionaliteiten en zijn gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt conform artikel 2, §2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2019. De bedragen worden gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong;<br>
+9°&nbsp;de dienst verstrekt per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, aan minstens 3,5 gebruikers advies over aanpassingen aan de woning en advies over en begeleiding bij het gebruik van technologische aanpassingen. Voor het afleveren van de adviezen woningaanpassing is er minstens een plaatsbezoek geweest in het natuurlijke thuismilieu van de gebruiker;<br>
+10° de dienst verstrekt per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, aan minstens 3,5 gebruikers ergotherapeutische begeleiding in de leefomgeving van de gebruiker;<br>
+11° de dienst kan voorzien in de coördinatie van het multidisciplinaire overleg voor gebruikers met een langdurig ernstig verminderd zelfzorgvermogen. De minister kan de nadere regels voor het overleg bepalen;<br>
+12° de dienst kan, al dan niet in samenwerking, begeleiding bieden bij de aanpassing van de woning aan gebruikers voor wie advies over de aanpassing van hun woning als vermeld in punt 9°, onvoldoende garanties biedt op de realisatie ervan.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In het eerste lid, 12°, wordt verstaan onder begeleiding: advies over mogelijke uitvoerders van de werkzaamheden, alsook begeleiding bij de uitvoering van de werkzaamheden en bij de praktische en administratieve formaliteiten die bij een dergelijke aanpassing horen.</span></span></p>
+In het eerste lid, 12°, wordt verstaan onder begeleiding: advies over mogelijke uitvoerders van de werkzaamheden, alsook begeleiding bij de uitvoering van de werkzaamheden en bij de praktische en administratieve formaliteiten die bij een dergelijke aanpassing horen.</p>
 
 ### ART 5.
 
@@ -2564,23 +2564,23 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 7.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">De dienst waarborgt, overeenkomstig artikel 4, §1, eerste lid, 2°, van het Woonzorgdecreet, tijdens de hulpverlening de integriteit en de menselijke waardigheid van de gebruiker, heeft oog voor de kwetsbaarheid van de gebruiker en neemt, overeenkomstig artikel 4, §1, eerste lid, 4°, van het Woonzorgdecreet, de eigen verantwoordelijkheid, de autonomie, keuzevrijheid en zelfverantwoordelijkheid van de gebruiker als uitgangspunt van de hulp- en dienstverlening.</span></span>
+De dienst waarborgt, overeenkomstig artikel 4, §1, eerste lid, 2°, van het Woonzorgdecreet van 15 februari 2019, tijdens de hulpverlening de integriteit en de menselijke waardigheid van de gebruiker, heeft oog voor de kwetsbaarheid van de gebruiker en neemt, overeenkomstig artikel 4, §1, eerste lid, 4°, van het Woonzorgdecreet van 15 februari 2019, de eigen verantwoordelijkheid, de autonomie, keuzevrijheid en zelfverantwoordelijkheid van de gebruiker als uitgangspunt van de hulp- en dienstverlening.
 
 ### ART 8.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst heeft oog voor de hele zorgsituatie, inclusief de vroegtijdige zorgplanning overeenkomstig artikel 4, §1, eerste lid, 9°, van het Woonzorgdecreet.</span></span></p>
+<p>De dienst heeft oog voor de hele zorgsituatie, inclusief de vroegtijdige zorgplanning overeenkomstig artikel 4, §1, eerste lid, 9°, van het Woonzorgdecreet van 15 februari 2019.</p>
 
 ### ART 9.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dienst hanteert een hulpverleningsconcept dat een vraaggestuurde zorg op maat en aangepaste methodieken toelaat en dat in samenspraak met de gebruiker de meest wenselijke en minst ingrijpende zorgvorm aanwendt. In dat hulpverleningsconcept wordt vanuit een integrale benadering en een vertrouwensvolle zorgrelatie het zelfzorgvermogen van de gebruiker gestimuleerd, de draagkracht van de mantelzorger ondersteund, en het sociale netwerk in kaart gebracht en op vraag en aanvaard door de gebruiker waar nodig en mogelijk versterkt of uitgebreid. Indien nodig opteert de dienst voor specifieke doelgroepen voor een aanklampende aanpak ter verhoging van de motivatie om de noodzakelijke hulp- en dienstverlening in te schakelen overeenkomstig artikel 4, §1, eerste lid, 8°, van het Woonzorgdecreet.</span></span></p>
+<p>De dienst hanteert een hulpverleningsconcept dat een vraaggestuurde zorg op maat en aangepaste methodieken toelaat en dat in samenspraak met de gebruiker de meest wenselijke en minst ingrijpende zorgvorm aanwendt. In dat hulpverleningsconcept wordt vanuit een integrale benadering en een vertrouwensvolle zorgrelatie het zelfzorgvermogen van de gebruiker gestimuleerd, de draagkracht van de mantelzorger ondersteund, en het sociale netwerk in kaart gebracht en op vraag en aanvaard door de gebruiker waar nodig en mogelijk versterkt of uitgebreid. Indien nodig opteert de dienst voor specifieke doelgroepen voor een aanklampende aanpak ter verhoging van de motivatie om de noodzakelijke hulp- en dienstverlening in te schakelen overeenkomstig artikel 4, §1, eerste lid, 8°, van het Woonzorgdecreet van 15 februari 2019.</p>
 
 ### ART 10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als het zelfzorgvermogen van de gebruiker moet worden vastgesteld ter uitvoering van artikel 20, §1, eerste lid, 3°, a), van het Woonzorgdecreet van 15 februari 2019, gebeurt dat aan de hand van de BelRAI screener, eventueel aangevuld, ter uitvoering van artikel 20, §1, eerste lid, 2°, a), b), en c), van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care en het Sociaal Supplement. </span></span><br>
+<p>Als het zelfzorgvermogen van de gebruiker moet worden vastgesteld ter uitvoering van artikel 20, §1, eerste lid, 3°, a), van het Woonzorgdecreet van 15 februari 2019, gebeurt dat aan de hand van de BelRAI Screener, eventueel aangevuld, ter uitvoering van artikel 20, §1, eerste lid, 2°, a), b), en c), van het Woonzorgdecreet van 15 februari 2019, met de meest aangewezen BelRAI-instrumenten, waaronder de BelRAI Home Care en het Sociaal Supplement.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als er al een actuele evaluatie en objectivering van het zelfzorgvermogen van de gebruiker aan de hand van de instrumenten, vermeld in het eerste lid, ter beschikking zijn, worden die gebruikt, tenzij de situatie van de gebruiker intussen gewijzigd is.</span></span><br>
+Als er al een actuele evaluatie en objectivering van het zelfzorgvermogen van de gebruiker aan de hand van de instrumenten, vermeld in het eerste lid, ter beschikking zijn, worden die gebruikt, tenzij de situatie van de gebruiker intussen gewijzigd is.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister bepaalt de nadere regels voor de vaststelling van het zelfzorgvermogen en het gebruik van de instrumenten voor indicatiestelling.</span></span></p>
+De minister bepaalt de nadere regels voor de vaststelling van het zelfzorgvermogen en het gebruik van de instrumenten voor indicatiestelling.</p>
 
 ### ART 11.
 
@@ -2614,7 +2614,7 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 18.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Overeenkomstig artikel 19 van het Woonzorgdecreet heeft de dienst tot doel de maximale toegang tot rechten en voorzieningen, de zelfredzaamheid, de maatschappelijke participatie, en de voor de gebruiker optimale organisatie en afstemming van de thuiszorg te realiseren.</span></span>
+Overeenkomstig artikel 19 van het Woonzorgdecreet van 15 februari 2019 heeft de dienst tot doel de maximale toegang tot rechten en voorzieningen, de zelfredzaamheid, de maatschappelijke participatie, en de voor de gebruiker optimale organisatie en afstemming van de thuiszorg te realiseren.
 
 ### ART 19.
 
@@ -2644,13 +2644,19 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 24.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De personeelsleden van de dienst beschikken over de volgende kwalificatievereisten:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de personeelsleden die belast zijn met de begeleidingsopdrachten, vermeld in artikel 20, §1, eerste lid, 2°, a), b), en c), van het Woonzorgdecreet van 15 februari 2019, beschikken over ten minste een van de volgende kwalificaties:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">gegradueerde maatschappelijk werk;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">bachelor sociaal werk of sociale gezondheidszorg of sociaal verpleegkundige of verpleegkundige die gespecialiseerd is in de sociale gezondheidszorg;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">master in het sociaal werk;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">gegradueerde of bachelor in de gezinswetenschappen;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de personeelsleden die belast zijn met de ergotherapeutische begeleidingsopdracht, vermeld in artikel 20, §1, eerste lid, , d), van het Woonzorgdecreet van 15 februari 2019, moeten beschikken over de kwalificatie gegradueerde of bachelor in de ergotherapie.</span></span></span></span></p>
+<p>De personeelsleden van de dienst beschikken over de volgende kwalificatievereisten:<br>
+1° de personeelsleden die belast zijn met de begeleidingsopdrachten, vermeld in artikel 20, §1, eerste lid, 2°, a), b), en c), van het Woonzorgdecreet van 15 februari 2019, beschikken over ten minste een van de volgende kwalificaties:<br>
+a)&nbsp;&nbsp; &nbsp;gegradueerde maatschappelijk werk;<br>
+b)&nbsp;&nbsp; &nbsp;gegradueerde of bachelor in de gezinswetenschappen;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;bachelor sociaal werk of sociale gezondheidszorg of verpleegkundige die gespecialiseerd is in de sociale gezondheidszorg;<br>
+d)&nbsp;&nbsp; &nbsp;bachelor in het sociaal-agogisch werk met de titel van maatschappelijk assistent, of een daarmee gelijkgesteld diploma;<br>
+e)&nbsp;&nbsp; &nbsp;bachelor orthopedagogie;<br>
+f)&nbsp;&nbsp; &nbsp;bachelor sociale re-adaptatiewetenschappen;<br>
+g)&nbsp;&nbsp; &nbsp;master in het sociaal werk;<br>
+h)&nbsp;&nbsp; &nbsp;master in het sociaal werk en sociaal beleid;<br>
+i)&nbsp;&nbsp; &nbsp;master in de pedagogische wetenschappen, afstudeerrichting orthopedagogiek;<br>
+j)&nbsp;&nbsp; &nbsp;master in de agogische wetenschappen;<br>
+2°&nbsp;de personeelsleden die belast zijn met de ergotherapeutische begeleidingsopdracht, vermeld in artikel 20, §1, eerste lid, , d), van het Woonzorgdecreet van 15 februari 2019, moeten beschikken over de kwalificatie gegradueerde of bachelor in de ergotherapie.</p>
 
 ### ART 25.
 
@@ -2684,39 +2690,39 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 31.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Binnen de beschikbare begrotingskredieten legt de minister jaarlijks het totale aantal vte per erkende dienst vast. Hij houdt daarbij rekening met het aantal geprogrammeerde vte per landsbond, vermeld in artikel 2.</span></span><br>
+<p>Binnen de beschikbare begrotingskredieten legt de minister jaarlijks het totale aantal vte per erkende dienst vast. Hij houdt daarbij rekening met het aantal geprogrammeerde vte per landsbond, vermeld in artikel 2 van deze bijlage.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Bij de verdeling houdt de minister rekening met het principe van de intermutualistische solidariteit. Dat houdt in dat aan een landsbond nooit minder vte toegewezen kunnen worden dan in het voorgaande jaar. Als een landsbond eerder toegewezen vte zou verliezen op basis van het aantal geprogrammeerde vte, vermeld in artikel 2, dan wordt het aantal vte van die landsbond bevroren, en worden de resterende vte verdeeld over de andere landsbonden op basis van hun onderlinge verhoudingen.</span></span></p>
+Bij de verdeling houdt de minister rekening met het principe van de intermutualistische solidariteit. Dat houdt in dat aan een landsbond nooit minder vte toegewezen kunnen worden dan in het voorgaande jaar. Als een landsbond eerder toegewezen vte zou verliezen op basis van het aantal geprogrammeerde vte, vermeld in artikel 2 van deze bijlage, dan wordt het aantal vte van die landsbond bevroren, en worden de resterende vte verdeeld over de andere landsbonden op basis van hun onderlinge verhoudingen.</p>
 
 ### ART 32.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Aan een erkende dienst wordt binnen de beschikbare begrotingskredieten een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 40.757,01 euro per vte die met toepassing van artikel 31 aan de dienst is toegewezen.</span></span><br>
+<p>§1. Aan een erkende dienst wordt binnen de beschikbare begrotingskredieten een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 40.757,01 euro per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De jaarlijkse subsidie-enveloppe wordt aangepast aan de anciënniteitsevolutie.</span></span><br>
+§2. De jaarlijkse subsidie-enveloppe wordt aangepast aan de anciënniteitsevolutie.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De anciënniteitsevolutie, vermeld in het eerste lid, is het verschil tussen de anciënniteit in het derde en het tweede kalenderjaar dat voorafgaat aan het jaar waarop de subsidie-enveloppe betrekking heeft. De anciënniteitsevolutie wordt berekend op basis van de tewerkstellingsgegevens van de vte die op 31 december de opdrachten uitvoeren, vermeld in artikel 20, §1, eerste lid, 1°, 2°, en 4°, van het Woonzorgdecreet van 15 februari 2019. De jaarlijkse aanpassing kan niet meer dan twaalf maanden anciënniteit per vte bedragen.</span></span><br>
+De anciënniteitsevolutie, vermeld in het eerste lid, is het verschil tussen de anciënniteit in het derde en het tweede kalenderjaar dat voorafgaat aan het jaar waarop de subsidie-enveloppe betrekking heeft. De anciënniteitsevolutie wordt berekend op basis van de tewerkstellingsgegevens van de vte die op 31 december de opdrachten uitvoeren, vermeld in artikel 20, §1, eerste lid, 1°, 2°, en 4°, van het Woonzorgdecreet van 15 februari 2019. De jaarlijkse aanpassing kan niet meer dan twaalf maanden anciënniteit per vte bedragen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De middelen voor de anciënniteitsevolutie worden verdeeld over de diensten op basis van de toegewezen vte in het kalenderjaar dat voorafgaat aan het jaar waarop de subsidie-enveloppe betrekking heeft.</span></span><br>
+De middelen voor de anciënniteitsevolutie worden verdeeld over de diensten op basis van de toegewezen vte in het kalenderjaar dat voorafgaat aan het jaar waarop de subsidie-enveloppe betrekking heeft.<br>
 <br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">§3. De subsidie-enveloppe, vermeld in paragraaf 1, bestaat uit 90% personeelskosten en 10% werkingskosten.&nbsp;</span></p>
+§3. De subsidie-enveloppe, vermeld in paragraaf 1, bestaat uit 90% personeelskosten en 10% werkingskosten.&nbsp;</p>
 
 ### ART 33.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De subsidie-enveloppe, vermeld in artikel 32, §1, wordt voor een private dienst verhoogd met 100,08 euro per vte die met toepassing van artikel 31 aan de dienst is toegewezen, om de maatregel managementondersteuning uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.</span></span><br>
+<p>De subsidie-enveloppe, vermeld in artikel 32, §1, van deze bijlage, wordt voor een private dienst verhoogd met 100,08 euro per vte die met toepassing van artikel 31 van deze bijlage aan de dienst is toegewezen, om de maatregel managementondersteuning uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het bedrag, vermeld in het eerste lid, moet voor 100% aangewend worden voor loonkosten.</span></span></p>
+Het bedrag, vermeld in het eerste lid, moet voor 100% aangewend worden voor loonkosten.</p>
 
 ### ART 34.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de resultatenrekening van een dienst van een bepaald jaar een batig saldo vertoont, bouwt de dienst reserves op. Die reserves worden aangewend om uitgaven te financieren die bijdragen tot de realisatie van de taken van de dienst.</span></span><br>
+<p>Als de resultatenrekening van een dienst van een bepaald jaar een batig saldo vertoont, bouwt de dienst reserves op. Die reserves worden aangewend om uitgaven te financieren die bijdragen tot de realisatie van de taken van de dienst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Reserves die op het ogenblik waarop het boekjaar wordt afgesloten meer bedragen dan de jaarlijkse subsidie-enveloppe, vermeld in artikel 32, §1, en artikel 33, worden voor het bedrag dat de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse Gemeenschap.</span></span></p>
+Reserves die op het ogenblik waarop het boekjaar wordt afgesloten meer bedragen dan de jaarlijkse subsidie-enveloppe, vermeld in artikel 32, §1, en artikel 33 van deze bijlage, worden voor het bedrag dat de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse Gemeenschap.</p>
 
 ## Hoofdstuk 5. Overgangsbepalingen
 
 ### ART 35.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van artikel 2 worden de programmacijfers tot en met het werkjaar 2022 vastgelegd op basis van de objectieve parameters, vermeld in artikel 2 van bijlage V bij het besluit van de Vlaamse Regering van 27 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, zoals van toepassing op 31 december 2019.</span></span></p>
+<p>In afwijking van artikel 2 van deze bijlage worden de programmacijfers tot en met het werkjaar 2025 vastgelegd op basis van de objectieve parameters, vermeld in artikel 2 van bijlage V bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, zoals van toepassing op 31 december 2019.</p>
 
 ### ART 36.
 
@@ -2741,15 +2747,15 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 37.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Regionale dienstencentra als vermeld in artikel 20 van het Woonzorgdecreet van 13 maart 2009, die op 31 december 2019 erkend zijn, kunnen tot en met 31 december 2022 erkend blijven conform de regels die op 31 december 2019 van toepassing zijn, tenzij de erkenning voordien wordt ingetrokken of de initiatiefnemer afstand doet van zijn erkenning als vermeld in artikel 36.</span></span><br>
+<p>Regionale dienstencentra als vermeld in artikel 20 van het Woonzorgdecreet van 13 maart 2009, die op 31 december 2019 erkend zijn, kunnen tot en met 31 december 2022 erkend blijven conform de regels die op 31 december 2019 van toepassing zijn, tenzij de erkenning voordien wordt ingetrokken of de initiatiefnemer afstand doet van zijn erkenning als vermeld in artikel 36 van deze bijlage.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Vanaf 1 januari 2023 vervallen de nog lopende erkenningen van rechtswege. </span></span><br>
+Vanaf 1 januari 2023 vervallen de nog lopende erkenningen van rechtswege.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als over een aanvraag tot erkenning van een regionaal dienstencentrum als vermeld in artikel 20 van het Woonzorgdecreet van 13 maart 2009 nog geen beslissing is genomen op 31 december 2019, vervalt de aanvraag van rechtswege.</span></span></p>
+Als over een aanvraag tot erkenning van een regionaal dienstencentrum als vermeld in artikel 20 van het Woonzorgdecreet van 13 maart 2009 nog geen beslissing is genomen op 31 december 2019, vervalt de aanvraag van rechtswege.</p>
 
 ### ART 38.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De kwalificatievereisten, vermeld in artikel 24, zijn van toepassing op het personeel dat wordt aangeworven vanaf 1 januari 2020. De personeelsleden die voor die datum zijn tewerkgesteld, worden van rechtswege geacht aan de kwalificatievereisten te beantwoorden.</span></span></p>
+<p>De kwalificatievereisten, vermeld in artikel 24 van deze bijlage, zijn van toepassing op het personeel dat wordt aangeworven vanaf 1 januari 2020. De personeelsleden die voor die datum zijn tewerkgesteld, worden van rechtswege geacht aan de kwalificatievereisten te beantwoorden.</p>
 
 ### ART 39.
 
@@ -2757,7 +2763,7 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 40.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van artikel 36, §2, derde lid, moet de officiële verklaring die betrekking heeft op het jaar 2020, ingediend worden voor 1 februari 2020.</span></span></p>
+<p>In afwijking van artikel 36, §2, derde lid van deze bijlage, moet de officiële verklaring die betrekking heeft op het jaar 2020, ingediend worden voor 1 februari 2020.</p>
 
 ## Bijlage 6. Diensten voor gastopvang
 
@@ -2773,18 +2779,18 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het programma van de diensten bestaat uit de volgende elementen:<br>
-1°&nbsp;</span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">een programmacijfer, dat bepaald wordt op 6;<br>
-2°&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">evaluatiecriteria als vermeld in artikel 3.</span><br>
+<p>Het programma van de diensten bestaat uit de volgende elementen:<br>
+1°&nbsp;een programmacijfer, dat bepaald wordt op 6;<br>
+2°&nbsp;evaluatiecriteria als vermeld in artikel 3 van deze bijlage.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister stelt conform de bepalingen van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen de regio's vast waarin een dienst kan worden erkend. Een regio is minimaal gelijk aan de som van drie aangrenzende regionale steden of aan het tweetalige gebied Brussel-Hoofdstad.</span></span></p>
+De minister stelt conform de bepalingen van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen de regio's vast waarin een dienst kan worden erkend. Een regio is minimaal gelijk aan de som van drie aangrenzende regionale steden of aan het tweetalige gebied Brussel-Hoofdstad.</p>
 
 ### ART 3.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister legt de evaluatiecriteria, vermeld in artikel 2, 2°, vast. De minister houdt daarbij minstens rekening met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende diensten, plus het totale aantal diensten waarvoor een ontvankelijke en nog niet afgehandelde erkenningsaanvraag ingediend is die voldoet aan de programmatie;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de datum waarop een ontvankelijke erkenningsaanvraag is ingediend;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de mate waarin de dienst activiteiten ontplooit over de hele regio waarvoor hij erkend is.</span></span></span></span></p>
+<p>De minister legt de evaluatiecriteria, vermeld in artikel 2, 2°, van deze bijlage, vast. De minister houdt daarbij minstens rekening met:<br>
+1°&nbsp;de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende diensten, plus het totale aantal diensten waarvoor een ontvankelijke en nog niet afgehandelde erkenningsaanvraag ingediend is die voldoet aan de programmatie;<br>
+2°&nbsp;de datum waarop een ontvankelijke erkenningsaanvraag is ingediend;<br>
+3°&nbsp;de mate waarin de dienst activiteiten ontplooit over de hele regio waarvoor hij erkend is.</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -2941,25 +2947,25 @@ In het eerste lid wordt verstaan onder coördinerend verpleegkundige: de verplee
 
 ### ART 26.
 
-<p>§1. Om voor subsidiëring in aanmerking te komen, presteert een erkende dienst minstens het aantal uren gastopvang, vermeld in artikel 5.<br>
+<p>§1. Om voor subsidiëring in aanmerking te komen, presteert een erkende dienst minstens het aantal uren gastopvang, vermeld in artikel 5 van deze bijlage.<br>
 <br>
 De subsidie-enveloppe voor de erkende diensten bestaat uit:<br>
 1°&nbsp;een basissubsidie van 22.973,71 euro voor de eerste 3000 uur gastopvang in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 1800 uur in die regio;<br>
 2°&nbsp;een forfaitair bedrag van 1,243 euro per uur gastopvang, gepresteerd in de regio waarvoor de dienst erkend is, dat het aantal uren, vermeld in punt 1°, overstijgt.<br>
 <br>
-Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximale aantal subsidiabele uren dat met toepassing van artikel 250 aan de dienst is toegewezen.<br>
+Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximale aantal subsidiabele uren dat met toepassing van artikel 25 van deze bijlage aan de dienst is toegewezen.<br>
 <br>
-§2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren gastopvang, vermeld in artikel 5, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 22.973,71 euro.<br>
+§2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren gastopvang, vermeld in artikel 5 van deze bijlage, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 22.973,71 euro.<br>
 <br>
 §3. De diensten bezorgen jaarlijks voor 1 maart een overzicht van het aantal gepresteerde uren gastopvang per gemeente tijdens het voorbije werkjaar aan de administratie.</p>
 
 ### ART 27.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het bedrag, vermeld in artikel 260, §1, tweede lid, 1°, en §2, wordt voor een private dienst verhoogd met 666,86 euro om de maatregel eindejaarspremie uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.</span></span>
+Het bedrag, vermeld in artikel 26, §1, tweede lid, 1°, en §2, van deze bijlage, wordt voor een private dienst verhoogd met 666,86 euro om de maatregel eindejaarspremie uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.
 
 ### ART 28.
 
-<p>Het bedrag, vermeld in artikel 26, §1, tweede lid, 1°, en §2, wordt voor een private dienst verhoogd met 50,05 euro om de maatregel managementondersteuning uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.</p>
+<p>Het bedrag, vermeld in artikel 26, §1, tweede lid, 1°, en §2, van deze bijlage, wordt voor een private dienst verhoogd met 50,05 euro om de maatregel managementondersteuning uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.</p>
 
 <ol>
 </ol>
@@ -2986,16 +2992,16 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In deze bijlage wordt verstaan onder:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;beheersinstantie: een of meer personen die een centrum voor dagopvang of het centrum voor dagverzorging vertegenwoordigen en juridisch kunnen binden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;centrum voor dagopvang: de bijkomende erkenning voor een centrum voor dagopvang van een dienst voor gezinszorg, vermeld in artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;centrum voor dagverzorging: een woonzorgvoorziening, vermeld in artikel 24 en 25 van het Woonzorgdecreet van 15 februari 2019;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;centrum voor dagverzorging met een bijkomende erkenning: een centrum voor dagverzorging dat over een bijkomende erkenning beschikt omdat het een verzorgingsstructuur aanbiedt die zwaar afhankelijke zorgbehoevende personen overdag opvangt en die de noodzakelijke ondersteuning biedt voor het behoud van die personen in hun thuisomgeving en aan centra voor dagverzorging die een verzorgingsstructuur aanbieden die overdag personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning biedt voor het behoud van die personen in hun thuisomgeving, vermeld in artikel 46 van het Woonzorgdecreet van 15 februari 2019;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;centrum: de bijkomende erkenning voor een centrum voor dagopvang van een dienst voor gezinszorg en het centrum voor dagverzorging; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;dagprijs: de prijs per dag die de gebruiker of zijn vertegenwoordiger betaald wordt betaald en die minstens de kostprijselementen omvat voor huisvesting en verzorging van de gebruiker, die beschouwd worden als deel van de normale activiteiten van een centrum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;gebruiker: een persoon die in het centrum voor dagverzorging verblijft;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;gebruikersdossier: een document dat door het centrum in aansluiting op het digitale zorg- en ondersteuningsplan en in samenspraak met de gebruiker wordt opgemaakt en dat de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het verblijven, de zorg en ondersteuning en het leven in het centrum voor dagverzorging bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;voorschotten ten gunste van derden: elke uitgave die door het centrum voor dagverzorging betaald wordt op naam van de gebruiker en die voor hetzelfde bedrag terugbetaald wordt door de gebruiker of zijn vertegenwoordiger.</span></span></span></span></p>
+<p>In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;beheersinstantie: een of meer personen die het centrum voor dagopvang of het centrum voor dagverzorging vertegenwoordigen en juridisch kunnen binden;<br>
+2°&nbsp;centrum voor dagopvang: de bijkomende erkenning voor een centrum voor dagopvang van een dienst voor gezinszorg, vermeld in artikel 13 en 14 van het Woonzorgdecreet van 15 februari 2019;<br>
+3°&nbsp;centrum voor dagverzorging: een woonzorgvoorziening, vermeld in artikel 23 en 24 van het Woonzorgdecreet van 15 februari 2019;<br>
+4°&nbsp;centrum voor dagverzorging met een bijkomende erkenning: een centrum voor dagverzorging dat over een bijkomende erkenning beschikt omdat het een verzorgingsstructuur aanbiedt die zorgafhankelijke personen opvangt en die de noodzakelijke ondersteuning biedt voor het behoud van die personen in hun thuisomgeving en een centrum voor dagverzorging dat een verzorgingsstructuur aanbiedt die personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning biedt voor het behoud van die personen in hun thuisomgeving, vermeld in artikel 46 van het Woonzorgdecreet van 15 februari 2019;<br>
+5°&nbsp;centrum: de bijkomende erkenning voor een centrum voor dagopvang van een dienst voor gezinszorg en het centrum voor dagverzorging;<br>
+6°&nbsp;dagprijs: de prijs per dag die de gebruiker of zijn vertegenwoordiger betaalt en die minstens de kostprijselementen omvat voor huisvesting en verzorging van de gebruiker, die beschouwd worden als deel van de normale activiteiten van een centrum voor dagverzorging;<br>
+7°&nbsp;gebruiker: een persoon die in het centrum voor dagverzorging verblijft;<br>
+8°&nbsp;gebruikersdossier: een document dat door het centrum in aansluiting op het digitale zorg- en ondersteuningsplan en in samenspraak met de gebruiker wordt opgemaakt en dat de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het verblijft, de zorg en ondersteuning en het leven in het centrum voor dagverzorging bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert;<br>
+9°&nbsp;voorschotten ten gunste van derden: elke uitgave die door het centrum voor dagverzorging betaald wordt op naam van de gebruiker en die voor hetzelfde bedrag terugbetaald wordt door de gebruiker of zijn vertegenwoordiger.</p>
 
 ## Hoofdstuk 2. Programmatie
 
@@ -3029,21 +3035,21 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister legt de evaluatiecriteria voor de centra, vermeld in artikel 2, 2°, vast. Hij houdt daarbij onder meer rekening met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de verhouding van het totale aantal vooraf vergunde en gerealiseerde centra tot het programmacijfer voor de gemeente in kwestie of voor het werkingsgebied;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het huidige of toekomstige profiel van het centrum;&nbsp;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de inhoud van het verslag van de initiatiefnemer waaruit blijkt dat het initiatief inspeelt op de noden van het beoogde werkingsgebied en op de lokale beleidsintenties;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de visie op verblijven, leven en zorg- en ondersteuning in het centrum;&nbsp;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de verwachte rentabiliteit en prijszetting;&nbsp;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de professionele kwaliteitsgaranties van de initiatiefnemer.</span></span></span></span><br>
+<p>De minister legt de evaluatiecriteria voor de centra, vermeld in artikel 2, 2°, van deze bijlage, vast. Bij het vastleggen van de evaluatiecriteria wordt onder meer rekening gehouden met:<br>
+1°&nbsp;de verhouding van het totale aantal vooraf vergunde en gerealiseerde centra tot het programmacijfer voor de gemeente in kwestie of voor het werkingsgebied;<br>
+2°&nbsp;het huidige of toekomstige profiel van het centrum;&nbsp;<br>
+3°&nbsp;de inhoud van het verslag van de initiatiefnemer waaruit blijkt dat het initiatief inspeelt op de noden van het beoogde werkingsgebied en op de lokale beleidsintenties;<br>
+4°&nbsp;de visie op verblijven, leven en zorg- en ondersteuning in het centrum;&nbsp;<br>
+5°&nbsp;de verwachte rentabiliteit en prijszetting;&nbsp;<br>
+6°&nbsp;de professionele kwaliteitsgaranties van de initiatiefnemer.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="font-family:Verdana,sans-serif">Voor centra voor dagverzorging als vermeld in artikel 24 van het Woonzorgdecreet van 15 februari 2019 kan de minister ook rekening houden met de specifieke kenmerken en behoeften van de gebruikers.</span></span></span><br>
+Voor centra voor dagverzorging als vermeld in artikel 24 van het Woonzorgdecreet van 15 februari 2019 kan de minister ook rekening houden met de specifieke kenmerken en behoeften van de gebruikers.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In het eerste lid wordt verstaan onder werkingsgebied:</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;voor een gemeente die minder dan 10 000 ouderen boven de 65 jaar telt: de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van de aangrenzende gemeenten die meer dan 10 000 ouderen boven de 65 jaar tellen en waarvan het programmacijfer al overschreden is; </span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2°&nbsp;voor een gemeente die minstens 10 000 ouderen boven de 65 jaar telt de gemeente zelf.</span></span></p>
+In het eerste lid wordt verstaan onder werkingsgebied:<br>
+1°&nbsp;voor een gemeente die minder dan 10 000 ouderen boven de 65 jaar telt: de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van de aangrenzende gemeenten die meer dan 10 000 ouderen boven de 65 jaar tellen en waarvan het programmacijfer al overschreden is;<br>
+2°&nbsp;voor een gemeente die minstens 10 000 ouderen boven de 65 jaar telt de gemeente zelf.</p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -3059,13 +3065,13 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 7.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer mag noch bij de start van het verblijf, noch bij het ontslag van de gebruiker uit het centrum criteria hanteren die betrekking hebben op:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de seksuele oriëntatie en genderidentiteit; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het lidmaatschap van een organisatie of groepering;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de financiële draagkracht van de gebruiker, met uitzondering van artikel 32, vierde lid en artikel 527/1, vierde lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de etnische afkomst van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;het dragerschap van micro-organismen waarvoor preventie van overdracht mogelijk is door het toepassen van de voorzorgsmaatregelen en voor zover dat dit dragerschap op dat moment geen risico vormt voor de andere gebruikers.</span></span></span></span></p>
+<p>De initiatiefnemer mag noch bij de start van het verblijf, noch bij het ontslag van de gebruiker uit het centrum criteria hanteren die betrekking hebben op:<br>
+1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de gebruiker;<br>
+2°&nbsp;de seksuele geaardheis en genderidentiteit;<br>
+3°&nbsp;het lidmaatschap van een organisatie of groepering;<br>
+4°&nbsp;de financiële draagkracht van de gebruiker, met uitzondering van artikel 32, vierde lid en artikel 527/1, vierde lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+5°&nbsp;de etnische afkomst van de gebruiker;<br>
+6°&nbsp;het dragerschap van micro-organismen waarvoor preventie van overdracht mogelijk is door het toepassen van de voorzorgsmaatregelen en voor zover dat dit dragerschap op dat moment geen risico vormt voor de andere gebruikers.</p>
 
 ### ART 8.
 
@@ -3081,80 +3087,80 @@ Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het
 
 ### ART 10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het verblijf wordt geconcretiseerd in een schriftelijke opnameovereenkomst die de belanghebbende partijen ondertekenen en minstens de volgende bepalingen bevat:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de volgende administratieve gegevens:<br>
-&nbsp; a)&nbsp;</span></span></span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de identificatiegegevens van de contracterende partijen;&nbsp;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het erkenningsnummer van het centrum;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vastgelegde eerste verblijfsdatum;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vermoedelijke periodiciteit van de zorg en ondersteuning;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de opname- en ontslagprocedure die de volgende elementen bevat:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de voorwaarden voor de opstart en de beëindiging van het verblijf;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling voor het verbreken van de overeenkomst vóór de vastgelegde datum van het eerste verblijf;&nbsp;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">omstandigheden die aanleiding kunnen geven tot ontslag uit het centrum, de ontslagprocedure en de opzeggingstermijn;&nbsp;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de wijze waarop de gebruiker de overeenkomst kan beëindigen en de toepasselijke opzeggingstermijn;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de specifieke regelingen bij tijdelijke afwezigheid of overlijden van de gebruiker;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de dagprijs en de facturatie waarbij de volgende elementen worden vermeld:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">het bedrag en de samenstelling van de dagprijs die van toepassing zijn op de vastgelegde verblijfsdag;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de bedragen, de reden en de periode van toegestane kortingen op de dagprijs;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de diensten en leveringen die aanleiding geven tot de aanrekening van een extra vergoeding;&nbsp;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling voor voorschotten ten gunste van derden;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">een eventuele voorschotregeling van tot de dagprijs;<br>
-&nbsp; f)</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de tarieven voor terugbetaling voor de niet-gebruikte leveringen en diensten;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de percentages van de interesten en de procedure als de factuur laattijdig wordt betaald;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de percentages van de interesten, de procedure en de ontvankelijkheidsvereisten bij niet-betaling van de factuur;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de regelingen voor de aansprakelijkheid en de verzekeringen.</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de wijze waarop de overeenkomst kan worden gewijzigd;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de regelingen in verband met het vervoer;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;een verklaring in eer en geweten van de gebruiker of zijn vertegenwoordiger dat ze correcte informatie verschaffen aan het woonzorgcentrum. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de gebruiker of zijn vertegenwoordiger aansprakelijk gesteld worden.</span></span></span></span><br>
+<p>Het verblijf wordt geconcretiseerd in een schriftelijke opnameovereenkomst die de belanghebbende partijen ondertekenen en minstens de volgende bepalingen bevat:<br>
+1°&nbsp;de volgende administratieve gegevens:<br>
+&nbsp; a)&nbsp;de identificatiegegevens van de contracterende partijen;&nbsp;<br>
+&nbsp; b)&nbsp;het erkenningsnummer van het centrum;<br>
+&nbsp; c)&nbsp;de vastgelegde eerste verblijfsdatum;<br>
+&nbsp; d)&nbsp;de vermoedelijke periodiciteit van de zorg en ondersteuning;<br>
+2°&nbsp;de opname- en ontslagprocedure die de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de voorwaarden voor de opstart en de beëindiging van het verblijf;<br>
+&nbsp; b)&nbsp;de regeling voor het verbreken van de overeenkomst vóór de vastgelegde datum van het eerste verblijf;&nbsp;<br>
+&nbsp; c)&nbsp;omstandigheden die aanleiding kunnen geven tot ontslag uit het centrum, de ontslagprocedure en de opzeggingstermijn;&nbsp;<br>
+&nbsp; d)&nbsp;de wijze waarop de gebruiker de overeenkomst kan beëindigen en de toepasselijke opzeggingstermijn;<br>
+&nbsp; e)&nbsp;de specifieke regelingen bij tijdelijke afwezigheid of overlijden van de gebruiker;<br>
+3°&nbsp;de dagprijs en de facturatie waarbij de volgende elementen worden vermeld:<br>
+&nbsp; a)&nbsp;het bedrag en de samenstelling van de dagprijs die van toepassing zijn op de vastgelegde verblijfsdag;<br>
+&nbsp; b)&nbsp;de bedragen, de reden en de periode van toegestane kortingen op de dagprijs;<br>
+&nbsp; c)&nbsp;de diensten en leveringen die aanleiding geven tot de aanrekening van een extra vergoeding;&nbsp;<br>
+&nbsp; d)&nbsp;de regeling voor voorschotten ten gunste van derden;<br>
+&nbsp; e)&nbsp;een eventuele voorschotregeling voor de dagprijs;<br>
+&nbsp; f) de tarieven voor terugbetaling voor de niet-gebruikte leveringen en diensten;<br>
+&nbsp; g)&nbsp;de percentages van de interesten en de procedure als de factuur laattijdig wordt betaald;<br>
+&nbsp; h)&nbsp;de percentages van de interesten, de procedure en de ontvankelijkheidsvereisten bij niet-betaling van de factuur;<br>
+4°&nbsp;de regelingen voor de aansprakelijkheid en de verzekeringen.<br>
+5°&nbsp;de wijze waarop de overeenkomst kan worden gewijzigd;<br>
+6°&nbsp;de regelingen in verband met het vervoer;<br>
+7°&nbsp;een verklaring in eer en geweten van de gebruiker of zijn vertegenwoordiger dat ze correcte informatie verschaffen aan het centrum. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de gebruiker of zijn vertegenwoordiger aansprakelijk gesteld worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De schriftelijke opnameovereenkomst is van onbepaalde duur. Elke bepaling of de toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp.</span></span><br>
+De schriftelijke opnameovereenkomst is van onbepaalde duur. Elke bepaling of de toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Er kan geen enkele vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</span></span></p>
+Er kan geen enkele vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</p>
 
 ### ART 11.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§1.<strong> </strong></span>Uiterlijk op de eerste verblijfsdag bezorgt de initiatiefnemer aan de gebruiker of zijn vertegenwoordiger, tegen ontvangstbewijs, een kopie van de interne afsprakennota. </span></span><br>
+<p>§1.<strong> </strong>Uiterlijk op de eerste verblijfsdag bezorgt de initiatiefnemer aan de gebruiker of zijn vertegenwoordiger, tegen ontvangstbewijs, een kopie van de interne afsprakennota.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De interne afsprakennota wordt opgesteld met respect met respect voor de werkingsprincipes, vermeld in artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019.</span></span><br>
+§2. De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, vermeld in artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. De interne afsprakennota bevat al de volgende elementen: </span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de identificatie- en contactgegevens van het centrum en de verantwoordelijke ervan; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het erkenningsnummer van het centrum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de wijze waarop binnen het centrum het dagelijkse leven en de verzorging worden georganiseerd, in het bijzonder met betrekking tot:<br>
-a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de dagindeling;<br>
-b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de maaltijden;&nbsp;<br>
-c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije toegang van familie en vrienden van de gebruikers;<br>
-d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de bezoekregeling;<br>
-e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het roken in het centrum;<br>
-f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de organisatie van activiteiten voor zelfontplooiing, sociale contacten, zinvolle tijdsbesteding;<br>
-g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de organisatie van de levensbeschouwelijke ondersteuning;<br>
-h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het restrictiebeleid ten aanzien van gebruikers met een bijzonder zorgprofiel;<br>
-i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije keuze van ziekenhuis;<br>
-j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije keuze van apotheker;<br>
-k)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling over een ziekenhuisopname;<br>
-l)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling over de geneesmiddelen;<br>
-m)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de mogelijkheden en beperkingen binnen het centrum in verband met de vroegtijdige zorgplanning, de palliatieve en levenseindezorg;<br>
-n)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de vrije keuze van de behandelende arts en zijn toegang tot het centrum overeenkomstig de bepalingen van het huishoudelijk reglement met betrekking tot de medische activiteiten;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de regels over het houden van huisdieren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de procedure bij brand en ernstige gebeurtenissen met impact op de dagelijkse werking;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de procedure bij grensoverschrijdend gedrag;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;de procedure voor de vrijheidsbeperkende maatregelen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;de procedure die beschrijft hoe de gebruiker, zijn vertegenwoordiger en mantelzorger betrokken worden in de besluitvorming met betrekking tot het gebruikersdossier, en de manier waarop de gebruiker of zijn vertegenwoordiger het plan kunnen consulteren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;de wijze waarop de informatie over de organisatie en de strategische beslissingen van het management aan de gebruikers, vertegenwoordigers en mantelzorgers worden meegedeeld;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;de procedure voor de behandeling van suggesties, opmerkingen en klachten en de naam van de persoon aan wie die kunnen worden meegedeeld; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;een verwijzing naar de instanties die toezicht uitoefenen op de erkenning van het centrum en een verwijzing naar de toepasselijke erkenningsvoorwaarden.</span></span></span></span><br>
+§3. De interne afsprakennota bevat al de volgende elementen:<br>
+1°&nbsp;de identificatie- en contactgegevens van het centrum en de verantwoordelijke ervan;<br>
+2°&nbsp;het erkenningsnummer van het centrum;<br>
+3°&nbsp;de wijze waarop binnen het centrum het dagelijkse leven en de verzorging worden georganiseerd, in het bijzonder met betrekking tot:<br>
+a)&nbsp;de dagindeling;<br>
+b)&nbsp;de maaltijden;&nbsp;<br>
+c)&nbsp;de vrije toegang van familie en vrienden van de gebruikers;<br>
+d)&nbsp;de bezoekregeling;<br>
+e)&nbsp;het roken in het centrum;<br>
+f)&nbsp;de organisatie van activiteiten voor zelfontplooiing, sociale contacten, zinvolle tijdsbesteding;<br>
+g)&nbsp;de organisatie van de levensbeschouwelijke ondersteuning;<br>
+h)&nbsp;het restrictiebeleid ten aanzien van gebruikers met een bijzonder zorgprofiel;<br>
+i)&nbsp;de vrije keuze van ziekenhuis;<br>
+j)&nbsp;de vrije keuze van apotheker;<br>
+k)&nbsp;de regeling over een ziekenhuisopname;<br>
+l)&nbsp;de regeling over de geneesmiddelen;<br>
+m)&nbsp;de mogelijkheden en beperkingen binnen het centrum in verband met de vroegtijdige zorgplanning, de palliatieve en levenseindezorg;<br>
+n)&nbsp;de vrije keuze van de behandelende arts en zijn toegang tot het centrum overeenkomstig de bepalingen van het huishoudelijk reglement met betrekking tot de medische activiteiten;<br>
+4°&nbsp;de regels over het houden van huisdieren;<br>
+5°&nbsp;de procedure bij brand en ernstige gebeurtenissen met impact op de dagelijkse werking;<br>
+6°&nbsp;de procedure bij grensoverschrijdend gedrag;<br>
+7°&nbsp;de procedure voor de vrijheidsbeperkende maatregelen;<br>
+8°&nbsp;de procedure die beschrijft hoe de gebruiker, zijn vertegenwoordiger en mantelzorger betrokken worden in de besluitvorming met betrekking tot het gebruikersdossier, en de manier waarop de gebruiker of zijn vertegenwoordiger het plan kunnen consulteren;<br>
+9°&nbsp;de wijze waarop de informatie over de organisatie en de strategische beslissingen van het management aan de gebruikers, vertegenwoordigers en mantelzorgers worden meegedeeld;<br>
+10°&nbsp;de procedure voor de behandeling van suggesties, opmerkingen en klachten en de naam van de persoon aan wie die kunnen worden meegedeeld;<br>
+11°&nbsp;een verwijzing naar de instanties die toezicht uitoefenen op de erkenning van het centrum en een verwijzing naar de toepasselijke erkenningsvoorwaarden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Wijzigingen van de afsprakennota worden vooraf meegedeeld en kunnen op zijn vroegst toegepast worden dertig dagen na kennisgeving ervan aan de gebruiker of, in voorkomend geval, aan zijn vertegenwoordiger.</span></span></p>
+Wijzigingen van de afsprakennota worden vooraf meegedeeld en kunnen op zijn vroegst toegepast worden dertig dagen na kennisgeving ervan aan de gebruiker of zijn vertegenwoordiger.</p>
 
 ### ART 12.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer ontslaat een gebruiker niet, tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.</span></span><br>
+<p>De initiatiefnemer ontslaat een gebruiker niet, tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de initiatiefnemer een gebruiker ontslaat omdat zijn gedragingen ernstig storend zijn voor de medegebruikers of voor de werking van het centrum of omdat zijn gezondheidstoestand van dien aard is dat overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel ingewonnen van de behandelende arts en van het interdisciplinair team dat die gebruiker verzorgt. Als dat wenselijk is kan ook externe experten om advies worden verzocht.</span></span><br>
+Als de initiatiefnemer een gebruiker ontslaat omdat zijn gedragingen ernstig storend zijn voor de medegebruikers of voor de werking van het centrum of omdat zijn gezondheidstoestand van dien aard is dat overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel ingewonnen van de behandelende arts en van het interdisciplinair team dat die gebruiker verzorgt. Als dat wenselijk is, kan ook aan externe experten om een advies worden gevraagd.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In het tweede lid wordt verstaan onder interdisciplinair team: een team waarin verschillende zorg- en welzijns-georiënteerde disciplines samenwerken met het oog op een gezamenlijk doel, namelijk een kwaliteitsvolle zorg en ondersteuning van de gebruikers. De kennis, de competenties en de perspectieven van de diverse disciplines zijn complementair aan elkaar. Ze hanteren daarbij dezelfde gemeenschappelijke taal en zorglogica.</span></span><br>
+In het tweede lid wordt verstaan onder interdisciplinair team: een team waarin verschillende zorg- en welzijnsgeoriënteerde disciplines samenwerken met het oog op een gezamenlijk doel, namelijk een kwaliteitsvolle zorg en ondersteuning bieden aan de gebruikers. De kennis, de competenties en de perspectieven van de diverse disciplines zijn complementair aan elkaar. Ze hanteren daarbij dezelfde gemeenschappelijke taal en zorglogica.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</span></span></p>
+De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</p>
 
 ### ART 13.
 
@@ -3200,80 +3206,80 @@ Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, word
 
 ### ART 19.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Met behoud van de toepassing van artikel 8 en 9 van dit besluit bevat het kwaliteitshandboek van elk centrum minstens een beschrijving van de volgende elementen:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een inleiding, met daarin de inhoudsopgave, een aantal algemene inlichtingen over de voorziening, de vermelding van de verantwoordelijke die met het kwaliteitsbeleid is belast;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het kwaliteitsbeleid waarin de opdrachtsverklaring en het zorg- en ondersteuningsaanbod opgenomen zijn;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het kwaliteitsmanagementsysteem, vermeld in artikel 4 en 5 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, met conditionele, operationele en garantie-elementen.</span></span></span></span><br>
+<p>Met behoud van de toepassing van artikel 8 en 9 van dit besluit bevat het kwaliteitshandboek van elk centrum minstens een beschrijving van de volgende elementen:<br>
+1°&nbsp;een inleiding, met daarin de inhoudsopgave, een aantal algemene inlichtingen over de voorziening, de vermelding van de verantwoordelijke die met het kwaliteitsbeleid is belast;<br>
+2°&nbsp;het kwaliteitsbeleid waarin de opdrachtsverklaring en het zorg- en ondersteuningsaanbod opgenomen zijn;<br>
+3°&nbsp;het kwaliteitsmanagementsysteem, vermeld in artikel 4 en 5 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, met conditionele, operationele en garantie-elementen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het kwaliteitsmanagementsysteem, vermeld in het eerste lid, 3°, bevat minimaal de volgende elementen bevatten:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het organogram;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de functieomschrijvingen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de overleg- en communicatiekanalen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de middelen: personeel, budget en kwaliteitsmethodieken;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;het vormingsbeleid.</span></span></span></span><br>
+Het kwaliteitsmanagementsysteem, vermeld in het eerste lid, 3°, bevat minimaal de volgende elementen:<br>
+1°&nbsp;het organogram;<br>
+2°&nbsp;de functieomschrijvingen;<br>
+3°&nbsp;de overleg- en communicatiekanalen;<br>
+4°&nbsp;de middelen: personeel, budget en kwaliteitsmethodieken;<br>
+5°&nbsp;het vormingsbeleid.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In het kwaliteitsmanagementsysteem, vermeld in eerste lid, 3°, worden minstens de volgende procedures, beschreven:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de volgende primaire processen:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor onthaal en de eerste verblijfsdag;&nbsp; &nbsp; &nbsp;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de planning en de organisatie van de begeleiding, verzorging en de verpleging;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de vrijheidsbeperkende maatregelen;&nbsp;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de doorverwijzing;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor het vrijwillig ontslag, verplicht ontslag en overlijden;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om informatie over de gebruiker te verwerven en door te geven rekening houdend met de vereiste van een behoorlijk gebruikers- en toegangsbeheer en een veilige uitwisseling van persoonsgegeven tussen de betrokken actoren;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de klachtenprocedure;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om vanuit een klachtenanalyse te komen tot correctieve en preventieve maatregelen;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure bij grensoverschrijdend gedrag;<br>
-&nbsp; j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de evaluatie van de zorg en ondersteuning door de gebruiker;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de volgende secundaire processen:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de voeding voor te bereiden en te distriburen;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de schoonmaak te plannen en te organiseren;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor facturatie ten aanzien van de gebruiker;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de volgende managementprocessen:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om het functioneren van medewerkers te bespreken;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om van de documenten van het kwaliteitshandboek te beheren;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de inhoud van het kwaliteitshandboek te plannen, uit te voeren en bij te sturen.</span><br>
+In het kwaliteitsmanagementsysteem, vermeld in eerste lid, 3°, worden minstens de volgende procedures, beschreven:<br>
+1°&nbsp;de volgende primaire processen:<br>
+&nbsp; a)&nbsp;de procedure voor het onthaal en de eerste verblijfsdag;&nbsp; &nbsp; &nbsp;<br>
+&nbsp; b)&nbsp;de procedure voor de planning en de organisatie van de begeleiding, verzorging en de verpleging;<br>
+&nbsp; c)&nbsp;de procedure voor de vrijheidsbeperkende maatregelen;&nbsp;<br>
+&nbsp; d)&nbsp;de procedure voor de doorverwijzing;<br>
+&nbsp; e)&nbsp;de procedure voor het vrijwillig ontslag, verplicht ontslag en overlijden;<br>
+&nbsp; f)&nbsp;de procedure om informatie over de gebruiker te verwerven en door te geven rekening houdend met de vereiste van een behoorlijk gebruikers- en toegangsbeheer en een veilige uitwisseling van persoonsgegeven tussen de betrokken actoren;<br>
+&nbsp; g)&nbsp;de klachtenprocedure;<br>
+&nbsp; h)&nbsp;de procedure om vanuit een klachtenanalyse te komen tot correctieve en preventieve maatregelen;<br>
+&nbsp; i)&nbsp;de procedure bij grensoverschrijdend gedrag;<br>
+&nbsp; j)&nbsp;de procedure voor de evaluatie van de zorg en ondersteuning door de gebruiker;<br>
+2°&nbsp;de volgende secundaire processen:<br>
+&nbsp; a)&nbsp;de procedure om de voeding voor te bereiden en te distribueren;<br>
+&nbsp; b)&nbsp;de procedure om de schoonmaak te plannen en te organiseren;<br>
+&nbsp; c)&nbsp;de procedure voor facturatie ten aanzien van de gebruiker;<br>
+3°&nbsp;de volgende managementprocessen:<br>
+&nbsp; a)&nbsp;de procedure om het functioneren van medewerkers te bespreken;<br>
+&nbsp; b)&nbsp;de procedure om de documenten van het kwaliteitshandboek te beheren;<br>
+&nbsp; c)&nbsp;de procedure om de inhoud van het kwaliteitshandboek te plannen, uit te voeren en bij te sturen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister kan daarvoor nadere regels bepalen.</span></span></p>
+De minister kan daarvoor nadere regels bepalen.</p>
 
 ## Onderafdeling 3. Specifieke bepalingen betreffende de individuele zorg en ondersteuning en kwaliteit van de individuele zorg en ondersteuning
 
 ### ART 20.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Aan de gebruiker wordt altijd op een interdisciplinaire wijze de nodige individuele zorg en ondersteuning, conform artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019, geboden op het vlak van:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de gebruikelijke huishoudelijke, logistieke en administratieve activiteiten:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">het aanbieden van een warme maaltijd per dag;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het onderhoud van de gemeenschappelijke delen;<br>
-&nbsp; c)&nbsp;</span><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">het ondersteunen van de gebruiker bij de administratieve verplichtingen die relevant zijn voor de gebruiker, de vertegenwoordiger of de mantelzorger en die geen verband houden met het beheer van goederen of gelden van de gebruiker; </span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de persoonsverzorging, de zorgkundige en de verpleegkundige zorg en ondersteuning;<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">aan de gebruiker wordt altijd de nodige dagelijkse lichaamsverzorging, alsook de noodzakelijke zorgkundige of verpleegkundige zorg en ondersteuning geboden;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">elke gebruiker kan als hij dit wil, minstens één keer per week een bad of douche kunnen nemen;&nbsp;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval beschikt de gebruiker altijd over voldoende en aangepast incontinentiemateriaal;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de gebruiker krijgt dagelijks de voorgeschreven en meegebrachte geneesmiddelen, zoals besproken met de gebruiker en opgenomen in het gebruikersdossier, aangeboden en, in voorkomend geval, toegediend: het juiste geneesmiddel, in de juiste dosis en op het juiste toedieningsmoment;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de paramedische zorg en ondersteuning:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">het centrum organiseert zich opdat de kinesitherapeutische of logopedische behandelingen die de behandelende arts heeft voorgeschreven tijdens het verblijf, zoals besproken met de gebruiker en opgenomen in het zorg- en ondersteuningsplan, kunnen worden toegediend;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval wordt aan gebruikers de noodzakelijke ergotherapeutische ondersteuning geboden;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de psychosociale, agogische en existentiële ondersteuning aangepast aan de behoeften van de gebruiker;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de levensbeschouwelijke begeleiding aangepast aan de wensen van de gebruiker;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de sociale contacten en het sociale netwerk onderhouden en versterken:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">de voor de gebruiker betekenisvolle contacten kennen en ervoor zorgen dat die, na toestemming van de gebruiker, kunnen worden onderhouden;<br>
-&nbsp; b)&nbsp;</span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de onderlinge contacten tussen de gebruikers stimuleren;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;de individuele of collectieve zinvolle dagbesteding en ontspanning:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">bij elke gebruiker naar zijn wensen en verwachtingen peilen over de dagbesteding en de ontspanning;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de activiteiten met betrekking tot de dagbesteding en ontspanning aanpassen aan de mogelijkheden van de gebruiker;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de planning van de collectieve activiteiten bekendmaken aan de gebruikers, hun vertegenwoordigers en de mantelzorger.</span></p>
+<p>Aan de gebruiker wordt altijd op een interdisciplinaire wijze de nodige individuele zorg en ondersteuning, conform artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019, geboden op het vlak van:<br>
+1°&nbsp;de gebruikelijke huishoudelijke, logistieke en administratieve activiteiten:<br>
+&nbsp; a)&nbsp;het aanbieden van een warme maaltijd per dag;<br>
+&nbsp; b)&nbsp;het onderhoud van de gemeenschappelijke delen;<br>
+&nbsp; c)&nbsp;het ondersteunen van de gebruiker bij de administratieve verplichtingen die relevant zijn voor de gebruiker, de vertegenwoordiger of de mantelzorger en die geen verband houden met het beheer van goederen of gelden van de gebruiker;<br>
+2°&nbsp;de persoonsverzorging, de zorgkundige en de verpleegkundige zorg en ondersteuning;<br>
+&nbsp; a)&nbsp;aan de gebruiker wordt altijd de nodige dagelijkse lichaamsverzorging, alsook de noodzakelijke zorgkundige of verpleegkundige zorg en ondersteuning geboden;<br>
+&nbsp; b)&nbsp;elke gebruiker kan, als hij dit wil, minstens één keer per week een bad of douche nemen;&nbsp;<br>
+&nbsp; c)&nbsp;in voorkomend geval beschikt de gebruiker altijd over voldoende en aangepast incontinentiemateriaal;<br>
+&nbsp; d)&nbsp;de gebruiker krijgt dagelijks de voorgeschreven en meegebrachte geneesmiddelen, zoals besproken met de gebruiker en opgenomen in het gebruikersdossier, aangeboden en, in voorkomend geval, toegediend: het juiste geneesmiddel, in de juiste dosis en op het juiste toedieningsmoment;<br>
+3°&nbsp;de paramedische zorg en ondersteuning:<br>
+&nbsp; a)&nbsp;het centrum organiseert zich opdat de kinesitherapeutische of logopedische behandelingen die de behandelende arts heeft voorgeschreven tijdens het verblijf, zoals besproken met de gebruiker en opgenomen in het zorg- en ondersteuningsplan, kunnen worden toegediend;<br>
+&nbsp; b)&nbsp;in voorkomend geval wordt aan gebruikers de noodzakelijke ergotherapeutische ondersteuning geboden;<br>
+4°&nbsp;de psychosociale, agogische en existentiële ondersteuning aangepast aan de behoeften van de gebruiker;<br>
+5°&nbsp;de levensbeschouwelijke begeleiding aangepast aan de wensen van de gebruiker;<br>
+6°&nbsp;het onderhouden en het versterken van de sociale contacten en het sociale netwerk:<br>
+&nbsp; a)&nbsp;de voor de gebruiker betekenisvolle contacten kennen en ervoor zorgen dat die, na toestemming van de gebruiker, kunnen worden onderhouden;<br>
+&nbsp; b)&nbsp;de onderlinge contacten tussen de gebruikers stimuleren;<br>
+7°&nbsp;de individuele of collectieve zinvolle dagbesteding en ontspanning:<br>
+&nbsp; a)&nbsp;bij elke gebruiker naar zijn wensen en verwachtingen peilen over de dagbesteding en de ontspanning;<br>
+&nbsp; b)&nbsp;de activiteiten met betrekking tot de dagbesteding en ontspanning aanpassen aan de mogelijkheden van de gebruiker;<br>
+&nbsp; c)&nbsp;de planning van de collectieve activiteiten bekendmaken aan de gebruikers, hun vertegenwoordigers en de mantelzorger.</p>
 
 ### ART 21.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum maakt op de eerste verblijfsdag voor elke gebruiker een gebruikersdossier op, in samenspraak met de gebruiker, zijn vertegenwoordiger of mantelzorger en de zorgaanbieders in de thuiszorg, op. Dit gebruikersdossier wordt actueel gehouden en bevat al de volgende gegevens:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een administratief deel dat al de volgende gegevens bevat:<br>
-&nbsp; a)&nbsp;</span></span></span></span>de identiteitsgegevens;<br>
-&nbsp; b)&nbsp;de inlichtingen over zijn sociale zekerheidssituatie;<br>
+<p>Het centrum maakt op de eerste verblijfsdag voor elke gebruiker een gebruikersdossier op, in samenspraak met de gebruiker, zijn vertegenwoordiger of mantelzorger en de zorgaanbieders in de thuiszorg. Dit gebruikersdossier wordt actueel gehouden en bevat al de volgende gegevens:<br>
+1°&nbsp;een administratief deel dat al de volgende gegevens bevat:<br>
+&nbsp; a)&nbsp;de identiteitsgegevens;<br>
+&nbsp; b) de inlichtingen over de sociale zekerheidssituatie van de gebruiker;<br>
 &nbsp; c)&nbsp;de voor- en achternaam en de contactgegevens van de contactpersoon en, in voorkomend geval, van de wettelijk vertegenwoordiger van de gebruiker en van de mantelzorger;<br>
 &nbsp; d)&nbsp;de voor- en achternaam en de contactgegevens van de behandelend(e) arts(en);<br>
 &nbsp; e)&nbsp;de voorkeur van ziekenhuis;<br>
 &nbsp; f)&nbsp;in voorkomend geval de naam en de contactgegevens van externe zorgverstrekkers op vraag van de gebruiker;<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;een deel over de zorg en ondersteuning dat al de volgende elementen bevat:<br>
-&nbsp; a)&nbsp;</span></span></span></span>de persoonlijke kenmerken, gewoonten, levensloop;<br>
+2°&nbsp;een deel over de zorg en ondersteuning dat al de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de persoonlijke kenmerken, gewoonten, levensloop;<br>
 &nbsp; b)&nbsp;de individuele wensen en verwachtingen op het vlak van het verblijven en leven in het centrum;<br>
 &nbsp; c)&nbsp;de individuele behoeften, verwachtingen en voorkeuren op het vlak van de zorg;<br>
 &nbsp; d)&nbsp;de afspraken en afstemming rond de individuele zorg en ondersteuning;<br>
@@ -3284,9 +3290,9 @@ h)&nbsp;het medicatieschema met de redenen om een geneesmiddel op te starten, te
 
 ### ART 22.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Er wordt periodiek, gestructureerd en in voorkomend geval op interdisciplinaire wijze overlegd over het gebruikersdossier met de gebruiker of zijn vertegenwoordiger en, als de gebruiker dat wil, zijn mantelzorger(s). Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfverantwoordelijkheid van de gebruiker gewaarborgd op de volgende wijze:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de gebruiker of zijn vertegenwoordiger kan altijd inzage vragen in dat deel van het gebruikersdossier inzien dat hem rechtstreeks aanbelangt. Hij kan zelf gegevens noteren op een daarvoor vastgestelde ruimte. Die gegevens kunnen aanzetten tot dialoog en tot aanpassing van het gebruikersdossier;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het gebruikersdossier en de individuele dossiers van de behandelaars worden bewaard met respect voor de privacy, zodat de personen die daarvoor bevoegd zijn, er toegang toe hebben.</span></span></span></span>
+Er wordt periodiek, gestructureerd en in voorkomend geval op interdisciplinaire wijze overlegd over het gebruikersdossier met de gebruiker of zijn vertegenwoordiger en, als de gebruiker dat wil, zijn mantelzorger(s). Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfverantwoordelijkheid van de gebruiker gewaarborgd op de volgende wijze:<br>
+1°&nbsp;de gebruiker of zijn vertegenwoordiger kan altijd inzage vragen in dat deel van het gebruikersdossier dat hem rechtstreeks aanbelangt. Hij kan zelf gegevens noteren op een daarvoor vastgestelde ruimte. Die gegevens kunnen aanzetten tot dialoog en tot aanpassing van het gebruikersdossier;<br>
+2°&nbsp;het gebruikersdossier en de individuele dossiers van de behandelaars worden bewaard met respect voor de privacy, zodat de personen die daarvoor bevoegd zijn, er toegang tot hebben.
 
 ### ART 22/1.
 
@@ -3298,22 +3304,22 @@ Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorgi
 
 ### ART 23.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum biedt minstens vijf dagen per week, met uitzondering van weken met wettelijke feestdagen, en minstens zeven uur per dag zorg en ondersteuning aan.</span></span><br>
+<p>Het centrum biedt minstens vijf dagen per week, met uitzondering van weken met wettelijke feestdagen, en minstens zeven uur per dag zorg en ondersteuning aan.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Alleen een centrum dat architectonisch geïntegreerd is in een woonzorgcentrum, een ziekenhuis, een centrum voor herstelverblijf, kan nachtopvang organiseren.</span></span></p>
+Alleen een centrum dat architectonisch geïntegreerd is in een woonzorgcentrum, een ziekenhuis of een centrum voor herstelverblijf, kan nachtopvang organiseren.</p>
 
 ### ART 24.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voldoet aan de volgende regels over de organisatie van de maaltijden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;er is een adequate organisatie van het maaltijdgebeuren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de maaltijden worden bereid en verdeeld met inachtneming van de hygiënische voorschriften; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het voedsel is in voldoende hoeveelheid beschikbaar. Het is gezond en afwisselend, en bovendien aangepast aan de gezondheidstoestand van de gebruiker en zoveel mogelijk afgestemd op zijn voorkeuren. Het centrum communiceert eenduidig over de mogelijkheden en beperkingen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de dieetvoorschriften van de behandelende arts, die zijn afgesproken met de gebruiker of zijn vertegenwoordiger, worden toegepast. De gebruiker blijft de vrije keuze behouden het dieetvoorschrift al dan niet te volgen. Als de gebruiker het dieetvoorschrift niet wil te volgen, kan hij een andere maaltijd krijgen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;het menu wordt op de dag van het verblijf aan de gebruikers meegedeeld;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;elke gebruiker beschikt altijd gratis over voldoende drinkbaar water dat in handbereik is en in een recipiënt dat de gebruiker makkelijk kan hanteren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;de maaltijden worden voldoende gespreid zodat de gebruiker een normaal dagritme hebben;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;de maaltijden verlopen in een rustige en huiselijke sfeer;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;bij de maaltijden wordt in de nodige de nodige hulp en bijstand voorzien.</span></span></span></span></p>
+<p>Het centrum voldoet aan de volgende regels over de organisatie van de maaltijden:<br>
+1°&nbsp;er is een adequate organisatie van het maaltijdgebeuren;<br>
+2°&nbsp;de maaltijden worden bereid en verdeeld met inachtneming van de hygiënische voorschriften;<br>
+3°&nbsp;het voedsel is in voldoende hoeveelheid beschikbaar. Het is gezond en afwisselend, en bovendien aangepast aan de gezondheidstoestand van de gebruiker en zoveel mogelijk afgestemd op zijn voorkeuren. Het centrum communiceert eenduidig over de mogelijkheden en beperkingen;<br>
+4°&nbsp;de dieetvoorschriften van de behandelende arts, die zijn afgesproken met de gebruiker of zijn vertegenwoordiger, worden toegepast. De gebruiker blijft de vrije keuze behouden het dieetvoorschrift al dan niet te volgen. Als de gebruiker het dieetvoorschrift niet wil volgen, kan hij een andere maaltijd krijgen;<br>
+5°&nbsp;het menu wordt op de dag van het verblijf aan de gebruikers meegedeeld;<br>
+6°&nbsp;elke gebruiker beschikt altijd gratis over voldoende drinkbaar water dat in handbereik is en in een recipiënt dat de gebruiker makkelijk kan hanteren;<br>
+7°&nbsp;de maaltijden worden voldoende gespreid zodat de gebruiker een normaal dagritme kan hebben;<br>
+8°&nbsp;de maaltijden verlopen in een rustige en huiselijke sfeer;<br>
+9° tijdens de maaltijden wordt de nodige hulp en bijstand geboden.</p>
 
 ### ART 25.
 
@@ -3328,9 +3334,9 @@ Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorgi
 
 ### ART 26.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum integreert zich aantoonbaar in de buurt op al de volgende wijzen:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;erop toezien toe dat de gebruikers kunnen deelnemen aan activiteiten georganiseerd in de buurt of aan activiteiten van lokale organisaties en verenigingen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;buurtbewoners en lokale organisaties uitnodigen om aan de ontspannings- en ontmoetingsactiviteiten deel te nemen.</span></span></span></span></p>
+<p>Het centrum integreert zich aantoonbaar in de buurt op alle volgende wijzen:<br>
+1°&nbsp;erop toezien toe dat de gebruikers kunnen deelnemen aan activiteiten georganiseerd in de buurt of aan activiteiten van lokale organisaties en verenigingen;<br>
+2°&nbsp;buurtbewoners en lokale organisaties uitnodigen om aan de ontspannings- en ontmoetingsactiviteiten deel te nemen.</p>
 
 ### ART 27.
 
@@ -3342,7 +3348,7 @@ Voorafgaand aan het verblijf van een gebruiker gaat het centrum voor dagverzorgi
 
 <p>§1. Elke gebruiker, zijn vertegenwoordiger en mantelzorger wordt in de mogelijkheid gesteld om een klacht, suggestie, opmerking te uiten over de werking van het centrum. Het centrum werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. Het centrum wijst een klachtenbehandelaar aan. De gebruiker of zijn vertegenwoordiger, een familielid of mantelzorger kan suggesties, opmerkingen of klachten rechtstreeks, zowel schriftelijk als mondeling, aan die persoon meedelen.<br>
 <br>
-De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. De administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, zoals bepaald in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen de garantie dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.<br>
+De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. De administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, zoals bepaald in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen de garantie dat binnen een redelijke termijn feedback op hun klacht wordt gegeven.<br>
 <br>
 De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling aan alle gebruikers, hun vertegenwoordigers en mantelzorgers. Op basis van de periodieke analyse van de klachten formuleert het centrum correctieve en preventieve maatregelen.<br>
 <br>
@@ -3378,13 +3384,13 @@ De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling
 
 ### ART 32.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De termijn voor het betalen van de maandelijkse factuur bedraagt dertig dagen te rekenen vanaf ontvangst. </span></span><br>
+<p>De termijn voor het betalen van de maandelijkse factuur bedraagt dertig dagen te rekenen vanaf ontvangst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de factuur niet wordt betaald of laattijdig, kunnen interesten worden aangerekend. De percentages en de procedure daarvoor zijn bepaald in de schriftelijke opnameovereenkomst.</span></span><br>
+Als de factuur laattijdig of niet wordt betaald, kunnen interesten worden aangerekend. De percentages en de procedure daarvoor, zijn bepaald in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de factuur niet wordt betaald, stelt de initiatiefnemer de gebruiker of zijn vertegenwoordiger in gebreke en leidt deze toe naar een van de kernactoren van het geïntegreerd breed onthaal voor onderzoek van mogelijkheden tot financiële ondersteuning en volgt dit op. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst.</span></span><br>
+Als de factuur niet wordt betaald, stelt de initiatiefnemer de gebruiker of zijn vertegenwoordiger in gebreke en leidt deze toe naar een van de kernactoren van het geïntegreerd breed onthaal voor onderzoek van mogelijkheden tot financiële ondersteuning en volgt dit op. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de facturen gedurende drie maanden niet zijn betaald, ondanks de verzonden ingebrekestellingen, en de aantoonbare toeleiding en opvolging, kan de initiatiefnemer de schriftelijke opnameovereenkomst beëindigen conform artikel 14.</span></span></p>
+Als de facturen gedurende drie maanden niet zijn betaald, ondanks de verzonden ingebrekestelling, en de aantoonbare toeleiding en opvolging, kan de initiatiefnemer de schriftelijke opnameovereenkomst beëindigen conform artikel 14.</p>
 
 ### ART 33.
 
@@ -3407,11 +3413,11 @@ De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling
 
 ### ART 37.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Gebruikers aan wie alleen tijdens de nacht zorg en ondersteuning wordt verstrekt, betalen een aangepaste dagprijs die lager is dan de dagprijs in een centrum voor dagverzorging. Alleen een centrum dat architectonisch verbonden is met een woonzorgcentrum, een ziekenhuis of een centrum voor herstelverblijf, kan nachtopvang organiseren.</span></span></p>
+<p>Gebruikers aan wie alleen tijdens de nacht zorg en ondersteuning wordt verstrekt, betalen een aangepaste dagprijs die lager is dan de dagprijs in het centrum voor dagverzorging. Alleen een centrum dat architectonisch verbonden is met een woonzorgcentrum, een ziekenhuis of een centrum voor herstelverblijf, kan nachtopvang organiseren.</p>
 
 ### ART 38.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dagprijzen en extra vergoedingen die door de initiatiefnemer gehanteerd worden, alsook de regeling van de voorschotten ten gunste van derden, worden duidelijk geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden en wordt vermeld in een onthaalbrochure of op de website van het centrum.</span></span></p>
+<p>De dagprijzen en extra vergoedingen die door de initiatiefnemer gehanteerd worden, alsook de regeling van de voorschotten ten gunste van derden, worden duidelijk geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden en worden vermeld in een onthaalbrochure of op de website van het centrum.</p>
 
 ### ART 39.
 
@@ -3431,15 +3437,15 @@ De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling
 
 ### ART 42.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Een centrum beschikt over </span>een eindverantwoordelijke, die in het bezit is van minstens een bachelorsdiploma, dat relevant is voor de uit te oefenen functie.</span></span><br>
+<p>Een centrum beschikt over een eindverantwoordelijke, die in het bezit is van minstens een bachelordiploma, dat relevant is voor de uit te oefenen functie.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer zet voldoende en deskundig personeel in om zijn vooropgestelde doelstellingen te realiseren. Het personeel beschikt over de nodige kwalificaties voor de taken die het vervult. </span></span><br>
+De initiatiefnemer zet voldoende en deskundig personeel in om zijn vooropgestelde doelstellingen te realiseren. Het personeel beschikt over de nodige kwalificaties voor de taken dat het vervult.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Tijdens de openingsuren verzorgt ten minste één van de personeelsleden, vermeld in het tweede lid, de permanente dienstverlening.</span></span><br>
+Tijdens de openingsuren verzorgt ten minste één van de personeelsleden, vermeld in het tweede lid, de permanente dienstverlening.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister kan bepalen welke kwalificaties in aanmerking komen voor de tewerkstelling in een centrum.</span></span><br>
+De minister kan bepalen welke kwalificaties in aanmerking komen voor de tewerkstelling in een centrum.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Interim personeel wordt alleen aanvaard ter vervanging van het tijdelijk wegvallen van vast personeel en in afwachting van een aanwerving waarbij een lopende vacature kan worden aangetoond. Interim personeel wordt niet aanvaard als permanente oplossing.</span></span></p>
+Interim personeel wordt alleen aanvaard ter vervanging van het tijdelijk wegvallen van vast personeel en in afwachting van een aanwerving waarbij een lopende vacature kan worden aangetoond. Interim personeel wordt niet aanvaard als permanente oplossing.</p>
 
 ### ART 43.
 
@@ -3449,9 +3455,9 @@ De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling
 
 ### ART 44.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum ontwikkelt een vormings-, trainings- en opleidingsbeleid voor het personeel. Elk voltijds verpleegkundig, zorgkundig en personeelslid voor reactivering volgt over een periode van maximaal twee kalenderjaren minstens twintig uur bijscholing. Het onderhouds- en keukenpersoneel volgt acht uur bijscholing over een periode van maximaal twee kalenderjaren. In geval van deeltijds werk of van een ander arbeidsregeling, en in geval van nieuwe indiensttreding in de loop van het kalenderjaar, wordt het minimum aantal uren bijscholing proportioneel verminderd. De eindverantwoordelijke van het centrum volgt jaarlijks zes uur extra bijscholing.</span></span><br>
+<p>Het centrum ontwikkelt een vormings-, trainings- en opleidingsbeleid voor het personeel. Elk voltijds verpleegkundig en zorgkundig personeelslid en elk personeelslid voor reactivering, volgt over een periode van maximaal twee kalenderjaren minstens twintig uur bijscholing. Het onderhouds- en keukenpersoneel volgt acht uur bijscholing over een periode van maximaal twee kalenderjaren. In geval van deeltijds werk of van een andere arbeidsregeling, en in geval van een nieuwe indiensttreding in de loop van het kalenderjaar, wordt het minimum aantal uren bijscholing proportioneel berekend. De eindverantwoordelijke van het centrum volgt jaarlijks zes uur extra bijscholing.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister kan per functie bepalen welke vormingsactiviteiten voor de bijscholing in aanmerking komen.</span></span></p>
+De minister kan per functie bepalen welke vormingsactiviteiten voor de bijscholing in aanmerking komen.</p>
 
 ## Afdeling 5. Voorwaarden voor de infrastructuur
 
@@ -3465,70 +3471,70 @@ De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling
 
 ### ART 46.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het gebouw van het centrum voldoet aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het centrum ontwikkelt zijn werking in een eigen, duidelijk te onderscheiden infrastructuur die architectonisch één geheel vormt. Als het centrum is ingericht in de gebouwen van een woonzorgcentrum of van een andere voorziening, duidt een aparte ingang of een aangepaste bewegwijzering op de eigen werking ervan;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de ingang van het centrum is zo aangepast dat de gebruikers bij aankomst en vertrek gemakkelijk en beschut kunnen in- en uitstappen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;er is minstens één gemeenschappelijke leefruimte en minstens één rustkamer in het centrum;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de ruimtes in een centrum die voor de gebruikers toegankelijke ruimtes zijn in een centrum hebben samen een nettovloeroppervlakte van minimaal 5 m2 per aanwezige gebruiker, de badkamer, de sanitaire ruimten en de gangen niet inbegrepen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;een rustkamer is een afzonderlijk lokaal. Elke rustkamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6° de infrastructuur van het centrum laat toe dat het werken met kleine groepen gefaciliteerd wordt;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;er zijn voldoende gemeenschappelijke toiletten die toegankelijk zijn voor rolstoelgebruikers;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;in het centrum is er ten minste één gemeenschappelijke badkamer met een aangepaste bad- of douchegelegenheid en een bijkomend toilet;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;in elke rustkamer is het nodige meubilair dat aangepast is aan de specifieke behoeften van de gebruikers, zodat een gebruiker op een behoorlijke manier kan rusten en slapen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;in elke leefruimte en in elke rustkamer bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte. In een leefruimte en in een rustkamer met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte. Het glasoppervlak van het raam in elke leefruimte en in elke rustkamer begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is een ongehinderd zicht naar buiten mogelijk;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;ICT is beschikbaar in het centrum ter ondersteuning van de kwaliteit van de en de zorgopvolging en de uitvoering van zorgtaken. In minstens één leefruimte kunnen de gebruikers naar televisie kijken en naar de radio luisteren en via minstens één toestel toegang hebben tot het internet;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">12°&nbsp;er is voldoende bergruimte in het centrum;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">13°&nbsp;in het centrum of in de onmiddellijke nabijheid ervan is er minstens één aparte ruimte voor polyvalent gebruik;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">14°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, zijn minstens 1,80m breed.</span></span></span></span></span></span></p>
+<p>Het gebouw van het centrum voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;het centrum ontwikkelt zijn werking in een eigen, duidelijk te onderscheiden infrastructuur die architectonisch één geheel vormt. Als het centrum is ingericht in de gebouwen van een woonzorgcentrum of van een andere voorziening, duidt een aparte ingang of een aangepaste bewegwijzering op de eigen werking ervan;<br>
+2°&nbsp;de ingang van het centrum is zo aangepast dat de gebruikers bij aankomst en vertrek gemakkelijk en beschut kunnen in- en uitstappen;<br>
+3°&nbsp;er is minstens één gemeenschappelijke leefruimte en minstens één rustkamer in het centrum;<br>
+4°&nbsp;de ruimtes in een centrum die voor de gebruikers toegankelijk zijn, hebben samen een nettovloeroppervlakte van minimaal 5 m2 per aanwezige gebruiker, de badkamer, de sanitaire ruimten en de gangen niet inbegrepen;<br>
+5°&nbsp;een rustkamer is een afzonderlijk lokaal. Elke rustkamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen;<br>
+6° de infrastructuur van het centrum laat toe dat het werken met kleine groepen gefaciliteerd wordt;<br>
+7°&nbsp;er zijn voldoende gemeenschappelijke toiletten die toegankelijk zijn voor rolstoelgebruikers;<br>
+8°&nbsp;in het centrum is er ten minste één gemeenschappelijke badkamer met een aangepaste bad- of douchegelegenheid en een bijkomend toilet;<br>
+9°&nbsp;in elke rustkamer is het nodige meubilair aanwezig dat aangepast is aan de specifieke behoeften van de gebruikers, zodat een gebruiker op een behoorlijke manier kan rusten en slapen;<br>
+10°&nbsp;in elke leefruimte en in elke rustkamer bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte. In een leefruimte en in een rustkamer met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte. Het glasoppervlak van het raam in elke leefruimte en in elke rustkamer begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is een ongehinderd zicht naar buiten mogelijk;<br>
+11°&nbsp;ICT is beschikbaar in het centrum ter ondersteuning van de kwaliteit van de zorg, de zorgopvolging en de uitvoering van zorgtaken. In minstens één leefruimte kunnen de gebruikers naar televisie kijken en naar de radio luisteren en via minstens één toestel toegang hebben tot het internet;<br>
+12°&nbsp;er is voldoende bergruimte in het centrum;<br>
+13°&nbsp;in het centrum of in de onmiddellijke nabijheid ervan is er minstens één aparte ruimte voor polyvalent gebruik;<br>
+14°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, zijn minstens 1,80m breed.</p>
 
 ### ART 47.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voldoet aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;bij de inrichting van het gebouw worden huiselijke en gezellige accenten gelegd; </span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de gebouwen en de lokalen worden regelmatig en correct onderhouden;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de infrastructuur van het centrum laat toe dat de minimale privacy van elke gebruiker gewaarborgd is en dat het altijd mogelijk is om de gepaste zorg te bieden en hulp te verlenen;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de infrastructuur van het centrum en de omgeving die voor gebruikers en bezoekers toegankelijke is, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter.</span></span></span></span></span></span><br>
+<p>Het centrum voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;bij de inrichting van het gebouw worden huiselijke en gezellige accenten gelegd;<br>
+2°&nbsp;de gebouwen en de lokalen worden regelmatig en correct onderhouden;<br>
+3°&nbsp;de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;<br>
+4°&nbsp;de infrastructuur van het centrum laat toe dat de minimale privacy van elke gebruiker gewaarborgd is en dat het altijd mogelijk is om de gepaste zorg te bieden en hulp te verlenen;<br>
+5°&nbsp;de infrastructuur van het centrum en de omgeving die voor gebruikers en bezoekers toegankelijk is, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voldoet aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;er is een af te sluiten ruimte waar geneesmiddelen en dossiers op een veilige en discrete manier bewaard kunnen worden. Die ruimte mag niet voor andere doeleinden worden gebruikt. Er is ook een koelkast ter beschikking om sommige geneesmiddelen koel te bewaren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de persoonlijke bezittingen van de gebruikers kunnen op een veilige manier bewaard worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;er is in het centrum of in de onmiddellijke nabijheid een aangepaste en volwaardige rookruimte die voldoende groot en vlot bereikbaar is voor de gebruikers. Als de rookruimte zich in een gebouw bevindt, is ze afsluitbaar en heeft ze een aangepaste ventilatie. Als de rookruimte zich buiten het gebouw bevindt, is deze overdekt.</span></span></span></span><br>
+Het centrum voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;er is een af te sluiten ruimte waar geneesmiddelen en dossiers op een veilige en discrete manier bewaard kunnen worden. Die ruimte mag niet voor andere doeleinden worden gebruikt. Er is ook een koelkast ter beschikking om sommige geneesmiddelen koel te bewaren;<br>
+2°&nbsp;de persoonlijke bezittingen van de gebruikers kunnen op een veilige manier bewaard worden;<br>
+3°&nbsp;er is in het centrum of in de onmiddellijke nabijheid een aangepaste en volwaardige rookruimte die voldoende groot en vlot bereikbaar is voor de gebruikers. Als de rookruimte zich in een gebouw bevindt, is ze afsluitbaar en heeft ze een aangepaste ventilatie. Als de rookruimte zich buiten het gebouw bevindt, is deze overdekt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De circulatieruimte van het gebouw voldoet aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;elk centrum met twee of meer bouwlagen die toegankelijk zijn voor gebruikers, beschikt over ten minste één lift;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;in alle ruimten die voor de gebruikers toegankelijke ruimten zijn, worden niveauverschillen, zoals &nbsp;&nbsp;&nbsp;&nbsp; treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet vermeden kunnen worden, worden ze ondervangen conform </span></span></span><span style="color:black">de bepalingen in het besluit van de Vlaamse Regering van 5 juni 2006 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid en worden ze duidelijk gesignaleerd</span><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;ramen, toegangen en trappenhallen kunnen beveiligd worden. </span></span></span></span></span></span><br>
+De circulatieruimte van het gebouw voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;elk centrum met twee of meer bouwlagen die toegankelijk zijn voor gebruikers, beschikt over ten minste één lift;<br>
+2°&nbsp;in alle ruimten die voor de gebruikers toegankelijk zijn, worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet vermeden kunnen worden, worden ze ondervangen conform de bepalingen in het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
+3°&nbsp;ramen, toegangen en trappenhallen kunnen beveiligd worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De uitrusting en de inrichting van het gebouw voldoen aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;in elke leefruimte kunnen alle gebruikers op een comfortabele manier zitten;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de bedden zijn in de hoogte verstelbaar en kunnen aangepast worden aan de specifieke behoeften van de gebruikers; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het gebruik van een tillift of van andere uitrusting en materialen, noodzakelijk voor de zorg en de ondersteuning van de gebruiker, is altijd mogelijk;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de gebruiker heeft vanuit zijn bed de mogelijkheid om een licht te bedienen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;het afval wordt in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;elke gebruiker kan altijd in alle ruimten die voor de gebruikers toegankelijke zijn, een efficiënt en aangepast oproepsysteem gebruiken dat gemakkelijk bereikbaar is voor de gebruikers. Als het personeel van het centrum van oordeel is dat een oproepsysteem niet nuttig is of een gevaar inhoudt voor de gebruiker wordt dit, na overleg, geregeld, beargumenteerd en opgevolgd in het gebruikersdossier;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;in elke sanitaire cel en in elke rustkamer is een vast oproepsysteem aanwezig;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;de ruimte waaruit de noodoproep komt, is identificeerbaar.<br>
+De uitrusting en de inrichting van het gebouw voldoen aan al de volgende voorwaarden:<br>
+1°&nbsp;in elke leefruimte kunnen alle gebruikers op een comfortabele manier zitten;<br>
+2°&nbsp;de bedden zijn in de hoogte verstelbaar en kunnen aangepast worden aan de specifieke behoeften van de gebruikers;<br>
+3°&nbsp;het gebruik van een tillift of van andere uitrusting en materialen, noodzakelijk voor de zorg en de ondersteuning van de gebruiker, is altijd mogelijk;<br>
+4°&nbsp;de gebruiker heeft vanuit zijn bed de mogelijkheid om een licht te bedienen;<br>
+5°&nbsp;er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
+6°&nbsp;het afval wordt in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat;<br>
+7°&nbsp;elke gebruiker kan altijd in alle ruimten die voor de gebruikers toegankelijk zijn, een efficiënt en aangepast oproepsysteem gebruiken dat gemakkelijk bereikbaar is voor de gebruikers. Als het personeel van het centrum van oordeel is dat een oproepsysteem niet nuttig is of een gevaar inhoudt voor de gebruiker wordt dit, na overleg, geregeld, beargumenteerd en opgevolgd in het gebruikersdossier;<br>
+8°&nbsp;in elke sanitaire cel en in elke rustkamer is een vast oproepsysteem aanwezig;<br>
+9°&nbsp;de ruimte waaruit de noodoproep komt, is identificeerbaar.<br>
 <br>
-De aangewende oproepsystemen zijn betrouwbaar en worden regelmatig gecontroleerd. Als het mobiele oproepsysteem ook aangewend wordt voor dwaaldetectie, wordt de toestemming van de gebruiker of zijn vertegenwoordiger gevraagd en wordt de noodzaak ervan gemotiveerd in het gebruikersdossier.</span></span></span></span><br>
+De aangewende oproepsystemen zijn betrouwbaar en worden regelmatig gecontroleerd. Als het mobiele oproepsysteem ook aangewend wordt voor dwaaldetectie, wordt de toestemming van de gebruiker of zijn vertegenwoordiger gevraagd en wordt de noodzaak ervan gemotiveerd in het gebruikersdossier.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het gebruikerscomfort van het gebouw voldoet aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;om zich te verplaatsen in het gebouw kunnen de gebruikers zich behelpen met leuningen en handgrepen. In gangen worden aan één kant leuningen aangebracht;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar een gebruiker op een eenvoudige manier kan gaan zitten;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht. </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. In de verblijfsruimten wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de gebruikers;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimen een temperatuur van maximaal 26°C of, als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren. </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gemaakt die voldoende groot is voor alle gebruikers;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, en oververhitting en verblinding van gebruikers door direct zonlicht vermeden worden, wordt, waar nodig, aangebracht. Aan de noordkant volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Op de andere oriëntaties wordt aangepaste zonnewering voorzien. Bij de toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor g totaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">12°&nbsp;een equivalent E-peil van 80 kan aangetoond worden in afwachting van de regelgeving betreffende energieprestatie en binnenklimaat in Vlaanderen en het Brusselse Hoofdstedelijke gewest. Vanaf de inwerkingtreding van de betreffende regelgeving is die van kracht;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">13°&nbsp;het globale isolatiepeil is maximaal K35;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">14°&nbsp;in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">15°&nbsp;de minimale verdiepingshoogte is 2,50 m.</span></span></span></span></p>
+Het gebruikerscomfort van het gebouw voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;om zich te verplaatsen in het gebouw kunnen de gebruikers zich behelpen met leuningen en handgrepen. In gangen worden aan één kant leuningen aangebracht;<br>
+2°&nbsp;alle gangen die voor de gebruikers toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar een gebruiker op een eenvoudige manier kan gaan zitten;<br>
+3°&nbsp;ruimten voor gebruikers worden zo veel mogelijk met daglicht verlicht.<br>
+4°&nbsp;in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
+5°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de gebruikers. In de verblijfsruimten wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+6°&nbsp;er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
+7°&nbsp;in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de gebruikers;<br>
+8°&nbsp;in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimen een temperatuur van maximaal 26°C of, als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren.<br>
+9°&nbsp;als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gemaakt die voldoende groot is voor alle gebruikers;<br>
+10°&nbsp;aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, en oververhitting en verblinding van gebruikers door direct zonlicht vermeden worden, wordt, waar nodig, aangebracht. Aan de noordkant volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Op de andere oriëntaties wordt aangepaste zonnewering voorzien. Bij de toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor g totaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen;<br>
+11°&nbsp;het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
+12°&nbsp;een equivalent E-peil van 80 kan aangetoond worden in afwachting van de regelgeving betreffende energieprestatie en binnenklimaat in Vlaanderen en het Brusselse Hoofdstedelijke Gewest. Vanaf de inwerkingtreding van de betreffende regelgeving is die van kracht;<br>
+13°&nbsp;het globale isolatiepeil is maximaal K35;<br>
+14°&nbsp;in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;<br>
+15°&nbsp;de minimale verdiepingshoogte is 2,50 m.</p>
 
 ### ART 48.
 
@@ -3555,11 +3561,11 @@ De aangewende oproepsystemen zijn betrouwbaar en worden regelmatig gecontroleerd
 
 ### ART 51.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Aan de centra voor dagverzorging met een bijkomende erkenning voor zorgafhankelijke personen met minder dan vijf verblijfseenheden kan, binnen de beschikbare begrotingskredieten, een bijkomende erkenning toegekend worden tot maximaal vijf verblijfseenheden per centrum voor dagverzorging. </span></span><br>
+<p>Aan de centra voor dagverzorging met een bijkomende erkenning voor zorgafhankelijke personen met minder dan vijf verblijfseenheden kan, binnen de beschikbare begrotingskredieten, een bijkomende erkenning toegekend worden tot maximaal vijf verblijfseenheden per centrum voor dagverzorging.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van het eerste lid kan aan de centra voor dagverzorging in gemeenten die deel uitmaken van het tweetalige gebied Brussel-Hoofdstad, met een bijkomende erkenning voor minder dan tien verblijfseenheden, binnen de beschikbare begrotingskredieten, een bijkomende erkenning toegekend worden tot maximaal tien verblijfseenheden per centrum voor dagverzorging.</span></span><br>
+In afwijking van het eerste lid kan aan de centra voor dagverzorging in gemeenten die deel uitmaken van het tweetalige gebied Brussel-Hoofdstad, met een bijkomende erkenning voor minder dan tien verblijfseenheden, binnen de beschikbare begrotingskredieten, een bijkomende erkenning toegekend worden tot maximaal tien verblijfseenheden per centrum voor dagverzorging.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister kan de planning, de criteria en de prioriteiten bepalen voor het toekenning van bijkomende verblijfseenheden.</span></span></p>
+De minister kan de planning, de criteria en de prioriteiten bepalen voor het toekennen van bijkomende verblijfseenheden.</p>
 
 ### ART 52.
 
@@ -3609,13 +3615,13 @@ De compensatie, vermeld in het eerste lid, wordt toegepast conform de volgende r
 
 ### ART 55.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra voor dagverzorging met een bijkomende erkenning voor personen die lijden aan ernstige ziekte zijn bestemd voor gebruikers die beantwoorden aan de afhankelijkheidscategorie Fp, vermeld in artikel 427 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</span></span></p>
+<p>De centra voor dagverzorging met een bijkomende erkenning voor personen die lijden aan een ernstige ziekte zijn bestemd voor gebruikers die beantwoorden aan de afhankelijkheidscategorie Fp, vermeld in artikel 427 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</p>
 
 ## Onderafdeling 2. Voorwaarden voor de personeelsomkadering
 
 ### ART 56.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De medische omkadering bestaat uit een arts die minstens de opleiding heeft gevolgd die geëist wordt van de arts die verantwoordelijks is voor een Sp-dienst voor palliatieve zorg. Die arts is belast met de coördinatie van de medische activiteiten van het centrum voor dagverzorging, de bilans bij het verblijf en de zorg- en ondersteuningsplannen. Om die medische coördinatiefunctie uit te oefenen, is die arts gedurende minstens vijf uren per week aanwezig in het centrum voor dagverzorging per vijftien gebruikers.</span></span></p>
+<p>De medische omkadering bestaat uit een arts die minstens de opleiding heeft gevolgd die geëist wordt van de arts die verantwoordelijk is voor een Sp-dienst voor palliatieve zorg. Die arts is belast met de coördinatie van de medische activiteiten van het centrum voor dagverzorging, de bilans bij het verblijf en de zorg- en ondersteuningsplannen. Om die medische coördinatiefunctie uit te oefenen, is die arts gedurende minstens vijf uren per week aanwezig in het centrum voor dagverzorging per vijftien gebruikers.</p>
 
 ### ART 57.
 
@@ -3623,7 +3629,7 @@ De compensatie, vermeld in het eerste lid, wordt toegepast conform de volgende r
 1°&nbsp;2,5 voltijdsequivalenten verpleegkundigen;<br>
 2°&nbsp;2 voltijdsequivalenten zorgkundigen;<br>
 3°&nbsp;0,5 voltijdsequivalenten loontrekkend klinische psychologen;<br>
-4°&nbsp;1 voltijdsequivalenten ander personeelsleden voor reactivering.<br>
+4°&nbsp;1 voltijdsequivalenten andere personeelsleden voor reactivering.<br>
 <br>
 §2. Personeel voor reactivering als vermeld in paragraaf 1, 4°, beschikt over ten minste een van de kwalificaties, vermeld in artikel 45, §2, eerste lid, 8°, van de bijlage 11, die bij dit besluit is gevoegd.<br>
 <br>
@@ -3642,17 +3648,17 @@ De compensatie, vermeld in het eerste lid, wordt toegepast conform de volgende r
 
 ### ART 58.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voor dagverzorging biedt op de volgende wijze ondersteuning aan de gebruikers:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;pijn- en symptoomcontrole bij psychisch of fysiek lijden door ziekte-progressie of gerelateerde behandelingen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;aangepaste, complementaire zorg;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;psychosociale ondersteuning van de gebruiker en naasten om hun draagkracht in stand te houden of te vergroten, alsook het aanleren van specifieke vaardigheden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;resocialisatie of rehabilitatie door een aangepaste dagbesteding en ontspanning.</span></span></span></span></p>
+<p>Het centrum voor dagverzorging biedt op de volgende wijze ondersteuning aan de gebruikers:<br>
+1°&nbsp;pijn- en symptoomcontrole bij psychisch of fysiek lijden door ziekteprogressie of gerelateerde behandelingen;<br>
+2°&nbsp;aangepaste, complementaire zorg;<br>
+3°&nbsp;psychosociale ondersteuning van de gebruiker en naasten om hun draagkracht in stand te houden of te vergroten, alsook het aanleren van specifieke vaardigheden;<br>
+4°&nbsp;resocialisatie of rehabilitatie door een aangepaste dagbesteding en ontspanning.</p>
 
 ### ART 59.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1.Met behoud van de toepassing van artikel 7, geldt voor de centra voor dagverzorging met een bijkomende erkenning dat de door de gebruiker geëxpliciteerde voorkeuren met betrekking tot zijn vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg geen opname- of ontslagcriteria mogen uitmaken, in zoverre deze voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving. </span></span><br>
+<p>§1.Met behoud van de toepassing van artikel 7, geldt voor de centra voor dagverzorging met een bijkomende erkenning dat de door de gebruiker geëxpliciteerde voorkeuren met betrekking tot zijn vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg geen opname- of ontslagcriterium mogen uitmaken, in zoverre deze voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. Met behoud van de toepassing van artikel 21 geldt specifiek voor punt 2° dat het gebruikersdossiers een vroegtijdige zorgplanning, opgemaakt in samenspraak met de gebruiker, zijn mantelzorger en de huisarts, bevat.</span></span></p>
+§2. Met behoud van de toepassing van artikel 21 geldt specifiek voor punt 2° dat het gebruikersdossier een vroegtijdige zorgplanning, opgemaakt in samenspraak met de gebruiker, zijn mantelzorger en de huisarts, bevat.</p>
 
 ### ART 60.
 
@@ -3677,14 +3683,13 @@ De compensatie, vermeld in het eerste lid, wordt toegepast conform de volgende r
 
 ### ART 62.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voor het centrum voor dagverzorging met een bijkomende erkenning, gelden r wat de facturatie de artikel 508, 509, 509/2, 510, 510/1, 523, tweede lid, en artikel 524, 525, 526, 527 en 527/1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houden de Vlaamse sociale bescherming als erkenningsvoorwaarden.</span></span><br>
-&nbsp;</p>
+<p>Voor het centrum voor dagverzorging met een bijkomende erkenning, gelden voor de facturatie artikel 508, 509, 509/2, 510, 510/1, 523, tweede lid, en artikel 524, 525, 526, 527 en 527/1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houden de Vlaamse sociale bescherming, als erkenningsvoorwaarden.</p>
 
 ## Hoofdstuk 5. Specifieke erkenningsvoorwaarden voor centra die hun erkenning uitbaten op meer dan één locatie
 
 ### ART 63.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een centrum dat uitgebaat wordt op verschillende locaties, met hetzelfde adres of een verschillend adres in dezelfde gemeente, kan als één centrum worden erkend als op elke locatie voldaan wordt aan de speciale erkenningsvoorwaarden, vermeld in hoofdstuk 3.</span></span></p>
+<p>Een centrum dat uitgebaat wordt op verschillende locaties, met hetzelfde adres of een verschillend adres in dezelfde gemeente, kan als één centrum worden erkend als op elke locatie voldaan wordt aan de specifieke erkenningsvoorwaarden, vermeld in hoofdstuk 3.</p>
 
 ## Hoofdstuk 6. Subsidiëring
 
@@ -3698,9 +3703,9 @@ De minister kan voor het toekennen van de subsidies een prioriteitenschema bepal
 
 ### ART 65.
 
-Het jaarlijks subsidiebedrag wordt berekend per erkend centrum voor dagverzorging.<br>
+Het jaarlijkse subsidiebedrag wordt berekend per erkend centrum voor dagverzorging.<br>
 <br>
-Het jaarlijks subsidiebedrag, vermeld in artikel 64, wordt toegekend op basis van de erkenning op 1 januari van het werkingsjaar in kwestie.<br>
+Het jaarlijkse subsidiebedrag, vermeld in artikel 64, wordt toegekend op basis van de erkenning op 1 januari van het werkingsjaar in kwestie.<br>
 <br>
 Als de erkenning van een centrum voor dagverzorging stopt, wordt het voormelde jaarlijkse subsidiebedrag proportioneel herrekend op basis van het aantal erkende dagen in het werkingsjaar in kwestie.<br>
 <br>
@@ -3708,7 +3713,7 @@ Nieuwe centra voor dagverzorging komen alleen in aanmerking voor subsidiëring a
 
 ### ART 66.
 
-<p>De centra voor dagverzorging die een gemiddelde bezettingsgraad van minimaal tien gebruikers realiseren, komen in aanmerking voor een subsidiebedrag van 38.641,43 euro per jaar. De gemiddelde bezettingsgraad is het totaal aantal gefactureerde aanwezigheidsdagen, zowel halve en als volledige dagen, per kalenderjaar, gedeeld door 250.<br>
+<p>De centra voor dagverzorging die een gemiddelde bezettingsgraad van minimaal tien gebruikers realiseren, komen in aanmerking voor een subsidiebedrag van 38.641,43 euro per jaar. De gemiddelde bezettingsgraad is het totaal aantal gefactureerde aanwezigheidsdagen, zowel halve als volledige dagen, per kalenderjaar, gedeeld door 250.<br>
 <br>
 De centra voor dagverzorging die een gemiddelde bezettingsgraad van minder dan tien gebruikers maar van minimaal zeven gebruikers hebben, kunnen evenredig aan de gerealiseerde gemiddelde bezettingsgraad van minstens 9, 8 of 7 een subsidiebedrag ontvangen van respectievelijk 36.654,16 euro, 34.666,87 euro of 32.679,60 euro, .<br>
 <br>
@@ -3716,7 +3721,7 @@ De centra voor dagverzorging met een bijkomende erkenning voor de opvang van per
 
 ### ART 66/1.
 
-De initiatiefnemer van het centrum voor dagverzorging bezorgt vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, vermeld in artikel 64, via het e-loket aan de administratie de bezettingsgegevens van het centrum voor dagverzorging.<br>
+De initiatiefnemer van het centrum voor dagverzorging bezorgt vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, vermeld in artikel 64, de bezettingsgegevens van het centrum voor dagverzorging aan de administratie via het e-loket.<br>
 <br>
 De bezettingsgegevens, vermeld in het eerste lid, bestaan uit het totale aantal aanwezigheidsdagen tijdens het jaar in kwestie, opgesplitst per afhankelijkheidscategorie O en A, vermeld in artikel 425 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, en per afhankelijkheidscategorie F, Fd en D, vermeld in artikel 426 van het voomelde besluit, of afhankelijkheidscategorie Fp, vermeld in artikel 427 van het voormelde besluit.
 
@@ -3740,7 +3745,7 @@ Centra voor dagverzorging, al dan niet met een bijkomende erkenning voor de opva
 
 ### ART 67/1.
 
-In afwijking van artikel 66, tweede lid, kunnen de centra voor dagverzorging die in 2023 een gemiddelde bezettingsgraad van minder dan zeven gebruikers maar van minimaal vijf gebruikers hebben, evenredig aan de gerealiseerde bezettingsgraad van minstens zes of vijf, een subsidiebedrag ontvangen van 30.692,33 euro of 28.705,06 euro.<br>
+In afwijking van artikel 66, tweede lid, kunnen de centra voor dagverzorging die in 2023 een gemiddelde bezettingsgraad van minder dan zeven gebruikers maar van minimaal vijf gebruikers hebben, evenredig aan de gerealiseerde bezettingsgraad van minstens zes of vijf, een subsidiebedrag ontvangen van respectievelijk 30.692,33 euro of 28.705,06 euro.<br>
 <br>
 In afwijking van artikel 66, tweede lid, kunnen de centra voor dagverzorging die in 2024 een gemiddelde bezettingsgraad van minder dan zeven gebruikers maar van minimaal zes gebruikers hebben, een subsidiebedrag ontvangen van 30.692,33 euro.
 
@@ -3788,16 +3793,16 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In deze bijlage wordt verstaan onder:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;beheersinstantie: een of meer personen die een centrum voor kortverblijf vertegenwoordigen en juridisch kunnen binden; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;casemanagement: de grondige analyse en evaluatie van het zorg- en ondersteuningsproces, opgebouwd en uitgevoerd door het zorgteam, om tot duidelijke probleemstelling te komen en de oplossingsgerichte procesbegeleiding en zorgafstemming die daaraan verbonden wordt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;centrum type 1: een centrum voor kortverblijf type 1 waarin respijtzorg voor ouderen met een zorg- en ondersteuningsvraag aangeboden wordt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;centrum type 2: een centrum voor kortverblijf type 2 waarin respijtzorg voor andere specifieke doelgroepen vanaf 18 jaar aangeboden wordt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;centrum type 3: een centrum voor kortverblijf type 3 waarin respijtzorg voor ernstig zieke kinderen en jongeren tot en met 21 jaar aangeboden wordt;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;gebruikersdossier: het document dat het centrum voor kortverblijf in aansluiting op het zorg- en ondersteuningsplan en in samenspraak met de gebruiker opmaakt en dat de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het verblijf, de zorg en ondersteuning en het leven in het centrum bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;personen met jongdementie: de personen met dementie, vastgesteld aan de hand van een diagnostisch bilan, voor de leeftijd van 65 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;personen met een levensbedreigende aandoening: de personen bij wie een aandoening is vastgesteld die samengaat met een abnormale groei van cellen in het lichaam of een aandoening die van die aard is dat de persoon hieraan zal overlijden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9° zorgcoördinator: het aanspreekpunt van het zorgteam, vermeld in artikel 6, §3, van het decreet van (…) betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders</span><span style="color:black">.</span></span></span></span></p>
+<p>In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;beheersinstantie: een of meer personen die een centrum voor kortverblijf vertegenwoordigen en juridisch kunnen binden;<br>
+2°&nbsp;casemanagement: de grondige analyse en evaluatie van het zorg- en ondersteuningsproces, opgebouwd en uitgevoerd door het zorgteam, om tot duidelijke probleemstelling te komen en de oplossingsgerichte procesbegeleiding en zorgafstemming die daaraan verbonden wordt;<br>
+3°&nbsp;centrum type 1: een centrum voor kortverblijf type 1 waarin respijtzorg voor ouderen met een zorg- en ondersteuningsvraag aangeboden wordt;<br>
+4°&nbsp;centrum type 2: een centrum voor kortverblijf type 2 waarin respijtzorg voor andere specifieke doelgroepen vanaf 18 jaar aangeboden wordt;<br>
+5°&nbsp;centrum type 3: een centrum voor kortverblijf type 3 waarin respijtzorg voor ernstig zieke kinderen en jongeren tot en met 21 jaar aangeboden wordt;<br>
+6°&nbsp;gebruikersdossier: het document dat het centrum voor kortverblijf in aansluiting op het zorg- en ondersteuningsplan en in samenspraak met de gebruiker opmaakt en dat de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het verblijf, de zorg en ondersteuning en het leven in het centrum bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert;<br>
+7°&nbsp;personen met jongdementie: de personen met dementie, vastgesteld aan de hand van een diagnostisch bilan, voor de leeftijd van 65 jaar;<br>
+8°&nbsp;personen met een levensbedreigende aandoening: de personen bij wie een aandoening is vastgesteld die samengaat met een abnormale groei van cellen in het lichaam of een aandoening die van die aard is dat de persoon hieraan zal overlijden;<br>
+9° zorgcoördinator: het aanspreekpunt van het zorgteam, vermeld in artikel 6, §3, van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.</p>
 
 ## Deel 2. Centrum voor kortverblijf type 1
 
@@ -3805,23 +3810,23 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Het programma van de centra voor kortverblijf type 1 bestaat uit de volgende elementen: </span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;de programmacijfers;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2°&nbsp;de evaluatiecriteria.</span></span><br>
+<p>§1. Het programma van de centra type 1 bestaat uit de volgende elementen:<br>
+1°&nbsp;de programmacijfers;<br>
+2°&nbsp;de evaluatiecriteria.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. De programmacijfers voor de centra voor kortverblijf type 1, vermeld in paragraaf 1, 1°, worden op de volgende wijze bepaald:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;3,2 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep van 65 tot en met 69 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;5 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep van 70 tot en met 79 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;10 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep van 80 tot en met 89 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;25 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep vanaf 90 jaar.</span></span></span></span><br>
+§2. De programmacijfers voor de centra type 1, vermeld in paragraaf 1, 1°, worden op de volgende wijze bepaald:<br>
+1°&nbsp;3,2 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep van 65 tot en met 69 jaar;<br>
+2°&nbsp;5 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep van 70 tot en met 79 jaar;<br>
+3°&nbsp;10 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep van 80 tot en met 89 jaar;<br>
+4°&nbsp;25 verblijfseenheden per 3 000 ouderen van de leeftijdsgroep vanaf 90 jaar.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voor de toepassing van de programmacijfers, vermeld in het eerste lid, wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar van de aanvraag van een voorafgaande vergunning. Die bevolkingsprojectie wordt door de minister vastgelegd en voldoet minstens aan volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;ze is per afzonderlijk kalenderjaar opgesteld;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;ze is regionaal tot op het niveau van de gemeenten binnen het Nederlandse taalgebied gedifferentieerd;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;ze is opgesteld volgens de leeftijdsgroepen 65 tot 69 jaar, 70 tot 79 jaar, 80 tot 89 jaar en 90 jaar en ouder.</span></span></span></span><br>
+Voor de toepassing van de programmacijfers, vermeld in het eerste lid, wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar van de aanvraag van een voorafgaande vergunning. Die bevolkingsprojectie wordt door de minister vastgelegd en voldoet minstens aan volgende voorwaarden:<br>
+1°&nbsp;ze is per afzonderlijk kalenderjaar opgesteld;<br>
+2°&nbsp;ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br>
+3°&nbsp;ze is regionaal tot op het niveau van de gemeenten binnen het Nederlandse taalgebied gedifferentieerd;<br>
+4°&nbsp;ze is opgesteld volgens de leeftijdsgroepen 65 tot 69 jaar, 70 tot 79 jaar, 80 tot 89 jaar en 90 jaar en ouder.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. De minister legt de evaluatiecriteria voor de centra voor kortverblijf, vermeld in paragraaf 1, 2°, vast. Hij houdt daarbij rekening met de verhouding van het totale aantal voorafgaand vergunde en gerealiseerde verblijfseenheden tot het programmacijfer voor de regio.</span></span></p>
+§3. De minister legt de evaluatiecriteria voor de centra , vermeld in paragraaf 1, 2°, vast. Hij houdt daarbij rekening met de verhouding van het totale aantal voorafgaand vergunde en gerealiseerde verblijfseenheden tot het programmacijfer voor de regio.</p>
 
 ## Hoofdstuk 2. Specifieke erkenningsvoorwaarden
 
@@ -3829,7 +3834,7 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 3.
 
-<p>Aanvullend op artikel 4, 7, 8, 25 tot en met 27, artikel 39, §2, artikel 48, 49, en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van centra voor kortverblijf type 1 de specifieke voorwaarden, vermeld in dit hoofdstuk.</p>
+<p>Aanvullend op artikel 4, 7, 8, 25 tot en met 27, artikel 39, §2, artikel 48, 49, en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van centra type 1 de specifieke voorwaarden, vermeld in dit hoofdstuk.</p>
 
 ## Afdeling 2. Voorwaarden voor de zorg en ondersteuning
 
@@ -3845,9 +3850,9 @@ De subsidiedossiers van het werkingsjaar 2019 en de voorgaande jaren worden verd
 
 ### ART 5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De gebruikers mogen maximaal zestig opeenvolgende dagen en, beschouwd over de periode van één kalenderjaar, in totaal maximaal negentig dagen in hetzelfde centrum type 1 opgenomen worden. De berekening van het maximale aantal verblijfsdagen wordt geen rekening gehouden met de dagen van onvoorziene afwezigheid.</span></span><br>
+<p>De gebruikers mogen maximaal zestig opeenvolgende dagen en, beschouwd over de periode van één kalenderjaar, in totaal maximaal negentig dagen in hetzelfde centrum type 1 opgenomen worden. Voor de berekening van het maximale aantal verblijfsdagen wordt geen rekening gehouden met de dagen van onvoorziene afwezigheid.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Elke afwijking van de maximale verblijfsduur wordt gemotiveerd door het interdisciplinaire team dat de gebruiker verzorgt.</span></span></p>
+Elke afwijking van de maximale verblijfsduur wordt gemotiveerd door het interdisciplinaire team dat de gebruiker verzorgt.</p>
 
 ### ART 6.
 
@@ -3926,9 +3931,9 @@ Op de centrum type 1, dat wordt uitgebaat in lokalen van een woonzorgcentrum die
 
 ### ART 14.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De gebruikers van het centrum type 1 kunnen deel uitmaken van de gebruikersraad van het woonzorgcentrum of van het centrum voor herstelverblijf.</span></span><br>
+<p>De gebruikers van het centrum type 1 kunnen deel uitmaken van de gebruikersraad van het woonzorgcentrum of van het centrum voor herstelverblijf.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De gebruikers hebben dezelfde rechten om suggesties, opmerkingen of klachten te formuleren als de gebruikers van een woonzorgcentrum.</span></span></p>
+De gebruikers hebben dezelfde rechten om suggesties, opmerkingen of klachten te formuleren als de gebruikers van een woonzorgcentrum of een centrum voor herstelbedrijf.</p>
 
 ## Onderafdeling 3. Facturatie
 
@@ -3961,7 +3966,7 @@ Op de centrum type 1, dat wordt uitgebaat in lokalen van een woonzorgcentrum die
 &nbsp; &nbsp; 2)&nbsp;voor welke extra diensten en leveringen er een extra vergoeding aangerekend kan worden en, in voorkomend geval, onder welke voorwaarden die aangerekend mag worden;<br>
 &nbsp; &nbsp; 3)&nbsp;welke uitgaven als voorschotten ten gunste van derden beschouwd moeten worden;<br>
 &nbsp; b)&nbsp;de informatie over de van toepassing zijnde dagprijs, eventuele kortingen en de extra vergoedingen worden geafficheerd op een toegankelijke en zichtbare plaats in het centrum en wordt vermeld in een onthaalbrochure of op de website van het centrum.<br>
-&nbsp; c)&nbsp;extra vergoedingen worden uitdrukkelijk in de schriftelijke &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; overeenkomst met de gebruiker vermeld en die vergoedingen behoren niet tot de minimale kostprijselementen van de dagprijs;<br>
+&nbsp; c)&nbsp;extra vergoedingen worden uitdrukkelijk in de schriftelijke opnameovereenkomst met de gebruiker vermeld en die vergoedingen behoren niet tot de minimale kostprijselementen van de dagprijs;<br>
 &nbsp; d)&nbsp;de beheersinstantie kan aan de gebruiker of zijn vertegenwoordiger op eenvoudig verzoek de bewijsstukken voorleggen die die uitgaven rechtvaardigen. De extra vergoeding mag alleen tegen marktconforme prijzen aangerekend worden. De extra vergoeding moet gebaseerd zijn op een reële aantoonbare kostenberekening;<br>
 &nbsp; e)&nbsp;de dagprijzen en extra vergoedingen die in het centrum type 1 gehanteerde worden, alsook de regeling van de voorschotten ten gunste van derden, worden duidelijk geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden;<br>
 &nbsp; f)&nbsp;de initiatiefnemer kan een waarborg aan de gebruiker of zijn vertegenwoordiger vragen. Het bedrag van een waarborgsom mag niet hoger zijn dan zeven keer de dagprijs. Dat bedrag wordt op een geblokkeerde en gepersonaliseerde rekening geplaatst en de opbrengst ervan is voor de gebruiker. Het gereserveerde bedrag dient alleen ter uitvoering van de bepalingen van de schriftelijke opnameovereenkomst of om een eventuele schadevergoeding voor opzettelijk veroorzaakte schade te betalen;&nbsp;<br>
@@ -4007,7 +4012,7 @@ Aanvullend op het personeel dat is vereist conform het eerste lid, beschikt het 
 
 ### ART 22.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een centrum type 1 dat een gebruiker, opneemt die jonger dan 65 jaar, is, stelt in het centrum type 1 een verslag ter beschikking waaruit blijkt dat er in de woonomgeving van de gebruiker geen andere woonzorgvoorzieningen beschikbaar zijn die de zorgvraag gepast kunnen beantwoorden.</span></span></p>
+<p>Een centrum type 1 dat een gebruiker opneemt die jonger dan 65 jaar, is, stelt in het centrum type 1 een verslag ter beschikking waaruit blijkt dat er in de woonomgeving van de gebruiker geen andere woonzorgvoorzieningen beschikbaar zijn die de zorgvraag gepast kunnen beantwoorden.</p>
 
 ## Hoofdstuk 4. Bijkomende erkenning als oriënterend kortverblijf
 
@@ -4031,11 +4036,11 @@ Aanvullend op het personeel dat is vereist conform het eerste lid, beschikt het 
 
 ### ART 24.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een centrum type 1 komt in aanmerking voor een bijkomende erkenning als centrum voor oriënterend kortverblijf als het gebruikers die thuis wonen, tijdelijk en op een interdisciplinaire wijze een intensief observatie- en begeleidingstraject biedt om hen naar het meest passende woonzorgaanbod toe te leiden.</span></span><br>
+<p>Een centrum type 1 komt in aanmerking voor een bijkomende erkenning als centrum voor oriënterend kortverblijf als het gebruikers die thuis wonen, tijdelijk en op een interdisciplinaire wijze een intensief observatie- en begeleidingstraject biedt om hen naar het meest passende woonzorgaanbod toe te leiden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De bijkomende erkenning heeft betrekking hebben op het geheel of een gedeelte van de erkende verblijfseenheden in het centrum type 1. Een centrum type 1 met een bijkomende erkenning beschikt over ten minste vijf verblijfseenheden met een bijkomende erkenning.</span></span><br>
+De bijkomende erkenning heeft betrekking op het geheel of een gedeelte van de erkende verblijfseenheden in het centrum type 1. Een centrum type 1 met een bijkomende erkenning beschikt over ten minste vijf verblijfseenheden met een bijkomende erkenning.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voor de bijkomende erkenning, vermeld in de eerste lid, is het vereist dat het centrum type 1 voldoet aan de erkenningsvoorwaarden voor centra type 1, behalve als dat anders bepaald is in deze bijlage, en aan de bijkomende voorwaarden die bepaald zijn in deze bijlage.</span></span></p>
+Voor de bijkomende erkenning, vermeld in de eerste lid, is het vereist dat het centrum type 1 voldoet aan de erkenningsvoorwaarden voor centra type 1, behalve als dat anders bepaald is in deze bijlage, en aan de bijkomende voorwaarden die bepaald zijn in deze bijlage.</p>
 
 ### ART 25.
 
@@ -4084,15 +4089,15 @@ Aanvullend op het personeel dat is vereist conform het eerste lid, beschikt het 
 
 ### ART 29.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum type 1 met een bijkomende erkenning volgt de gebruiker op binnen een interdisciplinair overleg. Het interdisciplinaire overleg wordt bijgewoond door de behandelende arts. Afhankelijk van de zorg- en ondersteuningsbehoeften kunnen ook andere partijen bij het interdisciplinaire overleg worden betrokken, zoals: </span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1° de mantelzorgers;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2° de diensten voor gezins- en aanvullende thuiszorg;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3° de thuisverpleegkundige; </span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4° de maatschappelijk werkers;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">5° de coördinerende raadgevende arts;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">6° een zorgcoördinator of zorgaanbieder die het casemanagement opneemt.</span></span><br>
+<p>Het centrum type 1 met een bijkomende erkenning volgt de gebruiker op binnen een interdisciplinair overleg. Het interdisciplinaire overleg wordt bijgewoond door de behandelende arts. Afhankelijk van de zorg- en ondersteuningsbehoeften kunnen ook andere partijen bij het interdisciplinaire overleg worden betrokken, zoals:<br>
+1° de mantelzorgers;<br>
+2° de diensten voor gezins- en aanvullende thuiszorg;<br>
+3° de thuisverpleegkundige;<br>
+4° de maatschappelijk werkers;<br>
+5° de coördinerend raadgevend arts;<br>
+6° een zorgcoördinator of zorgaanbieder die het casemanagement opneemt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum bewaart een verslag van elk interdisciplinair overleg in het zorgdossier van de gebruiker. </span></span></p>
+Het centrum bewaart een verslag van elk interdisciplinair overleg in het zorgdossier van de gebruiker.</p>
 
 ### ART 30.
 
@@ -4119,13 +4124,13 @@ Aanvullend op het personeel dat is vereist conform het eerste lid, beschikt het 
 
 ### ART 32.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Een centrum type 1 met een bijkomende erkenning beschikt beschikken over eigen loontrekkende of statutaire verpleegkundigen, psychologen, ergotherapeuten en sociaal werkers of sociaal verpleegkundigen.</span></span><br>
+<p>Een centrum type 1 met een bijkomende erkenning beschikt over eigen loontrekkende of statutaire verpleegkundigen, psychologen, ergotherapeuten en sociaal werkers of sociaal verpleegkundigen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Per vijftien personen die gebruikmaken van het centrum voor oriënterend kortverblijf, bedraagt het personeelsbestand 3,5 voltijdsequivalenten, boven op de voltijdsequivalenten van het centrum type 1. Het is interdisciplinair en flexibel inzetbaar, maar bestaat minstens uit de volgende disciplines:</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;een verpleegkundige;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2°&nbsp;een psycholoog;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3°&nbsp;een ergotherapeut;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4°&nbsp;een maatschappelijk werker of sociaal verpleegkundige.</span></span></p>
+Per vijftien personen die gebruikmaken van het centrum voor oriënterend kortverblijf, bedraagt het personeelsbestand 3,5 voltijdsequivalenten, boven op de voltijdsequivalenten van het centrum type 1. Het is interdisciplinair en flexibel inzetbaar, maar bestaat minstens uit de volgende disciplines:<br>
+1°&nbsp;een verpleegkundige;<br>
+2°&nbsp;een psycholoog;<br>
+3°&nbsp;een ergotherapeut;<br>
+4°&nbsp;een maatschappelijk werker of sociaal verpleegkundige.</p>
 
 ## Hoofdstuk 5. Subsidiëring
 
@@ -4149,7 +4154,7 @@ In afwijking van het eerste lid kunnen centra type 1 die voor het eerst erkend w
 
 ### ART 35/1.
 
-De initiatiefnemer van het centrum voor kortverblijf bezorgt vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, vermeld in artikel 34 via het e-loket aan de administratie de bezettingsgegevens van het centrum voor kortverblijf.<br>
+De initiatiefnemer van het centrum type 1 bezorgt vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, vermeld in artikel 34 via het e-loket aan de administratie de bezettingsgegevens van het centrum type 1.<br>
 <br>
 De bezettingsgegevens, vermeld in het eerste lid, bestaan uit het totale aantal aanwezigheidsdagen van alle gebruikers tijdens het jaar in kwestie.
 
@@ -4157,9 +4162,9 @@ De bezettingsgegevens, vermeld in het eerste lid, bestaan uit het totale aantal 
 
 Het jaarlijkse subsidiebedrag, vermeld in artikel 34, wordt toegekend op basis van het aantal erkende woongelegenheden op 1 januari van het werkingsjaar in kwestie.<br>
 <br>
-Als de erkenning van een centrum voor kortverblijf stopt of vermindert in de loop van een jaar, wordt de subsidie, vermeld in artikel 34 proportioneel herrekend op basis van het aantal erkende dagen en de erkende capaciteit in het werkingsjaar in kwestie.<br>
+Als de erkenning van een centrum type 1 stopt of vermindert in de loop van een jaar, wordt de subsidie, vermeld in artikel 34 proportioneel herrekend op basis van het aantal erkende dagen en de erkende capaciteit in het werkingsjaar in kwestie.<br>
 <br>
-Nieuwe centra voor kortverblijf komen alleen in aanmerking voor subsidiëring als vermeld in artikel 34 als de erkenning vóór 1 januari van dat werkingsjaar is aangevraagd en als die erkenning uiterlijk op 1 januari van datzelfde werkingsjaar ingaat.
+Nieuwe centra type 1 komen alleen in aanmerking voor subsidiëring als vermeld in artikel 34 als de erkenning vóór 1 januari van dat werkingsjaar is aangevraagd en als die erkenning uiterlijk op 1 januari van datzelfde werkingsjaar ingaat.
 
 ### ART 35/3.
 
@@ -4169,7 +4174,7 @@ Vóór 1 juli van het jaar waarop de subsidie, vermeld in artikel 34 &nbsp;betre
 
 Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd op basis van de gegevens die bezorgd worden conform artikel 35/1.<br>
 <br>
-Als blijkt dat het centrum voor kortverblijf te veel voorschotten heeft ontvangen, wordt het teveel aan subsidie dat conform artikel 35/2, tweede lid, is uitbetaald, teruggevorderd.
+Als blijkt dat het centrum type 1 te veel voorschotten heeft ontvangen, wordt het teveel aan subsidie dat conform artikel 35/2, tweede lid, is uitbetaald, teruggevorderd.
 
 ### ART 36.
 
@@ -4179,7 +4184,7 @@ Als blijkt dat het centrum voor kortverblijf te veel voorschotten heeft ontvange
 
 ### ART 37.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Aan centra type 1, die worden uitgebaat in lokalen van woonzorgcentra die daarvoor bestemd zijn, kan een subsidie voor de woon- en leefbegeleiding worden toegekend conform in artikel 473 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, alsook een subsidie voor de terbeschikkingstelling en het gebruik van infrastructuur, conform bijlage 14, die bij dit besluit 14 is gevoegd</span></span>.</p>
+<p>Aan centra type 1, die worden uitgebaat in lokalen van woonzorgcentra die daarvoor bestemd zijn, kan een subsidie voor de woon- en leefbegeleiding worden toegekend conform in artikel 473 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, alsook een subsidie voor de terbeschikkingstelling en het gebruik van infrastructuur, conform bijlage 14, die bij dit besluit is gevoegd.</p>
 
 ## Hoofdstuk 6. Overgangsbepaling
 
@@ -4195,17 +4200,17 @@ In afwijking van het eerste lid voldoen de centra voor kortverblijf type 1 die w
 
 ### ART 40.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als over een aanvraag tot erkenning van een centrum voor kortverblijf op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het centrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en deel 2, hoofdstuk 2 van deze bijlage.<br>
+<p>Als over een aanvraag tot erkenning van een centrum voor kortverblijf op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het centrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en deel 2, hoofdstuk 2 van deze bijlage.<br>
 <br>
-In afwijking van het eerste lid voldoen de centra voor kortverblijf type 1 die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.</span></span></span></p>
+In afwijking van het eerste lid voldoen de centra type 1 die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.</p>
 
 ### ART 41.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra voor kortverblijf, die op 31 december 2019 voorafgaand vergund zijn, kunnen vervolgens worden erkend met toepassing van de erkenningsvoorwaarden die van toepassing zijn op 31 december 2019 en worden van rechtswege geacht erkend te zijn als centrum type 1. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en hoofdstuk 2 van deze bijlage.<br>
+<p>De centra voor kortverblijf, die op 31 december 2019 voorafgaand vergund zijn, kunnen vervolgens worden erkend met toepassing van de erkenningsvoorwaarden die van toepassing zijn op 31 december 2019 en worden van rechtswege geacht erkend te zijn als centrum type 1. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden van een centrum type 1, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 2 van deze bijlage.<br>
 <br>
-In afwijking van het eerste lid voldoen de centra voor kortverblijf die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.</span></span></span><br>
+In afwijking van het eerste lid voldoen de centra voor kortverblijf die worden uitgebaat in lokalen van een woonzorgcentrum die daarvoor bestemd zijn en op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 van bijlage 11.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In afwijking van het eerste lid kan het centrum voor kortverblijf type 1 onmiddellijk erkend worden met toepassing van de erkenningsvoorwaarden, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en hoofdstuk 2 van deze bijlage, </span>als de beheersinstantie van het centrum voor kortverblijf type 1 dat uitdrukkelijk vraagt bij het insturen van de erkenningsaanvraag.</span></span></p>
+In afwijking van het eerste lid kan het centrum type 1 onmiddellijk erkend worden met toepassing van de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 2 van deze bijlage, als de beheersinstantie van het centrum type 1 dat uitdrukkelijk vraagt bij het insturen van de erkenningsaanvraag.</p>
 
 ## Deel 3. Centrum voor kortverblijf type 2
 
@@ -4253,13 +4258,13 @@ De centra type 2 beschikken over een minimumcapaciteit van drie en een gemiddeld
 
 ### ART 45.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum type 2<sup> </sup>mag geen opname- of ontslagcriteria hanteren die betrekking hebben op:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de gebruiker;<br>
-2°&nbsp;</span></span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de seksuele oriëntatie en genderidentiteit;&nbsp;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het lidmaatschap van een organisatie of groepering;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de financiële draagkracht van de gebruiker;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de etnische afkomst van de gebruiker;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de voorkeuren die de gebruiker geëxpliciteerde heeft voor zijn vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg, voor zover die voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving.</span></span></span></span></p>
+<p>Het centrum type 2<sup> </sup>mag geen opname- of ontslagcriteria hanteren die betrekking hebben op:<br>
+1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de gebruiker;<br>
+2°&nbsp;de seksuele oriëntatie en genderidentiteit;&nbsp;<br>
+3°&nbsp;het lidmaatschap van een organisatie of groepering;<br>
+4°&nbsp;de financiële draagkracht van de gebruiker;<br>
+5°&nbsp;de etnische afkomst van de gebruiker;<br>
+6°&nbsp;de voorkeuren die de gebruiker geëxpliciteerd heeft voor zijn vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg, voor zover die voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving.</p>
 
 ### ART 46.
 
@@ -4350,11 +4355,11 @@ Er kan geen enkele vergoeding aangerekend worden voor de schriftelijke opnameove
 
 ### ART 54.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voor kortverblijf type 2 ontslaat een gebruiker niet tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.</span></span><br>
+<p>Het centrum type 2 ontslaat een gebruiker niet tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als het centrum voor kortverblijf type 2 een gebruiker ontslaat omdat zijn gedragingen ernstig storend zijn voor de medegebruikers of voor de werking van het centrum type 2 of omdat zijn gezondheidstoestand een definitieve overplaatsing naar een meer passende voorziening noodzakelijk maakt, wordt altijd het oordeel van de behandelende arts en het zorgteam ingewonnen.</span></span><br>
+Als het centrum type 2 een gebruiker ontslaat omdat zijn gedragingen ernstig storend zijn voor de medegebruikers of voor de werking van het centrum type 2 of omdat zijn gezondheidstoestand een definitieve overplaatsing naar een meer passende voorziening noodzakelijk maakt, wordt altijd het oordeel van de behandelende arts en het zorgteam ingewonnen.<br>
 <br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</span></span></span></span></p>
+De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</p>
 
 ### ART 55.
 
@@ -4432,7 +4437,7 @@ De nabestaanden beschikken over twee dagen vanaf de dag van het overlijden om de
 
 ### ART 65.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voor kortverblijf type 2 neemt de nodige maatregelen om de veiligheid van de gebruikers, rekening houdend met hun toestand, te waarborgen. Extra beveiligings- en toezichtsmaatregelen respecteren en waarborgen de privacy van de gebruiker. Verzorgings- en onderhoudsproducten worden op een veilige plaats worden opgeborgen, zodat er geen gevaar bestaat voor gebruikers.</span></span></p>
+<p>Het centrum type 2 neemt de nodige maatregelen om de veiligheid van de gebruikers, rekening houdend met hun toestand, te waarborgen. Extra beveiligings- en toezichtsmaatregelen respecteren en waarborgen de privacy van de gebruiker. Verzorgings- en onderhoudsproducten worden op een veilige plaats worden opgeborgen, zodat er geen gevaar bestaat voor gebruikers.</p>
 
 ### ART 66.
 
@@ -5431,12 +5436,12 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">In deze bijlage wordt verstaan onder:</span></span><span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><br>
-<span style="color:black">1°&nbsp;begeleider: de partner of een mantelzorger van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;centrum: een centrum voor herstelverblijf</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;gebruiker: een natuurlijke persoon die een heelkundige ingreep heeft ondergaan of die heeft geleden aan een ernstige aandoening die gepaard ging met een ziekenhuisopname of een langdurige onderbreking van de normale activiteiten, en die nog niet zelfstandig kan functioneren in zijn natuurlijk thuismilieu;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;gebruikersdossier: een document dat door het centrum in aansluiting op het digitaal zorg- en ondersteuningsplan en in samenspraak met de gebruiker wordt opgemaakt en dat de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het verblijven, de zorg en ondersteuning en het leven in het centrum bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;herstelverblijf: de tijdelijke opvang van de gebruiker om hem in staat te stellen opnieuw zelfstandig te functioneren in het natuurlijke thuismilieu.</span></span></span></span></p>
+<p>In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;begeleider: de partner of een mantelzorger van de gebruiker;<br>
+2°&nbsp;centrum: een centrum voor herstelverblijf<br>
+3°&nbsp;gebruiker: een natuurlijke persoon die een heelkundige ingreep heeft ondergaan of die heeft geleden aan een ernstige aandoening die gepaard ging met een ziekenhuisopname of een langdurige onderbreking van de normale activiteiten, en die nog niet zelfstandig kan functioneren in zijn natuurlijk thuismilieu;<br>
+4°&nbsp;gebruikersdossier: een document dat door het centrum in aansluiting op het digitaal zorg- en ondersteuningsplan en in samenspraak met de gebruiker wordt opgemaakt en dat de noden, de verwachtingen en de voorkeuren van de gebruiker op het vlak van het verblijven, de zorg en ondersteuning en het leven in het centrum bepaalt, de interventies daarvoor beschrijft en op regelmatige wijze evalueert;<br>
+5°&nbsp;herstelverblijf: de tijdelijke opvang van de gebruiker om hem in staat te stellen opnieuw zelfstandig te functioneren in het natuurlijk thuismilieu.</p>
 
 ## Hoofdstuk 2. Programmatie
 
@@ -5452,17 +5457,17 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 4.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De volgende criteria zijn de evaluatiecriteria voor de centra, vermeld in artikel 2, 2°: zijn:<br>
-1°&nbsp;</span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de geografische spreiding;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de gemiddelde bezetting van de verblijfseenheden die al bestaan;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het huidige of toekomstige profiel van de gebruikers van het centrum;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">een verslag van de initiatiefnemers waaruit blijkt dat het initiatief inspeelt op de noden van het beoogde werkingsgebied en op de lokale beleidsintenties;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de visie op herstelverblijf;<br>
-6°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de verwachte rentabiliteit en prijszetting;<br>
-7°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de professionele kwaliteitsgaranties van de initiatiefnemer.<br>
-8°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de datum waarop de ontvankelijke aanvraag van een voorafgaande vergunning is ingediend.</span><br>
+De evaluatiecriteria voor de centra, vermeld in artikel 2, 2°: zijn:<br>
+1°&nbsp;de geografische spreiding;<br>
+2°&nbsp;de gemiddelde bezettingsgraad van de verblijfseenheden die al bestaan;<br>
+3°&nbsp;het huidige of toekomstige profiel van de gebruikers van het centrum;<br>
+4°&nbsp;een verslag van de initiatiefnemers waaruit blijkt dat het initiatief inspeelt op de noden van het beoogde werkingsgebied en op de lokale beleidsintenties;<br>
+5°&nbsp;de visie op herstelverblijf;<br>
+6°&nbsp;de verwachte rentabiliteit en prijszetting;<br>
+7°&nbsp;de professionele kwaliteitsgaranties van de initiatiefnemer.<br>
+8°&nbsp;de datum waarop de ontvankelijke aanvraag van een voorafgaande vergunning is ingediend.<br>
 <br>
-<span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">De minister kan de evaluatiecriteria aanvullen of specificeren.</span>
+De minister kan de evaluatiecriteria aanvullen of specificeren.
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -5488,7 +5493,7 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 9.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Minstens 50% van de opnamen van de gebruikers worden gerealiseerd binnen veertien dagen nadat ze ontslagen zijn uit het ziekenhuis.</span></span>
+Minstens 50% van de opnamen van de gebruikers wordt gerealiseerd binnen veertien dagen nadat ze ontslagen zijn uit het ziekenhuis.
 
 ### ART 10.
 
@@ -5503,19 +5508,19 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 12.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Bij de opname van iedere gebruiker wordt een individueel gebruikers-dossier aangelegd worden. Dat dossier bevat al de volgende gegevens:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de volledige identiteit van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;in voorkomend geval, de voor- en achternaam, het adres en het telefoonnummer van de contactpersoon;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de voor- en achternaam, het adres en het telefoonnummer van de huisarts;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de anamnese;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;het klinische onderzoek bij de opname;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de omschrijving van de behoeften en een rapport over de gezondheidstoestand van de gebruiker;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;het plan van verzorging, revalidatie en bijstand bij de dagelijkse levenshandelingen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;de diagnose;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;de behandeling;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;de klinische en de diagnostische evolutie;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;de voorgeschreven geneesmiddelen ende toediening ervan;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">12°&nbsp;het verbetertraject, vermeld in artikel 13.</span></span></span></span></p>
+<p>Bij de opname van iedere gebruiker wordt een individueel gebruikers-dossier aangelegd. Dat dossier bevat al de volgende gegevens:<br>
+1°&nbsp;de volledige identiteit van de gebruiker;<br>
+2° de voor- en achternaam en de contactgegevens, in voorkomend geval, van de vertegenwoordiger van de gebruiker, en van de mantelzorger;<br>
+3°&nbsp;de voor- en achternaam, het adres en het telefoonnummer van de huisarts;<br>
+4°&nbsp;de anamnese;<br>
+5°&nbsp;het klinische onderzoek bij de opname;<br>
+6°&nbsp;de omschrijving van de behoeften en een rapport over de gezondheidstoestand van de gebruiker;<br>
+7°&nbsp;het plan van verzorging, revalidatie en bijstand bij de dagelijkse levenshandelingen;<br>
+8°&nbsp;de diagnose;<br>
+9°&nbsp;de behandeling;<br>
+10°&nbsp;de klinische en de diagnostische evolutie;<br>
+11°&nbsp;de voorgeschreven geneesmiddelen ende toediening ervan;<br>
+12°&nbsp;het verbetertraject, vermeld in artikel 13.</p>
 
 ### ART 13.
 
@@ -5551,10 +5556,10 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 20.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum beschikt over het volgende medisch, verpleegkundig en paramedisch personeel:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een arts die altijd oproepbaar is;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;verpleegkundig en verzorgend personeel in de verhouding van 2,5 voltijdse functies voor vijftien aanwezige gebruikers, van wie ten minste één verpleegkundig personeelslid en waaronder een voltijdse hoofdverpleegkundige of, als het aantal verblijfseenheden meer dan zestig bedraagt, een voltijdse hoofdverpleegkundige per schijf van zestig verblijfseenheden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;per dertig aanwezige gebruikers, een voltijds equivalent kinesitherapeut, ergotherapeut of logopedist.</span></span></span></span></p>
+<p>Het centrum beschikt over het volgende medisch, verpleegkundig en paramedisch personeel:<br>
+1°&nbsp;een arts die altijd oproepbaar is;<br>
+2°&nbsp;verpleegkundig en zorgkundig personeel in de verhouding van 2,5 voltijdse functies voor vijftien aanwezige gebruikers, van wie ten minste één verpleegkundig personeelslid en waaronder een voltijdse hoofdverpleegkundige of, als het aantal verblijfseenheden meer dan zestig bedraagt, een voltijdse hoofdverpleegkundige per begonnen schijf van zestig verblijfseenheden;<br>
+3°&nbsp;per dertig aanwezige gebruikers, een voltijds equivalent kinesitherapeut, ergotherapeut of logopedist.</p>
 
 ### ART 21.
 
@@ -5562,19 +5567,19 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 22.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Tijdens de nacht wordt per begonnen schijf van zestig verblijfseenheden één actieve nachtdienst georganiseerd. De verpleegkundige nachtpermanentie is gewaarborgd. De nachtpermanentie kan in eigen beheer of in medebeheer van een aanpalende erkende welzijns- of gezondheidsvoorziening.</span></span>
+Tijdens de nacht wordt per begonnen schijf van zestig verblijfseenheden één actieve nachtdienst georganiseerd. De verpleegkundige nachtpermanentie is gewaarborgd. De nachtpermanentie kan gegarandeerd worden in eigen beheer of in medebeheer door een aanpalende erkende welzijns- of gezondheidsvoorziening.
 
 ### ART 23.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voor de psychosociale ondersteuning van de gebruikers beschikt het centrum, per zestig verblijfseenheden, over een team dat samengesteld is uit personeelsleden die samen 2,25 vte vervullen en individueel over minstens een van de volgende kwalificaties beschikken: </span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1° een maatschappelijk werker;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2° een sociaal verpleegkundige;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3°&nbsp;een bachelor of master in de psychologie;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">4°&nbsp;een master in de pedagogie.</span></span></p>
+<p>Voor de psychosociale ondersteuning van de gebruikers beschikt het centrum, per zestig verblijfseenheden, over een team dat samengesteld is uit personeelsleden die samen 2,25 vte vervullen en individueel over minstens een van de volgende kwalificaties beschikken:<br>
+1° een maatschappelijk werker;<br>
+2° een sociaal verpleegkundige;<br>
+3°&nbsp;een bachelor of master in de psychologie;<br>
+4°&nbsp;een master in de pedagogische wetenschappen.</p>
 
 ### ART 24.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De professionele medewerkers, die in het centrum, werken, volgen gespreid over een periode van maximaal twee jaar, minstens twintig uur bijscholing over onderwerpen die relevant zijn voor de uitoefening van hun functie.</span></span></p>
+<p>De professionele medewerkers, die in het centrum, werken, volgen gespreid over een periode van maximaal twee kalenderjaren, minstens twintig uur bijscholing over onderwerpen die relevant zijn voor de uitoefening van hun functie.</p>
 
 ## Afdeling 5. Voorwaarden voor de infrastructuur
 
@@ -5588,28 +5593,28 @@ Artikel 148, eerste lid, 22°, is enkel van toepassing op de centra type 3 die n
 
 ### ART 26.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het centrum voldoet aan al de volgende voorwaarden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°het centrum beschikt over een voldoende aanbod aan eenpersoonskamers en tweepersoonskamers. Het aandeel van die tweepersoonskamers in het totale aantal kamers bedraagt minstens 10 %. Er zijn geen meerpersoonskamers. Bij de opname van een zelfredzame partner of mantelzorger kan het centrum boven het aantal erkende verblijfseenheden die persoon tijdelijk huisvesten. De zelfredzame partner of mantelzorger kan alleen verblijven in een eenpersoonskamer of een tweepersoonskamer die voldoet aan de infrastructuurnormen, vermeld in punt 2° tot en met 8°;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;elke eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, met een toilet, een wastafel en een douche, lig- of zitbad;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;elke tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 28 m2, sanitair niet inbegrepen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;een tweepersoonskamer is bij voorrang bestemd voor het verblijf van een gebruiker samen met zijn begeleider;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;elke kamer beschikt over een koelkast;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;elke kamer beschikt over een telefoon en een tv die op de gewenste hoogte gezet kunnen worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;de kamers en gemeenschappelijke ruimten zijn altijd zo verwarmd dat de temperatuur tot minstens 22 °C gebracht kan worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;het centrum ontwikkelt een hitteplan. Als de temperatuur oploopt, maar in elk geval als in het centrum een temperatuur van 27 °C bereikt wordt, treedt dat plan in werking;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10°&nbsp;aangepaste zonnewering wordt aangebracht, waar dat nodig, is; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">11°&nbsp;elke ruimte beschikt over een oproepsysteem;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">12°&nbsp;de noodoproepsystemen kunnen worden geactiveerd vanaf het bed en vanaf de sanitaire cel; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">13°&nbsp;de verlichting kan bediend worden vanaf het bed;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">14°&nbsp;als de bewoners zich verplaatsen in het gebouw, kunnen ze zich behelpen met leuningen en handgrepen. Ook in de sanitaire ruimten zijn leuningen en handgrepen aangebracht;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">15°&nbsp;de gangen zijn voldoende breed zodat twee rolwagens elkaar kunnen kruisen. In de gangen zijn de nodige rustmogelijkheden beschikbaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">16°&nbsp;verplaatsingen tussen verschillende verdiepingen zijn mogelijk met een lift;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">17°&nbsp;er is een ruimte waar medicijnen en dossiers op een veilige en discrete manier bewaard kunnen worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">18°&nbsp;er is een aparte ruimte die uitgerust is met fitness- en kinetoestellen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">19°&nbsp;in het centrum is minstens in een ruimte voorzien waar de verzorgende en paramedische personeelsleden het nodige administratieve werk kunnen uitvoeren;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">20°&nbsp;de gebruikers moeten verzorgd en verpleegd worden met inachtneming van hun privacy; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">21°&nbsp;het centrum voert een beleid ter preventie van infectieziekten. Bij vaststelling van een infectieziekte worden de nodige maatregelen getroffen. Het centrum stelt daarvoor een plan op.</span></span></span></span></p>
+<p>Het centrum voldoet aan al de volgende voorwaarden:<br>
+1°het centrum beschikt over een voldoende aanbod aan eenpersoonskamers en tweepersoonskamers. Het aandeel van die tweepersoonskamers in het totale aantal kamers bedraagt minstens 10 %. Er zijn geen meerpersoonskamers. Bij de opname van een zelfredzame partner of mantelzorger kan het centrum bovenop het aantal erkende verblijfseenheden die persoon tijdelijk huisvesten. De zelfredzame partner of mantelzorger kan alleen verblijven in een eenpersoonskamer of een tweepersoonskamer die voldoet aan de infrastructuurnormen, vermeld in punt 2° tot en met 8°;<br>
+2°&nbsp;elke eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen;<br>
+3°&nbsp;elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, met een toilet, een wastafel en een douche, lig- of zitbad;<br>
+4°&nbsp;elke tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 28 m2, sanitair niet inbegrepen;<br>
+5°&nbsp;een tweepersoonskamer is bij voorrang bestemd voor het verblijf van een gebruiker samen met zijn begeleider;<br>
+6°&nbsp;elke kamer beschikt over een koelkast;<br>
+7°&nbsp;elke kamer beschikt over een telefoon en een tv die op de gewenste hoogte gezet kunnen worden;<br>
+8°&nbsp;de kamers en gemeenschappelijke ruimten zijn altijd zo verwarmd dat de temperatuur tot minstens 22 °C gebracht kan worden;<br>
+9°&nbsp;het centrum ontwikkelt een hitteplan. Als de temperatuur oploopt, maar in elk geval als in het centrum een temperatuur van 27 °C bereikt wordt, treedt dat plan in werking;<br>
+10°&nbsp;aangepaste zonnewering wordt aangebracht waar dat nodig is;<br>
+11°&nbsp;elke ruimte beschikt over een noodoproepsysteem;<br>
+12°&nbsp;de noodoproepsystemen kunnen worden geactiveerd van in het bed en van in de sanitaire cel;<br>
+13°&nbsp;de verlichting kan bediend worden vanaf het bed;<br>
+14°&nbsp;als de bewoners zich verplaatsen in het gebouw, kunnen ze zich behelpen met leuningen en handgrepen. Ook in de sanitaire ruimten zijn leuningen en handgrepen aangebracht;<br>
+15°&nbsp;de gangen zijn voldoende breed zodat twee rolwagens elkaar kunnen kruisen. In de gangen zijn de nodige rustmogelijkheden beschikbaar;<br>
+16°&nbsp;verplaatsingen tussen verschillende verdiepingen zijn mogelijk met een lift;<br>
+17°&nbsp;er is een ruimte waar medicatie en dossiers op een veilige en discrete manier bewaard kunnen worden;<br>
+18°&nbsp;er is een aparte ruimte die uitgerust is met fitnesstoestellen en toestellen voor kinesitherapie;<br>
+19°&nbsp;in het centrum is minstens een ruimte voorzien waar de zorgverleners het nodige administratieve werk kunnen uitvoeren;<br>
+20°&nbsp;de gebruikers moeten verzorgd en verpleegd worden met inachtneming van hun privacy;<br>
+21°&nbsp;het centrum voert een beleid ter preventie van infectieziekten. Bij vaststelling van een infectieziekte worden de nodige maatregelen getroffen. Het centrum stelt daarvoor een plan op.</p>
 
 ## Afdeling 6. Voorwaarden voor de verblijfsdagprijs
 
@@ -5683,13 +5688,13 @@ Als een centrum meer voorschotten ontvangen heeft dan het subsidiebedrag waarop 
 
 ### ART 31.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn en over minstens dertig verblijfseenheden beschikken, kunnen erkend worden als centrum als ze uiterlijk op 31 december 2022 een ontvankelijke erkenningsaanvraag hebben ingediend. </span></span><br>
+<p>De centra die op 31 december 2019 aangemeld zijn en over minstens dertig verblijfseenheden beschikken, kunnen erkend worden als centrum als ze uiterlijk op 31 december 2022 een ontvankelijke erkenningsaanvraag hebben ingediend.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra passen van rechtswege in de programmatie. </span></span><br>
+De centra passen van rechtswege in de programmatie.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra, vermeld in het eerste lid, beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in <span style="color:black">artikel 38 van het Woonzorgdecreet van 15 februari 2019, </span>artikel 4 van dit besluit<span style="color:black"> en hoofdstuk 2 van deze bijlage.</span></span></span><br>
+De centra, vermeld in het eerste lid, beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de centra, vermeld in het eerste lid, op 31 december 2022, geen ontvankelijke erkenningsaanvraag hebben ingediend, kunnen ze niet langer als centrum uitgebaat worden.</span></span></p>
+Als de centra, vermeld in het eerste lid, op 31 december 2022, geen ontvankelijke erkenningsaanvraag hebben ingediend, kunnen ze niet langer als centrum uitgebaat worden.</p>
 
 ### ART 32.
 
@@ -5701,11 +5706,11 @@ Als een centrum meer voorschotten ontvangen heeft dan het subsidiebedrag waarop 
 
 ### ART 33.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn kunnen, wanneer zij zich bevinden in dezelfde gemeente, verschillende gemeenten in dezelfde eerstelijnszone of verschillende gemeenten die in twee aangrenzende eerstelijnszones liggen en uitgebaat worden door dezelfde rechtspersoon, samengevoegd worden tot een centrum voor herstelverblijf van minstens 30 verblijfseenheden en dit op een locatie. Dit centrum kan erkend worden ten laatste op 31 december 2025.<br>
+<p>De centra die op 31 december 2019 aangemeld zijn kunnen, wanneer zij zich bevinden in dezelfde gemeente, verschillende gemeenten in dezelfde eerstelijnszone of verschillende gemeenten die in twee aangrenzende eerstelijnszones liggen en uitgebaat worden door dezelfde rechtspersoon, samengevoegd worden tot een centrum voor herstelverblijf van minstens 30 verblijfseenheden en dit op één locatie. Dit centrum kan erkend worden ten laatste op 31 december 2025.<br>
 <br>
 In het eerste lid wordt verstaan onder eerstelijnszone: de eerstelijnszone die de Vlaamse Regering bepaalt conform artikel 13 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.<br>
 <br>
-Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege in de programmatie.</span></span></p>
+Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege in de programmatie.</p>
 
 ### ART 34.
 
@@ -5750,7 +5755,7 @@ De initiatiefnemer gebruikt voor de aanvraag van de voorafgaande vergunning of e
 
 ### ART 3.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Aanvullend op artikel 4, 7, 8, 30, 31&nbsp;en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van groepen van assistentiewoningen de specifieke voorwaarden, vermeld in dit hoofdstuk.</span></span>
+Aanvullend op artikel 4, 7, 8, 30, 31, 32 en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van groepen van assistentiewoningen de specifieke voorwaarden, vermeld in dit hoofdstuk.
 
 ## Afdeling 2. Voorwaarden voor de zorg en ondersteuning
 
@@ -5758,24 +5763,24 @@ De initiatiefnemer gebruikt voor de aanvraag van de voorafgaande vergunning of e
 
 ### ART 4.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer mag geen toelatings- of ontslagcriteria hanteren die betrekking hebben op: </span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de bewoner;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de seksuele oriëntatie en genderidentiteit; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het lidmaatschap van een organisatie of groepering;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de financiële draagkracht van de bewoner, met uitzondering van artikel 30, vierde lid; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de etnische afkomst van de bewoner;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de voorkeuren die de bewoner geëxpliciteerd heeft met betrekking tot zijn vroegtijdige &nbsp; zorgplanning, palliatieve zorg en levenseindezorg en dit in voor zover die voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;het dragerschap van micro-organismen waarvoor preventie van overdracht mogelijk is door het toepassen van de voorzorgsmaatregelen en voor zover dit dragerschap op dat moment geen risico vormt voor de andere bewoners.</span></span></span></span></p>
+<p>De initiatiefnemer mag geen toelatings- of ontslagcriteria hanteren die betrekking hebben op:<br>
+1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de bewoner;<br>
+2°&nbsp;de seksuele oriëntatie en genderidentiteit;<br>
+3°&nbsp;het lidmaatschap van een organisatie of groepering;<br>
+4°&nbsp;de financiële draagkracht van de bewoner, met uitzondering van artikel 30, vierde lid;<br>
+5°&nbsp;de etnische afkomst van de bewoner;<br>
+6°&nbsp;de voorkeuren die de bewoner geëxpliciteerd heeft met betrekking tot zijn vroegtijdige &nbsp; zorgplanning, palliatieve zorg en levenseindezorg en dit voor zover die voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving;<br>
+7°&nbsp;het dragerschap van micro-organismen waarvoor preventie van overdracht mogelijk is door het toepassen van de voorzorgsmaatregelen en voor zover dit dragerschap op dat moment geen risico vormt voor de andere bewoners.</p>
 
 ### ART 5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De bewoner geniet de grootst mogelijke vrijheid, zoals hij vrij is in zijn natuurlijk thuismilieu. De initiatiefenemer kan die alleen beperken om organisatorische redenen en waarover duidelijk wordt gecommuniceerd.</span></span></p>
+<p>De bewoner geniet de grootst mogelijke vrijheid, zoals hij vrij is in zijn natuurlijk thuismilieu. De initiatiefenemer kan die alleen beperken om organisatorische redenen en daarover wordt duidelijk gecommuniceerd.</p>
 
 ### ART 6.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De bewoner kiest vrij de zorg en ondersteuning die hij wil, en de verstrekker van die zorg en ondersteuning. De bewoner kan niet verplicht worden om de facultatieve diensten te gebruiken die de initiatiefnemer of de voorzieningen waarmee de initiatiefnemer een overeenkomst heeft, aanbieden. </span></span><br>
+<p>De bewoner kiest vrij de zorg en ondersteuning die hij wil, en de verstrekker van die zorg en ondersteuning. De bewoner kan niet verplicht worden om de facultatieve diensten te gebruiken die de initiatiefnemer aanbiedt of die aangeboden worden door voorzieningen waarmee de initiatiefnemer een overeenkomst heeft.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer brengt de zorg en ondersteuning binnen het bereik van de bewoners die er een beroep op kunnen doen telkens als dat nodig is. Hij zorgt ervoor dat de bewoners die dat willen, de mogelijkheid hebben om dagelijks minstens een warme maaltijd te eten. </span></span></p>
+De initiatiefnemer brengt de zorg en ondersteuning binnen het bereik van de bewoners die er een beroep op kunnen doen telkens als dat nodig is. Hij zorgt ervoor dat de bewoners die dat willen, de mogelijkheid hebben om dagelijks minstens een warme maaltijd te eten.</p>
 
 ### ART 7.
 
@@ -5783,9 +5788,9 @@ De initiatiefnemer gebruikt voor de aanvraag van de voorafgaande vergunning of e
 
 ### ART 8.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De groep van assistentiewoningen integreert zich aantoonbaar in de buurt:</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;de beheersinstantie ziet erop toe dat de bewoners kunnen deelnemen aan activiteiten in de buurt of door lokale organisaties en verenigingen georganiseerd worden;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2°&nbsp;de beheersinstantie nodigt buurtbewoners en lokale organisaties uit om te participeren in ontspannings- en ontmoetingsactiviteiten.</span></span></p>
+<p>De groep van assistentiewoningen integreert zich aantoonbaar in de buurt:<br>
+1°&nbsp;de beheersinstantie ziet erop toe dat de bewoners kunnen deelnemen aan activiteiten die in de buurt of door lokale organisaties en verenigingen georganiseerd worden;<br>
+2°&nbsp;de beheersinstantie nodigt buurtbewoners en lokale organisaties uit om te participeren in ontspannings- en ontmoetingsactiviteiten.</p>
 
 ### ART 9.
 
@@ -5795,73 +5800,73 @@ De initiatiefnemer gebruikt voor de aanvraag van de voorafgaande vergunning of e
 
 ### ART 10.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Van elke bewoner worden, naast zijn persoonlijke gegevens, ook de volgende gegevens bijgehouden:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de identificatie- en contactgegevens van de persoon die in geval van nood wordt gewaarschuwd; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de identificatie- en contactgegevens van de behandelende arts en van alle eerstelijnsactoren die voor de bewoner relevant zijn;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het ziekenhuis van voorkeur van de bewoner.</span></span></span></span><br>
+<p>Van elke bewoner worden, naast zijn persoonlijke gegevens, ook de volgende gegevens bijgehouden:<br>
+1°&nbsp;de identificatie- en contactgegevens van de persoon die in geval van nood wordt gewaarschuwd;<br>
+2°&nbsp;de identificatie- en contactgegevens van de behandelende arts en van alle eerstelijnsactoren die voor de bewoner relevant zijn;<br>
+3°&nbsp;het ziekenhuis van voorkeur van de bewoner.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De groep van assistentiewoningen registreert op een aantoonbare wijze al de volgende gegevens:</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1° de dag en het ogenblik van een noodoproep;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2° de reden van een noodoproep;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">3° het gevolg dat aan de noodoproep is gegeven.</span></span><br>
+De groep van assistentiewoningen registreert op een aantoonbare wijze al de volgende gegevens:<br>
+1° de dag en het ogenblik van een noodoproep;<br>
+2° de reden van een noodoproep;<br>
+3° het gevolg dat aan de noodoproep is gegeven.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Alle gegevens worden bewaard met respect voor de persoonlijke levenssfeer, zodat alleen personen die daarvoor bevoegd zijn, er toegang toe hebben. De bewoner of zijn vertegenwoordiger heeft altijd recht op inzage in de gegevens die de bewoner rechtstreeks aanbelangen, en op correctie van die gegevens.</span></span></p>
+Alle gegevens worden bewaard met respect voor de persoonlijke levenssfeer, zodat alleen personen die daarvoor bevoegd zijn, er toegang toe hebben. De bewoner of zijn vertegenwoordiger heeft altijd recht op inzage in de gegevens die de bewoner rechtstreeks aanbelangen en op correctie van die gegevens.</p>
 
 ### ART 11.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De opname wordt geconcretiseerd in een schriftelijke opnameover-eenkomst voor het genotsrecht van de assistentiewoning en voor de zorg en ondersteuning, die de belanghebbende partijen wondertekenen en die minstens de volgende bepalingen bevat:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de volgende administratieve gegevens:</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; a)&nbsp;de identificatiegegevens van de contracterende partijen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; b)&nbsp;het erkenningsnummer van de groep van assistentiewoningen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; c) de voorziene opnamedatum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de opname- en ontslagprocedure die de volgende elementen bevat:</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; a)&nbsp;de opnameprocedure en de opnamevoorwaarden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; b)&nbsp;de regeling voor tot het verbreken van de overeenkomst vóór de voorziene opnamedatum. Het is niet toegestaan een verbrekingsvergoeding aan te rekenen in de omstandigheid, zoals vermeld in artikel 16;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; c)&nbsp;de omstandigheden die aanleiding kunnen geven tot ontslag uit de groep van assistentiewoningen, de ontslagprocedure en de opzeggingstermijn;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; d)&nbsp;de wijze waarop de de bewoner de overeenkomst kan beeïndigen, en de toepasselijke opzeggingstermijn, zoals vermeld in artikel 17; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; e)&nbsp;de specifieke regelingen bij tijdelijke afwezigheid of overlijden van de bewoner;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; f)&nbsp;de assistentiewoning die aan de bewoner wordt toegewezen en de verbintenis van de initiatiefnemer om de bewoner geen andere assistentiewoning toe te wijzen, tenzij met zijn uitdrukkelijk akkoord of in het geval, vermeld in artikel 15</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3° de dagprijs en de facturatie waarbij de volgende elementen worden vermeld:<br>
-a)&nbsp;</span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">het bedrag en de samenstelling van de dagprijs van toepassing op de voorziene opnamedatum. Als de dagprijs ook de kosten van het genotsrecht van de assistentiewoning dekt, worden de kosten van dat genotsrecht en de kosten van de zorg en ondersteuning afzonderlijk vermeld;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">b)&nbsp;de bedragen, de reden en de periode van toegestane kortingen op de dagprijs;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">c)&nbsp;de regeling voor de aanpassing van de dagprijs; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">d)&nbsp;een eventuele voorschotregeling met betrekking tot de dagprijs;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">e)&nbsp;het eventuele bedrag van de waarborgsom en de mogelijke aanwending ervan of de regeling voor borgstelling;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">f)&nbsp;de procedure bij laattijdige of niet-betaling van de factuur, zoals vermeld in artikel 30;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4° de regelingen voor de aansprakelijkheid en de verzekeringen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5° de vermelding dat noch de beheersinstantie, noch het personeel van de groep van assistentiewoningen goederen of gelden van de bewoner in &nbsp;&nbsp;&nbsp;&nbsp; beheer neemt, met uitzondering van de verrekening van kosten die rechtstreeks met het verblijf in de groep van assistentiewoningen te maken hebben;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de wijze waarop de overeenkomst kan worden gewijzigd;<br>
-7°&nbsp;</span></span></span></span><span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">de regeling voor het opstellen van een omstandige plaatsbeschrijving, als vermeld in artikel 13;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8° de regeling voor het instapklaar maken van de assistentiewoning, waaronder de kosten voor schilderwerken en gordijnen; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9°&nbsp;de regeling voor het verwijderen van de persoonlijke goederen van de bewoner bij de beëindiging van de overeenkomst;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">10° wat de zorg en ondersteuning betreft:</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; a) de wijze waarop en door wie het noodoproepsysteem en de crisiszorg en overbruggingszorg worden georganiseerd, of die kosten worden aangerekend en op welke wijze;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">&nbsp; b)&nbsp;een opsomming van de diensten en leveringen die de initiatiefnemer facutatief aanbiedt en die aanleiding geven tot de aanrekening van een extra vergoeding, conform artikel 6.</span></span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">11°&nbsp;een verklaring in eer en geweten van de bewoner of zijn vertegenwoordiger dat hij correcte informatie verschaft aan de groep van assistentiewoningen. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de bewoner of zijn vertegenwoordiger aansprakelijk gesteld worden.</span></span><br>
+<p>De opname wordt geconcretiseerd in een schriftelijke opnameovereenkomst voor het genotsrecht van de assistentiewoning en voor de zorg en ondersteuning, die de belanghebbende partijen ondertekenen en die minstens de volgende bepalingen bevat:<br>
+1°&nbsp;de volgende administratieve gegevens:<br>
+&nbsp; a)&nbsp;de identificatiegegevens van de contracterende partijen;<br>
+&nbsp; b)&nbsp;het erkenningsnummer van de groep van assistentiewoningen;<br>
+&nbsp; c) de voorziene opnamedatum;<br>
+2°&nbsp;de opname- en ontslagprocedure die de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de opnameprocedure en de opnamevoorwaarden;<br>
+&nbsp; b)&nbsp;de regeling voor tot het verbreken van de overeenkomst vóór de voorziene opnamedatum. Het is niet toegestaan een verbrekingsvergoeding aan te rekenen in de omstandigheid, zoals vermeld in artikel 16;<br>
+&nbsp; c)&nbsp;de omstandigheden die aanleiding kunnen geven tot ontslag uit de groep van assistentiewoningen, de ontslagprocedure en de opzeggingstermijn;<br>
+&nbsp; d)&nbsp;de wijze waarop de bewoner de overeenkomst kan beeïndigen en de toepasselijke opzeggingstermijn, zoals vermeld in artikel 17;<br>
+&nbsp; e)&nbsp;de specifieke regelingen bij tijdelijke afwezigheid of overlijden van de bewoner;<br>
+&nbsp; f)&nbsp;de assistentiewoning die aan de bewoner wordt toegewezen en de verbintenis van de initiatiefnemer om de bewoner geen andere assistentiewoning toe te wijzen, tenzij met zijn uitdrukkelijk akkoord of in het geval, vermeld in artikel 15<br>
+3° de dagprijs en de facturatie waarbij de volgende elementen worden vermeld:<br>
+a)&nbsp;het bedrag en de samenstelling van de dagprijs van toepassing op de voorziene opnamedatum. Als de dagprijs ook de kosten van het genotsrecht van de assistentiewoning dekt, worden de kosten van dat genotsrecht en de kosten van de zorg en ondersteuning afzonderlijk vermeld;<br>
+b)&nbsp;de bedragen, de reden en de periode van toegestane kortingen op de dagprijs;<br>
+c)&nbsp;de regeling voor de aanpassing van de dagprijs;<br>
+d)&nbsp;een eventuele voorschotregeling met betrekking tot de dagprijs;<br>
+e)&nbsp;het eventuele bedrag van de waarborgsom en de mogelijke aanwending ervan of de regeling voor borgstelling;<br>
+f)&nbsp;de procedure bij laattijdige of niet-betaling van de factuur, zoals vermeld in artikel 30;<br>
+4° de regelingen voor de aansprakelijkheid en de verzekeringen;<br>
+5° de vermelding dat noch de beheersinstantie, noch het personeel van de groep van assistentiewoningen goederen of gelden van de bewoner in &nbsp;&nbsp;&nbsp;&nbsp; beheer neemt, met uitzondering van de verrekening van kosten die rechtstreeks met het verblijf in de groep van assistentiewoningen te maken hebben;<br>
+6°&nbsp;de wijze waarop de overeenkomst kan worden gewijzigd;<br>
+7°&nbsp;de regeling voor het opstellen van een omstandige plaatsbeschrijving, als vermeld in artikel 13;<br>
+8° de regeling voor het instapklaar maken van de assistentiewoning, waaronder de kosten voor schilderwerken en gordijnen;<br>
+9°&nbsp;de regeling voor het verwijderen van de persoonlijke goederen van de bewoner bij de beëindiging van de overeenkomst;<br>
+10° wat de zorg en ondersteuning betreft:<br>
+&nbsp; a) de wijze waarop en door wie het noodoproepsysteem en de crisiszorg en overbruggingszorg worden georganiseerd en of die kosten worden aangerekend en op welke wijze;<br>
+&nbsp; b)&nbsp;een opsomming van de diensten en leveringen die de initiatiefnemer facutatief aanbiedt en die aanleiding geven tot de aanrekening van een extra vergoeding, conform artikel 6.<br>
+11°&nbsp;een verklaring in eer en geweten van de bewoner of zijn vertegenwoordiger dat hij correcte informatie verschaft aan de groep van assistentiewoningen. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de bewoner of zijn vertegenwoordiger aansprakelijk gesteld worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De schriftelijke opnameovereenkomst is van onbepaalde duur. Elke bepaling of toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp.</span></span><br>
+De schriftelijke opnameovereenkomst is van onbepaalde duur. Elke bepaling of toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Er kan geen vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</span></span></p>
+Er kan geen vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</p>
 
 ### ART 12.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Uiterlijk bij de opname bezorgt de beheersinstantie aan de bewoner of zijn vertegenwoordiger tegen ontvangstbewijs een kopie van de interne afsprakennota. </span></span><br>
+<p>§1. Uiterlijk bij de opname bezorgt de beheersinstantie aan de bewoner of zijn vertegenwoordiger tegen ontvangstbewijs een kopie van de interne afsprakennota.<br>
 <br>
 §2. De interne afsprakennota wordt opgesteld met respect voor de werkingsprincipes, vermeld in artikel 4, §1, van het Woonzorgdecreet van 15 februari 2019.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§3. De interne afsprakennota vermeldt:<br>
-1°&nbsp;</span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de identificatie- en contactgegevens van de groep van assistentiewoningen, de beheersinstantie en de initiatiefnemer ervan;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het erkenningsnummer van de groep van assistentiewoningen;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de contactgegevens en de bereikbaarheid van de woonassistent;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de bijzondere verblijfsvoorwaarden;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de regels over het houden van huisdieren;<br>
-6°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de procedure bij brand en ernstige gebeurtenissen met impact op de dagelijkse werking;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;de procedure bij grensoverschrijdend gedrag;<br>
-8°&nbsp;</span></span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de omstandigheden die aanleiding kunnen geven tot het verbreken of opzeggen van de overeenkomst en de procedure voor opzegging of verbreking en de opzeg- of verbrekingsvergoeding zoals vermeld in de schriftelijke overeenkomst;<br>
-9°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de wijze waarop en door wie het noodoproepsysteem en de crisiszorg en overbruggingszorg worden georganiseerd, en of die worden aangerekens en op welke wijze;<br>
-10°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de wijze waarop individuele en collectieve participatie van de bewoner in de werking van de voorziening wordt georganiseerd, met inbegrip van de samenstelling en het functioneren van de gebruikersraad;<br>
-11°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de behandeling van suggesties, opmerkingen en klachten en de contactgegevens van de persoon aan wie ze kunnen worden meegedeeld;&nbsp;<br>
-12°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">een verwijzing naar de instanties die toezicht uitoefenen op de erkenning van de groep van assistentiewoningen en een verwijzing naar de toepasselijke erkenningsvoorwaarden.</span><br>
+§3. De interne afsprakennota vermeldt:<br>
+1°&nbsp;de identificatie- en contactgegevens van de groep van assistentiewoningen, de beheersinstantie en de initiatiefnemer ervan;<br>
+2°&nbsp;het erkenningsnummer van de groep van assistentiewoningen;<br>
+3°&nbsp;de contactgegevens en de bereikbaarheid van de woonassistent;<br>
+4°&nbsp;de bijzondere verblijfsvoorwaarden;<br>
+5°&nbsp;de regels over het houden van huisdieren;<br>
+6°&nbsp;de procedure bij brand en ernstige gebeurtenissen met impact op de dagelijkse werking;<br>
+7°&nbsp;de procedure bij grensoverschrijdend gedrag;<br>
+8°&nbsp;de omstandigheden die aanleiding kunnen geven tot het verbreken of opzeggen van de overeenkomst en de procedure voor opzegging of verbreking en de opzeg- of verbrekingsvergoeding zoals vermeld in de schriftelijke overeenkomst;<br>
+9°&nbsp;de wijze waarop en door wie het noodoproepsysteem en de crisiszorg en overbruggingszorg worden georganiseerd, en of die worden aangerekend en op welke wijze;<br>
+10°&nbsp;de wijze waarop individuele en collectieve participatie van de bewoner in de werking van de voorziening wordt georganiseerd, met inbegrip van de samenstelling en het functioneren van de gebruikersraad;<br>
+11°&nbsp;de procedure voor de behandeling van suggesties, opmerkingen en klachten en de contactgegevens van de persoon aan wie ze kunnen worden meegedeeld;&nbsp;<br>
+12°&nbsp;een verwijzing naar de instanties die toezicht uitoefenen op de erkenning van de groep van assistentiewoningen en een verwijzing naar de toepasselijke erkenningsvoorwaarden.<br>
 <br>
 Wijzigingen van de interne afsprakennota worden vooraf meegedeeld en toegelicht en kunnen op zijn vroegst toegepast worden dertig dagen na de kennisgeving ervan aan de bewoner en de gebruikersraad.</p>
 
@@ -5879,34 +5884,34 @@ Wijzigingen van de interne afsprakennota worden vooraf meegedeeld en toegelicht 
 
 ### ART 15.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer verbindt er zich toe een bewoner niet te ontslaan tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.</span></span><br>
+<p>De initiatiefnemer verbindt er zich toe een bewoner niet te ontslaan tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de initiatiefnemer een bewoner ontslaat omdat zijn gedragingen ernstig storend zijn voor de medebewoners of voor de werking van de groep van assistentiewoningen, of omdat zijn gezondheidstoestand van dien aard is, dat een overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel van de behandelende arts ingewonnen, in voorkomend geval, als dat relevant is, van de zorgaanbieders die betrokken zijn bij de zorg en ondersteuning aan de bewoner. </span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden. </span></span></p>
+Als de initiatiefnemer een bewoner ontslaat omdat zijn gedragingen ernstig storend zijn voor de medebewoners of voor de werking van de groep van assistentiewoningen, of omdat zijn gezondheidstoestand van dien aard is, dat een overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel van de behandelende arts ingewonnen en, in voorkomend geval, als dat relevant is, van de zorgaanbieders die betrokken zijn bij de zorg en ondersteuning aan de bewoner.<br>
+De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</p>
 
 ### ART 16.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§1. Als de kandidaat bewoner of zijn vertegenwoordiger de schriftelijke opnameovereenkomst voorafgaand aan de voorziene opnamedatum wil verbreken, wordt die verbreking door de kandidaatbewoner of zijn vertegenwoordiger aan de initiatiefnemer van de groep van assistentiewoningen betekend. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst.</span></span><br>
+<p>§1. Als de kandidaat-bewoner of zijn vertegenwoordiger de schriftelijke opnameovereenkomst voorafgaand aan de voorziene opnamedatum wil verbreken, wordt die verbreking door de kandidaat-bewoner of zijn vertegenwoordiger aan de initiatiefnemer van de groep van assistentiewoningen betekend. De procedure en de ontvankelijkheidsvereisten zijn bepaald in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De verbrekingsvergoeding bedraagt maximaal veertien keer de verschuldigde dagprijs. Bovenop dat bedrag kunnen geen extra vergoedingen aangerekend worden.</span></span><br>
+De verbrekingsvergoeding bedraagt maximaal veertien keer de verschuldigde dagprijs. Bovenop dat bedrag kunnen geen extra vergoedingen aangerekend worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">§2. In afwijking van paragraaf 1, maakt het overlijden van de kandidaat bewoner voorafgaand aan de effectieve opname in de groep van assistentiewoningen een einde aan de schriftelijke opnameovereenkomst. In dat geval mag geen verbrekingsvergoeding gevraagd worden.</span></span></p>
+§2. In afwijking van paragraaf 1, maakt het overlijden van de kandidaat-bewoner voorafgaand aan de effectieve opname in de groep van assistentiewoningen een einde aan de schriftelijke opnameovereenkomst. In dat geval mag geen verbrekingsvergoeding gevraagd worden.</p>
 
 ### ART 17.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de bewoner of zijn vertegenwoordiger na opname de schriftelijke opnameovereenkomst wil beëindigen, bedraagt de opzeggingstermijn dertig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de initiatiefnemer van de groep van assistentiewoningen. </span></span><br>
+<p>Als de bewoner of zijn vertegenwoordiger na opname de schriftelijke opnameovereenkomst wil beëindigen, bedraagt de opzeggingstermijn dertig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de initiatiefnemer van de groep van assistentiewoningen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de initiatiefnemer van de groep van assistentiewoningen de overeenkomst wil beëindigen, bedraagt de opzeggingstermijn zestig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de bewoner. </span></span><br>
+Als de initiatiefnemer van de groep van assistentiewoningen de overeenkomst wil beëindigen, bedraagt de opzeggingstermijn zestig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de bewoner.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De ontvankelijkheidsvereisten voor de betekening van de opzegging zijn bepaald in de overeenkomst.</span></span><br>
+De ontvankelijkheidsvereisten voor de betekening van de opzegging zijn bepaald in de overeenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De eerste dertig dagen van het verblijf worden beschouwd als een proefperiode. De opzeggingstermijn wordt in die periode zowel voor de bewoner als voor de initiatiefnemer van de groep van assistentiewoningen beperkt tot zeven dagen.</span></span><br>
+De eerste dertig dagen van het verblijf worden beschouwd als een proefperiode. De opzeggingstermijn wordt in die periode zowel voor de bewoner als voor de initiatiefnemer van de groep van assistentiewoningen beperkt tot zeven dagen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Gedurende de opzeggingstermijn mag er boven op de verschuldigde dagprijs geen extra opzegvergoeding aangerekend worden, ongeacht wie de overeenkomst beëindigt.</span></span><br>
+Gedurende de opzeggingstermijn mag er boven op de verschuldigde dagprijs geen extra opzegvergoeding aangerekend worden, ongeacht wie de overeenkomst beëindigt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als een assistentiewoning ontruimd en opnieuw bewoond wordt binnen de opzeggingstermijn, kan de dagprijs alleen worden aangerekend tot de dag die voorafgaat aan de nieuwe bewoning.</span></span><br>
+Als een assistentiewoning ontruimd en opnieuw bewoond wordt binnen de opzeggingstermijn, kan de dagprijs alleen worden aangerekend tot de dag die voorafgaat aan de nieuwe bewoning.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de assistentiewoning niet binnen de bepaalde termijn ontruimd is, ontruimt de beheersinstantie de assistentiewoning zelf en slaat de persoonlijke bezittingen van de bewoner op. Daarvoor kunnen tegen marktconforme prijzen opslagkosten aangerekend worden. Als de bewoner of zijn vertegenwoordiger de goederen niet ophaalt binnen de drie maandenna de beeïndiging van de overeenkomst, ze verwijderd zullen worden uit de groep van assistentiewoningen op kosten van de bewoner of zijn vertegenwoordiger volgens de regels bepaald in de schriftelijke opnameovereenkomst.</span></span></p>
+Als de assistentiewoning niet binnen de bepaalde termijn ontruimd is, ontruimt de beheersinstantie de assistentiewoning zelf en slaat de persoonlijke bezittingen van de bewoner op. Daarvoor kunnen tegen marktconforme prijzen opslagkosten aangerekend worden. Als de bewoner of diens vertegenwoordiger de goederen niet ophaalt binnen drie maanden na de beëindiging van de overeenkomst, worden ze verwijderd uit de groep van assistentiewoningen op kosten van de bewoner of diens vertegenwoordiger volgens de regels, vermeld in de schriftelijke opnameovereenkomst.</p>
 
 ### ART 18.
 
@@ -5940,19 +5945,19 @@ Een aanpassing van de dagprijs of van de extra vergoedingen als vermeld in het e
 
 ### ART 22.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dagprijs dekt minstens de kosten van de volgende zorg en ondersteuning: </span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de functie van de woonassistent, vermeld in artikel 33;</span></span></span></span><span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><br>
-<span style="color:black">2°&nbsp;het gebruik van elk noodoproepsysteem, inclusief het beantwoorden van de oproep en, indien nodig, de vaststelling van de noodsituatie ter plaatse;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de garantie van crisiszorg en overbruggingszorg, met uitzondering van de reële kosten van die zorg; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;als het geen sociale assistentiewoning betreft, het gebruik en het onderhoud van de ontmoetings- en gemeenschappelijke ruimten.</span></span></span></span><br>
+<p>De dagprijs dekt minstens de kosten van de volgende zorg en ondersteuning:<br>
+1°&nbsp;de functie van de woonassistent, vermeld in artikel 33;<br>
+2°&nbsp;het gebruik van elk noodoproepsysteem, inclusief het beantwoorden van de oproep en, indien nodig, de vaststelling van de noodsituatie ter plaatse;<br>
+3°&nbsp;de garantie van crisiszorg en overbruggingszorg, met uitzondering van de reële kosten van die zorg;<br>
+4°&nbsp;als het geen sociale assistentiewoning betreft, het gebruik en het onderhoud van de ontmoetings- en gemeenschappelijke ruimten.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dagprijs dekt ook de kosten van het genotsrecht van de assistentiewoning, tenzij de bewoner voor dat gebruik geen kosten hoeft te betalen aan de initiatiefnemer. Die kosten van het genotsrecht van de assistentiewoning zijn gebaseerd op de reële uitgaven die verband houden met het gebruik van de assistentiewoning.</span></span><br>
+De dagprijs dekt ook de kosten van het genotsrecht van de assistentiewoning, tenzij de bewoner voor dat gebruik geen kosten hoeft te betalen aan de initiatiefnemer. Die kosten van het genotsrecht van de assistentiewoning zijn gebaseerd op de reële uitgaven die verband houden met het gebruik van de assistentiewoning.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De dagprijs kan in geen geval de kosten dekken van de zorg die de bewoner vrij kan kiezen conform artikel 6, en de syndicuskosten.</span></span><br>
+De dagprijs kan in geen geval de kosten dekken van de zorg die de bewoner vrij kan kiezen conform artikel 6 en ook niet de syndicuskosten.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de dagprijs betrekking heeft op de kosten van de zorg en ondersteuning, vermeld in het eerste lid, is hij gelijk voor alle bewoners van de groep van assistentiewoningen. Een bewoner betaalt dezelfde prijs voor de zorg en ondersteuning, ongeacht of hij een genotsrecht betaalt of niet, en ongeacht de grootte van de prijs van het genotsrecht. Bij bewoning van de assistentiewoningen door twee of meer personen kan een verlaagde prijs voor de zorg en ondersteuning aangerekend worden.</span></span><br>
+Als de dagprijs betrekking heeft op de kosten van de zorg en ondersteuning, vermeld in het eerste lid, is hij gelijk voor alle bewoners van de groep van assistentiewoningen. Een bewoner betaalt dezelfde prijs voor de zorg en ondersteuning, ongeacht of hij een genotsrecht betaalt of niet, en ongeacht de grootte van de prijs van het genotsrecht. Bij bewoning van de assistentiewoningen door twee of meer personen kan een verlaagde prijs voor de zorg en ondersteuning aangerekend worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De informatie over de van toepassing zijnde dagprijs wordt geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden en wordt vermeld in een onthaalbrochure of op de website van de groep van assistentiewoningen.&nbsp;</span></span></p>
+De informatie over de van toepassing zijnde dagprijs wordt geafficheerd op een centrale plaats die toegankelijk is voor alle gebruikers, bezoekers en personeelsleden en wordt vermeld in een onthaalbrochure of op de website van de groep van assistentiewoningen.&nbsp;</p>
 
 ### ART 23.
 
@@ -5962,7 +5967,7 @@ Een aanpassing van de dagprijs of van de extra vergoedingen als vermeld in het e
 
 ### ART 24.
 
-<span style="font-size:10.0pt"><span style="font-family:&quot;Verdana&quot;,sans-serif">Het beheer van gelden of goederen van de bewoner of het bewaren ervan kan in geen geval aan de initiatiefnemer, de beheersinstantie of aan personeel van de groep van assistentiewoningen worden toevertrouwd, met uitzondering van de verrekening van kosten die rechtstreeks met het verblijf in de assistentiewoning te maken hebben, volgens de voorwaarden die met de bewoner zijn overeengekomen. Het gebruik van een elektronisch betalingssysteem dat alleen wordt gebruikt voor de verrekening van kosten die rechtstreeks met de betaling van de factuur van het verblijf in de assisteniewoning te maken hebben, wordt niet beschouwd als een beheer van gelden en goederen. Het gebruik van een elektronisch betalingssysteem mag niet verplicht worden.</span></span>
+Het beheer van gelden of goederen van de bewoner of het bewaren ervan kan in geen geval aan de initiatiefnemer, de beheersinstantie of aan personeel van de groep van assistentiewoningen worden toevertrouwd, met uitzondering van de verrekening van kosten die rechtstreeks met het verblijf in de assistentiewoning te maken hebben, volgens de voorwaarden die met de bewoner zijn overeengekomen. Het gebruik van een elektronisch betalingssysteem dat alleen wordt gebruikt voor de verrekening van kosten die rechtstreeks met de betaling van de factuur van het verblijf in de assistentiewoning te maken hebben, wordt niet beschouwd als een beheer van gelden en goederen. Het gebruik van een elektronisch betalingssysteem mag niet verplicht worden.
 
 ## Onderafdeling 2. Bepalingen over zorg en ondersteuning en kwaliteit van zorg en ondersteuning
 
@@ -5979,20 +5984,20 @@ Een aanpassing van de dagprijs of van de extra vergoedingen als vermeld in het e
 ### ART 27.
 
 <p>Met behoud van de toepassing van artikel 8 en 9 van dit besluit bevat het kwaliteitshandboek van elke groep van assistentiewoningen minstens een beschrijving van de volgende elementen:<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een inleiding, met daarin de inhoudsopgave, een aantal algemene inlichtingen over de voorziening, de vermelding van de verantwoordelijke die met het kwaliteitsbeleid is belast;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het kwaliteitsbeleid waarin de opdrachtsverklaring en het zorg- en ondersteuningsaanbod opgenomen zijn;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het kwaliteitsmanagementsysteem, vermeld in artikel 4 en 5 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, met conditionele, operationele en garantie-elementen.</span></span></span></span>µ<br>
+1°&nbsp;een inleiding, met daarin de inhoudsopgave, een aantal algemene inlichtingen over de voorziening en de vermelding van de verantwoordelijke die met het kwaliteitsbeleid is belast;<br>
+2°&nbsp;het kwaliteitsbeleid waarin de opdrachtsverklaring en het zorg- en ondersteuningsaanbod opgenomen zijn;<br>
+3°&nbsp;het kwaliteitsmanagementsysteem, vermeld in artikel 4 en 5 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, met conditionele, operationele en garantie-elementen.µ<br>
 <br>
 Het kwaliteitsmanagementsysteem, vermeld in het eerste lid, 3°, bevat minstens de volgende elementen:<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het organogram;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de functieomschrijvingen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de overleg- en communicatiekanalen;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de middelen: personeel, budget en kwaliteitsmethodieken;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;het vormingsbeleid.</span></span></span></span><br>
+1°&nbsp;het organogram;<br>
+2°&nbsp;de functieomschrijvingen;<br>
+3°&nbsp;de overleg- en communicatiekanalen;<br>
+4°&nbsp;de middelen: personeel, budget en kwaliteitsmethodieken;<br>
+5°&nbsp;het vormingsbeleid.<br>
 <br>
-Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, worden minstens de volgende procedures beschreven:<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de volgende primaire processen:<br>
-&nbsp; a)&nbsp;</span></span></span></span>de procedure voor het onthaal en de opname;<br>
+Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, beschrijft minstens de volgende procedures:<br>
+1°&nbsp;de volgende primaire processen:<br>
+&nbsp; a)&nbsp;de procedure voor het onthaal en de opname;<br>
 &nbsp; b)&nbsp;de procedure voor de doorverwijzing;<br>
 &nbsp; c)&nbsp;de procedure voor het vrijwillig ontslag, verplicht ontslag en overlijden;<br>
 &nbsp; d)&nbsp;de procedure om informatie over de gebruiker te verwerven en door te geven rekening houdend met de vereiste van een behoorlijk gebruikers- en toegangsbeheer en een veilige uitwisseling van persoonsgegeven tussen de betrokken actoren;<br>
@@ -6000,11 +6005,11 @@ Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, worden minstens de v
 &nbsp; f)&nbsp;de procedure om vanuit een klachtenanalyse te komen tot correctieve en preventieve maatregelen;<br>
 &nbsp; g)&nbsp;de procedure voor grensoverschrijdend gedrag;<br>
 &nbsp; h)&nbsp;de procedure voor collectieve inspraak van de gebruiker met betrekking tot de algemene werking;<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de volgende secundaire processen:<br>
-&nbsp; a)&nbsp;</span></span></span></span>de procedure om de schoonmaak van de gemeenschappelijke delen te plannen en te organiseren;<br>
+2°&nbsp;de volgende secundaire processen:<br>
+&nbsp; a)&nbsp;de procedure om de schoonmaak van de gemeenschappelijke delen te plannen en te organiseren;<br>
 &nbsp; b)&nbsp;de procedure voor facturatie ten aanzien van de gebruiker;<br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3° de volgende managementprocessen:<br>
-&nbsp; a)&nbsp;</span></span></span></span>de procedure om het functioneren van de woonassistent te bespreken;<br>
+3° de volgende managementprocessen:<br>
+&nbsp; a)&nbsp;de procedure om het functioneren van de woonassistent te bespreken;<br>
 &nbsp; b)&nbsp;de procedure om de documenten van het kwaliteitshandboek te beheren;<br>
 &nbsp; c)&nbsp;de procedure om de inhoud van het kwaliteitshandboek te plannen, uit te voeren en bij te sturen.</p>
 
@@ -6012,11 +6017,11 @@ Het kwaliteitsmanagementsyteem, vermeld in eerste lid, 3°, worden minstens de v
 
 ### ART 28.
 
-<p>§1. De beheersinstantie richt een gebruikersraad op die ten minste één keer per trimester vergadert. Die raad is samengesteld uit bewoners en familieleden of mantelzorgers. De samenstelling van de gebruikersraad kan veranderen maar de beheersinstantie waarborgt dat de bewoners altijd minstens de helft van de aanwezigen uitmaken.<br>
+<p>§1. De beheersinstantie richt een gebruikersraad op die ten minste één keer per trimester vergadert. Die raad is samengesteld uit bewoners en familieleden of mantelzorgers. De samenstelling van de gebruikersraad kan veranderen, maar de beheersinstantie waarborgt dat de bewoners altijd minstens de helft van de aanwezigen uitmaken.<br>
 <br>
 Op verzoek van bewoners en familieleden of mantelzorgers kan een onafhankelijk vertegenwoordiger vanuit de gebruikers- of mantelzorgvereniging worden uitgenodigd. De verenigingen maken daar onderling afspraken over. Als de beheersinstantie niet kan tegemoetkomen aan de gestelde vraag, motiveert die deze keuze.<br>
 <br>
-De gebruikersraad kan advies uitbrengen op eigen initiatief of op verzoek van de beheersinstantie over alle aangelegenheden die de algemene werking van de groep van assistentiewoningen betreffen. Van de vergaderingen van de raad wordt een verslag opgemaakt dat aan alle bewoners of hun vertegenwoordigers bezorgd wordt. de administratie kan die verslagen inkijken.<br>
+De gebruikersraad kan advies uitbrengen op eigen initiatief of op verzoek van de beheersinstantie over alle aangelegenheden die de algemene werking van de groep van assistentiewoningen betreffen. Van de vergaderingen van de raad wordt een verslag opgemaakt dat aan alle bewoners of hun vertegenwoordigers bezorgd wordt. De administratie kan die verslagen inkijken.<br>
 <br>
 De beheersinstantie en de woonassistent van de groep van assistentiewoningen worden uitgenodigd om de vergaderingen van de raad bij te wonen.<br>
 <br>
@@ -6024,7 +6029,7 @@ De beheersinstantie kan aantonen dat de opmerkingen en suggesties die aan bod kw
 <br>
 §2. Elke betrokkene heeft de mogelijkheid om een klacht, suggestie of opmerking te uiten over de werking van de groep van assistentiewoningen. De beheersinstantie werkt daarvoor een klachtenprocedure uit en maakt die bekend op de website of in de onthaalbrochure. De beheersinstantie wijst een klachtenbehandelaar aan. Suggesties, opmerkingen of klachten kunnen rechtstreeks, zowel schriftelijk als mondeling, door elke betrokkene aan die persoon worden meegedeeld.<br>
 <br>
-De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. de administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen garanties dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.<br>
+De klachtenbehandelaar verzamelt de ingediende suggesties, opmerkingen of klachten en anonimiseert deze gegevens. De administratie kan daarvan inzage nemen. Het gevolg dat aan een klacht wordt gegeven, wordt rechtstreeks en binnen de termijn, vermeld in de klachtenprocedure, aan de indiener ervan meegedeeld. Indieners krijgen garantie dat op hun klacht binnen een redelijke termijn feedback wordt gegeven.<br>
 <br>
 De beheersinstantie zorgt voor periodieke informatie over de klachtenbehandeling aan alle bewoners, hun vertegenwoordigers en mantelzorgers. Op basis van een periodieke analyse van de klachten formuleert de beheersinstantie correctieve en preventieve maatregelen.<br>
 <br>
@@ -6069,18 +6074,18 @@ Het aangestelde personeel van de administratie is gemachtigd om kennis te nemen 
 
 ### ART 33.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De woonassistent is het unieke aanspreekpunt voor de gebruikers van de groep van assistentiewoningen en vervult de volgende opdrachten:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de bereikbaarheid gedurende de dag en de nacht via een noodoproepsysteem en de crisis- en overbruggingszorg organiseren en opvolgen, al dan niet via een samenwerkingsovereenkomst met zorg- en welzijnsactoren uit de omgeving;</span></span></span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;in overleg met de bewoner en zijn mantelzorger, de zelfredzaamheid actief en proactief stimuleren en opvolgen;<br>
-3°&nbsp;</span></span></span></span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">objectieve en transparante informatie geven over de verschillende mogelijkheden tot interne en externe zorg en ondersteuning;<br>
-4°&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">het integrale aanbod van zorg en ondersteuning, met respect voor de vrije keuze van de gebruiker, binnen het bereik van de gebruikers brengen;<br>
-5°&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">objectief informeren over zinvolle dagbesteding en ontspanning, die binnen het bereik brengen of zelf organiseren;<br>
-6°&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de sociale contacten van de gebruikers stimuleren en het sociale netwerk versterken;<br>
-7°&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">buurtbewoners en lokale organisaties verbinden met de werking van de groep van assistentiewoningen.</span><br>
+<p>De woonassistent is het unieke aanspreekpunt voor de gebruikers van de groep van assistentiewoningen en vervult de volgende opdrachten:<br>
+1°&nbsp;de bereikbaarheid gedurende de dag en de nacht via een noodoproepsysteem en de crisis- en overbruggingszorg organiseren en opvolgen, al dan niet via een samenwerkingsovereenkomst met zorg- en welzijnsactoren uit de omgeving;<br>
+2°&nbsp;in overleg met de bewoner en zijn mantelzorger, de zelfredzaamheid actief en proactief stimuleren en opvolgen;<br>
+3°&nbsp;objectieve en transparante informatie geven over de verschillende mogelijkheden tot interne en externe zorg en ondersteuning;<br>
+4°&nbsp;het integrale aanbod van zorg en ondersteuning, met respect voor de vrije keuze van de gebruiker, binnen het bereik van de gebruikers brengen;<br>
+5°&nbsp;objectief informeren over zinvolle dagbesteding en ontspanning, die binnen het bereik brengen of zelf organiseren;<br>
+6°&nbsp;de sociale contacten van de gebruikers stimuleren en het sociale netwerk versterken;<br>
+7°&nbsp;buurtbewoners en lokale organisaties verbinden met de werking van de groep van assistentiewoningen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De beheersinstantie kan de opdrachten toewijzen aan een of meerpersonen. De woonassistent is minstens één keer per week aanwezig en dagelijks tijdens de kantooruren aanspreekbaar voor de gebruikers van de groep van assistentiewoningen. </span></span><br>
+De beheersinstantie kan de opdrachten toewijzen aan een of meer personen. De woonassistent is minstens één keer per week aanwezig en dagelijks tijdens de kantooruren aanspreekbaar voor de gebruikers van de groep van assistentiewoningen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Wat de infrastructuur betreft, werkt hij in voorkomend geval samen met de aangeduide syndicus. De functie van woonassistent is niet verenigbaar met de taak als syndicus.</span></span></p>
+Wat de infrastructuur betreft, werkt hij in voorkomend geval samen met de aangeduide syndicus. De functie van woonassistent is niet verenigbaar met de taak als syndicus.</p>
 
 ### ART 34.
 
@@ -6108,7 +6113,7 @@ Het aangestelde personeel van de administratie is gemachtigd om kennis te nemen 
 3°&nbsp;de nodige maatregelen worden genomen om vochtproblemen, de insijpeling van water of hinder van welke aard ook te voorkomen;<br>
 4°&nbsp;het afval wordt zo bewaard dat geen geurhinder of andere hinder ontstaat;<br>
 5°&nbsp;in alle lokalen zijn de verwarming, de ventilatie en de verlichting aangepast aan de bestemming van het lokaal;<br>
-6°&nbsp;in de assistentiewoningen en de gemeenschappelijke ruimten, met uitzondering van de gangen, kan de temperatuur overdag minstens 22°C bedragen. Alle nuttige maatregelen worden genomen om in die ruimen een temperatuur van maximaal 26°C, als de waarschuwingsfase van het Vlaamse warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren;<br>
+6°&nbsp;in de assistentiewoningen en de gemeenschappelijke ruimten, met uitzondering van de gangen, kan de temperatuur overdag minstens 22°C bedragen. Alle nuttige maatregelen worden genomen om in die ruimten een temperatuur van maximaal 26°C en als de waarschuwingsfase van het Vlaamse warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren;<br>
 7°&nbsp;zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, en waarbij oververhitting en verblinding van bewoners door direct zonlicht vermeden wordt, wordt, waar nodig, aangebracht;<br>
 8°&nbsp;in alle ruimten die toegankelijk zijn voor de bewoners, worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden;<br>
 9°&nbsp;om zich te verplaatsen in het gebouw kunnen de bewoners zich behelpen met leuningen en handgrepen. Ook in de gemeenschappelijke sanitaire ruimten zijn leuningen en handgrepen aangebracht;<br>
@@ -6154,7 +6159,7 @@ Het genotsrecht van de sociale assistentiewoning wordt geregeld in een overeenko
 
 ### ART 42.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Per erkende groep van assistentiewoningen kan een aantal assistentiewoningen worden aangeboden aan gebruikers, die jonger dan 65 jaar zijn. Maximaal 25 % van het totale aantal erkende assistentiewoningen van de groep kan daarvoor in aanmerking komen. De minister kan nadere voorwaarden voor die gebruikers bepalen.</span></span></p>
+<p>Per erkende groep van assistentiewoningen kan een aantal assistentiewoningen worden aangeboden aan gebruikers die jonger dan 65 jaar zijn. Maximaal 25 % van het totale aantal erkende assistentiewoningen van de groep kan daarvoor in aanmerking komen. De minister kan nadere voorwaarden voor die gebruikers bepalen.</p>
 
 ## Hoofdstuk 5. Overgangsbepalingen
 
@@ -6186,9 +6191,9 @@ Het genotsrecht van de sociale assistentiewoning wordt geregeld in een overeenko
 
 ### ART 47.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De groepen van assistentiewoningen die op op 31 december 2019 aangemeld zijn en waarvoor de initiatiefnemer na 1 januari 2013 over een omgevingsvergunning beschikte, kunnen erkend worden als groep van assistentiewoningen als ze uiterlijk op 31 december 2021 een ontvankelijke erkenningsaanvraag hebben ingediend. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 6 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.</span></span><br>
+<p>De groepen van assistentiewoningen die op 31 december 2019 aangemeld zijn en waarvoor de initiatiefnemer na 1 januari 2013 over een omgevingsvergunning beschikte, kunnen erkend worden als groep van assistentiewoningen als ze uiterlijk op 31 december 2021 een ontvankelijke erkenningsaanvraag hebben ingediend. Ze beantwoorden uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 6 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Als de aangemelde groep van assistentiewoningen op 31 december 2021 geen ontvankelijke erkenningsaanvraag heeft ingediend, kan hij niet langer als groep van assistentiewoningen uitgebaat worden.</span></span></p>
+Als de aangemelde groep van assistentiewoningen op 31 december 2021 geen ontvankelijke erkenningsaanvraag heeft ingediend, kan hij niet langer als groep van assistentiewoningen uitgebaat worden.</p>
 
 ### ART 48.
 
@@ -6212,15 +6217,15 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 1.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In deze bijlage wordt verstaan onder:</span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;afdeling: een groep van woongelegenheden die als een organisatorisch geheel wordt beschouwd en een of meer leefgroepen kan omvatten;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;beheersinstantie: één of meer personen die het woonzorgcentrum vertegenwoordigen en juridisch kunnen verbinden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;...;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;bewoner: een gebruiker die in het woonzorgcentrum verblijft;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;dagprijs: de prijs per dag die de bewoner of zijn vertegenwoordiger moet betaald worden en die minstens de kostprijselementen omvat voor huisvesting en verzorging van de bewoner, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;interdisciplinair team: een team waarin verschillende zorg- en welzijns-georiënteerde disciplines samenwerken met het oog op een gezamenlijk doel, namelijk een kwaliteitsvolle zorg en ondersteuning van de bewoners. De kennis, de competenties en de perspectieven van de diverse disciplines zijn complementair aan elkaar. Ze hanteren daarbij dezelfde gemeenschappelijke taal en zorglogica;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;leefgroep: een groep van bewoners die samen een aantal gemeenschappelijke ruimten delen, namelijk de zit- en eetruimte en gemeenschappelijk sanitair;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;verblijfsruimte: de individuele bewonerskamers en gemeenschappelijke ruimten die toegankelijk zijn voor de bewoners.</span></span></span></span></p>
+<p>In deze bijlage wordt verstaan onder:<br>
+1°&nbsp;afdeling: een groep van woongelegenheden die als een organisatorisch geheel wordt beschouwd en een of meer leefgroepen kan omvatten;<br>
+2°&nbsp;beheersinstantie: één of meer personen die het woonzorgcentrum vertegenwoordigen en juridisch kunnen verbinden;<br>
+3°&nbsp;...;<br>
+4°&nbsp;bewoner: een gebruiker die in het woonzorgcentrum verblijft;<br>
+5°&nbsp;dagprijs: de prijs per dag die door de bewoner of zijn vertegenwoordiger moet betaald worden en die minstens de kostprijselementen omvat voor huisvesting en verzorging van de bewoner, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum;<br>
+6°&nbsp;interdisciplinair team: een team waarin verschillende zorg- en welzijns-georiënteerde disciplines samenwerken met het oog op een gezamenlijk doel, namelijk een kwaliteitsvolle zorg en ondersteuning van de bewoners. De kennis, de competenties en de perspectieven van de diverse disciplines zijn complementair aan elkaar. Ze hanteren daarbij dezelfde gemeenschappelijke taal en zorglogica;<br>
+7°&nbsp;leefgroep: een groep van bewoners die samen een aantal gemeenschappelijke ruimten delen, namelijk de zit- en eetruimte en gemeenschappelijk sanitair;<br>
+8°&nbsp;verblijfsruimte: de individuele bewonerskamers en gemeenschappelijke ruimten die toegankelijk zijn voor de bewoners.</p>
 
 ## Hoofdstuk 2. Programmatie
 
@@ -6232,31 +6237,31 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 3.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§1. De programmacijfers voor de woonzorgcentra, vermeld in artikel 2, 1°, worden op de volgende wijze bepaald: </span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;één woongelegenheid per 100 ouderen in de leeftijdsgroep 65 tot 74 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;4 woongelegenheden per 100 ouderen in de leeftijdsgroep 75 tot 79 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;12 woongelegenheden per 100 ouderen in de leeftijdsgroep 80 tot 84 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;23 woongelegenheden per 100 ouderen in de leeftijdsgroep 85 tot 89 jaar;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;32 woongelegenheden per 100 ouderen in de leeftijdsgroep 90 jaar en ouder. Het aantal woongelegenheden dat zo verkregen wordt, wordt vermenigvuldigd met 1,047.</span></span></span></span><br>
+<p>§1. De programmacijfers voor de woonzorgcentra, vermeld in artikel 2, 1°, worden op de volgende wijze bepaald:<br>
+1°&nbsp;één woongelegenheid per 100 ouderen in de leeftijdsgroep 65 tot 74 jaar;<br>
+2°&nbsp;4 woongelegenheden per 100 ouderen in de leeftijdsgroep 75 tot 79 jaar;<br>
+3°&nbsp;12 woongelegenheden per 100 ouderen in de leeftijdsgroep 80 tot 84 jaar;<br>
+4°&nbsp;23 woongelegenheden per 100 ouderen in de leeftijdsgroep 85 tot 89 jaar;<br>
+5°&nbsp;32 woongelegenheden per 100 ouderen in de leeftijdsgroep 90 jaar en ouder. Het aantal woongelegenheden dat zo verkregen wordt, wordt vermenigvuldigd met 1,047.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§2. Voor de toepassing van de programmacijfers, vermeld in paragraaf 1, wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar van de aanvraag van een voorafgaande vergunning. Die bevolkingsprojectie wordt door de minister vastgelegd en moet minstens aan de volgende voorwaarden voldoen:</span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;ze is per afzonderlijk kalenderjaar opgesteld;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;ze is regionaal tot op het niveau van de gemeenten binnen het Nederlandse taalgebied gedifferentieerd; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;ze is volgens de leeftijdsgroepen 65 tot 74 jaar, 75 tot 79 jaar, 80 tot 84 jaar, 85 tot 89 jaar en 90 jaar en ouder opgesteld.</span></span></span></span><br>
+§2. Voor de toepassing van de programmacijfers, vermeld in paragraaf 1, wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar van de aanvraag van een voorafgaande vergunning. Die bevolkingsprojectie wordt door de minister vastgelegd en moet minstens aan de volgende voorwaarden voldoen:<br>
+1°&nbsp;ze is per kalenderjaar opgesteld;<br>
+2°&nbsp;ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br>
+3°&nbsp;ze is regionaal tot op het niveau van de gemeenten binnen het Nederlandse taalgebied gedifferentieerd;<br>
+4°&nbsp;ze is volgens de leeftijdsgroepen 65 tot 74 jaar, 75 tot 79 jaar, 80 tot 84 jaar, 85 tot 89 jaar en 90 jaar en ouder opgesteld.<br>
 <br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">§3. De minister legt de evaluatiecriteria voor de woonzorgcentra vast, vermeld in artikel 2, 2°, worden door de minister vastgelegd. De minister houdt daarbij onder meer rekening met:</span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de verhouding van het totale aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden tot het programmacijfer voor de gemeente in kwestie of voor het werkingsgebied;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het huidige of toekomstige profiel van het centrum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;een verslag van de initiatiefnemer waaruit blijkt dat het initiatief inspeelt op de noden van het beoogde werkingsgebied en op de lokale beleidsintenties;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de visie op wonen, leven en zorg- en ondersteuning in het woonzorgcentrum;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de verwachte rentabiliteit en prijszetting;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de professionele kwaliteitsgaranties van de initiatiefnemer.</span></span></span></span><br>
+§3. De minister legt de evaluatiecriteria voor de woonzorgcentra, vermeld in artikel 2, 2°, vast. De minister houdt daarbij onder meer rekening met:<br>
+1°&nbsp;de verhouding van het totale aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden tot het programmacijfer voor de gemeente in kwestie of voor het werkingsgebied;<br>
+2°&nbsp;het huidige of toekomstige profiel van het centrum;<br>
+3°&nbsp;een verslag van de initiatiefnemer waaruit blijkt dat het initiatief inspeelt op de noden van het beoogde werkingsgebied en op de lokale beleidsintenties;<br>
+4°&nbsp;de visie op wonen, leven en zorg- en ondersteuning in het woonzorgcentrum;<br>
+5°&nbsp;de verwachte rentabiliteit en prijszetting;<br>
+6°&nbsp;de professionele kwaliteitsgaranties van de initiatiefnemer.<br>
 <br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">In het eerste lid wordt verstaan onder werkingsgebied:</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;voor een gemeente die minder dan 10 000 ouderen boven de 65 jaar telt: de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van de aangrenzende gemeenten die meer dan 10 000 ouderen boven de 65 jaar tellen en waarvan het programmacijfer al overschreden is; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;voor een gemeente die minstens 10 000 ouderen boven de 65 jaar telt: de gemeente zelf.</span></span></span></span></p>
+In het eerste lid wordt verstaan onder werkingsgebied:<br>
+1°&nbsp;voor een gemeente die minder dan 10 000 ouderen boven de 65 jaar telt: de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van de aangrenzende gemeenten die meer dan 10 000 ouderen boven de 65 jaar tellen en waarvan het programmacijfer al overschreden is;<br>
+2°&nbsp;voor een gemeente die minstens 10 000 ouderen boven de 65 jaar telt: de gemeente zelf.</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -6264,7 +6269,7 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 4.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Aanvullend op artikel 4, 7, 8, 33 tot en met 35, 39, §2, artikelen 49 en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van woonzorgcentra de specifieke voorwaarden van dit hoofdstuk.</span></span></span></p>
+<p>Aanvullend op artikel 4, 7, 8, 33 tot en met 35, 39, §2, en artikel 49 en 59 van het Woonzorgdecreet van 15 februari 2019 gelden voor de erkenning van woonzorgcentra de specifieke voorwaarden van dit hoofdstuk.</p>
 
 ## Afdeling 2. Voorwaarden voor de zorg en ondersteuning
 
@@ -6272,24 +6277,24 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 5.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De initiatiefnemer mag geen opname- of ontslagcriteria hanteren die betrekking hebben op:</span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de bewoner;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de seksuele oriëntatie en genderidentiteit; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;het lidmaatschap van een organisatie of groepering;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de financiële draagkracht van de bewoner, met uitzondering van de situatie, vermeld in van artikel 527/1, vierde lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming; </span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de etnische afkomst van de bewoner;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;de voorkeuren die de bewoner geëxpliciteerde heeft voor zijn vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg, voor zover die voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;het dragerschap van micro-organismen waarvoor preventie van overdracht mogelijk is door het toepassen van de voorzorgsmaatregelen en voor zover dat dit dragerschap op dat moment geen risico vormt voor de andere bewoners.</span></span></span></span></p>
+<p>De initiatiefnemer mag geen opname- of ontslagcriteria hanteren die betrekking hebben op:<br>
+1°&nbsp;de ideologische, filosofische, politieke of godsdienstige overtuiging van de bewoner;<br>
+2°&nbsp;de seksuele geardheid en genderidentiteit;<br>
+3°&nbsp;het lidmaatschap van een organisatie of groepering;<br>
+4°&nbsp;de financiële draagkracht van de bewoner, met uitzondering van de situatie, vermeld in artikel 527/1, vierde lid, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+5°&nbsp;de etnische afkomst van de bewoner;<br>
+6°&nbsp;de voorkeuren die de bewoner geëxpliciteerd heeft voor zijn vroegtijdige zorgplanning, palliatieve zorg en levenseindezorg, voor zover die voorkeuren toegelaten zijn in overeenstemming met de bestaande regelgeving;<br>
+7°&nbsp;het dragerschap van micro-organismen waarvoor preventie van overdracht mogelijk is door het toepassen van de voorzorgsmaatregelen en voor zover dat dit dragerschap op dat moment geen risico vormt voor de andere bewoners.</p>
 
 ### ART 6.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De bewoner, zijn vertegenwoordiger, familie of mantelzorgers genieten de grootst mogelijke vrijheid. Het woonzorgcentrum kan die alleen beperken om verantwoorde organisatorische of medische</span> <span style="color:black">redenen en waarover duidelijk wordt gecommuniceerd.</span></span></span><br>
+<p>De bewoner, zijn vertegenwoordiger, familie of mantelzorgers genieten de grootst mogelijke vrijheid. Het woonzorgcentrum kan die alleen beperken om verantwoorde organisatorische of medische redenen waarover duidelijk wordt gecommuniceerd.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De bewoner of zijn vertegenwoordiger kan vrij zijn huisarts kiezen en, in voorkomend geval, het ziekenhuis waar hij opgenomen wil worden. Die vrije keuze wordt op geen enkele manier beïnvloed.</span></span></span><br>
+De bewoner of zijn vertegenwoordiger kan vrij zijn huisarts kiezen en, in voorkomend geval, het ziekenhuis waar hij opgenomen wil worden. Die vrije keuze wordt op geen enkele manier beïnvloed.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Het woonzorgcentrum kan geen totaal rookverbod opleggen. Als in de woongelegenheid die aan de bewoner ter beschikking wordt gesteld, niet gerookt mag worden, stelt het woonzorgcentrum een aangepaste, volwaardige rookruimte ter beschikking, die voldoende groot en vlot bereikbaar is voor de bewoners. Die ruimte is afsluitbaar en heeft een aangepaste ventilatie.</span></span></span><br>
+Het woonzorgcentrum kan geen totaal rookverbod opleggen. Als in de woongelegenheid die aan de bewoner ter beschikking wordt gesteld, niet gerookt mag worden, stelt het woonzorgcentrum een aangepaste, volwaardige rookruimte ter beschikking, die voldoende groot en vlot bereikbaar is voor de bewoners. Die ruimte is afsluitbaar en heeft een aangepaste ventilatie.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Bezoek is altijd toegestaan. Als op sommige tijdstippen bezoek minder gewenst is, communiceert het woonzorgcentrum daarover. </span></span></span></p>
+Bezoek is altijd toegestaan. Als op sommige tijdstippen bezoek minder gewenst is, communiceert het woonzorgcentrum daarover.</p>
 
 ### ART 7.
 
@@ -6301,7 +6306,7 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 9.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Behalve met zijn uitdrukkelijke akkoord, of dat van zijn vertegenwoordiger of om een ernstige reden die ertoe leidt dat een adequate zorg en ondersteuning in de toegewezen woongelegenheid onmogelijk wordt gemaakt, mag aan de bewoner geen andere woongelegenheid in een eenpersoonskamer of een tweepersoonskamer worden toegewezen dan die welke hem bij de opname is toegekend.</span></span></span></p>
+<p>Behalve met zijn uitdrukkelijke akkoord, of dat van zijn vertegenwoordiger, of om een ernstige reden die ertoe leidt dat een adequate zorg en ondersteuning in de toegewezen woongelegenheid onmogelijk wordt gemaakt, mag aan de bewoner geen andere woongelegenheid in een eenpersoonskamer of een tweepersoonskamer worden toegewezen dan die welke hem bij de opname is toegekend.</p>
 
 ### ART 10.
 
@@ -6313,37 +6318,37 @@ Voorafgaande vergunningen voor groepen van assistentiewoningen die zijn verleend
 
 ### ART 12.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De opname wordt geconcretiseerd in een schriftelijke opnameovereenkomst die de belanghebbende partijen ondertekenen en die minstens de volgende bepalingen bevat:</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1° de volgende administratieve gegevens:<br>
-&nbsp; a)&nbsp;</span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de identificatiegegevens van de contracterende partijen;<br>
-&nbsp; b)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het erkenningsnummer van het woonzorgcentrum;&nbsp;<br>
-&nbsp; c)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de voorziene opnamedatum;<br>
-&nbsp; d)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de woongelegenheid in een één- of tweepersoonskamer die aan de bewoner bij de opname wordt toegewezen;</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de opname en ontslagprocedure die de volgende elementen bevat:<br>
-&nbsp; a)&nbsp;</span></span></span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de opnameprocedure en de opnamevoorwaarden;&nbsp;<br>
-&nbsp; b)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de regeling voor het verbreken van de overeenkomst vóór de vastgelegde opnamedatum. Het is niet toegestaan een reservatievergoeding aan te rekenen;<br>
-&nbsp; c)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de omstandigheden die aanleiding kunnen geven tot ontslag uit het woonzorgcentrum, de ontslagprocedure en de opzeggingstermijn;<br>
-&nbsp; d)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de wijze waarop de bewoner de overeenkomst kan beëindigd, en de toepasselijke opzeggingstermijn, in voorkomend geval, de regeling voor de verbrekingsvergoeding;&nbsp;<br>
-&nbsp; e)&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de specifieke regelingen bij tijdelijke afwezigheid of overlijden van de bewoner;</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de dagprijs en de facturatie die de volgende elementen worden bevatten:<br>
-&nbsp; a)&nbsp;</span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">het bedrag en de samenstelling van de dagprijs die van toepassing op de vastgelegde opnamedatum;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de bedragen, de reden en de periode van toegestane kortingen op de dagprijs;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de diensten en leveringen die aanleiding geven tot de aanrekening van een extra vergoeding;&nbsp;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de regeling voor voorschotten ten gunste van derden;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">een eventuele voorschotregeling voor de dagprijs;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de tarieven voor terugbetaling voor de niet-gebruikte leveringen en diensten;&nbsp;<br>
-&nbsp; g)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">in voorkomend geval, het bedrag van de waarborgsom en de mogelijke aanwending ervan of de regeling inzake borgstelling;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de percentages van de interesten en de procedure bij laattijdige betaling van de factuur;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de percentages van de interesten, de procedure en de ontvankelijkheids-vereisten bij niet-betaling van de factuur;</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de regelingen voor de aansprakelijkheid en de verzekeringen;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de vermelding dat de beheersinstantie geen goederen, noch gelden van de bewoner in beheer neemt, met uitzondering van het beheer van het zakgeld en de verrekening van kosten die rechtstreeks met het verblijf in het woonzorgcentrum te maken hebben;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">6° de wijze waarop de overeenkomst kan worden gewijzigd;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;de regeling voor het verwijderen van de persoonlijke goederen van de bewoner bij de beëindiging van de overeenkomst;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;een verklaring in eer en geweten van de bewoner of zijn vertegenwoordiger dat ze correcte informatie verschaffen aan het&nbsp;woonzorgcentrum. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de bewoner of zijn vertegenwoordiger aansprakelijk gesteld worden.</span></span></span><br>
+<p>De opname wordt geconcretiseerd in een schriftelijke opnameovereenkomst die de belanghebbende partijen ondertekenen en die minstens de volgende bepalingen bevat:<br>
+1° de volgende administratieve gegevens:<br>
+&nbsp; a)&nbsp;de identificatiegegevens van de contracterende partijen;<br>
+&nbsp; b)&nbsp;het erkenningsnummer van het woonzorgcentrum;&nbsp;<br>
+&nbsp; c)&nbsp;de voorziene opnamedatum;<br>
+&nbsp; d)&nbsp;de woongelegenheid in een één- of tweepersoonskamer die aan de bewoner bij de opname wordt toegewezen;<br>
+2°&nbsp;de opname en ontslagprocedure die de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de opnameprocedure en de opnamevoorwaarden;&nbsp;<br>
+&nbsp; b)&nbsp;de regeling voor het verbreken van de overeenkomst vóór de vastgelegde opnamedatum. Het is niet toegestaan een reservatievergoeding aan te rekenen;<br>
+&nbsp; c)&nbsp;de omstandigheden die aanleiding kunnen geven tot ontslag uit het woonzorgcentrum, de ontslagprocedure en de opzeggingstermijn;<br>
+&nbsp; d)&nbsp;de wijze waarop de bewoner de overeenkomst kan beëindigen, en de toepasselijke opzeggingstermijn en, in voorkomend geval, de regeling voor de verbrekingsvergoeding;&nbsp;<br>
+&nbsp; e)&nbsp;de specifieke regelingen bij tijdelijke afwezigheid of overlijden van de bewoner;<br>
+3°&nbsp;de dagprijs en de facturatie die de volgende elementen bevatten:<br>
+&nbsp; a)&nbsp;het bedrag en de samenstelling van de dagprijs die van toepassing zijn op de vastgelegde opnamedatum;<br>
+&nbsp; b)&nbsp;de bedragen, de reden en de periode van toegestane kortingen op de dagprijs;<br>
+&nbsp; c)&nbsp;de diensten en leveringen die aanleiding geven tot de aanrekening van een extra vergoeding;&nbsp;<br>
+&nbsp; d)&nbsp;de regeling voor voorschotten ten gunste van derden;<br>
+&nbsp; e)&nbsp;een eventuele voorschotregeling voor de dagprijs;<br>
+&nbsp; f)&nbsp;de tarieven voor terugbetaling voor de niet-gebruikte leveringen en diensten;&nbsp;<br>
+&nbsp; g)&nbsp;in voorkomend geval, het bedrag van de waarborgsom en de mogelijke aanwending ervan of de regeling inzake borgstelling;<br>
+&nbsp; h)&nbsp;de percentages van de intresten en de procedure bij laattijdige betaling van de factuur;<br>
+&nbsp; i)&nbsp;de percentages van de intresten, de procedure en de ontvankelijkheids-vereisten bij niet-betaling van de factuur;<br>
+4°&nbsp;de regelingen voor de aansprakelijkheid en de verzekeringen;<br>
+5°&nbsp;de vermelding dat de beheersinstantie geen goederen, noch gelden van de bewoner in beheer neemt, met uitzondering van het beheer van het zakgeld en de verrekening van kosten die rechtstreeks met het verblijf in het woonzorgcentrum te maken hebben;<br>
+6° de wijze waarop de overeenkomst kan worden gewijzigd;<br>
+7°&nbsp;de regeling voor het verwijderen van de persoonlijke goederen van de bewoner bij de beëindiging van de overeenkomst;<br>
+8°&nbsp;een verklaring in eer en geweten van de bewoner of zijn vertegenwoordiger dat ze correcte informatie verschaffen aan het&nbsp;woonzorgcentrum. Bij fouten of onregelmatigheden ten gevolge van opzettelijk verzwijgen of opzettelijk onjuist mededelen van informatie, zal de bewoner of zijn vertegenwoordiger aansprakelijk gesteld worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In het eerste lid, 3°, d), wordt verstaan onder voorschot ten gunste van derden: elke uitgave die het woonzorgcentrum betaalt op naam van de bewoner en die door de bewoner of zijn vertegenwoordiger terugbetaalt.</span></span></span><br>
+In het eerste lid, 3°, d), wordt verstaan onder voorschot ten gunste van derden: elke uitgave die het woonzorgcentrum betaalt in naam van de bewoner en die de bewoner of zijn vertegenwoordiger terugbetaalt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De schriftelijke opnameovereenkomst is van onbepaalde duur. Elke bepaling of de toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp. Er kan geen enkele vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</span></span></span></p>
+De schriftelijke opnameovereenkomst is van onbepaalde duur. Elke bepaling of de toepassing ervan die niet in overeenstemming is met de erkenningsvoorwaarden, is nietig en zonder voorwerp. Er kan geen enkele vergoeding aangerekend worden vóór de schriftelijke opnameovereenkomst ondertekend is.</p>
 
 ### ART 13.
 
@@ -6383,11 +6388,11 @@ Wijzigingen aan de afsprakennota worden vooraf meegedeeld en kunnen op zijn vroe
 
 ### ART 14.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De initiatiefnemer ontslaat een bewoner niet tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.</span></span></span><br>
+<p>De initiatiefnemer ontslaat een bewoner niet tenzij wegens overmacht of om redenen en volgens de procedure, vermeld in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als de initiatiefnemer een bewoner ontslaat omdat zijn gedragingen ernstig storend zijn voor de medebewoners of voor de werking van het woonzorgcentrum, of omdat zijn gezondheidstoestand van dien aard is, dat een overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel ingewonnen van de behandelende arts, van de coördinerend en raadgevend arts, en van het interdisciplinaire team dat die bewoner verzorgt. Als dat wenselijk is, kan ook externe experten om advies worden verzocht.</span></span></span><br>
+Als de initiatiefnemer een bewoner ontslaat omdat zijn gedragingen ernstig storend zijn voor de medebewoners of voor de werking van het woonzorgcentrum, of omdat zijn gezondheidstoestand van die aard is, dat een overplaatsing naar een meer passende voorziening noodzakelijk is, wordt altijd het oordeel ingewonnen van de behandelende arts, van de coördinerend en raadgevend arts en van het interdisciplinaire team dat die bewoner verzorgt. Als dat wenselijk is, kan ook externe experten om advies worden verzocht.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</span></span></span></p>
+De initiatiefnemer zorgt in overleg met de gebruiker, zijn vertegenwoordiger of mantelzorger voor de toeleiding van de gebruiker naar een passend verblijf en verlengt de opzeggingstermijn tot er een passend verblijf is gevonden.</p>
 
 ### ART 15.
 
@@ -6403,29 +6408,29 @@ Wijzigingen aan de afsprakennota worden vooraf meegedeeld en kunnen op zijn vroe
 
 ### ART 16.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als de bewoner of zijn vertegenwoordiger na opname de schriftelijke opnameovereenkomst wil beëindigen, bedraagt de opzeggingstermijn dertig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de initiatiefnemer. </span></span></span><br>
+<p>Als de bewoner of zijn vertegenwoordiger na opname de schriftelijke opnameovereenkomst wil beëindigen, bedraagt de opzeggingstermijn dertig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de initiatiefnemer.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als de initiatiefnemer de opnameovereenkomst wil beëindigen, bedraagt de opzeggingstermijn zestig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de bewoner. </span></span></span><br>
+Als de initiatiefnemer de opnameovereenkomst wil beëindigen, bedraagt de opzeggingstermijn zestig dagen. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de bewoner.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De ontvankelijkheidsvereisten voor de betekening van de opzegging zijn bepaald in de overeenkomst.</span></span></span><br>
+De ontvankelijkheidsvereisten voor de betekening van de opzegging zijn bepaald in de overeenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als de woongelegenheid niet ontruimd is na de opzegtermijn, kan de initiatiefnemer de dagprijs langer aanrekenen. De initiatiefnemer kan de woongelegenheid zelf ontruimen en de kosten daarvoor aanrekenen. Hij kan de persoonlijke bezittingen van de bewoner opslaan. Daarvoor kunnen tegen marktconforme prijzen opslagkosten aangerekend worden. Als na drie maanden na het vertrek van de bewoner uit het woonzorgcentrum de goederen niet opgehaald zijn, kunnen die goederen worden verwijderd uit het woonzorgcentrum op kosten van de bewoner volgens de regels bepaald in de schriftelijke opnameovereenkomst. </span></span></span><br>
+Als de woongelegenheid niet ontruimd is na de opzegtermijn, kan de initiatiefnemer de dagprijs langer aanrekenen. De initiatiefnemer kan de woongelegenheid zelf ontruimen en de kosten daarvoor aanrekenen. Hij kan de persoonlijke bezittingen van de bewoner opslaan. Daarvoor kunnen tegen marktconforme prijzen opslagkosten aangerekend worden. Als na drie maanden na het vertrek van de bewoner uit het woonzorgcentrum de goederen niet opgehaald zijn, kunnen die goederen worden verwijderd uit het woonzorgcentrum op kosten van de bewoner volgens de regels bepaald in de schriftelijke opnameovereenkomst.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De eerste dertig dagen van het verblijf worden beschouwd als een proefperiode. De opzeggingstermijn wordt in die periode zowel voor de bewoner als voor de initiatiefnemer beperkt tot zeven dagen.</span></span></span><br>
+De eerste dertig dagen van het verblijf worden beschouwd als een proefperiode. De opzeggingstermijn wordt in die periode zowel voor de bewoner als voor de initiatiefnemer beperkt tot zeven dagen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Gedurende de opzeggingstermijn mag er boven op de verschuldigde dagprijs geen extra opzegvergoeding aangerekend worden, ongeacht wie de overeenkomst beëindigt.</span></span></span><br>
+Gedurende de opzeggingstermijn mag er bovenop de verschuldigde dagprijs geen extra opzegvergoeding aangerekend worden, ongeacht wie de overeenkomst beëindigt.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Als een woongelegenheid ontruimd en opnieuw bewoond wordt binnen de opzeggingstermijn, kan de dagprijs, in voorkomend geval verminderd met de bedragen van de niet-gebruikte leveringen en diensten bij de afwezigheid van de bewoner, alleen worden aangerekend tot de dag die voorafgaat aan de nieuwe bewoning.</span></span></span></p>
+Als een woongelegenheid ontruimd en opnieuw bewoond wordt binnen de opzeggingstermijn, kan de dagprijs, in voorkomend geval verminderd met de bedragen van de niet-gebruikte leveringen en diensten bij de afwezigheid van de bewoner, alleen worden aangerekend tot de dag die voorafgaat aan de nieuwe bewoning.</p>
 
 ### ART 17.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Een sluiting van het woonzorgcentrum die door de overheid wordt opgelegd, maakt die sluiting onmiddellijk een einde aan de schriftelijke opnameovereenkomst op de dag dat de bewoner het woonzorgcentrum verlaat. In dat geval mag er geen opzegvergoeding aangerekend worden. </span></span></span>
+Een sluiting van het woonzorgcentrum die door de overheid wordt opgelegd, maakt onmiddellijk een einde aan de schriftelijke opnameovereenkomst op de dag dat de bewoner het woonzorgcentrum verlaat. In dat geval mag er geen opzegvergoeding aangerekend worden.
 
 ### ART 18.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Bij een vrijwillige stopzetting van de activiteiten bedraagt de opzeggingstermijn zes maanden voor de beheersinstantie. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de bewoner. De ontvankelijkheidsvereisten voor de betekening van de opzegging zijn bepaald in de overeenkomst. De beheersinstantie verbindt er zich toe, in overleg met de bewoner, zijn vertegenwoordiger of mantelzorger, te zorgen voor een passend verblijf en de opzeggingstermijn, zolang te verlengen. In dat geval mag er bovenop de dagprijs er geen opzegvergoeding aangerekend worden.</span></span></span><br>
+<p>Bij een vrijwillige stopzetting van de activiteiten bedraagt de opzeggingstermijn zes maanden voor de beheersinstantie. Die termijn gaat in op de eerste dag die volgt op de ontvankelijke betekening van de opzegging aan de bewoner. De ontvankelijkheidsvereisten voor de betekening van de opzegging zijn bepaald in de overeenkomst. De beheersinstantie verbindt er zich toe, in overleg met de bewoner, zijn vertegenwoordiger of mantelzorger, te zorgen voor een passend verblijf en de opzeggingstermijn, zolang te verlengen. In dat geval mag er bovenop de dagprijs geen opzegvergoeding aangerekend worden.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Wanneer de bewoner of zijn vertegenwoordiger tijdens de opzegginstermijn, vermeldt in het eerste lid, een einde wenst te stellen aan de overeenkomst geldt de opzeggingsperiode van dertig dagen.</span></span></span></p>
+Wanneer de bewoner of zijn vertegenwoordiger tijdens de opzeggingstermijn, vermeld in het eerste lid, een einde wenst te stellen aan de overeenkomst, geldt de opzeggingsperiode van dertig dagen.</p>
 
 ### ART 19.
 
@@ -6453,7 +6458,7 @@ Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, word
 
 <span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Het beheer van gelden of goederen van de bewoner of het bewaren ervan kan in geen enkel geval aan de beheersinstantie worden toevertrouwd, met uitzondering van het beheer van het zakgeld en de verrekening van kosten die rechtstreeks met het verblijf in het woonzorgcentrum te maken hebben. Het gebruik van een elektronisch betalingssysteem dat alleen wordt gebruikt voor de verrekening van kosten die rechtstreeks met de betaling van de factuur van het verblijf in het woonzorgcentrum te maken hebben, wordt niet beschouwd als een beheer van gelden en goederen, als vermeld in het eerste lid. Het gebruik van een elektronisch betalingssysteem mag niet verplicht worden.</span></span></span>
 
-## Onderafdeling 2. Algemene bepalingen over de en ondersteuning en de kwaliteit van de zorg en ondersteuning
+## Onderafdeling 2. Algemene bepalingen over de zorg en ondersteuning en de kwaliteit van de zorg en ondersteuning
 
 ### ART 22.
 
@@ -6469,42 +6474,42 @@ Een aanpassing van de dagprijs als vermeld in het eerste en het tweede lid, word
 
 ### ART 25.
 
-<p><span style="color:black">Met behoud van de toepassing van artikel 8 en 9 van dit besluit bevat het kwaliteitshandboek van elk woonzorgcentrum minstens een beschrijving van de volgende elementen:</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een inleiding, met daarin de inhoudsopgave, een aantal algemene inlichtingen over de voorziening, de vermelding van de verantwoordelijke die met het kwaliteitsbeleid is belast;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het kwaliteitsbeleid waarin de opdrachtverklaring en het zorg- en ondersteuningsaanbod opgenomen zijn;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">3° het </span>kwaliteitsmanagementsysteem, vermeld in artikel 4 en 5 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, <span style="color:black">met conditionele, operationele en garantie-elementen.</span></span></span><br>
+<p>Met behoud van de toepassing van artikel 8 en 9 van dit besluit bevat het kwaliteitshandboek van elk woonzorgcentrum minstens een beschrijving van de volgende elementen:<br>
+1°&nbsp;een inleiding, met daarin de inhoudsopgave, een aantal algemene inlichtingen over de voorziening, de vermelding van de verantwoordelijke die met het kwaliteitsbeleid is belast;<br>
+2°&nbsp;het kwaliteitsbeleid waarin de opdrachtverklaring en het zorg- en ondersteuningsaanbod opgenomen zijn;<br>
+3° het kwaliteitsmanagementsysteem, vermeld in artikel 4 en 5 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, met conditionele, operationele en garantie-elementen.<br>
 <br>
-<span style="color:black">In het kwaliteitsmanagementsysteem, vermeld in het eerste lid, 3°, bevat minimaal de volgende elementen:</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het organogram;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de functieomschrijvingen;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de overleg- en communicatiekanalen;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;de middelen: personeel, budget en kwaliteitsmethodieken;</span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;het vormingsbeleid.</span></span></span><br>
+Het kwaliteitsmanagementsysteem, vermeld in het eerste lid, 3°, bevat minimaal de volgende elementen:<br>
+1°&nbsp;het organogram;<br>
+2°&nbsp;de functieomschrijvingen;<br>
+3°&nbsp;de overleg- en communicatiekanalen;<br>
+4°&nbsp;de middelen: personeel, budget en kwaliteitsmethodieken;<br>
+5°&nbsp;het vormingsbeleid.<br>
 <br>
-<span style="color:black">In het kwaliteitsmanagementsysteem, vermeld in eerste lid, 3°, worden minimaal de volgende procedures beschreven:</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de volgende primaire processen:<br>
-&nbsp; a)&nbsp;</span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor onthaal en opname;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor planning en organisatie van de zorg en ondersteuning;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de vrijheidsbeperkende maatregelen;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de doorverwijzing;<br>
-&nbsp; e)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor vrijwillig ontslag, verplicht ontslag en overlijden;<br>
-&nbsp; f)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om informatie over de gebruiker te verwerven en door te geven rekening houdend met de vereiste van een behoorlijk gebruikers- en toegangsbeheer en een veilige uitwisseling van persoonsgegeven tussen de betrokken actoren;</span><br>
-<span style="font-family:Verdana,sans-serif; font-size:10pt">&nbsp; g) de klachtenprocedure;<br>
-&nbsp; h)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om vanuit een klachtenanalyse te komen tot correctieve en preventieve maatregelen;<br>
-&nbsp; i)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure bij grensoverschrijdend gedrag;<br>
-&nbsp; j)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor collectieve inspraak van de gebruiker over de algemene werking;<br>
-&nbsp; k)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor evaluatie van de zorg en ondersteuning door de gebruiker;</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de volgende secundaire processen:<br>
-&nbsp; a)&nbsp;</span></span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de voeding te bereiden en distribueren;<br>
-&nbsp; b)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor het geneesmiddelenmanagement;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de schoonmaak te planen en te organiseren;<br>
-&nbsp; d)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure voor de facturatie ten aanzien van de gebruiker;</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de volgende managementprocessen:</span></span></span><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><br>
-&nbsp; a)&nbsp;de procedure voor om het functioneren van medewerkers te bespreken;<br>
-&nbsp; b)&nbsp;</span></span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de documenten van het kwaliteitshandboek te beheren;<br>
-&nbsp; c)&nbsp;</span><span style="font-family:Verdana,sans-serif; font-size:10pt">de procedure om de inhoud van het kwaliteitshandboek te planen, uit te voeren en bij te sturen.</span><br>
+In het kwaliteitsmanagementsysteem, vermeld in eerste lid, 3°, worden minimaal de volgende procedures beschreven:<br>
+1°&nbsp;de volgende primaire processen:<br>
+&nbsp; a)&nbsp;de procedure voor onthaal en opname;<br>
+&nbsp; b)&nbsp;de procedure voor planning en organisatie van de zorg en ondersteuning;<br>
+&nbsp; c)&nbsp;de procedure voor de vrijheidsbeperkende maatregelen;<br>
+&nbsp; d)&nbsp;de procedure voor de doorverwijzing;<br>
+&nbsp; e)&nbsp;de procedure voor vrijwillig ontslag, verplicht ontslag en overlijden;<br>
+&nbsp; f)&nbsp;de procedure om informatie over de gebruiker te verwerven en door te geven rekening houdend met de vereiste van een behoorlijk gebruikers- en toegangsbeheer en een veilige uitwisseling van persoonsgegeven tussen de betrokken actoren;<br>
+&nbsp; g) de klachtenprocedure;<br>
+&nbsp; h)&nbsp;de procedure om vanuit een klachtenanalyse te komen tot correctieve en preventieve maatregelen;<br>
+&nbsp; i)&nbsp;de procedure bij grensoverschrijdend gedrag;<br>
+&nbsp; j)&nbsp;de procedure voor collectieve inspraak van de gebruiker over de algemene werking;<br>
+&nbsp; k)&nbsp;de procedure voor evaluatie van de zorg en ondersteuning door de gebruiker;<br>
+2°&nbsp;de volgende secundaire processen:<br>
+&nbsp; a)&nbsp;de procedure om de voeding te bereiden en distribueren;<br>
+&nbsp; b)&nbsp;de procedure voor het geneesmiddelenmanagement;<br>
+&nbsp; c)&nbsp;de procedure om de schoonmaak te plannen en te organiseren;<br>
+&nbsp; d)&nbsp;de procedure voor de facturatie ten aanzien van de gebruiker;<br>
+3°&nbsp;de volgende managementprocessen:<br>
+&nbsp; a)&nbsp;de procedure om het functioneren van medewerkers te bespreken;<br>
+&nbsp; b)&nbsp;de procedure om de documenten van het kwaliteitshandboek te beheren;<br>
+&nbsp; c)&nbsp;de procedure om de inhoud van het kwaliteitshandboek te plannen, uit te voeren en bij te sturen.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De minister kan daarvoor de nadere regels bepalen.</span></span></span></p>
+De minister kan daarvoor de nadere regels bepalen.</p>
 
 ### ART 26.
 
@@ -6552,12 +6557,12 @@ c)&nbsp;het verschonen van bedlinnen, ten minste één keer om de veertien dagen
 d)&nbsp;het ondersteunen van de bewoner bij de administratieve verrichtingen die relevant zijn voor de gebruiker, de vertegenwoordiger of de mantelzorger en die geen verband houden met het beheer van goederen of gelden van de bewoner;<br>
 2°&nbsp;de persoonsverzorging, zorgkundige en verpleegkundige zorg en&nbsp;ondersteuning:<br>
 a)&nbsp;aan de bewoner wordt altijd de nodige dagelijkse &nbsp; lichaamsverzorging ende noodzakelijke zorgkundige of &nbsp; verpleegkundige zorg en ondersteuning geboden;<br>
-b) elke bewoner kan, als hij dit wil, minstens een keer per week een bad of douche kunnen nemen, naar keuze;&nbsp;<br>
-c)&nbsp;in voorkomend geval beschikt de bewoner altijd over voldoende en aangepast incontinentiemateriaal kunnen beschikken;<br>
+b) elke bewoner kan, als hij dit wil, minstens een keer per week een bad of douche nemen, naar keuze;&nbsp;<br>
+c)&nbsp;in voorkomend geval beschikt de bewoner altijd over voldoende en aangepast incontinentiemateriaal;<br>
 d)&nbsp;voor elke bewoner worden de gepaste preventieve en curatieve &nbsp; maatregelen getroffen;<br>
 e)&nbsp;de bewoner krijgt dagelijks de voorgeschreven geneesmiddelen, zoals besproken door de behandelende arts met de bewoner of zijn vertegenwoordiger, die opgenomen zijn in&nbsp;het woonzorgleefplan, aangeboden en, in voorkomend geval, toegediend: het juiste geneesmiddel, in de juiste dosis en op het juiste toedieningsmoment;<br>
 3° de paramedische zorg en ondersteuning:<br>
-a) aan de bewoner met een afhankelijkheidscategorie O en A als vermeld in artikel 425, tweede lid, 1° of 2°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, worden de ergotherapeutische of de kinesitherapeutische of logopedische behandelingen die de behandelende arts voorgeschreven heeft, zoals besproken met de bewoner, en die opgenomen zijn in het woonzorgleefplan, gegarandeerd;<br>
+a) aan de bewoner met een afhankelijkheidscategorie O en A als vermeld in artikel 425, tweede lid, 1° of 2°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, worden de ergotherapeutische, kinesitherapeutische of logopedische behandelingen die de behandelende arts voorgeschreven heeft, zoals besproken met de bewoner, en die opgenomen zijn in het woonzorgleefplan, gegarandeerd;<br>
 b) aan de bewoner met een afhankelijkheidscategorie B, C, Cd en D als vermeld in artikel 425, tweede lid, 3°, 4°, 5° of 6°, van het voormelde besluit, wordt de noodzakelijke logopedische, ergo- of kinesitherapeutische ondersteuning geboden;<br>
 4°&nbsp;de psychosociale, agogische en existentiële ondersteuning aangepast aan &nbsp;de behoeften van de bewoner;<br>
 5°&nbsp;de levensbeschouwelijke begeleiding aangepast aan de wensen van de bewoner. De bedienaren van de eredienst en afgevaardigden van de Centrale Vrijzinnige Raad vinden de geschikte sfeer en faciliteiten om hun taak te vervullen;&nbsp;<br>
@@ -6571,41 +6576,41 @@ c)&nbsp;de planning van de collectieve activiteiten bekendmaken aan de bewoners,
 
 ### ART 30.
 
-<p><span style="color:black">Bij opname wordt voor elke bewoner een geïndividualiseerd en digitaal woonzorgleefplan opgemaakt dat geregeld geactualiseerd wordt, met instemming van de bewoner of zijn vertegenwoordiger. In voorkomend geval sluit dat aan bij het zorg- en ondersteuningsplan, opgemaakt door de bewoner, zijn vertegenwoordiger of mantelzorgers en de zorgaanbieders in de thuiszorg voorafgaand aan de opname in het woonzorgcentrum. Het woonzorgleefplan bevat al de volgende gegevens:</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;een administratief deel dat al de volgende elementen bevat:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="color:black">de identiteitsgegevens;<br>
-&nbsp; b)&nbsp;</span><span style="color:black">de inlichtingen over de sociale zekerheidssituatie van de bewoner </span>die noodzakelijk zijn om eventueel aanspraak te kunnen maken op sociale tegemoetkomingen;<br>
-&nbsp; c)&nbsp;<span style="color:black">de voor- en achternaam en de contactgegevens van de contactpersoon en, in voorkomend geval, van de vertegenwoordiger van de bewoner, en van de mantelzorger(s);<br>
-&nbsp; d)&nbsp;</span><span style="color:black">de voor- en achternaam en de contactgegevens van de behandelend(e) arts(en);<br>
-&nbsp; e)&nbsp;</span><span style="color:black">de voorkeur van ziekenhuis;<br>
-&nbsp; f)&nbsp;</span><span style="color:black">in voorkomend geval de naam en de contactgegevens van externe zorgverstrekkers op vraag van de bewoner;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;een deel over de zorg en ondersteuning dat al de volgende elementen bevat:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="color:black">de persoonlijke kenmerken, gewoonten, levensloop;<br>
-&nbsp; b)&nbsp;</span><span style="color:black">de individuele wensen en verwachtingen op het vlak van het wonen en het leven in het woonzorgcentrum;<br>
-&nbsp; c)&nbsp;</span><span style="color:black">de individuele behoeften, verwachtingen en voorkeuren op het vlak van de zorg;<br>
-&nbsp; d)&nbsp;</span><span style="color:black">de afspraken en afstemming rond de individuele zorg en ondersteuning;&nbsp;<br>
-&nbsp; e)&nbsp;</span><span style="color:black">de afspraken en afstemming rond de eventuele fixatie- of afzonderings-maatregelen;<br>
-&nbsp; f)&nbsp;</span><span style="color:black">de afspraken rond vrijetijdsbesteding en sociale activiteiten;<br>
-&nbsp; g)&nbsp;</span><span style="color:black">de afspraken rond de diëten en voedingsgewoonten;<br>
-&nbsp; h)&nbsp;</span><span style="color:black">het verpleegkundig, paramedisch, kinesitherapeutisch en psychosociaal dossier;<br>
-&nbsp; i)&nbsp;</span><span style="color:black">de liaisonfiche met de noodzakelijke gegevens in geval van nood of ziekenhuisopname;</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;een medisch deel dat al de volgende elementen bevat:<br>
-&nbsp; a)&nbsp;</span></span></span></span><span style="color:black">de medische voorgeschiedenis en een medische probleemlijst;<br>
-&nbsp; b)&nbsp;</span><span style="color:black">de klinische gegevens bij de opname en tijdens het verblijf;<br>
-&nbsp; c)&nbsp;</span><span style="color:black">de allergieën, vaccinaties en dieetvoorschriften;<br>
-&nbsp; d)&nbsp;</span><span style="color:black">in voorkomend geval, de DNR-code, die geactualiseerd en met de bewoner of zijn vertegenwoordiger afgestemde is;<br>
-&nbsp; e)&nbsp;</span><span style="color:black">de afspraken over de vroegtijdige zorgplanning, de palliatieve zorg en de levenseindezorg;<br>
-&nbsp; f)&nbsp;</span><span style="color:black">het medicatieschema</span><span style="color:black"> met de redenen om e</span><span style="color:black">en geneesmiddel </span><span style="color:black">op te starten, te wijzigen of ermee te stoppen</span></p>
+<p>Bij opname wordt voor elke bewoner een geïndividualiseerd en digitaal woonzorgleefplan opgemaakt dat geregeld geactualiseerd wordt, met instemming van de bewoner of zijn vertegenwoordiger. In voorkomend geval sluit dat aan bij het zorg- en ondersteuningsplan, opgemaakt door de bewoner, zijn vertegenwoordiger of mantelzorgers en de zorgaanbieders in de thuiszorg voorafgaand aan de opname in het woonzorgcentrum. Het woonzorgleefplan bevat al de volgende gegevens:<br>
+1°&nbsp;een administratief deel dat al de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de identiteitsgegevens;<br>
+&nbsp; b)&nbsp;de inlichtingen over de sociale zekerheidssituatie van de bewoner die noodzakelijk zijn om eventueel aanspraak te kunnen maken op sociale tegemoetkomingen;<br>
+&nbsp; c)&nbsp;de voor- en achternaam en de contactgegevens van de contactpersoon en, in voorkomend geval, van de vertegenwoordiger van de bewoner en van de mantelzorger(s);<br>
+&nbsp; d)&nbsp;de voor- en achternaam en de contactgegevens van de behandelend(e) arts(en);<br>
+&nbsp; e)&nbsp;de voorkeur van ziekenhuis;<br>
+&nbsp; f)&nbsp;in voorkomend geval de naam en de contactgegevens van externe zorgverstrekkers op vraag van de bewoner;<br>
+2°&nbsp;een deel over de zorg en ondersteuning dat al de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de persoonlijke kenmerken, gewoonten, levensloop;<br>
+&nbsp; b)&nbsp;de individuele wensen en verwachtingen op het vlak van het wonen en het leven in het woonzorgcentrum;<br>
+&nbsp; c)&nbsp;de individuele behoeften, verwachtingen en voorkeuren op het vlak van de zorg;<br>
+&nbsp; d)&nbsp;de afspraken en afstemming rond de individuele zorg en ondersteuning;&nbsp;<br>
+&nbsp; e)&nbsp;de afspraken en afstemming rond de eventuele vrijheidsbeperkende maatregelen;<br>
+&nbsp; f)&nbsp;de afspraken rond vrijetijdsbesteding en sociale activiteiten;<br>
+&nbsp; g)&nbsp;de afspraken rond de diëten en voedingsgewoonten;<br>
+&nbsp; h)&nbsp;het verpleegkundig, paramedisch, kinesitherapeutisch en psychosociaal dossier;<br>
+&nbsp; i)&nbsp;de liaisonfiche met de noodzakelijke gegevens in geval van nood of ziekenhuisopname;<br>
+3°&nbsp;een medisch deel dat al de volgende elementen bevat:<br>
+&nbsp; a)&nbsp;de medische voorgeschiedenis en een lijst van diagnosen;<br>
+&nbsp; b)&nbsp;de klinische gegevens bij de opname en tijdens het verblijf;<br>
+&nbsp; c)&nbsp;de allergieën, vaccinaties en dieetvoorschriften;<br>
+&nbsp; d)&nbsp;in voorkomend geval, de DNR-code, die geactualiseerd en met de bewoner of zijn vertegenwoordiger afgestemd is;<br>
+&nbsp; e)&nbsp;de afspraken over de vroegtijdige zorgplanning, de palliatieve zorg en de levenseindezorg;<br>
+&nbsp; f)&nbsp;het medicatieschema met de redenen om een geneesmiddel op te starten, te wijzigen of ermee te stoppen</p>
 
 <p>&nbsp;</p>
 
 ### ART 31.
 
-<p><span style="color:black">Er wordt periodiek, gestructureerd en in voorkomend geval op interdisciplinaire wijze overlegd over de inhoud en de realisaties van het woonzorgleefplan met de bewoner of zijn vertegenwoordiger en, als door de bewoner dat wil, met zijn mantelzorger</span><span style="color:black">(s)</span><span style="color:black">. Indien nodig wordt het woonzorg-leefplan op basis van dat overleg aangepast en bijgestuurd.<br>
+<p>Er wordt periodiek, gestructureerd en in voorkomend geval op interdisciplinaire wijze overlegd over de inhoud en de realisaties van het woonzorgleefplan met de bewoner of zijn vertegenwoordiger en, als de bewoner dat wil, met zijn mantelzorger(s). Indien nodig wordt het woonzorg-leefplan op basis van dat overleg aangepast en bijgestuurd.<br>
 <br>
-Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfverantwoordelijkheid van de bewoner gewaarborgd op de volgende wijze:</span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de bewoner of zijn vertegenwoordiger kan altijd inzage vragen, in dat deel van het woonzorgleefplan dat hem rechtstreeks aanbelangt. Hij kan zelf gegevens noteren op een daarvoor vastgestelde ruimte. Die gegevens kunnen aanzetten tot dialoog en tot aanpassing van het woonzorgleefplan;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;het woonzorgleefplan en de individuele dossiers van de behandelaars en de huisarts worden bewaard met respect voor de privacy, zodat die personen die daarvoor bevoegd zijn, er toegang toe hebben.</span></span></span></span></p>
+Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfverantwoordelijkheid van de bewoner gewaarborgd op de volgende wijze:<br>
+1°&nbsp;de bewoner of zijn vertegenwoordiger kan altijd inzage vragen, in dat deel van het woonzorgleefplan dat hem rechtstreeks aanbelangt. Hij kan zelf gegevens noteren op een daarvoor vastgestelde ruimte. Die gegevens kunnen aanzetten tot dialoog en tot aanpassing van het woonzorgleefplan;<br>
+2°&nbsp;het woonzorgleefplan en de individuele dossiers van de behandelaars en de huisarts worden bewaard met respect voor de privacy, zodat enkel die personen die daarvoor bevoegd zijn, er toegang toe hebben.</p>
 
 ## Afdeling 3. Voorwaarden voor de organisatie en de werking
 
@@ -6626,9 +6631,9 @@ Daarbij worden de keuzevrijheid en een maximale persoonlijke autonomie en zelfve
 
 ### ART 33.
 
-<p><span style="color:black">Het woonzorgcentrum voldoet aan de volgende regels over de begeleiding wonen en leven: </span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;het beschikt over een uitgeschreven visie met betrekking tot de begeleiding wonen en leven in het woonzorgcentrum. Die visie wordt geconsolideerd door de beheersorganen, die ook de strategische keuzes bepalen om die visie operationeel te realiseren. In die visie gaat bijzondere aandacht naar een integrale benadering van de begeleiding wonen en leven in het woonzorgcentrum en een specifiek vormingsaanbod rond de begeleiding wonen en leven voor alle personeelsleden. Bovendien blijkt uit die visie dat het woonzorgcentrum emanciperend omgaat met bewoners en familieleden. Als een initiatiefnemer naast een woonzorgcentrum ook een centrum voor kortverblijf type 1 uitbaat, volstaat één gezamenlijke visie. </span></span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° het woonzorgcentrum maakt een jaarplan op over de activiteiten die het ontplooit om de begeleiding wonen en leven kwaliteitsvol uit te voeren. Als een initiatiefnemer naast een woonzorgcentrum ook een centrum voor kortverblijf type 1 uitbaat, volstaat één gezamenlijk jaarplan. De minister kan over de vorm en de inhoud van het plan specifieke regels bepalen.</span></span></span></p>
+<p>Het woonzorgcentrum voldoet aan de volgende regels over de begeleiding bij het wonen en leven:<br>
+1°&nbsp;het beschikt over een uitgeschreven visie met betrekking tot de begeleiding bij het wonen en leven in het woonzorgcentrum. Die visie wordt geconsolideerd door de beheersorganen, die ook de strategische keuzes bepalen om die visie operationeel te realiseren. In die visie gaat bijzondere aandacht naar een integrale benadering van de begeleiding bij het wonen en leven in het woonzorgcentrum en een specifiek vormingsaanbod rond de begeleiding bij het wonen en leven voor alle personeelsleden. Bovendien blijkt uit die visie dat het woonzorgcentrum emanciperend omgaat met bewoners en familieleden. Als een initiatiefnemer naast een woonzorgcentrum ook een centrum voor kortverblijf type 1 uitbaat, volstaat één gezamenlijke visie.<br>
+2° het woonzorgcentrum maakt een jaarplan op over de activiteiten die het ontplooit om de begeleiding bij het wonen en leven kwaliteitsvol uit te voeren. Als een initiatiefnemer naast een woonzorgcentrum ook een centrum voor kortverblijf type 1 uitbaat, volstaat één gezamenlijke visie en jaarplan. De minister kan over de vorm en de inhoud van het plan specifieke regels bepalen.</p>
 
 ### ART 33/1.
 
@@ -6688,7 +6693,7 @@ De opleidingscyclus, vermeld in het eerste lid, omvat al de volgende onderdelen:
 1°&nbsp;&nbsp; &nbsp;de organisatie van en de regelgeving over woonzorgcentra en centra voor kortverblijf type 1 en andere woonzorgvormen, inclusief de kwaliteit van de zorg;<br>
 2°&nbsp;&nbsp; &nbsp;de specificiteit van de geriatrische geneeskunde, inclusief palliatieve zorg, levenseindezorg en farmaceutische zorg;<br>
 3°&nbsp;&nbsp; &nbsp;het voorkomen en het beheersen van uitbraken van infecties en het beheer van de antimicrobiële middelen;<br>
-4°&nbsp;&nbsp; &nbsp;risicobeheer en kwaliteit op het vlak van medisch zorgbeleid verbeteren vanuit analyse van incidenten en bijna-incidenten;<br>
+4°&nbsp;&nbsp; &nbsp;risicobeheer en kwaliteit op het vlak van medisch zorgbeleid verbeteren vanuit de analyse van incidenten en bijna-incidenten;<br>
 5°&nbsp;&nbsp; &nbsp;de communicatietechnieken, inclusief de communicatie met bewoners met mentale of cognitieve beperkingen en de communicatie over de wensen en voorkeuren van de bewoners over hun behandeling en levenseinde.<br>
 <br>
 De Vlaamse Regering bepaalt:<br>
@@ -6812,9 +6817,9 @@ d)&nbsp;&nbsp; &nbsp;het overleg met de toeleverende apothekers en, als dat van 
 
 ### ART 41.
 
-<p>§1. Het woonzorgcentrum richt een gebruikers- en een familieraad op. De gebruikersraad vergadert minstens één keer per trimester. De familieraad vergadert om de zes maanden. De gebruikers- en familieraad kunnen evenwel samen worden georganiseerd. In dat geval waarborgt het woonzorgcentrum dat de bewoners altijd minstens de helft van de aanwezigen uitmaken. Op verzoek van een bewoner of een familielid kan een vertegenwoordiger van de lokale ouderenraad of een vertegenwoordiger van de verenigingen van mantelzorgers en gebruikers deel uitmaken van de gebruikersraad. De verenigingen maken daarover afspraken. Als het woonzorgcentrum niet kan tegemoetkomen aan de gestelde vraag, motiveert die deze keuze.<br>
+<p>§1. Het woonzorgcentrum richt een gebruikers- en een familieraad op. De gebruikersraad vergadert minstens één keer per trimester. De familieraad vergadert om de zes maanden. De gebruikers- en familieraad kunnen evenwel samen worden georganiseerd. In dat geval waarborgt het woonzorgcentrum dat de bewoners altijd minstens de helft van de aanwezigen uitmaken. Op verzoek van een bewoner of een familielid kan een vertegenwoordiger van de lokale ouderenraad of een vertegenwoordiger van de verenigingen van mantelzorgers en gebruikers deel uitmaken van de gebruikersraad. De verenigingen maken daarover afspraken. Als het woonzorgcentrum niet kan tegemoetkomen aan de gestelde vraag, motiveert het deze keuze.<br>
 <br>
-§2. De gebruikers- en familieraad kan advies uitbrengen, hetzij op eigen initiatief, hetzij op verzoek van het woonzorgcentrum, over alle aangelegenheden die betrekking hebben op de algemene werking van het woonzorgcentrum betreffen. Van de vergaderingen van die raden wordt een gedateerd verslag opgemaakt dat aan alle bewoners en hun vertegenwoordigers, familie of mantelzorgers bezorgd wordt. de administratie kan die verslagen inkijken. Als in het woonzorgcentrum alleen bewoners met cognitieve problemen verblijven, kan de gebruikersraad vervangen worden door een familieraad.<br>
+§2. De gebruikers- en familieraad kan advies uitbrengen, hetzij op eigen initiatief, hetzij op verzoek van het woonzorgcentrum, over alle aangelegenheden die betrekking hebben op de algemene werking van het woonzorgcentrum. Van de vergaderingen van die raden wordt een gedateerd verslag opgemaakt dat aan alle bewoners en hun vertegenwoordigers, familie of mantelzorgers bezorgd wordt. De administratie kan die verslagen inkijken. Als in het woonzorgcentrum alleen bewoners met cognitieve problemen verblijven, kan de gebruikersraad vervangen worden door een familieraad.<br>
 <br>
 Een of meer vertegenwoordigers van het woonzorgcentrum worden uitgenodigd om de vergaderingen van de gebruikers- of familieraad bij te wonen.<br>
 <br>
@@ -6834,7 +6839,7 @@ Het woonzorgcentrum verstrekt periodiek informatie over de klachtenbehandeling a
 
 ### ART 43.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">De gebruikersfactuur is in overeenstemming met de schriftelijke opnameovereenkomst zijn.</span></span></span></p>
+<p>De gebruikersfactuur is in overeenstemming met de schriftelijke opnameovereenkomst.</p>
 
 ### ART 44.
 
@@ -6986,7 +6991,7 @@ De directeur volgt jaarlijks minstens achttien uur bijscholing.<br>
 <br>
 Het onderhouds- en keukenpersoneel volgt minstens acht uur bijscholing over een periode van maximaal twee kalenderjaren.<br>
 <br>
-In geval van deeltijds werk of een ander arbeidsregeling, en in geval van nieuwe indiensttreding in de loop van het kalenderjaar, wordt het minimale aantal uren bijscholing proportioneel verminderd.<br>
+In geval van deeltijds werk of een andere arbeidsregeling, en in geval van nieuwe indiensttreding in de loop van het kalenderjaar, wordt het minimale aantal uren bijscholing proportioneel verminderd.<br>
 <br>
 De minister kan per functie bepalen welke vormingsactiviteiten voor de bijscholing in aanmerking komen.</p>
 
@@ -6996,44 +7001,44 @@ De minister kan per functie bepalen welke vormingsactiviteiten voor de bijscholi
 
 ### ART 50.
 
-<p><span style="color:black">De woonzorgcentra voldoen aan de toepasselijke brandveiligheids-reglementering.</span></p>
+<p>De woonzorgcentra voldoen aan de toepasselijke brandveiligheidsreglementering.</p>
 
 ## Onderafdeling 2. Het gebouw
 
 ### ART 51.
 
-<p><span style="color:black">Het gebouw of de gebouwen van de woonzorgcentra voldoen aan de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">er worden per kamer niet meer dan twee bewoners gehuisvest worden. In een tweepersoonskamer kan een afscheiding tussen de twee bedden geplaatst worden;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de infrastructuur van het woonzorgcentrum laat toe dat de minimale privacy van elke bewoner gewaarborgd is en dat het altijd mogelijk is om de noodzakelijke zorg te bieden en hulp te verlenen;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">bij elke zit- en eetruimte zijn voldoende gemeenschappelijke toiletten beschikbaar die toegankelijk zijn voor rolstoelgebruikers;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de geneesmiddelen, producten die bij inname tot gezondheidsrisico's kunnen leiden, en dossiers worden op een veilige en discrete manier bewaard. De af te sluiten ruimte waar geneesmiddelen en dossiers op een veilige en discrete manier bewaard kunnen worden, wordt niet voor andere doeleinden gebruikt. Er is ook een koelkast ter beschikking om sommige geneesmiddelen</span><span style="font-family:Verdana,sans-serif; font-size:10pt"> </span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">koel te bewaren;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het woonzorgcentrum stelt per bewoner het nodige meubilair ter beschikking opdat elke bewoner op een behoorlijke manier kan eten, rusten en slapen. Er wordt aan de bewoners de mogelijkheid geboden de kamer in te richten met eigen meubilair. De inrichting van de woongelegenheid biedt de nodige flexibiliteit om het meubilair te plaatsen, op voorwaarde dat de zorg- en dienstverlening en de veiligheid niet in het gedrang komen;<br>
-6°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">per bewoner kan op de kamer een koelkast en tv ter beschikking gesteld worden;<br>
-7°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in elke woongelegenheid is minimaal aansluiting op tv, draadloos internet en telefoon mogelijk;&nbsp;<br>
-8°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het glasoppervlak van het raam in alle woongelegenheden en gemeenschappelijke ruimten begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is een ongehinderd zicht naar buiten mogelijk zijn;<br>
-9°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">bij de inrichting van het gebouw worden huiselijke en gezellige accenten gelegd;&nbsp;<br>
-10°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de gebouwen, de lokalen en de uitrusting worden regelmatig en correct onderhouden;<br>
-11°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;<br>
-12°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">een centraal verwarmingssysteem is verplicht. Verwarmingssystemen met open vuur zijn verboden;&nbsp;<br>
-13°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in alle lokalen zijn de verwarming, de ventilatie en de verlichting aangepast zijn aan de bestemming van het lokaal;<br>
-14°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimen een temperatuur van maximaal 26°C of als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren.&nbsp;<br>
-15°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gemaakt die voldoende groot is voor alle bewoners van wie de verblijfsruimten de vereiste temperaturen niet halen;<br>
-16°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">aangepaste zonnewering waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. </span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht van de bewoners worden vermeden</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">;<br>
-17°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in alle ruimten die voor de bewoners toegankelijke zijn, worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet vermeden kunnen worden, worden ze ondervangen conform de bepalingen in de stedenbouwkundige verordening toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
-18°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">om zich te verplaatsen in het gebouw kunnen de bewoners zich behelpen met leuningen en handgrepen. In gangen worden aan beide kanten leuningen aangebracht</span><em>.</em><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt"> Ook in de sanitaire ruimten zijn leuningen en handgrepen aangebracht;<br>
-19°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle gangen die voor de bewoners toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar de bewoner kan zitten;<br>
-20°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">elke bewoner kan altijd in alle ruimten die voor de bewoners toegankelijke zijn, een aangepast oproepsysteem gebruiken. In elke sanitaire cel is permanent een oproepsysteem aanwezig dat gemakkelijk bereikbaar is voor de bewoners. De ruimte waaruit de noodoproep komt, moet identificeerbaar zijn. Draagbare oproepsystemen zijn betrouwbaar en regelmatig gecontroleerd te worden. Als de voorziening van oordeel is dat het beschikken over een oproepsysteem niet nuttig is of een gevaar inhoudt voor de bewoner wordt dit, na overleg, geregeld, beargumenteerd en opgevolgd in het woonzorgleefplan. Elk oproepsysteem is inbegrepen in de dagprijs. Als er zowel een vast oproepsysteem als een draagbaar oproepsysteem is, zijn beide inbegrepen in de dagprijs;&nbsp;<br>
-21°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de bewoner heeft vanaf zijn bed de mogelijkheid om het licht te bedienen dat aangepast is aan de plaatselijke omstandigheden;<br>
-22°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in iedere woongelegenheid is er warm en koud stromend water;<br>
-23°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">afval wordt zodanig bewaard zodat er geen geur- of andere hinder ontstaat;<br>
-24°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ramen en toegangen kunnen beveiligd worden;<br>
-25°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">er is ten minste één uitgeruste zaal voor de kinesitherapie- en ergotherapie oefeningen en voor de begeleiding wonen en leven in groep;<br>
-26°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle ruimten die voor de bewoners toegankelijke zijn, zijn ruim genoeg zodat rolstoelgebruikers er zich gemakkelijk kunnen verplaatsen;<br>
-27°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">’s nachts zijn de woongelegenheden en gangen zo verlicht dat de bewoners zich veilig kunnen verplaatsen;<br>
-28°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">het woonzorgcentrum beschikt ten minste over een verpleeg-, een verzorgings- en een onderzoekslokaal</span><em>;<br>
-29°&nbsp;</em><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">ten minste de helft van de bedden is in de hoogte verstelbaar;<br>
+<p>Het gebouw of de gebouwen van de woonzorgcentra voldoen aan de volgende voorwaarden:<br>
+1°&nbsp;er worden per kamer niet meer dan twee bewoners gehuisvest. In een tweepersoonskamer kan een afscheiding tussen de twee bedden geplaatst worden;<br>
+2°&nbsp;de infrastructuur van het woonzorgcentrum laat toe dat de minimale privacy van elke bewoner gewaarborgd is en dat het altijd mogelijk is om de noodzakelijke zorg te bieden en hulp te verlenen;<br>
+3°&nbsp;bij elke zit- en eetruimte zijn voldoende gemeenschappelijke toiletten beschikbaar die toegankelijk zijn voor rolstoelgebruikers;<br>
+4°&nbsp;de geneesmiddelen, producten die bij inname tot gezondheidsrisico's kunnen leiden en dossiers worden op een veilige en discrete manier bewaard. De af te sluiten ruimte waar geneesmiddelen en dossiers op een veilige en discrete manier bewaard kunnen worden, wordt niet voor andere doeleinden gebruikt. Er is ook een koelkast ter beschikking om sommige geneesmiddelen koel te bewaren;<br>
+5°&nbsp;het woonzorgcentrum stelt per bewoner het nodige meubilair ter beschikking opdat elke bewoner op een behoorlijke manier kan eten, rusten en slapen. Er wordt aan de bewoners de mogelijkheid geboden de kamer in te richten met eigen meubilair. De inrichting van de woongelegenheid biedt de nodige flexibiliteit om het meubilair te plaatsen, op voorwaarde dat de zorg- en dienstverlening en de veiligheid niet in het gedrang komen;<br>
+6°&nbsp;per bewoner kan op de kamer een koelkast en tv ter beschikking gesteld worden;<br>
+7°&nbsp;in elke woongelegenheid is minimaal aansluiting op tv, draadloos internet en telefoon mogelijk;&nbsp;<br>
+8°&nbsp;het glasoppervlak van het raam in alle woongelegenheden en gemeenschappelijke ruimten begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend is een ongehinderd zicht naar buiten mogelijk;<br>
+9°&nbsp;bij de inrichting van het gebouw worden huiselijke en gezellige accenten gelegd;&nbsp;<br>
+10°&nbsp;de gebouwen, de lokalen en de uitrusting worden regelmatig en correct onderhouden;<br>
+11°&nbsp;de nodige maatregelen worden genomen om vocht en insijpeling van water en hinder van welke aard ook te voorkomen;<br>
+12°&nbsp;een centraal verwarmingssysteem is verplicht. Verwarmingssystemen met open vuur zijn verboden;&nbsp;<br>
+13°&nbsp;in alle lokalen zijn de verwarming, de ventilatie en de verlichting aangepast aan de bestemming van het lokaal;<br>
+14°&nbsp;in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22°C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimten een temperatuur van maximaal 26°C of als de waarschuwingsfase van het Vlaamse Warmteactieplan van kracht is, een temperatuur die lager ligt dan de buitentemperatuur, te bewaren.&nbsp;<br>
+15°&nbsp;als de waarschuwingsfase van het Vlaams Warmteactieplan wordt opgestart, wordt een geklimatiseerde ruimte beschikbaar gemaakt die voldoende groot is voor alle bewoners van wie de verblijfsruimten de vereiste temperaturen niet halen;<br>
+16°&nbsp;aangepaste zonnewering waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht van de bewoners worden vermeden;<br>
+17°&nbsp;in alle ruimten die voor de bewoners toegankelijke zijn, worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet vermeden kunnen worden, worden ze ondervangen conform de bepalingen in de stedenbouwkundige verordening toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
+18°&nbsp;om zich te verplaatsen in het gebouw kunnen de bewoners zich behelpen met leuningen en handgrepen. In gangen worden aan beide kanten leuningen aangebracht<em>.</em> Ook in de sanitaire ruimten zijn leuningen en handgrepen aangebracht;<br>
+19°&nbsp;alle gangen die voor de bewoners toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar de bewoner kan zitten;<br>
+20°&nbsp;elke bewoner kan altijd in alle ruimten die voor de bewoners toegankelijk zijn, een aangepast oproepsysteem gebruiken. In elke sanitaire cel is permanent een oproepsysteem aanwezig dat gemakkelijk bereikbaar is voor de bewoners. De ruimte waaruit de noodoproep komt, moet identificeerbaar zijn. Draagbare oproepsystemen zijn betrouwbaar en worden regelmatig gecontroleerd. Als de voorziening van oordeel is dat het beschikken over een oproepsysteem niet nuttig is of een gevaar inhoudt voor de bewoner wordt dit, na overleg, geregeld, beargumenteerd en opgevolgd in het woonzorgleefplan. Elk oproepsysteem is inbegrepen in de dagprijs. Als er zowel een vast oproepsysteem als een draagbaar oproepsysteem is, zijn beide inbegrepen in de dagprijs;&nbsp;<br>
+21°&nbsp;de bewoner heeft vanaf zijn bed de mogelijkheid om het licht te bedienen dat aangepast is aan de plaatselijke omstandigheden;<br>
+22°&nbsp;in iedere woongelegenheid is er warm en koud stromend water;<br>
+23° afval wordt bewaard zodat er geen geur- of andere hinder ontstaat;<br>
+24°&nbsp;ramen en toegangen kunnen beveiligd worden;<br>
+25°&nbsp;er is ten minste één uitgeruste zaal voor de kinesitherapie- en ergotherapie oefeningen en voor de begeleiding wonen en leven in groep;<br>
+26°&nbsp;alle ruimten die voor de bewoners toegankelijke zijn, zijn ruim genoeg zodat rolstoelgebruikers er zich gemakkelijk kunnen verplaatsen;<br>
+27°&nbsp;’s nachts zijn de woongelegenheden en gangen zo verlicht dat de bewoners zich veilig kunnen verplaatsen;<br>
+28°&nbsp;het woonzorgcentrum beschikt ten minste over een verpleeg-, een verzorgings- en een onderzoekslokaal<em>;<br>
+29°&nbsp;</em>ten minste de helft van de bedden is in de hoogte verstelbaar;<br>
 30°&nbsp;er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
-31° aan de coördinerend en raadgevend arts wordt een werkruimte met de nodige uitrusting ter beschikking gesteld.</span></p>
+31° aan de coördinerend en raadgevend arts wordt een werkruimte met de nodige uitrusting ter beschikking gesteld.</p>
 
 ### ART 51/1.
 
@@ -7082,32 +7087,32 @@ Het woonzorgcentrum kan de ‘Leidraad voor een ventilatieplan - Ventilatie in w
 
 ### ART 52.
 
-<p><span style="color:black">Alle woonzorgcentra of delen van woonzorgcentra die op 1 januari 2009 erkend zijn of waarvoor voor die datum een aanvraag tot erkenning is ingediend, alsook alle te bouwen woonzorgcentra of woonzorgcentrumgedeelten waarvoor voor 1 januari 2009 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden afgeleverd is, voldoen aan de volgende voorwaarden:<br>
-1°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle eenpersoonskamers hebben een nettovloeroppervlakte van ten minste 12 m2, sanitair niet inbegrepen. Alle eenpersoonskamers beschikken ook over een aparte, ingerichte sanitaire cel, die aangepast is aan de behoeften van een rolstoelgebruiker en met minstens een toilet en een wastafel;<br>
-2°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">alle tweepersoonskamers hebben een nettovloeroppervlakte van ten minste 20 m2, sanitair niet inbegrepen. Alle tweepersoonskamers beschikken ook over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker, met minstens een toilet en twee wastafels;<br>
-3°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in alle woonzorgcentra wordt niet meer dan 20 % van het totale aantal bewoners in tweepersoonskamers gehuisvest;<br>
-4°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de totale oppervlakte van de zit- en eetruimten en ruimten voor kinesitherapie, ergotherapie en animatie bedraagt netto ten minste 3 m2 per bewoner bedragen;<br>
-5°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners beschikt over ten minste één lift voor een &nbsp;&nbsp;&nbsp; rolstoelgebruiker met begeleiding;<br>
-6°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">er is minstens één gemeenschappelijk aangepast bad in het woonzorgcentrum. Er is ook per dertig bewoners ten minste één &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gemeenschappelijke badkamer beschikbaar zijn met een aangepaste bad- of douchegelegenheid en een toilet;<br>
-7°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">in de bewonerskamers en in de zit- en eetruimte bedraagt het raamoppervlak ten minste een zesde bedragen van de nettovloeroppervlakte. In een kamer of een zit- en eetruimte met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte;<br>
-8°&nbsp;</span><span style="color:black; font-family:Verdana,sans-serif; font-size:10pt">de gangen die voor de bewoners toegankelijk zijn, zijn voldoende breed zodat twee rolstoelen elkaar gemakkelijk kunnen kruisen.</span></p>
+<p>Alle woonzorgcentra of delen van woonzorgcentra die op 1 januari 2009 erkend zijn of waarvoor voor die datum een aanvraag tot erkenning is ingediend, alsook alle te bouwen woonzorgcentra of woonzorgcentrumgedeelten waarvoor voor 1 januari 2009 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden afgeleverd is, voldoen aan de volgende voorwaarden:<br>
+1°&nbsp;alle eenpersoonskamers hebben een nettovloeroppervlakte van ten minste 12 m2, sanitair niet inbegrepen. Alle eenpersoonskamers beschikken ook over een aparte, ingerichte sanitaire cel, die aangepast is aan de behoeften van een rolstoelgebruiker en met minstens een toilet en een wastafel;<br>
+2°&nbsp;alle tweepersoonskamers hebben een nettovloeroppervlakte van ten minste 20 m2, sanitair niet inbegrepen. Alle tweepersoonskamers beschikken ook over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker, met minstens een toilet en twee wastafels;<br>
+3°&nbsp;in alle woonzorgcentra wordt niet meer dan 20 % van het totale aantal bewoners in tweepersoonskamers gehuisvest;<br>
+4°&nbsp;de totale oppervlakte van de zit- en eetruimten en ruimten voor kinesitherapie, ergotherapie en animatie bedraagt netto ten minste 3 m2 per bewoner;<br>
+5°&nbsp;elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners beschikt over ten minste één lift voor een &nbsp;&nbsp;&nbsp; rolstoelgebruiker met begeleiding;<br>
+6°&nbsp;er is minstens één gemeenschappelijk aangepast bad in het woonzorgcentrum. Er is ook per dertig bewoners ten minste één gemeenschappelijke badkamer beschikbaar met een aangepaste bad- of douchegelegenheid en een toilet;<br>
+7°&nbsp;in de bewonerskamers en in de zit- en eetruimte bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte. In een kamer of een zit- en eetruimte met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte;<br>
+8°&nbsp;de gangen die voor de bewoners toegankelijk zijn, zijn voldoende breed zodat twee rolstoelen elkaar gemakkelijk kunnen kruisen.</p>
 
 ### ART 53.
 
-<p><span style="color:black">Alle te bouwen of te verbouwen woonzorgcentra of delen van woonzorgcentra waarvoor na 1 januari 2009 een stedenbouwkundige vergunning of omgevingsvergunning voor de geplande bouwwerkzaamheden is afgeleverd of waarvoor uiterlijk op 31 december 2016 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, voldoen aan al de volgende voorwaarden, ook al zijn, in geval van verbouwing, die woonzorgcentra of woonzorgcentrumgedeelten op 1 januari 2009 erkend of is er voor 1 januari 2009 een aanvraag tot erkenning van die woonzorgcentra of woonzorgcentrumgedeelten ingediend:</span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de ruimtes in het woonzorgcentrum die voor de bewoners toegankelijke zijn hebben samen een nettovloeroppervlakte van minimaal 35 m2 per bewoner. Die ruimten omvatten ten minste de woongelegenheid van de bewoner, sanitaire cel inbegrepen, de zit- en eetruimten, de gemeenschappelijke sanitaire ruimten en de gangen die voor de bewoners toegankelijke zijn;</span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16m2, sanitair niet inbegrepen. Elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker, met minstens een toilet en een wastafel;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;een tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 28m2 , sanitair niet inbegrepen. Elke tweepersoonskamer beschikt &nbsp;&nbsp; over een aparte, ingerichte sanitaire cel, die aangepast is aan de behoeften van een rolstoelgebruiker, met minstens een toilet en twee wastafels. In een tweepersoonskamer kan een afscheiding tussen de twee bedden geplaatst worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4° niet meer dan 20 % van het totale aantal bewoners mag in&nbsp;tweepersoonskamers gehuisvest worden;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">5°&nbsp;de infrastructuur van het woonzorgcentrum laat toe dat het werken met afdelingen gefaciliteerd wordt. Per afdeling is er minimaal een zit- en eetruimte beschikbaar, die aangepast is aan de grootte van de afdeling. Vanaf veertig bewoners beschikt de voorziening over minimaal twee afdelingen. Het resultaat van de deling van het aantal bewoners en het aantal afdelingen mag niet groter zijn dan veertig;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">6°&nbsp;elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners, beschikt over ten minste één lift. Minstens één lif&nbsp;is geschikt voor liggend vervoer;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">7°&nbsp;er is minstens één gemeenschappelijk, aangepast bad zijn in het woonzorgcentrum. Per dertig bewoners is er ten minste één &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gemeenschappelijke badkamer beschikbaar met een aangepaste bad- of douchegelegenheid en een toilet;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">8°&nbsp;in de bewonerskamers en in de zit- en eetruimte bedraagt het raamoppervlak ten minste een zesde bedragen van de nettovloeroppervlakte. In een kamer of een zit- en eetruimte met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">9° alle gangen die voor de bewoners toegankelijk zijn, zijn minstens 1,80m breed.</span></span></span></span></p>
+<p>Alle te bouwen of te verbouwen woonzorgcentra of delen van woonzorgcentra waarvoor na 1 januari 2009 een stedenbouwkundige vergunning of omgevingsvergunning voor de geplande bouwwerkzaamheden is afgeleverd of waarvoor uiterlijk op 31 december 2016 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, voldoen aan al de volgende voorwaarden, ook al zijn, in geval van verbouwing, die woonzorgcentra of woonzorgcentrumgedeelten op 1 januari 2009 erkend of is er voor 1 januari 2009 een aanvraag tot erkenning van die woonzorgcentra of woonzorgcentrumgedeelten ingediend:<br>
+1°&nbsp;de ruimtes in het woonzorgcentrum die voor de bewoners toegankelijk zijn, hebben samen een nettovloeroppervlakte van minimaal 35 m2 per bewoner. Die ruimten omvatten ten minste de woongelegenheid van de bewoner, de sanitaire cel inbegrepen, de zit- en eetruimten, de gemeenschappelijke sanitaire ruimten en de gangen die voor de bewoners toegankelijke zijn;<br>
+2°&nbsp;een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16m2, sanitair niet inbegrepen. Elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker, met minstens een toilet en een wastafel;<br>
+3°&nbsp;een tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 28m2 , sanitair niet inbegrepen. Elke tweepersoonskamer beschikt &nbsp;&nbsp; over een aparte, ingerichte sanitaire cel, die aangepast is aan de behoeften van een rolstoelgebruiker, met minstens een toilet en twee wastafels. In een tweepersoonskamer kan een afscheiding tussen de twee bedden geplaatst worden;<br>
+4° niet meer dan 20 % van het totale aantal bewoners mag in&nbsp;tweepersoonskamers gehuisvest worden;<br>
+5°&nbsp;de infrastructuur van het woonzorgcentrum laat toe dat het werken met afdelingen gefaciliteerd wordt. Per afdeling is er minimaal een zit- en eetruimte beschikbaar, die aangepast is aan de grootte van de afdeling. Vanaf veertig bewoners beschikt de voorziening over minimaal twee afdelingen. Het resultaat van de deling van het aantal bewoners en het aantal afdelingen mag niet groter zijn dan veertig;<br>
+6°&nbsp;elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners, beschikt over ten minste één lift. Minstens één lif&nbsp;is geschikt voor liggend vervoer;<br>
+7°&nbsp;er is minstens één gemeenschappelijk, aangepast bad in in het woonzorgcentrum. Per dertig bewoners is er ten minste één gemeenschappelijke badkamer beschikbaar met een aangepaste bad- of douchegelegenheid en een toilet;<br>
+8°&nbsp;in de bewonerskamers en in de zit- en eetruimte bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte. In een kamer of een zit- en eetruimte met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte;<br>
+9° alle gangen die voor de bewoners toegankelijk zijn, zijn minstens 1,80m breed.</p>
 
 ### ART 54.
 
-<p>De gebouwen van alle nog te ontwerpen woonzorgcentra, uitbreidingen of verbouwingen van woonzorgcentra of delen ervan waarvoor op 1 januari 2017 nog geen stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, en verbouwingen van bestaande woonzorgcentra waarvoor een stedenbouwkundige vergunning nodig is na 1 januari 2017, voldoen aan de volgende voorwaarde: de infrastructuur van het woonzorgcentrum en de omgeving die voor bewoners en bezoekers toegankelijke is, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter.<br>
+<p>De gebouwen van alle nog te ontwerpen woonzorgcentra, uitbreidingen of verbouwingen van woonzorgcentra of delen ervan waarvoor op 1 januari 2017 nog geen stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, en verbouwingen van bestaande woonzorgcentra waarvoor een stedenbouwkundige vergunning nodig is na 1 januari 2017, voldoen aan de volgende voorwaarde: de infrastructuur van het woonzorgcentrum en de omgeving die voor bewoners en bezoekers toegankelijk is, is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het agentschap Toegankelijk Vlaanderen, Inter.<br>
 <br>
 Alle kamers van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
 1°&nbsp;een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16&nbsp;m², sanitair niet inbegrepen. Elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker als vermeld in artikel 58, met minstens een toilet, een &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wastafel en bijbehorende opbergruimte;<br>
@@ -7116,7 +7121,7 @@ Alle kamers van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aa
 <br>
 Alle gemeenschappelijke ruimten van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan de volgende voorwaarden:<br>
 1°&nbsp;de infrastructuur van het woonzorgcentrum kan een kleinschalige werking toelaten, al dan niet voor specifieke doelgroepen en al dan niet in een groter geheel;<br>
-2°&nbsp;per leefgroep is er een aparte zit- en eetruimte die voldoende ruim is zodat &nbsp;alle leden van de leefgroep die ruimte gelijktijdig kunnen gebruiken. Als de afdeling uit verschillende leefgroepen bestaat, kunnen de zit- en eetruimten van de verschillende leefgroepen eventueel geschakeld worden &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; per afdeling;<br>
+2°&nbsp;per leefgroep is er een aparte zit- en eetruimte die voldoende ruim is zodat &nbsp;alle bewoners van de leefgroep die ruimte gelijktijdig kunnen gebruiken. Als de afdeling uit verschillende leefgroepen bestaat, kunnen de zit- en eetruimten van de verschillende leefgroepen eventueel geschakeld worden per afdeling;<br>
 3°&nbsp;de totale oppervlakte van de verblijfsruimten in de leefgroep bedraagt minimaal 30m² per bewoner. Die oppervlakte omvat de woongelegenheid &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappelijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor bewoners en de rustpunten die aansluiten op de gangen;<br>
 4°&nbsp;de oppervlakte van de gemeenschappelijke zit- en eetruimten in de leefgroep bedraagt altijd minimaal 4 m² per bewoner;<br>
 5°&nbsp;bij een cafetaria wordt het aantal toiletten afgestemd op de voorziene bezetting, waarbij er altijd minstens twee rolstoeltoegankelijke toiletten &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beschikbaar zijn;<br>
@@ -7137,16 +7142,16 @@ De circulatieruimte van het gebouw of de gebouwen, vermeld in het eerste lid, vo
 <br>
 De uitrusting en de inrichting van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
 1°&nbsp;in elke zit- en leefruimte kunnen alle bewoners van een leefgroep op een comfortabele manier zitten;<br>
-2°&nbsp;in afwijking van artikel 53, 30°, zijn alle bedden in de hoogte verstelbaar en aangepast aan de specifieke behoeften van de bewoner;&nbsp;<br>
+2°&nbsp;in afwijking van artikel 51, 29°, van deze bijlage zijn alle bedden in de hoogte verstelbaar en aangepast aan de specifieke behoeften van de bewoner;&nbsp;<br>
 3°&nbsp;in de woongelegenheid is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en ondersteuning van de bewoner, altijd mogelijk;<br>
 4°&nbsp;ICT is beschikbaar in het woonzorgcentrum, ter ondersteuning van de zelfredzaamheid en de sociale contacten van de bewoners, de kwaliteit van de zorg en de zorgopvolging en de uitvoering van zorgtaken.<br>
 <br>
 Het bewonerscomfort van het gebouw of de gebouwen, vermeld in het eerste lid, voldoen aan al de volgende voorwaarden:<br>
 1°&nbsp;ruimten voor bewoners worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
-2°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de bewoners. In de verblijfsruimten wordt in een basisverlichting voorzien, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+2°&nbsp;de verlichting houdt rekening met de veiligheid en de behoeften van de bewoners. In de verblijfsruimten wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
 3°&nbsp;de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een&nbsp;centraal gebouwbeheersysteem;&nbsp;<br>
 4°&nbsp;in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
-5°&nbsp;aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht van de bewoners worden vermeden. Voor de ramen aan de noordkant volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Voor de andere ramen wordt aangepaste zonnewering voorzien. Bij toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor g totaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen;&nbsp;<br>
+5°&nbsp;aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, en oververhitting en verblinding door direct zonlicht worden vermeden. Voor de ramen aan de noordkant volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Voor de andere ramen wordt aangepaste zonnewering voorzien. Bij toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor g totaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen;&nbsp;<br>
 6°&nbsp;het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
 7°&nbsp;een equivalent E-peil van 80 kan aangetoond worden in afwachting van de regelgeving betreffende de energieprestatie en het binnenklimaat in Vlaanderen en het Brusselse Hoofdstedelijke Gewest. Vanaf de inwerkingtreding van de betreffende regelgeving is die van kracht;<br>
 8°&nbsp;het globale isolatiepeil is maximaal K35;<br>
@@ -7174,17 +7179,17 @@ Een persoon wordt aangewezen als verantwoordelijke voor het beheer en onderhoud 
 
 ### ART 57.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Een woonzorgcentrum dat een persoon, jonger dan 65 jaar, opneemt, stelt in het centrum een verslag ter beschikking waaruit blijkt dat er in de woonomgeving van de gebruiker geen andere woonzorgvoorzieningen beschikbaar zijn die de zorgvraag gepast kunnen beantwoorden. </span></span></span></p>
+<p>Een woonzorgcentrum dat een persoon jonger dan 65 jaar, opneemt, stelt in het centrum een verslag ter beschikking waaruit blijkt dat er in de woonomgeving van de gebruiker geen andere woonzorgvoorzieningen beschikbaar zijn die de zorgvraag gepast kunnen beantwoorden.</p>
 
 ### ART 58.
 
-<p>§1. Per woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar, maximaal 10% van het totale aantal woongelegenheden van dat woonzorgcentrum bedragen. Het het aantal woongelegenheden met een bijzondere erkenning als centrum voor niet aangeboren hersenletsels worden daarbij niet meegerekend. De minister kan nadere voorwaarden bepalen voor de bewoners jonger dan 65 jaar.<br>
+<p>§1. Per woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar, maximaal 10% van het totale aantal woongelegenheden van dat woonzorgcentrum bedragen. Het aantal woongelegenheden met een bijzondere erkenning als centrum voor niet aangeboren hersenletsels worden daarbij niet meegerekend. De minister kan nadere voorwaarden bepalen voor de bewoners jonger dan 65 jaar.<br>
 <br>
 Een erkend woonzorgcentrum waarvan 10% of meer van het aantal gebruikers van het totale aantal erkende woongelegenheden jonger dan 65 is, houdt voor iedere bijkomende gebruiker boven die 10% een verslag van een interdisciplinair team van het woonzorgcentrum, een ziekenhuis of een personeelslid dat in de thuiszorg werkt, ter beschikking in de woonzorgvoorziening waaruit blijkt dat er in de woonomgeving van de gebruiker geen gepaste opvang beschikbaar is en dat de opname in het woonzorgcentrum beantwoordt aan de zorg- en ondersteuningsvragen van de gebruiker in kwestie. Het interdisciplinair team bevat minstens een maatschappelijk assistent en een behandelde arts.<br>
 <br>
 §2. De secretaris-generaal kan, als meer dan 10% van het aantal gebruikers van het totale aantal erkende woongelegenheden jonger dan 65 is, op basis van het gemotiveerde verzoek toestemming verlenen om een groep van gebruikers van jonger dan 65 jaar met gemeenschappelijke zorg- en ondersteuningsnoden op te nemen. Dat verzoek bevat minstens de volgende elementen:<br>
-1°&nbsp;het aantal opnamemogelijkheden het woonzorgcentrum wil voorbehouden voor die groep van gebruikers en een omschrijving van de doelgroep;<br>
-2°&nbsp;samenwerkingsverbanden met een of meer en gespecialiseerd in de doelgroep voorzieningen en een toelichting bij de toeleidingsafspraken;<br>
+1°&nbsp;het aantal opnamemogelijkheden dat het woonzorgcentrum wil voorbehouden voor die groep van gebruikers en een omschrijving van de doelgroep;<br>
+2°&nbsp;samenwerkingsverbanden met een of meer voorzieningen gespecialiseerd in de doelgroep en een toelichting bij de toeleidingsafspraken;<br>
 3°&nbsp;de nodige bewijsstukken dat het woonzorgcentrum over voldoende personeel, competenties en expertise beschikt. De minister kan bepalen over welke groepen het gaat en aanvullende voorwaarden bepalen voor die groepen van gebruikers.</p>
 
 ## Hoofdstuk 5. [... (opgeh. BVR 20 januari 2023, art. 52, I: 1 januari 2023)]
@@ -7298,7 +7303,7 @@ De gebruiker of zijn vertegenwoordiger krijgt inzage en inspraak in zijn verzorg
 
 ### ART 74.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Aan de erkende woonzorgcentra waarin of waarbij al dan niet een erkend centrum voor kortverblijf uitgebaat wordt, kan een subsidie voor de woon- en leefbegeleiding worden toegekend conform in artikel 473 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, alsook een subsidie voor de terbeschikkingstelling en het gebruik van infrastructuur, conform de bepalingen van bijlage 14.</span></span></span></p>
+<p>Aan de erkende woonzorgcentra die al dan niet ook een erkend centrum voor kortverblijf type 1 uitbaten kan een subsidie voor de woon- en leefbegeleiding worden toegekend conform in artikel 473 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, alsook een subsidie voor de terbeschikkingstelling en het gebruik van infrastructuur, conform de bepalingen van bijlage 14.</p>
 
 ## Hoofdstuk 8. Overgangsbepalingen
 
@@ -7308,7 +7313,7 @@ De gebruiker of zijn vertegenwoordiger krijgt inzage en inspraak in zijn verzorg
 
 ### ART 76.
 
-<p><span style="color:black">Het diplomavereiste, vermeld in artikel 50, 1°, is van toepassing op de directeurs die worden aangesteld vanaf 1 januari 2020. De directeurs die voor die datum zijn aangesteld, worden van rechtswege geacht aan de diplomavereiste te beantwoorden.</span></p>
+<p>De diplomavereiste, vermeld in artikel 45, §1, 1°, is van toepassing op de directeurs die worden aangesteld vanaf 1 januari 2020. De directeurs die voor die datum zijn aangesteld, worden van rechtswege geacht aan de diplomavereiste te beantwoorden.</p>
 
 ### ART 77.
 
@@ -7318,9 +7323,9 @@ In afwijking van het eerste lid voldoen de woonzorgcentra of gedeelten van woonz
 
 ### ART 78.
 
-<span style="color:black">Als over een aanvraag tot erkenning van een woonzorgcentrum of een gedeelte van een woonzorgcentrum op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het woonzorgcentrum of het gedeelte van het woonzorgcentrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
+Als over een aanvraag tot erkenning van een woonzorgcentrum of een gedeelte van een woonzorgcentrum op 31 december 2019 nog geen beslissing is genomen, wordt de aanvraag verder behandeld met toepassing van de erkenningsvoorwaarden die op 31 december 2019 van toepassing zijn. In geval van erkenning beantwoordt het woonzorgcentrum of het gedeelte van het woonzorgcentrum uiterlijk op 31 december 2022 aan de erkenningsvoorwaarden, vermeld in artikel 38 van het Woonzorgdecreet van 15 februari 2019, artikel 4 van dit besluit en hoofdstuk 3 van deze bijlage.<br>
 <br>
-In afwijking van het eerste lid voldoen de woonzorgcentra of gedeelten van woonzorgcentra die op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarde, vermeld in artikel 33/1 en artikel 62.</span>
+In afwijking van het eerste lid voldoen de woonzorgcentra of gedeelten van woonzorgcentra die op basis van het eerste lid erkend zijn, uiterlijk op 1 juli 2021 aan de erkenningsvoorwaarden, vermeld in artikel 33/1 en artikel 62.
 
 ### ART 79.
 
@@ -7346,7 +7351,7 @@ In afwijking van het eerste lid kan het woonzorgcentrum of het gedeelte van het 
 
 ### ART 83.
 
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">In afwijking van artikel 82 blijven de woonzorgcentra of de gedeelten van die woonzorgcentra waarvoor een erkennings- of omzettingskalender is verkregen aangemeld tot het kwartaal van de goedgekeurde erkennings- of omzettingskalender.</span></span></span>
+In afwijking van artikel 82 blijven de woonzorgcentra of de gedeelten van die woonzorgcentra waarvoor een erkennings- of omzettingskalender is verkregen, aangemeld tot het kwartaal van de goedgekeurde erkennings- of omzettingskalender.
 
 ### ART 84.
 
@@ -7383,19 +7388,19 @@ De woonzorgcentra die voor de eerste keer erkend worden vanaf 1 januari 2025, be
 
 ### ART 2.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het programma van de verenigingen bestaat uit:</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">1°&nbsp;een programmacijfer, dat bepaald wordt op 6;</span></span><br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">2° evaluatiecriteria als vermeld in artikel 3.</span></span></p>
+<p>Het programma van de verenigingen bestaat uit:<br>
+1°&nbsp;een programmacijfer, dat bepaald wordt op 6;<br>
+2° evaluatiecriteria als vermeld in artikel 3 van deze bijlage.</p>
 
 <ol>
 </ol>
 
 ### ART 3.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De minister legt de evaluatiecriteria, vermeld in artikel 2, 2°, vast. Hij houdt daarbij onder meer rekening met:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende verenigingen, plus het totale aantal verenigingen waarvoor een ontvankelijke en nog niet afgehandelde erkenningsaanvraag ingediend is die voldoet aan de programmatie;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2°&nbsp;de datum waarop een ontvankelijke erkenningsaanvraag ingediend is;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;de mate waarin de vereniging activiteiten ontplooit over haar hele werkingsgebied, vermeld in artikel 15.</span></span></span></span></p>
+<p>De minister legt de evaluatiecriteria, vermeld in artikel 2, 2°, van deze bijlage, vast. Hij houdt daarbij onder meer rekening met:<br>
+1°&nbsp;de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende verenigingen, plus het totale aantal verenigingen waarvoor een ontvankelijke en nog niet afgehandelde erkenningsaanvraag ingediend is die voldoet aan de programmatie;<br>
+2°&nbsp;de datum waarop een ontvankelijke erkenningsaanvraag ingediend is;<br>
+3°&nbsp;de mate waarin de vereniging activiteiten ontplooit over haar hele werkingsgebied, vermeld in artikel 15 van deze bijlage.</p>
 
 ## Hoofdstuk 3. Specifieke erkenningsvoorwaarden
 
@@ -7473,9 +7478,9 @@ De woonzorgcentra die voor de eerste keer erkend worden vanaf 1 januari 2025, be
 
 ### ART 13.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De vereniging legt een geactualiseerd ledenbestand aan van minstens 4.000 natuurlijke personen, die gebruikers of mantelzorgers zijn of geweest zijn. De vereniging bewijst dat lidmaatschap, en de algemene spreiding ervan over haar werkingsgebied, vermeld in artikel 15.</span></span><br>
+<p>De vereniging legt een geactualiseerd ledenbestand aan van minstens 4.000 natuurlijke personen, die gebruikers of mantelzorgers zijn of geweest zijn. De vereniging bewijst dat lidmaatschap, en de algemene spreiding ervan over haar werkingsgebied, vermeld in artikel 15 van deze bijlage.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De vereniging bereikt minstens 20.000 mantelzorgers en gebruikers op jaarbasis. Dat doet ze via verschillende kanalen, zoals het ledenblad, informatiebrochures, de website, de elektronische nieuwsbrief, sociale media, lotgenotencontact, vormingen, telefonische en elektronische vragen, opvolging van mogelijke klachten en bekendmaking via kanalen van overkoepelende organisaties en partnerorganisaties.</span></span></p>
+De vereniging bereikt minstens 20.000 mantelzorgers en gebruikers op jaarbasis. Dat doet ze via verschillende kanalen, zoals het ledenblad, informatiebrochures, de website, de elektronische nieuwsbrief, sociale media, lotgenotencontact, vormingen, telefonische en elektronische vragen, opvolging van mogelijke klachten en bekendmaking via kanalen van overkoepelende organisaties en partnerorganisaties.</p>
 
 ### ART 14.
 
@@ -7513,9 +7518,9 @@ De woonzorgcentra die voor de eerste keer erkend worden vanaf 1 januari 2025, be
 
 ### ART 19.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Voor een private vereniging wordt de subsidie-enveloppe, vermeld in artikel 18, verhoogd met 150,13 euro om de maatregel managementondersteuning uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.</span></span><br>
+<p>Voor een private vereniging wordt de subsidie-enveloppe, vermeld in artikel 18 van deze bijlage,&nbsp;verhoogd met 150,13 euro om de maatregel managementondersteuning uit het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de social/non profitsectoren voor de periode 2011 tot 2015 uit te voeren.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Het bedrag, vermeld in het eerste lid, wordt voor 100% aangewend voor loonkosten. </span></span></p>
+Het bedrag, vermeld in het eerste lid, wordt voor 100% aangewend voor loonkosten.</p>
 
 <ol>
 </ol>
