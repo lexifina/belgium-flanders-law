@@ -59,7 +59,7 @@ De aanduiding van de bijkomende begunstigde heeft uitwerking vanaf de eerste dag
 <br>
 De begunstigde is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door het agentschap Opgroeien regie en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
 <br>
-§ 2. Met toepassing van artikel 65, § 1, eerste lid en tweede lid, van het Groeipakketdecreet van 2018 wijzen de begunstigden op elektronische of schriftelijke wijze de uitbetalingsactor van hun keuze aan en geven ze een bankrekening op. Het verzoek wordt gedagtekend en ondertekend door beide begunstigden.<br>
+§ 2. Met toepassing van artikel 65, § 1, eerste lid en tweede lid, van het Groeipakketdecreet van 2018 wijzen de begunstigden op elektronische of schriftelijke wijze de uitbetalingsactor van hun keuze aan en geven ze een bankrekening op. Het verzoek wordt door minstens een van de begunstigden gedagtekend en ondertekend.<br>
 <br>
 Minstens een van de begunstigden is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door het agentschap Opgroeien regie en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
 <br>
