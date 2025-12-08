@@ -14,6 +14,12 @@ In dit besluit wordt verstaan onder:<br>
 3° erkenningscommissie: de erkenningscommissie voor de erkenning van de bijzondere beroepstitel van ziekenhuisapotheker;<br>
 4° secretaris-generaal: het hoofd van de administratie.
 
+## HOOFDSTUK 1/1 Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2 Samenstelling en opdrachten van de erkenningscommissie
 
 ### ART. 2.
@@ -31,8 +37,8 @@ In dit besluit wordt verstaan onder:<br>
 ### ART. 3.
 
 <p>§ 1. De erkenningscommissie is samengesteld uit:<br>
-1° vier werkende leden en vier plaatsvervangers, ziekenhuisapothekers, die sedert ten minste tien jaar over de volledige erkenning van de bijzondere beroepstitel van ziekenhuisapotheker beschikken. Ze worden voorgedragen door hun beroepsverenigingen;<br>
-2° vier werkende leden en vier plaatsvervangers, (ziekenhuis)apothekers, die ten minste vijf jaar onderwijservaring in een universitaire instelling kunnen bewijzen. Ze worden voorgedragen door de Vlaamse Interuniversitaire Raad.</p>
+1° vier werkende leden, ziekenhuisapothekers, die sedert ten minste tien jaar over de volledige erkenning van de bijzondere beroepstitel van ziekenhuisapotheker beschikken. Ze worden voorgedragen door hun beroepsverenigingen;<br>
+2° vier werkende leden, (ziekenhuis)apothekers, die ten minste vijf jaar onderwijservaring in een universitaire instelling kunnen bewijzen. Ze worden voorgedragen door de Vlaamse Interuniversitaire Raad.</p>
 
 <p>§ 2. De leden van de erkenningscommissie worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
@@ -114,21 +120,27 @@ De kandidaat houdt een exemplaar bij van de stageovereenkomst die de kandidaat h
 
 ### ART. 8.
 
-<p>§ 1. De stage wordt in principe ononderbroken gevolgd.</p>
-
-<p>§ 2. In afwijking van paragraaf 1 kan de administratie, na het advies van de erkenningscommissie, een onderbreking toestaan. De kandidaat meldt daarvoor onmiddellijk een onderbreking van de stage aan de administratie.<br>
+<p>§1. De stage wordt in principe ononderbroken gevolgd.<br>
 <br>
-Voor elke onderbreking, vermeld in het eerste lid, wordt de stage verlengd.<br>
+§2. Tijdens de effectieve opleidingsduur heeft de kandidaat recht op een onderbreking van in totaal maximaal vijftien weken om een van de volgende redenen:<br>
+1°&nbsp;&nbsp; &nbsp;zwangerschapsverlof als vermeld in artikel 39 van de Arbeidswet van 16 maart 1971;<br>
+2°&nbsp;&nbsp; &nbsp;geboorteverlof als vermeld in artikel 30 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+3°&nbsp;&nbsp; &nbsp;palliatief verlof als vermeld in artikel 100bis van de Herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
+4°&nbsp;&nbsp; &nbsp;medische redenen, zonder verlenging van de stage.<br>
 <br>
-De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+De kandidaat deelt elke onafgebroken onderbreking van minimaal zeven dagen, om de redenen, vermeld in het eerste lid, mee via een wijziging van het stageplan als vermeld in artikel 7/1.<br>
 <br>
-§ 3. Tijdens de effectieve opleidingsduur heeft de kandidaat bovendien recht op een onderbreking van in totaal maximaal vijftien weken, wegens zwangerschapsverlof als vermeld in de Arbeidswet van 16 maart 1971, wegens palliatief verlof als vermeld in de Herstelwet van 22 januari 1985 houdende sociale bepalingen, en om medische redenen, zonder verlenging van de stage.<br>
+Als de kandidaat de effectieve opleidingsduur voor de redenen, vermeld in het eerste lid, onderbreekt voor meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken, overschrijdt.&nbsp;<br>
 <br>
-Voor elke onderbreking, vermeld in het eerste lid, van meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
+De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, vermeld in het derde lid, ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
 <br>
-De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, ter goedkeuring voor aan de administratie. de administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+§3. De administratie kan, na het advies van de erkenningscommissie, een onderbreking toestaan om een andere reden dan de redenen, vermeld in paragraaf 2, eerste lid.&nbsp;<br>
 <br>
-§ 4. ....</p>
+Voor elke onderbreking, vermeld in het eerste lid, wordt de stage verlengd overeenkomstig de duurtijd van de onderbreking.&nbsp;<br>
+<br>
+De kandidaat deelt elke onderbreking als vermeld in het eerste lid mee via een wijziging van het stageplan als vermeld in artikel 7/1.<br>
+<br>
+De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
 
 ### ART. 9.
 

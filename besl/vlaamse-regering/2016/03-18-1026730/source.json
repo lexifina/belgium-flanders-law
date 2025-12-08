@@ -2,16 +2,16 @@
   "codex_id": 1026730,
   "title": "Besluit van de Vlaamse Regering van 2016-03-18 betreffende de erkenning van de bijzondere beroepstitel van ziekenhuisapotheker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026730/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "b6dfa8a6272abf63e421a2a146dbd93636a6822c9f99c8e5b3fd6206a908fbcf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026730/VolledigDocument?datum=2025-12-08",
+  "source_sha256": "333a572f9bca9601ae06755a7f8f453b7112aab313c7b5a7b02b9374591d302b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026730&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2025-12-08",
   "made": "2016-03-18",
   "gazette": "2016-04-21",
   "numac": 2016035680,
   "document_start": "2016-05-01",
   "document_end": null,
-  "in_force": "2023-06-01",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-08",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2025-12-08; future article versions excluded; article text as the API gives it"
 }
