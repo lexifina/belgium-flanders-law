@@ -217,6 +217,8 @@ Als naar aanleiding van de latere verificatie de aanslag, vermeld in het eerste 
 <br>
 § 2. Het kadastraal inkomen en de niet-belastbare inkomsten worden vastgesteld op basis van het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarin het schooljaar in kwestie begint.<br>
 <br>
+Als het kadastraal inkomen of de niet-belastbare inkomsten, vermeld in het eerste lid, herzien wordt, wordt met het herziene kadastraal inkomen of de herziene niet-belastbare inkomsten rekening gehouden.<br>
+<br>
 § 3. Niet-belastbare inkomsten worden vastgesteld aan de hand van databanken of van attesten van werkgevers, diensten of instellingen.<br>
 <br>
 § 4. Attesten die de buitenlandse belastingdienst uitgereikt heeft, of, als die ontbreken, attesten die de werkgevers, diensten of instellingen uitgereikt hebben als de inkomsten in het buitenland of bij een Europese of een andere internationale instelling verworven zijn, en die betrekking hebben op dezelfde periode, worden gelijkgesteld met het aanslagbiljet.
