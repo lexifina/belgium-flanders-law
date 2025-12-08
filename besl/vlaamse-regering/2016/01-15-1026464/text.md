@@ -17,6 +17,12 @@ In dit besluit wordt verstaan onder:<br>
 5°/1 secretaris-generaal: het hoofd van de administratie.<br>
 6° wet betreffende de uitoefening van de gezondheidszorgberoepen: wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.
 
+## HOOFDSTUK 1/1 Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2 De erkenningscommissie, de samenstelling en opdrachten
 
 ### ART. 2.
