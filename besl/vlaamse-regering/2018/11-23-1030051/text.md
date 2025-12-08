@@ -69,12 +69,9 @@ Dit besluit is niet van toepassing op voorzieningen die onder het toepassingsgeb
 
 ### ART 2.
 
-De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur van de voorzieningen voor personen met een handicap moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn:<br>
-1° de regelgeving over de brandveiligheid;<br>
-2° de regelgeving over de toegang van personen met een handicap tot gebouwen die toegankelijk zijn voor het publiek;<br>
-3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
-4° de regelgeving over ruimtelijke ordening en milieu;<br>
-5° als dat van toepassing is, de regelgeving over de integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.
+De infrastructuur met een functionele bestemming in de sector van de voorzieningen voor personen met een handicap moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
+<br>
+De gebouwen waarover een voorziening voor personen met een handicap beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.
 
 ## Afdeling 2. Specifieke bouwtechnische en bouwfysische normen voor [... (opgeh. BVR 20 maart 2020, art. 40 , I: 1 januari 2020)] de revalidatiecentra
 
