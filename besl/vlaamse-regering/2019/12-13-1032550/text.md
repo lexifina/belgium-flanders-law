@@ -61,12 +61,9 @@ Dit besluit is van toepassing op de volgende woonzorgvoorzieningen:<br>
 
 ### ART 2.
 
-De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur van de woonzorgvoorzieningen, vermeld in artikel 1, tweede lid, moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn:<br>
-1° de regelgeving over de brandveiligheid;<br>
-2° de regelgeving over de toegang van personen met een handicap tot gebouwen die toegankelijk zijn voor het publiek;<br>
-3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
-4° de regelgeving over ruimtelijke ordening en milieu;<br>
-5° als dat van toepassing is, de regelgeving over de integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.
+De infrastructuur met een functionele bestemming in de sector van de woonzorgvoorzieningen, vermeld in artikel 1, tweede lid, moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen, om voor een investeringssubsidie in aanmerking te komen.<br>
+<br>
+De gebouwen waarover een woonzorgvoorziening beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.
 
 ## Afdeling 2. Specifieke bouwtechnische en bouwfysische normen voor de centra voor dagopvang, de centra voor dagverzorging, de centra voor kortverblijf type 2 en de centra voor kortverblijf type 3
 
