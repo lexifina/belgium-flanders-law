@@ -144,7 +144,17 @@ Tijdens het toekenningsjaar wordt het recht op een sociale toeslag opnieuw geëv
 1° de aangroei van de gezinsgrootte, waardoor wordt voldaan aan de voorwaarde, vermeld in artikel 18, tweede lid, 3°, van het Groeipakketdecreet van 2018, tenzij het gezin alleen kinderen kent die onder de toepassing vallen van de artikelen 210, § 1, 214, § 2 en 215, § 1 van het voormelde decreet;<br>
 2° een daling van de gezinsgrootte, waardoor niet langer voldaan is aan de voorwaarden, vermeld in artikel 18, tweede lid, 3°, van het voormelde decreet, tenzij het gezin alleen kinderen kent die onder de toepassing vallen van de artikelen 210, § 1, 214, § 2 en 215, § 1 van het voormelde decreet;<br>
 3° een wijziging binnen het feitelijk gezin;<br>
-4° een herziening van het aanslagbiljet dat gebruikt is als referentie voor het lopende toekenningsjaar.
+4° een herziening van het aanslagbiljet&nbsp;of het kadastraal inkomen dat gebruikt is als referentie voor het lopende toekenningsjaar.
+
+### ART 9/1.
+
+Van het jaar dat in aanmerking wordt genomen, vermeld in artikel 7, §1, eerste en derde lid, van dit besluit, wordt afgeweken als er na dat in aanmerking te nemen jaar aan al de volgende voorwaarden samen voldaan wordt:<br>
+1°&nbsp;&nbsp; &nbsp;aan een van de personen, op de inkomsten van wie de toeslag wordt berekend, wordt pas in de loop van of na het jaar dat in aanmerking wordt genomen, vermeld in artikel 7, §1, eerste en derde lid, van dit besluit, een van de volgende verblijfstitels verleend:<br>
+a)&nbsp;&nbsp; &nbsp;slachtoffer van mensenhandel dat is geattesteerd door een centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel en dat door de federale overheid is erkend;<br>
+b)&nbsp;&nbsp; &nbsp;persoon met een buitenlandse nationaliteit die toegelaten is tot een verblijf van bepaalde duur in België conform artikel 49, §1, of artikel 49/2, §1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+2°&nbsp;&nbsp; &nbsp;de inkomsten van een van de personen waarop de toeslag wordt berekend, kan niet bepaald worden aan de hand van inkomsten als vermeld in artikel 7, §1, eerste en derde lid, van dit besluit, die de Federale Overheidsdienst Financiën controleert of aan de hand van inkomsten die een buitenlandse belastingdienst controleert.<br>
+<br>
+In het geval, vermeld in het eerste lid, wordt rekening gehouden met de inkomsten van het eerste kalenderjaar dat volgt op het jaar waarin de verblijfstitel is verkregen.
 
 ### ART 10.
 
