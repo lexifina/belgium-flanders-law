@@ -1414,154 +1414,21 @@ Het initiatief van beschut wonen wijst een persoon aan die belast is met de veil
 
 De programmatie van de initiatieven van beschut wonen gelegen in het Nederlandse taalgebied is 0,5 zorggebruikers per duizend inwoners. De programmatie van de initiatieven van beschut wonen gelegen in het tweetalig gebied Brussel-Hoofdstad is 0.17 zorggebruikers per duizend inwoners.
 
-## Titel 3. Financiering
+## Titel 3. ...
 
 ### ART 153.
 
-§ 1. Per erkend initiatief van beschut wonen wordt een prijs per verblijfdag bepaald per zorggebruiker als vermeld in de begeleidingscapaciteit. De prijs per verblijfdag in een initiatief van beschut wonen is gelijk aan de som van de vergoedingen, vermeld in paragraaf 2, gedeeld door het quotum van verblijfdagen.<br>
-<br>
-Het quotum van verblijfdagen is gelijk aan het aantal gefactureerde dagen dat de begeleidingscapaciteit gedurende het voorbije kalenderjaar effectief vervuld was.<br>
-<br>
-Provisioneel wordt uitgegaan van een bezetting van 100 %.<br>
-<br>
-De eindverrekening gebeurt via een inhaalbedrag dat wordt toegepast op de som van de vergoedingen van het daaropvolgend jaar.<br>
-<br>
-§ 2. Per erkend initiatief van beschut wonen worden de volgende vergoedingen toegekend:<br>
-1° een vergoeding voor de personeelskosten: 8.475,02 euro per zorggebruiker voor twee derde van het aantal zorggebruikers en 11.300,05 euro per zorggebruiker voor een derde van het aantal zorggebruikers;<br>
-2° een vergoeding voor de werkingskosten gekoppeld aan de begeleiding: 770,35 euro per zorggebruiker;<br>
-3° een vergoeding voor de kosten van het functiecomplement van de coördinator: jaarlijks een brutobedrag van 1.367,56 euro voor een jaarlijkse coördinatiepremie voor de coördinator;<br>
-4° een vergoeding voor de functie van coördinerend psychiater:<br>
-a) 9.371,52 euro voor de initiatieven met een begeleidingscapaciteit van maximaal 20 zorggebruikers;<br>
-b) 15.619,21 euro voor de initiatieven met een begeleidingscapaciteit van maximaal 40 zorggebruikers;<br>
-c) 18.743,05 euro voor de initiatieven met een begeleidingscapaciteit van maximaal 60 zorggebruikers;<br>
-d) 21.866,93 euro voor de initiatieven met een begeleidingscapaciteit van maximaal 80 zorggebruikers;<br>
-e) 24.990,77 euro voor de initiatieven met een begeleidingscapaciteit van maximaal 100 zorggebruikers;<br>
-f) 28.114,61 euro voor de initiatieven met een begeleidingscapaciteit van meer dan 100 zorggebruikers.<br>
-5° een vergoeding voor de registratie van de minimale psychiatrische gegevens: 3.470,94 euro per initiatief van beschut wonen, verhoogd met 69,40 euro per zorggebruiker;<br>
-6° een eenmalige installatievergoeding van 2.074,03 euro per extra zorggebruiker nadat de administratie de begeleidingscapaciteit van een erkend initiatief van beschut wonen heeft uitgebreid;<br>
-7° een vergoeding voor de eindeloopbaanmaatregelen:<br>
-a) Definities<br>
-Voor de toepassing van dit punt 7° wordt verstaan onder :<br>
-1) eindeloopbaanmaatregelen: de maatregelen genomen in het Akkoord betreffende de federale gezondheidssectoren van 26 april 2005 afgesloten tussen de federale regering en de representatieve organisaties van de private non-profit sector en het protocol nr. 148/2 van 29 juni 2005, 5 juli 2005 en 18 juli 2005 van het Gemeenschappelijk Comité voor het geheel van de openbare diensten;<br>
-2) personeelsleden: het verplegend en verzorgend personeel in de zin van artikel 8, 7° en 8°, van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987. Onder verzorgend personeel verstaat men de werknemers die de ermee overeenstemmende loonschaal genieten.<br>
-Hierbij komen nog :<br>
-a. de sociaal verpleegkundigen;<br>
-b. de kinesitherapeuten/ergotherapeuten/logopedisten/diëtisten;<br>
-c. opvoeders begeleiders geïntegreerd in de zorgteams;<br>
-d. maatschappelijk assistenten en psychologische assistenten tewerkgesteld in de zorgunits of geïntegreerd in het therapeutisch programma;<br>
-e. de psychologen, orthopedagogen en pedagogen tewerkgesteld in de zorgunits of geïntegreerd in het therapeutisch programma;<br>
-f. de logistieke assistenten;<br>
-g. de personen vermeld in de artikelen 152 en 153 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen.<br>
-De omschrijving van de beroepen verwijst naar de reëel uitgeoefende functie.<br>
-3) verantwoorde afwezigheidsperiode: de niet-gepresteerde dagen of uren die gelijkgesteld worden met werkdagen of werkuren, voor zover die aanleiding gegeven hebben tot de betaling van een vergoeding door de instelling. Hierin zitten eveneens de dagen waarop het personeelslid wegens ziekte of invaliditeit op disponibiliteit gesteld is.<br>
-b) voor de vergoeding voor de eindeloopbaanmaatregelen gelden de volgende principes:<br>
-1) de initiatieven van beschut wonen hebben recht op een jaarlijkse financiële tegemoetkoming ter compensatie van de maatregelen voor de vrijstelling van arbeidsprestaties in het kader van de eindeloopbaanproblematiek als vermeld in het akkoord van 26 april 2005 betreffende de federale gezondheidssectoren, afgesloten tussen de federale regering en de representatieve organisaties van de private non-profit sector en in het protocol nr. 148/2 van 29 juni 2005, 5 juli 2005 en 18 juli 2005 van het Gemeenschappelijk Comité voor het geheel van de openbare diensten, op voorwaarde dat ze onderworpen zijn aan de toepassing van een collectieve arbeidsovereenkomst gesloten in de bevoegde paritaire commissie, of van protocolakkoorden gesloten in de bevoegde onderhandelingscomités, als vermeld in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel;<br>
-2) de financiële tegemoetkoming dekt alleen de voordelen, vermeld in dit besluit, en is maar mogelijk als de collectieve arbeidsovereenkomst of het protocolakkoord voorziet in de volgende voordelen en als de betrokken personeelsleden die voordelen ook daadwerkelijk krijgen:<br>
-i) de voltijdse personeelsleden die de leeftijd van 45, 50 of 55 jaar bereikt hebben, hebben recht op een vrijstelling van hun arbeidsprestaties met respectievelijk 96 uur, 192 uur of 288 betaalde uren per jaar, toegekend in de vorm van volledige dagen. Die vrijstelling treedt in werking vanaf de eerste dag van de maand waarin de voormelde respectieve leeftijdsgrenzen bereikt worden. De beoefenaars van de verpleegkunde kunnen ook opteren voor het behoud van de prestaties met een premie van respectievelijk 5,26 %, 10,52 % of 15,78 %, berekend op hun voltijdse wedde. Bij combinatie van opties vanaf de leeftijd van 50 jaar wordt de tegemoetkoming toegekend op basis van een opsplitsing in volledige schijven van 2 uur;<br>
-ii) het personeelslid dat deeltijds werkt, heeft recht op een bijkomend aantal compensatiedagen of, voor de beoefenaars van de verpleegkunde, een equivalente premie, gelijk aan de proportionele toepassing van de vrijstelling van arbeidsprestaties of de premie. Voor de werknemers in de privé sector en rekening houdend met de collectieve arbeidsovereenkomst nr. 35 van 27 februari 1981 betreffende sommige bepalingen van het arbeidsrecht ten aanzien van de deeltijdse arbeid, zal aan de deeltijdse werknemers voorgesteld worden om binnen de voorwaarden, vermeld in artikel 4 van voormelde collectieve arbeidsovereenkomst nr. 35, de wekelijkse arbeidsduur ingeschreven in hun arbeidsovereenkomst automatisch te verhogen. Ze krijgen in dat geval een vrijstelling van prestaties op basis van hun nieuw contract. Voor de werknemers in de publieke sector die deeltijds werken en voor wie eindeloopbaanmaatregelen gelden, is de werkgever ertoe gehouden hen drie maanden vóór de datum van intrede in het stelsel van de eindeloopbaan of van hun toegang tot een hoger recht in dat kader voor te stellen dat de wekelijkse arbeidsduur die ingeschreven is in hun arbeidsovereenkomst, verhoogd wordt naar rato van het aantal uren van vrijstelling van prestaties waarin voorzien is voor de leeftijdscategorie waartoe ze behoren. De werknemer is ertoe gehouden uiterlijk één maand vóór zijn intrede in het stelsel van de eindeloopbaan of zijn toegang tot een hoger recht in het kader van de eindeloopbaanregeling, aan de werkgever ofwel zijn akkoord met die verhoging van zijn wekelijkse arbeidsduur te betekenen ofwel zijn weigering mee te delen. In dat laatste geval krijgt de werknemer een vermindering van de wekelijkse arbeidsduur van zijn arbeidsprestaties waarin voorzien is voor de leeftijdscategorie waartoe hij behoort en dit in verhouding tot zijn wekelijkse arbeidsduur ten opzichte van een voltijds tewerkgestelde werknemer;<br>
-iii) de volgende personen worden gelijkgesteld met de personeelsleden: de werknemers die gedurende een referentieperiode van 24 maanden voorafgaand aan de maand waarin ze de leeftijd van respectievelijk 45, 50 of 55 jaar bereiken, minstens 200 uur bij dezelfde werkgever verricht hebben in een of meer functies, waarvoor ze het supplement voor onregelmatige prestaties voor zondag, zaterdag, feestdag, nachtdienst of onderbroken diensten of elke andere vergoeding ontvangen hebben die voortvloeit uit een collectieve arbeidsovereenkomst, of die een compensatierust ingevolge die prestaties gekregen hebben. De verantwoorde afwezigheidsperioden de gelijkgestelde dagen of uren) komen in aanmerking op basis van het gemiddelde van de rest van de referentieperiode. De werknemer die niet meer aan de voormelde voorwaarde van 200 uur onregelmatige prestaties over een referentieperiode van maximaal 24 maanden voldoet, kan bij de overgang naar een hogere leeftijdscategorie geen bijkomende vrijstelling van arbeidsprestaties krijgen. De deeltijdse werknemers bewijzen een aantal uren van onregelmatige prestaties dat overeenstemt met 200 uur berekend naar verhouding van de arbeidsduur over een referentieperiode van maximaal 24 maanden. De werknemer die, op het moment dat hij de leeftijd van 45, 50 of 55 jaar bereikt, geen 200 uur onregelmatige prestaties bij dezelfde werkgever verricht heeft of die niet meer aan die voorwaarde voldoet, treedt toe tot het statuut van gelijkgesteld personeel, en dus tot het recht op vrijstelling van arbeidsprestaties op het moment dat hij die 200 uren in de loop van een periode van maximaal 24 achtereenvolgende maanden heeft uitgevoerd. De vrijstelling van arbeidsprestaties gaat dan in op de dag die is bepaald in de collectieve arbeidsovereenkomst of het protocolakkoord dat van toepassing is;<br>
-iv) de personen voor wie de eindeloopbaanmaatregelen gelden die ingevoerd zijn door het in 2000 gesloten sociale akkoord, en die voor de loonpremie geopteerd hebben, blijven dat voordeel behouden. De personen voor wie de eindeloopbaanmaatregelen gelden die vóór 1 oktober 2005 zijn ingesteld, en die hebben gekozen voor de loonpremie, blijven die behouden. Als een personeelslid van functie wisselt, behoudt hij zijn voorafgaand recht op de eindeloopbaanmaatregelen;<br>
-v) de werknemers die vrijgesteld zijn van prestaties, worden altijd beschouwd als werknemers die hun contractuele of statutaire arbeidsduur behouden;<br>
-vi) de optie van vrijstelling is altijd definitief. Daarentegen, het behoud van prestaties met premie kan op elk ogenblik worden omgezet in vrijstelling van arbeidsprestaties;<br>
-c) voor de vergoeding voor de eindeloopbaanmaatregelen gelden de volgende financieringsregels: om de eindeloopbaanmaatregelen te financieren, wordt aan de initiatieven van beschut wonen een forfaitair bedrag toegekend, vastgesteld volgens de volgende regels:<br>
-1) de personeelscategorieën zijn de volgende:<br>
-i) de verpleegkundigen, de sociaal verpleegkundigen en de assistenten in ziekenhuisverzorging;<br>
-ii) de kinesitherapeuten, de ergotherapeuten, logopedisten, de diëtisten, de opvoeders-begeleiders geïntegreerd in de zorgteams, de maatschappelijk assistenten en psychologisch assistenten in de zorgteams of geïntegreerd in het therapeutisch programma, de psychologen, orthopedagogen en pedagogen in de zorgteams of geïntegreerd in het therapeutisch programma;<br>
-iii) de verzorgenden en de werknemers, vermeld in artikel 152 en 153 van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
-iv) het gelijkgesteld personeel en de logistieke assistenten;<br>
-2) Het forfaitaire bedrag wordt als volgt berekend: F = F1 + F2<br>
-3) berekening van de vrijstelling van arbeidsprestaties: F1 = het verschuldigd bedrag voor de compenserende indienstneming voor personeelsleden die voor de vrijstelling van de wekelijkse arbeidsprestaties opteren: F1 = Ai * T1/S * N/Y, waarbij:<br>
-i) Aa = 50.286,36 euro voor categorie i;<br>
-ii) Ab = 50.286,36 euro voor categorie ii;<br>
-iii) Ac = 40.592,66 euro voor categorie iii;<br>
-iv) Ad = 40.554,10 euro voor categorie iv;<br>
-v) T1: het wekelijks aantal vrijgestelde uren die de werknemer die ter compensatie in dienst genomen is, of die de werknemer die zijn arbeidsduur verhoogt, compenseert;<br>
-vi) S: wekelijkse arbeidsregeling toegepast in het initiatief van beschut wonen;<br>
-vii) N: jaarlijks aantal werkuren te bezoldigen door de werkgever ter compensatie van de vrijgestelde uren van de begunstigde werknemers voor het beschouwde jaar in het kader van de eindeloopbaanmaatregelen;<br>
-viii) Y: theoretisch jaarlijks aantal werkuren die de werknemer die ter compensatie in dienst genomen is, moet presteren ten opzichte van zijn arbeidsovereenkomst, zijn individuele benoemingsakte of het aanhangsel bij zijn arbeidsovereenkomst in geval van verhoging van de werktijd;<br>
-4) berekening van het bedrag voor de premie: F2 = Ai * H/38 * T2/S * N/Y, waarbij:<br>
-i) Aa = 68.719,04 euro voor categorie i;<br>
-ii) Ab = 68.719,04 euro voor categorie ii;<br>
-iii) Ac = 51.179,99 euro voor categorie iii;<br>
-iv) Ad = 46.245,61 euro voor categorie iv;<br>
-v) H: equivalent wekelijks aantal uren van vrijstelling van arbeidsprestaties in het kader van de toekenning van een premie voor een voltijdse werknemer op basis van zijn leeftijd;<br>
-vi) T2: aantal per week te presteren uren die voortvloeit uit de arbeidsovereenkomst of de individuele benoemingsakte, die in voorkomend geval uitgeoefend zijn in de functie waarvoor de maatregel geldt;<br>
-vii) S: wekelijkse arbeidsregeling toegepast in het initiatief van beschut wonen;<br>
-viii) N: jaarlijks aantal werkuren door de werkgever bezoldigt in het kader van de eindeloopbaanmaatregelen voor het beschouwde jaar;<br>
-ix) Y: theoretisch jaarlijks aantal werkuren die de begunstigde moet presteren volgens zijn arbeidsovereenkomst of zijn individuele benoemingsakte;<br>
-d) voor de vergoeding voor de eindeloopbaanmaatregelen verstrekt het initiatief van beschut wonen de volgende gegevens aan de administratie, in de vorm bepaald door de administratie:<br>
-1) voor- en achternaam van het personeelslid;<br>
-2) het rijksregisternummer;<br>
-3) de geboortedatum;<br>
-4) de functie;<br>
-5) de gekozen optie tussen de vrijstelling van arbeidsprestaties en de premie voor elk van de schijven;<br>
-6) het aantal uren van vrijstelling van arbeidsprestaties dat hij kan verkrijgen op basis van zijn leeftijd;<br>
-7) de wekelijkse uurregeling in het initiatief van beschut wonen;<br>
-8) het aantal uren dat het personeelslid moet presteren, zoals blijkt uit het arbeidscontract, in voorkomend geval verminderd naar verhouding van de prestaties die het personeelslid heeft verricht in de functie die het voordeel van de in deze paragraaf vermelde maatregel verantwoordt;<br>
-9) de datum van de aanwerving;<br>
-10) de eventuele vertrekdatum;<br>
-11) in geval van gelijkgesteld personeel, het aantal uren onregelmatige prestaties, met een minimum van 200 uur in 24 maanden;<br>
-12) en de door de werkgever niet-bezoldigde perioden van afwezigheid alsook hun aard;<br>
-e) voor de vergoeding voor de eindeloopbaanmaatregelen geldende toekenningsmodaliteiten: het voorlopige bedrag wordt berekend ten opzichte van het laatst bekende definitieve bedrag, als bij dat bedrag rekening gehouden wordt met alle leeftijdsgroepen. In het ander geval wordt het vastgesteld ten opzichte van het voorlopig bedrag van het jaar n-1. Telkens er een definitief bedrag berekend wordt, vormt het de geldige provisie voor het kalenderjaar dat volgt op de datum van vaststelling van dat definitieve bedrag. Het verschil tussen de definitieve F en de voorlopige F wordt via inhaalbedragen vereffend;<br>
-f) voor de vergoeding voor de eindeloopbaanmaatregelen geldende bepalingen voor de compensatie van de vrijgestelde uren:<br>
-Voor de personeelsleden die geopteerd hebben voor de wekelijkse vrijstelling van arbeidsprestaties, levert de beheerder het bewijs dat de vrijgemaakte arbeidstijd en de toegekende financiering gecompenseerd zijn door nieuwe aanwervingen of door een verhoging van de wekelijkse arbeidsduur door de personeelsleden. De volgende personen komen niet in aanmerking: de voltijdse werknemers voor wie de eindeloopbaanmaatregelen gelden en de werknemers waarvoor de instelling al een financiering krijgt in het kader van het arbeidsbeleid.<br>
-De totale hoeveelheid per financieringscategorie (categorieën i, ii, iii en iv van punt c, 1° ) van het personeel te compenseren uren wordt prioritair door dezelfde financieringscategorie van het personeel gecompenseerd.<br>
-De toegekende financiering wordt, in voorkomend geval, begrensd tot het werkelijke totale aantal vervangingen. Daarom bezorgt de beheerder, op hetzelfde ogenblik als de inlichtingen die dienen voor de definitieve berekening, de volgende inlichtingen:<br>
-1) voor- en achternaam van het aangeworven personeelslid of van het personeelslid dat het voorwerp uitmaakt van een verhoging van zijn arbeidstijd;<br>
-2) het rijksregisternummer;<br>
-3) de geboortedatum;<br>
-4) de begin- en einddatum in de functie;<br>
-5) de functie;<br>
-6) de wekelijkse compensatiewerktijd van de nieuwe werknemer of de verhoging van de uurprestaties van de werknemer in functie die zijn werktijd verhoogt;<br>
-7) de perioden van afwezigheid die door de werkgever niet bezoldigd worden, en de aard ervan;<br>
-8) de kostenplaats voor imputatie;<br>
-9) de datum van het begin van het bijvoegsel bij de overeenkomst van de werknemer die zijn werktijd verhoogt of van de overeenkomst van de nieuwe werknemer;<br>
-10) de einddatum van de overeenkomst;<br>
-Bij die gegevens moeten de nieuwe arbeidsovereenkomsten en de bijvoegsels bij de overeenkomsten in geval van verhoging van de arbeidstijd of individuele benoemingsakten gevoegd worden;<br>
-g) voor de vergoeding voor de eindeloopbaanmaatregelen geldende sancties: als de beheerder niet binnen de vereiste termijn de inlichtingen voor de uitwerking van de definitieve budgetten mededeelt, worden de voorlopige bedragen teruggevorderd.<br>
-Met het oog op het opstarten van de herziening van de eindeloopbaanmaatregelen bezorgt het initiatief van beschut wonen voor 30 april van het kalenderjaar waarop de herziening van de eindeloopbaanmaatregelen betrekking heeft, aan de administratie een tabel over het betrokken personeel.<br>
-De initiatieven van beschut wonen bezorgen de administratie ook een kopie van de arbeidscontracten van het personeel dat ter vervanging aangeworven is of de aanhangsels van de arbeidscontracten voor het personeel dat zijn arbeidstijd verhoogd heeft;<br>
-8° een vergoeding voor de kosten van de attractiviteitspremie:<br>
-a) voor alle werknemers van de openbare initiatieven van beschut wonen wordt de attractiviteitspremie toegekend in de vorm van een jaarlijks forfaitair bedrag van 803,87 euro per voltijds equivalent.<br>
-b) voor elk jaar wordt het bedrag berekend door het aantal voltijds equivalenten van het initiatief van beschut wonen te vermenigvuldigen met het forfaitair bedrag van de attractiviteitspremie;<br>
-c) voor alle werknemers van de private initiatieven van beschut wonen wordt de attractiviteitspremie toegekend in de vorm van een jaarlijks forfaitair bedrag van 833,80 euro per voltijds equivalent.<br>
-d) voor elk jaar wordt het bedrag berekend door het aantal voltijds equivalenten van het initiatief van beschut wonen te vermenigvuldigen met het forfaitair bedrag van de attractiviteitspremie;<br>
-9° een vergoeding voor de erkende zorgvernieuwende initiatieven voor activering, vermeld in artikel 148:<br>
-a) 27.961,95 euro voor de financiering van 0,5 voltijds equivalenten in de initiatieven met een begeleidingscapaciteit van maximaal 19 zorggebruikers;<br>
-b) 41.942,93 euro voor de financiering van 0,75 voltijds equivalenten in de initiatieven met een begeleidingscapaciteit van 20 tot 39 zorggebruikers;<br>
-c) 69.904,85 euro voor de financiering van 1,25 voltijds equivalenten in de initiatieven met een begeleidingscapaciteit van 40 tot 59 zorggebruikers;<br>
-d) 83,885,85 euro voor de financiering van 1,5 voltijds equivalenten in de initiatieven met een begeleidingscapaciteit van 60 tot 99 zorggebruikers;<br>
-e) 111.847,79 euro voor de financiering van 2 voltijds equivalenten in de initiatieven met een begeleidingscapaciteit van 100 tot 149 zorggebruikers;<br>
-f) 167.771,69 euro voor de financiering van 3 voltijds equivalenten in de initiatieven met een begeleidingscapaciteit van meer dan 150 zorggebruikers;<br>
-10° een vergoeding voor de erkende zorgvernieuwende initiatieven voor psychiatrische zorg in de thuissituatie, vermeld in artikel 149: de minister legt per initiatief van beschut wonen het bedrag vast;<br>
-11° een vergoeding van:<br>
-a) 46,08 euro per zorggebruiker om ongemakkelijke prestaties, tussen 19 uur en 20 uur, door personeel dat de functie van opvoeder uitoefent, te valoriseren conform artikel 7 tot en met 9 van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties;<br>
-b) 1,71 euro per zorggebruiker om de valorisatie van ongemakkelijke prestaties uit te breiden tot het personeel dat niet valt onder de bepalingen van het voormelde koninklijk besluit van 28 december 2011, en dit volgens dezelfde regels;<br>
-12° een vergoeding van 32,38 euro per zorggebruiker om de financiële tegemoetkoming van de werkgever in de vervoerskosten van de werknemers te dekken, overeenkomstig de collectieve arbeidsovereenkomst nr. 19octies van 20 februari 2009;<br>
-13° een vergoeding voor de geregulariseerde DAC functies in de initiatieven van beschut wonen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 maart 2018 tot toekenning van de DAC subsidies aan enkele initiatieven van beschut wonen;<br>
-14° een vergoeding voor de regularisatie van de gesubsidieerde contractuelen in initiatieven van beschut wonen: de minister bepaalt het bedrag per initiatief van beschut wonen.<br>
-<br>
-In dit artikel wordt verstaan onder gesubsidieerde contractueel: de gesubsidieerde contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen.<br>
-<br>
-§ 3. De prijs per verblijfdag, vermeld in paragraaf 1, eerste lid, wordt vanaf 1 januari 2020 verminderd met 1,3%.
+...
 
 ### ART 154.
 
-De bedragen, vermeld in artikel 153, worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld waarbij de verhoging of de vermindering wordt toegepast vanaf de eerste maand nadat het indexcijfer een waarde bereikt die een wijziging rechtvaardigt.<br>
-<br>
-De koppeling aan het indexcijfer, vermeld in het eerste lid, wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-De bedragen, vermeld in artikel 153, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013=100).
+...
 
-## Titel 4. Tegemoetkoming voor zorg in de prijs per verblijfdag
+## Titel 4. ...
 
 ### ART 155.
 
-De tegemoetkoming voor zorg in de prijs per verblijfdag in een initiatief van beschut wonen, vermeld in artikel 66, eerste lid, van het decreet van 6 juli 2018, is gelijk aan de prijs per verblijfdag, vermeld in artikel 153 van dit besluit.<br>
-<br>
-De tegemoetkoming, vermeld in het eerste lid, dekt het aanbod van zorg, vermeld in artikel 153, § 2, van dit besluit.<br>
-<br>
-Een erkend initiatief van beschut wonen dat vanaf 1 januari 2020 en vóór 1 januari 2021 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging, verminderd met 1,3%. Een erkend initiatief van beschut wonen dat na 1 januari 2019 en vóór 1 januari 2020 of vanaf 1 januari 2021 en vóór 1 januari 2023 ontstaan is uit de samenvoeging van twee of meer vóór 1 januari 2019 erkende initiatieven van beschut wonen, ontvangt een tegemoetkoming voor zorg die minstens evenveel bedraagt als de som van de geïndexeerde tegemoetkomingen voor zorg die de afzonderlijk erkende initiatieven van beschut wonen ontvingen in het boekjaar vóór de samenvoeging.
+...
 
 ## Titel 5. Bijzondere verzekeringsstelsels
 
