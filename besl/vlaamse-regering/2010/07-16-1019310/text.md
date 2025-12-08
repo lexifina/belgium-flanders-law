@@ -24,15 +24,7 @@ Dit besluit is niet van toepassing op de poliklinieken.<br /><br />In het eerste
 
 In dit artikel wordt onder verzorgingsvoorziening verstaan : een psychiatrisch verzorgingstehuis, een rust- en verzorgingstehuis of een ziekenhuis.<br>
 <br>
-De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de verzorgingsvoorzieningen moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<br>
-1° de regelgeving over de brandveiligheid;<br>
-2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br>
-3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
-4° het Algemeen Reglement inzake elektrische installaties;<br>
-5° de typebestekken, opgesteld door het Vlaams Ministerie van Mobiliteit en Openbare Werken;<br>
-6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br>
-7° de regelgeving over de milieuvergunningen;<br>
-8° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.<br>
+De infrastructuur met een functionele bestemming in de sector van de verzorgingsvoorzieningen moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
 <br>
 De gebouwen waarover een verzorgingsvoorziening beschikt, moeten gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer.
 

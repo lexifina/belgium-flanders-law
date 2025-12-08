@@ -2,16 +2,16 @@
   "codex_id": 1019310,
   "title": "Besluit van de Vlaamse Regering van 2010-07-16 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019310/VolledigDocument?datum=2024-09-21",
-  "source_sha256": "731b32ecc8230db327dd2dacb8d46363259c566189fcffab175cc22a22f6afb7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019310/VolledigDocument?datum=2025-12-08",
+  "source_sha256": "b4f1d653e144a839909d559b8009045f6140189571ef858f2e8c7bac5e4b1283",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019310&param=informatie",
-  "as_of": "2024-09-21",
+  "as_of": "2025-12-08",
   "made": "2010-07-16",
   "gazette": "2010-08-18",
   "numac": 2010204273,
   "document_start": "2010-08-28",
   "document_end": null,
-  "in_force": "2024-09-21",
+  "in_force": "2025-12-08",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2024-09-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-08; future article versions excluded; article text as the API gives it"
 }
