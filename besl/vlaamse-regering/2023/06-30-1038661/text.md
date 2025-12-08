@@ -62,14 +62,14 @@ In afwijking van het tweede lid is dit besluit niet van toepassing op:<br>
 
 ### ART 4.
 
-De infrastructuur van een revalidatievoorziening komt in aanmerking voor een investeringssubsidie als ze voldoet aan de volgende algemene bouwtechnische en bouwfysische normen:<br>
-1° de regelgeving over de brandveiligheid;<br>
-2° de regelgeving over de toegankelijkheid van publieke gebouwen;<br>
-3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen;<br>
-4° het Algemeen Reglement op de Elektrische Installaties;<br>
-5° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br>
-6° de regelgeving over milieu;<br>
-7° als dat van toepassing is, de regelgeving over de integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren;<br>
+De infrastructuur van een revalidatievoorziening komt in aanmerking voor een investeringssubsidie als ze voldoet aan de geldende algemene bouwtechnische en bouwfysische normen en aan de volgende voorwaarden:<br>
+1°...;<br>
+2°...;<br>
+3°...;<br>
+4°...;<br>
+5°...;<br>
+6°...;<br>
+7°...;<br>
 8° de ligging en het concept van het gebouw zijn aangepast aan de behoeften en de mogelijkheden van de doelgroep;<br>
 9° de inrichting en uitrusting van het gebouw en de omgeving houden rekening met de leeftijd en de specifieke behoeften van de doelgroep.&nbsp;<br>
 10° het gebouw is zo geconcipieerd dat er voldoende zicht is op wie het gebouw binnenkomt en verlaat;<br>
