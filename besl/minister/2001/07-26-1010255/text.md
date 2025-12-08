@@ -121,10 +121,11 @@ Bijvoorbeeld : ongevallenvergoeding, renten van levensverzekeringen, lijfrenten 
 Onderhoudsgelden moeten voor de ontvangende partij opgeteld worden bij het inkomen. Voor de betalende partij wordt het niet als inkomen beschouwd en moet het afgetrokken worden van het netto maandinkomen.<br>
 <br>
 f. Komen niet in aanmerking als inkomen :<br>
-•de wettelijke gezinsbijslagen;<br>
+• de wettelijke gezinsbijslagen;<br>
 • de studiebeurzen;<br>
 • de toelagen voor het bijhouden van pleegkinderen;<br>
-• mantelzorg - en thuiszorgpremies en/of -toelagen, toegekend door lokale en/of provinciale overheden, ziekenfondsen en de Vlaamse gemeenschapscommissie<br>
+• mantelzorg - en thuiszorgpremies en/of -toelagen, toegekend door lokale en/of provinciale overheden, ziekenfondsen en de Vlaamse gemeenschapscommissie;<br>
+•&nbsp;het zorgbudget voor zwaar zorgbehoevenden, vermeld in artikel 78 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 III. Lasten van de gebruiker<br>
 <br>
