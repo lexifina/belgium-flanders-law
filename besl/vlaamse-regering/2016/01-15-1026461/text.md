@@ -14,6 +14,12 @@ In dit besluit wordt verstaan onder:<br>
 3° erkenningscommissie: de erkenningscommissies&nbsp;voor de erkenning van de beoefenaars van de verpleegkunde,&nbsp;voor de erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige;<br>
 4° secretaris-generaal: het hoofd van de administratie.
 
+## HOOFDSTUK 1/1 Toepassingsgebied
+
+### ART 1/1.
+
+De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2 De erkenningscommissies
 
 ## Afdeling 1 Samenstelling en opdrachten
@@ -29,16 +35,14 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 3.
 
-<p>§1. De erkenningscommissie, vermeld in artikel 2, eerste lid, 1°, is samengesteld uit:<br>
-1°&nbsp;&nbsp; &nbsp;acht leden die houder zijn van een van de bijzondere beroepstitels in kwestie. Voor elke bijzondere beroepstitel zetelen maximaal twee leden in de erkenningscommissie;<br>
-2°&nbsp;&nbsp; &nbsp;vier leden die houder zijn van een van de bijzondere beroepstitels in kwestie of die gemachtigd zijn zich op een van de bijzondere beroepsbekwaamheden in kwestie te beroepen als een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid voor dezelfde specialiteit voorkomt in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde. Voor elke specialiteit zetelen maximaal twee leden in de erkenningscommissie;<br>
-3°&nbsp;&nbsp; &nbsp;vier leden die gemachtigd zijn zich op een bijzondere beroepsbekwaamheid te beroepen. Voor elke bijzondere beroepsbekwaamheid zetelen maximaal twee leden in de erkenningscommissie.<br>
+<p>§1. De erkenningscommissie, vermeld in artikel 2, eerste lid, 1°,van dit besluit, is samengesteld uit:<br>
+1°&nbsp;&nbsp; &nbsp;minimaal acht en maximaal zestien leden die houder zijn van een van de bijzondere beroepstitels in kwestie. Voor elke bijzondere beroepstitel zetelen minimaal twee leden in de erkenningscommissie;<br>
+2°&nbsp;&nbsp; &nbsp;minimaal vier en maximaal acht leden die houder zijn van een van de bijzondere beroepstitels in kwestie of die gemachtigd zijn om zich te beroepen op een van de bijzondere beroepsbekwaamheden in kwestie als een bijzondere beroepstitel en een bijzondere beroepsbekwaamheid voor dezelfde specialiteit is bepaald in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde. Voor elke specialiteit zetelen 3 minimaal twee leden in de erkenningscommissie;<br>
+3°&nbsp;&nbsp; &nbsp;minimaal vier en maximaal acht leden die gemachtigd zijn om zich te beroepen op een bijzondere beroepsbekwaamheid. Voor elke bijzondere beroepsbekwaamheid zetelen minimaal twee leden in de erkenningscommissie.&nbsp;<br>
 <br>
-De erkenningscommissie, vermeld in artikel 2, eerste lid, 2°, is samengesteld uit minimaal vier en maximaal zes leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45, 46/1 en 46/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 2°, van dit besluit, is samengesteld uit minimaal vier en maximaal tien leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45, 46/1 en 46/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, bezitten.<br>
 <br>
-De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, is samengesteld uit:<br>
-1°&nbsp;&nbsp; &nbsp;minimaal twee en maximaal drie leden die over een definitieve registratie als zorgkundige beschikken;<br>
-2°&nbsp;&nbsp; &nbsp;minimaal twee en maximaal drie leden die een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, hebben.<br>
+De erkenningscommissie, vermeld in artikel 2, eerste lid, 3°, van dit besluit, is samengesteld uit minimaal vier en maximaal tien leden die beschikken over een definitieve registratie als zorgkundige of een van de diploma’s, titels of brevetten, vermeld in artikel 45 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015.<br>
 <br>
 §1/1. De erkenningscommissies, vermeld in paragraaf 1, kunnen uitgebreid worden met extra leden als bijkomende expertise nodig is of als de lijst vermeld in het koninklijk besluit van 27 september 2006 houdende de lijst van bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde, wordt uitgebreid.<br>
 <br>
@@ -50,17 +54,17 @@ De leden van de erkenningscommissie, vermeld in paragraaf 1, derde lid, worden v
 <br>
 Leden die voorgedragen worden vanuit het beleidsdomein Onderwijs, hoeven niet te beschikken over een van de diploma's, titels of brevetten, vermeld in artikel 45, 46/1 of 46/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, of over een registratie als zorgkundige, maar mogen hun bekwaamheid ook aantonen op basis van ervaring in het beleidsdomein Onderwijs.</p>
 
-<p>§ 2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
+<p>§2. De leden van de erkenningscommissies worden door de secretaris-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de secretaris-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.</p>
 
 <p>In geval van overlijden, ontslag of intrekking van een mandaat van een lid benoemt de secretaris-generaal een nieuw lid, voorgedragen door de beroepsverenigingen of vanuit het beleidsdomein Onderwijs. De secretaris-generaal benoemt dat vervangende lid voor de resterende duur van het mandaat van het lid dat hij vervangt.</p>
 
-<p>§ 3. Een lid kan in verschillende erkenningscommissies tegelijk zitten.</p>
+<p>§3. Een lid kan in verschillende erkenningscommissies tegelijk zitten.</p>
 
-<p>§ 4. Elke erkenningscommissie kiest uit haar leden een voorzitter en een ondervoorzitter.</p>
+<p>§4. Elke erkenningscommissie kiest uit haar leden een voorzitter en een ondervoorzitter.</p>
 
 <p>Bij afwezigheid van de voorzitter en van de ondervoorzitter wordt de erkenningscommissie voorgezeten door het oudste lid in leeftijd.</p>
 
-<p>§ 5. De functie van secretaris van de erkenningscommissie wordt waargenomen door een personeelslid van de administratie.</p>
+<p>§5. De functie van secretaris van de erkenningscommissie wordt waargenomen door een personeelslid van de administratie.</p>
 
 ### ART. 4.
 
@@ -126,45 +130,45 @@ De   voorzitter en de leden van de erkenningscommissies, de eventuele externe   
 
 ### ART. 10.
 
-<p>§ 1. De aanvrager die erkend wil worden&nbsp;als beoefenaar van de verpleegkunde,&nbsp;als houder van een bijzondere beroepstitel of die gemachtigd wil worden om zich op een bijzondere beroepsbekwaamheid te beroepen, dient daarvoor zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
-
-<p>De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
-
-<p>De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van&nbsp;artikel 45, 46 en 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.</p>
-
-<p>§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.</p>
-
-<p>De administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
-
-<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
-
-<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
-
-<p>§ 3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de erkenning van de beoefenaar van de verpleegkunde, de erkenning van de bijzondere beroepstitel of de bijzondere beroepsbekwaamheid. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
-
-<p>§ 4. De administratie kan met de onderwijsinstellingen afspraken maken over de gegevensuitwisseling met betrekking tot de geslaagde studenten die een erkenning&nbsp; als beoefenaar van de verpleegkunde of&nbsp;als houder van een bijzondere beroepstitel willen of gemachtigd willen worden om zich op een bijzondere beroepsbekwaamheid te beroepen. Als de administratie en de onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers zelf geen individuele aanvraag in te dienen.</p>
+<p>§1. De aanvrager die erkend wil worden&nbsp;als beoefenaar van de verpleegkunde,&nbsp;als houder van een bijzondere beroepstitel of die gemachtigd wil worden om zich op een bijzondere beroepsbekwaamheid te beroepen, dient daarvoor zijn aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.<br>
+<br>
+De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.<br>
+<br>
+De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van&nbsp;artikel 45, 46 en 88 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.<br>
+<br>
+§2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
+<br>
+De administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.<br>
+<br>
+De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.<br>
+<br>
+Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.<br>
+<br>
+§3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de erkenning van de beoefenaar van de verpleegkunde, de erkenning van de bijzondere beroepstitel of de bijzondere beroepsbekwaamheid. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
+§4. Als onderwijsinstellingen het diploma dat vereist is voor een erkenning als vermeld in artikel 48, eerste lid, of artikel 86 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, registreren in de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, kan de administratie de erkenning als beoefenaar van de verpleegkunde, van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden, van de verpleegkundig specialist automatisch uitreiken. In dat geval hoeft de houder van dat diploma zelf geen individuele aanvraag in te dienen.</p>
 
 ## Afdeling 2 De registratie als zorgkundige
 
 ### ART. 11.
 
-<p>§ 1. De aanvrager die een registratie als zorgkundige wil verkrijgen, dient daarvoor een aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.</p>
-
-<p>De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.</p>
-
-<p>De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.</p>
-
-<p>§ 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.</p>
-
-<p>De administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.</p>
-
-<p>De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.</p>
-
-<p>Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.</p>
-
-<p>§ 3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de registratie als zorgkundige. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.</p>
-
-<p>§ 4. De administratie kan met de onderwijsinstellingen afspraken maken over de gegevensuitwisseling met betrekking tot de geslaagde studenten. Als de administratie en de onderwijsinstellingen die gegevensuitwisseling organiseren, hoeven de aanvragers zelf geen individuele aanvraag in te dienen.</p>
+<p>§1. De aanvrager die een registratie als zorgkundige wil verkrijgen, dient daarvoor een aanvraag in bij de administratie. de administratie stelt daarvoor een aanvraagformulier ter beschikking.<br>
+<br>
+De administratie kan voor de indiening van de aanvragen, vermeld in het eerste lid, een digitaal platform ter beschikking stellen dat het aanvraagformulier, vermeld in het eerste lid, aanvult of vervangt.<br>
+<br>
+De aanvrager voegt bij zijn aanvraag alle bewijsstukken waaruit blijkt dat de aanvrager voldoet aan de voorwaarden die ter uitvoering van artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, zijn vastgesteld.<br>
+<br>
+§2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
+<br>
+De administratie vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten.<br>
+<br>
+De aanvrager kan worden uitgenodigd voor de vergadering van de erkenningscommissie waarbij hem gevraagd wordt om eventuele bijkomende inlichtingen te verstrekken.<br>
+<br>
+Als een aanvrager die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.<br>
+<br>
+§3. De administratie beslist, na advies van de erkenningscommissie, over de aanvraag van de registratie als zorgkundige. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
+§4. Als onderwijsinstellingen het diploma dat vereist is voor een registratie als vermeld in artikel 56 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, registreren in de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, kan de administratie de registratie als zorgkundige automatisch uitreiken. In dat geval hoeft de houder van dat diploma zelf geen individuele aanvraag in te dienen.</p>
 
 ## HOOFDSTUK 4 De procedure tot heroverweging
 
@@ -208,6 +212,10 @@ De administratie bezorgt de definitieve beslissing van de minister aan de aanvra
 
 <p>De bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het advies van de erkenningscommissie wordt de definitieve beslissing van de administratieaan de verpleegkundige bezorgd.</p>
 
+### ART 14/1.
+
+Als conform artikel 10, § 4, van dit besluit, een erkenning wordt uitgereikt op basis van de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, en achteraf blijkt dat onterecht een erkenning is uitgereikt omdat de gegevens niet correct zijn, kan de administratie de erkenningsbeslissing in afwijking van artikel 14 van dit besluit intrekken. De beslissing over de intrekking wordt aan de persoon in kwestie bezorgd.
+
 ### ART. 15.
 
 Als de verpleegkundige een erkenning die conform dit besluit is verleend, niet wil behouden, brengt hij de administratie daarvan schriftelijk op de hoogte. De administratie trekt, op basis van die uitdrukkelijke vraag van de verpleegkundige, de erkenning in.
@@ -231,6 +239,10 @@ De verpleegkundige van wie de erkenning is ingetrokken conform artikel 14 of 15,
 ### ART 17/1.
 
 Als conform artikel 11, §4, een registratie wordt afgeleverd op basis van gegevensuitwisseling met een onderwijsinstelling en achteraf blijkt dat onterecht een registratie is afgeleverd omdat de gegevens niet correct zijn, kan de administratie de registratie in afwijking van artikel 17 intrekken. Die beslissing wordt aan de persoon in kwestie bezorgd.
+
+### ART 17/2.
+
+Als conform artikel 11, § 4, van dit besluit een registratie wordt uitgereikt op basis van de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, en achteraf blijkt dat onterecht een registratie is uitgereikt omdat de gegevens niet correct zijn, kan de administratie de registratiebeslissing in afwijking van artikel 17 van dit besluit intrekken. De beslissing over de intrekking wordt aan de persoon in kwestie bezorgd.
 
 ### ART. 18.
 
