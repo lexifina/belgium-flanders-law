@@ -2,16 +2,16 @@
   "codex_id": 1041513,
   "title": "Besluit van de Vlaamse Regering van 2025-09-26 tot wijziging van de regelgeving over het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041513/VolledigDocument?datum=2025-10-01",
-  "source_sha256": "08a5025c02db326af8ff344efdb57468b519554c14544a58fff5dfb9bf30459d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041513/VolledigDocument?datum=2025-12-08",
+  "source_sha256": "40718c3ceca3bfc317a35a6eeec7deb6dbcde2e15c01547ee359e8252639dc54",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041513&param=informatie",
-  "as_of": "2025-10-01",
+  "as_of": "2025-12-08",
   "made": "2025-09-26",
   "gazette": "2025-11-28",
   "numac": 2025008894,
   "document_start": "2025-12-08",
   "document_end": null,
-  "in_force": "2025-10-01",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-08",
+  "article_versions": 267,
+  "record_form": "consolidated version as in force on 2025-12-08; future article versions excluded; article text as the API gives it"
 }
