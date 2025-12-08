@@ -34,17 +34,7 @@ De investeringssubsidies voor kinderopvanglocaties worden toegekend met inachtne
 
 ### ART. 2.
 
-De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de kinderopvang moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<br>
-1° de regelgeving over de brandveiligheid;<br>
-2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br>
-3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
-4° het Algemeen Reglement inzake elektrische installaties;<br>
-5° de typebestekken, opgesteld door het Vlaams ministerie van Mobiliteit en Openbare Werken;<br>
-6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br>
-7° de regelgeving over de milieuvergunningen;<br>
-8° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren;<br>
-9° de regelgeving over de veiligheid van de voedselketen en de voorwaarden die gesteld zijn door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
-10° de bouwtechnische en bouwfysische minimumvoorschriften van de codex over het welzijn op het werk.<br>
+De infrastructuur met een functionele bestemming in de sector van de kinderopvang moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
 <br>
 De gebouwen waarover een voorziening in de sector van de kinderopvang beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.<br>
 &nbsp;
