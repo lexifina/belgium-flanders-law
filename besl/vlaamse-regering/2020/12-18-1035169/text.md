@@ -68,7 +68,7 @@ e) voor een antenne van een lokaal dienstencentrum als vermeld in artikel 1, 1°
 6° het aantal entiteiten of het gewijzigde aantal entiteiten van de voorziening als dat van toepassing is;<br>
 7° als het om een bestaand gebouw of meerdere gebouwen gaat die als voorziening worden ingericht of in gebruik genomen: een plan van de verschillende bouwlagen en hun afmetingen;<br>
 8° een toelichting over de wijze waarop het initiatief past in de globale zorgstrategische visie, waarvan de elementen bepaald zijn in artikel 6 van dit besluit;<br>
-9° als de aanvraag dient om een eerste erkenning te krijgen na de realisatie van de voorziening: een administratief basisdossier als vermeld in artikel 7, § 1, eerste lid, 1°, van het Woonzorgdecreet van 15 februari 2019;<br>
+9°...;<br>
 10° een verbintenis dat de initiatiefnemer, nadat de voorafgaande vergunning is verleend, het advies van het Agentschap Toegankelijk Vlaanderen zal inwinnen op het moment dat de bouwplannen worden uitgewerkt, als het inwinnen van dat advies in de specifieke erkenningsvoorwaarden voor de voorziening in kwestie opgenomen is.<br>
 <br>
 In het eerste lid, 10°, wordt verstaan onder Agentschap Toegankelijk Vlaanderen: het agentschap, vermeld in artikel 3 van het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting.<br>
