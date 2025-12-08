@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041509,
+  "title": "Besluit van de Vlaamse Regering van 2025-11-14 waarbij de hagelbuien die zich voordeden op 31 mei 2025 als een ramp worden erkend en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041509/VolledigDocument?datum=2025-12-08",
+  "source_sha256": "5c6eeaaf0bdcc33701c4add50fd5e2edefd115006a71f2f64e313feb91e54f2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041509&param=informatie",
+  "as_of": "2025-12-08",
+  "made": "2025-11-14",
+  "gazette": "2025-11-28",
+  "numac": 2025008865,
+  "document_start": "2025-12-08",
+  "document_end": null,
+  "in_force": "2025-12-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
