@@ -54,7 +54,9 @@ a) een persoon als vermeld in artikel 104/1, 1°, van de voormelde wet;<br>
 b) een persoon als vermeld in artikel 104/1, 2°, van de voormelde wet;<br>
 3° de erkenningen op basis van een andere opleiding dan de opleidingen, vermeld in artikel 101/2 van de voormelde wet, waarvoor noch de richtlijn, noch artikel 145, §1, van de voormelde wet van 10 mei 2015 geldt.<br>
 <br>
-Voor de erkenningen van de beroepskwalificaties voor de gezondheidszorgberoepen en de afgifte van de Europese beroepskaarten, vermeld in het eerste lid, is&nbsp;de administratie de bevoegde autoriteit, vermeld in artikel 2, §1, d), van de wet van 12 februari 2008.
+Voor de erkenningen van de beroepskwalificaties voor de gezondheidszorgberoepen en de afgifte van de Europese beroepskaarten, vermeld in het eerste lid, is&nbsp;de administratie de bevoegde autoriteit, vermeld in artikel 2, §1, d), van de wet van 12 februari 2008.<br>
+<br>
+De Vlaamse Gemeenschap is niet bevoegd voor een aanvraag die al is ingediend bij een andere gemeenschap die de aanvraag in kwestie al in behandeling heeft genomen.
 
 ## Hoofdstuk 4. De erkenning van een beroepskwalificatie conform de richtlijn en het behoud en de intrekking van die erkenning
 
@@ -67,7 +69,7 @@ De administratie&nbsp;kan voor de indiening van de erkenningsaanvragen, vermeld 
 §2. Bij de aanvraag worden de volgende documenten gevoegd:<br>
 1° een kopie van de beroepskwalificatie waarop de aanvrager zich beroept, en, in voorkomend geval, een bewijs van zijn beroepservaring;<br>
 2° een bewijs van de nationaliteit van de aanvrager;<br>
-3° een uittreksel uit het strafregister of, als dat ontbreekt, een gelijkwaardig document dat een bevoegde autoriteit van de lidstaat van oorsprong of herkomst van de aanvrager heeft afgegeven, en dat bij de indiening niet ouder dan drie maanden is.<br>
+3° ...<br>
 <br>
 Bij een aanvraag van een erkenning als vermeld in artikel 3, eerste lid, 1°, b), van dit besluit, voegt de aanvrager ook een certificaat dat de bevoegde autoriteit van zijn lidstaat van oorsprong of herkomst heeft afgegeven. In dat certificaat wordt verklaard dat de opleidingstitel volledig in overeenstemming is met de opleidingstitel, vermeld in de lijst die conform artikel 106, §1, 1°, van de gecoördineerde wet van 10 mei 2015, is bepaald.
 
@@ -97,7 +99,9 @@ De administratie&nbsp;beslist binnen:<br>
 <br>
 In voorkomend geval wordt het gemotiveerde advies, vermeld in artikel 5, §2 of §3, bij de beslissing, vermeld in het eerste lid, gevoegd.<br>
 <br>
-Als&nbsp;de administratie bij de beslissing, vermeld in het eerste lid, een compenserende maatregel als vermeld in artikel 103, 12° of 13°, van de gecoördineerde wet van 10 mei 2015, voorstelt, is dat voorstel een jaar geldig.
+Als&nbsp;de administratie bij de beslissing, vermeld in het eerste lid, een compenserende maatregel als vermeld in artikel 103, 12° of 13°, van de gecoördineerde wet van 10 mei 2015, voorstelt, is dat voorstel een jaar geldig.<br>
+<br>
+Als een aanpassingsstage als vermeld in artikel 103, 13°, van de gecoördineerde wet van 10 mei 2015, wordt opgelegd, wordt de aanpassingsstage uitgevoerd bij een erkende stagemeester die werkt in het Nederlandstalige taalgebied of het tweetalige gebied Brussel-Hoofdstad. De bepalingen over de stage in de reglementering tot vaststelling van de erkenningsprocedure voor het beroep in kwestie zijn van toepassing.
 
 ### ART 8.
 
@@ -214,7 +218,7 @@ De administratie&nbsp;kan voor de indiening van de aanvragen, vermeld in het eer
 §2. Bij de aanvraag worden de volgende documenten gevoegd:<br>
 1° een kopie van de beroepskwalificatie waarop de aanvrager zich beroept, en, in voorkomend geval, een bewijs van zijn beroepservaring;<br>
 2° een bewijs van de nationaliteit van de aanvrager;<br>
-3° een uittreksel uit het strafregister of, als dat ontbreekt, een gelijkwaardig document dat een bevoegde autoriteit van de lidstaat van oorsprong of herkomst van de aanvrager heeft afgegeven, en dat bij de indiening niet ouder dan drie maanden is;<br>
+3° ...;<br>
 4° alle beschikbare informatie die toelaat het opleidingstraject en de werkervaring van de aanvrager naar waarde te schatten.
 
 ### ART 20.
@@ -239,7 +243,9 @@ De administratie&nbsp;gaat na of de aanvrager de nodige beroepskwalificaties of 
 
 De administratie&nbsp;beslist binnen vier maanden nadat het dossier over de erkenningsaanvraag vervolledigd is, tenzij een evaluatie als vermeld in artikel 20, §2, vierde lid, nodig is. In voorkomend geval wordt het gemotiveerde advies, vermeld in artikel 20, §2 of §3, bij de beslissing gevoegd.<br>
 <br>
-Als&nbsp;de administratie bij de beslissing, vermeld in het eerste lid, een compenserende maatregel naar analogie van de maatregel, vermeld in artikel 103, 12° of 13°, van de gecoördineerde wet van 10 mei 2015, voorstelt, is dat voorstel een jaar geldig.
+Als&nbsp;de administratie bij de beslissing, vermeld in het eerste lid, een compenserende maatregel naar analogie van de maatregel, vermeld in artikel 103, 12° of 13°, van de gecoördineerde wet van 10 mei 2015, voorstelt, is dat voorstel een jaar geldig.<br>
+<br>
+Als een aanpassingsstage als vermeld in artikel 103, 13°, van de gecoördineerde wet van 10 mei 2015, wordt opgelegd, wordt de aanpassingsstage uitgevoerd bij een erkende stagemeester die werkt in het Nederlandstalige taalgebied of het tweetalige gebied Brussel-Hoofdstad. De bepalingen over de stage in de reglementering tot vaststelling van de erkenningsprocedure voor het beroep in kwestie zijn van toepassing.
 
 ### ART 23.
 
