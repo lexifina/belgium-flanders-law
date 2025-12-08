@@ -141,10 +141,10 @@ De elementen, vermeld in het eerste lid, en eventueel aanvullende elementen die 
 
 ### ART 12.
 
-§ 1. Als het verzoekschrift, vermeld in artikel 11, § 2, ontvankelijk is, wordt de verzoeker binnen twee weken na ontvangst van het verzoekschrift, met een aangetekende zending op de hoogte gebracht.<br>
+§ 1. Als het verzoekschrift, vermeld in artikel 11, § 2, ontvankelijk is, wordt de verzoeker binnen twee weken na ontvangst van het verzoekschrift, met een aangetekende zending&nbsp;of via elektronische post met ontvangstmelding op de hoogte gebracht.<br>
 <br>
 De kennisgeving, vermeld in het eerste lid, vermeldt:<br>
-1° de plaats en de datum van de hoorzitting;<br>
+1° de plaats van de hoorzitting;<br>
 2° dat de verzoeker zich tijdens het onderzoek en bij de hoorzitting kan laten bijstaan door een advocaat of zich door een gemachtigde kan laten bijstaan of vertegenwoordigen. In het geval van vertegenwoordiging door een gemachtigde moet hij de machtiging tot vertegenwoordiging vooraf schriftelijk aan de secretaris van de commissie meedelen.<br>
 <br>
 § 2. De betrokken uitbetalingsactor wordt via elektronische post met ontvangstmelding op de hoogte gebracht van het ingediende beroep.<br>
@@ -155,7 +155,7 @@ De kennisgeving, vermeld in het eerste lid, bevat al de volgende gegevens:<br>
 3° de uitbetalingsactor;<br>
 4° als dat van toepassing is: de beslissing van de uitbetalingsactor waartegen beroep wordt ingesteld;<br>
 5° de motivering van het beroep;<br>
-6° de vermelding van de plaats en de datum van de hoorzitting;<br>
+6° de vermelding van de plaats van de hoorzitting;<br>
 7° de vermelding dat de uitbetalingsactor zich tijdens het onderzoek en bij de hoorzitting kan laten bijstaan door een advocaat of zich door een gemachtigde kan laten vertegenwoordigen. In dat laatste geval moet hij de machtiging tot vertegenwoordiging vooraf schriftelijk aan de secretaris van de commissie meedelen.
 
 ### ART 13.

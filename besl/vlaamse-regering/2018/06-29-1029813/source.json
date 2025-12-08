@@ -2,16 +2,16 @@
   "codex_id": 1029813,
   "title": "Besluit van de Vlaamse Regering van 2018-06-29 betreffende de oprichting van een commissie van beroep tegen de beslissing van de uitbetalingsactor over de toelagen in het kader van het gezinsbeleid of tegen het uitblijven ervan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029813/VolledigDocument?datum=2019-04-18",
-  "source_sha256": "021dfb1da113bb6e89a09add643e64fa5a0de83a6de0d283b3f72f1d8337d2ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029813/VolledigDocument?datum=2025-12-08",
+  "source_sha256": "2c30edd18a630e2e79e1fed195a2fe44fa37380af2d4f95c14c50948bae0a592",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029813&param=informatie",
-  "as_of": "2019-04-18",
+  "as_of": "2025-12-08",
   "made": "2018-06-29",
   "gazette": "2018-10-12",
   "numac": 2018040666,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2019-04-18",
+  "in_force": "2025-12-08",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-08; future article versions excluded; article text as the API gives it"
 }
