@@ -84,6 +84,8 @@ Het instituut moet in de beleidsvoering kunnen aantonen dat het de beginselen va
 <br>
 Het instituut kan zijn taalbeleid schriftelijk aantonen en het bekendmaken bij zijn belanghebbenden.<br>
 <br>
+De regionale instituten erkennen het belang van het gebruik van de Nederlandse taal bij de uitvoering van hun opdrachten, vermeld in artikel 4.<br>
+<br>
 § 5. Het instituut ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten aanzien van gebruikers. Het hanteert een procedure voor de preventie van grensoverschrijdend gedrag ten aanzien van gebruikers, alsook voor de detectie van en het gepast reageren op dat grensoverschrijdend gedrag. In die procedure is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over de gevallen van grensoverschrijdend gedrag ten aanzien van gebruikers.<br>
 <br>
 Grensoverschrijdend gedrag van medewerkers van het instituut ten aanzien van gebruikers wordt op een geanonimiseerde wijze gemeld aan de administratie.
@@ -108,7 +110,25 @@ Een erkenning kan enkel worden verleend:<br /><br />1° indien daartoe een ontva
 
 ### ART. 6.
 
-§ 1. Een aanvraag voor een erkenning is enkel ontvankelijk indien ze door   de organisatie met een aangetekende brief met ontvangstbewijs wordt ingediend   bij de administratie en indien zij de volgende gegevens en stukken bevat:<BR>1°   ...<BR>2° ...<BR>3° ...<BR>4° een dossier waaruit blijkt dat het instituut   tijdens het voorbije jaar een werking heeft ontplooid overeenkomstig de   bepalingen van het decreet;<BR>5° het strategisch&nbsp;meerjarenplan, met een   overzicht van de gevolgde procedure en een verslag van het overleg met   gecontacteerde maatschappelijke verbanden;<BR>6° de personeelsformatie die nodig   geacht wordt om de voorgestelde werking uit te voeren, met de verbintenis, voor   zover bij de erkenning goedgekeurd, dit personeel ook werkelijk aan te   werven;<BR>7° de interne organisatiestructuur;<BR>8° een overzicht van de   externe samenwerkingsverbanden;<BR>9° een overzicht van de wijze waarop de   implementatie van het kwaliteitsdecreet is voorbereid, met de stand van zaken en   de verdere planning van deze implementatie.<BR><BR>§ 2. ...
+§ 1. Een aanvraag voor een erkenning is enkel ontvankelijk indien ze door de organisatie op digitale wijze wordt ingediend bij de administratie en indien zij de volgende gegevens en stukken bevat:<br>
+1° ...<br>
+2° ...<br>
+3° ...<br>
+4° een dossier waaruit blijkt dat het instituut tijdens het voorbije jaar een werking heeft ontplooid overeenkomstig de bepalingen van het decreet;<br>
+5° het strategisch&nbsp;meerjarenplan, met een overzicht van de gevolgde procedure en een verslag van het overleg met gecontacteerde maatschappelijke verbanden;<br>
+6° de personeelsformatie die nodig geacht wordt om de voorgestelde werking uit te voeren, met de verbintenis, voor zover bij de erkenning goedgekeurd, dit personeel ook werkelijk aan te werven;<br>
+7° de interne organisatiestructuur;<br>
+8° een overzicht van de externe samenwerkingsverbanden;<br>
+9° een overzicht van de wijze waarop de implementatie van het kwaliteitsdecreet is voorbereid, met de stand van zaken en de verdere planning van deze implementatie.<br>
+<br>
+Het strategisch meerjarenplan, vermeld in het eerste lid, 5°, bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de missie van de organisatie;<br>
+2°&nbsp;&nbsp; &nbsp;een omgevingsanalyse;<br>
+3°&nbsp;&nbsp; &nbsp;per thema een omschrijving van de link met de omgevingsanalyse, de doelstellingen, de strategische acties en de personeelsinzet;<br>
+4°&nbsp;&nbsp; &nbsp;de criteria die worden gehanteerd om de resultaten te beoordelen in het voortgangsrapport;<br>
+5°&nbsp;&nbsp; &nbsp;een meerjarenbegroting.<br>
+<br>
+§ 2. ...
 
 ### ART. 7.
 
@@ -146,31 +166,43 @@ In het geval bedoeld in artikel 7, § 1, laatste lid, wordt de definitieve besli
 
 ### ART. 12.
 
-<P>Uiterlijk op 15 mei van het laatste jaar van een lopend goedgekeurd   strategisch meerjarenplan wordt een nieuw strategisch meerjarenplan ingediend,   samen met de personeelsformatie die nodig geacht wordt om het uit te voeren.   Artikel 7 tot en met 9 zijn op overeenkomstige wijze van toepassing voor de   goedkeuring.<BR><BR>Voor de goedkeuring van de wijziging van een strategische   doelstelling wordt een dossier ingediend waarin de wijziging wordt gesitueerd en   gemotiveerd, en waarin in voorkomend geval de nieuwe operationele doelstellingen   en strategische acties worden vermeld. Artikel 7 tot en met 9 zijn op   overeenkomstige wijze van toepassing op de voormelde   goedkeuring.</P>
+<p>Uiterlijk op 15 mei van het laatste jaar van een lopend goedgekeurd strategisch meerjarenplan wordt een nieuw strategisch meerjarenplan, dat al de elementen bevat, vermeld in artikel 6, §1, tweede lid, ingediend, samen met de personeelsformatie die nodig geacht wordt om het uit te voeren. Artikel 7 tot en met 9 zijn op overeenkomstige wijze van toepassing voor de goedkeuring.<br>
+<br>
+Voor de goedkeuring van de wijziging van een strategische doelstelling wordt een dossier ingediend waarin de wijziging wordt gesitueerd en gemotiveerd, en waarin in voorkomend geval de nieuwe operationele doelstellingen en strategische acties worden vermeld. Artikel 7 tot en met 9 zijn op overeenkomstige wijze van toepassing op de voormelde goedkeuring.</p>
 
 ## HOOFDSTUK III DE SUBSIDIËRING
 
 ### ART. 13.
 
-<p>§ 1. Afhankelijk van de beschikbare begrotingskredieten en overeenkomstig de bepalingen van het decreet en van dit besluit, kent de secretaris-generaal aan de organisaties een subsidie-enveloppe toe voor infrastructuur, werkings- en personeelskosten, zoals bedoeld in artikel 5, § 1 van het decreet. De secretaris-generaal bepaalt binnen de perken van de begrotingskredieten jaarlijks de grootte van de subsidie-enveloppe op basis van de volgende regels:<br>
-1°&nbsp;... ;<br>
-2° voor de regionale instituten wordt aan elk instituut hetzelfde forfaitaire bedrag toegekend, aangevuld met een bedrag per voltijdsequivalent in de subsidiabele personeelsformatie, vermeld in artikel 9, § 3, 4°.<br>
+<p>§1. Binnen de perken van de beschikbare begrotingskredieten en overeenkomstig de bepalingen van het decreet en van dit besluit kent de secretaris-generaal aan de organisaties een subsidie-enveloppe toe voor infrastructuur, werkings- en personeelskosten als vermeld in artikel 5, §1, van het decreet.&nbsp;<br>
 <br>
-§ 2. Bij de subsidie-enveloppen, vermeld in paragraaf 1, worden jaarlijks de middelen gevoegd voor de toepassing van het Vlaams Intersectoraal Akkoord voor de Social-Profitsector.</p>
+Aan elk erkend regionaal instituut wordt een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 25.094,25 euro dat wordt aangevuld met een forfaitair bedrag van 92.320,60 euro per voltijds equivalent in de subsidiabele personeelsformatie, vermeld in artikel 9, §3, 4°.<br>
+<br>
+§2. Bij de subsidie-enveloppen, vermeld in paragraaf 1, worden jaarlijks de middelen gevoegd voor de toepassing van het Vlaams Intersectoraal Akkoord voor de Social-Profitsector.</p>
 
 ### ART. 14.
 
-§ 1. De subsidie-enveloppe moet door de regionale instituten voor minstens 75 % aangewend worden voor personeelskosten.<br>
+§1. De subsidie-enveloppe moet door de regionale instituten voor minstens 75 % aangewend worden voor personeelskosten.<br>
 <br>
-§ 2. De salarisschalen voor de personeelsleden van de organisaties worden bepaald door de raad van bestuur in overeenstemming met de geldende collectieve arbeidsovereenkomsten voor de sector.
+§2. De salarisschalen voor de personeelsleden van de organisaties worden bepaald door de raad van bestuur in overeenstemming met de geldende collectieve arbeidsovereenkomsten voor de sector.<br>
+<br>
+§3. Activiteiten waarvoor met toepassing van andere regelingen vanwege de Vlaamse Gemeenschap of andere overheden subsidies worden ontvangen, komen niet in aanmerking voor de toekenning van de subsidie op grond van dit besluit als dat ertoe leidt dat dezelfde uitgaven voor die activiteit dubbel worden gesubsidieerd.
 
 ### ART. 15.
 
-[De subsidie-enveloppe wordt geïndexeerd op de wijze die bepaald is in de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. (verv. B.V.R. 20 februari 2004, art. 5, I: 1 januari 2004) ]
+De forfaitaire bedragen, vermeld in artikel 13, §1, tweede lid, van dit besluit, zijn uitgedrukt tegen de spilindex die van toepassing is op 1 januari 2025. Die bedragen worden, binnen de beschikbare begrotingskredieten, geïndexeerd op de wijze die bepaald is in de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.&nbsp;Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen.
 
 ### ART. 16.
 
-Als een organisatie haar subsidie-enveloppe in het jaar waarvoor die   enveloppe wordt toegekend, niet volledig aanwendt voor infrastructuur, werkings-   en personeelskosten, legt ze met het niet aangewende gedeelte reserves aan. Ze   wendt die reserves aan om uitgaven te financieren die bijdragen tot de   realisatie van haar taken en om de wettelijk bepaalde provisie voor vakantiegeld   aan te leggen.<BR><BR>Maximaal 20% van de jaarlijkse subsidie-enveloppe mag als   reserve worden overgedragen naar het volgende jaar. De in het boekjaar   opgebouwde reserves die meer bedragen dan 20% van de jaarlijkse   subsidie-enveloppe, worden voor het bedrag dat 20% van de jaarlijkse   subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse   Gemeenschap.<BR><BR>De gecumuleerde reserve, opgebouwd uit de jaarlijkse   subsidie-enveloppe, mag niet meer bedragen dan de helft van de jaarlijkse   subsidie-enveloppe vanuit de Vlaamse Gemeenschap.<BR><BR>De minister kan ad hoc   een uitzondering maken op de reservebepaling, vermeld in het derde lid, op basis   van een aanwendingsplan waaruit blijkt dat het betreffende instituut de middelen   moet aanwenden in het kader van een investeringsproject. Het voorafgaande advies   van de Inspectie van Financiën is daarbij verplicht.<BR><BR>Bij het   overschrijden van de reservebepaling, vermeld in het derde lid, en als de   voorwaarden, vermeld in het vierde lid, niet vervuld zijn, worden de reserves   die op het ogenblik van afsluiten van het boekjaar meer bedragen dan 50% van de   jaarlijkse subsidie-enveloppe voor het bedrag dat de 50% van de jaarlijkse   subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse   Gemeenschap.
+Als een organisatie haar subsidie-enveloppe in het jaar waarvoor die enveloppe wordt toegekend, niet volledig aanwendt voor infrastructuur, werkings- en personeelskosten, legt ze met het niet aangewende gedeelte reserves aan. Ze wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van haar taken.<br>
+<br>
+Maximaal 20% van de jaarlijkse subsidie-enveloppe mag als reserve worden overgedragen naar het volgende jaar. De in het boekjaar opgebouwde reserves die meer bedragen dan 20% van de jaarlijkse subsidie-enveloppe, worden voor het bedrag dat 20% van de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse Gemeenschap.<br>
+<br>
+De gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidie-enveloppe, mag niet meer bedragen dan de helft van de jaarlijkse subsidie-enveloppe vanuit de Vlaamse Gemeenschap.<br>
+<br>
+De minister kan ad hoc een uitzondering maken op de reservebepaling, vermeld in het derde lid, op basis van een aanwendingsplan waaruit blijkt dat het betreffende instituut de middelen moet aanwenden in het kader van een investeringsproject. Het voorafgaande advies van de Inspectie van Financiën is daarbij verplicht.<br>
+<br>
+Bij het overschrijden van de reservebepaling, vermeld in het derde lid, en als de voorwaarden, vermeld in het vierde lid, niet vervuld zijn, worden de reserves die op het ogenblik van afsluiten van het boekjaar meer bedragen dan 50% van de jaarlijkse subsidie-enveloppe voor het bedrag dat de 50% van de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse Gemeenschap.
 
 ### ART. 17.
 
@@ -194,7 +226,17 @@ De minister bepaalt de resultaatgerichte indicatoren, na overleg met de sector. 
 
 ### ART. 19.
 
-§ 1. De administratie onderzoekt het dossier, bedoeld in artikel 17. Ze   deelt binnen dertig dagen na de ontvangst van het dossier haar opmerkingen mee   aan de organisatie in kwestie. De organisatie kan op die opmerkingen reageren   tot uiterlijk dertig dagen na de ontvangst ervan.<BR><BR>§ 2. Als op basis van   het dossier en de repliek er aanleiding toe bestaat om de subsidiabele   personeelsformatie te verminderen of om de erkenning in te trekken, wordt het   gemotiveerde voornemen van de secretaris-generaal om daartoe over te gaan aan de   organisatie betekend. Die betekening gebeurt door de administratie met een   aangetekende brief, waarin de mogelijkheid en de voorwaarden worden vermeld om   een bezwaarschrift in te dienen.<BR><BR>Artikel 8 en 9, § 2, eerste lid, zijn   van overeenkomstige toepassing voor het nemen van de definitieve beslissing tot   vermindering van de subsidiabele personeelsformatie of tot intrekking van de   erkenning.<BR><BR>§ 3. Als de definitieve beslissing van de minister of de   secretaris-generaal niet binnen de termijn, vermeld in artikel 9, § 2, eerste   lid, of vastgesteld door de regels, vermeld in artikel 8, tweede lid, aan de   organisatie is betekend, blijft de organisatie erkend of blijft haar   subsidiabele personeelsformatie behouden.<BR><BR>§ 4. Als een organisatie niet   meewerkt aan het toezicht dat door de administratie wordt uitgeoefend, kan haar   erkenning worden ingetrokken, nadat de administratie de organisatie met een   aangetekende brief heeft aangemaand om zich binnen een termijn van maximaal zes   maanden aan de regels voor het toezicht te conformeren.<BR><BR>De bepalingen van   § 2, zijn van overeenkomstige toepassing.
+§ 1. De administratie onderzoekt het dossier, bedoeld in artikel 17. Ze deelt binnen negentig dagen na de ontvangst van het dossier haar opmerkingen mee aan de organisatie in kwestie. De organisatie kan op die opmerkingen reageren tot uiterlijk dertig dagen na de ontvangst ervan.<br>
+<br>
+§ 2. Als op basis van het dossier en de repliek er aanleiding toe bestaat om de subsidiabele personeelsformatie te verminderen of om de erkenning in te trekken, wordt het gemotiveerde voornemen van de secretaris-generaal om daartoe over te gaan aan de organisatie betekend. Die betekening gebeurt door de administratie met een aangetekende brief, waarin de mogelijkheid en de voorwaarden worden vermeld om een bezwaarschrift in te dienen.<br>
+<br>
+Artikel 8 en 9, § 2, eerste lid, zijn van overeenkomstige toepassing voor het nemen van de definitieve beslissing tot vermindering van de subsidiabele personeelsformatie of tot intrekking van de erkenning.<br>
+<br>
+§ 3. Als de definitieve beslissing van de minister of de secretaris-generaal niet binnen de termijn, vermeld in artikel 9, § 2, eerste lid, of vastgesteld door de regels, vermeld in artikel 8, tweede lid, aan de organisatie is betekend, blijft de organisatie erkend of blijft haar subsidiabele personeelsformatie behouden.<br>
+<br>
+§ 4. Als een organisatie niet meewerkt aan het toezicht dat door de administratie wordt uitgeoefend, kan haar erkenning worden ingetrokken, nadat de administratie de organisatie met een aangetekende brief heeft aangemaand om zich binnen een termijn van maximaal zes maanden aan de regels voor het toezicht te conformeren.<br>
+<br>
+De bepalingen van § 2, zijn van overeenkomstige toepassing.
 
 ### ART. 20.
 
