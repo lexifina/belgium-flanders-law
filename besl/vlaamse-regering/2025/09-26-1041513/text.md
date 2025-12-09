@@ -32,6 +32,8 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+## Hoofdstuk 1. Wijzigingen van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden
+
 ### ART 1.
 
 In artikel 2ter van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden, ingevoegd bij het besluit van de Vlaamse Regering van 10 november 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 6 juli 2018, worden het tweede en het derde lid vervangen door wat volgt:<br>
@@ -45,6 +47,8 @@ Wat de meerderheid van de bestuurders of de meerderheid van de stemrechten betre
 ### ART 2.
 
 In artikel 19, §1, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 15 januari 2016 en gewijzigd bij het besluit van de Vlaamse Regering van 16 juli 2021, wordt de zinsnede “, wat betreft de voorzieningen in de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg” opgeheven.
+
+## Hoofdstuk 2. Wijzigingen van het besluit van de Vlaamse regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk
 
 ### ART 4.
 
@@ -94,6 +98,12 @@ In artikel 16, eerste lid, van hetzelfde besluit, vervangen bij het besluit van 
 
 In artikel 19, §1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004 en gewijzigd bij het besluit van de Vlaamse Regering van 24 januari 2014, worden de woorden “Ze deelt binnen dertig dagen” vervangen door de woorden “Ze deelt binnen negentig dagen”.
 
+## Hoofdstuk 3. Wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+
+## Hoofdstuk 4. Wijziging van het besluit van de Vlaamse Regering van 9 februari 2007 tot regeling van de investeringswaarborg voor woonzorgcentra, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+
+## Hoofdstuk 5. Wijzigingen van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding
+
 ### ART 14.
 
 In artikel 24 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, vervangen bij het besluit van de Vlaamse Regering van 10 februari 2012, worden de volgende wijzigingen aangebracht:<br>
@@ -120,17 +130,23 @@ Aan artikel 57/3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 In artikel 57/9 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 februari 2014 en vervangen bij het besluit van de Vlaamse Regering van 30 juni 2023, worden de woorden “met een aangetekende brief” vervangen door de woorden “op digitale wijze”.
 
+## Hoofdstuk 6. Wijzigingen van het besluit van de Vlaamse Regering van 18 juni 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de door het agentschap Opgroeien regie erkende voorzieningen en vergunde diensten
+
 ### ART 19.
 
 In artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 18 juni 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de door het agentschap Opgroeien regie erkende voorzieningen en vergunde diensten, gewijzigd bij de besluiten van de Vlaamse Regering van 10 november 2011, 5 september 2014 en 20 maart 2020, worden de volgende wijzigingen aangebracht:<br>
 1° de inleidende zin wordt vervangen door de zin “De infrastructuur met een functionele bestemming in de sector van de jeugdhulp, de centra voor ontwikkelingsstoornissen en de vergunde diensten voor pleegzorg moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.”;<br>
 2° punt 1° tot en met 8° worden opgeheven.
 
+## Hoofdstuk 7. Wijzigingen van het besluit van de Vlaamse Regering van 16 juli 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen
+
 ### ART 20.
 
 In artikel 3, tweede lid, van het besluit van de Vlaamse Regering van 16 juli 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen, gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2011, worden de volgende wijzigingen aangebracht:<br>
 1° de inleidende zin wordt vervangen door de zin “De infrastructuur met een functionele bestemming in de sector van de verzorgingsvoorzieningen moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.”;<br>
 2° punt 1° tot en met 8° worden opgeheven.
+
+## Hoofdstuk 8. Wijzigingen van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de preventieve en de ambulante gezondheidszorg
 
 ### ART 21.
 
@@ -140,6 +156,8 @@ In artikel 2 van het besluit van de Vlaamse Regering van 10 september 2010 tot v
 3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 “De gebouwen waarover een voorziening voor preventieve en ambulante gezondheidszorg beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.”.
 
+## Hoofdstuk 9. Wijzigingen van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor het algemeen welzijnswerk
+
 ### ART 22.
 
 In artikel 2 van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor het algemeen welzijnswerk, gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2011, worden de volgende wijzigingen aangebracht:<br>
@@ -148,11 +166,19 @@ In artikel 2 van het besluit van de Vlaamse Regering van 10 september 2010 tot v
 3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 “De gebouwen waarover een voorziening in het algemeen welzijnswerk beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.”.
 
+## Hoofdstuk 10. Wijzigingen van het besluit van de Vlaamse Regering van 4 maart 2011 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de kinderopvang
+
 ### ART 23.
 
 In artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 4 maart 2011 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de kinderopvang, gewijzigd bij de besluiten van de Vlaamse Regering van 10 november 2011 en 19 juli 2024, worden de volgende wijzigingen aangebracht:&nbsp;<br>
 1° de inleidende zin wordt vervangen door de zin “De infrastructuur met een functionele bestemming in de sector van de kinderopvang moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.”;<br>
 2° punt 1° tot en met 10° worden opgeheven.
+
+## Hoofdstuk 11. Wijziging van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+
+## Hoofdstuk 12. Wijziging van het besluit van de Vlaamse Regering van 8 november 2013 tot facilitering van de infrastructuurfinanciering via de alternatieve investeringswaarborg, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
+
+## Hoofdstuk 13. Wijzigingen van het besluit van de Vlaamse Regering van 15 januari 2016 betreffende de erkenning van beoefenaars van paramedische beroepen
 
 ### ART 26.
 
@@ -171,6 +197,8 @@ In artikel 14 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 ### ART 28.
 
 In artikel 14/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 januari 2023 en gewijzigd bij het besluit van de Vlaamse Regering van 12 mei 2023, wordt de zinsnede “erkenning in afwijking van artikel 14 intrekken” vervangen door de zinsnede “erkenningsbeslissing in afwijking van artikel 14 intrekken”.
+
+## Hoofdstuk 14. Wijzigingen van het besluit van de Vlaamse Regering van 15 januari 2016 betreffende de erkenning van de beoefenaars van de verpleegkunde, de erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige
 
 ### ART 29.
 
@@ -217,6 +245,8 @@ In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 13 
 <br>
 “Art. 17/2. Als conform artikel 11, § 4, van dit besluit een registratie wordt uitgereikt op basis van de leer- en ervaringsbewijzendatabank, vermeld in artikel 20 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, en achteraf blijkt dat onterecht een registratie is uitgereikt omdat de gegevens niet correct zijn, kan de administratie de registratiebeslissing in afwijking van artikel 17 van dit besluit intrekken. De beslissing over de intrekking wordt aan de persoon in kwestie bezorgd.”.
 
+## Hoofdstuk 15. Wijziging van het besluit van de Vlaamse Regering van 15 januari 2016 houdende de erkenning van kinesitherapeuten en van de bijzondere beroepsbekwaamheden voor kinesitherapeuten
+
 ### ART 35.
 
 In het besluit van de Vlaamse Regering van 15 januari 2016 houdende de erkenning van kinesitherapeuten en van de bijzondere beroepsbekwaamheden voor kinesitherapeuten, gewijzigd bij de besluiten van 13 januari 2023, 12 mei 2023 en 21 juni 2024, wordt een hoofdstuk 1/1, dat bestaat uit artikel 1/1, ingevoegd, dat luidt als volgt:<br>
@@ -224,6 +254,8 @@ In het besluit van de Vlaamse Regering van 15 januari 2016 houdende de erkenning
 “Hoofdstuk 1/1. Toepassingsgebied&nbsp;<br>
 <br>
 Art. 1/1. De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.”.
+
+## Hoofdstuk 16. Wijzigingen van het besluit van de Vlaamse Regering van 18 maart 2016 betreffende de erkenning van de bijzondere beroepstitel van ziekenhuisapotheker
 
 ### ART 36.
 
@@ -263,6 +295,8 @@ De kandidaat deelt elke onderbreking als vermeld in het eerste lid mee via een w
 <br>
 De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan de administratie. De administratie beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.”.
 
+## Hoofdstuk 17. Wijzigingen van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming
+
 ### ART 39.
 
 In artikel 13 van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, worden de woorden “van het voorgaande jaar” telkens vervangen door de woorden “van het jaar twee jaar voor het jaar in kwestie”.
@@ -287,6 +321,8 @@ In artikel 13/5/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 “Het voorschot wordt verdeeld onder de erkende zorgkassen op basis van het percentage lopende dossiers in de psychiatrische verzorgingstehuizen en in de initiatieven van beschut wonen, het percentage aanvragen voor opnames in de revalidatievoorzieningen en aanvragen van rolstoeladviesrapporten en het percentage aanvragen bij de multidisciplinaire begeleidingsequipes voor palliatieve verzorging per zorgkas, ten opzichte van het totale aantal lopende dossiers in de psychiatrische verzorgingstehuizen en de initiatieven van beschut wonen, het totale aantal aanvragen voor opnames in de revalidatievoorzieningen en aanvragen van rolstoeladviesrapporten en het totale aantal aanvragen bij de multidisciplinaire begeleidingsequipes voor palliatieve verzorging, bij alle erkende zorgkassen.&nbsp;<br>
 In het tweede lid worden het aantal aanvragen van 1 januari tot en met 31 december van het jaar twee jaar voor het jaar in kwestie en het aantal lopende dossiers op 31 december van het jaar twee jaar voor het jaar in kwestie bedoeld.&nbsp;<br>
 In het tweede lid wordt verstaan onder rolstoeladviesrapport: een rolstoeladviesrapport als vermeld in artikel 350 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.”.
+
+## Hoofdstuk 18. Wijzigingen van het besluit van de Vlaamse Regering van 24 februari 2017 betreffende de erkenning van artsen-specialisten en van huisartsen
 
 ### ART 43.
 
@@ -343,6 +379,8 @@ In artikel 12, §1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vla
 “Als de kandidaat het geschil meldt, brengt de administratie de stagemeester daarvan op de hoogte.<br>
 Als de stagemeester het geschil meldt, brengt de administratie de kandidaat daarvan op de hoogte.”.
 
+## Hoofdstuk 19. Wijzigingen van het besluit van de Vlaamse Regering van 28 april 2017 betreffende de erkenning van de beoefenaars van de tandheelkunde, houders van een bijzondere beroepstitel
+
 ### ART 48.
 
 In het besluit van de Vlaamse Regering van 28 april 2017 betreffende de erkenning van de beoefenaars van de tandheelkunde, houders van een bijzondere beroepstitel, gewijzigd bij de besluiten van de Vlaamse Regering van 29 maart 2019, 13 januari 2023 en 12 mei 2023, wordt een hoofdstuk 1/1, dat bestaat uit artikel 1/1, ingevoegd, dat luidt als volgt:<br>
@@ -387,6 +425,8 @@ Als de kandidaat die voor de vergadering van de erkenningscommissie is uitgenodi
 <br>
 Na advies van de erkenningscommissie kan het dossier administratief worden afgesloten.".
 
+## Hoofdstuk 20. Wijziging van het besluit van de Vlaamse Regering van 5 mei 2017 betreffende de erkenning van de beroepstitel van vroedvrouw
+
 ### ART 51.
 
 In het besluit van de Vlaamse Regering van 5 mei 2017 betreffende de erkenning van de beroepstitel van vroedvrouw, gewijzigd bij de besluiten van de Vlaamse Regering van 13 januari 2023, 12 mei 2023 en 21 juni 2024, wordt een hoofdstuk 1/1, dat bestaat uit artikel 1/1, ingevoegd, dat luidt als volgt:<br>
@@ -394,6 +434,8 @@ In het besluit van de Vlaamse Regering van 5 mei 2017 betreffende de erkenning v
 “Hoofdstuk 1/1. Toepassingsgebied&nbsp;<br>
 <br>
 Art. 1/1. De Vlaamse Gemeenschap is bevoegd voor elke aanvraag op basis van een diploma dat is uitgereikt door een onderwijsinrichting die is opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of erkend als gelijkwaardig door de Vlaamse Gemeenschap.”.
+
+## Hoofdstuk 21. Wijzigingen van het besluit van de Vlaamse Regering van 14 juli 2017 houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen
 
 ### ART 52.
 
@@ -408,6 +450,8 @@ In artikel 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reg
 2° onder de gemeenschappelijke invloed staan van eenzelfde derde partij die in beide entiteiten de meerderheid van de raad van bestuur vormt of de stemrechten in de raad van bestuur of de algemene vergadering bezit.<br>
 <br>
 §3. Wat de meerderheid van de bestuurders of de meerderheid van de stemrechten betreft, vermeld in paragraaf 2, 1°, worden bestuurders of aandeelhouders met een bloed- of aanverwantschap tot de tweede graad en echtgenoten of samenlevende partners, beschouwd als wederzijds beïnvloedend.”.
+
+## Hoofdstuk 22. Wijzigingen van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
 
 ### ART 54.
 
@@ -425,15 +469,21 @@ Aan artikel 22, eerste lid, van hetzelfde besluit, wordt de volgende zin toegevo
 <br>
 “Vanaf het tweede jaar dat volgt op het jaar van ingebruikname wordt het infrastructuurforfait voor die eenheid vastgesteld op basis van het maximale aantal in aanmerking te nemen bezettingsdagen, vermeld in artikel 21.”.
 
+## Hoofdstuk 23. Wijzigingen van het besluit van de Vlaamse Regering van 29 juni 2018 betreffende de oprichting van een commissie van beroep tegen de beslissing van de uitbetalingsactor over de toelagen in het kader van het gezinsbeleid of tegen het uitblijven ervan
+
 ### ART 56.
 
 In artikel 12 van het besluit van de Vlaamse Regering van 29 juni 2018 betreffende de oprichting van een commissie van beroep tegen de beslissing van de uitbetalingsactor over de toelagen in het kader van het gezinsbeleid of tegen het uitblijven ervan worden de volgende wijzigingen aangebracht:&nbsp;<br>
 1° in paragraaf 1, eerste lid, worden tussen de woorden “met een aangetekende zending” en de woorden “op de hoogte gebracht” de woorden “of via elektronische post met ontvangstmelding” ingevoegd;<br>
 2° in paragraaf 1, tweede lid, 1°, en paragraaf 2, tweede lid, 6°, worden de woorden “en de datum” opgeheven.
 
+## Hoofdstuk 24. Wijziging van het besluit van de Vlaamse Regering van 29 juni 2018 houdende nadere regels betreffende de aanwijzing van de begunstigden van de gezinsbijslagen en de uitbetaling van de toelagen in het kader van het gezinsbeleid
+
 ### ART 57.
 
 In artikel 4, §2, eerste lid, van het besluit van de Vlaamse Regering van 29 juni 2018 houdende nadere regels betreffende de aanwijzing van de begunstigden van de gezinsbijslagen en de uitbetaling van de toelagen in het kader van het gezinsbeleid, gewijzigd bij het besluit van de Vlaamse Regering van 11 februari 2022, wordt de zin “Het verzoek wordt gedagtekend en ondertekend door beide begunstigden.” vervangen door de zin “Het verzoek wordt door minstens een van de begunstigden gedagtekend en ondertekend.”.
+
+## Hoofdstuk 25. Wijzigingen van het besluit van de Vlaamse Regering van 21 september 2018 tot vaststelling van de nadere regels voor het toekennen van een sociale toeslag
 
 ### ART 58.
 
@@ -450,6 +500,8 @@ In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 21 
 2° de inkomsten van een van de personen waarop de toeslag wordt berekend, kan niet bepaald worden aan de hand van inkomsten als vermeld in artikel 7, §1, eerste en derde lid, van dit besluit, die de Federale Overheidsdienst Financiën controleert of aan de hand van inkomsten die een buitenlandse belastingdienst controleert.<br>
 <br>
 In het geval, vermeld in het eerste lid, wordt rekening gehouden met de inkomsten van het eerste kalenderjaar dat volgt op het jaar waarin de verblijfstitel is verkregen.”.
+
+## Hoofdstuk 26. Wijzigingen van het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de diverse hoedanigheden van het rechtgevend kind en betreffende de vrijstellingen van de toekenningsvoorwaarden voor de gezinsbijslagen, de startbedragen geboorte en adoptie en de universele participatietoeslagen
 
 ### ART 60.
 
@@ -525,6 +577,8 @@ Aan artikel 50 van hetzelfde besluit worden een punt 3° en een punt 4° toegevo
 &nbsp;&nbsp;c) een van de ouders reist binnen de twaalf maanden na het overlijden terug naar België;<br>
 &nbsp;&nbsp;d) er bestaat geen recht op het startbedrag geboorte krachtens de regelgeving van een andere deelentiteit, krachtens buitenlandse wets- of reglementsbepalingen of krachtens regels die van toepassing zijn op het personeel van een volkenrechtelijke instelling.”.
 
+## Hoofdstuk 27. Wijzigingen van het besluit van de Vlaamse Regering van 23 november 2018 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige voorzieningen voor personen met een handicap en tot wijziging van artikel 16 van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden
+
 ### ART 67.
 
 In artikel 2 van het besluit van de Vlaamse Regering van 23 november 2018 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige voorzieningen voor personen met een handicap en tot wijziging van artikel 16 van het besluit van de Vlaamse regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden worden de volgende wijzigingen aangebracht:<br>
@@ -533,6 +587,8 @@ In artikel 2 van het besluit van de Vlaamse Regering van 23 november 2018 tot va
 2° punt 1° tot en met 5° worden opgeheven;<br>
 3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 “De gebouwen waarover een voorziening voor personen met een handicap beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.”.
+
+## Hoofdstuk 28. Wijzigingen van het besluit van de Vlaamse Regering van 30 november 2018 houdende de subsidiëring van projecten van preventieve infrastructurele maatregelen inzake agressie, vrijheidsbeperking of vrijheidsberoving in bepaalde voorzieningen van het beleidsdomein Welzijn, Volksgezondheid en Gezin
 
 ### ART 68.
 
@@ -543,6 +599,8 @@ In artikel 4 van het besluit van de Vlaamse Regering van 30 november 2018 houden
 2° onder de gemeenschappelijke invloed staan van eenzelfde derde partij die in beide entiteiten de meerderheid van de raad van bestuur vormt of de stemrechten in de raad van bestuur of de algemene vergadering bezit.<br>
 <br>
 Wat de meerderheid van de bestuurders of de meerderheid van de stemrechten betreft, vermeld in het tweede lid, 1°, worden bestuurders of aandeelhouders met een bloed- of aanverwantschap tot de tweede graad en echtgenoten of samenlevende partners, beschouwd als wederzijds beïnvloedend.”.
+
+## Hoofdstuk 29. Wijzigingen van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
 
 ### ART 69.
 
@@ -594,9 +652,15 @@ In artikel 534/128/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 
 In artikel 534/219, §4, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden de woorden “initiatieven van beschut wonen” vervangen door de woorden “multidisciplinaire begeleidingsequipes voor palliatieve verzorging”.
 
+## Hoofdstuk 30. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag
+
+## Hoofdstuk 31. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018 houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging
+
 ### ART 87.
 
 In deel 3 van het besluit van de Vlaamse Regering van 7 december 2018 houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden titel 3, die bestaat uit artikel 153 en 154, en titel 4, die bestaat uit artikel 155, opgeheven.&nbsp;
+
+## Hoofdstuk 32. Wijzigingen van het besluit van de Vlaamse Regering van 21 december 2018 betreffende de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin
 
 ### ART 88.
 
@@ -622,11 +686,15 @@ Aan artikel 6 van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt al
 <br>
 “De Vlaamse Regering kan per dossier afwijken van de samenstelling van de vertegenwoordigers van de Vlaamse Regering, vermeld in het tweede lid.”.
 
+## Hoofdstuk 33. Wijziging van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslagen leerling
+
 ### ART 92.
 
 Aan artikel 12, §2, van het besluit van de Vlaamse Regering van 17 mei 2019 betreffende de selectieve participatietoeslagen leerling wordt een tweede lid toegevoegd, dat luidt als volgt:&nbsp;<br>
 <br>
 “Als het kadastraal inkomen of de niet-belastbare inkomsten, vermeld in het eerste lid, herzien wordt, wordt met het herziene kadastraal inkomen of de herziene niet-belastbare inkomsten rekening gehouden.”.
+
+## Hoofdstuk 34. Wijzigingen van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers
 
 ### ART 93.
 
@@ -1500,6 +1568,8 @@ Aan artikel 13, eerste lid, van bijlage 12 bij hetzelfde besluit worden de woord
 
 In artikel 19, eerste lid, van bijlage 12 bij hetzelfde besluit worden tussen de zinsnede “artikel 18” en de zinsnede “, verhoogd” de woorden “van deze bijlage” ingevoegd.
 
+## Hoofdstuk 35. Wijzigingen van het besluit van de Vlaamse Regering van 13 december 2019 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige woonzorgvoorzieningen, tot wijziging van diverse bepalingen in dat verband ingevolge het Woonzorgdecreet van 15 februari 2019 en tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin
+
 ### ART 264.
 
 In artikel 2 van het besluit van de Vlaamse Regering van 13 december 2019 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige woonzorgvoorzieningen, tot wijziging van diverse bepalingen in dat verband ingevolge het Woonzorgdecreet van 15 februari 2019 en tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin worden de volgende wijzigingen aangebracht:<br>
@@ -1509,13 +1579,19 @@ In artikel 2 van het besluit van de Vlaamse Regering van 13 december 2019 tot va
 3° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 “De gebouwen waarover een woonzorgvoorziening beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.”.
 
+## Hoofdstuk 36. Wijziging van het besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen
+
 ### ART 265.
 
 In artikel 3, eerste lid, van het besluit van de Vlaamse Regering van 18 december 2020 tot vastlegging van de procedure voor het verlenen van voorafgaande vergunningen en planningsvergunningen voor lokale dienstencentra, centra voor dagopvang van een dienst voor gezinszorg, centra voor dagverzorging, centra voor kortverblijf, centra voor herstelverblijf of woonzorgcentra, en tot bepaling van de elementen van de globale zorgstrategische visie voor deze voorafgaande vergunningen, gewijzigd bij de besluiten van de Vlaamse Regering van 30 september 2022 en 12 mei 2023, wordt punt 9° opgeheven.
 
+## Hoofdstuk 37. Wijziging van het Besluit Ondersteuningstoeslag van 2022
+
 ### ART 266.
 
 Aan artikel 8, eerste lid, 3°, van het Besluit Ondersteuningstoeslag van 2022 wordt de zinsnede “en met uitzondering van het kind dat ondersteuning geniet van een multifunctioneel centrum na aanmelding door het centraal permanent crisismeldpunt, vermeld in artikel 44, §2, 1°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp” toegevoegd.
+
+## Hoofdstuk 38. Wijzigingen van het besluit van de Vlaamse Regering van 23 december 2022 over de erkenning van de beroepskwalificaties voor de gezondheidsberoepen die verworven zijn in een andere lidstaat van de Europese Unie dan België, de Europese beroepskaart en de erkenning op basis van een andere opleiding dan de opleidingen, vermeld in artikel 101/2 van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, waarvoor noch de richtlijn, vermeld in artikel 103, 3°, van de voormelde wet, noch artikel 145, §1, van de voormelde wet geldt
 
 ### ART 267.
 
@@ -1542,6 +1618,8 @@ In artikel 19, §2, van hetzelfde besluit wordt punt 3° opgeheven.
 In artikel 22 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 mei 2023, wordt een derde lid ingevoegd, dat luidt als volgt:<br>
 <br>
 “Als een aanpassingsstage als vermeld in artikel 103, 13°, van de gecoördineerde wet van 10 mei 2015, wordt opgelegd, wordt de aanpassingsstage uitgevoerd bij een erkende stagemeester die werkt in het Nederlandstalige taalgebied of het tweetalige gebied Brussel-Hoofdstad. De bepalingen over de stage in de reglementering tot vaststelling van de erkenningsprocedure voor het beroep in kwestie zijn van toepassing.”.
+
+## Hoofdstuk 39. Wijzigingen van het besluit van de Vlaamse Regering van 13 januari 2023 over de erkenning van beoefenaars van de klinische psychologie en de klinische orthopedagogiek
 
 ### ART 272.
 
@@ -1573,6 +1651,8 @@ De kandidaat vermeldt elke onderbreking, vermeld in het eerste lid, op het stage
 <br>
 De kandidaat vermeldt de stageverlenging op het stageplan, vermeld in paragraaf 1, derde lid, 1°.”.
 
+## Hoofdstuk 40. Wijziging van het besluit van de Vlaamse Regering van 30 juni 2023 over investeringssubsidies voor de revalidatieovereenkomsten
+
 ### ART 274.
 
 In artikel 4, eerste lid, van het besluit van de Vlaamse Regering van 30 juni 2023 over investeringssubsidies voor de revalidatieovereenkomsten worden de volgende wijzigingen aangebracht:<br>
@@ -1580,14 +1660,20 @@ In artikel 4, eerste lid, van het besluit van de Vlaamse Regering van 30 juni 20
 2° aan de inleidende zin worden de woorden “en aan de volgende voorwaarden” toegevoegd;&nbsp;<br>
 3° punt 1° tot en met 7° worden opgeheven.
 
+## Hoofdstuk 41. Wijziging van het besluit van de Vlaamse Regering van 19 juli 2024 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers
+
 ### ART 275.
 
 In artikel 44, §5, eerste en tweede lid, van het besluit van de Vlaamse Regering van 19 juli 2024 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers wordt de zinsnede “van de administratie een aanmaning heeft ontvangen conform paragraaf 2, eerste lid,” vervangen door de zinsnede “door de secretaris-generaal onder verhoogd toezicht is geplaatst, conform paragraaf 3, eerste lid,”.
+
+## Hoofdstuk 42. Wijziging van het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg
 
 ### ART 276.
 
 Aan punt f van hoofdstuk II van bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg wordt een bepaling toegevoegd, die luidt als volgt:<br>
 “● het zorgbudget voor zwaar zorgbehoevenden, vermeld in artikel 78 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.”.
+
+## Hoofdstuk 43. Slotbepalingen
 
 ### ART 277.
 
