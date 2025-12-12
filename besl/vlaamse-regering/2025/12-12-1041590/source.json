@@ -2,16 +2,16 @@
   "codex_id": 1041590,
   "title": "Besluit van de Vlaamse Regering van 2025-12-12 tot herverdeling van VAK en VEK op begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2025 in het kader van de toekenning van een toelage aan UGent i.h.k.v. het HIV IMPACT project",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041590/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "79c5d36dfe8a6b590fbacf209f3613f00c975fb38cc506cdd30fef140e5a7acf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041590/VolledigDocument?datum=2025-12-12",
+  "source_sha256": "cf798a12c637134a02e94ee62c7a5d564c48191ab83191fd250812d83238d281",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041590&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-12-12",
   "made": "2025-12-12",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-12-12",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-12; future article versions excluded; article text as the API gives it"
 }
