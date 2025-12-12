@@ -2,16 +2,16 @@
   "codex_id": 1041601,
   "title": "Besluit van de Vlaamse Regering van 2025-12-12 tot herverdeling van kredieten ingeschreven onder begrotingsartikel FC0-1FBE2AA-PR van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2025",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041601/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5a986647cee70177adf3e0e7750b998b9917732259c0dcd55b21e4bf8dffde54",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041601/VolledigDocument?datum=2025-12-12",
+  "source_sha256": "d2e20000d0fb0afc84a9e7591b80c754dfd5bed713e50a9e7ae74a658f15f661",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041601&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-12-12",
   "made": "2025-12-12",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-12-12",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-12; future article versions excluded; article text as the API gives it"
 }
