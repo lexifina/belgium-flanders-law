@@ -2,16 +2,16 @@
   "codex_id": 1041592,
   "title": "Besluit van de Vlaamse Regering van 2025-12-12 tot herverdeling van VAK en VEK op begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2025 in het kader van de toekenning van een starttoelage aan VIB in kader van het Vlaams Cognitief Kompas",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041592/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "347a3a9f71d42a91209490cddfb21001c80eb818d6d404d5e07bb1d60b6bbb56",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041592/VolledigDocument?datum=2025-12-12",
+  "source_sha256": "3e246d2987b4c17bc1118a3693eba8a6fbd7315dab1005b5a0a9e236b11675bd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041592&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-12-12",
   "made": "2025-12-12",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-12-12",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-12; future article versions excluded; article text as the API gives it"
 }
