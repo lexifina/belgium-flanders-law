@@ -24,3 +24,66 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Onderwijs, Justitie e
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+Binnen de perken van de kredieten voor het begrotingsjaar 2025 wordt de volgende herverdeling doorgevoerd (bedragen in keuro):
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1px; height:17px; text-align:center; vertical-align:middle; width:141px">Begrotingsartikel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:17px; text-align:center; vertical-align:middle; width:47px">Ent.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:17px; text-align:center; vertical-align:middle; width:76px">Basisall.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:17px; text-align:center; vertical-align:middle; width:57px">ESR</td>
+			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:17px; text-align:center; vertical-align:middle; width:132px">Van</td>
+			<td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:17px; text-align:center; vertical-align:middle; width:132px">Naar</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:76px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">VAK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">VEK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">VAK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">VEK</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:141px">FC0-1FBE2AA-PR</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:47px">FC0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:76px">1FB101</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:57px">01.00</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">4.292</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:141px">FB0-1FGE2GN-WT</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:47px">FB0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:76px">1FG322</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:57px">44.30</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">4.292</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:141px">Totaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:47px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:76px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:57px">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">4.292</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">4.292</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; text-align:center; vertical-align:middle; width:66px">0</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+Dit besluit treedt in werking na ondertekening ervan.
+
+### ART 3.
+
+De Vlaamse minister bevoegd voor Financiën en begroting is bevoegd voor de uitvoering van dit besluit.
