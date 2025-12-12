@@ -33,6 +33,7 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° afdeling gesloten begeleiding: een afdeling in een gemeenschapsinstelling voor minderjarige verdachten en delictplegers die een reactie opgelegd krijgen met toepassing van artikel 20, §2, eerste lid, 5°, of artikel 29, §2, eerste lid, 7°, van het decreet van 15 februari 2019;&nbsp;<br>
 2° afdeling gesloten oriëntatie: een afdeling in een gemeenschapsinstelling voor minderjarige verdachten en delictplegers die een reactie opgelegd krijgen met toepassing van artikel 20, §2, eerste lid, 4°, of artikel 29, §2, eerste lid, 6°, van het decreet van 15 februari 2019;&nbsp;<br>
+2°/1 afdeling kortverblijf: een afdeling in een gemeenschapsinstelling voor minderjarige verdachten en delictplegers die een reactie opgelegd krijgen met toepassing van de artikelen 20, § 2, eerste lid, 3°/2, en 29, § 2, eerste lid, 6° &nbsp;van het decreet van 15 februari 2019, waarbij tijdens een verblijf van veertien dagen wordt toegewerkt naar een ambulant of mobiel uitstroomtraject, dat kan variëren in intensiteit op maat van de jongere;<br>
 3° contextwerker: een medewerker binnen de afdeling gesloten oriëntatie en gesloten begeleiding die instaat voor het participatief werken met en ondersteunen van ouders, in voorkomend geval opvoedingsverantwoordelijken en betrokken personen uit de leefomgeving van de minderjarige verdachte of delictpleger en het bieden van versterkende ondersteuning en begeleiding in de levensdomeinen die alle betrokkenen aanduiden als belangrijk;&nbsp;<br>
 4° decreet van 15 februari 2019: het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 5° forensisch traject: een traject waarbij delictgericht en herstelgericht wordt gewerkt met de minderjarige verdachte of delictpleger, zijn ouders, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving, ook tijdens het verblijf binnen een afdeling van een gemeenschapsinstelling;<br>
@@ -42,6 +43,65 @@ In dit besluit wordt verstaan onder:<br>
 9° privaat begeleidingsaanbod: een aanbod, vermeld in het besluit van de Vlaamse regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp of een ander intersectoraal aanbod voor minderjarigen;
 
 ## Hoofdstuk 2. Organisatie, samenstelling en werking van de afdelingen van de gemeenschapsinstellingen
+
+## Afdeling 1. De afdeling kortverblijf
+
+### ART 1/1.
+
+Het multidisciplinaire team binnen een afdeling kortverblijf bestaat minimaal uit:<br>
+1°&nbsp;&nbsp; &nbsp;een trajectcoördinator van de afdeling kortverblijf;<br>
+2°&nbsp;&nbsp; &nbsp;een contextwerker van de afdeling kortverblijf;<br>
+3°&nbsp;&nbsp; &nbsp;een begeleider van de afdeling kortverblijf;<br>
+4°&nbsp;&nbsp; &nbsp;een begeleider van een privaat begeleidingsaanbod als die al betrokken is.
+
+### ART 1/2.
+
+§1. Het forensisch traject binnen een afdeling kortverblijf verloopt in twee fasen als vermeld in paragraaf 2 en 3.<br>
+<br>
+§2. De eerste fase van het forensisch traject binnen een afdeling kortverblijf is gericht op verkenning en beeldvorming rond de criminogene domeinen en levensbehoeften van de minderjarige en vormt de basis voor een trajectoverleg.<br>
+<br>
+Om informatie te vergaren wint de afdeling kortverblijf informatie in van en pleegt ze overleg met de minderjarige, de ouders of opvoedingsverantwoordelijken en andere relevante personen uit de leefomgeving van de minderjarige, de sociale dienst en, in voorkomend geval, de school en het eerder betrokken private begeleidingsaanbod, met behoud van de toepassing van de verplichtingen en beperkingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens of uit de regelgeving van de sectoren.&nbsp;<br>
+<br>
+Vanaf dag vijf van het traject vindt een trajectoverleg plaats onder leiding van een trajectcoördinator, waarbij naast de minderjarige, de ouders of opvoedingsverantwoordelijken minstens de individuele begeleider, de contextwerker, in voorkomend geval een begeleider van het eerder betrokken private begeleidingsaanbod en als dat mogelijk is de sociale dienst, aanwezig zijn.<br>
+<br>
+Het trajectoverleg, vermeld in het tweede lid, mondt uit in een multidisciplinair advies over welk ambulant uitstroomtraject aangewezen is.<br>
+<br>
+§3. De tweede fase van het forensisch traject binnen de afdeling kortverblijf is een verdiepende fase die gericht is op al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de inzichten en vaardigheden maximaal vergroten via doelgerichte en inhoudelijke activiteiten;<br>
+2°&nbsp;&nbsp; &nbsp;positief in verbinding treden met het gezin en de netwerk- en contextfiguren van de minderjarige in functie van voorbereiding op terugkeer.<br>
+<br>
+Tijdens de tweede fase wordt actief toegewerkt naar één van de volgende elementen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een heraansluiting bij of de aanmelding bij een dienst voor jeugdhulpverlening die de Vlaamse Gemeenschap organiseert;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;een aanbod bij een dienst voor herstelgerichte en constructieve afhandeling;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;een contextbegeleiding als vermeld in artikel 24, tweede lid, of artikel 33, tweede lid, van het decreet van 15 februari 2019.<br>
+<br>
+De tweede fase mondt uit in:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een engagementsplan van de minderjarige dat een plan van aanpak bevat voor de criminogene factoren en levensbehoeften;<br>
+2°&nbsp;&nbsp; &nbsp;een advies van de sociale dienst over het uitstroomtraject dat is aangewezen, en met welke partner.<br>
+<br>
+Het advies, vermeld in het derde lid, 2°, wordt besproken met de minderjarige, de ouders of opvoedingsverantwoordelijken en wordt uiterlijk twee dagen voor het einde van het kortverblijf samen met het engagementsplan van de minderjarige, vermeld in het derde lid, 1°, bezorgd aan de jeugdrechter of jeugdrechtbank.<br>
+<br>
+§4. Elke voorziening, die erkend is om de typemodule delictgerichte contextbegeleiding aan te bieden en voorziet in een aanbod delictgerichte contextbegeleiding na uitstroom vanuit de afdeling kortverblijf in de gemeenschapsinstellingen, ontvangt jaarlijks een forfaitaire basissubsidie die overeenkomt met 36 begeleidingsmaanden.&nbsp;<br>
+<br>
+Een voorziening, vermeld in het eerste lid, kan aanvullend per maand begeleiding per minderjarige een subsidie van 2211,75 euro ontvangen voor de uitstroom van minderjarigen vanuit de afdeling kortverblijf in de gemeenschapsinstellingen.&nbsp;<br>
+<br>
+De verdeling van de aanvullende subsidie, vermeld in het tweede lid, &nbsp;gebeurt proportioneel over de voorzieningen, vermeld in het eerste lid, op basis van het gemiddeld aantal jongeren dat is ingestroomd in het voorgaande kalenderjaar in de verschillende afdelingen van de gemeenschapsinstellingen per afdeling van elk gerechtelijk arrondissement.<br>
+<br>
+De subsidie op jaarbasis bedraagt in totaal maximaal &nbsp;1.874.601 euro.<br>
+<br>
+Met behoud van de toepassing van het vierde lid kunnen de subsidies, vermeld in het eerste en tweede lid, vrij besteed worden als al de volgende voorwaarden zijn vervuld:<br>
+1°&nbsp;&nbsp; &nbsp;de reguliere capaciteit delictgerichte contextbegeleiding en indien van toepassing contextbegeleiding kortdurend intensief, waarvoor de voorziening is erkend, is volledig ingevuld;<br>
+2°&nbsp;&nbsp; &nbsp;de uitgaven liggen binnen de grenzen van het bedrag, vermeld in het eerste en tweede lid;<br>
+3°&nbsp;&nbsp; &nbsp;de termijn waarbinnen de subsidie wordt verleend, bedraagt maximaal drie maanden, eenmalig gemotiveerd verlengbaar voor een periode van maximaal drie maanden.&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de subsidies worden verantwoord aan de hand van registratie van de begeleidingsmaanden in een registratiesysteem dat de administratie van het agentschap Opgroeien ter beschikking stelt;<br>
+5°&nbsp;&nbsp; &nbsp;maximaal 20% van de subsidies kan besteed worden aan werkingskosten;<br>
+6°&nbsp;&nbsp; &nbsp;de subsidies worden niet aangewend voor de aanleg van reserves.<br>
+<br>
+Op het einde van elk kalenderjaar wordt het bedrag dat overeenstemt met de niet gehaalde begeleidingsmaanden, en worden de gepresteerde begeleidingsmaanden, vermeld in het tweede lid, verrekend.&nbsp;<br>
+<br>
+Voor de niet volledig gepresteerde maanden, wordt het bedrag, proportioneel verrekend per dag met inbegrip van de dag van opstart en de dag van stopzetting van de begeleiding.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 maart 2025.
 
 ## Afdeling 1. De afdeling gesloten oriëntatie
 
@@ -188,19 +248,19 @@ Het individuele perspectiefplan omvat een programma van activiteiten die gericht
 ### ART 5.
 
 §1. De werking van de afdelingen van de gemeenschapsinstellingen voldoet aan de volgende kwaliteitsvereisten:<br>
-1° ze garandeert de multidisciplinariteit en deskundigheid in het opmaken van de initiële risicotaxatie, het oriëntatievoorstel, het gedeelde handelingsplan en het individuele perspectiefplan en ze is maximaal onderbouwd en samenhangend;&nbsp;<br>
+1° ze garandeert de multidisciplinariteit en deskundigheid in het opmaken van het engagementsplan, de initiële risicotaxatie, het oriëntatievoorstel, het gedeelde handelingsplan en het individuele perspectiefplan en ze is maximaal onderbouwd en samenhangend;&nbsp;<br>
 2° ze sluit maximaal aan bij de individuele situatie van de minderjarige, de ouders, in voorkomend geval de opvoedingsverantwoordelijken en de betrokken personen uit de leefomgeving van de minderjarige en ze verloopt voor die personen op een transparante wijze;<br>
 3° ze houdt maximaal rekening met de mogelijkheden en de leefomgeving van de personen, vermeld in punt 2°;<br>
 4° ze geeft maximaal ruimte tot participatie van de personen, vermeld in punt 2°.<br>
 <br>
-§2. De initiële risicotaxatie, het oriëntatieverslag, het gedeelde handelingsplan en het individuele perspectiefplan voldoen minstens aan de volgende voorwaarden:<br>
+§2. Het engagementsplan, de initiële risicotaxatie, het oriëntatieverslag, het gedeelde handelingsplan en het individuele perspectiefplan voldoen minstens aan de volgende voorwaarden:<br>
 1° ze zijn zo begrijpelijk mogelijk voor de minderjarige, de ouders, in voorkomend geval de opvoedingsverantwoordelijken en de betrokken personen uit de leefomgeving van de minderjarige;<br>
 2° ze bevatten een synthese van de analyse van de situatie;<br>
 3° ze bevatten het perspectief van de minderjarige, de ouders, in voorkomend geval de opvoedingsverantwoordelijken en de betrokken personen uit de leefomgeving van de minderjarige;<br>
 4° ze bevatten de naam en contactgegevens van de trajectcoördinator;<br>
 5° ze worden meegedeeld en toegelicht aan de personen, vermeld in punt 1°, aan de sociale dienst en alle andere betrokken actoren, en ze worden pas gefinaliseerd nadat de inbreng en eventuele bemerkingen van die personen en actoren zijn genoteerd.<br>
 <br>
-§3. Het multidisciplinair team dat instaat voor de opmaak en opvolging van de initiële risicotaxatie, het oriëntatieverslag, het gedeelde handelingsplan en het individuele perspectiefplan, ontwikkelt een kwaliteitsbeleid met het oog op de vorming, training en opleiding van de leden en zorgt voor structurele ruimte voor intervisie en supervisie met het private begeleidingsaanbod en de sociale dienst.<br>
+§3. Het multidisciplinair team dat instaat voor de opmaak en opvolging van het engagementsplan, de initiële risicotaxatie, het oriëntatieverslag, het gedeelde handelingsplan en het individuele perspectiefplan, ontwikkelt een kwaliteitsbeleid met het oog op de vorming, training en opleiding van de leden en zorgt voor structurele ruimte voor intervisie en supervisie met het private begeleidingsaanbod en de sociale dienst.<br>
 <br>
 Het team kan voor de inbreng van relevante expertise een beroep doen op externe deskundigen of organisaties.&nbsp;<br>
 <br>
