@@ -2,16 +2,16 @@
   "codex_id": 1019845,
   "title": "Besluit van de Vlaamse Regering van 2010-12-10 tot uitvoering van het decreet betreffende de private arbeidsbemiddeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019845/VolledigDocument?datum=2019-06-11",
-  "source_sha256": "9729f67dafe6fde988fbfa2bcf07023648451e2e39c169a78a9872f78978953c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019845/VolledigDocument?datum=2025-12-12",
+  "source_sha256": "def7679b45ecbe01401a35fddbf868103a6510688c4bd6ff914da9766c7dc623",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019845&param=informatie",
-  "as_of": "2019-06-11",
+  "as_of": "2025-12-12",
   "made": "2010-12-10",
   "gazette": "2010-12-29",
   "numac": 2010036022,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2019-06-11",
+  "in_force": "2025-12-12",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2019-06-11; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2025-12-12; future article versions excluded; article text as the API gives it"
 }

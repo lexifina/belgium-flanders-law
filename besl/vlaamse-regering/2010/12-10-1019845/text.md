@@ -462,7 +462,7 @@ Er wordt van de (kandidaat) uitzendkrachten geen enkele financiële of andere bi
 <br>
 14° Het bureau verschaft aan alle (kandidaat) uitzendkrachten correcte, volledige en objectieve informatie over de reglementering inzake uitzendarbeid en over de opdrachten die hen worden aangeboden, zodat zij op de hoogte zijn van hun rechten en plichten en met kennis van zaken kunnen oordelen.<br>
 <br>
-Daarbij wordt een intentieverklaring gesloten tussen het bureau en de uitzendkracht moet daarbij gesloten worden, waarbij de betrokken werkzoekende bevestigt dat hij bereid is om uitzendarbeid te verrichten.<br>
+Daarbij wordt een intentieverklaring gesloten tussen het bureau en de uitzendkracht, waarbij de betrokken werkzoekende bevestigt dat hij bereid is om uitzendarbeid te verrichten.<br>
 <br>
 Uitzendkrachten zijn volledig vrij een opdracht te weigeren. De weigering van een opdracht heeft voor hen geen nadelige gevolgen.<br>
 <br>
@@ -473,7 +473,7 @@ Informatie over een uitzendkracht kan slechts aan derden worden doorgegeven na d
 Verder moet het bureau de volgende gedragsregels ter zake respecteren :<br>
 a) het bureau waakt erover dat alle personeelsleden de vertrouwelijkheid van de persoonsgegevens respecteren;<br>
 b) persoonsgegevens worden in principe van de werknemer zelf verkregen;<br>
-c) als het bureau het noodzakelijk acht persoonsgegevens in te winnen bij derden, dient daarvan vooraf op de hoogte gebracht en moet hij daarvoor zijn toestemming verlenen. De uitzendkracht ondertekent daarvoor een verklaring waarvan hij de draagwijdte duidelijk kan begrijpen en die minstens de volgende gegevens bevat : de identiteit van de persoon, de identiteit van de organisaties of personen, de aard van de gegevens, de redenen voor de opvraging van de gegevens en de periode waarin de toestemming zal worden gebruikt. Als het curriculum vitae uitdrukkelijk naar een referentiepersoon wordt verwezen, geldt dit als impliciete toestemming van de uitzendkracht;<br>
+c) als het bureau het noodzakelijk acht persoonsgegevens in te winnen bij derden, wordt de uitzendkracht daarvan vooraf op de hoogte gebracht en moet hij daarvoor zijn toestemming verlenen. De uitzendkracht ondertekent daarvoor een verklaring waarvan hij de draagwijdte duidelijk kan begrijpen en die minstens de volgende gegevens bevat : de identiteit van de persoon, de identiteit van de organisaties of personen, de aard van de gegevens, de redenen voor de opvraging van de gegevens en de periode waarin de toestemming zal worden gebruikt. Als het curriculum vitae uitdrukkelijk naar een referentiepersoon wordt verwezen, geldt dit als impliciete toestemming van de uitzendkracht;<br>
 d) er worden geen persoonsgegevens ingewonnen en opgeslagen die niet noodzakelijk zijn voor de opdracht;<br>
 e) de persoonsgegevens worden bewaard en gecodeerd op een wijze die de uitzendkracht begrijpt en die hem/haar geen enkel kenmerk toedicht met een mogelijk discriminerend effect tot gevolg;<br>
 f) de uitzendkracht kan op elk moment zijn/haar toestemming intrekken om persoonsgegevens, op te vragen en te gebruiken.<br>
@@ -488,8 +488,7 @@ De uitzendkrachten krijgen alle nodige informatie om hun werkzaamheden in optima
 <br>
 Het bureau wijst de gebruikers op de noodzaak van een degelijke begeleiding van de uitzendkrachten inzake veiligheid zodat ongevallen en incidenten, alsook de daaruit voortvloeiende schade, vermeden worden.<br>
 <br>
-17° Als het uitzendbureau ook andere vormen van arbeidsbemiddelingsactiviteiten uitoefent, moeten de volgende principes gerespecteerd worden :<br>
-- het moet zowel voor (kandidaat) uitzendkrachten als voor werkgevers duidelijk zijn welke activiteit wordt aangeboden. Dit impliceert dat juiste, tijdige en volledige informatie verstrekt moet worden over welke activiteit (arbeidsbemiddeling of terbeschikkingstelling) aangeboden wordt;<br>
+17° Als het uitzendbureau ook andere vormen van arbeidsbemiddelingsactiviteiten uitoefent, is het voor uitzendkrachten, kandidaat-uitzendkrachten en werkgevers duidelijk welke activiteit wordt aangeboden. Dat impliceert dat juiste, tijdige en volledige informatie verstrekt wordt over welke activiteit, namelijk arbeidsbemiddeling of terbeschikkingstelling, aangeboden wordt;<br>
 <br>
 18° Het bureau mag gegevens over gezondheid als vermeld in artikel 4, 15), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) slechts inwinnen in de mate dat dit noodzakelijk is om te bepalen of de (kandidaat) uitzendkracht in staat is een bepaalde functie uit te oefenen of te voldoen aan de eisen van gezondheid en veiligheid.<br>
 <br>
@@ -497,7 +496,17 @@ Het bureau wijst de gebruikers op de noodzaak van een degelijke begeleiding van 
 <br>
 20° Het bureau mag geen referenties en gegevens vragen bij de huidige of vroegere werkgever zonder voorafgaande en uitdrukkelijke toestemming van de (kandidaat) uitzendkracht.<br>
 <br>
-21° Het bureau verbindt er zich toe in bemiddelingsactiviteiten het Nederlands te gebruiken conform de bepalingen van de taalwetgeving.
+21° Het bureau verbindt er zich toe in bemiddelingsactiviteiten het Nederlands te gebruiken conform de bepalingen van de taalwetgeving;<br>
+<br>
+22° Het bureau verbindt zich ertoe alle personeelsleden een degelijke vorming over de toepasselijke regelgeving aan te bieden en geregeld te controleren of ze op de hoogte zijn van de verplichtingen die uit de reglementering voortvloeien.&nbsp;<br>
+<br>
+23° Het bureau beoogt een dienstverlening van hoogstaande kwaliteit ten aanzien van de gebruiker en brengt de belangen van de personeelsleden van de gebruiker niet in het gedrang.&nbsp;<br>
+<br>
+24° Het bureau selecteert zijn uitzendkrachten rekening houdend met hun vorming, beroepsbekwaamheid, beroepsverleden, eventuele referenties in overeenstemming met de geldende regelgeving, en attitude, zodat hun profiel aansluit bij de behoefte en bedrijfscultuur van de gebruiker.<br>
+<br>
+25° Het bureau waakt erover dat al zijn personeelsleden op geen enkele manier misbruik maken van vertrouwelijke informatie waarvan ze kennis krijgen als gevolg van de relatie tussen het bureau en de gebruiker.&nbsp;<br>
+<br>
+26° Het bureau gedraagt zich loyaal, open en respectvol ten aanzien van andere bureaus en concurreert op een eerlijke manier. Het bureau onthoudt er zich van om de reputatie van andere bureaus aan te tasten en om foutieve informatie te verstrekken over die andere bureaus ten aanzien van de gebruiker. Het bureau leeft hierbij de regels uit hoofdstuk 2 van Titel 4 van Boek IV van het Wetboek van economisch recht na.&nbsp;
 
 ### BIJLAGE
 
