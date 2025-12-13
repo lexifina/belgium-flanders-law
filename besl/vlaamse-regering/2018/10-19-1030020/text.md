@@ -515,10 +515,7 @@ Als na toepassing van het tweede en derde lid blijkt dat in een bepaald jaar een
 
 ### ART 42.
 
-Met behoud van de toepassing van de bepalingen van hoofdstuk 3 en 4 kunnen er tot en met 31 december 2025 geen ontvankelijke aanvragen van voorafgaande vergunningen worden ingediend die een verdere invulling van de programmatie van centra voor kortverblijf of woonzorgcentra impliceren. Daaronder worden de volgende voorafgaande vergunningen verstaan:<br>
-1° voorafgaande vergunningen voor het bouwen, het inrichten, het in gebruik nemen of het verplaatsen van activiteiten naar een andere inplantingsplaats binnen het werkingsgebied van een centrum voor kortverblijf of een woonzorgcentrum, als die initiatieven een verdere invulling van de programmatie van die centra impliceren;<br>
-2° voorafgaande vergunningen voor het verhogen van de capaciteit van een centrum voor kortverblijf of woonzorgcentrum dat erkend of voorafgaandelijk vergund is.<br>
-Aanvragen die in die periode worden ingediend, worden van rechtswege geacht niet ontvankelijk te zijn en worden niet onderzocht.
+...
 
 ## HOOFDSTUK 9. ...
 
