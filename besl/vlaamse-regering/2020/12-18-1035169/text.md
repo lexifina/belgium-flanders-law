@@ -96,7 +96,7 @@ De minister kan de regels over de ontvankelijkheid van de documenten en gegevens
 <br>
 In afwijking van het eerste lid, 1°, kunnen tot en met 31 december 2025 initiatiefnemers een ontvankelijke aanvraag indienen als de betrokken woonzorgcentra of centra voor kortverblijf type 1 met, in voorkomend geval, de bijbehorende bijkomende erkenning voor oriënterend kortverblijf niet door dezelfde rechtspersoon worden uitgebaat.<br>
 <br>
-In afwijking van het eerste lid, 3°, wordt tot en met 31 december 2025 de toetsing, vermeld in het eerste lid,3°, gedaan aan het programmacijfer voor de woonzorgcentra of de centra voor kortverblijf type 1, bepaald voor het jaar 2015.
+In afwijking van het eerste lid, 3°, wordt tot en met 31 december 2026 de toetsing, vermeld in het eerste lid,3°, gedaan aan het programmacijfer voor de woonzorgcentra of de centra voor kortverblijf type 1, bepaald voor het jaar 2015.
 
 ### ART 4.
 
@@ -190,6 +190,16 @@ De secretaris-generaal kan pas instemmen met een wijziging van de voorafgaande v
 De minister kan de regels over de relevante documenten en gegevens, vermeld in het tweede lid, preciseren.<br>
 <br>
 Als de secretaris-generaal het voornemen heeft de wijziging van de voorafgaande vergunning te weigeren, wordt de initiatiefnemer op de hoogte gebracht van dat voornemen met een aangetekende brief tegen ontvangstbewijs. Die brief vermeldt ook de mogelijkheid en de voorwaarden om tegen het voornemen een bezwaarschrift in te dienen als vermeld in artikel 7.
+
+## Afdeling 5. Het verlenen van een voorafgaande vergunning voor woongelegenheden in centra voor kortverblijf type 1 en woonzorgcentra die een verdere invulling van de programmatie van die centra impliceren
+
+### ART 9/1.
+
+Met behoud van de toepassing van artikel 2 tot en met 9 kunnen er tot en met 31 december 2026 geen ontvankelijke aanvragen voor voorafgaande vergunningen worden ingediend die een verdere invulling van de programmatie van centra voor kortverblijf type 1 of woonzorgcentra impliceren. Daaronder worden de volgende voorafgaande vergunningen verstaan:<br>
+1°&nbsp;&nbsp; &nbsp;voorafgaande vergunningen voor het bouwen, het inrichten, het in gebruik nemen of het verplaatsen van activiteiten naar een andere inplantingsplaats binnen het werkingsgebied van een centrum voor kortverblijf type 1 of een woonzorgcentrum, als die initiatieven een verdere invulling van de programmatie van die centra impliceren;<br>
+2°&nbsp;&nbsp; &nbsp;voorafgaande vergunningen voor het verhogen van de capaciteit van een centrum voor kortverblijf type 1 of woonzorgcentrum dat erkend of voorafgaandelijk vergund is.<br>
+<br>
+Aanvragen voor voorafgaande vergunningen als vermeld in het eerste lid, die in de periode, vermeld in het eerste lid, worden ingediend, worden van rechtswege geacht niet ontvankelijk te zijn en worden niet onderzocht.
 
 ## HOOFDSTUK 3. Procedure voor het verkrijgen van een planningsvergunning
 
