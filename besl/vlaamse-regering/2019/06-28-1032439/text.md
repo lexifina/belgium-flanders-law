@@ -5698,15 +5698,15 @@ Als de centra, vermeld in het eerste lid, op 31 december 2022, geen ontvankelijk
 
 ### ART 32.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn en over minstens vijftien en maximaal 29 verblijfseenheden beschikken, kunnen erkend worden, als ze ten laatste op 31 december 2025 het aantal verblijfseenheden hebben uitgebreid naar dertig. </span></span><br>
+<p>De centra die op 31 december 2019 aangemeld zijn en over minstens vijftien en maximaal 29 verblijfseenheden beschikken, kunnen erkend worden, als ze ten laatste op 31 december 2026 het aantal verblijfseenheden hebben uitgebreid naar dertig.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Deze centra voor herstelverblijf passen van rechtswege in de programmatie.</span></span><br>
+Deze centra voor herstelverblijf passen van rechtswege in de programmatie.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Indien ze tegen 31 december 2025 geen ontvankelijke erkenningsaanvraag hebben ingediend, kunnen zij niet langer als centrum voor herstelverblijf uitgebaat worden.</span></span></p>
+Indien ze tegen 31 december 2026 geen ontvankelijke erkenningsaanvraag hebben ingediend, kunnen zij niet langer als centrum voor herstelverblijf uitgebaat worden.</p>
 
 ### ART 33.
 
-<p>De centra die op 31 december 2019 aangemeld zijn kunnen, wanneer zij zich bevinden in dezelfde gemeente, verschillende gemeenten in dezelfde eerstelijnszone of verschillende gemeenten die in twee aangrenzende eerstelijnszones liggen en uitgebaat worden door dezelfde rechtspersoon, samengevoegd worden tot een centrum voor herstelverblijf van minstens 30 verblijfseenheden en dit op één locatie. Dit centrum kan erkend worden ten laatste op 31 december 2025.<br>
+<p>De centra die op 31 december 2019 aangemeld zijn kunnen, wanneer zij zich bevinden in dezelfde gemeente, verschillende gemeenten in dezelfde eerstelijnszone of verschillende gemeenten die in twee aangrenzende eerstelijnszones liggen en uitgebaat worden door dezelfde rechtspersoon, samengevoegd worden tot een centrum voor herstelverblijf van minstens 30 verblijfseenheden en dit op één locatie. Dit centrum kan erkend worden ten laatste op 31 december 2026.<br>
 <br>
 In het eerste lid wordt verstaan onder eerstelijnszone: de eerstelijnszone die de Vlaamse Regering bepaalt conform artikel 13 van het decreet van 26 april 2019 betreffende de organisatie van de eerstelijnszorg, de regionale zorgplatformen en de ondersteuning van de eerstelijnszorgaanbieders.<br>
 <br>
@@ -5714,7 +5714,7 @@ Het centrum voor herstelverblijf, vermeld in het eerste lid, past van rechtswege
 
 ### ART 34.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De centra die op 31 december 2019 aangemeld zijn en over minder dan vijftien verblijfseenheden beschikken, kunnen aangemeld blijven tot 31 december 2025.</span></span></p>
+<p>De centra die op 31 december 2019 aangemeld zijn en over minder dan vijftien verblijfseenheden beschikken, kunnen aangemeld blijven tot 31 december 2026.</p>
 
 ### ART 35.
 
