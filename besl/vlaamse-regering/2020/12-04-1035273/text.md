@@ -192,14 +192,22 @@ De periodieke aflossingen van lening- en leasingschulden mogen worden gedaan met
 § 2. Bij elke aanpassing van het meerjarenplan wordt het resultaat van de intussen vastgestelde jaarrekeningen verwerkt. Een aanpassing van het meerjarenplan mag er niet toe leiden dat het nieuwe krediet of de nieuwe ramingen lager zijn dan de transacties die zijn vastgelegd met toepassing van artikel 83.<br>
 <br>
 § 3. Een aanpassing van het meerjarenplan bevat al de volgende onderdelen:<br>
-1° in voorkomend geval, de wijzigingen van de strategische nota;<br>
-2° het aangepaste financiële doelstellingenplan;<br>
-3° de aangepaste staat van het financieel evenwicht;<br>
-4° het aangepaste overzicht van de kredieten;<br>
+1° de aangepaste strategische nota, met aanduiding van de wijzigingen ten opzichte van de beleidsdoelstellingen en de prioritaire acties of actieplannen in het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan, en de financiële kerncijfers in de beleidsverklaring van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
+2° het aangepaste financiële doelstellingenplan, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
+3° de aangepaste staat van het financieel evenwicht, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
+4° het aangepaste overzicht van de kredieten, met aanduiding van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
 5° een aangepaste toelichting;<br>
 6° een motivering van de wijzigingen.<br>
 <br>
-§ 4. De periode van de aanpassing van het meerjarenplan blijft altijd de periode, vermeld in artikel 7, § 1, maar de staat van het financieel evenwicht, vermeld in paragraaf 3, 3°, beschrijft altijd de financiële consequenties voor ten minste drie toekomstige boekjaren. Het overzicht van de kredieten van een aanpassing van het meerjarenplan bevat de kredieten voor het volgende boekjaar, voor het lopende boekjaar, of voor beide.<br>
+§ 4. De periode van de aanpassing van het meerjarenplan blijft altijd de periode, vermeld in artikel 7, § 1, maar de staat van het financieel evenwicht, vermeld in paragraaf 3, 3°, beschrijft altijd de financiële consequenties voor ten minste drie toekomstige boekjaren. Het overzicht van de kredieten van een aanpassing van het meerjarenplan bevat de kredieten voor het volgende boekjaar, voor het lopende boekjaar, of voor beide, en een vermelding die aanduidt welke situatie van toepassing is.<br>
+<br>
+In afwijking van het eerste lid kan de periode van het lopende meerjarenplan jaarlijks met een jaar verlengd worden, zolang het college na de Brusselse Gewestelijke verkiezingen nog niet in zijn nieuwe samenstelling geïnstalleerd is. Het overzicht van de kredieten bevat alleen kredieten voor:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het aangaan en wijzigen van verbintenissen die verband houden met de courante werking en de bestaande dienstverlening;<br>
+2°&nbsp;&nbsp; &nbsp;maatregelen die noodzakelijk zijn ter uitvoering van nieuw Vlaams beleid, conform het op te stellen afsprakenkader inzake afstemming en informatieplicht tussen het college en de minister.&nbsp;<br>
+<br>
+De aangepaste staat van het financieel evenwicht, vermeld in paragraaf 3, 3°, beschrijft de financiële consequenties voor ten minste drie toekomstige boekjaren.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Zodra het college in zijn nieuwe samenstelling is geïnstalleerd, stelt de raad binnen een redelijke termijn een meerjarenplan vast voor de resterende periode die loopt tot het einde van het boekjaar dat volgt op het jaar waarin de daaropvolgende raad voor het eerst in zijn nieuwe samenstelling bijeenkomt. Die resterende periode kan ook het lopende boekjaar omvatten.<br>
 <br>
 § 5. Het college bepaalt, voor 1 maart van het lopende boekjaar, welk gedeelte van de kredieten voor investeringen en financiering die voor het vorige boekjaar opgenomen waren in het meerjarenplan maar nog niet zijn aangewend, overgedragen worden naar het lopende boekjaar.<br>
 <br>
