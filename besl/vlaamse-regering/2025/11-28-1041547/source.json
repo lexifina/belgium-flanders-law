@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041547,
+  "title": "Besluit van de Vlaamse Regering van 2025-11-28 tot wijziging van het besluit van de Vlaamse Regering van 26 februari 2016 betreffende lage-emissiezones, wat betreft de toegangsregels",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041547/VolledigDocument?datum=2025-12-15",
+  "source_sha256": "ad703f7f8053754c1e91544407d1882e025c468c83cfced5a0891a61855d0a75",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041547&param=informatie",
+  "as_of": "2025-12-15",
+  "made": "2025-11-28",
+  "gazette": "2025-12-10",
+  "numac": 2025009229,
+  "document_start": "2025-12-15",
+  "document_end": null,
+  "in_force": "2025-12-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2025-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
