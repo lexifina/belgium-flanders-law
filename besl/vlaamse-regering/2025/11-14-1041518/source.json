@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041518,
+  "title": "Besluit van de Vlaamse Regering van 2025-11-14 tot ontwikkeling van de onderwijskwalificatie graduaat in de farmaceutisch-technische assistentie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041518/VolledigDocument?datum=2025-12-15",
+  "source_sha256": "325e0736118914303dbe098221db14f32792bb0ae9b39c330b560ca4b7d448b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041518&param=informatie",
+  "as_of": "2025-12-15",
+  "made": "2025-11-14",
+  "gazette": "2025-12-05",
+  "numac": 2025008911,
+  "document_start": "2025-12-15",
+  "document_end": null,
+  "in_force": "2025-12-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
