@@ -27,33 +27,16 @@ In dit besluit wordt verstaan onder:<br>
 §1. Ter uitvoering van artikel 4, §1, van het decreet van 27 november 2015 is de toegang tot een LEZ toegestaan voor de voertuigen die vallen onder een of meer van de volgende categorieën:<br>
 1°&nbsp;&nbsp; &nbsp;de motorvoertuigen die niet behoren tot de motorvoertuigen van categorie M, N of T;<br>
 2°&nbsp;&nbsp; &nbsp;de motorvoertuigen van de categorie M en N die voldoen aan de volgende voorwaarden:<br>
-a)&nbsp;&nbsp; &nbsp;vanaf 1 maart 2016 tot en met 31 december 2019: een van de volgende soorten motorvoertuigen:<br>
+a)&nbsp;&nbsp; &nbsp;vanaf 1 maart 2016 tot en met 31 december 2019:<br>
 1)&nbsp;&nbsp; &nbsp;motorvoertuigen waarvan de dieselmotor ten minste voldoet aan Euronorm IV of 4;<br>
 2)&nbsp;&nbsp; &nbsp;motorvoertuigen waarvan de dieselmotor voldoet aan Euronorm III of 3, op voorwaarde dat die voertuigen uitgerust zijn met een roetfilter die de bevoegde instantie heeft gecertificeerd en die minstens 30% van het roet opvangt;<br>
 3)&nbsp;&nbsp; &nbsp;motorvoertuigen waarvan de benzine- of aardgasmotor ten minste voldoet aan Euronorm I of 1;<br>
-b)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2020 tot en met 31 december 2025: een van de volgende soorten motorvoertuigen:<br>
+b)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2020:<br>
 1)&nbsp;&nbsp; &nbsp;motorvoertuigen waarvan de dieselmotor ten minste voldoet aan Euronorm V of 5;<br>
 2)&nbsp;&nbsp; &nbsp;motorvoertuigen waarvan de benzine- of aardgasmotor ten minste voldoet aan Euronorm II of 2;<br>
-c)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2026 tot en met 31 december 2026: een van de volgende soorten motorvoertuigen:&nbsp;<br>
-1)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M en de categorie N waarvan de dieselmotor ten minste voldoet aan Euronorm VI of 6;<br>
-2)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M en de categorie N waarvan de benzine- of aardgasmotor ten minste voldoet aan Euronorm III of 3;<br>
-d)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2027 tot en met 31 december 2027: een van de volgende soorten motorvoertuigen:<br>
-1)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M1, de categorie M2, klasse III of B, de categorie M3, klasse III of B en de categorie N waarvan de dieselmotor ten minste voldoet aan Euronorm VI of 6;<br>
-2)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M1, de categorie M2, klasse III of B, de categorie M3, klasse III of B en de categorie N waarvan de benzine- of aardgasmotor ten minste voldoet aan Euronorm III of 3;<br>
-e)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2028 tot en met 31 december 2030: een van de volgende soorten motorvoertuigen:&nbsp;<br>
-1)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M1, de categorie M2, klasse III of B en de categorie N waarvan de dieselmotor ten minste voldoet aan Euronorm 6d;<br>
-2)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M2, klasse III of B, de categorie M3, klasse III of B en de categorie N waarvan de dieselmotor ten minste voldoet aan Euronorm VI;<br>
-3)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M1, de categorie M2, klasse III of B, de categorie M3, klasse III of B en de categorie N waarvan de benzine- of aardgasmotor ten minste voldoet aan Euronorm IV of 4;<br>
-f)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2031 tot en met 31 december 2034: een van de volgende soorten motorvoertuigen:<br>
-1)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M2, klasse III of B, de categorie M3, klasse III of B, de categorie N2 en de categorie N3 waarvan de dieselmotor ten minste voldoet aan Euronorm VI;<br>
-2)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M2, klasse III of B, van de categorie N1, klasse II of III en van de categorie N2 waarvan de dieselmotor ten minste voldoet aan Euronorm 6d;&nbsp;<br>
-3)&nbsp;&nbsp; &nbsp;motorvoertuigen van de categorie M1, de categorie M2, klasse III of B, de categorie M3, klasse III of B en de categorie N waarvan de benzine- of aardgasmotor ten minste voldoet aan Euronorm VI of 6;<br>
-g)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2035: motorvoertuigen van de categorie M2, klasse III of klasse B, de categorie M3, klasse III of klasse B, de categorie N2 en de categorie N3 waarvan de benzine-, aardgas- of dieselmotor ten minste voldoet aan Euronorm VIe;<br>
 3°&nbsp;&nbsp; &nbsp;de motorvoertuigen van de categorie T die voldoen aan de volgende voorwaarden:<br>
-a)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2016 tot en met 31 december 2019: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase IIIa;<br>
-b)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2020 tot en met 31 december 2025: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase IIIb;<br>
-c)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2026: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase IV;<br>
-d)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2028: motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase V;<br>
+a)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2016 tot en met 31 december 2019: de motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase IIIa;<br>
+b)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2020: de motorvoertuigen waarvan de motor ten minste voldoet aan de emissienorm van fase IIIb;<br>
 4°&nbsp;&nbsp; &nbsp;in afwijking van punt 1°, 2° en 3° zijn al de volgende voertuigen altijd toegelaten:<br>
 a)&nbsp;&nbsp; &nbsp;elektrische voertuigen of door waterstof aangedreven voertuigen;<br>
 b)&nbsp;&nbsp; &nbsp;de prioritaire voertuigen, vermeld in artikel 37 van de Wegcode;<br>
@@ -62,14 +45,13 @@ d)&nbsp;&nbsp; &nbsp;de voertuigen van de krijgsmacht;<br>
 e)&nbsp;&nbsp; &nbsp;de voertuigen waarvan de titularis van de nummerplaat of een persoon die gedomicilieerd is of in het verblijfsregister opgenomen is op hetzelfde adres als de titularis van de nummerplaat, recht heeft op een verhoogde tegemoetkoming en houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode. De toegang geldt voor vijf jaar;<br>
 f)&nbsp;&nbsp; &nbsp;de voertuigen die aangepast zijn voor het vervoer van personen met een handicap of voor het besturen door een persoon met een handicap, waarvoor de bevoegde overheidsinstantie een goedkeuring van de aanpassing van een voertuig heeft afgeleverd, en waarbij de titularis van de nummerplaat of een persoon die gedomicilieerd is of in het verblijfsregister opgenomen is op het adres van de titularis van de nummerplaat, houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode, of van een daarmee gelijkgesteld document als vermeld in artikel 27.4.1 van de Wegcode. De toegang geldt voor vijf jaar;<br>
 g)&nbsp;&nbsp; &nbsp;de voertuigen waarvan de titularis van de nummerplaat of een persoon die gedomicilieerd is op het adres van de titularis van de nummerplaat, geregistreerd is als mantelzorger met sociaal voordeel en waarbij de zorgvrager of de titularis van de nummerplaat gedomicilieerd is in de LEZ. De toegang geldt voor vijf jaar;<br>
-h)&nbsp;&nbsp; &nbsp;de voertuigen die voorzien zijn van een automatische schakeling, waarbij de titularis van de nummerplaat of een persoon die gedomicilieerd is op het adres van de titularis van de nummerplaat, houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode, of van een daarmee gelijkgesteld document als vermeld in artikel 27.4.1 van de Wegcode en bovendien beschikt over een rijgeschiktheidsattest waarop de code 10.02 vermeld wordt. De toegang geldt voor vijf jaar;<br>
-i)&nbsp;&nbsp; &nbsp;de voertuigen die aangepast zijn voor het vervoer van personen met een handicap en die worden ingeschakeld in het kader van het decreet van 21 december 2012 tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit;<br>
-j)&nbsp;&nbsp; &nbsp;de voertuigen die uitgerust zijn met een geïntegreerd systeem dat in of aan het voertuig gemonteerd is en dat bestemd is om te worden gebruikt om de rolstoel samen met de gebruiker in het voertuig te plaatsen, en die geen voertuigen zijn als vermeld in punt e), f), g) of i). De voormelde afwijking wordt niet toegekend aan de voertuigen van de categorie M2 en M3 voor klasse A, koetswerkcode CV, klasse I, koetswerkcode CE, CF, CG en CH en klasse II, koetswerkcode CM, CN, CO en CP als vermeld in artikel 1, §1, van het koninklijk besluit van 15 maart 1968. De toegang geldt voor vijf jaar;<br>
+h)&nbsp;&nbsp; &nbsp;de voertuigen die voorzien zijn van een automatische schakeling, waarbij de titularis van de nummerplaat of een persoon die gedomicilieerd is op het adres van de titularis van de nummerplaat, houder is van de speciale kaart, vermeld in artikel 27.4.3 van de Wegcode, of van een daarmee gelijkgesteld document als vermeld in artikel 27.4.1 van de Wegcode, en bovendien beschikt over een rijgeschiktheidsattest waarop de code 10.02 vermeld wordt. De toegang geldt voor vijf jaar;<br>
+i)&nbsp;&nbsp; &nbsp;de voertuigen die aangepast zijn voor het vervoer van personen met een handicap en die worden ingeschakeld in het kader van de toepassing van het decreet van 21 december 2012 tot compensatie van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit;<br>
+j)&nbsp;&nbsp; &nbsp;de voertuigen die uitgerust zijn met een geïntegreerd systeem dat in of aan het voertuig gemonteerd is en dat bestemd is om te worden gebruikt om de rolstoel samen met de gebruiker in het voertuig te plaatsen, en die geen voertuigen zijn als vermeld in punt e), f), g) of i). De afwijking wordt niet toegekend aan de voertuigen van de categorie M2 en M3 voor klasse A, koetswerkcode CV, klasse I, koetswerkcode CE, CF, CG en CH en klasse II, koetswerkcode CM, CN, CO en CP als vermeld in artikel 1, §1, van het koninklijk besluit van 15 maart 1968. De toegang geldt voor vijf jaar;<br>
 k)&nbsp;&nbsp; &nbsp;mobiele kranen als vermeld in artikel 1, §2, 74, van het koninklijk besluit van 15 maart 1968;<br>
-l)&nbsp;&nbsp; &nbsp;tot en met 31 december 2030: de motorvoertuigen van de categorie T met een vermogen lager dan 130kW.<br>
-m)&nbsp;&nbsp; &nbsp;de voertuigen die niet in België ingeschreven zijn die sedert meer dan dertig jaar in gebruik zijn genomen. De toegang geldt voor 5 jaar;<br>
-n)&nbsp;&nbsp; &nbsp;de voertuigen ingeschreven in België onder één van de kentekenplaten bedoeld in artikel 4, § 2 van het ministerieel besluit van 23 juli 2001 betreffende de inschrijving van voertuigen, indien ze sedert meer dan dertig jaar in gebruik zijn genomen.<br>
-<br>
+l)&nbsp;&nbsp; &nbsp;tot en met 31 december 2030: de motorvoertuigen van de categorie T met een vermogen lager dan 130kW;<br>
+m)&nbsp;&nbsp; &nbsp;de voertuigen die niet in België ingeschreven zijn die sinds meer dan dertig jaar in gebruik zijn genomen. De toegang geldt voor vijf jaar;<br>
+n)&nbsp;&nbsp; &nbsp;de voertuigen die in België ingeschreven zijn onder een van de kentekenplaten, vermeld in artikel 4, §2, van het ministerieel besluit van 23 juli 2001 betreffende de inschrijving van voertuigen, als ze sinds meer dan dertig jaar in gebruik zijn genomen.<br>
 <br>
 Voor de toepassing van dit besluit worden voertuigen die werken op lpg, aardgas of bio-ethanol, gelijkgesteld met een voertuig met een benzinemotor. Hybridevoertuigen krijgen toegang op basis van hun verbrandingsmotor.<br>
 <br>
@@ -329,27 +311,19 @@ Voor de toepassing van dit besluit worden voertuigen die werken op lpg, aardgas 
 7°&nbsp;&nbsp; &nbsp;klasse I, II, III, A en B: de klasse van de voertuigen van categorie M2 en M3, vermeld in artikel 1 van het koninklijk besluit van 15 maart 1968;<br>
 8°&nbsp;&nbsp; &nbsp;hybridevoertuig: een voertuig, aangedreven door een elektrische motor en een verbrandingsmotor.<br>
 <br>
-De emissiestandaarden, vermeld in paragraaf 1, 1° tot en met 3°, zijn opgenomen in de bijlage die bij dit besluit is gevoegd.
+De emissiestandaarden, vermeld in paragraaf 1, 1° tot en met 3°, zijn opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+§6. Op basis van het voortgangsrapport dat in het kader van het Luchtbeleidsplan wordt opgesteld, zal de Vlaamse Regering, en voor het eerst in 2027, de effecten van de LEZ evalueren. In functie hiervan zal zij een beslissing nemen over, indien nodig, het verstrengen van de toegangsvoorwaarden vermeld in §1 of, indien mogelijk, het afschaffen van het LEZ-kader.
 
 ### ART. 3.
 
-<p>Bij het onderwerpen aan voorwaarden voor toegang tot een LEZ ter uitvoering van artikel 4, §2, van het decreet van 27 november 2015 gelden de volgende bepalingen:<br>
-1°&nbsp;&nbsp; &nbsp;de toegangsvoorwaarden worden gedifferentieerd in functie van de emissie van de voertuigen, waarbij voertuigen met hogere emissies aan strengere voorwaarden worden onderworpen. Hierop kan een uitzondering voorzien worden voor ceremonieel vervoer, voor voertuigen die blijkens hun bouw, uitrusting of andere permanente kenmerken speciaal zijn uitgerust voor toezicht, controle, onderhoud van infrastructuur en installaties van algemeen belang, en voor voertuigen die, door of in opdracht van het leger, de politiediensten, de wegbeheerder, de civiele bescherming of de brandweer, gebruikt worden voor noodsituaties of voor reddingsoperaties;<br>
-2°&nbsp;&nbsp; &nbsp;een individuele toelating voor een voertuig wordt altijd in de tijd beperkt tot maximaal één jaar en is hernieuwbaar en kan worden verleend aan de volgende categorieën van voertuigen:<br>
-a)&nbsp;&nbsp; &nbsp;voertuigen van categorie M en N, andere dan de voertuigen vermeld in 1°, waarvan de dieselmotor ten minste voldoet aan de volgende normen:<br>
-1)&nbsp;&nbsp; &nbsp;tot en met 31 december 2025: euro 4 of euro IV;<br>
-2)&nbsp;&nbsp; &nbsp;tot en met 31 december 2027: euro 5 of euro V;<br>
-3)&nbsp;&nbsp; &nbsp;tot en met 31 december 2030: euro 6 of euro VI;&nbsp;<br>
-4)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2031: euro 6d of euro VI;<br>
-b)&nbsp;&nbsp; &nbsp;voertuigen van categorie M en N, andere dan de voertuigen vermeld in 1°, waarvan de benzinemotor ten minste voldoet aan de volgende normen:<br>
-1)&nbsp;&nbsp; &nbsp;tot en met 31 december 2034: euro 5 of euro V;<br>
-2)&nbsp;&nbsp; &nbsp;vanaf 1 januari 2035: euro 6 of euro VI;<br>
-c)&nbsp;&nbsp; &nbsp;voertuigen bedoeld in artikel 3, 1°, tweede lid, van dit besluit;<br>
-d)&nbsp;&nbsp; &nbsp;voertuigen voor ambulante handel, markten en foren;<br>
-3°&nbsp;&nbsp; &nbsp;onverminderd punt 2° kan aan alle voertuigen op maximaal twaalf dagen per jaar een LEZ-dagpas toegekend worden. Bij de toekenning van een LEZ-dagpas is geen verdere differentiatie in functie van emissies vereist;<br>
-4°&nbsp;&nbsp; &nbsp;De gemeenten bepalen de verdere toekenningsvoorwaarden van een individuele toelating en van de LEZ-dagpas. Bij de toekenning van een individuele toelating vermeld in punt 2°, a) en b), houdt de gemeente rekening met een mogelijk beperkte financiële draagkracht van de titularis van de nummerplaat. Er is sprake van een beperkte financiële draagkracht als de titularis recht heeft op een verhoogde tegemoetkoming.<br>
+Bij de onderwerping aan voorwaarden voor toegang tot een LEZ ter uitvoering van artikel 4, §2, van het decreet van 27 november 2015 gelden de volgende bepalingen:<br>
+1°&nbsp;&nbsp; &nbsp;de toegangsvoorwaarden worden gedifferentieerd op basis van de emissie van de voertuigen, waarbij voertuigen met hogere emissies aan strengere voorwaarden worden onderworpen. Er kan op die verplichting een uitzondering gemaakt worden voor ceremonieel vervoer, voor voertuigen die door hun bouw, uitrusting of andere permanente kenmerken speciaal zijn uitgerust voor toezicht, controle, onderhoud van infrastructuur en installaties van algemeen belang, en voor voertuigen die, door of in opdracht van het leger, de politiediensten, de wegbeheerder, de civiele bescherming of de brandweer, gebruikt worden voor noodsituaties of voor reddingsoperaties;<br>
+2°&nbsp;&nbsp; &nbsp;een individuele toelating voor een voertuig wordt altijd in de tijd beperkt tot maximaal een jaar en is hernieuwbaar;<br>
+3°&nbsp;&nbsp; &nbsp;met behoud van de toepassing van punt 2° kan aan alle voertuigen voor maximaal twaalf dagen per jaar een LEZ-dagpas toegekend worden. Bij de toekenning van een LEZ-dagpas is geen verdere differentiatie op basis van emissies vereist;<br>
+4°&nbsp;&nbsp; &nbsp;de gemeenten bepalen de verdere toekenningsvoorwaarden van een individuele toelating en van de LEZ-dagpas. Bij de toekenning van een individuele toelating, vermeld in punt 2°, houdt de gemeente rekening met een mogelijk beperkte financiële draagkracht van de titularis van de nummerplaat. Er is sprake van een beperkte financiële draagkracht als de titularis recht heeft op een verhoogde tegemoetkoming.<br>
 <br>
-Als een voertuig een LEZ betreedt zonder voorafgaande individuele toelating, kunnen de gemeenten aanvullende voorwaarden opleggen met het oog op regularisatie.</p>
+Als een voertuig een LEZ betreedt zonder voorafgaande individuele toelating, kunnen de gemeenten aanvullende voorwaarden opleggen met het oog op regularisatie.
 
 ### ART. 4.
 
