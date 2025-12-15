@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041539,
+  "title": "Besluit van de Vlaamse Regering van 2025-11-28 tot wijziging van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie, wat betreft de periode van het lopende meerjarenplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041539/VolledigDocument?datum=2025-12-15",
+  "source_sha256": "cc7a1ca23c958433b349929b54da7f1e6761b3eb7b440d04b4313eacb7a88fee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041539&param=informatie",
+  "as_of": "2025-12-15",
+  "made": "2025-11-28",
+  "gazette": "2025-12-05",
+  "numac": 2025009172,
+  "document_start": "2025-12-15",
+  "document_end": null,
+  "in_force": "2025-12-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
