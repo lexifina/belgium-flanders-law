@@ -45,15 +45,15 @@ Het maximale bedrag dat voor het eerste kwartaal van 2024 per aardgasdistributie
 
 ### ART 3.
 
-Elke elektriciteits- en aardgasdistributienetbeheerder dient voor elk kalenderjaar waarin de minimale levering voor aardgas en elektriciteit van toepassing is, bij het Vlaams Energie- en Klimaatagentschap een schuldvordering in voor de uitgaven voor de uitbetaalde bedragen aan de OCMW’s met toepassing van artikel 5.3.6/6 en 5.4.10/1 van het Energiebesluit van 19 november 2010. Voor de uitgaven vermeld in artikel 1 en 2 van dit ministerieel besluit, is de schuldvordering beperkt tot de bedragen vermeld in dit ministerieel besluit en kan de vergoeding per kalenderjaar niet meer dan 15 miljoen euro per individuele distributienetbeheerder bedragen.
+Voor de uitgaven vermeld in artikel 1 en 2 van dit ministerieel besluit, is de schuldvordering beperkt tot de bedragen vermeld in dit ministerieel besluit en kan de vergoeding per kalenderjaar niet meer dan 15 miljoen euro per individuele distributienetbeheerder bedragen.
 
 ### ART 4.
 
-Voor de uitvoering van controles kan het Vlaams Energie- en Klimaatagentschap bij de elektriciteits- en aardgasdistributienetbeheerders op elk moment alle gegevens opvragen die het nodig acht om na te gaan of de door de distributienetbeheerders uitbetaalde bedragen aan de OCMW’s werden toegekend conform de bepalingen van het Energiebesluit van 19 november 2010.
+...
 
 ### ART 5.
 
-Het Vlaams Energie- en Klimaatagentschap is belast met de uitbetaling van de vergoeding aan de distributienetbeheerders en kan nadere regels bepalen inzake de te volgen uitbetalingsprocedure.
+...
 
 ### ART 6.
 
