@@ -6541,7 +6541,7 @@ De minister kan daarvoor de nadere regels bepalen.</p>
 
 ### ART 27.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif"><span style="color:black">Voorafgaand aan de opname van een bewoner gaat het woonzorgcentrum na of een actuele BelRAI inschaling van de bewoner ter beschikking is. Als dat niet het geval is, kan het woonzorgcentrum een BelRAI-screener afnemen of de bestaande aanpassen. </span></span></span></p>
+<p>Voorafgaand aan de opname van een bewoner gaat het woonzorgcentrum na of een actuele BelRAI-inschaling van de bewoner ter beschikking is. Als dat niet het geval is, kan het woonzorgcentrum een BelRAI-screener afnemen of de bestaande aanpassen.</p>
 
 ### ART 28.
 
