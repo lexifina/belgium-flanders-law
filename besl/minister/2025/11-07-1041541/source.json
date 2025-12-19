@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041541,
+  "title": "Ministerieel besluit van 2025-11-07 betreffende de goedkeuring van versie 3.0 van het IMKL en het PMKL en tot opheffing van het ministerieel besluit van 7 juli 2014 houdende de goedkeuring van het IMKL en het PMKL en het ministerieel besluit van 17 oktober 2018 houdende de goedkeuring van het IMKL en het PMKL",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041541/VolledigDocument?datum=2025-12-19",
+  "source_sha256": "168c5a3e77247e378cacf80c8c9845ab2fa2ba7f053bdf0e35febb29353420db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041541&param=informatie",
+  "as_of": "2025-12-19",
+  "made": "2025-11-07",
+  "gazette": "2025-12-09",
+  "numac": 2025009179,
+  "document_start": "2025-12-19",
+  "document_end": null,
+  "in_force": "2025-12-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2025-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
