@@ -2,16 +2,16 @@
   "codex_id": 1041640,
   "title": "Besluit van de Vlaamse Regering van 2025-12-19 tot herverdeling van VAK en VEK op begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2025 in het kader van de toekenning van een toelage aan VIB voor de werking van de Agro-incubator in 2026",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041640/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1523bc00d0416fc6c5a0dba2d5e02c86bbe3fd8c0a0a1f53b90e1c263c78473b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041640/VolledigDocument?datum=2025-12-19",
+  "source_sha256": "879949c8445e7d5cde774606d31741ea87eb09e39c20bee312c53cdaadfa3e4b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041640&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2025-12-19",
   "made": "2025-12-19",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2025-12-19",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-19; future article versions excluded; article text as the API gives it"
 }
