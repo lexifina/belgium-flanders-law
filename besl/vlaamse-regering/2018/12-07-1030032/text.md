@@ -26,6 +26,7 @@ In dit besluit wordt verstaan onder:<br>
 1° agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
 1°/1 besluit van 21 februari 2014: het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
 2° ...;<br>
+2°/1 evaluatieteam: het team dat belast is met de beoordeling van de gevolgen van de aandoening, vermeld in artikel 16, §1, eerste lid van het Groeipakketdecreet van 2018. Het is samengesteld uit een evaluerend arts, en een of meer verpleegkundigen en, als de aard van de aandoening van het kind dat vereist, andere zorgprofessionals uit de gereglementeerde beroepen in de gezondheidszorg met een expertise die relevant is voor de opdracht. Voormelde verpleegkundigen en zorgprofessionals zijn in dienst van het agentschap Opgroeien regie;<br>
 3° evaluerend arts: een arts in dienst van het agentschap Opgroeien of het agentschap Opgroeien regie of een arts erkend door&nbsp;het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
 4° koninklijk besluit van 28 maart 2003: het koninklijk besluit van 28 maart 2003 tot uitvoering van de artikelen 47, 56septies en 63 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 88 van de programmawet (I) van 24 december 2002;<br>
 5° MDT-arts: een arts die binnen een multidisciplinair team werkt en die de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vaststelt;<br>
@@ -153,17 +154,17 @@ Als het kind als eindresultaat als vermeld in artikel 6, § 5, minimaal 12 punte
 
 ### ART 10.
 
-De gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, worden vastgesteld ofwel door een evaluerend arts, conform onderafdeling 2, ofwel door een MDT-arts, conform onderafdeling 3, ofwel door het agentschap Opgroeien regie, conform artikel 15/1.<br>
+De gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, worden vastgesteld door een evaluatieteam.<br>
 <br>
-Het agentschap Opgroeien regie&nbsp;is belast met het toezicht op de evaluerend arts en de MDT-arts, voor wat de door hen toegekende punten, vermeld in artikel 6, betreft.<br>
+Het agentschap Opgroeien regie&nbsp;is belast met het toezicht op het evaluatieteam, voor wat de door hen toegekende punten, vermeld in artikel 6, betreft.<br>
 <br>
-De evaluerend arts en de MDT-arts leven de wet van 22 augustus 2002 betreffende de rechten van de patiënt na bij de uitvoering van de onderzoeken om het aantal verkregen punten vast te stellen.
+Het evaluatieteam leeft&nbsp;de wet van 22 augustus 2002 betreffende de rechten van de patiënt na bij de uitvoering van de onderzoeken om het aantal verkregen punten vast te stellen.
 
-## Onderafdeling 2. Procedure tot vaststelling door een [evaluerend arts (verv. BVR 28 januari 2022, art. 9, I: 1 januari 2022)]
+## Onderafdeling 2. Procedure tot vaststelling door een evaluatieteam
 
 ### ART 11.
 
-De aanvragen om de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerend arts worden ingediend bij de uitbetalingsactor door de begunstigden. De uitbetalingsactor bezorgt die aanvraag onmiddellijk aan het agentschap Opgroeien regie.
+De aanvragen om de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluatieteam worden ingediend bij de uitbetalingsactor door de begunstigden. De uitbetalingsactor bezorgt die aanvraag onmiddellijk aan het agentschap Opgroeien regie.
 
 ### ART 12.
 
@@ -177,21 +178,15 @@ De begunstigden bezorgen het ingevulde inlichtingenformulier aan het agentschap 
 <br>
 Als de begunstigden de informatie en gegevens die het agentschap Opgroeien regie aan hen vraagt, niet bezorgen binnen vijfenveertig dagen nadat het agentschap Opgroeien regie het inlichtingenformulier heeft verzonden, stuurt het agentschap Opgroeien regie een herinnering. Als de begunstigden niet reageren op de voormelde herinnering binnen vijfenzeventig dagen nadat het agentschap Opgroeien regie de herinnering heeft verzonden, sluit het agentschap Opgroeien regie het dossier af. Het agentschap Opgroeien regie deelt de begunstigden en de uitbetalingsactor mee dat het dossier zonder gevolg is afgesloten.<br>
 <br>
-§2. De evaluerend arts verricht de vaststelling, vermeld in artikel 10, op grond van de bezorgde informatie.&nbsp;<br>
+§2. Het evaluatieteam verricht de vaststelling, vermeld in artikel 10, op grond van de bezorgde informatie.&nbsp;<br>
 <br>
-§3. In afwijking van paragraaf 2 baseert de evaluerend arts zich voor de vaststelling, vermeld in artikel 10, op de bezorgde informatie en een gesprek met het kind en de personen die de toestand van het kind kennen, als de begunstigden zich verzetten tegen de voormelde vaststelling alleen op grond van de bezorgde informatie.<br>
+§3. ...<br>
 <br>
-Als de begunstigden zich conform het eerste lid verzetten, stuurt het agentschap Opgroeien regie aan de begunstigden een uitnodiging om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerend arts. Als geen gevolg gegeven wordt aan de voormelde uitnodiging, baseert de evaluerend arts zich voor de vaststelling, vermeld in artikel 10, alleen op de beschikbare informatie en gegevens.<br>
-<br>
-Als het kind zich om medische redenen niet kan verplaatsen, kan het gesprek, vermeld in het eerste lid, ter plaatse worden gehouden.<br>
-<br>
-De begunstigden voor het kind en het kind zelf kunnen zich bij het gesprek, vermeld in het eerste lid, laten bijstaan door een vertrouwenspersoon, conform de wet van 22 augustus 2002 betreffende de rechten van de patiënt.<br>
-<br>
-§4. Als de evaluerend arts niet over voldoende elementen beschikt om een vaststelling vermeld in artikel 10, te kunnen doen, deelt hij dat mee aan het agentschap Opgroeien regie. Op basis van de voormelde mededeling deelt de uitbetalingsactor aan de begunstigden de beslissing mee dat ze geen recht hebben op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.
+§4. Als het evaluatieteam niet over voldoende elementen beschikt om een vaststelling vermeld in artikel 10, te kunnen doen, deelt het team dat mee aan het agentschap Opgroeien regie. Op basis van de voormelde mededeling deelt de uitbetalingsactor aan de begunstigden de beslissing mee dat ze geen recht hebben op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.
 
 ### ART 14.
 
-Het agentschap Opgroeien regie wijst via een digitale toepassing waarin het agentschap Opgroeien regie voorziet, aan de evaluerend arts een opdracht toe om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vast te stellen. De evaluerend arts deelt het resultaat van de vaststelling, vermeld in artikel 6, § 5, mee aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt dat resultaat aan de uitbetalingsactor.<br>
+Het agentschap Opgroeien regie wijst via een digitale toepassing waarin het agentschap Opgroeien regie voorziet, aan het evaluatieteam een opdracht toe om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vast te stellen. Het evaluatieteam deelt het resultaat van de vaststelling, vermeld in artikel 6, § 5, mee aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt dat resultaat aan de uitbetalingsactor.<br>
 <br>
 Op basis van de vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vermeld in het eerste lid, beslist de uitbetalingsactor of er recht is op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, vermeld in artikel 16, § 1, van het Groeipakketdecreet van 2018. Hij begroot die toeslag conform artikel 9. De uitbetalingsactor deelt de beslissing tot toekenning of weigering van de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, alsook de periode en het bedrag van de toeslag mee aan de begunstigden.
 
@@ -201,66 +196,49 @@ Op basis van de vaststelling van de gevolgen van de aandoening waaruit de specif
 
 ### ART 15/1.
 
-§ 1. In afwijking van artikel 13 evalueert het agentschap Opgroeien regie de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit alleen op grond van de bezorgde informatie als uit die informatie blijkt dat de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, een van de diagnoses betreft die worden vastgesteld, na onderzoek door expert-deskundigen, op voorwaarde dat de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, geen onderdeel vormt van meervoudige aandoeningen die niet op de voormelde lijst met diagnoses voorkomen.<br>
-<br>
-§ 2. De evaluatie, vermeld in paragraaf 1, kan worden toegepast als de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, een van de diagnoses, vermeld in het tweede lid, betreft, op voorwaarde dat die informatie de minimale gegevens bevat die toelaten om de ondersteuningsbehoefte vast te stellen, die zijn opgenomen in bijlage 3 die bij dit besluit is gevoegd.<br>
-<br>
-De diagnoses, vermeld in het eerste lid, zijn:<br>
-1° autismespectrumstoornis (ASS) of aandachtstekortstoornis met hyperactiviteit (ADHD);<br>
-2° licht mentale retardatie (IQ tussen 55 en 70);<br>
-3° matig mentale retardatie (IQ tussen 40 en 55);<br>
-4° ernstig mentale retardatie (IQ lager dan 40);<br>
-5° diabetes type 1;<br>
-6° gehoorbeperking ondanks afdoend gebruik van hulpmiddelen;<br>
-7° totaal gehoorverlies zonder restgehoor (Cophose);<br>
-8° beperking ondanks afdoend gebruik van hulpmiddelen;<br>
-9° blindheid.
+...
 
 ### ART 16.
 
-Het feit dat een rechtgevend kind door weigering van behandeling aanleiding zou kunnen geven tot de toekenning van een, eventueel hogere, zorgtoeslag voor een kind met een specifieke ondersteuningsbehoefte, wordt vastgesteld door de evaluerend arts. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor. Op basis van die vaststelling weigert de uitbetalingsactor de zorgtoeslag voor die kinderen.
+Het feit dat een rechtgevend kind door weigering van behandeling aanleiding zou kunnen geven tot de toekenning van een, eventueel hogere, zorgtoeslag voor een kind met een specifieke ondersteuningsbehoefte, wordt vastgesteld door het evaluatieteam. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor. Op basis van die vaststelling weigert de uitbetalingsactor de zorgtoeslag voor die kinderen.
 
-## Onderafdeling 3. Procedure tot vaststelling door een MDT-arts
+## Onderafdeling 3. Advies door een multidisciplinair team
 
 ### ART 17.
 
-Als een multidisciplinair team een aanvraagdocument opstelt met het oog op een aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening, in het kader van de toepassing van het besluit van 21 februari 2014, stelt de MDT-arts binnen het multidisciplinair team die betrokken was bij de opmaak van dat document, ook de gevolgen vast van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vermeld in artikel 16, § 1, eerste lid van het Groeipakketdecreet van 2018, conform artikel 6 en 7.<br>
+Een multidisciplinair team kan over de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vermeld in artikel 16, §1, eerste lid, van het Groeipakketdecreet van 2018, advies verlenen aan het agentschap Opgroeien regie.<br>
 <br>
-De MDT-arts bezorgt de vaststelling, vermeld in het eerste lid, aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor. De MDT-arts bezorgt ook alle relevante informatie over de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit van het kind aan het agentschap Opgroeien regie.<br>
+Het multidisciplinair team bezorgt het advies, vermeld in het eerste lid, aan het agentschap Opgroeien regie. Het multidisciplinair team bezorgt ook alle relevante informatie over de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit van het kind aan het agentschap Opgroeien regie.<br>
 <br>
-Op basis van de vaststelling door een MDT-arts beslist de uitbetalingsactor of er recht is op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, als vermeld in artikel 16, § 1, van het Groeipakketdecreet van 2018. Hij begroot die toeslag conform artikel 9. De uitbetalingsactor deelt de beslissing tot toekenning of weigering van de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, alsook de periode en het bedrag van de toeslag, mee aan de begunstigden.<br>
+Op basis van het advies en de aangeleverde informatie van het multidisciplinair team stelt het evaluatieteam van het agentschap Opgroeien regie de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast conform artikel 6, 7, 13, §2, en §4, artikel 14 en 16.&nbsp;<br>
 <br>
-De datum van de aanvraag om een aanvraagdocument op te stellen, geldt als de datum waarop de verjaringstermijn vermeld in artikel 95, tweede lid van het Groeipakketdecreet van 2018, begint te lopen.<br>
-<br>
-De minister stelt de vergoeding vast voor de vaststellingen die de MDT-arts heeft uitgevoerd, vermeld in het eerste lid.
+De datum waarop het advies wordt bezorgd aan het agentschap Opgroeien regie, geldt als de datum waarop een rechtsvordering, in de zin van artikel 95, eerste lid, van het Groeipakketdecreet van 2018, moet worden ingesteld.
 
 ### ART 18.
 
-Als door een vaststelling van een MDT-arts, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, rekening houdend met de periode die de arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft de nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de MDT-arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.<br>
-<br>
-Als een vaststelling wordt gedaan door een MDT-arts, terwijl er bij een evaluerend arts ook een procedure loopt tot vaststelling van de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, wordt die laatste procedure stopgezet.
+...
 
 ## Onderafdeling 4. Duur en herziening van de vaststelling van de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit
 
 ### ART 19.
 
-§ 1. De vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, door een evaluerend arts, een MDT-arts of het agentschap Opgroeien regie geldt tot de leeftijd van zes jaar, twaalf jaar of achttien jaar. Op dat moment worden de gevolgen ambtshalve herzien. In afwijking van wat voorafgaat, geldt een vaststelling die wordt gedaan in het jaar voor het kind zes, twaalf of achttien jaar wordt, tot de leeftijd van respectievelijk twaalf, achttien of eenentwintig jaar<br>
+§ 1. De vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit geldt tot de leeftijd van zes jaar, twaalf jaar of achttien jaar. Op dat moment worden de gevolgen ambtshalve herzien. In afwijking van wat voorafgaat, geldt een vaststelling die wordt gedaan in het jaar voor het kind zes, twaalf of achttien jaar wordt, tot de leeftijd van respectievelijk twaalf, achttien of eenentwintig jaar<br>
 <br>
-Van de tijdstippen, vermeld in het eerste lid, kan op gemotiveerde wijze worden afgeweken door de evaluerend arts , de MDT-arts of het agentschap Opgroeien regie. Die geeft dan het tijdstip op van de ambtshalve herziening.<br>
+Het evaluatieteam kan op gemotiveerde wijze afwijken van de tijdstippen, vermeld in het eerste lid. Die geeft dan het tijdstip op van de ambtshalve herziening.<br>
 <br>
 Het agentschap Opgroeien regie&nbsp;stuurt zes maanden voor de tijdstippen, vermeld in het eerste of het tweede lid, bereikt zijn, een brief met informatie over de ambtshalve herziening naar de begunstigden. De ambtshalve herziening vermeld in het eerste en tweede lid, verloopt conform artikel 12 tot en met 16.<br>
 <br>
 Met behoud van de toepassing van de periode, vermeld in het eerste of het tweede lid, kan de ambtshalve herziening ook betrekking hebben op de periode die voorafgaat aan het tijdstip van de ambtshalve herziening en dit binnen de verjaringstermijn, vermeld in artikel 95 van het decreet.<br>
 <br>
-Als er door de ambtshalve herziening een hoger bedrag kan worden toegekend voor de periode die voorafgaat aan het tijdstip van de ambtshalve herziening, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerend arts&nbsp;of het agentschap Opgroeien regie bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
+Als er door de ambtshalve herziening een hoger bedrag kan worden toegekend voor de periode die voorafgaat aan het tijdstip van de ambtshalve herziening, betaalt de uitbetalingsactor het verschil voor de periode die het evaluatieteam bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
 <br>
 Als op de einddatum van de geldigheid van de vorige beslissing geen ambtshalve herziening plaatsvindt en de begunstigden een ingevuld inlichtingenformulier hebben bezorgd aan het agentschap Opgroeien regie, wordt de vorige beslissing verlengd tot de datum waarop de beslissing die voortvloeit uit de ambtshalve herziening wordt genomen.<br>
 <br>
 Als met toepassing van de beslissing die voortvloeit uit de ambtshalve herziening die plaatsvindt na een verlenging als vermeld in het zesde lid, een hoger bedrag kan worden toegekend voor de periode vóór de ambtshalve herziening na een verlenging als vermeld in het zesde lid, betaalt de uitbetalingsactor het verschil. Als de beslissing die voortvloeit uit de voormelde ambtshalve herziening tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin die beslissing is genomen.<br>
 <br>
-§ 2. Als wordt vastgesteld dat er een materiële fout is begaan bij het nemen of in de verwerking van de beslissing, wordt die rechtgezet door de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie. De evaluerend arts, de MDT-arts of het agentschap Opgroeien regie bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
+§ 2. Als wordt vastgesteld dat er een materiële fout is begaan bij het nemen of in de verwerking van de beslissing, wordt die rechtgezet door het evaluatieteam. Het evaluatieteam bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
 <br>
-Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
+Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerend arts, de MDT-arts of het agentschap Opgroeien regie bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin het evaluatieteam de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
 
 ### ART 20.
 
@@ -268,7 +246,17 @@ In afwijking van artikel 19, § 1, kunnen de begunstigden op basis van nieuwe in
 <br>
 Aan de herzieningsaanvragen die binnen zes maanden voor het tijdstip van de ambtshalve herziening, vermeld in artikel 19, § 1, derde lid, zijn ingediend, wordt geen gevolg gegeven. In voorkomend geval gaat de ambtshalve herziening door.<br>
 <br>
-Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil. Hij baseert zich daarvoor op de periode die de evaluerend arts&nbsp;of het agentschap Opgroeien regie bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerend arts&nbsp;of het agentschap Opgroeien regie de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
+Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil. Hij baseert zich daarvoor op de periode die het evaluatieteam bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin het evaluatieteam de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
+
+## Onderafdeling 5. Vermoeden van fraude
+
+### ART 20/1.
+
+Bij ernstige en eensluidende aanwijzingen, waardoor het agentschap Opgroeien regie een vermoeden heeft dat de stukken die de begunstigden hebben meegedeeld om een zorgtoeslagevaluatie te krijgen, of waar de begunstigden aan hebben meegewerkt, frauduleus, vals of opzettelijk onvolledig zijn, worden die stukken geweerd uit de procedure. De stukken worden geweerd uit de procedure tot de verdenking niet meer bestaat of tot de stukken worden vervangen door authentieke stukken waarop geen verdenking rust.<br>
+<br>
+Als er na de vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, ernstige en eensluidende aanwijzingen zijn waardoor het agentschap Opgroeien regie een vermoeden heeft dat de stukken die de begunstigden hebben meegedeeld om een zorgtoeslagevaluatie te krijgen, of waar de begunstigden aan hebben meegewerkt, frauduleus, vals of opzettelijk onvolledig zijn, doorloopt het agentschap Opgroeien regie de procedure opnieuw conform artikel 6, 7, 10, 11, 13, §2 en §4, artikel 14 en 16, en worden die stukken geweerd uit die procedure.<br>
+<br>
+De maatregelen, vermeld in het eerste en tweede lid, gelden met behoud van de toepassing van de terugvordering van de onverschuldigd betaalde toelagen in het kader van het gezinsbeleid, vermeld in artikel 103 van het Groeipakketdecreet van 2018, de handhaving ten aanzien van de burgers, vermeld in artikel 130 tot en met 171 van het voormelde decreet, en de strafbepalingen, vermeld in artikel 189 tot en met 191 van het voormelde decreet.
 
 ## [HOOFDSTUK 4. Evaluerend arts erkend door het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, vast te stellen (verv. BVR 27 januari 2023, art. 6, I: 8 mei 2023)])]
 
@@ -278,9 +266,7 @@ Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden t
 
 ### ART 21.
 
-Een arts kan een erkenning als evaluerend arts aanvragen bij het agentschap Opgroeien regie. Het agentschap Opgroeien regie beslist over de toekenning van een erkenning aan een arts om als evaluerend arts in het kader van dit besluit te mogen optreden.<br>
-<br>
-De erkenning is drie jaar geldig.
+De erkenning van de evaluerend arts wordt van rechtswege verlengd, als er geen indicaties zijn dat de evaluerend arts de erkenningsvoorschriften en &nbsp;voorwaarden, vermeld in artikel 22 en 23, niet naleeft. De minister bepaalt de einddatum van de erkenningen.
 
 ## Onderafdeling 2. Erkenningsvoorwaarden
 
@@ -362,54 +348,29 @@ Het agentschap Opgroeien regie&nbsp;behandelt samen met de evaluerend arts de kl
 
 ## Afdeling 2. Procedure
 
-## Onderafdeling 1. Erkenningsprocedure
+## Onderafdeling 1. ...
 
 ### ART 27.
 
-De erkenning als evaluerend arts door&nbsp;het agentschap Opgroeien regie kan alleen worden verleend als aan de volgende voorwaarden is voldaan:<br>
-1° er is een ontvankelijke aanvraag ingediend;<br>
-2° er is voldaan aan de erkenningsvoorwaarden, vermeld in artikel 22.
+...
 
 ### ART 28.
 
-De betrokkene dient de aanvraag tot erkenning elektronisch in bij&nbsp;het agentschap Opgroeien regie met het aanvraagformulier dat&nbsp;het agentschap Opgroeien regie ter beschikking stelt en vermeldt op straffe van niet-ontvankelijkheid de volgende gegevens:<br>
-1° de voor- en achternaam, het e-mailadres, het correspondentieadres en het telefoonnummer van de aanvrager;<br>
-2° het rijksregisternummer en het RIZIV-nummer van de aanvrager;<br>
-3° alle nodige gegevens over de accreditering bij het RIZIV;<br>
-4° een ondernemingsnummer en de daaraan gekoppelde rechtsvorm waaronder de aanvrager zijn activiteiten zal uitoefenen;<br>
-5° het rekeningnummer dat gekoppeld is aan het opgegeven ondernemingsnummer;<br>
-6° de nodige gegevens om te beoordelen of aan de erkenningsvoorwaarden is voldaan.
+...
 
 ### ART 29.
 
-§ 1. Nadat&nbsp;het agentschap Opgroeien regie de aanvraag heeft ontvangen, stuurt het een elektronische ontvangstmelding naar de aanvrager.<br>
-<br>
-§ 2. Binnen dertig dagen na de dag van ontvangst van de aanvraag deelt&nbsp;het agentschap Opgroeien regie aan de aanvrager mee of de aanvraag ontvankelijk is.<br>
-<br>
-Als de aanvraag niet ontvankelijk is omdat een of meer van de gegevens, vermeld in artikel 28, ontbreken, vraagt&nbsp;het agentschap Opgroeien regie de ontbrekende gegevens op. De termijn voor de indiening van de gegevens of stukken bedraagt vijftien dagen. Tijdens die periode wordt de beslissingstermijn voor de ontvankelijkheid geschorst. Als er binnen die termijn geen gegevens of stukken elektronisch aan&nbsp;het agentschap Opgroeien regie worden bezorgd, is de aanvraag onontvankelijk.<br>
-<br>
-§ 3. Het agentschap Opgroeien regie behandelt de ontvankelijke aanvraag binnen drie maanden nadat aan de aanvrager is meegedeeld dat de aanvraag ontvankelijk is.<br>
-Het agentschap Opgroeien regie&nbsp;kan aanvullende informatie vragen aan de aanvrager. De aanvrager bezorgt de gevraagde aanvullende informatie aan&nbsp;het agentschap Opgroeien regie binnen dertig dagen. De beslissingstermijn wordt niet geschorst.
+...
 
 ### ART 30.
 
-Het agentschap Opgroeien regie&nbsp;bezorgt de beslissing over de aanvraag tot erkenning als evaluerend arts uiterlijk na afloop van de termijn, vermeld in artikel 29, § 3, eerste lid, aan de aanvrager. De beslissing heeft betrekking op een van de volgende beslissingen:<br>
-1° de toekenning van de erkenning;<br>
-2° het voornemen tot weigering van de erkenning.<br>
-<br>
-De beslissing tot toekenning van de erkenning wordt elektronisch bezorgd aan de aanvrager en bepaalt de ingangsdatum van de erkenning.<br>
-<br>
-De aanvrager wordt aangetekend op de hoogte gebracht van het voornemen tot weigering van de erkenning. De kennisgeving van de beslissing bevat, in voorkomend geval, de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen.<br>
-<br>
-Als de aanvrager binnen de termijn, vermeld in artikel 38, geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van&nbsp;het agentschap Opgroeien regie van rechtswege omgezet in een beslissing tot weigering van de erkenning. De beslissing tot weigering van de erkenning wordt van rechtswege geacht te zijn meegedeeld.<br>
-<br>
-Als de evaluerend arts een ontvankelijk bezwaarschrift heeft ingediend, conform de bezwaarprocedure, vermeld in artikel 37 tot en met 42, wordt de beslissing over de opheffing van de erkenning genomen nadat de bezwaarprocedure is doorlopen conform de regels die zijn vastgesteld bij of krachtens hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, met dien verstande dat het bezwaarschrift, in afwijking van artikel 8, § 1, eerste lid van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, wordt behandeld door de kamer van gezondheidsvoorzieningen.
+...
 
-## Onderafdeling 2. Verlenging van de erkenning
+## Onderafdeling 2. ...
 
 ### ART 31.
 
-De erkenning van de evaluerend arts wordt van rechtswege verlengd met drie jaar, als er geen indicaties zijn dat hij de erkenningsvoorschriften en -voorwaarden niet naleeft.
+...
 
 ## [Onderafdeling 3. Oproep om op te treden als mentorarts en uitvoering van andere opdrachten (verv. KB 28 januari 2022, art. 30, I: 1 januari 2022)]
 
@@ -609,17 +570,11 @@ Zolang de inschaling voor kinderen met een specifieke ondersteuningsbehoefte van
 <br>
 Het agentschap Opgroeien regie&nbsp;beoordeelt of de inschaling, vermeld in het eerste lid, die gevoerd wordt onder de bevoegdheid van het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie of de Duitstalige Gemeenschap, blijvend conform het driepijlersysteem, vermeld in het eerste lid, wordt uitgevoerd.
 
-## Onderafdeling 3. Erkenning als [evaluerend arts (verv. BVR 27 januari 2023, art. 9, I: 8 mei 2023)]
+## Onderafdeling 3. ...
 
 ### ART 51.
 
-Zonder dat ze daartoe een aanvraag hoeven in te dienen, krijgen artsen op 1 januari 2019 een erkenning als vermeld artikel 21, voor drie jaar als ze aan al de volgende voorwaarden voldoen:<br>
-1° ze hebben sinds 1 januari 2017 minstens één vaststelling gedaan in opdracht van de FOD Sociale Zekerheid overeenkomstig het koninklijk besluit van 28 maart 2003;<br>
-2° ze zijn niet ontslagen als statutaire arts bij de FOD Sociale Zekerheid of de FOD Sociale Zekerheid heeft de samenwerking met hen niet beëindigd om functionele redenen.<br>
-<br>
-De arts die de erkenning, vermeld in het eerste lid, niet wil, meldt dat elektronisch aan Kind en Gezin. Kind en Gezin verleent in dat geval geen erkenning aan de arts.<br>
-<br>
-De evaluerend arts, vermeld in het eerste lid, heeft drie jaar de tijd om te voldoen aan de erkenningsvoorwaarde, vermeld in artikel 22, § 1, eerste lid, 6°.
+...
 
 ## Onderafdeling 4. Pleegzorgtoeslag
 
@@ -657,26 +612,4 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uit
 
 ### BIJLAGE
 
-Bijlage 3. Minimale gegevens per diagnose als vermeld in artikel 15/1, § 2<br>
-<br>
-1° diagnose autismespectrumstoornis (ASS) of aandachtstekortstoornis met hyperactiviteit (ADHD)<br>
-normale tot zwakke begaafdheid (IQ tussen 70 en 85 en hoger dan 85);<br>
-lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
-2° diagnose licht mentale retardatie (IQ tussen 55 en 70)<br>
-lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
-3° matig mentale retardatie (IQ tussen 40 en 55)<br>
-lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
-4° ernstig mentale retardatie (IQ lager dan 40)<br>
-lessen volgen in het buitengewoon onderwijs of lessen of therapie volgen in een multifunctioneel centrum of twee keer per week ambulante revalidatie volgen.<br>
-5° diabetes type 1<br>
-geen minimale gegevens vereist.<br>
-6° gehoorbeperking ondanks afdoend gebruik van hulpmiddelen<br>
-gehoorverlies met gehoordrempels van minstens 41 dBHL;<br>
-gebruikmaken van inclusieve kinderopvang of lessen volgen in het buitengewoon onderwijs type 7 of vanaf de leeftijd van twaalf jaar lessen volgen in gewoon onderwijs met aanpassingen.<br>
-7° totaal gehoorverlies zonder restgehoor (Cophose)<br>
-gebruikmaken van inclusieve kinderopvang of lessen volgen in het buitengewoon onderwijs type 7.<br>
-8° beperking ondanks afdoend gebruik van hulpmiddelen<br>
-beperking in gezichtsveld of beperking in de gezichtsscherpte;<br>
-gebruikmaken van inclusieve kinderopvang of lessen volgen in het buitengewoon onderwijs type 6 of vanaf de leeftijd van twaalf jaar lessen volgen in gewoon onderwijs met aanpassingen.<br>
-9° blindheid<br>
-volgens de classificatie van de Wereldgezondheidsorganisatie een beoordeling hebben van gezichtsscherpte van 2 tot 5% of van een scherp zicht met een ernstige beperking van gezichtsveld tot minder dan 10° of van een gezichtsscherpte van maximaal 2% of geen lichtwaarneming hebben.
+...
