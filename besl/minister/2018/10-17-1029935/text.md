@@ -21,12 +21,12 @@ Besluit :
 
 ### ART 1.
 
-Het IMKL en het PMKL, zoals vastgesteld bij de beslissing van het directiecomité van het agentschap Informatie Vlaanderen van 17 augustus 2018, die zijn opgenomen in de bijlagen die bij dit besluit zijn gevoegd, worden goedgekeurd.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 1 januari 2019.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/03_1.pdf#page=36">Bijlage</a>
+...
