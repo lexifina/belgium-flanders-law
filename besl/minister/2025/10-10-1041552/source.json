@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041552,
+  "title": "Ministerieel besluit van 2025-10-10 tot vervanging van een plaatsvervangend lid van de strategische adviesraad Ruimtelijke Ordening en Onroerend Erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041552/VolledigDocument?datum=2025-12-25",
+  "source_sha256": "86bfd7315e6d24fd6fea38c10b28da833f6b677d507d7ec06cf2c1738e896dc7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041552&param=informatie",
+  "as_of": "2025-12-25",
+  "made": "2025-10-10",
+  "gazette": "2025-12-15",
+  "numac": 2025009330,
+  "document_start": "2025-12-25",
+  "document_end": null,
+  "in_force": "2025-12-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2025-12-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
