@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041560,
+  "title": "Decreet van 2025-11-28 van de algemene rekening van de Vlaamse Gemeenschap en van de rekeningen van de rechtspersonen onder het gezag van de Vlaamse Regering voor het begrotingsjaar 2024",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041560/VolledigDocument?datum=2025-12-26",
+  "source_sha256": "9d52567f4c49ae37e9b83740378f7dc8b383791349f005fecbbc837a6e76235c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041560&param=informatie",
+  "as_of": "2025-12-26",
+  "made": "2025-11-28",
+  "gazette": "2025-12-16",
+  "numac": 2025009430,
+  "document_start": "2025-12-26",
+  "document_end": null,
+  "in_force": "2025-12-26",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2025-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
