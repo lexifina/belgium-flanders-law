@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041577,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-12 tot wijziging van het besluit van de Vlaamse Regering van 5 september 2025 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges, wat betreft de digitalisering van de procesvoering, en tot bepaling van de inwerkingtreding van artikel 2, 1° en 2°, artikel 8, artikel 10 tot en met 12, artikel 18 en artikel 19, 2° van het decreet van 23 november 2023 tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat betreft een uitstel van inwerkingtredings- en overgangsbepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041577/VolledigDocument?datum=2025-12-29",
+  "source_sha256": "2b1ade0cdb32c8c30553b01e9d198c0ddf25b9a55e3b03ea030a96acdd96c4bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041577&param=informatie",
+  "as_of": "2025-12-29",
+  "made": "2025-12-12",
+  "gazette": "2025-12-19",
+  "numac": 2025009549,
+  "document_start": "2025-12-29",
+  "document_end": null,
+  "in_force": "2025-12-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2025-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
