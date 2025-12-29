@@ -8,7 +8,7 @@ De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Spo
 
 De secretaris-generaal van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, is het hoofd van de cel Administratieve Geldboeten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 januari 2005 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn.<br>
 <br>
-Bij tijdelijke afwezigheid of verhindering wordt de secretaris-generaal vervangen door het afdelingshoofd van de afdeling Beleid, of door het hoofd van de Juridische Dienst, of door het teamhoofd van de cel Administratieve Geldboeten van het departement Werk en Sociale Economie.<br>
+Bij tijdelijke afwezigheid of verhindering wordt de secretaris-generaal vervangen door het afdelingshoofd van de afdeling Beleid, of door het hoofd van de Juridische Dienst, of door het teamhoofd van de cel Administratieve Geldboeten van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie.<br>
 &nbsp;
 
 ### ART. 2.
@@ -147,7 +147,7 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lambrechts Ann</td>
 					</tr>
 					<tr>
-						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">&nbsp;</td>
+						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lasure Sabien</td>
 					</tr>
 				</tbody>
 			</table>
@@ -159,9 +159,6 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 						<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:266px">
 						<table cellspacing="0" style="border-collapse:collapse; width:277px">
 							<tbody>
-								<tr>
-									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Lasure Sabien</td>
-								</tr>
 								<tr>
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Marchand Thalassa</td>
 								</tr>
@@ -259,10 +256,10 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vandenbussche Stefanie</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vanhove Bianca</td>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vanhove Bianca</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Velghe Wim</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Velghe Wim</td>
 								</tr>
 								<tr>
 									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verdickt Nona</td>
@@ -271,7 +268,13 @@ De volgende personen zijn de sociaalrechtelijke inspecteurs van de afdeling Vlaa
 									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verhaegen Jelle</td>
 								</tr>
 								<tr>
-									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Vossen Floriaan</td>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verhellen Flor</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:24px; width:277px">Verlackt Lander</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:none; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; width:277px">Vossen Floriaan</td>
 								</tr>
 							</tbody>
 						</table>
