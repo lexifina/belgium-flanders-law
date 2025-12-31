@@ -649,9 +649,205 @@ De Vlaamse Regering kan de minimale vereisten bepalen die worden uitgewerkt in h
 
 ## [Onderafdeling 1. Handhaving (ing. decr. 23 december 2021, art. 28, I: 31 december 2025)]
 
+### ART 40/0/1.
+
+§ 1. Met behoud van de toepassing van de bevoegdheden die toevertrouwd worden aan de andere officieren of agenten van gerechtelijke politie en aan de leden van het operationeel kader van de lokale en federale politie, kent de Vlaamse Regering de hoedanigheid van agent van gerechtelijke politie toe aan het beëdigde controlepersoneel dat ze aanwijst om toezicht te houden op de naleving van de reisvoorwaarden, vermeld in artikel 2, 20°, die gelden voor het openbaar personenvervoer over water en het vervoer op maat.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze van aanstelling en bepaalt de kentekens van de functie van het controlepersoneel, vermeld in het eerste lid.<br>
+<br>
+§ 2. In het kader van de uitoefening van zijn opdracht kan het controlepersoneel, vermeld in paragraaf 1, ten aanzien van reizigers en derden, de volgende maatregelen nemen:<br>
+1° vervoerbewijzen of verminderingskaarten in beslag nemen;<br>
+2° inlichtingen inwinnen en controle uitoefenen door personen te ondervragen en door inzage te nemen van documenten en andere informatiedragers;<br>
+3° de betrokkenen om hun identiteitskaart vragen en personen die weigeren hun identiteitskaart te tonen of die er geen in hun bezit hebben, tegenhouden tot de komst van de politie.<br>
+<br>
+De leden van het controlepersoneel, vermeld in paragraaf 1, kunnen de bijstand vorderen van de lokale en federale politie.<br>
+<br>
+De Vlaamse Regering kan bijkomende maatregelen bepalen die het controlepersoneel, vermeld in paragraaf 1, ten aanzien van het publiek en de reizigers mag nemen om inbreuken op de reisvoorwaarden vast te stellen.<br>
+<br>
+§ 3. Het controlepersoneel, vermeld in paragraaf 1, is bevoegd om inbreuken op de reisvoorwaarden, vermeld in artikel 2, 20°, vast te stellen bij proces-verbaal met bewijswaarde tot bewijs van het tegendeel.
+
 ## [Onderafdeling 2. Gegevensverwerking (ing. decr. 23 december 2021, art. 30, I: 31 december 2025)]
 
+### ART 40/0/2.
+
+De exploitant van het openbaar personenvervoer over water en de Mobiliteitscentrale zijn de verwerkingsverantwoordelijken, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de persoonsgegevens die worden verwerkt voor de doeleinden, vermeld in artikel 40/0/5 van dit decreet.
+
+### ART 40/0/3.
+
+De verwerkingsverantwoordelijke, vermeld in artikel 40/0/2, verwerkt de persoonsgegevens onder de volgende voorwaarden:<br>
+1° de persoonsgegevens worden verwerkt op een wijze die ten aanzien van de betrokkene rechtmatig, behoorlijk en transparant is;<br>
+2° de persoonsgegevens worden verzameld voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden als vermeld in artikel 40/0/5 en mogen vervolgens niet verder op een met die doeleinden onverenigbare wijze worden verwerkt;<br>
+3° de persoonsgegevens worden verwerkt op een wijze die toereikend is, ter zake dienend en beperkt tot wat noodzakelijk is voor de doeleinden, vermeld in artikel 40/0/5, waarvoor ze worden verwerkt;<br>
+4° de persoonsgegevens zijn juist en als dat nodig is worden ze geactualiseerd;<br>
+5° alle redelijke maatregelen worden genomen om de persoonsgegevens die, gelet op de doeleinden, vermeld in artikel 40/0/5, waarvoor ze worden verwerkt, onjuist zijn, onmiddellijk te wissen of te rectificeren;<br>
+6° de persoonsgegevens worden bewaard in een vorm die het mogelijk maakt de betrokkenen niet langer te identificeren dan noodzakelijk is voor de doeleinden, vermeld in artikel 40/0/5, waarvoor de persoonsgegevens worden verwerkt en niet langer dan één jaar na het afsluiten van het dossier of één jaar nadat de verjaringstermijn, vermeld in artikel 40/0/14, is verstreken;<br>
+7° de persoonsgegevens worden, door passende technische of organisatorische maatregelen te nemen op een dusdanige manier verwerkt dat een passende beveiliging ervan gewaarborgd is, zodat ze onder meer beschermd zijn tegen ongeoorloofde of onrechtmatige verwerking en tegen onopzettelijk verlies, vernietiging of beschadiging.<br>
+<br>
+De verwerkingsverantwoordelijke is verantwoordelijk voor de naleving van de voorwaarden, vermeld in het eerste lid, en kan dat aantonen.<br>
+<br>
+De verwerkingsverantwoordelijke informeert de betrokkenen vooraf over de verwerking van hun persoonsgegevens conform artikel 13 en 14 van de algemene verordening gegevensbescherming en informeert hen over hun rechten op basis van artikel 15 tot en met 22 van de algemene verordening gegevensbescherming.<br>
+<br>
+In het geval een inbreuk in verband met persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen, deelt de verwerkingsverantwoordelijke, conform artikel 34 van de algemene verordening gegevensbescherming, de betrokkene de inbreuk in verband met persoonsgegevens onverwijld mee.<br>
+<br>
+De Vlaamse Regering kan de verdere modaliteiten over de verwerking van de persoonsgegevens nader bepalen.
+
+### ART 40/0/4.
+
+De verwerkingsverantwoordelijke verwerkt de volgende categorieën van persoonsgegevens:<br>
+1° de identiteitsgegevens, inclusief het identiteitskaartnummer, van de persoon, vermeld in artikel 40/0/8, § 1;<br>
+2° de contactgegevens van de persoon, vermeld in artikel 40/0/8, § 1;<br>
+3° de bankgegevens van de persoon, vermeld in artikel 40/0/8, § 1;<br>
+4° het rijksregisternummer van de persoon, vermeld in artikel 40/0/8, § 1;<br>
+5° de kentekenplaat van de persoon, vermeld in artikel 40/0/8, § 1, als de overtreding plaatsvindt met een voertuig;<br>
+6° foto's die kunnen dienen als bewijs;<br>
+7° de vorige overtredingen die de persoon, vermeld in artikel 40/0/8, § 1, heeft begaan;<br>
+8° de abonnementsgegevens van de persoon, vermeld in artikel 40/0/8, § 1;<br>
+9° de naam, de voornaam, de contactgegevens en de geboortedatum van de ouders en de voogden of de personen die een persoon als vermeld in artikel 40/0/8 die minderjarig is onder hun hoede hebben;<br>
+10° de persoonsgegevens die noodzakelijk zijn om het procesverbaal op te stellen, waaronder maar niet beperkt tot de datum en het tijdstip van de vaststelling, het nummer van het procesverbaal en de plaats van de controle;<br>
+11° het personeelsnummer en identiteit, waaronder de voornaam, de naam en het kantooradres van het lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, of het sanctionerend personeelslid, vermeld in artikel 40/0/10, § 1;<br>
+12° de medische persoonsgegevens die de persoon, vermeld in artikel 40/0/8, § 1, zelf aanbrengt ter ondersteuning van het verweer;<br>
+13° het financiële draagvlak van personen die een abonnement voor verhoogde tegemoetkoming hebben.<br>
+<br>
+De Vlaamse Regering kan de categorieën van persoonsgegevens nader bepalen.
+
+### ART 40/0/5.
+
+De verwerkingsverantwoordelijke verwerkt de categorieën van persoonsgegevens, vermeld in artikel 40/0/4 van dit decreet, voor het uitvoeren van een wettelijke verplichting die verband houdt met een taak van algemeen belang en de uitoefening van het openbaar gezag als vermeld in artikel 6, lid 1, c) en e), van de algemene verordening gegevensbescherming:<br>
+1° vervoerbewijzen of verminderingskaarten controleren en in beslag nemen;<br>
+2° het vaststellen van overtredingen op de reisvoorwaarden;<br>
+3° de volgende feiten en handelingen vaststellen:<br>
+a) feiten en handelingen die overlast veroorzaken op en rond het vaartuig van de exploitant van het openbaar personenvervoer over water of het voertuig dat ingezet wordt in het kader van het vervoer op maat;<br>
+b) feiten en handelingen die de dienstverlening verstoren of kunnen verstoren;<br>
+c) feiten en handelingen die gevaar veroorzaken;<br>
+4° betrokkenen ondervragen en inzage nemen van documenten en andere informatiedragers;<br>
+5° het procesverbaal opmaken en versturen;<br>
+6° administratieve geldboetes en toezichts en administratiekosten van een persoon als vermeld in artikel 40/0/8, § 1, van dit decreet, opleggen en innen;<br>
+7° een definitieve beslissing nemen na eventuele verweermiddelen van de overtreder tegen het voorstel van de beslissing te hebben verwerkt;<br>
+8° de exploitant van het openbaar personenvervoer over water of de Mobiliteitscentrale verdedigen in het kader van procedures.
+
+### ART 40/0/6.
+
+De verwerkingsverantwoordelijke verwerkt de categorieën van persoonsgegevens, vermeld in artikel 40/0/4, van de volgende categorieën van betrokkenen:<br>
+1° de personen die een overtreding begaan op de reisvoorwaarden, vermeld in artikel 2, 20° ;<br>
+2° de personen die niet beschikken over een geldig en in voorkomend geval gevalideerd vervoerbewijs, als dat is voorgeschreven;<br>
+3° de personen die de volgende handelingen stellen:<br>
+a) de personen die overlast veroorzaken op en rond het vaartuig van de exploitant van het openbaar personenvervoer over water of het voertuig dat ingezet wordt in het kader van het vervoer op maat;<br>
+b) de personen die de dienstverlening verstoren of kunnen verstoren;<br>
+c) de personen die gevaar veroorzaken;<br>
+4° de leden van het controlepersoneel, vermeld in artikel 40/0/1, § 1;<br>
+5° de sanctionerende personeelsleden, vermeld in artikel 40/0/10, § 1;<br>
+6° de ouders en de voogden of de personen die een persoon als vermeld in artikel 40/0/8 die minderjarig is onder hun hoede hebben.
+
+### ART 40/0/7.
+
+De exploitant van het openbaar personenvervoer over water en de Mobiliteitscentrale kunnen de persoonsgegevens meedelen aan de volgende derde partijen voor de doeleinden, vermeld in artikel 40/0/5:<br>
+1° de politie, als een bijkomende vaststelling noodzakelijk is gelet op de feiten;<br>
+2° het Rijksregister of de Dienst voor Inschrijvingen van Voertuigen, om te controleren of de persoonsgegevens die de persoon in kwestie heeft opgegeven juist zijn en in voorkomend geval om ontbrekende maar noodzakelijke persoonsgegevens aan te vullen;<br>
+3° de sanctionerende personeelsleden, vermeld in artikel 40/0/10, § 1, om de administratieve geldboetes en toezichts- en administratiekosten vast te stellen;<br>
+4° de takel- of sleepdienst, als een voertuig moet worden getakeld of een vaartuig moet worden gesleept;<br>
+5° gerechtsdeurwaarders, om de administratieve geldboetes en toezichts- en administratiekosten verder te behandelen of om een solvabiliteitsonderzoek voor personen met een abonnement voor verhoogde tegemoetkoming uit te voeren vóór de gedwongen invordering wordt gestart;<br>
+6° advocaten en/of hoven en rechtbanken, als de administratieve geldboetes en toezichts- en administratiekosten worden betwist;<br>
+7° de Vlaamse ombudsman, als die tussenkomt in een geschil.<br>
+<br>
+De Vlaamse Regering kan verdere modaliteiten over de uitwisseling van de persoonsgegevens nader bepalen.
+
 ## [Onderafdeling 3. Administratieve sancties (ing. decr. 23 december 2021, art. 37, I: 31 december 2025)]
+
+### ART 40/0/8.
+
+§ 1. Een administratieve geldboete van maximaal 300 euro of 500 euro kan worden opgelegd, naargelang de overtreder minderjarig of meerderjarig is, aan elke persoon die aan een van de volgende voorwaarden voldoet:<br>
+1° de persoon in kwestie begaat een overtreding op de reisvoorwaarden, vermeld in artikel 2, 20°, en die persoon is op het ogenblik waarop de feiten worden gepleegd 14 jaar;<br>
+2° de persoon in kwestie beschikt niet over een geldig en in voorkomend geval gevalideerd vervoerbewijs, als dat vereist is, en die persoon is op het ogenblik van de feiten 12 jaar.<br>
+<br>
+De Vlaamse Regering kan de nadere regels vastleggen over de administratieve kosten van de administratieve sanctieprocedure, de wijze van inning en invordering van de administratieve geldboetes en over de termijnen waarover de overtreder beschikt.<br>
+<br>
+De Vlaamse Regering kan het niet bijhebben van een geldig en in voorkomend geval gevalideerd vervoerbewijs, als dat vereist is, en ook de feiten en handelingen die overlast veroorzaken op en rond het voertuig of vaartuig, de feiten en handelingen die de dienstverlening verstoren of kunnen verstoren en de feiten en handelingen die gevaar veroorzaken, aanwijzen als overtredingen op de reisvoorwaarden. Daarvoor duidt de Vlaamse Regering de reisvoorwaarden aan waarvan de overtreding aanleiding geeft tot het opleggen van een administratieve geldboete.<br>
+<br>
+Als minderjarigen vanaf de leeftijd dat een geldig en in voorkomend geval gevalideerd vervoerbewijs is vereist en tot 12 jaar, geen geldig en in voorkomend geval gevalideerd vervoerbewijs hebben, worden hun ouders of andere personen die het ouderlijk gezag uitoefenen over die minderjarige, weerlegbaar vermoed een overtreding te hebben begaan, tenzij zij kunnen aantonen dat zij geen fout hebben begaan.<br>
+<br>
+De Vlaamse Regering wordt gemachtigd om binnen de grenzen, vermeld in het eerste lid, het boetebedrag te bepalen.<br>
+<br>
+§ 2. Als de overtreding op de reisvoorwaarden wordt begaan met een voertuig, wordt de houder van de kentekenplaat weerlegbaar vermoed de overtreder van de reisvoorwaarden te zijn.
+
+### ART 40/0/9.
+
+§ 1. Het lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, stelt de overtredingen van de reisvoorwaarden vast bij proces- verbaal als vermeld in artikel 40/0/1, § 3, en brengt, als dat mogelijk is, de overtreder ter plaatse mondeling op de hoogte dat de administratieve sanctieprocedure voor het opleggen van een administratieve geldboete zal worden ingeleid.<br>
+<br>
+§ 2. Op verzoek van de meerderjarige overtreder kan het lid van het controle personeel, vermeld in artikel 40/0/1, § 1, de geldboete, of een gedeelte daarvan, onmiddellijk innen. Het bedrag dat onmiddellijk wordt geïnd, is het basisbedrag van de geldboete voor de overtreding in kwestie, of een gedeelte daarvan. Betaling van de geldboete of een deel ervan, ontneemt de overtreder niet het recht om een administratief of gerechtelijk beroep in te stellen tegen het opleggen van het basisbedrag van de geldboete.<br>
+<br>
+§ 3. Op het proces- verbaal, vermeld in paragraaf 1, wordt de identiteit van het lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, niet vermeld. Dat proces- verbaal vermeldt wel de individuele personeelscode van het lid van het voormelde controlepersoneel.<br>
+<br>
+Als de overtreder de geldboete met verweermiddelen betwist en in dat kader vraagt om de bekendmaking van de identiteit van het lid van het voormelde controlepersoneel, worden de naam en het kantooradres van het lid van het voormelde controlepersoneel aan de overtreder bekendgemaakt. De overtreder bewaart de vertrouwelijkheid van die gegevens ten aanzien van derden.
+
+### ART 40/0/10.
+
+§ 1. Het lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, bezorgt het proces verbaal aan een sanctionerend personeelslid.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze van aanstelling van de sanctionerende personeelsleden.<br>
+<br>
+Het sanctionerend personeelslid vervult zijn ambt in onafhankelijkheid en onpartijdigheid en kan niet tegelijkertijd de hoedanigheid van lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, hebben. De Vlaamse Regering kan de vereiste garanties voor onafhankelijkheid en onpartijdigheid preciseren.<br>
+<br>
+§ 2. Het sanctionerend personeelslid, vermeld in paragraaf 1, zendt een afschrift van het procesverbaal naar de overtreder binnen vijftien werkdagen na de dag waarop de overtreding is vastgesteld. De Vlaamse Regering stelt de wijze van kennisgeving van het procesverbaal vast.<br>
+<br>
+Het procesverbaal gaat vergezeld van een voorstel van beslissing van het voormelde sanctionerend personeelslid om de geldboete op te leggen.<br>
+<br>
+Als de overtreder de geldboete onmiddellijk aan het lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, heeft betaald conform artikel 40/0/9, § 2, bezorgt het voormelde sanctionerend personeelslid alleen een voorstel van beslissing als de overtreder maar een gedeelte van het basisbedrag van de geldboete heeft betaald, of, als de overtreder zich in staat van herhaling bevindt, het basis bedrag van de geldboete, of een gedeelte daarvan, heeft betaald. In dat geval legt het voormelde sanctionerend personeelslid een bijkomend boetebedrag op, dat gelijk is aan het verschil tussen het bedrag dat al is betaald en het totale verschuldigde boetebedrag.<br>
+<br>
+De overtreder beschikt over dertig dagen vanaf de kennisgeving van het proces-verbaal om de volgende handelingen te stellen:<br>
+1° de geldboete of het openstaande saldo betalen;<br>
+2° schriftelijk verweermiddelen formuleren tegen het voorstel van beslissing, vermeld in het tweede en derde lid.
+
+### ART 40/0/11.
+
+§ 1. Als de overtreder binnen de termijn, vermeld in artikel 40/0/10, § 2, vierde lid, de geldboete betaalt of geen verweermiddelen formuleert, wordt het voorstel van beslissing van rechtswege omgezet in een definitieve beslissing nadat die termijn is verstreken.<br>
+<br>
+§ 2. Als de overtreder tijdig verweermiddelen formuleert tegen het voorstel van beslissing, neemt het sanctionerend personeelslid, vermeld in artikel 40/0/10, § 1, een definitieve beslissing over de administratieve geldboete binnen drie maanden na de dag waarop het voormelde sanctionerend personeelslid het schriftelijk verweer heeft ontvangen.<br>
+<br>
+Op straffe van onontvankelijkheid kan de overtreder binnen dertig dagen vanaf de kennisgeving van het procesverbaal en het voorstel van beslissing in het verweer verzoeken om mondeling gehoord te worden. In voorkomend geval hoort het voormelde sanctionerend personeelslid de overtreder mondeling, vooraleer een definitieve beslissing te nemen over de administratieve geldboete, waarna binnen drie maanden na de hoorzitting een definitieve beslissing wordt genomen over de administratieve geldboete.
+
+### ART 40/0/12.
+
+Voor minderjarige overtreders gelden, in afwijking van artikel 40/0/10 en 40/0/11, de volgende procedurevoorschriften:<br>
+1° het sanctionerend personeelslid, vermeld in artikel 40/0/10, § 1, zendt een afschrift van het proces-verbaal samen met een voorstel tot beslissing naar de overtreder binnen vijftien werkdagen na de dag waarop de overtreding is vastgesteld. De Vlaamse Regering stelt de wijze van kennisgeving van het proces-verbaal vast;<br>
+2° het proces-verbaal vermeldt het recht van de minderjarige overtreder om zich te laten bijstaan door een advocaat, de ouders, voogd of personen die de minderjarige onder hun hoede hebben;<br>
+3° de minderjarige overtreder beschikt over dertig dagen vanaf de kennisgeving van het proces-verbaal om de geldboete te betalen of om schriftelijk verweermiddelen te formuleren tegen het voorstel van beslissing, vermeld in punt 1° ;<br>
+4° op straffe van onontvankelijkheid kan de minderjarige overtreder binnen dertig dagen vanaf de kennisgeving van het proces-verbaal en het voorstel van beslissing in het verweer verzoeken om mondeling gehoord te worden. In voorkomend geval hoort het sanctionerend personeelslid, vermeld in artikel 40/0/10, § 1, de minderjarige overtreder. De minderjarige overtreder heeft het recht om zich voor de hoorzitting te laten bijstaan door een advocaat, en door de ouders en voogden of personen die de minderjarige onder hun hoede hebben;<br>
+5° als de geldboete binnen de termijn, vermeld in punt 3°, wordt betaald of geen verweermiddelen worden geformuleerd, wordt het voorstel van beslissing van rechtswege omgezet in een definitieve beslissing nadat die termijn is verstreken;<br>
+6° als de minderjarige overtreder tijdig verweermiddelen formuleert tegen het voorstel van beslissing, en in voorkomend geval na de overtreder mondeling te hebben gehoord, neemt het sanctionerend personeelslid, vermeld in artikel 40/0/10, § 1, binnen drie maanden na het schriftelijk verweer, of binnen drie maanden na de hoorzitting, een definitieve beslissing over de administratieve geldboete.<br>
+<br>
+De ouders en voogden of personen die de minderjarige onder hun hoede hebben, worden conform het eerste lid, op de hoogte gebracht van elk procesverbaal en van elke schriftelijke mededeling of beslissing. De voormelde personen beschikken ook over het recht op verweer, vermeld in het eerste lid, 3°. De voormelde personen worden op verzoek als vermeld in het eerste lid, 4°, door het sanctionerend personeelslid, vermeld in artikel 40/0/10, § 1, gehoord.<br>
+<br>
+De ouders en eventueel andere personen die het ouderlijk gezag over de minderjarige uitoefenen zijn burgerrechtelijk aansprakelijk voor het betalen van de administratieve geldboete die aan de minderjarige wordt opgelegd.
+
+### ART 40/0/13.
+
+§ 1. De minderjarige overtreder kan binnen zestig dagen na de kennisgeving van de definitieve beslissing met een kosteloos verzoekschrift beroep instellen tegen de administratieve geldboete bij de jeugdrechtbank.<br>
+<br>
+Als het voorstel van beslissing conform artikel 40/0/12, eerste lid, 5°, van rechtswege in een definitieve beslissing wordt omgezet, gaat de termijn, vermeld in het eerste lid, in op de dag dat het voorstel van beslissing van rechtswege wordt omgezet in een definitieve beslissing.<br>
+<br>
+De jeugdrechtbank blijft bevoegd als de overtreder op het moment van de uitspraak meerderjarig is geworden.<br>
+<br>
+De ouders, voogden of personen die de minderjarige onder hun hoede hebben kunnen het beroep, vermeld in het eerste lid, ook instellen.<br>
+<br>
+§ 2. De jeugdrechtbank beslist in het kader van een tegensprekelijk debat over de beroepen, vermeld in paragraaf 1. De exploitant van het openbaar personenvervoer over water of de Mobiliteitscentrale kan tussenkomen in het tegensprekelijk debat en wordt als een procespartij beschouwd. De exploitant van het openbaar personenvervoer over water of de Mobiliteitscentrale kunnen bij algemene volmacht vertegenwoordigd worden.<br>
+<br>
+De jeugdrechtbank oordeelt over de wettigheid en de proportionaliteit van de opgelegde boete.<br>
+<br>
+De jeugdrechtbank kan de beslissing over de administratieve geldboete bevestigen of herzien.<br>
+<br>
+De jeugdrechtbank kan, als een beroep tegen de administratieve geldboete aan haar ter behandeling wordt voorgelegd, in de plaats daarvan de sancties opleggen als vermeld in het artikel 29, § 2, 1° tot en met 5°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht. In dat geval is artikel 60 van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade, van toepassing.<br>
+<br>
+De beslissing van de jeugdrechtbank is niet vatbaar voor hoger beroep. Als de jeugdrechtbank echter beslist om de administratieve geldboete te vervangen door een van de sancties, vermeld in het artikel 29 van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, is haar beslissing wel vatbaar voor hoger beroep. In dat geval zijn de procedures, vermeld in titel II, hoofdstuk IV van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade, van toepassing.<br>
+<br>
+§ 3. Met behoud van de toepassing van paragraaf 1 en 2, en titel II, hoofdstuk IV, van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade, zijn de bepalingen van het Gerechtelijk Wetboek van toepassing op het beroep bij de jeugdrechtbank.
+
+### ART 40/0/14.
+
+De administratieve geldboetes verjaren na verloop van vijf jaar vanaf de datum waarop ze moeten worden betaald. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met 2250 van het (oud) Burgerlijk Wetboek.
+
+### ART 40/0/15.
+
+De Vlaamse Regering bepaalt in welke gevallen en onder welke voorwaarden het lid van het controlepersoneel, vermeld in artikel 40/0/1, § 1, bij de vaststelling van een overtreding aan de overtreder een vervoerbewijs geeft.
 
 ## HOOFDSTUK 5. Infrastructuurbeleid, flankerende maatregelen en doorstroming
 

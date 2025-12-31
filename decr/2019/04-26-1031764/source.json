@@ -2,16 +2,16 @@
   "codex_id": 1031764,
   "title": "Decreet van 2019-04-26 betreffende de basisbereikbaarheid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031764/VolledigDocument?datum=2024-03-15",
-  "source_sha256": "96c21da2d92857a623436bd6f1d346cfb87d9147cc9979ee6fdd6682a69cfea2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031764/VolledigDocument?datum=2025-12-31",
+  "source_sha256": "6df262582e1850b703fbe7e09ec1559d36dc6bddd913502381496ef926d87679",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031764&param=informatie",
-  "as_of": "2024-03-15",
+  "as_of": "2025-12-31",
   "made": "2019-04-26",
   "gazette": "2019-06-12",
   "numac": 2019012697,
   "document_start": "2019-06-22",
   "document_end": null,
-  "in_force": "2024-03-15",
-  "article_versions": 79,
-  "record_form": "consolidated version as in force on 2024-03-15; future article versions excluded; article text as the API gives it"
+  "in_force": "2025-12-31",
+  "article_versions": 94,
+  "record_form": "consolidated version as in force on 2025-12-31; future article versions excluded; article text as the API gives it"
 }
