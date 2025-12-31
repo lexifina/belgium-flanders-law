@@ -3842,7 +3842,7 @@ De parameters, vermeld in het eerste lid, worden gedefinieerd als volgt:<br>
 2° b = het laagste tarief, vermeld in tabel II van het voormelde artikel;<br>
 3° c = het laagste tarief, vermeld in tabel I van het voormelde artikel.<br>
 <br>
-De vermindering, vermeld in het eerste lid, wordt alleen toegekend aan de natuurlijke personen die de erflater in een niet-herroepen testament op ondubbelzinnige wijze heeft aangewezen als diegenen die de toepassing van de vermindering, vermeld in het eerste lid, mogen vragen.<br>
+De vermindering, vermeld in het eerste lid, wordt alleen toegekend aan de natuurlijke personen die de erflater in een niet-herroepen testament op ondubbelzinnige wijze heeft aangewezen als diegenen die de toepassing van de vermindering, vermeld in het eerste lid, mogen vragen.&nbsp;Het testament is vóór 1 januari 2026 gedagtekend.<br>
 <br>
 De vermindering, vermeld in het eerste lid, wordt toegepast op de erfbelasting, verschuldigd door de verkrijgers die zijn aangewezen overeenkomstig het derde lid, na de toepassing van alle andere vrijstellingen en verminderingen waarop de voormelde verkrijgers aanspraak kunnen maken.<br>
 <br>
