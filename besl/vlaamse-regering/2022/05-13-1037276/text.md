@@ -40,7 +40,25 @@ Dit besluit is niet van toepassing op openbaar personenvervoer over water en op 
 
 Elke halte wordt gezamenlijk of apart bediend door een of meer verbindingen behorend tot het kernnet, het aanvullend net of het vervoer op maat.
 
+### ART 4.
+
+Elke halte is herkenbaar door de toepassing van de merkarchitectuur over basisbereikbaarheid.
+
 ## HOOFDSTUK 2. Halteaanleg, inplanting en uitrusting
+
+### ART 5.
+
+Een halte van het kernnet of aanvullend net is minimaal uitgerust met een haltebord conform de merkarchitectuur, vermeld in artikel 4.<br>
+<br>
+Een halte van het vervoer op maat is minimaal uitgerust met een haltebord conform de merkarchitectuur, vermeld in artikel 4, tenzij de halte deel uitmaakt van een Hoppinpunt.<br>
+<br>
+Het haltebord vermeldt minstens de haltenaam en het haltenummer.<br>
+<br>
+De interne exploitant staat in voor de plaatsing, het onderhoud en de vernieuwing van het haltebord en, in voorkomend geval, de bijbehorende haltepaal.<br>
+<br>
+Een halte van het kernnet of aanvullend net is uitgerust met een informatiedrager voorzien van een papieren dienstregeling of met een digitale drager, of geeft toegang tot een ander digitaal alternatief. Als de halte voorzien is van een schuilhuisje, wordt de dienstregeling in het schuilhuisje ter beschikking gesteld.<br>
+<br>
+Elke exploitant is verantwoordelijk voor de informatie over het eigen aanbod aan de halte en staat in voor het aanbieden ervan.
 
 ### ART 6.
 
