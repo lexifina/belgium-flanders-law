@@ -203,7 +203,7 @@ Het agentschap brengt de organisator met een aangetekende brief op de hoogte van
 
 ### ART 21.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2022 en treedt buiten werking op 31 december 2025.
+Dit besluit heeft uitwerking met ingang van 1 september 2022 en treedt buiten werking op 31 december 2026.
 
 ### ART 22.
 
