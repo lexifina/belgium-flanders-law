@@ -29,6 +29,10 @@ In artikel 7 van hetzelfde decreet, gewijzigd bij de decreten van 21 juni 2013, 
 “7° het verstrekken van individuele (na)zorg aan de kandidaat-adoptant, de geadopteerde en de afstandsouder.”;<br>
 4° in paragraaf 4 wordt punt 2° opgegeven.
 
+### ART 8.
+
+In artikel 9 van hetzelfde decreet wordt het eerste lid opgeheven.
+
 ### ART 9.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 21 mei 2021, wordt het opschrift van hoofdstuk 4 vervangen door wat volgt:<br>
