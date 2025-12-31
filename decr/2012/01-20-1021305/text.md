@@ -40,7 +40,7 @@ artikel 360-1, 2°, van het oud Burgerlijk Wetboek;<br>
 
 De kandidaat-adoptanten dienen de informatiesessie te volgen bij het Steunpunt Adoptie. Het Vlaams Centrum voor Adoptie stelt in samenspraak met het adviescomité het programma en de werkwijze vast van de informatiesessie volgens de bepalingen van de Vlaamse Regering.<br /><br />
 
-## Afdeling 2 De voorbereiding
+## Afdeling 2 ...
 
 ### ART. 5.
 
