@@ -80,6 +80,10 @@ De infrastructuur van een centrum voor dagverzorging moet voldoen aan de specifi
 
 De infrastructuur van een centrum voor kortverblijf type 2 moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 94 tot en met 96 van bijlage 8 bij het besluit van 28 juni 2019, om voor een investeringssubsidie in aanmerking te komen.
 
+### ART 6.
+
+De infrastructuur van een centrum voor kortverblijf type 3 moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in artikel 148 en 149 van bijlage 8 bij het besluit van 28 juni 2019, om voor een investeringssubsidie in aanmerking te komen.
+
 ## Afdeling 3. Specifieke bouwtechnische en bouwfysische normen voor de lokale dienstencentra
 
 ### ART 7.
@@ -294,6 +298,10 @@ In artikel 16, tweede lid, van hetzelfde besluit, vervangen bij het besluit van 
 ### ART 21.
 
 In artikel 16, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 15 januari 2016 en gewijzigd bij de besluiten van de Vlaamse Regering van 6 juli 2018 en 23 november 2018, wordt de zinsnede ", voor een dagverzorgingscentrum" vervangen door de zinsnede ", voor een centrum voor dagopvang, voor een centrum voor dagverzorging, voor een centrum voor kortverblijf type 2".
+
+### ART 22.
+
+In artikel 16, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 15 januari 2016 en gewijzigd bij de besluiten van de Vlaamse Regering van 6 juli 2018, 23 november 2018 en dit besluit, wordt de zinsnede "voor een centrum voor kortverblijf type 2" vervangen door de zinsnede "voor een centrum voor kortverblijf type 2, voor een centrum voor kortverblijf type 3".
 
 ## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse regering van 8 juni 1999 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor voorzieningen voor ouderen en voorzieningen in de thuiszorg
 
