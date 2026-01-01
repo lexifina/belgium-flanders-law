@@ -2,16 +2,16 @@
   "codex_id": 1025579,
   "title": "Decreet van 2015-07-03 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025579/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "ef8c7e74adae599f2956286858d15fe0e73b86192db61917b009b82a42a082a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025579/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "cc55f85e6ab61edb04d88a069919dc7feeb506e102a098c1d8b309cfc646fe73",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025579&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-01",
   "made": "2015-07-03",
   "gazette": "2015-07-15",
   "numac": 2015035896,
   "document_start": "2015-07-25",
   "document_end": null,
-  "in_force": "2025-01-01",
+  "in_force": "2026-01-01",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
