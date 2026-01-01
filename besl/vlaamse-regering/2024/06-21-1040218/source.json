@@ -2,16 +2,16 @@
   "codex_id": 1040218,
   "title": "Besluit van de Vlaamse Regering van 2024-06-21 tot delegatie van de beslissingsbevoegdheid over de verkoop van het Research Park Zellik",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040218/VolledigDocument?datum=2024-07-01",
-  "source_sha256": "41fa64e1f663cc54fe13f58fbb0511e4e9e702c5b0694ab807a2acf67326b1cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040218/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "02350b50a69765529854e718445856ef23960d2da6280ffff67045dbf5bec349",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040218&param=informatie",
-  "as_of": "2024-07-01",
+  "as_of": "2026-01-01",
   "made": "2024-06-21",
   "gazette": "2024-09-09",
   "numac": 2024008466,
   "document_start": "2024-07-01",
   "document_end": "2025-12-31",
-  "in_force": "2024-07-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
