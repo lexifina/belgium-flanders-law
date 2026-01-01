@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041610,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-19 tot wijziging van diverse bepalingen van het Energiebesluit van 19 november 2010 en van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de Mijn VerbouwPremie, de EPC-labelpremie, en de kortingsbonnen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041610/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "00d33d87831da0f2cb1218ae92cc17f0839be30c5822f2c03c9a082e7738187f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041610&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-19",
+  "gazette": "2025-12-30",
+  "numac": 2025009744,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
