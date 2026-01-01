@@ -610,7 +610,19 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 ### ART. 8.
 
-<P>§ 1. Een schoolbestuur dient de aanvraag voor een nieuwe programmatie op   elektronische wijze en afzonderlijk per type in bij het Agentschap voor   Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming, hierna   agentschap te noemen.<BR><BR>§ 2. De aanvraag wordt door het agentschap voor   advies bezorgd aan de Vlaamse Onderwijsraad en aan de Onderwijsinspectie van het   Vlaams Ministerie van Onderwijs en Vorming.<BR><BR>§ 3. De Vlaamse   Onderwijsraad, de Onderwijsinspectie en het agentschap brengen binnen een   redelijke termijn en uiterlijk twee maanden na de ontvangst van de aanvraag,   vakantieperioden niet inbegrepen, een advies uit, dat ze bezorgen aan de Vlaamse   minister bevoegd voor onderwijs en aan het Departement Onderwijs en   Vorming.<BR><BR>De Vlaamse Onderwijsraad baseert zijn advies op het onderzoek   van ten minste de beoordelingscriteria, als vermeld in artikel 9, 1° tot en met   8°.<BR><BR>De Onderwijsinspectie baseert zijn advies op het onderzoek van ten   minste de beoordelingscriteria, als vermeld in artikel 9, 3° tot en met 6° en   8°.<BR><BR>Het agentschap baseert zijn advies op het onderzoek van ten minste de   beoordelingscriteria, als vermeld in artikel 9, 1°, 2° en 7° tot en met   8°.<BR><BR>§ 4. De Vlaamse minister bevoegd voor onderwijs legt een voorstel van   beslissing voor aan de Vlaamse Regering.<BR><BR>§ 5. Het agentschap deelt de   beslissing van de Vlaamse Regering binnen een periode van twee weken   schriftelijk mee aan het schoolbestuur.</P>
+<p>§ 1. Een schoolbestuur dient de aanvraag voor een nieuwe programmatie op elektronische wijze en afzonderlijk per type in bij het Agentschap voor Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming, hierna agentschap te noemen.<br>
+<br>
+§ 2. De aanvraag wordt door het agentschap voor advies bezorgd aan de Vlaamse Onderwijsraad.<br>
+<br>
+§ 3. De Vlaamse Onderwijsraad en het agentschap brengen binnen een redelijke termijn en uiterlijk twee maanden na de ontvangst van de aanvraag, vakantieperioden niet inbegrepen, een advies uit, dat ze bezorgen aan de Vlaamse minister bevoegd voor onderwijs en aan het Departement Onderwijs en Vorming.<br>
+<br>
+De Vlaamse Onderwijsraad baseert zijn advies op het onderzoek van ten minste de beoordelingscriteria, als vermeld in artikel 9, 1° tot en met 8°.<br>
+<br>
+Het agentschap baseert zijn advies op het onderzoek van ten minste de beoordelingscriteria, als vermeld in artikel 9, 1° tot en met 8°.<br>
+<br>
+§ 4. De Vlaamse minister bevoegd voor onderwijs legt een voorstel van beslissing voor aan de Vlaamse Regering.<br>
+<br>
+§ 5. Het agentschap deelt de beslissing van de Vlaamse Regering binnen een periode van twee weken schriftelijk mee aan het schoolbestuur.</p>
 
 ## AFDELING 5 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
