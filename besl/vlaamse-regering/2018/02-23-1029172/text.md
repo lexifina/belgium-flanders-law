@@ -128,7 +128,10 @@ Het ondersteuningsnetwerk kinderopvang sluit een ondersteuningsovereenkomst met 
 
 ### ART 6.
 
-&nbsp;De subsidie&nbsp;voor de opdrachten, vermeld in artikel 3 en 4, bedraagt&nbsp;2.996.076,1 euro op jaarbasis.<br>
+De subsidie voor de opdrachten, vermeld in artikel 3 en 4, bedraagt:<br>
+1° 2.404.566,60 euro voor de periode die begint op 1 januari 2026 en eindigt op 31 augustus 2026;<br>
+2° 1.106.253,07 euro voor de periode die begint op 1 september 2026 en eindigt op 31 december 2026;<br>
+3° 3.122.917,57 euro op jaarbasis voor 2027<br>
 <br>
 De subsidie voor de opdrachten, vermeld in artikel 4/1 van dit besluit, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. De subsidie wordt op de volgende wijze berekend:<br>
 1° 126,05 euro per vergunde plaats groepsopvang voor de volgende organisatoren:<br>
@@ -151,25 +154,11 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 ### ART 8.
 
-Zolang het ondersteuningsnetwerk kinderopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 4, 4/1, 5 en 5/1, geldt de subsidie voor een duur van drie jaar.<br>
-<br>
-Als het agentschap de werking positief evalueert, wordt de subsidie telkens automatisch verlengd door het agentschap voor drie jaar.<br>
-<br>
-Het agentschap betrekt de organisatoren of hun vertegenwoordigers bij de evaluatie, vermeld in het tweede lid.<br>
-<br>
-Bij de evaluatie, vermeld in het tweede lid, wordt specifiek ook de inzet van de ondersteuners op de werkvloer, vermeld in artikel 4/1, geëvalueerd. Het ondersteuningsnetwerk kinderopvang bezorgt op verzoek van het agentschap alle nodige inlichtingen met het oog op die evaluatie.<br>
-<br>
-In afwijking van het eerste en tweede lid blijft de subsidie in 2025 voortgaan op basis van de positieve evaluatie in 2021.<br>
-&nbsp;
+Zolang het ondersteuningsnetwerk kinderopvang voldoet aan de voorwaarden om de opdrachten, vermeld in artikel 3, 4, 4/1, 5 en 5/1, te realiseren, geldt de subsidie tot en met 31 december 2027.
 
 ### ART 9.
 
-Het ondersteuningsnetwerk kinderopvang kan op de volgende wijze reserves opbouwen met de subsidies, vermeld in dit besluit :<br>
-1° de reserves worden aangewend om de opdrachten, vermeld in artikel 3, 4, 4/1, 5 en 5/1, te realiseren;<br>
-2° maximaal 20% van het subsidiebedrag kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
-3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
-4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het ondersteuningsnetwerk kinderopvang een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.<br>
-&nbsp;
+Het ondersteuningsnetwerk kinderopvang kan geen nieuwe reserves opbouwen met betrekking tot buitenschoolse opvang en activiteiten, vermeld in artikel 6, en de reserves met betrekking tot buitenschoolse opvang en activiteiten die aangelegd zijn vóór 2026 worden teruggevorderd door het agentschap.
 
 ### ART 10.
 
@@ -193,6 +182,8 @@ De subsidie wordt betaald met voorschotten per kwartaal en een saldoafrekening.<
 De voorschotten bedragen telkens 20% van het bedrag, vermeld in artikel 6, en worden de eerste maand van elk kwartaal betaald. Het saldo wordt betaald uiterlijk op 15 mei van het jaar dat volgt op het betreffende kalenderjaar.<br>
 <br>
 In afwijking van het eerste en het tweede lid kan het agentschap, bij ernstige problemen bij het ondersteuningsnetwerk kinderopvang, en minstens als er een risico is op plotse stopzetting van de opdrachten, vermeld in artikel 3, 4, 4/1, 4/2, 5 en 5/1, of bij vermoeden van fraude door het ondersteuningsnetwerk kinderopvang, beslissen om specifieke maatregelen te nemen voor de betaling van de voorschotten en de saldoafrekening, zoals het niet betalen of het verminderen van het bedrag van een voorschot.<br>
+<br>
+Als uit de jaarlijkse budgettaire planning en evaluatie blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is of als het subsidiebedrag te hoog is, betaalt het agentschap een deel van de subsidie, vermeld in artikel 6, niet uit.<br>
 &nbsp;
 
 ### ART 13.
