@@ -41,9 +41,9 @@ DE VLAAMSE REGERING BESLUIT:
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 21 november 2003: het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
 2° deelnemer: een persoon die gebruik maakt van rookstopbegeleiding;<br>
-3° organisatie rookstopbegeleiding: de organisatie rookstopbegeleiding, vermeld in artikel 5, §1, eerste lid;<br>
+3° organisatie rookstopbegeleiding: de partnerorganisatie, vermeld in artikel 34/2/2, §2, eerste lid, van het decreet van 21 november 2003;<br>
 4° regeling voor de-minimissteun aan ondernemingen belast met diensten van algemeen economisch belang: verordening (EU) 2023/2832 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen;<br>
-5° rookstopbegeleiding: een aanbod dat gericht is op de begeleiding van personen bij het stoppen met roken en vapen;<br>
+5° rookstopbegeleiding: een aanbod als vermeld in artikel 43/2/2, §1, van het decreet van 21 november 2003;<br>
 6° rookstopbegeleiding in groep: rookstopbegeleiding die bij de opstart tegelijkertijd wordt aangeboden aan minstens drie en maximaal twintig deelnemers;<br>
 7° tabakologenkadaster: het tabakologenkadaster, vermeld in artikel 5, §2;<br>
 8° verhoogde tegemoetkoming: de verhoogde verzekeringstegemoetkoming, als vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.
@@ -87,7 +87,7 @@ Voor de bedragen, vermeld in het eerste en tweede lid, worden deelnemers tot en 
 
 ### ART 5.
 
-§1. De ondersteuning van de subsidiëring van individuele zorgaanbieders voor het initiatief rookstopbegeleiding wordt gerealiseerd door een partnerorganisatie die de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, aanwijst en waaraan die een subsidie toekent conform de bepalingen van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de subsidiëring en erkenning van partnerorganisaties en organisaties met terreinwerking via een beheersovereenkomst, hierna organisatie rookstopbegeleiding te noemen.<br>
+§1. De website van het Departement Zorg vermeldt de identiteit van de organisatie rookstopbegeleiding, die overeenkomstig artikel 34/2/2, §5, eerste lid, van het decreet van 21 november 2003, optreedt als verwerkingsverantwoordelijke..<br>
 <br>
 De organisatie rookstopbegeleiding staat in voor:<br>
 1° de verwerking van de overzichten van de maandelijks geleverde prestaties rookstopbegeleiding, vermeld in artikel 6, §3;<br>
@@ -96,16 +96,18 @@ De organisatie rookstopbegeleiding staat in voor:<br>
 <br>
 §2. De organisatie rookstopbegeleiding legt een tabakologenkadaster aan waarin de individuele zorgaanbieders die rookstopbegeleiding aanbieden, worden opgenomen.<br>
 <br>
-In het tabakologenkadaster, vermeld in het eerste lid, worden al de volgende gegevens opgenomen:<br>
-1° het rijksregisternummer van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
-2° de voor- en achternaam van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
-3° het facturatieadres van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
-4° het bankrekeningnummer en de naam van de rekeninghouder, het facturatieadres, de BIC-code, het KBO-nummer, en het btw-nummer van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
-5° het beroepsadres waar de individuele zorgaanbieder de rookstopbegeleiding aan deelnemers aanbiedt;<br>
-6° de basisopleiding van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt en de overige gegevens die noodzakelijk zijn om na te gaan of de individuele zorgaanbieder voldoet aan de in artikel 6 vermelde voorwaarden;<br>
-7° de vermelding of de individuele zorgaanbieder actief is als aanbieder van rookstopbegeleiding of niet.<br>
+In het tabakologenkadaster, vermeld in het eerste lid, worden, naast de gegevens, vermeld in artikel 34/2/2, §3, tweede lid, 4° en 6°, van het decreet van 21 november 2003, al de volgende gegevens opgenomen:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
+2°&nbsp;&nbsp; &nbsp;de voor- en achternaam van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
+3°&nbsp;&nbsp; &nbsp;het telefoonnummer en het e-mailadres van de individuele zorgaanbieder die de rookstopbegeleiding aanbiedt;<br>
+4°&nbsp;&nbsp; &nbsp;het gegeven of de individuele zorgaanbieder die rookstopbegeleiding aanbiedt voor eigen rekening of in dienstverband werkt, en de naam van de onderneming waaronder de individuele zorgaanbieder werkt;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;de opleidingen, vermeld in artikel 6, §1, derde lid, van dit besluit, van de individuele zorgaanbieder, die de specifieke deskundigheid aantonen van de individuele zorgaanbieder die de rookstopbegeleiding aanbiedt;<br>
+6°&nbsp;&nbsp; &nbsp;het bankrekeningnummer, de naam van de rekeninghouder en het daaraan gekoppelde adres, het facturatieadres, de BIC-code, het KBO-nummer, en het btw-nummer van de individuele zorgaanbieder die rookstopbegeleiding aanbiedt;<br>
+7°&nbsp;&nbsp; &nbsp;de volgende persoonsgegevens van de mandaathouder die namens een individuele zorgaanbieder de uitgevoerde prestaties kan invoeren in de uitbetalingssoftware:<br>
+a)&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam.<br>
 <br>
-Als de individuele zorgaanbieder daarmee instemt, maakt de organisatie rookstopbegeleiding de gegevens, vermeld in het tweede lid, 2°, 5°, 6° en 7°, bekend op een publiek toegankelijke website.
+Als de individuele zorgaanbieder daarmee instemt, maakt de organisatie rookstopbegeleiding de gegevens, vermeld in het tweede lid, 2°, 3°, en de gegevens, vermeld in artikel 34/2/2, §3, tweede lid, 4° en 6°, van het decreet van 21 november 2003, bekend op een publiek toegankelijke website.
 
 ## Hoofdstuk 4. De uitvoering van het initiatief rookstopbegeleiding door individuele zorgaanbieders
 
@@ -167,13 +169,11 @@ Het initiatief rookstopbegeleiding kan uitsluitend worden aangeboden aan een dee
 
 ### ART 8.
 
-In het kader van rookstopbegeleiding verwerken de individuele zorgaanbieders en de organisatie rookstopbegeleiding de volgende gegevens van de deelnemers:<br>
-1° het rijksregisternummer van de deelnemer aan de rookstopbegeleiding;<br>
-2° de voor- en achternaam van de deelnemer aan de rookstopbegeleiding;<br>
-3° de postcode van de deelnemer aan de rookstopbegeleiding;<br>
-4° de leeftijd van de deelnemer aan de rookstopbegeleiding;<br>
-5° de vermelding of de deelnemer aan de rookstopbegeleiding recht heeft op de verhoogde tegemoetkoming;<br>
-6° een overzicht van de prestaties die de deelnemer in het kader van rookstopbegeleiding heeft ontvangen.<br>
+In het kader van rookstopbegeleiding verwerken de individuele zorgaanbieders en de organisatie rookstopbegeleiding naast de gegevens, vermeld in artikel 34/2/2, §3, eerste lid, 3° tot en met 7°, van het decreet van 21 november 2003, de volgende gegevens van de deelnemers aan de rookstopbegeleiding:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3°&nbsp;&nbsp; &nbsp;het adres en de werkelijke verblijfplaats;<br>
+4°&nbsp;&nbsp; &nbsp;het telefoonnummer en het e-mailadres.<br>
 <br>
 De individuele zorgaanbieder houdt zich aan de geldende regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en licht de deelnemer vóór het aanbieden van de rookstopbegeleiding in over de verwerking van zijn persoonsgegevens.<br>
 <br>
@@ -183,13 +183,13 @@ De gegevens, vermeld in het eerste lid, worden opgenomen in het overzicht, verme
 
 ### ART 9.
 
-De persoonsgegevens die worden verwerkt in het kader van de toepassing van artikel 34/2 van het decreet van 21 november 2003, worden tussen de individuele zorgaanbieder en de organisatie rookstopbegeleiding uitgewisseld via een beveiligde omgeving.
+De persoonsgegevens die worden verwerkt in het kader van de toepassing van artikel 34/2/2 van het decreet van 21 november 2003, worden tussen de individuele zorgaanbieder en de organisatie rookstopbegeleiding uitgewisseld via een beveiligde omgeving.
 
 ### ART 10.
 
-De organisatie rookstopbegeleiding neemt de volgende organisatorische en technische beveiligingsmaatregelen voor de verwerking van de persoonsgegevens in het kader van de toepassing van artikel 34/2 van het decreet van 21 november 2003:<br>
+De organisatie rookstopbegeleiding neemt de volgende organisatorische en technische beveiligingsmaatregelen voor de verwerking van de persoonsgegevens in het kader van de toepassing van artikel 34/2/2 van het decreet van 21 november 2003:<br>
 1° de medewerkers die toegang hebben tot de gegevens van de deelnemers en de individuele zorgaanbieders hebben een geheimhoudingsverklaring ondertekend. De geheimhoudingsverklaring vermeldt de verplichtingen waaraan de medewerkers moeten voldoen, en ook de mogelijke sancties die ze kunnen oplopen bij niet-naleving van het beroepsgeheim;<br>
-2° iedere deelnemer en individuele zorgaanbieder van wie gegevens worden verwerkt, kunnen via een website van de organisatie rookstopbegeleiding laagdrempelig de informatie terugvinden die overeenkomstig hoofdstuk III van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) opgenomen is over de verwerking van de persoonsgegevens.
+2° iedere deelnemer en individuele zorgaanbieder van wie gegevens worden verwerkt, kunnen via een website van de organisatie rookstopbegeleiding laagdrempelig de informatie terugvinden overeenkomstig hoofdstuk III van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).&nbsp;De organisatie rookstopbegeleiding neemt passende maatregelen opdat de deelnemer en de individuele zorgaanbieder de informatie in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal ontvangt.
 
 ## Hoofdstuk 6. Staatssteunbepalingen
 
