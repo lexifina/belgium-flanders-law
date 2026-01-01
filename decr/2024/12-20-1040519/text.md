@@ -559,6 +559,12 @@ In artikel 4, §1, van hetzelfde decreet, gewijzigd bij de decreten van 20 de-ce
 4° &nbsp;een achtste lid wordt toegevoegd, dat luidt als volgt:<br>
 “De bedragen van de toelagen in het kader van het gezinsbeleid, vermeld in deel 1 en 3 van boek 2 en deel 2 van boek 5, die ingevolge de toepassing van het vierde tot en met zesde lid werden bekomen op 31 december 2024, worden vanaf 1 januari 2025 jaarlijks op 1 september aangepast overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand juli van het jaar van de indexering, ten opzichte van de afgevlakte gezondheidsindex voor de maand juli van het jaar dat het jaar van de indexering voorafgaat, met een jaarlijkse minimale procentuele stijging van 2 procent.”.
 
+### ART 67.
+
+In artikel 5 van hetzelfde decreet, worden de volgende wijzigingen aangebracht;<br>
+1° in paragraaf 1, eerste en tweede lid, wordt de zinsnede “en de kleutertoeslagen,” telkens opgeheven;<br>
+2° paragraaf 3 wordt opgeheven.
+
 ### ART 68.
 
 In artikel 27, §1, punt 2°, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 maart 2019, worden de woorden “en het daaraan voorafgaande schooljaar” opgeheven.
@@ -586,6 +592,10 @@ Aan artikel 39 van hetzelfde decreet wordt een paragraaf 6 toegevoegd, die luidt
 In hetzelfde decreet wordt boek 2, deel 2, titel 2, dat bestaat uit artikel 49 en 50, opgeheven.<br>
 &nbsp;
 
+### ART 74.
+
+In hetzelfde decreet wordt boek 2, deel 3, titel 2, dat bestaat uit artikel 53 tot en met 56, opgeheven.
+
 ### ART 75.
 
 In hetzelfde decreet wordt artikel 54 opgeheven.
@@ -597,6 +607,10 @@ In artikel 62 van hetzelfde decreet wordt het tweede lid opgeheven.
 ### ART 77.
 
 Artikel 74 van hetzelfde decreet wordt opgeheven.
+
+### ART 78.
+
+In artikel 95 van hetzelfde decreet, gewijzigd bij de decreten van 1 juli 2022 en 21 oktober 2022, wordt het zesde lid opgeheven.
 
 ## Hoofdstuk 8. Inwerkingtreding
 
