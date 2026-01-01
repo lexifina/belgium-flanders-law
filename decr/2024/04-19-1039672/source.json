@@ -2,16 +2,16 @@
   "codex_id": 1039672,
   "title": "Decreet van 2024-04-19 tot wijziging van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters en het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039672/VolledigDocument?datum=2024-05-18",
-  "source_sha256": "0adab076748de6659b41c0830e5402c50dfb3ac113c5fd24e2d91fb4cb07335b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039672/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "b8e87d9599a2383157fada0bfd4a56c84d46c44a850b02ab6db2f65c48a3dc0d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039672&param=informatie",
-  "as_of": "2024-05-18",
+  "as_of": "2026-01-01",
   "made": "2024-04-19",
   "gazette": "2024-05-08",
   "numac": 2024004269,
   "document_start": "2024-05-18",
   "document_end": null,
-  "in_force": "2024-05-18",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2024-05-18; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
