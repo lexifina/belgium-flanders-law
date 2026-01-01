@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041949,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-03 tot wijziging van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft de financiering van de functieclassificatie voor rechten 2026 en de verhoogde eindejaarspremie voor de private sector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041949/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "8e9c12a6974427f524103a021f7655257e53c07c703e17db6dd0b6227a62ea56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041949&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-04-03",
+  "gazette": "2026-04-24",
+  "numac": 2026003049,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
