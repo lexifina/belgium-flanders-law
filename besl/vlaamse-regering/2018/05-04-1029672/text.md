@@ -1585,13 +1585,25 @@ Elke academie organiseert de leerlingenbegeleiding, vermeld in artikel 4, tweede
 
 ### ART 35/1.
 
-§ 1. Het toetsingsinstrument vermeld in artikel 57, tweede lid, van het decreet van 9 maart 2018 bevat alleen criteria die de kwaliteit van de leeromgeving garanderen. Criteria die het recht van de leerling op het les volgen in een alternatieve leercontext inperken, worden er niet in opgenomen.<br>
+§1. Conform artikel 57 van het decreet van 9 maart 2018 kan een leerling ter vervanging van leeractiviteiten in de academie deelnemen aan de artistieke werking van een amateurkunstengroep als vermeld in artikel 3, 4°, van het Amateurkunstendecreet van 8 maart 2024, een kunstenorganisatie als vermeld in artikel 3, 10°, van het Kunstendecreet van 23 april 2021, een vereniging die jongeren begeleidt naar een artistiek product als vermeld in artikel 33, §2, 4°, van het Jeugddecreet van november 2023 of een onderneming als vanaf het schooljaar 2026-2027 aan al de volgende voorwaarden wordt voldaan:<br>
+1°&nbsp;&nbsp; &nbsp;de alternatieve leercontext biedt relevante, haalbare en uitdagende onderwijsdoelen aan die samenhangen met de onderwijsdoelen die de leerling in de opleiding moet bereiken;<br>
+2°&nbsp;&nbsp; &nbsp;de alternatieve leercontext zorgt via systematische begeleiding voor het stimuleren en opvolgen van het leerproces zodat de leerling de vooropgestelde onderwijsdoelen kan bereiken;<br>
+3°&nbsp;&nbsp; &nbsp;als eindverantwoordelijke voor de evaluatie van de leerling heeft de academie zicht op de kwaliteit van de opvolging en begeleiding van het leerproces;<br>
+4°&nbsp;&nbsp; &nbsp;in samenspraak met de academie ziet de verantwoordelijke van de alternatieve leercontext er als een redelijk en voorzichtig persoon op toe dat het leren plaatsvindt in een veilige omgeving;<br>
+5°&nbsp;&nbsp; &nbsp;de leerling draagt bij aan de artistieke doelstellingen van de socio-culturele vereniging, de kunstenorganisatie of de onderneming en past zich aan de reguliere artistieke werking van die organisatie aan;<br>
+6°&nbsp;&nbsp; &nbsp;de activiteiten waaraan de leerling deelneemt, worden vooraf afgesproken met alle betrokkenen. De tijd die de leerling besteedt aan de activiteiten in de alternatieve leercontext en aan de overige leeractiviteiten van de opleiding die hij in de academie volgt, stemt overeen met de bepalingen over minimale studieomvang, vermeld in artikel 12 tot en met 20 van het decreet van 9 maart 2018;<br>
+7°&nbsp;&nbsp; &nbsp;de leerling neemt deel aan alle afgesproken activiteiten, tenzij die afwezig is om een reden als vermeld in artikel 35/3 van dit besluit.<br>
 <br>
-Het afsprakenkader vermeld in artikel 57, derde lid, van het voormelde decreet, bevat alleen concrete afspraken over de opvolging van het leerproces. Bepalingen die het recht van de leerling op het les volgen in een alternatieve leercontext inperken, worden er niet in opgenomen.<br>
+De academie voert voorafgaandelijk een kwaliteitstoets van de alternatieve leercontext uit, op basis van de haalbaarheid van de voorwaarden, vermeld in het eerste lid.<br>
 <br>
-§ 2. Elk schoolbestuur legt een toetsingsinstrument ter validering voor aan de onderwijsinspectie. Als het schoolbestuur het toetsingsinstrument wijzigt, bezorgt het de nieuwe versie aan de onderwijsinspectie.<br>
+De academie legt geen diplomavereisten op aan de persoon die in de alternatieve leercontext het leerproces van de leerling begeleidt, conform de voorwaarde, vermeld in het eerste lid, 2°.<br>
 <br>
-De onderwijsinspectie valideert het toetsingsinstrument als de criteria representatief, betrouwbaar en transparant geformuleerd zijn. De onderwijsinspectie spreekt zich niet uit over de inhoud van de criteria.
+De academie kan de deelname van een leerling aan een bepaalde alternatieve leercontext alleen op basis van de kwaliteitstoets weigeren of stopzetten. Bij een weigering of stopzetting motiveert de academie haar beslissing alleen op basis van de voorwaarden, vermeld in het eerste lid.<br>
+<br>
+§2. Het schoolbestuur en de verantwoordelijke van de alternatieve leercontext sluiten een overeenkomst die ten minste al de volgende elementen bevat:<br>
+1°&nbsp;&nbsp; &nbsp;afspraken en aansprakelijkheden voor de veiligheid van de leerling en de veiligheid van de leeromgeving;<br>
+2°&nbsp;&nbsp; &nbsp;de werkwijze voor de registratie van de aan- en afwezigheden, de begeleiding en de opvolging van de leerling;<br>
+3°&nbsp;&nbsp; &nbsp;afspraken over de bereikbaarheid van contactpersonen.
 
 ## [Onderafdeling 5. Veranderen van opleiding in de loop van het schooljaar (ing. BVR 24 mei 2019, art. 19, I: 1 september 2019)]
 
@@ -2039,11 +2051,11 @@ De minister neemt voor 15 mei een beslissing over de erkenning en financiering o
 
 ### ART 54/1.
 
-Het schoolbestuur dat conform artikel 118bis van het decreet van 9 maart 2018 een bijzondere vestigingsplaats in gebruik wil nemen dient uiterlijk op 30 september van het schooljaar waarin het de bijzondere vestigingsplaats wil in gebruik nemen, een aanvraag in bij het Agentschap voor Onderwijsdiensten. Het Agentschap voor Onderwijsdiensten stelt een aanvraagformulier ter beschikking.<br>
+Het schoolbestuur dat conform artikel 118bis van het decreet van 9 maart 2018 een bijzondere vestigingsplaats in gebruik wil nemen, meldt dit aan het Agentschap voor Onderwijsdiensten op uiterlijk 30 september van het schooljaar waarin het de bijzondere vestigingsplaats in gebruik wil nemen. Het Agentschap voor Onderwijsdiensten stelt een formulier ter beschikking.<br>
 <br>
-Het schoolbestuur verantwoordt in de aanvraag, vermeld in het eerste lid, dat de vestigingsplaats voldoet aan de definitie van bijzondere vestigingsplaats, vermeld in artikel 3, 13°, of aan de criteria, vermeld in artikel 118bis, 1°, van het decreet van 9 maart 2018. Daarbij toont het schoolbestuur aan dat de schoolinfrastructuur noodzakelijk is voor de leeractiviteiten die er gegeven worden en niet verplaatst kan worden of dat de leerlingenpopulatie die er verblijft zich niet kan verplaatsen naar een andere vestigingsplaats van de academie. Het schoolbestuur voegt een protocol van onderhandelingen in het bevoegde lokale comité toe.<br>
+Het schoolbestuur verklaart op eer dat de vestigingsplaats voldoet aan de definitie van bijzondere vestigingsplaats, vermeld in artikel 3, 13°, van hetzelfde decreet. Het schoolbestuur voegt een protocol van onderhandelingen in het bevoegde lokale comité toe.<br>
 <br>
-De minister neemt uiterlijk op 1 december een beslissing over de ingebruikname van de bijzondere vestigingsplaats op advies van het Agentschap voor Onderwijsdiensten en de onderwijsinspectie.
+De minister neemt uiterlijk op 1 december een beslissing over de ingebruikname van de bijzondere vestigingsplaats op advies van het Agentschap voor Onderwijsdiensten.
 
 ## Afdeling 2. Onderwijsbevoegdheid
 
@@ -2080,7 +2092,7 @@ Een academie kan maximaal drie muziekinstrumenten aanbieden uit een cluster waar
 2° de aanvraag is ingediend binnen de aanvraagtermijn, vermeld in artikel 55;<br>
 3° de aanvraag is ingediend conform de voorwaarden, vermeld in artikel 55 tot en met 58 van dit besluit en artikel 130 van het decreet van 9 maart 2018.<br>
 <br>
-De ontvankelijk verklaarde aanvragen worden voor advies aan de Vlaamse Onderwijsraad bezorgd en vervolgens beoordeeld door een adviescommissie die bestaat uit vertegenwoordigers van het Agentschap voor Onderwijsdiensten, het Departement Onderwijs en Vorming en de onderwijsinspectie.<br>
+De ontvankelijk verklaarde aanvragen worden voor advies aan de Vlaamse Onderwijsraad bezorgd en vervolgens beoordeeld door een adviescommissie die bestaat uit vertegenwoordigers van het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming.<br>
 <br>
 Bij de beoordeling van de aanvragen houdt de adviescommissie rekening met al de volgende criteria:<br>
 1° de nieuw aangevraagde onderwijsbevoegdheid sluit aan bij de visie van het schoolbestuur over vernieuwing en verbreding van het aanbod;<br>
@@ -2103,7 +2115,7 @@ Als een academie onderwijsbevoegdheid heeft verworven voor een cluster waarvan d
 
 Een schoolbestuur kan onderwijsbevoegdheid aanvragen voor een optie die niet in artikel 3, 5, 7 of 9 voorkomt of een muziekinstrument dat niet in artikel 11 tot en met 14 voorkomt. Het schoolbestuur kan daarbij een voorstel tot een nieuw vak toevoegen.<br>
 <br>
-In het geval, vermeld in het eerste lid, dient het schoolbestuur een gemotiveerde aanvraag in bij het Agentschap voor Onderwijsdiensten, dat de ontvankelijkheid beoordeelt conform artikel 56, § 1, eerste lid. Het agentschap legt de vraag vervolgens voor aan de Vlaamse Onderwijsraad en een commissie bestaande uit de Onderwijsinspectie, het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming. Op basis van dat advies neemt de minister een beslissing voor 15 mei, over de optie of het muziekinstrument en, in voorkomend geval, de nieuwe vakken.<br>
+In het geval, vermeld in het eerste lid, dient het schoolbestuur een gemotiveerde aanvraag in bij het Agentschap voor Onderwijsdiensten, dat de ontvankelijkheid beoordeelt conform artikel 56, § 1, eerste lid. Het agentschap legt de vraag vervolgens voor aan de Vlaamse Onderwijsraad en een commissie bestaande uit&nbsp; het Agentschap voor Onderwijsdiensten en het Departement Onderwijs en Vorming. Op basis van dat advies neemt de minister een beslissing voor 15 mei, over de optie of het muziekinstrument en, in voorkomend geval, de nieuwe vakken.<br>
 <br>
 Bij de beoordeling van de aanvragen houdt de adviescommissie, naast de criteria vermeld in artikel 56 § 1 derde lid, rekening met de volgende criteria:<br>
 1° de mate waarin de aangevraagde optie of het aangevraagde vak of muziekinstrument zich onderscheidt van het bestaande aanbod, vermeld in artikel 3 tot en met 15;<br>
