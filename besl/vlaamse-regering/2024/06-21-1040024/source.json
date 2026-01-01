@@ -2,16 +2,16 @@
   "codex_id": 1040024,
   "title": "Besluit van de Vlaamse Regering van 2024-06-21 houdende wijziging van diverse besluiten met betrekking tot de operationalisering van de Vlaamse Nutsregulator",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040024/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "b66a2bd2e5fcf748eae09a92651d2654a0d897ae693347327dcf5b5647642665",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040024/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "4a341fe33d1705df4d89ab6dfab311dc28ef0d1268cea08ed53efa1600e9c9d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040024&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-01",
   "made": "2024-06-21",
   "gazette": "2024-08-09",
   "numac": 2024007309,
   "document_start": "2025-01-01",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 131,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 143,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

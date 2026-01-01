@@ -392,6 +392,52 @@ In het opschrift van titel XI, hoofdstuk I/1, van hetzelfde besluit wordt het wo
 
 In artikel 11.1/1.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 mei 2014, wordt het woord “VREG” vervangen door de woorden “Vlaamse Nutsregulator”.
 
+## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 5 februari 2016 houdende tariefregulering van de integrale drinkwaterfactuur
+
+### ART 88.
+
+In artikel 4, §3, van het besluit van de Vlaamse Regering van 5 februari 2016 houdende tariefregulering van de integrale drinkwaterfactuur, gewijzigd bij het besluit van de Vlaamse Regering van 12 mei 2023, wordt het woord “WaterRegulator” vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 89.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2018, wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 90.
+
+In artikel 6, derde lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2018, wordt het woord “WaterRegulator” vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 91.
+
+In artikel 7 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2018, wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 92.
+
+In artikel 8, tweede lid, van hetzelfde besluit wordt het woord “WaterRegulator” vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 93.
+
+In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2018 en 12 mei 2023, wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 94.
+
+In artikel 10 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2018 en 12 mei 2023, wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 95.
+
+In het opschrift van hoofdstuk 3, afdeling 3, van hetzelfde besluit wordt het woord “WaterRegulator” vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 96.
+
+In artikel 12 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2018 en 12 mei 2023, wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 97.
+
+In artikel 23 van hetzelfde besluit wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 98.
+
+In artikel 23/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2018, wordt het woord “WaterRegulator” telkens vervangen door de woorden “Vlaamse Nutsregulator”.
+
 ## Hoofdstuk 4. Wijziging van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet
 
 ### ART 99.
@@ -545,6 +591,12 @@ In artikel 7 van het besluit van de Vlaamse Regering van 7 februari 2020 tot erk
 ### ART 127.
 
 In punt 8°, b), van bijlage 1 bij het besluit van de Vlaamse Regering van 29 oktober 2021 over de juridische eerstelijnsbijstand worden de woorden “Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG)” vervangen door de woorden “Vlaamse Nutsregulator”.
+
+## Hoofdstuk 9. Wijziging van het besluit van de Vlaamse Regering van 20 januari 2023 over de kwaliteit, kwantiteit en levering van water bestemd voor menselijke consumptie
+
+### ART 128.
+
+In artikel 1, §3, van het besluit van de Vlaamse Regering van 20 januari 2023 over de kwaliteit, kwantiteit en levering van water bestemd voor menselijke consumptie wordt het woord “WaterRegulator” vervangen door de woorden “Vlaamse Nutsregulator”.
 
 ## Hoofdstuk 10. Wijzigingen aan het besluit van de Vlaamse Regering van 7 juni 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest
 
