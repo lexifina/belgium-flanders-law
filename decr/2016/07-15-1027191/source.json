@@ -2,16 +2,16 @@
   "codex_id": 1027191,
   "title": "Decreet van 2016-07-15 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027191/VolledigDocument?datum=2020-01-01",
-  "source_sha256": "44cfa7eeb293990250d185d63f2c08606076253c14e31c5fa49accbde0f066be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027191/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "717405915a3f26830f8e4b05254e4397ec10b7774eb67dcc923b1f5267f2f233",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027191&param=informatie",
-  "as_of": "2020-01-01",
+  "as_of": "2026-01-01",
   "made": "2016-07-15",
   "gazette": "2016-09-06",
   "numac": 2016036218,
   "document_start": "2017-07-01",
   "document_end": null,
-  "in_force": "2020-01-01",
+  "in_force": "2026-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2020-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -13,6 +13,7 @@ Dit decreet regelt een gewestaangelegenheid.
 In dit decreet wordt verstaan onder:<br>
 1° kleine onderneming: een onderneming die minder dan tien werknemers heeft;<br>
 2° onderneming: iedere entiteit, ongeacht haar rechtsvorm, die een economische activiteit uitoefent.<br>
+3° de-minimisverordening: verordening (EU) nr. 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 15 december 2023, L-serie, blz. 1-12), en de latere wijzigingen ervan.<br>
 <br>
 De Vlaamse Regering kan de aanvullende voorwaarden van de definities bepalen.
 
@@ -20,37 +21,29 @@ De Vlaamse Regering kan de aanvullende voorwaarden van de definities bepalen.
 
 ### ART 3.
 
-Deze regelgeving valt onder de toepassing van verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad van 24 december 2013, L 352, blz. 1-8), en de latere wijzigingen ervan.
+Deze regelgeving valt onder de toepassing van de de-minimisverordening.
 
 ## HOOFDSTUK 4. Algemene voorwaarden
 
 ### ART 4.
 
-De Vlaamse Regering kan binnen de perken van de begrotingskredieten een hinderpremie A verlenen aan kleine ondernemingen met een vestiging in het Vlaamse Gewest onder de voorwaarden, vermeld in de De-minimisverordening, dit decreet en de uitvoeringsbesluiten.<br>
+De Vlaamse Regering kan binnen de perken van de begrotingskredieten een hinderpremie verlenen aan kleine ondernemingen met een vestiging in het&nbsp;Vlaamse Gewest onder de voorwaarden, vermeld in de de-minimisverordening, dit decreet en de uitvoeringsbesluiten.<br>
 <br>
-De vestiging van een kleine onderneming, vermeld in het eerste lid, moet gedurende een bepaalde minimale periode ernstige hinder van openbare werken hebben en in deze vestiging moeten voornamelijk activiteiten worden uitgeoefend die in aanmerking komen.<br>
+De vestiging van een kleine onderneming, vermeld in het eerste lid, moet gedurende een bepaalde minimale periode gesloten worden als gevolg van ernstige hinder door openbare werken.&nbsp;De Vlaamse Regering stelt voormelde minimale periode vast.<br>
 <br>
-Onder in aanmerking komende activiteiten als vermeld in het tweede lid wordt verstaan: de activiteiten die strekken tot de rechtstreekse verkoop van producten of het verlenen van diensten aan eindgebruikers, waarvoor persoonlijk en direct contact met de klanten vereist is, en die redelijkerwijze moeilijk kunnen worden uitgeoefend op verplaatsing.<br>
-<br>
-De hinderpremie A kan voorafgaand aan de ernstige hinder door openbare werken worden toegekend.<br>
-<br>
-De Vlaamse Regering kan binnen de perken van de begrotingskredieten een bijkomende of een afzonderlijke hinderpremie B verlenen aan kleine ondernemingen onder de voorwaarden, vermeld in het eerste, tweede en derde lid, en onder de bijkomende voorwaarde dat de vestiging van een kleine onderneming als vermeld in het eerste lid gesloten wordt als gevolg van de ernstige hinder door openbare werken. De Vlaamse Regering kan die voorwaarden op een verschillende wijze verder uitvoeren naargelang het een bijkomende of een afzonderlijke hinderpremie B betreft.<br>
-<br>
-De hinderpremie B wordt na de start van de ernstige hinder door openbare werken verleend.
+In deze vestiging moeten voornamelijk activiteiten worden uitgeoefend die strekken tot de rechtstreekse verkoop van producten of het verlenen van diensten aan eindgebruikers, waarvoor persoonlijk en direct contact met de klanten vereist is, en die redelijkerwijze moeilijk kunnen worden uitgeoefend op verplaatsing. De hinderpremie wordt na de start van de ernstige hinder door openbare werken verleend.
 
 ## HOOFDSTUK 5. Hoogte van de hinderpremie
 
 ### ART 5.
 
-De hinderpremie A bedraagt 2000 euro en wordt maximaal eenmaal over een bepaalde periode toegekend.<br>
-<br>
-In functie van de beschikbare begrotingskredieten kan de Vlaamse Regering de hoogte van de hinderpremie A aanpassen en de periode, vermeld in het eerste lid, vastleggen.
+...
 
 ### ART 6.
 
-De hinderpremie B bedraagt 80 euro per sluitingsdag en wordt toegekend voor een te bepalen maximaal aantal sluitingsdagen en vanaf een te bepalen aantal sluitingsdagen.<br>
+De hinderpremie bedraagt 80 euro per sluitingsdag en wordt toegekend voor een te bepalen maximaal aantal sluitingsdagen en vanaf een te bepalen aantal sluitingsdagen.<br>
 <br>
-In functie van de beschikbare begrotingskredieten kan de Vlaamse Regering de hoogte van de hinderpremie B aanpassen en het aantal sluitingsdagen, vermeld in het eerste lid, vastleggen.
+In functie van de beschikbare begrotingskredieten kan de Vlaamse Regering de hoogte van de hinderpremie aanpassen en het aantal sluitingsdagen, vermeld in het eerste lid, vastleggen.
 
 ## HOOFDSTUK 6. Terugvordering
 
