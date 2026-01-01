@@ -24,6 +24,11 @@ In hetzelfde decreet worden de volgende artikelen opgeheven:<br>
 In titel 3, hoofdstuk 4, van hetzelfde decreet, gewijzigd bij de decreten van 8 juli 2016, 29 maart 2019 en 23 juni 2023, wordt afdeling 1, die bestaat uit artikel<br>
 12 tot en met 19, opgeheven.
 
+### ART 5.
+
+In titel 3, hoofdstuk 4, van hetzelfde decreet, gewijzigd bij de decreten van 8 juli 2016, 29 maart 2019 en 23 juni 2023, wordt afdeling 3, die bestaat uit artikel<br>
+22 tot en met 30, opgeheven.
+
 ### ART 6.
 
 In titel 3 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 juni 2023, wordt hoofdstuk 7, dat bestaat uit artikel 50 en 51, opgeheven.
