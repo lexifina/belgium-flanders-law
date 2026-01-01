@@ -201,14 +201,6 @@ De periodieke aflossingen van lening- en leasingschulden mogen worden gedaan met
 <br>
 § 4. De periode van de aanpassing van het meerjarenplan blijft altijd de periode, vermeld in artikel 7, § 1, maar de staat van het financieel evenwicht, vermeld in paragraaf 3, 3°, beschrijft altijd de financiële consequenties voor ten minste drie toekomstige boekjaren. Het overzicht van de kredieten van een aanpassing van het meerjarenplan bevat de kredieten voor het volgende boekjaar, voor het lopende boekjaar, of voor beide, en een vermelding die aanduidt welke situatie van toepassing is.<br>
 <br>
-In afwijking van het eerste lid kan de periode van het lopende meerjarenplan jaarlijks met een jaar verlengd worden, zolang het college na de Brusselse Gewestelijke verkiezingen nog niet in zijn nieuwe samenstelling geïnstalleerd is. Het overzicht van de kredieten bevat alleen kredieten voor:&nbsp;<br>
-1°&nbsp;&nbsp; &nbsp;het aangaan en wijzigen van verbintenissen die verband houden met de courante werking en de bestaande dienstverlening;<br>
-2°&nbsp;&nbsp; &nbsp;maatregelen die noodzakelijk zijn ter uitvoering van nieuw Vlaams beleid, conform het op te stellen afsprakenkader inzake afstemming en informatieplicht tussen het college en de minister.&nbsp;<br>
-<br>
-De aangepaste staat van het financieel evenwicht, vermeld in paragraaf 3, 3°, beschrijft de financiële consequenties voor ten minste drie toekomstige boekjaren.<br>
-&nbsp;&nbsp; &nbsp;<br>
-Zodra het college in zijn nieuwe samenstelling is geïnstalleerd, stelt de raad binnen een redelijke termijn een meerjarenplan vast voor de resterende periode die loopt tot het einde van het boekjaar dat volgt op het jaar waarin de daaropvolgende raad voor het eerst in zijn nieuwe samenstelling bijeenkomt. Die resterende periode kan ook het lopende boekjaar omvatten.<br>
-<br>
 § 5. Het college bepaalt, voor 1 maart van het lopende boekjaar, welk gedeelte van de kredieten voor investeringen en financiering die voor het vorige boekjaar opgenomen waren in het meerjarenplan maar nog niet zijn aangewend, overgedragen worden naar het lopende boekjaar.<br>
 <br>
 Het college bezorgt de gegevens over de stand van het meerjarenplan na de overdrachten, vermeld in het eerste lid, onmiddellijk in digitale vorm aan de Vlaamse Regering.
