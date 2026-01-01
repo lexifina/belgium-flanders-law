@@ -608,6 +608,40 @@ In artikel 1 van het besluit van de Vlaamse Regering van 30 november 2018 houden
 1° in punt 25° wordt tussen het woord “erkend” en het woord “met” de zinsnede “conform de procedure, vermeld in artikel 358/7 tot en met 358/17,” ingevoegd;<br>
 2° in punt 48° wordt de zinsnede “artikel 356” vervangen door de zinsnede “de procedure, vermeld in artikel 358/7 tot en met 358/17,”.
 
+### ART 70.
+
+In artikel 151, §1, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 28 juni 2019, 28 mei 2021, 26 november 2021 en 13 mei 2022, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt een punt 9° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“9° de gebruiker voldoet bij een verlenging aan een van de voorwaarden, vermeld in artikel 182, eerste lid, 1° en 2°, van dit besluit, en had geen recht op tegemoetkomingen tijdens de vorige beslissing.”;<br>
+2° in het derde lid wordt de zinsnede “van 38” vervangen door de zinsnede “van artikel 38”.
+
+### ART 71.
+
+Aan artikel 167, §2, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 26 november 2021, wordt een punt 5° toegevoegd, dat luidt als volgt:&nbsp;<br>
+“5° als een gebruiker aan een van de voorwaarden voldoet, vermeld in artikel 182, eerste lid, 1° en 2°, en de gebruiker geen recht had op tegemoetkomingen tijdens de vorige beslissing, loopt de geldigheidsduur van de beslissing tot en met de laatste dag van de maand waarin het budget, vermeld in artikel 182, eerste lid, 1° of 2°, beëindigd wordt.”.
+
+### ART 72.
+
+In artikel 182 van hetzelfde besluit wordt punt 4° opgeheven.
+
+### ART 73.
+
+In artikel 185 van hetzelfde besluit wordt de zinsnede “artikel 182, 3° en 4°” telkens vervangen door de zinsnede “artikel 182, 3°.
+
+### ART 74.
+
+In artikel 190, §1, derde lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 28 mei 2021, wordt de zin “Een beslissing tot stopzetting van het zorgbudget voor zwaar zorgbehoevenden wordt in voorkomend geval door de zorgkas ook meegedeeld aan de gemachtigde indicatiesteller waarbinnen de persoon werkt die, conform artikel 156, eerste lid, de indicatiestelling heeft uitgevoerd die heeft geleid tot de oorspronkelijke positieve beslissing tot toekenning van het zorgbudget.” opgeheven.
+
+### ART 75.
+
+In artikel 238, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 mei 2021, worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° punt 1° wordt opgeheven;<br>
+2° in punt 13° worden de woorden “het besluit van het besluit van” vervangen door de woorden “het besluit van”.
+
+### ART 76.
+
+In artikel 261, 2°, van hetzelfde besluit wordt de zinsnede “65 jaar” vervangen door de zinsnede “85 jaar”.
+
 ### ART 77.
 
 In artikel 358/11, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 november 2023, worden de volgende wijzigingen aangebracht:&nbsp;<br>
@@ -652,7 +686,19 @@ In artikel 534/128/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 
 In artikel 534/219, §4, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2024, worden de woorden “initiatieven van beschut wonen” vervangen door de woorden “multidisciplinaire begeleidingsequipes voor palliatieve verzorging”.
 
+### ART 84.
+
+Artikel 647 van hetzelfde besluit wordt opgeheven.
+
 ## Hoofdstuk 30. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag
+
+### ART 85.
+
+In het opschrift van het besluit van de Vlaamse Regering van 7 december 2018 houdende de kinderopvangtoeslag en kleutertoeslag worden de woorden “en kleutertoeslag” opgeheven.
+
+### ART 86.
+
+In het hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2021, wordt hoofdstuk 3, dat bestaat uit artikel 8 tot en met 11, opgeheven.
 
 ## Hoofdstuk 31. Wijzigingen van het besluit van de Vlaamse Regering van 7 december 2018 houdende de uitvoering van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging
 
