@@ -31,6 +31,12 @@ In artikel 28, §5, eerste lid, van het besluit van de Vlaamse regering van 24 j
 
 ## Hoofdstuk 2. Wijziging van het besluit van de Vlaamse regering van 19 januari 2001 houdende de vaststelling van de criteria van toekenning van onderhoudstoelagen aan centra of diensten voor revalidatie
 
+### ART 2.
+
+In artikel 5 van het besluit van de Vlaamse regering van 19 januari 2001 houdende de vaststelling van de criteria van toekenning van onderhoudstoelagen aan centra of diensten voor revalidatie wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“Het subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de afgevlakte gezondheidsindex, vermeld in titel I, hoofdstuk II, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna de G-index te noemen, volgens de volgende formule: bedrag X-1 × G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.”.
+
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 19 juli 2007 tot vaststelling van de bepalingen en voorwaarden van erkenning en subsidiëring van organisaties inzake vrijetijdszorg voor personen met een handicap
 
 ### ART 3.
