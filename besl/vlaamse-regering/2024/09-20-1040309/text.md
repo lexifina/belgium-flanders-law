@@ -92,15 +92,19 @@ De bronretributie na indexering wordt afgerond naar de hogere tien cent.<br>
 <br>
 Een professionele aanvrager kan binnen vijf werkdagen nadere toelichting verstrekken en opmerkingen formuleren bij het voornemen van het Vlaams Datanutsbedrijf om de toegang te schorsen of op te heffen.&nbsp;<br>
 <br>
-Nadat de termijn, vermeld in het tweede lid, is afgelopen, beschikt het Vlaams Datanutsbedrijf over vijf werkdagen om te beslissen en de professionele aanvrager op de hoogte te brengen van zijn beslissing.&nbsp;<br>
+Nadat de termijn, vermeld in het tweede lid, is verstreken, neemt het Vlaams Datanutsbedrijf binnen vijf werkdagen een beslissing over de schorsing of opheffing van de toegang tot het VIP. Het Vlaams Datanutsbedrijf geeft kennis van de beslissing aan de professionele aanvrager. Als de kennisgeving per post gebeurt, wordt zij geacht te zijn gedaan op de tweede werkdag na de verzending.&nbsp;<br>
 <br>
-De schorsing of opheffing begint te lopen vanaf de kennisgeving, vermeld in het derde lid.&nbsp;<br>
+De schorsing of opheffing begint te lopen vanaf de kennisgeving, vermeld in het derde lid.<br>
+<br>
+In deze paragraaf wordt verstaan onder werkdag: een dag in de week die niet valt op een zaterdag, een zondag, een wettelijke feestdag of in de periode tussen 25 december en 1 januari.&nbsp;<br>
 <br>
 §2. Een schorsing geldt voor minstens tien dagen en hoogstens negentig dagen.<br>
 <br>
 Als het Vlaams Datanutsbedrijf ondanks een voorafgaande schorsingsmaatregel vaststelt dat de professionele aanvrager zich nog altijd in een of meer van de gevallen, vermeld in artikel 4, §2, bevindt, heft hij de toegang tot het VIP op, nadat hij de professionele aanvrager voorafgaandelijk heeft gehoord.<br>
 <br>
-§3. Het Vlaams Datanutsbedrijf kan de schorsing of opheffing op elk moment intrekken als hij oordeelt dat de redenen voor de schorsing of opheffing niet meer bestaan. Het Vlaams Datanutsbedrijf brengt de professionele aanvrager op de hoogte van die intrekking.
+Het Vlaams Datanutsbedrijf kan de schorsing of opheffing op elk moment beëindigen als het oordeelt dat de redenen voor de schorsing of opheffing niet meer bestaan. Het Vlaams Datanutsbedrijf brengt de professionele aanvrager op de hoogte van die beëindiging.<br>
+<br>
+§3. Het Vlaams Datanutsbedrijf kan de schorsing of opheffing op elk moment intrekken als het oordeelt dat de redenen voor de schorsing of opheffing niet meer bestaan. Het Vlaams Datanutsbedrijf brengt de professionele aanvrager op de hoogte van die intrekking.
 
 ## Hoofdstuk 4. Wijzigingsbepalingen
 
