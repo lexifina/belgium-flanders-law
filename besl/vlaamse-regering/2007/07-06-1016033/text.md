@@ -21,7 +21,7 @@ Het dossier met het voorstel bevat ten minste de volgende elementen :<br>
 
 ### ART. 3.
 
-De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming legt het voorstel voor aan de vertegenwoordigers van het Gemeenschapsonderwijs, de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs, het Departement Onderwijs en Vorming, het Agentschap voor Onderwijsdiensten en de Onderwijsinspectie, die advies geven op basis van de criteria, vermeld in artikel 5. De bevoegde dienst kan ook de aanvrager of deskundigen raadplegen over het dossier.
+De bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming legt het voorstel voor aan de vertegenwoordigers van het Gemeenschapsonderwijs, de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs, het Departement Onderwijs en Vorming en het Agentschap voor Onderwijsdiensten, die advies geven op basis van de criteria, vermeld in artikel 5. De bevoegde dienst kan ook de aanvrager of deskundigen raadplegen over het dossier.
 
 ### ART. 4.
 
