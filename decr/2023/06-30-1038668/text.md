@@ -28,45 +28,19 @@ Artikel 1 van het koninklijk besluit van 22 september 1931 betreffende het Konin
 
 In het decreet van 29 maart 2019 houdende diverse bepalingen in het beleidsveld cultuur wordt hoofdstuk 6, dat bestaat uit artikel 19 tot en met 33, opgeheven.
 
-## Afdeling 3. Subsidies aan de vzw Centrum voor de Bibliografie van de Neerlandistiek
+## Afdeling 3. ...
 
 ### ART 6.
 
-De Vlaamse Regering subsidieert de vzw Centrum voor de Bibliografie van de Neerlandistiek. Deze werkingssubsidie omvat de subsidiëring van een kern van personeelsleden, een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten.<br>
-<br>
-De subsidie, vermeld in het eerste lid, wordt toegekend op voorwaarde dat de vereniging de strategische doelstelling vervult om de publicaties die verschijnen op het gebied van de neerlandistiek in de meest ruime zin te inventariseren en te ontsluiten. De vereniging is daarbij verantwoordelijk voor de beschrijving en de indexering van de Vlaamse publicaties in verband met de Nederlandse taal- en letterkunde en stelt deze informatie digitaal ter beschikking voor externe gebruikers.<br>
-&nbsp;<br>
-De vereniging dient daartoe jaarlijks voor 1 december een actieplan in voor het komende jaar.<br>
-<br>
-De Vlaamse Regering bepaalt op basis van dit actieplan en op basis van de beschikbare informatie over de werking van de vereniging in de voorbije werkingsjaren de hoogte van de subsidie.<br>
-<br>
-De vereniging dient jaarlijks uiterlijk op 31 maart een verantwoording in over het voorbije jaar.
+...
 
 ### ART 7.
 
-De vereniging die op basis van artikel 6 een subsidie ontvangt, erkent het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.<br>
-<br>
-De vereniging kan een sociaal passief aanleggen ten laste van de subsidie.
+...
 
 ### ART 8.
 
-De Vlaamse Regering kan voor de vereniging, vermeld in artikel 6, de nadere regels bepalen voor de volgende aspecten:<br>
-1° de indiening van het actieplan;<br>
-2° de beoordeling van het actieplan;<br>
-3° de toekenning van de subsidie op basis van het actieplan;<br>
-4° de uitbetaling van de subsidie in een voorschot en een saldo na toezicht;<br>
-5° de verantwoording van de subsidie bestaande uit de volgende elementen:<br>
-&nbsp; a) een functionele verantwoording die bestaat uit een overzicht en evaluatie van de werking;<br>
-&nbsp; b) een financiële verantwoording die bestaat uit al de volgende elementen:<br>
-&nbsp; &nbsp; 1) de jaarrekening, die bestaat uit de balans, de resultatenrekening en de toelichting;<br>
-&nbsp; &nbsp; 2) de specificatie van alle bezoldigingen;<br>
-&nbsp; &nbsp; 3) een verslag van een gecertificeerde accountant of bedrijfsrevisor die niet betrokken is bij de dagelijkse inhoudelijke, organisatorische en zakelijke werking van de organisatie;<br>
-&nbsp; c) eventuele bijkomende beleidsrelevante gegevens met het oog op monitoring;<br>
-6° de categorieën van subsidiabele en niet-subsidiabele kosten;<br>
-7° het toezicht op de aanwending van de subsidie door de bevoegde administratie;<br>
-8° de eventuele remediëring en de maatregelen naar aanleiding van het toezicht;<br>
-9° de indicatoren die toelaten om bij de beleidsevaluatie de subsidie inhoudelijk en financieel te evalueren;<br>
-10° de openbaarmaking van de resultaten van de gesubsidieerde activiteiten.
+...
 
 ## Hoofdstuk 3. Omgeving
 
