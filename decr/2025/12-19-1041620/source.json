@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041620,
+  "title": "Decreet van 2025-12-19 tot uitlegging van artikel 2, 35°, en tot wijziging van artikel 17, §2, artikel 92 en artikel 218, §2, van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041620/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "0afae8ff81c79ec866fb9ddb81c09734698ab6954382498d1e22b5df4c9ea913",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041620&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-19",
+  "gazette": "2025-12-29",
+  "numac": 2025009814,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
