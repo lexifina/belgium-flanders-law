@@ -197,7 +197,7 @@ Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijk
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.<br>
 <br>
-§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een&nbsp;erkende woonmaatschappij worden gehuurd conform de voorwaarden ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021 en in artikel 4.168 van het Besluit Vlaamse Codex Wonen van 2021.<br>
+§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een&nbsp;erkende woonmaatschappij worden gehuurd conform de voorwaarden ter uitvoering van artikel 4.40, 4°, van de Vlaamse Codex Wonen van 2021 en in artikel 4.147 van het Besluit Vlaamse Codex Wonen van 2021 en waarvan de oorspronkelijke hoofd-huurovereenkomst met de woonmaatschappij een aanvangsdatum heeft vóór 1 januari 2026.<br>
 <br>
 Het verlaagde tarief, vermeld in het eerste lid, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkende woonmaatschappij. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst wordt uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld.<br>
 <br>
@@ -522,9 +522,9 @@ De plaats, de datum en het uur van de weging of van het volledige   onderzoek va
 
 ### ART. 2.2.4.0.1.
 
-<p>§ 1. De belasting wordt, ofwel per periode van twaalf opeenvolgende maanden, ofwel per kalenderjaar, berekend op de wijze die in de hierna volgende paragrafen wordt vermeld.<br>
+<p>§1. De belasting wordt, ofwel per periode van twaalf opeenvolgende maanden, ofwel per kalenderjaar, berekend op de wijze die in de hierna volgende paragrafen wordt vermeld.<br>
 <br>
-§ 2. Voor de personenauto's, de auto's voor dubbel gebruik en de minibussen wordt de belasting berekend, op basis van fiscale paardenkracht (pk), volgens de volgende tabel :</p>
+§2. Voor de personenauto's, de auto's voor dubbel gebruik en de minibussen wordt de belasting berekend, op basis van fiscale paardenkracht (pk), volgens de volgende tabel :</p>
 &nbsp;
 
 <table border="1">
@@ -608,7 +608,8 @@ De plaats, de datum en het uur van de weging of van het volledige   onderzoek va
 	</tbody>
 </table>
 
-<p>&nbsp;§ 2/1. Voor de personenauto's, de auto's voor dubbel gebruik en de minibussen die na 31 december 2015 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt de belasting berekend, op basis van de tabel, vermeld in paragraaf 2, met in achtneming van volgende elementen:<br>
+<p><br>
+§2/1. Voor de personenauto's, de auto's voor dubbel gebruik en de minibussen die na 31 december 2015 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt de belasting berekend, op basis van de tabel, vermeld in paragraaf 2, met in achtneming van volgende elementen:<br>
 1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de op het moment van de eerste inschrijving geldende Europese regelgeving, wordt het tarief<br>
 a) vermeerderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer boven 122 gram en niet hoger dan 500 gram;<br>
 b) verminderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer onder 122 gram, maar hoger dan 24 gram;<br>
@@ -675,7 +676,7 @@ In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overee
 <br>
 Deze paragraaf is alleen van toepassing op wegvoertuigen van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
-&nbsp;§ 2/2. Voor de personenauto's, de auto's voor dubbel gebruik en de minibus- sen die voor de eerste keer na 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt de belasting berekend, vermeld in paragraaf 2/1, met dien verstande dat het element, vermeld onder paragraaf 2/1, 1°, als volgt wordt toegepast: in functie van de CO2-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief:<br>
+§2/2. Voor de personenauto's, de auto's voor dubbel gebruik en de minibus- sen die voor de eerste keer na 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt de belasting berekend, vermeld in paragraaf 2/1, met dien verstande dat het element, vermeld onder paragraaf 2/1, 1°, als volgt wordt toegepast: in functie van de CO2-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief:<br>
 a) vermeerderd met 0,30% voor iedere gram CO2-uitstoot per kilometer boven 149 gram en niet hoger dan 500 gram;<br>
 b) verminderd met 0,30% voor iedere gram CO2-uitstoot per kilometer onder 149 gram, maar hoger dan 24 gram.<br>
 <br>
@@ -683,9 +684,9 @@ Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen e
 <br>
 Deze paragraaf is ook van toepassing op de personenauto's, de auto's voor dubbel gebruik en de minibussen die voor de eerste keer na 31 december 2020 worden ingeschreven bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat, wanneer zij nadien worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.<br>
 <br>
-§ 3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen waarvan&nbsp;het maximaal toegestane totaalgewicht 3 500 kilogram niet overschrijdt, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, andere dan die, vermeld in paragraaf 6, bedraagt de belasting 19,32 euro per 500 kg maximaal toegestane totaalgewicht.<br>
+§3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen waarvan&nbsp;het maximaal toegestane totaalgewicht 3 500 kilogram niet overschrijdt, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, andere dan die, vermeld in paragraaf 6, bedraagt de belasting 19,32 euro per 500 kg maximaal toegestane totaalgewicht.<br>
 <br>
-§ 3/1. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa, met inachtneming van volgende elementen:<br>
+§3/1. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa, met inachtneming van volgende elementen:<br>
 1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de op het moment van de eerste inschrijving geldende Europese regelgeving, wordt het tarief<br>
 a) vermeerderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer boven 122 gram en niet hoger dan 500 gram;<br>
 b) verminderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer onder 122 gram, maar hoger dan 24 gram;<br>
@@ -750,7 +751,7 @@ In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overee
 <br>
 Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
-§ 3/2. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa hoger is dan 2500 kilogram en 3500 kilogram niet overschrijdt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa.<br>
+§3/2. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa hoger is dan 2500 kilogram en 3500 kilogram niet overschrijdt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa.<br>
 <br>
 In functie van de euronorm van het voertuig en, in voorkomend geval, de aanwezigheid van een roetfilter wordt het tarief, vermeld in het eerste lid, met een percentage vermeerderd of verminderd conform de volgende tabel:<br>
 &nbsp;
@@ -803,7 +804,7 @@ In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overee
 <br>
 Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
-§ 3/3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die voor de eerste keer na 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, wordt de belasting berekend als vermeld in paragraaf 3/1, met dien verstande dat het element, vermeld onder paragraaf 3/1, 1°, als volgt wordt toegepast: in functie van de CO2-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief:<br>
+§3/3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die voor de eerste keer na 31 december 2020 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, wordt de belasting berekend als vermeld in paragraaf 3/1, met dien verstande dat het element, vermeld onder paragraaf 3/1, 1°, als volgt wordt toegepast: in functie van de CO2-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief:<br>
 a) vermeerderd met 0,30% voor iedere gram CO2-uitstoot per kilometer boven 149 gram en niet hoger dan 500 gram;<br>
 b) verminderd met 0,30% voor iedere gram CO2-uitstoot per kilometer onder 149 gram, maar hoger dan 24 gram.<br>
 <br>
@@ -811,9 +812,9 @@ Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen e
 <br>
 Deze paragraaf is ook van toepassing op de motorvoertuigen, vermeld in het eerste lid, die voor de eerste keer na 31 december 2020 worden in- geschreven bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat, wanneer zij nadien worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.<br>
 <br>
-§ 4. Voor de motorfietsen bedraagt de belasting 49,44 euro.<br>
+§4. Voor de motorfietsen bedraagt de belasting 49,44 euro.<br>
 <br>
-§ 5 Voor de autobussen en de autocars bedraagt de belasting 4,44 euro per fiscale paardenkracht als het belastbaar vermogen 10 fiscale paardenkracht niet te boven gaat, met een minimum van 69,94 euro.<br>
+§5 Voor de autobussen en de autocars bedraagt de belasting 4,44 euro per fiscale paardenkracht als het belastbaar vermogen 10 fiscale paardenkracht niet te boven gaat, met een minimum van 69,94 euro.<br>
 <br>
 Als het belastbaar vermogen 10 fiscale paardenkracht te boven gaat, wordt de belasting voor de autobussen en de autocars berekend, op basis van fiscale paardenkracht (pk), volgens de volgende tabel :<br>
 &nbsp;
@@ -966,7 +967,7 @@ Als het belastbaar vermogen 10 fiscale paardenkracht te boven gaat, wordt de bel
 	</tbody>
 </table>
 <br>
-§ 6. Voor de motorvoertuigen of de samengestelde voertuigen, bestemd voor het vervoer van goederen, waarvan het maximaal toegestane totaalgewicht 3,5 ton overschrijdt, maar minder bedraagt dan 12 ton, bedraagt de belasting 0 euro.<br>
+§6. Voor de motorvoertuigen of de samengestelde voertuigen, bestemd voor het vervoer van goederen, waarvan het maximaal toegestane totaalgewicht 3,5 ton overschrijdt, maar minder bedraagt dan 12 ton, bedraagt de belasting 0 euro.<br>
 <br>
 Voor de motorvoertuigen of de samengestelde voertuigen, bestemd voor het vervoer van goederen, waarvan het maximaal toegestane totaalgewicht 12 ton of meer bedraagt, wordt de belasting, afhankelijk van het aantal assen van het voertuig en de aard van de ophanging, berekend volgens de volgende bepalingen en tabellen :<br>
 1° voor de alleenrijdende motorvoertuigen is het in aanmerking te nemen maximaal toegestane totaalgewicht (MTT) voor de toepassing van onderstaande tabel het eigen maximaal toegestane totaalgewicht van het motorvoertuig;<br>
@@ -1157,7 +1158,8 @@ COMBINATIES (GELEDE VOERTUIGEN EN SAMENSTELLEN)<br>
 		</tr>
 	</tbody>
 </table>
-<br>
+&nbsp;
+
 <table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -1339,11 +1341,11 @@ COMBINATIES (GELEDE VOERTUIGEN EN SAMENSTELLEN)<br>
 <br>
 De bedragen, vermeld in de tabellen in het tweede lid, omvatten reeds de opdeciem, vermeld in artikel 2.2.4.0.5, § 2, eerste lid.<br>
 <br>
-§ 7. De aanhangwagens en de opleggers zijn onderworpen aan een belasting van respectievelijk 32,64 euro of 67,80 euro, naargelang&nbsp;het maximaal toegestane totaalgewicht niet hoger is dan 500 kg, of 501 kg bereikt zonder 3500 kg te overschrijden.<br>
+§7. De aanhangwagens en de opleggers zijn onderworpen aan een belasting van respectievelijk 32,64 euro of 67,80 euro, naargelang&nbsp;het maximaal toegestane totaalgewicht niet hoger is dan 500 kg, of 501 kg bereikt zonder 3500 kg te overschrijden.<br>
 <br>
 In afwijking van het eerste lid zijn de aanhangwagens en opleggers waarvan de maximaal toegelaten massa 750 kg niet overschrijdt en die uitsluitend getrokken worden door een personenauto, een auto voor dubbel gebruik, een minibus, een ziekenauto, een motorfiets, een lichte vrachtauto, een kampeerwagen, een autobus of een autocar, vrijgesteld van de belasting. Die vrijstelling geldt alleen als de belastingplichtige een natuurlijke persoon is of een andere rechtspersoon dan een vennootschap, autonoom overheidsbedrijf en vereniging zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
-§ 8. Voor de kampeerwagens wordt de belasting berekend volgens de volgende tabel :<br>
+§8. Voor de kampeerwagens wordt de belasting berekend volgens de volgende tabel :<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -1388,7 +1390,14 @@ In afwijking van het eerste lid zijn de aanhangwagens en opleggers waarvan de ma
 <p><br>
 Deze bepaling is alleen van toepassing op natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
-De kampeerwagens vallen buiten de toepassing van artikel 2.2.6.0.1, § 1, eerste lid, 13°, en artikel 2.2.6.0.1, § 2, 2°.</p>
+De kampeerwagens vallen buiten de toepassing van artikel 2.2.6.0.1, § 1, eerste lid, 13°, en artikel 2.2.6.0.1, § 2, 2°.<br>
+<br>
+§9. Voor alle voertuigen als vermeld in dit artikel, met uitzondering van deze, vermeld in paragraaf 4 en paragraaf 6, die uitsluitend aangedreven worden door een elektrische motor of door waterstof en die na 31 december 2025 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, bedraagt de belasting 93,60 euro.<br>
+<br>
+Deze bepaling geldt voor voertuigen van:<br>
+1°&nbsp;&nbsp; &nbsp;vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten;<br>
+2°&nbsp;&nbsp; &nbsp;natuurlijke personen en rechtspersonen, andere dan deze, vermeld in punt 1°.<br>
+&nbsp;</p>
 
 ### ART. 2.2.4.0.2.
 
@@ -1411,7 +1420,7 @@ Deze paragraaf is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4
 
 ### ART. 2.2.4.0.3.
 
-<p>De belasting, vastgesteld volgens artikel 2.2.4.0.1, § 2, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste lid, § 3/2, eerste lid, en § 4, de minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, &nbsp;artikel 2.2.4.0.1, § 3/1, tweede lid, artikel 2.2.4.0.1, § 3/2, derde lid,&nbsp;en artikel 2.2.4.0.1, § 5, de belastingen, vermeld in artikel 2.2.4.0.1, § 7, alsook de belasting, vermeld in artikel 2.2.4.0.2, § 1, en de minimumbelasting, vermeld in artikel 2.2.4.0.2, § 2, alsook het bedrag, vermeld in artikel 2.2.5.0.4, zijn gekoppeld aan de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk. De belastingbedragen worden aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige jaar en de maand mei van het lopende jaar. De belastingbedragen, vermeld in artikel 2.2.4.0.1, met uitzondering van paragraaf 2/1, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1 en § 3/2, en artikel 2.2.4.0.2, §1, eerste lid, 2°, en §2, zijn de bedragen die van toepassing waren op 1 juli 2013. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en artikel 2.2.5.0.4, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2015. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 3, voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste en tweede lid, en § 3/2, eerste en derde lid, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2017.&nbsp;Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.2, §1, eerste lid, 1° en 1/1°, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2023.</p>
+<p>De belasting, vastgesteld volgens artikel 2.2.4.0.1, § 2, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste lid, § 3/2, eerste lid, en § 4, de minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, &nbsp;artikel 2.2.4.0.1, § 3/1, tweede lid, artikel 2.2.4.0.1, § 3/2, derde lid,&nbsp;en artikel 2.2.4.0.1, § 5, de belastingen, vermeld in artikel 2.2.4.0.1, § 7 en artikel 2.2.4.0.1, §9, alsook de belasting, vermeld in artikel 2.2.4.0.2, § 1, en de minimumbelasting, vermeld in artikel 2.2.4.0.2, § 2, alsook het bedrag, vermeld in artikel 2.2.5.0.4, zijn gekoppeld aan de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk. De belastingbedragen worden aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige jaar en de maand mei van het lopende jaar. De belastingbedragen, vermeld in artikel 2.2.4.0.1, met uitzondering van paragraaf 2/1, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1 en § 3/2, en artikel 2.2.4.0.2, §1, eerste lid, 2°, en §2, zijn de bedragen die van toepassing waren op 1 juli 2013. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en artikel 2.2.5.0.4, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2015. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 3, voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste en tweede lid, en § 3/2, eerste en derde lid, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2017.&nbsp;Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.2, §1, eerste lid, 1° en 1/1°, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2023.&nbsp;Voor de toepassing van de indexatie is het bedrag, vermeld in artikel 2.2.4.0.1, §9, het bedrag dat geldt alsof het van toepassing was op 1 juli 2025.</p>
 
 <p>De aangepaste belastingbedragen, vermeld in het eerste lid, kunnen met maximaal 0,11 euro worden verlaagd om een veelvoud van twaalf te vormen.</p>
 
@@ -1850,9 +1859,15 @@ De Vlaamse Regering bepaalt de wijze van de aanvraag van de terugbetaling, verme
 
 ### ART. 2.2.6.0.6.
 
-Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.<br>
+Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof&nbsp;en die uiterlijk op 31 december 2025 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt geen belasting geheven.<br>
 <br>
-Dit artikel is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.1, § 6.
+Dit artikel is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.1, § 6.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt ook toegekend voor voertuigen, die na 31 december 2025 ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid of bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat en nadien in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, en die voldoen aan de volgende voorwaarden:<br>
+1° &nbsp;het voertuig werd vóór 6 oktober 2025 besteld;<br>
+2° een kopie van de bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 januari 2026, samen met een formulier, afgeleverd door deze entiteit, dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de volgende gegevens bevat:<br>
+a)&nbsp;&nbsp; &nbsp;hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voornamen, de achternaam en het domicilieadres van de natuurlijke persoon of de naam, de rechtsvorm en het adres van de maatschappelijke zetel van de rechtspersoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.
 
 ### ART. 2.2.6.0.7.
 
@@ -1919,7 +1934,9 @@ Overeenkomstig artikel 94 van het federale Wetboek van 23 november 1965   van de
 
 ### ART. 2.3.4.1.1.
 
-De belasting op de personenauto's, auto's voor dubbel gebruik en de minibussen, vermeld in artikel 1.1.0.0.2, vierde lid, 1°, die worden geacht in het verkeer te zijn gesteld in het Vlaamse Gewest, met uitzondering van de voertuigen die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, wordt berekend op de wijze, vermeld in artikel 2.3.4.1.2 tot en met 2.3.4.1.7 en artikel 2.3.6.0.3.
+De belasting op de personenauto's, auto's voor dubbel gebruik en de minibussen, vermeld in artikel 1.1.0.0.2, vierde lid, 1°, die worden geacht in het verkeer te zijn gesteld in het Vlaamse Gewest, met uitzondering van de voertuigen die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, wordt berekend op de wijze, vermeld in artikel 2.3.4.1.2 tot en met 2.3.4.1.7 en artikel 2.3.6.0.3.<br>
+<br>
+In afwijking van het eerste lid bedraagt de belasting voor de voertuigen, die uitsluitend aangedreven worden door een elektrische motor of door waterstof en die na 31 december 2025 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, 61,50 euro.
 
 ### ART. 2.3.4.1.2.
 
@@ -2498,7 +2515,7 @@ Een voertuig op aardgas is een voertuig waarvan de motor, ook al is het maar ged
 
 ### ART. 2.3.4.2.1.
 
-§ 1. De belasting op andere voertuigen dan de voertuigen, vermeld in artikel 2.3.4.1.1, wordt berekend op de wijze die hierna wordt vermeld :<br>
+§1. De belasting op andere voertuigen dan de voertuigen, vermeld in artikel 2.3.4.1.1, wordt berekend op de wijze die hierna wordt vermeld :<br>
 1° voor de personenauto's, auto's voor dubbel gebruik, minibussen en motorfietsen wordt de belasting berekend op basis van de volgende tabel :<br>
 <br>
 &nbsp;
@@ -2552,11 +2569,11 @@ Als het vermogen van eenzelfde motor, uitgedrukt in fiscale paardenkracht (pk) e
 2° de belasting bedraagt 619 euro voor ultralichte motorluchtvaartuigen en 2478 euro voor alle andere luchtvaartuigen;<br>
 3° de belasting bedraagt 2478 euro voor boten.</p>
 
-<p>§ 2. Voor de wegvoertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, wordt de belasting, berekend conform paragraaf 1, 1°, verminderd met 298 euro, in voorkomend geval beperkt tot het bedrag van de belasting.</p>
+<p>§2. Voor de wegvoertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, wordt de belasting, berekend conform paragraaf 1, 1°, verminderd met 298 euro, in voorkomend geval beperkt tot het bedrag van de belasting.</p>
 
 <p>Als de verbrandingsmotor van een wegvoertuig wordt aangedreven door verschillende brandstofsoorten en het voertuig daardoor in aanmerking komt voor een combinatie van de vermindering voor benzine en lpg, wordt de toe te kennen vermindering beperkt tot het hoogste bedrag dat voor dat aanslagjaar voor een bepaalde soort van brandstof van toepassing is.<br>
 <br>
-§ 3. De belasting, berekend conform paragraaf 1, 1°, en paragraaf 2, wordt verminderd tot het percentage van de belasting voor de wegvoertuigen, vermeld in de volgende tabel, naargelang de voertuigen al ingeschreven zijn geweest in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
+§3. De belasting, berekend conform paragraaf 1, 1°, en paragraaf 2, wordt verminderd tot het percentage van de belasting voor de wegvoertuigen, vermeld in de volgende tabel, naargelang de voertuigen al ingeschreven zijn geweest in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
 &nbsp;
 
 <table border="1">
@@ -2624,21 +2641,12 @@ Als het vermogen van eenzelfde motor, uitgedrukt in fiscale paardenkracht (pk) e
 	</tbody>
 </table>
 
-<p><br>
-In afwijking van het eerste lid bedraagt de belasting voor de voertuigen die vijftien jaar en meer ingeschreven geweest zijn 61,50 euro.</p>
+<p>In afwijking van het eerste lid bedraagt de belasting voor de voertuigen die vijftien jaar en meer ingeschreven geweest zijn 61,50 euro.</p>
 
 <p>Na toepassing van het eerste lid mag de belasting voor een voertuig niet minder dan 61,50 euro bedragen.</p>
 
 <p>De belasting, berekend conform paragraaf 1, 2° en 3°, wordt verminderd tot het percentage van de belasting voor de luchtvaartuigen en boten, vermeld in de volgende tabel, naargelang de luchtvaartuigen en boten al normaal ingeschreven geweest zijn of voorzien geweest zijn van een vlaggenbrief in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-&nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -2687,7 +2695,9 @@ In afwijking van het eerste lid bedraagt de belasting voor de voertuigen die vij
 In afwijking van het vierde lid bedraagt de belasting 61,50 euro voor :<br>
 1° de luchtvaartuigen en boten die tien jaar of ouder zijn;<br>
 2° de zelfbouwvliegtuigen, met uitzondering van de zelfbouwvliegtuigen die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten;<br>
-3° de paramotoren, met uitzondering van de paramotoren die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.
+3° de paramotoren, met uitzondering van de paramotoren die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
+<br>
+§4. In afwijking van paragraaf 1, 2 en 3, bedraagt de belasting voor de voertuigen, die uitsluitend aangedreven worden door een elektrische motor of door waterstof en die na 31 december 2025 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, 61,50 euro.
 
 ### ART. 2.3.4.2.2.
 
@@ -2746,7 +2756,13 @@ In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsysteme
 
 ### ART. 2.3.6.0.2.
 
-<p>Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.</p>
+<p>Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof en die uiterlijk op 31 december 2025 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid wordt geen belasting geheven.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt ook toegekend voor voertuigen, die na 31 december 2025 ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid of bij een vergelijkbare instelling binnen de Europese Economische Ruimte of een andere staat en nadien in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, en die voldoen aan de volgende voorwaarden:<br>
+1° &nbsp;het voertuig werd vóór 6 oktober 2025 besteld;<br>
+2° een kopie van de bestelbon wordt aan de bevoegde entiteit van de Vlaamse administratie bezorgd voor 15 januari 2026, samen met een formulier, afgeleverd door deze entiteit, dat wordt ondertekend door de betrokken belastingplichtige, en dat minstens de volgende gegevens bevat:<br>
+a)&nbsp;&nbsp; &nbsp;hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de persoon op wiens naam het voertuig ingeschreven werd of zal ingeschreven worden in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voornamen, de achternaam en het domicilieadres van de natuurlijke persoon of de naam, de rechtsvorm en het adres van de maatschappelijke zetel van de rechtspersoon op wiens naam het voertuig ingeschreven werd of zal worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.</p>
 
 ### ART. 2.3.6.0.3.
 
@@ -3230,7 +3246,42 @@ De heffing wordt vastgesteld op basis van het kadastraal inkomen van de   gronde
 
 ### ART. 2.6.4.0.1.
 
-De heffing wordt berekend volgens de volgende tabel, waarbij het   kadastraal inkomen wordt verdeeld in schijven, die elk worden onderworpen aan   een specifiek heffingspercentage : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>schijf van het kadastraal inkomen in euro       <TD>percentage van toepassing op het overeenstemmende gedeelte       <TD>totaalbedrag van de heffing op het voorgaande gedeelte in euro <BR>    <TR>      <TD>tot en met 12.350       <TD>150       <TD>/ <BR>    <TR>      <TD>van 12.351 tot en met 37.150       <TD>125       <TD>18.525 <BR>    <TR>      <TD>van 37.151 tot en met 74.350       <TD>100       <TD>49.525 <BR>    <TR>      <TD>vanaf 74.351       <TD>75       <TD>123.875<BR></TD></TR></TBODY></TABLE>  <P><BR>De heffing bedraagt nooit minder dan 3.700 euro.<BR></P>  <P>Voor de niet-landbouwbedrijven komt het bedrag van de heffing minstens   overeen met een tarief van 2,47 euro/m<SUP>2</SUP> oppervlakte van het grondvlak   van het terrein, vastgelegd door de diensten van de Algemene Administratie van   de Patrimoniumdocumentatie. Zo niet geldt de laatste heffing als   minimumtarief.<BR></P>
+De heffing wordt berekend volgens de volgende tabel, waarbij het kadastraal inkomen wordt verdeeld in de volgende schijven, die elk worden onderworpen aan de volgende een heffingspercentages:<br>
+&nbsp;
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:160px"><strong>schijf van het kadastraal inkomen in euro</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:196px"><strong>percentage van toepassing op het overeenstemmende gedeelte</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:67px; vertical-align:top; width:196px"><strong>totaalbedrag van de heffing op het voorgaande gedeelte in euro</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:160px">tot en met 12.350</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:196px">168</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:196px">/</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:160px">van 12.351 tot en met 37.150</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:196px">140</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:196px">20.748</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:160px">van 37.151 tot en met 74.350</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:196px">112</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:35px; vertical-align:top; width:196px">55.468</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:160px">vanaf 74.351</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:196px">84</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:196px">97.132</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<p>De heffing bedraagt nooit minder dan 3.700 euro.</p>
+
+<p>Voor de niet-landbouwbedrijven komt het bedrag van de heffing minstens overeen met een tarief van 2,47 euro/m<sup>2</sup> oppervlakte van het grondvlak van het terrein, vastgelegd door de diensten van de Algemene Administratie van de Patrimoniumdocumentatie. Zo niet geldt de laatste heffing als minimumtarief.</p>
 
 ### ART. 2.6.4.0.2.
 
@@ -3498,7 +3549,9 @@ Als in de gevallen, vermeld in artikel 2.7.1.0.7, 2.7.1.0.8 en 2.7.1.0.9,   niet
 <br>
 § 2. Als een persoon met een handicap of een gehandicapt kind als vermeld in paragraaf 1, onderworpen is aan het tarief, vermeld in tabel I van artikel 2.7.4.1.1, wordt het bedrag van het abattement&nbsp;eerst toegerekend op zijn overeenkomstig artikel 2.7.4.1.1, § 2, derde lid, of artikel 2.7.6.0.6 niet vrijgestelde gedeelte van het netto onroerend aandeel, vervolgens op zijn overeenkomstig artikel 2.7.6.0.6 niet vrijgestelde gedeelte van het netto roerend aandeel en bij uitputting van dat aandeel tot slot op de belastbare grondslag waarop het verlaagde tarief voor familiale ondernemingen en vennootschappen, met toepassing van artikel 2.7.4.2.2, wordt berekend.<br>
 <br>
-Als een persoon met een handicap of een gehandicapt kind als vermeld in paragraaf 1, samen met personen op wie het tarief `tussen anderen' van toepassing is, onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, wordt, in afwijking van artikel 2.7.4.1.1, de belasting voor de persoon met een handicap of het gehandicapte kind berekend alsof hij als enige voor de nettoverkrijging van de nalatenschap in aanmerking komt. Voor de andere verkrijgers wordt conform artikel 2.7.4.1.1 de belasting berekend alsof de persoon met een handicap of het gehandicapte kind die hoedanigheid niet heeft.
+Als een persoon met een handicap of een gehandicapt kind als vermeld in paragraaf 1, samen met personen op wie het tarief `tussen anderen' van toepassing is, onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, wordt, in afwijking van artikel 2.7.4.1.1, de belasting voor de persoon met een handicap of het gehandicapte kind berekend alsof hij als enige voor de nettoverkrijging van de nalatenschap in aanmerking komt. Voor de andere verkrijgers wordt conform artikel 2.7.4.1.1 de belasting berekend alsof de persoon met een handicap of het gehandicapte kind die hoedanigheid niet heeft.<br>
+<br>
+§3. Als een persoon met een handicap als vermeld in paragraaf 1, volledig of gedeeltelijk onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, §1, wordt het bedrag van het abattement eerst toegerekend op het gedeelte van de verkrijging dat onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, §1, en bij uitputting van dat aandeel op de belastbare grondslag waarop het verlaagde tarief wordt berekend, met toepassing van artikel 2.7.4.2.5.
 
 ### ART. 2.7.3.2.13.
 
@@ -3554,7 +3607,11 @@ Als passief van de nalatenschap van een rijksinwoner wordt alleen het volgende a
 <br>
 Als passief van de nalatenschap van een erflater die geen rijksinwoner is, maar die zijn domicilie of de zetel van zijn vermogen binnen de Europees Economische Ruimte had, worden alleen de schulden aanvaard waarvan de aangevers het bewijs leveren dat ze specifiek zijn aangegaan om de onroerende goederen te verwerven of te behouden.<br>
 <br>
-De regels voor de waardering van de goederen die het actief van de nalatenschap samenstellen, vermeld in artikel 2.7.3.3.1 tot en met artikel 2.7.3.3.7, zijn van toepassing op de waardering van het passief van de nalatenschap.
+De regels voor de waardering van de goederen die het actief van de nalatenschap samenstellen, vermeld in artikel 2.7.3.3.1 tot en met artikel 2.7.3.3.7, zijn van toepassing op de waardering van het passief van de nalatenschap.<br>
+<br>
+Het bedrag van de regularisatieheffing die is geheven en betaald in uitvoering van een federale wet die een systeem van fiscale regularisatie voorziet, wordt gelijkgesteld met een schuld van de erflater als vermeld in het eerste lid, 1°. Die schuld wordt alleen als passief van de nalatenschap aanvaard als al de volgende voorwaarden zijn vervuld:<br>
+1° de geregulariseerde inkomsten of kapitalen en de activa in kwestie die die inkomsten hebben gegenereerd, zijn aangegeven in een aangifte van nalatenschap;&nbsp;<br>
+2° de inkomsten en bedragen die zijn aangegeven in de regularisatieaangifte en waarvoor de regularisatieheffing is betaald, zijn door de erflater behaald of verkregen.
 
 ### ART. 2.7.3.4.2.
 
@@ -3743,8 +3800,8 @@ Het verlaagde tarief, vermeld in het eerste&nbsp;en het tweede lid, is ook van t
 ### ART. 2.7.4.2.2.
 
 § 1. In afwijking van artikel 2.7.4.1.1 wordt het tarief van de erfbelasting verlaagd tot 3% voor een verkrijging in rechte lijn en tussen partners en tot 7% voor een verkrijging tussen andere personen voor :<br>
-1° de nettoverkrijging van de volle eigendom, de blote eigendom of het vruchtgebruik van de activa die door de erflater of zijn partner beroepsmatig zijn geïnvesteerd in een familiale onderneming. Het verlaagde tarief is niet van toepassing op de verkrijging van onroerende goederen die hoofdzakelijk tot bewoning worden aangewend of zijn bestemd;<br>
-2° de nettoverkrijging van de volle eigendom, het vruchtgebruik of de blote eigendom van aandelen van een familiale vennootschap met zetel van werkelijke leiding in een van de staten van de Europese Economische Ruimte, op voorwaarde dat de aandelen van de vennootschap die op het ogenblik van het overlijden in volle eigendom toebehoren aan de erflater en zijn familie ten minste 50% van de stemrechten in die vennootschap vertegenwoordigen.<br>
+1° de nettoverkrijging van de volle eigendom, de blote eigendom of het vruchtgebruik van de activa die door de erflater of zijn partner beroepsmatig zijn geïnvesteerd in een familiale onderneming. Het verlaagde tarief is niet van toepassing op de verkrijging van onroerende goederen die hoofdzakelijk tot bewoning worden aangewend of zijn bestemd, met inbegrip van bouwgronden als vermeld in artikel 1.1.0.0.2, zesde lid, 1°/1;<br>
+2° de nettoverkrijging van de volle eigendom, het vruchtgebruik of de blote eigendom van aandelen van een familiale vennootschap met zetel van werkelijke leiding in een van de staten van de Europese Economische Ruimte, op voorwaarde dat de aandelen van de vennootschap die op het ogenblik van het overlijden in volle eigendom toebehoren aan de erflater en zijn familie ten minste 50% van de stemrechten in die vennootschap vertegenwoordigen.&nbsp;Het verlaagde tarief is niet van toepassing op het gedeelte van de waarde van de aandelen dat de onroerende goederen, vermeld in punt 1°, in de familiale vennootschap, of in participaties van minstens 10% van de familiale vennootschap in haar dochtervennootschappen, vertegenwoordigt. Deze beperking is niet van toepassing voor familiale vennootschappen waarvan de omzet voor minstens 75% wordt gegenereerd door de uitoefening van een activiteit die betrekking heeft op onroerende goederen, vermeld in punt 1°.<br>
 <br>
 In afwijking van het eerste lid vertegenwoordigen de aandelen van de vennootschap die op het ogenblik van het overlijden in volle eigendom toebehoren aan de erflater en zijn familie minstens 30% van de stemrechten in die vennootschap, als hij en zijn familie aan een van de volgende voorwaarden voldoen:<br>
 1° samen met één andere aandeelhouder en zijn familie volle eigenaar zijn van de aandelen van de vennootschap die minstens 70% van de stemrechten in die vennootschap vertegenwoordigen;<br>
@@ -3756,13 +3813,7 @@ Voor de toepassing van het tweede lid komen de aandelen die toebehoren aan recht
 1° familiale onderneming : een nijverheids-, handels-, ambachts- of landbouwbedrijf of een vrij beroep dat door de erflater of zijn partner, al dan niet samen met anderen, persoonlijk wordt geëxploiteerd en uitgeoefend;<br>
 2° familiale vennootschap : een vennootschap die de uitoefening van een nijverheids-, handels-, ambachts- of landbouwactiviteit, of van een vrij beroep tot&nbsp;voorwerp heeft en uitoefent.<br>
 Als de vennootschap aan het voorgaande niet beantwoordt, maar&nbsp;aandelen houdt die minstens 30% van de stemrechten van één directe dochtervennootschap vertegenwoordigen die aan die voorwaarde beantwoordt en die haar zetel van werkelijke leiding heeft in een van de staten van de Europese Economische Ruimte, wordt ze ook beschouwd als een familiale vennootschap.<br>
-Vennootschappen die geen reële economische activiteit hebben, worden uitgesloten van het verlaagde tarief, vermeld in paragraaf 1. Een vennootschap wordt geacht geen reële economische activiteit te hebben als uit de balansposten van ofwel de goedgekeurde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, 2°, eerste lid, ofwel de goedgekeurde geconsolideerde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, 2°, tweede lid, van minstens een van de drie boekjaren voorafgaand aan de datum van overlijden van de erflater cumulatief blijkt :<br>
-a) dat de bezoldigingen, sociale lasten en pensioenen een percentage gelijk of lager dan 1,50 % uitmaken van de totale activa;<br>
-b) de terreinen en gebouwen meer dan 50 % uitmaken van het totale actief. De verkrijger kan het tegenbewijs daarvan leveren.<br>
-Voor de toepassing van de hiervoor vermelde omschrijving moet worden begrepen onder :<br>
-a) bezoldigingen, sociale lasten en pensioenen : de waarde, opgenomen onder de gelijknamige post van de resultatenrekening van de jaarrekening of onder een soortgelijke post van de geconsolideerde jaarrekening. Als een vennootschap geen jaarrekening volgens het standaardmodel naar Belgisch recht hoeft neer te leggen, wordt de waarde die opgenomen is onder de post waaruit alle kosten blijken die naar hun aard als kosten kunnen worden beschouwd voor de tewerkstelling van personeel in dienstverband;<br>
-b) terreinen en gebouwen : de waarde, opgenomen onder de gelijknamige balanspost van de jaarrekening of van de geconsolideerde jaarrekening, of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening. Als een vennootschap geen jaarrekening volgens het standaardmodel naar Belgisch recht hoeft neer te leggen, wordt een soortgelijke post bedoeld die opgenomen is onder de post materiële vaste activa;<br>
-c) totaal actief : de waarde, opgenomen onder de balanspost totaal van de activa van de jaarrekening of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening;<br>
+Vennootschappen die geen reële economische activiteit hebben, worden uitgesloten van het verlaagde tarief, vermeld in paragraaf 1. Voor een vennootschap waarvan de omzet voor minstens 75% wordt gegenereerd door de uitoefening van een activiteit die betrekking heeft op onroerende goederen, vermeld in paragraaf 1, eerste lid, 1°, kan het uitsluiten van de beperking vermeld in artikel 2.7.4.2.2, §1, eerste lid, 2°, slechts gelden op voorwaarde dat de vennootschap in de drie jaar voorafgaand aan het overlijden minstens één tewerkgestelde werknemer telt, uitgedrukt in voltijdse eenheden;<br>
 3° aandelen :<br>
 a) naargelang het geval:<br>
 1) als de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: elk deelbewijs met stemrecht dat een deel van het kapitaal vertegenwoordigt;<br>
@@ -3782,18 +3833,56 @@ d) de kinderen van broers en zussen van de erflater of aandeelhouder.<br>
 1° als een activiteit van de familiale onderneming zonder onderbreking wordt voortgezet gedurende drie jaar vanaf de datum van het overlijden van de erflater;<br>
 2° als de onroerende goederen die met toepassing van het verlaagde tarief zijn overgedragen, niet hoofdzakelijk tot bewoning aangewend of bestemd worden gedurende een periode van drie jaar vanaf de datum van het overlijden van de erflater.<br>
 <br>
-§ 2. Het verlaagde tarief, vermeld in artikel 2.7.4.2.2, § 1, eerste lid, 2°, wordt alleen behouden als de volgende voorwaarden cumulatief zijn vervuld :<br>
-1° de familiale vennootschap blijft gedurende drie jaar vanaf de datum van het overlijden van de erflater voldoen aan de voorwaarden, vermeld in artikel 2.7.4.2.2, § 2, 2° ;<br>
-2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van het overlijden van de erflater en voor elk van de drie jaar wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt en in voorkomend geval gepubliceerd overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de zetel gevestigd is op het ogenblik van het overlijden, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting.<br>
-Ondernemingen of vennootschappen waarvan de zetel buiten het Vlaamse Gewest, maar binnen België ligt, moeten een jaarrekening of geconsolideerde jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving in België op het ogenblik van het overlijden;<br>
-3° naargelang het geval:<br>
-a) wanneer de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt niet door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van het overlijden van de erflater;<br>
-b) wanneer de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: het eigen vermogen daalt niet gedurende drie jaar vanaf de datum van het overlijden van de erflater door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van het overlijden verrichte inbrengen, zoals dat blijkt uit de jaarrekening;<br>
-4° de zetel van de werkelijke leiding van de vennootschap wordt niet overgebracht naar een staat die geen deel uitmaakt van de Europese Economische Ruimte gedurende drie jaar vanaf de datum van het overlijden van de erflater.
+§2. Het verlaagde tarief, vermeld in artikel 2.7.4.2.2, §1, eerste lid, 2°, wordt alleen behouden als al de volgende voorwaarden zijn vervuld:<br>
+1° de familiale vennootschap blijft gedurende drie jaar vanaf de datum van het overlijden van de erflater voldoen aan de voorwaarden, vermeld in artikel 2.7.4.2.2, §2, 2°;<br>
+2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van het overlijden van de erflater;<br>
+3° voor elk van de drie jaar vanaf het overlijden van de erflater wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt en in voorkomend geval gepubliceerd conform de geldende boekhoudwetgeving van de lidstaat waar de zetel gevestigd is op het ogenblik van het overlijden, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting. Ondernemingen of vennootschappen waarvan de zetel buiten het Vlaamse Gewest, maar binnen België ligt, maken een jaarrekening of geconsolideerde jaarrekening op en in voorkomend geval publiceren ze die conform de geldende boekhoudwetgeving in België op het ogenblik van het overlijden;<br>
+4° &nbsp;naargelang het geval:<br>
+a)&nbsp;&nbsp; &nbsp;als de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, of een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt op geen enkel moment door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van het overlijden van de erflater;<br>
+b)&nbsp;&nbsp; &nbsp;als de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: de verrichte inbrengen dalen op geen enkel moment gedurende drie jaar vanaf de datum van het overlijden van de erflater door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van het overlijden verrichte inbrengen, zoals dat blijkt uit de jaarrekening;<br>
+5° de zetel van de werkelijke leiding van de vennootschap wordt niet overgebracht naar een staat die geen deel uitmaakt van de Europese Economische Ruimte gedurende drie jaar vanaf de datum van het overlijden van de erflater.
 
 ### ART. 2.7.4.2.4.
 
-§ 1. Na verloop van een termijn van drie jaar vanaf de datum van het   overlijden van de erflater controleren de bevoegde personeelsleden of de   voorwaarden, gesteld voor het behoud van het verlaagde tarief, vervuld   zijn.<BR><BR>Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid,   wordt de erfbelasting geacht verschuldigd te zijn, berekend tegen het tarief,   vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde   tarief.<BR><BR>Bij niet-vervulling van de voorwaarde, vermeld in artikel   2.7.4.2.3, § 2, 3°, is de erfbelasting evenredig verschuldigd tegen het tarief,   vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde   tarief.<BR><BR>§ 2. Als aanvullende rechten verschuldigd zijn doordat de   voorwaarden, gesteld tot behoud van het verlaagde tarief, niet langer vervuld   zijn, kunnen de verkrijgers dat melden bij de bevoegde entiteit van de Vlaamse   administratie.<BR><BR>Bij niet-vervulling van de voorwaarden, vermeld in het   eerste lid, wordt de erfbelasting geacht verschuldigd te zijn, berekend tegen   het tarief, vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde   tarief.<BR><BR>Bij niet-vervulling van de voorwaarden, vermeld in artikel   2.7.4.2.3, § 2, 3°, is de erfbelasting evenredig verschuldigd tegen het tarief,   vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagd   tarief.
+§ 1. Na verloop van een termijn van drie jaar vanaf de datum van het overlijden van de erflater controleren de bevoegde personeelsleden of de voorwaarden, gesteld voor het behoud van het verlaagde tarief, vervuld zijn.<br>
+<br>
+Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid, wordt de erfbelasting geacht verschuldigd te zijn, berekend tegen het tarief, vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde tarief.<br>
+<br>
+Bij niet-vervulling van de voorwaarde, vermeld in artikel 2.7.4.2.3, §2, 4°, is de erfbelasting verschuldigd tegen het tarief, vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde tarief, op het bedrag waarmee het kapitaal of de verrichte inbrengen is verminderd, vermenigvuldigd met de grondslag waarop het verlaagde tarief is toegepast, en gedeeld door de waarde van alle aandelen van de familiale vennootschap op de datum van het overlijden van de erflater.<br>
+<br>
+§ 2. Als aanvullende rechten verschuldigd zijn doordat de voorwaarden, gesteld tot behoud van het verlaagde tarief, niet langer vervuld zijn, kunnen de verkrijgers dat melden bij de bevoegde entiteit van de Vlaamse administratie.<br>
+<br>
+Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid, wordt de erfbelasting geacht verschuldigd te zijn, berekend tegen het tarief, vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde tarief.<br>
+<br>
+Bij niet-vervulling van de voorwaarde, vermeld in artikel 2.7.4.2.3, §2, 4°, is de erfbelasting verschuldigd tegen het tarief, vermeld in artikel 2.7.4.1.1, zonder toepassing van het verlaagde tarief, op het bedrag waarmee het kapitaal of de verrichte inbrengen is verminderd, vermenigvuldigd met de grondslag waarop het verlaagde tarief is toegepast, en gedeeld door de waarde van alle aandelen van de familiale vennootschap op de datum van het overlijden van de erflater.
+
+### ART 2.7.4.2.5.
+
+§1. In afwijking van artikel 2.7.4.1.1, §1, wordt voor de verkrijgingen, vermeld in tabel II van artikel 2.7.4.1.1, §1, het tarief van de erfbelasting verlaagd:<br>
+1° tot 3% voor het gedeelte van de nettoverkrijging dat kleiner is dan of gelijk is aan 50.000 euro;<br>
+2° tot 9% voor het gedeelte van de nettoverkrijging dat groter is dan 50.000 euro en niet meer bedraagt dan 100.000 euro.<br>
+<br>
+Het verlaagde tarief wordt toegepast op een nettoverkrijging tot een bedrag van maximaal 100.000 euro per nalatenschap.<br>
+<br>
+Het gedeelte van de nettoverkrijging dat het maximum, vermeld in het tweede lid, te boven gaat, wordt onderworpen aan het tarief voor verkrijgingen, vermeld in tabel II van artikel 2.7.4.1.1, §1.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, wordt alleen toegepast als al de volgende voorwaarden zijn vervuld:<br>
+1° op de datum van het openvallen van de nalatenschap heeft de erflater geen partner als vermeld in artikel 1.1.0.0.2, zesde lid, 4°, en geen bloedverwanten in de rechte nederdalende lijn of daarmee gelijkgestelde personen als vermeld in artikel 1.1.0.0.2, zesde lid, 5°;<br>
+2° de erflater heeft in een niet-herroepen testament op ondubbelzinnige wijze een of meer natuurlijke personen aangewezen die de toepassing van het verlaagde tarief kunnen vragen.<br>
+<br>
+Als maar één natuurlijke persoon door de erflater is aangewezen conform het vierde lid, 2°, wordt het verlaagde tarief, vermeld in het eerste lid, exclusief toegepast op de volledige of gedeeltelijke nettoverkrijging van die persoon.<br>
+<br>
+Als meer dan één natuurlijke persoon door de erflater is aangewezen conform het vierde lid, 2°, wordt het verlaagde tarief, vermeld in het eerste lid, toegepast op de nettoverkrijgingen van die personen.<br>
+<br>
+Als het totaal van de nettoverkrijgingen, vermeld in het zesde lid, het maximumbedrag van 100.000 euro te boven gaat, wordt het verlaagde tarief toegepast op dat maximumbedrag. Het maximum wordt verdeeld naar verhouding van de persoonlijke nettoverkrijgingen ten opzichte van de samengenomen nettoverkrijgingen, tenzij de erflater een andere verdeling heeft bepaald.<br>
+<br>
+§2. Als de nettoverkrijging, vermeld in paragraaf 1, goederen omvat die vrijgesteld zijn conform artikel 2.7.6.0.5, wordt het vrijgestelde gedeelte proportioneel verdeeld tussen het gedeelte van de nettoverkrijging dat is onderworpen aan het tarief, vermeld in paragraaf 1, en het gedeelte van de nettoverkrijging dat is onderworpen aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, §1.<br>
+<br>
+§3. Het gedeelte van de nettoverkrijging waarop het verlaagde tarief, vermeld in paragraaf 1, eerste lid, wordt toegepast, wordt bij voorrang toegerekend op het gedeelte van de verkrijging waarop het tarief, vermeld in tabel II van artikel 2.7.4.1.1, §1, wordt toegepast, en vervolgens op het gedeelte van de verkrijging waarop het tarief, vermeld in artikel 2.7.4.2.2, wordt toegepast.
+
+### ART 2.7.4.2.6.
+
+Voor de toepassing van artikel 2.7.4.2.2 en van artikel 2.7.4.2.3, §1, 2°, moet de aanwending of de bestemming van een onroerend goed worden nagegaan per kadastraal perceel of per gedeelte van een kadastraal perceel als dat gedeelte ofwel een afzonderlijke huisvesting is, ofwel een afdeling van de productie of van de werkzaamheden is die, of een onderdeel daarvan dat, afzonderlijk kan werken, ofwel een eenheid is die van de andere goederen of delen die het perceel vormen, kan worden afgezonderd.
 
 ## [Afdeling 5. Verminderingen (ing. Decr. 19 december 2014, art. 62, I: 1 januari 2015)]
 
@@ -3850,7 +3939,9 @@ Als er slechts één natuurlijke persoon is aangewezen overeenkomstig het derde 
 <br>
 Als er meer dan één natuurlijke persoon is aangewezen overeenkomstig het derde lid, wordt de vermindering, vermeld in het eerste lid, onder deze personen verdeeld naar verhouding van hun persoonlijke nettoverkrijging ten opzichte van de samengenomen nettoverkrijgingen van al deze personen, tenzij de erflater een andere verdeling heeft bepaald.<br>
 <br>
-De vermindering die conform dit artikel wordt toegepast, levert in geen geval grond voor een teruggave op.
+De vermindering die conform dit artikel wordt toegepast, levert in geen geval grond voor een teruggave op.<br>
+<br>
+De vermindering, vermeld in het eerste lid, wordt niet toegepast als voor dezelfde nalatenschap toepassing wordt gemaakt van het verlaagde tarief, vermeld in artikel 2.7.4.2.5, §1, eerste lid.
 
 ## [Afdeling 6. Vrijstelling (ing. Decr. 19 december 2014, art. 68, I: 1 januari 2015)]
 
@@ -3920,7 +4011,7 @@ De vrijstelling, vermeld in het eerste lid, wordt aan de erfgenaam, legataris of
 <br>
 In afwijking van artikel 2.7.4.1.1, § 2, tweede lid, en voor zover de andere ouder van het betrokken kind reeds vooroverleden is, wordt het tarief van de erfbelasting voor de onroerende goederen in rechte lijn niet toegepast op de nettoverkrijging van het rechtverkrijgende kind onder de 21 jaar in de woning die op het ogenblik van het overlijden van de langstlevende ouder de woning was waar de erflater gedomicilieerd was op het moment van overlijden.<br>
 <br>
-§ 2. Voor de toepassing van het tarief, vermeld in artikel 2.7.4.1.1, § 1, tussen partners wordt de eerste schijf van 50.000 euro in de nettoverkrijging van de rechtverkrijgende partner van de roerende goederen vrijgesteld van het successierecht. Die vrijstelling geldt niet als de rechtverkrijgende partner een bloedverwant in de rechte lijn van de erflater is of een rechtverkrijgende is die voor de toepassing van het tarief met een rechtverkrijgende in de rechte lijn wordt gelijkgesteld.
+§ 2. Voor de toepassing van het tarief, vermeld in artikel 2.7.4.1.1, § 1, tussen partners wordt de eerste schijf van 75.000 euro in de nettoverkrijging van de rechtverkrijgende partner van de roerende goederen vrijgesteld van het successierecht. Die vrijstelling geldt niet als de rechtverkrijgende partner een bloedverwant in de rechte lijn van de erflater is of een rechtverkrijgende is die voor de toepassing van het tarief met een rechtverkrijgende in de rechte lijn wordt gelijkgesteld.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 73, I: 1 januari 2015)]
 
@@ -4329,8 +4420,8 @@ Er wordt een vrijstelling van de schenkbelasting verleend voor vonnissen   en ar
 ### ART. 2.8.6.0.3.
 
 § 1. In afwijking van artikel 2.8.4.1.1 wordt van de schenkbelasting vrijgesteld :<br>
-1° de schenking van de volle eigendom, de blote eigendom of het vruchtgebruik van de activa die door de schenker of zijn partner beroepsmatig zijn geïnvesteerd in een familiale onderneming. Die vrijstelling is niet van toepassing op de overdrachten van onroerende goederen die hoofdzakelijk tot bewoning worden aangewend of zijn bestemd;<br>
-2° de schenking van de volle eigendom, de blote eigendom of het vruchtgebruik van aandelen van een familiale vennootschap met zetel van werkelijke leiding in een van de staten van de Europese Economische Ruimte, op voorwaarde dat de aandelen van de vennootschap die op het ogenblik van de schenking onder de levenden in volle eigendom toebehoren aan de schenker en zijn familie, ten minste 50% van de stemrechten in die vennootschap vertegenwoordigen.<br>
+1° de schenking van de volle eigendom, de blote eigendom of het vruchtgebruik van de activa die door de schenker of zijn partner beroepsmatig zijn geïnvesteerd in een familiale onderneming. Die vrijstelling is niet van toepassing op de overdrachten van onroerende goederen die hoofdzakelijk tot bewoning worden aangewend of zijn bestemd, met inbegrip van bouwgronden als vermeld in artikel 1.1.0.0.2, zesde lid, 1°/1;<br>
+2° de schenking van de volle eigendom, de blote eigendom of het vruchtgebruik van aandelen van een familiale vennootschap met zetel van werkelijke leiding in een van de staten van de Europese Economische Ruimte, op voorwaarde dat de aandelen van de vennootschap die op het ogenblik van de schenking onder de levenden in volle eigendom toebehoren aan de schenker en zijn familie, ten minste 50% van de stemrechten in die vennootschap vertegenwoordigen.&nbsp;De vrijstelling is niet van toepassing op het gedeelte van de waarde van de aandelen dat de onroerende goederen, vermeld in punt 1°, in de familiale vennootschap, of in participaties van minstens 10% van de familiale vennootschap in haar dochtervennootschappen, vertegenwoordigt. Deze beperking is niet van toepassing voor familiale vennootschappen waarvan de omzet voor minstens 75% wordt gegenereerd door de uitoefening van een activiteit die betrekking heeft op onroerende goederen, vermeld in punt 1°.<br>
 <br>
 In afwijking van het eerste lid vertegenwoordigen de aandelen van de vennootschap die op het ogenblik van de schenking in volle eigendom toebehoren aan de schenker en zijn familie, minstens 30% van de stemrechten in die vennootschap, als hij en zijn familie aan een van de volgende voorwaarden voldoen:<br>
 1° samen met één andere aandeelhouder en zijn familie volle eigenaar zijn van de aandelen van de vennootschap die minstens 70% van de stemrechten in die vennootschap vertegenwoordigen;<br>
@@ -4342,13 +4433,7 @@ Voor de toepassing van het tweede lid komen de aandelen die toebehoren aan recht
 1° familiale onderneming : een nijverheids-, handels-, ambachts- of landbouwbedrijf of een vrij beroep dat door de schenker of zijn partner, al dan niet samen met anderen, persoonlijk wordt geëxploiteerd en uitgeoefend;<br>
 2° familiale vennootschap : een vennootschap die de uitoefening van een nijverheids-, handels-, ambachts- of landbouwactiviteit, of van een vrij beroep tot&nbsp;voorwerp heeft en uitoefent.<br>
 Als de vennootschap aan het voorgaande niet beantwoordt, maar aandelen houdt die minstens 30 % van de stemrechten van één directe dochtervennootschap vertegenwoordigen die aan die voorwaarde beantwoordt en die haar zetel van werkelijke leiding heeft in een van de staten van de Europese Economische Ruimte, wordt ze ook beschouwd als een familiale vennootschap.<br>
-Vennootschappen die geen reële economische activiteit hebben, worden uitgesloten van de vrijstelling, vermeld in paragraaf 1. Een vennootschap wordt geacht geen reële economische activiteit te hebben als uit de balansposten van ofwel de goedgekeurde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, punt 2°, eerste lid, ofwel de goedgekeurde geconsolideerde jaarrekening in geval van een vennootschap als vermeld in paragraaf 2, punt 2°, tweede lid, van minstens een van de drie boekjaren die voorafgaan aan de datum van de authentieke akte van schenking, cumulatief blijkt dat :<br>
-a) de bezoldigingen, sociale lasten en pensioenen een percentage uitmaken dat gelijk is aan of lager is dan 1,50 % van de totale activa;<br>
-b) de terreinen en gebouwen meer dan 50 % uitmaken van het totale actief. De begiftigde kan het tegenbewijs daarvan leveren.<br>
-Voor de toepassing van de hiervoor vermelde omschrijving moet worden begrepen onder :<br>
-a) bezoldigingen, sociale lasten en pensioenen : de waarde, opgenomen onder de gelijknamige post van de resultatenrekening van de jaarrekening of onder een soortgelijke post van de geconsolideerde jaarrekening. Als een vennootschap geen jaarrekening volgens het standaardmodel naar Belgisch recht hoeft neer te leggen, is het de waarde die opgenomen is onder de post waaruit alle kosten blijken die naar hun aard als kosten kunnen worden beschouwd voor de tewerkstelling van personeel in dienstverband;<br>
-b) terreinen en gebouwen : de waarde, opgenomen onder de gelijknamige balanspost van de jaarrekening of van de geconsolideerde jaarrekening of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening. Als een vennootschap geen jaarrekening volgens het standaardmodel naar Belgisch recht hoeft neer te leggen, wordt een soortgelijke post bedoeld die opgenomen is onder de post materiële vaste activa;<br>
-c) totaal actief : de waarde, opgenomen onder de balanspost totaal van de activa van de jaarrekening of onder een soortgelijke post van de jaarrekening of van de geconsolideerde jaarrekening;<br>
+Vennootschappen die geen reële economische activiteit hebben, worden uitgesloten van de vrijstelling, vermeld in paragraaf 1. Voor een vennootschap waarvan de omzet voor minstens 75% wordt gegenereerd door de uitoefening van een activiteit die betrekking heeft op onroerende goederen, vermeld in paragraaf 1, eerste lid, 1°, kan het uitsluiten van de beperking vermeld in artikel 2.8.6.0.3, §1, eerste lid, 2°, slechts gelden op voorwaarde dat de vennootschap in de drie jaar voorafgaand aan de authentieke akte van de schenking minstens één tewerkgestelde werknemer telt, uitgedrukt in voltijdse eenheden;<br>
 3° aandelen :<br>
 a) naargelang het geval:<br>
 1) als de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: elk deelbewijs met stemrecht dat een deel van het kapitaal vertegenwoordigt;<br>
@@ -4374,22 +4459,32 @@ Voor de toepassing van artikel 2.8.6.0.3 en artikel 2.8.6.0.6., § 1, 2°,   moe
 
 ### ART. 2.8.6.0.6.
 
-§ 1. De vrijstelling, vermeld in artikel 2.8.6.0.3, § 1, eerste lid, 1°, wordt behouden als de volgende voorwaarden cumulatief zijn vervuld :<br>
+§1. De vrijstelling, vermeld in artikel 2.8.6.0.3, § 1, eerste lid, 1°, wordt behouden als de volgende voorwaarden cumulatief zijn vervuld :<br>
 1° als een activiteit van de familiale onderneming zonder onderbreking wordt voortgezet gedurende drie jaar vanaf de datum van de authentieke akte van schenking;<br>
 2° als de onroerende goederen die met toepassing van de vrijstelling zijn overgedragen, niet hoofdzakelijk tot bewoning aangewend of bestemd worden gedurende een periode van drie jaar vanaf de datum van de authentieke akte van schenking.<br>
 <br>
-§ 2. De vrijstelling, vermeld in artikel 2.8.6.0.3, § 1, eerste lid, 2°, wordt alleen behouden als de volgende voorwaarden cumulatief zijn vervuld :<br>
-1° de familiale vennootschap blijft gedurende drie jaar vanaf de datum van de authentieke akte van schenking voldoen aan de voorwaarden, vermeld in artikel 2.8.6.0.3, § 2, 2° ;<br>
-2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van de authentieke akte van schenking en voor elk van de drie jaar wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt die in voorkomend geval wordt gepubliceerd overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de&nbsp; zetel gevestigd is op het ogenblik van de datum van de authentieke akte van schenking, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting.<br>
-Ondernemingen of vennootschappen waarvan de&nbsp; zetel buiten het Vlaamse Gewest maar binnen België ligt, moeten een jaarrekening of geconsolideerde jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving in België op de datum van de authentieke akte van schenking;<br>
-3° naargelang het geval:<br>
-a) wanneer de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt niet door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van de authentieke akte van schenking;<br>
-b) wanneer de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: het eigen vermogen daalt niet gedurende drie jaar vanaf de datum van de authentieke akte van schenking door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van de authentieke akte van schenking verrichte inbrengen, zoals dat blijkt uit de jaarrekening;<br>
-4° de zetel van de werkelijke leiding van de vennootschap wordt niet overgebracht naar een staat die geen lid is van de Europese Economische Ruimte gedurende drie jaar vanaf de datum van de authentieke akte van schenking.
+§2. De vrijstelling, vermeld in artikel 2.8.6.0.3, §1, eerste lid, 2°, wordt alleen behouden als al de volgende voorwaarden zijn vervuld:<br>
+1° de familiale vennootschap blijft gedurende drie jaar vanaf de datum van de authentieke akte van schenking voldoen aan de voorwaarden, vermeld in artikel 2.8.6.0.3, §2, 2°;<br>
+2° een activiteit van de familiale vennootschap wordt zonder onderbreking voortgezet gedurende drie jaar vanaf de datum van de authentieke akte van schenking;<br>
+3° voor elk van de drie jaar vanaf de datum van de authentieke akte van schenking wordt een jaarrekening of geconsolideerde jaarrekening opgemaakt die in voorkomend geval wordt gepubliceerd conform de geldende boekhoudwetgeving van de lidstaat waar de zetel gevestigd is op het ogenblik van de datum van de authentieke akte van schenking, die ook aangewend is ter verantwoording van de aangifte in de inkomstenbelasting. Ondernemingen of vennootschappen waarvan de zetel buiten het Vlaamse Gewest, maar binnen België ligt, maken een jaarrekening of geconsolideerde jaarrekening op en in voorkomend geval publiceren ze die conform de geldende boekhoudwetgeving in België op de datum van de authentieke akte van schenking;<br>
+4° &nbsp;naargelang het geval:<br>
+a)&nbsp;&nbsp; &nbsp;als de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, of een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt op geen enkel moment door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van de authentieke akte van schenking;<br>
+b)&nbsp;&nbsp; &nbsp;als de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: de verrichte inbrengen dalen op geen enkel moment gedurende drie jaar vanaf de datum van de authentieke akte van schenking door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van de authentieke akte van schenking verrichte inbrengen, zoals dat blijkt uit de jaarrekening;<br>
+5° de zetel van de werkelijke leiding van de vennootschap wordt niet overgebracht naar een staat die geen lid is van de Europese Economische Ruimte gedurende drie jaar vanaf de datum van de authentieke akte van schenking.
 
 ### ART. 2.8.6.0.7.
 
-§ 1. Na verloop van een termijn van drie jaar na de datum van de   authentieke akte van schenking controleert het bevoegde personeelslid of de   voorwaarden, gesteld voor het behoud van de vrijstelling, vervuld   zijn.<BR><BR>Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid,   wordt de schenkbelasting geacht verschuldigd te zijn, berekend tegen het tarief,   vermeld in artikel 2.8.4.1.1, zonder toepassing van de vrijstelling.<BR><BR>Bij   niet-vervulling van de voorwaarde, vermeld in artikel 2.8.6.0.6, § 2, 3°, is de   schenkbelasting evenredig verschuldigd tegen het tarief, vermeld in artikel   2.8.4.1.1, zonder toepassing van de vrijstelling.<BR><BR>§ 2. Als de   schenkbelasting verschuldigd is doordat de voorwaarden, gesteld tot behoud van   de vrijstelling, niet langer vervuld zijn, kunnen de begiftigden dat melden bij   de bevoegde entiteit van de Vlaamse administratie.<BR><BR>Bij niet-vervulling   van de voorwaarden, vermeld in het eerste lid, wordt de schenkbelasting geacht   verschuldigd te zijn, berekend tegen het tarief, vermeld in artikel 2.8.4.1.1,   zonder toepassing van de vrijstelling.<BR><BR>Bij niet-vervulling van de   voorwaarde, vermeld in artikel 2.8.6.0.6, § 2, 3°, is de schenkbelasting   evenredig verschuldigd tegen het tarief, vermeld in artikel 2.8.4.1.1, zonder   toepassing van de vrijstelling.
+§ 1. Na verloop van een termijn van drie jaar na de datum van de authentieke akte van schenking controleert het bevoegde personeelslid of de voorwaarden, gesteld voor het behoud van de vrijstelling, vervuld zijn.<br>
+<br>
+Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid, wordt de schenkbelasting geacht verschuldigd te zijn, berekend tegen het tarief, vermeld in artikel 2.8.4.1.1, zonder toepassing van de vrijstelling.<br>
+<br>
+Bij niet-vervulling van de voorwaarde, vermeld in artikel 2.8.6.0.6, §2, 4°, is de schenkbelasting verschuldigd tegen het tarief, vermeld in artikel 2.8.4.1.1, zonder toepassing van de vrijstelling op het bedrag waarmee het kapitaal is verminderd of waarmee de verrichte inbrengen zijn verminderd, vermenigvuldigd met de grondslag waarop de vrijstelling is toegepast, en gedeeld door de waarde van alle aandelen van de familiale vennootschap op de datum van de authentieke schenkingsakte.<br>
+<br>
+§ 2. Als de schenkbelasting verschuldigd is doordat de voorwaarden, gesteld tot behoud van de vrijstelling, niet langer vervuld zijn, kunnen de begiftigden dat melden bij de bevoegde entiteit van de Vlaamse administratie.<br>
+<br>
+Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid, wordt de schenkbelasting geacht verschuldigd te zijn, berekend tegen het tarief, vermeld in artikel 2.8.4.1.1, zonder toepassing van de vrijstelling.<br>
+<br>
+Bij niet-vervulling van de voorwaarde, vermeld in artikel 2.8.6.0.6, §2, 4°, is de schenkbelasting verschuldigd tegen het tarief, vermeld in artikel 2.8.4.1.1, zonder toepassing van de vrijstelling op het bedrag waarmee het kapitaal is verminderd of waarmee de verrichte inbrengen zijn verminderd, vermenigvuldigd met de grondslag waarop de vrijstelling is toegepast, en gedeeld door de waarde van alle aandelen van de familiale vennootschap op de datum van de authentieke schenkingsakte.
 
 ### ART 2.8.6.0.8.
 
@@ -4640,13 +4735,13 @@ Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan nie
 
 ### ART 2.9.4.2.11.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 2 % voor overeenkomsten houdende zuivere aankoop, waarbij door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
+§ 1. In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 2 % voor overeenkomsten houdende zuivere aankoop van volle eigendom, waarbij uitsluitend door een of meer natuurlijke personen samen en gelijktijdig de geheelheid volle eigendom van een woning wordt verkregen om er hun hoofdverblijfplaats te vestigen.<br>
 <br>
 In afwijking van het eerste lid bedraagt het tarief 6% voor overeenkomsten houdende zuivere aankoop waarvan de authentieke akte uiterlijk op 31 december 2023 is verleden, als de verkrijger opteert voor de vermindering, vermeld in artikel 2.9.5.0.1, of de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.<br>
 <br>
 § 2. Om het verlaagde tarief, vermeld in paragraaf 1, te kunnen toepassen, moeten alle volgende voorwaarden vervuld zijn:<br>
 1° de verkrijger is op de datum van de authentieke aankoopakte niet voor de geheelheid volle eigenaar van een andere woning of bouwgrond. Als er verschillende verkrijgers zijn, zijn ze op de vermelde datum niet samen voor de geheelheid volle eigenaar van een andere woning of bouwgrond;<br>
-2° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen drie jaar na de datum van de authentieke aankoopakte;<br>
+2° de verkrijger verbindt zich ertoe zijn inschrijving in het bevolkingsregister of het vreemdelingenregister te nemen op het adres van de aangekochte woning binnen drie jaar na de datum van de authentieke aankoopakte, en die inschrijving gedurende een ononderbroken periode van minstens een jaar te behouden;<br>
 3° de verplichting, vermeld in artikel 3.12.3.0.1, § 1, is nageleefd.<br>
 <br>
 De koper die de voorwaarde, vermeld in het eerste lid, 2°, niet is nagekomen, is aanvullende rechten verschuldigd.<br>
@@ -5592,6 +5687,16 @@ b) het verlaagde tarief, vermeld in artikel 2.7.4.2.2. In voorkomend geval moet 
 5) kopieën van het rechtsgeldige aandelenregister of, bij gebrek daaraan, de door alle aandeelhouders ondertekende notulen van de laatste algemene vergadering die voorafgaat aan het overlijden van de erflater, waaruit op ondubbelzinnige wijze de participaties blijken, vermeld in artikel 2.7.4.2.2, § 1, eerste lid, 2°, of tweede lid;<br>
 6) een kopie van de laatste voor het overlijden door de erflater ingediende fiscale aangifte voor de personenbelasting wat familiale ondernemingen betreft;<br>
 7) een kopie van de gecoördineerde statuten, zoals van toepassing op de dag van het overlijden;<br>
+8) een verslag dat een bedrijfsrevisor, die niet de commissaris is, of een gecertificeerd accountant heeft uitgereikt. Het verslag is gedateerd en ondertekend voorafgaand aan de datum van de indiening van de aangifte van nalatenschap voor elke familiale vennootschap. Het verslag bevat al de volgende elementen:<br>
+i)&nbsp;&nbsp; &nbsp;de voor- en achternaam van de bedrijfsrevisor of de accountant, het registratienummer in het openbaar register, vermeld in artikel 10, §1, van de wet van 7 december 2016 tot organisatie van het beroep van en het publiek toezicht op de bedrijfsrevisoren, of het inschrijvingsnummer in het openbaar register, vermeld in artikel 29 van de wet van 17 maart 2019 betreffende de beroepen van accountant en belastingadviseur;<br>
+ii)&nbsp;&nbsp; &nbsp;de voor- en achternaam, het rijksregisternummer en het adres van de aanvrager of, als er verschillende zijn, de aanvragers;<br>
+iii)&nbsp;&nbsp; &nbsp;de naam en het ondernemingsnummer van de familiale vennootschap waarvoor het verlaagde tarief wordt gevraagd;<br>
+iv)&nbsp;&nbsp; &nbsp;de verkoopwaarde van de volle eigendom van de vererfde aandelen van de familiale vennootschap, zoals die is geraamd door de bedrijfsrevisor of de accountant;<br>
+v)&nbsp;&nbsp; &nbsp;de verkoopwaarde en de opsomming van de onroerende goederen die tot bewoning worden aangewend of bestemd, met inbegrip van bouwgronden als vermeld in artikel 1.1.0.0.2, zesde lid, 1°/1, van deze codex, waarop de familiale vennootschap of haar dochtervennootschappen zakelijke rechten hebben, en de aard van die zakelijke rechten. De vermelding bevat de kadastrale gegevens, namelijk de kadastrale afdeling, de sectie, het perceelnummer en het partitienummer, de kadastrale oppervlakte, het kadastraal inkomen en, in voorkomend geval, de kadastrale detailidentificatie van een privatieve eigendom;<br>
+vi)&nbsp;&nbsp; &nbsp;het gedeelte van de waarde, zoals die is geraamd door de bedrijfsrevisor of de accountant, vermeld in punt iv), dat wordt bepaald door de verkoopwaarde van de onroerende goederen, vermeld in punt v), in de familiale vennootschap, of in participaties van minstens 10% van de familiale vennootschap in haar dochtervennootschappen;<br>
+vii)&nbsp;&nbsp; &nbsp;het verschil tussen de verkoopwaarde, vermeld in punt iv), en de verkoopwaarde, vermeld in punt vi);<br>
+viii)&nbsp;&nbsp; &nbsp;de motivering van de wijze waarop de bedrijfsrevisor of de accountant de verkoopwaarden, vermeld in punt iv), vi) en vii), heeft bepaald, met vermelding van de gebruikte waarderingsmethode;<br>
+ix)&nbsp;&nbsp; &nbsp;de referentiedatum voor de waardebepaling, vermeld in punt iv) en v), namelijk de datum van het overlijden van de erflater;<br>
 c) de vermindering, vermeld in artikel 2.7.5.0.3;<br>
 d) de vermindering, vermeld in artikel 2.7.5.0.4;<br>
 e) de aftrek, vermeld in artikel 2.7.5.0.5;<br>
@@ -5604,6 +5709,7 @@ k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de 
 l) de vermindering, vermeld in artikel 2.7.5.0.6 van deze codex;<br>
 m) de vrijstelling, vermeld in artikel 2.7.6.0.6, § 1;<br>
 n) het verzoek tot inbetalinggeving, vermeld in artikel 3.4.3.0.2 van deze codex, als het cultuurgoed in zijn geheel deel uitmaakt van de nalatenschap of op de dag van het overlijden in zijn geheel toebehoort aan de overledene en zijn overlevende echtgenoot of zijn wettelijk samenwonende partner of op de dag van het overlijden in zijn geheel toebehoort aan de overledene en een van zijn erfgenamen, legatarissen en begiftigden;<br>
+o) het verlaagde tarief, vermeld in artikel 2.7.4.2.5, §1, eerste lid;<br>
 15° in voorkomend geval de erfovereenkomst&nbsp;die is opgesteld conform artikel 4.254 tot en met 4.259 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
 16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 4.18 van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
 17° in voorkomend geval welke schenkingen, levensverzekeringen en legaten aan inbreng of inkorting zijn onderworpen en in bevestigend geval op welke wijze de inbreng of inkorting gebeurt.<br>
@@ -6847,7 +6953,17 @@ Als toepassing gemaakt wordt van het eerste lid, en om de vrijstelling, vermeld 
 1° kopieën van de goedgekeurde jaarrekeningen van de drie boekjaren die voorafgaan aan de authentieke akte van de schenking, opgemaakt overeenkomstig de vigerende boekhoudwetgeving van de plaats waar de zetel gevestigd is als de zetel van de onderneming of vennootschap niet in België ligt;<br>
 2° kopieën van het rechtsgeldige aandelenregister of, bij gebrek daaraan, de door alle aandeelhouders ondertekende notulen van de laatste algemene vergadering die voorafgaat aan de authentieke akte van schenking, waaruit op ondubbelzinnige wijze de participaties blijken, vermeld in artikel 2.8.6.0.3, § 1;<br>
 3° een kopie van de laatste door de schenker ingediende fiscale aangifte voor de personenbelasting wat familiale ondernemingen betreft;<br>
-4° een kopie van de gecoördineerde statuten, zoals die van toepassing zijn op de datum van de authentieke akte van de schenking.<br>
+4° een kopie van de gecoördineerde statuten, zoals die van toepassing zijn op de datum van de authentieke akte van de schenking;<br>
+5° een verslag dat een bedrijfsrevisor, die niet de commissaris is, of een gecertificeerd accountant heeft uitgereikt. Het verslag is ondertekend en gedateerd voorafgaand aan de datum van de authentieke akte van de schenking voor elke familiale vennootschap. Het verslag vermeldt al de volgende gegevens:<br>
+a)&nbsp;&nbsp; &nbsp;de voor- en achternaam van de bedrijfsrevisor of de gecertificeerde accountant, het registratienummer in het openbaar register, vermeld in artikel 10, §1, van de wet van 7 december 2016 tot organisatie van het beroep van en het publiek toezicht op de bedrijfsrevisoren, en het inschrijvingsnummer in het openbaar register, vermeld in artikel 29 van de wet van 17 maart 2019 betreffende de beroepen van accountant en belastingadviseur;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam, het rijksregisternummer en het adres van de aanvrager of, als er verschillende zijn, de aanvragers;<br>
+c)&nbsp;&nbsp; &nbsp;de naam en het ondernemingsnummer van de familiale vennootschap waarvoor de vrijstelling wordt gevraagd;<br>
+d)&nbsp;&nbsp; &nbsp;de verkoopwaarde van de volle eigendom van de geschonken aandelen van de familiale vennootschap, zoals die is geraamd door de bedrijfsrevisor of de accountant;<br>
+e)&nbsp;&nbsp; &nbsp;de verkoopwaarde en de opsomming van de onroerende goederen die tot bewoning worden aangewend of bestemd, met inbegrip van bouwgronden als vermeld in artikel 1.1.0.0.2, zesde lid, 1°/1, van deze codex, waarop de familiale vennootschap of haar dochtervennootschappen zakelijke rechten hebben en de aard van die zakelijke rechten. De vermelding bevat de kadastrale gegevens, namelijk de kadastrale afdeling, de sectie, het perceelnummer en het partitienummer, de kadastrale oppervlakte, het kadastraal inkomen en, in voorkomend geval, de kadastrale detailidentificatie van een privatieve eigendom;<br>
+f)&nbsp;&nbsp; &nbsp;het gedeelte van de waarde, zoals die is geraamd door de bedrijfsrevisor of de accountant, vermeld in punt d), dat wordt bepaald door de verkoopwaarde van de onroerende goederen, vermeld in punt e), in de familiale vennootschap, of in participaties van minstens 10% van de familiale ven-nootschap in haar dochtervennootschappen;<br>
+g)&nbsp;&nbsp; &nbsp;het verschil tussen de verkoopwaarde, vermeld in punt d), en de verkoopwaarde, vermeld in punt f);<br>
+h)&nbsp;&nbsp; &nbsp;een motivering van de wijze waarop de bedrijfsrevisor of de accountant de verkoopwaarden, vermeld in punt d), f) en g), heeft bepaald, met vermelding van de gebruikte waarderingsmethode;<br>
+i)&nbsp;&nbsp; &nbsp;de referentiedatum voor de waardebepaling, vermeld in punt d) en f), namelijk de datum waarop de waarde van de aandelen wordt bepaald.<br>
 <br>
 Als de bescheiden, vermeld in het tweede lid, worden bezorgd met een aangetekende brief, geldt de datum van de poststempel op het verzendingsbewijs als datum van de indiening.<br>
 <br>
@@ -7690,15 +7806,33 @@ Het bevoegde personeelslid reikt op verzoek van de betrokkenen in   rechtstreeks
 
 ## [Hoofdstuk 21. Voorafgaande attesten (ing. Decr. 19 december 2014, art. 320, I: 1 januari 2015)]
 
+### ART 3.21.0.0.1.
+
+§1. Voor de aangifte en uiterlijk voor het verstrijken van de aangiftetermijn, vermeld in artikel 3.3.1.0.5, §2, en artikel 3.3.1.0.6, kunnen de erfgenamen, algemene legatarissen, begiftigden en al wie gehouden is tot het indienen van een aangifte van nalatenschap een verzoek richten tot de bevoegde entiteit van de Vlaamse administratie tot het bekomen van een attest dat op basis van de gegevens, aangereikt door de verzoeker, de waardering, bedoeld in artikel 3.3.1.0.8, §1, eerste lid, 14°, b), 8), iv), vi) en vii) bevestigt.<br>
+<br>
+Het verzoek bevat de gegevens en de bescheiden, vermeld in artikel 3.3.1.0.8, §1, eerste lid, 14°, b).<br>
+<br>
+Een attest over de waardering kan alleen worden verkregen als het verzoek wordt ingediend binnen dertig dagen na de datum van het verslag, vermeld in artikel 3.3.1.0.8, §1, eerste lid, 14°, b), 8).<br>
+<br>
+§2. De bevoegde entiteit van de Vlaamse administratie verleent het attest, vermeld in paragraaf 1, binnen zestig dagen nadat ze het verzoek, vermeld in paragraaf 1, heeft ontvangen.<br>
+<br>
+Als het verzoek, vermeld in paragraaf 1, niet alle gegevens of de bescheiden, vermeld in artikel 3.3.1.0.8, §1, eerste lid, 14°, b), bevat, meldt de bevoegde entiteit van de Vlaamse administratie dat vóór de termijn, vermeld in het eerste lid, is verstreken, met opgave van de gegevens of de bescheiden die ontbreken. In dat geval wordt de termijn, vermeld in het eerste lid, geschorst vanaf de datum van verzending van die melding tot de datum waarop de bevoegde entiteit van de Vlaamse administratie de ontbrekende gegevens of bescheiden heeft ontvangen.<br>
+<br>
+Het attest, vermeld in paragraaf 1, is bindend voor de bevoegde entiteit van de Vlaamse administratie en wordt gebruikt om de erfbelasting te berekenen.
+
 ### ART. 3.21.0.0.1/1.
 
-§ 1. Voorafgaand aan de authentieke akte van schenking kan de belanghebbende een verzoek richten tot de bevoegde entiteit van de Vlaamse administratie tot het bekomen van een attest waaruit blijkt dat op het moment van het verzoek en op basis van de gegevens, aangereikt door de verzoeker, al dan niet aan de voorwaarden, vermeld in artikel 2.8.6.0.3, is voldaan.<br>
+§ 1. Voorafgaand aan de authentieke akte van schenking kan de belanghebbende een verzoek richten tot de bevoegde entiteit van de Vlaamse administratie tot het bekomen van een attest waaruit blijkt dat op het moment van het verzoek en op basis van de gegevens, aangereikt door de verzoeker, al dan niet aan de voorwaarden, vermeld in artikel 2.8.6.0.3, is voldaan&nbsp;en dat, in voorkomend geval, de waardering, bedoeld in artikel 3.12.3.0.1, §5, tweede lid, 5°, d), f) en g), bevestigt op de referentiedatum, vermeld in artikel 3.12.3.0.1, §5, tweede lid, 5°, i), op basis van de gegevens, aangereikt door de verzoeker.<br>
 <br>
 In het verzoek wordt opgave gedaan van de gegevens, vermeld in artikel 3.12.3.0.1, § 5, eerste lid, en de bescheiden, vermeld in artikel 3.12.3.0.1, § 5, tweede lid, worden toegevoegd.<br>
 <br>
-§ 2. De bevoegde entiteit van de Vlaamse administratie verleent het attest, vermeld in paragraaf 1, binnen negentig dagen na de ontvangst van het verzoek.<br>
+Een voorafgaand attest over de waardering kan alleen worden verkregen als het verzoek wordt ingediend binnen dertig dagen na de referentiedatum, vermeld in artikel 3.12.3.0.1, §5, tweede lid, 5°, i).<br>
 <br>
-Als het verzoek niet alle gegevens, vermeld in 3.12.3.0.1, § 5, eerste lid, of de bescheiden, vermeld in artikel 3.12.3.0.1, § 5, tweede lid, bevat, meldt de bevoegde entiteit van de Vlaamse administratie dat voor het verstrijken van de termijn, vermeld in het eerste lid, met opgave van de gegevens of bescheiden die ontbreken. In dat geval zal de termijn, vermeld in het eerste lid, geschorst worden vanaf de datum van verzending van die melding tot de datum van ontvangst van de ontbrekende gegevens of bescheiden door de bevoegde entiteit van de Vlaamse administratie.
+§ 2. De bevoegde entiteit van de Vlaamse administratie verleent het attest, vermeld in paragraaf 1, binnen zestig dagen na de ontvangst van het verzoek.<br>
+<br>
+Als het verzoek niet alle gegevens, vermeld in 3.12.3.0.1, § 5, eerste lid, of de bescheiden, vermeld in artikel 3.12.3.0.1, § 5, tweede lid, bevat, meldt de bevoegde entiteit van de Vlaamse administratie dat voor het verstrijken van de termijn, vermeld in het eerste lid, met opgave van de gegevens of bescheiden die ontbreken. In dat geval zal de termijn, vermeld in het eerste lid, geschorst worden vanaf de datum van verzending van die melding tot de datum van ontvangst van de ontbrekende gegevens of bescheiden door de bevoegde entiteit van de Vlaamse administratie.<br>
+<br>
+Het attest, vermeld in paragraaf 1, is zestig dagen vanaf de datum van de eindbeslissing geldig en bindend voor de bevoegde autoriteit van de Vlaamse administratie.
 
 ## [Hoofdstuk 22. Voorafgaande beslissingen over de materies en bepalingen vervat in deze codex (ing. decr. 17 juli 2015, art. 36, I: 14 augustus 2015)]
 
