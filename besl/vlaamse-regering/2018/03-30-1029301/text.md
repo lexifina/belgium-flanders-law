@@ -739,16 +739,16 @@ Het eerste lid is niet van toepassing op de autonome gemeentebedrijven en de aut
 ### ART 14.
 
 Een aanpassing van het meerjarenplan bevat al de volgende onderdelen:<br>
-1° in voorkomend geval, de wijzigingen van de strategische nota;<br>
-2° het aangepaste financiėle doelstellingenplan;<br>
-3° de aangepaste staat van het financieel evenwicht;<br>
-4° het aangepaste overzicht van de kredieten;<br>
+1° de aangepaste strategische nota, met aanduiding van de wijzigingen ten opzichte van de beleidsdoelstellingen en de prioritaire acties of actieplannen in het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan, en de financiële kerncijfers in de beleidsverklaring van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
+2° het aangepaste financiėle doelstellingenplan, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
+3° de aangepaste staat van het financieel evenwicht, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
+4° het aangepaste overzicht van de kredieten, met aanduiding van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;<br>
 5° een aangepaste toelichting;<br>
 6° een motivering van de wijzigingen.<br>
 <br>
 De periode van de aanpassing van het meerjarenplan blijft altijd de periode, vermeld in artikel 254, tweede lid, van het decreet over het lokaal bestuur van 22 december 2017 of artikel 146, tweede lid, van het Provinciedecreet van 9 december 2005, maar de staat van het financieel evenwicht, vermeld in het eerste lid, 3°, beschrijft altijd de financiėle consequenties voor ten minste drie toekomstige boekjaren.<br>
 <br>
-Het aangepaste overzicht van de kredieten bevat de kredieten voor het volgende boekjaar, voor het lopende boekjaar, of voor beide.<br>
+Het aangepaste overzicht van de kredieten bevat de kredieten voor het volgende boekjaar, voor het lopende boekjaar, of voor beide, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan, en een vermelding die aanduidt welke situatie van toepassing is.<br>
 &nbsp;
 
 ### ART 15.

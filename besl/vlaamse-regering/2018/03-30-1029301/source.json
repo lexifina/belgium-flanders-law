@@ -2,16 +2,16 @@
   "codex_id": 1029301,
   "title": "Besluit van de Vlaamse Regering van 2018-03-30 over de beleids- en beheerscyclus van de lokale [en de provinciale] besturen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029301/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "a03b2fa96a2b9344e2bdaecf3efae3129d0e956435eadf396508d19efa0deb69",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029301/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "d64f20dad3c59873c8527792af775ad01390ee2cae07eb0ca9a5dc3894887b7c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029301&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-01",
   "made": "2018-03-30",
   "gazette": "2018-05-22",
   "numac": 2018012072,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2025-01-01",
+  "in_force": "2026-01-01",
   "article_versions": 171,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
