@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041576,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-05 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, wat betreft de opvolgingsprocedure van het werkzoekgedrag",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041576/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "9f0445cf12a24ba9cb82b0a9a546e39e70c0fa6b0673c99882c13e83cc6ad0bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041576&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-05",
+  "gazette": "2025-12-18",
+  "numac": 2025009546,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
