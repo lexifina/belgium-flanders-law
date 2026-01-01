@@ -89,39 +89,27 @@ De uitbetalingsactor betaalt de kinderopvangtoeslag de twintigste dag van de maa
 <br>
 Als de uitbetalingsactor de gegevens niet minstens vijf dagen voordien ontving, betaalt hij de kinderopvangtoeslag de eerst mogelijke uitbetalingsdatum nadien.
 
-## HOOFDSTUK 3. Kleutertoeslagen
+## HOOFDSTUK 3. ...
 
-## Afdeling 1. Modaliteiten van de toekenning en uitbetaling van de kleutertoeslag
+## Afdeling 1. ...
 
 ### ART 8.
 
-De uitbetalingsactor betaalt de kleutertoeslag, vermeld in artikel 54 van het decreet van 27 april 2018, op het volgende moment:<br>
-1° in de maand na de derde verjaardag van de leerling als de leerling uiterlijk in de maand van zijn derde verjaardag is ingeschreven in een onderwijsinstelling als vermeld in artikel 54 van het voormelde decreet, en de uitbetalingsactor de gegevens, vermeld in artikel 56, § 1, 1° en 2°, van het voormelde decreet, ontvangen heeft;<br>
-2° in de maand die volgt op de maand waarin de uitbetalingsactor de gegevens, vermeld in artikel 56, § 1, 1° en 2°, van het voormelde decreet, ontvangt, als de leerling ingeschreven wordt in de periode van twee maanden na de derde verjaardag of als de uitbetalingsactor de gegevens nog niet heeft ontvangen conform punt 1°.<br>
-<br>
-De uitbetalingsactor betaalt de kleutertoeslag, vermeld in artikel 55 van het voormelde decreet:<br>
-1° in de maand na de vierde verjaardag van de leerling als de uitbetalingsactor de gegevens, vermeld in artikel 56, § 1, 1° en 4°, van het voormelde decreet, ontvangen heeft;<br>
-2° in de maand die volgt op de maand waarin de uitbetalingsactor de gegevens, vermeld in artikel 56, § 1, 1°, 3° en 4°, van het voormelde decreet, ontvangt, als de uitbetalingsactor de betaling niet heeft kunnen uitvoeren conform punt 1°.
+...
 
 ### ART 9.
 
-Als een leerling door ziekte niet binnen de termijn, vermeld in artikel 54 van het decreet van 27 april 2018, kan worden ingeschreven in een onderwijsinstelling als vermeld artikel 54 van het voormelde decreet, of geen voldoende aanwezigheid kan bewijzen als vermeld in artikel 55 van het voormelde decreet, kan de kleutertoeslag alsnog worden toegekend en uitbetaald, op voorwaarde dat er een bewijs van de ziekte wordt voorgelegd dat is opgesteld door een geneesheer.<br>
-<br>
-In het geval, vermeld in het eerste lid, wordt de kleutertoeslag uitbetaald in de maand die volgt op de maand waarin de uitbetalingsactor het bewijs van de geneesheer, vermeld in het eerste lid, ontvangt.
+...
 
-## Afdeling 2. Modaliteiten van de gegevensverzameling en gegevensoverdracht
+## Afdeling 2. ...
 
 ### ART 10.
 
-Het Vlaams ministerie van Onderwijs en Vorming, bezorgt op vraag van Kind en Gezin de gegevens, vermeld in artikel 56, § 1, van het decreet van 27 april 2018, uit de centrale inschrijvingsdatabank van het kleuteronderwijs aan het agentschap Opgroeien regie.<br>
-<br>
-Het Vlaams ministerie van Onderwijs en Vorming bezorgt de gegevens, vermeld in het eerste lid, elektronisch aan&nbsp;het agentschap Opgroeien regie op de volgende momenten:<br>
-1° de gegevens, vermeld in artikel 56, § 1, 1° en 2°, van het voormelde decreet: één keer per maand, namelijk de maand na de inschrijving;<br>
-2° de gegevens, vermeld in artikel 56, § 1, 3° en 4°, van het voormelde decreet: één keer per schooljaar, namelijk zo snel mogelijk na het einde van het schooljaar.
+...
 
 ### ART 11.
 
-Het agentschap Opgroeien regie bezorgt de gegevens, vermeld in artikel 10, elektronisch aan de uitbetalingsactoren zodra het agentschap Opgroeien regie die gegevens ontvangen heeft.
+...
 
 ## HOOFDSTUK 4. Slotbepalingen
 
