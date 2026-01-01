@@ -1536,7 +1536,7 @@ Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het u
 
 ### ART 53/1.
 
-§ 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 803.070,21 euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
+§ 1. Voor de maatregel flexibiliteit tussen 18 uur en 20 uur uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non- profitsectoren voor de periode 2021 tot 2025 wordt een budget van 768.627,26&nbsp;euro verdeeld tussen de erkende diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal gepresteerde uren gezinszorg tussen 18 uur en 20 uur op werkdagen als vermeld in artikel 21, tweede lid, van deze bijlage, met inbegrip van de uren die gepresteerd zijn in een centrum voor dagopvang, door het verzorgend personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, van deze bijlage. De diensten kunnen per gepresteerd uur maximaal 15% van het bedrag, vermeld in artikel 52, eerste lid, 1°, van deze bijlage, ontvangen. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1573,7 +1573,7 @@ Een onderbroken hulpverlening aan eenzelfde gebruiker kan pas aanleiding geven t
 <br>
 In het eerste lid, 5°, wordt verstaan onder wijkwerking: het overleg van een groep personeelsleden van een dienst, die onder supervisie van een begeleidend personeelslid staat en verantwoordelijk is voor de zorg en ondersteuning in een bepaald gebied. Dat overleg gebeurt met het oog op het verlenen van een gebruikersgerichte, doelmatige, doeltreffende, continue en maatschappelijk verantwoorde zorg en ondersteuning.<br>
 <br>
-Het totale aantal gelijkgestelde uren wordt begrensd tot 9% van het toegekende urencontingent. Als de grens van 9% wordt overschreden ten gevolge van de uren, vermeld in het eerste lid, 6°, kan die grens worden verhoogd, binnen het toegekende urencontingent. Die verhoging is alleen mogelijk op voorwaarde dat bewezen wordt dat voor het aantal uren dat de grens van 9% gelijkgestelde uren overschrijdt, een gelijk aantal uren gezinszorg door vervangend personeel gepresteerd wordt. Een dienst financiert zelf dat vervangende personeel hetzij met het bedrag dat hij ontvangt op basis van artikel 58 of 63 van deze bijlage, hetzij met andere middelen dan de middelen die via dit besluit zijn verkregen.</p>
+Het totale aantal gelijkgestelde uren wordt begrensd tot 7,5% van het toegekende urencontingent. Als de grens van 7,5% wordt overschreden ten gevolge van de uren, vermeld in het eerste lid, 6°, kan die grens worden verhoogd, binnen het toegekende urencontingent. Die verhoging is alleen mogelijk op voorwaarde dat bewezen wordt dat voor het aantal uren dat de grens van 7,5% gelijkgestelde uren overschrijdt, een gelijk aantal uren gezinszorg door vervangend personeel gepresteerd wordt. Een dienst financiert zelf dat vervangende personeel hetzij met het bedrag dat hij ontvangt op basis van artikel 58 of 63 van deze bijlage, hetzij met andere middelen dan de middelen die via dit besluit zijn verkregen.</p>
 
 ### ART 56.
 
@@ -1592,7 +1592,7 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp jaarl
 
 ### ART 58.
 
-<p>§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 8.743.040,74 euro&nbsp;tussen de erkende private diensten voor gezinszorg.<br>
+<p>§1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 8.749.775,67&nbsp; euro&nbsp;tussen de erkende private diensten voor gezinszorg.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1606,12 +1606,12 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 
 ### ART 59.
 
-<p>§1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 171.274,05 euro verdeeld tussen de erkende diensten voor gezinszorg.<br>
+<p>§1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 165.847,71&nbsp; euro verdeeld tussen de erkende diensten voor gezinszorg.<br>
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan personeel van gezinszorg is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
 §2. In deze paragraaf wordt verstaan onder:<br>
-1°&nbsp;personeel: het personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, artikel 71, tweede lid, 1°, of artikel 72, eerste lid, 1°, van deze bijlage;<br>
+1° personeel: het personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, artikel 71, tweede lid, 1°, of artikel 72, 1°, van deze bijlage;<br>
 2°&nbsp;fiets: het rijwiel, voortbewegingstoestel of gemotoriseerd rijwiel, vermeld in artikel 2.15.1, 2.15.2 of 2.15.3 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
 3°&nbsp;bromfiets: de bromfiets, vermeld in artikel 2.17 van het voormelde koninklijk besluit.<br>
 <br>
@@ -1627,7 +1627,7 @@ Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor 
 <br>
 Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.<br>
 <br>
-§ 4. Voor de maatregel verplaatsingen met de fiets of bromfiets in opdracht wordt ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 een extra budget van 36.709,05 euro boven op het budget, vermeld in paragraaf 1, eerste lid, verdeeld tussen de private diensten voor gezinszorg.<br>
+§ 4. Voor de maatregel verplaatsingen met de fiets of bromfiets in opdracht wordt ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 een extra budget van 35.603,18&nbsp;euro boven op het budget, vermeld in paragraaf 1, eerste lid, verdeeld tussen de private diensten voor gezinszorg.<br>
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan verzorgend personeel is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1637,7 +1637,7 @@ Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorsch
 <br>
 Het bedrag, vermeld in het eerste lid, wordt geïndexeerd conform artikel 58, § 3, derde lid, van deze bijlage.<br>
 <br>
-§ 5. Ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt aan de private diensten voor gezinszorg 211.700 euro en aan de openbare diensten voor gezinszorg 78.259 euro toegekend voor vernieuwende projecten die het fietsgebruik ondersteunen.<br>
+§ 5. Ter uitvoering van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt aan de private diensten voor gezinszorg 212.227,17&nbsp;euro en aan de openbare diensten voor gezinszorg 77.731,83&nbsp;euro toegekend voor vernieuwende projecten die het fietsgebruik ondersteunen.<br>
 <br>
 De budgetten, vermeld in het eerste lid, worden evenredig verdeeld tussen de diensten, vermeld in paragraaf 1, op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan de administratie conform paragraaf 3, eerste lid.<br>
 <br>
@@ -1667,7 +1667,7 @@ Het bedrag, vermeld in paragraaf 1, eerste lid, wordt geïndexeerd conform artik
 
 ### ART 61.
 
-<p>§1. Voor de maatregel eindejaarspremie wordt een budget van 9.870.884,13 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p>§1. Voor de maatregel eindejaarspremie wordt een budget van 9.447.530,83&nbsp;euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 §2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan Zorggezind. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1679,7 +1679,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 62.
 
-<p>§ 1. Voor de maatregelen managementondersteuning, koopkracht, uurroosterverstoring, innovatie en digitalisering, en de baremaverhoging voor het verzorgend personeel en de omkadering wordt een budget van 37.862.721,85 euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p>§ 1. Voor de maatregelen managementondersteuning, koopkracht, uurroosterverstoring, innovatie en digitalisering, en de baremaverhoging voor het verzorgend personeel en de omkadering wordt een budget van 36.280.787&nbsp;euro verdeeld tussen de erkende private diensten voor gezinszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. 88,46% van het budget, vermeld in paragraaf 1, waarvan 78,66% voor koopkracht van het verzorgend personeel en het overige personeel, 0,60% voor uurroosterverstoring en 3,15% voor innovatie en digitalisering, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1691,9 +1691,9 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 ### ART 63.
 
-<p>§ 1. Voor de maatregel werkdrukvermindering, koopkracht en innovatie en digitalisering wordt er een budget verdeeld van 8.171.247,54 euro tussen de erkende openbare diensten voor gezinszorg.&nbsp;Het budget voor de maatregel koopkracht en voor de maatregel innovatie en digitalisering stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<p>§ 1. Voor de maatregel werkdrukvermindering, koopkracht en innovatie en digitalisering wordt er een budget verdeeld van 7.821.321,11&nbsp;euro tussen de erkende openbare diensten voor gezinszorg.&nbsp;Het budget voor de maatregel koopkracht en voor de maatregel innovatie en digitalisering stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
-8,17% van het budget, vermeld in het eerste lid, is voor de maatregel werkdrukvermindering, 83,59% van het voormelde budget is voor de koopkrachtmaatregel, en 2,58% van het voormelde budget is voor de maatregel innovatie en digitalisering uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025.<br>
+8,48% van het budget, vermeld in het eerste lid, is voor de maatregel werkdrukvermindering, 83,08% van het voormelde budget is voor de koopkrachtmaatregel, en 2,56% van het voormelde budget is voor de maatregel innovatie en digitalisering uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de openbare diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1703,15 +1703,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, § 3,
 
 ### ART 64.
 
-<p>§1. Jaarlijks wordt een budget verdeeld tussen de erkende diensten voor gezinszorg voor maatregelen voor milieubewuste verplaatsingen. Dat budget bedraagt 496.836,36 euro.<br>
-<br>
-De diensten gebruiken het budget, vermeld in het eerste lid, voor een permanent ondersteunend beleid inzake minimale verplaatsingsafstanden en -tijden van de verzorgenden en voor sensibiliserende initiatieven rond het gebruik van verplaatsingsmiddelen. Ze beschrijven het beleid en vermelden de initiatieven die ze in dat kader nemen en plannen in de kwaliteitsplanning en het jaarverslag, vermeld in artikel 9, §2, van dit besluit.<br>
-<br>
-§2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten op basis van het aantal kilometers dat de diensten jaarlijks doorgeven aan de administratie conform artikel 60, §3, eerste lid, van deze bijlage .<br>
-<br>
-Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot voor het derde trimester.<br>
-<br>
-§3. Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, derde lid, van deze bijlage.</p>
+<p>...</p>
 
 ### ART 64/1.
 
@@ -1747,7 +1739,7 @@ De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de di
 <br>
 §3. De diensten voor gezinszorg bezorgen aan&nbsp;de administratie jaarlijks voor 1 mei per zijinstromer en per regionale stad het totale aantal uren waarvoor ze tijdens het voorbije jaar een loon uitbetaald hebben.<br>
 <br>
-§4. Voor de verdeling van de subsidies, vermeld in artikel 58 tot en met 61 en in artikel 64 van deze bijlage, worden zijinstromers gelijkgesteld met verzorgende personeelsleden.
+§4. Voor de verdeling van de subsidies, vermeld in artikel 58 tot en met 61 van deze bijlage, worden zijinstromers gelijkgesteld met verzorgende personeelsleden.
 
 ### ART 65/2.
 
@@ -1763,7 +1755,7 @@ De subsidie die berekend wordt conform het eerste en tweede lid, wordt aan de di
 <br>
 §3. De diensten voor gezinszorg bezorgen aan de administratie jaarlijks vóór 1 mei per leerling duaal leren en per regionale stad het totale aantal gepresteerde uren tijdens het voorbije jaar, samen met de begin- en einddatum van de overeenkomst van alternerende opleiding.<br>
 <br>
-§4. Voor de verdeling van de subsidies, vermeld in artikel 59, 60 en 64 van deze bijlage, worden leerlingen duaal leren gelijkgesteld met verzorgende personeelsleden.<br>
+§4. Voor de verdeling van de subsidies, vermeld in artikel 59 en 60 van deze bijlage, worden leerlingen duaal leren gelijkgesteld met verzorgende personeelsleden.<br>
 <br>
 §5. Voor de toepassing van artikel 28 van deze bijlage wordt een leerling duaal leren gelijkgesteld met een stagiair.
 
@@ -1806,25 +1798,21 @@ De aanpassing aan het prijsindexcijfer, vermeld in het eerste lid, wordt voor ge
 
 ### ART 71.
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">Jaarlijks bepaalt de minister de diensten die in aanmerking komen voor subsidiëring en, per dienst, het aantal vte logistiek personeel, en het aantal vte doelgroepwerknemers.</span></span><br>
+<p>Jaarlijks bepaalt de minister de diensten die in aanmerking komen voor subsidiëring en, per dienst, het aantal vte logistiek personeel, en het aantal vte doelgroepwerknemers.<br>
 <br>
-<span style="font-size:10pt"><span style="font-family:Verdana,sans-serif">De jaarsubsidie bestaat uit een enveloppe die het resultaat is van de som van de volgende formules:</span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">1°&nbsp;toegewezen aantal vte logistiek personeel * 31.070,39 euro;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">2° toegewezen aantal vte logistiek personeel/22,5 * 46.727,29 euro;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">3°&nbsp;toegewezen aantal vte logistiek personeel/17,5 * 59.454,54 euro;</span></span></span></span><br>
-<span style="font-size:10pt"><span style="background-color:white"><span style="font-family:Verdana,sans-serif"><span style="color:black">4°&nbsp;toegewezen aantal vte logistiek personeel/100 * 69.679,48 euro.</span></span></span></span></p>
+De jaarsubsidie bestaat uit een enveloppe die het resultaat is van de som van de volgende formules:<br>
+1°&nbsp;toegewezen aantal vte logistiek personeel * 31.070,39 euro;<br>
+2° toegewezen aantal vte logistiek personeel/22,5 * 43.875,39&nbsp;euro;<br>
+3°&nbsp;toegewezen aantal vte logistiek personeel/17,5 * 59.454,54 euro;<br>
+4°&nbsp;toegewezen aantal vte logistiek personeel/100 * 69.679,48 euro.</p>
 
 ### ART 72.
 
 <p>Per toegewezen vte doelgroepwerknemer ontvangen de diensten boven op de enveloppe de volgende toeslagen voor:<br>
 1°&nbsp;de doelgroepwerknemer:&nbsp;15.616,47&nbsp;euro;<br>
 2°&nbsp;het administratief personeel: 2.206,10 euro;<br>
-3°&nbsp;het begeleidend personeel: 3.632,54 euro;<br>
-4°&nbsp;het leidinggevend personeel: 747,65 euro.<br>
-<br>
-Naast de toeslagen, vermeld in het eerste lid, ontvangt de dienst een toeslag voor omkaderingspersoneel:<br>
-1°&nbsp;voor 10 vte doelgroepwerknemers: 10.937,52 euro;<br>
-2°&nbsp;per vte doelgroepwerknemer die aan de dienst is toegewezen boven op de 10 vte: 1.093,74 euro.</p>
+3°&nbsp;het begeleidend personeel en het omkaderingspersoneel: 4429,67 euro;<br>
+4°&nbsp;het leidinggevend personeel: 747,65 euro.</p>
 
 ### ART 73.
 
@@ -1881,7 +1869,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 58, §3, 
 
 ### ART 78/1.
 
-§ 1. Voor de maatregel koopkracht uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt een budget van 774.101,35 euro verdeeld tussen de erkende openbare diensten.<br>
+§ 1. Voor de maatregel koopkracht uit het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/non-profitsectoren voor de periode 2021 tot 2025 wordt een budget van 772.123,38 euro verdeeld tussen de erkende openbare diensten.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de openbare diensten op basis van de gegevens over de koopkracht die ze bezorgen aan VVSG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1916,7 +1904,7 @@ Voor alle andere verplaatsingen dan de verplaatsingen, vermeld in het eerste en 
 2°&nbsp;10% als de dienst een percentage haalt dat lager is dan 90% en hoger dan of gelijk aan 85%;<br>
 3°&nbsp;(100% - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85%.<br>
 <br>
-Als een dienst de norm van 90%, vermeld in artikel 79, §1, 3°, van deze bijlage, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 71, tweede lid, 2°, 3°, en 4°, en artikel 72, 2°, 3°, en 4°, van deze bijlage verminderd met:<br>
+Als een dienst de norm van 90%, vermeld in artikel 79, §1, 3°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 71, tweede lid, 2°, 3°, en 4°, en artikel 72, 2°, 3°, en 4°, van deze bijlage verminderd met:<br>
 1°&nbsp;5% als de dienst een percentage haalt dat lager is dan 90% en hoger dan of gelijk aan 85%;<br>
 2°&nbsp;10% als de dienst een percentage haalt dat lager is dan 85% en hoger dan of gelijk aan 80%;<br>
 3°&nbsp;(100% - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80%.</p>
