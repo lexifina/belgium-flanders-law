@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041725,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-09 tot wijziging van artikel 48 en 55 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041725/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "ed0be2d4c9e99a87f2cc785e73e47e53f7eac981ee98b0a16399d45f89074304",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041725&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-01-09",
+  "gazette": "2026-01-29",
+  "numac": 2026000680,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
