@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041712,
+  "title": "Ministerieel besluit van 2026-01-16 tot vaststelling van de personeelscategorieën en diensten van de Vlaamse overheid die voor de berekening van het aantal maaltijdcheques een beroep doen op de alternatieve telling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041712/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "9c49a3e7869f4e2ca5c435e0832f40560d2581c0dcf21e191d1cd368f8ac483f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041712&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-01-16",
+  "gazette": "2026-01-23",
+  "numac": 2026000462,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
