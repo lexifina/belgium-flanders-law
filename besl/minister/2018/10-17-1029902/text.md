@@ -27,7 +27,7 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 12° ...;<br>
 13° Huisartsen Westhoek : Heuvelland, Ieper, Langemark-Poelkapelle, Mesen, Poperinge, Vleteren;<br>
 14° ...;<br>
-15° Huisartsenkoepel Waasland: Beveren-Kruibeke-Zwijndrecht, Sint-Gillis-Waas, Sint-Niklaas, Stekene, Temse, Waasmunster;<br>
+15° Huisartsenkoepel Waasland: Beveren-Kruibeke-Zwijndrecht, Lokeren, Sint-Gillis-Waas, Sint-Niklaas, Stekene, Temse, Waasmunster;<br>
 16° Huisartsenkring Aalst: Aalst, Affligem, Denderleeuw, Erpe-Mere, Geraardsbergen, Haaltert, Lede, Liedekerke, Ninove;<br>
 17° Huisartsenkring Alden Biesen: Bilzen-Hoeselt, Riemst;<br>
 18° Huisartsenkring Antwerpen Oost : Antwerpen (2100, 2140), Wommelgem;<br>
@@ -73,11 +73,11 @@ Per huisartsenkring worden de gebieden opgesomd die deel uitmaken van het werkin
 58° Huisartsenvereniging Minerva: Antwerpen (2000, 2018, 2060, 2600);<br>
 59° Huisartsenkring vereniging zonder winstoogmerk Huisartsen Zuid-Oost Hageland : Boutersem, Geetbets, Glabbeek, Hoegaarden, Kortenaken, Landen, Linter, Tienen, Zoutleeuw;<br>
 60° Huisartsenkring Noordrand Antwerpen : Brasschaat, Brecht, Essen, Kalmthout, Kapellen, Wuustwezel;<br>
-61° Huisartsenvereniging der Durmestreek : Lokeren;<br>
+61° ...;<br>
 62° ...;<br>
 63° Huisartsenvereniging Gent : Destelbergen, Gent (9000, 9030, 9031, 9032, 9040, 9041, 9042, 9050, 9051, 9052);<br>
 64° Huisartsenkring Scheldekracht : Laarne, Lochristi, Merelbeke-Melle, Wetteren, Wichelen;<br>
-65° Huisartsenvereniging Hagewacht : Aarschot, Begijnendijk, Bekkevoort, Scherpenheuvel-Zichem, Tielt-Winge;<br>
+65° Huisartsenkring Hagewacht : Aarschot, Begijnendijk, Bekkevoort, Scherpenheuvel-Zichem, Tielt-Winge;<br>
 66° Huisartsenvereniging Malle Zoersel : Malle, Zandhoven, Zoersel;<br>
 67° Huisartsenvereniging Regio Turnhout : Arendonk, Baarle-Hertog, Beerse, Dessel, Hoogstraten, Kasterlee, Lille, Merksplas, Oud-Turnhout, Ravels, Retie, Rijkevorsel, Turnhout, Vosselaar;<br>
 68° Huisartsenvereniging Voorkempen : Schilde, Wijnegem;<br>
