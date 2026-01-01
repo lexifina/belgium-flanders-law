@@ -84,7 +84,8 @@ In dit besluit wordt verstaan onder:<br>
 42° verordening (EU) 2021/2115: verordening (EU) 2021/2115 van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor Plattelandsontwikkeling (EFLPO) worden gefinancierd, en tot intrekking van Verordeningen (EU) nr. 1305/2013 en (EU) nr. 1307/2013;<br>
 43° verordening (EU) 2021/2116: verordening (EU) 2021/2116 van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EU) nr. 1306/2013;<br>
 44° verzamelaanvraag: het geospatiale en diergebonden aanvraagsysteem zoals omschreven in artikel 65, lid 4, a), van verordening (EU) 2021/2116, vermeld in het ministerieel besluit van 23 juni 2015;<br>
-45° voorteelt: de teelt die in het betreffende jaar wordt geoogst of ingewerkt voor de hoofdteelt van dat jaar wordt ingezaaid.<br>
+45° voorteelt: de teelt die in het betreffende jaar wordt geoogst of ingewerkt voor de hoofdteelt van dat jaar wordt ingezaaid;<br>
+46° wintergewas: een gewas dat geen gras is en dat wordt ingezaaid in het najaar met het oog op landbouwproductie in het daaropvolgende jaar, met inbegrip van wintergranen en wintergranen met vlinderbloemigen.<br>
 <br>
 De verbintenissen die worden gesloten voor de agromilieuklimaatmaatregelen, vormen de agromilieuklimaatverbintenissen, vermeld in artikel 70 van verordening (EU) 2021/2115.
 
@@ -108,8 +109,8 @@ Binnen de perken van de beschikbare begrotingskredieten kan de bevoegde entiteit
 &nbsp; c) eenjarige faunavriendelijke teelten:<br>
 &nbsp; &nbsp; 1) zomergraan;<br>
 &nbsp; &nbsp; 2) faunamengsel;<br>
-&nbsp; &nbsp; 3) verlengde voorjaarsbraak;<br>
-&nbsp; d) eenjarige faunavriendelijke nateelten;&nbsp;<br>
+&nbsp; &nbsp; 3) ...;<br>
+&nbsp; d) ...;&nbsp;<br>
 7° de inzaai van meerjarige milieu-, biodiversiteitsvriendelijke of klimaatbestendige teelten:<br>
 &nbsp; a) meerjarige eiwitteelten:<br>
 &nbsp; &nbsp; 1) vlinderbloemigen;<br>
@@ -139,12 +140,14 @@ Binnen de perken van de beschikbare begrotingskredieten kan de bevoegde entiteit
 &nbsp; &nbsp; 2) het gebruik van stalmest of champost;<br>
 &nbsp; &nbsp; 3) het gebruik van houtsnippers;<br>
 &nbsp; c) het bereiken van de streefzone voor het organischekoolstofgehalte en de zuurtegraad van de bodem;<br>
-12° de aanleg van een bufferstrook:<br>
+12° de aanleg of het beheer van een bufferstrook:<br>
 &nbsp; a) grasbufferstrook in het kader van erosiebestrijding;<br>
 &nbsp; b) grasbufferstrook langs kwetsbare landschapselementen;<br>
-&nbsp; c) grasbufferstrook langs waterlopen;<br>
-&nbsp; d) bufferstrook met graskruidenmengsel;<br>
+&nbsp; c) ...;<br>
+&nbsp; d) ...;<br>
 &nbsp; e) bufferstrook met bloemenmengsel;<br>
+&nbsp; f) beheer bufferstrook met klepelmaaier;&nbsp;<br>
+&nbsp; g) beheer bufferstrook maaien met afvoer van het maaisel;<br>
 13° de toepassing van mechanische onkruidbestrijding;<br>
 14° de toepassing van erosiebestrijdende en bodemverbeterende teelttechnieken:<br>
 &nbsp; a) de aanleg van drempels tussen de ruggen bij ruggenteelten;<br>
@@ -214,7 +217,7 @@ De landbouwer moet al zijn percelen die hij in dat jaar in eigen gebruik heeft, 
 
 ### ART 10.
 
-Om een subsidie voor een maatregel als vermeld in artikel 3, eerste lid, te krijgen, dient een landbouwer ten laatste op de uiterste wijzigingsdatum een verbintenisaanvraag in aan de hand van de verzamelaanvraag met uitzondering van de verbintenisaanvraag voor de maatregel, vermeld in artikel 3, eerste lid, 6°, c), 3), die ten laatste op de uiterste indieningsdatum van de verzamelaanvraag, en nooit later dan 30 april van het verbintenisjaar, wordt ingediend. De verzamelaanvraag moet tijdig zijn ingediend overeenkomstig artikel 7 van het ministerieel besluit van 23 juni 2015.<br>
+Om een subsidie voor een maatregel als vermeld in artikel 3, eerste lid, te krijgen, dient een landbouwer ten laatste op de uiterste wijzigingsdatum een verbintenisaanvraag in aan de hand van de verzamelaanvraag. De verzamelaanvraag moet tijdig zijn ingediend overeenkomstig artikel 7 van het ministerieel besluit van 23 juni 2015.<br>
 <br>
 De verbintenis begint op 1 januari van het jaar waarin de verbintenisaanvraag wordt ingediend.&nbsp;<br>
 <br>
@@ -234,9 +237,7 @@ In afwijking van het eerste lid geeft de landbouwer voor de maatregelen, vermeld
 
 ### ART 12.
 
-De landbouwer die een verbintenis sluit voor de maatregel, vermeld in artikel 3, eerste lid, 1°, 2°, 3°, 6°, c), &nbsp;9°, 12°, b) tot en met e), 13°, en 16°, a), stelt de relevante informatie over zijn gewasbeschermingsmiddelengebruik ter beschikking voor het perceel in kwestie.&nbsp;<br>
-<br>
-De minister kan bepalen welke informatie over het gewasbeschermingsmiddelengebruik, vermeld in het eerste lid, meegedeeld moet worden en op welke manier dat moet gebeuren.
+...
 
 ### ART 13.
 
@@ -487,7 +488,7 @@ Als een of meerdere percelen niet voldoen aan de voorwaarden, vermeld in paragra
 
 ### ART 36.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 6°, b, een subsidie verkrijgen voor de inzaai van bepaalde eenjarige teelten met een positieve impact op het milieu, het klimaat of de biodiversiteit als hoofdteelt. De subsidie bedraagt 230 euro per hectare voor de teelten die geoogst worden en 600 euro per hectare voor de teelten die niet geoogst worden.<br>
+§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 6°, b, een subsidie verkrijgen voor de inzaai van bepaalde eenjarige teelten met een positieve impact op het milieu, het klimaat of de biodiversiteit als hoofdteelt. De subsidie bedraagt 230 euro per hectare voor de teelten die geoogst worden en 600 euro per hectare voor de teelten die niet mogen geoogst worden.<br>
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:&nbsp;<br>
 1° de teelten worden als hoofdteelt ingezaaid;&nbsp;<br>
@@ -530,33 +531,13 @@ Als een of meerdere percelen niet voldoen aan de voorwaarden, vermeld in paragra
 
 ### ART 39.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 6°, c),3), een subsidie ontvangen voor het aanleggen en langer aanhouden van voorjaarsbraak. De subsidie bedraagt 350 euro per hectare.<br>
-<br>
-§2. De landbouwer komt in aanmerking voor de subsidie, vermeld in de eerste paragraaf, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° het perceel is in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
-2° de voorteelt op het perceel in kwestie is braak;<br>
-3° op het perceel in kwestie wordt nadien een hoofdteelt ingezaaid;&nbsp;<br>
-4° het perceel in kwestie heeft een oppervlakte van minstens 0,30 hectare;<br>
-5° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
-6° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
-<br>
-§3. De minister bepaalt tot wanneer het perceel braak moet worden gehouden zoals vermeld in paragraaf 2, 2°, en kan de teelttechnische voorwaarden, de zaaidichtheid, de samenstelling en de voorwaarden voor het beheer bepalen.
+...
 
-## Onderafdeling 4. Eenjarige faunavriendelijke nateelten
+## Onderafdeling 4. ...
 
 ### ART 40.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 6°, d), een subsidie verkrijgen voor de inzaai van eenjarige faunavriendelijke nateelten. De subsidie bedraagt 60 euro per hectare.<br>
-<br>
-§2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° een vroeg afrijpende variant van Japanse haver of een mengsel met Japanse haver wordt ingezaaid als nateelt;&nbsp;<br>
-2° het perceel in kwestie ligt in een gebied dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming overeenkomstig artikel 18, §2, van het besluit van de Vlaamse Regering van 12 mei 2023 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling, voor de soorten ‘akkervogel’, ‘grauwe kiekendief’ of ‘hamster’, of ligt in het gebied op Linkerscheldeoever dat is aangewezen als beheergebied voor de beheerdoelstelling soortenbescherming conform artikel 18, §2, van het voormelde besluit, voor de soort bruine kiekendief;<br>
-3° het perceel is in het jaar van de verbintenisaanvraag en in de twee jaar die voorafgaan aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
-4° het perceel in kwestie heeft een oppervlakte van minstens 0,30 hectare;<br>
-5° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofd- en nateelt;&nbsp;<br>
-6° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.&nbsp;<br>
-<br>
-§3. De minister kan bepalen welke vroeg afrijpende varianten in aanmerking komen voor de subsidie, vermeld in paragraaf 1, en kan de teelttechnische voorwaarden, de zaaidichtheid, de samenstelling van de mengsels met Japanse haver als vermeld in paragraaf 2, 1°, en de voorwaarden voor het beheer bepalen.
+...
 
 ## Hoofdstuk 7. De inzaai van meerjarige milieu-, biodiversiteitsvriendelijke of klimaatbestendige teelten
 
@@ -614,7 +595,7 @@ Een landbouwer komt in aanmerking voor de subsidie, vermeld in artikel 42 tot en
 
 ### ART 46.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 7°, b), afhankelijk van de beschikbare begrotingskredieten, jaarlijks een subsidie verkrijgen voor de inzaai van meerjarige teelten met een positieve impact op het milieu, het klimaat of de biodiversiteit als hoofdteelt. De subsidie bedraagt maximaal 600 euro per hectare.<br>
+§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 7°, b), afhankelijk van de beschikbare begrotingskredieten, jaarlijks een subsidie verkrijgen voor de aanleg van meerjarige teelten met een positieve impact op het milieu, het klimaat of de biodiversiteit als hoofdteelt. De subsidie bedraagt maximaal 600 euro per hectare.<br>
 <br>
 §2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn aan al de volgende voorwaarden is voldaan:<br>
 1° het perceel in kwestie is in het jaar van de verbintenisaanvraag en de twee jaar die voorafgaand aan dat jaar, als bouwland of blijvende teelt aangegeven in de verzamelaanvraag;<br>
@@ -1012,10 +993,10 @@ De maatregelen, vermeld in artikel 3, eerste lid, 11°, b), kunnen gecombineerd 
 1° 60 euro per hectare voor 2023;<br>
 2° 50 euro per hectare voor 2024;<br>
 3° 50 euro per hectare voor 2025;<br>
-4° 40 euro per hectare vanaf 2026.<br>
+4° 50 euro per hectare vanaf 2026.<br>
 <br>
 §3. De landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° er wordt een minimale hoeveelheid van 10 ton stalmest of champost per hectare op het perceel in kwestie toegediend; &nbsp;&nbsp;<br>
+1° er wordt een minimale hoeveelheid van 15 ton stalmest of 10 ton champost per hectare op het perceel in kwestie toegediend; &nbsp;&nbsp;<br>
 2° de landbouwer heeft het perceel in kwestie in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
 3° de landbouwer geeft het perceel in kwestie aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
 4° de landbouwer beschikt over de mestrechten in het verbintenisjaar.<br>
@@ -1054,7 +1035,7 @@ De maatregelen, vermeld in artikel 3, eerste lid, 11°, b), kunnen gecombineerd 
 <br>
 De minister bepaalt de streefzones voor het koolstofgehalte en de bodemzuurtegraad, vermeld in het eerste lid, 2° en 3°, en de datum waarop de bodemanalyse ten laatste beschikbaar moet zijn in het bodempaspoort en kan nadere regels vastleggen over hoe de streefzones bereikt moeten worden.
 
-## Hoofdstuk 12. De aanleg van een bufferstrook
+## Hoofdstuk 12. De aanleg of het beheer van een bufferstrook
 
 ## Afdeling 1. De verbintenis
 
@@ -1064,7 +1045,9 @@ Om een subsidie te verkrijgen voor de toepassing van een maatregel als vermeld i
 
 ### ART 76.
 
-De verbintenis, vermeld in artikel 75 wordt gesloten per bufferstrook, die is aangelegd op de rand van een perceel van de landbouwer die de verbintenis aangaat. De strook wordt afgesplitst van dat perceel. De resterende oppervlakte van dat perceel, wordt het aangrenzende perceel, en de strook wordt als afzonderlijk perceel aangegeven in de verzamelaanvraag.
+De verbintenis, vermeld in artikel 75, wordt gesloten per bufferstrook en de strook wordt afgesplitst van het perceel. De resterende oppervlakte van dat perceel wordt het aangrenzende perceel.<br>
+<br>
+Voor de maatregel, vermeld in artikel 3, eerste lid, 12°, a), b) en e), wordt de bufferstrook aangelegd op de rand van een perceel van de landbouwer die de verbintenis aangaat.
 
 ## Afdeling 2. De voorwaarden
 
@@ -1089,8 +1072,9 @@ De verbintenis, vermeld in artikel 75 wordt gesloten per bufferstrook, die is aa
 10° de grasbufferstrook mag gebruikt worden als wendakker, op voorwaarde dat dat gebruik geen impact heeft op de functie van erosiebestrijding en de grasbufferstrook voldoende ontwikkeld is;<br>
 11° op de grasbufferstrook mag een plantaardige dam aanwezig zijn;&nbsp;<br>
 12° op de grasbufferstrook mogen er geen gewasbeschermingsmiddelen of bemesting worden toegepast;&nbsp;<br>
-13° de landbouwer heeft de grasbufferstrook in gebruik gedurende de verbintenistermijn;&nbsp;<br>
-14° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+13° de grasbufferstrook is in eigen gebruik gedurende de teeltperiode van de hoofdteelt;&nbsp;<br>
+14° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
+15° de grasbufferstrook overlapt niet met een beschermingsstrook als vermeld in artikel 1.3.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
 §3. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor beheer van de grasbufferstrook en het perceel bouwland bepalen.
 
@@ -1104,7 +1088,7 @@ De verbintenis, vermeld in artikel 75 wordt gesloten per bufferstrook, die is aa
 <br>
 §3. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 2, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
 1° de grasbufferstrook bestaat uit een strook met gras. Het aangrenzende perceel is bouwland, en mag geen perceel grasland zijn. De oppervlakte van de grasbufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
-2° de grasbufferstrook ligt langs een kwetsbaar landschapselement;<br>
+2° de grasbufferstrook ligt langs een kwetsbaar landschapselement, met uitzondering van een waterloop die is opgenomen in de Vlaamse Hydrografische Atlas;<br>
 3° de grasbufferstrook wordt in het najaar van het jaar dat het verbintenisjaar voorafgaat, ingezaaid of is dan aanwezig;<br>
 4° de grasbufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de grasbufferstrook een winterteelt ingezaaid wordt of als de grasbufferstrook, opnieuw aangelegd wordt;&nbsp;<br>
 5° de grasbufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 12 meter. Daarop gelden de volgende uitzonderingen:<br>
@@ -1115,8 +1099,9 @@ b) als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwl
 8° de grasbufferstrook mag gebruikt worden als wendakker, op voorwaarde dat dat gebruik geen impact heeft op de bufferende functie en de grasbufferstrook voldoende ontwikkeld is:<br>
 9° op de grasbufferstrook is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan;<br>
 10° als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, mag er een plantaardige dam op aanwezig zijn;<br>
-11° de landbouwer heeft de grasbufferstrook in eigen gebruik gedurende de verbintenistermijn;<br>
-12° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+11° de grasbufferstrook is in eigen gebruik tijdens de teeltperiode van de hoofdteelt;<br>
+12° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
+13° de grasbufferstrook overlapt niet met een beschermingsstrook als vermeld in artikel 1.3.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
 Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
 <br>
@@ -1126,64 +1111,17 @@ Wanneer uitzonderlijke weersomstandigheden de aanleg of aanwezigheid van de gras
 <br>
 §4. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de grasbufferstrook en het perceel bouwland bepalen.
 
-## Onderafdeling 3. Grasbufferstrook langs waterlopen
+## Onderafdeling 3. ...
 
 ### ART 79.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 12°, c), een subsidie verkrijgen voor een grasbufferstrook langs een waterloop. De subsidie bedraagt 945 euro per hectare aangelegde grasbufferstrook.<br>
-<br>
-§2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° de grasbufferstrook bestaat uit een strook met gras. Het aangrenzende perceel is bouwland, en mag geen perceel grasland zijn. Het perceel mag geen perceel zijn met een zeer hoge of een hoge erosiegevoeligheid. De oppervlakte van de grasbufferstrook is kleiner dan de oppervlakte van het aangrenzende perceel;&nbsp;<br>
-2° de grasbufferstrook ligt langs een waterloop;<br>
-3° de grasbufferstrook ligt niet langs een perceel bouwland met een zeer hoge of een hoge erosiegevoeligheid;<br>
-4° de grasbufferstrook wordt in het najaar van het jaar dat het verbintenisjaar voorafgaat, ingezaaid of is dan aanwezig;<br>
-5° de grasbufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de grasbufferstrook een winterteelt ingezaaid wordt of als de grasbufferstrook, opnieuw aangelegd wordt;&nbsp;<br>
-6° de grasbufferstrook heeft een minimale breedte van 3 meter en een maximale breedte van 6 meter over de hele lengte van de strook; &nbsp;<br>
-7° op de grasbufferstrook is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan;<br>
-8° de grasbufferstrook wordt minstens eenmaal per jaar gemaaid;&nbsp;<br>
-9° als de grasbufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel bouwland en de grasbufferstrook genivelleerd, zodat afstromend water optimaal over de grasbufferstrook kan vloeien;<br>
-10° de landbouwer heeft de grasbufferstrook in eigen gebruik gedurende de verbintenistermijn;<br>
-11° de landbouwer geeft de grasbufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
-<br>
-Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
-<br>
-Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 4°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2024.<br>
-<br>
-Wanneer uitzonderlijke weersomstandigheden de aanleg of aanwezigheid van de grasbufferstrook in het najaar van het jaar voorafgaand aan het verbintenisjaar als vermeld in het eerste lid, 4°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.&nbsp;<br>
-<br>
-§2. De minister kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de grasbufferstrook en het perceel bouwland bepalen.
+...
 
-## Onderafdeling 4. Bufferstrook met graskruidenmengsel
+## Onderafdeling 4. ...
 
 ### ART 80.
 
-§1. Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 12°, d), een subsidie verkrijgen voor een bufferstrook, die wordt ingezaaid met een graskruidenmengsel. De subsidie bedraagt 1095 euro per hectare aangelegde bufferstrook.&nbsp;<br>
-<br>
-§2. Een landbouwer komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° de bufferstrook bestaat uit een strook die wordt ingezaaid met een graskruidenmengsel. Het aangrenzende perceel is bouwland of een blijvende teelt. De oppervlakte van de bufferstrook is kleiner dan de oppervlakte van dat aangrenzende perceel;<br>
-2° de vegetatie op de bufferstrook kan duidelijk onderscheiden worden van de vegetatie op het perceel bouwland;&nbsp;<br>
-3° de bufferstrook wordt in het najaar van het jaar dat het verbintenisjaar voorafgaat, ingezaaid of is dan aanwezig;<br>
-4° de bufferstrook wordt minstens eenmaal in het verbintenisjaar gemaaid. Het maaien gebeurt:&nbsp;<br>
-a) ofwel voor 15 juli van het verbintenisjaar. Minstens een derde van de strook wordt pas na 15 juli en uiterlijk op 31 december gemaaid;&nbsp;<br>
-b) ofwel na 15 juli van het verbintenisjaar;<br>
-5° de bufferstrook wordt aangehouden tot en met 31 december van het verbintenisjaar. Deze voorwaarde is niet verplicht als in die periode op de bufferstrook een winterteelt ingezaaid wordt of &nbsp;als de bufferstrook opnieuw aangelegd wordt;&nbsp;<br>
-6° de bufferstrook in kwestie heeft een minimale breedte van 6 meter over de hele lengte van de strook, en heeft een maximale breedte van 18 meter. Daarop gelden de volgende uitzonderingen:<br>
-a) de minimale breedte mag minder dan 6 meter zijn, als de oppervlakte van de strook minstens 0,3 hectare is.&nbsp;<br>
-b) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een medium, een lage of een heel lage erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 6 meter over de hele lengte van de strook met een maximale breedte van 24 meter;<br>
-c) als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt met een zeer hoge of een hoge erosiegevoeligheid, heeft de bufferstrook een minimale breedte van 9 meter en een maximale breedte van 30 meter op percelen;&nbsp;<br>
-7° op de bufferstrook is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan;<br>
-8° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel bouwland en de grasstrook genivelleerd, zodat afstromend water optimaal over de grasstrook kan vloeien.&nbsp;<br>
-9° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, mag er een plantaardige dam op aanwezig zijn;<br>
-10° de landbouwer heeft de bufferstrook in eigen gebruik gedurende de verbintenistermijn;<br>
-11° de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
-<br>
-Voor de verbintenissen die worden afgesloten in 2023, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de grasbufferstrook moet ingezaaid worden voor 1 mei 2023.<br>
-<br>
-Voor de verbintenissen die worden afgesloten in 2024, geldt, als uitzondering op de voorwaarde, vermeld in het eerste lid, 3°, dat de bufferstrook moet ingezaaid worden voor 1 mei 2024.<br>
-<br>
-Wanneer uitzonderlijke weersomstandigheden de aanleg of aanwezigheid van de bufferstrook met graskruidenmengsel in het najaar van het jaar voorafgaand aan het verbintenisjaar als vermeld in het eerste lid, 3°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.&nbsp;<br>
-<br>
-§3. De minister bepaalt de samenstelling van het graskruidenmengsel, vermeld in het eerste lid, en kan bijkomende teelttechnische en voorwaarden voor het beheer van de bufferstrook en het perceel bouwland bepalen.
+...
 
 ## Onderafdeling 5. Bufferstrook met bloemenmengsel
 
@@ -1206,12 +1144,55 @@ c) ...<br>
 8° op de bufferstrook is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan;<br>
 9° als de bufferstrook onderaan een afhellend gedeelte van een perceel bouwland ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel bouwland en de bufferstrook, genivelleerd, zodat afstromend water optimaal over de grasstrook kan vloeien;&nbsp;<br>
 10° ...;<br>
-11° de landbouwer heeft de bufferstrook in kwestie in eigen gebruik gedurende de verbintenistermijn;<br>
-12° de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+11° de bufferstrook is in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
+12° de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
+13° de bufferstrook overlapt niet met een beschermingsstrook als vermeld in artikel 1.3.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
 Wanneer uitzonderlijke weersomstandigheden de aanleg van de bufferstrook met bloemenmengsel voor 1 mei van het verbintenisjaar als vermeld in het eerste lid, 3°, verhinderen, kan de minister in de betrokken gebieden, op advies van de bevoegde entiteit, in afwijking daarvan, een latere uiterste inzaaidatum bepalen voor dat verbintenisjaar. De bevoegde entiteit baseert haar advies op meteorologische data.<br>
 <br>
 §3. De minister bepaalt de samenstelling van het bloemenmengsel, vermeld in paragraaf 2, 1°, en kan bijkomende teelttechnische voorwaarden en voorwaarden voor het beheer van de strook en het perceel bouwland bepalen.
+
+## Onderafdeling 6. Beheer bufferstrook met klepelmaaier
+
+### ART 81/1.
+
+Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 12°, f), een subsidie krijgen voor het beheer met klepelmaaier van een bufferstrook langs een waterloop die is opgenomen in de Vlaamse Hydrografische Atlas. De subsidie bedraagt 1000 euro per hectare bufferstrook.<br>
+<br>
+Een landbouwer komt in aanmerking voor de subsidie, vermeld in het eerste lid, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de bufferstrook ligt langs een waterloop die is opgenomen in de Vlaamse Hydrografische Atlas en overlapt met een beschermingsstrook als vermeld in artikel 1.3.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+2°&nbsp;&nbsp; &nbsp;de bufferstrook bestaat niet uit houtige gewassen of miscanthus;<br>
+3°&nbsp;&nbsp; &nbsp;de voorwaarden worden nageleefd op de volledige oppervlakte tot en met 31 december van het verbintenisjaar, behalve als op het aangrenzende perceel een wintergewas in het najaar wordt ingezaaid. In dat laatste geval blijven de voorwaarden van toepassing op de bufferstrook die overblijft;<br>
+4°&nbsp;&nbsp; &nbsp;de bufferstrook in kwestie heeft een minimale breedte van 3 meter over de hele lengte van de strook, en heeft een maximale breedte van 30 meter;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;als de bufferstrook die wordt beheerd, breder is dan de minimale verplichte breedte van de beschermingsstrook, is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan op het deel van de strook naast de beschermingsstrook, met behoud van de toepassing van het verbod op het gebruik van gewasbeschermingsmiddelen en bemesting op de beschermingsstrook conform artikel 1.3.2.2, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;&nbsp;<br>
+6°&nbsp;&nbsp; &nbsp;maaien en klepelen zijn niet toegestaan in de periode vanaf 20 maart tot en met 15 juli;<br>
+7°&nbsp;&nbsp; &nbsp;de bufferstrook wordt minstens één keer per jaar gemaaid met een klepelmaaier of via maaien waarbij er geen maaisel op de strook mag blijven liggen. Elke bijkomende maaibeurt gebeurt met een klepelmaaier of via maaien waarbij er geen maaisel op de bufferstrook mag blijven liggen;<br>
+8°&nbsp;&nbsp; &nbsp;als de bufferstrook onderaan een afhellend gedeelte van een perceel ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel en de bufferstrook genivelleerd, zodat afstromend water optimaal over de bufferstrook kan vloeien;<br>
+9°&nbsp;&nbsp; &nbsp;de bufferstrook kan gebruikt worden als wendakker, op voorwaarde dat dat gebruik geen impact heeft op de beschermende functie en de bufferstrook voldoende ontwikkeld is;<br>
+10°&nbsp;&nbsp; &nbsp;de bufferstrook is in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
+11°&nbsp;&nbsp; &nbsp;de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+<br>
+De minister kan de teelttechnische voorwaarden en de voorwaarden voor het beheer van de bufferstrook, vermeld in het tweede lid, nader bepalen.
+
+## Onderafdeling 7. Beheer bufferstrook maaien met afvoer van het maaisel
+
+### ART 81/2.
+
+Een landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 12°, g), een subsidie verkrijgen voor het beheer met afvoer van het maaisel van een bufferstrook langs een waterloop die is opgenomen in de Vlaamse Hydrografische Atlas. De subsidie bedraagt 1250 euro per hectare bufferstrook.<br>
+<br>
+Een landbouwer komt in aanmerking voor de subsidie, vermeld in het eerste lid, als gedurende de verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de bufferstrook ligt langs een waterloop die is opgenomen in de Vlaamse Hydrografische Atlas en overlapt met een beschermingsstrook als vermeld in artikel 1.3.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+2°&nbsp;&nbsp; &nbsp;de bufferstrook bestaat niet uit houtige gewassen of miscanthus;<br>
+3°&nbsp;&nbsp; &nbsp;de voorwaarden worden nageleefd op de volledige oppervlakte tot en met 31 december van het verbintenisjaar, behalve als op het aangrenzende perceel een wintergewas in het najaar wordt ingezaaid. In dat laatste geval blijven de voorwaarden van toepassing op de bufferstrook die overblijft;<br>
+4°&nbsp;&nbsp; &nbsp;de bufferstrook in kwestie heeft een minimale breedte van 3 meter over de hele lengte van de strook, en heeft een maximale breedte van 30 meter;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;als de bufferstrook die wordt beheerd, breder is dan de minimale verplichte breedte van de beschermingsstrook, is het gebruik van gewasbeschermingsmiddelen en bemesting niet toegestaan op het deel van de strook naast de beschermingsstrook, met behoud van de toepassing van het verbod op het gebruik van gewasbeschermingsmiddelen en bemesting op de beschermingsstrook conform artikel 1.3.2.2, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+6°&nbsp;&nbsp; &nbsp;maaien en klepelen zijn niet toegestaan in de periode vanaf 20 maart tot en met 15 juli;<br>
+7°&nbsp;&nbsp; &nbsp;de bufferstrook wordt minstens één keer per jaar gemaaid. Het maaisel blijft niet liggen op de bufferstrook;&nbsp;<br>
+8°&nbsp;&nbsp; &nbsp;als de bufferstrook onderaan een afhellend gedeelte van een perceel ligt, wordt de ploegvoor of ploegwal die aanwezig is tussen het perceel en de bufferstrook genivelleerd, zodat afstromend water optimaal over de bufferstrook kan vloeien;<br>
+9°&nbsp;&nbsp; &nbsp;de bufferstrook kan gebruikt worden als wendakker, op voorwaarde dat dat gebruik geen impact heeft op de beschermende functie en de bufferstrook voldoende ontwikkeld is;<br>
+10°&nbsp;&nbsp; &nbsp;de bufferstrook is in eigen gebruik gedurende de teeltperiode van de hoofdteelt;<br>
+11°&nbsp;&nbsp; &nbsp;de landbouwer geeft de bufferstrook als apart perceel aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet.<br>
+<br>
+De minister kan de teelttechnische voorwaarden en de voorwaarden voor het beheer van de bufferstrook, vermeld in het tweede lid, nader bepalen.
 
 ## Hoofdstuk 13. De toepassing van mechanische onkruidbestrijding
 
