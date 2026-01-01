@@ -64,7 +64,8 @@ De Vlaamse Nutsregulator heeft als missie de regulering van en toezicht op, in h
 1° het beheer van de elektriciteits- en aardgasnetten en het plaatselijk vervoernet van elektriciteit en de werking van de elektriciteits- en gasmarkt;<br>
 2° de productie en levering van thermische energie en het beheer van warmte- of koudenetten;<br>
 3° de productie en de levering van water bestemd voor menselijke aanwending via zowel openbare als private waterdistributienetwerken;<br>
-4° de invulling van de saneringsplicht;<br>
+3°/1 het verbod op eventuele kruissubsidiëring tussen activiteiten van de exploitanten van een openbaar of privaat waterdistributienetwerk en de instanties die verantwoordelijk zijn voor de uitvoering van de sanerings-verplichting, met andere activiteiten;<br>
+4° de invulling van de saneringsplicht, wat financiële en economische aangelegenheden met betrekking tot sanering betreft;<br>
 5° de bevordering van de transparantie en de efficiëntie van de markt voor het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.
 
 ## Onderafdeling 2. Toezichthoudende taken
@@ -101,14 +102,14 @@ Om zijn missie waar te maken, vervult de Vlaamse Nutsregulator de volgende toezi
 &nbsp; e) toezicht houden op de naleving van de bepalingen van titel IV/1 van het Energiedecreet van 8 mei 2009, alsook van de bijbehorende uitvoeringsbepalingen;<br>
 &nbsp; f) toezicht houden op de naleving van een eventueel technisch reglement voor warmte- of koudenetten;<br>
 3° water:<br>
-&nbsp; a) toezicht houden op de uitvoering van de regels betreffende de aanrekening<br>
-aan de klant van waterdiensten met uitzondering van zelfvoorzieningen;<br>
-&nbsp; b) toezicht houden op de zekerheid en betrouwbaarheid van de openbare en private waterdistributienetwerken, alsook de kwaliteit van de dienstverlening van de exploitanten van openbare en private waterdistributienetwerken, van de partijen met wie zij in voorkomend geval in uitvoering van artikel<br>
-2.6.1.3.3 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, een overeenkomst afsluiten, of van de partijen verantwoordelijk voor de invulling van de saneringsplicht, en de klachten van de huishoudelijke afnemers daarover, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de kosten en de tijd die gepaard gaan met de uitvoering van aansluitingen en herstellingen;<br>
-&nbsp; c) toezicht houden op de vrije toegang voor de abonnee tot zijn waterverbruiksgegevens en het verstrekken op het niveau van het Vlaamse Gewest, voor facultatief gebruik, van een gemakkelijk te begrijpen geharmoniseerd formaat van de waterverbruiksgegevens en andere gegevens van de afnemer over de aansluiting en toegang tot het waterdistributienetwerk en de onmiddellijke toegang van de klanten tot die gegevens;<br>
-&nbsp; d) het waken over en vergelijken van onder meer de kostenstructuur, de boekhouding, de prestaties en de efficiëntie van de exploitanten van een openbaar of privaat waterdistributienetwerk en de partijen verantwoordelijk voor de invulling van de saneringsplicht;<br>
-&nbsp; e) erover waken dat er geen sprake is van kruissubsidiëring tussen activiteiten van de exploitanten van een openbaar of privaat waterdistributienetwerk, met andere activiteiten;<br>
-&nbsp; f) erover waken dat er geen sprake is van kruissubsidiëring tussen activiteiten van de partijen verantwoordelijk voor de invulling van de saneringsplicht met andere activiteiten;<br>
+a)&nbsp;&nbsp; &nbsp;toezicht houden op de uitvoering van de regels voor de aanrekening aan de klant van waterdiensten, met uitzondering van zelfvoorzieningen;<br>
+b)&nbsp;&nbsp; &nbsp;toezicht houden op de correcte toepassing door de exploitanten van een openbaar waterdistributienetwerk van hoofdstuk 4 van het algemeen waterverkoopreglement, vermeld in artikel 2.5.3.1, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wat de bepalingen betreft die gekoppeld zijn aan de taken, vermeld in punt 3°, en in artikel 7, 2°;<br>
+c)&nbsp;&nbsp; &nbsp;toezicht houden op de bepaling door de exploitanten van een openbaar waterdistributienetwerk van het tarief voor de berekening van de variabele prijs, die nodig is om de saneringsverplichting op gemeentelijk en bovengemeentelijk vlak, vermeld in artikel 4.3.1.1.2, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, na te komen;<br>
+d)&nbsp;&nbsp; &nbsp;onderzoek voeren naar de kostenstructuur en financiële draagkracht van de partijen, vermeld in artikel 2.6.1.3.3, §1 en §2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, die verantwoordelijk zijn voor de invulling van de gemeentelijke saneringsverplichting, vermeld in artikel 2.1.2, 12°, van hetzelfde decreet van 18 juli 2003, en de invloed van die elementen op het variabel tarief dat aan de klant wordt aangerekend;<br>
+e)&nbsp;&nbsp; &nbsp;erover waken dat er geen sprake is van kruissubsidiëring tussen activiteiten van de exploitanten van een openbaar of privaat waterdistributienetwerk, met andere activiteiten;<br>
+f)&nbsp;&nbsp; &nbsp;erover waken dat er geen sprake is van kruissubsidiëring tussen activiteiten van de instantie die verantwoordelijk is voor de uitvoering van de saneringsplicht met andere activiteiten, meer bepaald op de bepalingen van artikel 4.3.1.1.1, §2, derde en vierde lid, artikel 4.3.1.2.1, §1, vierde en vijfde lid, en artikel 4.3.2.1, §2, tweede en derde lid, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+g)&nbsp;&nbsp; &nbsp;toezicht houden op de vrije toegang van de abonnee tot zijn waterverbruiksgegevens en het verstrekken op het niveau van het Vlaamse Gewest, voor facultatief gebruik, van een gemakkelijk te begrijpen geharmoniseerd formaat van de waterverbruiksgegevens en andere gegevens over de aansluiting en toegang tot het openbaar waterdistributienetwerk, en de onmiddellijke toegang van de abonnees tot die gegevens;<br>
+h)&nbsp;&nbsp; &nbsp;waken over de uitvoering van artikel 2.2.2, §2/1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en de uitvoeringsbesluiten ervan;<br>
 4° koolstofdioxide:<br>
 &nbsp; a) toezicht houden op de naleving door een beheerder van een lokale cluster, het vervoernetwerk, een terminal voor vloeibaarmaking, een gesloten industrieel net voor koolstofdioxide en een directe leiding, en door producenten en verbruikers van alle verplichtingen die hen krachtens het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest en zijn uitvoeringsbesluiten zijn opgelegd;<br>
 &nbsp; b) toezicht houden op de zekerheid en de betrouwbaarheid van de lokale clusters en het vervoernetwerk.
@@ -171,10 +172,12 @@ Om zijn missie waar te maken, vervult de Vlaamse Nutsregulator de volgende infor
 &nbsp; e) het jaarlijks rapporteren over de financiële gezondheid van de Vlaamse energiemarkt en van de op die markt actieve leveranciers;<br>
 3° water:<br>
 &nbsp; a) het informeren van de belanghebbenden over de organisatie van de watervoorziening en de sanering;<br>
-&nbsp; b) het informeren van de belanghebbenden over onder meer de kostenstructuur, de boekhouding, de prestaties en de efficiëntie van de exploitanten van een openbaar of privaat waterdistributienetwerk en van de partijen verantwoordelijk voor de invulling van de saneringsplicht;<br>
+&nbsp; b) het informeren van de belanghebbenden over onder meer de kostenstructuur, de boekhouding, de prestaties en de efficiëntie van de exploitanten van een openbaar of privaat waterdistributienetwerk;<br>
 &nbsp; c) het jaarlijks aan de Vlaamse Regering rapporteren over onder meer:<br>
 &nbsp; &nbsp; 1) de toepassing van de openbaredienstverplichtingen, vermeld in artikel 2.5.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 &nbsp; &nbsp; 2) het algemeen waterverkoopreglement, vermeld in artikel 2.5.3.1, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+d) het informeren van de belanghebbenden over de kostenstructuur en financiële draagkracht van de partijen die verantwoordelijk zijn voor de invulling van de saneringsplicht, vermeld in artikel 2.1.2, 12°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+e) het informeren van de belanghebbenden over de zekerheid en de betrouwbaarheid van de openbare en private waterdistributienetwerken, alsook de kwaliteit van de dienstverlening van de exploitanten van openbare en private waterdistributienetwerken en de klachten van de abonnees daarover, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de kosten en de tijd die gepaard gaan met de uitvoering van aftakkingen en herstellingen;<br>
 4° koolstofdioxide: het rapporteren van de ontwikkeling van de lokale clusters, het vervoernetwerk, de terminals voor vloeibaarmaking, de directe leidingen en de gesloten industriële netten voor koolstofdioxide als bedoeld in het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.
 
 ## Onderafdeling 6. Adviserende taken
@@ -191,15 +194,17 @@ Om zijn missie waar te maken, vervult de Vlaamse Nutsregulator de volgende advis
 &nbsp; b) het uitvoeren van studies of onderzoeken over de werking van de warmte- of koudenetten, op eigen initiatief of op verzoek van de Vlaamse minister, bevoegd voor de energie, of de Vlaamse Regering;<br>
 &nbsp; c) het uitvoeren van studies en onderzoeken en het geven van adviezen over de activiteiten van de intermediairen bij de aankoop van thermische energie die werken in het Vlaamse Gewest, op verzoek van het Vlaams Parlement, de Vlaamse Regering of de Vlaamse minister, bevoegd voor de energie;<br>
 3° water:<br>
-&nbsp; a) binnen de bij dit decreet toegewezen taken advies verlenen over en voorstellen voorleggen aan de Vlaamse Regering over:<br>
-&nbsp; &nbsp; 1) passende en doelmatige mechanismen voor de harmonisering, transparantie, functiescheiding en regulering met betrekking tot de productie, de invoer, de doorvoer, de levering, de invulling van de saneringsplicht, de tarieven, het gebruik van water geleverd door exploitanten van een openbaar of privaat waterdistributienetwerk;<br>
-&nbsp; &nbsp; 2) de uitvoering van de openbaredienstverplichtingen, vermeld in artikel 2.5.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+&nbsp; a) binnen de bij dit decreet toegewezen taken advies verlenen over en voorstellen voorleggen aan het Vlaams Parlement, de Vlaamse minister, bevoegd voor de omgeving, of de Vlaamse Regering&nbsp;over:<br>
+&nbsp; &nbsp; 1) passende en doelmatige mechanismen voor de harmonisering, transparantie, functiescheiding en regulering met betrekking tot de productie, de invoer, de doorvoer, de levering, de invulling van de saneringsplicht, wat financiële en economische aangelegenheden, en de transparante informatie aan de klant over de integrale waterfactuur betreft, de tarieven, het gebruik van water geleverd door exploitanten van een openbaar of privaat waterdistributienetwerk;<br>
+&nbsp; &nbsp; 2) de invoering en de uitvoering van de openbaredienstverplichtingen, vermeld in artikel 2.5.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 &nbsp; &nbsp; 3) de investeringsplanningen in de waterdistributienetwerken, in de productie en in de invoer en doorvoer van water door de exploitanten van een openbaar waterdistributienetwerk;<br>
 &nbsp; &nbsp; 4) het waterverkoopreglement, vermeld in artikel 2.5.3.1, §1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
-&nbsp; &nbsp; 5) de kostenstructuur, de boekhouding en de daaraan gekoppelde maatstafconcurrentie van de exploitanten van een openbaar of privaat waterdistributienetwerk en de partijen verantwoordelijk voor de invulling van de saneringsplicht;<br>
+&nbsp; &nbsp; 5) de kostenstructuur, de boekhouding en de daaraan gekoppelde maatstafconcurrentie van de exploitanten van een openbaar of privaat waterdistributienetwerk;<br>
+&nbsp; &nbsp;&nbsp;5)/1 de kostenstructuur en financiële draagkracht van de partijen die verantwoordelijk zijn voor de invulling van de saneringsplicht, vermeld in artikel 2.1.2, 12°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 &nbsp; &nbsp; 6) de invoering van een normstelsel voor duurzaam watergebruik;<br>
-&nbsp; &nbsp; 7) de sanering;<br>
+&nbsp; &nbsp; 7) ...;<br>
 &nbsp; b) op eigen initiatief of op verzoek van het Vlaams Parlement, de Vlaamse Regering, of de Vlaamse minister, bevoegd voor de omgeving, studies uitvoeren over de taken in dit decreet;<br>
+&nbsp;&nbsp;c) op verzoek van de Vlaamse Milieumaatschappij kan de Vlaamse Nutsregulator aan de Vlaamse Milieumaatschappij advies verlenen in het kader van haar taken als bevoegde entiteit of als toezichthouder op de invulling van de saneringsplicht en de levering van water dat bestemd is voor menselijke aanwending. De voorwaarden daarvoor worden vastgelegd in een samenwerkingsovereenkomst;<br>
 4° koolstofdioxide:<br>
 &nbsp; a) adviseren en rapporteren over de ontwikkeling van de markt voor het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest;<br>
 &nbsp; b) op eigen initiatief of op verzoek van de minister studies of onderzoeken uitvoeren in verband met de ontwikkeling van een transparante en efficiënte markt voor het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.
@@ -230,6 +235,7 @@ wijzigen en het opheffen ervan;<br>
 8° het uitvoeren van onderzoeken naar de werking van de elektriciteits- en gasmarkt in het Vlaamse Gewest;<br>
 9° het opleggen van noodzakelijke en evenredige maatregelen om de daadwerkelijke mededinging te bevorderen en de goede werking van de Vlaamse elektriciteits- en gasmarkt te waarborgen;<br>
 10° het samenwerken en uitwisselen van gegevens met de regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Waalse, Brusselse Hoofdstedelijke, Belgische en Europese elektriciteits- en aardgasmarkt of watersector, of met regulatoren binnen andere netwerksectoren, met mededingingsautoriteiten of met consumentenbeschermingsautoriteiten, voor zover de bepalingen van artikel 25 worden nageleefd;<br>
+10°/1 het uitwisselen van vertrouwelijke bedrijfsinformatie en persoonsgegevens met de Vlaamse Milieumaatschappij in het kader van de invulling van hun taken, zonder schending van het beroepsgeheim of van de gegevensbescherming;<br>
 11° het goedkeuren van distributienettarieven voor elektriciteit en aardgas en het vaststellen van de berekeningsmethodes daarvoor, volgens transparante criteria of het nemen van overgangsmaatregelen daarover, overeenkomstig de bepalingen van dit decreet en van het Energiedecreet van 8 mei 2009;<br>
 12° het opstellen van een technisch reglement voor warmte- of koudenetten indien noodzakelijk;<br>
 13° het uitvoeren van onderzoeken naar de werking van de warmte- of koudenetten in het Vlaamse Gewest;<br>
@@ -238,12 +244,16 @@ wijzigen en het opheffen ervan;<br>
 16° het goedkeuren en vaststellen van het tarief van een exploitant van een openbaar waterdistributienetwerk voor het doorrekenen van de kosten voor de productie en levering van water bestemd voor menselijke consumptie aan de abonnees, in afwijking van artikel V.2 van het Wetboek van economisch recht;<br>
 17° het vergelijken door middel van onder meer de kostenstructuur, de boekhouding en de daaraan gekoppelde maatstafconcurrentie, de prestaties en de efficiëntie van de exploitanten van een openbaar of privaat waterdistributienetwerk en de entiteiten belast met de sanering van het afvalwater;<br>
 18° het opvragen van gegevens die nodig zijn voor de uitvoering van de opdrachten, vermeld in artikel 6, 3°, artikel 7, 2°, artikel 8, 3°, artikel 9, 3°, en artikel 10, 3°, aan de diensten van de Vlaamse Regering, de administratieve overheden van het Vlaamse Gewest die onderworpen zijn aan het bestuurlijk toezicht van het Vlaamse Gewest, en de publiekrechtelijke en privaatrechtelijke instellingen;<br>
-19° het opvragen van gegevens die nodig zijn voor de uitvoering van de opdrachten, vermeld in artikel 6, 3°, artikel 7, 2°, artikel 8, 3°, artikel 9, 3°, en artikel 10, 3°, aan de exploitant van een openbaar of privaat waterdistributienetwerk en de partijen verantwoordelijk voor de invulling van de saneringsplicht. Die worden gratis aan de Vlaamse Nutsregulator verschaft, waarbij de vorm en het tijdstip van de gegevensoverdracht, na consultatie door de Vlaamse Nutsregulator, vastgesteld worden in een protocol;<br>
+19° het opvragen van gegevens die nodig zijn voor de uitvoering van de opdrachten, vermeld in artikel 6, 3°, artikel 7, 2°, artikel 9, 3°, en artikel 10, 3°, aan de exploitant van een openbaar of privaat waterdistributienetwerk en de partijen verantwoordelijk voor de invulling van de saneringsplicht. Die worden ratis aan de Vlaamse Nutsregulator verschaft, waarbij de vorm en het tijdstip van de gegevensoverdracht, na consultatie door de Vlaamse Nutsregulator, vastgesteld worden in een protocol;<br>
 20° het verlenen van toelatingen met betrekking tot de aanleg en het beheer van<br>
 gesloten industriële netten voor koolstofdioxide;<br>
 21° het goedkeuren van tarieven voor de toegang tot een lokale cluster en het vervoernetwerk als vermeld in het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest, evenals de bijbehorende uitvoeringsbepalingen;<br>
 22° het opleggen van administratieve sancties wegens overtreding van de bepalingen van het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest, evenals de bijbehorende uitvoeringsbepalingen;<br>
 23° het aanstellen van derden met het oog op het verlenen van bijstand bij de uitoefening van zijn taken, vermeld in artikel 6 tot en met 11.
+
+### ART 12/1.
+
+De Vlaamse Nutsregulator sluit uiterlijk op 30 juni 2026 een samenwerkingsovereenkomst met de Vlaamse Milieumaatschappij. Die overeenkomst bevat minstens afspraken over informatie-uitwisseling, het eenmaligheidsprincipe, de invulling van de informerende taken, de adviserende taak, vermeld in artikel 10, 3°, c), en de uitwisseling van informatie over de saneringsbijdrage, voor zover die afspraken en gegevens nodig zijn voor het vervullen van de taken, vermeld in hoofdstuk 2, afdeling 2.
 
 ### ART 13.
 
@@ -285,7 +295,7 @@ De raad van bestuur kiest een voorzitter onder zijn leden.<br>
 <br>
 §3. De leden van de raad van bestuur kunnen alleen worden ontslagen op eigen verzoek, bij niet-naleving van de vereisten, vermeld in artikel 17, of ten gevolge van een strafrechtelijke veroordeling.<br>
 <br>
-§4. De leden van de raad van bestuur worden vergoed overeenkomstig categorie I van het besluit van de Vlaamse Regering van 9 maart 2007 tot regeling van de vergoedingen van de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, en van de regeringsafgevaardigden die toezicht uitoefenen bij deze agentschappen.
+§4. De leden van de raad van bestuur worden vergoed overeenkomstig categorie I van het besluit van de Vlaamse Regering van 9 maart 2007 tot regeling van de vergoedingen van de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, en van de regeringsafgevaardigden die toezicht uitoefenen bij deze agentschappen, rekening houdend met het plafond voor grote organisaties.
 
 ### ART 16.
 
@@ -394,7 +404,7 @@ Bij de vaststelling van het huishoudelijk reglement doet de raad van bestuur gee
 
 ### ART 25.
 
-Overeenkomstig artikel 458 van het Strafwetboek zijn de bestuurders, de directeurs en de personeelsleden van de Vlaamse Nutsregulator, alsook eenieder die op grond van artikel 12, §2, 23°, van dit decreet door de Vlaamse Nutsregulator wordt aangesteld met het oog op het verlenen van bijstand bij de uitoefening van zijn taken, gebonden door het beroepsgeheim. Ze mogen de vertrouwelijke gegevens die hun ter kennis komen op grond van hun functie bij de Vlaamse Nutsregulator, of ingevolge hun betrokkenheid bij de uitoefening van de taken van de Vlaamse Nutsregulator, aan niemand bekendmaken, behalve als ze worden opgeroepen om in rechte te getuigen of in het kader van de uitwisseling van gegevens met de regulatoren en bevoegde instanties, waaronder de instanties die werkzaam zijn in de Vlaamse, Waalse, Brusselse Hoofdstedelijke, Belgische en Europese elektriciteits- en aardgasmarkt of watersector of met regulatoren binnen andere netwerksectoren, met mededingingsautoriteiten of met consumentenbeschermingsautoriteiten, voor zover die gegevensuitwisseling nadrukkelijk bepaald of toegestaan is in verordeningen of richtlijnen die de instellingen van de Europese Unie hebben vastgesteld, of als met die instanties een overeenkomst als vermeld in artikel 12, §2, 7°, is gesloten.
+Overeenkomstig artikel 458 van het Strafwetboek zijn de bestuurders, de directeurs en de personeelsleden van de Vlaamse Nutsregulator, alsook eenieder die op grond van artikel 12, §2, 23°, van dit decreet door de Vlaamse Nutsregulator wordt aangesteld met het oog op het verlenen van bijstand bij de uitoefening van zijn taken, gebonden door het beroepsgeheim. Ze mogen de vertrouwelijke gegevens die hun ter kennis komen op grond van hun functie bij de Vlaamse Nutsregulator, of ingevolge hun betrokkenheid bij de uitoefening van de taken van de Vlaamse Nutsregulator, aan niemand bekendmaken, behalve als ze worden opgeroepen om in rechte te getuigen of in het kader van de uitwisseling van gegevens met de regulatoren en bevoegde instanties, waaronder de instanties die werkzaam zijn in de Vlaamse, Waalse, Brusselse Hoofdstedelijke, Belgische en Europese elektriciteits- en aardgasmarkt of watersector of met regulatoren binnen andere netwerksectoren, met mededingingsautoriteiten of met consumentenbeschermingsautoriteiten, voor zover die gegevensuitwisseling nadrukkelijk bepaald of toegestaan is in verordeningen of richtlijnen die de instellingen van de Europese Unie hebben vastgesteld, of als met die instanties een overeenkomst als vermeld in artikel 12, §2, 7°, of artikel 12/1 is gesloten.
 
 ## Onderafdeling 6. Rechtspositieregeling van de personeelsleden van de Vlaamse Nutsregulator
 
@@ -1031,6 +1041,61 @@ In artikel 15.3.5/21 van hetzelfde decreet, ingevoegd bij het decreet van 16 nov
 
 In artikel 15.3.5/23 van hetzelfde decreet, ingevoegd bij het decreet van 4 juni 2021, wordt het woord “VREG” vervangen door de woorden “Vlaamse Nutsregulator”.
 
+## Afdeling 2. Wijzigingen van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018
+
+### ART 142.
+
+Aan artikel 1.1.3, §2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wordt een punt 70° toegevoegd, dat luidt als volgt:<br>
+“70° Vlaamse Nutsregulator: de autonome dienst met rechtspersoonlijkheid, vermeld in het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator;”.
+
+### ART 143.
+
+In artikel 2.5.1.1, §2, van hetzelfde decreet wordt het woord “WaterRegulator” vervangen door de woorden “Vlaamse Nutsregulator”.
+
+### ART 144.
+
+In titel II, hoofdstuk V, van hetzelfde decreet wordt afdeling 2 vervangen door wat volgt:<br>
+<br>
+“Afdeling 2. Kostenstructuur en tarieven<br>
+<br>
+Art. 2.5.2.1.1. De Vlaamse Regering stelt nadere regels vast met betrekking tot de kostenstructuur, de boekhouding en de daaraan gekoppelde maatstafconcurrentie van de exploitanten van een openbaar waterdistributienetwerk.<br>
+<br>
+Art. 2.5.2.1.2. In afwijking van artikel V.2 van het Wetboek van economisch recht van 28 februari 2013 bepaalt de exploitant van een openbaar waterdistributienetwerk, onder toezicht van de Vlaamse Nutsregulator, de tarieven die gebruikt worden voor het doorrekenen aan de abonnees van de kosten voor de productie en levering van water bestemd voor menselijke consumptie.<br>
+<br>
+De exploitanten van een openbaar waterdistributienetwerk kunnen geen tariefverhoging toepassen of nieuwe tarieven invoeren zonder voorafgaande aanvraag bij de Vlaamse Nutsregulator en zonder akkoord van de Vlaamse Nutsregulator.<br>
+&nbsp;<br>
+De Vlaamse Regering stelt de regels vast met betrekking tot de methode voor tariefbepaling, de inhoud en de voorwaarden van de aanvraag en de bekendmaking van tariefwijzigingen aan de abonnees.<br>
+<br>
+Art. 2.5.2.1.3. §1. De diensten van de Vlaamse Regering, de administratieve overheden van het Vlaamse Gewest die onderworpen zijn aan het bestuurlijk toezicht van het Vlaamse Gewest, en de publiekrechtelijke en privaatrechtelijke instellingen en personen die belast zijn met taken van openbaar nut, verschaffen de gevraagde gegevens en inlichtingen over de taken, vermeld in hoofdstuk 2, afdeling 2, van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, aan de Vlaamse Nutsregulator in de vorm die, na consultatie, door de Vlaamse Nutsregulator wordt vastgesteld.<br>
+<br>
+Alle gegevens die worden verworven in het kader van opdrachten die uitgaan van overheidsinstellingen, worden gratis ter beschikking gesteld. Voor de overige gegevens kan, als dat zo overeengekomen wordt, een vergoeding worden betaald.<br>
+<br>
+§2. De waterleverancier verschaft de gevraagde gegevens en inlichtingen over de opdrachten, vermeld in het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, gratis aan de Vlaamse Nutsregulator.<br>
+<br>
+Art. 2.5.2.1.4. De exploitant van een openbaar waterdistributienetwerk kan een administratief beroep indienen bij de Vlaamse minister, bevoegd voor de omgeving, als hij niet akkoord gaat met de beslissing van de Vlaamse Nutsregulator over de vaststelling en goedkeuring van de tarieven voor het doorrekenen aan de abonnees van de kosten voor de productie en levering van water bestemd voor menselijke aanwending, met toepassing van artikel 12, §2, 16°, van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator.<br>
+<br>
+De Vlaamse Regering bepaalt de indieningswijze en voorwaarden van het beroep, vermeld in het eerste lid.”.
+
+### ART 145.
+
+In artikel 4.4.1, §2, vijfde lid, van hetzelfde decreet, wordt de zinsnede “artikel 2.5.2.3.2” vervangen door de zinsnede “artikel 12, §2, 16°, van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator”.
+
+### ART 146.
+
+Artikel 5.2.2.3 van hetzelfde decreet wordt opgeheven.
+
+### ART 147.
+
+In artikel 5.3.2, §1, eerste lid, van hetzelfde decreet, worden punt 1° en 2° vervangen door wat volgt:<br>
+“1° artikel 12, §2, 19°, van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, aan de waterleveranciers die de gegevens of inlichtingen die opgevraagd worden in het kader van artikel 7 van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, niet correct of tijdig aanleveren, na twee schriftelijke aanmaningen;<br>
+2° artikel 2.5.2.1.2, en de uitvoeringsbesluiten ervan aan de exploitanten van een openbaar waterdistributienetwerk.”.
+
+## Afdeling 3. Wijzigingen van het decreet van 18 december 2015 houdende diverse bepalingen inzake omgeving, natuur en landbouw en energie
+
+### ART 148.
+
+Hoofdstuk 16 van het decreet van 18 december 2015 houdende diverse bepalingen inzake omgeving, natuur en landbouw en energie, dat bestaat uit de artikelen 44 tot en met 54, wordt opgeheven.
+
 ## Afdeling 4. Wijzigingen aan het Bestuursdecreet van 7 december 2018
 
 ### ART 149.
@@ -1217,6 +1282,18 @@ Vanaf de inwerkingtreding van dit decreet totdat een einde komt aan zijn lopende
 De raad van bestuur gaat uiterlijk zes maanden na de inwerkingtreding van dit decreet over tot de aanstelling van de andere leden van het college van directeurs, vermeld in artikel 21. De directeur, vermeld in het tweede lid, kan echter eenzijdig optreden als college totdat een van de volgende voorwaarden is vervuld:<br>
 1° er is minstens één ander lid van het college van directeurs aangesteld;<br>
 2° de termijn van zes maanden na de inwerkingtreding van dit decreet is verstreken.
+
+### ART 192.
+
+§1. De Vlaamse Nutsregulator treedt in de rechten en plichten van de WaterRegulator.<br>
+<br>
+§2. Procedures voor de goedkeuring van het tarief van een exploitant van een openbaar waterdistributienetwerk, vermeld in artikel 2.5.2.1.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, die op de datum van de inwerkingtreding van dit decreet nog lopen bij de WaterRegulator, kunnen worden voortgezet door de Vlaamse Nutsregulator volgens de bepalingen die van toepassing zijn op het moment van het opstarten van de procedure.<br>
+<br>
+Het tarief van een exploitant van een openbaar distributienetwerk dat al goedgekeurd is voor de desbetreffende tariferingsperiode, wordt na de inwerkingtreding van dit decreet als goedgekeurd beschouwd volgens de bepalingen van dit decreet en overeenkomstig de nadere uitvoeringsbepalingen van de Vlaamse Regering.<br>
+<br>
+De bestaande uitvoeringsbepalingen die zijn genomen op basis van titel II, hoofdstuk V, afdeling 2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, blijven van kracht zolang nieuwe uitvoeringsbepalingen nog niet in werking getreden zijn. De Vlaamse Nutsregulator treedt voor die uitvoeringsbepalingen in de rechten en plichten van de WaterRegulator.<br>
+<br>
+Alle overeenkomsten die gesloten zijn in naam van de WaterRegulator, alsook de overeenkomsten en protocollen over de mededeling van gegevens, vermeld in artikel 12, §2, 18° en 19°, zijn bindend voor de Vlaamse Nutsregulator tot op het moment dat ze vervallen of worden opgeheven, vernieuwd of opgezegd.
 
 ### ART 193.
 

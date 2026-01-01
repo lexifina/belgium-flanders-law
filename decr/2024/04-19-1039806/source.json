@@ -2,16 +2,16 @@
   "codex_id": 1039806,
   "title": "Decreet van 2024-04-19 over de operationalisering van een Vlaamse Nutsregulator",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039806/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "a4206bf19c2472df747798444f14d6ebd155d84daf5c774ab5585bbe25de0cad",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039806/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "484aff3651b11a29f28983b097ac88f68ada27e4689d3fb3657ae9fefafca21a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039806&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-01",
   "made": "2024-04-19",
   "gazette": "2024-06-12",
   "numac": 2024005691,
   "document_start": "2025-01-01",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 187,
-  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 196,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
