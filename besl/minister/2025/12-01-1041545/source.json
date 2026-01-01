@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041545,
+  "title": "Ministerieel besluit van 2025-12-01 tot vaststelling van de lijst met middengeschoolde functies waarvoor een structureel tekort aan arbeidskrachten bestaat",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041545/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "3c0882094ce1bbea7402f3667abfb3b2fe6dd1b6db95810669b7fdb29b8b45bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041545&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-01",
+  "gazette": "2025-12-08",
+  "numac": 2025009222,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
