@@ -33,8 +33,10 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administrateur-generaal: het personeelslid dat belast is met de leiding van de administratie en van het fonds;<br>
-2° administratie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+1° administrateur-generaal: het personeelslid dat belast is met de leiding van de administratie;<br>
+2° administratie:<br>
+a)&nbsp;&nbsp; &nbsp;voor de erkenning en de subsidiëring van de voorzieningen van categorie 1 tot en met 4 en 6 tot en met 9, vermeld in artikel 2, §1, 1° tot en met 4° en 6° tot en met 9°: het agentschap Opgroeien regie;<br>
+b)&nbsp;&nbsp; &nbsp;voor de erkenning en de subsidiëring van de voorzieningen van categorie 5, vermeld in artikel 2, §1, 5°: het Agentschap Justitie en Handhaving;<br>
 3° afdeling: een gedeelte van een voorziening of van een organisatie voor bijzondere jeugdzorg dat qua vestigingsplaats, organisatie, materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte van de voorziening of van de organisatie voor bijzondere jeugdzorg;<br>
 3° /1 afzondering: het verblijf van een minderjarige in een individuele afzonderingskamer die daarvoor speciaal voorzien is, of in een andere individuele ruimte, die de minderjarige niet zelfstandig kan verlaten;<br>
 3° /2 afzonderingskamer: een specifiek veilig ingerichte, hoog beveiligde ruimte die de minderjarige niet zelfstandig kan verlaten;<br>
@@ -52,7 +54,7 @@ In dit besluit wordt verstaan onder:<br>
 13°/1 decreet van 3 juni 2022: het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers;<br>
 14° departement Onderwijs en Vorming: het departement opgericht bij artikel 22 § 1 van het besluit van de Vlaamse regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 15° erkende voorzieningen: de voorzieningen die conform de bepalingen van hoofdstuk 2 van dit besluit zijn erkend;<br>
-16° fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54 van het decreet van 7 maart 2008;<br>
+16° ...;<br>
 17° gebruiker: een gebruiker als vermeld in artikel 2, 3°, van het decreet van 17 oktober 2003;<br>
 18° gemeenschapsdienst: de gemeenschapsdienst, vermeld in artikel 2, 3°, van het decreet van 15 februari 2019 ;<br>
 19° gemeenschapsinstelling: een door de overheid ingerichte instelling met een gesloten aanbod, als vermeld in artikel 2, 4° van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
@@ -81,7 +83,9 @@ e) gebruikersdossier;<br>
 31° minderjarige: elke natuurlijke persoon voor wie hulpverlening wordt georganiseerd met toepassing van het decreet van 12 juli 2013;<br>
 32° minderjarige delictpleger: een minderjarige als vermeld in artikel 2, 11°, van het decreet van 15 februari 2019;<br>
 33° minderjarige verdachte: een minderjarige als vermeld in artikel 2, 12° van het decreet van 15 februari 2019;<br>
-34° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+34° minister:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de Vlaamse minister, bevoegd voor opgroeien, voor de voorzieningen van categorie 1 tot en met 4 en 6 tot en met 9, vermeld in artikel 2, §1, 1° tot en met 4° en 6° tot en met 9°;<br>
+b)&nbsp;&nbsp; &nbsp;de Vlaamse minister, bevoegd voor justitie en handhaving, voor de voorzieningen van categorie 5, vermeld in artikel 2, §1, 5°;<br>
 35° module: een duidelijk afgelijnde eenheid van jeugdhulpverlening, op basis van de hulpvraag. Een module wordt aangeboden door een jeugdhulpaanbieder, en is gebaseerd op één enkele typemodule, die afzonderlijk, gelijktijdig of consecutief kan worden aangeboden met andere eenheden van jeugdhulpverlening, op een manier waarbij de flexibiliteit gewaarborgd is;<br>
 36° ondersteunende begeleiding: de breedsporige ondersteuning die zich richt op specifieke problematieken waarmee de minderjarige en zijn context in een lopend hulpverleningstraject te maken krijgen;<br>
 37° onderwijsinspectie: de inspectie, vermeld in artikel 32 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
@@ -444,7 +448,7 @@ Een voorziening van de categorie 5 moet voldoen aan al de volgende bijzondere vo
 
 Voor de uitvoering van bemiddeling en herstelgericht groepsoverleg moet een voorziening van de categorie 5 voldoen aan al de volgende aanvullende voorwaarden:<br>
 1° in het kader van de bemiddeling die is voorgesteld door de procureur des Konings, moet de voorziening:<br>
-a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen 10 kalenderdagen na de ontvangst van het afschrift van het schriftelijke voorstel van de procureur des Konings;<br>
+a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen 8 werkdagen na de ontvangst van het afschrift van het schriftelijke voorstel van de procureur des Konings;<br>
 b) zich gedurende de gehele bemiddeling verzekeren van de uitdrukkelijke en onvoorwaardelijke instemming van de personen die eraan deelnemen;<br>
 c) de procureur des Konings inlichten zodra blijkt dat bemiddeling niet of niet langer mogelijk is, onmiddellijk en uiterlijk binnen twee maanden. In dat geval richt de voorziening een bondig verslag tot de procureur des Konings, dat een van de volgende vermeldingen bevat:<br>
 1) de bemiddeling heeft geen aanvang genomen omdat minstens een van de betrokken personen niet werd bereikt;<br>
@@ -456,7 +460,7 @@ d) binnen twee maanden na haar aanwijzing door de procureur des Konings, een bon
 e) als de bemiddeling afgerond wordt, het akkoord dat is ondertekend door de betrokken personen, bezorgen aan de procureur des Konings, opdat die het zou goedkeuren;<br>
 f) een verslag opstellen over de uitvoering van het akkoord en dat richten aan de procureur des Konings. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die, met akkoord van alle partijen, bij het verslag worden toegevoegd;<br>
 2° in het kader van de bemiddeling die is voorgesteld door de jeugdrechter of door de jeugdrechtbank, moet de voorziening:<br>
-a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen 10 kalenderdagen na de ontvangst van het afschrift van het voorstel van de jeugdrechter of de jeugdrechtbank;<br>
+a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen 8 werkdagen na de ontvangst van het afschrift van het voorstel van de jeugdrechter of de jeugdrechtbank;<br>
 b) zich gedurende de gehele bemiddeling verzekeren van de uitdrukkelijke en onvoorwaardelijke instemming van de personen die eraan deelnemen;<br>
 c) de jeugdrechter of de jeugdrechtbank en de sociale dienst inlichten zodra blijkt dat bemiddeling niet of niet langer mogelijk is, onmiddellijk en uiterlijk binnen twee maanden. In dat geval richt de voorziening een bondig verslag tot de jeugdrechter of de jeugdrechtbank en aan de sociale dienst, dat een van de volgende vermeldingen bevat:<br>
 1) de bemiddeling heeft geen aanvang genomen omdat minstens een van de betrokken personen niet is bereikt;<br>
@@ -468,7 +472,7 @@ d) binnen twee maanden na haar aanwijzing door de jeugdrechter of de jeugdrechtb
 e) het door de betrokken partijen ondertekende akkoord bezorgen aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst;<br>
 f) een bondig verslag opstellen over de uitvoering van het akkoord en dat richten aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank, opdat die het zou homologeren, en aan de sociale dienst. Het verslag wordt besproken met de ouders of, in voorkomend geval, met de opvoedingsverantwoordelijken van de minderjarige verdachte of de minderjarige delictpleger. Aldus worden ze ertoe uitgenodigd om hun bedenkingen te formuleren, die, met akkoord van alle partijen, bij het verslag worden toegevoegd;<br>
 3° in het kader van het herstelgerichte groepsoverleg dat is voorgesteld door de jeugdrechter of door de jeugdrechtbank, moet de voorziening:<br>
-a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen tien kalenderdagen na de ontvangst van het afschrift van het voorstel van de jeugdrechter of de jeugdrechtbank;<br>
+a) contact opnemen met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen acht werkdagen na de ontvangst van het afschrift van het voorstel van de jeugdrechter of de jeugdrechtbank;<br>
 b) zich gedurende het gehele herstelgerichte groepsoverleg verzekeren van de uitdrukkelijke en onvoorwaardelijke instemming van de personen die eraan deelnemen;<br>
 c) de jeugdrechter of de jeugdrechtbank en de sociale dienst inlichten zodra blijkt dat herstelgericht groepsoverleg niet of niet langer mogelijk is, onmiddellijk en uiterlijk binnen twee maanden. In dat geval richt de voorziening een bondig verslag aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de jeugdrechter of de jeugdrechtbank en aan de sociale dienst, dat een van de volgende vermeldingen bevat:<br>
 1) het herstelgerichte groepsoverleg zal geen aanvang nemen omdat minstens een van de betrokken personen niet is bereikt;<br>
@@ -549,7 +553,7 @@ Voor de uitvoering van een positief project moet de voorziening aan al de volgen
 a) ze informeert de jongere en zijn context actief en laagdrempelig over het aanbod;<br>
 b) ze biedt actieve procesbegeleiding bij het tot stand komen van een positief project;<br>
 c) ze waarborgt de opvolging tijdens de uitvoeringsfase;<br>
-2° ze neemt contact op met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen acht dagen na de ontvangst van het afschrift van het voorstel van de, in voorkomend geval, de procureur des Konings, de jeugdrechter of de jeugdrechtbank;<br>
+2° ze neemt contact op met de betrokken personen als die zelf nog geen enkel initiatief genomen hebben ten aanzien van de voorziening binnen acht werkdagen na de ontvangst van het afschrift van het voorstel van de, in voorkomend geval, de procureur des Konings, de jeugdrechter of de jeugdrechtbank;<br>
 3° ze verzekert zich gedurende de volledige uitvoering van het positieve project van de uitdrukkelijke en onvoorwaardelijke instemming van de personen die eraan deelnemen;<br>
 4° in voorkomend geval licht ze de procureur des Konings, de jeugdrechter of de jeugdrechtbank erover in dat de minderjarige verdachte of de minderjarige delictpleger geen positief project zal voorstellen;<br>
 5° ze bezorgt het positieve project onmiddellijk aan de minderjarige verdachte of delictpleger, zijn ouders of opvoedingsverantwoordelijke, de procureur des Konings, de jeugdrechter of de jeugdrechtbank;<br>
@@ -1024,7 +1028,7 @@ De beperking, vermeld in het eerste lid, geldt niet voor de psychiatrische zieke
 
 ### ART 70.
 
-Voor de organisatie en coördinatie van een project, vermeld in artikel 2, § 1, 46° /1, van het decreet van 12 juli 2013 kan ten laste van het fonds en binnen de begrotingskredieten, aan een of meer inrichtende machten, op hun aanvraag, een subsidie worden verleend.<br>
+Voor de organisatie en coördinatie van een project, vermeld in artikel 2, § 1, 46° /1, van het decreet van 12 juli 2013 kan ten laste van het agentschap Opgroeien regie en binnen de begrotingskredieten, aan een of meer inrichtende machten, op hun aanvraag, een subsidie worden verleend.<br>
 <br>
 Een subsidieaanvraag is alleen ontvankelijk:<br>
 1° als ze door de inrichtende macht(en) elektronisch bij de administratie wordt ingediend;<br>
@@ -1106,7 +1110,7 @@ Dit besluit treedt in werking op 1 januari 2019.
 
 ### ART 77.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor onderwijs, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+De Vlaamse minister, bevoegd voor het onderwijs, de Vlaamse minister, bevoegd voor justitie en handhaving en de Vlaamse minister bevoegd voor &nbsp;opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
 
 ### BIJLAGE
 
