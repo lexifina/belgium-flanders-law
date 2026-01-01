@@ -108,6 +108,10 @@ In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 3° in het vierde lid wordt de zinsnede “, naast de elementen, vermeld in het eerste lid, 2° tot en met 7°, ook de meest actuele versie van de omgevingsanalyse” vervangen door de zinsnede “minstens de elementen, vermeld in het eerste lid, 2° tot en met 7°”;<br>
 4° in het vijfde lid wordt tussen de woorden “met de bijbehorende ontvangsten en uitgaven” en de zinsnede “, en de elementen” de zinsnede “ voor de exploitatie, de investeringen en de financiering” ingevoegd.
 
+### ART 5.
+
+In artikel 5, 2°, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 12 september 2018, wordt de zinsnede “conform schema T2” vervangen door de zinsnede “conform schema T2 (J)”.
+
 ### ART 6.
 
 In artikel 12, vierde lid, van hetzelfde besluit wordt de zinsnede “opgericht bij besluit van de Vlaamse Regering van 28 oktober 2005, gewijzigd bij de besluiten van 13 maart 2015 en 18 maart 2016” vervangen door de zinsnede “, opgericht bij besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap “Agentschap Binnenlands Bestuur”.

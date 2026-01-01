@@ -2,16 +2,16 @@
   "codex_id": 1039166,
   "title": "Ministerieel besluit van 2023-12-08 tot wijziging van het ministerieel besluit van 26 juni 2018 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten, de rekeningenstelsels en de digitale rapportering van de beleids- en beheerscyclus van de lokale en de provinciale besturen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039166/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "053cc0c29b9d65c113cfaf144f922e941c31c12a81592d495c552af8eeaf7fd4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039166/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "0cdf45a200770556ff5f795c123fa6a23529f656e077796ba98454706222ee00",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039166&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-01",
   "made": "2023-12-08",
   "gazette": "2024-01-11",
   "numac": 2023048677,
   "document_start": null,
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
