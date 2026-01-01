@@ -45,11 +45,17 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 
 ### BIJLAGE I.
 
-Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen<br>
+Bijlage I bij het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek<br>
 <br>
-Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek en van de Richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
+Bijlage I. Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen<br>
 <br>
-1° landbouwgewassen
+Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
+1°&nbsp;&nbsp; &nbsp;richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
+<br>
+1° landbouwgewassen<br>
+<br>
+&nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:623px">
 	<tbody>
 		<tr>
@@ -70,12 +76,17 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica napus</em> L. (partim)</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">koolzaad</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 36/3 van 21.4.2020</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 36/4 van 31.3.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica napus </em>L. var.<em> napobrassica </em>(L.) Rchb.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">koolraap</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 89/1 van 11.3.2015</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica rapa </em>L. var.<em> silvestris </em>(Lam.) Briggs</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">raapzaad</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP/185/1 van 31.3.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Cannabis sativa </em>L.</td>
@@ -232,7 +243,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Trifolium pratense </em>L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rode klaver</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 5/1 van 22.12.2021</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 5/1 rev. van 13.2.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Triticum aestivum</em> L. subsp. <em>aestivum</em></td>
@@ -267,7 +278,10 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 	</tbody>
 </table>
 <br>
-2° groentegewassen
+2° groentegewassen<br>
+<br>
+<br>
+&nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
@@ -318,7 +332,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Asparagus officinalis</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">asperge</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 130/2 van 16.2.2011</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 130/2 rev. van 3.1.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Beta vulgaris</em> L.</td>
@@ -368,7 +382,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Capsicum annuum</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">paprika of Spaanse peper</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 76/2 rev. 2 corr. van 21.4.2020</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 76/3 van 31.3.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium endivia</em> L.</td>
@@ -383,7 +397,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium intybus</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">cichorei voor de industrie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 172/2 van 1.12.2005</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 172/2 rev. van 28.1.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium intybus</em> L.</td>
@@ -398,12 +412,12 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucumis melo</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">meloen</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 104/2 rev. 2 van 25.3.2021</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 104/2 rev. 3 van 31.3.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucumis sativus</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">komkommer en augurk</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 61/2 rev. 2 van 19.3.2019</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 61/2 rev. 3 van 3.1.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucurbita maxima </em>Duchesne</td>
@@ -418,7 +432,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cucurbita pepo</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">courgette</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 119/1 rev. van 19.3.2014</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 119/1 rev. 2 van 31.3.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cynara cardunculus</em> L.</td>
@@ -438,7 +452,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Lactuca sativa</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sla</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 13/6 rev. 3 van 27.4.2022</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 13/6 rev. 5 van 3.1.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Petroselinum crispum</em> (Mill.) Nyman ex A. W. Hill</td>
@@ -513,15 +527,22 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 	</tbody>
 </table>
 <br>
-De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (<a href="https://cpvo.europa.eu/en">https://cpvo.europa.eu/en</a>).
+De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (<a href="https://cpvo.europa.eu/en">https://cpvo.europa.eu/en</a>).<br>
+&nbsp;
 
 ### BIJLAGE II.
 
+Bijlage II bij het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek<br>
+<br>
 Bijlage II. Lijst van gewassen die moeten voldoen aan de UPOV-testrichtsnoeren<br>
 <br>
-Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek en van de Richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
+Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
+1°&nbsp;&nbsp; &nbsp;richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
 <br>
-1° landbouwgewassen
+1° landbouwgewassen<br>
+<br>
+&nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
@@ -563,11 +584,6 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica juncea</em> (L.) Czern</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sareptamosterd</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/335/1 van 17.12.2020</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica rapa</em> L. var. <em>silvestris </em>(Lam.) Briggs</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">raapzaad</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TG/185/3 van 17.4.2002</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Bromus catharticus</em> Vahl</td>
@@ -677,7 +693,9 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 	</tbody>
 </table>
 <br>
-2° groentegewassen
+2° groentegewassen<br>
+<br>
+&nbsp;
 <table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
@@ -693,7 +711,8 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van de Richtlijn 2003/90/EG 
 	</tbody>
 </table>
 <br>
-De tekst van deze richtsnoeren is te vinden op de website van de Internationale Unie tot bescherming van kweekproducten (UPOV) (<a href="http://www.upov.int/portal/index.html.en">www.upov.int/portal/index.html.en</a>).<br>
+De tekst van deze richtsnoeren is te vinden op de website van de Internationale Unie tot bescherming van kweekproducten (UPOV) (www.upov.int/portal/index.html.en).<br>
+<br>
 &nbsp;
 
 ### BIJLAGE
