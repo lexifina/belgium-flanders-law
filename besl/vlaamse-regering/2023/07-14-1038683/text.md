@@ -54,6 +54,16 @@ In artikel 10 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 3° in het eerste lid wordt punt 3° opgeheven;<br>
 4° het tweede lid wordt opgeheven.
 
+### ART 4.
+
+In artikel 14 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 1° vervangen door wat volgt:<br>
+“1° de aangepaste strategische nota, met aanduiding van de wijzigingen ten opzichte van de beleidsdoelstellingen en de prioritaire acties of actieplannen in het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan, en de financiële kerncijfers in de beleidsverklaring van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan;”;<br>
+2° aan het eerste lid, 2°, wordt de zinsnede “, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan” toegevoegd;<br>
+3° aan het eerste lid, 3°, wordt de zinsnede “, met aanduiding, voor de boekjaren waarvoor de jaarrekening nog niet is vastgesteld, van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan” toegevoegd;<br>
+4° aan het eerste lid, 4°, wordt de zinsnede “, met aanduiding van de wijzigingen ten opzichte van het meerjarenplan of, in voorkomend geval, de laatste vastgestelde aanpassing ervan” toegevoegd;<br>
+5° aan het derde lid wordt de zinsnede “, en een vermelding die aanduidt welke situatie van toepassing is” toegevoegd.
+
 ### ART 9.
 
 De volgende artikelen van dit besluit treden in werking op 1 januari 2025:<br>
