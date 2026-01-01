@@ -2,28 +2,28 @@
 
 ### ART. 1.
 
-§ 1. Onverminderd de algemene erkenningsvoorwaarden bepaald in hoofdstuk VI van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap, moeten de centra of diensten voor revalidatie, om erkend te worden:<br /><br />1° zich in hoofdzaak richten tot de personen met een handicap zoals omschreven in artikel 2, § 2, 1°, van voormeld decreet van 27 juni 1990, en die krachtens de bepalingen van artikel 39 van datzelfde decreet in aanmerking komen voor inschrijving bij het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap, hierna "het Fonds" genoemd;<br /><br />2° beschikken over een overeenkomst met de bevoegde commissie van de dienst voor geneeskundige verzorging van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering inzake de tenlasteneming van de kosten van de revalidatieverstrekkingen of beschikken over een door het Fonds als equivalent beschouwde toegang tot de tenlasteneming van de kosten van revalidatieverstrekkingen;<br /><br />3° de sociale integratie van de personen met een handicap nastreven met het oog op hun maximale participatie aan het maatschappelijk leven;<br /><br />4° een technische, budgettaire en administratieve autonomie genieten die hen in staat stelt hun opdracht te vervullen; als de inrichtende macht van het centrum of van de dienst opgericht is onder de vorm van een vereniging zonder winstoogmerk, mag het bestuursorgaan geen aantal personen bevatten behorend tot dezelfde familie, echtgenoten en bloed- of aanverwanten tot de tweede graad inbegrepen, dat voor elke familie hoger is dan een derde van het totaal aantal leden waaruit dit bestuursorgaan is samengesteld;<br /><br />5° instaan voor de uitvoering van de passende revalidatieverstrekkingen teneinde hun opdracht te vervullen;<br /><br />6° beschikken over specifiek opgeleid personeel teneinde de nodige psychische en sociale bijstand te verlenen aan de personen met een handicap die zich tot het centrum of de dienst wenden;<br /><br />7° in overeenstemming tot de doelgroepen tot dewelke zij zich richten, over het nodige geschoolde medisch en paramedisch personeel beschikken;<br /><br />8° beschikken over de nodige infrastructuur en bijzondere uitrusting:<br /><br />a) om progressief en in de best mogelijke omstandigheden een kwaliteitsvol revalidatieproces mogelijk te maken;<br /><br />b) die aangepast zijn aan de behandelde pathologieën in functie van de bij 2° bedoelde conventie;<br /><br />c) die voldoen aan de algemene bouwtechnische en bouwfysische normen die voor de voorzieningen voor sociale integratie van personen met een handicap vastgesteld zijn in uitvoering van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br /><br />9° de nodige samenwerkingsverbanden afsluiten met andere voorzieningen in functie van de optimalisering van de integratiekansen van de personen met een handicap tot dewelke zij zich richten;<br /><br />10° de opleiding van hun personeel regelmatig aanvullen via bijscholing en teamvergaderingen;<br /><br />11° jaarlijks aan het Fonds rapporteren over hun activiteiten.<br /><br />§ 2. Het Fonds kan de uitvoering van bepaalde in § 1 bedoelde erkenningsvoorwaarden preciseren en de modellen vastleggen volgens dewelke over bepaalde van de bij § 1 bedoelde punten dient gerapporteerd te worden.
+...
 
 ### ART. 2.
 
-§ 1. Het Fonds beslist over de erkenningen die aan de centra of diensten voor revalidatie verleend worden overeenkomstig de procedure vastgesteld in uitvoering van de bepalingen van hoofdstuk VI van voormeld decreet van 27 juni 1990, en stelt hun opnamecapaciteit vast.<br /><br />§ 2. Het Fonds kan aan de centra of diensten voor revalidatie die nog niet over bij artikel 1, § 1, 2°, bedoelde overeenkomst beschikken, een voorwaardelijke erkenning verlenen die hetzij effectief wordt bij het afsluiten van bedoelde overeenkomst, hetzij van rechtswege vervalt als de overeenkomst geweigerd wordt. Deze voorwaardelijke erkenning geldt slechts voor één jaar te rekenen vanaf de datum van de beslissing van het Fonds, en is niet hernieuwbaar.<br /><br />§ 3. De erkenning vervalt van rechtswege als de bij artikel 1, § 1, 2°, bedoelde overeenkomst of equivalent ingetrokken wordt of anderszins ophoudt van kracht te zijn.
+...
 
 ### ART. 3.
 
-De bepalingen genomen in uitvoering van artikel 47 van voormeld decreet van 27 juni 1990 zijn van toepassing op de centra of diensten voor revalidatie, met uitzondering van de bepalingen inzake collectieve inspraakprocedure, en met dien verstande dat het protocol van verblijf, opvang, behandeling of begeleiding mag vervangen worden door een equivalent document als dit voorzien is uit hoofde van de wetgeving betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen.
+...
 
 ### ART. 4.
 
-(niet opgenomen)<br /><br />(Worden opgeheven:<br /><br />1° de artikelen 41, 1°, en 42 van het koninklijk besluit van 5 juli 1963 betreffende de sociale reclassering van de minder-validen;<br /><br />2° de reglementaire beslissing van 7 februari 1964 tot vaststelling van de modaliteiten en voorwaarden van voorlopige erkenning van de centra of diensten voor revalidatie)
+...
 
 ### ART. 5.
 
-Bij wijze van overgangsmaatregel blijven de krachtens de bepalingen van artikel 4, 2° verleende voorlopige erkenningen van kracht tot hun vervaldatum of tot één jaar na de datum van publicatie van dit besluit als de voorlopige erkenningsbeslissing geen einddatum vermeldt.
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 januari 1997.
+...
 
 ### ART. 7.
 
-De Vlaamse minister bevoegd voor de bijstand aan personen is belast met de uitvoering van dit besluit.
+...
