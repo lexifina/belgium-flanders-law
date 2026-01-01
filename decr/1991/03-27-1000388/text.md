@@ -1663,7 +1663,7 @@ Het betreft diensten of projecten die de werking van het onderwijs ten goede kom
 <br>
 De Vlaamse regering kan de in het eerste lid bedoelde lijst uitbreiden met initiatieven en projecten die een bijzonder belang voor het onderwijs vertonen.<br>
 <br>
-De Vlaamse Regering stelt voor de verloven wegens bijzondere opdracht de nadere modaliteiten vast. Het totale aantal verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, punt 15°, wordt voor het gemeenschaps- en het gesubsidieerd onderwijs samen vastgelegd op maximaal 42 voltijdse equivalenten, waarvan er minimaal 12 voltijdse equivalenten worden voorbehouden voor het Gemeenschapsonderwijs en de representatieve groeperingen van inrichtende machten.<br>
+De Vlaamse Regering stelt voor de verloven wegens bijzondere opdracht de nadere modaliteiten vast. Het totale aantal verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, punt 15°, wordt voor het gemeenschaps- en het gesubsidieerd onderwijs samen vastgelegd op maximaal 25,5 voltijdse equivalenten, waarvan er minimaal 12 voltijdse equivalenten worden voorbehouden voor het Gemeenschapsonderwijs en de representatieve groeperingen van inrichtende machten.<br>
 <br>
 § 3. De personeelsleden kunnen onder de voorwaarden bepaald door de Vlaamse regering een verlof wegens opdracht bekomen, mits een terugbetaling van het salaris, voor een dienst of project in het belang van het onderwijs.<br>
 <br>
