@@ -876,7 +876,7 @@ De bepalingen van onderafdeling III tot en met V, VII en VIII sluiten de toepass
 <br>
 De bedragen, vermeld in artikel 4.1.11/3 tot en met 4.1.11/5, worden vanaf 1 januari 2015 jaarlijks van rechtswege geïndexeerd door vermenigvuldiging met het gezondheidsindexcijfer voor de maand juni van het jaar n-1 en die te delen door het gezondheidsindexcijfer voor de maand juni 2013.<br>
 <br>
-De bedragen, vermeld in artikel 4.1.11/7 tot en met 4.1.11/8, worden vanaf 1 januari 2027 jaarlijks van rechtswege geïndexeerd door de vermenigvuldiging van die bedragen met het gezondheidsindexcijfer van de maand december van het jaar n-1, gedeeld door het gezondheidsindexcijfer van de maand december 2025.<br>
+De bedragen, vermeld in artikel 4.1.11/7 tot en met 4.1.11/7/2, worden vanaf 1 januari 2027 jaarlijks van rechtswege geïndexeerd door de vermenigvuldiging van die bedragen met het gezondheidsindexcijfer van de maand december van het jaar n-1, gedeeld door het gezondheidsindexcijfer van de maand december 2025.<br>
 <br>
 Onder gezondheidsindexcijfers als vermeld in het derde en vierde lid, wordt verstaan : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994.
 
@@ -948,6 +948,24 @@ De leverancier meldt, zodra het hem bekend is, aan de netbeheerder dat hij aan d
 De vergoeding is verschuldigd tot de dag waarop de netbeheerder de nodige gegevens ter beschikking stelt aan de leverancier conform het protocol dat de netbeheerders en de toegangshouders gebruiken voor de communicatie over de status, de relationele gegevens waaronder de stamgegevens, en de meetgegevens, de allocatie- en reconciliatiegegevens, de foutenafhandeling en de nettarieffacturatiegegevens.<br>
 <br>
 De distributienetbeheerder wordt in de rechten van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding met toepassing van dit artikel.
+
+## Afdeling IV/2. Veiligheid van het aardgasdistributienet, elektriciteitsdistributienet en het plaatselijk vervoernet van elektriciteit
+
+### ART 4.1.11/8
+
+De Vlaamse Regering stelt, op gezamenlijk voorstel van aardgasdistributienetbeheerders, een veiligheidscode vast. De voormelde veiligheidscode bepaalt de technische maatregelen die noodzakelijk zijn om de veiligheid van het aardgasdistributienet te garanderen. De voormelde veiligheidscode bevat minstens al de volgende elementen over het ontwerp, de aanleg, de exploitatie en de ingebruikstelling van alle installaties voor aardgasdistributie in het Vlaamse Gewest en in het kader van de uitvoering van werken door derden aan of in de nabije omgeving van installaties voor aardgasdistributie:<br>
+1°&nbsp;&nbsp; &nbsp;de technische kenmerken van het aardgasdistributienet met onder meer de toegepaste netdrukken;<br>
+2°&nbsp;&nbsp; &nbsp;de kenmerken van het gedistribueerde aardgas;<br>
+3°&nbsp;&nbsp; &nbsp;de ingravingsdiepte en de toegankelijkheid van de aardgasdistributieleidingen; 4°&nbsp;&nbsp; &nbsp;de bescherming tegen corrosie;<br>
+5°&nbsp;&nbsp; &nbsp;de gebruikte materialen en componenten;<br>
+6°&nbsp;&nbsp; &nbsp;de aanleg, de controle en het beproeven van aardgasdistributieleidingen;<br>
+7°&nbsp;&nbsp; &nbsp;de verplichtingen van derden voor, tijdens en na werken in de nabijheid van aardgasdistributie-installaties;<br>
+8°&nbsp;&nbsp; &nbsp;de exploitatievoorwaarden en de controles van de aardgasdistributie-installaties; 9°&nbsp;&nbsp; &nbsp;de tussenkomsten na gasreukmeldingen, incidenten of ongevallen;<br>
+10° de procedure in geval van opening van een gasmeter voor een netgebruiker.<br>
+<br>
+De veiligheidscode, vermeld in het eerste lid, is van overeenkomstige toepassing op installaties van gesloten distributienetten, privédistributienetten en directe leidingen.<br>
+<br>
+Voor dit artikel en de uitvoeringsbepalingen ervan wordt de handhaving, met inbegrip van de strafbaarstelling, uitgevoerd volgens de regels, vermeld in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ## Afdeling V. Aansluiting op een distributienet of het plaatselijk vervoernet van elektriciteit
 
@@ -5313,7 +5331,7 @@ Ten aanzien van de beperkingen, vermeld in artikel 4.1.5/2, genieten de gedelege
 
 ### ART 15.3.5/20.
 
-Als de melding door de leverancier aan de netbeheerder dat hij aan de netgebruiker geen afrekenings- of slotfactuur kan bezorgen binnen de termijnen die zijn vastgelegd krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, al heeft plaatsgehad op de datum van de inwerkingtreding van het decreet van 13 juni 2025 tot wijziging van het Energiedecreet van 8 mei 2009, wat de invoering van een forfaitaire vergoedingsregeling voor geblokkeerde toegangspunten en de uitstelmogelijkheden voor de PV-verplichting betreft, begint de termijn van 180 dagen, vermeld in artikel 4.1.11/8, tweede lid, vanaf die dag te lopen.
+Als de melding door de leverancier aan de netbeheerder dat hij aan de netgebruiker geen afrekenings- of slotfactuur kan bezorgen binnen de termijnen die zijn vastgelegd krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, al heeft plaatsgehad op de datum van de inwerkingtreding van het decreet van 13 juni 2025 tot wijziging van het Energiedecreet van 8 mei 2009, wat de invoering van een forfaitaire vergoedingsregeling voor geblokkeerde toegangspunten en de uitstelmogelijkheden voor de PV-verplichting betreft, begint de termijn van 180 dagen, vermeld in artikel 4.1.11/7/2, tweede lid, vanaf die dag te lopen.
 
 ### ART 15.3.5/21.
 
