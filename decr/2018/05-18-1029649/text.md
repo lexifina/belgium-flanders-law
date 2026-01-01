@@ -1060,10 +1060,6 @@ Het bedrag van de administratieve geldboete, vermeld in het tweede en derde lid,
 <br>
 Artikel 68, § 2 tot en met § 5, is van overeenkomstige toepassing.<br>
 <br>
-De administratieve geldboete kan enkel worden opgelegd, voor zover het Openbaar Ministerie oordeelt dat er geen strafvervolging moet worden ingesteld of geen toepassing maakt van de artikelen 216bis en 216ter van het Wetboek van Strafvordering.<br>
-<br>
-Het openbaar ministerie bezorgt aan de bevoegde administratie een kennisgeving van zijn beslissing om al dan niet strafvervolging in te stellen, een minnelijke schikking bedoeld in artikel 216bis van het Wetboek van Strafvordering of een bemiddeling in strafzaken bedoeld in artikel 216ter van hetzelfde wetboek voor te stellen.<br>
-<br>
 § 5. De zorg waarvan is vastgesteld dat ze in strijd is met de regels, vermeld in paragraaf 1, eerste lid, 1° en 2°, kan niet nogmaals ter uitbetaling worden ingediend bij de zorgkas.
 
 ### ART 76/2.
@@ -2116,11 +2112,11 @@ Gebruikers die op basis van een valse verklaring die ze hebben afgelegd of op ba
 <br>
 Vervoerders, revalidatievoorzieningen of indicatiestellers die een tegemoetkoming voor reiskosten hebben gekregen op basis van een vals document die ze hebben opgemaakt of op basis van een valse verklaring die de gebruiker heeft afgelegd, betalen de waarde ervan terug.<br>
 <br>
-Naast de terugbetaling, vermeld in het eerste en het tweede lid, en op voorwaarde dat het Openbaar Ministerie oordeelt dat er geen strafvervolging moet worden ingesteld of ze geen toepassing maakt van de mogelijkheden, vermeld in artikel 216bis en 216ter van het Wetboek van Strafvordering, kan de ambtenaar die de Vlaamse Regering daarvoor aanwijst bijkomend de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller, vermeld in het eerste en het tweede lid, een administratieve geldboete opleggen, die niet meer kan bedragen dan 100% van het terug te betalen bedrag. Die administratieve geldboete kan ook volledig of gedeeltelijk met uitstel van de uitvoering ervan worden opgelegd. Het uitstel kan toegestaan worden gedurende een termijn van twee jaar vanaf de datum van de beslissing als bij het uitspreken van een administratieve geldboete is vastgesteld dat aan de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller in kwestie geen administratieve geldboete is opgelegd in het voorgaande jaar. Als de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller gedurende de voormelde termijn van twee jaar een nieuwe inbreuk pleegt, worden de uitgestelde en de nieuwe sanctie samengevoegd. In geval van herhaling van dezelfde inbreuk binnen een tijdspanne van drie jaar na de beslissing, kan het bedrag van de boete worden verdubbeld.<br>
+Naast de terugbetaling, vermeld in het eerste en het tweede lid, kan de ambtenaar die de Vlaamse Regering daarvoor aanwijst bijkomend de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller, vermeld in het eerste en het tweede lid, een administratieve geldboete opleggen, die niet meer kan bedragen dan 100% van het terug te betalen bedrag. Die administratieve geldboete kan ook volledig of gedeeltelijk met uitstel van de uitvoering ervan worden opgelegd. Het uitstel kan toegestaan worden gedurende een termijn van twee jaar vanaf de datum van de beslissing als bij het uitspreken van een administratieve geldboete is vastgesteld dat aan de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller in kwestie geen administratieve geldboete is opgelegd in het voorgaande jaar. Als de gebruiker, de vervoerder, de revalidatievoorziening of de indicatiesteller gedurende de voormelde termijn van twee jaar een nieuwe inbreuk pleegt, worden de uitgestelde en de nieuwe sanctie samengevoegd. In geval van herhaling van dezelfde inbreuk binnen een tijdspanne van drie jaar na de beslissing, kan het bedrag van de boete worden verdubbeld.<br>
 <br>
 Artikel 68, § 2 tot en met § 5, is van overeenkomstige toepassing.<br>
 <br>
-Het bedrag van de administratieve geldboete bedraagt maximaal 500 euro. Het Openbaar Ministerie bezorgt aan de bevoegde administratie een kennisgeving van zijn beslissing om al dan niet strafvervolging in te stellen, een minnelijke schikking bedoeld in artikel 216bis van het Wetboek van Strafvordering of een bemiddeling in strafzaken bedoeld in artikel 216ter van hetzelfde wetboek voor te stellen.
+Het bedrag van de administratieve geldboete bedraagt maximaal 500 euro.
 
 ## Deel 5. Wijzigingsbepalingen
 
