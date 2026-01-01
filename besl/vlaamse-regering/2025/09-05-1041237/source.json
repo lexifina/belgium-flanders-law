@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041237,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de vereenvoudiging van de procedure voor de erkenning van verworven competenties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041237/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "c0100fd5be1a5470de5cd7549f96a73dc039cbea08a872e0d07d63a626296b9c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041237&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-09-05",
+  "gazette": "2025-09-26",
+  "numac": 2025006817,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
