@@ -66,7 +66,11 @@ Het agentschap heeft de volgende taken:<br>
 14° beleidsdomeinoverschrijdende databanken en IT-toepassingen ontwikkelen en implementeren om de actoren te ondersteunen die bij justitie, de bestuurlijke en strafrechtelijke handhaving en de bestuursrechtspraak zijn betrokken;<br>
 15° het overleg met het College van procureurs-generaal, vermeld in het samenwerkingsakkoord van 7 januari 2014 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende het strafrechtelijk beleid en het veiligheidsbeleid, faciliteren, voorbereiden en opvolgen;<br>
 16° de gecoördineerde uitwisseling van gegevens met federale inlichtingen-, veiligheids- en politiediensten;<br>
-17° het Vlaams Meldpunt voor Grensoverschrijdend Gedrag organiseren, in samenwerking met het Vlaams Mensenrechteninstituut, vermeld in artikel 4 van het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut.
+17° het Vlaams Meldpunt voor Grensoverschrijdend Gedrag organiseren, in samenwerking met het Vlaams Mensenrechteninstituut, vermeld in artikel 4 van het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut;<br>
+18° het beleid met betrekking tot jeugddelinquentie voorbereiden en uitvoeren, met uitzondering van:<br>
+a)&nbsp;&nbsp; &nbsp;de erkenning en subsidiëring van voorzieningen die erkend zijn voor delictgerichte contextbegeleiding als vermeld in artikel 16 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+b)&nbsp;&nbsp; &nbsp;de opdrachten van de sociale dienst, vermeld in artikel 2, 21°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+19° de herstelgerichte en constructieve dialoog tussen slachtoffer, dader en/of andere betrokkenen organiseren.
 
 ### ART 5.
 
