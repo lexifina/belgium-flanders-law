@@ -2,16 +2,16 @@
   "codex_id": 1021377,
   "title": "Decreet van 2012-02-17 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021377/VolledigDocument?datum=2024-06-16",
-  "source_sha256": "9f5d66cd4c1ab2ae114edd3a7143b62df6296f36f731612c8f0950280c8b8400",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021377/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "1406d0ff630e551f9bf6368c07438fe446f2a59c8da98240ce1ebe77feea9db3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021377&param=informatie",
-  "as_of": "2024-06-16",
+  "as_of": "2026-01-01",
   "made": "2012-02-17",
   "gazette": "2012-03-26",
   "numac": 2012035299,
   "document_start": "2012-04-05",
   "document_end": "2025-12-31",
-  "in_force": "2024-06-16",
+  "in_force": "2026-01-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2024-06-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
