@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042024,
+  "title": "Ministerieel besluit van 2026-04-27 tot wijziging van het ministerieel besluit van 12 mei 2023 tot uitvoering van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042024/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "13bf6928170a35cdd013b9f7e651d6e222e72164eefbe9779ca60bd4bfa9d84b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042024&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-04-27",
+  "gazette": "2026-05-21",
+  "numac": 2026003719,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
