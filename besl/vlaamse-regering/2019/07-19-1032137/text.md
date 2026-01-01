@@ -61,11 +61,11 @@ De bevoegde dienst coördineert het opstellen van EVC-standaarden en richt per E
 
 ### ART 4.
 
-De EVC-standaard wordt ter advies voorgelegd aan de inspectiedienst van het beleidsdomein Onderwijs en Vorming, zijnde de Onderwijsinspectie en de door de Vlaamse minister, bevoegd voor professionele vorming, aangeduide dienst van het beleidsdomein Werk en Sociale Economie. De EVC-standaarden die betrekking hebben op beroepskwalificaties van niveau 5 tot 8 worden in overleg met de Vlaamse universiteiten- en hogescholenraad (VLUHR) voorgelegd aan experten.<br>
+De EVC-standaard wordt ter advies voorgelegd aan onderwijsexperten en de door de Vlaamse minister, bevoegd voor professionele vorming, aangeduide dienst van het beleidsdomein Werk en Sociale Economie. De EVC-standaarden die betrekking hebben op beroepskwalificaties van niveau 5 tot 8 worden in overleg met de Vlaamse universiteiten- en hogescholenraad (VLUHR) voorgelegd aan experten.<br>
 <br>
-De betrokken inspectiediensten of experten bezorgen een advies over de EVC-standaard binnen de 30 dagen aan de bevoegde dienst.<br>
+De betrokken dienst en experten bezorgen een advies over de EVC-standaard binnen de 30 dagen aan de bevoegde dienst.<br>
 <br>
-De bevoegde dienst informeert de ontwikkelcommissie over de adviezen van de inspectiediensten of experten. Indien de adviezen een aanpassing van de EVC-standaard voorstellen, komt de ontwikkelcommissie opnieuw samen en past ze de EVC-standaard aan.<br>
+De bevoegde dienst informeert de ontwikkelcommissie over de adviezen van de dienst en experten. Indien de adviezen een aanpassing van de EVC-standaard voorstellen, komt de ontwikkelcommissie opnieuw samen en past ze de EVC-standaard aan.<br>
 <br>
 De EVC-standaard wordt door de bevoegde dienst ter goedkeuring voorgelegd aan de Vlaamse ministers, bevoegd voor het onderwijs, voor de coördinatie van het vormingsbeleid en voor de professionele vorming.
 
@@ -84,7 +84,7 @@ Een EVC-standaard omvat de volgende elementen:<br>
 
 § 1. De bevoegde dienst kan op verzoek of op eigen initiatief de ontwikkelcommissie, vermeld in artikel 3, samenbrengen om de EVC-standaarden te actualiseren of te schrappen.<br>
 <br>
-Als een EVC-standaard wordt geactualiseerd, legt de bevoegde dienst deze voor advies voor aan de betrokken inspectiediensten of experten en vervolgens ter goedkeuring voor aan de bevoegde Vlaamse ministers als vermeld in artikel 4, vierde lid. De bevoegde dienst zal aangeven welke EVC-instrumenten binnen het jaar moeten worden aangepast.<br>
+Als een EVC-standaard wordt geactualiseerd, legt de bevoegde dienst deze voor advies voor aan de adviesverstrekkers, vermeld in artikel 4 en vervolgens ter goedkeuring voor aan de bevoegde Vlaamse ministers als vermeld in artikel 4, vierde lid. De bevoegde dienst zal aangeven welke EVC-instrumenten binnen het jaar moeten worden aangepast.<br>
 <br>
 Als een EVC-standaard wordt geschrapt, legt de bevoegde dienst de schrapping ter goedkeuring voor aan de bevoegde ministers als vermeld in artikel 4, vierde lid. De bevoegde dienst zal de betrokken organisaties op de hoogte brengen. Zij kunnen nog tot maximum 6 maanden na datum van beslissing hun EVC-trajecten aanbieden.<br>
 <br>
