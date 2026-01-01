@@ -1905,33 +1905,50 @@ Tegen de beslissingen van deze reaffectatiecommissies kan bezwaar worden ingedie
 
 ### ART VI.1.
 
-De Vlaamse Regering kent voor de informatisering van het onderwijs jaarlijks een toelage toe aan :<br>
-1° de scholen voor gewoon- en buitengewoon basisonderwijs;<br>
-2° de scholen en centra voor voltijds secundair onderwijs, buitengewoon secundair onderwijs en deeltijds beroepssecundair onderwijs;<br>
-3° de scholen voor deeltijds kunstonderwijs;<br>
-4° de centra voor volwassenenonderwijs;<br>
-5° de centra voor basiseducatie.
+§1. In het kader van de versterking van de digitale infrastructuur en de bevordering van digitale geletterdheid in het onderwijs, kan de Vlaamse Regering, voor de informatisering van het onderwijs jaarlijks een werkingsbudget toekennen aan:<br>
+1° &nbsp;de scholen voor gewoon- en buitengewoon basisonderwijs;<br>
+2°&nbsp;&nbsp; &nbsp;de scholen en centra voor voltijds secundair onderwijs, buitengewoon secundair onderwijs en deeltijds beroepssecundair onderwijs;<br>
+3°&nbsp;&nbsp; &nbsp;de academies voor deeltijds kunstonderwijs;<br>
+4°&nbsp;&nbsp; &nbsp;de centra voor volwassenenonderwijs;<br>
+5°&nbsp;&nbsp; &nbsp;de centra voor basiseducatie.<br>
+<br>
+Het werkingsbudget, vermeld in het eerste lid, wordt toegekend met het oog&nbsp;op:<br>
+1°&nbsp;&nbsp; &nbsp;de afname van Vlaamse toetsen via digitale middelen;<br>
+2°&nbsp;&nbsp; &nbsp;de terbeschikkingstelling van voldoende en geschikte ICT-infrastructuur voor leerlingen of cursisten en personeel;<br>
+3°&nbsp;&nbsp; &nbsp;het bevorderen van gelijke toegang tot digitale leermiddelen.<br>
+<br>
+§2. Het werkingsbudget, vermeld in paragraaf 1, wordt toegekend voor een periode van maximaal drie schooljaren, en kan worden aangewend tot en met 31 december van het derde jaar dat volgt op het schooljaar waarin het werkingsbudget wordt toegekend.
 
 ### ART VI.2.
 
-§1. De toelagen, bedoel in artikel VI.1, worden toegekend binnen het daartoe voorziene globale begrotingskrediet. De Vlaamse Regering bepaalt de toewijzing van dit krediet aan de verschillende onderwijsniveaus en -vormen en - in voorkomend geval - de verschillende onderverdelingen daarvan, rekening houdend met de verschillende noden inzake de aankoop of huur van hardware, software, randapparatuur, de kosten van een internetaansluiting en specifieke nascholing inzake het gebruik van ICT.<br>
-&nbsp;<br>
-§2. Om de toelagen, vermeld in artikel VI.1, vast te stellen, wordt een bedrag, dat de Vlaamse Regering bepaalt, vermenigvuldigd met één, of een combinatie van de volgende parameters:<br>
-1° het aantal regelmatige/financierbare leerlingen, lesurencursist of betoelaagde urencursist;<br>
-2° de toegekende omkaderingsmiddelen;<br>
-3° het aantal personeelsleden van de school dat aangesteld is in wervingsambten van het bestuurs- en onderwijzend personeel..<br>
+De werkingsbudgetten, vermeld in artikel VI.1, worden toegekend binnen het daartoe door de decreetgever vastgestelde globale begrotingskrediet.<br>
 <br>
-Aan de ziekenhuisscholen wordt een forfaitair bedrag toegekend.<br>
+De Vlaamse Regering stelt binnen dat krediet jaarlijks de verdeelsleutel en het bedrag per instelling vast op basis van één of meer van de volgende criteria:<br>
+1°&nbsp;&nbsp; &nbsp;het aantal gewogen leerlingen per instellingstype;<br>
+2°&nbsp;&nbsp; &nbsp;het aantal personeelsleden met een onderwijsopdracht in wervingsambten van het bestuurs- en onderwijzend personeel;<br>
+3°&nbsp;&nbsp; &nbsp;de specifieke behoeften voor digitalisering, die de Vlaamse Regering bepaalt.<br>
 <br>
-Aan de centra voor basiseducatie wordt een forfaitair bedrag toegekend waarvan de hoegrootheid wordt bepaald door het aantal lesurencursist.
+De Vlaamse Regering stelt de gewogen leerlingenaantallen vermeld in het eerste lid, 1°, vast op basis van één of meer van de volgende criteria, zijnde onderwijsniveau, onderwijstype en socio-economische context.<br>
+<br>
+De Vlaamse Regering kan forfaitaire bedragen toekennen aan ziekenhuisscholen en centra voor basiseducatie.
 
 ### ART VI.3.
 
-De Vlaamse Regering bepaalt de nadere modaliteiten met betrekking tot :<br>
-1° de vaststelling van de toelagen, inzonderheid de datum waarop zij worden vastgesteld;<br>
-2° de toekenning van de toelagen;<br>
-3° de aanwending van de toelagen.<br>
-Zij houdt daarbij rekening met de actuele noden inzake informatisering.
+§1. De Vlaamse Regering bepaalt de volgende aspecten:<br>
+1°&nbsp;&nbsp; &nbsp;de berekening, toekenning en uitbetaling van de werkingsbudgetten, vermeld in artikel VI.1;<br>
+2°&nbsp;&nbsp; &nbsp;de aanwending van de werkingsbudgetten, vermeld in artikel VI.1, conform een refertelijst;<br>
+3°&nbsp;&nbsp; &nbsp;de verplichting tot het opstellen van een ICT-beleidsplan en een professionaliseringsbeleid op vlak van ICT;<br>
+4°&nbsp;&nbsp; &nbsp;de sociale correcties ter waarborging van gelijke toegang tot digitale leermiddelen;<br>
+5°&nbsp;&nbsp; &nbsp;de rapportering en verantwoording;<br>
+6°&nbsp;&nbsp; &nbsp;de monitoring en de evaluatie van het digitaliseringsbeleid.<br>
+<br>
+§2. De Vlaamse Regering bepaalt een controlemechanisme via de bevoegde diensten, die steekproefsgewijs de correcte aanwending van de middelen en de naleving van de regelgeving over overheidsopdrachten en de doorrekening van de kosten in de schoolfactuur controleren. Deze controle heeft geen betrekking op de opportuniteit van de aanwending.<br>
+&nbsp;<br>
+§3. Indien de aspecten bepaald door de Vlaamse Regering op basis van paragraaf 1 niet overeenkomstig de vastgestelde regels worden aangewend, kan aan het betrokken schoolbestuur een gedeeltelijke terugvordering of inhouding van het werkingsbudget worden opgelegd. De terugvordering of inhouding bedraagt ten hoogste 10% van het werkingsbudget van de instelling waar de overtreding werd vastgesteld, conform de bepalingen van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs.<br>
+<br>
+De sanctie is proportioneel, wordt voorafgegaan door een kennisgeving met vermelding van de vaststellingen en een termijn om te worden gehoord, en wordt uitdrukkelijk gemotiveerd.<br>
+<br>
+Deze bepaling doet geen afbreuk aan eventuele sanctieregelingen bepaald in andere decretale regelgeving die op de betrokken instelling van toepassing is.
 
 ## Hoofdstuk 2 ICT-coördinatoren
 
