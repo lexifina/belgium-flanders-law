@@ -112,20 +112,20 @@ Het is niet toegestaan:<br>
 ### ART 9.
 
 §1. De administratieve geldboete voor een meerderjarige overtreder bedraagt:<br>
-1° 107 euro bij een overtreding van de regels, vermeld in artikel 6, eerste lid, 1°, 3°, 5°, 8°, 9°, 11°, 12°, 13°, 14° en 15°, artikel 7, §1, en artikel 8, 4°, 7°, 8°, 9° en 14°;<br>
-2° 250 euro bij een overtreding van de regels, vermeld in artikel 6, eerste lid, 2°, 4°, 6°, 7°, 10° en 16°, en artikel 8, 1°, 2°, 3°, 5° en 6°.<br>
+1° 127 euro bij een overtreding van de regels, vermeld in artikel 6, eerste lid, 1°, 3°, 5°, 8°, 9°, 11°, 12°, 13°, 14° en 15°, artikel 7, §1, en artikel 8, 4°, 7°, 8°, 9° en 14°;<br>
+2° 296 euro bij een overtreding van de regels, vermeld in artikel 6, eerste lid, 2°, 4°, 6°, 7°, 10° en 16°, en artikel 8, 1°, 2°, 3°, 5° en 6°.<br>
 <br>
 Een overtreder die een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3, begaat, wordt niet beboet. Van deze overtreding wordt een proces-verbaal opgesteld, waartegen de overtreder verweermiddelen kan formuleren nadat hij een afschrift van dit proces-verbaal heeft ontvangen, of in het kader van zijn verweer tegen een proces-verbaal voor een of meer nieuwe overtredingen binnen een periode van twaalf maanden vanaf de kennisgeving van de eerste overtreding, vermeld in het derde lid.<br>
 <br>
 Als er binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding als vermeld in het eerste en tweede lid, door de overtreder een of meer overtredingen als vermeld in het eerste en tweede lid, worden gepleegd, bedraagt de administratieve geldboete:<br>
 1° bij een overtreding van de regels, vermeld in artikel 7, §2 en §3:<br>
-a) 20 euro bij een tweede overtreding;<br>
-b) 50 euro bij een derde overtreding en bij elke volgende overtreding;<br>
+a) 24 euro bij een tweede overtreding;<br>
+b) 60 euro bij een derde overtreding en bij elke volgende overtreding;<br>
 2° bij een overtreding van de regels, vermeld in artikel 6, eerste lid, 1°, 3°, 5°, 8°, 9°, 11°, 12°, 13°, 14° en 15°, artikel 7, §1, en artikel 8, 4°, 7°, 8°, 9° en 14°:<br>
-a) 294 euro bij een tweede overtreding;<br>
-b) 400 euro bij een derde overtreding en bij elke volgende overtreding;<br>
+a) 349 euro bij een tweede overtreding;<br>
+b) 474 euro bij een derde overtreding en bij elke volgende overtreding;<br>
 3° bij een overtreding van de regels, vermeld in artikel 6, eerste lid, 2°, 4°, 6°, 7°, 10° en 16°, en artikel 8, 1°, 2°, 3°, 5° en 6°:<br>
-a) 400 euro bij een tweede overtreding;<br>
+a) 474 euro bij een tweede overtreding;<br>
 b) 500 euro bij een derde overtreding en bij elke volgende overtreding.<br>
 <br>
 Een administratieve geldboete kan in de volgende gevallen niet worden opgelegd:<br>
@@ -141,38 +141,38 @@ Als de overtreder de administratieve geldboete niet betaalt binnen de termijn, v
 Het instellen van een jurisdictioneel beroep schort de uitvoering van de definitieve beslissing op.<br>
 <br>
 §3. In afwijking van paragraaf 1, eerste lid, bedraagt de administratieve geldboete voor een minderjarige overtreder van veertien jaar of ouder:<br>
-1° 81 euro bij een overtreding als vermeld in paragraaf 1, eerste lid, 1°;<br>
-2° 81 euro bij een overtreding als vermeld in paragraaf 1, eerste lid, 2°.<br>
+1° 96 euro bij een overtreding als vermeld in paragraaf 1, eerste lid, 1°;<br>
+2° 96 euro bij een overtreding als vermeld in paragraaf 1, eerste lid, 2°.<br>
 <br>
 In afwijking van paragraaf 1, derde lid, 2° en 3°, bedraagt de administratieve geldboete voor een minderjarige overtreder van veertien jaar of ouder:<br>
 1° bij een overtreding als vermeld in paragraaf 1, derde lid, 2°:<br>
-a) 214 euro bij een tweede overtreding;<br>
+a) 254 euro bij een tweede overtreding;<br>
 b) 300 euro bij een derde overtreding en bij elke volgende overtreding;<br>
 2° bij een overtreding als vermeld in paragraaf 1, derde lid, 3°:<br>
-a) 214 euro bij een tweede overtreding;<br>
+a) 254 euro bij een tweede overtreding;<br>
 b) 300 euro bij een derde overtreding en bij elke volgende overtreding.<br>
 <br>
 Paragraaf 1, tweede lid en derde lid, 1°, is op minderjarige overtreders van veertien jaar of ouder van overeenkomstige toepassing.<br>
 <br>
 §4. In afwijking van paragraaf 1 wordt aan een minderjarige overtreder van twaalf of dertien jaar alleen een administratieve boete opgelegd in geval van overtreding van de regels, vermeld in artikel 7. De administratieve boete bedraagt:<br>
 1° bij een overtreding van de regels, vermeld in artikel 7, §1:<br>
-a) 81 euro;<br>
-b) 214 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
+a) 96 euro;<br>
+b) 254 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
 c) 300 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
 2° bij een overtreding van de regels, vermeld in artikel 7, §2 en §3:<br>
-a) 20 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3;<br>
-b) 50 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3.<br>
+a) 24 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3;<br>
+b) 60 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3.<br>
 <br>
 §5. Als minderjarigen vanaf de leeftijd van zes jaar tot en met elf jaar niet over een vervoerbewijs beschikken dat conform artikel 7 geldig en, in voorkomend geval, gevalideerd is, wordt in afwijking van paragraaf 1, aan de ouders of andere personen die het ouderlijk gezag over die minderjarige overtreder uitoefenen, een administratieve boete opgelegd. Als de ouders of de andere personen die het ouderlijk gezag over die minderjarige overtreder uitoefenen het vermoeden weerleggen dat zij een overtreding begaan als vermeld in artikel 44ter, §1, vierde lid, van het decreet van 31 juli 1990, wordt hen geen administratieve boete opgelegd.<br>
 <br>
 De administratieve geldboete bedraagt:<br>
 1° bij een overtreding van de regels, vermeld in artikel 7, §1:<br>
-a) 56 euro;<br>
-b) 56 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
-c) 56 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
+a) 67 euro;<br>
+b) 67 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
+c) 67 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §1;<br>
 2° bij een overtreding van de regels, vermeld in artikel 7, §2 en §3:<br>
-a) 20 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3;<br>
-b) 50 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3.<br>
+a) 24 euro bij een tweede overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3;<br>
+b) 60 euro bij een derde overtreding en elke volgende overtreding binnen een periode van twaalf maanden vanaf de kennisgeving van een eerste overtreding van de regels, vermeld in artikel 7, §2 en §3.<br>
 <br>
 §6. Als de lijncontroleur een overtreding van de regels, vermeld in artikel 7, §1, vaststelt, geeft hij aan de overtreder kosteloos een geldig vervoerbewijs af.
 

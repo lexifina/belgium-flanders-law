@@ -2,16 +2,16 @@
   "codex_id": 1037735,
   "title": "Besluit van de Vlaamse Regering van 2022-09-16 tot bepaling van de reisvoorwaarden en de regels voor de handhaving ervan door de VVM - De Lijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037735/VolledigDocument?datum=2022-12-16",
-  "source_sha256": "3fa7e24b4e659b6c86aa4d2554e0c36a9f56fe30dbfca0966805c7dfe7038f3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037735/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "94e0c004c2c49c65a9abceda8247334d9b8e8882145aa1bc01840fb078222948",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037735&param=informatie",
-  "as_of": "2022-12-16",
+  "as_of": "2026-01-01",
   "made": "2022-09-16",
   "gazette": "2022-12-06",
   "numac": 2022033688,
   "document_start": "2022-12-16",
   "document_end": null,
-  "in_force": "2022-12-16",
+  "in_force": "2026-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2022-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
