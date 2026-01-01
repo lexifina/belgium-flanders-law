@@ -27,12 +27,13 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° administratie: de functioneel bevoegde afdeling van het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, of Zorginspectie als vermeld in artikel 4, §2, derde lid, van het voormelde besluit;<br>
+1° administrateur-generaal: het hoofd van het agentschap;<br>
+1°/1 agentschap: het Agentschap Justitie en Handhaving, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 3 september 2021 tot oprichting van het intern verzelfstandigd agentschap “Agentschap Justitie en Handhaving”;<br>
 2° caseload: het aantal vooropgestelde op te nemen aanvragen voor herstelbemiddeling voor een werkingsjaar;<br>
 3° daders: de verdachten, in verdenking gestelde personen, beklaagden, veroordeelden en geïnterneerden;<br>
 4° departement: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorge;<br>
 5° initiatiefnemer: een lokaal bestuur of een vereniging met rechtspersoonlijkheid die rechtstreeks noch onrechtstreeks enig vermogensvoordeel mag uitkeren of bezorgen behalve voor het in de statuten bepaalde belangeloze doel;<br>
-6° minister: de Vlaamse minister, bevoegd voor bijstand aan personen;<br>
+6° ...;<br>
 7° secretaris-generaal: het hoofd van het departement;<br>
 8° wet van 16 mei 2003: de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
 
@@ -51,11 +52,11 @@ Het aanbod, vermeld in artikel 2, wordt zowel voor als na de gerechtelijke besli
 
 ### ART 4.
 
-§ 1. De vereniging zonder winstoogmerk die gesubsidieerd wil worden voor het aanbod, vermeld in artikel 3, beschikt over een meerjarenplan dat goedgekeurd is door de secretaris-generaal.<br>
+§ 1. De vereniging zonder winstoogmerk die gesubsidieerd wil worden voor het aanbod, vermeld in artikel 3, beschikt over een meerjarenplan dat goedgekeurd is door de administrateur-generaal.<br>
 <br>
 Het meerjarenplan geldt voor een periode van vijf jaar.<br>
 <br>
-§ 2. Het meerjarenplan is ontvankelijk als de vereniging zonder winstoogmerk het plan indient bij de administratie uiterlijk op 1 mei van het jaar dat voorafgaat aan de periode waarop het meerjarenplan betrekking heeft en als het de volgende gegevens bevat:<br>
+§ 2. Het meerjarenplan is ontvankelijk als de vereniging zonder winstoogmerk het plan indient bij het agentschap uiterlijk op 1 mei van het jaar dat voorafgaat aan de periode waarop het meerjarenplan betrekking heeft en als het de volgende gegevens bevat:<br>
 1° de organisatiespecifieke kenmerken van de vereniging, namelijk:<br>
 a) de missie en visie op herstelbemiddeling;<br>
 b) de interne organisatiestructuur;<br>
@@ -67,9 +68,9 @@ d) de mate van expertise en de ervaring met de vooropgestelde opdracht of doelgr
 5° het tijdstip en de wijze waarop de resultaten geëvalueerd worden;<br>
 6° de begroting voor de volledige periode van het meerjarenplan.<br>
 <br>
-De administratie beoordeelt de ontvankelijkheid van het ingediende meerjarenplan. Als het plan niet ontvankelijk is, deelt de administratie dat mee aan de vereniging zonder winstoogmerk voor 1 juli van het jaar dat voorafgaat aan de periode waarop het meerjarenplan betrekking heeft.<br>
+Het agentschap beoordeelt de ontvankelijkheid van het ingediende meerjarenplan. Als het plan niet ontvankelijk is, deelt het agentschap dat mee aan de vereniging zonder winstoogmerk voor 1 juli van het jaar dat voorafgaat aan de periode waarop het meerjarenplan betrekking heeft.<br>
 <br>
-§ 3. De criteria, vermeld in paragraaf 2, eerste lid, gelden als beoordelingscriteria op basis waarvan de secretaris-generaal beslist over de goedkeuring van het ingediende meerjarenplan. Het meerjarenplan moet minstens een score van 60 op 100 punten behalen om goedgekeurd te kunnen worden.<br>
+§ 3. De criteria, vermeld in paragraaf 2, eerste lid, gelden als beoordelingscriteria op basis waarvan de administrateur-generaal beslist over de goedkeuring van het ingediende meerjarenplan. Het meerjarenplan moet minstens een score van 60 op 100 punten behalen om goedgekeurd te kunnen worden.<br>
 <br>
 De 100 punten, vermeld in het eerste lid, worden als volgt verdeeld:<br>
 1° 15 punten voor het beoordelingscriterium, vermeld in § 2, eerste lid, 1° ;<br>
@@ -81,11 +82,11 @@ De 100 punten, vermeld in het eerste lid, worden als volgt verdeeld:<br>
 <br>
 Als het maximale beschikbare begrotingskrediet bereikt is, krijgen de verenigingen zonder winstoogmerk met de best beoordeelde meerjarenplannen voorrang. Op basis van de score op de beoordelingscriteria, vermeld in het tweede lid, wordt een rangorde opgesteld, waarbij de vereniging zonder winstoogmerk met een meerjarenplan met een hogere score op 100 voorrang krijgt op de deze met een lagere score op 100.<br>
 <br>
-De secretaris-generaal kan de vereniging zonder winstoogmerk verzoeken om wijzigingen aan te brengen aan het ingediende meerjarenplan. De vereniging zonder winstoogmerk kan het meerjarenplan wijzigen op de punten die de secretaris-generaal heeft aangegeven. Ze dient het gewijzigde meerjarenplan uiterlijk een maand na de dag van het verzoek van de secretaris-generaal in bij de administratie. De administratie beoordeelt het gewijzigde meerjarenplan conform het eerste lid.
+De administrateur-generaal kan de vereniging zonder winstoogmerk verzoeken om wijzigingen aan te brengen aan het ingediende meerjarenplan. De vereniging zonder winstoogmerk kan het meerjarenplan wijzigen op de punten die de administrateur-generaal heeft aangegeven. Ze dient het gewijzigde meerjarenplan uiterlijk een maand na de dag van het verzoek van de administrateur-generaal in bij het agentschap. Het agentschap beoordeelt het gewijzigde meerjarenplan conform het eerste lid.
 
 ### ART 5.
 
-De secretaris-generaal sluit uiterlijk drie maanden na de dag van de goedkeuring van het meerjarenplan een overeenkomst met de vereniging. De overeenkomst bevat al de volgende elementen:<br>
+De administrateur-generaall sluit uiterlijk drie maanden na de dag van de goedkeuring van het meerjarenplan een overeenkomst met de vereniging. De overeenkomst bevat al de volgende elementen:<br>
 1° het goedgekeurde meerjarenplan;<br>
 2° de wijze waarop de vereniging de middelen die ter beschikking worden gesteld, inzet om het meerjarenplan te realiseren;<br>
 3° de wijze waarop de voortgang van de realisatie van de strategische en operationele doelstellingen wordt gemeten;<br>
@@ -93,11 +94,11 @@ De secretaris-generaal sluit uiterlijk drie maanden na de dag van de goedkeuring
 
 ### ART 6.
 
-Als de vereniging tijdens de looptijd van het meerjarenplan een wijziging in het meerjarenplan aanbrengt of de secretaris-generaal een wijziging van het meerjarenplan vraagt, dient de vereniging daarvoor bij de secretaris-generaal een dossier in waarin die wijziging wordt gesitueerd en gemotiveerd. De secretaris-generaal beslist over de goedkeuring van de wijziging. De overeenkomst, vermeld in artikel 5, wordt aangepast volgens de goedgekeurde wijziging.
+Als de vereniging tijdens de looptijd van het meerjarenplan een wijziging in het meerjarenplan aanbrengt of de administrateur-generaal een wijziging van het meerjarenplan vraagt, dient de vereniging daarvoor bij de administrateur-generaal een dossier in waarin die wijziging wordt gesitueerd en gemotiveerd. De administrateur-generaal beslist over de goedkeuring van de wijziging. De overeenkomst, vermeld in artikel 5, wordt aangepast volgens de goedgekeurde wijziging.
 
 ### ART 7.
 
-De secretaris-generaal kent, jaarlijks een subsidie-enveloppe toe voor het werkjaar waarop het meerjarenplan betrekking heeft.<br>
+De administrateur-generaal kent, jaarlijks een subsidie-enveloppe toe voor het werkjaar waarop het meerjarenplan betrekking heeft.<br>
 <br>
 De subsidie-enveloppe, vermeld in het eerste lid, is samengesteld uit een forfaitair bedrag van 75.000 euro per voltijdse equivalent.
 
@@ -111,7 +112,7 @@ Een aanvraag is de vraag tot bemiddeling door een partij, al dan niet via derden
 <br>
 De vereniging kan meer aanvragen tot bemiddeling opnemen dan de vooropgestelde caseload. De bezettingsgraad bedraagt echter niet meer dan 110%.<br>
 <br>
-Als de bezettingsgraad tijdens twee opeenvolgende jaren minder dan 80% van de vooropgestelde caseload bedraagt, vordert de secretaris-generaal na afloop van die twee jaar het deel van de subsidie terug waarvoor de vooropgestelde caseload niet werd gehaald, overeenkomstig artikel 13 van de wet van 16 mei 2003. Dat deel wordt verhoudingsgewijs bepaald op basis van 110% van de gemiddelde bezetting tijdens die twee opeenvolgende jaren.<br>
+Als de bezettingsgraad tijdens twee opeenvolgende jaren minder dan 80% van de vooropgestelde caseload bedraagt, vordert de administrateur-generaal na afloop van die twee jaar het deel van de subsidie terug waarvoor de vooropgestelde caseload niet werd gehaald, overeenkomstig artikel 13 van de wet van 16 mei 2003. Dat deel wordt verhoudingsgewijs bepaald op basis van 110% van de gemiddelde bezetting tijdens die twee opeenvolgende jaren.<br>
 <br>
 § 3. De subsidie-enveloppe, vermeld in artikel 7, eerste lid, wordt binnen de beschikbare begrotingskredieten geïndexeerd conform artikel 1 van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
 <br>
@@ -140,7 +141,7 @@ De subsidie wordt uitgekeerd in de volgende twee schijven:<br>
 
 ### ART 11.
 
-De vereniging verantwoordt de aanwending van de subsidie tijdens het kalenderjaar in een inhoudelijk verslag en in een financieel verslag als vermeld in artikel 13, tweede lid, en artikel 14 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, en in een verslag van de commissaris, vermeld in het derde lid. Die verslagen worden voor 1 april van het volgende kalenderjaar bij de administratie ingediend.<br>
+De vereniging verantwoordt de aanwending van de subsidie tijdens het kalenderjaar in een inhoudelijk verslag en in een financieel verslag. Die verslagen worden voor 1 april van het volgende kalenderjaar bij het agentschap ingediend.<br>
 <br>
 Het inhoudelijk verslag bestaat uit een rapportage met gegevens over:<br>
 1° het profiel van de bereikte doelgroep;<br>
@@ -149,7 +150,7 @@ Het inhoudelijk verslag bestaat uit een rapportage met gegevens over:<br>
 4° het aantal opgenomen aanvragen voor herstelbemiddelingen per gerechtelijk arrondissement;<br>
 5° de wijze waarop de aanmeldingen gebeuren.<br>
 <br>
-Het verslag van de commissaris betreft een verslag van een natuurlijke persoon of een rechtspersoon, die lid is van het Instituut van de Bedrijfsrevisoren. Die commissaris wordt belast met de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid ten aanzien van de wet en de statuten, van de in de jaarrekening opgenomen verrichtingen.<br>
+Het financiële verslag bestaat uit een overzicht van de kosten die gemaakt zijn voor de realisatie van de activiteit waarvoor de subsidie is toegekend, en een overzicht van de opbrengsten die in het kader van de activiteit zijn verworven. Het financiële verslag omvat ook een verslag van de commissaris die lid is van het Instituut van Bedrijfsrevisoren, en die belast is met de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid ten aanzien van de wet en de statuten, van de in de jaarrekening opgenomen verrichtingen.<br>
 <br>
 Als het financiële verslag of het inhoudelijke verslag te laat worden ingediend, wordt 5% van de toegekende subsidie-enveloppe teruggevorderd.
 
@@ -159,13 +160,13 @@ Als het financiële verslag of het inhoudelijke verslag te laat worden ingediend
 
 Initiatiefnemers kunnen een subsidie aanvragen voor vernieuwende initiatieven die beantwoorden aan een maatschappelijke behoefte voor een herstelgericht en constructief hulp- en dienstverleningsaanbod als vermeld in artikel 105 van het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
 <br>
-De minister bepaalt, telkens voor een periode van vijf jaar, de doelgroepen waarop de initiatieven zich zullen richten, vermeld in het eerste lid, waarvoor een subsidie kan worden aangevraagd en de maximale subsidie die jaarlijks kan worden aangevraagd.
+De Vlaamse minister, bevoegd voor de zorg, bepaalt, telkens voor een periode van vijf jaar, de doelgroepen waarop de initiatieven zich zullen richten, vermeld in het eerste lid, waarvoor een subsidie kan worden aangevraagd en de maximale subsidie die jaarlijks kan worden aangevraagd.
 
 ### ART 13.
 
-§ 1. Een initiatiefnemer die een subsidie wil aanvragen voor een initiatief, vermeld in artikel 12, dient daarvoor bij de administratie een projectaanvraag in met een duurtijd van maximaal vijf jaar.<br>
+§ 1. Een initiatiefnemer die een subsidie wil aanvragen voor een initiatief, vermeld in artikel 12, dient daarvoor bij het departement een projectaanvraag in met een duurtijd van maximaal vijf jaar.<br>
 <br>
-§ 2. De projectaanvraag is ontvankelijk als de initiatiefnemer de aanvraag indient bij de administratie uiterlijk op 1 mei van het jaar dat voorafgaat aan de periode waarop het project betrekking heeft, en als de aanvraag al de volgende gegevens bevat:<br>
+§ 2. De projectaanvraag is ontvankelijk als de initiatiefnemer de aanvraag indient bij het departement uiterlijk op 1 mei van het jaar dat voorafgaat aan de periode waarop het project betrekking heeft, en als de aanvraag al de volgende gegevens bevat:<br>
 1° de naam van de initiatiefnemer;<br>
 2° een beschrijving van de visie en de missie van de initiatiefnemer;<br>
 3° een beschrijving van het aanbod dat de initiatiefnemer zal realiseren en de doelstellingen van het aanbod, dat inzet op de doelgroepen, vermeld in artikel 12, tweede lid;<br>
@@ -179,7 +180,7 @@ De minister bepaalt, telkens voor een periode van vijf jaar, de doelgroepen waar
 11° een beschrijving van de wijze van besteding van de middelen gedurende de volledige periode van het project;<br>
 12° de mate waarin de resultaten van het project verduurzaamd zullen worden na afloop van de projectperiode.<br>
 <br>
-§ 3. De gegevens, vermeld in § 2, eerste lid, 3° tot en met 12°, gelden als beoordelingscriteria op basis waarvan de minister beslist over de goedkeuring van de projectaanvragen. De projectaanvraag moet minstens een score van 60 op 100 punten behalen om goedgekeurd te kunnen worden.<br>
+§ 3. De gegevens, vermeld in § 2, eerste lid, 3° tot en met 12°, gelden als beoordelingscriteria op basis waarvan de Vlaamse minister, bevoegd voor de zorg, beslist over de goedkeuring van de projectaanvragen. De projectaanvraag moet minstens een score van 60 op 100 punten behalen om goedgekeurd te kunnen worden.<br>
 <br>
 De 100 punten, vermeld in het eerste lid, worden als volgt verdeeld:<br>
 1° 10 punten voor het beoordelingscriterium, vermeld in § 2, eerste lid, 3° ;<br>
@@ -195,29 +196,29 @@ De 100 punten, vermeld in het eerste lid, worden als volgt verdeeld:<br>
 <br>
 Als het maximale beschikbare begrotingskrediet bereikt is, krijgen de initiatiefnemers met de best beoordeelde projectaanvragen voorrang. Op basis van de score op de beoordelingscriteria, vermeld in het tweede lid, wordt een rangorde opgesteld, waarbij de initiatiefnemer met een projectaanvraag met een hogere score op 100 voorrang krijgt op de deze met een lagere score op 100.<br>
 <br>
-De minister kan bijkomende beoordelingscriteria vaststellen.
+De Vlaamse minister, bevoegd voor de zorg, kan bijkomende beoordelingscriteria vaststellen.
 
 ### ART 14.
 
-De administratie beoordeelt de ontvankelijkheid van de projectaanvraag.<br>
+Het departement beoordeelt de ontvankelijkheid van de projectaanvraag.<br>
 <br>
-Als de projectaanvraag niet ontvankelijk is, deelt de administratie dat mee aan de initiatiefnemer voor 1 juli van het jaar dat voorafgaat aan het jaar waarop de periode van de projectaanvraag betrekking heeft.<br>
+Als de projectaanvraag niet ontvankelijk is, deelt het departement dat mee aan de initiatiefnemer voor 1 juli van het jaar dat voorafgaat aan het jaar waarop de periode van de projectaanvraag betrekking heeft.<br>
 <br>
-Als de projectaanvraag ontvankelijk is en de projectaanvraag wordt goedgekeurd, wordt de beslissing van de minister om de projectaanvraag goed te keuren, uiterlijk op 1 oktober van het jaar dat voorafgaat aan de projectperiode, meegedeeld aan de initiatiefnemer.<br>
+Als de projectaanvraag ontvankelijk is en de projectaanvraag wordt goedgekeurd, wordt de beslissing van de Vlaamse minister, bevoegd voor de zorg, om de projectaanvraag goed te keuren, uiterlijk op 1 oktober van het jaar dat voorafgaat aan de projectperiode, meegedeeld aan de initiatiefnemer.<br>
 <br>
-Als de projectaanvraag ontvankelijk is en de projectaanvraag niet wordt goedgekeurd, wordt de beslissing van de minister om de projectaanvraag af te keuren, uiterlijk op 1 oktober van het jaar dat voorafgaat aan de projectperiode, meegedeeld aan de initiatiefnemer.
+Als de projectaanvraag ontvankelijk is en de projectaanvraag niet wordt goedgekeurd, wordt de beslissing van de Vlaamse minister, bevoegd voor de zorg, om de projectaanvraag af te keuren, uiterlijk op 1 oktober van het jaar dat voorafgaat aan de projectperiode, meegedeeld aan de initiatiefnemer.
 
 ### ART 15.
 
 De secretaris-generaal sluit uiterlijk drie maanden na de goedkeuring van de projectaanvraag een overeenkomst met de initiatiefnemer. De overeenkomst omvat al de volgende elementen:<br>
-1° de door de minister goedgekeurde projectaanvraag;<br>
+1° de door de Vlaamse minister, bevoegd voor de zorg, goedgekeurde projectaanvraag;<br>
 2° de wijze waarop de initiatiefnemer de middelen die ter beschikking worden gesteld, inzet om de projectaanvraag te realiseren;<br>
 3° de wijze waarop de voortgang van de realisatie van de doelstellingen van het aanbod wordt gemeten;<br>
 4° het geraamde jaarlijkse subsidiebedrag voor de periode van de projectaanvraag.
 
 ### ART 16.
 
-Als tijdens de looptijd van het project de initiatiefnemer een wijziging in de projectaanvraag aanbrengt of de minister een wijziging van de projectaanvraag vraagt, dient de initiatiefnemer daarvoor bij de administratie een dossier in waarin die wijziging wordt gesitueerd en gemotiveerd. De minister beslist over de goedkeuring van de wijziging. De overeenkomst, vermeld in artikel 15, wordt aangepast volgens de goedgekeurde wijziging.
+Als tijdens de looptijd van het project de initiatiefnemer een wijziging in de projectaanvraag aanbrengt of de Vlaamse minister, bevoegd voor de zorg, een wijziging van de projectaanvraag vraagt, dient de initiatiefnemer daarvoor bij het departement een dossier in waarin die wijziging wordt gesitueerd en gemotiveerd. De Vlaamse minister, bevoegd voor de zorg, beslist over de goedkeuring van de wijziging. De overeenkomst, vermeld in artikel 15, wordt aangepast volgens de goedgekeurde wijziging.
 
 ### ART 17.
 
@@ -235,7 +236,7 @@ De subsidie wordt uitgekeerd in de volgende twee schijven:<br>
 
 ### ART 19.
 
-De initiatiefnemer verantwoordt de aanwending van de subsidie tijdens het kalenderjaar in een inhoudelijk en een financieel verslag. Hij dient dat verslag voor 1 april van het volgende kalenderjaar in bij de administratie.<br>
+De initiatiefnemer verantwoordt de aanwending van de subsidie tijdens het kalenderjaar in een inhoudelijk en een financieel verslag. Hij dient dat verslag voor 1 april van het volgende kalenderjaar in bij het departement.<br>
 <br>
 Het inhoudelijk verslag bestaat uit een rapportage met de gegevens over:<br>
 1° het profiel van de bereikte doelgroep;<br>
@@ -250,13 +251,13 @@ Als het inhoudelijk of financieel verslag te laat wordt ingediend, wordt 5% van 
 
 ### ART 20.
 
-De beslissing van de secretaris-generaal om de subsidies stop te zetten of terug te vorderen, conform artikel 13 van de wet van 16 mei 2003, wordt door de administratie aan de vereniging of de initiatiefnemer betekend met een aangetekende brief, waarin de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<br>
+De beslissing van de administrateur-generaal respectievelijk de secretaris-generaal om de subsidies stop te zetten of terug te vorderen, conform artikel 13 van de wet van 16 mei 2003, wordt door het agentschap respectievelijk het departement aan de vereniging of de initiatiefnemer betekend met een aangetekende brief, waarin de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<br>
 <br>
-De vereniging of de initiatiefnemer kan een bezwaarschrift indienen tegen de beslissing om de subsidie stop te zetten of terug te vorderen. De vereniging of de initiatiefnemer kan daarin uitdrukkelijk vragen om te worden gehoord. De vereniging of initiatiefnemer dient het gemotiveerde bezwaarschrift, op straffe van niet-ontvankelijkheid, met een aangetekende brief in bij de administratie uiterlijk dertig dagen na de dag van de ontvangst van de aangetekende brief waarbij de stopzetting van de subsidie of de terugvordering van de subsidie is betekend.<br>
+De vereniging of de initiatiefnemer kan een bezwaarschrift indienen tegen de beslissing om de subsidie stop te zetten of terug te vorderen. De vereniging of de initiatiefnemer kan daarin uitdrukkelijk vragen om te worden gehoord. De vereniging of initiatiefnemer dient het gemotiveerde bezwaarschrift, op straffe van niet-ontvankelijkheid, met een aangetekende brief in bij het agentschap respectievelijk het departement uiterlijk dertig dagen na de dag van de ontvangst van de aangetekende brief waarbij de stopzetting van de subsidie of de terugvordering van de subsidie is betekend.<br>
 <br>
-Als de vereniging of initiatiefnemer een ontvankelijk bezwaarschrift heeft ingediend, trekt de minister de beslissing van de secretaris-generaal in of bevestigt hij die beslissing. De beslissing tot intrekking of bevestiging wordt binnen zestig dagen na de dag van de ontvangst van het bezwaarschrift meegedeeld aan de vereniging of de initiatiefnemer met een aangetekende zending.<br>
+Als de vereniging of initiatiefnemer een ontvankelijk bezwaarschrift heeft ingediend, trekt de functioneel bevoegde minister de beslissing van de administrateur-generaal respectievelijk de secretaris-generaal in of bevestigt hij die beslissing. De beslissing tot intrekking of bevestiging wordt binnen zestig dagen na de dag van de ontvangst van het bezwaarschrift meegedeeld aan de vereniging of de initiatiefnemer met een aangetekende zending.<br>
 <br>
-Als de minister de beslissing intrekt of als hij de beslissing niet bevestigt binnen de gestelde termijn, wordt de subsidiëring voortgezet of wordt de subsidie behouden.<br>
+Als de functioneel bevoegde minister de beslissing intrekt of als hij de beslissing niet bevestigt binnen de gestelde termijn, wordt de subsidiëring voortgezet of wordt de subsidie behouden.<br>
 <br>
 De uitvoering van de beslissing, vermeld in het eerste lid, wordt geschorst tijdens de termijn om een bezwaarschrift in te dienen en tijdens de behandeling van het bezwaarschrift.
 
@@ -272,7 +273,11 @@ De overeenkomst, vermeld in artikel 5, wordt opgesteld voor een looptijd tot en 
 
 ### ART 22.
 
-In het jaar 2023 evalueert de minister het forfaitair bedrag, vermeld in artikel 7.
+§1. Als op 1 januari 2026 nog niet is beslist over de goedkeuring van het meerjarenplan, vermeld in artikel 4, dat uiterlijk op 1 mei 2025 is ingediend bij het departement, beslist de administrateur-generaal over de goedkeuring van het meerjarenplan conform artikel 4, §3.&nbsp;<br>
+<br>
+In afwijking van artikel 5 sluit de administrateur-generaal voor de werkingsperiode van 1 januari 2026 tot en met 31 december 2030 de overeenkomst, vermeld in artikel 5, in elk geval uiterlijk op 28 februari 2026.<br>
+<br>
+§2. De administrateur-generaal kan tijdens de looptijd van het meerjarenplan een wijziging van het meerjarenplan vragen conform artikel 6, ook als de secretaris-generaal vóór 1 januari 2026 heeft beslist over de goedkeuring van het meerjarenplan.
 
 ### ART 23.
 
