@@ -346,6 +346,99 @@ De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen
 <br>
 § 5. Op voorwaarde dat de betrokkenen niet of niet meer identificeerbaar zijn, kan de administratie de gegevens van de deelnemers, vermeld in paragraaf 3, eerste lid, en de gegevens van de individuele zorgaanbieders, vermeld in para- graaf 3, tweede lid, ook verwerken voor wetenschappelijke, beleids- en statistische doeleinden.
 
+### ART 34/2/1.
+
+§1. In dit artikel wordt verstaan onder het initiatief bewegen op verwijzing: een aanbod ter uitvoering van artikel 57 dat gericht is op de motivationele ondersteuning en opvolging van personen om meer te bewegen en sedentair gedrag te beperken, na verwijzing door een zorgverlener.<br>
+<br>
+De Vlaamse Regering bepaalt welke zorgverleners als vermeld in het eerste lid kunnen doorverwijzen.<br>
+<br>
+§2. De organisatie die een subsidie ontvangt van de Vlaamse Regering om de subsidiëring van individuele zorgaanbieders in het kader van het initiatief bewegen op verwijzing te ondersteunen en te evalueren, kan persoonsgegevens verwerken van de deelnemers aan dat initiatief en van de individuele zorgaanbieders om dat initiatief te realiseren.<br>
+<br>
+Om het initiatief bewegen op verwijzing op het terrein uit te voeren, kunnen de individuele zorgaanbieders persoonsgegevens verwerken van de deelnemers aan dat initiatief.<br>
+<br>
+§3. In het kader van de doeleinden, vermeld in paragraaf 2, verwerken de organisatie, vermeld in paragraaf 2, en de individuele zorgaanbieders de volgende gegevens, met inbegrip van de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, van de deelnemers aan het initiatief bewegen op verwijzing:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de deelnemer te identificeren, waaronder het rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens, het adres en de werkelijke verblijfplaats van de deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;het geslacht van de deelnemer;<br>
+4°&nbsp;&nbsp; &nbsp;het geboortejaar van de deelnemer;<br>
+5°&nbsp;&nbsp; &nbsp;het gegeven of de deelnemer recht heeft op het statuut verhoogde tegemoetkoming;<br>
+6°&nbsp;&nbsp; &nbsp;een overzicht van de prestaties die de deelnemer in het kader van de ‘bewegen op verwijzing’-begeleiding heeft ontvangen.<br>
+<br>
+In het kader van het doeleinde, vermeld in paragraaf 2, eerste lid, verwerkt de organisatie de volgende gegevens van de individuele zorgaanbieders:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de individuele zorgaanbieder te identificeren, waaronder het rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens van de individuele zorgaanbieder;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over het dienstverband waarbinnen de individuele zorgaanbieder werkt;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over het aanbod van de individuele zorgaanbieder in het kader van de ‘bewegen op verwijzing’-begeleiding en de vermelding of de individuele zorgaanbieder actief is als aanbieder van bewegen op verwijzing of niet;<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de bekwaamheid van de individuele zorgaanbieder;<br>
+6°&nbsp;&nbsp; &nbsp;het beroepsadres waar de individuele zorgaanbieder de ‘bewegen op verwijzing’-begeleiding aan deelnemers aan het initiatief bewegen op verwij-zing aanbiedt en uitvoert;<br>
+7°&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om de vergoeding voor de uitvoering van een initiatief bewegen op verwijzing uit te betalen aan de individuele zorgaan-bieder;<br>
+8°&nbsp;&nbsp; &nbsp;de persoonsgegevens die noodzakelijk zijn om de mandaathouder te identificeren, waaronder het rijksregisternummer, opdat de mandaathouder namens een individuele zorgaanbieder de uitgevoerde prestaties van die individuele zorgaanbieder kan invoeren in de uitbetalingssoftware.<br>
+<br>
+In het kader van de doeleinden, vermeld in paragraaf 2, verwerken de organisatie en de individuele zorgaanbieders de volgende persoonsgegevens van de personen die de deelnemer naar een initiatief bewegen op verwijzing doorverwijzen:<br>
+1°&nbsp;&nbsp; &nbsp;de naam en de voornaam van de doorverwijzer;<br>
+2°&nbsp;&nbsp; &nbsp;het beroep van de doorverwijzer;<br>
+3°&nbsp;&nbsp; &nbsp;in voorkomend geval, het RIZIV-nummer van de doorverwijzer.<br>
+<br>
+De Vlaamse Regering kan de lijst van de gegevens, vermeld in het eerste en tweede lid, inclusief de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, nader preciseren.<br>
+<br>
+De Vlaamse Regering kan de regels voor en de wijze van de verwerking van de gegevens, vermeld in het eerste tot en met het derde lid, bepalen.<br>
+<br>
+§4. De gegevens van de deelnemer, vermeld in paragraaf 3, eerste lid, worden bewaard tot maximaal tien jaar na de laatste deelname van de deelnemer aan het initiatief bewegen op verwijzing.<br>
+<br>
+De gegevens van de individuele zorgaanbieder, vermeld in paragraaf 3, tweede lid, worden bewaard tot maximaal tien jaar na het moment waarop de individuele zorgaanbieder het laatst het initiatief bewegen op verwijzing op het terrein heeft uitgevoerd.<br>
+<br>
+De gegevens van de doorverwijzer, vermeld in paragraaf 3, derde lid, worden bewaard tot maximaal tien jaar na de laatste deelname van de deelnemer aan het initiatief bewegen op verwijzing die hij heeft doorverwezen aan het initiatief bewegen op verwijzing.<br>
+<br>
+§5. De organisatie, vermeld in paragraaf 2, eerste lid, is de verwerkingsverant-woordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de persoonsgegevens, vermeld in paragraaf 3, eerste tot en met derde lid, die verwerkt worden om het initiatief bewegen op verwijzing te realiseren.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke, vermeld in het eerste lid, moet treffen om de persoonsgegevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.<br>
+<br>
+De organisatie, vermeld in paragraaf 2, eerste lid, verwerkt de gegevens, vermeld in paragraaf 3, onder de voorwaarden en waarborgen, vermeld in artikel 9, lid 3, van de algemene verordening gegevensbescherming.<br>
+<br>
+§6. Na anonimisering kan de administratie de gegevens, vermeld in paragraaf 3, eerste tot en met het derde lid, ook verwerken voor wetenschappelijke, beleids- en statistische doeleinden.
+
+### ART 34/2/2.
+
+§1. In dit artikel wordt verstaan onder het initiatief rookstopbegeleiding: een aanbod ter uitvoering van artikel 63 dat gericht is op de begeleiding van personen bij het stoppen met roken en vapen.<br>
+<br>
+§2. De partnerorganisatie die een subsidie ontvangt van de Vlaamse Regering om de subsidiëring van individuele zorgaanbieders in het kader van het initiatief rookstopbegeleiding te ondersteunen en te evalueren, kan persoonsgegevens verwerken van de deelnemers aan dat initiatief en van de individuele zorgaanbieders om dat initiatief te realiseren.<br>
+Om het initiatief rookstopbegeleiding op het terrein uit te voeren, kunnen de individuele zorgaanbieders persoonsgegevens verwerken van de deelnemers aan dat initiatief.<br>
+<br>
+§3. In het kader van de doeleinden, vermeld in paragraaf 2, verwerken de partnerorganisatie, vermeld in paragraaf 2, eerste lid, en de individuele zorgaanbieders de volgende gegevens, met inbegrip van de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, van de deelnemers aan het initiatief rookstopbegeleiding:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de deelnemer te identificeren, waaronder het rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens, het adres en de werkelijke verblijfplaats van de deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;het geslacht van de deelnemer;<br>
+4°&nbsp;&nbsp; &nbsp;het geboortejaar van de deelnemer;<br>
+5°&nbsp;&nbsp; &nbsp;de vermelding of de deelnemer zwanger is;<br>
+6°&nbsp;&nbsp; &nbsp;het gegeven of de deelnemer recht heeft op het statuut verhoogde tegemoetkoming;<br>
+7°&nbsp;&nbsp; &nbsp;een overzicht van de prestaties die de deelnemer in het kader van de rookstopbegeleiding heeft ontvangen.<br>
+<br>
+In het kader van het doeleinde, vermeld in paragraaf 2, eerste lid, verwerkt de partnerorganisatie, vermeld in paragraaf 2, eerste lid, de volgende gegevens van de individuele zorgaanbieders:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de individuele zorgaanbieder te identificeren, waaronder het rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens van de individuele zorgaanbieder;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over het dienstverband waarbinnen de individuele zorgaanbieder werkt;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over het aanbod van de individuele zorgaanbieder in het kader van rookstopbegeleiding en de vermelding of de individuele zorgaanbieder actief is als aanbieder van rookstopbegeleiding of niet;<br>
+5°&nbsp;&nbsp; &nbsp;de gegevens over de bekwaamheid van de individuele zorgaanbieder;<br>
+6°&nbsp;&nbsp; &nbsp;het beroepsadres waar de individuele zorgaanbieder de rookstopbegeleiding aan deelnemers aan het initiatief rookstopbegeleiding aanbiedt;<br>
+7°&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om de vergoeding voor de uitvoering van een initiatief rookstopbegeleiding uit te betalen aan de individuele zorgaanbieder;<br>
+8°&nbsp;&nbsp; &nbsp;de persoonsgegevens die noodzakelijk zijn om de mandaathouder te identificeren, waaronder het rijksregisternummer, opdat de mandaathouder namens een individuele zorgaanbieder de uitgevoerde prestaties van die individuele zorgaanbieder kan invoeren in de uitbetalingssoftware.<br>
+<br>
+De Vlaamse Regering kan de lijst van de gegevens, vermeld in het eerste en tweede lid, inclusief de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, nader preciseren.<br>
+<br>
+De Vlaamse Regering kan de regels voor en de wijze van de verwerking van de gegevens, vermeld in het eerste en het tweede lid, bepalen.<br>
+<br>
+§4. De gegevens van de deelnemer, vermeld in paragraaf 3, eerste lid, worden bewaard tot maximaal tien jaar na de laatste deelname van de deelnemer aan het initiatief rookstopbegeleiding.<br>
+<br>
+De gegevens van de individuele zorgaanbieder, vermeld in paragraaf 3, tweede lid, worden bewaard tot maximaal tien jaar na het moment waarop de individuele zorgaanbieder het laatst het initiatief rookstopbegeleiding op het terrein heeft uitgevoerd.<br>
+<br>
+§5. De partnerorganisatie, vermeld in paragraaf 2, eerste lid, is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de persoonsgegevens, vermeld in paragraaf 3, eerste en tweede lid, die verwerkt worden om het initiatief rookstopbegeleiding te realiseren.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke, vermeld in het eerste lid, moet treffen om de persoonsgegevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.<br>
+<br>
+De partnerorganisatie, vermeld in paragraaf 2, eerste lid, verwerkt de gegevens, vermeld in paragraaf 3, onder de voorwaarden en waarborgen, vermeld in artikel 9, lid 3, van de algemene verordening gegevensbescherming.<br>
+<br>
+§6. Na anonimisering kan de administratie de gegevens, vermeld in paragraaf 3, eerste en tweede lid, ook verwerken voor wetenschappelijke, beleids- en statistische doeleinden.
+
 ### ART 34/3.
 
 §1. In dit artikel wordt verstaan onder:<br>
@@ -939,7 +1032,20 @@ In afwijking van het eerste en tweede lid kunnen de elementen, vermeld in het ee
 <br>
 §2/2. De Vlaamse Regering neemt het initiatief om een netwerk voor milieugerelateerde gezondheidsgegevens op te richten.<br>
 <br>
-§ 3. Ter uitvoering van § 1, kan de Vlaamse regering een fonds oprichten en bepaalt ze de werking en de omvang en de wijze van financiering ervan. Hiertoe kan een verplichte financiÙle bijdrage opgelegd worden ten laste van bedrijven en/of burgers die medeverantwoordelijk zijn voor de aanwezigheid van fysische of chemische factoren die schadelijk zijn voor de gezondheid.
+§ 3. ...
+
+### ART 54/1.
+
+§1. De initiatieven of maatregelen, vermeld in artikel 51, 53, 53/1 en 54, kunnen gefinancierd worden door middel van het fonds, vermeld in artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1998. De Vlaamse Regering kan de werking en de wijze van financiering van het fonds nader preciseren voor de voormelde initiatieven of maatregelen en voor de inkomsten, vermeld in paragraaf 2 en 3.&nbsp;<br>
+<br>
+§2. Voor de financiering van het fonds, vermeld in paragraaf 1, kan een vrijwillige financiële bijdrage geleverd worden door bedrijven of burgers die medeverantwoordelijk zijn voor de aanwezigheid van fysische of chemische factoren die schadelijk zijn voor de gezondheid.<br>
+§3. De financiering van het fonds, vermeld in paragraaf 1, laat ook een vrijwillige financiële bijdrage toe in het kader van:<br>
+1°&nbsp;&nbsp; &nbsp;het vervuilerbetaaltprincipe;<br>
+2°&nbsp;&nbsp; &nbsp;gedeelde beleidsmatige verantwoordelijkheid, als er een duidelijke beleidsmatige verantwoordelijkheid is vastgesteld;<br>
+3°&nbsp;&nbsp; &nbsp;gemeenschappelijke wetenschappelijke interesse, met het oog op puren van leereffecten uit de vervuiling.<br>
+<br>
+Het fonds kan in geen geval gefinancierd worden door de Vlaamse Gemeenschap of het Vlaamse Gewest.<br>
+&nbsp;
 
 ### ART. 55.
 
