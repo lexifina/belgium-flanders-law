@@ -12,7 +12,7 @@ In dit decreet wordt verstaan onder:<br>
 1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 1°/1 buitenschoolse activiteiten: het geheel van formeel georganiseerde activiteiten voor kinderen, met inbegrip van de kleuteropvang en de opvang lager onderwijs;<br>
 2° gebruikers: ouders en andere opvoedingsverantwoordelijken, en hun kinderen;<br>
-3° kleuteropvang: opvang die op structurele basis en gedurende een minimale tijdsduur wordt georganiseerd voor kinderen die naar de kleuterschool, vermeld in artikel 5 van het decreet basisonderwijs van 25 februari 1997, kunnen gaan en nog niet naar het lager onderwijs, vermeld in artikel 6, § 1, van hetzelfde decreet, gaan;<br>
+3° kleuteropvang: opvang die wordt georganiseerd voor kinderen die naar de kleuterschool, vermeld in artikel 5 van het decreet basisonderwijs van 25 februari 1997, kunnen gaan en nog niet naar het lager onderwijs, vermeld in artikel 6, § 1, van hetzelfde decreet, gaan;<br>
 4° ...<br>
 5° kinderen: kinderen vanaf de leeftijd waarop ze naar de kleuterschool, vermeld in artikel 3, 26°, van het decreet basisonderwijs van 25 februari 1997, kunnen gaan;<br>
 6° lokaal bestuur: het gemeentebestuur en het bestuur van het Openbaar Centrum voor Maatschappelijk Welzijn of, wat het tweetalige gebied Brussel-Hoofdstad betreft, de Vlaamse Gemeenschapscommissie;<br>
@@ -46,8 +46,13 @@ Dit decreet regelt de organisatie van buitenschoolse opvang, meer bepaald kleute
 Het lokaal bestuur neemt de regie op van buitenschoolse activiteiten en vervult daartoe de volgende opdrachten:<br>
 1° het ontwikkelen van een lokaal beleid dat rekening houdt met de doelstellingen, vermeld in artikel 3, tweede lid, en dat deel uitmaakt van de meerjarenplanning;<br>
 2° het beslissen over de besteding en de verdeling van de beschikbare financiële, personele, logistieke en infrastructurele middelen, waaronder de subsidie, vermeld in artikel 12.<br>
+3° de erkenning, het toezicht en de handhaving met betrekking tot het lokaal aanbod van buitenschoolse activiteiten.<br>
 <br>
-Het lokaal bestuur realiseert de opdrachten, vermeld in het eerste lid, in samenspraak met actoren die relevant zijn voor buitenschoolse activiteiten en geeft daarbij bijzondere aandacht aan kleuteropvang, aan kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte, en aan het stimuleren van het multifunctioneel en efficiënt gebruik van infrastructuur.<br>
+Als er aanwijzingen bestaan dat de veiligheid of gezondheid van kinderen mogelijk in het gedrang komt én het door het lokaal bestuur georganiseerde toezicht onvoldoende is om te beslissen over de noodzaak van handhaving, kan het lokaal bestuur Zorginspectie verzoeken om een toezicht ter plaatse uit te voeren.<br>
+<br>
+Voor de toepassing van het tweede lid wordt onder Zorginspectie verstaan: Zorginspectie, als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 betreffende het Departement Zorg. Zorginspectie oefent haar toezicht uit overeenkomstig het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid. Het toezicht ter plaatse kan zowel aangekondigd als onaangekondigd plaatsvinden.<br>
+<br>
+Het lokaal bestuur realiseert de opdrachten, vermeld in het eerste lid, in samenspraak met actoren die relevant zijn voor buitenschoolse activiteiten. Het lokaal bestuur realiseert die opdrachten op basis van de behoeften van de gebruikers. Het lokaal bestuur bekijkt daarbij de toegankelijkheid en heeft bijzondere aandacht voor kleuters, kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte, en voor het stimuleren van het multifunctioneel en efficiënt gebruik van infrastructuur.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels en stelt vast wat wordt verstaan onder meerjarenplanning voor de Vlaamse Gemeenschapscommissie.
 
@@ -86,18 +91,26 @@ De Vlaamse Regering bepaalt de nadere regels voor de voorwaarden waaronder een o
 ### ART 9.
 
 Het lokaal samenwerkingsverband heeft de volgende opdrachten:<br>
-1° het niet-bindend adviseren, op vrijwillige basis, van het lokaal bestuur bij de opdrachten, vermeld in artikel 4, en uitvoeren van de meerjarenplanning, vermeld in artikel 4, eerste lid, 1° ;<br>
+1° het adviseren van het lokaal bestuur bij de opdrachten, vermeld in artikel 4, en uitvoeren van de meerjarenplanning, vermeld in artikel 4, eerste lid, 1° ;<br>
 2° het ontwikkelen van gezamenlijke operationele doelstellingen en het coördineren van operationele acties binnen de beschikbare middelen, vermeld in artikel 4, eerste lid, 2°.<br>
 <br>
-Het lokaal samenwerkingsverband realiseert de opdrachten, vermeld in het eerste lid, in samenspraak met andere actoren die relevant zijn voor buitenschoolse activiteiten.<br>
+Het lokaal samenwerkingsverband realiseert de opdrachten, vermeld in het eerste lid, in samenspraak met andere actoren die relevant zijn voor buitenschoolse activiteiten, rekening houdend met de doelstellingen, vermeld in artikel 3, tweede lid.<br>
 <br>
-Het lokaal samenwerkingsverband stimuleert het gebruik van het Nederlands als verbindende taal.
+Het lokaal samenwerkingsverband stimuleert het gebruik van het Nederlands als verbindende taal.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over de opdrachten van het lokaal samenwerkingsverband.
 
 ## Afdeling 3. Kwaliteit
 
 ### ART 10.
 
-De Vlaamse overheid zorgt in samenspraak met relevante actoren en rekening houdend met de doelstellingen, vermeld in artikel 3, tweede lid, voor een inspiratiekader voor een geïntegreerd aanbod van buitenschoolse activiteiten.
+De Vlaamse Regering voorziet in samenspraak met relevante actoren en rekening houdend met de doelstellingen, vermeld in artikel 3, tweede lid, voor de volgende elementen:<br>
+1° een inspiratiekader om een geïntegreerd aanbod van buitenschoolse activiteiten te realiseren;<br>
+2° een subsidie aan instanties die ondersteuning bieden om een geïntegreerd aanbod van buitenschoolse activiteiten te realiseren.<br>
+&nbsp;<br>
+Onder inspiratiekader wordt verstaan: een hulpmiddel om lokale besturen en partners van buitenschoolse activiteiten te ondersteunen bij het lokaal beleid over buitenschoolse activiteiten.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over de uitvoering van het inspiratiekader en de subsidie voor ondersteuning.
 
 ### ART 11.
 
@@ -114,6 +127,25 @@ De Vlaamse Regering kan aanvullende voorwaarden bepalen.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels met betrekking tot het kwaliteits-label, waaronder het toezicht op de naleving van de kwaliteitsvoorwaarden.
 
+### ART 11/1.
+
+Het erkend aanbod buitenschoolse activiteiten, vermeld in artikel 4, eerste lid, 3°, van dit decreet, voldoet minstens aan de voorwaarden met betrekking tot:<br>
+1° het organisatorisch beleid, inclusief het beleidsvoerend vermogen;<br>
+2° het pedagogisch beleid, inclusief:<br>
+a)&nbsp;&nbsp; &nbsp;het aangaan van kwaliteitsvolle interacties tussen de medewerkers en de kinderen;<br>
+b)&nbsp;&nbsp; &nbsp;het gebruik van het Nederlands als verbindende taal en het stimuleren van de kennis van het Nederlands;<br>
+3° &nbsp;het medewerkersbeleid, inclusief:<br>
+a)&nbsp;&nbsp; &nbsp;dat medewerkers de nodige competenties hebben;<br>
+b)&nbsp;&nbsp; &nbsp;dat medewerkers voldoende kennis van het Nederlands hebben;<br>
+c)&nbsp;&nbsp; &nbsp;dat de organisator bij de aanstelling van elke persoon die werkt in de locatie buitenschoolse activiteiten, het goed en zedelijk gedrag van de betrokkene controleert. Het goed en zedelijk gedrag omvat minstens een onberispelijk gedrag in de omgang met minderjarigen. Artikel 3, tweede tot en met vijfde lid, artikel 4, eerste lid, en artikel 5 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers, zijn daarbij van toepassing. Daarenboven beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon die de locatie buitenschoolse activiteiten uitbaat;<br>
+4° de toegankelijkheid, minstens bijzondere aandacht voor kleuters, kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
+5° de monitoring en evaluatie;<br>
+6° de verbondenheid.<br>
+<br>
+Bij de voorwaarden, vermeld in het eerste lid, wordt rekening gehouden met de doelstellingen, vermeld in artikel 3, tweede lid.<br>
+<br>
+Het lokaal bestuur behandelt klachten over het erkend aanbod buitenschoolse activiteiten en legt daarvoor een procedure vast.
+
 ## HOOFDSTUK 3. Subsidie
 
 ### ART 12.
@@ -124,9 +156,9 @@ De Vlaamse Regering kent, binnen de grenzen van de kredieten die daartoe op de b
 3° eerste indicator: de mate waarin het lokaal bestuur kwetsbare gezinnen bereikt;<br>
 4° tweede indicator: de mate waarin het lokaal bestuur kinderen met een specifieke zorgbehoefte bereikt.<br>
 <br>
-Het lokaal bestuur besteedt een deel van de toegekende subsidie, vermeld in het eerste lid, aan het aanbod van kleuteropvang met een kwaliteitslabel.<br>
+Het lokaal bestuur besteedt de subsidie, vermeld in het eerste lid, aan de opdrachten, vermeld in artikel 4, eerste lid. Daarbij besteedt het lokaal bestuur minstens 33 procent van de subsidie aan het erkend aanbod buitenschoolse activiteiten specifiek voor kleuters, vermeld in artikel 4, eerste lid, 3°.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels, waaronder het deel van de subsidie, vermeld in het tweede lid, dat het lokaal bestuur moet besteden aan kleuteropvang met een kwaliteitslabel, en stelt vast wat wordt verstaan onder kwetsbare gezinnen en onder kinderen met een specifieke zorgbehoefte. Ze bepaalt ook de wijze waarop de subsidie zal worden uitbetaald.
+De Vlaamse Regering bepaalt de nadere regels voor de toekenning van de subsidie, vermeld in het eerste lid, waaronder de definitie van kwetsbare gezinnen&nbsp;en kinderen met een specifieke zorgbehoefte. De Vlaamse Regering bepaalt ook de wijze waarop de subsidie wordt uitbetaald.
 
 ### ART 13.
 
@@ -200,11 +232,11 @@ De persoonsgegevens voorzien in het eerste lid worden bewaard tot vijf jaar na d
 
 ### ART 15.
 
-Het lokaal bestuur geeft in zijn meerjarenplanning aan wat de gekozen beleidsopties zijn met betrekking tot het continueren van het aanbod van kleuteropvang en opvang lager onderwijs na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid.<br>
+Het lokaal bestuur geeft in zijn meerjarenplanning aan wat de gekozen beleidsopties zijn met betrekking tot het continueren van&nbsp;erkend aanbod buitenschoolse activiteiten&nbsp;na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid.<br>
 <br>
-Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, wordt minstens 75% van de toegekende subsidie, vermeld in artikel 12, aan de realisatie van het aanbod van kleuteropvang en opvang lager onderwijs besteed. Dit gedurende een periode van zes jaar.<br>
+Na afloop van de overgangstermijn, vermeld in artikel 17, eerste lid, wordt minstens 75% van de toegekende subsidie, vermeld in artikel 12, aan de realisatie van&nbsp;erkend aanbod buitenschoolse activiteiten&nbsp;besteed. Dit gedurende een periode van zes jaar.<br>
 <br>
-De Vlaamse Regering bepaalt, voor wat het tweede lid betreft, de nadere regels, minstens de manier waarop het lokaal bestuur deze opdracht opneemt en hierover rapporteert en wat verstaan wordt onder de realisatie van het aanbod van kleuteropvang en opvang lager onderwijs
+De Vlaamse Regering bepaalt, voor wat het tweede lid betreft, de nadere regels, minstens de manier waarop het lokaal bestuur deze opdracht opneemt en hierover rapporteert en wat verstaan wordt onder de realisatie van&nbsp;erkend aanbod buitenschoolse activiteiten.
 
 ### ART 16.
 
