@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039778,
+  "title": "Decreet van 2024-05-17 over herkeuringen van voertuigen door erkende keurders bij erkende herstellers in het kader van een proefproject",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039778/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "159376eebecb88e2671773839873fb70cfbb933e473fb5b64068b43d497eb673",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039778&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2024-05-17",
+  "gazette": "2024-06-11",
+  "numac": 2024005501,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
