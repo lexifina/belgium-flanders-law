@@ -105,7 +105,9 @@ Voor het jaar 2021 wordt het bedrag, vermeld in het eerste lid, zoals geïndexee
 <br>
 Vanaf het jaar 2022 wordt het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verhoogd met 140.625 euro.<br>
 <br>
-Vanaf het jaar 2024 wordt het bedrag, vermeld in het eerste lid, dat wordt geïndexeerd conform artikel 16, eerste lid, verhoogd met 187.500 euro.
+Vanaf het jaar 2024 wordt het bedrag, vermeld in het eerste lid, dat wordt geïndexeerd conform artikel 16, eerste lid, verhoogd met 187.500 euro.<br>
+<br>
+Met behoud van de toepassing van de verhoging, vermeld in het vijfde lid, wordt voor het jaar 2026 het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 271.247 euro.
 
 ### ART 9.
 
@@ -136,7 +138,9 @@ Het agentschap kent aan de erkende zorgkassen een subsidie voor werkingskosten v
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een basisondersteuningsbudget per zorgkas ten opzichte van alle personen met een basisondersteuningsbudget bij de erkende zorgkassen. Het gaat om het percentage personen met een basisondersteuningsbudget op 31 december van het voorgaande jaar, behalve voor het jaar 2017 waar het om het percentage personen op 31 december van het jaar in kwestie gaat.<br>
 <br>
-Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
+<br>
+Voor het jaar 2026 wordt het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, derde lid, verminderd met 5717 euro.
 
 ## Onderafdeling 4. Bepaling van de subsidie voor werkingskosten voor [het zorgbudget voor ouderen met een zorgnood (verv. BVR 14 december 2018, art. 10, I: 1 januari 2019)]
 
@@ -156,7 +160,9 @@ Als voorafname op het bedrag, vermeld in het eerste lid:<br>
 <br>
 Als een contractueel personeelslid dat op 1 januari 2017 naar een erkende zorgkas gaat, uit dienst treedt bij de erkende zorgkas tussen 1 januari 2017 en 31 december 2017, zal het agentschap volgens dezelfde principes de loonkosten van de vervanger blijven vergoeden zolang die bij de erkende zorgkas werkt. Als de vervanger uit dienst treedt na 31 december 2017, wordt het bedrag van de loonkosten het jaar erna opnieuw toegevoegd aan het bedrag, vermeld in het eerste lid. Het bedrag wordt dan verdeeld conform het tweede lid.<br>
 <br>
-Als voor een erkende zorgkas het bedrag van de voorafname groter is dan het bedrag op basis van de verdeling, krijgt de erkende zorgkas het bedrag van de voorafname. Het bedrag, vermeld in het eerste lid, wordt verminderd met het bedrag van de voorafname van de erkende zorgkas dat groter is dan het bedrag van de verdeling. Het verschil wordt verdeeld over de andere erkende zorgkassen, conform de formule vermeld in het tweede lid.
+Als voor een erkende zorgkas het bedrag van de voorafname groter is dan het bedrag op basis van de verdeling, krijgt de erkende zorgkas het bedrag van de voorafname. Het bedrag, vermeld in het eerste lid, wordt verminderd met het bedrag van de voorafname van de erkende zorgkas dat groter is dan het bedrag van de verdeling. Het verschil wordt verdeeld over de andere erkende zorgkassen, conform de formule vermeld in het tweede lid.<br>
+<br>
+Voor het jaar 2026 wordt het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 92.613 euro.
 
 ## [Onderafdeling 5. Bepaling van een subsidie voor onderhouds - en investeringskosten in ICT-toepassingen binnen de Vlaamse sociale bescherming (verv. BVR 29 september 2017, art. 1, I: 1 januari 2017)]
 
@@ -211,7 +217,7 @@ Het totaalbedrag van de subsidie voor werkingskosten van de zorgtickets en de mo
 
 ### ART 13/2.
 
-§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe. De subsidie bedraagt 6.605.015 euro.<br>
+§1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe. De subsidie bedraagt 6.605.015 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een dossier mobiliteitshulpmiddelen per zorgkas ten opzichte van het totaal aantal personen met een dossier mobiliteitshulpmiddelen bij alle erkende zorgkassen. Het gaat om het percentage personen met een dossier mobiliteitshulpmiddelen in het voorgaande jaar, behalve voor het jaar 2019 waar het om het percentage personen in het jaar in kwestie gaat.<br>
 <br>
@@ -221,27 +227,31 @@ In dit artikel wordt verstaan onder dossier mobiliteitshulpmiddelen:<br>
 <br>
 Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
 <br>
-§ 2. In afwijking van paragraaf 1, eerste en tweede lid, van huidig artikel kent het agentschap aan de zorgkassen voor het jaar 2019 een bijkomende subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe van 1.516.939 euro.<br>
+§2. In afwijking van paragraaf 1, eerste en tweede lid, van huidig artikel kent het agentschap aan de zorgkassen voor het jaar 2019 een bijkomende subsidie voor werkingskosten voor de tegemoetkomingen voor mobiliteitshulpmiddelen toe van 1.516.939 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een dossier mobiliteitshulpmiddelen per zorgkas ten opzichte van het totaal aantal personen met een dossier mobiliteitshulpmiddelen bij alle erkende zorgkassen. Het gaat om het percentage personen met een dossier mobiliteitshulpmiddelen in het jaar in kwestie.<br>
 <br>
-De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.
+De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.<br>
+<br>
+§3. Voor het jaar 2026 wordt het bedrag, vermeld in paragraaf 1, eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 194.307 euro.
 
 ## [Onderafdeling 3. Subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra (ing. BVR 14 december 2018, art. 19, I: 1 januari 2019)]
 
 ### ART 13/3.
 
-§ 1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra toe. De subsidie bedraagt 7.376.363 euro.<br>
+§1. Het agentschap kent aan de erkende zorgkassen een jaarlijkse subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra toe. De subsidie bedraagt 7.376.363 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra per zorgkas ten opzichte van het totaal aantal personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra bij alle erkende zorgkassen. Het gaat om het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra op 31 december van het voorgaande jaar, behalve voor het jaar 2019 waar het om het percentage personen op 31 juli 2019 gaat.<br>
 <br>
 Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
 <br>
-§ 2. In afwijking van paragraaf 1, eerste en tweede lid, van huidig artikel kent het agentschap aan de zorgkassen voor het jaar 2019 een bijkomende subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra toe van 1.488.982 euro.<br>
+§2. In afwijking van paragraaf 1, eerste en tweede lid, van huidig artikel kent het agentschap aan de zorgkassen voor het jaar 2019 een bijkomende subsidie voor werkingskosten voor de tegemoetkomingen voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra toe van 1.488.982 euro.<br>
 <br>
 Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra per zorgkas ten opzichte van het totaal aantal personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra bij de erkende zorgkassen. Het gaat om het percentage personen met een tegemoetkoming voor woonzorgcentra, centra voor kortverblijf of dagverzorgingscentra op 31 juli 2019.<br>
 <br>
-De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.
+De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op basis van een door de zorgkassen aangeleverde lijst van werkzaamheden naar aanleiding van de ontbrekende IT. Het Agentschap levert hiervoor het sjabloon. Het Agentschap beoordeelt bij de definitieve afrekening, vermeld in art 14 par 2, of de uitbetaling van dit bedrag voldoende is gestaafd door de aangeleverde lijst, in welk geval zij kan beslissen tot gehele of gedeeltelijke toekenning ervan.<br>
+<br>
+§3. Voor het jaar 2026 wordt het bedrag, vermeld in paragraaf 1, eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 216.998 euro.
 
 ## [Onderafdeling 3/1. Subsidie voor werkingskosten voor de tegemoetkomingen voor revalidatieziekenhuizen en de tegemoetkomingen voor het multidisciplinair overleg (ing. BVR 17 december 2021, art. 12, I: 1 januari 2022)]
 
@@ -253,7 +263,9 @@ De helft van het bedrag, vermeld in het eerste lid, wordt in 2019 toegekend op b
 <br>
 In afwijking van het eerste lid wordt het bedrag voor het jaar 2022 verdeeld onder de erkende zorgkassen op basis van het percentage kennisgevingen van opnames in revalidatieziekenhuizen per verzekeringsinstelling die een zorgkas heeft opgericht, en het percentage vergoedbare aanvragen van dossiers multidisciplinair overleg per zorgkas, ten opzichte van het totale aantal kennisgevingen van opnames in revalidatieziekenhuizen bij alle verzekeringsinstellingen die een zorgkas hebben opgericht, en het totale aantal vergoedbare aanvragen van dossiers multidisciplinair overleg bij alle erkende zorgkassen. Het gaat om het totale aantal opnames in revalidatieziekenhuizen van 1 januari tot en met 31 december 2020 en om het totale aantal dossiers multidisciplinair overleg van 1 januari tot en met 31 december 2021.<br>
 <br>
-Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
+<br>
+§3. Voor het jaar 2026 wordt het bedrag, vermeld in paragraaf 1, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 38.730 euro.
 
 ## Onderafdeling 3/2. Subsidie voor werkingskosten voor de tegemoetkomingen voor psychiatrische verzorgingstehuizen, voor initiatieven van beschut wonen, multidisciplinaire begeleidingsequipes voor palliatieve verzorging, revalidatievoorzieningen en rolstoeladviesteams
 
@@ -271,7 +283,9 @@ In het eerste lid wordt verstaan onder rolstoeladviesrapport: een rolstoeladvies
 <br>
 In het eerste lid worden het aantal lopende dossiers in de psychiatrische verzorgingstehuizen op 31 december 2023 en het totale aantal opnames of aanvragen van 1 januari tot en met 31 december 2022 bedoeld.<br>
 <br>
-Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie, vermeld in paragraaf 1, pro rata berekend.
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie, vermeld in paragraaf 1, pro rata berekend.<br>
+<br>
+§4. Voor het jaar 2026 wordt het bedrag, vermeld in paragraaf 1, zoals geïndexeerd conform artikel 16, tweede lid, verminderd met 110.388 euro.
 
 ## [Onderafdeling 4. Regeling voor de voorschotten op de subsidie voor werkingskosten van de tegemoetkomingen voor mobiliteitshulpmiddelen, de zorgtickets en de tegemoetkomingen voor het multidisciplinair overleg (verv. BVR 17 december 2021, art. 13, I: 1 januari 2022)]
 
