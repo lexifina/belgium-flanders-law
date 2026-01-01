@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041571,
+  "title": "Ministerieel besluit van 2025-12-04 tot wijziging van het ministerieel besluit van 8 november 2021 tot uitvoering van het besluit van de Vlaamse Regering van 29 oktober 2021 over de biologische productie en de etikettering van biologische producten wat betreft de productievoorschriften voor specifieke diersoorten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041571/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "abc627d94676b6f3b270072eb41c54f354981df41e79c63cedfb843b888304c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041571&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-04",
+  "gazette": "2025-12-22",
+  "numac": 2025009520,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
