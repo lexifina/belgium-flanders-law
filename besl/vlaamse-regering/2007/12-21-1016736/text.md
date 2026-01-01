@@ -18,384 +18,376 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
-## HOOFDSTUK I. Definities
+## HOOFDSTUK I. ...
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° hogeschool : een instelling als vermeld in artikel II.3 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
-2° boekhoudkundige entiteit : iedere entiteit vermeld in punt 1°;<br>
-3° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen en de jaarrekening goed te keuren;<br>
-4° boekjaar : het boekjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het begrotingsjaar.
+...
 
-## HOOFDSTUK II. Boekhouding
+## HOOFDSTUK II. ...
 
 ### ART. 2.
 
-Elke boekhoudkundige entiteit voert een voor de aard en de omvang van haar activiteiten passende boekhouding en neemt de bijzondere wetsvoorschriften voor die activiteiten in acht.
+...
 
 ### ART. 3.
 
-De boekhouding van de boekhoudkundige entiteiten omvat al hun verrichtingen, bezittingen, vorderingen, schulden en verplichtingen van welke aard ook.
+...
 
 ### ART. 4.
 
-Elke boekhouding wordt door middel van een stelsel van boeken en rekeningen gevoerd met inachtneming van de gebruikelijke regels van het dubbelboekhouden.<br /><br />Alle verrichtingen worden zonder uitstel, getrouw, volledig en naar tijdsorde ingeschreven in boekhoudkundige staten, ook boeken of dagboeken genaamd. Ze worden methodisch ingeschreven in of overgebracht naar de rekeningen waarop ze betrekking hebben.<br /><br />De boekhoudkundige staten van elke boekhoudkundige entiteit bestaan minstens uit een financieel dagboek, een aankoopdagboek, een verkoopdagboek en een divers dagboek. De dagboeken worden minstens één keer per kwartaal gecentraliseerd in een centraal boek.<br /><br />Als de dagboeken worden bijgehouden door middel van geïnformatiseerde systemen, worden die systemen op een zodanige wijze geconcipieerd dat de boekhoudkundige entiteit in ieder geval haar boekhouding kan voeren in overeenstemming met de bepalingen van hoofdstuk II over het voeren van een boekhouding.<br /><br />De rekeningen worden ondergebracht in een passend rekeningenstelsel opgemaakt volgens de eisen van de activiteiten van de boekhoudkundige entiteit, en minimaal ingedeeld volgens het rekeningenstelsel dat als bijlage II bij dit besluit is gevoegd. Dat rekeningenstelsel wordt zowel in de zetel als in de belangrijke boekhoudafdelingen voortdurend ter beschikking gehouden van belanghebbenden. De rekeningen, opgenomen in de minimumindeling van het rekeningenstelsel, die voor een boekhoudkundige entiteit niet dienstig zijn, hoeven niet in haar rekeningenstelsel opgenomen te worden.
+...
 
 ### ART. 5.
 
-Elke boeking wordt gedaan aan de hand van een gedagtekend bewijsstuk, waarnaar ze moet verwijzen.<br /><br />Voor verrichtingen van verkoop en dienstverlening in het klein waarvoor geen factuur vereist is, kan de boeking gebeuren door middel van een dagelijkse, gezamenlijke inschrijving.<br /><br />De bewijsstukken worden methodisch opgeborgen en tien jaar bewaard, te rekenen van de eerste januari van het jaar dat op de afsluiting volgt, in origineel of in afschrift. Stukken die niet strekken tot bewijs jegens derden, worden drie jaar bewaard.
+...
 
 ### ART. 6.
 
-De boeken worden per blad genummerd. Ze vormen elk in hun soort een doorlopende reeks. Ze dragen de vermelding van hun soort, hun plaats in de reeks en de naam van de boekhoudkundige entiteit.<br /><br />De boeken worden op zodanige wijze bijgehouden dat de materiële continuïteit ervan, evenals de regelmatigheid en de onveranderlijkheid van de boekingen zijn verzekerd.
+...
 
 ### ART. 7.
 
-De boeken worden naar tijdsorde bijgehouden, zonder enig wit vak of enige weglating. In geval van correctie moet de oorspronkelijk geschreven tekst leesbaar blijven.<br /><br />De boekhoudkundige entiteiten moeten hun boeken bewaren gedurende tien jaar, te rekenen van de eerste januari van het jaar dat op de afsluiting volgt.
+...
 
 ### ART. 8.
 
-Elke boekhoudkundige entiteit verricht, omzichtig en te goeder trouw, op het einde van ieder boekjaar de nodige opnemingen, verificaties, onderzoekingen en waarderingen om de inventaris op te maken van al haar bezittingen, vorderingen, schulden en verplichtingen van welke aard ook, die betrekking hebben op haar activiteiten, en van de eigen middelen die ze daaraan verstrekt heeft.<br /><br />De inventaris wordt opgemaakt overeenkomstig het rekeningenstelsel van de boekhoudkundige entiteit. De inventaris wordt gewaardeerd volgens de regels, vermeld in hoofdstuk IV.
+...
 
 ### ART. 9.
 
-Nadat de rekeningen in overeenstemming zijn gebracht met de gegevens van de inventaris, worden ze op het einde van ieder boekjaar samengevat en beschreven in een staat, zijnde de jaarrekening.
+...
 
-## HOOFDSTUK III. Algemene principes van de jaarrekening
+## HOOFDSTUK III. ...
 
 ### ART. 10.
 
-De jaarrekening omvat de balans, de resultatenrekening en de toelichting. Die documenten vormen een geheel. De posten van de jaarrekening worden in euro uitgedrukt.<br>
-<br>
-De jaarrekening wordt voorgelegd aan een bedrijfsrevisor, wiens verklaring naar aanleiding van een volkomen controle aan de jaarrekening wordt toegevoegd.<br>
-<br>
-Voor 31 maart van het kalenderjaar dat volgt op het afgesloten boekjaar&nbsp;dient het instellingsbestuur van de boekhoudkundige entiteit de jaarrekening in bij de Vlaamse Regering waarin het rekenschap aflegt over het financiële beheer voor het voorgaande boekjaar, met bijgevoegd de verklaring van de bedrijfsrevisor.
+...
 
 ### ART. 11.
 
-De jaarrekening wordt opgesteld overeenkomstig de bepalingen van dit besluit en de hierbij gevoegde schema's.
+...
 
 ### ART. 12.
 
-De jaarrekening moet een getrouw beeld geven van het vermogen, de financiële positie en het resultaat van de boekhoudkundige entiteit.<br /><br />Als de toepassing van de bepalingen van dit besluit niet volstaat om te voldoen aan dat voorschrift, moeten aanvullende inlichtingen worden verstrekt in de toelichting.
+...
 
 ### ART. 13.
 
-De jaarrekening moet duidelijk worden opgesteld en stelselmatig enerzijds de aard en het bedrag weergeven, op de dag waarop het boekjaar wordt afgesloten, van de bezittingen en rechten van de boekhoudkundige entiteit, van haar schulden en verplichtingen evenals van haar eigen middelen, en anderzijds, voor het op die dag afgesloten boekjaar, de aard en het bedrag van haar kosten en haar opbrengsten.<br /><br />Compensatie tussen tegoeden en schulden, tussen rechten en verplichtingen en tussen kosten en opbrengsten is verboden, behalve in de gevallen, vermeld in dit besluit.<br /><br />In de toelichting worden per soort de rechten en verplichtingen vermeld die niet in de balans voorkomen en die het vermogen, de financiële positie of het resultaat van de boekhoudkundige entiteit aanmerkelijk kunnen beïnvloeden. Belangrijke rechten en verplichtingen die niet kunnen worden becijferd, worden op passende wijze vermeld in de toelichting.
+...
 
 ### ART. 14.
 
-De balans wordt opgesteld na toewijzing. Dit wil zeggen rekening houdend met de beslissingen over de besteding van het saldo van de resultatenrekening en van het overgedragen resultaat.<br /><br />De beginbalans van een boekjaar moet, met behoud van de toepassing van artikel 66, tweede lid, overeenstemmen met de eindbalans van het voorafgaande boekjaar.
+...
 
 ### ART. 15.
 
-Het rekeningenstelsel van de boekhoudkundige entiteit moet zodanig worden opgevat of aangepast dat de balans en de resultatenrekening zonder toevoeging of weglating voortvloeien uit de balans van de desbetreffende rekeningen, opgemaakt na het in overeenstemming brengen, vermeld in artikel 9.
+...
 
-## HOOFDSTUK IV. Waarderingsregels
+## HOOFDSTUK IV. ...
 
-## Afdeling I. Algemene beginselen
+## Afdeling I. ...
 
 ### ART. 16.
 
-§ 1. Elke boekhoudkundige entiteit bepaalt de regels die, met nakoming van de bepalingen van dit hoofdstuk, maar rekening houdend met haar eigen kenmerken, gelden voor de waardering van de inventaris, vermeld in artikel 8, eerste lid, en, onder meer, voor de vorming en de aanpassing van afschrijvingen, waardeverminderingen en voorzieningen voor risico's en kosten, evenals voor de herwaarderingen.<br /><br />Die regels worden bepaald door het instellingsbestuur van de boekhoudkundige entiteit. Ze worden samengevat in de toelichting. Overeenkomstig de bepalingen in artikel 12, eerste lid, moet die samenvatting voldoende nauwkeurig zijn zodat inzicht wordt verkregen in de toegepaste waarderingsmethoden.<br /><br />Met behoud van de toepassing van § 2 wordt er bij de vaststelling en toepassing van die waarderingsregels van uitgegaan dat de boekhoudkundige entiteit haar activiteiten zal voortzetten.<br /><br />§ 2. Als de boekhoudkundige entiteit - al dan niet ingevolge een beslissing tot invereffeningstelling - besluit haar activiteiten stop te zetten of als, in tegenstelling tot het bepaalde in § 1, derde lid, er niet meer van kan worden uitgegaan dat de boekhoudkundige entiteit haar activiteiten zal voortzetten, worden de waarderingsregels dienovereenkomstig aangepast en geldt in het bijzonder het volgende :<br />1° de oprichtingskosten moeten volledig worden afgeschreven;<br />2° voor de vaste en de vlottende activa moet zo nodig tot aanvullende afschrijvingen of waardeverminderingen worden overgegaan om de boekwaarde terug te brengen tot de vermoedelijke realisatiewaarde;<br />3° een voorziening moet worden gevormd voor de kosten die verbonden zijn aan de beëindiging van de werkzaamheden, inzonderheid voor de aan het personeel uit te keren vergoedingen.
+...
 
 ### ART. 17.
 
-De waarderingsregels, vermeld in artikel 16, § 1, eerste lid, moeten van het ene boekjaar op het andere identiek blijven en stelselmatig worden toegepast.<br /><br />Ze worden evenwel gewijzigd als, onder meer op grond van belangrijke veranderingen in de activiteiten van de boekhoudkundige entiteit, in de structuur van haar vermogen of in de economische dan wel technologische omstandigheden, de vroeger gevolgde waarderingsregels niet langer aan het voorschrift, vermeld in artikel 12, eerste lid, beantwoorden.<br /><br />Dergelijke wijzigingen worden in de toelichting vermeld en verantwoord.<br /><br />De geraamde invloed ervan op het vermogen, de financiële positie en het resultaat van de boekhoudkundige entiteit wordt vermeld in de toelichting bij de jaarrekening over het boekjaar waarin de afwijkende waarderingsregel voor het eerst wordt toegepast.<br /><br />Deze bepaling is niet van toepassing op de jaarrekening over het eerste boekjaar waarop voor een boekhoudkundige entiteit de bepalingen van dit besluit van toepassing zijn.
+...
 
 ### ART. 18.
 
-Elk bestanddeel van het vermogen wordt afzonderlijk gewaardeerd. Bestanddelen met volkomen identieke technische of juridische kenmerken mogen in hun geheel worden gewaardeerd.
+...
 
 ### ART. 19.
 
-De waarderingen moeten voldoen aan de eisen van voorzichtigheid, oprechtheid en goede trouw.
+...
 
 ### ART. 20.
 
-Er moet rekening worden gehouden met alle voorzienbare risico's, mogelijke verliezen en ontwaardingen, ontstaan tijdens het boekjaar waarop de jaarrekening betrekking heeft of tijdens voorgaande boekjaren, zelfs als die risico's, verliezen of ontwaardingen pas bekend zijn tussen de balansdatum en het ogenblik waarop de jaarrekening door het instellingsbestuur van de boekhoudkundige entiteit wordt opgesteld. In de gevallen waarin, bij gebrek aan objectieve beoordelingscriteria, de waardering van de voorzienbare risico's, de mogelijke verliezen en de ontwaardingen onvermijdelijk aleatoir is, wordt hiervan melding gemaakt in de toelichting, als de bedragen in kwestie rekening houdend met de doelstelling, vermeld in artikel 12, eerste lid, belangrijk zijn.<br /><br />Er moet rekening worden gehouden met de kosten en de opbrengsten die betrekking hebben op het boekjaar of op de voorgaande boekjaren, onder meer ook met betrekking tot onderzoek en dienstverlening, ongeacht de dag waarop die kosten en opbrengsten worden betaald of geïnd, behalve als de effectieve inning van deze opbrengsten onzeker is. Ten laste van het boekjaar moeten inzonderheid de bezoldigingen, uitkeringen, het vakantiegeld en andere sociale voordelen worden geboekt die in de loop van een volgend boekjaar zullen worden betaald voor diensten die tijdens het boekjaar of tijdens vorige boekjaren zijn verricht. Als de opbrengsten of de kosten in belangrijke mate worden beïnvloed door opbrengsten of kosten die aan een ander boekjaar moeten worden toegerekend, wordt daarvan melding gemaakt in de toelichting.
+...
 
 ### ART. 21.
 
-De methoden en grondslagen voor de omrekening van in vreemde valuta uitgedrukte bezittingen, schulden en verplichtingen worden in de toelichting vermeld bij de waarderingsregels, vermeld in artikel 16, § 1.
+...
 
-## Afdeling II. Aanschaffingswaarde. - Beginselen en uitzonderingen
+## Afdeling II. ...
 
 ### ART. 22.
 
-Met behoud van de toepassing van artikelen 17, 43, 53, 55, 58 en 61 wordt elk actief bestanddeel gewaardeerd tegen de aanschaffingswaarde en wordt het voor dat bedrag in de balans opgenomen, onder aftrek van de desbetreffende afschrijvingen en waardeverminderingen.<br /><br />Onder aanschaffingswaarde wordt verstaan : de aanschaffingsprijs, vermeld in artikel 23, of de vervaardigingsprijs, vermeld in artikel 24, of de inbrengwaarde, vermeld in artikel 26.
+...
 
 ### ART. 23.
 
-De aanschaffingsprijs omvat, naast de aankoopprijs, de extra kosten zoals niet-terugbetaalbare belastingen en vervoerkosten.<br /><br />De aanschaffingsprijs van een door ruil verkregen actiefbestanddeel is de marktwaarde van het in ruil hiervoor overgedragen actiefbestanddeel. Als die waarde moeilijk vast te stellen is, dan is de aanschaffingsprijs de marktwaarde van het door ruil verkregen actiefbestanddeel. Die waarden worden geschat op de datum van de ruil.<br />
+...
 
 ### ART. 24.
 
-De vervaardigingsprijs, omvat naast de aanschaffingskosten van de grondstoffen, verbruiksgoederen en hulpstoffen, de productiekosten die rechtstreeks aan het individuele product of aan de productengroep toerekenbaar zijn, evenals het evenredige deel van de productiekosten die slechts onrechtstreeks aan het individuele product of aan de productengroep toerekenbaar zijn, voor zover die kosten op de normale productieperiode betrekking hebben. Het staat de boekhoudkundige entiteit echter vrij die onrechtstreekse productiekosten niet geheel of gedeeltelijk in de vervaardigingsprijs op te nemen. Als van die mogelijkheid gebruik wordt gemaakt, wordt dat in de toelichting vermeld.
+...
 
 ### ART. 25.
 
-In de aanschaffingswaarde van immateriële en materiële vaste activa mag de rente op vreemd vermogen dat wordt gebruikt voor de financiering ervan worden opgenomen, doch slechts voor zover zij betrekking heeft op de periode welke de bedrijfsklaarheid van deze vaste activa voorafgaat.<br /><br />In de vervaardigingsprijs van voorraden mag de rente op vreemd vermogen dat wordt gebruikt voor de financiering ervan, alleen worden opgenomen voor zover die rente voorraden betreft waarvan de productie of uitvoering meer dan één jaar bestrijkt en als ze op de normale productieperiode van die voorraden betrekking heeft.<br /><br />Het opnemen van de rente op vreemd vermogen in de aanschaffingswaarde van immateriële of materiële vaste activa of van voorraden wordt bij de waarderingsregels in de toelichting vermeld.<br /><br />
+...
 
 ### ART. 26.
 
-De inbrengwaarde stemt overeen met de bedongen waarde van de inbreng.<br /><br />In geval van bestemming voor of inbreng in een boekhoudkundige entiteit moet onder inbrengwaarde worden verstaan : de waarde van de goederen bij de inbreng of de bestemming. De inbrengwaarde mag niet hoger zijn dan de prijs die op het ogenblik van de inbreng of de bestemming voor de aankoop van de goederen in kwestie op de markt zou moeten worden betaald.<br /><br />De belastingen en kosten met betrekking tot de inbreng zijn niet begrepen in de inbrengwaarde. Als ze niet volledig ten laste worden gebracht van de resultatenrekening van het boekjaar in de loop waarvan de inbreng heeft plaatsgevonden, worden ze opgenomen in de rubriek Oprichtingskosten.<br /><br />In de waarderingsregels moet omstandig worden toegelicht hoe de inbrengwaarde werd vastgesteld.
+...
 
 ### ART. 27.
 
-Voor de goederen die worden verkregen tegen betaling van een lijfrente :<br />1° wordt onder aanschaffingswaarde verstaan : het kapitaal dat op het ogenblik van de aanschaffing nodig is om de rente te betalen, in voorkomend geval verhoogd met het bedrag dat bij de aanschaffing werd betaald en met de kosten;<br />2° wordt een voorziening gevormd ten bedrage van het voormelde kapitaal. Die voorziening wordt jaarlijks aangepast.
+...
 
 ### ART. 28.
 
-§ 1. De aanschaffingswaarde van deelnemingen of aandelen, ontvangen als vergoeding voor inbrengen die niet bestaan in contanten of die voortkomen uit de omzetting van vorderingen, stemt overeen met de conventionele waarde van de ingebrachte goederen en waarden of van de omgezette vorderingen. Als die conventionele waarde evenwel lager is dan de marktwaarde van de ingebrachte goederen en waarden of van de omgezette vorderingen, dan stemt de aanschaffingswaarde overeen met de hogere marktwaarde.<br /><br />In afwijking van het eerste lid worden de deelnemingen en aandelen van een andere rechtspersoon die een boekhoudkundige entiteit ontvangt bij fusie of splitsing als vermeld in artikel 62 of 63, in ruil voor de aandelen die ze in de overgenomen of gesplitste rechtspersoon bezat, bij die fusie of splitsing in haar boekhouding opgenomen tegen de waarde waarvoor de aandelen van de overgenomen of gesplitste rechtspersoon hierin op die datum stonden geboekt. Als bij fusie of splitsing een opleg in geld is verkregen, wordt het bedrag hiervan afgetrokken van de boekwaarde - en bij voorrang van de aanschaffingswaarde - van de aandelen van de overgenomen of gesplitste rechtspersoon, voor zover die opleg wordt onttrokken aan het kapitaal of de uitgiftepremie. In de overige gevallen wordt dat bedrag in resultaat genomen. Bij inbreng van een afdeling of een algemeenheid van goederen als vermeld in artikel 64, worden de als tegenprestatie ontvangen deelnemingen of aandelen bij de inbreng in de boekhouding van de inbrenger opgenomen tegen de nettowaarde waarvoor de ingebrachte goederen hier op die datum voorkwamen.<br /><br />§ 2. De extra kosten met betrekking tot het aanschaffen van financiële vaste activa en van geldbeleggingen mogen ten laste worden genomen van de resultatenrekening van het boekjaar in de loop waarvan ze werden aangegaan.
+...
 
 ### ART. 29.
 
-In afwijking van artikelen 18, 22, 33, 38, 42, 54, 55, 56 en 59, mag het klein materieel dat bestendig wordt hernieuwd en waarvan de aanschaffingswaarde te verwaarlozen is in verhouding tot het balanstotaal, op het actief worden opgenomen voor een vast bedrag als de hoeveelheid, de waarde en de samenstelling ervan niet aanmerkelijk veranderen van het ene boekjaar tot het andere. In dat geval wordt de prijs voor de hernieuwing van die bestanddelen opgenomen onder de bedrijfskosten.<br />
+...
 
 ### ART. 30.
 
-De aanschaffingswaarde van activa met identieke technische of juridische kenmerken wordt bepaald hetzij door individualisering van de prijs van elk bestanddeel, hetzij volgens de methode van gewogen gemiddelde prijzen, volgens de methode Fifo (eerst in - eerst uit) of volgens de methode Lifo (laatst in - eerst uit).<br /><br />Als de methode wordt gewijzigd, mag de aanschaffingswaarde van de goederen die geacht worden eerst te zijn ingekomen, niet lager zijn dan de waarde waarvoor ze, voor de toepassing van de desbetreffende waardeverminderingen, voorkwamen in de inventaris bij het afsluiten van het voorgaande boekjaar.<br /><br />Als, inzonderheid bij de toepassing van de Lifo-methode, de boekwaarde van de voorraden aanzienlijk verschilt van de waarde, berekend op basis van de marktwaarde op balansdatum, moet het totale bedrag van dat verschil, per voorraadpost die in de balans voorkomt, in de toelichting worden vermeld.
+...
 
-## Afdeling III. Afschrijvingen en waardeverminderingen
+## Afdeling III. ...
 
 ### ART. 31.
 
-Onder afschrijvingen worden de bedragen verstaan die ten laste van de resultatenrekening worden genomen, met betrekking tot oprichtingskosten en tot immateriële en materiële vaste activa waarvan de gebruiksduur beperkt is, om hetzij het bedrag van die oprichtingskosten en van de eventueel geherwaardeerde aanschaffingskosten van die vaste activa te spreiden over de waarschijnlijke nuttigheids- of gebruiksduur ervan, hetzij die kosten ten laste te nemen op het ogenblik waarop ze worden aangegaan.<br /><br />Onder waardeverminderingen worden correcties op de aanschaffingswaarde van de actiefbestanddelen verstaan, andere dan die welke, vermeld in het vorige lid, om rekening te houden met al dan niet als definitief aan te merken ontwaardingen bij het afsluiten van het boekjaar.<br /><br />De gecumuleerde afschrijvingen en waardeverminderingen worden afgetrokken van de actiefposten waarop ze betrekking hebben.
+...
 
 ### ART. 32.
 
-De afschrijvingen en de waardeverminderingen moeten voldoen aan de eisen van voorzichtigheid, oprechtheid en goede trouw.<br /><br />
+...
 
 ### ART. 33.
 
-De afschrijvingen en waardeverminderingen zijn specifiek voor de actiefbestanddelen waarop ze betrekking hebben. Voor actiefbestanddelen met volkomen identieke technische of juridische kenmerken mogen echter globale afschrijvingen of waardeverminderingen genoteerd worden.
+...
 
 ### ART. 34.
 
-De afschrijvingen en de waardeverminderingen moeten stelselmatig worden gevormd volgens de door de boekhoudkundige entiteit, overeenkomstig artikel 16, § 1, vastgelegde methoden. Ze mogen niet afhangen van het resultaat van het boekjaar.
+...
 
 ### ART. 35.
 
-De waardeverminderingen mogen niet worden gehandhaafd als ze op het einde van het boekjaar hoger zijn dan wat vereist is volgens een actuele beoordeling, conform de normen, vermeld in artikel 32, van de minderwaarden waarvoor ze werden gevormd.
+...
 
-## Afdeling IV. Voorzieningen
+## Afdeling IV. ...
 
 ### ART. 36.
 
-De voorzieningen voor risico's en kosten beogen naar hun aard duidelijk omschreven verliezen of kosten te dekken die op de balansdatum waarschijnlijk of zeker zijn, maar waarvan het bedrag niet vaststaat. Voorzieningen mogen niet worden gebruikt voor waardecorrecties op activa.<br />
+...
 
 ### ART. 37.
 
-De voorzieningen voor risico's en kosten moeten voldoen aan de eisen van voorzichtigheid, oprechtheid en goede trouw.
+...
 
 ### ART. 38.
 
-De voorzieningen voor risico's en kosten worden geïndividualiseerd naargelang van de risico's en kosten met dezelfde aard die ze moeten dekken. Onder de risico's en kosten met dezelfde aard moeten de soorten van risico's en kosten worden verstaan, bij wijze van voorbeeld vermeld in artikel 40.<br />
+...
 
 ### ART. 39.
 
-De voorzieningen voor risico's en kosten moeten stelselmatig worden gevormd volgens de door de boekhoudkundige entiteit, overeenkomstig artikel 16, § 1, vastgelegde methoden. Ze mogen niet afhangen van het resultaat van het boekjaar.
+...
 
 ### ART. 40.
 
-Voorzieningen moeten, onder meer, gevormd worden met het oog op :<br />1° de verplichtingen die op de boekhoudkundige entiteit rusten inzake rust- en overlevingspensioenen, brugpensioenen en andere soortgelijke pensioenen of renten;<br />2° de kosten van grote herstellings- of onderhoudswerken;<br />3° de verplichtingen die voortvloeien uit het sociaal passief, dat wil zeggen de mogelijke verbrekingsvergoedingen of opzegvergoedingen die betaald moeten worden als arbeidsovereenkomsten werden opgezegd;<br />4° bepaalde verplichtingen die voortvloeien uit de toepassing van de nationale en Europese regelgeving betreffende veiligheid en milieu;<br />5° de verlies- of kostenrisico's die voor de boekhoudkundige entiteit voortvloeien uit persoonlijke of zakelijke zekerheden, verstrekt tot waarborg van schulden of verbintenissen van derden, uit verbintenissen tot aan- of verkoop van vaste activa, uit de uitvoering van gedane of ontvangen bestellingen, uit termijnposities of overeenkomsten in deviezen, termijnposities of overeenkomsten op goederen, uit technische waarborgen, verbonden aan reeds door de boekhoudkundige entiteit verrichte verkopen of diensten, uit hangende geschillen.
+...
 
 ### ART. 41.
 
-De voorzieningen voor risico's en kosten mogen niet worden gehandhaafd in als ze op het einde van het boekjaar hoger zijn dan wat vereist is volgens een actuele beoordeling, conform de normen, vermeld in artikel 37, van de risico's en kosten waarvoor ze werden gevormd.
+...
 
-## Afdeling V. Herwaarderingsmeerwaarden
+## Afdeling V. ...
 
 ### ART. 42.
 
-De herwaarderingen zijn specifiek voor de actiefbestanddelen waarop ze betrekking hebben. Voor actiefbestanddelen met volkomen identieke technische of juridische kenmerken mogen echter globale herwaarderingen genoteerd worden.
+...
 
 ### ART. 43.
 
-§ 1. De boekhoudkundige entiteit mag de materiële vaste activa, de deelnemingen en aandelen die onder de financiële vaste activa voorkomen of bepaalde soorten hiervoor vermelde vaste activa herwaarderen, als de waarde van die activa, bepaald op basis van het nut ervan voor de boekhoudkundige entiteit, op vaststaande en duurzame wijze uitstijgt boven de boekwaarde ervan. Als de activa in kwestie noodzakelijk zijn voor de voortzetting van de activiteiten van de boekhoudkundige entiteit, mogen ze alleen worden geherwaardeerd als de aldus uitgedrukte meerwaarde wordt verantwoord door de rentabiliteit van de boekhoudkundige entiteit.<br /><br />De geherwaardeerde waarde die voor deze vaste activa in aanmerking wordt genomen, wordt verantwoord in de toelichting bij de jaarrekening waarin de herwaardering voor het eerst werd toegepast.<br /><br />§ 2. Heeft de herwaardering betrekking op materiële vaste activa met een beperkte gebruiksduur, dan wordt op basis van de geherwaardeerde waarde afgeschreven volgens een overeenkomstig artikel 16, § 1, opgemaakt plan dat ertoe strekt de toerekening van de geherwaardeerde waarde te spreiden over de vermoedelijke residuele gebruiksduur van de activa in kwestie.<br /><br />§ 3. De geboekte meerwaarden worden rechtstreeks toegerekend aan de rubriek van het passief Herwaarderingsmeerwaarden en worden daar behouden zolang de goederen waarop ze betrekking hebben, niet werden gerealiseerd. Die meerwaarden mogen evenwel :<br />1° worden overgebracht naar een bestemd fonds tot het bedrag van de op de meerwaarde geboekte afschrijvingen;<br />2° bij latere minderwaarde worden afgeboekt tot het bedrag van het nog niet afgeschreven gedeelte van de meerwaarde.
+...
 
-## Afdeling VI. Bijzondere regels
+## Afdeling VI. ...
 
-## Onderafdeling I. Bijzondere regels voor de oprichtingskosten
+## Onderafdeling I. ...
 
 ### ART. 44.
 
-De oprichtingskosten worden alleen op het actief geboekt als ze niet ten laste worden genomen gedurende het boekjaar waarin ze werden besteed.<br /><br />Kosten die worden gemaakt in het kader van een herstructurering worden alleen onder de activa opgenomen, als het gaat om welbepaalde kosten die verband houden met een ingrijpende wijziging in de structuur of de organisatie van de boekhoudkundige entiteit en als die kosten ertoe strekken een gunstige en duurzame invloed te hebben op de activiteit van de boekhoudkundige entiteit. In de toelichting moet worden verantwoord dat aan die voorwaarden is voldaan. De herstructureringskosten die het karakter hebben van bedrijfskosten of van uitzonderlijke kosten worden geactiveerd door ze op zichtbare wijze in mindering te brengen van het totale bedrag, respectievelijk van de bedrijfskosten en van de uitzonderlijke kosten.
+...
 
 ### ART. 45.
 
-Voor de oprichtingskosten worden passende afschrijvingen geboekt, per jaarlijkse tranches van twintig percent van de werkelijk uitgegeven bedragen. De afschrijving van de kosten bij uitgifte van leningen mag echter gespreid worden over de looptijd van de leningen.
+...
 
-## Onderafdeling II. Bijzondere regels voor immateriële vaste activa
+## Onderafdeling II. ...
 
 ### ART. 46.
 
-Andere dan van derden verworven immateriële vaste activa worden slechts tegen vervaardigingsprijs op het actief geboekt voor zover die niet hoger is dan een voorzichtige raming van de gebruikswaarde of van het toekomstige rendement voor de boekhoudkundige entiteit van die vaste activa.
+...
 
 ### ART. 47.
 
-§ 1. Voor immateriële vaste activa met een beperkte gebruiksduur wordt overgegaan tot afschrijvingen volgens een overeenkomstig artikel 16, § 1, opgesteld plan.<br /><br />Voor de vaste activa, vermeld in het eerste lid, wordt overgegaan tot aanvullende of uitzonderlijke afschrijvingen als, ingevolge de technische ontwaarding ervan of wegens de wijziging van economische of technologische omstandigheden, de boekhoudkundige waarde ervan hoger is dan de gebruikswaarde ervan voor de boekhoudkundige entiteit.<br /><br />De afschrijvingen met toepassing van het eerste lid op immateriële vaste activa met beperkte gebruiksduur mogen alleen worden teruggenomen, als blijkt dat het daarvoor toegepaste afschrijvingsplan, wegens gewijzigde economische of technologische omstandigheden, een te snelle afschrijving tot gevolg heeft gehad.<br /><br />De afschrijvingen met toepassing van het tweede lid, die niet langer verantwoord blijken, moeten worden teruggenomen ten bedrage van het surplus ten opzichte van de overeenkomstig het eerste lid geplande afschrijvingen.<br /><br />Wordt in uitzonderlijke gevallen de afschrijving van kosten voor onderzoek en ontwikkeling of van goodwill over meer dan vijf jaar gespreid, dan moet dat worden verantwoord in de toelichting.<br /><br />§ 2. Voor immateriële vaste activa waarvan de gebruiksduur niet is beperkt, wordt alleen tot waardeverminderingen overgegaan in geval van duurzame minderwaarde of ontwaarding.<br /><br />De waardeverminderingen die niet langer verantwoord blijken, moeten worden teruggenomen voor het niet-verantwoorde bedrag.<br /><br />Onder post III van de passiefzijde 'Herwaarderingsmeerwaarden' mogen rechtstreeks worden geboekt en gehandhaafd tot op het ogenblik waarop de goederen in kwestie gerealiseerd zijn : de terugnemingen van waardeverminderingen, geboekt op immateriële vaste activa zonder beperkte gebruiksduur.
+...
 
-## Onderafdeling III. Bijzondere regels voor materiële vaste activa
+## Onderafdeling III. ...
 
 ### ART. 48.
 
-De gebruiksrechten voor materiële vaste activa waarover de boekhoudkundige entiteit beschikt op grond van leasing of soortgelijke overeenkomsten als vermeld in hoofdstuk V, afdeling III.D, worden met behoud van de toepassing van artikel 31 en 50, § 1, onder de activa opgenomen voor het gedeelte van de volgens de overeenkomst te storten termijnen, dat strekt tot de wedersamenstelling van de kapitaalwaarde van het goed waarop de overeenkomst betrekking heeft.<br /><br />De overeenkomstige verplichtingen aan de passiefzijde worden ieder jaar gewaardeerd ten bedrage van het gedeelte van de in de volgende boekjaren te storten termijnen, dat strekt tot de wedersamenstelling van de kapitaalwaarde van het goed waarop de overeenkomst betrekking heeft.
+...
 
 ### ART. 49.
 
-De meer- of minderwaarde die wordt vastgesteld bij de overdracht van een afschrijfbaar materieel vast actief met afsluiting door de cedent van een leasingovereenkomst die op datzelfde goed slaat, wordt opgenomen in de overlopende rekeningen en wordt elk jaar in resultaat genomen naar verhouding van de afschrijving van dit geleasede vast actief voor het boekjaar in kwestie.
+...
 
 ### ART. 50.
 
-§ 1. Voor materiële vaste activa met een beperkte gebruiksduur wordt overgegaan tot afschrijvingen volgens een overeenkomstig artikel 16, § 1, opgesteld plan.<br /><br />Voor de vaste activa, vermeld in het eerste lid, wordt overgegaan tot aanvullende of uitzonderlijke afschrijvingen als, ingevolge de technische ontwaarding ervan of wegens de wijziging van economische of technologische omstandigheden, de boekhoudkundige waarde ervan hoger is dan de gebruikswaarde ervan voor de boekhoudkundige entiteit.<br /><br />De afschrijvingen met toepassing van het eerste lid op materiële vaste activa met beperkte gebruiksduur mogen alleen worden teruggenomen, als blijkt dat het daarvoor toegepaste afschrijvingsplan, wegens gewijzigde economische of technologische omstandigheden, een te snelle afschrijving tot gevolg heeft gehad.<br /><br />De afschrijvingen met toepassing van het tweede lid, die niet langer verantwoord blijken, moeten worden teruggenomen ten bedrage van het surplus ten opzichte van de overeenkomstig het eerste lid geplande afschrijvingen.<br /><br />§ 2. Voor materiële vaste activa waarvan de gebruiksduur niet is beperkt, wordt alleen tot waardeverminderingen overgegaan in geval van duurzame minderwaarde of ontwaarding.<br /><br />De waardeverminderingen die niet langer verantwoord blijken, moeten worden teruggenomen voor het niet-verantwoorde bedrag.<br /><br />Onder post III van de passiefzijde 'Herwaarderingsmeerwaarden' mogen rechtstreeks worden geboekt en gehandhaafd tot op het ogenblik waarop de goederen in kwestie gerealiseerd zijn : de terugnemingen van waardeverminderingen, geboekt op materiële vaste activa zonder beperkte gebruiksduur.
+...
 
 ### ART. 51.
 
-Voor de buiten gebruik gestelde of niet meer duurzaam tot de activiteit van de boekhoudkundige entiteit bijdragende materiële vaste activa wordt in voorkomend geval tot een uitzonderlijke afschrijving overgegaan om rekening te houden met de waarschijnlijke realisatiewaarde ervan.
+...
 
-## Onderafdeling IV. Bijzondere regels voor financiële vaste activa
+## Onderafdeling IV. ...
 
 ### ART. 52.
 
-§ 1. De niet-opgevraagde bedragen op deelnemingen en aandelen worden vermeld in de toelichting per onderrubriek waarin de nog vol te storten deelnemingen en aandelen zijn opgenomen.<br /><br />§ 2. De vastrentende effecten worden gewaardeerd op grond van hun aanschaffingswaarde. Als hun actuariële rendement, berekend bij de aankoop, met inachtneming van hun terugbetalingswaarde op de vervaldag, echter verschilt van hun nominale rendement, wordt het verschil tussen de aanschaffingswaarde en de terugbetalingswaarde pro rata temporis voor de resterende looptijd van de effecten in resultaat genomen als bestanddeel van de renteopbrengst van die effecten en, naargelang van het geval, toegevoegd aan of afgetrokken van de aanschaffingswaarde van de effecten.<br /><br />De inresultaatneming van dat verschil gebeurt op geactualiseerde basis, uitgaande van het actuariële rendement bij aankoop.<br /><br />De boekhoudkundige entiteit heeft echter de mogelijkheid om :<br />1° het verschil tussen de aanschaffingswaarde en de terugbetalingswaarde op lineaire basis pro rata temporis in resultaat te nemen;<br />2° de vastrentende effecten voor hun aanschaffingswaarde in de balans te behouden als de weerslag van de inresultaatneming van het actuariële rendement van de effecten ten opzichte van de inresultaatneming van het louter nominale rendement te verwaarlozen zou zijn.<br /><br />Het eerste en het tweede lid zijn van toepassing op effecten met een rendement dat, volgens de uitgiftevoorwaarden, uitsluitend voortkomt uit het verschil tussen de uitgifteprijs en de terugbetalingswaarde.<br /><br />§ 3. Voor de deelnemingen en de aandelen die in de rubriek Financiële vaste activa zijn opgenomen, wordt tot waardevermindering overgegaan in geval van duurzame minderwaarde of ontwaarding, verantwoord door de toestand, de rentabiliteit of de vooruitzichten van de andere rechtspersoon waarin de deelnemingen of de aandelen worden aangehouden.<br /><br />Op de vorderingen, inclusief de vastrentende effecten, die in de financiële vaste activa zijn opgenomen, worden waardeverminderingen toegepast, zo er voor het geheel of een gedeelte van de vordering onzekerheid bestaat over de betaling hiervan op de vervaldag.
+...
 
-## Onderafdeling V. Bijzondere regels voor vorderingen, terugbetaalbaar op meer dan een jaar en op ten hoogste een jaar
+## Onderafdeling V. ...
 
 ### ART. 53.
 
-§ 1. Vorderingen worden in de balans opgenomen voor hun nominale waarde, met behoud van de toepassing van § 2 en van artikel 54 en 58.<br /><br />§ 2. Bij de boeking van een vordering in de balans voor haar nominale waarde worden in voorkomend geval de volgende bedragen in de overlopende rekeningen van het passief geboekt en pro rata temporis in resultaat genomen op grond van de samengestelde interesten :<br />1° de rente die op basis van de overeenkomst tussen partijen in de nominale waarde van de vordering begrepen is;<br />2° het verschil tussen de aanschaffingswaarde en de nominale waarde van de vordering;<br />3° het disconto op renteloze of abnormaal laag rentende vorderingen, als die vorderingen :<br />a) vorderingen zijn met een commercieel doel,;<br />b) terugbetaalbaar zijn na meer dan één jaar, te rekenen vanaf het ogenblik waarop zij in het vermogen van de boekhoudkundige entiteit zijn opgenomen;<br />c) betrekking hebben hetzij op als opbrengst geboekte bedragen in de resultatenrekening, hetzij op de prijs van de overdracht van vaste activa of van een activiteitsbranche.<br /><br />Het disconto, vermeld in punt c), wordt berekend op basis van de voor dergelijke vorderingen geldende marktrente op het ogenblik waarop de vordering werd opgenomen in het vermogen van de boekhoudkundige entiteit.<br /><br />Bij vorderingen die in termijnen worden betaald of afbetaald en waarvan de rente of het lastenpercentage gedurende de gehele contractduur wordt toegepast op het oorspronkelijke bedrag van de financiering of van de lening, worden de respectieve bedragen van de gelopen-rente en het lastenpercentage die in resultaat moeten worden genomen en van de niet gelopen rente en het lastenpercentage die moeten worden overgedragen naar een volgend boekjaar, bepaald door toepassing van de reële rente op het bij het begin van elke periode uitstaande saldo. Die reële rente wordt berekend met inachtneming van de spreiding en de periodiciteit van de betalingen. Een andere methode mag alleen worden toegepast op voorwaarde dat ze, per boekjaar, een gelijkwaardig resultaat oplevert.<br /><br />Het bedrag van de rente of het lastenpercentage mag niet worden gecompenseerd met de kosten en provisies in verband met die verrichtingen.
+...
 
 ### ART. 54.
 
-Op de vorderingen, terugbetaalbaar op meer dan een jaar en op ten hoogste een jaar, worden waardeverminderingen toegepast, als er voor het geheel of een gedeelte van de vordering onzekerheid bestaat over de betaling ervan op de vervaldag. Op die vorderingen moeten eveneens waardeverminderingen worden toegepast als hun realisatiewaarde op de datum van de jaarafsluiting lager is dan hun boekwaarde, vastgesteld overeenkomstig artikel 53. Als die waardeverminderingen niet individualiseerbaar zijn, mogen ze in hun geheel per categorie worden bepaald.
+...
 
-## Onderafdeling VI. Bijzondere regels voor voorraden
+## Onderafdeling VI. ...
 
 ### ART. 55.
 
-De voorraden worden gewaardeerd tegen aanschaffingswaarde of tegen de marktwaarde op de balansdatum als die lager is.<br /><br />De waardering tegen de lagere marktwaarde, met toepassing van het eerste lid, mag niet worden gehandhaafd als achteraf de marktwaarde hoger is dan de lagere waarde waartegen de voorraad werd gewaardeerd.<br />
+...
 
 ### ART. 56.
 
-Er worden aanvullende waardeverminderingen geboekt op de activa, vermeld in artikel 55, om rekening te houden hetzij met het verloop van hun realisatie- of marktwaarde, hetzij met de risico's die inherent zijn aan de aard van de producten in kwestie of van de gevoerde activiteit.
+...
 
-## Onderafdeling VII. Bijzondere regels voor projecten en bestellingen in uitvoering
+## Onderafdeling VII. ...
 
 ### ART. 57.
 
-Projecten en bestellingen in uitvoering worden gewaardeerd tegen vervaardigingsprijs, vermeerderd, naarmate de productie of de werkzaamheden vorderen, met het verschil tussen de in de overeenkomst bepaalde prijs en de vervaardigingsprijs, als dat verschil met voldoende zekerheid als verworven kan worden beschouwd. De boekhoudkundige entiteit kan echter ook als regel aannemen de projecten en bestellingen in uitvoering, of bepaalde soorten daarvan, op de balans te blijven boeken tegen hun vervaardigingsprijs. In de toelichting worden de waarderingsregels en de methoden en criteria vermeld die voor de waardering van projecten en bestellingen in uitvoering zijn toegepast.<br /><br />Voor de risico's en kosten die verbonden zijn aan de verdere uitvoering van die projecten en bestellingen, worden voorzieningen gevormd, als die risico's niet gedekt zijn door waardeverminderingen.<br /><br />Ten aanzien van de projecten en bestellingen in uitvoering worden waardeverminderingen toegepast, als hun vervaardigingsprijs, vermeerderd met het geraamde bedrag van de nog te maken kosten, hoger is dan de in de overeenkomst bedongen prijs.<br /><br />Er worden aanvullende waardeverminderingen geboekt om rekening te houden, hetzij met het verloop van hun realisatie- of marktwaarde, hetzij met de risico's die inherent zijn aan de aard van de producten in kwestie of van de gevoerde activiteit.<br /><br />De boekhoudkundige entiteit kan ook opteren voor toepassing van de nettomethode waarbij de projecten en bestellingen in uitvoering gewaardeerd worden tegen het totale surplus aan kosten ten opzichte van de opbrengsten.
+...
 
-## Onderafdeling VIII. Bijzondere regels voor geldbeleggingen en liquide middelen
+## Onderafdeling VIII. ...
 
 ### ART. 58.
 
-De vastrentende effecten worden gewaardeerd op grond van hun aanschaffingswaarde. Als hun actuariële rendement, berekend bij de aankoop, met inachtneming van hun terugbetalingswaarde op de vervaldag, evenwel verschilt van hun nominale rendement, wordt het verschil tussen de aanschaffingswaarde en de terugbetalingswaarde pro rata temporis voor de resterende looptijd van de effecten in resultaat genomen als bestanddeel van de renteopbrengst van deze effecten en, naargelang van het geval, toegevoegd aan of afgetrokken van de aanschaffingswaarde van de effecten.<br /><br />De inresultaatneming van dat verschil gebeurt op geactualiseerde basis, uitgaande van het actuariële rendement bij aankoop.<br /><br />De boekhoudkundige entiteit heeft echter de mogelijkheid om :<br />1° het verschil tussen de aanschaffingswaarde en de terugbetalingswaarde op lineaire basis pro rata temporis in resultaat te nemen;<br />2° de vastrentende effecten voor hun aanschaffingswaarde in de balans te behouden als de weerslag van de inresultaatneming van het actuariële rendement van de effecten ten opzichte van de inresultaatneming van het louter nominale rendement te verwaarlozen zou zijn.<br /><br />Het eerste en het tweede lid zijn van toepassing op effecten met een rendement dat, volgens de uitgiftevoorwaarden, uitsluitend voortkomt uit het verschil tussen de uitgifteprijs en de terugbetalingswaarde.
+...
 
 ### ART. 59.
 
-Op geldbeleggingen en liquide middelen worden waardeverminderingen toegepast als de realisatiewaarde op de datum van de jaarafsluiting lager is dan de aanschaffingswaarde.
+...
 
 ### ART. 60.
 
-Er worden aanvullende waardeverminderingen geboekt op de geldbeleggingen en liquide middelen om rekening te houden hetzij met de evolutie van hun realisatie- of marktwaarde, hetzij met de risico's die inherent zijn aan de aard van de producten in kwestie of van de gevoerde activiteit.
+...
 
-## Onderafdeling IX. Bijzondere regels voor schulden
+## Onderafdeling IX. ...
 
 ### ART. 61.
 
-Artikel 53 en 58 zijn van toepassing op de schulden van overeenstemmende aard en looptijd.<br /><br />Als de boekhoudkundige entiteit opteert voor de toepassing van de nettomethode bij de waardering van de projecten en bestellingen in uitvoering wordt hier het totale surplus van de opbrengsten ten opzichte van de kosten geboekt.
+...
 
-## Onderafdeling X. Bijzondere regels voor bestanddelen, verworven in het kader van een fusie
+## Onderafdeling X. ...
 
 ### ART. 62.
 
-In geval van een fusie stelt de boekhoudkundige entiteit waarbinnen de fusie gerealiseerd werd, een geharmoniseerde beginbalans op waarin alle aan de boekhoudkundige entiteit toekomende activa en passiva zijn opgenomen, gewaardeerd tegen geharmoniseerde waarderingsregels, na eliminatie van intercompanyvorderingen en schulden en in voorkomend geval na correctie van de voorraadwaarden voor geboekte intercompanybaten of verliezen.<br /><br />Die beginbalans heeft als datum de in de fusieovereenkomst bepaalde ingangsdatum.<br /><br />De gefuseerde entiteit legt haar beginbalans ter certificatie voor aan de bedrijfsrevisor, waarna ze aan de commissaris van de Vlaamse Regering wordt bezorgd.
+...
 
-## Onderafdeling XI. Bijzondere regels voor bestanddelen, verworven in het kader van een splitsing
+## Onderafdeling XI. ...
 
 ### ART. 63.
 
-Bij een splitsing van een boekhoudkundige entiteit worden de vermogensbestanddelen van de balans van de te splitsen entiteit ingebracht in de respectievelijke beginbalansen van de nieuwe boekhoudkundige entiteiten of in de balansen van de bestaande entiteiten, voor zover ze ingebracht worden in die entiteiten.<br /><br />Als het onmogelijk is die methode toe te passen, kan de splitsing ook boekhoudkundig verwerkt worden op basis van een verhoudingsgetal per balansrubriek, overeengekomen door de nieuwe boekhoudkundige entiteit in overeenstemming met artikel 12, eerste lid.
+...
 
-## Onderafdeling XII. Bijzondere regels voor bestanddelen, verworven in het kader van een inbreng van een afdeling of van een algemeenheid van goederen
+## Onderafdeling XII. ...
 
 ### ART. 64.
 
-Bij inbreng van een afdeling of een algemeenheid van goederen worden de ingebrachte activa, passiva, rechten en verplichtingen opgenomen in de boekhouding van de boekhoudkundige entiteit waarin de inbreng gebeurt, volgens de inbrengwaarde, vermeld in artikel 26.
+...
 
-## HOOFDSTUK V. Structuur van de jaarrekening
+## HOOFDSTUK V. ...
 
-## Afdeling I. Algemene beginselen
+## Afdeling I. ...
 
 ### ART. 65.
 
-De jaarrekening wordt opgesteld volgens het schema dat opgenomen is in bijlage I, die bij dit besluit is gevoegd.<br /><br />De posten van de balans, resultatenrekening en toelichting, vermeld in het eerste lid, mogen niet worden weggelaten, zelfs niet als ze niet dienstig zijn voor het boekjaar in kwestie.<br /><br />De inhoud van de posten in de jaarrekening wordt, waar nodig, nader bepaald in afdeling II. Voor de toepassing van dit besluit zijn rubrieken de posten van de balans en de resultatenrekening, aangegeven met een Romeins cijfer of een hoofdletter, en zijn onderrubrieken de posten, aangeduid met een Arabisch cijfer.
+...
 
 ### ART. 66.
 
-Bij elke rubriek en onderrubriek van de balans en van de resultatenrekening wordt het bedrag van de overeenkomstige post van het voorafgaande boekjaar vermeld.<br /><br />Als de bedragen van het boekjaar niet vergelijkbaar zijn met die van het voorafgaande boekjaar, mogen de bedragen van het voorafgaande boekjaar worden aangepast met het oog op hun vergelijkbaarheid. In dit geval worden de aanpassingen, behalve als ze onbelangrijk zijn, in de toelichting vermeld met verwijzing naar de rubrieken in kwestie. Worden de bedragen van het voorafgaande boekjaar niet aangepast, dan moet de toelichting de nodige gegevens bevatten om een vergelijking mogelijk te maken.
+...
 
 ### ART. 67.
 
-Kunnen actief- of passiefbestanddelen tot meer dan één rubriek of onderrubriek van de balans behoren, of opbrengsten dan wel kosten tot meer dan één rubriek of onderrubriek van de resultatenrekening, dan worden ze ingeschreven onder de post die ten opzichte van het voorschrift, vermeld in artikel 12, eerste lid, het meest is aangewezen.
+...
 
 ### ART. 68.
 
-De boekhoudkundige entiteiten mogen in de toelichting de rubrieken en onderrubrieken die moeten worden vermeld verder indelen.
+...
 
 ### ART. 69.
 
-De voorstelling van de jaarrekening moet identiek zijn van het ene jaar tot het andere.<br /><br />Ze wordt echter gewijzigd als ze, onder meer ingevolge een belangrijke wijziging in de structuur van het vermogen, van de opbrengsten en van de kosten van de boekhoudkundige entiteit, niet meer beantwoordt aan het voorschrift, vermeld in artikel 12, eerste lid. Die wijzigingen worden vermeld en verantwoord in de toelichting die behoort tot het boekjaar waarin ze werden ingevoerd.
+...
 
 ### ART. 70.
 
-De toelichting bij de eerste balans en resultatenrekening, opgesteld overeenkomstig de schema's die zijn opgenomen in bijlage I bij dit besluit, hoeft geen vergelijkende cijfers te bevatten over het vorige boekjaar met betrekking tot vermeldingen die voor de eerste maal moeten worden opgenomen in de jaarrekening.
+...
 
-## Afdeling II. Inhoud van bepaalde rubrieken
+## Afdeling II. ...
 
-## Onderafdeling I. Inhoud van bepaalde rubrieken van de balans
+## Onderafdeling I. ...
 
 ### ART. 71.
 
-§ 1. De inhoud van bepaalde rubrieken van de activa wordt als volgt gedefinieerd :<br /><br />I. Oprichtingskosten<br /><br />Onder die post worden vermeld, voor zover ze niet op een andere wijze ten laste van de resultatenrekening van het lopende boekjaar worden gebracht, de kosten die verbonden zijn aan de oprichting, de verdere ontwikkeling of de herstructurering van de boekhoudkundige entiteit, in het bijzonder de kosten van oprichting en inbreng, de kosten bij uitgifte van leningen, en de herstructureringskosten.<br /><br />II. Immateriële vaste activa<br /><br />In die rubriek worden de volgende bedragen geboekt :<br />1° de kosten van onderzoek en ontwikkeling;<br />2° de concessies, octrooien, licenties, knowhow, merken en andere soortgelijke rechten;<br />3° de goodwill;<br />4° de vooruitbetalingen op immateriële vaste activa.<br /><br />Onder kosten van onderzoek en ontwikkeling moet worden verstaan de kosten van onderzoek, vervaardiging en ontwikkeling van prototypes en van producten, uitvindingen en knowhow, die nuttig zijn voor de ontwikkeling van de toekomstige activiteiten van de boekhoudkundige entiteit. De kosten voor onderzoek en ontwikkeling die de boekhoudkundige entiteit genereert in het kader van haar normale decretale opdrachten van onderwijs, onderzoek en dienstverlening, worden evenwel niet opgenomen onder de immateriële vaste activa.<br /><br />Onder concessies, octrooien, licenties, merken en andere soortgelijke rechten moet enerzijds worden verstaan de octrooien, licenties, knowhow, merken en andere soortgelijke rechten waarvan de boekhoudkundige entiteit eigenares is, en anderzijds de rechten tot exploitatie van onroerende goederen, octrooien, licenties, merken en andere soortgelijke rechten die eigendom zijn van derden, evenals de aanschaffingswaarde van het recht van de boekhoudkundige entiteit om van derden dienstverlening van knowhow te verkrijgen, als die rechten door de boekhoudkundige entiteit onder bezwarende titel werden verworven.<br /><br />Onder goodwill moet voor de toepassing van dit besluit de prijs worden verstaan die betaald is voor de verwerving van een andere rechtspersoon voor zover die hoger is dan de nettowaarde van de actief- minus passiefbestanddelen van de verworven rechtspersoon.<br /><br />III. Materiële vaste activa<br /><br />Met uitzondering van leasing en activa in aanbouw moet een onderscheid worden gemaakt tussen activa die al dan niet in volle eigendom behoren tot de boekhoudkundige entiteit.<br /><br />III.A Terreinen en gebouwen<br /><br />In die rubriek worden de bebouwde en onbebouwde terreinen opgenomen, de constructies daarop, evenals de inrichting daarvan, waarvan de boekhoudkundige entiteit eigenares is en die duurzaam worden aangewend voor haar activiteiten.<br /><br />Ook de andere zakelijke rechten die de boekhoudkundige entiteit bezit op een onroerend goed dat ze bestemd heeft om duurzaam te worden gebruikt voor haar activiteiten worden onder die rubriek opgenomen als de vergoedingen bij aanvang van het contract werden vooruitbetaald.<br /><br />III.D Leasing en soortgelijke rechten<br /><br />Onder die post worden de volgende bedragen opgenomen :<br />1° de gebruiksrechten op lange termijn op bebouwde onroerende goederen waarover de boekhoudkundige entiteit beschikt op grond van erfpacht, opstal, leasing of soortgelijke overeenkomsten, als de contractueel te storten termijnen, naast de rente en de kosten van de verrichting, ook de integrale wedersamenstelling dekken van het kapitaal dat de gever in het gebouw heeft geïnvesteerd;<br />2° de gebruiksrechten op roerende goederen waarover de boekhoudkundige entiteit beschikt op grond van leasing of soortgelijke overeenkomsten, als de contractueel te storten termijnen, verhoogd met het bedrag dat moet worden betaald bij optielichting als de nemer een koopoptie bezit, naast de rente en de kosten van de verrichting ook de integrale wedersamenstelling dekken van het kapitaal dat de gever in het goed heeft geïnvesteerd. Het bedrag dat moet worden betaald om een koopoptie te lichten, komt evenwel enkel in aanmerking als het ten hoogste vijftien procent vertegenwoordigt van het kapitaal dat de gever in het goed heeft geïnvesteerd.<br /><br />Met een prijs voor het lichten van de koopoptie, vermeld in punt 2°, binnen de voormelde beperking van vijftien procent, wordt de kapitaalfractie gelijkgesteld met de contractueel bedongen vergoeding in geval van gebruik van een mogelijkheid om de verrichting te verlengen.<br /><br />Met de termijn, vermeld in punt 1° en 2°; wordt het bedrag gelijkgesteld, als dat bepaald is :<br />1° dat de nemer verschuldigd is voor de verwerving van de zakelijke rechten die de gever bezit op het onroerend of roerend goed in kwestie als de nemer er zich bij het afsluiten van de verrichting, eventueel ingevolge een verkoopoptie, toe verbonden heeft die rechten te verwerven;<br />2° dat de gever van een derde moet ontvangen voor de overdracht van de zakelijke rechten die hij bezit op het onroerend of roerend goed in kwestie als die derde er zich bij het afsluiten van de verrichting, eventueel ingevolge een verkoopoptie, toe verbonden heeft die rechten te verwerven.<br /><br />III.E Overige materiële vaste activa<br /><br />In die rubriek worden de onroerende goederen opgenomen die worden aangehouden als onroerende reserve, de woongebouwen, de buiten gebruik of buiten de exploitatie gestelde materiële vaste activa, evenals de roerende en onroerende goederen die in erfpacht, opstal, huur, handelshuur of landpacht werden gegeven, behalve als de uit die contracten voortvloeiende vorderingen geboekt worden in rubriek V en VII. De onroerende goederen die werden aangekocht of gebouwd met het oog op herverkoop worden niet in deze rubriek opgenomen, maar worden afzonderlijk onder de voorraden vermeld.<br /><br />De kosten voor de inrichting van gehuurde gebouwen worden eveneens in deze rubriek vermeld, voor zover ze niet ten laste werden genomen van de resultatenrekening van het lopende boekjaar.<br /><br />IV. Financiële vaste activa<br /><br />Onder deze rubriek worden opgenomen de deelnemingen in en de vorderingen op spin-offbedrijven, verenigingen, vzw's, instellingen van openbaar nut, handelsvennootschappen en andere vennootschappen opgenomen overeenkomstig hoofdstuk Vbis van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen. <br /><br />IV.A.1 en IV.B.1 Deelnemingen<br /><br />De maatschappelijke rechten in de bovenstaande rechtspersonen worden als deelnemingen beschouwd als ze ertoe strekken, door een duurzame en specifieke band te scheppen met die andere rechtspersonen, de boekhoudkundige entiteit in staat te stellen een invloed uit te oefenen op de oriëntatie van het beleid van die rechtspersonen.<br /><br />Behoudens bewijs van het tegendeel wordt vermoed een deelneming te zijn :<br />1° het bezit van maatschappelijke rechten die een tiende vertegenwoordigen van het kapitaal, van het maatschappelijks fonds of van een categorie aandelen van een rechtspersoon;<br />2° het bezit van maatschappelijke rechten die een quotum van minder dan 10 % vertegenwoordigen :<br />a) als ze, samen met de maatschappelijke rechten die in dezelfde rechtspersoon worden aangehouden door de dochters van de boekhoudkundige entiteit, een tiende bereiken van het kapitaal, van het maatschappelijk fonds of van een categorie aandelen van die rechtspersoon;<br />b) als de daden van beschikking over die aandelen of de uitoefening van de daaraan verbonden rechten onderworpen zijn aan overeenkomsten of aan eenzijdige verbintenissen die de rechtspersoon heeft aangegaan.<br /><br />IV.A Deelneming in verbonden entiteiten<br /><br />Dit zijn deelnemingen in rechtspersonen waarin de boekhoudkundige entiteit een controlebevoegdheid uitoefent. Onder controle moet worden verstaan : de bevoegdheid in rechte of in feite om een doorslaggevende invloed uit te oefenen op de aanstelling van de meerderheid van de bestuurders of zaakvoerders of op de oriëntatie van het beleid.<br /><br />De controle is in rechte en wordt onweerlegbaar vermoed :<br />1° als ze voortvloeit uit het bezit van de meerderheid van de stemrechten, verbonden aan het totaal van de aandelen van de rechtspersoon in kwestie;<br />2° als een boekhoudkundige entiteit het recht heeft de meerderheid van de bestuurders of zaakvoerders te benoemen of te ontslaan;<br />3° als een boekhoudkundige entiteit krachtens de statuten van de rechtspersoon in kwestie of krachtens met die rechtspersoon gesloten overeenkomsten over de controlebevoegdheid beschikt;<br />4° als een boekhoudkundige entiteit, op grond van een overeenkomst met andere vennoten van de betrokken rechtspersoon, beschikt over de meerderheid van de stemrechten, verbonden aan het totaal van de aandelen van die rechtspersoon;<br />5° in geval van gezamenlijke controle.<br /><br />De controle is in feite als ze voorvloeit uit andere factoren dan de factoren, vermeld in het tweede lid. Een boekhoudkundige entiteit wordt, behoudens bewijs van het tegendeel, vermoed over een controle in feite te beschikken op een rechtspersoon, als ze op de voorlaatste en laatste algemene vergadering van die rechtspersoon stemrechten heeft uitgeoefend die de meerderheid vertegenwoordigen van de stemrechten, verbonden aan de op die algemene vergaderingen vertegenwoordigde aandelen.<br /><br />IV.B Deelneming in rechtspersonen waarmee een deelnemingsverhouding bestaat<br /><br />Dit zijn deelnemingen in alle niet-verbonden entiteiten waarmee rechtstreeks of onrechtstreeks een deelnemingsverhouding bestaat.<br /><br />IV.A.2 en IV.B.2 Vorderingen<br /><br />Voor de toepassing van dit besluit worden de vorderingen op bovenvermelde rechtspersonen als vordering beschouwd, ongeacht de contractuele looptijd, de oorsprong of de vorm ervan, als die vorderingen tot doel hebben de eigen activiteiten van de boekhoudkundige entiteit te bevorderen.<br /><br />IV.C.1 Aandelen<br /><br />Deze post omvat de maatschappelijke rechten in andere rechtspersonen die geen deelnemingsverhouding vormen en die ertoe strekken, door een duurzame en specifieke band te scheppen met die rechtspersoon, de eigen activiteiten van de boekhoudkundige entiteit te bevorderen.<br /><br />IV.C.2 Vorderingen en borgtochten in contanten<br /><br />Onder die post worden opgenomen :<br />1° de vorderingen, al dan niet belichaamd in effecten, bestemd voor een duurzame ondersteuning van de activiteiten van andere rechtspersonen dan de rechtspersonen, vermeld in post IV.A en IV.B;<br />2° de borgtochten, in contanten gestort als doorlopende waarborg, onder meer aan openbare besturen of nutsbedrijven.<br /><br />V. Vorderingen op meer dan één jaar<br /><br />Onder die post worden de vorderingen opgenomen met een contractuele looptijd van meer dan één jaar. De vorderingen of de gedeelten van de vorderingen met een looptijd van meer dan één jaar, die binnen twaalf maanden vervallen, worden uit die post gelicht en, naargelang van het geval, onder post VII.A of VII.B opgenomen.<br /><br />Naast de vorderingen waarvoor een titel bestaat, worden de te ontvangen opbrengsten die tijdens het boekjaar of tijdens een vorig boekjaar zijn ontstaan en waarvoor nog geen rechtstitel bestaat, eveneens onder de overeenstemmende posten van deze rubriek opgenomen, als het bedrag ervan vaststaat of met nauwkeurigheid kan worden geschat.<br /><br />De pro-rataopbrengsten worden evenwel onder de overlopende rekeningen geboekt.<br /><br />De vorderingen die voor de eigenaar of de verhuurder ontstaan uit de overeenkomsten, vermeld in post III.D van de activa, worden onder post V.B opgenomen.<br /><br />VI. Voorraden en bestellingen in uitvoering<br /><br />Onder de post voorraden en bestellingen in uitvoering kunnen de goederen worden opgenomen die door de boekhoudkundige entiteit werden aangekocht of geproduceerd en die zich op het einde van het boekjaar nog in stock bevinden.<br /><br />Het karakteristieke van projecten en bestellingen in uitvoering is dat de bestelde dienstprestaties voldoende zijn omschreven en dat de prijs met de klant is overeengekomen. Het betreft dienstprestaties en onderhandse werken die voor rekening van derden op bestelling worden uitgevoerd en op het einde van het boekjaar nog niet opgeleverd werden.<br /><br />VII. Vorderingen op ten hoogste één jaar<br /><br />In deze rubriek worden de vorderingen opgenomen waarvan de oorspronkelijke looptijd ten hoogste één jaar bedraagt, evenals de vorderingen of de gedeelten van vorderingen waarvan de oorspronkelijke looptijd mee dan één jaar bedraagt, maar die binnen twaalf maanden vervallen.<br /><br />Het tweede, derde en vierde lid van de omschrijving van rubriek V. Vorderingen op meer dan één jaar zijn van overeenkomstige toepassing op de vorderingen op ten hoogste één jaar.<br /><br />Onder post B. Overige vorderingen worden onder meer de door belastingdiensten terug te betalen belastingen vermeld.<br /><br />VIII. Geldbeleggingen<br /><br />Onder die post worden onder meer de vorderingen opgenomen op kredietinstellingen, uit termijndeposito's, alsmede de met beleggingsdoeleinden verkregen effecten die niet het kenmerk hebben van financiële vaste activa.<br /><br />IX. Liquide middelen<br /><br />De liquide middelen omvatten, behalve de kasmiddelen en de te incasseren vervallen waarden, alleen de tegoeden op zicht bij kredietinstellingen.<br /><br />X. Overlopende rekeningen<br /><br />Naast de bedragen, vermeld in artikel 61, worden onder deze post de volgende bedragen opgenomen :<br />1° de over te dragen kosten, dat wil zeggen de pro-ratakosten die werden gemaakt tijdens het boekjaar of tijdens een vorig boekjaar, maar die ten laste van een of meer volgende boekjaren moeten worden gebracht;<br />2° de verworven opbrengsten, dat wil zeggen de pro-rataopbrengsten die pas in de loop van een volgend boekjaar zullen worden geïnd, maar die betrekking hebben op een verstreken boekjaar.<br /><br />§ 2. De inhoud van bepaalde rubrieken van de passiva wordt als volgt gedefinieerd :<br /><br />I. Fondsen van de vereniging <br /><br />Dit betreft het patrimonium dat ontstaan is uit het beginvermogen en de permanente financiering van de boekhoudkundige entiteit.<br /><br />III. Herwaarderingsmeerwaarden<br /><br />Onder herwaarderingsmeerwaarden moeten worden verstaan de in de rekeningen bijgeschreven, niet-gerealiseerde meerwaarden op vaste activa, overeenkomstig artikelen 42, 43, 47 en 50.<br /><br />IV. Bestemde fondsen<br /><br />Het betreft de overschotten die door het instellingsbestuur een welomschreven, kwantificeerbare bestemming hebben gekregen in het kader van de onderwijs-, onderzoeks- en dienstverleningsactiviteit van de boekhoudkundige entiteit.<br /><br />V. Overgedragen winst/verlies<br /><br />Dit zijn overschotten/tekorten waaraan het instellingsbestuur van de boekhoudkundige entiteit geen welomschreven, kwantificeerbare bestemming heeft gegeven.<br /><br />VI. Kapitaalsubsidies<br /><br />Deze post omvat de kapitaalsubsidies die van overheidswege werden verkregen voor investeringen in vaste activa.<br /><br />De subsidies die worden aangewend voor de financiering van nieuwe investeringen worden geleidelijk afgeboekt via overboeking naar post I.D Lidgelden, schenkingen, legaten en subsidies, volgens hetzelfde ritme als de afschrijvingen op de vaste activa voor de verwerving waarvan ze werden verkregen of, in voorkomend geval, ten bedrage van het saldo, bij realisatie of buitengebruikstelling van de vaste activa in kwestie.<br /><br />Als kapitaalsubsidies worden aangewend ter dekking van kapitaalaflossingen op eerder opgenomen investeringsleningen, moeten ze toegerekend worden op de uitzonderlijke resultaten, rubriek VII.E Andere uitzonderlijke opbrengsten.<br /><br />Als kapitaalsubsidies worden aangewend ter dekking van de interesten op eerder opgenomen investeringsleningen, moeten ze toegerekend worden op de financiële opbrengsten, rubriek IV.C Andere financiële opbrengsten.<br /><br />VII. Voorzieningen voor risico's en kosten<br /><br />VII.A Pensioenen en soortgelijke verplichtingen<br /><br />Onder die post worden de voorzieningen opgenomen die door de boekhoudkundige entiteit worden gevormd om te voldoen aan de verplichtingen inzake rust- en overlevingspensioen, brugpensioen en andere pensioenen, alsook renten die ze ten opzichte van haar actuele of gewezen contractuele personeel heeft aangegaan. <br /><br />VIII. Schulden op meer dan één jaar<br /><br />Onder die post worden de schulden opgenomen die een contractuele looptijd hebben van meer dan één jaar. De schulden of de gedeelten van de schulden op meer dan één jaar die binnen twaalf maanden vervallen, worden uit deze rubriek gelicht en overgebracht naar rubriek IX.A.<br /><br />De te betalen kosten die in de loop van het boekjaar of van een vorig boekjaar werden gemaakt en waarvoor nog geen titel bestaat, maar waarvan het bedrag vaststaat of met nauwkeurigheid kan worden geschat, worden hier onder de overeenkomstige post geboekt. De pro-ratakosten worden evenwel onder de overlopende rekeningen geboekt.<br /><br />De verplichtingen die voortvloeien uit achtergestelde leningen, obligatieleningen, leasing of soortgelijke overeenkomsten, worden vermeld onder de daarvoor bestemde posten, ook al zijn ze aangegaan tegenover kredietinstellingen of leveranciers of worden ze door een handelseffect vertegenwoordigd.<br /><br />Onder de schulden ten aanzien van kredietinstellingen worden onder meer de orderbriefjes (promessen) opgenomen die door de boekhoudkundige entiteit werden onderschreven op naam of aan de order van een kredietinstelling, alsmede de schulden aan kredietinstellingen uit hoofde van bankaccepten die door de boekhoudkundige entiteit in omloop werden gebracht, ook al vinden ze hun oorsprong in de aankoop van goederen en diensten.<br /><br />IX. Schulden op ten hoogste één jaar<br /><br />Het tweede tot en met het vierde lid VIII. Schulden op meer dan één jaar zijn van overeenkomstige toepassing.<br /><br />X. Overlopende rekeningen<br /><br />Naast de bedragen, vermeld in artikel 53, § 2, worden onder die post de volgende bedragen opgenomen :<br />1° de toe te rekenen kosten, dat wil zeggen de pro-ratakosten die pas in een later boekjaar zullen worden betaald, maar die betrekking hebben op een verstreken boekjaar;<br />2° de over te dragen opbrengsten, dat wil zeggen de pro-rataopbrengsten die in de loop van het boekjaar of van een vorig boekjaar zijn geïnd, maar die betrekking hebben op een later boekjaar.
+...
 
-## Onderafdeling II. Inhoud van bepaalde rubrieken van de resultatenrekening
+## Onderafdeling II. ...
 
 ### ART. 72.
 
-De inhoud van bepaalde rubrieken van de resultatenrekening wordt als volgt gedefinieerd :<br /><br />I. Bedrijfsopbrengsten<br /><br />I.A Omzet (Opbrengsten, verbonden aan onderwijs, onderzoek en dienstverlening)<br /><br />Onder die post worden de opbrengsten opgenomen die de boekhoudkundige entiteit genereert in het kader van haar normale decretale opdrachten van onderwijs, onderzoek en dienstverlening.<br /><br />I.A.1 Werkingsuitkeringen<br /><br />I.A.2 Studiegelden en inschrijvingsgelden<br /><br />I.A.3 Opbrengsten uit onderwijsactiviteiten en verkoop<br /><br />I.A.4 Sociale toelagen<br /><br />I.A.5 Dienstverlening en onderzoek op contractuele basis<br /><br />I.A.6 Toegekende kortingen<br /><br />I.A.7 Overige<br /><br />I.B Wijziging in de voorraad goederen in bewerking en gereed product en in bestellingen in uitvoering (toename +, afname -)<br /><br />Deze post wordt gebruikt voor de toepassing van onder meer artikel 71, § 1, VI. Voorraden en bestellingen in uitvoering, tweede lid.<br /><br />I.C Geproduceerde vaste activa<br /><br />I.D Lidgelden, schenkingen, inbrengen om niet, legaten en subsidies<br /><br />I.E Andere bedrijfsopbrengsten<br /><br />Onder die post worden de van derden ontvangen en met de activiteiten verbonden opbrengsten opgenomen die :<br />1°) niet hun oorsprong vinden in de onder I.A vermelde activiteiten van de boekhoudkundige entiteit;<br />2°) niet als een financiële of uitzonderlijke opbrengst kunnen worden aangemerkt.<br /><br />Onder die post worden eveneens de meerwaarden opgenomen die werden verwezenlijkt bij de realisatie van handelsvorderingen en de meerwaarden op materiële vaste activa die gerealiseerd worden in het kader van de gewone activiteiten van de boekhoudkundige entiteit.<br /><br />II. Bedrijfskosten<br /><br />II.A Handelsgoederen, grond- en hulpstoffen<br /><br />Na aftrek van de toegestane kortingen en van de btw, voor zover die aftrekbaar is, worden onder deze posten de aankopen opgenomen van :<br />1° grondstoffen;<br />2° hulpstoffen;<br />3° diensten, werken en studies, voor zover die een rechtstreekse invloed hebben op de vervaardigingsprijs van de geproduceerde goederen en diensten;<br />4° algemene onderaannemingen;<br />5° onroerende goederen, bestemd voor de verkoop;<br />6° de voorraadwijzigingen met betrekking tot de hiervoor vermelde aankopen. <br /><br />II.B Diensten en diverse goederen<br /><br />Na aftrek van de toegestane kortingen en van de belasting over de toegevoegde waarde, voor zover die aftrekbaar is, worden onder die post de kosten opgenomen die verbonden zijn aan de dienstverlening of de levering van goederen door derden in het kader van de activiteiten van de boekhoudkundige entiteit, tenzij die kosten onder rubriek II.A of II.C moeten worden geboekt.<br /><br />De vergoedingen van uitzendkrachten en ter beschikking van de boekhoudkundige entiteit gestelde personen worden eveneens onder deze post opgenomen, evenals de rechtstreekse en onrechtstreekse bezoldigingen en pensioenen van bestuurders, die niet worden toegekend op grond van een arbeidsovereenkomst.<br /><br />II.D Afschrijvingen en waardeverminderingen op oprichtingskosten en op immateriële en materiële vaste activa<br /><br />Onder die post worden de afschrijvingen en de waardeverminderingen opgenomen die werden geboekt op oprichtingskosten - andere dan de kosten bij uitgifte van leningen en het disagio - en op immateriële en materiële vaste activa, tenzij die afschrijvingen en waardeverminderingen wegens hun uitzonderlijke aard als uitzonderlijke kosten moeten worden geboekt (post VIII.A).<br /><br />De terugnemingen van afschrijvingen of van waardeverminderingen worden niet onder deze post opgenomen, maar worden geboekt onder de uitzonderlijke opbrengsten (post VII.A).<br /><br />II.E Waardeverminderingen op voorraden, bestellingen in uitvoering en handelsvorderingen (toevoegingen +, terugnemingen -)<br /><br />Onder die post worden de waardeverminderingen opgenomen die werden geboekt op voorraden of op handelsvorderingen als vermeld in post V.A en VII.A.<br /><br />De terugnemingen van op voorraden of op handelsvorderingen geboekte waardeverminderingen worden op deze post aangerekend. Voor de voorraden moet die aanrekening niet gebeuren als de toepassing van een van de<br /><br />Waarderingsmethoden, vermeld in artikel 30, ertoe leidt dat bij de waardebepaling van de uitgaande voorraden rekening wordt gehouden met tijdens vorige boekjaren geboekte waardeverminderingen.<br /><br />II.F Voorzieningen voor risico's en kosten (toevoegingen +, bestedingen en terugnemingen -)<br /><br />Onder die post worden in overeenstemming met hoofdstuk IV, afdeling IV, de volgende bedragen opgenomen, voor zover ze een bedrijfsmatig karakter hebben :<br />1° de voorzieningen, gevormd voor risico's en verplichtingen van de boekhoudkundige entiteit;<br />2° de bestedingen van voorzieningen voor risico's en kosten die vroeger werden gevormd, voor zover die risico's en verplichtingen aanleiding hebben gegeven tot kosten;<br />3° de terugnemingen van voorzieningen voor risico's en kosten die tijdens een vorig boekjaar werden gevormd voor gewone risico's en verplichtingen van de boekhoudkundige entiteit, en die overtollig zijn gebleken.<br /><br />II.G Andere bedrijfskosten<br /><br />Onder die post worden de aan derden betaalde of verschuldigde kosten opgenomen die verbonden zijn aan de activiteiten van de boekhoudkundige entiteit, en die :<br />1° niet hun oorsprong vinden in een dienstverlening of een levering door derden, binnen het kader van de gewone activiteiten van de boekhoudkundige entiteit;<br />2° niet als financiële of uitzonderlijke kosten kunnen worden aangemerkt.<br /><br />In het bijzonder worden onder die post de belastingen opgenomen die als bedrijfskosten moeten worden aangemerkt, zoals de onroerende voorheffing, de belasting op de voertuigen, de belasting op drijfkracht of op tewerkgesteld personeel, de accijnsrechten, de roerende voorheffing, de gemeente-, provincie- en gewestbelastingen, de rechtspersonenbelasting, de uitvoerheffingen.<br /><br />Onder die post worden eveneens de minderwaarden opgenomen die werden geboekt bij de realisatie van handelsvorderingen, tenzij die minderwaarden gelijk zijn aan het disconto. Het disconto wordt geboekt onder post V.C Andere financiële kosten, en de minderwaarden op materiële vaste activa die gerealiseerd worden in het kader van de gewone activiteiten van de boekhoudkundige entiteit.<br /><br />IV. Financiële opbrengsten<br /><br />IV.B Opbrengsten uit vlottende activa<br /><br />Onder die post worden de opbrengsten (interesten, dividenden, enzovoort) uit activa opgenomen die opgenomen zijn onder post V, VII, VIII, IX en X.<br /><br />IV.C Andere financiële opbrengsten<br /><br />De volgende bedragen worden onder die post opgenomen :<br />1° de meerwaarden, verwezenlijkt bij de realisatie van vorderingen, andere dan handelsvorderingen, van geldbeleggingen en van liquide middelen;<br />2° de wisselresultaten en de resultaten uit de omrekening van vreemde valuta, tenzij die specifiek verbonden zijn aan een andere post van de resultatenrekening. In dit laatste geval mogen ze onder die post worden opgenomen;<br />3° alle opbrengsten van financiële aard die geen verband houden met welbepaalde activa, onder meer de kapitaalsubsidies; aangewend ter dekking van de rentelasten op eerder opgenomen investeringsleningen.<br /><br />V. Financiële kosten<br /><br />V.A Kosten van schulden<br /><br />De volgende bedragen worden onder die post opgenomen :<br />1° de interesten, de commissies en de kosten, verbonden aan schulden;<br />2° de afschrijving van de kosten bij uitgifte van leningen en van het disagio.<br /><br />De geactiveerde interesten worden afgetrokken van het bedrag van de onder deze post opgenomen kosten.<br /><br />V.B Waardeverminderingen op andere vlottende activa dan die welke opgenomen zijn onder II.E (toevoegingen +, terugnemingen -)<br /><br />Onder die post worden de waardeverminderingen opgenomen die geboekt zijn op andere vorderingen dan handelsvorderingen, op geldbeleggingen en op liquide middelen. De terugnemingen van waardeverminderingen op die vlottende activa worden eveneens onder deze post geboekt.<br /><br />V.C Andere financiële kosten<br /><br />Onder die post worden alle kosten van financiële aard opgenomen die niet werden geboekt onder de post V.A of V.B, en in het bijzonder :<br />1° de minderwaarden, verwezenlijkt bij de realisatie van vorderingen andere dan handelsvorderingen, van geldbeleggingen en van liquide middelen;<br />2° het disconto ten laste van de boekhoudkundige entiteit bij het verhandelen van vorderingen (een wissel, een warrant, een factuur, enzovoort);<br />3° de wisselresultaten en de resultaten uit de omrekening van vreemde valuta, tenzij die specifiek verbonden zijn aan een andere post van de resultatenrekening. In dat laatste geval mogen ze onder die post worden opgenomen;<br />4° de kosten betreffende posten van het eigen vermogen;<br />5° de commissies en financiële kosten.<br /><br />VII. Uitzonderlijke opbrengsten<br /><br />VII.A Terugneming van afschrijvingen en van waardeverminderingen op immateriële en materiële vaste activa<br /><br />Onder die post worden de volgende bedragen opgenomen :<br />1° de met toepassing van artikelen 47 en 50, § 1, derde en vierde lid, verrichte terugnemingen van afschrijvingen die tijdens een vorig boekjaar werden geboekt;<br />2° de terugnemingen van waardeverminderingen die tijdens een vorig boekjaar werden geboekt op immateriële en materiële vaste activa en die te hoog zijn gebleken.<br /><br />VII.C Terugneming van voorzieningen voor uitzonderlijke risico's en kosten<br /><br />Onder die post worden de terugnemingen opgenomen van voorzieningen voor risico's en kosten die tijdens een vorig boekjaar werden gevormd en die te hoog zijn gebleken, tenzij het gaat om voorzieningen die werden gevormd voor risico's en kosten die verband houden met de gewone activiteiten van de boekhoudkundige entiteit.<br /><br />VII.D Meerwaarden bij de realisatie van vaste activa<br /><br />Onder die post worden de meerwaarden opgenomen die worden verwezenlijkt bij de realisering van vaste activa. Gaat het om materiële vaste activa, dan mogen die meerwaarden onder post I.D. Andere bedrijfsopbrengsten worden opgenomen als de realisering past in de gewone activiteiten van de boekhoudkundige entiteit. Dat laatste zal blijken uit de regelmaat waarmee dergelijke activa worden gerealiseerd en het normale karakter daarvan.<br /><br />VII. E Andere uitzonderlijke opbrengsten<br /><br />Onder deze rubriek wordt onder meer het gedeelte van de kapitaalsubsidies geboekt dat aangewend wordt ter dekking van de kapitaalsaflossingen op eerder opgenomen investeringsleningen.<br /><br />VIII. Uitzonderlijke kosten<br /><br />VIII.A Uitzonderlijke afschrijvingen en waardeverminderingen op oprichtingskosten, op immateriële en materiële vaste activa<br /><br />Voor zover ze van uitzonderlijke aard zijn, worden onder deze post de afschrijvingen en waardeverminderingen opgenomen, vermeld in artikel 16, § 2, artikel 47, § 1, tweede lid, en § 2, en in artikel 50, § 1, tweede lid en § 2.<br /><br />VIII.C Voorzieningen voor uitzonderlijke risico's en kosten (toevoegingen +, bestedingen -)<br /><br />Onder die post worden de voorzieningen opgenomen die werden gevormd voor risico's en kosten die geen verband houden met de gewone activiteiten van de boekhoudkundige entiteit.<br /><br />VIII.D Minderwaarden bij de realisatie van vaste activa<br /><br />Onder die post worden de minderwaarden opgenomen die worden geboekt bij de realisering van vaste activa. Gaat het om immateriële of materiële vaste activa, dan mogen die minderwaarden onder de post II.G. Andere bedrijfskosten worden opgenomen als de realisering past in de gewone activiteiten van de boekhoudkundige entiteit. Dat laatste zal blijken uit de regelmaat waarmee dergelijke activa worden gerealiseerd en het normale karakter daarvan.
+...
 
-## Onderafdeling III. Inhoud van bepaalde verplichte vermeldingen in de toelichting
+## Onderafdeling III. ...
 
 ### ART. 73.
 
-De inhoud van bepaalde verplichte vermeldingen in de toelichting wordt gedefinieerd als volgt : niet in de balans opgenomen rechten en verplichtingen<br /><br />00 Zekerheden, gesteld door derden voor rekening van de boekhoudkundige entiteit<br /><br />Op deze rekening worden de zakelijke of persoonlijke zekerheden geboekt die door derden voor de crediteuren van de boekhoudkundige entiteit zijn gesteld, als waarborg voor de voldoening van actuele of potentiële schulden of verplichtingen die de boekhoudkundige entiteit jegens hen heeft aangegaan.<br /><br />01 Persoonlijke zekerheden, gesteld voor rekening van derden<br /><br />Op deze rekening worden de persoonlijke zekerheden geboekt die door de boekhoudkundige entiteit voor derden zijn gesteld of onherroepelijk beloofd als waarborg voor de voldoening van actuele of potentiële schulden, en verplichtingen die de derden hebben aangegaan jegens andere schuldeisers dan de boekhoudkundige entiteit zelf.<br /><br />De wisselverplichtingen zijn die welke voor de boekhoudkundige entiteit voortvloeien uit door haar getrokken, geëndosseerde of voor aval getekende wissels in omloop, met uitzondering van de door de boekhoudkundige entiteit getrokken bankaccepten.<br /><br />02 Zakelijke zekerheden, gesteld op eigen activa<br /><br />Op deze rekening worden de zakelijke zekerheden geboekt waarmee de boekhoudkundige entiteit haar eigen activa heeft bezwaard of die ze onherroepelijk heeft beloofd voor de voldoening van actuele of potentiële schulden en verplichtingen van zichzelf of van derden.<br /><br />In rekening 021 en 023 betreffende de zekerheidstellingen moet in voorkomend geval een onderscheid worden gemaakt tussen de soorten van bezwaarde activa.<br /><br />03 Ontvangen zekerheden<br /><br />Op deze rekening worden de zakelijke en persoonlijke zekerheden geboekt die de boekhoudkundige entiteit heeft ontvangen voor de voldoening van actuele of potentiële schulden en verplichtingen die derden jegens haar hebben aangegaan, met uitzondering van zekerheidstellingen en borgtochten in contanten.<br /><br />04 Goederen en waarden, gehouden door derden in hun naam, maar ten bate en op risico van de boekhoudkundige entiteit<br /><br />Op deze rekening worden de goederen en waarden geboekt die ten opzichte van derden aan een ander toebehoren en waarvan de boekhoudkundige entiteit het risico draagt, maar er tevens de opbrengsten uit int, zoals de overeenkomsten tot het houden van een deelneming,als die goederen en waarden niet mogen worden opgenomen in de balans.<br /><br />05 Verplichtingen tot aan- en verkoop van vaste activa<br /><br />Op die rekening worden als verplichtingen tot aankoop geboekt de geplaatste bestellingen en de verplichtingen met optie van derden, en als verplichtingen tot verkoop de ontvangen bestellingen en de opties die aan derden op bezittingen van de boekhoudkundige entiteit zijn verleend.<br /><br />De verplichtingen tot aankoop evenals de verplichtingen tot verkoop die tot de activiteiten van de boekhoudkundige entiteit behoren en haar vermogen of resultaat niet aanmerkelijk beïnvloeden, hoeven niet te worden geboekt.<br /><br />06 Termijnovereenkomsten<br /><br />Op deze rekening worden in de daartoe aangelegde rekeningen de koop- en verkoopovereenkomsten op termijn betreffende goederen en vreemde deviezen geboekt, alsmede de daartegenoverstaande betalingsverplichtingen en vorderingen.<br /><br />07 Goederen en waarden van derden, gehouden door de boekhoudkundige entiteit<br /><br />Op deze rekening worden de volgende bedragen in afzonderlijke rekeningen geboekt :<br />1° de gebruiksrechten op lange termijn betreffende goederen die aan derden toebehoren en de daartegenoverstaande verplichtingen, voor zover die rechten en verplichtingen niet in de balans worden vermeld;<br />2° de goederen en waarden van derden die aan de boekhoudkundige entiteit in bewaring, in consignatie of in bewerking zijn gegeven, alsmede de daartegenoverstaande verplichtingen jegens deponenten en committenten;<br />3° de goederen en waarden die de boekhoudkundige entiteit uit anderen hoofde voor rekening of ten bate en op risico van derden onder zich houdt, alsmede de daartegenoverstaande verplichtingen.<br /><br />09 Diverse rechten en verplichtingen
+...
 
-## HOOFDSTUK VI. Slotbepalingen
+## HOOFDSTUK VI. ...
 
 ### ART. 74.
 
-Bij het begin van het eerste boekjaar waarin dit besluit voor een boekhoudkundige entiteit van toepassing wordt, moet een beginbalans opgesteld worden, in overeenstemming met de bepalingen van dit besluit en met het schema dat is opgenomen in bijlage I bij dit besluit.<br /><br />Elke boekhoudkundige entiteit legt haar beginbalans ter certificatie voor aan de bedrijfsrevisor, waarna ze aan de commissaris van de Vlaamse Regering wordt bezorgd.<br /><br />Voor de resultatenrekening en de toelichting per 31 december van het eerste boekjaar gelden de bepalingen, vermeld in artikel 66 en 70.
+...
 
 ### ART. 75.
 
-Het besluit van de Vlaamse Regering van 15 november 1995 betreffende de beleidsboekhouding, de jaarrekening en het rekeningenstelsel voor de hogescholen en de VZW's sociale voorzieningen, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2001, wordt opgeheven.
+...
 
 ### ART. 76.
 
-Dit besluit treedt in werking op 1 januari 2008.
+...
 
 ### ART. 77.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE I.
 
-Jaarrekening<br /><br />INHOUDSOPGAVE<br /><br />Onderhavig dossier bestaat uit :<br /><br />1. Het gestandaardiseerde deel van het volledig schema van de jaarrekening dat onder meer omvat :<br />— de elementen die toelaten de vereniging te identificeren, met de volledige lijst van de bestuurders en<br />commissarissen (bladen VOL-vzw 1 en VOL-vzw 1bis);<br />— de balans (bladen VOL-vzw 2 en VOL-vzw 3);<br />— de resultatenrekening :<br />- in staffelvorm (bladen VOL-vzw 4 en VOL-vzw 5);<br />- in scontrovorm (bladen VOL-vzw 4bis en VOL-vzw 5bis);<br />— de toelichting (bladen VOL-vzw 6 tot VOL-vzw 18);<br />— de sociale balans (bladen VOL-vzw 19 tot VOL-vzw 21).<br /><br />2. Een opgave van de bijkomende inlichtingen die moeten worden verstrekt. De betrokken bladen dragen geen nummer omdat ze niet bedoeld zijn om te worden neergelegd.<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2008/04/17_1.pdf#page=103" title=" Jaarrekening volgens model Balanscentrale Nationale bank" target="_blank" class="pdf">Jaarrekening volgens model Balanscentrale Nationale bank</a>
+...
 
 ### BIJLAGE II.
 
-Minimumindeling van het rekeningenstelsel<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2008/04/17_1.pdf#page=130" title=" Minimumindeling rekeningenstelsel" target="_blank" class="pdf">Minimumindeling rekeningenstelsel</a>
+...
