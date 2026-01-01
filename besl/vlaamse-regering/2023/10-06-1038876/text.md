@@ -47,9 +47,10 @@ In dit besluit wordt verstaan onder:<br>
 17° kennisinstelling voor waarnemings- en waarschuwingssystemen: een adviesdienst als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 5 december 2014 houdende de toepassing van geïntegreerde gewasbescherming door professionele gebruikers van gewasbeschermingsmiddelen;<br>
 18° kennisportefeuille: het subsidiebedrag dat een actieve landbouwer ter beschikking krijgt conform artikel 10;&nbsp;<br>
 19° kmo-portefeuille: een elektronische portefeuille op naam van een onderneming aangemaakt op een webplatform als vermeld in artikel 21 van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<br>
+19°/1 kmo-portefeuille norm: de kmop-norm zoals bepaald in artikel 1, 6°, van het ministerieel besluit van 23 oktober 2023 tot uitvoering van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten, wat betreft de aanstelling en de werking van de auditbureaus;<br>
 20° koninklijk besluit van 19 maart 2013: het koninklijk besluit van 19 maart 2013 ter verwezenlijking van een duurzaam gebruik van gewasbeschermingsmiddelen en toevoegingsstoffen;<br>
 21° minister: de Vlaamse minister, bevoegd voor de landbouw;<br>
-22° onderaannemer: een natuurlijke persoon of rechtspersoon die in opdracht van een adviesdienst, vormingscentrum, algemeen vormingscentrum, vormingscentrum voor de bijenteelt of kennisinstelling voor waarnemings- en waarschuwingssystemen of een partner als vermeld in artikel 80, tweede lid, een advies verleent, een vorming geeft, of een waarnemings- of waarschuwingssysteem uitvoert;<br>
+22° onderaannemer: een natuurlijke persoon of rechtspersoon die beschikt over een btw-nummer en die in opdracht van een adviesdienst, vormingscentrum, algemeen vormingscentrum, vormingscentrum voor de bijenteelt of kennisinstelling voor waarnemings- en waarschuwingssystemen of een partner als vermeld in artikel 80, tweede lid, een advies verleent, een vorming geeft, of een waarnemings- of waarschuwingssysteem uitvoert;<br>
 23° promotor: de kennisinstelling voor waarnemings- en waarschuwingssystemen die conform hoofdstuk 6 is geregistreerd, die de subsidie, vermeld in artikel 75, aanvraagt en die de verantwoordelijkheden, vermeld in artikel 81, tweede lid, draagt;<br>
 24° verordening (EU) 2021/2115: verordening (EU) 2021/2115 van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) worden gefinancierd, en tot intrekking van Verordeningen (EU) nr. 1305/2013 en (EU) nr. 1307/2013;<br>
 25° verordening (EU) 2021/2116: verordening (EU) 2021/2116 van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EU) nr. 1306/2013;<br>
@@ -148,7 +149,8 @@ De geslaagde deelnemers van de gevalideerde basisopleidingen over de fytolicenti
 Een vorming met als inhoud een aanvullende opleiding over de fytolicentie komt alleen in aanmerking voor subsidiëring als ze voldoet aan al de volgende voorwaarden:<br>
 1° de vorming voldoet aan de voorwaarden, vermeld in artikel 38 van het koninklijk besluit van 19 maart 2013;<br>
 2° minimaal een dagdeel gaat over de onderwerpen, vermeld in bijlage 3 bij het koninklijk besluit van 19 maart 2013;<br>
-3° minimaal 45 minuten van de vorming wordt toegelicht door een lesgever die geen werknemer is of zaakvoerder van een onderneming die gewasbeschermingsmiddelen verkoopt.<br>
+3° minimaal 45 minuten van de vorming wordt toegelicht door een lesgever die geen werknemer is of zaakvoerder van een onderneming die gewasbeschermingsmiddelen verkoopt;<br>
+4° de vorming wordt gegeven door een lesgever die in het bezit is van een fytolicentie P3, of door een lesgever in een instelling voor basisonderwijs, secundair onderwijs, hoger onderwijs, volwassenenonderwijs of deeltijds kunstonderwijs die door de Vlaamse Gemeenschap is erkend, gefinancierd of gesubsidieerd, of in centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft.<br>
 <br>
 De minister kan beslissen dat specifieke onderwerpen in de aanvullende opleidingen moeten opgenomen worden.<br>
 <br>
@@ -163,11 +165,11 @@ De deelnemerslijsten van de gevalideerde aanvullende opleidingen over de fytolic
 Een actieve landbouwer komt in aanmerking voor de subsidie voor vorming via een kennisportefeuille als de vorming gevolgd wordt door:<br>
 1° een actieve landbouwer die een natuurlijke persoon is;<br>
 2° de bestuurders van de actieve landbouwer, als die een rechtspersoon is;&nbsp;<br>
-3° de personen die ingeschreven zijn op hetzelfde adres als de actieve landbouwer;<br>
+3° de personen die ingeschreven zijn op hetzelfde adres als de actieve landbouwer of op het adres van de exploitatiezetel van het landbouwbedrijf;<br>
 4° de personen die een basisopleiding met betrekking tot landbouw of tuinbouw gericht op het uitvoeren van een landbouwactiviteit volgen of gevolgd hebben of die een starterscursus vermeld in artikel 35, 1°, volgen of gevolgd hebben;<br>
-5° de werknemers van de actieve landbouwer.<br>
+5° de werknemers van de actieve landbouwer of zelfstandige helpers.<br>
 <br>
-De personen vermeld in het eerste lid, 3° en 4°, mogen niet meer leerplichtig zijn overeenkomstig de wet van 29 juni 1983 betreffende de leerplicht.
+De personen vermeld in het eerste lid, 3° en 4°, zijn bij aanvang van de vorming niet meer leerplichtig overeenkomstig de wet van 29 juni 1983 betreffende de leerplicht.
 
 ### ART 9.
 
@@ -265,7 +267,7 @@ De steunaanvraag, vermeld in artikel 19, wordt ingediend voor de prestaties van 
 
 ### ART 22.
 
-Het advies wordt verleend of de vorming start uiterlijk zes maanden na de indiening van de steunaanvraag, vermeld in artikel 19.
+Het advies wordt verleend of de vorming is uiterlijk afgerond op het moment waarop de betalingsaanvraag wordt ingediend conform artikel 27.
 
 ### ART 23.
 
@@ -294,6 +296,10 @@ Nadat het advies is verleend of na afloop van de vorming dient de actieve landbo
 De minister bepaalt de inhoud van de betalingsaanvraag, vermeld in het eerste lid, en de termijn waarin die betalingsaanvraag ingediend moet worden.<br>
 <br>
 Als de actieve landbouwer geen betalingsaanvraag indient binnen de termijn, vermeld in het tweede lid, annuleert de bevoegde entiteit automatisch de steunaanvraag, vermeld in artikel 19, en verliest de landbouwer het aangevraagde subsidiebedrag uit de kennisportefeuille.
+
+### ART 27/1.
+
+Door de subsidie, vermeld in artikel 3, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de activiteiten in het kader van een vorming via een kennisportefeuille.
 
 ### ART 28.
 
@@ -336,8 +342,8 @@ Binnen de grenzen van de begrotingskredieten die daarvoor bestemd zijn, kan de b
 De volgende deelnemers aan de vormingen vallen onder het toepassingsgebied van de subsidie, vermeld in artikel 33 van dit besluit:<br>
 1° de actieve landbouwer die een natuurlijke persoon is;<br>
 2° bestuurders van de actieve landbouwer, als die laatste een rechtspersoon is;<br>
-3° personen die ingeschreven zijn op hetzelfde adres als de actieve landbouwer;<br>
-4° werknemers van de actieve landbouwer;<br>
+3° personen die ingeschreven zijn op hetzelfde adres als de actieve landbouwer of op het adres van de exploitatiezetel van het landbouwbedrijf;<br>
+4° werknemers van de actieve landbouwer of zelfstandige helper;<br>
 5° zaakvoerders of werknemers van loonwerkers;<br>
 6° personen die zich voorbereiden om actieve landbouwer te worden;<br>
 7° imkers;<br>
@@ -414,7 +420,7 @@ De minister bepaalt nader de inhoud en de duur van de modules die in het program
 
 Starterscursussen type B als vermeld in artikel 35, 1°, b), komen in aanmerking voor een subsidie als vermeld in artikel 33, als ze aan al de volgende voorwaarden voldoen:<br>
 1° ze worden georganiseerd en aangevraagd door een algemeen vormingscentrum;<br>
-2° ze worden minstens één en maximaal twee dagdelen per dag.<br>
+2° ze omvatten minstens één en maximaal twee dagdelen per dag.<br>
 <br>
 De minister bepaalt nader de inhoud en de duur van de module die in het programma moet worden opgenomen, en het minimumaantal geldige deelnemers.
 
@@ -422,7 +428,7 @@ De minister bepaalt nader de inhoud en de duur van de module die in het programm
 
 Starterscursussen voor bijenteelt als vermeld in artikel 35, 1°, c), komen in aanmerking voor een subsidie als vermeld in artikel 33, als ze aan al de volgende voorwaarden voldoen:<br>
 1° ze worden georganiseerd en aangevraagd door een algemeen vormingscentrum of door een vormingscentrum voor bijenteelt;<br>
-2° ze worden minstens één en maximaal twee dagdelen per dag.<br>
+2° ze omvatten minstens één en maximaal twee dagdelen per dag.<br>
 <br>
 De minister bepaalt nader de inhoud en de duur van het basisprogramma dat in de starterscursussen voor bijenteelt moet worden opgenomen, en het minimumaantal geldige deelnemers.
 
@@ -442,7 +448,7 @@ Stages als vermeld in artikel 35, 2°, komen in aanmerking voor een subsidie als
 3° ze vinden plaats onder toezicht van een stagebegeleider die voldoet aan de voorwaarden, vermeld in artikel 66;<br>
 4° ze vinden plaats op een stagebedrijf dat voldoet aan de voorwaarden, vermeld in artikel 67.<br>
 <br>
-De stageperiodes, vermeld in het eerste lid, 2°, vinden plaats op twee verschillende stagebedrijven.<br>
+De stageperiodes, vermeld in het eerste lid, 2°, vinden plaats op een of meer stagebedrijven.<br>
 <br>
 Er kunnen maximaal vier stageperiodes van maximaal 80 stage-uren voor dezelfde persoon in rekening gebracht worden voor een subsidie als vermeld in artikel 33.<br>
 <br>
@@ -454,9 +460,9 @@ De minister kan de voorschriften vastleggen om een vrijstelling voor een stage t
 
 ### ART 45.
 
-De stagiair heeft een starterscursus type A als vermeld in artikel 39, met vrucht gevolgd.<br>
+De stagiair voltooit een starterscursus type A als vermeld in artikel 39.<br>
 <br>
-De stagiair volbrengt alle stage-uren die in het stageplan zijn vastgelegd.&nbsp;<br>
+De stagiair voltooit alle stage-uren die in het stageplan zijn vastgelegd.&nbsp;<br>
 <br>
 De stagiair maakt een stageverslag en een evaluatieverslag op. De minister bepaalt de gegevens die in het voormelde stageverslag en het voormelde evaluatieverslag opgenomen moeten worden.
 
@@ -471,7 +477,7 @@ Opleidingen als vermeld in artikel 35, 3°, van dit besluit, komen in aanmerking
 4° opleidingen die uit verschillende dagdelen bestaan die gespreid worden over verschillende kalenderdagen, zijn afgelopen binnen zes maanden na de startdatum van de opleiding;<br>
 5° ze dragen bij tot een of meer van de doelstellingen, vermeld in artikel 6, lid 1 en lid 2, van verordening (EU) 2021/2115.<br>
 <br>
-De deelnemers aan een opleiding als vermeld in artikel 35, 3°, georganiseerd tijdens verschillende kalenderdagen, zijn ten minste 75% van de lesuren aanwezig om als geldige deelnemer te worden beschouwd. De voormelde deelnemers slagen voor een cursustest.<br>
+De deelnemers aan een opleiding als vermeld in artikel 35, 3°, georganiseerd tijdens verschillende kalenderdagen, zijn ten minste 75% van de lesuren aanwezig om als geldige deelnemer te worden beschouwd.<br>
 <br>
 De minister kan de voorwaarden en de modaliteiten nader bepalen waaraan de opleidingen moeten voldoen en het minimumaantal geldige deelnemers.
 
@@ -502,7 +508,7 @@ De deelnemer aan een basisopleiding fytolicentie P2 als vermeld in artikel 35, 4
 <br>
 De minister kan de voorwaarden, de modaliteiten en het minimumaantal deelnemers nader bepalen waaraan de voormelde basisopleidingen fytolicentie P2 moeten voldoen.&nbsp;<br>
 <br>
-De geslaagde deelnemers aan de voormelde basisopleidingen fytolicentie P2 die zijn gevalideerd, worden doorgegeven aan de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu op voorwaarde dat ze geldige deelnemers zijn, zoals vermeld in het vierde lid.
+De geslaagde deelnemers aan de voormelde basisopleidingen fytolicentie P2 die zijn gevalideerd door de bevoegde entiteit, worden doorgegeven aan de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu op voorwaarde dat ze geldige deelnemers zijn, zoals vermeld in het vierde lid.
 
 ## Onderafdeling 6. Aanvullende opleidingen over de fytolicentie
 
@@ -577,7 +583,8 @@ De minister kan bij elke oproep, vermeld in het eerste lid, het volgende bepalen
 4° de projectperiode;<br>
 5° de datum waarop het vormingsplan uiterlijk ingediend moet worden;<br>
 6° de wijze waarop de steunaanvragen ingediend worden;<br>
-7° de ontvankelijkheidscriteria waaraan steunaanvragen getoetst worden.<br>
+7° de ontvankelijkheidscriteria waaraan steunaanvragen getoetst worden;<br>
+8° het maximale subsidiebedrag dat per vormingsplan kan worden toegekend.<br>
 <br>
 De bevoegde entiteit maakt de oproep, vermeld in het eerste lid, bekend. De bevoegde entiteit stelt een sjabloon ter beschikking om het vormingsplan in te dienen.&nbsp;<br>
 <br>
@@ -653,7 +660,9 @@ Alleen vormingsplannen die de minimumscore behalen die de minister bij de oproep
 <br>
 In het toekenningsbesluit, vermeld in het eerste lid, kan de minister binnen de grenzen van de bepalingen van dit besluit en de uitvoeringsbesluiten ervan de volgende elementen bepalen:<br>
 1° de vormingstypes, beleidsthema’s en doelgroepen waarvoor de subsidie, vermeld in artikel 33, wordt toegekend;<br>
-2° de kosten die al dan niet in rekening kunnen worden gebracht bij de verantwoording van de subsidie, en specifieke voorwaarden voor de uitvoering van de vormingsprojecten.
+2° de kosten die al dan niet in rekening kunnen worden gebracht bij de verantwoording van de subsidie, en specifieke voorwaarden voor de uitvoering van de vormingsprojecten.<br>
+<br>
+Het vormingscentrum voert het vormingsplan uit zoals dat goedgekeurd is in het toekenningsbesluit, vermeld in het eerste lid. Eventuele wijzigingen zijn alleen mogelijk nadat het vormingscentrum een gemotiveerde aanvraag heeft ingediend bij de bevoegde entiteit en nadat de bevoegde entiteit de aanvraag heeft goedgekeurd.
 
 ### ART 55.
 
@@ -706,11 +715,13 @@ De forfaitaire werkingssubsidie, vermeld in het eerste lid, is bestemd voor:<br>
 1° de administratieve kosten voor de organisatie van de vorming;<br>
 2° de huur van lokalen;<br>
 3° het onderschrijven van de nodige aansprakelijkheidsverzekeringen;<br>
-4° in geval van een stage, een vergoeding voor het stagebedrijf.<br>
+4° in geval van een stage, een vergoeding voor het stagebedrijf;<br>
+5° in geval van een bedrijfsbezoek, een vergoeding voor het bedrijf<br>
 <br>
 De minister bepaalt:<br>
 1° het bedrag van de subsidie, vermeld in artikel 33, dat is bedoeld voor de forfaitaire werkingssubsidie voor de algemene vormingscentra en de vormingscentra voor bijenteelt;<br>
-2° het maximumaantal forfaitaire werkingssubsidies die per dag kunnen worden aangevraagd voor dezelfde vorming.&nbsp;<br>
+2° het maximumaantal forfaitaire werkingssubsidies die per dag kunnen worden aangevraagd voor dezelfde vorming.;<br>
+3° de voorwaarden waaraan een bedrijfsbezoek moet voldoen en het maximumaantal bedrijfsbezoeken die kunnen aangevraagd worden per vorming.<br>
 <br>
 De minister kan een minimumbedrag bestemd voor de vergoeding voor het stagebedrijf, vermeld in het tweede lid, 4°, bepalen.
 
@@ -773,7 +784,7 @@ Het algemeen vormingscentrum is ervoor verantwoordelijk dat het stagebedrijf de 
 De stagebegeleider, vermeld in artikel 43, eerste lid, 3°, voldoet aan de volgende voorwaarden:<br>
 1° als lesgever geregistreerd zijn bij de bevoegde entiteit;<br>
 2° competent zijn in de materie van de stage;<br>
-3° aan de stagiair minstens tien uren per stageperiode besteden, waarvan vier uren op het stagebedrijf;<br>
+3° aan de stagiair minstens tien uren per stageperiode besteden, waarvan minstens twee uren op het stagebedrijf;<br>
 4° een evaluatieverslag van de stage, vermeld in artikel 35, 2°, opmaken;<br>
 5° als het stagebedrijf een actieve landbouwer is, de bedrijfseconomische resultaten en de technische kengetallen van het stagebedrijf bespreken met de stagiair.&nbsp;<br>
 <br>
@@ -809,6 +820,10 @@ Tijdens elke vormingsactiviteit moet een algemene verantwoordelijke ter plaatse 
 ### ART 69.
 
 Voor de vormingen via een vormingsprogramma worden lokalen gebruikt die geschikt zijn voor de uitvoering van de activiteiten. Het algemeen vormingscentrum of het vormingscentrum voor bijenteelt dekt zijn burgerlijke aansprakelijkheid met een verzekering.
+
+### ART 69/1.
+
+Door de subsidie, vermeld in artikel 33, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de activiteiten in het kader van een vorming via een vormingsprogramma.
 
 ## Hoofdstuk 4. Installatieproeven en fytolicentieproeven
 
@@ -871,6 +886,10 @@ Een waarnemings- en waarschuwingsdienst komt in aanmerking voor een subsidie als
 4° lidmaatschap van de kennisinstelling voor waarnemings- en waarschuwingssystemen of van een andere organisatie kan geen voorwaarde zijn om toegang tot de waarnemings- en waarschuwingsdienst te krijgen. Eventuele bijdragen van niet-leden in de kosten van de betrokken kennisinstelling zijn beperkt tot de kosten van de waarnemings- en waarschuwingsdienst;<br>
 5° de waarnemings- en waarschuwingsdienst bestrijkt de teelten of teeltgroepen en ziekten en plagen, vermeld in de oproep, vermeld in artikel 79 van dit besluit;<br>
 6° de waarnemings- en waarschuwingsdienst komt de duurzame landbouw in het Vlaamse Gewest ten goede.
+
+### ART 76/1.
+
+Door de subsidie, vermeld in artikel 75, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
 
 ## Afdeling 3. Subsidiebedrag
 
@@ -946,7 +965,7 @@ De gezamenlijke steunaanvraag, vermeld in artikel 80, eerste lid, bevat al de vo
 &nbsp; c) de naam, de functie, het telefoonnummer en het e-mailadres van een contactpersoon;<br>
 &nbsp; d) de naam, het telefoonnummer en het e-mailadres van de budgettair verantwoordelijke en van de verantwoordelijke voor de praktische uitvoering van het project;<br>
 &nbsp; e) het ondernemingsnummer;<br>
-&nbsp; f) het registratienummer bij de kmo-portefeuille;<br>
+&nbsp; f) ...;<br>
 2° de volgende gegevens van elke partner:<br>
 &nbsp; a) de naam en het adres;<br>
 &nbsp; b) het btw-statuut en het btw-nummer;<br>
@@ -1108,7 +1127,7 @@ Aanvragers van de registratie als adviesdienst, vormingscentrum, algemeen vormin
 
 Een aanvrager kan geregistreerd worden als adviesdienst als de aanvrager aan de volgende voorwaarden voldoet:<br>
 1° een natuurlijke persoon zijn met ondernemingsnummer of een rechtspersoon;<br>
-2° geregistreerd zijn om advies te verlenen binnen de kmo-portefeuille;<br>
+2° geregistreerd zijn om advies te verlenen binnen de kmo-portefeuille of geauditeerd zijn volgens de kmo-portefeuille norm;<br>
 3° onpartijdig zijn. De aanvrager is namelijk geen onderneming die landbouwproducten, gewasbeschermingsmiddelen, diervoeders, landbouwmechanisatieproducten of meststoffen verkoopt.<br>
 <br>
 De volgende organisaties kunnen niet geregistreerd worden als adviesdienst:<br>
@@ -1119,13 +1138,13 @@ De volgende organisaties kunnen niet geregistreerd worden als adviesdienst:<br>
 
 Een aanvrager kan geregistreerd worden als vormingscentrum als de aanvrager aan de volgende voorwaarden voldoet:<br>
 1° een natuurlijke persoon zijn met ondernemingsnummer of een rechtspersoon;<br>
-2° geregistreerd zijn voor vorming binnen de kmo-portefeuille.
+2° geregistreerd zijn voor vorming binnen de kmo-portefeuille of geauditeerd zijn volgens de kmo-portefeuille norm.
 
 ### ART 97.
 
 Een aanvrager kan geregistreerd worden als algemeen vormingscentrum als de aanvrager voldoet aan de volgende voorwaarden:<br>
 1° een vereniging zonder winstoogmerk zijn met als statutair doel om vorming in de landbouw te organiseren;<br>
-2° geregistreerd zijn voor vorming binnen de kmo-portefeuille;<br>
+2° geregistreerd zijn voor vorming binnen de kmo-portefeuille of geauditeerd zijn volgens de kmo-portefeuille norm;<br>
 3° zijn vormingsactiviteiten aanbieden over het volledige grondgebied van het Vlaamse Gewest;<br>
 4° ervaring hebben met het organiseren van starterscursussen en stages.
 
@@ -1133,13 +1152,13 @@ Een aanvrager kan geregistreerd worden als algemeen vormingscentrum als de aanvr
 
 Een aanvrager kan geregistreerd worden als vormingscentrum voor bijenteelt als de aanvrager voldoet aan de volgende voorwaarden:<br>
 1° een vereniging zonder winstoogmerk zijn met als statutair doel om vorming voor bijenteelt te organiseren;<br>
-2° geregistreerd zijn voor vorming binnen de kmo-portefeuille.
+2° geregistreerd zijn voor vorming binnen de kmo-portefeuille of geauditeerd zijn volgens de kmo-portefeuille norm.
 
 ### ART 99.
 
 Een aanvrager kan geregistreerd worden als promotor als de aanvrager voldoet aan de volgende voorwaarden:&nbsp;<br>
 1° een adviesdienst zijn als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 5 december 2014 houdende de toepassing van geïntegreerde gewasbescherming door professionele gebruikers van gewasbeschermingsmiddelen;<br>
-2° geregistreerd zijn om advies te verlenen binnen de kmo-portefeuille.
+2° geregistreerd zijn om advies te verlenen binnen de kmo-portefeuille of geauditeerd zijn volgens de kmo-portefeuille norm.
 
 ## Afdeling 2. Procedure
 
@@ -1161,8 +1180,6 @@ In de volgende gevallen kan de bevoegde entiteit de registratie als adviesdienst
 
 ### ART 103.
 
-De geldigheidsduur van de registratie als adviesdienst, vormingscentrum, algemeen vormingscentrum of vormingscentrum voor bijenteelt komt overeen met de geldigheidsduur van de registratie binnen de kmo-portefeuille.&nbsp;<br>
-<br>
 De registratie als promotor geldt zolang de twee volgende voorwaarden zijn vervuld:<br>
 1° de registratie binnen de kmo-portefeuille is geldig;<br>
 2° de aanvrager is een adviesdienst als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 5 december 2014 houdende de toepassing van geïntegreerde gewasbescherming door professionele gebruikers van gewasbeschermingsmiddelen.
@@ -1211,7 +1228,7 @@ In de volgende gevallen kan de bevoegde entiteit de registratie als adviesdienst
 &nbsp; a) de dienstverlener leeft dit besluit of de uitvoeringsbesluiten ervan niet na;<br>
 &nbsp; b) de dienstverlener heeft de registratie verkregen op basis van valse, onvolledige of onjuiste verklaringen;<br>
 &nbsp; c) de dienstverlener heeft een veroordeling opgelopen wegens bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
-2° de registratie van de dienstverlener binnen de kmo-portefeuille.&nbsp;<br>
+2° de registratie van de dienstverlener binnen de kmo-portefeuille conform het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten wordt geweigerd of opgeheven, of de dienstverlener wordt in het kader van een controle inzake de kmo-portefeuille geschorst of uitgesloten.&nbsp;<br>
 <br>
 De maatregel, vermeld in het eerste lid, is een bewarende maatregel die geldt tot er een beslissing wordt genomen over de opheffing of uitsluiting van de registratie van de dienstverlener. De dienstverlener wordt op de hoogte gebracht van de beslissing tot schorsing en kan de redenen tot schorsing gemotiveerd weerleggen of ongedaan maken door maatregelen te nemen binnen de vooropgestelde schorsingstermijn.<br>
 <br>
@@ -1275,7 +1292,7 @@ De begunstigde houdt alle bewijsstukken die in dit besluit en de uitvoeringsbesl
 
 ### ART 116.
 
-De bevoegde entiteit kan op elk ogenblik bijkomende stukken of informatie opvragen in het kader van beleidsevaluaties en om de controles, vermeld in artikel 113, uit te voeren. In dat geval bezorgt de begunstigde de gevraagde stukken of informatie onmiddellijk aan de bevoegde entiteit.&nbsp;
+De bevoegde entiteit kan op elk ogenblik bijkomende stukken of informatie opvragen in het kader van beleidsevaluaties en om de controles, vermeld in artikel 113, uit te voeren en vragen om die bijkomende stukken of informatie aan te leveren via de LV-AgriLens app. In dat geval bezorgt de begunstigde de gevraagde stukken of informatie onmiddellijk aan de bevoegde entiteit.&nbsp;
 
 ### ART 117.
 
@@ -1326,19 +1343,21 @@ De bevoegde entiteit kan, boven op de administratieve sancties, vermeld in artik
 
 §1. De bevoegde entiteit behandelt bezwaren tegen beslissingen die rechtsgevolgen tot stand brengen ter uitvoering van dit besluit, de uitvoeringsbesluiten ervan, verordening (EU) 2021/2115 en (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan.<br>
 <br>
-§2. Het bezwaar, vermeld in paragraaf 1, wordt binnen dertig dagen vanaf de kennisgeving van de beslissing met een bezwaarschrift ingediend bij de bevoegde entiteit. De bevoegde entiteit beslist over het bezwaar. Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
-1° het wordt op schriftelijke wijze ingediend;<br>
-2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in het bezwaarschrift aangegeven;<br>
-3° het is ondertekend door de indiener van het bezwaar of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de raadsman ingeschreven is als advocaat of advocaat-stagiair;<br>
-4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
+§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist.&nbsp;<br>
+<br>
+Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+1° het wordt op elektronische wijze of op papier ingediend;<br>
+2° het vermeldt de naam, en de woonplaats of het klantnummer bij de bevoegde entiteit of het ondernemingsnummer van de indiener van het bezwaar. &nbsp;Als het bezwaar wordt ingediend via een bij de bevoegde entiteit gekend e-mailadres, volstaat de vermelding van de naam; &nbsp;<br>
+3° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten;<br>
+4° het is tijdig ingediend conform het eerste lid.<br>
 <br>
 §3. Als het bezwaar, vermeld in paragraaf 1, niet voldoet aan de voorwaarden, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.<br>
 <br>
-§4. De bezwaarindiener of zijn vertegenwoordiger wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar, vermeld in paragraaf 1. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het voormelde bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar, vermeld in paragraaf 1. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het voormelde bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
-De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener of zijn vertegenwoordiger op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
+De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener of zijn vertegenwoordiger en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
+Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
 
 ## Hoofdstuk 10. Gegevensverwerking
 
