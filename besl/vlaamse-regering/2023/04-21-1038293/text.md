@@ -140,9 +140,9 @@ Bij de verzamelaanvraag worden de gevraagde bewijsstukken gevoegd die aantonen d
 <br>
 §2. Rechtstreekse betalingen kunnen uitsluitend toegekend worden aan actieve landbouwers, ongeacht het bedrag aan rechtstreekse betalingen dat de landbouwer het voorgaande jaar ontvangen heeft. De landbouwer die aan al de volgende voorwaarden voldoet, wordt beschouwd als actieve landbouwer:<br>
 1° de landbouwer is geregistreerd met een ondernemingsnummer in de Kruispuntbank van Ondernemingen van de FOD Economie, K.M.O., Middenstand en Energie en heeft een NACEBEL-code voor de btw-activiteiten die betrekking heeft op een landbouwactiviteit;<br>
-2° de verhouding tussen de btw-verkoophandelingen als gevolg van de landbouwactiviteit en als gevolg van de verkoop van de volgende producten ten opzichte van de btw-verkoophandelingen van alle economische activiteiten van de onderneming in kwestie, zonder rekening te houden met de met de actieve landbouwer verbonden ondernemingen, is groter dan of gelijk aan een derde: &nbsp;<br>
-a)&nbsp;&nbsp; &nbsp;bier, dat gemaakt is met graan dat voor minstens 75% afkomstig is van eigen teelt;&nbsp;<br>
-b)&nbsp;&nbsp; &nbsp;gedistilleerde dranken die gemaakt zijn met granen, noten of fruit die voor minstens 75% afkomstig zijn van eigen teelt&nbsp;<br>
+2° de verhouding tussen de btw-verkoophandelingen als gevolg van de landbouwactiviteit en als gevolg van de verkoop van de volgende producten ten opzichte van de btw-verkoophandelingen van alle economische activiteiten van de onderneming in kwestie, zonder rekening te houden met de met de actieve landbouwer verbonden ondernemingen, is groter dan of gelijk aan een derde:<br>
+a)&nbsp;&nbsp; &nbsp;bier, dat gemaakt is met graan dat voor minstens 75% afkomstig is van eigen teelt en waarvan het moutproces op het bedrijf plaatsvindt;<br>
+b)&nbsp;&nbsp; &nbsp;gedistilleerde dranken die gemaakt zijn met granen, noten of fruit die voor minstens 75% afkomstig zijn van eigen teelt. Als er een moutproces plaatsvindt, gebeurt dat op het bedrijf zelf;<br>
 c)&nbsp;&nbsp; &nbsp;consumptie-ijs en yoghurt die gemaakt zijn met melk die voor minstens 75% afkomstig is van eigen dieren;<br>
 3° de landbouwer heeft een standaardverdiencapaciteit die groter is dan of gelijk is aan het minimaal factorinkomen van 7.500 euro;<br>
 4° de landbouwer of een aan de landbouwer verbonden onderneming is geen overheidsinstelling, erkende terreinbeherende natuurvereniging, hogeschool of universiteit;<br>
@@ -248,19 +248,17 @@ De minister kan bepalen:<br>
 
 ### ART 12.
 
-§1. De teelt van hennep is onderworpen aan een voorafgaande vergunning, hierna de teelttoestemming voor hennep genoemd. De teelttoestemming voor hennep is alleen geldig voor het teeltseizoen waarvoor de toestemming wordt aangevraagd en voor het ras dat in de aanvraag is vermeld. Alleen de teelt van rassen als vermeld in artikel 2 van gedelegeerde verordening (EU) 2022/126, is toegestaan.<br>
+§1. De teelt van hennep op een perceel is enkel toegelaten indien het perceel met hennep voor dat teeltseizoen tijdig en correct wordt aangegeven in de verzamelaanvraag. De teelttoestemming voor hennep is alleen geldig voor het teeltseizoen waarvoor de toestemming wordt aangevraagd en voor het ras dat in de aanvraag is vermeld. Alleen de teelt van rassen als vermeld in artikel 2 van gedelegeerde verordening (EU) 2022/126, is toegestaan.<br>
+<br>
+De minister kan de minimale zaaidichtheid bepalen voor de teelt van hennep.<br>
 <br>
 §2. De minister bepaalt:<br>
-1° de wijze waarop de teelttoestemming wordt aangevraagd, de inhoud van de aanvraag en de vereiste bewijsstukken;<br>
-2° het uiterste tijdstip waarop de aanvraag van teelttoestemming voor een teeltseizoen moet worden ingediend;<br>
-3° de wijze waarop de teelttoestemming wordt gegeven;&nbsp;<br>
-4° de regels over de bezorging van de officiële etiketten van de zaaizaden.<br>
+1° de wijze waarop de aangifte moet gebeuren, de inhoud van de aanvraag en de vereiste bewijsstukken;<br>
+2° het uiterste tijdstip waarop de aangifte voor een teeltseizoen moet gebeuren;<br>
+3° de regels over het bewaren van de officiële etiketten van de zaaizaden en hoe de informatie van de officiële etiketten wordt bezorgd aan de bevoegde entiteit;<br>
+4° de datum waarop de henneprassen in de gemeenschappelijke rassenlijst van landbouwgewassen moeten opgenomen zijn, conform artikel 17 van Richtlijn 2002/53/EG van de Raad van 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen.<br>
 <br>
-De minister kan de volgende elementen bepalen:<br>
-1°&nbsp;&nbsp; &nbsp;de minimale zaaidichtheid om een teelttoestemming voor de teelt van hennep te verkrijgen;<br>
-2°&nbsp;&nbsp; &nbsp;de formulieren voor de aanvraag van de teelttoestemming voor hennep en de vorm ervan.<br>
-<br>
-§3. De teelt van hennep wordt gecontroleerd conform artikel 3 van gedelegeerde verordening (EU) 2022/126. De minister kan de aanvullende voorwaarden voor de controle bepalen.
+§3. De bevoegde entiteit controleert de teelt van hennep conform artikel 3 van gedelegeerde verordening (EU) 2022/126. De minister kan de aanvullende voorwaarden voor de controle bepalen.
 
 ## Hoofdstuk 2. Ontkoppelde rechtstreekse betalingen
 
@@ -637,13 +635,28 @@ De norm voor het aanleggen van bufferstroken is van toepassing op alle landbouwe
 
 ### ART 56.
 
-Langs waterlopen als vermeld in artikel 55, respecteren de landbouwers landinwaarts vanaf de bovenste rand van het talud al de volgende bufferstroken:<br>
-1° één meter teeltvrije strook waarop geen grondbewerking plaatsvindt;<br>
-2° drie meter pesticidevrije strook;<br>
-3° vijf meter bemestingsvrije strook;&nbsp;<br>
-4° tien meter bemestingsvrije strook langs hellingen en in gebieden die behoren tot het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997.&nbsp;<br>
+In dit artikel wordt verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;gebiedstype 0: gebiedstype 0 als vermeld in artikel 3, §2, 5°, van het Mestdecreet van 22 december 2006;<br>
+2°&nbsp;&nbsp; &nbsp;gebiedstype 1: gebiedstype 1 als vermeld in artikel 3, §2, 6°, van het Mestdecreet van 22 december 2006;<br>
+3°&nbsp;&nbsp; &nbsp;gebiedstype 2: gebiedstype 2 als vermeld in artikel 3, §2, 7°, van het Mestdecreet van 22 december 2006;<br>
+4°&nbsp;&nbsp; &nbsp;gebiedstype 3: gebiedstype 3 als vermeld in artikel 3, §2, 8°, van het Mestdecreet van 22 december 2006;<br>
+5°&nbsp;&nbsp; &nbsp;nitraatgevoelige teelt: nitraatgevoelige teelt als vermeld in artikel 3, §6, 16°/2, van het Mestdecreet van 22 december 2006;<br>
+6°&nbsp;&nbsp; &nbsp;niet-nitraatgevoelige teelt: niet-nitraatgevoelige teelt als vermeld in artikel 3, §6, 16°/1, van het Mestdecreet van 22 december 2006;<br>
+7°&nbsp;&nbsp; &nbsp;meerjarig buffergewas: meerjarig buffergewas als vermeld in artikel 1.3.2.2, §1, achtste lid, 4°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
-Bij de bemestingsvrije stroken, vermeld in het eerste lid, 3° en 4°, is bemesting verboden, met uitzondering van bemesting door rechtstreekse uitscheiding bij begrazing.
+Langs waterlopen als vermeld in artikel 55 van dit besluit, respecteren de landbouwers landinwaarts vanaf de bovenste rand van het talud elk van de volgende minimale bufferstroken als er op het perceel als hoofdteelt een niet-nitraatgevoelige teelt wordt verbouwd of in gebiedstype 0 of gebiedstype 1 een nitraatgevoelige teelt wordt verbouwd:<br>
+1°&nbsp;&nbsp; &nbsp;drie meter strook met spontane vegetatie of een meerjarig buffergewas;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;drie meter pesticidevrije strook;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;drie meter bemestingsvrije strook;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;tien meter bemestingsvrije strook langs hellingen en in gebieden die behoren tot het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997.<br>
+<br>
+Langs waterlopen als vermeld in artikel 55 van dit besluit, respecteren de landbouwers landinwaarts vanaf de bovenste rand van het talud de volgende minimale bufferstroken als het perceel in de gebieden, vermeld in artikel 10, §1, 7°, c), van het Vlaams Pachtdecreet van 13 oktober 2023, ligt, of als er op het perceel in gebiedstype 2 of gebiedstype 3 als hoofdteelt een nitraatgevoelige teelt wordt verbouwd:<br>
+1°&nbsp;&nbsp; &nbsp;vijf meter strook met spontane vegetatie of een meerjarig buffergewas;<br>
+2°&nbsp;&nbsp; &nbsp;vijf meter pesticidevrije strook;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;vijf meter bemestingsvrije strook;<br>
+4°&nbsp;&nbsp; &nbsp;tien meter bemestingsvrije strook langs hellingen en in gebieden die behoren tot het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997.<br>
+<br>
+Bij de bemestingsvrije stroken, vermeld in het tweede lid, 3° en 4°, en in het derde lid, 3° en 4°, is bemesting verboden, met uitzondering van bemesting door rechtstreekse uitscheiding bij begrazing.
 
 ## Onderafdeling 5. Bodembewerkingsbeheer
 
@@ -726,7 +739,7 @@ b)&nbsp;&nbsp; &nbsp;winterploegen toepassen op percelen met een leem- of een kl
 
 ### ART 59.
 
-In de volgende gevallen zijn landbouwbedrijven vrijgesteld van de norm voor gewasrotatie, vermeld in artikel 60:<br>
+In de volgende gevallen zijn landbouwbedrijven vrijgesteld van de norm voor gewasrotatie, vermeld in artikel 60, §1:<br>
 1° meer dan 75% van het bouwland dat wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren, of voor de teelt van vlinderbloemige gewassen ligt braak of wordt gebruikt voor een combinatie daarvan;&nbsp;<br>
 2° meer dan 75% van het subsidiabele landbouwareaal is blijvend grasland en wordt gebruikt om grassen of andere kruidachtige voedergewassen te produceren of wordt gedurende een aanzienlijk deel van het jaar of een aanzienlijk deel van de gewascyclus beteeld met gewassen die onder water staan, of wordt gebruikt voor een combinatie daarvan.<br>
 3° het bouwlandareaal bedraagt niet meer dan 10 hectare.<br>
@@ -794,9 +807,9 @@ De minister bepaalt wanneer er sprake is van een verschillende teelt om te voldo
 <br>
 §2. Het is verboden hagen, heggen, houtkanten en bomen te snoeien tijdens het broedseizoen.<br>
 <br>
-§3. In het kader van de preventie van de uitbreiding van &nbsp;plantensoorten die door hun overwoekerende karakter een bedreiging vormen voor de goede landbouw- en milieuconditie van de landbouwgrond, wordt de uitbreiding van knolcyperus (Cyperus esculentus) op bouwland voorkomen.&nbsp;<br>
+§3. In het kader van de preventie van de uitbreiding van &nbsp;plantensoorten die door hun overwoekerende karakter een bedreiging vormen voor de goede landbouw- en milieuconditie van de landbouwgrond, wordt de uitbreiding van knolcyperus (Cyperus esculentus) op landbouwpercelen voorkomen.&nbsp;<br>
 <br>
-De landbouwer voorkomt de verdere verspreiding van knolcyperus op bouwland door het verbod op de teelt van knol-, bol- en wortelgewassen op met knolcyperus besmette percelen na te leven. Een perceel is besmet met knolcyperus wanneer de besmetting ten minste 10 vierkante meter van het perceel inneemt. Een vierkante meter is duidelijk besmet als er minimaal 10 planten knolcyperus per vierkante meter staan of als knolcyperus voor een minimale bodembedekking van 50% zorgt.<br>
+De landbouwer voorkomt de verdere verspreiding van knolcyperus op landbouwpercelen door het verbod op de teelt van knol-, bol- en wortelgewassen op met knolcyperus besmette percelen na te leven. Een perceel is besmet met knolcyperus wanneer de besmetting ten minste 10 vierkante meter van het perceel inneemt. Een vierkante meter is duidelijk besmet als er minimaal 10 planten knolcyperus per vierkante meter staan of als knolcyperus voor een minimale bodembedekking van 50% zorgt.<br>
 <br>
 De Vlaamse regering kan desgewenst nog bijkomende soorten opnemen op basis van hun overwoekerende en exotische karakter na advies van het Instituut voor Natuur en Bosonderzoek.
 
