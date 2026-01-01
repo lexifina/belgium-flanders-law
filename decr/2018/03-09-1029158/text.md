@@ -151,11 +151,54 @@ De vordering tot voldoening van de bestuurlijke geldboete verjaart vijf jaar na 
 
 ### ART 11/1.
 
-Met het oog op de uitvoering van de bevoegdheden en de taken vermeld in of ter uitvoering van dit decreet worden gegevens, inclusief de gegevens, vermeld in artikel 9, lid 1, en 10 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, verwerkt.<br>
+§1. Het bestuur verzamelt de volgende gegevens in een gegevensbank:<br>
+1° alle informatie over het voorlopig rijbewijs B en het rijbewijs B van de personen die het terugkommoment moeten volgen conform artikel 3 en 4 van dit decreet;<br>
+2° alle informatie over de personen die het terugkommoment moeten volgen conform artikel 3 en 4 van dit decreet;<br>
+3° alle informatie over de aanvragen tot uitstel om te voldoen aan de verplichting om het terugkommoment te volgen en de genomen beslissingen;<br>
+4° alle informatie over de te organiseren terugkommomenten en ook alle informatie over de georganiseerde terugkommomenten en de deelnemers, met inbegrip van de uitgereikte getuigschriften of attesten;<br>
+5° alle informatie in het kader van aanvragen om erkend te worden als instelling die het terugkommoment organiseert;<br>
+6° alle informatie over de uitgereikte erkenningen en goedkeuringen aan instellingen die het terugkommoment organiseren en over de instellingen waaraan ze zijn uitgereikt, vermeld in artikel 2, 2°, van dit decreet en ook alle informatie over de verantwoordelijken van de instellingen;<br>
+7° alle informatie in het kader van aanvragen om erkend te worden als lesgever die een onderdeel van het terugkommoment geeft;<br>
+8° alle informatie over de uitgereikte erkenningen aan lesgevers die een onder deel van het terugkommoment geven en over de lesgevers aan wie ze zijn uitgereikt;<br>
+9° alle informatie over de goedkeuring van opleidingen en bijscholingen door opleidingsverstrekkers;<br>
+10° alle informatie over de geweigerde aanvragen tot erkenning en goedkeuring en de reden van weigering, met inbegrip van strafrechtelijke veroordelingen;<br>
+11° alle informatie over de opleidingen en bijscholingen waaraan de lesgevers die een onderdeel van het terugkommoment geven of willen geven, deelnemen, met inbegrip van de uitgereikte getuigschriften of attesten;<br>
+12° alle informatie over de geschorste erkenningen, de datum waarop de beslissing tot schorsing is genomen en de reden ervan, met inbegrip van strafrechtelijke veroordelingen;<br>
+13° alle informatie over de opgeheven erkenningen, de datum waarop de beslissing tot opheffing is genomen en de reden ervan, met inbegrip van strafrechtelijke veroordelingen;<br>
+14° alle informatie over de retributies door de instellingen die het terugkommoment organiseren en de lesgevers die een onderdeel van het terugkommoment geven;<br>
+15° alle informatie over de subsidies voor de instellingen die het terugkommoment organiseren;<br>
+16° alle informatie over het toezicht, de vaststellingen, de sancties en de maatregelen ter uitvoering van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023;<br>
+17° de contactgegevens en identificatiegegevens, met inbegrip van handtekeninen, rijksregistergegevens en ondernemingsgegevens als dat van toepassing is, die noodzakelijk zijn bij de verwerking van de gegevens, vermeld in punt 1° tot en met 16°.<br>
 <br>
-Die gegevens worden verwerkt met naleving van de regelgeving op de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.<br>
+De Vlaamse Regering kan de lijst van gegevens, vermeld in het eerste lid, verder preciseren.<br>
 <br>
-De Vlaamse Regering bepaalt welke gegevens worden verwerkt, stelt de wijze vast waarop die gegevens worden verwerkt en wijst de verantwoordelijke voor de verwerking aan.
+§2. De gegevens, vermeld in paragraaf 1, worden verzameld en verwerkt voor de volgende doeleinden:<br>
+1° de uitvoering van de bevoegdheden en de taken, vermeld in dit decreet en de uitvoeringsbesluiten ervan;<br>
+2° het administratieve beheer door het bestuur van het systeem van de erkenningen en de subsidies;<br>
+3° het toezicht op en de handhaving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan;<br>
+4° statistische doeleinden.<br>
+<br>
+De gegevens die verzameld en verwerkt worden voor het doeleinde, vermeld in het eerste lid, 4°, worden geanonimiseerd.<br>
+<br>
+De Vlaamse Regering kan, onverminderd de doeleinden, vermeld in het eerste lid, de nadere doeleinden van de verwerking vaststellen.<br>
+<br>
+§3. De volgende personen en instellingen kunnen gegevens invoeren in de gegevensbank, vermeld in paragraaf 1:<br>
+1° het bestuur;<br>
+2° de erkende instellingen, vermeld in artikel 2, 2°;<br>
+3° de lesgevers die erkend zijn om een onderdeel van het terugkommoment te geven;<br>
+4° de opleidingsverstrekkers.<br>
+<br>
+De Vlaamse Regering bepaalt welke persoon of instelling welke soort gegevens in de gegevensbank, vermeld in paragraaf 1, invoert en ook de frequentie van de invoering.<br>
+<br>
+§4. De gegevensbank, vermeld in paragraaf 1, is onderworpen aan een strikt gebruikers- en toegangsbeheer. De toegang tot de gegevensbank is beperkt tot de gegevens die strikt noodzakelijk zijn voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan, rekening houdend met de rol van de toegangsgerechtigde.<br>
+<br>
+De Vlaamse Regering kan bepalen tot welke gegevens uit de gegevensbank de personen of de instellingen, vermeld in paragraaf 3, eerste lid, toegang hebben.<br>
+&nbsp;<br>
+De Vlaamse Regering kan bepalen welke gegevens als vermeld in paragraaf 1 kunnen worden uitgewisseld tussen of met andere overheidsinstanties en entiteiten die belast zijn met een taak van openbaar belang ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan, en voor welke doeleinden, vermeld in paragraaf 2. De Vlaamse Regering kan de voorwaarden en nadere regels voor de gegevensuitwisseling bepalen.<br>
+<br>
+§5. De Vlaamse Regering stelt de maximale bewaartermijn van de gegevens vast. De persoonsgegevens die verbonden zijn aan een erkenning of goedkeuring worden niet langer bewaard dan vijf jaar nadat de geldigheid van die erkenning of goedkeuring is verstreken. Persoonsgegevens die geen betrekking hebben op een erkenning of goedkeuring kunnen worden bewaard gedurende de levensloop van de betrokken persoon of tot op het moment dat de instelling de activiteiten vrijwillig of onvrijwillig stopzet. De gegevens van een dossier over de handhaving van dit decreet en de uitvoeringsbesluiten ervan worden niet langer bewaard dan twintig jaar na vaststelling van de inbreuk. De persoonsgegevens worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
+<br>
+§6. Het bestuur is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ## HOOFDSTUK 6 Wijziging van het Gerechtelijk Wetboek
 
