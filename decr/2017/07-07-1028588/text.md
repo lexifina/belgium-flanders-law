@@ -681,7 +681,7 @@ De financiële bijdrage, vermeld in het eerste lid, wordt uitsluitend gevraagd a
 <br>
 § 2. De Vlaamse Regering kan de lijst, vermeld in § 1, uitbreiden met initiatieven en projecten die een bijzonder belang voor het onderwijs vertonen.<br>
 <br>
-§ 3. De Vlaamse Regering stelt voor de verloven wegens bijzondere opdracht de nadere modaliteiten vast. Het totale aantal verloven wegens bijzondere opdracht, vermeld in paragraaf 1, 11°, wordt voor het gemeenschaps- en het gesubsidieerd onderwijs samen vastgelegd op maximaal 42 voltijdsequivalenten, waarvan er minimaal 12 voltijdsequivalenten worden voorbehouden voor het gemeenschapsonderwijs en de representatieve groeperingen van inrichtende machten.
+§ 3. De Vlaamse Regering stelt voor de verloven wegens bijzondere opdracht de nadere modaliteiten vast. Het totale aantal verloven wegens bijzondere opdracht, vermeld in paragraaf 1, 11°, wordt voor het gemeenschaps- en het gesubsidieerd onderwijs samen vastgelegd op maximaal 25,5 voltijdsequivalenten, waarvan er minimaal 12 voltijdsequivalenten worden voorbehouden voor het gemeenschapsonderwijs en de representatieve groeperingen van inrichtende machten.
 
 ## HOOFDSTUK 13 Re-integratie
 
