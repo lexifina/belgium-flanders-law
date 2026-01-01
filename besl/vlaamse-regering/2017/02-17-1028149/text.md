@@ -533,7 +533,7 @@ De hoge intensiteit van coaching door de werkvloerbegeleider omvat:<br>
 1° een forfaitair aandeel van de begeleidingsvergoeding, ter compensatie van de taken, vermeld in artikel 15, tweede lid, 1°, 3°, 4°, en 6°, van het decreet van 12 juli 2013;<br>
 2° een variabel aandeel van de begeleidingspremie, naar gelang van de begeleidingsgraad die van toepassing is, ter compensatie van de taken, vermeld in artikel 15, tweede lid, 2° en 5°, van het voormelde decreet.<br>
 <br>
-§ 2. Het forfaitaire aandeel van de begeleidingsvergoeding, vermeld in paragraaf 1, 1°, bedraagt 506,94 euro op kwartaalbasis, uitbetaald per tewerkgestelde doelgroepwerknemer met loonkosten in het kwartaal in kwestie, ongeacht zijn contractuele prestatiebreuk, als het aantal doelgroepwerknemers het aantal toegekende voltijds equivalenten per werkplaats, verhoogd met de factor 1,15, niet overschrijdt.<br>
+§ 2. Het forfaitaire aandeel van de begeleidingsvergoeding, vermeld in paragraaf 1, 1°, bedraagt 537,92 euro op kwartaalbasis, uitbetaald per tewerkgestelde doelgroepwerknemer met loonkosten in het kwartaal in kwestie, ongeacht zijn contractuele prestatiebreuk, als het aantal doelgroepwerknemers het aantal toegekende voltijds equivalenten per werkplaats, verhoogd met de factor 1,30, niet overschrijdt.<br>
 <br>
 Het variabele aandeel van de begeleidingspremie, vermeld in paragraaf 1, 2°, wordt uitbetaald per tewerkgestelde doelgroepwerknemer met loonkosten in het kwartaal in kwestie, rekening houdend met zijn contractuele prestatiebreuk en voor zover het toegekende aantal voltijdsequivalente eenheden het aantal toegekende voltijdsequivalenten per werkplaats niet overschrijdt.<br>
 <br>
@@ -595,7 +595,7 @@ De minister kan de diplomavoorwaarde, vermeld in het eerste lid, 2°, uitbreiden
 
 De subsidie voor organisatieondersteunende maatregelen wordt uitbetaald volgens de volgende voorwaarden:<br>
 1° het maatwerkbedrijf ontvangt per kwartaal een organisatiesubsidie naar rato van het aantal tewerkgestelde voltijdsequivalenten van doelgroepwerknemers als vermeld in artikel 12, tweede lid, met loonkosten in het kwartaal in kwestie, waarbij het aantal in rekening te nemen voltijdsequivalenten van doelgroepwerknemers nooit hoger kan zijn dan de toegekende capaciteit voor het kwartaal in kwestie;<br>
-2° de subsidie bestaat uit een basisbedrag van 757,14 euro per kwartaal per voltijdsequivalent van een tewerkgestelde doelgroepwerknemer als vermeld in artikel 12, tweede lid.<br>
+2° de subsidie bestaat uit een basisbedrag van 842,22 euro per kwartaal per voltijdsequivalent van een tewerkgestelde doelgroepwerknemer als vermeld in artikel 12, tweede lid.<br>
 <br>
 Het basisbedrag, vermeld in het eerste lid, wordt verhoogd voor de eerste tot en met de honderdste voltijdsequivalent van een tewerkgestelde doelgroepwerknemer als vermeld in artikel 12, tweede lid, met 76,50 euro per voltijdsequivalent per kwartaal.
 
