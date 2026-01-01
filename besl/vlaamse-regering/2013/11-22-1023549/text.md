@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder :<br>
 6° inclusieve kinderopvang : de kinderopvang van een kind met een specifieke zorgbehoefte samen met kinderen zonder specifieke zorgbehoefte;<br>
 7° inkomen : het gezamenlijk belastbaar inkomen voor de aftrekbare bestedingen;<br>
 7° /1 inwonende persoon: een persoon met domicilie op hetzelfde adres als de contracthouder die in aanmerking wordt genomen voor de toepassing van het inkomenstarief. Het adres is het adres dat is opgenomen in het Rijksregister en ter beschikking wordt gesteld door de Kruispuntbank;<br>
-7° /2 kind ten laste: een kind voor wie de contracthouder of de inwonende persoon financiële verantwoordelijkheid draagt, tot het einde van het kalenderjaar waarin het kind twaalf jaar wordt;<br>
+7° /2 kind ten laste: een kind voor wie de contracthouder of de inwonende persoon financiële verantwoordelijkheid draagt, tot de eerstvolgende 30 september nadat het kind 30 maanden is geworden;<br>
 8° kinderen met een specifieke zorgbehoefte : de kinderen die door medische of psychosociale problemen meer intensieve zorgen nodig hebben;<br>
 9° kinderopvangprestatie : de aanwezigheid van een kind per dag per kinderopvanglocatie;<br>
 9° /0 kleuteropvang: kleuteropvang met een kwaliteitslabel, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang;<br>
@@ -955,7 +955,7 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt 
 
 ### ART. 60.
 
-<p>...</p>
+<p>In afwijking van artikel 1, 7°/2, wordt voor het attest inkomenstarief, dat betrekking heeft op opvang die gestart is vóór 1 januari 2026, onder een kind ten laste verstaan: een kind voor wie de contracthouder of de inwonende persoon financiële verantwoordelijkheid draagt, tot het einde van het kalenderjaar waarin het kind 12 jaar is geworden.</p>
 
 ### ART. 61.
 
