@@ -226,11 +226,19 @@ In het vierde lid wordt verstaan onder begeleiding: de algemene psychosociale on
 <br>
 § 6. Het is niet mogelijk om het PAB te combineren met bijstand die al wordt gesubsidieerd krachtens andere reglementering op het gebied van de maatschappelijk integratie van personen met een handicap.<br>
 <br>
-In afwijking van het eerste lid is het mogelijk om het PAB te combineren met de bijstand die wordt verleend door een multifunctioneel centrum en die bestaat uit schoolaanvullende dagopvang of schoolvervangende dagopvang. De activiteiten van de assistent mogen daarbij niet overlappen met de bijstand die wordt verleend door het multifunctioneel centrum. Het toegekende PAB wordt verminderd met het percentage dat het resultaat is van:<br>
-1° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi- internaat voor schoolgaanden, als de persoon met een handicap het PAB combineert met schoolaanvullende dagopvang in een multifunctioneel centrum;<br>
-2° de verhouding tussen de kostprijs van volledige residentiële opvang in een internaat en de kostprijs van de bijstand die wordt verleend door een semi- internaat voor niet-schoolgaanden, als de persoon met een handicap het PAB combineert met schoolvervangende dagopvang in een multifunctioneel centrum.<br>
+In afwijking van het eerste lid is het mogelijk om het PAB te combineren met de bijstand die wordt verleend door een multifunctioneel centrum en die bestaat uit maximaal vijf dagen per week schoolaanvullende dagopvang of schoolvervangende dagopvang. De activiteiten van de assistent mogen daarbij niet overlappen met de bijstand die wordt verleend door het multifunctioneel centrum. Bij de combinatie met bijstand die wordt verleend door een multifunctioneel centrum wordt het toegekende PAB verminderd.<br>
 <br>
-De kostprijs, vermeld in het tweede lid, is de kostprijs van het werkingsjaar 2014.<br>
+In deze paragraaf wordt verstaan onder begeleidingsovereenkomst: begeleidingsovereenkomst als vermeld in artikel 34, eerste lid, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.<br>
+<br>
+De vermindering van het PAB, vermeld in het tweede lid, wordt toegepast voor de duur van de begeleidingsovereenkomst met het multifunctioneel centrum en op basis van de ondersteuningsfunctie en frequentie die is overeengekomen. De frequentie wordt als vork per ondersteuningsfunctie geregistreerd conform artikel 34 en 35 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.<br>
+<br>
+Het multifunctioneel centrum registreert de begeleidingsovereenkomst binnen zeven dagen na de start van de bijstand. Het PAB wordt op basis van de registratie verminderd tot het bedrag dat overeenstemt met de geregistreerde vork per ondersteuningsfunctie, vermeld in de tabellen die zijn opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+De bedragen, vermeld in de tabellen die zijn opgenomen in de bijlage die bij dit besluit is gevoegd, worden jaarlijks aangepast conform artikel 9, §1.<br>
+<br>
+Als bij controle blijkt dat een situatie als vermeld in artikel 34, tweede lid, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, zich voordoet, leidt de aanpassing van de begeleidingsovereenkomst tot een aanpassing van de vermindering van het PAB voor het lopende budgetjaar.<br>
+<br>
+Als bij een controle blijkt dat de geregistreerde ondersteuningsfunctie en frequentie niet overeenstemmen met die in de begeleidingsovereenkomst, leidt de aanpassing van de registratie tot een aanpassing van de vermindering van het PAB voor het lopende budgetjaar.<br>
 <br>
 Het PAB kan ook worden gecombineerd met voorzieningen voor welzijn, tewerkstelling, beroepsopleiding of vrijetijdsbesteding die door de federale of regionale overheden gesubsidieerd worden, als het voorzieningen betreft die een soortgelijke ondersteuning bieden als de ondersteuning, vermeld in het tweede lid.<br>
 <br>
@@ -422,3 +430,193 @@ Dit besluit treedt in werking op 1 januari 2001.
 ### ART. 26.
 
 De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+
+### Bijlage
+
+Bijlage. Tabellen als vermeld in artikel 10, §6<br>
+<br>
+Combinatie met schoolaanvullende dagopvang:
+<table cellspacing="0" style="border-collapse:collapse; width:1080px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; height:47px; text-align:center; vertical-align:middle; width:83px">bedrag van het PAB</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">12.597,87</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">16.797,15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">20.996,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">25.195,72</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">29.395,02</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">33.594,30</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">37.793,59</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">41.992,87</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">46.192,17</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">50.391,44</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">54.590,74</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:47px; text-align:center; vertical-align:middle; width:83px">58.790,02</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">Vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">4 - 5 dagen per week</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">8.502,00</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">11.336,00</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">14.170,04</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">17.003,99</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">19.838,00</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">22.671,99</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">25.505,90</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">28.339,98</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">31.173,99</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">34.007,98</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">36.841,99</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">39.675,98</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">2 - 3 dagen per week</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">10.549,94</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">14.066,57</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">17.583,28</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">21.099,85</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">24.616,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">28.133,15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">31.649,79</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">35.166,43</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">38.683,08</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">42.199,71</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">45.716,36</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">49.233,00</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">2 - 4 dagen per maand</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">12.085,89</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">16.114,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">20.143,20</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">24.171,75</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">28.200,39</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">32.229,01</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">36.257,64</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">40.286,26</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">44.314,90</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">48.343,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">52.372,15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">56.400,76</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Combinatie met schoolvervangende dagopvang:
+<table cellspacing="0" style="border-collapse:collapse; width:1080px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; height:20px; text-align:center; vertical-align:middle; width:83px">bedrag van het PAB&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">12.597,87</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">16.797,15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">20.996,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">25.195,72</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">29.395,02</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">33.594,30</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">37.793,59</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">41.992,87</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">46.192,17</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">50.391,44</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">54.590,74</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:20px; text-align:center; vertical-align:middle; width:83px">58.790,02</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">Vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v.&nbsp; vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:92px; text-align:center; vertical-align:middle; width:83px">restbedrag PAB<br>
+			o.b.v. vorken</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">4 - 5 dagen per week</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">59.61,89</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">7.949,18</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">9.936,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">11.923,77</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">13.911,07</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">15.898,36</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">17.885,66</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">19.872,95</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">21.860,25</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">23.847,54</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">25.834,84</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">27.822,13</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">2 - 3 dagen per week</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">9.279,88</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">12.373,17</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">15.466,51</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">18.559,74</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">21.653,05</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">24.746,33</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">27.839,62</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">30.932,91</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">34.026,21</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">37.119,49</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">40.212,79</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">43.306,08</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">2 - 4 dagen per maand</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">11.768,37</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">15691,15</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">19.614,01</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">23.536,73</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">27.459,53</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">31.382,31</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">35.305,10</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">39.227,88</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">43.150,68</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">47.073,45</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">50.996,25</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; text-align:center; vertical-align:middle; width:83px">54.919,03</td>
+		</tr>
+	</tbody>
+</table>
