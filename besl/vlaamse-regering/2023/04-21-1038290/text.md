@@ -86,7 +86,7 @@ De verbintenis die wordt afgesloten voor de maatregel, vermeld in het eerste lid
 §1. De landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 1°, afhankelijk van de beschikbare begrotingskredieten, een subsidie verkrijgen van maximaal 75% van de kosten voor het planten van de bomen op landbouwpercelen.&nbsp;<br>
 <br>
 §2. De volgende kosten voor het planten van de bomen komen in aanmerking voor de subsidie, vermeld in de eerste paragraaf:<br>
-1° de aankoopkosten van de bomen;<br>
+1° ze worden aangetoond met factuur en betalingsbewijs. De factuur- en de betalingsdatum vallen niet vroeger dan de datum van de steunaanvraag, vermeld in artikel 8;<br>
 2° de kosten voor de arbeid en het machinale werk voor het planten, verstevigen en beschermen van de bomen;<br>
 3° de aankoopkosten voor verstevigings- en beschermingsmateriaal van de bomen.<br>
 <br>
@@ -249,7 +249,7 @@ De bevoegde entiteit kan, bovenop de administratieve sancties als vermeld in art
 § 1. De landbouwer kan voor de maatregel, vermeld in artikel 3, eerste lid, 2°, afhankelijk van de beschikbare begrotingskredieten, jaarlijks een subsidie verkrijgen van maximaal 270 euro per hectare voor het onderhoud van een boslandbouwsysteem.&nbsp;<br>
 <br>
 §2. Een boslandbouwsysteem komt in aanmerking voor de subsidie, vermeld in paragraaf 1, als aan al de volgende voorwaarden is voldaan:<br>
-1° het boslandbouwperceel in kwestie voldoet aan de voorwaarden voor de maatregel aanplant van het boslandbouwsysteem, vermeld in artikel 7, paragraaf 1 en 2;<br>
+1° het boslandbouwperceel in kwestie voldoet aan de voorwaarden voor de maatregel aanplant van het boslandbouwsysteem, vermeld in artikel 7, §1, §2 en §3, 3°;<br>
 2° de bomen worden jaarlijks gesnoeid om kwaliteitshout te verkrijgen of om fruitproductie te stimuleren;&nbsp;<br>
 3° de snoei, vermeld in punt 2°, moet duidelijk zichtbaar zijn op het terrein;&nbsp;<br>
 4° de strook tussen de bomen in de bomenrij of de zone rond de bomen wordt beheerd om de groei van de bomen niet te hinderen. Die strook of zone mag niet worden behandeld met herbiciden. De zone wordt begrensd door de straal van de boomkruin in kwestie;&nbsp;<br>
