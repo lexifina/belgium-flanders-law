@@ -3253,10 +3253,6 @@ De gemeenten houden een register bij van alle onbebouwde percelen gelegen in het
 <br>
 De Vlaamse Regering kan nadere regels bepalen met betrekking tot de opmaak en de actualisering van het register van de onbebouwde percelen.<br>
 <br>
-De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen aan provincies en gemeenten als tegemoetkoming voor de actualisatie van de inventaris van de onbebouwde percelen. Om in aanmerking te komen moet een gemeente beschikken over een registratiesysteem, een eerste geactualiseerde inventaris en een overzicht van de gronden en panden die ze in eigendom heeft, met vermelding van het gebruik ervan.<br>
-<br>
-De Vlaamse Regering bepaalt de overige voorwaarden waaronder die subsidies kunnen worden verleend.<br>
-<br>
 De Vlaamse Regering kan de specifieke wijze bepalen waarop artikel 335 van het decreet van 22 december 2017 over het lokaal bestuur vervangen door de zinsnede "artikel 470 van het decreet van 22 december 2017 over het lokaal bestuur, respectievelijk artikel 470 van het decreet van 22 december 2017 over het lokaal bestuur, geoperationaliseerd wordt indien het gemeentebestuur of het intergemeentelijk samenwerkingsverband, vermeld in het eerste lid, zich niet gedraagt naar de bij of krachtens dit artikel voorgeschreven regelen.
 
 ## Onderafdeling 2 Fiscale bepalingen
