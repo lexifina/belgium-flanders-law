@@ -57,6 +57,7 @@ Voor de toepassing van de bepalingen opgenomen in de codificatie betreffende het
 1°/2 afzondering: het verblijf van een persoon in een ruimte, die de persoon<br>
 niet zelfstandig kan verlaten;<br>
 1°/3 afzonderingskamer: een specifieke, veilig ingerichte, hoog beveiligde ruimte, die de persoon niet zelfstandig kan verlaten;<br>
+1°/4 Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen: het agentschap, opgericht bij besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
 2° algemeen vormende component : het deel van het opleidingsprofiel dat tot doel heeft een lerende persoonsvorming en een maatschappelijk-culturele vorming bij te brengen;<br>
 2° /1 anderstalige nieuwkomer :<br>
 a) in het voltijds gewoon secundair onderwijs : een leerling die&nbsp;gelijktijdig aan de volgende voorwaarden voldoet :<br>
@@ -96,7 +97,7 @@ c) in het voltijds gewoon secundair onderwijs en het deeltijds beroepssecundair 
 14°/0/0 feedbackrapport: een rapport met de resultaten op de Vlaamse toetsen op het schoolniveau, het niveau van de leerlingengroep of het leerlingniveau;<br>
 14°/0/0/1 fixatie: elke handeling of elk gebruik van materiaal die de bewegingsvrijheid van een persoon beperkt, verhindert of belemmert, waarbij de persoon niet zelfstandig zijn bewegingsvrijheid kan herwinnen;<br>
 14°/0/1 GC-verslag: een verslag gemeenschappelijk curriculum, een verslag dat toegang geeft tot leersteun bij een gemeenschappelijk curriculum als vermeld in artikel 352 van deze codex;<br>
-14° /1 gemeenschappelijk curriculum: de goedgekeurde leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de eindtermen te bereiken of de ontwikkelingsdoelen na te streven en de schoolgebonden planning voor het nastreven van de vakoverschrijdende eindtermen en ontwikkelingsdoelen;<br>
+14°/1 gemeenschappelijk curriculum: de leerplannen die ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de eindtermen te bereiken of de ontwikkelingsdoelen na te streven;<br>
 14° /2 ...;<br>
 14°/3 Gemeenschappelijk Europees Referentiekader voor Talen: de Nederlandstalige vertaling van het door de Raad van Europa gepubliceerde Common European Framework of Reference for Languages (CEFR);<br>
 15° hoofdvestigingsplaats : vestigingsplaats waar de administratieve zetel van de school wordt ondergebracht;<br>
@@ -311,7 +312,7 @@ Deze paragraaf geldt niet voor een school die wordt opgericht.
 11° als school in het geheel van haar werking de internationaalrechtelijke en grondwettelijke beginselen op het gebied van de rechten van de mens en van het kind in het bijzonder eerbiedigen;<br>
 12° voor wat het gemeenschapsonderwijs en het gesubsidieerd officieel onderwijs betreft :<br>
 a) een open karakter hebben door open te staan voor alle leerlingen, ongeacht de ideologische, filosofische of godsdienstige opvattingen van de ouders en de leerling;<br>
-b) de leerplannen volgen van het Gemeenschapsonderwijs, het Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap of het Provinciaal Onderwijs Vlaanderen, of eigen leerplannen volgen die ermee verenigbaar zijn vanaf een door de Vlaamse Regering te bepalen datum;<br>
+b) ...;<br>
 c) een schoolwerkplan, schoolreglement en schoolboeken gebruiken in overeenstemming met het open karakter vermeld in punt a);<br>
 d) begeleid worden door de begeleidingsdienst van het Gemeenschapsonderwijs, het Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap of het Provinciaal Onderwijs Vlaanderen vanaf een door de Vlaamse Regering te bepalen datum;<br>
 13° voldoen aan de reglementaire programmatie- of rationalisatienormen;<br>
@@ -323,7 +324,7 @@ Dit punt is niet van toepassing op ziekenhuisscholen en op leersteuncentra die d
 18° uitsluitend voor het deeltijds beroepssecundair onderwijs : deelnemen aan en samenwerken binnen een of meer overlegfora als vermeld in artikel 357/32 van de Codex Secundair Onderwijs van 17 december 2010;<br>
 19° uitsluitend voor het deeltijds beroepssecundair onderwijs : maximale inspanningen leveren om het voltijds engagement voor elke jongere te realiseren;<br>
 20° een doeltreffend beleid voert om het rookverbod, bedoeld in het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding, kenbaar te maken en te handhaven, controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid zoals vermeld in het school-, centrum- of arbeidsreglement;<br>
-21° beantwoorden aan de decretale en reglementaire bepalingen betreffende de organisatie van het onderwijs;<br>
+21° een kwaliteitsbeleid voeren als vermeld in artikel 4, §2, eerste lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, met het oog op het tegemoetkomen aan het referentiekader voor onderwijskwaliteit;<br>
 22° een doeltreffend beleid voert om het verbod op het gebruik van slimme apparaten bekend te maken en te handhaven, controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid opgenomen in het school- of centrumreglement.<br>
 <br>
 § 2. Alleen voor een structuuronderdeel gewoon of buitengewoon secundair onderwijs dat wordt opgericht in het kader van de oprichting van een school die niet het gevolg is van een herstructurering van bestaande scholen, dient het schoolbestuur, uiterlijk op 1 april voorafgaand aan de oprichting, een aanvraag tot financiering of subsidiëring in bij het Agentschap voor Onderwijsdiensten. Die termijn geldt als vervaltermijn. De Vlaamse Regering legt het model van het formulier voor de voormelde aanvraag vast.<br>
@@ -1132,7 +1133,7 @@ De Vlaamse Regering bepaalt de lijst van structuuronderdelen die onder de invest
 <br>
 Om voor extra middelen in aanmerking te kunnen komen, moeten de betrokken scholen een investeringsplan opstellen. Het investeringsplan moet voldoen aan de door de Vlaamse Regering vastgelegde, minimale onderdelen.<br>
 <br>
-§ 3. De beoordeling van de ingediende investeringsplannen gebeurt door een commissie die paritair is samengesteld uit drie afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming en twee afgevaardigden van de onderwijsinspectie, enerzijds, en één afgevaardigde per onderwijsnet, voorgedragen door het Gemeenschapsonderwijs en de betrokken representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs, en één afgevaardigde van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, anderzijds.<br>
+§ 3. De beoordeling van de ingediende investeringsplannen gebeurt door een commissie die paritair is samengesteld uit vijf afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming, enerzijds, en één afgevaardigde per onderwijsnet, voorgedragen door het Gemeenschapsonderwijs en de betrokken representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs, en één afgevaardigde van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, anderzijds.<br>
 <br>
 De commissie stelt haar huishoudelijk reglement op en kan experten toelaten tot de vergadering.<br>
 <br>
@@ -1291,11 +1292,11 @@ c)&nbsp;&nbsp; &nbsp;hetzij het te weinig organiseren van studiedomeinen of stud
 <br>
 Na gemotiveerde aanvraag van het betrokken schoolbestuur, kan de Vlaamse Regering volgens het hierna vermeld criterium afwijking verlenen van de bepalingen van het eerste lid :<br>
 <br>
-De scholengemeenschap bestaat uitsluitend uit scholen van het gesubsidieerd vrij onderwijs, met dien verstande dat elk van bedoelde scholen beantwoordt aan de voorwaarde de enige school van het gesubsidieerd vrij onderwijs te zijn in één der 44 onderwijszones vastgelegd in bijlage I, die bij deze codex is gevoegd, die een bepaalde erkende godsdienst organiseert of levensbeschouwing aanhangt. Bij de toepassing van de voorwaarde "enige school" worden de scholen die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseren, én enkel eigen leerplannen van het schoolbestuur hanteren die door de Vlaamse Regering zijn goedgekeurd, buiten beschouwing gelaten.<br>
+De scholengemeenschap bestaat uitsluitend uit scholen van het gesubsidieerd vrij onderwijs, met dien verstande dat elk van bedoelde scholen beantwoordt aan de voorwaarde de enige school van het gesubsidieerd vrij onderwijs te zijn in één der 44 onderwijszones vastgelegd in bijlage I, die bij deze codex is gevoegd, die een bepaalde erkende godsdienst organiseert of levensbeschouwing aanhangt. Bij de toepassing van de voorwaarde "enige school" worden de scholen die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseren, én behoren tot een schoolbestuur dat uitsluitend leerplannen hanteert die het schoolbestuur zelf heeft ontwikkeld en die uitsluitend binnen dat schoolbestuur van toepassing zijn, buiten beschouwing gelaten.<br>
 <br>
 Na gemotiveerde aanvraag van het betrokken schoolbestuur, kan de Vlaamse Regering volgens het hierna vermeld criterium afwijking verlenen van de bepalingen van het eerste lid.<br>
 <br>
-De scholengemeenschap bestaat uitsluitend uit scholen van het gesubsidieerd vrij onderwijs, met dien verstande dat elk van bedoelde scholen beantwoordt aan de voorwaarden noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie te organiseren, én uitsluitend eigen leerplannen van het schoolbestuur te hanteren die door de Vlaamse Regering zijn goedgekeurd. (53)
+De scholengemeenschap bestaat uitsluitend uit scholen van het gesubsidieerd vrij onderwijs, met dien verstande dat elk van bedoelde scholen beantwoordt aan de voorwaarden noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie te organiseren, én te behoren tot een schoolbestuur dat uitsluitend leerplannen hanteert die het schoolbestuur zelf heeft ontwikkeld en die uitsluitend binnen dat schoolbestuur van toepassing zijn. (53)
 
 ### ART. 55.
 
@@ -3626,7 +3627,7 @@ De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria:<br>
 a) gebeurt onder de vorm van eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen of specifieke eindtermen, naargelang van het geval;<br>
 b) laat toe om na te gaan in welke mate bij een leerlingenpopulatie of een leerling eindtermen, uitbreidingsdoelen Nederlands of specifieke eindtermen worden bereikt of bij een leerlingenpopulatie ontwikkelingsdoelen worden nagestreefd.<br>
 <br>
-Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid wordt het gemotiveerd advies ingewonnen van een commissie van deskundigen en de onderwijsinspectie en wordt telkens de aanvrager gehoord. De Vlaamse Regering bepaalt de verdere regels voor de samenstelling van de commissie van deskundigen en van de procedure.<br>
+Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid wordt het gemotiveerd advies ingewonnen van een commissie van deskundigen en van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen en wordt telkens de aanvrager gehoord. De Vlaamse Regering bepaalt de verdere regels voor de samenstelling van de commissie van deskundigen en van de procedure.<br>
 <br>
 § 4. De vervangende eindtermen, uitbreidingsdoelen Nederlands, ontwikkelingsdoelen of specifieke eindtermen die door de Vlaamse Regering ontvankelijk en gelijkwaardig zijn beoordeeld, worden binnen zes maanden ter goedkeuring ingediend bij het Vlaams Parlement.<br>
 <br>
@@ -3678,7 +3679,7 @@ De doelen van een aanloopstructuuronderdeel worden opgenomen in het curriculumdo
 1° het bereiken van de doelen van het curriculumdossier van het structuuronderdeel in kwestie;<br>
 2° het nastreven van de ontwikkelingsdoelen van het onthaaljaar.<br>
 <br>
-De onderwijsinspectie baseert zich bij de doorlichting op de doelen die van toepassing zijn tijdens het schooljaar van de doorlichting en op die van het daaraan voorafgaande schooljaar. Waar echter een curriculumdossier nog niet of nog niet volledig van toepassing is, wordt de doorlichting gebaseerd op de volgende, naargelang van het structuuronderdeel of structuuronderdelen, toepasbare doelen: de eindtermen, de ontwikkelingsdoelen, de specifieke eindtermen, de doelen leidend tot erkende beroepskwalificaties en de leerplannen.
+De onderwijsinspectie baseert zich bij de doorlichting op de doelen die van toepassing zijn tijdens het schooljaar van de doorlichting en op die van het daaraan voorafgaande schooljaar. Waar echter een curriculumdossier nog niet of nog niet volledig van toepassing is, wordt de doorlichting gebaseerd op de volgende, naargelang van het structuuronderdeel of structuuronderdelen, toepasbare doelen: de eindtermen, de ontwikkelingsdoelen, de specifieke eindtermen en de doelen die leiden tot erkende beroepskwalificaties.
 
 ### ART 147/2.
 
@@ -3698,21 +3699,23 @@ De Vlaamse Regering bepaalt:<br>
 
 ### ART 147/3.
 
-§ 1. In aansluiting op de curriculumdossiers die door de Vlaamse Regering zijn goedgekeurd, worden door het schoolbestuur in omvang beperkte leerplannen ontwikkeld die voldoende ruimte laten voor de inbreng van scholen, leraren, lerarenteams of leerlingen.<br>
+§1. In aansluiting op de curriculumdossiers die door de Vlaamse Regering zijn goedgekeurd, worden door het schoolbestuur in omvang beperkte leerplannen ontwikkeld die voldoende ruimte laten voor de inbreng van scholen, leraren, lerarenteams of leerlingen.<br>
 <br>
-In de leerplannen zijn in elk geval alle betrokken, door het Vlaams Parlement goedgekeurde eindtermen letterlijk opgenomen, waarbij transparant het onderscheid gemaakt wordt welke doelen de eindtermen realiseren en met welke doelen de ontwikkelingsdoelen worden nagestreefd. De leerplannen zijn voor de onderwijsinspectie een aanvullend instrument om het kwaliteitsbeleid van een school te kaderen.<br>
+In de leerplannen, vermeld in het eerste lid, zijn in elk geval alle betrokken eindtermen die het Vlaams Parlement heeft goedgekeurd, letterlijk opgenomen. Het leerplan bevat een concordantietabel met de overeenkomst tussen de onderwijsdoelen vastgelegd bij decreet of besluit, en de leerplandoelen.<br>
 <br>
-Leerplannen worden door de onderwijsverstrekkers ingediend bij de onderwijsinspectie. Met het oog op het waarborgen van het studiepeil keurt de Vlaamse Regering volgens de vooraf door haar bepaalde criteria en op advies van de onderwijsinspectie, de leerplannen goed.<br>
+Leerplannen worden ter goedkeuring voorgelegd aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. Voormeld agentschap toetst of de onderwijsdoelen vastgelegd bij decreet of besluit volledig en correct zijn omgezet in het leerplan en dit plan geen elementen bevat die tegenstrijdig zijn met de onderwijsdoelen vastgelegd bij decreet of besluit.<br>
 <br>
-§ 2. In afwijking op paragraaf 1, vormen curriculumdossiers niet de basis voor het opstellen van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie en dienen deze leerplannen niet door de Vlaamse Regering te worden goedgekeurd. Deze leerplannen worden publiek bekendgemaakt.<br>
+De Vlaamse Regering kan nadere bepalingen vastleggen met betrekking tot de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen. Leerplannen zijn een aanvullend instrument voor de onderwijsinspectie om het kwaliteitsbeleid van een school te kaderen.<br>
 <br>
-In afwijking van paragraaf 1, derde lid, mag in het schooljaar 2024-2025 een schoolbestuur in de eerste graad secundair onderwijs leerplannen toepassen die aansluiten bij de onderwijsdoelen van het decreet van 17 mei 2024 zonder dat die leerplannen door de Vlaamse Regering zijn goedgekeurd.<br>
+§2. In afwijking van paragraaf 1 vormen curriculumdossiers niet de basis voor het opstellen van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie en kunnen die leerplannen niet voor advies worden voorgelegd aan het agentschap, vermeld in paragraaf 1, derde lid.<br>
 <br>
-§ 3. Alle leerplannen, met inbegrip van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing of eigen cultuur en religie zijn in overeenstemming met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en respecteren de goedgekeurde eindtermen en ontwikkelingsdoelen. De leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie respecteren tevens de interlevensbeschouwelijke competenties.<br>
+De leerplannen, vermeld in het eerste lid, worden publiek bekendgemaakt.<br>
+<br>
+§3. Alle leerplannen, met inbegrip van de leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing of eigen cultuur en religie zijn in overeenstemming met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en respecteren de goedgekeurde eindtermen en ontwikkelingsdoelen. De leerplannen godsdienst, niet-confessionele zedenleer, cultuurbeschouwing en eigen cultuur en religie respecteren tevens de interlevensbeschouwelijke competenties.<br>
 <br>
 De directeur kan de levensbeschouwelijke leerlingengroepen tijdens de levensbeschouwelijke les bezoeken om administratieve redenen, om algemeen pedagogische redenen, om na te gaan of de grondwettelijke rechten en vrijheden gevrijwaard worden of voor een bespreking met de leerlingen. De directeur - of een ander personeelslid dat aangesteld is als evaluator - kan de les ook bijwonen, gelet op zijn bevoegdheid als evaluator voor niet-vakinhoudelijke en niet-vaktechnische aspecten.<br>
 <br>
-§ 4. Over het in overeenstemming zijn met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en het respecteren van de goedgekeurde eindtermen en ontwikkelingsdoelen, evenals over de uitvoering van de leerplannen, wordt jaarlijks aan het Vlaams Parlement een stand van zaken gerapporteerd door:<br>
+§4. Over het in overeenstemming zijn met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en het respecteren van de goedgekeurde eindtermen en ontwikkelingsdoelen, evenals over de uitvoering van de leerplannen, wordt jaarlijks aan het Vlaams Parlement een stand van zaken gerapporteerd door:<br>
 1° de onderwijsinspectie bedoeld in het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken: over de leerplannen godsdienst en niet-confessionele zedenleer; met inbegrip van de interlevensbeschouwelijke competenties;<br>
 2° de onderwijsinspectie bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs: over de leerplannen cultuurbeschouwing en eigen cultuur en religie.
 
@@ -4113,7 +4116,7 @@ Voor cursussen godsdienst of niet-confessionele zedenleer geldt een eigen regeli
 3° de enige school van het gesubsidieerd vrij onderwijs in één der bedoelde onderwijszones die een bepaalde erkende godsdienst organiseert of levensbeschouwing aanhangt;<br>
 4° een school van het gesubsidieerd vrij onderwijs :<br>
 a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert, en<br>
-b) waarvoor het schoolbestuur uitsluitend eigen leerplannen hanteert die door de Vlaamse Regering zijn goedgekeurd.<br>
+b) die uitsluitend leerplannen hanteert die het schoolbestuur zelf heeft ontwikkeld en die uitsluitend binnen dat schoolbestuur van toepassing zijn.<br>
 <br>
 Bij de toepassing van 3° worden de scholen ressorterend onder 4° buiten beschouwing gelaten.<br>
 <br>
@@ -4204,7 +4207,7 @@ De motivering van de aanvraag, vermeld in het eerste lid, houdt in elk geval rek
 2° als de school tot een scholengemeenschap behoort: een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
 <br>
 De Vlaamse Regering beslist over de programmatie na advies van de volgende instanties:<br>
-1°&nbsp;&nbsp; &nbsp;de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
+1°&nbsp; &nbsp; de bevoegde diensten van de Vlaamse Gemeenschap;<br>
 2°&nbsp;&nbsp; &nbsp;de Vlaamse Onderwijsraad;<br>
 3°&nbsp;&nbsp; &nbsp;in geval van een structuuronderdeel met dubbele finaliteit of finaliteit arbeidsmarkt: de Sociaal-Economische Raad van Vlaanderen.<br>
 <br>
@@ -4255,13 +4258,13 @@ De Vlaamse Regering bepaalt de structuuronderdelen die gericht zijn op knelpuntb
 
 Voor de programmatie van het onthaaljaar voor anderstalige nieuwkomers gelden de volgende bepalingen:<br>
 1° de programmatie wordt per scholengemeenschap bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aangevraagd uiterlijk op 1 mei van het voorafgaande schooljaar. Bij die aanvraag wordt het protocol gevoegd van de onderhandeling ter zake in het bevoegde lokaal comité van de scholengemeenschap;<br>
-2° na advies binnen tien werkdagen van enerzijds de Vlaamse Onderwijsraad en anderzijds de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap, neemt de Vlaamse Regering een beslissing over de programmatie.<br>
+2° na advies binnen tien werkdagen van enerzijds de Vlaamse Onderwijsraad en anderzijds de bevoegde diensten van de Vlaamse Gemeenschap, neemt de Vlaamse Regering een beslissing over de programmatie.<br>
 <br>
 Vanaf 1 november 2015 en tot op een door de Vlaamse Regering te bepalen datum worden de bepalingen van het tweede lid buiten werking gesteld en gelden voor de programmatie van het onthaaljaar voor anderstalige nieuwkomers de volgende bepalingen :<br>
 1° de programmatie wordt voorafgaand bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aangevraagd :<br>
 a) hetzij per scholengemeenschap; in dat geval wordt bij de aanvraag het protocol gevoegd van de onderhandeling ter zake in het bevoegde lokaal comité van de scholengemeenschap;<br>
 b) hetzij door het schoolbestuur per school die niet tot een scholengemeenschap behoort; in dat geval wordt bij de aanvraag het protocol gevoegd van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
-2° binnen tien werkdagen wordt een advies gegeven enerzijds door de Vlaamse Onderwijsraad en anderzijds door de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
+2° binnen tien werkdagen wordt een advies gegeven enerzijds door de Vlaamse Onderwijsraad en anderzijds door de bevoegde diensten van de Vlaamse Gemeenschap;<br>
 3° uiterlijk twee maanden na indiening van de aanvraag neemt de Vlaamse Regering een beslissing. Die beslissing is gebaseerd op de verwachte instroom van anderstalige nieuwkomers versus het al dan niet behoeftedekkend bestaande aanbod van onthaalonderwijs. Bij gunstige beslissing wordt tevens bepaald vanaf welk tijdstip het onthaaljaar kan worden opgericht.
 
 ### ART 179/4.
@@ -4372,7 +4375,7 @@ b) structuuronderdeel:<br>
 2)&nbsp;&nbsp; &nbsp;het hoger beroepsonderwijs;<br>
 2° een school van het gesubsidieerd vrij onderwijs :<br>
 a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert; en<br>
-b) waarvoor het schoolbestuur uitsluitend eigen leerplannen hanteert die door de Vlaamse Regering zijn goedgekeurd; en<br>
+b) die uitsluitend leerplannen hanteert die het schoolbestuur zelf heeft ontwikkeld en die uitsluitend binnen dat schoolbestuur van toepassing zijn; en<br>
 c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts één school organiseert. (191)
 
 ### ART. 193.
@@ -4381,7 +4384,20 @@ c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts 
 
 ### ART. 194.
 
-§ 1. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school die slechts unieke structuuronderdelen aanbiedt zoals bedoeld in artikel 192, § 3, 1°, als volgt vastgesteld : <br />1° met enkel een eerste graad : 37; <br />2° met een eerste + tweede graad : 67; <br />3° met een tweede + derde graad : 50; <br />4° met een eerste + tweede + derde graad : 87. <br /><br />§ 2. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school van het gesubsidieerd vrij onderwijs : <br />a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert; en <br />b) waarvoor het schoolbestuur uitsluitend eigen leerplannen hanteert die door de Vlaamse Regering zijn goedgekeurd; en <br />c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts één school organiseert, als volgt vastgesteld : <br />1° met enkel een eerste graad : 37; <br />2° met een eerste + tweede graad : 67; <br />3° met een tweede + derde graad : 50; <br />4° met een eerste + tweede + derde graad : 87. (193)
+§ 1. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school die slechts unieke structuuronderdelen aanbiedt zoals bedoeld in artikel 192, § 3, 1°, als volgt vastgesteld :<br>
+1° met enkel een eerste graad : 37;<br>
+2° met een eerste + tweede graad : 67;<br>
+3° met een tweede + derde graad : 50;<br>
+4° met een eerste + tweede + derde graad : 87.<br>
+<br>
+§ 2. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school van het gesubsidieerd vrij onderwijs :<br>
+a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert; en<br>
+b) die uitsluitend leerplannen hanteert die het schoolbestuur zelf heeft ontwikkeld en die uitsluitend binnen dat schoolbestuur van toepassing zijn; en<br>
+c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts één school organiseert, als volgt vastgesteld :<br>
+1° met enkel een eerste graad : 37;<br>
+2° met een eerste + tweede graad : 67;<br>
+3° met een tweede + derde graad : 50;<br>
+4° met een eerste + tweede + derde graad : 87. (193)
 
 ### ART. 195.
 
@@ -6540,17 +6556,17 @@ De examencommissie organiseert daartoe op permanente basis examens.
 
 ### ART. 256/3.
 
-§ 1. Onverminderd de examens die leiden tot het bewijs, vermeld in artikel 256/2, eerste lid, 5°, bepaalt de examencommissie over welke structuuronderdelen en onderliggende beroepskwalificaties van het voltijds secundair onderwijsaanbod, die de Vlaamse Regering vastlegt, examens kunnen worden afgelegd. De examencommissie houdt daarbij per structuuronderdeel en per onderliggende beroepskwalificatie ten minste rekening met de hiernavolgende criteria:<br>
+§1. Onverminderd de examens die leiden tot het bewijs, vermeld in artikel 256/2, eerste lid, 5°, bepaalt de examencommissie over welke structuuronderdelen en onderliggende beroepskwalificaties van het voltijds secundair onderwijsaanbod, die de Vlaamse Regering vastlegt, examens kunnen worden afgelegd. De examencommissie houdt daarbij per structuuronderdeel en per onderliggende beroepskwalificatie ten minste rekening met de hiernavolgende criteria:<br>
 1° de technische en praktische haalbaarheid van de organisatie van de examens;<br>
 2° de financiële kost van de organisatie van de examens;<br>
 3° het te verwachten aantal inschrijvingen van kandidaten;<br>
 4° de mate waarin een doorsnee kandidaat er zelfstandig in slaagt om zich afdoende op het examenprogramma voor te bereiden.<br>
 <br>
-§ 2. Het examenprogramma voor een structuuronderdeel is opgebouwd uit vakken. Het wordt ontwikkeld door de examencommissie, rekening houdend met de onderwijskwalificaties beschreven krachtens het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Bij ontstentenis van de onderwijskwalificaties worden als referentiekader voor de ontwikkeling van een examenprogramma, in voorkomend geval, de eindtermen, de doelen of de minimale leerinhouden die zijn bepaald in federale of Vlaamse wet-, decreet- of regelgeving, gehanteerd.<br>
+§2. Het examenprogramma voor een structuuronderdeel is opgebouwd uit vakken en wordt ontwikkeld door de examencommissie. Voor structuuronderdelen die leiden tot een onderwijskwalificatie wordt bij de ontwikkeling rekening gehouden met de onderwijskwalificaties beschreven krachtens het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Voor structuuronderdelen die niet leiden tot een onderwijskwalificatie, worden als referentiekader voor de ontwikkeling, in voorkomend geval, de eindtermen, de doelen of de minimale leerinhouden, vermeld in Vlaamse regelgeving, gehanteerd.<br>
 <br>
-Elk examenprogramma dient, voorafgaand aan de invoering, door de onderwijsinspectie te worden goedgekeurd. De onderwijsinspectie kan de goedkeuring van een examenprogramma intrekken op grond van onvoldoende actualiteitswaarde.<br>
+De Vlaamse Regering kan onderwijsdoelen uit onderwijskwalificaties of uit referentiekaders als vermeld in het eerste lid, aanduiden die binnen de context van de examencommissie niet evalueerbaar of niet haalbaar zijn en bijgevolg buiten beschouwing worden gelaten bij de ontwikkeling van examenprogramma’s.<br>
 <br>
-§ 3. In afwijking van paragraaf 1 en 2, eerste lid, bestaat, voor wat betreft de examens tot het behalen van een getuigschrift van de eerste graad, het examenprogramma uit de basisvorming van de A- stroom of de basisvorming van de B-stroom, naargelang van de keuze van de kandidaat.
+§3. In afwijking van paragraaf 1 en 2 bestaat, voor wat betreft de examens tot het behalen van een getuigschrift van de eerste graad, het examenprogramma uit de basisvorming van de A- stroom of de basisvorming van de B-stroom, naargelang van de keuze van de kandidaat.
 
 ### ART. 256/4.
 
@@ -7020,7 +7036,7 @@ Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande s
 <br>
 In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
 <br>
-De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de onderwijsinspectie.
+De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi.
 
 ### ART. 287.
 
@@ -7086,7 +7102,7 @@ Aanvragen die later worden ingediend, zijn onontvankelijk. Een observatiefase is
 <br>
 Indien de voormelde aanvraag betrekking heeft op de programmatie per 1 september 2021 of 2022 van een niet-gemoderniseerd structuuronderdeel van de kwalificatiefase en de integratiefase, dan moet de aanvraag eveneens de toekomstige concordantie naar het gemoderniseerde structuuronderdeel bevatten om ontvankelijk te zijn. Niet-gemoderniseerde structuuronderdelen zijn niet programmeerbaar in de opleidingsfase en vanaf 1 september 2023 in de kwalificatiefase en de integratiefase.<br>
 <br>
-De Vlaamse Onderwijsraad, de Onderwijsinspectie en het Agentschap voor Onderwijsdiensten brengen binnen een redelijke termijn en uiterlijk twee maanden na de ontvangst van de aanvragen, vakantieperioden niet inbegrepen, een advies uit aan de Vlaamse minister, bevoegd voor onderwijs.<br>
+De Vlaamse Onderwijsraad en het Agentschap voor Onderwijsdiensten brengen binnen een redelijke termijn en uiterlijk twee maanden na de ontvangst van de aanvragen, vakantieperioden niet inbegrepen, een advies uit aan de Vlaamse minister, bevoegd voor onderwijs.<br>
 <br>
 De Vlaamse minister, bevoegd voor het onderwijs, legt een voorstel van beslissing voor aan de Vlaamse Regering.<br>
 <br>
@@ -7121,7 +7137,7 @@ Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande s
 <br>
 In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
 <br>
-De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de onderwijsinspectie. Het advies van de Vlaamse Onderwijsraad is geen element in deze beslissing indien het programmatievoorstel valt onder toepassing van paragraaf 2.<br>
+De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi. Het advies van de Vlaamse Onderwijsraad is geen element in deze beslissing indien het programmatievoorstel valt onder toepassing van paragraaf 2.<br>
 <br>
 § 6. In aanvulling op paragraaf 1, 5° en 6°, en paragrafen 2, 4 en 5, moet een schoolbestuur dat opleidingsvorm 3 wil oprichten eveneens een programmatieaanvraag en een oprichtingsdossier indienen voor de oprichting van een of meer nieuwe structuuronderdelen in opleidingsvorm 3 en een gunstige beslissing van de Vlaamse Regering krijgen om deze te kunnen oprichten. Hierbij moeten de bepalingen van paragraaf 3 toegepast worden op de nieuwe structuuronderdelen in de nieuw op te richten opleidingsvorm 3 in een bestaande school en niet op bijkomende structuuronderdelen&nbsp;in een opleidingsvorm 3 dat aan de rationalisatienorm voldoet in een bestaande school.<br>
 <br>
@@ -7133,7 +7149,7 @@ De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad
 <br>
 Een vrije programmatie wordt bij de bevoegde diensten van de Vlaamse Gemeenschap gemeld uiterlijk bij de oprichting van het structuuronderdeel in kwestie.<br>
 <br>
-Een programmatie waarover de Vlaamse Regering beslist, wordt bij de bevoegde diensten van de Vlaamse Gemeenschap aangevraagd uiterlijk op 30 november of uiterlijk op 31 maart vóór de oprichting van het structuuronderdeel in kwestie. De voormelde aanvraagtermijn geldt als vervaltermijn. Na advies van de bevoegde diensten van de Vlaamse Gemeenschap en de onderwijsinspectie beslist de Vlaamse Regering binnen twee maanden na de respectieve uiterste indieningsdatum. De voormelde beslissingstermijn geldt als ordetermijn. De motivering van de voormelde aanvraag en de voormelde beslissing houden rekening met de cumulatieve criteria, vermeld in artikel 178, vierde lid, voor niet-duale structuuronderdelen en voor duale structuuronderdelen.<br>
+Een programmatie waarover de Vlaamse Regering beslist, wordt bij de bevoegde diensten van de Vlaamse Gemeenschap aangevraagd uiterlijk op 30 november of uiterlijk op 31 maart vóór de oprichting van het structuuronderdeel in kwestie. De voormelde aanvraagtermijn geldt als vervaltermijn. Na advies van de bevoegde diensten van de Vlaamse Gemeenschap beslist de Vlaamse Regering binnen twee maanden na de respectieve uiterste indieningsdatum. De voormelde beslissingstermijn geldt als ordetermijn. De motivering van de voormelde aanvraag en de voormelde beslissing houden rekening met de cumulatieve criteria, vermeld in artikel 178, vierde lid, voor niet-duale structuuronderdelen en voor duale structuuronderdelen.<br>
 <br>
 Bij de melding of aanvraag gaan het protocol van de onderhandeling ter zake in het bevoegd lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.
 
@@ -7168,7 +7184,7 @@ Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande s
 <br>
 In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
 <br>
-De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de onderwijsinspectie.<br>
+De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi.<br>
 <br>
 § 3. De scholen voor buitengewoon secundair onderwijs die tijdens het schooljaar 2014- 2015 een aanbod type 1 aanboden, bieden vanaf 1 september 2015 het basisaanbod aan als vermeld in artikel 259, § 1, 1°. Dit wordt niet beschouwd als een herstructurering.
 
@@ -8193,7 +8209,7 @@ In opleidingsvorm 4 wordt een gemeenschappelijk curriculum van het gewoon voltij
 <br>
 § 4. In de school van opleidingsvorm 4, type 5, verbonden aan het preventorium worden dezelfde studiebewijzen uitgereikt als in het gewoon voltijds secundair onderwijs en buitengewoon secundair onderwijs of in de opleiding Verpleegkunde van het hoger beroepsonderwijs. De school van opleidingsvorm 4, type 5, bij het preventorium staat zelf in voor de studiebekrachtiging.<br>
 <br>
-&nbsp;§ 5. Voor zover de school van opleidingsvorm 4, type 5, verbonden aan het Zeepreventorium, die behoort tot het gemeenschapsonderwijs, leerplannen aanbiedt van het vrij onderwijs, gebeurt dit in afwijking van de voorwaarde, vermeld in artikel 15, § 1, 12°, b).
+&nbsp;§ 5. ...
 
 ## [TITEL 5. SPECIFIEKE BEPALINGEN OVER DE ONDERSTEUNING VOOR HET GEWOON ONDERWIJS VANUIT HET BUITENGEWOON ONDERWIJS EN DE SPECIALE ONDERWIJSLEERMIDDELEN (verv. decr. 6 juli 2018, art. 52, I: 1 september 2018)]
 
@@ -8836,7 +8852,7 @@ Een duaal structuuronderdeel kan modulair worden georganiseerd.
 De programmatie van een duaal structuuronderdeel wordt door het bestuur van de aanbieder duaal leren bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aangevraagd uiterlijk op 30 november van het voorafgaand schooljaar. Die termijn geldt als vervaltermijn; aanvragen die later worden ingediend zijn onontvankelijk. De motivering van de aanvraag houdt in elk geval rekening met de criteria, vermeld in het derde lid, 1° tot en met 8°. Bij de aanvraag zitten, in voorkomend geval, het protocol van de onderhandeling ter zake in het bevoegde lokaal comité en, als de school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit blijkt dat de programmatie in overeenstemming is met de afspraken die binnen de scholengemeenschap zijn gemaakt.<br>
 <br>
 De Vlaamse Regering neemt een beslissing over de programmatie na advies van:<br>
-1° de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
+1° de bevoegde diensten van de Vlaamse Gemeenschap;<br>
 2° de Vlaamse Onderwijsraad;<br>
 3° de Sociaal-Economische Raad van Vlaanderen.<br>
 <br>
