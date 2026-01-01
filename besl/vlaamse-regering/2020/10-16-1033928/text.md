@@ -330,15 +330,15 @@ Het bezwaar schorst de uitvoering van de beslissing, tenzij de beslissing bij dr
 
 ### ART 33/1.
 
-Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt als vermeld in artikel 35, en die nog geen rechtspersoonlijkheid heeft, geldt een overgangsperiode van vier jaar om te voldoen aan de verplichting tot het hebben van rechtspersoonlijkheid, vermeld in artikel 6.
+Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt als vermeld in artikel 35, en die nog geen rechtspersoonlijkheid heeft, geldt een overgangsperiode tot en met 31 augustus 2026 om te voldoen aan de verplichting tot het hebben van rechtspersoonlijkheid, vermeld in artikel 6.
 
 ### ART 33/2.
 
-Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt als vermeld in artikel 35, geldt een overgangsperiode van vier jaar om te voldoen aan de verplichting tot het voorrang geven aan kleuters, vermeld in artikel 7, 2°.
+Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt als vermeld in artikel 35, geldt een overgangsperiode tot en met 31 augustus 2026 om te voldoen aan de verplichting tot het voorrang geven aan kleuters, vermeld in artikel 7, 2°.
 
 ### ART 33/3.
 
-Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt voor zijn locaties met een attest van toezicht als vermeld in artikel 35, geldt een overgangsperiode van vier jaar om te voldoen aan de verplichting waarbij 80% van de begeleiders een vorming heeft voltooid die de competenties, vermeld in artikel 15, derde lid, aanleert, of beschikt over een ervaringsbewijs dat aantoont dat die competenties verworven zijn.
+Voor de organisator die op 1 januari 2022 van rechtswege een kwaliteitslabel toegekend krijgt voor zijn locaties met een attest van toezicht als vermeld in artikel 35, geldt een overgangsperiode tot en met 31 augustus 2026 om te voldoen aan de verplichting waarbij 80% van de begeleiders een vorming heeft voltooid die de competenties, vermeld in artikel 15, derde lid, aanleert, of beschikt over een ervaringsbewijs dat aantoont dat die competenties verworven zijn.
 
 ## HOOFDSTUK 7. Slotbepalingen
 
