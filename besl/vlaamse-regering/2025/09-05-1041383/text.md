@@ -195,6 +195,10 @@ Iedere aanvrager van een kwalificatiecertificaat van de Unie voldoet aan een van
 a) ten minste zestien jaar zijn en een basisopleiding veiligheid voltooid hebben conform deel 2 van deze bijlage;&nbsp;<br>
 b) ten minste zestien jaar zijn en beschikken over een vaarbevoegdheidsbewijs of bekwaamheidsbewijs dat conform artikel 5 van het Koninklijk besluit van 22 augustus 2020 betreffende de zeevarenden afgegeven of erkend is en bijgevolg overeenkomstig het Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, gedaan te Londen op 7 juli 1978.”.
 
+### ART 34.
+
+Bijlage B1, B2 en B3 bij hetzelfde besluit worden vervangen door bijlage 2 tot en met 4, die bij dit besluit zijn gevoegd.
+
 ## Hoofdstuk 5. Slotbepalingen
 
 ### ART 35.
