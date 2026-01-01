@@ -328,6 +328,18 @@ De Vlaamse Regering bepaalt de voorwaarden die nageleefd moeten worden voor het 
 
 ## Hoofdstuk 3. De handel in dieren
 
+### ART 27.
+
+Dieren worden niet verhandeld op de openbare weg of op markten.&nbsp;<br>
+<br>
+In afwijking op het eerste lid, geldt de volgende limitatieve lijst van uit-zonderingen:<br>
+1° jaarmarkten;<br>
+2° beurzen;<br>
+3° tentoonstellingen;<br>
+4° markten die ten hoogste acht keer per jaar worden georganiseerd.<br>
+<br>
+Voor honden en katten geldt de uitzondering, vermeld in het tweede lid, niet.
+
 ### ART 28.
 
 In de winkelruimte of aanhorigheden van de handelszaken voor dieren worden geen katten of honden gehouden of tentoongesteld met het oog op de verhandeling ervan.
@@ -793,6 +805,39 @@ Naast de straffen, vermeld in artikel 66 en 67, kan de rechtbank de volgende vei
 ### ART 69.
 
 De rechtbank beveelt bij dierengevechten of -schietoefeningen de verbeurdverklaring van de inzetten, het entreegeld en de voorwerpen of installaties die voor die gevechten of die schietoefeningen zijn gebruikt.
+
+### ART 70.
+
+§1. De ambtenaar of ambtenaren binnen het departement die daarvoor zijn aangesteld door de Vlaamse Regering kan bij overtreding van dit decreet, de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake, een administratieve geldboete opleggen.<br>
+<br>
+Het bedrag van de administratieve geldboete, vermeld in het eerste lid, mag niet lager zijn dan de helft van het minimum noch hoger zijn dan het maximum van de geldboete die voor de overtreding is bepaald, vermeld in artikel 66. Bij samenloop van verschillende overtredingen, kunnen de bedragen van de geldsommen samengevoegd worden.&nbsp;<br>
+<br>
+§2. De ambtenaren, vermeld in paragraaf 1, kunnen een alternatieve sanctie aan de overtreder voorstellen voor ze een administratieve geldboete opleggen.&nbsp;<br>
+<br>
+De volgende alternatieve sancties kunnen conform het eerste lid worden voorgesteld:<br>
+1° een vorming die het departement heeft georganiseerd of goedgekeurd;<br>
+2° een taakstraf uitvoeren die minstens 20 uren en maximaal 45 uren bedraagt;&nbsp;<br>
+3° verplichte professionele begeleiding door een instantie of persoon die het departement aanwijst om het dierenwelzijnsprobleem dat voorwerp is van de overtreding te verhelpen.&nbsp;<br>
+<br>
+De Vlaamse Regering kan de nadere modaliteiten hiervan bepalen.<br>
+<br>
+Als de overtreder de alternatieve sanctie, vermeld in het eerste lid, uitvoert en hiervoor een getuigschrift of attest voorlegt, kan er, voor de overtreding waarvoor ze is opgelegd, geen administratieve geldboete meer opgelegd worden door de ambtenaren, vermeld in paragraaf 1.<br>
+<br>
+§3. Binnen de termijn van drie maanden na de verzending van het proces-verbaal aan het Openbaar-Ministerie kan er door deze beslist worden om hetzij tot strafrechtelijke vervolging of tot seponering over te gaan hetzij dat door de ambtenaren, vermeld in paragraaf 1, tot de bestuurlijke afhandeling kan worden overgegaan. De ambtenaren, vermeld in paragraaf 1, worden door het Openbaar Ministerie op de hoogte gebracht van deze beslissing. Bij gebreke aan beslissing binnen deze termijn van drie maanden vervalt de strafvordering en kan tot bestuurlijke afhandeling overgegaan worden.&nbsp;<br>
+<br>
+§4. De ambtenaren, vermeld in paragraaf 1, kunnen met het Openbaar Ministerie een protocol afsluiten waarin wordt overeengekomen om bepaalde misdrijven in beginsel altijd bestuurlijk te vervolgen. In die gevallen worden in afwijking van artikel 64, §5, de betrokken processen-verbaal niet overgemaakt aan het Openbaar-Ministerie.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot de goedkeuring, inhoud en geldigheidsduur van het protocol, vermeld in het eerste lid.<br>
+<br>
+§5. Er kan geen administratieve geldboete worden opgelegd of een alternatieve sanctie als vermeld in paragraaf 1 of 2 worden voorgesteld meer dan drie jaar na de feitelijke overtreding van de bepalingen van dit decreet, de uitvoerings-besluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake.<br>
+<br>
+De daden van onderzoek of van vervolging die zijn verricht binnen de termijn, vermeld in het eerste lid, stuiten de loop ervan. Met de voormelde daden begint een nieuwe termijn te lopen, zelfs ten aanzien van personen die daarbij niet betrokken waren.
+
+### ART 71.
+
+Het bedrag van de administratieve geldboete, vermeld in artikel 70, §1, wordt verhoogd met de opdeciemen die van toepassing zijn op de strafrechtelijke geldboeten.<br>
+<br>
+De wijze waarop de voormelde administratieve geldboete wordt betaald, wordt vastgesteld door de Vlaamse Regering.
 
 ### ART 72.
 
