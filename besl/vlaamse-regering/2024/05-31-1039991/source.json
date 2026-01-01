@@ -2,16 +2,16 @@
   "codex_id": 1039991,
   "title": "Besluit van de Vlaamse Regering van 2024-05-31 over de bestemmingsregels en de mogelijkheid tot het opnieuw in aanmerking komen voor subsidies die het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden verstrekt en tot wijziging van de regelgeving over bestemmingswijzingen en het eventueel opnieuw in aanmerking komen voor nieuwe subsidies (citeeropschrift: \"het VIPA Bestemmingsbesluit van 31 mei 2024\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039991/VolledigDocument?datum=2024-08-01",
-  "source_sha256": "3ead6b622a4c31fd49a191ed1d4a4571fb38633afd395c6322735d7796ce364e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039991/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "0959c2f5693b864a2d5b1ff47a71274c5a7d5d835bca4beb34520b265df69f31",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039991&param=informatie",
-  "as_of": "2024-08-01",
+  "as_of": "2026-01-01",
   "made": "2024-05-31",
   "gazette": "2024-07-31",
   "numac": 2024007169,
   "document_start": "2024-08-01",
   "document_end": null,
-  "in_force": "2024-08-01",
+  "in_force": "2026-01-01",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2024-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
