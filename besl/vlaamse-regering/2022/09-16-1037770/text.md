@@ -264,7 +264,7 @@ Het individuele perspectiefplan omvat een programma van activiteiten die gericht
 <br>
 Het team kan voor de inbreng van relevante expertise een beroep doen op externe deskundigen of organisaties.&nbsp;<br>
 <br>
-De administrateur-generaal van het agentschap Opgroeien, vermeld in artikel 2 van het besluit van de Vlaamse Regering tot van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, kan bepalen welke expertises in aanmerking komen en wat de voorwaarden zijn voor de samenwerking met de externe deskundigen of organisaties.
+De administrateur-generaal van het het Agentschap Justitie en Handhaving kan bepalen welke expertises in aanmerking komen en wat de voorwaarden zijn voor de samenwerking met de externe deskundigen of organisaties.
 
 ## Hoofdstuk 3. Het dossier van de gemeenschapsinstellingen
 
@@ -361,4 +361,4 @@ Dit besluit treedt in werking op 1 maart 2023.<br>
 
 ### ART 15.
 
-De Vlaamse minister, bevoegd voor opgroeien en de Vlaamse minister bevoegd voor justitiehuizen, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+De Vlaamse minister, bevoegd voor justitie en handhaving, en de Vlaamse minister, bevoegd voor &nbsp;opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
