@@ -16,7 +16,18 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 
 § 1. De bevoegde entiteit is belast met de identificatie en registratie in het GBCS van de landbouwers en van de landbouwgronden, vermeld in artikel 3, § 1, van het decreet.<br>
 <br>
-§ 2. De ministers bepalen de nadere uitvoeringswijze van de voorwaarde voor het exclusieve gebruik en het exclusieve beheer van de productiemiddelen van een bedrijf als vermeld in artikel 4, § 3, 2°, van het decreet.<br>
+De ministers bepalen de verdere gevolgen en sancties van het niet-naleven van de voorwaarden van het autonome beheer of van het creëren van kunstmatige omstandigheden om voordeel te verkrijgen, met inbegrip van de mogelijkheid om de registratie van de landbouwer in het GBCS te weigeren of in te trekken.<br>
+<br>
+De ministers bepalen wanneer de bevoegde entiteit een nieuwe aanvraag tot registratie in het GBCS kan goedkeuren na een eerdere weigering of intrekking van de registratie en aan welke voorwaarden de landbouwer daarvoor moet voldoen.<br>
+<br>
+§ 2. De ministers bepalen de nadere uitvoeringswijze van de voorwaarde voor het exclusieve gebruik en het exclusieve beheer van de productiemiddelen van een bedrijf als vermeld in artikel 4, § 3, 2°, van het decreet.&nbsp;Daarvoor bepalen de ministers al de volgende aspecten:<br>
+1°&nbsp;&nbsp; &nbsp;de voorwaarden om de exclusieve huisvesting van eigen dieren in stallen en op percelen te verzekeren;<br>
+2°&nbsp;&nbsp; &nbsp;de voorwaarden om de afscheiding van productie-eenheden of -cellen en het verbod van uitwisseling van productiemiddelen tussen verschillende landbouwers te verzekeren;<br>
+3°&nbsp;&nbsp; &nbsp;de situaties van bedrijfsvoering, die beschouwd kunnen worden als gevallen van exclusief gebruik van productie-eenheden of -cellen of van beheer van productiemiddelen, en de voorwaarden waaraan voldaan moet zijn om die kwalificatie te verkrijgen;&nbsp;<br>
+4°&nbsp;&nbsp; &nbsp;de gevallen waarin en de voorwaarden waaronder echtgenoten als natuurlijke persoon afzonderlijk een bedrijf kunnen uitbaten;<br>
+5°&nbsp;&nbsp; &nbsp;de elementen die de landbouwer administratief moet aantonen om zijn productiemiddelen alleen op autonome wijze te kunnen beheren.<br>
+<br>
+De ministers bepalen welke bewijsstukken de bevoegde entiteit bij een controle kan opvragen.<br>
 <br>
 § 3. Bij het overnemen, het opstarten of het stopzetten van een bedrijf of een exploitatie maken de betrokken exploitanten, voorafgaandelijk aan respectievelijk het overnemen, het opstarten of het stopzetten, hiervan melding bij de bevoegde entiteit. De bevoegde entiteit zorgt voor de unieke identificatie van de betrokkenen in het GBCS vermeld in artikel 4, § 1, van het decreet, of past in voorkomend geval, de bestaande identificatie van de betrokkenen in het GBCS vermeld in artikel 4, § 1, van het decreet, aan.<br>
 <br>
