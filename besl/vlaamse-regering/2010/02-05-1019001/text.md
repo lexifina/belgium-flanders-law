@@ -42,11 +42,10 @@ Het resultaat van de berekeningen moet minstens 600 dagen bedragen om als releva
 
 ### ART. 4.
 
-Een vacature voor het ambt van inspecteur wordt ten minste bekend gemaakt:<br>
-1° in het Belgisch Staatsblad;<br>
-2° op de website van de onderwijsinspectie;<br>
-3° op de website van VDAB;<br>
-4° via de geëigende communicatiekanalen van het Departement Onderwijs.<br>
+Een vacature voor het ambt van inspecteur wordt ten minste bekendgemaakt:<br>
+1°&nbsp;&nbsp; &nbsp;op de website van de onderwijsinspectie;<br>
+2°&nbsp;&nbsp; &nbsp;op de website van VDAB;<br>
+3°&nbsp;&nbsp; &nbsp;via de nieuwsbrief Schooldirect van het Departement Onderwijs<br>
 <br>
 De vacature voor het ambt van inspecteur bevat ten minste de aanwervingsvoorwaarden, vermeld in artikel 49 van het decreet van 8 mei 2009, en de specifieke toelatingsvoorwaarden, vermeld in artikel 63, § 4, van het voormelde decreet, alsook de wijze van solliciteren.
 
@@ -72,9 +71,7 @@ De aanwervingsvoorwaarden zijn uiterlijk vervuld op het ogenblik van de kandidaa
 
 ### ART. 8.
 
-Er is een periode van ten minste twintig dagen tussen de datum waarop de vacature bekendgemaakt wordt in het Belgisch Staatsblad en de uiterste sollicitatiedatum.<br>
-<br>
-De kandidaturen die na de uiterste sollicitatiedatum, vermeld in het eerste lid, binnenkomen of sollicitatieformulieren die niet digitaal zijn ingevuld als vermeld in artikel 5, worden niet in aanmerking genomen.
+...
 
 ### ART. 9.
 
@@ -217,11 +214,10 @@ Bij de berekening van de duur van de dienstanciënniteit, vermeld in artikel 79 
 
 ### ART. 18.
 
-Een vacature voor het ambt van coördinerend inspecteur wordt bij externe werving, zoals bedoeld in artikel 79, § 2, tweede alinea van het decreet van 8 mei 2009, ten minste bekendgemaakt:<br>
-1° in het Belgisch Staatsblad;<br>
-2° op de website van de onderwijsinspectie;<br>
-3° op de website van VDAB;<br>
-4° via de geëigende communicatiekanalen van het Departement Onderwijs.<br>
+Een vacature voor het ambt van coördinerend inspecteur wordt bij externe werving als vermeld in artikel 79, §2, tweede lid, van het decreet van 8 mei 2009 ten minste bekendgemaakt:<br>
+1°&nbsp;&nbsp; &nbsp;op de website van de onderwijsinspectie;<br>
+2°&nbsp;&nbsp; &nbsp;op de website van VDAB;<br>
+3°&nbsp;&nbsp; &nbsp;via de nieuwsbrief Schooldirect van het Departement Onderwijs<br>
 <br>
 De vacature voor het ambt van coördinerend inspecteur bevat ten minste de aanwervingsvoorwaarden, vermeld in artikel 79 van het decreet van 8 mei 2009, en de specifieke toelatingsvoorwaarden, vermeld in artikel 63, § 4, van het voormelde decreet, alsook de wijze van solliciteren.
 
@@ -247,9 +243,7 @@ De aanwervingsvoorwaarden zijn uiterlijk vervuld op het ogenblik van de kandidaa
 
 ### ART. 22.
 
-Er is een periode van ten minste twintig dagen tussen de datum waarop de vacature bekendgemaakt wordt in het Belgisch Staatsblad en de uiterste sollicitatiedatum.<br>
-<br>
-De kandidaturen die na de uiterste sollicitatiedatum, vermeld in het eerste lid, binnenkomen of sollicitatieformulieren die niet digitaal zijn ingevuld als vermeld in artikel 19, worden niet in aanmerking genomen.
+...
 
 ### ART. 23.
 
