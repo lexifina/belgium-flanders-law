@@ -48,17 +48,35 @@ In dit besluit wordt verstaan onder:<br>
 
 De Vlaamse beleidsprioriteiten voor buitenschoolse activiteiten zijn:<br>
 1° de regierol, vermeld in artikel 4 tot en met 6 van het decreet van 3 mei 2019, vervullen, met het oog op:<br>
-a) het geïntegreerde aanbod van buitenschoolse opvang en activiteiten;<br>
+a) het geïntegreerd aanbod van buitenschoolse activiteiten, waarbij er ook aandacht is voor het Nederlands;&nbsp;<br>
 b) de samenwerking, vermeld in artikel 7 tot en met 9 van het voormelde decreet, organiseren;<br>
-2° de kleuteropvang met een kwaliteitslabel financieren.<br>
+c) de erkenning, het toezicht en de handhaving van het erkend lokaal aanbod van buitenschoolse activiteiten;<br>
+d) de toegankelijkheid, met bijzondere aandacht voor kleuters, kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte.&nbsp;<br>
+2° het erkend lokaal aanbod van buitenschoolse activiteiten, vermeld in artikel 4, eerste lid, 3°, van het decreet van 3 mei 2019, financieren.<br>
 <br>
 De Vlaamse Gemeenschapscommissie geeft uitwerking aan voormelde beleidsprioriteiten in haar meerjarenplan, vermeld in artikel 7 tot en met 13 van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie.<br>
 <br>
 Als het lokaal bestuur subsidies toekent aan organisatoren, doet het dat met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
 
+### ART 2/1.
+
+Het lokaal bestuur heeft een lokaal erkenningskader, rekening houdend met artikel 11/1 van het decreet van 3 mei 2019, waarmee het lokaal bestuur het lokaal aanbod buitenschoolse activiteiten, dat nog niet beschikt over een erkenning op basis van een andere regelgeving, erkent.&nbsp;<br>
+<br>
+Het lokaal bestuur evalueert op periodieke basis het lokaal erkenningskader in samenwerking met het lokaal samenwerkingsverband, vermeld in artikel 7 van het decreet van 3 mei 2019.
+
+### ART 2/2.
+
+In het kader van de rol van toezichthouder en handhaver, als vermeld in artikel 4 van het decreet, zorgt het lokaal bestuur minstens voor volgende zaken:<br>
+1° het registreren en documenteren van de behandeling van klachten over het door het lokaal bestuur erkend aanbod buitenschoolse activiteiten;&nbsp;<br>
+2° het periodiek evalueren van het erkend aanbod buitenschoolse activiteiten op basis van de voorwaarden opgenomen in het lokaal erkenningskader;&nbsp;<br>
+3° het overeenkomen, op initiatief van het lokaal bestuur, van verbeteracties, en de bijhorende voorwaarden, alsook het opvolgen van deze verbeteracties met betrekking tot het erkend aanbod buitenschoolse activiteiten als er zorgen zijn over de veiligheid en kwaliteit, op basis van artikel 11/1 van het decreet van 3 mei 2019, of als de voorwaarden uit het lokaal erkenningskader, vermeld in artikel 2/1, niet nageleefd worden.&nbsp;
+
 ### ART 3.
 
-Het bewaken van de neutraliteit, vermeld in artikel 6, eerste lid, van het decreet van 3 mei 2019, gebeurt op een transparante wijze en houdt onder meer in dat het lokaal bestuur zijn rol van regisseur functioneel scheidt van zijn rol van organisator.<br>
+De bewaking van de neutraliteit, vermeld in artikel 6, eerste lid, van het decreet van 3 mei 2019, gebeurt op een transparante wijze en houdt onder meer in:<br>
+1°&nbsp;&nbsp; &nbsp;dat de lokale besturen hun rol van regisseur functioneel scheiden van hun rol van organisator;<br>
+2°&nbsp;&nbsp; &nbsp;dat de lokale besturen altijd advies vragen aan het lokale samenwerkingsverband bij de opdrachten, vermeld in artikel 4, eerste lid, van het decreet van 3 mei 2019;<br>
+3°&nbsp;&nbsp; &nbsp;dat de lokale besturen transparant communiceren over de organisatie en structuur van het lokale samenwerkingsverband.<br>
 <br>
 Het lokaal bestuur voorziet in een procedure om klachten over de schending van de voormelde neutraliteit in te dienen en te behandelen.
 
@@ -86,7 +104,7 @@ De organisator van het lokaal samenwerkingsverband voorziet in een procedure om 
 
 ### ART 6.
 
-Het lokaal bestuur ontvangt, binnen de grenzen van de kredieten die daarvoor op de begroting van de Vlaamse Gemeenschap worden ingeschreven, een subsidie, als het de twee Vlaamse beleidsprioriteiten, vermeld in artikel 2, eerste lid, opneemt in zijn meerjarenplanning of in zijn meerjarenplan voor de Vlaamse Gemeenschapscommissie.<br>
+Het lokaal bestuur ontvangt, binnen de grenzen van de kredieten die daarvoor op de begroting van de Vlaamse Gemeenschap worden ingeschreven, een subsidie, als het de twee Vlaamse beleidsprioriteiten, vermeld in artikel 2, eerste lid, opneemt in zijn meerjarenplanning of in zijn meerjarenplan voor de Vlaamse Gemeenschapscommissie.&nbsp;Het lokaal bestuur vertaalt de beleidsprioriteiten in doelstellingen en acties. Daarbij wordt duidelijk aangegeven op welke manier omgegaan wordt met de besteding, vermeld in artikel 7.<br>
 <br>
 De subsidie geldt voor onbepaalde duur.
 
@@ -94,27 +112,51 @@ De subsidie geldt voor onbepaalde duur.
 
 Het lokaal bestuur besteedt de subsidie, vermeld in dit besluit, aan de twee Vlaamse beleidsprioriteiten, vermeld in artikel 2, eerste lid.<br>
 <br>
-Bij de besteding, vermeld in het eerste lid, gaat tot en met 31 december 2030 minstens 50% naar de beleidsprioriteit, vermeld in artikel 2, eerste lid, 2°.
+In het kader van de toepassing van het eerste lid gelden de volgende bepalingen met betrekking tot reserves:<br>
+1° er kan maximaal 20% als reserve overgedragen worden naar het volgende kalenderjaar. De gecumuleerde reserve die wordt opgebouwd uit de jaarlijkse subsidiebedragen, is maximaal 50% van het jaarlijkse subsidiebedrag. Als de reservebedragen hoger zijn dan één van de vermelde maximumpercentages, of niet besteed worden aan de vermelde doelstellingen, wordt het bedrag dat de grens overschrijdt vanaf 1 januari 2028 teruggestort aan het agentschap. Het lokaal bestuur bezorgt jaarlijks tegen 31 juli een overzicht van de opgebouwde reserve van het voorgaande jaar, samen met de doelstelling van de reserveopbouw aan het agentschap. De opgebouwde reserve mag uitsluitend worden aangewend voor uitgaven voor infrastructuurwerken en uitrusting voor buitenschoolse activiteiten. Onder uitrusting wordt verstaan: alle materialen en gereedschappen die worden ingezet voor de realisatie van buitenschoolse activiteiten;<br>
+2° in afwijking van 1° kan een lokaal bestuur dat een compensatiebedrag krijgt als vermeld in artikel 16/1, geen reserve opbouwen op het compensatiebedrag voor de periode waarin het een compensatiebedrag ontvangt.
 
 ### ART 8.
 
-§ 1. De subsidie is een forfaitair bedrag per kind in de gemeente.<br>
+§1. Overeenkomstig artikel 12, eerste lid, van het decreet van 3 mei 2019, wordt de subsidie toegekend op basis van de in die bepaling vastgestelde parameters en indicatoren.<br>
 <br>
-§ 2. Het aantal kinderen per gemeente of het tweetalige gebied Brussel-Hoofdstad wordt op de volgende wijze berekend:<br>
-1° de parameter, vermeld in artikel 12, eerste lid, 1°, van het decreet van 3 mei 2019, weegt door voor 40%;<br>
-2° de parameter, vermeld in artikel 12, eerste lid, 2°, van het voormelde decreet, weegt door voor 60%.<br>
+Het bedrag van de subsidie bestaat uit de som van:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;een basisbedrag dat wordt berekend conform paragraaf 2;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;een bedrag voor toegankelijkheid dat berekend wordt conform paragraaf 3.<br>
 <br>
-Bij de berekening van het aantal kinderen worden de volgende afrondingsregels gebruikt:<br>
-1° als het resultaat eindigt op minder dan 50 honderdsten, wordt het eindresultaat naar het geheel getal beneden afgerond;<br>
-2° als het resultaat eindigt op minstens 50 honderdsten, wordt het eindresultaat naar het eerstvolgend geheel getal afgerond.<br>
+90% van de kredieten, vermeld in artikel 6, wordt voorbehouden aan het basisbedrag, vermeld in het tweede lid, 1°, en 10% van de kredieten aan het bedrag voor toegankelijkheid, vermeld in het tweede lid, 2°.<br>
 <br>
-Bij de toepassing van paragraaf 2, 1°, wordt voor het tweetalige gebied Brussel-Hoofdstad 30% van het aantal kinderen in rekening genomen.<br>
+§2. Het basisbedrag, vermeld in paragraaf 1, tweede lid, 1°, wordt berekend op basis van de volgende percentages:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de parameter, vermeld in artikel 12, eerste lid, 1°, van het decreet van 3 mei 2019, weegt door voor 40%;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de parameter, vermeld in artikel 12, eerste lid, 2°, van het voormelde decreet, weegt door voor 60%.<br>
 <br>
-Bij de toepassing van paragraaf 2, 2°, wordt het aantal kinderen dat naar de basisschool gaat, gebaseerd op de jaarlijkse cijfergegevens van het Departement Onderwijs en Vorming, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+De berekening van het aantal kinderen is als volgt:&nbsp;<br>
+X = (40% * Y) en (60% * Z), waarbij:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;X: het af te ronden resultaat van de som van 0,40*Y en 0,60*Z;<br>
+2°&nbsp;&nbsp; &nbsp;Y: het gemiddeld aantal kinderen, bedoeld in artikel 12, eerste lid, 1° van het decreet van 3 mei 2019, over drie jaar;<br>
+3°&nbsp;&nbsp; &nbsp;Z: het gemiddelde aantal kinderen, bedoeld in artikel 12, eerste lid, 2°, van ditzelfde decreet, over drie jaar.<br>
 <br>
-Het aantal kinderen wordt driejaarlijks geactualiseerd. Daarbij wordt een gemiddelde genomen over de voorbije drie jaar.<br>
+Bij de berekening van het aantal kinderen, vermeld in §2, tweede lid, worden de volgende afrondingsregels gebruikt:<br>
+1°&nbsp;&nbsp; &nbsp;als het resultaat eindigt op minder dan 50 honderdsten, wordt het eindresultaat naar het lagere gehele getal afgerond; &nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;als het resultaat eindigt op minstens 50 honderdsten, wordt het eindresultaat naar het eerstvolgende gehele getal afgerond. &nbsp;<br>
 <br>
-§ 3. Artikel 12, eerste lid, 3° en 4°, van het decreet van 3 mei 2019, wordt toegepast na de overgangstermijn.
+Bij de toepassing van de parameter, vermeld in het eerste lid, 1°, wordt voor het tweetalige gebied Brussel-Hoofdstad 30% van het aantal kinderen in rekening genomen.<br>
+<br>
+Bij de toepassing van de parameter, vermeld in het eerste lid, 2°, wordt het aantal kinderen dat naar het basisonderwijs gaat, gebaseerd op de jaarlijkse cijfergegevens van het Departement Onderwijs en Vorming, vermeld in artikel 22, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+<br>
+Het basisbedrag wordt driejaarlijks geactualiseerd op basis van het gemiddeld aantal kinderen op 31 december van de drie jaar voorafgaand aan het berekeningsjaar. Onder berekeningsjaar wordt verstaan: het jaar voorafgaand aan het subsidiejaar.&nbsp;<br>
+<br>
+In afwijking van het vijfde lid, wordt voor de subsidie toegekend in de periode van 1 september 2031 tot en met 31 december 2031 het basisbedrag berekend op basis van het gemiddeld aantal kinderen op 31 december 2028, 2029 en 2030.<br>
+<br>
+§3. In toepassing van artikel 8, §1, tweede lid, 2°, wordt het bedrag voor toegankelijkheid gedurende de in artikel 17/1, eerste lid, van het decreet van 3 mei 2019 bedoelde termijn per gemeente berekend op basis van volgende berekening:<br>
+1°&nbsp;&nbsp; &nbsp;een forfaitair bedrag per kind dat als volgt berekend wordt: het beschikbaar totaalbudget voor toegankelijkheid, gedeeld door het aantal kinderen in Vlaanderen, berekend volgens de parameters in artikel 8, paragraaf 2, 1° en 2°, met een sociale toeslag en kinderen met een zorgtoeslag.&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de berekening van het bedrag voor toegankelijkheid per gemeente is als volgt: X = [(A * B) + (C * D)] * E, waarbij:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;X: het bedrag voor toegankelijkheid per gemeente;&nbsp;&nbsp; &nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;A: het aantal kinderen per gemeente (samengestelde parameter op basis van artikel 12, 1° en 2°);<br>
+c)&nbsp;&nbsp; &nbsp;B: het % kinderen met een zorgtoeslag;<br>
+d)&nbsp;&nbsp; &nbsp;C: het aantal kinderen per gemeente (samengestelde parameter op basis van artikel 12, 1° en 2°);<br>
+e)&nbsp;&nbsp; &nbsp;D: het % kinderen met een sociale toeslag;<br>
+f)&nbsp;&nbsp; &nbsp;E: het forfaitair bedrag voor toegankelijkheid per kind, vermeld in 1°.
 
 ### ART 9.
 
@@ -131,6 +173,8 @@ De toepassing van het eerste lid mag niet leiden tot een nominale vermindering v
 De aanpassing, vermeld in het eerste lid, gebeurt telkens twee maanden nadat de afgevlakte gezondheidsindex de spilindex overschrijdt.
 
 ## HOOFDSTUK 5. Overgangsbepalingen
+
+## Afdeling 1. Bepalingen over de overgangstermijn als vermeld in artikel 17, eerste lid, van het decreet van 3 mei 2019
 
 ### ART 11.
 
@@ -213,6 +257,16 @@ Het agentschap beslist uiterlijk dertig dagen na de datum waarop het agentschap 
 Het agentschap beslist over de toekenning of de weigering van de subsidie uiterlijk zestig dagen na de uiterlijke indieningsdatum, vermeld in het tweede lid, 1°. Het agentschap weigert de subsidie in al de volgende gevallen:<br>
 1° het lokaal bestuur heeft de twee Vlaamse beleidsprioriteiten, vermeld in artikel 2, eerste lid, niet opgenomen in de meerjarenplanning, of in het meerjarenplan voor de Vlaamse Gemeenschapscommissie, of de geplande acties om de opdrachten, vermeld in artikel 2, eerste lid, te realiseren zijn niet in de aanvraag opgenomen;<br>
 2° er is geen krediet meer beschikbaar, na toepassing van artikel 15.
+
+## Afdeling 2. Termijn voor de compensatie van subsidieverlies en de toepassing van een sociale toeslag en zorgtoeslag
+
+### ART 16/1.
+
+Als het basisbedrag, vermeld in artikel 8, §1, tweede lid, 1°, lager is dan de subsidies die op grond van artikel 17, eerste lid van het decreet van 3 mei 2019, aan de organisatoren zijn verleend, vastgesteld op 1 januari 2025, krijgt het lokaal bestuur gedurende de in artikel 17/1, eerste lid, van het decreet van 3 mei 2019 bedoelde termijn, een compensatiebedrag dat dat verlies wegwerkt.
+
+### ART 16/2.
+
+In afwijking van artikel 8, §1, derde lid, wordt gedurende de in artikel 17/1, eerste lid, van het decreet van 3 mei 2019 bedoelde termijn het totaalbudget dat nodig is voor de uitvoering van de compensatiemaatregel, vermeld in artikel 16/1, in mindering gebracht van de kredieten die beschikbaar zijn om het basisbedrag te berekenen conform artikel 8, §2.
 
 ## HOOFDSTUK 6. Slotbepalingen
 
