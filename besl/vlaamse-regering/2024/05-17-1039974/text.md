@@ -63,7 +63,7 @@ Dit besluit is van toepassing op de CGG en de CAR.&nbsp;
 
 ### ART 3.
 
-De voorziening kan een erkenning aanvragen om functie D, E of G uit te voeren of om verschillende van die functies uit te voeren.
+De voorziening kan een erkenning aanvragen om functie D, E en G uit te voeren.
 
 ### ART 4.
 
@@ -77,7 +77,7 @@ Een erkenningsaanvraag als vermeld in artikel 3 van dit besluit, is ontvankelijk
 &nbsp; a) een aanvraagformulier dat het departement ter beschikking stelt. Het voormelde aanvraagformulier bevat al de volgende gegevens:<br>
 &nbsp; &nbsp; 1) de identiteitsgegevens van de inrichtende macht van de voorziening;<br>
 &nbsp; &nbsp; 2) het adres van de antennepunten;<br>
-&nbsp; &nbsp; 3) de functies die de voorziening aanbiedt;<br>
+&nbsp; &nbsp; 3) ...;<br>
 &nbsp; b) het administratieve basisdossier, vermeld in artikel 6, §1, eerste lid, 1°, van het decreet van 5 april 2019, met de elementen, vermeld in artikel 6, §1, tweede lid, van het voormelde decreet. In het voormelde basisdossier wordt in het kader van de informatie over de organisatiestructuur ook de informatie toegevoegd over de categorie in kwestie, vermeld in artikel 5 van het voormelde decreet, en ook de statuten van de organisatie;<br>
 &nbsp; c) het financiële plan, vermeld in artikel 6, §1, eerste lid, 2°, van het voormelde decreet;<br>
 &nbsp; d) de verbintenis om te voldoen aan alle voorwaarden, vermeld in hoofdstuk 5 van dit besluit;<br>
@@ -144,12 +144,12 @@ De beslissing van de minister, na behandeling van het advies van de Adviescommis
 
 Voorzieningen die voldoen aan al de volgende voorwaarden, kunnen erkend worden om functie D uit te voeren:<br>
 1° zorg verlenen op zorgniveau 2a of 2b;<br>
-2° de opdracht uitvoeren, vermeld in artikel 17, eerste lid, van dit besluit, voor de volledige of een gedeelte van de doelgroep vermeld in artikel 24 van dit besluit, conform de vereisten, vermeld in artikel 17, tweede tot en met vierde lid, en artikel 19, eerste lid, en artikel 25 van dit besluit;&nbsp;<br>
+2° de opdracht uitvoeren, vermeld in artikel 17, eerste lid, van dit besluit, voor de volledige doelgroep vermeld in artikel 24 van dit besluit, conform de vereisten, vermeld in artikel 17, tweede tot en met vierde lid, en artikel 19, eerste lid, en artikel 25 van dit besluit;&nbsp;<br>
 3° voldoen aan de voorwaarden, vermeld in artikel 6, §1, derde tot en met vijfde lid, en §2, en artikel 7 van het decreet van 5 april 2019.<br>
 <br>
 Voorzieningen die voldoen aan al de volgende voorwaarden, kunnen erkend worden om functie E uit te voeren:&nbsp;<br>
 1° zorg verlenen op zorgniveau 2a of 2b;<br>
-2° de opdracht uitvoeren, vermeld in artikel 18 van dit besluit, voor de volledige of een gedeelte van de doelgroep, vermeld in artikel 24 van dit besluit, conform de vereisten, vermeld in artikel 18, tweede lid, en artikel 19, eerste lid, en artikel 25 van dit besluit;&nbsp;<br>
+2° de opdracht uitvoeren, vermeld in artikel 18 van dit besluit, voor de volledige doelgroep, vermeld in artikel 24 van dit besluit, conform de vereisten, vermeld in artikel 18, tweede lid, en artikel 19, eerste lid, en artikel 25 van dit besluit;&nbsp;<br>
 3° voldoen aan de voorwaarden, vermeld in artikel 6, §1, derde tot en met vijfde lid, en §2, en artikel 7 van het decreet van 5 april 2019.<br>
 <br>
 Voorzieningen die voldoen aan al de volgende voorwaarden, kunnen erkend worden om functie G uit te voeren:&nbsp;<br>
@@ -284,16 +284,16 @@ Personen die bij een voorziening in behandeling zijn, kunnen voor die voorzienin
 
 ### ART 24.
 
-§1. Voor de uitvoering van functie D, E en G richten de voorzieningen zich tot de hele doelgroep of een gedeelte van de doelgroep van personen met een vastgestelde ernstige psychische zorgnood als vermeld in artikel 2, 7°, van het decreet van 5 april 2019, of met een vermoeden daarvan of een risico daarop.<br>
+§1. Voor de uitvoering van functie D, E en G richten de voorzieningen zich tot de hele doelgroep van personen met een vastgestelde ernstige psychische zorgnood als vermeld in artikel 2, 7°, van het decreet van 5 april 2019, of met een vermoeden daarvan of een risico daarop.<br>
 <br>
 Naast de doelgroep, vermeld in het eerste lid, kunnen de CAR zich ook richten tot personen met een nood aan revalidatie voor neurologische en zintuiglijke aandoeningen.<br>
 <br>
-§2. Een vastgestelde ernstige psychische zorgnood als vermeld in paragraaf 1, eerste lid, wordt aangetoond door enerzijds een categorale diagnose binnen de DSM 5TR en anderzijds een ICF-classificatie. De nood aan revalidatie voor neurologische en zintuiglijke aandoeningen, vermeld in paragraaf 1, tweede lid, wordt aangetoond met de ICD-10.<br>
+§2. Een vastgestelde ernstige psychische zorgnood als vermeld in paragraaf 1, eerste lid, wordt aangetoond door een categorale diagnose binnen de DSM 5TR. Naast de uitval op psychologisch vlak is er minstens een uitval op biologisch of sociaal vlak. De nood aan revalidatie voor neurologische en zintuiglijke aandoeningen, vermeld in paragraaf 1, tweede lid, wordt aangetoond met de ICD-10.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° DSM 5TR: het diagnostische en statistische handboek van psychiatrische aandoeningen dat wordt uitgegeven door de American Psychiatric Association;<br>
 2° ICD-10: de tiende editie van de International Statistical Classification of Diseases and Related Health Problems met een internationaal gehanteerde lijst van ziekten die wordt bijgehouden door de Wereldgezondheidsorganisatie;<br>
-3° ICF-classificatie: een referentieclassificatie van de WHO waarmee het mogelijk is het functioneren van de mens en de eventuele problemen die mensen daarbij ervaren, te beschrijven.<br>
+3°...<br>
 <br>
 §3. De voorzieningen kunnen zich richten tot de deelpopulatie kinderen en jongeren, die de leeftijdsgroep tot en met 23 jaar omvat, of tot de deelpopulatie volwassenen of ouderen.&nbsp;<br>
 <br>
@@ -306,9 +306,7 @@ De deelpopulatie ouderen, vermeld in het eerste lid, omvat de leeftijdsgroep bov
 Om in aanmerking te komen voor functie D en E en voor de revalidatie voor neurologische en zintuiglijke aandoeningen, vermeld in artikel 26 van dit besluit, toont de voorziening al de volgende elementen aan:<br>
 1° de gebruiker heeft gespecialiseerde multidisciplinaire of interdisciplinaire zorg nodig;<br>
 2° de mogelijkheid bestaat om de voormelde functies uit te oefenen in een ambulante context;&nbsp;<br>
-3° er is een doorverwijzing door een professionele dienstverlener. De voormelde doorverwijzing is niet vereist als een gebruiker in de periode van vijf jaar vóór de intake al gebruikgemaakt heeft van het aanbod in de voorziening in kwestie. De intake zonder doorverwijzing wordt opgenomen in het dossier van de gebruiker.<br>
-<br>
-De minister kan bepalen op welke wijze de elementen, vermeld in het eerste lid, geanonimiseerd geregistreerd worden in het dossier. De registratie heeft geen betrekking op persoonsgegevens.&nbsp;
+3° er is een doorverwijzing door een professionele dienstverlener. De voormelde doorverwijzing is niet vereist als een gebruiker in de periode van vijf jaar vóór de intake al gebruikgemaakt heeft van het aanbod in de voorziening in kwestie. De intake zonder doorverwijzing wordt opgenomen in het dossier van de gebruiker.
 
 ## Afdeling 4. Revalidatie voor neurologische en zintuiglijke aandoeningen
 
@@ -350,13 +348,21 @@ Er wordt een pilootproject opgezet om een nieuw financieringsmodel uit te testen
 <br>
 De afwijking, vermeld in het eerste lid, wordt alleen toegestaan voor de duurtijd van het pilootproject, vermeld in paragraaf 2.<br>
 <br>
-§2. Het pilootproject, vermeld in artikel 30, start op 1 januari 2026 en loopt gedurende maximaal twee jaar, één keer verlengbaar met maximaal twee jaar.
+De bepalingen, vermeld in het eerste lid, en de bepalingen van de revalidatieovereenkomsten die met de voorzieningen gesloten zijn op basis van artikel 74 en 75 van het decreet van 6 juli 2018, of de overeenkomsten die met de voorzieningen gesloten zijn op basis van artikel 24 van het decreet van 18 mei 1999, blijven onverminderd van toepassing op de voorzieningen die deelnemen aan het pilootproject, vermeld in artikel 30 van dit besluit, tenzij de overeenkomst, vermeld in artikel 33 van dit besluit, daar uitdrukkelijk van afwijkt.<br>
+<br>
+§2. Het pilootproject, vermeld in artikel 30, start op 1 april 2026 en loopt tot en met 31 december 2027.
 
 ### ART 32.
 
-De voorziening ontvangt voor de termijn, vermeld in artikel 31, §2, van dit besluit, minimaal dezelfde financiering als de financiering die overeenkomstig de bepalingen ter uitvoering van artikel 154/9 tot en met 154/14 van het decreet van 18 mei 2018 en hoofdstuk IV van het decreet van 18 mei 1999 kan worden verkregen in 2024.<br>
+§1. Een CAR kan deelnemen aan het pilootproject op voorwaarde dat het CAR in het kalenderjaar 2024 minimaal 91% van de voorziene revalidatieverstrekkingen heeft gepresteerd. &nbsp;<br>
 <br>
-De overeenkomst tot uitvoering van het pilootproject, vermeld in artikel 33, omschrijft de nadere modaliteiten van de budgetgarantie, vermeld in het eerste lid.
+§2. Een CAR dat deelneemt aan het pilootproject, vermeld in artikel 30 van dit besluit, en daarbij een bezetting haalt van 91%, ontvangt voor de termijn, vermeld in artikel 31, §2, van dit besluit, minimaal dezelfde financiering als de financiering die het CAR zou verkrijgen overeenkomstig de bepalingen in de revalidatieovereenkomst, vermeld in artikel 74 en 75 van het decreet van 6 juli 2018, die van kracht zijn op 1 januari 2026, uitgaand van de veronderstelling dat de voorziening in kwestie 92% van de voorziene revalidatieverstrekkingen presteert.&nbsp;<br>
+<br>
+Een CAR dat deelneemt aan het pilootproject, vermeld in artikel 30 van dit besluit, en daarbij een bezetting haalt van minder dan 91%, ontvangt voor de termijn, vermeld in artikel 31, §2, van dit besluit, minimaal dezelfde financiering als de financiering die het CAR zou ontvangen op 1 januari 2026 op basis van de reëel gepresteerde revalidatieverstrekkingen in het kalenderjaar 2024.<br>
+<br>
+Een CGG dat deelneemt aan het pilootproject, vermeld in artikel 30 van dit besluit, ontvangt in 2026 minimaal dezelfde financiering als de financiering die het zou verkrijgen op basis van de overeenkomst van 1 januari 2024 tot en met 31 december 2026, die gesloten is in uitvoering van hoofdstuk IV van het decreet van 18 mei 1999. In 2027 ontvangt elk CGG dat deelneemt aan het pilootproject, minimaal dezelfde financiering als de financiering waarop het recht heeft op basis van de overeenkomsten die van kracht zijn in 2026.<br>
+<br>
+De overeenkomst, vermeld in artikel 33, omschrijft de nadere modaliteiten van de budgetgarantie, vermeld in het eerste tot en met het derde lid.
 
 ### ART 33.
 

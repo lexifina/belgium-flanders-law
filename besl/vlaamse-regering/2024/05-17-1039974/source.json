@@ -2,16 +2,16 @@
   "codex_id": 1039974,
   "title": "Besluit van de Vlaamse Regering van 2024-05-17 tot de uitvoering van het decreet van 5 april 2019 betreffende de organisatie en ondersteuning van het geestelijke gezondheidsaanbod, wat betreft de centra voor ambulante revalidatie en de centra voor geestelijke gezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039974/VolledigDocument?datum=2024-08-08",
-  "source_sha256": "0096c097e22cf95f5f250f147f299a1d612a69878ecc4a51b4c3b54a486617f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039974/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "b2ba8157d76af6c7f66586c1ee91b5429cf01f3e61bed679ef7afbc8d9f90ade",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039974&param=informatie",
-  "as_of": "2024-08-08",
+  "as_of": "2026-01-01",
   "made": "2024-05-17",
   "gazette": "2024-07-29",
   "numac": 2024007050,
   "document_start": "2024-08-08",
   "document_end": null,
-  "in_force": "2024-08-08",
+  "in_force": "2026-01-01",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2024-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
