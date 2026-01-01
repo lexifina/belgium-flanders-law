@@ -1,5 +1,19 @@
 # Decreet van 2026-06-05 over het onderwijs XXXVI
 
+### ART 55.
+
+In artikel 44bis, §2, van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997, vervangen bij het decreet van 26 januari 2018 en gewijzigd bij het decreet van 13 juni 2025, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+“De gelijkwaardigheid wordt in haar geheel beoordeeld aan de hand van de volgende criteria:<br>
+1° het respect voor de fundamentele rechten en vrijheden;<br>
+2° de vereiste inhoud:&nbsp;<br>
+&nbsp; a) het onderwijsaanbod in de minimumdoelen voor het kleuteronderwijs omvat de inhouden van de vakdisciplines Nederlands, wiskunde, geschiedenis, aardrijkskunde, wetenschap en techniek, lichamelijke opvoeding, muzische vorming, attitudes;<br>
+&nbsp; b) het onderwijsaanbod in de minimumdoelen voor het lager onderwijs omvat de inhouden van de vakdisciplines Nederlands, wiskunde, geschiedenis, aardrijkskunde, wetenschap en techniek, ICT, lichamelijke opvoeding, muzische vorming, attitudes, en Frans naargelang van het geval;<br>
+3° de formulering:<br>
+&nbsp; a) gebeurt in de vorm van te bereiken of na te streven minimumdoelen, naargelang van het geval;<br>
+&nbsp; b) laat toe om na te gaan in welke mate bij een leerlingenpopulatie of een leerling minimumdoelen worden bereikt of nagestreefd, naargelang van het geval;<br>
+4° de ordening van de minimumdoelen, vermeld in artikel 44, §1, 1°.”.
+
 ### ART 100.
 
 In artikel 253/20, eerste lid, 5°, van dezelfde codex, ingevoegd bij het decreet van 18 juli 2025, worden de volgende wijzigingen aangebracht:<br>
@@ -28,6 +42,12 @@ In artikel 253/55, §1, 4°, van dezelfde codex, ingevoegd bij het decreet van 1
 2° de volgende zin wordt toegevoegd:&nbsp;<br>
 “Het schoolbestuur communiceert de precieze berekeningswijze en de gebruikte applicatie aan de betrokken personen.”.
 
+### ART 107.
+
+Aan artikel 256/3, §2 van dezelfde codex, ingevoegd bij het decreet van 29 juni 2012 en gewijzigd bij het decreet van 21 november 2025, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“De Vlaamse Regering kan onderwijsdoelen uit onderwijskwalificaties of uit referentiekaders als vermeld in het eerste lid, aanduiden die binnen de context van de examencommissie niet evalueerbaar of niet haalbaar zijn en bijgevolg buiten beschouwing worden gelaten bij de ontwikkeling van examenprogramma’s.”.&nbsp;
+
 ### ART 125.
 
 In artikel I.3 van de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewijzigd bij het decreet van 2 mei 2025, worden de volgende wijzigingen aangebracht:<br>
@@ -39,6 +59,20 @@ In artikel I.3 van de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewi
 “70°/2 vertrouwenspersoon personeel: de vertrouwenspersoon, vermeld in ar-tikel 32sexies, §2 en §2/2, van de wet van 4 augustus 1996;”;<br>
 4° er wordt een punt 79° toegevoegd, dat luidt als volgt:<br>
 “79° wet van 4 augustus 1996: de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk;”.
+
+### ART 128.
+
+Aan artikel II.29/2 van dezelfde codex, ingevoegd bij het decreet van 30 juni 2023, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+“In het begrotingsjaar 2026 wordt 500.000 euro toegevoegd aan de financiële ondersteuning om de werkingskosten voor het werkingsjaar 2026 te bekostigen.”.
+
+### ART 129.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt een artikel II.29/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.29/3. Ter uitvoering van artikel 15, derde lid, van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003, financiert de Vlaamse Regering, binnen de perken van de Vlaamse begroting, de ondersteunende of de aanvullende opdrachten, vermeld in artikel 1, tweede lid, van het voormelde verdrag, die de Vlaamse Regering als enige Verdragsluitende Partij aan de accreditatieorganisatie opdraagt.<br>
+<br>
+De accreditatieorganisatie rapporteert, inhoudelijk en financieel, over elke aanvullende opdracht die de Vlaamse Regering heeft opgedragen. De accreditatieorganisatie kan het gedeelte van de toegekende financiering voor een aanvullende opdracht dat de aanvaarde kosten overschrijdt, niet aanwenden voor de aanleg van reserves.”.
 
 ### ART 162.
 

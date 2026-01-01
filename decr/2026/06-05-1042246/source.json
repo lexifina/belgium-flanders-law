@@ -2,16 +2,16 @@
   "codex_id": 1042246,
   "title": "Decreet van 2026-06-05 over het onderwijs XXXVI",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042246/VolledigDocument?datum=2024-04-01",
-  "source_sha256": "feda0c846e8ca12b9552cf7610af0b06f910fd4d14907241b62e24beaa1d24fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042246/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "6a648202ebadd32af0b498abc5315b2dfa35b426270c1eb0f5f6493004d85f21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042246&param=informatie",
-  "as_of": "2024-04-01",
+  "as_of": "2026-01-01",
   "made": "2026-06-05",
   "gazette": "2026-08-26",
   "numac": 2026005886,
   "document_start": "2026-09-01",
   "document_end": null,
-  "in_force": "2024-04-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2024-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
