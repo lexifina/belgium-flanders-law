@@ -14,7 +14,8 @@ In dit decreet wordt verstaan onder:<br>
 1°/2 bemiddeling: het overleg tussen de minderjarige verdachte of de minderjarige delictpleger, de ouders, de opvoedingsverantwoordelijken, het slachtoffer en de personen die ten aanzien van het minderjarig slachtoffer het ouderlijk gezag uitoefenen of de opvoedingsverantwoordelijken, om hen de mogelijkheid te bieden, samen en met de hulp van een onpartijdige bemiddelaar, onder meer aan de relationele en materiële gevolgen van een jeugddelict tegemoet te komen;<br>
 2° betrokken personen: de minderjarige verdachte, de minderjarige delictpleger, de ouders, de opvoedingsverantwoordelijken, het slachtoffer en de personen die ten aanzien van het minderjarige slachtoffer het ouderlijk gezag uitoefenen of de opvoedingsverantwoordelijken;<br>
 2°/1 casusoverleg: een overleg als vermeld in artikel 458ter van het Strafwetboek, waarop casus per casus multilateraal informatie wordt uitgewisseld in het kader van een integrale en multidisciplinaire ketenaanpak jeugddelinquentie voor de minderjarige verdachte of delictpleger en zijn gezin;<br>
-2°/2 elektronische monitoring: de reactie waarbij met technologische middelen vanop een afstand de naleving van locatiegeboden en -verboden wordt gecontroleerd door het VCET en waarbij de begeleiding wordt opgenomen door de sociale dienst;<br>
+2°/1/1 diensten voor herstelgerichte en constructieve afhandeling: voorzieningen van categorie 5, vermeld in artikel 2, §1, 5°, van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+2°/2 &nbsp;elektronische monitoring: de reactie waarbij met technologische middelen vanop een afstand de naleving van locatiegeboden en -verboden wordt gecontroleerd in combinatie met een begeleiding op maat van de minderjarige;<br>
 3° gemeenschapsdienst: de onbezoldigde prestatie voor een aantal uren, opgelegd door de jeugdrechter of jeugdrechtbank als reactie op een delict;<br>
 4° gemeenschapsinstelling: een door de overheid ingerichte instelling met een gesloten aanbod;<br>
 5° gesloten oriëntatie: een gemeenschapsinstelling, of een afdeling van een gemeenschapsinstelling, die als opdracht heeft om voor de minderjarige verdachte of minderjarige delictpleger een gedocumenteerd antwoord te formuleren op de vraag of gesloten residentiële begeleiding noodzakelijk is en een oriëntatievoorstel te formuleren;<br>
@@ -34,7 +35,7 @@ In dit decreet wordt verstaan onder:<br>
 19° sanctie: het maatschappelijk antwoord op een jeugddelict tijdens de rechtspleging ten gronde, met uitsluiting van het herstelrechtelijk aanbod, de uithandengeving en het toevertrouwen van een minderjarige aan een afdeling van een jeugdpsychiatrische dienst als vermeld in artikel 39;<br>
 20° slachtoffer: de persoon die verklaart morele of materiële schade te hebben geleden die veroorzaakt is door een jeugddelict;<br>
 21° sociale dienst: de Sociale Dienst Jeugdrechtbank, vermeld in artikel 56 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-21°/1 VCET: het Vlaams Centrum Elektronisch Toezicht, vermeld in artikel 2, 3°, van het besluit van de Vlaamse Regering van 18 maart 2022 tot uitvoering van bepalingen over de justitiehuizen van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;<br>
+21°/1 Vlaams detentiecentrum: een afdeling van de gemeenschapsinstelling die bevoegd is voor de uitvoering van de voorlopige hechtenis of de gevangenisstraf ten aanzien van uit handen gegeven jongeren tot de maximale leeftijd van drieëntwintig jaar.<br>
 22° voorbereidende rechtspleging: de rechtspleging met het oog op de toepassing van een van de maatregelen, vermeld in hoofdstuk 4, afdeling 2;<br>
 23° wet van 8 april 1965: de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.
 
@@ -105,7 +106,7 @@ De maatregel, vermeld in artikel 20, §2, eerste lid, 3°/1, of de sanctie, verm
 <br>
 §2. Als de minderjarige verdachte of delictpleger de volle leeftijd van drieëntwintig jaar heeft bereikt, kan de jeugdrechter of jeugdrechtbank de aanwijzing geven dat de justitiehuizen toezicht houden op de naleving van voorwaarden of ambulante reacties en de minderjarige verdachte of delictpleger daarin begeleiden.<br>
 <br>
-Als de minderjarige verdachte of delictpleger de volle leeftijd van drieëntwintig jaar heeft bereikt, kan de jeugdrechter of jeugdrechtbank de aanwijzing geven dat het VCET instaat voor de controle op het individuele uurrooster en de uitvoering van de individuele voorwaarden in het kader van elektronische monitoring.
+Als de minderjarige verdachte of delictpleger de volle leeftijd van drieëntwintig jaar heeft bereikt, kan de jeugdrechter of jeugdrechtbank de aanwijzing geven dat het&nbsp;Agentschap Justitie en Handhaving instaat voor de controle op het individuele uurrooster en de uitvoering van de individuele voorwaarden in het kader van elektronische monitoring.
 
 ## HOOFDSTUK 3. De sociale onderzoeksopdrachten en de afhandeling op niveau van het openbaar ministerie
 
@@ -871,8 +872,6 @@ De Vlaamse Regering bepaalt de nadere regels betreffende de organisatie, werking
 
 De Vlaamse Regering richt Vlaamse detentiecentra op. De Vlaamse Regering bepaalt de maximumcapaciteit van elk Vlaams detentiecentrum.<br>
 <br>
-In dit artikel wordt verstaan onder Vlaams detentiecentrum: een instelling of afdeling van de gemeenschapsinstelling, bevoegd voor de uitvoering van de voorlopige hechtenis of de gevangenisstraf ten aanzien van uit handen gegeven jongeren tot de maximale leeftijd van drieëntwintig jaar.<br>
-<br>
 De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, belast met de tenlasteneming van de personen, vermeld in het tweede lid.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels betreffende de organisatie, werking en opdrachten van Vlaamse detentiecentra.
@@ -897,7 +896,7 @@ De Vlaamse Regering kan nadere voorwaarden bepalen voor de opvolging en de inhou
 §1. De volgende kernpartners organiseren een integrale en multidisciplinaire ketenaanpak jeugddelinquentie:<br>
 1° &nbsp; de lokale besturen;<br>
 2° de voorzieningen die erkend zijn voor delictgerichte contextbegeleiding, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
-3° de diensten voor herstelgerichte en constructieve afhandeling, vermeld in artikel 21 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+3° de diensten voor herstelgerichte en constructieve afhandeling;<br>
 4° de centra voor algemeen welzijnswerk, vermeld in artikel 6 van het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk;<br>
 5° de centra voor leerlingenbegeleiding, vermeld in het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 6° het agentschap Opgroeien, opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
@@ -984,34 +983,48 @@ De geheimhoudingsplicht, vermeld in paragraaf 1, kan niet verbroken worden vanwe
 
 ### ART 42.
 
-§ 1. Met het oog op de uitvoering van de opdrachten, toegewezen aan de diensten, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid, en artikel 25, § 6, eerste lid, de gesloten oriëntatie, de gemeenschapsinstelling, het Agentschap Justitie en Handhaving en de sociale dienst worden persoonsgegevens van de minderjarige, zijn ouders, in voorkomend geval, zijn opvoedingsverantwoordelijken en, in voorkomend geval, de slachtoffers, inclusief gegevens over gezondheid als vermeld in artikel 9 en persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten als vermeld in artikel 10 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, verwerkt.<br>
+§ 1. Met het oog op de uitvoering van de opdrachten, toegewezen aan de diensten, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid, en artikel 25, § 6, eerste lid, het Agentschap Justitie en Handhaving en de sociale dienst worden persoonsgegevens van de minderjarige, zijn ouders, in voorkomend geval, zijn opvoedingsverantwoordelijken en, in voorkomend geval, de slachtoffers, inclusief gegevens over gezondheid als vermeld in artikel 9 en persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten als vermeld in artikel 10 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, verwerkt.<br>
 <br>
 De dienst, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, en artikel 25, § 6, eerste lid, verwerkt minstens de persoonsgegevens met het oog op de identificatie van de betrokken personen en gerechtelijke gegevens.<br>
+<br>
+De diensten voor herstelgerichte en constructieve afhandeling kunnen, voor zover dat noodzakelijk is voor de uitvoering van de betreffende opdrachten, vermeld in paragraaf 2, van de minderjarige, de ouders of opvoedingsverantwoordelijken van de minderjarige, de slachtoffers en relevante betrokkenen uit de leefomgeving van de minderjarige, de volgende persoonsgegevens verwerken:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer of het identificatienummer van de Kruispuntbank van de Sociale Zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de identificatiegegevens, waaronder de voor- en achternaam, de geboortedatum en het geslacht;<br>
+3°&nbsp;&nbsp; &nbsp;de contactgegevens, waaronder het adres van domicilie of verblijf, het e-mailadres en het telefoonnummer;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over de schoolloopbaan, het beroep, de beroepsbekwaamheid, de opleiding en de vorming;<br>
+5°&nbsp;&nbsp; &nbsp;de nationaliteit, de burgerlijke staat en het verblijfsstatuut; 6°&nbsp;&nbsp; &nbsp;de gegevens over schulden en solvabiliteit;<br>
+7°&nbsp;&nbsp; &nbsp;de gegevens over de levensstijl, de vrijetijdsbesteding en de sociale context;<br>
+8°&nbsp;&nbsp; &nbsp;de gegevens over de gezinssamenstelling; 9°&nbsp;&nbsp; &nbsp;de gegevens over de woonomstandigheden; 10° de gegevens over de gezondheid;<br>
+11° de politionele en gerechtelijke gegevens;<br>
+12° de gegevens over risicosituaties en gedragingen;<br>
+13° de gegevens over seksueel gedrag of seksuele gerichtheid; 14° de gegevens waaruit herkomst of afkomst blijkt;<br>
+15° de gegevens waaruit politieke, religieuze of levensbeschouwelijke overtuigingen blijken.<br>
 <br>
 De dienst, vermeld in artikel 24, tweede lid, verwerkt minstens de persoonsgegevens met het oog op de identificatie van de betrokken personen, gegevens over gezondheid en gerechtelijke gegevens.<br>
 <br>
 De dienst, vermeld in artikel 18, § 2, verwerkt minstens de persoonsgegevens, waaronder identificatiegegevens van de ouders en gegevens met betrekking tot de context van de minderjarige en gerechtelijke gegevens.<br>
 <br>
-De gesloten oriëntatie, de gemeenschapsinstelling en de sociale dienst verwerken minstens de persoonsgegevens, waaronder identificatiegegevens en gegevens met betrekking tot de context van de minderjarige, gegevens over gezondheid en gerechtelijke gegevens.<br>
+De sociale dienst verwerkt&nbsp;minstens de persoonsgegevens, waaronder identificatiegegevens en gegevens met betrekking tot de context van de minderjarige, gegevens over gezondheid en gerechtelijke gegevens.<br>
 <br>
-De afdelingen justitiehuizen en VCET van het Agentschap Justitie en Handhaving kunnen de volgende persoonsgegevens verwerken:<br>
-1° de identificatiegegevens, het rijksregisternummer en de contactgegevens;<br>
-2° de gegevens over beroep, beroepsbekwaamheid, opleiding en vorming;<br>
-3° de leeftijd, het geslacht, de nationaliteit, de burgerlijke staat en het verblijfsstatuut;<br>
-4° de gegevens over schulden en solvabiliteit;<br>
-5° de gegevens over de levensstijl, de vrijetijdsbesteding en de sociale context;<br>
-6° de gegevens over de gezinssamenstelling;<br>
-7° de gegevens over de woonomstandigheden;<br>
-8° de politionele en gerechtelijke gegevens;<br>
-9° de gegevens over de gezondheid;<br>
-10° de gegevens over risicosituaties en -gedragingen; 11° de gegevens waaruit herkomst of afkomst blijkt;<br>
-12° de gegevens over seksueel gedrag of seksuele gerichtheid;<br>
-13° de gegevens waaruit politieke, religieuze of levensbeschouwelijke overtuigingen blijken;<br>
-14° de lokalisatiegegevens.<br>
+Het Agentschap Justitie en Handhaving kan, voor zover dat noodzakelijk is voor de uitvoering van de opdrachten, vermeld in paragraaf 2, elfde lid, van de minderjarige, de ouders of opvoedingsverantwoordelijken van de minderjarige, de slachtoffers en relevante betrokkenen uit de leefomgeving van de minderjarige, de volgende persoonsgegevens verwerken:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer of het identificatienummer van de Kruispuntbank van de Sociale Zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de identificatiegegevens, waaronder de voor- en achternaam, de geboortedatum, het geslacht en biometrische gegevens;<br>
+3°&nbsp;&nbsp; &nbsp;de contactgegevens, waaronder het adres van domicilie of verblijf, het e-mailadres en het telefoonnummer;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over de schoolloopbaan, het beroep, de beroepsbekwaamheid, de opleiding en de vorming;<br>
+5°&nbsp;&nbsp; &nbsp;de nationaliteit, de burgerlijke staat en het verblijfsstatuut;<br>
+6°&nbsp;&nbsp; &nbsp;de gegevens over schulden en solvabiliteit;<br>
+7°&nbsp;&nbsp; &nbsp;de gegevens over de levensstijl, de vrijetijdsbesteding en de sociale context;<br>
+8°&nbsp;&nbsp; &nbsp;de gegevens over de gezinssamenstelling;<br>
+9°&nbsp;&nbsp; &nbsp;de gegevens over de woonomstandigheden;<br>
+10° de gegevens over de gezondheid;<br>
+11° de politionele en gerechtelijke gegevens;<br>
+12° de gegevens over risicosituaties en gedragingen;<br>
+13° de gegevens over seksueel gedrag of seksuele gerichtheid;<br>
+14° de gegevens waaruit herkomst of afkomst blijkt;<br>
+15° de gegevens waaruit politieke, religieuze of levensbeschouwelijke overtuigingen blijken;<br>
+16° de lokalisatiegegevens.<br>
 <br>
-De gegevens, vermeld in het zesde lid, 11° tot en met 13°, kunnen enkel worden verwerkt door de afdeling Justitiehuizen.<br>
-<br>
-De gegevens, vermeld in het zesde lid, 14°, kunnen enkel worden verwerkt door de afdeling VCET voor de controle op het individuele uurrooster en de uitvoering van de individuele voorwaarden in het kader van elektronische monitoring.<br>
+De gegevens, vermeld in het zevende lid, 16°, kunnen alleen worden verwerkt voor de uitvoering van de opdracht, vermeld in paragraaf 2, elfde lid, 2°.<br>
 <br>
 § 2. De Vlaamse Regering bepaalt, na advies van de entiteit die optreedt als Gegevensbeschermingsautoriteit, de eventuele andere gegevenscategorieën die door diensten, sociale dienst, gesloten oriëntatie, en gemeenschapsinstelling verwerkt zullen worden en de nadere regels over de vorm waarin en de wijze waarop persoonsgegevens worden uitgewisseld.<br>
 <br>
@@ -1031,25 +1044,27 @@ De dienst, vermeld in artikel 24, tweede lid, verwerkt de gegevens met als doel 
 <br>
 De dienst, vermeld in artikel 25, § 6, eerste lid, verwerkt de gegevens met als doel de voorwaarden die opgelegd worden door de jeugdrechter of de jeugdrechtbank op te volgen en hiervan het nodige bewijs te leveren aan de jeugdrechter of de jeugdrechtbank.<br>
 <br>
-De gesloten oriëntatie verwerkt de gegevens met als doel een multidisciplinaire screening en een risicotaxatie uit te voeren. Deze onderzoeken resulteren in een oriëntatievoorstel gericht aan de jeugdrechter.<br>
-<br>
-De gemeenschapsinstelling verwerkt de gegevens met als doel om delictvoorkomend te kunnen werken.<br>
-<br>
 De sociale dienst verwerkt de gegevens met de volgende doelstellingen:<br>
 1° de maatschappelijke onderzoeken die de jeugdrechtbank vraagt conform artikel 50 van de wet van 8 april 1965, aanleveren;<br>
 2° de ondertoezichtstelling van de minderjarige uitvoeren;<br>
-3° voorzien in een gepaste begeleiding voor de minderjarige gedurende een elektronische monitoring.<br>
+3° ...<br>
 <br>
-De afdelingen justitiehuizen en VCET van het Agentschap Justitie en Handhaving verwerken de gegevens, vermeld in paragraaf 1, zesde lid, met de volgende doelstellingen:<br>
+Het Agentschap Justitie en Handhaving verwerkt&nbsp;de gegevens, vermeld in paragraaf 1, zevende lid, met de volgende doelstellingen:<br>
 1° de opdrachten, vermeld in artikel 5, 1° en 2°, van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand uitvoeren;<br>
-2° de controle op het individuele uurrooster en de uitvoering van de individuele voorwaarden in het kader van elektronische monitoring;<br>
+2° voorzien in een gepaste begeleiding en de controle op het individuele uurrooster en de uitvoering van de individuele voorwaarden in het kader van elektronische monitoring;<br>
 3° toezicht houden op de uitvoering van voorwaarden of ambulante reacties als de minderjarige verdachte of delictpleger de volle leeftijd van drieëntwintig jaar heeft bereikt, en de begeleiding van de minderjarige verdachte of delictpleger daarbij.<br>
+4° de uitvoering van een multidisciplinaire screening en een risicotaxatie in het kader van een gesloten oriëntatie, die resulteren in een oriëntatie-voorstel dat gericht is aan de jeugdrechter;<br>
+5° de uitvoering van een beveiligend en structurerend programma binnen de gemeenschapsinstellingen, dat herstelgericht en delictvoorkomend werkt, en dat erop gericht is de kansen op re-integratie te maximaliseren.<br>
 <br>
-§ 3. De verwerkingsverantwoordelijke van persoonsgegevens is het hoofd van het Agentschap Opgroeien regie, voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten van de gemeenschapsinstelling, de gesloten oriëntatie, en van de sociale dienst.&nbsp;De persoonsgegevens, vermeld in paragraaf 1, eerste tot en met vijfde lid, worden bewaard tot de betrokkene de leeftijd van vijfendertig jaar heeft bereikt.<br>
+§ 3.&nbsp;Het agentschap Opgroeien regie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten van de sociale dienst. De persoonsgegevens, vermeld in paragraaf 1, zesde lid, worden bewaard tot de betrokkene de leeftijd van vijfendertig jaar heeft bereikt.<br>
 <br>
-De verwerkingsverantwoordelijke van persoonsgegevens is de dienst voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten omschreven in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid artikel 25, §6, eerste lid, en artikel 37/1, §3.<br>
+De verwerkingsverantwoordelijke van persoonsgegevens is de dienst voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten omschreven in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid artikel 25, §6, eerste lid, en artikel 37/1, §3.&nbsp;De persoonsgegevens, vermeld in paragraaf 1, derde lid, worden door de diensten in kwestie bewaard tot de betrokkene de leeftijd van vijfendertig jaar heeft bereikt.<br>
 <br>
-De verwerkingsverantwoordelijke is het Agentschap Justitie en Handhaving, met het oog op de uitvoering van de taken, vermeld in paragraaf 2, dertiende lid. De persoonsgegevens, vermeld in paragraaf 1, zesde lid, worden bewaard overeenkomstig artikel 8 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand en haar uitvoeringsbesluiten.<br>
+Het Agentschap Justitie en Handhaving treedt op als verwerkingsverantwoordelijke van de persoonsgegevens voor wat betreft de verwerkingen op basis van paragraaf 2, elfde lid. De persoonsgegevens die verwerkt worden met het oog op de uitvoering van de opdrachten, vermeld in paragraaf 2, elfde lid, 1° en 3°, worden bewaard conform het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand. De persoonsgegevens die verwerkt worden met het oog op de uitvoering van de opdrachten, vermeld in paragraaf 2, elfde lid, 2°, 4° en 5°, worden bewaard tot de betrokkene de leeftijd van 35 jaar heeft bereikt.<br>
+<br>
+Om de opdrachten, vermeld in paragraaf 2, elfde lid, uit te voeren, heeft het Agentschap Justitie en Handhaving toegang tot het Rijksregister, vermeld in artikel 1 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen.<br>
+<br>
+De verwerkingsverantwoordelijken, vermeld in het eerste tot en met derde lid, nemen passende maatregelen met het oog op transparantie ten aanzien van de betrokkenen. De maatregelen hebben tot doel dat de regeling over de gegevensverwerking in het kader van de aan hen toegewezen opdrachten voldoende duidelijk is en dat het voor de betrokkenen duidelijk is op welke wijze de verplichtingen en de rechten, vermeld in artikel 12 tot en met 21 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden toegepast. De communicatie daarover wordt ter beschikking gesteld in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal.<br>
 <br>
 § 4. Voor de uitvoering van dit decreet worden de volgende instanties aangewezen als dienstenintegrator:<br>
 1° het eHealth-platform, opgericht bij de wet van 21 augustus 2008 houdende oprichting en organisatie van het eHealth-platform, met betrekking tot de gegevensdeling in functie van de verstrekte jeugdhulpverlening, met uitzondering van de gegevens, vermeld in punt 2°, a) en b);<br>
@@ -1061,7 +1076,7 @@ Als er bepaalde gegevens gedeeld worden bij of krachtens een wet, een decreet of
 
 ### ART 43.
 
-Met het oog op wetenschappelijk onderzoek naar de effectiviteit van de voorziene reacties bezorgen de diensten, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid, en artikel 25, § 6, eerste lid, de gesloten oriëntatie, de gemeenschapsinstelling, het Agentschap Justitie en Handhaving&nbsp;en de sociale dienst geanonimiseerde of gecodeerde persoonsgegevens aan de Vlaamse overheid. Wanneer dit volstaat voor het betrokken onderzoek, worden de gegevens enkel in geanonimiseerde vorm bezorgd.<br>
+Met het oog op wetenschappelijk onderzoek naar de effectiviteit van de voorziene reacties bezorgen de diensten, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid, en artikel 25, § 6, eerste lid, het Agentschap Justitie en Handhaving&nbsp;en de sociale dienst geanonimiseerde of gecodeerde persoonsgegevens aan de Vlaamse overheid. Wanneer dit volstaat voor het betrokken onderzoek, worden de gegevens enkel in geanonimiseerde vorm bezorgd.<br>
 <br>
 De Vlaamse Regering bepaalt, na advies van de entiteit die optreedt als Gegevensbeschermingsautoriteit, nadere regels over de vorm waarin en de wijze waarop de persoonsgegevens worden uitgewisseld. Ze bepaalt, in voorkomend geval, ook de wijze waarop de persoonsgegevens worden gecodeerd.<br>
 <br>
@@ -1069,7 +1084,7 @@ In dit artikel wordt verstaan onder gecodeerde persoonsgegevens: persoonsgegeven
 
 ### ART 44.
 
-De diensten, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid, en artikel 25, § 6, eerste lid, de gesloten oriëntatie, de gemeenschapsinstelling, het Agentschap Justitie en Handhaving en de sociale dienst, wisselen onder elkaar persoonsgegevens uit met het oog op de uitvoering van de hun toegewezen opdrachten.<br>
+De diensten, vermeld in artikel 11, § 4, eerste lid, artikel 12, § 1, tweede lid, artikel 13, § 1, vierde lid, artikel 18, § 2, artikel 22, § 3, eerste lid, artikel 23, § 1, derde lid, artikel 24, tweede lid, en artikel 25, § 6, eerste lid, het Agentschap Justitie en Handhaving en de sociale dienst, wisselen onder elkaar persoonsgegevens uit met het oog op de uitvoering van de hun toegewezen opdrachten.<br>
 <br>
 Met behoud van de toepassing van de verplichtingen en beperkingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens of uit de regelgeving van de sectoren, is de gegevensuitwisseling onderworpen aan de volgende voorwaarden:<br>
 1° de gegevensuitwisseling heeft alleen betrekking op gegevens die noodzakelijk zijn voor de uitvoering van de aan de diensten, vermeld in het eerste lid, toegewezen opdrachten;<br>
@@ -1136,6 +1151,8 @@ De organisaties die deelnemen aan het casusoverleg, vermeld in artikel 41/3, twe
 <br>
 §6. Organisaties die deelnemen aan het casusoverleg, vermeld in artikel 41/3, tweede lid, nemen de passende maatregelen met het oog op transparantie ten aanzien van de betrokkenen. Deze maatregelen hebben onder meer tot doel dat de globale regeling inzake gegevensverwerking in het kader van een casusoverleg voldoende duidelijk is voor de betrokkenen. De communicatie hieromtrent wordt ter beschikking gesteld in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal.<br>
 &nbsp;
+
+## HOOFDSTUK 5/1. Financiële bepalingen
 
 ### ART 44/2.
 
