@@ -2,16 +2,16 @@
   "codex_id": 1030491,
   "title": "Besluit van de Vlaamse Regering van 2019-02-22 houdende de toekenning van een subsidie aan pools gezinsopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030491/VolledigDocument?datum=2024-07-25",
-  "source_sha256": "478e2c125ae8344ba41fcde71f331e387743b2c54812c1b9d465da6de5a9fdcc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030491/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "8f0262c70af41a6a10cbaf235fb5f7b3f6ed9f6066b5fe7dabbf134b839e5910",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030491&param=informatie",
-  "as_of": "2024-07-25",
+  "as_of": "2026-01-01",
   "made": "2019-02-22",
   "gazette": "2019-04-01",
   "numac": 2019011245,
   "document_start": "2019-01-01",
   "document_end": "2027-12-31",
-  "in_force": "2024-07-25",
+  "in_force": "2026-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2024-07-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

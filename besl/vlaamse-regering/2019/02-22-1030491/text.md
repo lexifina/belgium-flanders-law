@@ -148,9 +148,7 @@ De jaarlijkse subsidie&nbsp;voor de opdrachten, vermeld in artikel 3 en 4, bedra
 <br>
 De jaarlijkse subsidie voor de opdrachten, vermeld in artikel 3/1 van dit besluit, bedraagt 64,75 euro per vergunde kinderopvangplaats van een organisator gezinsopvang of groepsopvang die werkt met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders of met werknemers in het kader van het vernieuwend project werknemersstatuut van de kinderbegeleiders, vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang.<br>
 <br>
-De subsidie, vermeld in het tweede lid, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting van een organisator wordt de subsidie pro rata toegekend. In afwijking van artikel 13 en 14 wordt de subsidie automatisch uitbetaald door het agentschap.<br>
-<br>
-De jaarlijkse subsidie, vermeld in het eerste en tweede lid, kan naar beneden worden bijgesteld wanneer uit de opbouw van de reserves, vermeld in artikel 9, het subsidiebedrag te hoog blijkt geraamd te zijn en is bijstelbaar in functie van eventuele begrotingsmaatregelen.
+De subsidie, vermeld in het tweede lid, wordt jaarlijks berekend op basis van de vergunde plaatsen op 1 september van het kalenderjaar dat voorafgaat aan het kalenderjaar waarvoor de subsidie geldt. Bij een stopzetting van een organisator wordt de subsidie pro rata toegekend. In afwijking van artikel 13 en 14 wordt de subsidie automatisch uitbetaald door het agentschap.
 
 ### ART 7.
 
@@ -158,21 +156,13 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 ### ART 8.
 
-De subsidie geldt voor een duur van zeven jaar, op voorwaarde dat:<br>
-1° de pool gezinsopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 3/1 en 4, en specifiek ook aan de voorwaarden, vermeld in artikel 2, tweede lid;<br>
-2°&nbsp;het agentschap de werking positief evalueert, uiterlijk na drie jaar. De organisatoren of hun vertegenwoordigers worden betrokken bij die tussentijdse evaluatie.<br>
-<br>
-Bij de evaluatie, vermeld in het eerste lid, 2°, wordt specifiek ook de inzet van de ondersteuners op de werkvloer, vermeld in artikel 3/1, geëvalueerd. De pool gezinsopvang bezorgt op verzoek van het agentschap alle nodige inlichtingen met het oog op die evaluatie.<br>
+Zolang de pools gezinsopvang voldoen aan de voorwaarden om de opdrachten, vermeld in artikel 2, tweede lid, 3, 3/1 en 4, te realiseren, geldt de subsidie tot en met 31 december 2027.<br>
 <br>
 Elke pool gezinsopvang stelt een commissaris-revisor aan die, aanvullend op zijn wettelijke taak en opdracht, jaarlijks attesteert dat de subsidies, vermeld in artikel 6, alleen worden gebruikt voor de opdrachten, vermeld in artikel 3, 3/1, 4 en 5.
 
 ### ART 9.
 
-De pool gezinsopvang kan op de volgende wijze reserves opbouwen met de subsidies, vermeld in dit besluit:<br>
-1° de reserves worden aangewend om de opdrachten, vermeld in artikel 3 en 4, te realiseren;<br>
-2° maximaal 20 % van het subsidiebedrag kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
-3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50 % van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
-4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij de pool gezinsopvang een aanwendings- of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.
+De pools gezinsopvang kunnen geen nieuwe reserves opbouwen met betrekking tot buitenschoolse opvang en activiteiten, vermeld in artikel 6, en de reserves met betrekking tot buitenschoolse opvang en activiteiten die aangelegd zijn vóór 2026 worden teruggevorderd door het agentschap.
 
 ### ART 10.
 
@@ -186,7 +176,9 @@ Deze aanpassing gebeurt telkens twee maanden nadat de afgevlakte gezondheidsinde
 
 ### ART 11.
 
-De subsidie wordt betaald met een voorschot van 80 % per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan&nbsp;het agentschap beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 15 mei van het kalenderjaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
+De subsidie wordt betaald met een voorschot van 80 % per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan&nbsp;het agentschap beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 15 mei van het kalenderjaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.<br>
+<br>
+Als uit de jaarlijkse budgettaire planning en rapportering blijkt dat de financiële verantwoording of de uitvoering van de activiteiten onvoldoende is of als het subsidiebedrag te hoog is, betaalt het agentschap een deel van de subsidie, vermeld in artikel 6, niet uit.
 
 ### ART 12.
 
@@ -237,7 +229,7 @@ In artikel 59, § 1, eerste lid, van hetzelfde besluit worden de woorden "en art
 
 ### ART 19.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2019 en treedt buiten werking op 31 december 2025.
+Dit besluit heeft uitwerking met ingang van 1 januari 2019.
 
 ### ART 20.
 
