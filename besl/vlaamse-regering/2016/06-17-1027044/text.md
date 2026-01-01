@@ -20,13 +20,13 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Voor een NMR die op zijn vroegst in 2015 is geïnstalleerd of die, als hij vóór 2015 is geïnstalleerd, op zijn vroegst in 2015 een upgrading heeft ondergaan waarvan de waarde minstens 50% vertegenwoordigt van de nieuwwaarde van het apparaat, wordt jaarlijks een forfaitaire subsidie van 114.188,92 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat is geïnstalleerd. De voormelde upgrading mag op zijn vroegst plaatsvinden in het zevende jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar van de installatie of de upgrading van het apparaat.<br>
+Voor een NMR die op zijn vroegst in 2015 is geïnstalleerd of die, als hij vóór 2015 is geïnstalleerd, op zijn vroegst in 2015 een upgrading heeft ondergaan waarvan de waarde minstens 50% vertegenwoordigt van de nieuwwaarde van het apparaat, wordt jaarlijks een forfaitaire subsidie van 100.283,71 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat is geïnstalleerd. De voormelde upgrading mag op zijn vroegst plaatsvinden in het zevende jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar van de installatie of de upgrading van het apparaat.<br>
 <br>
 Het apparaat, vermeld in het eerste lid, past in het maximale aantal apparaten dat mag worden uitgebaat met toepassing van artikel 1 van het koninklijk besluit van 25 april 2014 tot vaststelling van het maximum aantal toestellen voor magnetische resonantie tomografie dat uitgebaat mag worden.
 
 ### ART 3.
 
-Voor een bestralingsapparaat dat op zijn vroegst in 2015 is geïnstalleerd en dat past in het aantal bestralingsapparaten dat wordt vastgesteld met toepassing van artikel 31, § 3, 2°, a) en b), van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, wordt jaarlijks een forfaitaire subsidie van 87.849,03 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.&nbsp;In geval van een associatie van ziekenhuizen wordt de subsidie toegekend aan één van de ziekenhuizen van de associatie, dat beschikt over een erkenning voor bestralingsapparaten.<br>
+Voor een bestralingsapparaat dat op zijn vroegst in 2015 is geïnstalleerd en dat past in het aantal bestralingsapparaten dat wordt vastgesteld met toepassing van artikel 31, § 3, 2°, a) en b), van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, wordt jaarlijks een forfaitaire subsidie van 77.151,33 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.&nbsp;In geval van een associatie van ziekenhuizen wordt de subsidie toegekend aan één van de ziekenhuizen van de associatie, dat beschikt over een erkenning voor bestralingsapparaten.<br>
 <br>
 Het apparaat, vermeld in het eerste lid, mag alleen bestaan uit een lineaire versneller of een "gamma knife"-apparaat.<br>
 <br>
@@ -34,7 +34,7 @@ Het aantal bestralingsapparaten dat wordt vastgesteld met toepassing van artikel
 
 ### ART 4.
 
-Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 200.000 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt die jaarlijkse forfaitaire subsidie beperkt tot 100.000 euro. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.<br>
+Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 175.645,26 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt die jaarlijkse forfaitaire subsidie beperkt tot 87.822,63 euro. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.<br>
 Het apparaat, vermeld in het eerste lid, past in het maximale aantal apparaten dat mag worden uitgebaat met toepassing van artikel 3 van het koninklijk besluit van 25 april 2014 houdende vaststelling van het maximum aantal PET-scanners en diensten nucleaire geneeskunde waarin een PET-scanner wordt opgesteld, dat uitgebaat mag worden.
 
 ### ART 5.
