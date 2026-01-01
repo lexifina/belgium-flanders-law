@@ -106,7 +106,7 @@ De bespreking wordt zo spoedig mogelijk gepland en het bestuur bepaalt zijn vert
 <br>
 De aanvraag van een bespreking van het verslag schort de periode van dertig kalenderdagen voor de aanvraag tot opschorting van de procedure tot intrekking van de erkenning, vermeld in artikel 41, § 2, eerste lid, van het decreet van 8 mei 2009, op.<br>
 <br>
-§ 3. Uiterlijk binnen dertig kalenderdagen na de ontvangst van het doorlichtingsverslag of, indien er een bespreking werd aangevraagd als vermeld in § 2, eerste lid, na de bespreking van het verslag, kan de directie of het bestuur opmerkingen bezorgen aan de inspecteur-generaal. Die opmerkingen worden ongewijzigd toegevoegd aan het verslag.<br>
+§ 3. Uiterlijk binnen dertig kalenderdagen na de ontvangst van het doorlichtingsverslag of, indien er een bespreking werd aangevraagd als vermeld in § 2, eerste lid, na de bespreking van het verslag, kan de directie of het bestuur opmerkingen&nbsp;over de inhoud van het verslag en de gevolgde procedure bezorgen aan de inspecteur-generaal. Die opmerkingen worden ongewijzigd toegevoegd aan het verslag.<br>
 <br>
 § 4. Binnen dertig kalenderdagen na de ontvangst van het doorlichtingsverslag of, indien er een bespreking werd aangevraagd als vermeld in § 2, eerste lid, na de bespreking van het verslag, informeert de directeur van de instelling de leerlingen, de ouders van de leerlingen en de cursisten over de mogelijkheid tot inzage. Het verslag wordt door de directeur van de instelling geagendeerd en integraal besproken op een personeelsvergadering en op de schoolraad of de centrumraad.
 
