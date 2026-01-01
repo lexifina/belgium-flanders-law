@@ -29,18 +29,21 @@ In dit besluit wordt verstaan onder:<br>
 2° agentschap: het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 3° besluit van 24 juli 1991: het besluit van de Vlaamse regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een<br>
 Handicap;<br>
+3°/1 besluit van 4 februari 2011: het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
 4° besluit van 27 november 2015: het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget;<br>
+4°/1 besluit van 24 november 2017: het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
+4°/2 beveiligingsniveau: de hoeveelheid beveiliging die nodig is zodat de handicapspecifieke zorg en ondersteuning voor de geïnterneerde, de medebewoners en het personeel van een instelling of afdeling op een veilige manier kan verlopen;<br>
 5° budget: een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
-6° dagondersteuning: dagondersteuning als vermeld in artikel 1, 3°, van het besluit van 27 november 2015;<br>
+6° ...;<br>
 7° decreet van 7 mei 2004: het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 8° directeur: de directeur, vermeld in artikel 3, 2°, van de wet van 5 mei 2014;<br>
 9° geïnterneerde persoon: een persoon die geïnterneerd is conform de wet van 5 mei 2014;<br>
-10° individuele dienstverleningsovereenkomst: een individuele dienstverleningsovereenkomst als vermeld in artikel 8, § 1, eerste lid, 1°, van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
-11° module van ondersteuning: een module van ondersteuning als vermeld in de tabel die opgenomen is in de bijlage die bij dit besluit is gevoegd;<br>
+10° individuele dienstverleningsovereenkomst: een individuele dienstverleningsovereenkomst als vermeld in artikel 8, § 1, eerste lid, 1°, van het besluit van 4 februari 2011;<br>
+11° ...;<br>
 12° persoon met een handicap: een persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004;<br>
-13° unit voor geïnterneerden: een unit voor geïnterneerden als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
+13° unit voor geïnterneerden: een unit voor geïnterneerden als vermeld in artikel 10 van het besluit van 24 november 2017;<br>
 14° vergunde zorgaanbieder: de aanbieder van niet-rechtstreeks toegankelijke zorg en ondersteuning die vergund is conform het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet- rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
-15° woonondersteuning: de woonondersteuning, vermeld in artikel 1, 23°, van het besluit van 27 november 2015;<br>
+15° ...;<br>
 16° wet van 5 mei 2014: de wet van 5 mei 2014 betreffende de internering.
 
 ## HOOFDSTUK 2. Doelgroep
@@ -48,10 +51,10 @@ Handicap;<br>
 ### ART 2.
 
 Dit besluit is van toepassing op geïnterneerde personen die verblijven in een van de volgende inrichtingen:<br>
-1° een inrichting als vermeld in 3, 4°, a), van de wet van 5 mei 2014;<br>
+1° een inrichting als vermeld in artikel 3, 4°, a), van de wet van 5 mei 2014;<br>
 2° een inrichting als vermeld in artikel 3, 4°, b), van de voormelde wet;<br>
 3° een inrichting als vermeld in artikel 3, 4°, c), van de voormelde wet;<br>
-4° een project dat de bevoegde overheid subsidieert via de samenwerkingsovereenkomsten "opdracht in het kader van de uitbouw van een gedeelte van het zorgtraject voor geïnterneerde personen binnen de hervorming van de geestelijke gezondheidszorg" of "opdracht in het kader van de uitbouw voor het werkingsgebied Vlaanderen van een gedeelte van het zorgtraject voor gedetineerde en geïnterneerde seksuele plegers met een medium-riskprofiel binnen de hervorming van de geestelijke gezondheidszorg" als het een geïnterneerde persoon betreft met een vermoeden van handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004;<br>
+4° een project, gelegen in Vlaanderen of het tweetalige gebied Brussel Hoofdstad, dat de bevoegde overheid subsidieert in het kader van de samenwerkingsovereenkomsten uitbouw van een gedeelte van het zorgtraject per Hof van Beroep voor geïnterneerde personen binnen de hervorming van de geestelijke gezondheidszorg, of de samenwerkingsovereenkomsten uitbouw voor het werkingsgebied Vlaanderen van een gedeelte van het zorgtraject voor gedetineerde en geïnterneerde seksuele plegers met een medium-riskprofiel binnen de hervorming van de geestelijke gezondheidszorg in geval van een geïnterneerde persoon met een vermoeden van een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004, en die een verblijf in kader van een behandeling of een resocialisatie verlenen aan de geïnterneerde persoon;<br>
 5° een unit voor geïnterneerden.
 
 ## HOOFDSTUK 3. Het aanvragen van een budget en het stopzetten van de toewijzingen terbeschikkingstelling van een budget
@@ -62,97 +65,112 @@ Dit besluit is van toepassing op geïnterneerde personen die verblijven in een v
 <br>
 Het agentschap kan geen budget toewijzen of ter beschikking stellen aan geïnterneerde personen met een handicap die verblijven in een inrichting als vermeld in het eerste lid.<br>
 <br>
-De beslissing van het agentschap tot toewijzing of terbeschikkingstelling van een budget vervalt vanaf het ogenblik dat een geïnterneerde persoon verblijft in een inrichting als vermeld in het eerste lid.<br>
+De beslissing van het agentschap tot toewijzing of terbeschikkingstelling van een budget wordt van rechtswege stopgezet vanaf het ogenblik dat een geïnterneerde persoon verblijft in een inrichting als vermeld in het eerste lid en een goedkeuring heeft gekregen als vermeld in artikel 8, eerste lid, van dit besluit, of een beslissing tot toewijzing als vermeld in artikel 22, §3, van het besluit van 24 november 2017.<br>
 <br>
-In afwijking van het derde lid wordt de uitvoering van de beslissing tot toewijzing of terbeschikkingstelling van een budget geschorst gedurende de periode dat de geïnterneerde persoon onder het statuut plaatsing, vermeld in artikel 19 van de wet van 5 mei 2014, verblijft in een inrichting als vermeld in het eerste lid, als gevolg van een voorlopige aanhouding als vermeld in artikel 65 van de voormelde wet, of van een schorsing van een invrijheidstelling op proef of een elektronisch toezicht als vermeld in artikel 61 van de voormelde wet en wordt de beslissing tot toewijzing of terbeschikkingstelling van een budget stopgezet vanaf de eerste dag van de vierde maand na de maand waarin de geïnterneerde persoon met een handicap voor crisisondersteuning of time-out is overgestapt naar een inrichting als vermeld in artikel 2, 4°.<br>
+De uitvoering van de beslissing tot toewijzing of terbeschikkingstelling van een budget wordt geschorst gedurende de periode dat de geïnterneerde persoon onder het statuut plaatsing, vermeld in artikel 19 van de wet van 5 mei 2014, verblijft in een inrichting als vermeld in het eerste lid, als gevolg van een voorlopige aanhouding als vermeld in artikel 65 van de voormelde wet, of van een schorsing van een invrijheidstelling op proef of een elektronisch toezicht als vermeld in artikel 61 van de voormelde wet en de beslissing tot toewijzing of terbeschikkingstelling van een budget wordt van rechtswege stopgezet vanaf de eerste dag van de vierde maand na de maand waarin de geïnterneerde persoon met een handicap voor crisisondersteuning of time-out is overgestapt naar een inrichting als vermeld in artikel 2, 4°.<br>
 <br>
 § 2. In afwijking van artikel 3 van het besluit van 27 november 2015 kunnen de geïnterneerde personen die verblijven in een inrichting als vermeld in artikel 2, 5°, van dit besluit, of die een individuele dienstverleningsovereenkomst hebben afgesloten als vermeld in artikel 9 van dit besluit, ten vroegste een budget aanvragen met toepassing van het besluit van 27 november 2015 vanaf de eerste dag van de zevende maand na de maand waarin ze zijn opgenomen in een inrichting als vermeld in artikel 2, 5°, van dit besluit, of waarin de individuele dienstverleningsovereenkomst is gestart.<br>
 <br>
 In afwijking van artikel 22 van het besluit van 27 november 2015 wordt het dossier niet voorgelegd aan de Vlaamse toeleidingscommissie. Er wordt van rechtswege prioriteitengroep 1 toegekend. De vraag naar een budget wordt binnen de prioriteitengroep 1 gerangschikt met de datum van de aanvraag, vermeld in artikel 5 van het besluit van 27 november 2015.<br>
 <br>
-§ 3. Als een geïnterneerde persoon met een handicap die verblijft in een inrichting als vermeld in artikel 2, 5°, een aanvraag van ondersteuning als vermeld in artikel 4, indient bij het agentschap, wordt de aanvraag van een budget waarover het agentschap nog geen beslissing heeft genomen op de datum van de aanvraag van ondersteuning als vermeld in artikel 4, van rechtswege stopgezet. De beslissing van het agentschap tot toewijzing van een budget vervalt vanaf de datum van de aanvraag van ondersteuning als vermeld in artikel 4.<br>
-<br>
-§ 4. Als het agentschap een budget ter beschikking stelt dat is toegewezen naar aanleiding van een aanvraag van een budget van een geïnterneerde persoon die verblijft in een inrichting als vermeld in artikel 2, 5°, van dit besluit, of die een individuele dienstverleningsovereenkomst heeft gesloten als vermeld in artikel 9 van dit besluit, wordt de nood aan zorg en ondersteuning binnen een periode van drie maanden vanaf de datum van de beslissing over de terbeschikkingstelling van het budget opnieuw geobjectiveerd door een multidisciplinair team conform artikel 13 van het besluit van 27 november 2015. Als de nood aan zorg en ondersteuning niet binnen de voormelde periode van drie maanden opnieuw wordt geobjectiveerd, wordt de terbeschikkingstelling stopgezet met ingang van de eerste dag van de zevende maand die volgt op de maand waarin het agentschap de beslissing over de terbeschikkingstelling van het budget heeft genomen. De beslissing tot toewijzing wordt opgeheven met ingang van dezelfde dag.<br>
-<br>
-Het agentschap stelt op basis van de ondersteuningsfuncties en frequenties, vermeld in het ondersteuningsplan persoonsvolgende financiering, vermeld in artikel 1, 15°, van het besluit van 27 november 2015, dat is bezorgd in het kader van de aanvraag van een budget, vermeld in het eerste lid, en op basis van het resultaat van de nieuwe objectivering van de nood aan zorg en ondersteuning, vermeld in het eerste lid, een budgetcategorie vast conform artikel 17 tot en met artikel 21 van het besluit van 27 november 2015. De beslissing tot toewijzing van die budgetcategorie vervangt de eerdere beslissing over de toewijzing van een budget.<br>
-<br>
-Als de budgetcategorie, die wordt vastgesteld conform het tweede lid, lager is dan de budgetcategorie van het budget, vermeld in het eerste lid, dat ter beschikking is gesteld, wordt de nieuwe budgetcategorie toegewezen en ter beschikking gesteld met ingang van de eerste dag van de vierde maand die volgt op de maand waarin het agentschap de beslissing over de terbeschikkingstelling heeft genomen.<br>
-<br>
-Als de budgetcategorie, die wordt vastgesteld conform het tweede lid, hoger is dan de budgetcategorie van het budget, vermeld in het eerste lid, dat ter beschikking gesteld is, wordt die budgetcategorie onmiddellijk toegewezen en ter beschikking gesteld.
+§ 3. Als een geïnterneerde persoon met een handicap die verblijft in een inrichting als vermeld in artikel 2, 5°, een aanvraag van ondersteuning als vermeld in artikel 4, indient bij het agentschap, wordt de aanvraag van een budget waarover het agentschap nog geen beslissing heeft genomen op de datum van de aanvraag van ondersteuning als vermeld in artikel 4, van rechtswege stopgezet. De beslissing van het agentschap tot toewijzing van een budget vervalt vanaf de datum van de aanvraag van ondersteuning als vermeld in artikel 4.
+
+## HOOFDSTUK 3/1. Voorwaarden voor de aanvrager
 
 ### ART 4.
 
 Geïnterneerde personen kunnen, binnen de grenzen van de middelen die daarvoor zijn vastgelegd op zijn begroting bij het agentschap aanspraak maken op zorg en ondersteuning voor geïnterneerde personen met een handicap die wordt geboden door een vergunde zorgaanbieder die voldoet aan de voorwaarden, vermeld in artikel 7 van dit besluit, en daarvoor wordt gesubsidieerd door het agentschap, als ze aan al de volgende voorwaarden voldoen:<br>
-1° ze verblijven op het moment van de aanvraag van ondersteuning conform dit besluit in een inrichting als vermeld in artikel 2 van dit besluit;<br>
+1° ze zijn geïnterneerd;<br>
+1°/1 ze verblijven op het moment van de aanvraag van de ondersteuning, vermeld in artikel 5, eerste lid, van dit besluit, en tot op het moment van de instroom bij een vergunde zorgaanbieder, vermeld in artikel 9, eerste lid, van dit besluit, voltijds residentieel in een inrichting als vermeld in artikel 2 van dit besluit;<br>
 2° ze zijn door het agentschap erkend als een persoon met een handicap en zijn geen persoon met uitsluitend een of meer psychische stoornissen als vermeld in artikel 2 van het besluit van 27 november 2015;<br>
 3° het agentschap heeft positief beslist over de aanvraag van ondersteuning conform dit besluit;<br>
-4° ze hebben nood aan ondersteuning die wordt geboden vanuit een handicapspecifieke en forensische knowhow binnen een aangepaste infrastructuur als vermeld in artikel 7, tweede lid, van dit besluit.
+4° ze hebben nood aan ondersteuning die wordt geboden vanuit een handicapspecifieke en forensische knowhow binnen een aangepaste infrastructuur als vermeld in artikel 7, tweede lid, van dit besluit;<br>
+5° ondersteuning met een laag beveiligingsniveau volstaat om de handicapspecifieke zorg en ondersteuning voor zichzelf, de medebewoners en het personeel van de vergunde zorgaanbieder, vermeld in artikel 9, eerste lid, van dit besluit, op een veilige manier te laten verlopen.<br>
+<br>
+In afwijking van het eerste lid, 5°, kunnen geïnterneerde personen met nood aan een matig beveiligingsniveau een aanvraag indienen conform dit besluit als ze op het moment van het indienen van die aanvraag verblijven in een inrichting als vermeld in artikel 2, 5°.<br>
+<br>
+Het beveiligingsniveau heeft in de eerste plaats betrekking op de infrastructuur van een instelling of afdeling en wordt onderverdeeld in drie niveaus: lage, matige of hoge beveiliging. Bij de bepaling van het beveiligingsniveau wordt er rekening gehouden met de materiële, procedurele en relationele beveiliging.
 
 ## HOOFDSTUK 4. De aanvraag en afhandeling van de aanvraag
 
 ### ART 5.
 
-De aanvraag van de ondersteuning, vermeld in artikel 4, omvat al de volgende elementen:<br>
-1° een aanvraagdocument waarvan het sjabloon wordt vastgesteld door het agentschap;<br>
-2° een verslag dat is opgesteld door een multidisciplinair team als vermeld in artikel 22, eerste lid, van het besluit van 24 juli 1991, waarin informatie wordt aangeleverd die toelaat te beoordelen of de persoon die ondersteuning vraagt of de persoon voor wie ondersteuning wordt gevraagd, al dan niet een persoon is met een handicap, met in voorkomend geval een positief of negatief advies daarover als vermeld in artikel 28, § 1, van het voormelde besluit, en een duidelijke en omstandige afbakening van de toestand en de behoeften van de aanvrager op medisch, psychopedagogisch en sociaal gebied als vermeld in artikel 28, § 2, eerste lid, 1°, van het voormelde besluit;<br>
-3° een verslag dat wordt opgemaakt door de directeur als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2°, van dit besluit, of door de verantwoordelijke van de zorg als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4°, van dit besluit, door of de verantwoordelijke van de unit voor geïnterneerden als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°, van dit besluit. In het verslag wordt een inschatting geformuleerd van de nood aan begeleiding en de nood aan permanentie van de geïnterneerde persoon en wordt omstandig gemotiveerd waarom de persoon ondersteuning als vermeld in artikel 4, 4°, van dit besluit, nodig heeft en waaruit die ondersteuning moet bestaan. De nodige zorg en ondersteuning wordt uitgedrukt aan de hand van de ondersteuningsfuncties woonondersteuning, dagondersteuning en individuele ondersteuningsfuncties, met vermelding van de frequentie als woonondersteuning of dagondersteuning noodzakelijk wordt geacht. De frequentie van woonondersteuning wordt uitgedrukt in nachten per week. De frequentie van dagondersteuning wordt uitgedrukt in dagen per week.<br>
+De aanvraag van de ondersteuning bevat de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;een aanvraagdocument, waarvan het agentschap het model vaststelt, waarin de gevraagde module van ondersteuning wordt aangeduid en omstandig wordt gemotiveerd. Door de ondertekening van het aanvraagdocument gaan de inrichting, vermeld in artikel 2, 1° tot en met 5°, van dit besluit, en de persoon voor wie de aanvraag wordt ingediend of de wettelijke vertegenwoordiger, akkoord met het delen van het risicotaxatieverslag en het verslag over het beveiligingsniveau met de vergunde zorgaanbieder, vermeld in artikel 7, eerste lid, van dit besluit, die een opname overweegt. De inrichting, vermeld in artikel 2, 1° tot en met 5°, van dit besluit, deelt ook aan de persoon met een handicap voor wie de ondersteuning wordt gevraagd of aan de wettelijke vertegenwoordiger mee met welke vergunde zorgaanbieder, vermeld in artikel 7, eerste lid, van dit besluit, die verslagen worden gedeeld;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;een document met een verklaring over de specifieke voorwaarden verbonden aan de procedure geïnterneerden, waarvan het agentschap het model vaststelt. In dit document wordt verklaard:<br>
+a)&nbsp;&nbsp; &nbsp;dat de persoon voor wie de aanvraag wordt ingediend een geïnterneerde persoon is;<br>
+b)&nbsp;&nbsp; &nbsp;dat die persoon voltijds residentieel verblijft in een inrichting als vermeld in artikel 2, 1° tot en met 5°;<br>
+c)&nbsp;&nbsp; &nbsp;welk beveiligingsniveau van ondersteuning die persoon nodig heeft;<br>
+d)&nbsp;&nbsp; &nbsp;dat die persoon verblijft in kader van een behandeling of een resocialisatie, en dit in het geval die persoon verblijft in een inrichting als vermeld in artikel 2, 4° van dit besluit;<br>
+3°&nbsp;&nbsp; &nbsp;een verslag met de beschrijving van het benodigde beveiligingsniveau van de persoon voor wie de aanvraag wordt ingediend en een conclusie met de expliciete vermelding of de persoon een laag, matig of hoog beveiligingsniveau nodig heeft;<br>
+4° &nbsp;&nbsp; &nbsp;een risicotaxatieverslag, dat bestaat uit de beschrijving van het risicoprofiel of het risico op herval van de persoon voor wie de aanvraag wordt ingediend en een conclusie met de expliciete vermelding of de persoon een laag, matig of hoog risicoprofiel heeft;<br>
+5° &nbsp;&nbsp; &nbsp;als de geïnterneerde persoon die ondersteuning vraagt of voor wie ondersteuning wordt gevraagd, niet is erkend door het agentschap als een persoon met een handicap, een verslag dat de informatie bevat als vermeld in artikel 24, §1, eerste lid, 1°, a), van het besluit van 24 juli 1991, dat is opgesteld door een multidisciplinair team als vermeld in artikel 23, eerste lid, van het voormelde besluit.<br>
 <br>
-In het eerste lid, 3°, wordt verstaan onder:<br>
-1° individuele ondersteuningsfuncties: de individuele ondersteuningsfuncties, vermeld in artikel 1, 7°, van het besluit van 27 november 2015;<br>
-2° nood aan begeleiding: de nood aan ondersteuning door personen overdag;<br>
-3° nood aan permanentie: de nood aan aanwezigheid van en toezicht door personen overdag, en nachtpermanentie, die de nood aan toezicht en ondersteuning 's nachts uitdrukt;<br>
-4° ondersteuningsfuncties: de ondersteuningsfuncties, vermeld in artikel 1, 14°, van het besluit van 27 november 2015.<br>
-<br>
-Als de geïnterneerde persoon die ondersteuning vraagt of voor wie ondersteuning wordt gevraagd, al is erkend door het agentschap als een persoon met een handicap hoeft het verslag, vermeld in het eerste lid, 2°, niet te worden aangeleverd.<br>
+De ondersteuning, vermeld in het eerste lid, 1°, bestaat uit de volgende modules:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;individuele ondersteuning, namelijk handicapspecifieke en forensische ondersteuning voor personen die niet wonen in een collectieve ondersteuningsvorm van een vergunde zorgaanbieder. Dat soort ondersteuning kan verschillen en kan bestaan uit:<br>
+a)&nbsp;&nbsp; &nbsp;individuele psychosociale begeleiding: een-op-eenbegeleiding om te helpen met de organisatie van het dagelijkse leven, gedurende een aantal uren per week. De begeleiding beperkt zich tot inhoudelijke begeleiding;<br>
+b)&nbsp;&nbsp; &nbsp;individuele praktische hulp: praktische hulp in een een-op-eenrelatie bij activiteiten van het dagelijks leven, afgekort ADL, gedurende een aantal uur per week;<br>
+c)&nbsp;&nbsp; &nbsp;globale individuele ondersteuning: een-op-eenondersteuning die eerder ruim is en verschillende levensdomeinen kan omvatten. De aard van de ondersteuning kan verschillen en de verschillende vormen van ondersteuning kunnen door elkaar lopen. Het kan gaan om stimulatie, coaching, training en assistentie bij activiteiten;<br>
+d)&nbsp;&nbsp; &nbsp;oproepbare permanentie: de beschikbaarheid van een begeleider om na een oproep binnen een bepaalde tijd een-op-eenondersteuning te bieden die niet gepland kan worden;<br>
+e)&nbsp;&nbsp; &nbsp;begeleid werken: de individuele en trajectmatige begeleiding van een gebruiker die niet kan worden ingeschakeld in het bestaande reguliere of beschermde arbeidscircuit, om via een aanbod van arbeidsmatige onbezoldigde activiteiten de individuele ontplooiing en de sociale integratie van die gebruiker te bevorderen;<br>
+2°&nbsp;&nbsp; &nbsp;dagondersteuning: voltijdse ondersteuning in een collectieve setting met forensische omkadering die gedurende de dag wordt geboden. De geleverde ondersteuning is moeilijk tot niet individueel planbaar of toewijsbaar. De ondersteuning heeft per definitie voor een deel een niet-instrumenteel karakter en bestaat uit begeleiding en permanentie;<br>
+3°&nbsp;&nbsp; &nbsp;woonondersteuning: voltijdse woonondersteuning in een collectieve setting met forensische omkadering die tot doel heeft de persoon met een handicap ‘s avonds, ‘s nachts en ‘s ochtends te ondersteunen bij het wonen. De geleverde uren ondersteuning zijn moeilijk tot niet individueel planbaar of toewijsbaar. De ondersteuning heeft per definitie voor een deel een niet-instrumenteel karakter en bestaat uit begeleiding en permanentie;<br>
+4°&nbsp;&nbsp; &nbsp;dag- en woonondersteuning: voltijdse woon- en dagondersteuning in een collectieve setting met forensische omkadering;<br>
+5°&nbsp;&nbsp; &nbsp;dag- en woonondersteuning +: voltijdse woon- en dagondersteuning in een collectieve setting met forensische omkadering waarbij er voortdurend iemand aanwezig moet zijn en er toezicht uitgeoefend moet worden binnen gehoorsafstand of waarbij er voortdurend iemand aanwezig moet zijn zonder dat die persoon voortdurend toezicht moet uitoefenen en de persoon dagelijks ondersteuning nodig heeft op de meeste levensdomeinen, voornamelijk in de vorm van inhoudelijke of praktische begeleiding van een deel van de activiteit.<br>
 <br>
 Het aanvraagdocument, vermeld in het eerste lid, 1°, wordt ondertekend door de aanvrager en door:<br>
-1° de directeur als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2° ;<br>
-2° de verantwoordelijke van de zorg als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4° ;<br>
-3° de verantwoordelijke van de unit voor geïnterneerden als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°.<br>
+1°&nbsp;&nbsp; &nbsp;de directeur, als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2°;<br>
+2°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de zorg, als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4°;<br>
+3° &nbsp;&nbsp; &nbsp;de verantwoordelijke van de unit voor geïnterneerden, als de persoon &nbsp; &nbsp;verblijft in een inrichting als vermeld in artikel 2, 5°.<br>
 <br>
-Het aanvraagdocument, vermeld in het eerste lid, 1°, en het verslag, vermeld in het eerste lid, 3°, worden op de door het agentschap vastgestelde elektronische wijze aan het agentschap bezorgd door:<br>
-1° de directeur als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2° ;<br>
-2° de verantwoordelijke van de zorg als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4° ;<br>
-3° de verantwoordelijke van de unit voor geïnterneerden als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°.<br>
+De verklaring over de specifieke voorwaarden verbonden aan de procedure geïnterneerden, vermeld in het eerste lid, 2°, wordt ondertekend door:<br>
+1°&nbsp;&nbsp; &nbsp;de directeur, als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2°;<br>
+2°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de zorg, als de persoon verblijft in een inrichting als vermeld, in artikel 2, 3° of 4°;<br>
+3°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de unit voor geïnterneerden, als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°.<br>
 <br>
-Het agentschap controleert of de aanvraag conform het eerste tot en met het vijfde lid is ingediend en kan bijkomende informatie opvragen of in voorkomend geval vragen om de aanvraag te vervolledigen. Als de gevraagde informatie niet wordt aangeleverd of de aanvraag niet wordt vervolledigd binnen een maand vanaf de dag waarop het agentschap heeft gevraagd informatie aan te leveren of het dossier te vervolledigen, wordt de aanvraag stopgezet.
+Het aanvraagdocument, vermeld in het eerste lid, 1°, de verklaring over de specifieke voorwaarden verbonden aan de procedure geïnterneerden, vermeld in het eerste lid, 2°, het verslag over het beveiligingsniveau, vermeld in het eerste lid, 3° en het risicotaxatieverslag, vermeld in het eerste lid, 4°, worden bezorgd op de wijze die het agentschap bepaalt.<br>
+<br>
+Het agentschap controleert of de aanvraag conform het eerste tot en met het vijfde lid is ingediend en kan bijkomende informatie opvragen of in voorkomend geval vragen om de aanvraag te vervolledigen. Als de aanvraag niet wordt vervolledigd binnen dertig dagen vanaf de dag waarop het agentschap heeft gevraagd om het dossier te vervolledigen, wordt de aanvraag stopgezet.<br>
+<br>
+In afwijking van het zesde lid, wordt de aanvraag stopgezet als het verslag, vermeld in het eerste lid, 5°, niet wordt bezorgd aan het agentschap binnen twaalf maanden na de datum van aanvraag.<br>
+<br>
+Als de persoon met een handicap gebruik maakt van dagondersteuning als vermeld in het tweede lid, 2°, of begeleid werken als vermeld in het tweede lid, 1°, e), dan kan dit niet gecombineerd worden met de arbeidsmatige activiteiten, vermeld in hoofdstuk 3 van het besluit van de Vlaamse Regering van 18 november 2022 houdende de uitvoering van het decreet van 8 juli 2022 over de werk- en zorgtrajecten.
 
 ### ART 6.
 
 § 1. Als de persoon die zorg en ondersteuning, als vermeld in artikel 4, vraagt of voor wie die zorg en ondersteuning wordt gevraagd, nog niet erkend is als een persoon met een handicap, legt het agentschap het dossier voor aan de Vlaamse toeleidingscommissie, vermeld in artikel 12 van het besluit van 24 juli 1991.<br>
 <br>
-De Vlaamse toeleidingscommissie, vermeld in het eerste lid, bepaalt of de persoon getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004. De Vlaamse toeleidingscommissie steunt haar beoordeling op het verslag, vermeld in artikel 5, eerste lid, 2°, van dit besluit.<br>
+De Vlaamse toeleidingscommissie, vermeld in het eerste lid, bepaalt of de persoon getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004. De Vlaamse toeleidingscommissie steunt haar beoordeling op het verslag, vermeld in artikel 5, eerste lid, 5°, van dit besluit.<br>
 <br>
 De aanvrager kan vragen om te worden gehoord door de Vlaamse toeleidingscommissie, vermeld in het eerste lid.<br>
 <br>
 § 2. In afwijking van paragraaf 1 wordt het dossier niet voorgelegd aan de Vlaamse toeleidingscommissie, vermeld in artikel 12 van het besluit van 24 juli 1991, als de persoon zich in een van de situaties bevindt, vermeld in artikel 2, § 2bis, van het voormelde besluit. De persoon die zich bevindt in een van de situaties, vermeld in het voormelde artikel 2, § 2bis, wordt automatisch erkend als een persoon met een handicap.<br>
 <br>
-§ 3. Het agentschap onderzoekt of is voldaan aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004.<br>
+§ 3. Het agentschap onderzoekt of is voldaan aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004 en of de persoon met een handicap voldoet aan de voorwaarden, vermeld in artikel 4 van dit besluit.<br>
 <br>
-Als de persoon is erkend als een persoon met een handicap en er is voldaan aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004, bepaalt het agentschap op basis van het verslag, vermeld in artikel 5, eerste lid, 3°, van dit besluit, conform de tabel die opgenomen is in de bijlage die bij dit besluit is gevoegd, de module van ondersteuning die kan worden toegewezen.<br>
+Als de persoon is erkend als een persoon met een handicap en er is voldaan aan de voorwaarden, vermeld in artikel 20 en 21 van het decreet van 7 mei 2004, bepaalt het agentschap op basis van het aanvraagformulier, vermeld in artikel 5, eerste lid, 1°, van dit besluit, de module van ondersteuning, vermeld in artikel 5, tweede lid, van dit besluit, die kan worden toegewezen.<br>
 <br>
-Het agentschap kan geen combinatie van modules van ondersteuning toewijzen. Het agentschap kan de module dag- en woonondersteuning + toewijzen als in het verslag, vermeld artikel 5, eerste lid, 3°, een van de volgende situaties is aangetoond:<br>
-1° de geïnterneerde persoon heeft voltijds dag- en woonondersteuning nodig, er moet voortdurend iemand aanwezig zijn en er moet toezicht uitgeoefend worden binnen gehoorsafstand;<br>
-2° de geïnterneerde persoon heeft voltijds dag- en woonondersteuning nodig, er moet voortdurend iemand moet aanwezig zijn zonder dat die persoon voortdurend toezicht moet uitoefenen en de persoon heeft dagelijks ondersteuning nodig op de meeste levensdomeinen, voornamelijk in de vorm van inhoudelijke of praktische begeleiding van een deel van de activiteit.<br>
+Het agentschap kan geen combinatie van modules van ondersteuning toewijzen.<br>
 <br>
-De beslissing tot toewijzing of weigering van een module ondersteuning als vermeld in de tabel die opgenomen is in de bijlage bij die dit besluit is gevoegd, wordt meegedeeld:<br>
-1° aan de aanvrager en aan de directeur als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2° ;<br>
-2° aan de verantwoordelijke van de zorg als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4° ;<br>
-3° aan de verantwoordelijke van de unit voor geïnterneerden als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°.<br>
+De beslissing tot toewijzing of weigering van een module van ondersteuning als vermeld in artikel 5, tweede lid, van dit besluit, wordt meegedeeld aan de aanvrager en aan de volgende personen:<br>
+1°&nbsp;&nbsp; &nbsp;de directeur, als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2°, van dit besluit;<br>
+2°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de zorg, als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4°, van dit besluit;<br>
+3°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de unit voor geïnterneerden, als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°, van dit besluit;<br>
+4°&nbsp;&nbsp; &nbsp;het multidisciplinair team, vermeld in artikel 23 van het besluit van 24 juli 1991, dat het verslag, vermeld in artikel 5, eerste lid, 5°, van dit besluit, heeft opgemaakt.<br>
 <br>
-De beslissing van het agentschap tot toewijzing van een module ondersteuning als vermeld in de tabel die opgenomen is in de bijlage die bij dit besluit is gevoegd, vervalt in volgende gevallen:<br>
+De beslissing van het agentschap tot toewijzing van een module van ondersteuning als vermeld in artikel 5, tweede lid, van dit besluit,&nbsp;vervalt in volgende gevallen:<br>
 1° als er binnen het jaar te rekenen vanaf de datum van de beslissing, vermeld in paragraaf 3, vierde lid, geen individuele dienstverleningsovereenkomst als vermeld in artikel 9 van dit besluit, is geregistreerd bij het agentschap;<br>
 2° vanaf het ogenblik van de definitieve invrijheidstelling, vermeld in artikel 77 van de wet van 5 mei 2014, behalve als een individuele dienstverleningsovereenkomst als vermeld in artikel 9 van dit besluit, is aangegaan en een budget is toegewezen of aangevraagd of binnen drie maanden na de datum van de definitieve invrijheidstelling een ondersteuningsplan persoonsvolgende financiering als vermeld in artikel 1, 15°, van het besluit 27 november 2015, aan het agentschap is bezorgd;<br>
 3° als een budget ter beschikking wordt gesteld aan de geïnterneerde persoon;<br>
 4° als de geïnterneerde persoon opnieuw verblijft in een inrichting als vermeld in artikel 2 van dit besluit;<br>
 5° vanaf de dag van het overlijden van de geïnterneerde persoon;<br>
-6° vanaf de datum van de beslissing van het agentschap tot toewijzing van ondersteuning als vermeld in artikel 12 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden.<br>
+6° vanaf de datum van de beslissing van het agentschap tot toewijzing van ondersteuning als vermeld in artikel 12 van besluit van 24 november 2017.<br>
 <br>
-In afwijking van het vijfde lid, 4°, wordt de beslissing van het agentschap tot toewijzing van een module ondersteuning als vermeld in de tabel die opgenomen is in de bijlage die bij dit besluit is gevoegd, geschorst gedurende de periode dat de geïnterneerde persoon onder het statuut plaatsing, vermeld in artikel 19 van de wet van 5 mei 2014, verblijft in een inrichting als vermeld in het eerste lid, als gevolg van een voorlopige aanhouding als vermeld in artikel 65 van de voormelde wet, of van een schorsing van een invrijheidstelling op proef of een elektronisch toezicht als vermeld in artikel 61 van de voormelde wet en wordt de beslissing tot toewijzing van een module ondersteuning stopgezet vanaf de eerste dag van de vierde maand na de maand waarin de geïnterneerde persoon met een handicap voor crisisondersteuning of time-out is overgestapt naar een inrichting als vermeld in artikel 2, 4°.
+In afwijking van het vijfde lid, 4°, wordt de beslissing van het agentschap tot toewijzing van een module van ondersteuning als vermeld in artikel 5, tweede lid, van dit besluit, geschorst gedurende de periode dat de geïnterneerde persoon onder het statuut plaatsing, vermeld in artikel 19 van de wet van 5 mei 2014, verblijft in een inrichting als vermeld in het eerste lid, als gevolg van een voorlopige aanhouding als vermeld in artikel 65 van de voormelde wet, of van een schorsing van een invrijheidstelling op proef of een elektronisch toezicht als vermeld in artikel 61 van de voormelde wet en wordt de beslissing tot toewijzing van een module van ondersteuning stopgezet vanaf de eerste dag van de vierde maand na de maand waarin de geïnterneerde persoon met een handicap voor crisisondersteuning of time-out is overgestapt naar een inrichting als vermeld in artikel 2, 4°.
 
 ### ART 6/1.
 
-Als er binnen een jaar vanaf de datum van de beslissing, vermeld in artikel 6, § 3, vierde lid, tot toewijzing van een module ondersteuning als vermeld in de tabel die is opgenomen in de bijlage die bij dit besluit is gevoegd, een nieuwe aanvraag van ondersteuning als vermeld in artikel 4, wordt ingediend en als er op de datum van die aanvraag geen individuele dienstverleningsovereenkomst als vermeld in artikel 9, is geregistreerd bij het agentschap of het agentschap conform artikel 8 geen goedkeuring heeft verleend om een individuele dienstverleningsovereenkomst te sluiten, vervangt de beslissing van het agentschap die is genomen naar aanleiding van de nieuwe aanvraag, de beslissing die het agentschap heeft genomen naar aanleiding van de vorige aanvraag. De termijn van een jaar, vermeld in artikel 6, § 3, vijfde lid, 1°, begint opnieuw te lopen vanaf de datum van de beslissing van het agentschap over de nieuwe aanvraag.
+Als er binnen een jaar vanaf de datum van de beslissing, vermeld in artikel 6, § 3, vierde lid, tot toewijzing van een module van ondersteuning als vermeld in artikel 5, tweede lid, een nieuwe aanvraag van ondersteuning als vermeld in artikel 4, wordt ingediend en als er op de datum van die aanvraag geen individuele dienstverleningsovereenkomst als vermeld in artikel 9, is geregistreerd bij het agentschap of het agentschap conform artikel 8 geen goedkeuring heeft verleend om een individuele dienstverleningsovereenkomst te sluiten, vervangt de beslissing van het agentschap die is genomen naar aanleiding van de nieuwe aanvraag, de beslissing die het agentschap heeft genomen naar aanleiding van de vorige aanvraag. De termijn van een jaar, vermeld in artikel 6, § 3, vijfde lid, 1°, begint opnieuw te lopen vanaf de datum van de beslissing van het agentschap over de nieuwe aanvraag.
 
 ## HOOFDSTUK 5. Voorwaarden voor de vergunde zorgaanbieders
 
@@ -165,15 +183,31 @@ Om zorg en ondersteuning te kunnen bieden aan geïnterneerde personen moeten ver
 4° ze stemmen sectoraal en intersectoraal af met andere actoren die betrokken zijn bij de ondersteuning van de geïnterneerde personen;<br>
 5° ze staan in voor de opvolging en de nazorg van het zorgtraject van de geïnterneerde persoon.<br>
 <br>
-De vergunde zorgaanbieders die woon- of dagondersteuning willen bieden, moeten naast de voorwaarden, vermeld in het eerste lid, ook voldoen aan de voorwaarde dat ze afhankelijk van de module van ondersteuning die ze willen bieden, beschikken over een aangepaste infrastructuur of bereid zijn op korte termijn de nodige infrastructurele maatregelen te nemen.
+De vergunde zorgaanbieders die een module van ondersteuning als vermeld in artikel 5, tweede lid, 2°, 3°, 4° of 5°, willen bieden, moeten naast de voorwaarden, vermeld in het eerste lid, ook voldoen aan de voorwaarde dat ze afhankelijk van de module van ondersteuning die ze willen bieden, beschikken over een aangepaste infrastructuur of bereid zijn op korte termijn de nodige infrastructurele maatregelen te nemen.
 
 ## HOOFDSTUK 6. Organisatie van de ondersteuning
 
 ### ART 8.
 
-Alvorens een individuele dienstverleningsovereenkomst af te sluiten met een vergunde zorgaanbieder als vermeld in artikel 7, vraagt de aanvrager daarvoor de goedkeuring van het agentschap.<br>
+De inrichting, vermeld in artikel 2, waar de geïnterneerde persoon met een handicap verblijft, vraagt de goedkeuring om de ondersteuning op te starten aan het agentschap via een formulier waarvan het agentschap het model vastlegt.<br>
 <br>
-Het agentschap houdt bij het verlenen van zijn goedkeuring rekening met de middelen die voor zorg en ondersteuning voor geïnterneerde personen als vermeld in artikel 4 zijn vastgelegd op zijn begroting en met de datum en het uur waarop het aanvraagdocument, vermeld in artikel 5, eerste lid, 1°, en het verslag, vermeld in artikel 5, eerste lid, 3°, aan het agentschap is bezorgd. De oudste data en bij gelijke data, de vroegste uren, komen het eerst in aanmerking voor een goedkeuring van het agentschap.
+Het formulier, vermeld in het eerste lid, bevat de volgende gegevens:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens van de geïnterneerde persoon met een handicap;<br>
+2°&nbsp;&nbsp; &nbsp;de identificatiegegevens van de vergunde zorgaanbieder die de persoon, vermeld in punt 1°, zal ondersteunen en indien van toepassing de identificatiegegevens van de vergunde zorgaanbieder waar mee samengewerkt wordt;<br>
+3°&nbsp;&nbsp; &nbsp;de startdatum dat de persoon, vermeld in punt 1°, ondersteund zal worden door de vergunde zorgaanbieder, vermeld in punt 2°;<br>
+4°&nbsp;&nbsp; &nbsp;de vermelding of de persoon, vermeld in punt 1°, gebruik zal maken van de mogelijkheid, vermeld in artikel 9, vierde lid;<br>
+5° &nbsp;&nbsp; &nbsp;een verklaring op erewoord waarin de inrichting vermeld in artikel 2, verklaart:<br>
+a)&nbsp;&nbsp; &nbsp;dat de persoon, vermeld in punt 1°, geïnterneerd is;<br>
+b)&nbsp;&nbsp; &nbsp;dat de persoon, vermeld in punt 1°, voltijds residentieel verblijft in een inrichting als vermeld in artikel 2;<br>
+c)&nbsp;&nbsp; &nbsp;welk beveiligingsniveau van ondersteuning de persoon, vermeld in punt 1°, nodig heeft;<br>
+d)&nbsp;&nbsp; &nbsp;dat de persoon, vermeld in punt 1°, verblijft in kader van een behandeling of een resocialisatie, en dit in het geval die persoon verblijft in een inrichting als vermeld in artikel 2, 4°.<br>
+<br>
+Het formulier, vermeld in het eerste lid, wordt ondertekend door:<br>
+1°&nbsp;&nbsp; &nbsp;de directeur, als de geïnterneerde persoon verblijft in een inrichting als vermeld in artikel 2, 1° of 2°;<br>
+2°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de zorg, als de persoon verblijft in een inrichting als vermeld in artikel 2, 3° of 4°;<br>
+3°&nbsp;&nbsp; &nbsp;de verantwoordelijke van de unit voor geïnterneerden, als de persoon verblijft in een inrichting als vermeld in artikel 2, 5°.<br>
+<br>
+Het agentschap houdt bij het verlenen van zijn goedkeuring rekening met de middelen die voor zorg en ondersteuning voor geïnterneerde personen, vermeld in artikel 4, eerste lid, zijn vastgelegd op zijn begroting en met de datum van de beslissing tot toewijzing, vermeld in artikel 6, §3. Bij een gelijke datum van goedkeuring komen de aanvragen van ondersteuning, vermeld in artikel 5, met de oudste aanvraagdatum eerst in aanmerking.
 
 ### ART 9.
 
@@ -182,9 +216,9 @@ Als het agentschap zijn goedkeuring heeft verleend, kan de aanvrager een individ
 Als de zorg en ondersteuning geboden wordt door meerdere vergunde zorgaanbieders als vermeld in artikel 7, sluiten die zorgaanbieders daarover een<br>
 samenwerkingsovereenkomst. Daarin wordt vastgesteld met welke vergunde zorgaanbieder de individuele dienstverleningsovereenkomst wordt afgesloten en op welke wijze de personeelspunten, vermeld in de tabel die opgenomen is in de bijlage, die bij dit besluit is gevoegd, en die zijn vastgesteld voor de module van ondersteuning die het agentschap aan de geïnterneerde persoon heeft toegewezen, worden verdeeld over de verschillende vergunde zorgaanbieders.<br>
 <br>
-De vergunde zorgbieder registreert de individuele dienstverleningsovereenkomst bij het agentschap op de wijze die het agentschap bepaalt.<br>
+De vergunde zorgaanbieder registreert de individuele dienstverleningsovereenkomst bij het agentschap op de wijze die het agentschap bepaalt.<br>
 <br>
-Gedurende een periode van drie maanden vanaf de datum van de goedkeuring van het agentschap, vermeld in artikel 8, kan de ondersteuning, vermeld in de module ondersteuning, vermeld in de tabel die opgenomen is in de bijlage die bij dit besluit is gevoegd, die het agentschap heeft toegewezen, gecombineerd worden met een verblijf of een gedeeltelijk verblijf in een inrichting als vermeld in artikel 2.
+Tijdens een periode van drie opeenvolgende maanden vanaf de datum van de goedkeuring van het agentschap, vermeld in artikel 8, kan de module van ondersteuning, vermeld in artikel 5, tweede lid, die het agentschap heeft toegewezen, gecombineerd worden met een verblijf of een gedeeltelijk verblijf in een inrichting als vermeld in artikel 2.
 
 ### ART 10.
 
@@ -192,13 +226,9 @@ De geïnterneerde persoon met een handicap die zorg en ondersteuning geniet op b
 
 ### ART 11.
 
-Als de aanvrager moeilijkheden ervaart bij het vinden van een vergunde zorgaanbieder als vermeld in artikel 7 van dit besluit, kan hij aan het agentschap al de volgende vormen van begeleiding vragen:<br>
-1° casemanagement als vermeld in artikel 5 en 6 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap;<br>
-2° collectieve bemiddeling als vermeld in artikel 10 en 11 van het voormelde besluit.<br>
+Als de aanvrager moeilijkheden ervaart bij het vinden van een vergunde zorgaanbieder als vermeld in artikel 7 van dit besluit, kan de aanvrager aan het agentschap intensieve bemiddeling als vermeld in artikel 4 van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, vragen.&nbsp;<br>
 <br>
-In afwijking van artikel 5 van het voormelde besluit hoeft niet te worden samengewerkt met de bijstandsorganisatie.<br>
-<br>
-In afwijking van artikel 11 van het voormelde besluit hoeft de bijstandsorganisatie, vermeld in artikel 11, eerste lid, 2°, van het voormelde besluit, niet te worden uitgenodigd voor de collectieve bemiddeling.
+In afwijking van artikel 3, 2°, van het voormelde besluit is de voorwaarde die stelt dat de aanvrager een beroep moet doen of heeft gedaan op een bijstandsorganisatie of consulentenwerking, niet van toepassing in het geval, vermeld in het eerste lid.
 
 ## HOOFDSTUK 7. Subsidiëring van de vergunde zorgaanbieders
 
@@ -223,7 +253,7 @@ In afwijking van het derde lid kan het bedrag, vermeld in het eerste lid, aangew
 Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de G-index, volgens de volgende formule: bedrag X-1 x G-index december X-1/G-index december X-2, waarbij X het jaartal is waarin de indexering plaatsvindt.<br>
 <br>
 Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, als aan een van de volgende voorwaarden is voldaan:<br>
-1° er is voorafgaand overleg gepleegd over de aanwending van het bedrag met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+1° er is voorafgaand overleg gepleegd over de aanwending van het bedrag met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011;<br>
 2° er is collectieve inspraak als vermeld in artikel 30 van het voormelde besluit geweest, en er heeft overleg plaatsgevonden met de werknemersvertegenwoordiging, en er is aan die overlegkanalen transparantie geboden over de aanwending van de werkingsmiddelen.<br>
 <br>
 Op verzoek van het agentschap bewijst de vergunde zorgaanbieder het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het overleg met de werknemersvertegenwoordiging.
@@ -269,6 +299,14 @@ De aanvragen van een budget die met toepassing van het besluit van 27 november 2
 Voor de geïnterneerde personen die voor 1&nbsp;januari 2019 een aanvraag van een budget bij het agentschap hebben ingediend waarover het agentschap op 1&nbsp;januari 2019 nog geen beslissing tot toewijzing heeft genomen en die op 1&nbsp;januari 2019 niet verblijven in een inrichting als vermeld in artikel 2, 1° tot en met 4°, van dit besluit, is de datum van de aanvraag in afwijking van artikel 5, § 1, van het besluit van 27 november 2015, de datum waarop het ondersteuningsplan persoonsvolgende financiering, vermeld in artikel 1, 15°, van het voormelde besluit, aan het agentschap is bezorgd. De datum waarop het ondersteuningsplan persoonsvolgende financiering wordt bezorgd aan het agentschap is de datum van de poststempel of de datum waarop het ondersteuningsplan persoonsvolgende financiering elektronisch is verstuurd.<br>
 <br>
 De beslissing van het agentschap tot toewijzing of terbeschikkingstelling van een budget die door het agentschap is genomen voor 1&nbsp;januari 2019 voor geïnterneerde personen die op 1&nbsp;januari 2019 verblijven in een inrichting als vermeld in artikel 2, 1° tot en met 4°, van dit besluit, vervalt op 1&nbsp;januari 2019, met uitzondering van de beslissingen tot toekenning van zorggebonden punten conform hoofdstuk 3 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten. De beslissing tot toekenning van zorggebonden punten vervalt op de dag waarop een individuele dienstverleningsovereenkomst als vermeld in artikel 9 van dit besluit, start.
+
+### ART 17/1.
+
+De volgende instanties zijn de verwerkingsverantwoordelijken, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van de uitvoering van dit besluit:<br>
+1° het agentschap;<br>
+2° de vergunde zorgaanbieders, vermeld in artikel 7.<br>
+<br>
+De door het agentschap verwerkte persoonsgegevens van de persoon met een handicap worden door het agentschap bewaard voor een periode van maximaal dertig jaar. De termijn begint te lopen vanaf de datum van het overlijden van de persoon met een handicap of een vermoeden van handicap. Na afloop van deze termijn, worden de verwerkte persoonsgegevens verder bewaard worden conform artikel 89 van de algemene verordening gegevensbescherming.
 
 ### ART 18.
 
