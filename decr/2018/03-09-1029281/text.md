@@ -19,6 +19,7 @@ In dit decreet wordt verstaan onder :<br>
 2° academieraad : een niet verplicht participatieorgaan van leerlingen, betrokken personen, personeelsleden en de lokale gemeenschap dat het schoolbestuur adviseert over aangelegenheden die hen rechtstreeks aanbelangen;<br>
 3° academiereglement : een reglement dat de betrekkingen tussen het schoolbestuur en de leerlingen en desgevallend de betrokken personen regelt;<br>
 4° afstand : de afstand gemeten over de openbare weg;<br>
+4°/1 Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen: het agentschap, opgericht bij besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
 5° Agentschap voor Onderwijsdiensten : het agentschap, opgericht bij besluit van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd Agentschap voor Onderwijsdiensten;<br>
 6° alternatieve leercontext : een vorm van opleiding complementair aan de leeractiviteiten van de academie. Dit is mogelijk in een reële arbeidscontext bij een werkgever, waarbij de leerling onder gelijkaardige omstandigheden als reguliere werknemers effectieve arbeid verricht, of in de context van een socio-culturele vereniging, waarbij de leerling deelneemt aan de werking van die vereniging, met de bedoeling bepaalde competenties te verwerven;<br>
 7° basiscompetenties : de doelen, afgeleid uit een referentiekader, voor de kennis, de vaardigheden en de attitudes die een leerling geïntegreerd inzet voor maatschappelijke activiteiten. De basiscompetenties worden binnen de domeinen vastgelegd per studierichting en per graad;<br>
@@ -27,7 +28,7 @@ In dit decreet wordt verstaan onder :<br>
 10° bewijs van beroepskwalificatie : een van rechtswege erkend studiebewijs, dat de academie uitreikt aan een leerling die met goed gevolg een langlopende studierichting heeft beëindigd en de overeenkomstige beroepskwalificatie heeft behaald;<br>
 11° bewijs van competenties : een van rechtswege erkend studiebewijs dat de academie uitreikt aan een leerling die met goed gevolg een eerste, tweede of derde graad van een langlopende studierichting heeft beëindigd;<br>
 12° bijdrage : een bedrag dat een schoolbestuur aan een leerling bij zijn inschrijving kan vragen bovenop het inschrijvingsgeld, vermeld in punt 30° ;<br>
-13° bijzondere vestigingsplaats: een gebouw of een gebouwencomplex waarin een orgel of beiaard tot het onroerend patrimonium behoort en waar uitsluitend orgel of beiaard gegeven worden of met moeilijk verplaatsbare slagwerkinstrumenten waar uitsluitend het vak slagwerk wordt gegeven die eigendom zijn van een socio-culturele vereniging, van een school voor secundair onderwijs of van een School of Arts en waar uitsluitend slagwerk gegeven wordt, of een gevangenis of een gesloten federaal centrum gelegen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad of een vestigingsplaats die voldoet aan de voorwaarden bepaald in artikel 118bis;<br>
+13° bijzondere vestigingsplaats: een gebouw of een gebouwencomplex waarin een orgel of beiaard tot het onroerend patrimonium behoort en waar uitsluitend orgel of beiaard gegeven worden of met moeilijk verplaatsbare slagwerkinstrumenten waar uitsluitend het vak slagwerk wordt gegeven die eigendom zijn van een socio-culturele vereniging, van een school voor secundair onderwijs of van een School of Arts en waar uitsluitend slagwerk gegeven wordt, of een gevangenis of een gesloten federaal centrum gelegen in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
 14° capaciteit : het maximaal aantal leerlingen dat een schoolbestuur per opleiding vooropstelt om de onderwijskwaliteit te garanderen;<br>
 15° cluster : opsomming van opties of muziekinstrumenten waarvoor een schoolbestuur als geheel onderwijsbevoegdheid kan verwerven;<br>
 16° deeltijds kunstonderwijs : het artistiek onderwijs in de beeldende en audiovisuele kunsten, dans, woordkunst-drama en muziek dat door de Vlaamse overheid erkend wordt en geen deel uitmaakt van het basis-, secundair, volwassenenonderwijs of hoger onderwijs;<br>
@@ -181,7 +182,7 @@ De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria :<br>
 5° de vervangende specifieke eindtermen slaan op vaardigheden, specifieke kennis, inzichten en attitudes die de leerlingen toelaten vervolgonderwijs aan te vatten;<br>
 6° de vervangende specifieke eindtermen of basiscompetenties zijn zo geformuleerd dat nagegaan kan worden in welke mate de leerlingen ze verwerven.<br>
 <br>
-De Vlaamse Regering vraagt voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid het advies van de onderwijsinspectie en van een commissie ad hoc van onafhankelijke deskundigen. De Vlaamse Regering bepaalt de verdere regels van die procedure, met dien verstande dat de aanvrager gehoord wordt.<br>
+De Vlaamse Regering vraagt voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid het advies&nbsp;van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, en van een commissie ad hoc van onafhankelijke deskundigen. De Vlaamse Regering bepaalt de verdere regels van die procedure, met dien verstande dat de aanvrager gehoord wordt.<br>
 <br>
 § 3. De academie dient uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarin de specifieke eindtermen en basiscompetenties zullen gelden, een afwijkingsaanvraag in. De Vlaamse Regering beslist uiterlijk op 31 december van het voorafgaande schooljaar over de aanvraag.<br>
 <br>
@@ -196,14 +197,20 @@ In de gevallen, vermeld in het eerste lid, is de academie gebonden door de speci
 
 ### ART 8.
 
-§ 1. Met inachtneming van de door de Vlaamse Regering opgelegde of gelijkwaardig verklaarde basiscompetenties, beroepskwalificaties en specifieke eindtermen, beschikt elk schoolbestuur over een goedgekeurd leerplan en kiest het vrij zijn pedagogische methodes.<br>
+§1. Met inachtneming van de door de Vlaamse Regering opgelegde of gelijkwaardig verklaarde basiscompetenties, beroepskwalificaties en specifieke eindtermen, beschikt elk schoolbestuur over een goedgekeurd leerplan en kiest het vrij zijn pedagogische methodes.<br>
 <br>
 De leerplannen bevatten desgewenst de doelen die het schoolbestuur uitdrukkelijk formuleert voor zijn leerlingen vanuit het eigen artistiek-pedagogisch project. In de leerplannen worden op een herkenbare wijze opgenomen :<br>
 1° de basiscompetenties;<br>
 2° de beroepskwalificaties;<br>
 3° de specifieke eindtermen.<br>
 <br>
-§ 2. Om de kwaliteit van het deeltijds kunstonderwijs te waarborgen, keurt de Vlaamse Regering op basis van de criteria die de Vlaamse Regering bepaalt en op advies van de onderwijsinspectie de leerplannen goed. De Vlaamse Regering spreekt zich niet uit over de geformuleerde didactische werkvormen of pedagogische methodes.<br>
+Het leerplan bevat een concordantietabel met de overeenkomst tussen de onderwijsdoelen vastgelegd bij decreet of besluit, en de leerplandoelen.<br>
+<br>
+§2. Om de kwaliteit van het deeltijds kunstonderwijs te waarborgen, ontwikkelt het schoolbestuur in omvang beperkte leerplannen die voldoende ruimte laten voor de inbreng van academies, leraren, lerarenteams of leerlingen.<br>
+<br>
+Leerplannen worden ter goedkeuring voorgelegd aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. Voormeld agentschap toetst of de basiscompetenties, de beroepskwalificaties en de specifieke eindtermen volledig en correct zijn omgezet in het leerplan en dit plan geen elementen bevat die tegenstrijdig zijn met de vastgestelde minimumdoelen.<br>
+<br>
+De Vlaamse Regering kan nadere bepalingen vastleggen met betrekking tot de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen. Leerplannen zijn een aanvullend instrument voor de onderwijsinspectie om het kwaliteitsbeleid van een academie te kaderen.<br>
 &nbsp;
 
 ### ART 9.
@@ -750,14 +757,11 @@ De Vlaamse Regering legt de procedures vast waardoor een leerling, die al vereis
 
 ### ART 57.
 
-§ 1. Een leerling kan na overleg met directeur en betrokken leerkrachten een vak waarin kennis, vaardigheden of attitudes geïntegreerd verworven worden, geheel of gedeeltelijk vervangen door leeractiviteiten in een alternatieve leer-context die relevant is voor het verwerven van de basiscompetenties, specifieke eindtermen of het behalen van de beroepskwalificatie, als aan al de volgende voorwaarden is voldaan :<br>
-1° de verantwoordelijke van de alternatieve leercontext biedt een kwaliteitsvolle leeromgeving aan;<br>
-2° de verantwoordelijke van de alternatieve leercontext voorziet structurele inhoudelijke begeleiding van de leerling die het realiseren van de basiscompetenties, specifieke eindtermen of beroepskwalificatie mee garandeert;<br>
-3° de leeractiviteiten in de alternatieve leercontext vinden plaats in een gebouw dat voldoet aan de normen inzake bewoonbaarheid, veiligheid en hygiëne.<br>
+§ 1. Een leerling kan na overleg met directeur en betrokken leerkrachten een vak waarin kennis, vaardigheden of attitudes geïntegreerd verworven worden, geheel of gedeeltelijk vervangen door leeractiviteiten in een kwaliteitsvolle alternatieve leer-context die relevant is voor het verwerven van de basiscompetenties, specifieke eindtermen of het behalen van de beroepskwalificatie.<br>
 <br>
-De academie beschikt over een toetsingsinstrument dat door de onderwijsinspectie is gevalideerd om de kwaliteit van de leeromgeving te beoordelen.<br>
+De Vlaamse Regering legt criteria op om de kwaliteit van de alternatieve leercontext, vermeld in het eerste lid, te waarborgen.<br>
 <br>
-De academie verzekert de opvolging van het leerproces en ontwikkelt daarvoor met toepassing van de reglementering inzake overleg en onderhandeling een afsprakenkader met alle betrokkenen.<br>
+De academie verzekert in samenspraak met alle betrokkenen de opvolging van het leerproces. Dit gebeurt met toepassing van de reglementering over overleg en onderhandeling zoals bepaald in het koninklijk besluit van 28 september 1984 tot uitvoering van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel, het besluit van de Vlaamse Regering van 28 augustus 2000 houdende oprichting en samenstelling van de lokale comités voor de personeelsleden van het gemeenschapsonderwijs en het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs.<br>
 <br>
 De academie evalueert de leerling en neemt daarvoor de nodige maatregelen.<br>
 <br>
@@ -824,7 +828,7 @@ Het academiereglement bevat de volgende elementen :<br>
 10° het recht op inzage door de leerling of de betrokken personen en hun recht op toelichting bij de gegevens die op de leerling betrekking hebben, waaronder de evaluatiegegevens, die de academie verzamelt. Als de academie een vergoeding vraagt voor het maken van een kopie als vermeld in het derde lid, is die voorzien in de bijdrageregeling van het academiereglement;<br>
 11° informatie over extramurosactiviteiten;<br>
 12° de vermelding dat bij verandering van academie leerlingengegevens worden overgedragen naar de nieuwe academie tenzij daar door de leerling of de betrokken personen expliciet verzet tegen wordt gepleegd nadat ze op hun verzoek die gegevens hebben ingezien;<br>
-13° het toetsingsinstrument als vermeld in artikel 57 met betrekking tot de relevante alternatieve leercontext;<br>
+13° de procedure van de kwaliteitstoets met betrekking tot de relevante alternatieve leercontext;<br>
 14° de uiterste datum waarop de leerling het inschrijvingsgeld betaalt conform artikel 90 en in voorkomend geval de mogelijkheden tot gespreide betaling, de uitschrijvingsregeling en de terugbetaling van het inschrijvingsgeld bij uitschrijving conform artikel 90 van dit decreet.<br>
 <br>
 Als na de toelichting, vermeld in het tweede lid, 10°, blijkt dat de leerling of de betrokken personen een kopie van de leerlingengegevens willen, hebben ze kopierecht.<br>
@@ -1707,6 +1711,10 @@ In afwijking van het tweede lid vormen de derde graad voor jongeren en de derde 
 In afwijking van het tweede lid vormen de tweede graad voor jongeren en de tweede graad voor volwassenen van het domein muziek afzonderlijke structuur-onderdelen.<br>
 &nbsp;
 
+### ART 98/1.
+
+In afwijking van artikel 100, 101, 102, 114, §2, 115, §1, 117, §1, 118 en 130, §2, kan een schoolbestuur in het schooljaar 2026-2027 geen nieuwe academies, domeinen en structuuronderdelen oprichten en geen nieuwe onderwijsbevoegdheid verkrijgen voor clusters van opties, clusters van muziekinstrumenten, een unieke optie of een uniek muziekinstrument.
+
 ## Afdeling 2 Erkenning van academies
 
 ### ART 99.
@@ -1727,7 +1735,8 @@ Een academie kan erkend worden als ze aan al de volgende voorwaarden voldoet :<b
 8° ze leeft de reglementering over de organisatie van het schooljaar na;<br>
 9° ze leeft de reglementering betreffende de&nbsp;onderwijsdoelen en leerplannen na;<br>
 10° ze eerbiedigt in het geheel van haar werking de internationaalrechtelijke en grondwettelijke beginselen inzake de Rechten van de Mens en van het Kind in het bijzonder;<br>
-11° ze voert een doeltreffend beleid om het rookverbod, vermeld in artikel 4 van het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding, kenbaar te maken en te handhaven, en dat controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid, vermeld in het academie- of arbeidsreglement.<br>
+11° ze voert een doeltreffend beleid om het rookverbod, vermeld in artikel 4 van het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding, kenbaar te maken en te handhaven, en dat controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid, vermeld in het academie- of arbeidsreglement;<br>
+12° ze voert een kwaliteitsbeleid als vermeld in artikel 4, §2, eerste lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, met het oog op het tegemoetkomen aan het referentiekader voor onderwijskwaliteit.<br>
 &nbsp;
 
 ### ART 101.
@@ -1917,13 +1926,9 @@ Een academie kan vanaf het tweede schooljaar dat ze in de financierings- of subs
 
 ### ART 118bis.
 
-De Vlaamse Regering kan een schoolbestuur toestaan een bijzondere vestigingsplaats zoals bedoeld in artikel 3, 13°, in gebruik te nemen, als aan de volgende voorwaarden is voldaan:<br>
-1° het schoolbestuur toont aan dat de infrastructuur van de vestigingsplaats, haar specifieke toerusting of de aard van de leerlingenpopulatie die er verblijft, verantwoordt dat de rationalisatie- en programmatienormen niet op de vestigingsplaats van toepassing zijn;<br>
-2° er is een protocol van de onderhandelingen in het bevoegde lokale comité over het in gebruik nemen van de vestigingsplaats.<br>
+De Vlaamse Regering kan een schoolbestuur toestaan een bijzondere vestigingsplaats in gebruik te nemen, op voorwaarde dat er een protocol van de onderhandelingen in het bevoegde lokale comité over het in gebruik nemen van de vestigingsplaats is.<br>
 <br>
-Een aanvraag kan op elk moment in het schooljaar worden ingediend.<br>
-<br>
-De Vlaamse Regering kan verdere modaliteiten vastleggen voor de manier waarop de aanvragen moeten worden ingediend en de wijze waarop ze worden beoordeeld.
+De Vlaamse Regering bepaalt de modaliteiten voor de melding van de ingebruikname van een bijzondere vestigingsplaats aan het Agentschap voor Onderwijsdiensten.
 
 ## Onderafdeling 3 Programmatienormen voor academies, domeinen en structuuronderdelen in vestigingsplaatsen
 
@@ -2676,7 +2681,7 @@ De Vlaamse Regering bepaalt de aanvraag- en beslissingsprocedure voor het toeken
 2° de mate waarin de academie beschikt over een aangepaste infrastructuur en leermiddelen;<br>
 3° de unieke opties en muziekinstrumenten en de rationele spreiding ervan.<br>
 <br>
-De Vlaamse Regering vraagt, voordat ze een beslissing als vermeld in het derde lid neemt, het advies van de Vlaamse Onderwijsraad en de Onderwijsinspectie.<br>
+De Vlaamse Regering vraagt, voordat ze een beslissing als vermeld in het derde lid neemt, het advies van de Vlaamse Onderwijsraad.<br>
 <br>
 § 3. Een academie die gedurende drie opeenvolgende schooljaren geen enkele optie uit de clusters van opties, geen enkel muziekinstrument uit de clusters van muziekinstrumenten georganiseerd heeft, een optie of een muziekinstrument niet georganiseerd heeft, verliest vanaf het daaropvolgende schooljaar de onderwijsbevoegdheid voor die cluster van opties, cluster van muziekinstrumenten, optie of dat muziekinstrument.<br>
 &nbsp;
