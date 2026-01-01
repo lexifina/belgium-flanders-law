@@ -95,7 +95,8 @@ Ter uitvoering van artikel 35, §3, van het besluit van 21 april 2023, komen all
 9° drooggeoogste erwten;<br>
 10° drooggeoogste Vicia-bonen;<br>
 11° drooggeoogste Phaseolus-bonen;<br>
-12° quinoa.&nbsp;<br>
+12° quinoa;<br>
+13° kikkererwten.<br>
 <br>
 Ter uitvoering van artikel 35, §3, van het voormelde besluit is een van de volgende vlinderbloemigen minimaal aanwezig, als onderdeel van een mengteelt als vermeld in het eerste lid, 5°, 6° en 7°. Minstens de volgende zaaidichtheid wordt gerespecteerd:<br>
 1° voedererwten (zomerteelt): 60 korrels per vierkante meter;<br>
@@ -107,17 +108,37 @@ Ter uitvoering van artikel 35, §3, van het voormelde besluit is een van de volg
 
 Ter uitvoering van artikel 36, §3, van het besluit van 21 april 2023, komen alleen de volgende teelten, die niet geoogst worden, in aanmerking voor de subsidie, vermeld in artikel 36, §1, van het voormelde besluit:<br>
 1° tagetes;<br>
-2° gele mosterd;<br>
-3° bladrammenas;<br>
-4° mengsel van gele mosterd en bladrammenas.<br>
+2° ...;<br>
+3° ...;<br>
+4° ...;<br>
+5° mengsels, die hoofdzakelijk bestaan uit minstens twee van de volgende teelten: &nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;bladrammenas;<br>
+b)&nbsp;&nbsp; &nbsp;boekweit;<br>
+c)&nbsp;&nbsp; &nbsp;mosterd (geel, bruin en ethiopisch);<br>
+d)&nbsp;&nbsp; &nbsp;klaver (wit, rode, incarnaat, Alexandrijnse, Perzische, honingklaver, squarrosum, rolklaver);<br>
+e)&nbsp;&nbsp; &nbsp;Japanse haver;<br>
+f)&nbsp;&nbsp; &nbsp;komkommerkruid;<br>
+g)&nbsp;&nbsp; &nbsp;luzerne;<br>
+h)&nbsp;&nbsp; &nbsp;nootzoetraapzaad;<br>
+i)&nbsp;&nbsp; &nbsp;nyger;<br>
+j)&nbsp;&nbsp; &nbsp;phacelia;<br>
+k)&nbsp;&nbsp; &nbsp;voederkool (bladkool);<br>
+l)&nbsp;&nbsp; &nbsp;raapzaad (zomer, winter);<br>
+m)&nbsp;&nbsp; &nbsp;wikke.<br>
+<br>
+Het mengsel, vermeld in het eerste lid, 5°, voldoet aan al de volgende voorwaarden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;minstens een van de gekozen teelten uit de lijst, vermeld in het eerste lid, 5°, is een niet-vlinderbloemige;<br>
+2°&nbsp;&nbsp; &nbsp;de gekozen teelten uit de lijst, vermeld in het eerste lid, 5°, zijn duidelijk zichtbaar aanwezig, en vormen samen de overwegend aanwezige teelt en bedekking van het perceel;<br>
+3°&nbsp;&nbsp; &nbsp;grassen maken geen deel uit van het mengsel;<br>
+4°&nbsp;&nbsp; &nbsp;de landbouwer kan de samenstelling van het mengsel aantonen aan de hand van facturen of zaaizaadcertificaten.<br>
 <br>
 De teelten, vermeld in het eerste lid, worden gedurende de volgende perioden aangehouden:&nbsp;<br>
-1° tagetes wordt minstens drie maanden behouden en wordt daarna ondergewerkt;<br>
-2° gele mosterd en bladrammenas worden minstens twee maanden behouden en worden daarna ondergewerkt.<br>
+1°&nbsp;&nbsp; &nbsp;tagetes als vermeld in het eerste lid, 1°, wordt minstens drie maanden behouden;<br>
+2°&nbsp;&nbsp; &nbsp;de mengsels, vermeld in het eerste lid, 5°, worden minstens twee maanden behouden.<br>
 <br>
-Als de teelt tijdens de aanhoudperiode, vermeld in het tweede lid, tot zaadvorming zou komen, kan de teelt worden geklepeld of gemaaid, op voorwaarde dat die teelt niet vernietigd wordt en daarna zijn functie kan behouden.<br>
+Als de teelt tijdens de aanhoudperiode, vermeld in het derde lid, tot zaadvorming zou komen, kan de teelt worden geklepeld of gemaaid, op voorwaarde dat die teelt niet vernietigd wordt en daarna zijn functie kan behouden.<br>
 <br>
-Ter uitvoering van artikel 36, §3, van het voormelde besluit, komt alleen hennep, als teelt die geoogst wordt, in aanmerking voor de subsidie, vermeld in artikel 36, §1, van het voormelde besluit. De teelt komt in aanmerking voor de subsidie als de verplichtingen, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en de uitvoeringsbesluiten ervan zijn nageleefd.
+Ter uitvoering van artikel 36, §3, van het voormelde besluit, komen alleen goudsbloem, deder, gele mosterd, bruine mosterd en hennep, als teelt die geoogst wordt, in aanmerking voor de subsidie, vermeld in artikel 36, §1, van het voormelde besluit. Hennep komt alleen in aanmerking voor de subsidie als de verplichtingen, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en de uitvoeringsbesluiten ervan zijn nageleefd.
 
 ### ART 6.
 
@@ -130,9 +151,9 @@ Ter uitvoering van artikel 37, §3, van het besluit van 21 april 2023, komen all
 ### ART 7.
 
 Ter uitvoering van artikel 38, §3, van het besluit van 21 april 2023, heeft het faunamengsel, vermeld in artikel 38, §1, van het voormelde besluit, de volgende samenstelling:<br>
-1° 60% tot 90% teelten uit de vruchtafwisselingsgroep granen, vermeld in artikel 33, 10°, of 60% tot 90% van de teelt boekweit;<br>
-2° 5% tot 10% Brassicaceae, namelijk Brassica oleracea, Brassica rapa, Sinapis alba, Camelina sativa, Raphanus sativus;<br>
-3° maximum 35%: zonnebloem, bernagie, vlas, phacelia, voederwikke, witte klaver, rode klaver, dille.<br>
+1° 60% tot 90% teelten uit de vruchtafwisselingsgroep granen, vermeld in artikel 33, 10°, of 60% tot 90% van de teelt boekweit. Ook een mengsel van deze granen en boekweit is toegelaten als deze teelten samen 60% tot 90% van het faunamengsel uitmaken.;<br>
+2° maximum 10% Brassicaceae, namelijk Brassica oleracea, Brassica rapa, Sinapis alba, Camelina sativa, Raphanus sativus;<br>
+3° maximum 35%: zonnebloem, bernagie, vlas, phacelia, voederwikke, witte klaver, rode klaver, dille, smalle weegbree.<br>
 <br>
 Ter uitvoering van artikel 38, §3, van het voormelde besluit wordt het faunamengsel, vermeld in artikel 38, §1, van het voormelde besluit, ingezaaid met een minimale zaaidichtheid van 50 kilogram per hectare.<br>
 <br>
@@ -140,25 +161,11 @@ Ter uitvoering van artikel 38, §3, van het voormelde besluit worden de teelten 
 
 ### ART 8.
 
-Ter uitvoering van artikel 39, §3, van het besluit van 21 april 2023, worden al de volgende beheervoorwaarden vervuld:&nbsp;<br>
-1° het perceel wordt braak gehouden van 15 maart tot en met 10 mei, waarbij een eventueel aanwezige groenbedekker, teeltresten of grasvegetatie voor 15 maart worden ondergewerkt, zonder dat die groenbedekker, de teeltresten of grasvegetatie vóór het onderwerken mogen worden behandeld met gewasbeschermingsmiddelen. Stoppels van andere maaigewassen hoeven niet ondergewerkt te worden;<br>
-2° er worden geen handelingen op het perceel uitgevoerd vanaf 15 maart tot en met 10 mei van het verbintenisjaar;<br>
-3° de hoofdteelt die na de braak wordt ingezaaid, is mais.
+...
 
 ### ART 9.
 
-Ter uitvoering van artikel 40, §3, van het voormelde besluit, komt alleen een mengsel met Japanse haver in aanmerking voor de subsidie, vermeld in artikel 40, §1, van het voormelde besluit, als het minstens één van de volgende teelten bevat:&nbsp;<br>
-1° witte klaver;<br>
-2° voederwikke;<br>
-3° zonnebloemen.<br>
-<br>
-Ter uitvoering van artikel 40, §3, van het voormelde besluit, heeft een mengsel met Japanse haver minstens de volgende zaaidichtheid:<br>
-1° minstens 50 kg/ha Japanse haver;<br>
-2° minstens 10 kg/ha witte klaver of 40 kg/ha voederwikke of 10 kg/ha zonnebloemen.<br>
-<br>
-Ter uitvoering van artikel 40, §3, van het voormelde besluit wordt de teelt uiterlijk op 1 augustus van het verbintenisjaar ingezaaid en aangehouden tot 15 maart na het aflopen van het verbintenisjaar.<br>
-<br>
-Ter uitvoering van artikel 40, §3, van het voormelde besluit, worden na de oogst van de hoofdteelt geen gewasbeschermingsmiddelen gebruikt.
+...
 
 ### ART 10.
 
@@ -256,7 +263,7 @@ Ter uitvoering van artikel 46, §3, van het voormelde besluit zijn voor de teelt
 
 ### ART 16.
 
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 7°, b), van het voormelde besluit, voor de inzaai van de teelt, vermeld in artikel 15, eerste lid, 1°, van dit besluit, over de facturen van de voormelde teelt. De facturen staan op zijn naam.
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 7°, b), van het voormelde besluit, voor de aanleg van de teelt, vermeld in artikel 15, eerste lid, 1°, van dit besluit, over de facturen van de voormelde teelt. De facturen staan op zijn naam.
 
 ## Hoofdstuk 6. De verstrekking van veevoeder met een methaanreducerend effect aan rundvee door toevoeging van een additief of voedermiddel
 
@@ -314,11 +321,7 @@ De voorwaarde, vermeld in het eerste lid, 1°, is alleen van toepassing op de la
 Ter uitvoering van artikel 58, §3, en artikel 59, §3, van het besluit van 21 april 2023:<br>
 1° bestaat het bloemenmengsel, vermeld in artikel 58, §2, 2°, en artikel 59, §2, 4°, van het voormelde besluit, uit een mengsel van minstens acht verschillende eenjarige, tweejarige en meerjarige, bloeiende kruiden. Minstens vier van de aanwezige soorten zijn meerjarige soorten;<br>
 2° zijn grassen niet toegelaten in het ingezaaide bloemenmengsel, vermeld in punt 1°;<br>
-3° komen de volgende plantensoorten niet voor in het bloemenmengsel, vermeld in punt 1°:<br>
-&nbsp; a) melganzevoet (Chenopodium album);<br>
-&nbsp; b) groot kaasjeskruid (Malva sylvestris);<br>
-&nbsp; c) zwarte parelpeper (Capsicum annuum);<br>
-&nbsp; d) gele ganzenbloem (Glebionis segetum, syn. Chrysanthemum segetum);<br>
+3° ...;<br>
 4° kan de landbouwer de samenstelling en de zaaidichtheid, als dat vermeld is in dit besluit, bij controle aantonen aan de hand van documenten;<br>
 5° neemt de landbouwer de nodige en gepaste maatregelen om te verzekeren dat voldoende bloeiende soorten tijdens de volledige looptijd van de verbintenis in de bloemenstrook aanwezig blijven;<br>
 6° het maaibeheer is extensief en, afhankelijk van het ingezaaide bloemenmengsel, minstens een keer op het einde van het bloeiseizoen en met een minimumhoogte van 10 centimeter;&nbsp;<br>
@@ -349,10 +352,8 @@ Ter uitvoering van artikel 105 van het besluit van 21 april 2023, voldoet de lan
 ### ART 28.
 
 Ter uitvoering van artikel 72, §4, van het besluit van 21 april 2023, voldoet de stalmest aan al de volgende voorwaarden:<br>
-1° het bestaat uit een mengsel van stro, houtkrullen, vlaslemen of miscanthus,&nbsp;en uitwerpselen van runderen, paarden, schapen, geiten of varkens;<br>
-2° het heeft een drogestofgehalte van minimaal 20%;<br>
-3° de vaste mest in het mengsel is afkomstig van dieren die zijn gehuisvest in ingestrooide stallen of van het bewerken van dierlijke mest met stro;<br>
-4° het mag afkomstig zijn van eigen dieren of afkomstig van een derde.<br>
+1°&nbsp;&nbsp; &nbsp;het is stalmest als vermeld in artikel 3, §5, 19°, van het Mestdecreet van 22 december 2006;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;het mag afkomstig zijn van eigen dieren of afkomstig van een derde.<br>
 <br>
 Mengsels met uitwerpselen van pluimvee worden niet beschouwd als stalmest.<br>
 &nbsp;
@@ -366,8 +367,6 @@ Ter uitvoering van artikel 73, §3, van het besluit van 21 april 2023, kunnen ho
 4° knotbomen, die deel uitmaken van een beheerovereenkomst voor het beheerpakket knotten als vermeld in artikel 106 van het ministerieel besluit van 14 juni 2023 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor Plattelandsontwikkeling of die deel uitmaken van een beheerovereenkomst voor het beheerpakket onderhoud knotbomenrij als vermeld in artikel 59 van het ministerieel besluit van 3 april 2015 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling;<br>
 5° fruitbomen, sierheesters en producten van boomkweek, die gerooid worden.&nbsp;<br>
 <br>
-De houtsnippers die afkomstig zijn van de houtachtige elementen, vermeld in het eerste lid, moeten ondergewerkt worden.&nbsp;<br>
-<br>
 Ter uitvoering van artikel 73, §4, van hetzelfde besluit leveren de houtachtige elementen volgende hoeveelheden houtsnippers op:&nbsp;<br>
 1° hagen en heggen: 60 kg per lopende meter/jaar;<br>
 2° houtkanten: 60 kg per lopende meter/5 jaar;<br>
@@ -380,9 +379,7 @@ Ter uitvoering van artikel 73, §4, van hetzelfde besluit leveren de houtachtige
 
 ### ART 29.
 
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), van het voormelde besluit, en die stalmest of champost gebruikt die afkomstig is van een derde, over de documenten die vereist zijn conform het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan. De voormelde documenten tonen aan welke hoeveelheid stalmest is getransporteerd.<br>
-<br>
-Ter uitvoering van artikel 105 van het besluit van 21 april 2023 beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2) of 3), van het voormelde besluit, voor elk perceel in kwestie over een foto genomen met de LV-AgriLens-app of over een foto met daarop omgevingselementen waaruit de locatie duidelijk en ondubbelzinnig blijkt. Op die foto’s is duidelijk zichtbaar dat de stalmest of houtsnippers zijn uitgespreid, en op het veld liggen of ondergewerkt worden.
+Ter uitvoering van artikel 105 van het besluit van 21 april 2023, beschikt de landbouwer die een verbintenis aangaat voor de maatregel, vermeld in artikel 3, eerste lid, 11°, b), 2), van het voormelde besluit, en die stalmest of champost gebruikt die afkomstig is van een derde, over de documenten die vereist zijn conform het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan. De voormelde documenten tonen aan welke hoeveelheid stalmest is getransporteerd.
 
 ### ART 30.
 
@@ -459,42 +456,11 @@ Ter uitvoering van artikel 78, §3, vierde lid, van het besluit van 21 april 202
 
 ### ART 30/2.
 
-Ter uitvoering van artikel 79, §2, vierde lid, van het besluit van 21 april 2023, en in afwijking van artikel 79, §2, eerste lid, 4°, van het voormelde besluit, moet voor het verbintenisjaar 2025 de bufferstrook ingezaaid worden ten laatste op 30 april 2025.
+...
 
 ### ART 31.
 
-Ter uitvoering van artikel 80, §3, van het besluit van 21 april 2023, bestaat het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1° van het voormelde besluit, uit minstens twee soorten gras en in totaal minstens vijf vlinderbloemigen en kruiden, waarvan minstens twee kruiden en minstens een vlinderbloemige. De vlinderbloemigen en kruiden vormen samen minstens 25% van het gewichtspercentage van het mengsel.&nbsp;De grassen vormen samen minstens 50% van het gewichtspercentage van het mengsel.<br>
-<br>
-Ter uitvoering van artikel 80, §3, van het voormelde besluit, kunnen alleen de volgende grassen deel uitmaken van het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1°, van het voormelde besluit:<br>
-1° rood zwenkgras (Festuca rubra subsp commutata);<br>
-2° veldbeemdgras (Poa pratensis);<br>
-3° gewoon struisgras (Agrostis capillaris);<br>
-4° gewoon reukgras (Anthoxanthum odoratum).<br>
-<br>
-Ter uitvoering van artikel 80, §3, van het voormelde besluit, worden alleen de volgende vlinderbloemigen in aanmerking genomen om te voldoen aan de samenstelling van het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1°, van het voormelde besluit:<br>
-1° hopklaver (Medicago lupulina);<br>
-2° gewone rolklaver (Lotus corniculatus);<br>
-3° luzerne (Medicago sativa);<br>
-4° rode klaver (Trifolium pratense);<br>
-5° witte klaver (Trifolium repens);<br>
-6° voederwikke (Vicia sativa).<br>
-<br>
-Ter uitvoering van artikel 80, §3, van het voormelde besluit, worden alleen de volgende kruiden in aanmerking genomen om te voldoen aan de samenstelling van het graskruidenmengsel, vermeld in artikel 80, §2, eerste lid, 1°, van het voormelde besluit:<br>
-1° duizendblad (Achillea millefolium);<br>
-2° gewone margriet (Leucanthemum vulgare);<br>
-3° grote klaproos (Papaver rhoeas);<br>
-4° karwij (Carum carvi);<br>
-5° kleine pimpernel (Sanguisorba minor);<br>
-6° korenbloem (Centaura cyanus);<br>
-7° peterselie (Petroselinum crispum);<br>
-8° smalle weegbree (Plantago lanceolata);<br>
-9° venkel (Foeniculum vulgare);<br>
-10° wilde chicorei (Cichorium intybus);<br>
-11° wilde peen (Daucus carota).<br>
-<br>
-Andere kruiden en vlinderbloemigen, die niet vermeld zijn in het derde en vierde lid, maken maximum 25% van het gewichtspercentage uit.<br>
-<br>
-Ter uitvoering van artikel 80, §2, vierde lid, van het voormelde besluit, en in afwijking van artikel 80, §2, eerste lid, 3°, van het voormelde besluit, moet voor het verbintenisjaar 2025 de bufferstrook ingezaaid worden ten laatste op 30 april 2025.&nbsp;
+...
 
 ### ART 32.
 
@@ -517,7 +483,7 @@ Ter uitvoering van artikel 81, §3, van het voormelde besluit, worden alleen de 
 15° muskuskaasjeskruid (Malva moschata);<br>
 16° grote kaardebol (Dipsacus fullonum).<br>
 <br>
-Andere kruiden, die niet vermeld zijn in het tweede lid maken maximum 30% van het gewichtspercentage uit. Grassen zijn niet toegelaten.
+Andere kruiden, die niet vermeld zijn in het tweede lid maken maximum 30% van het gewichtspercentage uit. Grassen zijn niet toegelaten in het in te zaaien bloemenmengsel.
 
 ## Hoofdstuk 10. Vruchtafwisseling
 
@@ -670,14 +636,6 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1950 euro per hectare</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">verlengde voorjaarsbraak;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">375 euro per hectare</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">eenjarige faunavriendelijke nateelten</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">60 euro per hectare</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de verstrekking van veevoeder met een methaanreducerend effect aan rundvee door toevoeging van een additief of voedermiddel:</td>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">&nbsp;</td>
 		</tr>
@@ -768,7 +726,7 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">60 euro per hectare</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de aanleg van een bufferstrook:</td>
+			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de aanleg of het beheer van een bufferstrook:</td>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -780,16 +738,16 @@ Bijlage. De maximumsubsidiebedragen als vermeld in artikel 2<br>
 			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1078 euro per hectare</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">grasbufferstrook langs waterlopen;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">949 euro per hectare</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">bufferstrook met graskruidenmengsel;</td>
-			<td style="border-bottom:1px dashed black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1099 euro per hectare</td>
-		</tr>
-		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">bufferstrook met bloemenmengsel;</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1751 euro per hectare</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">beheer bufferstrook met klepelmaaien</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1112 euro per hectare</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">beheer bufferstrook maaien met afvoer van het maaisel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:293px">1449 euro per hectare</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px dashed black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:236px">de toepassing van erosiebestrijdende en bodemverbeterende&nbsp;teelttechnieken:</td>
