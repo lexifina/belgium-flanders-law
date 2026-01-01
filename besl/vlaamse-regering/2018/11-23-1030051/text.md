@@ -37,7 +37,9 @@ d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van
 4° internaat voor minderjarigen: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, en die onder het internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar, vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semiresidentiële voorzieningen voor personen met een handicap;<br>
 5° multifunctioneel centrum: een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 6° ...;<br>
-7° revalidatiecentrum: een door het Vlaams Agentschap voor Personen met een Handicap erkend extramuraal centrum of erkende extramurale dienst voor de functionele revalidatie van personen met een handicap als vermeld in het besluit van de Vlaamse Regering van 17 december 1996 tot vaststelling van de erkenningsvoorwaarden en -modaliteiten van de centra of diensten voor revalidatie;<br>
+7° revalidatiecentrum: een van de volgende revalidatievoorzieningen als vermeld in artikel 2, 16°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, die zich richten tot personen met een handicap:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de revalidatievoorzieningen waarvan het erkenningsnummer begint met 9.53 tot en met 9.65, met uitzondering van de revalidatievoorzieningen waarbij de revalidatieovereenkomst ingebed is in een universitair ziekenhuis;<br>
+b)&nbsp;&nbsp; &nbsp;de revalidatievoorzieningen met erkenningsnummer 7.71.020.33, 9.69.006.24, 9.69.009.21, 9.69.008.22;<br>
 8° semi-internaat: een voorziening die nu erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap, die onder het semi-internaatstelsel zorgt voor huisvesting, onderhoud, behandeling en opvoeding van de personen met een handicap die jonger zijn dan 21 jaar en die niet schoolgaand zijn, alsook een voorziening die over geen andere erkenning beschikt dan die van semi-internaat voor schoolgaanden als vermeld in het koninklijk besluit van 23 december 1970 tot vaststelling van de erkenningsvoorwaarden van de residentiële en semi-residentiële voorzieningen voor personen met een handicap;<br>
 9° subsidiabele oppervlakte: de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring;<br>
 10° tehuis van kort verblijf: een voorziening voor kortverblijf die nu voor minderjarigen erkend is als een multifunctioneel centrum als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en die tot en met 31 december 2015 erkend was door het Vlaams Agentschap voor Personen met een Handicap als vermeld in het koninklijk besluit van 25 januari 1971 tot vaststelling van de voorwaarden voor de erkenning van tehuizen van kort verblijf ten behoeve van gehandicapten;<br>
@@ -47,7 +49,7 @@ d) een gebouw dat ingeschreven is in de inventaris van het onroerend erfgoed van
 14° vergunde zorgaanbieder: een aanbieder van niet rechtstreeks toegankelijke zorg of ondersteuning als vermeld in het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap;<br>
 15° Vlaams Agentschap voor Personen met een Handicap: het Vlaams Agentschap voor Personen met een Handicap, vermeld in het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
 <br>
-§ 2. Dit besluit is van toepassing op de volgende voorzieningen voor personen met een handicap:<br>
+§ 2. Dit besluit is van toepassing op de volgende voorzieningen:<br>
 1° ...;<br>
 2° internaten voor minderjarigen;<br>
 3° internaten met permanente openstelling;;<br>
@@ -69,9 +71,9 @@ Dit besluit is niet van toepassing op voorzieningen die onder het toepassingsgeb
 
 ### ART 2.
 
-De infrastructuur met een functionele bestemming in de sector van de voorzieningen voor personen met een handicap moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
+De infrastructuur voor de voorzieningen, vermeld in artikel 1, §2, eerste lid, moet voldoen aan de geldende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen.<br>
 <br>
-De gebouwen waarover een voorziening voor personen met een handicap beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.
+De gebouwen waarover een voorziening als vermeld in artikel 1, §2, eerste lid, beschikt, moeten gemakkelijk toegankelijk en bereikbaar zijn, onder meer met het openbaar vervoer.
 
 ## Afdeling 2. Specifieke bouwtechnische en bouwfysische normen voor [... (opgeh. BVR 20 maart 2020, art. 40 , I: 1 januari 2020)] de revalidatiecentra
 
@@ -508,7 +510,7 @@ Het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de inv
 
 ### ART 38.
 
-Voor de voorzieningen voor personen met een handicap waarvan de aanvraag van een subsidiebelofte of een definitief principieel akkoord ontvankelijk is verklaard voor de datum van de inwerkingtreding van dit besluit en waarbij nog geen subsidiebelofte of een definitief principieel akkoord is gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bouwtechnische en bouwfysische normen van het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de voorzieningen voor personen met een handicap die van toepassing waren voor de datum van de inwerkingtreding van dit besluit.<br>
+Voor de voorzieningen, vermeld in artikel 1, §2, eerste lid, van dit besluit, waarvan de aanvraag van een subsidiebelofte of een definitief principieel akkoord ontvankelijk is verklaard voor de datum van de inwerkingtreding van dit besluit en waarbij nog geen subsidiebelofte of een definitief principieel akkoord is gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bouwtechnische en bouwfysische normen van het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de voorzieningen voor personen met een handicap die van toepassing waren voor de datum van de inwerkingtreding van dit besluit.<br>
 <br>
 Voor de dossiers waarvan de subsidiebelofte of het definitieve principiële akkoord is gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen die van toepassing waren voor de datum van de inwerkingtreding van dit besluit.&nbsp;
 
