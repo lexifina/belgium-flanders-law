@@ -245,29 +245,29 @@ Als de nieuwe gemeente haar erkenning als onroerenderfgoedgemeente niet wil beho
 
 ### ART. 3.3.1.
 
-Om een aanvraag tot erkenning als intergemeentelijke onroerenderfgoeddienst te kunnen indienen, moet het intergemeentelijk samenwerkingsverband:<br>
-1° opgericht zijn volgens het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking of het decreet van 22 december 2017 over het lokaal bestuur;<br>
-2° bestaan uit minimaal drie gemeenten die alle in het Vlaams Gewest liggen.<br>
+Een intergemeentelijk samenwerkingsverband kan een aanvraag tot erkenning als intergemeentelijke onroerenderfgoeddienst indienen als het voldoet aan al de volgende voorwaarden:<br>
+1° opgericht zijn conform het decreet van 22 december 2017 over het lokaal bestuur;<br>
+2° voldoen aan de voorwaarden, vermeld in artikel 6 en 7 van het Regiodecreet van 3 februari 2023;<br>
+3° voldoen aan één van de volgende voorwaarden:<br>
+a) minstens 100.000 inwoners tellen die ingeschreven zijn in het bevolkingsregister van de gemeenten die deel uitmaken van het werkingsgebied van de intergemeentelijke onroerenderfgoeddienst;<br>
+b) een werkingsgebied van minstens 250 km2 omvatten. Als de oppervlakte van de bijbehorende referentieregio minder dan 500 km2 bedraagt, volstaat het dat het werkingsgebied van de intergemeentelijke onroerenderfgoeddienst minstens 50% van de oppervlakte van de referentieregio omvat.<br>
 <br>
 Een gemeente kan slechts deel uitmaken van één erkende intergemeentelijke onroerenderfgoeddienst.<br>
 <br>
-In afwijking van het tweede lid, kan een gemeente op het moment van een aanvraag tot erkenning of een aanpassing vermeld in artikel 3.3.17 tijdelijk nog deel uitmaken van een andere erkende onroerenderfgoeddienst, op voorwaarde dat die gemeente in het zelfde jaar uit die andere erkende onroerenderfgoeddienst treedt. Die uittreding gebeurt via een vraag tot aanpassing vermeld in artikel 3.3.17 of via een kennisgeving vermeld in artikel 3.3.13 waarbij de intergemeentelijke onroerenderfgoeddienst verklaart dat hij niet meer wenst erkend te zijn.<br>
-<br>
-Binnen een intergemeentelijk samenwerkingsverband kan slechts één intergemeentelijke onroerenderfgoeddienst erkend worden.
+In afwijking van het tweede lid, kan een gemeente op het moment van een aanvraag tot erkenning of een aanpassing vermeld in artikel 3.3.17 tijdelijk nog deel uitmaken van een andere erkende onroerenderfgoeddienst, op voorwaarde dat die gemeente in het zelfde jaar uit die andere erkende onroerenderfgoeddienst treedt. Die uittreding gebeurt via een vraag tot aanpassing vermeld in artikel 3.3.17 of via een kennisgeving vermeld in artikel 3.3.13 waarbij de intergemeentelijke onroerenderfgoeddienst verklaart dat hij niet meer wenst erkend te zijn.
 
 ### ART. 3.3.2.
 
-<p>Om erkend te worden en te blijven als intergemeentelijke onroerenderfgoeddienst moet de intergemeentelijke onroerenderfgoeddienst voldoen aan de volgende erkenningsvoorwaarden:<br>
-1° het intergemeentelijk samenwerkingsverband toont aan dat zijn werkingsgebied beschikt over een gemeenschappelijk erfgoedpakket op basis van een gezamenlijke omgevingsanalyse;<br>
-2° het intergemeentelijk samenwerkingsverband dient een onroerenderfgoedbeleidsplan in dat het actief behoud van het onroerend erfgoed op het grondgebied van de aangesloten gemeenten voor ogen heeft en complementair is aan het Vlaamse onroerenderfgoedbeleid en dat bovendien aan de volgende voorwaarden voldoet:<br>
-a) het onroerenderfgoedbeleidsplan stelt een gezamenlijke visie en een gezamenlijk plan van aanpak voorop voor het actieve behoud, het gebruik en de herbestemming van het onroerend erfgoed op zijn grondgebied die complementair zijn aan het Vlaamse onroerenderfgoedbeleid;<br>
-b) het onroerenderfgoedbeleidsplan is integraal en omvat dus de zorg voor het geheel van archeologische sites, monumenten, cultuurhistorische landschappen en stads- en dorpsgezichten;<br>
-c) het onroerenderfgoedbeleidsplan is geïntegreerd en is dus afgestemd met andere beleidsvelden die raakvlakken hebben met de onroerenderfgoedzorg;<br>
-d) het onroerenderfgoedbeleidsplan houdt rekening met de noden van de aanwezige onroerenderfgoedactoren;<br>
-3° het intergemeentelijk samenwerkingsverband ondersteunt en betrekt de erfgoedgemeenschappen die zich inzetten voor het duurzame behoud en beheer en voor de ontsluiting van het onroerend erfgoed op zijn grondgebied en neemt acties om een lokaal draagvlak voor de onroerenderfgoedzorg te creëren;<br>
-4° het intergemeentelijk samenwerkingsverband beschikt over voldoende expertise om dat onroerenderfgoedbeleidsplan uit te voeren en bouwt met het oog op expertiseverwerving een consultatienetwerk uit met alle diensten en organisaties die betrokken zijn bij de zorg voor het onroerend erfgoed.</p>
-
-<p>Als erkende onroerenderfgoedgemeenten deel uitmaken van het intergemeentelijk samenwerkingsverband of als een aanvraag voor erkenning als onroerenderfgoedgemeente van één of meer van de deelnemende gemeenten tegelijk met de erkenning van de intergemeentelijke onroerenderfgoeddienst wordt aangevraagd, dan wordt aangetoond op welke manier de intergemeentelijke onroerenderfgoeddienst de erkende onroerenderfgoedgemeente of -gemeenten zal ondersteunen bij het uitvoeren van hun taken en bevoegdheden, en omgekeerd hoe de erkende onroerenderfgoedgemeente of -gemeenten zullen bijdragen tot de uitbouw van het consultatienetwerk van de erkende intergemeentelijke onroerenderfgoeddienst.</p>
+<p>Een intergemeentelijk samenwerkingsverband kan erkend worden en erkend blijven als intergemeentelijke onroerenderfgoeddienst als het voldoet aan al de volgende voorwaarden:<br>
+1° het beschikt over een gezamenlijke omgevingsanalyse;<br>
+2° het beschikt over een gezamenlijke onderbouwde beleidsvisie die aan al de volgende voorwaarden voldoet:<br>
+a) ze is complementair aan het Vlaamse onroerenderfgoedbeleid;<br>
+b) ze beoogt het behoud, het gebruik en de herbestemming van het onroerend erfgoed dat op het grondgebied ligt van de aangesloten gemeenten;<br>
+c) ze is integraal;<br>
+d) ze is geïntegreerd;<br>
+e) ze houdt rekening met de noden van de gemeenschap;<br>
+3° het creëert draagvlak voor de gezamenlijke beleidsvisie voor onroerend erfgoed;<br>
+4° het beschikt over de nodige expertise voor een kwalitatieve opmaak en uitvoer van zijn beleidsvisie voor onroerend erfgoed. Het bouwt met het oog op expertiseverwerving een consultatienetwerk uit met relevante diensten en organisaties die betrokken zijn bij de zorg voor het onroerend erfgoed.</p>
 
 ### ART. 3.3.3.
 
@@ -275,11 +275,13 @@ Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee 
 
 ### ART. 3.3.4.
 
-Het agentschap beoordeelt de aanvraag tot erkenning van de   intergemeentelijke onroerenderfgoeddienst op basis van de erkenningsvoorwaarden,   en brengt daarover een advies uit aan de minister uiterlijk op 15 maart van   hetzelfde jaar van de erkenningsaanvraag.<BR>
+Het agentschap kan over de aanvraag tot erkenning van de intergemeentelijke onroerenderfgoeddienst het advies van de Commissie inwinnen. De Commissie bezorgt haar advies aan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesvraag. Als er niet tijdig advies wordt verleend, wordt aan de adviesvraag voorbijgegaan.<br>
+<br>
+Het agentschap beoordeelt de aanvraag tot erkenning van de intergemeentelijke onroerenderfgoeddienst op basis van de erkenningsvoorwaarden, en brengt daarover een advies uit aan de minister uiterlijk op 15 maart van hetzelfde jaar van de erkenningsaanvraag.
 
 ### ART. 3.3.5.
 
-Op basis van het advies van het agentschap beslist de minister over de   erkenning van de intergemeentelijke onroerenderfgoeddienst. De minister kan het   advies van de Commissie inwinnen.<BR>
+Op basis van het advies van het agentschap beslist de minister over de erkenning van de intergemeentelijke onroerenderfgoeddienst.
 
 ### ART. 3.3.6.
 
@@ -295,11 +297,13 @@ Een erkenning als intergemeentelijke onroerenderfgoeddienst is voor   onbepaalde
 
 ### ART. 3.3.9.
 
-Uiterlijk op 31 mei van elk jaar, behalve in het jaar van de aanvraag tot erkenning, rapporteert de erkende intergemeentelijke onroerenderfgoeddienst over de uitvoering van zijn onroerenderfgoedbeleidsplan.
+De erkende intergemeentelijke onroerenderfgoeddienst rapporteert over de uitvoering van zijn onroerenderfgoedbeleidsplan uiterlijk op 30 april van het tweede en het vijfde jaar van de lokale beleidscyclus, behalve als de aanvraag tot erkenning het jaar voordien werd ingediend.<br>
+<br>
+Als de erkende intergemeentelijke onroerenderfgoeddienst een samenwerkingsovereenkomst als vermeld in artikel 10.1.1 heeft afgesloten, rapporteert de erkende intergemeentelijke onroerenderfgoeddienst, in afwijking van het eerste lid, conform de termijnen bepaald in die samenwerkingsovereenkomst.
 
 ### ART. 3.3.10.
 
-Als de intergemeentelijke onroerenderfgoeddienst niet voldoet aan de erkenningsvoorwaarden of aan de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of als de intergemeentelijke onroerenderfgoeddienst onvoldoende aantoont dat hij de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de rapportering of bij gebrek aan rapportering binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum, per beveiligde zending bezwaar bij de intergemeentelijke onroerenderfgoeddienst. De intergemeentelijke onroerenderfgoeddienst bezorgt, binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar, de minister een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
+Als de intergemeentelijke onroerenderfgoeddienst niet voldoet aan de erkenningsvoorwaarden of aan de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of als de intergemeentelijke onroerenderfgoeddienst onvoldoende aantoont dat hij de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste rapportagedatum vermeld in artikel 3.3.9, per beveiligde zending bezwaar bij de intergemeentelijke onroerenderfgoeddienst. De intergemeentelijke onroerenderfgoeddienst bezorgt, binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar, de minister een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
 
 ### ART. 3.3.11.
 
@@ -321,9 +325,9 @@ Als een erkende intergemeentelijke onroerenderfgoeddienst zelf te kennen geeft d
 
 ### ART. 3.3.14.
 
-<p>Het agentschap deelt de beslissing van de minister over de intrekking of aanpassing&nbsp;van de erkenning of de opheffing van de schorsing onverwijld per beveiligde zending mee aan de intergemeentelijke onroerenderfgoeddienst. De intrekking of aanpassing van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan de intergemeentelijke onroerenderfgoeddienst.</p>
+<p>Het agentschap deelt de beslissingen, vermeld in artikel 3.3.12, vierde lid en artikel 3.3.13 onverwijld per beveiligde zending mee aan de intergemeentelijke onroerenderfgoeddienst. De intrekking of aanpassing van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan de intergemeentelijke onroerenderfgoeddienst.</p>
 
-<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.3.12 of 3.3.13, wordt de erkenning geacht niet te zijn ingetrokken of aangepast&nbsp;en de schorsing te zijn opgeheven.</p>
+<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.3.12 of 3.3.13, wordt de erkenning geacht niet te zijn ingetrokken of aangepast&nbsp;en in voorkomend geval de schorsing te zijn opgeheven.</p>
 
 ### ART. 3.3.15.
 
@@ -339,7 +343,13 @@ Als de samenstelling van een erkende intergemeentelijke onroerenderfgoeddienst w
 <br>
 De aanvraag beschrijft de wijziging en toont aan hoe de intergemeentelijke onroerenderfgoeddienst door de wijziging blijft voldoen aan de voorwaarden, vermeld in artikel 3.3.1. en 3.3.2 door middel van een aanvulling van de aanvraag op basis waarvan de intergemeentelijke onroerenderfgoeddienst erkend werd. De procedure verloopt overeenkomstig de erkenningsprocedure, vermeld in artikel 3.3.3 tot en met 3.3.7.<br>
 <br>
-Als de intergemeentelijke onroerenderfgoeddienst door de wijziging niet meer voldoet aan de erkenningsvoorwaarden, wordt de erkenning ingetrokken overeenkomstig artikel 3.3.14 en 3.3.15.
+Als de intergemeentelijke onroerenderfgoeddienst door de wijziging niet meer voldoet aan de voorwaarden vermeld in artikel 3.3.1 en 3.3.2, wordt de erkenning ingetrokken overeenkomstig artikel 3.3.14 en 3.3.15.<br>
+<br>
+Als door een wijziging van zijn samenstelling de erkende intergemeentelijke onroerenderfgoeddienst niet meer voldoet aan de voorwaarde vermeld in artikel 3.3.1, eerste lid, 3°, blijft de erkenning, in afwijking van het derde lid, nog gelden voor twee jaar vanaf de wijziging van de samenstelling, als al de volgende voorwaarden zijn vervuld:<br>
+1° met uitzondering van de voormelde voorwaarde, zijn alle andere voorwaarden vermeld in artikel 3.3.1 en 3.3.2 vervuld;<br>
+2° de erkende intergemeentelijke onroerenderfgoeddienst kan aantonen dat hij binnen twee jaar opnieuw kan voldoen aan de voorwaarde vermeld in artikel 3.3.1, eerste lid, 3°.<br>
+<br>
+Na afloop van de termijn van twee jaar vermeld in het vierde lid wordt de erkenning ingetrokken conform artikel 3.3.14 en 3.3.15 als de intergemeentelijke onroerenderfgoeddienst op dat moment nog altijd niet voldoet aan al de voorwaarden vermeld in artikel 3.3.1 en 3.3.2.
 
 ## Afdeling 4 Erkenning als onroerenderfgoeddepot
 
@@ -1983,13 +1993,15 @@ De minister stelt een wedstrijdreglement vast om de kandidaat voor   deelname aa
 
 <p>De samenwerkingsovereenkomst heeft een looptijd van drie jaar of zes jaar.</p>
 
-<p>De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap vanaf 1 januari tot uiterlijk 1 juli van het eerste of het vierde jaar van de lokale beleidscyclus. In het eerste geval heeft de samenwerkingsovereenkomst een looptijd van zes jaar. In het tweede geval heeft de samenwerkingsovereenkomst een looptijd van drie jaar. De samenwerkingsovereenkomst vangt aan op 1 januari van het jaar dat volgt op het jaar waarin de subsidieaanvraag is goedgekeurd.</p>
+<p>De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap uiterlijk op 15 januari van het eerste of het vierde jaar van de lokale beleidscyclus. In het eerste geval heeft de samenwerkingsovereenkomst een looptijd van zes jaar. In het tweede geval heeft de samenwerkingsovereenkomst een looptijd van drie jaar. De samenwerkingsovereenkomst vangt aan op 1 januari van het jaar dat volgt op het jaar waarin de subsidieaanvraag is goedgekeurd.</p>
 
 ### ART. 10.1.3.
 
-<p>Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst moet een intergemeentelijke onroerenderfgoeddienst erkend zijn overeenkomstig artikel 3.3.5.</p>
+<p>Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst moet een intergemeentelijke onroerenderfgoeddienst:<br>
+1° erkend zijn overeenkomstig artikel 3.3.5;<br>
+2° aantonen dat de gemeenten die lid zijn van de intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst jaarlijks gezamenlijk minstens eenzelfde bedrag als de Vlaamse subsidie bijdragen aan de werking van de intergemeentelijke onroerenderfgoeddienst.</p>
 
-<p>Als de erkenning van een intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.3.12 of 3.3.13, heeft hij geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is hij gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, 1°, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
+<p>Als de erkenning van een intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.3.12 of 3.3.13, heeft hij geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is hij gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, eerste lid, 1°, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
 <br>
 Als de samenstelling van een intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst gewijzigd wordt als vermeld in artikel 3.3.17, blijft de lopende samenwerkingsovereenkomst ongewijzigd gelden.</p>
 
@@ -2000,9 +2012,12 @@ De aanvrager kan de subsidieaanvraag gelijktijdig indienen met de aanvraag   tot
 ### ART. 10.1.5.
 
 <p>De subsidieaanvraag bevat minstens de volgende elementen:<br>
-1° de organisatiestructuur van de intergemeentelijke onroerenderfgoeddienst;<br>
-2° een meerjarenbegroting waarin alle verwachte kosten en opbrengsten die betrekking hebben op de gesubsidieerde activiteiten opgenomen zijn, met vermelding van de inbreng van de gemeenten die deel uitmaken van de intergemeentelijke onroerenderfgoeddienst;<br>
-3° een geactualiseerd onroerenderfgoedbeleidsplan, tenzij bij de eerste subsidieaanvraag na de erkenning.</p>
+1° een actueel onroerenderfgoedbeleidsplan. Dat onroerenderfgoedbeleidsplan richt zich op de volledige looptijd van de samenwerkingsovereenkomst en omvat ook een actuele omgevingsanalyse;<br>
+2° een meerjarenbegroting waarin alle verwachte kosten en opbrengsten van de erkende intergemeentelijke onroerenderfgoeddienst opgenomen zijn, met vermelding van de bijdragen van de gemeenten die ervan deel uitmaken, vermeld in artikel 10.1.3, eerste lid, 2° ;<br>
+3° een document waarin minstens al de volgende vragen worden beantwoord:<br>
+a) welke expertise binnen de erkende intergemeentelijke onroerenderfgoeddienst aanwezig is;<br>
+b) welke initiatieven voor draagvlakverbreding worden genomen;<br>
+c) in voorkomend geval, op welke wijze de ondersteuning van erkende onroerenderfgoedgemeenten binnen het werkingsgebied zal worden aangepakt.</p>
 
 <p>Het agentschap stelt hiervoor een modelformulier ter beschikking op zijn website. Als de aanvrager gelijktijdig een erkenning als intergemeentelijke onroerenderfgoeddienst en een subsidie aanvraagt, voegt hij de elementen, vermeld in het eerste lid, bij het modelformulier, vermeld in artikel 3.3.3.</p>
 
@@ -2020,48 +2035,37 @@ Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen,
 
 ### ART. 10.1.8.
 
-Uiterlijk op 1 oktober van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning en het bedrag van de subsidie.<br>
+Uiterlijk op 30 april van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning van de subsidie.<br>
 <br>
 Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst schriftelijk op de hoogte van de beslissing, vermeld in het eerste lid.
 
 ### ART. 10.1.9.
 
-<p>Uiterlijk op 15 oktober van het jaar waarin de subsidieaanvraag is goedgekeurd, ondertekenen het agentschap en de erkende intergemeentelijke onroerenderfgoeddienst waaraan de subsidie is toegekend een samenwerkingsovereenkomst.</p>
+<p>Uiterlijk op 1 november van het jaar waarin de subsidieaanvraag is goedgekeurd, ondertekenen het agentschap en de erkende intergemeentelijke onroerenderfgoeddienst waaraan de subsidie is toegekend een samenwerkingsovereenkomst.</p>
 
 <p>De samenwerkingsovereenkomst bevat minstens de volgende elementen:<br>
 1° het bedrag van de jaarlijkse subsidie;<br>
 2° de looptijd;<br>
 3° de rapporteringsverplichtingen met het oog op het jaarlijkse toezicht, vermeld in artikel 10.1.12;<br>
 4° de rapporteringsverplichtingen met het oog op de driejaarlijkse evaluatie, vermeld in artikel 10.1.13;<br>
-5° een afsprakennota met de te bereiken doelstellingen.</p>
+5° een afsprakennota met de te bereiken doelstellingen;<br>
+6° de uiterste indieningsdata voor het tussentijds inhoudelijk rapport en het inhoudelijk eindrapport vermeld in artikel 10.1.13.</p>
 
 ### ART. 10.1.10.
 
-<p>De subsidie omvat zowel personeels- als werkingsmiddelen.</p>
-
-<p>De jaarlijkse basissubsidie bedraagt minstens 85.000 euro en wordt vermeerderd met een bedrag dat is gekoppeld aan de volgende criteria, met als referentiedatum 1 januari van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend:<br>
-1° het aantal inwoners, ingeschreven in het bevolkingsregister van de gemeenten die deel uitmaken van het werkingsgebied van de intergemeentelijke onroerenderfgoeddienst;<br>
-2° de oppervlakte van het werkingsgebied van de erkende intergemeentelijke onroerenderfgoeddienst;<br>
-3° in voorkomend geval, het aanwezige onroerend erfgoed dat zich bevindt op het grondgebied van een erkende onroerenderfgoedgemeente binnen het werkingsgebied. Dat bijkomende subsidiebedrag wordt bepaald op basis van:<br>
-a) de oppervlakte van het grondgebied van de erkende onroerenderfgoedgemeente;<br>
-b) de grondoppervlakte van de beschermde goederen die binnen het grondgebied van de erkende onroerenderfgoedgemeente liggen;<br>
-c) het aantal onroerende goederen, dat opgenomen is in de vastgestelde inventaris van het bouwkundig erfgoed of in de vastgestelde inventaris van houtige beplantingen met erfgoedwaarde en dat binnen het grondgebied van de erkende onroerenderfgoedgemeente ligt.</p>
-
-<p>Als een gemeente die in het werkingsgebied ligt gedurende de looptijd van de samenwerkingsovereenkomst, erkend wordt als onroerenderfgoedgemeente, als vermeld in artikel 3.2.4, wordt de subsidie aangevuld met het bedrag vermeld in het tweede lid, 3°, voor de jaren die volgen op het jaar van de erkenning van de gemeente als onroerenderfgoedgemeente. Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst schriftelijk op de hoogte van de verhoging van de toegekende subsidie.<br>
-<br>
-Als de erkenning van een erkende onroerenderfgoedgemeente die in het werkingsgebied ligt gedurende de looptijd van de samenwerkingsovereenkomst ingetrokken wordt overeenkomstig het artikel 3.2.12, vijfde lid of 3.2.13, wordt de subsidie verminderd met het bedrag, vermeld in het tweede lid, 3°, vanaf het jaar dat volgt op het jaar waarin de erkenning als onroerenderfgoedgemeente ingetrokken is. Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst schriftelijk op de hoogte van de vermindering van de toegekende subsidie.</p>
-
-<p>De minister stelt de eenheidsprijzen per criterium vast.</p>
+<p>De jaarlijkse subsidie bedraagt 120.000 euro en omvat personeelsmiddelen voor eigen personeel.</p>
 
 ### ART. 10.1.11.
 
-De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst   jaarlijks beschikbaar gesteld in de vorm van een voorschot en een saldo:<BR>1°   een voorschot van 70 % van het jaarlijkse subsidiebedrag wordt uitbetaald   uiterlijk op 1 april van het lopende werkingsjaar;<BR>2° een saldo van het   jaarlijkse subsidiebedrag wordt uitbetaald na de uitvoering van het jaarlijkse   toezicht, vermeld in artikel 10.1.12, op basis van verantwoorde   kosten.<BR>
+De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst jaarlijks beschikbaar gesteld in de vorm van een voorschot en een saldo:<br>
+1° een voorschot van 80 % van het jaarlijkse subsidiebedrag wordt uitbetaald uiterlijk op 1 april van het lopende werkingsjaar;<br>
+2° een saldo van het jaarlijkse subsidiebedrag wordt uitbetaald na de uitvoering van het jaarlijkse toezicht op de aanwending van de subsidie, vermeld in artikel 10.1.12, op basis van verantwoorde kosten.
 
 ### ART. 10.1.12.
 
 <p>Het agentschap oefent het jaarlijkse toezicht uit op de aanwending van de subsidie en kan hiervoor alle initiatieven nemen die het nodig acht.<br>
 <br>
-Met het oog op het toezicht, vermeld in het eerste lid, dient de erkende intergemeentelijke onroerenderfgoeddienst een financiële rapportering in bij het agentschap voor 31 mei.</p>
+Met het oog op het toezicht, vermeld in het eerste lid, dient de erkende intergemeentelijke onroerenderfgoeddienst een financiële rapportering in bij het agentschap uiterlijk op 30 april.</p>
 
 <p>Met het oog op het toezicht, vermeld in het eerste lid, kan de minister nader bepalen welke kosten al dan niet in aanmerking komen voor subsidiëring.</p>
 
@@ -2073,7 +2077,11 @@ Met het oog op het toezicht, vermeld in het eerste lid, dient de erkende interge
 
 <p>Het agentschap voert driejaarlijks een evaluatie uit op de naleving van de samenwerkingsoverkomst<br>
 1° een tussentijdse evaluatie, tenzij de samenwerkingsovereenkomst een looptijd van drie jaar heeft;<br>
-2° een eindevaluatie.</p>
+2° een eindevaluatie.<br>
+<br>
+De erkende intergemeentelijke onroerenderfgoeddienst bezorgt de volgende documenten aan het agentschap voor de evaluaties vermeld in het eerste lid:<br>
+1° een tussentijds inhoudelijk rapport;<br>
+2° een inhoudelijk eindrapport.</p>
 
 <p>Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle initiatieven nemen die het nodig acht.</p>
 
