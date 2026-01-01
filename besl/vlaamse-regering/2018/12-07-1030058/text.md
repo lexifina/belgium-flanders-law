@@ -573,6 +573,26 @@ Uiterlijk op 31 december 2025 stort de administratie aan de voorzieningen, verme
 <br>
 De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/15/6, is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2025.
 
+### ART 16/15/8.
+
+Uiterlijk op 31 maart 2026 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 2° tot en met 4°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2026.<br>
+<br>
+Het bedrag dat aan de voorzieningen, vermeld in het eerste lid, wordt gestort, is gelijk aan 50% van het bedrag dat conform artikel 16/15/7, eerste lid, 1°, uiterlijk op 30 november 2025 aan de administratie is meegedeeld door een orgaan dat of een instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+
+### ART 16/15/9.
+
+§1. Uiterlijk op 31 maart 2026 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 1° en 5° tot en met 10°, een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2026.&nbsp;<br>
+<br>
+Met het bedrag, vermeld in het eerste lid, wordt bedoeld: het bedrag dat uiterlijk op 28 februari 2026 aan de administratie werd meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.<br>
+<br>
+§2. Uiterlijk op 30 juni 2026 stort de administratie aan de voorzieningen, vermeld in artikel 16/10, eerste lid, 2° tot en met 4°, het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2026, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen de volgende bedragen:<br>
+1°&nbsp;&nbsp; &nbsp;het bedrag dat een orgaan dat of een instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, uiterlijk op 31 mei 2026 aan de administratie meedeelt;<br>
+2°&nbsp;&nbsp; &nbsp;het bedrag dat de administratie op basis van artikel 16/15/8 betaalt.&nbsp;<br>
+<br>
+Het bedrag, vermeld in het eerste lid, 1°, wordt berekend op basis van gegevens van de referentieperiode van 1 juli 2024 tot en met 30 juni 2025 die de voorziening, vermeld in het eerste lid, via de elektronische vragenlijst, vermeld in artikel 452 en 456 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, aan het agentschap heeft bezorgd, waarbij de termijnen, vermeld in artikel 454 en 456 van het voormelde besluit, van toepassing zijn.<br>
+<br>
+§3. De som van de bedragen die aan de voorzieningen worden gestort conform paragraaf 1, paragraaf 2 en artikel 16/15/8, is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2026.
+
 ### ART 16/16.
 
 De voorziening die weigert zich aan de controle van de administratie te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
@@ -660,9 +680,52 @@ Uiterlijk op 31 december 2025 stort de administratie aan de voorzieningen het sa
 <br>
 De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/21/5, is niet hoger dan het bedrag dat daarvoor op basis van het zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2025.
 
+### ART 16/21/7.
+
+Uiterlijk op 31 maart 2026 stort de administratie aan de voorzieningen een bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2026.<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, is gelijk aan 50% van het bedrag, vermeld in artikel 16/21/6, eerste lid, 1°, uiterlijk op 30 november 2025 aan de administratie is meegedeeld door een orgaan dat of instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie en waarmee de Vlaamse Regering met dat doel een overeenkomst sluit.
+
+### ART 16/21/8.
+
+Uiterlijk op 30 juni 2026 stort de administratie aan de voorzieningen het saldo van het bedrag om de uitrol van de nieuwe functieclassificatie voor de werknemers van die voorzieningen te compenseren voor de rechten 2026, of vordert de administratie het te veel betaalde bedrag terug. Het saldo is het verschil tussen de volgende bedragen:<br>
+1° het bedrag dat een orgaan dat of een instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde functieclassificatie, waarmee de Vlaamse Regering met dat doel een overeenkomst sluit, uiterlijk op 31 mei 2026 aan de administratie meedeelt;<br>
+2° het bedrag dat de administratie op basis van artikel 16/21/7 betaalt.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, 1°, wordt berekend op basis van gegevens van de referentieperiode van 1 juli 2024 tot en met 30 juni 2025 die de voorziening via de elektronische vragenlijst, vermeld in artikel 452 en 456 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, aan het agentschap heeft bezorgd, waarbij de termijnen, vermeld in artikel 454 en 456 van het voormelde besluit, van toepassing zijn.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De som van de bedragen die aan de voorzieningen worden gestort conform het eerste lid en artikel 16/21/7, is niet hoger dan het bedrag dat daarvoor op basis van het vijfde en zesde Vlaamse Intersectorale Akkoord is vastgelegd in de begroting van 2026.
+
 ### ART 16/22.
 
 De voorziening die weigert zich aan de controle van de administratie te onderwerpen, verliest de rechten, vermeld in dit hoofdstuk.
+
+## HOOFDSTUK 3/6. Financiering van de verhoging van de eindejaarspremie voor de private sector ter uitvoering van de collectieve arbeidsovereenkomst van 17 november 2025 betreffende de eindejaarspremie
+
+### ART 16/23.
+
+In dit hoofdstuk wordt verstaan onder:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;voorzieningen:&nbsp;<br>
+a) &nbsp;&nbsp; &nbsp;psychiatrische verzorgingstehuizen;<br>
+b) &nbsp;&nbsp; &nbsp;woonzorgcentra;<br>
+c) &nbsp;&nbsp; &nbsp;centra voor dagverzorging;<br>
+d) &nbsp;&nbsp; &nbsp;centra voor kortverblijf;<br>
+e) &nbsp;&nbsp; &nbsp;revalidatievoorzieningen;<br>
+f) &nbsp;&nbsp; &nbsp;initiatieven van beschut wonen;<br>
+g) &nbsp;&nbsp; &nbsp;multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+2° &nbsp;&nbsp; &nbsp;referentiejaar: het kalenderjaar waarin het recht op de uitbetaling van de verhoogde eindejaarspremie ontstaat.<br>
+<br>
+De voorzieningen, vermeld in het eerste lid, 1°, betreffen alleen de voorzieningen uit de private sector.
+
+### ART 16/24.
+
+Ter uitvoering van de collectieve arbeidsovereenkomst van 17 november 2025 betreffende de eindejaarspremie stort de administratie elk jaar uiterlijk in de maand maart van het jaar dat volgt op het referentiejaar, aan de voorzieningen een bedrag ter compenserende financiering van de betaling van de verhoging van de eindejaarspremie.&nbsp;<br>
+<br>
+Het bedrag dat aan de voorzieningen wordt gestort, wordt elk jaar uiterlijk op 28 februari aan de administratie meegedeeld door een orgaan dat of een instelling die kan overgaan tot de nodige berekeningen in het licht van de beoogde verhoging van de eindejaarspremie ter uitvoering van de collectieve arbeidsovereenkomst van 17 november 2025 betreffende de eindejaarspremie en waarmee de Vlaamse Regering een overeenkomst sluit.<br>
+<br>
+Het totaalbedrag dat aan de voorzieningen wordt gestort, conform het tweede lid, is niet hoger dan 28.440.000 euro.&nbsp;<br>
+<br>
+In afwijking van artikel 18, vijfde lid, is het bedrag, vermeld in het derde lid van dit artikel, het bedrag dat geldt op 1 december 2025, tegen spilindexcijfer 130,67, waarbij basis 2013 = 100.
 
 ## HOOFDSTUK 4. Wijzigingsbepalingen
 
