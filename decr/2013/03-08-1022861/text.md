@@ -64,7 +64,12 @@ Voor de opvolging van de uitvoering van het actieplan, vermeld in artikel   10, 
 
 ### ART. 12.
 
-<P>Per beleidsdomein voorziet de Vlaamse Regering binnen de beschikbare   budgetten in de nodige instrumenten, middelen en personeel om de doelstellingen   van dit decreet, en de strategische en operationele doelstellingen die ter   uitvoering van dit decreet zijn bepaald, op het niveau van de gevangenis uit te   voeren.<BR></P>  <P>Voor de coördinatie en ondersteuning van de hulp- en dienstverlening wordt in   elke gevangenis voorzien in volgende opdrachten :<BR>1° beleidscoördinatie : de   coördinatie van het beleid, de organisatie, de ondersteuning en de opvolging van   de hulp- en dienstverlening in de gevangenis, en dit in overleg met de   gevangenisdirectie en met de actoren;<BR>2° trajectbegeleiding : voor de   realisatie van het onthaal en de vraagverheldering bij gedetineerden, voor het   verwijzen van de gedetineerde naar de hulp- en dienstverlening, voor het   opstellen van een individueel hulp- en dienstverleningsplan op maat van de   gedetineerde, voor de coördinatie, opvolging en afstemming van dat plan met het   oog op continuïteit in de hulp- en dienstverlening tijdens en na de   detentie;<BR>3° ondersteuning : voor het faciliteren van de praktische   organisatie van de hulp- en dienstverlening.<BR></P>
+<p>Per beleidsdomein voorziet de Vlaamse Regering binnen de beschikbare budgetten in de nodige instrumenten, middelen en personeel om de doelstellingen van dit decreet, en de strategische en operationele doelstellingen die ter uitvoering van dit decreet zijn bepaald, op het niveau van de gevangenis uit te voeren.&nbsp;De Vlaamse Regering kan initiatieven daarvoor subsidiëren en kan nadere regels voor die subsidiëring bepalen.</p>
+
+<p>Voor de coördinatie en ondersteuning van de hulp- en dienstverlening wordt in elke gevangenis voorzien in volgende opdrachten :<br>
+1° beleidscoördinatie : de coördinatie van het beleid, de organisatie, de ondersteuning en de opvolging van de hulp- en dienstverlening in de gevangenis, en dit in overleg met de gevangenisdirectie en met de actoren;<br>
+2° trajectbegeleiding : voor de realisatie van het onthaal en de vraagverheldering bij gedetineerden, voor het verwijzen van de gedetineerde naar de hulp- en dienstverlening, voor het opstellen van een individueel hulp- en dienstverleningsplan op maat van de gedetineerde, voor de coördinatie, opvolging en afstemming van dat plan met het oog op continuïteit in de hulp- en dienstverlening tijdens en na de detentie;<br>
+3° ondersteuning : voor het faciliteren van de praktische organisatie van de hulp- en dienstverlening.</p>
 
 ### ART. 13.
 
