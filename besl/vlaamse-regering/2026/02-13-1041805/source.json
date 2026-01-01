@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041805,
+  "title": "Besluit van de Vlaamse Regering van 2026-02-13 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques en het besluit van de Vlaamse Regering van 29 september 2017 betreffende wijk-werken, wat betreft de afschaffing van het fiscaal voordeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041805/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "737eda31aebd3581531b7656103776b8d4eb46ee15f6b76022ee5accc4a1ff27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041805&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-02-13",
+  "gazette": "2026-03-04",
+  "numac": 2026001567,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
