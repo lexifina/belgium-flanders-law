@@ -102,43 +102,43 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ...
 
-## Afdeling 3 Voorzieningen voor bijzondere doelgroepen
+## Afdeling 3 ...
 
 ### ART. 22.
 
-Voor personen met een leesbeperking subsidieert de Vlaamse Regering een speciale bibliotheek met het oog op de uitbouw van een aangepaste dienstverlening.<br /><br />Voor langdurig zieken en personen die in een rustoord, een rust- en verzorgingstehuis of een ziekenhuis verblijven, subsidieert de Vlaamse Regering een speciale bibliotheek met het oog op de uitbouw van een aangepaste dienstverlening.<br /><br />
+...
 
 ### ART. 23.
 
-De bibliotheek, vermeld in artikel 22, eerste lid, heeft de volgende opdrachten :<br />1° de doelgroep, die bestaat uit personen met een visuele of andere leesbeperking, proactief benaderen, met aandacht voor de sociaal-culturele pluriformiteit, en met het oog op de verhoging van het bereik van de doelgroep;<br />2° samenwerken met stakeholders en strategische partners zoals de openbare bibliotheken, de speciale bibliotheek, vermeld in artikel 22, tweede lid, de rusthuizensector, de dienstverlenende en sociaal-culturele intermediaire organisaties, met het oog op de verwezenlijking van een uitgebreidere dienstverlening;<br />3° een gediversifieerde en goed uitgebouwde collectie in de diverse aangepaste leesvormen ter beschikking stellen, zoals brailleboeken, luisterboeken en -tijdschriften, onder meer op basis van de overeenkomsten, vermeld in artikel 25;<br />4° de technologische ontwikkelingen volgen, zoals de ontwikkeling van de Daisy-technologie.<br /><br />De Vlaamse Regering kan die opdrachten specificeren.<br /><br />
+...
 
 ### ART. 24.
 
-De bibliotheek, vermeld in artikel 22, eerste lid, concretiseert haar opdrachten om de vijf jaar in een meerjarenplan en legt dat ter goedkeuring voor aan de administratie.<br /><br />Voor de uitvoering van het meerjarenplan kent de Vlaamse Regering een jaarlijkse subsidie toe voor personeel, werking en collectievorming, waarvan ze het bedrag bepaalt. De subsidie wordt toegekend nadat de administratie de overeenkomsten, vermeld in artikel 25, heeft goedgekeurd.<br /><br />
+...
 
 ### ART. 25.
 
-De bibliotheek, vermeld in artikel 22, eerste lid, sluit driejaarlijkse overeenkomsten met de organisaties, vermeld in artikel 28, voor het aanmaken van een bepaald aantal boeken of luistertijdschriften in het Daisy-formaat en in braille. Zowel het aantal, de prijs, het formaat, de kwaliteit, de leveringstermijn als de beschikbaarheid van de aange- paste lectuur zijn voorwerp van onderhandeling en worden opgenomen in de overeenkomsten.<br /><br />De overeenkomsten, vermeld in het eerste lid, worden ingediend uiterlijk op 15 november van het jaar dat voorafgaat aan het eerste jaar van de looptijd van de overeenkomsten. Uiterlijk een maand nadat de overeenkomsten zijn ingediend, keurt de administratie die overeenkomsten goed of keurt ze ze af, en deelt ze haar gemotiveerde beslissing mee aan de bibliotheek, vermeld in artikel 22, eerste lid. Als de overeenkomsten niet worden goedgekeurd, passen de contractanten ze aan en dient de bibliotheek, vermeld in artikel 22, eerste lid, ze binnen een maand opnieuw in bij de administratie.<br /><br />
+...
 
 ### ART. 26.
 
-De bibliotheek, vermeld in artikel 22, tweede lid, heeft de volgende opdrachten :<br />1° de doelgroep die bestaat uit onder andere langdurig zieken en personen die in een rusthuis, een rust- en verzorgingstehuis of ziekenhuis, een woon- en zorgcentrum, een serviceflat of een psychiatrisch centrum verblijven, proactief benaderen, met aandacht voor de sociaal-culturele pluriformiteit en met het oog op de verhoging van het bereik van de doelgroep;<br />2° met strategische partners zoals het streekgericht bibliotheekbeleid, de openbare bibliotheken, de speciale bibliotheek, vermeld in artikel 22, eerste lid, de rusthuizensector en eventueel de dienstverlenende en sociaal-culturele intermediaire organisaties samenwerken met het oog op de verwezenlijking van een uitgebreidere dienstverlening;<br />3° een gevarieerde collectie, in aangepaste leesvormen, ter beschikking stellen van de doelgroep;<br />4° de vrijwilligerswerking uitbouwen door een actief rekruteringsbeleid te voeren en een degelijke basisopleiding te organiseren. <br /><br />De Vlaamse Regering kan die opdrachten specificeren.<br /><br />
+...
 
 ### ART. 27.
 
-De bibliotheek, vermeld in artikel 22, tweede lid, concretiseert haar opdrachten om de vijf jaar in een meerjarenplan en legt dat ter goedkeuring voor aan de administratie.<br /><br />Voor de uitvoering van het meerjarenplan kent de Vlaamse Regering een jaarlijkse subsidie toe voor personeel, werking en collectievorming, waarvan zij het bedrag bepaalt.<br /><br />
+...
 
 ### ART. 28.
 
-Organisaties die lectuur in aangepaste leesvormen produceren, zoals brailleboeken, luisterboeken, luisterkranten en luistertijdschriften, zowel voor fysieke dragers als voor een digitale omgeving, kunnen aanspraak maken op een jaarlijkse personeels- en werkingssubsidie met het oog op de aanmaak van lectuur in aangepaste leesvormen.<br /><br />
+...
 
 ### ART. 29.
 
-De Vlaamse Regering bepaalt het subsidiebedrag dat wordt toegekend aan de organisaties, vermeld in artikel 28, en het percentage van de subsidie dat voorwerp uitmaakt van de overeenkomsten, vermeld in artikel 25.<br /><br />De subsidie wordt toegekend nadat de administratie de overeenkomsten, vermeld in artikel 25, heeft goedgekeurd.<br /><br />
+...
 
 ### ART. 30.
 
-In aanvulling op de documenten, vermeld in artikel 16, moeten de organisaties, vermeld in artikel 28, jaarlijks uiterlijk op 31 maart volgend op een uitvoeringsjaar, de volgende documenten indienen:<br />1° een voortgangsrapport over de uitvoering van de overeenkomsten, vermeld in artikel 25, inclusief een overzicht van de aangemaakte lectuur in aangepaste leesvormen;<br />2° een evaluatie van de overeenkomsten door de contractanten.<br /><br />
+...
 
 ## Afdeling 4 [... (opgeh. decr. 8 juli 2016, art. 4, I: 1 juli 2016)]
 
