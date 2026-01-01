@@ -1185,7 +1185,8 @@ Het begrotingsakkoord is ook vereist voor:<br>
 Het begrotingsakkoord is vereist voor de herverdeling tussen de vastleggingskredieten van hetzelfde programma binnen de begroting van de Vlaamse Gemeenschap in de volgende gevallen:<br>
 1° de herverdeling gebeurt over inhoudelijke structuurelementen heen, behalve als de herverdeling vertrekt vanuit een thema-overschrijdend inhoudelijk structuurelement;<br>
 2° de herverdeling heeft betrekking op een loonkrediet dat wordt gebruikt als een werkingskrediet of op een werkingskrediet dat wordt gebruikt als een loonkrediet;<br>
-3° de herverdeling heeft betrekking op kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijzing van het reservefonds.<br>
+3° de herverdeling heeft betrekking op kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijzing van het reservefonds;<br>
+4° alle andere herverdelingen dan de herverdelingen, vermeld in punt 1° tot en met 3°, vanaf een bedrag van 50.000 euro.<br>
 <br>
 Het begrotingsakkoord is vereist voor de herverdeling tussen de vastleggingskredieten binnen de begroting van de Vlaamse Gemeenschap over een programma heen, vermeld in artikel 21, eerste lid, 2°, van de codex.
 
@@ -1198,7 +1199,8 @@ Het begrotingsakkoord is vereist als de herverdeling van vereffeningskredieten b
 Het begrotingsakkoord is vereist voor herverdelingen van vastleggingskredieten binnen de begroting van de Vlaamse rechtspersonen die onder het rechtstreekse gezag van de Vlaamse Regering staan in de volgende gevallen:<br>
 1° de herverdeling gebeurt over inhoudelijke structuurelementen heen, behalve als de herverdeling vertrekt vanuit een thema-overschrijdend inhoudelijk structuurelement;<br>
 2° de herverdeling heeft betrekking op een loonkrediet dat wordt gebruikt als een werkingskrediet of op een werkingskrediet dat wordt gebruikt als een loonkrediet;<br>
-3° de herverdeling heeft betrekking op kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijzing van het reservefonds.
+3° de herverdeling heeft betrekking op kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijzing van het reservefonds;<br>
+4° alle andere herverdelingen dan de herverdelingen, vermeld in punt 1° tot en met 3°, vanaf een bedrag van 50.000 euro.
 
 ### ART 35.
 
