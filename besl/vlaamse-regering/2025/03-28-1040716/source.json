@@ -2,16 +2,16 @@
   "codex_id": 1040716,
   "title": "Besluit van de Vlaamse Regering van 2025-03-28 tot wijziging van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, wat betreft de financiering van de doelgroepwerknemers aanvullende thuiszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040716/VolledigDocument?datum=2023-07-01",
-  "source_sha256": "9734ce97a62f16f4e707d8296e7dc03e515fc3479a1e9d94ffcb45aeb4369a95",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040716/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "77bd3c59bdeec157ce568490eb4738445d6f05751843516fb5c9e7cfb35b35bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040716&param=informatie",
-  "as_of": "2023-07-01",
+  "as_of": "2026-01-01",
   "made": "2025-03-28",
   "gazette": "2025-04-08",
   "numac": 2025002812,
   "document_start": "2023-07-01",
   "document_end": null,
-  "in_force": "2023-07-01",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2023-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

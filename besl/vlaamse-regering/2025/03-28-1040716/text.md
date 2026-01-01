@@ -38,6 +38,11 @@ c) de opvolging van de werkrelatie van de doelgroepwerknemer en de gebruikers en
 
 In artikel 9, eerste lid, en artikel 10, eerste lid, van bijlage 2 bij hetzelfde besluit wordt de zinsnede “een lokalediensteneconomieonderneming als vermeld in artikel 3, 5°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie” vervangen door de woorden “een werkgever die doelgroepwerknemers tewerkstelt”.
 
+### ART 3.
+
+In artikel 59, §2, eerste lid, van bijlage 2 bij hetzelfde besluit wordt punt 1° vervangen door wat volgt:<br>
+“1° personeel: het personeel dat gefinancierd wordt met de middelen, vermeld in artikel 52, eerste lid, 1°, artikel 71, tweede lid, 1°, of artikel 72, 1°, van deze bijlage;”.
+
 ### ART 4.
 
 In artikel 72 van bijlage 2 bij hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -45,6 +50,12 @@ In artikel 72 van bijlage 2 bij hetzelfde besluit worden de volgende wijzigingen
 2° in het eerste lid wordt punt 3° vervangen door wat volgt:<br>
 “3° het begeleidend personeel en het omkaderingspersoneel: 4429,67 euro;”;<br>
 3° het tweede lid wordt opgeheven.
+
+### ART 5.
+
+In artikel 80 van bijlage 2 bij hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “, en artikel 72, eerste lid, 1°,” vervangen door de zinsnede “, en artikel 72, 1°,”;<br>
+2° in het tweede lid wordt de zinsnede “, en artikel 72, eerste lid, 2°, 3°, en 4°,” vervangen door de zinsnede “, en artikel 72, 2°, 3°, en 4°,”.
 
 ### ART 6.
 
