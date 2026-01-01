@@ -12,7 +12,27 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART 3.
 
-De Vlaamse Regering kent jaarlijks, binnen de beschikbare begrotingskredieten, subsidies toe voor lokale energie- en klimaatacties aan de gemeenten van het Vlaamse Gewest, die de doelstellingen van de lokale energie- en klimaatpacten onderschrijven door deze te ondertekenen, en die een bijdrage leveren aan de doelstellingen van het Vlaams Energie- en Klimaatplan 2021-2030.
+De Vlaamse Regering kent jaarlijks, binnen de beschikbare begrotingskredieten, subsidies toe voor lokale energie- en klimaatacties aan de gemeenten van het Vlaamse Gewest, die de doelstellingen van de lokale energie- en klimaatpacten onderschrijven door deze te ondertekenen, en die een bijdrage leveren aan de doelstellingen van het Vlaams Energie- en Klimaatplan 2021-2030.<br>
+<br>
+De doelstellingen van de lokale energie- en klimaatpacten, vermeld in het eerste lid, omvatten al de volgende elementen:<br>
+1° lokale besturen engageren zich om het Burgemeestersconvenant 2030 of 2050 te ondertekenen en uit te werken;<br>
+2° lokale besturen engageren zich om een jaarlijkse primaire energiebesparing van minstens 2,09% te realiseren in hun eigen gebouwen ten opzichte van referentiejaar 2019;<br>
+3° lokale besturen engageren zich om een reductie van de CO2-uitstoot van hun eigen gebouwen en technische infrastructuur met 40% in 2030 ten opzichte van 2015 te realiseren;<br>
+4° lokale besturen engageren zich om tot en met 31 december 2030 de openbare verlichting te verledden;<br>
+5° lokale besturen engageren zich om het draagvlak voor hernieuwbare energie te verhogen door geen heffing op hernieuwbare energie-installaties in te voeren en om bestaande heffingen niet te verhogen;<br>
+6° lokale besturen engageren zich om tot en met 31 december 2030 lokale warmte- en sloopbeleidsplannen op te maken;<br>
+7° lokale besturen engageren zich om tot en met 31 december 2030 één boom extra per inwoner te realiseren;<br>
+8° lokale besturen engageren zich om tot en met 31 december 2030 een halve meter extra haag of geveltuinbeplanting per inwoner te realiseren;<br>
+9° lokale besturen engageren zich om tot en met 31 december 2030 één extra natuurgroenperk per 1000 inwoners te realiseren;<br>
+10° lokale besturen engageren zich om tot en met 31 december 2030 50 collectief georganiseerde energiebesparende renovaties per 1000 wooneenheden te realiseren;<br>
+11° lokale besturen engageren zich om tot en met 31 december 2030 één coöperatief of participatief hernieuwbaar energieproject per 500 te voorzien, die samen voor een totaal geïnstalleerd vermogen zorgen van 216 megawatt;<br>
+12° lokale besturen engageren zich om tot en met 31 december 2030 per 1000 inwoners één toegangspunt voor een deelsysteem te realiseren;<br>
+13° lokale besturen engageren zich om tot en met 31 december 2030 per 100 inwoners één laadpunt te realiseren;<br>
+14° lokale besturen engageren zich om tot en met 31 december 2030 één meter nieuw of structureel opgewaardeerd fietspad extra per inwoner te realiseren;<br>
+15° lokale besturen engageren zich om tot en met 31 december 2030 1 m2 ontharding per inwoner te realiseren;<br>
+16° lokale besturen engageren zich om tot en met 31 december 2030 1 m3 extra opvang van hemelwater voor hergebruik, buffering of infiltratie per inwoner te realiseren.<br>
+<br>
+De doelstellingen die opgenomen zijn in de lokale energie- en klimaatpacten, die krachtens dit decreet werden vastgesteld, houden op uitwerking te hebben, als ze niet overeenkomen met de lijst opgenomen in het tweede lid.
 
 ### ART 4.
 

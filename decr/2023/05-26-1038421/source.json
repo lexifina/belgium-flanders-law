@@ -2,16 +2,16 @@
   "codex_id": 1038421,
   "title": "Decreet van 2023-05-26 over de subsidiëring in het kader van de lokale energie- en klimaatpacten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038421/VolledigDocument?datum=2023-06-23",
-  "source_sha256": "555a318827493676ee5f8959e0336a6b19f1f1426fc78a3097258d9cc2b53593",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038421/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "13e959b816b676f4c86228bef4c1b9ccfbef3c05b69962632befe9736952931f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038421&param=informatie",
-  "as_of": "2023-06-23",
+  "as_of": "2026-01-01",
   "made": "2023-05-26",
   "gazette": "2023-06-13",
   "numac": 2023031134,
   "document_start": "2023-06-23",
   "document_end": "2026-12-31",
-  "in_force": "2023-06-23",
+  "in_force": "2026-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2023-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
