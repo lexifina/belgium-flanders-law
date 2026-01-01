@@ -75,17 +75,17 @@ In het derde lid wordt verstaan onder KPI: kritieke prestatie-indicator. Dat is 
 <br>
 Voor de verantwoording van T, voor de uittekening van het tariefpad, voor de bepaling van Td en voor de omzetting naar de maximumtarieven om de variabele prijs van de drinkwatercomponent te bepalen,&nbsp;wordt gebruik gemaakt van een verplicht rapporteringssjabloon.<br>
 <br>
-§ 3. De minister legt, op voorstel van de WaterRegulator, de nadere regels vast voor de inhoud van elk verplicht onderdeel van het tariefplan en de rapporteringssjabloon.</p>
+§ 3. De minister legt, op voorstel van de Vlaamse Nutsregulator, de nadere regels vast voor de inhoud van elk verplicht onderdeel van het tariefplan en de rapporteringssjabloon.</p>
 
 ### ART. 5.
 
-<p>De exploitant dient een aanvraag voor de goedkeuring van het tariefpad, onderbouwd door het tariefplan, in bij de WaterRegulator.</p>
+<p>De exploitant dient een aanvraag voor de goedkeuring van het tariefpad, onderbouwd door het tariefplan, in bij de Vlaamse Nutsregulator.</p>
 
-<p>De WaterRegulator onderzoekt de ontvankelijkheid van de aanvraag. De exploitant wordt binnen dertig dagen na de ontvangst ervan op de hoogte gebracht over de ontvankelijkheid van de aanvraag door de WaterRegulator. Als de aanvraag ontvankelijk is, is de aanvraagdatum de datum waarop de WaterRegulator de aanvraag ontvangen heeft. Als de aanvraag onontvankelijk is, vraagt de WaterRegulator de ontbrekende stukken op bij de exploitant. De aanvraagdatum is dan de datum waarop de WaterRegulator alle ontbrekende stukken ontvangen heeft.<br>
+<p>De Vlaamse Nutsregulator onderzoekt de ontvankelijkheid van de aanvraag. De exploitant wordt binnen dertig dagen na de ontvangst ervan op de hoogte gebracht over de ontvankelijkheid van de aanvraag door de Vlaamse Nutsregulator. Als de aanvraag ontvankelijk is, is de aanvraagdatum de datum waarop de Vlaamse Nutsregulator de aanvraag ontvangen heeft. Als de aanvraag onontvankelijk is, vraagt de Vlaamse Nutsregulator de ontbrekende stukken op bij de exploitant. De aanvraagdatum is dan de datum waarop de Vlaamse Nutsregulator alle ontbrekende stukken ontvangen heeft.<br>
 <br>
-Als tijdens het onderzoek ter voorbereiding van de beslissing van de WaterRegulator blijkt dat verbeteringen of bijsturingen van het tariefplan met tariefpad aangewezen zijn, kan de exploitant op verzoek van de WaterRegulator een aangepast tariefplan met tariefpad indienen. Het aangepaste tariefplan met tariefpad en de Td en maximumtarieven die eruit voortvloeien, vervangt het ingediende tariefplan en tariefpad, de ingediende Td en maximumtarieven. De aanvraagdatum blijft de datum, vermeld in het tweede lid.<br>
+Als tijdens het onderzoek ter voorbereiding van de beslissing van de Vlaamse Nutsregulator blijkt dat verbeteringen of bijsturingen van het tariefplan met tariefpad aangewezen zijn, kan de exploitant op verzoek van de Vlaamse Nutsregulator een aangepast tariefplan met tariefpad indienen. Het aangepaste tariefplan met tariefpad en de Td en maximumtarieven die eruit voortvloeien, vervangt het ingediende tariefplan en tariefpad, de ingediende Td en maximumtarieven. De aanvraagdatum blijft de datum, vermeld in het tweede lid.<br>
 <br>
-De WaterRegulator deelt uiterlijk negentig dagen na de aanvraagdatum zijn beslissing over het tariefpad en de Td en maximumtarieven die eruit voortvloeien, mee aan de exploitant en de minister. De beslissing kan een goedkeuring van het tariefpad en de Td en maximumtarieven die eruit voortvloeien, inhouden of bijkomende voorwaarden opleggen aan het tariefpad, de Td of maximumtarieven. Als de WaterRegulator geen beslissing neemt binnen de voormelde termijn, worden het tariefpad dat bij het oorspronkelijk ingediende en ontvankelijk verklaarde tariefplan voorgesteld is, en de Td en maximumtarieven die eruit voortvloeien, als goedgekeurd beschouwd.</p>
+De Vlaamse Nutsregulator deelt uiterlijk negentig dagen na de aanvraagdatum zijn beslissing over het tariefpad en de Td en maximumtarieven die eruit voortvloeien, mee aan de exploitant en de minister. De beslissing kan een goedkeuring van het tariefpad en de Td en maximumtarieven die eruit voortvloeien, inhouden of bijkomende voorwaarden opleggen aan het tariefpad, de Td of maximumtarieven. Als de Vlaamse Nutsregulator geen beslissing neemt binnen de voormelde termijn, worden het tariefpad dat bij het oorspronkelijk ingediende en ontvankelijk verklaarde tariefplan voorgesteld is, en de Td en maximumtarieven die eruit voortvloeien, als goedgekeurd beschouwd.</p>
 
 ### ART. 6.
 
@@ -93,23 +93,25 @@ De WaterRegulator deelt uiterlijk negentig dagen na de aanvraagdatum zijn beslis
 
 <p>Het beroep bevat minstens het tariefpad en -plan.</p>
 
-<p>De minister neemt, binnen dertig kalenderdagen na de ontvangst van het beroep, een beslissing over het voorgestelde tariefpad en de eruit voortvloeiende Td en maximumtarieven en deelt die beslissing mee aan de exploitant en aan de WaterRegulator.&nbsp;De beslissing kan een goedkeuring inhouden van het tariefpad, vermeld in artikel 5, eerste lid, dat bij de aanvraag is gevoegd, en de Td en maximumtarieven die eruit voortvloeien, of de beslissing kan bijkomende voorwaarden opleggen aan het voormelde tariefpad, en de Td of maximumtarieven die eruit voortvloeien. Bij gebrek aan beslissing van de minister binnen de gestelde termijn wordt het voorgestelde tariefpad en de eruit voortvloeiende Td en maximumtarieven als goedgekeurd beschouwd.</p>
+<p>De minister neemt, binnen dertig kalenderdagen na de ontvangst van het beroep, een beslissing over het voorgestelde tariefpad en de eruit voortvloeiende Td en maximumtarieven en deelt die beslissing mee aan de exploitant en aan de Vlaamse Nutsregulator.&nbsp;De beslissing kan een goedkeuring inhouden van het tariefpad, vermeld in artikel 5, eerste lid, dat bij de aanvraag is gevoegd, en de Td en maximumtarieven die eruit voortvloeien, of de beslissing kan bijkomende voorwaarden opleggen aan het voormelde tariefpad, en de Td of maximumtarieven die eruit voortvloeien. Bij gebrek aan beslissing van de minister binnen de gestelde termijn wordt het voorgestelde tariefpad en de eruit voortvloeiende Td en maximumtarieven als goedgekeurd beschouwd.</p>
 
 ### ART. 7.
 
-<p>De exploitant past het tariefpad en het bijbehorende tariefplan, inclusief Td en de maximumtarieven, als die van toepassing zijn, overeenkomstig de beslissing van de WaterRegulator, of de beslissing van de minister na het beroep, aan en deelt het bijgewerkte tariefpad met de eruit voorvloeiende Td en maximumtarieven en het bijbehorende tariefplan, uiterlijk op 1 december van het jaar dat voorafgaat aan het jaar waarop de nieuwe maximumtarieven van toepassing worden of zodra de exploitant beschikt over de voormelde beslissingen als die genomen worden na 1 december van het jaar dat voorafgaat aan het jaar waarin de nieuwe maximumtarieven van toepassing worden, mee aan de WaterRegulator.<br>
+<p>De exploitant past het tariefpad en het bijbehorende tariefplan, inclusief Td en de maximumtarieven, als die van toepassing zijn, overeenkomstig de beslissing van de Vlaamse Nutsregulator, of de beslissing van de minister na het beroep, aan en deelt het bijgewerkte tariefpad met de eruit voorvloeiende Td en maximumtarieven en het bijbehorende tariefplan, uiterlijk op 1 december van het jaar dat voorafgaat aan het jaar waarop de nieuwe maximumtarieven van toepassing worden of zodra de exploitant beschikt over de voormelde beslissingen als die genomen worden na 1 december van het jaar dat voorafgaat aan het jaar waarin de nieuwe maximumtarieven van toepassing worden, mee aan de Vlaamse Nutsregulator.<br>
 <br>
 Het definitieve tariefpad en de Td en maximumtarieven die eruit voortvloeien, zijn desgevallend:<br>
-1° goedgekeurd door de WaterRegulator, vermeld in artikel 5, of worden aangepast als vermeld in het eerste lid;<br>
+1° goedgekeurd door de Vlaamse Nutsregulator, vermeld in artikel 5, of worden aangepast als vermeld in het eerste lid;<br>
 2° nadat een beroep ingesteld is, goedgekeurd door de minister als vermeld in artikel 6, of worden aangepast als vermeld in het eerste lid;<br>
-3° in het oorspronkelijk ingediende en ontvankelijk verklaarde tariefplan met tariefpad opgenomen als de termijn waarin de WaterRegulator een beslissing kan nemen, vermeld in artikel 5, overschreden is;<br>
-4° in het oorspronkelijk ingediende en ontvankelijk verklaarde tariefplan met tariefpad opgenomen als tegen de beslissing van de WaterRegulator beroep is ingesteld en de minister geen beslissing neemt binnen de termijn, vermeld in artikel 6, derde lid.</p>
+3° in het oorspronkelijk ingediende en ontvankelijk verklaarde tariefplan met tariefpad opgenomen als de termijn waarin de Vlaamse Nutsregulator een beslissing kan nemen, vermeld in artikel 5, overschreden is;<br>
+4° in het oorspronkelijk ingediende en ontvankelijk verklaarde tariefplan met tariefpad opgenomen als tegen de beslissing van de Vlaamse Nutsregulator beroep is ingesteld en de minister geen beslissing neemt binnen de termijn, vermeld in artikel 6, derde lid.</p>
 
 <p>De exploitant stelt het definitieve tariefpad en het bijbehorende tariefplan, inclusief Td en de maximumtarieven, uiterlijk op 31 december van het jaar dat voorafgaat aan het jaar waarop de nieuwe maximumtarieven van toepassing worden, ook op zijn website ter beschikking, en bezorgt ze aan de abonnee op zijn eenvoudig verzoek.</p>
 
 ### ART. 8.
 
-<P>Een   definitief tariefpad legt de evolutie van de tarieven gedurende zes jaar   vast.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Behalve   in geval van de jaarlijkse indexatie en de eventuele bijsturing door de   WaterRegulator, vermeld in artikel 9 respectievelijk artikel 12, kan het   definitieve tariefpad niet wijzigen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een definitief tariefpad legt de evolutie van de tarieven gedurende zes jaar vast.</p>
+
+<p>Behalve in geval van de jaarlijkse indexatie en de eventuele bijsturing door de Vlaamse Nutsregulator, vermeld in artikel 9 respectievelijk artikel 12, kan het definitieve tariefpad niet wijzigen.</p>
 
 ## Afdeling 2 Jaarlijkse indexering en opvolgingsrapportering
 
@@ -124,15 +126,15 @@ Tdi = Td (jaar x)*( 0,2 + 0,2*(index cpi maand.x-1/november.jaar r) + 0,5 *(refe
 5°&nbsp;&nbsp; &nbsp;materiaalindex: de mercuriale index I 2021 voor openbare werken;<br>
 6°&nbsp;&nbsp; &nbsp;maand.x-1: voor elk van de indexen afzonderlijk de maand waarvoor op de eerste werkdag van december van het jaar x-1 de meest recente index gepubliceerd is. Onder de voormelde eerste werkdag van december wordt de eerste dag van december die geen zaterdag of zondag is, verstaan.</p>
 
-<p>De WaterRegulator berekent de geïndexeerde Td en de maximumtarieven die eruit voortvloeien en die vanaf 1 januari van kracht zijn. Hij bezorgt die uiterlijk op 5 december aan de exploitanten of binnen vijf dagen nadat de WaterRegulator over het definitieve tariefpad beschikt.</p>
+<p>De Vlaamse Nutsregulator berekent de geïndexeerde Td en de maximumtarieven die eruit voortvloeien en die vanaf 1 januari van kracht zijn. Hij bezorgt die uiterlijk op 5 december aan de exploitanten of binnen vijf dagen nadat de Vlaamse Nutsregulator over het definitieve tariefpad beschikt.</p>
 
-<p>Als de exploitant niet akkoord gaat met de beslissing van de WaterRegulator, kan de exploitant binnen zeven kalenderdagen na de ontvangst van de beslissing van de WaterRegulator een beroep indienen bij de minister.</p>
+<p>Als de exploitant niet akkoord gaat met de beslissing van de Vlaamse Nutsregulator, kan de exploitant binnen zeven kalenderdagen na de ontvangst van de beslissing van de Vlaamse Nutsregulator een beroep indienen bij de minister.</p>
 
-<p>De minister neemt, binnen zeven kalenderdagen na de ontvangst van het beroep, een beslissing en deelt die mee aan de exploitant en aan de WaterRegulator. Bij gebrek aan beslissing van de&nbsp;minister binnen de gestelde termijn wordt het door de exploitant voorgelegde als goedgekeurd beschouwd.</p>
+<p>De minister neemt, binnen zeven kalenderdagen na de ontvangst van het beroep, een beslissing en deelt die mee aan de exploitant en aan de Vlaamse Nutsregulator. Bij gebrek aan beslissing van de&nbsp;minister binnen de gestelde termijn wordt het door de exploitant voorgelegde als goedgekeurd beschouwd.</p>
 
 ### ART. 10.
 
-<p>Jaarlijks monitort de WaterRegulator de realisaties van de exploitanten met betrekking tot de in het tariefplan vooropgestelde evoluties aan de hand van een opvolgingsrapportering die de exploitanten uiterlijk op 30 september indienen bij de WaterRegulator.</p>
+<p>Jaarlijks monitort de Vlaamse Nutsregulator de realisaties van de exploitanten met betrekking tot de in het tariefplan vooropgestelde evoluties aan de hand van een opvolgingsrapportering die de exploitanten uiterlijk op 30 september indienen bij de Vlaamse Nutsregulator.</p>
 
 <p>De exploitanten rapporteren met de opvolgingsrapportering, vermeld in het eerste lid, een geactualiseerde versie van de relevante delen van het tariefplan, aangevuld met een materialiteitstoets waarbij de effectief gerealiseerde Tko vergeleken wordt met de Tko uit het tariefplan. De relevante delen van het tariefplan omvatten minstens:<br>
 1°&nbsp;&nbsp; &nbsp;in het derde jaar en laatste jaar van de tarifaire periode de doelstellingen en investeringen zonder rollende forecast;<br>
@@ -140,9 +142,9 @@ Tdi = Td (jaar x)*( 0,2 + 0,2*(index cpi maand.x-1/november.jaar r) + 0,5 *(refe
 
 <p>Jaarlijks bezorgen de exploitanten met de opvolgingsrapportering, vermeld in het eerste lid,&nbsp;ook een rollende forecast. Onder een rollende forecast wordt begrepen dat de exploitant in het eerste jaar van de tarifaire periode voor het eerstvolgende jaar na die periode een forecast voor T meegeeft. In het tweede jaar wordt een forecast gegeven voor het tweede jaar na de tarifaire periode enzovoort.</p>
 
-<p>De minister legt, op voorstel van de WaterRegulator, de nadere regels vast voor de inhoud van die opvolgingsrapportering, de materialiteitstoets en een rapporteringssjabloon.</p>
+<p>De minister legt, op voorstel van de Vlaamse Nutsregulator, de nadere regels vast voor de inhoud van die opvolgingsrapportering, de materialiteitstoets en een rapporteringssjabloon.</p>
 
-## Afdeling 3 Overschrijding van de materialiteitsgrens en bijsturing van het tariefpad door de WaterRegulator
+## Afdeling 3 Overschrijding van de materialiteitsgrens en bijsturing van het tariefpad door de Vlaamse Nutsregulator
 
 ### ART. 11.
 
@@ -150,28 +152,28 @@ In afwijking van de bepalingen van artikel 8 kan de exploitant, als uit de mater
 
 ### ART. 12.
 
-<p>De WaterRegulator evalueert de uitvoering van het tariefplan.</p>
+<p>De Vlaamse Nutsregulator evalueert de uitvoering van het tariefplan.</p>
 
-<p>De exploitant bezorgt op eenvoudig verzoek van de WaterRegulator kosteloos alle beschikbare gegevens en inlichtingen die de WaterRegulator nodig heeft voor de evaluatie.</p>
+<p>De exploitant bezorgt op eenvoudig verzoek van de Vlaamse Nutsregulator kosteloos alle beschikbare gegevens en inlichtingen die de Vlaamse Nutsregulator nodig heeft voor de evaluatie.</p>
 
-<p>De WaterRegulator kan, op zijn vroegst halverwege de tarifaire periode, de exploitanten opleggen om het tariefpad en de eruit voortvloeiende Td en maximumtarieven, voor de resterende jaren aan te passen als uit de evaluatie blijkt dat aan een van de volgende voorwaarden is voldaan:<br>
+<p>De Vlaamse Nutsregulator kan, op zijn vroegst halverwege de tarifaire periode, de exploitanten opleggen om het tariefpad en de eruit voortvloeiende Td en maximumtarieven, voor de resterende jaren aan te passen als uit de evaluatie blijkt dat aan een van de volgende voorwaarden is voldaan:<br>
 1° de situatie zodanig veranderd is dat de gerealiseerde T of T<sub>ko</sub>&nbsp;sterk afwijkt van de voor dat jaar in het definitieve tariefplan gebudgetteerde T of T<sub>ko</sub>;<br>
 2° de voorgenomen doelstellingen worden niet bereikt;<br>
 3° er een sprong van Td van minstens 10% na de tarifaire periode komt.</p>
 
-<p>De WaterRegulator kan bij een bijsturing van het tariefpad bijkomende eisen voorschrijven zoals te behalen prestatienormen.</p>
+<p>De Vlaamse Nutsregulator kan bij een bijsturing van het tariefpad bijkomende eisen voorschrijven zoals te behalen prestatienormen.</p>
 
-<p>De WaterRegulator deelt de beslissing tot bijsturing van het tariefpad uiterlijk op 31 oktober van het jaar dat voorafgaat aan het jaar waarop de eruit voortvloeiende maximumtarieven van kracht worden, mee aan de exploitant.</p>
+<p>De Vlaamse Nutsregulator deelt de beslissing tot bijsturing van het tariefpad uiterlijk op 31 oktober van het jaar dat voorafgaat aan het jaar waarop de eruit voortvloeiende maximumtarieven van kracht worden, mee aan de exploitant.</p>
 
-<p>Als de exploitant niet akkoord gaat met de bijsturing van het tariefpad, kan de exploitant binnen dertig kalenderdagen na de ontvangst van de beslissing van de WaterRegulator tot aanpassing van het tariefpad een beroep indienen bij de minister.</p>
+<p>Als de exploitant niet akkoord gaat met de bijsturing van het tariefpad, kan de exploitant binnen dertig kalenderdagen na de ontvangst van de beslissing van de Vlaamse Nutsregulator tot aanpassing van het tariefpad een beroep indienen bij de minister.</p>
 
-<p>De minister neemt, binnen dertig kalenderdagen na de ontvangst van het beroep, een beslissing en deelt die mee aan de exploitant en aan de WaterRegulator. Bij gebrek aan beslissing van de minister binnen de gestelde termijn wordt het door de WaterRegulator bijgestuurde tariefpad en de eruit voorvloeiende Td en maximumtarieven als goedgekeurd beschouwd.</p>
+<p>De minister neemt, binnen dertig kalenderdagen na de ontvangst van het beroep, een beslissing en deelt die mee aan de exploitant en aan de Vlaamse Nutsregulator. Bij gebrek aan beslissing van de minister binnen de gestelde termijn wordt het door de Vlaamse Nutsregulator bijgestuurde tariefpad en de eruit voorvloeiende Td en maximumtarieven als goedgekeurd beschouwd.</p>
 
-<p>De exploitant past het tariefpad en het bijbehorende tariefplan, inclusief de Td en de maximumtarieven, als die van toepassing zijn, overeenkomstig de beslissing van de minister aan en deelt het bijgestuurde tariefpad met het bijbehorende tariefplan, inclusief de Td en de maximumtarieven, uiterlijk op 31 december van het jaar dat voorafgaat aan het jaar waarop de nieuwe maximumtarieven van toepassing worden, mee aan de WaterRegulator.</p>
+<p>De exploitant past het tariefpad en het bijbehorende tariefplan, inclusief de Td en de maximumtarieven, als die van toepassing zijn, overeenkomstig de beslissing van de minister aan en deelt het bijgestuurde tariefpad met het bijbehorende tariefplan, inclusief de Td en de maximumtarieven, uiterlijk op 31 december van het jaar dat voorafgaat aan het jaar waarop de nieuwe maximumtarieven van toepassing worden, mee aan de Vlaamse Nutsregulator.</p>
 
 <p>De exploitant stelt het bijgestuurde tariefpad en het bijbehorende tariefplan, inclusief de Td en de maximumtarieven, uiterlijk dan op zijn website ter beschikking, en bezorgt ze aan de abonnee op zijn eenvoudig verzoek.</p>
 
-<p>De minister kan, op voorstel van de WaterRegulator, nadere regels vastleggen voor de procedure tot bijsturing van het tariefpad.</p>
+<p>De minister kan, op voorstel van de Vlaamse Nutsregulator, nadere regels vastleggen voor de procedure tot bijsturing van het tariefpad.</p>
 
 ## Afdeling 4 Inwerkingtreding van de tarieven
 
@@ -221,13 +223,15 @@ Artikel   16 van hetzelfde besluit wordt opgeheven.
 
 ### ART. 23.
 
-<P>Elke   exploitant dient uiterlijk 1 augustus 2016 een aanvraag voor goedkeuring van het   tariefpad, onderbouwd door het tariefplan, conform de bepalingen van artikel 4   van dit besluit, in bij de WaterRegulator met het oog op de inwerkingtreding van   het eerste tariefpad op 1 januari 2017.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Tot   de tarieven, vastgelegd conform dit besluit, van toepassing zijn, past de   exploitant voor de bepaling van de drinkwatercomponent tarieven toe die tot   budgetneutraliteit ten opzichte van de inkomsten uit de drinkwatercomponent in   het kalenderjaar 2015 leiden. De WaterRegulator bepaalt de nadere modaliteiten   voor de invulling van budgetneutraliteit ten opzichte van het kalenderjaar   2015.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Elke exploitant dient uiterlijk 1 augustus 2016 een aanvraag voor goedkeuring van het tariefpad, onderbouwd door het tariefplan, conform de bepalingen van artikel 4 van dit besluit, in bij de Vlaamse Nutsregulator met het oog op de inwerkingtreding van het eerste tariefpad op 1 januari 2017.</p>
+
+<p>Tot de tarieven, vastgelegd conform dit besluit, van toepassing zijn, past de exploitant voor de bepaling van de drinkwatercomponent tarieven toe die tot budgetneutraliteit ten opzichte van de inkomsten uit de drinkwatercomponent in het kalenderjaar 2015 leiden. De Vlaamse Nutsregulator bepaalt de nadere modaliteiten voor de invulling van budgetneutraliteit ten opzichte van het kalenderjaar 2015.</p>
 
 ### ART 23/1.
 
-Als er op 31 december van een jaar geen definitief tariefpad is, met Td en maximumtarieven die eruit voortvloeien, en met bijbehorend tariefplan, voor het daaropvolgende jaar (= jaar x), past de exploitant vanaf 1 januari van dat volgende jaar x voorlopige tarieven toe die de tarieven van jaar x-1 zijn, tenzij de WaterRegulator andere voorlopige tarieven vaststelt. Die maatregel geldt totdat er een definitief tariefpad met definitieve Td en maximumtarieven die eruit voortvloeien, en met bijbehorend tariefplan vastligt. In dat definitieve tariefplan worden de afwijkingen ten gevolge van de voorlopige tarieven verrekend.<br>
+Als er op 31 december van een jaar geen definitief tariefpad is, met Td en maximumtarieven die eruit voortvloeien, en met bijbehorend tariefplan, voor het daaropvolgende jaar (= jaar x), past de exploitant vanaf 1 januari van dat volgende jaar x voorlopige tarieven toe die de tarieven van jaar x-1 zijn, tenzij de Vlaamse Nutsregulator andere voorlopige tarieven vaststelt. Die maatregel geldt totdat er een definitief tariefpad met definitieve Td en maximumtarieven die eruit voortvloeien, en met bijbehorend tariefplan vastligt. In dat definitieve tariefplan worden de afwijkingen ten gevolge van de voorlopige tarieven verrekend.<br>
 <br>
-De exploitant bezorgt op eenvoudig verzoek van de WaterRegulator kosteloos alle beschikbare gegevens en inlichtingen die de WaterRegulator toelaten de voorlopige tarieven vast te stellen en de realisaties van de drinkwateractiviteit op te volgen.
+De exploitant bezorgt op eenvoudig verzoek van de Vlaamse Nutsregulator kosteloos alle beschikbare gegevens en inlichtingen die de Vlaamse Nutsregulator toelaten de voorlopige tarieven vast te stellen en de realisaties van de drinkwateractiviteit op te volgen.
 
 ### ART. 24.
 
