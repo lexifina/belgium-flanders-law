@@ -50,6 +50,7 @@ In dit besluit wordt verstaan onder:<br>
 17° schouwspelartiest: de persoon die het beroep, vermeld in artikel 1bis van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, uitoefent;<br>
 18° stage: het opleidingsprogramma bij een werkgever om kennis, praktijk en ervaring in de beroepswereld op te doen, dat leidt tot een diploma van het hoger onderwijs of dat dient als voortzetting van de voorafgaande studie;<br>
 19° uitvoerend samenwerkingsakkoord van 6 december 2018: het samenwerkingsakkoord van 6 december 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende uitvoering van het samenwerkingsakkoord van 2 februari 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten;<br>
+19°/1 VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap “Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding”;<br>
 20° wet van 30 april 1999: de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
 21° wettig verblijf: de verblijfssituatie van de vreemdeling die toegelaten of gemachtigd is om op het grondgebied van het Rijk te verblijven voor een periode die negentig dagen niet overschrijdt conform titel I, hoofdstuk II, of titel II, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, of voor een periode van meer dan negentig dagen conform titel I, hoofdstuk III, van de voormelde wet.
 
@@ -194,23 +195,26 @@ De weigeringsgrond, vermeld in het eerste lid, 7°, is niet van toepassing op aa
 De weigeringsgrond, vermeld in het eerste lid, 9°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6° en 7°, en op aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.<br>
 <br>
 § 2. De toelating tot arbeid kan geweigerd worden als:<br>
-1° &nbsp;&nbsp; &nbsp;tegen de werkgever, de gastentiteit of de mandataris gedurende een jaar voor de aanvraag een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
-a) &nbsp;&nbsp; &nbsp;artikel 12/1, §1, artikel 12/3, §1, of artikel 12/4 van de wet van 30 april 1999;<br>
-b) &nbsp;&nbsp; &nbsp;artikel 13/5, artikel 13/6, §2, §4, of §5, van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht;<br>
-c) &nbsp;&nbsp; &nbsp;artikel 22 van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
-d) &nbsp;&nbsp; &nbsp;artikel 175/1, §1, artikel 181, §1, of artikel 181/1 van het Sociaal Strafwetboek;<br>
-2° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of de mandataris gedurende een jaar voor de aanvraag onjuiste, vervalste of onrechtmatig verkregen gegevens, verklaringen of onrechtmatig verrichte aanpassingen heeft gebruikt bij een aanvraag van toelating tot arbeid;<br>
+1° tegen de werkgever, de gastentiteit, of hun bestuurders of tegen de mandataris gedurende drie jaar voor de aanvraag een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
+a)&nbsp;&nbsp; &nbsp;artikel 12/1, §1, artikel 12/3, §1, of artikel 12/4 van de wet van 30 april 1999;<br>
+b)&nbsp;&nbsp; &nbsp;artikel 13/5, en 13/6, §2, §4, of §5, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;<br>
+c)&nbsp;&nbsp; &nbsp;artikel 22 van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
+d)&nbsp;&nbsp; &nbsp;artikel 175/1, §1, artikel 181, §1, of artikel 181/1 van het Sociaal Strafwetboek;<br>
+e)&nbsp;&nbsp; &nbsp;artikel 229, 232, 233, 234 of 235 van het Sociaal Strafwetboek;<br>
+f)&nbsp;&nbsp; &nbsp;artikel 433quinquies tot en met artikel 433octies van het Strafwetboek;<br>
+2° de werkgever, de gastentiteit, de mandataris of de werknemer gedurende drie jaar voor de aanvraag onjuiste, vervalste of onrechtmatig verkregen gegevens, verklaringen of onrechtmatig verrichte aanpassingen heeft gebruikt bij een aanvraag van een toelating tot arbeid;<br>
 3° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of diens bestuurders in staat van faillissement of van kennelijk onvermogen verkeren, het voorwerp uitmaken van een procedure tot faillietverklaring, of de voorbije vijf jaar failliet zijn verklaard, of een gerechtelijke reorganisatie hebben aangevraagd of verkregen;<br>
 4° &nbsp;&nbsp; &nbsp;het doel ervan is een ethische rekrutering te verzekeren in de sectoren die in het land van oorsprong een tekort aan gekwalificeerde werknemers hebben;<br>
 5° &nbsp;&nbsp; &nbsp;gedurende een jaar voor de aanvraag een toelating tot arbeid voor dezelfde werknemer in dezelfde categorie geweigerd of ingetrokken werd, zonder dat de aanvrager nieuwe elementen kan laten gelden;<br>
 6° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit zich niet houdt aan de bepalingen van de fiscale, sociaalrechtelijke of vennootschapsrechtelijke wetgeving;<br>
 7° &nbsp;&nbsp; &nbsp;de kredietwaardigheid van de onderneming of de gastentiteit ongunstig is;<br>
 8° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit onvoldoende economische of maatschappelijke activiteiten uitoefent die de tewerkstelling van buitenlandse werknemers verantwoordt;<br>
-9° &nbsp;&nbsp; &nbsp;de onderneming waarin buitenlandse werknemers zullen worden tewerkgesteld, minder dan drie jaar geleden is opgericht of geen personeelsleden in dienst heeft.<br>
+9° &nbsp;&nbsp; &nbsp;de onderneming waarin buitenlandse werknemers zullen worden tewerkgesteld, minder dan drie jaar geleden is opgericht of geen personeelsleden in dienst heeft;<br>
+10° het personeelsbestand van de onderneming of de gastentiteit voor meer dan 80% bestaat uit buitenlandse arbeidskrachten met een toelating tot arbeid van bepaalde duur.<br>
 <br>
 De weigeringsgrond, vermeld in het eerste lid, 4°, is alleen van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°.<br>
 <br>
-De weigeringsgronden, vermeld in het eerste lid, 7° tot en met 9°, zijn niet van toepassing op de aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op de aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.&nbsp;<br>
+De weigeringsgronden, vermeld in het eerste lid, 1°, e) en f), en 7° tot en met 10°, zijn niet van toepassing op de aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op de aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.&nbsp;<br>
 &nbsp;<br>
 Bij de beoordeling van de toelating tot arbeid houdt het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
 
@@ -223,21 +227,23 @@ Bij de beoordeling van de toelating tot arbeid houdt het personeelslid van de be
 4° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit de wettelijke en reglementaire verplichtingen voor de tewerkstelling van werknemers niet nakomt, met inbegrip van de loon- en andere arbeidsvoorwaarden die gelden voor de werknemers;<br>
 5° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of de werknemer zich niet houdt aan de bijzondere voorwaarden, vermeld in artikel 10.<br>
 <br>
-§ 2. De toelating tot arbeid kan ingetrokken worden als:<br>
-1° &nbsp;&nbsp; &nbsp;tegen de werkgever of de gastentiteit een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
+§2. De toelating tot arbeid kan ingetrokken worden als:<br>
+1° &nbsp;&nbsp; &nbsp;tegen de werkgever, de gastentiteit of hun bestuurders een sanctie uitgesproken is op grond van een van de volgende bepalingen:<br>
 a) &nbsp;&nbsp; &nbsp;artikel 12/1, §1, artikel 12/3, §1, of artikel 12/4 van de wet van 30 april 1999;<br>
 b) &nbsp;&nbsp; &nbsp;artikel 13/5, artikel 13/6, §2, §4, of §5, van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht;<br>
 c) &nbsp;&nbsp; &nbsp;artikel 22 van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
 d) &nbsp;&nbsp; &nbsp;artikel 175/1, §1, artikel 181, §1, of artikel 181/1 van het Sociaal Strafwetboek;<br>
+e)&nbsp; &nbsp; &nbsp;artikel 229, 232, 233, 234 of 235 van het Sociaal Strafwetboek;<br>
+f)&nbsp; &nbsp; &nbsp; artikel 433quinquies tot en met artikel 433octies van het Strafwetboek;<br>
 2° &nbsp;&nbsp; &nbsp;de werkgever, de gastentiteit of diens bestuurders in staat van faillissement of van kennelijk onvermogen verkeren, het voorwerp uitmaken van een procedure tot faillietverklaring, of de voorbije vijf jaar failliet zijn verklaard, of een gerechtelijke reorganisatie hebben aangevraagd of verkregen;<br>
 3° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit zich niet houdt aan de verplichtingen die zijn opgelegd door fiscale, sociaalrechtelijke of vennootschapsrechtelijke wetgeving;<br>
 4° &nbsp;&nbsp; &nbsp;de werkgever of de gastentiteit onvoldoende economische of maatschappelijke activiteiten uitoefent die de tewerkstelling van buitenlandse werknemers verantwoordt.<br>
 <br>
 De intrekkingsgrond, vermeld in het eerste lid, 2°, is niet van toepassing op de aanvragen van personen als vermeld in artikel 17, eerste lid, 3°.<br>
 <br>
-De intrekkingsgrond, vermeld in het eerste lid, 4°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.<br>
+De intrekkingsgrond, vermeld in het eerste lid, 1°, e) en f), en 4°, is niet van toepassing op aanvragen van personen als vermeld in artikel 17, eerste lid, 3°, 6°, 7°, 8° en 18°, of op aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8.<br>
 <br>
-&nbsp;Bij de beoordeling van de toelating houdt het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
+Bij de beoordeling van de toelating houdt het personeelslid van de bevoegde overheid dat conform artikel 2, §4, is aangewezen rekening met de specifieke omstandigheden die eigen zijn aan de aanvraag, de belangen van de buitenlandse werknemer, het economische belang van de werkgever en het evenredigheidsbeginsel.
 
 ### ART 14.
 
@@ -283,7 +289,7 @@ In het eerste lid, 5°, wordt onder het recht op kortetermijnmobiliteit verstaan
 &nbsp;&nbsp;<br>
 §2. Met behoud van de toepassing van de bepalingen van internationale akkoorden zijn de volgende personen van rechtswege toegelaten tot arbeid als ze voldoen aan de voorafgaande Limosa-aangifte conform titel IV, hoofdstuk 8, afdeling 2, van de programmawet (I) van 27 december 2006 tot voorafgaande melding voor gedetacheerde werknemers en zelfstandigen:&nbsp;<br>
 1° &nbsp;&nbsp; &nbsp;de onderdanen van derde landen die in het kader van onderzoek hun recht op kortetermijnmobiliteit uitoefenen op voorwaarde dat aan hun tewerkstelling inkomsten zijn verbonden die hen in staat stellen om te voorzien in hun behoeften of in de behoeften van hun gezin, conform artikel 76, §1, eerste lid;&nbsp;<br>
-2° &nbsp;&nbsp; &nbsp;de werknemers die geen onderdaan zijn van een lidstaat van de Europese Economische Ruimte en die tewerkgesteld zijn door een onderneming die gevestigd is in een lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat en die zich tijdelijk naar België begeven om diensten te verrichten, op voorwaarde dat ze voldoen aan een van de volgende voorwaarden:&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;de werknemers die geen onderdaan zijn van een lidstaat van de Europese Economische Ruimte en die tewerkgesteld zijn door een onderneming die gevestigd is in een lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat en die zich tijdelijk naar België begeven om diensten te verrichten, op voorwaarde dat ze voldoen aan al de volgende voorwaarden:&nbsp;<br>
 a) &nbsp;&nbsp; &nbsp;ze verblijven in de lidstaat van de Europese Economische Ruimte of de Zwitserse Bondsstaat en ze beschikken daar over een recht op verblijf of een verblijfsvergunning van meer dan drie maanden;&nbsp;<br>
 b) &nbsp;&nbsp; &nbsp;ze zijn wettig tewerkgesteld in de lidstaat waar ze verblijven, en de vergunning is ten minste geldig voor de duurtijd van het werk dat ze in België moeten uitvoeren;&nbsp;<br>
 c) &nbsp;&nbsp; &nbsp;ze zijn in het bezit van een regelmatige arbeidsovereenkomst;&nbsp;<br>
@@ -301,14 +307,14 @@ In het eerste lid, 3°, wordt onder flexi-job verstaan: de tewerkstelling als ve
 ### ART 17.
 
 De volgende personen worden toegelaten tot arbeid:<br>
-1° hooggeschoold personeel, op voorwaarde dat de buitenlandse werknemer hogere beroepskwalificaties aantoont aan de hand van een diploma van het hoger onderwijs en de bezoldiging van de buitenlandse werknemer minstens 100% bedraagt van het gemiddeld bruto jaarloon.<br>
+1° hooggeschoold personeel, op voorwaarde dat de buitenlandse werknemer hogere beroepskwalificaties aantoont aan de hand van een diploma van het hoger onderwijs en een hooggekwalificeerde functie uitvoert waarvoor de bezoldiging minstens 100% bedraagt van het gemiddeld bruto jaarloon.<br>
 De bezoldiging bedraagt minstens 80% van het gemiddeld bruto jaarloon voor de werknemer, verbonden door een arbeidsovereenkomst met een in België gevestigde werkgever, voor zover de werknemer:<br>
 a) ofwel de leeftijd van dertig jaar niet heeft bereikt;<br>
 b) ofwel tewerkgesteld wordt als verpleegkundige;<br>
 c) ofwel als leerkracht wordt tewerkgesteld in een onderwijsinstelling die de Vlaamse Gemeenschap heeft erkend;<br>
 2° leidinggevend personeel, op voorwaarde dat hun jaarlijkse bezoldiging minstens 160% bedraagt van het gemiddeld bruto jaarloon;<br>
 3° hooggeschoold personeel dat in aanmerking komt voor de Europese blauwe kaart conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 1, van dit besluit;<br>
-4° ...<br>
+4° seizoenarbeiders als vermeld in hoofdstuk 8, afdeling 2 van dit besluit;<br>
 5° postdoctoraal onderzoekers die een tegemoetkoming voor wetenschappelijk onderzoek genieten voor een periode van maximum drie jaar;<br>
 6° onderzoekers die, op basis van een gastovereenkomst met een erkende onderzoeksinstelling, in aanmerking komen voor een vergunning voor onderzoekers of een vergunning voor langetermijnmobiliteit voor onderzoekers conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 4, van dit besluit;<br>
 7° de binnen de onderneming overgeplaatste leidinggevende-ICT, specialist-ICT, of stagiair-werknemer-ICT die in aanmerking komt voor een vergunning voor een binnen een onderneming overgeplaatste persoon of een vergunning voor langetermijnmobiliteit conform de voorwaarden, vermeld in hoofdstuk 8, afdeling 3, van dit besluit;<br>
@@ -329,23 +335,38 @@ In het eerste lid, 5° wordt verstaan onder postdoctoraal onderzoeker: de person
 
 ### ART 18.
 
-§1. Onder voorbehoud van de toepassing van artikel 16, 17 en 19 wordt de toelating tot arbeid van bepaalde duur uitgereikt aan de werkgever die in België gevestigd is, voor zover er geen kandidaat is op de arbeidsmarkt van een lidstaat van de Europese en Economische Ruimte die, al dan niet via een nog te volgen beroepsopleiding of individuele beroepsopleiding, geschikt is om de arbeidsplaats in kwestie op een gepaste wijze en binnen een billijke termijn te bekleden.<br>
+§1. Onder voorbehoud van de toepassing van artikel 16, 17 en 19 wordt de toelating tot arbeid van bepaalde duur uitgereikt aan de werkgever die in België gevestigd is, als er geen kandidaat is op de arbeidsmarkt van een lidstaat van de Europese Economische Ruimte die, al dan niet via een beroepsopleiding of individuele beroepsopleiding die nog moet worden gevolgd, geschikt is om de arbeidsplaats in kwestie op een gepaste wijze en binnen een billijke termijn te bekleden.<br>
 <br>
-De &nbsp;aanvraag voldoet, op straffe van onontvankelijkheid, aan al de volgende voorwaarden:<br>
-1° &nbsp;&nbsp; &nbsp;de functie wordt vermeld op de knelpuntberoepenlijst die de VDAB jaarlijks publiceert;<br>
-2° &nbsp;&nbsp; &nbsp;de functie vereist een kwalificatie van niveau 2, niveau 3 of niveau 4;<br>
-3° &nbsp;&nbsp; &nbsp;de vacature voor de arbeidsplaats is gepubliceerd op de platformen van de VDAB en EURES, gedurende een aaneengesloten periode van minimaal 9 weken in de periode van 4 maanden onmiddellijk voorafgaand aan de aanvraag van toelating tot arbeid;<br>
-4°&nbsp;&nbsp; &nbsp;de werkgever vraagt bij de publicatie van de vacature als vermeld in 3° actieve bemiddeling voor de invulling van de vacature door de VDAB.<br>
+De aanvraag voldoet, op straffe van onontvankelijkheid, aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de functie wordt vermeld op de knelpuntberoepenlijst die de VDAB jaarlijks publiceert;<br>
+2°&nbsp;&nbsp; &nbsp;de functie vereist een kwalificatie van niveau 3 of niveau 4;<br>
+3°&nbsp;&nbsp; &nbsp;de vacature voor de arbeidsplaats is gepubliceerd op de platformen van de VDAB en EURES, gedurende een aaneengesloten periode van minimaal negen weken in de periode van vier maanden die onmiddellijk voorafgaan aan de aanvraag van een toelating tot arbeid.<br>
 <br>
-De termijn, vermeld in het tweede lid, 3°, bedraagt bij aanvragen van seizoenarbeiders als vermeld in afdeling 2 van hoofdstuk 8 minimaal drie weken in de periode van een maand onmiddellijk voorafgaand aan de aanvraag van toelating tot arbeid.<br>
+In het tweede lid, 3°, wordt verstaan onder EURES: het Europees netwerk van diensten voor arbeidsvoorziening als vermeld in verordening (EU) 2016/589 van het Europees Parlement en de Raad van 13 april 2016 inzake een Europees netwerk van diensten voor arbeidsvoorziening (EURES), de toegang van werknemers tot mobiliteitsdiensten en de verdere integratie van de arbeidsmarkten en tot wijziging van Verordeningen (EU) nr. 492/2011 en (EU) nr. 1296/2013.<br>
 <br>
-In het tweede lid wordt onder de VDAB verstaan: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+Bij de beoordeling door de bevoegde overheid van de vereisten, vermeld in het eerste lid, wordt een geschikte kandidaat vermoed aanwezig te zijn, in elk van de volgende situaties:<br>
+1°&nbsp;&nbsp; &nbsp;de lokale spanningsindicator voor de functie in kwestie is tijdens de volledige periode van vier maanden die onmiddellijk voorafgaan aan de aanvraag van toelating tot arbeid, groter of gelijk aan twaalf;<br>
+2°&nbsp;&nbsp; &nbsp;in de vacature, vermeld in het tweede lid, 3°, staan de gevraagde kwalificaties niet in verhouding tot de uit te voeren functie;<br>
+3°&nbsp;&nbsp; &nbsp;de werkgever verleent tijdens de vacature, vermeld in het tweede lid, 3°, geen medewerking bij de bemiddeling door VDAB.<br>
 <br>
-In het tweede lid, 3°, wordt onder EURES verstaan: het Europees netwerk van diensten voor arbeidsvoorziening als vermeld in Verordening 2016/589 (EU) van het Europees Parlement en de Raad van 13 april 2016 inzake een Europees netwerk van diensten voor arbeidsvoorziening (EURES), de toegang van werknemers tot mobiliteitsdiensten en de verdere integratie van de arbeidsmarkten en tot wijziging van Verordeningen (EU) nr. 492/2011 en (EU) nr. 1296/2013.<br>
+In het vierde lid, 1°, wordt verstaan onder lokale spanningsindicator: het getal dat de verhouding weergeeft tussen het aantal werkzoekenden zonder werk, in bemiddeling, en het aantal beschikbare vacatures voor een bepaalde functie in het Vlaamse Gewest, die de VDAB maandelijks berekent en bekendmaakt.<br>
+<br>
+De bevoegde overheid kan bij de beoordeling van de vereisten, vermeld in het eerste lid, advies vragen aan de VDAB. Het advies van de VDAB wordt binnen acht dagen nadat de VDAB de adviesaanvraag heeft ontvangen, aan de bevoegde overheid bezorgd.<br>
 <br>
 § 2. De voorwaarden vermeld in de eerste paragraaf, worden vermoed vervuld te zijn voor functies waarvoor de minister vaststelt dat er een structureel tekort is.<br>
 <br>
 In toepassing van het eerste lid, stelt de minister uiterlijk om de twee jaar, na raadpleging van de Adviescommissie voor Economische Migratie, een lijst op met middengeschoolde functies waarvoor er, voor de toepassing van dit besluit, een structureel tekort aan arbeidskrachten is.<br>
+<br>
+Bij de beoordeling van het structureel tekort houdt de minister rekening met al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;het aantal openstaande vacatures op de arbeidsmarkt;<br>
+2°&nbsp;&nbsp; &nbsp;de oorzaak en de duurtijd van het tekort;<br>
+3°&nbsp;&nbsp; &nbsp;de beschikbare arbeidsreserve.&nbsp;<br>
+<br>
+De minister kan rekening houden met het aanbod van beroepsopleidingen en de geografische spreiding van de tekorten.<br>
+<br>
+Bij indicaties dat een sector meer dan gemiddeld onderhevig is aan misbruiken, kunnen functies binnen die sector geweerd worden uit de lijst.<br>
+<br>
+Bij indicaties dat buitenlandse arbeidskrachten niet kunnen voldoen aan essentiële vereisten voor de uitoefening van of voor de toegang tot het beroep, kunnen functies geweerd worden uit de lijst.<br>
 <br>
 De minister deelt de lijst mee aan de Vlaamse Regering.<br>
 <br>
@@ -399,11 +420,24 @@ Houders van een geldige Europese blauwe kaart, afgeleverd door een andere Europe
 
 Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn 2014/36/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoenarbeider.<br>
 <br>
-Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 2 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.
+Voor de toepassing van deze afdeling zijn de bepalingen van titel II, hoofdstuk 2 van het uitvoerend samenwerkingsakkoord van 6 december 2018 van toepassing.<br>
+<br>
+De bepalingen van deze afdeling gelden voor elke aanvraag van een toelating tot arbeid ingediend overeenkomstig hoofdstuk 9 of hoofdstuk 10 van dit besluit.
 
 ### ART 23.
 
-Onverminderd artikel 18 wordt een toelating tot arbeid voor seizoenarbeiders toegekend als de seizoenarbeider gebonden is door een arbeidsovereenkomst met de werkgever voor seizoenafhankelijke activiteiten in de sectoren landbouw, tuinbouw of horeca, voor maximaal vijf maanden per periode van twaalf maanden.
+Een toelating tot arbeid voor seizoenarbeiders wordt toegekend voor maximaal vijf maanden per periode van twaalf maanden, als aan al de volgende voorwaarden voldaan is:<br>
+1°&nbsp;&nbsp; &nbsp;de seizoenarbeider is gebonden door een arbeidsovereenkomst met de werkgever voor seizoenafhankelijke activiteiten in de sectoren landbouw, tuinbouw of horeca;<br>
+2°&nbsp;&nbsp; &nbsp;de uit te voeren functie wordt vermeld op de knelpuntberoepenlijst die de VDAB jaarlijks publiceert.<br>
+<br>
+De minister kan, na raadpleging van de Adviescommissie voor Economische Migratie, bepaalde functies voor seizoenafhankelijke activiteiten uitsluiten van toelating tot arbeid, als er geen zwaarwichtig tekort aan arbeidskrachten bestaat voor die functies.<br>
+<br>
+Bij de beoordeling van het zwaarwichtig tekort, vermeld in het tweede lid, houdt de minister rekening met al de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;het aantal openstaande vacatures op de arbeidsmarkt;<br>
+2° &nbsp;&nbsp; &nbsp;de oorzaak van het tekort;<br>
+3° &nbsp;&nbsp; &nbsp;de beschikbare arbeidsreserve.<br>
+<br>
+De uitsluiting van bepaalde functies voor seizoenafhankelijke activiteiten wordt uiterlijk om de twee jaar herzien.
 
 ### ART 24.
 
@@ -574,7 +608,16 @@ Bij een hernieuwing worden de volgende stukken bij het formulier, vermeld in art
 Voor hooggeschoold personeel of personen die een leidinggevende functie bekleden als vermeld in artikel 17, eerste lid, 1° en 2°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
 1° een kopie van de arbeidsovereenkomst, vermeld in titel I en III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of van de arbeidsovereenkomst, vermeld in hoofdstuk II, afdeling 1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, die beide partijen dagtekenen en ondertekenen, of het bewijs van aanstelling of, in geval van detachering, een kopie van de arbeidsovereenkomst tussen de werknemer en zijn werkgever die in het buitenland is gevestigd, in voorkomend geval met een vertaalde versie ervan;<br>
 2° in geval van detachering een attest, ondertekend door de werkgever, waarin hij de duur van de detachering bepaalt, alsook de arbeids- en loonvoorwaarden tijdens de duur van de detachering;<br>
-3° voor hooggeschoold personeel een fotokopie van de diploma's van het hoger onderwijs die de werknemer heeft behaald, in voorkomend geval met een vertaalde versie ervan.
+3° voor hooggeschoold personeel een fotokopie van de diploma's van het hoger onderwijs die de werknemer heeft behaald, in voorkomend geval met een vertaalde versie ervan.<br>
+<br>
+De Belgische arbeidsovereenkomst, vermeld in het eerste lid, 1°, bevat al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonlijke gegevens van de werkgever en de werknemer;<br>
+2°&nbsp;&nbsp; &nbsp;de duur en de plaats van de tewerkstelling;<br>
+3°&nbsp;&nbsp; &nbsp;het loon;<br>
+4°&nbsp;&nbsp; &nbsp;het nummer en de naam van het paritair comité waaronder de werkgever ressorteert;<br>
+5°&nbsp;&nbsp; &nbsp;de functie van de werknemer en de classificatie van de functie.<br>
+<br>
+Op verzoek van de bevoegde overheid legt de werkgever het bewijs van attestering voor door een overheidsdienst of door de diplomatieke of consulaire post van het land waar de buitenlandse werknemer is gevestigd, dat de waarachtigheid van de documenten, vermeld in het eerste lid, 3°, aantoont.
 
 ### ART 46.
 
@@ -674,13 +717,8 @@ De arbeidsovereenkomst vermeld in het eerste lid, 1°, bevat een beschrijving va
 
 Voor de werknemers, vermeld in artikel 17, eerste lid, 14°, voegt de werkgever de volgende documenten toe aan het formulier, vermeld in artikel 41:<br>
 1° het bewijs dat het gaat om een erkende geloofsgemeenschap binnen een erkende eredienst;<br>
-2° het bewijs dat de betrokkene bedienaar van de eredienst is. Het bewijs wordt geleverd met een afschrift van de aanstellingsakte van de FOD Justitie of van een bewijs van aanstelling door de Belgische verantwoordelijke van de erkende eredienst. De duur van de opdracht en de bestaansmiddelen worden vermeld op dat bewijs;<br>
-3° het schriftelijk bewijs dat de betrokkene als bedienaar van de erkende eredienst noch rechtstreeks, noch onrechtstreeks bezoldigd wordt door een buitenlandse overheid.<br>
-<br>
-Het schriftelijk bewijs als vermeld in het eerste lid wordt, op straffe van onontvankelijkheid, aangetoond aan de hand van één of meerdere van de volgende stukken:<br>
-1° een kopie van een arbeidsovereenkomst naar Belgisch recht &nbsp;&nbsp; &nbsp;gedagtekend en ondertekend door beide partijen;<br>
-2° een gedagtekende en schriftelijke verklaring van de Federale Overheidsdienst Justitie waaruit blijkt dat de bedienaar van de erkende eredienst wordt bezoldigd door de federale overheid in het kader van artikel 181 van de Grondwet en de Wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten, van de bedienaars van de erkende erediensten en van de afgevaardigden van de Centrale vrijzinnige Raad;<br>
-3° een gedagtekende en schriftelijke verklaring van het federaal erkend representatief orgaan van de erkende eredienst waarin verklaard wordt dat de betrokken bedienaar van de erkende eredienst niet wordt bezoldigd door een buitenlandse overheid.
+2° het bewijs dat de betrokkene bedienaar van de eredienst is. Het bewijs wordt geleverd met &nbsp;een bewijs van aanstelling door de Belgische verantwoordelijke van de erkende eredienst. De duur van de opdracht wordt vermeld op dat bewijs;<br>
+3° het bewijs dat de wedde van de bedienaar van de eredienst ten laste genomen wordt door de Federale Overheidsdienst Justitie in het kader van artikel 181 van de Grondwet en de Wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten, van de bedienaars van de erkende erediensten en van de afgevaardigden van de Centrale vrijzinnige Raad.
 
 ### ART 58.
 
@@ -721,13 +759,16 @@ Voor de aanvragen, vermeld in artikel 18, voegt de werkgever al de volgende stuk
 1° een fotokopie van de naar behoren ingevulde arbeidsovereenkomst, vermeld in titel I en II of III van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, of van de arbeidsovereenkomst, vermeld in hoofdstuk II, afdeling 1, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, gedagtekend en ondertekend door beide partijen;<br>
 2° een uitgebreide beschrijving van de functie en van het takenpakket;<br>
 3° het curriculum vitae dat een volledig overzicht bevat van de gevolgde opleidingen, de werkervaring en de nevenactiviteiten van de buitenlandse werknemer;<br>
-4° in voorkomend geval, het diploma, het getuigschrift of het ervaringsbewijs dat de kwalificatie van de werknemer voor de specifieke functie aantoont.<br>
+4° het diploma, het getuigschrift of het ervaringsbewijs dat de kwalificatie van de werknemer voor de specifieke functie aantoont;<br>
+5° stavingsstukken waaruit vruchteloze inspanningen blijken van de werkgever met het oog op de aanwerving van een kandidaat op de arbeidsmarkt, met inbegrip van opleidingsinitiatieven die de werkgever onderneemt om de functie in te vullen.<br>
 &nbsp;&nbsp; &nbsp;<br>
 De arbeidsovereenkomst, vermeld in het eerste lid, 1°, bevat de persoonlijke gegevens van de werkgever en de werknemer, de duur en de plaats van de tewerkstelling, het werkrooster, het loon, het nummer en de naam van het paritair comité waaronder de werkgever ressorteert, de functie van de werknemer en de classificatie van de functie.<br>
 &nbsp;&nbsp; &nbsp;<br>
 De arbeidsovereenkomst, vermeld in het eerste lid, 1°, kan geen arbeidsovereenkomst zijn als vermeld in hoofdstuk II, afdeling 2, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, en geen PWA-arbeidsovereenkomst als vermeld in artikel 3 tot en met 6 van de wet van 7 april 1999 betreffende de PWA-arbeidsovereenkomst.<br>
 <br>
 Op verzoek van de bevoegde overheid legt de werkgever het bewijs van attestering voor door de publieke arbeidsbemiddelingsdienst, een overheidsdienst of door de diplomatieke of consulaire post van het land waar de buitenlandse werknemer is gevestigd, dat de waarachtigheid van de gegevens, vermeld in het eerste lid, 3° tot en met 4°, aantoont.&nbsp;<br>
+<br>
+Het document, vermeld in het eerste lid, 5°, is niet vereist voor de aanvraag voor functies waarvoor een structureel tekort bestaat, zoals vermeld in artikel 18, §2.<br>
 <br>
 In het vierde lid wordt onder publieke arbeidsbemiddelingsdienst verstaan: de dienst die lid is van de internationale vereniging zonder winstoogmerk World Association of Public Employment Services.
 
@@ -851,6 +892,8 @@ In afwijking van het eerste lid, wordt met toepassing van artikel 17, eerste lid
 <br>
 § 2. De eerste paragraaf van dit artikel geldt met behoud van de toepassing van de loonvoorwaarden die verschuldigd zijn krachtens door de Koning overeenkomstig de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités algemeen verbindend verklaarde collectieve arbeidsovereenkomsten.<br>
 <br>
+Met toepassing van het eerste lid wordt een toelating tot arbeid voor een middengeschoolde functie uitgereikt op basis van artikel 18, als de werknemer niet ingeschaald wordt als ongeschoolde arbeidskracht.<br>
+<br>
 § 3. De bezoldiging van de buitenlandse werknemer die met toepassing van artikel 8, § 1, tweede lid, toegelaten wordt tot arbeid voor een periode langer dan een jaar, wordt jaarlijks aangepast conform paragraaf 1, eerste lid, of artikel 17, eerste lid, 1° en 2°, artikel 21, 2°, of artikel 26, 4°.
 
 ### ART 77.
@@ -874,6 +917,44 @@ In het eerste lid wordt verstaan onder:<br>
 In toepassing van artikel 16, § 1, eerste lid, 5°, artikel 26, 4° en artikel 28, 3°, wordt de bezoldiging vermoed niet minder gunstig te zijn dan die van vergelijkbare functies indien ze minstens 160% van het gemiddeld bruto jaarloon bedraagt voor wat betreft de leidinggevende-ICT, en minstens 100% van het gemiddeld bruto jaarloon wat betreft de specialist-ICT en de stagiair-werknemer-ICT.<br>
 <br>
 Bij de beoordeling of de betrokken werknemer niet minder gunstig verloond wordt dan vergelijkbare functies, wordt rekening gehouden met alle voorgelegde elementen van het individuele geval.
+
+## HOOFDSTUK 11/1. Bepalingen over de zorgvuldigheidsplicht in het kader van ketenaansprakelijkheid
+
+### ART 79/1
+
+Om aan te tonen dat de voorwaarde, vermeld in artikel 12/4, §1, tweede lid, 2°, van de wet van 30 april 1999, is vervuld, laten de opdrachtgever, de aannemer en de intermediaire aannemer de volgende gegevens aanbrengen door de rechtstreekse aannemer of onderaannemer, die behoort tot de risicosectoren:<br>
+1°&nbsp; in geval van de dienstverrichting, vermeld in artikel 16, §2, eerste lid, 2°, van dit besluit, of artikel 2, §2, 5°, van het besluit van de Vlaamse Regering van 17 december 2021 tot uitvoering van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen:<br>
+a)&nbsp; het bewijs van een geldig paspoort of een daarmee gelijkgestelde reistitel van alle onderdanen van derde landen die worden tewerkgesteld door de rechtstreekse aannemer of onderaannemer of die zelfstandige beroepsactiviteiten uitoefenen in opdracht van de rechtstreekse aannemer of onderaannemer. Als de rechtstreekse onderaannemer een natuurlijke persoon betreft die onderdaan is van een derde land, wordt ook een bewijs van zijn geldige paspoort of een daarmee gelijkgestelde reistitel aangebracht;&nbsp;<br>
+b)&nbsp; het bewijs van het recht op verblijf of de verblijfsvergunning van meer dan drie maanden in de lidstaat van de Europese Economische ruimte of de Zwitserse bondsstaat waar de voormelde onderdanen van derde landen verblijven;<br>
+c)&nbsp; het bewijs van de inschrijving in het Limosakadaster als de activiteiten kaderen binnen een detachering binnen het toepassingsgebied, vermeld in artikel 138 van de programmawet (I) van 27 december 2006;<br>
+d)&nbsp; het bewijs van het document dat is afgegeven door de buitenlandse instelling, en dat verklaart dat de socialezekerheidswetgeving van dat land van toepassing blijft tijdens de tewerkstelling op het Belgische grondgebied;<br>
+2°&nbsp; in geval van de tewerkstelling bij een werkgever die in België gevestigd is of bij een gebruiker van een dienstverrichting die in België gevestigd is van onderdanen van derde landen voor wie een toelating tot arbeid vereist is, of, in geval van een zelfstandige beroepsactiviteit waarvoor een beroepskaart vereist is met toepassing van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan, worden de volgende gegevens aangebracht door de rechtstreekse aannemer of onderaannemer, die behoort tot de risicosectoren:&nbsp;<br>
+a)&nbsp; het gegeven, vermeld in punt 1°, a);&nbsp;<br>
+b)&nbsp; het bewijs van het wettig verblijf;&nbsp;<br>
+c)&nbsp; het bewijs van een geldige Belgische toelating tot arbeid of beroepskaart van de voormelde onderdanen van derde landen;<br>
+d)&nbsp; in voorkomend geval, het bewijs van onmiddellijke aangifte van tewerkstelling van de onderdanen van derde landen als vermeld in het koninklijk besluit van 5 november 2002 tot invoering van een onmiddellijke aangifte van tewerkstelling, met toepassing van artikel 38 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels&nbsp;, of het bewijs van de inschrijving in het Limosakadaster als de activiteiten kaderen binnen een detachering binnen het toepassingsgebied, vermeld in artikel 138 van de programmawet (I) van 27 december 2006.<br>
+<br>
+In het geval het document, vermeld in het eerste lid, 1°, d), niet aanwezig is bij de aanvang van de dienstverrichting, vermeld in het eerste lid, 1°, volstaat het dat het ontvangstbewijs van de aanvraag van het document, vermeld in het eerste lid, 1°, d), aangebracht wordt door de rechtstreekse aannemer of onderaannemer.
+
+### ART 79/2
+
+De opdrachtgever, de aannemer en de intermediaire aannemer vragen de gegevens, vermeld in artikel 79/1, op bij hun rechtstreekse aannemer of onderaannemer en gaan na of die gegevens aanwezig zijn. Ze houden de gegevens, vermeld in artikel 79/1, ter beschikking van de sociale inspectiediensten.&nbsp;<br>
+<br>
+Als de gegevens, vermeld in het eerste lid, niet aanwezig zijn na het verzoek om deze aan te brengen, meldt de opdrachtgever, de aannemer of de intermediaire aannemer dat aan de Vlaamse Sociale Inspectie, via het elektronische meldloket dat de Vlaamse Sociale Inspectie daarvoor ter beschikking stelt.<br>
+<br>
+In het tweede lid wordt verstaan onder Vlaamse Sociale Inspectie: de sociaalrechtelijke inspecteurs, vermeld in artikel 2, §1, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.<br>
+<br>
+De opdrachtgever, de aannemer en de intermediaire aannemer kunnen zich voor de taken, vermeld in het eerste lid, laten bijstaan door een sociale dienstverrichter of erkend sociaal secretariaat als vermeld in artikel 31ter, §2, 1° en 2°, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers.
+
+### ART 79/3.
+
+Met toepassing van artikel 12/4, §1, tweede lid, 2°, van de wet van 30 april 1999, worden de volgende sectoren en activiteiten beschouwd als risicosectoren:<br>
+1°&nbsp;&nbsp; &nbsp;de werken, vermeld in artikel 30bis, §1, 1°, van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
+2°&nbsp;&nbsp; &nbsp;de activiteiten, vermeld in artikel 30ter van de voormelde wet, met uitzondering van de activiteiten, vermeld in artikel 1 van het koninklijk besluit van 7 november 1983 tot oprichting en tot vaststelling van de benaming en van de bevoegdheid van het Paritair Comité voor de bewakings- en/of toezichtsdiensten en tot vaststelling van het aantal leden ervan;<br>
+3°&nbsp;&nbsp; &nbsp;de activiteiten, vermeld in artikel 22, 2°, van de programmawet (I) van 26 december 2022;<br>
+4°&nbsp;&nbsp; &nbsp;de diensten van de pakketbezorgers, vermeld in artikel 2, 34°, van de wet van 26 januari 2018 betreffende de postdiensten.<br>
+<br>
+Het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1, eerste lid, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, evalueert de lijst van sectoren en activiteiten, vermeld in het eerste lid, uiterlijk om de twee jaar.
 
 ## HOOFDSTUK 12. Bepalingen inzake gegevensverwerking
 
