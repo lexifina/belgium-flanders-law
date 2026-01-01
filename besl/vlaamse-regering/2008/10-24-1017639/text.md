@@ -45,7 +45,9 @@ Het agentschap geeft mee uitvoering aan het VN-verdrag inzake de rechten van per
 De kerntaak van het agentschap is om het beleid uit te voeren met betrekking tot de domeinen, vermeld in artikel 5, § 1, 1°, e), f) en g), van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie. Daartoe behoren de volgende taken:<br>
 1° een kwaliteitsvolle hulpverlening organiseren voor de personen, vermeld in artikel 4, § 2, 3°, 4°, 5°, 6°, 7° en 8°, van het voormelde decreet van 30 april 2004;<br>
 2° de taken uitvoeren en coördineren met toepassing van het beleid betreffende de integrale jeugdhulp, vermeld in het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-3° het beleid rond jeugddelinquentie uitvoeren, waaronder de organisatie en het beheer van de gemeenschapsinstellingen;<br>
+3° het beleid rond jeugddelinquentie uitvoeren wat betreft:<br>
+a)&nbsp;&nbsp; &nbsp;de erkenning en subsidiëring van voorzieningen die erkend zijn voor delictgerichte contextbegeleiding als vermeld in artikel 16 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+b)&nbsp;&nbsp; &nbsp;de opdrachten van de sociale dienst, vermeld in artikel 2, 21°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 4° de pleegzorg organiseren met toepassing van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.
 
 ### ART. 5.

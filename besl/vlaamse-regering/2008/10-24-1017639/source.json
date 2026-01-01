@@ -2,16 +2,16 @@
   "codex_id": 1017639,
   "title": "Besluit van de Vlaamse Regering van 2008-10-24 tot [oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017639/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "f08c63129e82004e08e8c2fa72b41bbb07b81e326bccaebde6e4d61551d5e3c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017639/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "bc80282bb9931c0fe35498bc894ca7bc2bf9733ef0afc00104e798289799ce21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017639&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2026-01-01",
   "made": "2008-10-24",
   "gazette": "2009-03-02",
   "numac": 2009035022,
   "document_start": "2009-03-02",
   "document_end": "2014-02-27",
-  "in_force": "2023-06-01",
+  "in_force": "2026-01-01",
   "article_versions": 142,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
