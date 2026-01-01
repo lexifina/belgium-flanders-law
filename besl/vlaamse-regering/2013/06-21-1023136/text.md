@@ -424,11 +424,13 @@ De subsidie-enveloppe wordt aan een erkend centrum toegekend op voorwaarde   dat
 
 <p>Aan een erkend centrum voor teleonthaal wordt naast de subsidie-enveloppe, vermeld in het eerste lid, en artikel 31, jaarlijks een forfaitair bedrag toegekend voor de werkingskosten van de vrijwilligers van 468.159,37 euro.</p>
 
-<p>Aan een erkend centrum voor algemeen welzijnswerk wordt een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 85.670,65 euro per erkende voltijdse equivalent.</p>
+<p>Aan een erkend centrum voor algemeen welzijnswerk wordt een jaarlijkse subsidie-enveloppe toegekend die is samengesteld uit een forfaitair bedrag van 88.968,47 euro per erkende voltijdse equivalent.</p>
 
 ### ART. 33.
 
-<p>De forfaitaire bedragen, vermeld in artikel 32, eerste, tweede en derde lid, zijn uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2024. Dat bedrag wordt, binnen de beschikbare begrotingskredieten, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.</p>
+<p>De forfaitaire bedragen, vermeld in artikel 32, eerste en tweede lid, zijn uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2024. Dat bedrag wordt, binnen de beschikbare begrotingskredieten, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2, §2, van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+De forfaitaire bedragen, vermeld in artikel 32, derde lid, zijn uitgedrukt tegen 100% van de spilindex die van toepassing is op 1 januari 2026. Dat bedrag wordt, binnen de beschikbare begrotingskredieten, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2, §2, van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.</p>
 
 <p>De subsidie-enveloppen worden aangepast aan de anciënniteitsevolutie van het algemeen welzijnswerk, met name de evolutie van de gemiddelde geldelijke anciënniteit die de personeelsleden hebben opgebouwd. De stijging van die anciënniteit kan niet meer dan twaalf maanden per jaar bedragen.</p>
 
