@@ -252,9 +252,9 @@ In afwijking van het tweede lid is de loonpremie voor de aanwerving of de tewerk
 <br>
 Voor de vaststelling van de periodes, vermeld in het eerste, tweede en het derde lid, wordt de periode tussen twee arbeidsovereenkomsten bij dezelfde werkgever, als die korter is dan vier kwartalen, gelijkgesteld met dezelfde tewerkstelling om het bedrag van de loonpremie te berekenen.<br>
 <br>
-§3. Als de VDAB de behoefte aan werkondersteunende maatregelen voor een periode van maximaal twee jaar vaststelt conform artikel 3, eerste lid, bedraagt de loonpremie 20% van het geplafonneerde referteloon gedurende het kwartaal van de beslissing en de daaropvolgende zeven kwartalen.<br>
+Als de behoefte aan werkondersteunende maatregelen voor een periode van maximaal twee jaar is vastgesteld conform artikel 3, eerste lid, bedraagt de loonpremie 20% van het geplafonneerde referteloon gedurende het kwartaal van de beslissing en de daaropvolgende zeven kwartalen.<br>
 <br>
-Als de VDAB de behoefte aan werkondersteunende maatregelen voor een periode van maximaal twee jaar vaststelt conform artikel 3, en de behoefte aan een verhoogde loonpremie vaststelt op basis van de lijsten, vermeld in artikel 2, derde lid, 1° en 2°, of het advies collectief maatwerk voor uiterst kwetsbare werknemers, bedraagt de loonpremie 45% van het geplafonneerde referteloon gedurende het kwartaal van de beslissing en de daaropvolgende zeven kwartalen.<br>
+§3. ....<br>
 &nbsp;
 
 ### ART 21.
@@ -542,11 +542,7 @@ In afwijking van het tweede lid is de begeleidingspremie voor de aanwerving of d
 1° 1930 euro per kwartaal tijdens de eerste periode, die gelijk is aan de periode van het kwartaal van de beslissing tot en met het vierde kwartaal na het kwartaal van de beslissing;<br>
 2° 1030 euro per kwartaal tijdens de tweede periode, die begint vanaf het vijfde kwartaal na het kwartaal van de beslissing tot en met het zevende kwartaal na het kwartaal van de beslissing.<br>
 <br>
-Voor de vaststelling van de periodes, vermeld in paragraaf 2 en 3, wordt de periode tussen twee arbeidsovereenkomsten bij dezelfde werkgever, als die korter is dan vier kwartalen, gelijkgesteld met dezelfde tewerkstelling om het bedrag van de begeleidingspremie te berekenen.<br>
-<br>
-Als de VDAB de behoefte aan werkondersteunende maatregelen conform artikel 3 voor een periode van maximaal twee jaar vaststelt, en daarbij een begeleidingsbehoefte vaststelt in combinatie met een verhoogde loonpremie op basis van de lijsten, vermeld in artikel 2, derde lid, 1° en 2°, of het advies collectief maatwerk voor uiterst kwetsbare werknemers, bedraagt de begeleidingspremie bij een tewerkstelling bij dezelfde werkgever:<br>
-1° 1930 euro per kwartaal tijdens de eerste periode, die gelijk is aan de periode van het kwartaal van de beslissing tot en met het vierde kwartaal na het kwartaal van de beslissing;<br>
-2° 1030 euro per kwartaal tijdens de tweede periode, die begint vanaf het vijfde kwartaal van de beslissing tot en met het zevende kwartaal na het kwartaal van de beslissing.
+Voor de vaststelling van de periodes, vermeld in paragraaf 2 en 3, wordt de periode tussen twee arbeidsovereenkomsten bij dezelfde werkgever, als die korter is dan vier kwartalen, gelijkgesteld met dezelfde tewerkstelling om het bedrag van de begeleidingspremie te berekenen.
 
 ## HOOFDSTUK 4. Werkondersteunende maatregelen voor zelfstandigen
 
@@ -690,9 +686,7 @@ Als de VDAB de behoefte aan werkondersteunende maatregelen voor een periode van 
 2° 50% van het gewaarborgde gemiddelde minimummaandinkomen tijdens de tweede periode, die gelijk is aan de periode van het vijfde tot en met het achtste kwartaal na het kwartaal van de beslissing;<br>
 3° 40% van het gewaarborgde gemiddelde minimummaandinkomen tijdens de derde periode, die gelijk is aan de periode van het negende kwartaal tot en met het negentiende kwartaal na het kwartaal van de beslissing.<br>
 <br>
-§ 3. Als de VDAB een behoefte aan werkondersteunende maatregelen van maximaal twee jaar vaststelt, bedraagt de ondersteuningspremie 20% van het gewaarborgde gemiddelde minimummaandinkomen. De ondersteuningspremie start op het ogenblik van het kwartaal van de beslissing en loopt tijdens de zeven daaropvolgende kwartalen.<br>
-<br>
-Als de VDAB de behoefte aan werkondersteunende maatregelen conform artikel 3 voor een periode van maximaal twee jaar vaststelt, en daarbij een begeleidingsbehoefte vaststelt in combinatie met een verhoogde loonpremie op basis van de lijsten, vermeld in artikel 2, derde lid, 1° en 2°, of het advies collectief maatwerk voor uiterst kwetsbare werknemers, bedraagt de ondersteuningspremie 45% van het gewaarborgd gemiddelde minimummaandinkomen. De ondersteuningspremie start op het ogenblik van het kwartaal van de beslissing en loopt tijdens de zeven daaropvolgende kwartalen.
+§ 3. Als de VDAB een behoefte aan werkondersteunende maatregelen van maximaal twee jaar vaststelt, bedraagt de ondersteuningspremie 20% van het gewaarborgde gemiddelde minimummaandinkomen. De ondersteuningspremie start op het ogenblik van het kwartaal van de beslissing en loopt tijdens de zeven daaropvolgende kwartalen.
 
 ### ART 65.
 
