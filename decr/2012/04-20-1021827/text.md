@@ -72,10 +72,7 @@ De Vlaamse Regering houdt bij de programmatie van de vergunningen, zoals vermeld
 
 ### ART. 4.
 
-Een organisator moet over een of meer van de volgende vergunningen van het agentschap&nbsp;beschikken om kinderopvang te kunnen organiseren :<br>
-1° vergunning voor gezinsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, voor maximaal acht tegelijk aanwezige kinderen;<br>
-2° vergunning voor groepsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, en er minimaal negen tegelijk aanwezige kinderen kunnen zijn;<br>
-3° vergunning voor opvang aan huis, als de organisator van kinderopvang uitsluitend kinderen in hun eigen gezinswoning opvangt.<br>
+Een organisator moet over een vergunning van het agentschap beschikken om kinderopvang te kunnen organiseren.<br>
 <br>
 Een natuurlijke persoon die kinderopvang organiseert in een kinderopvanglocatie in het tweetalige gebied Brussel-Hoofdstad, kan vrijwillig een vergunning aanvragen bij het agentschap.<br>
 <br>
@@ -85,17 +82,15 @@ Als de organisator voldoet aan de voorwaarden, vermeld in dit decreet en de uitv
 <br>
 De organisator meldt tijdig de tijdelijke of definitieve stopzetting van de kinderopvang of elke wijziging die gevolgen heeft voor de vergunning aan&nbsp;het agentschap en aan de gezinnen van de op te vangen kinderen.<br>
 <br>
-De Vlaamse Regering bepaalt de procedure voor de aanvraag, de toekenning en&nbsp;de wijziging van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen, evenals de procedure om een sanctie op te leggen als een stopzetting of een wijziging die gevolgen heeft voor de vergunning, niet of niet tijdig wordt gemeld.
+De Vlaamse Regering bepaalt de procedure voor de aanvraag, de toekenning en&nbsp;de wijziging van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen, evenals de procedure om een sanctie op te leggen als een stopzetting of een wijziging die gevolgen heeft voor de vergunning, niet of niet tijdig wordt gemeld.&nbsp;De Vlaamse Regering kan bij de nadere voorwaarden tot vergunning of subsidie onderscheid maken naargelang het aantal vergunde kinderopvangplaatsen.
 
 ### ART. 5.
 
-De vergunning voor groepsopvang en de vergunning voor gezinsopvang bevatten minstens de volgende gegevens :<br>
+De vergunning bevat minstens de volgende gegevens :<br>
 1° de organisator;<br>
 2° de vestigingsplaats;<br>
 3° het aantal vergunde kinderopvangplaatsen, namelijk het maximaal toegestane aantal tegelijk aanwezige kinderen in de kinderopvanglocatie;<br>
 4° de datum van de toekenning van de vergunning.<br>
-<br>
-De vergunning voor opvang aan huis bevat minstens de gegevens, vermeld in het eerste lid, 1° en 4°.<br>
 <br>
 De Vlaamse Regering kan bijkomende op te nemen gegevens bepalen.<br>
 <br>
@@ -163,7 +158,7 @@ De Vlaamse Regering bepaalt de nadere regels, minstens het model en de geldighei
 
 ### ART. 7.
 
-De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan een basissubsidie ontvangen van het agentschap.<br>
+De organisator met een vergunning kan een basissubsidie ontvangen van het agentschap.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de basissubsidie, waaronder minstens de voorwaarden voor de actieve taalkennis van het Nederlands voor de kinderbegeleiders [... zie arrest 97/2014 van het Grondwettelijk Hof van 30 juni 2014].
 
@@ -171,7 +166,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de basissubsidie, waaronder mi
 
 <strong>[Belangrijke opmerking</strong>: Gelet op <a href="https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnl.const-court.be%2Fpublic%2Fn%2F2025%2F2025-072n.pdf&amp;data=05%7C02%7Cfrank.steenput%40vlaanderen.be%7C5ef5bb1c6b074397017c08defec14ee6%7C0c0338a695614ee8b8d64e89cbd520a0%7C0%7C0%7C639228303365294726%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=NleMYj4Pdx5hXrniEiC9v3T8DYi%2FGGLG9lTCLobXd5A%3D&amp;reserved=0">het arrest van het Grondwettelijk Hof nr 72/2025 van 30 april 2025</a>, is de uitvoering van deze bepaling in de huidige versie (met inwerkingtredingdatum 1 april 2024) van artikel 22 van het Subsidiebesluit van 22 november 2013 onrechtmatig. De voorrangsregeling in artikel 8 van Kinderopvangdecreet waarnaar dit artikel 22 Subsidiebesluit verwijst, werd immers -met inbegrip van de delegatie aan de Vlaamse Regering om deze verder uit te werken- door dat arrest vernietigd. Huidig artikel 22 Subsidiebesluit heeft bijgevolg geen geldige rechtsgrond ].<br>
 <br>
-§1.&nbsp;De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 7, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvang waarvoor de gezinnen betalen op basis van het inkomen, en voor de realisatie van de toegang tot de kinderopvang voor gezinnen die beantwoorden aan kenmerken die bij voorrang betrekking hebben op :<br>
+§1.&nbsp;De organisator met een vergunning kan bovenop de subsidie, vermeld in artikel 7, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvang en van opvang van schoolgaande kinderen binnen de vergunde opvang waarvoor de gezinnen betalen op basis van het inkomen, en voor de realisatie van de toegang tot de kinderopvang voor gezinnen die beantwoorden aan kenmerken die bij voorrang betrekking hebben op :<br>
 1° de werksituatie, met minstens het kenmerk dat kinderopvang noodzakelijk is om toegang te hebben tot de arbeidsmarkt of om een beroepsgerichte opleiding in het kader hiervan te kunnen volgen, en verder :<br>
 2° de financiële situatie;<br>
 3° de gezinssamenstelling:<br>
@@ -185,15 +180,17 @@ Om van deze voorrangsregel gebruik te kunnen maken, toont de ouder op een van de
 1° door het voorleggen van minstens het Nederlandstalig diploma van secundair onderwijs of daarmee gelijkwaardig Nederlandstalig studiebewijs;<br>
 2° door het voorleggen van het Nederlandstalig studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs of daarmee gelijkwaardig Nederlandstalig studiebewijs;<br>
 3° door het voorleggen van het bewijs dat hij het Nederlands beheerst minstens op niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Talen. Dit gebeurt op basis van een van de volgende stukken :<br>
-&nbsp; a) een studiebewijs van door de Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs of een daarmee gelijkwaardig Nederlandstalig studiebewijs, dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
-&nbsp; b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
+a) een studiebewijs van door de Gemeenschap erkend, gefinancierd of gesubsidieerd onderwijs of een daarmee gelijkwaardig Nederlandstalig studiebewijs, dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
+b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat het vereiste niveau van kennis van het Nederlands aantoont;<br>
 4° door het voorleggen van het bewijs van voldoende kennis van het Nederlands na het afleggen van een taalexamen bij het selectiebureau van de federale overheid;<br>
 5° door het voorleggen van het bewijs dat hij negen jaar als regelmatige leerling onderwijs heeft gevolgd in het Nederlandstalige lager en secundair onderwijs. Dit gebeurt op basis van attesten daartoe uitgereikt door de betrokken schoolbesturen.<br>
 <br>
 § 3. De Vlaamse Regering bepaalt :<br>
-1° de nadere regels voor de prijs van de kinderopvang voor de gezinnen, met inbegrip van het principe dat de gezinnen betalen voor de door hen gereserveerde kinderopvangdagen;<br>
+1° de nadere regels voor de prijs van de kinderopvang&nbsp;of van de opvang van schoolgaande kinderen voor de gezinnen, met inbegrip van het principe dat de gezinnen betalen voor de door hen gereserveerde kinderopvangdagen;<br>
 2° de voorrangsregels voor de toegang, vermeld in § 1 en § 2, waarbij absolute voorrang is in het kader van de werksituatie, de minimaal te behalen resultaten op dat vlak en de wijze waarop die resultaten worden gemeten;<br>
 3° de nadere regels voor de kenmerken, vermeld in § 1, en de wijze waarop ze formeel worden vastgesteld.<br>
+<br>
+In dit artikel wordt verstaan onder opvang van schoolgaande kinderen: opvang van kinderen die naar de basisschool gaan en die gebruik maken van kinderopvang in een opvanglocatie die een vergunning heeft voor opvang van baby’s en peuters, en die hoofdzakelijk baby’s en peuters opvangt.<br>
 <br>
 De Vlaamse Regering kan de Openbare Centra voor Maatschappelijk Welzijn ermee belasten om in individuele gevallen te beslissen over een vermindering van de prijs van de kinderopvang voor de gezinnen. Voor gezinnen die een beroep doen op een organisator, gevestigd in het tweetalige gebied Brussel-Hoofdstad, die moet worden geacht wegens zijn organisatie uitsluitend te behoren tot de Vlaamse Gemeenschap, en voor wie het Openbaar Centrum voor Maatschappelijk Welzijn geen beslissing neemt, kan de Vlaamse Regering de organisator ermee belasten om in individuele gevallen te beslissen over een vermindering van de prijs van de kinderopvang voor de gezinnen. De Vlaamse Regering bepaalt de nadere regels, meer bepaald in welke gevallen het Openbaar Centrum voor Maatschappelijk Welzijn of de organisator, in geval een beroep gedaan wordt op een organisator, gevestigd in het tweetalige gebied Brussel-Hoofdstad, een beslissing kan nemen en waarover.<br>
 <br>
@@ -201,7 +198,7 @@ Het agentschap&nbsp;kan maatregelen nemen ten aanzien van de gezinnen die niet d
 
 ### ART. 9.
 
-De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 8, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen, waaronder de bestrijding van armoede in gezinnen, en voor de realisatie van toegang voor die gezinnen. Kwetsbare gezinnen zijn gezinnen die minstens beantwoorden aan verschillende van de hieronder vermelde basiscriteria :<br>
+De organisator met een vergunning kan bovenop de subsidie, vermeld in artikel 8, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen, waaronder de bestrijding van armoede in gezinnen, en voor de realisatie van toegang voor die gezinnen. Kwetsbare gezinnen zijn gezinnen die minstens beantwoorden aan verschillende van de hieronder vermelde basiscriteria :<br>
 1° de werksituatie;<br>
 2° de financiële situatie;<br>
 3° de gezinssamenstelling;<br>
@@ -212,7 +209,7 @@ De Vlaamse Regering bepaalt de opdrachten en de regels, die minstens inhouden we
 
 ### ART. 10.
 
-De organisator met een vergunning voor gezinsopvang of met een vergunning voor groepsopvang kan bovenop de subsidies, vermeld in artikel 7, 8 en 9, een subsidie ontvangen van&nbsp; het agentschap voor :<br>
+De organisator met een vergunning kan bovenop de subsidies, vermeld in artikel 7, 8 en 9, een subsidie ontvangen van&nbsp; het agentschap voor :<br>
 1° de organisatie van kinderopvang met flexibele openingstijden;<br>
 2° de organisatie van inclusieve kinderopvang voor kinderen met een specifieke zorgbehoefte;<br>
 3° de ondersteuning van specifieke opdrachten;<br>
@@ -221,8 +218,9 @@ De organisator met een vergunning voor gezinsopvang of met een vergunning voor g
 ### ART. 11.
 
 Het agentschap&nbsp;kan een subsidie toekennen aan :<br>
-1° &nbsp;&nbsp; &nbsp;de organisator van het lokaal loket kinderopvang, vermeld in artikel 13;<br>
-2° &nbsp;&nbsp; &nbsp;de organisaties aangesteld voor de ondersteuning van organisatoren, bij de realisatie van de voorwaarden, vermeld in artikel 6, §1.
+1° de organisator van het lokaal loket kinderopvang, vermeld in artikel 13;<br>
+2° de organisaties aangesteld voor de ondersteuning van organisatoren, bij de realisatie van de voorwaarden, vermeld in artikel 6, §1;<br>
+3° de organisaties of deskundigen die instaan voor de screening en adviesverlening, vermeld in artikel 19, vijfde lid, 3° en 4°.
 
 ### ART. 12.
 
@@ -247,11 +245,11 @@ Binnen een gemeente is er één lokaal loket kinderopvang met de volgende opdrac
 4° het lokaal bestuur of de lokale besturen, de organisatoren van kinderopvang en&nbsp;het agentschap informeren over de vragen naar kinderopvangplaatsen.<br>
 5° ondersteuning bieden aan de gezinnen, bij het aanvragen van het inkomenstarief als bedoeld in artikel 8;<br>
 <br>
-Het lokaal loket kinderopvang krijgt gestalte doordat binnen het Lokaal Overleg Kinderopvang, dit is de gemeentelijke adviesraad inzake kinderopvang, ter uitvoering van artikel 6, § 3, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, een initiatiefnemer wordt aangewezen of een structuur wordt gecreëerd om het lokaal loket kinderopvang te organiseren. Elke lokale actor die relevant is voor kinderopvang, kan de organisatie op zich nemen. Als er geen initiatiefnemer wordt aangewezen of als er geen structuur wordt gecreëerd en een operationeel werkend lokaal loket kinderopvang ontbreekt, neemt het lokaal bestuur de organisatie ervan op zich.<br>
+Het lokaal bestuur organiseert het lokaal loket kinderopvang. Als een lokaal bestuur deze opdracht niet opneemt, kan een andere actor de organisatie opne-men. In de steden en gemeenten waar een Huis van het Kind aanwezig is, kan het lokaal bestuur het lokaal loket kinderopvang organiseren in samenwerking met het Huis van het Kind. Als een andere actor dan het lokaal bestuur het lokaal loket kinderopvang organiseert, dan moet deze lid zijn van het samenwerkingsverband Huis van het Kind en het lokaal loket kinderopvang in die context organiseren.<br>
 <br>
 Het lokaal loket kinderopvang kan betrekking hebben op verschillende gemeenten binnen de grenzen van de zorgregio.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels.
+De Vlaamse regering bepaalt de nadere regels waaronder de scheiding van de rol van de organisator van kinderopvang en de rol van organisator van het lokaal loket kinderopvang waarbij de neutraliteit van de dienstverlening van het lokaal loket kinderopvang moet gegarandeerd worden.
 
 ## HOOFDSTUK 5. Vernieuwende projecten
 
@@ -318,9 +316,13 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 18.
 
-Als wordt vastgesteld dat een organisator de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, of het door of krachtens dit decreet geregelde toezicht verhindert, wordt de organisator schriftelijk aangemaand door het agentschap. Die aanmaning vermeldt een termijn waarbinnen de organisator moet voldoen aan de niet-nageleefde bepalingen&nbsp;of aan de vereisten betreffende het toezicht en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.<br>
+Als wordt vastgesteld dat een organisator de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, of het door of krachtens dit decreet geregelde toezicht verhindert, wordt de organisator schriftelijk aangemaand door het agentschap. Die aanmaning vermeldt een termijn waarbinnen de organisator moet voldoen aan de niet-nageleefde bepalingen&nbsp;of aan de vereisten betreffende het toezicht en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.&nbsp;Ook bij toepassing van het voorzorgsbeginsel wordt de organisator schriftelijk aangemaand door het agentschap.<br>
 <br>
-Bij dringende noodzakelijkheid kan die aanmaning achterwege gelaten worden en worden onmiddellijk bestuurlijke maatregelen genomen zoals vermeld in afdeling 3.<br>
+De aanmaning kan achterwege blijven en het agentschap kan onmiddellijk over-gaan tot het nemen van een bestuurlijke maatregel als vermeld in afdeling 3:<br>
+1°&nbsp;&nbsp; &nbsp;bij dringende noodzakelijkheid;<br>
+2°&nbsp;&nbsp; &nbsp;als een herstel van de inbreuk niet meer mogelijk is;<br>
+3°&nbsp;&nbsp; &nbsp;bij de niet-naleving van een beveiligende maatregel als vermeld in artikel 19;<br>
+4°&nbsp;&nbsp; &nbsp;bij de stopzetting van de subsidie in geval van gelijktijdige opheffing of wijziging van de vergunning.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels.
 
@@ -328,15 +330,38 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 19.
 
-Het agentschap kan de vergunning wijzigen, schorsen of opheffen als de organisator :<br>
-1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br>
-2° ...<br>
+Het agentschap kan de vergunning wijzigen, schorsen, opheffen of kan beveiligende maatregelen nemen als het agentschap vaststelt:<br>
+1°&nbsp;&nbsp; &nbsp;dat er een inbreuk is op de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan;<br>
+2°&nbsp;&nbsp; &nbsp;dat een maatregel moet worden genomen vanuit het voorzorgsbeginsel;<br>
+3°&nbsp;&nbsp; &nbsp;dat het door of krachtens dit decreet geregelde toezicht verhinderd wordt.<br>
 <br>
-De schorsing van de vergunning heeft van rechtswege de opschorting van de uitoefening van de kinderopvang tot gevolg vanaf de dag die volgt op de datum van de kennisgeving van de beslissing tot schorsing, tot het moment waarop de organisator weer voldoet aan de bepalingen, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
+De schorsing van de vergunning heeft van rechtswege de opschorting van de uitoefening van de kinderopvang tot gevolg vanaf de dag die vermeld is in de schorsingsbeslissing tot het moment dat het agentschap vaststelt dat de organisator opnieuw voldoet aan de vergunningsvoorwaarden en uiterlijk tot de datum die vermeld is in de schorsingsbeslissing. Als op de einddatum van de schorsing de aanleiding van de maatregel niet is weggewerkt, kan het agentschap de schorsing verlengen of een andere bestuurlijke maatregel opleggen.<br>
 <br>
 De opheffing van de vergunning heeft van rechtswege de sluiting van de kinderopvanglocatie tot gevolg.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevatten om een bezwaar in te dienen.
+De beveiligende maatregelen zijn tijdelijke bestuurlijke maatregelen waarbij de uitoefening van de kinderopvang niet volledig wordt opgeschort, tenzij het agentschap gelijktijdig met de beveiligende maatregel een schorsing oplegt. Als op de einddatum van de beveiligende maatregel de aanleiding van de beveiligende maatregel niet is weggewerkt, kan het agentschap de beveiligende maatregel verlengen of een andere bestuurlijke maatregel opleggen.<br>
+<br>
+Het agentschap kan een of meer beveiligende maatregelen nemen die kunnen bestaan uit:<br>
+1°&nbsp;&nbsp; &nbsp;de wijziging van de vergunning, al dan niet gekoppeld aan het verbod om bepaalde ruimtes in de kinderopvanglocatie in gebruik te nemen;<br>
+2°&nbsp;&nbsp; &nbsp;de beperking van de openingsdagen en -uren;<br>
+3°&nbsp;&nbsp; &nbsp;de screening en adviesverlening aan het agentschap van de risico’s met betrekking tot de persoon van de organisator of van een persoon die werkzaam is in de kinderopvanglocatie, door een organisatie of deskundige als vermeld in artikel 15/1, eerste lid;<br>
+4°&nbsp;&nbsp; &nbsp;de screening en adviesverlening aan het agentschap van de competenties van de organisator met betrekking tot het beleidsvoerend vermogen, door een organisatie als vermeld in artikel 11;<br>
+5°&nbsp;&nbsp; &nbsp;het opleggen van een verbod voor een organisator om een vergunning aan te vragen als het handhavingsdossier elementen bevat die wijzen op de ongeschiktheid om als organisator van een kinderopvanglocatie op te treden;<br>
+6°&nbsp;&nbsp; &nbsp;het opleggen van een verbod voor een persoon om als verantwoordelijke van een kinderopvanglocatie tewerkgesteld te worden als het handhavingsdossier elementen bevat die wijzen op de ongeschiktheid om dergelijke functie op te nemen;&nbsp;<br>
+7° &nbsp;&nbsp; &nbsp;het opleggen van een verbod om activiteiten op te nemen met de opgevangen kinderen ten aanzien van een of meer personen die werkzaam zijn in de kinderopvanglocatie;<br>
+8° &nbsp;&nbsp; &nbsp;het opleggen van een specifieke ondersteuning, al dan niet op de werkvloer, of van een specifieke opleiding;<br>
+9° &nbsp;&nbsp; &nbsp;het opleggen van een verbod om nieuwe contracten af te sluiten met gezinnen;<br>
+10°&nbsp; &nbsp;het verzoek aan de rechter om een voorlopige bewindvoerder aan te stellen met competenties in de organisatie van een zorgvoorziening die gemachtigd wordt om in naam en voor rekening van de organisator de nodige maatregelen te nemen om tegemoet te komen aan de vastgestelde inbreuken of risico’s wat betreft de kwaliteit en de duurzaamheid van de kinderopvang.<br>
+<br>
+In de beslissing, vermeld in het eerste lid, wordt transparant omschreven wat de bestuurlijke maatregel inhoudt, de motivering voor de keuze van de opgelegde bestuurlijke maatregel en welke voorwaarden in voorkomend geval vervuld moeten zijn en binnen welke termijn ze vervuld moeten zijn.<br>
+<br>
+Het agentschap kan in voorkomend geval de kosten voor bepaalde beveiligende maatregelen geheel of ten dele aanrekenen aan de organisator.<br>
+<br>
+Het agentschap kan in geval van een schorsing van een vergunning naar aanleiding van een ernstige gebeurtenis als vermeld in artikel 2, eerste lid, 19°, b), waaruit blijkt dat de gebeurtenis te wijten is aan een oorzaak die volledig buiten de organisator of zijn medewerkers ligt, een eenmalig forfaitair bedrag betalen voor geleden inkomensverlies.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels die minstens de mogelijkheid bevatten om bezwaar in te dienen tegen de bestuurlijke maatregelen, vermeld in het eerste lid, die de parameters bevatten voor het vastleggen van de kosten voor bepaalde beveiligende maatregelen en voor het vastleggen van het eenmalig forfaitair bedrag, vermeld in het zevende en achtste lid, en de aanstelling van een voorlopig bewindvoerder als vermeld in het vijfde lid, 10°.<br>
+<br>
+De Vlaamse regering bepaalt de maximale duurtijd van de eerste schorsingsbeslissing en van de beveiligende maatregelen.
 
 ### ART. 20.
 
