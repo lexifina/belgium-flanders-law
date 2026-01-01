@@ -34,7 +34,7 @@ Als de minderjarige reeds een gesloten oriëntatie als vermeld in artikel 26 van
 
 ### ART 2.
 
-§1. De begeleiding van de minderjarige tijdens een elektronische monitoring als vermeld in artikel 25/0, 34/0 of 37/1 §3, eerste lid 2°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht wordt uitgevoerd door de sociale dienst en is gericht op de volgende doelstellingen:<br>
+§1. De begeleiding van de minderjarige tijdens een elektronische monitoring als vermeld in artikel 25/0, 34/0 of 37/1 §3, eerste lid 2°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht wordt uitgevoerd door het Agentschap Justitie en Handhaving en is gericht op de volgende doelstellingen:<br>
 1° recidive vermijden;<br>
 2° aan herstel werken;<br>
 3° de minderjarige actief ondersteunen bij de re-integratie in de samenleving;<br>
@@ -54,20 +54,20 @@ De intensiteit van de begeleiding, vermeld in het eerste lid, krijgt vorm op maa
 
 ### ART 3.
 
-Het VCET staat in voor de volgende opdrachten bij de elektronische monitoring van minderjarigen, vermeld in artikel 25/0, 34/0 of 37/1 §3, eerste lid, 2°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht:<br>
+Het Agentschap Justitie en Handhaving staat in voor de volgende opdrachten bij de elektronische monitoring van minderjarigen, vermeld in artikel 25/0, 34/0 of 37/1 §3, eerste lid, 2°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht:<br>
 1° de aan- en afsluiting van de technologie van elektronische monitoring;&nbsp;<br>
 2° de technische ondersteuning en het onderhoud van het materiaal;<br>
 3° de permanente monitoring van de naleving van het individuele uurrooster.&nbsp;<br>
 <br>
 De technologie van elektronische monitoring voldoet aan de volgende voorwaarden:<br>
 1° de technologie maakt het mogelijk het individuele uurrooster en de individuele voorwaarden in de uitvoering van elektronische monitoring permanent te controleren via gecombineerde radiofrequentie en GPS-technologie;<br>
-2° de technologie maakt het mogelijk gevolg te geven aan de oproepingen van het VCET en de sociale dienst.
+2° de technologie maakt het mogelijk gevolg te geven aan de oproepingen van het Agentschap Justitie en Handhaving.
 
 ### ART 4.
 
-De sociale dienst bezorgt vanaf de aanvang van de elektronische monitoring, vermeld in artikel 25/0, 34/0 of 37/1 §3, eerste lid, 2°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, maandelijks een evolutieverslag aan de jeugdrechter of jeugdrechtbank over het verloop van die elektronische monitoring.<br>
+De begeleider elektronische monitoring bezorgt vanaf de aanvang van de elektronische monitoring, vermeld in artikel 25/0, 34/0 of 37/1 §3, eerste lid, 2°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, maandelijks een evolutieverslag aan de sociale dienst en de jeugdrechter of jeugdrechtbank over het verloop van die elektronische monitoring.<br>
 <br>
-Elke ernstige gebeurtenis of ernstige schending van het individuele uurrooster of van de individuele voorwaarden in de uitvoering van de elektronische monitoring wordt door de sociale dienst of het VCET onmiddellijk gemeld aan de jeugdrechter of jeugdrechtbank.<br>
+Elke ernstige gebeurtenis of ernstige schending van het individuele uurrooster of van de individuele voorwaarden in de uitvoering van de elektronische monitoring wordt door het Agentschap Justitie en Handhaving onmiddellijk gemeld aan de jeugdrechter of jeugdrechtbank.<br>
 <br>
 In het tweede lid wordt verstaan onder:&nbsp;<br>
 1° ernstige gebeurtenis: elke gebeurtenis die de psychische of fysieke integriteit van de minderjarige of van derden bedreigt of aantast;<br>
@@ -81,7 +81,7 @@ Deze pilootfase neemt een aanvang op de datum van inwerkingtreding van artikel 1
 <br>
 Het Agentschap Opgroeien en het Agentschap Justitie en Handhaving monitoren en evalueren deze pilootfase wat uiterlijk op 1 december 2025 resulteert in een rapport.<br>
 <br>
-Uiterlijk op 1 januari 2026 wordt de toepassing van elektronische monitoring uitgerold in het arrondissement Antwerpen, afdeling Turnhout en Mechelen en de gerechtelijke arrondissementen Limburg, West-Vlaanderen, Oost-Vlaanderen, Brussel en Leuven.<br>
+Uiterlijk op 1 januari 2027 wordt de toepassing van elektronische monitoring uitgerold in het arrondissement Antwerpen, afdeling Turnhout en Mechelen en de gerechtelijke arrondissementen Limburg, West-Vlaanderen, Oost-Vlaanderen, Brussel en Leuven.<br>
 <br>
 In het eerste lid wordt verstaan onder Agentschap Opgroeien: het Agentschap Opgroeien, opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien.
 
@@ -91,4 +91,4 @@ Artikel 5 treedt in werking op de dag van de inwerkingtreding van artikel 5 en 2
 
 ### ART 8.
 
-De Vlaamse minister, bevoegd voor opgroeien, en de Vlaamse minister, bevoegd voor het elektronisch toezicht, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+De Vlaamse minister, bevoegd voor justitie en handhaving, en de Vlaamse minister, bevoegd voor &nbsp;opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
