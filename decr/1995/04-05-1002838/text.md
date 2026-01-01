@@ -2019,7 +2019,7 @@ e) het verwerken van de hierboven vermelde gegevens en informatie met het oog op
 
 ### ART. 10.2.5.
 
-§ 1. De Vlaamse Milieumaatschappij kan beschikken over de volgende ontvangsten:<br>
+§1. De Vlaamse Milieumaatschappij kan beschikken over de volgende ontvangsten:<br>
 1° dotaties;<br>
 2° leningen;<br>
 3° fiscale heffingen voor zover ze bij decreet toegewezen zijn aan de Vlaamse Milieumaatschappij;<br>
@@ -2040,21 +2040,47 @@ d) de opbrengsten van concessies verhuur en van vervreemdingen van eigendommen, 
 e) het aandeel van mede-opdrachtgevende overheden in projecten inzake waterhuishouding waar de Vlaamse Milieumaatschappij conform de regelgeving overheidsopdrachten in het kader van een samengevoegde opdracht optreedt als aanbestedende overheid en het aandeel van de mede-opdrachtgevende overheden voorfinanciert;<br>
 14° de bijdragen van de natuurlijke of rechtspersonen naar privaat of publiek recht die door hun activiteiten de schade bedoeld bij het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer kunnen veroorzaken of verergeren en ten aanvullende titel door leningen op korte termijn waaraan de Vlaamse Regering de gewestwaarborg kan hechten. De Vlaamse Regering bepaalt het aandeel van elk soort inkomsten en de criteria om te bepalen wie bijdrageplichtig is, het bedrag en de modaliteiten van de inning.<br>
 <br>
-§ 2. Tenzij anders is bepaald in een decreet worden de ontvangsten, bedoeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
+§2. Tenzij anders is bepaald in een decreet worden de ontvangsten, bedoeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
 <br>
 In afwijking van het eerste lid zijn de in paragraaf 1, 13° en 14°, genoemde ontvangsten te beschouwen als toegewezen ontvangsten. Zij mogen aangewend worden in het kader van het beleid inzake de waterhuishouding, en voor de Polders en Wateringen, met uitzondering evenwel van de loon- en werkingskosten van de Vlaamse Milieumaatschappij.<br>
 <br>
-§ 3. De Vlaamse Milieumaatschappij kan schenkingen of legaten aanvaarden. Het hoofd van het agentschap beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding.<br>
+§3. De Vlaamse Milieumaatschappij kan schenkingen of legaten aanvaarden. Het hoofd van het agentschap beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding.<br>
 <br>
-§ 4. De Vlaamse Milieumaatschappij kan de kennis die ze heeft opgedaan bij de uitvoering van haar missie en taken te gelde maken in het binnen- en buitenland.<br>
+§4. De Vlaamse Milieumaatschappij kan de kennis die ze heeft opgedaan bij de uitvoering van haar missie en taken te gelde maken in het binnen- en buitenland.<br>
 <br>
-§ 5. 1° Bij de Vlaamse Milieumaatschappij wordt een Fonds voor de Waterhuishouding opgericht;<br>
+§5. 1° Bij de Vlaamse Milieumaatschappij wordt een Fonds voor de Waterhuishouding opgericht;<br>
 2° het Fonds voor de Waterhuishouding wordt gestijfd door de in § 1, 13° en 14°, vermelde ontvangsten;<br>
 3° het per 12 mei 2006 beschikbaar saldo en de op die datum nog openstaande vorderingen, verbintenissen en verplichtingen van het Fonds voor de Waterhuishouding opgericht bij decreet van 22 november 1995, artikel 17, worden overgedragen naar het Fonds voor de Waterhuishouding, opgericht bij dit decreet;<br>
 3° /1 het per 12 mei 2006 beschikbaar saldo en de op die datum nog openstaande vorderingen, verbintenissen en verplichtingen van het Schadefonds opgericht bij decreet van 24 januari 1984 en gewijzigd bij decreet van 12 december 1990, worden overgedragen naar het Fonds voor de Waterhuishouding, opgericht bij dit decreet;<br>
 4° de middelen van het Fonds voor de Waterhuishouding kunnen aangewend worden voor al wat dienen kan in het raam van het beleid inzake waterhuishouding, en voor de polders en de wateringen, met uitzondering evenwel van de loon- en werkingskosten van de Vlaamse Milieumaatschappij.<br>
 <br>
-§ 6. ...
+§6. Aan de Vlaamse Milieumaatschappij wordt een retributie, vermeld in paragraaf 1, 4°, betaald om metingen, simulaties en analyses uit te voeren voor schrootbedrijven met een GPBV-shredderinstallatie (Geïntegreerde Preventie en Bestrijding van Verontreiniging).<br>
+<br>
+Een dergelijke retributie wordt betaald als de metingen, simulaties en analyses die de Vlaamse Millieumaatschappij uitvoert, kaderen binnen:<br>
+1° verplichtingen die zijn opgelegd aan de schrootbedrijven met een GPBV-shredderinstallatie met toepassing van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+2° verplichtingen die zijn opgelegd aan de schrootbedrijven met een GPBV-shredderinstallatie in de omgevingsvergunning die aan het schrootbedrijf is verleend om een ingedeelde inrichting of activiteit te exploiteren.<br>
+<br>
+De retributie, vermeld in het eerste lid, bij een shredderinstallatie met één meetlocatie bedraagt 15.480,39 euro per jaar, exclusief btw, als eenheidsprijs.<br>
+<br>
+Het bedrag, vermeld in het derde lid, dekt al de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de monstername, inclusief controlebezoeken op één meetlocatie;<br>
+2°&nbsp;&nbsp; &nbsp;de analysekosten voor één meetlocatie, met inbegrip van de gedeelde kosten voor de analyse van veldblanco’s en duplo’s;<br>
+3°&nbsp;&nbsp; &nbsp;de bijdrage aan de Vlaamse Milieumaatschappij voor administratieve verwerking, rapportering en bijbehorende taken.<br>
+<br>
+De analyse en rapportering van de meetdata gebeuren op kwartaalbasis. Als een shredderinstallatie gedurende drie opeenvolgende kalenderjaren onder de toepasselijke jaardrempel blijft, volstaat het om nadien een controlecampagne uit te voeren van één kwartaal.<br>
+<br>
+Als een shredderinstallatie beschikt over twee meetlocaties, wordt op de jaarlijkse eenheidsprijs, vermeld in het derde lid, een supplement toegepast van 4035,00 euro per jaar, of 1008,75 euro per kwartaal, exclusief btw.<br>
+<br>
+Eventuele prijsstijgingen in de kostprijs van het externe laboratorium worden doorgerekend aan de bedrijven, vermeld in het eerste lid. Vóór de prijsstijgingen worden toegepast, brengt de Vlaamse Milieumaatschappij de bedrijven, vermeld in het eerste lid, op de hoogte van die prijsstijgingen.<br>
+<br>
+Het bedrijf dat een beroep doet op de Vlaamse Milieumaatschappij om de metingen, simulaties en analyses te laten uitvoeren, stort de verschuldigde retributie nadat het de factuur heeft gekregen, op het rekeningnummer van de Vlaamse Milieumaatschappij met vermelding van de naam van het bedrijf en het inkoop-nummer van de factuur.<br>
+&nbsp;<br>
+Het bedrag van de retributie wordt jaarlijks aangepast op basis van de evolutie van de gezondheidsindex volgens de volgende formulering:<br>
+P<sub>h</sub> = P<sub>a</sub> * I<sub>h</sub> / I<sub>a</sub><br>
+waarbij&nbsp;&nbsp; &nbsp;P<sub>h</sub> = aanvankelijke prijs<br>
+P<sub>a</sub> = gezondheidsindex op 1 januari 2024<br>
+I<sub>h</sub> = gezondheidsindex op 1 januari 2024<br>
+I<sub>a</sub> = gezondheidsindex op 1 januari van facturatie.
 
 ## [HOOFDSTUK III DE OPENBARE VLAAMSE AFVALSTOFFENMAATSCHAPPIJ
 
@@ -2808,7 +2834,7 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 19° het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen, met behoud van de toepassing van artikel 61, § 2, van dat decreet;<br>
 19°bis het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
 19° ter : het decreet van 25 april 2014 betreffende de omgevingsvergunning voor zover het projecten betreft bedoeld in artikel 5, 1°, c, en 2°, b.<br>
-20° ...;<br>
+20° het Energiedecreet van 8 mei 2009, wat artikel 4.1.11/8 betreft;<br>
 21° het decreet van 8 februari 2013 houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest;<br>
 22° het decreet van 28 maart 2014 betreffende de preventie, surveillance en bestrijding van ziekten bij in het wild levende dieren;<br>
 23° het decreet van 21 december 2018 houdende de luchtkwaliteit in het binnenmilieu van voertuigen;<br>
@@ -3057,7 +3083,13 @@ Toezichthouders hebben een legitimatiebewijs bij zich en tonen dat desgevraagd o
 <br>
 De Vlaamse Regering bepaalt wie het legitimatiebewijs verleent alsook het model en de inhoud ervan.<br>
 <br>
-§ 3. De Vlaamse Regering kan nadere regels bepalen omtrent de wijze waarop de toezichthouders hun toezichtsopdrachten, vermeld in § 2, uitoefenen.
+§ 3. De Vlaamse Regering kan nadere regels bepalen omtrent de wijze waarop de toezichthouders hun toezichtsopdrachten, vermeld in § 2, uitoefenen.<br>
+<br>
+§4. In afwijking van artikel 16.3.1, §1, 1°, en van paragraaf 2, eerste lid, van dit artikel zijn de personeelsleden die de Vlaamse Regering of haar gemachtigde aanwijst, bevoegd voor de handhaving van de milieuvoorschriften die zijn opgenomen in of uitgevaardigd krachtens de regelgeving, vermeld in artikel 16.1.1, eerste lid, 5°/2 en 20°.<br>
+<br>
+§5. In afwijking van artikel 16.1.2, 1°, f), wordt het niet voldoen aan de milieuvoorschriften, vermeld in artikel 16.1.1, eerste lid, 5°/2 en 20°, gelijkge-steld met een milieu-inbreuk.<br>
+<br>
+De Vlaamse Regering wordt ertoe gemachtigd om de buitenwerkingtreding van het eerste lid te regelen.
 
 ## [AFDELING III TOEZICHTRECHTEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
