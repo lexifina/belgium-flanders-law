@@ -30,11 +30,15 @@ Een   schoolbestuur dient aanvragen voor een nieuwe programmatie op elektronisch
 
 ### ART. 5.
 
-De aanvragen worden door het agentschap voor advies bezorgd   aan de Vlaamse Onderwijsraad en aan de Onderwijsinspectie van het Vlaams   Ministerie van Onderwijs en Vorming.
+De aanvragen worden door het agentschap voor advies bezorgd aan de Vlaamse Onderwijsraad.
 
 ### ART. 6.
 
-<P>De Vlaamse Onderwijsraad, de Onderwijsinspectie en het   agentschap brengen binnen een redelijke termijn en uiterlijk twee maanden na de   ontvangst van de aanvragen, vakantieperioden niet inbegrepen, een advies uit,   dat ze bezorgen aan de Vlaamse minister bevoegd voor onderwijs en aan het   Departement Onderwijs en Vorming.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Onderwijsraad baseert zijn advies op het onderzoek van ten minste de   beoordelingscriteria, als vermeld in artikel 9, 1° tot en met   8°.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Onderwijsinspectie baseert zijn advies op het onderzoek van ten minste de   beoordelingscriteria, als vermeld in artikel 9, 3° tot en met 6° en   8°.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap baseert zijn advies op het onderzoek van ten minste de   beoordelingscriteria, als vermeld in artikel 9, 1°, 2° en 7° tot en met   8°.</P>
+<p>De Vlaamse Onderwijsraad en het agentschap brengen binnen een redelijke termijn en uiterlijk twee maanden na de ontvangst van de aanvragen, vakantieperioden niet inbegrepen, een advies uit, dat ze bezorgen aan de Vlaamse minister bevoegd voor onderwijs en aan het Departement Onderwijs en Vorming.</p>
+
+<p>De Vlaamse Onderwijsraad baseert zijn advies op het onderzoek van ten minste de beoordelingscriteria, als vermeld in artikel 9, 1° tot en met 8°.</p>
+
+<p>Het agentschap baseert zijn advies op het onderzoek van ten minste de beoordelingscriteria, als vermeld in artikel 9, 1° tot en met 8°.</p>
 
 ### ART. 7.
 
