@@ -46,6 +46,14 @@ De Vlaamse minister, bevoegd voor Brussel, bepaalt de lijst met Vlaams-Brusselse
 <br>
 Deze lijst wordt meegedeeld aan de Vlaamse Regering binnen de 60 kalenderdagen na het wijzigen van de lijst. De lijst wordt ook minstens eenmaal meegedeeld aan de Vlaamse Regering in het jaar dat volgt op het jaar van de algehele vernieuwing van het Vlaams Parlement.
 
+### ART 3.
+
+De Vlaamse minister, bevoegd voor Brussel, sluit met elke Vlaams-Brusselse partnerorganisatie een beheersovereenkomst af conform artikel 18 van het Programmadecreet van 16 december 2022.<br>
+<br>
+De Vlaams-Brusselse partnerorganisaties stellen voor de opmaak van de beheersovereenkomst een meerjarenplan op. Het meerjarenplan wordt, na goedkeuring door de raad van bestuur van de Vlaams-Brusselse partnerorganisaties, ter goedkeuring voorgelegd aan de Vlaamse minister, bevoegd voor Brussel.<br>
+<br>
+In afwijking van het eerste lid kan een opgestelde beheersovereenkomst pas afgesloten worden na goedkeuring door de Vlaamse Regering, als het jaarlijkse richtbedrag voor de werkingssubsidie in de beheersovereenkomst meer bedraagt dan vijf miljoen euro.
+
 ### ART 4.
 
 In dit artikel wordt verstaan onder beleidsveld Brussel: het inhoudelijk structuurelement Brussel waaronder alle begrotingskredieten in het kader van het uitvoeren van een samenhangend beleid inzake de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad.<br>

@@ -2,16 +2,16 @@
   "codex_id": 1038212,
   "title": "Besluit van de Vlaamse Regering van 2023-03-10 tot bepaling van de regels voor de toekenning van werkingssubsidies aan Vlaams-Brusselse partnerorganisaties in het kader van het Brusselbeleid ter uitvoering van het Programmadecreet van 16 december 2022 bij de begroting 2023",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038212/VolledigDocument?datum=2023-04-10",
-  "source_sha256": "b2a64233da8251ada1bbb948f381bce40d2d4b0d86e199b9d46eeee0eefabbdd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038212/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "85c515df50bf5e183e675b3bcc12edb723d41195ebb43c51eb9c7d93bda094fe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038212&param=informatie",
-  "as_of": "2023-04-10",
+  "as_of": "2026-01-01",
   "made": "2023-03-10",
   "gazette": "2023-03-31",
   "numac": 2023041416,
   "document_start": "2023-04-10",
   "document_end": null,
-  "in_force": "2023-04-10",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2023-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
