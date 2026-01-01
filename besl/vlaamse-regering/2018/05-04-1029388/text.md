@@ -45,12 +45,12 @@ Op basis van de rubrieken, opgenomen in bijlage 1, voor de eerste graad, en in b
 De instanties, vermeld in artikel 1, dienen een curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarop het van toepassing wordt. Deze datum geldt als vervaltermijn.<br>
 <br>
 Of het curriculumdossier beantwoordt aan artikel 147/1, § 1 en 2, van de Codex Secundair Onderwijs van 17 december 2010, wordt getoetst door:<br>
-1° de bevoegde dienst uit het beleidsdomein onderwijs en de onderwijsinspectie, elk afzonderlijk, als het structuuronderdeel niet als duaal structuuronderdeel kan worden georganiseerd;<br>
-2° de bevoegde dienst uit het beleidsdomein onderwijs, de bevoegde dienst uit het beleidsdomein werk en de onderwijsinspectie, elk afzonderlijk, als het structuuronderdeel alleszins als duaal structuuronderdeel kan worden georganiseerd.<br>
+1° de bevoegde dienst uit het beleidsdomein onderwijs, als het structuuronderdeel niet als duaal structuuronderdeel kan worden georganiseerd;<br>
+2° de bevoegde dienst uit het beleidsdomein onderwijs en de bevoegde dienst uit het beleidsdomein werk, elk afzonderlijk, als het structuuronderdeel alleszins als duaal structuuronderdeel kan worden georganiseerd.<br>
 <br>
 De Vlaamse Regering beslist uiterlijk op 31 oktober na indiening over de goedkeuring van een curriculumdossier.&nbsp;<br>
 <br>
-Als de Vlaamse Regering het curriculumdossier niet goedkeurt, herwerken de instanties het curriculumdossier. Ze houden daarbij rekening met de adviezen van de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie. Uiterlijk op 31 december na de beslissing van de Vlaamse Regering tot niet-goedkeuring, dienen de instanties het herwerkte curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs. Deze datum geldt als vervaltermijn.<br>
+Als de Vlaamse Regering het curriculumdossier niet goedkeurt, herwerken de instanties het curriculumdossier. Ze houden daarbij rekening met de adviezen van de bevoegde dienst of diensten, naargelang van het geval. Uiterlijk op 31 december na de beslissing van de Vlaamse Regering tot niet-goedkeuring, dienen de instanties het herwerkte curriculumdossier ter goedkeuring in bij de bevoegde dienst uit het beleidsdomein onderwijs. Deze datum geldt als vervaltermijn.<br>
 <br>
 De Vlaamse Regering beslist uiterlijk op 31 januari na die indiening.
 
@@ -58,7 +58,7 @@ De Vlaamse Regering beslist uiterlijk op 31 januari na die indiening.
 
 Als de instanties, vermeld in artikel 1, geen curriculumdossier of geen herwerkt curriculumdossier hebben ingediend binnen de vastgelegde termijn of als de Vlaamse Regering het herwerkte curriculumdossier niet goedkeurt, dan wordt het curriculumdossier samengesteld door de bevoegde dienst of diensten, naargelang van het geval. De bevoegde dienst of diensten, naargelang van het geval, houden waar mogelijk rekening met de standpunten van de voormelde instanties.<br>
 <br>
-De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier, na advies van de onderwijsinspectie, uiterlijk op 31 maart van het schooljaar dat voorafgaat aan het schooljaar waarop het curriculumdossier van toepassing wordt
+De Vlaamse Regering beslist over de goedkeuring van het curriculumdossier uiterlijk op 31 maart van het schooljaar dat voorafgaat aan het schooljaar waarop het curriculumdossier van toepassing wordt
 
 ### ART 3/1.
 
@@ -77,7 +77,7 @@ Behoudens de vervangende eindtermen, uitbreidingsdoelen Nederlands of specifieke
 
 ### ART 5.
 
-Bij de uitoefening van hun opdrachten met betrekking tot een curriculumdossier, vermeld in artikel 2, § 1, passen de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie de volgende criteria toe:<br>
+Bij de uitoefening van hun opdrachten met betrekking tot een curriculumdossier, vermeld in artikel 2, § 1, passen de bevoegde dienst of diensten, naargelang van het geval, de volgende criteria toe:<br>
 1° het curriculumdossier is in overeenstemming met de vigerende decreet- en regelgeving met betrekking tot de onderwijsdoelen; in voorkomend geval worden de eindtermen, de uitbreidingsdoelen Nederlands en de specifieke eindtermen letterlijk opgenomen;<br>
 2° het curriculumdossier is in overeenstemming met de vigerende decreet- en regelgeving met betrekking tot de kwalificatiestructuur;<br>
 3° het curriculumdossier bevat geen doelen die tegenstrijdig zijn met doelen die het Vlaams Parlement heeft vastgelegd;<br>
@@ -85,7 +85,7 @@ Bij de uitoefening van hun opdrachten met betrekking tot een curriculumdossier, 
 5° de andere doelen dan de doelen die het Vlaams Parlement heeft vastgelegd, die in het curriculumdossier zijn opgenomen, zijn evalueerbaar, coherent en haalbaar;<br>
 6° de andere doelen dan de doelen die het Vlaams Parlement heeft vastgelegd, die in het curriculumdossier zijn opgenomen, houden rekening met de beschikbare onderwijstijd, de materiële voorzieningen en de organisatorische mogelijkheden van de scholen.<br>
 <br>
-Bij de uitoefening van hun opdracht met betrekking tot een curriculumdossier, vermeld in artikel 3, passen de bevoegde dienst of diensten, naargelang van het geval, en de onderwijsinspectie de criteria, vermeld in het eerste lid, 1° tot en met 6°, toe.<br>
+Bij de uitoefening van hun opdracht met betrekking tot een curriculumdossier, vermeld in artikel 3, passen de bevoegde dienst of diensten, naargelang van het geval, de criteria, vermeld in het eerste lid, 1° tot en met 6°, toe.<br>
 &nbsp;
 
 ### ART 6.
