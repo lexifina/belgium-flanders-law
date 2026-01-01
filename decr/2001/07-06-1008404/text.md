@@ -204,30 +204,38 @@ De indirecte schuld, zoals gedefinieerd in artikel 2, 2°, van het decreet van 1
 
 ### ART. 33.
 
-§ 1. Bij elk op 1 januari 2007 bestaand Vlaams ministerie wordt er een fonds, in de zin van artikel 15, § 2 en § 3, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, opgericht voor de aanwending van de terugbetaling van salarissen van personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties.<br>
+§1. Bij elk op 1 januari 2007 bestaand Vlaams ministerie wordt er een fonds, in de zin van artikel 15, § 2 en § 3, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, opgericht voor de aanwending van de terugbetaling van salarissen van personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties.<br>
 <br>
-§ 2. Aan ieder fonds worden toegewezen :<br>
+§2. Aan ieder fonds worden toegewezen :<br>
 - alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten met betrekking tot personeelsleden van het betrokken Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties;<br>
 - een gedeelte van het vastleggings- en ordonnanceringssaldo op 31 december 2006 dat bij besluit van de Vlaamse Regering zal worden vastgesteld.<br>
 <br>
-§ 3. De middelen van ieder fonds dienen aangewend te worden voor de betaling van wedden en weddentoelagen van de ter vervanging aangeworven personeelsleden of van de personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of organisaties.<br>
+§3. De middelen van ieder fonds dienen aangewend te worden voor de betaling van wedden en weddentoelagen van de ter vervanging aangeworven personeelsleden of van de personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of organisaties.<br>
 <br>
-§ 4. Aan het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin worden toegewezen :<br>
+§4. Aan het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin worden toegewezen :<br>
 - alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten met betrekking tot personeelsleden welke op basis van het decreet van 15 december 2006 betreffende de aanstelling van bedienaars der erediensten en moreel consulenten bij sommige rechtspersonen worden aangesteld bij instellingen van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
 <br>
-§ 5. De middelen van het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin, verkregen op basis van § 4, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de personeelsleden welke op basis van het decreet van 15 december 2006 betreffende de aanstelling van bedienaars der erediensten en moreel consulenten bij sommige rechtspersonen worden aangesteld bij instellingen van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
+§5. De middelen van het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin, verkregen op basis van § 4, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de personeelsleden welke op basis van het decreet van 15 december 2006 betreffende de aanstelling van bedienaars der erediensten en moreel consulenten bij sommige rechtspersonen worden aangesteld bij instellingen van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
 <br>
-§ 6. De middelen van het fonds van het Vlaams ministerie van Bestuurszaken, verkregen op basis van § 2, kunnen eveneens aangewend worden voor het ontwikkelen van Vlaamse overheidsgerelateerde ICT-projecten.<br>
+§6. De middelen van het fonds van het Vlaams ministerie van Bestuurszaken, verkregen op basis van § 2, kunnen eveneens aangewend worden voor het ontwikkelen van Vlaamse overheidsgerelateerde ICT-projecten.<br>
 <br>
-§ 7. Aan het fonds bij het Vlaams ministerie Kanselarij en Bestuur worden alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten toegewezen met betrekking tot personeelsleden die naar het agentschap Facilitair Bedrijf worden overgedragen zonder kredietoverdracht of hun vervangers.<br>
+§7. Aan het fonds bij het Vlaams ministerie Kanselarij en Bestuur worden alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten toegewezen met betrekking tot personeelsleden die naar het agentschap Facilitair Bedrijf worden overgedragen zonder kredietoverdracht of hun vervangers.<br>
 <br>
-§ 8. De middelen van het fonds van het Vlaams ministerie Kanselarij en Bestuur, verkregen op basis van paragraaf 7, dienen aangewend te worden voor de betaling van wedden, weddentoelagen en werkingskosten van personeelsleden die naar het agentschap Facilitair Bedrijf worden overgedragen zonder kredietoverdracht of hun vervangers.<br>
+§8. De middelen van het fonds van het Vlaams ministerie Kanselarij en Bestuur, verkregen op basis van paragraaf 7, dienen aangewend te worden voor de betaling van wedden, weddentoelagen en werkingskosten van personeelsleden die naar het agentschap Facilitair Bedrijf worden overgedragen zonder kredietoverdracht of hun vervangers.<br>
 <br>
-§ 9. Aan het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media worden alle inkomsten toegewezen die verkregen worden uit de kandidaatstellingen voor landelijke radio's, netwerkradio's en lokale radio's die bij het Departement Cultuur, Jeugd en Media worden ingediend.<br>
+§9. Aan het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media worden alle inkomsten toegewezen die verkregen worden uit de kandidaatstellingen voor landelijke radio's, netwerkradio's en lokale radio's die bij het Departement Cultuur, Jeugd en Media worden ingediend.<br>
 <br>
 De middelen van het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media, verkregen op basis van het eerste lid, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de tijdelijke personeelsleden die worden aangeworven voor het behandelen van de aanvragen inzake landelijke radio's, netwerkradio's en lokale radio's alsook voor de werkingsuitgaven naar aanleiding van de behandeling van de genoemde aanvragen.<br>
 <br>
-§ 10. De middelen van het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin, verkregen op basis van paragraaf 2, kunnen eveneens aangewend worden voor de betaling van facturen voor het tijdelijk inhuren van personeel via uitzendarbeid of externe ICT-profielen ter vervanging van de personeelsleden binnen WVG die ten laste genomen worden door andere organisaties of overheden.
+§10. De middelen van het fonds van het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin, verkregen op basis van paragraaf 2, kunnen eveneens aangewend worden voor de betaling van facturen voor het tijdelijk inhuren van personeel via uitzendarbeid of externe ICT-profielen ter vervanging van de personeelsleden binnen WVG die ten laste genomen worden door andere organisaties of overheden.<br>
+<br>
+§11. Aan het fonds bij het Vlaams Ministerie van Kanselarij, Bestuur, Buitenlandse Zaken en Justitie worden alle ontvangsten uit de betalende diensten inzake overheidsopdrachten van het agentschap Facilitair Bedrijf toegewezen.<br>
+<br>
+§12. De middelen van het fonds van het Vlaams Ministerie van Kanselarij, Bestuur, Buitenlandse Zaken en Justitie, verkregen op basis van paragraaf 11, worden aangewend voor de betaling van wedden, weddetoelagen en werkingskosten die gemaakt worden in het kader van de betalende diensten inzake overheidsopdrachten van het agentschap Facilitair Bedrijf.<br>
+<br>
+§13. Aan het fonds bij het Vlaams Ministerie van Omgeving worden alle terugvorderingen van wedden en de vergoedingen of kosten die ermee samenhangen, toegewezen die betrekking hebben op personeelsleden van het Ministerie van Omgeving en die worden ingezet door andere organisaties voor de uitvoering van specifieke taken in het kader van opdrachten van de Vlaamse Regering.<br>
+<br>
+De middelen van het fonds van het Vlaamse Ministerie van Omgeving, die worden verkregen conform het eerste lid, worden gebruikt om de wedden, weddentoelagen en werkingskosten van personeelsleden te betalen die worden ingezet door andere organisaties voor de uitvoering van specifieke taken in het kader van opdrachten van de Vlaamse Regering, of voor de betaling van wedden, weddentoelagen en werkingskosten van hun vervangers.
 
 ## HOOFDSTUK XVII INVOERING VAN DE EURO VOOR DE VLAAMSE GEWESTELIJKE BELASTINGEN EN FINANCIËN
 
