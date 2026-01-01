@@ -1599,4 +1599,6 @@ In afwijking van artikel 196, treedt titel 5 in werking op de datum waarop het s
 
 ### ART 198.
 
-In afwijking van artikel 196, treden artikel 42, 166 en 167 in werking op 1 januari 2026.
+In afwijking van artikel 196, treden artikel 42, 166 en 167 in werking op 1 januari 2028.<br>
+<br>
+De Vlaamse Regering kan een datum van inwerkingtreding bepalen die voorafgaat aan de datum, vermeld in het eerste lid.
