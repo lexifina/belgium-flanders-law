@@ -221,6 +221,10 @@ De ambtenaar van de burgerlijke stand, of diens gemachtigde beambten, van de gem
 
 ## Onderafdeling 1. Retributie
 
+### ART 21.
+
+Een uitvaartondernemer betaalt een platformretributie als vermeld in artikel 42, om de toepassing inzake de administratieve afhandeling van de uitvaart, vermeld in deze afdeling, te gebruiken.
+
 ## Onderafdeling 2. De deeltoepassing voor het uittreksel of afschrift van de akte van overlijden
 
 ### ART 22.
@@ -401,6 +405,26 @@ De maximale bewaartermijn voor aanvullende toepassingen, deeltoepassingen of afg
 3° de mate waarin kan worden voorzien in de maatregelen die de identificatie van de betrokkene belemmeren.
 
 ## Titel 6. Retributie
+
+### ART 42.
+
+§1. De exploitatie van het platform wordt gefinancierd door een platformretributie voor het ontsluiten van een toepassing, een deeltoepassing of een afgeleide deeltoepassing.<br>
+<br>
+§2. De platformretributie bedraagt maximaal 25 euro, exclusief btw. De Vlaamse Regering kan het bedrag van de platformretributie en nadere voorwaarden en regels voor de platformretributie vastleggen. Als de Vlaamse Regering geen bedrag van de platformretributie vastlegt, bedraagt de platformretributie 25 euro.<br>
+<br>
+§3. De platformretributie is gekoppeld aan de schommelingen van het indexcijfer en wordt berekend aan de hand van de volgende formule:<br>
+geïndexeerd tarief = platformretributie x nieuw indexcijfer/basisindexcijfer,<br>
+waarbij:<br>
+1° nieuwe indexcijfer: het indexcijfer van de consumptieprijzen van de maand voorafgaand aan de maand van de indexatie waarop de platformretributie slaat;<br>
+2° basisindexcijfer: het indexcijfer van de consumptieprijzen van de maand voorafgaand aan de maand waarin de platformretributie is vastgelegd overeenkomstig paragraaf 2.<br>
+<br>
+De indexering, vermeld in het eerste lid, gebeurt op 1 januari van elk jaar.<br>
+<br>
+De platformretributie is de retributie zoals vastgelegd overeenkomstig paragraaf 2.<br>
+<br>
+De platformretributie na indexering wordt afgerond naar de hogere tien cent.<br>
+<br>
+§4. Met behoud van de toepassing van paragraaf 3 is het Vlaams Datanutsbedrijf bevoegd om de platformretributie aan te rekenen en te innen.
 
 ## Titel 7. Wijzigingsbepalingen
 
