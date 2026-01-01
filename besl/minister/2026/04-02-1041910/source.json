@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041910,
+  "title": "Ministerieel besluit van 2026-04-02 tot vastlegging van het totale aantal subsidiabele uren gastopvang voor de erkende diensten voor gastopvang en tot bepaling van het maximale aantal subsidiabele uren gastopvang per erkende dienst voor het werkjaar 2026",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041910/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "1d4af988628fcba5755cf43ed1f6cb912dd92238867ada3faa15e89ac81054e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041910&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-04-02",
+  "gazette": "2026-04-16",
+  "numac": 2026002786,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
