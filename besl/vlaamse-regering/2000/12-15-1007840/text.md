@@ -1,131 +1,119 @@
 # Besluit van de Vlaamse Regering van 2000-12-15 betreffende de kwaliteitszorg in de voorzieningen voor de sociale integratie van personen met een handicap
 
-## HOOFDSTUK I ALGEMENE BEPALINGEN
+## HOOFDSTUK I ...
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit en van de bijlagen verstaat men onder:<br /><br />1° voorziening: een voorziening die erkend is of een erkenning heeft aangevraagd op grond van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap of zijn rechtsopvolger;<br /><br />2° het Fonds: het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br /><br />3° verantwoorde hulp- en dienstverlening: een hulp- en dienstverlening die gebruikersgericht wordt verleend en voldoet aan de vereisten van doeltreffendheid, doelmatigheid, continuteit en maatschappelijke aanvaardbaarheid;<br /><br />4° gebruiker: de persoon die een beroep doet op de hulp- en dienstverlening van een voorziening. Met gebruiker wordt in voorkomend geval gelijkgesteld, de wettelijke vertegenwoordiger, de vertrouwenspersoon of de belangrijke betrokken derde, met inbegrip van de plaatsende instantie bij gedwongen hulp- en dienstverlening;<br /><br />5° gebruikersgerichtheid: de mate waarin de hulp- en dienstverlening afgestemd is op de specifieke behoeften van de gebruiker;<br /><br />6° doeltreffendheid: de mate waarin de doelstellingen gerealiseerd worden;<br /><br />7° doelmatigheid: de mate waarin de resultaten zich verhouden tot de middelen. De resultaten zijn het antwoord op de behoeften van de gebruiker. Met middelen wordt bedoeld: personeel, financiën, gebouwen en inrichting, uitrusting, technieken en methoden;<br /><br />8° continuïteit: de mate waarin de hulpverlener zorg draagt voor een goede overdracht van hulp- en dienstverlening in situaties waarin verschillende hulp- en dienstverleners betrokken zijn die elkaar aflossen, vervangen of opvolgen;<br /><br />9° maatschappelijke aanvaardbaarheid: de mate waarin de hulp- en dienstverlening wordt aangeboden vanuit in consensus aanvaarde maatschappelijke waarden en rechten die minimaal vervat liggen in de Belgische grondwet en de Universele Verklaring van de Rechten van de Mens en van de VN-verklaring omtrent de rechten van de personen met een handicap;<br /><br />10° het collectief overleg van de voorziening: het proces waarbij de gebruikers als groep in dialoog treden met de voorziening;<br /><br />11° de beroepsprocedure inzake vergunningen en erkenningen: de procedure zoals bepaald in artikel 13 tot en met 16 van het decreet van 15 juli 1997 houdende oprichting van een Gezins- en Welzijnsraad en van een adviserende beroepscommissie inzake Gezins- en welzijnsaangelegen-heden en in het besluit van de Vlaamse regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap ;<br /><br />12° centra voor revalidatie : de extramurale centra of diensten voor revalidatie die niet voorzien in ziekenhuisverpleging of niet onderworpen zijn aan de ziekenhuisnormen en die door het Fonds op grond van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een handicap werden erkend of die een erkenningsaanvraag hebben ingediend;<br /><br />13° zelfevaluatie : een totale beoordeling, uitgevoerd door de centra voor revalidatie, van hun werking, zowel qua klantgerichtheid als qua interne processen.
+...
 
-## HOOFDSTUK II ERKENNING
+## HOOFDSTUK II ...
 
 ### ART. 2.
 
-Om erkend te worden en te blijven moeten de centra voor revalidatie, met behoud van de naleving van andere erkenningsnormen, een kwaliteitshandboek opmaken overeenkomstig de componenten, vermeld in bijlage Ibis, die bij dit besluit is gevoegd, en moeten ze de sectorspecifieke minimale kwaliteitseisen naleven met betrekking tot gebruikersgerichtheid, maatschappelijke aanvaardbaarheid, doeltreffendheid, doelmatigheid en continuïteit, vermeld in bijlage IIbis, die bij die besluit is gevoegd.
+...
 
-## HOOFDSTUK III TOEZICHT, BESTUURLIJK INGRIJPEN, SANCTIES
+## HOOFDSTUK III ...
 
 ### ART. 3.
 
-De Vlaamse Regering organiseert het toezicht.
+...
 
 ### ART. 4.
 
-§ 1. ...<br>
-<br>
-§ 2. Als een voorziening niet voldoet aan de vereisten inzake een verantwoorde hulp- en dienstverlening en de daaruit voortvloeiende verplichtingen op het vlak van de kwaliteitszorg, zoals deze decretaal en reglementair bepaald zijn, stelt [het gemachtigde personeelslid van het bevoegde agentschap (verv. B.V.R. 26 maart 2004, art. 16, I:1 april 2006) ] dit vast in een proces-verbaal dat toegevoegd wordt aan het in § 1 bedoelde rapport, en dat op gemotiveerde wijze aangeeft op welke punten de vereisten inzake een verantwoorde hulp- en dienstverlening en de daaruit voortvloeiende decretaal en re-glementair bepaalde verplichtingen op het vlak van de kwaliteitszorg niet of onvoldoende nageleefd werden. Dit document vermeldt eveneens de termijn van maximum zes maanden waarbinnen de voorziening de nodige maatregelen dient te nemen.<br>
-<br>
-De voorziening heeft het recht hieromtrent schriftelijk bezwaar in te dienen bij de leidend ambtenaar van het Fonds. Na onderzoek van de bezwaren bevestigt of ontkracht de leidend ambtenaar dit proces-verbaal, of geeft hij opdracht tot een nieuw onderzoek.<br>
-<br>
-§ 3. Als bij bevestiging van het proces-verbaal door de leidend ambtenaar en bij het verstrijken van de in § 2 voorziene termijn blijkt dat de voorziening de nodige maatregelen niet heeft genomen, kan het Fonds een erkenning van een beperkte termijn afleveren, die de zes maanden niet mag overschrijden, of de lopende erkenning herleiden tot diezelfde beperkte termijn, op voorwaarde dat de voorziening zich ertoe verbindt om binnen die termijn aan de in het proces-verbaal vastge-stelde tekortkomingen te verhelpen.<br>
-<br>
-De voorziening heeft het recht hieromtrent door het Fonds gehoord te worden en het recht schriftelijk haar bezwaren tegen deze beslissing bij het Fonds te laten gelden. Na onderzoek van de bezwaren bevestigt of vernietigt het Fonds deze beslissing.<br>
-<br>
-Het Fonds brengt de voorziening schriftelijk op de hoogte van zijn gemotiveerde beslissing. Als deze beslissing de erkenning voor een beperkte termijn bevestigt, zal tevens vermeld worden dat de erkenning zal ingetrokken of niet toegekend worden na het verstrijken van deze termijn als de voorziening niet de nodige maatregelen neemt om te voldoen aan de vereisten van artikel 2 van dit besluit.<br>
-<br>
-De gebruikers van de voorziening worden via het collectief overlegorgaan onverwijld door de voorziening schriftelijk op de hoogte gebracht van deze beslissing.
+...
 
 ### ART. 5.
 
-Als de voorziening na de procedure, bepaald in artikel 4 voldoet aan de gestelde voorwaarden, wordt de erkenning verlengd en brengt het Fonds de voorziening op de hoogte. De voorziening brengt de gebruikers onverwijld op de hoogte via het collectief overleg.<br /><br />Als de voorziening niet voldoet aan de gestelde voorwaarden, wordt de erkenning ingetrokken. Het Fonds brengt de voorziening schriftelijk op de hoogte van zijn gemotiveerde beslissing. De gebruikers van de voorziening worden via het collectief overleg onverwijld door de voorziening schriftelijk op de hoogte gebracht van deze beslissing.<br /><br />De voorziening kan tegen de intrekking van de erkenning een beroep aantekenen overeenkomstig de bepalingen van de beroepsprocedure inzake vergunningen en erkenningen.
+...
 
-## HOOFDSTUK IV WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
+## HOOFDSTUK IV ...
 
 ### ART. 6.
 
-(niet opgenomen)<br /><br />(Wijzigt de bijlage, gevoegd bij het koninklijk besluit van 23 december 1970 tot vaststelling van de voorwaarden voor erkenning van de inrichtingen, tehuizen en diensten voor plaatsing in gezinnen ten behoeve van gehandicapten)
+...
 
 ### ART. 7.
 
-(niet opgenomen)<br /><br />(Wijzigt de bijlage, gevoegd bij het koninklijk besluit van 25 januari 1971 tot vaststelling van de voorwaarden voor de erkenning van de tehuizen voor kortverblijf ten behoeve van gehandicapten)
+...
 
 ### ART. 8.
 
-(niet opgenomen)<br /><br />(Heft artikel 9 van het besluit van de Vlaamse regering van 4 april 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten voor de diensten voor begeleid wonen voor mentaal gehandicapten zoals bedoeld in artikel 3, § 1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten op)
+...
 
 ### ART. 9.
 
-(niet opgenomen)<br /><br />(Heft de artikelen 14 en 16 van het besluit van de Vlaamse regering van 31 juli 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiërings-modaliteiten voor diensten voor zelfstandig wonen van gehandicapte personen zoals bedoeld in artikel 3, § 1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten op)
+...
 
 ### ART. 10.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van het besluit van de Vlaamse regering van 15 juni 1994 betreffende het beheer van gelden of goederen van personen met een handicap door beheerders of personeelsleden van voorzieningen, bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap)
+...
 
 ### ART. 11.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 8 van hetzelfde besluit)
+...
 
 ### ART. 12.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 9 van hetzelfde besluit)
+...
 
 ### ART. 13.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 9 van het besluit van de Vlaamse regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap)
+...
 
 ### ART. 14.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 10 van hetzelfde besluit)
+...
 
 ### ART. 15.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 14 van hetzelfde besluit)
+...
 
 ### ART. 16.
 
-(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 21 juni 1990 tot vaststelling van de vorm en de inhoud van de begeleidingsovereenkomst zoals bedoeld in artikel 9, §§ 1 en 3, van het besluit van de Vlaamse regering van 4 april 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten van de diensten voor begeleid wonen voor mentaal gehandicapten zoals bedoeld in artikel 3, § 1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en padagogische zorg voor gehandicapten op)
+...
 
 ### ART. 17.
 
-(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 21 november 1990 tot vaststelling van de vorm en de inhoud van de dienstver-leningsovereenkomst zoals bedoeld in artikel 14 van het besluit van de Vlaamse regering van 31 juli 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten voor diensten voor zelfstandig begeleid wonen van gehandicapte personen zoals bedoeld in artikel 3, § 1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten op)
+...
 
-## HOOFDSTUK V OVERGANGS-, INWERKINGTREDINGS- EN SLOTBEPALINGEN
+## HOOFDSTUK V ...
 
 ### ART. 18.
 
-Bij wijze van overgangsmaatregel:<br /><br />1° beschikken de voorzieningen over een termijn die afloopt op 31 december 2002 om te voldoen aan alle bepalingen van dit besluit;<br /><br />2° kunnen de voorzieningen die dat wensen vóór 31 december 2002 toetreden tot de in dit besluit omschreven kwaliteitszorg. Deze toetreding is afhankelijk van het afsluiten van een convenant tussen het Fonds, de voorziening en de gebruikers via het collectief overleg.
+...
 
 ### ART. 19.
 
-Dit besluit treedt in werking de eerste dag van de derde maand volgend op de maand waarin het besluit in het Belgisch Staatsblad is bekendgemaakt.
+...
 
 ### ART. 20.
 
-Het decreet van 29 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen treedt, voor wat de gehandicaptensector betreft, op dezelfde datum in werking als dit besluit.
+...
 
 ### ART. 21.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
 
-## Bijlage I Kwaliteitshandboek
+## ...
 
 ### Tekst
 
 ...
 
-## [Bijlage Ibis Kwaliteitshandboek
+## ...
 
 ### Tekst
 
-1. Inleiding<br /><br />1.1 Opbouw en structuur van het kwaliteitshandboek<br /><br />1.2 Beschrijving van het aanbod van het centrum<br /><br />2. Kwaliteitsbeleid<br /><br />2.1 Missie, visie, waarden, doelstellingen, geschreven referentiekader<br /><br />2.2 Sectorspecifieke minimale kwaliteitseisen<br /><br />2.3 De overheid toestemming geven tot verificatie en evaluatie<br /><br />3. Kwaliteitssysteem<br /><br />3.1 Organisatiestructuur<br /><br />3.2 Verantwoordelijke die met het kwaliteitsbeleid is belast<br /><br />3.3 Overzicht en werking van de overlegorganen<br /><br />3.4 Deelname aan externe overlegorganen<br /><br />3.5 Overzicht van de procedures<br /><br />3.5.1 De intake<br /><br />3.5.2 Het opstellen van het hulp- en dienstverleningsplan<br /><br />3.5.3 Het uitvoeren, evalueren en bijsturen van het hulp -en dienstverleningsplan<br /><br />3.5.4 Het beëindigen van de hulp- en dienstverlening<br /><br />3.5.5 Het toetsen van de tevredenheid van de gebruikers<br /><br />3.5.6 Het afhandelen van klachten van gebruikers<br /><br />3.5.7 Het selecteren, aanwerven en volgen van het personeel<br /><br />3.5.8 Het vormen, trainen en opleiden van het personeel<br /><br />3.5.9 Het beheren van de documenten van het kwaliteitshandboek<br /><br />3.5.10 Het plannen en implementeren van een zelfevaluatie<br /><br />3.5.11 Het detecteren van en het gepast reageren op misbruik en geweld ten aanzien van gebruikers<br /><br /> <span class="reference">(ing. B.V.R. 10 februari 2006, art. 3, I : 1 maart 2006)</span> ]
+...
 
-## Bijlage II Sectorspecifieke minimale kwaliteitseisen
+## ...
 
 ### ART.
 
 ...
 
-## [Bijlage IIbis Sectorspecifieke minimale kwaliteitseisen
+## ...
 
 ### ART.
 
-Gebruikersgerichtheid<br /><br />§ 1. Overleg tussen de gebruiker en het centrum<br /><br />1° Informatierecht :<br /><br />Het centrum geeft volledig, nauwkeurig en tijdig informatie aan de gebruiker over het revalidatieprogramma.<br /><br />2° Adviesrecht :<br /><br />De gebruiker heeft het recht om advies uit te brengen over de hulp- en dienstverlening.<br /><br />3° Antwoordplicht :<br /><br />Het centrum hoort de gebruiker over alle aangelegenheden die de verhouding tussen het centrum en de gebruiker aangaan. Het centrum antwoordt op de door de gebruiker gestelde vragen binnen vastgelegde termijnen.<br /><br />4° Aanwenden van de ervaringsdeskundigheid van de gebruiker :<br /><br />Het centrum maakt gebruik van de ervaringen en inzichten van de gebruiker inzake de hulp- en dienstverlening van het centrum.<br /><br />§ 2. Duidelijkheid van het aanbod<br /><br />1° Wederzijdse rechten en plichten :<br /><br />De wederzijdse rechten en plichten van de gebruiker en het centrum worden in overleg opgesteld, schriftelijk vastgelegd en door beide partijen ondertekend.<br /><br />2° Kenbaar maken van het aanbod :<br /><br />Het aanbod van het centrum en de voorwaarden ervan worden beschreven en kenbaar gemaakt aan de gebruiker en aan derden.<br /><br />§ 3. Respectvolle bejegening van de gebruiker<br /><br />1° Integriteit :<br /><br />Het centrum respecteert steeds de eigenheid van de gebruiker en aanvaardt hem/haar als een volwaardige persoon. Het centrum neemt maatregelen om de integriteit van de gebruiker te waarborgen. Hiertoe ontwikkelt het centrum een geschreven referentiekader. Het centrum treft in het bijzonder maatregelen tegen misbruik en geweld ten aanzien van gebruikers.<br /><br />2° Betrokkenheid :<br /><br />Het centrum garandeert dat de relatie met de gebruiker vertrekt vanuit een grondhouding van vertrouwen en gekenmerkt wordt door inleving en echtheid. Hiertoe ontwikkelt het centrum een geschreven referentiekader.<br /><br />3° Privacy :<br /><br />Het centrum respecteert de privacy van de gebruiker, rekening houdend met de eigenheid van de gebruiker. Hiertoe ontwikkelt het centrum een geschreven referentiekader.<br /><br />§ 4. Hulp- en dienstverlening, op maat van de gebruiker<br /><br />1° Kennis van de behoefte aan hulp- en dienstverlening :<br /><br />Het centrum peilt naar en registreert de wensen, behoeften en mogelijkheden van de gebruiker.<br /><br />2° Geïndividualiseerd :<br /><br />Het centrum beschrijft zijn hulp- en dienstverlening voor elke gebruiker en houdt hierbij rekening met de individuele wensen, behoeften en mogelijkheden van de gebruiker.<br /><br />3° Flexibiliteit :<br /><br />Het centrum past de hulp- en dienstverlening aan aan de zich wijzigende behoeften van de gebruiker waar mogelijk.<br /><br />4° Aangepaste fysieke omgeving :<br /><br />Het centrum neemt maatregelen om zijn gebouwen, inrichting en uitrusting af te stemmen op de eigenheid van de gebruiker.<br /><br />5° Toegankelijke communicatie :<br /><br />Het centrum neemt maatregelen om zijn communicatie af te stemmen op de eigenheid van de gebruiker.<br /><br />§ 5. Tevredenheid van de gebruiker<br /><br />1° Toetsing van de tevredenheid van de gebruikers :<br /><br />Het centrum heeft permanent aandacht voor en peilt periodiek naar de tevredenheid van de gebruikers over de hulp- en<br /><br />dienstverlening.<br /><br />2° Klachtenprocedure :<br /><br />Het centrum beschrijft de wijze waarop het de klachten van de gebruikers afhandelt. Het centrum maakt kenbaar aan alle<br /><br />gebruikers hoe klachten ingediend en afgehandeld worden. Het centrum stelt de gebruiker ervan op de hoogte dat hij zich kan wenden tot het Vlaams Fonds als de interne klachtenprocedure geen voldoening geeft.<br />Maatschappelijke aanvaardbaarheid<br /><br />§ 1. Niet-discriminerend<br /><br />Het centrum weigert geen gebruiker op grond van etnische afkomst, nationaliteit, geslacht, seksuele geaardheid, sociale<br /><br />achtergrond, ideologische, filosofische, godsdienstige overtuiging of financieel onvermogen. Het centrum respecteert de<br /><br />ideologische, filosofische of godsdienstige overtuiging van de gebruiker voor zover de werking van het centrum en de integriteit van de medegebruikers niet in het gedrang komen.<br /><br />§ 2. Veiligheid en gezondheid<br /><br />Het centrum neemt de nodige maatregelen om de veiligheid en de gezondheid van de gebruiker te vrijwaren.<br />Doeltreffendheid<br /><br />§ 1. Kwaliteitsbeleid<br /><br />Het centrum beschrijft zijn missie, visie en waarden ten aanzien van de hulp- en dienstverlening, en maakt die kenbaar aan de gebruikers, het personeel en aan derden. Het centrum beschrijft zijn kwaliteitsplanning en evalueert en actualiseert die jaarlijks.<br /><br />§ 2. Planmatig en methodisch handelen<br /><br />Het centrum beschrijft voor elke gebruiker de hulp- en dienstverlening. Die hulp- en dienstverlening wordt in overleg met de gebruiker gepland, uitgevoerd, periodiek geëvalueerd, bijgestuurd en geregistreerd.<br /><br />§ 3. Kennis<br /><br />Het centrum actualiseert zijn kennis inzake ontwikkelingen in de hulp- en dienstverlening.<br /><br />Het centrum stelt periodiek een vormings-, trainings- en opleidingsplan op voor het personeel en voert het uit.<br /><br />§ 4. Corrigerende en preventieve maatregelen<br /><br />Het centrum stelt corrigerende en preventieve maatregelen op ten aanzien van de hulp- en dienstverlening, voert ze uit en evalueert ze.<br /><br />§ 5. Personeel<br /><br />Het centrum beschrijft de wijze waarop het personeel geselecteerd, aangeworven en gevolgd wordt.<br /><br />§ 6. Organisatiestructuur<br /><br />Het centrum beschrijft de verantwoordelijkheden, bevoegdheden en onderlinge verhoudingen van het personeel, en maakt die kenbaar aan zijn gebruikers, het personeel en de overheid.<br /><br />§ 7. Kwaliteitshandboek<br /><br />Het centrum beschrijft de structuur van het kwaliteitshandboek. Het centrum beschrijft op welke manier aan de sectorspecifieke minimale kwaliteitseisen voldaan wordt. Het centrum zorgt ervoor dat de elementen van het kwaliteitshandboek op een doeltreffende wijze geïmplementeerd en geactualiseerd worden.<br />Doelmatigheid<br /><br />§ 1. Overlegkanalen<br /><br />Het centrum beschrijft de wijze waarop het de interne communicatie en het overleg organiseert.<br /><br />§ 2. Interdisciplinaire werking<br /><br />Het centrum bevordert interdisciplinaire werking.<br /><br />§ 3. Financiële middelen<br /><br />Het centrum zet de toegekende financiële middelen van de overheid en de persoonlijke financiële bijdrage van de gebruiker in op een doelmatige manier.<br />Continuïteit<br /><br />§ 1. Aanmelding<br /><br />Als het centrum, na kennisname van de behoeften van de gebruiker, niet kan voorzien in de aangewezen hulp- en dienstverlening, verwijst het centrum de gebruiker door.<br /><br />§ 2. Samenwerking met derden<br /><br />Als het centrum zelf niet kan voorzien in bepaalde behoeften van de gebruiker, zoekt het actief naar samenwerking met derden.<br /><br />§ 3. Doorverwijzing<br /><br />Het centrum zoekt actief mee naar alternatieven als het vaststelt dat het niet meer kan voldoen aan de behoeften van de gebruiker.<br /><br />Het centrum streeft naar een soepele overgang bij doorverwijzing.<br /><br />§ 4. Beëindiging<br /><br />Het centrum maakt duidelijke afspraken met de gebruiker over de omstandigheden waarin en de wijze waarop de hulp- en<br /><br />dienstverlening beëindigd wordt.<br /><br />§ 5. Informatieoverdracht<br /><br />Het centrum waarborgt een verantwoorde overdracht van relevante informatie met betrekking tot de hulp- en dienstverlening in overleg met de gebruiker.
+...
