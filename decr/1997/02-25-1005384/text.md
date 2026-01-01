@@ -23,6 +23,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 4° afstand: de kortst mogelijke afstand gemeten langs de rijbaan, zoals omschreven in artikel 2.1 van het koninklijk besluit van 1 december 1975 houdende het algemeen reglement op de politie van het wegverkeer, zonder rekening te houden met wegomleggingen, verkeersvrije straten, éénrichtingsverkeer en autosnelwegen;<br>
 4°bis afzondering: het verblijf van een persoon in een ruimte, die de persoon niet zelfstandig kan verlaten;<br>
 4°bis/1 afzonderingskamer: een specifieke, veilig ingerichte, hoog beveiligde ruimte, die de persoon niet zelfstandig kan verlaten;<br>
+4°bis/1/1 Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen: het agentschap, opgericht bij besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
 4°bis/2 Agion : Agentschap voor Infrastructuur in het Onderwijs;<br>
 4°ter Agodi : Agentschap voor Onderwijsdiensten;<br>
 4° quater anderstalige nieuwkomer :<br>
@@ -3118,7 +3119,7 @@ In afwijking van het eerste lid:<br>
 
 §1. Als een schoolbestuur oordeelt dat de minimumdoelen onvoldoende ruimte laten voor de eigen pedagogische en onderwijskundige opvattingen of er onverzoenbaar mee zijn, dient het bij de regering een aanvraag tot gelijk-waardigheid in door vervangende minimumdoelen voor te stellen. Het school-bestuur dient die aanvraag in, uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarin de vervangende minimumdoelen zullen gelden.<br>
 <br>
-In afwijking van het eerste lid kunnen aanvragen tot gelijkwaardigheid voor het schooljaar 2026-2027 ingediend worden tot en met 30 november 2025.<br>
+In afwijking van het eerste lid kunnen aanvragen tot gelijkwaardigheid voor het schooljaar 2026-2027 ingediend worden tot en met 15 januari 2026.<br>
 <br>
 Als de aanvraag wordt ingediend naar aanleiding van een wijziging van minimumdoelen, geldt een gedoogperiode van één volledig schooljaar waar-binnen de aanvrager nog met de oude eindtermen of minimumdoelen of ontwikkelingsdoelen of in voorkomend geval oude afwijkende eindtermen of minimum¬doelen of ontwikkelingsdoelen mag werken.<br>
 <br>
@@ -3126,14 +3127,17 @@ De aanvraag is alleen ontvankelijk als precies wordt aangegeven waarom de minimu
 <br>
 §2. De regering beoordeelt of de aanvraag ontvankelijk is en, zo ja, of de vervangende minimumdoelen in hun geheel gelijkwaardig zijn met die minimumdoelen goedgekeurd door het Vlaams Parlement, en bijgevolg toelaten gelijkwaardige studiebewijzen af te leveren. De regering beslist uiterlijk op 31 december van het voorafgaande schooljaar over de aanvraag.<br>
 <br>
-De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria:<br>
-1° het respect voor de fundamentele rechten en vrijheden;<br>
-2° de vereiste inhoud, in functie van de sleutelcompetenties, zoals bepaald in artikel 44;<br>
-3° de formulering<br>
-a) gebeurt onder de vorm van na te streven of te bereiken minimumdoelen, naargelang van het geval;<br>
-b) laat toe om na te gaan in welke mate bij een leerlingenpopulatie minimumdoelen worden nagestreefd of bereikt.<br>
+De gelijkwaardigheid wordt in haar geheel beoordeeld aan de hand van de volgende criteria:<br>
+1°&nbsp;&nbsp; &nbsp;het respect voor de fundamentele rechten en vrijheden;<br>
+2°&nbsp;&nbsp; &nbsp;de vereiste inhoud:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het onderwijsaanbod in de minimumdoelen voor het kleuteronderwijs omvat de inhouden van de vakdisciplines Nederlands, wiskunde, geschiedenis, aardrijkskunde, wetenschap en techniek, lichamelijke opvoeding, muzische vorming, attitudes;<br>
+b)&nbsp;&nbsp; &nbsp;het onderwijsaanbod in de minimumdoelen voor het lager onderwijs omvat de inhouden van de vakdisciplines Nederlands, wiskunde, geschiedenis, aardrijkskunde, wetenschap en techniek, ICT, lichamelijke opvoeding, muzische vorming, attitudes, en Frans naargelang van het geval;<br>
+3°&nbsp;&nbsp; &nbsp;de formulering:<br>
+a)&nbsp;&nbsp; &nbsp;gebeurt in de vorm van te bereiken of na te streven minimumdoelen, naargelang van het geval;<br>
+b)&nbsp;&nbsp; &nbsp;laat toe om na te gaan in welke mate bij een leerlingenpopulatie of een leerling minimumdoelen worden bereikt of nagestreefd, naargelang van het ge-val;<br>
+4°&nbsp;&nbsp; &nbsp;de ordening van de minimumdoelen, vermeld in artikel 44, §1, 1°.<br>
 <br>
-Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid wordt het gemotiveerd advies ingewonnen van een commissie van deskundigen en van de onderwijsinspectie en wordt telkens de aanvrager gehoord. De regering bepaalt de verdere regels voor de samenstelling van de commissie van deskundigen en van de procedure.<br>
+Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid wordt het gemotiveerd advies ingewonnen van een commissie van deskundigen en van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen en wordt telkens de aanvrager gehoord. De regering bepaalt de verdere regels voor de samenstelling van de commissie van deskundigen en van de procedure.<br>
 <br>
 § 3. De vervangende na te streven of te bereiken minimumdoelen die door de regering ontvankelijk en gelijkwaardig zijn beoordeeld, worden binnen zes maanden ter goedkeuring ingediend bij het Vlaams Parlement.
 
@@ -3489,7 +3493,8 @@ De gemeenten met een bijzonder taalstatuut hebben voor wat het organiseren van k
 10° samenwerkingsafspraken maakt met een centrum voor leerlingenbegeleiding en een beleid op leerlingenbegeleiding voert;<br>
 11° in het geheel van haar werking de internationaalrechtelijke en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder eerbiedigt.<br>
 12° een doeltreffend beleid voert om het rookverbod kenbaar te maken en te handhaven, controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid zoals vermeld in het school- of arbeidsreglement;<br>
-13° een doeltreffend beleid voert om het verbod op het gebruik van slimme apparaten bekend te maken en te handhaven, controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid dat is opgenomen in het schoolreglement.<br>
+13° een doeltreffend beleid voert om het verbod op het gebruik van slimme apparaten bekend te maken en te handhaven, controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid dat is opgenomen in het schoolreglement;<br>
+14° een kwaliteitsbeleid voert als vermeld in artikel 4, §2, eerste lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, met het oog op het tegemoetkomen aan het referentiekader voor onderwijskwaliteit.<br>
 <br>
 § 2. Een officiële school beantwoordt onverminderd § 1 aan volgende erkenningsvoorwaarden:<br>
 1° een open karakter hebben door open te staan voor alle leerlingen, ongeacht de ideologische, filosofische of godsdien-stige opvattingen van de ouders en de leerling;<br>
@@ -4113,7 +4118,7 @@ De regering kan nadere regels bepalen over de inhoud en de vorm van het oprichti
 <br>
 Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan AgODi.<br>
 <br>
-De regering neemt deze beslissing na advies van AgODi en de onderwijsinspectie.<br>
+De regering neemt deze beslissing na advies van AgODi.<br>
 <br>
 § 6. Als een schoolbestuur dat van de regering een goedkeuring heeft gekregen voor de oprichting van een nieuw type van vrije keuze, er, conform paragraaf 1, tweede lid, voor kiest om de oprichting ervan met een schooljaar uit te stellen, hoeft het schoolbestuur niet opnieuw een oprichtingsdossier in te dienen of een goedkeuring te krijgen van de regering, conform paragraaf 4 en 5.
 
@@ -4238,7 +4243,7 @@ De regering kan nadere regels bepalen over de inhoud en de vorm van het oprichti
 <br>
 Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad bezorgt.<br>
 <br>
-De regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en de onderwijsinspectie.<br>
+De regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi.<br>
 <br>
 § 5. De scholen voor buitengewoon basisonderwijs die tijdens het schooljaar 2014-2015 een aanbod type 1 of type 8 aanboden, bieden vanaf 1 september 2015 het basisaanbod aan als vermeld in artikel 10, § 1, 1°. Dit wordt niet beschouwd als een herstructurering.<br>
 <br>
@@ -4296,9 +4301,9 @@ De regering kan nadere regels bepalen over de inhoud en de vorm van het oprichti
 &nbsp;<br>
 §3. De oprichting vanaf 1 september van de taalafdeling Nederlands-Vlaamse Gebarentaal kan pas na goedkeuring van de regering.<br>
 <br>
-Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier, vermeld in paragraaf 2, naar de bevoegde diensten van de Vlaamse Gemeenschap, die de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad, de onderwijsinspectie en aan de adviescommissie Vlaamse Gebarentaal bezorgen.<br>
+Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier, vermeld in paragraaf 2, naar de bevoegde diensten van de Vlaamse Gemeenschap, die de aanvraag voor administratief-technisch en inhoudelijk advies aan de Vlaamse Onderwijsraad en aan de adviescommissie Vlaamse Gebarentaal bezorgen.<br>
 <br>
-De regering neemt de beslissing, vermeld in het eerste lid, na advies van de Vlaamse Onderwijsraad en de adviescommissie Vlaamse Gebarentaal over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van de bevoegde diensten van de Vlaamse Gemeenschap en de onderwijsinspectie.<br>
+De regering neemt de beslissing, vermeld in het eerste lid, na advies van de Vlaamse Onderwijsraad en de adviescommissie Vlaamse Gebarentaal over de gegrondheid van de lokale behoefte aan extra aanbod en na advies van de bevoegde diensten van de Vlaamse Gemeenschap.<br>
 <br>
 §4. Een schoolbestuur kan zonder dat het een oprichtingsdossier hoeft in te dienen of de goedkeuring van de regering, vermeld in paragraaf 3, nodig heeft, de taalafdeling Nederlands-Vlaamse Gebarentaal opnieuw inrichten in een school die maxi- maal twee schooljaren geleden voor het laatst de taalafdeling Nederlands-Vlaamse Gebarentaal heeft ingericht, voor zover de taalafdeling Nederlands-Vlaamse Gebarentaal in het laatste jaar van inrichting financierbaar of subsidieerbaar was.
 
