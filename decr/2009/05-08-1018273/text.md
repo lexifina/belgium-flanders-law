@@ -14,7 +14,7 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 3° CLB : een centrum voor leerlingenbegeleiding als vermeld in artikel 2, 3°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 4° consortium : het consortium zoals vermeld in artikel 2, 8°, van het decreet van 15 juni 2007 betreffende het volwassenonderwijs;<br>
 5° competenties : de kennis, vaardigheden en attitudes die het personeelslid nodig heeft om zijn taken naar behoren te kunnen uitoefenen;<br>
-6° decretale en reglementaire bepalingen inzake minimumdoelen : de specifieke reglementering per onderwijsniveau inzake ontwikkelingsdoelen, eindtermen, basiscompetenties, leerplannen, individueel aangepaste curricula, minimumleerplannen en minimumlessenroosters;<br>
+6° ...;<br>
 7° deeltijds kunstonderwijs : het deeltijds kunstonderwijs;<br>
 7° /1 doorlichting : elke vorm van kwaliteitstoezicht door de onderwijsinspectie die resulteert in een verslag en in een advies aan de Vlaamse Regering over de voorlopige erkenning of erkenning van de instelling of van afzonderlijke structuuronderdelen;<br>
 8° erkenningsvoorwaarden : de wettelijke of decretale voorwaarden waaraan een onderwijsinstelling moet voldoen om aan haar leerlingen of cursisten de van rechtswege geldende studiebewijzen toe te kennen of de wettelijke of decretale voorwaarden waaraan een CLB of een leersteuncentrum moet voldoen;<br>
@@ -552,7 +552,7 @@ De Vlaamse Regering beslist uiterlijk op 31 maart van het schooljaar van voorlop
 
 Iedere instelling komt binnen een periode van zes jaar minimum een keer aan bod om te worden doorgelicht.<br>
 <br>
-De doorlichtingscyclus van zes jaar start op 1 september 2018. Met het oog op de organisatie van de doorlichtingen zal de verkorte doorlichtingscyclus in 2021 geëvalueerd worden. Het doel van de evaluatie is de haalbaarheid van de verkorte cyclus en het effect op de personeelsbezetting in relatie met de totaliteit van de opdrachten na te gaan. De gevolgen van de verkorte cyclus op de uitvoerbaarheid van de opdrachten door de inspecteurs zal deel uitmaken van deze evaluatie. Deze evaluatie wordt besproken in de bevoegde onderhandelingscomités voor de sector onderwijs bij de Vlaamse overheid.
+De doorlichtingscyclus van zes jaar start op 1 september 2018. Met het oog op de organisatie van de doorlichtingen zal de verkorte doorlichtingscyclus in 2030 geëvalueerd worden. Het doel van de evaluatie is de haalbaarheid van de verkorte cyclus en het effect op de personeelsbezetting in relatie met de totaliteit van de opdrachten na te gaan. De gevolgen van de verkorte cyclus op de uitvoerbaarheid van de opdrachten door de inspecteurs zal deel uitmaken van deze evaluatie. Deze evaluatie wordt besproken in de bevoegde onderhandelingscomités voor de sector onderwijs bij de Vlaamse overheid.
 
 ### ART. 37.
 
@@ -600,9 +600,9 @@ Als de inspectie tijdens een doorlichting tekorten vaststelt, onderzoekt ze of d
 <br>
 §3. De onderwijsinspectie stelt op basis van het referentiekader onderwijskwaliteit, op basis van het referentiekader CLB-kwaliteit, op basis van het referentiekader kwaliteitsvolle leersteun en op basis van het referentiekader onderwijsinternaatskwaliteit, vermeld in artikel 4, §2, eerste tot en met vierde lid, het toezichtkader en de doorlichtingsinstrumenten op en maakt die bekend.<br>
 <br>
-Voor scholen peilt het toezichtkader in ieder geval vanuit het referentiekader onderwijskwaliteit naar de reglementaire verplichtingen van instellingen inzake de minimumdoelen, de erkenningsvoorwaarden en de financierings- en subsidiëringsvoorwaarden en naar de reglementaire verplichtingen van instellingen op het vlak van:<br>
+Voor scholen peilt het toezichtkader in ieder geval vanuit het referentiekader onderwijskwaliteit naar de reglementaire verplichtingen van instellingen inzake de onderwijsdoelen, de erkenningsvoorwaarden en de financierings- en subsidiëringsvoorwaarden en naar de reglementaire verplichtingen van instellingen op het vlak van:<br>
 1° het beleid inzake gelijke onderwijskansen;<br>
-2° het zorgbeleid, de leerlingenbegeleiding en de leersteun;<br>
+2° het zorgbeleid, de leerlingenbegeleiding met inbegrip van het antipestbeleid en de leersteun;<br>
 3° het talenbeleid;<br>
 4° het beleid inzake de oriëntering van leerlingen;<br>
 5° het evaluatiebeleid met betrekking tot leerlingen en cursisten;<br>
@@ -615,6 +615,8 @@ Voor scholen peilt het toezichtkader in ieder geval vanuit het referentiekader o
 2° het vorige doorlichtingsverslag en, in voorkomend geval, de opvolgingsverslagen.<br>
 <br>
 In afwijking van het eerste lid, kan de inspectie, naar aanleiding van ernstige klachten over een instelling, op vraag van de Vlaamse Regering een doorlichting uitvoeren.<br>
+<br>
+In afwijking van het eerste lid kan de onderwijsinspectie altijd een onaangekondigde doorlichting uitvoeren.<br>
 <br>
 De inspectie kan een doorlichting uitvoeren op grond van herhaaldelijk mindere prestaties op de Vlaamse toetsen of minder leerwinst.<br>
 <br>
@@ -700,7 +702,7 @@ De beroepsprocedure in geval van een advies conform artikel 39, § 5, 2°, b), v
 <br>
 § 2. Het bestuur en de personeelsleden van de instelling, de ouders van leerlingen en internen, en leerlingen, internen of cursisten worden als eersten geïnformeerd over het resultaat van de doorlichting, vóór de verslagen openbaar worden, zoals bepaald door artikel 44 van dit decreet.<br>
 <br>
-§ 3. Bij het bepalen van de verdere procedureregels, vermeld in paragraaf 1, draagt de Vlaamse Regering er zorg voor dat de start van de doorlichting tijdig aangekondigd wordt door de onderwijsinspectie. In afwijking hiervan, kan de doorlichting of opvolgingsdoorlichting slechts zeven kalenderdagen op voorhand worden aangekondigd, indien de doorlichting&nbsp;beperkt is tot een controle van de bewoonbaarheid, veiligheid en hygiëne.
+§ 3. Bij het bepalen van de verdere procedureregels, vermeld in paragraaf 1, draagt de Vlaamse Regering er zorg voor dat de start van de doorlichting tijdig aangekondigd wordt door de onderwijsinspectie. In afwijking hiervan kan de doorlichting ook onaangekondigd plaatsvinden.
 
 ## Afdeling IV. Specifieke opdrachten
 
