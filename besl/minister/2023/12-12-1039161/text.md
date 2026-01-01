@@ -102,6 +102,12 @@ In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 4° in het vierde lid wordt de zinsnede “, naast de elementen, vermeld in het eerste lid, 2° tot en met 6°, ook de meest actuele versie van de omgevingsanalyse” vervangen door de zinsnede “minstens de elementen, vermeld in het eerste lid, 2° tot en met 5°”;<br>
 5° in het vijfde lid wordt de zinsnede “, en de elementen, vermeld in het eerste lid, 3° tot en met 6°” vervangen door de zinsnede “voor de exploitatie, de investeringen en de financiering, en de elementen, vermeld in het eerste lid, 3° tot en met 5°”.
 
+### ART 5.
+
+In artikel 6 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° &nbsp;in punt 1° wordt de zinsnede “deel I, B” vervangen door de zinsnede “deel I, C”;<br>
+2° in punt 2° wordt de zinsnede “conform schema T2” vervangen door de zinsnede “conform schema T2 (J)”.
+
 ### ART 6.
 
 De bijlage bij hetzelfde besluit wordt vervangen door de bijlage die bij dit besluit is gevoegd.

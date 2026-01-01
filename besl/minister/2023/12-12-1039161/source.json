@@ -2,16 +2,16 @@
   "codex_id": 1039161,
   "title": "Ministerieel besluit van 2023-12-12 tot wijziging van het ministerieel besluit van 30 juni 2021 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de rekeningenstelsels van de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039161/VolledigDocument?datum=2024-03-04",
-  "source_sha256": "e552db41556136e73ef9444c5b141ae595a8cc38675a1bb6170ef815b91a6f5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039161/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "87e6f1757160c4a2ec80cb17e9bab901ce714356d1e62d61945150427a130b9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039161&param=informatie",
-  "as_of": "2024-03-04",
+  "as_of": "2026-01-01",
   "made": "2023-12-12",
   "gazette": "2024-01-11",
   "numac": 2023048664,
   "document_start": null,
   "document_end": null,
-  "in_force": "2024-03-04",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2024-03-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
