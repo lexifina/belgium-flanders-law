@@ -104,4 +104,5 @@ Dit besluit treedt in werking op 1 juli 2024.
 
 ### BIJLAGE
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2024/08/05_1.pdf#page=55">De LTL-lijst als vermeld in artikel 2, eerste lid</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2026/01/12_1.pdf#page=116">De LTL-lijst als vermeld in artikel 1</a>&nbsp;.<br>
+&nbsp;
