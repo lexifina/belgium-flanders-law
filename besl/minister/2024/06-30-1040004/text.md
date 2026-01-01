@@ -48,7 +48,7 @@ Ter uitvoering van artikel 37, tweede lid, 2°, van het besluit van 19 april 202
 
 ### ART 4.
 
-Ter uitvoering van artikel 37, tweede lid, 3°, van het besluit van 19 april 2024 loopt de oproep, vermeld in artikel 2 van dit besluit, van 1 juli 2024 tot en met 31 december 2025, of tot de budgettaire enveloppe, vermeld in artikel 3 van dit besluit, is uitgeput.
+Ter uitvoering van artikel 37, tweede lid, 3°, van het besluit van 19 april 2024 loopt de oproep, vermeld in artikel 2 van dit besluit, van 1 juli 2024 tot en met 31 december 2026, of tot de budgettaire enveloppe, vermeld in artikel 3 van dit besluit, is uitgeput.
 
 ### ART 5.
 

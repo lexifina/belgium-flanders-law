@@ -2,16 +2,16 @@
   "codex_id": 1040004,
   "title": "Ministerieel besluit van 2024-06-30 tot uitvoering van het besluit van de Vlaamse Regering van 19 april 2024 tot toekenning van steun aan ondernemingen voor ecologie-uitgaven, wat betreft de oproep voor de thema’s vergroening, elektrificatie en verbetering energie-efficiëntie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040004/VolledigDocument?datum=2024-07-01",
-  "source_sha256": "c8a072d6d452584bd620e5a47f026bc170912f23275ac67e353ac32f845299c5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040004/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "ffa680bde1ac33ec250b6a2e72037459233f7c380cb5869269911bb5d5bd187e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040004&param=informatie",
-  "as_of": "2024-07-01",
+  "as_of": "2026-01-01",
   "made": "2024-06-30",
   "gazette": "2024-08-05",
   "numac": 2024007253,
   "document_start": "2024-07-01",
   "document_end": null,
-  "in_force": "2024-07-01",
+  "in_force": "2026-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2024-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
