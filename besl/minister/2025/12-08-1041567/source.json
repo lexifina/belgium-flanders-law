@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041567,
+  "title": "Ministerieel besluit van 2025-12-08 tot vervanging van bijlage 1 bij het ministerieel besluit van 17 oktober 2022 tot uitvoering van artikel 26, §2, 1°, en artikel 47, eerste lid, van het besluit van de Vlaamse Regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041567/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "173895b655e35f0236fd90f249d5e7991872c88fbc61ba353461b0947d636dae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041567&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-08",
+  "gazette": "2025-12-17",
+  "numac": 2025009446,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
