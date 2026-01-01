@@ -84,6 +84,10 @@ In artikel 5.140 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaams
 4° het derde lid wordt opgeheven;<br>
 5° in het bestaande vijfde lid, dat het vierde lid wordt, wordt het woord “vierde” vervangen door het woord “derde”.
 
+### ART 9.
+
+In artikel 5.146, §1, eerste lid, van hetzelfde besluit wordt het woord “vierentwintig” vervangen door het woord “zesendertig”.
+
 ### ART 10.
 
 In artikel 5.151, §1, eerste lid, 11°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, wordt de zinsnede “en 6°, en derde lid” vervangen door de zinsnede “, 6° en 6/1°”.
