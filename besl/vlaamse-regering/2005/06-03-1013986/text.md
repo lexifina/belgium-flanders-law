@@ -156,9 +156,14 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 			<td>1° de coördinatie van het strafrechtelijk en veiligheidsbeleid, met inbegrip van de deelname aan het algemeen beleid inzake strafrecht, vermeld in artikel 11bis van de bijzondere wet<br>
 			2° het algemeen handhavingsbeleid en de uitvoering van het kaderdecreet bestuurlijke handhaving<br>
 			3° de organisatie, de werking en de opdrachten van de justitiehuizen en van de dienst die de uitwerking en de opvolging van het elektronische toezicht verzekert, vermeld in artikel 5, § 1, III, van de bijzondere wet<br>
-			4° de juridische eerstelijnsbijstand<br>
-			5° de coördinatie van de hulp en de dienstverlening aan gedetineerden en geïnterneerden<br>
-			6° de coördinatie van de Family Justice Centers en de ketenaanpak intrafamiliaal geweld</td>
+			4° de juridische eerstelijnsbijstand, vermeld in artikel 5, §1, II, 8°, van de bijzondere wet<br>
+			5° de coördinatie van de hulp- en de dienstverlening aan personen in detentie, vermeld in artikel 5, §1, II, 7°, van de bijzondere wet<br>
+			6° het beleid met betrekking tot de aanpak van grensoverschrijdend gedrag en intrafamiliaal en gendergerelateerd geweld<br>
+			7° het beleid met betrekking tot de ondersteuning van slachtoffers, met uitzondering van slachtofferhulp en slachtofferbejegening<br>
+			8° het beleid met betrekking tot de justitiële bemiddeling<br>
+			9° het beleid met betrekking tot jeugddelinquentie met uitzondering van:<br>
+			a)&nbsp;&nbsp; &nbsp;de erkenning en subsidiëring van voorzieningen die erkend zijn voor delictgerichte contextbegeleiding als vermeld in artikel 16 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp&nbsp;<br>
+			b)&nbsp;&nbsp; &nbsp;de sociale dienst, vermeld in artikel 2, 21°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht</td>
 		</tr>
 		<tr>
 			<td>interne dienstverlening Vlaamse overheid</td>
@@ -395,52 +400,44 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 
 ### ART. 8.
 
-<br>
-§ 1. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende beleidsvelden en bevoegdheden:
-<table border="1">
+§1. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende beleidsvelden en bevoegdheden:
+<table border="1" cellspacing="0">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
 			<td>bevoegdheid</td>
 		</tr>
 		<tr>
-			<td>welzijn</td>
-			<td>de bijstand aan personen, vermeld in artikel 5, § 1, II, 2°, van de bijzondere wet:<br>
-			1° het beleid inzake maatschappelijk welzijn, met inbegrip van:<br>
-			a) de openbare centra voor maatschappelijk welzijn, met uitzondering van de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
-			b) het algemeen welzijnswerk<br>
-			c) de samenlevingsopbouw<br>
-			2° het beleid inzake kansarmoede</td>
-		</tr>
-		<tr>
-			<td>gezondheids- en woonzorg</td>
-			<td>1° het bejaardenbeleid, vermeld in artikel 5, § 1, II, 5°, van de bijzondere wet<br>
-			2° het gezondheidsbeleid, vermeld in artikel 5, § 1, I, eerste lid, 1°, 6°, 7° en 8°, van de bijzondere wet, met uitzondering van het medisch schooltoezicht en de medisch verantwoorde sportbeoefening</td>
+			<td>zorg</td>
+			<td>1° de bijstand aan personen:<br>
+			&nbsp; a) het beleid inzake maatschappelijk welzijn, vermeld in artikel 5, §1, II, 2°, van de bijzondere wet, met inbegrip van:<br>
+			&nbsp; &nbsp; 1°&nbsp;de openbare centra voor maatschappelijk welzijn, met uitzondering van de bestuurlijke organisatie van en het administratief toezicht op de openbare centra voor maatschappelijk welzijn<br>
+			&nbsp; &nbsp; 2°het algemeen welzijnswerk<br>
+			&nbsp; &nbsp; 3° de samenlevingsopbouw<br>
+			&nbsp; b)&nbsp;het beleid inzake kansarmoede<br>
+			2°&nbsp;het bejaardenbeleid, vermeld in artikel 5, §1, II, 5°, van de bijzondere wet<br>
+			3° het gezondheidsbeleid, vermeld in artikel 5, §1, I, eerste lid, 1° tot en met 8°, van de bijzondere wet, met uitzondering van het medisch schooltoezicht en de medisch verantwoorde sportbeoefening<br>
+			4° de mobiliteitshulpmiddelen voor mindervaliden, vermeld in artikel 5, §1, II, 4°, van de bijzondere wet</td>
 		</tr>
 		<tr>
 			<td>opgroeien</td>
-			<td>1° de jeugdbescherming, vermeld in artikel 5, § 1, II, 6°, van de bijzondere wet, met inbegrip van de sociale bescherming en de gerechtelijke bescherming<br>
-			2° het gezinsbeleid, vermeld in artikel 5, § 1, II, 1°, van de bijzondere wet, met inbegrip van alle vormen van hulp en bijstand aan gezinnen en kinderen<br>
-			3° de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de bijzondere wet</td>
+			<td>1° de jeugdbescherming, vermeld in artikel 5, §1, II, 6°, van de bijzondere wet, wat betreft:<br>
+			a)&nbsp;&nbsp; &nbsp;het beleid met betrekking tot jeugdhulp<br>
+			b)&nbsp;&nbsp; &nbsp;het beleid met betrekking tot jeugddelinquentie wat betreft de erkenning en subsidiëring van voorzieningen die erkend zijn voor delictgerichte contextbegeleiding als vermeld in artikel 16 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp en de sociale dienst, vermeld in artikel 2, 21°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht<br>
+			2° het gezinsbeleid, vermeld in artikel 5, §1, II, 1°, van de bijzondere wet, met inbegrip van alle vormen van hulp en bijstand aan gezinnen en kinderen<br>
+			3° de gezinsbijslagen, vermeld in artikel 5, §1, IV, van de bijzondere wet</td>
 		</tr>
 		<tr>
 			<td>personen met een beperking</td>
-			<td>het beleid inzake mindervaliden, vermeld in artikel 5, § 1, II, 4°, van de bijzondere wet, met uitzondering van:<br>
-			1° de beroepsopleiding, de omscholing, de herscholing en het tewerkstellingsbeleid van mindervaliden<br>
+			<td>het beleid inzake mindervaliden, vermeld in artikel 5, §1, II, 4°, van de bijzondere wet, met uitzondering van:<br>
+			1°&nbsp;de beroepsopleiding, de omscholing, de herscholing en het tewerkstellingsbeleid van mindervaliden<br>
 			2° het vervoer van mindervaliden<br>
 			3° de mobiliteitshulpmiddelen<br>
 			4° het basisondersteuningsbudget, het zorgbudget voor ouderen met een zorgnood en het zorgbudget voor zwaar zorgbehoevenden</td>
 		</tr>
 		<tr>
 			<td>sociale bescherming</td>
-			<td>1° het gezondheidsbeleid, vermeld in artikel 5, § 1, I, eerste lid, 2° tot en met 5°, van de bijzondere wet:<br>
-			a) het beleid betreffende de verstrekkingen van geestelijke gezondheidszorg in de verplegingsinrichtingen buiten de ziekenhuizen<br>
-			b) het beleid betreffende de zorgverstrekkingen in oudereninstellingen, met inbegrip van de geïsoleerde geriatriediensten<br>
-			c) het beleid betreffende de zorgverstrekkingen in geïsoleerde diensten voor behandeling en revalidatie<br>
-			d) het beleid inzake long term care revalidatie<br>
-			2° het beleid inzake mindervaliden, vermeld in artikel 5, § 1, II, 4°, van de bijzondere wet, wat betreft:<br>
-			a) de mobiliteitshulpmiddelen<br>
-			b) het basisondersteuningsbudget, het zorgbudget voor ouderen met een zorgnood en het zorgbudget voor zwaar zorgbehoevenden</td>
+			<td>het basisondersteuningsbudget, het zorgbudget voor ouderen met een zorgnood en het zorgbudget voor zwaar zorgbehoevenden</td>
 		</tr>
 		<tr>
 			<td>zorginfrastructuur</td>
@@ -449,26 +446,23 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 	</tbody>
 </table>
 <br>
-§ 2. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende inhoudelijke structuurelementen:
-<table border="1">
+§2. Het beleidsdomein Welzijn, Volksgezondheid en Gezin omvat de volgende inhoudelijke structuurelementen:
+<table border="1" cellspacing="0">
 	<tbody>
 		<tr>
 			<td>beleidsveld</td>
 			<td>inhoudelijk structuurelement</td>
 		</tr>
 		<tr>
-			<td>welzijn</td>
-			<td>1° Vlaams intersectoraal akkoord<br>
-			2° welzijnswerk<br>
+			<td>zorg</td>
+			<td>1° beleidsondersteuning<br>
 			2° armoedebeleid<br>
-			4° beleidsondersteuning</td>
-		</tr>
-		<tr>
-			<td>gezondheids- en woonzorg</td>
-			<td>1° algemeen gezondheidsbeleid<br>
-			2° gespecialiseerde zorg<br>
-			3° preventie<br>
-			4° woonzorg en eerste lijn</td>
+			3° welzijnswerk<br>
+			4° sociale akkoorden<br>
+			5° preventie<br>
+			6° eerste lijn<br>
+			7° gespecialiseerde zorg<br>
+			8° woonzorg</td>
 		</tr>
 		<tr>
 			<td>opgroeien</td>
@@ -482,7 +476,8 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 		<tr>
 			<td>sociale bescherming</td>
-			<td>sociale bescherming</td>
+			<td>1° zorgbudgetten<br>
+			2° algemeen beleid sociale bescherming</td>
 		</tr>
 		<tr>
 			<td>zorginfrastructuur</td>
@@ -490,8 +485,6 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt gestructuree
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ### ART. 9.
 
