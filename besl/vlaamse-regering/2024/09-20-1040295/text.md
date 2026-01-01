@@ -30,65 +30,95 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° bewegen op verwijzing: een aanbod dat gericht is op de motivationele ondersteuning en opvolging van personen om meer te bewegen en sedentair gedrag te beperken, na verwijzing door een zorgverlener;<br>
-2° bewegen op verwijzing-begeleiding: het aanbieden van ondersteuning en opvolging van personen om meer te bewegen en sedentair gedrag te beperken;<br>
+1° bewegen op verwijzing: het aanbod, vermeld in artikel 34/2/1, §1, eerste lid, van het decreet van 21 november 2003;<br>
+2° ...;<br>
 3° decreet van 21 november 2003: het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
 4° deelnemer: een persoon die gebruik maakt van bewegen op verwijzing;<br>
-5° gesubsidieerde organisatie ‘Bewegen op verwijzing’: de organisatie, vermeld in artikel 3.
+5° gesubsidieerde organisatie ‘Bewegen op verwijzing’: de organisatie, vermeld in artikel 34/2/1, §2, eerste lid, van het decreet van 21 november 2003.
 
 ## Hoofdstuk 2. Toepassingsgebied en de gesubsidieerde organisatie om het initiatief bewegen op verwijzing te realiseren
 
 ### ART 2.
 
-Dit besluit is van toepassing op de verwerking van gegevens over het initiatief bewegen op verwijzing ter uitvoering van artikel 57 van het decreet van 21 november 2003.&nbsp;
+Dit besluit is van toepassing op de verwerking van gegevens over het initiatief bewegen op verwijzing ter uitvoering van&nbsp;artikel 34/2/1 en artikel 57 van het decreet van 21 november 2003.<br>
+<br>
+De persoon die werd doorverwezen kiest zelf een individuele zorgaanbieder die bewegen op verwijzing aanbiedt en bezorgt deze zorgaanbieder de verwijsbrief.
 
 ### ART 3.
 
-De ondersteuning van de subsidiëring van individuele zorgaanbieders voor het initiatief bewegen op verwijzing wordt gerealiseerd door een organisatie die een subsidie ontvangt van de Vlaamse Regering als vermeld in artikel 34/2, §2, eerste lid, van het decreet van 21 november 2003, om het initiatief bewegen op verwijzing te realiseren.
+De website van het Departement Zorg vermeldt de identiteit van de gesubsidieerde organisatie ‘Bewegen op verwijzing’, die overeenkomstig artikel 34/2/1, §5, eerste lid, van het decreet van 21 november 2003, optreedt als verwerkingsverantwoordelijke.
 
 ## Hoofdstuk 3. De verwerking van persoonsgegevens in het kader van de ondersteuning en de uitvoering van bewegen op verwijzing
 
 ### ART 4.
 
-In het kader van bewegen op verwijzing verwerkt de gesubsidieerde organisatie ‘Bewegen op verwijzing’ de volgende gegevens van de individuele zorgaanbieders:<br>
-1° het rijksregisternummer van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
-2° de voor- en achternaam van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
-3° het facturatieadres van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
-4° het bankrekeningnummer en de naam van de rekeninghouder, het facturatieadres, de BIC-code, het KBO-nummer, en het btw-nummer van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
-5° het prestatieadres waar de individuele zorgaanbieder de ‘bewegen op verwijzing’-begeleiding aan deelnemers aanbiedt;<br>
-6° de specifieke deskundigheid van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
-7° de vermelding of de individuele zorgaanbieder actief is als aanbieder van bewegen op verwijzing of niet.<br>
+In het kader van bewegen op verwijzing verwerkt de gesubsidieerde organisatie ‘Bewegen op verwijzing’ naast de gegevens, vermeld in artikel 34/2/1, §3, tweede lid, 4° tot en met 6°, van het decreet van 21 november 2003, de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
+2°&nbsp;&nbsp; &nbsp;de voor- en achternaam van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
+3°&nbsp;&nbsp; &nbsp;het telefoonnummer en het e-mailadres van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
+4°&nbsp;&nbsp; &nbsp;het gegeven of de individuele zorgaanbieder die bewegen op verwijzing aanbiedt voor eigen rekening of in dienstverband werkt, en de naam van de onderneming waaronder de individuele zorgaanbieder werkt;<br>
+5°&nbsp;&nbsp; &nbsp;het bankrekeningnummer, de naam van de rekeninghouder en het daaraan gekoppelde adres, het facturatieadres, de BIC-code, het KBO-nummer, en het btw-nummer van de individuele zorgaanbieder die bewegen op verwijzing aanbiedt;<br>
+6°&nbsp;&nbsp; &nbsp;de volgende persoonsgegevens van de mandaathouder die namens een individuele zorgaanbieder de uitgevoerde prestaties kan invoeren in de uitbetalingssoftware:<br>
+a)&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+7°&nbsp;&nbsp; &nbsp;de gegevens over de bekwaamheid van de individuele zorgaanbieder:<br>
+a)&nbsp;&nbsp; &nbsp;het gegeven of de individuele zorgaanbieder volgende opleidingstitel of een equivalent met succes heeft afgerond:<br>
+1)&nbsp;&nbsp; &nbsp;Master of Science in de bewegings- en sportwetenschappen;<br>
+2)&nbsp;&nbsp; &nbsp;Master of Science in de revalidatiewetenschappen en kinesitherapie;&nbsp;<br>
+3)&nbsp;&nbsp; &nbsp;Bachelor in sport en bewegen;<br>
+4)&nbsp;&nbsp; &nbsp;Bachelor in het onderwijs: secundair onderwijs, met minstens het onderwijsvak lichamelijke opvoeding;<br>
+5)&nbsp;&nbsp; &nbsp;Gegradueerde in de kinesitherapie;<br>
+b)&nbsp;&nbsp; &nbsp;het gegeven of de individuele zorgaanbieder een opleiding rond bewegen op verwijzing heeft gevolgd van minstens 16 uren die al de volgende opleidingsonderdelen bevat:<br>
+1)&nbsp;&nbsp; &nbsp;actuele kennis over de organisatie en regelgeving over bewegen op verwijzing;<br>
+2)&nbsp;&nbsp; &nbsp;de specificiteit van wetenschappelijk onderbouwde coaching naar meer beweging, waaronder kennis van gedragsverandering, terugvalpreventie en omgaan met herval zowel in individuele als groepsbegeleiding toepassen en omgaan met kwetsbare doelgroepen.<br>
 <br>
-Als de individuele zorgaanbieder daarmee instemt, maakt de gesubsidieerde organisatie ‘Bewegen op verwijzing’ de gegevens, vermeld in het eerste lid, 2°, 5° en 7°, bekend op een publiek toegankelijke website.<br>
+Als de individuele zorgaanbieder daarmee instemt, maakt de gesubsidieerde organisatie ‘Bewegen op verwijzing’ de gegevens, vermeld in het eerste lid, 2° en 3°, en de gegevens, vermeld in artikel 34/2/1, §3, tweede lid, 4° en 6°, van het decreet van 21 november 2003, bekend op een publiek toegankelijke website.<br>
 <br>
-De gesubsidieerde organisatie ‘Bewegen op verwijzing’ verwerkt de gegevens, vermeld in het eerste lid en in artikel 5, eerste lid, met het oog op de uitbetalings-, toezichts- en controletaken in het kader van bewegen op verwijzing ten aanzien van de individuele zorgaanbieders.<br>
-<br>
-De Vlaamse minister, bevoegd voor de gezondheids- en woonzorg, kan de gegevens concretiseren die vereist zijn om de specifieke deskundigheid, vermeld in het eerste lid, 6°, aan te tonen.
+De Vlaamse minister, bevoegd voor de zorg, kan de gegevens over de bekwaamheid van de individuele zorgaanbieder, vermeld in het eerste lid, 7°, aanvullen.
 
 ### ART 5.
 
-In het kader van bewegen op verwijzing verwerken de individuele zorgaanbieders en de gesubsidieerde organisatie ‘Bewegen op verwijzing’ de volgende gegevens van de deelnemers:<br>
-1° het rijksregisternummer van de deelnemer aan de ‘bewegen op verwijzing’-begeleiding;<br>
-2° de voor- en achternaam van de deelnemer aan de ‘bewegen op verwijzing’-begeleiding;<br>
-3° de postcode van de deelnemer aan de ‘bewegen op verwijzing’-begeleiding;<br>
-4° de leeftijd van de deelnemer aan de ‘bewegen op verwijzing’-begeleiding;<br>
-5° de vermelding of de deelnemer aan de ‘bewegen op verwijzing’-begeleiding recht heeft op het statuut verhoogde tegemoetkoming;<br>
-6° het beroep van de persoon die de deelnemer aan de ‘bewegen op verwijzing’-begeleiding heeft doorverwezen naar de individuele zorgaanbieder;<br>
-7° een overzicht van de prestaties die de deelnemer in het kader van ‘bewegen op verwijzing’ heeft ontvangen.<br>
+In het kader van bewegen op verwijzing verwerken de individuele zorgaanbieders en de gesubsidieerde organisatie ‘Bewegen op verwijzing’ naast de gegevens, vermeld in artikel 34/2/1, §3, eerste lid, 3° tot en met 6°, van het decreet van 21 november 2003, de volgende gegevens van de deelnemers aan de ‘bewegen op verwijzing’-begeleiding:<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+2°&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3°&nbsp;&nbsp; &nbsp;het adres en de werkelijke verblijfplaats;<br>
+4°&nbsp;&nbsp; &nbsp;het telefoonnummer en het e-mailadres.<br>
 <br>
 In het eerste lid wordt verstaan onder verhoogde tegemoetkoming: de verhoogde verzekeringstegemoetkoming, als vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.<br>
 <br>
 De individuele zorgaanbieder houdt zich aan de geldende regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en licht de deelnemer vóór het aanbieden van bewegen op verwijzing in over de verwerking van zijn persoonsgegevens.
 
+### ART 5/1.
+
+In het kader van bewegen op verwijzing verwerken de individuele zorgaanbieders en de gesubsidieerde organisatie ‘Bewegen op verwijzing’ de persoonsgegevens, vermeld in artikel 34/2/1, §3, derde lid, van het decreet van 21 november 2003, van de persoon die de deelnemer heeft doorverwezen.
+
 ### ART 6.
 
-De persoonsgegevens die worden verwerkt in het kader van de toepassing van artikel 34/2 van het decreet van 21 november 2003, worden tussen de individuele zorgaanbieder en de gesubsidieerde organisatie ‘Bewegen op verwijzing’ uitgewisseld via een beveiligde omgeving.
+De persoonsgegevens die worden verwerkt in het kader van de toepassing van artikel 34/2/1 van het decreet van 21 november 2003, worden tussen de individuele zorgaanbieder en de gesubsidieerde organisatie ‘Bewegen op verwijzing’ uitgewisseld via een beveiligde omgeving.
 
 ### ART 7.
 
-De gesubsidieerde organisatie ‘Bewegen op verwijzing’ neemt de volgende organisatorische en technische beveiligingsmaatregelen voor de verwerking van de persoonsgegevens in het kader van de toepassing van artikel 34/2 van het decreet van 21 november 2003:<br>
+De gesubsidieerde organisatie ‘Bewegen op verwijzing’ neemt de volgende organisatorische en technische beveiligingsmaatregelen voor de verwerking van de persoonsgegevens in het kader van de toepassing van artikel 34/2/1 van het decreet van 21 november 2003:<br>
 1° de medewerkers die toegang hebben tot de gegevens van de deelnemers en de individuele zorgaanbieders hebben een geheimhoudingsverklaring ondertekend. De geheimhoudingsverklaring vermeldt de verplichtingen waaraan de medewerkers moeten voldoen, en ook de mogelijke sancties die ze kunnen oplopen bij niet-naleving van het beroepsgeheim;<br>
-2° iedere deelnemer en individuele zorgaanbieder van wie gegevens worden verwerkt, kan via een website van de gesubsidieerde organisatie ‘Bewegen op verwijzing’ laagdrempelig de informatie terugvinden overeenkomstig hoofdstuk III van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) is opgenomen over de verwerking van de persoonsgegevens.
+2° iedere deelnemer en individuele zorgaanbieder van wie gegevens worden verwerkt, kan via een website van de gesubsidieerde organisatie ‘Bewegen op verwijzing’ laagdrempelig de informatie terugvinden overeenkomstig hoofdstuk III van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).&nbsp;De gesubsidieerde organisatie ‘Bewegen op verwijzing’ neemt passende maatregelen opdat de deelnemer en de individuele zorgaanbieder de informatie in een beknopte, transparante, begrijpelijke en gemakkelijk toegankelijke vorm en in duidelijke en eenvoudige taal ontvangt.
+
+## Hoofdstuk 3/1. Doorverwijzers
+
+### ART 7/1.
+
+Volgende zorgverleners kunnen personen doorverwijzen naar een initiatief bewegen op verwijzing:<br>
+1°&nbsp;&nbsp; &nbsp;artsen;<br>
+2°&nbsp;&nbsp; &nbsp;verpleegkundigen;<br>
+3°&nbsp;&nbsp; &nbsp;diëtisten;<br>
+4°&nbsp;&nbsp; &nbsp;apothekers;<br>
+5°&nbsp;&nbsp; &nbsp;maatschappelijk werkers;<br>
+6°&nbsp;&nbsp; &nbsp;psychologen;<br>
+7°&nbsp;&nbsp; &nbsp;ergotherapeuten;<br>
+8°&nbsp;&nbsp; &nbsp;vroedvrouwen;<br>
+9°&nbsp;&nbsp; &nbsp;podologen;<br>
+10°&nbsp;&nbsp; &nbsp;kinesitherapeuten.<br>
+<br>
+De Vlaamse minister, bevoegd voor de zorg, kan de lijst met zorgverleners die kunnen doorverwijzen, vermeld in het eerste lid, aanvullen.
 
 ## Hoofdstuk 4. Slotbepaling
 
