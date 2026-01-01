@@ -34,7 +34,7 @@ DE VLAAMSE REGERING BESLUIT:
 <br>
 Dit besluit heeft tot doel de gezondheid van de mens te beschermen tegen de schadelijke gevolgen van verontreiniging van water bestemd voor menselijke consumptie of van een gebrek aan toegang tot dergelijk water door ervoor te zorgen dat het gezond en schoon is en dat de collectieve bevoorrading verzekerd wordt, en door de toegang tot water bestemd voor menselijke consumptie te verbeteren.<br>
 <br>
-§3. De minister kan, na consultatie van de WaterRegulator en met het oog op de aansturing, de evaluatie en de opvolging van de openbare waterleverancier en de private waterleverancier, voor zover deze gebruik maakt van een privaat waterdistributienetwerk, voor wat betreft de uitvoering en invulling van de taken en verplichtingen die hem in dit besluit worden toegewezen:<br>
+§3. De minister kan, na consultatie van de&nbsp;Vlaamse Nutsregulator en met het oog op de aansturing, de evaluatie en de opvolging van de openbare waterleverancier en de private waterleverancier, voor zover deze gebruik maakt van een privaat waterdistributienetwerk, voor wat betreft de uitvoering en invulling van de taken en verplichtingen die hem in dit besluit worden toegewezen:<br>
 1° kritische prestatie-indicatoren vastleggen;<br>
 2° de frequentie en wijze van rapportering over de kritische prestatie-indicatoren vastleggen;<br>
 3° indicatieve doelstellingen alsook indicatieve tussentijdse doelstellingen voor de betreffende kritische prestatie-indicatoren vastleggen.

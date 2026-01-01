@@ -2,16 +2,16 @@
   "codex_id": 1038091,
   "title": "Besluit van de Vlaamse Regering van 2023-01-20 over de kwaliteit, kwantiteit en levering van water bestemd voor menselijke consumptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038091/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "117793f9eb20287ae7b586e82e26688ea4754bd1edc68af22d2cfe0c1eac35f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038091/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "f2b5f65c3a8b4e33a08e2dbdbae012868fdab941e24ff6dc36b8a338650e126e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038091&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2026-01-01",
   "made": "2023-01-20",
   "gazette": "2023-03-08",
   "numac": 2023030566,
   "document_start": "2023-03-18",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2026-01-01",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
