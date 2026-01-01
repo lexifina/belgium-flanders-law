@@ -2,16 +2,16 @@
   "codex_id": 1037218,
   "title": "Decreet van 2022-06-03 over de organisatie van zomerscholen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037218/VolledigDocument?datum=2024-04-01",
-  "source_sha256": "20bcf4ca8a5a73c7a9850d90faf019f798908c2c0e0e58dc94439996b550c4cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037218/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "25cadeeb5a4ca452667fa663212b013032b3bd52376375da21eddecbf1ba4154",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037218&param=informatie",
-  "as_of": "2024-04-01",
+  "as_of": "2026-01-01",
   "made": "2022-06-03",
   "gazette": "2022-07-08",
   "numac": 2022032548,
   "document_start": "2022-07-18",
   "document_end": null,
-  "in_force": "2024-04-01",
+  "in_force": "2026-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2024-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

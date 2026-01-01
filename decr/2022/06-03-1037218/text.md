@@ -58,13 +58,15 @@ b) infrastructuur, didactisch materiaal of ander materiaal ter beschikking stell
 
 § 1. De Vlaamse Regering kan jaarlijks projecten subsidiëren voor de organisatie van zomerscholen binnen de begrotingskredieten die de Vlaamse Gemeenschap ter beschikking stelt.<br>
 <br>
-§ 2. De organisator van een zomerschool ontvangt een forfaitair subsidiebedrag van maximaal 45 euro per deelnemende leerling per dag voor de kosten die verbonden zijn aan de organisatie van een aanbod van onderwijs-en vrijetijdsactiviteiten.<br>
+§ 2. De organisator van een zomerschool ontvangt een subsidiebedrag van maximaal 45 euro per deelnemende leerling per dag voor de kosten die verbonden zijn aan de organisatie van een aanbod van onderwijs-en vrijetijdsactiviteiten.<br>
 <br>
-Als organisatoren van een zomerschool onderling samenwerken voor de organisatie van een of meer zomerscholen als vermeld in artikel 5, § 1, tweede lid, ontvangt de organisator van de zomerschool die de aanvraag indient, het forfaitaire subsidiebedrag, vermeld in het eerste lid.<br>
+Als organisatoren van een zomerschool onderling samenwerken voor de organisatie van een of meer zomerscholen als vermeld in artikel 5, § 1, tweede lid, ontvangt de organisator van de zomerschool die de aanvraag indient, het subsidiebedrag, vermeld in het eerste lid.<br>
 <br>
-Als een regierol wordt opgenomen voor de organisatie van een zomerschool als vermeld in artikel 5, § 2, ontvangt het lokaal bestuur dat de regierol opneemt, naast het forfaitaire subsidiebedrag, vermeld in het eerste lid, een forfaitair subsidiebedrag van maximaal 20 euro per deelnemende leerling per zomerschool voor de kosten die verbonden zijn aan het opnemen van de regierol.<br>
+Als een regierol wordt opgenomen voor de organisatie van een zomerschool als vermeld in artikel 5, § 2, ontvangt het lokaal bestuur dat de regierol opneemt, naast het subsidiebedrag, vermeld in het eerste lid, een subsidiebedrag van maximaal 20 euro per deelnemende leerling per zomerschool voor de kosten die verbonden zijn aan het opnemen van de regierol.<br>
 <br>
-Een organiserende onderwijsinstelling die geen beroep doet op een regierol van een lokaal bestuur, ontvangt naast het forfaitaire subsidiebedrag, vermeld in het eerste lid, een forfaitair subsidiebedrag van maximaal 5 euro per deelnemende leerling per zomerschool voor de overheadkosten.<br>
+Een organiserende onderwijsinstelling die geen beroep doet op een regierol van een lokaal bestuur, ontvangt naast het subsidiebedrag, vermeld in het eerste lid, een&nbsp; subsidiebedrag van maximaal 5 euro per deelnemende leerling per zomerschool voor de overheadkosten.<br>
+<br>
+Met toepassing van artikel 75, eerste lid, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019 en artikel 11, tweede lid, van de wet van 16 mei 2003 betreffende de algemene bepalingen inzake begrotingen, controle op subsidies en boekhouding van de gemeenschappen en gewesten, alsook voor de organisatie van de controle door het Rekenhof, ontvangen het lokaal bestuur dat de regierol, vermeld in het derde lid, opneemt en de organiserende onderwijsinstelling die geen beroep doet op een regierol van een lokaal bestuur respectievelijk het subsidiebedrag om die regierol op te nemen en het subsidiebedrag voor de overheadkosten, vermeld in het vierde lid, zonder dat verantwoording hoeft te worden verstrekt over de aanwending ervan.<br>
 <br>
 § 3. Als organisatoren van een zomerschool onderling samenwerken of samenwerken met andere instellingen of organisaties, of in het kader van de regierol, kunnen de betrokken organisatoren, instellingen of organisaties onderling afspraken maken over de interne verdeling en besteding van de subsidiebedragen, vermeld in paragraaf 2.<br>
 <br>
