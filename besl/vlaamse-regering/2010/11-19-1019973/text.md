@@ -134,7 +134,7 @@ d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als 
 8) klimaat;<br>
 9) landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en archeologie;<br>
 e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;<br>
-f) airco-energiedeskundige: deskundige voor het uitvoeren van keuringen aan airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, van titel II van het VLAREM;<br>
+f) airco-energiedeskundige: deskundige voor het uitvoeren van keuringen aan airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, van titel II van het VLAREM;<br>
 g) MER-coördinator: deskundige die het opstellen van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid coördineert;<br>
 h) deskundige overstromingsattest: deskundige voor het opstellen van een overstromingsattest als vermeld in artikel 8/2 van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° technici :<br>
@@ -156,7 +156,7 @@ b) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake 
 c) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale&nbsp;stooktoestellen;<br>
 d) ...;<br>
 e) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de controle en het onderhoud van stookolietanks, vermeld in artikel 6.5.6.4 van titel II van het VLAREM;<br>
-f) voor het uitreiken van het certificaat van bekwaamheid en bijscholing voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, van titel II van het VLAREM;<br>
+f) voor het uitreiken van het certificaat van bekwaamheid en bijscholing voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW, vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, van titel II van het VLAREM;<br>
 g) voor het verstrekken van de aanvullende vorming voor bodemsaneringsdeskundigen, vermeld in artikel 8 van het Bodemdecreet;<br>
 h) voor het uitreiken van het certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV en van het actualisatie-examen, vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis,&nbsp;of artikel 6.8.1.1 van titel II van het VLAREM;<br>
 i) voor het uitreiken van het certificaat van bekwaamheid voor brandbeveiligingsapparatuur, vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
@@ -246,7 +246,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de   VR-deskundi
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de airco-energiedeskundige, vermeld in artikel 6, 1°, f) :<br>
 1° een natuurlijke persoon zijn;<br>
 2° voldoen aan minstens een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is gevoegd;<br>
-3° in het bezit zijn van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, f), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 2, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f);<br>
+3° in het bezit zijn van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, f), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/4, § 2, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f);<br>
 4° ...
 
 ### ART 13/2.
@@ -374,7 +374,7 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   opleidings
 
 ### ART. 24/1.
 
-De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW als vermeld in artikel 6, 4°, f) :<br>
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW als vermeld in artikel 6, 4°, f) :<br>
 1° beschikken over degelijke procedures om de opleiding en de bijscholing met het bijhorende examen, vermeld in artikel 43/4, § 1 en § 2, te organiseren, waarbij alleen de personen tot de opleiding worden toegelaten die voldoen aan minstens een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is gevoegd;<br>
 2° het personeel dat belast wordt met het onderricht, beschikt over een erkenning als airco-energiedeskundige als vermeld in artikel 32, § 2, eerste lid, 6° ;<br>
 3° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
@@ -807,12 +807,12 @@ e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of 
 De erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f) :<br>
 1° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
 2° voert de keuring, vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM correct uit en interpreteert de resultaten correct;<br>
-3° bezorgt na iedere keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM, een verslag van de keuring aan de exploitant van het gebouw met het airconditioningsysteem. Het keuringsverslag bevat het resultaat van de keuring, alsook aanbevelingen voor een kostenefficiënte verbetering van de energieprestatie van het gekeurde systeem en, in voorkomend geval, de evaluatie van de aanbevelingen die bij de vorige keuring werden geformuleerd;<br>
+3° bezorgt na iedere keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW als vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM, een verslag van de keuring aan de exploitant van het gebouw met het airconditioningsysteem. Het keuringsverslag bevat het resultaat van de keuring, alsook aanbevelingen voor een kostenefficiënte verbetering van de energieprestatie van het gekeurde systeem en, in voorkomend geval, de evaluatie van de aanbevelingen die bij de vorige keuring werden geformuleerd;<br>
 4° houdt alle gegevens van de keuring op dusdanige wijze bij dat een controle op het verloop van de keuring mogelijk is. Die gegevens en het keuringsverslag worden gedurende ten minste drie jaar bewaard en worden ter beschikking gehouden van de bevoegde afdeling en de keuringsinstelling, vermeld in artikel 58/2;<br>
 5° houdt een overzichtslijst bij van alle keuringen als vermeld in artikel 5.16.3.3, § 3, 4°,&nbsp;van titel II van het VLAREM, die hij in het voorbije kalenderjaar uitgevoerd heeft;<br>
 6° volgt vijfjaarlijks de bijscholing en slaagt voor het bijhorende examen, vermeld in artikel 43/4, 2°, in een erkend opleidingscentrum als vermeld in artikel 6, 4°, f).<br>
 <br>
-Als het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, vermeld in artikel 13/1, 3°, ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, moet de airco-energiedeskundige de bijscholing gevolgd hebben en voor het bijhorende examen geslaagd zijn, vermeld in het eerste lid, van dit artikel, voor hij de erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 6°, kan gebruiken.
+Als het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW, vermeld in artikel 13/1, 3°, ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, moet de airco-energiedeskundige de bijscholing gevolgd hebben en voor het bijhorende examen geslaagd zijn, vermeld in het eerste lid, van dit artikel, voor hij de erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 6°, kan gebruiken.
 
 ### ART 39/2.
 
@@ -1114,7 +1114,7 @@ Het erkende opleidingscentrum, vermeld in paragraaf 1, registreert binnen de maa
 
 ### ART. 43/4.
 
-§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van&nbsp;airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW, vermeld in artikel 6, 4°, f), organiseert de opleiding met het bijhorende examen voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW waarvan de inhoud van de opleiding en de minimale duur van de opleiding en het bijhorende examen worden vastgelegd in bijlage 12, 1°, die bij dit besluit is gevoegd.<br>
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van&nbsp;airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW, vermeld in artikel 6, 4°, f), organiseert de opleiding met het bijhorende examen voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW waarvan de inhoud van de opleiding en de minimale duur van de opleiding en het bijhorende examen worden vastgelegd in bijlage 12, 1°, die bij dit besluit is gevoegd.<br>
 <br>
 De opleiding bestaat uit drie modules :<br>
 1° module 1 : wetgeving;<br>
@@ -1129,7 +1129,7 @@ Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens ze
 <br>
 Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
 <br>
-§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert de bijscholing met het bijhorende examen voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 12, 2°, die bij dit besluit is gevoegd.<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert de bijscholing met het bijhorende examen voor de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 12, 2°, die bij dit besluit is gevoegd.<br>
 <br>
 Het bijhorende examen bestaat uit een oefening met betrekking tot de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, van titel II van het VLAREM.<br>
 <br>
@@ -1137,7 +1137,7 @@ Een persoon is geslaagd voor het examen als hij minstens zeventig procent van de
 <br>
 Het erkende opleidingscentrum verifieert de identiteit van de deelnemer bij het examen aan de hand van een geldig identiteitsbewijs.<br>
 <br>
-§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of van bijscholing inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 12 kW uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing, gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in § 1, respectievelijk § 2.<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of van bijscholing inzake de keuring van airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing, gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in § 1, respectievelijk § 2.<br>
 <br>
 Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de bevoegde afdeling. Een kopie van het uitgereikte certificaat wordt gedurende ten minste vijf jaar bewaard en ter beschikking gehouden van de bevoegde afdeling en de toezichthouder.<br>
 <br>
@@ -2197,20 +2197,7 @@ Een milieudeskundige in de discipline lucht, erkend volgens titel II van het VLA
 
 ### ART. 103/1.
 
-In afwijking van artikel 32, § 2, eerste lid, 6°, wordt tot uiterlijk 1 januari 2016 een persoon die minstens aan een van de volgende voorwaarden voldoet, beschouwd als een erkende airco-energiedeskundige :<br>
-1° een certificaat als vermeld in artikel 14, § 1, 1° en 2°, van het besluit van de Vlaamse Regering van 4 september 2009 inzake de certificering van koeltechnische bedrijven en hun koeltechnici, behaald hebben;<br>
-2° een bachelor in de elektromechanica, afstudeerrichting klimatisering behaald hebben;<br>
-3° een diploma van het secundair onderwijs in koel- en warmtetechnieken, industriële koeltechnieken of koeltechnische installaties behaald hebben;<br>
-4° een van de volgende getuigschriften behaald hebben die erkend zijn door de Vlaamse overheid :<br>
-a) een getuigschrift van technicus klimaatbeheersing - airconditioning;<br>
-b) een getuigschrift van installateur airco- en warmtepompen;<br>
-c) een getuigschrift van koeltechnicus;<br>
-d) een modulegetuigschrift airco;<br>
-5° in het volwassenenonderwijs het diploma van koeltechnicus, het certificaat van aircotechnicus of het certificaat van koeltechnicus behaald hebben;<br>
-6° onderdaan zijn van een lidstaat van de Europese Economische Ruimte en in het bezit zijn van de kwalificatie of erkenning die in het andere gewest of in de andere lidstaat van de Europese Economische Ruimte verplicht is voor de keuring van airconditioningsystemen als vermeld in artikel 15 van Richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (herschikking);<br>
-7° minstens drie jaar aantoonbare ervaring hebben in onderhoud en afregelaspecten van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW.<br>
-<br>
-De persoon is vrijgesteld van de retributie, vermeld in artikel 34, § 9.
+...
 
 ### ART. 103/2.
 
@@ -4521,37 +4508,37 @@ Enig artikel. Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, 
 
 ### BIJLAGE 13.
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Bijlage 13. Bijzondere erkenningsvoorwaarde als vermeld in artikel 13/1, 2°, en toelatingsvoorwaarden voor de opleiding voor het behalen van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 24/1, 1°</p>
+<p>Bijlage 13. Bijzondere erkenningsvoorwaarde als vermeld in artikel 13/1, 2°, en toelatingsvoorwaarden voor de opleiding voor het behalen van het certificaat van bekwaamheid inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 70 kW als vermeld in artikel 24/1, 1°</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Een airco-energiedeskundige als vermeld in artikel 6, 1°, f), voldoet aan minstens een van de volgende voorwaarden:</p>
+<p>Een airco-energiedeskundige als vermeld in artikel 6, 1°, f), voldoet aan minstens een van de volgende voorwaarden:</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">1° een certificaat van categorie I of II als vermeld in artikel 3, lid 2, van verordening nr. 2015/2067 behaald hebben;</p>
+<p>1° een certificaat van categorie I of II als vermeld in artikel 3, lid 2, van verordening nr. 2015/2067 behaald hebben;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">2° een master in de Ingenieurswetenschappen, een master in de Bioingenieurswetenschappen, een master in de Industriële Wetenschappen of een bachelor in de Elektromechanica, afstudeerrichting Klimatisering behaald hebben;</p>
+<p>2° een master in de Ingenieurswetenschappen, een master in de Bioingenieurswetenschappen, een master in de Industriële Wetenschappen of een bachelor in de Elektromechanica, afstudeerrichting Klimatisering behaald hebben;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">3° een diploma van het secundair onderwijs in koel- en warmtetechnieken, industriële koeltechnieken of koeltechnische installaties behaald hebben;</p>
+<p>3° een diploma van het secundair onderwijs in koel- en warmtetechnieken, industriële koeltechnieken of koeltechnische installaties behaald hebben;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">4° een van de volgende door de Vlaamse overheid erkende getuigschriften behaald hebben:</p>
+<p>4° een van de volgende door de Vlaamse overheid erkende getuigschriften behaald hebben:</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">a) een getuigschrift van technicus klimaatbeheersing - airconditioning;</p>
+<p>a) een getuigschrift van technicus klimaatbeheersing - airconditioning;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">b) een getuigschrift van installateur airco- en warmtepompen;</p>
+<p>b) een getuigschrift van installateur airco- en warmtepompen;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">c) een getuigschrift van koeltechnicus;</p>
+<p>c) een getuigschrift van koeltechnicus;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 11.35pt;">d) een modulegetuigschrift airco;</p>
+<p>d) een modulegetuigschrift airco;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">5° in het volwassenenonderwijs het diploma van koeltechnicus, het certificaat van aircotechnicus of het certificaat van koeltechnicus behaald hebben;</p>
+<p>5° in het volwassenenonderwijs het diploma van koeltechnicus, het certificaat van aircotechnicus of het certificaat van koeltechnicus behaald hebben;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">6° onderdaan zijn van een lidstaat van de Europese Economische Ruimte en in het bezit zijn van de kwalificatie of erkenning die in het andere gewest of in de andere lidstaat van de Europese Economische Ruimte verplicht wordt gesteld voor de keuring van airconditioningsystemen als vermeld in artikel 15 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (herschikking);</p>
+<p>6° onderdaan zijn van een lidstaat van de Europese Economische Ruimte en in het bezit zijn van de kwalificatie of erkenning die in het andere gewest of in de andere lidstaat van de Europese Economische Ruimte verplicht wordt gesteld voor de keuring van airconditioningsystemen als vermeld in artikel 15 van richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (herschikking);</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">7° minstens drie jaar aantoonbare ervaring hebben in onderhoud en af regelaspecten van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW.</p>
+<p>7° minstens drie jaar aantoonbare ervaring hebben in onderhoud en af regelaspecten van airconditioningsystemen met een nominaal koelvermogen van meer dan 70 kW.</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="text-align: justify; margin-right: 0cm; margin-left: 0cm;">Een opleidingscentrum als vermeld in artikel 6, 4°, f), laat alleen personen tot de opleiding toe die voldoen aan minstens een van de bovenstaande voorwaarden.</p>
+<p>Een opleidingscentrum als vermeld in artikel 6, 4°, f), laat alleen personen tot de opleiding toe die voldoen aan minstens een van de bovenstaande voorwaarden.</p>
 
 ## [BIJLAGE 14 Lijst met minimumgegevens van het certificaat als vermeld in artikel 43, § 2, artikel 43/1, § 3, artikel 43/2, § 2, (ing. BVR 1 maart 2013, art. 180)] artikel 43/3, § 2, artikel 43/4, § 3, artikel 43/6, § 3, artikel 43/7, § 2, artikel 43/8, § 2, [artikel 43/9, § 2 en artikel 43/10, § 2 (verv. BVR 3 mei 2019, art. 276, I: 1 oktober 2019)]
 
