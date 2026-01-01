@@ -35,6 +35,13 @@ Aan artikel 7.9.1, §1, van het Energiebesluit van 19 november 2010, wordt een v
 &nbsp;&nbsp; &nbsp;<br>
 “Uiterlijk op 1 januari 2026 is de territoriale werking van een energiehuis in overeenstemming met de principes, vermeld in artikel 6 van het Regiodecreet van 3 februari 2023. Artikel 7 van het Regiodecreet van het voormelde decreet is van overeenkomstige toepassing, met dien verstande dat het bevoegde orgaan van een energiehuis de aanvraag tot afwijking indient.”.
 
+### ART 2.
+
+In artikel 3.3.1 van het Onroerenderfgoedbesluit van 16 mei 2014, vervangen bij het besluit van de Vlaamse Regering van 2 september 2022, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 2° vervangen door wat volgt:&nbsp;<br>
+“2° voldoen aan de voorwaarden, vermeld in artikel 6 en 7 van het Regiodecreet van 3 februari 2023;”;<br>
+2° het vierde lid wordt opgeheven.
+
 ### ART 3.
 
 Artikel 2 treedt in werking op 1 januari 2026.
