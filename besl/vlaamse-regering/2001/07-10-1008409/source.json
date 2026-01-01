@@ -2,16 +2,16 @@
   "codex_id": 1008409,
   "title": "Besluit van de Vlaamse Regering van 2001-07-10 houdende subsidieregeling van het loon en van de sociale lasten van personen tewerkgesteld in de gehandicaptensector en wier tewerkstellingskosten voorheen in het stelsel van het derde arbeidscircuit door de overheid gedragen werden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008409/VolledigDocument?datum=2014-10-30",
-  "source_sha256": "0f8814a610b5044d1b39af52b5d4b9ce25e5c97ffcaf66fd65722a2652125a6a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008409/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "5e0109957c55ae00933163892b5ca52bd0c557090d633386de377c143a3bf98b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008409&param=informatie",
-  "as_of": "2014-10-30",
+  "as_of": "2026-01-01",
   "made": "2001-07-10",
   "gazette": "2001-10-10",
   "numac": 2001036092,
   "document_start": null,
   "document_end": null,
-  "in_force": "2014-10-30",
+  "in_force": "2026-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2014-10-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

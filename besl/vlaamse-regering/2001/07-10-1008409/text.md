@@ -56,21 +56,19 @@ Voor de erkende beschutte werkplaatsen wordt voor de toepassing van artikel 8 he
 
 ...
 
-## HOOFDSTUK VI DE REVALIDATIECENTRA EN -DIENSTEN
+## HOOFDSTUK VI ...
 
 ### ART. 12.
 
-Het Fonds neemt het loon ten laste van de werknemers die tewerkgesteld zijn of kunnen tewerkgesteld zijn in de DAC-projecten opgesomd in hoofdstuk IV van de bijlage bij dit besluit.<br>
-<br>
-De in acht genomen weddeschaal is deze die krachtens de kwalificatie van de werknemer van toepassing is overeenkomstig de in de sector geldende loonschalen en klassificatie.
+...
 
 ### ART. 13.
 
-Voor de op de datum van inwerkingtreding van dit besluit door het Fonds erkende revalidatiecentra of -diensten wordt de in artikel 12 bedoelde loonsubsidie toegekend bovenop de door het Fonds verleende onderhoudstoelagen.
+...
 
 ### ART. 14.
 
-De werknemers tewerkgesteld in het DAC project 7786 met het Vlaams Welzijnsverbond als promotor worden toegewezen aan het centrum of de dienst waar zij op 1 januari 2001 tewerkgesteld zijn; de loonsubsidie door het Fonds volgt de regels van artikel 13.
+...
 
 ## HOOFDSTUK VII DIENSTEN VOOR AANGEPAST VERVOER
 
@@ -94,7 +92,7 @@ Het Fonds kent aan de in hoofdstuk V van de bijlage bij dit besluit vermelde ver
 
 ### ART. 18.
 
-De in de artikelen 8, 10, 12, 15, 16 en 17 opgesomde nominatieve subsidies worden ten minste om de vijf jaar geëvalueerd en indien nodig bijgestuurd in functie van de beleidsopties van de Vlaamse regering.<br>
+De in de artikelen 8, 10, 15, 16 en 17 opgesomde nominatieve subsidies worden ten minste om de vijf jaar geëvalueerd en indien nodig bijgestuurd in functie van de beleidsopties van de Vlaamse regering.<br>
 <br>
 Zodra een reglementair kader voor in vorig lid bedoelde nominatieve subsidies wordt vastgesteld, dienen de projecten die van deze subsidies gebruik maken zich in dit kader in te schakelen.
 
@@ -112,4 +110,6 @@ De Vlaamse minister, bevoegd voor de Bijstand aan Personen, is belast met de uit
 
 ### BIJLAGE
 
-<a href="https://www.ejustice.just.fgov.be/mopdf/2001/10/10_2.pdf#page=51">Bijlage 1</a>
+<a href="https://www.ejustice.just.fgov.be/mopdf/2001/10/10_2.pdf#page=51">Bijlage 1</a><br>
+<br>
+* Bij artikel 5 van het&nbsp; besluit van de Vlaamse Regering van 12 december 2025 wordt hoofdstuk IV van de bijlage opgeheven met ingang van 1 januari 2026.
