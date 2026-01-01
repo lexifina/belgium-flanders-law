@@ -371,7 +371,7 @@ De bijzondere regels en voorwaarden voor de toekenning van de financiële middel
 6° het uitbrengen van een jaarlijks rapport voor 1 juni van het volgende jaar betreffende de uitvoering van de beheersovereenkomst gedurende het afgelopen kalenderjaar, en het uitbrengen van andere documenten die jaarlijks, al dan niet ter goedkeuring door de Vlaamse Regering, moeten worden voorgelegd;<br>
 7° de maatregelen bij niet-naleving door een partij van haar verbintenissen die voortvloeien uit de beheersovereenkomst.<br>
 <br>
-§ 2. De Vlaamse Regering kan in de beheersovereenkomst verdere regels bepalen voor de commerciële communicatie die de VRT krachtens artikel 48 kan brengen.
+§ 2. De Vlaamse Regering kan in de beheersovereenkomst verdere regels bepalen voor de commerciële communicatie die de VRT krachtens artikel 48 kan brengen.&nbsp;Als de algemene kamer van de Vlaamse Regulator voor de Media binnen de grenzen van haar bevoegdheden, vermeld in artikel 220, §1, een overtreding door VRT vaststelt van de verdere regels voor commerciële communicatie die met toepassing van dit artikel worden opgenomen in de beheersovereenkomst, kan de algemene kamer de sancties, vermeld in artikel 228, opleggen.
 
 ### ART. 18.
 
@@ -892,7 +892,9 @@ Gesponsorde omroepdiensten en programma's moeten aan de volgende voorwaarden vol
 
 ### ART. 92.
 
-De sponsorvermeldingen op de VRT mogen uitsluitend de naam van de sponsor, de handelsnaam, het logo, het product, de naam van het product, de dienst of de naam van de dienst bevatten. Klank- en beeldherkenningstekens van de sponsor of die verbonden zijn aan de sponsor zijn toegestaan, evenals imago-ondersteunende slogans van de sponsor of zijn producten of diensten.<br /><br />De sponsorvermeldingen mogen uitsluitend ingevoegd worden in het begin en op het einde van het programma of van het programmaonderdeel. De vermelding mag geanimeerd zijn en mag niet langer dan vijf seconden per sponsor en tien seconden in totaal bedragen. Binnen een tijdsbestek van vijf minuten voor en na kinderprogramma's op de televisieomroeporganisatie van de Vlaamse Gemeenschap mag geen sponsorvermelding plaatsvinden.<br /><br />Tijdens sportwedstrijden zijn sponsorvermeldingen op de VRT toegestaan bij het tonen van tijdsaanduidingen en de weergave van de stand.
+De sponsorvermeldingen op VRT mogen uitsluitend ingevoegd worden in het begin en op het einde van het programma of van het programmaonderdeel. De vermelding mag geanimeerd zijn en mag niet langer dan zeven seconden per sponsor en eenentwintig seconden in totaal bedragen. Binnen een tijdsbestek van vijf minuten voor en na kinderprogramma's op de televisieomroeporganisatie van de Vlaamse Gemeenschap mag geen sponsorvermelding plaatsvinden.<br>
+<br>
+Tijdens sportwedstrijden zijn sponsorvermeldingen op de VRT toegestaan bij het tonen van tijdsaanduidingen en de weergave van de stand.
 
 ### ART. 93.
 
@@ -3002,6 +3004,7 @@ De Vlaamse Regulator voor de Media is verantwoordelijk voor, of verleent medewer
 7° het identificeren van ondernemingen met aanmerkelijke marktmacht op de krachtens punt 6° geanalyseerde markten, en het opleggen, indien nodig, van een of meer van de verplichtingen, vermeld in artikel 191;<br>
 8° het in kaart brengen van concentraties in de Vlaamse mediasector inclusief de toestand van de markt voor elektronische communicatie;<br>
 9° het toezicht op de naleving door de openbare omroeporganisatie van de beheersovereenkomst met de Vlaamse Gemeenschap, en het jaarlijks rapporteren daarover aan de Vlaamse Regering;<br>
+9°/0&nbsp;&nbsp; &nbsp;het toezicht op de naleving door de openbare omroeporganisatie van de Vlaamse Gemeenschap van de verdere regels voor commerciële communicatie die met toepassing van artikel 17, §2, worden opgenomen in de beheersovereenkomst en de beteugeling van de inbreuken op die regels;<br>
 9°/1 het verlenen van advies aan de Vlaamse Regering indien de VRT nieuwe diensten of activiteiten wil uitoefenen die niet gedekt zijn door de beheersovereenkomst, zoals bepaald in artikel 18;<br>
 10° het uitvoeren van bijzondere opdrachten die de Vlaamse Regering indien nodig kan toevertrouwen aan de algemene kamer, voor zover die betrekking hebben op de taken, vermeld in punten 1° tot 9°/1.<br>
 11° het nemen van de maatregelen krachtens artikel 192/12, 200, § 1/1, artikel 200/1 en 200/2;<br>
