@@ -27,7 +27,7 @@ Besluit :
 In dit besluit wordt verstaan onder :<br>
 1° aanvraag tot gelijkwaardigheid: de aanvraag tot gelijkwaardigheid voor de eindtermen, de uitbreidingsdoelen Nederlands, de ontwikkelingsdoelen of de specifieke eindtermen, vermeld in artikel 146 van de Codificatie Secundair Onderwijs van 17 december 2010 en artikel 44bis van het decreet basisonderwijs van 25 februari 1997;<br>
 2° bevoegde dienst: het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
-3° inspecteur-generaal : de inspecteur-generaal van de onderwijsinspectie;<br>
+3° ...;<br>
 4° minister: de Vlaamse minister, bevoegd voor het onderwijs.
 
 ### ART 2.
@@ -56,17 +56,17 @@ De commissie van deskundigen brengt aan de minister een advies uit met betrekkin
 
 ### ART 5.
 
-De inspecteur-generaal wijst drie leden van zijn inspectie aan die onderzoeken of de aanvraag tot gelijkwaardigheid ontvankelijk en gelijkwaardig is en die hierover een advies aan de Vlaamse Regering uitbrengen. Minstens één lid is geen lid van de valideringscommissie van de einddoelen waarvoor vervangende einddoelen worden voorgesteld.
+...
 
 ### ART 6.
 
-De aanvrager wordt door de leden van de inspectie die zijn aanvraag onderzoeken en door de commissie van deskundigen gehoord. Hij wordt daarvoor minstens vijf dagen op voorhand opgeroepen. De voormelde termijn kan in spoedeisende gevallen ingekort worden.<br>
+De aanvrager wordt door de bevoegde dienst die zijn aanvraag onderzoekt en door de commissie van deskundigen gehoord. Hij wordt daarvoor minstens vijf dagen op voorhand opgeroepen. De voormelde termijn kan in spoedeisende gevallen ingekort worden.<br>
 <br>
-De aanvrager kan aan de leden van de inspectie en van de commissie van deskundigen alle aanvullende stukken toesturen, op eigen initiatief of op verzoek van die instanties.
+De aanvrager kan aan de bevoegde dienst en de commissie van deskundigen alle aanvullende stukken toesturen, op eigen initiatief of op verzoek van die instanties.
 
 ### ART 7.
 
-De minister legt een voorstel van beslissing voor aan de Vlaamse Regering, op basis van de adviezen van de leden van de onderwijsinspectie en van de commissie van deskundigen.
+De minister legt een voorstel van beslissing voor aan de Vlaamse Regering, op basis van de adviezen van de bevoegde dienst en van de commissie van deskundigen.
 
 ### ART 8.
 
