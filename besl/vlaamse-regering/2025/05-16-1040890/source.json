@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040890,
+  "title": "Besluit van de Vlaamse Regering van 2025-05-16 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie en het besluit van de Vlaamse Regering van 24 juli 2009 tot organisatie van de kabinetten van de leden van de Vlaamse Regering, wat betreft de actualisering van de beleidsvelden en inhoudelijke structuurelementen binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040890/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "2bcfe3dcbc51f1f53ac9a096fcd98864fcb0cecbefca16385fd202e9cacbcfd7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040890&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-05-16",
+  "gazette": "2025-06-02",
+  "numac": 2025004162,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
