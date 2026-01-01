@@ -39,6 +39,16 @@ In artikel 6.2/1.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaam
 “Voor groenestroomproductie-installaties die groene stroom produceren uit windenergie met een startdatum vanaf 1 januari 2026 tot en met 31 december 2029 is de maximale bandingfactor gelijk aan 0,4. Voor groenestroomproductie-installaties die groene stroom produceren uit windenergie met een startdatum vanaf 1 januari 2030 is de maximale bandingfactor gelijk aan 0.”<br>
 3° in het twaalfde lid, dat het dertiende lid wordt, worden de woorden “vermeldt in het zevende en achtste lid” vervangen door de woorden “vermeld in het elfde en twaalfde lid”.
 
+### ART 3.
+
+In artikel 6.2/1.2, eerste lid, 2° van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012, vervangen bij het besluit van de Vlaamse Regering van 15 december 2017 en het gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2018 en 11 december 2020, worden de volgende wijzigingen aangebracht:<br>
+1° punt a) wordt opgeheven;<br>
+2° in punt b) wordt de zinsnede “vanaf 2,5 MWe” vervangen door de zinsnede “groter dan 300 kWe”;<br>
+3° er wordt een punt c) toegevoegd, dat luidt als volgt:<br>
+“c) nieuwe installaties met betrekking tot windenergie op land, met een bruto nominaal vermogen per turbine groter dan 4,5 MWe tot en met 7,5 MWe:<br>
+1) waarbij het project voorziet in burgerparticipatie;<br>
+2) andere projecten;”.
+
 ### ART 4.
 
 In artikel 6.2/1.7, §1, eerste lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2022, wordt de zinsnede “4,5 MWe” telkens vervangen door de zinsnede “7,5 MWe”.&nbsp;
@@ -198,6 +208,18 @@ In artikel 7.4.3 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse
 In artikel 7.11.3, paragraaf 4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2018 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 juni 2023, worden de volgende wijzigingen aangebracht:<br>
 1° de woorden “bezorgt de begunstigde de borg digitaal” worden vervangen door de woorden “stelt de begunstigde de borg en bezorgt deze digitaal”;<br>
 2° de woorden “Als de aanvrager het gevraagde bewijs niet bezorgt” worden vervangen door de woorden “Als de aanvrager de borg niet stelt”.
+
+### ART 14.
+
+In bijlage III/1, punt 3 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2020, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt punt a) opgeheven;<br>
+2° in punt 2°, b), wordt de zinsnede “vanaf 2,5 MWe” telkens vervangen door de zinsnede “groter dan 300 kWe”;<br>
+3° aan punt 2° wordt een punt c) toegevoegd, dat luidt als volgt:<br>
+“c) cat. 4/2a: nieuwe installaties met betrekking tot windenergie op het land, met een bruto nominaal vermogen per turbine groter dan 4,5 MWe tot en met 7,5 MWe, waarbij het project voorziet in burgerparticipatie;<br>
+cat. 4/2b: nieuwe installaties met betrekking tot windenergie op het land, met een bruto nominaal vermogen per turbine groter dan 4,5 MWe tot en met 7,5 MWe die niet vallen onder cat. 4/2a;”;<br>
+4° in de tabel wordt de zinsnede “cat. 4a” vervangen door de zinsnede “cat. 4/1a en 4/2a”;<br>
+5° in de tabel wordt de zinsnede “cat. 4b” vervangen door de zinsnede “cat. 4/1b en 4/2b”;<br>
+6° na de woorden “binnen de vermogensvork van de betreffende projectcategorie vallen” wordt de zinsnede “, of bij gebrek aan voldoende data, zo dicht mogelijk bij de vermogensvork” toegevoegd.
 
 ### ART 15.
 
