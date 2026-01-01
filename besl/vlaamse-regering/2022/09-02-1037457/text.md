@@ -111,6 +111,70 @@ Artikel 3.2.17 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 <br>
 "Artikel 3.2.17. Als de erkenning van een onroerenderfgoedgemeente wordt ingetrokken, behandelt de gemeente de ontvankelijke meldingen, vergunnings- en toelatingsaanvragen die voor de kennisgeving van de intrekking van de erkenning zijn ingediend, overeenkomstig artikel 4.1.10, 5.4.6, 5.4.8, 5.4.12, 5.4.16 en 6.4.4, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013.".
 
+### ART 11.
+
+In artikel 3.3.1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 14 december 2018, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Een intergemeentelijk samenwerkingsverband kan een aanvraag tot erkenning als intergemeentelijke onroerenderfgoeddienst indienen als het voldoet aan al de volgende voorwaarden:<br>
+1° opgericht zijn conform het decreet van 22 december 2017 over het lokaal bestuur;<br>
+2° voldoen aan de toepasselijke regelgeving en afbakeningen van de referentieregio's;<br>
+3° voldoen aan één van de volgende voorwaarden:<br>
+a) minstens 100.000 inwoners tellen die ingeschreven zijn in het bevolkingsregister van de gemeenten die deel uitmaken van het werkingsgebied van de intergemeentelijke onroerenderfgoeddienst;<br>
+b) een werkingsgebied van minstens 250 km<sup>2</sup> omvatten. Als de oppervlakte van de bijbehorende referentieregio minder dan 500 km<sup>2</sup> bedraagt, volstaat het dat het werkingsgebied van de intergemeentelijke onroerenderfgoeddienst minstens 50% van de oppervlakte van de referentieregio omvat.".
+
+### ART 12.
+
+Artikel 3.3.2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.3.2. Een intergemeentelijk samenwerkingsverband kan erkend worden en erkend blijven als intergemeentelijke onroerenderfgoeddienst als het voldoet aan al de volgende voorwaarden:<br>
+1° het beschikt over een gezamenlijke omgevingsanalyse;<br>
+2° het beschikt over een gezamenlijke onderbouwde beleidsvisie die aan al de volgende voorwaarden voldoet:<br>
+a) ze is complementair aan het Vlaamse onroerenderfgoedbeleid;<br>
+b) ze beoogt het behoud, het gebruik en de herbestemming van het onroerend erfgoed dat op het grondgebied ligt van de aangesloten gemeenten;<br>
+c) ze is integraal;<br>
+d) ze is geïntegreerd;<br>
+e) ze houdt rekening met de noden van de gemeenschap;<br>
+3° het creëert draagvlak voor de gezamenlijke beleidsvisie voor onroerend erfgoed;<br>
+4° het beschikt over de nodige expertise voor een kwalitatieve opmaak en uitvoer van zijn beleidsvisie voor onroerend erfgoed. Het bouwt met het oog op expertiseverwerving een consultatienetwerk uit met relevante diensten en organisaties die betrokken zijn bij de zorg voor het onroerend erfgoed.".
+
+### ART 13.
+
+Aan artikel 3.3.4 van hetzelfde besluit wordt voor het eerste lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"Het agentschap kan over de aanvraag tot erkenning van de intergemeentelijke onroerenderfgoeddienst het advies van de Commissie inwinnen. De Commissie bezorgt haar advies aan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesvraag. Als er niet tijdig advies wordt verleend, wordt aan de adviesvraag voorbijgegaan.".
+
+### ART 14.
+
+In artikel 3.3.5 van hetzelfde besluit wordt de zin "De minister kan het advies van de Commissie inwinnen." opgeheven.
+
+### ART 15.
+
+Artikel 3.3.9 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 14 december 2018 wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.3.9. De erkende intergemeentelijke onroerenderfgoeddienst rapporteert over de uitvoering van zijn onroerenderfgoedbeleidsplan uiterlijk op 30 april van het tweede en het vijfde jaar van de lokale beleidscyclus, behalve als de aanvraag tot erkenning het jaar voordien werd ingediend.<br>
+<br>
+Als de erkende intergemeentelijke onroerenderfgoeddienst een samenwerkingsovereenkomst als vermeld in artikel 10.1.1 heeft afgesloten, rapporteert de erkende intergemeentelijke onroerenderfgoeddienst, in afwijking van het eerste lid, conform de termijnen bepaald in die samenwerkingsovereenkomst.".
+
+### ART 16.
+
+In artikel 3.3.10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, worden de zinsnede "na de ontvangst van de rapportering of bij gebrek aan rapportering binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum" vervangen door de zinsnede "na de uiterste rapportagedatum vermeld in artikel 3.3.9".
+
+### ART 17.
+
+In artikel 3.3.14 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "de beslissing van de minister over de intrekking of aanpassing van de erkenning of de opheffing van de schorsing" vervangen door de zinsnede "de beslissingen, vermeld in artikel 3.3.12, vierde lid en artikel 3.3.13";<br>
+2° in het tweede lid worden tussen het woord "en" en de woorden "de schorsing" de woorden "in voorkomend geval" ingevoegd.
+
+### ART 18.
+
+In artikel 3.3.17 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 december 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid worden de woorden "de erkenningsvoorwaarden" vervangen door de zinsnede "de voorwaarden vermeld in artikel 3.3.1 en 3.3.2";<br>
+2° er worden een vierde en vijfde lid toegevoegd, die luiden als volgt:<br>
+"Als door een wijziging van zijn samenstelling de erkende intergemeentelijke onroerenderfgoeddienst niet meer voldoet aan de voorwaarde vermeld in artikel 3.3.1, eerste lid, 3°, blijft de erkenning, in afwijking van het derde lid, nog gelden voor twee jaar vanaf de wijziging van de samenstelling, als al de volgende voorwaarden zijn vervuld:<br>
+1° met uitzondering van de voormelde voorwaarde, zijn alle andere voorwaarden vermeld in artikel 3.3.1 en 3.3.2 vervuld;<br>
+2° de erkende intergemeentelijke onroerenderfgoeddienst kan aantonen dat hij binnen twee jaar opnieuw kan voldoen aan de voorwaarde vermeld in artikel 3.3.1, eerste lid, 3°.<br>
+Na afloop van de termijn van twee jaar vermeld in het vierde lid wordt de erkenning ingetrokken conform artikel 3.3.14 en 3.3.15 als de intergemeentelijke onroerenderfgoeddienst op dat moment nog altijd niet voldoet aan al de voorwaarden vermeld in artikel 3.3.1 en 3.3.2.".
+
 ### ART 19.
 
 Aan artikel 3.4.5 van hetzelfde besluit wordt een tweede lid toegevoegd dat luidt als volgt:<br>
@@ -319,6 +383,68 @@ In artikel 6.5.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse
 2° er worden een punt 6° en 7° toegevoegd, die luiden als volgt:<br>
 "6° de beslissingen over aanvragen tot het verkrijgen van een toelating voor handelingen aan een onroerend goed dat is opgenomen in een vastgestelde inventaris als vermeld in artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 7° de adviezen vermeld in artikel 4.2.14 van dit besluit over handelingen aan een onroerend goed dat is opgenomen in een vastgestelde inventaris als vermeld in artikel 4.1.1, eerste lid, 3° of 4°, van het Onroerenderfgoeddecreet van 12 juli 2013.".
+
+### ART 46.
+
+In artikel 10.1.2, tweede lid van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt de zinsnede "vanaf 1 januari tot uiterlijk 1 juli" vervangen door de zinsnede "uiterlijk op 15 januari".
+
+### ART 47.
+
+In artikel 10.1.3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018 worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst moet een intergemeentelijke onroerenderfgoeddienst:<br>
+1° erkend zijn overeenkomstig artikel 3.3.5;<br>
+2° aantonen dat de gemeenten die lid zijn van de intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst jaarlijks gezamenlijk minstens eenzelfde bedrag als de Vlaamse subsidie bijdragen aan de werking van de intergemeentelijke onroerenderfgoeddienst.";<br>
+2° in het tweede lid wordt de zinsnede "artikel 13, 1° " vervangen door de zinsnede "artikel 13, eerste lid, 1° ".
+
+### ART 48.
+
+In artikel 10.1.5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"De subsidieaanvraag bevat minstens de volgende elementen:<br>
+1° een actueel onroerenderfgoedbeleidsplan. Dat onroerenderfgoedbeleidsplan richt zich op de volledige looptijd van de samenwerkingsovereenkomst en omvat ook een actuele omgevingsanalyse;<br>
+2° een meerjarenbegroting waarin alle verwachte kosten en opbrengsten van de erkende intergemeentelijke onroerenderfgoeddienst opgenomen zijn, met vermelding van de bijdragen van de gemeenten die ervan deel uitmaken, vermeld in artikel 10.1.3, eerste lid, 2° ;<br>
+3° een document waarin minstens al de volgende vragen worden beantwoord:<br>
+a) welke expertise binnen de erkende intergemeentelijke onroerenderfgoeddienst aanwezig is;<br>
+b) welke initiatieven voor draagvlakverbreding worden genomen;<br>
+c) in voorkomend geval, op welke wijze de ondersteuning van erkende onroerenderfgoedgemeenten binnen het werkingsgebied zal worden aangepakt.".
+
+### ART 49.
+
+In artikel 10.1.8 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 14 december 2018 wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Uiterlijk op 30 april van het jaar waarin de ontvankelijke subsidieaanvraag is ingediend, beslist de minister over de toekenning van de subsidie.".
+
+### ART 50.
+
+In artikel 10.1.9 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de datum "15 oktober" vervangen door de datum "1 november";<br>
+2° in het tweede lid wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+"6° de uiterste indieningsdata voor het tussentijds inhoudelijk rapport en het inhoudelijk eindrapport vermeld in artikel 10.1.13".
+
+### ART 51.
+
+Artikel 10.1.10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 10.1.10. De jaarlijkse subsidie bedraagt 120.000 euro en omvat personeelsmiddelen voor eigen personeel.".
+
+### ART 52.
+
+In artikel 10.1.11 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt de zinsnede "70%" vervangen door de zinsnede "80%";<br>
+2° in het punt 2° wordt het woord "toezicht" vervangen door de woorden "toezicht op de aanwending van de subsidie".
+
+### ART 53.
+
+In artikel 10.1.12, tweede lid van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt de zinsnede "voor 31 mei" vervangen door de zinsnede "uiterlijk op 30 april".
+
+### ART 54.
+
+In artikel 10.1.13 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2018, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"De erkende intergemeentelijke onroerenderfgoeddienst bezorgt de volgende documenten aan het agentschap voor de evaluaties vermeld in het eerste lid:<br>
+1° een tussentijds inhoudelijk rapport;<br>
+2° een inhoudelijk eindrapport.".
 
 ### ART 55.
 
