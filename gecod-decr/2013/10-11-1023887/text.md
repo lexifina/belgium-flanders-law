@@ -671,7 +671,16 @@ De Vlaamse Regering kan met inachtname van artikel 1.2 van het verdrag tussen he
 
 De Vlaamse Regering financiert, binnen de perken van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003 en van de Vlaamse begroting, de werking van de accreditatieorganisatie.<br>
 <br>
-De accreditatieorganisatie kan het gedeelte van de toegekende financiële ondersteuning dat de aanvaarde kosten overschrijdt, aanwenden voor de aanleg van reserves van maximaal 20% van het maximale jaarlijkse subsidiebedrag. De totale gecumuleerde reserves mogen maximaal 50% van het maximale jaarlijkse subsidiebedrag bedragen. De accreditatieorganisatie rapporteert jaarlijks over de reservevorming.
+De accreditatieorganisatie kan het gedeelte van de toegekende financiële ondersteuning dat de aanvaarde kosten overschrijdt, aanwenden voor de aanleg van reserves van maximaal 20% van het maximale jaarlijkse subsidiebedrag. De totale gecumuleerde reserves mogen maximaal 50% van het maximale jaarlijkse subsidiebedrag bedragen. De accreditatieorganisatie rapporteert jaarlijks over de reservevorming.<br>
+<br>
+In het begrotingsjaar 2026 wordt 500.000 euro toegevoegd aan de financiële onder-steuning om de werkingskosten voor het werkingsjaar 2026 te bekostigen.
+
+### ART II.29/3.
+
+Ter uitvoering van artikel 15, derde lid, van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003, financiert de Vlaamse Regering, binnen de perken van de Vlaamse begroting, de ondersteunende of de aanvullende opdrachten, vermeld in artikel 1, tweede lid, van het voormelde verdrag, die de Vlaamse Regering als enige Verdragsluitende Partij aan de accreditatieorganisatie opdraagt.<br>
+<br>
+De accreditatieorganisatie rapporteert, inhoudelijk en financieel, over elke aanvullende opdracht die de Vlaamse Regering heeft opgedragen. De accreditatieorganisatie kan het gedeelte van de toegekende financiering voor een aanvullende opdracht dat de aanvaarde kosten overschrijdt, niet aanwenden voor de aanleg van reserves.<br>
+&nbsp;
 
 ### ART. II.30.
 
@@ -5459,37 +5468,133 @@ b)&nbsp;&nbsp;&nbsp; een of meer opleidingsonderdelen die behoren tot 1 of meer 
 c)&nbsp;&nbsp;&nbsp; een schakelprogramma of een voorbereidingsprogramma voorafgaand aan een initiële masteropleiding;<br>
 d)&nbsp;&nbsp;&nbsp; een of meer opleidingen in het hoger beroepsonderwijs, opgenomen in het Hogeronderwijsregister;<br>
 e)&nbsp;&nbsp;&nbsp; een of meer opleidingsonderdelen die behoren tot 1 of meer opleidingen in het hoger beroepsonderwijs;<br>
-2°&nbsp;&nbsp; nationaliteit : studenten komen alleen in aanmerking als ze aan 1 van de volgende voorwaarden beantwoorden :<br>
-a)&nbsp;&nbsp;&nbsp; ze zijn onderdaan van een lidstaat van de Europese Economische Ruimte;<br>
-b)&nbsp;&nbsp;&nbsp; ze zijn toegelaten of gemachtigd tot een verblijf van onbeperkte duur in België, zoals bepaald bij de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-c)&nbsp;&nbsp;&nbsp; ze zijn slachtoffer van mensenhandel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel;<br>
-d)&nbsp;&nbsp;&nbsp; ze zijn student met een buitenlandse nationaliteit die toegelaten of gemachtigd zijn tot een verblijf van bepaalde duur in België op basis van artikel 48/4 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-e)&nbsp;&nbsp;&nbsp; ze verblijven op 31 december van het betrokken academiejaar gedurende een onafgebroken periode van minstens 12 maanden wettig in België, en dit wettig verblijf werd niet verleend om in België hoger onderwijs te volgen of te werken, noch werd het verleend in afwachting van een uitspraak in een asielprocedure om erkend te worden als vluchteling of als persoon die recht heeft op de subsidiaire bescherming, overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-f)&nbsp;&nbsp;&nbsp;&nbsp; ze hebben op basis van de artikelen 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating gekregen om een persoon, zoals bedoeld in §1 of §2, 1° tot en met 7°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, of een persoon die op 31 december van het betrokken academiejaar minstens 12 maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of te vervoegen;<br>
-g)&nbsp;&nbsp;&nbsp; ze zijn onderhorige van de landen die met België of de Vlaamse Gemeenschap een cultureel akkoord hebben gesloten, en ze hebben, binnen het kader en de grenzen van het cultureel akkoord, een studiebeurs gekregen van de Vlaamse Gemeenschap;<br>
-h)&nbsp;&nbsp; ze zijn kandidaat vluchteling of hun ouders zijn kandidaat vluchteling en de student verblijft al van zijn minderjarigheid in België en heeft niet zelf een asielaanvraag ingediend. De asielaanvraag werd ontvankelijk verklaard voor 1 juni 2007 en hun procedure is nog lopende bij het Commissariaat-generaal voor de Vluchtelingen en de Staatslozen, bij de Vaste Beroepsommissie voor Vluchtelingen, of bij de Raad voor Vreemdelingenbetwistingen;<br>
-i)&nbsp;&nbsp;&nbsp;&nbsp; het zijn andere personen dan de personen vermeld in a) tot en met h), en andere personen dan de personen die ten laste zijn van de nationale kredieten voor ontwikkelingssamenwerking zonder dat:<br>
-1)&nbsp;&nbsp;&nbsp; het aantal studiepunten gegenereerd door die buitenlandse studenten onder diplomacontract, meer bedraagt dan 2% van het totale aantal studiepunten voor de berekening van de onderwijssokkel, zoals bepaald in artikel III.7, voor die hogeschool of universiteit;<br>
-2)&nbsp;&nbsp;&nbsp; het aantal financieringspunten gegenereerd door die buitenlandse studenten onder diplomacontract, meer bedraagt dan 2% van het totale aantal financieringspunten, berekend zoals bepaald in artikel III.11, §2, in de hogeschool of universiteit.<br>
-j) ze zijn vreemdeling die tijdelijke bescherming genieten op basis van de richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen of hun ouders genieten van deze bescherming en de student verblijft al van zijn minderjarigheid in België.<br>
-Voor de berekening van de financiering wordt rekening gehouden met de categorie waartoe de betrokkene behoort op het ogenblik van de inschrijving in het betreffende academiejaar;<br>
-3°&nbsp;&nbsp; leerkrediet : in een initiële bachelor- en masteropleiding komen studenten alleen in aanmerking als ze een positief leerkrediet hebben.</p>
+2° nationaliteit: studenten komen alleen in aanmerking als ze voldoen aan een van de voorwaarden, vermeld in artikel II.215, eerste lid, 1° tot en met 9°;<br>
+3°&nbsp;&nbsp; leerkrediet : in een initiële bachelor- en masteropleiding komen studenten alleen in aanmerking als ze een positief leerkrediet hebben.<br>
+<br>
+§2. In afwijking van paragraaf 1, punt 2°, wordt voor de transnationale Universiteit Limburg conform artikel 7 van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg, ondertekend in Maastricht op 18 januari 2001, enkel rekening gehouden met:<br>
+1°&nbsp;&nbsp; de studenten die de Belgische nationaliteit bezitten;<br>
+2°&nbsp;&nbsp; de studenten met een andere nationaliteit dan de Belgische of de Nederlandse, die pro rata aangerekend worden aan elk van de verdragsluitende partijen volgens de aantallen studenten die respectievelijk de Nederlandse en de Belgische nationaliteit bezitten.<br>
+<br>
+Voor de bepaling van die aantallen wordt rekening gehouden met de nationaliteit van de betrokkenen op het ogenblik van de inschrijving voor het academiejaar in kwestie.<br>
+<br>
+§3. De toepassing van de volgende zinsnede in paragraaf 1, punt 2°, i), “en andere personen dan de personen die ten laste zijn van de nationale kredieten voor ontwikkelingssamenwerking”, wordt opgeschort, vanaf het begrotingsjaar 2013 tot en met het begrotingsjaar 2018.<br>
+<br>
+§4. In paragraaf 4 en 5 wordt verstaan onder<br>
+1° niet-EER-student: een student die geen onderdaan van een lidstaat van de Europese Economische Ruimte is;<br>
+2° een anderstalige opleiding: een initiële opleiding of een bachelor-na-bacheloropleiding die als anderstalige opleiding opgenomen is in de lijst, vermeld in artikel II.170, §2.<br>
+<br>
+Vanaf begrotingsjaar 2027 wordt de financierbaarheid van niet-EER-studenten die niet behoren tot de categorieën, vermeld in artikel II.215, eerste lid, 2° tot en met 9°, beperkt door een bedrag in mindering te brengen van de werkingsuitkeringen van universiteiten en hogescholen.<br>
+<br>
+Dit bedrag wordt berekend door het percentage van opgenomen studiepunten van niet-EER-studenten die niet behoren tot de categorieën, vermeld in artikel II.215, 2° tot en met 9°, in die mate dat het boven de 2% ligt per instelling en per finaliteit, toe te passen op de financieringspunten voor de variabele onderwijsdelen, vermeld in artikel III.11, per finaliteit en per instelling. Vervolgens worden deze financieringspunten vermenigvuldigd met de gemiddelde waarde per financieringspunt en per finaliteit. Dit bedrag wordt in mindering gebracht van de werkingsuitkeringen per instelling.<br>
+<br>
+Om het percentage opgenomen studiepunten van niet-EER-studenten voor het begrotingsjaar t vast te stellen wordt het gemiddelde aantal opgenomen studiepunten in aanmerking genomen van niet-EER-studenten die niet behoren tot de categorieën, vermeld in artikel II.215, eerste lid, 2° tot en met 9°, over de academiejaren t-7/t-6 tot en met t-3/t-2, en die zich in de desbetreffende instelling hebben ingeschreven onder een diplomacontract, voor een initiële bachelor- of masteropleiding, voor een bachelor-na-bacheloropleiding, voor een schakelprogramma of voorbereidingsprogramma voorafgaand aan een initiële masteropleiding of voor een graduaatsopleiding, waarvoor het gemiddeld aantal opgenomen studiepunten over de academiejaren t-5/t-4 tot en met t-3/t-2 in aanmerking wordt genomen. Het aantal opgenomen studiepunten in een bachelor-na-bacheloropleiding wordt vermenigvuldigd met een factor 0,5.<br>
+<br>
+De instellingen houden de verantwoordingsstukken van de niet-EER-studenten die behoren tot de categorieën, vermeld in artikel II.215, eerste lid, 2° tot en met 9°, ter beschikking voor de regeringscommissarissen, die daarop een controle uitvoeren en die het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, daarvan jaarlijks op de hoogte brengen vóór 31 maart van begrotingsjaar t-1.<br>
+&nbsp;<br>
+Om de financiering te berekenen, wordt rekening gehouden met de categorie waartoe de betrokkene behoort op 31 december in het academiejaar in kwestie.<br>
+<br>
+§5. Voor het begrotingsjaar 2026 wordt de financierbaarheid van niet-EER-studenten beperkt door een bedrag in mindering te brengen bij de werkingsuitkeringen van de universiteiten en hogescholen.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, bestaat uit twee delen. Het eerste deel van het bedrag wordt berekend door het percentage van opgenomen studiepunten van niet-EER-studenten in een anderstalige opleiding, in die mate dat het boven de 2% ligt per instelling en per finaliteit, toe te passen op de financieringspunten voor de variabele onderwijsdelen, vermeld in artikel III.11, per finaliteit en per instelling. Vervolgens worden deze financieringspunten vermenigvuldigd met de gemiddelde waarde per financieringspunt en per finaliteit. Dit bedrag wordt in mindering gebracht van de werkingsuitkeringen per instelling.<br>
+<br>
+Om het percentage opgenomen studiepunten van niet-EER-studenten in een anderstalige opleiding voor het begrotingsjaar t vast te stellen, wordt het gemiddelde aantal opgenomen studiepunten van niet-EER-studenten in een anderstalige opleiding in aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2 die zich in de desbetreffende instelling hebben ingeschreven onder een diplomacontract voor een initiële anderstalige bachelor- of masteropleiding of een anderstalige bachelor-na-bacheloropleiding. Het aantal opgenomen studiepunten in een bachelor-na-bacheloropleiding wordt vermenigvuldigd met een factor 0,5.<br>
+<br>
+Het tweede deel van het bedrag, vermeld in het eerst lid, bestaat uit een compensatie van 10.300.000 euro, als compensatie van de niet EER-studenten in een Nederlandstalige opleiding. Dit bedrag wordt in het begrotingsjaar 2026 verminderd van de totale werkingsuitkeringen van de hogescholen en universiteiten, volgens de volgende verdeling:<br>
+<br>
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>§2. In afwijking van paragraaf 1, punt 2°, wordt voor de transnationale Universiteit Limburg conform artikel 7 van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg, ondertekend in Maastricht op 18 januari 2001, enkel rekening gehouden met:</p>
-
-<p>1°&nbsp;&nbsp; de studenten die de Belgische nationaliteit bezitten;</p>
-
-<p>2°&nbsp;&nbsp; de studenten met een andere nationaliteit dan de Belgische of de Nederlandse, die pro rata aangerekend worden aan elk van de verdragsluitende partijen volgens de aantallen studenten die respectievelijk de Nederlandse en de Belgische nationaliteit bezitten.</p>
-
-<p>&nbsp;</p>
-
-<p>Voor de bepaling van die aantallen wordt rekening gehouden met de nationaliteit van de betrokkenen op het ogenblik van de inschrijving voor het academiejaar in kwestie.</p>
-
-<p>&nbsp;</p>
-
-<p>§3. De toepassing van de volgende zinsnede in paragraaf 1, punt 2°, i), “en andere personen dan de personen die ten laste zijn van de nationale kredieten voor ontwikkelingssamenwerking”, wordt opgeschort, vanaf het begrotingsjaar 2013 tot en met het begrotingsjaar 2018.</p>
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:18px; vertical-align:top; width:391px"><strong>Instelling</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:18px; vertical-align:top; width:130px"><strong>bedrag</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Thomas More Mechelen-Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 206.273,14</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Hogeschool West-Vlaanderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 170.171,98</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Arteveldehogeschool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 293.999,01</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Hogeschool Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 363.514,39</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Katholieke Hogeschool Vives Noord</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 84.638,67</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Katholieke Hogeschool Vives Zuid</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 222.805,98</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Odisee</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 231.221,85</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Erasmushogeschool Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 159.475,03</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">UC Leuven</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 202.708,09</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Thomas More Kempen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 179.109,89</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">LUCA School of Arts</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 125.339,97</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Karel de Grote Hogeschool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 291.003,59</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">UC Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 116.678,54</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Hogeschool PXL</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 205.177,25</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Artesis Plantijn Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 323.072,61</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Hogere Zeevaartschool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 17.810,01</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Katholieke Universiteit Leuven</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 2.623.222,19</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Universiteit Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 476.779,18</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Universiteit Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 1.013.584,72</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:391px">Vrije Universiteit Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:18px; vertical-align:top; width:130px">€ 804.517,72</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:391px">Universiteit Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:130px">€ 2.188.896,20</td>
+		</tr>
+	</tbody>
+</table>
 
 ### ART. III.4.
 
@@ -8301,8 +8406,8 @@ De overeenkomst, vermeld in paragraaf 1, tweede lid, bevat ook een regeling indi
 ### ART. III.34.
 
 <p>§1. Voor de hogescholen wordt voorzien in de volgende aanvullende uitkeringen:<br>
-1°&nbsp;&nbsp; een bedrag van 951.960,02 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door de bevoegde dienst van de Vlaamse Gemeenschap. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;<br>
-2°&nbsp;&nbsp; een bedrag van 7.884.245,71 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel III.35. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;<br>
+1° een bedrag van 951.960,02 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die de bevoegde dienst van de Vlaamse Gemeenschap op&nbsp;31 december 1995 rechtstreeks heeft betaald. Het eventuele saldo op het einde van het begrotingsjaar t-2 wordt in het begrotingsjaar t toegevoegd aan het variabel onderwijsgedeelte voor de graduaatsopleidingen VOWhbo aan de hogescholen;<br>
+2° een bedrag van 7.884.245,71 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel III.35. Het eventuele saldo op het einde van het begrotingsjaar t-2 wordt in het begrotingsjaar t toegevoegd aan het variabel onderwijsgedeelte voor de graduaatsopleidingen VOWhbo aan de hogescholen;<br>
 3°&nbsp;&nbsp;...<br>
 4°&nbsp;&nbsp; de bedragen VOWprof 2014 en VOWhko2014 worden verhoudingsgewijs verminderd met de bedragen die nodig zijn om de salariskosten te dekken van hun benoemde personeelsleden die tijdens het voorgaande begrotingsjaar met bevallingsverlof waren en van hun benoemde en tijdelijke personeelsleden die tijdens het voorgaande begrotingsjaar met opvangverlof voor adoptie of pleegvoogdij waren, voor wat de duur van dat bevallings- of opvangverlof betreft.<br>
 5° een bedrag van 200.000 euro voor de compensatie van de meerkost van toegekende anciënniteit aan personeelsleden met diensten in het beperkt leerplan.<br>
@@ -8393,14 +8498,14 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 §4. Het bedrag van VOWprof wordt verminderd met het bedrag voor de financiering van de voortgezette lerarenopleidingen die niet tot bachelor-na-bacheloropleidingen zijn omgevormd. Vanaf het begrotingsjaar 2007 ontvangen de hogescholen die een voortgezette lerarenopleiding organiseren waaruit geen bachelor-na-bacheloropleiding is ontstaan, per in het vorig academiejaar afgeleverd diploma 1944,79 euro. Als het totale bedrag meer dan 317.000,77 euro bedraagt, dan wordt dit bedrag verdeeld over de hogescholen op basis van het aantal in het vorig academiejaar afgeleverde diploma's. Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel III.5.<br>
 <br>
 §5. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van HUB-EHSAL of aan de werkingsuitkering van diens rechtsopvolger:
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-image:none; border:1pt outset #222222; mso-border-alt:outset #222222 .75pt; mso-cellspacing:0cm; mso-padding-alt:2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook:1184">
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; width:123.5pt">
 			<p>Begrotingsjaar 2008</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">390.777,68</p>
+			<p>390.777,68</p>
 			</td>
 		</tr>
 		<tr>
@@ -8408,7 +8513,7 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 			<p>Begrotingsjaar 2009</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">1.451.459,94</p>
+			<p>1.451.459,94</p>
 			</td>
 		</tr>
 		<tr>
@@ -8416,7 +8521,7 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 			<p>Begrotingsjaar 2010</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">1.451.459,94</p>
+			<p>1.451.459,94</p>
 			</td>
 		</tr>
 		<tr>
@@ -8424,7 +8529,7 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 			<p>Begrotingsjaar 2011</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">1.161.167,95</p>
+			<p>1.161.167,95</p>
 			</td>
 		</tr>
 		<tr>
@@ -8432,7 +8537,7 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 			<p>Begrotingsjaar 2012</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">870.875,96</p>
+			<p>870.875,96</p>
 			</td>
 		</tr>
 		<tr>
@@ -8440,7 +8545,7 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 			<p>Begrotingsjaar 2013</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">580.583,98</p>
+			<p>580.583,98</p>
 			</td>
 		</tr>
 		<tr>
@@ -8448,7 +8553,7 @@ Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeen
 			<p>Begrotingsjaar 2014</p>
 			</td>
 			<td style="background-color:transparent; width:3cm">
-			<p style="text-align:right">290.291,99</p>
+			<p>290.291,99</p>
 			</td>
 		</tr>
 	</tbody>
@@ -8862,29 +8967,29 @@ De subsidie, vermeld in het eerste lid, geldt als bijdrage in de personeels- en 
 
 <p>§1. Vanaf het begrotingsjaar 2012 wordt in een bijkomende financiering voorzien voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad en er initiële bachelor- of masteropleidingen organiseren. Die bijkomende financiering bedraagt (uitgedrukt in miljoen euro):</p>
 
-<table class="MsoNormalTable" style="margin: auto auto auto 5.4pt; border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="width: 6cm; height: 6.35pt; background-color: transparent;">
+			<td style="background-color:transparent; height:6.35pt; width:6cm">
 			<p>begrotingsjaar 2012</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 35.45pt; height: 6.35pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:6.35pt; width:35.45pt">
 			<p>1,8</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 6cm; height: 6.35pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:6.35pt; width:6cm">
 			<p>begrotingsjaar 2013</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 35.45pt; height: 6.35pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.35pt; width:35.45pt">
 			<p>3,5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 6cm; height: 6.35pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:6.35pt; width:6cm">
 			<p>vanaf het begrotingsjaar 2014</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 35.45pt; height: 6.35pt; background-color: transparent;">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:6.35pt; width:35.45pt">
 			<p>6,5</p>
 			</td>
 		</tr>
@@ -8910,7 +9015,243 @@ Als basis voor die rapportering maakt de administratie jaarlijks tegen uiterlijk
 <br>
 Tegen 1 januari 2017 wordt er een globale evaluatie gemaakt van de resultaten en effecten van de genomen initiatieven.<br>
 <br>
-§ 3. De bedragen van de bijkomende financiering voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % wordt het bedrag van 250.000 euro dat in 2015 en 2016 in mindering gebracht wordt, in rekening gebracht.</p>
+§ 3. De bedragen van de bijkomende financiering voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % wordt het bedrag van 250.000 euro dat in 2015 en 2016 in mindering gebracht wordt, in rekening gebracht.<br>
+<br>
+§4. De bedragen van de bijkomende financiering voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2026 verminderd van de totale werkingsuitkeringen van de hogescholen en universiteiten, volgens de volgende verdeling:<br>
+&nbsp;</p>
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:98px"><br>
+			<strong>Instelling</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:94px"><strong>begrotings-</strong><strong>jaar 2026</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>begrotings-</strong><strong>jaar 2027</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>begrotings-</strong><strong>jaar 2028</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>begrotings-</strong><strong>jaar 2029</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>vanaf begrotings-</strong><strong>jaar 2030</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:98px">Thomas More Mechelen-Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:94px"><br>
+			€ 211.970</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 158.978</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 105.985</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 52.993</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 0</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:98px"><br>
+			<strong>Instelling</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:94px"><strong>begrotings-</strong><strong>jaar 2026</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>begrotings-</strong><strong>jaar 2027</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>begrotings-</strong><strong>jaar 2028</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>begrotings-</strong><strong>jaar 2029</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:57px; vertical-align:top; width:91px"><strong>vanaf begrotings-</strong><strong>jaar 2030</strong></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:98px">Hogeschool West-Vlaanderen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:94px"><br>
+			€ 174.872</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 131.154</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 87.436</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 43.718</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Artevelde-hogeschool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 302.119</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 226.589</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 151.060</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 75.530</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Hogeschool Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 373.555</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 280.166</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 186.777</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 93.389</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:98px">Katholieke Hogeschool Vives Noord</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:94px"><br>
+			€ 86.976</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 65.232</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 43.488</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 21.744</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:98px">Katholieke Hogeschool Vives Zuid</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:94px"><br>
+			€ 228.960</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 171.720</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 114.480</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 57.240</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:98px">Odisee</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:94px">€ 570.827</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 844.643</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 1.118.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 1.392.276</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 1.666.093</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Erasmushogeschool Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 539.802</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 874.753</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 1.209.705</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 1.544.657</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 1.879.609</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:98px">UC Leuven</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:94px">€ 208.307</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 156.230</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 104.153</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 52.077</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Thomas More Kempen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 184.057</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 138.043</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 92.028</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 46.014</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">LUCA School of Arts</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 239.959</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 318.916</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 397.873</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 476.830</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 555.787</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:75px; vertical-align:top; width:98px">Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:75px; vertical-align:top; width:94px"><br>
+			<br>
+			€ 299.041</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:75px; vertical-align:top; width:91px"><br>
+			<br>
+			€ 224.281</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:75px; vertical-align:top; width:91px"><br>
+			<br>
+			€ 149.521</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:75px; vertical-align:top; width:91px"><br>
+			<br>
+			€ 74.760</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:75px; vertical-align:top; width:91px"><br>
+			<br>
+			€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:98px">UC Limburg</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:94px">€ 119.901</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 89.926</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 59.951</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 29.975</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Hogeschool PXL</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 210.844</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 158.133</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 105.422</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 52.711</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:61px; vertical-align:top; width:98px">Artesis Plantijn Hogeschool Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:61px; vertical-align:top; width:94px"><br>
+			€ 331.996</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:61px; vertical-align:top; width:91px"><br>
+			€ 248.997</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:61px; vertical-align:top; width:91px"><br>
+			€ 165.998</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:61px; vertical-align:top; width:91px"><br>
+			€ 82.999</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:61px; vertical-align:top; width:91px"><br>
+			€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Hogere Zeevaartschool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 18.302</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 13.726</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 9.151</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 4.575</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:98px">Katholieke Universiteit Leuven</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:94px">€ 1.461.289,41</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px">€ 1.461.289,41</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px">€ 1.461.289,41</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px">€ 1.461.289,41</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:46px; vertical-align:top; width:91px"><br>
+			€ 1.461.289</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Universiteit Hasselt</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 426.763,95</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 320.072,97</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 213.381,98</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 106.690,99</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:98px">Universiteit Antwerpen</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:94px">€ 907.257,37</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 680.443,03</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 453.628,69</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 226.814,34</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:32px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:98px">Vrije Universiteit Brussel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:94px">€ 1.723.476,80</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 2.546.801,14</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 3.370.125,47</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 4.193.449,81</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 5.016.774</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:98px">Universiteit Gent</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:94px">€ 1.959.276,01</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 1.469.457,01</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 979.638,00</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 489.819,00</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:38px; vertical-align:top; width:91px">€ 0</td>
+		</tr>
+	</tbody>
+</table>
 
 ### ART. III.41bis.
 
@@ -9971,11 +10312,32 @@ De Vlaamse Regering legt de modaliteiten vast hoe de universiteiten en hogeschol
 
 ### ART. III.73.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   Vlaamse Gemeenschap subsidieert jaarlijks de Initiërende Universiteit zoals   bedoeld in artikel II.5 specifiek ter uitvoering van de opdracht zoals bepaald   in artikel II.22 onder de volgende voorwaarden:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo2"   class=MsoListParagraph>1°&nbsp;&nbsp; De   Initiërende Universiteit sluit een beheersovereenkomst met een looptijd van 5   jaar met de Vlaamse Regering betreffende de werking van het instituut, zoals   bepaald in artikel II.5, waarin ten minste de volgende elementen voorkomen en   worden afgesproken:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo1"   class=MsoNormal>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   het   engagement van de Initiërende Universiteit dat de bij toepassing van dit artikel   toegekende subsidie integraal wordt aangewend ter uitvoering van de opdrachten   van het erkende instituut;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo1"   class=MsoNormal>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   een   beleidsplan voor de looptijd van de beheersovereenkomst;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo1"   class=MsoNormal>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   de   kwantiteit en de kwaliteit van de te leveren prestaties binnen de in artikel   II.22 erkende opdracht, in relatie tot de hoogte van de   subsidie;</P>  <P   style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo1"   class=MsoNormal>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   het   instroomniveau en de wijze van selectie van de studenten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo1"   class=MsoNormal>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   het   uitvoeren van een externe audit en de wijze waarop de instelling omgaat met de   uitkomsten van de audit;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo1"   class=MsoNormal>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   de   mate en de inhoud van samenwerking met binnenlandse en buitenlandse instellingen   voor academisch of postinitieel onderwijs en met internationale   instellingen.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo2"   class=MsoListParagraph>2°&nbsp;&nbsp; De   Initiërende Universiteit legt jaarlijks een afzonderlijke begroting,   jaarrekening en jaarverslag specifiek met betrekking tot de werking van het   instituut, zoals bepaald in artikel II.5, ter goedkeuring voor aan de Vlaamse   Regering. In de beheersovereenkomst worden nadere richtlijnen omtrent de   vormgeving ervan opgenomen.</P>
+<p>De Vlaamse Gemeenschap subsidieert jaarlijks de Universiteit Antwerpen als Initiërende Universiteit van het Instituut voor Joodse Studies als vermeld in artikel<br>
+II.5 specifiek ter uitvoering van de opdracht zoals bepaald in artikel II.22 onder de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; De Initiërende Universiteit sluit een beheersovereenkomst met een looptijd van 5 jaar met de Vlaamse Regering betreffende de werking van het instituut, zoals bepaald in artikel II.5, waarin ten minste de volgende elementen voorkomen en worden afgesproken:<br>
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het engagement van de Initiërende Universiteit dat de bij toepassing van dit artikel toegekende subsidie integraal wordt aangewend ter uitvoering van de opdrachten van het erkende instituut;<br>
+b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een beleidsplan voor de looptijd van de beheersovereenkomst;<br>
+c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de kwantiteit en de kwaliteit van de te leveren prestaties binnen de in artikel II.22 erkende opdracht, in relatie tot de hoogte van de subsidie;<br>
+d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het instroomniveau en de wijze van selectie van de studenten;<br>
+e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het uitvoeren van een externe audit en de wijze waarop de instelling omgaat met de uitkomsten van de audit;<br>
+f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de mate en de inhoud van samenwerking met binnenlandse en buitenlandse instellingen voor academisch of postinitieel onderwijs en met internationale instellingen.<br>
+2°&nbsp;&nbsp; De Initiërende Universiteit legt jaarlijks een afzonderlijke begroting, jaarrekening en jaarverslag specifiek met betrekking tot de werking van het instituut, zoals bepaald in artikel II.5, ter goedkeuring voor aan de Vlaamse Regering. In de beheersovereenkomst worden nadere richtlijnen omtrent de vormgeving ervan opgenomen.</p>
 
 ### ART. III.74.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De basissubsidie van de   Vlaamse Gemeenschap aan de Universiteit Antwerpen in het kader van de opdracht,   zoals bepaald in artikel II.22, bedraagt vanaf 2007 1.827.000 euro.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   basissubsidie van de Vlaamse Gemeenschap aan de Vrije Universiteit Brussel in   het kader van de opdracht zoals bepaald in artikel II.22 wordt voor het IES   vanaf 2008 vastgelegd op 1.824.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De basissubsidie van de Vlaamse   Gemeenschap aan de Universiteit Antwerpen in het kader van de opdracht zoals   bepaald in artikel II.22 wordt voor het IJoS vanaf het begrotingsjaar 2002   vastgelegd op 149.000 euro. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De subsidies worden in   gelijke maandelijkse termijnen uitbetaald. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De bedragen worden binnen de   perken van de begroting van de Vlaamse Gemeenschap jaarlijks aangepast aan de   stijging van de prijzen overeenkomstig het indexeringsmechanisme bepaald in   artikel III.5, §9. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering kan de hoogte   van de subsidies herzien afhankelijk van de mate waarin de in de   beheersovereenkomst afgesproken doelstellingen al dan niet worden gehaald. </P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse   Regering kan een deel van de maandelijkse termijnen inhouden en desgevallend   terugvorderen indien de Vlaamse Regering vaststelt dat de Initiërende   Universiteit de beheersovereenkomst niet naleeft.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor het de begrotingsjaren 2012,   2013 en 2015 worden de bedragen, binnen de perken van de begroting van de   Vlaamse Gemeenschap, geïndexeerd aan de hand van de indexeringsformule vermeld   in artikel III.5, §9, tweede lid.<BR><BR>§ 3. De bedragen voor de Initiërende   Universiteiten, berekend overeenkomstig dit artikel, worden vanaf het   begrotingsjaar 2015 met 2 % verminderd.</P>
+<p>§1.&nbsp;De basissubsidie van de Vlaamse Gemeenschap aan de Universiteit Antwerpen in het kader van de opdracht zoals bepaald in artikel II.22 wordt voor het IJoS vanaf het begrotingsjaar 2002 vastgelegd op 149.000 euro.<br>
+<br>
+§2. De subsidies worden in gelijke maandelijkse termijnen uitbetaald.<br>
+<br>
+De bedragen worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks aangepast aan de stijging van de prijzen overeenkomstig het indexeringsmechanisme bepaald in artikel III.5, §9.<br>
+<br>
+De Vlaamse Regering kan de hoogte van de subsidies herzien afhankelijk van de mate waarin de in de beheersovereenkomst afgesproken doelstellingen al dan niet worden gehaald.<br>
+<br>
+De Vlaamse Regering kan een deel van de maandelijkse termijnen inhouden en desgevallend terugvorderen indien de Vlaamse Regering vaststelt dat de Initiërende Universiteit de beheersovereenkomst niet naleeft.<br>
+<br>
+Voor het de begrotingsjaren 2012, 2013 en 2015 worden de bedragen, binnen de perken van de begroting van de Vlaamse Gemeenschap, geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9, tweede lid.<br>
+<br>
+§ 3. De bedragen voor de Initiërende Universiteiten, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.</p>
 
 ### ART. III.75.
 
@@ -10293,7 +10655,7 @@ In het geval de instelling geen of een ondermaats verslag heeft bezorgd voor 31 
 
 ### ART. III.115.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Dit hoofdstuk regelt de   subsidiëring van de Vlerick Business School, het Instituut voor Tropische   Geneeskunde en de Antwerp Management School, hierna genoemd "de instellingen   voor postinitieel onderwijs".   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>
+<p>Dit hoofdstuk regelt de subsidiëring van het Instituut voor Tropische Geneeskunde, hierna genoemd "de instellingen voor postinitieel onderwijs". <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
 
 ### ART. III.116.
 
@@ -10330,17 +10692,17 @@ De instellingen voor postinitieel onderwijs kunnen aan de personeelsleden van de
 
 <p>§1. De basissubsidie van de Vlaamse Gemeenschap aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007 vastgesteld op 9.776.000 euro.<br>
 <br>
-§2. De basissubsidie van de Vlaamse Gemeenschap aan de Vlerick Business School wordt vanaf het begrotingsjaar 2002 vastgesteld op 1.665.000 euro.<br>
+§2. ...<br>
 <br>
-§3. De basissubsidie van de Vlaamse Gemeenschap aan de Antwerp Management School wordt vanaf het begrotingsjaar 2008 vastgesteld op 1.000.000 euro.<br>
+§3. ...<br>
 <br>
 §4. Door middel van een subsidie van 591.000 euro draagt de Vlaamse Regering vanaf het begrotingsjaar 2007 bij in het dekken van de investeringskosten van het Instituut voor Tropische Geneeskunde.<br>
 <br>
-§5. De bedragen vermeld in paragraaf 1, 2 en 3 worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9.<br>
+§5. De bedragen, vermeld in paragraaf 1, worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9.<br>
 <br>
-Het bedrag vermeld in paragraaf 4 wordt binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008 geïndexeerd overeenkomstig artikel III.54, §2.<br>
+Het bedrag, vermeld in paragraaf 4, wordt binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008 geïndexeerd overeenkomstig artikel III.54, §2.<br>
 <br>
-Voor de begrotingsjaren 2012, 2013 en 2015 worden de bedragen vermeld in paragraaf 1, 2 en 3 van dit artikel, binnen de perken van de begroting van de Vlaamse Gemeenschap, geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9, tweede lid.<br>
+Voor de begrotingsjaren 2012, 2013 en 2015 worden de bedragen, vermeld in paragraaf 1, binnen de perken van de begroting van de Vlaamse Gemeenschap, geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, §9, tweede lid.<br>
 <br>
 §6. De bovengenoemde subsidies worden in gelijke maandelijkse termijnen uitbetaald, behoudens de investeringssubsidies die per kwartaal worden betaald.<br>
 <br>
@@ -10350,15 +10712,9 @@ Voor de begrotingsjaren 2012, 2013 en 2015 worden de bedragen vermeld in paragra
 <br>
 § 9. De bedragen voor de instellingen voor postinitieel onderwijs, met uitzondering van de bedragen vermeld in paragraaf 4 berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.<br>
 <br>
-§ 10. Het bedrag voor de Vlerick Business School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 121.000 euro verminderd.<br>
+§ 10. ...<br>
 <br>
-Het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artikel, wordt vanaf het begrotingsjaar 2020 met 63.000 euro verminderd.<br>
-<br>
-§11. Vanaf het begrotingsjaar 2023 wordt het bedrag voor de Vlerick Business School, berekend overeenkomstig dit artikel, vermeerderd met 7750 euro.<br>
-<br>
-Vanaf het begrotingsjaar 2023 wordt het bedrag voor de Antwerp Management School, berekend overeenkomstig dit artikel, vermeerderd met 4000 euro.<br>
-<br>
-Vanaf het begrotingsjaar 2023 wordt het bedrag voor het Instituut voor Tropische Geneeskunde, berekend overeenkomstig dit artikel, vermeerderd met 46.600 euro.<br>
+§11.&nbsp;Vanaf het begrotingsjaar 2023 wordt het bedrag voor het Instituut voor Tropische Geneeskunde, berekend overeenkomstig dit artikel, vermeerderd met 46.600 euro.<br>
 <br>
 Vanaf het begrotingsjaar 2024 worden de bedragen, vermeld in deze paragraaf, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.</p>
 
@@ -11147,7 +11503,7 @@ De commissaris oefent het toezicht uit overeenkomstig de bepalingen van hoofdstu
 
 ### ART. IV.102.
 
-De Vlaamse Regering kan een ambtenaar of een commissaris aanwijzen die bij de Vlerick Business School, de Antwerp Management School, het Instituut voor Tropische Geneeskunde, en de hogere instituten en andere instellingen voor schone kunsten als vermeld in artikel III.119, toeziet op de uitvoering van de beheersovereenkomst en de naleving van de subsidiëringsvoorwaarden.<br>
+De Vlaamse Regering kan een ambtenaar of een commissaris aanwijzen die bij het Instituut voor Tropische Geneeskunde, en de hogere instituten en andere instellingen voor schone kunsten als vermeld in artikel III.119, toeziet op de uitvoering van de beheersovereenkomst en de naleving van de subsidiëringsvoorwaarden.<br>
 <br>
 Het instellingsbestuur bezorgt daartoe aan de ambtenaar of de commissaris alle nodige informatie en documenten.
 
