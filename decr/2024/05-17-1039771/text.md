@@ -31,6 +31,10 @@ Aan de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen b
 &nbsp;<br>
 In afwijking van artikel 16.3.1, §1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn de daartoe door de leidend ambtenaar aangeduide personeelsleden van het Departement Omgeving daarbij bevoegd voor de handhaving en controle op de naleving van de voorwaarden en de verplichtingen die opgelegd zijn door of krachtens deze wet.”.
 
+### ART 5.
+
+De wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties wordt wat betreft de gewestbevoegdheden opgeheven.
+
 ## Hoofdstuk 4. Wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
 ### ART 6.
@@ -112,6 +116,30 @@ In artikel 4.1.8 van hetzelfde decreet, gewijzigd bij het decreet van 26 april 2
 4° &nbsp;in paragraaf 2, derde lid, worden de woorden “maximaal driemaal met twaalf” vervangen door de woorden “telkens met zestig”;<br>
 5° in paragraaf 2, derde lid, wordt tussen de zinsnede “verlengd worden.” en de woorden “De Vlaamse Regering” de zin “De gecumuleerde looptijd van de verlengingen kan echter nooit de originele afschrijvingstermijn die van toepassing is op de betrokken activa overschrijden.” ingevoegd;<br>
 6° aan paragraaf 2, derde lid, wordt de zinsnede “en houdt hierbij rekening met de gevolgen voor de marktwerking” toegevoegd.
+
+### ART 11.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 november 2023, wordt een afdeling VI/2 ingevoegd, die luidt als volgt:<br>
+<br>
+“Afdeling IV/2. Veiligheid van het aardgasdistributienet, elektriciteitsdistributienet en het plaatselijk vervoernet van elektriciteit”.
+
+### ART 12.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 29 maart 2024, wordt aan afdeling IV/2, ingevoegd bij artikel 11, een artikel 4.1.11/8 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 4.1.11/8. De Vlaamse Regering stelt, op gezamenlijk voorstel van aardgasdistributienetbeheerders, een veiligheidscode vast. De voormelde veiligheidscode bepaalt de technische maatregelen die noodzakelijk zijn om de veiligheid van het aardgasdistributienet te garanderen. De voormelde veiligheidscode bevat minstens al de volgende elementen over het ontwerp, de aanleg, de exploitatie en de ingebruikstelling van alle installaties voor aardgasdistributie in het Vlaamse Gewest en in het kader van de uitvoering van werken door derden aan of in de nabije omgeving van installaties voor aardgasdistributie:<br>
+1° de technische kenmerken van het aardgasdistributienet met onder meer de toegepaste netdrukken;<br>
+2° de kenmerken van het gedistribueerde aardgas;<br>
+3° de ingravingsdiepte en de toegankelijkheid van de aardgasdistributieleidingen;<br>
+4° de bescherming tegen corrosie;<br>
+5° de gebruikte materialen en componenten;<br>
+6° de aanleg, de controle en het beproeven van aardgasdistributieleidingen;<br>
+7° de verplichtingen van derden voor, tijdens en na werken in de nabijheid van aardgasdistributie-installaties;<br>
+8° de exploitatievoorwaarden en de controles van de aardgasdistributie-installaties;<br>
+9° de tussenkomsten na gasreukmeldingen, incidenten of ongevallen;<br>
+10° de procedure in geval van opening van een gasmeter voor een netgebruiker.<br>
+<br>
+De veiligheidscode, vermeld in het eerste lid, is van overeenkomstige toepassing op installaties van gesloten distributienetten, privédistributienetten en directe leidingen.”.
 
 ### ART 14.
 
