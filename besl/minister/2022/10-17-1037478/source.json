@@ -2,16 +2,16 @@
   "codex_id": 1037478,
   "title": "Ministerieel besluit van 2022-10-17 tot uitvoering van artikel 26, §2, 1°, en artikel 47, eerste lid, van het besluit van de Vlaamse regering van 15 juli 2022 tot uitvoering van het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037478/VolledigDocument?datum=2025-05-01",
-  "source_sha256": "c22e18e0bfeb456f5db72c964bc4bff041356ea8e05da4efdc233a6e125d0c11",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037478/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "1954b79e45c2939c5a649054f7f347e75c828e93d62aff71c41ff26057b3cd07",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037478&param=informatie",
-  "as_of": "2025-05-01",
+  "as_of": "2026-01-01",
   "made": "2022-10-17",
   "gazette": "2022-10-24",
   "numac": 2022033870,
   "document_start": "2022-10-20",
   "document_end": null,
-  "in_force": "2025-05-01",
+  "in_force": "2026-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2025-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }

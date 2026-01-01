@@ -35,7 +35,7 @@
 
 ### BIJLAGE 1.
 
-<p>Lijst met getuigschriften of attesten van opleidingen als vermeld in artikel 1<br>
+<p>Bijlage 1. Lijst met getuigschriften of attesten van opleidingen als vermeld in artikel 1<br>
 <br>
 1° bachelor Sociaal Werk; <br>
 2° bachelor Ergotherapie; <br>
@@ -52,7 +52,7 @@
 13° hbo – Agogische Bijscholing Orthopedagogie;<br>
 14° hbo – Orthopedagogie;<br>
 15° hbo – Maatschappelijke Werk;<br>
-16° hbo – Sociaal–cultureel Werk;<br>
+16° hbo – Sociaal-cultureel Werk;<br>
 17° graduaatsopleiding - Orthopedagogie; <br>
 18° graduaatsopleiding - Maatschappelijk Werk; <br>
 19° graduaatsopleiding - Sociaal-cultureel Werk; <br>
@@ -66,7 +66,8 @@
 27° basiscursus voor Monitoren/Begeleiders (Groep Maatwerk);<br>
 28° begeleider Sociale Economie (CVO);<br>
 29° basisopleiding Begeleider Individueel Maatwerk (Groep Maatwerk);<br>
-30° basisopleiding Maatwerkcoaches (Groep Maatwerk).</p>
+30° basisopleiding Maatwerkcoaches (Groep Maatwerk);<br>
+31° basisopleiding Begeleider Sociale Economie op de Werkvloer (In-Z).&nbsp;</p>
 
 ### BIJLAGE 2.
 
