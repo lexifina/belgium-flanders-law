@@ -56,6 +56,10 @@ Voor de uitvoering van de Vlaamse beleidsprioriteiten, vermeld in artikel 2 van 
 
 ## Hoofdstuk 4. Slotbepalingen
 
+### ART 4.
+
+Het besluit van de Vlaamse Regering van 7 december 2018 betreffende de Vlaamse beleidsprioriteiten in het kader van het lokaal sociaal beleid en de subsidiëring voor de coördinatie van samenwerkingsverbanden geïntegreerd breed onthaal wordt opgeheven.
+
 ### ART 5.
 
 Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 4, dat in werking treedt op 1 januari 2026.
