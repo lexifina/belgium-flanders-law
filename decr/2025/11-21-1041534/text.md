@@ -1,5 +1,85 @@
 # Decreet van 2025-11-21 tot wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers en het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten
 
+## Hoofdstuk 1. Inleidende bepaling
+
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
+## Hoofdstuk 2. Wijzigingen van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie
+
+## Hoofdstuk 3. Wijziging van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers
+
+## Hoofdstuk 4. Wijzigingen van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten
+
+### ART 5.
+
+In artikel 2, eerste lid, 3°, van het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten worden de woorden “op structurele basis en gedurende een minimale tijdsduur” opgeheven.
+
+### ART 6.
+
+In artikel 4 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+“3° de erkenning, het toezicht en de handhaving met betrekking tot het lokaal aanbod van buitenschoolse activiteiten.”;<br>
+2° tussen het eerste en het tweede lid worden twee nieuwe leden ingevoegd, die luiden als volgt:<br>
+“Als er aanwijzingen bestaan dat de veiligheid of gezondheid van kinderen mogelijk in het gedrang komt én het door het lokaal bestuur georganiseerde toezicht onvoldoende is om te beslissen over de noodzaak van handhaving, kan het lokaal bestuur Zorginspectie verzoeken om een toezicht ter plaatse uit te voeren.<br>
+Voor de toepassing van het tweede lid wordt onder Zorginspectie verstaan: Zorginspectie, als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 betreffende het Departement Zorg. Zorginspectie oefent haar toezicht uit overeenkomstig het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid. Het toezicht ter plaatse kan zowel aangekondigd als onaangekondigd plaatsvinden.”;<br>
+3° het bestaande tweede lid, dat het vierde lid wordt, wordt vervangen door wat volgt:<br>
+“Het lokaal bestuur realiseert de opdrachten, vermeld in het eerste lid, in samenspraak met actoren die relevant zijn voor buitenschoolse activiteiten. Het lokaal bestuur realiseert die opdrachten op basis van de behoeften van de gebruikers. Het lokaal bestuur bekijkt daarbij de toegankelijkheid en heeft bijzondere aandacht voor kleuters, kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte, en voor het stimuleren van het multifunctioneel en efficiënt gebruik van infrastructuur.”.
+
+### ART 7.
+
+In artikel 9 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid, 1°, worden het woord “niet-bindend” en de zinsnede “, op vrijwillige basis,” opgeheven;<br>
+2° aan het tweede lid wordt de zinsnede “, rekening houdend met de doelstellingen, vermeld in artikel 3, tweede lid” toegevoegd;<br>
+3° er wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+“De Vlaamse Regering bepaalt de nadere regels over de opdrachten van het lokaal samenwerkingsverband.”.
+
+### ART 8.
+
+Artikel 10 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+“Art. 10. De Vlaamse Regering voorziet in samenspraak met relevante actoren en rekening houdend met de doelstellingen, vermeld in artikel 3, tweede lid, voor de volgende elementen:<br>
+1° een inspiratiekader om een geïntegreerd aanbod van buitenschoolse activiteiten te realiseren;<br>
+2° een subsidie aan instanties die ondersteuning bieden om een geïntegreerd aanbod van buitenschoolse activiteiten te realiseren.<br>
+&nbsp;<br>
+Onder inspiratiekader wordt verstaan: een hulpmiddel om lokale besturen en partners van buitenschoolse activiteiten te ondersteunen bij het lokaal beleid over buitenschoolse activiteiten.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over de uitvoering van het inspiratiekader en de subsidie voor ondersteuning.”.
+
+### ART 10.
+
+Aan hoofdstuk 2, afdeling 3, van hetzelfde decreet, gewijzigd bij de decreten van 21 mei 2021 en 19 april 2024, wordt een artikel 11/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. 11/1. Het erkend aanbod buitenschoolse activiteiten, vermeld in artikel 4, eerste lid, 3°, van dit decreet, voldoet minstens aan de voorwaarden met betrekking tot:<br>
+1° het organisatorisch beleid, inclusief het beleidsvoerend vermogen;<br>
+2° het pedagogisch beleid, inclusief:<br>
+&nbsp; a) het aangaan van kwaliteitsvolle interacties tussen de medewerkers en de kinderen;<br>
+&nbsp; b) het gebruik van het Nederlands als verbindende taal en het stimuleren van de kennis van het Nederlands;<br>
+3° het medewerkersbeleid, inclusief:<br>
+&nbsp; a) dat medewerkers de nodige competenties hebben;<br>
+&nbsp; b) dat medewerkers voldoende kennis van het Nederlands hebben;<br>
+&nbsp; c) dat de organisator bij de aanstelling van elke persoon die werkt in de locatie buitenschoolse activiteiten, het goed en zedelijk gedrag van de betrokkene controleert. Het goed en zedelijk gedrag omvat minstens een onberispelijk gedrag in de omgang met minderjarigen. Artikel 3, tweede tot en met vijfde lid, artikel 4, eerste lid, en artikel 5 van het decreet van 3 juni 2022 houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers, zijn daarbij van toepassing. Daarenboven beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon die de locatie buitenschoolse activiteiten uitbaat;<br>
+4° de toegankelijkheid, minstens bijzondere aandacht voor kleuters, kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte;<br>
+5° de monitoring en evaluatie;<br>
+6° de verbondenheid.<br>
+<br>
+Bij de voorwaarden, vermeld in het eerste lid, wordt rekening gehouden met de doelstellingen, vermeld in artikel 3, tweede lid.<br>
+<br>
+Het lokaal bestuur behandelt klachten over het erkend aanbod buitenschoolse activiteiten en legt daarvoor een procedure vast.”.
+
+### ART 11.
+
+In artikel 12 van hetzelfde decreet, gewijzigd bij het decreet van 6 mei 2022, worden het tweede en het derde lid vervangen door wat volgt:<br>
+<br>
+“Het lokaal bestuur besteedt de subsidie, vermeld in het eerste lid, aan de opdrachten, vermeld in artikel 4, eerste lid. Daarbij besteedt het lokaal bestuur minstens 33 procent van de subsidie aan het erkend aanbod buitenschoolse activiteiten specifiek voor kleuters, vermeld in artikel 4, eerste lid, 3°.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de toekenning van de subsidie, vermeld in het eerste lid, waaronder de definitie van kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte. De Vlaamse Regering bepaalt ook de wijze waarop de subsidie wordt uitbetaald.”.
+
+### ART 14.
+
+In artikel 15 van hetzelfde decreet, gewijzigd bij de decreten van 21 mei 2021 en 6 mei 2022, worden de woorden “het aanbod van kleuteropvang en opvang lager onderwijs” vervangen door de woorden “erkend aanbod buitenschoolse activiteiten.”
+
 ### ART 15.
 
 Artikel 17 van hetzelfde decreet wordt vervangen door wat volgt:<br>
@@ -25,3 +105,11 @@ Vanaf 1 oktober 2025 kan een organisator geen aanvraag voor een kwaliteitslabel 
 Het blijft mogelijk voor een organisator of een kandidaat-organisator om, na overleg met het lokaal bestuur en op voorwaarde van onderlinge toestemming, de gesubsidieerde activiteit volledig of gedeeltelijk over te nemen van een andere organisator.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels die van toepassing zijn gedurende de overgangstermijn, minstens met betrekking tot kwetsbare gezinnen en kinderen met een specifieke zorgbehoefte, en met betrekking tot de eventuele inkorting van de overgangstermijn.”.
+
+## Hoofdstuk 5. Slotbepalingen
+
+### ART 17.
+
+Dit decreet treedt in werking op 1 januari 2026, met uitzondering van:<br>
+1° artikel 2, 3, 4, 9, 12, 13 en 16, die in werking treden op 1 september 2026;<br>
+2° artikel 15, dat in werking treedt op 1 oktober 2025.
