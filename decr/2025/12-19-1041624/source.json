@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041624,
+  "title": "Decreet van 2025-12-19 tot wijziging van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator en het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wat betreft de taken inzake water",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041624/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "f92bfbeb3392d0cc936ad04bf90edc9542bc1d02ab1a8d19f66720cc9765e538",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041624&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-19",
+  "gazette": "2025-12-30",
+  "numac": 2025009846,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
