@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041674,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-12 tot wijziging van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden en het besluit van de Vlaamse Regering van 14 december 2018 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041674/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "62e625d40a8e60a52e2c1083e6b3ba107df06dca27ef0a6dae2e21b2eec9b7fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041674&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-12-12",
+  "gazette": "2026-01-12",
+  "numac": 2026000060,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
