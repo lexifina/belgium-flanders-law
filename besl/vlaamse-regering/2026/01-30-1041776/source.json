@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041776,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-30 tot wijziging van het besluit van de Vlaamse Regering van 12 mei 2017 tot uitvoering van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, wat betreft de opheffing van hinderpremie A",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041776/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "af17951d510455fe0d6761146a246027f1fa5651b3f3ab470637737d564a6e57",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041776&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-01-30",
+  "gazette": "2026-02-23",
+  "numac": 2026001174,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
