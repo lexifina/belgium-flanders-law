@@ -55,7 +55,7 @@ c) de leerling die in het buitenland een opleiding volgt;<br>
 d) de gehuwde, zelfstandige of alleenstaande leerling;<br>
 e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen residentieel verblijft in een door de Vlaamse overheid erkend multifunctioneel centrum voor minderjarige personen met een handicap;<br>
 22° kleuteronderwijs: het kleuteronderwijs, vermeld in het decreet basisonderwijs van 25 februari 1997;<br>
-23° kleutertoeslagen: toeslagen om de deelname aan het kleuteronderwijs te stimuleren;<br>
+23° ...;<br>
 24° ...<br>
 25° kinderbijslag: de maandelijkse kinderbijslag, vermeld in artikel 40 van de Algemene kinderbijslagwet;<br>
 26° kinderbijslagreglementering: het geheel van de regelingen inzake de gezinsbijslagen, vastgesteld door of krachtens de Algemene kinderbijslagwet of de wet van 20 juli 1971 tot instelling van gewaarborgde gezinsbijslag, alsook alle uitvoeringsbesluiten ervan;<br>
@@ -69,7 +69,7 @@ e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen reside
 32° ouder: de juridische vader, de juridische moeder of meemoeder, van wie de afstamming met het rechtgevende kind of het rechthebbende kind of de rechthebbende leerling is vastgesteld overeenkomstig titel VII van boek I van het Burgerlijk Wetboek, alsook de adoptant na de adoptie van het kind;<br>
 33° private uitbetalingsactor: een private rechtspersoon, vergund met het oog op de uitbetaling van toelagen in het kader van het gezinsbeleid, vermeld in het decreet van 7 juli 2017;<br>
 34° rechtgevend kind: een kind dat een recht op gezinsbijslagen doet ontstaan;<br>
-35° rechthebbend kind of rechthebbende leerling: een kind of leerling aan wie de kinderopvangtoeslag, de kleutertoeslag of de selectieve par-ticipatietoeslag wordt toegekend;<br>
+35° rechthebbend kind of rechthebbende leerling: een kind of leerling aan wie de kinderopvangtoeslag of de selectieve par-ticipatietoeslag wordt toegekend;<br>
 36° schooljaar: schooljaar als vermeld in artikel 2, 19°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 37° secundair onderwijs: het onderwijs zoals bedoeld in artikel 3, 37°, van het -besluit van de Vlaamse Regering van 17 december 2010 houdende de codificatie betreffende het secundair onderwijs;<br>
 38° selectieve participatietoeslagen: toeslagen die tot doel hebben een bijdrage te leveren aan de democratisering van het onderwijs, en die worden toegekend aan de leerling ter ondersteuning van zijn deelname aan het onderwijs;<br>
@@ -81,7 +81,7 @@ e) de leerling die gedurende het schooljaar in kwestie minstens 149 dagen reside
 44° toelagen in het kader van het gezinsbeleid:<br>
 a) de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de bijzondere wet van 8 augustus 1980;<br>
 b) de selectieve participatietoeslagen;<br>
-c) de andere toelagen die de overheid toekent in het kader van het gezinsbeleid, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980, namelijk de kinderopvangtoeslag, de kleutertoeslagen en de ondersteuningstoeslag;<br>
+c) de andere toelagen die de overheid toekent in het kader van het gezinsbeleid, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980, namelijk de kinderopvangtoeslag en de ondersteuningstoeslag;<br>
 45° uitbetalingsactoren: het agentschap en de private uitbetalingsactoren;<br>
 46° universele participatietoeslagen: toeslagen om bij te dragen in de onderhouds- en opvoedingskosten, en, in voorkomend geval, om bij te dragen in de bijkomende kosten die gepaard gaan met de deelname van de kinderen aan het onderwijs;<br>
 47° verblijfplaats: de feitelijke plaats waar de persoon gewoonlijk verblijft;<br>
@@ -131,13 +131,13 @@ De afronding op een cent naar boven of naar beneden wordt gedaan op het totaal u
 
 ### ART 5.
 
-§ 1. Als een toelage in het kader van het gezinsbeleid, met uitzondering van de selectieve participatietoeslagen en de kleutertoeslagen, ontstaat of het bedrag ervan wijzigt, ten gevolge van een indexering of ten gevolge van een wijziging bij of krachtens een decreet, geeft het kind recht op het gewijzigde bedrag vanaf de eerste dag van de maand waarin het recht ontstaat, de indexering plaatsvindt of de wijziging in werking treedt.<br>
+§ 1. Als een toelage in het kader van het gezinsbeleid, met uitzondering van de selectieve participatietoeslagen ontstaat of het bedrag ervan wijzigt, ten gevolge van een indexering of ten gevolge van een wijziging bij of krachtens een decreet, geeft het kind recht op het gewijzigde bedrag vanaf de eerste dag van de maand waarin het recht ontstaat, de indexering plaatsvindt of de wijziging in werking treedt.<br>
 <br>
-Als een toelage in het kader van het gezinsbeleid, met uitzondering van de selectieve participatietoeslagen en de kleutertoeslagen, ontstaat of het bedrag ervan wijzigt ten gevolge van een gebeurtenis, geeft het kind recht op de toelage of het gewijzigde bedrag ervan vanaf de eerste dag van de maand waarin de gebeurtenis zich voordoet. Als het kind evenwel stopt recht te geven op een toelage, stopt het kind recht te geven op de toelage op het einde van de maand.<br>
+Als een toelage in het kader van het gezinsbeleid, met uitzondering van de selectieve participatietoeslagen ontstaat of het bedrag ervan wijzigt ten gevolge van een gebeurtenis, geeft het kind recht op de toelage of het gewijzigde bedrag ervan vanaf de eerste dag van de maand waarin de gebeurtenis zich voordoet. Als het kind evenwel stopt recht te geven op een toelage, stopt het kind recht te geven op de toelage op het einde van de maand.<br>
 <br>
 § 2. De bedragen en de inkomensgrenzen van de selectieve participatietoeslagen gelden voor een volledig school- of academiejaar.<br>
 <br>
-§ 3. De bedragen van de kleutertoeslagen gelden voor een volledig kalenderjaar. Als het bedrag van een kleutertoeslag wijzigt ten gevolge van een indexering, heeft het kind recht op het gewijzigde bedrag vanaf het begin van het kalenderjaar dat volgt op het kalenderjaar waarin de indexering plaatsvindt.
+§ 3. ...
 
 ### ART 6.
 
@@ -377,7 +377,7 @@ Het bedrag van 100 euro, vermeld in het eerste&nbsp; en tweede lid, wordt in afw
 
 ### ART 19.
 
-Het rechtgevende kind geeft vanaf de geboorte en zolang het minder dan vier jaar is op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is, recht op een jaarlijkse universele participatietoeslag van 20 euro.<br>
+Het rechtgevende kind&nbsp;dat voor de maand juli van het jaar in kwestie recht geeft op de sociale toeslag, vermeld in artikel 18 en 222,&nbsp;geeft vanaf de geboorte en zolang het minder dan vier jaar is op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is, recht op een jaarlijkse universele participatietoeslag van 20 euro.<br>
 <br>
 De Vlaamse Regering bepaalt het tijdstip waarop de toeslag, vermeld in het eerste lid, wordt uitbetaald.<br>
 <br>
@@ -387,7 +387,7 @@ De Vlaamse Regering kan ook andere uitvoeringsregels van de toeslag, vermeld in 
 
 ### ART 20.
 
-Het rechtgevende kind geeft vanaf de leeftijd van vier jaar op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is en zolang het minder dan elf jaar is op die datum, recht op een jaarlijkse universele participatietoeslag van 35 euro.<br>
+Het rechtgevende kind&nbsp;dat voor de maand juli van het jaar in kwestie recht geeft op de sociale toeslag, vermeld in artikel 18 en 222,&nbsp;geeft vanaf de leeftijd van vier jaar op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is en zolang het minder dan elf jaar is op die datum, recht op een jaarlijkse universele participatietoeslag van 35 euro.<br>
 <br>
 De Vlaamse Regering bepaalt het tijdstip waarop de toeslag, vermeld in het eerste lid, wordt uitbetaald.<br>
 <br>
@@ -395,7 +395,7 @@ De Vlaamse Regering kan ook andere nadere regels van de toeslag, vermeld in het 
 
 ### ART 21.
 
-Het rechtgevende kind geeft vanaf de leeftijd van elf jaar op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is en zolang het minder dan zeventien jaar is op die datum, recht op een jaarlijkse universele participatietoeslag van 50 euro.<br>
+Het rechtgevende kind&nbsp;dat voor de maand juli van het jaar in kwestie recht geeft op de sociale toeslag, vermeld in artikel 18 en 222,&nbsp;geeft vanaf de leeftijd van elf jaar op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is en zolang het minder dan zeventien jaar is op die datum, recht op een jaarlijkse universele participatietoeslag van 50 euro.<br>
 <br>
 De Vlaamse Regering bepaalt het tijdstip waarop de toeslag, vermeld in het eerste lid, wordt uitbetaald.<br>
 <br>
@@ -405,11 +405,25 @@ De Vlaamse Regering kan ook andere nadere regels van de toeslag, vermeld in het 
 
 ### ART 22.
 
-Het rechtgevende kind geeft vanaf de leeftijd van zeventien jaar op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is en zolang het minder dan vijfentwintig jaar is op die datum, recht op een jaarlijkse universele participatietoeslag van 60 euro.<br>
+Het rechtgevende kind&nbsp;dat voor de maand juli van het jaar in kwestie recht geeft op de sociale toeslag, vermeld in artikel 18 en 222,&nbsp;geeft vanaf de leeftijd van zeventien jaar op 31 december van het kalenderjaar voor het kalenderjaar waarin de toeslag verschuldigd is en zolang het minder dan vijfentwintig jaar is op die datum, recht op een jaarlijkse universele participatietoeslag van 60 euro.<br>
 <br>
 De Vlaamse Regering bepaalt het tijdstip waarop de toeslag, vermeld in het eerste lid, wordt uitbetaald.<br>
 <br>
 De Vlaamse Regering kan ook andere uitvoeringsregels van de toeslag, vermeld in het eerste lid, nader bepalen.
+
+## HOOFDSTUK 4. Algemene bepaling
+
+### ART 22/1.
+
+Als door een gelijkmatig verdeelde huisvesting de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders of de pleegouders, wordt het bedrag van de universele participatietoeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
+&nbsp;<br>
+Als de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind niet is bepaald of bekrachtigd door de bevoegde rechtbank, wordt ervan uitgegaan dat de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders of de pleegouders.<br>
+<br>
+Voor de huisvesting van het meerderjarige rechtgevend kind wordt uitgegaan van de woonplaats van het kind.<br>
+<br>
+In afwijking van het eerste lid blijft de vastgestelde huisvesting overeenkomstig het derde lid gelden die geldt op het moment dat het kind meerderjarig wordt.<br>
+<br>
+In afwijking van het eerste lid kan de al dan niet gelijkmatig verdeelde huisvesting van het meerderjarige rechtgevend kind worden bepaald op grond van een overeenkomst, waarin de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind uitdrukkelijk wordt bepaald, en die is geregistreerd conform artikel 1 van het Wetboek der registratie-, hypotheek- en griffierechten.
 
 ## Titel 7. Samenloop van gezinsbijslagen
 
@@ -779,43 +793,27 @@ De organisatoren, vermeld in artikel 51, eerste lid, 3°, bezorgen, met het oog 
 <br>
 De Vlaamse Regering bepaalt de nadere regels met betrekking tot de toeslag, vermeld in het eerste lid, inclusief voor welk dagdeel van een kinderopvangdag een kinderopvangtoeslag wordt toegekend. De Vlaamse Regering bepaalt ook de nadere regels van de gegevensverzameling en de gegevensoverdracht door de organisatoren, vermeld in het tweede lid.
 
-## Titel 2. Kleutertoeslagen
+## Titel 2. ...
 
-## HOOFDSTUK 1. Rechthebbende leerling
+## HOOFDSTUK 1. ...
 
 ### ART 53.
 
-Een kleutertoeslag wordt toegekend aan de leerling die aan al de volgende voorwaarden voldoet:<br>
-1° de leerling heeft de Belgische nationaliteit, of de leerling van wie het bewijs niet geleverd wordt dat hij de Belgische nationaliteit bezit, toegelaten of gemachtigd is om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
-2° de leerling is ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon kleuteronderwijs, als de leerling gerechtigd is dat onderwijs te volgen overeenkomstig het decreet basisonderwijs van 25 februari 1997.<br>
-<br>
-De Vlaamse Regering kan algemene vrijstellingen van het eerste lid, 1°, bepalen.<br>
-<br>
-De Vlaamse Regering bepaalt de verdere voorwaarden waaronder de kleutertoeslagen worden toegekend, inclusief het uitbetalingstijdstip, en bepaalt de nadere regels met betrekking tot deze toeslagen.
+...
 
-## HOOFDSTUK 2. Bedrag
+## HOOFDSTUK 2. ...
 
 ### ART 54.
 
-Een kleutertoeslag van 130 euro wordt toegekend aan een rechthebbende leerling als vermeld in artikel 53, die twee jaar is op 31 december van het kalenderjaar vóór het jaar waarin de toeslag verschuldigd is, als de leerling, uiterlijk twee maanden nadat hij de leeftijd van drie jaar heeft bereikt, ingeschreven is bij een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor kleuteronderwijs.
+...
 
 ### ART 55.
 
-§ 1. Een kleutertoeslag van 130 euro wordt toegekend aan een rechthebbende leerling als vermeld in artikel 53, die drie jaar is op 31 december van het kalenderjaar vóór het jaar waarin de toeslag verschuldigd is, op voorwaarde dat de inschrijving, vermeld in artikel 54, behouden blijft voor de leerling, en op voorwaarde dat het bewijs van voldoende aanwezigheid in een betrokken schooljaar geleverd wordt, zoals nader bepaald in artikel 27, § 2, 1°, 2°, en § 3, § 4, § 5 en § 6.<br>
-<br>
-De inschrijving, vermeld in het eerste lid, wordt gecontroleerd op de dag dat de leerling vier jaar wordt. Als de leerling op dat moment niet ingeschreven is in het kleuteronderwijs, wordt de leerling geacht aan de voorwaarden te voldoen als de leerling uiterlijk 21 kalenderdagen na de uitschrijving die op dat ogenblik geldt, opnieuw ingeschreven is in het kleuteronderwijs.<br>
-<br>
-§ 2. In afwijking van paragraaf 1 wordt aan een rechthebbende leerling als vermeld in artikel 53, die drie jaar is op 31 december 2018, een kleutertoeslag van 130 euro toegekend, op voorwaarde dat hij in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor kleuteronderwijs is ingeschreven.
+...
 
 ### ART 56.
 
-§ 1. Om het recht op een kleutertoeslag als vermeld in artikel 54 en 55, vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan het agentschap Opgroeien regie:<br>
-1° welke leerlingen zijn ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor kleuteronderwijs;<br>
-2° de datum van de inschrijving;<br>
-3° welke leerlingen zijn ingeschreven op de laatste schooldag van juni;<br>
-4° of het bewijs van voldoende aanwezigheid in het betrokken schooljaar geleverd is, zoals nader bepaald in artikel 27, § 2, 1°, 2°, en § 3, § 4, § 5 en § 6.<br>
-<br>
-§ 2. De Vlaamse Regering bepaalt de wijze waarop de gegevens, vermeld in paragraaf 1, moeten worden meegedeeld.
+...
 
 ## [Titel 3. Ondersteuningstoeslag (ing. decr. 21 oktober 2022, art. 4, I: 1 januari 2023)]
 
@@ -869,9 +867,9 @@ Het rechtgevende kind, vermeld in het eerste lid, is rechtsbekwaam om zelf als e
 
 ### ART 58.
 
-§ 1. Bij een gelijkmatig verdeelde huisvesting van het rechtgevende kind bij beide ouders wordt de helft van de sociale toeslag in het kader van de gezinsbijslagen, vermeld in artikel 18, toegekend aan elke ouder die een gezin vormt met het rechtgevende kind dat aan de toekenningsvoorwaarden van de sociale toeslag voldoet.<br>
+§ 1. Bij een gelijkmatig verdeelde huisvesting van het rechtgevende kind bij beide ouders wordt de helft van de sociale toeslag in het kader van de gezinsbijslagen, vermeld in artikel 18,&nbsp;en de helft van de universele participatietoeslag, vermeld in artikel 19 tot en met 22,&nbsp;toegekend aan elke ouder die een gezin vormt met het rechtgevende kind dat aan de toekenningsvoorwaarden van de sociale toeslag&nbsp;of de universele participatietoeslag voldoet.<br>
 <br>
-§ 2. Bij een ongelijkmatig verdeelde huisvesting van het rechtgevende kind bij beide ouders wordt de sociale toeslag in het kader van de gezinsbijslagen, vermeld in artikel 18, volledig toegewezen aan de ouder bij wie het rechtgevende kind voor meer dan de helft van de tijd verblijft.<br>
+§ 2. Bij een ongelijkmatig verdeelde huisvesting van het rechtgevende kind bij beide ouders wordt de sociale toeslag in het kader van de gezinsbijslagen, vermeld in artikel 18,&nbsp;de universele participatietoeslag, vermeld in artikel 19 tot en met 22,&nbsp;volledig toegewezen aan de ouder bij wie het rechtgevende kind voor meer dan de helft van de tijd verblijft.<br>
 <br>
 § 3. Een afwijking van de voorgaande paragrafen is mogelijk nadat de bevoegde rechtbank daarover een uitspraak in het belang van het kind heeft gedaan. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
 
@@ -1321,10 +1319,6 @@ Voor de kinderopvangtoeslagen, vermeld in deel 3 van boek 2, neemt de termijn va
 Voor het startbedrag geboorte neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarin de geboorte plaatsvond. Voor het startbedrag adoptie neemt de termijn van vijf jaar een aanvang de eerste dag van de maand die volgt op de maand waarin het verzoekschrift tot adoptie is ingediend bij de bevoegde rechtbank of, bij gebrek daaraan, de eerste dag van de maand die volgt op de maand waarin de adoptieakte is ondertekend. Als het kind op die datum nog geen deel uitmaakt van het gezin van de adoptant, vangt de voormelde termijn aan op de eerste dag van de maand die volgt op de maand waarin het kind werkelijk deel uitmaakt van dit gezin.<br>
 <br>
 Voor de selectieve participatietoeslagen, vermeld in boek 2, deel 2, begint de termijn van vijf jaar op 1 september van het schooljaar waarop de selectieve participatietoeslagen betrekking zouden hebben.<br>
-<br>
-Voor de kleutertoeslagen, vermeld in boek 2, deel 3, titel 2, begint de termijn van vijf jaar op:<br>
-1° de eerste dag van de maand na de derde verjaardag van de leerling voor de kleutertoeslag, vermeld in artikel 54;<br>
-2° de eerste dag van de maand na de vierde verjaardag van de leerling voor de kleutertoeslag, vermeld in artikel 55.<br>
 <br>
 Buiten de oorzaken, vermeld in het Burgerlijk Wetboek, wordt de verjaring geschorst tijdens de procedure voor de geschillencommissie en voor de bevoegde rechtbank. De Vlaamse Regering bepaalt de regels met betrekking tot de begin- en einddatum van de schorsing.<br>
 <br>
