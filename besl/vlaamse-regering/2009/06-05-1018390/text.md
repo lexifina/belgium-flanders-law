@@ -563,20 +563,21 @@ De raad van bestuur stelt een huishoudelijk reglement op voor de centra. Het reg
 
 ### ART 65/1.
 
-De VDAB kan beslissen om aan de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid die haar wettelijke of contractuele verplichtingen niet nakomt, gedurende drie jaar:<br>
-1°&nbsp;&nbsp; &nbsp;geen van de volgende opleidingen en stages toe te kennen:<br>
-a)&nbsp;&nbsp; &nbsp;een beroepsverkennende stage als vermeld in artikel 41 tot en met 44;<br>
-b)&nbsp;&nbsp; &nbsp;een opleidingsstage als vermeld in artikel 84 tot en met 84/8;<br>
-c)&nbsp;&nbsp; &nbsp;een werkervaringsstage als vermeld in artikel 111/0/1 tot en met 111/0/12;&nbsp;<br>
-d)&nbsp;&nbsp; &nbsp;een individuele beroepsopleiding als vermeld in artikel 90 tot en met 98;<br>
-e)&nbsp;&nbsp; &nbsp;een individuele beroepsopleiding plus als vermeld in artikel 98/1 tot en met 98/4;&nbsp;<br>
+De VDAB kan beslissen om aan de ondernemingen, de verenigingen zonder winstoogmerk of de administratieve overheden die hun wettelijke of contractuele verplichtingen niet nakomen, gedurende drie jaar:<br>
+1° &nbsp; &nbsp;geen van de volgende opleidingen en stages toe te kennen:<br>
+a) &nbsp; &nbsp;een beroepsverkennende stage als vermeld in artikel 41 tot en met 44 van dit besluit;<br>
+b) &nbsp; &nbsp;een opleidingsstage als vermeld in artikel 84 tot en met 84/8 van dit besluit;<br>
+c) &nbsp; &nbsp;een werkervaringsstage als vermeld in artikel 111/0/1 tot en met 111/0/12 van dit besluit;&nbsp;<br>
+d) &nbsp; &nbsp;een individuele beroepsopleiding als vermeld in artikel 90 tot en met 111 van dit besluit;<br>
+e) &nbsp; &nbsp;een individuele beroepsopleiding plus als vermeld in artikel 111/0/0/1 tot en met 111/0/0/7 van dit besluit;<br>
 f) een leerjob als vermeld in artikel 1, 7°, van het besluit van de Vlaamse Regering van 8 september 2023 tot regeling van de leerjobs;<br>
-2°&nbsp;&nbsp; &nbsp;geen goedkeuring te geven voor een stageplan voor een beroepsinlevingsstage als vermeld in artikel 111/0/24.&nbsp;<br>
+2° &nbsp; &nbsp;geen stageplan voor een beroepsinlevingsstage als vermeld in artikel 111/0/24 van dit besluit, goed te keuren.&nbsp;<br>
+<br>
+Als de VDAB een melding krijgt van een wettelijke of contractuele verplichting die niet is nagekomen door de werkgever, onderzoekt VDAB de geloofwaardigheid van de melding. Als het gaat om een geloofwaardige melding, kan de werkgever maximaal acht weken geen opleidingen, stages of goedkeuringen aanvragen als vermeld in het eerste lid. In die termijn gaat de VDAB na welke verplichtingen niet zijn nagekomen en welke gevolgen daaraan gekoppeld worden. Deze gevolgen kunnen een afsprakenkader, een officiële waarschuwing of een uitsluiting voor drie jaar zijn.<br>
 <br>
 De periode van drie jaar, vermeld in het eerste lid, begint op de datum van de kennisgeving van de beslissing, vermeld in het eerste lid.<br>
 <br>
-Tegen de beslissing, vermeld in het eerste lid, kan de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid beroep aantekenen bij de raad van bestuur binnen dertig dagen na de schriftelijke kennisgeving van de beslissing.<br>
-&nbsp;
+Tegen de beslissing, vermeld in het eerste lid, kan de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid beroep aantekenen bij de raad van bestuur binnen dertig dagen na de kennisgeving van de beslissing.
 
 ## HOOFDSTUK II. De organisatie van de beroepsopleiding
 
@@ -757,184 +758,338 @@ Bij het einde van de opleiding heeft de cursist recht op een diploma, getuigschr
 
 ### ART. 90.
 
-In dit hoofdstuk wordt verstaan onder individuele beroepsopleiding : de beroepsopleiding, vermeld in artikel 61, 1°, als ze wordt verstrekt in een onderneming, een vereniging zonder winstoogmerk of bij een administratieve overheid.
+In dit hoofdstuk wordt verstaan onder:<br>
+1° individuele beroepsopleiding, afgekort IBO: een beroepsopleiding als vermeld in artikel 61, 1°, die wordt uitgevoerd door een niet-werkende werkzoekende, en die wordt verstrekt in een Vlaamse of Brusselse vestigingseenheid van een onderneming, een vereniging zonder winstoogmerk of een administratieve overheid;<br>
+2° IBO-cursist: elke niet-werkende werkzoekende die bij de VDAB ingeschreven is, die voldoet aan de voorwaarden, vermeld in artikel 92, en die een overeenkomst voor individuele beroepsopleiding heeft gesloten met de IBO-werkgever en de VDAB;<br>
+3° IBO-werkgever: elke onderneming, vereniging zonder winstoogmerk of administratieve overheid die een vestigingseenheid heeft in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, die voldoet aan de voorwaarden, vermeld in artikel 93, die een overeenkomst voor individuele beroepsopleiding heeft gesloten met de IBO-cursist en de VDAB, en die de algemene voorwaarden, als vermeld in in artikel 47/1, §1, tweede lid, heeft ondertekend;<br>
+4° opleidingsplan: de bijlage bij de overeenkomst voor de individuele beroepsopleiding, die er volledig deel van uitmaakt en die voldoet aan de voorwaarden, vermeld in artikel 96;<br>
+5° werkdag: werkdagen zijn alle andere dagen dan de wettelijke feestdagen, waaronder ook Vlaamse feestdagen, zondagen, zaterdagen, brugdagen en collectieve sluitingen van de VDAB;<br>
+6° vervangingsinkomen: onder vervangingsinkomen wordt begrepen: werkloosheidsuitkering, ziekte-uitkering en leefloon.
 
 ### ART. 91.
 
-De VDAB of de partnerorganisatie beslist of een werkzoekende een individuele beroepsopleiding kan volgen.<br>
-<br>
-Die beslissing wordt genomen op basis van het verschil tussen de functievereisten en het competentieprofiel van de kandidaat.<br>
-<br>
-De cursist mag niet eerder in de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid gewerkt hebben in dezelfde functie, met uitzondering van maximaal vier weken uitzendarbeid voor de start van de individuele beroepsopleiding.<br>
-<br>
-De VDAB of de partnerorganisatie beslist ook over de verlenging of voortijdige beëindiging van de individuele beroepsopleiding. Als de VDAB of de partnerorganisatie de beslissing tot voortijdige beëindiging van de individuele beroepsopleiding neemt, is hij geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid.
+De IBO-overeenkomst moet door alle partijen ondertekend zijn voor de start van de IBO.
 
 ### ART. 92.
 
-§ 1. De VDAB of de partnerorganisatie bepaalt de opleidingsduur van de individuele beroepsopleiding. De opleidingsduur bedraagt ten minste vier weken en ten hoogste 26 weken.<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 3. ...
+De IBO-cursist voldoet aan de volgende voorwaarden:<br>
+1° de IBO-cursist heeft niet eerder in de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid gewerkt, met uitzondering van maximaal vier weken tijdelijke tewerkstelling in het jaar vóór de start van de IBO waarbij de IBO-werkgever de kandidaat-IBO-cursist geen ontslag gegeven mag hebben, met uitzondering van het statuut als jobstudent;<br>
+2° de IBO-cursist heeft geen ontslag genomen om de IBO te starten. In afwijking daarvan kan een werkzoekende die ontslag genomen heeft, wel starten met een IBO als het ontslag paste in een duurzame loopbaanwending, op voorwaarde dat de VDAB akkoord gaat met de motivatie van de werkzoekende;<br>
+3° de IBO-cursist is niet als zelfstandige in hoofdberoep actief en is niet als zelfstandige in bijberoep actief in dezelfde functie als de functie waarop de IBO betrekking heeft;<br>
+4° de IBO-cursist heeft geen arbeidsovereenkomst van meer dan een halftijds uurrooster;<br>
+5° de IBO-cursist beschikt over geldige verblijfsdocumenten vóór de start en gedurende de IBO;<br>
+6° de IBO-cursist neemt deel aan de opvolgingen van de IBO.
 
 ### ART. 93.
 
-§ 1. De cursist die een individuele beroepsopleiding volgt, krijgt van de VDAB een IBO-premie. Die premie is afgestemd op het bedrag van het vervangingsinkomen van de cursist.<br>
+De IBO-werkgever die een overeenkomst voor individuele beroepsopleiding wil sluiten, voldoet aan de volgende voorwaarden:<br>
+1° de vestigingseenheid waar de IBO plaatsvindt, ligt in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad. De vestigingseenheid is ingeschreven in de Kruispuntbank van Ondernemingen ;<br>
+2° de IBO-werkgever heeft geen enkele openstaande financiële schuld ten opzichte van de VDAB;<br>
+3° de IBO-werkgever gaat de verbintenis aan om de IBO-cursist op te leiden tot de functie die in de IBO-overeenkomst staat en alleen opdrachten te laten uitvoeren die in overeenstemming zijn met de functie die in de IBO-overeenkomst is opgenomen;<br>
+4° de IBO-werkgever ontslaat geen vaste werknemers of zet geen lopende IBO-overeenkomsten stop om een IBO te starten;<br>
+5° de onderneming is vóór de startdatum van de IBO minstens zes maanden officieel opgericht;<br>
+6° de IBO-werkgever is niet het voorwerp van een uitsluiting of van een onderzoek tot uitsluiting bij de VDAB als vermeld in artikel 65/1;<br>
+7° de IBO-werkgever neemt deel aan de opvolgingen van de IBO;<br>
+8° de IBO-werkgever verbindt er zich toe om de regelgeving over het welzijn op het werk na te leven;<br>
+9° de begeleider op de werkvloer van de IBO-cursist is minstens zes maanden in de onderneming aangeworven en heeft minstens twee jaar beroepservaring;<br>
+10° als de onderneming een vereniging zonder rechtspersoonlijkheid is of een feitelijke vereniging, kan een IBO alleen opgestart worden als de identificatiegegevens van de IBO-werkgever bekend zijn in de Kruispuntbank van Ondernemingen.<br>
 <br>
-De IBO-premie bedraagt:<br>
-1° 20 % van het GGMMI bij een vervangingsinkomen van minstens 38,5 euro per dag;<br>
-2° 40 % van het GGMMI bij een vervangingsinkomen van minstens 25,66 euro per dag en maximaal 38,49 euro per dag;<br>
-3° 60 % van het GGMMI bij een vervangingsinkomen van maximaal 25,65 euro per dag;<br>
-4° 80 % van het GGMMI als de cursist geen inkomen heeft.<br>
+De IBO-werkgever verbindt er zich toe:<br>
+1° om na de uitvoering van de IBO de IBO-cursist tewerk te stellen in dezelfde vestiging of in een andere vestiging met hetzelfde ondernemingsnummer. De IBO-cursist kan alleen in een andere vestiging met hetzelfde ondernemingsnummer werken als de IBO-cursist akkoord gaat;<br>
+2° om maandelijks uiterlijk op de zevende dag van de maand na de maand waarin de IBO-prestaties zijn uitgevoerd, de IBO-premie en de verplaatsingsvergoedingen te betalen via een bankoverschrijving aan de IBO-cursist;<br>
+3° de IBO-cursist niet ter beschikking te stellen van een andere onderneming of werkgever;<br>
+4° om de IBO-cursist te registreren in Dimona, overeenkomstig het koninklijk besluit van 5 november 2002 ‘tot invoering van een onmiddellijke aangifte van tewerkstelling, met toepassing van artikel 38 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels, vóór de start van de IBO.<br>
 <br>
-De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
-<br>
-§ 2. Bij een deeltijdse IBO wordt de IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
-<br>
-§ 3. De cursist die een IBO volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
-<br>
-§ 4. De VDAB betaalt maandelijks de IBO-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
-<br>
-§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar de cursist de individuele beroepsopleiding volgt, betalen maandelijks de volgende kostprijs aan de VDAB:<br>
-1° 650 euro als de loonschaal minder dan 1.734 euro bedraagt;<br>
-2° 800 euro als de loonschaal tussen de 1.734 en 2.040 euro bedraagt;<br>
-3° 1.000 euro als de loonschaal tussen de 2.041 en 2.346 euro bedraagt;<br>
-4° 1.200 euro als de loonschaal tussen de 2.347 en 2.652 euro bedraagt;<br>
-5° 1.400 euro als de loonschaal meer dan 2.652 euro bedraagt.<br>
-<br>
-§ 6. Bij een deeltijdse IBO wordt de kostprijs berekend volgens de tewerkstellingsbreuk.<br>
-<br>
-Bij een afwezigheid van ten minste zeven aaneensluitende kalenderdagen van de cursist wordt de kostprijs voor de werkgever pro rata berekend vanaf de achtste kalenderdag afwezigheid van de cursist.<br>
-<br>
-§ 7. De bedragen van de loonschalen, vermeld in paragraaf 5, worden aangepast aan de spilindex.
+In het tweede lid, 4°, wordt verstaan onder Dimona: het elektronische bericht waarmee de IBO-werkgever aan de Rijksdienst voor de Sociale Zekerheid meldt dat een IBO-cursist in dienst komt of uit dienst gaat.
 
 ### ART. 94.
 
-De werkgever verbindt er zich toe met de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding heeft gevolgd, onmiddellijk na het einde van de opleiding een arbeidsovereenkomst voor onbepaalde duur te sluiten.<br>
+De VDAB beslist of een werkzoekende een IBO kan volgen.<br>
 <br>
-Met behoud van de toepassing van de wettelijke bepalingen over het beëindigen van de arbeidsovereenkomsten om een dringende reden mag de werkgever aan de arbeidsovereenkomst, vermeld in het eerste lid, op zijn vroegst een einde maken na verloop van de tijd die overeenstemt met de duur van de opleiding.<br>
+Die beslissing, vermeld in het eerste lid, wordt genomen op basis van het verschil tussen de functievereisten en het competentieprofiel van de kandidaat.&nbsp;<br>
 <br>
-De werkgever verbindt er zich toe de cursist die de opleiding in de onderneming, vereniging zonder winstoogmerk of administratieve overheid beëindigd heeft, tewerk te stellen in de onderneming, vereniging zonder winstoogmerk of administratieve overheid onder de voorwaarden die voor dat beroep gelden en minstens tegen dezelfde arbeidsvoorwaarden als die welke golden gedurende de periode dat de cursist de opleiding volgde.<br>
+De IBO-werkgever dient de IBO-aanvraag in op het digitale platform van de VDAB.<br>
 <br>
-In afwijking van het eerste lid, kan de werkgever met de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding heeft gevolgd, onmiddellijk na het einde van de opleiding een arbeidsovereenkomst voor bepaalde duur sluiten, op voorwaarde dat hij aan de VDAB of de partnerorganisatie aantoont dat die keuze overeenstemt met het gangbare aanwervingsbeleid. De arbeidsovereenkomst wordt gesloten voor minstens dezelfde duur als de duur van de opleiding.
+De VDAB beslist over de aanvraag van de IBO binnen zeven werkdagen nadat de VDAB het volledige en correcte dossier heeft ontvangen en op voorwaarde dat de kandidaat ingeschreven is bij de VDAB als niet-werkende werkzoekende.&nbsp;<br>
+<br>
+Als het dossier niet volledig is, de gegevens niet correct zijn of de kandidaat nog niet ingeschreven is bij de VDAB als niet-werkende werkzoekende, laat de VDAB aan de IBO-werkgever weten dat de termijn van zeven werkdagen, vermeld in het vierde lid, wordt opgeschort tot het dossier volledig correct is of de kandidaat ingeschreven is bij de VDAB als niet-werkende werkzoekende.
 
 ### ART. 95.
 
-De werkgever verzekert de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats zoals bepaald in de Arbeidsongevallenwet van 10 april 1971 en de uitvoeringsbesluiten ervan<br>
+Voor de start van de IBO wordt tussen de VDAB, de IBO-cursist en de IBO-werkgever een overeenkomst gesloten.<br>
 <br>
-De cursist die in het kader van zijn individuele beroepsopleiding schade berokkent aan de werkgever of aan derden, is alleen aansprakelijk in geval van bedrog, een zware fout of een herhaalde lichte fout.
+De overeenkomst, vermeld in het eerste lid, bevat al de volgende elementen:<br>
+1° het contractnummer;<br>
+2° de identiteit van de partijen;<br>
+3° de begindatum van de IBO en de einddatum;<br>
+4° de omschrijving, de inhoud en de doelstelling van de IBO;<br>
+5° de rechten en plichten van de partijen, waaronder deze vermeld in het decreet van 30 april 2004 houdende het Handvest van de Werkzoekende en de wetgeving op de arbeidsbescherming;<br>
+6° de plaats van de uitvoering van de IBO;<br>
+7° de wekelijkse duur van de IBO;<br>
+8° de wijze van berekening van de IBO-premie;<br>
+9° &nbsp;de manier waarop een einde kan worden gemaakt aan de IBO;<br>
+10° het opleidingsplan dat opgemaakt is door de IBO-werkgever en goedgekeurd is door de VDAB.
 
 ### ART. 96.
 
-De VDAB kan beslissen om aan de onderneming, vereniging zonder winstoogmerk of administratieve overheid die haar wettelijke of contractuele verplichtingen niet nakomt, of die een cursist die bij haar een individuele beroepsopleiding heeft gevolgd, ontslaat zonder dringende reden, gedurende drie jaar geen individuele beroepsopleiding toe te kennen. Die periode van drie jaar gaat in op de datum van de kennisgeving van de beslissing.<br>
-<br>
-Tegen die&nbsp;beslissing van de VDAB, vermeld in het eerste lid, kan de onderneming, vereniging zonder winstoogmerk of administratieve overheid beroep aantekenen bij de raad van bestuur binnen dertig dagen na de schriftelijke kennisgeving van de beslissing.
+Het opleidingsplan, waarin de functievereisten en het competentieprofiel van de kandidaat tot uiting komen, bevat de volgende elementen:<br>
+1° de identiteit van de IBO-cursist en de IBO-werkgever;<br>
+2° het contractnummer;<br>
+3° de omschrijving van de competenties die aangeleerd moeten worden;<br>
+4° als dat van toepassing is, de externe opleiding of de opleiding die op een VDAB-vloer wordt gegeven;<br>
+5° de geschatte tijd om de competenties aan te leren.
 
 ### ART. 97.
 
-Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB of de partnerorganisatie, de cursist en de onderneming, vereniging zonder winstoogmerk of administratieve overheid een overeenkomst gesloten, waarvan het model door de raad van bestuur van de VDAB wordt bepaald.
+De VDAB bepaalt de duurtijd van de IBO. De duurtijd bedraagt ten minste vier weken en ten hoogste zesentwintig weken.<br>
+<br>
+De IBO vindt minstens halftijds plaats, met een minimum van 17,5 uur per week.<br>
+<br>
+De duurtijd van de IBO hangt af van de competentiekloof die de IBO-cursist voor de start van de IBO heeft.
 
 ### ART. 98.
 
-...
+§1. De IBO-cursist ontvangt een IBO-premie die in een voltijdse regeling wordt berekend op basis van volgende formule:<br>
+<br>
+((brutoloon na aanwerving - RSZ-bijdrage ten laste van de werknemer) - vervangingsinkomen van de IBO-cursist) X percentage.<br>
+<br>
+De IBO-werkgever houdt telkens de bedrijfsvoorheffing, overeenkomstig het Wetboek van de Inkomstenbelasting 1992, in op de IBO-premie.<br>
+<br>
+De IBO-werkgever kan voor het percentage in de formule kiezen tussen 70%, 80%, 90% en 100%. Het percentage in de formule wordt voor de start van de IBO gekozen door de IBO-werkgever en blijft ongewijzigd gedurende de volledige duur van de IBO.<br>
+<br>
+Om de IBO-premie te berekenen, blijft het brutoloon na aanwerving tijdens de volledige duur van de IBO hetzelfde als bij de start van de IBO.<br>
+<br>
+Onder het vervangingsinkomen wordt begrepen:&nbsp;<br>
+1° het maandbedrag vervangingsinkomen of;<br>
+2° het dagbedrag vervangingsinkomen X 26.<br>
+<br>
+De IBO-werkgever betaalt maandelijks uiterlijk op de zevende dag van de maand na de maand waarin de IBO-prestaties zijn uitgevoerd, de IBO-premie.&nbsp;<br>
+Bij een deeltijdse IBO wordt de IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
+<br>
+De IBO-premie wordt betaald voor iedere dag aanwezigheid van de IBO-cursist.<br>
+<br>
+Als de IBO-cursist een arbeidsongeval of een arbeidswegongeval heeft gehad, betaalt de IBO-werkgever de IBO-premie voor de eerste dertig dagen van de arbeidsongeschiktheid. Als de IBO-overeenkomst voortijdig wordt beëindigd tijdens deze dertig dagen is de IBO-premie alleen verschuldigd tot het einde van de IBO.<br>
+<br>
+Een feestdag, als vermeld in de wet van 4 januari 1974 betreffende de feestdagen, wordt aanzien als aanwezigheid en daarvoor ontvangt de IBO-cursist een IBO-premie.<br>
+<br>
+§2. De VDAB geeft iedere maand het bedrag van de IBO-premie door aan de IBO-werkgever. Dat bedrag komt overeen met de IBO-premie voor een volledige voltijdse maand.&nbsp;<br>
+<br>
+Om het bedrag van de IBO-premie te bepalen, wordt met de volgende elementen rekening gehouden:<br>
+1° voor de start van de IBO wordt het bedrag van de IBO-premie bepaald op de startdag van de IBO;<br>
+2° voor de volgende maanden van de IBO wordt er rekening gehouden met de evolutie van het bedrag van het vervangingsinkomen van de IBO-cursist en wordt het bedrag van de IBO-premie berekend op die basis. Dit houdt in dat de IBO-premie kan wijzigen als het vervangingsinkomen van de IBO-cursist wijzigt.
 
-## [Afdeling I/1. IBO voor kwetsbare werkzoekenden (verv. BVR 6 juli 2018, art. 29, I: 1 september 2018)][(IBO-plus) (verv. BVR 28 oktober 2022, art. 5, I: 1 januari 2023)]
+## Afdeling I/1. ...
 
 ### ART. 98/1.
 
-In deze afdeling wordt verstaan onder IBO-plus: de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan:<br>
-1° de niet-werkende werkzoekende met een indicatie van arbeidshandicap;<br>
-2° de niet-werkende werkzoekende die jonger dan 25 jaar is en die ten minste gedurende twaalf maanden onmiddellijk voorafgaand aan de start van de IBO-plus bij de VDAB als zodanig is ingeschreven;<br>
-3° de niet-werkende werkzoekende die ouder dan 25 jaar is en die ten minste gedurende 24 maanden onmiddellijk voorafgaand aan de start van de IBO-plus bij de VDAB als zodanig is ingeschreven;<br>
-4° personen ten laste van het RIZIV die actieve stappen naar tewerkstelling zetten.
+...
 
 ### ART. 98/2.
 
-De VDAB of de partnerorganisatie bepaalt de opleidingsduur van de IBO-plus. De opleidingsduur bedraagt ten minste een maand en ten hoogste een jaar.
+...
 
 ### ART. 98/3.
 
-§ 1. De cursist die een IBO-plus volgt, krijgt van de VDAB een IBO-plus-premie. Die premie is afgestemd op het bedrag van het vervangingsinkomen van de cursist.<br>
-<br>
-De IBO-plus-premie bedraagt:<br>
-1° 20 % van het GGMMI bij een vervangingsinkomen van minstens 38,5 euro per dag;<br>
-2° 40 % van het GGMMI bij een vervangingsinkomen van minstens 25,66 euro per dag en maximaal 38,49 euro per dag;<br>
-3° 60 % van het GGMMI bij een vervangingsinkomen van maximaal 25,65 euro per dag;<br>
-4° 80 % van het GGMMI als de cursist geen inkomen heeft.<br>
-<br>
-De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
-<br>
-§ 2. Bij een deeltijdse IBO-plus wordt de K-IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
-<br>
-§ 3. De cursist die een IBO-plus volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
-<br>
-§ 4. De VDAB betaalt maandelijks de IBO-plus-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
-<br>
-§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar een IBO-plus georganiseerd wordt, is geen maandelijks bedrag verschuldigd.
+...
 
 ### ART. 98/4.
 
-Artikel 91 en artikel 94 tot en met 97 zijn van toepassing op de IBO-plus.
-
-## Afdeling II. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
+...
 
 ### ART. 99.
 
-...
+De IBO-werkgever legt op verzoek van de VDAB een bewijs van betaling van de IBO-premie en de verplaatsingsvergoeding voor binnen vijf werkdagen vanaf de dag dat de VDAB de schriftelijke vraag gesteld heeft aan de IBO-werkgever.
 
 ### ART. 100.
 
-...
+§1. De IBO-cursist die een IBO volgt, heeft geen recht op een verplaatsingsvergoeding die de VDAB betaalt als vermeld in artikel 6, §2, 1° en 2°.<br>
+De IBO-cursist die een IBO volgt, ontvangt een verplaatsingsvergoeding van de IBO-werkgever onder dezelfde voorwaarden als de voorwaarden die gelden voor een werknemer.<br>
+<br>
+De IBO-werkgever betaalt maandelijks uiterlijk op de zevende dag van de maand na de maand waarin de IBO-prestaties zijn uitgevoerd, de verplaatsingsvergoeding.<br>
+<br>
+§2. De IBO-cursist heeft recht op een terugbetaling van de kinderopvang, vermeld in artikel 6, § 2, 4°, als hij voldoet aan de voorwaarden.
 
 ### ART. 101.
 
-...
+De IBO-werkgevers verzekeren de IBO-cursisten die in hun onderneming, vereniging zonder winstoogmerk of administratieve overheid een IBO volgen, tegen arbeidsongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats zoals bepaald in de Arbeidsongevallenwet van 10 april 1971 en de uitvoeringsbesluiten ervan.<br>
+<br>
+De IBO-werkgevers sluiten een verzekering af voor de dekking van hun contractuele en hun buitencontractuele aansprakelijkheid, vermeld in boek 6 van het Burgerlijk Wetboek, ten aanzien van de IBO-cursist en derden, en voor de dekking van de contractuele en de buitencontractuele aansprakelijkheid, vermeld in boek 6 van het Burgerlijk Wetboek, van de IBO-cursist ten aanzien van de IBO-werkgever en derden voor schade die is berokkend tijdens de uitvoering van de IBO, behoudens voor bedrog, zware fout of een herhaalde lichte fout.
 
 ### ART. 102.
 
-...
+De VDAB voorziet minstens één keer per maand in een opvolging van de IBO, behalve als dat door overmacht niet mogelijk is.<br>
+<br>
+De opvolging, vermeld in het eerste lid, kan fysiek of digitaal plaatsvinden.
 
 ### ART. 102/1.
 
 ...
 
-## Afdeling III. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
-
 ### ART. 103.
 
-...
+De IBO-werkgever laat toe aan de VDAB om aanwezig te zijn op de werkvloer in functie van opvolgingen en audit, en aan de partnerorganisatie in functie van extra ondersteuning en remediëring.
 
 ### ART. 104.
 
-...
+De VDAB beslist over de verlenging van de IBO. De totale duurtijd van de IBO inclusief verlengingen bedraagt ten hoogste zesentwintig weken.<br>
+<br>
+De IBO-werkgever bezorgt de vraag tot verlenging minstens veertien dagen vóór de einddatum van de IBO schriftelijk en gemotiveerd aan de VDAB.<br>
+<br>
+De volgende oorzaken kunnen aanleiding geven tot een verlenging:<br>
+1° arbeidsongeschiktheid van de IBO-cursist door ziekte, een ongeval, een arbeidsongeval of een arbeidswegongeval;<br>
+2° sluiting van de onderneming door staking, slechte weersomstandigheden, collectieve sluiting of overmacht;<br>
+3° jaarlijkse vakantie van de IBO-cursist;<br>
+4° pedagogische redenen.<br>
+<br>
+De VDAB kan, als dat nodig is, bewijzen opvragen van de oorzaken, vermeld in het derde lid.
 
 ### ART. 105.
 
-...
+§1. De VDAB beslist over de voortijdige beëindiging van de IBO. Als de VDAB beslist de IBO voortijdig te beëindigen, is de VDAB geen enkele vergoeding verschuldigd aan de IBO-cursist, de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid.<br>
+<br>
+Als een van de contracterende partijen aangeeft de IBO-overeenkomst voortijdig te willen beëindigen, heeft de VDAB tot drie werkdagen, vanaf de ontvangst van de melding van een van de contracterende partijen, om te bemiddelen om een voortijdige beëindiging te voorkomen.<br>
+<br>
+De vraag tot voortijdige beëindiging wordt minstens veertien dagen vóór de einddatum van de IBO schriftelijk en gemotiveerd bezorgd aan de VDAB.<br>
+<br>
+Indien blijkt dat een IBO niet passend is, kan tot veertien dagen na de start van de IBO de vraag schriftelijk en gemotiveerd gesteld worden door alle partijen om voortijdig te beëindigen zonder nadelige gevolgen op voorwaarde dat VDAB akkoord gaat.<br>
+<br>
+Indien de IBO-werkgever de IBO-cursist vroegtijdig wil aanwerven, kan de IBO voortijdig beëindigd worden. Artikel 107 blijft van toepassing.<br>
+<br>
+§2. Bij een IBO met een IBO-cursist met een vastgestelde medische problematiek kan een IBO voortijdig beëindigd worden als blijkt dat de IBO-cursist meer uren aankan dan de lopende IBO om vervolgens aansluitend een nieuwe IBO te starten waarbij dezelfde voorwaarden van toepassing blijven, behalve de wekelijkse duurtijd die verhoogd wordt.<br>
+<br>
+De duurtijden van alle opeenvolgende IBO’s samen bedragen niet meer dan zesentwintig weken.<br>
+<br>
+De duurtijden van alle opeenvolgende IBO’s worden samengeteld om de minimale duurtijd van de arbeidsovereenkomst, zoals vermeld in artikel 107, na de uitvoering van de IBO te berekenen.<br>
+<br>
+§3. Indien de IBO voortijdig beëindigd wordt omwille van langdurige afwezigheid door een medische problematiek kan er nadien een nieuwe IBO bij dezelfde IBO-werkgever in dezelfde functie opgestart worden voor de resterende duurtijd van de eerste IBO.<br>
+<br>
+De duurtijden van de beide IBO’s samen bedragen niet meer dan zesentwintig weken.<br>
+<br>
+De duurtijden van de beide IBO’s worden samengeteld om de minimale duurtijd van de arbeidsovereenkomst, zoals vermeld in artikel 107, na de uitvoering van de IBO te berekenen.
 
 ### ART. 106.
 
-...
+Als de IBO-werkgever de IBO-overeenkomst voortijdig beëindigt zonder overleg met de VDAB, als de VDAB niet akkoord gaat met de voortijdige beëindiging of als de IBO-overeenkomst beëindigd wordt door een foutieve houding van de IBO-werkgever, is de IBO-werkgever de IBO-cursist een schadevergoeding verschuldigd die overeenstemt met de som van alle IBO-premies voor het resterende gedeelte van de opleiding en het verschuldigd fictief loon van de IBO-werkgever voor de periode die overeenstemt met de duur van de opleidingen, inclusief onderbrekingen en verlengingen.<br>
+Voor de berekening van de schadevergoeding voor het resterende gedeelte van de opleiding wordt uitgegaan van een verderzetting van de IBO-premie zoals die gold op de dag waarop de IBO beëindigd werd.&nbsp;<br>
+<br>
+Als de IBO-werkgever de tewerkstellingsverbintenis, vermeld in artikel 107, niet naleeft, is de IBO-werkgever, onverminderd de wettelijke en conventionele bepalingen over de arbeidsovereenkomsten, een schadevergoeding verschuldigd die gelijk is aan het verschuldigd fictief loon dat de IBO-werkgever verschuldigd is voor de tewerkstelling gedurende een periode die overeenstemt met de periode van de opleidingen, inclusief onderbrekingen en verlengingen. &nbsp;
 
 ### ART. 107.
 
-...
+De IBO-werkgevers verbinden er zich toe met de IBO-cursisten die in hun onderneming, vereniging zonder winstoogmerk of administratieve overheid een IBO hebben gevolgd, vanaf de eerste dag na de uitvoering van de IBO een arbeidsovereenkomst voor onbepaalde duur te sluiten.<br>
+<br>
+In afwijking van het eerste lid kunnen de IBO-werkgevers met de IBO-cursisten die in hun onderneming, vereniging zonder winstoogmerk of administratieve overheid een IBO hebben gevolgd, vanaf de eerste dag na de uitvoering van de IBO een arbeidsovereenkomst voor bepaalde duur sluiten, op voorwaarde dat de IBO-werkgevers aan de VDAB aantonen dat die keuze overeenstemt met het gangbare aanwervingsbeleid.<br>
+<br>
+De IBO-cursist krijgt een arbeidsovereenkomst voor de aangeleerde functie , onder de voorwaarden die voor dat beroep gelden, en minstens in dezelfde arbeidsregeling als tijdens de IBO in de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid. De IBO-cursist ontvangt minimaal het loon van een geschoolde werknemer dat van toepassing is in het geldende paritair comité, overeenkomstig de betreffende collectieve arbeidsovereenkomsten. De arbeidsovereenkomst kan pas een einde nemen na een periode die minstens gelijk is aan de duur van de IBO.<br>
+<br>
+Als de onderneming tijdens de IBO is overgenomen, wordt de verplichting om de IBO-cursist in dienst te nemen, opgenomen door de overnemende onderneming in geval van overgang van de onderneming krachtens overeenkomst.
 
 ### ART. 108.
 
-...
+De IBO-cursist die een IBO heeft gevolgd, heeft recht op een attest van de verworven competenties. Dit attest wordt uitgereikt door de VDAB.
 
 ### ART. 109.
 
-...
+De IBO wordt volledig uitgevoerd op de aangeduide werkvloer bij de IBO-werkgever. Als er een externe opleiding, die is opgenomen in het opleidingsplan, plaatsvindt bij een andere opleidingsverstrekker, maakt die externe opleiding volledig deel uit van de IBO.<br>
+<br>
+De opleiding bij een opleidingsverstrekker die niet de IBO-werkgever is, kan maximaal de helft van de duur van de IBO in beslag nemen.
 
 ### ART. 110.
 
-...
+De VDAB kan beslissen om volledig of gedeeltelijk een beroep te doen op een partnerorganisatie indien blijkt dat er een nood is aan extra ondersteuning en remediëring.
 
 ### ART. 111.
 
-...
+De VDAB treedt op als verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van IBO.<br>
+<br>
+De volgende gegevens van de IBO-cursist worden verwerkt:<br>
+1° de identificatiegegevens;<br>
+2° de contactgegevens;<br>
+3° het bankrekeningnummer in functie van artikelen 100, §2, 111/0/0/4 en 111/0/0/5;<br>
+4° het statuut van de werkzoekende;<br>
+5° de gegevens over de IBO-overeenkomst en het opleidingsplan;<br>
+6° de beroepservaring en de verworven competenties;<br>
+7° de gegevens over de arbeidsovereenkomst na een uitgevoerde IBO;<br>
+8° de eventuele bewindvoerder van de IBO-cursist;<br>
+9° de gegevens over het vervangingsinkomen van de IBO-cursist.<br>
+<br>
+De volgende gegevens van de IBO-werkgever worden verwerkt:<br>
+1° de identificatiegegevens;<br>
+2° de contactgegevens;<br>
+3° het paritair comité;<br>
+4° de gegevens over het IBO-dossier, de opvolging en de uitvoering van de IBO;<br>
+5° de identificatiegegevens van de contactpersoon van de IBO, de ondertekenaar van de IBO-overeenkomst en de begeleider op de werkvloer.
+
+## Afdeling II. IBO-plus
+
+### ART 111/0/0/1.
+
+In deze afdeling wordt verstaan onder IBO-plus: de individuele beroepsopleiding, vermeld in artikel 90, 1°, die verstrekt wordt aan<br>
+a)&nbsp;&nbsp; &nbsp;de niet-werkende werkzoekende met een arbeidsbeperking of een indicatie van een arbeidsbeperking, zoals vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap;<br>
+b)&nbsp;&nbsp; &nbsp;personen die een RIZIV-uitkering ontvangen, zoals vermeld in de wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, en die actieve stappen naar tewerkstelling zetten;<br>
+c)&nbsp;&nbsp; &nbsp;de gedetineerde of de niet-werkende werkzoekende die beperkte detentie of elektronisch toezicht heeft, niet-werkende werkzoekenden tijdens een periode van voorlopige of voorwaardelijke invrijheidsstelling
+
+### ART 111/0/0/2.
+
+De VDAB beslist of een werkzoekende een IBO-plus kan volgen.<br>
+<br>
+Om in aanmerking te komen voor een IBO-plus moet cumulatief aan volgende voorwaarden voldaan worden:<br>
+a)&nbsp;&nbsp; &nbsp;er moet een verschil zijn tussen de functievereisten en het competentieprofiel van de kandidaat. De functievereisten en het competentieprofiel van de kandidaat komen tot uiting in het opleidingsplan;<br>
+b)&nbsp;&nbsp; &nbsp;de IBO-cursist zich bevindt in één van de doelgroepen van artikel 111/0/0/1;<br>
+c)&nbsp;&nbsp; &nbsp;de IBO-werkgever geeft een voldoende motivering aan en duidt welke bijkomende ondersteuning hij kan aanbieden om de IBO-cursist extra te ondersteunen tijdens de IBO-plus. Dit wordt weergegeven in het opleidingsplan.<br>
+<br>
+De IBO-werkgever dient de IBO-aanvraag in op het digitale platform van de VDAB.<br>
+<br>
+De VDAB beslist over de aanvraag van de IBO-plus binnen tien werkdagen nadat de VDAB het volledige en correcte dossier heeft ontvangen en op voorwaarde dat de kandidaat ingeschreven is bij de VDAB als niet-werkende werkzoekende.&nbsp;<br>
+<br>
+Als het dossier niet volledig is, de gegevens niet correct zijn of de kandidaat nog niet ingeschreven is bij de VDAB als niet-werkende werkzoekende, laat de VDAB aan de IBO-werkgever weten dat de termijn van tien werkdagen, vermeld in het vierde lid, wordt opgeschort tot het dossier volledig correct is of de kandidaat ingeschreven is bij de VDAB als niet-werkende werkzoekende.
+
+### ART 111/0/0/3.
+
+In afwijking van het tweede lid van artikel 97 kan de IBO-plus minder dan 17,5 uur per week duren als de IBO-cursist een vastgestelde medische problematiek heeft die een duur van minder dan 17,5 uur per week kan verantwoorden.
+
+### ART 111/0/0/4.
+
+§1. De IBO-cursist ontvangt een IBO-plus-premie die in een voltijdse regeling wordt berekend op basis van volgende formule:<br>
+<br>
+((brutoloon na aanwerving - RSZ-bijdrage ten laste van de werknemer) - vervangingsinkomen van de IBO-cursist) X 70%.<br>
+<br>
+De VDAB houdt telkens de bedrijfsvoorheffing, overeenkomstig het Wetboek van de Inkomstenbelasting 1992, in op de IBO-plus-premie.<br>
+<br>
+Om de IBO-plus-premie te berekenen, blijft het brutoloon na aanwerving tijdens de volledige duur van de IBO-plus hetzelfde als bij de start van de IBO-plus.<br>
+<br>
+Onder het vervangingsinkomen wordt begrepen:&nbsp;<br>
+1° het maandbedrag vervangingsinkomen of;<br>
+2° het dagbedrag vervangingsinkomen X 26.<br>
+<br>
+De VDAB betaalt maandelijks uiterlijk op de zevende dag van de maand na de maand waarin de IBO-prestaties zijn uitgevoerd, de IBO-plus-premie op voorwaarde dat de IBO-werkgever tijdig de prestaties bevestigt op het digitale platform van de VDAB.<br>
+Bij een deeltijdse IBO-plus wordt de IBO-plus-premie berekend volgens de tewerkstellingsbreuk.<br>
+<br>
+De IBO-plus-premie wordt betaald voor iedere dag aanwezigheid van de IBO-cursist.<br>
+<br>
+Als de IBO-cursist een arbeidsongeval of een arbeidswegongeval heeft gehad, betaalt de VDAB de IBO-plus-premie voor de eerste dertig dagen van de arbeidsongeschiktheid. Als de IBO-overeenkomst voortijdig wordt beëindigd tijdens deze dertig dagen is de IBO-plus-premie alleen verschuldigd tot het einde van de IBO-plus.<br>
+<br>
+Een feestdag, als vermeld in de wet van 4 januari 1974 betreffende de feestdagen, wordt aanzien als aanwezigheid en daarvoor ontvangt de IBO-cursist een IBO-premie.<br>
+<br>
+§2. Om het bedrag van de IBO-plus-premie te bepalen, wordt met de volgende elementen rekening gehouden:<br>
+1° voor de start van de IBO-plus wordt het bedrag van de IBO-plus-premie bepaald op de startdag van de IBO-plus;<br>
+2° voor de volgende maanden van de IBO-plus wordt er rekening gehouden met de evolutie van het bedrag van het vervangingsinkomen van de IBO-cursist en wordt het bedrag van de IBO-plus-premie berekend op die basis. Dit houdt in dat de IBO-plus-premie kan wijzigen als het vervangingsinkomen van de IBO-cursist wijzigt.<br>
+<br>
+§3. De VDAB betaalt, via een bankoverschrijving, maandelijks uiterlijk op de zevende dag van de maand na de maand waarin de IBO-prestaties zijn uitgevoerd, de IBO-plus-premie en de verplaatsingsvergoedingen op voorwaarde dat de IBO-werkgever tijdig de prestaties bevestigt op het digitale platform van de VDAB.
+
+### ART 111/0/0/5.
+
+De IBO-cursist die een IBO-plus volgt, heeft recht op een verplaatsingsvergoeding als vermeld in artikel 6, §2, 1° en 2°.&nbsp;
+
+### ART 111/0/0/6.
+
+Na een IBO-plus kan aansluitend een IBO, zoals vermeld in afdeling I. IBO, opgestart worden. Als de IBO-plus aangegaan is voor minder dan 17,5 uur per week, zoals vermeld in artikel 111/0/0/3, dan geldt deze intensiteit ook voor de IBO aansluitend op de IBO-plus. De duurtijd voor de IBO-plus en de IBO samen bedraagt maximaal tweeënvijftig weken, waarvan de IBO-plus en de IBO individueel elk maximaal zesentwintig weken duren.<br>
+<br>
+De duurtijden van de IBO-plus en de IBO worden samengeteld om de minimale duurtijd van de arbeidsovereenkomst na de uitvoering van de IBO te berekenen.
+
+### ART 111/0/0/7.
+
+Artikelen 90, 91 en 92, artikel 93 met uitzondering van het tweede lid, 2°, artikel 95 tot en met 97, artikel 100, §2, en artikel 101 tot en met 111 zijn van toepassing op de IBO-plus.
 
 ## [HOOFDSTUK IV. De werkervaringsstage (ing. BVR 23 december 2016, art. 2, I: 1 januari 2017)]
 
@@ -1124,7 +1279,7 @@ De partijen kunnen in onderling overleg het beroepsinlevingscontract beëindigen
 
 In dit hoofdstuk wordt verstaan onder:<br>
 1° actie: het ingaan op een voorstel tot gesprek, bemiddeling, werkaanbieding, werkervaring, inschakeling, opleiding of begeleiding;<br>
-2° afspraken: de verbintenissen die zijn opgenomen in het afsprakenblad, in het formeel afsprakenblad en in het ultieme afsprakenblad;<br>
+2° afspraken: de verbintenissen die zijn opgenomen in het afsprakenblad en in het ultieme afsprakenblad;<br>
 3° schriftelijk: via brief of elektronisch;<br>
 4° verblijfplaats: het laatste adres dat de verplicht ingeschreven werkzoekende heeft doorgegeven, als dat adres binnen het Vlaamse Gewest ligt, of, bij gebrek daaraan, de hoofdverblijfplaats, vermeld in artikel 3 van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten;<br>
 5° passende dienstbetrekking: de dienstbetrekking, vermeld in hoofdstuk V, afdeling 2 van het ministerieel besluit van 26 november 1991 houdende toepassingsregelen van de werkloosheidsreglementering;<br>
@@ -1227,62 +1382,53 @@ De bemiddelaar bepaalt de frequentie van de opvolgingsgesprekken en bepaalt na o
 <br>
 De bemiddelaar en de verplicht ingeschreven werkzoekende kunnen over de acties die in onderling overleg zijn overgekomen een afsprakenblad opmaken.
 
+### ART 111/8/1.
+
+Als de bemiddelaar op basis van andere informatie dan de informatie die hij heeft verkregen tijdens een opvolgingsgesprek op een fysieke locatie, vermoedt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, nodigt de bemiddelaar de verplicht ingeschreven werkzoekende conform artikel 111/6 uit voor een opvolgingsgesprek op een fysieke locatie om hun werkzoekgedrag te beoordelen.
+
 ### ART. 111/9.
 
-§ 1. Als de bemiddelaar tijdens het opvolgingsgesprek op een fysieke locatie als vermeld in artikel 111/6, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt de bemiddelaar de verplicht ingeschreven werkzoekende van die beoordeling op de hoogte tijdens het opvolgingsgesprek. Ook maken de bemiddelaar en de verplicht ingeschreven werkzoekende tijdens het opvolgingsgesprek in onderling overleg een formeel afsprakenblad op, rekening houdend met de persoonlijke situatie en competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking.<br>
+Als de bemiddelaar tijdens het opvolgingsgesprek op een fysieke locatie als vermeld in artikel 111/6, oordeelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt hij de verplicht ingeschreven werkzoekende van die beoordeling op de hoogte tijdens het opvolgingsgesprek. Tijdens het opvolgingsgesprek bepaalt de bemiddelaar de afspraken die worden opgenomen op een ultiem afsprakenblad, rekening houdend met de persoonlijke situatie en de competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking. De verplicht ingeschreven werkzoekende verbindt zich ertoe de afspraken uit te voeren tijdens de volgende maand.<br>
 <br>
-Het formeel afsprakenblad, vermeld in het eerste lid, wordt gedateerd en ondertekend door de bemiddelaar en de verplicht ingeschreven werkzoekende. De verplicht ingeschreven werkzoekende ontvangt een exemplaar van het formeel afsprakenblad. Door het formeel afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode.<br>
-<br>
-§ 2. Als de bemiddelaar in afwijking van paragraaf 1, op basis van andere informatie dan de informatie die hij heeft verkregen tijdens een opvolgingsgesprek op een fysieke locatie, vermoedt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, nodigt de bemiddelaar de verplicht ingeschreven werkzoekende conform artikel 111/6 uit voor een opvolgingsgesprek op een fysieke locatie om het werkzoekgedrag van de verplicht ingeschreven werkzoekende te beoordelen.
+Het ultiem afsprakenblad wordt gedateerd en ondertekend door de bemiddelaar en de verplicht ingeschreven werkzoekende. De verplicht ingeschreven werkzoekende ontvangt een exemplaar van het ultiem afsprakenblad. Door het ultiem afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het ultieme afsprakenblad wordt beschouwd als een formele verwittiging in het kader van de controle op de beschikbaarheid voor de arbeidsmarkt van de verplicht ingeschreven werkzoekende.
 
 ### ART. 111/10.
 
-Op het tijdstip dat afgesproken is in het formeel afsprakenblad, vermeld in artikel 111/9, § 1, artikel 111/11, § 2, eerste lid, of artikel 111/14, § 1, tweede lid, vindt opnieuw een opvolgingsgesprek op een fysieke locatie plaats waarop de verplicht ingeschreven werkzoekende aanwezig moet zijn. Als de verplicht ingeschreven werkzoekende aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende.<br>
-<br>
-Als de verplicht ingeschreven werkzoekende afwezig is op het opvolgingsgesprek, vermeld in het eerste lid, nodigt de bemiddelaar de werkzoekende opnieuw uit voor een opvolgingsgesprek op een fysieke locatie conform artikel 111/6. Als de verplicht ingeschreven werkzoekende dan wel aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende tot op de dag van dat opvolgingsgesprek en in het bijzonder de naleving van de afspraken die opgenomen zijn in het formeel afsprakenblad.<br>
-<br>
-Als het dossier van de verplicht ingeschreven werkzoekende wordt overgemaakt met toepassing van artikel 111/6, beoordeelt de controledienst de afwezigheden van de verplicht ingeschreven werkzoekende.
+...
 
 ### ART. 111/11.
 
-§ 1. Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/10, oordeelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende voldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die beoordeling tijdens het opvolgingsgesprek. De verplicht ingeschreven werkzoekende wordt er ook van op de hoogte gebracht dat hij zijn werkzoekgedrag moet voortzetten en dat hij voor een nieuw opvolgingsgesprek zal worden uitgenodigd.<br>
-<br>
-Tijdens het voormelde opvolgingsgesprek maken de bemiddelaar en de verplicht ingeschreven werkzoekende in onderling overleg een afsprakenblad op, rekening houdend met de persoonlijke situatie en competenties van de verplicht ingeschreven werkzoekende en met de criteria van de passende dienstbetrekking.<br>
-<br>
-§ 2. Als het afsprakenblad, vermeld in paragraaf 1, tweede lid, ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende met toepassing van artikel 111/9, ondertekenen hij en de bemiddelaar het formeel afsprakenblad. Door het formeel afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het formeel afsprakenblad wordt gedateerd. De verplicht ingeschreven werkzoekende ontvangt een exemplaar.<br>
-<br>
-Ook als het afsprakenblad, vermeld in paragraaf 1, tweede lid, niet ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende met toepassing van artikel 111/6, verbindt hij zich ertoe om zijn werkzoekgedrag voort te zetten en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode.
+...
 
 ### ART. 111/12.
 
-Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/10, oordeelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die beoordeling tijdens het opvolgingsgesprek.<br>
-<br>
-Tijdens het voormelde opvolgingsgesprek bepaalt de bemiddelaar de afspraken die worden opgenomen op een ultiem afsprakenblad, rekening houdend met de persoonlijke situatie en de competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking. De verplicht ingeschreven werkzoekende verbindt zich ertoe de afspraken uit te voeren tijdens de volgende maand.<br>
-<br>
-Het ultiem afsprakenblad wordt gedateerd en ondertekend door de bemiddelaar en de verplicht ingeschreven werkzoekende. De verplicht ingeschreven werkzoekende ontvangt een exemplaar van het ultieme afsprakenblad. Door het ultieme afsprakenblad te ondertekenen verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het ultieme afsprakenblad wordt beschouwd als een formele verwittiging in het kader van de controle op de beschikbaarheid voor de arbeidsmarkt van de verplicht ingeschreven werkzoekende.
+...
 
 ### ART. 111/13.
 
-Op het tijdstip dat afgesproken is in het ultieme afsprakenblad, vermeld in artikel 111/12, vindt een nieuw opvolgingsgesprek op een fysieke locatie plaats. Als de verplicht ingeschreven werkzoekende aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende, in het bijzonder de naleving door de verplicht ingeschreven werkzoekende van de afspraken die zijn opgenomen in het ultieme afsprakenblad.<br>
+Op het tijdstip dat afgesproken is in het ultieme afsprakenblad, vermeld in artikel 111/9, vindt een nieuw opvolgingsgesprek op een fysieke locatie plaats. Als de verplicht ingeschreven werkzoekende aanwezig is, beoordeelt de bemiddelaar het werkzoekgedrag van de verplicht ingeschreven werkzoekende, in het bijzonder de naleving door de verplicht ingeschreven werkzoekende van de afspraken die zijn opgenomen in het ultieme afsprakenblad.<br>
 <br>
 Als de verplicht ingeschreven werkzoekende afwezig is op het opvolgingsgesprek, vermeld in het eerste lid, wordt zijn dossier bezorgd aan de controledienst, ongeacht de reden van zijn afwezigheid. De controledienst beoordeelt het werkzoekgedrag van de verplicht ingeschreven werkzoekende, in het bijzonder de naleving door de verplicht ingeschreven werkzoekende van de afspraken die zijn opgenomen in het ultieme afsprakenblad.
 
 ### ART. 111/14.
 
-§ 1. Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/13, eerste lid, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende voldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van die positieve beoordeling tijdens het opvolgingsgesprek. De verplicht ingeschreven werkzoekende wordt er ook van op de hoogte gebracht dat hij zijn werkzoekgedrag moet voortzetten en dat hij voor een nieuw opvolgingsgesprek zal worden uitgenodigd. Tijdens het voormelde opvolgingsgesprek maken de bemiddelaar en de verplicht ingeschreven werkzoekende in onderling overleg een afsprakenblad op, rekening houdend met de persoonlijke situatie van de verplicht ingeschreven werkzoekende, de competenties van de verplicht ingeschreven werkzoekende en de criteria van de passende dienstbetrekking.<br>
+§1. Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/13, eerste lid, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende voldoende is, brengt hij de verplicht ingeschreven werkzoekende op de hoogte van de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;de positieve beoordeling tijdens het opvolgingsgesprek;<br>
+2°&nbsp;&nbsp; &nbsp;dat de verplicht ingeschrevende werkzoekende diens werkzoekgedrag moet voortzetten;<br>
+3°&nbsp;&nbsp; &nbsp;dat de verplicht ingeschreven werkzoekende voor een nieuw opvolgingsgesprek zal worden uitgenodigd.&nbsp;<br>
 <br>
-Als het afsprakenblad, vermeld in het eerste lid, ter ondertekening aan de verplicht ingeschreven werkzoekende wordt voorgelegd met toepassing van artikel 111/9, ondertekenen hij en de bemiddelaar het formeel afsprakenblad. Door de ondertekening verbindt de verplicht ingeschreven werkzoekende zich ertoe om voldoende werkzoekgedrag te vertonen en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode. Het formeel afsprakenblad wordt gedateerd. De verplicht ingeschreven werkzoekende ontvangt een exemplaar.<br>
+Tijdens het opvolgingsgesprek, vermeld in het eerste lid, maken de bemiddelaar en de verplicht ingeschreven werkzoekende in onderling overleg een afsprakenblad op, rekening houdend met de persoonlijke situatie van de verplicht ingeschreven werkzoekende, diens competenties en de criteria van de passende dienstbetrekking. De verplicht ingeschreven werkzoekende verbindt zich ertoe om zijn werkzoekgedrag voort te zetten en in het bijzonder om de afspraken uit te voeren.<br>
 <br>
-Ook als het afsprakenblad, vermeld in het eerste lid, niet ter ondertekening wordt voorgelegd aan de verplicht ingeschreven werkzoekende met toepassing van artikel 111/6, verbindt hij zich ertoe om zijn werkzoekgedrag voort te zetten en in het bijzonder om de afspraken uit te voeren tijdens de afgesproken periode.
+§2. Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/13, eerste lid, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt hij de verplicht ingeschreven werkzoekende van die beoordeling op de hoogte tijdens het opvolgingsgesprek en bezorgt hij het dossier van de verplicht ingeschreven werkzoekende aan de controledienst.
 
 ### ART. 111/15.
 
-Als de bemiddelaar tijdens het opvolgingsgesprek, vermeld in artikel 111/13, eerste lid, vaststelt dat het werkzoekgedrag van de verplicht ingeschreven werkzoekende onvoldoende is, brengt hij de verplicht ingeschreven werkzoekende van die beoordeling op de hoogte tijdens het opvolgingsgesprek en bezorgt hij het dossier van de verplicht ingeschreven werkzoekende aan de controledienst.
+...
 
 ### ART. 111/16.
 
 De bemiddelaar bezorgt een dossier aan de controledienst als:<br>
-1° de verplicht ingeschreven werkzoekende weigert een trajectovereenkomst, formeel afsprakenblad of ultiem afsprakenblad te ondertekenen als hem dat ter ondertekening wordt voorgelegd;<br>
+1° de verplicht ingeschreven werkzoekende weigert een trajectovereenkomst of een ultiem afsprakenblad als vermeld in artikel 111/9, te ondertekenen als hem dat ter ondertekening wordt voorgelegd;<br>
 2° de verplicht ingeschreven werkzoekende zich niet aanmeldt bij een werkgever en daarvoor geen geldige reden heeft, nadat hij daarvoor van de VDAB een opdracht heeft ontvangen;<br>
 3° de verplicht ingeschreven werkzoekende weigert een passende dienstbetrekking of een passend aanbod te aanvaarden;<br>
 4° door toedoen van de verplicht ingeschreven werkzoekende een begeleidingsplan, competentieversterking of opleidingscontract mislukt of wordt stopgezet.<br>
@@ -1463,11 +1609,11 @@ De werkzoekende, vermeld in het eerste lid, moet wel ingaan op afspraken bij VDA
 
 ### ART 111/32.
 
-&nbsp;§ 1. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan vrijgesteld worden gedurende de periode waarin hij een andere studie, opleiding of stage volgt dan die, vermeld in artikel 111/33 tot en met 111/38, als aan de volgende voorwaarden is voldaan:<br>
+§ 1. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan vrijgesteld worden gedurende de periode waarin hij een andere studie, opleiding of stage volgt dan die, vermeld in artikel 111/33 tot en met 111/38, als aan de volgende voorwaarden is voldaan:<br>
 1° de vraag om vrijstelling van de verplicht ingeschreven werkzoekende komt bij VDAB aan vóór de start van de studie, opleiding of stage. In geval van laattijdige aanvraag kan de vrijstelling slechts verleend worden voor de periode vanaf de datum waarop VDAB de aanvraag heeft ontvangen;<br>
 2° de studie, opleiding of stage wordt aanvaard door VDAB als ze past in het traject naar werk van de verplicht ingeschreven werkzoekende. De aanvaarding geldt alleen voor het verlenen van de vrijstelling met toepassing van dit hoofdstuk;<br>
 3° het betreft een studie, opleiding of stage van ten minste vier weken en gemiddeld ten minste twintig uur per week, en de lessen mogen niet hoofdzakelijk op zaterdag of na 17 uur worden gegeven;<br>
-4° het volgen van een studie, opleiding of stage en de modaliteiten van opvolging kunnen door de bemiddelaar opgenomen worden in het formeel afsprakenblad. Als het gaat om een opleiding die niet door VDAB georganiseerd, erkend of gesubsidieerd wordt, is de opmaak van dat formeel afsprakenblad verplicht;<br>
+4° het volgen van een studie, opleiding of stage en de modaliteiten van opvolging kunnen door de bemiddelaar opgenomen worden in het afsprakenblad. Als het gaat om een opleiding die niet door VDAB georganiseerd, erkend of gesubsidieerd wordt, is de opmaak van dat afsprakenblad verplicht;<br>
 5° de verplicht ingeschreven werkzoekende blijft ingeschreven bij VDAB voor de duurtijd van de vrijstelling.<br>
 <br>
 § 2. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan van VDAB de toelating krijgen om een studie, opleiding of stage te volgen zonder vrijstelling van beschikbaarheid, maar met behoud van uitkeringen.<br>
@@ -1576,7 +1722,7 @@ Tenzij anders is bepaald in dit hoofdstuk, kan de vrijstelling, vermeld in het e
 <br>
 VDAB kan een aanwezigheidsattest vragen aan de werkzoekende met vrijstelling.<br>
 <br>
-§ 2. Als blijkt dat de verplicht ingeschreven werkzoekende een formeel afsprakenblad, gemaakt in het kader van de voormelde vrijstelling, niet naleeft, kan een ultiem afsprakenblad worden opgesteld conform artikel 111/12. Als het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan de controledienst met toepassing van artikel 111/13, en het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende van wie de vrijstelling werd ingetrokken, wordt daarvan op de hoogte gebracht.<br>
+§ 2. Als blijkt dat de verplicht ingeschreven werkzoekende een afsprakenblad, gemaakt in het kader van de voormelde vrijstelling, niet naleeft, kan een ultiem afsprakenblad worden opgesteld conform artikel 111/9. Als het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan de controledienst met toepassing van artikel 111/13, en het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende van wie de vrijstelling werd ingetrokken, wordt daarvan op de hoogte gebracht.<br>
 <br>
 § 3. Als de verplicht ingeschreven werkzoekende niet ingaat op een afspraak met VDAB die tot doel heeft de studie, opleiding of stage op te volgen waarvoor vrijstelling werd verleend, wordt zijn dossier aan de controledienst bezorgd conform artikel 111/6. Als het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende wordt hiervan op de hoogte gebracht.<br>
 <br>
