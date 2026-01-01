@@ -14,12 +14,12 @@ In dit besluit wordt verstaan onder :<br>
 3° besluit van 26 februari 2016 : het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten;<br>
 4° decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
 5° dienstverlener : de dienstverlener, vermeld in artikel 9, eerste lid, 1°/1, van het besluit van 26 februari 2016;<br>
-6° eigen aandeel : het deel van de in aanmerking komende kosten dat de kleine of middelgrote onderneming moet dragen met toepassing van artikel 18 van het besluit van 26 februari 2016;<br>
+6° eigen aandeel : het deel van de in aanmerking komende kosten dat de kleine of middelgrote onderneming of het maatwerkbedrijf moet dragen met toepassing van artikel 18 van het besluit van 26 februari 2016;<br>
 7° financieel beheerder : de instelling die belast is met het financiële beheer van het webplatform kmo-portefeuille;<br>
 8° in aanmerking komende kosten : de kosten, vermeld in artikel 31;<br>
 9° inschrijving voor een opleiding : de inschrijving, vermeld in artikel 15;<br>
 10° kalenderjaar : de periode, vermeld in artikel 1, 4°, van het besluit van 26 februari 2016;<br>
-11° kleine of middelgrote onderneming : de onderneming, vermeld in artikel 3, 2°, of artikel 3, 3°, van het decreet van 16 maart 2012;<br>
+11° ...;<br>
 12° ondernemerschapsbevorderende diensten : de diensten, vermeld in artikel 9, eerste lid, 2°, van het besluit van 26 februari 2016;<br>
 13° opleiding : het onderricht, vermeld in artikel 9, eerste lid, 2°, a), van het besluit van 26 februari 2016;<br>
 14° overeenkomst voor het verlenen van advies : de overeenkomst, vermeld in artikel 19;<br>
@@ -35,7 +35,7 @@ Dit   besluit regelt de aanvullende voorwaarden voor de tenuitvoerlegging van he
 
 ### ART. 3.
 
-Ter uitvoering van artikel 8, eerste lid, van het besluit van 26 februari 2016 komen alleen kleine of middelgrote ondernemingen waarvan de hoofdactiviteit behoort tot de sectoren, vermeld in bijlage 1 die bij dit besluit is gevoegd, in aanmerking voor steun.
+Ter uitvoering van artikel 8, eerste lid, van het besluit van 26 februari 2016 komen alleen kleine of middelgrote ondernemingen of maatwerkbedrijven waarvan de hoofdactiviteit behoort tot de sectoren, vermeld in bijlage 1 die bij dit besluit is gevoegd, in aanmerking voor steun.
 
 ### ART. 4.
 
@@ -122,7 +122,7 @@ Het Agentschap Innoveren en Ondernemen schrapt een dienst uit de lijst, vermeld 
 
 ### ART 8/1.
 
-De dienstverlener kan niet optreden als gemachtigde van de kleine of middelgrote onderneming om de subsidie aan te vragen en het subsidiedossier te beheren voor de door hem verleende ondernemerschapsbevorderende diensten.
+De dienstverlener kan niet optreden als gemachtigde van de kleine of middelgrote onderneming of het maatwerkbedrijf om de subsidie aan te vragen en het subsidiedossier te beheren voor de door hem verleende ondernemerschapsbevorderende diensten.
 
 ### ART. 9.
 
@@ -134,11 +134,26 @@ Als   de prestaties, vermeld in de overeenkomst voor het verlenen van advies of 
 
 ### ART. 11.
 
-<P>De   facturen die de dienstverlener aan de kleine of middelgrote onderneming aanbiedt   om de ondernemerschapsbevorderende diensten te betalen via het webplatform   kmo-portefeuille, bevatten :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de naam en het registratienummer van de dienstverlener;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   het totale bedrag van de factuur, exclusief btw;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   een gedetailleerde beschrijving van de gefactureerde prestaties;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de datum van de factuur.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   in een factuur zowel in aanmerking komende kosten als niet in aanmerking komende   diensten worden gefactureerd als vermeld in artikel 12 van het besluit van 26   februari 2016, worden de niet in aanmerking komende diensten en de prijs daarvan   apart vermeld op de factuur.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Facturen   die via het webplatform kmo-portefeuille worden betaald mogen niet ook al buiten   die webapplicatie betaald zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   prijzen van de prestaties die dienstverleners factureren met gebruik van het   webplatform kmo-portefeuille zijn dezelfde als voor dezelfde prestaties die   worden gefactureerd zonder gebruik van het webplatform   kmo-portefeuille.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De facturen die de dienstverlener aan de kleine of middelgrote onderneming of het maatwerkbedrijf aanbiedt om de ondernemerschapsbevorderende diensten te betalen via het webplatform kmo-portefeuille, bevatten :<br>
+1° de naam en het registratienummer van de dienstverlener;<br>
+2° het totale bedrag van de factuur, exclusief btw;<br>
+3° een gedetailleerde beschrijving van de gefactureerde prestaties;<br>
+4° de datum van de factuur.</p>
+
+<p>Als in een factuur zowel in aanmerking komende kosten als niet in aanmerking komende diensten worden gefactureerd als vermeld in artikel 12 van het besluit van 26 februari 2016, worden de niet in aanmerking komende diensten en de prijs daarvan apart vermeld op de factuur.<br>
+Facturen die via het webplatform kmo-portefeuille worden betaald mogen niet ook al buiten die webapplicatie betaald zijn.</p>
+
+<p>De prijzen van de prestaties die dienstverleners factureren met gebruik van het webplatform kmo-portefeuille zijn dezelfde als voor dezelfde prestaties die worden gefactureerd zonder gebruik van het webplatform kmo-portefeuille.</p>
 
 ### ART. 12.
 
-De   dienstverlener kan een beroep doen op onderaannemers voor de verlening van   ondernemerschapsbevorderende diensten, op voorwaarde dat hij de   eindverantwoordelijkheid tegenover de kleine of middelgrote onderneming blijft   dragen voor :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de organisatie van de dienstverlening;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de communicatie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de facturatie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de kwaliteit van de dienstverlening en de eventuele klachten;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   de naleving van het decreet van 12 maart 2012, het besluit van 26 februari 2016,   dit besluit en de overige uitvoeringsbesluiten;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   de naleving van de overeenkomst voor het verlenen van advies of de voorwaarden   verbonden aan een opleiding.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De dienstverlener kan een beroep doen op onderaannemers voor de verlening van ondernemerschapsbevorderende diensten, op voorwaarde dat hij de eindverantwoordelijkheid tegenover de kleine of middelgrote onderneming of het maatwerkbedrijf blijft dragen voor :<br>
+1° de organisatie van de dienstverlening;<br>
+2° de communicatie;<br>
+3° de facturatie;<br>
+4° de kwaliteit van de dienstverlening en de eventuele klachten;<br>
+5° de naleving van het decreet van 12 maart 2012, het besluit van 26 februari 2016, dit besluit en de overige uitvoeringsbesluiten;<br>
+6° de naleving van de overeenkomst voor het verlenen van advies of de voorwaarden verbonden aan een opleiding.
 
 ### ART. 13.
 
@@ -176,17 +191,17 @@ De   dienstverlener bewaart het bewijs van de inschrijving, de aanwezigheidslijs
 
 ### ART. 19.
 
-De overeenkomst voor het verlenen van advies is een geschreven overeenkomst tussen een dienstverlener en een kleine of middelgrote onderneming dat de volgende vermeldingen bevat :<br>
+De overeenkomst voor het verlenen van advies is een geschreven overeenkomst tussen een dienstverlener en een kleine of middelgrote onderneming die of een maatwerkbedrijf dat de volgende vermeldingen bevat :<br>
 1° de naam van de dienstverlener;<br>
 2° het registratienummer van de dienstverlener;<br>
-3° de naam van de kleine of middelgrote onderneming;<br>
-4° het ondernemingsnummer van de kleine of middelgrote onderneming;<br>
+3° de naam van de kleine of middelgrote onderneming of het maatwerkbedrijf;<br>
+4° het ondernemingsnummer van de kleine of middelgrote onderneming of het maatwerkbedrijf;<br>
 5° een gedetailleerde beschrijving van de te leveren prestaties;<br>
 5° /1 de vermelding van het thema waaronder het advies valt;<br>
 6° de startdatum van de prestaties;<br>
 7° de totale prijs van de prestaties, exclusief btw;<br>
 8° de handtekening van de rechtsgeldige vertegenwoordiger van de dienstverlener;<br>
-9° de handtekening van de rechtsgeldige vertegenwoordiger van de kleine of middelgrote onderneming;<br>
+9° de handtekening van de rechtsgeldige vertegenwoordiger van de kleine of middelgrote onderneming of het maatwerkbedrijf;<br>
 10° de datum waarop de overeenkomst werd gesloten.
 
 ### ART. 20.
@@ -221,32 +236,34 @@ De   subsidie wordt aangevraagd tijdens de geldigheidsduur van de registratie va
 
 ### ART. 26.
 
-De   kleine of middelgrote onderneming bewaart, in geval van een subsidieaanvraag   voor advies, de overeenkomst voor het verlenen van advies, de facturen, vermeld   in artikel 11 van dit besluit en het advies, gedurende tien jaar na de   subsidieaanvraag en overhandigt een afschrift bij een controle als vermeld in   artikel 26 van het besluit van 26 februari 2016.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De kleine of middelgrote onderneming of het maatwerkbedrijf bewaart, in geval van een subsidieaanvraag voor advies, de overeenkomst voor het verlenen van advies, de facturen, vermeld in artikel 11 van dit besluit en het advies, gedurende tien jaar na de subsidieaanvraag en overhandigt een afschrift bij een controle als vermeld in artikel 26 van het besluit van 26 februari 2016.
 
 ### ART. 27.
 
 <p>Ter uitvoering van artikel 9, tweede lid, van het besluit van 26 februari 2016, wordt verstaan onder werkenden in de onderneming als vermeld in artikel 9, eerste lid, 2°, a), van het voormelde besluit : de werkenden die aan een van de volgende beschrijvingen voldoen :<br>
-1° de bij arbeidsovereenkomst tewerkgestelde personen die activiteiten uitoefenen binnen een in het Vlaamse Gewest gelegen exploitatiezetel van een kleine of middelgrote onderneming;<br>
+1° de bij arbeidsovereenkomst tewerkgestelde personen die activiteiten uitoefenen binnen een in het Vlaamse Gewest gelegen exploitatiezetel van een kleine of middelgrote onderneming of een maatwerkbedrijf;<br>
 2° de personen die als zaakvoerder of actieve vennoot aangesloten zijn bij een sociaal verzekeringsfonds voor zelfstandigen;<br>
 3° de natuurlijke personen die koopman zijn of een zelfstandig vrij beroep uitoefenen;<br>
 4° de helper of helpster van een zelfstandige die aangesloten is bij een sociaal verzekeringsfonds voor zelfstandigen;<br>
 5° de meewerkende echtgenoot of echtgenote die aangesloten is bij een sociaal verzekeringsfonds voor zelfstandigen;<br>
-6° de natuurlijke persoon, die in de Kruispuntbank van Ondernemingen is aangesteld als vaste vertegenwoordiger van de rechtspersoon, die zaakvoerder of bestuurder is van de kleine of middelgrote onderneming.<br>
+6° de natuurlijke persoon, die in de Kruispuntbank van Ondernemingen is aangesteld als vaste vertegenwoordiger van de rechtspersoon, die zaakvoerder of bestuurder is van de kleine of middelgrote onderneming of het maatwerkbedrijf.<br>
 <br>
 De werkenden in de onderneming bewaren het vormingsattest van de opleiding gedurende tien jaar na de subsidieaanvraag en overhandigen een afschrift bij een controle als vermeld in artikel 26 van het voormelde besluit</p>
 
 ### ART. 28.
 
-De ondernemerschapsbevorderende diensten worden aan de kleine of middelgrote onderneming verleend door een derde. Aan die voorwaarde is niet voldaan als een van de volgende gevallen zich voordoet :<br>
-1° de kleine of middelgrote onderneming heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de dienstverlener in handen;<br>
-2° de dienstverlener heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de kleine of middelgrote onderneming in handen;<br>
-3° de dienstverlener en de kleine of middelgrote onderneming hebben minstens één gemeenschappelijke zaakvoerder, bestuurder, werknemer of aandeelhouder;<br>
-4° de zaakvoerders, bestuurders of aandeelhouders van de kleine of middelgrote onderneming en de dienstverlener zijn met elkaar verbonden als echtgenoten, als bloedverwanten tot en met de tweede graad of door samenwoning;<br>
-5° de kleine of middelgrote onderneming heeft in het jaar waarin de subsidieaanvraag conform artikel 20 van het besluit van 26 februari 2016 is ingediend en het jaar ervoor hoofdzakelijk diensten uitgevoerd als onderaannemer van de dienstverlener.
+De ondernemerschapsbevorderende diensten worden aan de kleine of middelgrote onderneming of het maatwerkbedrijf verleend door een derde. Aan die voorwaarde is niet voldaan als een van de volgende gevallen zich voordoet :<br>
+1° de kleine of middelgrote onderneming of het maatwerkbedrijf heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de dienstverlener in handen;<br>
+2° de dienstverlener heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de kleine of middelgrote onderneming of het maatwerkbedrijf in handen;<br>
+3° de dienstverlener en de kleine of middelgrote onderneming of het maatwerkbedrijf hebben minstens één gemeenschappelijke zaakvoerder, bestuurder, werknemer of aandeelhouder;<br>
+4° de zaakvoerders, bestuurders of aandeelhouders van de kleine of middelgrote onderneming of het maatwerkbedrijf en de dienstverlener zijn met elkaar verbonden als echtgenoten, als bloedverwanten tot en met de tweede graad of door samenwoning;<br>
+5° de kleine of middelgrote onderneming of het maatwerkbedrijf heeft in het jaar waarin de subsidieaanvraag conform artikel 20 van het besluit van 26 februari 2016 is ingediend en het jaar ervoor hoofdzakelijk diensten uitgevoerd als onderaannemer van de dienstverlener.
 
 ### ART. 29.
 
-<P>De   kleine of middelgrote onderneming dient over een rekeningnummer in SEPA-formaat   te beschikken om het webplatform kmo-portefeuille te kunnen gebruiken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de kleine of middelgrote onderneming van rekeningnummer verandert, past ze dat   aan via het webplatform kmo-portefeuille.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De kleine of middelgrote onderneming of het maatwerkbedrijf dient over een rekeningnummer in SEPA-formaat te beschikken om het webplatform kmo-portefeuille te kunnen gebruiken.</p>
+
+<p>Als de kleine of middelgrote onderneming of het maatwerkbedrijf van rekeningnummer verandert, past ze dat aan via het webplatform kmo-portefeuille.</p>
 
 ## Afdeling 2 De steunintensiteit
 
@@ -254,13 +271,26 @@ De ondernemerschapsbevorderende diensten worden aan de kleine of middelgrote ond
 
 Ter uitvoering van artikel 25 van het besluit van 26 februari 2016, wordt elk kalenderjaar het toepasselijke subsidiepercentage, vermeld in artikel 18, eerste lid, van het voormelde besluit, en het toepasselijke maximale subsidiebedrag, vermeld in artikel 19 van het voormelde besluit, vastgesteld voor dat kalenderjaar op grond van de grootte van de onderneming bij de eerste volledig ingediende subsidieaanvraag van het kalenderjaar.<br>
 <br>
-Het subsidiepercentage, vermeld in artikel 18, tweede lid, van het voormelde besluit, wordt toegepast als de kleine of middelgrote onderneming in de subsidieaanvraag aangeeft dat de ondernemerschapsbevorderende dienst betrekking heeft op cybersecurity.<br>
-<br>
-Het subsidiepercentage, vermeld in artikel 18, derde lid, van het voormelde besluit, wordt toegepast als de kleine of middelgrote onderneming in de subsidieaanvraag aangeeft dat de ondernemerschapsbevorderende dienst betrekking heeft op energie-efficiëntie en het gebruik van alternatieve energiebronnen.
+De verhoging van het subsidiepercentage, vermeld in artikel 18, tweede lid, van het voormelde besluit, wordt toegepast als de kleine of middelgrote onderneming of het maatwerkbedrijf in de subsidieaanvraag aangeeft dat de ondernemerschapsbevorderende dienst betrekking heeft op cybersecurity of energie-efficiëntie en het gebruik van alternatieve energiebronnen.<br>
+&nbsp;
 
 ### ART. 31.
 
-<P>Ter   uitvoering van artikel 16, derde lid, van het besluit van 26 februari 2016, zijn   de in aanmerking komende kosten van de ondernemerschapsbevorderende diensten de   volgende :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   voor het verstrekken van een opleiding :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   de personeels- en werkingskosten van de dienstverlener voor het verstrekken van   de opleiding;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   cursusmateriaal dat uitsluitend wordt gebruikt tijdens de opleiding;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">c)   verplaatsingskosten van de dienstverlener;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">d)   catering.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   voor het verlenen van een advies :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   de personeels- en werkingskosten van de dienstverlener voor het verlenen van het   advies;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   de verplaatsingskosten van de dienstverlener.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   kosten, vermeld in het eerste lid, zijn exclusief btw.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   catering, vermeld in het eerste lid, 1°, d), is beperkt tot maximaal 25 euro per   persoon per dag van de opleiding.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   kosten, vermeld in het eerste lid, moeten volledig betaald zijn via het   webplatform kmo-portefeuille, uiterlijk op 31 december van het kalenderjaar dat   volgt op het kalenderjaar waarin de subsidieaanvraag is ingediend. Als de kosten   niet of niet volledig zijn betaald binnen de voormelde termijn, wordt het eigen   aandeel volledig of gedeeltelijk terugbetaald aan de kleine of middelgrote   onderneming, naargelang er nog geen betaling of al een gedeeltelijke betaling is   gebeurd. De subsidie, die was voorzien voor de subsidieaanvraag in kwestie,   vervalt volledig als er nog geen betaling werd uitgevoerd, of gedeeltelijk als   er al een gedeeltelijke betaling is gebeurd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Ter uitvoering van artikel 16, derde lid, van het besluit van 26 februari 2016, zijn de in aanmerking komende kosten van de ondernemerschapsbevorderende diensten de volgende :<br>
+1° voor het verstrekken van een opleiding :<br>
+a) de personeels- en werkingskosten van de dienstverlener voor het verstrekken van de opleiding;<br>
+b) cursusmateriaal dat uitsluitend wordt gebruikt tijdens de opleiding;<br>
+c) verplaatsingskosten van de dienstverlener;<br>
+d) catering.<br>
+2° voor het verlenen van een advies :<br>
+a) de personeels- en werkingskosten van de dienstverlener voor het verlenen van het advies;<br>
+b) de verplaatsingskosten van de dienstverlener.</p>
+
+<p>De kosten, vermeld in het eerste lid, zijn exclusief btw.</p>
+
+<p>De catering, vermeld in het eerste lid, 1°, d), is beperkt tot maximaal 25 euro per persoon per dag van de opleiding.</p>
+
+<p>De kosten, vermeld in het eerste lid, moeten volledig betaald zijn via het webplatform kmo-portefeuille, uiterlijk op 31 december van het kalenderjaar dat volgt op het kalenderjaar waarin de subsidieaanvraag is ingediend. Als de kosten niet of niet volledig zijn betaald binnen de voormelde termijn, wordt het eigen aandeel volledig of gedeeltelijk terugbetaald aan de kleine of middelgrote onderneming of het maatwerkbedrijf, naargelang er nog geen betaling of al een gedeeltelijke betaling is gebeurd. De subsidie, die was voorzien voor de subsidieaanvraag in kwestie, vervalt volledig als er nog geen betaling werd uitgevoerd, of gedeeltelijk als er al een gedeeltelijke betaling is gebeurd.</p>
 
 ### ART. 32.
 
@@ -268,29 +298,47 @@ Per   overeenkomst voor het verlenen van een advies of per inschrijving voor een
 
 ### ART. 33.
 
-Als   het toepasselijke maximale subsidiebedrag, vermeld in artikel 18 van het besluit   van 26 februari 2016, opgebruikt is tijdens een kalenderjaar of indien het   totale budget voor de steun voor ondernemerschapsbevorderende diensten via het   webplatform kmo-portefeuille, opgebruikt is voor het kalenderjaar in kwestie,   kan de kleine of middelgrote onderneming geen subsidieaanvragen meer indienen   tijdens dat kalenderjaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Als het toepasselijke maximale subsidiebedrag, vermeld in artikel 19 van het besluit van 26 februari 2016, opgebruikt is tijdens een kalenderjaar of indien het totale budget voor de steun voor ondernemerschapsbevorderende diensten via het webplatform kmo-portefeuille, opgebruikt is voor het kalenderjaar in kwestie, kan de kleine of middelgrote onderneming of het maatwerkbedrijf geen subsidieaanvragen meer indienen tijdens dat kalenderjaar.
 
 ## Afdeling 3 Procedure
 
 ### ART. 34.
 
-<p>De kleine of middelgrote onderneming sluit met een dienstverlener een overeenkomst om advies te verlenen of schrijft een of meer werkenden in de onderneming bij een dienstverlener in om een opleiding te volgen. Het sluiten van deze overeenkomst of deze inschrijving dient te gebeuren respectievelijk vóór de prestaties van start gaan voor het leveren van het advies of vóór het begin van de opleiding.</p>
+<p>De kleine of middelgrote onderneming of het maatwerkbedrijf sluit met een dienstverlener een overeenkomst om advies te verlenen of schrijft een of meer werkenden in de onderneming bij een dienstverlener in om een opleiding te volgen. Het sluiten van deze overeenkomst of deze inschrijving dient te gebeuren respectievelijk vóór de prestaties van start gaan voor het leveren van het advies of vóór het begin van de opleiding.</p>
 
-<p>De kleine of middelgrote onderneming moet vervolgens de subsidieaanvraag indienen via het webplatform kmo-portefeuille, met aanduiding van het thema. De subsidieaanvraag wordt ten vroegste ingediend vanaf het moment dat de overeenkomst voor het verlenen van advies is gesloten of vanaf de inschrijving voor een opleiding, en uiterlijk veertien kalenderdagen nadat de ondernemerschapsbevorderende diensten van start zijn gegaan.</p>
+<p>De kleine of middelgrote onderneming of het maatwerkbedrijf moet vervolgens de subsidieaanvraag indienen via het webplatform kmo-portefeuille, met aanduiding van het thema. De subsidieaanvraag wordt ten vroegste ingediend vanaf het moment dat de overeenkomst voor het verlenen van advies is gesloten of vanaf de inschrijving voor een opleiding, en uiterlijk veertien kalenderdagen nadat de ondernemerschapsbevorderende diensten van start zijn gegaan.</p>
 
-<p>Na het indienen van de subsidieaanvraag, stort de kleine of middelgrote onderneming het eigen aandeel op het rekeningnummer dat gecommuniceerd wordt door de financieel beheerder. Deze storting dient de mededeling te bevatten die gecommuniceerd wordt door de financieel beheerder. Deze storting dient te gebeuren uiterlijk dertig kalenderdagen na de subsidieaanvraag. De financieel beheerder stort vervolgens de subsidie.</p>
+<p>Na het indienen van de subsidieaanvraag, stort de kleine of middelgrote onderneming of het maatwerkbedrijf het eigen aandeel op het rekeningnummer dat gecommuniceerd wordt door de financieel beheerder. Deze storting dient de mededeling te bevatten die gecommuniceerd wordt door de financieel beheerder. Deze storting dient te gebeuren uiterlijk dertig kalenderdagen na de subsidieaanvraag. De financieel beheerder stort vervolgens de subsidie.</p>
 
-<p>Zodra de bevestiging wordt ontvangen door de kleine of middelgrote onderneming van de storting van de subsidie door de financiële beheerder, kan hij de opdracht tot betaling geven van de in aanmerking komende kosten via het webplatform kmo-portefeuille. De in aanmerking komende kosten worden uiterlijk veertien kalenderdagen, nadat de kleine of middelgrote onderneming de opdracht tot betaling gaf, op het rekeningnummer van de dienstverlener in kwestie gestort.</p>
+<p>Zodra de bevestiging wordt ontvangen door de kleine of middelgrote onderneming of het maatwerkbedrijf van de storting van de subsidie door de financiële beheerder, kan hij de opdracht tot betaling geven van de in aanmerking komende kosten via het webplatform kmo-portefeuille. De in aanmerking komende kosten worden uiterlijk veertien kalenderdagen, nadat de kleine of middelgrote onderneming of het maatwerkbedrijf de opdracht tot betaling gaf, op het rekeningnummer van de dienstverlener in kwestie gestort.</p>
 
 ## Afdeling 4 Annulering en stopzetting
 
 ### ART. 35.
 
-<P>Ter   uitvoering van artikel 23 van het besluit van 26 februari 2016, wordt een   subsidieaanvraag geannuleerd in de volgende gevallen :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   het webplatform kmo-portefeuille annuleert automatisch de subsidieaanvraag als   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   het eigen aandeel niet uiterlijk dertig kalenderdagen na de subsidieaanvraag   ontvangen werd op het rekeningnummer dat gecommuniceerd werd door de financieel   beheerder;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   het eigen aandeel voor een onjuist bedrag werd gestort;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">c)   de storting voor het eigen aandeel een onjuiste mededeling bevat;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de kleine of middelgrote onderneming annuleert de subsidieaanvraag via het   webplatform kmo-portefeuille voor dat ze het eigen aandeel stort;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   het Agentschap Innoveren en Ondernemen annuleert de subsidieaanvraag na de   ontvangst van een melding door de dienstverlener die aanleiding geeft tot   annulatie als vermeld in artikel 9 van dit besluit;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   het Agentschap Innoveren en Ondernemen annuleert de subsidieaanvraag na de   vaststelling dat de subsidieaanvraag niet conform is met de bepalingen van het   decreet van 16 maart 2012, het besluit van 26 februari 2016, dit besluit of de   overige uitvoeringsbesluiten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de kleine of middelgrote onderneming of de dienstverlener de steunaanvraag   annuleert, deelt die de reden daarvan schriftelijk mee aan het Agentschap   Innoveren en Ondernemen en bezorgt de nodige   stavingsstukken.</P>
+<p>Ter uitvoering van artikel 23 van het besluit van 26 februari 2016, wordt een subsidieaanvraag geannuleerd in de volgende gevallen :<br>
+1° het webplatform kmo-portefeuille annuleert automatisch de subsidieaanvraag als :<br>
+a) het eigen aandeel niet uiterlijk dertig kalenderdagen na de subsidieaanvraag ontvangen werd op het rekeningnummer dat gecommuniceerd werd door de financieel beheerder;<br>
+b) het eigen aandeel voor een onjuist bedrag werd gestort;<br>
+c) de storting voor het eigen aandeel een onjuiste mededeling bevat;<br>
+2° de kleine of middelgrote onderneming of het maatwerkbedrijf annuleert de subsidieaanvraag via het webplatform kmo-portefeuille voor dat ze het eigen aandeel stort;<br>
+3° het Agentschap Innoveren en Ondernemen annuleert de subsidieaanvraag na de ontvangst van een melding door de dienstverlener die aanleiding geeft tot annulatie als vermeld in artikel 9 van dit besluit;<br>
+4° het Agentschap Innoveren en Ondernemen annuleert de subsidieaanvraag na de vaststelling dat de subsidieaanvraag niet conform is met de bepalingen van het decreet van 16 maart 2012, het besluit van 26 februari 2016, dit besluit of de overige uitvoeringsbesluiten.</p>
+
+<p>Als de kleine of middelgrote onderneming of het maatwerkbedrijf of de dienstverlener de steunaanvraag annuleert, deelt die de reden daarvan schriftelijk mee aan het Agentschap Innoveren en Ondernemen en bezorgt de nodige stavingsstukken.</p>
 
 ### ART. 36.
 
-<P>Als   een subsidieaanvraag wordt stopgezet, wordt het eigen aandeel terugbetaald in de   mate dat het nog niet volledig aan de dienstverlener werd betaald.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Ter   uitvoering van artikel 23 van het besluit van 26 februari 2016 wordt een   subsidieaanvraag stopgezet in één van de volgende gevallen :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de kleine of middelgrote onderneming dient bij het Agentschap Innoveren en   Ondernemen een aanvraag tot stopzetting in via het webplatform   kmo-portefeuille;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   het Agentschap Innoveren en Ondernemen zet de subsidieaanvraag stop na de   ontvangst van een melding door de dienstverlener die aanleiding geeft tot   stopzetting, met toepassing van artikel 9 van dit besluit;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   het Agentschap Innoveren en Ondernemen stelt vast dat de subsidieaanvraag niet   conform is met de bepalingen van het decreet van 16 maart 2012, het besluit van   26 februari 2016, dit besluit of de overige uitvoeringsbesluiten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de kleine of middelgrote onderneming of de dienstverlener de steunaanvraag   stopzet, deelt die de reden daarvan schriftelijk mee aan het Agentschap   Innoveren en Ondernemen en bezorgt de nodige stavingsstukken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidie kan in geval van stopzetting volledig of gedeeltelijk teruggevorderd   worden conform artikel 27 en 28 van het besluit van 26 februari 2016.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als een subsidieaanvraag wordt stopgezet, wordt het eigen aandeel terugbetaald in de mate dat het nog niet volledig aan de dienstverlener werd betaald.</p>
+
+<p>Ter uitvoering van artikel 23 van het besluit van 26 februari 2016 wordt een subsidieaanvraag stopgezet in één van de volgende gevallen :<br>
+1° de kleine of middelgrote onderneming of het maatwerkbedrijf dient bij het Agentschap Innoveren en Ondernemen een aanvraag tot stopzetting in via het webplatform kmo-portefeuille;<br>
+2° het Agentschap Innoveren en Ondernemen zet de subsidieaanvraag stop na de ontvangst van een melding door de dienstverlener die aanleiding geeft tot stopzetting, met toepassing van artikel 9 van dit besluit;<br>
+3° het Agentschap Innoveren en Ondernemen stelt vast dat de subsidieaanvraag niet conform is met de bepalingen van het decreet van 16 maart 2012, het besluit van 26 februari 2016, dit besluit of de overige uitvoeringsbesluiten.</p>
+
+<p>Als de kleine of middelgrote onderneming of het maatwerkbedrijf of de dienstverlener de steunaanvraag stopzet, deelt die de reden daarvan schriftelijk mee aan het Agentschap Innoveren en Ondernemen en bezorgt de nodige stavingsstukken.</p>
+
+<p>De subsidie kan in geval van stopzetting volledig of gedeeltelijk teruggevorderd worden conform artikel 27 en 28 van het besluit van 26 februari 2016.</p>
 
 ### ART. 37.
 
@@ -300,7 +348,13 @@ De   annulatie of stopzetting van de subsidieaanvraag is   onherroepelijk.
 
 ### ART. 38.
 
-<P>Ter   uitvoering van artikel 26, derde lid, van het besluit van 26 februari 2016, kan   de betaling van subsidieaanvragen volledig of gedeeltelijk worden geblokkeerd   als bewarende maatregel.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Die   bewarende maatregel kan worden genomen als er ernstige vermoedens bestaan dat de   dienstverlener, of de kleine of middelgrote onderneming, het decreet van 16   maart 2012, het besluit van 26 februari 2016, dit besluit of de overige   uitvoeringsbesluiten niet naleeft.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   blokkering blijft van kracht tot er een beslissing over de terugvordering wordt   genomen, conform artikel 27 en 28 van het besluit van 26 februari   2016.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   kleine of middelgrote onderneming wordt schriftelijk op de hoogte gebracht van   de beslissing tot blokkering.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Ter uitvoering van artikel 26, derde lid, van het besluit van 26 februari 2016, kan de betaling van subsidieaanvragen volledig of gedeeltelijk worden geblokkeerd als bewarende maatregel.</p>
+
+<p>Die bewarende maatregel kan worden genomen als er ernstige vermoedens bestaan dat de dienstverlener, of de kleine of middelgrote onderneming of het maatwerkbedrijf, het decreet van 16 maart 2012, het besluit van 26 februari 2016, dit besluit of de overige uitvoeringsbesluiten niet naleeft.</p>
+
+<p>De blokkering blijft van kracht tot er een beslissing over de terugvordering wordt genomen, conform artikel 27 en 28 van het besluit van 26 februari 2016.</p>
+
+<p>De kleine of middelgrote onderneming of het maatwerkbedrijf wordt schriftelijk op de hoogte gebracht van de beslissing tot blokkering.</p>
 
 ## HOOFDSTUK 7 Delegatie en kennisgeving
 
