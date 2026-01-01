@@ -41,7 +41,7 @@ In dit besluit wordt verstaan onder:<br>
 5° decreet van 3 mei 2019: het decreet van 3 mei 2019 houdende de organisatie van buitenschoolse opvang en de afstemming tussen buitenschoolse activiteiten;<br>
 6° gemeente: de gemeente of het tweetalige gebied Brussel-Hoofdstad;<br>
 7° gezin: de ouders of andere opvoedingsverantwoordelijken;<br>
-8° opvanglocatie: een vestigingsplaats met een kwaliteitslabel als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang;<br>
+8° opvanglocatie: een vestigingsplaats met een kwaliteitslabel als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 oktober 2020 tot toekenning van een kwaliteitslabel aan organisatoren van kleuteropvang of een erkend lokaal aanbod van buitenschoolse activiteiten als vermeld in artikel 4 van het decreet van 3 mei 2019;<br>
 9° opvangprestatie: de aanwezigheid per kind, en per opvangmoment, dat opgevangen wordt in de opvanglocatie. Er zijn drie soorten opvangprestaties naargelang de duurtijd:<br>
 a) een volledige opvangprestatie: een opvangprestatie van zes uur of meer;<br>
 b) een halve opvangprestatie: een opvangprestatie tussen drie uur en zes uur;<br>
@@ -470,7 +470,7 @@ Het bezwaar schort de uitvoering van de beslissing niet op.
 
 ### ART 53.
 
-De inkorting van de overgangstermijn, vermeld in artikel 17, tweede lid, van het decreet van 3 mei 2019, wordt overeengekomen tussen het lokaal bestuur en elke organisator die recht heeft op een subsidie als vermeld in hoofdstuk 3 van dit besluit.<br>
+De inkorting van de overgangstermijn, vermeld in artikel 17, tweede lid, 1°, van het decreet van 3 mei 2019, wordt overeengekomen tussen het lokaal bestuur en elke organisator die recht heeft op een subsidie als vermeld in hoofdstuk 3 van dit besluit.<br>
 <br>
 Een gezamenlijke aanvraag tot inkorting van de overgangstermijn van het lokaal bestuur en de organisator wordt elektronisch ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt, op zijn vroegst vanaf 1 september 2021. De aanvraag vermeldt al de volgende gegevens:<br>
 1° de ingangsdatum, die altijd start bij het begin van een kwartaal en ten vroegste drie maanden nadat de aanvraag is ingediend;<br>
@@ -482,6 +482,22 @@ Als de aanvraag is ingediend conform het tweede lid, keurt het agentschap de aan
 Nadat de aanvraag goedgekeurd is, wordt de totaliteit van de subsidie aan het lokaal bestuur toegekend ten vroegste op 1 januari 2022 en altijd vanaf de eerste dag van het kwartaal die volgt op het kwartaal waarin de aanvraag is goedgekeurd. Wat de subsidie voor individuele inclusieve opvang betreft wordt een bedrag ten belope van 80 opvangprestaties per toegekende subsidie op het ogenblik van de inkorting van de overgangstermijn overgedragen. Als de aanvrager gemotiveerd kan aantonen dat de kinderen met een toekenning substantieel meer gebruik maken van de opvang, kan een hoger bedrag worden overgedragen.<br>
 <br>
 De subsidie wordt uitbetaald telkens in de eerste maand van het kwartaal, ten belope van 80% van het geraamde subsidiebedrag per lokaal bestuur. Het saldo wordt uitbetaald uiterlijk op 1 april van het daaropvolgende kalenderjaar.
+
+### ART 53/1.
+
+Het lokaal bestuur vraagt elektronisch de inkorting van de overgangstermijn aan, vermeld in artikel 17, tweede lid, 2°, van het decreet van 3 mei 2019, met het aanvraagformulier dat het agentschap ter beschikking stelt, uiterlijk op 15 februari 2026. De aanvraag vermeldt al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;een verklaring op erewoord over het bestaan van een lokaal samenwerkingsverband als vermeld in artikel 7 van het decreet van 3 mei 2019;<br>
+2°&nbsp;&nbsp; &nbsp;een verklaring op erewoord over het bestaan van een kader voor de erkenning van een erkend lokaal aanbod van buitenschoolse activiteiten als vermeld in artikel 4, eerste lid, 3°, van het decreet van 3 mei 2019;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de bevestiging dat in de meerjarenplanning over de twee Vlaamse beleidsprioriteiten, vermeld in artikel 2, eerste lid van het besluit van 9 juli 2021 over het lokaal beleid, de samenwerking en de subsidie voor buitenschoolse opvang en activiteiten, acties zijn opgenomen;<br>
+4°&nbsp;&nbsp; &nbsp;een verklaring op erewoord over het bestaan van een kader voor de financiering van het erkende lokale aanbod van buitenschoolse activiteiten, vermeld in artikel 2, eerste lid, 2°, van het voormelde besluit;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;de bevestiging dat het lokaal bestuur de organisatoren van kleuteropvang binnen de gemeente op de hoogte heeft gebracht van de aanvraag tot inkorting van de overgangstermijn;<br>
+6°&nbsp;&nbsp; &nbsp;de ondertekening door een persoon die gemachtigd is om te tekenen in naam van het lokaal bestuur.<br>
+<br>
+Als de aanvraag is ingediend conform het eerste lid, keurt het agentschap de aanvraag goed binnen zestig dagen na de indieningsdatum.<br>
+<br>
+Nadat de aanvraag conform het tweede lid is goedgekeurd, wordt vanaf 1 januari 2026 het bedrag van 127,36 euro per kind dat berekend is op basis van de percentages, vermeld in artikel 8, §2, van het besluit van de Vlaamse Regering van 9 juli 2021 over het lokaal beleid, de samenwerking en de subsidie voor buitenschoolse opvang en activiteiten, aan het lokaal bestuur toegekend.<br>
+<br>
+De subsidie, vermeld in artikel 3, eerste lid, wordt telkens in de eerste maand van het kwartaal uitbetaald, voor 80% van het geraamde subsidiebedrag per lokaal bestuur. Het saldo wordt uitbetaald uiterlijk op 1 april van het daaropvolgende kalenderjaar.
 
 ### ART 54.
 
@@ -533,7 +549,7 @@ De volgende regelingen worden opgeheven:<br>
 
 Dit besluit treedt in werking op 1 januari 2022.<br>
 <br>
-Artikel 1 tot en met 55 treden buiten werking op de dag nadat de overgangstermijn is verstreken.
+Artikel 8 tot en met 31 treden buiten werking op de dag dat de overgangstermijn is verstreken.
 
 ### ART 62.
 
