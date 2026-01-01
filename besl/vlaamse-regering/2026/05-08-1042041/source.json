@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042041,
+  "title": "Besluit van de Vlaamse Regering van 2026-05-08 houdende de erkenning voor twee jaar van de vzw Vlaamse Ouderenraad als Vlaamse ouderenraad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042041/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "0607d2a2ed0460856ab63475a941d86ced15fc4d77f3bc1e864eddfc0f9dcce8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042041&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2026-05-08",
+  "gazette": "2026-06-01",
+  "numac": 2026003930,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
