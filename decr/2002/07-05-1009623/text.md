@@ -153,7 +153,11 @@ Voor de jaarlijkse toekenningsbesluiten van voorschotten, eindsaldi en subsidieb
 
 ### ART. 19bis.
 
-§ 1. Vanaf het begrotingsjaar 2008 wordt op de begroting van het Vlaamse Gewest een aanvullende dotatie aan het Vlaams Gemeentefonds ingeschreven. De aanvullende dotatie bedraagt 83.000.000 euro in het jaar 2008 en wordt vanaf het begrotingsjaar 2009 jaarlijks vastgesteld op een bedrag dat minstens gelijk is aan de dotatie van het vorige jaar.<br /><br />§ 2. De berekende aanvullende dotatie wordt afgerond op het hogere duizendtal.
+§ 1. Vanaf het begrotingsjaar 2008 wordt op de begroting van het Vlaamse Gewest een aanvullende dotatie aan het Vlaams Gemeentefonds ingeschreven. De aanvullende dotatie bedraagt 83.000.000 euro in het jaar 2008 en wordt vanaf het begrotingsjaar 2009 jaarlijks vastgesteld op een bedrag dat minstens gelijk is aan de dotatie van het vorige jaar.<br>
+<br>
+In afwijking van het eerste lid bedraagt de aanvullende dotatie in 2026 41.500.000 euro.<br>
+<br>
+§ 2. De berekende aanvullende dotatie wordt afgerond op het hogere duizendtal.
 
 ### ART. 19ter.
 
