@@ -379,7 +379,7 @@ Als de gebruiker de aankoop herroept conform het eerste lid, wordt de gebruiker 
 <br>
 De verstrekker betaalt aan de gebruiker die de terugbetaling vraagt, vermeld in het eerste lid, de aanschafprijs van de wijk-werkcheques terug, na aftrek van de administratiekosten ten bedrage van 10%.&nbsp;<br>
 <br>
-§3. De verstrekker bezorgt jaarlijks vóór 1 maart aan de gebruiker, vermeld in artikel 30, 1°, van dit besluit, een fiscaal attest met de vermelding van de aanschafprijs van de wijk-werkcheques die zijn aangekocht tijdens het voorafgaande kalenderjaar. Van het voormelde bedrag wordt de aanschafprijs van de wijk-werkcheques, die de verwerker conform paragraaf 2 tijdens hetzelfde kalenderjaar aan de gebruiker heeft terugbetaald, in mindering gebracht. De gegevens, vermeld in de voormelde fiscale attesten, worden door de verstrekker ook vóór 1 maart bezorgd aan de dienst die bevoegd is voor de inkomstenbelastingen.
+§3. ...
 
 ## HOOFDSTUK 8 Platform en gegevensuitwisseling
 
