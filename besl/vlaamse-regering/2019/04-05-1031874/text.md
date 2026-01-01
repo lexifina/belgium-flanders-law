@@ -37,8 +37,8 @@ Besluit :
 ### ART 1.
 
 1° decreet van 15 februari 2019 : het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
-2° het agentschap Opgroeien regie : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, vermeld in artikel 2, 9° van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
-3° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;
+2° ...;<br>
+3° minister: de Vlaamse minister, bevoegd voor justitie en handhaving;
 
 ## HOOFDSTUK 2. Voorwaarden op niveau van het openbaar ministerie
 
@@ -121,9 +121,7 @@ De minister bepaalt de nadere regels voor de samenstelling en de werking van de 
 
 ### ART 11.
 
-De Vlaamse Gemeenschap draagt aan het agentschap Opgroeien regie de volle eigendom over van het volgende gebouw en zijn aanhorigheden : Kortenberg (Everberg) - Hollestraat 78, gekadastreerd KORTENBERG 4e afdeling sectie B, nr. 187/F,187/K, 189/A en 192/L.<br>
-<br>
-Het onroerend goed, vermeld in het eerste lid, wordt kosteloos overgedragen in de staat waarin het zich bevindt, met actieve en passieve erfdienstbaarheden, de bijzondere lasten en verplichtingen die verbonden zijn aan de verwerving, alsook de rechten die mogelijk toegestaan zijn aan derden.
+...
 
 ## HOOFDSTUK 4. Vlaams detentiecentrum
 
@@ -137,9 +135,7 @@ De minister bepaalt de afdelingen, de organisatie en de maximumcapaciteit van he
 
 ### ART 14.
 
-De Vlaamse Gemeenschap draagt aan het agentschap Opgroeien regie de volle eigendom over van het volgende gebouw en zijn aanhorigheden : Tongeren - Wijngaardstraat, 65, gekadastreerd TONGEREN, 1<sup>e</sup>&nbsp;afdeling, sectie C, nr. 469/F.<br>
-<br>
-Het onroerend goed, vermeld in het eerste lid, wordt kosteloos overgedragen, in de staat waarin het zich bevindt, met actieve en passieve erfdienstbaarheden, de bijzondere lasten en verplichtingen die verbonden zijn aan de verwerving, alsook de rechten die mogelijk toegestaan zijn aan derden.
+...
 
 ## HOOFDSTUK 5. Onderwijs en vorming
 
@@ -188,4 +184,4 @@ Artikel 39 van het decreet van 15 februari 2019 treedt in werking op 1 september
 
 ### ART 21.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+De Vlaamse minister, bevoegd voor justitie en handhaving, en de Vlaamse minister, bevoegd voor &nbsp;opgroeien, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
