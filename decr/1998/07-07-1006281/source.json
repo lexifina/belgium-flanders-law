@@ -2,16 +2,16 @@
   "codex_id": 1006281,
   "title": "Decreet van 1998-07-07 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1998",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006281/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "af3df6869579c137aa497bf25fe3bc96720815925d686e1aba5abe82282c9c88",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006281/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "8b70b4fef270872b4cd6760e127dd26acb6a1a93e126fdacf58e1b2d4eacad92",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006281&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2026-01-01",
   "made": "1998-07-07",
   "gazette": "1998-08-28",
   "numac": 1998035917,
   "document_start": null,
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2026-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
