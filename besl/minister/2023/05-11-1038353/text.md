@@ -159,13 +159,15 @@ De aanvraag tot teelttoestemming voor de teelt van een hennepras, vermeld in het
 <br>
 De aanvraag tot teelttoestemming, vermeld in het eerste lid, wordt op de uiterste wijzigingsdatum van de verzamelaanvraag van het jaar in kwestie ingediend. De bevoegde entiteit geeft de teelttoestemming.<br>
 <br>
+De minimale zaaidichtheid om een teelttoestemming voor de teelt van hennep te verkrijgen, bedraagt 25 kilogram per hectare.<br>
+<br>
 De landbouwer start pas met de inzaai nadat hij de teelttoestemming van de bevoegde entiteit heeft ontvangen &nbsp;De landbouwer bezorgt onmiddellijk na de inzaai en uiterlijk op 30 juni van het kalenderjaar in kwestie aan de bevoegde entiteit de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen. De voormelde etiketten maken integraal deel uit van de verzamelaanvraag.&nbsp;<br>
 <br>
 De landbouwer die met toestemming hennep teelt, brengt de bevoegde entiteit onverwijld op de hoogte van het begin van de bloei.<br>
 <br>
 Ter uitvoering van artikel 5 van gedelegeerde verordening (EU) 2022/126, moet de landbouwer die hennep teelt, het gewas tot tien dagen na het einde van de bloei in normale groeiomstandigheden verder telen opdat de bevoegde entiteit de controles op het THC-gehalte kan uitvoeren. De bevoegde entiteit kan toestemming geven om hennep te oogsten na het begin van de bloei maar voor het einde van de periode van tien dagen na het einde van de bloei, op voorwaarde dat de controleurs van de bevoegde entiteit aangeven op welke representatieve delen van elk perceel in kwestie het gewas gedurende ten minste tien dagen na het einde van de bloei verder moet worden geteeld opdat het THC-gehalte gecontroleerd kan worden. De voormelde toestemming om hennep vroeger te oogsten kan alleen gegeven worden als hennep niet geteeld wordt als vanggewas conform artikel 4 en 5 van gedelegeerde verordening (EU) 2022/126.&nbsp;<br>
 <br>
-Als de landbouwer een hennepras inzaait als nateelt conform artikel 4 en 5 van gedelegeerde verordening (EU) 2022/126, bezorgt hij in afwijking van het vierde lid onmiddellijk na inzaai en uiterlijk op 31 augustus van het kalenderjaar in kwestie aan de bevoegde entiteit de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen. De voormelde etiketten maken integraal deel uit van de verzamelaanvraag.
+Als de landbouwer een hennepras inzaait als nateelt conform artikel 4 en 5 van gedelegeerde verordening (EU) 2022/126, bezorgt hij in afwijking van het vijfde lid onmiddellijk na inzaai en uiterlijk op 31 augustus van het kalenderjaar in kwestie aan de bevoegde entiteit de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen. De voormelde etiketten maken integraal deel uit van de verzamelaanvraag.
 
 ## Hoofdstuk 4. Indiening, wijzigingen en intrekking van de verzamelaanvraag
 
