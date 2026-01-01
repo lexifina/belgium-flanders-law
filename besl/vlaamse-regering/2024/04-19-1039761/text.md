@@ -142,6 +142,10 @@ Uiterlijk negentig dagen voor het einde van de periode van de tijdelijke erkenni
 <br>
 Als het agentschap de werking, de gerealiseerde doelstellingen en de outcome en impact op basis van het verslag, vermeld in het tweede lid, als onvoldoende evalueert, formuleert het agentschap werkpunten. Als de organisatie aantoont dat aan de werkpunten is voldaan voor de periode is afgelopen die het agentschap daarvoor heeft vastgesteld, kan de organisatie een aanvraag tot erkenning als dienst rechtstreeks toegankelijke hulp als vermeld in artikel 2, indienen.”.
 
+### ART 9.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van 17 februari 2023, wordt hoofdstuk 3/1, dat bestaat uit artikel 15/1 tot en met 15/26, opgeheven.
+
 ### ART 10.
 
 De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 juli 2020, wordt vervangen door de bijlage die bij dit besluit is gevoegd.
