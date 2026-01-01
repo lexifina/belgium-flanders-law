@@ -67,9 +67,9 @@ Voor de basisopleidingen over de fytolicentie, vermeld in artikel 6 van het besl
 
 ### ART 7.
 
-Binnen de grenzen van de begrotingskredieten die daarvoor zijn bestemd, beschikt elke actieve landbouwer over een kennisportefeuille die ingezet kan worden voor de subsidie voor advies en vorming, vermeld in artikel 3 van het besluit van 6 oktober 2023, ter waarde van maximaal 2000 euro voor de periode van 2024 tot en met 2025.<br>
+Binnen de grenzen van de begrotingskredieten die daarvoor zijn bestemd, beschikt elke actieve landbouwer over een kennisportefeuille die ingezet kan worden voor de subsidie voor advies en vorming, vermeld in artikel 3 van het besluit van 6 oktober 2023, ter waarde van maximaal 2000 euro voor de periode van 2024 tot en met 2025, en ter waarde van 2500 euro voor de periode van 2026 tot en met 2027. Een actieve landbouwer met een actief veebeslag beschikt in de periode van 2026 tot en met 2027 daarnaast over een bijkomend subsidiebedrag van maximaal 2500 euro voor advies en vorming over Programmatische Aanpak Stikstof gerelateerde thema’s.<br>
 <br>
-Op uitdrukkelijk verzoek van een actieve landbouwer die actief is als stagebedrijf, vermeld in artikel 43, eerste lid, 4°, van het besluit van 6 oktober 2023, kan de kennisportefeuille verhoogd worden met een waarde van maximaal 500 euro voor de periode van 2024 tot en met 2025, voor advies en vorming ten behoeve van de stagiair waarmee dat stagebedrijf een stageovereenkomst, vermeld in artikel 65, eerste lid, 5°, van het voormelde besluit, afsloot.&nbsp;<br>
+Op uitdrukkelijk verzoek van een actieve landbouwer die actief is als stagebedrijf, vermeld in artikel 43, eerste lid, 4°, van het besluit van 6 oktober 2023, kan de kennisportefeuille verhoogd worden met een waarde van maximaal 500 euro voor de periode van 2024 tot en met 2027, voor advies en vorming ten behoeve van de stagiair waarmee dat stagebedrijf een stageovereenkomst, vermeld in artikel 65, eerste lid, 5°, van het voormelde besluit, afsloot.&nbsp;<br>
 <br>
 De subsidie voor advies of vorming, vermeld in artikel 3 van het voormelde besluit, bedraagt maximaal 70% van de kosten die in aanmerking komen, per advies en per vorming.<br>
 <br>
@@ -403,7 +403,7 @@ Het algemeen vormingscentrum voert bij de betalingsaanvraag van een bijscholing 
 ### ART 38.
 
 Het verslag met het verzoek tot uitbetaling aan de lesgever, vermeld in artikel 37, zesde lid, bevat de volgende gegevens:<br>
-1° de naam en het registratienummer van het algemeen vormingscentrum of het vormingscentrum voor bijenteelt;<br>
+1° de naam van het algemeen vormingscentrum of het vormingscentrum voor bijenteelt;<br>
 2° de volgende gegevens over de activiteit:<br>
 &nbsp; a) de datum, het begin- en einduur;<br>
 &nbsp; b) het thema en het opleidingsnummer van de vorming;<br>
@@ -413,12 +413,10 @@ Het verslag met het verzoek tot uitbetaling aan de lesgever, vermeld in artikel 
 &nbsp; f) het aantal deelnemers;<br>
 3° de naam van de lesgever en zijn rijksregisternummer;<br>
 4° de gegevens over de lesgeversvergoeding, als die vergoeding wordt aangevraagd door de lesgever;&nbsp;<br>
-5° de woonplaats van de lesgever en de afgelegde afstand tot het adres waar de vormingsactiviteit heeft plaatsgevonden, als de lesgever een vergoeding voor verplaatsing aanvraagt;<br>
+5° ...<br>
 6° een verklaring op erewoord van de lesgever dat alle gegevens in het formulier naar waarheid zijn ingevuld.<br>
 <br>
-Als de lesgever een lesgeversvergoeding als vermeld in het eerste lid, 4°, of een vergoeding voor verplaatsing als vermeld in het eerste lid, 5°, aanvraagt, vermeldt hij het rekeningnummer waarop de respectieve vergoeding gestort moet worden. Het voormelde rekeningnummer is zijn persoonlijke rekeningnummer of het rekeningnummer van de onderneming die hij vertegenwoordigt, en waarvan hij werknemer of zaakvoerder is. Het algemeen vormingscentrum of het vormingscentrum voor bijenteelt kan een bewijs leveren van de storting van de vergoeding op het opgegeven rekeningnummer. Alleen als de lesgever werknemer is van een algemeen vormingscentrum of een vormingscentrum voor bijenteelt, kan de lesgeversvergoeding uitbetaald worden aan het algemeen vormingscentrum of het vormingscentrum voor bijenteelt.<br>
-<br>
-Een vergoeding voor verplaatsing als vermeld in het eerste lid, 5°, kan alleen aangevraagd worden op voorwaarde dat de verplaatsing meer dan 25 km bedraagt. De voormelde vergoeding voor de verplaatsing is gebaseerd op de forfaitaire kilometervergoeding die bepaald is conform het koninklijk besluit van 13 juli 2017 tot vaststelling van de toelagen en vergoedingen van de personeelsleden van het federaal openbaar ambt.
+Als de lesgever een lesgeversvergoeding als vermeld in het eerste lid, 4°, aanvraagt, vermeldt hij het rekeningnummer waarop de respectieve vergoeding gestort moet worden. Het voormelde rekeningnummer is zijn persoonlijke rekeningnummer of het rekeningnummer van de onderneming die hij vertegenwoordigt, en waarvan hij werknemer of zaakvoerder is. Het algemeen vormingscentrum of het vormingscentrum voor bijenteelt kan een bewijs leveren van de storting van de vergoeding op het opgegeven rekeningnummer uiterlijk zes maanden na de uitbetaling van de subsidie aan het vormingscentrum. Alleen als de lesgever werknemer is van een algemeen vormingscentrum of een vormingscentrum voor bijenteelt, kan de lesgeversvergoeding uitbetaald worden aan het algemeen vormingscentrum of het vormingscentrum voor bijenteelt.
 
 ### ART 39.
 
