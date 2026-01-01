@@ -281,8 +281,7 @@ De leden van de Vlaamse Regering zijn, ieder wat hem of haar betreft, belast met
 
 ### BIJLAGE
 
-Bijlage bij het besluit van de Vlaamse Regering van 24 juli 2009 tot organisatie van de kabinetten van de leden van de Vlaamse Regering<br>
-Tabel, als vermeld in artikel 6, §2, tweede lid.<br>
+<strong>Tabel, als vermeld in artikel 6, §2, tweede lid.</strong><br>
 <br>
 Toewijzing van de inhoudelijke raadgevers volgens de inhoudelijke structuurelementen.<br>
 &nbsp;
@@ -438,7 +437,7 @@ Toewijzing van de inhoudelijke raadgevers volgens de inhoudelijke structuureleme
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GB</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">BELEIDSONDERSTEUNING</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">0,5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">1</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GC</strong></td>
@@ -451,18 +450,8 @@ Toewijzing van de inhoudelijke raadgevers volgens de inhoudelijke structuureleme
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">1</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px">&nbsp;<strong>GF</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">VLAAMS INTERSECTORAAL AKKOORD</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">0,5</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GH</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">JUSTITIEHUIZEN EN ELEKTRONISCH TOEZICHT</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">0</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GI</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">ALGEMEEN GEZONDHEIDSBELEID</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GF</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">SOCIALE AKKOORDEN</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">0,5</td>
 		</tr>
 		<tr>
@@ -472,8 +461,8 @@ Toewijzing van de inhoudelijke raadgevers volgens de inhoudelijke structuureleme
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GK</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">WOONZORG EN EERSTE LIJN</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">EERSTE LIJN</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">0,5</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GL</strong></td>
@@ -502,13 +491,23 @@ Toewijzing van de inhoudelijke raadgevers volgens de inhoudelijke structuureleme
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GT</strong></td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">SOCIALE BESCHERMING</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">ZORGBUDGETTEN</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">1</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GU</strong></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">GEINTEGREERD GEZINSBELEID</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:21px; vertical-align:top; width:47px"><strong>GV</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:21px; vertical-align:top; width:406px">WOONZORG</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; height:21px; vertical-align:top; width:96px">1</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>GW</strong></td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:406px">ALGEMEEN BELEID SOCIALE BESCHERMING</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:96px">0,5</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:21px; vertical-align:top; width:47px"><strong>HA</strong></td>
