@@ -1008,7 +1008,12 @@ De opdrachten van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring zijn
 3° in statistische gegevens voorzien over O&amp;O en innovatie in het kader van internationale afspraken met supranationale organisaties.<br>
 4° het Vlaamse referentiepunt vormen op basis van evidencebased onderzoek naar de monitoring van onderzoekers in Vlaanderen en hun carrières op de academische, niet-academische, nationale en internationale arbeidsmarkt en dat vanuit verschillende perspectieven;<br>
 5° beleidsrelevant onderzoek uitvoeren ten voordele van de Vlaamse overheid, over clusters, ondernemerschap, digitale economie en strategische waardeketens. Die activiteiten monitoren en analyseren en instaan voor de ondersteuning en evaluatie van het economisch beleid ter zake;<br>
-6° een performant systeem van indicatoren ontwikkelen en onderhouden over ondernemerschap dat de Vlaamse overheid moet voorzien van geactualiseerde en relevante statistische data over de ondernemerschapscultuur en de uitdagingen en noden van jonge ondernemingen in Vlaanderen.<br>
+6° een performant systeem van indicatoren ontwikkelen en onderhouden over ondernemerschap dat de Vlaamse overheid moet voorzien van geactualiseerde en relevante statistische data over de ondernemerschapscultuur en de uitdagingen en noden van jonge ondernemingen in Vlaanderen;<br>
+7° arbeidsmarktindicatoren over de aanbodzijde en de vraagzijde van de arbeidsmarkt ontwikkelen, actualiseren en onderhouden;<br>
+8° &nbsp;arbeidsmarktprojecties ontwikkelen, actualiseren en onderhouden;<br>
+9° een kruispuntfunctie voor arbeidsmarktdata uitbouwen via de structurele koppeling, integratie, analyse en deling van verschillende datastromen;<br>
+10° de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap “Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding”, en het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, ondersteunen op het vlak van de structurele monitoring van de arbeidsmarkt en levenslang leren;<br>
+11° verdiepende analyses en langlopend onderzoek voor het beleid op het vlak van de arbeidsmarkt en de sociale economie uitvoeren.<br>
 <br>
 De Vlaamse Regering kan het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring belasten met bijzondere opdrachten.
 
