@@ -36,7 +36,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 25° het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 26° het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale sociaal-economische overlegcomités;<br>
 27° ...<br>
-28° het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen;<br>
+28° het decreet van 22 maart 2024 over de ondersteuning van sociale economie en maatschappelijk verantwoord ondernemen;<br>
 29° ...<br>
 30° het besluit van de Vlaamse Regering van 22 september 1998 houdende instelling van een aanmoedigingspremie voor loopbaanonderbreking voor de personeelsleden van de Vlaamse openbare sector en het Nederlandstalig onderwijs in het raam van de maatregelen tot herverdeling van de arbeid;<br>
 31° het besluit van de Vlaamse Regering van 8 juni 2001 houdende toekenning van een aanmoedigingspremie bij loopbaanonderbreking in het kader van de landingsbanen voor de personeelsleden van de gemeenschapsinstellingen voor bijzondere jeugdbijstand;<br>
@@ -67,7 +67,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 56° de jongerenbonus non-profit, bepaald in artikelen 79 tot en met 86 van de wet van 23 december 2005 betreffende het generatiepact;<br>
 57° de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
 58° het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
-59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
+59° ...<br>
 60° de opleidingscheques voor werknemers, vermeld in artikel 2 van het decreet van 22 maart 2019 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het beleidsdomein Werk en Sociale Economie;<br>
 61° het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
 62° het decreet van 25 maart 2022 tot regeling van bepaalde aspecten van duale opleidingen in het volwassenenonderwijs;<br>
@@ -462,7 +462,9 @@ e) tijdens de periode van vijf jaar, voor de aanvang van of gedurende de uitoefe
 
 § 1. ...<br>
 <br>
-§ 2. Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen, een administratieve geldboete opgelegd worden van 150 euro tot 1500 euro aan :<br>
+§ 2.&nbsp;Voor de toepassing van dit artikel wordt verstaan onder subsidie: de steun, vermeld in het decreet van 22 maart 2024 over de ondersteuning van sociale economie en maatschappelijk verantwoord ondernemen, met uitzondering van de steun, vermeld in hoofdstuk 7 van het voormelde decreet.<br>
+<br>
+Onder de voorwaarden vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op het voormelde decreet een administratieve geldboete opgelegd worden van 150 euro tot 1500 euro aan :<br>
 1° personen die een subsidie aanwenden voor andere doeleinden dan de doeleinden waarvoor ze de subsidie hebben verkregen;<br>
 2° personen die onjuiste of onvolledige verklaringen hebben afgelegd om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
 3° personen die hebben nagelaten of geweigerd om noodzakelijke verklaringen af te leggen of de inlichtingen te verstrekken die ze gehouden zijn te verstrekken, om ten onrechte een subsidie te verkrijgen of te doen verkrijgen, te behouden of te doen behouden;<br>
@@ -583,15 +585,15 @@ Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafver
 2° een buitenlandse onderdaan heeft beloofd, tegen betaling van welke vergoeding ook, hetzij een betrekking voor hem te zoeken, hetzij hem een betrekking te bezorgen, hetzij formaliteiten te vervullen voor zijn tewerkstelling in België;<br>
 3° van een buitenlandse onderdaan een vergoeding in welke vorm ook heeft gevraagd of aangenomen, hetzij om voor hem een betrekking te zoeken, hetzij om hem een betrekking te bezorgen, hetzij om formaliteiten te vervullen voor zijn tewerkstelling in België;<br>
 4° is opgetreden tussen de volgende personen en autoriteiten en daarbij daden heeft gesteld die die personen of autoriteiten op een dwaalspoor kunnen brengen:<br>
-a)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en een werkgever;<br>
-b)&nbsp;&nbsp; &nbsp;een buitenlandse onderdaan en de autoriteiten die zijn belast met de toepassing van deze wet of de uitvoeringsbesluiten ervan of met de controle en het toezicht op deze wet of de uitvoeringsbesluiten ervan;<br>
-c)&nbsp;&nbsp; &nbsp;een werkgever en de autoriteiten, vermeld in punt b).<br>
+a)&nbsp;&nbsp;&nbsp;&nbsp;een buitenlandse onderdaan en een werkgever;<br>
+b)&nbsp;&nbsp;&nbsp;&nbsp;een buitenlandse onderdaan en de autoriteiten die zijn belast met de toepassing van deze wet of de uitvoeringsbesluiten ervan of met de controle en het toezicht op deze wet of de uitvoeringsbesluiten ervan;<br>
+c)&nbsp;&nbsp;&nbsp;&nbsp;een werkgever en de autoriteiten, vermeld in punt b).<br>
 <br>
 § 5. Onder de voorwaarden, vermeld in dit decreet, en als de feiten ook voor strafvervolging vatbaar zijn, kan voor de volgende inbreuken op de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 300 euro tot 3000 euro aan :<br>
-1° een aannemer, buiten het kader van een keten van onderaannemers, of een intermediaire aannemer, in het kader van een dergelijke keten, als hun rechtstreekse onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt;<br>
-2° een hoofdaannemer en intermediaire aannemer, in het kader van een keten van onderaannemers, als hun onrechtstreekse onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt, als ze, voorafgaand aan de door hen gepleegde inbreuk, op de hoogte zijn van het feit dat hun onrechtstreekse onderaannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
-3° de opdrachtgever, buiten het kader van een onderaanneming, als zijn aannemer een van de inbreuken, vermeld in artikel 12/2 van de voormelde wet, pleegt, als de opdrachtgever, voorafgaand aan de door hem gepleegde inbreuk, op de hoogte is van het feit dat zijn aannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
-4° de opdrachtgever, binnen het kader van een onderaanneming, als de na zijn aannemer rechtstreeks of onrechtstreeks komende onderaannemer een inbreuk als vermeld in artikel 12/2 van de voormelde wet, pleegt, als de opdrachtgever, voorafgaand aan de door hem gepleegde inbreuk, op de hoogte is van het feit dat de na zijn aannemer rechtstreeks of onrechtstreeks komende onderaannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt.
+1° een opdrachtgever of een aannemer, buiten het kader van een keten van onderaannemers, of een intermediaire aannemer, in het kader van een dergelijke keten, als hun rechtstreekse&nbsp;aannemer of onderaannemer een inbreuk als vermeld in artikel 12/1, §1, en 12/2 van de voormelde wet en artikel 22, 1°, van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan, pleegt;<br>
+2° een opdrachtgever of een hoofdaannemer en intermediaire aannemer, in het kader van een keten van onderaannemers, als hun onrechtstreekse onderaannemer een inbreuk als vermeld in artikel 12/1, §1, en 12/2 van de voormelde wet en artikel 22, 1°, van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan, pleegt, als ze, voorafgaand aan de door hen gepleegde inbreuk, op de hoogte zijn van het feit dat hun onrechtstreekse onderaannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
+3° de opdrachtgever-natuurlijke persoon die een beroep doet op een aannemer voor uitsluitend privédoeleinden, buiten het kader van een onderaanneming, als zijn aannemer een van de inbreuken, vermeld in artikel 12/1, §1, en 12/2 van de voormelde wet en artikel 22, 1°, van het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen en de uitvoeringsbesluiten ervan, pleegt, als de opdrachtgever-natuurlijke persoon die een beroep doet op een aannemer voor uitsluitend privédoeleinden, voorafgaand aan de door hem gepleegde inbreuk, op de hoogte is van het feit dat zijn aannemer een of meer illegaal verblijvende onderdanen van derde landen tewerkstelt;<br>
+4° ...
 
 ### ART 13/7.
 
@@ -778,7 +780,7 @@ Onder de voorwaarden, vermeld in deze afdeling, kan aan de werknemer die de ople
 
 ### ART 21/2.
 
-Onder de voorwaarden, vermeld in deze afdeling, kan aan eenieder die onjuiste inlichtingen verschaft met het oog op de toepassing van een transitiepremie voor ondernemers als vermeld in het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 10 tot 100 euro.
+...
 
 ### ART 21/3.
 
