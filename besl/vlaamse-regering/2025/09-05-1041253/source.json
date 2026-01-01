@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041253,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten, wat betreft steun voor erkende maatwerkbedrijven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041253/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "65e2cb70407cf5f2941dad1b07e439ee4e9d19a6c5944f7f004e5058137d5af3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041253&param=informatie",
+  "as_of": "2026-01-01",
+  "made": "2025-09-05",
+  "gazette": "2025-10-01",
+  "numac": 2025007050,
+  "document_start": "2026-01-01",
+  "document_end": null,
+  "in_force": "2026-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
