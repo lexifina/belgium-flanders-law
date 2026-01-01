@@ -2,16 +2,16 @@
   "codex_id": 1022802,
   "title": "Besluit van de Vlaamse Regering van 2013-02-22 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022802/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "95f11dbf128e1c35b8dfbf1923a146668f09460e4ff6ecfdc2d54215aa7a0216",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022802/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "72f6760c5f077bd1ac0eacd9180e65e8577b2cbd0eb4e5b9596c2b4bc79783e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022802&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-01",
   "made": "2013-02-22",
   "gazette": "2013-03-19",
   "numac": 2013035262,
   "document_start": "2013-03-01",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 54,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-01",
+  "article_versions": 63,
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
