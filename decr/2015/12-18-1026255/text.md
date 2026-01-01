@@ -218,51 +218,51 @@ In   artikel 9, § 1, derde lid, 3° bis, van het decreet van 21 oktober 1997   
 
 In   artikel 16duodecies, 6°, van hetzelfde decreet, ingevoegd bij het decreet van 9   mei 2014, wordt de zinsnede "artikel 16novies, § 1, vierde lid" vervangen door   de zinsnede "artikel 16novies, § 1, vijfde lid".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
-## HOOFDSTUK 16 Decreet betreffende water bestemd voor de menselijke aanwending
+## HOOFDSTUK 16 ...
 
 ### ART. 44.
 
-In   artikel 2, 28°, 1°, van het decreet van 24 mei 2002 betreffende water bestemd   voor menselijke aanwending, ingevoegd bij het decreet van 19 juli 2013, wordt de   zinsnede "als vermeld in artikel 2, 3°, van de wet van 16 januari 2003 tot   oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het   handelsregister, tot oprichtingen van erkende ondernemingsloketten en houdende   diverse bepalingen" vervangen door de zinsnede "als vermeld in artikel I.4, 1°,   van het Wetboek van Economisch Recht".
+...
 
 ### ART. 45.
 
-In   artikel 8, § 2, van hetzelfde decreet wordt het woord "reguleringsinstantie"   vervangen door het woord "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 46.
 
-In   hoofdstuk V van hetzelfde decreet wordt het opschrift van afdeling 2 vervangen   door wat volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Afdeling   2. WaterRegulator".
+...
 
 ### ART. 47.
 
-&nbsp;In artikel 9 van hetzelfde decreet,   vervangen bij het decreet van 12 december 2008, wordt het woord   "reguleringsinstantie" vervangen door het woord "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 48.
 
-In   artikel 11, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 12   december 2008, wordt het woord "reguleringsinstantie" telkens vervangen door het   woord "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 49.
 
-In   artikel 12 van hetzelfde decreet wordt het woord "reguleringsinstantie" telkens   vervangen door het woord "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 50.
 
-<P>&nbsp;In hetzelfde decreet wordt een artikel   12bis ingevoegd, dat luidt als volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Art.   12bis. § 1. In afwijking van artikel V.2 van het Wetboek van Economisch Recht   van 28 februari 2013 bepaalt de exploitant van een openbaar   waterdistributienetwerk, onder toezicht van de WaterRegulator, de tarieven die   gebruikt worden voor het doorrekenen van de kosten voor productie en levering   van water bestemd voor menselijke consumptie aan de abonnees.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   exploitanten van een openbaar waterdistributienetwerk kunnen geen   tariefverhoging toepassen of nieuwe tarieven invoeren zonder voorafgaandelijke   aanvraag bij de WaterRegulator en zonder diens akkoord.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Regering stelt de regels vast met betrekking tot de methode voor   tariefbepaling, de inhoud en de modaliteiten van de aanvraag en de bekendmaking   van tariefwijzigingen aan de abonnees. Het toezicht door de WaterRegulator,   vermeld in het eerste lid, bestaat uit de controle op de correcte naleving van   deze regels.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Totdat   het besluit van de Vlaamse Regering, vermeld in het derde lid, in werking   treedt, kunnen de exploitanten van een openbaar waterdistributienetwerk de   toegepaste tarieven elk jaar (= jaar x) op 1 januari aanpassen aan de evolutie   van het indexcijfer van de consumptieprijzen, basis 1988, tussen november van   het aan het vorige jaar voorafgaande jaar (= x-2) en november van het vorige   jaar (= x-1).<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De exploitant van een openbaar waterdistributienetwerk kan beroep indienen   bij de Vlaamse minister, bevoegd voor leefmilieu en het waterbeleid, als hij   niet akkoord gaat met de beslissing van de WaterRegulator. De Vlaamse Regering   bepaalt de modaliteiten van dit beroep.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>...</p>
 
 ### ART. 51.
 
-&nbsp;In artikel 13 van hetzelfde decreet,   gewijzigd bij het decreet van 12 december 2008, wordt het woord   "reguleringsinstantie" telkens vervangen door het woord   "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 52.
 
-In   artikel 14 van hetzelfde decreet wordt het woord "reguleringsinstantie"   vervangen door het woord "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 53.
 
-In   artikel 20 van hetzelfde decreet, gewijzigd bij decreet van 12 december 2008,   wordt het woord "reguleringsinstantie" telkens vervangen door het woord   "WaterRegulator".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 54.
 
-<P>In   artikel 22bis van hetzelfde decreet, ingevoegd bij decreet van 12 december 2008,   wordt paragraaf 1 vervangen door wat volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"   § 1. De ambtenaren van de Vlaamse Milieumaatschappij, daarvoor aangewezen door   het hoofd van het agentschap, kunnen een administratieve geldboete opleggen voor   iedere inbreuk op de bepalingen van:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   artikel 13, § 2, aan de waterleveranciers die de gegevens of inlichtingen die   opgevraagd worden in het kader van artikel 12 niet correct of tijdig aanleveren,   na twee schriftelijke aanmaningen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   artikel 12bis en zijn uitvoeringsbesluiten aan de exploitanten van een openbaar   waterdistributienetwerk.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   een eerste inbreuk wordt de administratieve boete bepaald op maximaal 0,01% van   het integrale facturatiebedrag exclusief btw van het jaar waarvoor de gegevens   worden opgevraagd. Voor elke volgende overtreding in datzelfde jaar wordt het   percentage van de administratieve geldboete verdubbeld.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>...</p>
 
 ## HOOFDSTUK 17 Decreet betreffende het integraal waterbeleid
 
