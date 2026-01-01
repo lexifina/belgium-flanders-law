@@ -914,10 +914,10 @@ c) vanaf 1 juli 2016 : 15 euro per ton voor het storten op een daarvoor vergunde
 13° voor het storten op een vergunde stortplaats van baggerspecie : 0,1 euro per ton;<br>
 14° voor het storten op een daartoe vergunde stortplaats van ruimingspecie : 0,1 euro per ton;<br>
 15° voor het storten op een daartoe vergunde stortplaats van inerte afvalstoffen en van slib van de productie van drinkwater : 11 euro per ton;<br>
-16° voor het verbranden van&nbsp;huishoudelijke afvalstoffen, voorbehandelde huishoudelijke afvalstoffen, medisch afval, riool waterzuiveringsslib en ander industrieel slib&nbsp;in een daartoe vergunde installatie : 7 euro per ton;<br>
-16° /1 voor het verbranden van bedrijfsafvalstoffen andere dan bedoeld in punt 16°, in een daartoe vergunde installatie: 25 euro per ton. Dit tarief geldt met ingang van 1 januari 2022;<br>
-17° voor het meeverbranden van&nbsp;huishoudelijke afvalstoffen, voorbehandelde huishoudelijke afvalstoffen, medisch afval, rioolwaterzuiveringsslib en ander industrieel slib&nbsp;in een daartoe vergunde installatie : 7 euro per ton;<br>
-17° /1 voor het meeverbranden van bedrijfsafvalstoffen andere dan bedoeld in punt 17° in een daartoe vergunde installatie: 25 euro per ton. Dit tarief geldt met ingang van 1 januari 2022;<br>
+16° voor het verbranden van riool waterzuiveringsslib en ander industrieel slib&nbsp;in een daartoe vergunde installatie : 7 euro per ton;<br>
+16° /1 voor het verbranden van afvalstoffen andere dan bedoeld in punt 16°, in een daartoe vergunde installatie: 32 euro per ton. Dit tarief geldt met ingang van 1 januari 2026;<br>
+17° voor het meeverbranden van rioolwaterzuiveringsslib en ander industrieel slib&nbsp;in een daartoe vergunde installatie : 7 euro per ton;<br>
+17° /1 voor het meeverbranden van afvalstoffen andere dan bedoeld in punt 17° in een daartoe vergunde installatie: 32 euro per ton. Dit tarief geldt met ingang van 1 januari 2026;<br>
 18° voor het sorteren of voorbehandelen van afvalstoffen in een daartoe vergunde inrichting : de bedragen overeenkomstig punt 1° tot en met 17°, die worden bepaald door de op de niet-gerecycleerde of hergebruikte afvalstoffen toegepaste verwerkingswijze. Indien de verwerking van de niet-gerecycleerde of niet-hergebruikte afvalstoffen buiten het Vlaamse Gewest plaatsvindt, zijn de bepalingen van het hierna vermelde punt 19° van toepassing;<br>
 19° voor de afvalstoffen geproduceerd in het Vlaamse Gewest die worden overgebracht met het oog op het verwerken ervan in een daartoe vergunde inrichting buiten het Vlaamse Gewest : de bedragen vermeld in punt 1° tot en met 18°, die worden bepaald door de toegepaste verwerkingswijze.&nbsp;Indien een gelijksoortige milieuheffing van toepassing is in het gewest of land waar de bedoelde afvalstoffen worden verwerkt, wordt het bedrag van de heffing verminderd met het bedrag van de voormelde gelijksoortige milieuheffing zonder dat dit evenwel tot lager dan nul kan worden herleid.<br>
 <br>
@@ -983,10 +983,10 @@ In afwijking van het vierde lid geldt K = 0,15 voor het storten van het residu v
 5° in het heffingsjaar 2015 voor een te storten hoeveelheid die maximaal 80 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
 6° in het heffingsjaar 2016 voor een te storten hoeveelheid die maximaal 60 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
 7° in de heffingsjaren 2017, 2018 en 2019 voor een te storten hoeveelheid die maximaal 50 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
-8° in de heffingsjaren 2020 tot en met 2025 voor een te storten hoeveelheid die maximaal 40 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
-9° in het heffingsjaar 2026 voor een te storten hoeveelheid die maximaal 30 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
-10° in het heffingsjaar&nbsp;2027 voor een te storten hoeveelheid die maximaal 20 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
-11° in het heffingsjaar 2028 voor een te storten hoeveelheid die maximaal 10 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd.<br>
+8° in de heffingsjaren 2020 tot en met 2026 voor een te storten hoeveelheid die maximaal 40 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+9° in het heffingsjaar 2027 voor een te storten hoeveelheid die maximaal 30 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+10° in het heffingsjaar&nbsp;2028 voor een te storten hoeveelheid die maximaal 20 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+11° in het heffingsjaar 2029 voor een te storten hoeveelheid die maximaal 10 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd.<br>
 Voor de berekening van de te storten hoeveelheid in punt 5° tot 8° hierboven wordt de hoeveelheid kunststoffen die gewonnen werd voor de aanmaak van nieuwe kunststoffen vermenigvuldigd met een factor 2.<br>
 <br>
 Voor de berekening van de te storten hoeveelheid, vermeld in het vijfde lid, 6° tot en met 11° :<br>
@@ -1060,7 +1060,7 @@ De bedragen van de milieuheffing, vermeld in paragraaf 1 en paragraaf 2, worden 
 <br>
 In afwijking van het tweede lid worden de vanaf 1 januari 2018 ingevoerde bedragen, vermeld in punt 6°, a) en b), van paragraaf 1 aangepast aan het indexcijfer van de consumptieprijzen met als basisindex het indexcijfer van de consumptieprijzen van november 2017, basis 1996.<br>
 <br>
-In afwijking van het tweede lid worden de vanaf 1 januari 2022 ingevoerde bedragen, vermeld in punt 16° /1 en 17° /1 van paragraaf 1 aangepast aan het indexcijfer van de consumptieprijzen met als basisindex het indexcijfer van de consumptieprijzen van november 2021, basis 1996.<br>
+In afwijking van het tweede lid worden de bedragen die vanaf 1 januari 2026 worden ingevoerd, vermeld in punt 16° /1 en 17° /1 van paragraaf 1 aangepast aan het indexcijfer van de consumptieprijzen met als basisindex het indexcijfer van de consumptieprijzen van november 2025, basis 1996.&nbsp;De eerste indexering wordt toegepast vanaf 1 januari 2027.<br>
 <br>
 In afwijking van het tweede lid wordt het vanaf 1 januari 2023 ingevoerde bedrag, vermeld in punt 2° van paragraaf 1, aangepast aan het indexcijfer van de consumptieprijzen met als basisindex het indexcijfer van de consumptieprijzen van november 2022, basis 1996.<br>
 <br>
