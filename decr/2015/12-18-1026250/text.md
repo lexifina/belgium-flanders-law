@@ -269,7 +269,7 @@ Aan   artikel 18, derde lid, van het decreet van 8 juli 2011 houdende bepalingen
 
 <p>&nbsp;§ 1. Er wordt een fonds opgericht binnen het Departement WSE voor de uitvoering van projecten die tot stand komen met cofinanciering van de Europese Unie. Dit fonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, hierna het fonds te noemen.</p>
 
-<p>§ 2. De inkomsten van het fonds worden gespijsd door de terugvorderingen van subsidies of bedragen voor de financiering van overeenkomsten betreffende de Vlaamse cofinanciering van ESF-projecten, die door de begunstigden niet of op onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt verantwoord.</p>
+<p>§ 2. De inkomsten van het fonds worden gespijsd door de terugvorderingen van subsidies of bedragen voor de financiering van overeenkomsten betreffende de Vlaamse cofinanciering van ESF-projecten, die door de begunstigden niet of op onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt verantwoord, en door de middelen die de vzw ESF-Agentschap, opgericht bij het decreet van 8 november 2002 houdende de oprichting van de vzw ESF-Agentschap, bezorgt aan het departement, vermeld in paragraaf 1, om het Europees Sociaal Fonds te ondersteunen en te implementeren.</p>
 
 <p>§ 3. De inkomsten van het fonds mogen aangewend worden voor uitgaven voor diensten, werking, exploitatie en uitrusting, voor zover deze uitgaven verband houden met de realisatie van de projecten met cofinanciering van de EU.</p>
 
