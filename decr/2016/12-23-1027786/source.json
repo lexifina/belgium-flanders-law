@@ -2,16 +2,16 @@
   "codex_id": 1027786,
   "title": "Decreet van 2016-12-23 tot vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027786/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "a56d235e56307220000058776a3883c535a9b86badd4ee43cdb9fa3199244029",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027786/VolledigDocument?datum=2026-01-01",
+  "source_sha256": "f8997b470c8b2852ac53e033e6ea7d9ab0a61bebb6821bf0fbf74334fa405e5c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027786&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2026-01-01",
   "made": "2016-12-23",
   "gazette": "2017-01-26",
   "numac": 2017040004,
   "document_start": "2017-01-01",
   "document_end": "2025-12-31",
-  "in_force": "2017-01-01",
+  "in_force": "2026-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
 }
