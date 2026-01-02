@@ -2,16 +2,16 @@
   "codex_id": 1041605,
   "title": "Decreet van 2025-12-12 tot wijziging van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten en de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de opheffing van de subsidie voor de sanering van leegstaande of verwaarloosde bedrijfsruimten betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041605/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "5e144ffec7f17df646e16f4e00a509664f27652515eb177ecd919d0675d856b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041605/VolledigDocument?datum=2026-01-02",
+  "source_sha256": "8baed970d1510c07d2277df68773aff2236db8e859dead3bb39a8fb32e4b9434",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041605&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-02",
   "made": "2025-12-12",
   "gazette": "2025-12-23",
   "numac": 2025009716,
   "document_start": "2026-01-02",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2025-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-02",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2026-01-02; future article versions excluded; article text as the API gives it"
 }
