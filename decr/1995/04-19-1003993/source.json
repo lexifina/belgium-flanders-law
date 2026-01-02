@@ -2,16 +2,16 @@
   "codex_id": 1003993,
   "title": "Decreet van 1995-04-19 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003993/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "3ac76751fa46e274267d61012408d7bee9fcbd7e8794d00a75585bad795bdf02",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003993/VolledigDocument?datum=2026-01-02",
+  "source_sha256": "32a2b0a7ab7961a2d90be9b02795f755c1a2a683f6319cd546a9946ced3906e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003993&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-02",
   "made": "1995-04-19",
   "gazette": "1995-09-13",
   "numac": 1995036290,
   "document_start": "1995-09-13",
   "document_end": null,
-  "in_force": "2025-01-01",
+  "in_force": "2026-01-02",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-02; future article versions excluded; article text as the API gives it"
 }

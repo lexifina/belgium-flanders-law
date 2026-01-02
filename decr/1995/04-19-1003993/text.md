@@ -42,7 +42,19 @@ c) het vruchtgebruik;<br>
 
 ### ART. 4.
 
-De Vlaamse regering bepaalt de voorwaarden waaronder het departement   overgaat tot registratie in de Inventaris.<BR><BR>De Vlaamse regering machtigt   ambtenaren van het departement om de nodige vaststellingen te doen, ze hebben   daarvoor toegang tot alle bedrijfsruimten en bedrijfsgebouwen. De betrokken   eigenaar dient hen binnen zeven dagen nadat ze zich ter plaatse hebben   aangeboden, of nadat ze hierom bij aangetekende zending hebben verzocht, toegang   tot de bedrijfsruimten of bedrijfsgebouwen te verschaffen. Als de eigenaar niet   op dit verzoek ingaat, kan het departement en/of de Vlaamse regering dit   beschouwen als een weerlegbaar vermoeden van leegstand en/of   verwaarlozing.<BR><BR>Nieuwe, doch leegstaande bedrijfsruimten worden pas in de   Inventaris geregistreerd na het verstrijken van een termijn van 2 jaar na de   eerste betekening van het kadastraal inkomen zoals bepaald in artikel 495 WIB,   onverminderd de bepalingen van artikel 497 tot en met 503   WIB.<BR><BR>Bedrijfsruimten waarvan meer dan 50 % van de totale vloeroppervlakte   van de bedrijfsgebouwen leegstaat tengevolge van de stopzetting van de   economische activiteit overeenkomstig de voorwaarden en regels, bedoeld in het   decreet van 9 maart 2001 tot regeling van de vrijwillige, volledige en   definitieve stopzetting van de productie van alle dierlijke mest, afkomstig van   een of meerdere diersoorten, en de uitvoeringsbesluiten ervan, worden pas in de   Inventaris geregistreerd na het verstrijken van een termijn van 5 jaar. Deze   termijn gaat in vanaf de volledige stopzetting, bedoeld in artikel 4, 1°, van   het voornoemde decreet. <BR><BR>In de Inventaris worden echter niet   geregistreerd:<BR>1° bedrijfsruimten waarop een onteigeningsbeslissing rust of   waarvoor een procedure tot onteigening is ingezet;<BR>2° ....
+De Vlaamse regering bepaalt de voorwaarden waaronder het departement overgaat tot registratie in de Inventaris.<br>
+<br>
+De Vlaamse Regering machtigt personeelsleden van het departement of van andere overheidsinstanties om de nodige vaststellingen te doen. Ze krijgen daarvoor toegang tot alle bedrijfsruimten en bedrijfsgebouwen. Het departement kan voor die taken ook een beroep doen op externe deskundigen. De Vlaamse Regering kan nadere regels vaststellen voor het beroep op externe deskundigen. Het departement maakt op zijn website bekend op welke personeelsleden van andere overheidsinstanties en op welke externe deskundigen het een beroep doet.<br>
+<br>
+De betrokken eigenaar verschaft de gemachtigde personeelsleden of de externe deskundigen, vermeld in het tweede lid, binnen zeven dagen nadat ze zich ter plaatse hebben aangeboden of nadat ze daar met een beveiligde zending om hebben verzocht, toegang tot de bedrijfsruimten of bedrijfsgebouwen. Als de eigenaar niet op dat verzoek ingaat, kan het departement of de Vlaamse Regering die weigering beschouwen als een weerlegbaar vermoeden van leegstand of verwaarlozing.<br>
+<br>
+Nieuwe, doch leegstaande bedrijfsruimten worden pas in de Inventaris geregistreerd na het verstrijken van een termijn van 2 jaar na de eerste betekening van het kadastraal inkomen zoals bepaald in artikel 495 WIB, onverminderd de bepalingen van artikel 497 tot en met 503 WIB.<br>
+<br>
+Bedrijfsruimten waarvan meer dan 50 % van de totale vloeroppervlakte van de bedrijfsgebouwen leegstaat tengevolge van de stopzetting van de economische activiteit overeenkomstig de voorwaarden en regels, bedoeld in het decreet van 9 maart 2001 tot regeling van de vrijwillige, volledige en definitieve stopzetting van de productie van alle dierlijke mest, afkomstig van een of meerdere diersoorten, en de uitvoeringsbesluiten ervan, worden pas in de Inventaris geregistreerd na het verstrijken van een termijn van 5 jaar. Deze termijn gaat in vanaf de volledige stopzetting, bedoeld in artikel 4, 1°, van het voornoemde decreet.<br>
+<br>
+In de Inventaris worden echter niet geregistreerd:<br>
+1° bedrijfsruimten waarop een onteigeningsbeslissing rust of waarvoor een procedure tot onteigening is ingezet;<br>
+2° ....
 
 ### ART. 5.
 
