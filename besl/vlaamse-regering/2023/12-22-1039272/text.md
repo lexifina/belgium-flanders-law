@@ -185,7 +185,7 @@ In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regeri
 
 ### ART 16.
 
-Dit besluit treedt in werking op 1 januari 2025, met uitzondering van artikel 14 dat in werking treedt op 1 april 2024 en artikel 7 dat in werking treedt op een door de Vlaamse minister, bevoegd voor de energie, vast te stellen datum en ten vroegste op 1 juli 2026.
+Dit besluit treedt in werking op 1 januari 2025, met uitzondering van artikel 14 dat in werking treedt op 1 april 2024 en artikel 7, dat in werking treedt op 1 januari 2030.
 
 ### ART 17.
 
