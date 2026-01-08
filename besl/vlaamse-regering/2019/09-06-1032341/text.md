@@ -118,21 +118,21 @@ De aanvraag, vermeld in het eerste en het tweede lid, wordt ingediend conform ar
 
 ### ART 6.
 
-§ 1. Het VEKA controleert conform artikel 15, lid 1, van de gedelegeerde verordening (EU) 2019/331 of de aanvragen tot kosteloze toewijzing van emissierechten voldoen aan de bepalingen van de gedelegeerde verordening (EU) 2019/331 en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
+§1. Het VEKA controleert conform artikel 15, lid 1, van de gedelegeerde verordening (EU) 2019/331 of de aanvragen tot kosteloze toewijzing van emissierechten voldoen aan de bepalingen van de gedelegeerde verordening (EU) 2019/331 en kan zich daarvoor laten bijstaan door externe experten. Die controle kan ertoe leiden dat de exploitant van een BKG-installatie de ingediende aanvraag tot kosteloze toewijzing van emissierechten aanpast.<br>
 <br>
 Als de aanvraag tot kosteloze toewijzing van emissierechten voldoet aan de bepalingen van de voormelde verordening (EU) 2019/331, aanvaardt het VEKA die aanvraag.<br>
 <br>
-§ 2. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de beslissing.<br>
+§2. Het VEKA brengt de exploitant van een BKG-installatie op elektronische wijze op de hoogte van de beslissing.<br>
 <br>
 Bij niet aanvaarding van de aanvraag kan de exploitant van de BKG-installatie beroep aantekenen bij de minister. De minister beslist over dit beroep binnen de 30 dagen.<br>
 <br>
-§ 3. Op basis van de ontvangen en aanvaarde aanvragen tot kosteloze toewijzing van emissierechten stelt het VEKA voor de periode 2021-2025 en de periode 2026-2030 een lijst op die voor elke BKG-installatie informatie bevat over de volgende aspecten:<br>
+§3. Op basis van de ontvangen en aanvaarde aanvragen tot kosteloze toewijzing van emissierechten stelt het VEKA voor de periode 2021-2025 en de periode 2026-2030 een lijst op die voor elke BKG-installatie informatie bevat over de volgende aspecten:<br>
 1° de productieactiviteit;<br>
 2° de overdracht van warmte en gassen;<br>
 3° de elektriciteitsproductie;<br>
 4° de emissies op het niveau van de subinstallatie tijdens de vijf kalenderjaren die voorafgaan aan de indiening, vermeld in artikel 5.<br>
 <br>
-§ 4. Het VEKA bezorgt de lijst voor de periode 2021-2025 en de periode 2026-2030, vermeld in paragraaf 3, aan de nationale klimaatcommissie, die die lijst op haar beurt uiterlijk vijftien maanden voor de start van de periode 2021-2025 of de periode 2026-2030 bij de Europese Commissie indient.
+§4. Het VEKA dient de lijst, vermeld in paragraaf 3, voor de periode van vijf jaar die op 1 januari 2021 ingaat, uiterlijk op 30 september 2019 in en nadien om de vijf jaar voor elke volgende periode van vijf jaar.
 
 ### ART 7.
 
@@ -636,7 +636,7 @@ Artikel 62 treedt in werking op 1 januari 2021.
 
 ### ART 70.
 
-De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, kan de beslissingen, vermeld in artikel 9, 10, 13, § 1 en § 4, delegeren aan het hoofd van het VEKA.
+De minister kan de beslissingen, vermeld in artikel 9, 10, 13, § 1 en § 4, delegeren aan het hoofd van het VEKA.
 
 ### ART 71.
 

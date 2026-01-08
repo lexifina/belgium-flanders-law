@@ -2,16 +2,16 @@
   "codex_id": 1032341,
   "title": "Besluit van de Vlaamse Regering van 2019-09-06 over verhandelbare emissierechten voor broeikasgassen voor vaste installaties voor de periode 2021-2030",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032341/VolledigDocument?datum=2025-01-14",
-  "source_sha256": "016b8c1fa0dbd5f205a4faa01d40c0cdea79df13015e54d276e7ecda732d478b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032341/VolledigDocument?datum=2026-01-08",
+  "source_sha256": "c20fc2d1b807d0425ec02d31507320947f11e50609c12a21feb9f53c47596b9f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032341&param=informatie",
-  "as_of": "2025-01-14",
+  "as_of": "2026-01-08",
   "made": "2019-09-06",
   "gazette": "2019-10-15",
   "numac": 2019014856,
   "document_start": "2019-10-25",
   "document_end": null,
-  "in_force": "2025-01-14",
+  "in_force": "2026-01-08",
   "article_versions": 72,
-  "record_form": "consolidated version as in force on 2025-01-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-08; future article versions excluded; article text as the API gives it"
 }
