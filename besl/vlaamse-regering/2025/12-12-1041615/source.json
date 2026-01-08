@@ -2,16 +2,16 @@
   "codex_id": 1041615,
   "title": "Besluit van de Vlaamse Regering van 2025-12-12 houdende diverse bepalingen inzake energie en klimaat",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041615/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "815d5425ef2da56e583af843040986245b32815d475ed7673e08704ec9c36ac4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041615/VolledigDocument?datum=2026-01-08",
+  "source_sha256": "6fc18e8900f530dca3186a5dd2a31ca79122e7ac7da388d127a4601a6a56f442",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041615&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-01-08",
   "made": "2025-12-12",
   "gazette": "2025-12-29",
   "numac": 2025009778,
   "document_start": "2026-01-08",
   "document_end": null,
-  "in_force": "2026-01-01",
-  "article_versions": 30,
-  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-08",
+  "article_versions": 97,
+  "record_form": "consolidated version as in force on 2026-01-08; future article versions excluded; article text as the API gives it"
 }
