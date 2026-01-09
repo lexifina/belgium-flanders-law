@@ -463,7 +463,12 @@ De Vlaamse Regering kan nadere regels voor het profiel, de mandaatfunctie en het
 <br>
 Als de geadopteerde minderjarig is, gebeurt de inzage met professionele begeleiding van een medewerker van de adoptiedienst of het afstammingscentrum en in aanwezigheid van zijn ouder, voogd of een meerderjarige vertrouwenspersoon.<br>
 <br>
-§ 3. De geadopteerde heeft recht op inzage in de stukken van het adoptiedossier, vermeld in artikel 15, tweede lid, 1° tot en met 3°. De geadopteerde heeft daarnaast toegang tot het deel van het dossier met gegevens over de adoptant, vermeld in artikel 15, tweede lid, 4°, die betrekking hebben op de motivatie voor de adoptie, de redenen voor de aanvaarding van de kandidaat-adoptant en de reden tot plaatsing bij de adoptant.<br>
+§3. De geadopteerde heeft recht op inzage in:<br>
+1°&nbsp;&nbsp; &nbsp;de stukken, vermeld in artikel 361-3, 2°, a) en b), van het oud Burgerlijk Wetboek;<br>
+2°&nbsp;&nbsp; &nbsp;de documenten die betrekking hebben op de gerechtelijke en administratieve procedure waarbij de adoptie tot stand komt;<br>
+3°&nbsp;&nbsp; &nbsp;de documenten in verband met de nazorg.<br>
+<br>
+De geadopteerde heeft daarnaast toegang tot het deel van het dossier met gegevens over de adoptant die betrekking hebben op de motivatie voor de adoptie, de redenen voor de aanvaarding van de kandidaat-adoptant en de reden tot plaatsing bij de adoptant.<br>
 <br>
 § 4. De geadopteerde heeft recht op toelichting bij de gegevens uit zijn adoptiedossier. Als bepaalde gegevens ook betrekking hebben op een derde en een volledige inzage in de gegevens door de geadopteerde afbreuk zou doen aan het recht van die derde op bescherming van zijn persoonlijke levenssfeer, wordt de toegang tot die gegevens verstrekt via een gesprek, gedeeltelijke inzage of rapportage.<br>
 <br>
