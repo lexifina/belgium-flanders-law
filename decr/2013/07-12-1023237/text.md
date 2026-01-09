@@ -427,13 +427,13 @@ b) ouders en opvoedingsverantwoordelijken die een beroep doen of gedaan hebben o
 7° laagdrempelige vorming aanbieden vanuit het cliëntperspectief en dat perspectief inbrengen in het brede maatschappelijke veld, in overleg- en adviesorganen, en in onderzoeksopdrachten van de Vlaamse overheid met betrekking tot jeugdhulpverlening;<br>
 8° mee het initiatief nemen tot de ontwikkeling van een onafhankelijk cliënten-forum en eraan meewerken.<br>
 <br>
-Een vereniging kan alleen als cliëntenorganisatie erkend worden en blijven als minstens een derde van de personen die in de bestuursorganen van de vereniging zitting hebben, ervaring hebben als cliënt in de jeugdhulp, en als de vereniging bovendien steunt op een directe betrokkenheid bij de werking van de vereniging van de categorieën van personen, vermeld in het tweede lid, 1°, a), en/of 1°, b).<br>
+Een vereniging kan alleen als cliëntenorganisatie erkend worden en blijven als minstens een derde van de personen die in de algemene vergadering van de vereniging zitting hebben, ervaring hebben als cliënt in de jeugdhulp, en als de vereniging bovendien steunt op een directe betrokkenheid bij de werking van de vereniging van de categorieën van personen, vermeld in het tweede lid, 1°, a), en/of 1°, b).<br>
 <br>
 De Vlaamse Regering kan aanvullende erkenningsvoorwaarden bepalen.<br>
 <br>
 § 2. De Vlaamse Regering kan een of meer erkende cliëntenorganisaties subsidiëren op basis van de subsidievoorwaarden die ze heeft vastgesteld.<br>
 <br>
-De subsidie wordt jaarlijks toegekend op basis van een beleidsplan van drie jaar van de cliëntenorganisatie.
+De subsidie wordt jaarlijks toegekend op basis van een beleidsplan van vijf jaar van de cliëntenorganisatie.
 
 ### ART 45/2.
 
@@ -445,6 +445,8 @@ Het cliëntenforum heeft als opdracht:<br>
 3° cliëntenorganisaties en cliëntenvertegenwoordigers te ondersteunen in hun bijdrage aan een participatieve jeugdhulpverlening.<br>
 <br>
 De Vlaamse Regering kan aanvullende opdrachten aan het cliëntenforum toekennen.<br>
+<br>
+De subsidie wordt jaarlijks toegekend op basis van een beleidsplan van het cliëntenforum van vijf jaar.<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden waaraan het cliëntenforum moet voldoen om voor subsidiëring in aanmerking te komen.
 
