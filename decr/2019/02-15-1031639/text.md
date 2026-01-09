@@ -313,7 +313,7 @@ c) artikel 22 van het decreet van 12 juni 2013 betreffende de integrale jeugdhul
 d) artikel 17 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap begeleiding verlenen bij het opstellen, indienen en aanpassen van een ondersteuningsplan;<br>
 4° optreden als belangenbehartiger in individuele situaties, deze situaties opvolgen, samenbrengen en belemmerende factoren en signalen vertalen naar beleidsaanbevelingen die overgemaakt worden aan de bevoegde instanties en overheden.<br>
 <br>
-Met behoud van de toepassing van het eerste lid, kan een dienst maatschappelijk werk van het ziekenfonds krachtens de artikelen 13, 14 en 35 van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten werkzorgbegeleiding uitvoeren en de rol van casemanager zorg opnemen.<br>
+Met behoud van de toepassing van het eerste lid, kan een dienst maatschappelijk werk van het ziekenfonds krachtens artikel 12 en 28 van het decreet van 8 juli 2022 over de werk- en zorgtrajecten werkzorgbegeleiding uitvoeren en de rol van casemanager zorg opnemen.<br>
 <br>
 In het eerste lid, 1°, e), wordt verstaan onder proactieve acties: de acties waarbij de dienst maatschappelijk werk van het ziekenfonds zelf het initiatief neemt om ervoor te zorgen dat elke burger die er aanspraak op kan maken rechten en zorg en ondersteuning ontvangt.<br>
 <br>
@@ -601,7 +601,7 @@ Verenigingen en thuiszorgvoorzieningen, met uitsluiting van de dienst voor thuis
 5° een publiekrechtelijke vereniging;<br>
 6° een vereniging van publiek recht onderworpen aan deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 7° een ziekenfonds;<br>
-8° een vennootschap met rechtspersoonlijkheid en sociaal oogmerk volgens het Wetboek van vennootschappen van 7 mei 1999 of een coöperatie-ve vennootschap met erkenning als sociale onderneming volgens het Wetboek van vennootschappen en verenigingen van 23 maart 2019 of een equivalent daarvan.<br>
+8° een coöperatieve vennootschap met erkenning als sociale onderneming als vermeld in het Wetboek van vennootschappen en verenigingen, of een equivalent daarvan.<br>
 <br>
 De Vlaamse Regering kan bepalen welke andere initiatiefnemers erkende verenigingen en thuiszorgvoorzieningen als bepaald in het eerste lid kunnen oprichten en uitbaten.
 
@@ -850,7 +850,7 @@ c) de wijze waarop wordt voorzien in periodieke rapportage;<br>
 
 ### ART 61.
 
-De Vlaamse Regering kan, onder de voorwaarden en volgens de procedure die ze bepaalt projecten tijdelijk erkennen en subsidiëren binnen de beschikbare begrotingskredieten.<br>
+De Vlaamse Regering kan, onder de voorwaarden en volgens de procedure die ze bepaalt projecten tijdelijk erkennen of subsidiëren binnen de beschikbare begrotingskredieten.<br>
 <br>
 In het eerste lid wordt verstaan onder project: een bijzonder initiatief met betrekking tot de woonzorg dat gekenmerkt wordt door een tijdelijk en vernieuwend karakter.
 

@@ -2,16 +2,16 @@
   "codex_id": 1031639,
   "title": "Decreet van 2019-02-15 betreffende de woonzorg (citeeropschrift: \"Woonzorgdecreet van 15 februari 2019\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031639/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "dff61daaef34caf3fe6481c174460e0fe847b115b74e89eadab82bb5779dd778",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031639/VolledigDocument?datum=2026-01-09",
+  "source_sha256": "2cb70fcb3a5ba649332551c5c961c1565b07af757cff773cfe6b80767ad86ace",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031639&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-01-09",
   "made": "2019-02-15",
   "gazette": "2019-05-03",
   "numac": 2019030252,
   "document_start": "2020-01-01",
   "document_end": null,
-  "in_force": "2025-01-01",
+  "in_force": "2026-01-09",
   "article_versions": 102,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-09; future article versions excluded; article text as the API gives it"
 }
