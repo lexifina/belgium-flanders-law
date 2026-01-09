@@ -181,9 +181,9 @@ Zolang door de verzorgingsvoorziening niet verholpen is aan de vastgestelde inbr
 
 ### ART. 33.
 
-De Vlaamse Regering bepaalt na overleg met de sector de voorwaarden en de procedure die gelden bij de toepassing van artikel 32.<br>
+De Vlaamse Regering bepaalt na overleg met de sector de voorwaarden en de procedure die gelden bij de toepassing van artikel 31.<br>
 <br>
-De maatregelen, vermeld in artikel 32, kunnen ook inhouden dat geen nieuwe gebruikers mogen worden opgenomen.<br>
+De maatregelen, vermeld in artikel 31, kunnen ook inhouden dat geen nieuwe gebruikers mogen worden opgenomen.<br>
 &nbsp;
 
 ## Afdeling V Maatregelen in geval van illegale exploitatie van een psychiatrisch verzorgingstehuis of een initiatief beschut wonen
