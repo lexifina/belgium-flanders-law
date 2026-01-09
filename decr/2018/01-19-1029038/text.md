@@ -23,7 +23,8 @@ In dit decreet wordt verstaan onder:<br>
 12° welzijns- en gezinsbeleid: het beleid over het geheel van de aangelegenheden, vermeld in artikel 5, § 1, II en IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid over het onthaal en de integratie van inwijkelingen en over de juridische eerstelijnsbijstand;<br>
 13° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid, waaronder hulp, dienstverlening, ondersteuning, Vlaamse sociale bescherming, zorgverzekering en gezinsbijslagen;<br>
 14° zorggebruiker: de patiënt, namelijk de natuurlijke persoon aan wie gezondheidszorg wordt verstrekt, al dan niet op eigen verzoek, of elke andere natuurlijke persoon aan wie zorg wordt verleend, al dan niet op eigen verzoek;<br>
-15° zorgverlener: de beoefenaar, vermeld in de wet betreffende de uitoefening van de gezondheidszorgberoepen gecoördineerd op 10 mei 2015.
+15° zorgverlener: de beoefenaar, vermeld in de wet betreffende de uitoefening van de gezondheidszorgberoepen gecoördineerd op 10 mei 2015;<br>
+16° bevoegde entiteit: het departement of het agentschap binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin dat is aangewezen om het beleid over de actor in de zorg of de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, uit te voeren.
 
 ## HOOFDSTUK 2. De uitoefening van toezichtstaken
 
@@ -71,7 +72,7 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 <br>
 De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren het verslag, vermeld in artikel 13, alsook de bijlagen bij dat verslag tot 20 jaar nadat het verslag definitief is geworden of, indien het het voorwerp uitmaakt van een rechtsgeding, tot 20 jaar nadat een in kracht van gewijsde gegaan vonnis of arrest is uitgesproken.<br>
 <br>
-De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren andere informatie die zij bij de uitoefening van hun opdracht verwerken tot 3 jaar nadat het verslag definitief is geworden.<br>
+De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren andere informatie die zij bij de uitoefening van hun opdracht verwerken tot één jaar nadat het verslag definitief is geworden.<br>
 <br>
 § 4. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is de verwerkingsverantwoordelijke voor de persoonsgegevens die inspecteurs bij de uitoefening van hun opdracht verwerken.
 
@@ -93,7 +94,15 @@ De minderjarige of handelingsonbekwame persoon oefent de rechten, vermeld in dit
 7° het recht om zich te laten bijstaan door deskundigen;<br>
 8° het recht om zich, in uitzonderlijke omstandigheden of wanneer de eigen veiligheid in het gedrang is, te laten bijstaan door de lokale en federale politie.<br>
 <br>
-§ 2. Voor de uitoefening van hun opdracht in het kader van het financiële toezicht kunnen inspecteurs de rechten, vermeld in paragraaf 1, uitoefenen ten aanzien van actoren in de zorg en zorggebruikers voor wat betreft de aanwending van publieke middelen en de regelgeving daarover.
+§ 2. Voor de uitoefening van hun opdracht in het kader van het financiële toezicht kunnen inspecteurs de rechten, vermeld in paragraaf 1, uitoefenen ten aanzien van actoren in de zorg, entiteiten of personen verbonden met actoren in de zorg en zorggebruikers voor wat betreft de aanwending van publieke middelen en de regelgeving daarover.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° &nbsp;entiteiten, verbonden met actoren in de zorg:<br>
+a)&nbsp;&nbsp; &nbsp;de vennootschappen, verenigingen en stichtingen waarover de actor in de zorg een controlebevoegdheid uitoefent;<br>
+b)&nbsp;&nbsp; &nbsp;de vennootschappen, verenigingen en stichtingen die een controlebevoegdheid uitoefenen over de actor in de zorg;<br>
+c)&nbsp;&nbsp; &nbsp;de vennootschappen, verenigingen en stichtingen waarmee de actor in de zorg een consortium vormt;<br>
+d)&nbsp;&nbsp; &nbsp;de andere vennootschappen, verenigingen en stichtingen die, bij weten van het bestuursorgaan van de actor in de zorg, onder de controle staan van de vennootschappen, verenigingen en stichtingen, vermeld in punt a), b) en c);<br>
+2° personen, verbonden met actoren in de zorg: de natuurlijke en rechtspersonen die verbonden zijn met de actor in de zorg, conform punt 1°.
 
 ### ART 8.
 
@@ -164,17 +173,32 @@ Vaststellingen met staalnames gelden tot bewijs van het tegendeel, op voorwaarde
 
 ### ART 13.
 
-§ 1. De inspecteurs stellen een verslag op van hun vaststellingen. De Vlaamse Regering bepaalt welke inlichtingen het verslag minstens bevat.<br>
+§1. De inspecteurs stellen een verslag op van hun vaststellingen. De Vlaamse Regering bepaalt welke inlichtingen het verslag minstens bevat.&nbsp;Daarnaast kunnen de inspecteurs van het verslag een samenvattend rapport opstellen.<br>
 <br>
-§ 2. Een kopie van het voorlopige verslag en de bijlagen wordt binnen een termijn van dertig dagen bezorgd aan de actor in de zorg, aan de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en aan de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan. De termijn neemt een aanvang de dag nadat de laatste vaststelling in het kader van het toezicht gedaan is. De termijn is eenmalig verlengbaar met dertig dagen, op voorwaarde dat de inspecteurs de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, daarvan binnen een termijn van dertig dagen schriftelijk op de hoogte brengen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag.<br>
+§2. Een kopie van het voorlopige verslag en de bijlagen wordt binnen een termijn van dertig dagen bezorgd aan de actor in de zorg, aan de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en aan de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan. De termijn neemt een aanvang de dag nadat de laatste vaststelling in het kader van het toezicht gedaan is. De termijn is eenmalig verlengbaar met dertig dagen, op voorwaarde dat de inspecteurs de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, daarvan binnen een termijn van dertig dagen schriftelijk op de hoogte brengen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag.<br>
 <br>
-§ 3. De actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, hebben elk het recht om binnen een termijn van veertien dagen hun schriftelijke reactie op het voorlopige verslag kenbaar te maken. De termijn neemt een aanvang de dag na de ontvangst van het voorlopige verslag en de bijlagen, vermeld in paragraaf 2. De termijn is eenmalig verlengbaar met veertien dagen, op voorwaarde dat de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, of de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, de inspecteurs daarvan binnen een termijn van veertien dagen schriftelijk op de hoogte brengen en deze er hun akkoord aan verlenen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag. De reactie wordt als bijlage bij het verslag gevoegd en maakt dus deel uit van het administratief dossier.<br>
+§3. De actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, hebben elk het recht om binnen een termijn van veertien dagen hun schriftelijke reactie op het voorlopige verslag kenbaar te maken. De termijn neemt een aanvang de dag na de ontvangst van het voorlopige verslag en de bijlagen, vermeld in paragraaf 2. De termijn is eenmalig verlengbaar met veertien dagen, op voorwaarde dat de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, of de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, de inspecteurs daarvan binnen een termijn van veertien dagen schriftelijk op de hoogte brengen en deze er hun akkoord aan verlenen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag. De reactie wordt als bijlage bij het verslag gevoegd en maakt dus deel uit van het administratief dossier.<br>
 <br>
 De inspecteurs kunnen het verslag aanpassen op basis van de reacties op het voorlopige verslag en de bijlagen, vermeld in eerste lid. De actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, worden schriftelijk op de hoogte gebracht van eventuele aanpassingen.<br>
 <br>
-§ 4. Een kopie van het verslag en de bijlagen wordt binnen een termijn van dertig dagen bezorgd aan de actor in de zorg, aan de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en aan de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan. De termijn neemt een aanvang de dag na de ontvangst van de laatste reactie, vermeld in paragraaf 3, of na het verstrijken van de reactietermijn. De termijn is eenmalig verlengbaar met dertig dagen, op voorwaarde dat de inspecteurs de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, daarvan binnen een termijn van dertig dagen schriftelijk op de hoogte brengen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag.<br>
+§4. Een kopie van het verslag en de bijlagen wordt binnen een termijn van dertig dagen bezorgd aan&nbsp;de bevoegde entiteit of, in voorkomend geval, de bevoegde entiteiten. Een kopie van het verslag en de eventueel gewijzigde bijlagen wordt op hetzelfde moment ook bezorgd aan de actor in de zorg, aan de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en aan de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan. De termijn neemt een aanvang de dag na de ontvangst van de laatste reactie, vermeld in paragraaf 3, of na het verstrijken van de reactietermijn. De termijn is eenmalig verlengbaar met dertig dagen, op voorwaarde dat de inspecteurs de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, daarvan binnen een termijn van dertig dagen schriftelijk op de hoogte brengen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag.<br>
 <br>
-§ 5. Het verslag dat conform paragraaf 1 tot en met 4 opgesteld en bezorgd is, heeft bewijswaarde tot het tegendeel is bewezen.
+§5. Het verslag dat conform paragraaf 1 tot en met 4 opgesteld en bezorgd is, heeft bewijswaarde tot het tegendeel is bewezen.<br>
+<br>
+§6. In afwijking van artikel II.34, 2°, artikel II.36, §1, tweede lid, 1°, en artikel II.40, §3, tweede lid, van het Bestuursdecreet van 7 december 2018, gelden voor de aanvragen tot openbaarmaking van het verslag of het rapport waarvan de actor in de zorg het voorwerp van het toezicht is, de hiernavolgende bepalingen.<br>
+<br>
+De dienst van de Vlaamse overheid waarvan de inspecteurs het verslag, vermeld in het eerste lid, opstellen, de Vlaamse Regering, instellingen, voorzieningen, diensten of ambtenaren, vermeld in artikel 16, §1, eerste lid, maken in zoverre ze als overheidsinstanties, vermeld in artikel II.28, §1, van het voormelde decreet worden beschouwd, de volgende gegevens, die vermeld worden in dat verslag of rapport, openbaar aan personen die een geldige aanvraag tot openbaarheid van dat verslag of rapport indienen conform titel II, hoofdstuk 3, van het voormelde decreet:<br>
+1° de naam van de actor in de zorg die het voorwerp van het toezicht is en ten aanzien waarvan vaststellingen in het kader van het toezicht zijn gedaan, en het adres van de actor in de zorg waar de vaststellingen in het kader van het toezicht zijn gedaan;<br>
+2° de naam en het adres van de inrichtende macht van de actor in de zorg, vermeld in punt 1°;<br>
+3° de vaststellingen die in het kader van het toezicht zijn gedaan en die bestaan uit beschrijvingen van gedragingen van de actor in de zorg en de natuurlijke personen die werken bij de actor in de zorg, of uit beoordelingen van of een waardeoordeel over de manier waarop de actor in de zorg en de natuurlijke personen die werken bij de actor in de zorg, hun werkzaamheden uitoefenen, voor zover het niet gaat over gevoelige gegevens of gegevens die niet behoren tot de professionele context.<br>
+<br>
+De doelstelling van de openbaarmaking van de gegevens, vermeld in het tweede lid, bestaat erin te verzekeren dat aanvragers toegang hebben tot verslagen en rapporten als vermeld in het eerste lid, tot de persoonsgegevens die nodig zijn om een volledig inzicht te krijgen in de kwaliteit van de verstrekte zorg, in de naleving door de actor van de zorg van de regelgeving in het kader van het gezondheidsbeleid en het welzijns- en gezinsbeleid, vermeld in artikel 3, eerste lid, en in de manier waarop de overheid hierop toezicht uitoefent.<br>
+<br>
+De Vlaamse Regering, de instellingen, voorzieningen, diensten of ambtenaren, vermeld in artikel 16, §1, eerste lid, verwerken de gegevens, vermeld in het tweede lid, maximaal gedurende de bewaartermijnen, vermeld in artikel 5, §3, tweede lid, verlengd met de termijnen, vermeld in artikel II.43 van het voormelde decreet.<br>
+<br>
+Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, is de verwerkingsverantwoordelijke voor de gegevens die de dienst bij de openbaarmaking van het verslag of rapport verwerkt.<br>
+<br>
+De aanvrager die een verzoek indient tot openbaarmaking van het verslag of rapport als vermeld in het eerste lid, toont geen belang aan voor de openbaarmaking van de informatie van persoonlijke aard.
 
 ### ART 14.
 
