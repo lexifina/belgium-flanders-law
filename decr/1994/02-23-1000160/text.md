@@ -42,7 +42,11 @@ De bepalingen van dit decreet zijn van toepassing op alle subsidie- en waarborga
 
 ### ART. 8.
 
-Binnen het kader van de toepassing van respectievelijk artikel 6 of   artikel 7bis, kan het Fonds binnen de perken van de begrotingskredieten   investeringssubsidies of alternatieve vormen van investeringssubsidies   verstrekken, en kan het Fonds de investeringswaarborg verlenen,&nbsp;aan   aanvragers die een investering volledig autofinancieren zonder voor het project   te beschikken over een subsidiebelofte of een principieel akkoord. Dit onder de   volgende voorwaarden : <BR>1° het project wordt uitgevoerd overeenkomstig de   bouwfysische, technische en kwalitatieve normen zoals bepaald door de Vlaamse   Regering;<BR>2° het project past in de programmatie;<BR>3° het project dat   opgenomen is in het technische en financiële deel van het masterplan, heeft een   gunstig advies gekregen van een daarvoor bevoegde adviescommissie als vermeld in   artikel 11, § 2, tweede lid; <BR>4° de aanvragers beschikken over de nodige   financiële middelen, vereist voor de volledige autofinanciering van het   project.
+Binnen het kader van de toepassing van respectievelijk artikel 6 of artikel 7bis, kan het Fonds binnen de perken van de begrotingskredieten investeringssubsidies of alternatieve vormen van investeringssubsidies verstrekken, en kan het Fonds de investeringswaarborg verlenen,&nbsp;aan aanvragers die een investering volledig autofinancieren zonder voor het project te beschikken over een subsidiebelofte of een principieel akkoord. Dit onder de volgende voorwaarden :<br>
+1° het project wordt uitgevoerd overeenkomstig de bouwfysische, technische en kwalitatieve normen zoals bepaald door de Vlaamse Regering;<br>
+2° het project past in de programmatie;<br>
+3° het project dat opgenomen is in het technische en financiële deel van het masterplan, heeft een gunstig advies gekregen van het Fonds;<br>
+4° de aanvragers beschikken over de nodige financiële middelen, vereist voor de volledige autofinanciering van het project.
 
 ### ART. 8/1.
 
@@ -66,7 +70,7 @@ Bij een aankoop wordt enkel de venale waarde van het gebouw zonder de grond in a
 
 ### ART. 12.
 
-<P>De aanvrager moet minstens over een genotsrecht beschikken op het project   waarvoor de aanvraag voor een investeringssubsidie wordt gedaan, voor een   periode die voor onroerende goederen in elk geval minstens vijfentwintig jaar   bedraagt en voor roerende goederen in elk geval minstens vijf jaar bedraagt. De   Vlaamse Regering kan een langere periode bepalen. Als de aanvrager en de   eigenaar of de houder van de zakelijke rechten op de grond waarop een project   wordt voorzien, twee verschillende personen zijn, mag er geen ongeoorloofde   verwantschap bestaan tussen hen. De Vlaamse Regering legt de voorwaarden vast   waaronder er sprake is van een ongeoorloofde verwantschap.</P>
+<p>De aanvrager moet minstens over een genotsrecht beschikken op het project waarvoor de aanvraag voor een investeringssubsidie wordt gedaan, voor een periode die voor onroerende goederen in elk geval minstens vijfentwintig jaar na de ingebruikname van het project bedraagt en voor roerende goederen in elk geval minstens vijf jaar na de ingebruikname van het project bedraagt. De Vlaamse Regering kan een langere periode bepalen. Als de aanvrager en de eigenaar of de houder van de zakelijke rechten op de grond waarop een project wordt voorzien, twee verschillende personen zijn, mag er geen ongeoorloofde verwantschap bestaan tussen hen. De Vlaamse Regering legt de voorwaarden vast waaronder er sprake is van een ongeoorloofde verwantschap.</p>
 
 ### ART. 13.
 
