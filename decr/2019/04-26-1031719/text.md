@@ -275,7 +275,7 @@ Bij het bepalen van de regionale zorgzones neemt de Vlaamse Regering de volgende
 4° het werkgebied van de organisaties, vermeld in artikel 17, tweede lid, 1° tot en met 4°, en de regionale zorgzones zijn maximaal op elkaar afgestemd;<br>
 5° onder voorbehoud van de voorwaarden, vermeld in punt 1° tot en met 3°, worden de regionale zorgzones afgestemd op de grenzen van de referentieregio’s, vermeld in artikel 5 van het Regiodecreet van 3 februari 2023.<br>
 <br>
-De Vlaamse Regering kan afwijken van de voorwaarde, vermeld in het tweede lid, 5°.
+De Vlaamse Regering kan gemotiveerd afwijken van de voorwaarden, vermeld in het tweede lid, 3° en 5°, op voorwaarde dat het aantal regionale zorgzones in het Nederlandse taalgebied kleiner is dan of gelijk is aan het aantal referentieregio’s, vermeld in artikel 5 van het Regiodecreet van 3 februari 2023.
 
 ## HOOFDSTUK 7. Partnerorganisaties
 
