@@ -171,7 +171,7 @@ Een goedgekeurde Vlaamse gezondheidsdoelstelling blijft van kracht tot ze wordt 
 <br>
 De beheersovereenkomst geldt voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de looptijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br>
 <br>
-De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep en het sluiten van een beheersovereenkomst.<br>
+De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep, het sluiten en het verlengen van een beheersovereenkomst.<br>
 <br>
 § 2. De Vlaamse Regering kan voorzieningen waarmee geen beheersovereenkomst als partnerorganisatie is gesloten, erkennen als partnerorganisatie.<br>
 <br>
@@ -195,7 +195,7 @@ De partnerorganisaties bieden minstens ondersteuning aan de organisaties met ter
 <br>
 De beheersovereenkomst geldt voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de looptijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br>
 <br>
-De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep en het sluiten van een beheersovereenkomst.<br>
+De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep, het sluiten en het verlengen van een beheersovereenkomst.<br>
 <br>
 § 2. De Vlaamse Regering kan voorzieningen waarmee geen beheersovereenkomst als organisatie met terreinwerking is gesloten, erkennen als organisatie met terreinwerking.<br>
 <br>
