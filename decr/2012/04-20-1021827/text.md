@@ -59,7 +59,7 @@ Lokale loketten, zoals vermeld in artikel 13, moeten voor alle gezinnen de toega
 <br>
 Zolang het aanbod niet volstaat voor alle gezinnen met een behoefte aan kinderopvang, bepaalt de Vlaamse Regering in functie van de toegankelijkheid welke groepen bij voorrang kunnen gebruik maken van het aanbod waarvoor de organisator een subsidie ontvangt als vermeld in artikel 8 en 9.<br>
 <br>
-De Vlaamse Regering houdt bij de programmatie van de vergunningen, zoals vermeld in artikel 8 en 9, rekening met een wetenschappelijk onderbouwde raming van de behoefte aan kinderopvang die minstens uitgaat van :<br>
+De Vlaamse Regering houdt bij de programmatie van de subsidies, zoals vermeld in artikel 8 en 9, rekening met een wetenschappelijk onderbouwde raming van de behoefte aan kinderopvang die minstens uitgaat van :<br>
 1° de vastgestelde nataliteit en de prognose van de toekomstige nataliteit in het Vlaamse Gewest en het Brusselse Hoofdstedelijke Gewest;<br>
 2° het aantal kinderen dat kinderopvang gebruikt;<br>
 3° de gezinskenmerken en de werksituatie van gezinnen met niet-schoolgaande kinderen, vooral in het kader van de stimulering van de tewerkstellingsgraad;<br>
@@ -209,7 +209,7 @@ De Vlaamse Regering bepaalt de opdrachten en de regels, die minstens inhouden we
 
 ### ART. 10.
 
-De organisator met een vergunning kan bovenop de subsidies, vermeld in artikel 7, 8 en 9, een subsidie ontvangen van&nbsp; het agentschap voor :<br>
+De organisator met een vergunning kan een subsidie ontvangen van&nbsp; het agentschap voor :<br>
 1° de organisatie van kinderopvang met flexibele openingstijden;<br>
 2° de organisatie van inclusieve kinderopvang voor kinderen met een specifieke zorgbehoefte;<br>
 3° de ondersteuning van specifieke opdrachten;<br>
@@ -226,7 +226,7 @@ Het agentschap&nbsp;kan een subsidie toekennen aan :<br>
 
 § 1. De subsidies, vermeld in artikel 7 tot en met 11, kunnen alleen binnen de perken van het daarvoor vastgelegde budget worden toegekend.<br>
 <br>
-De Vlaamse Regering legt de programmatieregels vast, minstens voor de subsidies vermeld in artikel 8, 9, en 10, 1° en 2°, waaronder het feit dat ze minstens per zorgregio worden toegekend, en bepaalt de nadere regels voor die subsidie.<br>
+De Vlaamse Regering legt de programmatieregels vast, minstens voor de subsidies vermeld in artikel 8, 9, en 10, 1° en 2°,&nbsp; en bepaalt de nadere regels voor de subsidies, vermeld in artikel 7 tot en met 11.<br>
 <br>
 § 2. De beslissing over de subsidies, vermeld in artikel 7 tot en met 9, en artikel 10, 1° en 2°, bevat minstens de volgende gegevens :<br>
 1° de organisator;<br>
@@ -396,8 +396,6 @@ De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden
 <br>
 De betrokkene kan, op straffe van verval van het recht tot het instellen van het beroep, binnen een termijn van een maand vanaf de kennisgeving van de beslissing waarbij hem een bestuurlijke geldboete wordt opgelegd tegen die beslissing beroep aantekenen met een verzoekschrift bij de Raad van State. Dat beroep schorst de uitvoering van de beslissing.<br>
 <br>
-Als de betrokkene weigert de bestuurlijke geldboete te betalen, wordt ze bij dwangbevel ingevorderd. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br>
-<br>
 De vordering tot voldoening van de bestuurlijke geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het tweede lid, of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
 <br>
 De Vlaamse Regering wijst de personeelsleden van het agentschap aan die overeenkomstig de bepalingen van deze afdeling bevoegd zijn om bestuurlijke geldboeten op te leggen, en bepaalt de nadere regels voor het opleggen en het betalen van de bestuurlijke geldboete.
@@ -428,32 +426,35 @@ De Vlaamse Regering stelt de vergoeding voor de leden van het Comité vast.
 Het agentschap verwerkt in uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
 1° van het kind en van het gezin van het kind :<br>
 a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), van het kind in het kader van de handhaving van de vergunnings- en subsidievoorwaarden en in het kader van de beleidsvoorbereiding en -evaluatie;<br>
-b) identificatiegegevens in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie, het kenbaar maken van genomen maatregelen met betrekking tot de vergunning of subsidiëring, en de facturatie;<br>
+b) identificatiegegevens, met inbegrip van het INSZ-nummer, in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie, het kenbaar maken van genomen maatregelen met betrekking tot de vergunning of subsidiëring, en de facturatie;<br>
 c) gegevens over de vraag naar kinderopvang in het kader van de handhaving van vergunnings- en subsidievoorwaarden, de beleidsvoorbereiding en -evaluatie en de programmatie;<br>
 d) gegevens over het gebruik van de kinderopvanglocatie door gezinnen in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de beleidsvoorbereiding en -evaluatie, de facturatie, de programmatie en de aanwezigheidsregistratie;<br>
 e) financiële gegevens en gegevens over de gezinssituatie in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de beleidsvoorbereiding en -evaluatie, de facturatie en de bepaling van de prijs van de kinderopvang voor de gezinnen;<br>
 f) gegevens over de omgang met crisissituaties in de kinderopvanglocatie;<br>
 g) gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
 h) gegevens over de maatschappelijke kwetsbaarheid in het kader van de handhaving van de subsidievoorwaarden en de beleidsvoorbereiding en -evaluatie;<br>
+i) de aanduiding of het kind een pleegkind is als vermeld in artikel 2, 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, en als dusdanig enige voordelen krijgt, zoals voorrang of een verlaagde ouderbijdrage;<br>
 2° van de organisatoren, de verantwoordelijken, de kinderbegeleiders en eventuele andere medewerkers in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, minstens :<br>
-a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening, en de persoonsgegevens, vermeld in artikel 10 van de voormelde verordening, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
-b) de identificatiegegevens, de opleidingsgegevens en de tewerkstellingsgegevens;<br>
+a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening, en de persoonsgegevens, vermeld in artikel 10 van de voormelde verordening, minstens een attest van medische geschiktheid, een uittreksel uit het strafregister of andere strafrechtelijke informatie;<br>
+a/1) de gegevens over de geschiktheid en competenties en de risico’s met betrekking tot die personen;<br>
+b) de identificatiegegevens, met inbegrip van het INSZ-nummer, de opleidingsgegevens en de tewerkstellingsgegevens;<br>
 c) de gegevens over crisissituaties in de kinderopvanglocatie;<br>
 d) de gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
+e) de gegevens over de organisatie en de financiële werking van de organisator zoals opgenomen in de federale en Vlaamse authentieke databanken;<br>
 3° van elke meerderjarige persoon die in de kinderopvanglocatie direct contact heeft met de opgevangen kinderen, de gegevens, vermeld in punt 2°, a).<br>
-Het agentschap bezorgt de gegevens die noodzakelijk zijn voor hun opdrachten, aan de organisaties en deskundigen, vermeld in artikel 15/1 of artikel 11, 2°, en aan de gerechtelijke instanties met het oog op meldingen door het agentschap of in het kader van lopende strafonderzoeken.<br>
+Het agentschap bezorgt de gegevens die noodzakelijk zijn voor hun opdrachten, aan de organisaties en deskundigen, vermeld in artikel 15/1 of artikel 11, 2° en 3°, en aan de gerechtelijke instanties met het oog op meldingen door het agentschap of in het kader van lopende strafonderzoeken.<br>
 <br>
 De organisator verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
 1° van het kind en van het gezin van het kind :<br>
 a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening in het kader van de vergunnings- en subsidievoorwaarden;<br>
-b) de identificatiegegevens in het kader van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie en de facturatie;<br>
+b) de identificatiegegevens, met inbegrip van het INSZ-nummer, in het kader van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie en de facturatie;<br>
 c) de gegevens over de vraag naar kinderopvang in het kader van de vergunnings- en subsidievoorwaarden en het beleid van de organisator met betrekking tot de kinderopvanglocatie;<br>
 d) de gegevens over het gebruik van de kinderopvanglocatie door gezinnen in het kader van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie, de facturatie en het beleid van de kinderopvanglocatie;<br>
 e) de financiële gegevens en de gegevens over de gezinssituatie in het kader van de vergunnings- en subsidievoorwaarden, de facturatie en de bepaling van de prijs van de kinderopvang voor de gezinnen;<br>
 f) de gegevens over de maatschappelijke kwetsbaarheid in het kader van de subsidievoorwaarden en het beleid van de organisator met betrekking tot de kinderopvanglocatie;<br>
 2° van de verantwoordelijken, de kinderbegeleiders en eventuele andere medewerkers in het kader van de vergunnings- en subsidievoorwaarden, minstens :<br>
 a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening, en de persoonsgegevens, vermeld in artikel 10 van de voormelde verordening, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
-b) de identificatiegegevens, de opleidingsgegevens en de gegevens over de draagkracht van de kinderbegeleiders;<br>
+b) de identificatiegegevens, met inbegrip van het INSZ-nummer,&nbsp;de opleidingsgegevens en de gegevens over de draagkracht van de kinderbegeleiders;<br>
 3° van de personen, vermeld in punt 1° en 2° :<br>
 a) de gegevens over de omgang met crisissituaties in de kinderopvanglocatie;<br>
 b) de gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
@@ -489,15 +490,15 @@ De verwerking is noodzakelijk gelet op artikel 6.1, e), artikel 9, tweede lid, g
 <br>
 De personen van wie de persoonsgegevens kunnen worden verwerkt door de organisaties of deskundigen die aangesteld zijn door de Vlaamse Regering ter uitvoering van artikel 15/1, zijn de organisatoren kinderopvang, de personen die werkzaam zijn in hun kinderopvanglocatie, de zaakvoerders en bestuurders die betrokken zijn bij de kinderopvanglocatie en de minderjarigen of personen die betrokken zijn bij een melding of klacht over de kinderopvanglocatie in kwestie.&nbsp;<br>
 <br>
-De organisaties die een subsidie ontvangen voor de ondersteuning van organisatoren als vermeld in artikel 11, 2°, verwerken de volgende persoonsgegevens met het oog op de uitvoering van hun opdrachten:<br>
+De organisaties die een subsidie ontvangen voor de ondersteuning van organisatoren als vermeld in artikel 11, 2° en 3°, verwerken de volgende persoonsgegevens met het oog op de uitvoering van hun opdrachten:<br>
 1°&nbsp;&nbsp; &nbsp;de identificatiegegevens, vermeld in het eerste lid, 1°, b), en 2°, b);<br>
 2°&nbsp;&nbsp; &nbsp;de opleidingsgegevens en de tewerkstellingsgegevens, vermeld in het eerste lid, 2°, b);<br>
 3°&nbsp;&nbsp; &nbsp;de gegevens over de crisissituaties in de kinderopvanglocatie en over de behandeling van de klachten, vermeld in het eerste lid, 2°, c) en d);<br>
 4°&nbsp;&nbsp; &nbsp;de documenten over het toezicht en de handhaving op de vergunningsvoorwaarden van de organisatoren, die noodzakelijk zijn voor de opdracht van de organisatie.<br>
 <br>
-De verwerking is noodzakelijk gelet op artikel 6.1, e), van de algemene verordening gegevensbescherming. De organisatie die een subsidie ontvangt voor de ondersteuning van organisatoren als vermeld in artikel 11, 2°, is verwerkingsverantwoordelijke. De gegevens worden bewaard tot tien jaar nadat de organisatie de ondersteuning aan de organisator heeft afgerond.&nbsp;<br>
+De verwerking is noodzakelijk gelet op artikel 6.1, e), van de algemene verordening gegevensbescherming. De organisatie die een subsidie ontvangt voor de ondersteuning van organisatoren als vermeld in artikel 11, 2° en 3°, is verwerkingsverantwoordelijke. De gegevens worden bewaard tot tien jaar nadat de organisatie de ondersteuning aan de organisator heeft afgerond.&nbsp;<br>
 <br>
-De personen van wie de persoonsgegevens door de organisaties die een subsidie ontvangen voor de ondersteuning van organisatoren als vermeld in artikel 11, 2°, kunnen verwerkt worden, zijn de vergunde organisatoren kinderopvang en de personen die werkzaam zijn in hun kinderopvanglocaties.<br>
+De personen van wie de persoonsgegevens door de organisaties die een subsidie ontvangen voor de ondersteuning van organisatoren als vermeld in artikel 11, 2° en 3°, kunnen verwerkt worden, zijn de vergunde organisatoren kinderopvang en de personen die werkzaam zijn in hun kinderopvanglocaties.<br>
 <br>
 De bewaartermijn is tien jaar voor de gegevens over de klachten en crisissituaties, en vijf jaar voor de andere gegevens, vermeld in het eerste lid tot en met het vierde lid. Voor de gegevens over de verantwoordelijken, de kinderbegeleiders en de eventuele andere medewerkers begint de termijn te lopen vanaf het einde van hun tewerkstelling.<br>
 <br>
