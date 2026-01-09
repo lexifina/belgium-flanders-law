@@ -535,7 +535,7 @@ De Vlaamse Regering bepaalt het statuut en de vergoeding van de leden van de sec
 <br>
 De Vlaamse Regering bepaalt de samenstelling, de organisatie en de werkingsregels van de Expertencommissie. De samenstelling van de Expertencommissie kan variëren conform de voorwaarden en de procedures vastgelegd door de Vlaamse Regering. De samenstelling kan onder meer afhankelijk zijn van de betreffende taak van de Expertencommissie.<br>
 <br>
-De Vlaamse Regering bepaalt het statuut en de vergoeding van de leden van de Expertencommissie en legt de onverenigbaarheden vast, waaronder het verbod voor de leden van de Expertencommissie om in dienst te zijn van een zorgvoorziening, of om mandaten te vervullen binnen een zorgvoorziening.<br>
+De Vlaamse Regering bepaalt het statuut en de vergoeding van de leden van de Expertencommissie en legt de onverenigbaarheden vast.<br>
 <br>
 Het agentschap is belast met de administratieve ondersteuning en aansturing van de Expertencommissie.<br>
 <br>
@@ -547,7 +547,7 @@ Elke overtreding van deze paragraaf wordt gestraft met een geldboete van honderd
 
 ### ART 40.
 
-De Expertencommissie wordt onder meer belast met de volgende taken:<br>
+De Expertencommissie kan onder meer belast worden met de volgende taken:<br>
 1° een advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen aan gebruikers conform de verordening (EG) nr. 883/2004;<br>
 2° een&nbsp; advies verlenen met het oog op de door de zorgkas te verlenen voorafgaande toestemmingen voor geplande zorg in een andere lidstaat van de Europese Unie dan België, in IJsland, in Liechtenstein, in Noorwegen en in Zwitserland overeenkomstig de richtlijn 2011/24/EU;<br>
 3° een advies verlenen met het oog op de door de zorgkas te nemen beslissingen over vragen om tegemoetkomingen voor buitengewone zorg, vermeld in artikel 55 van dit decreet;<br>
@@ -1174,7 +1174,7 @@ De Vlaamse Regering kan, in de door haar bepaalde gevallen, afwijken van de care
 
 ### ART 84.
 
-§ 1. De zorgkas kent het zorgbudget voor ouderen met een zorgnood toe aan de persoon met een verminderde zelfredzaamheid die ten minste 65 jaar oud is.<br>
+§ 1. De zorgkas kent het zorgbudget voor ouderen met een zorgnood toe aan de persoon met een verminderde zelfredzaamheid die ten minste de leeftijd bereikt heeft waarop hij geen aanvraag van een inkomensvervangende tegemoetkoming of integratietegemoetkoming conform artikel 2, §1 en §2, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, meer kan indienen.<br>
 <br>
 De Vlaamse Regering bepaalt door wie, volgens welke criteria en op welke wijze de vermindering van de zelfredzaamheid wordt vastgesteld, en hoe die vaststelling wordt vergoed.<br>
 <br>
@@ -1750,7 +1750,9 @@ Voor de pijlers, vermeld in artikel 4, eerste lid, 4° en 7°, zet de Vlaamse Re
 
 ### ART 139/1.
 
-In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op de gezondheidssector en als die sociale akkoorden betrekking hebben op de woonzorgcentra, de centra voor dagverzorging, de centra voor kortverblijf, de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging, bepaalt de Vlaamse Regering de maatregelen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt en legt de Vlaamse Regering de voorwaarden en de procedure vast met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.
+In het kader van de uitvoering van de sociale akkoorden die betrekking hebben op de gezondheidssector en als die sociale akkoorden betrekking hebben op de woonzorgcentra, de centra voor dagverzorging, de centra voor kortverblijf, de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging, bepaalt de Vlaamse Regering de maatregelen waarvan de Vlaamse Gemeenschap de financiële weerslag ten laste neemt en legt de Vlaamse Regering de voorwaarden en de procedure vast met het oog op de vaststelling van de financiële weerslag, het bedrag en de betaling van de financiële tegemoetkoming.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de beroepsmogelijkheden bij de arbeidsrechtbank tegen beslissingen die genomen zijn ter uitvoering van dit artikel.
 
 ### ART 139/2.
 
@@ -1806,11 +1808,11 @@ De Vlaamse Regering kan regels en criteria bepalen voor de beheersing van de uit
 
 ### ART 145.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in woonzorgcentra.<br>
+§1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in woonzorgcentra.<br>
 <br>
 De zorgkas betaalt de tegemoetkoming, vermeld in het eerste lid, uit aan de woonzorgcentra in de vorm van een dagelijkse tegemoetkoming.<br>
 <br>
-§ 2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden hebben onder meer betrekking op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
+§2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden hebben onder meer betrekking op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop de toepassing van het evaluatie-instrument, vermeld in het eerste lid, wordt herzien en gecontroleerd.<br>
 <br>
@@ -1818,17 +1820,19 @@ Voor de controles, vermeld in het tweede lid, wordt een beroep gedaan op de Zorg
 <br>
 In het kader van de controles die worden verricht met het oog op de toepassing van deze paragraaf, hebben de gegevens over de zorgbehoefte die de Zorgkassencommissie heeft verzameld, bewijswaarde tot bewijs van het tegendeel.<br>
 <br>
-§ 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen, vermeld in paragraaf 1, tweede lid, aan de woonzorgcentra. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
+§3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen, vermeld in paragraaf 1, tweede lid, aan de woonzorgcentra. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.<br>
+<br>
+§4. De Vlaamse Regering kan nadere regels bepalen voor de beroepsmogelijkheden bij de arbeidsrechtbank tegen beslissingen die genomen zijn ter uitvoering van dit artikel.
 
 ### ART 146.
 
-§ 1. Als de Zorgkassencommissie bij de uitoefening van de controles, vermeld in artikel 145, een andere inschatting maakt van de afhankelijkheid van de gebruiker, wordt de tegemoetkoming, vermeld in artikel 145, § 1, tweede lid, aangepast in functie van het resultaat van die controle.<br>
+§ 1. Als de Zorgkassencommissie bij de uitoefening van de controles, vermeld in artikel 145, een andere inschatting maakt van de afhankelijkheid van de gebruiker, past het woonzorgcentrum de afhankelijkheid van de gebruiker aan in functie van het resultaat van die controle.<br>
 <br>
-§ 2. De Vlaamse Regering kan een procedure uitwerken waarbij de tegemoetkomingen, vermeld in artikel 145, § 1, tweede lid, in hoofde van het woonzorgcentrum worden verminderd als wordt vastgesteld dat het evaluatie-instrument, vermeld in artikel 145, § 2, op significante wijze verkeerd wordt toegepast.<br>
+§ 2. De Vlaamse Regering kan een procedure uitwerken waarbij de tegemoetkomingen, vermeld in artikel 145, § 1, tweede lid, in hoofde van het woonzorgcentrum worden verminderd als wordt vastgesteld dat het evaluatie-instrument, vermeld in artikel 145, § 2, op&nbsp;problematische of significante wijze verkeerd wordt toegepast.<br>
 <br>
 De Vlaamse Regering bepaalt voor de toepassing van het eerste lid:<br>
 1° op basis van welke elementen kan worden beslist tot een vermindering;<br>
-2° wat wordt verstaan onder een op significante wijze verkeerde toepassing van het evaluatie-instrument als vermeld in het eerste lid;<br>
+2° wat wordt verstaan onder een op&nbsp;problematische of significante wijze verkeerde toepassing van het evaluatie-instrument als vermeld in het eerste lid;<br>
 3° de vermindering van de tegemoetkomingen;<br>
 4° de termijn van de vermindering, vermeld in punt 3°, en hoe die wordt bepaald;<br>
 5° wie belast wordt met de uitvoering van de vermindering.<br>
@@ -1853,9 +1857,9 @@ De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangb
 <br>
 De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
 <br>
-De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar, vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar, vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het oud Burgerlijk Wetboek.<br>
 <br>
-§ 4. Het woonzorgcentrum kan tegen de beslissing van het agentschap tot aanpassing van een tegemoetkoming conform paragraaf 1, tegen de beslissing van het agentschap tot vermindering van tegemoetkomingen conform paragraaf 2 en tegen de beslissing van het agentschap tot oplegging van een administratieve boete conform paragraaf 3, beroep aantekenen bij de arbeidsrechtbank. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.<br>
+§ 4. Het woonzorgcentrum kan tegen de beslissing tot vermindering van tegemoetkomingen conform paragraaf 2 en tegen de beslissing van het agentschap tot oplegging van een administratieve boete conform paragraaf 3, beroep aantekenen bij de arbeidsrechtbank. Die vordering wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een termijn van drie maanden vanaf de datum van de ontvangst van de bestreden beslissing.<br>
 <br>
 Het agentschap kan een beroep doen op het betrokken team van de Zorgkassencommissie in het kader van het verweer voor de arbeidsrechtbank.
 
@@ -1889,17 +1893,17 @@ De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt d
 
 ### ART 149.
 
-De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt door de tegemoetkoming, vermeld in artikel 148.
+...
 
 ## HOOFDSTUK 4. Tijdelijke bepalingen alleen van toepassing op [centra voor dagverzorging (verv. decr. 15 februari 2019, art. 86, I: 1 januari 2020)]
 
 ### ART 150.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor dagverzorging met een bijkomende erkenning.<br>
+§1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor dagverzorging met een bijkomende erkenning.<br>
 <br>
 De tegemoetkoming wordt uitbetaald aan de centra voor dagverzorging, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
 <br>
-§ 2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden kunnen onder meer betrekking hebben op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
+§2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden kunnen onder meer betrekking hebben op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop de toepassing van het door haar bepaalde evaluatie-instrument wordt herzien en gecontroleerd.<br>
 <br>
@@ -1909,7 +1913,9 @@ In het kader van de controles die worden verricht met het oog op de toepassing v
 <br>
 Artikel 146 is van overeenkomstige toepassing op de centra voor dagverzorging, vermeld in dit artikel.<br>
 <br>
-§ 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor dagverzorging, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
+§3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor dagverzorging, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.<br>
+<br>
+§4. De Vlaamse Regering kan nadere regels bepalen voor de beroepsmogelijkheden bij de arbeidsrechtbank tegen beslissingen die genomen zijn ter uitvoering van dit artikel.
 
 ### ART 150/1.
 
@@ -1935,11 +1941,11 @@ De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt d
 
 ### ART 152.
 
-§ 1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor kortverblijf met en zonder bijkomende erkenning als oriënterend kortverblijf.<br>
+§1. De Vlaamse Regering bepaalt het bedrag van de tegemoetkoming voor zorg in centra voor kortverblijf met en zonder bijkomende erkenning als oriënterend kortverblijf.<br>
 <br>
 De tegemoetkoming wordt uitbetaald aan de centra voor kortverblijf, vermeld in het eerste lid, in de vorm van een dagelijkse tegemoetkoming.<br>
 <br>
-§ 2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden kunnen onder meer betrekking hebben op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
+§2. De Vlaamse Regering legt de voorwaarden vast waaronder de tegemoetkoming wordt verleend. Die voorwaarden kunnen onder meer betrekking hebben op de fysieke en op de psychische afhankelijkheid van de gebruiker, bepaald aan de hand van een evaluatie-instrument dat de Vlaamse Regering bepaalt.<br>
 <br>
 De Vlaamse Regering bepaalt de wijze waarop de toepassing van het door haar bepaald evaluatie-instrument wordt herzien en gecontroleerd.<br>
 <br>
@@ -1949,7 +1955,9 @@ In het kader van de controles die worden verricht met het oog op de toepassing v
 <br>
 Artikel 146 is van overeenkomstige toepassing op de centra voor kortverblijf, vermeld in dit artikel.<br>
 <br>
-§ 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor kortverblijf, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
+§3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor kortverblijf, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.<br>
+<br>
+§4. De Vlaamse Regering kan nadere regels bepalen voor de beroepsmogelijkheden bij de arbeidsrechtbank tegen beslissingen die genomen zijn ter uitvoering van dit artikel.
 
 ### ART 152/1.
 
