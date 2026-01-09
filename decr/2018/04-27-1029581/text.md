@@ -40,7 +40,7 @@ Nadat de bevoegdheid van de Vlaamse Gemeenschap werd vastgesteld op basis van he
 15° forfaitaire pleegzorgbijslag: de bijslag als een kind bij een particulier geplaatst is door bemiddeling of ten laste van een openbare overheid, vermeld in artikel 70ter van de Algemene kinderbijslagwet en het koninklijk besluit van 11 juni 2003 tot vaststelling van het bedrag en de toekenningsmodaliteiten van de forfaitaire bijslag, vermeld in artikel 70ter van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders;<br>
 16° gehuwden:<br>
 a) gehuwden;<br>
-b) wettelijk samenwonenden overeenkomstig artikel 1476 van het Burgerlijk Wetboek;<br>
+b) wettelijk samenwonenden overeenkomstig artikel 1476 van het Burgerlijk Wetboek, met uitzondering van degene die wettelijk samenwoont met een ascendent;<br>
 c) twee personen die hun woonplaats hebben op hetzelfde adres en een of meer gemeenschappelijke kinderen hebben;<br>
 d) twee personen die hun woonplaats hebben op hetzelfde adres, waarbij de ene persoon kinderen van de andere persoon fiscaal ten laste neemt;<br>
 e) personen van wie de ene persoon met toepassing van artikel 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen toelating heeft gekregen om in België te verblijven om een duurzame relatie voort te zetten met een persoon die al over een verblijfsrecht in België beschikt;<br>
@@ -179,7 +179,7 @@ Het agentschap Opgroeien regie is de verwerkingsverantwoordelijke voor de verwer
 <br>
 § 5. De geschillencommissie verwerkt de in de tweede paragraaf vermelde categorieën persoonsgegevens met het oog op de behandeling van de beroepen die bij haar worden ingesteld overeenkomstig artikel 104 van dit decreet.<br>
 <br>
-Kind en Gezin is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens door de geschillencommissie.<br>
+Het agentschap Opgroeien regie is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens door de geschillencommissie.<br>
 <br>
 § 6. De organisatoren kinderopvang verwerken de in de tweede paragraaf, 1° en 5°, vermelde categorieën persoonsgegevens met het oog op de toekenning van de kinderopvangtoeslag, vermeld in artikel 51 en 52.<br>
 <br>
@@ -345,21 +345,21 @@ Het bedrag van de toeslag, vermeld in het eerste lid, bedraagt:<br>
 2° 93,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis niet meer dan&nbsp;31.897,53 euro bedragen;<br>
 3° 73,86 euro per kind voor gezinnen met meer dan twee rechtgevende kinderen, waarvan de gezinsinkomsten op jaarbasis tussen&nbsp;31.897,53 euro&nbsp;en 60.000 euro liggen.<br>
 <br>
-Als ten gevolge van een gelijkmatig verdeelde huisvesting de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders, wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
+Als ten gevolge van een gelijkmatig verdeelde huisvesting de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders of de pleegouders, wordt het bedrag van de toeslag gehalveerd toegekend in elk rechtgevend gezin.<br>
 <br>
-Als de huisvesting van het rechtgevende kind niet gelijk is verdeeld tussen beide ouders wordt het kind voor de toepassing van het tweede lid alleen meegeteld in het gezin waar het kind meer dan de helft van de tijd verblijft.<br>
+Als de huisvesting van het rechtgevende kind niet gelijk is verdeeld tussen beide ouders of beide pleegouders wordt het kind voor de toepassing van het tweede lid alleen meegeteld in het gezin waar het kind meer dan de helft van de tijd verblijft.<br>
 <br>
-Als de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind niet is bepaald of bekrachtigd door de bevoegde rechtbank, wordt ervan uitgegaan dat de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders.<br>
+Als de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind niet is bepaald, bekrachtigd of vastgesteld door de bevoegde rechtbank, wordt ervan uitgegaan dat de huisvesting van het rechtgevende kind gelijk is verdeeld tussen de ouders of de pleegouders.<br>
 <br>
 Voor de huisvesting van het meerderjarige rechtgevend kind wordt uitgegaan van de woonplaats van het kind.<br>
 <br>
 In afwijking van het zesde lid blijft de vastgestelde huisvesting overeenkomstig het vijfde lid die geldt op het moment dat het kind meerderjarig wordt, gelden.<br>
 <br>
-In afwijking van het zesde en zevende lid kan de al dan niet gelijkmatig verdeelde huisvesting van het meerderjarige rechtgevend kind worden bepaald op grond van een overeenkomst, waarin de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind uitdrukkelijk wordt bepaald, en die is geregistreerd conform artikel 1 van het Wetboek der registratie-, hypotheek- en griffierechten.<br>
+In afwijking van het zesde en zevende lid kan de al dan niet gelijkmatig verdeelde huisvesting van het meerderjarige rechtgevend kind worden bepaald op grond van een overeenkomst, waarin de al dan niet gelijkmatig verdeelde huisvesting van het rechtgevende kind uitdrukkelijk wordt bepaald, en die is geregistreerd conform artikel 1 van het Wetboek der registratie-, hypotheek- en griffierechten, of op grond van een vaststelling door de bevoegde rechtbank.<br>
 <br>
 Als het rechtgevende kind is geplaatst door bemiddeling of ten laste van een openbare overheid in een pleeggezin, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het pleeggezin volledig meegeteld.<br>
 <br>
-Als het rechtgevende kind materiële ondersteuning krijgt als vermeld in artikel 68, § 2/1, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het gezin waar het verbleef voorafgaand aan de plaatsing, volledig meegeteld. In toepassing van artikel 68, § 3, wordt het kind daarentegen niet meegeteld in het gezin waar het verbleef voorafgaand aan de plaatsing.<br>
+Als het rechtgevende kind materiële ondersteuning krijgt als vermeld in artikel 68, § 2/1, wordt het kind voor de berekening van de toeslag en de gezinsgrootte, vermeld in het tweede lid, in het gezin van de begunstigden, volledig meegeteld.<br>
 <br>
 De Vlaamse Regering bepaalt met welke inkomsten van welke personen rekening wordt gehouden om de gezinsinkomsten, vermeld in het eerste lid, vast te stellen. Ze bepaalt de periode waarin de sociale toeslag wordt toegekend, en ze kan de gezinsgrootte nader bepalen. De Vlaamse Regering stelt ook een alarmbelprocedure vast voor de onmiddellijke aanpassing van het recht op sociale toeslag.
 
@@ -444,7 +444,7 @@ De Vlaamse Regering bepaalt de volkenrechtelijke instellingen waarvan de statuta
 ### ART 24.
 
 Een jaarlijkse selectieve participatietoeslag leerling, waarvan het bedrag is bepaald in hoofdstuk 4 van deze titel, wordt toegekend aan de leerling die aan al de volgende voorwaarden voldoet:<br>
-1° de leerling heeft de Belgische nationaliteit, of de leerling van wie het bewijs niet geleverd wordt dat hij de Belgische nationaliteit bezit, is toegelaten of gemachtigd om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+1° de leerling heeft de Belgische nationaliteit, of de leerling van wie het bewijs niet geleverd wordt dat hij de Belgische nationaliteit bezit, is toegelaten of gemachtigd om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen. Voor de toepassing van dit decreet vormt een attest van immatriculatie geen toelating of machtiging in de zin van deze bepaling;<br>
 2° de pedagogische voorwaarden, vermeld in hoofdstuk 2 van deze titel;<br>
 3° de financiële voorwaarden, vermeld in hoofdstuk 3 van deze titel.<br>
 <br>
@@ -777,7 +777,7 @@ De minimale selectieve participatietoeslag bedraagt 829,80 euro.<br>
 ### ART 51.
 
 Een kinderopvangtoeslag wordt toegekend aan het kind:<br>
-1° dat de Belgische nationaliteit heeft, of het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, dat toegelaten of gemachtigd is om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+1° dat de Belgische nationaliteit heeft, of het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, dat toegelaten of gemachtigd is om in het Rijk te verblijven of er zich te vestigen overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen. Voor de toepassing van dit decreet vormt een attest van immatriculatie geen toelating of machtiging in de zin van deze bepaling;<br>
 2° tot het naar de kleuterschool gaat;<br>
 3° dat overeenkomstig het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters wordt opgevangen op een door de Vlaamse Gemeenschap vergunde opvangplaats, waarbij de organisator niet werkt met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het besluit van de Vlaamse Regering van 22 november 2013 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters.<br>
 <br>
@@ -820,7 +820,7 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de toeslag, verm
 ### ART 56/1.
 
 Een kind geeft recht op een ondersteuningstoeslag als het aan al de volgende voorwaarden voldoet:<br>
-1° het kind heeft de Belgische nationaliteit of het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, is toegelaten of gemachtigd om in het Rijk te verblijven of er zich te vestigen conform de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+1° het kind heeft de Belgische nationaliteit of het kind van wie het bewijs niet geleverd wordt dat het de Belgische nationaliteit bezit, is toegelaten of gemachtigd om in het Rijk te verblijven of er zich te vestigen conform de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen. Voor de toepassing van dit decreet vormt een attest van immatriculatie geen toelating of machtiging in de zin van deze bepaling;<br>
 2° het kind heeft zijn woonplaats in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad;<br>
 3° het kind heeft een zorgbehoefte die voortvloeit uit een aandoening die gevolgen heeft voor hemzelf op het vlak van lichamelijke of geestelijke ongeschiktheid of op het vlak van activiteit en participatie, of die gevolgen heeft voor zijn familiale omgeving.<br>
 <br>
@@ -892,6 +892,10 @@ De Vlaamse Regering bepaalt welke personen als begunstigden worden aangewezen al
 ### ART 61.
 
 Iedere wijziging van de begunstigden die zich voordoet in de loop van een maand, heeft uitwerking vanaf de eerste dag van de maand na de maand waarin de wijziging plaatsvond.
+
+### ART 61/1.
+
+In afwijking van dit hoofdstuk kan de bevoegde rechtbank begunstigden aanwijzen. De Vlaamse Regering kan nadere regels bepalen voor de aanwijzing van de begunstigden van een derde van de gezinsbijslagen, vermeld in artikel 68, §2/1, eerste lid.
 
 ## HOOFDSTUK 2. Selectieve participatietoeslagen en andere toelagen
 
@@ -975,7 +979,7 @@ De wijziging van uitbetalingsactor, vermeld in het tweede lid, gaat in vanaf het
 
 Als een pleegzorger als begunstigde is aanwezen als vermeld in artikel 59, § 2, maar die pleegzorg geen perspectiefbiedende pleegzorg betreft als vermeld in artikel 2, 6°, van het decreet van 29 juni 2012 houdende de organisatie van de pleegzorg, wordt de pleegzorgtoeslag uitbetaald aan de persoon die voorafgaandelijk aan de plaatsing van het rechtgevende kind in de pleegzorg de gezinsbijslagen, vermeld in deel 1 van boek 2, ontving.<br>
 <br>
-Een afwijking van het voorgaande lid is mogelijk nadat de bevoegde rechtbank een uitspraak heeft gedaan over de bestemming van de pleegzorgtoeslag aan een andere persoon dan deze aangeduid in het eerste lid, in het belang van het kind. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
+Een afwijking van het voorgaande lid is mogelijk nadat de bevoegde rechtbank een uitspraak heeft gedaan&nbsp;of de plaatsende overheid een andersluidende beslissing heeft genomen over de bestemming van de pleegzorgtoeslag aan een andere persoon dan deze aangeduid in het eerste lid, in het belang van het kind. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
 
 ### ART 68.
 
@@ -1360,7 +1364,7 @@ Als de beslissing tot toekenning genomen is met een vertraging die te wijten is 
 
 ### ART 101.
 
-De onverschuldigd betaalde toelagen in het kader van het gezinsbeleid brengen van rechtswege interest op vanaf de betaling als de onverschuldigde betaling het gevolg is van bedrog of bedrieglijke handelingen van een begunstigde. Een kapitalisatie van interesten is nooit mogelijk, ook niet in de situatie, vermeld in artikel 1154 van het Burgerlijk Wetboek.
+De onverschuldigd betaalde toelagen in het kader van het gezinsbeleid brengen van rechtswege interest op vanaf de betaling als de onverschuldigde betaling het gevolg is van bedrog of bedrieglijke handelingen van een begunstigde. Een kapitalisatie van interesten is nooit mogelijk, ook niet in de situatie, vermeld in artikel 5.207 van het Burgerlijk Wetboek.
 
 ### ART 102.
 
@@ -1710,15 +1714,15 @@ Een bestuurlijke geldboete kan worden opgelegd in de vorm van een exclusieve bes
 ### ART 137.
 
 De volgende handelingen zijn inbreuken van niveau 1:<br>
-1° wetens en willens een regularisatiemaatregel die, in voorkomend geval, is bevestigd bij gerechtelijke uitspraak, niet uitvoeren;<br>
-2° wetens en willens nalaten om te verklaren dat hij niet langer recht heeft op de toelagen in het kader van het gezinsbeleid, zelfs als dat maar gedeeltelijk is, om ten onrechte de toelage in het kader van het gezinsbeleid te behouden.
+1° een regularisatiemaatregel die, in voorkomend geval, is bevestigd bij gerechtelijke uitspraak, niet uitvoeren;<br>
+2° nalaten te verklaren dat die geen of niet langer recht heeft op de toelagen in het kader van het gezinsbeleid, geheel of gedeeltelijk, of daarvoor de inlichtingen te verstrekken.
 
 ### ART 138.
 
 § 1. De volgende handelingen zijn inbreuken van niveau 2:<br>
-1° onjuiste of onvolledige verklaringen afleggen om ten onrechte toelagen in het kader van het gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden;<br>
-2° nalaten of weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken die hij gehouden is te verstrekken, om ten onrechte toelagen in het kader van het gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden;<br>
-3° ten onrechte toelagen in het kader van het gezinsbeleid waarop hij geen of maar gedeeltelijk recht heeft, verkrijgen of behouden door onjuiste of onvolledige verklaringen af te leggen of door na te laten of te weigeren om de noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.<br>
+1° wetens en willens onjuiste of onvolledige verklaringen afleggen om ten onrechte toelagen in het kader van het gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden;<br>
+2° wetens en willens nalaten of weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken die hij gehouden is te verstrekken, om ten onrechte toelagen in het kader van het gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden;<br>
+3° ten onrechte toelagen in het kader van het gezinsbeleid waarop hij geen of maar gedeeltelijk recht heeft, verkrijgen of behouden door wetens en willens onjuiste of onvolledige verklaringen af te leggen of door na te laten of te weigeren om de noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.<br>
 <br>
 § 2. De volgende handelingen zijn inbreuken van niveau 2 als ze zijn begaan om ten onrechte toelagen gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden:<br>
 1° valsheid in geschrifte plegen, hetzij door valse handtekeningen, hetzij door namaking of vervalsing van geschriften of handtekeningen, hetzij door overeenkomsten, beschikkingen, verbintenissen of schuldbevrijdingen valselijk op te maken of achteraf in een akte in te voegen, hetzij door toevoeging of vervalsing van bedingen, verklaringen of feiten in een akte;<br>
@@ -2086,7 +2090,7 @@ De Vlaamse Regering wijst de personeelsleden van het agentschap Opgroeien regie 
 
 ### ART 189.
 
-De persoon die met opzet een van de volgende handelingen stelt, is strafbaar met een gevangenisstraf van acht dagen tot drie jaar en met een geldboete van 100 euro tot 40.000 euro, of met een van die straffen:<br>
+De persoon die wetens en willens een van de volgende handelingen stelt, is strafbaar met een gevangenisstraf van acht dagen tot drie jaar en met een geldboete van 100 euro tot 40.000 euro, of met een van die straffen:<br>
 1° onjuiste of onvolledige verklaringen afleggen om ten onrechte toelagen in het kader van het gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden;<br>
 2° nalaten of weigeren om noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken die hij gehouden is te verstrekken, om ten onrechte toelagen in het kader van het gezinsbeleid te verkrijgen, te laten verkrijgen, te behouden of te laten behouden;<br>
 3° toelagen in het kader van het gezinsbeleid waarop hij geen of slechts gedeeltelijk recht heeft, ten onrechte verkrijgen of behouden door onjuiste of onvolledige verklaringen af te leggen of door na te laten of te weigeren om de noodzakelijke verklaringen af te leggen of inlichtingen te verstrekken.
@@ -2300,7 +2304,7 @@ Als het kind aansluitend op het einde van de individuele of algemene afwijking r
 2° 48,88 euro voor een rechtgevend kind van minstens twaalf jaar;<br>
 3° 62,15 euro voor een rechtgevend kind van minstens achttien jaar.<br>
 <br>
-§ 2. In afwijking van paragraaf 1 geeft een oudste rechtgevend kind, waarvoor een bijslagtrekkende of begunstigden, aan wie kinderbijslag wordt betaald voor een rechtgevend kind dat recht geeft op kinderbijslag van 92,09 euro, de gezinsbijslagen ontvangen, recht op de maandelijkse leeftijdsbijslag, vermeld in artikel 44, § 1, van de Algemene kinderbijslagwet, namelijk:<br>
+§ 2. In afwijking van paragraaf 1 geeft een oudste rechtgevend kind, waarvoor een bijslagtrekkende of begunstigden, aan wie kinderbijslag wordt toegekend voor een rechtgevend kind dat recht geeft op kinderbijslag van 92,09 euro, de gezinsbijslagen ontvangen, recht op de maandelijkse leeftijdsbijslag, vermeld in artikel 44, § 1, van de Algemene kinderbijslagwet, namelijk:<br>
 1° 16,04 euro voor een rechtgevend kind van minstens zes jaar;<br>
 2° 24,43 euro voor een rechtgevend kind van minstens twaalf jaar;<br>
 3° 28,16 euro voor een rechtgevend kind van minstens achttien jaar.<br>
