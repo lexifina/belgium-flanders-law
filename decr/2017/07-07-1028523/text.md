@@ -283,7 +283,7 @@ Op basis van de resultaten van die evaluatie kan de Vlaamse Regering beslissen o
 ### ART 27.
 
 Om een vergunning te krijgen en te behouden, voldoet een private uitbetalingsactor aan de volgende voorwaarden:<br>
-1° de private uitbetalingsactor is opgericht als vereniging zonder winstoogmerk conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen waarbij als de uitbetalingsactor een samenwerkingsverband vormt met een andere rechtspersoon, de besluitvorming, boekhouding en financiële middelen van de uitbetalingsactor volledig gescheiden gehouden worden van de andere entiteit;<br>
+1° de private uitbetalingsactor is opgericht als vereniging zonder winstoogmerk conform het Wetboek van vennootschappen en verenigingen waarbij als de uitbetalingsactor een samenwerkingsverband vormt met een andere rechtspersoon, de besluitvorming, boekhouding en financiële middelen van de uitbetalingsactor volledig gescheiden gehouden worden van de andere entiteit;<br>
 2° de private uitbetalingsactor heeft geen samenwerkingsverband gesloten met een ziekenfonds in het kader van het gezondheidsbeleid, met een vakbond in het kader van werkloosheid of met een zorgkas binnen de Vlaamse Sociale Bescherming;<br>
 3° de private uitbetalingsactor neemt alleen taken op voor activiteiten in het kader van het gezinsbeleid en heeft geen activiteiten als ziekenfonds in het kader van het gezondheidsbeleid, als vakbond in het kader van werkloosheid of als zorgkas binnen de Vlaamse Sociale Bescherming;<br>
 4° de private uitbetalingsactor koppelt geen voordelen aan de aansluiting van een begunstigde, vermeld in artikel 28, 11° ;<br>

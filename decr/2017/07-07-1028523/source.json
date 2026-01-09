@@ -2,16 +2,16 @@
   "codex_id": 1028523,
   "title": "Decreet van 2017-07-07 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028523/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "b4ea205c458e2164bbe61372b169ea49ae851420cb2685f32775d8ce6e60211d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028523/VolledigDocument?datum=2026-01-09",
+  "source_sha256": "b94fdd16360e0e498e26dc0db2935b8031ae15c344a4ffd62e94a512c60da4a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028523&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2026-01-09",
   "made": "2017-07-07",
   "gazette": "2017-08-08",
   "numac": 2017040495,
   "document_start": null,
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2026-01-09",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-09; future article versions excluded; article text as the API gives it"
 }
