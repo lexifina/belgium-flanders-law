@@ -874,4 +874,4 @@ Iedere kandidaat-adoptant die op het moment van de inwerkingtreding van artikel 
 
 ### ART 47.
 
-&nbsp;Artikel 3 tot en met 6, artikel 7, 2° en 4°, artikel 8, artikel 33, 1°, en artikel 34 tot en met 42 van dit decreet treden in werking op 31 december 2025.
+&nbsp;Artikel 3 tot en met 6, artikel 7, 2° en 4°, artikel 8, artikel 33, 1°, en artikel 34 tot en met 42 van dit decreet treden in werking op 1 januari 2027.

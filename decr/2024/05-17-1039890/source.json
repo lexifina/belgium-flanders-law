@@ -2,16 +2,16 @@
   "codex_id": 1039890,
   "title": "Decreet van 2024-05-17 tot wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen, wat betreft de begeleiding bij interlandelijke adoptie en het decreet van 29 juni 2012 houdende de organisatie van pleegzorg en het decreet Binnenlandse Adoptie van 3 juli 2015, wat betreft de invoering van een gezamenlijk voortraject pleegzorg-adoptie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039890/VolledigDocument?datum=2025-12-31",
-  "source_sha256": "42fbb8913bd9ed2718457806956acf3f98c5b1512d713a8d9872994d769d888e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039890/VolledigDocument?datum=2026-01-09",
+  "source_sha256": "c2cf13ad8b7d402a3658372cdc6e27b87b0ca4ad0e8909430c4ad20c3a2434f1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039890&param=informatie",
-  "as_of": "2025-12-31",
+  "as_of": "2026-01-09",
   "made": "2024-05-17",
   "gazette": "2024-07-10",
   "numac": 2024006591,
   "document_start": "2024-07-20",
   "document_end": null,
-  "in_force": "2025-12-31",
+  "in_force": "2026-01-09",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2025-12-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-09; future article versions excluded; article text as the API gives it"
 }
