@@ -293,7 +293,7 @@ Wanneer de zaak eenmaal aanhangig is bij de jeugdrechter of jeugdrechtbank, kan 
 <br>
 Uit de genomen beslissing blijkt duidelijk op welke wijze met de factoren rekening is gehouden.<br>
 <br>
-Het slachtoffer wordt geïnformeerd over de maatregel of de sanctie door de door de Vlaamse Regering bepaalde dienst.<br>
+De griffie bezorgt onmiddellijk een kopie van de beslissing aan de dienst die de Vlaamse Regering bepaalt, die het slachtoffer informeert over de maatregel of de sanctie.<br>
 <br>
 § 2. De jeugdrechter of jeugdrechtbank kan te allen tijde, ambtshalve of op vordering van het openbaar ministerie, de opgelegde maatregelen of sancties ten aanzien van de minderjarige verdachte of delictpleger herzien, door deze in te trekken of te wijzigen in een minder strenge of ingrijpende maatregel of sanctie.<br>
 <br>
@@ -311,7 +311,7 @@ De bevoegde dienst die instaat voor de opvolging van de reactie, stuurt om de dr
 <br>
 De jeugdrechter of jeugdrechtbank houdt er bij de herziening rekening mee dat het herstelgericht karakter van de maatregel of sanctie gevrijwaard blijft. Bij de herziening van een sanctie moet de jeugdrechtbank bijkomend de belangen van het slachtoffer in overweging nemen voordat zij een beslissing neemt. Indien nodig kan zij hiertoe een maatschappelijk onderzoek laten uitvoeren.<br>
 <br>
-Het slachtoffer wordt geïnformeerd over de beslissing tot herziening van de maatregel of de sanctie door de door de Vlaamse Regering bepaalde dienst.
+De griffie bezorgt onmiddellijk een kopie van de beslissing tot herziening aan de dienst die de Vlaamse Regering bepaalt, die het slachtoffer informeert over de herziening van de maatregel of de sanctie.
 
 ### ART 17.
 
