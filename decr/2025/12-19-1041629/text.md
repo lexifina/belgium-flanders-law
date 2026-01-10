@@ -56,6 +56,14 @@ In artikel 2 van het decreet van 15 februari 2019 betreffende het jeugddelinquen
 
 In artikel 6, §2, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 april 2024, wordt het woord “VCET” vervangen door de woorden “Agentschap Justitie en Handhaving”.
 
+### ART 7.
+
+In artikel 16 van hetzelfde decreet, gewijzigd bij de decreten van 21 mei 2021 en 19 april 2024, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het derde lid vervangen door wat volgt:<br>
+“De griffie bezorgt onmiddellijk een kopie van de beslissing aan de dienst die de Vlaamse Regering bepaalt, die het slachtoffer informeert over de maatregel of de sanctie.”;<br>
+2° in paragraaf 2 wordt het negende lid vervangen door wat volgt:<br>
+“De griffie bezorgt onmiddellijk een kopie van de beslissing tot herziening aan de dienst die de Vlaamse Regering bepaalt, die het slachtoffer informeert over de herziening van de maatregel of de sanctie.”.
+
 ### ART 8.
 
 In artikel 41 van hetzelfde decreet wordt het tweede lid opgeheven.
