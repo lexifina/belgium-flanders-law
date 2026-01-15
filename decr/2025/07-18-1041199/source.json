@@ -2,16 +2,16 @@
   "codex_id": 1041199,
   "title": "Decreet van 2025-07-18 tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat betreft de meldingsplicht en het bron- en contactonderzoek voor infectieziekten, het immunisatiebeleid en de verwerking van persoonsgegevens in het kader van de bevolkingsonderzoeken en initiatieven met betrekking tot leefstijlfactoren",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041199/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "12905d3435a8c9ffd2821d1b83f5d12bd18f1938307d112bc873110caf2cc716",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041199/VolledigDocument?datum=2026-01-15",
+  "source_sha256": "f654831b627014ccf1e1caf1f611aebf44a884b1f31cee34ddb4c1369c9c6fd8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041199&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-01-15",
   "made": "2025-07-18",
   "gazette": "2025-08-26",
   "numac": 2025006320,
   "document_start": "2027-08-26",
   "document_end": null,
-  "in_force": "2026-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-15",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2026-01-15; future article versions excluded; article text as the API gives it"
 }
