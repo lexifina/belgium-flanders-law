@@ -59,7 +59,7 @@ De minister kan namens de Vlaamse Regering collectieve   gezondheidsovereenkomst
 
 ### ART. 9.
 
-Onder het registratiesysteem, vermeld in artikel 43, § 3, van het decreet   van 21 november 2003, wordt het systeem `Vaccinnet' (www.vaccinnet.be)   verstaan.<BR>
+...
 
 ### ART. 10.
 
