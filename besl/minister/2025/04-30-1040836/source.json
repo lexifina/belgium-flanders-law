@@ -13,5 +13,8 @@
   "in_force": "2026-01-15",
   "in_force_basis": "1. ends 2026-01-14; 1. starts 2026-01-15; 2. ends 2026-01-14; 2. starts 2026-01-15; 3. ends 2026-01-14; 3. starts 2026-01-15; Bijlage 1 ends 2026-01-14; Bijlage 1 starts 2026-01-15; Bijlage 2 ends 2026-01-14; Bijlage 2 starts 2026-01-15",
   "first_law": null,
-  "record_form": "current consolidated text; oldest version available; future article versions excluded"
+  "record_form": "metadata and official link only; source elides operative text; incomplete publisher snapshot retained",
+  "normative_text_status": "elided",
+  "incomplete": true,
+  "note": "Operative articles 1–3 and annexes 1–2 are literal ... in the official source; text.md is an incomplete publisher snapshot, not complete normative text."
 }
