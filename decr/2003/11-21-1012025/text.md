@@ -9,8 +9,8 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 ### ART. 2.
 
 Voor de toepassing van dit decreet wordt verstaan onder:<br>
-1° administratie: de administratie van de diensten van de Vlaamse regering, bevoegd voor de gezondheidszorg;<br>
-1°/1 &nbsp;&nbsp; &nbsp;algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije ver-keer van die gegevens en tot intrekking van Richtlijn 95/46/EG (al-gemene verordening gegevensbescherming);<br>
+1° administratie: het Departement Zorg, opgericht bij het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+1°/1 algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije ver-keer van die gegevens en tot intrekking van Richtlijn 95/46/EG (al-gemene verordening gegevensbescherming);<br>
 2° bevolkingsonderzoek: een geheel van acties met betrekking tot een onderzoek naar een ziekte of aandoening of naar risicofactoren, voorstadia of verwikkelingen ervan, aangeboden aan een groep personen. Dat onderzoek gebeurt niet naar aanleiding van gezondheidsklachten van individuele personen die uit eigen beweging worden geformuleerd, en die verband houden met de opgespoorde ziekte of aandoening of de risicofactoren, voorstadia of verwikkelingen ervan;<br>
 3° biotische factoren:<br>
 a) micro-organismen, met inbegrip van de genetisch gemodificeerde, zijnde al dan niet cellulaire microbiologische entiteiten, met het vermogen tot replicatie of overdracht van genetisch materiaal;<br>
@@ -21,11 +21,13 @@ e) andere biologische organismen die potentieel schade kunnen toebrengen aan de 
 4° biomonitoring: het systematisch bepalen in levende organismen, waaronder de mens, van concentraties van organismevreemde stoffen, hun metabolieten, of van andere indicatoren van blootstelling en/of effect, om het schadelijke effect op de mens van fysische of chemische factoren te kunnen evalueren;<br>
 5° chemische factoren: scheikundige stoffen die potentieel schadelijk zijn voor de gezondheid van de mens door hun toxische, mutagene, carcinogene, traumatogene, teratogene, caustische, allergene eigenschappen, en/of door een combinatie van deze eigenschappen;<br>
 6° collectieve gezondheidsovereenkomst: een overeenkomst tussen de Vlaamse regering en een organisatie die een bijdrage kan leveren aan het preventieve gezondheidsbeleid, waarin de organisatie een inspanningsverbintenis onderschrijft om een of meer Vlaamse gezondheidsdoelstellingen of andere aspecten van het preventieve gezondheidsbeleid mee te helpen nastreven door haar leden of de doelgroep tot wie ze zich richt hierover te informeren, te sensibiliseren en aan te zetten tot gezond gedrag;<br>
+6°/1 collectiviteit: een voorziening, een instelling of een organisatie waar personen met elkaar in contact komen;<br>
 7° determinant van gezondheid: een factor die de mate van gezondheid van individuen of populaties mee bepaalt, hierna determinant te noemen;<br>
 8° duurzame ontwikkeling: maatschappelijke ontwikkeling die niet enkel rekening houdt met de behoeften van de huidige generatie, maar ook met die van toekomstige generaties;<br>
 8°/1 &nbsp;&nbsp; &nbsp;exposoom: de totaliteit van de blootstellingen van een persoon aan chemische, fysische, sociale en biotische factoren en de samen-hang met biologische interne reacties tijdens de levensloop. Het ex-posoom geeft een algemeen en geïntegreerd beeld van de accumula-tie en combinatie van blootstellingen op het individu;<br>
 9° facettenbeleid: beleid dat buiten het domein van de gezondheidszorg valt en bijdraagt tot het bevorderen, beschermen of behouden van gezondheid;<br>
 10° fysische factoren: natuurkundige verschijnselen die potentieel schadelijk zijn voor de gezondheid van de mens door hun akoestische, mechanische, thermische of elektromagnetische eigenschappen, met uitzondering van ioniserende straling;<br>
+10°/1 geïnfecteerde persoon: een persoon die geïnfecteerd is of over wie een ernstig vermoeden bestaat dat hij geïnfecteerd is met een infectie die door biotische factoren wordt veroorzaakt als vermeld in artikel 44, §3, 1°;<br>
 11° gezondheid: toestand van lichamelijk, geestelijk en sociaal welbevinden bij de mens;<br>
 12° gezondheidsbevordering: preventiemethode, gebruikt binnen het preventieve gezondheidsbeleid, die tot doel heeft de gezondheid te bevorderen, te beschermen of te behouden door die processen te ondersteunen die individuen en groepen in staat stellen om de determinanten van hun gezondheid positief te beïnvloeden;<br>
 13° gezondheidsconferentie: bijeenkomst van personen op initiatief van de Vlaamse regering met als doel het uitwisselen van inzichten, gegevens en ervaringen om te komen tot een voorstel van een nieuwe of te herziene Vlaamse gezondheidsdoelstelling of om andere opdrachten te vervullen met betrekking tot het preventieve gezondheidsbeleid;<br>
@@ -35,25 +37,28 @@ e) andere biologische organismen die potentieel schade kunnen toebrengen aan de 
 15° gezondheidswinst: het positieve resultaat van een systematisch en algemeen aanvaard meetproces aan de hand van parameters die gerelateerd zijn aan de levensduur en de levenskwaliteit van een bepaalde bevolking;<br>
 16° grenswaarde in de mens voor fysische of chemische factoren: de drempelwaarde in de mens van een lichaamsvreemde factor of de drempelwaarde in de mens van metabolieten van deze factor of van andere indicatoren van blootstelling en/of effect, die, bij overschrijding, een maatschappelijk onaanvaardbare graad van gezondheidsbedreiging met zich meebrengt voor de bevolking als geheel of voor bepaalde risicogroepen, hierna grenswaarde in de mens te noemen;<br>
 16°/1&nbsp;&nbsp; &nbsp;humane zeer zorgwekkende stof: een stof waarbij humane toxiciteit vermoed wordt of vastgesteld is, die relevant is voor een Vlaamse setting en die voldoet of mogelijk voldoet aan een of meer van de criteria, vermeld in artikel 57 van verordening nr. 1907/2006 van het Europees Parlement en de Raad van 18 decem-ber 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot op-richting van een Europees Agentschap voor chemische stoffen, hou-dende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie;<br>
+16°/2 immunisatie: de toediening van een preventief geneesmiddel aan een persoon tegen een specifieke biotische factor;<br>
 17° individuele zorgaanbieder: een persoon die meewerkt aan een of meer initiatieven van het Vlaamse preventieve gezondheidsbeleid, al dan niet in een mono- of multidisciplinair samenwerkingsverband, en die daarvoor erkend of gesubsidieerd kan worden door de Vlaamse Regering;<br>
 18° initiatief: een beslissing die genomen wordt ter uitvoering van het preventieve gezondheidsbeleid, met een al dan niet regelgevend karakter;<br>
 19° Logo: een door de Vlaamse regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied;<br>
 19°/1 &nbsp;&nbsp; &nbsp;medisch milieukundige: een medewerker van een Logo met medisch milieukundige expertise, die wordt belast met taken rond milieugerelateerde gezondheid en die zo de eerstelijnsfunctie medi-sche milieukunde invult in het kader van het preventief gezond-heidsbeleid inzake milieugezondheidszorg;<br>
 20° middelengebruik: het al dan niet legale gebruik van psychotrope stoffen die gezondheidsschade kunnen veroorzaken;<br>
 20°/1 &nbsp;&nbsp; &nbsp;milieugezondheidskundig aandachtsgebied: een afgebakende zone in tijd en ruimte waarbinnen de aanwezige biotische, chemi-sche, fysische, ruimtelijke of materiële factoren een hoger risico vormen voor de gezondheid van de mens dan in andere gebieden binnen de Europese Unie met gelijkaardige kenmerken;<br>
-20°/2 &nbsp;&nbsp; &nbsp;milieugezondheidszorg: het onderdeel van het preventieve gezond-heidsbeleid dat door een multidisciplinaire benadering, met min-stens de wetenschappelijke disciplines geneeskunde, toxicologie, epidemiologie, gezondheidszorg, milieutechnologie en milieukunde, inzet op het voorkomen, vroegdetectie en interventie van milieuge-zondheidsschade;<br>
+20°/2 &nbsp;&nbsp; &nbsp;milieugezondheidszorg: het onderdeel van het preventieve gezond-heidsbeleid dat door een multidisciplinaire benadering, met min-stens de wetenschappelijke disciplines geneeskunde, toxicologie, epidemiologie, gezondheidszorg, milieutechnologie en milieukunde, inzet op het voorkomen, vroegdetectie en interventie van milieugezondheidsschade;<br>
 21° ontwikkelingsstoornis: een verstoring in het verwerven van motorische, sociale of cognitieve vaardigheden;<br>
+21°/1 Opgroeien regie: het agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 22° organisatie met terreinwerking: een van rechtswege erkende organisatie, een door de Vlaamse Regering erkende of erkende en gesubsidieerde organisatie, of een organisatie die gesubsidieerd wordt via een beheersovereenkomst, die op het terrein de opdrachten uitvoert, de methodieken toepast of de diensten levert met betrekking tot de preventieve gezondheidszorg;<br>
 23° partnerorganisatie: een organisatie met rechtspersoonlijkheid die als een kern binnen een expertisenetwerk fungeert en die van rechtswege erkend en gesubsidieerd is, door de Vlaamse Regering erkend of erkend en gesubsidieerd wordt, of gesubsidieerd wordt via een beheersovereenkomst, vanwege minstens een van de hiernavolgende competenties:<br>
 a) de inhoudelijke deskundigheid in verband met ziektepreventie;<br>
 b) de inhoudelijke deskundigheid in verband met gezondheidsbevordering;<br>
 c) het verstrekken van gegevens inzake gezondheidszorg;<br>
+23°/1 preventief geneesmiddel: een geneesmiddel dat een ziekte of aandoening die veroorzaakt wordt door een specifieke biotische factor, probeert te voorkomen en dat opgenomen is in de lijst, vermeld in artikel 43, §5;<br>
 24° preventieve gezondheidszorg: het deel van de gezondheidszorg dat maatregelen en acties omvat die tot doel hebben de gezondheid te bevorderen, te beschermen of te behouden;<br>
 25° seksuele gezondheid: aan intieme lichamelijke relaties verbonden lichamelijk, geestelijk en sociaal welbevinden;<br>
 26° sociale omgeving: de interrelationele en psychosociale realiteit waarbinnen de mens zich situeert;<br>
 27° ...;<br>
 28° stresshantering: methode die gericht is op het wegnemen of beperken van stress en/of op het leren omgaan met stress;<br>
-29° &nbsp;&nbsp; &nbsp;vaccinator: een arts, verpleegkundige of andere gezondheids-zorgbeoefenaar die door de overheid die daarvoor bevoegd is, ge-machtigd is om vaccinaties toe te dienen;<br>
+29° toediener: een gezondheidszorgbeoefenaar als vermeld in artikel 2, 2°, van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, die door de overheid die daarvoor bevoegd is, gemachtigd is om een preventief geneesmiddel toe te dienen;<br>
 30° verworven factoren: biologische eigenschappen die in de loop van het leven opgebouwd zijn en als indicator voor de gezondheidstoestand kunnen fungeren;<br>
 31° Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
 32° Vlaamse gezondheidsdoelstelling: een op het vlak van gezondheid na te streven, tijdsgebonden, meetbare, haalbare en maatschappelijk aanvaardbare doelstelling, die op initiatief van de Vlaamse regering wordt goedgekeurd door het Vlaams Parlement;<br>
@@ -655,100 +660,175 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 
 ### ART. 43.
 
-§ 1. Om bepaalde infecties te voorkomen, stelt de Vlaamse regering een vaccinatieschema op dat de aanbevolen vaccinaties weergeeft voor de bevolking, en informeert ze de vaccinatoren en de bevolking hierover.<br>
+§1. Om bepaalde infecties te voorkomen, stelt de Vlaamse regering een immunisatieschema op dat de aanbevolen immunisaties weergeeft voor de bevolking, en informeert ze de toedieners en de bevolking hierover.<br>
 <br>
-§ 2. De Vlaamse regering neemt initiatieven om de vaccinatiegraad van de bevolking zo hoog mogelijk te maken.<br>
+§2. De Vlaamse regering neemt initiatieven om de immunisatiegraad van de bevolking zo hoog mogelijk te maken.<br>
 <br>
-§ 3. ...<br>
+§3. ...<br>
 <br>
-§ 4. De Vlaamse regering kan bepalen in welke omstandigheden andere vaccins of andere vaccinatietijdstippen worden aanbevolen dan die aangegeven worden in het vaccinatieschema, bedoeld in § 1.
+§4. De Vlaamse regering kan bepalen in welke omstandigheden andere preventieve geneesmiddelen of andere immuniusatietijdstippen worden aanbevolen dan die aangegeven worden in het immunisatieschema, bedoeld in § 1.<br>
+<br>
+§5. De Vlaamse Regering bepaalt de lijst van preventieve geneesmiddelen waar de bepalingen van dit decreet op van toepassing zijn.
 
 ### ART 43/1.
 
-§1. De vaccinatoren registreren de vaccinaties die toegediend zijn in het Nederlandse taalgebied en die deel uitmaken van het vaccinatieschema, vermeld in artikel 43, §1, in het registratiesysteem Vaccinnet.<br>
+§1. In dit artikel wordt verstaan onder bestelsysteem van de Vlaamse Gemeen-schap: het systeem via hetwelk de Vlaamse Gemeenschap in het kader van haar programmatorisch immunisatiebeleid gratis preventieve geneesmiddelen ter beschikking stelt aan toedieners of aan entiteiten via dewelke de gratis preventieve geneesmiddelen worden toegediend en die erop toezien dat de gratis preventieve geneesmiddelen gebruikt worden voor de doelgroepen waarvoor ze bedoeld zijn.<br>
 <br>
-De Vlaamse Regering kan bepalen dat vaccinaties die geen deel uitmaken van het vaccinatieschema, vermeld in artikel 43, §1, die toegediend zijn in het Nederlandse taalgebied en die kaderen in de preventieve gezondheidszorg, door de vaccinatoren geregistreerd worden in het registratiesysteem Vaccinnet, behalve in de gevallen waarin de persoon aan wie het vaccin werd toegediend zich verzet tegen de registratie. De Vlaamse Regering bepaalt om welke vaccinaties het gaat.<br>
-&nbsp;&nbsp; &nbsp;<br>
-In afwijking van het eerste en tweede lid registreren de vaccinatoren de vaccinaties met vaccins die de Vlaamse Gemeenschap gratis ter beschikking stelt van de vaccinatoren en die zijn toegediend in het tweetalige gebied Brussel-Hoofdstad, ook in het registratiesysteem Vaccinnet.<br>
-&nbsp;&nbsp; &nbsp;<br>
-In afwijking van het eerste, tweede en derde lid kunnen de vaccinatoren ook vaccinaties registreren in Vaccinnet die in het buitenland of in het Franse of Duitse taalgebied zijn toegediend of die zijn toegediend in het tweetalige gebied Brussel-Hoofdstad, maar die niet gratis ter beschikking gesteld zijn door de Vlaamse Gemeenschap, als voldaan is aan al de volgende voorwaar-den:<br>
-1° &nbsp;&nbsp; &nbsp;de vaccinatie kadert in de preventieve gezondheidszorg;<br>
-2° &nbsp;&nbsp; &nbsp;de registratie gebeurt op vraag van de persoon aan wie het vaccin werd toegediend;&nbsp;<br>
-3° &nbsp;&nbsp; &nbsp;de persoon aan wie het vaccin werd toegediend kan de vaccinatie bewijzen door middel van officiële documenten.&nbsp;<br>
-&nbsp;&nbsp; &nbsp;<br>
-§2. Met betrekking tot elke vaccinatie, vermeld in paragraaf 1, worden de volgende categorieën van gegevens geregistreerd:<br>
-1°&nbsp;&nbsp; &nbsp;identificatiegegevens van de persoon aan wie het vaccin wordt toegediend, namelijk:<br>
-a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienum-mer van de sociale zekerheid, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispunt-bank van de Sociale Zekerheid;<br>
+§2. De toedieners die een preventief geneesmiddel toedienen in het Nederlandse taalgebied of in een instelling in het tweetalige gebied Brussel-Hoofdstad die door haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap, registreren de immunisaties die deel uitmaken van het immunisatieschema, vermeld in artikel 43, §1, in het registratiesysteem dat de Vlaamse Gemeenschap ter beschikking stelt.<br>
+<br>
+Met behoud van de toepassing van het eerste lid registreren toedieners die een preventief geneesmiddel toedienen in het tweetalige gebied Brussel-Hoofdstad, de immunisaties met preventieve geneesmiddelen die ze hebben besteld via het bestelsysteem van de Vlaamse Gemeenschap en die gratis aan burgers worden aangeboden, in het registratiesysteem, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering kan bepalen dat immunisaties die geen deel uitmaken van het immunisatieschema, vermeld in artikel 43, §1, die toegediend zijn in het Nederlandse taalgebied of in een instelling in het tweetalige gebied Brussel-Hoofdstad die door haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap en die kaderen in de preventieve gezondheidszorg, door de toedieners geregistreerd worden in het registratiesysteem, vermeld in het eerste lid, behalve als de persoon aan wie het preventieve geneesmiddel is toegediend, zich verzet tegen de registratie van die immunisatie. De Vlaamse Regering bepaalt in dat geval om welke immunisaties het gaat.<br>
+<br>
+In afwijking van het eerste, tweede en derde lid kunnen in het registratiesysteem, vermeld in het eerste lid, ook immunisaties worden geregistreerd die in het buitenland zijn toegediend of die zijn toegediend in het Nederlandse taalgebied of in een instelling in het tweetalige gebied Brussel-Hoofdstad die door haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap, maar die niet geregistreerd konden worden conform het eerste of derde lid, als voldaan is aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de immunisatie kadert in de preventieve gezondheidszorg;<br>
+2°&nbsp;&nbsp; &nbsp;de registratie gebeurt op verzoek van de persoon aan wie het preventieve geneesmiddel is toegediend;<br>
+3°&nbsp;&nbsp; &nbsp;de persoon aan wie het preventieve geneesmiddel is toegediend, legt een bewijs van toediening van het preventieve geneesmiddel voor.<br>
+<br>
+De toediener kan voor de registratie een gevolmachtigde aanwijzen, die onder zijn verantwoordelijkheid de registratie verricht. De gevolmachtigde is daarbij gehouden tot een discretieplicht.<br>
+<br>
+§3. De volgende gegevens worden opgenomen in het registratiesysteem, vermeld in paragraaf 2, eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;de volgende identiteits- en contactgegevens van de persoon aan wie het preventieve geneesmiddel wordt toegediend:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
 b)&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
 c)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
 d)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
 e)&nbsp;&nbsp; &nbsp;het geslacht;<br>
-f)&nbsp;&nbsp; &nbsp;in voorkomend geval, de overlijdensdatum;<br>
-2°&nbsp;&nbsp; &nbsp;identiteits- en eventuele contactgegevens van de persoon die het vaccin heeft toegediend:<br>
-a)&nbsp;&nbsp; &nbsp;het rijksregisternummer;<br>
+f)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van overlijden;<br>
+2°&nbsp;&nbsp; &nbsp;de volgende identiteits- en eventuele contactgegevens van de persoon die conform paragraaf 2 verantwoordelijk is voor de registratie van de immunisatie:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
 b)&nbsp;&nbsp; &nbsp;in voorkomend geval, het RIZIV-nummer;<br>
-c)&nbsp;&nbsp; &nbsp;het beroepsadres;<br>
-d)&nbsp;&nbsp; &nbsp;als het gaat om een arts, het adres dat gekoppeld is aan het RIZIV-nummer;&nbsp;<br>
-e)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
-f)&nbsp;&nbsp; &nbsp;in voorkomend geval, via welke entiteit de vaccinator het vaccin heeft toegediend;<br>
-g)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
-h)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
-3°&nbsp;&nbsp; &nbsp;gegevens van het vaccin:<br>
-a)&nbsp;&nbsp; &nbsp;het merk;<br>
-b)&nbsp;&nbsp; &nbsp;het type vaccin;<br>
-c)&nbsp;&nbsp; &nbsp;als dat bekend is, het lotnummer;<br>
-4°&nbsp;&nbsp; &nbsp;de datum van de toediening van het vaccin;<br>
-5°&nbsp;&nbsp; &nbsp;in voorkomend geval, gegevens over de ongewenste bijwerkingen die vastgesteld zijn tijdens of na de vaccinatie van de betrokken persoon, waarvan de persoon die het vaccin heeft toegediend of zijn gevolmachtigde kennis heeft.<br>
-&nbsp;&nbsp; &nbsp;<br>
-De gegevens, vermeld in het eerste lid, 1°, a), 2°, 3°, a) en b), en 4°, worden door de vaccinatoren in Vaccinnet geregistreerd.<br>
-&nbsp;&nbsp; &nbsp;<br>
-In afwijking van het tweede lid registreert de vaccinator de gegevens, vermeld in het eerste lid, 1°, b), c) en d), als de vaccinator de gegevens, vermeld in het eerste lid, 1°, a), niet kent.<br>
-&nbsp;&nbsp; &nbsp;<br>
-De gegevens, vermeld in het eerste lid, 1°, die niet door de vaccinator worden geregistreerd conform het tweede en derde lid, worden opgehaald uit het Rijksregister of uit de kruispuntbankregisters, vermeld in artikel 4 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid.<br>
-&nbsp;&nbsp; &nbsp;<br>
-In geval van een registratie van een vaccinatie als vermeld in paragraaf 1, vierde lid, registreert de vaccinator ook het land waar het vaccin werd toegediend.<br>
-&nbsp;&nbsp; &nbsp;<br>
-§3. De gegevens, vermeld in paragraaf 2, kunnen verwerkt worden voor de volgende doeleinden:<br>
-1°&nbsp;&nbsp; &nbsp;het beheer van vaccinatieschema’s per te vaccineren of gevaccineerde persoon en het inplannen van vaccinatiemomenten;<br>
-2°&nbsp;&nbsp; &nbsp;de logistieke organisatie van de vaccinatie na anonimisering of ten minste pseudonimisering van de gegevens als de anonimisering de logistieke organisatie niet mogelijk maakt;<br>
-3°&nbsp;&nbsp; &nbsp;de controle en het beheer van de bestellingen van vaccins om geheel of gedeeltelijk te kunnen ingrijpen op de automatische doorstroom van bestellingen;<br>
-4°&nbsp;&nbsp; &nbsp;het contacteren van de vaccinator met het oog op:<br>
-a)&nbsp;&nbsp; &nbsp;het signaleren van het belang van specifieke vaccinaties in het kader van de opvolging van infectieziekten die door vaccinaties voorkomen kunnen worden;<br>
-b)&nbsp;&nbsp; &nbsp;het controleren en in voorkomend geval corrigeren of verwijderen van gegevens die opgenomen zijn in Vaccinnet;<br>
-5°&nbsp;&nbsp; &nbsp;het uitvoeren van wetenschappelijke of statistische studies na anonimise-ring of ten minste pseudonimisering van de gegevens als anonimisering de uitvoering van een wetenschappelijke of statistische studie belemmert;<br>
-6°&nbsp;&nbsp; &nbsp;het bepalen door het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, of door een organisatie die hiervoor de opdracht heeft gekregen, van een anonieme vaccinatiegraad van de bevolking en van bepaalde segmenten van de bevolking, per infectieziekte, met als enig doel strategisch of operationeel bij te dragen aan de primaire of secundaire preventie van de infectieziekte in kwestie;<br>
-7°&nbsp;&nbsp; &nbsp;het gebruik van Vaccinnet door de vaccinatoren om kennis te nemen van de eerder toegediende vaccinaties om:<br>
-a)&nbsp;&nbsp; &nbsp;te vermijden dat vaccins die al zijn toegediend aan een persoon, onnodig nogmaals worden toegediend;<br>
-b)&nbsp;&nbsp; &nbsp;te kunnen detecteren welke vaccinaties nog niet toegediend zijn aan een persoon;<br>
-8°&nbsp;&nbsp; &nbsp;het ontsluiten van de gegevens naar andere zorgverleners in het kader van een therapeutische relatie in de zin van artikel 37 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, met het oog op het verlenen van zorg, waaronder ook preventieve zorg;<br>
-9°&nbsp;&nbsp; &nbsp;het nemen van maatregelen door de ambtenaren-artsen, vermeld in artikel 44, §3, 2°;<br>
-10°&nbsp;&nbsp; &nbsp;het onderzoeken van een melding, vermeld in artikel 45;<br>
-11°&nbsp;&nbsp; &nbsp;de organisatie van de bevolkingsonderzoeken, vermeld in artikel 31, §1;<br>
-12°&nbsp;&nbsp; &nbsp;de evaluatie en organisatie van het vaccinatiebeleid. &nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;het adres;<br>
+d)&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+e)&nbsp;&nbsp; &nbsp;in voorkomend geval, via welke entiteit het preventieve geneesmiddel is toegediend;<br>
+3°&nbsp;&nbsp; &nbsp;de volgende gegevens over het toegediende preventieve geneesmiddel:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de specialiteit;<br>
+b)&nbsp;&nbsp; &nbsp;als dat bekend is, het merk;<br>
+c)&nbsp;&nbsp; &nbsp;de dosis die tijdens de immunisatie is toegediend;<br>
+d)&nbsp;&nbsp; &nbsp;als dat bekend is, het lotnummer;<br>
+4°&nbsp;&nbsp; &nbsp;de datum van de toediening van het preventieve geneesmiddel;<br>
+5°&nbsp;&nbsp; &nbsp;de datum van de registratie van de immunisatie;<br>
+6°&nbsp;&nbsp; &nbsp;het land waar het preventieve geneesmiddel is toegediend;<br>
+7°&nbsp;&nbsp; &nbsp;in geval van een registratie van een immunisatie met een preventief geneesmiddel dat besteld is via het bestelsysteem van de Vlaamse Gemeen-schap en dat gratis wordt aangeboden, de voorraadlocatie;<br>
+8°&nbsp;&nbsp; &nbsp;het logische identificatienummer.<br>
 <br>
-Met het oog op de doeleinden, vermeld in het eerste lid, kunnen alleen de gegevens, vermeld in paragraaf 2, verwerkt worden die noodzakelijk zijn om het doeleinde in kwestie te bereiken.<br>
+De gegevens, vermeld in het eerste lid, 1°, a), 2°, a), b) en e), 3°, 4°, 6° en 7°, worden door de toediener, vermeld in paragraaf 2, geregistreerd.<br>
 <br>
-Voor het doeleinde, vermeld in het eerste lid, 5°, kunnen de gegevens, vermeld in paragraaf 2, doorgegeven worden aan onderzoeksinstellingen.<br>
-&nbsp;&nbsp; &nbsp;<br>
-Als dat voor de naleving van het doeleinde, vermeld in het eerste lid, 6°, noodzakelijk is, kunnen de gegevens, vermeld in paragraaf 2, worden gekoppeld aan gegevens die toelaten om de segmentering uit te voeren en die ontsloten worden vanuit andere gegevensbanken waarin gegevens zijn opgenomen die relevant zijn om de anonieme vaccinatiegraad van de bevolking of van bepaalde segmenten van de bevolking te bepalen.&nbsp;<br>
-&nbsp;&nbsp; &nbsp;<br>
-De vaccinatoren hebben toegang tot alle gegevens, vermeld in paragraaf 2, die noodzakelijk zijn voor het doeleinde, vermeld in het eerste lid, 7°.<br>
-&nbsp;&nbsp; &nbsp;<br>
-De zorgverleners, vermeld in het eerste lid, 8°, hebben toegang tot alle gegevens, vermeld in paragraaf 2, die noodzakelijk zijn voor het doeleinde, vermeld in het eerste lid, 8°.<br>
-&nbsp;&nbsp; &nbsp;<br>
-De ambtenaren-artsen kunnen in het kader van de doeleinden, vermeld in het eerste lid, 9° en 10°, zowel de noodzakelijke gegevens, vermeld in paragraaf 2, ontvangen van personen die besmet zijn met een infectieziekte die gevaarlijk is vanwege de ernst of besmettelijkheid ervan, als van personen die na contact met een geïnfecteerde persoon of na contact met een andere besmettingsbron mogelijk besmet zijn met een voormelde infectie.<br>
-&nbsp;&nbsp; &nbsp;<br>
-Als dat voor de naleving van het doeleinde, vermeld in het eerste lid, 11°, noodzakelijk is, kunnen de gegevens, vermeld in paragraaf 2, worden doorgegeven aan gegevensbanken waarin gegevens geregistreerd worden in het kader van de bevolkingsonderzoeken, vermeld in artikel 31, §1, en kunnen de gegevens, vermeld in paragraaf 2, worden gekoppeld aan de gegevens in deze gegevensbanken.&nbsp;<br>
-&nbsp;&nbsp; &nbsp;<br>
-Als dat voor de naleving van het doeleinde, vermeld in het eerste lid, 12°, noodzakelijk is, kunnen de gegevens, vermeld in paragraaf 2, worden gekoppeld aan gegevens die ontsloten worden vanuit andere gegevensbanken met gegevens die relevant zijn voor de organisatie en de evaluatie van het vaccinatiebeleid.&nbsp;<br>
-&nbsp;&nbsp; &nbsp;<br>
-De Vlaamse Regering kan, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevens-verkeer, de gegevensbanken, vermeld in het vierde, achtste en negende lid, nader preciseren.<br>
-&nbsp;&nbsp; &nbsp;<br>
-§4. De gegevens, vermeld in paragraaf 2, worden in het registratiesysteem, vermeld in paragraaf 1, maximaal bewaard tot het overlijden van de persoon aan wie de vaccinatie is toegediend.<br>
-&nbsp;&nbsp; &nbsp;<br>
-In afwijking van het eerste lid worden, als de persoon aan wie het vaccin is toegediend overlijdt binnen dertig jaar na de toediening van het laatste vaccin, de gegevens, vermeld in paragraaf 2, in het registratiesysteem, vermeld in paragraaf 1, bewaard tot dertig jaar na het moment dat het vaccin in kwestie is toegediend.<br>
-&nbsp;&nbsp; &nbsp;<br>
-§5. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is de verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens, vermeld in paragraaf 2.
+In afwijking van het tweede lid registreert de toediener de gegevens, vermeld in het eerste lid, 1°, b), c) en d), als die de gegevens, vermeld in het eerste lid, 1°, a), niet kent.&nbsp;<br>
+<br>
+De volgende gegevens kunnen geregistreerd worden in het registratiesysteem, vermeld in paragraaf 2, eerste lid:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de toedieningsweg van het preventieve geneesmiddel;<br>
+2°&nbsp;&nbsp; &nbsp;het lichaamsdeel waar het preventieve geneesmiddel is toegediend;<br>
+3°&nbsp;&nbsp; &nbsp;de vermelding of het preventieve geneesmiddel toegediend is na blootstelling aan de ziekteverwekkende biotische factor;<br>
+4°&nbsp;&nbsp; &nbsp;andere informatie die relevant is voor de immunisatie van de persoon aan wie het preventieve geneesmiddel toegediend is;<br>
+5°&nbsp;&nbsp; &nbsp;de volgende gegevens van de persoon die conform paragraaf 2 verantwoordelijk is voor de registratie van de immunisatie:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres.<br>
+<br>
+Als aan een zwangere persoon een preventief geneesmiddel wordt toegediend om het ongeboren kind te beschermen, kunnen de gegevens, vermeld in het eerste en vierde lid, die over die immunisatie geregistreerd zijn, later ook worden geregistreerd bij het kind dat door de immunisatie beschermd is. Naast de gegevens, vermeld in het eerste en vierde lid, kunnen de volgende persoonsgegevens verwerkt worden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;gegevens over de duur van de zwangerschap op het moment van de immunisatie;<br>
+2°&nbsp;&nbsp; &nbsp;gegevens over de afstamming;<br>
+3°&nbsp;&nbsp; &nbsp;gegevens over de uitkomst van de zwangerschap;<br>
+4°&nbsp;&nbsp; &nbsp;de volgende gegevens over het kind:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+c)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+d)&nbsp;&nbsp; &nbsp;de datum van overlijden als dat van toepassing is.<br>
+<br>
+§4. De gegevens, vermeld in paragraaf 3, die geregistreerd zijn conform paragraaf 2, kunnen verwerkt worden voor de volgende doeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;het beheer van immunisatieschema’s per persoon die moet worden geïmmuniseerd of per persoon aan wie een preventief geneesmiddel is toegediend, en de inplanning van immunisatiemomenten;<br>
+2°&nbsp;&nbsp; &nbsp;de logistieke beleidsrapportering van de immunisatie na anonimisering of ten minste na pseudonimisering van de gegevens als de anonimisering de logistieke beleidsrapportering niet mogelijk maakt;<br>
+3°&nbsp;&nbsp; &nbsp;de controle en het beheer van de bestellingen van preventieve geneesmidde-len om volledig of gedeeltelijk te kunnen ingrijpen op de automatische door-stroom van bestellingen. Voor dit doeleinde kunnen alleen persoonsgegevens verwerkt worden van personen aan wie een preventief geneesmiddel is toegediend dat is besteld via het bestelsysteem van de Vlaamse Gemeenschap;<br>
+4°&nbsp;&nbsp; &nbsp;het contacteren van de toediener om:<br>
+a)&nbsp;&nbsp; &nbsp;het belang te signaleren van specifieke immunisaties in het kader van de opvolging van infectieziekten die door immunisaties voorkomen kunnen worden;<br>
+b)&nbsp;&nbsp; &nbsp;gegevens te controleren die opgenomen zijn in het bestelsysteem van de Vlaamse Gemeenschap en het registratiesysteem, vermeld in paragraaf 2, eerste lid;<br>
+5°&nbsp;&nbsp; &nbsp;de uitvoering van wetenschappelijke of statistische studies na anonimisering of ten minste na pseudonimisering van de gegevens als anonimisering niet toelaat om het wetenschappelijke of statistische doeleinde te bereiken;<br>
+6°&nbsp;&nbsp; &nbsp;het bepalen van de anonieme immunisatiegraad, vermeld in artikel 43/2;<br>
+7°&nbsp;&nbsp; &nbsp;het gebruik van het registratiesysteem, vermeld in paragraaf 2, eerste lid, door de toedieners om kennis te nemen van de eerder toegediende preventieve geneesmiddelen om:<br>
+a)&nbsp;&nbsp; &nbsp;een overzicht te krijgen van alle immunisaties die ze zelf hebben toegediend;<br>
+b)&nbsp;&nbsp; &nbsp;te vermijden dat preventieve geneesmiddelen die al zijn toegediend aan een persoon, onnodig nogmaals worden toegediend;<br>
+c)&nbsp;&nbsp; &nbsp;te kunnen detecteren welke preventieve geneesmiddelen nog niet toegediend zijn aan een persoon;<br>
+d)&nbsp;&nbsp; &nbsp;gegevens die opgenomen zijn in het registratiesysteem, vermeld in paragraaf 2, eerste lid, te corrigeren of verwijderen;<br>
+8°&nbsp;&nbsp; &nbsp;het ontsluiten van de gegevens naar andere gezondheidszorgbeoefenaars in het kader van een therapeutische relatie als vermeld in artikel 37 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, met het oog op het verlenen van zorg, waaronder ook preventieve zorg;<br>
+9°&nbsp;&nbsp; &nbsp;het nemen van maatregelen door de ambtenaren-artsen en ambtenaren, vermeld in artikel 44, §3, 2° en 3°, en het onderzoeken van een melding en het bron- of contactonderzoek in het kader van de toepassing van artikel 45, 45/1 en 45/2;<br>
+10°&nbsp;&nbsp; &nbsp;de organisatie en de evaluatie van de bevolkingsonderzoeken, vermeld in artikel 31, §1;<br>
+11°&nbsp;&nbsp; &nbsp;de organisatie en de evaluatie van het immunisatiebeleid;<br>
+12°&nbsp;&nbsp; &nbsp;de uitvoering van de opdrachten van de centra voor leerlingenbegeleiding, vermeld in artikel 4, §2, vierde en vijfde lid, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
+13°&nbsp;&nbsp; &nbsp;de uitvoering van de opdrachten van Opgroeien regie, vermeld in artikel 7 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
+<br>
+Met het oog op de doeleinden, vermeld in het eerste lid, kunnen alleen de gegevens, vermeld in paragraaf 3, verwerkt worden die noodzakelijk zijn om het doeleinde in kwestie te bereiken.<br>
+De gegevens, vermeld in paragraaf 3, kunnen doorgegeven worden aan of geraadpleegd worden door de volgende derden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de toedieners voor de doeleinden, vermeld in het eerste lid, 1° en 7°;<br>
+2°&nbsp;&nbsp; &nbsp;gezondheidszorgbeoefenaars voor het doeleinde, vermeld in het eerste lid, 8°;<br>
+3°&nbsp;&nbsp; &nbsp;onderzoeksinstellingen voor het doeleinde, vermeld in het eerste lid, 5°;<br>
+4°&nbsp;&nbsp; &nbsp;de artsen bij de centra voor leerlingenbegeleiding, vermeld in het eerste lid, 12°;<br>
+5°&nbsp;&nbsp; &nbsp;Opgroeien regie voor het doeleinde, vermeld in het eerste lid, 13°.<br>
+<br>
+§5. De gegevens, vermeld in paragraaf 3, worden in het registratiesysteem, vermeld in paragraaf 2, eerste lid, maximaal bewaard tot het overlijden van de persoon aan wie het preventieve geneesmiddel is toegediend.<br>
+<br>
+Als de persoon aan wie het preventieve geneesmiddel is toegediend overlijdt binnen dertig jaar na de toediening van het laatste preventieve geneesmiddel, worden in afwijking van het eerste lid de gegevens, vermeld in paragraaf 3, in het registratiesysteem, vermeld in paragraaf 2, eerste lid, bewaard tot dertig jaar na het moment dat het laatste preventieve geneesmiddel is toegediend.<br>
+<br>
+§6. De administratie is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens, vermeld in paragraaf 3.
+
+### ART 43/2.
+
+§1. De administratie of een organisatie die daarvoor de opdracht heeft gekregen van de Vlaamse Gemeenschap, kan een anonieme immunisatiegraad van de bevolking of van bepaalde segmenten van de bevolking bepalen per infectieziekte, met als doel strategisch of operationeel bij te dragen aan de primaire of secundaire preventie van de infectieziekte in kwestie of met als doel de evaluatie van het immunisatiebeleid.<br>
+<br>
+De segmentering, vermeld in het eerste lid, kan uitgevoerd worden op basis van de volgende kenmerken of combinaties van kenmerken:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;per geografische eenheid;<br>
+2°&nbsp;&nbsp; &nbsp;per onderwijsvorm, onderwijstype, school of leerjaar;<br>
+3°&nbsp;&nbsp; &nbsp;per collectiviteit;<br>
+4°&nbsp;&nbsp; &nbsp;per leeftijdscategorie;<br>
+5°&nbsp;&nbsp; &nbsp;per geslacht;<br>
+6°&nbsp;&nbsp; &nbsp;werkzaamheid, beroepscategorie, beroepssector en organisatie. Voor kinderen jonger dan zestien jaar kan de segmentering uitgevoerd worden op basis van de werkzaamheid, beroepscategorie of beroepssector van de moeder en de organisatie waar zij werkt;<br>
+7°&nbsp;&nbsp; &nbsp;zwangere vrouwen of vrouwen die zwanger waren op het tijdstip van de immunisatie;<br>
+8°&nbsp;&nbsp; &nbsp;gezinssamenstelling;<br>
+9°&nbsp;&nbsp; &nbsp;per risicofactor die de Hoge Gezondheidsraad als vermeld in het Koninklijk besluit van 5 maart 2007 houdende oprichting van de Hoge Gezondheidsraad in een advies geïdentificeerd heeft voor de infectieziekte waarvoor de immu-nisatiegraad wordt berekend;<br>
+10°&nbsp;&nbsp; &nbsp;thuistaal en migratie.<br>
+<br>
+§2. Om de anonieme immunisatiegraad, vermeld in paragraaf 1, te bepalen, kunnen persoonsgegevens verwerkt worden van al de volgende personen:<br>
+1°&nbsp;&nbsp; &nbsp;personen die in het Nederlandse taalgebied verblijven;<br>
+2°&nbsp;&nbsp; &nbsp;personen die naar school gaan in het Nederlandse taalgebied of in een instelling in het tweetalige gebied Brussel-Hoofdstad die door haar activiteiten beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap;<br>
+3°&nbsp;&nbsp; &nbsp;personen die werken in het Nederlandse taalgebied of in een instelling in het tweetalige gebied Brussel-Hoofdstad die door haar organisatie of activiteiten beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap;<br>
+4°&nbsp;&nbsp; &nbsp;personen aan wie in het Nederlandse taalgebied of in een instelling in het tweetalige gebied Brussel-Hoofdstad die door haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap, een preventief geneesmiddel als vermeld in artikel 43/1, §2, eerste of derde lid, is toegediend.<br>
+<br>
+§3. Van de personen, vermeld in paragraaf 2, kunnen de volgende persoonsgegevens verwerkt worden om de anonieme immunisatiegraad te bepalen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+3°&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+4°&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5°&nbsp;&nbsp; &nbsp;de datum van overlijden;<br>
+6°&nbsp;&nbsp; &nbsp;de biotische factor waarvoor de immunisatiegraad wordt berekend;<br>
+7°&nbsp;&nbsp; &nbsp;in voorkomend geval, de volgende gegevens over de toediening van het preventieve geneesmiddel:<br>
+a)&nbsp;&nbsp; &nbsp;de datum van toediening;<br>
+b)&nbsp;&nbsp; &nbsp;als dat bekend is, het merk;<br>
+c)&nbsp;&nbsp; &nbsp;het type preventief geneesmiddel;<br>
+d)&nbsp;&nbsp; &nbsp;de volgende gegevens over de toediener:&nbsp;<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;in voorkomend geval, het RIZIV-nummer;<br>
+3)&nbsp;&nbsp; &nbsp;in voorkomend geval, via welke entiteit het preventieve geneesmiddel is toegediend;<br>
+8°&nbsp;&nbsp; &nbsp;in voorkomend geval, of de persoon zwanger is of was. In dat geval kunnen ook de volgende gegevens verwerkt worden:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de vermoedelijke datum van conceptie en de verwachte datum van bevalling;<br>
+b)&nbsp;&nbsp; &nbsp;gegevens over de uitkomst van de zwangerschap;<br>
+c)&nbsp;&nbsp; &nbsp;gegevens over afstamming;<br>
+d)&nbsp;&nbsp; &nbsp;de volgende gegevens over het kind:&nbsp;<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienum-mer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+3)&nbsp;&nbsp; &nbsp;de datum van overlijden als dat van toepassing is;<br>
+9°&nbsp;&nbsp; &nbsp;gegevens over de gezondheid die betrekking hebben op onderliggend lijden dat volgens de Hoge Gezondheidsraad als vermeld in het Koninklijk besluit van 5 maart 2007 houdende oprichting van de Hoge Gezondheidsraad een risico-factor vormt voor de infectieziekte waarvoor de anonieme immunisatiegraad bepaald wordt;<br>
+10°&nbsp;&nbsp; &nbsp;gegevens over de werkzaamheid, het beroep van de betrokkene en de organisatie waar de betrokkene werkt. Voor kinderen onder zestien jaar kunnen de werkzaamheid en het beroep van de moeder en de organisatie waar de moeder werkt, verwerkt worden;<br>
+11°&nbsp;&nbsp; &nbsp;gegevens over de school, het leerjaar, de onderwijsvorm en het onderwijstype en het gegeven of de persoon al dan niet huisonderwijs volgt;<br>
+12°&nbsp;&nbsp; &nbsp;gegevens over de collectiviteit waar de persoon verblijft of deel van uitmaakt;<br>
+13°&nbsp;&nbsp; &nbsp;gegevens over de gezinssamenstelling;<br>
+14°&nbsp;&nbsp; &nbsp;gegevens over de thuistaal van de persoon;<br>
+15°&nbsp;&nbsp; &nbsp;de volgende gegevens over de migratieachtergrond van de persoon:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het gegeven of de persoon in België geboren is;<br>
+b)&nbsp;&nbsp; &nbsp;het geboorteland van de persoon;<br>
+c)&nbsp;&nbsp; &nbsp;het jaartal van aankomst in België.<br>
+<br>
+§4. Om de anonieme immunisatiegraad in het kader van dit artikel te bepalen, worden de gegevens, vermeld in paragraaf 3, maximaal twee jaar bewaard nadat de anonieme immunisatiegraad bepaald is.<br>
+<br>
+§5. De administratie is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van de persoonsgegevens, vermeld in dit artikel.
 
 ## ONDERAFDELING 2 INITIATIEVEN OM UITBREIDING VAN SCHADELIJKE EFFECTEN, VEROORZAAKT DOOR BIOTISCHE FACTOREN, TEGEN TE GAAN
 
@@ -767,15 +847,16 @@ In afwijking van het eerste lid worden, als de persoon aan wie het vaccin is toe
 
 ### ART. 45.
 
-§1. Een verplichting tot melding van de infecties die door biotische factoren worden veroorzaakt, vermeld in artikel 44, §3, 1°, geldt voor de behandelende arts, het hoofd van een laboratorium van klinische biologie en de arts die belast is met het medisch toezicht in scholen, bedrijven, voorzieningen waar kinderen en jongeren verblijven, en residentiële zorginstellingen.<br>
+§1. Al de volgende personen melden de infecties die door biotische factoren worden veroorzaakt als vermeld in artikel 44, §3, 1°:<br>
+1°&nbsp;&nbsp; &nbsp;de behandelende arts;<br>
+2°&nbsp;&nbsp; &nbsp;het hoofd van een laboratorium van klinische biologie;<br>
+3°&nbsp;&nbsp; &nbsp;de arts-hygiënist in een ziekenhuis;<br>
+4°&nbsp;&nbsp; &nbsp;de arts die belast is met het medische toezicht in een collectiviteit.<br>
 <br>
-In het eerste lid wordt verstaan onder residentiële zorginstellingen:<br>
-1° de woonzorgcentra, vermeld in artikel 33 van het Woonzorgdecreet van 15 februari 2019;<br>
-2° de residentiële voorzieningen die erkend, vergund of gesubsidieerd worden door het Vlaams Agentschap voor Personen met een Handicap;<br>
-3° de revalidatieziekenhuizen, vermeld in artikel 2, 17°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging.<br>
+De verplichting tot melding door de personen, vermeld in het eerste lid, kan worden uitgevoerd door een gevolmachtigde die onder de verantwoorde-lijkheid van de meldingsplichtige persoon handelt.<br>
 <br>
 §2. De melding, vermeld in paragraaf 1, kan al de volgende gegevens bevatten:<br>
-1°&nbsp;&nbsp; &nbsp;het identificatienummer van de sociale zekerheid van de geïnfecteerde persoon, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid;<br>
+1° &nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
 2°&nbsp;&nbsp; &nbsp;de voornamen en de achternaam van de geïnfecteerde persoon;<br>
 3°&nbsp;&nbsp; &nbsp;de geboortedatum van de geïnfecteerde persoon;<br>
 4°&nbsp;&nbsp; &nbsp;het geslacht van de geïnfecteerde persoon;<br>
@@ -786,7 +867,7 @@ In het eerste lid wordt verstaan onder residentiële zorginstellingen:<br>
 9°&nbsp;&nbsp; &nbsp;de nationaliteit van de geïnfecteerde persoon;<br>
 10° het domicilieadres van de geïnfecteerde persoon;<br>
 11° de gezinssamenstelling van de geïnfecteerde persoon;<br>
-12° het adres waar de geïnfecteerde persoon daadwerkelijk verblijft. Als de geinfecteerde persoon in een voorziening verblijft: de vermelding van de soort voorziening;<br>
+12° het adres waar de geïnfecteerde persoon daadwerkelijk verblijft. Als de geïnfecteerde persoon in een collectiviteit verblijft, wordt naast het adres ook de soort collectiviteit waarin de persoon verblijft, vermeld;<br>
 13° de gegevens die nodig zijn om contact te kunnen opnemen met de geïnfecteerde persoon, met inbegrip van het telefoonnummer en het e-mailadres van de betrokkene en van de persoon of wettelijke vertegenwoordiger die in geval van nood gecontacteerd moet worden, en de vermelding van de relatie van die persoon tot de betrokkene;<br>
 14° het beroep van de geïnfecteerde persoon;<br>
 15° de werkplaats van de geïnfecteerde persoon;<br>
@@ -795,40 +876,185 @@ In het eerste lid wordt verstaan onder residentiële zorginstellingen:<br>
 a)&nbsp;&nbsp; &nbsp;de startdatum van de symptomen;<br>
 b)&nbsp;&nbsp; &nbsp;de datum en de resultaten van klinisch, technisch en labotechnisch onderzoek en medische beeldvorming;<br>
 c)&nbsp;&nbsp; &nbsp;de ingestelde therapie;<br>
-d)&nbsp;&nbsp; &nbsp;de outcome (sequellen, overleden, genezen) na acuut ziektestadium;<br>
+d) &nbsp;&nbsp; &nbsp;de volgende informatie over de gevolgen of de vermoede gevolgen van de infectieziekte na het acute ziektestadium:<br>
+1)&nbsp;&nbsp; &nbsp;de sequelen;<br>
+2)&nbsp;&nbsp; &nbsp;de datum en de plaats van overlijden;<br>
+3)&nbsp;&nbsp; &nbsp;de vermelding of de geïnfecteerde persoon genezen is;<br>
 18° informatie over onderliggend lijden, therapie en antecedenten;<br>
-19° de vaccinatiestatus van de geïnfecteerde persoon;<br>
+19° de immunisatiestatus van de geïnfecteerde persoon;<br>
 20° in voorkomend geval de zwangerschap van de geïnfecteerde persoon;<br>
 21° de coördinaten van de behandelende arts en, in voorkomend geval, van de arts-specialist en van het ziekenhuis;<br>
 22° de vermoede bron van besmetting;<br>
-23° de dossierreferentie van de melder.<br>
+23° de dossierreferentie van de melder;<br>
+24°&nbsp;&nbsp; &nbsp;ingeval van klinisch laboratoriumonderzoek, al de volgende gege-vens:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de naam en de contactgegevens van de persoon of instantie die ge-vraagd heeft de stalen te onderzoeken;<br>
+b)&nbsp;&nbsp; &nbsp;het laboratorium dat de stalen onderzocht heeft;<br>
+c)&nbsp;&nbsp; &nbsp;het staalnummer;<br>
+d)&nbsp;&nbsp; &nbsp;het dossiernummer.<br>
 <br>
-Als de melder op de hoogte is van de gegevens, vermeld in het eerste lid, 1° tot en met 7°, is de melder verplicht deze gegevens op te nemen in de melding. De gegevens, vermeld in het eerste lid, 8° tot en met 23°, kunnen door de melder worden opgenomen in de melding. Op verzoek van de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, deelt de melder de opgevraagde gegevens, vermeld in het eerste lid, 8° tot en met 23°, mee als de melder op de hoogte is van deze gegevens.<br>
+Als de melder op de hoogte is van de gegevens, vermeld in het eerste lid, 1° tot en met 7°, 10° en 12°, neemt de melder die gegevens op in de melding. De gegevens, vermeld in het eerste lid, 8°, 9°, 11°, en 13° tot en met 24°, kunnen door de melder worden opgenomen in de melding. Op verzoek van de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, deelt de melder de opgevraagde gegevens, vermeld in het eerste lid, 8°, 9°, 11°, en 13° tot en met 24°, mee als de melder op de hoogte is van die gegevens.<br>
 <br>
-De melding, vermeld in het eerste lid, wordt gedaan aan een ambtenaar-arts als vermeld in artikel 44, §3, 2°.<br>
+De melding, vermeld in het eerste lid, wordt gedaan aan een ambtenaar-arts als vermeld in artikel 44, §3, 2°, of aan een ambtenaar als vermeld in artikel 44, §3, 3°.<br>
 <br>
-In afwijking van het derde lid kan de Vlaamse Regering vaststellen in welke specifieke gevallen de melding, vermeld in paragraaf 1, aan andere personen dan de ambtenaar-arts, vermeld in artikel 44, §3, 2°, kan worden gedaan.<br>
+In afwijking van het derde lid kan de Vlaamse Regering vaststellen in welke specifieke gevallen de melding, vermeld in paragraaf 1, aan andere personen dan een ambtenaar-arts, vermeld in artikel 44, §3, 2°, of dan een ambtenaar, vermeld in artikel 44, §3, 3°, kan worden gedaan.<br>
 <br>
-De Vlaamse Regering bepaalt, na advies van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de termijn waarin de melding wordt gedaan, en de vorm en de wijze van de melding.<br>
+De Vlaamse Regering bepaalt de termijn waarin de melding wordt gedaan, en de vorm en de wijze van de melding.<br>
+<br>
+§2/1. De volgende personen die een infectie die door biotische factoren wordt veroorzaakt als vermeld in artikel 44, §3, 1°, of een cluster van een van die infecties vaststellen, kunnen die infectieziekte of die cluster melden als ze van oordeel zijn dat het noodzakelijk is dat de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, op de hoogte worden gesteld:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de personen binnen andere binnenlandse en buitenlandse gezondheidsautoriteiten die daarvoor verantwoordelijk zijn;<br>
+2°&nbsp;&nbsp; &nbsp;de personen binnen Sciensano die daarvoor verantwoordelijk zijn;<br>
+3°&nbsp;&nbsp; &nbsp;het hoofd van een laboratorium voor klinische biologie dat gevestigd is in het Waalse Gewest of dat gevestigd is in het tweetalige gebied Brussel-Hoofstad en dat geen instelling is die wegens haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van de Vlaamse Gemeenschap.<br>
+<br>
+In het eerste lid wordt verstaan onder Sciensano: de instelling die is opge-richt bij de wet van 25 februari 2018 tot oprichting van Sciensano.<br>
+<br>
+De melding, vermeld in het eerste lid, kan alle gegevens als vermeld in paragraaf 2, eerste lid, bevatten.<br>
 <br>
 §3. De gegevens, vermeld in paragraaf 2, eerste lid, worden verwerkt met het oog op het nemen van initiatieven als vermeld in artikel 44, §2, en in het bijzonder met het oog op het nemen van de maatregelen, vermeld in artikel 44, §3, 2°.<br>
 <br>
-De gegevens, vermeld in paragraaf 2, eerste lid, kunnen ook worden verwerkt voor statistische, wetenschappelijke en beleidsondersteunende doeleinden, op voorwaarde dat de personen niet of niet meer identificeerbaar zijn.<br>
+De gegevens, vermeld in paragraaf 2, eerste lid, kunnen ook worden verwerkt voor statistische, wetenschappelijke en beleidsondersteunende doeleinden, na anonimisering van de gegevens of ten minste na pseudonimisering als anonimisering niet volstaat voor het statistische, wetenschappelijke of beleidsondersteunende doeleinde.<br>
 <br>
-§4. De ambtenaar-arts, vermeld in artikel 44, §3, 2°, legt over elke infectieziekte die gemeld wordt, een dossier aan. Dat dossier wordt aangevuld met alle informatie die ingewonnen wordt met toepassing van artikel 46, 3°, a), en artikel 48, en kan worden aangevuld met alle verdere informatie die daarvoor noodzakelijk is.<br>
+§4. De ambtenaar-arts, vermeld in artikel 44, §3, 2°, of de ambtenaar, vermeld in artikel 44, §3, 3°, legt over elke infectieziekte die gemeld wordt, een dossier aan. Dat dossier wordt aangevuld met alle informatie die ingewonnen wordt met toepassing van artikel 45/1, 45/2, 46, 3°, a), en artikel 48, en kan worden aangevuld met alle verdere informatie die daarvoor noodzakelijk is.<br>
 &nbsp;<br>
 Het dossier, vermeld in het eerste lid, wordt in zijn geheel maximaal dertig jaar bewaard in geval van tuberculose en maximaal tien jaar als het een andere infectieziekte betreft.<br>
 <br>
 In afwijking van het tweede lid kan het dossier langer dan respectievelijk dertig of tien jaar bewaard worden als het dossier deel uitmaakt van een gerechtelijk onderzoek of als het vermoeden bestaat dat het dossier aanleiding kan geven tot een gerechtelijk onderzoek. In voorkomend geval wordt het dossier bewaard tot het gerechtelijk onderzoek gesloten wordt of tot er geen redelijk vermoeden meer is dat het dossier aanleiding kan geven tot een gerechtelijk onderzoek.<br>
+<br>
+Als uit de collectiviteit, vermeld in paragraaf 2, eerste lid, 12°, gegevens als vermeld in artikel 10 van de algemene verordening gegevensbescherming kunnen worden afgeleid, wordt de collectiviteit twee jaar na registratie geanonimiseerd en verwijderd uit het dossier, vermeld in het eerste lid.<br>
+<br>
+In afwijking van het vierde lid, worden de gegevens over de collectiviteit, vermeld in paragraaf 2, eerste lid, 12°, in geval van tuberculose zes jaar na de registratie geanonimiseerd en verwijderd uit het dossier, vermeld in het eerste lid, als uit de collectiviteit gegevens als vermeld in artikel 10 van de algemene verordening gegevensbescherming kunnen worden afgeleid.<br>
 <br>
 De Vlaamse Regering kan de volgende aspecten nader regelen:<br>
 1° &nbsp; de wijze waarop het dossier bewaard wordt, vermeld in het eerste lid;<br>
 2° de wijze waarop de gegevens van het dossier, vermeld in het eerste lid, worden geanonimiseerd na afloop van de bewaartermijn, vermeld in het tweede of derde lid;<br>
 3° de wijze waarop de geanonimiseerde gegevens van het dossier worden bewaard.<br>
 <br>
-§5. Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is de verwerkingsverantwoordelijke, in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming, voor het dossier, vermeld in paragraaf 4, eerste lid.<br>
+§5. De administratie is de verwerkingsverantwoordelijke, in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming, voor het dossier, vermeld in paragraaf 4, eerste lid.<br>
 <br>
 §6. De Vlaamse Regering kan technische en organisatorische maatregelen opleggen voor de verwerking van de persoonsgegevens, vermeld in dit artikel.
+
+### ART 45/1.
+
+De ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, kunnen van geïnfecteerde personen alle persoonsgegevens verwerken die opgenomen zijn in de lijst, vermeld in artikel 45, §2.<br>
+<br>
+Artikel 45, §3 tot en met §6, zijn van toepassing op de verwerking van persoonsgegevens, vermeld in het eerste lid.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, kunnen ook verwerkt worden door andere personen die werken onder de verantwoordelijkheid van de ambtenaren-artsen, vermeld in artikel 44, §3, 2°, conform artikel 9, lid 3, van de algemene verordening gegevensbescherming.
+
+### ART 45/2.
+
+§1. De ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, kunnen iedere melding of iedere vastgestelde infectie die door biotische factoren wordt veroorzaakt als vermeld in artikel 44, §3, 1°, verder onderzoeken. Om de melding of de vastgestelde infectieziekte verder te onderzoeken, kunnen de ambtenaren-artsen en ambtenaren zelf elk dienstig onderzoek instellen of een bijkomend onderzoek laten uitvoeren door een organisatie waarmee de Vlaamse Gemeenschap voor dit doeleinde een overeenkomst heeft gesloten.<br>
+<br>
+Onder het onderzoek, vermeld in het eerste lid, wordt verstaan:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;afname en analyse van stalen en testen;<br>
+2°&nbsp;&nbsp; &nbsp;medische beeldvorming;<br>
+3°&nbsp;&nbsp; &nbsp;anamnese;<br>
+4°&nbsp;&nbsp; &nbsp;brononderzoek;<br>
+5°&nbsp;&nbsp; &nbsp;omgevingsonderzoek;<br>
+6°&nbsp;&nbsp; &nbsp;ander medisch onderzoek.<br>
+<br>
+In het kader van het onderzoek, vermeld in het eerste lid, kunnen de volgende categorieën van persoonsgegevens verwerkt worden van de geïnfecteerde persoon of van personen die mogelijk in contact zijn gekomen met de geïnfecteerde persoon of met een andere bron van de besmetting, die verband houden met de infectieziekte en die het resultaat zijn van de anamnese, het brononderzoek, de stalen, de testen, de beeldvorming, het omgevingsonderzoek of het ander medisch onderzoek, vermeld in het derde lid:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;gegevens over de leefstijl;<br>
+2°&nbsp;&nbsp; &nbsp;de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming;<br>
+3°&nbsp;&nbsp; &nbsp;gegevens over risicocontacten, inclusief gegevens over seksueel gedrag;<br>
+4°&nbsp;&nbsp; &nbsp;gegevens als vermeld in artikel 45, §2, eerste lid, die de ambtenaar of de ambtenaar-arts nog niet kent;<br>
+5°&nbsp;&nbsp; &nbsp;gegevens over de bron van de infectieziekte of de omstandigheden waarin de infectieziekte zich verspreid heeft.<br>
+<br>
+De geïnfecteerde persoon of de persoon die mogelijk in contact is gekomen met de geïnfecteerde persoon of met een andere bron van de besmetting, is verplicht mee te werken aan het onderzoek, vermeld in het eerste lid. Als het onderzoek, vermeld in het eerste lid, een medisch onderzoek is als vermeld in artikel 47, §1, 2°, is artikel 47, §2 en §3, van toepassing.<br>
+<br>
+De gegevens uit het onderzoek, vermeld in het eerste lid, worden uitsluitend verwerkt door personen die voldoen aan de voorwaarden, vermeld in artikel 9, lid 3, van de algemene verordening gegevensbescherming.<br>
+<br>
+De resultaten van het onderzoek, vermeld in het eerste lid, worden opgeno-men in het dossier, vermeld in paragraaf 2, derde lid, of in het dossier, vermeld in artikel 45, §4, eerste lid.<br>
+<br>
+Als de behandelende arts, het hoofd van een laboratorium van klinische biologie, de arts-hygiënist in een ziekenhuis of de arts die belast is met het medische toezicht in een collectiviteit, zelf een bijkomend onderzoek over de infectie die door biotische factoren wordt veroorzaakt, vermeld in het eerste lid, heeft gevoerd, bezorgt die de resultaten van dat bijkomende onderzoek aan de betrokken ambtenaar of ambtenaar-arts. De resultaten worden opgenomen in het dossier, vermeld in paragraaf 2, derde lid, of in het dossier, vermeld in artikel 45, §4, eerste lid.<br>
+<br>
+Als gegevens over seksueel gedrag als vermeld in het derde lid, 3°, verwerkt worden in het kader van het onderzoek, vermeld in het eerste lid, worden die gegevens twee jaar na registratie geanonimiseerd en verwijderd uit het dossier, vermeld in artikel 45, §4, eerste lid.<br>
+<br>
+In afwijking van het achtste lid, worden gegevens over seksueel gedrag als vermeld in het derde lid, 3°, in geval van tuberculose zes jaar na registratie geanonimiseerd en verwijderd uit het dossier, vermeld in artikel 45, §4, eerste lid.<br>
+<br>
+§2. De ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, kunnen met het oog op het nemen van initiatieven als vermeld in artikel 44, §2, en in het bijzonder met het oog op het nemen van de maatregelen, vermeld in artikel 44, §3, 2°, de contacten van geïnfecteerde personen of de personen die in contact zijn geweest met een andere besmettingsbron van de infectie opsporen, onderzoeken of die personen ook geïnfecteerd zijn, of de nodige preventieve maatregelen nemen.<br>
+<br>
+Met het oog op de doeleinden, vermeld in het eerste lid, kunnen de ambtenaren-artsen en de ambtenaren, vermeld in artikel 44, §3, 2° en 3°, of de personen die werken onder de verantwoordelijkheid van die ambtenaren-artsen, conform artikel 9, lid 3, van de algemene verordening gegevensbescherming, de volgende gegevens verwerken van de personen die mogelijk in contact zijn gekomen met een geïnfecteerde persoon of met een andere bron van de besmetting:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 hou-dende oprichting en organisatie van een Kruispuntbank van de sociale zeker-heid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+3°&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4°&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5°&nbsp;&nbsp; &nbsp;de infectie die door biotische factoren wordt veroorzaakt als vermeld in artikel 44, §3, 1°, waarmee de persoon mogelijk in contact gekomen is;<br>
+6°&nbsp;&nbsp; &nbsp;het geboorteland;<br>
+7°&nbsp;&nbsp; &nbsp;de nationaliteit;<br>
+8°&nbsp;&nbsp; &nbsp;het domicilieadres;<br>
+9°&nbsp;&nbsp; &nbsp;de gezinssamenstelling;<br>
+10°&nbsp;&nbsp; &nbsp;het adres waar de persoon daadwerkelijk verblijft. Als het contact in een collectiviteit verblijft, wordt naast het adres ook de soort collectiviteit waarin de persoon verblijft, vermeld;<br>
+11°&nbsp;&nbsp; &nbsp;de gegevens die nodig zijn om contact te kunnen opnemen met de persoon die in contact is gekomen met de geïnfecteerde persoon of met de bron van de infectie, met inbegrip van het telefoonnummer en het e-mailadres van de betrokkene en van de persoon of de wettelijke vertegenwoordiger die in geval van nood gecontacteerd moet worden, en de vermelding van de relatie van die persoon tot de betrokkene;<br>
+12°&nbsp;&nbsp; &nbsp;het beroep;<br>
+13°&nbsp;&nbsp; &nbsp;de werkplaats;<br>
+14°&nbsp;&nbsp; &nbsp;informatie over onderliggend lijden of risicofactoren voor besmetting door de infectieziekte, therapie en antecedenten;<br>
+15°&nbsp;&nbsp; &nbsp;de immunisatiestatus;<br>
+16°&nbsp;&nbsp; &nbsp;in voorkomend geval de zwangerschap;<br>
+17°&nbsp;&nbsp; &nbsp;de coördinaten van de behandelende arts en, in voorkomend geval, van de arts-specialist en van het ziekenhuis;<br>
+18°&nbsp;&nbsp; &nbsp;de resultaten, inclusief de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming, van het verdere onderzoek, vermeld in paragraaf 1, om na te gaan of die persoon ook geïnfecteerd is.<br>
+<br>
+De gegevens, vermeld in het tweede lid, van de persoon die mogelijk in contact is gekomen met de geïnfecteerde persoon of met de bron van de infectie, worden bewaard in een dossier over een infectieziekte conform artikel 45, §4, eerste lid.<br>
+<br>
+Als uit de collectiviteit, vermeld in het tweede lid, 10°, gegevens als vermeld in artikel 10 van de algemene verordening gegevensbescherming kunnen worden afgeleid, wordt de collectiviteit twee jaar na registratie geanonimiseerd en verwijderd uit het dossier, vermeld in artikel 45, §4, eerste lid, van dit decreet.<br>
+<br>
+In afwijking van het vierde lid, worden de gegevens over de collectiviteit, vermeld in het tweede lid, 10°, ingeval van tuberculose zes jaar na de registratie geanonimiseerd en verwijderd uit het dossier, vermeld in artikel 45, §4, eerste lid, van dit decreet als uit de collectiviteit gegevens als vermeld in artikel 10 van de algemene verordening gegevensbescherming kunnen worden afgeleid.<br>
+<br>
+§3. Als wordt vastgesteld dat de persoon die mogelijk in contact is gekomen met de geïnfecteerde persoon of met een andere bron van de infectie, ook besmet is met een infectie die door biotische factoren wordt veroorzaakt als vermeld in artikel 44, §3, 1°, wordt die persoon zelf geïnfecteerde persoon.<br>
+<br>
+Als binnen twee jaar na de registratie niet wordt vastgesteld dat de persoon die mogelijk in contact is gekomen met de geïnfecteerde persoon of met de bron van de infectie, geïnfecteerd is door de infectie die door biotische factoren wordt veroorzaakt als vermeld in artikel 44, §3, 1°, worden de gegevens, vermeld in paragraaf 2, tweede lid, geanonimiseerd en verwijderd uit het dossier, vermeld in artikel 45, §4, eerste lid.<br>
+<br>
+In afwijking van het tweede lid, worden in geval van tuberculose de gegevens van een persoon die mogelijk in contact is gekomen met de geïnfecteerde persoon of met de bron van de infectie, na zes jaar geanonimiseerd en verwijderd uit het dossier, vermeld in artikel 45, §4, eerste lid, als dan niet vastgesteld is dat deze persoon geïnfecteerd is met tuberculose.<br>
+<br>
+§4. Met het oog op het nemen van initiatieven als vermeld in artikel 44, §2, het nemen van de maatregelen, vermeld in artikel 44, §3, 2°, en in het bijzonder met het oog op contactopsporing en met het oog op het nemen van maatregelen om de verdere verspreiding van de infectieziekte tegen te gaan, kunnen de ambtenaren-artsen en ambtenaren, vermeld in artikel 44, §3, 2° en 3°, de personen bevragen die verantwoordelijk zijn voor de plaatsen waar of activiteiten waarbij de geïnfecteerde persoon in contact is gekomen met andere personen die daardoor mogelijk ook besmet zijn met de infectieziekte, of waarbij personen in contact zijn gekomen met een andere besmettingsbron en daardoor mogelijk ook besmet zijn met de infectieziekte.<br>
+<br>
+De verantwoordelijke personen, vermeld in het eerste lid, die bevraagd worden, verlenen hun medewerking aan de bevraging, vermeld in het eerste lid. De ambtenaren-artsen of ambtenaren, vermeld in artikel 44, §3, 2° en 3°, kunnen de volgende persoonsgegevens opvragen van personen die mogelijk in contact zijn gekomen met de geïnfecteerde persoon of met de andere besmettingsbron van de infectie tijdens de maximale incubatieperiode of tijdens de periode van ziekte:<br>
+1°&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 hou-dende oprichting en organisatie van een Kruispuntbank van de sociale zeker-heid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+3°&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4°&nbsp;&nbsp; &nbsp;het adres;<br>
+5°&nbsp;&nbsp; &nbsp;het geslacht;<br>
+6°&nbsp;&nbsp; &nbsp;de contactgegevens;<br>
+7°&nbsp;&nbsp; &nbsp;informatie over de plaats, het tijdstip en de aard van het contact met de geïnfecteerde persoon of met de bron van de infectie.<br>
+<br>
+De gegevens, vermeld in het tweede lid, van de personen die mogelijk in contact zijn gekomen met de geïnfecteerde persoon of met de bron van de infectie, worden bewaard in een dossier conform artikel 45, §4.<br>
+<br>
+§5. De administratie is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens, vermeld in dit artikel.<br>
+<br>
+§6. De Vlaamse Regering kan technische en organisatorische maatregelen opleggen voor de verwerking van de persoonsgegevens, vermeld in dit artikel.<br>
+<br>
+§7. De gegevens, vermeld in dit artikel, kunnen ook worden verwerkt voor statistische, wetenschappelijke en beleidsondersteunende doeleinden, na anonimisering van de gegevens of ten minste na pseudonimisering als anonimisering niet volstaat voor het statistische, wetenschappelijke of beleidsondersteunende doeleinde.
+
+### ART 45/3.
+
+§1. De gegevens, vermeld in artikel 45, 45/1 en 45/2, kunnen met de volgende personen of instanties worden uitgewisseld:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;organisaties die in het kader van de toepassing van artikel 45, 45/1 of 45/2 een overheidsopdracht uitvoeren voor de Vlaamse Gemeenschap;<br>
+2°&nbsp;&nbsp; &nbsp;organisaties die de Vlaamse Gemeenschap subsidieert om mee te werken aan het onderzoek of de opvolging van meldingen of om naar aanleiding van meldingen maatregelen te nemen;<br>
+3°&nbsp;&nbsp; &nbsp;de behandelende arts van de geïnfecteerde persoon, het hoofd van een laboratorium van klinische biologie, de arts-ziekenhuishygiënist, en de arts die belast is met het medische toezicht in een collectiviteit, of de personen onder de verantwoordelijkheid van die artsen;<br>
+4°&nbsp;&nbsp; &nbsp;gezondheidszorgbeoefenaars die een therapeutische relatie als vermeld in artikel 37 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, hebben met de geïnfecteerde persoon of met het contact of de personen onder de verantwoordelijkheid van die gezondheidszorgbeoefenaars, voor zover deze gezondheidszorgberoepsbeoefenaars betrokken zijn bij de uitvoering van maatregelen in het kader van de bestrijding van de gemelde infectieziekte;<br>
+5°&nbsp;&nbsp; &nbsp;andere binnenlandse of buitenlandse gezondheidsautoriteiten.<br>
+<br>
+De gegevens, vermeld in het eerste lid, kunnen alleen uitgewisseld worden met personen die voldoen aan de voorwaarden, vermeld in artikel 9, lid 3, van de algemene verordening gegevensbescherming.<br>
+<br>
+§2. De volgende personen kunnen aan het dossier, vermeld in artikel 45, §4, eerste lid, artikel 45/1, tweede lid, of artikel 45/2, §2, derde lid, bijkomende gegevens als vermeld in artikel 45, §2, of artikel 45/1, of artikel 45/2, §1 of §2, toevoegen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;personen van organisaties die in het kader van de meldingsplicht een overheidsopdracht uitvoeren voor de administratie;<br>
+2°&nbsp;&nbsp; &nbsp;personen van organisaties die de Vlaamse Gemeenschap subsidieert om mee te werken aan het onderzoek of de opvolging van meldingen of om naar aanleiding van meldingen maatregelen te nemen;<br>
+3°&nbsp;&nbsp; &nbsp;gezondheidszorgbeoefenaars die een therapeutische relatie als vermeld in artikel 37 van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, hebben met de geïnfecteerde persoon of met het contact of de personen onder de verantwoordelijkheid van die gezondheidszorgbeoefenaars, voor zover deze gezondheidszorgberoepsbeoefenaars betrokken zijn bij de uitvoering van maatregelen in het kader van de bestrijding van de gemelde infectieziekte;<br>
+4°&nbsp;&nbsp; &nbsp;de behandelende arts van de geïnfecteerde persoon, het hoofd van een laboratorium van klinische biologie, de arts-hygiënist in een ziekenhuis en de arts die belast is met het medische toezicht in scholen, bedrijven, voorzieningen waar kinderen en jongeren verblijven, en residentiële zorginstellingen, of de personen die werken onder de verantwoordelijkheid van die artsen;<br>
+5°&nbsp;&nbsp; &nbsp;andere binnenlandse of buitenlandse gezondheidsautoriteiten.<br>
+<br>
+De Vlaamse Regering kan de wijze bepalen waarop de bijkomende gegevens conform het eerste lid toegevoegd worden.<br>
+<br>
+Alleen personen die voldoen aan de voorwaarden, vermeld in artikel 9, lid 3, van de algemene verordening gegevensbescherming, kunnen het dossier, vermeld in het eerste lid, aanvullen.
+
+### ART 45/4.
+
+Als dat noodzakelijk is om de verdere verspreiding van de infectieziekte tegen te gaan, kunnen de ambtenaren-artsen en ambtenaren, vermeld in artikel 44, §3, 2° en 3°, publieke oproepen lanceren om personen te informeren en op te sporen die op een bepaalde plaats of in het kader van een bepaalde activiteit mogelijk in contact gekomen zijn met een geïnfecteerde persoon of met een andere besmettingsbron. In die publieke oproepen kunnen ze de plaats waar of de activiteit waarbij de infectieziekte zich mogelijk verder verspreid heeft, vermelden, net als het tijdsinterval waarin de infectieziekte zich mogelijk verspreid heeft.<br>
+<br>
+In de oproepen, vermeld in het eerste lid, kunnen de ambtenaren-artsen en ambtenaren, vermeld in artikel 44, §3, 2° en 3°, aanbevelingen doen aan de personen die op de plaats of in het kader van de activiteit, vermeld in die oproep, mogelijk in contact gekomen zijn met een geïnfecteerde persoon of met een andere besmettingsbron. De ambtenaren-artsen en ambtenaren, vermeld in artikel 44, §3, 2° en 3°, kunnen die personen verzoeken zich te melden.<br>
+<br>
+De ambtenaren-artsen en ambtenaren, vermeld in artikel 44, §3, 2° en 3°, bepalen in de oproep, vermeld in het eerste lid, op welke wijze personen zich kunnen melden.<br>
+<br>
+Op personen die zich naar aanleiding van een oproep als vermeld in het eerste lid, melden, is artikel 45/2, §1 en §2, van toepassing.
 
 ### ART. 46.
 
@@ -907,7 +1133,7 @@ Iedere betrokkene heeft de plicht de aangeduide ambtenaren-artsen, bedoeld in ar
 
 ### ART. 49.
 
-§ 1. Als de verplichtingen, vermeld in artikel 45, § 1, artikel 47, § 1 en artikel 48 niet worden nageleefd, zijn de aangeduide ambtenaren die met het toezicht belast zijn, onverminderd de bevoegdheden van de gemeenten conform artikel 135, § 2, van de Nieuwe Gemeentewet van 24 juni 1988,&nbsp;bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
+§ 1. Als de verplichtingen, vermeld in artikel 45, § 1, artikel 45/2, §1 en §4, artikel 47, § 1 en artikel 48 niet worden nageleefd, zijn de aangeduide ambtenaren die met het toezicht belast zijn, onverminderd de bevoegdheden van de gemeenten conform artikel 135, § 2, van de Nieuwe Gemeentewet van 24 juni 1988,&nbsp;bevoegd om een proces-verbaal op te stellen. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift van hun proces-verbaal wordt de betrokkene binnen vijf werkdagen aangetekend toegestuurd.<br>
 <br>
 § 2. Ten aanzien van natuurlijke personen zie zich bevinden op het grondgebied van het tweetalig gebied Brussel-Hoofdstad, zijn de artikelen 46 tot en met 49, § 1, enkel van toepassing op deze personen die vrijwillig beroep hebben gedaan op een voorziening die wegens haar organisatie beschouwd moet worden als uitsluitend ressorterend onder de bevoegdheid van Vlaamse Gemeenschap.
 
@@ -1140,6 +1366,192 @@ Die initiatieven kunnen onder meer betrekking hebben op:<br>
 1° het voorkomen van kanker door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br>
 2° het opsporen van kanker in een zo vroeg mogelijk stadium.
 
+### ART 68/1.
+
+§1. In dit artikel wordt verder verstaan onder:<br>
+1°&nbsp;&nbsp; &nbsp;aangewezen arts: de arts die door de deelnemer aangewezen is als arts die gecontacteerd mag worden in het kader van het bevolkingsonderzoek naar kanker en met wie de resultaten van het bevolkingsonderzoek naar kanker van de deelnemer gedeeld kunnen worden;<br>
+2°&nbsp;&nbsp; &nbsp;bloedverwant: een ouder, broer, zus of kind van een deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;bevolkingsonderzoek naar kanker: een bevolkingsonderzoek naar kanker dat georganiseerd wordt op initiatief van de Vlaamse Regering als vermeld in artikel 31, §1;<br>
+4°&nbsp;&nbsp; &nbsp;deelnemer: een persoon die deelneemt aan een bevolkingsonderzoek naar kanker;<br>
+5°&nbsp;&nbsp; &nbsp;doorverwijzende arts: de arts die de deelnemer heeft doorverwezen naar het bevolkingsonderzoek naar kanker;<br>
+6°&nbsp;&nbsp; &nbsp;GMD-houdende arts: de arts die het globaal medisch dossier van de deelnemer bijhoudt;<br>
+7°&nbsp;&nbsp; &nbsp;in situ kanker: een tumor die niet is uitgezaaid of doorgebroken naar het omliggende weefsel;<br>
+8°&nbsp;&nbsp; &nbsp;intervalkanker: een kanker die gevonden wordt tussen twee opeenvolgende screeningsonderzoeken, het kan gaan om een in situ kanker of een invasieve kanker;<br>
+9°&nbsp;&nbsp; &nbsp;invasieve kanker: een tumor die in de omliggende weefsels is doorgedrongen;<br>
+10°&nbsp;&nbsp; &nbsp;organisatie die op basis van een overeenkomst een bevolkingsonderzoek naar kanker organiseert: een organisatie die op basis van een overeenkomst in opdracht van de Vlaamse overheid organisatorische taken vervult in het kader van een Vlaams bevolkingsonderzoek naar kanker;<br>
+11°&nbsp;&nbsp; &nbsp;persoon die de screening uitvoert: iedere persoon, met uitzondering van de deelnemer, die in het kader van het bevolkingsonderzoek naar kanker stalen of beelden afneemt of analyseert;<br>
+12°&nbsp;&nbsp; &nbsp;screening: elk onderzoek naar een ziekte of aandoening of naar risicofacto-ren, voorstadia of verwikkelingen ervan, bij een of meer personen, dat niet wordt uitgevoerd naar aanleiding van gezondheidsklachten die uit eigen beweging geformuleerd zijn en die verband houden met de opgespoorde ziekte of aandoening of de risicofactoren, voorstadia of verwikkelingen ervan;<br>
+13°&nbsp;&nbsp; &nbsp;volledige doelgroep: de personen die op basis van criteria in aanmerking kunnen komen om deel te nemen aan het bevolkingsonderzoek naar kanker.<br>
+<br>
+De Vlaamse Regering kan de criteria, vermeld in het eerste lid, 13°, bepalen.<br>
+<br>
+De Vlaamse Regering kan uitsluitingscriteria bepalen op basis waarvan personen die deel uitmaken van de volledige doelgroep, toch niet kunnen deelnemen aan het bevolkingsonderzoek naar kanker.<br>
+<br>
+Personen die deel uitmaken van de volledige doelgroep, die niet actief uitgenodigd zijn om deel te nemen aan het bevolkingsonderzoek naar kanker, maar die niet uitgesloten worden op basis van de uitsluitingscriteria, vermeld in het derde lid, kunnen deelnemen aan het bevolkingsonderzoek naar kanker.<br>
+<br>
+§2. Met het oog op de uitvoering en de evaluatie van de bevolkingsonderzoeken naar kanker kunnen de administratie, een organisatie die op basis van een overeenkomst een bevolkingsonderzoek naar kanker organiseert, of personen die de screening uitvoeren, persoonsgegevens verwerken van de volgende personen:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;personen die deel uitmaken van de volledige doelgroep en personen die binnen een jaar deel uit zullen maken van de volledige doelgroep;<br>
+2°&nbsp;&nbsp; &nbsp;deelnemers.<br>
+<br>
+De Vlaamse Gemeenschap of de organisatie die op basis van een overeenkomst de bevolkingsonderzoeken naar kanker organiseert, stelt een registratiesysteem ter beschikking om het bevolkingsonderzoek, vermeld in het eerste lid, uit te voeren en te evalueren.<br>
+<br>
+§3. Met het oog op de selectie en uitnodiging van personen voor deelname aan een bevolkingsonderzoek naar kanker kunnen de volgende gegevens verwerkt worden van personen uit de volledige doelgroep en van personen die binnen een jaar deel uit zullen maken van de volledige doelgroep:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de persoon te identificeren, waaronder het rijksregisternummer of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+3°&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4°&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5°&nbsp;&nbsp; &nbsp;in voorkomend geval, de overlijdensdatum;<br>
+6°&nbsp;&nbsp; &nbsp;de volgende gegevens over eerdere uitnodigingen voor het bevolkingsonderzoek naar kanker en de eerdere deelnames aan het bevolkingsonderzoek naar kanker:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de eerdere datums van uitnodiging voor het bevolkingsonderzoek naar kanker;<br>
+b)&nbsp;&nbsp; &nbsp;de eerdere datums van deelname aan het bevolkingsonderzoek naar kanker;<br>
+c)&nbsp;&nbsp; &nbsp;in voorkomend geval, de eerdere weigeringen om deel te nemen aan het bevolkingsonderzoek naar kanker;<br>
+d)&nbsp;&nbsp; &nbsp;de datum en het type screeningsonderzoeken en de resultaten van screeningsonderzoeken die uitgevoerd zijn bij de persoon die deel uitmaakt van de volledige doelgroep, die een impact hebben op het screeningsinterval;<br>
+e)&nbsp;&nbsp; &nbsp;in voorkomend geval, de opvolging die geboden is na een voorafgaand afwijkend screeningsresultaat;<br>
+7°&nbsp;&nbsp; &nbsp;de datum en het type van immunisaties die toegediend zijn aan de persoon die deel uitmaakt van de volledige doelgroep, die een impact hebben op het screeningsinterval;<br>
+8°&nbsp;&nbsp; &nbsp;de datum en het type van relevante onderzoeken en behandelingen die de persoon die deel uitmaakt van de volledige doelgroep, heeft ondergaan buiten het bevolkingsonderzoek naar kanker, die impact hebben op het screeningsinterval, en relevante medische diagnoses die betrekking hebben op de aandoening waarop binnen het bevolkingsonderzoek naar kanker in kwestie gescreend wordt;<br>
+9°&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+a)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+c)&nbsp;&nbsp; &nbsp;het gsm- of telefoonnummer;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om de persoon te contacteren via de eBox, vermeld in artikel 2, 3°, van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox;<br>
+10°&nbsp;&nbsp; &nbsp;de volgende gegevens van de GMD-houdende arts, de doorverwijzende arts of de aangewezen arts:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;naam en voornaam;<br>
+b)&nbsp;&nbsp; &nbsp;het adres;<br>
+c)&nbsp;&nbsp; &nbsp;het RIZIV-nummer;<br>
+11°&nbsp;&nbsp; &nbsp;als dat van toepassing is, de datum en locatie van uitnodiging.<br>
+<br>
+De administratie of de organisatie die het bevolkingsonderzoek naar kanker organiseert, neemt organisatorische en technische maatregelen om de toegang tot de gegevens, vermeld in het eerste lid, 8°, van de administratie en van de organisatie die het bevolkingsonderzoek naar kanker uitvoert, te beperken zodat ze alleen het resultaat kunnen zien van de selectie die uitgevoerd is op basis van die gegevens.<br>
+<br>
+De gegevens, vermeld in het eerste lid, 8°, worden voor het doeleinde, vermeld in het eerste lid, niet geregistreerd in het registratiesysteem, vermeld in paragraaf 2, tweede lid.<br>
+<br>
+Personen kunnen verzoeken om niet uitgenodigd te worden in het kader van een of verschillende bevolkingsonderzoeken naar kanker. In dat geval wordt naast de gegevens, vermeld in het eerste lid, het verzoek om niet uitgenodigd te worden en de vermelding voor welk bevolkingsonderzoek verwerkt.<br>
+<br>
+§4. Met het oog op de uitvoering van de screening van de deelnemer en de interpretatie van het resultaat van de screening kunnen de volgende persoonsgegevens verwerkt worden van de deelnemers:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de persoon te identificeren, waaronder het rijksregisternummer of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam;<br>
+3°&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4°&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5°&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+6°&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van overlijden;<br>
+7°&nbsp;&nbsp; &nbsp;gegevens over het geplande screeningsmoment;<br>
+8°&nbsp;&nbsp; &nbsp;resultaten van de bevragingen van de deelnemer over:<br>
+a)&nbsp;&nbsp; &nbsp;relevante antecedenten bij de deelnemer;<br>
+b)&nbsp;&nbsp; &nbsp;of er bij een bloedverwant van de deelnemer kennis is of was van een kankerdiagnose voor de kanker waarop gescreend wordt. Van deze bloedverwant worden geen identiteits- of contactgegevens of andere per-soonsgegevens geregistreerd, behalve het gegeven dat bij een bloedver-want kennis is of was van de betreffende kanker;<br>
+9°&nbsp;&nbsp; &nbsp;medicatiegebruik dat relevant is voor de interpretatie van het screeningsresul-taat in het kader van het bevolkingsonderzoek naar kanker;<br>
+10°&nbsp;&nbsp; &nbsp;de volgende immunisatiegegevens:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de datums van immunisatie;<br>
+b)&nbsp;&nbsp; &nbsp;de immunisatiestatus tegen de kanker waarop gescreend wordt;<br>
+c)&nbsp;&nbsp; &nbsp;het soort preventief geneesmiddel dat is toegediend;<br>
+11°&nbsp;&nbsp; &nbsp;de volgende relevante gegevens over alle screeningsonderzoeken die uitgevoerd zijn en worden bij de deelnemer:<br>
+a)&nbsp;&nbsp; &nbsp;de datum van de screening;<br>
+b)&nbsp;&nbsp; &nbsp;de locatie van de screening;<br>
+c)&nbsp;&nbsp; &nbsp;het resultaat van de screening;<br>
+d)&nbsp;&nbsp; &nbsp;in voorkomend geval door wie de screening is uitgevoerd. De volgende persoonsgegevens kunnen verwerkt worden van de persoon die de screening heeft uitgevoerd:&nbsp;<br>
+1)&nbsp;&nbsp; &nbsp;naam en voornaam;<br>
+2)&nbsp;&nbsp; &nbsp;het RIZIV-nummer;<br>
+3)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:&nbsp;<br>
+i)&nbsp;&nbsp; &nbsp;het adres;<br>
+ii)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+iii)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+12°&nbsp;&nbsp; &nbsp;de toestemmingen van de deelnemer over de verwerking van de persoonsgegevens voor andere doeleinden dan de doeleinden die opgenomen zijn in dit artikel.<br>
+<br>
+Als een derdebetalersregeling van toepassing is op de prestaties in het kader van het bevolkingsonderzoek naar kanker, kunnen ook gegevens over de derdebetalersregeling en over het ziekenfonds waarbij de deelnemer aangesloten is, verwerkt worden.<br>
+<br>
+§5. De resultaten van de screening kunnen meegedeeld worden aan de deelnemer en aan de GMD-houdende arts, de aangewezen arts of de doorverwijzende arts.<br>
+<br>
+Met het oog op de mededeling van de screeningsresultaten kunnen de volgende persoonsgegevens verwerkt worden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de deelnemer te identificeren, waaronder het rijksregisternummer of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam van de deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van overlijden;<br>
+4°&nbsp;&nbsp; &nbsp;de volgende contactgegevens van de deelnemer:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres en de toestemming van de persoon om het e-mailadres te gebruiken in het kader van het bevolkingsonderzoek naar kanker;<br>
+c)&nbsp;&nbsp; &nbsp;het gsm- of telefoonnummer;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om de persoon te contacteren via de eBox, vermeld in artikel 2, 3°, van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox;<br>
+5°&nbsp;&nbsp; &nbsp;de volgende contactgegevens van de doorverwijzende arts, de aangewezen arts of de GMD-houdende arts:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;naam en voornaam;<br>
+b)&nbsp;&nbsp; &nbsp;het adres;<br>
+c)&nbsp;&nbsp; &nbsp;het RIZIV-nummer.<br>
+<br>
+Met het oog op de mededeling van de resultaten van de screening kunnen de volgende persoonsgegevens doorgegeven worden:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de deelnemer te identificeren, waaronder het rijksregisternummer of het identificatienummer van de Kruispuntbank, ver-meld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam van de deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;de resultaten van de screening, vermeld in paragraaf 4, eerste lid, 11°;<br>
+4°&nbsp;&nbsp; &nbsp;de datum van de deelname aan het bevolkingsonderzoek naar kanker;<br>
+5°&nbsp;&nbsp; &nbsp;het advies over het voeren van een vervolgonderzoek als dat van toepassing is;<br>
+6°&nbsp;&nbsp; &nbsp;in het kader van het bevolkingsonderzoek naar borstkanker kunnen ook de volgende persoonsgegevens doorgegeven worden aan de doorverwijzende arts, de aangewezen arts of de GMD-houdende arts:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de densiteit van het borstweefsel;<br>
+b)&nbsp;&nbsp; &nbsp;de locatie van de afwijking als dat van toepassing is.<br>
+<br>
+§6. Om de correcte opvolging na een afwijkend screeningsresultaat te bewaken, kan contact opgenomen worden met de GMD-houdende arts, met de persoon die de screening uitgevoerd heeft, of met de deelnemer.<br>
+<br>
+Met het oog op het contact, vermeld in het eerste lid, kunnen de volgende gegevens verwerkt en doorgegeven worden:<br>
+1°&nbsp;&nbsp; &nbsp;de persoonsgegevens om de deelnemer te identificeren, waaronder het rijksregisternummer of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en voornaam van de deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;de volgende contactgegevens van de deelnemer waarbij een afwijkend screeningsresultaat is vastgesteld:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats en het adres;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres en de toestemming van de persoon om het e-mailadres te gebruiken in het kader van het bevolkingsonderzoek naar kanker;<br>
+c)&nbsp;&nbsp; &nbsp;het gsm- of telefoonnummer;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om de persoon te contacteren via de eBox, vermeld in artikel 2, 3°, van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox;<br>
+4°&nbsp;&nbsp; &nbsp;de resultaten van de screening, vermeld in paragraaf 4, eerste lid, 11°;<br>
+5°&nbsp;&nbsp; &nbsp;het advies over het voeren van een vervolgonderzoek;<br>
+6°&nbsp;&nbsp; &nbsp;de volgende gegevens over de uitvoering van het vervolgonderzoek, vermeld in punt 5°:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het type vervolgonderzoek;<br>
+b)&nbsp;&nbsp; &nbsp;de termijn waarin het vervolgonderzoek is uitgevoerd;<br>
+7°&nbsp;&nbsp; &nbsp;de volgende gegevens van de persoon die de screening uitvoert:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;naam en voornaam;<br>
+b)&nbsp;&nbsp; &nbsp;het adres;<br>
+c)&nbsp;&nbsp; &nbsp;het RIZIV-nummer;<br>
+8°&nbsp;&nbsp; &nbsp;de volgende gegevens van de GMD-houdende arts:<br>
+a)&nbsp;&nbsp; &nbsp;naam en voornaam;<br>
+b)&nbsp;&nbsp; &nbsp;het adres;<br>
+c)&nbsp;&nbsp; &nbsp;het RIZIV-nummer.<br>
+<br>
+§7. Om de bevolkingsonderzoeken naar kanker te evalueren en te monitoren, kunnen de volgende persoonsgegevens van personen uit de volledige doelgroep verwerkt worden:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;het rijksregisternummer of het identificatienummer van de Kruispuntbank, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de leeftijd;<br>
+3°&nbsp;&nbsp; &nbsp;het geslacht;<br>
+4°&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+5°&nbsp;&nbsp; &nbsp;de datums van de uitnodiging voor het bevolkingsonderzoek naar kanker;<br>
+6°&nbsp;&nbsp; &nbsp;de volgende gegevens over de deelname aan het bevolkingsonderzoek naar kanker:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;de datum van de screening;<br>
+b)&nbsp;&nbsp; &nbsp;de locatie van de screening;<br>
+c)&nbsp;&nbsp; &nbsp;het resultaat van de screening, vermeld in paragraaf 4, eerste lid, 11°;<br>
+7°&nbsp;&nbsp; &nbsp;de diagnoses die relevant zijn voor het type kanker waarop binnen het bevolkingsonderzoek naar kanker gescreend wordt;<br>
+8°&nbsp;&nbsp; &nbsp;bij een afwijkend screeningsresultaat, de volgende gegevens over de uitvoering van het vervolgonderzoek, vermeld in paragraaf 6, tweede lid, 5° en 6°:&nbsp;<br>
+a)&nbsp;&nbsp; &nbsp;het type vervolgonderzoek;<br>
+b)&nbsp;&nbsp; &nbsp;de termijn waarin het vervolgonderzoek is uitgevoerd;<br>
+9°&nbsp;&nbsp; &nbsp;de volgende immunisatiegegevens:<br>
+a)&nbsp;&nbsp; &nbsp;de datums van de immunisatie;<br>
+b)&nbsp;&nbsp; &nbsp;de immunisatiestatus die relevant is voor de kanker waarop gescreend wordt;<br>
+c)&nbsp;&nbsp; &nbsp;het soort preventief geneesmiddel dat is toegediend;<br>
+10°&nbsp;&nbsp; &nbsp;de vermelding of de deelnemer in aanmerking komt voor een verhoogde tegemoetkoming.<br>
+<br>
+De gegevens, vermeld in het eerste lid, 7°, worden voor het doeleinde, vermeld in het eerste lid, niet geregistreerd in het registratiesysteem, vermeld in paragraaf 2, tweede lid, met uitzondering van:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;gegevens over in situ kankers die werden gediagnosticeerd bij deelnemers, met daarbij de vermelding of het een intervalkanker betreft of niet;<br>
+2° &nbsp;&nbsp; &nbsp;gegevens over invasieve kankers die werden gediagnosticeerd bij deelnemers, met daarbij de vermelding of het een intervalkanker betreft of niet.<br>
+<br>
+De administratie en de organisatie die het bevolkingsonderzoek naar kanker organiseert, nemen organisatorische en technische maatregelen om de toegang tot de gegevens, vermeld in het eerste lid, 7°, van de administratie en van de organisatie die het bevolkingsonderzoek naar kanker uitvoert, te beperken zodat ze alleen geanonimiseerde indicatoren op basis van de verwerking, vermeld in het eerste lid, kunnen zien of berekenen, met uitzondering van de gegevens, vermeld in het tweede lid.<br>
+<br>
+§8. De gegevens, vermeld in dit artikel, kunnen verwerkt worden voor weten-schappelijke doeleinden na anonimisering of ten minste na pseudonimisering van de gegevens als anonimisering niet toelaat om het wetenschappelijke doeleinde te bereiken.<br>
+<br>
+In afwijking van het eerste lid, wordt onderzoek dat door of met voorafgaande toestemming van de verwerkingsverantwoordelijke, vermeld in paragraaf 11, en gevoerd wordt met het oog op de evaluatie of monitoring van de bevolkingson-derzoeken naar kanker, behandeld volgens hetgeen bepaald is in paragraaf 7.<br>
+<br>
+§9. De gegevens, vermeld in dit artikel, kunnen doorgegeven worden aan:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de Stichting Kankerregister als opgericht bij artikel 138 van de Gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgbe-roepen;<br>
+2°&nbsp;&nbsp; &nbsp;de deelnemer;<br>
+3°&nbsp;&nbsp; &nbsp;de GMD-houdende arts, de aangewezen arts en de doorverwijzende arts.<br>
+<br>
+§10. De gegevens van personen die deel uitmaken van de volledige doelgroep en van personen die binnen een jaar deel uit zullen maken van de volledige doelgroep, maar die niet hebben deelgenomen aan de bevolkingsonderzoeken naar kanker, worden maximaal bewaard tot tien jaar nadat ze niet langer deel uitmaken van de volledige doelgroep.<br>
+<br>
+De gegevens van de deelnemers en de GMD-houdende arts, de doorverwij-zende arts en de aangewezen arts van de deelnemer worden maximaal bewaard tot dertig jaar na de laatste deelname aan het bevolkingsonderzoek naar kanker en minstens tot tien jaar nadat ze niet langer deel uitmaken van de volledige doelgroep.<br>
+<br>
+In afwijking van het eerste en tweede lid, worden de gegevens, vermeld in paragraaf 7, tweede lid, maximaal bewaard tot tien jaar na registratie.<br>
+<br>
+§11. De administratie is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, voor de verwerking van persoonsgegevens in het kader van dit artikel. Als een organisatie op basis van een beheersovereenkomst het bevolkingsonderzoek naar kanker organiseert, zijn die organisatie en de administratie gezamenlijke verwerkingsverantwoordelijken als vermeld in artikel 26 van de voormelde verordening, voor de verwerking van persoonsgegevens, vermeld in dit artikel.<br>
+<br>
+De Vlaamse Regering kan bepalen welke technische en organisatorische maatregelen de verwerkingsverantwoordelijke, vermeld in het eerste lid, moet treffen om de persoonsgegevens te beschermen conform artikel 32 van de algemene verordening gegevensbescherming.
+
 ### ART. 69.
 
 De Vlaamse regering neemt initiatieven ter preventie van psychische aandoeningen. Die initiatieven kunnen onder meer betrekking hebben op:<br>
@@ -1217,6 +1629,13 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 5°/1 &nbsp;&nbsp; &nbsp;geanonimiseerd rapporteren van de infectieziekten, vermeld in artikel 44, §3, 4°;<br>
 6° infectieziekten melden als vermeld in artikel 45, §1;<br>
 7° aanvullende informatie meedelen aan de ambtenaar-arts en de ambtenaar, zoals bedoeld in artikel 48.<br>
+<br>
+§1/1. Er kan een administratieve geldboete van minimaal 100 euro en maximaal 1000 euro opgelegd worden aan de volgende personen die de verplichting tot medewerking aan het onderzoek, vermeld in artikel 45/2, §1, niet naleven en daardoor het bron- en contactonderzoek belemmeren:<br>
+1°&nbsp;&nbsp; &nbsp;geïnfecteerde personen;<br>
+2°&nbsp;&nbsp; &nbsp;personen die in contact zijn gekomen met de geïnfecteerde persoon of een andere bron van de besmetting;<br>
+3°&nbsp;&nbsp; &nbsp;personen die verantwoordelijk zijn voor de plaatsen waar of activiteiten waarbij de geïnfecteerde persoon in contact is gekomen met andere personen die daardoor mogelijk ook besmet zijn met de infectieziekte, of waarbij personen in contact zijn gekomen met een andere besmettingsbron en daardoor mogelijk ook besmet zijn met de infectieziekte.<br>
+<br>
+De administratieve geldboete, vermeld in het eerste lid, wordt pas opgelegd nadat de ambtenaar-arts het belang van het meewerken aan het onderzoek heeft toegelicht.<br>
 <br>
 § 2. Het bedrag van de opgelegde administratieve geldboete wordt door de administratie soeverein bepaald, rekening houdend met de ernst van de inbreuken op de bepalingen.<br>
 <br>
