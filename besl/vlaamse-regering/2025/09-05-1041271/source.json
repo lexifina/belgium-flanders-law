@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041271,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot bepaling van de criteria voor de deelname aan en de uitsluiting van de bevolkingsonderzoeken naar kanker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041271/VolledigDocument?datum=2026-01-15",
+  "source_sha256": "a0454f953ef99f54b6f59e353cbf82717c24ebd5861e6cb597191b6da7af3fee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041271&param=informatie",
+  "as_of": "2026-01-15",
+  "made": "2025-09-05",
+  "gazette": "2025-10-02",
+  "numac": 2025007168,
+  "document_start": "2026-01-15",
+  "document_end": null,
+  "in_force": "2026-01-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2026-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
