@@ -27,12 +27,39 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:&nbsp;<br>
-1° ambtenaren: de ambtenaren, vermeld in artikel 44, §3, 3°, van het decreet van 21 november 2003;<br>
+1° ambtenaren: de ambtenaren, vermeld in artikel 40 en artikel 44, §3, 3° en 5°, van het decreet van 21 november 2003;<br>
 2° ambtenaar-arts: een ambtenaar-arts als vermeld in artikel 44, §3, 2°, van het decreet van 21 november 2003;<br>
 3° decreet van 21 november 2003: het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
 4° Departement Zorg: het Departement Zorg, vermeld in artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg;<br>
+4°/1 immunisatieschema: het immunisatieschema, vermeld in artikel 43, §1, van het decreet van 21 november 2003;<br>
 5° melding: de melding, vermeld in artikel 45, §1, van het decreet van 21 november 2003;<br>
-6° minister: de Vlaamse minister, bevoegd voor de gezondheids- en woonzorg.
+6° minister: de Vlaamse minister, bevoegd voor de zorg;<br>
+7° toediener: een toediener als vermeld in artikel 2, 29°, van het decreet van 21 november 2003.
+
+### ART 1/1.
+
+De preventieve geneesmiddelen, vermeld in artikel 43, §5, van het decreet van 21 november 2003, waarop de bepalingen van dat decreet van toepassing zijn, zijn:<br>
+1° alle vaccins die gericht zijn op het voorkomen van een ziekte of aandoening die veroorzaakt wordt door een specifieke biotische factor;<br>
+2° antilichamen die gericht zijn op het voorkomen van een ziekte of aandoening die veroorzaakt wordt door een specifieke biotische factor, met uitzondering van antilichamen die toegediend worden naar aanleiding van bekende of vermoede immuunstoornissen;<br>
+3° profylactische geneesmiddelen die gericht zijn op het voorkomen van een ziekte of aandoening die veroorzaakt wordt door een specifieke biotische factor, die toegediend worden aan personen die in contact zijn gekomen met een geïnfecteerde persoon of met een andere bron van besmetting.
+
+### ART 1/2.
+
+De minister bepaalt het immunisatieschema.<br>
+<br>
+Een vaccinatieschema is een immunisatieschema, of een onderdeel daarvan, dat alleen bestaat uit vaccinaties.
+
+### ART 1/3.
+
+In dit artikel wordt verstaan onder immunisatieprogramma: de immunisaties uit het immunisatieschema waarvoor een maximale immunisatiegraad nagestreefd wordt en die de Vlaamse Gemeenschap gratis ter beschikking stelt aan de toedieners.<br>
+<br>
+De minister bepaalt het immunisatieprogramma.&nbsp;<br>
+<br>
+Een vaccinatieprogramma is een immunisatieprogramma, of een onderdeel daarvan, dat alleen bestaat uit vaccinaties.
+
+### ART 1/4.
+
+De minister bepaalt welke immunisaties die geen deel uitmaken van het immunisatieschema conform artikel 43/1, §2, derde lid, van het decreet van 21 november 2003 door de toedieners geregistreerd moeten worden in het registratiesysteem, vermeld in artikel 43/1, §2, eerste lid, van het decreet van 21 november 2003.
 
 ### ART 2.
 
@@ -50,14 +77,11 @@ De eventuele schriftelijke melding met de post, vermeld in het tweede lid, gebeu
 <br>
 §2. Als de persoon die de infectie moet melden, van oordeel is dat de maatregelen die genomen moeten worden, van die aard zijn dat ze een onmiddellijke aanpak of coördinatie vergen, wordt de infectie onmiddellijk telefonisch of mondeling gemeld.&nbsp;<br>
 <br>
-§3. Bij een telefonische of een mondelinge melding als vermeld in paragraaf 2, bevestigt de melder, als de ambtenaar-arts of een ambtenaar daarom verzoekt, de melding op een beveiligde elektronische wijze of via de post als vermeld in paragraaf 1.
+§3. Bij een telefonische of een mondelinge melding als vermeld in paragraaf 2, bevestigt de melder, als de ambtenaar-arts of een ambtenaar als vermeld in artikel 44, §3, 3°, van het decreet van 21 november 2003, daarom verzoekt, de melding op een beveiligde elektronische wijze of via de post als vermeld in paragraaf 1.
 
 ### ART 4.
 
-In afwijking van artikel 45, §2, derde lid, van het decreet van 21 november 2003 kan een ambtenaar in de volgende gevallen op de hoogte worden gebracht van een melding en kan een melding behandeld worden door een ambtenaar, onder de verantwoordelijkheid van een ambtenaar-arts:<br>
-1° als er geen ambtenaar-arts beschikbaar is in de periode waarin de melding gedaan moet zijn;&nbsp;<br>
-2° als de melder van oordeel is dat de melding niet kan wachten tot een ambtenaar-arts beschikbaar is;<br>
-3° als het aantal meldingen de capaciteit van de ambtenaren-artsen overstijgt.
+...
 
 ### ART 5.
 
@@ -75,7 +99,7 @@ Binnen de bewaartermijnen, vermeld in artikel 45, §4, tweede en derde lid, van 
 
 ### ART 7.
 
-Ter uitvoering van artikel 44, §3, 2° en 3°, van het decreet van 21 november 2003 wijst de minister de ambtenaren-artsen en de ambtenaren aan.
+Ter uitvoering van artikel 40 en artikel 44, §3, 2°, 3° en 5°,&nbsp;van het decreet van 21 november 2003 wijst de minister de ambtenaren-artsen en de ambtenaren aan.
 
 ### ART 8.
 
