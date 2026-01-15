@@ -26,7 +26,7 @@ In dit besluit wordt verstaan onder :<br>
 14°/1 secretaris-generaal: het hoofd van de administratie;<br>
 15° toestel voor digitale screeningsmammografie : een functioneel geheel van onderdelen dat gebruikt wordt voor digitale screeningsmammografieën en dat bestaat uit een onderdeel beeldverwerving en -verwerking en een onderdeel beeldweergave;<br>
 16° typetoelating : de goedkeuring door de Vlaamse werkgroep van de onderdelen beeldverwerving of -verwerking en beeldweergave van een toestel voor digitale screeningsmammografie;<br>
-17° Vlaams bevolkingsonderzoek naar borstkanker : het bevolkingsonderzoek naar borstkanker namens de Vlaamse Regering;<br>
+17° Vlaams bevolkingsonderzoek naar borstkanker : het bevolkingsonderzoek naar borstkanker dat conform artikel 31, §1, van het decreet van 21 november 2003 in opdracht van de Vlaamse Regering georganiseerd wordt;<br>
 18° Vlaamse werkgroep : de Vlaamse werkgroep Bevolkingsonderzoek naar borstkanker, opgericht ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid;<br>
 19° Zorginspectie: Zorginspectie als vermeld in artikel 4, §2, derde lid, van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg.
 
