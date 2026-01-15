@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 1 december 1998 betreff
 
 ### ART. 1.
 
-Ter uitvoering van artikel 43, § 1, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en artikel 18, 2°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, bepaalt de Vlaamse minister, bevoegd voor het Gezondheidsbeleid, het vaccinatieschema. Voor vaccinaties met impact op de centra voor leerlingenbegeleiding wordt het vaccinatieschema bepaald na overleg met de centrumnetten. Met het begrip "centrumnetten" wordt bedoeld de centra vermeld in artikel 2, 6°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding.<br /><br />Het vaccinatieschema, vermeld in artikel 43, § 1, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, bepaalt de aanbevolen vaccinaties en de doelgroepen voor vaccinatie in Vlaanderen. <br /><br />
+Als het immunisatieschema, vermeld in artikel 1/2 van het besluit van de Vlaamse Regering van 12 januari 2024 over initiatieven met betrekking tot biotische factoren betrekking heeft op vaccinaties met een impact op de centra voor leerlingenbegeleiding, wordt een vaccinatieschema bepaald na overleg met de centrumnetten, vermeld in artikel 2, 4°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding.
 
 ### ART. 2.
 
