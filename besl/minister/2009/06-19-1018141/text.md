@@ -54,4 +54,4 @@ Ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 12 janu
 
 ### ART. 2.
 
-De secretaris-generaal van het Departement Zorg wijst de ambtenaren-artsen en de ambtenaren aan, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 19 juni 2009 betreffende initiatieven om uitbreiding van schadelijke effecten, die veroorzaakt zijn door biotische factoren, tegen te gaan.
+De bevoegdheid om ter uitvoering van artikel 40 en 44, §3, 2°, 3° en 5°, van het decreet van 21 november 2003 de ambtenaren-artsen en de ambtenaren aan te wijzen, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 12 januari 2024 over initiatieven met betrekking tot biotische factoren, wordt gedelegeerd aan de secretaris-generaal van het Departement Zorg.
