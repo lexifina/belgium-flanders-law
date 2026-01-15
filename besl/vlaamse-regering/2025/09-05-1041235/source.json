@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041235,
+  "title": "Besluit van de Vlaamse Regering van 2025-09-05 tot wijziging van de regelgeving over biotische factoren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041235/VolledigDocument?datum=2026-01-15",
+  "source_sha256": "915c696a25ba8d225d6bc2c17be9b6cba4909ea069fd41ab2eeb85ac13992d00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041235&param=informatie",
+  "as_of": "2026-01-15",
+  "made": "2025-09-05",
+  "gazette": "2025-09-24",
+  "numac": 2025006781,
+  "document_start": "2026-01-15",
+  "document_end": null,
+  "in_force": "2026-01-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2026-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
