@@ -18,7 +18,9 @@ De directieraad van het VEKA is samengesteld uit de volgende personen:<br>
 4° Tom Van Laere;<br>
 5° Tine Tanghe;<br>
 6° Nadine Dufait;<br>
-7° Ivan Stuer.
+7° Ivan Stuer;<br>
+8° Niels De Schampheleire;<br>
+9° Lotte Ringoot.
 
 ### ART. 3.
 
