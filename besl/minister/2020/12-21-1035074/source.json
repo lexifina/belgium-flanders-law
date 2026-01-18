@@ -2,16 +2,16 @@
   "codex_id": 1035074,
   "title": "Ministerieel besluit van 2020-12-21 houdende de vaststelling van een soortenbeschermingsprogramma voor het vliegend hert (Lucanus cervus)",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035074/VolledigDocument?datum=2021-01-28",
-  "source_sha256": "705cc76e1ab7694a549a4646e87b1a84b0109b0150e210ccffca3e949a39460a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035074/VolledigDocument?datum=2026-01-18",
+  "source_sha256": "f1f708a5eb6149965983446bf2fbbdb968100aa6161a1259be557a50dad7f6ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035074&param=informatie",
-  "as_of": "2021-01-28",
+  "as_of": "2026-01-18",
   "made": "2020-12-21",
   "gazette": "2021-01-18",
   "numac": 2021030011,
   "document_start": "2021-01-28",
   "document_end": "2026-01-17",
-  "in_force": "2021-01-28",
+  "in_force": "2026-01-18",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2021-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-18; future article versions excluded; article text as the API gives it"
 }
