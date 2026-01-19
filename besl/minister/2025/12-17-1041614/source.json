@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041614,
+  "title": "Ministerieel besluit van 2025-12-17 tot vaststelling van de locatie van het toelatingsexamen arts, het toelatingsexamen tandarts en het toelatingsexamen dierenarts in 2026",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041614/VolledigDocument?datum=2026-01-19",
+  "source_sha256": "607ddf8ff9d1e0cd9be48b82b155f6e70ff435cf64efa816d18bc904e344dc4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041614&param=informatie",
+  "as_of": "2026-01-19",
+  "made": "2025-12-17",
+  "gazette": "2026-01-09",
+  "numac": 2025009761,
+  "document_start": "2026-01-19",
+  "document_end": null,
+  "in_force": "2026-01-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
