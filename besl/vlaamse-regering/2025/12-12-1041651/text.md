@@ -39,3 +39,11 @@ In artikel 4 van het besluit van de Vlaamse Regering van 3 september 2021 tot op
 &nbsp; a) de erkenning en subsidiëring van voorzieningen die erkend zijn voor delictgerichte contextbegeleiding als vermeld in artikel 16 van het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
 &nbsp; b) de opdrachten van de sociale dienst, vermeld in artikel 2, 21°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 19° de herstelgerichte en constructieve dialoog tussen slachtoffer, dader en/of andere betrokkenen organiseren.”.
+
+### ART 3.
+
+Artikel 1 en 2, 2°, treden in werking op 1 januari 2026.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor justitie en handhaving, en de Vlaamse minister, bevoegd voor opgroeien, zijn, ieder wat de eigen bevoegdheid betreft, belast met de uitvoering van dit besluit.
