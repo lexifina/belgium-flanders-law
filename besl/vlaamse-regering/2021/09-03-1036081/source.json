@@ -2,16 +2,16 @@
   "codex_id": 1036081,
   "title": "Besluit van de Vlaamse Regering van 2021-09-03 tot oprichting van het intern verzelfstandigd agentschap \"Agentschap Justitie en Handhaving\"",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036081/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "17aca7947b5d0e8d8cc37dfae8eb12c21243b0f25b11eb49692189760bdf3e09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036081/VolledigDocument?datum=2026-01-19",
+  "source_sha256": "22c9f3919f8428b7317efcd6575c01f5daa1c6f186ec618949cbb66cf197ce83",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036081&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-01-19",
   "made": "2021-09-03",
   "gazette": "2021-09-27",
   "numac": 2021033123,
   "document_start": "2022-01-01",
   "document_end": null,
-  "in_force": "2026-01-01",
+  "in_force": "2026-01-19",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-19; future article versions excluded; article text as the API gives it"
 }
