@@ -2385,6 +2385,12 @@ Het krediet wordt onder de schoolraden, raden van bestuur en bij ontstentenis hi
 
 De centrale raad, de lokale schoolraden, de raden van bestuur en, bij ontstentenis hiervan, de scholen of centra van het gemeenschapsonderwijs alsmede de schoolbesturen van het gesubsidieerd onderwijs kunnen voor de aanschaf van uitrustingsapparatuur leningsovereenkomsten en leasingsovereenkomsten aangaan bij de door de Vlaamse Regering daartoe erkende financiële instellingen.
 
+## Hoofdstuk 4 Verdeling van de middelen voor asbestverwijdering
+
+### ART IX.6.
+
+De budgetten die worden vrijgemaakt om asbesthoudende en asbestverdachte materialen te verwijderen in gebouwen die bestemd zijn voor onderwijs worden verdeeld via de verdeelsleutel, vermeld in artikel IX.1, §1, toegekend aan het Agentschap voor Infrastructuur in het Onderwijs en het Gemeenschapsonderwijs.
+
 ## DEEL X ORGANISATIE GEMEENSCHAPSONDERWIJS
 
 ## Hoofdstuk 1 Personeel
