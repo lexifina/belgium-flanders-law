@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041603,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-05 tot wijziging van het koninklijk besluit van 10 augustus 1998 houdende vaststelling van de normen waaraan een functie \"mobiele urgentiegroep\" (MUG) moet voldoen om te worden erkend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041603/VolledigDocument?datum=2026-01-19",
+  "source_sha256": "cc2ebfbbbeda24996c20794e5e2d05796f4cbd758afa286ea761098d4d4fc227",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041603&param=informatie",
+  "as_of": "2026-01-19",
+  "made": "2025-12-05",
+  "gazette": "2026-01-09",
+  "numac": 2025009702,
+  "document_start": "2026-01-19",
+  "document_end": null,
+  "in_force": "2026-01-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
