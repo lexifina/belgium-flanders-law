@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041718,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-21 tot wijziging van het besluit van de Vlaamse Regering van 30 september 2024 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041718/VolledigDocument?datum=2026-01-21",
+  "source_sha256": "92eb0171be8b43346ae93df55db5fadaeb9c0931d488545452aa08ae14214aa2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041718&param=informatie",
+  "as_of": "2026-01-21",
+  "made": "2026-01-21",
+  "gazette": "2026-01-27",
+  "numac": 2026000635,
+  "document_start": "2026-01-21",
+  "document_end": null,
+  "in_force": "2026-01-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
