@@ -56,16 +56,16 @@ Hij draagt de titel "Vlaams minister van Economie, Innovatie en Industrie, Buite
 
 ### ART 3.
 
-§1. Mevrouw Melissa Depraetere, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
+§1. De heer Hans Bonte, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
 1° &nbsp;het beleidsveld Wonen, vermeld in artikel 13 van het organisatiebesluit;<br>
 2° &nbsp;het beleidsveld Energie, vermeld in artikel 13 van het organisatiebesluit;<br>
 3° het beleidsveld Klimaat, vermeld in artikel 13 van het organisatiebesluit;<br>
 4° het beleidsveld Toerisme, vermeld in artikel 3 van het organisatiebesluit;<br>
 5° het beleidsveld Jeugd, vermeld in artikel 9 van het organisatiebesluit.<br>
-<br>
-Zij draagt de titel "Vlaams minister van Wonen, Energie en Klimaat, Toerisme en Jeugd".<br>
-<br>
-§2. Mevrouw Melissa Depraetere is bevoegd voor het bestuur van of het toezicht op de volgende instanties:&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Hij draagt de titel "Vlaams minister van Wonen, Energie en Klimaat, Toerisme en Jeugd".<br>
+&nbsp;&nbsp; &nbsp;<br>
+§2. De heer Hans Bonte is bevoegd voor het bestuur van of het toezicht op de volgende instanties:&nbsp;<br>
 1° Wonen in Vlaanderen;<br>
 2° Vlaamse Maatschappij voor Sociaal Wonen;<br>
 3° Vlaams Energie- en Klimaatagentschap;<br>
@@ -222,6 +222,10 @@ Zij draagt de titel "Vlaams minister van Brussel en Media".<br>
 3° Agentschap Binnenlands Bestuur, met dien verstande dat deze bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenland, Steden- en Plattelandsbeleid, Samenleven, Integratie en Inburgering, Bestuurszaken, Sociale Economie en Zeevisserij, de Vlaamse minister van Begroting en Financiën, Vlaamse Rand, Onroerend Erfgoed en Dierenwelzijn, en de Vlaamse minister van Welzijn en Armoedebestrijding, Cultuur en Gelijke Kansen;<br>
 4° Vlaamse Regulator voor de Media;<br>
 5° Vlaamse Radio- en Televisieomroep (VRT).
+
+### ART 10/1.
+
+Mevrouw Melissa Depraetere is, tijdens de periode van haar onbeschikbaarheid, minister zonder portefeuille.
 
 ### ART 11.
 
