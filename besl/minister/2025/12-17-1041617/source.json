@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041617,
+  "title": "Ministerieel besluit van 2025-12-17 tot vaststelling van de lijst voor het jaar 2026 met generieke afwijkingen van het verbod op het gebruik van pesticiden in uitvoering van artikel 5, paragraaf 2, van het besluit van de Vlaamse Regering van 15 maart 2013 houdende nadere regels inzake duurzaam gebruik van pesticiden in het Vlaamse Gewest voor niet-land- en tuinbouwactiviteiten en de opmaak van het Vlaams Actieplan Duurzaam Pesticidengebruik",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041617/VolledigDocument?datum=2026-01-22",
+  "source_sha256": "37a9736cf5d84f693ceb3c6e5b08b793ca7b32857c9e8c5ec8053144e84e8c98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041617&param=informatie",
+  "as_of": "2026-01-22",
+  "made": "2025-12-17",
+  "gazette": "2026-01-12",
+  "numac": 2025009808,
+  "document_start": "2026-01-22",
+  "document_end": null,
+  "in_force": "2026-01-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
