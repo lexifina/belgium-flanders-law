@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041656,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-05 tot subsidiëring voor het jaar 2026 van het Huis van het Kind Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041656/VolledigDocument?datum=2026-01-23",
+  "source_sha256": "771b3f5503d7936faea700d2be9aefd1b9daa9c10f39564db31477c1d2a3f091",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041656&param=informatie",
+  "as_of": "2026-01-23",
+  "made": "2025-12-05",
+  "gazette": "2026-01-13",
+  "numac": 2025010034,
+  "document_start": "2026-01-23",
+  "document_end": null,
+  "in_force": "2026-01-23",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2026-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
