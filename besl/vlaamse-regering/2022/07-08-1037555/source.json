@@ -2,16 +2,16 @@
   "codex_id": 1037555,
   "title": "Besluit van de Vlaamse Regering van 2022-07-08 tot uitvoering van het Cultureelerfgoeddecreet van 23 december 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037555/VolledigDocument?datum=2022-11-07",
-  "source_sha256": "ac31c513310441fca7322297aa662adc1d94cf8e639bdf6c128a5c52a582ccba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037555/VolledigDocument?datum=2026-01-24",
+  "source_sha256": "b4af47c4ef380bb2f14ec215b451fb9b3f7a4b53becb21bd81deb51cf9ce66bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037555&param=informatie",
-  "as_of": "2022-11-07",
+  "as_of": "2026-01-24",
   "made": "2022-07-08",
   "gazette": "2022-10-28",
   "numac": 2022033165,
   "document_start": "2022-11-07",
   "document_end": null,
-  "in_force": "2022-11-07",
+  "in_force": "2026-01-24",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2022-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-01-24; future article versions excluded; article text as the API gives it"
 }

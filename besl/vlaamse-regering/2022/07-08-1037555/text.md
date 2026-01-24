@@ -32,6 +32,7 @@ DE VLAAMSE REGERING BESLUIT :
 In dit besluit wordt verstaan onder:<br>
 1° administratie: het Departement Cultuur, Jeugd en Media, vermeld in artikel 24, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° beoordelingscommissie: een beoordelingscommissie als vermeld in artikel 80, eerste lid, van het Cultureelerfgoeddecreet van 23 december 2021;<br>
+2°/1 bestemd fonds voor sociaal passief: boekhoudkundige reserve van een deel van het eigen vermogen van een rechtspersoon om toekomstige sociale verplichtingen, zoals ontslagkosten, te dekken.<br>
 3° feitelijke onjuistheden: elementen in een advies waarvan ondubbelzinnig kan aangetoond worden dat ze gebaseerd zijn op foutieve, onvolledige of verkeerd geïnterpreteerde informatie;<br>
 4° financiële verantwoording: een verantwoording waarin wordt aangetoond welke kosten zijn gemaakt voor de uitvoering van de activiteit waarvoor de subsidie is toegekend, en welke opbrengsten de subsidieontvanger in het kader van die activiteit heeft verworven uit de activiteit zelf of uit andere bronnen;<br>
 5° functionele verantwoording: een inhoudelijke verantwoording waarin wordt aangetoond dat, en eventueel in welke mate, de activiteit waarvoor de subsidie is toegekend, uitgevoerd is;<br>
@@ -717,9 +718,30 @@ De administratie kan alle initiatieven nemen die ze nodig acht voor de uitoefeni
 
 ### ART 62.
 
-Bij het jaarlijks toezicht, vermeld in artikel 61, stelt de administratie de reserves vast die ten laste van subsidies zijn aangelegd.<br>
+§1. Bij het jaarlijkse toezicht, vermeld in artikel 61, stelt de administratie de reserves vast die met werkingssubsidies zijn aangelegd.<br>
 <br>
-Na afloop van de beleidsperiode worden de reserves, vermeld in het eerste lid, die niet voldoen aan de bepalingen van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019, ingehouden of teruggestort aan de Vlaamse overheid.
+Om de reserves te bepalen, gelden de volgende voorwaarden:<br>
+1° de reserveaanleg op jaarbasis is het bedrag dat resteert van de werkingssubsidies die op jaarbasis toegekend zijn, na aftrek van de kosten die in dat jaar gemaakt zijn om de doelstellingen te realiseren waarvoor de werkingssubsidies zijn toegekend;<br>
+2° de gecumuleerde reserve is de som van de aangelegde reserves op jaarbasis.<br>
+<br>
+De reserves, vermeld in het eerste lid, respecteren de percentages, vermeld in artikel 72, §1, eerste en tweede lid, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.&nbsp;<br>
+<br>
+§2. Binnen de reserves, vermeld in paragraaf 1, eerste lid, kan de organisatie met de werkingssubsidie een bestemd fonds voor een sociaal passief aanleggen als al de volgende voorwaarden vervuld zijn:<br>
+1° de aanleg van een bestemd fonds voor een sociaal passief is toegestaan voor zover personeelskosten als subsidiabel worden beschouwd onder de bepalingen van het betreffende subsidiebesluit;<br>
+2° de aanleg van het bestemd fonds voor een sociaal passief staat in verhouding tot de gesubsidieerde personeelskosten en de reële arbeidsrechtelijke verplichtingen van de organisatie;<br>
+3° de gecumuleerde reserve voor het sociaal passief die is aangelegd met de subsidie, bedraagt niet meer dan 50% van het subsidiebedrag van de werkingsperiode die het laatst is gesubsidieerd.<br>
+<br>
+Een organisatie kan het sociaal passief, vermeld in het eerste lid, na goedkeuring van de administratie overdragen naar de volgende beleidsperiode.<br>
+<br>
+§3. Een organisatie die na afloop van de beleidsperiode geen werkingssubsidie meer ontvangt, kan bij de administratie een gemotiveerd bestedingsplan ter goedkeuring indienen om het bestemd fonds voor een sociaal passief, vermeld in paragraaf 2, eerste lid, te besteden aan haar arbeidsrechtelijke verplichtingen.<br>
+<br>
+Een bestedingsplan als vermeld in het eerste lid, wordt ingediend uiterlijk negentig dagen nadat de administratie de organisatie heeft ingelicht over de stopzetting van de werkingssubsidie.<br>
+<br>
+De administratie beoordeelt het bestedingsplan, vermeld in het eerste lid, op basis van de voorwaarden, vermeld in paragraaf 2, eerste lid, 2°, en keurt op basis daarvan het bestedingsplan niet, gedeeltelijk of volledig goed.<br>
+<br>
+Als de administratie een bestedingsplan als vermeld in het eerste lid, niet of gedeeltelijk goedkeurt, of als die organisatie geen bestedingsplan indient, wordt het niet-goedgekeurde bedrag van het sociaal passief, vermeld in paragraaf 2, eerste lid, teruggestort aan de Vlaamse Gemeenschap.<br>
+<br>
+§4. De andere reserves dan deze bestemd voor een sociaal passief respecteren artikel 72, §2 en §3, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.
 
 ## Onderafdeling 6. Evaluatie van de uitvoering van de subsidieovereenkomst of het cultureelerfgoedconvenant
 
