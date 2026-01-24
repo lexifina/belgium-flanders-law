@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041658,
+  "title": "Decreet van 2025-12-19 tot wijziging van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, wat betreft de verwerking van persoonsgegevens, de aanvraag van een persoonsvolgend budget, de samenloop van procedures en de verplichting om een uittreksel uit het strafregister voor te leggen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041658/VolledigDocument?datum=2026-01-24",
+  "source_sha256": "c6da367a27584d0e46cfd9985c613f653facdea296e055641d64e4530061f7c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041658&param=informatie",
+  "as_of": "2026-01-24",
+  "made": "2025-12-19",
+  "gazette": "2026-01-14",
+  "numac": 2026000028,
+  "document_start": "2026-01-24",
+  "document_end": null,
+  "in_force": "2026-01-24",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
