@@ -2,16 +2,16 @@
   "codex_id": 1036080,
   "title": "Besluit van de Vlaamse Regering van 2021-07-16 tot uitvoering van het Kunstendecreet van 23 april 2021",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036080/VolledigDocument?datum=2022-01-01",
-  "source_sha256": "07a472e91f3822268c1f7a1ebfbccd537171100cbb28c7eac7602474b5fa2918",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036080/VolledigDocument?datum=2026-01-24",
+  "source_sha256": "f6da00287a87fd6eb3ff1b31096bd32890a01bf19ec34ccd2fc21fc7162a943e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036080&param=informatie",
-  "as_of": "2022-01-01",
+  "as_of": "2026-01-24",
   "made": "2021-07-16",
   "gazette": "2021-09-27",
   "numac": 2021033033,
   "document_start": "2022-01-01",
   "document_end": null,
-  "in_force": "2022-01-01",
-  "article_versions": 86,
-  "record_form": "consolidated version as in force on 2022-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-01-24",
+  "article_versions": 87,
+  "record_form": "consolidated version as in force on 2026-01-24; future article versions excluded; article text as the API gives it"
 }

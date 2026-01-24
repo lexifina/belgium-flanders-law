@@ -31,6 +31,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° adviescommissie: de Adviescommissie Kunsten, vermeld in artikel 84 van het Kunstendecreet van 23 april 2021;<br>
+1°/1 bestemd fonds voor sociaal passief: boekhoudkundige reserve van een deel van het eigen vermogen van een rechtspersoon om toekomstige sociale verplichtingen, zoals ontslagkosten, te dekken.<br>
 2° beurs bewezen talent: de beurs bewezen talent, vermeld in artikel 28 tot en met 30 van het Kunstendecreet van 23 april 2021;<br>
 3° beurs opkomend talent: de beurs opkomend talent, vermeld in artikel 25 tot en met 27 van het Kunstendecreet van 23 april 2021;<br>
 4° deontologische code: het afsprakenkader dat experten en leden van de adviescommissie moeten volgen, waarin de onverenigbaarheden van het mandaat en de discretieregels bepaald worden;<br>
@@ -701,6 +702,33 @@ In het eerste lid wordt verstaan onder eigen opbrengsten: alle opbrengsten die i
 <br>
 De aanvullende voorwaarden, vermeld in het eerste lid, worden geacht te worden nageleefd, tenzij de ontvanger van de subsidie in het aanvraagdossier motiveert waarom deze aanvullende voorwaarden niet nageleefd kunnen worden. Een beslissing tot toekenning van de subsidie door de Vlaamse Regering houdt de goedkeuring van de niet-toepasselijkheid van deze voorwaarden op de ontvanger van de subsidie in.
 
+### ART 76/1.
+
+§1 Bij het jaarlijkse toezicht, vermeld in artikel 15 van het Kunstendecreet, stelt de administratie de reserves vast die met werkingssubsidies zijn aangelegd.<br>
+<br>
+Om de reserves te bepalen, gelden de volgende voorwaarden:<br>
+1° de reserveaanleg op jaarbasis is het bedrag dat resteert van de werkingssubsidies die op jaarbasis toegekend zijn, na aftrek van de kosten die in dat jaar gemaakt zijn om de doelstellingen te realiseren waarvoor de werkingssubsidies zijn toegekend;<br>
+2° de gecumuleerde reserve is de som van de aangelegde reserves op jaarbasis.<br>
+<br>
+De reserves, vermeld in het eerste lid, respecteren de percentages, vermeld in artikel 72, §1, eerste en tweede lid, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.&nbsp;<br>
+<br>
+§2. Binnen de reserves, vermeld in paragraaf 1, eerste lid, kan de organisatie met de werkingssubsidie een bestemd fonds voor een sociaal passief aanleggen als al de volgende voorwaarden vervuld zijn:<br>
+1° de aanleg van een bestemd fonds voor een sociaal passief is toegestaan voor zover personeelskosten als subsidiabel worden beschouwd onder de bepalingen van het betreffende subsidiebesluit;<br>
+2° de aanleg van het bestemd fonds voor een sociaal passief staat in verhouding tot de gesubsidieerde personeelskosten en de reële arbeidsrechtelijke verplichtingen van de organisatie;&nbsp;<br>
+3° de gecumuleerde reserve voor het sociaal passief die is aangelegd met de subsidie, bedraagt niet meer dan 50% van het subsidiebedrag van de werkingsperiode die het laatst is gesubsidieerd.<br>
+<br>
+Een organisatie kan het bestemd fonds voor een sociaal passief, vermeld in het eerste lid, na goedkeuring van de administratie overdragen naar de volgende beleidsperiode.<br>
+<br>
+§3. Een organisatie die na afloop van de beleidsperiode geen werkingssubsidie meer ontvangt, kan bij de administratie een gemotiveerd bestedingsplan ter goedkeuring indienen om haar toe te laten het sociaal passief, vermeld in paragraaf 2, eerste lid, te besteden aan haar arbeidsrechtelijke verplichtingen.<br>
+<br>
+Een bestedingsplan als vermeld in het eerste lid, wordt ingediend uiterlijk negentig dagen nadat de administratie de organisatie heeft ingelicht over de stopzetting van de werkingssubsidie.<br>
+<br>
+De administratie beoordeelt het bestedingsplan, vermeld in het eerste lid, op basis van de voorwaarde, vermeld in paragraaf 2, eerste lid, 2°, en keurt op basis daarvan het bestedingsplan niet, gedeeltelijk of volledig goed.<br>
+<br>
+Als de administratie een bestedingsplan als vermeld in het eerste lid, niet of gedeeltelijk goedkeurt, of als die organisatie geen bestedingsplan indient, wordt het niet-goedgekeurde bedrag van het sociaal passief, vermeld in paragraaf 2, eerste lid, teruggestort aan de Vlaamse Gemeenschap.<br>
+<br>
+§4. De andere reserves dan deze bestemd voor een sociaal passief respecteren artikel 72, §2 en §3, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.
+
 ### ART 77.
 
 Een kunstenorganisatie kan in haar aanvraagdossier voor een werkingssubsidie motiveren welke afwijking van artikel 72 van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019 nodig is voor het realiseren van haar werking, die bijzondere uitgaven in één of meerdere jaren van de beleidsperiode vereist.<br>
@@ -709,25 +737,11 @@ De minister legt een voorstel van beslissing voor aan de Vlaamse Regering om voo
 
 ### ART 78.
 
-§ 1. Een organisatie die na afloop van de beleidsperiode geen werkingssubsidie meer ontvangt, dient bij de administratie een gemotiveerd bestedingsplan in ter goedkeuring.<br>
-<br>
-Een bestedingsplan als vermeld in het eerste lid, bevat al de volgende informatie:<br>
-1° een qua tijd en doelstellingen toetsbare toelichting over de besteding van de volledige met subsidies aangelegde reserve gedurende de periode van twee jaar die volgt op de beleidsperiode;<br>
-2° een prioritering van de besteding om te voldoen aan de arbeidsrechtelijke verplichtingen.<br>
-<br>
-§ 2. Een kunstinstelling waarvan de erkenning wordt stopgezet, dient bij de administratie een gemotiveerd bestedingsplan in ter goedkeuring.<br>
-<br>
-Een bestedingsplan als vermeld in het eerste lid, bevat al de volgende informatie:<br>
-1° een qua tijd en doelstellingen toetsbare toelichting over de besteding van de verminderde werkingssubsidie gedurende de twee jaar na het aflopen van de beheersovereenkomst, vermeld in artikel 81, § 1;<br>
-2° een prioritering van de besteding om te voldoen aan de arbeidsrechtelijke verplichtingen.<br>
-<br>
-§ 3. Een bestedingsplan wordt ingediend uiterlijk drie maanden nadat de administratie de organisatie heeft ingelicht over het niet-verderzetten van de werkingssubsidie of de stopzetting van de erkenning.
+...
 
 ### ART 79.
 
-Als de administratie het bestedingsplan van de organisatie die na afloop van de beleidsperiode geen werkingssubsidie meer ontvangt, niet goedkeurt of als die organisatie geen bestedingsplan indient, wordt de met subsidies aangelegde reserve ingehouden of teruggestort aan de Vlaamse overheid.<br>
-<br>
-Als de administratie het bestedingsplan van de kunstinstelling waarvan de erkenning wordt stopgezet, niet goedkeurt of als de kunstinstelling geen bestedingsplan indient, wordt de verminderde werkingssubsidie, vermeld in artikel 81, § 1, tweede lid, niet uitbetaald.
+...
 
 ## Onderafdeling 2. Specifieke bepalingen voor kunstenorganisaties met een werkingssubsidie van twee beleidsperiodes
 
@@ -757,7 +771,7 @@ Als een aanvrager in één of twee beleidsperiodes voorafgaand aan de aanvraag e
 
 § 1. Als de Vlaamse Regering beslist tot de intrekking van een erkenning als kunstinstelling als vermeld in artikel 64 van het Kunstendecreet van 23 april 2021, brengt ze de kunstinstelling daarvan op de hoogte, uiterlijk zes maanden voor het aflopen van de beheersovereenkomst, vermeld in artikel 75 van het voormelde decreet.<br>
 <br>
-De erkenning eindigt twee jaar na afloop van de beheersovereenkomst. De instelling behoudt gedurende die twee jaar minstens 75% van de subsidie die volgens de afgelopen beheersovereenkomst jaarlijks ter beschikking is gesteld, op voorwaarde dat ze tijdig een bestedingsplan als vermeld in artikel 78, § 2, tweede lid, indient voor die periode van twee jaar.<br>
+De erkenning eindigt twee jaar na afloop van de beheersovereenkomst. De instelling behoudt gedurende die twee jaar minstens 75% van de subsidie die volgens de afgelopen beheersovereenkomst jaarlijks ter beschikking is gesteld, op voorwaarde dat ze tijdig een bestedingsplan als vermeld in artikel 76/1, § 3.<br>
 <br>
 § 2. De minister kan de termijnen voor de advies- en overlegprocedure voor de erkenning van kunstinstellingen nader bepalen.
 
