@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 
 In dit decreet wordt verstaan onder:<br>
 1° Vlaams bestuursrechtscollege: een van de volgende instanties:<br>
-a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en waaraan tevens bevoegdheden toegekend worden bij artikel 42, 46, 55, 68, 74 en 96 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en de decreten die het voormelde decreet van toepassing verklaren, overeenkomstig artikel 3, eerste lid, van het voormelde decreet;<br>
+a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en waaraan tevens bevoegdheden toegekend kunnen worden bij&nbsp;hoofdstuk 10, afdeling 13 en 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en de decreten die&nbsp;hoofdstuk 10, afdeling 13 of 14, van het voormelde decreet van toepassing verklaren, overeenkomstig artikel 3, eerste lid, van het voormelde decreet;<br>
 b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1 van de Vlaamse Codex Ruimtelijke Ordening en waaraan tevens bevoegdheden toegekend worden bij artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en artikel 43 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
 c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011;<br>
 d) de Raad voor betwistingen inzake studievoortgangsbeslissingen, opgericht bij artikel II.285 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
@@ -352,11 +352,11 @@ Het arrest van de Raad van State wordt door de zorg van de griffie   onmiddellij
 
 ### ART 31/0.
 
-De volgende personen kunnen tussenkomen in een hangende procedure bij het Handhavingscollege die een bestuurlijke herstelbeslissing als vermeld in artikel 2, 5°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, een bestuurlijke beveiligingsbeslissing als vermeld in artikel 2, 4°, van het voormelde decreet of een herstelschikking als vermeld in artikel 2, 16°, van het voormelde decreet, als voorwerp heeft:<br>
-1°&nbsp;&nbsp; &nbsp;de overtreder ten aanzien van wie de herstelbeslissing is genomen, in geval van een beroep dat conform artikel 74 van het voormelde decreet is ingesteld tegen een herstelbeslissing;<br>
-2°&nbsp;&nbsp; &nbsp;de personen ten aanzien van wie de bestuurlijke beveiligingsbeslissing is genomen, in geval van een beroep dat conform artikel 74 van het voormelde decreet is ingesteld tegen een bestuurlijke beveiligingsbeslissing;<br>
+Als de decreten, vermeld in artikel 2, 1°, a), van dit decreet, hoofdstuk 10, afdeling 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 van toepassing verklaren, kunnen de volgende personen tussenkomen in een hangende procedure bij het Handhavingscollege die een bestuurlijke herstelbeslissing als vermeld in artikel 2, 5°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, een bestuurlijke beveiligingsbeslissing als vermeld in artikel 2, 4°, van het voormelde decreet of een herstelschikking als vermeld in artikel 2, 16°, van het voormelde decreet, als voorwerp heeft:<br>
+1°&nbsp;&nbsp; &nbsp;de overtreder ten aanzien van wie de herstelbeslissing is genomen, in geval van een beroep dat conform artikel 102/2 van het voormelde decreet is ingesteld tegen een herstelbeslissing;<br>
+2°&nbsp;&nbsp; &nbsp;de personen ten aanzien van wie de bestuurlijke beveiligingsbeslissing is genomen, in geval van een beroep dat conform artikel 102/2 van het voormelde decreet is ingesteld tegen een bestuurlijke beveiligingsbeslissing;<br>
 3°&nbsp;&nbsp; &nbsp;de bevoegde overheid die in eerste aanleg heeft beslist over de betrokken beslissing;<br>
-4°&nbsp;&nbsp; &nbsp;de personen die de herstelschikking hebben vastgesteld, in geval van een beroep dat conform artikel 74 van het voormelde decreet is ingesteld tegen een herstelschikking;<br>
+4°&nbsp;&nbsp; &nbsp;de personen die de herstelschikking hebben vastgesteld, in geval van een beroep dat conform artikel 102/2 van het voormelde decreet is ingesteld tegen een herstelschikking;<br>
 5°&nbsp;&nbsp; &nbsp;derden die om de handhaving hebben verzocht overeenkomstig artikel 96 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 of die belang hebben bij de beslissing over de bestuurlijke herstel- of beveiligingsbeslissing of herstelschikking in kwestie.<br>
 <br>
 De Vlaamse Regering bepaalt de vervaltermijnen voor de tussenkomsten, vermeld in het eerste lid, die niet korter mogen zijn dan twintig dagen.
@@ -599,7 +599,7 @@ De Vlaamse Regering kan nadere regels bepalen voor de toepassing van de procedur
 
 <p>Als bij een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), conform artikel 40 een vordering tot schorsing of schorsing wegens uiterst dringende noodzakelijkheid aanhangig wordt gemaakt, kan het Vlaams bestuurs-rechtscollege, op verzoek, bij voorraad en onder de voorwaarden, vermeld in artikel 40, §1, §2 en §5, alle nodige maatregelen bevelen om de belangen van de partijen of van de personen die belang hebben bij de oplossing van de zaak veilig te stellen, met uitzondering van de maatregelen die betrekking hebben op de burgerlijke rechten.<br>
 <br>
-Indien het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, a), van oordeel is dat er redenen zijn om, conform artikel 40, over te gaan tot de schorsing van de tenuitvoerlegging van een bestuurlijke beveiligingsbeslissing als bedoeld in artikel 68 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, kan het, ambtshalve of op verzoek, beslissen om de beveiligingsbeslissing tijdelijk aan te passen.<br>
+Als de decreten, vermeld in artikel 2, 1° a), van dit decreet, hoofdstuk 10, afdeling 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 van toepassing verklaren en het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, a), van oordeel is dat er redenen zijn om, conform artikel 40, over te gaan tot de schorsing van de tenuitvoerlegging van een bestuurlijke beveiligingsbeslissing als bedoeld in artikel 102/2 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, kan het, ambtshalve of op verzoek, beslissen om de beveiligingsbeslissing tijdelijk aan te passen.<br>
 <br>
 Deze maatregelen worden, nadat de partijen gehoord zijn of behoorlijk zijn opgeroepen, bij een gemotiveerd arrest bevolen.<br>
 <br>
