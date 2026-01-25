@@ -181,7 +181,10 @@ Bij de opsporing van misdrijven handelt de toezichthouder in de hoedanigheid van
 <br>
 De Vlaamse Regering kan de aanwijzingsbevoegdheid vermeld in het eerste lid, 1° en 7°, delegeren.<br>
 <br>
-§3. De Vlaamse Regering kan opleidings- en ervaringsvereisten en andere voorwaarden bepalen waaraan categorieën van toezichthouders moeten voldoen.<br>
+§3. De Vlaamse Regering kan opleidings- en ervaringsvereisten en andere voorwaarden bepalen waaraan categorieën van toezichthouders moeten voldoen.&nbsp;De Vlaamse Regering kan de aanstelling als toezichthouder afhankelijk maken van een van de volgende elementen:<br>
+1° het volgen van een opleiding, die wordt georganiseerd door de Vlaamse administratie, vermeld in artikel I.3, eerste lid, 2°, van het Bestuursdecreet van 7 december 2018;<br>
+2° het volgen van een opleiding, die wordt verstrekt door instellingen die de Vlaamse Regering daarvoor erkend heeft, conform de regels die de Vlaamse Regering daarvoor bepaalt;<br>
+3° een bewijs van beroepskwalificatie als vermeld in artikel 8, eerste lid, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, die de Vlaamse Regering heeft erkend voor de uitoefening van het beroep als toezichthouder.<br>
 <br>
 De Vlaamse Regering kan de toezicht- en opsporingsopdracht van categorieën van toezichthouders inhoudelijk, geografisch of temporeel beperken, of hen de hoedanigheid van agent van gerechtelijke politie ontzeggen. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering de aanstelling als toezichthouders subsidiëren, of ondersteuning geven voor de opleiding en permanente vorming van die toezichthouders.<br>
 <br>
@@ -619,6 +622,12 @@ De sanctiebeslissing vermeldt de motieven waarop ze gegrond is, en in voorkomend
 <br>
 In de mate waarin niet wordt beslist tot verbeurdverklaring, beslist de beboetingsinstantie tot opheffing van het bestuurlijk beslag en wederinbezitstelling.
 
+### ART 42.
+
+De Raad van State oordeelt met volle rechtsmacht over het beroep tegen de administratieve eindbeslissing over de bestuurlijke vervolging. Het beroep schorst de beslissing.<br>
+<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft de Raad van State toegang tot het bestuurlijk sanctieregister, vermeld in artikel 77.
+
 ## Afdeling 4. De vereenvoudigde bestuurlijke sanctieprocedure
 
 ### ART 43.
@@ -646,6 +655,13 @@ De vermelding van de informatie, vermeld in het tweede lid, 2° en 3°, is niet 
 ### ART 45.
 
 De uitvoerbaarheid van de sanctiebeslissing blijft geschorst vanaf het tijdig aantekenen van het bezwaar tot de kennisgeving van de beslissing over het bezwaar.
+
+### ART 46.
+
+De Raad van State oordeelt met volle rechtsmacht over het beroep tegen de beslissing tot volledige of gedeeltelijke verwerping van het bezwaar, vermeld in artikel 44, §2, tweede lid. Het beroep schorst de beslissing.<br>
+<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft de Raad van State toegang tot het bestuurlijk sanctieregister.<br>
+&nbsp;
 
 ## Hoofdstuk 4. Herstel
 
@@ -750,6 +766,12 @@ Naast de motieven waarop ze gegrond is, vermeldt de beslissing in het voorkomend
 3° de toepasselijke hersteltermijnen, gefaseerd waar nodig;<br>
 4° de beroepsmogelijkheden;<br>
 5° de manier waarop verschuldigde bedragen moeten worden voldaan.
+
+### ART 55.
+
+De Raad van State oordeelt met volle rechtsmacht over het beroep tegen de administratieve eindbeslissing over het bestuurlijk herstel.<br>
+<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft de Raad van State toegang tot het bestuurlijk sanctieregister.
 
 ## Afdeling 3. Gerechtelijke herstelprocedure
 
@@ -926,6 +948,13 @@ Een afschrift van de bekrachtigingsbeslissing wordt binnen twee werkdagen met ee
 <br>
 Deze paragraaf is niet van toepassing op de beveiligingsbeslissingen, opgelegd door categorieën van toezichthouders die de Vlaamse Regering aanduidt, onder de voorwaarden die zij bepaalt.
 
+### ART 68.
+
+De Raad van State oordeelt met volle rechtsmacht over het beroep tegen de bestuurlijke beveiligingsbeslissing.<br>
+&nbsp;<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft de Raad van State toegang tot het bestuurlijk sanctieregister.<br>
+&nbsp;
+
 ## Afdeling 3. Gerechtelijke beveiligingsprocedure
 
 ### ART 69.
@@ -1009,6 +1038,12 @@ In afwijking van het eerste lid kan de Vlaamse Regering bepalen dat de opbrengst
 Voor de toepassing van het tweede lid, worden de inspanningen van de lokale politie en de intergemeentelijke samenwerkingsverbanden beschouwd als inspanningen, geleverd door de gemeenten.
 
 ## Hoofdstuk 7. Rechtsbescherming van derden
+
+### ART 74.
+
+De Raad van State oordeelt met volle rechtsmacht over het beroep van derden tegen beslissingen of herstelschikkingen die tot stand zijn gekomen, conform dit decreet.<br>
+<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft de Raad van State toegang tot het bestuurlijk sanctieregister.
 
 ### ART 75.
 
@@ -1376,6 +1411,30 @@ De waarborgsom, vermeld in het eerste lid, is gelijk aan de geraamde kosten van 
 Ingeval van verhindering van de regelmatige inzet van zijn toezichtrechten, kan de toezichthouder in een bestuurlijke beveiligingsbeslissing beslissen tot de volledige of gedeeltelijke staking van de gereglementeerde, gesubsidieerde of van overheidswege gefinancierde activiteiten of handelingen waarop het toezicht door de verhindering niet kon worden uitgeoefend.<br>
 <br>
 De toezichthouder waakt erover dat de inzet van deze bevoegdheid geen onevenredige schade berokkent bij de overtreder of derden. De bestuurlijke beveiligingsbeslissing wordt onmiddellijk ingetrokken nadat de in het eerste lid bedoelde verhindering gestaakt is.
+
+## Afdeling 13. Jurisdictioneel beroep tegen sanctiebeslissingen bij het Handhavingscollege
+
+### ART 102/1.
+
+In afwijking van artikel 42 en 46 oordeelt het Handhavingscollege met volle rechtsmacht over de beroepen tegen de beslissingen, vermeld in die artikelen.<br>
+<br>
+De vervolgde persoon en, in voorkomend geval, de onderneming, vermeld in artikel 27, §3, stelt het beroep bij het Handhavingscollege, vermeld in het eerste lid, in binnen een vervaltermijn van vijfenveertig dagen vanaf de kennisgeving van de administratieve eindbeslissing over de bestuurlijke vervolging of vanaf de kennisgeving van de beslissing tot volledige of gedeeltelijke verwerping van het bezwaar, vermeld in artikel 45. Het beroep schorst de bestreden beslissing.<br>
+<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft het Handhavingscollege toegang tot het bestuurlijk sanctieregister, vermeld in artikel 77.
+
+## Afdeling 14. Jurisdictioneel beroep tegen bestuurlijke herstel- en beveiligingsbeslissingen en herstelschikkingen bij het Handhavingscollege
+
+### ART 102/2.
+
+In afwijking van artikel 55, 68 en 74 oordeelt het Handhavingscollege met volle rechtsmacht over de beroepen tegen de beslissingen, vermeld in die artikelen.<br>
+<br>
+De betrokkene stelt het beroep bij het Handhavingscollege tegen de administratieve eindbeslissing over het bestuurlijk herstel in binnen een vervaltermijn van vijfenveertig dagen vanaf de kennisgeving van de beslissing.<br>
+<br>
+Elke belanghebbende stelt het beroep bij het Handhavingscollege tegen de bestuurlijke beveiligingsbeslissing in binnen een vervaltermijn van vijfenveertig dagen vanaf de kennisgeving van de bestuurlijke beveiligingsbeslissing, of vanaf de kennisgeving van de bekrachtigingsbeslissing, vermeld in artikel 67, §2.<br>
+<br>
+Derden die in hun rechtmatige belangen worden geschaad door bestuurlijke herstelbeslissingen, bestuurlijke beveiligingsbeslissingen of herstelschikkingen, kunnen daartegen een beroep instellen bij het Handhavingscollege binnen een vervaltermijn van vijfenveertig dagen nadat ze er kennis van hebben kunnen nemen.<br>
+<br>
+Voor de behandeling van de beroepen, vermeld in het eerste lid, heeft het Handhavingscollege toegang tot het bestuurlijk sanctieregister, vermeld in artikel 77.
 
 ## Hoofdstuk 11. Aan dit decreet eigen straffen en sancties
 
