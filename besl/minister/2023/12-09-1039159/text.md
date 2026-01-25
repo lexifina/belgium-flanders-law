@@ -25,36 +25,34 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 ### ART 1.
 
 De commissie voor juridische eerstelijnsbijstand Antwerpen voert haar werking uit in het gerechtelijk arrondissement Antwerpen. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Antwerpen omvat de volgende gemeenten:<br>
-1° Aartselaar;<br>
-2° Antwerpen;<br>
-3° Boechout;<br>
-4° Boom;<br>
-5° Borsbeek;<br>
-6° Brasschaat;<br>
-7° Brecht;<br>
-8° Edegem;<br>
-9° Essen;<br>
-10° Hemiksem;<br>
-11° Hove;<br>
-12° Kalmthout;<br>
-13° Kapellen;<br>
-14° Kontich;<br>
-15° Lint;<br>
-16° Malle;<br>
-17° Mortsel;<br>
-18° Niel;<br>
-19° Ranst;<br>
-20° Rumst;<br>
-21° Schelle;<br>
-22° Schilde;<br>
-23° Schoten;<br>
-24° Stabroek;<br>
-25° Wijnegem;<br>
-26° Wommelgem;<br>
-27° Wuustwezel;<br>
-28° Zandhoven;<br>
-29° Zoersel;<br>
-30° Zwijndrecht.
+1°&nbsp;&nbsp; &nbsp;Aartselaar;<br>
+2°&nbsp;&nbsp; &nbsp;Antwerpen;<br>
+3°&nbsp;&nbsp; &nbsp;Boechout;<br>
+4°&nbsp;&nbsp; &nbsp;Boom;<br>
+5°&nbsp;&nbsp; &nbsp;Brasschaat;<br>
+6°&nbsp;&nbsp; &nbsp;Brecht;<br>
+7°&nbsp;&nbsp; &nbsp;Edegem;<br>
+8°&nbsp;&nbsp; &nbsp;Essen;<br>
+9°&nbsp;&nbsp; &nbsp;Hemiksem;<br>
+10°&nbsp;&nbsp; &nbsp;Hove;<br>
+11°&nbsp;&nbsp; &nbsp;Kalmthout;<br>
+12°&nbsp;&nbsp; &nbsp;Kapellen;<br>
+13°&nbsp;&nbsp; &nbsp;Kontich;<br>
+14°&nbsp;&nbsp; &nbsp;Lint;<br>
+15°&nbsp;&nbsp; &nbsp;Malle;<br>
+16°&nbsp;&nbsp; &nbsp;Mortsel;<br>
+17°&nbsp;&nbsp; &nbsp;Niel;<br>
+18°&nbsp;&nbsp; &nbsp;Ranst;<br>
+19°&nbsp;&nbsp; &nbsp;Rumst;<br>
+20°&nbsp;&nbsp; &nbsp;Schelle;<br>
+21°&nbsp;&nbsp; &nbsp;Schilde;<br>
+22°&nbsp;&nbsp; &nbsp;Schoten;<br>
+23°&nbsp;&nbsp; &nbsp;Stabroek;<br>
+24°&nbsp;&nbsp; &nbsp;Wijnegem;<br>
+25°&nbsp;&nbsp; &nbsp;Wommelgem;<br>
+26°&nbsp;&nbsp; &nbsp;Wuustwezel;<br>
+27°&nbsp;&nbsp; &nbsp;Zandhoven;<br>
+28°&nbsp;&nbsp; &nbsp;Zoersel.
 
 ### ART 2.
 
@@ -106,106 +104,100 @@ De commissie voor juridische eerstelijnsbijstand Turnhout voert haar werking uit
 ### ART 4.
 
 De commissie voor juridische eerstelijnsbijstand Limburg voert haar werking uit in het gerechtelijk arrondissement Limburg. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Limburg omvat de volgende gemeenten:<br>
-1° Alken;<br>
-2° As;<br>
-3° Beringen;<br>
-4° Bilzen;<br>
-5° Bocholt;<br>
-6° Borgloon;<br>
-7° Bree;<br>
-8° Diepenbeek;<br>
-9° Dilsen-Stokkem;<br>
-10° Genk;<br>
-11° Gingelom;<br>
-12° Halen;<br>
-13° Ham;<br>
-14° Hamont-Achel;<br>
-15° Hasselt;<br>
-16° Hechtel-Eksel;<br>
-17° Heers;<br>
-18° Herk-de-Stad;<br>
-19° Herstappe;<br>
-20° Heusden-Zolder;<br>
-21° Hoeselt;<br>
-22° Houthalen-Helchteren;<br>
-23° Kinrooi;<br>
-24° Kortessem;<br>
-25° Lanaken;<br>
-26° Leopoldsburg;<br>
-27° Lommel;<br>
-28° Lummen;<br>
-29° Maaseik;<br>
-30° Maasmechelen;<br>
-31° Nieuwerkerken;<br>
-32° Oudsbergen;<br>
-33° Peer;<br>
-34° Pelt;<br>
-35° Riemst;<br>
-36° Sint-Truiden;<br>
-37° Tessenderlo;<br>
-38° Tongeren;<br>
-39° Voeren;<br>
-40° Wellen;<br>
-41° Zonhoven;<br>
-42° Zutendaal.
+1°&nbsp;&nbsp; &nbsp;Alken;<br>
+2°&nbsp;&nbsp; &nbsp;As;<br>
+3°&nbsp;&nbsp; &nbsp;Beringen;<br>
+4°&nbsp;&nbsp; &nbsp;Bilzen-Hoeselt;<br>
+5°&nbsp;&nbsp; &nbsp;Bocholt;<br>
+6°&nbsp;&nbsp; &nbsp;Bree;<br>
+7°&nbsp;&nbsp; &nbsp;Diepenbeek;<br>
+8°&nbsp;&nbsp; &nbsp;Dilsen-Stokkem;<br>
+9°&nbsp;&nbsp; &nbsp;Genk;<br>
+10°&nbsp;&nbsp; &nbsp;Gingelom;<br>
+11°&nbsp;&nbsp; &nbsp;Halen;<br>
+12°&nbsp;&nbsp; &nbsp;Hamont-Achel;<br>
+13°&nbsp;&nbsp; &nbsp;Hasselt;<br>
+14°&nbsp;&nbsp; &nbsp;Hechtel-Eksel;<br>
+15°&nbsp;&nbsp; &nbsp;Heers;<br>
+16°&nbsp;&nbsp; &nbsp;Herk-de-Stad;<br>
+17°&nbsp;&nbsp; &nbsp;Herstappe;<br>
+18°&nbsp;&nbsp; &nbsp;Heusden-Zolder;<br>
+19°&nbsp;&nbsp; &nbsp;Houthalen-Helchteren;<br>
+20°&nbsp;&nbsp; &nbsp;Kinrooi;<br>
+21°&nbsp;&nbsp; &nbsp;Lanaken;<br>
+22°&nbsp;&nbsp; &nbsp;Leopoldsburg;<br>
+23°&nbsp;&nbsp; &nbsp;Lommel;<br>
+24°&nbsp;&nbsp; &nbsp;Lummen;<br>
+25°&nbsp;&nbsp; &nbsp;Maaseik;<br>
+26°&nbsp;&nbsp; &nbsp;Maasmechelen;<br>
+27°&nbsp;&nbsp; &nbsp;Nieuwerkerken;<br>
+28°&nbsp;&nbsp; &nbsp;Oudsbergen;<br>
+29°&nbsp;&nbsp; &nbsp;Peer;<br>
+30°&nbsp;&nbsp; &nbsp;Pelt;<br>
+31°&nbsp;&nbsp; &nbsp;Riemst;<br>
+32°&nbsp;&nbsp; &nbsp;Sint-Truiden;<br>
+33°&nbsp;&nbsp; &nbsp;Tessenderlo-Ham;<br>
+34°&nbsp;&nbsp; &nbsp;Tongeren-Borgloon;<br>
+35°&nbsp;&nbsp; &nbsp;Voeren;<br>
+36°&nbsp;&nbsp; &nbsp;Wellen;<br>
+37°&nbsp;&nbsp; &nbsp;Zonhoven;<br>
+38°&nbsp;&nbsp; &nbsp;Zutendaal.
 
 ### ART 5.
 
 De commissie voor juridische eerstelijnsbijstand Brussel voert haar werking uit in het gerechtelijk arrondissement Brussel. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Brussel omvat de volgende gemeenten:<br>
-1° Affligem;<br>
-2° Anderlecht;<br>
-3° Asse;<br>
-4° Beersel;<br>
-5° Bever;<br>
-6° Brussel;<br>
-7° Dilbeek;<br>
-8° Drogenbos;<br>
-9° Elsene;<br>
-10° Etterbeek;<br>
-11° Evere;<br>
-12° Galmaarden;<br>
-13° Ganshoren;<br>
-14° Gooik;<br>
-15° Grimbergen;<br>
-16° Halle;<br>
-17° Herne;<br>
-18° Hoeilaart;<br>
-19° Jette;<br>
-20° Kampenhout;<br>
-21° Kapelle-op-den-Bos;<br>
-22° Koekelberg;<br>
-23° Kraainem;<br>
-24° Lennik;<br>
-25° Liedekerke;<br>
-26° Linkebeek;<br>
-27° Londerzeel;<br>
-28° Machelen;<br>
-29° Meise;<br>
-30° Merchtem;<br>
-31° Opwijk;<br>
-32° Oudergem;<br>
-33° Overijse;<br>
-34° Pepingen;<br>
-35° Roosdaal;<br>
-36° Schaarbeek;<br>
-37° Sint-Agatha-Berchem;<br>
-38° Sint-Genesius-Rode;<br>
-39° Sint-Gillis;<br>
-40° Sint-Jans-Molenbeek;<br>
-41° Sint-Joost-ten-Node;<br>
-42° Sint-Lambrechts-Woluwe;<br>
-43° Sint-Pieters-Leeuw;<br>
-44° Sint-Pieters-Woluwe;<br>
-45° Steenokkerzeel;<br>
-46° Ternat;<br>
-47° Ukkel;<br>
-48° Vilvoorde;<br>
-49° Vorst;<br>
-50° Watermaal-Bosvoorde;<br>
-51° Wemmel;<br>
-52° Wezembeek-Oppem;<br>
-53° Zaventem;<br>
-54° Zemst.
+1°&nbsp;&nbsp; &nbsp;Affligem;<br>
+2°&nbsp;&nbsp; &nbsp;Anderlecht;<br>
+3°&nbsp;&nbsp; &nbsp;Asse;<br>
+4°&nbsp;&nbsp; &nbsp;Beersel;<br>
+5°&nbsp;&nbsp; &nbsp;Bever;<br>
+6°&nbsp;&nbsp; &nbsp;Brussel;<br>
+7°&nbsp;&nbsp; &nbsp;Dilbeek;<br>
+8°&nbsp;&nbsp; &nbsp;Drogenbos;<br>
+9°&nbsp;&nbsp; &nbsp;Elsene;<br>
+10°&nbsp;&nbsp; &nbsp;Etterbeek;<br>
+11°&nbsp;&nbsp; &nbsp;Evere;<br>
+12°&nbsp;&nbsp; &nbsp;Ganshoren;<br>
+13°&nbsp;&nbsp; &nbsp;Grimbergen;<br>
+14°&nbsp;&nbsp; &nbsp;Halle;<br>
+15°&nbsp;&nbsp; &nbsp;Hoeilaart;<br>
+16°&nbsp;&nbsp; &nbsp;Jette;<br>
+17°&nbsp;&nbsp; &nbsp;Kampenhout;<br>
+18°&nbsp;&nbsp; &nbsp;Kapelle-op-den-Bos;<br>
+19°&nbsp;&nbsp; &nbsp;Koekelberg;<br>
+20°&nbsp;&nbsp; &nbsp;Kraainem;<br>
+21°&nbsp;&nbsp; &nbsp;Lennik;<br>
+22°&nbsp;&nbsp; &nbsp;Liedekerke;<br>
+23°&nbsp;&nbsp; &nbsp;Linkebeek;<br>
+24°&nbsp;&nbsp; &nbsp;Londerzeel;<br>
+25°&nbsp;&nbsp; &nbsp;Machelen;<br>
+26°&nbsp;&nbsp; &nbsp;Meise;<br>
+27°&nbsp;&nbsp; &nbsp;Merchtem;<br>
+28°&nbsp;&nbsp; &nbsp;Opwijk;<br>
+29°&nbsp;&nbsp; &nbsp;Oudergem;<br>
+30°&nbsp;&nbsp; &nbsp;Overijse;<br>
+31°&nbsp;&nbsp; &nbsp;Pajottegem;<br>
+32°&nbsp;&nbsp; &nbsp;Pepingen;<br>
+33°&nbsp;&nbsp; &nbsp;Roosdaal;<br>
+34°&nbsp;&nbsp; &nbsp;Schaarbeek;<br>
+35°&nbsp;&nbsp; &nbsp;Sint-Agatha-Berchem;<br>
+36°&nbsp;&nbsp; &nbsp;Sint-Genesius-Rode;<br>
+37°&nbsp;&nbsp; &nbsp;Sint-Gillis;<br>
+38°&nbsp;&nbsp; &nbsp;Sint-Jans-Molenbeek;<br>
+39°&nbsp;&nbsp; &nbsp;Sint-Joost-ten-Node;<br>
+40°&nbsp;&nbsp; &nbsp;Sint-Lambrechts-Woluwe;<br>
+41°&nbsp;&nbsp; &nbsp;Sint-Pieters-Leeuw;<br>
+42°&nbsp;&nbsp; &nbsp;Sint-Pieters-Woluwe;<br>
+43°&nbsp;&nbsp; &nbsp;Steenokkerzeel;<br>
+44°&nbsp;&nbsp; &nbsp;Ternat;<br>
+45°&nbsp;&nbsp; &nbsp;Ukkel;<br>
+46°&nbsp;&nbsp; &nbsp;Vilvoorde;<br>
+47°&nbsp;&nbsp; &nbsp;Vorst;<br>
+48°&nbsp;&nbsp; &nbsp;Watermaal-Bosvoorde;<br>
+49°&nbsp;&nbsp; &nbsp;Wemmel;<br>
+50°&nbsp;&nbsp; &nbsp;Wezembeek-Oppem;<br>
+51°&nbsp;&nbsp; &nbsp;Zaventem;<br>
+52°&nbsp;&nbsp; &nbsp;Zemst.
 
 ### ART 6.
 
@@ -244,56 +236,51 @@ De commissie voor juridische eerstelijnsbijstand Leuven voert haar werking uit i
 ### ART 7.
 
 De commissie voor juridische eerstelijnsbijstand Gent voert haar werking uit in het gerechtelijk arrondissement Oost-Vlaanderen. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Gent omvat de volgende gemeenten:<br>
-1° Aalter;<br>
-2° Assenede;<br>
-3° De Pinte;<br>
-4° Deinze;<br>
-5° Destelbergen;<br>
-6° Eeklo;<br>
-7° Evergem;<br>
-8° Gavere;<br>
-9° Gent;<br>
-10° Kaprijke;<br>
-11° Lievegem;<br>
-12° Lochristi;<br>
-13° Maldegem;<br>
-14° Melle;<br>
-15° Merelbeke;<br>
-16° Nazareth;<br>
-17° Oosterzele;<br>
-18° Sint-Laureins;<br>
-19° Sint-Martens-Latem;<br>
-20° Wachtebeke;<br>
-21° Zelzate;<br>
-22° Zulte.
+1°&nbsp;&nbsp; &nbsp;Aalter;<br>
+2°&nbsp;&nbsp; &nbsp;Assenede;<br>
+3°&nbsp;&nbsp; &nbsp;Deinze;<br>
+4°&nbsp;&nbsp; &nbsp;Destelbergen;<br>
+5°&nbsp;&nbsp; &nbsp;Eeklo;<br>
+6°&nbsp;&nbsp; &nbsp;Evergem;<br>
+7°&nbsp;&nbsp; &nbsp;Gavere;<br>
+8°&nbsp;&nbsp; &nbsp;Gent;<br>
+9°&nbsp;&nbsp; &nbsp;Kaprijke;<br>
+10°&nbsp;&nbsp; &nbsp;Lievegem;<br>
+11°&nbsp;&nbsp; &nbsp;Lochristi;<br>
+12°&nbsp;&nbsp; &nbsp;Maldegem;<br>
+13°&nbsp;&nbsp; &nbsp;Merelbeke-Melle;<br>
+14°&nbsp;&nbsp; &nbsp;Nazareth-De Pinte;<br>
+15°&nbsp;&nbsp; &nbsp;Oosterzele;<br>
+16°&nbsp;&nbsp; &nbsp;Sint-Laureins;<br>
+17°&nbsp;&nbsp; &nbsp;Sint-Martens-Latem;<br>
+18°&nbsp;&nbsp; &nbsp;Zelzate;<br>
+19°&nbsp;&nbsp; &nbsp;Zulte.
 
 ### ART 8.
 
-De commissie voor juridische eerstelijnsbijstand Dendermonde voert haar werking uit in het gerechtelijk arrondissement Oost-Vlaanderen. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Dendermonde omvat de volgende gemeenten:<br>
-1° Aalst;<br>
-2° Berlare;<br>
-3° Beveren;<br>
-4° Buggenhout;<br>
-5° Denderleeuw;<br>
-6° Dendermonde;<br>
-7° Erpe-Mere;<br>
-8° Haaltert;<br>
-9° Hamme;<br>
-10° Kruibeke;<br>
-11° Laarne;<br>
-12° Lebbeke;<br>
-13° Lede;<br>
-14° Lokeren;<br>
-15° Moerbeke;<br>
-16° Ninove;<br>
-17° Sint-Gillis-Waas;<br>
-18° Sint-Niklaas;<br>
-19° Stekene;<br>
-20° Temse;<br>
-21° Waasmunster;<br>
-22° Wetteren;<br>
-23° Wichelen;<br>
-24° Zele.
+De commissie voor juridische eerstelijnsbijstand Dendermonde voert haar werking uit in het gerechtelijk arrondissement Oost-Vlaanderen. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Dendermonde omvat de volgende gemeenten:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;Aalst;<br>
+2°&nbsp;&nbsp; &nbsp;Berlare;<br>
+3°&nbsp;&nbsp; &nbsp;Beveren-Kruibeke-Zwijndrecht;<br>
+4°&nbsp;&nbsp; &nbsp;Buggenhout;<br>
+5°&nbsp;&nbsp; &nbsp;Denderleeuw;<br>
+6°&nbsp;&nbsp; &nbsp;Dendermonde;<br>
+7°&nbsp;&nbsp; &nbsp;Erpe-Mere;<br>
+8°&nbsp;&nbsp; &nbsp;Haaltert;<br>
+9°&nbsp;&nbsp; &nbsp;Hamme;<br>
+10°&nbsp;&nbsp; &nbsp;Laarne;<br>
+11°&nbsp;&nbsp; &nbsp;Lebbeke;<br>
+12°&nbsp;&nbsp; &nbsp;Lede;<br>
+13°&nbsp;&nbsp; &nbsp;Lokeren;<br>
+14°&nbsp;&nbsp; &nbsp;Ninove;<br>
+15°&nbsp;&nbsp; &nbsp;Sint-Gillis-Waas;<br>
+16°&nbsp;&nbsp; &nbsp;Sint-Niklaas;<br>
+17°&nbsp;&nbsp; &nbsp;Stekene;<br>
+18°&nbsp;&nbsp; &nbsp;Temse;<br>
+19°&nbsp;&nbsp; &nbsp;Waasmunster;<br>
+20°&nbsp;&nbsp; &nbsp;Wetteren;<br>
+21°&nbsp;&nbsp; &nbsp;Wichelen;<br>
+22°&nbsp;&nbsp; &nbsp;Zele.
 
 ### ART 9.
 
@@ -316,32 +303,31 @@ De commissie voor juridische eerstelijnsbijstand Oudenaarde voert haar werking u
 ### ART 10.
 
 De commissie voor juridische eerstelijnsbijstand Brugge voert haar werking uit in het gerechtelijk arrondissement West-Vlaanderen. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Brugge omvat de volgende gemeenten:<br>
-1° Ardooie;<br>
-2° Beernem;<br>
-3° Blankenberge;<br>
-4° Bredene;<br>
-5° Brugge;<br>
-6° Damme;<br>
-7° De Haan;<br>
-8° Dentergem;<br>
-9° Gistel;<br>
-10° Ichtegem;<br>
-11° Jabbeke;<br>
-12° Knokke-Heist;<br>
-13° Koekelare;<br>
-14° Kortemark;<br>
-15° Lichtervelde;<br>
-16° Middelkerke;<br>
-17° Oostende;<br>
-18° Oostkamp;<br>
-19° Oudenburg;<br>
-20° Pittem;<br>
-21° Ruiselede;<br>
-22° Tielt;<br>
-23° Torhout;<br>
-24° Wingene;<br>
-25° Zedelgem;<br>
-26° Zuienkerke.
+1°&nbsp;&nbsp; &nbsp;Ardooie;<br>
+2°&nbsp;&nbsp; &nbsp;Beernem;<br>
+3°&nbsp;&nbsp; &nbsp;Blankenberge;<br>
+4°&nbsp;&nbsp; &nbsp;Bredene;<br>
+5°&nbsp;&nbsp; &nbsp;Brugge;<br>
+6°&nbsp;&nbsp; &nbsp;Damme;<br>
+7°&nbsp;&nbsp; &nbsp;De Haan;<br>
+8°&nbsp;&nbsp; &nbsp;Dentergem;<br>
+9°&nbsp;&nbsp; &nbsp;Gistel;<br>
+10°&nbsp;&nbsp; &nbsp;Ichtegem;<br>
+11°&nbsp;&nbsp; &nbsp;Jabbeke;<br>
+12°&nbsp;&nbsp; &nbsp;Knokke-Heist;<br>
+13°&nbsp;&nbsp; &nbsp;Koekelare;<br>
+14°&nbsp;&nbsp; &nbsp;Kortemark;<br>
+15°&nbsp;&nbsp; &nbsp;Lichtervelde;<br>
+16°&nbsp;&nbsp; &nbsp;Middelkerke;<br>
+17°&nbsp;&nbsp; &nbsp;Oostende;<br>
+18°&nbsp;&nbsp; &nbsp;Oostkamp;<br>
+19°&nbsp;&nbsp; &nbsp;Oudenburg;<br>
+20°&nbsp;&nbsp; &nbsp;Pittem;&nbsp;<br>
+21°&nbsp;&nbsp; &nbsp;Tielt;<br>
+22°&nbsp;&nbsp; &nbsp;Torhout;<br>
+23°&nbsp;&nbsp; &nbsp;Wingene;<br>
+24°&nbsp;&nbsp; &nbsp;Zedelgem;<br>
+25°&nbsp;&nbsp; &nbsp;Zuienkerke.
 
 ### ART 11.
 
@@ -360,28 +346,27 @@ De commissie voor juridische eerstelijnsbijstand Ieper voert haar werking uit in
 ### ART 12.
 
 De commissie voor juridische eerstelijnsbijstand Kortrijk voert haar werking uit in het gerechtelijk arrondissement West-Vlaanderen. Het werkgebied van de commissie voor juridische eerstelijnsbijstand Kortrijk omvat de volgende gemeenten:<br>
-1° Anzegem;<br>
-2° Avelgem;<br>
-3° Deerlijk;<br>
-4° Harelbeke;<br>
-5° Hooglede;<br>
-6° Ingelmunster;<br>
-7° Izegem;<br>
-8° Kortrijk;<br>
-9° Kuurne;<br>
-10° Ledegem;<br>
-11° Lendelede;<br>
-12° Menen;<br>
-13° Meulebeke;<br>
-14° Moorslede;<br>
-15° Oostrozebeke;<br>
-16° Roeselare;<br>
-17° Spiere-Helkijn;<br>
-18° Waregem;<br>
-19° Wervik;<br>
-20° Wevelgem;<br>
-21° Wielsbeke;<br>
-22° Zwevegem.
+1°&nbsp;&nbsp; &nbsp;Anzegem;<br>
+2°&nbsp;&nbsp; &nbsp;Avelgem;<br>
+3°&nbsp;&nbsp; &nbsp;Deerlijk;<br>
+4°&nbsp;&nbsp; &nbsp;Harelbeke;<br>
+5°&nbsp;&nbsp; &nbsp;Hooglede;<br>
+6°&nbsp;&nbsp; &nbsp;Ingelmunster;<br>
+7°&nbsp;&nbsp; &nbsp;Izegem;<br>
+8°&nbsp;&nbsp; &nbsp;Kortrijk;<br>
+9°&nbsp;&nbsp; &nbsp;Kuurne;<br>
+10°&nbsp;&nbsp; &nbsp;Ledegem;<br>
+11°&nbsp;&nbsp; &nbsp;Lendelede;<br>
+12°&nbsp;&nbsp; &nbsp;Menen;&nbsp;<br>
+13°&nbsp;&nbsp; &nbsp;Moorslede;<br>
+14°&nbsp;&nbsp; &nbsp;Oostrozebeke;<br>
+15°&nbsp;&nbsp; &nbsp;Roeselare;<br>
+16°&nbsp;&nbsp; &nbsp;Spiere-Helkijn;<br>
+17°&nbsp;&nbsp; &nbsp;Waregem;<br>
+18°&nbsp;&nbsp; &nbsp;Wervik;<br>
+19°&nbsp;&nbsp; &nbsp;Wevelgem;<br>
+20°&nbsp;&nbsp; &nbsp;Wielsbeke;<br>
+21°&nbsp;&nbsp; &nbsp;Zwevegem.
 
 ### ART 13.
 
