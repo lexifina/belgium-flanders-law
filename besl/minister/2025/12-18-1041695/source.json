@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041695,
+  "title": "Ministerieel besluit van 2025-12-18 over de toekenning van een subsidie aan intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid voor de periode 2026-2031",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041695/VolledigDocument?datum=2026-01-26",
+  "source_sha256": "a661552d1e8d670419c50a159c6a4b5e78b040b37839bcbfe16edbc2c2450276",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041695&param=informatie",
+  "as_of": "2026-01-26",
+  "made": "2025-12-18",
+  "gazette": "2026-01-16",
+  "numac": 2026000164,
+  "document_start": "2026-01-26",
+  "document_end": null,
+  "in_force": "2026-01-26",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-01-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
