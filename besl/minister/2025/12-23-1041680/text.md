@@ -13,6 +13,16 @@ Dit besluit is gebaseerd op het volgende motief:<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE MINISTER VAN WELZIJN EN ARMOEDEBESTRIJDING, CULTUUR EN GELIJKE KANSEN, BESLUIT:
 
+### ART 1.
+
+Het besluit van de waarnemend administrateur-generaal van 23 december 2025 tot uitvoering van artikel 57, §2/1, van het Procedurebesluit van 9 mei 2014 wat betreft de algemene oproep, met inbegrip van het beslissingskader, in 2025 voor de toekenning van subsidiebeloftes voor de subsidie voor inkomenstarief voor innovatieve samenwerking, dat is opgenomen in de bijlagen 1 en 2 die bij dit besluit zijn gevoegd, wordt goedgekeurd.
+
+### ART 2.
+
+Tegen deze beslissing kan binnen zestig dagen na de bekendmaking ervan een beroep tot nietigverklaring worden ingediend bij de Raad van State.<br>
+<br>
+Het verzoekschrift moet worden ondertekend door de verzoekende partij of door haar advocaat en dient aangetekend te worden bezorgd aan de griffie van de Raad van State, Wetenschapsstraat 33, 1040 Brussel. (meer informatie:&nbsp;<a href="http://www.raadvst-consetat.be">www.raadvst-consetat.be</a>). De verzoekende partij moet het verzoekschrift bezorgen samen met drie door de ondertekenaar eensluidend verklaarde afschriften en bovendien zoveel afschriften als er tegenpartijen zijn. Bevat het verzoekschrift tot nietigverklaring tevens een vordering tot schorsing van de tenuitvoerlegging van de bestreden akte, dan bevat het verzoekschrift negen door de ondertekenaar eensluidend verklaarde afschriften.
+
 ### BIJLAGE 1
 
 Besluit van de waarnemend administrateur-generaal tot uitvoering van artikel 57, §2, van het Procedurebesluit van 9 mei 2014 wat betreft de algemene oproep, met inbegrip van het beslissingskader, in 2025 voor de toekenning van subsidiebeloftes voor de subsidie voor inkomenstarief voor innovatieve samenwerking<br>
