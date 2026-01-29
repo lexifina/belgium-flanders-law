@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041699,
+  "title": "Ministerieel besluit van 2025-12-17 tot goedkeuring van het bijzonder waterverkoopreglement van de Watergroep in uitvoering van artikel 2.5.3.1 §2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041699/VolledigDocument?datum=2026-01-29",
+  "source_sha256": "6123fbacf03c6dda7549cc674551e7dbfeda2bf54627ef20b44b1bacdece2ef9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041699&param=informatie",
+  "as_of": "2026-01-29",
+  "made": "2025-12-17",
+  "gazette": "2026-01-19",
+  "numac": 2026000247,
+  "document_start": "2026-01-29",
+  "document_end": null,
+  "in_force": "2026-01-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
