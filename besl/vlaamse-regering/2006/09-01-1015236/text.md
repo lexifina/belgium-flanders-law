@@ -870,8 +870,6 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ### BIJLAGE V.
 
-Bijlage V bij het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie<br>
-<br>
 1° Met ingang van 1 september 2010 wordt in het volwassenenonderwijs:<br>
 <br>
 A.<br>
@@ -883,7 +881,7 @@ A.<br>
 <br>
 4° het selectieambt van adjunct-directeur voor secundair onderwijs voor sociale promotie ambtshalve geconcordeerd naar het selectieambt van adjunct-directeur secundair volwassenenonderwijs;<br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:952px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:952px">
 	<tbody>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:337px">B.</td>
@@ -12296,7 +12294,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 	<li>de module restauratietechnieken fineer meubel ambtshalve geconcordeerd naar de opleiding restauratievakman meubel;</li>
 	<li>de module restauratietechnieken massief meubel ambtshalve geconcordeerd naar de opleiding restauratievakman meubel;</li>
 	<li>de opleiding begeleid(st)er buitenschoolse kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider schoolgaande kinderen;</li>
-	<li>de opleiding begeleider in de kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider baby’s en peuters.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	<li>de opleiding begeleider in de kinderopvang ambtshalve geconcordeerd naar de opleiding kinderbegeleider baby’s en peuters.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
 </ol>
 <br>
 <br>
@@ -12689,7 +12687,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:955px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:955px">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:477px"><strong>module </strong></td>
@@ -23877,7 +23875,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:875px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:875px">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:437px"><strong>module </strong></td>
@@ -29259,7 +29257,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:487px">Behanger</td>
-			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-behanger)</td>
+			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-decorateur)</td>
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:487px">Behanger</td>
@@ -29299,7 +29297,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:487px">Plaatser soepele vloerbekleding</td>
-			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-behanger)</td>
+			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-decorateur)</td>
 		</tr>
 		<tr>
 			<td style="height:19px; vertical-align:bottom; width:487px">Plaatser soepele vloerbekleding</td>
@@ -29351,7 +29349,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 		</tr>
 		<tr>
 			<td style="height:19px; width:487px">Schilder</td>
-			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-behanger)</td>
+			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-decorateur)</td>
 		</tr>
 		<tr>
 			<td style="height:19px; width:487px">Schilder</td>
@@ -29391,7 +29389,7 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 		</tr>
 		<tr>
 			<td style="height:19px; width:487px">Schilder-decorateur</td>
-			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-behanger)</td>
+			<td style="height:19px; vertical-align:bottom; width:667px">Raamdecoratie (schilder-decorateur)</td>
 		</tr>
 		<tr>
 			<td style="height:19px; width:487px">Schilder-decorateur</td>
@@ -29832,6 +29830,291 @@ D. &nbsp; het ambt van lector ambtshalve geconcordeerd naar de opleiding gids in
 		</tr>
 	</tbody>
 </table>
+<br>
+30° Met ingang van 1 februari 2026 wordt<br>
+&nbsp;
+<ol>
+	<li>de in de linker kolom vermelde module ambtshalve geconcordeerd naar de in de rechterkolom vermelde module:</li>
+</ol>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:901px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:444px"><strong>module </strong></td>
+			<td style="height:19px; width:429px"><strong>module</strong></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table cellspacing="0" style="border-collapse:collapse; width:995px">
+	<tbody>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Aansluiten en testen borden</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Aarding, teller, elektrisch bord</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Aarding, teller, elektrisch bord, diagnose (residentieel en tertiair)</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aarding, teller, elektrisch bord en controle (residentieel en tertiair)</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Aarding, teller, elektrisch bord, diagnose (residentieel en tertiair)</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Basisschakelingen</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Batterijen</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Bekabeling beveiligingssystemen</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Diagnose en foutzoeken - basis</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Diagnose en foutzoeken - gevorderd</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Energiemanagementsystemen</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Gevorderde schakelingen (residentieel en tertiair)</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Indienststelling en onderhoud brandbeveiliging</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Indienststelling en onderhoud camerabewaking</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Indienststelling en onderhoud inbraakbeveiliging</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Indienststelling en onderhoud toegangscontrole</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Indienststelling woningventilatie</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Industriële elektriciteit - basis</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Industriële elektriciteit - gevorderd</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Installatie woningventilatie</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Laadpalen</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Montage en aansluiting domotica</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Montage en aansluiting verlichting</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Monteren en bedraden borden</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Ontwerp domotica</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Ontwerp en installatie brandbeveiliging</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Ontwerp en installatie camerabewaking</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Ontwerp en installatie inbraakbeveiliging</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Ontwerp en installatie toegangscontrole</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Ontwerp woningventilatie</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Optimalisatie verlichting</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Project domotica</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Project elektrisch dossier</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Project elektrotechnicus</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Project industriële elektriciteit</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Project uitvoering</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Project elektrotechnisch installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Uittekenen en parameterisatie domotica</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Parameterisatie domotica</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Uittekenen en parameterisatie domotica</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Veilig werken met elektriciteit</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Voorbereidende technieken</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Werken op hoogte - module 1 + 2</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Veilig werken op hoogte</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Werken op hoogte met hoogtewerker</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Veilig werken op hoogte</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:505px">Wetgeving beveiligingstechnicus</td>
+			<td style="height:19px; vertical-align:bottom; width:489px">Aansluiten componenten</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<ol>
+	<li>de in de linker kolom vermelde opleiding ambtshalve geconcordeerd naar de in de rechterkolom vermelde module:</li>
+</ol>
+&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:1132px">
+	<tbody>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px"><strong>opleiding</strong></td>
+			<td style="height:19px; vertical-align:bottom; width:655px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">&nbsp;</td>
+			<td style="height:19px; vertical-align:bottom; width:655px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Bekabeling voor bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Bekabeling voor thuisnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Beveiliging van datastromen bij bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Configuratie netwerktoestellen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Elektrische installaties voor de installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Elektrische installaties voor de technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Gebruikersbeheer en apparaatbeveiliging bij bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Klantgerichte communicatie</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Netwerken en toestellen aansluiten, verbinden en vervangen</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Netwerkkast of serverruimte inrichten en installeren</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Netwerkprotocollen bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Netwerkprotocollen thuisnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Netwerkverbindingen bedrijfsnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Netwerkverbindingen thuisnetwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Nieuwe technologieën installateur</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Nieuwe technologieën technicus</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Project installateur datacommunicatie en netwerken</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:477px">Netwerktechnicus</td>
+			<td style="height:19px; width:655px">Project technicus datacommunicatie en netwerken</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+<br>
+&nbsp;
 
 ## BIJLAGE VI
 
