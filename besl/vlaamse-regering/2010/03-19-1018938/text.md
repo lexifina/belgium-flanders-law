@@ -51,7 +51,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE
 
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:973px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:973px">
 	<tbody>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:388px">1° Met ingang van 1 september 2010 kan:<br>
@@ -3725,7 +3725,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 </table>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:860px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:860px">
 	<tbody>
 		<tr>
 			<td style="height:21px; vertical-align:bottom; width:388px"><strong>vak </strong></td>
@@ -6569,7 +6569,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:879px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:879px">
 	<tbody>
 		<tr>
 			<td style="height:17px; vertical-align:bottom; width:340px"><strong>vak </strong></td>
@@ -11007,7 +11007,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 	<tbody>
 		<tr>
 			<td style="height:17px; vertical-align:bottom; width:1118px">
-			<table cellspacing="0" style="border-collapse:collapse; width:1202px">
+			<table border="1" cellspacing="0" style="border-collapse:collapse; width:1202px">
 				<tbody>
 					<tr>
 						<td style="height:21px; vertical-align:bottom; width:354px"><strong>vak </strong></td>
@@ -16074,7 +16074,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 </ol>
 &nbsp;
 
-<table cellspacing="0" style="border-collapse:collapse; width:1093px">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:1093px">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:359px"><strong>module </strong></td>
@@ -20744,7 +20744,7 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 <br>
 22° Met ingang van 1 september 2025 kan de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:<br>
 &nbsp;
-<table cellspacing="0" style="border-collapse:collapse; width:26.0cm">
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:26.0cm">
 	<tbody>
 		<tr>
 			<td style="height:19px; width:495px"><strong>module </strong></td>
@@ -21162,5 +21162,72 @@ b) de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd w
 	</tbody>
 </table>
 <br>
+23° Met ingang van 1 februari 2026 kan:<br>
+&nbsp;
+<ol>
+	<li>de hieronder in de linkerkolom vermelde module individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:</li>
+</ol>
+&nbsp;
+
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:992px">
+	<tbody>
+		<tr>
+			<td style="height:19px; width:501px"><strong>module </strong></td>
+			<td style="height:19px; width:491px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">&nbsp;</td>
+			<td style="height:19px; width:491px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">Basis PLC-technieken</td>
+			<td style="height:19px; vertical-align:bottom; width:491px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">Elektropneumatica</td>
+			<td style="height:19px; vertical-align:bottom; width:491px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">Netwerkverbindingen</td>
+			<td style="height:19px; vertical-align:bottom; width:491px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">Veilig werken op hoogte</td>
+			<td style="height:19px; vertical-align:bottom; width:491px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">Werken op hoogte - module 1+2</td>
+			<td style="height:19px; vertical-align:bottom; width:491px">Aansluiten componenten</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:501px">Werken op hoogte met hoogtewerker</td>
+			<td style="height:19px; vertical-align:bottom; width:491px">Aansluiten componenten</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<ol>
+	<li>de hieronder in de linkerkolom vermelde opleiding individueel geconcordeerd worden naar de hieronder in de rechterkolom vermelde module:</li>
+</ol>
+<br>
+<br>
+&nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:904px">
+	<tbody>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:451px"><strong>opleiding</strong></td>
+			<td style="height:19px; vertical-align:bottom; width:453px"><strong>module</strong></td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:451px">&nbsp;</td>
+			<td style="height:19px; width:453px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:19px; vertical-align:bottom; width:451px">Netwerktechnicus</td>
+			<td style="height:19px; width:453px">Veilig werken met elektriciteit</td>
+		</tr>
+	</tbody>
+</table>
 <br>
 &nbsp;
