@@ -164,11 +164,10 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<table cellspacing="0" style="border-collapse:collapse; width:610px">
+&nbsp;
+<table border="1" cellspacing="0" style="border-collapse:collapse; width:610px">
 	<tbody>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:604px">Bijlage III bij het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs<br>
-			&nbsp;</td>
 			<td style="border-bottom:none; border-left:none; border-right:none; border-top:none; width:6px">&nbsp;</td>
 		</tr>
 		<tr>
@@ -223,13 +222,13 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg specifieke tuinen</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg specifieke verharderingen</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg specifieke verhardingen</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg verharderingen – klinkers</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg verhardingen – klinkers</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg verharderingen – tegels</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg verhardingen – tegels</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanleg vijvers</td>
@@ -250,6 +249,9 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanslaan van lasten</td>
 		</tr>
 		<tr>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aansluiten componenten</td>
+		</tr>
+		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aansluiten en testen borden</td>
 		</tr>
 		<tr>
@@ -259,16 +261,19 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanvullen, productbehandeling en organisatie distributie</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanvullende technolgie voetverzorging</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanvullende technologie voetverzorging</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanvullende voet-en nagelverzorging</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aanvullende voet- en nagelverzorging</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aarding, teller, elektrisch bord</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aarding, teller, elektrisch bord, diagnose (residentieel en tertiair)</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Aarding, teller, elektrisch bord en controle (residentieel en tertiair)</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Accijnswetgeving</td>
@@ -2005,9 +2010,6 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">EHBO en levensreddend handelen</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">eid en veiligheid aan boord</td>
-		</tr>
-		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Elastisch voegwerk</td>
 		</tr>
 		<tr>
@@ -2311,7 +2313,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Gebruikersbeheer en apparaatbeveiliging</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Gebrukersbeheer en apparaatbeveiliging bij bedrijfsnetwerken</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Gebruikersbeheer en apparaatbeveiliging bij bedrijfsnetwerken</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Gecompliceerde moderne klokken</td>
@@ -3553,6 +3555,9 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Mechelse kant</td>
 		</tr>
 		<tr>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Mediawijs - expert</td>
+		</tr>
+		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Mediawijs - pionier</td>
 		</tr>
 		<tr>
@@ -4141,6 +4146,9 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Panklaar maken vers vlees</td>
 		</tr>
 		<tr>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Parameterisatie domotica</td>
+		</tr>
+		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Parijse kant</td>
 		</tr>
 		<tr>
@@ -4246,7 +4254,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Plaatsing elektrische onderdelen</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Plaatsing en montage koeltechnische componenenten</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Plaatsing en montage koeltechnische componenten</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Plaatsing houten vloerbedekking</td>
@@ -4441,7 +4449,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project crossmedia assistent</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project CV-installaties</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project CV - installaties</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project datacommunicatie- en netwerktechnicus</td>
@@ -4457,6 +4465,9 @@ niet opgenomen<br /><br />stelt formulier vast
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project elektrotechnicus</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project elektrotechnisch installateur</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project FDO</td>
@@ -4486,7 +4497,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project intercultureel bemiddelaar</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project medewerker florist</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project medewerkerk florist</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Project onderhoudsmedewerker</td>
@@ -5128,7 +5139,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Stage FTA</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Stage Galenica</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Stage galenica</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Stage hoefbeslag</td>
@@ -5494,9 +5505,6 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Terugwinning gefluoreerde broeikasgassen</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">theaeMediawijs - expert</td>
-		</tr>
-		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Thema’s en trends voor alle gelegenheden</td>
 		</tr>
 		<tr>
@@ -5587,7 +5595,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Toegepaste wiskunde avionica 3</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Toepassing van specifieke bibilotheek- of documentatietechnieken</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Toepassing van specifieke bibliotheek- of documentatietechnieken</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Toeristische bestemmingen</td>
@@ -5920,7 +5928,7 @@ niet opgenomen<br /><br />stelt formulier vast
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Videografie</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Viegtuigonderhoud</td>
+			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Vliegtuigonderhoud</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="height:20px; vertical-align:bottom; width:610px">Vijlen en polijsten</td>
@@ -6413,3 +6421,5 @@ niet opgenomen<br /><br />stelt formulier vast
 		</tr>
 	</tbody>
 </table>
+<br>
+&nbsp;
