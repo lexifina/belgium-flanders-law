@@ -2,16 +2,16 @@
   "codex_id": 1035476,
   "title": "Besluit van de Vlaamse Regering van 2021-04-02 tot vaststelling van de regels voor de verplichte bijdrage van de reders van Belgische vissersvaartuigen aan het Fonds voor Scheepsjongeren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035476/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "0500c12aaff93eb8e83e80f9d0a7deff133884cbd925939e62c8b56d912930da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035476/VolledigDocument?datum=2026-02-01",
+  "source_sha256": "24529ddccb62fdc8433af0d6d261439abc18fc2fbfb6f9cdc03a9fc8b7b6a4df",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035476&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2026-02-01",
   "made": "2021-04-02",
   "gazette": "2021-04-22",
   "numac": 2021031081,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2026-02-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-02-01; future article versions excluded; article text as the API gives it"
 }

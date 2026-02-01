@@ -22,7 +22,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De verplichte bijdrage voor rekening van de reders van Belgische vissersvaartuigen, vermeld in artikel 3, § 2, eerste lid, 3°, van de wet van 23 september 1931 op de aanwerving van het personeel der zeevisscherij, wordt vastgesteld op 0,05% van de brutobesomming van de vangsten die jaarlijks in Belgische en buitenlandse havens verkocht zijn.<br>
+De verplichte bijdrage voor rekening van de reders van Belgische vissersvaartuigen, vermeld in artikel 3, § 2, eerste lid, 3°, van de wet van 23 september 1931 op de aanwerving van het personeel der zeevisscherij, wordt vastgesteld op 0,08% van de brutobesomming van de vangsten die jaarlijks in Belgische en buitenlandse havens verkocht zijn.<br>
 <br>
 De jaarlijkse periode neemt telkens een aanvang op 1 januari.
 
