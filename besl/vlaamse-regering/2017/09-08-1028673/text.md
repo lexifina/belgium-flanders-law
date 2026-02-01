@@ -22,6 +22,19 @@ Een professionele planaanvrager kan in zijn planaanvraag aangeven dat hij ook pl
 
 De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur, kan de bedragen, vermeld in artikel 1 en 2, aanpassen met als doel de inkomsten en uitgaven van het KLIP in evenwicht te houden. Voor het bedrag, vermeld in artikel 1, worden de minimum- en maximumgrenzen vastgesteld op respectievelijk 5 en 8 euro als de planaanvraagzone niet groter is dan 200 m². Voor het bedrag, vermeld in artikel 2, worden de minimum- en maximumgrenzen vastgesteld op respectievelijk 5 en 30 euro.
 
+### ART 3/1.
+
+De bedragen, vermeld in artikel 5, §1, eerste lid, van het KLIP-decreet van 14 maart 2008 en artikel 1, 2 en 3 van dit besluit, zijn gekoppeld aan de schommelingen van het indexcijfer en worden berekend met de volgende formule: geïndexeerd tarief = retributie x nieuw indexcijfer/basisindexcijfer waarbij:<br>
+1°&nbsp;&nbsp; &nbsp;basisindexcijfer: het indexcijfer van de consumptieprijzen van de maand november 2017;<br>
+2°&nbsp;&nbsp; &nbsp;nieuw indexcijfer: het indexcijfer van de consumptieprijzen van de tweede maand voor de maand waarin de geïndexeerde retributie ingaat;<br>
+3°&nbsp;&nbsp; &nbsp;retributie: de respectieve bedragen, vermeld in artikel 5, §1, eerste lid, van het KLIP-decreet van 14 maart 2008 en artikel 1, 2 en 3 van dit besluit.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het bedrag van de retributie wordt vanaf 1 februari 2026 jaarlijks geïndexeerd.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het bedrag na de indexering wordt afgerond naar de hogere tien cent.<br>
+<br>
+Voor de periode voor 1 februari 2026 worden geen bedragen ingevorderd die conform dit artikel worden geïndexeerd.
+
 ### ART 4.
 
 Dit besluit treedt in werking op 1 januari 2018.
