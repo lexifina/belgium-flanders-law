@@ -235,6 +235,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
@@ -919,6 +922,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene vorming</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Ambachtelijke accessoires</td>
 		</tr>
 		<tr>
@@ -1045,6 +1051,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
 		</tr>
 		<tr>
@@ -1055,6 +1064,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Fotografie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Grafische communicatie en media</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Huishoudelijk koken</td>
@@ -1076,6 +1088,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Schrijnwerkerij</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Destelbergen</strong></td>
@@ -2230,6 +2245,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Wezembeek-Oppem</strong></td>
 		</tr>
 		<tr>
@@ -2860,6 +2878,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mode: realisaties</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Tienen</strong></td>
 		</tr>
 		<tr>
@@ -2903,6 +2924,12 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Specifieke personenzorg</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Zoutleeuw</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>131318 - CVO Gent</strong></td>
@@ -2989,7 +3016,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Meubelmakerij</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><a name="_Hlk216709891">Nederlands tweede taal richtgraad 1 en 2</a></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
@@ -4747,6 +4774,15 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="border-bottom:1px solid #44b3e1; border-left:none; border-right:none; border-top:none; height:20px; vertical-align:bottom; width:355px"><strong>132001 - CVO Creo</strong></td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Ardooie</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese hoofdtalen richtgraad 1 en 2</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Deerlijk</strong></td>
 		</tr>
 		<tr>
@@ -4967,6 +5003,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Bakkerij</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
@@ -5737,7 +5776,7 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
-			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
+			<td style="height:20px; vertical-align:bottom; width:355px"><a name="_Hlk216709696">Nederlands tweede taal richtgraad 1 en 2</a></td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 3 en 4</td>
@@ -5861,6 +5900,12 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Europese talen richtgraad 3 en 4</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Kontich</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Leopoldsburg</strong></td>
@@ -6562,6 +6607,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Mechanica-elektriciteit</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Mol</strong></td>
 		</tr>
 		<tr>
@@ -6638,6 +6686,12 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Printmedia</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Vorselaar</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Westerlo</strong></td>
@@ -6872,6 +6926,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Aanvullende algemene vorming</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
@@ -7370,6 +7427,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px"><strong>Edegem</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Horeca</td>
@@ -9211,6 +9271,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 			<td style="height:20px; vertical-align:bottom; width:355px">Algemene personenzorg</td>
 		</tr>
 		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Auto</td>
+		</tr>
+		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Bedrijfsbeheer</td>
 		</tr>
 		<tr>
@@ -9473,6 +9536,9 @@ Lijst van de onderwijsbevoegdheden per vestigingsplaats van centra voor volwasse
 		</tr>
 		<tr>
 			<td style="height:20px; vertical-align:bottom; width:355px">Informatie- en communicatietechnologie</td>
+		</tr>
+		<tr>
+			<td style="height:20px; vertical-align:bottom; width:355px">Nederlands tweede taal richtgraad 1 en 2</td>
 		</tr>
 	</tbody>
 </table>
