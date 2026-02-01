@@ -61,7 +61,11 @@ Het tarief voor de opleidingsaccreditatie op maat van de eigen regie bedraagt vo
 <br>
 Het tarief voor de opleidingsaccreditatie op basis van een beoordeling door een evaluatieorgaan bedraagt voor de andere ambtshalve geregistreerde instellingen en voor de geregistreerde instellingen per graduaatsopleiding, bachelor- of masteropleiding 850 euro. De aanvragende instelling betaalt dat bedrag aan de NVAO.<br>
 <br>
-De toets nieuwe opleiding voor de omvorming van een bestaande HBO5-opleiding, als vermeld in artikel II.395 van de Codex Hoger Onderwijs, is kosteloos voor de hogescholen.
+De toets nieuwe opleiding voor de omvorming van een bestaande HBO5-opleiding, als vermeld in artikel II.395 van de Codex Hoger Onderwijs, is kosteloos voor de hogescholen.<br>
+<br>
+Het tarief voor een instellingsreview na een positief besluit met beperkte geldigheidsduur als vermeld in artikel II.170/8, §1, 2°, van de Codex Hoger Onderwijs van 11 oktober 2013 kan door de NVAO worden vastgesteld op basis van de werkelijke uitgaven en mag maximaal tachtig procent bedragen van het tarief, vermeld in het vierde lid. De NVAO bezorgt aan de betrokken instelling een gedetailleerde factuur, waarin het gevraagde bedrag transparant en navolgbaar wordt verantwoord. De instelling betaalt dat bedrag aan de NVAO. De NVAO rapporteert jaarlijks aan de Vlaamse Regering op een gedetailleerde en navolgbare manier over de kosten van de uitgevoerde beperkte instellingsreviews.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Het tarief voor een opleidingsaccreditatie na een negatief besluit instellingsreview als vermeld in artikel II.170/8, §1, 3°, van de Codex Hoger Onderwijs van 11 oktober 2013, bedraagt 20.000 euro per opleiding. De instelling betaalt dat bedrag aan de NVAO.
 
 ### ART 4.
 
