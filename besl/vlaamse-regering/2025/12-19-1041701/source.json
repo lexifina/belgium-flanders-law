@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041701,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-19 tot regeling van de uitvoer, doorvoer en overbrenging van producten voor tweeërlei gebruik en het verlenen van technische bijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041701/VolledigDocument?datum=2026-02-05",
+  "source_sha256": "99bb22343485ddf0c148b7cf87ffd07e3b7c8dadfa623df1dd6c4521b5e076bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041701&param=informatie",
+  "as_of": "2026-02-05",
+  "made": "2025-12-19",
+  "gazette": "2026-01-26",
+  "numac": 2026000296,
+  "document_start": "2026-02-05",
+  "document_end": null,
+  "in_force": "2026-02-05",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2026-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
