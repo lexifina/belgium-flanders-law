@@ -2,16 +2,16 @@
   "codex_id": 1026245,
   "title": "Besluit van de Vlaamse Regering van 2015-11-27 betreffende de uitvoering van het decreet van 29 maart 2002 tot bescherming van varend erfgoed (citeeropschrift: \"het Varenderfgoedbesluit van 27 november 2015\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026245/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "b8d54661d861b615f3c2f8b95fbe1fa4b0af16d894ec6be8cd7d8a4aa6fd32e3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026245/VolledigDocument?datum=2026-02-06",
+  "source_sha256": "4c0b431dbb506522bcd995e7f20d5a92a293f4d885c49c05a5d4ade7d9705358",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026245&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2026-02-06",
   "made": "2015-11-27",
   "gazette": "2015-12-28",
   "numac": 2015036613,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 59,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-02-06",
+  "article_versions": 60,
+  "record_form": "consolidated version as in force on 2026-02-06; future article versions excluded; article text as the API gives it"
 }
