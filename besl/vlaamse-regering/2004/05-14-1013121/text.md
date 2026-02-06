@@ -54,21 +54,7 @@ g) kennisbeheer, informatieverstrekking en sensibilisering te verzorgen over de 
 a) beleidsindicatoren verder te identificeren, die passen in het beleidsmodel en die toelaten de intermediaire effecten binnen het beleidsveld Onroerend Erfgoed op te volgen;<br>
 b) die indicatoren te interpreteren en de resultaten mee te nemen bij de evaluatie van beleidsinstrumentarium met het oog op het ontwikkelen van de erfgoedmonitor;<br>
 c) systematisch te voorzien in de evaluatie van het toegepaste beleid en haar instrumentarium.<br>
-4° wat de handhaving en het toezicht betreft door:<br>
-a) raadgevingen en aanmaningen te geven zoals bedoeld in artikel 11.3.1 en 11.3.2 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-b) de entiteit die bevoegd is inzake de uitvoering van de handhavingstaken op het beleidsveld onroerend erfgoed met zijn expertise bij te staan bij de toepassing van handhavingsmaatregelen, bedoeld in:<br>
-1) hoofdstuk V van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten;<br>
-2) artikelen 31 en 32 en hoofdstuk VI van het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium;<br>
-3) hoofdstuk VIII van het decreet van 16 april 1996 betreffende de landschapszorg;<br>
-4) hoofdstuk V van het decreet van 29 maart 2002 tot bescherming van het varend erfgoed;<br>
-5) hoofdstuk 11 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
-c) controle uit te oefenen op de aanwending van subsidies, toelagen, premies of tegemoetkomingen die worden toegekend ter ondersteuning van het beleid inzake onroerend erfgoed, onder meer op grond van de hierna vermelde wettelijke en decretale bepalingen en van de besluiten die genomen zijn ter uitvoering ervan:<br>
-1) het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten;<br>
-2) het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium;<br>
-3) het decreet van 16 april 1996 betreffende de landschapszorg;<br>
-4) het decreet van 29 maart 2002 tot bescherming van het varend erfgoed;<br>
-5) het Onroerenderfgoeddecreet van 12 juli 2013.<br>
-d) de subsidies, toelagen, premies of tegemoetkomingen, vermeld in c), in te vorderen bij de begunstigden die de voorwaarden waaronder ze werden toegekend niet naleven of die ze niet aanwenden voor de doeleinden waarvoor ze werden toegekend.<br>
+4° wat de handhaving en het toezicht betreft, de handhavingstaken uit te voeren waarmee het wordt belast, het instrumentarium in te zetten waarvoor het bevoegd is, en inspecteurs Onroerend Erfgoed, toezichthouders, herstelinstanties en beboetingsinstanties van andere entiteiten of lokale besturen bij te staan met zijn expertise bij de uitoefening van hun bevoegdheden op het beleidsveld Onroerend Erfgoed.<br>
 <br>
 Het hoofd van Onroerend Erfgoed stelt tweemaandelijks de gebieden vast waar geen archeologisch erfgoed te verwachten valt, vermeld in artikel 5.4.1, derde lid, 1°, en artikel 5.4.2, derde lid, van het Onroerenderfgoeddecreet van 12 juli 2013.
 
