@@ -2,16 +2,16 @@
   "codex_id": 1019973,
   "title": "Besluit van de Vlaamse Regering van 2010-11-19 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu (VLAREL) (citeeropschrift: \"VLAREL\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019973/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "17e7bd7381511c1b7c96a1e87b70c871f906616e22d096ef17143cd8215f8489",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019973/VolledigDocument?datum=2026-02-07",
+  "source_sha256": "02ac06843ba414b217fe6f99638eff1833b79a5371ee746b0b42dab6ea15e062",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019973&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-02-07",
   "made": "2010-11-19",
   "gazette": "2011-02-01",
   "numac": 2011035078,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2026-01-01",
+  "in_force": "2026-02-07",
   "article_versions": 218,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-02-07; future article versions excluded; article text as the API gives it"
 }
