@@ -495,7 +495,9 @@ Een amateurkunstenaar of amateurkunstengroep kan een aanvraag voor een tussenkom
 
 ### ART 49.
 
-De tussenkomst voor deelname aan een buitenlands initiatief, vermeld in artikel 4, derde lid, 3°, van het Amateurkunstendecreet van 8 maart 2024, bedraagt maximaal 2.500 euro voor een individuele amateurkunstenaar en maximaal 20.000 euro voor een amateurkunstengroep.
+De tussenkomst voor deelname aan een buitenlands initiatief, vermeld in artikel 4, derde lid, 3°, van het Amateurkunstendecreet van 8 maart 2024, bedraagt:<br>
+1°&nbsp;&nbsp; &nbsp;maximaal 3000 euro voor een individuele amateurkunstenaar;<br>
+2°&nbsp;&nbsp; &nbsp;maximaal 9000 euro voor een amateurkunstengroep.
 
 ### ART 50.
 
