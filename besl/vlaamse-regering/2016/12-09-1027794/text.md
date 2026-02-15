@@ -30,7 +30,7 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder<br>
-1° agentschap: het agentschap, vermeld in artikel 3, 1°, van het GIPOD-decreet van 4 april 2014;<br>
+1° agentschap: het agentschap, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen;<br>
 2° grondwerk: het grondwerk, vermeld in artikel 3, 5° /2, van het GIPOD-decreet van 4 april 2014.
 
 ### ART 2.
