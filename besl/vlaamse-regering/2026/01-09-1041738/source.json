@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041738,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-09 over het innovatief varen en tot wijziging van het koninklijk besluit van 9 maart 2007 houdende de bemanningsvoorschriften op de scheepvaartwegen van het Koninkrijk en het besluit van de Vlaamse Regering van 5 oktober 2018 tot vaststelling van de technische voorschriften voor binnenschepen (citeeropschrift: \"het besluit van de Vlaamse Regering van 9 januari 2026 over het innovatief varen\")",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041738/VolledigDocument?datum=2026-02-15",
+  "source_sha256": "32f8ea900d97395cc2a0ba528f02d0fb69df9e2c12fed94f2e0c6602ceb5aa67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041738&param=informatie",
+  "as_of": "2026-02-15",
+  "made": "2026-01-09",
+  "gazette": "2026-02-05",
+  "numac": 2026000844,
+  "document_start": "2026-02-15",
+  "document_end": null,
+  "in_force": "2026-02-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2026-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
