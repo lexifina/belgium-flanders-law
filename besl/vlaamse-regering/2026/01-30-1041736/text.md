@@ -20,6 +20,10 @@ Na beraadslaging,<br>
 &nbsp;&nbsp; &nbsp;<br>
 DE VLAAMSE REGERING BESLUIT:
 
+### ART 1.
+
+In artikel 1, 1°, van het besluit van de Vlaamse Regering van 9 december 2016 houdende de uitvoering van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest en van het decreet van 10 november 2017 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten, ingevoegd bij het besluit van de Vlaamse Regering van 9 september 2022, wordt de zinsnede “artikel 3, 1°, van het GIPOD-decreet van 4 april 2014” vervangen door de zinsnede “artikel 1, 2°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Digitaal Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Digitaal Vlaanderen”.
+
 ### ART 2.
 
 In het besluit van de Vlaamse Regering van 8 september 2017 tot diversificatie van het bedrag van de retributie voor een planaanvraag en het bepalen van een bijkomende retributie voor een andere functionaliteit van het KLIP als vermeld in artikel 5 van het KLIP-decreet van 14 maart 2008 wordt een artikel 3/1 ingevoegd, dat luidt als volgt:<br>
@@ -34,3 +38,11 @@ Het bedrag van de retributie wordt vanaf 1 februari 2026 jaarlijks geïndexeerd.
 Het bedrag na de indexering wordt afgerond naar de hogere tien cent.<br>
 <br>
 Voor de periode voor 1 februari 2026 worden geen bedragen ingevorderd die conform dit artikel worden geïndexeerd.”.
+
+### ART 3.
+
+Artikel 2 van dit besluit treedt in werking op 1 februari 2026.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de digitalisering, is belast met de uitvoering van dit besluit.
