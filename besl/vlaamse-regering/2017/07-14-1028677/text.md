@@ -1286,7 +1286,7 @@ Binnen de perken van het budget wordt het bedrag van de aankoopsubsidie voor ied
 8° 20 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 40.000 euro en kleiner dan of gelijk aan 45.000 euro per hectare;<br>
 9° 10 % van het aankoopbedrag, inclusief alle kosten, voor de schijf groter dan 45.000 euro en kleiner dan of gelijk aan 50.000 euro per hectare.<br>
 <br>
-Als het terrein dat verworven wordt, bebost zal worden, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximaal subsidiebedrag van 5 euro per vierkante meter. Die aankoopsubsidie kan aangevraagd worden tot en met 31 december 2024.<br>
+Als het terrein dat verworven wordt, bebost zal worden, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximaal subsidiebedrag van 5 euro per vierkante meter. Die aankoopsubsidie kan aangevraagd worden tot en met 31 december 2027.<br>
 <br>
 Als het terrein dat verworven is, bestemd is om natte natuur te realiseren en als dat terrein op percelen als vermeld in artikel 37, 3° ligt of op percelen gelegen in ruimtelijk kwetsbaar gebied als vermeld in artikel 1.1.2, 10° Vlaamse Codex Ruimtelijke Ordening ligt, bedraagt de aankoopsubsidie altijd 90 % van het aankoopbedrag, inclusief alle kosten, met een maximaal subsidiebedrag van 5 euro per vierkante meter. Die aankoopsubsidie kan aangevraagd worden tot en met 30 november 2024.&nbsp;Het verworven terrein kan uitsluitend voor de realisatie van de natuurstreefbeelden, vermeld in bijlage 3 bij dit besluit, aangewend worden.<br>
 <br>
