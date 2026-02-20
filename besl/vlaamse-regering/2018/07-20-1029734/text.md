@@ -23,14 +23,14 @@ In dit besluit wordt verstaan onder:<br>
 2° decreet van 22 december 2017: het decreet van 22 december 2017 over het lokaal bestuur;<br>
 3° minister: de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden;<br>
 4° tuchtoverheid: de tuchtoverheid, vermeld in artikel 201 van het decreet van 22 december 2017;<br>
-5° schriftelijk: elke vorm van kennisgeving of elektronische verwerking van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en een bewijs oplevert van die verwerking, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens;<br>
+5° schriftelijk: elke vorm van kennisgeving of elektronische verwerking van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en een bewijs oplevert van die verwerking, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens;<br>
 6° werkdag: elke dag van de week, behalve zaterdag, zondag en wettelijke en decretale feestdagen.
 
 ### ART 2.
 
 In dit besluit wordt een elektronische verzending gelijkgesteld aan een overhandiging tegen ontvangstbewijs of een aangetekende brief, als aan al de volgende voorwaarden is voldaan:<br>
 1° het betrokken personeelslid stemt voorafgaandelijk in met de elektronische verzending;<br>
-2° de elektronische verzending voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek;<br>
+2° de elektronische verzending voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek;<br>
 3° de elektronische verzending levert een bewijs op van de verzending, van het tijdstip waarop ze is verricht, en van de authenticiteit en de integriteit van de verzonden gegevens.
 
 ## TITEL 2. Vaststelling van de tuchtprocedure
