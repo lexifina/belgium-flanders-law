@@ -100,17 +100,27 @@ In afwijking van het eerste lid, 1°, 5° en 6°, worden op het personeel van ee
 
 §1. De raad bepaalt in de rechtspositieregeling, binnen de grenzen van dit besluit, de mogelijkheden tot afwijking van de plaatselijke rechtspositieregeling die door het orgaan of het personeelslid dat bevoegd is voor de uitvoering bij de individuele toekenning kunnen worden toegestaan om redelijke aanpassingen voor personeelsleden met een handicap te garanderen.<br>
 <br>
-§2. Ten minste 2% van het totale aantal personeelsleden binnen het bestuur, uitgedrukt in voltijdse equivalenten, bestaat uit personen met een arbeidshandicap die aan een van de volgende voorwaarden voldoen:<br>
-1° ze zijn ingeschreven bij het Vlaams Agentschap voor Personen met een Handicap;<br>
-2° ze zijn erkend door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
-3° ze komen in aanmerking voor een inkomensvervangende tegemoetkoming of voor een integratietegemoetkoming die verstrekt wordt aan personen met een handicap op basis van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-4° ze zijn in het bezit van een attest dat uitgereikt is door de algemene directie Personen met een Handicap van de Federale Overheidsdienst Sociale Zekerheid voor het verstrekken van sociale en fiscale voordelen;<br>
-5° ze zijn het slachtoffer van een arbeidsongeval of van een beroepsziekte en ze kunnen een bewijs voorleggen van een blijvende arbeidsongeschiktheid van ten minste 66%, uitgereikt door het Federaal agentschap voor beroepsrisico’s of door het Bestuur medische expertise in het kader van de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector;<br>
-6° ze hebben hun hoogste getuigschrift of diploma behaald in het buitengewoon secundair onderwijs.<br>
+§2. Ten minste 2% van het totale aantal personeelsleden binnen het bestuur, uitgedrukt in voltijdsequivalenten, bestaat uit personen met een handicap, met inbegrip van een chronische ziekte, die minstens behoren tot een van de volgende categorieën:<br>
+1°&nbsp;&nbsp; &nbsp;personen met een handicap, met inbegrip van een chronische ziekte, die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap;<br>
+2°&nbsp;&nbsp; &nbsp;personen met een verslag voor een gemeenschappelijk of individueel aangepast curriculum of een verslag voor opleidingsvorm 4 of personen die gewezen leerling zijn van het buitengewoon onderwijs, het geïntegreerd onderwijs of die een aangepast individueel curriculum hebben gevolgd in het reguliere onderwijs;<br>
+3°&nbsp;&nbsp; &nbsp;personen met een arbeidsbeperking die de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding heeft vastgesteld en die recht hebben op een of meer bijzondere tewerkstellingsondersteunende maatregelen, individueel maatwerk of collectief maatwerk;<br>
+4°&nbsp;&nbsp; &nbsp;personen die op basis van hun handicap in aanmerking komen voor een inkomensvervangende tegemoetkoming of voor een integratietegemoetkoming die verstrekt wordt aan personen met een handicap op basis van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+5°&nbsp;&nbsp; &nbsp;personen die in het bezit zijn van een afschrift van een definitief geworden gerechtelijke beslissing of van een attest van een bevoegde federale instelling waaruit een arbeidsongeschiktheid van minstens 66% blijkt;<br>
+6°&nbsp;&nbsp; &nbsp;personen die een invaliditeitsuitkering ontvangen op basis van het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+7°&nbsp;&nbsp; &nbsp;personen met een attest van de preventieadviseur-arbeidsarts die werkt in opdracht van het lokaal of provinciaal bestuur, waaruit blijkt dat er blijvende aandacht moet zijn voor de effecten van de handicap, met inbegrip van een chronische ziekte, op de taken, de arbeidsomstandigheden of het rendement;<br>
+8°&nbsp;&nbsp; &nbsp;personen met een handicap, met inbegrip van een chronische ziekte, die erkend zijn door de Federale Overheidsdienst Sociale Zekerheid;<br>
+9°&nbsp;&nbsp; &nbsp;personen met een handicap, met inbegrip van een chronische ziekte, die erkend zijn door de Service bruxellois francophone des personnes handicapées, de Bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezingsbijslag van het tweetalige gebied Brussel-Hoofdstad, de Diensten van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie van het tweetalige gebied Brussel-Hoofdstad, de Brusselse Gewestelijke Dienst voor Arbeidsbemiddeling of een andere dienst die bevoegd is voor de erkenning van personen met een handicap, met inbegrip van een chronische ziekte, in het Brusselse Hoofdstedelijke Gewest;<br>
+10°&nbsp;&nbsp; &nbsp;personen met een handicap, met inbegrip van een chronische ziekte, die een tegemoetkoming ontvangen van de erkende Brusselse verzekeringsinstellingen conform de ordonnantie van 21 december 2018 betreffende de Brusselse verzekeringsinstellingen in het domein van de gezondheidszorg en de hulp aan personen;<br>
+11°&nbsp;&nbsp; &nbsp;personen met een handicap, met inbegrip van een chronische ziekte, die erkend zijn door het Agence pour une Vie de Qualité;<br>
+12°&nbsp;&nbsp; &nbsp;personen met een handicap, met inbegrip van een chronische ziekte, die erkend zijn door de Dienststelle für Selbstbestimmtes Leben;<br>
+13°&nbsp;&nbsp; &nbsp;personen die het slachtoffer zijn geweest van een arbeidsongeval of een beroepsziekte en die een attest hebben dat is afgegeven door het Agentschap voor Onderwijsdiensten, het Federaal Agentschap voor Beroepsrisico’s of door het Bestuur medische expertise in het kader van de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector, waaruit een blijvende arbeidsongeschiktheid van minstens 66% blijkt;<br>
+14°&nbsp;&nbsp; &nbsp;personen die het slachtoffer zijn geweest van een ongeval van gemeen recht en die een afschrift van een vonnis hebben dat is afgegeven door de griffie van de rechtbank en waaruit een blijvende handicap of arbeidsongeschiktheid van minstens 66% blijkt;<br>
+15°&nbsp;&nbsp; &nbsp;personen die het slachtoffer zijn geweest van een thuisongeval en die een afschrift van de beslissing van de verzekeringsinstelling hebben waaruit een blijvende arbeidsongeschiktheid van minstens 66% blijkt.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° Vlaams Agentschap voor Personen met een Handicap: het Vlaams Agentschap voor Personen met een Handicap, opgericht bij decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-2° Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap “Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding”.<br>
+2° Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap “Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding”;<br>
+3° personen met een handicap, met inbegrip van een chronische ziekte: personen met een langdurige fysieke, mentale, verstandelijke of zintuigelijke beperking die deze personen in wisselwerking met diverse drempels kan beletten volledig, daadwerkelijk en op voet van gelijkheid met anderen te participeren in de arbeidsmarkt.<br>
 <br>
 Bij de berekening van het percentage van 2%, vermeld in het eerste lid, worden bij de openbare centra voor maatschappelijk welzijn de functies van het verplegend en verzorgend personeel niet meegerekend.
 
@@ -148,6 +158,10 @@ Voor de toegang tot de functie van maatschappelijk werker, vermeld in artikel 18
 Een functie wordt in een graad gesitueerd op basis van de functiebeschrijving.
 
 ## Afdeling 2. Instroom
+
+### ART 4/1.
+
+Deze afdeling voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2023/970 van het Europees Parlement en de Raad van 10 mei 2023 ter versterking van de toepassing van het beginsel van gelijke beloning van mannen en vrouwen voor gelijke of gelijkwaardige arbeid door middel van beloningstransparantie en handhavingsmechanismen.
 
 ### ART 5.
 
@@ -187,6 +201,8 @@ De raad stelt in de rechtspositieregeling de selectieprocedure vast voor de func
 
 Vóór elke aanwerving wordt de functie die wordt ingevuld met een oproep tot kandidaten extern bekendgemaakt. De raad bepaalt in de rechtspositieregeling de regels voor die externe bekendmaking en voor de indiening van de kandidaturen.<br>
 <br>
+De vacature en functiebenamingen zijn genderneutraal en de aanwervingsprocedures worden op niet-discriminerende wijze gevoerd zodat het recht op gelijke beloning voor gelijke of gelijkwaardige arbeid niet wordt ondermijnd.<br>
+<br>
 De volgende informatie wordt in voorkomend geval ter beschikking gesteld van de kandidaten:<br>
 1° de wijze van en termijn voor de kandidaatstelling;<br>
 2° de aard, het prestatieregime en de duurtijd van de tewerkstelling;<br>
@@ -203,6 +219,8 @@ In de volgende gevallen is het eerste lid niet van toepassing:<br>
 ### ART 10.
 
 De raad bepaalt in de rechtspositieregeling de algemene regels voor de selectieprocedure, waaronder minimaal de wijze waarop de selectiecommissie wordt samengesteld.<br>
+<br>
+De selectieprocedure is genderneutraal en wordt op niet-discriminerende wijze gevoerd zodat het recht op gelijke beloning voor gelijke of gelijkwaardige arbeid niet wordt ondermijnd.<br>
 <br>
 Voor de aanvang van een selectie en binnen de grenzen van de algemene regels die de raad heeft vastgesteld in de rechtspositieregeling, stelt de aanstellende overheid de concrete selectieprocedure, waaronder de selectiecriteria, de selectietechnieken en de concrete samenstelling van de selectiecommissie vast.<br>
 <br>
@@ -451,7 +469,7 @@ De geldelijke anciënniteit die met toepassing van het eerste en tweede lid verk
 <br>
 §2. Met behoud van de toepassing van artikel 47, §2, vierde lid, worden de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, meegerekend bij de vaststelling van de geldelijke anciënniteit tijdens het verdere verloop van de loopbaan bij hetzelfde bestuur.<br>
 <br>
-In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13°, 14° en 17°, in de rechtspositieregeling bepalen dat die periodes niet meegerekend kunnen worden.&nbsp;<br>
+In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13° en 14°, in de rechtspositieregeling bepalen dat die periodes niet meegerekend kunnen worden.&nbsp;<br>
 <br>
 §3. In dit artikel wordt verstaan onder hetzelfde bestuur: de gemeente en het openbaar centrum voor maatschappelijk welzijn dat die gemeente bedient.
 
@@ -571,9 +589,9 @@ Als een personeelslid, werkzaam in een erkende, en eventueel vergunde of gesubsi
 
 ### ART 37.
 
-Met behoud van de toepassing van artikel 47, §2, vierde lid, komen de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, met uitzondering van de periodes die gelijkgesteld zijn met de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 12°, 13°, 14° en 17°, in aanmerking om het bedrag van de eindejaarstoelage te berekenen.<br>
+Met behoud van de toepassing van artikel 47, §2, vierde lid, komen de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, met uitzondering van de periodes die gelijkgesteld zijn met de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 12°, 13° en 14°, in aanmerking om het bedrag van de eindejaarstoelage te berekenen.<br>
 <br>
-In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 1°, 2°, 3°, 4°, 5°, 15° en 16°, en die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, in de rechtspositieregeling bepalen dat die periodes niet in aanmerking worden genomen om het bedrag van de eindejaarstoelage te berekenen.
+In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 15° en 16°, en die gepresteerd zijn van 1 januari tot en met 30 september van het in aanmerking te nemen jaar, in de rechtspositieregeling bepalen dat die periodes niet in aanmerking worden genomen om het bedrag van de eindejaarstoelage te berekenen.
 
 ## Onderafdeling 2. Facultatieve toelagen, vergoedingen en sociale voordelen
 
@@ -829,7 +847,7 @@ In het eerste lid wordt verstaan onder organisatorische noodwendigheden: de verz
 
 ### ART 53.
 
-Met behoud van de toepassing van artikel 47, §2, vierde lid, geven de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, recht op jaarlijkse vakantiedagen, rekening houdend met de prestatieregeling, met uitzondering van de periodes gelijkgesteld met dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13° en 14°.&nbsp;<br>
+Met behoud van de toepassing van artikel 47, §2, vierde lid, geven de periodes van disponibiliteit en de periodes van dienstactiviteit, vermeld in artikel 47, §2, eerste en tweede lid, recht op jaarlijkse vakantiedagen, met uitzondering van de periodes gelijkgesteld met dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 13° en 14°.&nbsp;<br>
 <br>
 In afwijking van het eerste lid kan de raad voor de periodes van dienstactiviteit, vermeld in artikel 47, §2, tweede lid, 1°, 2°, 3°, 4°, 5°, 15° en 16°, in de rechtspositieregeling bepalen dat die periodes niet meerekenbaar zijn.<br>
 <br>
@@ -915,23 +933,35 @@ De raad bepaalt in de rechtspositieregeling:<br>
 <br>
 §2. Statutaire personeelsleden hebben recht op verlof wegens arbeidsongeschiktheid met behoud van hun salaris volgens een stelsel van ziektekredietdagen. &nbsp;<br>
 <br>
-De ziektekredietdagen worden toegekend in de vorm van een krediet van eenentwintig werkdagen per jaar volledige dienstactiviteit als vermeld in artikel 47, §2, eerste lid, artikel 49 en 66,§1. De raad kan bepalen dat periodes van disponibiliteit en de periodes, vermeld in artikel 47, §2, tweede lid, ook volledig of gedeeltelijk in aanmerking komen voor de vaststelling van het jaarlijkse aantal ziektekredietdagen.&nbsp;<br>
+De ziektekredietdagen worden toegekend in de vorm van een krediet van eenentwintig werkdagen per jaar volledige dienstactiviteit als vermeld in artikel 47, §2, eerste lid en tweede lid, 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9° en 17°, artikel 49 en 66,§1. De raad kan bepalen dat periodes van disponibiliteit en de periodes, vermeld in artikel 47, §2, tweede lid,&nbsp;12°, 13°, 14°, 15° en 16° ook volledig of gedeeltelijk in aanmerking komen voor de vaststelling van het jaarlijkse aantal ziektekredietdagen.&nbsp;<br>
 <br>
 Bij aanvang krijgt een voltijds statutair personeelslid onmiddellijk een krediet van 63 werkdagen. Het verwerft bijkomende ziektekredietdagen vanaf het vierde jaar.
 
 ### ART 63.
 
-§1. Statutaire personeelsleden die afwezig zijn wegens ziekte of ongeval privéleven kunnen in het kader van de re-integratie de toestemming krijgen om de arbeid deeltijds te hervatten. De toestemming wordt verleend voor een periode en volgens een prestatiebreuk overeenkomstig het advies van de preventieadviseur-arbeidsarts en kan, als dat nodig is, verlengd worden volgens het advies van de preventieadviseur-arbeidsarts, al dan niet voor onbepaalde duur.<br>
+§1.&nbsp;Statutaire personeelsleden die afwezig zijn wegens ziekte of ongeval privéleven kunnen in het kader van de re-integratie de toestemming krijgen om de arbeid deeltijds te hervatten. De toestemming wordt verleend voor een periode en volgens een prestatiebreuk die is vastgesteld in onderling overleg, rekening houdend met het advies dat in voorkomend geval wordt verstrekt door de preventieadviseur-arbeidsarts en kan, als dat nodig is, verlengd worden volgens het advies van de preventieadviseur-arbeidsarts, al dan niet voor onbepaalde duur.<br>
 <br>
 §2. De afwezigheid van het statutaire personeelslid tijdens een periode van deeltijdse prestaties wegens arbeidsongeschiktheid wordt beschouwd als verlof voor gedeeltelijke werkhervatting.<br>
 <br>
-Het statutaire personeelslid krijgt tijdens een periode van deeltijdse prestaties wegens arbeidsongeschiktheid het salaris voor de effectief geleverde prestaties, vermeerderd met 37,5% van het salaris dat verschuldigd zou zijn voor de prestaties die niet worden geleverd, met dien verstande dat het salaris van het statutaire personeelslid dat deeltijds herneemt nooit minder kan zijn dan het wachtgeld dat het zou krijgen als het in disponibiliteit wegens arbeidsongeschiktheid zou worden gesteld overeenkomstig paragraaf 3.<br>
+Het statutaire personeelslid krijgt tijdens een periode van deeltijdse prestaties wegens arbeidsongeschiktheid het salaris voor de effectief geleverde prestaties, vermeerderd met 37,5% van het salaris dat verschuldigd zou zijn voor de prestaties die niet worden geleverd, met dien verstande dat het salaris van het statutaire personeelslid dat deeltijds herneemt nooit minder kan zijn dan het wachtgeld dat het zou krijgen als het in disponibiliteit wegens arbeidsongeschiktheid zou worden gesteld conform artikel 63/1.<br>
 <br>
-§3. Als de ziektekredietdagen opgebruikt zijn, kan het statutaire personeelslid in disponibiliteit wegens arbeidsongeschiktheid worden gesteld. Het krijgt een wachtgeld voor het afwezigheidspercentage dat gelijk is aan 60% van het laatste activiteitssalaris en de fictieve ontwikkeling daarvan, berekend volgens de regels die van toepassing zouden zijn geweest als het personeelslid nog in effectieve actieve dienst was gebleven. De disponibiliteit wegens arbeidsongeschiktheid maakt geen einde aan de stelsels van loopbaanonderbreking of zorgkrediet zoals vermeld in artikel 47, §2, tweede lid, 1° tot 5°, noch aan het onbezoldigde verlof vermeld in artikel 66.<br>
+§3. In afwijking van paragraaf 2 kan op verzoek van het statutaire personeelslid de afwezigheid tijdens de periode van deeltijdse prestaties wegens arbeidsongeschiktheid aangerekend worden op het ziektekrediet met behoud van het volledige salaris.<br>
 <br>
-In afwijking van het eerste lid kan de raad in de rechtspositieregeling bepalen dat het wachtgeld gelijk is aan het laatste activiteitssalaris als de disponibiliteit wegens arbeidsongeschiktheid het gevolg is van een aandoening die de bevoegde medische instantie, aangeduid door de raad in de rechtspositieregeling, erkent als ernstig en langdurig.<br>
+Bij uitputting van het ziektekrediet tijdens de periode van deeltijdse prestaties wegens arbeidsongeschiktheid zijn de bepalingen van paragraaf 2 van toepassing.
+
+### ART 63/1.
+
+Als de ziektekredietdagen, vermeld in artikel 62, §2, tweede lid, opgebruikt zijn en het statutaire personeelslid nog altijd arbeidsongeschikt is, kan dat personeelslid in disponibiliteit wegens arbeidsongeschiktheid worden gesteld.&nbsp;<br>
 <br>
-Het laatste activiteitssalaris, vermeld in het eerste en het tweede lid, is het salaris dat verschuldigd is overeenkomstig het prestatiestelsel op het ogenblik waarop het personeelslid in disponibiliteit is geplaatst.
+Het personeelslid, vermeld in het eerste lid, krijgt een wachtgeld voor het afwezigheidspercentage dat gelijk is aan 60% van het laatste activiteitssalaris en de fictieve ontwikkeling daarvan. Die bedragen worden berekend volgens de regels die van toepassing zouden zijn geweest als dat personeelslid nog in effectieve actieve dienst was gebleven.<br>
+<br>
+Het bedrag van dat wachtgeld, vermeld in het tweede lid, bedraagt nooit minder dan het pensioen dat de betrokkene gekregen zou hebben bij vervroegde pensionering op dezelfde dag waarop de toestand van disponibiliteit wegens ziekte of invaliditeit ingaat. Dat bedrag overschrijdt het bedrag van het laatste activiteitssalaris niet.<br>
+<br>
+De disponibiliteit wegens arbeidsongeschiktheid beëindigt niet de stelsels van loopbaanonderbreking of zorgkrediet, vermeld in artikel 47, §2, tweede lid, 1° tot en met 5°, of het onbezoldigde verlof, vermeld in artikel 66.<br>
+<br>
+In afwijking van het tweede lid kan de raad in de rechtspositieregeling bepalen dat het wachtgeld gelijk is aan het laatste activiteitssalaris als de disponibiliteit wegens arbeidsongeschiktheid het gevolg is van een aandoening die de bevoegde medische instantie die de raad in de rechtspositieregeling heeft aangewezen, erkent als ernstig en langdurig.<br>
+<br>
+Onder het laatste activiteitssalaris, vermeld in het tweede, het derde en het vijfde lid, wordt verstaan: het salaris dat verschuldigd is overeenkomstig het prestatiestelsel op het ogenblik waarop het personeelslid in disponibiliteit is geplaatst.
 
 ### ART 64.
 
@@ -1019,14 +1049,14 @@ De raad kan in de rechtspositieregeling nog andere dienstvrijstellingen regelen 
 7° huwelijk van een kind van het personeelslid, van de samenwonende of huwelijkspartner, of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van het huwelijk: 2 werkdagen;<br>
 8° overlijden van een bloed- of aanverwant van het personeelslid of de samenwonende partner in om het even welke graad, die onder hetzelfde dak woont als het personeelslid of de samenwonende partner: 2 werkdagen;<br>
 9° overlijden van een bloed- of aanverwant van het personeelslid of de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind, niet onder hetzelfde dak wonend als het personeelslid of de samenwonende partner: 1 werkdag;<br>
-9°/1 overlijden van de ouder van een pleegouder of een kind van het pleegkind, in het kader van langdurige pleegzorg op het moment van het overlijden, waarbij die ouder of dat kind niet onder hetzelfde dak woont als het personeelslid of de samenwonende partner: 1 werkdag;<br>
+9°/1 overlijden van de ouder van een pleegouder van het personeelslid, de samenwonende of huwelijkspartner of een kind van het pleegkind van het personeelslid, de samenwonende of huwelijkspartner, in het kader van langdurige pleegzorg op het moment van het overlijden, waarbij die ouder of dat kind niet onder hetzelfde dak woont als het personeelslid of de samenwonende partner: 1 werkdag;<br>
 10° huwelijk van een bloed- of aanverwant:&nbsp;<br>
 a) in de eerste graad, die geen kind is: de dag van het huwelijk;<br>
 b) in de tweede graad, van het personeelslid, de samenwonende of huwelijkspartner: de dag van het huwelijk;<br>
 10°/1 huwelijk van een:<br>
 a)&nbsp;&nbsp; &nbsp;pleegouder van het personeelslid, de samenwonende of huwelijkspartner: de dag van het huwelijk;<br>
 b)&nbsp;&nbsp; &nbsp;bloed- of aanverwant in de eerste en tweede graad van de pleegouder of het pleegkind van het personeelslid, de samenwonende of huwelijkspartner: de dag van het huwelijk;<br>
-11° priesterwijding of intrede in het klooster van een kind van het personeelslid, van de samenwonende of huwelijkspartner, van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de priesterwijding, of van een broer, zuster, schoonbroer of schoonzuster van het personeelslid: de dag van de rooms-katholieke plechtigheid of een daarmee overeenstemmende plechtigheid bij een andere erkende eredienst;<br>
+11° priesterwijding of intrede in het klooster van een kind van het personeelslid, van de samenwonende of huwelijkspartner, of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de priesterwijding of intrede in het klooster, of van een broer, zus, schoonbroer of schoonzus van het personeelslid: de dag van de rooms-katholieke plechtigheid of een plechtigheid die daarmee overeenstemt, bij een andere erkende eredienst;<br>
 12° plechtige communie van een kind van het personeelslid of van de samenwonende of huwelijkspartner of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de plechtige communie: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
 13° deelneming van een kind van het personeelslid of van de samenwonende of huwelijkspartner&nbsp;of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van het feest, aan het feest van de vrijzinnige jeugd: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
 14° deelneming van een kind van het personeelslid of van de samenwonende of huwelijkspartner of van een pleegkind van het personeelslid, van de samenwonende of huwelijkspartner in het kader van langdurige pleegzorg op het moment van de plechtigheid, aan een plechtigheid in het kader van een erkende eredienst die overeenstemt met de rooms-katholieke plechtige communie: de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag;<br>
@@ -1048,9 +1078,7 @@ Het omstandigheidsverlof is in alle gevallen bezoldigd, met uitzondering van het
 <br>
 Voor het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2°, hebben statutaire personeelsleden gedurende de eerste tien dagen recht op 100% van hun salaris en gedurende de tien resterende dagen recht op 82% van hun salaris. Om het salaris te bepalen, wordt het salaris begrensd op 26.230 euro tegen 100%.<br>
 <br>
-Voor het contractuele personeelslid wordt het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2°, toegekend conform de regeling, vermeld in artikel 30, § 2, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
-<br>
-Voor het personeelslid dat conform paragraaf 2 dienstvrijstelling heeft gekregen voor de gebeurtenis, vermeld in het eerste lid, 2°, worden die dagen dienstvrijstelling verminderd met het aantal dagen, vermeld in het eerste lid, 2°.
+Voor het contractuele personeelslid wordt het omstandigheidsverlof voor een gebeurtenis als vermeld in het eerste lid, 2°, toegekend conform de regeling, vermeld in artikel 30, § 2, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.
 
 ### ART 68.
 
