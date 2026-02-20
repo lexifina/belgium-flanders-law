@@ -27,14 +27,14 @@ Besluit :
 In dit besluit wordt verstaan onder :<br>
 1° Beroepscommissie : de Beroepscommissie voor Tuchtzaken, vermeld in artikel 133 van het Provinciedecreet van 9 december 2005;<br>
 2° tuchtoverheid : de tuchtoverheid, vermeld in artikel 119 van het Provinciedecreet van 9 december 2005;<br>
-3° schriftelijk : elke vorm van kennisgeving of elektronische verwerking van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en een bewijs oplevert van die verwerking, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens;<br>
+3° schriftelijk : elke vorm van kennisgeving of elektronische verwerking van gegevens die voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek, en een bewijs oplevert van die verwerking, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens;<br>
 4° werkdag : elke dag van de week, behalve zaterdag, zondag en wettelijke en decretale feestdagen.
 
 ### ART 2.
 
 In dit besluit wordt een elektronische verzending gelijkgesteld aan een overhandiging tegen ontvangstbewijs of een aangetekende brief, als aan al de volgende voorwaarden is voldaan :<br>
 1° het betrokken personeelslid stemt voorafgaandelijk in met de elektronische verzending;<br>
-2° de elektronische verzending voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek;<br>
+2° de elektronische verzending voldoet aan de voorwaarden, vermeld in artikel 1.5 van het Burgerlijk Wetboek;<br>
 3° de elektronische verzending levert een bewijs op van de verzending, van het tijdstip waarop ze is verricht, en van de authenticiteit en de integriteit van de verzonden gegevens.
 
 ## HOOFDSTUK 2. Vaststelling van de tuchtprocedure
