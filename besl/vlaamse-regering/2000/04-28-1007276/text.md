@@ -6,7 +6,11 @@
 
 ### ART. 2.
 
-<P>Afwijkingen van de stedenbouwkundige voorschriften, vermeld in artikel 5.6.7,   § 1, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening, kunnen niet worden   toegestaan voor de hernieuwing van de omgevingsvergunning voor de exploitatie   van een ingedeelde inrichting of activiteit die betrekking heeft op inrichtingen   of activiteiten waarvoor een milieueffectrapport of een   omgevingsveiligheidsrapport vereist is voor de volledigheid van de aanvraag van   een omgevingsvergunning.</P>
+<p>Afwijkingen van de stedenbouwkundige voorschriften, vermeld in artikel 5.6.7, § 1, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening, kunnen niet worden toegestaan voor de hernieuwing van de omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit die betrekking heeft op inrichtingen of activiteiten waarvoor, voor die inrichtingen of activiteiten of die onderdelen van inrichtingen of activiteiten die een afwijking vergen, een milieueffectrapport of een omgevingsveiligheidsrapport vereist is.</p>
+
+### ART 2/1.
+
+De verbodsbepalingen, vermeld in artikel 1 en 2 van dit besluit, gelden niet voor handelingen van algemeen belang als vermeld in artikel 4.1.1, 5°, van de Vlaamse Codex Ruimtelijke Ordening.
 
 ### ART. 3.
 
