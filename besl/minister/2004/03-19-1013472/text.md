@@ -242,6 +242,67 @@ Systeem V-4.7. Mestkelders met (water-) en mestkanaal, de laatste met schuine pu
 
 Systeem V-4.8. Gescheiden afvoer van mest en urine door middel van een mest- en giergoot met mestschraper<br /><br />3.4.8.1 De ammoniakemissie wordt beperkt door een beperking van het contact tussen mest en urine (primaire mestscheiding) in het mestkanaal en door een snelle verwijdering van mest en urine uit de stal. Het mestkanaal is uitgevoerd als een mestgoot met een hellende vloer en een onderliggende giergoot en is voorzien van een schraper. De urine wordt gescheiden van de mest en afgevoerd via de giergoot. De mest wordt dagelijks uit de mestgoot verwijderd met de schraper.<br /><br />3.4.8.2 Voor de uitvoering van het systeem gelden de volgende eisen :<br /><br />1° het mestkanaal moet aan volgende voorwaarden voldoen :<br />a) onder elk mestkanaal wordt in een mest- en giergoot voorzien die de volledige roosteroppervlakte omvat;<br />b) de mestgoot heeft een hellende vloer van 2, 2° ten opzichte van de werkvloer en heeft in het midden een spleetopening van 18 tot 22 mm over de volledige lengte;<br />c) de mestgoot is zo uitgevoerd dat een glad, niet-mestaanhechtend oppervlak ontstaat;<br />d) onder de spleetopening van de mestgoot is in een giergoot voorzien. De giergoot heeft een maximale breedte van 300 mm en is uitgevoerd met schuine wanden met een helling van 30° ten opzichte van de werkvloer;<br /><br />2° de hokuitvoering moet aan volgende voorwaarden voldoen :<br />a) er zijn twee soorten hokuitvoering mogelijk :<br />i. het hok wordt uitgevoerd met een volledige roostervloer waardoor het mestkanaal het volledige hok omvat. Er wordt een dichte betonstrook van 25 tot 50 cm aan de voorzijde van het hok aangebracht;<br />ii. het hok wordt uitgevoerd met in het midden een bolle vloer van 1,50 tot 2 m breed. Achteraan in het hok bevindt zich een mestkanaal van minstens 1,75 m breed. Vooraan in het hok bevindt zich een kanaal voorzien van een rooster. Dat kanaal mag hetzij als waterkanaal hetzij als mestkanaal uitgevoerd worden. Er wordt een dichte betonstrook van 25 tot 50 cm aan de voorzijde van het hok aangebracht; <br />b) als het voorste kanaal als waterkanaal uitgevoerd wordt, gelden de volgende eisen :<br />i. het roosteroppervlak boven het waterkanaal mag nooit groter zijn dan het roosteroppervlak boven het mestkanaal;<br />ii. de breedte van het wateroppervlak in het waterkanaal mag niet meer bedragen dan 0,60 m. Om dat te realiseren kan het waterkanaal worden uitgevoerd met één of twee schuine wanden of met een goot;<br />iii. na elke mestronde moet het waterkanaal afgelaten worden;<br />iv. het waterniveau in het waterkanaal moet minimaal 0,10 m bedragen;<br />v. in het afvoersysteem van het waterkanaal moet een (centrale) afsluiter worden aangebracht;<br />c) als het voorste kanaal als mestkanaal uitgevoerd wordt, moet het voldoen aan de vereisten vermeld in punt 1° ;<br /><br />3° het schrapersysteem moet aan volgende voorwaarden voldoen : <br />a) het schrapersysteem in de mestgoot bestaat uit een combinatie van twee schraperarmen die bevestigd zijn aan een centraal T-vormig chassis; <br />b) de schraperarmen zijn uitgevoerd in een omgekeerd V-vormig metaalprofiel. De hoogtelijn van het V-vormig profiel bedraagt minimaal 50 mm;<br />c) het T-vormig chassis van de schraper wordt met het verticale gedeelte ervan in de spleetopening van de mestgoot gemonteerd en zorgt voor de reiniging ervan;<br />d) de schraperarmen worden zo gemonteerd dat ze op maximaal 2 mm hoogte boven de vloer van de mestgoot bewegen;<br />e) het schrapersysteem wordt voortbewogen met behulp van een ketting en is aangedreven door een elektromotor; <br /><br />4° de mestafvoer moet aan volgende voorwaarden voldoen:<br />a) de vaste mest wordt door het schrapersysteem naar één zijde van de afdeling geschoven en vervolgens via een centrale mestband afgevoerd naar een afgesloten mestopslag;<br />b) de mestbanden moeten uitgevoerd worden in kunststof;<br />c) de mestbanden zijn zo geplaatst dat alle vaste mest uit de afdeling op de mestband terechtkomt met een minimale overlapping van 100 mm van de mestgoot ten opzichte van de centrale mestband;<br />d) bij het afdraaien van de mestband wordt de mest door middel van een kunststof schraper van de band verwijderd;<br />e) het afdraaien van de mestband gebeurt simultaan met het schraapsysteem in de stal en heeft een nadraaitijd die voldoende is om alle mest uit de stal te verwijderen;<br />f) de urine wordt via de giergoot afgevoerd naar een afgesloten gieropslag;<br /><br />5° de ventilatie moet aan volgende voorwaarden voldoen : <br />a) het stalsysteem moet gecombineerd worden met een ondergrondse geconditioneerde luchtinlaat;<br />b) de lucht moet binnenkomen onder de mestgoot;<br />c) de ruimte onder de mestgoot wordt gedimensioneerd op basis van een minimale luchtdoorlaatoppervlakte onder de mestgoot van 1,85 cm2 per m3 maximale ventilatiebehoefte. Op het dimensioneringsplan dat deel uitmaakt van de vergunningsaanvraag, moet duidelijk de relatie aangegeven worden met het aantal dieren, de maximale ventilatiebehoefte (uitgedrukt in m3 per uur), de luchtinlaatoppervlakte, de luchtdoorlaatoppervlakte onder de mestgoot en de maximale luchtsnelheid onder de mestgoot;<br /><br />6° de registratieapparatuur moet aan volgende voorwaarden voldoen : <br />a) apparatuur voor het registreren van zowel de frequentie als de duur van het schrapen en afdraaien van respectievelijk de schraper en de mestband, met een terugleesmogelijkheid van minstens zeven dagen;<br />b) apparatuur voor het registreren van de spoeling van de giergoot met een terugleesmogelijkheid van minstens zeven dagen.<br /><br />3.4.8.3 Voor het gebruik van het systeem gelden de volgende eisen : <br /><br />1° de schraper en de centrale mestband moeten de mest afvoeren volgens de volgende frequentie : <br />a) één keer per twee dagen voor dieren tot 50 kg;<br />b) één keer per dag voor zwaardere dieren;<br /><br />2° een wekelijkse spoeling van de giergoten moet ingebouwd worden. Het debiet voor de spoeling bedraagt minstens 10 liter per minuut. Als urine gebruikt wordt als spoelvloeistof, moet de urine op minstens 1 m boven de bodem van de gieropslag afgetapt worden; <br /><br />3° de eigenaar van de stal moeteen onderhoudscontract hebben waarbij eenmaal per jaar controle en onderhoud van het systeem plaatsvindt. Dat omvat onder meer controle van de schraper en sturing. <br /><br />3.4.8.4 De ammoniakemissie bedraagt 1,2 kg NH3 per dierplaats per jaar.
 
+### ART 3.5.1.
+
+3.5.1 Systeem V-5.1. Drijvende ballen in het mestoppervlak<br>
+<br>
+3.5.1.1
+<table border="1" style="width:100%">
+	<tbody>
+		<tr>
+			<td>Diercategorie:<br>
+			V-1 Biggen<br>
+			V-2 Zeugen (incl. biggen tot spenen) in kraamstallen<br>
+			V-3 Zeugen in dek- en drachtstallen<br>
+			V-4 Vleesvarkens<br>
+			PAS-code:<br>
+			PAS V-1.1<br>
+			PAS V-2.1<br>
+			PAS V-3.1<br>
+			PAS V-4.1<br>
+			Naam van het systeem:<br>
+			Drijvende ballen in het mestoppervlak<br>
+			<br>
+			Emissiefactor:<br>
+			29%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3.5.1.2. Werkingsprincipe &nbsp;<br>
+De ammoniakemissiereductie wordt gerealiseerd door het beperken van putemissies door het verkleinen van het emitterend mestoppervlak van de mestkelder van de stal, en dit door het laten drijven van ballen in het mestoppervlak. Wanneer mest op de bal valt, kantelt deze en valt de mest onder de bal in de mestkelder. &nbsp;<br>
+<br>
+3.5.1.3 Uitvoering van de maatregel &nbsp;<br>
+§1. Eisen aan de uitvoering &nbsp;<br>
+Voor een correcte uitvoering van de maatregel is steeds aan de volgende voorwaarden voldaan:<br>
+1° De mestkelder is voorzien van verticale wanden; &nbsp;<br>
+2° De ballen, drijvend op het emitterend mestoppervlak, voldoen aan de volgende voorwaarden:<br>
+a) Ze zijn gemaakt van HDPE (hoge dichtheid polyethyleen) en zijn niet mestaanhechtend;<br>
+b) Ze hebben een diameter van 225 mm; &nbsp;<br>
+c) Ze zijn voorzien van een glad oppervlak; &nbsp;<br>
+d) Ze zijn voor ongeveer de helft gevuld met water, en zodanig gevuld dat de ballen voor de helft in het mestoppervlak drijven; &nbsp;<br>
+e) Ze zijn lekvrij en mestbestendig. &nbsp;<br>
+3° Mestkelder onder de rooster: &nbsp;<br>
+a) Het volledig emitterend oppervlak is voorzien van de ballen, vermeld in punt 2°, dewelke tegen elkaar liggen;<br>
+b) De mestkelder is voorzien van 18 ballen per m² emitterend oppervlak. &nbsp;<br>
+<br>
+§2. Eisen aan het gebruik: &nbsp;<br>
+1° De mestkelder mag niet maximaal met mest gevuld zijn. De ballen, die in het mestoppervlak drijven, moeten zich altijd vrij kunnen bewegen; &nbsp;<br>
+2° Bij het afvoeren van de mest uit de mestkelder mogen de ballen niet uit de mestkelder verwijderd worden; &nbsp;<br>
+3° Het reinigingswater na elke productieronde moet in de mestkelder blijven staan. &nbsp;<br>
+<br>
+3.5.1.4 Controle van de maatregel &nbsp;<br>
+De eigenaar van de stal moet de technische fiche en een kopie van de factuur kunnen voorleggen van de leverancier.&nbsp;<br>
+<br>
+De technische fiche, alsook de factuur omvatten minstens de volgende gegevens:<br>
+1° het totaal aantal geleverde ballen;<br>
+2° het aantal ballen per mestkelder;<br>
+3° het type ballen.<br>
+<br>
+3.5.1.5 Emissiereductie &nbsp;<br>
+Bij toepassing van deze maatregel kan een ammoniakemissiereductie in rekening gebracht worden van 29%.<br>
+&nbsp;
+
 ## [HOOFDSTUK 4 P-lijst van ammoniakemissiearme stalsystemen voor pluimvee (ing. MB 31 mei 2011, art. 1, I: 8 juli 2011)]
 
 ## [Afdeling 1 Ammoniakemissiearme kooi- of batterijsystemen voor opfokpoeljen van legkippen (ing. MB 31 mei 2011, art. 1, I: 8 juli 2011)]
@@ -4728,6 +4789,63 @@ De emissiereductie wordt bepaald door het aantal uren beweiding per dag en aanee
 		</tr>
 	</tbody>
 </table>
+
+### ART 7.1.30.
+
+7.1.30. Drijvende ballen in het mestoppervlak<br>
+<br>
+7.1.30.1<br>
+&nbsp;
+<table border="1" style="width:100%">
+	<tbody>
+		<tr>
+			<td>Diercategorie:<br>
+			R-4 Vleeskalveren tot 8 maanden<br>
+			<br>
+			Code:<br>
+			R-4.3<br>
+			<br>
+			Naam van het systeem:<br>
+			Drijvende ballen in het mestoppervlak<br>
+			<br>
+			Emissiefactor:<br>
+			11%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+7.1.30.2 Werkingsprincipe &nbsp;<br>
+De ammoniakemissiereductie wordt gerealiseerd door het beperken van putemissies door het verkleinen van het emitterend mestoppervlak van de mestkelder van de stal, en dit door het laten drijven van ballen in het mestoppervlak. Wanneer mest op de bal valt, kantelt deze en valt de mest onder de bal in de mestkelder. &nbsp;<br>
+<br>
+7.1.30.3 Uitvoering van de maatregel &nbsp;<br>
+§1. Eisen aan de uitvoering &nbsp;<br>
+Voor een correcte uitvoering van de maatregel is steeds aan de volgende voorwaarden voldaan:<br>
+1° De mestkelder is voorzien van verticale wanden; &nbsp;<br>
+2° De ballen, drijvend op het emitterend mestoppervlak, voldoen aan de volgende voorwaarden:<br>
+a) Ze zijn gemaakt van HDPE (hoge dichtheid polyethyleen) en zijn niet mestaanhechtend;<br>
+b) Ze hebben een diameter van 225 mm; &nbsp;<br>
+c) Ze zijn voorzien van een glad oppervlak; &nbsp;<br>
+d) Ze zijn voor ongeveer de helft gevuld met water, en zodanig gevuld dat de ballen voor de helft in het mestoppervlak drijven; &nbsp;<br>
+e) Ze zijn lekvrij en mestbestendig. &nbsp;<br>
+3° Mestkelder onder de rooster: &nbsp;<br>
+a) Het volledig emitterend oppervlak is voorzien van de ballen, vermeld in punt 2°, dewelke tegen elkaar liggen;<br>
+b) De mestkelder is voorzien van 18 ballen per m² emitterend oppervlak. &nbsp;<br>
+&nbsp;<br>
+§2. Eisen aan het gebruik: &nbsp;<br>
+1° De mestkelder mag niet maximaal met mest gevuld zijn. De ballen, die in het mestoppervlak drijven, moeten zich altijd vrij kunnen bewegen; &nbsp;<br>
+2° Bij het afvoeren van de mest uit de mestkelder mogen de ballen niet uit de mestkelder verwijderd worden; &nbsp;<br>
+3° Het reinigingswater na elke productieronde moet in de mestkelder blijven staan. &nbsp;<br>
+<br>
+7.1.30.4 Controle van de maatregel &nbsp;<br>
+De eigenaar van de stal moet de technische fiche en een kopie van de factuur kunnen voorleggen van de leverancier.&nbsp;<br>
+<br>
+De technische fiche, alsook de factuur omvatten minstens de volgende gegevens:<br>
+1° het totaal aantal geleverde ballen;<br>
+2° het aantal ballen per mestkelder;<br>
+3° het type ballen.<br>
+<br>
+7.1.30.5 Emissiereductie &nbsp;<br>
+Bij toepassing van deze maatregel kan een ammoniakemissiereductie in rekening gebracht worden van 11%.
 
 ## Bijlage II Algemene aanvraagprocedure voor opname in de 'Lijst van stalsystemen voor ammoniakemissiereductie'
 
