@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041842,
+  "title": "Ministerieel besluit van 2026-02-24 over de oprichting van basisoverlegcomités in het beleidsdomein Omgeving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041842/VolledigDocument?datum=2026-02-24",
+  "source_sha256": "9e836a57497bfc99e4b0ced62e8a30d3bbab6e124396f2d5efd68930bbbdc3df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041842&param=informatie",
+  "as_of": "2026-02-24",
+  "made": "2026-02-24",
+  "gazette": "2026-03-19",
+  "numac": 2026002006,
+  "document_start": "2026-02-24",
+  "document_end": null,
+  "in_force": "2026-02-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
