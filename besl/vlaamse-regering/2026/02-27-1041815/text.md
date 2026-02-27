@@ -27,3 +27,62 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Omgeving en Landbouw.
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 worden herverdeeld overeenkomstig onderstaande tabel:<br>
+(in duizend euro)
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; text-align:center; vertical-align:middle; width:26%">Begrotingsartikel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:7%">Ent.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Basisall.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">ESR</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Van<br>
+			VAK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:11%">Van<br>
+			VEK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:9%">Naar<br>
+			VAK</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; width:9%">Naar<br>
+			VEK</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:26%">CB0-1CBD2AK-PR</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:7%">CB0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">1CB041</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">0100</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">15.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">15.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:9%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:9%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:26%">QB0-1QCG2OX-IS*</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:7%">QB0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">1QC183</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">4130</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:9%">15.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:9%">15.460</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:26%">Totaal</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:7%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">15.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:11%">15.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:9%">15.460</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; width:9%">15.460</td>
+		</tr>
+	</tbody>
+</table>
+<em>* De begroting 2026 van het MINAfonds wordt conform aangepast. Het budget wordt herschikt naar MINA-artikels QBX-3QCG2FY-IS (8.504k VAK/VEK naar 3QC085 en 6.956k VAK/VEK naar 3QC081).</em><br>
+&nbsp;
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor het budgettair beleid, is belast met de uitvoering van dit besluit.&nbsp;

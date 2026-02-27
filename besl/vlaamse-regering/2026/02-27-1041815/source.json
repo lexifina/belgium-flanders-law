@@ -2,16 +2,16 @@
   "codex_id": 1041815,
   "title": "Besluit van de Vlaamse Regering van 2026-02-27 tot herverdeling vanuit het provisioneel krediet ingeschreven onder begrotingsartikel CB0-1CBD2AK-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041815/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6e62fcd1074d05d136e4d4cad1f388c37d693d735e7f29b039de3e02e0426054",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041815/VolledigDocument?datum=2026-02-27",
+  "source_sha256": "aad6e67aa53c27db3dde569666288422201243e11ad02ff9014fd3565b5233ca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041815&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2026-02-27",
   "made": "2026-02-27",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2026-02-27",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-02-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-02-27; future article versions excluded; article text as the API gives it"
 }
