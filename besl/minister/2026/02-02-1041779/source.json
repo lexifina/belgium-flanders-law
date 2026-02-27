@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041779,
+  "title": "Ministerieel besluit van 2026-02-02 tot vervanging van een effectief lid en een plaatsvervangend lid van de strategische adviesraad Ruimtelijke Ordening en Onroerend Erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041779/VolledigDocument?datum=2026-02-27",
+  "source_sha256": "668e0a519322b661780dec2c8c99ec6437d8ea47da251d89257b6d285440cef5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041779&param=informatie",
+  "as_of": "2026-02-27",
+  "made": "2026-02-02",
+  "gazette": "2026-02-17",
+  "numac": 2026001190,
+  "document_start": "2026-02-27",
+  "document_end": null,
+  "in_force": "2026-02-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
