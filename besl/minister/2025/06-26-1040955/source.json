@@ -2,16 +2,16 @@
   "codex_id": 1040955,
   "title": "Ministerieel besluit van 2025-06-26 tot vaststelling van de nadere regels en technische vereisten, vermeld in artikels 6.4.1/1, 6.4.1/1/1, 6.4.1/5, 6.4.1/1/4 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040955/VolledigDocument?datum=2025-07-01",
-  "source_sha256": "493223b8c2eb712b975f359bcdd802fd821e7825536455e5b1a7bc7c54830085",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040955/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "f4ceb547c7b9b00f2e197880323782e73ff29957e3b08b1e082ebacf207941cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040955&param=informatie",
-  "as_of": "2025-07-01",
+  "as_of": "2026-03-01",
   "made": "2025-06-26",
   "gazette": "2025-06-30",
   "numac": 2025004902,
   "document_start": "2025-07-01",
   "document_end": "2026-02-28",
-  "in_force": "2025-07-01",
+  "in_force": "2026-03-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2025-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-03-01; future article versions excluded; article text as the API gives it"
 }
