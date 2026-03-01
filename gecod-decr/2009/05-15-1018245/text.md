@@ -1698,11 +1698,9 @@ c) het plaatsen van één of meer verplaatsbare constructies die voor bewoning k
 
 ### ART. 4.2.2.
 
-<p>§ 1. De Vlaamse Regering bepaalt de gevallen waarin de vergunningsplicht voor stedenbouwkundige handelingen vervangen wordt door een verplichte melding van de handelingen. De meldingsplicht betreft gevallen waarin de beoordelingsruimte van het bestuur minimaal is vanwege het eenvoudige en gangbare karakter van de handelingen in kwestie, of de onderworpenheid van de handelingen aan nauwkeurige stedenbouwkundige voorschriften, verkavelingsvoorschriften of integrale ruimtelijke voorwaarden als vermeld in artikel 4.3.1, § 2, tweede lid.<br>
+<p>§ 1. De Vlaamse Regering bepaalt de gevallen waarin de vergunningsplicht voor stedenbouwkundige handelingen vervangen wordt door een verplichte melding van de handelingen. De meldingsplicht kan alleen ingevoerd worden voor vergunningsplichtige stedenbouwkundige handelingen met een tijdelijk karakter.<br>
 <br>
-De Vlaamse Regering kan de werken die vrijgesteld zijn van de vergunningsplicht, vermeld in artikel 4.2.1, 5°, c), ook aan de meldingsplicht onderwerpen.<br>
-<br>
-De meldingsplichten, vermeld in het eerste en het tweede lid, kunnen nooit worden ingevoerd voor handelingen die in een ruimtelijk kwetsbaar gebied liggen.<br>
+De meldingsplicht, vermeld in het eerste lid, kan nooit worden ingevoerd voor handelingen in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied.<br>
 <br>
 § 2. Een meldingsakte wordt als een omgevingsvergunning voor stedenbouwkundige handelingen beschouwd voor de toepassing van regelgeving binnen andere beleidsvelden dan de ruimtelijke ordening. Een meldingsakte wordt ook gelijkgesteld met een voorafgaande toelating om te bouwen wat betreft de toepassing van artikel 4 van de wet van 20 februari 1939 op de bescherming van de titel en van het beroep van architect, tenzij de meldingsakte alleen betrekking heeft op handelingen die niet gebouwd worden.<br>
 <br>
@@ -1715,7 +1713,7 @@ De stedenbouwkundige vergunning geldt als aktename voor het deel van de   handel
 ### ART. 4.2.3.
 
 De Vlaamse Regering bepaalt de lijst van de handelingen waarvoor in afwijking van artikel 4.2.1 geen omgevingsvergunning voor stedenbouwkundige handelingen vereist is. Ze houdt hierbij rekening met:<br>
-1° het tijdelijk of occasioneel karakter van de handelingen, of;<br>
+1° het occasioneel karakter van de handelingen, of;<br>
 2° de ruimtelijke impact van de handelingen omwille van hun omvang, aard of ligging.<br>
 <br>
 Handelingen waarvoor een milieueffectenrapport, een passende beoordeling of een mobiliteitsstudie moet worden opgemaakt, worden uitgesloten van de lijst van handelingen waarvoor in afwijking van artikel 4.2.1 geen omgevingsvergunning voor stedenbouwkundige handelingen vereist is.<br>
@@ -2066,7 +2064,8 @@ Afwijkingen kunnen niet worden toegestaan voor wat betreft :<br>
 § 2. De volgende handelingen worden niet beschouwd als afwijkend van stedenbouwkundige voorschriften en verkavelingsvoorschriften, tenzij de voorschriften, andere dan verkavelingsvoorschriften, die handelingen uitdrukkelijk verbieden:<br>
 1° de plaatsing van fotovoltaïsche zonnepanelen of zonneboilers geïntegreerd in het dakvlak;<br>
 2° de creatie van een zorgwoning in de zin van artikel 4.2.4;<br>
-3° het aanbrengen van isolatie aan de buitenzijde van een woning met een dikte van ten hoogste 26 centimeter.<br>
+2°/1 handelingen die zijn onderworpen aan de meldingsplicht in toepassing van artikel 4.2.2, §1, op voorwaarde dat de op het perceel aanwezige gebouwen of constructies hoofdzakelijk vergund zijn;<br>
+3° het aanbrengen van isolatie aan de buitenzijde van een woning met een dikte van ten hoogste 26 centimeter<br>
 <br>
 § 3. De volgende zaken worden niet beschouwd als strijdig met voorschriften van het gewestplan, algemene plannen van aanleg, gewestelijke of provinciale ruimtelijke uitvoeringsplannen en meer dan vijftien jaar oude verkavelingen:<br>
 1° onderhoudswerken aan een hoofdzakelijk vergunde constructie;<br>
