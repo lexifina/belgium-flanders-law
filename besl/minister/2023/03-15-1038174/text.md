@@ -317,6 +317,86 @@ De aanvrager van een subsidie als vermeld in artikel 42/1, legt, samen met de aa
 2°&nbsp; een inschatting van het effect van het project op de hoeveelheid huisvuil &nbsp;en op de hoeveelheid bioafval in het werkingsgebied van het lokaal bestuur of het intergemeentelijk samenwerkingsverband;<br>
 3°&nbsp; de reproduceerbaarheid van het project door andere lokale besturen.
 
+## Hoofdstuk 5/2. Projecten zwerfvuil en sluikstort
+
+## Afdeling 1. Vuilnisbakkenplan
+
+### ART 42/5.
+
+De uitvoering van een vuilnisbakkenplan ter preventie van zwerfvuil komt in aanmerking voor een subsidie.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+Een vuilnisbakkenplan als vermeld in het eerste lid, bevat al de volgende elementen:<br>
+1° een vuilnisbakkeninventaris;<br>
+2° de monitoring van de vuilnisbakken, die minstens de meting bevat van de vullingsgraad en het misbruik in en rond de vuilnisbak;<br>
+3° de rapportage, analyse en bijsturing. &nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+In het tweede lid wordt verstaan onder:<br>
+1° analyse: een beoordeling van de resultaten van de monitoring van alle vuilnisbakken in de inventaris waarbij minstens de vullingsgraad en het misbruik gemeten worden;<br>
+2° bijsturing: een overzicht van alle acties en maatregelen die genomen zijn om het gebruik, het beheer en de locatie van de openbare vuilnisbakken te verbeteren, gemotiveerd op basis van de analyse;<br>
+3° rapportage: een overzicht van de meetresultaten, een analyse van de &nbsp; &nbsp; &nbsp;resultaten, en alle acties en maatregelen die genomen werden binnen het kader van het vuilnisbakkenplan;<br>
+4° vuilnisbakkeninventaris: een inventaris van alle vuilnisbakken op het openbaar domein die beheerd worden door het lokaal bestuur en die de volgende gegevens bevat per vuilnisbak:&nbsp;<br>
+a) de naam en de ID, namelijk een unieke code;<br>
+b) het adres en de geografische coördinaten;<br>
+c) het type van de locatie;<br>
+d) de ledigingsfrequentie.<br>
+&nbsp;
+
+### ART 42/6.
+
+Het maximumbedrag van de kosten die in aanmerking komen voor de subsidiëring van het vuilnisbakkenplan, vermeld in artikel 42/5, bedraagt:&nbsp;<br>
+1° 15.000 euro voor gemeenten met maximaal 10.000 inwoners;<br>
+2° 15.000 euro, vermeerderd met 2.000 euro per bijkomende schijf van 10.000 inwoners voor gemeenten met meer dan 10.000 inwoners, tot een maximumbedrag van 50.000 euro per gemeente. &nbsp;<br>
+<br>
+Voor kustgemeenten en centrumsteden wordt het maximumbedrag, vermeld in het eerste lid, op basis van het aantal inwoners verdubbeld tot maximaal 50.000 euro.<br>
+&nbsp;
+
+### ART 42/7.
+
+Het subsidiepercentage voor het vuilnisbakkenplan, vermeld in artikel 42/5, bedraagt 50%.
+
+### ART 42/8.
+
+De aanvrager van een subsidie als vermeld in artikel 42/5, bezorgt de rapportering, samen met de aanvraag tot uitbetaling van het subsidiebedrag, aan de OVAM. De voormelde aanvrager neemt al de volgende elementen op in de rapportering:<br>
+1° de vuilnisbakkeninventaris, vermeld in artikel 42/5;<br>
+2° de resultaten van de monitoring van alle vuilnisbakken in de inventaris waarbij minstens de vullingsgraad en het misbruik gemeten worden. De monitoring bestaat uit minimaal acht meetweken gespreid over de vier seizoenen, waarbij het aantal meetgegevens per vuilnisbak gelijk is aan de vooropgestelde ledigingsfrequentie;<br>
+3° een analyse en evaluatie van de resultaten van de monitoring, vermeld in punt 2°;<br>
+4° een overzicht van alle acties en maatregelen die genomen zijn om het gebruik, het beheer en de locatie van de openbare vuilnisbakken te verbeteren, gemotiveerd op basis van de analyse, vermeld in punt 3°;<br>
+5° de resultaten van de vervolgmonitoring ter opvolging van de impact van de uitgevoerde acties en aanpassingen, waarbij minstens de vuilnisbakken of locaties die het onderwerp zijn van acties en maatregelen worden gemonitord. De effectmeting bestaat minimaal uit vier meetweken, waarbij de data per vuilnisbak gelijk zijn aan de vooropgestelde ledigingsfrequentie;<br>
+6° een overzicht van de publieke communicatie over het vuilnisbakkenplan.<br>
+&nbsp;
+
+## Afdeling 2. Aanpak van hotspots zwerfvuil en sluikstort
+
+### ART 42/9.
+
+Projecten van lokale besturen die zwerfvuil of sluikstort op een afgelijnde probleemlocatie in de openbare ruimte aanpakken om de openbare netheid te verbeteren, komen in aanmerking voor een subsidie.&nbsp;
+
+### ART 42/10.
+
+Het maximumbedrag van de kosten voor de uitvoering van het project, vermeld in artikel 42/9, die in aanmerking komen voor subsidiëring bedraagt 50.000 euro.&nbsp;
+
+### ART 42/11.
+
+Het subsidiepercentage voor projecten als vermeld in artikel 42/9, bedraagt 50%.
+
+### ART 42/12.
+
+De aanvrager van een subsidie, vermeld in artikel 42/9, bezorgt de rapportering aan de OVAM bij de aanvraag tot uitbetaling van het subsidiebedrag. De voormelde aanvrager neemt al de volgende elementen op in de rapportering:<br>
+1° &nbsp;&nbsp; &nbsp;de beschrijving van de problematiek en het projectgebied;<br>
+2° &nbsp;&nbsp; &nbsp;de resultaten en analyse van de nulmetingen op basis van het gewicht, volume of aantal getelde stuks zwerfvuil of sluikstort;<br>
+3° &nbsp;&nbsp; &nbsp;een overzicht van de uitgevoerde acties en maatregelen, onderverdeeld op basis van de volgende pijlers:<br>
+a)&nbsp;&nbsp; &nbsp;preventie;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;infrastructuur;<br>
+c)&nbsp;&nbsp; &nbsp;omgeving;<br>
+d)&nbsp;&nbsp; &nbsp;participatie;<br>
+e)&nbsp;&nbsp; &nbsp;sensibilisering;<br>
+f)&nbsp;&nbsp; &nbsp;handhaving;<br>
+4° &nbsp;&nbsp; &nbsp;de resultaten van de impactmetingen op basis van het gewicht, het volume of het getelde aantal stuks zwerfvuil of sluikstort;<br>
+5° &nbsp;&nbsp; &nbsp;de evaluatie van de resultaten en het project;<br>
+6° &nbsp;&nbsp; &nbsp;een overzicht van de communicatie die gevoerd is over het project.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In het eerste lid wordt verstaan onder impactmeting: een meting van het gewicht, volume of het aantal getelde stuks zwerfvuil of sluikstort op vooraf afgebakende locaties of meetstroken binnen het projectgebied met als doel om het effect van de getroffen acties en maatregelen binnen het project te kwantificeren. Om de impact of het effect correct te meten zijn de meetstroken en de methodiek gelijk aan de nulmeting.
+
 ## Hoofdstuk 6. Slotbepalingen
 
 ### ART 43.
