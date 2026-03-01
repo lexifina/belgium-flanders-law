@@ -2,16 +2,16 @@
   "codex_id": 1039693,
   "title": "Ministerieel besluit van 2024-05-03 tot wijziging van het ministerieel besluit van 15 maart 2023 tot vaststelling van nadere regels voor de subsidiëring van lokale besturen voor het afval- en materialenbeheer en tot opheffing van het ministerieel besluit van 12 oktober 2017 houdende vaststelling van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lokale besturen worden uitgevoerd",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039693/VolledigDocument?datum=2025-03-01",
-  "source_sha256": "08fa34e6947551b1cd660e8801f5964ce6b5e05b6d5b9349b1d69b9cf0f6c70c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039693/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "3abe2a62db15e9d54ecf4e10b54208d26a4a9a5464330ec55e5070483747fa76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039693&param=informatie",
-  "as_of": "2025-03-01",
+  "as_of": "2026-03-01",
   "made": "2024-05-03",
   "gazette": "2024-05-14",
   "numac": 2024004616,
   "document_start": "2024-05-24",
   "document_end": null,
-  "in_force": "2025-03-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2025-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-03-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-03-01; future article versions excluded; article text as the API gives it"
 }
