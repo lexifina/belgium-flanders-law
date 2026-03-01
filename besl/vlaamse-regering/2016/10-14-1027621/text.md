@@ -107,7 +107,11 @@ Vanaf het jaar 2022 wordt het bedrag, vermeld in het eerste lid, zoals geïndexe
 <br>
 Vanaf het jaar 2024 wordt het bedrag, vermeld in het eerste lid, dat wordt geïndexeerd conform artikel 16, eerste lid, verhoogd met 187.500 euro.<br>
 <br>
-Met behoud van de toepassing van de verhoging, vermeld in het vijfde lid, wordt voor het jaar 2026 het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 271.247 euro.
+Met behoud van de toepassing van de verhoging, vermeld in het vijfde lid, wordt voor het jaar 2026 het bedrag, vermeld in het eerste lid, zoals geïndexeerd conform artikel 16, eerste lid, verminderd met 271.247 euro.<br>
+<br>
+Voor het jaar 2026 wordt het bedrag, vermeld in het eerste lid, dat wordt geïndexeerd conform artikel 16, eerste lid, verhoogd met 282.816 euro.<br>
+<br>
+Vanaf het jaar 2027 wordt het bedrag, vermeld in het eerste lid, dat wordt geïndexeerd conform artikel 16, eerste lid, verhoogd met 299.665 euro.
 
 ### ART 9.
 
@@ -391,21 +395,21 @@ In afwijking van het negende lid worden voor het jaar 2024 als basis voor de sub
 <br>
 § 2. In afwijking van paragraaf 1 wordt het saldo van de subsidie voor werkingskosten voor de zorgtickets en de mobiliteitshulpmiddelen&nbsp;en de tegemoetkomingen voor het multidisciplinair overleg uitbetaald op 15 november van het betrokken kalenderjaar.
 
-## HOOFDSTUK 3. Vergoeding van de indicatiestellingen voor [het zorgbudget voor zwaar zorgbehoevenden (verv. BVR 14 december 2018, art. 11, I: 1 januari 2019)]
+## HOOFDSTUK 3. Vergoeding van de indicatiestellingen voor het zorgbudget voor zwaar zorgbehoevenden of voor het zorgbudget voor ouderen met een zorgnood
 
 ### ART 15.
 
-§ 1. In dit artikel wordt verstaan onder indicatiestelling: het vaststellen van de ernst en de duur van de verminderde zelfredzaamheid, vermeld in artikel 156 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+§ 1. In dit artikel wordt verstaan onder indicatiestelling: het vaststellen van de ernst en de duur van de verminderde zelfredzaamheid, vermeld in artikel 156 of 193/1 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
-§ 2. Een zorgkas ontvangt een vergoeding van 100 euro per uitgevoerde indicatiestelling voor het zorgbudget voor zwaar zorgbehoevenden op voorwaarde dat die indicatiestelling uitgevoerd is door een door de gebruiker of zijn vertegenwoordiger gekozen gemachtigde indicatiesteller en op voorwaarde dat de zorgkas de gemachtigde indicatiesteller voor de indicatiestelling vergoedt.<br>
+§ 2. Een zorgkas ontvangt een vergoeding van 100 euro per uitgevoerde indicatiestelling voor het zorgbudget voor zwaar zorgbehoevenden&nbsp;of voor het zorgbudget voor ouderen met een zorgnood op voorwaarde dat die indicatiestelling uitgevoerd is door een door de gebruiker of zijn vertegenwoordiger gekozen gemachtigde indicatiesteller en op voorwaarde dat de zorgkas de gemachtigde indicatiesteller voor de indicatiestelling vergoedt.<br>
 <br>
 Elke maand dient de zorgkas daarvoor een aanvraag in bij het agentschap volgens de voorwaarden die het agentschap zelf vastlegt. Het agentschap betaalt de vergoeding, vermeld in het eerste lid, per maand.<br>
 <br>
-§ 3. Het recht op de vergoeding voor de uitgevoerde indicatiestelling vervalt als de dienst voor gezinszorg en aanvullende thuiszorg of het Openbaar Centrum voor Maatschappelijk Welzijn als gemachtigde indicatiesteller de indicatiestelling heeft uitgevoerd en als die dienst of dat centrum binnen zes maanden na die indicatiestelling persoonsverzorging, huishoudelijke hulp of schoonmaakhulp in het kader van het Woonzorgdecreet van 13 maart 2009 verstrekt aan de gebruiker.<br>
+§ 3. Het recht op de vergoeding voor de uitgevoerde indicatiestelling vervalt als de dienst voor gezinszorg, vermeld in artikel 11 van het Woonzorgdecreet van 15 februari 2019, het openbaar centrum voor maatschappelijk welzijn of de welzijnsvereniging, vermeld in artikel 475 van het decreet van 22 december 2017 over het lokaal bestuur, als gemachtigde indicatiesteller de indicatiestelling heeft uitgevoerd en als die dienst, dat centrum of die vereniging binnen zes maanden na die indicatiestelling een van de vormen van zorg en ondersteuning, vermeld in artikel 12, §1, eerste lid, van het Woonzorgdecreet van 15 februari 2019, verstrekt aan de gebruiker.<br>
 <br>
 In de gevallen, vermeld in het eerste lid, wordt de daarvoor uitbetaalde vergoeding in mindering gebracht op de volgende uit te betalen vergoedingen.<br>
 <br>
-§ 4. De gemachtigde indicatiestellers sturen de facturen voor de vergoeding van indicatiestellingen in het kader van&nbsp;het zorgbudget voor zwaar zorgbehoevenden naar de zorgkas waarbij de geïndiceerde aangesloten is. Het agentschap kan nadere voorwaarden bepalen waaraan de facturatie moet voldoen.<br>
+§ 4. De gemachtigde indicatiestellers sturen de facturen voor de vergoeding van indicatiestellingen in het kader van&nbsp;het zorgbudget voor zwaar zorgbehoevenden of voor het zorgbudget voor ouderen met een zorgnood naar de zorgkas waarbij de geïndiceerde aangesloten is. Het agentschap kan nadere voorwaarden bepalen waaraan de facturatie moet voldoen.<br>
 <br>
 Het agentschap vergoedt de indicatiestelling niet als de factuur van de gemachtigde indicatiesteller niet voldoet aan de voorwaarden, opgelegd door het agentschap.<br>
 <br>
@@ -478,7 +482,9 @@ De bedragen, vermeld in artikel 8, eerste lid, artikel 9, tweede lid, artikel 11
 <br>
 Het bedrag, vermeld in artikel 13/3/2, §1, wordt, met ingang van het kalenderjaar 2025, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2023.<br>
 <br>
-De bedragen, vermeld in artikel 8, vijfde lid, artikel 10, eerste lid, en artikel 15, §2, eerste lid, worden, met ingang van het kalenderjaar 2025, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2023.
+De bedragen, vermeld in artikel 8, vijfde lid, artikel 10, eerste lid, en artikel 15, §2, eerste lid, worden, met ingang van het kalenderjaar 2025, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2023.<br>
+<br>
+Het bedrag, vermeld in artikel 8, achtste lid, wordt, met ingang van het kalenderjaar 2027, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2025.
 
 ## [HOOFDSTUK 6. Toezicht op de subsidie of vergoedingen voor de werkingskosten en de tegemoetkomingen aan de zorgkassen en de verzekeringsinstellingen (verv. BVR 14 december 2018, art. 31, I: 1 januari 2019)]
 
