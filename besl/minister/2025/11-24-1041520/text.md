@@ -18,7 +18,7 @@ DE VLAAMSE MINISTER VAN BEGROTING EN FINANCIËN, VLAAMSE RAND, ONROEREND ERFGOED
 
 ### ART 1.
 
-De volgende personeelsleden van de afdeling Dierenwelzijn worden aangesteld als personeelslid belast met het opleggen van administratieve geldboetes en het voorstellen van alternatieve sancties, zoals vermeld in artikel 70, §1, eerste lid, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024:<br>
+De volgende personeelsleden van de afdeling Dierenwelzijn worden aangesteld als personeelslid belast met het opleggen van administratieve geldboetes en het voorstellen van een geldsom of een alternatieve sanctie, zoals vermeld in artikel 70, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024:<br>
 1° Camille Monsieur;<br>
 2° Joris Van Mierloo;<br>
 3° Karen Demeyere;<br>
@@ -27,7 +27,7 @@ De volgende personeelsleden van de afdeling Dierenwelzijn worden aangesteld als 
 
 ### ART 2.
 
-De secretaris-generaal van het Departement Omgeving wijst de personeelsleden van de afdeling Stafdiensten &amp; Internationale werking (staf) aan, die worden aangesteld als personeelslid belast met het viseren en uitvoerbaar verklaren van dwangbevelen, zoals vermeld in artikel 73, §1, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.
+De secretaris-generaal van het Departement Omgeving wijst de personeelsleden van de afdeling Organisatieondersteuning aan, die worden aangesteld als personeelslid belast met het viseren en uitvoerbaar verklaren van dwangbevelen, zoals vermeld in artikel 73, §1, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.
 
 ### ART 3.
 
