@@ -695,23 +695,22 @@ De Vlaamse Raad voor Dierenwelzijn heeft de volgende taken:<br>
 
 §1. Het Vlaams Dierenwelzijnsfonds is een begrotingsfonds als vermeld in artikel 15, §2, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
-§2. Het Vlaams Dierenwelzijnsfonds wordt gespijsd met:<br>
-1° de volgende opbrengsten:<br>
-a) de retributie voor de aanvragen tot erkenning, vermeld in artikel 8, §2, tweede lid;<br>
-b) de bijdrage voor de identificatie en registratie van honden en katten, vermeld in artikel 14;&nbsp;<br>
-c) de retributie voor de aanvragen tot erkenning, vermeld in artikel 17, §3;<br>
-d) de retributie voor het toekennen van het certificaat van goedkeuring van het wegvervoermiddel, vermeld in artikel 33, §2;<br>
-e) de retributie voor het toekennen van de vergunning, vermeld in artikel 33, §3;<br>
-f) de retributie voor de aanvragen tot erkenning, vermeld in artikel 33, §4;<br>
-g) de retributie voor de aanvragen tot erkenning, vermeld in artikel 49, §1, tweede lid;<br>
-h) de retributie voor de opdrachten die zijn uitgevoerd door de dierenart-sen die door het departement zijn aangesteld, vermeld in artikel 65, §2, tweede lid;<br>
-i) de administratieve geldboetes, vermeld in artikel 70, §1;<br>
-j) &nbsp;&nbsp; &nbsp;de administratieve boetes bedoeld in artikel 41bis van de wet van 14 au-gustus 1986 betreffende de bescherming en het welzijn der dieren.<br>
-2° schenkingen, legaten en sponsoring;<br>
+§2. Het Vlaams Dierenwelzijnsfonds wordt gespijsd met: 1°&nbsp;&nbsp; &nbsp;de volgende opbrengsten:<br>
+a)&nbsp;&nbsp; &nbsp;de retributie voor de aanvragen tot erkenning, vermeld in artikel 8, §2, tweede lid, van dit decreet;<br>
+b)&nbsp;&nbsp; &nbsp;de bijdrage voor de identificatie en registratie van honden en katten, vermeld in artikel 14 van dit decreet;<br>
+c)&nbsp;&nbsp; &nbsp;de retributie voor de aanvragen tot erkenning, vermeld in artikel 17, §3, van dit decreet;<br>
+d)&nbsp;&nbsp; &nbsp;de retributie voor het toekennen van het certificaat van goedkeuring van het wegvervoermiddel, vermeld in artikel 33, §2, van dit decreet;<br>
+e)&nbsp;&nbsp; &nbsp;de retributie voor het toekennen van de vergunning, vermeld in artikel 33, §3, van dit decreet;<br>
+f)&nbsp;&nbsp; &nbsp;de retributie voor de aanvragen tot erkenning, vermeld in artikel 33, §4, van dit decreet;<br>
+g)&nbsp;&nbsp; &nbsp;de retributie voor de aanvragen tot erkenning, vermeld in artikel 49, §1, tweede lid, van dit decreet;<br>
+h)&nbsp;&nbsp; &nbsp;de retributie voor de opdrachten die zijn uitgevoerd door de dierenartsen die door het departement zijn aangesteld, vermeld in artikel 65, §2, tweede lid, van dit decreet;<br>
+i)&nbsp;&nbsp; &nbsp;de administratieve geldboetes, vermeld in artikel 70, §3, van dit decreet;<br>
+j)&nbsp;&nbsp; &nbsp;de administratieve boetes, vermeld in artikel 41bis van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+k)&nbsp;&nbsp; &nbsp;de geldsommen, vermeld in artikel 70, §3, van dit decreet;”; 2° schenkingen, legaten en sponsoring;<br>
 3° vrijwillige bijdragen van de proefdiergebruikers voor onderzoek naar en promotie van alternatieven voor dierproeven;<br>
 4° rechtsplegingsvergoedingen die in het kader van rechtszaken opgelegd kunnen worden;<br>
 5° de inning van onkosten die bij verantwoordelijken worden teruggevorderd en die voortvloeien uit de inbeslagname van hun verwaarloosde dieren;<br>
-6° de inning van onkosten die bij verantwoordelijken worden teruggevorderd en die voortvloeien uit het uitvoeren van maatregelen met toepassing van artikel 64, §2, zevende lid.<br>
+6° de inning van onkosten die bij verantwoordelijken worden teruggevorderd en die voortvloeien uit het uitvoeren van maatregelen met toepassing van artikel 64, §2/1, vierde lid, van dit decreet.<br>
 <br>
 §3. De inkomsten van het Vlaams Dierenwelzijnsfonds kunnen aangewend worden voor de financiering van:<br>
 1° administratie- en werkingskosten met inbegrip van de personeelskosten van de entiteit die bevoegd is voor dierenwelzijn en van de kosten voor juridische bijstand;<br>
@@ -726,7 +725,7 @@ j) &nbsp;&nbsp; &nbsp;de administratieve boetes bedoeld in artikel 41bis van de 
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de toekenning van de dierenwelzijnsprijzen, vermeld in het eerste lid, 4°, met inbegrip van het bepalen van de voorwaarden en het bedrag ervan, alsook de procedure voor het verlenen van de dierenwelzijnsprijzen.<br>
 <br>
-De Vlaamse Regering kan nadere regels bepalen voor het verlenen van de subsidies, vermeld in het eerste lid, 7° tot en met 9°, met inbegrip van het bepalen van de subsidievoorwaarden, het bedrag van de subsidies, alsook de procedure voor het aanvragen en verlenen van de subsidies, de uitbetaling, de verantwoording en het toezicht.
+De Vlaamse Regering kan nadere regels bepalen voor het verlenen van de subsidies, vermeld in het eerste lid, 7° tot en met 9°, met inbegrip van het bepalen van de subsidievoorwaarden, het bedrag van de subsidies, alsook de procedure voor het aanvragen, beoordelen en verlenen van de subsidies, de uitbetaling, de verantwoording, het toezicht en de terugvordering ervan.
 
 ## Hoofdstuk 12. Controle, handhaving en bestraffing
 
@@ -754,13 +753,21 @@ De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen zich bij de 
 <br>
 De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen over-gaan tot het verhoor van de overtreder en tot elk ander nuttig verhoor.<br>
 <br>
-De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen alle nodige maatregelen treffen of opleggen om de naleving te verzekeren van de bepalingen van dit decreet, de uitvoeringsbesluiten ervan en de Europese verordeningen, beschikkingen en besluiten ter zake. De eventuele kosten voor het departement door de voormelde maatregelen worden verhaald op de verantwoordelijke van het dier.<br>
+§2/1. De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen alle andere nodige maatregelen dan de maatregelen, vermeld in het tweede lid, treffen of opleggen om de naleving te verzekeren van de bepalingen van dit decreet, de uitvoeringsbesluiten ervan en de Europese verordeningen, beschikkingen en besluiten ter zake.<br>
+&nbsp;<br>
+Naast de maatregelen, vermeld in het eerste lid, kan de Vlaamse Regering het volgende bepalen:<br>
+1° de maatregelen aangaande de huisvesting en verzorging van de dieren of het aantal dieren dat gehouden kan worden, die beperkingen van grondrechten inhouden die de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen treffen of opleggen en de voorwaarden waaronder hiervan gebruikgemaakt kan worden;<br>
+2° de dwingende toezichtrechten die de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen gebruiken.<br>
+<br>
+De persoon aan wie de maatregelen, vermeld in het eerste en tweede lid, worden opgelegd, is verplicht die uit te voeren. Het is verboden de maatregelen, getroffen door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, teniet te doen, tenzij het anders bepaald is door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°.<br>
+<br>
+De eventuele kosten voor het departement als gevolg van de maatregelen, vermeld in het eerste en tweede lid, worden verhaald op de verantwoordelijke van het dier.<br>
 <br>
 §3. Zonder afbreuk te doen aan de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, kunnen de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, vaststellingen doen met audiovisuele middelen. Ze kunnen ook audiovisueel materiaal van derden gebruiken, als die derden dat materiaal rechtmatig hebben gemaakt of verkregen.&nbsp;<br>
 <br>
 §4. Het proces-verbaal dat wordt opgemaakt door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, heeft bewijskracht tot het tegenbewijs is geleverd. De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen ook een proces-verbaal opstellen voor overtredingen op de verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 die zijn vastgesteld door officiële controle-instanties in het buitenland, maar die begaan zijn op het grondgebied van het Vlaamse Gewest. Een afschrift van het proces-verbaal wordt, op straffe van verval van de bewijswaarde tot het tegendeel, binnen vijftien dagen nadat het proces-verbaal is afgesloten, aan de overtreders toegezonden.<br>
 <br>
-§5. Een proces-verbaal dat is opgesteld door de personen, vermeld in paragraaf 1, eerste lid, 2°, wordt bezorgd aan de ambtenaar die is aangesteld met toepassing van artikel 70, §1, die ze bezorgt aan het Openbaar Ministerie.&nbsp;<br>
+§5. Een proces-verbaal dat is opgesteld door de personen, vermeld in paragraaf 1, eerste lid, 2°, wordt bezorgd aan het openbaar ministerie. Een afschrift van het proces-verbaal, opgesteld door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, wordt, op hetzelfde moment als de verzending van het proces-verbaal aan het openbaar ministerie, bezorgd aan de personeelsleden, vermeld in artikel 70, §2.&nbsp;<br>
 <br>
 §6. Als een overtreding van dit decreet of van een uitvoeringsbesluit ervan of van de Europese verordeningen en beschikkingen en besluiten ter zake is vastgesteld, kunnen de personen, vermeld in paragraaf 1, eerste lid, 2°, een proces-verbaal van waarschuwing opstellen waarin de overtreder tot stopzetting van de overtreding wordt aangemaand.<br>
 <br>
@@ -769,9 +776,7 @@ Het proces-verbaal van waarschuwing, vermeld in het eerste lid, wordt binnen vij
 Het proces-verbaal van waarschuwing, vermeld in het eerste lid, bevat de volgende elementen:<br>
 1° de ten laste gelegde feiten en de overtreden bepaling of bepalingen van dit decreet, de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake;<br>
 2° de termijn waarin de feiten, vermeld in punt 1°, moeten worden stopgezet;<br>
-3° de volgende vermeldingen:&nbsp;<br>
-&nbsp; a) de vermelding dat als geen gevolg wordt gegeven aan de waarschuwing, een proces-verbaal van overtreding wordt opgesteld dat wordt bezorgd aan de ambtenaar, vermeld in artikel 70, §1;<br>
-&nbsp; b) de vermelding dat het Openbaar Ministerie zal kunnen worden ingelicht.<br>
+3° de vermelding dat, als er geen gevolg wordt gegeven aan de waarschuwing, een proces-verbaal van overtreding wordt opgesteld dat wordt bezorgd aan het openbaar ministerie en aan de personeelsleden, vermeld in artikel 70, §2.<br>
 <br>
 §7. Het is verboden de in dit artikel bedoelde bevoegdheden van de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, te verhinderen.
 
@@ -789,7 +794,7 @@ De Vlaamse Regering kan het tarief en de regels bepalen voor de betaling van ret
 
 ### ART 66.
 
-De persoon die handelt in strijd met de bepalingen van dit decreet of de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake wordt gestraft met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 52 euro tot 100.000 euro, of met een van die straffen alleen.
+De persoon die handelt in strijd met de bepalingen van dit decreet of de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake, er opdracht toe heeft gegeven of er haar medewerking aan heeft verleend, wordt gestraft met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 52 euro tot 100.000 euro, of met een van die straffen alleen.
 
 ### ART 67.
 
@@ -806,38 +811,85 @@ Naast de straffen, vermeld in artikel 66 en 67, kan de rechtbank de volgende vei
 
 De rechtbank beveelt bij dierengevechten of -schietoefeningen de verbeurdverklaring van de inzetten, het entreegeld en de voorwerpen of installaties die voor die gevechten of die schietoefeningen zijn gebruikt.
 
+### ART 69/1.
+
+§1. Het personeelslid, vermeld in artikel 70, §2, kan tot de administratieve afhandeling overgaan, tenzij de procureur des Konings binnen negentig dagen na de dag waarop die het proces-verbaal heeft ontvangen, meedeelt dat hij tot strafrechtelijke afhandeling zal overgaan. Het openbaar ministerie kan op dossierspecifiek gemotiveerd verzoek, binnen de termijn van negentig dagen, die termijn één keer met ten hoogste negentig dagen verlengen. In dat geval brengt het openbaar ministerie het personeelslid, vermeld in artikel 70, §2, hiervan onmiddellijk op de hoogte. Als de procureur des Konings niet binnen de termijn van negentig dagen, die eventueel wordt verlengd, aan het personeelslid, vermeld in artikel 70, §2, heeft meegedeeld dat hij tot strafrechtelijke afhandeling overgaat, vervalt de strafvordering.<br>
+<br>
+De personeelsleden, vermeld in artikel 70, §2, kunnen een protocol afsluiten met het college van procureurs-generaal waarin de bezorging aan deze personeelsleden van de dossiers waarvoor tot administratieve afhandeling kan worden overgegaan, wordt geregeld. Indien een dergelijk protocol niet bestaat, kunnen de vermelde personeelsleden in de gevallen waarin tot administratieve afhandeling kan worden overgegaan, de procureur des Konings verzoeken het dossier te bezorgen.<br>
+<br>
+§2. De personeelsleden, vermeld in artikel 70, §2, kunnen met het college van procureurs-generaal een protocol sluiten waarin wordt overeengekomen om bepaalde misdrijven in beginsel altijd administratief te vervolgen.<br>
+<br>
+Het protocol, vermeld in het eerste lid, bevat al de volgende elementen:<br>
+1° de beschrijving van de misdrijven die in beginsel administratief worden vervolgd;<br>
+2° de eventuele bijkomende voorwaarden waaraan voldaan moet zijn om een misdrijf in beginsel administratief te kunnen vervolgen;<br>
+3° de kennisgeving van de misdrijven aan het openbaar ministerie;<br>
+4° de gevallen waarin en de voorwaarden waaronder het openbaar ministerie alsnog kan beslissen tot de strafrechtelijke afhandeling;<br>
+5° de geldigheidsduur van het protocol.<br>
+&nbsp;<br>
+De Vlaamse Regering kan de nadere regels bepalen voor de maximale geldigheidsduur van het protocol, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering keurt het protocol goed en maakt het bekend op de website van het departement.<br>
+<br>
+Als in toepassing van het protocol wordt overgegaan tot administratieve afhandeling, vervalt de strafvordering.
+
 ### ART 70.
 
-§1. De ambtenaar of ambtenaren binnen het departement die daarvoor zijn aangesteld door de Vlaamse Regering kan bij overtreding van dit decreet, de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake, een administratieve geldboete opleggen.<br>
+§1. In dit artikel wordt verstaan onder:<br>
+1° beveiligde zending: de zending die gebeurt via een van de volgende betekeningswijzen:<br>
+a) een elektronisch aangetekende zending;<br>
+b) een aangetekende brief;<br>
+c) een afgifte tegen ontvangstbewijs;<br>
+d) een betekening door een gerechtsdeurwaarder;<br>
+2° kennisgeving: een schriftelijke mededeling die wordt gedaan met een beveiligde zending.<br>
 <br>
-Het bedrag van de administratieve geldboete, vermeld in het eerste lid, mag niet lager zijn dan de helft van het minimum noch hoger zijn dan het maximum van de geldboete die voor de overtreding is bepaald, vermeld in artikel 66. Bij samenloop van verschillende overtredingen, kunnen de bedragen van de geldsommen samengevoegd worden.&nbsp;<br>
+De Vlaamse Regering kan andere betekeningswijzen dan de betekeningswijzen, vermeld in het eerste lid, 1°, die toelaten om de datum van kennisgeving vast te stellen, toelaten.<br>
 <br>
-§2. De ambtenaren, vermeld in paragraaf 1, kunnen een alternatieve sanctie aan de overtreder voorstellen voor ze een administratieve geldboete opleggen.&nbsp;<br>
+§2. De Vlaamse Regering stelt een of meer statutaire of contractuele personeelsleden aan binnen het departement die bij overtreding van dit decreet, de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake een administratieve geldboete kunnen opleggen of een alternatieve sanctie of een geldsom kunnen voorstellen.<br>
+<br>
+§3. Een administratieve geldboete kan worden opgelegd of een alternatieve sanctie of een geldsom kan worden voorgesteld aan de personen die het misdrijf hebben uitgevoerd, er opdracht toe hebben gegeven of er hun medewerking aan hebben verleend.<br>
+<br>
+Bij de bepaling van het bedrag van de administratieve geldboete of, in voorkomend geval, bij de voorstelling van een alternatieve sanctie of een geldsom wordt rekening gehouden met al de volgende factoren:<br>
+1° de ernst van het misdrijf;<br>
+2° de frequentie waarmee en de omstandigheden waarin het misdrijf is gepleegd of beëindigd.<br>
+<br>
+Het bedrag van de administratieve geldboete of van de geldsom mag niet lager zijn dan de helft van het minimum noch hoger dan het maximum van de geldboete die voor de overtreding is bepaald, vermeld in artikel 66. Bij samenloop van verschillende overtredingen kunnen de bedragen van de boetes of de geldsommen worden samengevoegd.<br>
+<br>
+§4. Voor ze een administratieve geldboete opleggen, kunnen de personeelsleden, vermeld in paragraaf 2, aan de overtreder een alternatieve sanctie of een geldsom voorstellen die wordt betaald binnen negentig dagen na de kennisgeving ervan aan de overtreder.<br>
 <br>
 De volgende alternatieve sancties kunnen conform het eerste lid worden voorgesteld:<br>
 1° een vorming die het departement heeft georganiseerd of goedgekeurd;<br>
-2° een taakstraf uitvoeren die minstens 20 uren en maximaal 45 uren bedraagt;&nbsp;<br>
-3° verplichte professionele begeleiding door een instantie of persoon die het departement aanwijst om het dierenwelzijnsprobleem dat voorwerp is van de overtreding te verhelpen.&nbsp;<br>
+2° een taakstraf die minstens 20 uur en maximaal 45 uur bedraagt;<br>
+3° verplichte professionele begeleiding door een instantie of persoon die het departement aanwijst om het dierenwelzijnsprobleem dat het voorwerp is van de overtreding, te verhelpen.<br>
 <br>
-De Vlaamse Regering kan de nadere modaliteiten hiervan bepalen.<br>
+Het voorstel voor een alternatieve sanctie of om een geldsom te betalen schorst de procedure tot het opleggen van een administratieve geldboete op.<br>
 <br>
-Als de overtreder de alternatieve sanctie, vermeld in het eerste lid, uitvoert en hiervoor een getuigschrift of attest voorlegt, kan er, voor de overtreding waarvoor ze is opgelegd, geen administratieve geldboete meer opgelegd worden door de ambtenaren, vermeld in paragraaf 1.<br>
+In de volgende gevallen kunnen de personeelsleden, vermeld in paragraaf 2, geen administratieve boete opleggen:<br>
+1° de overtreder voert de alternatieve sanctie, vermeld in het eerste lid, tijdig en integraal uit en kan een getuigschrift of attest voorleggen om dat te bewijzen;<br>
+2° de overtreder betaalt de geldsom, vermeld in het eerste lid, tijdig en integraal;<br>
 <br>
-§3. Binnen de termijn van drie maanden na de verzending van het proces-verbaal aan het Openbaar-Ministerie kan er door deze beslist worden om hetzij tot strafrechtelijke vervolging of tot seponering over te gaan hetzij dat door de ambtenaren, vermeld in paragraaf 1, tot de bestuurlijke afhandeling kan worden overgegaan. De ambtenaren, vermeld in paragraaf 1, worden door het Openbaar Ministerie op de hoogte gebracht van deze beslissing. Bij gebreke aan beslissing binnen deze termijn van drie maanden vervalt de strafvordering en kan tot bestuurlijke afhandeling overgegaan worden.&nbsp;<br>
+Het voorstel voor een alternatieve sanctie of om een geldsom te betalen vervalt van rechtswege en de administratieve sanctieprocedure wordt hervat als de alternatieve sanctie niet tijdig en integraal wordt uitgevoerd of de geldsom niet tijdig en integraal wordt betaald.<br>
 <br>
-§4. De ambtenaren, vermeld in paragraaf 1, kunnen met het Openbaar Ministerie een protocol afsluiten waarin wordt overeengekomen om bepaalde misdrijven in beginsel altijd bestuurlijk te vervolgen. In die gevallen worden in afwijking van artikel 64, §5, de betrokken processen-verbaal niet overgemaakt aan het Openbaar-Ministerie.<br>
+§5. Het personeelslid, vermeld in paragraaf 2, brengt de betrokkene met een beveiligde zending op de hoogte van het voornemen om een administratieve geldboete op te leggen. De betrokkene wordt uitgenodigd om binnen dertig dagen na de kennisgeving van dat bericht schriftelijk een verweer mee te delen.<br>
 <br>
-De Vlaamse Regering kan nadere regels bepalen met betrekking tot de goedkeuring, inhoud en geldigheidsduur van het protocol, vermeld in het eerste lid.<br>
+Als de betrokkene daarom verzoekt, kan die de documenten op basis waarvan het voornemen tot het opleggen van een administratieve geldboete is genomen, inzien en er een kopie van ontvangen.<br>
 <br>
-§5. Er kan geen administratieve geldboete worden opgelegd of een alternatieve sanctie als vermeld in paragraaf 1 of 2 worden voorgesteld meer dan drie jaar na de feitelijke overtreding van de bepalingen van dit decreet, de uitvoerings-besluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake.<br>
+Het personeelslid, vermeld in paragraaf 2, beslist nadat die het verweer heeft ontvangen of, als de betrokkene geen verweer indient, nadat de termijn, vermeld in het eerste lid, is verstreken, over het opleggen van de administratieve geldboete en brengt de betrokkene met een beveiligde zending op de hoogte van die beslissing.<br>
 <br>
-De daden van onderzoek of van vervolging die zijn verricht binnen de termijn, vermeld in het eerste lid, stuiten de loop ervan. Met de voormelde daden begint een nieuwe termijn te lopen, zelfs ten aanzien van personen die daarbij niet betrokken waren.
+In voorkomend geval betaalt de betrokkene de administratieve geldboete binnen negentig kalenderdagen na de kennisgeving van de beslissing, vermeld in het derde lid.<br>
+<br>
+§6. Er kan geen administratieve geldboete worden opgelegd of een alternatieve sanctie of een geldsom worden voorgesteld meer dan drie jaar na de datum waarop het proces-verbaal is afgesloten.<br>
+<br>
+De daden van onderzoek of van vervolging die zijn verricht binnen de termijn, vermeld in het eerste lid, stuiten de loop ervan, zelfs ten aanzien van personen die niet betrokken waren bij die daden.<br>
+<br>
+In geval van een stuiting als vermeld in het tweede lid kan geen administratieve geldboete worden opgelegd of een alternatieve sanctie of een geldsom worden voorgesteld meer dan drie jaar na de datum waarop het proces-verbaal dat volgt uit de daden van onderzoek of van vervolging, vermeld in het tweede lid, is afgesloten.<br>
+<br>
+§7. De Vlaamse Regering kan de procedurele en praktische modaliteiten bepalen voor het opleggen van de administratieve geldboete en voor het voorstellen van de alternatieve sanctie of de geldsom.
 
 ### ART 71.
 
-Het bedrag van de administratieve geldboete, vermeld in artikel 70, §1, wordt verhoogd met de opdeciemen die van toepassing zijn op de strafrechtelijke geldboeten.<br>
+Het bedrag van de administratieve geldboete of van de geldsom, vermeld in artikel 70, §3, wordt verhoogd met de opdeciemen die van toepassing zijn op de strafrechtelijke geldboeten.<br>
 <br>
-De wijze waarop de voormelde administratieve geldboete wordt betaald, wordt vastgesteld door de Vlaamse Regering.
+De Vlaamse Regering stelt de wijze vast waarop de administratieve geldboete of geldsom, vermeld in het eerste lid, wordt betaald.
 
 ### ART 72.
 
@@ -877,7 +929,7 @@ De Vlaamse Regering kan het bedrag van de verschuldigde kosten, ver-meld in het 
 
 ### ART 73.
 
-§1. Als de betrokkene in gebreke blijft bij het betalen van de administratieve geldboete, vermeld in artikel 70, §1, of van de verschuldigde kosten, vermeld in artikel 64, §2, zevende lid, en 72, §6 en §7, worden die bedragen, verhoogd met de invorderingskosten, bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar of ambtenaren die de Vlaamse Regering daarvoor aanwijst.<br>
+§1. Als de betrokkene in gebreke blijft bij het betalen van de administratieve geldboete, vermeld in artikel 70, §3, of van de verschuldigde kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, worden die bedragen, verhoogd met de invorderingskosten, bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar of ambtenaren die de Vlaamse Regering daarvoor aanwijst.<br>
 <br>
 §2. Het dwangbevel, vermeld in paragraaf 1, wordt aan de schuldenaar bij deurwaardersexploot betekend.<br>
 <br>
@@ -889,7 +941,7 @@ In het kader van het voormelde dwangbevel kan bewarend beslag gelegd worden. Op 
 <br>
 Een beroep tegen een dwangbevel als vermeld in paragraaf 1 kan alleen worden ingesteld voor geschillen die in verband met de uitvoering van dat dwangbevel rijzen. De voormelde geschillen worden overeenkomstig artikel 1395 van het Gerechtelijk Wetboek voor de beslagrechter gebracht.<br>
 <br>
-§3. Op grond van het uitvoerbaar verklaarde dwangbevel en tot zekerheid van voldoening van de administratieve geldboete, vermeld in artikel 70, §1, of de kosten, vermeld in artikel 64, §2, zevende lid, en 72, §6 en §7, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de schuldenaar en kan ze een wettelijke hypotheek nemen op al de goederen van de schuldenaar die daarvoor vatbaar zijn en die in het Vlaamse Gewest liggen of geregistreerd zijn in het Vlaamse Gewest.<br>
+§3. Op grond van het uitvoerbaar verklaarde dwangbevel en tot zekerheid van voldoening van de administratieve geldboete, vermeld in artikel 70, §3, of de kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de schuldenaar en kan ze een wettelijke hypotheek nemen op al de goederen van de schuldenaar die daarvoor vatbaar zijn en die in het Vlaamse Gewest liggen of geregistreerd zijn in het Vlaamse Gewest.<br>
 <br>
 Het voorrecht, vermeld in het eerste lid, neemt de rang in onmiddellijk na de voorrechten, vermeld in artikel 19 en 20 van de Hypotheekwet van 16 december 1851, en artikel 23 van boek II van het Wetboek van Koophandel.<br>
 <br>
@@ -899,7 +951,7 @@ De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in paragraa
 
 ### ART 74.
 
-In afwijking van artikel 73 kan de ambtenaar, vermeld in artikel 73, §1, beslissen af te zien van de invordering van de administratieve geldboete, vermeld in artikel 70, §1, of de kosten, vermeld in artikel 64, §2, zevende lid, en 72, §6 en §7, als de invorderingskosten groter zijn dan het terug te vorderen bedrag of als niet kan worden vastgesteld wie de overtreder is.<br>
+In afwijking van artikel 73 kan de ambtenaar, vermeld in artikel 73, §1, beslissen af te zien van de invordering van de administratieve geldboete, vermeld in artikel 70, §3, of de kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, als de invorderingskosten groter zijn dan het terug te vorderen bedrag of als niet kan worden vastgesteld wie de overtreder is.<br>
 &nbsp;
 
 ### ART 75.
@@ -1038,8 +1090,7 @@ Dit decreet treedt in werking op 1 januari 2025, met uitzondering van:&nbsp;<br>
 3° artikel 11, dat in werking treedt op 1 januari 2027;<br>
 4° artikel 22, dat in werking treedt op 1 januari 2036. In afwijking hierop, treedt het artikel in werking op 1 januari 2025 voor die houderijen die voor 1 januari 2036 hun bestaande kooisystemen willen vervangen dan wel voor de eerste maal kooisystemen in gebruik willen nemen en waarvan tegelij-kertijd de omgevingsvergunningaanvraag hiervoor niet ingediend werd voor 14 juli 2023, behoudens voor aanpassingen die het dierenwelzijn ten goede komen;&nbsp;<br>
 5° artikel 27, dat in werking treedt op 1 januari 2026. Tot aan die datum blijft het verbod, vermeld in artikel 12, eerste lid, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, van toepas-sing;<br>
-6° artikel 39, §3, dat in werking treedt op 1 januari 2025, met uitzondering van diegenen die zich beroepen op de uitzondering, vermeld in artikel 39, §3, tweede lid, 2°, die de tijd krijgen tot 1 januari 2026 om het getuig-schrift van vakbekwaamheid te behalen;<br>
-7° artikel 63, §2, 1°, i), artikel 64, §5, artikel 70 en artikel 71, die in werking treden op 1 januari 2026.
+6° artikel 39, §3, dat in werking treedt op 1 januari 2025, met uitzondering van diegenen die zich beroepen op de uitzondering, vermeld in artikel 39, §3, tweede lid, 2°, die de tijd krijgen tot 1 januari 2026 om het getuig-schrift van vakbekwaamheid te behalen.
 
 ### ART 87.
 
