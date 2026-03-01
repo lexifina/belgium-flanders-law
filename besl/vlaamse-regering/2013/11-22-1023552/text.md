@@ -16,11 +16,13 @@
 3° decreet van 20 april 2012 : het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 4° gezin : de persoon of de personen in het thuismilieu van het opgevangen kind die verantwoordelijkheid voor dat kind dragen;<br>
 4/1° grensoverschrijdend gedrag: een situatie waarin een kind het slachtoffer is of dreigt te worden van onterende handelingen, bedreigingen of geweld door een persoon die aanwezig is in de kinderopvang;<br>
+4/2° gezinsopvang: de kinderopvang die plaatsvindt buiten de gezinswoning van het kind, voor maximaal acht gelijktijdig aanwezige kinderen;<br>
+4/3° groepsopvang: de kinderopvang die plaatsvindt buiten de gezinswoning van het kind, waarbij er minimaal negen tegelijk aanwezige kinderen kunnen zijn;<br>
 5° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 6° 's nachts : tussen 20 uur en 6 uur;<br>
-7° vergunning : een vergunning voor gezinsopvang of een vergunning voor groepsopvang als vermeld in artikel 4, eerste lid, 1° en 2°, van het decreet van 20 april 2012;<br>
+7° vergunning : een vergunning als vermeld in artikel 4, eerste lid, van het decreet van 20 april 2012;<br>
 8° wennen : het geleidelijk aan laten verlopen van de overgang van het thuismilieu van het kind naar de kinderopvanglocatie waarbij er extra aandacht is voor de wisselwerking tussen de kinderen, de gezinnen en de kinderbegeleiders en voor de uitwisseling met de gezinnen;<br>
-9° ...</p>
+9° specifiek sociaal statuut voor onthaalouders: het sociaal statuut, dat een gevolg is van de toepassing van de wet tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, op basis van artikel 3, 9°, van het Koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.</p>
 
 <p>De naleving van de startvoorwaarden, vermeld in dit besluit, heeft betrekking op het toekennen van een vergunning door het agentschap, en de naleving van de werkingsvoorwaarden, vermeld in dit besluit, heeft betrekking op het behouden van een vergunning.</p>
 
@@ -514,7 +516,7 @@ Voor de aanwezigheid van de kinderbegeleiders zorgt de organisator voor een plan
 
 ### ART. 48.
 
-<P>...</P>
+<p>De organisator werkt niet met kinderbegeleiders in het specifieke sociaal statuut voor onthaalouders.</p>
 
 ## Onderafdeling 2 Algemene werking en financiële werking
 
@@ -652,17 +654,24 @@ De afwijking, vermeld in het eerste lid, 3°, geldt alleen zolang er een erkend 
 
 ### ART. 64.
 
-<p>Personen die een attest tot afwijking of een bewijs van kennis hebben op basis van voorheen geldend artikel 64 tot en met artikel 66/1, voor de toepassing van de voorwaarden, vermeld in artikel 8, 11, 40, §2, eerste lid, 3° en 5°, en §3, en artikel 43, §2, eerste lid, 4°, behouden hun recht op de voormelde afwijking.<br>
-<br>
-Er geldt een overgangsperiode tot en met 31 maart 2024 om te voldoen aan de voorwaarde, vermeld in artikel 43, §2, eerste lid, 4°.<br>
-<br>
-De organisator van groepsopvang met kinderbegeleiders die in het specifieke sociaal statuut voor onthaalouders werken, kan, zolang de kinderbegeleiders in dat statuut werken, geen vergunning krijgen voor meer dan achttien kinderopvangplaatsen voor die kinderopvanglocatie.<br>
-<br>
-Als de kinderbegeleider in de gezinsopvang, die ook als verantwoordelijke werkt, zich tussen 1 januari 2019 en 31 december 2023 laat ondersteunen door een pool gezinsopvang als vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang, geldt voor die persoon de kwalificatie, vermeld in artikel 43, §2, eerste lid, 4°, a), van dit besluit, in afwijking van de werkingsvoorwaarde over de kwalificatie, vermeld in artikel 40, §2, eerste lid, 5°, van dit besluit, uiterlijk tot en met 31 maart 2024.</p>
+<p>Personen die een attest tot afwijking of een bewijs van kennis hebben op basis van voorheen geldend artikel 64 tot en met artikel 66/1, voor de toepassing van de voorwaarden, vermeld in artikel 8, 11, 40, §2, eerste lid, 3° en 5°, en §3, en artikel 43, §2, eerste lid, 4°, behouden hun recht op de voormelde afwijking.</p>
 
 ### ART. 65.
 
-<p>...</p>
+<p>§1. De organisator die op 30 juni 2026, met kinderbegeleiders werkt in het specifieke sociaal statuut voor onthaalouders, kan in de op die dag vergunde en actieve kinderopvanglocatie ononderbroken blijven werken met kinderbegeleiders in dat statuut.<br>
+<br>
+In afwijking van artikel 48 kan het agentschap een vergunning toekennen aan de organisator die start na 30 juni 2026 als de organisator werkt met een kinderbegeleider in het specifieke sociaal statuut voor onthaalouders, in de volgende situaties:<br>
+1°&nbsp;&nbsp; &nbsp;bij een wijziging van de vestigingsplaats van een kinderopvanglocatie die op 30 juni 2026 vergund was en waar de organisator werkte met een kinderbegeleider in het specifieke sociaal statuut voor onthaalouders;<br>
+2°&nbsp;&nbsp; &nbsp;bij een wijziging van de organisator van een kinderopvanglocatie die op 30 juni 2026 vergund was en waar de organisator werkte met een kinderbegeleider in het specifieke sociaal statuut voor onthaalouders;<br>
+3°&nbsp;&nbsp; &nbsp;bij een aanvraag van een vergunning voor gezinsopvang door een kinderbegeleider van een kinderopvanglocatie die op 30 juni 2026 vergund was voor groepsopvang, die stopt en waar de organisator werkte met kinderbegeleiders in het specifieke sociaal statuut voor onthaalouders.<br>
+<br>
+§2. De organisator van groepsopvang die in een kinderopvanglocatie werkt met kinderbegeleiders in het specifieke sociaal statuut voor onthaalouders, krijgt voor die kinderopvanglocatie geen vergunning voor meer dan achttien kinderopvangplaatsen, zolang die kinderbegeleiders dat statuut hebben.<br>
+<br>
+De organisator van groepsopvang en gezinsopvang die werkt met kinderbegeleiders in het specifieke sociaal statuut voor onthaalouders, kan vanaf 1 juli 2026 geen aanvraag tot aanpassing van de vergunning meer indienen conform artikel 6 van het Procedurebesluit van 9 mei 2014 voor de kinderopvanglocatie waar de organisator met die kinderbegeleiders werkt.&nbsp;<br>
+<br>
+§3. De organisator die een nieuwe vergunning of een aanpassing van een vergunning aanvraagt voor een kinderopvanglocatie waarvan de startdatum vóór 1 juli 2026 is en waar die organisator met kinderbegeleiders wil werken in het specifieke sociaal statuut voor onthaalouders, dient de aanvraag daarvoor uiterlijk 31 maart 2026 in bij het agentschap.<br>
+<br>
+Een aanvraag van een nieuwe vergunning of een aanpassing van een vergunning die wordt ingediend na de datum, vermeld in §3, eerste lid, is onontvankelijk.</p>
 
 ### ART. 66.
 
