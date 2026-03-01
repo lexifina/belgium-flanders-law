@@ -17,23 +17,24 @@ In dit besluit wordt verstaan onder :<br>
 2° achtertuin : tuingedeelte van het goed dat geen voortuin of zijtuin is;<br>
 2° /1. afgebakend zeehavengebied: gebied binnen de grenzen van de zeehavens van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend in een ruimtelijk uitvoeringsplan of bij gebrek daaraan, afgebakend conform artikel 3 van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens;<br>
 3° agrarisch gebied in de ruime zin : elk gebied, hoofdzakelijk bestemd voor de landbouw, ook als het onderworpen is aan bijzondere voorwaarden;<br>
-3°/0. baangracht: een gracht die parallel loopt met een weg en als prioriteit heeft het hemelwater van de weg en de aanpalende percelen op te vangen, te infiltreren en af te voeren en die geen ingedeelde waterloop is;<br>
-3° /1. erosiegevoelig gebied: gebied met zeer hoge of hoge erosiegevoeligheid, zoals bepaald met toepassing van artikel 59 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
+3°/0. baangracht: een gracht die parallel loopt met een weg en als prioriteit heeft het hemelwater van de weg op te vangen, te infiltreren en af te voeren en die geen ingedeelde waterloop is;<br>
+3°/1. erosiegevoelig gebied: gebied met zeer hoge of hoge erosiegevoeligheid, zoals bepaald met toepassing van artikel 57 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid;<br>
 3°/2 gebied met middelgrote kans op overstromingen: het als dusdanig vastgestelde gebied, in bijlage IV en V bij het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 4° het goed : het kadastrale perceel of de kadastrale percelen waarop de handelingen betrekking hebben, of, voor de percelen zonder kadastraal nummer, de grond of de gronden waarop de handelingen betrekking hebben. Hierbij worden de aangrenzende kadastrale percelen, die dezelfde eigenaar hebben, beschouwd als deel uitmakend van het goed;<br>
-5° industriegebied in de ruime zin : elk gebied, bestemd voor industrie en ambacht, ook als het onderworpen is aan bijzondere voorwaarden;<br>
+5° industriegebied in de ruime zin : elk gebied, bestemd voor industrie en bedrijvigheid, ook als het onderworpen is aan bijzondere voorwaarden;<br>
 6° niet-overdekte constructies : constructies zonder bouwvolume waarvan de hoogte beperkt is tot 1,5 meter boven het maaiveld;<br>
 7° ...;<br>
 8° open afsluiting : afsluiting in draad of draadgaas;<br>
-8° /1. ...;<br>
+8°/1 peilgestuurde drainage: drainagesysteem waarbij de individuele waterdoorlatende drains uitmonden in een gesloten verzamelbuis of moerdrain, en tussen de moerdrain en het oppervlaktewater een regelput aanwezig is om het ontwateringsniveau van de drainage te beheren;<br>
 9° Ramsargebied : een gebied dat aangewezen is krachtens de overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt in Ramsar op 2 februari 1971;<br>
 10° schuilhok : een eenvoudige constructie, waarin een of meer weidedieren tijdelijk kunnen verblijven. Schuilhokken zijn geenszins uitgerust zoals stallen, die bestemd zijn om dieren permanent te huisvesten;<br>
-11° voorgevel : elke gevel gericht op de voorliggende weg, met uitzondering van garagewegen of voetwegen;<br>
+11° voorgevel: elke gevel of alle gevels gericht op de voorliggende weg of wegen, met uitzondering van garagewegen of voetwegen, en met inbegrip van insprongen van deze gevels;<br>
 12° voorgevellijn : de lijn die gevormd wordt door de voorgevel of voorgevels door te trekken tot op de zijgrenzen van het goed;<br>
-13° voortuin : gedeelte van het goed dat voor de voorgevellijn van het hoofdgebouw ligt;<br>
+13° voortuin : gedeelte van het goed dat voor de voorgevellijn&nbsp;of voorgevellijnen van het hoofdgebouw ligt;<br>
 14° woongebied in de ruime zin : elk gebied, bestemd voor de oprichting van residentiële woningen, ook als het onderworpen is aan bijzondere voorwaarden;<br>
-15° zijgevel : gevel aan de zijkant van het hoofdgebouw;<br>
-16° zijtuin : gedeelte van het goed dat ter hoogte van een zijgevel ligt.<br>
+15° zijgevel: een gevel die niet gericht is op een voorliggende weg en die zich bevindt aan de zijkant van het hoofdgebouw;<br>
+16° zijtuin : gedeelte van het goed dat ter hoogte van een zijgevel ligt;<br>
+16° projectzone: het ruimtelijk bepaalbare gebied dat, gelet op de aard en de omvang van de stedenbouwkundige handeling onder dit besluit vrijgesteld, functioneel en objectief noodzakelijk is voor het optrekken &nbsp;hiervan.<br>
 &nbsp;
 
 ### ART. 1.2.
@@ -69,24 +70,26 @@ In afwijking van het eerste lid, is dit besluit van toepassing op handelingen, u
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volgende handelingen&nbsp;in, aan en bij hoofdzakelijk vergunde of vergund geachte woningen:<br>
 1° gebruikelijke ondergrondse constructies, tenzij die strijdig zijn met een goedgekeurd rooilijnplan, een in een goedgekeurd rooilijnplan opgenomen achteruitbouwstrook of een goedgekeurd onteigeningsplan;<br>
-2° handelingen zonder stabiliteitswerken en zonder wijziging van het fysiek bouwvolume aan zijgevels, achtergevels en daken;<br>
-2/1° het aanbrengen van isolatie aan de buitenzijde van gevels en daken tot een maximum van 26 centimeter, voor zover de rooilijn niet overschreden wordt. Deze vrijstelling geldt niet:<br>
-a)&nbsp;&nbsp; &nbsp;in gebieden die erkend zijn als werelderfgoed of die in de bufferzone van het werelderfgoed liggen conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972;<br>
-b)&nbsp;&nbsp; &nbsp;voor gebouwen die opgenomen zijn in de vastgestelde inventaris van bouwkundig erfgoed, vermeld in artikel 4.1.1. van het Onroerenderfgoedbesluit van 16 mei 2014;<br>
-3° zonnepanelen of zonneboilers op een plat dak, tot maximaal 1 meter boven de dakrand, en zonnepanelen of zonneboilers die geïntegreerd zijn in het hellende dakvlak;<br>
-4° binnenverbouwingen zonder stabiliteitswerken;<br>
+2° handelingen aan gevels en daken, zonder de energieprestatie van het gebouw te verslechteren en zonder het fysieke bouwvolume te wijzigen;<br>
+2/1° het aanbrengen van isolatie, met inbegrip van de gebruikelijke afwerking ervan, aan de buitenzijde van gevels en daken tot een maximum van 26 centimeter, voor zover de rooilijn niet overschreden wordt;<br>
+3° zonnepanelen of zonneboilers die aan een van volgende voorwaarden voldoen:<br>
+a) ze zijn geplaatst op een plat dak, tot maximaal 1 meter boven de dakrand;<br>
+b) ze zijn geïntegreerd in of op het hellende dakvlak;<br>
+c) ze zijn bevestigd op een gevel, met een totale maximale oppervlakte van vier vierkante meter per gevel;<br>
+d) ze zijn bevestigd aan een balkonafsluiting<br>
+4° binnenverbouwingen;<br>
 5° afsluitingen tot een hoogte van twee meter in de zijtuin en achtertuin;<br>
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
-8° de plaatsing van niet-overdekte constructies in zijtuin en achtertuin, ingeplant tot op 1 meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur, voor zover de gezamenlijke oppervlakte van dergelijke constructies, met inbegrip van alle bestaande niet-overdekte constructies in zijtuin en achtertuin, 80 vierkante meter niet overschrijdt en voor zover het hemelwater dat op de niet-overdekte constructies valt, niet wordt afgevoerd van het eigen terrein. De overloop van een zwembad mag worden aangesloten op de riolering;<br>
-8°/1 de plaatsing van bovengrondse onderdelen van warmtepompen en airco’s in een voortuin, een zijtuin en een achtertuin of op een zij- en achtergevel, ingeplant tot op twee meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur;<br>
-9° de plaatsing in de voortuin van de strikt noodzakelijke toegang tot en oprit naar het gebouw, voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, vermeld in punt 9°/1;<br>
-9°/1 het aanbrengen van maximaal één overwelving of inbuizing van een baangracht per goed. De lengte van de overwelving of inbuizing bedraagt maximaal vijf meter. De overwelving of inbuizing heeft een minimale binnendiameter van 400 millimeter;<br>
+8° de plaatsing van niet-overdekte constructies in zijtuin en achtertuin, ingeplant tot op 1 meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur, voor zover de gezamenlijke oppervlakte van dergelijke constructies, met inbegrip van alle bestaande niet-overdekte constructies in zijtuin en achtertuin, 80 vierkante meter niet overschrijdt en voor zover het hemelwater dat op de niet-overdekte constructies valt, niet wordt afgevoerd van het eigen terrein. De overloop van een zwembad mag worden aangesloten op de riolering. Deze vrijstelling geldt niet voor de plaatsing van bovengrondse onderdelen van warmtepompen en airco’s;<br>
+8°/1 de plaatsing van bovengrondse onderdelen van warmtepompen en airco’s in de tuin, op een gevel of op een plat dak, ingeplant tot op twee meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur;<br>
+9° de plaatsing in de voortuin van de strikt noodzakelijke toegang tot en oprit naar het gebouw, voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, vermeld in artikel 12/1.3;<br>
+9°/1 ...;<br>
 10° de plaatsing van allerhande kleine tuinconstructies zoals tuinornamenten, brievenbussen, barbecues en speeltoestellen;<br>
 11° van het hoofdgebouw vrijstaande niet voor verblijf bestemde bijgebouwen, met inbegrip van carports, in de zijtuin tot op 3 meter van de perceelsgrenzen of in de achtertuin tot op 1 meter van de perceelsgrenzen. De vrijstaande bijgebouwen kunnen in de achtertuin ook op of tegen de perceelsgrens geplaatst worden als ze tegen een bestaande scheidingsmuur opgericht worden en als de bestaande scheidingsmuur niet gewijzigd wordt. De totale oppervlakte blijft beperkt tot maximaal 40 vierkante meter per goed, met inbegrip van alle bestaande vrijstaande bijgebouwen. De maximale hoogte is beperkt tot 3,5 meter;&nbsp;Het hemelwater dat op de bijgebouwen valt, wordt niet afgevoerd van het eigen terrein;<br>
 12° het opslaan van allerhande bij de woning horende materialen en materieel met een totaal maximaal volume van 10 kubieke meter, niet zichtbaar vanaf de openbare weg;<br>
 13° het plaatsen van één verplaatsbare inrichting die voor bewoning kan worden gebruikt, zoals één woonwagen, kampeerwagen of tent, niet zichtbaar vanaf de openbare weg, zonder er effectief te wonen.<br>
-14° gebruikelijke technische constructies aan of op een woning, op voorwaarde dat ze niet meer dan drie meter boven de nok van de woning uitsteken;<br>
+14° gebruikelijke technische constructies aan of op een woning, op voorwaarde dat ze niet meer dan drie meter boven de nok van de woning uitsteken. Deze vrijstelling geldt niet voor de plaatsing van zonnepanelen en zonneboilers, bovengrondse onderdelen van warmtepompen en airco’s;<br>
 15° de plaatsing van elektrische laadpalen;<br>
 16° de plaatsing van glasbollen, kledingcontainers en andere boven- of ondergrondse houders voor de selectieve verzameling en ophaling van afval, voor zover de gezamenlijke oppervlakte kleiner is dan tien vierkante meter.<br>
 &nbsp;
@@ -94,11 +97,14 @@ b)&nbsp;&nbsp; &nbsp;voor gebouwen die opgenomen zijn in de vastgestelde inventa
 ### ART. 2.2.
 
 De vrijstelling, vermeld in artikel 2.1, geldt alleen als de handelingen voldoen aan al de volgende voorwaarden :<br>
-1° de handelingen, vermeld in artikel 2.1, 1° tot 5°, 8° tot en met 9°, 11° tot 14° en 16°, worden volledig uitgevoerd binnen een straal van 30 meter van de betrokken hoofdzakelijk vergunde of vergund geachte residentiële woning of bedrijfswoning;<br>
+1° de handelingen, vermeld in artikel 2.1, 1° tot en met 5°, 8° tot en met 9°, 11° tot en met 14° en 16°, worden volledig uitgevoerd binnen een straal van 30 meter van de betrokken hoofdzakelijk vergunde of vergund geachte residentiële woning of bedrijfswoning;<br>
 2° er wordt geen vergunningsplichtige functiewijziging doorgevoerd;<br>
 3° het aantal woongelegenheden blijft ongewijzigd;<br>
 4° ...<br>
-5° de handelingen, vermeld in art. 2.1, 8°, 11°, 12° en 13° zijn niet gesitueerd in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied.<br>
+5° de handelingen, vermeld in art. 2.1, 8°, 11°, 12° en 13° zijn niet gesitueerd in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied;<br>
+6° de handelingen, vermeld in artikel 2.1, 2°, 2/1°, 3°, c) en d), van dit besluit, worden niet uitgevoerd:<br>
+a)&nbsp;&nbsp; &nbsp;in gebieden die erkend zijn als werelderfgoed of die in de bufferzone van het werelderfgoed liggen conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972;<br>
+b)&nbsp;&nbsp; &nbsp;aan gebouwen die opgenomen zijn in de vastgestelde inventaris van bouwkundig erfgoed, vermeld in artikel 4.1.1. van het Onroerenderfgoedbesluit van 16 mei 2014, maar die niet beschermd zijn.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 Handelingen in, aan en bij andere gebouwen dan woningen
@@ -107,21 +113,23 @@ De vrijstelling, vermeld in artikel 2.1, geldt alleen als de handelingen voldoen
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volgende handelingen&nbsp;in, aan en bij hoofdzakelijk vergunde of vergund geachte gebouwen, die geen woningen zijn :<br>
 1° gebruikelijke ondergrondse constructies, tenzij die strijdig zijn met een goedgekeurd rooilijnplan, een in een goedgekeurd rooilijnplan opgenomen achteruitbouwstrook of een goedgekeurd onteigeningsplan;<br>
-2° handelingen zonder stabiliteitswerken en zonder wijziging van het fysiek bouwvolume aan zijgevels, achtergevels en daken;<br>
-2/1° het aanbrengen van isolatie aan de buitenzijde van gevels en daken tot een maximum van 26 centimeter, voor zover de rooilijn niet overschreden wordt. Deze vrijstelling geldt niet:<br>
-a)&nbsp;&nbsp; &nbsp;in gebieden die erkend zijn als werelderfgoed of die in de bufferzone van het werelderfgoed liggen conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972;<br>
-b)&nbsp;&nbsp; &nbsp;voor gebouwen die opgenomen zijn in de vastgestelde inventaris van bouwkundig erfgoed, vermeld in artikel 4.1.1. van het Onroerenderfgoedbesluit van 16 mei 2014;<br>
-3° zonnepanelen of zonneboilers op een plat dak, tot maximaal 1 meter boven de dakrand, en zonnepanelen of zonneboilers die geïntegreerd zijn in het hellende dakvlak;<br>
-4° binnenverbouwingen zonder stabiliteitswerken;<br>
+2° handelingen aan gevels en daken, zonder de energieprestatie van het gebouw te verslechteren en zonder het fysiek bouwvolume te wijzigen;<br>
+2/1° het aanbrengen van isolatie, met inbegrip van de gebruikelijke afwerking ervan, aan de buitenzijde van gevels en daken tot een maximum van 26 centimeter, voor zover de rooilijn niet overschreden wordt;<br>
+3° zonnepanelen of zonneboilers die aan een van de volgende voorwaarden voldoen:<br>
+a)&nbsp;&nbsp; &nbsp;ze zijn geplaatst op een plat dak, tot maximaal 1 meter boven de dakrand;<br>
+b)&nbsp;&nbsp; &nbsp;ze zijn geïntegreerd in of op het hellende dakvlak;<br>
+c)&nbsp;&nbsp; &nbsp;ze zijn bevestigd op een gevel, met een totale maximale oppervlakte van vier vierkante meter per gevel;<br>
+d)&nbsp;&nbsp; &nbsp;ze zijn bevestigd aan een balkonafsluiting;<br>
+4° binnenverbouwingen;<br>
 5° afsluitingen tot een hoogte van twee meter in de zijtuin en achtertuin;<br>
 6° toegangspoorten en open afsluitingen tot een hoogte van twee meter;<br>
 7° gesloten afsluitingen tot een hoogte van 1 meter in de voortuin;<br>
 7° /1. open afsluitingen en toegangspoorten tot een hoogte van drie meter in een afgebakend zeehavengebied;<br>
-7°/2 de plaatsing van bovengrondse onderdelen van warmtepompen en airco’s in een voortuin, een zijtuin en een achtertuin of op een zij- en achtergevel, ingeplant tot op twee meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur;<br>
-8° de plaatsing in de voortuin van de strikt noodzakelijke toegang tot en oprit naar het gebouw, voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, vermeld in punt 8°/1;<br>
-8°/1 het aanbrengen van maximaal één overwelving of inbuizing van een baangracht per goed. De lengte van de overwelving of inbuizing bedraagt maximaal vijf meter. De overwelving of inbuizing heeft een minimale binnendiameter van 400 millimeter;<br>
+7°/2 de plaatsing van bovengrondse onderdelen van warmtepompen en airco’s in de tuin, op een gevel of op een plat dak, ingeplant tot op twee meter van de perceelsgrens of tot tegen een bestaande scheidingsmuur;<br>
+8° de plaatsing in de voortuin van de strikt noodzakelijke toegang tot en oprit naar het gebouw, voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, vermeld in artikel 12/1.3 van dit besluit;<br>
+8°/1 ...;<br>
 9° de plaatsing van seizoensgebonden, niet-overdekte terrassen bij horecazaken.<br>
-10° gebruikelijke technische constructies aan of op een gebouw, op voorwaarde dat ze niet meer dan drie meter boven de nok van het gebouw uitsteken;<br>
+10° gebruikelijke technische constructies aan of op een gebouw, op voorwaarde dat ze niet meer dan drie meter boven de nok van het gebouw uitsteken. Deze vrijstelling geldt niet voor de plaatsing van zonnepanelen en zonneboilers, bovengrondse onderdelen van warmtepompen en airco’s;<br>
 11° de plaatsing van allerhande kleine tuinconstructies zoals tuinornamenten, brievenbussen en barbecues;<br>
 12° de voorlopige opslag van afvalstoffen op hun plaats van productie, indien dit gebeurt in functie van een georganiseerde regelmatige afvoer van de afvalstoffen;<br>
 13° de plaatsing van glasbollen, kledingcontainers en andere boven- of ondergrondse houders voor de selectieve verzameling en ophaling van afval, voor zover de gezamenlijke oppervlakte kleiner is dan twintig vierkante meter;<br>
@@ -131,9 +139,12 @@ b)&nbsp;&nbsp; &nbsp;voor gebouwen die opgenomen zijn in de vastgestelde inventa
 ### ART. 3.2.
 
 De vrijstelling, vermeld in artikel 3.1, geldt enkel als de handelingen voldoen aan de volgende voorwaarden :<br>
-1° de handelingen, vermeld in artikel 3.1, 1° tot 5° en 7°/2 tot en met 13°, worden volledig uitgevoerd binnen een straal van 30 meter van het betrokken hoofdzakelijk vergund of vergund geacht gebouw;<br>
+1° de handelingen, vermeld in artikel 3.1, 1° tot en met 5° en 7°/2 tot en met 13°, worden volledig uitgevoerd binnen een straal van 30 meter van het betrokken hoofdzakelijk vergund of vergund geacht gebouw;<br>
 2° er wordt geen vergunningsplichtige functiewijziging uitgevoerd;<br>
-3° ...
+3° ...;<br>
+4° de handelingen, vermeld in artikel 3.1, 2°, 2/1°, 3°, c) en d), van dit besluit, worden niet uitgevoerd:<br>
+a) in gebieden die erkend zijn als werelderfgoed of die in de bufferzone van het werelderfgoed liggen conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972;<br>
+b) voor gebouwen die opgenomen zijn in de vastgestelde inventaris van bouwkundig erfgoed, vermeld in artikel 4.1.1. van het Onroerenderfgoedbesluit van 16 mei 2014, maar niet beschermd zijn.
 
 ## HOOFDSTUK 4 Handelingen in industriegebied
 
@@ -148,7 +159,9 @@ b) dertig meter van het betrokken hoofdzakelijk vergund of vergund geacht gebouw
 4° de constructies zijn niet hoger dan:<br>
 a) twintig meter als ze liggen binnen een afgebakend zeehavengebied;<br>
 b) tien meter in overige gebieden;<br>
-5° de totale oppervlakte van de van vergunning vrijgestelde constructies is niet groter dan 200 vierkante meter per goed;<br>
+5° de totale oppervlakte van de van vergunning vrijgestelde constructies is niet groter dan:<br>
+a) 300 vierkante meter per projectzone als de constructies binnen een afgebakend zeehavengebied liggen;<br>
+b) 200 vierkante meter per projectzone in andere gebieden dan de gebieden vermeld in punt a);<br>
 6° de constructies liggen op minstens:<br>
 a) dertig meter van een woongebied in de ruime zin en van een ruimtelijk kwetsbaar gebied, niet zijnde parkgebied;<br>
 b) vijf meter van alle perceelsgrenzen;<br>
@@ -163,7 +176,9 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor he
 3° de verhardingen worden aangelegd binnen een straal van:<br>
 a) vijftig meter van een hoofdzakelijk vergund of vergund geacht gebouw of hoofdzakelijk vergund of vergund geachte verharding als ze liggen binnen een afgebakend zeehavengebied;<br>
 b) dertig meter van een hoofdzakelijk vergund of vergund geacht gebouw in overige gebieden;<br>
-4° de grondoppervlakte van de van vergunning vrijgestelde verharding is beperkt tot maximaal 200 vierkante meter en maximaal 100 percent van de reeds vergunde grondoppervlakte van de verharding;<br>
+4° de grondoppervlakte van de van vergunning vrijgestelde verharding is beperkt tot maximaal 100% van de al vergunde grondoppervlakte van de verharding en is niet groter dan:<br>
+a) 500 vierkante meter per projectzone als de verhardingen binnen een afgebakend zeehavengebied liggen;<br>
+b) 200 vierkante meter per projectzone in andere gebieden dan de gebieden vermeld in punt a);<br>
 5° de verhardingen liggen op minstens:<br>
 a) tien meter van een woongebied in de ruime zin en van een ruimtelijk kwetsbaar gebied, niet zijnde parkgebied;<br>
 b) drie meter van alle perceelsgrenzen;.<br>
@@ -178,7 +193,9 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor he
 a) vijftig meter van een hoofdzakelijk vergund of vergund geacht gebouw als het ligt binnen een afgebakend zeehavengebied;<br>
 b) dertig meter van een hoofdzakelijk vergund of vergund geacht gebouw in overige gebieden;<br>
 4° in het geval het gebouw aangebouwd wordt aan een bestaand, vergund geacht of vergund gebouw, blijven de voorwaarden met betrekking tot brandcompartimentering van toepassing; zoniet bedraagt de afstand tussen het gebouw en andere gebouwen minstens vijf meter;<br>
-5° de grondoppervlakte van de van vergunning vrijgestelde gebouwen is beperkt tot maximaal 100 vierkante meter en maximaal 100 percent van de reeds vergunde grondoppervlakte van de gebouwen;<br>
+5° de grondoppervlakte van de van vergunning vrijgestelde gebouwen is beperkt tot maximaal 100% van de al vergunde grondoppervlakte van de gebouwen en is niet groter dan:&nbsp;<br>
+a) 500 vierkante meter per projectzone als de gebouwen liggen binnen een afgebakend zeehavengebied;<br>
+b) 100 vierkante meter per projectzone in andere gebieden dan de gebieden vermeld in punt a);<br>
 6° het gebouw ligt op minstens:<br>
 a) dertig meter van een woongebied in de ruime zin en van een ruimtelijk kwetsbaar gebied, niet zijnde parkgebied;<br>
 b) vijf meter van alle perceelsgrenzen;<br>
@@ -213,32 +230,56 @@ c) de constructies zijn niet gelegen in een van de volgende gebieden:<br>
 2) een gebied dat erosiegevoelig is;<br>
 3) een gebied met middelgrote kans op overstromingen;<br>
 2° open afsluitingen of open afsluitingen met dwarslatten met een maximale hoogte van 2 meter;<br>
-3° schuilhokken voor weidedieren. De schuilhokken hebben houten wanden, een maximale hoogte van drie meter en minstens één volledig open zijde. De totale oppervlakte is beperkt tot veertig vierkante meter per aaneengesloten groep van percelen in één eigendom;<br>
+3° schuilhokken voor weidedieren. De schuilhokken hebben een maximale hoogte van drie meter. De totale oppervlakte per aaneengesloten groep van percelen in één eigendom is beperkt tot 80 vierkante meter. Als gedurende een periode van vijf opeenvolgende jaren geen weidedieren worden gehouden op de weide, wordt het schuilhok, dat na 1 januari 2026 met toepassing van deze vrijstelling wordt geplaatst, verwijderd;<br>
 4° het aanleggen van een dam uit plantaardige materialen langs de stroomafwaartse perceelsgrens van een erosiegevoelig perceel, op voorwaarde dat de hoogte van de dam beperkt is tot een meter boven het maaiveld.</p>
 
 ### ART. 5.2.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van de volgende zaken, als ze in agrarisch gebied in de ruime zin liggen :<br>
 1° een krengenhuisje;<br>
-2° het draineren van een goed voor landbouw- of bodembeheerdoeleinden door de aanleg van een geheel van ondergrondse zuig- en/of moerleidingen, omhullingsmaterialen en eindbuizen en van een geheel van boven- en/of ondergrondse uitmondingsvoorzieningen, controleputten en hulpstukken, mits aan alle van de volgende vereisten voldaan is :<br>
-a) de bovengrondse zichtbare voorzieningen hebben maximale afmetingen van 1 meter x 1 meter en liggen gelijk met het maaiveld of met het talud van de ontvangende waterloop;<br>
-b) de drainagewerken worden niet uitgevoerd in de volgende gebieden of zones :<br>
-1) Speciale Beschermingszones;<br>
-2) de Ramsargebieden;<br>
-3) ruimtelijk kwetsbare gebieden of een gebied met middelgrote kans op overstromingen, of op minder dan 50 meter van die gebieden;<br>
-c) voor de drainagewerken is geen milieueffectrapport vereist;<br>
+2° het draineren van een goed om het gebruik of de exploitatie van landbouwgronden mogelijk te maken of te houden, door de aanleg van een geheel van ondergrondse zuig- of moerleidingen, omhullingsmaterialen en eindbuizen en van een geheel van boven- of ondergrondse uitmondingsvoorzieningen, controleputten en hulpstukken, op voorwaarde dat de drainagewerken niet worden uitgevoerd in of op minder dan 500 meter van volgende gebieden:<br>
+a) Speciale Beschermingszones;<br>
+b) het Vlaams Ecologisch Netwerk;<br>
+c) “valleigebied” of “vallei- en brongebied;<br>
+d) vastgestelde archeologische zones;<br>
+2°/1 het omvormen van een bestaande gravitaire drainage naar een peilgestuurde drainage. De bestaande gravitaire drainage is ofwel vergund ofwel gaat het om een drainage als vermeld in punt 2°;<br>
 3° de strikt noodzakelijke toegang tot en oprit naar de agrarische bedrijfsgebouwen, inclusief de bedrijfswoning, voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein. Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, vermeld in punt 3°/1;<br>
-3°/1 het aanbrengen van maximaal één overwelving of inbuizing van een baangracht per goed. De lengte van de overwelving of inbuizing bedraagt maximaal vijf meter. De overwelving of inbuizing heeft een minimale binnendiameter van 400 millimeter;<br>
+3°/1 het aanleggen, vervangen of herinrichten van perceelsopritten, met inbegrip van de eventueel daarvoor strikt noodzakelijke overwelving of inbuizing van grachten met een maximum van één overwelving of inbuizing per goed of landbouwgoed, voor zover niet gelegen in vastgestelde archeologische zones. De lengte van de overwelving of inbuizing bedraagt maximaal tien meter, als de aanliggende weg een rijbaanbreedte heeft die kleiner is dan vier meter, en maximaal 7,50 meter in de andere gevallen. De overwelving of inbuizing heeft een minimale binnendiameter van 400 millimeter;<br>
 4° bijenstallen of bijenkorven;<br>
-5° jachtkansels.<br>
+5° ...<br>
 6° sleufsilo's op voorwaarde dat ze worden opgericht binnen een straal van vijftig meter van het gebouwencomplex van het landbouwbedrijf en er geen afvoer wordt voorzien naar de openbare riolering;<br>
-7° de seizoensgebonden opslag van met folie afgedekte groenvoeders op velden buiten ruimtelijk kwetsbaar gebied.
+7° de seizoensgebonden opslag van met folie afgedekte groenvoeders op velden buiten ruimtelijk kwetsbaar gebied;<br>
+8° de plaatsing van één pocketvergister, met aanhorigheden zoals bijhorende verharding, als aan al de volgende voorwaarden is voldaan:<br>
+a) de pocketvergister en zijn aanhorigheden hebben een maximale omschrijvende oppervlakte van 200 vierkante meter;<br>
+b) de afstand van de pocketvergister tot een bestaand bedrijfsgebouw bedraagt minder dan dertig meter;<br>
+c) de pocketvergister valt onder dezelfde indelingsrubriek als de veehouderij en er wordt enkel dierlijk mest afkomstig van deze veehouderij in vermengd zonder bijmenging van afval;&nbsp;<br>
+d) de pocketvergister ligt op minstens 40 meter van niet bedrijfseigen bebouwing;<br>
+e) de motor moet in een geluidsisolerende motorkast en container worden gezet;<br>
+f) er is een waterslot en fakkel aanwezig op de pocketvergister;<br>
+g) de leidingen naar de pocketvergister zijn gesloten;<br>
+h) de bodem van de pocketvergister is zo opgebouwd dat water na calamiteiten kan worden opgevangen om later correct te worden afgevoerd;&nbsp;<br>
+i) de pocketvergister ligt niet in een vastgestelde archeologische zone;<br>
+9° de aanleg van één overdekte vul- en spoelplaats voor landbouwwerktuigen waaronder spuittoestellen als aan al de volgende voorwaarden is voldaan:&nbsp;<br>
+a) de vul- en spoelplaats heeft maximale omschrijvende oppervlakte van 150 vierkante meter;<br>
+b) de afstand van de vul- en spoelplaats tot een bestaand bedrijfsgebouw bedraagt minder dan dertig meter;<br>
+c) het rest- en spoelwater wordt opgevangen;&nbsp;<br>
+d) het eventuele hemelwater moet ter plaatse infiltreren;&nbsp;<br>
+e) er is geen overloop richting riolering of oppervlaktewater;<br>
+f)&nbsp; de vul- en spoelplaats ligt niet in een vastgestelde archeologische zone;<br>
+10° het voorzien in wateropslag voor de professionele teelt van landbouwgewassen of voor de professionele veeteelt met een maximaal volume van 200 m3, binnen een straal van vijftig meter van het gebouwencomplex van het landbouwbedrijf. De wateropslag voldoet aan volgende voorwaarden:<br>
+a) de wateropslag is niet verbonden met het grondwater;&nbsp;<br>
+b) de wanden zijn ofwel begroeid ofwel ingebed in het landschap via een groenscherm;<br>
+c) de wateropslag ligt niet in een vastgestelde archeologische zone;<br>
+11° de plaatsing van stuwen en andere maatregelen die de snelheid van het afstromende water remmen in onbevaarbare waterlopen en grachten als aan de volgende voorwaarden is voldaan :<br>
+a) er is een goedkeuring of machtiging van de waterloopbeheerder<br>
+b) de stuw of andere maatregel ligt niet in een vastgestelde archeologische zone.<br>
+&nbsp;
 
 ### ART 5.3.
 
 &nbsp;Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van constructies, in agrarisch gebied in de ruime zin als aan al de volgende voorwaarden voldaan is:<br>
 1° de constructies staan in functie van de professionele teelt van landbouwgewassen of van de professionele veeteelt;<br>
-2° het betreft geen gebouwen of verhardingen;<br>
+2° het betreft geen gebouwen;<br>
 3° de constructies worden opgericht binnen een straal van dertig meter van een hoofdzakelijk vergund of vergund geacht landbouwbedrijfsgebouw;<br>
 4° de van vergunning vrijgestelde constructies zijn niet groter dan 100 vierkante meter per goed;<br>
 5° de constructies liggen op minstens vijf meter van de zijdelingse en achterste perceelsgrenzen;<br>
@@ -257,7 +298,7 @@ a) ze maken geen deel uit van een bos;<br>
 b) ze liggen in een woongebied in de ruime zin, in een agrarisch gebied in de ruime zin of in een industriegebied in de ruime zin, en niet in een woonparkgebied;<br>
 c) ze liggen binnen een straal van maximaal 15 meter rondom de vergunde woning, de vergunde landbouwbedrijfswoning of landbouwbedrijfsgebouwen of de vergunde bedrijfswoning of bedrijfsgebouwen;<br>
 d) ze liggen niet op openbaar domein;<br>
-2° het vellen van alleenstaande hoogstammige bomen of van enkele bomen in lijnverband omwille van acuut gevaar en na voorafgaande schriftelijke instemming van de burgemeester;<br>
+2° het vellen van alleenstaande hoogstammige bomen of van enkele bomen in lijnverband omwille van acuut gevaar&nbsp;voor gebouwen of voor derden door het risico op omvallen van de boom of bomen en na voorafgaande schriftelijke instemming van de burgemeester;<br>
 3° het vellen van hoogstammige bomen, gelegen op terreinen waarvoor een door de bevoegde overheid of bevoegde administratie(s) goedgekeurd beheersplan of beheersvisie bestaat op basis van de milieu- en natuurwetgeving, als het vellen van de hoogstammige bomen als activiteit in dat beheersplan of beheersvisie is opgenomen.<br>
 4° het vellen van hoogstammige bomen die deel uitmaken van systemen voor grondgebruik waarbij de teelt van bomen wordt gecombineerd met landbouw op dezelfde grond, toegepast op een perceel landbouwgrond als vermeld in artikel 2, 12°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid en waarvan de aanmelding via de verzamelaanvraag en het aanplanten van de bomen is gedaan na 1 juni 2012;<br>
 5° het vellen van hoogstammige bomen die geen deel uitmaken van een bos, door of op verzoek van de leidingbeheerder:<br>
@@ -273,8 +314,8 @@ In het eerste lid wordt verstaan onder hoogstammige boom: een boom die op een ho
 ### ART. 6.2.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor volgende handelingen:<br>
-1° het aanleggen, vervangen of herinrichten van perceelsopritten en perceelsovergangen, met inbegrip van de eventueel daarvoor strikt noodzakelijke inbuizing van grachten. Deze inbuizing van grachten is niet langer dan vijf meter per goed;<br>
-2° het aanleggen, inbuizen, openleggen, herprofileren of geheel of gedeeltelijk dempen van grachten, als de bodem van de gracht die wordt aangelegd niet dieper is dan 1,5 meter, gemeten vanaf het maaiveld. De inbuizing van grachten is niet langer dan vijf meter per goed;<br>
+1° het aanleggen, vervangen of herinrichten van perceelsopritten, met inbegrip van de eventueel daarvoor strikt noodzakelijke overwelving of inbuizing van grachten met een maximum van één overwelving of inbuizing per goed of landbouwgoed. De lengte van de overwelving of inbuizing bedraagt maximaal tien meter, als de aanliggende weg een rijbaanbreedte heeft die kleiner is dan vier meter, en maximaal 7,50 meter in de andere gevallen. De overwelving of inbuizing heeft een minimale binnendiameter van 400 millimeter;<br>
+2° het aanleggen, openleggen, herprofileren of geheel of gedeeltelijk dempen van grachten, als de bodem van de gracht die wordt aangelegd niet dieper is dan 1,5 meter, gemeten vanaf het maaiveld;<br>
 3° het uitvoeren van reliëfwijzigingen van minder dan een meter hoogte;<br>
 4° het plaatsen of herinrichten van kleinschalige toeristisch-recreatieve infrastructuur zoals zitbanken, picknicktafels, vuilbakken, fietsenrekken, speeltoestellen, infopanelen en infokiosken;<br>
 5° het plaatsen of herinrichten van kleinschalige faunavoorzieningen;<br>
@@ -297,17 +338,17 @@ De vrijstelling, vermeld in het eerste lid, geldt alleen voor handelingen ter ui
 
 ### ART 6.3.
 
-Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het louter door uitgraving aanleggen van een veedrinkpoel met een maximale oppervlakte van 100 vierkante meter.
+Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het louter door uitgraving aanleggen van een veedrinkpoel of poel voor amfibieën met een maximale oppervlakte van 100 vierkante meter.
 
 ## HOOFDSTUK 7 Tijdelijke handelingen
 
 ### ART. 7.1.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor tijdelijke handelingen die nodig zijn om vergunde handelingen, meldingsplichtige handelingen waarvan akte is genomen of van vergunning vrijgestelde handelingen uit te voeren als die tijdelijke handelingen plaatsvinden op openbaar domein, op het goed of binnen de werk- en werfstrook die afgebakend is in de omgevingsvergunning voor stedenbouwkundige handelingen of in de meldingsakte. De tijdelijke handelingen worden ongedaan gemaakt binnen de dertig dagen na het einde der werken.<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor tijdelijke handelingen die nodig zijn om vergunde handelingen, meldingsplichtige handelingen waarvan akte is genomen of van vergunning vrijgestelde of niet vergunningsplichtige handelingen uit te voeren als die tijdelijke handelingen plaatsvinden op openbaar domein, op het goed of binnen de werk- en werfstrook die afgebakend is in de omgevingsvergunning voor stedenbouwkundige handelingen of in de meldingsakte. De tijdelijke handelingen worden ongedaan gemaakt binnen de dertig dagen na het einde der werken.<br>
 <br>
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de tijdelijke plaatsing van verplaatsbare constructies tijdens de uitvoering van vergunde verbouwingen of herbouwingen van gebouwen, meldingsplichtige verbouwingen of herbouwingen waarvan akte is genomen of van vergunning vrijgestelde verbouwingen als aan al de volgende voorwaarden is voldaan :<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de tijdelijke plaatsing van verplaatsbare constructies tijdens de uitvoering van vergunde verbouwingen of herbouwingen van gebouwen, meldingsplichtige verbouwingen of herbouwingen waarvan akte is genomen of van vergunning vrijgestelde of niet vergunningsplichtige verbouwingen als aan al de volgende voorwaarden is voldaan :<br>
 1° de constructies worden gebruikt om functies in onder te brengen die door de uitvoering van de handelingen niet meer kunnen plaatsvinden in de te verbouwen of herbouwen gebouwen;<br>
-2° de constructies worden niet langer dan twee jaar geplaatst in geval van vergunde of meldingsplichtige verbouwingen of herbouwingen en niet langer dan een jaar in geval van verbouwingen die vrijgesteld zijn van vergunning;<br>
+2° de constructies worden niet langer dan twee jaar geplaatst in geval van vergunde of meldingsplichtige verbouwingen of herbouwingen en niet langer dan een jaar in geval van verbouwingen die vrijgesteld zijn van vergunning of niet vergunningsplichtig zijn;<br>
 3° de maximale hoogte is beperkt tot 3,5 meter;<br>
 4° bij plaatsing op een goed dat niet tot het openbaar domein behoort, wordt de constructie op minimaal twee meter afstand van de zijdelingse en van de achterste perceelsgrens geplaatst;<br>
 5° de constructies worden verwijderd binnen dertig dagen nadat de verbouwde of herbouwde gebouwen in gebruik zijn genomen.
@@ -345,11 +386,11 @@ Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig vo
 
 ### ART. 8.1.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de herinrichting van de volgende al dan niet omheinde&nbsp;terreinen, als er geen gebouwen opgericht worden en als de herinrichting eigen is aan de functie van het terrein :<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de herinrichting van de volgende al dan niet omheinde&nbsp;terreinen, als er geen overdekte constructies, groter dan 100 vierkante meter of gebouwen, groter dan 40 vierkante meter opgericht worden en als de herinrichting eigen is aan de functie van het terrein :<br>
 1° openbare begraafplaatsen,<br>
 2° openbare parken, openbare groenzones en publiek toegankelijke dierentuinen;<br>
 3° al dan niet openbare terreinen voor recreatie;<br>
-4° openbaar spoorwegdomein, als het aantal sporen niet vermeerderd wordt;<br>
+4° openbaar spoorwegdomein, als het aantal sporen niet vermeerderd wordt of als het om de herinrichting van sporen binnen bestaande spoorbundels gaat;<br>
 4°/1 openbare carpoolparkings, park-and-ride parkings en Hoppinpunten;<br>
 5° sportterreinen;<br>
 6° terreinen voor waterzuivering, met inbegrip van de installaties;<br>
@@ -362,7 +403,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 
 De vrijstelling, vermeld in artikel 8.1, geldt alleen als de handelingen voldoen aan de volgende voorwaarden :<br>
 1° de bestaande terreinen, gebouwen, constructies en verhardingen zijn hoofdzakelijk vergund of vergund geacht;<br>
-2° het terrein wordt niet uitgebreid en de bestaande bufferzones blijven behouden;<br>
+2° het terrein wordt niet uitgebreid en de bestaande buffer- en groenzones rond het terrein blijven behouden;<br>
 3° er wordt geen vergunningsplichtige functiewijziging uitgevoerd;<br>
 4° de handelingen betreffen niet het slopen of verwijderen van gebouwen, met uitzondering van het slopen of verwijderen, vermeld in hoofdstuk 13;<br>
 5° de handelingen zijn niet gesitueerd in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied;<br>
@@ -374,6 +415,8 @@ De vrijstelling, vermeld in artikel 8.1, geldt alleen als de handelingen voldoen
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het optrekken van installaties en gebouwen van militair strategisch belang in gebieden die op de plannen van aanleg of op de uitvoeringsplannen aangegeven zijn als militair domein.<br>
 <br>
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg van leidingen van militair strategisch belang en hun aanhorigheden.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het optrekken van installaties van militair strategisch belang, door of in opdracht van de militaire overheid, gericht op de verdediging van belangrijke infrastructuur.<br>
 &nbsp;
 
 ### ART. 8.4.
@@ -390,6 +433,23 @@ In het eerste lid wordt verstaan onder:<br>
 ### ART. 8.5.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen of verplaatsen van één of meer woonwagens, als vermeld in artikel 1.3, § 1, eerste lid, 73°, van de Vlaamse Codex Wonen van 2021, op een residentieel woonwagenterrein of doortrekkersterrein voor woonwagenbewoners, als vermeld in artikel 1.3, § 1, eerste lid, 11° en 43°, van de voormelde codex, op voorwaarde dat het terrein in kwestie vergund of hoofdzakelijk vergund is.
+
+### ART 8.6.
+
+§1. Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen van afsluitingen, verplaatsbare constructies en bijbehorende verhardingen, als aan al de volgende voorwaarden is voldaan:<br>
+1° de verplaatsbare constructies worden geplaatst binnen de op 1 januari 2025 bestaande perceelsgrenzen van een gevangenis, een forensisch psychiatrisch centrum, een detentiehuis of een gesloten jeugdinstelling;&nbsp;<br>
+2° de verplaatsbare constructies hebben een maximale hoogte van twee bouwlagen;<br>
+3° de betrokken hulpverleningszone verleent een schriftelijk gunstig advies.<br>
+<br>
+§2. Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen van afsluitingen, verplaatsbare constructies en bijbehorende verhardingen, bestemd voor het inrichten van een gevangenisterrein, een forensisch psychiatrisch centrum, een detentiehuis of een gesloten jeugdinstelling als aan al de volgende voorwaarden is voldaan:<br>
+1° het terrein wordt ingericht in gebieden die op de plannen van aanleg of op ruimtelijke uitvoeringsplannen aangegeven zijn als militair domein;&nbsp;<br>
+2° de verplaatsbare constructies hebben een maximale hoogte van twee bouwlagen;<br>
+3° de plaatsing duurt niet langer dan zes jaar;<br>
+4° de betrokken hulpverleningszone verleent een schriftelijk gunstig advies.<br>
+<br>
+§3. Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen van drijvende constructies, geïmmobiliseerd aan wal, met inbegrip van de constructies, nodig om de toegang tot, werking van en controle op deze constructies te verzekeren, als aan al de volgende voorwaarden is voldaan:<br>
+1° de drijvende constructie dient als een gevangenis, een forensisch psychiatrisch centrum, een detentiehuis of een gesloten jeugdinstelling;&nbsp;<br>
+2° de betrokken hulpverleningszone verleent een schriftelijk gunstig advies.
 
 ## HOOFDSTUK 9 [Publiciteitsinrichtingen (verv. BVR 12 mei 2023, art. 15, I: 1 januari 2024)]
 
@@ -427,21 +487,30 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 3° de aanleg van verhoogde kruispunten, verkeersdrempels en andere verkeersremmende ingrepen binnen de bestaande verhardingsbreedte;<br>
 4° gebruikelijke ondergrondse constructies en aansluitingen, zoals installaties voor het transport of de distributie van drinkwater, hemelwater, afvalwater, elektriciteit, aardgas, warmte- en koudenetleidingen en andere nutsvoorzieningen;<br>
 5° gebruikelijke aanhorigheden;<br>
-6° technische constructies van algemeen belang met een maximaal volume van 30 kubieke meter bovengronds en een maximale hoogte van 5 meter boven het maaiveld;<br>
-7° de ondergrondse aanhoging of uitdieping&nbsp;of herprofilering tot een diepte of hoogte van 50 cm van waterlichamen of de versteviging van oevers;<br>
+6° de aanleg van overdekte fietsenstallingen met een totale maximale oppervlakte van 100 vierkante meter en een maximale hoogte van 5 meter, op voorwaarde dat het hemelwater dat erop valt, ter plaatse in de bodem infiltreert;<br>
+7° de ondergrondse aanhoging of uitdieping&nbsp;of herprofilering tot een diepte of hoogte van 50 cm van waterlichamen of de versteviging of herprofilering van oevers;<br>
 8° waterbeheersingswerkzaamheden die niet zonder acuut gevaar of schade kunnen worden uitgesteld, zoals het doorbreken van waterkeringen bij rechtstreeks overstromingsgevaar;<br>
 9° strand- en duinophogingen, strand- en duinverbredingen, het slopen van niet meer gebruikte strandhoofden;<br>
-10° de plaatsing van seizoensgebonden, niet-overdekte terrassen bij horecazaken;<br>
+10° de plaatsing van niet-overdekte terrassen bij horecazaken;<br>
 11° kleinschalige faunavoorzieningen langs wegen, spoorwegen en waterlopen.<br>
 12° de plaatsing van glasbollen, kledingcontainers en andere boven- of ondergrondse houders voor de selectieve verzameling en ophaling van afval, als de gezamenlijke oppervlakte kleiner is dan twintig vierkante meter;<br>
 13° de plaatsing van elektrische laadinfrastructuur, met uitzondering van gebouwen;<br>
-14° de plaatsing van stuwen en andere maatregelen die de snelheid van het afstromende water remmen in onbevaarbare waterlopen en grachten in opdracht van of na goedkeuring of machtiging van de waterloopbeheerder.
+14° de plaatsing van stuwen en andere maatregelen die de snelheid van het afstromende water remmen in onbevaarbare waterlopen en grachten in opdracht van of na goedkeuring of machtiging van de waterloopbeheerder;<br>
+15° de plaatsing van zonnepanelen en aanhorigheden ervan op openbaar domein door, in opdracht van of met toestemming van de wegbeheerder in de berm of op het talud van autosnelwegen of spoorwegen, op minder dan dertig meter van de grens van de wegverharding of de spoorrail. Deze vrijstelling geldt niet in ruimtelijk kwetsbaar gebied;<br>
+16° de vervanging van bruggen, tunnels en vergelijkbare constructies door kennelijk dezelfde constructies om veiligheidsredenen of om de draagkracht te verhogen.
 
 ## HOOFDSTUK 11 Algemeen belang
 
 ### ART. 11.1.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor door de overheid of in opdracht van de overheid geplaatste kleinschalige   technische infrastructuur, om gegevens over gezondheids-, milieu- of   veiligheidsaspecten te verzamelen of bekend te maken.<BR><BR>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor door de overheid of in opdracht van de overheid geplaatste kleinschalige technische infrastructuur, om gegevens over gezondheids-, milieu- of veiligheidsaspecten te verzamelen of bekend te maken.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor technische constructies van algemeen belang als aan al de volgende voorwaarden voldaan is:<br>
+1° de maximale hoogte is beperkt tot vijf meter boven het maaiveld;<br>
+2° het maximale bovengrondse volume is beperkt tot:&nbsp;<br>
+a) dertig kubieke meter op privaat domein. De vrijstelling geldt niet in gebieden die erkend zijn als werelderfgoed of die in de bufferzone van het werelderfgoed liggen conform artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt in Parijs op 16 november 1972 en wanneer de constructie zich op minder dan 30 meter bevindt van gebouwen die opgenomen zijn in de vastgestelde inventaris van bouwkundig erfgoed, vermeld in artikel 4.1.1. van het Onroerenderfgoedbesluit van 16 mei 2014, maar die niet beschermd zijn;<br>
+b) zestig kubieke meter op openbaar domein.<br>
+&nbsp;
 
 ### ART. 11.2.
 
@@ -477,7 +546,9 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 11.7.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg of wijziging van de strikt noodzakelijke toegangen tot en opritten naar installaties van algemeen belang voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein.&nbsp;Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, met een maximale lengte van 5 meter en een minimale binnendiameter van 400 millimeter.<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg of wijziging van de strikt noodzakelijke toegangen tot en opritten naar installaties van algemeen belang voor zover het hemelwater dat erop valt, niet wordt afgevoerd van het eigen terrein.&nbsp;Deze vrijstelling van vergunningsplicht geldt niet voor het overwelven of inbuizen van grachten en waterlopen, behalve de overwelving of inbuizing van een baangracht, vermeld in artikel 12/1.3.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen van een decentrale afvalwaterzuiveringsinstallatie door of in opdracht van de rioolbeheerder, voor de behandeling van huishoudelijk afvalwater, met een zuiveringscapaciteit tot en met 100 inwonerequivalenten en een maximale oppervlakte van 250 vierkante meter. Deze vrijstelling geldt niet in vastgestelde archeologische zones.<br>
 &nbsp;
 
 ### ART. 11.8.
@@ -524,7 +595,9 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 
 Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van communicatiekabels, leidingen en bijbehorende aanhorigheden zoals aansluitdozen aan de buitenkant van bestaande gebouwen, in de kleur van de gevel of in een neutrale, onopvallende kleur, als de installatie niet boven het gebouw of de constructie uitsteekt.<br>
 <br>
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van ondergrondse technische installaties en van ondergrondse leidingen en communicatiekabels naar zend- en ontvangstinstallaties voor telecommunicatie.
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van ondergrondse technische installaties en van ondergrondse leidingen en communicatiekabels naar zend- en ontvangstinstallaties voor telecommunicatie.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de uitbouw van glasvezelnetwerken, met uitzondering van de oprichting van gebouwen.
 
 ## HOOFDSTUK 12/1 Diverse vrijstellingen
 
@@ -536,13 +609,31 @@ a) een gebied dat ruimtelijk kwetsbaar is;<br>
 b) een gebied dat erosiegevoelig is;<br>
 c) een gebied dat aangeduid is in bijlage IV of V bij het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstanties en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° de aard van het terrein kan wijzigen, maar de functie van het terrein wijzigt niet;<br>
-3° het totale volume van de reliëfwijziging is kleiner dan dertig kubieke meter per goed;<br>
+3° het totale volume van de reliëfwijziging is kleiner dan dertig kubieke meter per goed als het in totaliteit een uitdieping betreft en kleiner dan vijf kubieke meter per goed als het in totaliteit een ophoging betreft;<br>
 4° de hoogte of diepte van de reliëfwijziging is op elk punt kleiner dan een halve meter;<br>
-5° de reliëfwijziging strekt niet tot het geheel of gedeeltelijk dempen van grachten of waterlopen.
+5° de reliëfwijziging strekt niet tot het geheel of gedeeltelijk dempen van grachten of waterlopen.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg van een bovengrondse infiltratievoorziening waarin het hemelwater op natuurlijke wijze infiltreert, als aan al volgende voorwaarden is voldaan:<br>
+1° de diepte van de reliëfwijziging is op elk punt kleiner dan 70 centimeter;<br>
+2° de afmetingen van de infiltratievoorziening zijn afgestemd op de afwaterende oppervlakte.
 
 ### ART 12/1.2.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van elektrische laadpalen op of aan bestaande, hoofdzakelijk vergunde of vergund geachte verhardingen.
+
+### ART 12/1.3.
+
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het aanbrengen van maximaal één overwelving of inbuizing van een baangracht per goed. De lengte van de overwelving of inbuizing bedraagt maximaal vijf meter. De overwelving of inbuizing heeft een minimale binnendiameter van 400 millimeter. De lengtebeperking geldt niet als de overwelving gebeurt ten behoeve van de aanleg van vrijliggende fietspaden.
+
+### ART 12/1.4.
+
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen van jachtkansels voor zover aan een van volgende voorwaarden voldaan:<br>
+1° plaatsing buiten woongebied;<br>
+2° plaatsing op minstens 500 meter verwijderd van een verspreide of geclusterde bewoning buiten woongebied.
+
+### ART 12/1.5.
+
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen van voor het publiek toegankelijke vogelkijkhutten , met een oppervlakte van maximum zes vierkante meter en een maximale hoogte van zes meter.
 
 ## HOOFDSTUK 13 Afbraak
 
