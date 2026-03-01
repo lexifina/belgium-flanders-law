@@ -20,6 +20,8 @@ In dit besluit wordt verstaan onder :<br>
 3° /2 formeel document: hetzij een inkomensbewijs, hetzij een formele bevestiging van het inkomen door een instantie of de organisator die voorzien is van een datum en een handtekening;<br>
 4° gesubsidieerde kinderopvangplaats : een kinderopvangplaats waarvoor het agentschap een subsidie betaalt aan de organisator;<br>
 5° gezin : een of meer personen in het thuismilieu van het opgevangen kind die de verantwoordelijkheid voor dat kind dragen;<br>
+5°/1 gezinsopvang: de kinderopvang die plaatsvindt buiten de gezinswoning van het kind, voor maximaal acht gelijktijdig aanwezige kinderen;<br>
+5°/2 groepsopvang: de kinderopvang die plaatsvindt buiten de gezinswoning van het kind, waarbij er minimaal negen tegelijk aanwezige kinderen kunnen zijn;<br>
 6° inclusieve kinderopvang : de kinderopvang van een kind met een specifieke zorgbehoefte samen met kinderen zonder specifieke zorgbehoefte;<br>
 7° inkomen : het gezamenlijk belastbaar inkomen voor de aftrekbare bestedingen;<br>
 7° /1 inwonende persoon: een persoon met domicilie op hetzelfde adres als de contracthouder die in aanmerking wordt genomen voor de toepassing van het inkomenstarief. Het adres is het adres dat is opgenomen in het Rijksregister en ter beschikking wordt gesteld door de Kruispuntbank;<br>
@@ -45,12 +47,15 @@ b) opgevangen kind met vrije prijs: het opgevangen kind waarvoor de organisator 
 14° plussubsidie : de subsidie voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen en voor de realisatie van toegang voor die gezinnen, vermeld in artikel 9 van het decreet van 20 april 2012;<br>
 14° /1 subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve kinderopvang, de verspreiding van expertise en sensibiliseren inzake inclusieve kinderopvang, in samenwerking met andere actoren die instaan voor inclusie, aan een organisator met minstens 22 gesubsidieerde kinderopvangplaatsen met een subsidie voor inkomenstarief binnen die zorgregio of aan een organisator van kleuteropvang;<br>
 14° /2 subsidie voor dringende kinderopvang: de subsidie voor de realisatie van een specifieke opdracht als vermeld in artikel 10, 3°, van het decreet van 20 april 2012, meer bepaald de organisatie van kinderopvang op heel korte termijn en in afwachting van doorstroming van het kind naar de reguliere kinderopvang, als dat nodig is;<br>
+14°/3 samenwerkende onthaalouders: de kinderbegeleiders met het specifieke sociaal statuut voor onthaalouders, die samenwerken in eenzelfde kinderopvanglocatie, op basis van een samenwerkingsovereenkomst met een organisator, die voor 1 april 2014 een erkenning had op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders;<br>
+14°/4 specifiek sociaal statuut voor onthaalouders: het sociaal statuut, dat een gevolg is van de toepassing van de wet tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, op basis van artikel 3, 9°, van het Koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
 15° subsidie voor inclusieve kinderopvang : de subsidie voor de realisatie van opdrachten in het kader van inclusieve kinderopvang van kinderen met een specifieke zorgbehoefte, vermeld in artikel 10, 2°, van het decreet van 20 april 2012;<br>
 16° subsidie voor individuele inclusieve kinderopvang : de subsidie voor de realisatie van inclusieve kinderopvang van een individueel kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur deed;<br>
 17° subsidie voor inkomenstarief : de subsidie voor de realisatie van kinderopvang waarvoor de gezinnen een prijs betalen op basis van het inkomen, en voor de realisatie van toegang tot de kinderopvang voor bepaalde gezinnen, vermeld in artikel 8 van het decreet van 20 april 2012;<br>
 17° /1 subsidie voor kinderopvang met flexibele openingstijden: de subsidie voor de realisatie van kinderopvang op flexibele openingstijden, vermeld in artikel 10, 1°, van het decreet van 20 april 2012. Binnen die subsidie zijn de volgende vormen te onderscheiden:<br>
 a) subsidie flexibele gezinsopvang: de subsidie voor kinderopvang op atypische openingsmomenten in een kinderopvanglocatie voor gezinsopvang;<br>
 b) subsidie voor ruimere openingsmomenten: de subsidie voor kinderopvang op atypische openingsmomenten in een kinderopvanglocatie voor groepsopvang;<br>
+17°/2 subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut: de subsidie voor het tewerkstellen van kinderbegeleiders gezinsopvang in het werknemersstatuut in plaats van het specifieke sociaal statuut voor onthaalouders;<br>
 18° subsidie voor structurele inclusieve kinderopvang : de subsidie voor de realisatie van de structurele uitbouw van inclusieve kinderopvang binnen een kinderopvanglocatie;<br>
 19° subsidieerbare kinderopvangplaats : een kinderopvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van het agentschap beschikt;<br>
 20° subsidiegroep : een groep van kinderopvanglocaties van hetzij gezinsopvang, hetzij groepsopvang, van dezelfde organisator binnen een geografisch afgebakend gebied. Voor gezinsopvang is dat gebied de zorgregio. Voor groepsopvang is dat gebied de gemeente, met uitzondering van het tweetalige gebied Brussel Hoofdstad waar dit gebied de zorgregio is;<br>
@@ -141,7 +146,12 @@ De subsidies voor kinderopvang met flexibele openingstijden worden op de volgend
 1° de subsidie flexibele gezinsopvang kan toegekend worden als de organisator de voorwaarden voor die subsidie realiseert in een kinderopvanglocatie gezinsopvang waarvoor hij een subsidie voor inkomenstarief heeft;<br>
 2° de subsidie voor ruimere openingsmomenten kan toegekend worden als de organisator de voorwaarden voor die subsidie realiseert in een kinderopvanglocatie groepsopvang waarvoor hij een basissubsidie heeft.<br>
 <br>
-De subsidie voor dringende kinderopvang kan toegekend worden als de organisator de voorwaarden voor die subsidie realiseert in een kinderopvanglocatie groepsopvang waarvoor hij een subsidie voor inkomenstarief heeft.
+De subsidie voor dringende kinderopvang kan toegekend worden als de organisator de voorwaarden voor die subsidie realiseert in een kinderopvanglocatie groepsopvang waarvoor hij een subsidie voor inkomenstarief heeft.<br>
+<br>
+De subsidie voor kinderbegeleiders gezinsopvang in het werknemersstatuut kan worden toegekend aan een organisator met een vergunning voor gezinsopvang als de organisator voldoet aan de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de organisator stelt de kinderbegeleider als werknemer tewerk;<br>
+2°&nbsp;&nbsp; &nbsp;de organisator beschikt al over de subsidie voor inkomenstarief voor de betrokken kinderopvangplaatsen;<br>
+3°&nbsp;&nbsp; &nbsp;de organisator realiseert de voorwaarden die verbonden zijn aan de subsidie voor inkomenstarief.
 
 ## HOOFDSTUK 4 Index
 
@@ -706,55 +716,37 @@ De organisator met meer dan achttien vergunde kinderopvangplaatsen neemt in het 
 
 Gezinnen betalen het inkomenstarief voor de opvang op een dringende opvangplaats als vermeld in artikel 40/12.
 
-## [TITEL 4/3 De subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut (ing. BVR 26 mei 2023, art. 1, I: 1 april 2023)]
+## TITEL 4/3 De subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut
+
+## Hoofdstuk 1. Bedrag subsidie
 
 ### ART 40/17.
 
-Het agentschap kan conform artikel 40/19 en 40/20 een subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut toekennen aan organisatoren met een vergunning voor gezinsopvang als vermeld in het decreet van 20 april 2012, die met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders werken.<br>
+De subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut, die door het agentschap is toegekend op basis van het besluit van de Vlaamse Regering van 22 mei 2015 houdende de regeling van de toekenning van een subsidie voor een vernieuwend project betreffende het werknemersstatuut van de kinderbegeleider gezinsopvang aan organisatoren met een vergunning en het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang, bedraagt:<br>
+1°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; voor de organisator die onder de private sector valt: 17.917,43 euro (zeventienduizend negenhonderdzeventien euro drieënveertig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
+2° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; voor de organisator die onder de publieke sector valt: 22.441,69 euro (tweeëntwintigduizend vierhonderdeenenveertig euro negenenzestig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
 <br>
-De subsidie, vermeld in het eerste lid, die door het agentschap is toegekend op basis van het besluit van de Vlaamse Regering van 22 mei 2015 houdende de regeling van de toekenning van een subsidie voor een vernieuwend project betreffende het werknemersstatuut van de kinderbegeleider gezinsopvang aan organisatoren met een vergunning en het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang, bedraagt:<br>
-1° voor de organisator die onder de private sector valt: 16.884,00 euro (zestienduizend achthonderdvierentachtig euro) per voltijdsequivalent kinderbegeleider per kalenderjaar;<br>
-2° voor de organisator die onder de publieke sector valt: 21.147,30 euro (eenentwintigduizend honderdzevenenveertig euro dertig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
-<br>
-De subsidie, vermeld in het eerste lid, die na 1 april 2024 door het agentschap op basis van artikel 40/20 wordt toegekend, bedraagt 21.570,25 euro (eenentwintigduizend vijfhonderdzeventig euro vijfentwintig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.<br>
-<br>
-Het bedrag, vermeld in het tweede en derde lid, wordt verhoudingsgewijze verminderd als een voltijdsequivalent of een fractie ervan niet wordt ingevuld gedurende meer dan dertig dagen, vanaf de eenendertigste dag waarop de voltijdsequivalent of de fractie ervan niet is ingevuld.&nbsp;<br>
-<br>
-De organisator verliest het recht op de subsidie, vermeld in het eerste lid, als een voltijdsequivalent kinderbegeleider in een werknemersstatuut niet wordt ingevuld of uit dienst treedt en niet vervangen wordt door een nieuwe kinderbegeleider in een werknemersstatuut binnen zes maanden vanaf de kalenderdag waarin de gewijzigde situatie zich heeft voorgedaan.&nbsp;De periode van zes maanden kan op verzoek van de organisator één keer verlengd worden met vier maanden conform de administratieve richtlijnen van het agentschap.<br>
-&nbsp;
+De subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut, die het agentschap na 1 april 2024 toekent, bedraagt 22.441,69 euro (tweeëntwintigduizend vierhonderdeenenveertig euro negenenzestig cent) per voltijdsequivalent kinderbegeleider per kalenderjaar.
+
+## Hoofdstuk 2. Voorwaarden voor de specifieke dienstverlening
 
 ### ART 40/18.
 
-De organisator, vermeld in artikel 40/17 van dit besluit, voldoet aan al de volgende subsidievoorwaarden:<br>
-1° de organisator selecteert voor de aanstelling als werknemer alleen de volgende personen:<br>
-a) kinderbegeleiders die een kwalificatiebewijs als vermeld in artikel 43, §2, eerste lid, 4°, a), van het Vergunningsbesluit van 22 november 2013, hebben of een bewijs van een kwalificerend traject leveren als vermeld in artikel 8 van het ministerieel besluit van 25 november 2016 tot uitvoering van het Vergunningsbesluit van 22 november 2013;<br>
-b) kinderbegeleiders die beschikbaar zijn om per voltijdsequivalent gemiddeld vier kinderen op te vangen per kwartaal;<br>
-2° de organisator engageert zich voor de tewerkstelling van het aantal toegekende voltijdsequivalenten werknemers;<br>
-3° de organisator werkt samen met een pool gezinsopvang als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang om het beleidsvoerende vermogen van de organisator als werkgever van kinderbegeleiders gezinsopvang te versterken.<br>
-&nbsp;
+De organisator voldoet aan de volgende subsidievoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;de organisator stelt per toegekend voltijdsequivalent een kinderbegeleider tewerk in het werknemersstatuut in een kinderopvanglocatie gezinsopvang;<br>
+2°&nbsp;&nbsp; &nbsp;de organisator stelt als werknemer alleen kinderbegeleiders aan die op basis van de arbeidsovereenkomst beschikbaar zijn om per voltijdsequivalent gemiddeld vier kinderen per dag op te vangen per kwartaal.
 
 ### ART 40/19.
 
-De organisatoren die een subsidie ontvingen op basis van het besluit van de Vlaamse Regering van 22 mei 2015 houdende de regeling van de toekenning van een subsidie voor een vernieuwend project betreffende het werknemersstatuut van de kinderbegeleider gezinsopvang aan organisatoren met een vergunning en het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie voor een vernieuwend project werknemersstatuut van de kinderbegeleider gezinsopvang behouden het recht op de toegekende subsidies zolang de subsidievoorwaarden, vermeld in artikel 40/18 van dit besluit, worden nageleefd.
+...
 
 ### ART 40/20.
 
-Het agentschap kan na een algemene oproep middelen toekennen aan organisatoren als daarvoor budgettaire ruimte is.&nbsp;<br>
-<br>
-De aanvraag van een organisator wordt uitgesloten als er ernstige dossiermatige indicaties zijn die erop wijzen dat de vergunningsvoorwaarden of de subsidievoorwaarden niet nageleefd kunnen worden of als er is geen duidelijk en realistisch perspectief is waaruit blijkt dat de organisator in staat is om negentig dagen na de datum van de toewijzingsbeslissing van de bijkomende voltijds equivalente werknemers als werkgever op te treden.<br>
-<br>
-De minister bepaalt de nadere regels voor de inhoud van de oproep, waaronder het beschikbaar budget en de verdeling van dat budget tussen de private en publieke sector, en de procedure voor de behandeling van de aanvragen en legt de voorrangscriteria vast, rekening houdend met de subsidievoorwaarden vermeld in artikel 40/18.<br>
-&nbsp;
+...
 
 ### ART 40/21.
 
-Het agentschap bezorgt op digitale wijze het voornemen over het verlies van het recht op de subsidie, vermeld in artikel 40/17, vierde lid, aan die organisator.&nbsp;<br>
-&nbsp;<br>
-De organisator, vermeld in artikel 3, beschikt over tien dagen vanaf de datum van kennisgeving van het voornemen, vermeld in het eerste lid, om te reageren op het voornemen.<br>
-&nbsp;<br>
-Het agentschap beslist binnen dertig dagen na de dag waarop het antwoord van de organisator, vermeld in artikel 3, heeft ontvangen, of na afloop van de reactietermijn, vermeld in het eerste lid.<br>
-&nbsp;<br>
-Het agentschap bezorgt de beslissing op digitale wijze uiterlijk tien dagen na de datum van de beslissing.
+...
 
 ## TITEL 5 Subsidie voor inclusieve kinderopvang
 
@@ -933,7 +925,7 @@ De organisator die de subsidie krijgt, dient te voldoen aan de voorwaarden, verm
 
 ### ART. 57.
 
-Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren voor samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende deze overgangsperiode geldt het bedrag, vermeld in artikel 11.
+Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt gedurende een overgangsperiode van achttien jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren voor samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende deze overgangsperiode geldt het bedrag, vermeld in artikel 11.
 
 ## Onderafdeling 2 Subsidie voor inkomenstarief
 
@@ -943,9 +935,9 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12, wordt 
 
 ### ART. 59.
 
-<p>§ 1. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van kinderopvangprestaties, vermeld in artikel 18, tweede lid, 1°, wordt gedurende een overgangsperiode van twaalf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de bedragen, vermeld in artikel 17, tweede lid, 1°, en artikel 58, § 1, eerste lid, 3°.</p>
+<p>§ 1. De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van kinderopvangprestaties, vermeld in artikel 18, tweede lid, 1°, wordt gedurende een overgangsperiode van achttien jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de bedragen, vermeld in artikel 17, tweede lid, 1°, en artikel 58, § 1, eerste lid, 3°.</p>
 
-<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van twaalf&nbsp;jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode&nbsp;gelden de bedragen, vermeld in artikel 17, vijfde lid.<br>
+<p>De subsidie voor inkomenstarief voor groepsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 18, eerste lid, 2°, wordt gedurende een overgangsperiode van achttien&nbsp;jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 18, vijfde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren als samenwerkende onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode&nbsp;gelden de bedragen, vermeld in artikel 17, vijfde lid.<br>
 <br>
 § 2. ...</p>
 
@@ -989,12 +981,16 @@ In afwijking van artikel 21 heeft de organisator een bezetting :<BR>1° van   70
 
 ### ART. 65.
 
-Zolang de kinderbegeleider werkt volgens het sociaal statuut van de aangesloten onthaalouders, betaalt de organisator aan de kinderbegeleider:<br>
+Zolang de kinderbegeleider werkt volgens het specifieke sociaal statuut voor onthaalouders, betaalt de organisator aan de kinderbegeleider:<br>
 1° een kostenvergoeding van 28,15 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
 2° de subsidie flexibele gezinsopvang, vermeld in artikel 40/1, eerste lid, 1° ;<br>
 3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur heeft verleend.<br>
 <br>
 In afwijking van het eerste lid betaalt de organisator een kostenvergoeding aan de kinderbegeleider van 40% van het bedrag per kinderopvangprestatie van een kind dat buitenschools opgevangen wordt, die minder dan drie uur duurt.
+
+### ART 65/1.
+
+Tijdens de overgangsperiode, vermeld in artikel 57 en 59, kan het agentschap, binnen de grenzen van het door de Vlaamse Regering beschikbaar gestelde budget, een algemene oproep als vermeld in artikel 58/1 van het Procedurebesluit van 9 mei 2014 doen naar de organisatoren voor een vervroegde stopzetting van die overgangsperiode, als de organisator de kinderbegeleiders in het werknemersstatuut zal tewerkstellen.
 
 ## HOOFDSTUK 3 Subsidies van andere overheidsinstanties
 
