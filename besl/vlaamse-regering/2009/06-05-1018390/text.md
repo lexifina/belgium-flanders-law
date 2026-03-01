@@ -1528,12 +1528,12 @@ Het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan   de co
 <br>
 § 2. Bij zijn eerste inschrijving als werkzoekende in het kader van de beroepsinschakelingstijd wordt de jonge verplicht ingeschreven werkzoekende er schriftelijk van op de hoogte gebracht:<br>
 1° dat hij zelf voldoende werkzoekgedrag moet vertonen door zich te integreren op de arbeidsmarkt, enerzijds door actief een betrekking te zoeken tijdens zijn werkloosheid en anderzijds door mee te werken aan de acties en afspraken die hem door de VDAB worden voorgesteld;<br>
-2° dat in de loop van de zesde en elfde maand van de beroepsinschakelingstijd, zijn werkzoekgedrag door de VDAB beoordeeld zal worden;<br>
+2° dat diens werkzoekgedrag door de VDAB beoordeeld wordt binnen de &nbsp;voorwaarden, vermeld in het koninklijk besluit van 25 november 1991 houdende &nbsp;de werkloosheidsreglementering;<br>
 3° dat hij op het einde van de beroepsinschakelingstijd toegelaten kan worden tot het recht op inschakelingsuitkeringen als hij voldoet aan de voorwaarden, vermeld in deze afdeling en aan de vereisten gesteld in het voormelde koninklijk besluit van 25 november 1991.<br>
 <br>
 De jonge verplicht ingeschreven werkzoekende wordt ook op de hoogte gebracht van het verdere verloop van de opvolgingsprocedure van het werkzoekgedrag en van de eventuele gevolgen.<br>
 <br>
-§ 3. De jonge verplicht ingeschreven werkzoekende wordt uitgenodigd voor een gesprek op een fysieke locatie bij een bemiddelaar in de loop van de zesde en elfde maand van zijn beroepsinschakelingstijd met het oog op de beoordeling van zijn werkzoekgedrag.<br>
+§ 3. De jonge verplicht ingeschreven werkzoekenden worden gedurende hun &nbsp;beroepsinschakelingstijd minstens twee keer uitgenodigd voor een gesprek op &nbsp;een fysieke locatie bij een bemiddelaar met het oog op de beoordeling van hun &nbsp;werkzoekgedrag.<br>
 <br>
 § 4. In afwijking van paragraaf 3 zal de VDAB geen uitnodiging sturen naar de jonge verplicht ingeschreven werkzoekende die over een geldige reden beschikt waardoor hij niet beschikbaar is voor een gesprek.<br>
 <br>
@@ -1568,9 +1568,9 @@ De inlichtingen, vermeld in het eerste lid, worden tijdens het gesprek aan de jo
 7° zijn sociale en familiale situatie;<br>
 8° andere relevante gegevens.<br>
 <br>
-§ 3. In geval van een positieve beoordeling informeert de VDAB de jonge verplicht ingeschreven werkzoekende schriftelijk daarover, uiterlijk veertien dagen na het gesprek. Als het gaat om het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand van de beroepsinschakelingstijd.<br>
+§ 3. In geval van een positieve beoordeling informeert de VDAB de jonge &nbsp;verplicht ingeschreven werkzoekenden schriftelijk daarover uiterlijk veertien &nbsp;dagen na het gesprek, vermeld in artikel 111/27, §3. Als het gaat om de eerste &nbsp;beoordeling tijdens de beroepsinschakelingstijd, worden de jonge verplicht &nbsp;ingeschreven werkzoekenden er ook van op de hoogte gebracht dat ze &nbsp;opgeroepen zullen worden voor een nieuwe beoordeling in de loop van de &nbsp;beroepsinschakelingstijd.&nbsp;<br>
 <br>
-De jonge verplicht ingeschreven werkzoekende wordt er verder van op de hoogte gebracht dat het recht op inschakelingsuitkeringen kan worden geopend als hij een tweede al dan niet opeenvolgende positieve beoordeling van zijn werkzoekgedrag krijgt, op voorwaarde dat hij voldoet aan de andere voorwaarden, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering.<br>
+De jonge verplicht ingeschreven werkzoekenden worden ervan op de &nbsp;hoogte gebracht dat het recht op inschakelingsuitkeringen kan worden geopend &nbsp;als ze een tweede al dan niet opeenvolgende positieve beoordeling van hun &nbsp;werkzoekgedrag krijgen, op voorwaarde ze voldoen aan de andere voorwaarden,&nbsp;vermeld in het koninklijk besluit van 25 november 1991 houdende de &nbsp;werkloosheidsreglementering.<br>
 <br>
 § 4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier aan de controledienst, samen met zijn advies. De dossiers worden eerst beoordeeld op de ontvankelijkheid ervan. Als het dossier ontvankelijk is, wordt de jonge verplicht ingeschreven werkzoekende uitgenodigd om gehoord te worden over de feiten die aan de grondslag liggen van de reden waarom het dossier is doorgestuurd naar de controledienst, en over zijn verweermiddelen.<br>
 <br>
@@ -1585,13 +1585,17 @@ De jonge verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op he
 2° de jonge verplicht ingeschreven werkzoekende niet aanwezig is, noch in persoon noch door vertegenwoordiging, op het verhoor, vermeld in paragraaf 4;<br>
 3° de jonge verplicht ingeschreven werkzoekende tijdens het verhoor niet kan aantonen dat hij zich voldoende integreert op de arbeidsmarkt.<br>
 <br>
-§ 6. De beslissing van het personeelslid van de controledienst dat conform artikel 111/18, §2, is aangewezen, wordt schriftelijk meegedeeld aan de jonge verplicht ingeschreven werkzoekende binnen veertien kalenderdagen na de geplande datum van het verhoor, vermeld in paragraaf 4.&nbsp;De voormelde termijn wordt opgeschort tijdens de duurtijd van eventuele verdere onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval wordt de jonge verplicht ingeschreven werkzoekende geïnformeerd over de opschorting. De gemotiveerde beslissing die bezorgd wordt aan de jonge verplicht ingeschreven werkzoekende, vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop beroep kan worden ingesteld.<br>
+§ 6. De beslissing van de controledienst wordt schriftelijk meegedeeld aan de &nbsp;jonge verplicht ingeschreven werkzoekenden binnen veertien dagen na de &nbsp;geplande datum van het verhoor, vermeld in paragraaf 4. &nbsp;<br>
 <br>
-Als het gaat om het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand van de beroepsinschakelingstijd.<br>
+De termijn, vermeld in het eerste lid, wordt opgeschort tijdens de duurtijd van eventuele verdere onderzoeks- of opsporingshandelingen van de controledienst. In voorkomend geval worden de jonge verplicht ingeschreven werkzoekenden geïnformeerd over de opschorting. De beslissing die bezorgd wordt aan de jonge verplicht ingeschreven werkzoekende, bevat al de volgende elementen:&nbsp;<br>
+1° de motivering overeenkomstig artikel 2 van de wet van 29 juli 1991 &nbsp;betreffende de uitdrukkelijke motivering van de bestuurshandelingen;<br>
+2° de beroepsmogelijkheid;&nbsp;<br>
+3° de bevoegde rechtbank;&nbsp;<br>
+4° de termijn waarin en de wijze waarop beroep kan worden ingesteld.&nbsp;<br>
 <br>
-De jonge verplicht ingeschreven werkzoekende wordt er verder van op de hoogte gebracht dat hij als gevolg van de negatieve beoordeling voor een nieuwe beoordeling van zijn werkzoekgedrag zal opgeroepen worden, op zijn vroegst in de loop van de vijftiende maand en daarna telkens in de loop van de drie maanden die volgen op het vorige gesprek.<br>
+Als het gaat om de eerste beoordeling tijdens de beroepsinschakelingstijd, &nbsp;worden de jonge verplicht ingeschreven werkzoekenden er ook van op de hoogte &nbsp;gebracht dat ze opgeroepen zullen worden voor een nieuwe beoordeling in de &nbsp;loop van de beroepsinschakelingstijd.&nbsp;<br>
 <br>
-De termijn van drie maanden, vermeld in het derde lid, wordt berekend vanaf de eerste dag van de maand die volgt op de maand waarin de beoordeling had moeten plaatsvinden als dat gesprek niet kon plaatsvinden om een reden die niet toe te schrijven is aan de jonge verplicht ingeschreven werkzoekende.
+De jonge verplicht ingeschreven werkzoekenden worden er verder van op &nbsp;de hoogte gebracht dat ze als gevolg van de negatieve beoordeling voor een &nbsp;nieuwe beoordeling van hun werkzoekgedrag worden opgeroepen in de loop van &nbsp;de drie maanden die volgen op het vorige gesprek.
 
 ### ART. 111/30.
 
