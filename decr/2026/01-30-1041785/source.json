@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041785,
+  "title": "Decreet van 2026-01-30 tot wijziging van de Vlaamse Codex Dierenwelzijn van 17 mei 2024",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041785/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "14c188cc009ef409bbedf1ddc6322237f9f1dc655661b6ec8e5626f185e9a54f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041785&param=informatie",
+  "as_of": "2026-03-01",
+  "made": "2026-01-30",
+  "gazette": "2026-02-25",
+  "numac": 2026001313,
+  "document_start": "2026-03-07",
+  "document_end": null,
+  "in_force": "2026-03-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2026-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
