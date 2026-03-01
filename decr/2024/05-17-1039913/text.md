@@ -516,6 +516,18 @@ In artikel 4.1.1 van dezelfde codex, het laatst gewijzigd bij het decreet van 18
 “9°/1 publiciteitsinrichting: elk visueel middel en elke constructie, met inbegrip van alle onderdelen ervan en ongeacht het verplaatsbare of tijdelijke karakter ervan, met als doel publiciteitsboodschappen op een vaste plaats kenbaar te maken aan het publiek;”;<br>
 2° in punt 10° wordt de zinsnede “boek III, titel III, hoofdstuk VI” vervangen door de zinsnede “boek 8, hoofdstuk 3,”.
 
+### ART 71.
+
+In artikel 4.2.2, §1, van dezelfde codex, vervangen bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zin “De meldingsplicht betreft gevallen waarin de beoordelingsruimte van het bestuur minimaal is vanwege het eenvoudige en gangbare karakter van de handelingen in kwestie, of de onderworpenheid van de handelingen aan nauwkeurige stedenbouwkundige voorschriften, verkavelingsvoorschriften of integrale ruimtelijke voorwaarden als vermeld in artikel 4.3.1, §2, tweede lid.” vervangen door de zin “De meldingsplicht kan alleen ingevoerd worden voor vergunningsplichtige stedenbouwkundige handelingen met een tijdelijk karakter.”;<br>
+2° het tweede lid wordt opgeheven;<br>
+3° het derde lid, dat het tweede lid wordt, wordt vervangen door wat volgt:<br>
+“De meldingsplicht, vermeld in het eerste lid, kan nooit worden ingevoerd voor handelingen in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied.”.
+
+### ART 72.
+
+In artikel 4.2.3, eerste lid, 1°, van dezelfde codex, gewijzigd bij het decreet van 25 april 2014, worden de woorden “tijdelijk of” opgeheven.
+
 ### ART 73.
 
 Artikel 4.2.5 van dezelfde codex, gewijzigd bij het decreet van 18 december 2015, wordt vervangen door wat volgt:<br>
@@ -552,6 +564,11 @@ In artikel 4.3.6 van dezelfde codex, gewijzigd bij de decreten van 25 april 2014
 1° in het eerste lid wordt de zinsnede “een volume van ten hoogste 1000 m³, of 1250 m³ in geval van bewoning door meer dan één met het bedrijf verbonden gezin” vervangen door de zinsnede “een bouwvolume van ten hoogste 1000 m³”;<br>
 2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
 “In geval van bewoning door meer dan één gezin dat aan het bedrijf verbonden is, kan een omgevingsvergunning worden verleend voor een bouwvolume van ten hoogste 1250 m³. Voor de berekening van dat maximale bouwvolume wordt uitgegaan van het gezamenlijke bouwvolume van alle bedrijfswoningen bij hetzelfde bedrijf.”.
+
+### ART 79.
+
+In artikel 4.4.1, §2, van dezelfde codex, vervangen bij het decreet van 8 december 2017 en gewijzigd bij de decreten van 26 april 2019, 18 juni 2021 en 26 mei 2023, wordt een punt 2°/1 ingevoegd, dat luidt als volgt:<br>
+“2°/1 handelingen die zijn onderworpen aan de meldingsplicht in toepassing van artikel 4.2.2, §1, op voorwaarde dat de op het perceel aanwezige gebouwen of constructies hoofdzakelijk vergund zijn;”.
 
 ### ART 80.
 
