@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041801,
+  "title": "Ministerieel besluit van 2026-02-25 tot wijziging van het ministerieel besluit van 24 november 2025 tot aanwijzing van de personeelsleden die belast worden met het opleggen van een administratieve geldboete of het voorstellen van een alternatieve sanctie en de personeelsleden die belast worden met het viseren en uitvoerbaar verklaren van dwangbevelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041801/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "edcc0e0ef2be7b47b40fe356ba7b2638ca67a23e6d5922edd1bf262bfa4b37b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041801&param=informatie",
+  "as_of": "2026-03-01",
+  "made": "2026-02-25",
+  "gazette": "2026-03-02",
+  "numac": 2026001538,
+  "document_start": "2026-03-01",
+  "document_end": null,
+  "in_force": "2026-03-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
