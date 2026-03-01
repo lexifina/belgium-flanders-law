@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041800,
+  "title": "Ministerieel besluit van 2026-02-25 tot vaststelling van de nadere regels en technische vereisten, vermeld in artikels 6.4.1/1/1, 6.4.1/1/4 en 6.4.1/2 van het Energiebesluit van 19 november 2010 en artikel 5.189 van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041800/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "9c21b043c9e6ca8f479eeae134f01b34df8f2570ea46359e6431fe568728c802",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041800&param=informatie",
+  "as_of": "2026-03-01",
+  "made": "2026-02-25",
+  "gazette": "2026-02-27",
+  "numac": 2026001544,
+  "document_start": "2026-03-01",
+  "document_end": null,
+  "in_force": "2026-03-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2026-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
