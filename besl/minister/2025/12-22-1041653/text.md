@@ -206,7 +206,7 @@ De registratie van visuren in het elektronisch logboek is verplicht.
 
 §1. Het systeem van beperking van het aantal communautaire zeedagen in het ICES-gebied VIIe ingesteld overeenkomstig bijlage II van Verordening (EU) 2025/202 van de Raad van 30 januari 2025 tot vaststelling, voor 2025, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, is van toepassing in januari 2026.&nbsp;<br>
 <br>
-Het aantal communautaire zeedagen in het ICES-gebied VIIe, vermeld in de Europese regelgeving &nbsp;betreffende de vangstmogelijkheden voor bepaalde visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie in 2026 van toepassing zijn, wordt toegekend voor de periode van 1 februari 2026 tot en met 31 januari 2027.<br>
+Het aantal communautaire zeedagen in het ICES-gebied VIIe, vermeld in bijlage II van Verordening (EU) 2026/249 van de Raad van 26 januari 2026 tot vaststelling, voor 2026, 2027 en 2028, van de vangstmogelijkheden voor bepaalde visbestanden die in de wateren van de Unie en, voor vissersvaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, en tot wijziging van Verordening (EU) 2025/202, wordt toegekend voor de periode van 1 februari 2026 tot en met 31 januari 2027.<br>
 <br>
 In het ICES-gebied VIIe is de overdracht van communautaire zeedagen tussen individuele vissersvaartuigen verboden.<br>
 <br>
@@ -384,7 +384,9 @@ Het is voor een vissersvaartuig van het GVS, die gecombineerde visreizen in de I
 <br>
 §2. Het is in de ICES-gebieden VIIf, g voor een vissersvaartuig verboden bij de scholvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 10 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
 <br>
-§3. Het is in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij de scholvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 250 kg per vaartdag.<br>
+§3. Het is&nbsp;in de periode van 1 januari 2026 tot en met 28 februari 2026 in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij de scholvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 250 kg per vaartdag.<br>
+<br>
+Vanaf 1 maart 2026 is het in het ICES-gebied VIIa voor een vissersvaartuig van het GVS verboden bij de scholvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 25 kg per vaartdag.<br>
 <br>
 §4. In de periode van 1 januari 2026 tot en met 30 juni 2026 is het in de ICES-gebieden VIIh, j, k voor een vissersvaartuig van het GVS verboden een totale scholvangst te realiseren die groter is dan 400 kg.&nbsp;
 
