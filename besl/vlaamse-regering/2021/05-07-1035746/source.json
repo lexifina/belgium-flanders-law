@@ -2,16 +2,16 @@
   "codex_id": 1035746,
   "title": "Besluit van de Vlaamse Regering van 2021-05-07 tot uitvoering van diverse bepalingen uit de wet van 28 december 1967 betreffende de onbevaarbare waterlopen en tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft het toezicht op de naleving van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035746/VolledigDocument?datum=2025-12-01",
-  "source_sha256": "7da539126a8cd68a31063b8c1ee405e85f1d42830c4a641162abf4ba3a6f2df2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035746/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "04f96691f7f9a074b63ed255b4b803adf9d44847cb2283e41312119f6d7fb1b8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035746&param=informatie",
-  "as_of": "2025-12-01",
+  "as_of": "2026-03-01",
   "made": "2021-05-07",
   "gazette": "2021-06-28",
   "numac": 2021042346,
   "document_start": "2021-07-08",
   "document_end": null,
-  "in_force": "2025-12-01",
+  "in_force": "2026-03-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-03-01; future article versions excluded; article text as the API gives it"
 }

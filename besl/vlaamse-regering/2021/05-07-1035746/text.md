@@ -731,9 +731,7 @@ Een vergunning voor stedenbouwkundige handelingen, zoals vermeld in artikel 4.2.
 
 ### ART 23.
 
-§ 1. Niemand mag zonder voorafgaande omgevingsvergunning voor stedenbouwkundige handelingen grachten overwelven of inbuizen.<br>
-<br>
-Een omgevingsvergunning voor stedenbouwkundige handelingen, zoals vermeld in artikel 4.2.1. Vlaamse Codex Ruimtelijke Ordening, voor het overwelven of inbuizen van een gracht kan alleen verleend worden om toegang tot een perceel te verlenen, te verbeteren of om werken van algemeen belang uit te voeren.<br>
+§ 1.&nbsp;Een omgevingsvergunning voor stedenbouwkundige handelingen, zoals vermeld in artikel 4.2.1. Vlaamse Codex Ruimtelijke Ordening, voor het overwelven of inbuizen van een gracht kan alleen verleend worden om toegang tot een perceel te verlenen, te verbeteren of om werken van algemeen belang uit te voeren.<br>
 <br>
 § 2. De omgevingsvergunning als vermeld in de eerste paragraaf, kan slechts goedgekeurd worden als de werken voldoen aan al de volgende voorwaarden:<br>
 1° de overwelving of inbuizing van de gracht veroorzaakt geen schadelijk effect als vermeld in artikel 1.1.3, § 2, 18°, van het gecoördineerd decreet van 15 juni 2018 en veroorzaakt geen ongewenste vernatting van aanpalende landbouwgronden buiten SBZ en VEN; en is in overeenstemming met de doelstellingen van het integraal waterbeleid, als vermeld in artikel 1.2.2. van het gecoördineerd decreet van 15 juni 2018;<br>
