@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041786,
+  "title": "Besluit van de Vlaamse Regering van 2026-02-06 tot wijziging van het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van stedenbouwkundige handelingen waarvoor geen omgevingsvergunning nodig is en van het besluit van de Vlaamse Regering van 7 mei 2021 tot uitvoering van diverse bepalingen uit de wet van 28 december 1967 betreffende de onbevaarbare waterlopen en tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft het toezicht op de naleving van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041786/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "e01f471d03b6b26a9a098b830912bf747dfb154cf04b7e50dfc6accd58d02d8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041786&param=informatie",
+  "as_of": "2026-03-01",
+  "made": "2026-02-06",
+  "gazette": "2026-02-26",
+  "numac": 2026001335,
+  "document_start": "2026-03-01",
+  "document_end": null,
+  "in_force": "2026-03-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2026-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
