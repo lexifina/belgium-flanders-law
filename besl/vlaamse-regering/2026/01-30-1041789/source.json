@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041789,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-30 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, wat betreft de evaluaties van het werkzoekgedrag tijdens de beroepsinschakelingstijd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041789/VolledigDocument?datum=2026-03-01",
+  "source_sha256": "d120d22db1e1d40823a22f8828ee6ce9e01c84a6b1647957661ed52a7df6d456",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041789&param=informatie",
+  "as_of": "2026-03-01",
+  "made": "2026-01-30",
+  "gazette": "2026-02-23",
+  "numac": 2026001338,
+  "document_start": "2026-03-01",
+  "document_end": null,
+  "in_force": "2026-03-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
