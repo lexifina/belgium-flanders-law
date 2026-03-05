@@ -241,31 +241,15 @@ d) de aanleg van nieuwe, ongelijkvloers kruisende, gemeentelijke fietsinfrastruc
 
 ## HOOFDSTUK 2 Subsidiëring van het lokale mobiliteitsbeleid
 
-## Afdeling 1 Subsidiëring van de opmaak en herziening van gemeentelijke of intergemeentelijke mobiliteitsplannen
+## Afdeling 1 ...
 
 ### ART. 38.
 
-<p>§ 1. De opmaak en de herziening van gemeentelijke of intergemeentelijke mobiliteitsplannen worden gesubsidieerd in een van de volgende gevallen :<br>
-1° de gemeente in kwestie beschikt nog niet over een gemeentelijk of intergemeentelijk mobiliteitsplan, of;<br>
-2° uit de sneltoets blijkt dat een bestaand mobiliteitsplan geheel of gedeeltelijk moet worden herzien overeenkomstig de bepalingen, vermeld in artikel 20, tweede lid, 1° of 2°.</p>
-
-<p>§ 2. Bij de opmaak van een eerste gemeentelijk of intergemeentelijk mobiliteitsplan of als uit de sneltoets blijkt dat het gemeentelijk of intergemeentelijk mobiliteitsplan geheel moet worden herzien overeenkomstig de bepalingen, vermeld in artikel 20, tweede lid, 1°, bedraagt de subsidie, vermeld in paragraaf 1 :<br>
-1° 150.000 euro voor de steden Antwerpen en Gent;<br>
-2° 75.000 euro voor de gemeenten die :<br>
-a) gedeeltelijk in grootstedelijk gebied liggen, zoals bepaald ter uitvoering van het RSV;<br>
-b) geheel of gedeeltelijk in regionaalstedelijk gebied of in het Vlaams Strategisch Gebied rond Brussel liggen, zoals bepaald ter uitvoering van het RSV;<br>
-c) geheel in kleinstedelijk gebied liggen, zoals bepaald ter uitvoering van het RSV;<br>
-3° 30.000 euro voor de overige gemeenten.</p>
-
-<p>Als uit de sneltoets blijkt dat aan het gemeentelijk of intergemeentelijk mobiliteitsplan een of meer mobiliteitsthema's moeten worden toegevoegd of dat een of meer mobiliteitsthema's verder moeten worden uitgediept, als vermeld in artikel 20, tweede lid, 2°, bedraagt de subsidie de helft van het bedrag, vermeld in het eerste lid.</p>
-
-<p>Bij een intergemeentelijke mobiliteitsplan is de subsidie gelijk aan de som van de bijdrage voor de gemeenten in kwestie.</p>
-
-<p>Er kan een subsidie worden verkregen telkens als een gemeentelijk of intergemeentelijk mobiliteitsplan wordt opgemaakt of wordt herzien overeenkomstig de bepalingen vermeld in artikel 20, tweede lid, 1° of 2°, maar er wordt maximaal één subsidie per lokale bestuursperiode toegekend.</p>
+<p>...</p>
 
 ### ART. 39.
 
-<P>§ 1. De subsidieaanvraag bevat :<BR>1° informatie over de aanvrager, met   inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<BR>2° de   datum van de bekendmaking van het uittreksel van het vaststellingsbesluit van de   gemeenteraad in het Belgisch Staatsblad.<BR></P>  <P>Bij intergemeentelijke mobiliteitsplannen kan de subsidieaanvraag van de   gemeenten in kwestie afzonderlijk worden ingediend.<BR></P>  <P>§ 2. De subsidie wordt alleen betaald als :<BR>1° de kwaliteitsadviseur een   gunstig advies heeft uitgebracht over het gemeentelijk of intergemeentelijk   mobiliteitsplan, of als uit de kennisgeving, vermeld in artikel 28, § 1, zesde   lid, van dit besluit, blijkt dat er geen advies werd uitgebracht binnen de   voorgeschreven termijn, of als de minister het ongunstige advies heeft hervormd   na de instelling van een verzoek tot heroverweging als vermeld in artikel 19, §   3, vijfde en zevende lid, van het decreet van 20 maart 2009;<BR>2° het   vaststellingsbesluit van de gemeenteraad is bekendgemaakt in het Belgisch   Staatsblad.<BR></P>
+<p>...</p>
 
 ## Afdeling 2 Subsidiëring van projecten
 
@@ -590,10 +574,10 @@ De subsidieaanvraag voor de tweede schijf, vermeld in artikel 48/3, § 4, 2°, b
 § 1. In dit artikel wordt verstaan onder besluit van 11 februari 2022 het besluit van de Vlaamse Regering van 11 februari 2022 over de Hoppinpunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de financiering en de samenwerking voor het mobiliteitsbeleid.<br>
 <br>
 § 2. De subsidie voor de projecten die gericht zijn op de aanleg of herinrichting van Hoppinpunten als vermeld in artikel 4, § 1, 11°, van het besluit van 6 september 2019, bedraagt:<br>
-1° 50% van de kostprijs voor de interregionale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 1°, van het besluit van 11 februari 2022, met een maximum van 500.000 euro;<br>
-2° 50% van de kostprijs voor de regionale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 2°, van het voormelde besluit, met een maximum van 250.000 euro;<br>
-3° 100% van de kostprijs voor de lokale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 3°, van het voormelde besluit, met een maximum van 50.000 euro;<br>
-4° 100% van de kostprijs voor de buurt-Hoppinpunten, vermeld in artikel 2, tweede lid, 4°, van het voormelde besluit, met een maximum van 25.000 euro;<br>
+1° 40% van de kostprijs voor de interregionale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 1°, van het besluit van 11 februari 2022, met een maximum van 500.000 euro;<br>
+2° 40% van de kostprijs voor de regionale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 2°, van het voormelde besluit, met een maximum van 250.000 euro;<br>
+3° 80% van de kostprijs voor de lokale Hoppinpunten op basis van netwerklogica, vermeld in artikel 2, tweede lid, 3°, van het voormelde besluit, met een maximum van 50.000 euro;<br>
+4° 80% van de kostprijs voor de buurt-Hoppinpunten, vermeld in artikel 2, tweede lid, 4°, van het voormelde besluit, met een maximum van 25.000 euro;<br>
 <br>
 Een project als vermeld in het eerste lid, komt in aanmerking voor een subsidie als het aan al de volgende voorwaarden voldoet:<br>
 1° het Hoppinpunt voldoet aan de kwaliteitseisen, vermeld in artikel 5 en 6 van het besluit van 11 februari 2022;<br>
