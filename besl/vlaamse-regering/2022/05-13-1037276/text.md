@@ -122,9 +122,9 @@ De interne exploitant staat in voor het herlokaliseren van de haltes tijdens de 
 ### ART 14.
 
 Er wordt een subsidie toegekend aan projecten die gericht zijn op de aanleg of herinrichting van een toegankelijke halte en voor de uitrusting van haltes. Die subsidie bedraagt:<br>
-1° maximaal 5.000 euro per halte en per rijrichting voor het aanleggen van een nieuwe halte of het herinrichten van een bestaande halte zodat die toegankelijk is voor reizigers met een motorische en visuele beperking of maximaal 650 euro per halte en per rijrichting voor het aanleggen van voorzieningen ten behoeve van personen met een visuele beperking;<br>
-2° 75% van de kostprijs, met een maximum van 12.000 euro, voor de levering en plaatsing van een schuilhuisje, met inbegrip van een zitbank en vuilnisbak;<br>
-3° 75% van de kostprijs, met een maximum van 11.000 euro, voor de levering en plaatsing van een fietsenstalling.
+1° maximaal 6.000 euro per halte en per rijrichting voor het aanleggen van een nieuwe halte of het herinrichten van een bestaande halte zodat die toegankelijk is voor reizigers met een motorische en visuele beperking of maximaal 650 euro per halte en per rijrichting voor het aanleggen van voorzieningen ten behoeve van personen met een visuele beperking;<br>
+2° ...;<br>
+3° ...
 
 ### ART 15.
 
@@ -132,14 +132,8 @@ De projecten, vermeld in artikel 14, kunnen worden gesubsidieerd als voldaan is 
 1° als het een subsidie betreft als vermeld in artikel 14, 1°, voldoet de halte na de uitvoering van de werken aan de voorwaarden inzake toegankelijkheid, vermeld in artikel 6;<br>
 2° voor haltes die behoren tot het kernnet of aanvullend net is de voorafgaande goedkeuring van de interne exploitant noodzakelijk;<br>
 3° de gemeente is beheerder van de infrastructuur;<br>
-4° als het een subsidie betreft als vermeld in artikel 14, 2° en 3°, heeft de gemeente de opdracht voor het oprichten van de uitrusting niet toevertrouwd aan een derde;<br>
-5° als het een subsidie betreft als vermeld in artikel 14, 2°, voldoet het schuilhuisje aan de bepalingen, vermeld in artikel 9.<br>
-<br>
-De kostprijs, vermeld in artikel 14, 2° en 3°, omvat:<br>
-1° de kosten voor de werken volgens de inschrijvingsprijs van de aannemer, in voorkomend geval te vermeerderen met de prijsherzieningen, verrekeningen, meer- of bijwerken;<br>
-2° als de gemeente de werken in eigen beheer uitvoert: de kosten van de gebruikte materialen, te staven met de facturen van de aankoop ervan;<br>
-3° de kosten voor de levering en plaatsing van de uitrusting;<br>
-4° de kosten voor het ontwerp, de productie, levering en plaatsing van de uitrusting als het een eigen ontwerp van de gemeente betreft.
+4° ...;<br>
+5° ...
 
 ### ART 16.
 
