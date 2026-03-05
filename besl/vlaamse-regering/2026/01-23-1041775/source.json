@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041775,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-23 tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de financiering en de samenwerking voor het mobiliteitsbeleid en het besluit van de Vlaamse Regering van 13 mei 2022 over haltes en halte-infrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041775/VolledigDocument?datum=2026-03-05",
+  "source_sha256": "19e24c5d923a53461d63a97069969a2979e722a999dda719854bfcc9acc4bac3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041775&param=informatie",
+  "as_of": "2026-03-05",
+  "made": "2026-01-23",
+  "gazette": "2026-02-23",
+  "numac": 2026001172,
+  "document_start": "2026-03-05",
+  "document_end": null,
+  "in_force": "2026-03-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
