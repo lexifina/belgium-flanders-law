@@ -23,12 +23,13 @@ In dit decreet wordt verstaan onder:<br>
 8° doden: iedere bewust gebruikte methode die resulteert in de dood van een dier;<br>
 9° dwangvoedering: het onder dwang toedienen van voeder of drinken;<br>
 10° fokker: elke natuurlijke persoon of elke rechtspersoon die dieren fokt die de Vlaamse Regering bepaalt om hen te gebruiken in proeven of hun weefsels of organen voor wetenschappelijke doeleinden te gebruiken, of die hoofdzakelijk voor die doeleinden andere dieren fokt, al dan niet met winstoogmerk;<br>
+10°/1&nbsp;&nbsp; &nbsp;gastgezin: een natuurlijke persoon die op initiatief van een dierenasiel dieren opvangt op een andere plaats dan in het dierenasiel zelf;<br>
 11° gebruiker: elke natuurlijke persoon of elke rechtspersoon die, al dan niet met winstoogmerk, dieren in dierproeven gebruikt;<br>
 12° handelszaak voor dieren: inrichting, met uitzondering van het landbouw-bedrijf en al dan niet toegankelijk voor het publiek, waar dieren worden gehouden met het doel om ze te verhandelen;<br>
-13° hondenkwekerij: een inrichting waarin teven voor de kweek worden gehouden en honden worden verhandeld uit eigen nesten of nesten van andere kwekerijen, die voldoet aan de bepalingen van dit decreet en de uitvoeringsbesluiten ervan;<br>
+13° hondenkwekerij: een inrichting waarin teven voor de kweek worden gehouden en honden worden verhandeld uit eigen nesten of nesten van andere kwekerijen;<br>
 14° inrichting: elke installatie, elk gebouw, elke groep van gebouwen of elk ander pand, met inbegrip van ruimten die niet volledig zijn afgeperkt of overdekt, en ook verplaatsbare voorzieningen;<br>
 15° interventiehond: een hond die getraind is of getraind wordt om te worden ingezet door het leger, de politie, de operationele diensten van de civiele veiligheid, of ondernemingen of diensten die vergund zijn met toepassing van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid;<br>
-16° kattenkwekerij: een inrichting waarin kattinnen voor de kweek worden gehouden en katten worden verhandeld uit eigen nesten of nesten van andere kwekerijen, die voldoet aan de bepalingen van dit decreet en de uitvoeringsbesluiten ervan;<br>
+16° kattenkwekerij: een inrichting waarin kattinnen voor de kweek worden gehouden en katten worden verhandeld uit eigen nesten of nesten van andere kwekerijen;<br>
 17° landcommissie: een landcommissie als vermeld in artikel 2.2.1 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 18° leverancier: elke natuurlijke persoon of elke rechtspersoon die geen fokker is en die dieren levert voor gebruik in proeven of voor het gebruik van hun weefsels of organen voor wetenschappelijke doeleinden, al dan niet met winstoogmerk;<br>
 19° markt: voor het publiek toegankelijke plaats waar verzamelingen van dieren worden gehouden met het doel ze te verhandelen;<br>
@@ -219,7 +220,8 @@ De naam, de gemeente en het erkenningsnummer van de inrichting die conform het e
 3° het kweken van dieren;<br>
 4° het aantal dieren dat maximaal kan gehouden worden;<br>
 5° de diergeneeskundige controle en de begeleiding;&nbsp;<br>
-6° de voorschriften van hoofdstuk 3.&nbsp;<br>
+6° de voorschriften van hoofdstuk 3;<br>
+7° de verzorging van de dieren.<br>
 <br>
 De Vlaamse Regering kan voor de erkenning van dierenasielen ook voor-waarden vaststellen die betrekking hebben op de opvolging van dieren in het asiel en op de adoptie.&nbsp;<br>
 <br>
@@ -243,8 +245,6 @@ De Vlaamse Regering kan, voor inrichtingen met een beperkte capaciteit, de voora
 
 ### ART 18.
 
-In dit artikel wordt verstaan onder gastgezin: een natuurlijke persoon met wie een dierenasiel een overeenkomst heeft gesloten, die onderdeel is van dat dierenasiel en die een beperkt aantal dieren voor een beperkte tijd opvangt op een andere plaats dan in het dierenasiel zelf.&nbsp;<br>
-<br>
 Dierenasielen kunnen een overeenkomst sluiten met gastgezinnen voor de tijdelijke opvang van een beperkt aantal dieren. Om controle van het welzijn van de betrokken dieren mogelijk te maken, registreren dierenasielen de gastgezinnen.<br>
 <br>
 De Vlaamse Regering bepaalt de voorwaarden om gastgezinnen door dierenasielen te laten inzetten en om die gastgezinnen te registreren. De Vlaamse Regering bepaalt ook de voorwaarden waaraan gastgezinnen zijn onderworpen.
@@ -256,7 +256,8 @@ Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies ve
 De Vlaamse Regering bepaalt:<br>
 1° de wijze van berekening van de subsidies;<br>
 2° de procedure voor de aanvraag, de beoordeling, de toekenning en de uitbetaling van de subsidies en de voorwaarden om voor de subsidies in aanmerking te komen;<br>
-3° de procedure voor de terugvordering van de subsidies.
+3° de procedure voor de terugvordering van de subsidies;<br>
+4° de wijze van verantwoording van de subsidies, met inbegrip van de controle op de naleving van de voorwaarden voor de subsidies.
 
 ### ART 20.
 
@@ -278,8 +279,9 @@ Binnen het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid
 <br>
 Voor de subsidies, vermeld in het eerste lid, kan de Vlaamse Regering nadere regels bepalen voor de volgende elementen:<br>
 1° het bedrag, de aard, de inhoud, de toepassing en de voorwaarden om in aanmerking te komen voor de subsidies waaronder de deelname door de veehouder aan een door de minister erkende kwaliteitsregeling;<br>
-2° de aanvraag- en de toekenningsprocedure;<br>
-3° de uitbetaling en de verantwoording van de subsidies met inbegrip van de controle op de naleving van de voorwaarden voor de subsidies.
+2° de aanvraag- en de toekenningsprocedure en de procedure voor de beoordeling van de aanvraag;<br>
+3° de uitbetaling en de verantwoording van de subsidies met inbegrip van de controle op de naleving van de voorwaarden voor de subsidies;<br>
+4° de procedure voor de terugvordering van de subsidies.
 
 ## Afdeling 3. Het gebruik van dieren
 
@@ -330,7 +332,9 @@ De Vlaamse Regering bepaalt de voorwaarden die nageleefd moeten worden voor het 
 
 ### ART 27.
 
-Dieren worden niet verhandeld op de openbare weg of op markten.&nbsp;<br>
+Dieren worden niet verhandeld op de openbare weg of op markten.&nbsp;Dieren worden ook niet verhandeld bij de koper thuis, tenzij:<br>
+1° het initiatief van de koper zelf uitgaat;<br>
+2° het gaat om een verkoop op afspraak tussen professionele houders, in het kader van regelmatig voorkomende transacties.<br>
 <br>
 In afwijking op het eerste lid, geldt de volgende limitatieve lijst van uit-zonderingen:<br>
 1° jaarmarkten;<br>
@@ -369,13 +373,15 @@ De Vlaamse Regering kan voorwaarden opleggen aan de verhandeling van dieren met 
 <br>
 De voorwaarden, vermeld in het eerste lid, hebben betrekking op de volgende elementen:<br>
 1° de leeftijd;<br>
-2° de identificatie en het land van oorsprong van de te koop aangeboden dieren;<br>
+2° de identificatie, de persoon of inrichting van herkomst en het land van oorsprong van de te koop aangeboden dieren;<br>
 3° de informatie aan de koper;<br>
 4° de waarborgen aan de koper en de getuigschriften in verband daarmee;<br>
 5° de ziektepreventie;<br>
+5°/1 het kweken van dieren;<br>
 6° de verpakking;<br>
 7° de aanbieding;&nbsp;<br>
-8° de tentoonstelling voor de verhandeling.
+8° de tentoonstelling voor de verhandeling;<br>
+9° de instanties of personen waaraan de dieren worden verkocht.
 
 ### ART 32.
 
@@ -404,7 +410,7 @@ De voorwaarden, vermeld in het eerste lid, hebben tot doel het welzijn van de di
 <br>
 De Vlaamse Regering bepaalt het tarief van de retributie voor deelname aan de examens, vermeld in het eerste lid, 7°. De voormelde retributie wordt geïnd door en is bestemd voor de onafhankelijke erkende instellingen die de voormelde examens organiseren.<br>
 <br>
-§2. De Vlaamse Regering bepaalt de nadere regels voor het certificaat van goedkeuring van het wegvervoermiddel, vermeld in artikel 18 van de verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97. De Vlaamse Regering bepaalt het tarief en de regels om een retributie te betalen om een certificaat van goedkeuring te verkrijgen.<br>
+§2. De Vlaamse Regering bepaalt de procedure om het certificaat van goedkeuring van het wegvervoermiddel, vermeld in artikel 18 van verordening (EG) Nr. 4/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) Nr. 4255/97, aan te vragen, uit te reiken, te schorsen of in te trekken. De Vlaamse Regering bepaalt het tarief van de retributie en de regels voor de betaling van de retributie om een certificaat van goedkeuring te verkrijgen.<br>
 <br>
 §3. De Vlaamse Regering bepaalt de procedure om de vergunning voor vervoerders, vermeld in artikel 10 en 11 van de verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97, aan te vragen, uit te reiken, te schorsen of in te trekken. De Vlaamse Regering bepaalt het tarief en de regels om een retributie te betalen om de voormelde vergunning te verkrijgen.<br>
 <br>
@@ -414,7 +420,7 @@ De Vlaamse Regering bepaalt het tarief van de retributie voor deelname aan de ex
 
 ### ART 34.
 
-Een dier wordt niet per post of pakketdienst verzonden of wordt niet besteld voor verzending per post of pakketdienst, behoudens de uitzonderingen, vermeld in de Wereldpostconventie, gedaan te Doha op 11 oktober 2012.
+Een dier wordt niet per post of pakketdienst verzonden of wordt niet besteld voor verzending per post of pakketdienst, behoudens de uitzonderingen, vermeld in de Wereldpostconventie, zoals van kracht op de dag waarop de dieren worden besteld of verzonden.
 
 ## Hoofdstuk 5. Invoer en doorvoer van dieren
 
@@ -472,15 +478,15 @@ De Vlaamse Regering kan de verbodsbepalingen, vermeld in het eerste lid, uitbrei
 1° de methoden voor de bedwelming en het doden van dieren volgens de omstandigheden en de diersoort;<br>
 2° de bouw, de inrichting en de uitrusting van slachthuizen;<br>
 3° de garantie voor een onafhankelijk optreden van de functionaris voor het dierenwelzijn;<br>
-4° de bekwaamheid van de functionaris voor het dierenwelzijn en het personeel in de slachthuizen die in contact komen met levende dieren, met inbegrip van de inhoud en organisatie van de opleidingen en examens, en de uitreiking, intrekking en schorsing van de getuigschriften die in dat kader zijn uitgereikt.<br>
+4° de bekwaamheid van de functionaris voor het dierenwelzijn en het personeel in de slachthuizen dat in contact komt met levende dieren, met inbegrip van de inhoud en organisatie van de opleidingen en examens, en de uitreiking, intrekking en schorsing van de getuigschriften die in dat kader zijn uitgereikt.<br>
 <br>
-§2. De Vlaamse Regering erkent inrichtingen voor het gegroepeerd slachten van dieren voor particulier huishoudelijk verbruik en kan de voorwaarden ervan bepalen.<br>
+§2. De Vlaamse Regering erkent inrichtingen voor het gegroepeerd slachten van dieren voor particulier huishoudelijk verbruik en kan de voorwaarden daarvoor bepalen.<br>
 <br>
 §3. Het doden en slachten van schapen, geiten en varkens voor particulier huishoudelijk verbruik buiten een erkend slachthuis of een op grond van paragraaf 2 erkende inrichting is verboden.<br>
 <br>
 Het eerste lid is niet van toepassing op:<br>
-1° landbouwers als vermeld in artikel 2, 7°, van het decreet van 22 december 2006 tot inrichting van een gemeenschappelijke identificatie van landbou-wers, exploitaties en landbouwgrond in het kader van het meststoffenbe-leid en van het landbouwbeleid;<br>
-2° personen die in het bezit zijn van een getuigschrift van vakbekwaamheid afgeleverd door het departement én over een verdovingsinstrument be-schikken. Het getuigschrift van vakbekwaamheid wordt verkregen door een opleiding over het slachten of doden van dieren te volgen en door te slagen voor een onafhankelijk examen. De opleiding wordt verzorgd door een opleidingsinstituut of een andere persoon die aantoonbare expertise heeft in het domein van dierenwelzijn bij het slachten en doden, op basis van een cursus die het departement heeft goedgekeurd. De Vlaamse Regering kan de nadere regels bepalen van het getuigschrift van vakbekwaamheid, de te volgen opleiding over het slachten of doden van dieren, het examen en van het verdovingsinstrument.
+1° landbouwers als vermeld in artikel 2, 7°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbou-wers, exploitaties en landbouwgrond in het kader van het meststoffenbe-leid en van het landbouwbeleid;<br>
+2° personen die in het bezit zijn van een getuigschrift van vakbekwaamheid afgeleverd door het departement én over een verdovingsinstrument beschikken. Het getuigschrift van vakbekwaamheid wordt verkregen door een opleiding over het slachten of doden van dieren te volgen en door te slagen voor een onafhankelijk examen. De opleiding wordt verzorgd door een opleidingsinstituut of een andere persoon die aantoonbare expertise heeft in het domein van dierenwelzijn bij het slachten en doden, op basis van een cursus die het departement heeft goedgekeurd. De Vlaamse Regering kan de nadere regels bepalen&nbsp;voor het aanvragen, uitreiken, schorsen of intrekken van het getuigschrift van vakbekwaamheid, de te volgen opleiding over het slachten of doden van dieren, het examen en het verdovingsinstrument.
 
 ## Hoofdstuk 7. Ingrepen op dieren
 
@@ -765,7 +771,9 @@ De eventuele kosten voor het departement als gevolg van de maatregelen, vermeld 
 <br>
 §3. Zonder afbreuk te doen aan de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, kunnen de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, vaststellingen doen met audiovisuele middelen. Ze kunnen ook audiovisueel materiaal van derden gebruiken, als die derden dat materiaal rechtmatig hebben gemaakt of verkregen.&nbsp;<br>
 <br>
-§4. Het proces-verbaal dat wordt opgemaakt door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, heeft bewijskracht tot het tegenbewijs is geleverd. De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen ook een proces-verbaal opstellen voor overtredingen op de verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 die zijn vastgesteld door officiële controle-instanties in het buitenland, maar die begaan zijn op het grondgebied van het Vlaamse Gewest. Een afschrift van het proces-verbaal wordt, op straffe van verval van de bewijswaarde tot het tegendeel, binnen vijftien dagen nadat het proces-verbaal is afgesloten, aan de overtreders toegezonden.<br>
+§4.&nbsp;Voor de toepassing van deze paragraaf wordt verstaan onder bevoegde autoriteit: de bevoegde autoriteit, vermeld in artikel 3, 3. van verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) Nr. 4069/2009, (EG) Nr. 4107/2009, (EU) Nr. 4151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) Nr. 4/2005 en (EG) Nr. 4099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles), en bevoegd voor het uitoefenen van officiële controles op naleving van de op Unieniveau vastgestelde regels aangaande de in artikel 1, 2., a), c), d), e) en f), van dezelfde verordening bepaalde toepassingsgebieden.<br>
+<br>
+Het proces-verbaal dat wordt opgemaakt door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, heeft bewijskracht tot het tegenbewijs is geleverd. De personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, kunnen ook een proces-verbaal opstellen voor overtredingen op de verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 die begaan zijn op het grondgebied van het Vlaamse Gewest, na vaststellingen op basis van een melding door een bevoegde autoriteit in het buitenland. Een afschrift van het proces-verbaal wordt, op straffe van verval van de bewijswaarde tot het tegendeel, binnen vijftien dagen nadat het proces-verbaal is afgesloten, aan de overtreders toegezonden.<br>
 <br>
 §5. Een proces-verbaal dat is opgesteld door de personen, vermeld in paragraaf 1, eerste lid, 2°, wordt bezorgd aan het openbaar ministerie. Een afschrift van het proces-verbaal, opgesteld door de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, wordt, op hetzelfde moment als de verzending van het proces-verbaal aan het openbaar ministerie, bezorgd aan de personeelsleden, vermeld in artikel 70, §2.&nbsp;<br>
 <br>
@@ -777,6 +785,8 @@ Het proces-verbaal van waarschuwing, vermeld in het eerste lid, bevat de volgend
 1° de ten laste gelegde feiten en de overtreden bepaling of bepalingen van dit decreet, de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten ter zake;<br>
 2° de termijn waarin de feiten, vermeld in punt 1°, moeten worden stopgezet;<br>
 3° de vermelding dat, als er geen gevolg wordt gegeven aan de waarschuwing, een proces-verbaal van overtreding wordt opgesteld dat wordt bezorgd aan het openbaar ministerie en aan de personeelsleden, vermeld in artikel 70, §2.<br>
+<br>
+§6/1. Het proces-verbaal, vermeld in paragraaf 4, en het proces-verbaal van waarschuwing, vermeld in paragraaf 6, kunnen worden ondertekend met een gekwalificeerde elektronische handtekening als vermeld in artikel 3, punt 12, van verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG.<br>
 <br>
 §7. Het is verboden de in dit artikel bedoelde bevoegdheden van de personen, vermeld in paragraaf 1, eerste lid, 1° en 2°, te verhinderen.
 
@@ -929,7 +939,7 @@ De Vlaamse Regering kan het bedrag van de verschuldigde kosten, ver-meld in het 
 
 ### ART 73.
 
-§1. Als de betrokkene in gebreke blijft bij het betalen van de administratieve geldboete, vermeld in artikel 70, §3, of van de verschuldigde kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, worden die bedragen, verhoogd met de invorderingskosten, bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar of ambtenaren die de Vlaamse Regering daarvoor aanwijst.<br>
+§1. Als de betrokkene in gebreke blijft bij het betalen van de administratieve geldboete, vermeld in artikel 70, §3, of van de verschuldigde kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, worden die bedragen, verhoogd met de invorderingskosten, bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een of meer statutaire of contractuele personeelsleden die de Vlaamse Regering daarvoor aanwijst.<br>
 <br>
 §2. Het dwangbevel, vermeld in paragraaf 1, wordt aan de schuldenaar bij deurwaardersexploot betekend.<br>
 <br>
@@ -947,16 +957,16 @@ Het voorrecht, vermeld in het eerste lid, neemt de rang in onmiddellijk na de vo
 <br>
 De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel.&nbsp;<br>
 <br>
-De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in paragraaf 1. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door de voormelde ambtenaar en dat de betekening ervan vermeldt.&nbsp;
+De hypotheek wordt ingeschreven op verzoek van het personeelslid, vermeld in paragraaf 1. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door het personeelslid, vermeld in paragraaf 1, en dat de betekening ervan vermeldt.&nbsp;
 
 ### ART 74.
 
-In afwijking van artikel 73 kan de ambtenaar, vermeld in artikel 73, §1, beslissen af te zien van de invordering van de administratieve geldboete, vermeld in artikel 70, §3, of de kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, als de invorderingskosten groter zijn dan het terug te vorderen bedrag of als niet kan worden vastgesteld wie de overtreder is.<br>
+In afwijking van artikel 73 kan het personeelslid, vermeld in artikel 73, §1, beslissen af te zien van de invordering van de administratieve geldboete, vermeld in artikel 70, §3, of de kosten, vermeld in artikel 64, §2/1, vierde lid, en 72, §6 en §7, als de invorderingskosten groter zijn dan het terug te vorderen bedrag of als niet kan worden vastgesteld wie de overtreder is.<br>
 &nbsp;
 
 ### ART 75.
 
-De ambtenaar die belast is met de inning en de invordering, beslist ook over de gemotiveerde verzoeken tot uitstel of spreiding van betaling die de overtreder tot die ambtenaar richt.
+Het personeelslid dat belast is met de inning en de invordering, beslist ook over de gemotiveerde verzoeken tot uitstel of spreiding van betaling die de overtreder tot dat personeelslid richt.
 
 ## Hoofdstuk 13. Bepalingen over verwerking van persoonsgegevens
 
@@ -978,27 +988,42 @@ De verwerking van persoonsgegevens in het kader van dit decreet heeft betrekking
 11° leden van de Vlaamse Raad voor Dierenwelzijn;<br>
 12° dierenartsen;<br>
 13° kwekers;<br>
-14° de persoon die handelt in strijd met de bepalingen van dit decreet of de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten.<br>
+14° de persoon die handelt in strijd met de bepalingen van dit decreet of de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten;<br>
+15° de personen die een mogelijke overtreding van dit decreet of de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten melden aan het departement;<br>
+16° de personen die contact opnemen met het departement;<br>
+17° de personen die verbonden zijn aan een van de inrichtingen, vermeld in artikel 17;<br>
+18° de personen die dieren houden, verzorgen en gebruiken, vermeld in artikel 25;<br>
+19° de personen die dieren houden en gebruiken in circussen en rondreizende tentoonstellingen, vermeld in artikel 26;<br>
+20° de personen, vermeld in artikel 32.<br>
 <br>
 De verwerking van persoonsgegevens in het kader van dit decreet heeft betrekking op de volgende categorieën van persoonsgegevens:<br>
-1° naam, adres, rijksregisternummer, of andere identificatiegegevens;<br>
+1° de voor- en achternaam, het adres, het rijksregisternummer, het nummer van de identiteitskaart, het paspoortnummer, de telefonische contactgegevens, het e-mailadres en de contactgegevens van de persoonlijke sociale media;<br>
 2° gegevens over het beroep in het kader van een erkennings- of registratie-aanvraag;<br>
 3° bekwaamheid van personen aan wie daartoe een getuigschrift verleend wordt;&nbsp;<br>
 4° camerabeelden in slachthuizen;<br>
 5° bekwaamheid, vorming en de opleiding van de proefleider;<br>
 6° opleiding en bekwaamheid van het personeel van gebruikers, fokkers en leveranciers;<br>
-7° strafrechtelijke veroordelingen en strafbare feiten.<br>
+7° strafrechtelijke veroordelingen en strafbare feiten;<br>
+8° de nummerplaat van het voertuig en chassisnummer van het voertuig;<br>
+9° de nationaliteit en de geboortedatum;<br>
+10° de identificatienummers van dieren;<br>
+11° de ordenummers van dierenartsen;<br>
+12° de bankrekeningnummers;<br>
+13° de sancties, andere dan strafrechtelijke veroordelingen;<br>
+14° het voogdijschap, de voorlopig bewindvoerder, de internering en de plaatsing.<br>
 <br>
-§2. De maximale bewaringstermijnen voor persoonsgegevens die op basis van dit decreet worden verwerkt, conform artikel 5, eerste lid, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels, conform artikel III.81, §2, van het Bestuursdecreet van 7 december 2018.<br>
+§2. De maximale bewaartermijnen voor persoonsgegevens die op basis van dit decreet worden verwerkt, conform artikel 5, eerste lid, e), van de algemene verordening gegevensbescherming, worden vastgelegd in beheersregels, conform artikel III.81, §2, van het Bestuursdecreet van 7 december 2018 en beantwoorden aan de bepalingen, vermeld in artikel III.87 van het voormelde decreet.<br>
 <br>
 Bij het bepalen van de bewaartermijnen, vermeld in het eerste lid, wordt rekening gehouden met:<br>
 1° het gegeven dat er voor de feiten naar aanleiding waarvan de persoonsge-gevens zijn verwerkt, de mogelijkheid bestaat om een strafsanctie, een administratieve sanctie of maatregelen op te leggen;<br>
 2° het gegeven dat beslissingen, gegrond op de feiten naar aanleiding waarvan de persoonsgegevens zijn verwerkt, nog het voorwerp uitmaken of kunnen uitmaken van een administratief of jurisdictioneel beroep;<br>
-3° de relevantie van de persoonsgegevens voor toekomstige handelingen in het kader van toezicht, opsporing, vervolging of, sanctionering.<br>
+3° de relevantie van de persoonsgegevens voor toekomstige handelingen in het kader van toezicht, opsporing, vervolging of sanctionering.<br>
 <br>
 In afwijking van het eerste lid geldt voor persoonsgegevens, opgenomen in artikel 40, een bewaartermijn van veertig dagen.<br>
 <br>
-§3. De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van die gegevens en de passende waarborgen voor de rechten en vrijheden van de betrokkenen. De Vlaamse Regering kan ook de entiteiten waaraan en doeleinden waarvoor de persoons-gegevens mogen worden verstrekt, nader omschrijven.
+§3. De Vlaamse Regering kan de nadere regels bepalen voor de verwerking van de persoonsgegevens, de beveiliging van die gegevens en de passende waarborgen voor de rechten en vrijheden van de betrokkenen.<br>
+<br>
+§4. Het departement kan de persoonsgegevens, vermeld in paragraaf 1, derde lid, bezorgen aan het Federaal Agentschap voor de Veiligheid van de Voedselketen om de gegevens te raadplegen die noodzakelijk zijn voor controles die worden uitgevoerd in het kader van de regelgeving over de dierengezondheid.
 
 ### ART 77.
 
@@ -1036,7 +1061,7 @@ Artikel 107 van het decreet van 19 december 2014 houdende bepalingen tot begelei
 1° bedrijfsstopzetting: de vervroegde volledige stopzetting van het houden van pelsdieren;<br>
 2° bedrijfsreconversie: de omschakeling van een commerciële pelsdierhoude-rij naar een andere commerciële landbouwactiviteit.<br>
 <br>
-§2. De Vlaamse Regering kan ter uitvoering van dit decreet vergoedingen toekennen voor een bedrijfsstopzetting of een bedrijfsreconversie aan pelsdierhouderijen die op 5 mei 2019 pelsdieren hielden en voor 1 december 2023 alle activiteiten als pelsdierhouderij stopzetten en dat voor de delen van de voormelde pelshouderijen die gevestigd zijn op het grondgebied van het Vlaamse Gewest.<br>
+§2. De Vlaamse Regering kan ter uitvoering van dit decreet vergoedingen toekennen voor een bedrijfsstopzetting of een bedrijfsreconversie aan pelsdierhouderijen die op 5 mei 2019 pelsdieren hielden en voor 1 december 2023 alle activiteiten als pelsdierhouderij stopzetten en dat voor de delen van de voormelde pelsdierhouderijen die gevestigd zijn op het grondgebied van het Vlaamse Gewest.<br>
 <br>
 §3. In geval van bedrijfsstopzetting bestaat de vergoeding, vermeld in paragraaf 2, uit:<br>
 1° een vergoeding voor het verlies van het gebruik van onroerende goederen dat gepaard gaat met de bedrijfsstopzetting;<br>
@@ -1076,7 +1101,7 @@ De vergoeding, vermeld in paragraaf 2, neemt degressief af volgens een formule d
 
 ### ART 84.
 
-In afwijking van artikel 36 kan de bedwelming bij runderen, andere dan kalveren die geslacht worden volgens speciale methoden die vereist zijn voor religieuze riten, tijdelijk onmiddellijk na het kelen plaatsvinden, en dat tot op de datum waarop de Vlaamse Regering bepaalt dat omkeerbare bedwelming voor de voormelde diersoort praktisch toepasbaar is.&nbsp;
+In afwijking van artikel 36 kan de bedwelming bij runderen, andere dan kalveren, die geslacht worden volgens speciale methoden die vereist zijn voor religieuze riten, tijdelijk onmiddellijk na het kelen plaatsvinden, en dat tot op de datum waarop de Vlaamse Regering bepaalt dat omkeerbare bedwelming voor de voormelde diersoort praktisch toepasbaar is.&nbsp;
 
 ### ART 85.
 
