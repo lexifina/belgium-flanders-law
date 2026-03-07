@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041783,
+  "title": "Ministerieel besluit van 2026-02-12 tot vaststelling van het Bouwtechnisch Bestek Woningbouw voor bouwverrichtingen ter uitvoering van artikel 4.2, zesde lid, van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041783/VolledigDocument?datum=2026-03-07",
+  "source_sha256": "3d285491150afe6798eca87169f323414e5b3e6bef9173cc06f12b547d0f7b6a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041783&param=informatie",
+  "as_of": "2026-03-07",
+  "made": "2026-02-12",
+  "gazette": "2026-02-25",
+  "numac": 2026001306,
+  "document_start": "2026-03-07",
+  "document_end": null,
+  "in_force": "2026-03-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
