@@ -1,5 +1,73 @@
 # Decreet van 2026-01-30 tot wijziging van de Vlaamse Codex Dierenwelzijn van 17 mei 2024
 
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
+### ART 2.
+
+In artikel 3 van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een punt 10°/1 ingevoegd, dat luidt als volgt:<br>
+“10°/1 gastgezin: een natuurlijke persoon die op initiatief van een dierenasiel dieren opvangt op een andere plaats dan in het dierenasiel zelf;”;<br>
+2° in punt 13° en 16° wordt de zinsnede “, die voldoet aan de bepalingen van dit decreet en de uitvoeringsbesluiten ervan” geschrapt.
+
+### ART 3.
+
+Aan artikel 17, §2, eerste lid, van hetzelfde decreet wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+“7° de verzorging van de dieren.”.
+
+### ART 4.
+
+In artikel 18 van hetzelfde decreet wordt het eerste lid opgeheven.
+
+### ART 5.
+
+Aan artikel 19, tweede lid, van hetzelfde decreet wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+“4° de wijze van verantwoording van de subsidies, met inbegrip van de controle op de naleving van de voorwaarden voor de subsidies.”.
+
+### ART 6.
+
+In artikel 23, tweede lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° aan punt 2° worden de woorden “en de procedure voor de beoordeling van de aanvraag” toegevoegd;<br>
+2° er wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+“4° de procedure voor de terugvordering van de subsidies.”.
+
+### ART 7.
+
+Aan artikel 27, eerste lid, van hetzelfde decreet wordt een zin toegevoegd, die luidt als volgt:<br>
+<br>
+“Dieren worden ook niet verhandeld bij de koper thuis, tenzij:<br>
+1° het initiatief van de koper zelf uitgaat;<br>
+2° het gaat om een verkoop op afspraak tussen professionele houders, in het kader van regelmatig voorkomende transacties.”.
+
+### ART 8.
+
+In artikel 31, tweede lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt tussen de woorden “de identificatie” en de woorden “en het land van oorsprong” de zinsnede “, de persoon of inrichting van herkomst” ingevoegd;<br>
+2° er wordt een punt 5°/1 ingevoegd, dat luidt als volgt:<br>
+“5°/1 het kweken van dieren;”;<br>
+3° er wordt een punt 9° toegevoegd, dat luidt als volgt:<br>
+“9° de instanties of personen waaraan de dieren worden verkocht.”.
+
+### ART 9.
+
+In artikel 33 van hetzelfde decreet wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+“§2. De Vlaamse Regering bepaalt de procedure om het certificaat van goedkeuring van het wegvervoermiddel, vermeld in artikel 18 van verordening (EG) Nr. 4/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) Nr. 4255/97, aan te vragen, uit te reiken, te schorsen of in te trekken. De Vlaamse Regering bepaalt het tarief van de retributie en de regels voor de betaling van de retributie om een certificaat van goedkeuring te verkrijgen.”.
+
+### ART 10.
+
+In artikel 34 van hetzelfde decreet wordt de zinsnede “gedaan te Doha op 11 oktober 2012” vervangen door de woorden “zoals van kracht op de dag waarop de dieren worden besteld of verzonden”.
+
+### ART 11.
+
+In artikel 39 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, 4°, worden de woorden “personeel in de slachthuizen die in contact komen” vervangen door de woorden “personeel in de slachthuizen dat in contact komt”;<br>
+2° in paragraaf 2 wordt het woord “ervan” vervangen door het woord “daarvoor”;<br>
+3° in paragraaf 3, tweede lid, 1°, wordt het woord “tot” vervangen door het woord “houdende”;<br>
+4° in paragraaf 3, tweede lid, 2°, wordt tussen het woord “bepalen” en de woorden “van het getuigschrift” de zinsnede “voor het aanvragen, uitreiken, schorsen of intrekken” ingevoegd;<br>
+5° in paragraaf 3, tweede lid, 2°, worden de woorden “en van het” vervangen door de woorden “en het”.
+
 ### ART 12.
 
 In artikel 40, §1, eerste lid, van hetzelfde decreet worden de woorden “overtredingen van de personen” vervangen door de woorden “overtredingen door de personen”.
@@ -154,6 +222,53 @@ In artikel 74 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 2° de zinsnede “artikel 70, §1,” wordt vervangen door de zinsnede “artikel 70, §3,”;<br>
 3° de zinsnede “artikel 64, §2, zevende lid,” wordt vervangen door de zinsnede “artikel 64, §2/1, vierde lid,”.
 
+### ART 21.
+
+In artikel 75 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden “De ambtenaar die” worden vervangen door de woorden “Het personeelslid dat”;<br>
+2° de woorden “die ambtenaar” worden vervangen door de woorden “dat personeelslid”.
+
+### ART 22.
+
+In artikel 76 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1, tweede lid, worden een punt 15° tot en met 20° toegevoegd, die luiden als volgt:<br>
+“15° de personen die een mogelijke overtreding van dit decreet of de uitvoeringsbesluiten ervan of de Europese verordeningen, beschikkingen en besluiten melden aan het departement;<br>
+16° de personen die contact opnemen met het departement;<br>
+17° de personen die verbonden zijn aan een van de inrichtingen, vermeld in artikel 17;<br>
+18° de personen die dieren houden, verzorgen en gebruiken, vermeld in artikel 25;<br>
+19° de personen die dieren houden en gebruiken in circussen en rondreizende tentoonstellingen, vermeld in artikel 26;<br>
+20° de personen, vermeld in artikel 32.”;<br>
+2° in paragraaf 1, derde lid, wordt punt 1° vervangen door wat volgt:<br>
+“1° de voor- en achternaam, het adres, het rijksregisternummer, het nummer van de identiteitskaart, het paspoortnummer, de telefonische contactgegevens, het e-mailadres en de contactgegevens van de persoonlijke sociale media;”;<br>
+3° aan paragraaf 1, derde lid, worden een punt 8° tot en met 14° toegevoegd, die luiden als volgt:<br>
+“8° de nummerplaat van het voertuig en chassisnummer van het voertuig;<br>
+9° de nationaliteit en de geboortedatum;<br>
+10° de identificatienummers van dieren;<br>
+11° de ordenummers van dierenartsen;<br>
+12° de bankrekeningnummers;<br>
+13° de sancties, andere dan strafrechtelijke veroordelingen;<br>
+14° het voogdijschap, de voorlopig bewindvoerder, de internering en de plaatsing.”;<br>
+4° in paragraaf 2, eerste lid, wordt het woord “bewaringstermijnen” vervangen door het woord “bewaartermijnen”;<br>
+5° aan paragraaf 2, eerste lid, wordt de zinsnede “en beantwoorden aan de bepalingen, vermeld in artikel III.87 van het voormelde decreet” toegevoegd;<br>
+6° in paragraaf 2, tweede lid, 3°, wordt de zinsnede “of, sanctionering” vervangen door de woorden “of sanctionering”;<br>
+7° in paragraaf 3 wordt de zin “De Vlaamse Regering kan ook de entiteiten waaraan en doeleinden waarvoor de persoonsgegevens mogen worden verstrekt, nader omschrijven.” opgeheven;<br>
+8° er wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+“§4. Het departement kan de persoonsgegevens, vermeld in paragraaf 1, derde lid, bezorgen aan het Federaal Agentschap voor de Veiligheid van de Voedselketen om de gegevens te raadplegen die noodzakelijk zijn voor controles die worden uitgevoerd in het kader van de regelgeving over de dierengezondheid.”.
+
+### ART 23.
+
+In artikel 82, §2, van hetzelfde decreet wordt het woord “pelshouderijen” vervangen door het woord “pelsdierhouderijen”.
+
+### ART 24.
+
+In artikel 84 van hetzelfde decreet worden de woorden “kalveren die geslacht worden” vervangen door de zinsnede “kalveren, die geslacht worden”.
+
 ### ART 25.
 
 In artikel 86 van hetzelfde decreet wordt punt 7° opgeheven.
+
+### ART 26.
+
+Artikel 13, artikel 14, 1°, 2°, 5° en 6°, artikel 15, 16, 17, 18, artikel 19, 1° en 2°, artikel 20, 2° en 3°, en artikel 25 van dit decreet treden in werking op 1 maart 2026.<br>
+<br>
+Artikel 12 treedt in werking op de dag van de inwerkingtreding van artikel 40 van de Vlaamse Codex Dierenwelzijn van 17 mei 2024.
