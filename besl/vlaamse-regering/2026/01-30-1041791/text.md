@@ -23,8 +23,24 @@ Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
 
+## Hoofdstuk 1. Wijzigingen van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges
+
 ### ART 1.
 
 Artikel 25 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges, vervangen bij het besluit van de Vlaamse Regering van 5 juli 2024, wordt vervangen door wat volgt:<br>
 <br>
 “Art. 25. Dit deel is van toepassing op de beroepen, vermeld in artikel 16.4.19, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.”.
+
+## Hoofdstuk 2. Slotbepalingen
+
+### ART 3.
+
+Artikel 2 treedt in werking op 1 april 2026.
+
+### ART 4.
+
+Artikel 1 heeft uitwerking met ingang van 7 september 2024.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor de bestuursrechtspraak, is belast met de uitvoering van dit besluit.
