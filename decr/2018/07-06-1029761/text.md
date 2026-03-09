@@ -105,25 +105,66 @@ Deze titel is van toepassing op:<br>
 
 ### ART 13.
 
-§ 1. De verwerking van persoonsgegevens in het kader van dit decreet is op elk moment in overeenstemming met de regelgeving over privacy en gegevensbescherming.<br>
+§1. De verwerking van persoonsgegevens in het kader van dit decreet is op elk moment in overeenstemming met de regelgeving over privacy en gegevensbescherming.<br>
 <br>
 De persoonsgegevens over gezondheid worden verwerkt, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.<br>
 <br>
-§ 2. De zorgvoorzieningen verwerken de persoonsgegevens van de zorggebruikers, met als doel over de noodzakelijke informatie te beschikken die nodig is voor het verlenen van de zorg en ondersteuning aan de gebruiker, en om de zorg en ondersteuning af te stemmen op de evoluerende behoeften van de gebruiker.<br>
+§2. De psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatievoorzieningen, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging verwerken de volgende persoonsgegevens van de zorggebruikers:<br>
+1° het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2° de voor- en achternaam;<br>
+3° de geboortedatum;<br>
+4° &nbsp;het geslacht;<br>
+5° de hoofdverblijfplaats en, in voorkomend geval, de werkelijke verblijfplaats als die verschilt van de hoofdverblijfplaats;<br>
+6° de gegevens over de gezondheid die noodzakelijk zijn om zorg en ondersteuning aan de zorggebruiker te verlenen;<br>
+7° de gegevens over de woonsituatie, de gezinssituatie en de sociale situatie die nodig zijn om zorg en ondersteuning aan de zorggebruiker te verlenen.<br>
 <br>
-De Vlaamse Regering kan nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens, inclusief de gegevens over de gezondheid, worden uitgewisseld.<br>
+De persoonsgegevens, vermeld in het eerste lid, worden verwerkt om over de noodzakelijke informatie te beschikken die nodig is om zorg en ondersteuning aan de zorggebruiker te verlenen, en om de zorg en ondersteuning af te stemmen op de evoluerende behoeften van de zorggebruiker.<br>
 <br>
-De Vlaamse Regering bepaalt de persoonsgegevens, vermeld in deze paragraaf, die door de zorgvoorzieningen worden verwerkt.<br>
+Naast de persoonsgegevens, vermeld in het eerste lid, verwerken de psychiatrische verzorgingstehuizen en de initiatieven van beschut wonen bijkomend de volgende persoonsgegevens van de zorggebruikers:<br>
+1°&nbsp;&nbsp; &nbsp;het onderwijsniveau dat wordt uitgedrukt in hoofdcategorieën;<br>
+2°&nbsp;&nbsp; &nbsp;de betrokkenheid in het arbeidsproces dat wordt uitgedrukt in hoofdcategorieën;<br>
+3°&nbsp;&nbsp; &nbsp;de aard van het inkomen dat wordt uitgedrukt in hoofdcategorieën;<br>
+4°&nbsp;&nbsp; &nbsp;het huidige of laatste hoofdberoep dat wordt uitgedrukt in hoofdcategorieën.<br>
 <br>
-§ 3. De verwerkingsverantwoordelijken, vermeld in artikel 4.7 van de algemene verordening gegevensbescherming, zijn:<br>
+De persoonsgegevens, vermeld in het derde lid, worden verwerkt voor de volgende doelstellingen:<br>
+1° zorg en ondersteuning aan de zorggebruiker verlenen, en die zorg en ondersteuning afstemmen op de evoluerende behoeften van de zorggebruiker;<br>
+2° aan de Vlaamse Gemeenschap gegevens bezorgen om haar in staat te stellen de maatschappelijke behoeften aan psychiatrische verzorgingstehuizen en initiatieven van beschut wonen en de kwaliteit van de geboden zorg te monitoren.<br>
+&nbsp;<br>
+De psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging verwerken de persoonsgegevens van de personeelsleden en van de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorziening, vermeld in paragraaf 6, eerste lid.<br>
+<br>
+De persoonsgegevens, vermeld in het vijfde lid, worden verwerkt om aan de Vlaamse Gemeenschap gegevens te bezorgen zodat ze een kwaliteitsvol zorgaanbod kan monitoren en handhaven.<br>
+<br>
+§3. De verwerkingsverantwoordelijken, vermeld in artikel 4.7 van de algemene verordening gegevensbescherming, zijn:<br>
 1° de voorzieningen voor de verwerking van persoonsgegevens in het kader van hun opdrachten en hun zorgrelatie met de gebruiker;<br>
-2° het agentschap dat de Vlaamse Regering aanwijst voor de analyse van die persoonsgegevens in het kader van de evidencebased beleidsvoering en in het kader van de monitoring en handhaving van een kwaliteitsvol zorgaanbod.<br>
+2° het Departement Zorg, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, voor de analyse van die persoonsgegevens in het kader van de evidencebased beleidsvoering en in het kader van de monitoring en handhaving van een kwaliteitsvol zorgaanbod.<br>
 <br>
-§ 4. De Vlaamse Regering bepaalt de termijn waarvoor de verwerkte persoonsgegevens maximaal worden bewaard.<br>
+§4. De psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging bewaren de persoonsgegevens van de zorggebruiker, vermeld in paragraaf 2, eerste en derde lid, voor dertig jaar na het einde van de opname, de revalidatie of de begeleiding.<br>
 <br>
-§ 5. De zorgvoorzieningen bezorgen aan het agentschap dat de Vlaamse Regering aanwijst de noodzakelijke gegevens met het oog op analyse van die gegevens, evidencebased beleidsvoering voor het Vlaamse welzijnsen gezondheidsbeleid en de informatieverstrekking daarover. De Vlaamse Regering bepaalt welke gegevens bezorgd worden, en de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
+De psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging bewaren de persoonsgegevens van de personeelsleden en de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorziening, vermeld in paragraaf 2, vijfde lid, gedurende één jaar na de bezorging van die gegevens aan het departement, vermeld in paragraaf 3, 2°.<br>
 <br>
-De zorgvoorzieningen bezorgen aan het agentschap dat de Vlaamse Regering aanwijst persoonsgegevens over het personeel dat er werkt en de zelfstandigen die zorg verlenen in de voorziening. Die gegevens zijn noodzakelijk om een kwaliteitsvol zorgaanbod te kunnen monitoren en handhaven. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.
+De gepseudonimiseerde persoonsgegevens van de zorggebruikers, vermeld in paragraaf 5, eerste lid, worden bewaard tot vijftien jaar nadat de gegevens door de zorgvoorziening zijn bezorgd.<br>
+<br>
+De persoonsgegevens van de personeelsleden en van de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorziening, vermeld in paragraaf 6, eerste lid, worden bewaard tot maximaal vijf jaar na de beëindiging van de arbeidsovereenkomst of het ondernemingscontract met het personeelslid of de zelfstandige in kwestie en maximaal gedurende vijftig jaar.<br>
+<br>
+§5. De psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging bezorgen aan het departement, vermeld in paragraaf 3, 2°, de persoonsgegevens, vermeld in paragraaf 2, derde lid, van de zorggebruikers die zijn opgenomen in een psychiatrisch verzorgingstehuis en in een initiatief van beschut wonen. De gegevens zijn gepseudonimiseerd.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden verwerkt om de maatschappelijke behoeften aan psychiatrische verzorgingstehuizen en initiatieven van beschut wonen en de kwaliteit van de geboden zorg te monitoren.<br>
+&nbsp;<br>
+De Vlaamse Regering bepaalt de wijze waarop en de periodiciteit waarmee de persoonsgegevens, vermeld in het eerste lid, worden bezorgd.<br>
+<br>
+§6. De psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen, de revalidatievoorzieningen, de revalidatieziekenhuizen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging bezorgen aan het departement, vermeld in paragraaf 3, 2°, de volgende persoonsgegevens van de personeelsleden die in de zorgvoorziening werken, en van de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen:<br>
+1° het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2°&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3°&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4°&nbsp;&nbsp; &nbsp;de opleidings- en kwalificatiegegevens;<br>
+5°&nbsp;&nbsp; &nbsp;de tewerkstellingsgegevens, met inbegrip van gegevens over de beloning;<br>
+6°&nbsp;&nbsp; &nbsp;de naam van de persoon belast met de coördinatie en de bezorging van de gegevens, vermeld in paragraaf 2, derde lid.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden verwerkt om een kwaliteitsvol zorgaanbod te kunnen monitoren en handhaven.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, kunnen worden bezorgd aan het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018, als die gegevens noodzakelijk zijn om de kerntaken, vermeld in artikel 11 van het voormelde decreet, uit te voeren.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop en de periodiciteit waarmee de persoonsgegevens, vermeld in het eerste lid, bezorgd worden.
 
 ### ART 14.
 
