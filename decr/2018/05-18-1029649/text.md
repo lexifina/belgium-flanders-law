@@ -422,7 +422,7 @@ De Vlaamse Regering kan bijkomende opdrachten aan de Strategische Begeleidingsco
 ### ART 28/1.
 
 §1. Het agentschap kan aan een zorgkas een administratieve geldboete opleggen in elk van de volgende gevallen:<br>
-1° de zorgkas voert de rapportering, vermeld in artikel 22, eerste lid, 4°, en artikel 49, § 7, niet of niet tijdig uit;<br>
+1° de zorgkas voert de rapportering, vermeld in artikel 22, eerste lid, 4°, niet of niet tijdig uit;<br>
 2° de zorgkas legt het boekhoudkundige verslag, vermeld in artikel 30, niet, niet tijdig of niet volledig voor aan het agentschap;<br>
 3° het agentschap stelt bij de zorgkas fraude of ernstige nalatigheid vast die aanleiding geeft tot een fout bij de toekenning van het persoonsvolgend budget, vermeld in artikel 59.<br>
 <br>
@@ -727,76 +727,347 @@ Met behoud van de toepassing van andersluidende regelgeving hebben de gegevens d
 
 ### ART 49.
 
-§ 1. In dit artikel wordt verstaan onder:<br>
+§1. In dit artikel wordt verstaan onder:<br>
 1° algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van de richtlijn 95/45/EG;<br>
 2° toegangspoort: de toegangspoort, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
 <br>
-§ 2. De persoonsgegevens worden in het kader van de Vlaamse sociale bescherming verwerkt conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, lid 1, c), van de voormelde verordening en, wat gegevens over gezondheid betreft, op artikel 9, lid 2, h), van de voormelde verordening.<br>
+§2. De persoonsgegevens worden in het kader van de Vlaamse sociale bescherming verwerkt conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, lid 1, c), van de voormelde verordening en, wat gegevens over gezondheid betreft, op artikel 9, lid 2, h), van de voormelde verordening.<br>
 <br>
-§ 3. Met het oog op de uitvoering van de bevoegdheden en taken, geregeld bij of krachtens dit decreet, worden persoonsgegevens van de gebruiker, inclusief gegevens over de gezondheid, verwerkt door:<br>
-1° het VAPH;<br>
-2° de toegangspoort;<br>
-3° het agentschap;<br>
-4° de zorgkassen;<br>
-5° de indicatiestellers;<br>
-6° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen;<br>
-7° de Zorgkassencommissie;<br>
-8° de externe dienstverleners, vermeld in artikel 34, eerste lid, 1°, van dit decreet;<br>
-9° de Expertencommissie, vermeld in artikel 39;<br>
-10° de Bijzondere Technische Commissie, vermeld in artikel 133 van dit decreet;<br>
-11° de actoren die belast zijn met de behandeling van administratieve beroepen, conform artikel 71, artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5, van dit decreet;<br>
-12° de adviserend artsen van de verzekeringsinstellingen, de diensten maatschappelijk werk van de ziekenfondsen en de openbare centra voor maatschappelijk welzijn, vermeld in artikel 50.<br>
-13° het Departement Zorg.<br>
+§3. Het agentschap verwerkt voor de uitvoering van de taken, vermeld in artikel 11 van dit decreet, en de zorgkassen verwerken voor de opdrachten, vermeld in artikel 22 van dit decreet, de volgende persoonsgegevens van de gebruiker, inclusief gegevens over de gezondheid:<br>
+1° in het kader van de aansluiting bij de Vlaamse sociale bescherming, vermeld in artikel 42, §1, eerste lid, van dit decreet, en de betaling van de jaarlijkse premie, vermeld in artikel 45 van dit decreet:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+6)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van het overlijden;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+2)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+c)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn om het recht op of de verplichting tot aansluiting bij de Vlaamse sociale bescherming te beoordelen:<br>
+1)&nbsp;&nbsp; &nbsp;de nationaliteit;<br>
+2)&nbsp;&nbsp; &nbsp;de vermelding van het register, vermeld in artikel 2 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, waarin de gebruiker is ingeschreven;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over de verblijfstoestand van de gebruiker en wijzigingen in de verblijfstoestand van de gebruiker;<br>
+4)&nbsp;&nbsp; &nbsp;het gegeven over het land waar de betrokkene sociaal verzekerd is;<br>
+5)&nbsp;&nbsp; &nbsp;het gegeven of de betrokkene in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad werkt;<br>
+6)&nbsp;&nbsp; &nbsp;de gegevens die toelaten om te oordelen of de gebruiker in kwestie zich administratief kan aansluiten bij de zorgkas conform artikel 43 of 44 van dit decreet;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas en de verzekeringsstatus;<br>
+e)&nbsp;&nbsp; &nbsp;de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+f)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn in het kader van de betaling van de jaarlijkse premie, vermeld in artikel 45 van dit decreet:<br>
+1)&nbsp;&nbsp; &nbsp;de samenstelling van het gezin;<br>
+2)&nbsp;&nbsp; &nbsp;het gegeven of de gebruiker rechthebbende is op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens die toelaten om te beoordelen of de gebruiker is vrijgesteld van de premie conform artikel 45, §3, van dit decreet;<br>
+4)&nbsp;&nbsp; &nbsp;de gegevens over de opname van de gebruiker in:<br>
+i)&nbsp;&nbsp; &nbsp;een gevangenis;<br>
+ii)&nbsp;&nbsp; &nbsp;een inrichting of afdeling tot bescherming van de maatschappij die is georganiseerd door de federale overheid;<br>
+iii)&nbsp;&nbsp; &nbsp;een forensisch psychiatrisch centrum dat is georganiseerd door de federale overheid;<br>
+iv)&nbsp;&nbsp; &nbsp;een andere instelling met een vergelijkbaar doel;<br>
+5)&nbsp;&nbsp; &nbsp;de gegevens over de oplegging en de inning van de administratieve geldboeten, vermeld in artikel 47 van dit decreet;<br>
+2° in het kader van het zorgbudget voor zwaar zorgbehoevenden, het zorgbudget voor ouderen met een zorgnood en het basisondersteuningsbudget:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats en, in voorkomend geval, de werkelijke verblijfplaats als die verschilt van de hoofdverblijfplaats;<br>
+6)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van het overlijden of, in geval van een verklaring van afwezigheid, de datum van de beslissing over de verklaring van afwezigheid;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+2)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+c)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn om het recht op een zorgbudget te beoordelen, te berekenen en te controleren, en om het zorgbudget aan de gebruiker toe te kennen:<br>
+1)&nbsp;&nbsp; &nbsp;het bankrekeningnummer;<br>
+2)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas of een verzekeringsinstelling en de verzekeringsstatus;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid die noodzakelijk zijn om het recht op een zorgbudget voor de gebruiker te beoordelen;<br>
+4)&nbsp;&nbsp; &nbsp;de gegevens over de opname van de gebruiker in:<br>
+i)&nbsp;&nbsp; &nbsp;een gevangenis;<br>
+ii)&nbsp;&nbsp; &nbsp;een inrichting of afdeling tot bescherming van de maatschappij die is georganiseerd door de federale overheid;<br>
+iii)&nbsp;&nbsp; &nbsp;een forensisch psychiatrisch centrum dat is georganiseerd door de federale overheid;<br>
+5)&nbsp;&nbsp; &nbsp;de gegevens over tegemoetkomingen die worden verleend op basis van andere regelgeving en die noodzakelijk zijn om een zorgbudget toe te kennen;<br>
+6)&nbsp;&nbsp; &nbsp;het gegeven of de betrokkene verblijft in of een beroep doet op zorgverlening van een verzorgingsinstelling en de gegevens over het verblijf in of de zorgverlening van de verzorgingsinstelling;<br>
+7)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om te oordelen of er sprake is van een cumulatieverbod als vermeld in artikel 73 of 74 van dit decreet;<br>
+8)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen voor een zorgbudget in het kader van de Vlaamse sociale bescherming die de gebruiker heeft aangevraagd en die zijn behandeld;<br>
+9)&nbsp;&nbsp; &nbsp;de volgende gegevens, specifiek in het kader van het zorgbudget voor ouderen met een zorgnood:<br>
+i)&nbsp;&nbsp; &nbsp;de burgerlijke staat;<br>
+ii)&nbsp;&nbsp; &nbsp;de samenstelling van het gezin;<br>
+iii)&nbsp;&nbsp; &nbsp;de gegevens over het inkomen van het gezin van de gebruiker, vermeld in artikel 85, §1, van dit decreet;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+e)&nbsp;&nbsp; &nbsp;de gegevens die toelaten te oordelen of de gebruiker of het gezin van de gebruiker recht heeft op een verminderde dossiertaks als vermeld in artikel 80, §6, derde lid, artikel 88, §4, derde lid, of artikel 92, §6, derde lid, van dit decreet;<br>
+3° &nbsp;in het kader van de residentiële ouderenzorg:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+6)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum en het tijdstip van overlijden;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+2)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+c)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn om het recht op een tegemoetkoming voor zorg in een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging te beoordelen, te berekenen en te controleren, en om de tegemoetkoming aan de gebruiker toe te kennen:<br>
+1)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas en over de verzekeringsstatus;<br>
+2)&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid die noodzakelijk zijn om het recht op een tegemoetkoming voor de gebruiker voor zorg in een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging te beoordelen en te controleren;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen voor zorg in een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging in het kader van de Vlaamse sociale bescherming, die de gebruiker heeft aangevraagd en die zijn behandeld;<br>
+4)&nbsp;&nbsp; &nbsp;de gegevens over de opname en het verblijf van de gebruiker in een woonzorgcentrum, een centrum voor kortverblijf of een centrum voor dagverzorging, en de prestaties die die zorgvoorziening heeft verleend en heeft gefactureerd;<br>
+5)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om te beoordelen of er sprake is van een cumulatieverbod als vermeld in artikel 73 of 74 van dit decreet;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, de documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+4° in het kader van de geestelijke gezondheidszorg, met inbegrip van revalidatie die voornamelijk gericht is op psychosociale aspecten:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats, in voorkomend geval, de werkelijke verblijfplaats als die verschilt van de hoofdverblijfplaats;<br>
+6)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van het overlijden;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+2)&nbsp;&nbsp; &nbsp;het e-mailadres;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn om het recht op een tegemoetkoming voor geestelijke gezondheidszorg, met inbegrip van revalidatie die voornamelijk gericht is op psychosociale aspecten, te beoordelen, te berekenen en te controleren, en om de tegemoetkoming aan de gebruiker toe te kennen:<br>
+1)&nbsp;&nbsp; &nbsp;het bankrekeningnummer;<br>
+2)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas en over de verzekeringsstatus;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid die noodzakelijk zijn om het recht op een tegemoetkoming voor geestelijke gezondheidszorg, met inbegrip van revalidatie die voornamelijk gericht is op psychosociale aspecten voor de gebruiker, te beoordelen, en de gegevens over de gezondheid die, in voorkomend geval, noodzakelijk zijn om het recht op een tegemoetkoming voor onkosten van rolstoelafhankelijk vervoer te beoordelen;<br>
+4)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen voor geestelijke gezondheidszorg, met inbegrip van revalidatie die voornamelijk gericht is op psychosociale aspecten, in het kader van de Vlaamse sociale bescherming, die de gebruiker heeft aangevraagd en die zijn behandeld;<br>
+5)&nbsp;&nbsp; &nbsp;de gegevens over de opname, het gebruik of het verblijf in de revalidatievoorziening, het psychiatrisch verzorgingstehuis of het initiatief van beschut wonen en de prestaties die die zorgvoorziening aan de gebruiker heeft verleend en gefactureerd;<br>
+6)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om te beoordelen of er sprake is van een cumulatieverbod als vermeld in artikel 73 of 74 van dit decreet;<br>
+7)&nbsp;&nbsp; &nbsp;specifiek voor de psychiatrische verzorgingstehuizen en revalidatievoorzieningen: het gegeven of de gebruiker rechthebbende is op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+8)&nbsp;&nbsp; &nbsp;specifiek voor de revalidatievoorzieningen:<br>
+i)&nbsp;&nbsp; &nbsp;het gegeven of het maximumbedrag van de persoonlijke aandelen op basis van de interfederale teller is bereikt;<br>
+ii)&nbsp; &nbsp;de hoedanigheid van de persoon, vermeld in artikel 32 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, en de duur van die hoedanigheid;<br>
+iii)&nbsp; het gegeven of de betrokkene in de periode vóór het verblijf in de revalidatievoorziening was opgenomen een ziekenhuis, revalidatieziekenhuis, psychiatrisch ziekenhuis of een andere revalidatievoorziening;<br>
+9)&nbsp; specifiek voor de psychiatrische verzorgingstehuizen, het gegeven of de gebruiker rechthebbende is op een van de volgende tegemoetkomingen:<br>
+i)&nbsp; &nbsp;de inkomensgarantie voor ouderen, vermeld in artikel 2, 1°, van de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen;<br>
+ii)&nbsp; de integratietegemoetkoming, vermeld in artikel 1 van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+iii) de invaliditeitsuitkering, vermeld in artikel 93 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;&nbsp;<br>
+iv) de maatschappelijke integratie, vermeld in artikel 14 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
+10) het gegeven of de betrokkene vóór de opname in de revalidatievoorziening, het psychiatrisch verzorgingstehuis of het initiatief van beschut wonen waarvoor de tegemoetkoming wordt aangevraagd, verblijft in een zorgvoorziening en het soort zorgvoorziening of afkomstig is van een thuismilieu en informatie over de thuissituatie;<br>
+11) bij het gebruik van of een verblijf in een revalidatievoorziening: de doelstellingen die worden beoogd door het gebruik van of het verblijf in de revalidatievoorziening;<br>
+12) bij een opname of begeleiding in een initiatief van beschut wonen of een psychiatrisch verzorgingstehuis: het gegeven of het gaat om een vrijwillige opname of begeleiding of een opgelegde opname of begeleiding, en bij een opgelegde opname of begeleiding, de reden van de opname of begeleiding;<br>
+13) het gegeven of de gebruiker na de stopzetting van het verblijf of de opname of begeleiding zal verblijven in een zorgvoorziening en het soort zorgvoorziening of terugkeert naar het thuismilieu en informatie over de thuissituatie;<br>
+14) het gegeven of de FOD Justitie het persoonlijke aandeel van de gebruiker ten laste neemt;<br>
+d) de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+5° in het kader van revalidatie die voornamelijk gericht is op het herstel van fysieke functies:<br>
+a) de volgende identificatiegegevens:<br>
+1) het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2) de voor- en achternaam;<br>
+3) de geboortedatum;<br>
+4) het geslacht;<br>
+5) de hoofdverblijfplaats, in voorkomend geval, de werkelijke verblijfplaats als die verschilt van de hoofdverblijfplaats;<br>
+6) in voorkomend geval, de datum van overlijden;<br>
+b) de volgende contactgegevens:<br>
+1) het telefoonnummer;<br>
+2) het e-mailadres;<br>
+c) de volgende gegevens die noodzakelijk zijn om het recht op een tegemoetkoming voor revalidatie die gericht is op het herstel van fysieke functies, voor de gebruiker te beoordelen, te berekenen en te controleren, en om de tegemoetkoming aan de gebruiker toe te kennen:<br>
+1) het bankrekeningnummer;<br>
+2) de gegevens over de aansluiting bij een zorgkas en over de verzekeringsstatus;<br>
+3) de gegevens over de gezondheid die noodzakelijk zijn om het recht op een tegemoetkoming voor revalidatie die gericht is op het herstel van fysieke functies, voor de gebruiker te beoordelen en, in voorkomend geval, de gegevens over de gezondheid die noodzakelijk zijn om het recht op een tegemoetkoming voor onkosten van rolstoelafhankelijk vervoer te beoordelen;&nbsp;<br>
+4) de gegevens over de tegemoetkomingen voor revalidatie die gericht is op het herstel van fysieke functies, in het kader van de Vlaamse sociale bescherming, die de gebruiker heeft aangevraagd en die zijn behandeld;<br>
+5) de gegevens over de opname van de gebruiker in of het gebruik van de revalidatievoorziening of het revalidatieziekenhuis en de prestaties die die zorgvoorziening aan de gebruiker heeft verleend en heeft gefactureerd;<br>
+6) de gegevens die noodzakelijk zijn om te oordelen of er sprake is van een cumulatieverbod als vermeld in artikel 73 of 74 van dit decreet;<br>
+7) het gegeven of de gebruiker rechthebbende is op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+8) de volgende gegevens die noodzakelijk zijn om het persoonlijke aandeel van de gebruiker te berekenen:<br>
+i)&nbsp; het gegeven of het maximumbedrag van de persoonlijke aandelen op basis van de interfederale teller is bereikt;<br>
+ii) de hoedanigheid van de persoon, vermeld in artikel 32 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, en de duur van die hoedanigheid;<br>
+iii) het gegeven of de betrokkene in de periode vóór het verblijf in de revalidatievoorziening was opgenomen in een ziekenhuis, revalidatieziekenhuis, psychiatrisch ziekenhuis of een andere revalidatievoorziening;<br>
+9) bij het gebruik van of een verblijf in een revalidatievoorziening: de doelstellingen die worden beoogd door het gebruik van of het verblijf in de revalidatievoorziening;<br>
+10) het gegeven of de betrokkene vóór de opname in de revalidatievoorziening of het verblijf in het revalidatieziekenhuis waarvoor de tegemoetkoming wordt aangevraagd, verblijft in een zorgvoorziening en het soort zorgvoorziening of afkomstig is van een thuismilieu;<br>
+11) het gegeven of de gebruiker na de stopzetting van het verblijf in het revalidatieziekenhuis of de opname in de revalidatievoorziening zal verblijven in een zorgvoorziening en het soort zorgvoorziening of terugkeert naar het thuismilieu en informatie over de thuissituatie;<br>
+12) het gegeven of de FOD Justitie het persoonlijke aandeel van de gebruiker ten laste neemt;<br>
+d) de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+6° in het kader van de multidisciplinaire begeleidingsequipes voor palliatieve verzorging:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+6)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van overlijden;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+2)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+c)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn om het recht op een tegemoetkoming voor de zorg die verleend wordt door een multidisciplinaire begeleidingsequipe voor palliatieve verzorging, te beoordelen, te berekenen en te controleren, en om de tegemoetkoming aan de gebruiker toe te kennen:<br>
+1)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas en over de verzekeringsstatus;<br>
+2)&nbsp;&nbsp; &nbsp;een medisch verslag van de behandelende arts om het recht op een tegemoetkoming voor de gebruiker voor een multidisciplinaire begeleidingsequipe te beoordelen en te controleren;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen voor begeleiding door een multidisciplinaire begeleidingsequipe in het kader van de Vlaamse sociale bescherming die de gebruiker heeft aangevraagd en die zijn behandeld;<br>
+4)&nbsp;&nbsp; &nbsp;de gegevens over de prestaties die de multidisciplinaire begeleidingsequipe aan de gebruiker heeft verleend en heeft gefactureerd;<br>
+5)&nbsp;&nbsp; &nbsp;het gegeven of de gebruiker vóór de begeleiding door de multidisciplinaire begeleidingsequipe verblijft in een zorgvoorziening en het soort zorgvoorziening of afkomstig is van een thuismilieu en informatie over de thuissituatie;<br>
+6)&nbsp;&nbsp; &nbsp;de gegevens die noodzakelijk zijn om te beoordelen of er sprake is van een cumulatieverbod als vermeld in artikel 73 of 74 van dit decreet;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+7° &nbsp;in het kader van mobiliteitshulpmiddelen:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+4)&nbsp;&nbsp; &nbsp;het geslacht;<br>
+5)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats, in voorkomend geval, de werkelijke verblijfplaats als die verschilt van de hoofdverblijfplaats;<br>
+6)&nbsp;&nbsp; &nbsp;in voorkomend geval, de datum van het overlijden;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende contactgegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+2)&nbsp;&nbsp; &nbsp;het e-mailadres;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de volgende gegevens die noodzakelijk zijn om het recht op een tegemoetkoming voor een mobiliteitshulpmiddel te beoordelen, te berekenen en te controleren, en om de tegemoetkoming aan de gebruiker toe te kennen:<br>
+1)&nbsp;&nbsp; &nbsp;het bankrekeningnummer;<br>
+2)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas en over de verzekeringsstatus;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over de gezondheid die noodzakelijk zijn om het recht op een tegemoetkoming voor een mobiliteitshulpmiddel voor de gebruiker te beoordelen en te controleren en, in voorkomend geval, de gegevens over de gezondheid die noodzakelijk zijn om het recht op een tegemoetkoming voor onkosten van rolstoelafhankelijk vervoer te beoordelen en te controleren;<br>
+4)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen in het kader van de pijler mobiliteitshulpmiddelen van de Vlaamse sociale bescherming, die de gebruiker heeft aangevraagd en die zijn behandeld;<br>
+5)&nbsp;&nbsp; &nbsp;de gegevens over de prestaties die de indicatiesteller of de verstrekker van mobiliteitshulpmiddelen aan de gebruiker heeft verleend en heeft gefactureerd;<br>
+6)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen voor mobiliteitshulpmiddelen die zijn verleend op basis van andere regelgeving, die noodzakelijk is om het recht op een tegemoetkoming van de Vlaamse sociale bescherming voor een mobiliteitshulpmiddel vast te stellen;<br>
+7)&nbsp;&nbsp; &nbsp;het gegeven of de betrokkene verblijft in een woonzorgcentrum, een revalidatieziekenhuis of een ziekenhuis, en gegevens over het verblijf;<br>
+d)&nbsp;&nbsp; &nbsp;de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen;<br>
+8° &nbsp;in het kader van het multidisciplinaire overleg:<br>
+a)&nbsp;&nbsp; &nbsp;de volgende identificatiegegevens:<br>
+1)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+2)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+3)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+b)&nbsp;&nbsp; &nbsp;de volgende persoonsgegevens die noodzakelijk zijn om het recht op een vergoeding voor een multidisciplinair overleg te beoordelen, te berekenen en te controleren, en om de vergoeding toe te kennen:<br>
+1)&nbsp;&nbsp; &nbsp;de gegevens over de aansluiting bij een zorgkas en over de verzekeringsstatus;<br>
+2)&nbsp;&nbsp; &nbsp;de gegevens over de tegemoetkomingen voor multidisciplinair overleg die de gebruiker heeft aangevraagd en die zijn verleend;<br>
+3)&nbsp;&nbsp; &nbsp;de gegevens over het georganiseerde multidisciplinaire overleg rond de gebruiker waarvoor een tegemoetkoming van de Vlaamse sociale bescherming wordt aangevraagd;<br>
+c)&nbsp;&nbsp; &nbsp;de gegevens over de rechtsbekwaamheid van de persoon en, in geval van onbekwaamheid, documenten die toelaten om na te gaan wie de gebruiker kan vertegenwoordigen en die de draagwijdte van die vertegenwoordigingsbevoegdheid aantonen.<br>
 <br>
-De instanties, vermeld in het eerste lid, verwerken de volgende persoonsgegevens van de gebruiker:<br>
-1° de persoonsgegevens die noodzakelijk zijn voor de identificatie van de gebruiker in kwestie en in voorkomend geval de vertegenwoordiger of mantelzorger van de gebruiker;<br>
-2° de persoonsgegevens, met inbegrip van de gegevens over de gezondheid, die noodzakelijk zijn voor de organisatie en de financiering van de zorg, met inbegrip van de berekening van de bijdragen ten laste van de gebruiker, en voor de vervulling van de opdrachten van de betrokken instantie.<br>
-<br>
-De Vlaamse Regering specificeert de persoonsgegevens, vermeld in het tweede lid.<br>
-<br>
-De Vlaamse Regering specificeert in elk geval de gegevens waarop artikel 22, tweede lid, artikel 23, § 1, eerste lid, artikel 37, § 1, artikel 39, § 2, artikel 50, artikel 65, tweede lid, en artikel 133, § 5, betrekking hebben.<br>
+In afwijking van het eerste lid, 7°, worden in het kader van de opmaak van een rolstoeladviesrapport alleen de gegevens, vermeld in het eerste lid, 7°, a), b) en c), 1) tot en met 3), verwerkt.<br>
+&nbsp;<br>
+De Vlaamse Regering specificeert de persoonsgegevens, vermeld in het eerste lid. De Vlaamse Regering specificeert in elk geval de gegevens en inlichtingen, vermeld in artikel 22, tweede lid, artikel 23, §1, eerste lid, artikel 37, §1, artikel 39, §2, en artikel 65, tweede lid.<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de vorm waarin en de wijze waarop de persoonsgegevens, met inbegrip van de gegevens over de gezondheid, worden uitgewisseld.<br>
 <br>
-§ 3/1. Om de bevoegdheden en taken die bij of krachtens dit decreet worden bepaald, uit te voeren, worden persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, vermeld in artikel 38, de administratieve beroepscommissie, vermeld in artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5, de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132, en de Bijzondere Technische Commissie, vermeld in artikel 133, verwerkt door het agentschap.<br>
+§3/0. Het agentschap verwerkt voor de uitvoering van de taken, vermeld in artikel 11 van dit decreet, en de zorgkassen verwerken voor de opdrachten, vermeld in artikel 22 van dit decreet, de volgende persoonsgegevens van de vertegenwoordiger, de schuldbemiddelaar en de mantelzorger:<br>
+1° de volgende persoonsgegevens worden verwerkt van de vertegenwoordiger van de gebruiker:<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+c)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+d)&nbsp;&nbsp; &nbsp;de relatie tot de gebruiker;<br>
+e)&nbsp;&nbsp; &nbsp;het telefoonnummer of het e-mailadres;<br>
+2° de volgende persoonsgegevens worden verwerkt van de schuldbemiddelaar:<br>
+a)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+b)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+c)&nbsp;&nbsp; &nbsp;het telefoonnummer of het e-mailadres;<br>
+d)&nbsp;&nbsp; &nbsp;het bankrekeningnummer;<br>
+3° in het kader van het zorgbudget voor zwaar zorgbehoevenden worden de volgende persoonsgegevens verwerkt van de mantelzorger:<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+c)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+d)&nbsp;&nbsp; &nbsp;het telefoonnummer of het e-mailadres;<br>
+e)&nbsp;&nbsp; &nbsp;de relatie tot de gebruiker.<br>
+<br>
+§3/1. Om de bevoegdheden en taken die bij of krachtens dit decreet worden bepaald, uit te voeren, worden persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, vermeld in artikel 38, de administratieve beroepscommissie, vermeld in artikel 76, § 5, artikel 80, § 5, artikel 88, § 3, en artikel 92, § 5, de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132, en de Bijzondere Technische Commissie, vermeld in artikel 133, verwerkt door het agentschap.<br>
 <br>
 Het agentschap verwerkt de volgende persoonsgegevens conform het eerste lid:<br>
-1° identificatiegegevens;<br>
+1° het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+1°/1 de voor- en achternaam;<br>
 2° contactgegevens;<br>
 3° het rekeningnummer.<br>
 <br>
 De Vlaamse Regering bepaalt per commissie, vermeld in het eerste lid, welke persoonsgegevens van de leden, vermeld in het tweede lid, worden verwerkt en kan die gegevens nader specificeren.<br>
 <br>
-§3/2. Het agentschap kan de identificatiegegevens, opleidingsgegevens en tewerkstellingsgegevens verwerken van de medewerkers die ingezet worden in de zorgvoorzieningen en van de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen. Die gegevens zijn noodzakelijk om:<br>
-1° &nbsp; de sociale akkoorden uit te voeren;<br>
-2° &nbsp; de financiering die toekomt aan de zorgvoorzieningen, te berekenen;<br>
-3° passende maatregelen te kunnen nemen die een kwalitatieve zorg en ondersteuning in de zorgvoorziening garanderen;<br>
-4° de overheidsfinanciering op een onderbouwde basis gericht te kunnen inzetten.<br>
+§3/2. Het agentschap verwerkt de volgende persoonsgegevens van de medewerkers die ingezet worden in de zorgvoorzieningen, de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen, en de coördinerend en raadgevend arts van het woonzorgcentrum:<br>
+1° &nbsp;de volgende identificatiegegevens:<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+c)&nbsp;&nbsp; &nbsp;de geboortedatum;<br>
+d)&nbsp;&nbsp; &nbsp;de hoofdverblijfplaats;<br>
+2° &nbsp;de volgende contactgegevens:<br>
+a)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+b)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+3° &nbsp;de opleidings- en kwalificatiegegevens;<br>
+4° de tewerkstellingsgegevens, met inbegrip van gegevens over de beloning.<br>
 <br>
-De Vlaamse Regering specificeert per doeleinde welke identificatie-, opleidings- of tewerkstellingsgegevens worden verwerkt.<br>
+De persoonsgegevens, vermeld in het eerste lid, worden verwerkt voor de volgende doeleinden:<br>
+1° &nbsp;de uitvoering van de sociale akkoorden;<br>
+2° de berekening van de financiering die toekomt aan de zorgvoorzieningen, en de controle op de toegekende financiering;<br>
+3° het nemen van passende maatregelen die een kwalitatieve zorg en ondersteuning in de zorgvoorziening garanderen;<br>
+4° het gericht inzetten van de overheidsfinanciering op een onderbouwde basis.<br>
 <br>
-Als dat noodzakelijk is, vraagt het agentschap de gegevens, vermeld in het eerste lid, aan de zorgvoorzieningen in kwestie.<br>
+De Vlaamse Regering kan per doeleinde, vermeld in het tweede lid, specificeren welke persoonsgegevens, vermeld in het eerste lid, worden verwerkt.<br>
 <br>
 §3/3. Het Departement Zorg kan de identificatiegegevens, inclusief het Rijksregisternummer of het bis-nummer, opleidingsgegevens en tewerkstellingsgegevens verwerken van de personen die een indicatiestelling kunnen afnemen in het kader van het beheer van de databank, vermeld in artikel 70/2.<br>
 <br>
-§ 4. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
+§3/4. Het agentschap en de zorgkassen verwerken de volgende persoonsgegevens van de overlegorganisator, de zorgbemiddelaar en de zorgaanbieders die deelnemen aan het multidisciplinaire overleg:<br>
+1° &nbsp;de voor- en achternaam;<br>
+2° als de betrokkene bij een organisatie werkt: de naam, het adres en het KBO-nummer van de organisatie waarbij de betrokkene werkt;<br>
+3° als de betrokkene niet bij een organisatie werkt: de hoofdverblijfplaats en, in voorkomend geval, het RIZIV-nummer;<br>
+4° &nbsp;het bankrekeningnummer;<br>
+5° de datum van het multidisciplinaire overleg waaraan de overlegorganisator, zorgbemiddelaar of zorgaanbieder heeft deelgenomen, en de volgende gegevens:<br>
+a)&nbsp;&nbsp; &nbsp;de rol waarmee aan het multidisciplinaire overleg is deelgenomen;<br>
+b)&nbsp;&nbsp; &nbsp;de hoedanigheid waarin aan het multidisciplinaire overleg is deelgenomen;<br>
+c)&nbsp;&nbsp; &nbsp;de wijze waarop aan het multidisciplinaire overleg is deelgenomen; 6° specifiek voor de overlegorganisator: het werkgebied waarin die actief is en het gegeven of voldaan is aan de voorwaarden om de rol van overlegorganisator te kunnen opnemen.<br>
+&nbsp;<br>
+De persoonsgegevens, vermeld in het eerste lid, worden verwerkt in het kader van de uitbetaling en de controle op de vergoedingen voor het multidisciplinaire overleg.<br>
+<br>
+§3/5. Het agentschap verwerkt voor de uitvoering van de taken, vermeld in artikel 11 van dit decreet, en de zorgkassen verwerken voor de opdrachten, vermeld in artikel 22 van dit decreet, de volgende persoonsgegevens van de indicatiestellers in het kader van de mobiliteitshulpmiddelen en de verstrekkers van mobiliteitshulpmiddelen:<br>
+1° &nbsp;de volgende identificatiegegevens<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+c)&nbsp;&nbsp; &nbsp;het RIZIV-nummer;<br>
+2° &nbsp;de volgende contactgegevens:<br>
+a)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+b)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+3° als de indicatiesteller of de verstrekker van mobiliteitshulpmiddelen bij een organisatie werkt: de naam, het adres en het KBO-nummer van de organisatie waarbij de indicatiesteller of de verstrekker van mobiliteitshulpmiddelen werkt;<br>
+4° de gegevens over de deskundigheid van de indicatiesteller of de verstrekker van mobiliteitshulpmiddelen.<br>
+<br>
+§3/6. Het agentschap verwerkt voor de uitvoering van de taken, vermeld in artikel 11, en de zorgkassen verwerken voor de opdrachten vermeld in artikel 22, de volgende persoonsgegevens van de vervoerder, vermeld in artikel 2, eerste lid, 37°/1:<br>
+1° &nbsp;de volgende identificatiegegevens:<br>
+a)&nbsp;&nbsp; &nbsp;het identificatienummer van het Rijksregister of het identificatienummer van de Kruispuntbank, vermeld in artikel 8, §1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+b)&nbsp;&nbsp; &nbsp;de voor- en achternaam;<br>
+2° de volgende contactgegevens:<br>
+a)&nbsp;&nbsp; &nbsp;het e-mailadres;<br>
+b)&nbsp;&nbsp; &nbsp;het telefoonnummer;<br>
+3° als de vervoerder bij een organisatie werkt: de naam, het adres en het KBO-nummer van de organisatie waar de vervoerder werkt;<br>
+4° &nbsp;het bankrekeningnummer;<br>
+5° de gegevens over de prestaties die de vervoerder aan de gebruiker heeft verleend en heeft gefactureerd.<br>
+<br>
+§4. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
 1° het agentschap, voor de verwerking van persoonsgegevens van gebruikers in het kader van de controles op indicatiestellingen en de aansturing van die controles, in het kader van de behandeling van de administratieve beroepen tegen beslissingen van de zorgkas, met het oog op de uitvoering van de opdrachten van de Expertencommissie, met het oog op de uitvoering van de opdrachten van de Bijzondere Technische Commissie en voor het beheer van de databank, vermeld in artikel 70, voor de verwerking van persoonsgegevens van leden van de Zorgkassencommissie, de Expertencommissie, de sectorale adviescommissies, de Adviescommissie Mobiliteitshulpmiddelen en de Bijzondere Technische Commissie en voor de verwerking van persoonsgegevens van medewerkers die ingezet worden in de zorgvoorzieningen en de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
 2° de zorgkassen, voor de verwerking van indicatiestellingen , voor de verwerking van persoonsgegevens van gebruikers in het kader van hun opdrachten, vermeld in artikel 22, en voor de doorgifte van persoonsgegevens conform artikel 46/1;<br>
 3° het agentschap en de zorgkassen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van het digitaal platform Vlaamse Sociale Bescherming en de gemeenschappelijke applicaties Vlaamse sociale bescherming, vermeld in artikel 28;<br>
 4° de zorgvoorzieningen, de deelnemers aan het multidisciplinair overleg en de verstrekkers van mobiliteitshulpmiddelen, voor de verwerking van persoonsgegevens&nbsp;van gebruikers in het kader van hun zorgrelatie met de gebruiker;<br>
 5°&nbsp;&nbsp; &nbsp;het Departement Zorg, vermeld in artikel 23 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, voor het beheer van de databank met BelRAI-indicatiestellingen, vermeld in artikel 70/2 van dit decreet en voor de doeleinden, vermeld in paragraaf 9, tweede lid.<br>
 <br>
-§ 5. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, gedurende welke termijn de verwerkte persoonsgegevens, met inbegrip van de gegevens over de gezondheid, maximaal zullen worden bewaard.<br>
+§5. De persoonsgegevens van de gebruiker, vermeld in paragraaf 3, eerste lid, worden bewaard gedurende de volgende bewaartermijnen:<br>
+1° de zorgkassen bewaren de persoonsgegevens van de gebruiker maximaal:<br>
+a)&nbsp;&nbsp; &nbsp;de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 1°: tot vijf jaar na het overlijden van de gebruiker;<br>
+b)&nbsp;&nbsp; &nbsp;de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 2°: tot tien jaar na het einde van het toegekende basisondersteuningsbudget, het zorgbudget voor ouderen met een zorgnood of het zorgbudget voor zwaar zorgbehoevenden en niet langer dan vijf jaar na het overlijden van de gebruiker;<br>
+c)&nbsp;&nbsp; &nbsp;de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 3°: tot dertig jaar na het einde van de opname van de gebruiker en niet langer dan vijf jaar na het overlijden van de gebruiker;<br>
+d)&nbsp;&nbsp; &nbsp;de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 4° tot en met 6° en 8°: tot dertig jaar na de aanvraag in kwestie en niet langer dan vijf jaar na het overlijden van de gebruiker;<br>
+e)&nbsp;&nbsp; &nbsp;de persoonsgegevens, vermeld in paragraaf 3, eerste lid, 7°: tot vijf jaar na het overlijden van de gebruiker;<br>
+2° het agentschap bewaart de persoonsgegevens van de gebruiker maximaal tot dertig jaar na het overlijden van de gebruiker;<br>
+3° de zorgvoorzieningen, de deelnemers aan het multidisciplinaire overleg en de verstrekkers van mobiliteitshulpmiddelen bewaren de persoonsgegevens van de gebruiker gedurende tien jaar.<br>
 <br>
-In afwijking van het eerste lid worden de gegevens, vermeld in paragraaf 3/3, door het Departement Zorg maximaal vijftig jaar bewaard.<br>
+De zorgkassen en het agentschap bewaren de persoonsgegevens van de vertegenwoordiger, de schuldbemiddelaar en de mantelzorger, vermeld in paragraaf 3/0, maximaal tijdens de duur waarin de gegevens van de gebruiker, voor wie ze in het kader van de Vlaamse sociale bescherming hebben opgetreden als vertegenwoordiger, schuldbemiddelaar of mantelzorger, worden bewaard conform het eerste lid, 1°.<br>
 <br>
-§ 6. De verwerking van persoonsgegevens, met inbegrip van de gegevens over de gezondheid, vindt plaats met respect voor de rechten van de betrokken gebruikers.<br>
+Het agentschap bewaart de persoonsgegevens, vermeld in paragraaf 3/1, tweede lid, maximaal tot één jaar nadat het lidmaatschap van het lid bij de volgende commissies is geëindigd:<br>
+1° &nbsp;de Zorgkassencommissie;<br>
+2° &nbsp;de Expertencommissie;<br>
+3° de sectorale adviescommissies, vermeld in artikel 38;<br>
+4° de administratieve beroepscommissie, vermeld in artikel 76, §5, artikel 80, §5, artikel 88, §3, en artikel 92, §5;<br>
+5° de Adviescommissie Mobiliteitshulpmiddelen, vermeld in artikel 132;<br>
+6° de Bijzondere Technische Commissie, vermeld in artikel 133.<br>
+<br>
+Het agentschap bewaart de persoonsgegevens van de volgende personen maximaal tot tien jaar na het beëindigen van de activiteiten van de volgende personen:<br>
+1° &nbsp;de medewerkers die ingezet worden in de zorgvoorzieningen;<br>
+2° de zelfstandigen die met een ondernemingscontract aan de zorgvoorzieningen verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
+3° de persoonsgegevens van de coördinerend en raadgevend arts van het woonzorgcentrum, vermeld in paragraaf 3/2, eerste lid.<br>
+<br>
+Het agentschap bewaart de persoonsgegevens van de personen die een indicatiestelling kunnen afnemen, vermeld in paragraaf 3/3, tot maximaal vijf jaar na de beëindiging van de arbeidsovereenkomst of het ondernemingscontract met het personeelslid of de zelfstandige in kwestie en maximaal gedurende vijftig jaar.<br>
+<br>
+De zorgkassen en het agentschap bewaren de persoonsgegevens van de overlegorganisator, de zorgbemiddelaar en de zorgaanbieders die deelnemen aan het multidisciplinair overleg, vermeld in paragraaf 3/4, tot maximaal tien jaar nadat de vergoeding voor het multidisciplinair overleg is uitbetaald.<br>
+<br>
+De zorgkassen en het agentschap bewaren de persoonsgegevens van de indicatiestellers in het kader van de mobiliteitshulpmiddelen en de verstrekkers van de mobiliteitshulpmiddelen, vermeld in paragraaf 3/5, tot maximaal vijf jaar na het overlijden van de persoon voor wie de betrokkene heeft opgetreden als indicatiesteller of verstrekker.<br>
+&nbsp;<br>
+De zorgkassen en het agentschap bewaren de persoonsgegevens van de vervoerder, vermeld in paragraaf 3/6, tot maximaal tien jaar nadat de vergoeding voor rolstoelafhankelijk vervoer is uitbetaald.<br>
+<br>
+De Vlaamse Regering kan voor de gegevens, vermeld in paragraaf 3 tot en met 3/6, een bewaartermijn bepalen die korter is dan de bewaartermijn, vermeld in het eerste tot en met het achtste lid.<br>
+<br>
+§6. De verwerking van persoonsgegevens, met inbegrip van de gegevens over de gezondheid, vindt plaats met respect voor de rechten van de betrokken gebruikers.<br>
 <br>
 De zorgkassen zijn verantwoordelijk voor het verstrekken van informatie in hun individuele communicatie en interactie met gebruikers en hun vertegenwoordigers, met inbegrip van de contactgegevens van de functionaris van de gegevensbescherming als bedoeld in artikel 37 van de algemene verordening gegevensbescherming.<br>
 <br>
-§ 7. De instanties, vermeld in paragraaf 4, bezorgen aan het agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op analyse van die gegevens, evidencebased beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid en de informatieverstrekking daarover. Die gegevens zijn geanonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
+§7. Het agentschap verwerkt de persoonsgegevens, vermeld in paragraaf 3 tot en met 3/2 en paragraaf 3/4 tot en met 3/6, voor:<br>
+1° &nbsp;de analyse van die gegevens;<br>
+2° evidencebased beleidsvoering voor het Vlaamse welzijns- en gezondheidsbeleid;<br>
+3° de informatieverstrekking over het Vlaamse welzijns- en gezondheidsbeleid.<br>
 <br>
-§ 8. De zorgkassen bezorgen aan het Intermutualistisch Agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op de analyse van die gegevens door het Intermutualistisch Agentschap. De doorgifte en analyse vindt plaats met het doel om verdere beleidsvorming te informeren. Die gegevens zijn gepseudonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, welke gegevens bezorgd worden, alsook de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
+De gegevens, vermeld in het eerste lid, zijn geanonimiseerd of ten minste gepseudonimiseerd als het doeleinde niet bereikt kan worden met anonieme gegevens.<br>
+<br>
+§8. De zorgkassen bezorgen aan het Intermutualistisch Agentschap alle gegevens waarover ze beschikken in het kader van de uitvoering van dit decreet, met het oog op de analyse van die gegevens door het Intermutualistisch Agentschap. De doorgifte en analyse vindt plaats met het doel om verdere beleidsvorming te informeren. Die gegevens zijn gepseudonimiseerd. De Vlaamse Regering bepaalt, na advies van de bevoegde toezichthoudende autoriteit, de wijze waarop en de periodiciteit waarmee de gegevens bezorgd worden.<br>
 <br>
 In het eerste lid wordt verstaan onder het Intermutualistisch Agentschap: het Intermutualistisch Agentschap opgericht overeenkomstig artikel 278 van de programmawet I van 24 december 2002.<br>
 <br>
@@ -820,26 +1091,82 @@ De gegevens, vermeld in het eerste lid, worden door het Departement Zorg bewaard
 
 ### ART 50.
 
-De zorgkassen enerzijds en de ziekenfondsen en verzekeringsinstellingen, vermeld in artikel 2, g) en i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994&nbsp;en de Brusselse verzekeringsinstellingen, vermeld in artikel 2, 7°, van de ordonnantie van 21 december 2018 betreffende de Brusselse verzekeringsinstellingen in het domein van de gezondheidszorg en de hulp aan personen, anderzijds, wisselen onder elkaar gegevens, met inbegrip van de gegevens over gezondheid, uit die noodzakelijk zijn in het kader van de toepassing van de bepalingen van dit decreet, conform een overeenkomst die daarover wordt gesloten.<br>
+§1. De zorgkassen, enerzijds, en de ziekenfondsen en verzekeringsinstellingen, vermeld in artikel 2, g) en i), van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, en de Brusselse verzekeringsinstellingen, vermeld in artikel 2, 7°, van de ordonnantie van 21 december 2018 betreffende de Brusselse verzekeringsinstellingen in het domein van de gezondheidszorg en de hulp aan personen, anderzijds, wisselen onder elkaar gegevens uit, met inbegrip van gegevens over gezondheid, conform een overeenkomst die daarover wordt gesloten.<br>
 <br>
-De gegevens, vermeld in het eerste lid, kunnen onder meer betrekking hebben op:<br>
-1° de verzekeringsstatus van gebruikers in het kader van de verplichte verzekering voor geneeskundige verzorging en uitkeringen;<br>
-2° de informatie die noodzakelijk is om de Europese en internationale regelgeving uit te voeren;<br>
-3° de informatie die noodzakelijk is om dubbele financiering van zorgkosten te vermijden.<br>
+De zorgkassen wisselen de volgende gegevens uit met de verzekeringsinstellingen, vermeld in het eerste lid, en de Brusselse verzekeringsinstellingen, vermeld in het eerste lid:<br>
+1° aanvaarde, gefactureerde en aangevraagde prestaties en opnames en verblijfsgegevens in het kader van de residentiële ouderenzorg, met inbegrip van indicatiestellingen, en eventuele wijzigingen;<br>
+2° aanvaarde, gefactureerde en aangevraagde prestaties in het kader van de pijler mobiliteitshulpmiddelen, met inbegrip van de supplementen;<br>
+3° aanvaarde, gefactureerde en aangevraagde prestaties en opnames en verblijfsgegevens in het kader van de revalidatieziekenhuizen;<br>
+4° aanvaarde, gefactureerde en aangevraagde prestaties in het kader van de revalidatievoorzieningen;<br>
+5° aanvaarde, gefactureerde en aangevraagde zorg in het kader van de psychiatrische verzorgingstehuizen;<br>
+6° aanvaarde, gefactureerde en aangevraagde prestaties in het kader van de initiatieven van beschut wonen;<br>
+7° aanvaarde, gefactureerde en aangevraagde prestaties in het kader van de multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+8° aanvaarde, gefactureerde en aangevraagde prestaties in het kader van de rolstoeladviesteams en gespecialiseerde rolstoeladviesteams;<br>
+9° aanvaarde, gefactureerde en aangevraagde prestaties in het kader van het multidisciplinaire overleg.<br>
+&nbsp;<br>
+De verzekeringsinstellingen, vermeld in het eerste lid, en de Brusselse verzekeringsinstellingen, vermeld in het eerste lid, wisselen de volgende gegevens uit met de zorgkassen:<br>
+1° opnames en verblijfsgegevens, op voorwaarde dat de zorgkas een opname in het kader van de residentiële ouderenzorg heeft gemeld;<br>
+2° aanvaarde, gefactureerde prestaties, op voorwaarde dat de zorgkas een opname in het kader van de residentiële ouderenzorg heeft gemeld;<br>
+3° opnames en verblijfsgegevens in het kader van de residentiële ouderenzorg in het Franse taalgebied, in het Duitse taalgebied en, voor de bicommunautaire zorgvoorzieningen en de zorgvoorzieningen die wegens hun organisatie moeten worden beschouwd als behorend tot de Franse Gemeenschap, in het tweetalige gebied Brussel-Hoofdstad;<br>
+4° opnames en verblijfsgegevens en aanvaarde, gefactureerde prestaties in het kader van die opnames, op voorwaarde dat de zorgkas een aanvraag van een tegemoetkoming voor een mobiliteitshulpmiddel controleert;<br>
+5° opnames en verblijfsgegevens, op voorwaarde dat de zorgkas een opname in een revalidatieziekenhuis of een gebruik van of verblijf in een revalidatievoorziening heeft gemeld;<br>
+6° aanvaarde, gefactureerde prestaties, op voorwaarde dat de zorgkas een opname in een revalidatieziekenhuis of een gebruik van of verblijf in een revalidatievoorziening heeft gemeld;<br>
+7° gegevens over de hoedanigheid van de gebruikers of over hun recht op de verhoogde tegemoetkoming die noodzakelijk zijn om al de volgende elementen te berekenen:<br>
+a)&nbsp;&nbsp; &nbsp;het persoonlijke aandeel in de revalidatieziekenhuizen, vermeld in artikel 534/53 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of in de revalidatievoorzieningen, vermeld in artikel 534/99 van het voormelde besluit;<br>
+b)&nbsp;&nbsp; &nbsp;de bijkomende forfaitaire tegemoetkoming in de psychiatrische verzorgingstehuizen, vermeld in artikel 534/147 van het voormelde besluit;<br>
+8° aanvaarde, gefactureerde prestaties en aangevraagde prestaties in het kader van de pijler mobiliteitshulpmiddelen in het tweetalige gebied Brussel-Hoofdstad, op voorwaarde dat een aanvraag van een tegemoetkoming voor een mobiliteitshulpmiddel is ingediend bij de zorgkas;<br>
+9° aanvaarde, gefactureerde zorg en aangevraagde zorg, op voorwaarde dat de zorgkas zorg in een psychiatrisch verzorgingstehuis heeft gemeld;<br>
+10° het feit of de gebruiker aanspraak maakt op de invaliditeitsuitkering, vermeld in artikel 93 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, op voorwaarde dat de zorgkas zorg in een psychiatrisch verzorgingstehuis heeft gemeld.<br>
 <br>
-De adviserend artsen, vermeld in artikel 154 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over gezondheid, die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel 153 van de Ziekteverzekeringswet en in het kader van dit decreet.<br>
+De gegevens, vermeld in het tweede en derde lid, worden uitgewisseld voor de volgende doeleinden:<br>
+1°&nbsp;&nbsp; &nbsp;de behandeling van de aanvragen van een tegemoetkoming van de Vlaamse sociale bescherming;<br>
+2°&nbsp;&nbsp; &nbsp;om te beschikken over de informatie die noodzakelijk is om de Europese en internationale regelgeving uit te voeren;<br>
+3°&nbsp;&nbsp; &nbsp;om dubbele financiering van zorgkosten te vermijden en om cumulcontroles te kunnen uitvoeren.<br>
 <br>
-De diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 19 van het Woonzorgdecreet, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over gezondheid, die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in artikel&nbsp;20 van het Woonzorgdecreet.<br>
+§2. De zorgvoorzieningen verwerken de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 3° tot en met 6°, die noodzakelijk zijn om zorg te verstrekken. Ze verwerken die gegevens in het kader van hun zorgrelatie met de gebruiker.<br>
+&nbsp;<br>
+De zorgvoorzieningen verwerken de persoonsgegevens van hun medewerkers en de zelfstandigen die verbonden zijn met een ondernemingscontract en werken voor zorgvoorzieningen, vermeld in artikel 49, §3/2, om die gegevens aan het agentschap te bezorgen. Die gegevens kunnen door het agentschap worden teruggekoppeld aan de zorgvoorziening die de persoonsgegevens bezorgd heeft, zodat de zorgvoorziening in staat is om eventuele fouten in de gegevens die het agentschap heeft verwerkt, vast te stellen, en zodat ze eventuele correcties kan voorstellen.<br>
 <br>
-De openbare centra voor maatschappelijk welzijn, vermeld in artikel 1 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over gezondheid, die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van hun opdrachten, vermeld in hoofdstuk IV van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br>
+§3. De verstrekkers van mobiliteitshulpmiddelen, vermeld in artikel 2, eerste lid, 36°, verwerken in het kader van de verkoop of verhuur van een mobiliteitshulpmiddel de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 7°.<br>
 <br>
-Het VAPH, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, heeft toegang tot gegevens van gebruikers die verwerkt worden in het kader van dit decreet en die dienstig zijn voor de uitoefening van zijn opdracht, vermeld in artikel 6, 2°, van het voormelde decreet.
+§4. De zorgkassen bezorgen in het kader van het doeleinde, vermeld in artikel 49, §8, aan het Intermutualistisch Agentschap alle gegevens van de gebruiker over de prestaties die gefactureerd zijn in het kader van de tegemoetkomingen, vermeld in artikel 49, §3, eerste lid, 3° tot en met 5°, 7° en 8°.<br>
+<br>
+§5. De Zorgkassencommissie verwerkt de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 2° tot en met 7°, die noodzakelijk zijn voor de uitvoering van haar taken, vermeld in artikel 34.<br>
+<br>
+§6. De Expertencommissie verwerkt de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 4° en 5°, die noodzakelijk zijn voor haar taken, vermeld in artikel 40.<br>
+<br>
+§7. De Bijzondere Technische Commissie, vermeld in artikel 133, verwerkt de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 7°, die noodzakelijk zijn voor haar taken en opdrachten, vermeld in artikel 133, §2 tot en met §4.<br>
+<br>
+§8. De indicatiestellers, vermeld in artikel 2, eerste lid, 16°, verwerken de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 2° en 7°, die noodzakelijk zijn in het kader van de opmaak of wijziging van een indicatiestelling.<br>
+<br>
+§9. De vervoerder, vermeld in artikel 2, eerste lid, 37°/1, verwerkt de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 4°, 5° en 7°, die noodzakelijk zijn voor de uitvoering van zijn opdrachten in het kader van dit decreet.<br>
+<br>
+§10. De actoren die door de Vlaamse Regering belast zijn met de behandeling van de administratieve beroepen, vermeld in artikel 71, 80, §5, artikel 88, §3, en artikel 92, §5, verwerken de gegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 2° en 3°, die noodzakelijk zijn in het kader van de behandeling van het beroep.<br>
+<br>
+§11. Het VAPH verwerkt de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 3° en 7°, van dit decreet, die noodzakelijk zijn om zijn taak, vermeld in artikel 6, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, uit te voeren.<br>
+<br>
+§12. De overlegorganisator verwerkt, met het oog op de indiening van een aanvraag van een tegemoetkoming voor een multidisciplinair overleg, de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 8°, en de persoonsgegevens van de deelnemers aan het multidisciplinaire overleg, vermeld in artikel 49, §3/4.<br>
+&nbsp;<br>
+§13. De indicatiestellers, vermeld in artikel 82 en 84, §1, tweede lid, hebben toegang tot de gegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 2°, die noodzakelijk zijn om de verminderde zelfredzaamheid vast te stellen.<br>
+<br>
+§14. De externe dienstverleners, vermeld in artikel 34, eerste lid, 1°, verwerken in het kader van de controle op de indicatiestellingen de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 2°, 3° en 7°.<br>
+<br>
+§15. Het Departement Zorg, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 12 mei 2023 over het Departement Zorg, verwerkt de persoonsgegevens van de gebruiker, vermeld in artikel 49, §3, eerste lid, 3°, van dit decreet, en de gegevens, vermeld in artikel 49, §3/2, van dit decreet, van de volgende personen, die noodzakelijk zijn in het kader van de doeleinden, vermeld in artikel 59, §5, eerste lid, van het Woonzorgdecreet van 15 februari 2019:<br>
+1° &nbsp;de medewerkers die ingezet worden in de zorgvoorzieningen;<br>
+2° de zelfstandigen die met een ondernemingscontract aan de zorgvoorziening verbonden zijn en die worden ingeschakeld in de werking van de zorgvoorzieningen;<br>
+3° &nbsp;de coördinerend en raadgevend arts van het woonzorgcentrum.<br>
+<br>
+§16. De adviserende artsen, vermeld in artikel 154 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over de gezondheid, die verwerkt worden in het kader van de toepassing van dit decreet en die gebruikt worden om hun opdrachten, vermeld in artikel 153 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in het kader van de toepassing van dit decreet uit te voeren.<br>
+<br>
+§17. De diensten maatschappelijk werk van de ziekenfondsen, vermeld in artikel 19 van het Woonzorgdecreet van 15 februari 2019, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over de gezondheid, die verwerkt worden in het kader van dit decreet en die gebruikt worden om hun opdrachten, vermeld in artikel 20 van het voormelde decreet, uit te voeren.<br>
+<br>
+§18. De openbare centra voor maatschappelijk welzijn, vermeld in artikel 1 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, hebben toegang tot de gegevens van gebruikers, met inbegrip van de gegevens over de gezondheid, die verwerkt worden in het kader van dit decreet en die gebruikt worden om hun taken, vermeld in hoofdstuk IV van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, uit te voeren.<br>
+<br>
+§19. De Vlaamse Regering kan de gegevens, vermeld in paragraaf 2 tot en met 18, nader specificeren.
 
 ### ART 51.
 
-Met het oog op de opstart van zorg aan een gebruiker hebben de betrokken zorgvoorziening, de betrokken deelnemers aan het multidisciplinair overleg of de betrokken verstrekker van mobiliteitshulpmiddelen toegang tot de volgende gegevens:<br>
-1° de zorgkas waarbij de betrokken gebruiker is aangesloten;<br>
-2° de verzekeringsstatus van de betrokken gebruiker, met inbegrip van de eventuele achterstallen die de gebruiker heeft in het kader van de premiebetaling en in voorkomend geval de reden waarom iemand niet is aangesloten bij een zorgkas.
+...
 
 ### ART 52.
 
@@ -1694,7 +2021,7 @@ De Bijzondere Technische Commissie kan over de toekenning van tegemoetkomingen v
 <br>
 § 4. De Vlaamse Regering kan bijkomende taken opleggen aan de Bijzondere Technische Commissie.<br>
 <br>
-§ 5. De Bijzondere Technische Commissie beschikt over de gegevens van de gebruikers, met inbegrip van de gegevens over de gezondheid, die noodzakelijk zijn voor de uitoefening van haar taken.<br>
+§ 5. ...<br>
 <br>
 § 6. De leden van de Bijzondere Technische Commissie zijn gebonden door de geheimhoudingsplicht met betrekking tot de gegevens waarvan ze bij de uitoefening van hun opdracht kennis krijgen en die daarmee verband houden.<br>
 <br>
