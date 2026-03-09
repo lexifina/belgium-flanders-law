@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041795,
+  "title": "Decreet van 2026-01-23 tot wijziging van regelgeving over de beleidsvelden gezondheids- en woonzorg en sociale bescherming, wat betreft de decretale verankering van de essentiële elementen voor de verwerking van persoonsgegevens",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041795/VolledigDocument?datum=2026-03-09",
+  "source_sha256": "23be388dc27974f96e8b81f8fd5e758e42feebcf62b68620c59e263bbb6285de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041795&param=informatie",
+  "as_of": "2026-03-09",
+  "made": "2026-01-23",
+  "gazette": "2026-02-27",
+  "numac": 2026001483,
+  "document_start": "2026-03-09",
+  "document_end": null,
+  "in_force": "2026-03-09",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
