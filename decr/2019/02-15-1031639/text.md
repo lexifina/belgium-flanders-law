@@ -749,20 +749,20 @@ De Vlaamse Regering kan voor de woonzorgvoorzieningen en verenigingen in het twe
 
 ### ART 59.
 
-§ 1. In dit artikel wordt verstaan onder de algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
+§1. In dit artikel wordt verstaan onder de algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.<br>
 <br>
-§ 2. Woonzorgvoorzieningen, verenigingen, partnerorganisaties als vermeld in artikel 60 en projecten als vermeld in artikel 61, verzamelen op een gestructureerde, systematische wijze gegevens over de gebruikers, hun mantelzorgers, de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders van de woonzorgvoorziening of vereniging, de aard van de zorg- en ondersteuningsnood, de geboden woonzorg, de kwaliteit en het effect ervan, met als doel:<br>
+§2. Woonzorgvoorzieningen, verenigingen, partnerorganisaties als vermeld in artikel 60 en projecten als vermeld in artikel 61, verzamelen op een gestructureerde, systematische wijze gegevens over de gebruikers, hun mantelzorgers, de personeelsleden, vrijwilligers, verenigingswerkers en de bestuurders van de woonzorgvoorziening of vereniging, de aard van de zorg- en ondersteuningsnood, de geboden woonzorg, de kwaliteit en het effect ervan, met als doel:<br>
 1° over de noodzakelijke informatie te beschikken die nodig is voor de zorg en ondersteuning aan de gebruiker, zodat de zorg en ondersteuning verleend door de woonzorgvoorziening zelf of in samenwerking met andere zorg- en welzijnsactoren passend wordt afgestemd op de evoluerende zorg- en ondersteuningsnood van de gebruiker en het zorg- en ondersteuningstraject per gebruiker kan worden opgevolgd en bijgestuurd, waar nodig;<br>
 2° aan de Vlaamse overheid gegevens te bezorgen om haar in staat te stellen de woonzorg passend te financieren en haar woonzorgbeleid af te stemmen op de evoluerende maatschappelijke behoeften en de kwaliteit van de geboden woonzorg te monitoren conform het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen. Die gegevens zijn, waar mogelijk, geanonimiseerd;<br>
 3° over de noodzakelijke informatie over de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders te beschikken die noodzakelijk is om een kwaliteitsvol zorg- en ondersteuningsaanbod te kunnen garanderen en waar nodig bijzondere maatregelen te kunnen treffen.<br>
 <br>
-§ 3. De persoonsgegevens die verzameld worden in het kader van dit decreet, worden verwerkt conform de regelgeving over de bescherming bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, eerste lid, 1), e), en artikel 10 van de algemene verordening gegevensbescherming en, wat gegevens over gezondheid als vermeld in artikel 9, eerste lid, van de algemene verordening gegevensbescherming betreft, op artikel 9, tweede lid, 2), h), van de algemene verordening gegevensbescherming.<br>
+§3. De persoonsgegevens die verzameld worden in het kader van dit decreet, worden verwerkt conform de regelgeving over de bescherming bij de verwerking van persoonsgegevens. De verwerking van persoonsgegevens is gebaseerd op artikel 6, eerste lid, 1), e), en artikel 10 van de algemene verordening gegevensbescherming en, wat gegevens over gezondheid als vermeld in artikel 9, eerste lid, van de algemene verordening gegevensbescherming betreft, op artikel 9, tweede lid, 2), h), van de algemene verordening gegevensbescherming.<br>
 <br>
 De gegevens over gezondheid, vermeld in het eerste lid, worden verwerkt conform artikel 9, derde lid, van de algemene verordening gegevensbescherming, door of onder de verantwoordelijkheid van een beroepsbeoefenaar die aan het beroepsgeheim is gebonden, of door een andere persoon die tot geheimhouding is gehouden.<br>
 <br>
 De verwerking van persoonsgegevens vindt plaats met respect voor de rechten van de betrokken gebruikers en mantelzorgers.<br>
 <br>
-§ 4. In het kader van de uitvoering van hun bevoegdheden en taken, waaronder deze vermeld in artikel 4, § 1, eerste lid, 14°, artikel 18, eerste lid, 2°, artikel 34, paragraaf 1, eerste lid, 9°, en artikel 38, derde lid, verzamelen en verwerken woonzorgvoorzieningen, verenigingen, partnerorganisaties als vermeld in artikel 60 en projecten als vermeld in artikel 61, minstens volgende gegevens:<br>
+§4. In het kader van de uitvoering van hun bevoegdheden en taken, waaronder deze vermeld in artikel 4, § 1, eerste lid, 14°, artikel 18, eerste lid, 2°, artikel 34, paragraaf 1, eerste lid, 9°, en artikel 38, derde lid, verzamelen en verwerken woonzorgvoorzieningen, verenigingen, partnerorganisaties als vermeld in artikel 60 en projecten als vermeld in artikel 61, minstens volgende gegevens:<br>
 1° de persoonsgegevens met het oog op de identificatie van de betrokken gebruiker, zijn vertegenwoordiger en zijn mantelzorgers, in voorkomend geval externe zorgverstrekkers;<br>
 2° de gezondheidsgegevens over de gebruiker die relevant zijn voor zorg en ondersteuning;<br>
 3° de gegevens met betrekking tot de te verlenen zorg en ondersteuning;<br>
@@ -818,7 +818,26 @@ De Vlaamse Regering bepaalt, na advies van de Vlaamse Toezichtcommissie voor de 
 1° de regels voor de wijze van verwerking van de gegevens;<br>
 2° de vorm waarin en de wijze waarop de gegevens worden uitgewisseld.<br>
 <br>
-§ 6. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
+§5/1. Met het oog op het doeleinde, vermeld in paragraaf 5, eerste lid, worden de volgende gegevens van de gebruiker verwerkt:<br>
+1° de landsbond waarbij de gebruiker is aangesloten;<br>
+2° het feit of de gebruiker ouder dan tachtig jaar is;<br>
+3° het feit of de gebruiker in invaliditeit is conform artikel 93 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
+4° het feit of de gebruiker rechthebbende is op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, §19, van de voormelde wet;<br>
+5° het feit of de gebruiker rechthebbende is op het forfait chronisch zieke, vermeld in artikel 37, §16bis, eerste lid, 2°, van de voormelde wet;<br>
+6° het feit of de gebruiker een goedkeuring heeft ontvangen voor een mobiliteitshulpmiddel als vermeld in artikel 126, §2, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+7° het feit of de gebruiker rechthebbende is op een zorgbudget voor ouderen met een zorgnood conform artikel 84, §1, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+8° het feit of de gebruiker rechthebbende is op een zorgbudget zwaar zorgbehoevenden conform artikel 78 van het voormelde decreet;<br>
+9° het feit of de gebruiker rechthebbende is op een integratietegemoetkoming conform artikel 2, §2, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+10° het feit of de gebruiker rechthebbende is op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte als vermeld in artikel 16, §1, van het Groeipakketdecreet van 2018;<br>
+11° het feit of een gebruiker rechthebbende is op een erkenning van het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, zijn noodzakelijk om het aantal personen per landsbond te kunnen berekenen die voldoen aan de voorwaarden, vermeld in het eerste lid, 1° tot en met 11°. Voor die berekening worden de rijksregisternummers van de personen, vermeld in het eerste lid, 6° tot en met 11°, bezorgd aan het Intermutualistisch Agentschap om die gegevens te kunnen koppelen aan de aansluitingsgegevens per landsbond.<br>
+<br>
+Het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, ontvangt alleen statistische gegevens van het aantal aangesloten leden per landsbond van de gebruikers, vermeld in het eerste lid.<br>
+<br>
+De persoonsgegevens, vermeld in het eerste lid, worden niet langer bewaard dan noodzakelijk is om ze te koppelen aan de landsbond van aansluiting, en maximaal gedurende zes maanden.<br>
+<br>
+§6. De verwerkingsverantwoordelijken in de zin van artikel 4, 7), van de algemene verordening gegevensbescherming zijn:<br>
 1° het Departement Zorg, voor de verwerking van persoonsgegevens in het kader van de passende financiering van de woonzorgvoorzieningen, de monitoring en handhaving met betrekking tot de geboden woonzorg en de bekwaamheid en integriteit van de personeelsleden, vrijwilligers, verenigingswerkers en bestuurders en voor het uitoefenen van toezicht op de erkenningsvoorwaarden en de kwaliteit van de geboden woonzorg;<br>
 2° ...;<br>
 3° de woonzorgvoorzieningen en verenigingen voor wat betreft de verwerking van persoonsgegevens in het kader van hun opdrachten en hun zorgrelatie met de gebruiker;<br>
