@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041794,
+  "title": "Besluit van de Vlaamse Regering van 2026-02-13 tot wijziging van het koninklijk besluit van 29 mei 2013 betreffende de bescherming van proefdieren, wat betreft de invoering van een retributie, de omzetting van Richtlijn (EU) 2024/1262, de uitvoering van uitvoeringsbesluit (EU) 2020/569 en enkele technische aanpassingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041794/VolledigDocument?datum=2026-03-12",
+  "source_sha256": "5f8957d5bcbb87c836c58cba7938c41017bdc228bd3df0ab74f3d64ca7876c40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041794&param=informatie",
+  "as_of": "2026-03-12",
+  "made": "2026-02-13",
+  "gazette": "2026-03-02",
+  "numac": 2026001481,
+  "document_start": "2026-03-12",
+  "document_end": null,
+  "in_force": "2026-03-12",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2026-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
