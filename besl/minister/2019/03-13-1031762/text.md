@@ -42,7 +42,7 @@ Ter uitvoering van artikel 8, tweede lid, van het besluit van 13 juli 2018 worde
 
 §1. De goede trouw, vermeld in artikel 13, tweede lid, 1°, van het besluit van 13 juli 2018, wordt vastgesteld door de uitbetalingsactor.<br>
 <br>
-Als het onverschuldigd betaalde bedrag hoger dan 1.000 euro is, legt de uitbetalingsactor de vraag tot vaststelling van de goede trouw voor aan het agentschap voor bindend advies. Het agentschap richt daarvoor een commissie op.<br>
+Als het onverschuldigd betaalde bedrag hoger dan 1.000 euro is, legt de uitbetalingsactor de vraag tot vaststelling van de goede trouw voor aan het agentschap voor bindend advies, met uitzondering van de vragen tot vaststelling van de goede trouw op basis van de categorie van behartenswaardigheid, vermeld in paragraaf 2, eerste lid, 2°, als de behartenswaardige gezondheidstoestand door de uitbetalingsactor kan worden bevestigd op basis van een authentieke bron als vermeld in artikel 1, 2°, van het Besluit Gegevensverwerking Toelagen Gezinsbeleid van 19 juli 2019. Het agentschap richt daarvoor een commissie op.<br>
 <br>
 De procedure voor de vaststelling van de goede trouw wordt bepaald door het agentschap.<br>
 <br>
