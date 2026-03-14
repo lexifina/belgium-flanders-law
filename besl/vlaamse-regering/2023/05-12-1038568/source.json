@@ -2,16 +2,16 @@
   "codex_id": 1038568,
   "title": "Besluit van de Vlaamse Regering van 2023-05-12 tot het verlenen van subsidies voor beheerovereenkomsten die worden gefinancierd via het Europees Landbouwfonds voor plattelandsontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038568/VolledigDocument?datum=2024-12-30",
-  "source_sha256": "f43c8915ce617bead81c5fcf4a3cf3a870e589a5e865951cd3ada7c078e40f9e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038568/VolledigDocument?datum=2026-03-14",
+  "source_sha256": "8e40a16977860557b920867bb2ec7e7700cb4909b3767504a6ac2e481dce2a98",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038568&param=informatie",
-  "as_of": "2024-12-30",
+  "as_of": "2026-03-14",
   "made": "2023-05-12",
   "gazette": "2023-08-04",
   "numac": 2023043495,
   "document_start": "2023-08-14",
   "document_end": null,
-  "in_force": "2024-12-30",
+  "in_force": "2026-03-14",
   "article_versions": 60,
-  "record_form": "consolidated version as in force on 2024-12-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-03-14; future article versions excluded; article text as the API gives it"
 }
