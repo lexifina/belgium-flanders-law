@@ -309,7 +309,7 @@ Het bezwaar schort de uitvoering van de beslissing niet op.<br>
 
 ### ART 26.
 
-Ter uitvoering van artikel 8, tweede lid, van het decreet van 26 april 2019 ontvangt de voor het afstammingscentrum vergunde organisatie jaarlijks vanaf 1 januari 2026, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 476.143 euro (vierhonderdzessenzeventigduizend honderddrieënveertig euro).&nbsp;Voor de periode van 1 september 2025 tot 31 december 2025 wordt, binnen de marge van de begrotingskredieten, een verhoging op de basissubsidie voor personeels- en werkingskosten toegekend van 106.916 euro (honderd en zesduizend negenhonderd zestien euro).<br>
+Ter uitvoering van artikel 8, tweede lid, van het decreet van 26 april 2019 ontvangt de voor het afstammingscentrum vergunde organisatie jaarlijks vanaf 1 januari 2026, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 725.000 euro.&nbsp;Voor de periode van 1 september 2025 tot 31 december 2025 wordt, binnen de marge van de begrotingskredieten, een verhoging op de basissubsidie voor personeels- en werkingskosten toegekend van 106.916 euro (honderd en zesduizend negenhonderd zestien euro).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, wordt toegekend voor de werking gedurende een volledig kalenderjaar en wordt verminderd pro rata met de maanden waarin in het jaar in kwestie geen prestaties zijn geleverd.<br>
 <br>
@@ -372,6 +372,10 @@ Het is de voor het afstammingscentrum vergunde organisatie niet toegestaan om te
 De voor het afstammingscentrum vergunde organisatie legt elk jaar een financieel verslag voor aan Opgroeien regie dat de financiële en functionele verantwoording bevat voor de aanwending van de subsidies. Opgroeien regie legt de inhoud van dit verslag vast en bepaalt de datum van indiening van dit verslag.<br>
 <br>
 De voor het afstammingscentrum vergunde organisatie legt, op verzoek van Opgroeien regie, alle relevante verantwoordingsstukken, voor de ontvangen subsidie, voor. Alle bewijsstukken die de uitgaven staven waarvoor subsidies worden verleend, moeten minstens zeven jaar ter plaatse worden bewaard.
+
+### ART 30/1.
+
+Het Vlaams Centrum voor Adoptie voert een driejaarlijkse evaluatie uit van de inzet van de middelen door het Afstammingscentrum. De eerste evaluatie zal plaatsvinden in 2028, met het oog op mogelijke bijsturingen en besluitvorming in 2029 wat betreft de hoogte van de subsidie.
 
 ## HOOFDSTUK 4. Handhavingsmaatregelen
 
