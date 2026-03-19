@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041817,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-30 tot wijziging van het besluit van de Vlaamse Regering van 8 mei 2020 tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een DNA-databank, wat betreft de basissubsidie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041817/VolledigDocument?datum=2026-03-19",
+  "source_sha256": "a1b3bb7f5216248ddfb9179a628b606ce9516e24c8cb4fff5e54f669bc08d3a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041817&param=informatie",
+  "as_of": "2026-03-19",
+  "made": "2026-01-30",
+  "gazette": "2026-03-09",
+  "numac": 2026001665,
+  "document_start": "2026-03-19",
+  "document_end": null,
+  "in_force": "2026-03-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
