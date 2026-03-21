@@ -37,7 +37,7 @@ c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg te
 8°/2 achterliggende afnemer : de natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt van een gesloten distributienet of een privédistributienet;<br>
 8°/3 achterliggende netgebruiker : natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een gesloten distributienet of een privédistributienet;<br>
 8° /4 actieve afnemer: een afnemer die aangesloten is op het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit of een afnemer van thermische energie die aangesloten is op een warmte- of koudenet en die een of meer van de activiteiten, vermeld in artikel 4.4.2, uitoefent, terwijl die activiteiten niet zijn belangrijkste commerciële of professionele activiteit vormen;<br>
-9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders in het kader van een openbaredienstverplichting opgelegde REG-actie;<br>
+9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders&nbsp;of brandstofleveranciers in het kader van een openbaredienstverplichting opgelegde REG-actie;<br>
 9°/1 aerothermische energie : energie die in de vorm van warmte is opgeslagen in de omgevingslucht;<br>
 9° /2 afgeleide persoonsgegevens: persoonsgegevens die afgeleid kunnen worden uit de persoonsgegevens die in het kader van dit decreet verzameld worden;<br>
 10° afnamepunt : punt waar elektriciteit of aardgas van het net wordt afgenomen en verbruikt;<br>
@@ -61,7 +61,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 15° ...<br>
 16° bevrachter : rechtspersoon die een contract heeft afgesloten met een vervoeronderneming met betrekking tot het vervoer van aardgas tussen een of meer injectiepunten en afnamepunten op het vervoernet;<br>
 16/1° bijna-energieneutraal gebouw : een gebouw met een zeer hoge energieprestatie, waarbij de dichtbij nul liggende of zeer lage hoeveelheid energie die nog vereist is, in zeer aanzienlijke mate wordt geleverd uit hernieuwbare energiebronnen die ter plaatse of dichtbij wordt geproduceerd;<br>
-17° ...<br>
+17° binnenmilieukwaliteit: het resultaat van een beoordeling van de omstan-digheden in een gebouw die de gezondheid en het welzijn van de bewo-ners beïnvloeden, op basis van parameters zoals de temperatuur, de voch-tigheid, de ventilatiesnelheid en de aanwezigheid van verontreinigende stoffen;<br>
 18° ...<br>
 18°/1 biobrandstoffen: vloeibare brandstoffen voor vervoer die geproduceerd zijn uit biomassa;<br>
 18° /1/1 biogas: gas uit de anaerobe vergisting van organisch-biologische stoffen;<br>
@@ -189,6 +189,7 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 69° /1 injecteren van thermische energie: het inbrengen van thermische energie in een warmte- of koudenet vanuit een warmte- of koudenet of door een producent van thermische energie;<br>
 70° injectiepunt : punt waar elektriciteit of aardgas in het net wordt geïnjecteerd;<br>
 70° /1 injectiepunt van thermische energie: punt waar thermische energie in een warmte- of koudenet wordt geïnjecteerd;<br>
+70°/1/1 inspectieprotocol: het document dat de Vlaamse Regering bepaalt en dat de werkwijze vastlegt voor de opmaak van het energieprestatie-certificaat waarin minstens bepaald wordt hoe de inspectie ter plaatse wordt uitgevoerd, alsook hoe de energiedeskundige de gegevens op een uniforme manier verzamelt, meet en omzet bij het gebruik van de certificatiesoftware;<br>
 70° /2 intermediair bij de aankoop van energie: elke natuurlijke persoon of rechtspersoon, anders dan een leverancier, die rechtstreeks of onrechtstreeks betrokken is bij het analyseren van contracten, bij het uitvoeren van prijsvergelijkingen waarbij al dan niet van contract kan worden veranderd, bij het samenbrengen van leveranciers en eindafnemers, bij het organiseren van groepsaankopen, bij het toewijzen van energieleveringen aan leveranciers en/of bij het sluiten van energiecontracten voor eindafnemers;<br>
 71° internationale luchtvaartbunkers : de hoeveelheid energie die geleverd wordt aan vliegtuigen die op buitenlandse luchthavens vliegen;<br>
 72° internationale scheepvaartbunkers : de hoeveelheid energie die geleverd wordt aan schepen die op buitenlandse havens varen;<br>
@@ -210,6 +211,7 @@ en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-baten
 76° kwalitatieve warmte-krachtinstallatie: warmte-krachtinstallatie waarvan het productieproces voldoet aan de kwaliteitsvoorwaarden die opgelegd zijn overeenkomstig artikel 7.1.2, § 4;<br>
 77° kwalitatieve warmte-krachtkoppeling: warmte-krachtkoppeling die voldoet aan de kwaliteitsvereisten, opgelegd overeenkomstig artikel 7.1.2, § 4;<br>
 77° /1 laagspanning: een nominaal spanningsniveau van 1000 volt of lager;<br>
+77°/2 leersteuncentrum: een centrum als vermeld in artikel 5, 10°, van het decreet van 5 mei 2023 over leersteun;<br>
 78° leverancier : elke natuurlijke persoon of rechtspersoon die aan afnemers elektriciteit of aardgas verkoopt behoudens indien de verkoop plaatsvindt via een directe lijn, een directe leiding of privédistributienet;<br>
 79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br>
 79° /0 lokale congestie: een situatie waarin een element van het elektriciteitsdistributienet, het plaatselijk vervoernet van elektriciteit of het koppelpunt met het plaatselijk vervoernet van elektriciteit of het transmissienet niet alle fysieke stromen kan opvangen zonder de operationele veiligheid in gevaar te brengen;<br>
@@ -280,7 +282,7 @@ e) in het geval van een onderneming die geen kmo is: wanneer de afgelopen twee j
 1) de verhouding tussen de schulden en het eigen vermogen van de onderneming meer dan 7,5 bedroeg; en<br>
 2) de op basis van de EBITDA bepaalde rentedekkingsgraad van de onderneming lager lag dan 1,0;<br>
 94° ondersteunende dienst: een dienst die nodig is voor de exploitatie van een transmissie- of distributienet, voor de elektriciteitsmarkt, met inbegrip van balanceringsdiensten en niet-frequentiegerelateerde ondersteunende diensten, maar uitgezonderd congestiebeheer;<br>
-94° /1 onderwijsinstelling: alle scholen, internaten, centra voor volwassenenonderwijs en voor basiseducatie, centra voor leerlingenbegeleiding, hogescholen en universiteiten, die gefinancierd, gesubsidieerd of erkend zijn door het Vlaams Ministerie van Onderwijs en Vorming;<br>
+94° /1 onderwijsinstelling: alle scholen, internaten, centra voor volwassenenonderwijs en voor basiseducatie, centra voor leerlingenbegeleiding, leersteuncentra, hogescholen en universiteiten, die gefinancierd, gesubsidieerd of erkend zijn door het Vlaams Ministerie van Onderwijs en Vorming;<br>
 95° onrendabele top : het productieafhankelijk gedeelte van de inkomsten dat nodig is om de netto contante waarde van een investering op nul te doen uitkomen en die berekend wordt aan de hand van een cashflowberekening;<br>
 96° openbaar bestuur: alle volgende organisaties en rechtspersonen:<br>
 a)&nbsp;&nbsp; &nbsp;de publieke organisaties;<br>
@@ -570,7 +572,7 @@ De Vlaamse Regering rapporteert jaarlijks over de maatregelen die in het kader v
 
 ### ART. 3.2.1.
 
-§ 1. Er wordt een Energiefonds opgericht. Dit fonds is een begrotingsfonds in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.<br>
+§ 1. Er wordt een Energiefonds opgericht. Dit fonds is een begrotingsfonds in de zin van artikel 15, §2, eerste lid, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.<br>
 <br>
 § 2. Aan dit Energiefonds worden rechtstreeks de volgende inkomsten toegewezen :<br>
 1° opbrengsten uit heffingen en administratieve geldboetes die decretaal aan het Energiefonds worden toegewezen, de opbrengsten afkomstig van de dadingen die hierover worden aangegaan, evenals de opbrengsten die worden geïnd naar aanleiding van beslissingen van de hoven en rechtbanken die hierover worden genomen ten laste van de decretaal aangewezen heffings- of boeteplichtigen;<br>
@@ -883,7 +885,7 @@ De bepalingen van onderafdeling III tot en met V, VII en VIII sluiten de toepass
 <br>
 De bedragen, vermeld in artikel 4.1.11/3 tot en met 4.1.11/5, worden vanaf 1 januari 2015 jaarlijks van rechtswege geïndexeerd door vermenigvuldiging met het gezondheidsindexcijfer voor de maand juni van het jaar n-1 en die te delen door het gezondheidsindexcijfer voor de maand juni 2013.<br>
 <br>
-De bedragen, vermeld in artikel 4.1.11/7 tot en met 4.1.11/7/2, worden vanaf 1 januari 2027 jaarlijks van rechtswege geïndexeerd door de vermenigvuldiging van die bedragen met het gezondheidsindexcijfer van de maand december van het jaar n-1, gedeeld door het gezondheidsindexcijfer van de maand december 2025.<br>
+De bedragen, vermeld in artikel 4.1.11/7 tot en met 4.1.11/7/1, worden vanaf 1 januari 2027 jaarlijks van rechtswege geïndexeerd door de vermenigvuldiging van die bedragen met het gezondheidsindexcijfer van de maand december van het jaar n-1, gedeeld door het gezondheidsindexcijfer van de maand december 2025.<br>
 <br>
 Onder gezondheidsindexcijfers als vermeld in het derde en vierde lid, wordt verstaan : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994.
 
@@ -922,7 +924,7 @@ In alle andere gevallen dan het geval, vermeld in het tweede lid, bedraagt de ve
 <br>
 § 2. De vergoedingsplicht, vermeld in paragraaf 1, geldt niet in geval van een onderbreking als gevolg van een noodsituatie of overmacht, zoals omschreven in de technische reglementen.<br>
 <br>
-§ 3. De netgebruiker dient de aanvraag voor de vergoeding in bij de distributienetbeheerder, op straffe van onontvankelijkheid binnen dertig kalenderdagen die volgen op de langdurige onderbreking. Binnen zestig kalenderdagen die volgen op de indiening van de aanvraag, wordt de vergoeding door de distributienetbeheerder betaald als de aanvraag gegrond is.<br>
+§ 3. De netgebruiker dient de aanvraag voor de vergoeding in bij de distributienetbeheerder, op straffe van onontvankelijkheid binnen dertig dagen die volgen op de langdurige onderbreking. Binnen zestig dagen die volgen op de indiening van de aanvraag, wordt de vergoeding door de distributienetbeheerder betaald als de aanvraag gegrond is.<br>
 <br>
 § 4. De distributienetbeheerder wordt in de rechten van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding met toepassing van dit artikel.<br>
 <br>
@@ -946,7 +948,7 @@ De distributienetbeheerder is aan de netgebruiker die, conform artikel 4.1.22/2,
 
 ### ART 4.1.11/7/1
 
-De netbeheerder is een forfaitaire vergoeding verschuldigd aan de netgebruiker die op zijn net is aangesloten als de leverancier van die netgebruiker niet tijdig een afrekenings- of slotfactuur kan bezorgen aan de netgebruiker conform de bepalingen die zijn vastgesteld krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, op voorwaarde dat dit te wijten is aan een technische oorzaak waardoor gedurende minstens tien opeenvolgende kalenderdagen geen klantenwissel of wissel van toegangshouder mogelijk is of waardoor geen doorsturing van technische, relationele of meetgegevens aan de toegangshouder mogelijk is of waardoor een foutcode in de systemen van de distributienetbeheerder optreedt of waarbij meerdere van deze problemen zich tegelijk manifesteren. Indien de netbeheerder de nodige gegevens in de situaties, vermeld in het eerste lid, niet tijdig kan bezorgen, dan meldt hij dit aan de leverancier.<br>
+De netbeheerder is een forfaitaire vergoeding verschuldigd aan de netgebruiker die op zijn net is aangesloten als de leverancier van die netgebruiker niet tijdig een afrekenings- of slotfactuur kan bezorgen aan de netgebruiker conform de bepalingen die zijn vastgesteld krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, op voorwaarde dat dit te wijten is aan een technische oorzaak waardoor gedurende minstens tien opeenvolgende dagen geen klantenwissel of wissel van toegangshouder mogelijk is of waardoor geen doorsturing van technische, relationele of meetgegevens aan de toegangshouder mogelijk is of waardoor een foutcode in de systemen van de distributienetbeheerder optreedt of waarbij meerdere van deze problemen zich tegelijk manifesteren. Indien de netbeheerder de nodige gegevens in de situaties, vermeld in het eerste lid, niet tijdig kan bezorgen, dan meldt hij dit aan de leverancier.<br>
 <br>
 De leverancier meldt, zodra het hem bekend is, aan de netbeheerder dat hij aan de netgebruiker niet tijdig een afrekenings- of slotfactuur kan bezorgen conform de bepalingen vastgesteld krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, om de reden vermeld in het eerste lid. De vergoeding is verschuldigd zodra een termijn van 180 dagen verstreken is die begint te lopen op de dag na die melding. De vergoeding bedraagt per dag:<br>
 1°&nbsp;&nbsp; &nbsp;1,5 euro voor toegangspunten voor elektriciteit;<br>
@@ -1054,7 +1056,7 @@ De betrokken netbeheerder meldt de overeenkomst, vermeld in het eerste lid, aan 
 <br>
 De elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit maken de lijst van de dienstverleners van flexibiliteit die rechtstreeks flexibiliteit aanbieden aan de aanvrager van flexibiliteit, zonder een beroep te doen op een deelnemer aan flexibiliteit, bekend op hun website.<br>
 <br>
-§ 5. Voor de bemiddeling en beslechting van geschillen tussen dienstverleners van flexibiliteit en aggregatoren enerzijds en andere marktdeelnemers anderzijds is de procedure, vermeld in artikel 3.1.4/3 van overeenkomstige toepassing.
+§ 5. Voor de bemiddeling en beslechting van geschillen tussen dienstverleners van flexibiliteit en aggregatoren enerzijds en andere marktdeelnemers anderzijds is de procedure, vermeld in artikel 4.1.36 van overeenkomstige toepassing.
 
 ### ART 4.1.17/2.
 
@@ -1128,7 +1130,7 @@ De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, op welke pr
 <br>
 De nadere regels over de onvoorziene uitzonderlijke netuitbatingsomstandigheden en de economische efficiëntie en de uitputting van de commerciële middelen, vermeld in het eerste lid, worden opgenomen in het technisch reglement distributie elektriciteit en het technisch reglement plaatselijk vervoer van elektriciteit.<br>
 <br>
-§ 3. In geval van gereserveerde technische flexibiliteit ontvangen de netgebruiker en de gebruiker die op het plaatselijk vervoernet van elektriciteit aangesloten zijn, ten behoeve van de netbeheerder een kostenreflectieve en transparante compensatie.<br>
+§ 3. In geval van gereserveerde technische flexibiliteit ontvangen de netgebruiker en de gebruiker die op het plaatselijk vervoernet van elektriciteit aangesloten zijn, ten behoeve van de netbeheerder een kostenreflectieve en transparante compensatie.&nbsp;Deze compensatie kan enkel negatief zijn wanneer de onbalansimpact van de modulatie wordt geneutraliseerd in de perimeter van de balanceringsverantwoordelijke.<br>
 <br>
 De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de berekeningswijzen voor de compensatie, vermeld in het eerste lid.<br>
 <br>
@@ -1172,11 +1174,11 @@ De Vlaamse Regering bepaalt de timing voor de publicatie en het indienen van het
 
 ### ART 4.1.17/8.
 
-Elke afnemer behoudt de zeggenschap over zijn gegevens die verbonden zijn aan flexibiliteit of aggregatie die wordt toegepast op de elektriciteitsmarkt of de markt voor lokale congestie.<br>
+Elke deelnemer aan flexibiliteit behoudt de zeggenschap over zijn gegevens die verbonden zijn aan flexibiliteit of aggregatie die wordt toegepast op de elektriciteitsmarkt of de markt voor lokale congestie.<br>
 <br>
-Elke afnemer kan aan de dienstverlener van flexibiliteit of aan de aggregator van zijn keuze op expliciete en geïnformeerde wijze toestemming verlenen om toegang te krijgen tot de gegevens die nodig zijn om zijn activiteit als dienstverlener van flexibiliteit of aggregator als vermeld in artikel 4.1.17/1, § 1, uit te oefenen.<br>
+Elke deelnemer aan flexibiliteit kan aan de dienstverlener van flexibiliteit of aan de aggregator van zijn keuze op geïnformeerde wijze toestemming verlenen om toegang te krijgen tot de gegevens die nodig zijn om zijn activiteit als dienstverlener van flexibiliteit of aggregator als vermeld in artikel 4.1.17/1, § 1, uit te oefenen.<br>
 <br>
-Elke afnemer kan bij de aggregator of dienstverlener van flexibiliteit, vermeld in artikel 4.1.17/1, § 1, met wie hij een contract heeft gesloten, minstens een keer per factureringsperiode kosteloos alle relevante flexibiliteitsgegevens of gegevens over de verkochte elektriciteit vragen. De voormelde aggregator of dienstverlener van flexibiliteit bezorgt die gegevens zonder discriminatie ten aanzien van kosten, moeite of tijd. De voormelde dienstverlener van flexibiliteit of aggregator brengt de afnemer met wie hij een contract heeft, op de hoogte van dat recht.<br>
+Elke deelnemer aan flexibiliteit kan bij de aggregator of dienstverlener van flexibiliteit, vermeld in artikel 4.1.17/1, § 1, met wie hij een contract heeft gesloten, minstens een keer per factureringsperiode kosteloos alle relevante flexibiliteitsgegevens of gegevens over de verkochte elektriciteit vragen. De voormelde aggregator of dienstverlener van flexibiliteit bezorgt die gegevens zonder discriminatie ten aanzien van kosten, moeite of tijd. De voormelde dienstverlener van flexibiliteit of aggregator brengt de deelnemer aan flexibiliteit met wie hij een contract heeft, op de hoogte van dat recht.<br>
 <br>
 Marktdeelnemers die aan aggregatie doen of flexibiliteitsdiensten aanbieden, en andere elektriciteitsbedrijven waarborgen de vertrouwelijkheid van de commercieel gevoelige gegevens die ze onderling uitwisselen en behandelen elke partij op niet-discriminerende wijze bij de uitwisseling van de gegevens.
 
@@ -1335,7 +1337,7 @@ De netbeheerder zorgt ervoor dat de opschorting van de toegang, in de situaties,
 <br>
 Bij een opschorting van de toegang op een individueel toegangspunt of op een welbepaald aantal toegangspunten op zijn net als vermeld in het eerste lid, of bij de buitendienststelling van een of meerdere toegangspunten op zijn net als vermeld in het tweede lid, stuurt de netbeheerder aan de toegangshouder en de betrokken toegangsgerechtigden een schriftelijke en gemotiveerde verklaring.&nbsp;<br>
 <br>
-§4. Tegen een weigering of beëindiging van de toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit als vermeld in paragraaf 2, kan, overeenkomstig artikel 4.1.35, zonder voorafgaande bemiddeling een geschillenbeslechtingsprocedure gevoerd worden bij de Vlaamse Nutsregulator. Als de Vlaamse Nutsregulator, bij de behandeling van het beroep, van oordeel is dat de weigering of beëindiging van de toegang onterecht was, geeft de netbeheerder de betrokkene alsnog of opnieuw toegang tot zijn net.&nbsp;<br>
+§4. Tegen een weigering of beëindiging van de toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit als vermeld in paragraaf 2, kan, overeenkomstig artikel 4.1.36, zonder voorafgaande bemiddeling een geschillenbeslechtingsprocedure gevoerd worden bij de Vlaamse Nutsregulator. Als de Vlaamse Nutsregulator, bij de behandeling van het beroep, van oordeel is dat de weigering of beëindiging van de toegang onterecht was, geeft de netbeheerder de betrokkene alsnog of opnieuw toegang tot zijn net.&nbsp;<br>
 <br>
 Het eerste lid is van overeenkomstige toepassing bij de opschorting van de toegang op een individueel toegangspunt of op een welbepaald aantal toegangspunten op het distributienet of het plaatselijk vervoernet van elektriciteit, en bij de buitendienststelling van een of meerdere toegangspunten op deze netten als vermeld in paragraaf 3.
 
@@ -1397,7 +1399,7 @@ De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van el
 <br>
 § 3. Het investeringsplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.<br>
 <br>
-De Vlaamse Nutsregulator maakt zijn beslissing binnen negentig dagen na de dag waarop hij het investeringsplan heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de netbeheerder. Als de Vlaamse Nutsregulator aan de netbeheerder bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen met dertig dagen verlengd, vanaf de dag nadat de bijkomende inlichtingen werden gevraagd.<br>
+De Vlaamse Nutsregulator maakt zijn beslissing binnen negentig dagen na de dag waarop hij het investeringsplan heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de netbeheerder. Als de Vlaamse Nutsregulator aan de netbeheerder bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen eenmalig met dertig dagen verlengd.<br>
 <br>
 De Vlaamse Nutsregulator kan, na overleg, de netbeheerder verplichten om het investeringsplan binnen een redelijke termijn aan te passen.<br>
 <br>
@@ -1407,7 +1409,7 @@ Het goedgekeurde investeringsplan wordt op de website van de netbeheerder bekend
 
 ### ART 4.1.19/1
 
-§1. Met behoud van toepassing van artikel 4.1.19 wordt de ontwikkeling van het distributienet en het plaatselijk vervoernet van elektriciteit gebaseerd op een transparant databeheersplan dat tweejaarlijks door de distributienet- beheerders en door de beheerder van het plaatselijk vervoernet van elektriciteit bij de VREG wordt ingediend, telkens voor het net dat hij beheert.<br>
+§1. Met behoud van toepassing van artikel 4.1.19 wordt de ontwikkeling van het distributienet en het plaatselijk vervoernet van elektriciteit gebaseerd op een transparant databeheersplan dat tweejaarlijks door de distributienet- beheerders en door de beheerder van het plaatselijk vervoernet van elektriciteit bij de Vlaamse Nutsregulator wordt ingediend, telkens voor het net dat hij beheert.<br>
 <br>
 Het databeheersplan, vermeld in het eerste lid, heeft betrekking op:<br>
 1°&nbsp;&nbsp; &nbsp;voor de distributienetbeheerders de taken, vermeld in artikel 4.1.8/2, eerste lid; 2°&nbsp;&nbsp; &nbsp;voor de beheerder van het plaatselijk vervoernet van elektriciteit de taken,<br>
@@ -1424,13 +1426,13 @@ Het technisch reglement, vermeld in artikel 4.2.1, kan nader bepalen welke bijko
 <br>
 §2. De netbeheerders consulteren alle relevante netgebruikers, de relevante gebruikers van het plaatselijk vervoernet van elektriciteit en de transmissienetbeheerder over het databeheersplan, vermeld in paragraaf 1.<br>
 <br>
-De netbeheerders bezorgen de resultaten van de publieke consultatie, vermeld in het eerste lid, samen met het databeheersplan, vermeld in paragraaf 1, aan de VREG.<br>
+De netbeheerders bezorgen de resultaten van de publieke consultatie, vermeld in het eerste lid, samen met het databeheersplan, vermeld in paragraaf 1, aan de Vlaamse Nutsregulator.<br>
 <br>
-§3. Het databeheersplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de VREG.<br>
+§3. Het databeheersplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.<br>
 <br>
-De VREG maakt zijn beslissing over het databeheersplan, vermeld in het eerste lid, binnen negentig dagen na de dag waarop hij het databeheersplan heeft ontvangen bekend of vraagt binnen die termijn bijkomende inlichtingen aan de netbeheerder. Als de VREG aan de netbeheerder bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen met dertig dagen ver- lengd, vanaf de dag nadat de bijkomende inlichtingen zijn gevraagd.<br>
+De Vlaamse Nutsregulator maakt zijn beslissing over het databeheersplan, vermeld in het eerste lid, binnen negentig dagen na de dag waarop hij het databeheersplan heeft ontvangen bekend of vraagt binnen die termijn bijkomende inlichtingen aan de netbeheerder. Als de Vlaamse Nutsregulator aan de netbeheerder bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen eenmalig met dertig dagen verlengd.<br>
 <br>
-De VREG kan, na overleg, de netbeheerder verplichten om het databeheersplan binnen een redelijke termijn aan te passen.<br>
+De Vlaamse Nutsregulator kan, na overleg, de netbeheerder verplichten om het databeheersplan binnen een redelijke termijn aan te passen.<br>
 &nbsp;<br>
 Het goedgekeurde databeheersplan wordt op de website van de netbeheerder bekendgemaakt.<br>
 <br>
@@ -1780,10 +1782,10 @@ De aansluiting op en het gebruik van het distributienet voor de afname en/of inj
 § 1. Na gestructureerd, gedocumenteerd en transparant overleg met de distributienetbeheerders, werkt de Vlaamse Nutsregulator het ontwerp van tariefmethodologie uit die deze distributienetbeheerders moeten gebruiken voor het opstellen van hun tariefvoorstellen.<br>
 <br>
 De overlegprocedure, vermeld in het eerste lid, komt tot stand met akkoord van en in samenspraak met de distributienetbeheerders. Bij gebrek aan een akkoord tussen de Vlaamse Nutsregulator en de distributienetbeheerders over de overlegprocedure, wordt het overleg ten minste gehouden als volgt:<br>
-1° de Vlaamse Nutsregulator stuurt de oproeping voor de overlegvergadering naar de distributienetbeheerders. De Vlaamse Nutsregulator maakt die oproeping minstens acht kalenderdagen vóór de vergadering in kwestie op zijn website bekend alsook de documentatie met betrekking tot de agendapunten van die overlegvergadering. De oproeping vermeldt de plaats, de datum en het uur van de overlegvergadering, alsook de agendapunten;<br>
-2° na de overlegvergadering stelt de Vlaamse Nutsregulator een ontwerp van proces-verbaal op van de overlegvergadering waarin de argumenten van de verschillende partijen worden opgenomen, alsook de vastgestelde punten waarover wel of geen overeenstemming bestaat. De Vlaamse Nutsregulator zendt dat verslag ter goedkeuring over aan de aanwezige partijen binnen acht kalenderdagen na de overlegvergadering.<br>
+1° de Vlaamse Nutsregulator stuurt de oproeping voor de overlegvergadering naar de distributienetbeheerders. De Vlaamse Nutsregulator maakt die oproeping minstens acht dagen vóór de vergadering in kwestie op zijn website bekend alsook de documentatie met betrekking tot de agendapunten van die overlegvergadering. De oproeping vermeldt de plaats, de datum en het uur van de overlegvergadering, alsook de agendapunten;<br>
+2° na de overlegvergadering stelt de Vlaamse Nutsregulator een ontwerp van proces-verbaal op van de overlegvergadering waarin de argumenten van de verschillende partijen worden opgenomen, alsook de vastgestelde punten waarover wel of geen overeenstemming bestaat. De Vlaamse Nutsregulator zendt dat verslag ter goedkeuring over aan de aanwezige partijen binnen acht dagen na de overlegvergadering.<br>
 <br>
-§ 2. De Vlaamse Nutsregulator organiseert een openbare raadpleging over het ontwerp van tariefmethodologie. Tijdens die raadpleging krijgen alle belanghebbenden gedurende minstens vijfenveertig kalenderdagen de tijd om hun opmerkingen aan de Vlaamse Nutsregulator te bezorgen. Na afloop van die periode publiceert de Vlaamse Nutsregulator daarover binnen vijfenveertig kalenderdagen een gemotiveerd consultatieverslag.<br>
+§ 2. De Vlaamse Nutsregulator organiseert een openbare raadpleging over het ontwerp van tariefmethodologie. Tijdens die raadpleging krijgen alle belanghebbenden gedurende minstens vijfenveertig dagen de tijd om hun opmerkingen aan de Vlaamse Nutsregulator te bezorgen. Na afloop van die periode publiceert de Vlaamse Nutsregulator daarover binnen vijfenveertig dagen een gemotiveerd consultatieverslag.<br>
 <br>
 § 3. Na het volgen van de procedure, vermeld in paragraaf 1 en 2, stelt de Vlaamse Nutsregulator de tariefmethodologie vast. Onverminderd de toepassing van de algemene boekhoudkundige normen en regels, preciseert die tariefmethodologie onder andere:<br>
 1° de definitie van de kostencategorieën;<br>
@@ -1838,11 +1840,11 @@ f) energieopslag;<br>
 § 2. De Vlaamse Nutsregulator onderzoekt het tariefvoorstel, beslist over de goedkeuring ervan en deelt zijn gemotiveerde beslissing mee aan de distributienetbeheerder met inachtneming van de indienings- en goedkeuringsprocedure voor de tariefvoorstellen.<br>
 <br>
 § 3. De Vlaamse Nutsregulator stelt de indienings- en goedkeuringsprocedure voor de tariefvoorstellen op met akkoord van en in samenspraak met de distributienetbeheerders. Bij gebrek aan een akkoord is de procedure als volgt:<br>
-1° de distributienetbeheerder dient binnen dertig kalenderdagen op voorstel van de Vlaamse Nutsregulator zijn tariefvoorstel in voor het volgende jaar in de vorm van het rapporteringsmodel dat de Vlaamse Nutsregulator vaststelt overeenkomstig artikel 4.1.32, § 1, 1° ;<br>
+1° de distributienetbeheerder dient binnen dertig dagen op voorstel van de Vlaamse Nutsregulator zijn tariefvoorstel in voor het volgende jaar in de vorm van het rapporteringsmodel dat de Vlaamse Nutsregulator vaststelt overeenkomstig artikel 4.1.32, § 1, 1° ;<br>
 2° de distributienetbeheerder bezorgt het tariefvoorstel in één exemplaar met een aangetekende brief aan de Vlaamse Nutsregulator of geeft het af tegen ontvangstbewijs. De distributienetbeheerder bezorgt tegelijk een elektronische versie van het tariefvoorstel dat de Vlaamse Nutsregulator kan bewerken;<br>
-3° binnen vijftien kalenderdagen na de ontvangst van het tariefvoorstel bevestigt de Vlaamse Nutsregulator aan de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook per e-mail, dat het dossier volledig is of bezorgt de distributienetbeheerder een lijst van aanvullende inlichtingen of vragen die de distributienetbeheerder moet verstrekken of beantwoorden. Binnen vijftien kalenderdagen na ontvangst van de voormelde lijst, verstrekt de distributienetbeheerder de gevraagde aanvullende inlichtingen, antwoorden en, in voorkomend geval, een aangepast tariefvoorstel met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze aan de Vlaamse Nutsregulator. De onder dit punt vermelde procedure tot bekomen van bijkomende inlichtingen kan herhaald worden indien de Vlaamse Nutsregulator dit nuttig acht;<br>
-4° binnen vijftien kalenderdagen na ontvangst van het tariefvoorstel, vermeld in punt 2°, of, in voorkomend geval, binnen vijftien kalenderdagen na ontvangst van de laatste antwoorden en de laatste aanvullende inlichtingen en, in voorkomend geval, een aangepast tariefvoorstel, van de distributienetbeheerder, vermeld in punt 3°, brengt de Vlaamse Nutsregulator de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze op de hoogte van zijn ontwerp van beslissing over het tariefvoorstel in kwestie. Ingeval de Vlaamse Nutsregulator in zijn ontwerp beslist tot weigering van het tariefvoorstel geeft de Vlaamse Nutsregulator op gemotiveerde wijze aan welke punten de distributienetbeheerder moet aanpassen overeenkomstig de tariefmethodologie om een beslissing tot goedkeuring van de Vlaamse Nutsregulator te verkrijgen;<br>
-5° als de Vlaamse Nutsregulator een ontwerp van beslissing tot weigering van het tariefvoorstel aan de distributienetbeheerder bezorgt, kan de distributienetbeheerder binnen vijftien kalenderdagen na ontvangst van dat ontwerp van beslissing zijn bezwaren daarover meedelen aan de Vlaamse Nutsregulator. Die bezwaren worden afgegeven tegen ontvangstbewijs of met een aangetekende brief verzonden aan de Vlaamse Nutsregulator, en tegelijk op elektronische wijze. De distributienetbeheerder kan binnen vijftien kalenderdagen na ontvangst van het ontwerp van beslissing tot weigering van het tariefvoorstel, zijn aangepaste tariefvoorstel in één exemplaar met een aangetekende brief of door afgifte met ontvangstbewijs aan de Vlaamse Nutsregulator bezorgen. De distributienetbeheerder bezorgt tegelijk een elektronische kopie aan de Vlaamse Nutsregulator. Binnen vijftien kalenderdagen nadat de Vlaamse Nutsregulator het ontwerp van de beslissing over het tariefvoorstel of, in voorkomend geval, binnen vijftien kalenderdagen na ontvangst van de bezwaren en in voorkomend geval het aangepaste tariefvoorstel, heeft verzonden, brengt de Vlaamse Nutsregulator de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook elektronisch, op de hoogte van zijn beslissing tot goedkeuring of weigering van het in voorkomend geval aangepaste tariefvoorstel;<br>
+3° binnen vijftien dagen na de ontvangst van het tariefvoorstel bevestigt de Vlaamse Nutsregulator aan de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook per e-mail, dat het dossier volledig is of bezorgt de distributienetbeheerder een lijst van aanvullende inlichtingen of vragen die de distributienetbeheerder moet verstrekken of beantwoorden. Binnen vijftien dagen na ontvangst van de voormelde lijst, verstrekt de distributienetbeheerder de gevraagde aanvullende inlichtingen, antwoorden en, in voorkomend geval, een aangepast tariefvoorstel met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze aan de Vlaamse Nutsregulator. De onder dit punt vermelde procedure tot bekomen van bijkomende inlichtingen kan herhaald worden indien de Vlaamse Nutsregulator dit nuttig acht;<br>
+4° binnen vijftien dagen na ontvangst van het tariefvoorstel, vermeld in punt 2°, of, in voorkomend geval, binnen vijftien dagen na ontvangst van de laatste antwoorden en de laatste aanvullende inlichtingen en, in voorkomend geval, een aangepast tariefvoorstel, van de distributienetbeheerder, vermeld in punt 3°, brengt de Vlaamse Nutsregulator de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, en tegelijk op elektronische wijze op de hoogte van zijn ontwerp van beslissing over het tariefvoorstel in kwestie. Ingeval de Vlaamse Nutsregulator in zijn ontwerp beslist tot weigering van het tariefvoorstel geeft de Vlaamse Nutsregulator op gemotiveerde wijze aan welke punten de distributienetbeheerder moet aanpassen overeenkomstig de tariefmethodologie om een beslissing tot goedkeuring van de Vlaamse Nutsregulator te verkrijgen;<br>
+5° als de Vlaamse Nutsregulator een ontwerp van beslissing tot weigering van het tariefvoorstel aan de distributienetbeheerder bezorgt, kan de distributienetbeheerder binnen vijftien dagen na ontvangst van dat ontwerp van beslissing zijn bezwaren daarover meedelen aan de Vlaamse Nutsregulator. Die bezwaren worden afgegeven tegen ontvangstbewijs of met een aangetekende brief verzonden aan de Vlaamse Nutsregulator, en tegelijk op elektronische wijze. De distributienetbeheerder kan binnen vijftien dagen na ontvangst van het ontwerp van beslissing tot weigering van het tariefvoorstel, zijn aangepaste tariefvoorstel in één exemplaar met een aangetekende brief of door afgifte met ontvangstbewijs aan de Vlaamse Nutsregulator bezorgen. De distributienetbeheerder bezorgt tegelijk een elektronische kopie aan de Vlaamse Nutsregulator. Binnen vijftien dagen nadat de Vlaamse Nutsregulator het ontwerp van de beslissing over het tariefvoorstel of, in voorkomend geval, binnen vijftien dagen na ontvangst van de bezwaren en in voorkomend geval het aangepaste tariefvoorstel, heeft verzonden, brengt de Vlaamse Nutsregulator de distributienetbeheerder met een aangetekende brief of door afgifte tegen ontvangstbewijs, alsook elektronisch, op de hoogte van zijn beslissing tot goedkeuring of weigering van het in voorkomend geval aangepaste tariefvoorstel;<br>
 6° als de distributienetbeheerder zijn verplichtingen niet nakomt binnen de termijnen, vermeld in de punten 1° tot 5°, of als de Vlaamse Nutsregulator een beslissing heeft genomen tot weigering van het tariefvoorstel of tot weigering van het aangepaste tariefvoorstel, zijn voorlopige tarieven die de Vlaamse Nutsregulator oplegt, van kracht, tot de distributienetbeheerder zijn verplichtingen, vermeld in de punten 1° tot 5°, alsnog is nagekomen, tot alle rechtsmiddelen van de distributienetbeheerder of van de Vlaamse Nutsregulator zijn uitgeput, of tot over de twistpunten tussen de Vlaamse Nutsregulator en de distributienetbeheerder een akkoord wordt bereikt. De Vlaamse Nutsregulator is bevoegd om te besluiten tot passende compenserende maatregelen als de definitieve tarieven afwijken van de voorlopige tarieven.<br>
 <br>
 § 4. Onverminderd de mogelijkheid van de Vlaamse Nutsregulator om&nbsp;de tarieven gedurende de reguleringsperiode te allen tijde en in afwijking van de termijnen uit de procedure, vermeld in paragraaf 3, op eigen initiatief te wijzigen, kan een distributienetbeheerder, voor zover dat strikt noodzakelijk wordt geacht, binnen de reguleringsperiode een gemotiveerde vraag tot herziening van zijn tarieven ter goedkeuring voorleggen aan de Vlaamse Nutsregulator. Het gemotiveerd verzoek tot herziening van de tarieven houdt rekening met de tariefmethodologie, zonder de integriteit van de bestaande tariefstructuur te wijzigen. Het gemotiveerd verzoek tot herziening van de tarieven wordt door de distributienetbeheerder ingediend en door de Vlaamse Nutsregulator behandeld overeenkomstig de geldende procedure, vermeld in paragraaf 3.<br>
@@ -1897,7 +1899,7 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het net, vermeld in artikel 4.1.6;<br>
 2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren,&nbsp;dienstverleners van flexibiliteit, afnemers,&nbsp;om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
 3° de regels voor de uitwisseling van gegevens tussen de transmissienetbeheerder, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers,&nbsp;de actieve afnemers, energiegemeenschappen van burgers, de hernieuwbare-energiegemeenschappen,&nbsp;de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers en de dienstverleners van flexibiliteit;<br>
-4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1,&nbsp;de verkoop van groene stroom conform artikel 7.2.3, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
+4° de regels die opgelegd zijn aan leveranciers, aggregatoren, dienstverleners van flexibiliteit en netbeheerders bij klant- of leverancierswissels, contractuele wijzigingen op het toegangspunt, de opname en rechtzetting van meterstanden, energiedelen conform artikel 7.2.1,&nbsp;de verkoop van groene stroom conform artikel 7.2.3, de peer-to-peerhandel van groene stroom door één actieve afnemer aan een andere afnemer conform artikel 7.2.2 en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
 5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<br>
 6° de informatieverplichtingen of voorafgaande goedkeuring of vaststelling door de Vlaamse Nutsregulator van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers,&nbsp;actieve afnemers, energiegemeenschappen van burgers, hernieuwbare-energiegemeenschappen, de producenten van groene stroom, vermeld in artikel 7.2.3, §2, eerste lid, aanbieders van energiediensten met inbegrip van aggregatoren, dienstverleners van flexibiliteit en afnemers;<br>
 7° de prioriteit die moet worden gegeven aan kwalitatieve warmtekrachtinstallaties en aan productie-installaties van groene stroom;<br>
@@ -1915,6 +1917,8 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 19° de regels die in het kader van flexibele aansluitingsovereenkomsten gelden voor de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
 20° de nadere regels voor de inhoud van de methodologie, vermeld in artikel 4.1.19/2, eerste lid, voor de afweging tussen de aankoop van flexibiliteitsdiensten, in functie van het beheer van lokale congestie binnen hun eigen dekkingsgebied, permanente flexibele aansluitingsovereenkomsten en een netinvestering.<br>
 <br>
+§2/1. De Vlaamse Nutsregulator neemt binnen een termijn van negentig dagen na de dag waarop hij de aanvraag heeft ontvangen een beslissing tot goedkeuring, tot verzoek om herziening, of tot weigering van de goedkeuring of tot commentaar over alle modelcontracten, reglementen, technische voorschrif-ten, procedures en formulieren van de distributienetbeheerders en de beheerder van het plaatselijk vervoersnet van elektriciteit, opgesteld ter uitvoering van de toepasselijke technische reglementen. Als de Vlaamse Nutsregulator aan de aanvrager bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen, eenmalig met dertig dagen verlengd.<br>
+<br>
 § 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de Vlaamse Nutsregulator.<br>
 <br>
 De technische reglementen treden pas in werking na bekendmaking in het Belgisch Staatsblad.
@@ -1927,18 +1931,20 @@ De technische reglementen treden pas in werking na bekendmaking in het Belgisch 
 
 § 1. De levering van elektriciteit en aardgas via het distributienet of het plaatselijk vervoersnet van elektriciteit, aan afnemers, is onderworpen aan de voorafgaande toekenning van een leveringsvergunning door de Vlaamse Nutsregulator.<br>
 <br>
-De levering van elektriciteit en aardgas door een netbeheerder in het kader van zijn taken, vermeld in artikel 4.1.6, of een openbaredienstverplichting die opgelegd is in dit decreet of een uitvoeringsbesluit ervan, is niet onderworpen aan de toekenning van een leveringsvergunning.<br>
+De levering van elektriciteit en aardgas door een netbeheerder in het kader van zijn taken, vermeld in artikel 4.1.6, of een openbaredienstverplichting die opgelegd is in dit decreet of een uitvoeringsbesluit ervan, is niet onderworpen aan de toekenning en behoud van een leveringsvergunning.<br>
 <br>
-§ 2. De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de voorwaarden en de procedure tot toekenning, wijziging en opheffing van een leveringsvergunning.<br>
+§ 2. De Vlaamse Regering bepaalt, na advies van de Vlaamse Nutsregulator, de voorwaarden en de procedure tot toekenning, behoud, wijziging en opheffing van een leveringsvergunning.<br>
 <br>
 De voorwaarden tot toekenning van een leveringsvergunning hebben in ieder geval betrekking op :<br>
 1° de technische, organisatorische en financiële capaciteit van de aanvrager;<br>
 2° de professionele betrouwbaarheid van de aanvrager;<br>
 3° de capaciteit van de aanvrager om aan de behoeften van zijn afnemers te voldoen;<br>
-4° de openbaredienstverplichtingen die opgelegd zijn aan de leveranciers volgens dit decreet of de uitvoeringsbepalingen ervan;<br>
+4° de naleving van de openbaredienstverplichtingen die opgelegd zijn aan de leveranciers volgens dit decreet of de uitvoeringsbepalingen ervan;<br>
 5° de beheersmatige en juridische onafhankelijkheid van de aanvrager ten opzichte van de netbeheerders.<br>
 <br>
-Bij gebrek aan een beslissing door de Vlaamse Nutsregulator binnen twee maanden na de ontvangst van een volledig aanvraagdossier, waarvan het model wordt vastgesteld door de Vlaamse Nutsregulator, wordt de leveringsvergunning geacht verleend te zijn.<br>
+De Vlaamse Nutsregulator legt het model van het aanvraagdossier tot toe-kenning van een leveringsvergunning vast.<br>
+<br>
+De Vlaamse Nutsregulator maakt zijn beslissing binnen negentig dagen na de dag waarop hij de aanvraag heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de aanvrager van de leveringsvergunning. Als de Vlaamse Nutsregulator aan de aanvrager van de leveringsvergunning bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen, eenmalig met dertig dagen verlengd.<br>
 <br>
 Het faillissement of de gerechtelijke reorganisatie van de houder van een leveringsvergunning leidt van rechtswege tot de opheffing van de leveringsvergunning.<br>
 <br>
@@ -2220,7 +2226,7 @@ De beheerder van het gesloten distributienet kan de toegang tot zijn net alleen 
 3° de beheerder van het gesloten distributienet oordeelt dat er een ernstig risico bestaat voor de veiligheid van personen of materieel;<br>
 4° voor een individueel toegangspunt, het aansluitingsvermogen op aanzienlijke wijze overschreden wordt.<br>
 <br>
-§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het gesloten distributienet kan overeenkomstig artikel 4.1.35, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de Vlaamse Nutsregulator.<br>
+§ 4. Tegen een weigering, opschorting of beëindiging van toegang tot het gesloten distributienet kan overeenkomstig artikel 4.1.36, zonder voorafgaande bemiddeling, een geschillenbeslechtingsprocedure gevoerd worden bij de Vlaamse Nutsregulator.<br>
 <br>
 Als de Vlaamse Nutsregulator oordeelt dat de weigering, opschorting of beëindiging van de toegang onterecht was, geeft de beheerder van het gesloten distributienet de betrokken persoon alsnog of opnieuw toegang tot zijn net.<br>
 <br>
@@ -2247,7 +2253,7 @@ De Vlaamse Nutsregulator moet de tarieven of de methodes om de tarieven voor de 
 1° privédistributienetten waarbij de distributie van elektriciteit of aardgas een inherent en ondergeschikt karakter heeft ten opzichte van het geheel van diensten die door de beheerder van het privédistributienet aan de achterliggende afnemer worden geleverd, zoals bij garageverhuur, bij verhuur van een studentenkamer, een verblijfplaats in een recreatie- of vakantiepark, een kamer in een rusthuis, de terbeschikkingstelling van een standplaats bij markten, evenementen en kermissen;<br>
 2° laadpunten voor voertuigen.<br>
 <br>
-Een privédistributienet kan een openbare weg, waterloop, treinspoor of ander openbaar domein alleen kruisen als hiertoe toestemming van de distributienetbeheerder verkregen is. De netbeheerder beslist over de toestemming binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de netbeheerder oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de netbeheerder aan de aanvrager mee dat de termijn van zestig kalenderdagen verlengd wordt tot een termijn van negentig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel.<br>
+Een privédistributienet kan een openbare weg, waterloop, treinspoor of ander openbaar domein alleen kruisen als hiertoe toestemming van de distributienetbeheerder verkregen is. De netbeheerder beslist over de toestemming binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de netbeheerder oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de netbeheerder aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel.<br>
 <br>
 Als door de aanleg van een privédistributienet het openbaar domein of een gemeenteweg moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het privédistributienet pas worden aangevat als de toelating van de distributienetbeheerder, vermeld in het tweede lid, verworven is.
 
@@ -2797,6 +2803,10 @@ De Vlaamse Regering legt de nadere toepassingsregels en procedures vast met betr
 
 De door de Vlaamse Nutsregulator toegekende groenestroom-certificaten en warmtekrachtcertificaten worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per certificaat in de centrale databank moeten worden vermeld.<br>
 <br>
+Voor de uitvoering van zijn taken heeft het VEKA lees- en schrijfrecht in die centrale databank.<br>
+<br>
+De netbeheerders en de transmissienetbeheerder hebben lees- en schrijfrecht in die centrale databank, wat betreft de uitvoering van de taken die hen door of krachtens artikel 7.1.3 zijn opgedragen.<br>
+<br>
 Jaarlijks wordt door de Vlaamse Nutsregulator uiterlijk op 31 januari het aantal groenestroomcertificaten en warmte-krachtcertificaten dat gedurende het vorige kalenderjaar aan rechtspersonen is toegekend, actief openbaar gemaakt. De voormelde openbaar- making bevat al de volgende elementen per rechtspersoon:<br>
 1° het ondernemingsnummer, vermeld in artikel III.17 van het Wetboek van economisch recht, van de certificaatgerechtigde en ook de naam, het postnummer, de gemeente en het land die aan dat ondernemingsnummer of vergelijk- baar identificatienummer gekoppeld zijn;<br>
 2° het adres van de productie-installatie waar de certificaten terechtkomen, op basis van het postnummer van het vestigingsnummer of de andere lokalisatieparameter in het dossierbehandelingssysteem;<br>
@@ -3036,7 +3046,7 @@ Wanneer een bandingfactor wordt vastgelegd voor een installatie voor de producti
 De Vlaamse Regering stelt ook voor elk jaar een bruto binnenlandse groenestroomproductie voorop en legt indicatieve subdoelstellingen per hernieuwbare energiebron vast die erop gericht zijn de vooropgestelde bruto binnenlandse groenestroomproductie te bereiken.<br>
 <br>
 § 3. In afwijking van paragraaf 2 wordt Ev vanaf 31 maart 2017 verminderd met de volgende hoeveelheden:<br>
-1° voor de afname tussen 1000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. Die vermindering geldt alleen voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code 05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code 46391, RSZ-code 52100 of RSZ-code 52241 en geldt enkel voor bedrijfsvestigingen waarvan hogervermelde RSZ-codes op 31 december van het afnamejaar door de toegangshouder in het toegangsregister zijn geregistreerd. Hiertoe dient de afnemer de betreffende RSZ-code mee te delen aan zijn toegangshouder;<br>
+1° voor de afname tussen 1000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. Die vermindering geldt alleen voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2025 RSZ-code 05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code 46391, RSZ-code 52100 of RSZ-code 52241 en geldt enkel voor bedrijfsvestigingen waarvan hogervermelde RSZ-codes op 31 december van het afnamejaar door de toegangshouder in het toegangsregister zijn geregistreerd. Hiertoe dient de afnemer de betreffende RSZ-code mee te delen aan zijn toegangshouder;<br>
 2° voor de afname tussen 20.000 MWh en 100.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 80% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 3° voor de afname tussen 100.000 MWh en 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 80% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 4° voor de afname boven 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 98% van die afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
@@ -3097,8 +3107,8 @@ Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in h
 Wanneer een bandingfactor wordt vastgelegd voor een warmte-krachtinstallatie met een nominaal elektrisch vermogen van meer dan 50 MW, wordt het aantal in te dienen warmte-krachtcertificaten geëvalueerd en eventueel verhoogd door de Vlaamse Regering.<br>
 <br>
 § 2/1. In afwijking van paragraaf 2 wordt Ev vanaf 31 maart 2017 verminderd met de volgende hoeveelheden:<br>
-1° voor de afname tussen 1000 MWh en 5000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code&nbsp;05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code&nbsp;46391 of RSZ-code&nbsp;52100 of code 52241;<br>
-2° voor de afname tussen 5000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2008 RSZ-code&nbsp;05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code&nbsp;46391 of RSZ-code&nbsp;52100 of RSZ-code&nbsp;52241;<br>
+1° voor de afname tussen 1000 MWh en 5000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2025 RSZ-code&nbsp;05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code&nbsp;46391 of RSZ-code&nbsp;52100 of code 52241;<br>
+2° voor de afname tussen 5000 MWh en 20.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 47% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was. De vermindering geldt enkel voor bedrijfsvestigingen waarvan de hoofdactiviteit behoort tot NACE-BEL 2025 RSZ-code&nbsp;05 tot en met 33 (industrie en winning van delfstoffen), RSZ-code&nbsp;46391 of RSZ-code&nbsp;52100 of RSZ-code&nbsp;52241;<br>
 3° voor de afname tussen 20.000 MWh en 100.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 50% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 4° voor de afname tussen 100.000 MWh en 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 80% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was;<br>
 5° voor de afname boven 250.000 MWh elektriciteit in het jaar n-1 op een bepaald afnamepunt, 85% van deze afnameschijf, uitgedrukt in MWh, naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarin de betrokken persoon toegangshouder was.<br>
@@ -3172,6 +3182,13 @@ De Vlaamse Nutsregulator kent die garanties van oorsprong toe op basis van de pr
 § 2/1. De Vlaamse Regering kan uitzonderingen vastleggen voor de toekenning van garanties van oorsprong, afhankelijk van een minimumcapaciteit van de productie-installatie, het ontvangen van financiële steun en het al dan niet verbruiken van energie ter plaatse op de site van opwekking.<br>
 <br>
 § 3. De garanties van oorsprong die de Vlaamse Nutsregulator toegekend heeft, worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per garantie van oorsprong in de centrale databank worden opgenomen.<br>
+<br>
+Voor de uitvoering van zijn taken heeft het VEKA lees- en schrijfrecht in die centrale databank.<br>
+<br>
+Voor de uitvoering van de taken die hen door of krachtens dit artikel zijn opgedragen hebben de volgende instanties lees- en schrijfrecht in de centrale databank:<br>
+1°&nbsp;&nbsp; &nbsp;wat betreft elektriciteit: de elektriciteitsdistributienetbeheerders, de beheerder van het plaatselijk vervoersnet van elektriciteit en de transmissienetbeheerder;<br>
+2°&nbsp;&nbsp; &nbsp;wat betreft gas: de aardgasdistributienetbeheerder en de beheerder van het vervoersnet;<br>
+3°&nbsp;&nbsp; &nbsp;wat betreft warmte of koude: de warmte- en koudenetbeheerders.<br>
 <br>
 Jaarlijks wordt door de Vlaamse Nutsregulator uiterlijk op 31 januari het aantal garanties van oorsprong dat gedurende het vorige kalenderjaar aan rechtspersonen is toegekend actief openbaar gemaakt. De voormelde openbaarmaking bevat al de volgende elementen per rechtspersoon:<br>
 1° het ondernemingsnummer, vermeld in artikel III.17 van het Wetboek van economisch recht, van de ontvanger van de garanties van oorsprong en ook de naam, het postnummer, de gemeente en het land die aan dat ondernemingsnummer of vergelijkbaar identificatienummer gekoppeld zijn;<br>
@@ -3374,32 +3391,48 @@ De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplicht
 
 ### ART. 7.7.2.
 
-§ 1. De Vlaamse Regering kan aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen verplichtingen opleggen om hen aan te zetten hun energiegebruik te rationaliseren en gebruik te maken van hernieuwbare energietechnologieën.<br>
+§1. De Vlaamse Regering kan aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen verplichtingen opleggen om hen aan te zetten hun energiegebruik te rationaliseren en gebruik te maken van hernieuwbare energietechnologieën.<br>
 <br>
-§ 2. De verplichtingen, vermeld in § 1, omvatten :<br>
+§2. De verplichtingen, vermeld in § 1, omvatten :<br>
 1° het opzetten van een energieboekhouding;<br>
 2° het uitvoeren van rendabele investeringen, die al dan niet ter kennis worden gebracht door&nbsp;een energieaudit, een energieplan of een energiestudie;<br>
 3° het periodiek dan wel eenmalig laten opmaken van&nbsp;een energieaudit, een energieplan en/of een energiestudie door een energiedeskundige.<br>
 <br>
 De Vlaamse Regering kan voor een of meer van de voorgaande verplichtingen vrijstelling verlenen en/of de periodiciteit bepalen.<br>
 <br>
-§ 3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de rendabele investeringen. De Vlaamse Regering evalueert om de vier jaar en voor het eerst in 2012 de definitie van rendabele investeringen, zoals bepaald in artikel 1.1.3, 111°. De Vlaamse Regering wordt gemachtigd om na evaluatie een nieuwe interne rentevoet na belastingen vast te leggen.<br>
+§3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de rendabele investeringen. De Vlaamse Regering evalueert om de vier jaar en voor het eerst in 2012 de definitie van rendabele investeringen, zoals bepaald in artikel 1.1.3, 111°. De Vlaamse Regering wordt gemachtigd om na evaluatie een nieuwe interne rentevoet na belastingen vast te leggen.<br>
 <br>
-§ 4. De Vlaamse Regering kan een instantie aanduiden die de&nbsp;energieaudits, de energieplannen en de energiestudies conform moet verklaren.<br>
+§4. De Vlaamse Regering kan een instantie aanduiden die de&nbsp;energieaudits, de energieplannen en de energiestudies conform moet verklaren.<br>
 <br>
-§ 5. De energiedeskundige stelt de energieaudits, de energieplannen en de energiestudies ter beschikking van de bedrijfsleiding en, in voorkomend geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of bij ontstentenis van die organen, de vakbondsafvaardiging.<br>
+§5. De energiedeskundige stelt de energieaudits, de energieplannen en de energiestudies ter beschikking van de bedrijfsleiding en, in voorkomend geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of bij ontstentenis van die organen, de vakbondsafvaardiging.<br>
 <br>
-§ 6. De Vlaamse Regering bepaalt de concrete opmaak, de inhoud en, in voorkomend geval, de conformverklaring van de energieaudits, de energieplannen en energiestudies.<br>
+§6. De Vlaamse Regering bepaalt de concrete opmaak, de inhoud en, in voorkomend geval, de conformverklaring van de energieaudits, de energieplannen en energiestudies.<br>
 <br>
-§ 7. Ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst met de Vlaamse Regering sluiten, moeten minstens voldoen aan de verplichtingen, vermeld in § 1, die gelden op het moment van het sluiten van de energiebeleidsovereenkomst.<br>
+§7. Ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst met de Vlaamse Regering sluiten, moeten minstens voldoen aan de verplichtingen, vermeld in § 1, die gelden op het moment van het sluiten van de energiebeleidsovereenkomst.<br>
 <br>
 Als de Vlaamse Regering op basis van § 1 verplichtingen oplegt, zijn die verplichtingen voor ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten, niet strenger dan de overeenkomstige bepalingen, opgenomen in de energiebeleidsovereenkomst en van die aard dat ze niet voor extra lasten zorgen ten opzichte van de overeenkomstige bepalingen in de energiebeleidsovereenkomst, behalve om te voldoen aan internationale of Europese verplichtingen, steeds rekening houdend met het engagement van het Vlaamse Gewest in de energiebeleidsovereenkomsten. In die gevallen pleegt de Vlaamse Regering vooraf overleg met de andere partijen van de energiebeleidsovereenkomst.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de te volgen overlegprocedure.<br>
 <br>
-§ 8. In afwijking van de vorige paragraaf kan de Vlaamse Regering verplichtingen, als vermeld in § 1, opleggen aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die de bepalingen van de gesloten energiebeleidsovereenkomst niet naleven.<br>
+§8. In afwijking van de vorige paragraaf kan de Vlaamse Regering verplichtingen, als vermeld in § 1, opleggen aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die de bepalingen van de gesloten energiebeleidsovereenkomst niet naleven.<br>
 <br>
-§ 9. De Vlaamse Regering kan de tegemoetkomingen, vermeld in titel VIII van dit decreet beperken tot de ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten.
+§9. De Vlaamse Regering kan de tegemoetkomingen, vermeld in titel VIII van dit decreet beperken tot de ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten.<br>
+<br>
+§10. De Vlaamse Regering kan, ter bevordering van hernieuwbare energiebronnen en het rationeel energieverbruik, aan de volgende rechtspersonen een meldingsplicht opleggen voor het jaarlijkse energieverbruik met betrekking tot de EAN-codes van de gebouwen van ondernemingen, niet-commerciële instellingen of publiekrechtelijke rechtspersonen, vermeld in paragraaf 1:<br>
+1°&nbsp; &nbsp; de distributienetbeheerders voor de jaarlijkse elektriciteit- en gasafname;<br>
+2°&nbsp;&nbsp; &nbsp;de beheerder van het plaatselijk vervoersnet van elektriciteit en de transmissienetbeheerder voor wat betreft de jaarlijkse elektriciteitsafname;<br>
+3°&nbsp;&nbsp; &nbsp;de beheerders van een gesloten distributienet voor de jaarlijkse elektriciteits- en gasafname;<br>
+4°&nbsp;&nbsp; &nbsp;de beheerders van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet voor de jaarlijkse elektriciteitsafname;<br>
+5°&nbsp;&nbsp; &nbsp;de warmte- of koudenetbeheerders voor de jaarlijkse afname van thermische energie;<br>
+6°&nbsp;&nbsp; &nbsp;de beheerders van netten, vermeld in artikel 1, 10° en 56°, van de federale Gaswet voor de jaarlijkse gasafname;<br>
+7°&nbsp;&nbsp; &nbsp;de beheerder van het vervoersnet voor de jaarlijkse gasafname;<br>
+8°&nbsp;&nbsp; &nbsp;de beheerder van een waterstofleiding of -net voor de distributie of het ver-voer van waterstof;<br>
+9°&nbsp;&nbsp; &nbsp;de beheerder van een kleinschalige waterstofopslaginstallatie, voor wat betreft de jaarlijkse afname van waterstof.<br>
+<br>
+Die meldingsplicht omvat de identificatie van de bijbehorende afnemers, met het oog op de handhaving van de verplichtingen, vermeld in paragraaf 1.<br>
+<br>
+De gegevens, vermeld in het eerste lid, worden opgenomen in de databank, vermeld in artikel 12.5.1.<br>
+&nbsp;
 
 ### ART 7.7.3.
 
@@ -3415,8 +3448,6 @@ De Vlaamse Regering kan de voorwaarden bepalen waaronder fotovoltaïsche zonnepa
 <br>
 De Vlaamse Regering kan uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen of delen van gebouwen, en kan daartoe de randvoorwaarden vastleggen. Het uitstel kan nooit meer dan vijf jaar bedragen vanaf het ingaan van het uitstel. De Vlaamse Regering kan in ieder geval uitzonderingen of een uitstel vaststellen voor de verplichting, vermeld in het eerste lid, voor gebouwen of delen van gebouwen die zullen worden gesloopt of waarvan het dak of een deel van het dak zal worden vervangen binnen een door de Vlaamse Regering te bepalen termijn. Het voormelde uitstel in geval van sloop van een gebouw of dakvervanging vervalt als de natuurlijke persoon of rechtspersoon die de eigenaar, erfpachter of opstalhouder is van een gebouw, niet binnen drie jaar na het ingaan van het uitstel een omgevingsvergunning voor stedenbouwkundige handelingen met betrekking tot sloop kan voorleggen, voor zover een omgevingsvergunning voor sloop is vereist, of niet binnen twee jaar na het ingaan van het uitstel een door een aannemer getekende offerte voor de vervanging van het dak kan voorleggen. Het voormelde uitstel in geval van sloop van een gebouw of dakvervanging vervalt ook als binnen vijf jaar na het ingaan van het uitstel dat aan de aanvrager is toegekend, het gebouw niet is gesloopt of het dak niet is vervangen.<br>
 <br>
-Een beroep bij een administratief rechtscollege betreffende de omgevingsvergunning voor sloop, vermeld in het zesde lid, schorst de termijnen, vermeld in het zesde lid, tweede, derde en vierde zin, voor zover een omgevingsvergunning voor sloop vereist is.<br>
-<br>
 §2. De Vlaamse Regering kan aan de eigenaar, erfpachter of opstalhouder van een gebouw als vermeld in paragraaf 1 een meldingsplicht opleggen met betrekking tot de dakoppervlakte, de elektriciteitsafname, de geïnstalleerde en operationele fotovoltaïsche zonnepanelen en andere vormen van hernieuwbare energie of participatie in een hernieuwbare-energieproject als vermeld in paragraaf 1, vijfde lid.<br>
 <br>
 §3. De Vlaamse Regering kan aan de netbeheerders, de transmissienetbeheerder, de beheerders van een gesloten distributienet, en de beheerders van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet, een meldingsplicht opleggen met betrekking tot de elektriciteitsafname en het bij hen aangemelde piekvermogen van geïnstalleerde en operationele fotovoltaïsche zonnepanelen met betrekking tot de EAN-codes van de gebouwen, vermeld in paragraaf 1, en het nominaal vermogen van andere vormen van hernieuwbare energie, vermeld in paragraaf 1, vijfde lid, alsook wat betreft de identificatie van de daarbij horende afnemers.<br>
@@ -3425,7 +3456,15 @@ Een beroep bij een administratief rechtscollege betreffende de omgevingsvergunni
 <br>
 §5. Op eenvoudig verzoek krijgt het VEKA voor de toepassing van de verplichting, vermeld in paragraaf 1, van het kadaster en de bewaarder der hypotheken, elk voor het eigen ambtsgebied, kosteloos toegang tot de documenten betreffende de eigendom en het gebruik van gebouwen of een kosteloze kopie daarvan.<br>
 <br>
-§6. De gegevens, vermeld in paragraaf 2 tot en met 5, worden opgenomen in de databank, vermeld in artikel 12.5.1.
+§5/1. Het VEKA kan voor de uitvoering van zijn taken in het kader van de monitoring, opvolging en handhaving van de verplichtingen, vermeld in paragraaf 1, de volgende persoonsgegevens of categorieën van persoonsgegevens opvragen en verwerken:<br>
+1° de authentieke aktes over de eigendom en het gebruik van gebouwen, vermeld in paragraaf 1;<br>
+2° de omgevingsvergunningen voor sloop of de omgevingsvergunningen met betrekking tot de plaatsing van installaties om te voldoen aan de verplichting, vermeld in paragraaf 1;<br>
+3° de gegevens over een beroep bij een administratief rechtscollege betreffende de omgevingsvergunningen, vermeld in punt 2°;<br>
+4° de gegevens over faillissementsprocedures of de gerechtelijke reorganisatie van de eigenaars, erfpachters of opstalhouders van gebouwen, vermeld in paragraaf 1.<br>
+<br>
+§6. De gegevens, vermeld in paragraaf 2 tot en met 5/1, worden opgenomen in de databank, vermeld in artikel 12.5.1.<br>
+<br>
+In afwijking van artikel 12.5.1, §4, eerste lid, worden de persoonsgegevens, vermeld in paragraaf 5/1, gedurende een periode van tien jaar bewaard.
 
 ## HOOFDSTUK VIII. Energiebesparing bij overheidsinstanties
 
@@ -3445,35 +3484,35 @@ Een beroep bij een administratief rechtscollege betreffende de omgevingsvergunni
 
 ### ART 7.8.2
 
-§1. Met behoud van de toepassing van de verplichtingen, vermeld in artikel 7.8.1, verplicht de Vlaamse Regering de overheidsinstanties vanaf 2025 om jaarlijks een energiebesparing in hun verwarmde en/of gekoelde gebouwen in volle eigendom, erfpacht of opstal te realiseren die minstens equivalent is aan de energiebesparing door renovatie van minstens drie procent van de totale bruikbare vloeroppervlakte van verwarmde en/of gekoelde gebouwen die overheidsinstanties in volle eigendom, erfpacht of opstal hebben, tot een minimaal energieprestatieniveau dat de Vlaamse Regering bepaalt.<br>
+§1. Met behoud van de toepassing van de verplichtingen, vermeld in artikel 7.8.1, verplicht de Vlaamse Regering de overheidsinstanties vanaf 2025 om jaarlijks een energiebesparing in hun verwarmde en/of gekoelde gebouwen en gebouweenheden in volle eigendom, erfpacht of opstal te realiseren die minstens equivalent is aan de energiebesparing door renovatie van minstens drie procent van de totale bruikbare vloeroppervlakte van verwarmde en/of gekoelde gebouwen&nbsp;en gebouweenheden die overheidsinstanties in volle eigendom, erfpacht of opstal hebben, tot een minimaal energieprestatieniveau dat de Vlaamse Regering bepaalt.<br>
 <br>
-De totale bruikbare vloeroppervlakte, vermeld in het eerste lid, wordt berekend op basis van de vloeroppervlakte van alle verwarmde en gekoelde gebouwen met een bruikbare vloeroppervlakte van meer dan 250 m², met uitsluiting van alle gebouwen die op 1 januari 2024 voldoen aan de minimale energieprestatieniveaus die de Vlaamse Regering bepaalt. De Vlaamse Regering kan, met inachtneming van kostenefficiëntie en technische vereisten, categorieën van gebouwen uitsluiten bij de berekening van de totale bruikbare vloeroppervlakte.<br>
+De totale bruikbare vloeroppervlakte, vermeld in het eerste lid, wordt berekend op basis van de vloeroppervlakte van alle verwarmde en gekoelde gebouwen met een bruikbare vloeroppervlakte van meer dan 250 m², met uitsluiting van alle gebouwen&nbsp;en gebouweenheden die op 1 januari 2024 voldoen aan de minimale energieprestatieniveaus die de Vlaamse Regering bepaalt. De Vlaamse Regering kan, met inachtneming van kostenefficiëntie en technische vereisten, categorieën van gebouwen of gebouweenheden uitsluiten bij de berekening van de totale bruikbare vloeroppervlakte.<br>
 <br>
-§2. In afwijking van paragraaf 1 kan de Vlaamse Regering afwijkende normen voor renovatie bepalen voor de volgende categorieën van gebouwen:<br>
-1° beschermde monumenten of gebouwen die deel uitmaken van een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht of gebouwen die opgenomen zijn in de vastgestelde inventaris van het bouwkundige erfgoed als de toepassing van de eisen, vermeld in paragraaf 1, hun karakter of aanzicht op onaanvaardbare wijze zou veranderen;<br>
-2° gebouwen in eigendom van defensie of gebouwen die gebruikt worden voor defensiedoeleinden, met uitzondering van de vrijstaande woongebouwen of kantoorgebouwen;<br>
-3° &nbsp; gebouwen die worden gebruikt voor erediensten en religieuze activiteiten.<br>
+§2. In afwijking van paragraaf 1 kan de Vlaamse Regering afwijkende normen voor renovatie bepalen voor de volgende categorieën van gebouwen en gebouweenheden:<br>
+1° beschermde monumenten of gebouwen of gebouweenheden die deel uitmaken van een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht of gebouwen die opgenomen zijn in de vastgestelde inventaris van het bouwkundige erfgoed als de toepassing van de eisen, vermeld in paragraaf 1, hun karakter of aanzicht op onaanvaardbare wijze zou veranderen;<br>
+2° gebouwen of gebouweenheden in eigendom van defensie of gebouwen die gebruikt worden voor defensiedoeleinden, met uitzondering van de vrijstaande woongebouwen of kantoorgebouwen;<br>
+3° gebouwen of gebouweenheden die worden gebruikt voor erediensten en religieuze activiteiten.<br>
 <br>
-De renovatie van een gebouw, vermeld in het eerste lid, draagt bij tot de verplichting, vermeld in paragraaf 1.<br>
+De renovatie van een gebouw of gebouweenheid, vermeld in het eerste lid, draagt bij tot de verplichting, vermeld in paragraaf 1.<br>
 <br>
-§3. De Vlaamse Regering kan een overheidsinstantie vrijstellen van de verplichting, vermeld in paragraaf 1, als de overheidsinstantie aantoont dat het niet technisch of economisch mogelijk is om het gebouw te renoveren tot de minimale energieprestatieniveaus, vermeld in paragraaf 1. Een overheidsinstantie die de voormelde vrijstelling heeft gekregen, renoveert het gebouw in kwestie tot een technisch of economisch aanvaardbaar niveau.<br>
+§3. De Vlaamse Regering kan een overheidsinstantie vrijstellen van de verplichting, vermeld in paragraaf 1, als de overheidsinstantie aantoont dat het niet technisch of economisch mogelijk is om het gebouw of de gebouweenheid te renoveren tot de minimale energieprestatieniveaus, vermeld in paragraaf 1. Een overheidsinstantie die de voormelde vrijstelling heeft gekregen, renoveert het gebouw&nbsp;of de gebouweenheid in kwestie tot een technisch of economisch aanvaardbaar niveau.<br>
 &nbsp;<br>
-De Vlaamse Regering kan gebouwen voor sociale huisvesting vrijstellen van de verplichting, vermeld in paragraaf 1, als het verantwoordelijke openbaar bestuur voor die sociale huisvesting aantoont dat de benodigde investeringen niet kostenneutraal uitgevoerd kunnen worden of leiden tot verhoogde huurprijzen die de verlaging van de energiefactuur door renovatie overstijgen.<br>
+De Vlaamse Regering kan gebouwen&nbsp;en gebouweenheden voor sociale huisvesting vrijstellen van de verplichting, vermeld in paragraaf 1, als de verantwoordelijke overheidsinstantie voor die sociale huisvesting aantoont dat de benodigde investeringen niet kostenneutraal uitgevoerd kunnen worden of leiden tot verhoogde huurprijzen die de verlaging van de energiefactuur door renovatie overstijgen.<br>
 <br>
 De renovatie van een gebouw waarvoor een vrijstelling als vermeld in het eerste en tweede lid is verleend, draagt niet bij tot de verplichting, vermeld in paragraaf 1.<br>
 <br>
-§4. Een overheidsinstantie die in uitvoering van de verplichtingen, vermeld in paragraaf 1 tot en met 3, in een kalenderjaar een energiebesparing realiseert die groter is dan de energiebesparing die gepaard gaat met een renovatie van drie procent van de totale bruikbare vloeroppervlakte van haar gebouwen kan:<br>
+§4. Een overheidsinstantie die in uitvoering van de verplichtingen, vermeld in paragraaf 1 tot en met 3, in een kalenderjaar een energiebesparing realiseert die groter is dan de energiebesparing die gepaard gaat met een renovatie van drie procent van de totale bruikbare vloeroppervlakte van haar gebouwen of gebouweenheden kan:<br>
 1° tot en met 31 december 2026, het overschot meetellen bij de vereiste energiebesparing van een van de drie jaren daarna;<br>
 2° vanaf 1 januari 2027 het overschot optellen bij de vereiste energiebesparing van de twee volgende jaren.<br>
 <br>
-§5. De Vlaamse Regering kan nadere rapporteringsvereisten bepalen waaraan de overheidsinstanties voldoen om aan te tonen dat de verplichtingen, vermeld in dit artikel, zijn vervuld.
+§5. De Vlaamse Regering kan nadere vereisten bepalen waaraan de overheidsinstanties voldoen om aan te tonen dat de verplichtingen, vermeld in dit artikel, zijn vervuld.
 
 ### ART 7.8.3.
 
-Een overheidsinstantie die een verwarmd of gekoeld gebouw gebruikt waarvan het zelf geen volle eigenaar is of waarvoor het niet over een erfpacht of opstalrecht beschikt, treedt in onderhandeling over het sluiten van een overeenkomst met respectievelijk de volle eigenaar, erfpachtgever of opstalgever van het gebouw in kwestie met het oog op de renovatie van het gebouw tot de minimale energieprestatieniveaus, vermeld in artikel 7.8.2, §1.<br>
+Een overheidsinstantie die een verwarmd of gekoeld gebouw of gebouweenheid gebruikt waarvan het zelf geen volle eigenaar is of waarvoor het niet over een erfpacht of opstalrecht beschikt, treedt in onderhandeling over het sluiten van een overeenkomst met respectievelijk de volle eigenaar, erfpachtgever of opstalgever van het gebouw of de gebouweenheid in kwestie met het oog op de renovatie van het gebouw of de gebouweenheid tot de minimale energieprestatieniveaus, vermeld in artikel 7.8.2, §1.<br>
 <br>
 De onderhandeling, vermeld in het eerste lid, vindt minstens plaats in de volgende gevallen:<br>
-1° het gebruiksrecht van het openbaar bestuur op het gebouw wordt verlengd; 2° aan het gebouw worden stedenbouwkundige handelingen uitgevoerd als ver-<br>
+1° het gebruiksrecht van de overheidsinstantie op het gebouw wordt verlengd; 2° aan het gebouw worden stedenbouwkundige handelingen uitgevoerd als ver-<br>
 meld in artikel 4.2.1, 1°, 6° en 7°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
 3° er worden meldingsplichtige handelingen uitgevoerd als vermeld in artikel 2, 3, 4 en 5/1 van het besluit van de Vlaamse Regering van 16 juli 2010 betreffende de meldingsplichtige handelingen ter uitvoering van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
@@ -3751,7 +3790,7 @@ d)&nbsp;&nbsp; &nbsp;de eigendom of zakelijke rechten die erop zijn gevestigd;<b
 <br>
 De Vlaamse Regering bepaalt voor welk type lening welke persoonsgegevens of categorieën van persoonsgegevens opgevraagd en verwerkt kunnen worden.<br>
 <br>
-Om na te gaan of de kredietnemer recht heeft op de lening, kan het energiehuis, conform artikel 6, lid 1, c), en artikel 9, lid 2, g), van de algemene verordening gegevensbescherming, een beroep doen op de bevoegde diensten van de Federale Overheidsdienst Financiën, op het Rijksregister, op de Kruispuntbank van de Sociale Zekerheid, op het Vlaams Energie- en Klimaatagentschap, op de lokale besturen en op het toegangsregister om digitaal toegang te krijgen tot de noodzakelijke gegevens, conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze, in voorkomend geval, op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+Om na te gaan of de kredietnemer recht heeft op de lening, kan het energiehuis, conform artikel 6, lid 1, c), en artikel 9, lid 2, g), van de algemene verordening gegevensbescherming, een beroep doen op de bevoegde diensten van de Federale Overheidsdienst Financiën, op het Rijksregister, op de Kruispuntbank van de Sociale Zekerheid, op het VEKA, op de lokale besturen, op het uniek loket in de zin van artikel 12.6.1 van dit decreet en artikel 5.75/1 van de Vlaamse Codex Wonen van 2021 en op het toegangsregister om digitaal toegang te krijgen tot de noodzakelijke gegevens, conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze, in voorkomend geval, op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 &nbsp;<br>
 Voor de unieke identificatie van de betrokkene kan het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opgevraagd en verwerkt worden.<br>
 <br>
@@ -4047,18 +4086,24 @@ De Vlaamse Regering kan in het kader van haar beleid over het rationeel energieg
 
 ### ART 11.1/1.2.
 
-Niet-residentiële gebouwen met verwarmingssystemen of met gecombineerde ruimteverwarmingsen ventilatiesystemen met een nominaal vermogen van meer dan 290 kW en niet-residentiële gebouwen met airconditioningsystemen of gecombineerde airconditioningen ventilatiesystemen met een nominaal vermogen van meer dan 290 kW, hebben uiterlijk op 31 december 2025 gebouwautomatisering en -controlesystemen.<br>
+Niet-residentiële gebouwen met verwarmingssystemen of met gecombineerde ruimteverwarmingsen ventilatiesystemen met een nominaal vermogen van meer dan 290 kW en niet-residentiële gebouwen met airconditioningsystemen of gecombineerde airconditioningen ventilatiesystemen met een nominaal vermogen van meer dan 290 kW, hebben uiterlijk op 31 december 2025 gebouwautomatisering en -controlesystemen.&nbsp;Vanaf 31 december 2029 geldt deze eis voor een nominaal vermogen van meer dan 70 kW.<br>
 <br>
 De gebouwautomatisering en -controlesystemen, vermeld in het eerste lid, kunnen ten minste:<br>
 1° het energieverbruik permanent controleren, bijhouden, analyseren en de bijsturing ervan mogelijk maken;<br>
 2° de energie-efficiëntie van het gebouw toetsen, rendementsverliezen van technische bouwsystemen opsporen, en de persoon die verantwoordelijk is voor het beheer van de voorzieningen of de technische installaties, informeren over de mogelijkheden om de energie-efficiëntie te verbeteren;<br>
-3° communicatie met verbonden technische bouwsystemen en andere apparaten in het gebouw mogelijk maken, en interoperabel zijn met technische bouwsystemen van verschillende soorten eigendomstechnologieën, toestellen en fabrikanten.<br>
+3° communicatie met verbonden technische bouwsystemen en andere apparaten in het gebouw mogelijk maken, en interoperabel zijn met technische bouwsystemen van verschillende soorten eigendomstechnologieën, toestellen en fabrikanten;<br>
+4° de binnenmilieukwaliteit monitoren.<br>
 <br>
 De Vlaamse Regering kan uitzonderingen bepalen voor gevallen waar het technisch of economisch niet haalbaar is om gebouwen van gebouwautomatisering en -controlesystemen te voorzien.<br>
 <br>
 De Vlaamse Regering kan voor bepaalde gebouwen die voldoen aan de voorwaarden, vermeld in het eerste en tweede lid, vrijstellingen bepalen met betrekking tot verplichtingen aangaande regelmatige keuringen van:<br>
 1° de toegankelijke delen van verwarmingssystemen of van gecombineerde ruimteverwarmings-en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW;<br>
-2° de toegankelijke delen van airconditioningsystemen of gecombineerde airconditionings-en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW.
+2° de toegankelijke delen van airconditioningsystemen of gecombineerde airconditionings-en ventilatiesystemen met een nominaal vermogen van meer dan 70 kW.<br>
+<br>
+De Vlaamse Regering kan bepalen hoe het nominaal vermogen berekend wordt en kan nadere vereisten bepalen voor een systeem voor gebouwautomatisering en -controle.<br>
+<br>
+De Vlaamse Regering kan de eigenaars, de houders van een zakelijk recht of gebruikers van een gebouw of installatie opleggen dat het gebouw over een systeem voor gebouwautomatisering en -controle beschikt.<br>
+&nbsp;
 
 ### ART 11.1/1.3.
 
@@ -4080,7 +4125,7 @@ Het energieprestatiecertificaat bevat referentiewaarden op basis waarvan de ener
 <br>
 De Vlaamse Regering bepaalt de berekeningsmethode, de verdere inhoud en de vorm van het energieprestatiecertificaat.<br>
 <br>
-De Vlaamse Regering kan ook nadere regels vastleggen voor de labeling van gebouwen. De Vlaamse Regering kan daarbij ook bepalen dat gebouwen een minimaal energieprestatielabel moeten behalen. De Vlaamse Regering kan daarbij een onderscheid maken naar type van gebouw.&nbsp;<br>
+De Vlaamse Regering kan ook nadere regels vastleggen voor de labeling van gebouwen, gebouweenheden of groepen van gebouwen en gebouweenheden. De Vlaamse Regering kan daarbij bepalen dat gebouwen, gebouweenheden of groepen van gebouwen of gebouweenheden een minimaal energieprestatielabel behalen. De Vlaamse Regering kan daarbij een onderscheid maken naar type van gebouw of gebouweenheid.&nbsp;<br>
 <br>
 De geldigheidsduur van een energieprestatiecertificaat kan niet langer zijn dan tien jaar. De Vlaamse Regering bepaalt de gevallen waarin een energieprestatiecertificaat kan worden ingetrokken of aangepast.<br>
 <br>
@@ -4097,7 +4142,22 @@ De Vlaamse Regering kan bepalen welke delen van het energieprestatiecertificaat 
 §3. Elke verkoper, verhuurder, erfpachtgever, opstalgever, houder van een zakelijk recht, en ook de opdrachthouder, lasthebber of gevolmachtigde, vermeldt de volgende gegevens in alle commerciële advertenties die hij plaatst of laat plaatsen voor de verkoop of verhuur van een gebouw of de vestiging van een zakelijk recht erop, dat conform paragraaf 1 over een energieprestatiecertificaat beschikt:<br>
 1° de energiescore of het label, bepaald op basis van de energiescore, zoals vermeld op het energieprestatiecertificaat;<br>
 2° het aandeel hernieuwbare energie of het label, bepaald op basis van het aandeel hernieuwbare energie, zoals vermeld op het energieprestatiecertificaat;<br>
-3° de unieke code van het energieprestatiecertificaat of het adres van het gebouw.
+3° de unieke code van het energieprestatiecertificaat of het adres van het gebouw.<br>
+<br>
+§4. De Vlaamse Regering kan, in het kader van de handhaving van de kwaliteit van het energieprestatiecertificaat voor niet-residentiële gebouwen, aan de volgende rechtspersonen een meldingsplicht opleggen voor het jaarlijkse energieverbruik met betrekking tot de EAN-codes van de gebouwen van ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen:<br>
+1°&nbsp;&nbsp; &nbsp;de distributienetbeheerders voor de jaarlijkse elektriciteit- en gasafname;<br>
+2°&nbsp;&nbsp; &nbsp;de beheerder van het plaatselijk vervoersnet van elektriciteit en de transmissienetbeheerder voor de jaarlijkse elektriciteitsafname;<br>
+3°&nbsp;&nbsp; &nbsp;de beheerders van een gesloten distributienet voor de jaarlijkse elektriciteits- en gasafname;<br>
+4°&nbsp;&nbsp; &nbsp;de beheerders van de netten, vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet voor de jaarlijkse elektriciteitsafname;<br>
+5°&nbsp;&nbsp; &nbsp;de warmte- of koudenetbeheerders voor de jaarlijkse afname van thermische energie;<br>
+6°&nbsp;&nbsp; &nbsp;de beheerders van de netten, vermeld in artikel 1, 10° en 56°, van de federale Gaswet voor de jaarlijkse gasafname;<br>
+7°&nbsp;&nbsp; &nbsp;de beheerder van het vervoersnet voor de jaarlijkse gasafname;<br>
+8°&nbsp;&nbsp; &nbsp;de beheerder van een waterstofleiding of -net voor de distributie of het vervoer van waterstof;<br>
+9°&nbsp;&nbsp; &nbsp;de beheerder van een kleinschalige waterstofopslaginstallatie, voor de jaarlijkse afname van waterstof.<br>
+<br>
+Die meldingsplicht omvat de identificatie van de bijbehorende afnemers, met het oog op de handhaving van de krachtens artikel 10.1.2 opgelegde verplichtingen voor de opmaak van het energieprestatiecertificaat voor niet-residentiële gebouwen.<br>
+<br>
+De gegevens, vermeld in het eerste lid, worden opgenomen in de databank, vermeld in artikel 12.5.1.
 
 ### ART. 11.2.2.
 
@@ -4201,7 +4261,7 @@ De energiebalans bevat de volgende gegevens :<br />1° globaal :<br />a) het pri
 
 ### ART. 12.2.1.
 
-De Vlaamse Regering kan verplichtingen opleggen aan elke&nbsp;beheerder van een warmte- of koudenet,&nbsp;beheerder van een waterstofleiding of -net voor de distributie of het vervoer van waterstof, beheerder van een kleinschalige waterstofopslaginstallatie, beheerder van een distributienet, transmissienet, aardgasdistributienet, vervoersnet, gesloten distributienet, directe lijn, directe leiding, privédistributienet en net als vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet,&nbsp;elke waterstofproducent en verbruiker van waterstof, elke energieleverancier en elke exploitant van een energie-opwekkingsinstallatie, om het VEKA accurate, volledige en consistente mededeling te doen van noodzakelijke gegevens voor het opmaken van het energierapport en voor de onderbouwing van het Vlaamse beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid. De Vlaamse Regering legt de eisen vast inzake accuraatheid, volledigheid en consistentie. De te verstrekken gegevens hebben minstens betrekking op :<br>
+De Vlaamse Regering kan verplichtingen opleggen aan elke&nbsp;beheerder van een warmte- of koudenet,&nbsp;beheerder van een waterstofleiding of -net voor de distributie of het vervoer van waterstof, beheerder van een kleinschalige waterstofopslaginstallatie, beheerder van een distributienet, transmissienet, aardgasdistributienet, vervoersnet, gesloten distributienet, directe lijn, directe leiding, privédistributienet en net als vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet,&nbsp;elke waterstofproducent en verbruiker van waterstof,&nbsp;elke energieverbruiker met een verbruik van minstens 10 terajoule, elke energieleverancier en elke exploitant van een energie-opwekkingsinstallatie, om het VEKA accurate, volledige en consistente mededeling te doen van noodzakelijke gegevens voor het opmaken van het energierapport en voor de onderbouwing van het Vlaamse beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid. De Vlaamse Regering legt de eisen vast inzake accuraatheid, volledigheid en consistentie. De te verstrekken gegevens hebben minstens betrekking op :<br>
 1° de afname en het verbruik van energie door objectief omschreven categorieën van afnemers van elektriciteit, aardgas, thermische energie en andere energiebronnen en het verbruiksprofiel van die afnemers;<br>
 2° de kenmerken van energie-opwekkingsinstallaties en de hoeveelheid verwerkte en opgewekte energie in die installaties;<br>
 3° de hoeveelheid waterstof verbruikt door een rechtspersoon, evenals de wijze waarop die werd geproduceerd;<br>
@@ -4221,28 +4281,28 @@ De publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van o
 
 De Vlaamse Regering kan verplichtingen opleggen aan de overheidsdiensten en instellingen, die aan een groot aantal personen overheidsdiensten verstrekken en die derhalve vaak door het grote publiek bezocht worden, om het VEKA accurate, volledige en consistente mededeling te doen betreffende de uitvoering van de verplichtingen, vermeld in artikel 11.2.1, § 2. De Vlaamse Regering bepaalt de rapporteringstermijn en -wijze van de te verstrekken gegevens.
 
-## [HOOFDSTUK III. Inventaris van het energiegebruik van overheidsgebouwen (ing. decr. 28 juni 2013, art. 15, I: 28 juni 2013)]
+## HOOFDSTUK III. Inventaris van het energiegebruik van openbare besturen
 
 ### ART. 12.3.1.
 
-<p>§1. Elk openbaar bestuur stelt de energieverbruiks- en productiegegevens van haar volledige organisatie en de fysische kenmerken van de gebouwen waarvan ze gebruiker, eigenaar, erfpachter of opstalhouder is publiek beschikbaar als open data die door iedereen vrij gebruikt, hergebruikt en gedeeld kunnen worden. De voormelde gegevens hebben minstens betrekking op kalenderjaar 2021 en later, en worden jaarlijks geactualiseerd tot en met minstens twee kalenderjaren terug in de tijd. De beschikbare gegevens met betrekking tot de productie, injectie, afname, verbruik van elektriciteit en aardgas worden in dat kader door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit ter beschikking gesteld van het openbaar bestuur. Op vraag van het openbaar bestuur worden door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit ook beschikbare gegevens met betrekking tot kalenderjaren 2019 en 2020 ter beschikking gesteld.<br>
+<p>§0. De bepalingen van dit artikel zijn van toepassing op de openbare besturen die rechtspersoonlijkheid hebben.<br>
 <br>
-Om de energieverbruiks- en productiegegevens van de volledige organisatie en fysische kenmerken van de gebouwen, vermeld in het eerste lid, publiek beschikbaar te maken, worden deze data door elk openbaar bestuur tegen 31 maart 2025 en nadien jaarlijks ingevoerd in een unieke patrimonium- en energiedatabank die door de Vlaamse Regering wordt aangewezen en waarvan de Vlaamse Regering de technische voorwaarden kan bepalen.<br>
+§1. Elk openbaar bestuur stelt de fysische kenmerken en de energiever-bruiks- en productiegegevens van de gebouwen met een bruikbare vloerop-pervlakte van minstens 250 m2 waarvan ze gebruiker, eigenaar, erfpachter of opstalhouder is publiek beschikbaar als open data die door iedereen vrij gebruikt, hergebruikt en gedeeld kunnen worden. De voormelde gegevens hebben minstens betrekking op kalenderjaar 2021 en later, en worden jaarlijks geactualiseerd tot en met minstens twee kalenderjaren terug in de tijd. De beschikbare gegevens met betrekking tot de productie, injectie, afname, verbruik van elektriciteit en aardgas worden in dat kader door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit ter beschikking gesteld van het openbaar bestuur. Op vraag van het openbaar bestuur worden door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit ook beschikbare gegevens met betrekking tot kalenderjaren 2019 en 2020 ter beschikking gesteld.<br>
 <br>
-De energieverbruiks- en productiegegevens van de volledige organisatie, vermeld in het eerste lid, omvatten minstens:<br>
+Om de energieverbruiks- en productiegegevens en fysische kenmerken van de gebouwen, vermeld in het eerste lid, publiek beschikbaar te maken, worden deze data door elk openbaar bestuur tegen 31 maart 2025 en nadien jaarlijks ingevoerd in een unieke patrimonium- en energiedatabank die door de Vlaamse Regering wordt aangewezen en waarvan de Vlaamse Regering de technische voorwaarden kan bepalen.<br>
+<br>
+De energieverbruiks- en productiegegevens, vermeld in het eerste lid, omvatten het gemeten jaarlijkse energieverbruik in verband met verwarming, koeling, elektriciteit en warm water, voor zover deze gegevens beschikbaar zijn, en minstens:<br>
 1° &nbsp; de jaarwaarden per hoofdmeter van minstens:<br>
 a)&nbsp;&nbsp; &nbsp;de afname, injectie en productie voor elektriciteit;<br>
 b)&nbsp;&nbsp; &nbsp;de afname van gas;<br>
-2° &nbsp; de maandpieken per hoofdmeter voor elektriciteit;<br>
-3° het opgestelde nominale vermogen van aanwezige decentrale productie-eenheden voor de toegangspunten waarvan het openbaar bestuur titularis en net- gebruiker is;<br>
-4° het opgestelde nominale vermogen van de omvormer van aanwezige decentrale productie-eenheden voor de toegangspunten waarvan het openbaar bestuur titularis en netgebruiker is;<br>
+2°&nbsp; &nbsp;...;<br>
+3° ...;<br>
+4° ...;<br>
 5° de energieverbruiken van energiedragers, verdeeld op basis van de werkelijk gemeten of, in geval van bulkleveringen, zo realistisch mogelijk ingeschatte verbruiken, minstens op jaarbasis.<br>
 &nbsp;<br>
-Elk openbaar bestuur kan tevens beslissen om naast de gegevens, vermeld in het derde lid, bijkomend ook de kwartierwaarden voor elektriciteit en de uurwaarden bij aardgas per hoofdmeter als deze hoofdmeter een digitale of elektronische meter is die beschikt over een registratie op respectievelijk kwartier- en uurbasis, en anders de maandwaarden te laten opnemen in de databank, vermeld in het tweede lid.<br>
+De gegevens, vermeld in het derde lid, worden beschikbaar gesteld met betrekking tot het hele openbaar bestuur alsook per gebouw met een bruik-bare vloeroppervlakte van minstens 250 m2 van dat openbaar bestuur. Een openbaar bestuur is een gebruiker van een gebouw als het de energiefac-tuur of een doorgefactureerd energieverbruik voor dat gebouw betaalt. Als een eigenaar, erfpachter of opstalhouder die onder die verplichting valt, niet de netgebruiker is voor dat gebouw, draagt de netgebruiker van het gebouw de gegevens, vermeld in het derde lid, over aan de eigenaar, erfpachter of opstalhouder.<br>
 <br>
-De gegevens, vermeld in het derde lid, 1° en 4°, worden beschikbaar gesteld met betrekking tot de hele publieke organisatie alsook per gebouw van die publieke organisatie.<br>
-<br>
-De fysische kenmerken van de gebouwen, vermeld in het eerste lid, omvatten minstens de bruikbare vloeroppervlakte in m2, het energieprestatielabel, het kengetal en het volledige energieprestatiecertificaat indien van toepassing.<br>
+De fysische kenmerken van de gebouwen, vermeld in het eerste lid, omvatten minstens de bruikbare vloeroppervlakte in m2, het energieprestatielabel, het kengetal en het volledige energieprestatiecertificaat indien van toepassing.&nbsp;Als een gebouwgebruiker die onder de verplichting, vermeld in paragraaf 1, valt, niet de eigenaar, erfpachter of opstalhouder is voor dat gebouw, stelt de eigenaar, erfpachter of opstalhouder, als dat van toepassing is, een kopie van het energieprestatiecertificaat ter beschikking van de gebruiker. Aanvullend wordt voor de gebouwen meegedeeld welke andere openbare besturen de eigenaars, erfpachter, opstalhouder of gebruikers ervan zijn.<br>
 <br>
 §2. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op de openbare besturen bevoegd voor Defensie, met uitzondering van hun residentiële gebouweenheden of kantoorgebouwen.<br>
 <br>
@@ -4295,16 +4355,20 @@ De databank heeft de volgende doelstellingen:<br>
 7° de evolutie van de verduurzaming van de verwarming van het gebouwenpark volgen;<br>
 8° het volgen en handhaven van verplichtingen die aan installateurs, gebouweigenaars, huurders en houders van een zakelijk recht worden opgelegd voor de verwarmingsinstallaties in het gebouw;<br>
 8°/1 het volgen en handhaven van verplichtingen die aan afnemers, gebouweigenaars, erfpachters of opstalhouders worden opgelegd door of krachtens artikel 7.7.3;<br>
+8°/2 de verplichtingen volgen en handhaven die aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen wor-den opgelegd krachtens artikel 7.7.2;<br>
 9° energiefraude opsporen en detecteren;<br>
 10° de evolutie van hernieuwbaar en niet-hernieuwbaar energiegebruik van het residentiële en niet-residentiële gebouwenpark volgen;<br>
 11° de evolutie van hernieuwbare energieproductie van het residentiële en niet-residentiële gebouwenpark volgen;<br>
 12° gegevens ter beschikking stellen voor het opmaken van een energieprestatiecertificaat voor residentiële en niet-residentiële gebouwen;<br>
 13° de renovatieverplichting die aan gebouweigenaars, erfpachters of opstalhouders van residentiële en niet-residentiële gebouwen wordt opgelegd, volgen en handhaven;<br>
-14° de minimale eis voor het energieprestatielabel die aan gebouweigenaars, erfpachters of opstalhouders van residentiële en niet-residentiële gebouwen wordt opgelegd, bijsturen.<br>
+14° de minimale eis voor het energieprestatielabel die aan gebouweigenaars, erfpachters of opstalhouders van residentiële en niet-residentiële gebouwen wordt opgelegd, bijsturen;<br>
+15° de verplichtingen volgen en handhaven voor energiedeskundigen, die gel-den bij de opmaak van een energieprestatiecertificaat voor niet-residenti-ele gebouwen.<br>
 <br>
 § 2. De gegevens in de databank voor energiegebruik en energieproductie zijn alleen toegankelijk voor de diensten van de Vlaamse overheid, de betrokken gemeente, de gebouweigenaar en de betrokken houder van een zakelijk recht. Elke houder van een zakelijk recht kan een derde machtigen om de gegevens in de databank te raadplegen en aan te vullen.<br>
 <br>
-De Vlaamse Regering kan nadere voorwaarden bepalen voor de gegevens die worden vrijgegeven en met betrekking tot welke gegevens de personen of instellingen, vermeld in het eerste lid, toegang hebben. De Vlaamse Regering bepaalt de voorwaarden voor de toegang, de verkrijging en het gebruik van de verwerkte gegevens. Ze bepaalt ook de algemene organisatorische en technische maatregelen die genomen worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
+In afwijking van het eerste lid, zijn de gegevens die in de databank worden verwerkt voor de doelstelling, vermeld in paragraaf 1, tweede lid, 8°/1, alleen toegankelijk voor het VEKA, de Vlaamse Belastingdienst, de gebouweigenaar en de betrokken houder van een zakelijk recht. Elke houder van een zakelijk recht kan een derde machtigen om de gegevens in de databank te raadplegen en aan te vullen.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden bepalen voor de gegevens die worden vrijgegeven en met betrekking tot welke gegevens de personen of instellingen, vermeld in het eerste en tweede lid, toegang hebben. De Vlaamse Regering bepaalt de voorwaarden voor de toegang, de verkrijging en het gebruik van de verwerkte gegevens. Ze bepaalt ook de algemene organisatorische en technische maatregelen die genomen worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
 <br>
 De Vlaamse Regering bepaalt de categorieën van persoonsgegevens die in de databank voor energiegebruik en energieproductie worden verwerkt.<br>
 <br>
@@ -4468,7 +4532,7 @@ Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de
 <br>
 § 3. De marktpartij of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier&nbsp;aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken op grond van § 1, of toegang te verlenen aan de personeelsleden van de Vlaamse Nutsregulator op grond van § 2, is verplicht om binnen de door de Vlaamse Nutsregulator gestelde termijn alle medewerking te verlenen.<br>
 <br>
-Gegevens of inlichtingen die in het kader van § 1 en § 2 worden verkregen, gebruikt de Vlaamse Nutsregulator alleen voor de uitoefening van haar taken en bevoegdheden, vermeld in de artikelen 3.1.3 en 3.1.4.
+Gegevens of inlichtingen die in het kader van § 1 en § 2 worden verkregen, gebruikt de Vlaamse Nutsregulator alleen voor de uitoefening van haar taken en bevoegdheden, vermeld in de artikel 6 tot en met 12 van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator.
 
 ## Afdeling III. Toezicht door [het VEKA (verv. decr. 4 december 2020, art. 30, I: 1 januari 2021)]
 
@@ -4565,7 +4629,7 @@ De Vlaamse Nutsregulator legt de persoon die in gebreke werd gesteld wegens niet
 <br>
 § 4. ...<br>
 <br>
-§ 5. Na de ontvangst van de kennisgeving, vermeld in § 3, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden.<br>
+§ 5. Na de ontvangst van de kennisgeving, vermeld in § 3, moet de administratieve geldboete binnen zestig dagen betaald worden.<br>
 <br>
 De Vlaamse Nutsregulator kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
@@ -4585,11 +4649,11 @@ De verjaring wordt gestuit op de wijze en onder de voorwaarden die bepaald is bi
 
 ### ART. 13.3.2.
 
-Tenzij dit decreet in een specifieke administratieve sanctie voorziet, kan de Vlaamse Nutsregulator een administratieve geldboete opleggen, al dan niet per kalenderdag. De administratieve geldboete per kalenderdag mag niet minder dan 250 euro per kalenderdag bedragen, noch meer dan 250.000 euro per kalenderdag, noch mag de administratieve geldboete in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.<br>
+Tenzij dit decreet in een specifieke administratieve sanctie voorziet, kan de Vlaamse Nutsregulator een administratieve geldboete opleggen, al dan niet per dag. De administratieve geldboete per dag mag niet minder dan 250 euro per dag bedragen, noch meer dan 250.000 euro per dag, noch mag de administratieve geldboete in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.<br>
 <br>
-Met behoud van de toepassing van het eerste lid kan de Vlaamse Nutsregulator, tenzij dit decreet in een specifieke administratieve sanctie voorziet, een dwangsom opleggen, als de betrokken overtreder bij het verstrijken van de termijn die de Vlaamse Nutsregulator bepaalt, in gebreke blijft. De dwangsom mag niet minder dan 250 euro per kalenderdag<br>
+Met behoud van de toepassing van het eerste lid kan de Vlaamse Nutsregulator, tenzij dit decreet in een specifieke administratieve sanctie voorziet, een dwangsom opleggen, als de betrokken overtreder bij het verstrijken van de termijn die de Vlaamse Nutsregulator bepaalt, in gebreke blijft. De dwangsom mag niet minder dan 250 euro per dag<br>
 &nbsp;<br>
-bedragen, noch meer dan 250.000 euro per kalenderdag, noch mag de dwangsom in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.
+bedragen, noch meer dan 250.000 euro per dag, noch mag de dwangsom in totaal hoger zijn dan 5.000.000 euro of 3% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.
 
 ## Afdeling III. Administratieve geldboete bij niet-naleving van de sociale openbaredienstverplichtingen [of de verplichtingen aangaande de minimale eisen inzake renovatie bij niet-residentiële gebouwen (ing. Decr. 30 oktober 2020, art. 42, I: 5 december 2020)]
 
@@ -4599,7 +4663,7 @@ De Vlaamse Nutsregulator legt de netbeheerder of de warmte- of koudenetbeheerder
 
 ### ART. 13.3.4.
 
-De Vlaamse Nutsregulator legt de netbeheerder of de warmte- of koudenetbeheerder bij het niet-naleven van de termijnen voor de heraansluiting van de elektriciteits- of aardgastoevoer, voor de toevoer van thermische energie en voor de herinschakeling van de stroombegrenzer in de budgetmeter een administratieve geldboete op van 1000 euro per kalenderdag die de termijn, vermeld in artikel 6.1.2, § 3, of artikel 6.2.2, § 3, overschrijdt, tenzij de netbeheerder of de koude- of warmtenetbeheerder kan aantonen dat de oorzaak van de overschrijding van de termijn niet aan hem te wijten is.
+De Vlaamse Nutsregulator legt de netbeheerder of de warmte- of koudenetbeheerder bij het niet-naleven van de termijnen voor de heraansluiting van de elektriciteits- of aardgastoevoer, voor de toevoer van thermische energie en voor de herinschakeling van de stroombegrenzer in de budgetmeter een administratieve geldboete op van 1000 euro per dag die de termijn, vermeld in artikel 6.1.2, § 3, of artikel 6.2.2, § 3, overschrijdt, tenzij de netbeheerder of de koude- of warmtenetbeheerder kan aantonen dat de oorzaak van de overschrijding van de termijn niet aan hem te wijten is.
 
 ### ART 13.3.4/1.
 
@@ -4621,7 +4685,7 @@ b) 38 euro per warmtekrachtcertificaat dat de certificaatplichtige na 31 maart 2
 <br>
 § 1/1. [...&nbsp;<u>vernietigd bij <a href="https://nl.const-court.be/public/n/2013/2013-154n.pdf">arrest Grondwettelijk Hof nr. 154/2013 van 13 november 2013</a>]</u>.<br>
 <br>
-§ 2. De betrokkene kan, indien hij het oneens is met de berekening van de administratieve boete, op straffe van verval binnen de dertig kalenderdagen na de kennisgeving, vermeld in artikel 13.3.1, § 3, de Vlaamse Nutsregulator per aangetekende brief op de hoogte brengen van de materiële vergissingen of rekenfouten die bij de berekening gemaakt zouden zijn. Dit bezwaar schorst de termijn bedoeld in artikel 13.3.1, § 4, tot de beslissing van de Vlaamse Nutsregulator over het bezwaar, bedoeld in het volgend lid.<br>
+§ 2. De betrokkene kan, indien hij het oneens is met de berekening van de administratieve boete, op straffe van verval binnen de dertig dagen na de kennisgeving, vermeld in artikel 13.3.1, § 3, de Vlaamse Nutsregulator per aangetekende brief op de hoogte brengen van de materiële vergissingen of rekenfouten die bij de berekening gemaakt zouden zijn. Dit bezwaar schorst de termijn bedoeld in artikel 13.3.1, § 4, tot de beslissing van de Vlaamse Nutsregulator over het bezwaar, bedoeld in het volgend lid.<br>
 <br>
 De Vlaamse Nutsregulator kan haar beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als blijkt dat er materiële vergissingen of rekenfouten gemaakt zouden zijn. Zoniet wijst zij het bezwaar van betrokkene af.
 
@@ -4639,7 +4703,7 @@ De Vlaamse Nutsregulator legt aan iedere natuurlijke persoon of rechtspersoon di
 
 § 1. Het VEKA kan de netbeheerders verplichten tot naleving van artikel 7.5.1 van dit decreet of de uitvoeringsbesluiten van dit decreet binnen de door het VEKA bepaalde termijn. Als een netbeheerder bij het verstrijken van die termijn in gebreke blijft, kan het VEKA een administratieve geldboete opleggen.<br>
 <br>
-Die administratieve geldboete mag per kalenderdag niet lager zijn dan 1000 euro en niet hoger zijn dan 100.000 euro, en in totaal niet hoger zijn dan 2 miljoen euro of 1 % van de omzet die de betrokken netbeheerder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br>
+Die administratieve geldboete mag per dag niet lager zijn dan 1000 euro en niet hoger zijn dan 100.000 euro, en in totaal niet hoger zijn dan 2 miljoen euro of 1 % van de omzet die de betrokken netbeheerder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het laatste afgelopen boekjaar.<br>
 <br>
 § 2. Het VEKA kan de netbeheerder een administratieve geldboete opleggen van 10 cent per kilowattuur te weinig bespaarde primaire energie ten opzichte van de opgelegde hoeveelheid primaire energiebesparing per categorie van afnemers.<br>
 <br>
@@ -4651,19 +4715,19 @@ Die administratieve geldboete mag per kalenderdag niet lager zijn dan 1000 euro 
 <br>
 § 6. Als een ontwerp-REG-actieplan niet voldoet aan de voorwaarden voor vorm en inhoud die door de Vlaamse Regering werden vastgelegd, kan het VEKA de netbeheerder aanmanen om binnen een gestelde termijn de betreffende voorwaarden na te leven.<br>
 <br>
-Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA een administratieve geldboete op van 1.000 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
+Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA een administratieve geldboete op van 1.000 euro per dag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
 <br>
 § 7. Als een ontwerp-REG-rapport niet de door de Vlaamse Regering vastgelegde gegevens bevat, kan het VEKA de netbeheerder aanmanen om binnen een gestelde termijn de betreffende gegevens aan te leveren.<br>
 <br>
-Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA een administratieve geldboete op van 1.000 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
+Als de netbeheerder bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA een administratieve geldboete op van 1.000 euro per dag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
 <br>
-§ 8. Als een ontwerp-REG-actieplan, een definitieve lijst van acties, de reserveacties, de aanvraag-formulieren of het ontwerp-REG-rapport niet tijdig worden ingediend, kan het VEKA de netbeheerder een administratieve geldboete opleggen van 1.000 euro per kalenderdag dat de opgelegde termijnen worden overschreden.
+§ 8. Als een ontwerp-REG-actieplan, een definitieve lijst van acties, de reserveacties, de aanvraag-formulieren of het ontwerp-REG-rapport niet tijdig worden ingediend, kan het VEKA de netbeheerder een administratieve geldboete opleggen van 1.000 euro per dag dat de opgelegde termijnen worden overschreden.
 
 ### ART. 13.4.2.
 
 § 1. Overtredingen van de door de Vlaamse Regering in toepassing van artikel 12.2.1 en artikel 12.2.3 opgelegde eisen inzake de consistentie, volledigheid en accuraatheid van de te rapporteren gegevens, worden door het VEKA bestraft met een administratieve geldboete die niet lager is dan 50 euro, en niet hoger dan 20.000 euro.<br>
 <br>
-§ 2. Overtredingen van de door de Vlaamse Regering in toepassing van artikel 12.2.1 en artikel 12.2.3, opgelegde rapporteringstermijn worden door het VEKA bestraft met een administratieve geldboete van 250 euro per kalenderdag.
+§ 2. Overtredingen van de door de Vlaamse Regering in toepassing van artikel 12.2.1 en artikel 12.2.3, opgelegde rapporteringstermijn worden door het VEKA bestraft met een administratieve geldboete van 250 euro per dag.
 
 ### ART. 13.4.2/1.
 
@@ -4687,7 +4751,7 @@ Het VEKA kan een administratieve geldboete opleggen aan de natuurlijke persoon o
 <br>
 De administratieve geldboete, vermeld in het eerste lid, is niet lager dan 500 euro en niet hoger dan 500.000 euro. Het VEKA legt ook een nieuwe termijn vast waarin de gevraagde gegevens of inlichtingen aan het VEKA moeten worden bezorgd.<br>
 <br>
-Als de natuurlijke persoon of rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, kan het VEKA een administratieve geldboete in de vorm van een dwangsom opleggen. Die bedraagt 100 euro per kalenderdag dat de termijn, vermeld in het tweede lid, wordt overschreden.
+Als de natuurlijke persoon of rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, kan het VEKA een administratieve geldboete in de vorm van een dwangsom opleggen. Die bedraagt 100 euro per dag dat de termijn, vermeld in het tweede lid, wordt overschreden.
 
 ### ART. 13.4.3.
 
@@ -4703,17 +4767,17 @@ Als de natuurlijke persoon of rechtspersoon bij het verstrijken van de termijn, 
 <br>
 § 2. De ambtenaren, daartoe aangewezen door de Vlaamse Regering, beslissen over de gemotiveerde verzoeken om kwijtschelding, vermindering of uitstel van betaling van de administratieve geldboeten, vermeld in artikel 13.4.1, § 1, §§ 3, 4, 5, 6, 7 en 8, artikel 13.4.2, § 1, artikel 13.4.2/1, artikel 13.4.2/2 en artikel 13.4.3, § 1, die de betrokkene met een aangetekende brief aan hen richt. Het verzoek schorst de bestreden beslissing.<br>
 <br>
-De in het eerste lid vermelde verzoeken worden binnen vijftien kalenderdagen, te rekenen vanaf de datum van de afgifte op de post van de in § 1, vermelde aangetekende brief, gericht aan de daartoe door de Vlaamse Regering aangewezen ambtenaren.<br>
+De in het eerste lid vermelde verzoeken worden binnen vijftien dagen, te rekenen vanaf de datum van de afgifte op de post van de in § 1, vermelde aangetekende brief, gericht aan de daartoe door de Vlaamse Regering aangewezen ambtenaren.<br>
 <br>
-De beslissing van de daartoe door de Vlaamse Regering aangewezen ambtenaren wordt binnen dertig kalenderdagen, te rekenen vanaf de datum van de afgifte op de post van het in het eerste lid vermelde verzoek, ter kennis gebracht van de indiener van het verzoekschrift. Met een met redenen omklede aangetekende brief, gericht aan de indiener van het verzoek, kan de bevoegde ambtenaar de voormelde termijn eenmalig verlengen met dertig kalenderdagen.<br>
+De beslissing van de daartoe door de Vlaamse Regering aangewezen ambtenaren wordt binnen dertig dagen, te rekenen vanaf de datum van de afgifte op de post van het in het eerste lid vermelde verzoek, ter kennis gebracht van de indiener van het verzoekschrift. Met een met redenen omklede aangetekende brief, gericht aan de indiener van het verzoek, kan de bevoegde ambtenaar de voormelde termijn eenmalig verlengen met dertig dagen.<br>
 <br>
 Als de beslissing niet binnen de gestelde termijn is verzonden, wordt het verzoek geacht te zijn ingewilligd.<br>
 <br>
-§ 3.Als de betrokkene het oneens is met de berekening van de administratieve geldboete die opgelegd is volgens artikel 13.4.1, § 2, artikel 13.4.2, § 2, en artikel 13.4.3, § 2, kan hij binnen tien kalenderdagen na de kennisgeving, vermeld in § 1, de ambtenaren die daartoe aangewezen zijn door de Vlaamse Regering per aangetekende brief op de hoogte brengen van de materiële vergissingen en rekenfouten die bij de berekening gemaakt zouden zijn. Na het verstrijken van die termijn is de beslissing definitief.<br>
+§ 3.Als de betrokkene het oneens is met de berekening van de administratieve geldboete die opgelegd is volgens artikel 13.4.1, § 2, artikel 13.4.2, § 2, en artikel 13.4.3, § 2, kan hij binnen tien dagen na de kennisgeving, vermeld in § 1, de ambtenaren die daartoe aangewezen zijn door de Vlaamse Regering per aangetekende brief op de hoogte brengen van de materiële vergissingen en rekenfouten die bij de berekening gemaakt zouden zijn. Na het verstrijken van die termijn is de beslissing definitief.<br>
 <br>
 § 4. ...<br>
 <br>
-§ 5. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving van de definitieve beslissing.<br>
+§ 5. De administratieve geldboete moet worden betaald binnen zestig dagen na de kennisgeving van de definitieve beslissing.<br>
 <br>
 De ambtenaren, daartoe aangewezen door de Vlaamse Regering, kunnen uitstel van betaling verlenen voor een door hen bepaalde termijn.<br>
 <br>
@@ -4747,13 +4811,13 @@ Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eers
 <br>
 Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br>
 <br>
-Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreven.<br>
+Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per dag dat de in het tweede lid vermelde termijn wordt overschreven.<br>
 <br>
 § 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het&nbsp;VEKA de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br>
 <br>
 Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 1000 euro voor elke EPB-aangifte die niet of te laat is ingediend, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume of bij renovatie of functiewijziging nieuw gecreëerd beschermd volume. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd. De maximale boete bedraagt 10.000 euro per EPB-aangifte die niet of te laat is ingediend.<br>
 <br>
-Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt&nbsp;10 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreden.<br>
+Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het VEKA de aangifteplichtige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt&nbsp;10 euro per dag dat de in het tweede lid vermelde termijn wordt overschreden.<br>
 <br>
 Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft en uit een controle blijkt dat de EPB-eisen niet werden gerespecteerd, legt het VEKA, naast de administratieve geldboete, vermeld in het tweede lid, de aangifteplichtige een administratieve geldboete op die het dubbele bedraagt van de administratieve geldboete die berekend is volgens de bepalingen van artikel 13.4.6. Voor de bepaling van die administratieve geldboete worden daarbij de waarden die vastgesteld zijn in de EPB-aangifte, vervangen door de waarden vastgesteld bij controle.<br>
 <br>
@@ -4840,19 +4904,19 @@ De maximale boete bedraagt 10 euro per m® beschermd volume dat nieuw gebouwd wo
 <br>
 § 2. Voor EPB-aangiften met betrekking tot gebouwen waarvan de startverklaring in 2006 werd ingediend, bedraagt de administratieve geldboete slechts de helft van het bedrag dat op basis van § 1, eerste lid, is verschuldigd, met een minimum van 250 euro.<br>
 <br>
-§ 3. De verslaggever dient binnen zestig kalenderdagen na de vestiging van de administratieve geldboete bij het VEKA een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br>
+§ 3. De verslaggever dient binnen zestig dagen na de vestiging van de administratieve geldboete bij het VEKA een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br>
 <br>
 De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de EPB-aangifte vallen volledig ten laste van de verslaggever.<br>
 <br>
-§ 4. Als het VEKA vaststelt dat de EPB-aangifte niet in overeenstemming is met de as-builtsituatie op de datum van de indiening van de EPB-aangifte of met de gemaakte controlevaststellingen, verplicht het VEKA de verslaggever om binnen de 60 kalenderdagen een nieuwe EPB-aangifte in te dienen die in overeenstemming is met zijn controlevaststellingen.<br>
+§ 4. Als het VEKA vaststelt dat de EPB-aangifte niet in overeenstemming is met de as-builtsituatie op de datum van de indiening van de EPB-aangifte of met de gemaakte controlevaststellingen, verplicht het VEKA de verslaggever om binnen de 60 dagen een nieuwe EPB-aangifte in te dienen die in overeenstemming is met zijn controlevaststellingen.<br>
 <br>
-Als het VEKA vaststelt dat de indeling van het bouwproject in EPB-eenheden in de EPB-aangifte niet correct is gebeurd, verplicht het VEKA de verslaggever om binnen 60 kalenderdagen een nieuwe EPB-aangifte in te dienen volgens de correcte indeling in EPB-eenheden.<br>
+Als het VEKA vaststelt dat de indeling van het bouwproject in EPB-eenheden in de EPB-aangifte niet correct is gebeurd, verplicht het VEKA de verslaggever om binnen 60 dagen een nieuwe EPB-aangifte in te dienen volgens de correcte indeling in EPB-eenheden.<br>
 <br>
 De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor het herindienen van de EPB-aangifte zijn volledig ten laste van de verslaggever.<br>
 <br>
 &nbsp;§ 5. Als een overtreding van de verplichting, vermeld in paragraaf 3, eerste lid, of in paragraaf 4, eerste en tweede lid, wordt vastgesteld, maant het VEKA de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het VEKA een administratieve geldboete van 500 euro op voor elke nieuwe EPB-aangifte die niet of te laat is ingediend. Het VEKA legt ook een nieuwe termijn vast waarin de betreffende verplichting moet worden nageleefd.<br>
 <br>
-Als de verslaggever bij het verstrijken van de termijn, vermeld in het&nbsp;eerste lid, in fine,&nbsp;in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.</p>
+Als de verslaggever bij het verstrijken van de termijn, vermeld in het&nbsp;eerste lid, in fine,&nbsp;in gebreke blijft, legt het VEKA de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 10 euro per dag dat de termijn, vermeld in het eerste lid, wordt overschreden.</p>
 
 ### ART. 13.4.7/1.
 
@@ -4864,9 +4928,9 @@ Wanneer de verslaggever een rechtspersoon is, kan het VEKA de sanctie, vermeld i
 <br>
 De Vlaamse Regering kan bijkomende voorwaarden koppelen aan de opheffing van een schorsing.<br>
 <br>
-§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het VEKA, kan de betrokken verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep aantekenen bij de minister. De verslaggever kan vragen om gehoord te worden.<br>
+§ 2. Binnen een termijn van dertig dagen na de betekening van de beslissing van het VEKA, kan de betrokken verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep aantekenen bij de minister. De verslaggever kan vragen om gehoord te worden.<br>
 <br>
-De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is ontvangen.<br>
+De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig dagen, die ingaat op de dag waarop het beroep is ontvangen.<br>
 <br>
 Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen de in het vorige lid bepaalde termijn, wordt ervan uitgegaan dat het beroep werd ingewilligd.
 
@@ -4874,11 +4938,11 @@ Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen d
 
 § 1. Het bedrag van de verschuldigde administratieve geldboete wordt aan de betrokkene meegedeeld per aangetekende zending, met vermelding van de redenen waarom de boete wordt opgelegd en met verwijzing naar de artikelen die van toepassing zijn. In voorkomend geval wordt de berekening bijgevoegd.<br>
 <br>
-Indien de betrokkene het oneens is met de sanctie kan hij, binnen dertig kalenderdagen na de kennisgeving, vermeld in het eerste lid, het VEKA van zijn tegenargumenten op de hoogte brengen per aangetekende zending. Na het verstrijken van die termijn is de beslissing definitief.<br>
+Indien de betrokkene het oneens is met de sanctie kan hij, binnen dertig dagen na de kennisgeving, vermeld in het eerste lid, het VEKA van zijn tegenargumenten op de hoogte brengen per aangetekende zending. Na het verstrijken van die termijn is de beslissing definitief.<br>
 <br>
-Het VEKA kan zijn beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als die tegenargumenten gegrond blijken te zijn. In dat geval vindt binnen de dertig kalenderdagen na het ontvangen van de tegenargumenten van de betrokkene een nieuwe kennisgeving plaats.<br>
+Het VEKA kan zijn beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als die tegenargumenten gegrond blijken te zijn. In dat geval vindt binnen de dertig dagen na het ontvangen van de tegenargumenten van de betrokkene een nieuwe kennisgeving plaats.<br>
 <br>
-§ 2. Na de kennisgeving, vermeld in § 1, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden.<br>
+§ 2. Na de kennisgeving, vermeld in § 1, moet de administratieve geldboete binnen zestig dagen betaald worden.<br>
 <br>
 Het VEKA kan uitstel van betaling verlenen voor een termijn die het zelf bepaalt.<br>
 <br>
@@ -4923,19 +4987,29 @@ In afwijking van het eerste lid wordt de administratieve geldboete aan de eigena
 <br>
 De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
+### ART 13.4.9/3.
+
+Als het VEKA vaststelt dat niet aan de verplichtingen met betrekking tot gebouwautomatisering en controlesystemen, vastgesteld door of krachtens artikel 11.1/1.2, is voldaan, kan het VEKA aan de natuurlijke persoon of de rechtspersoon die verantwoordelijk is voor het nakomen van die verplichting een administratieve geldboete opleggen van 500 euro tot en met 200.000 euro.<br>
+<br>
+De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
 ## Afdeling IV. Administratieve sancties wegens overtreding of niet-naleving van de verplichtingen betreffende energieprestatiecertificaten
 
 ### ART. 13.4.10.
 
-§ 1. Als bij de controle blijkt dat het energieprestatiecertificaat niet met de werkelijkheid overeenstemt en de betrokkene werd gehoord of naar behoren werd opgeroepen, kan het VEKA de energiedeskundige die het energieprestatiecertificaat heeft afgeleverd een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, en niet hoger dan 5.000 euro.<br>
+§ 1. Als bij de controle blijkt dat het energieprestatiecertificaat niet met het inspectieprotocol overeenstemt of dat er inbreuken werden gepleegd tegen de regelgeving die door of krachtens dit decreet op de energiedeskundige van toepassing is en de betrokkene werd gehoord of naar behoren werd opgeroepen, kan het VEKA de energiedeskundige die het energieprestatiecertificaat heeft afgeleverd een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, en niet hoger dan 5.000 euro.<br>
 <br>
-Het VEKA verplicht de energiedeskundige om binnen de dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Indien het gebouw wordt verhuurd, dan bezorgt de eigenaar tevens een kopie van het nieuwe energieprestatiecertificaat aan de huurder.&nbsp;De kosten voor de opmaak van het energieprestatiecertificaat vallen volledig ten laste van de energiedeskundige.<br>
+Het VEKA kan de energiedeskundige verplichten om binnen de dertig dagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Indien het gebouw wordt verhuurd, dan bezorgt de eigenaar tevens een kopie van het nieuwe energieprestatiecertificaat aan de huurder.&nbsp;De kosten voor de opmaak van het energieprestatiecertificaat vallen volledig ten laste van de energiedeskundige.<br>
 <br>
-§1/0. Als het VEKA vaststelt dat het energieprestatiecertificaat niet in overeenstemming is met de werkelijkheid of met de gemaakte controlevaststellingen, verplicht het VEKA de energiedeskundige om binnen dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Als het voormelde gebouw wordt verhuurd, bezorgt de eigenaar ook een kopie van het nieuwe energieprestatiecertificaat aan de huurder. De kosten voor de opmaak van het energieprestatiecertificaat zijn volledig ten laste van de energiedeskundige.<br>
+In afwijking van het tweede lid kan het VEKA bepalen dat de energiedeskun-dige het nieuwe energieprestatiecertificaat bezorgt aan het VEKA. In dat geval bezorgt het VEKA dat energieprestatiecertificaat aan de eigenaar of gebruiker van het gebouw.<br>
+<br>
+§1/0. Als het VEKA vaststelt dat het energieprestatiecertificaat niet in overeenstemming is met het inspectieprotocol of met de gemaakte controlevaststellingen, kan het VEKA de energiedeskundige verplichten om binnen dertig dagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. Als het voormelde gebouw wordt verhuurd, bezorgt de eigenaar ook een kopie van het nieuwe energieprestatiecertificaat aan de huurder. De kosten voor de opmaak van het energieprestatiecertificaat zijn volledig ten laste van de energiedeskundige.<br>
+<br>
+In afwijking van het eerste lid kan het VEKA bepalen dat de energiedeskundige het nieuwe energieprestatiecertificaat bezorgt aan het VEKA. In dat geval bezorgt het VEKA dat energieprestatiecertificaat aan de eigenaar of gebruiker van het gebouw.<br>
 <br>
 §1/0/1. Als een overtreding van de verplichting, vermeld in paragraaf 1, tweede lid, of paragraaf 1/0, wordt vastgesteld, maant het VEKA de energiedeskundige aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de energiedeskundige in gebreke blijft als de voormelde termijn is verstreken, legt het VEKA een administratieve geldboete van 500 euro op. Het VEKA legt ook een nieuwe termijn vast waarin de verplichting, vermeld in paragraaf 1, tweede lid, of paragraaf 1/0, moet worden nageleefd.<br>
 <br>
-Als de energiedeskundige in gebreke blijft als de termijn, vermeld in het eerste lid, in fine, is verstreken, legt het VEKA de energiedeskundige een administratieve geldboete op in de vorm van een dwangsom. De voormelde dwangsom bedraagt 10 euro per kalenderdag dat de termijn, vermeld in het eerste lid, in fine, wordt overschreden.<br>
+Als de energiedeskundige in gebreke blijft als de termijn, vermeld in het eerste lid, in fine, is verstreken, legt het VEKA de energiedeskundige een administratieve geldboete op in de vorm van een dwangsom. De voormelde dwangsom bedraagt 10 euro per dag dat de termijn, vermeld in het eerste lid, in fine, wordt overschreden.<br>
 <br>
 § 1/1. Als het VEKA vaststelt dat een geschorste energiedeskundige in strijd met de schorsingsvoorwaarden toch actief optreedt als energiedeskundige, legt het VEKA hem een boete op van 500 euro per ingediend energieprestatiecertificaat.<br>
 <br>
@@ -4949,7 +5023,7 @@ Als de eigenaar of gebruiker van het gebouw bij het verstrijken van de termijn, 
 <br>
 Die administratieve geldboete kan niet worden gecumuleerd met de sanctie vermeld in § 2.<br>
 <br>
-§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw, of voor een gebouw waarop een zakelijk recht wordt gevestigd, waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, de gegevens, vermeld in artikel 11.2.1, §3, eerste lid, niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde label of energiescore, het vermelde aandeel hernieuwbare energie of het label dat op basis daarvan bepaald is, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, noch hoger dan 5.000 euro.<br>
+§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw, of voor een gebouw waarop een zakelijk recht wordt gevestigd, waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, de gegevens, vermeld in artikel 11.2.1, §3, eerste lid, niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde label of energiescore, het vermelde aandeel hernieuwbare energie of het label dat op basis daarvan bepaald is, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met het inspectieprotocol overeenstemt, kan het VEKA de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, noch hoger dan 5.000 euro.<br>
 <br>
 In afwijking van het eerste lid legt het VEKA een administratieve geldboete op aan de opdrachthouder, lasthebber of gevolmachtigde als de eigenaar of gebruiker die opdrachthouder, lasthebber of gevolmachtigde gebruikte in het kader van het te koop of te huur stellen van het gebouw. De voormelde administratieve geldboete is niet lager dan 750 euro en niet hoger dan 5000 euro.<br>
 <br>
@@ -4981,7 +5055,7 @@ Die administratieve geldboete kan niet worden gecumuleerd met de sancties, verme
 <br>
 § 2. Het opleggen van de administratieve boete wordt aan de betrokkene meegedeeld in een met redenen omklede aangetekende brief, met verwijzing naar de bepalingen die van toepassing zijn en de hoogte van de administratieve boete.<br>
 <br>
-§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden. Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig dagen betaald worden. Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 4. Als de betrokkene nalaat de administratieve geldboete binnen de in paragraaf 3 bepaalde termijn te betalen, wordt de geldboete bij dwangbevel ingevorderd.<br>
 <br>
@@ -5001,7 +5075,7 @@ Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die d
 <br>
 § 2. Het opleggen van de administratieve boete wordt aan de betrokkene meegedeeld in een met redenen omklede aangetekende brief, met verwijzing naar de bepalingen die van toepassing zijn en de hoogte van de administratieve boete.<br>
 <br>
-§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden.&nbsp;Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig dagen betaald worden.&nbsp;Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 4. Als de betrokkene nalaat de administratieve geldboete binnen de in paragraaf 3 bepaalde termijn te betalen, wordt de geldboete bij dwangbevel ingevorderd.<br>
 <br>
@@ -5025,7 +5099,7 @@ Als de kredietnemer bij het verstrijken van de termijn, vermeld in het eerste li
 <br>
 § 2. De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete in kennis gesteld met een aangetekende brief. De met redenen omklede kennisgeving vermeldt het bedrag van de administratieve geldboete, de bepalingen die van belang zijn en de beroepsmogelijkheid.<br>
 <br>
-§ 3. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving van de definitieve beslissing. Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+§ 3. De administratieve geldboete moet worden betaald binnen zestig dagen na de kennisgeving van de definitieve beslissing. Het VEKA kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
 <br>
 § 4. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan.<br>
 <br>
@@ -5049,6 +5123,10 @@ Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting
 <br>
 Als die onderneming, niet-commerciële instelling of publiekrechtelijke rechtspersoon bij het verstrijken van de termijn, vermeld in het tweede lid, nog steeds in gebreke blijft, kan het VEKA hem of haar een nieuwe administratieve geldboete opleggen als bedoeld in het eerste lid. Het VEKA legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting alsnog moet worden nageleefd. Deze procedure wordt herhaald tot aan de op grond van artikel 7.7.2 vastgestelde verplichting is voldaan.<br>
 <br>
+§1/1. Als het VEKA vaststelt dat de meldingen, vermeld in artikel 7.7.2, §10, niet zijn uitgevoerd, maant het VEKA de rechtspersoon die die meldingsplicht heeft, aan om binnen een vastgestelde termijn de meldingsplicht na te leven.<br>
+<br>
+Als de rechtspersoon die die meldingsplicht heeft, in gebreke blijft en de termijn die het VEKA heeft vastgesteld, vermeld in het eerste lid, verstreken is, legt het VEKA, in afwijking van artikel 13.4.11, §1, 3°, de rechtspersoon die die meldingsplicht heeft, een administratieve geldboete op in de vorm van een dwangsom. Die dwangsom bedraagt 100 euro per dag dat de vastgestelde termijn, vermeld in het eerste lid, wordt overschreden.<br>
+<br>
 § 2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
 ### ART 13.4.15.
@@ -5057,9 +5135,9 @@ Als die onderneming, niet-commerciële instelling of publiekrechtelijke rechtspe
 <br>
 Als de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, binnen twee jaar nadat de termijn is verstreken waarin de verplichting, vermeld in artikel 7.7.3, §1, moet worden uitgevoerd, niet voldoet aan de verplichting, vermeld in artikel 7.7.3, §1, legt het VEKA de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, een nieuwe administratieve geldboete op als vermeld in het eerste lid. Het VEKA past ook een nieuwe termijn van twee jaar toe waarin de &nbsp; &nbsp;voormelde verplichting alsnog moet worden nageleefd. De voormelde procedure wordt herhaald tot de verplichting, vermeld in artikel 7.7.3, §1, is nagekomen.<br>
 <br>
-§2. Als het VEKA vaststelt dat de meldingen, vermeld in artikel 7.7.3, §2, §3 of §4, niet zijn uitgevoerd, maant het VEKA de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplicht rust, aan om binnen een vastgestelde termijn de voormelde meldingsplicht na te leven.<br>
+§2. Als het VEKA vaststelt dat de meldingen, vermeld in artikel 7.7.3, §2, §3 of §4, niet zijn uitgevoerd, maant het VEKA de natuurlijke persoon of de rechtspersoon op wie de voormelde informatieverplichting rust, aan om binnen een vastgestelde termijn de voormelde informatieverplichting na te leven.<br>
 <br>
-Als de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplicht rust, in gebreke blijft als de termijn, vermeld in het eerste lid, is verstreken, legt het VEKA, in afwijking van artikel 13.4.11, §1, 3°, de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplicht rust, een administratieve geldboete op in de vorm van een dwangsom. De voormelde dwangsom bedraagt 100 euro per kalenderdag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
+Als de natuurlijke persoon of de rechtspersoon op wie de voormelde informatieverplichting rust, in gebreke blijft als de termijn, vermeld in het eerste lid, is verstreken, legt het VEKA, in afwijking van artikel 13.4.11, §1, 3°, de natuurlijke persoon of de rechtspersoon op wie de voormelde&nbsp;informatieverplichting rust, een administratieve geldboete op in de vorm van een dwangsom. De voormelde dwangsom bedraagt 100 euro per dag dat de termijn, vermeld in het eerste lid, wordt overschreden.<br>
 &nbsp;<br>
 §3. Paragraaf 1 en 2 zijn niet van toepassing op natuurlijke of rechtspersonen die de bestaande exploitatie in de gebouwen verplicht stopzetten.<br>
 <br>
@@ -5069,11 +5147,11 @@ Als de natuurlijke persoon of de rechtspersoon op wie de voormelde meldingsplich
 
 ### ART 13.4.16.
 
-§1. Als het VEKA vaststelt dat in strijd met artikel 12.3.1 de door de Vlaamse Regering vastgestelde verplichting om jaarlijks te rapporteren over de energieverbruiks- en productiegegevens van de volledige organisatie en fysische kenmerken van de gebouwen in gebruik, eigendom, erfpacht of opstal van openbare besturen niet tijdig of niet waarheidsgetrouw werd gerespecteerd, kan het VEKA aan het openbaar bestuur op wie de verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 50.000 euro.<br>
+§1. Als het VEKA vaststelt dat in strijd met artikel 12.3.1 de door de Vlaamse Regering vastgestelde verplichting om jaarlijks te rapporteren over de energieverbruiks- en productiegegevens en fysische kenmerken van de gebouwen in gebruik, eigendom, erfpacht of opstal van openbare besturen niet tijdig of niet waarheidsgetrouw werd gerespecteerd, kan het VEKA aan het openbaar bestuur op wie de verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 50.000 euro.<br>
 <br>
 Het VEKA kan ook een nieuwe termijn vastleggen waarin de verplichtingen, vermeld in het eerste lid, moeten worden nageleefd.<br>
 <br>
-Als het openbaar bestuur in gebreke blijft als de termijn, vermeld in het tweede lid, is verstreken, kan het VEKA het openbaar bestuur een administratieve geldboete opleggen in de vorm van een dwangsom. De voormelde dwangsom bedraagt 50 euro per kalenderdag dat de termijn, vermeld in het tweede lid, wordt overschreden.<br>
+Als het openbaar bestuur in gebreke blijft als de termijn, vermeld in het tweede lid, is verstreken, kan het VEKA het openbaar bestuur een administratieve geldboete opleggen in de vorm van een dwangsom. De voormelde dwangsom bedraagt 50 euro per dag dat de termijn, vermeld in het tweede lid, wordt overschreden.<br>
 <br>
 §2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
@@ -5088,19 +5166,29 @@ Als het VEKA vaststelt dat in strijd met artikel 7.8.2 de verplichting om jaarli
 <br>
 De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
+## Afdeling XI. Administratieve sancties wegens het niet-naleven van de meldingsplicht voor gebouwen
+
+### ART 13.4.18.
+
+Als het VEKA vaststelt dat de meldingen, vermeld in artikel 11.2.1, niet zijn uitgevoerd, maant het VEKA de rechtspersoon die die meldingsplicht heeft, aan om binnen een vastgestelde termijn die meldingsplicht na te leven.<br>
+<br>
+Als de rechtspersoon die die meldingsplicht heeft, in gebreke blijft en de termijn die het VEKA heeft vastgesteld, vermeld in het eerste lid, verstreken is, legt het VEKA, in afwijking van artikel 13.4.11, §1, 3°, de rechtspersoon die die meldingsplicht heeft, een administratieve geldboete op in de vorm van een dwangsom. Die dwangsom bedraagt 100 euro per dag dat de vastgestelde termijn, vermeld in het eerste lid, wordt overschreden.<br>
+<br>
+De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
 ## HOOFDSTUK V. [Administratieve sancties opgelegd door de Vlaamse Belastingdienst (verv. decr. 23 december 2016, art. 8, I: 8 januari 2017)]
 
 ### ART. 13.5.1.
 
 <p>§ 1. Bij niet-naleving van de door de Vlaamse Regering in toepassing van artikel 14.2.2 opgelegde eisen inzake de consistentie, volledigheid en accuraatheid van de te rapporteren gegevens, kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen die niet lager is dan 150 euro, en niet hoger dan 20.000 euro.<br>
 <br>
-§ 2. Bij niet-naleving van de in toepassing van artikel 14.2.2 opgelegde rapporterings- of betaaltermijn kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen van 250 euro per kalenderdag vertraging.<br>
+§ 2. Bij niet-naleving van de in toepassing van artikel 14.2.2 opgelegde rapporterings- of betaaltermijn kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen van 250 euro per dag vertraging.<br>
 <br>
 § 3. De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete, vermeld in paragraaf 1 en 2, in kennis gesteld met een aangetekende brief met bericht van ontvangst. De kennisgeving vermeldt het bedrag van de administratieve geldboete.<br>
 <br>
-§ 4. De betrokkene kan tegen het opleggen van de administratieve geldboete bezwaar indienen bij de Vlaamse Belastingdienst. Het bezwaar moet worden gemotiveerd en op straffe van verval worden ingediend binnen zestig kalenderdagen na de kennisgeving van de administratieve geldboete.<br>
+§ 4. De betrokkene kan tegen het opleggen van de administratieve geldboete bezwaar indienen bij de Vlaamse Belastingdienst. Het bezwaar moet worden gemotiveerd en op straffe van verval worden ingediend binnen zestig dagen na de kennisgeving van de administratieve geldboete.<br>
 <br>
-§ 5. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving ervan, of indien bezwaar is ingediend, binnen zestig kalenderdagen na de beslissing omtrent het bezwaar.<br>
+§ 5. De administratieve geldboete moet worden betaald binnen zestig dagen na de kennisgeving ervan, of indien bezwaar is ingediend, binnen zestig dagen na de beslissing omtrent het bezwaar.<br>
 <br>
 § 6. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan.<br>
 <br>
@@ -5138,7 +5226,7 @@ De inkomsten die voortvloeien uit de opbrengst van de administratieve geldboetes
 
 ### ART 13.7.2.
 
-Artikel 73 van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019 is van toepassing op de krachtens dit decreet opgelegde administratieve geldboetes.
+Artikel 71, §3, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023 is van toepassing op de krachtens dit decreet opgelegde administratieve geldboetes.
 
 ## TITEL XIV. HEFFINGEN
 
@@ -5480,7 +5568,7 @@ Ten aanzien van de beperkingen, vermeld in artikel 4.1.5/2, genieten de gedelege
 
 ### ART 15.3.5/20.
 
-Als de melding door de leverancier aan de netbeheerder dat hij aan de netgebruiker geen afrekenings- of slotfactuur kan bezorgen binnen de termijnen die zijn vastgelegd krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, al heeft plaatsgehad op de datum van de inwerkingtreding van het decreet van 13 juni 2025 tot wijziging van het Energiedecreet van 8 mei 2009, wat de invoering van een forfaitaire vergoedingsregeling voor geblokkeerde toegangspunten en de uitstelmogelijkheden voor de PV-verplichting betreft, begint de termijn van 180 dagen, vermeld in artikel 4.1.11/7/2, tweede lid, vanaf die dag te lopen.
+Als de melding door de leverancier aan de netbeheerder dat hij aan de netgebruiker geen afrekenings- of slotfactuur kan bezorgen binnen de termijnen die zijn vastgelegd krachtens dit decreet of in de technische reglementen, vermeld in artikel 4.2.1, al heeft plaatsgehad op de datum van de inwerkingtreding van het decreet van 13 juni 2025 tot wijziging van het Energiedecreet van 8 mei 2009, wat de invoering van een forfaitaire vergoedingsregeling voor geblokkeerde toegangspunten en de uitstelmogelijkheden voor de PV-verplichting betreft, begint de termijn van 180 dagen, vermeld in artikel 4.1.11/7/1, tweede lid, vanaf die dag te lopen.
 
 ### ART 15.3.5/21.
 
