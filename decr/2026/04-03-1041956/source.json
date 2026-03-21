@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041956,
+  "title": "Decreet van 2026-04-03 tot wijziging van het Energiedecreet van 8 mei 2009 en het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, wat betreft energie-efficiëntie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041956/VolledigDocument?datum=2026-03-21",
+  "source_sha256": "2670d956c97763c7a735f72b99b3caef03556ae8aa0cd80a4a025effb797189f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041956&param=informatie",
+  "as_of": "2026-03-21",
+  "made": "2026-04-03",
+  "gazette": "2026-04-27",
+  "numac": 2026003095,
+  "document_start": "2026-05-07",
+  "document_end": null,
+  "in_force": "2026-03-21",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2026-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
