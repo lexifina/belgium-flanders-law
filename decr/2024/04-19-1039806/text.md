@@ -42,7 +42,7 @@ Behoudens voor de taken en bevoegdheden, vermeld in paragraaf 4, eerste lid, kan
 <br>
 §4. De Vlaamse Nutsregulator fungeert voor het Vlaamse Gewest en voor de gewestelijke bevoegdheden inzake elektriciteit en aardgas als de regulerende instantie, vermeld in artikel 57, tweede lid, van de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU en artikel 39, tweede lid, van de richtlijn 2009/73/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG.<br>
 <br>
-De VREG wordt aangewezen als regulator voor de markt voor het vervoer van koolstofdioxide via pijpleidingen als bedoeld in het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.<br>
+De Vlaamse Nutsregulator wordt aangewezen als regulator voor de markt voor het vervoer van koolstofdioxide via pijpleidingen als bedoeld in het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.<br>
 <br>
 Bij de uitoefening van hun taken en bevoegdheden als regulator vragen of ontvangen de Vlaamse Nutsregulator en zijn bestuurders en personeelsleden, geen instructies over elektriciteit en aardgas van de Vlaamse Regering, van het Vlaams Parlement of van een andere publieke entiteit.<br>
 <br>
