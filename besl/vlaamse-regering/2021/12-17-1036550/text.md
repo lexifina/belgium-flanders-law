@@ -71,27 +71,27 @@ Bij het gunnen van de opdracht voor de installatie, het onderhoud en de commerci
 
 ### ART 5.
 
-§ 1. De bevoegde overheid organiseert een digitaal loket waarop de stukken en gegevens over de aanvraag van een laadpunt elektronisch uitgewisseld worden. Het digitale loket is toegankelijk via een webtoepassing van de Vlaamse overheid.<br>
+§1. De bevoegde overheid organiseert een digitaal loket waarop de stukken en gegevens over de aanvraag van een laadpunt elektronisch uitgewisseld worden. Het digitale loket is toegankelijk via een webtoepassing van de Vlaamse overheid.<br>
 <br>
 De bevoegde overheid bepaalt de toegelaten formaten en vereisten van de tekstdocumenten, bestanden, foto's en plannen.<br>
 <br>
-§ 2. De statusvermelding op het digitale loket vermeldt de datum en het uur van de indiening en geldt als bewijs van de ontvangst van de aanvraag.<br>
+§2. De statusvermelding op het digitale loket vermeldt de datum en het uur van de indiening en geldt als bewijs van de ontvangst van de aanvraag.<br>
 <br>
-§ 3. De bevoegde overheid keurt de aanvraag van een natuurlijk persoon voor een publiek toegankelijk laadpunt goed als al de volgende voorwaarden samen vervuld zijn:<br>
+§3. De bevoegde overheid keurt de aanvraag van een natuurlijk persoon voor een publiek toegankelijk laadpunt goed als al de volgende voorwaarden samen vervuld zijn:<br>
 1° de aanvraag heeft betrekking op de hoofdverblijfplaats van de aanvrager;<br>
 2° de aanvrager toont aan dat hij in het bezit is of zal zijn van een batterijelektrisch voertuig van categorie M1 (personenwagen) of N1 (lichte vracht), of er permanent een gebruikt;<br>
 3° de aanvrager toont aan dat hij niet over een eigen parkeergelegenheid beschikt of niet in de mogelijkheid is om daar een laadpunt te installeren;<br>
 4° er is geen publiek toegankelijk laadpunt beschikbaar op een wandelafstand van 250 meter van de hoofdverblijfplaats van de aanvrager;<br>
-5° de aanvraag is verenigbaar met de geldende parkeerregels.<br>
+5° er bestaat geen strategisch laadplan in de gemeente waar de hoofdverblijfplaats van de aanvrager is gevestigd of de gemeente wenst de laadpalen niet uitsluitend op basis van het strategisch laadplan uit te rollen.<br>
 <br>
-§ 4. De bevoegde overheid keurt de aanvraag van een rechtspersoon, onderneming of iedere andere organisatie zonder rechtspersoonlijkheid voor een publiek toegankelijk laadpunt goed als al de volgende voorwaarden samen vervuld zijn:<br>
+§4. De bevoegde overheid keurt de aanvraag van een rechtspersoon, onderneming of iedere andere organisatie zonder rechtspersoonlijkheid voor een publiek toegankelijk laadpunt goed als al de volgende voorwaarden samen vervuld zijn:<br>
 1° de aanvraag heeft betrekking op de maatschappelijke zetel of een vestigingseenheid zoals opgenomen in de Kruispuntdatabank der ondernemingen;<br>
 2° de aanvrager toont aan dat hij een bijkomend batterijelektrisch voertuig van categorie M1 (personenwagen) of N1 (lichte vracht) gebruikt of zal gebruiken;<br>
 3° de aanvrager toont aan dat hij niet over een eigen parkeergelegenheid beschikt of niet in de mogelijkheid is om daar een laadpunt te installeren;<br>
 4° er is geen publiek toegankelijk laadpunt beschikbaar op een wandelafstand van 250 meter van de gebouwen van de aanvrager;<br>
-5° de aanvraag is verenigbaar met de geldende parkeerregels.<br>
+5° er bestaat geen strategisch laadplan in de gemeente waar de gebouwen van de aanvrager zijn gevestigd of de gemeente wenst de laadpalen niet uitsluitend op basis van het strategisch laadplan uit te rollen.<br>
 <br>
-§ 5. De bevoegde overheid keurt de aanvraag van een houder van een vergunning voor taxidiensten of van een vergunning voor een dienst voor individueel bezoldigd personenvervoer of van een aanbieder van autodelen voor een laadpunt met minstens één standplaats voor taxi's of één parkeerplaats voor autodelen op het openbare domein goed als al de volgende voorwaarden samen vervuld zijn:<br>
+§5. De bevoegde overheid keurt de aanvraag van een houder van een vergunning voor taxidiensten of van een vergunning voor een dienst voor individueel bezoldigd personenvervoer of van een aanbieder van autodelen voor een laadpunt met minstens één standplaats voor taxi's of één parkeerplaats voor autodelen op het openbare domein goed als al de volgende voorwaarden samen vervuld zijn:<br>
 1° de aanvrager toont aan dat hij een bijkomend batterijelektrisch voertuig van categorie M1 (personenwagen) of N1 (lichte vracht) gebruikt of zal gebruiken;<br>
 2° de aanvrager toont aan dat er geen laadpunt beschikbaar is op de beoogde locatie;<br>
 3° de aanvrager toont aan dat hij over een machtiging of een vergunning van de gemeente beschikt om de bestaande standplaatsen of de bestaande parkeerplaatsen, voorbehouden voor autodelen, op de beoogde locatie te gebruiken.<br>
@@ -101,17 +101,19 @@ In het eerste lid wordt verstaan onder:<br>
 2° dienst voor individueel bezoldigd personenvervoer: een dienst voor individueel bezoldigd personenvervoer als vermeld in artikel 2, 5°, van het decreet van 29 maart 2019 betreffende het individueel bezoldigd personenvervoer;<br>
 3° taxidienst: een dienst als vermeld in artikel 2, 4°, van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg, zoals dat van kracht was tot 1 januari 2020, waarvan de vergunning nog geldig is conform artikel 43 van het decreet van 29 maart 2019 betreffende het individueel bezoldigd personenvervoer.<br>
 <br>
-§ 6. De minister bepaalt wanneer een laadpunt als beschikbaar wordt aangezien als vermeld in paragraaf 3, 4°, paragraaf 4, 4°, en paragraaf 5, eerste lid, 2°. Daarbij wordt rekening gehouden met de gebruiksgegevens en de kosten, met inbegrip van de parkeerkosten die verbonden zijn aan het gebruik van het laadpunt in kwestie.<br>
+§6. De minister bepaalt wanneer een laadpunt als beschikbaar wordt aangezien als vermeld in paragraaf 3, 4°, paragraaf 4, 4°, en paragraaf 5, eerste lid, 2°. Daarbij wordt rekening gehouden met de toegankelijkheid, de gebruiksgegevens en de kosten, met inbegrip van de parkeerkosten die verbonden zijn aan het gebruik van het laadpunt in kwestie.<br>
 <br>
-§ 7. De bevoegde overheid neemt een beslissing over de aanvraag binnen veertig dagen na de dag waarop de volledige aanvraag is ingediend.<br>
+§7. De bevoegde overheid neemt een beslissing over de aanvraag binnen veertig dagen na de dag waarop de volledige aanvraag is ingediend.<br>
 <br>
 Een aanvraag die niet in het juiste formaat wordt ingediend of niet de juiste documenten bevat, is onvolledig. De bevoegde overheid neemt in dat geval contact op met de aanvrager om eventuele aanvullingen te verkrijgen. Zolang de aanvraag onvolledig is, wordt ze niet in behandeling genomen.<br>
 <br>
-§ 8. De beslissing over de aanvraag wordt geregistreerd op het digitale loket binnen tien dagen vanaf de dag waarop de bevoegde overheid beslist over de aanvraag.<br>
+§8. De beslissing over de aanvraag wordt geregistreerd op het digitale loket binnen tien dagen vanaf de dag waarop de bevoegde overheid beslist over de aanvraag.<br>
 <br>
-§ 9. De laadpuntexploitant, die aangewezen is voor de regio in kwestie, wordt van de goedgekeurde aanvraag op de hoogte gebracht.<br>
+§9. De laadpuntexploitant, die aangewezen is voor de regio in kwestie, wordt van de goedgekeurde aanvraag op de hoogte gebracht.<br>
 <br>
-§ 10. De bevoegde overheid bewaart de gegevens met betrekking tot de aanvraag van een laadpunt totdat het dossier van de aanvraag is afgesloten.
+§10. De bevoegde overheid bewaart de gegevens met betrekking tot de aanvraag van een laadpunt totdat het dossier van de aanvraag is afgesloten.<br>
+<br>
+§11. In dit artikel wordt verstaan onder strategisch laadplan: een plan dat een gemeente opstelt en dat is aanvaard door de bevoegde overheid. Het plan bevat locaties om toekomstige laadinfrastructuur te plaatsen. Het plan is opgesteld overeenkomstig de vastgestelde laadbehoeften en de leidraad voor de opmaak van een strategisch laadplan die de bevoegde overheid opstelt.
 
 ### ART 6.
 
@@ -120,7 +122,11 @@ De aanvraag wordt binnen een ordetermijn van zes maanden na de goedkeuring ervan
 2° de gemeente;<br>
 3° in voorkomend geval, een andere beheerder van het openbare domein waarop het laadpunt zal worden geïnstalleerd.<br>
 <br>
-De goedgekeurde aanvraag wordt na instemming van de wegbeheerder uitgevoerd binnen een wandelafstand van 250 meter vanaf het adres waarop de aanvraag betrekking heeft, of, in het geval, vermeld in artikel 5, § 5, op de beoogde standplaats voor taxi's of parkeerplaats voor autodelen. Als dat niet mogelijk is, wordt het laadpunt geïnstalleerd op de dichtstbijzijnde mogelijke en nuttige plaats.<br>
+Op voorwaarde dat de wegbeheerder toestemming geeft tot inname van het openbare domein, wordt de goedgekeurde aanvraag van een laadpunt uitgevoerd binnen een redelijke wandelafstand vanaf het adres waarop de aanvraag betrekking heeft.<br>
+<br>
+In het tweede lid wordt verstaan onder redelijke wandelafstand: een wandelafstand van 250 meter. Als er een gegronde en naar behoren gemotiveerde reden is om het laadpunt verder te plaatsen dan die 250 meter, wordt het laadpunt geïnstalleerd op de dichtstbijzijnde mogelijke en nuttige plaats.<br>
+<br>
+In het geval, vermeld in artikel 5, §5, wordt het laadpunt geïnstalleerd op de beoogde standplaats voor taxi’s of parkeerplaats voor autodelen.<br>
 <br>
 De bevoegde overheid kan in haar goedkeuringsbeslissing niet-bindende aanbevelingen formuleren over de plaats waar, of de specifieke zone waarin, het aangevraagde laadpunt het best uitgevoerd kan worden.
 
