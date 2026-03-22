@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041824,
+  "title": "Besluit van de Vlaamse Regering van 2026-01-30 tot wijziging van het besluit van de Vlaamse Regering van 17 december 2021 over de laadinfrastructuur voor elektrische voertuigen, wat betreft de strategische plaatsing van laadinfrastructuur en de modaliteiten van het systeem ‘Paal volgt Wagen’",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041824/VolledigDocument?datum=2026-03-22",
+  "source_sha256": "3c12ac9ddf508a1c79923d840156d801916ec6e5ea5349a1926d094819ff48e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041824&param=informatie",
+  "as_of": "2026-03-22",
+  "made": "2026-01-30",
+  "gazette": "2026-03-12",
+  "numac": 2026001749,
+  "document_start": "2026-03-22",
+  "document_end": null,
+  "in_force": "2026-03-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-03-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
