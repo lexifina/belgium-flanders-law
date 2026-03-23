@@ -115,7 +115,7 @@ Het erkende dierenasiel dient uiterlijk op 31 maart van ieder jaar een subsidiea
 <br>
 De dienst beslist over de toekenning van de subsidie uiterlijk op 31 mei van ieder jaar waarin het de subsidieaanvragen heeft ontvangen. De dienst brengt het erkende dierenasiel op de hoogte van die beslissing uiterlijk vijftien dagen nadat hij de beslissing heeft genomen.<br>
 <br>
-In afwijking van het eerste en tweede lid dienen de erkende dierenasielen voor het jaar 2023 uiterlijk op 30 juni 2023 een subsidieaanvraag in bij de dienst, waarna de dienst uiterlijk op 31 augustus 2023 beslist over de toekenning van de subsidie.
+In afwijking van het eerste en tweede lid dienen de erkende dierenasielen voor het jaar 2026 uiterlijk op 30 juni 2026 een subsidieaanvraag in bij de dienst, waarna de dienst uiterlijk op 31 augustus 2026 beslist over de toekenning van de subsidie.
 
 ### ART 7.
 
