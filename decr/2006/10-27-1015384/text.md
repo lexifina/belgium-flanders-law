@@ -93,7 +93,14 @@ Als de rechtspersoon, vermeld in punt a), en de persoon, vermeld in punt b), voo
 
 ### ART. 3.
 
-§ 1. Het bodembeleid is het beleid gericht op een duurzaam bodembeheer   waarbij tegemoet gekomen wordt aan de behoeften van de huidige generaties zonder   de mogelijkheden van toekomstige generaties om aan hun behoeften te voldoen in   gedrang te brengen. Daarvoor dient het beleid de kwaliteit van de bodem door   bodemsanering en bodembescherming te verzekeren, te behouden en te herstellen,   zodat onze bodems in de toekomst nog zoveel mogelijk functies kunnen uitoefenen   en er nog verschillende types landgebruik mogelijk blijven. Tevens is het   bodembeleid er op gericht een zo breed mogelijk maatschappelijk draagvlak te   scheppen, waarbij educatie en voorlichting van de doelgroepen inzake bodembeheer   wordt gestimuleerd.<BR><BR>§ 2. Het beleid inzake bodemsanering is er op gericht   om zoveel mogelijk de richtwaarden voor bodemkwaliteit te realiseren. Deze   richtwaarden worden door de Vlaamse Regering vastgesteld en beantwoorden aan het   gehalte aan verontreinigende stoffen of organismen op of in de bodem, dat   toelaat dat de bodem al zijn functies kan vervullen zonder dat enige beperking   moet worden opgelegd.<BR><BR>§ 3. Het beleid inzake bodembescherming is er op   gericht de bodem te beschermen tegen verontreiniging en verstoring, en de   waardevolle bodems te vrijwaren. De bescherming van de bodem tegen   verontreiniging heeft tot doel zoveel mogelijk de streefwaarden voor   bodemkwaliteit te behouden. Deze streefwaarden worden door de Vlaamse Regering   vastgesteld en beantwoorden aan het gehalte aan verontreinigende stoffen of   organismen op of in de bodem, dat als normale achtergrond in niet-verontreinigde   bodems met vergelijkbare bodemkenmerken teruggevonden wordt.<BR><BR>§ 4. Het   duurzame gebruik van uitgegraven bodem wordt aangemoedigd zodat de uitgegraven   bodem maximaal wordt ingezet als alternatief voor primaire   oppervlaktedelfstoffen.<BR><BR>
+§ 1. Het bodembeleid is het beleid gericht op een duurzaam bodembeheer waarbij tegemoet gekomen wordt aan de behoeften van de huidige generaties zonder de mogelijkheden van toekomstige generaties om aan hun behoeften te voldoen in gedrang te brengen. Daarvoor dient het beleid de kwaliteit van de bodem door bodemsanering en bodembescherming te verzekeren, te behouden en te herstellen, zodat onze bodems in de toekomst nog zoveel mogelijk functies kunnen uitoefenen en er nog verschillende types landgebruik mogelijk blijven. Tevens is het bodembeleid er op gericht een zo breed mogelijk maatschappelijk draagvlak te scheppen, waarbij educatie en voorlichting van de doelgroepen inzake bodembeheer wordt gestimuleerd.<br>
+<br>
+§ 2. Het beleid inzake bodemsanering is er op gericht om zoveel mogelijk de richtwaarden voor bodemkwaliteit te realiseren. Deze richtwaarden worden door de Vlaamse Regering vastgesteld en beantwoorden aan het gehalte aan verontreinigende stoffen of organismen op of in de bodem, dat toelaat dat de bodem al zijn functies kan vervullen zonder dat enige beperking moet worden opgelegd.&nbsp;Als het vanwege wetenschappelijk-technische vaststellingen of socio-economische overwegingen niet haalbaar is om dit multifunctionele kwaliteitsniveau volledig te waarborgen, kan de Vlaamse Regering richtwaarden vaststellen die het voormelde kwaliteitsniveau zoveel als redelijkerwijze mogelijk is, te benaderen, rekening houdend met voormelde vaststellingen en overwegingen.<br>
+<br>
+§ 3. Het beleid inzake bodembescherming is er op gericht de bodem te beschermen tegen verontreiniging en verstoring, en de waardevolle bodems te vrijwaren. De bescherming van de bodem tegen verontreiniging heeft tot doel zoveel mogelijk de streefwaarden voor bodemkwaliteit te behouden. Deze streefwaarden worden door de Vlaamse Regering vastgesteld en beantwoorden aan het gehalte aan verontreinigende stoffen of organismen op of in de bodem, dat als normale achtergrond in niet-verontreinigde bodems met vergelijkbare bodemkenmerken teruggevonden wordt.<br>
+<br>
+§ 4. Het duurzame gebruik van uitgegraven bodem wordt aangemoedigd zodat de uitgegraven bodem maximaal wordt ingezet als alternatief voor primaire oppervlaktedelfstoffen.<br>
+&nbsp;
 
 ## HOOFDSTUK III Algemene bepalingen
 
@@ -188,7 +195,16 @@ De Vlaamse Regering kan nadere regels vaststellen over de inhoud en de uitvoerin
 
 ### ART. 9.
 
-§ 1. De Vlaamse Regering stelt bodemsaneringsnormen vast. Deze bodemsaneringsnormen beantwoorden aan een niveau van bodemverontreiniging dat een aanmerkelijk risico inhoudt van negatieve effecten voor de mens of het milieu, gelet op de kenmerken van de bodem en de functies die deze vervult.<br /><br />§ 2. Als er duidelijke aanwijzingen zijn dat de bodemverontreiniging de bodemsaneringsnormen overschrijdt of dreigt te overschrijden, wordt onverwijld een beschrijvend bodemonderzoek uitgevoerd.<br /><br />§ 3. Als het beschrijvend bodemonderzoek aantoont dat de bodemsaneringsnormen overschreden zijn, wordt onverwijld overgegaan tot bodemsanering.<br /><br />§ 4. Als de bodemverontreiniging omwille van haar bijzondere aard niet aan bodemsaneringsnormen kan worden getoetst, geldt het saneringscriterium, vermeld in artikel 19, § 1 en § 2.<br /><br />§ 5. De bepalingen van § 2 en § 4 zijn niet van toepassing op schadegevallen die conform de bepalingen van artikel 74 tot en met 82 worden behandeld.<br /><br />
+§ 1. De Vlaamse Regering stelt bodemsaneringsnormen vast. Deze bodemsaneringsnormen beantwoorden aan een niveau van bodemverontreiniging dat een aanmerkelijk risico inhoudt van negatieve effecten voor de mens of het milieu, gelet op de kenmerken van de bodem en de functies die deze vervult.<br>
+<br>
+§ 2. Als er duidelijke aanwijzingen zijn dat de bodemverontreiniging de bodemsaneringsnormen overschrijdt of dreigt te overschrijden, wordt onverwijld een beschrijvend bodemonderzoek uitgevoerd.<br>
+<br>
+§ 3. Als het beschrijvend bodemonderzoek aantoont dat de bodemsaneringsnormen overschreden zijn, wordt onverwijld overgegaan tot bodemsanering.<br>
+<br>
+§ 4. Als de bodemverontreiniging omwille van haar bijzondere aard niet aan bodemsaneringsnormen kan worden getoetst of als voor verontreinigende stoffen geen bodemsaneringsnormen zijn vastgesteld, geldt het saneringscriterium, vermeld in artikel 19, § 1 en § 2.<br>
+<br>
+§ 5. De bepalingen van § 2 en § 4 zijn niet van toepassing op schadegevallen die conform de bepalingen van artikel 74 tot en met 82 worden behandeld.<br>
+&nbsp;
 
 ## Onderafdeling II Saneringsdoel
 
@@ -1422,6 +1438,10 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op:<br>
 
 § 1. Om de verspreiding van bodemverontreiniging te beheersen en het duurzame gebruik van bodemmaterialen te bevorderen stelt de Vlaamse Regering nadere regelen vast betreffende de voorwaarden voor het gebruik van bodemmaterialen, de procedure voor het traceren van bodemmaterialen en de taken die een bodembeheerorganisatie, tussentijdse opslagplaats, grondreinigingscentrum en inrichting voor de opslag en behandeling van bagger- en ruimingsspecie als vermeld in artikel 139 hierbij vervult.<br>
 <br>
+Bij het bepalen van nadere regels betreffende de voorwaarden voor het gebruik van bodemmaterialen, vermeld in het eerste lid, kan de Vlaamse Regering waarden voor het gebruik van bodemmaterialen vaststellen.<br>
+<br>
+De waarden voor vrij gebruik van bodemmaterialen zijn gelijk aan de richtwaarden voor bodemkwaliteit, vermeld in artikel 3, §2.<br>
+<br>
 § 2. De Vlaamse Regering kan het gebruik van bodemmaterialen afhankelijk maken van het opstellen van een technisch verslag. De Vlaamse Regering stelt nadere regelen vast met betrekking tot de inhoud van het technisch verslag.<br>
 <br>
 Een technisch verslag wordt opgesteld onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij ontstentenis van dergelijke standaardprocedure wordt het technisch verslag opgesteld volgens een code van goede praktijk.<br>
@@ -1556,6 +1576,10 @@ De vrijstelling van de verplichting om het beschrijvend bodemonderzoek of de bod
 ### ART. 158.
 
 <P>De OVAM kan beslissen om bodemsanering of de andere maatregelen, vermeld in   titel III, hoofdstuk VI, afdeling III en VI, op siteniveau ambtshalve uit te   voeren.</P>
+
+### ART 158bis.
+
+Met het oog op de vaststelling van de richtwaarden voor bodemkwaliteit, vermeld in artikel 3, §2, kan de OVAM ambtshalve overgaan tot het nemen van monsters.
 
 ### ART. 159.
 
