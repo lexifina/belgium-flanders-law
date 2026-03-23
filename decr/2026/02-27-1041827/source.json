@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041827,
+  "title": "Decreet van 2026-02-27 tot wijziging van het Bodemdecreet van 27 oktober 2006, wat betreft de vaststelling van richtwaarden voor bodemkwaliteit en waarden voor het gebruik van bodemmaterialen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041827/VolledigDocument?datum=2026-03-23",
+  "source_sha256": "95248f3dbfac8ea4d77342bc7f48e352e5bef60c6de93ddeb31c23ebadcde857",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041827&param=informatie",
+  "as_of": "2026-03-23",
+  "made": "2026-02-27",
+  "gazette": "2026-03-13",
+  "numac": 2026001846,
+  "document_start": "2026-03-23",
+  "document_end": null,
+  "in_force": "2026-03-23",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
