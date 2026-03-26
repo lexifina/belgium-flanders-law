@@ -9,12 +9,14 @@ De   Vlaamse Regering,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° ...;<br>
+1° opleidingsinstituut: een publieke of private instelling die opleidingen aanbiedt en die opgericht, gesubsidieerd of erkend is door de bevoegde overheid om opleidingen te verstrekken;<br>
 2° verordening: verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden.
 
 ### ART. 2.
 
-Dit besluit is van toepassing op:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   slachthuizen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   inrichtingen waar dieren voor hun pels gedood worden.
+Dit besluit is van toepassing op:<br>
+1° slachthuizen;<br>
+2° het doden en slachten van schapen, geiten en varkens voor particulier huishoudelijk verbruik.
 
 ## HOOFDSTUK 2. Getuigschrift van vakbekwaamheid
 
@@ -24,7 +26,7 @@ Dit besluit is van toepassing op:<BR   style="WHITE-SPACE: normal; WORD-SPACING:
 
 ### ART. 4.
 
-Overeenkomstig artikel 7, lid 3, van de verordening worden   pelsdieren gedood in aanwezigheid en onder rechtstreekse supervisie van een   persoon die beschikt over een getuigschrift van vakbekwaamheid als vermeld in   artikel 5, 6 of 7 van dit besluit.
+...
 
 ### ART. 5.
 
@@ -36,13 +38,13 @@ Overeenkomstig artikel 7, lid 3, van de verordening worden   pelsdieren gedood i
 
 <p>In het eerste lid wordt verstaan onder:<br>
 1° officiële dierenarts: de dierenarts die door de bevoegde overheid aangesteld is om de dierenwelzijnscontroles in de slachthuizen uit te voeren;<br>
-2° opleidingsinstituut: een publieke of private instelling die opleidingen aanbiedt en die opgericht, gesubsidieerd of erkend is door de bevoegde overheid om opleidingen te verstrekken.</p>
+2° ...</p>
 
 <p>Om te slagen voor het examen, behaalt de kandidaat ten minste 60% van de punten.</p>
 
 <p>Als de kandidaat niet geslaagd is voor het examen, wacht hij ten minste een week voor hij opnieuw examen kan afleggen.</p>
 
-<p>§ 4. De organisator van het examen, vermeld in paragraaf 1, levert de getuigschriften van vakbekwaamheid af, of stuurt de lijst van geslaagde personen door naar de dienst, waarna de dienst de getuigschriften aflevert.</p>
+<p>§ 4. De organisator van het examen, vermeld in paragraaf 1, stuurt de lijst van geslaagde personen door naar de dienst, waarna de dienst de getuigschriften aflevert.</p>
 
 <p>§ 5. De getuigschriften van vakbekwaamheid worden opgesteld overeenkomstig het modelformulier, opgenomen in bijlage 1, die bij dit besluit is gevoegd.</p>
 
@@ -102,11 +104,45 @@ De bedrijfsexploitant bezorgt de naam en de contactgegevens van de functionaris 
 
 De functionaris voor het dierenwelzijn bezorgt de dienst zesmaandelijks een kopie van het register van de maatregelen die zijn genomen om het dierenwelzijn te verbeteren. De dienst kan die frequentie verhogen of verlagen naargelang de inspectieresultaten voor het slachthuis.
 
-## HOOFDSTUK 4. Indeling, bouw en uitrusting van slachthuizen
+## HOOFDSTUK 4. ...
 
 ### ART. 8.
 
-<P>§ 1. Tot en met 8 december 2019 voldoen slachthuizen, onderdelen ervan of   apparatuur, die tot 31 december 2012 operationeel werden, aan de bepalingen die   zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Overeenkomstig de artikelen 14, lid 1, en 29, lid 1, van de verordening   voldoen de slachthuizen, onderdelen ervan en apparatuur, vermeld in het eerste   lid, met ingang van 9 december 2019 aan de voorschriften, vermeld in bijlage II   van de verordening.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§ 2. Overeenkomstig artikel 29, lid 2, van de verordening voldoen   slachthuizen, onderdelen ervan of apparatuur, die operationeel zijn vanaf 1   januari 2013, aan de voorschriften, vermeld in bijlage II van de   verordening.</P>
+<p>...</p>
+
+## HOOFDSTUK 4/1. Het getuigschrift van vakbekwaamheid voor het slachten van schapen, geiten of varkens voor particulier huishoudelijk verbruik
+
+### ART 8/1.
+
+Personen die schapen, geiten of varkens doden en slachten voor particulier huishoudelijk gebruik conform artikel 39, §3, tweede lid, 2°, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, zijn in het bezit van een getuigschrift van vakbekwaamheid als vermeld in artikel 5, 7 of 8/2 van dit besluit.<br>
+<br>
+Personen die schapen of geiten doden en slachten op een erkende inrichting &nbsp;voor het gegroepeerd slachten van dieren voor particulier huishoudelijk verbruik conform artikel 39, §2, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024, zijn in het bezit van een getuigschrift van vakbekwaamheid als vermeld in artikel 5, 7 of 8/2 van dit besluit.
+
+### ART 8/2.
+
+§1. In dit artikel wordt verstaan onder afdeling: de afdeling van het Departement Omgeving die bevoegd is voor het dierenwelzijn.<br>
+<br>
+§2. Overeenkomstig artikel 39, §3, tweede lid, 2°, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 kunnen personen die een opleiding over het slachten of doden van schapen, geiten of varkens volgen en slagen voor een onafhankelijk examen een getuigschrift van vakbekwaamheid, verkrijgen.<br>
+<br>
+§3. Overeenkomstig artikel 39, §3, tweede lid, 2°, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 wordt de opleiding verzorgd door een opleidingsinstituut of door een andere persoon die aantoonbare expertise heeft in het domein van dierenwelzijn bij het slachten en doden, op basis van een cursus die de afdeling heeft goedgekeurd.&nbsp;<br>
+<br>
+§4. Het opleidingsinstituut of de persoon, vermeld in paragraaf 3, neemt het examen, vermeld in paragaaf 2, af.&nbsp;<br>
+<br>
+Het examen, vermeld in paragraaf 2, bestaat uit ten minste dertig vragen waarbij iedere diersoort die tijdens de opleiding behandeld werd aan bod komt.&nbsp;<br>
+<br>
+Een kandidaat die ten minste 60% van de punten haalt, is geslaagd voor het examen, vermeld in paragraaf 2.<br>
+<br>
+Een kandidaat die niet geslaagd is voor het examen, vermeld in paragraaf 2, volgt de opleiding opnieuw.<br>
+<br>
+§5. Het opleidingsinstituut of de persoon, vermeld in paragraaf 3, stuurt de lijst van geslaagde personen door naar de afdeling, waarna de afdeling de getuigschriften, vermeld in artikel 8/1, uitreikt. Het getuigschrift, vermeld in artikel 8/1, vermeldt de diersoort of de diersoorten waarvoor de kandidaat geslaagd is voor het examen, vermeld in paragraaf 2.<br>
+<br>
+§6. De getuigschriften, vermeld in artikel 8/1, worden opgesteld overeenkomstig het modelformulier dat is opgenomen in bijlage 1, die bij dit besluit is gevoegd.<br>
+<br>
+§7. Het getuigschrift, vermeld in artikel 8/1, is vijf jaar geldig.<br>
+<br>
+De geldigheidsduur van het getuigschrift, vermeld in artikel 8/1, kan verlengd worden met een nieuwe periode van vijf jaar als de houder van het getuigschrift binnen vijf jaar na het behalen van het getuigschrift een opfrissingscursus volgt. De opfrissingscursus wordt verzorgd door een opleidingsinstituut of door een andere persoon die aantoonbare expertise heeft in het domein van dierenwelzijn bij het slachten en doden, op basis van een cursus die de afdeling heeft goedgekeurd.<br>
+<br>
+De organisator van de opfrissingscursus, vermeld in het tweede lid, stuurt de lijst van aanwezigen van het cursusmoment of desgevallend cursusmomenten door naar de afdeling, waarna de afdeling de getuigschriften verlengt.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
@@ -124,4 +160,4 @@ Het getuigschrift van vakbekwaamheid<BR   style="WHITE-SPACE: normal; WORD-SPACI
 
 ### BIJLAGE
 
-<P>Indeling,   bouw en uitrusting van slachthuizen<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>I.   Algemene voorschriften<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1.   Elk slachthuis moet beschikken over passende voorzieningen en installaties om de   dieren uit de vervoermiddelen uit te laden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>II.   Voorschriften voor niet in containers aangevoerde dieren<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1.   Als het slachthuis beschikt over voorzieningen om de dieren uit te laden, moeten   die een stroef loopvlak hebben en zo nodig een bescherming aan de zijkanten. De   bruggen, vlonders en loopplanken moeten voorzien zijn van zijwanden, relingen of   andere inrichtingen die moeten verhinderen dat de dieren eraf vallen. De   vlonders voor het in- en uitladen moeten de grond raken en moeten zo weinig   mogelijk hellen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2.   Drijfgangen moeten zo zijn geconstrueerd dat het gevaar voor verwonding van de   dieren zo klein mogelijk is, en moeten zo zijn aangelegd dat kan worden   gebruikgemaakt van het kudde-instinct.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>3.   Onverminderd de afwijkingen die toegestaan zijn uit hoofde van artikel 4 en 13   van Richtlijn 64/433/EG moeten de slachthuizen beschikken over voldoende hokken   die bescherming bieden tegen ongunstige weersomstandigheden, om de dieren naar   behoren onder te brengen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>4.   Onverminderd de elders in de wetgeving vastgestelde eisen moeten de stallen   beschikken over:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">-   vloeren die zo weinig mogelijk gevaar van uitglijden opleveren en die geen   verwondingen veroorzaken als de dieren ermee in contact komen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">-   adequate ventilatie, ook bij voorzienbare extreme omstandigheden qua temperatuur   en vochtigheidsgraad. Als ventilatieapparatuur noodzakelijk is, moet worden   gezorgd voor noodvoorzieningen die bij eventuele storingen onmiddellijk kunnen   worden ingezet;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">-   kunstlicht dat voldoende intens is om de dieren op elk moment te kunnen keuren.   Er moet, zo nodig, ook een adequate noodverlichting voorhanden zijn;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">-   in voorkomend geval, voorzieningen om de dieren vast te binden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">-   indien nodig, voldoende geschikt strooisel voor alle dieren die in de stallen   overnachten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>5.   Als de slachthuizen niet alleen stallen hebben zoals hierboven bedoeld, maar ook   weiden zonder natuurlijke bescherming of schaduw, moet worden gezorgd voor een   adequate vorm van bescherming tegen slechte weersomstandigheden. De weiden   moeten in een zodanige toestand worden gehouden dat de gezondheid van de dieren   niet wordt bedreigd door factoren van fysische, chemische of andere   aard.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>6.   Dieren die niet onmiddellijk na hun aankomst naar de slachtplaats worden   gebracht, moeten via adequate voorzieningen altijd over drinkwater kunnen   beschikken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>III.   Voorschriften in geval van elektrische bedwelming<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1.   Als de dieren afzonderlijk worden bedwelmd, moet de apparatuur:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   een systeem bevatten waarmee de impedantie van de belasting wordt gemeten, en   dat de apparatuur blokkeert als de minimaal vereiste stroomsterkte niet kan   worden bereikt;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   voorzien zijn van een systeem waarmee op zichtbare of hoorbare wijze wordt   aangegeven hoelang het apparaat contact maakt met het dier;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">c)   in verbinding staan met een toestel waarmee voltage en stroom bij belasting   worden aangegeven. Dat toestel moet zo worden geplaatst dat de gegevens voor de   bedwelmer duidelijk zichtbaar zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2.   Als er waterbaden worden gebruikt om pluimvee te bedwelmen, moet het waterpeil   kunnen worden geregeld om een goed contact met de kop van het dier mogelijk te   maken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>3.   Als pluimvee groepsgewijs in waterbaden wordt bedwelmd, moet een voltage worden   aangehouden die voldoende is om stroom op te wekken die sterk genoeg is om ieder   stuk pluimvee te bedwelmen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>4.   De afmetingen en de diepte van de waterbaden voor de bedwelming van pluimvee   moeten zijn afgestemd op de te slachten soorten pluimvee. Het waterbad mag bij   het inbrengen van de dieren niet overlopen. De elektrode onder water moet over   de volle lengte van het waterbad zijn aangebracht.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>IV.   Voorschriften in geval van bedwelming met koolstofdioxide<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1.   De ruimte waarin varkens aan het gas worden blootgesteld, en de apparatuur om de   varkens door de ruimte te transporteren, moeten zo zijn ontworpen, gebouwd en   onderhouden dat wordt voorkomen dat de varkens verwondingen oplopen en dat de   borstkas van de dieren wordt ingedrukt. Voorts moeten de varkens overeind kunnen   blijven staan tot ze het bewustzijn verliezen. De aanvoervoorzieningen en de   bedwelmingsruimte moeten adequaat zijn verlicht, zodat de varkens elkaar of hun   omgeving kunnen zien.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2.   De bedwelmingsruimte moet voorzien zijn van apparaten waarmee de concentratie   koolstofdioxide kan worden gemeten op de plaats van maximale expositie aan het   gas. Die apparaten moeten een duidelijk zichtbaar en hoorbaar   waarschuwingssignaal geven als de concentratie koolstofdioxide onder het   vereiste niveau daalt.</P>
+<p>...</p>
