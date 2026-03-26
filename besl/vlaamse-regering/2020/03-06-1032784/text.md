@@ -36,33 +36,16 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-De overeenkomst die opgenomen is in de bijlage die bij dit besluit is gevoegd, wordt bindend verklaard voor alle marktdeelnemers uit de sector vlas die niet bij de brancheorganisatie vzw BO Vlas &amp; Hennep zijn aangesloten en die de verschillende onderdelen van de vlasplant scheiden en zuiveren.
+...
 
 ### ART 2.
 
-Dit besluit houdt op uitwerking te hebben zes jaar na de publicatie ervan in het Belgisch Staatsblad.
+...
 
 ### ART 3.
 
-De Vlaamse minister, bevoegd voor de landbouw en de zeevisserij, is belast met de uitvoering van dit besluit.
+...
 
 ### Bijlage
 
-Overeenkomst als vermeld in artikel 1<br>
-<br>
-Volgende statistische gegevens worden bezorgd aan de vzw BO Vlas &amp; Hennep, Etienne Sabbelaan 51, 8500 Kortrijk:<br>
-1° maandelijks te ontvangen gegevens:<br>
-a) voorraad strovlas (ton);<br>
-b) voorraad lange vezel (ton);<br>
-c) voorraad korte vezel (ton);<br>
-d) omzet lange vezel (gezwingeld) (ton);<br>
-e) omzet korte vezel (gezwingeld) (ton);<br>
-2° jaarlijks te ontvangen gegevens:<br>
-a) beoogd gecontracteerd areaal (hectare), volgens regio, contracttype;<br>
-b) geschatte rendementen van de oogst (ton strovlas per hectare, percentage lange vezel versus strovlas, percentage korte vezel versus strovlas).<br>
-<br>
-Meldingsperiode:<br>
-1° voor de maandelijkse gegevens uiterlijk op de 20ste van elke maand, voor de voorgaande (voorbije) maand;<br>
-2° voor de jaarlijkse gegevens:<br>
-a)voor de beoogde gecontracteerde arealen: 30 april van het teeltjaar;<br>
-b)voor de geschatte rendementen van de oogst: 31 oktober van het teeltjaar.
+...

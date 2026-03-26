@@ -2,16 +2,16 @@
   "codex_id": 1032784,
   "title": "Besluit van de Vlaamse Regering van 2020-03-06 tot algemeen bindendverklaring van een overeenkomst binnen vzw BO Vlas & Hennep",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032784/VolledigDocument?datum=2020-04-05",
-  "source_sha256": "1e63c63280d90b1ad81fb22e4c1bb78e2e55f7ac5145c2a624beff2ffdc4edc5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032784/VolledigDocument?datum=2026-03-26",
+  "source_sha256": "d5ed679caa2777c350abb802684ad01f4023631c291eb9c23b3d5b4dc30ab566",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032784&param=informatie",
-  "as_of": "2020-04-05",
+  "as_of": "2026-03-26",
   "made": "2020-03-06",
   "gazette": "2020-03-26",
   "numac": 2020030339,
   "document_start": "2020-04-05",
   "document_end": "2026-03-25",
-  "in_force": "2020-04-05",
+  "in_force": "2026-03-26",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-03-26; future article versions excluded; article text as the API gives it"
 }
