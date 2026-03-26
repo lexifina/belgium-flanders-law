@@ -113,3 +113,36 @@ Het in het derde lid vermelde aangetekend schrijven heeft uitwerking op de derde
 Aan artikel V.121 van dezelfde codex, gewijzigd bij de decreten van 3 juli 2020, 9 juli 2021 en 22 maart 2024, wordt een zevende lid toegevoegd, dat luidt als volgt:<br>
 <br>
 “De personeelsleden die op 31 maart 2024 benoemd zijn als assistent, verkrijgen vanaf 1 april 2024 een benoeming als praktijkassistent met behoud van het tewerkstellingspercentage, de anciënniteit en de salarisschaal die ze op 1 april 2024 hadden.”.
+
+### ART 167.
+
+Aan deel IV van dezelfde codificatie, het laatst gewijzigd bij het decreet van 18 juli 2025, wordt een hoofdstuk 14 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Hoofdstuk 14. Tijdelijke projecten pioniersscholen”.
+
+### ART 168.
+
+In dezelfde codificatie, het laatst gewijzigd bij het decreet van 12 december 2025, wordt aan hoofdstuk 14, toegevoegd bij artikel 167, een artikel IV.55/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+“Art. IV.55/1. De Vlaamse Regering kan, binnen de perken van de begrotingskredieten die daarvoor zijn voorzien, en na een oproep naar respectievelijk scholen en consortia, middelen toekennen in het kader van het project pioniersscholen met het oog op een evolutie naar meer inclusief onderwijs.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de aanvraag en voor de toekenning van de middelen, vermeld in het eerste lid, voor:<br>
+1° de projecten die pioniersscholen vormgeven en dit binnen het kader van het decreet betreffende de organisatie van tijdelijke projecten in het onderwijs van 9 december 2005;<br>
+2° de begeleiding van de pioniersscholen door een consortium;<br>
+3° onderzoek ter evaluatie van het project;<br>
+<br>
+Bij de selectie van de pioniersscholen, vermeld in het tweede lid, 1°, houdt de Vlaamse Regering ten minste rekening met:&nbsp;<br>
+1° de kwaliteit en haalbaarheid van de voorgestelde organisatie en werking van de pioniersschool of pioniersscholen, waarbij de kwaliteit en de haalbaarheid minstens door de volgende elementen wordt aangetoond:<br>
+&nbsp; a) het functioneren van het multidisciplinair team;<br>
+&nbsp; b) het werken richting een evidence informed inclusieve leeromgeving;<br>
+&nbsp; c) de samenwerking met de centra voor leerlingenbegeleiding en de leer-steuncentra;<br>
+2° de wijze waarop interne kwaliteitszorg wordt georganiseerd, met inbegrip van duidelijke en meetbare doelstellingen;<br>
+3° de spreiding van types en opleidingsvormen buitengewoon onderwijs over de projecten heen;<br>
+4° de spreiding van projecten op vlak van onderwijsniveaus en regio’s;<br>
+5° de spreiding van projecten op het vlak van onderwijsnetten;<br>
+6° voor wat het secundair onderwijs betreft: de spreiding van projecten over fina-liteiten en domeinen.<br>
+<br>
+Bij de selectie van het consortium voor de begeleiding, vermeld in het tweede lid, 2°, houdt de Vlaamse Regering ten minste rekening met:<br>
+1° de mate waarin de begeleiding blijk geeft van aantoonbare expertise inzake veranderingsmanagement en evidence informed inclusief onderwijs;<br>
+2° de mate waarin de begeleiding blijk geeft de pioniersscholen op kwaliteitsvolle wijze te kunnen ondersteunen in hun specifieke opdracht als pioniersschool;&nbsp;<br>
+3° de mate waarin het consortium ervaring kan aantonen in de werking met zowel het vrij als het officieel onderwijs.”.
