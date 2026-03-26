@@ -1126,6 +1126,33 @@ Het budget wordt als volgt vastgelegd:<br>
 <br>
 Vanaf begrotingsjaar 2022 worden deze bedragen aangepast aan de evolutie van de gezondheidsindex.
 
+## Hoofdstuk 14. Tijdelijke projecten pioniersscholen
+
+### ART IV.55/1.
+
+De Vlaamse Regering kan, binnen de perken van de begrotingskredieten die daarvoor zijn voorzien, en na een oproep naar respectievelijk scholen en consortia, middelen toekennen in het kader van het project pioniersscholen met het oog op een evolutie naar meer inclusief onderwijs.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de aanvraag en voor de toekenning van de middelen, vermeld in het eerste lid, voor:<br>
+1°&nbsp;&nbsp; &nbsp;de projecten die pioniersscholen vormgeven en dit binnen het kader van het decreet betreffende de organisatie van tijdelijke projecten in het onderwijs van 9 december 2005;<br>
+2°&nbsp;&nbsp; &nbsp;de begeleiding van de pioniersscholen door een consortium;<br>
+3°&nbsp;&nbsp; &nbsp;onderzoek ter evaluatie van het project;<br>
+<br>
+Bij de selectie van de pioniersscholen, vermeld in het tweede lid, 1°, houdt de Vlaamse Regering ten minste rekening met:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de kwaliteit en haalbaarheid van de voorgestelde organisatie en werking van de pioniersschool of pioniersscholen, waarbij de kwaliteit en de haalbaarheid min-stens door de volgende elementen wordt aangetoond:<br>
+a)&nbsp;&nbsp; &nbsp;het functioneren van het multidisciplinair team;<br>
+b)&nbsp;&nbsp; &nbsp;het werken richting een evidence informed inclusieve leeromgeving;<br>
+c)&nbsp;&nbsp; &nbsp;de samenwerking met de centra voor leerlingenbegeleiding en de leersteuncentra;<br>
+2°&nbsp;&nbsp; &nbsp;de wijze waarop interne kwaliteitszorg wordt georganiseerd, met inbegrip van duidelijke en meetbare doelstellingen;<br>
+3°&nbsp;&nbsp; &nbsp;de spreiding van types en opleidingsvormen buitengewoon onderwijs over de pro-jecten heen;<br>
+4°&nbsp;&nbsp; &nbsp;de spreiding van projecten op vlak van onderwijsniveaus en regio’s;<br>
+5°&nbsp;&nbsp; &nbsp;de spreiding van projecten op het vlak van onderwijsnetten;<br>
+6°&nbsp;&nbsp; &nbsp;voor wat het secundair onderwijs betreft: de spreiding van projecten over finaliteiten en domeinen.<br>
+<br>
+Bij de selectie van het consortium voor de begeleiding, vermeld in het tweede lid, 2°, houdt de Vlaamse Regering ten minste rekening met:<br>
+1°&nbsp;&nbsp; &nbsp;de mate waarin de begeleiding blijk geeft van aantoonbare expertise inzake veranderingsmanagement en evidence informed inclusief onderwijs;<br>
+2°&nbsp;&nbsp; &nbsp;de mate waarin de begeleiding blijk geeft de pioniersscholen op kwaliteitsvolle wijze te kunnen ondersteunen in hun specifieke opdracht als pioniersschool;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;de mate waarin het consortium ervaring kan aantonen in de werking met zowel het vrij als het officieel onderwijs.
+
 ## DEEL V RECHTSPOSITIE ONDERWIJSPERSONEEL
 
 ## Titel 1 Administratieve rechtspositie
