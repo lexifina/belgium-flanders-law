@@ -194,6 +194,13 @@ Artikel 2.33 van dezelfde codex wordt opgeheven.
 
 In artikel 2.34, §1, eerste lid, van dezelfde codex, vervangen bij het decreet van 8 maart 2024, wordt het jaartal “2019” vervangen door het jaartal “2025”.&nbsp;
 
+### ART 22.
+
+Aan artikel 4.44, §1, eerste lid, van dezelfde codex, vervangen bij het decreet van 9 juli 2021, wordt de volgende zin toegevoegd:<br>
+<br>
+“De Vlaamse Regering kan het aantal woonmaatschappijen dat als kredietbemiddelaar wordt erkend, beperken, en kan criteria vaststellen om tot dat beperkte aantal te komen.”.<br>
+&nbsp;
+
 ### ART 23.
 
 Aan artikel 4.46/1/1, tweede lid, van dezelfde codex, ingevoegd bij het decreet van 22 december 2023, wordt de zinsnede “, en door de bijdragen van de gemeenten, vermeld in artikel 2.23, §3, eerste lid.” toegevoegd.
