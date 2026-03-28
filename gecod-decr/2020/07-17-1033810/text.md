@@ -1917,7 +1917,7 @@ De Vlaamse Regering kan de voorwaarden waaronder woonmaatschappijen niet-residen
 
 ### ART 4.44.
 
-§ 1. De Vlaamse Regering kan woonmaatschappijen erkennen om op te treden als kredietbemiddelaar van het Vlaams Woningfonds bij het verstrekken van de bijzondere sociale leningen, vermeld in artikel 5.65.<br>
+§ 1. De Vlaamse Regering kan woonmaatschappijen erkennen om op te treden als kredietbemiddelaar van het Vlaams Woningfonds bij het verstrekken van de bijzondere sociale leningen, vermeld in artikel 5.65.&nbsp;De Vlaamse Regering kan het aantal woonmaatschappijen dat als kredietbemid-delaar wordt erkend, beperken, en kan criteria vaststellen om tot dat beperkte aantal te komen.<br>
 <br>
 Een woonmaatschappij kan erkend worden en blijven als kredietbemiddelaar als ze financieel gezond is en beschikt over personeel dat voldoet aan de vereisten van beroepskennis, geschiktheid en professionele betrouwbaarheid. De Vlaamse Regering kan aanvullende voorwaarden opleggen om erkend te worden.<br>
 <br>
