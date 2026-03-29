@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042431,
+  "title": "Ministerieel besluit van 2026-02-10 tot bepaling van de kwalificaties van de personen die in aanmerking komen voor de tewerkstelling als begeleider wonen en leven in een woonzorgcentrum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042431/VolledigDocument?datum=2026-03-29",
+  "source_sha256": "4d5a649f1617381c065b68283bdfeaed74df5cc02d6ed1f421be7cf914a44bb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042431&param=informatie",
+  "as_of": "2026-03-29",
+  "made": "2026-02-10",
+  "gazette": "2026-03-19",
+  "numac": 2026001943,
+  "document_start": "2026-03-29",
+  "document_end": null,
+  "in_force": "2026-03-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
