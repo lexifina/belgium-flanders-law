@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041858,
+  "title": "Ministerieel besluit van 2026-03-16 tot vastlegging van de landspecifieke emissiefactor voor aardgas voor het emissiejaarrapport van BKG-installaties voor de emissies van het jaar 2025",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041858/VolledigDocument?datum=2026-03-30",
+  "source_sha256": "d16863533574a4fb5c16de2b6013f35c730e185ce7c02c706060de1c16d50885",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041858&param=informatie",
+  "as_of": "2026-03-30",
+  "made": "2026-03-16",
+  "gazette": "2026-03-20",
+  "numac": 2026002214,
+  "document_start": "2026-03-30",
+  "document_end": null,
+  "in_force": "2026-03-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
