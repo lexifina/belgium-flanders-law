@@ -2,16 +2,16 @@
   "codex_id": 1041843,
   "title": "Decreet van 2026-02-27 tot wijziging van de Vlaamse Codex Wonen van 2021 en het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041843/VolledigDocument?datum=2026-03-28",
-  "source_sha256": "fc039e1d0666c39824954b5109042012429221df11e05ee80bb3c22ad9669011",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041843/VolledigDocument?datum=2026-03-30",
+  "source_sha256": "b529696b69ca94529cff27474f80853fc3daf85dc2b08726f154b10cb832eb9d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041843&param=informatie",
-  "as_of": "2026-03-28",
+  "as_of": "2026-03-30",
   "made": "2026-02-27",
   "gazette": "2026-03-20",
   "numac": 2026002025,
   "document_start": "2026-03-30",
   "document_end": null,
-  "in_force": "2026-03-28",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2026-03-28; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-03-30",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2026-03-30; future article versions excluded; article text as the API gives it"
 }

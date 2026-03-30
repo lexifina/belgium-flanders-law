@@ -1,5 +1,13 @@
 # Decreet van 2026-02-27 tot wijziging van de Vlaamse Codex Wonen van 2021 en het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen
 
+## Hoofdstuk 1. Inleidende bepaling
+
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
+## Hoofdstuk 2. Wijzigingen van de Vlaamse Codex Wonen 2021
+
 ### ART 2.
 
 In artikel 1.3, §1, eerste lid, van de Vlaamse Codex Wonen van 2021, het laatst gewijzigd bij het decreet van 20 december 2024, worden de volgende wijzigingen aangebracht:<br>
@@ -194,6 +202,29 @@ Artikel 2.33 van dezelfde codex wordt opgeheven.
 
 In artikel 2.34, §1, eerste lid, van dezelfde codex, vervangen bij het decreet van 8 maart 2024, wordt het jaartal “2019” vervangen door het jaartal “2025”.&nbsp;
 
+### ART 19.
+
+In artikel 3.1, §3, van dezelfde codex wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+“Onder de voorwaarden die de Vlaamse Regering bepaalt, kan de Vlaamse Regering voor een woning die een beschermd monument is, deel uitmaakt van een stads- of dorpsgezicht of voorkomt op de vastgestelde inventaris van bouwkundig erfgoed, een gemotiveerde afwijking toestaan van de vereisten en normen met betrekking tot de minimale energetische prestaties, vermeld in paragraaf 1, eerste lid, 9°. De Vlaamse Regering bepaalt de aard van die afwijkingen.”.
+
+### ART 20.
+
+In artikel 4.1/1 van dezelfde codex, ingevoegd bij het decreet van 9 juli 2021 en gewijzigd bij de decreten van 3 juni 2022, 21 april 2023 en 22 december 2023, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+“Als een initiatiefnemer als vermeld in artikel 4.13 zakelijke rechten afstaat op een sociale huurwoning, herinvesteert hij de venale waarde van de sociale huurwoning in de sociale huisvestingssector. Als hij een sociale huurwoning, met uitzondering van de ingehuurde woningen, niet meer verhuurt conform boek 6, herinvesteert hij de venale waarde van de sociale huurwoning in de sociale huisvestingssector, tenzij hij de sociale huurwoning niet meer ver-huurt wegens renovatie of sloop of als de sociale huurwoning wordt verhuurd als betaalbare studentenkamer.”;<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“Als een woonmaatschappij of de VMSW zakelijke rechten afstaat op een betaalbare studentenkamer of een geconventioneerde huurwoning, herin-vesteert de woonmaatschappij of de VMSW de venale waarde van de betaal-bare studentenkamer of de geconventioneerde huurwoning in de sociale huisvestingssector. Als een woonmaatschappij of de VMSW een betaalbare studentenkamer of een geconventioneerde huurwoning niet meer verhuurt volgens dit decreet, herinvesteert ze de venale waarde van de betaalbare studentenkamer of de geconventioneerde huurwoning in de sociale huisves-tingssector, tenzij ze de betaalbare studentenkamer of de geconventioneer-de huurwoning niet meer verhuurt wegens renovatie of sloop of tenzij ze de betaalbare studentenkamer of de geconventioneerde huurwoning verhuurt conform boek 6.”;<br>
+3° in het bestaande tweede lid, dat het derde lid wordt, wordt tussen het woord “initiatiefnemer” en het woord “komt” de zinsnede “, vermeld in het eerste lid,” ingevoegd;<br>
+4° in het bestaande tweede lid, dat het derde lid wordt, worden de woorden “of vanaf de dag waarop hij” vervangen door de zinsnede “. Een woonmaat-schappij of de VMSW komt de herinvesteringsverplichting, vermeld in het tweede lid, na binnen een termijn van maximaal vijf jaar vanaf de dag waarop de woonmaatschappij of de VMSW”;<br>
+5° in het bestaande derde lid, dat het vierde lid wordt, wordt de zinsnede “studentenkamer als aan de herinvesteringsverplichting, vermeld in het eerste” vervangen door de zinsnede “studentenkamer als aan de herinveste-ringsverplichting, vermeld in het tweede” en wordt de zinsnede “dat aan de herinvesteringsverplichting, vermeld in het eerste” vervangen door de zinsnede “dat aan de herinvesteringsverplichting, vermeld in het eerste en tweede”.&nbsp;
+
+### ART 21.
+
+In artikel 4.2, §1, van dezelfde codex, gewijzigd bij de decreten van 3 juni 2022 en 21 april 2023, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen het woord “woningen” en het woord “en” de zinsnede “en betaalbare studentenkamers,” ingevoegd;<br>
+2° in het tweede lid wordt tussen het woord “woonprojecten” en het woord “met” de zinsnede “, of van projecten voor betaalbare studentenkamers,” ingevoegd.
+
 ### ART 22.
 
 Aan artikel 4.44, §1, eerste lid, van dezelfde codex, vervangen bij het decreet van 9 juli 2021, wordt de volgende zin toegevoegd:<br>
@@ -233,6 +264,36 @@ In artikel 5.47 van dezelfde codex, gewijzigd bij de decreten van 9 juli 2021 en
 
 In boek 5, deel 2, van dezelfde codex, het laatst gewijzigd bij het decreet van 20 december 2024, wordt titel 8, dat bestaat uit artikel 5.52, opgeheven.&nbsp;
 
+### ART 30.
+
+In artikel 5.52/1 van dezelfde codex, ingevoegd bij het decreet van 21 april 2023 en gewijzigd bij het decreet van 8 maart 2024, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+“In dit artikel wordt verstaan onder private initiatiefnemer:&nbsp;<br>
+1° een rechtspersoon, met uitsluiting van een sociale woonorganisatie;<br>
+2° een natuurlijke persoon;<br>
+3° meerdere personen als vermeld in 1° of 2°, onder de voorwaarden die de Vlaamse Regering vaststelt.”.
+
+### ART 31.
+
+In boek 5 van dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt een deel 3/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Deel 3/1. Subsidie voor noodwoningen”.
+
+### ART 32.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt in deel 3/1, ingevoegd bij artikel 31, een artikel 5.57/1 ingevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“Art. 5.57/1. De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van de Vlaamse Gemeenschap zijn ingeschreven, in de jaren 2026 tot en met 2030, een subsidie verstrekken aan een lokaal bestuur voor het bouwen, kopen, renoveren en inrichten van noodwoningen, of aan een lokaal bestuur en de woonmaatschappij met een werkingsgebied waarin de te bouwen, te kopen, te renoveren of in te richten noodwoning ligt.&nbsp;<br>
+<br>
+De Vlaamse Regering bepaalt voor de subsidie, vermeld in het eerste lid:<br>
+1° de subsidievoorwaarden;<br>
+2° de samenstelling of het bedrag van de subsidie;<br>
+3° de aanvraagprocedure, de beoordelingsprocedure, de toekenningsprocedure en de uitbetaling;<br>
+4° de verantwoording en welke kosten in aanmerking komen;&nbsp;<br>
+5° het toezicht op de aanwending;<br>
+6° het eventuele sanctiemechanisme;<br>
+7° de maatregelen en de indicatoren voor de evaluatie.”.
+
 ### ART 33.
 
 In artikel 5.76, §3, 6°, van dezelfde codex, vervangen bij het decreet van 21 april 2023, worden de woorden “tweede lid” vervangen door de woorden “derde lid”.
@@ -243,7 +304,20 @@ De bijlage bij dezelfde codex wordt vervangen door de bijlage die bij dit decree
 
 ## Hoofdstuk 3. Wijziging van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen
 
+### ART 35.
+
+Artikel 210 van het decreet van 9 juli 2021 houdende wijziging van diverse decreten met betrekking tot wonen wordt vervangen door wat volgt:<br>
+<br>
+“Art. 210. Alle rechten van woonmaatschappijen met betrekking tot onroerende goederen die zijn overgedragen aan gezinnen of alleenstaanden ter uitvoering van de regelgeving inzake sociaal wonen, gaan van rechtswege over naar de woonmaatschappij binnen wiens werkingsgebied het onroerend goed ligt.”.<br>
+&nbsp;
+
 ## Hoofdstuk 4. Slotbepalingen
+
+### ART 36.
+
+Artikel 2 tot en met 18, 23 tot en met 29 en 33 tot en met 34 hebben uitwerking met ingang van 1 januari 2026.<br>
+<br>
+Artikel 22 treedt in werking op de datum die de Vlaamse Regering bepaalt.
 
 ### BIJLAGE
 
