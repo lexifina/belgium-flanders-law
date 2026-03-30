@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 
 In dit decreet wordt verstaan onder:<br>
 1° Vlaams bestuursrechtscollege: een van de volgende instanties:<br>
-a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en waaraan tevens bevoegdheden toegekend kunnen worden bij&nbsp;hoofdstuk 10, afdeling 13 en 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en de decreten die&nbsp;hoofdstuk 10, afdeling 13 of 14, van het voormelde decreet van toepassing verklaren, overeenkomstig artikel 3, eerste lid, van het voormelde decreet;<br>
+a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en waaraan tevens bevoegdheden toegekend kunnen worden bij hoofdstuk 10, afdeling 13 en 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 en de decreten die&nbsp;hoofdstuk 10, afdeling 13 of 14, van het voormelde decreet van toepassing verklaren, overeenkomstig artikel 3, eerste lid, van het voormelde decreet;<br>
 b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1 van de Vlaamse Codex Ruimtelijke Ordening en waaraan tevens bevoegdheden toegekend worden bij artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en artikel 43 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
 c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011;<br>
 d) de Raad voor betwistingen inzake studievoortgangsbeslissingen, opgericht bij artikel II.285 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
@@ -21,12 +21,13 @@ d) de Raad voor betwistingen inzake studievoortgangsbeslissingen, opgericht bij 
 6° eerste voorzitter: de voorzitter van de algemene vergadering;<br>
 7° bestreden beslissing: voorwerp van een jurisdictioneel beroep waarvoor een Vlaams bestuursrechtscollege bevoegd is;<br>
 8° beveiligde zending: een van de volgende betekeningswijzen:<br>
-a) een aangetekend schrijven;<br>
-b) een afgifte tegen ontvangstbewijs;<br>
-c) elke andere door de Vlaamse Regering toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld.<br>
+a) een analoge zending: een aangetekend schrijven of een afgifte tegen ontvangstbewijs;<br>
+b) een digitale zending: een zending via het digitale platform, vermeld in punt 11°;<br>
+c) elke andere betekeningswijze die de Vlaamse Regering bepaalt, waarvan de datum van de kennisgeving met zekerheid kan worden vastgesteld;.<br>
 9° vergunninghouder: de vergunninghouder, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
 10° de persoon die de melding heeft verricht: de persoon die de melding heeft verricht, vermeld in artikel 105, § 2, eerste lid, 1°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
-12° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);
+11° digitale platform: het platform dat door de dienst van de Bestuursrechtscolleges ter beschikking wordt gesteld met het oog op de digitale procesvoering voor de Vlaamse bestuursrechtscolleges;<br>
+12° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ### ART. 3.
 
@@ -187,11 +188,43 @@ Een Vlaams bestuursrechtscollege kan zaken over hetzelfde of over een   verwant 
 
 ### ART. 16.
 
-<P>De behandeling van het beroep of bezwaar geschiedt schriftelijk en op   tegenspraak.<BR></P>  <P>Partijen kunnen zich laten bijstaan of vertegenwoordigen door een   raadsman.<BR></P>  <P>Een Vlaams bestuursrechtscollege kan, op eigen initiatief of op verzoek van   een partij, getuigen of deskundigen horen en een beroep doen op tolken. Een   Vlaams bestuursrechtscollege kan ook andere onderzoeksmaatregelen bevelen die   door de Vlaamse Regering worden vastgesteld.<BR></P>  <P>De zittingen van een Vlaams bestuursrechtscollege zijn openbaar, behalve als   de kamer in geval van gevaar voor de orde of goede zeden anders beslist.<BR></P>  <P>Bij regelmatige oproeping belet de afwezigheid van een partij de geldigheid   van een zitting niet. De zaak wordt in dat geval geacht op tegenspraak behandeld   te zijn.<BR></P>  <P>Tenzij een Vlaams bestuursrechtscollege anders beslist kunnen partijen in   onderling overleg afzien van de behandeling van het beroep ter zitting.<BR></P>  <P>Een Vlaams bestuursrechtscollege beraadslaagt achter gesloten deuren over   zijn uitspraken.<BR></P>
+<p>De behandeling van het beroep of bezwaar geschiedt schriftelijk en op tegenspraak.</p>
+
+<p>Partijen kunnen zich laten bijstaan of vertegenwoordigen door een raadsman.</p>
+
+<p>Een Vlaams bestuursrechtscollege kan, op eigen initiatief of op verzoek van een partij, getuigen of deskundigen horen en een beroep doen op tolken. Een Vlaams bestuursrechtscollege kan ook andere onderzoeksmaatregelen bevelen die door de Vlaamse Regering worden vastgesteld.<br>
+<br>
+Onverminderd de zittingen die plaatsvinden met toepassing van artikel 13, artikel 39, §3, artikel 40 en 41, wordt een beroep alleen op een zitting behandeld als de kamervoorzitter hiertoe beslist of als een van de partijen hierom verzoekt.</p>
+
+<p>De zittingen van een Vlaams bestuursrechtscollege zijn openbaar, behalve als de kamer in geval van gevaar voor de orde of goede zeden anders beslist.</p>
+
+<p>Bij regelmatige oproeping belet de afwezigheid van een partij de geldigheid van een zitting niet. De zaak wordt in dat geval geacht op tegenspraak behandeld te zijn.</p>
+
+<p>Een Vlaams bestuursrechtscollege beraadslaagt achter gesloten deuren over zijn uitspraken.</p>
 
 ### ART. 17.
 
-De Vlaamse Regering stelt de nadere regels vast voor de vormvereisten en   ontvankelijkheid van de verzoekschriften en voor de rechtspleging voor de   Vlaamse bestuursrechtscolleges, waaronder de regels betreffende:<BR>1° de   stukken die bij het verzoekschrift moeten worden gevoegd;<BR>2° de registratie   van het verzoekschrift en de voorwaarden waaronder het verzoekschrift kan worden   geregulariseerd;<BR>3° de wijze waarop en de personen aan wie een afschrift van   het verzoekschrift wordt bezorgd;<BR>4° de wijze van toezending en uitwisseling   van de processtukken;<BR>5° de bijstand of vertegenwoordiging door een   raadsman;<BR>6° het beroep op getuigen, deskundigen en tolken, met inbegrip van   de regeling voor het getuigengeld, de kosten en erelonen van de deskundigen en   de kosten van de tolken;<BR>7° de wijze van de berekening van de termijnen,   vermeld in dit hoofdstuk;<BR>8° de voorwaarden waaronder een vergoeding kan   worden gevraagd voor afschriften of uittreksels.<BR>
+De Vlaamse Regering stelt de nadere regels vast voor de vormvereisten en ontvankelijkheid van de verzoekschriften en voor de rechtspleging voor de Vlaamse bestuursrechtscolleges, waaronder de regels betreffende:<br>
+1° de stukken die bij het verzoekschrift moeten worden gevoegd;<br>
+2° de registratie van het verzoekschrift en de voorwaarden waaronder het verzoekschrift kan worden geregulariseerd;<br>
+3° de wijze waarop en de personen aan wie een afschrift van het verzoekschrift wordt bezorgd;<br>
+4° de wijze van toezending en uitwisseling van de processtukken;<br>
+5° de bijstand of vertegenwoordiging door een raadsman;<br>
+6° het beroep op getuigen, deskundigen en tolken, met inbegrip van de regeling voor het getuigengeld, de kosten en erelonen van de deskundigen en de kosten van de tolken;<br>
+7° de wijze van de berekening van de termijnen, vermeld in dit hoofdstuk;<br>
+8° de voorwaarden waaronder een vergoeding kan worden gevraagd voor afschriften of uittreksels;<br>
+9° de toegang, het gebruik en de werking van het digitale platform evenals de wijze waarop de procesvoering bij de Vlaamse bestuursrechtscolleges kan verlopen via het digitale platform.<br>
+<br>
+In geval van een langdurige en volledige onbeschikbaarheid van het digitale platform kan de Vlaamse Regering in voorkomend geval de tijdelijke vereisten voor de rechtmatige indiening van processtukken uitwerken en daarbij de termijnen, vermeld in dit decreet, of de beroepstermijnen die opgenomen zijn in de decreten, vermeld in artikel 2, 1°, opschorten of verlengen tot de voormelde onbeschikbaarheid van het digitale platform is opgelost.
+
+### ART 17/1.
+
+Op straffe van onontvankelijkheid maken de volgende partijen of raadsmannen gebruik van het digitale platform:<br>
+1° de Vlaamse overheid, de Vlaamse administratie, de Vlaamse adviesorganen, de Vlaamse openbare instellingen die niet behoren tot de Vlaamse administratie, de lokale overheden en de externe overheden, vermeld in artikel I.3, 1° tot en met 5° en 8°, van het Bestuursdecreet van 7 december 2018, inclusief al hun vertegenwoordigers;<br>
+2° een advocaat in zijn hoedanigheid van vertegenwoordiger van een partij;<br>
+3° een partij of raadsman die geen advocaat is, en die een beroep doet op het digitale platform om een verzoekschrift of het eerste processtuk neer te leggen.<br>
+<br>
+Op straffe van onontvankelijkheid geldt de gemaakte keuze van een partij of raadsman als vermeld in het eerste lid, 3°, om al dan niet gebruik te maken van het digitale platform voor alle vorderingen in dezelfde zaak.
 
 ## Afdeling 2 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)] [, de (verv. decr. 17 maart 2023, art. 17)] Raad voor Vergunningsbetwistingen [en de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 17)]
 
@@ -225,7 +258,7 @@ Het rolrecht dat verschuldigd is per tussenkomende partij, bedraagt 100 euro per
 <br>
 §1/1. De tussenkomende partij, vermeld in artikel 20, derde lid, is vrijgesteld van de betaling van het rolrecht.<br>
 <br>
-§2. De leidende ambtenaren of, bij hun afwezigheid, hun gemachtigden die optreden met toepassing van artikel 105, §2, respectievelijk punt 6° tot en met punt 8°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van rolrecht.<br>
+§2. De leidende ambtenaren of, bij hun afwezigheid, hun gemachtigden die optreden met toepassing van artikel 105, §2, respectievelijk punt 6° tot en met punt 8°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van rolrecht<br>
 <br>
 §3. De verzoekende partij of tussenkomende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
@@ -245,23 +278,11 @@ De ontoereikendheid van de inkomsten wordt beoordeeld conform artikel 508/13/1 t
 <br>
 Collectieve tussenkomsten&nbsp;geven aanleiding tot het betalen van zoveel malen het recht als er tussenkomende partijen zijn.<br>
 <br>
-§5. Gelijktijdig met de indiening van het verzoekschrift houdende een vordering tot vernietiging of een vordering tot schorsing, dat ingediend is conform artikel 40, § 1, of gelijktijdig met haar tussenkomst in de voormelde vorderingen, bezorgt de verzoekende of tussenkomende partij het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht.<br>
+§5.&nbsp;Als het rolrecht niet is gestort bij de indiening van het verzoekschrift of bij de tussenkomst, nodigt de griffier de verzoekende of de tussenkomende partij met een beveiligde zending uit om het rolrecht alsnog te betalen. De griffier vermeldt daarbij de sanctie, vermeld in het tweede lid. In dit geval wordt het rolrecht gestort binnen acht dagen na de dag van de betekening van de voormelde beveiligde zending.&nbsp;In geval van een vordering tot schorsing die is ingesteld conform artikel 40, §2, wordt het rolrecht gestort binnen drie dagen na de dag van de betekening van de voormelde beveiligde zending.<br>
 <br>
-Als het rolrecht, vermeld in het eerste lid, niet op tijd is gestort, nodigt de griffier de verzoekende of de tussenkomende partij met een beveiligde zending uit om het rolrecht alsnog te betalen. De griffier vermeldt daarbij de sanctie, vermeld in het derde lid. In dit geval wordt het rolrecht gestort binnen acht dagen na de dag van de betekening van de voormelde beveiligde zending.<br>
+Als het bedrag van het rolrecht niet op tijd is gestort door de verzoekende of tussenkomende partij, is het beroep of de tussenkomst van die partij onontvankelijk.&nbsp;Als de verzoekende partij in een vordering tot schorsing die ingesteld is conform artikel 40, §2, het rolrecht niet tijdig heeft gestort, worden de schorsing en de voorlopige maatregelen die zouden zijn bevolen, conform artikel 40, §2, en artikel 41 opgeheven conform de procedure, vermeld in artikel 40, §13. Als de tussenkomende partij in een vordering tot schorsing die is ingesteld conform artikel 40, §2, het rolrecht niet tijdig heeft gestort, kan ze geen voortzetting van de rechtspleging vragen.<br>
 <br>
-Als het bedrag van het rolrecht niet op tijd is gestort door de verzoekende of tussenkomende partij, is het beroep of de tussenkomst van die partij onontvankelijk.<br>
-<br>
-§6. Bij een vordering tot schorsing, ingesteld conform artikel 40, § 2, wordt het rolrecht, verschuldigd conform paragraaf 1, opgevraagd in de beschikking of het arrest tot bepaling van de rechtsdag.<br>
-<br>
-Het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht, vermeld in het eerste lid, wordt overgelegd op de zitting waarop de vordering, ingesteld conform artikel 40, § 2, wordt behandeld.<br>
-<br>
-Als het rolrecht niet binnen een termijn van acht dagen te rekenen vanaf de dag na de betekening van de beschikking of het arrest tot bepaling van de rechtsdag is betaald, is de proceshandeling waarop de kwijting betrekking heeft, niet ontvankelijk.<br>
-<br>
-Als de verzoekende partij het rolrecht, verschuldigd conform paragraaf 1, niet tijdig heeft betaald, worden de schorsing en de voorlopige maatregelen, die zouden zijn bevolen, conform artikel 40, § 2, en artikel 41, opgeheven conform de procedure, vermeld in artikel 40, § 13.<br>
-<br>
-Als de tussenkomende partij het rolrecht, verschuldigd conform paragraaf 1, niet tijdig heeft betaald, kan ze geen voortzetting vragen van de rechtspleging.<br>
-<br>
-De niet-tijdige betaling kan niet worden geregulariseerd.<br>
+§6. ....<br>
 <br>
 §7. De Raad voor Vergunningsbetwistingen kan, op verzoek van een partij, een rechtsplegingsvergoeding toekennen, die een forfaitaire tegemoetkoming is in de kosten en honoraria van de advocaat van de partij die in het gelijk wordt gesteld.<br>
 <br>
@@ -463,7 +484,7 @@ Als alle partijen een schriftelijk standpunt over het gebruik van de bestuurlijk
 <br>
 Als niet alle partijen hun standpunt over het gebruik van de bestuurlijke lus kenbaar hebben kunnen maken, biedt het Vlaams bestuursrechtscollege bij tussenuitspraak de mogelijkheid om daarover een schriftelijk standpunt in te nemen. De partijen beschikken daarvoor over een vervaltermijn van dertig dagen, die ingaat op de dag na de dag van de betekening van die uitspraak. Daarna beslist het Vlaams bestuursrechtscollege over de toepassing van de bestuurlijke lus met een tussenuitspraak als vermeld in paragraaf 3.<br>
 <br>
-§ 3. Met behoud van de toepassing van artikel 16, zesde lid, organiseert het Vlaams bestuursrechtscollege een zitting over de toepassing van de bestuurlijke lus.<br>
+§ 3. Met behoud van de toepassing van artikel 16, vierde lid, organiseert het Vlaams bestuursrechtscollege, in voorkomend geval, een zitting over de toepassing van de bestuurlijke lus.<br>
 <br>
 Het Vlaams bestuursrechtscollege beslist met een tussenuitspraak over de toepassing van de bestuurlijke lus en bepaalt de termijn waarin de herstelbeslissing wordt genomen. Op gemotiveerd verzoek van de verwerende partij kan die termijn eenmalig worden verlengd. De termijnverlenging kan de duur van de aanvankelijke hersteltermijn niet overschrijden.<br>
 <br>
@@ -481,13 +502,13 @@ Als de herstelbeslissing niet tijdig werd meegedeeld, vernietigt het Vlaams best
 <br>
 Die partijen kunnen schriftelijk hun standpunt over het herstel meedelen binnen de vervaltermijnen die de Vlaamse Regering heeft bepaald en die niet korter mogen zijn dan dertig dagen.<br>
 <br>
-Met behoud van de toepassing van artikel 16, zesde lid, organiseert het Vlaams bestuursrechtscollege een zitting over het herstel.<br>
+Met behoud van de toepassing van artikel 16, vierde lid, organiseert het Vlaams bestuursrechtscollege, in voorkomend geval, een zitting over het herstel.<br>
 <br>
 § 6. Als het Vlaams bestuursrechtscollege vaststelt dat de onwettigheid niet is hersteld of dat het herstel aangetast is door een nieuw opgeworpen onwettigheid, vernietigt het Vlaams bestuursrechtscollege de bestreden beslissing geheel of gedeeltelijk en vernietigt het de herstelbeslissing, tenzij het Vlaams bestuursrechtscollege beslist om opnieuw toepassing te maken van de bestuurlijke lus overeenkomstig de bepalingen van dit artikel.<br>
 <br>
 Als het Vlaams bestuursrechtscollege vaststelt dat de onwettigheid is hersteld en dat het herstel niet is aangetast door een nieuw opgeworpen onwettigheid, verwerpt het Vlaams bestuursrechtscollege het beroep tegen de herstelbeslissing. Daarnaast vernietigt het Vlaams bestuursrechtscollege de bestreden beslissing geheel of gedeeltelijk en doet het Vlaams bestuursrechtscollege uitspraak over de eventuele toepassing van artikel 36.<br>
 <br>
-§ 7. De proceduretermijnen die niet in dit artikel worden vermeld, worden geschorst vanaf de datum van de tussenuitspraak die beslist over de toepassing van de bestuurlijke lus tot de datum van de uitspraak van het Vlaams bestuursrechtscollege, vermeld in paragraaf 4, derde lid, of paragraaf 6.<br>
+§ 7. De proceduretermijnen die niet in dit artikel worden vermeld, worden gestuit vanaf de datum van de tussenuitspraak die beslist over de toepassing van de bestuurlijke lus tot de datum van de uitspraak van het Vlaams bestuursrechtscollege, vermeld in paragraaf 4, derde lid, of paragraaf 6.<br>
 <br>
 § 8. Na de betekening van de uitspraak, vermeld in paragraaf 6, tweede lid, door het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, a) en b), wordt de herstelbeslissing bekendgemaakt conform de bepalingen van de decreten, vermeld in artikel 2, 1°, a) en b).<br>
 <br>
@@ -646,7 +667,7 @@ De Raad voor Vergunningsbetwistingen kan de bekrachtiging alleen weigeren als he
 <br>
 Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor Vergunningsbetwistingen vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, wordt bij proces-verbaal&nbsp;de voortzetting van de jurisdictionele procedure vastgesteld.<br>
 <br>
-§ 4. Een&nbsp;gezamenlijk ondertekend verzoek tot bemiddeling schorst de proceduretermijnen vanaf de datum van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen tot:<br>
+§ 4. Een&nbsp;gezamenlijk ondertekend verzoek tot bemiddeling stuit de proceduretermijnen vanaf de datum van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen tot:<br>
 1° de datum van bekrachtiging van het bemiddelingsakkoord, vermeld in paragraaf 3, eerste lid;<br>
 2° de dag na de betekening van het proces-verbaal, vermeld in paragraaf 3, vierde lid.<br>
 <br>
