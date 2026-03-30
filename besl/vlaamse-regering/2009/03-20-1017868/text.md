@@ -72,15 +72,11 @@ Voor de toepassing van artikel 4, eerste en tweede lid, worden aan de agentschap
 
 De salarisschalen A121C, A122C, A123C, A221P en A222P zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.
 
-## Afdeling II [Toelage voor backofficemedewerkers (verv. BVR 23 december 2011, art. 2, I: 18 februari 2012)]
+## Afdeling II ...
 
 ### ART. 6.
 
-§ 1. Aan het personeelslid dat tewerkgesteld is in de backoffice van het agentschap Opgroeien regie, wordt een toelage toegekend van 1.900 euro (100 %) op jaarbasis.<br>
-<br>
-§ 2. De toelage wordt toegekend naar rata van de prestaties van tewerkstelling in de backoffice.<br>
-<br>
-De toelage wordt berekend en betaald volgens de bepalingen van artikel VII 15, eerste lid, artikel VII 16 en artikel VII 17 van het VPS.
+...
 
 ## Afdeling III [Verhoogde rente in geval van arbeidsongeval en ongeval op de weg naar en van het werk (verv. BVR 23 december 2011, art. 3, I: 18 februari 2012)]
 
@@ -96,7 +92,11 @@ De salarisschaal A221P is opgenomen in bijlage II bij dit besluit.
 
 ### ART. 9.
 
-...<br /><br />
+Personeelsleden die op de datum van inwerkingtreding van het besluit van de Vlaamse Regering van 6 maart 2026 tot wijziging van het besluit van de Vlaamse Regering van 20 maart 2009 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van het agentschap Opgroeien regie, wat betreft de toelage voor backofficemedewerkers zijn aangesteld voor een tewerkstelling in de backoffice van het agentschap Opgroeien regie in de functie van backofficemedewerker, ontvangen een toelage van 1.900 euro (100%) op jaarbasis, zolang ze de functie uitoefenen.<br>
+<br>
+De toelage, vermeld in het eerste lid, wordt toegekend naar rata van de prestaties van tewerkstelling in de backoffice.<br>
+<br>
+De toelage, vermeld in het eerste lid, wordt berekend en betaald conform artikel VII 15, eerste lid, artikel VII 16 en VII 17 van het VPS.
 
 ### ART. 10.
 
