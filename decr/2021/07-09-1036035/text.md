@@ -1783,7 +1783,7 @@ De Vlaamse Regering kan in uitzonderlijke gevallen afwijkingen toestaan als het 
 
 ### ART 210.
 
-Op vennootschapsrechtelijke herstructureringen gestart na de inwerkingtreding van dit decreet, tot 30 juni 2023, waarbij een sociale huisvestingsmaatschappij is betrokken, zal uitsluitend boek 12 van het Wetboek van vennootschappen en verenigingen van toepassing zijn, voor zover daarvan in dit decreet niet wordt afgeweken.
+Alle rechten van woonmaatschappijen met betrekking tot onroerende goederen die zijn overgedragen aan gezinnen of alleenstaanden ter uitvoering van de regelgeving inzake sociaal wonen, gaan van rechtswege over naar de woonmaat-schappij binnen wiens werkingsgebied het onroerend goed ligt.
 
 ### ART 211.
 
