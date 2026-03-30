@@ -12,12 +12,12 @@
 
 ### ART. 1.
 
-De personeelsleden van het departement Kanselarij en Buitenlandse Zaken die het secretariaat van de Vlaamse Regering waarnemen, zijn gemachtigd om dagvaardingen en deurwaardersexploten die betekend worden aan de Vlaamse Gemeenschap of het Vlaamse Gewest, in ontvangst te nemen.
+...
 
 ### ART. 2.
 
-&nbsp;Het ministerieel besluit van 1 april   2006 houdende delegatie inzake inontvangstneming van dagvaardingen en   deurwaardersexploten wordt opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-Dit   besluit heeft uitwerking met ingang van 1 april 2015.
+...

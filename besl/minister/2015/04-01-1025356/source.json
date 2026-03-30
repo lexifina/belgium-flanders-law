@@ -2,16 +2,16 @@
   "codex_id": 1025356,
   "title": "Ministerieel besluit van 2015-04-01 houdende delegatie inzake inontvangstneming van dagvaardingen en deurwaardersexploten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025356/VolledigDocument?datum=2020-09-01",
-  "source_sha256": "dbaacf793093d34798073a64e83c0cda1fa877be1e6d126b6d717a4392fcc5cd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025356/VolledigDocument?datum=2026-03-30",
+  "source_sha256": "45290eb0bb79e24b86c66641b9b9871d427446e996895f6abba47893593f79d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025356&param=informatie",
-  "as_of": "2020-09-01",
+  "as_of": "2026-03-30",
   "made": "2015-04-01",
   "gazette": "2015-05-18",
   "numac": 2015035626,
   "document_start": "2015-04-01",
   "document_end": "2026-03-29",
-  "in_force": "2020-09-01",
+  "in_force": "2026-03-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2020-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-03-30; future article versions excluded; article text as the API gives it"
 }
