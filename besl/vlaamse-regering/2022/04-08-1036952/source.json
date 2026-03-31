@@ -2,16 +2,16 @@
   "codex_id": 1036952,
   "title": "Besluit van de Vlaamse Regering van 2022-04-08 tot toekenning van een subsidie aan lokale besturen voor de opbouw van opvangcapaciteit voor tijdelijk ontheemden uit Oekraïne, tot wijziging van diverse besluiten van de Vlaamse Regering en tot intrekking van het besluit van de Vlaamse Regering van 14 maart 2022 tot toekenning van een subsidie aan lokale besturen voor het creëren van bijkomende opvangplaatsen voor de tijdelijk ontheemden uit Oekraïne",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036952/VolledigDocument?datum=2025-02-01",
-  "source_sha256": "4ad72dba62d2e9def326a174140a4597e3b1719b3ee66481555b7ef245c69c8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036952/VolledigDocument?datum=2026-03-31",
+  "source_sha256": "868a4a7d72698582c16b8cca6ba294d19433b3f3160690b8c26cba3d5adfc6ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036952&param=informatie",
-  "as_of": "2025-02-01",
+  "as_of": "2026-03-31",
   "made": "2022-04-08",
   "gazette": "2022-04-26",
   "numac": 2022020740,
   "document_start": "2022-04-08",
   "document_end": "2026-04-01",
-  "in_force": "2025-02-01",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2025-02-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-03-31",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2026-03-31; future article versions excluded; article text as the API gives it"
 }

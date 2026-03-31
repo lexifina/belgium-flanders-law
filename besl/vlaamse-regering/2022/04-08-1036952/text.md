@@ -261,6 +261,32 @@ Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van 1000 eur
 <br>
 Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van 1000 euro voor elke nieuwe ontheemde in België met opvangnood die via het agentschap wordt toegewezen aan een publieke slaapplek die voldoet aan de voorwaarden, vermeld in artikel 3, tweede lid, 1°, 2°, 3°, 5° en 6°, en een slaapplek in een nooddorp als vermeld in artikel 7, met het oog op de doorstroom. Het agentschap registreert per maand het aantal ontheemden die worden toegewezen aan die slaapplekken.
 
+### ART 7/4.
+
+§1. De stad Gent komt in aanmerking voor een subsidie van het Vlaamse Gewest voor het beheer van een nooddorp voor de opvang van tijdelijk ontheemden uit Oekraïne voor de periode van 1 april 2026 tot en met 30 juni 2027.<br>
+<br>
+De slaapplekken in het nooddorp, vermeld in het eerste lid, zijn veilig, gezond en menswaardig.<br>
+<br>
+De volgende reële kosten komen in aanmerking voor de subsidie, vermeld in het eerste lid:<br>
+1°&nbsp;&nbsp; &nbsp;de kosten voor het sociaal beheer;<br>
+2°&nbsp;&nbsp; &nbsp;de huur van het terrein;<br>
+3°&nbsp;&nbsp; &nbsp;de vertaalkosten.<br>
+<br>
+De facturen of de bewijsstukken voor de reële kosten, vermeld in het derde lid, worden ingediend uiterlijk op 30 september 2027. De facturen of de bewijsstukken worden ingediend op de wijze, vermeld in artikel 9, eerste tot en met derde lid.<br>
+<br>
+Het agentschap Facilitair Bedrijf controleert de ingediende facturen of bewijsstukken, vermeld in het vierde lid, en berekent het bedrag van de subsidie voor de reële kosten, vermeld in het derde lid.<br>
+<br>
+§2. De stad Gent komt in aanmerking voor een eenmalige forfaitaire subsidie van 600.000 euro voor het onthaal van tijdelijk ontheemden uit Oekraïne in het nooddorp, vermeld in paragraaf 1, eerste lid, voor de periode van 1 april 2026 tot en met 31 maart 2027.<br>
+<br>
+De toewijzing van de tijdelijk ontheemden uit Oekraïne in het nooddorp verloopt via het agentschap in overleg met de stad Gent.<br>
+&nbsp;
+
+### ART 7/5.
+
+Een lokaal bestuur komt in aanmerking voor een forfaitaire subsidie van 1250 euro voor elke ontheemde die, na doorstroom uit het nooddorp, vermeld in artikel 7/4, §1, eerste lid, op het grondgebied van het lokaal bestuur wordt opgevangen in de periode van 1 april 2026 tot en met 30 juni 2027.<br>
+<br>
+Het agentschap berekent het bedrag van de subsidies, vermeld in het eerste lid.
+
 ## HOOFDSTUK 5. Aanvraag, controle en uitbetaling van de subsidie
 
 ### ART 8.
@@ -275,7 +301,7 @@ Met de subsidies, vermeld in dit artikel, mogen onbeperkt reserves worden aangel
 
 ### ART 9.
 
-Om de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, en artikel 7, derde lid, te kunnen ontvangen, vraagt het lokaal bestuur via het Loket voor Lokale Besturen bij het agentschap de terugbetaling van de reële kosten aan. In die aanvraag deelt het lokaal bestuur de volgende informatie mee en bezorgt het de volgende bewijsstukken:<br>
+Om de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, artikel 7, derde lid, en artikel 7/4, §1, derde lid, te kunnen ontvangen, vraagt het lokaal bestuur via het Loket voor Lokale Besturen bij het agentschap de terugbetaling van de reële kosten aan. In die aanvraag deelt het lokaal bestuur de volgende informatie mee en bezorgt het de volgende bewijsstukken:<br>
 1° de identificatiegegevens van het lokaal bestuur;<br>
 2° de identificatiegegevens van iedere publieke slaapplek als vermeld in artikel 3, tweede lid, waarvoor opknapwerken nodig zijn, met de bijbehorende facturen voor die opknapwerken;<br>
 3° de gedetailleerde facturen of andere bewijsstukken van de uitgevoerde werken of verleende diensten voor de opbouw van de nooddorpen, vermeld in artikel 7, derde lid.<br>
@@ -309,6 +335,10 @@ Uiterlijk op 30 juni 2025 betaalt het agentschap een zesde keer het vastgestelde
 Uiterlijk op 31 december 2025 betaalt het agentschap een zevende keer het vastgestelde subsidiebedrag op basis van de informatie waarover het beschikt op 30 september 2025.<br>
 <br>
 Uiterlijk op 31 juli 2026 betaalt het agentschap een achtste keer het vastgestelde subsidiebedrag op basis van de informatie op 31 maart 2026. De bewijsstukken voor de subsidies voor de reëel gemaakte kosten, vermeld in artikel 4, tweede lid, worden uiterlijk op 31 mei 2026 ingediend op de wijze, vermeld in artikel 9, eerste lid.<br>
+<br>
+Uiterlijk op 31 december 2027 betaalt het agentschap het vastgestelde bedrag van de subsidie, vermeld in artikel 7/4, §1, eerste lid, en artikel 7/5, eerste lid.<br>
+<br>
+De forfaitaire subsidie van 600.000 euro, vermeld in artikel 7/4, §2, wordt door het agentschap betaald in vier schijven van 150.000 euro achtereenvolgens en uiterlijk op 30 juni 2026, 30 september 2026, 31 december 2026 en 31 maart 2027.<br>
 &nbsp;
 
 ### ART 12.
@@ -371,7 +401,7 @@ Dit besluit treedt in werking op 8 april 2022.<br>
 <br>
 Artikel 2 tot en met 6 hebben uitwerking met ingang van 14 maart 2022.<br>
 <br>
-Dit besluit houdt op uitwerking te hebben op 31 maart 2026, met uitzondering van artikel 7/1, dat ophoudt uitwerking te hebben op 30 juni 2027, van artikel 15 tot en met artikel 19 en van artikel 21.
+Dit besluit houdt op uitwerking te hebben op 1 april 2026, met uitzondering van artikel 7/1, dat buiten werking treedt op 30 juni 2027, en artikel 1, 7/2, 7/4, 7/5 en 9, eerste tot en met derde lid, die buiten werking treden op 31 december 2027, en van artikel 11 tot en met artikel 19 en van artikel 21.
 
 ### ART 23.
 
