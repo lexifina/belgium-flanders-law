@@ -9,6 +9,18 @@ Dit decreet regelt een gewestaangelegenheid.&nbsp;
 In artikel 16.1.1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij het decreet van 21 december 2007 en het laatst gewijzigd bij het decreet van 17 mei 2024, wordt punt 20° opnieuw opgenomen in de volgende lezing:&nbsp;<br>
 “20° het Energiedecreet van 8 mei 2009, wat artikel 4.1.11/8 betreft;”.&nbsp;
 
+### ART 3.
+
+Aan artikel 16.1.3 van hetzelfde decreet, ingevoegd bij het decreet van 22 november 2013 en vervangen bij het decreet van 26 april 2024, worden een paragraaf 3 en een paragraaf 4 toegevoegd, die luiden als volgt:<br>
+<br>
+“§3. De personeelsleden die de Vlaamse Regering of haar gemachtigde aanwijst, zijn bevoegd voor de handhaving van de milieuvoorschriften, vermeld in artikel 16.1.1, §1, eerste lid, 5°/2 en 20°.<br>
+<br>
+Het eerste lid wordt opgeheven op de datum die de Vlaamse Regering vaststelt.<br>
+<br>
+§4. In afwijking van artikel 16.6.6, §1, wordt het niet voldoen aan de milieuvoorschriften, vermeld in artikel 16.1.1, §1, eerste lid, 5°/2 en 20°, gelijkgesteld met een inbreuk.<br>
+<br>
+De Vlaamse Regering wordt ertoe gemachtigd om de buitenwerkingtreding van het eerste lid te regelen.”.
+
 ### ART 4.
 
 Aan artikel 16.3.9 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007 en gewijzigd bij de decreten van 25 mei 2012 en 8 juni 2018, worden een paragraaf 4 en een paragraaf 5 toegevoegd, die luiden als volgt:&nbsp;<br>
