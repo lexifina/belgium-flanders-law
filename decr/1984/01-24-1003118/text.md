@@ -74,11 +74,11 @@ De Vlaamse regering stelt de voorwaarden vast waarop een algemene telling van de
 
 ### ART. 11.
 
-<P>Voor dit decreet en de uitvoeringsbesluiten ervan verlopen het toezicht, het   onderzoek, de vaststelling en de bestraffing van de milieu-inbreuken en   milieumisdrijven, alsook het nemen van bestuurlijke maatregelen en   veiligheidsmaatregelen, volgens de regels, vermeld in titel XVI, hoofdstuk III   tot en met VII, van het decreet van 5 april 1995 houdende algemene bepalingen   inzake milieubeleid, tenzij het uitdrukkelijk anders wordt bepaald in artikel 29   van dit decreet.</P>
+<p>Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.</p>
 
 ### ART. 12.
 
-<P>Het nemen van monsters en hun ontleding wordt verricht door een laboratorium   dat daartoe in het Vlaamse Gewest is erkend met toepassing van de bepalingen van   titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid.<BR><BR>De Vlaamse Regering bepaalt, onder   vrijwaring van de rechten van de verdediging, de wijze waarop de monsters worden   genomen. Ze kan eveneens de ontledingsmethodes vaststellen.</P>
+<p>...</p>
 
 ### ART. 13.
 
