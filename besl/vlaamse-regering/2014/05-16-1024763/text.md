@@ -340,7 +340,7 @@ In afwijking van het tweede lid bedraagt het getuigengeld in de beroepen, vermel
 
 ### ART. 25.
 
-Dit deel is van toepassing op de beroepen, vermeld in artikel 16.4.19, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
+Dit deel is van toepassing op de beroepen, vermeld in hoofdstuk 10, afdeling 13 en 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.
 
 ## HOOFDSTUK 2 Rechtspleging
 
