@@ -1216,11 +1216,15 @@ De Vlaamse Regering kan voor de transitie en het samenwerkingsverband, vermeld i
 
 ### ART. 68.
 
-Voor dit decreet en de uitvoeringsbesluiten ervan worden het toezicht en   de bestuurlijke handhaving uitgeoefend en worden veiligheidsmaatregelen genomen   volgens de regels, vermeld in titel XVI, hoofdstukken III, IV en VII, van het   decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid.<BR><BR>In afwijking van het eerste lid wordt de controle op en de   bestuurlijke handhaving van de naleving van de verplichtingen inzake de   milieuheffingen uitgevoerd volgens de regels, vermeld in hoofdstuk 5, afdeling   2.<BR><BR>
+Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.&nbsp;<br>
+<br>
+In afwijking van het eerste lid wordt de controle op en de bestuurlijke hand-having van de naleving van de verplichtingen inzake de milieuheffingen uitgevoerd volgens de regels, vermeld in hoofdstuk 5, afdeling 2.<br>
+<br>
+In afwijking van het eerste lid wordt de overtreding van de verplichting tot aangifte en betaling van milieuheffingen, vermeld in artikel 50, en de verplichting om de administratieve geldboete te betalen, vermeld in artikel 58, uitsluitend bestraft op de wijze, vermeld in hoofdstuk 5, afdeling 2.
 
 ### ART. 69.
 
-Met betrekking tot dit decreet en de uitvoeringsbesluiten ervan worden het   onderzoek, de vaststelling en de bestraffing van de milieu-inbreuken en   milieumisdrijven uitgevoerd volgens de regels, vermeld in titel XVI van het   decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid.<BR><BR>In afwijking van het eerste lid wordt de overtreding van de   verplichting tot aangifte en betaling van milieuheffingen, vermeld in artikel   50, en de verplichting tot betaling van de administratieve geldboete, vermeld in   artikel 58, uitsluitend bestraft op de wijze, vermeld in hoofdstuk 5, afdeling   2.<BR><BR>
+...
 
 ## HOOFDSTUK 8 Wijzigingsbepalingen
 
