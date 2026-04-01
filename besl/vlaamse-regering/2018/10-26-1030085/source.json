@@ -2,16 +2,16 @@
   "codex_id": 1030085,
   "title": "Besluit van de Vlaamse Regering van 2018-10-26 houdende diverse bepalingen over de handhaving van het integraal handelsvestigingsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030085/VolledigDocument?datum=2018-11-01",
-  "source_sha256": "2098f48591d579d468f2ee98a98f3a25d0fe35f4dc5fcd1a8e4b1051f03319f5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030085/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "7dab96d23b33b99be04110a0805247c3ba1719249a5d9d8fc16d68553ba06290",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030085&param=informatie",
-  "as_of": "2018-11-01",
+  "as_of": "2026-04-01",
   "made": "2018-10-26",
   "gazette": "2019-01-09",
   "numac": 2018015511,
   "document_start": "2018-11-01",
   "document_end": "2026-03-31",
-  "in_force": "2018-11-01",
+  "in_force": "2026-04-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2018-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-01; future article versions excluded; article text as the API gives it"
 }
