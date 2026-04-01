@@ -1356,13 +1356,17 @@ Alle ontvangsten ten voordele van het Vlaamse Gewest voortvloeiend uit de toepas
 
 Personen die ingevolge hun ambt of in opdracht van de overheid werken ten behoeve van aangelegenheden die ressorteren onder dit decreet of zijn uitvoeringsbesluiten, mogen in functie van hun opdracht onroerende eigendommen, met uitzondering van woningen en gebouwen bestemd voor privé of bedrijfsactiviteiten, betreden om er opmetingen en onderzoekingen te verrichten. Zij dienen zich te legitimeren en moeten in staat zijn bewijs te leveren van hun opdracht. De Vlaamse regering kan hiertoe nadere regels vaststellen.  <span class="reference">(ing. decr. 19 juli 2002, art. 39, I: 10 september 2002)</span> ]
 
+### ART 57ter.
+
+...
+
 ## HOOFDSTUK IX [HANDHAVING (ver. decr. 30 april 2009, art. 126)]
 
 ## AFDELING 1 [... (opgeh. decr. 30 april 2009, art. 127)]
 
 ### ART. 58.
 
-Voor dit decreet en haar uitvoeringsbesluiten gebeurt het uitoefenen van toezicht, het opleggen van bestuurlijke maatregelen, het onderzoeken van milieu-inbreuken, het opleggen van bestuurlijke geldboeten, het innen en invorderen van verschuldigde bedragen, het opsporen van milieumisdrijven, het strafrechtelijk sanctioneren van milieumisdrijven en het opleggen van veiligheidsmaatregelen volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
+Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.
 
 ### ART. 59.
 
