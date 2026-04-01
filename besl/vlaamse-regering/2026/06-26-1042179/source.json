@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042179,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-26 tot wijziging van het Subsidiebesluit van 22 november 2013, wat betreft het bedrag voor de subsidie voor inkomenstarief voor gezinsopvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042179/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "fa4bfa61e7b7f241c2cd16edc80890aba5185507acfbdd127be84327bd7c39e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042179&param=informatie",
+  "as_of": "2026-04-01",
+  "made": "2026-06-26",
+  "gazette": "2026-07-10",
+  "numac": 2026005280,
+  "document_start": "2026-04-01",
+  "document_end": null,
+  "in_force": "2026-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
