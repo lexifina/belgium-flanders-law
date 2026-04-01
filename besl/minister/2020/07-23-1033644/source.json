@@ -2,16 +2,16 @@
   "codex_id": 1033644,
   "title": "Ministerieel besluit van 2020-07-23 over het model tot aanvraag van een minnelijke schikking inzake ruimtelijke ordening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033644/VolledigDocument?datum=2020-09-11",
-  "source_sha256": "d9eaf91ae27c90f2958c44d6e5d42a4de7b9c88364504029fc835d751ae48c7a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033644/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "95d2c2cea79332b0b439cafe24773bc5ceb7b565fc0d6d11e8f3a82fe59c9ac9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033644&param=informatie",
-  "as_of": "2020-09-11",
+  "as_of": "2026-04-01",
   "made": "2020-07-23",
   "gazette": "2020-09-10",
   "numac": 2020031318,
   "document_start": "2020-09-11",
   "document_end": "2026-03-31",
-  "in_force": "2020-09-11",
+  "in_force": "2026-04-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2020-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-01; future article versions excluded; article text as the API gives it"
 }

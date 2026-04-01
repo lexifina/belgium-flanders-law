@@ -30,16 +30,16 @@ DE VLAAMSE MINISTER VAN JUSTITIE EN HANDHAVING, OMGEVING, ENERGIE EN TOERISME BE
 
 ### ART 1.
 
-Het model van aanvraagformulier, vermeld in artikel 22, § 1, derde lid van het Handhavingsbesluit Ruimtelijke Ordening van 9 februari 2018, wordt vastgesteld volgens het model zoals opgenomen in de bijlage die bij dit besluit is gevoegd.
+...
 
 ### ART 2.
 
-Het ministerieel besluit houdende vaststelling van de modelaanvraagformulieren voor minnelijke schikkingen inzake ruimtelijke ordening en van het modelakkoord van de stedenbouwkundige inspecteur van 4 juni 2009 wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2020/09/10_1.pdf#page=159">Model van aanvraag van een minnelijke schikking</a>
+...
