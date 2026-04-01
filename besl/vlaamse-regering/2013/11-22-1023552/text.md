@@ -39,7 +39,7 @@ Dit besluit wordt aangehaald als: Vergunningsbesluit van 22 november   2013.
 <p>De organisator heeft kennisgenomen van de werkingsvoorwaarden die op hem van toepassing zijn, vermeld in artikel 14 tot en met 62, en verbindt zich ertoe om aan die voorwaarden te voldoen zodra er in de kinderopvanglocatie kinderen worden opgevangen.</p>
 
 <p>De organisator heeft bovendien :<br>
-1° een risicoanalyse als vermeld in artikel 24, § 1;<br>
+1° een risicoanalyse als vermeld in artikel 24;<br>
 2° ...<br>
 3° ....</p>
 
@@ -47,7 +47,7 @@ Dit besluit wordt aangehaald als: Vergunningsbesluit van 22 november   2013.
 
 ### ART. 3.
 
-<P>De organisator heeft de infrastructuur, vermeld in artikel 13/1 tot en met 19   en 21, 1° en 2°, en zorgt ervoor dat de infrastructuur een veilige en gezonde   omgeving is als vermeld in artikel 24, § 1. Dat blijkt voor groepsopvang uit een   advies infrastructuur van een toezichthouder en voor gezinsopvang uit een   verklaring op erewoord van de organisator.</P>
+<p>De organisator heeft de infrastructuur, vermeld in artikel 13/1 tot en met 19 en 21, 1° en 2°, en zorgt ervoor dat de infrastructuur een veilige en gezonde omgeving is als vermeld in artikel 24. Dat blijkt voor groepsopvang uit een advies infrastructuur van een toezichthouder en voor gezinsopvang uit een verklaring op erewoord van de organisator.</p>
 
 ### ART. 4.
 
@@ -333,7 +333,7 @@ i) de afwezigheid van een kind;<br>
 3° het recht van het gezin :<br>
 a) op wennen;<br>
 b) op toegang tot alle ruimtes waar het kind wordt opgevangen;<br>
-c) om klachten te uiten, eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 58, en pas nadien via het agentschap, met uitzondering van klachten over een crisis, die direct tot het agentschap gericht kunnen worden. Het adres, e-mailadres en het telefoonnummer van het agentschap worden daarbij vermeld;<br>
+c) om klachten te uiten bij de organisator of bij het agentschap. De organisator vermeldt de eigen procedure voor klachtenbehandeling en vermeldt het adres, het e-mailadres en het telefoonnummer van de bevoegde dienst van het agentschap;<br>
 d) op respect voor de privacy en de bescherming van natuurlijke personen bij de verwerking van hun gegevens, meer bepaald met betrekking tot de verwerking van persoonsgegevens als vermeld in verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming). Daarbij zijn de volgende bepalingen opgenomen :<br>
 1) een bepaling over kennisgeving, meer bepaald dat de persoonsgegevens van de kinderen en de gezinnen alleen gebruikt worden in het kader van kinderopvang, en dat die gegevens op elk moment kunnen worden ingekeken en verbeterd door de betrokkenen, en dat die gegevens worden vernietigd wanneer deze niet meer noodzakelijk zijn in functie van de naleving van toepasselijke regelgeving;<br>
 2) een vertrouwelijkheidsverklaring, meer bepaald dat de organisator zich ertoe verbindt om de veiligheid en het vertrouwelijke karakter van de persoonsgegevens te waarborgen;<br>
@@ -412,7 +412,7 @@ De organisator, hetzij de natuurlijke persoon, hetzij een of meer personen die h
 
 ### ART. 40.
 
-<p>§ 1. De verantwoordelijke is minstens 21 jaar oud.<br>
+<p>§ 1. De verantwoordelijke is minstens 21 jaar oud.&nbsp;De verantwoordelijke oefent zijn functie beroepsmatig uit.<br>
 <br>
 § 2. De organisator heeft de volgende documenten over de verantwoordelijke :<br>
 1° een uittreksel uit het strafregister overeenkomstig artikel 6, §4, en artikel 24, vijftiende lid, van het decreet van 20 april 2012;<br>
@@ -447,13 +447,11 @@ Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeke
 <br>
 De organisator groepsopvang kan de verplichtingen, vermeld in het eerste en tweede lid, uitzonderlijk en voor maximaal 30 dagen per kalenderjaar laten opnemen door de personen, vermeld in artikel 45, als al de volgende voorwaarden zijn vervuld:<br>
 1° er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in artikel 43, §2, 4°, a), aanwezig in de leefgroep in kwestie;<br>
-2° hij dit meldt aan het agentschap met daarbij de motivatie waarom dit nodig is en hoe hij de kwaliteit van de kinderopvang garandeert.<br>
-<br>
-De mogelijkheid, vermeld in het derde lid, zal geëvalueerd worden door het agentschap tegen uiterlijk 1 april 2025.</p>
+2° hij dit meldt aan het agentschap met daarbij de motivatie waarom dit nodig is en hoe hij de kwaliteit van de kinderopvang garandeert.</p>
 
 ### ART. 43.
 
-<p>§ 1. De kinderbegeleider is minstens 18 jaar oud.&nbsp;De kinderbegeleider in een kwalificerend traject duaal leren wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject duaal leren.<br>
+<p>§ 1. De kinderbegeleider is minstens 18 jaar oud.&nbsp;De kinderbegeleider in een kwalificerend traject duaal leren wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject duaal leren.&nbsp;De kinderbegeleider oefent zijn functie beroepsmatig uit of in een kwalificerend traject duaal leren.<br>
 <br>
 § 2. De organisator heeft de volgende documenten over de kinderbegeleider :<br>
 1° een uittreksel uit het strafregister overeenkomstig artikel 6, §4, en artikel 24, vijftiende lid, van het decreet van 20 april 2012;<br>
@@ -468,7 +466,7 @@ b) een bewijs van actieve deelname aan een kwalificerend traject dat de minister
 1)&nbsp;&nbsp; &nbsp;per kinderbegeleider in een kwalificerend traject werken er drie voltijdsequivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt a), op het niveau van de organisator;&nbsp;<br>
 2)&nbsp;&nbsp; &nbsp;er is altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt a), aanwezig in de kinderopvanglocatie.<br>
 <br>
-Het document, vermeld in het eerste lid,&nbsp; 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, moet het document dateren uit het lopende schooljaar. Het document, vermeld in het eerste lid, 3°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
+Het document, vermeld in het eerste lid,&nbsp; 2°, is bij de aanvraag van de vergunning of bij de start van de tewerkstelling maximaal drie maanden oud. Het document, vermeld in het eerste lid, 3°, wordt om de drie jaar hernieuwd.&nbsp;De organisator zorgt voor een jaarlijkse actualisatie van de reanimatietechnieken of andere aspecten van levensreddend handelen.<br>
 <br>
 Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
@@ -534,7 +532,7 @@ Voor de aanwezigheid van de kinderbegeleiders zorgt de organisator voor een plan
 
 ### ART. 52.
 
-De organisator heeft een ondernemingsnummer. Als de organisator   georganiseerd is als feitelijke vereniging, heeft het ondernemingsnummer   betrekking op de feitelijke vereniging zelf.<BR>
+De organisator heeft een ondernemingsnummer, dat vanaf de start van de werking ononderbroken actief is. Als de organisator georganiseerd is als feitelijke vereniging, heeft het ondernemingsnummer betrekking op de feitelijke vereniging zelf.
 
 ### ART. 53.
 
@@ -596,7 +594,7 @@ De organisator is verwerkingsverantwoordelijke.&nbsp;<br>
 <p>De organisator meldt de volgende situaties onmiddellijk aan het agentschap:<br>
 1°&nbsp;&nbsp; &nbsp;een crisis en grensoverschrijdend gedrag;<br>
 2°&nbsp;&nbsp; &nbsp;een klacht over een crisis;&nbsp;<br>
-3°&nbsp;&nbsp; &nbsp;als de organisator zelf of een van zijn medewerkers het voorwerp uitmaakt van een strafonderzoek of een veroordeling voor feiten ten aanzien van minderjarigen die een impact heeft op het goed gedrag en zeden van de persoon in kwestie en meer bepaald op zijn onberispelijke gedrag in de omgang met minderjarigen;&nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;als de organisator zelf of een van zijn medewerkers of een persoon met regelmatig direct contact met de opgevangen kinderen, het voorwerp uitmaakt van een strafonderzoek of een veroordeling voor feiten ten aanzien van minderjarigen die een impact heeft op het goed gedrag en zeden van de persoon in kwestie en meer bepaald op zijn onberispelijke gedrag in de omgang met minderjarigen;&nbsp;<br>
 4°&nbsp;&nbsp; &nbsp;problemen of ontwikkelingen die een impact kunnen hebben op de continuïteit van de kinderopvang;<br>
 5°&nbsp;&nbsp; &nbsp;belangrijke wijzigingen in het bestuur van de organisator.<br>
 <br>
@@ -633,24 +631,13 @@ De organisator informeert zich over het lokaal beleid kinderopvang,   vermeld in
 
 ### ART. 63.
 
-<p>Op aanvraag van een organisator kan het agentschap de volgende afwijkingen toekennen :<br>
-1° een afwijking van de voorwaarden over de infrastructuur, vermeld in artikel 14, eerste lid, 3°, en artikel 16 van dit besluit, en van de voorwaarde over de leefgroepindeling, vermeld in artikel 55 van dit besluit, voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een erkenning, een toestemming of een attest van toezicht hebben van het agentschap;<br>
-2° een tijdelijke afwijking van de voorwaarden over de infrastructuur, vermeld in artikel 14, eerste lid, 1° en 3°, en artikel 16 van dit besluit, en van de voorwaarde over de leefgroepindeling, vermeld in artikel 55 van dit besluit;<br>
-3° een afwijking van de voorwaarde over de infrastructuur, vermeld in artikel 14, tweede lid, van dit besluit, voor de kinderopvanglocaties waarin een door het agentschap erkend consultatiebureau als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 1 maart 2002 tot bepaling van de voorwaarden en de procedureregels inzake erkenning en subsidiëring van de consultatiebureaus voor het jonge kind of een erkend Huis van het Kind als vermeld in het decreet van 29 november 2013 houdende de organisatie van de preventieve gezinsondersteuning, aanwezig is;<br>
-4° een afwijking van de brandveiligheidsvoorschriften, vermeld in artikel 23 van dit besluit. Het agentschap neemt een beslissing na het advies van de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin.<br>
+<p>Op verzoek van een organisator kan het agentschap de volgende afwijkingen toekennen, als de organisator aantoont dat hij de veiligheid en de kwaliteit voldoende waarborgt:<br>
+1°&nbsp;&nbsp; &nbsp;een afwijking van de voorwaarden, vermeld in artikel 14, 16 en 55, als de afwijking verantwoord is door een bijsturing van de werking vanuit zijn beleidsvoerend vermogen, vermeld in artikel 13/0, en door een risicoanalyse die een gezonde en veilige omgeving garandeert als vermeld in artikel 24;<br>
+2°&nbsp;&nbsp; &nbsp;een afwijking van de brandveiligheidsvoorschriften, vermeld in artikel 23.&nbsp;<br>
 <br>
-Voor de beoordeling van de afwijkingen, vermeld in het eerste lid, 1° en 2°, houdt het agentschap rekening met de context, met de maatregelen die de organisator neemt, en met de volgende elementen :<br>
-1° er worden bijkomende kinderbegeleiders ingezet;<br>
-2° er wordt in bijkomende pedagogische ondersteuning voorzien;<br>
-3° er wordt in bijkomende ruimte voorzien;<br>
-4° er is bijkomende aandacht voor de inrichting van de ruimtes;<br>
-5° er is bijkomende aandacht voor beweging of voor veilig slapen.<br>
+Het agentschap neemt een beslissing over het verzoek na het advies van de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin.<br>
 <br>
-De afwijking, vermeld in het eerste lid, 1°, vervalt definitief als een organisator een verhoging aanvraagt en krijgt van het aantal vergunde kinderopvangplaatsen in die kinderopvanglocatie.<br>
-<br>
-De tijdelijke afwijking, vermeld in het eerste lid, 2°, wordt alleen toegekend naar aanleiding van een overmachtsituatie of in het kader van geplande verbouwingen, en geldt alleen voor de duur die noodzakelijk is voor het herstel van de schade of voor de verbouwing.<br>
-<br>
-De afwijking, vermeld in het eerste lid, 3°, geldt alleen zolang er een erkend consultatiebureau of Huis van het Kind aanwezig is</p>
+De afwijking, vermeld in het eerste lid, kan tijdelijk of voor onbepaalde duur toegekend worden, rekening houdend met de context. Het agentschap kan de mogelijkheid tot afwijking stopzetten, als het agentschap vaststelt dat de organisator de beschreven aanpak in de motivatie, vermeld in het eerste lid, niet realiseert.</p>
 
 ### ART. 64.
 
