@@ -42,7 +42,7 @@ Conform artikel 92bis, § 4bis, van de bijzondere wet van 8 augustus 1980   tot 
 
 ### ART. 9.
 
-Voor dit decreet en de uitvoeringsbesluiten ervan verloopt het uitoefenen   van toezicht, het opleggen van bestuurlijke maatregelen, het vaststellen en   onderzoeken van milieu-inbreuken, het opleggen van bestuurlijke geldboeten, het   innen en invorderen van verschuldigde bedragen, het opsporen van   milieumisdrijven en het vaststellen van milieumisdrijven, het strafrechtelijk   bestraffen van milieumisdrijven en het opleggen van veiligheidsmaatregelen   volgens de regels, vermeld in titel XVI van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid.
+Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.
 
 ## HOOFDSTUK 5. Wijzigingsbepalingen
 
