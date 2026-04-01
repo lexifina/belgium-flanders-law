@@ -1630,7 +1630,7 @@ De saneringsplichtige, vermeld in artikel 11, 22 en 132, §1, stelt op verzoek v
 <br>
 § 7. De Vlaamse Regering kan de beoordeling van een beroep, vermeld in artikelen 146 en 153, afhankelijk stellen van de betaling van een retributie.<br>
 <br>
-§ 8. Als de OVAM ambtshalve optreedt overeenkomstig artikelen 157 of 158 van dit decreet, of artikel 16.4.7, § 1, 3°, of artikel 16.4.16, tweede lid, van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn de ingebrekeblijvende plichtige of de aansprakelijke personen een retributie verschuldigd aan de OVAM.<br>
+§ 8. Als de OVAM ambtshalve optreedt overeenkomstig artikelen 157 of 158 van dit decreet, of artikel 16.4.7, § 1, 3°, of 71 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn de ingebrekeblijvende plichtige of de aansprakelijke personen een retributie verschuldigd aan de OVAM.<br>
 <br>
 § 9. Als de Vlaamse Regering in de gevallen, vermeld in § 1 tot en met § 7, een retributie vaststelt, moet, op straffe van onontvankelijkheid, het bewijs van betaling van de retributie gevoegd worden :<br>
 1° ...;<br>
@@ -1704,13 +1704,13 @@ Om redenen van bodembescherming kunnen het Vlaamse Gewest, de provincies en de g
 
 ### ART. 172.
 
-Met betrekking tot dit decreet en zijn uitvoeringsbesluiten worden het toezicht en de bestuurlijke handhaving uitgeoefend kunnen, met behoud van de toepassing van artikel 69, veiligheidsmaatregelen worden genomen volgens de regels, bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
+Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.
 
-## HOOFDSTUK III Strafbepalingen
+## HOOFDSTUK III ...
 
 ### ART. 173.
 
-Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
+...
 
 ## HOOFDSTUK IV Verslag aan het Vlaams Parlement
 
