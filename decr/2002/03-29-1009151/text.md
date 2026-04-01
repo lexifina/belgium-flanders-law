@@ -114,19 +114,38 @@ De Vlaamse regering bepaalt de andere faciliteiten en vrijstellingen ter onderst
 
 ### ART. 13.
 
-<P>...</P>
+<p>§1. Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 2, 3, 4, 6, 8, 9, 10, 11, 12 en 13, van toepassing op deze titel.<br>
+<br>
+In aanvulling van artikel 71, §2, derde lid, van het kaderdecreet Vlaamse handhaving van 14 juli 2023 is de uitvoering van publieke herstel- en beveiligings-maatregelen vrijgesteld van de vergunningen, toelatingen of machtigingen die zijn ingesteld door dit decreet of de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+<br>
+§2. De uitvoering van handelingen conform de maatregelen die zijn besloten in een herstelschikking, kan nooit leiden tot het verval van het recht om voor de voormelde handelingen een premie aan te vragen volgens de normaal geldende regels.</p>
 
 ### ART. 13/1.
 
-§ 1. De volgende handelingen of nalatigheden worden bestraft met een   gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 26 euro   tot 400.000 euro of met een van die straffen alleen:<BR>1° het niet naleven door   de eigenaar en de gebruiker van het actief behoudsbeginsel, vermeld in artikel   8, § 1;<BR>2° het niet naleven van het passief behoudsbeginsel, vermeld in   artikel 8/1;<BR>3° het niet naleven van de toelatingsplicht, vermeld in artikel   8, § 5;<BR>4° het in stand houden van schade aan erfgoedwaarden, veroorzaakt   door de misdrijven, vermeld in punt 1° tot en met 3° ;<BR>5° het toestaan of   aanvaarden door de eigenaar dat een van de misdrijven, vermeld in punt 1° tot en   met 4°, wordt gepleegd of in stand gehouden.<BR><BR>§ 2. De misdrijven, vermeld   in paragraaf 1, kunnen bestraft worden met een alternatieve bestuurlijke   geldboete volgens de bepalingen van hoofdstuk 11, afdeling 2, onderafdeling 4,   van het Onroerenderfgoeddecreet van 12 juli 2013. Die alternatieve geldboete kan   worden opgelegd aan alle deelnemers aan het misdrijf en bedraagt maximaal 50.000   euro.<BR><BR>Een alternatieve bestuurlijke geldboete wordt vermeerderd met de   opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Het   bedrag van de bestuurlijke geldboete wordt afgestemd op de ernst van het   misdrijf en eventuele verkregen vermogensvoordelen.
+§ 1. De volgende handelingen of nalatigheden worden bestraft met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 26 euro tot 400.000 euro of met een van die straffen alleen:<br>
+1° het niet naleven door de eigenaar en de gebruiker van het actief behoudsbeginsel, vermeld in artikel 8, § 1;<br>
+2° het niet naleven van het passief behoudsbeginsel, vermeld in artikel 8/1;<br>
+3° het niet naleven van de toelatingsplicht, vermeld in artikel 8, § 5;<br>
+4° het in stand houden van schade aan erfgoedwaarden, veroorzaakt door de misdrijven, vermeld in punt 1° tot en met 3° ;<br>
+5° het toestaan of aanvaarden door de eigenaar dat een van de misdrijven, vermeld in punt 1° tot en met 4°, wordt gepleegd of in stand gehouden.<br>
+<br>
+§2. De misdrijven, vermeld in paragraaf 1, die bestuurlijk worden vervolgd, worden gesanctioneerd met een alternatieve bestuurlijke geldboete van 6 euro tot 50.000 euro.<br>
+<br>
+De bestuurlijke geldboete, vermeld in het eerste lid, wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten.
 
 ### ART. 13/2.
 
-Het niet naleven van de kennisgevings- en meldingsplichten, vermeld in   artikel 4, § 3, artikel 5, § 2 en § 3, en artikel 8, § 1 en § 4, van dit   decreet, kan worden bestraft met een exclusieve bestuurlijke geldboete volgens   de bepalingen van hoofdstuk 11, afdeling 2, onderafdeling 3, van het   Onroerenderfgoeddecreet van 12 juli 2013. Die exclusieve bestuurlijke geldboete   kan worden opgelegd aan alle deelnemers aan de inbreuk en bedraagt maximaal   10.000 euro.<BR><BR>Een exclusieve bestuurlijke geldboete wordt vermeerderd met   de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Het   bedrag van de bestuurlijke geldboete wordt afgestemd op de ernst van het   misdrijf en eventuele verkregen vermogensvoordelen.
+Het niet-naleven van de kennisgevings- en meldingsplichten, vermeld in artikel 4, §3, artikel 5, §2 en §3, en artikel 8, §1 en §4, van dit decreet, kan worden gesanctioneerd met een exclusieve bestuurlijke geldboete van 6 euro tot 10.000 euro.<br>
+<br>
+De bestuurlijke geldboete, vermeld in het eerste lid, wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten.
 
 ### ART. 13/3.
 
-§ 1. De bepalingen van hoofdstuk 11, afdeling 3 tot 7, van het   Onroerenderfgoeddecreet van 12 juli 2013 zijn van toepassing op de misdrijven en   inbreuken, vermeld in artikel 13/1 en 13/2 van dit decreet. De personen, bedoeld   in deze afdelingen, nemen op gelijke wijze hun bevoegdheden waar voor de   toepassing van dit decreet, met dien verstande dat de inspecteur Onroerend   Erfgoed en de door de Vlaamse Regering aangewezen ambtenaren, bedoeld in artikel   11.3.3, eerste lid, van het Onroerenderfgoeddecreet van 12 juli 2013, in het   kader van dit decreet optreden namens de Vlaamse Gemeenschap.<BR><BR>In   afwijking van het eerste lid, zijn artikel 11.4.3, § 3, artikel 11.4.4, § 2 en §   3, tweede lid, artikel 11.5.7, § 8 en § 9, artikel 11.5.9, § 2, artikel 11.5.11,   § 2, en artikel 11.6.2, derde lid, van het Onroerenderfgoeddecreet van 12 juli   2013 niet van toepassing, en wordt de territoriale bevoegdheid van de aangewezen   rechtbanken bepaald volgens het Gerechtelijk Wetboek.<BR><BR>§ 2. Voor de   toepassing van dit decreet:<BR>1° kan het feitelijk herstel in een   oorspronkelijke, goede staat, vermeld in artikel 11.4.1 van het   Onroerenderfgoeddecreet van 12 juli 2013, het terugbrengen van voorlopig of   definitief beschermd varend erfgoed binnen de Vlaamse Gemeenschap   omvatten;<BR>2° wordt onder erfgoedwaarden verstaan de historische,   wetenschappelijke, industrieel-archeologische, esthetische of andere   sociaal-culturele waarde, bedoeld in artikel 2, 1°, van dit   decreet.
+Voor de handhaving van dit decreet beschikken de inspecteurs Onroerend Erfgoed, vermeld in artikel 2.1, 29°, van het Onroerenderfgoeddecreet van 12 juli 2013, over de hoedanigheid van officier van gerechtelijke politie – hulpofficier van de procureur des Konings, toezichthouder en herstelinstantie als vermeld in het Kaderdecreet Vlaamse Handhaving van 14 juli 2023. In hun hoedanigheid van toezichthouder beschikken ze over de bevoegdheid, vermeld in artikel 23 van het voormelde decreet.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde duidt de personeelsleden van de Vlaamse overheid aan die optreden als beboetingsinstantie als vermeld in artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
+<br>
+De personeelsleden van het agentschap die voor de datum van inwerkingtre-ding van artikel 90 van het decreet van 26 pril 2024 tot wijziging van diverse decreten, wat betreft de implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, bevoegd waren voor het geven van raadgevingen, verkrijgen van rechtswege de hoedanigheid van toezichthouder, niet zijnde agent van gerechtelijke politie, zolang zij voldoen aan de voorwaarden van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 om in die functie te worden aangesteld en voor de lopende duurtijd van hun aanstelling tot aan de opheffing ervan.
 
 ## [HOOFDSTUK VI COMMISSIE VOOR VAREND ERFGOED (ing. decr. 12 juli 2013, art. 12.1.25)]
 
