@@ -534,6 +534,27 @@ De maatregelen, vermeld in het tweede lid, kunnen alleen maatregelen zijn die zi
 <br>
 De maatregelen, vermeld in het tweede lid, kunnen alleen ambtshalve worden uitgevoerd indien de eigenaar, de huurder, de exploitant of de grondgebruiker van een privaat terrein na schriftelijk verzoek niet zelf in beheer of bestrijding voorziet. Voor de ambtshalve uitvoering moet schriftelijke toestemming door de eigenaar, de huurder, de exploitant of de grondgebruiker zijn bekomen. Ingeval geen toestemming wordt bekomen, kan de eigenaar, de huurder, de exploitant of de grondgebruiker aansprakelijk worden gesteld voor de beheerkosten of herstelkosten die voortkomen uit de populatie van de betreffende soort op zijn terrein.".
 
+### ART 68.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 22 december 2017, wordt een artikel 57ter ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 57ter. § 1. Een bestuurlijke maatregel ingevolge schendingen van dit decreet en de uitvoeringsbesluiten ervan, opgelegd met toepassing van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wordt uitgevoerd door de verwerver van een zakelijk recht op een onroerend goed waarop een dergelijke bestuurlijke maatregel rust, onverminderd de verplichting van de personen ten aanzien van wie de bestuurlijke maatregelen oorspronkelijk zijn opgelegd.<br>
+<br>
+De instrumenterende ambtenaar vermeldt in alle akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed of van een inbreng in een vennootschap, en ook in alle akten van vestiging, overdracht van vruchtgebruik, erfpacht of opstal, en in elke andere akte van een eigendomsoverdracht ten bezwarende titel het bestaan van een bestuurlijke maatregel die de verwerver van het zakelijk recht moet uitvoeren, met een omschrijving van de verplichtingen die overgaan op de verwerver van het zakelijk recht.<br>
+<br>
+Het eerste en tweede lid zijn niet van toepassing op:<br>
+1° huwelijkscontracten en de wijzigingen ervan;<br>
+2° contracten over de mandeligheid;<br>
+3° akten over de fusie van rechtspersonen en de met fusie gelijkgestelde verrichtingen.<br>
+<br>
+§ 2. In het databestand van het agentschap worden de persoonlijke identificatiegegevens opgenomen van eigenaars, in het bijzonder de naam, de voornaam en het rijksregisternummer. Deze gegevens worden verstrekt aan de instrumenterend ambtenaar, met het doeleinde na te gaan of er bestuurlijke maatregelen van toepassing zijn op het over te dragen perceel en ten behoeve van de overdracht van de in artikel 16novies, § 2, vermelde gegevens.<br>
+<br>
+Deze verwerking is noodzakelijk voor de vervulling van een taak van algemeen belang. Het agentschap is verwerkingsverantwoordelijke zoals vermeld in de algemene verordening gegevensbescherming, en voldoet aan de verplichtingen die in dat verband op hen rusten. De verkoper is de betrokkene zoals vermeld in de algemene verordening gegevensbescherming.<br>
+<br>
+Het agentschap gebruikt de in het eerste lid vermelde gegevens om bestuurlijke maatregelen die opgelegd werden ten aanzien van de vorige overdrager en het bestaan van een natuurbeheerplan en de erfdienstbaarheid, vermeld in artikel 16quaterdecies, § 2, tegenstelbaar te maken aan de verwerver.<br>
+<br>
+De gegevens worden in het databestand bijgehouden, gekoppeld aan het perceel zolang dat vereist is volgens de verplichtingen volgend uit het natuurbeheerplan, de erfdienstbaarheid, vermeld in artikel 16quaterdecies, § 2, en het naleven van de bestuurlijke maatregelen.".
+
 ## HOOFDSTUK 15. Wijzigingen van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018
 
 ### ART 69
