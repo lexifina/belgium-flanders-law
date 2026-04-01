@@ -2801,13 +2801,13 @@ Wanneer milieuschade gevolgen heeft of dreigt te hebben voor één of meer gewes
 
 De bevoegde instantie brengt tweejaarlijks, vanaf de datum van inwerkingtreding van deze titel, rapport uit aan de Vlaamse Regering over de toepassing van deze titel.<br />Dit rapport omvat minstens de volgende informatie :<br />1° de genomen maatregelen ter bevordering van het gebruik van instrumenten van financiële zekerheid en de resultaten ervan;<br />2° de gevallen van milieuschade, het type van milieuschade, de data waarop de milieuschade is ontstaan of aan het licht is gekomen;<br />3° de resultaten van de herstelprocessen;<br />4° de uitkomsten van de beroepsprocedures;<br />5° de raming van de extra administratieve kosten die jaarlijks door de overheid moeten worden gedragen;<br />6° de evaluatie van de verweermiddelen vermeld in artikelen 15.5.1 tot en met 15.5.6, in het bijzonder wat betreft de toepassing van de stand van de wetenschappelijke en technologische kennis; <br />7° de niet-toepassing van de procedure voor de verzoeken om maatregelen op gevallen van onmiddellijke dreiging van milieuschade.<br /><br />De Vlaamse Regering kan nadere regels terzake bepalen.
 
-## [TITEL XVI TOEZICHT, HANDHAVING EN VEILIGHEIDSMAATREGELEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## TITEL XVI MILIEUHANDHAVING
 
-## [HOOFDSTUK I TOEPASSINGSGEBIED EN DEFINITIES (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## HOOFDSTUK I ALGEMENE BEPALINGEN EN DEFINITIES
 
 ### ART. 16.1.1.
 
-De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en decreten, wat betreft de bevoegdheden van het Vlaamse Gewest, met inbegrip van de uitvoeringsbesluiten ervan en de verplichtingen opgelegd krachtens de volgende wetten en decreten en de uitvoeringsbesluiten ervan :<br>
+§1. De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en decreten, wat betreft de bevoegdheden van het Vlaamse Gewest, met inbegrip van de uitvoeringsbesluiten ervan en de verplichtingen opgelegd krachtens de volgende wetten en decreten en de uitvoeringsbesluiten ervan :<br>
 1° alle&nbsp;titels van dit decreet, met uitzondering van titel I - Algemene bepalingen, titel II - Besluitvorming en inspraak, titel X - Agentschappen, titel XI - Strategische Adviesraden en titel VIII - Klimaat;<br>
 2° het Boswetboek van 19 december 1854;<br>
 3° de wet van 1 juli 1954 op de riviervisserij;<br>
@@ -2815,15 +2815,15 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 5° de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
 5° /1 de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
 5°/2 de wet van 24 december 1970 betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties;<br>
-6° de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van hoofdstuk IIIbis en de uitvoeringsbesluiten ervan betreft;<br>
+6° de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
 6°/1 ...;<br>
 7° de wet van 12 juli 1973 op het natuurbehoud;<br>
 8° de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder;<br>
 9° de wet van 10 januari 1977 houdende regeling van de schadeloosstelling voor schade veroorzaakt door het winnen en het pompen van grondwater;<br>
 10° het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
 11° de wet van 28 juli 1981 houdende goedkeuring van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten, en van de Bijlagen, opgemaakt te Washington op 3 maart 1973;<br>
-12° het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van hoofdstuk IVbis en de uitvoeringsbesluiten ervan betreft;<br>
-13° het decreet van 28 juni 1985 betreffende de milieuvergunning;<br>
+12° het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
+13° ...;<br>
 13°bis de wet van 12 juli 1985 betreffende de bescherming van de mens en van het leefmilieu tegen de schadelijke effecten en de hinder van niet-ioniserende stralingen, infrasonen en ultrasonen;<br>
 14° het Bosdecreet van 13 juni 1990;<br>
 15° het Jachtdecreet van 24 juli 1991;<br>
@@ -2840,129 +2840,74 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 23° het decreet van 21 december 2018 houdende de luchtkwaliteit in het binnenmilieu van voertuigen;<br>
 24° het decreet van 26 januari 2024 over de programmatische aanpak stikstof.<br>
 <br>
-In afwijking van het eerste lid zijn de hoofdstukken III, IV, V, Vbis, VI en VII van deze titel pas van toepassing op de in het eerste lid sub 2°, 3°, 4°, 7°, 11°, 14°, 15°, 16°, 17° en 19° vermelde wetten en decreten, met inbegrip van hun respectieve uitvoeringsbesluiten, op het ogenblik dat de Vlaamse Regering dit bepaalt.<br>
+Hoofdstuk IV, afdeling III en V, van deze titel is van toepassing op hoofdstuk VI van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
 <br>
-Hoofdstuk II en hoofdstuk IV, afdeling III en V, van deze titel zijn van toepassing op titel VI van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+De bepalingen van deze titel zijn ook van toepassing op de milieuregelgeving van de Europese Unie en de internationale milieuregelgeving, die de Vlaamse Regering bepaalt, alsook op de door of krachtens de voormelde regelgeving uitgevaardigde bepalingen en opgelegde verplichtingen, wat betreft de bevoegdheden van het Vlaamse Gewest.<br>
 <br>
-De bepalingen van deze titel zijn ook van toepassing op de milieuregelgeving van de Europese Unie en de internationale milieuregelgeving, die de Vlaamse Regering bepaalt, alsook op de door of krachtens de voormelde regelgeving uitgevaardigde bepalingen en opgelegde verplichtingen, wat betreft de bevoegdheden van het Vlaamse Gewest.
+§2. Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 2, 3, 4, 6, 7, 9, 10, 11, 12 en 13, van toepassing op deze titel en de regelgeving, vermeld in paragraaf 1.
 
 ### ART. 16.1.2.
 
 Tenzij het uitdrukkelijk anders bepaald is, wordt, voor de toepassing van deze titel, verstaan onder :<br>
-1° milieu-inbreuk : een gedraging, in strijd met een milieu-voorschrift dat wordt gehandhaafd met toepassing van deze titel. Die gedraging :<br>
-a)...;<br>
-b) betreft geen emissies als vermeld in artikel 16.6.2;<br>
-c) betreft niet het achterlaten, beheren of overbrengen van afvalstoffen als vermeld in artikel 16.6.3;<br>
-d) veroorzaakt geen gezondheidsschade of dood;<br>
-e) betreft geen gedraging waarop een straf is gesteld overeenkomstig de bepalingen van deze titel;<br>
-f) moet opgenomen zijn in een lijst, te bepalen door de Vlaamse Regering.<br>
-Onverminderd de bepalingen van het eerste lid kunnen evenwel gedragingen die een schending inhouden van :<br>
-a) de verplichting om te beschikken over een milieuvergunning, een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit, of een erkenning;<br>
-b) de verplichting om een veiligheidsrapport of een milieueffectrapport op te maken;<br>
-niet beschouwd worden als een milieu-inbreuk;<br>
-2° milieumisdrijf : een gedraging, in strijd met een milieu-voorschrift dat wordt gehandhaafd met toepassing van deze titel, waarop een straf is gesteld overeenkomstig de bepalingen van deze titel;<br>
-3° kennisgeving: een schriftelijke mededeling die wordt gedaan met een beveiligde zending;<br>
-3° bis beveiligde zending: een van de volgende betekeningswijzen:<br>
-a) een aangetekende brief;<br>
-b) een afgifte tegen ontvangstbewijs;<br>
-c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-4° gewestelijke entiteit: de personeelsleden van het Departement Omgeving die de Vlaamse Regering of haar gemachtigde aanwijst om overeenkomstig artikel 16.4.25 een bestuurlijke geldboete op te leggen;<br>
-5° gemachtigde ambtenaar : de door de Vlaamse Regering aangewezen ambtenaar of ambtenaren;<br>
-6° referentiemeetmethode : geschreven en publiek toegankelijke werkwijze die voor een bepaalde meting dient te worden toegepast. Worden in elk geval beschouwd als referentiemeetmethode en worden in geval van onderlinge tegenstrijdigheden toegepast in de hierna voorziene volgorde :<br>
-a) de toepasselijke bepalingen in de Belgische wetten, decreten en besluiten;<br>
-b) de Belgische normen uitgegeven door het Bureau voor Normalisatie (NBN);<br>
-c) de normen uitgegeven door het Comité Européen de Normalisation (CEN);<br>
-d) de normen uitgegeven door de Vlaamse instelling voor Technologisch Onderzoek (VITO);<br>
-e) de normen uitgegeven door de International Organization for Standardization (ISO);<br>
+1° ...;<br>
+2° ...;<br>
+3° ...;<br>
+3° bis ...;<br>
+4° ...;<br>
+5° ...;<br>
+6° ...;<br>
 7° milieuvoorschrift: alle bepalingen die een verplichting inhouden, ongeacht of het gaat om een algemeen of individueel geldende regeling, op voorwaarde dat de bepaling onder het toepassingsgebied, vermeld in artikel 16.1.1, valt.
 
 ### ART. 16.1.3.
 
-§ 1. Bij de berekening van termijnen is de dies a quo, de dag waarop het feit plaatsvindt dat het uitgangspunt is voor de berekening van de termijn, niet inbegrepen in de termijn. De dies ad quem, de vervaldag van de termijn, is altijd inbegrepen in de termijn.<br>
+§1. De volgende personen zijn een herstelinstantie als vermeld in artikel 2, 15°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de personeelsleden van de departementen en de agentschappen, vermeld in artikel I.3, 2°, a) tot en met d), van het Bestuursdecreet van 7 december 2018, die de Vlaamse Regering of haar gemachtigde daarvoor aanwijst;<br>
+2°&nbsp;&nbsp; &nbsp;de gemeentelijke personeelsleden die het college van burgemeester en schepenen daarvoor aanwijst, zelfs al zijn ze personeelslid van een andere gemeente;<br>
+3°&nbsp;&nbsp; &nbsp;de personeelsleden van een intergemeentelijk samenwerkingsverband die het intergemeentelijk samenwerkingsverband daarvoor aanwijst;<br>
+4°&nbsp;&nbsp; &nbsp;de burgemeester of zijn plaatsvervanger.<br>
 <br>
-Als de vervaldag een zaterdag, zondag of feestdag is, verschuift de vervaldag naar de eerstvolgende werkdag.<br>
+De Vlaamse Regering kan opleidings- en ervaringsvereisten en andere voor-waarden bepalen waaraan categorieën van herstelinstanties moeten voldoen, en hun bevoegdheden inhoudelijk, geografisch of temporeel beperken.<br>
 <br>
-De termijnen worden berekend in kalenderdagen.<br>
+§2. De Vlaamse Regering of haar gemachtigde duidt de personeelsleden van de Vlaamse overheid aan die optreden als beboetingsinstantie als vermeld in artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
 <br>
-§ 2. Als een schriftelijke mededeling het startpunt is voor een termijn en gedaan is door middel van een aangetekende brief&nbsp;zonder ontvangstbewijs, begint de termijn te lopen de derde werkdag na de dag waarop de verzending heeft plaatsgevonden.<br>
+§3. De personeelsleden die de Vlaamse Regering of haar gemachtigde aanwijst, zijn bevoegd voor de handhaving van de milieuvoorschriften, vermeld in artikel 16.1.1, §1, eerste lid, 5°/2 en 20°.<br>
 <br>
-Als een schriftelijke mededeling het startpunt is voor een termijn en gedaan is met een aangetekende brief met ontvangstbewijs, begint de termijn te lopen vanaf de eerste dag die volgt op deze waarop de brief werd aangeboden op de woonplaats van de geadresseerde of, in voorkomend geval, op zijn verblijfplaats of gekozen woonplaats.<br>
+Het eerste lid wordt opgeheven op de datum die de Vlaamse Regering vast-stelt.<br>
 <br>
-Als een schriftelijke mededeling het startpunt is voor een termijn en gedaan is door afgifte tegen ontvangstbewijs, begint de termijn te lopen de dag na de dag van de afgifte.<br>
-<br>
-§ 3. Als een schriftelijke mededeling de handeling is die gedaan moet worden binnen een bepaalde termijn, geldt die termijn voor de verzending of afgifte.<br>
-<br>
-§ 4. Als voor de schriftelijke mededeling geen bijzondere vormvereisten zijn gesteld, dan is verzending met een niet-aangetekende brief toegelaten. In dat geval berust bij eventuele betwisting over de datum van de verzending de bewijslast bij de verzender.<br>
-<br>
-§ 5. De datum van de poststempel geldt als datum van verzending.<br>
-<br>
-§ 6. De Vlaamse Regering kan van dit artikel afwijken door een uitdrukkelijk andersluidende bepaling.
+§4. In afwijking van artikel 16.6.6, §1, wordt het niet voldoen aan de milieuvoor-schriften, vermeld in artikel 16.1.1, §1, eerste lid, 5°/2 en 20°, gelijkgesteld met een inbreuk.<br>
+De Vlaamse Regering wordt ertoe gemachtigd om de buitenwerkingtreding van het eerste lid te regelen.
 
-## [HOOFDSTUK II OMGEVINGSHANDHAVINGSBELEID (verv. decr. 26 februari 2021, art. 2, I: 1 april 2021)]
+### ART 16.1.4.
+
+Naast de doeleinden, vermeld in artikel 63, §1, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, kunnen beveiligingsmaatregelen ook worden opgelegd voor het beheersen van een aanzienlijk risico voor mens of milieu, ongeacht of er een misdrijf, inbreuk of een normschending bestaat of dreigt voor te komen.<br>
+<br>
+Toezichthouders die gemachtigd zijn om wapens te dragen bij de uitvoering van hun ambtsverrichtingen, beschikken over de bevoegdheden, vermeld in artikel 28 en 37bis van de wet op het politieambt van 5 augustus 1992, als het veiligstellen van hun fysieke integriteit of de uitvoering van hun opdrachten als officier van gerechtelijke politie dat vereist.
+
+### ART 16.1.5.
+
+De opbrengsten die worden verkregen met de toepassing van deze titel, en die conform artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 worden toebedeeld aan de Vlaamse overheid, komen toe aan het Minafonds.&nbsp;<br>
+<br>
+In afwijking van het eerste lid komen de bedragen die worden ingevorderd tot terugbetaling van de kosten die gemaakt zijn voor de uitvoering van maatregelen door de toezichthouders en herstelinstanties van de OVAM in het kader van het toezicht op de toepassing van het Bodemdecreet van 27 oktober 2006 en op de toepassing van artikel 12 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, toe aan de OVAM.
+
+## HOOFDSTUK II ...
 
 ## [AFDELING I ... (opgeh. decr. 26 februari 2021, art. 3, I: 1 april 2021)]
 
 ### ART. 16.2.1.
 
-<p>§ 1. Met inachtneming van de prerogatieven van de bevoegde overheden is de Vlaamse Regering belast met de coördinatie en de inhoudelijke invulling van het handhavingsbeleid inzake milieu, ruimtelijke ordening en de integratie ervan in omgeving, omgevingshandhavingsbeleid genaamd.<br>
-<br>
-§ 2. Om de milieuwetgeving, de Vlaamse Codex Ruimtelijke Ordening en het decreet van 25 april 2014 betreffende de omgevingsvergunning doelmatig te handhaven, overlegt de Vlaamse Regering met de overheden die daarvoor bevoegd zijn.<br>
-<br>
-De afspraken die gemaakt worden op basis van het overleg, vermeld in het eerste lid, worden in protocollen vastgelegd.<br>
-<br>
-De Vlaamse Regering kan de procedure bepalen om protocollen als vermeld in het tweede lid, vast te leggen.</p>
+<p>...</p>
 
 ### ART. 16.2.2.
 
-<p>§ 1. De Vlaamse Regering maakt een vijfjaarlijks omgevingshandhavingsprogramma op dat de overkoepelende strategische en operationele beleidsdoelstellingen en beleidsprioriteiten voor een gewestelijk geïntegreerd en afgestemd omgevingshandhavingsbeleid bevat en dat de vijfjaarlijkse individuele handhavingsprioriteiten van de handhavingsinstanties bundelt. De overkoepelende beleidsdoelstellingen omvatten de gewestelijke beleidsvisie en de gewestelijke beleidslijnen voor omgevingshandhaving. Dit schept rechten noch plichten voor de rechtsonderhorigen.<br>
-<br>
-Aanbevelingen over de handhaving op gemeentelijk en provinciaal niveau en over de samenwerking met en tussen al de betrokken beleidsniveaus kunnen toegevoegd worden aan het omgevingshandhavingsprogramma, vermeld in het eerste lid.<br>
-<br>
-Het omgevingshandhavingsprogramma wordt opgemaakt in overeenstemming met het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur.<br>
-<br>
-De Vlaamse Regering kan de beleidsprioriteiten, vermeld in het eerste lid, verfijnen of aanvullen.<br>
-<br>
-§ 2. De overheden die deel uitmaken van het Vlaamse Gewest en die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning bezorgen op eenvoudig verzoek hun vijfjaarlijkse individuele handhavingsprioriteiten.<br>
-<br>
-De Vlaamse Regering nodigt de overheden die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning en waarvoor het Vlaamse Gewest niet bevoegd is, uit om hun vijfjaarlijkse individuele handhavingsprioriteiten te bezorgen.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de procedure om de individuele handhavingsprioriteiten te bezorgen.<br>
-<br>
-§ 3. De Vlaamse Regering kan voor het omgevingshandhavingsprogramma nadere regels vaststellen voor de inhoud, de opmaak, de inwerkingtreding, de verspreiding en de actualisering ervan.<br>
-<br>
-Voor de actualisering van de beleidsprioriteiten, vermeld in paragraaf 1, derde lid, kan de Vlaamse Regering nadere regels vaststellen voor de inwerkintreding en verspreiding ervan.<br>
-<br>
-§ 4. Het definitieve omgevingshandhavingsprogramma wordt vastgesteld op grond van:<br>
-1° een ontwerp van omgevingshandhavingsprogramma;<br>
-2° de adviezen van de volgende instanties over het ontwerp, vermeld in punt 1° :<br>
-a) de bevoegde strategische adviesraden over milieu, ruimtelijke ordening en omgeving;<br>
-b) de Sociaal-Economische Raad van Vlaanderen;<br>
-c) de Vereniging van Vlaamse Steden en Gemeenten;<br>
-d) de Vereniging van Vlaamse Streekontwikkelingsintercommunales.<br>
-<br>
-§ 5. Het Milieuhandhavingsprogramma 2015-2019 van 22 april 2016 blijft van kracht tot en met de dag vóór de datum van de inwerkingtreding van het vijfjaarlijkse omgevingshandhavingsprogramma.</p>
+<p>...</p>
 
 ### ART. 16.2.3.
 
-<p>§ 1. De Vlaamse Regering rapporteert periodiek in het tweede en het vijfde jaar van de regeerperiode over het omgevingshandhavingsbeleid en de omgevingshandhavingsuitvoering.<br>
-<br>
-De rapportering omvat een beschrijving, analyse en evaluatie van de bestaande toestand van de omgevingshandhavingsuitvoering en van het gevoerde omgevingshandhavingsbeleid zoals opgenomen in de vastgestelde beleidsdoelstellingen en van de individuele handhavingsprioriteiten in het omgevingshandhavingsprogramma, vermeld in artikel 16.2.2.<br>
-<br>
-§ 2. Jaarlijks stellen alle overheden die deel uitmaken van het Vlaamse Gewest en die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning, alle cijfermatige informatie ter beschikking waarover ze beschikken en die van nut kan zijn voor de periodieke rapportering, vermeld in paragraaf 1. Ze doen dat op eenvoudig verzoek of uit eigen beweging.<br>
-<br>
-Jaarlijks nodigt de Vlaamse Regering de overheden die belast zijn met de handhaving van het milieurecht, de Vlaamse Codex Ruimtelijke Ordening of het decreet van 25 april 2014 betreffende de omgevingsvergunning, waarvoor het Vlaamse Gewest niet bevoegd is, uit om de cijfermatige informatie waarover ze beschikken en die van nut kan zijn voor de periodieke rapportering, vrijwillig ter beschikking te stellen.<br>
-<br>
-Met het oog op de periodieke rapportering, vermeld in paragraaf 1, kan bijkomend aan de cijfermatige informatie, vermeld in het eerste en tweede lid, een bijbehorende toelichting gevraagd worden aan deze overheden.<br>
-<br>
-De Vlaamse Regering kan nadere regels vaststellen voor de procedure om de cijfermatige informatie en de bijbehorende toelichting te bezorgen.<br>
-<br>
-§ 3. De rapportering, vermeld in paragraaf 1, wordt meegedeeld aan het Vlaams Parlement.<br>
-<br>
-§ 4. De Vlaamse Regering kan nadere regels vaststellen voor de inhoud, de opmaak en de verspreiding van de rapportering, vermeld in paragraaf 1, en ook voor de jaarlijkse publicatie van de cijfermatige informatie.</p>
+<p>...</p>
 
 ### ART. 16.2.4.
 
-De Vlaamse Regering organiseert een netwerk- en kennisplatform voor de handhavingspartners die betrokken zijn bij de handhaving van de milieuwetgeving, de Vlaamse Codex Ruimtelijke Ordening en het decreet van 25 april 2014 betreffende de omgevingsvergunning. Op dat forum wisselen ze informatie uit over hun taken en opdrachten en wordt de onderlinge kennisdeling gefaciliteerd om de stroomlijning van de handhaving te stimuleren.
+...
 
 ### ART. 16.2.5.
 
@@ -2994,464 +2939,281 @@ De Vlaamse Regering organiseert een netwerk- en kennisplatform voor de handhavin
 
 ...
 
-## [HOOFDSTUK III TOEZICHT (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## HOOFDSTUK III ...
 
-## [AFDELING I TOEZICHTHOUDERS (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING I ...
 
-## [Onderafdeling I Algemene bepalingen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling I ...
 
 ### ART. 16.3.1.
 
-§ 1. De volgende personen kunnen toezichthouders zijn :<br>
-1° de personeelsleden van het departement en de agentschappen die behoren tot een van de beleidsdomeinen, vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, die worden aangewezen door de Vlaamse Regering, hierna gewestelijke toezichthouders te noemen;<br>
-2° de personeelsleden van de provincie die worden aangewezen door de deputatie, hierna provinciale toezichthouders te noemen;<br>
-3° de personeelsleden van de gemeente die worden aangewezen door het college van burgemeester en schepenen, hierna gemeentelijke toezichthouders te noemen;<br>
-4° de personeelsleden van een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid die worden aangewezen door het bevoegde orgaan, hierna intergemeentelijke toezichthouders te noemen;<br>
-5° de personeelsleden van een politiezone die worden aangewezen door het bevoegde orgaan, hierna toezichthouders van politiezones te noemen.<br>
-<br>
-§ 2. Contractuele personeelsleden kunnen enkel toezichthouder zijn mits zij hiertoe speciaal zijn beëdigd. De Vlaamse Regering kan de voorwaarden van de eedaflegging bepalen.
+...
 
 ### ART. 16.3.2.
 
-Als toezichthouders kunnen enkel personen worden aangesteld die over de vereiste kwalificaties en eigenschappen beschikken om de toezichtopdracht naar behoren te vervullen.<br /><br />De Vlaamse Regering kan nadere voorwaarden, die onder meer betrekking kunnen hebben op de scholingsvereisten, bepalen waaraan de toezichthouders moeten voldoen. <br /><br />Indien nodig kan de Vlaamse Regering eveneens overgangsmaatregelen bepalen met betrekking tot die voorwaarden voor degenen die de taak van toezichthouder al uitoefenden voor die voorwaarden van kracht werden.
+...
 
 ### ART. 16.3.3.
 
-De toezichthouders oefenen het toezicht onafhankelijk en neutraal uit.<br /><br />Zij moeten hun taak naar behoren kunnen vervullen en krijgen daartoe de nodige middelen ter beschikking.<br /><br />Zij mogen geen nadeel ondervinden van de taak die zij als toezichthouder vervullen.<br /><br />De Vlaamse Regering kan hiervoor de nadere regels bepalen.
+...
 
 ### ART. 16.3.4.
 
-Binnen de perken van de begrotingskredieten kan de Vlaamse Regering de aanstelling van de toezichthouders, vermeld in artikel 16.3.1, § 1, 2°, 3°, 4° en 5°, subsidiëren, alsook ondersteuning geven voor de opleiding en permanente vorming van die toezichthouders. De Vlaamse Regering kan hiertoe de nadere regels bepalen.
+...
 
 ### ART. 16.3.4bis.
 
-De deputaties, de colleges van burgemeester en schepenen en de bevoegde organen, vermeld in artikel 16.3.1, § 1, 4° en 5°, zijn in de volgende gevallen, gehouden tot een meldingsplicht over de aanstelling van toezichthouders als vermeld in artikel 16.3.1, § 1, 2°, 3°, 4° en 5° :<br>
-1° de toezichthouder neemt zijn functie minstens zes maanden niet waar;<br>
-2° de toezichthouder legt zijn functie definitief neer.<br>
-<br>
-De Vlaamse Regering kan de nadere regels bepalen voor de wijze waarop en de instantie waarbij de melding gedaan moet worden.<br>
-<br>
-Het subsidiëren van de aanstelling van toezichthouders overeenkomstig artikel 16.3.4 kan afhankelijk worden gesteld van het voldoen aan deze meldingsplicht.
+...
 
-## [Onderafdeling II Gemeentelijke toezichthouders, intergemeentelijke toezichthouders en toezichthouders van politiezones (verv. decr. 8 juni 2007, art. 7, I: 12 juli 2018)]
+## Onderafdeling II ...
 
 ### ART. 16.3.5.
 
-De gemeentelijke toezichthouders kunnen toezicht uitoefenen in de eigen gemeente, in een aangrenzende gemeente of in de andere gemeenten van het intergemeentelijk samenwerkingsverband of de politiezone waarvan de eigen gemeente deel uitmaakt, mits zij hiervoor toestemming hebben gekregen van die andere gemeenten.<br>
-<br>
-De intergemeentelijke toezichthouders kunnen alleen toezicht uitoefenen in de gemeenten die behoren tot het intergemeentelijk samenwerkingsverband waardoor ze zijn aangesteld.<br>
-<br>
-De toezichthouders van de politiezones kunnen enkel toezicht uitoefenen in de gemeenten die behoren tot de politiezone.<br>
-<br>
-De Vlaamse Regering kan hiertoe de nadere regels bepalen.
+...
 
 ### ART. 16.3.6.
 
-De Vlaamse Regering kan het minimumaantal toezichthouders bepalen voor gemeenten, intergemeentelijke&nbsp;samenwerkingsverbanden of politiezones. Ze kan zich hiervoor baseren op het aantal inwoners, de bestreken oppervlakte, of het aantal en de soort van hinderlijke inrichtingen, ingedeeld conform de indelingslijst, vermeld in artikel 5.2.1, § 1.
+...
 
 ### ART. 16.3.7.
 
-Bij verhindering van krachtens artikel 16.3.1, § 1, 3°, 4° en 5°, aangewezen toezichthouders kunnen voor een termijn van maximaal één jaar waarnemende toezichthouders worden aangesteld.<br /><br />De Vlaamse Regering kan hiertoe de nadere regels bepalen.
+...
 
-## [Onderafdeling IIbis Provinciale toezichthouders (ing. decr. 22 november 2013, art. 5, I: 31 januari 2014)]
+## Onderafdeling IIbis ...
 
 ### ART. 16.3.7bis.
 
-De provinciale toezichthouders kunnen toezicht uitoefenen in de eigen   provincie, of in een andere provincie, als ze daarvoor toestemming hebben   gekregen van de deputatie van die andere provincie.
+...
 
-## [Onderafdeling III Gewestelijke toezichthouders (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling III ...
 
 ### ART. 16.3.8.
 
-§ 1. Gewestelijke toezichthouders kunnen niet de hoedanigheid hebben van officier van gerechtelijke politie.<br>
-<br>
-§ 2. In afwijking van § 1 kunnen de gewestelijke toezichthouders die toezicht uitoefenen op de milieuvoorschriften, vermeld in artikel 16.1.1, 2°, artikel 16.1.1, 3°, artikel 16.1.1, 4°, artikel 16.1.1, 7°, artikel 16.1.1, 11°, artikel 16.1.1, 14°, artikel 16.1.1, 15°, en artikel 16.1.1, 16°, ook de hoedanigheid hebben van officier van gerechtelijke politie.<br>
-<br>
-De afwijking, vermeld in het eerste lid, geldt ook voor de internationale en Europese milieuvoorschriften waarvan de Vlaamse Regering krachtens artikel 16.1.1 bepaalt dat de bepalingen van titel XVI er ook op van toepassing zijn en die tot de bevoegdheid van de gewestelijke toezichthouders, vermeld in het eerste lid, behoren.<br>
-<br>
-§ 3. In afwijking van paragraaf 1 kunnen toezichthouders die toezicht uitoefenen op het decreet, met inbegrip van de uitvoeringsbesluiten, vermeld in artikel 16.1.1, eerste lid, 19° ter, en op titel V met inbegrip van de uitvoeringsbesluiten en die belast zijn met de uitvoering van de handhaving op het beleidsveld Ruimtelijke Ordening ook de hoedanigheid hebben van officier van gerechtelijke politie.
+...
 
-## [AFDELING II TOEZICHTOPDRACHTEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING II ...
 
 ### ART. 16.3.9.
 
-§ 1. De toezichthouders zien toe op de naleving van de milieuvoorschriften, vermeld in artikel 16.1.1, eerste en vierde lid.<br>
-<br>
-§ 2. De Vlaamse Regering bepaalt voor elke categorie toezichthouders de toezichtopdrachten.<br>
-<br>
-Toezichthouders hebben een legitimatiebewijs bij zich en tonen dat desgevraagd onmiddellijk.<br>
-<br>
-De Vlaamse Regering bepaalt wie het legitimatiebewijs verleent alsook het model en de inhoud ervan.<br>
-<br>
-§ 3. De Vlaamse Regering kan nadere regels bepalen omtrent de wijze waarop de toezichthouders hun toezichtsopdrachten, vermeld in § 2, uitoefenen.<br>
-<br>
-§4. In afwijking van artikel 16.3.1, §1, 1°, en van paragraaf 2, eerste lid, van dit artikel zijn de personeelsleden die de Vlaamse Regering of haar gemachtigde aanwijst, bevoegd voor de handhaving van de milieuvoorschriften die zijn opgenomen in of uitgevaardigd krachtens de regelgeving, vermeld in artikel 16.1.1, eerste lid, 5°/2 en 20°.<br>
-<br>
-§5. In afwijking van artikel 16.1.2, 1°, f), wordt het niet voldoen aan de milieuvoorschriften, vermeld in artikel 16.1.1, eerste lid, 5°/2 en 20°, gelijkge-steld met een milieu-inbreuk.<br>
-<br>
-De Vlaamse Regering wordt ertoe gemachtigd om de buitenwerkingtreding van het eerste lid te regelen.
+...
 
-## [AFDELING III TOEZICHTRECHTEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING III ...
 
-## [Onderafdeling I Algemene bepalingen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling I ...
 
 ### ART. 16.3.10.
 
-Bij de uitvoering van hun toezichtopdrachten beschikken toezichthouders over de volgende toezichtrechten :<br />1° het recht op toegang, vermeld in artikel 16.3.12;<br />2° het recht op inzage en kopie van zakelijke gegevens, vermeld in artikel 16.3.13;<br />3° het recht van onderzoek van zaken, inclusief het monsternemings-, metings-, beproevings- en analyserecht, vermeld in artikel 16.3.14;<br />4° het recht van onderzoek van transportmiddelen, vermeld in artikel 16.3.17;<br />5° het recht op ondersteuning, vermeld in artikel 16.3.18;<br />6° het recht op het doen van vaststellingen door middel van audiovisuele middelen, vermeld in artikel 16.3.19;<br />7° het recht op bijstand van de politie, vermeld in artikel 16.3.21.<br /><br />De Vlaamse Regering bepaalt de toezichtrechten die elke categorie toezichthouders kan uitoefenen.
+...
 
 ### ART. 16.3.11.
 
-Toezichthouders maken van hun toezichtrechten alleen gebruik voor zover dat redelijkerwijs nuttig wordt geacht voor de vervulling van hun toezichtopdrachten.
+...
 
 ### ART 16.3.11bis.
 
-&nbsp;Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan de bevoegde entiteit waartoe de toezichthouders, vermeld in artikel 16.3.1, § 1, van dit decreet en de milieuopsporingsambtenaren, vermeld in artikel 16.5.5 van dit decreet, behoren, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het tiende lid.<br>
-<br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de bevoegde entiteit waartoe de toezichthouders, vermeld in artikel 16.3.1, § 1, van dit decreet, en de milieuopsporingsambtenaren, vermeld in artikel 16.5.5 van dit decreet, behoren, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
-<br>
-De persoonsgegevens, vermeld in het eerste lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
-<br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.<br>
-<br>
-Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de bevoegde entiteit waartoe de toezichthouders, vermeld in artikel 16.3.1, § 1, van dit decreet, en de milieuopsporingsambtenaren, vermeld in artikel 16.5.5 van dit decreet, behoren, zou ondermijnen, met behoud van de toepassing van het achtste lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse toezichtcommissie.<br>
-<br>
-Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
-<br>
-Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
+...
 
-## [Onderafdeling II Recht op toegang (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling II ...
 
 ### ART. 16.3.12.
 
-Toezichthouders mogen altijd, zonder voorafgaande verwittiging, elke plaats vrij betreden en het benodigde materiaal meenemen. Zij moeten hierbij de interne en externe veiligheidsprocedures respecteren.<br /><br />Tot de bewoonde lokalen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br />1° ze hebben de voorafgaande en schriftelijke toestemming gekregen van de bewoner;<br />2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de rechter in de politierechtbank. In dat geval hebben de toezichthouders alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.
+...
 
-## [Onderafdeling III Recht op inzage en kopie van zakelijke gegevens (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling III ...
 
 ### ART. 16.3.13.
 
-Met het oog op de uitoefening van de toezichtrechten, zoals bedoeld in artikel 16.3.10, 1° tot en met 5°, mogen toezichthouders inzage vorderen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Hiertoe mogen zij zich die informatiedragers laten voorleggen op de plaats die zij aanwijzen.<br /><br />Zij mogen zich van alle zakelijke documenten en andere zakelijke informatiedragers kosteloos een kopie laten verstrekken of er zelf een kopie van maken. Als kopiëren niet mogelijk is, mogen zij die informatiedragers tegen een door hen af te geven schriftelijk bewijs bij zich houden of meenemen tijdens de periode die vereist is om hun opdracht te volbrengen.
+...
 
-## [Onderafdeling IV Recht van onderzoek van zaken (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling IV ...
 
 ### ART. 16.3.14.
 
-§ 1. Toezichthouders mogen zaken onderzoeken of laten onderzoeken. Zij   mogen ze onder meer beproeven of laten beproeven, er monsters van nemen of laten   nemen, ze meten of laten meten en ze analyseren of laten analyseren. Zij mogen   daartoe verpakkingen openen of laten openen.<BR><BR>Als het onderzoek niet ter   plaatse uitgevoerd kan worden, mogen zij de zaken tegen een door hen af te geven   schriftelijk bewijs meenemen tijdens de periode die vereist is om het onderzoek   uit te voeren.<BR><BR>§ 2. Toezichthouders mogen de technische middelen en   personeel om de monsterneming, meting of beproeving uit te voeren kosteloos   opvorderen van de houder van de te onderzoeken zaken.<BR><BR>§ 3.   Toezichthouders mogen gedurende de tijd die noodzakelijk is voor het onderzoek,   het vervoer, het gebruik en de verwerking van zaken verbieden zonder dat hen   hiervoor kosten worden aangerekend.
+...
 
 ### ART. 16.3.15.
 
-De monsternemingen, metingen of beproevingen worden uitgevoerd door toezichthouders of door daartoe erkende laboratoria of milieudeskundigen.<br /><br />De analyses worden uitgevoerd door toezichthouders of door daartoe erkende laboratoria.<br /><br />Als er voor een specifieke monsterneming, meting, beproeving of analyse geen erkenning bestaat, wordt die monsterneming, meting, beproeving of analyse uitgevoerd door de toezichthouders of door de geaccrediteerde laboratoria of volgens een referentiemeetmethode of, bij gebrek daaraan, volgens een methode die de door de Vlaamse Regering hiertoe aangeduide instantie aanvaardt.
+...
 
 ### ART. 16.3.16.
 
-De Vlaamse Regering kan nadere regels vaststellen voor het uitvoeren van monsternemingen, metingen, beproevingen en analyses.<br /><br />De Vlaamse Regering kan de regels bepalen voor de erkenning van laboratoria en milieudeskundigen. Ze kan tevens de voorwaarden bepalen waaraan bij gebruik van de erkenning moet worden voldaan.
+...
 
-## [Onderafdeling V Recht van onderzoek van transportmiddelen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling V ...
 
 ### ART. 16.3.17.
 
-Toezichthouders mogen transportmiddelen en de lading ervan onderzoeken of laten onderzoeken, en inzage vorderen van de wettelijk voorgeschreven documenten.<br /><br />Zij mogen bevelen geven aan de bestuurders of begeleiders. Zo mogen ze onder meer bevelen dat de bestuurders of begeleiders hun transportmiddel kosteloos stilzetten en dat ze het kosteloos naar een door hen aangewezen plaats brengen.
+...
 
-## [Onderafdeling VI Recht op ondersteuning (ing. decr. 21 december 2007, art. 9), I: 1 mei 2009]
+## Onderafdeling VI ...
 
 ### ART. 16.3.18.
 
-Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun   deskundigheid.<BR><BR>Gemeentelijke toezichthouders mogen zich laten   ondersteunen door gewestelijke toezichthouders. De Vlaamse Regering kan daarvoor   de nadere regels bepalen.
+...
 
-## [Onderafdeling VII Recht op het doen van vaststellingen door middel van audiovisuele middelen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling VII ...
 
 ### ART. 16.3.19.
 
-Zonder afbreuk te doen aan de regelgeving over de bescherming van de persoonlijke levenssfeer, waaronder artikel 8 EVRM, en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, kunnen de toezichthouders vaststellingen doen met audiovisuele middelen.
+...
 
-## [Onderafdeling VIII Recht op bijstand (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling VIII ...
 
 ### ART. 16.3.20.
 
-Iedereen moet aan toezichthouders binnen de door hen gestelde termijn alle medewerking verlenen die zij redelijkerwijs kunnen vragen bij de uitoefening van hun toezichtrechten.
+...
 
 ### ART. 16.3.21.
 
-Toezichthouders kunnen bij de uitvoering van hun toezichtopdrachten de bijstand van de politie vorderen.<br /><br />Om de uitoefening van het toezichtrecht op inzage en kopie van zakelijke gegevens mogelijk te maken, kunnen toezichthouders met de bijstand van de politie overgaan tot het openen en gebruiken of doen gebruiken van zaken als de hiernavolgende voorwaarden gelijktijdig zijn vervuld :<br />1° het volbrengen van de toezichtopdracht vereist de uitoefening van het toezichtrecht;<br />2° de uitoefening van het toezichtrecht is niet mogelijk op een andere wijze;<br />3° de persoon die het genot heeft van de zaken in kwestie geeft geen toestemming tot opening of gebruik.
+...
 
-## [AFDELING IV VOORKOMING EN VASTSTELLING VAN MILIEU-INBREUKEN EN MILIEUMISDRIJVEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING IV ...
 
-## [Onderafdeling I Raadgevingen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling I ...
 
 ### ART. 16.3.22.
 
-Als toezichthouders vaststellen dat een milieu-inbreuk of een milieumisdrijf dreigt op te treden, kunnen zij alle raadgevingen geven die zij nuttig achten om dat te voorkomen.
+...
 
-## [Onderafdeling II Vaststelling van milieu-inbreuken (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling II ...
 
 ### ART. 16.3.23.
 
-Bij de vaststelling van een milieu-inbreuk kunnen de toezichthouders een verslag van vaststelling opstellen. Ze bezorgen dat onmiddellijk aan de gewestelijke entiteit. Ze bezorgen gelijktijdig een kopie van het verslag van vaststelling aan de vermoedelijke overtreder.<br>
-<br>
-De Vlaamse Regering kan de vorm van het verslag van vaststelling bepalen, alsook welke andere overheden geïnformeerd kunnen worden over de vastgestelde milieu-inbreuken, vermeld in het eerste lid, en de wijze waarop dat moet gebeuren.
+...
 
 ### ART. 16.3.23bis.
 
-De door het college van burgemeester en schepenen aangewezen personeelsleden, vermeld in artikel 6.2.5/1, § 1, eerste lid, 3° en 4°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, die bevoegd zijn om misdrijven als vermeld in titel VI van de voormelde codex op te sporen en vast te stellen in een proces-verbaal, kunnen milieu-inbreuken die een schending uitmaken van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van titel V van dit decreet vaststellen in een verslag van vaststelling.<br>
-<br>
-Een afschrift van het verslag van vaststelling wordt bezorgd aan de gewestelijke overheden, belast met de handhaving van de inbreuken. De Vlaamse Regering kan nader bepalen welke van deze gewestelijke overheden een afschrift ontvangt.
+...
 
-## [Onderafdeling III Vaststelling van milieumisdrijven (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling III ...
 
 ### ART. 16.3.24.
 
-De toezichthouders kunnen de milieumisdrijven vaststellen&nbsp;in een proces-verbaal, dat ze onmiddellijk bezorgen aan de procureur des Konings bij de rechtbank binnen het rechtsgebied waar het milieumisdrijf is gepleegd.<br>
-<br>
-De toezichthouders kunnen een kopie van het proces-verbaal bezorgen aan de relevante gewestelijke overheden, die belast zijn met de handhaving van de milieuvoorschriften, vermeld in artikel 16.1.1, eerste en vierde lid.<br>
-<br>
-De Vlaamse Regering kan de nadere voorwaarden bepalen van het proces-verbaal, alsook welke andere overheden geïnformeerd kunnen worden over de vastgestelde milieumisdrijven en de wijze waarop dat moet gebeuren.<br>
-<br>
-De Vlaamse Regering kan bepalen in welke gevallen de toezichthouders een kopie van het proces-verbaal moeten bezorgen.
+...
 
 ### ART. 16.3.24bis.
 
-De door het college van burgemeester en schepenen aangewezen personeelsleden, vermeld in artikel 6.2.5/1, § 1, eerste lid, 3° en 4°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, die bevoegd zijn om misdrijven als vermeld in titel VI van de voormelde codex op te sporen en vast te stellen in een proces-verbaal, kunnen ook milieumisdrijven die een schending uitmaken van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van titel V van dit decreet vaststellen in een proces-verbaal.<br>
-<br>
-Een afschrift van het proces-verbaal wordt bezorgd aan de gewestelijke overheden, belast met de handhaving van de misdrijven. De Vlaamse Regering kan nader bepalen welke van deze gewestelijke overheden een afschrift ontvangt.
+...
 
 ### ART. 16.3.25.
 
-Het proces-verbaal heeft bewijswaarde tot het tegendeel is bewezen.<br>
-<br>
-Als de vermoedelijke overtreder bekend is, wordt, op straffe van verval van de bewijswaarde tot het tegendeel, aan de vermoedelijke overtreder kennis gegeven van een kopie van het proces-verbaal. Die kennisgeving gebeurt binnen een termijn van veertien dagen, na de datum van afsluiting van het proces-verbaal.<br>
-<br>
-De vaststelling van milieumisdrijven door de personeelsleden, vermeld in artikel 16.3.24bis, geldt niet tot bewijs van het tegendeel.
+...
 
 ### ART. 16.3.26.
 
-Bij de vaststelling van een milieumisdrijf kunnen toezichthouders, met het oog op de bewijsvoering, alle bewarende maatregelen met betrekking tot zaken nemen voor een termijn van hoogstens tweeënzeventig uur. De toezichthouders die aldus een bewarende maatregel hebben genomen, brengen de procureur des Konings bij de rechtbank binnen het rechtsgebied waar het milieumisdrijf is gepleegd, hiervan onmiddellijk op de hoogte.
+...
 
-## [Onderafdeling IIIbis Identificatie (ing. decr. 30 april 2009, art. 9)]
+## Onderafdeling IIIbis ...
 
 ### ART. 16.3.26bis.
 
-Bij de vaststelling van een milieu-inbreuk of een milieumisdrijf kunnen de toezichthouders de identiteit controleren van de vermoedelijke overtreder.<br>
-<br>
-De identiteitsstukken die aan de toezichthouder worden overhandigd, moeten na verificatie van de identiteit onmiddellijk aan de betrokkene worden teruggegeven.<br>
-<br>
-Bij gebrek aan een identiteitskaart wordt aan de vermoedelijke overtreder de mogelijkheid geboden om zijn identiteit op een andere wijze te bewijzen.
+...
 
-## [Onderafdeling IV Aanmaningen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling IV ...
 
 ### ART. 16.3.27.
 
-Als toezichthouders bij de uitoefening van hun toezichtopdracht een milieu-inbreuk of een milieumisdrijf vaststellen, kunnen zij de vermoedelijke overtreder en eventuele andere betrokkenen aanmanen om de nodige maatregelen te nemen om deze milieu-inbreuk of dat milieumisdrijf te beëindigen, de gevolgen ervan geheel of gedeeltelijk ongedaan te maken of een herhaling ervan te voorkomen.
+...
 
 ## [HOOFDSTUK IV BESTUURLIJKE HANDHAVING (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
-## [AFDELING I ALGEMENE BEPALINGEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING I ...
 
 ### ART. 16.4.1.
 
-De toezichthouders behouden hun toezichtrechten in de fase van de bestuurlijke handhaving.
+...
 
 ### ART. 16.4.2.
 
-Bestuurlijke handhaving kan de vorm aannemen van bestuurlijke maatregelen   of van bestuurlijke geldboeten. Samen met een bestuurlijke geldboete kan een   bestuurlijke ontneming van het wederrechtelijk verkregen vermogensvoordeel   worden opgelegd.<BR><BR>Samen met bestuurlijke maatregelen kan een bestuurlijke   dwangsom worden opgelegd voor het geval dat de bestuurlijke maatregelen niet of   niet tijdig worden uitgevoerd.
+...
 
 ### ART. 16.4.3.
 
-Bestuurlijke maatregelen of bestuurlijke geldboeten kunnen alleen worden opgelegd voor feiten die in strijd zijn met wettelijke voorschriften die voorafgaandelijk aan die feiten zijn bepaald en in werking zijn getreden.
+...
 
 ### ART. 16.4.4.
 
-Bij het opleggen van bestuurlijke maatregelen of bestuurlijke geldboeten zorgen de personen, vermeld in artikel 16.4.6, alsook de gewestelijke entiteit, vermeld in artikel 16.4.25, ervoor dat er geen kennelijke wanverhouding bestaat tussen de feiten die aan de bestuurlijke maatregelen of bestuurlijke geldboeten ten grondslag liggen, en de maatregelen of de boeten die op grond van die feiten worden opgelegd.
+...
 
-## [AFDELING II BESTUURLIJKE MAATREGELEN EN BESTUURLIJKE DWANGSOM (verv. decr. 8 juni 2018, art. 14, I: 12 juli 2018)]
+## AFDELING II ...
 
-## [Onderafdeling I Oplegging (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling I ...
 
 ### ART. 16.4.5.
 
-Na de vaststelling van een milieu-inbreuk of milieumisdrijf kunnen   bestuurlijke maatregelen worden opgelegd.<BR><BR>Bestuurlijke maatregelen kunnen   worden opgelegd ten aanzien van degene die een milieu-inbreuk of een   milieumisdrijf heeft gepleegd, alsook diegene die opdracht heeft gegeven om   handelingen te stellen die een milieu-inbreuk of milieumisdrijf   uitmaken.<BR><BR>De Vlaamse Regering kan bepalen in welke omstandigheden   bestuurlijke maatregelen moeten worden opgelegd.
+...
 
 ### ART. 16.4.6.
 
-De personen, bevoegd voor het opleggen van bestuurlijke maatregelen, zijn :<br>
-1° toezichthouders, voor de milieuwetgeving waarop hun toezichtopdracht betrekking heeft;<br>
-2° de gouverneur van een provincie of zijn plaatsvervanger, voor de milieu-inbreuken of milieumisdrijven aangewezen door de Vlaamse Regering;<br>
-3° de burgemeester of zijn plaatsvervanger, voor de milieu-inbreuken of milieumisdrijven aangewezen door de Vlaamse Regering.<br>
-<br>
-Wanneer de burgemeester, de provinciegouverneur of de niet-gewestelijke toezichthouders geen of geen afdoende bestuurlijke maatregelen opleggen, kunnen de bevoegde gewestelijke toezichthouders bestuurlijke maatregelen opleggen.<br>
-<br>
-De personen die volgens dit decreet bevoegd zijn om bestuurlijke maatregelen op te leggen, zijn ook bevoegd om een bestuurlijke dwangsom op te leggen.
+...
 
 ### ART. 16.4.7.
 
-§ 1. De bestuurlijke maatregelen kunnen de vorm aannemen van :<br>
-1° een bevel om maatregelen te nemen om de milieu-inbreuk of het milieumisdrijf te beëindigen, de gevolgen ervan geheel of gedeeltelijk ongedaan te maken of herhaling ervan te voorkomen;<br>
-2° een bevel om activiteiten, werkzaamheden of het gebruik van zaken te beëindigen;<br>
-3° een feitelijke handeling van de personen, vermeld in artikel 16.4.6, op kosten van degene ten aanzien van wie de bestuurlijke maatregelen werden opgelegd, om de milieu-inbreuk of het milieumisdrijf te beëindigen, de gevolgen ervan geheel of gedeeltelijk ongedaan te maken of herhaling ervan te voorkomen;<br>
-4° een combinatie van de maatregelen, vermeld in 1°, 2° en 3°.<br>
-<br>
-§ 2. De bestuurlijke maatregelen kunnen onder meer het volgende inhouden :<br>
-1° de stopzetting of uitvoering van werkzaamheden, handelingen of activiteiten;<br>
-2° het verbod op het gebruik van of de verzegeling van gebouwen, installaties, machines, toestellen, transportmiddelen, containers, terreinen en alles wat zich daarin of daarop bevindt;<br>
-3° de volledige of gedeeltelijke sluiting van een inrichting;<br>
-4° het meenemen van daarvoor vatbare zaken, met inbegrip van afvalstoffen, waarvan het bezit of het gebruik in strijd is met de milieuwetgeving, vermeld in artikel 16.1.1, eerste lid;<br>
-5° het onmiddellijk vernietigen, op kosten van degene ten aanzien van wie de bestuurlijke maatregelen werden opgelegd, van zaken die bederfelijk zijn of waarvan het bezit verboden is. Als het om dieren gaat waarvan het bezit verboden is, kunnen die op kosten van degene ten aanzien van wie de bestuurlijke maatregelen werden opgelegd, al naar gelang het geval, ofwel onmiddellijk worden vrijgelaten, ofwel worden overgebracht naar een erkend opvangcentrum voor vogels en wilde dieren, ofwel worden vernietigd.<br>
-<br>
-Voor de uitvoering van die maatregelen mogen de bevoegde personen, alsmede de personen die ze hebben aangewezen, elke plaats vrij betreden en het benodigde materiaal meenemen. Tot de bewoonde lokalen kunnen ze alleen toegang hebben als ze aan een van de volgende voorwaarden voldoen :<br>
-1° ze hebben de voorafgaande en schriftelijke toestemming gekregen van de bewoner;<br>
-2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de rechter in de politierechtbank. In dat geval hebben ze alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.<br>
-<br>
-De bevoegde personen kunnen bij de uitvoering van de bestuurlijke maatregelen de bijstand van de politie vorderen.<br>
-<br>
-Artikel 92 tot en met 96, artikel 387 en artikel 397, § 2, van het decreet van 25 april 2014 betreffende de omgevingsvergunning blijven onverkort van toepassing.
+...
 
 ### ART 16.4.7bis.
 
-De bestuurlijke dwangsom kan worden opgelegd per tijdseenheid en per schending, alsook per onderscheiden opgelegde maatregel.<br>
-<br>
-Als de bestuurlijke dwangsom wordt opgelegd per tijdseenheid, per schending of per opgelegde maatregel, kan een maximumplafond van het te betalen bedrag vermeld worden.<br>
-<br>
-De Vlaamse Regering bepaalt de gevallen waarin de dwangsom kan worden opgelegd en de modaliteiten ervan.
+...
 
 ### ART. 16.4.8.
 
-In de gevallen, vermeld in artikel 16.4.7, § 1, 1° en 2°, bevatten bestuurlijke maatregelen een einddatum om er uitvoering aan te geven. Bij de bepaling van die uitvoeringstermijn wordt rekening gehouden met de tijd die redelijkerwijs is vereist om er uitvoering aan te geven.<br /><br />Als er geen einddatum is bepaald, moeten de bestuurlijke maatregelen zo snel mogelijk worden uitgevoerd.
+...
 
 ### ART. 16.4.8bis.
 
-§ 1. Bestuurlijke maatregelen kunnen niet meer worden opgelegd na het verstrijken van een termijn van vijf jaar nadat voor de milieu-inbreuk of voor het milieumisdrijf een verslag van vaststelling of een proces-verbaal door een toezichthouder is afgesloten, met behoud van de toepassing van paragraaf 2.<br>
-<br>
-Bestuurlijke maatregelen kunnen niet meer worden opgelegd als er meer dan twintig jaar is verstreken nadat de milieu-inbreuk of het milieumisdrijf is gepleegd.<br>
-<br>
-§ 2. De verjaringstermijnen, vermeld in paragraaf 1, worden geschorst gedurende de uitvoeringstermijn van de bestuurlijke maatregel die voor de schending in kwestie is opgelegd. Als er in het kader van een besluit houdende bestuurlijke maatregelen verschillende maatregelen met verschillende uitvoeringstermijnen zijn opgelegd, wordt de verjaringstermijn geschorst gedurende een termijn die overeenkomt met de langst durende uitvoeringstermijn.<br>
-<br>
-De verjaringstermijnen, vermeld in paragraaf 1, worden geschorst gedurende de termijn waarin de bestuurlijke maatregelen het voorwerp uitmaken van een beroep bij de minister als vermeld in artikel 16.4.17, alsook gedurende de termijn waarin een beslissing van de minister als vermeld in artikel 16.4.17, het voorwerp is van een procedure bij de Raad van State.
+...
 
 ### ART. 16.4.9.
 
-De Vlaamse Regering kan de nadere regels bepalen voor de vorm en de inhoud van de bestuurlijke maatregelen.
+...
 
-## [Onderafdeling II Procedure voor het opleggen van bestuurlijke maatregelen en bestuurlijke dwangsommen (verv. decr. 8 juni 2018, art. 19, I: 12 juli 2018)]
+## Onderafdeling II ...
 
 ### ART. 16.4.10
 
-§ 1. Bestuurlijke maatregelen worden schriftelijk of mondeling opgelegd.<br>
-<br>
-§ 1bis. De bestuurlijke dwangsom wordt altijd schriftelijk opgelegd in het besluit houdende de bestuurlijke maatregelen waarop de dwangsom betrekking heeft.<br>
-<br>
-§ 2. De schriftelijke oplegging gebeurt door de kennisgeving van het besluit houdende de bestuurlijke maatregelen.<br>
-<br>
-§ 3. De Vlaamse Regering kan bepalen dat het besluit houdende de bestuurlijke maatregelen op elektronische wijze wordt bezorgd. Ze bepaalt in dat geval de nadere voorwaarden.<br>
-<br>
-§ 4. Het besluit houdende de bestuurlijke maatregelen bevat minstens :<br>
-1° een vermelding van de milieuvoorschriften die werden geschonden;<br>
-2° een overzicht van de vaststellingen inzake de milieu-inbreuk of het milieumisdrijf;<br>
-3° een omschrijving van de opgelegde bestuurlijke maatregelen en de uitvoeringstermijn ervan;<br>
-4° de vermelding dat tegen het besluit houdende de bestuurlijke maatregelen in beroep kan worden gegaan, alsook een omschrijving van de procedure om in beroep te gaan;<br>
-5° in voorkomend geval de motieven die aan de bestuurlijke dwangsom ten grondslag liggen, alsook de hoogte en de modaliteiten ervan.<br>
-<br>
-§ 4bis. De mondelinge oplegging wordt gedaan aan diegene aan wie de bestuurlijke maatregel wordt opgelegd of aan andere aanwezige betrokken personen. Ook bij de mondelinge oplegging worden diegene aan wie de bestuurlijke maatregel wordt opgelegd of de andere aanwezige betrokken personen zo volledig mogelijk geïnformeerd over de punten, vermeld in paragraaf 4, alsook over de vereiste van de tijdige schriftelijke bevestiging van de maatregel, vermeld in het&nbsp;derde lid.<br>
-<br>
-Als diegene aan wie de bestuurlijke maatregel wordt opgelegd afwezig is, kan een bestuurlijke maatregel tot stopzetting of uitvoering van werkzaamheden, handelingen of activiteiten ter plaatse op een zichtbare plaats worden aangebracht.<br>
-<br>
-Op straffe van verval van de mondeling opgelegde maatregel of van de ter plaatse aangebrachte maatregel in geval van afwezigheid van diegene aan wie de bestuurlijke maatregel is opgelegd, moet de maatregel schriftelijk worden bevestigd binnen vijf werkdagen op de wijze die vermeld is voor de schriftelijke oplegging.<br>
-<br>
-De schriftelijke bevestiging, vermeld in het derde lid, kan gepaard gaan met het opleggen van een dwangsom, die echter niet opgelegd kan worden voor de periode die voorafgaat aan de voormelde schriftelijke bevestiging.<br>
-<br>
-§ 5. De Vlaamse Regering kan bepalen welke overheden op de hoogte moeten worden gebracht van de opgelegde bestuurlijke maatregelen en de wijze waarop dat moet gebeuren.<br>
-<br>
-§ 6. Als de uitvoeringstermijn van een bestuurlijke maatregel is verstreken en die niet of maar gedeeltelijk is uitgevoerd, kan een nieuwe bestuurlijke maatregel, desgevallend gepaard gaande met een dwangsom, worden opgelegd. In dergelijk geval wordt de voorgaande bestuurlijke maatregel opgeheven met inbegrip van de in voorkomend geval eraan gekoppelde dwangsom, met behoud van de toepassing van artikel 16.4.11 tot en met artikel 16.4.15.
+...
 
-## [Onderafdeling III Opheffing (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling III ...
 
 ### ART. 16.4.11.
 
-Wie bestuurlijke maatregelen neemt, is ook bevoegd om ze op te heffen.<br>
-<br>
-De bestuurlijke maatregelen kunnen ofwel ambtshalve opgeheven worden, ofwel op verzoek van degene ten aanzien van wie bestuurlijke maatregelen zijn genomen.<br>
-<br>
-Als een bestuurlijke maatregel wordt opgeheven, wordt automatisch ook de dwangsom opgeheven die eraan verbonden was.
+...
 
 ### ART. 16.4.12.
 
-In bestuurlijke maatregelen als vermeld in artikel 16.4.7, § 1, 1° of 2°, worden de voorwaarden omschreven waaronder ze worden opgeheven in voorkomend geval.
+...
 
 ### ART. 16.4.13.
 
-Als de voorwaarden, vermeld in de bestuurlijke maatregelen, vervuld zijn, kan degene die de bestuurlijke maatregelen heeft genomen, ze gemotiveerd en ambtshalve opheffen.<br>
-<br>
-Uitzonderlijk kan die persoon bestuurlijke maatregelen als vermeld in artikel 16.4.7, § 1, 1° of 2°, gemotiveerd en ambtshalve opheffen als de voorwaarden die in de bestuurlijke maatregelen zijn opgelegd, niet zijn vervuld. De Vlaamse Regering kan de nadere voorwaarden ter zake bepalen.<br>
-<br>
-Gemotiveerde en ambtshalve opheffing van bestuurlijke maatregelen als vermeld in artikel 16.4.7, § 1, 1° of 2°, is eveneens mogelijk als door gewijzigde omstandigheden de oplegging van nieuwe bestuurlijke maatregelen vereist is.
+...
 
 ### ART. 16.4.14.
 
-§ 1. Degene aan wie bestuurlijke maatregelen als vermeld in artikel   16.4.7, § 1, 1° of 2°, zijn opgelegd, kan een gemotiveerd verzoek tot opheffing   van die bestuurlijke maatregelen richten aan degene die de bestuurlijke   maatregelen heeft genomen.<BR><BR>§ 2. De persoon die bestuurlijke maatregelen   heeft genomen beslist binnen een termijn van vijfenveertig dagen na de   verzending of afgifte van het gemotiveerde verzoek.<BR><BR>§ 3. In een besluit   houdende de opheffing van bestuurlijke maatregelen wordt vastgesteld dat de   opgelegde voorwaarden zijn vervuld, of dat uitzonderlijke of gewijzigde   omstandigheden zich voordoen.
+...
 
 ### ART. 16.4.15.
 
-Het besluit houdende de opheffing van bestuurlijke maatregelen wordt aan   degene aan wie de bestuurlijke maatregelen werden opgelegd meegedeeld door   middel van een aangetekende brief binnen een termijn van tien   dagen.
+...
 
-## [Onderafdeling IV Uitvoering (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling IV ...
 
 ### ART. 16.4.16.
 
-De Vlaamse Regering kan de nadere regels bepalen voor de uitvoering van de opgelegde bestuurlijke maatregelen.<br>
-<br>
-Als binnen de uitvoeringstermijn geen gevolg wordt gegeven aan de bestuurlijke maatregelen, vermeld in artikel 16.4.7, § 1, 1° of 2°, kunnen de bevoegde personen alle nodige maatregelen ambtshalve uitvoeren of doen uitvoeren, op kosten en risico van degene aan wie de bestuurlijke maatregel is opgelegd. De Vlaamse Regering kan hiervoor de verdere voorwaarden bepalen.<br>
-<br>
-De dwangsom is van rechtswege opeisbaar op de dag nadat de bestuurlijke maatregel moest zijn uitgevoerd.
+...
 
-## [Onderafdeling V Beroep tegen bestuurlijke maatregelen of tegen de bestuurlijke dwangsom (verv. decr. 22 november 2013, art. 22, I: 31 januari 2014)]
+## Onderafdeling V ...
 
 ### ART. 16.4.17.
 
-§ 1. Tegen het besluit houdende bestuurlijke maatregelen, met inbegrip van de eventuele opgelegde bestuurlijke dwangsommen, kan degene ten aanzien van wie de bestuurlijke maatregelen zijn opgelegd, beroep indienen bij de minister.<br>
-<br>
-§ 2. De beroepsindiener kan, als er in het besluit houdende bestuurlijke maatregelen sprake is van de oplegging van verschillende maatregelen, het beroep beperken tot een of enkele van die maatregelen. Daarnaast kan hij ook beroep indienen tegen de bestuurlijke dwangsommen alleen. In dergelijk geval is het voorwerp van het beroep beperkt tot de bestuurlijke maatregelen of dwangsommen waartegen beroep wordt ingediend.<br>
-<br>
-Als een maatregel waaraan een dwangsom is gekoppeld, het voorwerp is van het beroep, behoort de eraan gekoppelde dwangsom automatisch tot het voorwerp van dat beroep.<br>
-<br>
-In de beroepsbeslissing wordt uitdrukkelijk vermeld welke bestuurlijke maatregelen of dwangsommen het voorwerp uitmaken van het ingediende beroep en bijgevolg van de beroepsbeslissing.<br>
-<br>
-§ 3. Op straffe van onontvankelijkheid wordt het beroep binnen een termijn van veertien dagen vanaf de kennisgeving van het besluit houdende de bestuurlijke maatregelen of de bestuurlijke dwangsommen ingediend. Het beroep schorst het besluit houdende de bestuurlijke maatregelen niet.<br>
-<br>
-Binnen een termijn van negentig dagen na de kennisgeving van het beroep wordt erover uitspraak gedaan. De minister kan die termijn eenmalig verlengen met negentig dagen, op voorwaarde dat de beroepsindiener en de persoon die de bestuurlijke maatregelen heeft opgelegd, van deze termijnverlenging in kennis worden gesteld binnen de initiële termijn van negentig dagen.<br>
-<br>
-Bij gebrek aan een tijdige beslissing vervallen de bestuurlijke maatregelen of de bestuurlijke dwangsommen waartegen beroep is ingediend. De eventueel al verbeurde dwangsommen vervallen in dergelijk geval van rechtswege. Degene aan wie de bestuurlijke maatregelen of de bestuurlijke dwangsommen zijn opgelegd, en de persoon die de bestuurlijke maatregelen of de bestuurlijke dwangsommen heeft opgelegd, worden van het verval schriftelijk op de hoogte gebracht.<br>
-<br>
-§ 4. Als de minister het beroep geheel of gedeeltelijk gegrond verklaart, heft de minister de bestuurlijke maatregelen of bestuurlijke dwangsommen op voor het gedeelte waarvoor het beroep gegrond is verklaard, en kan de minister in voorkomend geval nieuwe bestuurlijke maatregelen of dwangsommen opleggen.<br>
-<br>
-Als de minister het beroep tegen een bestuurlijke maatregel waaraan een dwangsom was gekoppeld, geheel of gedeeltelijk gegrond verklaart, vervallen van rechtswege de eraan gekoppelde dwangsommen en de eventueel al verbeurde bedragen voor het gedeelte waarvoor het beroep gegrond is verklaard.<br>
-<br>
-§ 5. Als de minister het beroep ongegrond verklaart, bevestigt de minister de bestuurlijke maatregelen of de bestuurlijke dwangsommen voor het gedeelte waarvoor het beroep ongegrond is verklaard.<br>
-<br>
-§ 6. De Vlaamse Regering stelt de nadere regels van het beroep vast.
+...
 
-## [Onderafdeling VI Verzoek om de oplegging van bestuurlijke maatregelen (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## Onderafdeling VI ...
 
 ### ART. 16.4.18.
 
-§ 1. De volgende personen kunnen, als ze kennis hebben van een milieu-inbreuk of milieumisdrijf, bij de personen, vermeld in artikel 16.4.6, de oplegging van bestuurlijke maatregelen verzoeken :<br>
-1° natuurlijke personen en rechtspersonen die rechtstreeks nadeel lijden als gevolg van de milieu-inbreuk of het milieumisdrijf;<br>
-2° natuurlijke personen en rechtspersonen die een belang hebben bij de beteugeling van de milieu-inbreuk of het milieumisdrijf;<br>
-3° rechtspersonen in de zin van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu.<br>
-<br>
-§ 2. Het verzoek om de oplegging van bestuurlijke maatregelen moet voldoende gemotiveerd zijn en aannemelijk maken dat er een milieu-inbreuk of milieumisdrijf is.<br>
-<br>
-Het verzoek vermeldt de verzoeken die eventueel al eerder bij een persoon als vermeld in artikel 16.4.6, zijn ingediend.<br>
-<br>
-§ 3. De personen die om bestuurlijke maatregelen verzoeken, worden zo spoedig mogelijk en in elk geval binnen een termijn van vijfenveertig dagen na de kennisgeving van het verzoek door de personen, vermeld in artikel 16.4.6, op de hoogte gebracht van de beslissing over het al dan niet nemen van bestuurlijke maatregelen en de redenen daarvoor.<br>
-<br>
-§ 4. Tegen de weigering om een bestuurlijke maatregel op te leggen kunnen de personen, vermeld in paragraaf 1, beroep indienen bij de minister. Binnen een termijn van zestig dagen na de&nbsp;kennisgeving van het beroep doet de minister erover uitspraak.<br>
-<br>
-§ 5. De Vlaamse Regering kan de voorwaarden bepalen voor de indiening, de behandeling, de beslissing en het beroep inzake het verzoek om bestuurlijke maatregelen.
+...
 
-## [Onderafdeling VII Rapportering bestuurlijke dwangsom (verv. decr. 8 juni 2018, art. 25, I: 12 juli 2018)]
+## Onderafdeling VII ...
 
 ### ART. 16.4.18bis.
 
@@ -3459,7 +3221,7 @@ Het verzoek vermeldt de verzoeken die eventueel al eerder bij een persoon als ve
 
 ### ART. 16.4.18ter.
 
-De Vlaamse Regering bezorgt binnen drie jaar na de inwerkingtreding van deze bepaling inzake de bestuurlijke dwangsom aan het Vlaams Parlement een verslag over de wijze waarop de bestuurlijke dwangsom is toegepast en doet eventueel voorstellen tot aanpassing van deze bepaling.
+...
 
 ### ART. 16.4.18quater.
 
@@ -3475,16 +3237,9 @@ De Vlaamse Regering bezorgt binnen drie jaar na de inwerkingtreding van deze bep
 <br>
 Het handhavingscollege is een administratief rechtscollege als vermeld in artikel 161 van de Grondwet.<br>
 <br>
-§ 2. Het handhandhavingscollege doet uitspraak over :<br>
-1° de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit over de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete en, in voorkomend geval, een voordeelontneming als vermeld in hoofdstuk IV, afdeling IV;<br>
-2° de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit, vermeld in artikel 6.1.1, 2°, van de Vlaamse Codex Ruimtelijke Ordening, over de oplegging van een exclusieve of een alternatieve bestuurlijke geldboete als vermeld in artikel 6.2.2, 6.2.6 en 6.2.13, § 4, van die codex;<br>
-3° de beroepen die worden ingesteld tegen beslissingen van de inspecteur Onroerend Erfgoed over de oplegging van een exclusieve of een alternatieve bestuurlijke geldboete als vermeld in de artikelen 11.2.5 en 11.2.6 van het Onroerenderfgoeddecreet van 12 juli 2013.;<br>
+§ 2. ...;<br>
 <br>
-§ 3. De behandeling van het beroep door het handhandhavingscollege leidt tot één van de volgende uitspraken :<br>
-1° onbevoegdverklaring van het handhandhavingscollege;<br>
-2° vaststelling van de onontvankelijkheid van het beroep;<br>
-3° ongegrondverklaring van het beroep;<br>
-4° gegrondverklaring van het beroep.
+§ 3. ...
 
 ### ART. 16.4.20.
 
@@ -3500,37 +3255,31 @@ Het handhavingscollege is een administratief rechtscollege als vermeld in artike
 
 <p>...</p>
 
-## [Onderafdeling III Werking (verv. decr. 23 december 2011, art. 61, I: 22 juli 2011)]
+## Onderafdeling III ...
 
 ### ART. 16.4.23.
 
-De Vlaamse Regering kan aan de leden van het handhavingscollege op geen enkele manier instructies geven over de wijze waarop ze hun bevoegdheden moeten uitoefenen.
+...
 
 ### ART. 16.4.24.
 
 <P>...</P>
 
-## [AFDELING IV DE BESTUURLIJKE GELDBOETEN (ing. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
+## AFDELING IV ...
 
-## [Onderafdeling I Basisbepalingen (verv. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
+## Onderafdeling I ...
 
 ### ART. 16.4.25
 
-De bestuurlijke geldboete is een sanctie waarbij de gewestelijke entiteit een overtreder verplicht een geldsom te betalen. Als overtreder wordt beschouwd degene die een milieu-inbreuk of een milieumisdrijf heeft gepleegd, alsook diegene die opdracht heeft gegeven om handelingen te stellen die een milieu-inbreuk of milieumisdrijf uitmaken.<br>
-<br>
-Eventueel kunnen bij een bestuurlijke geldboete ook de expertisekosten worden gevoegd die de gewestelijke entiteit heeft moeten maken om zijn besluit te kunnen nemen.
+...
 
 ### ART. 16.4.26.
 
-Samen met een bestuurlijke geldboete kan een voordeelontneming worden   opgelegd. Een voordeelontneming is een sanctie waarbij een overtreder verplicht   wordt een al dan niet geschat geldbedrag te betalen ter waarde van het   brutovermogensvoordeel dat uit de milieu-inbreuk of het milieumisdrijf is   verkregen.
+...
 
 ### ART. 16.4.27.
 
-Een bestuurlijke geldboete kan de vorm aannemen van een alternatieve bestuurlijke geldboete of van een exclusieve bestuurlijke geldboete.<br>
-<br>
-Een alternatieve bestuurlijke geldboete kan uitsluitend worden opgelegd voor de milieumisdrijven, vermeld in artikelen 16.6.1, 16.6.2, 16.6.3, 16.6.3bis, 16.6.3ter, 16.6.3quater, 16.6.3quinquies, 16.6.3sexies en 16.6.3septies, en bedraagt maximaal 2.000.000 euro.<br>
-<br>
-Een exclusieve bestuurlijke geldboete kan uitsluitend worden opgelegd voor milieu-inbreuken en bedraagt maximaal 400.000 euro. De Vlaamse Regering bepaalt, binnen de grenzen van artikel 16.1.2, 1°, de lijst van de milieu-inbreuken. Die lijst moet een omschrijving bevatten van de juridische basis en van de concrete wettelijke verplichting.
+...
 
 ### ART. 16.4.28.
 
@@ -3538,129 +3287,71 @@ Een exclusieve bestuurlijke geldboete kan uitsluitend worden opgelegd voor milie
 
 ### ART. 16.4.29.
 
-§ 1. Als een bestuurlijke geldboete wordt opgelegd, wordt de hoogte van de geldboete afgestemd op de ernst van de milieu-inbreuk of het milieumisdrijf. Tevens wordt rekening gehouden met de frequentie en de omstandigheden waarin de&nbsp; overtreder milieu-inbreuken of milieumisdrijven heeft gepleegd of beëindigd.<br>
-<br>
-§ 2. De bestuurlijke geldboete kan geheel of gedeeltelijk worden opgelegd met uitstel van tenuitvoerlegging. Uitstel bij de alternatieve bestuurlijke geldboete is enkel mogelijk voor zover geen bestuurlijke geldboete noch een strafrechtelijke geldboete of gevangenisstraf werd opgelegd voor het plegen van een milieumisdrijf en/of milieu-inbreuk gedurende vijf jaar voorafgaand aan het milieumisdrijf. Uitstel bij de exclusieve bestuurlijke geldboete is enkel mogelijk voor zover geen bestuurlijke geldboete, noch een strafrechtelijke geldboete of gevangenisstraf werd opgelegd voor het plegen van een milieumisdrijf en/of milieu-inbreuk gedurende drie jaar voorafgaand aan de milieu-inbreuk.<br>
-<br>
-Een voordeelontneming kan niet worden opgelegd met uitstel van tenuitvoerlegging.<br>
-<br>
-Het uitstel geldt voor een proefperiode die niet minder dan een jaar en niet meer dan drie jaar mag bedragen. De proefperiode gaat in vanaf de datum van kennisgeving van de beslissing tot oplegging van een bestuurlijke geldboete.<br>
-<br>
-Het uitstel wordt van rechtswege herroepen als gedurende de proeftijd een nieuw milieumisdrijf of een nieuwe milieu-inbreuk wordt gepleegd, die leidt tot een veroordeling tot een straf of het opleggen van een bestuurlijke geldboete.
+...
 
 ### ART. 16.4.30.
 
-De bevoegdheid tot het opleggen van een alternatieve bestuurlijke   geldboete vervalt vijf jaar na de datum van afsluiting van het proces-verbaal   dat over het milieumisdrijf werd opgesteld. De bevoegdheid tot het opleggen van   een exclusieve bestuurlijke geldboete vervalt drie jaar na de datum van   afsluiting van het verslag van vaststelling dat over de milieu-inbreuk werd   opgemaakt.
+...
 
-## [Onderafdeling II Oplegging van een alternatieve bestuurlijke geldboete (verv. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
+## Onderafdeling II ...
 
 ### ART. 16.4.31.
 
-Bij de vaststelling van een milieumisdrijf bezorgt de verbalisant onmiddellijk een proces-verbaal aan de procureur des Konings bij de rechtbank binnen het rechtsgebied waar het milieumisdrijf is gepleegd.<br /><br />Samen met dat proces-verbaal bezorgt de verbalisant een schriftelijk verzoek waarin de procureur des Konings gevraagd wordt zich uit te spreken over de al dan niet strafrechtelijke behandeling van het milieumisdrijf.<br /><br />De verbalisant bezorgt, voor zover als mogelijk, de procureur des Konings tevens een overzicht van zowel de vroegere als de tegelijkertijd met het milieumisdrijf vastgestelde milieu-inbreuken en van de vroeger opgelegde bestuurlijke geldboeten.
+...
 
 ### ART. 16.4.32.
 
-De procureur des Konings beschikt hiertoe over een periode van   honderdtachtig dagen, te rekenen vanaf de dag waarop hij het proces-verbaal   heeft ontvangen.<BR><BR>Voor die periode verstreken is kan ze gemotiveerd   eenmalig worden verlengd met een aanvullende periode van maximaal honderdtachtig   dagen. Van die verlenging stelt de procureur des Konings de gewestelijke   entiteit onmiddellijk in kennis.<BR><BR>Tijdens die periode van honderdtachtig   dagen, eventueel verlengd met een aanvullende periode van maximaal   honderdtachtig dagen, kan er geen bestuurlijke geldboete worden   opgelegd.
+...
 
 ### ART. 16.4.33.
 
-Van zijn beslissing over het al dan niet strafrechtelijk behandelen van een milieumisdrijf bericht de procureur des Konings de gewestelijke entiteit. Die entiteit informeert de verbalisant over de beslissing van de procureur des Konings.
+...
 
 ### ART. 16.4.34.
 
-Een beslissing houdende strafrechtelijke behandeling van het milieumisdrijf sluit het opleggen van een bestuurlijke geldboete uit.<br /><br />De oplegging van een bestuurlijke geldboete is eveneens uitgesloten als de procureur des Konings nalaat om tijdig zijn beslissing mee te delen aan de gewestelijke entiteit.<br /><br />Een beslissing houdende geen strafrechtelijke behandeling van het milieumisdrijf houdt het verval van de strafvordering in.
+...
 
 ### ART. 16.4.35.
 
-Als de procureur des Konings de gewestelijke entiteit tijdig heeft geïnformeerd over zijn beslissing om het milieumisdrijf niet strafrechtelijk te behandelen, start de gewestelijke entiteit de procedure voor de eventuele oplegging van een alternatieve bestuurlijke geldboete.
+...
 
 ### ART. 16.4.36.
 
-§ 1. Na de ontvangst van de beslissing van de procureur des Konings, vermeld in artikel 16.4.35, brengt de gewestelijke entiteit binnen een termijn van dertig dagen de vermoedelijke overtreder op de hoogte van het voornemen om een alternatieve bestuurlijke geldboete op te leggen, al dan niet vergezeld van een voordeelontneming. De vermoedelijke overtreder wordt uitgenodigd om binnen een termijn van dertig dagen die volgt op de kennisgeving van dit bericht schriftelijk zijn verweer mee te delen. Tevens wordt hij erop gewezen dat hij :<br>
-1° de documenten waarop het voornemen tot het opleggen van een alternatieve bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen;<br>
-2° mondeling zijn schriftelijke verweer kan toelichten. De vermoedelijke overtreder moet daartoe bij de gewestelijke entiteit een aanvraag indienen binnen dertig dagen na&nbsp;de kennisgeving.<br>
-<br>
-§ 2. De gewestelijke entiteit kan toezichthouders verzoeken om aanvullende inlichtingen te verstrekken.<br>
-<br>
-§ 3. Alvorens een alternatieve bestuurlijke geldboete op te leggen, kan de gewestelijke entiteit de vermoedelijke overtreder een voorstel doen om een geldsom te betalen binnen een bepaalde termijn.<br>
-<br>
-Het voorstel tot betaling van een geldsom gebeurt met kennisgeving aan de vermoedelijke overtreder.<br>
-<br>
-De geldsom wordt gestort ten voordele van het Minafonds.<br>
-<br>
-Het voorstel tot betaling van de geldsom schorst de procedure tot oplegging van een alternatieve bestuurlijke geldboete zoals vermeld in de artikelen 16.4.37 tot en met 16.4.39.<br>
-<br>
-De Vlaamse Regering stelt de nadere regels vast met betrekking tot de termijn waarin de betaling moet geschieden, de modaliteiten tot het opleggen van de geldsom evenals de milieumisdrijven waarop de procedure van toepassing is.<br>
-<br>
-§ 4. De betaling van de voorgestelde geldsom door de vermoedelijke overtreder binnen de vooropgestelde termijn doet de procedure tot het opleggen van een alternatieve bestuurlijke geldboete zoals vermeld in de artikelen 16.4.37 tot en met 16.4.39 van het decreet vervallen.<br>
-<br>
-Indien de vermoedelijke overtreder de geldsom niet betaalt binnen de vooropgestelde termijn of indien de vermoedelijke overtreder de gewestelijke entiteit per aangetekende brief laat weten niet in te gaan op het voorstel tot betaling van een geldsom, dan wordt de procedure tot het opleggen van een alternatieve bestuurlijke geldboete, zoals vermeld in de artikelen 16.4.37 tot en met 16.4.39, hervat.
+...
 
 ### ART. 16.4.37.
 
-Binnen een termijn van honderdtachtig dagen na de kennisgeving, vermeld in artikel 16.4.36, § 1, beslist de gewestelijke entiteit over het opleggen van een alternatieve bestuurlijke geldboete, al dan niet vergezeld van een voordeelontneming. De gewestelijke entiteit brengt de vermoedelijke overtreder door middel van een kennisgeving op de hoogte van haar beslissing binnen een termijn van tien dagen na de dag waarop ze is genomen.<br>
-<br>
-Met inachtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen vermeldt de beslissing minstens het eventueel opgelegde bedrag, de beroepsmogelijkheden en de voorwaarden van het beroep, alsmede de termijn waarbinnen en de manier waarop een alternatieve bestuurlijke geldboete moet worden betaald.
+...
 
 ### ART. 16.4.38.
 
-De Vlaamse Regering kan de nadere regels bepalen voor de wijze waarop een dossier bij de gewestelijke entiteit aanhangig wordt gemaakt, alsook de samenstelling van en de toegang tot het dossier.
+...
 
 ### ART. 16.4.39.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd beroep indienen bij het handhavingscollege. Het beroep schorst de bestreden beslissing.<br>
-<br>
-In afwijking van artikel 16.1.3, § 2, kan het beroep, vermeld in het eerste lid, worden ingediend binnen een termijn van dertig dagen na de kennisgeving van de bestreden beslissing met inachtneming van de volgende bepalingen:<br>
-- voor toepassing van dit artikel wordt de kennisgeving met een aangetekende brief, met of zonder ontvangstbewijs, geacht plaats te vinden op de werkdag die valt na de datum van de poststempel van deze aangetekende brief, behalve in geval van bewijs van het tegendeel door de geadresseerde. Daarbij geldt alleen de datum van de aanbieding door de postdiensten, en niet de feitelijke kennisneming van de aangetekende brief op een later tijdstip;<br>
-- voor toepassing van dit artikel wordt de kennisgeving door afgifte tegen ontvangstbewijs geacht plaats te vinden op de datum van het ontvangstbewijs.
+...
 
-## [Onderafdeling III Oplegging van een exclusieve bestuurlijke geldboete (verv. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
+## Onderafdeling III ...
 
 ### ART. 16.4.40.
 
-De gewestelijke entiteit kan een exclusieve bestuurlijke geldboete, al dan niet vergezeld van een voordeelontneming, opleggen.
+...
 
 ### ART. 16.4.41.
 
-§ 1. Na de ontvangst van de akte waarin een milieu-inbreuk wordt vastgesteld door een verbalisant, kan de gewestelijke entiteit binnen een termijn van zestig dagen de vermoedelijke overtreder op de hoogte brengen van het voornemen om een exclusieve bestuurlijke geldboete op te leggen, al dan niet vergezeld van een voordeelontneming. De vermoedelijke overtreder wordt uitgenodigd om binnen een termijn van dertig dagen die volgt op de kennisgeving van dit bericht schriftelijk zijn verweer mee te delen.<br>
-<br>
-Tevens wordt de vermoedelijke overtreder erop gewezen dat hij :<br>
-1° op verzoek de documenten waarop het voornemen tot het opleggen van een exclusieve bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen;<br>
-2° mondeling zijn schriftelijke verweer kan toelichten. De vermoedelijke overtreder richt daartoe aan de gewestelijke entiteit een aanvraag binnen dertig dagen na&nbsp; de kennisgeving.<br>
-<br>
-§ 2. Alvorens een bestuurlijke geldboete op te leggen, kan de gewestelijke entiteit de vermoedelijke overtreder een voorstel doen om een geldsom te betalen binnen een bepaalde termijn.<br>
-<br>
-Het voorstel tot betaling van een geldsom gebeurt met kennisgeving aan de vermoedelijke overtreder.<br>
-<br>
-De geldsom wordt gestort ten voordele van het Minafonds.<br>
-<br>
-Het voorstel tot betaling van de geldsom, schorst de procedure tot oplegging van een exclusieve bestuurlijke geldboete zoals vermeld in artikel 16.4.43.<br>
-<br>
-De Vlaamse Regering stelt de nadere regels met betrekking tot de termijn waarin de betaling moet geschieden, de modaliteiten tot het opleggen van de geldsom en kan bepalen op welke milieu-inbreuken de procedure van toepassing is.<br>
-<br>
-§ 3. De betaling van de door de gewestelijke entiteit voorgestelde geldsom door de vermoedelijke overtreder binnen de vooropgestelde termijn doet de procedure tot het opleggen van een exclusieve bestuurlijke geldboete zoals vermeld in artikel 16.4.43 van het decreet vervallen.<br>
-<br>
-Indien de vermoedelijke overtreder de geldsom niet betaalt binnen de vooropgestelde termijn of indien de vermoedelijke overtreder de gewestelijke entiteit per kennisgeving laat weten niet in te gaan op het voorstel tot betaling van een geldsom, dan wordt de procedure tot het opleggen van een exclusieve bestuurlijke geldboete, zoals vermeld in artikel 16.4.43 hervat.<br>
-<br>
-§ 4. De gewestelijke entiteit informeert de toezichthouders altijd over het gevolg dat wordt gegeven aan een verslag van vaststelling.
+...
 
 ### ART. 16.4.42.
 
-De gewestelijke entiteit kan toezichthouders verzoeken om aanvullende inlichtingen te verstrekken.
+...
 
 ### ART. 16.4.43.
 
-Binnen een termijn van negentig dagen na de kennisgeving van het bericht beslist de gewestelijke entiteit over het opleggen van een exclusieve bestuurlijke geldboete, al dan niet vergezeld van een voordeelontneming. De gewestelijke entiteit brengt de vermoedelijke overtreder door middel van een kennisgeving op de hoogte van haar beslissing binnen een termijn van tien dagen na de dag waarop ze is genomen.<br>
-<br>
-Met inachtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen vermeldt de beslissing minstens het eventueel opgelegde bedrag, de beroepsmogelijkheden en de voorwaarden van het beroep, alsmede de termijn waarbinnen en de manier waarop de exclusieve bestuurlijke geldboete moet worden betaald.
+...
 
 ### ART. 16.4.44.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd beroep indienen bij het handhavingscollege. Het beroep schorst de bestreden beslissing.<br>
-<br>
-In afwijking van artikel 16.1.3, § 2, kan het beroep, vermeld in het eerste lid, worden ingediend binnen een termijn van dertig dagen na de kennisgeving van de bestreden beslissing met inachtneming van de volgende bepalingen:<br>
-- voor toepassing van dit artikel wordt de kennisgeving met een aangetekende brief, met of zonder ontvangstbewijs, geacht plaats te vinden op de werkdag die valt na de datum van de poststempel van deze aangetekende brief, behalve in geval van bewijs van het tegendeel door de geadresseerde. Daarbij geldt alleen de datum van de aanbieding door de postdiensten, en niet de feitelijke kennisneming van de aangetekende brief op een later tijdstip;<br>
-- voor toepassing van dit artikel wordt de kennisgeving door afgifte tegen ontvangstbewijs geacht plaats te vinden op de datum van het ontvangstbewijs.
+...
 
 ## AFDELING V [... (opgeh. decr. 8 juni 2018, art. 38, I: 12 juli 2018)]
 
@@ -3760,116 +3451,81 @@ In afwijking van artikel 16.1.3, § 2, kan het beroep, vermeld in het eerste lid
 
 <p>...</p>
 
-## [HOOFDSTUK V INNING EN INVORDERING VAN VERSCHULDIGDE BEDRAGEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## HOOFDSTUK V ...
 
 ### ART. 16.5.1.
 
-§1. Artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is van toepassing op de opbrengsten, verkregen uit de toepassing van titel XVI.<br>
-<br>
-De opbrengsten, vermeld in het eerste lid, die conform artikel 73 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 worden toebedeeld aan de Vlaamse overheid, komen toe aan het Minafonds.&nbsp;<br>
-<br>
-In afwijking van het tweede lid komen de bedragen die worden ingevorderd tot terugbetaling van de kosten die gemaakt zijn voor de uitvoering van maatregelen door de toezichthouders en herstelinstanties van de OVAM in het kader van het toezicht op de toepassing van het Bodemdecreet van 27 oktober 2006 en op de toepassing van artikel 12 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, toe aan de OVAM.<br>
-<br>
-§ 2. Bij een veroordeling, overeenkomstig artikel 16.6.5, tweede lid, tot terugbetaling van de kosten voor het inzamelen, vervoeren en verwerken van afvalstoffen in de bossen en aanverwante grondoppervlakten, de onbevaarbare waterlopen en natuurreservaten, wordt dat bedrag gestort op de rekening van het Minafonds.<br>
-<br>
-Bij een veroordeling, overeenkomstig artikel 16.6.4, tweede lid, tot terugbetaling van de kosten voor het inzamelen, vervoeren en verwerken van afvalstoffen op de openbare wegen, de waterwegen en de havens en hun specifieke aanhorigheden, wordt dat bedrag gestort op de rekening van het Vlaamse Gewest.
+...
 
 ### ART. 16.5.2.
 
-§ 1. Als de betrokkene in gebreke blijft bij het betalen van de verschuldigde bedragen, verhoogd met de invorderingskosten, vermeld in artikel 16.5.1, worden die bedragen bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die daartoe door de Vlaamse Regering wordt aangewezen.<br>
-<br>
-§ 2. Het dwangbevel wordt aan de schuldenaar bij deurwaardersexploot betekend.<br>
-<br>
-Binnen een termijn van dertig dagen na de ontvangst van het dwangbevel kan de schuldenaar verzet doen door het Vlaamse Gewest te laten dagvaarden. Als het dwangbevel betrekking heeft op kosten, vermeld in artikel 16.5.1, § 1, tweede lid, die door de toezichthouders van de OVAM zijn gemaakt, gebeurt in afwijking hiervan het verzet door de OVAM te laten dagvaarden.<br>
-<br>
-Het verzet schorst de tenuitvoerlegging. Het Vlaamse Gewest of de OVAM kan de rechter verzoeken om de schorsing van de tenuitvoerlegging op te heffen.<br>
-<br>
-Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br>
-<br>
-Een beroep tegen een dwangbevel kan alleen worden ingesteld met betrekking tot geschillen die in verband met de tenuitvoerlegging van het dwangbevel rijzen. Die geschillen worden voor de beslagrechter gebracht.<br>
-<br>
-§ 3. Op grond van het uitvoerbaar verklaard dwangbevel en tot zekerheid van voldoening van de bedragen en kosten, vermeld in artikel 16.5.1, hebben het Vlaamse Gewest en de OVAM een algemeen voorrecht op alle roerende goederen van de schuldenaar en kunnen ze een wettelijke hypotheek nemen als daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van de schuldenaar.<br>
-<br>
-Het voorrecht vermeld in § 1 neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 van het Wetboek van bepaalde voorrechten op zeeschepen en diverse bepalingen.<br>
-<br>
-De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel.<br>
-<br>
-De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in § 1. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar en dat melding maakt van de betekening ervan.<br>
-<br>
-Artikel XX.113, tweede lid, van het Wetboek van economisch recht is niet van toepassing op de wettelijke hypotheek inzake de opgelegde bestuurlijke geldboeten en, in voorkomend geval, de bijbehorende expertisekosten en de opgelegde voordeelontnemingen waarvoor een dwangbevel werd uitgevaardigd en waarvan betekening aan de schuldenaar is gedaan voor het vonnis van faillietverklaring.
+...
 
 ### ART. 16.5.2bis.
 
-In afwijking van artikel 16.5.2 kan de ambtenaar, vermeld in artikel   16.5.2, § 1, beslissen af te zien van de invordering van de bedragen en kosten,   vermeld in artikel 16.5.1, § 1, tweede lid, als de invorderingskosten groter   zijn dan het terug te vorderen bedrag of als niet kan worden vastgesteld wie de   overtreder is.
+...
 
 ### ART. 16.5.3.
 
-De bevoegdheid om over te gaan tot invordering van de bedragen en kosten,   vermeld in artikel 16.5.1, § 1, eerste en derde lid, verjaart na verloop van   driehonderdvijfenzestig dagen. Die termijn gaat in op de dag die volgt op de dag   waarop deze bedragen en kosten moesten worden betaald.<BR><BR>De bevoegdheid om   over te gaan tot invordering van de kosten van de maatregelen, vermeld in   artikel 16.5.1, § 1, tweede lid, verjaart door verloop van vijf jaar vanaf de   dag dat de maatregelen geheel zijn voltooid.<BR><BR>De verjaring wordt gestuit   op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met 2280 van   het Burgerlijk Wetboek.
+...
 
 ### ART. 16.5.4.
 
-Artikel 16.5.4. De ambtenaar, belast met de inning en invordering, beslist eveneens over de gemotiveerde verzoeken tot uitstel of spreiding van betaling die de overtreder tot hem richt.
+...
 
-## [HOOFDSTUK Vbis OPSPORING VAN MILIEUMISDRIJVEN (ing. decr. 30 april 2009, art. 20)]
+## HOOFDSTUK Vbis ...
 
 ### ART. 16.5.5.
 
-De Vlaamse Regering kan, met behoud van de voorwaarden, vermeld in artikel 16.3.8, aan personeelsleden van het departement en de agentschappen, die behoren tot het beleidsdomein Omgeving, de hoedanigheid toekennen van officier van gerechtelijke politie ten behoeve van de opsporing van milieumisdrijven als vermeld in hoofdstuk VI en in de regelgeving, vermeld in artikel 16.1.1.<br>
-<br>
-Deze officieren van gerechtelijke politie worden hierna gewestelijke milieuopsporingsambtenaren genoemd.
+...
 
 ### ART. 16.5.6.
 
-De gewestelijke milieuopsporingsambtenaren moeten over de vereiste kwalificaties en eigenschappen beschikken om de opsporingsbevoegdheden naar behoren te kunnen uitoefenen.
+...
 
 ### ART. 16.5.7.
 
-Voordat de gewestelijke milieuopsporingsambtenaren hun opsporingstaak   vervullen, leggen ze voor de rechtbank van eerste aanleg van het gerechtelijk   arrondissement waartoe hun standplaats behoort, de volgende eed af : « Ik zweer   getrouwheid aan de Koning, gehoorzaamheid aan de Grondwet en aan de wetten van   het Belgische volk. »<BR><BR>Ze zijn bevoegd om hun opdrachten te vervullen op   het grondgebied van het gehele Vlaamse Gewest.
+...
 
 ### ART. 16.5.8.
 
-De gewestelijke milieuopsporingsambtenaren hebben een legitimatiebewijs bij zich en tonen dat desgevraagd onmiddellijk.<br /><br />De Vlaamse Regering bepaalt wie het legitimatiebewijs verleent, en de inhoud en het model ervan.
+...
 
 ### ART. 16.5.9.
 
-De gewestelijke milieuopsporingsambtenaren kunnen een kopie van het   proces-verbaal bezorgen aan de relevante gewestelijke overheden, die belast zijn   met de handhaving van de milieuwetgeving, vermeld in artikel   16.1.1.
+...
 
 ### ART. 16.5.10.
 
-Het proces-verbaal heeft bewijswaarde tot het tegendeel is   bewezen.<BR><BR>Als de vermoedelijke overtreder bekend is, wordt, op straffe van   verval van de bewijswaarde tot het tegendeel, aan de vermoedelijke overtreder   een kopie van het proces-verbaal bezorgd. Die kennisgeving wordt gedaan binnen   een termijn van veertien dagen na de datum van afsluiting van het   proces-verbaal.
+...
 
 ### ART. 16.5.11.
 
-Bij de vaststelling van een milieumisdrijf kunnen de gewestelijke milieuopsporingsambtenaren de identiteit controleren van de vermoedelijke overtreder.<br>
-<br>
-De identiteitsstukken die aan de gewestelijke milieuopsporingsambtenaar worden overhandigd, moeten na verificatie van de identiteit onmiddellijk aan de betrokkene worden teruggegeven.<br>
-<br>
-Bij gebrek aan een identiteitskaart wordt aan de vermoedelijke overtreder de mogelijkheid geboden om zijn identiteit te bewijzen op een andere wijze.
+...
 
 ### ART. 16.5.12.
 
-De bijzondere veldwachters vermeld in artikel 61 van het Veldwetboek zijn bevoegd om milieumisdrijven op te sporen en vast te stellen met betrekking tot de in artikel 16.1.1, eerste lid, sub 2°, 3°, 4°, 14°, 15° en 16°, vermelde milieuvoorschriften.
+...
 
-## [HOOFDSTUK VI STRAFRECHTELIJKE HANDHAVING (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## HOOFDSTUK VI MISDRIJVEN EN INBREUKEN
+
+## AFDELING I MISDRIJVEN
 
 ### ART. 16.6.1.
 
-§ 1. Elke opzettelijke of door gebrek aan voorzorg of voorzichtigheid gepleegde schending van de door deze titel gehandhaafde milieuvoorschriften is strafbaar met een gevangenisstraf van een maand tot twee jaar en met een geldboete van 100 euro tot 250.000 euro of met een van die straffen.<br>
+§1. Elke opzettelijke of door gebrek aan voorzorg of voorzichtigheid gepleegde schending van de door deze titel gehandhaafde milieuvoorschriften is strafbaar met een gevangenisstraf van een maand tot twee jaar en met een geldboete van 100 euro tot 250.000 euro of met een van die straffen.<br>
 <br>
 Deze straffen gelden niet voor :<br>
-1° de gedragingen die op basis van artikel 16.1.2, 1°, en op basis van artikel 16.4.27, derde lid, als milieu-inbreuk zijn gedefinieerd;<br>
+1° de gedragingen die als een inbreuk als vermeld in afdeling II, zijn ge-definieerd;<br>
 2° ...<br>
 3°&nbsp;de overtreding van de verplichting tot aangifte en betaling van de milieuheffingen, vermeld in artikel 50 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, en de verplichting tot betaling van de administratieve geldboete, vermeld in artikel 58 van voormeld decreet;<br>
 4° ...<br>
 5° het niet voldoen aan administratieve verplichtingen in het kader van een aanvraagprocedure, zoals een procedure tot aanvraag van een vergunning of machtiging, tot aanvraag van een subsidie of tot het verkrijgen van een erkenning, behalve wanneer opzettelijk informatie niet of onvolledig werd meegedeeld of wanneer opzettelijk onjuiste informatie werd meegedeeld;<br>
-6° het niet voldoen aan de administratieve vormvereisten die bij een melding in acht genomen moeten worden, met behoud van de toepassing van artikel 16.6.1, § 1, eerste lid, op het nalaten van enige voorafgaande melding van de betrokken activiteit.<br>
+6° het niet-voldoen aan de administratieve vormvereisten die bij een melding in acht genomen moeten worden, uitgezonderd het nalaten van een voorafgaande melding van de activiteit in kwestie.<br>
 <br>
-§ 2. De volgende personen worden bestraft met een gevangenisstraf van een maand tot een jaar en met een geldboete van 100 euro tot 100.000 euro of met een van die straffen :<br>
-1° personen die opzettelijk opgelegde bestuurlijke maatregelen, bestuurlijke geldboeten, voordeelontnemingen, veiligheidsmaatregelen of door de rechter opgelegde maatregelen niet uitvoeren, betalen of negeren;<br>
-2° personen die opzettelijk de in artikel 16.3.10, 1°, 2°, 3°, 4°, en 5°, bedoelde toezichtrechten schenden;<br>
-2° /1 personen die opzettelijk niet meewerken aan een identiteitscontrole als vermeld in artikel 16.3.26bis en 16.5.11;<br>
-3° personen die de orde van de zittingen van het handhavingscollege verstoren, zoals blijkt uit het proces-verbaal van de zitting;<br>
-4° personen die een bevel als vermeld in artikel 61, § 6, van het Mestdecreet van 22 december 2006, niet uitvoeren of negeren.
+§2. De volgende personen worden bestraft met een gevangenisstraf van een maand tot een jaar en met een geldboete van 100 euro tot 100.000 euro of met een van die straffen:<br>
+1°&nbsp;&nbsp; &nbsp;personen die opzettelijk niet vervallen en niet opgeheven bestuurlijke maatregelen, gerechtelijke herstelmaatregelen of veiligheidsmaatregelen die regelmatig zijn opgelegd conform deze titel vóór de datum van de in-werking¬treding van artikel 19, 5°, van het decreet van [...] tot wijziging van diverse decreten, wat betreft de implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, niet uitvoeren, niet betalen of ne-geren;<br>
+2°&nbsp;&nbsp; &nbsp;personen die een bevel als vermeld in artikel 61, §6, van het Mestdecreet van 22 december 2006, niet uitvoeren of negeren.
 
 ### ART. 16.6.2.
 
@@ -3937,83 +3593,82 @@ Wie afvalstoffen achterlaat in strijd met de bepalingen van het decreet van 23 d
 
 ### ART. 16.6.5.
 
-Na de partijen gehoord te hebben, kan de rechter bij wijze van veiligheidsmaatregel het verbod uitspreken om de inrichtingen, die aan de oorsprong van het milieumisdrijf liggen, te exploiteren gedurende de termijnen die hij bepaalt.
+De misdrijven, vermeld in deze afdeling, die bestuurlijk worden vervolgd, worden gesanctioneerd met een alternatieve bestuurlijke geldboete van 50 euro tot 2.000.000 euro.
+
+## AFDELING II INBREUKEN
 
 ### ART. 16.6.6.
 
-§ 1. Naast de straf kan de rechtbank, ofwel ambtshalve, ofwel op vordering van het openbaar ministerie, ofwel op vordering van de gemachtigde ambtenaar, ofwel op vordering van de burgerlijke partij, bevelen om de plaats in de oorspronkelijke toestand te herstellen, het strijdige gebruik te staken of aanpassingswerken uit te voeren.<br>
+§1. De Vlaamse Regering bepaalt de lijst van inbreuken voor de Vlaamse regelgeving waarop deze titel van toepassing is. De voormelde lijst bevat een omschrijving van de juridische basis en van de concrete wettelijke verplichting.&nbsp;<br>
 <br>
-Als de gemachtigde ambtenaar daartoe een herstelvordering indient, gebeurt dat op grond van deze vordering.<br>
+De inbreuken, vermeld in het eerste lid, kunnen alleen gedragingen zijn die in strijd zijn met een milieuvoorschrift en die aan al de volgende voorwaarden voldoen:<br>
+1°&nbsp;&nbsp; &nbsp;de gedraging betreft geen emissies als vermeld in artikel 16.6.2;<br>
+2°&nbsp;&nbsp; &nbsp;de gedraging betreft niet het achterlaten, beheren of overbrengen van afvalstoffen als vermeld in artikel 16.6.3;<br>
+3°&nbsp;&nbsp; &nbsp;de gedraging veroorzaakt geen gezondheidsschade of de dood;<br>
+4°&nbsp;&nbsp; &nbsp;de gedraging houdt geen schending in van de verplichting om te beschikken over een milieuvergunning, een omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit, of een erkenning;<br>
+5°&nbsp;&nbsp; &nbsp;de gedraging houdt geen schending in van de verplichting om een veiligheids-rapport of een milieueffectrapport op te maken.&nbsp;<br>
 <br>
-§ 2. De herstelvordering wordt door de gemachtigde ambtenaar bij het parket ingeleid met een gewone brief, in naam van het Vlaamse Gewest.<br>
-<br>
-De vordering vermeldt minstens de geldende milieuvoorschriften en een omschrijving van de toestand zoals die was voor het misdrijf.<br>
-<br>
-Het vorderingsrecht van de gemachtigde ambtenaar verjaart binnen vijf jaar nadat een toezichthouder voor het milieumisdrijf een proces-verbaal heeft afgesloten, met dien verstande dat het vorderingsrecht niet kan verjaren zolang conform artikel 16.4.8bis een bestuurlijke maatregel kan worden opgelegd of zolang de strafvordering niet vervallen is.<br>
-<br>
-§ 3. De rechtbank bepaalt een termijn voor de uitvoering van de herstelmaatregelen, rekening houdend met de termijn die voor de uitvoering van de herstelmaatregelen is bepaald in de herstelvordering, vermeld in § 1.<br>
-<br>
-De rechtbank kan op vordering van de gemachtigde ambtenaar ook een dwangsom bepalen per dag vertraging in de tenuitvoerlegging van de herstelmaatregelen.
+§2. De inbreuken, vermeld in paragraaf 1, eerste lid, worden gesanctioneerd met een bestuurlijke geldboete van 50 euro tot 400.000 euro.
 
 ### ART. 16.6.7.
 
-De gemachtigde ambtenaar kan ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het ambtsgebied waarin het milieumisdrijf plaatsvond, de herstelmaatregelen, vermeld in artikel 16.6.6, vorderen.
+...
 
 ### ART. 16.6.8.
 
-Als de persoon die de opgelegde herstelmaatregelen moet uitvoeren, de herstelmaatregelen vrijwillig heeft uitgevoerd, brengt hij de gemachtigde ambtenaar daarvan op de hoogte met een aangetekende brief of door afgifte tegen ontvangstbewijs.<br /><br />De gemachtigde ambtenaar maakt daarop onmiddellijk en na controle ter plaatse een proces-verbaal van vaststelling op. De gemachtigde ambtenaar stuurt een kopie van dat proces-verbaal naar de persoon die de herstelmaatregelen moest nemen.<br /><br />Het proces-verbaal van vaststelling geldt als bewijs van het herstel en van de datum van het herstel.
+...
 
 ### ART. 16.6.9.
 
-De gemachtigde ambtenaar kan, op kosten van de persoon die veroordeeld   werd tot het uitvoeren van de herstelmaatregel, het vonnis of het arrest zelf   uitvoeren als deze persoon de herstelmaatregel niet binnen de door de rechter   bepaalde termijn is nagekomen.
+...
 
 ### ART. 16.6.10.
 
-De verjaring van het recht op ambtshalve uitvoering van de herstelmaatregel, vermeld in artikel 16.6.9 neemt een aanvang vanaf het verstrijken van de termijn die de rechtbank overeenkomstig artikel 16.6.6, § 3, heeft bepaald voor de tenuitvoerlegging ervan.
+...
 
-## [HOOFDSTUK VII VEILIGHEIDSMAATREGELEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## HOOFDSTUK VII ...
 
-## [AFDELING I BASISBEPALINGEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009]
+## AFDELING I ...
 
 ### ART. 16.7.1.
 
-§ 1. De volgende personen kunnen veiligheidsmaatregelen nemen in geval van een aanzienlijk risico voor mens of milieu : <br />1° toezichthouders, voor de milieuwetgeving waarop hun toezichtopdracht betrekking heeft;<br />2° de gouverneur van een provincie of zijn plaatsvervanger;<br />3° de burgemeester of zijn plaatsvervanger.<br /><br />§ 2. Veiligheidsmaatregelen zijn maatregelen waarbij de personen, vermeld in § 1, alle handelingen kunnen stellen of opleggen die zij onder de gegeven omstandigheden nodig achten om een aanzienlijk risico voor mens of milieu uit te schakelen, tot een aanvaardbaar niveau in te perken of te stabiliseren.<br /><br />De burgemeester en de provinciegouverneur kunnen de veiligheidsmaatregelen ambtshalve nemen of op verzoek van een toezichthouder.<br /><br />§ 3. De Vlaamse Regering kan bepalen in welke gevallen de veiligheidsmaatregelen, vermeld in § 1, moeten worden genomen en kan vaststellen wie van de personen, vermeld in § 1, die maatregelen moet nemen.
+...
 
 ### ART. 16.7.2.
 
-Veiligheidsmaatregelen kunnen onder meer strekken tot :<br />1° de stopzetting of uitvoering van werkzaamheden, handelingen of activiteiten, ogenblikkelijk of binnen een bepaalde termijn;<br />2° het verbod op het gebruik of de verzegeling van gebouwen, installaties, machines, toestellen, transportmiddelen, containers, terreinen en alles wat zich daarin of daarop bevindt;<br />3° de hele of gedeeltelijke sluiting van een inrichting;<br />4° het meenemen, bewaren of verwijderen van daarvoor vatbare zaken, met inbegrip van afvalstoffen en dieren;<br />5° het niet-betreden of het verlaten van bepaalde gebieden, terreinen, gebouwen of wegen.<br /><br />Veiligheidsmaatregelen kunnen niet worden opgeheven als het risico in kwestie niet is uitgeschakeld, ingeperkt tot een aanvaardbaar niveau of gestabiliseerd.
+...
 
 ### ART. 16.7.3.
 
-Bij besluit opgelegde veiligheidsmaatregelen die verplichten tot een doen of laten, omschrijven duidelijk de verplichtingen waaraan moet worden voldaan.
+...
 
 ### ART. 16.7.4.
 
-Kosten die gemaakt zijn voor de tenuitvoerlegging van veiligheidsmaatregelen vallen geheel of gedeeltelijk ten laste van de personen die verantwoordelijk zijn voor het aanzienlijke risico.<br /><br />De verschuldigde bedragen worden geïnd en ingevorderd overeenkomstig artikel 16.5.1 tot en met 16.5.4.
+...
 
-## [AFDELING II PROCEDURE VOOR HET NEMEN VAN VEILIGHEIDSMAATREGELEN TEN AANZIEN VAN PERSONEN VERANTWOORDELIJK VOOR HET AANZIENLIJKE RISICO (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING II ...
 
 ### ART. 16.7.5.
 
-§ 1. Veiligheidsmaatregelen worden schriftelijk genomen. Als een ogenblikkelijk optreden vereist is, kunnen veiligheidsmaatregelen ook mondeling worden genomen.<br /><br />§ 2. Als veiligheidsmaatregelen schriftelijk worden genomen, dan gebeurt dat door de kennisgeving van het besluit houdende de veiligheidsmaatregelen.<br /><br />§ 3. Als veiligheidsmaatregelen mondeling worden genomen en de personen, verantwoordelijk voor het aanzienlijke risico, niet aanwezig zijn, dan wordt ter plaatse en op een zichtbare plaats een schriftelijk bericht achtergelaten.<br /><br />Door middel van een schriftelijke bevestiging worden de personen die verantwoordelijk zijn voor het aanzienlijke risico op de hoogte gebracht van de mondeling genomen veiligheidsmaatregelen binnen vijf werkdagen nadat ze genomen zijn. Deze schriftelijke bevestiging gebeurt door middel van een kennisgeving.<br /><br />§ 4. De Vlaamse Regering kan bepalen dat de schriftelijke bevestiging, vermeld in § 3, tweede lid, en het besluit, vermeld in § 2, op elektronische wijze verspreid kunnen worden. Ze bepaalt in dat geval de nadere voorwaarden.<br /><br />§ 5. De schriftelijke bevestiging, vermeld in § 3, tweede lid, en het besluit, vermeld in § 2, bevatten minstens :<br />1° een omschrijving van het aanzienlijke risico dat het nemen van veiligheidsmaatregelen noodzakelijk maakt;<br />2° een omschrijving van de veiligheidsmaatregelen die noodzakelijk zijn en de eventuele uitvoeringstermijn.<br /><br />§ 6. De Vlaamse Regering kan bepalen welke overheden op de hoogte moeten worden gebracht van de genomen veiligheidsmaatregelen, alsook op welke wijze dat moet gebeuren.
+...
 
-## [AFDELING III OPHEFFING VAN VEILIGHEIDSMAATREGELEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
+## AFDELING III ...
 
 ### ART. 16.7.6.
 
-Wie veiligheidsmaatregelen neemt, is ook bevoegd om ze op te heffen.<br /><br />De veiligheidsmaatregelen kunnen ambtshalve opgeheven worden of op verzoek van personen ten aanzien van wie de veiligheidsmaatregelen zijn genomen.<br /><br />De opheffing van veiligheidsmaatregelen kan gepaard gaan met het nemen van nieuwe veiligheidsmaatregelen.
+...
 
 ### ART. 16.7.7.
 
-Als het aanzienlijke risico waarvoor veiligheidsmaatregelen werden genomen, is uitgeschakeld of tot een aanvaardbaar niveau ingeperkt of gestabiliseerd is, kan degene die de veiligheidsmaatregelen heeft genomen, ze gemotiveerd en ambtshalve opheffen.
+...
 
 ### ART. 16.7.8.
 
-Iedere persoon tegen wie veiligheidsmaatregelen zijn genomen kan de   opheffing ervan vragen. Het gemotiveerde verzoek wordt meegedeeld aan degene die   de veiligheidsmaatregelen heeft genomen. <BR><BR>Degene die de   veiligheidsmaatregelen heeft genomen beslist binnen een termijn van dertig dagen   na de mededeling van het gemotiveerde verzoek.<BR><BR>Een besluit houdende de   opheffing van veiligheidsmaatregelen op gemotiveerd verzoek vereist een   voorafgaand verslag waarin de bevoegde persoon vaststelt dat het aanzienlijke   risico waarvoor veiligheidsmaatregelen werden genomen, is uitgeschakeld of tot   een aanvaardbaar niveau ingeperkt of gestabiliseerd is. De Vlaamse Regering kan   de vorm en de voorwaarden van dat verslag bepalen.
+...
 
 ### ART. 16.7.9.
 
-De personen tegen wie veiligheidsmaatregelen zijn genomen worden binnen een termijn van tien dagen op de hoogte gebracht van het besluit houdende de opheffing van veiligheidsmaatregelen, ambtshalve of op gemotiveerd verzoek. Dit gebeurt door middel van een kennisgeving.<br /><br />De termijn, vermeld in het eerste lid, gaat in op de dag waarop dit besluit werd genomen.
+...
 
 ## [BIJLAGE I
 
