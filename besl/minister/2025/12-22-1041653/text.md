@@ -314,15 +314,39 @@ In de periode van 1 januari 2026 tot en met 31 oktober 2026 is het in het ICES-g
 
 ### ART 19.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2026 tot en met 31 december 2026.&nbsp;
+§1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2026 tot en met 31 december 2026.&nbsp;<br>
+<br>
+§2. In afwijking van paragraaf 1 is het vanaf 1 juni 2026 om 00.00 uur, enkel voor de vissersvaartuigen die zijn opgenomen in de lijst "Visvergunningen Golf van Gascogne 2026" toegestaan aanwezig te zijn in de ICES-gebieden VIIIa en b.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om in de lijst, vermeld in het eerste lid, opgenomen te kunnen worden, moeten de eigenaars van vissersvaartuigen van het groot vlootsegment vóór 1 april 2026 per aangetekende brief of per e-mail een aanvraag tot het verkrijgen van een visvergunning indienen bij de bevoegde entiteit.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§3. Van 1 juni 2026 tot en met 30 september 2026 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid overschrijdt die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§4. Wanneer de hoeveelheid tong, vermeld in paragraaf 3, wordt overschreden, wordt de overschreden hoeveelheid tong in mindering gebracht op de hoeveelheid tong die aan het betrokken vissersvaartuig wordt toegekend voor 2027.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§5. De vissersvaartuigen die zijn opgenomen in de lijst "Visvergunningen Golf van Gascogne 2026”, leveren voor het ICES-gebied VIIfg een hoeveelheid tong van 6 kg/kW in gedurende de periode van 1 juli 2026 tot en met 31 oktober 2026. Daarnaast wordt voor het ICES-gebied VIIa (Ierse Zee) voor deze vaartuigen in de periode van 1 juli 2026 tot en met 31 oktober 2026 eveneens een hoeveelheid tong van 6 kg/kW ingeleverd.<br>
+&nbsp;&nbsp; &nbsp;&nbsp;<br>
+Tijdens eenzelfde visreis in de Golf van Gascogne mag slechts één soort vistuig aan boord worden gehouden.&nbsp;<br>
+&nbsp;&nbsp; &nbsp;<br>
+§6. Het is verboden gemengde visreizen te maken waarbij tijdens eenzelfde visreis de ICES-gebieden VIIIa en b worden gecombineerd met vissen in andere ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§7. Bij niet-naleving van paragraaf 1 of paragraaf 2, wordt het maximale aantal vaartdagen vermeld in artikel 12 van het betrokken vissersvaartuig verminderd met 10 dagen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Daarnaast is het verboden voor de vissersvaartuigen vermeld in het eerste lid, om gedurende het jaar 2027 aanwezig te zijn in de ICES-gebieden VIIIa en b.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§8. Het de-minimisquotum voor tong in de ICES-gebieden VIIIa en b wordt vastgelegd op 9750 kg tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden VIIIa en b vastgelegd op maximaal 8% van de tijdens de visreis reeds gerealiseerde tongvangst in het gebied in kwestie.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§9. Het aantal vaartuigen dat een “Visvergunning Golf van Gascogne 2026” kan verkrijgen, is beperkt tot negen.<br>
+&nbsp;&nbsp; &nbsp;<br>
+§10. De bevoegde entiteit bezorgt tijdig een gedetailleerd overzicht van de technische bepalingen aan de reders via een rondschijven.
 
-## Hoofdstuk 2. Toewijzing van vangstmogelijkheden per visreis
+## Hoofdstuk 2. Toewijzing van vangstmogelijkheden per visreis of volgens motorvermogen
 
 ## Afdeling 1. Tong – ICES-gebieden VIIa, VIId, VIIe
 
 ### ART 20.
 
-§1. In de periode 1 januari 2026 tot en met 30 juni 2026 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 9 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
+§1. In de periode 1 januari 2026 tot en met 30 juni 2026 is het in het ICES-gebied VIIa voor een vaartuig van het GVS verboden een totale tongvangst te realiseren die groter is dan 11 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
 §2. Het de-minimisquotum voor tong in het ICES-gebied VIId bedraagt 3% van het tongquotum in het ICES-gebied VIId. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5% van de reeds in de betrokken visreis gerealiseerde tongvangst in het desbetreffende ICES-gebied. Bij uitputting van het de-minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de-minimis voor tong afkomstig uit het desbetreffende ICES-gebied.<br>
 &nbsp;&nbsp; &nbsp;<br>
