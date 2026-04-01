@@ -184,6 +184,12 @@ De organisator die op het moment van de aanvraag gelijktijdig een aanvraag   ind
 
 De organisator die wijzigt van rechtsvorm, maar in feite niets wijzigt aan   de organisatie en aan de personen die instaan voor de organisatie :<BR>1° hoeft   de documenten, vermeld in artikel 9 van dit besluit, niet te bezorgen;<BR>2°   hoeft de reeds toegekende afwijkingen infrastructuur, brandveiligheid, of   organisatorisch beheer niet opnieuw aan te vragen op voorwaarde dat hij de   beslissing over de afwijking naleeft;<BR>3° hoeft niet te voldoen aan de   startvoorwaarde, vermeld in artikel 3 van het Vergunningsbesluit van 22 november   2013.
 
+## Afdeling 2/2. Aanvraag van een vergunning bij de wijziging van de vestigingsplaats van de kinderopvanglocatie
+
+### ART 13/3.
+
+De organisator die een aanvraag indient voor een vergunning naar aanleiding van de wijziging van de vestigingsplaats van de kinderopvanglocatie, vermeld in artikel 5, eerste lid, 2°, van het decreet van 20 april 2012, hoeft de documenten, vermeld in artikel 9, 1°, 2° en 4°, van dit besluit, niet te bezorgen.
+
 ## Afdeling 3 Ontvankelijkheid van de aanvraag van een vergunning
 
 ### ART. 14.
@@ -401,13 +407,13 @@ Zorginspectie bezorgt het verslag over de infrastructuur met advies   uiterlijk 
 
 ### ART. 44.
 
-<p>§ 1. De aanvraag tot afwijking als vermeld in artikel 63, eerste lid, 1° tot en met 3° , van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat:<br>
+<p>§ 1. De aanvraag tot afwijking als vermeld in artikel 63, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het aanvraagformulier van het agentschap, dat de volgende gegevens bevat:<br>
 1° de identificatiegegevens en de contactgegevens van de organisator;<br>
 2° de naam en het adres van de kinderopvanglocatie;<br>
 3° het dossiernummer;<br>
 4° de vergunningsvoorwaarden waarvoor een afwijking wordt gevraagd;<br>
-5° de motivatie waarom een afwijking wordt gevraagd;<br>
-6° de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<br>
+5° de motivatie waarom een afwijking wordt gevraagd, waarin de organisator aantoont dat hij de veiligheid en de kwaliteit voldoende waarborgt en de afwijking verantwoord is door een bijsturing van de werking vanuit zijn beleidsvoerend vermogen, vermeld in artikel 13/0 van het Vergunningsbesluit van 22 november 2013, en door een risicoanalyse die een gezonde en veilige omgeving garandeert als vermeld in artikel 24 van het Vergunningsbesluit van 22 november 2013;<br>
+6° de maatregelen die de organisator treft om de veiligheid en de kwaliteit voldoende te waarborgen, rekening houdend met de bepalingen, vermeld in artikel 13/0 en 24 van het Vergunningsbesluit van 22 november 2013;<br>
 7° de datum en de handtekening van de organisator.</p>
 
 <p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator de volgende documenten, met de post of elektronisch, die de gegevens, vermeld in het eerste lid, aantonen :<br>
@@ -421,7 +427,7 @@ c) de eventuele andere aanwezige lokalen met vermelding van de functie ervan;<br
 
 <p>Het agentschap bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
 
-<p>§ 2. De aanvraag tot afwijking als vermeld in artikel 63, eerste lid, 4°, van het Vergunningsbesluit van 22 november 2013, wordt ingediend bij de technische commissie met het aanvraagformulier van de technische commissie, dat de volgende gegevens bevat:<br>
+<p>§ 2. De aanvraag tot afwijking als vermeld in artikel 63, eerste lid, 2°, van het Vergunningsbesluit van 22 november 2013, wordt ingediend bij de technische commissie met het aanvraagformulier van de technische commissie, dat de volgende gegevens bevat:<br>
 1° de identificatiegegevens en de contactgegevens van de organisator;<br>
 2° de naam, het adres en het aantal kinderopvangplaatsen van de kinderopvanglocatie;<br>
 3° de omschrijving van de kinderopvanglocatie waarvoor een afwijking gevraagd wordt;<br>
@@ -588,8 +594,8 @@ In het tweede lid, 8°, wordt verstaan onder de omschakeling van een bestaande k
 <br>
 In het beslissingskader, vermeld in het tweede lid, 14°, bepaalt het agentschap de criteria aan de hand waarvan het agentschap, naargelang de principes van de algemene oproep, per geografisch gebied, als de geografische gebieden gerangschikt worden, of over de geografische gebieden heen de verschillende subsidieaanvragen op een objectieve wijze beoordeelt en rangschikt om te beslissen welke aanvragen een subsidiebelofte krijgen. Dat beslissingskader kan ontvankelijkheidscriteria, uitsluitingscriteria, voorrangscriteria en inhoudelijke vergelijkingscriteria bevatten. De criteria die het agentschap bepaalt, resulteren erin dat de subsidiebeloftes toegekend worden aan de aanvragen die de beste beoordeling krijgen op de criteria die betrekking hebben op een of meer van de volgende kenmerken:<br>
 1° de duurzaamheid van de organisator en de kinderopvanglocatie;<br>
-2° het beleidsvoerende vermogen van de organisator, waaronder de financiële en bestuurlijke weerbaarheid en transparantie en het organisatorische management van de organisator in het algemeen;<br>
-3° het medewerkersbeleid;<br>
+2° een of meer aspecten van het beleidsvoerend vermogen van de organisator, vermeld in artikel 13/0 van Vergunningsbesluit van 22 november 2013;”;<br>
+3° de financiële en bestuurlijke weerbaarheid en transparantie, vermeld in artikel 4 van het Subsidiebesluit van 22 november 2013;<br>
 4° de wijze van uitvoering van de specifieke dienstverlening in het kader van de te verdelen subsidie;<br>
 5° het netwerk van de organisator in het kader van de kinderopvangactiviteiten en de samenwerking met andere relevante actoren;<br>
 6° de lokale meerwaarde en relevantie van de aanvraag op basis van een gemotiveerd negatief of positief advies met een score van het lokaal bestuur waarbij het lokaal bestuur een procedure en criteria hanteert als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang. De criteria van het lokaal bestuur zijn andere criteria dan degene die het agentschap in de algemene oproep hanteert;<br>
@@ -601,19 +607,7 @@ Het agentschap kan geen algemene oproep versturen voordat de minister het goedke
 
 ### ART. 58.
 
-Conform het tweede tot en met het vierde lid kent het agentschap een subsidiebelofte toe voor de basissubsidie voor een kinderopvangplaats waarvoor de organisator het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, toepast of zal toepassen.<br>
-<br>
-Als er budget is om de basissubsidie voor kinderopvangplaatsen waarvoor de organisator het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, toepast of zal toepassen, toe te kennen, doet het agentschap een algemene oproep bij kandidaten om een aanvraag van een subsidiebelofte voor de basissubsidie in te dienen.<br>
-<br>
-De algemene oproep van het agentschap, vermeld in het tweede lid, bevat al de volgende gegevens:<br>
-1° het subsidiebudget dat bestemd is om kinderopvangplaatsen, waarvoor de organisator met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013, werkt of zal werken, een basissubsidie toe te kennen, en vanaf wanneer het subsidiebudget beschikbaar is;<br>
-2° de voorafname van het budget voor de grootsteden Antwerpen, het tweetalige gebied Brussel-hoofdstad en Gent. Tot 31 december 2024 gelden volgende percentages:<br>
-a) 15% voor Antwerpen;<br>
-b) 10% voor het tweetalige gebied Brussel-hoofdstad;<br>
-c) 5% voor Gent;<br>
-3° de gegevens, vermeld in artikel 57, § 3, tweede lid, 1°, 6°, 9°, 11°, 12°, 13° en 14°, van dit besluit.<br>
-<br>
-De algemene oproep vindt plaats conform artikel 57, § 4.
+...
 
 ### ART 58/1.
 
@@ -654,8 +648,8 @@ c) voor welk geografisch gebied de subsidie gevraagd wordt;<br>
 d) het gevraagde aantal subsidieerbare kinderopvangplaatsen;<br>
 5° de gegevens over de wijze waarop de organisator de geplande realisatie van de gevraagde subsidie zal doen:<br>
 a) als dat relevant is: de naam en het adres van de kinderopvanglocatie;<br>
-b) voor de verdeling van subsidiebeloftes naar aanleiding van een algemene oproep als vermeld in artikel 57 of 58, de gegevens waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57 of&nbsp;58;<br>
-c) voor de subsidiebelofte voor de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt of zal werken, en die is aangevraagd conform artikel 61, tweede lid: de gegevens waaruit blijkt op welke manier de organisator tegen de gewenste startdatum een vergunning zal hebben en kan voldoen aan de subsidievoorwaarden;<br>
+b) voor de verdeling van subsidiebeloftes naar aanleiding van een algemene oproep als vermeld in artikel 57, de gegevens waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57;<br>
+c) voor de subsidiebelofte voor de basissubsidie: de gegevens waaruit blijkt op welke manier de organisator tegen de gewenste startdatum een vergunning zal hebben en kan voldoen aan de subsidievoorwaarden;<br>
 6° een verklaring op erewoord over:<br>
 a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
@@ -678,13 +672,13 @@ b)&nbsp;&nbsp; &nbsp;het akkoord van de betrokken kinderbegeleiders om als werkn
 
 ### ART. 60.
 
-Naast het aanvraagformulier, vermeld in artikel 59, bezorgt de organisator de documenten waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57 of 58, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap.
+Naast het aanvraagformulier, vermeld in artikel 59, bezorgt de organisator de documenten waaruit blijkt dat voldaan is aan de bepalingen van de algemene oproep, vermeld in artikel 57 of 58/1, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap.
 
 ### ART. 61.
 
-De aanvraag in het kader van een algemene oproep als vermeld in artikel 57 of 58, wordt ingediend binnen de in de algemene oproep vastgelegde termijn, vermeld in artikel 58.<br>
+De aanvraag in het kader van een algemene oproep als vermeld in artikel 57 of 58/1, wordt ingediend binnen de in de algemene oproep vastgelegde termijn.<br>
 <br>
-De aanvraag van de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt, kan op elk moment ingediend worden als er nog budget beschikbaar is. Het agentschap behandelt die aanvragen in de volgorde waarin ze ontvangen worden.
+De aanvraag van de basissubsidie kan op elk moment ingediend worden als er nog budget beschikbaar is. Het agentschap behandelt die aanvragen in de volgorde waarin ze ontvangen worden.
 
 ### ART. 62.
 
@@ -758,13 +752,13 @@ Het agentschap kan tijdens de termijn, vermeld in artikel 70, bijkomende gegeven
 
 ### ART 71/1.
 
-Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte voor de basissubsidie voor kinderopvangplaatsen waarvoor de organisator met een vrije prijs werkt of zal werken, uiterlijk zestig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag, vermeld in artikel 66.<br>
+Het agentschap beslist over de gegrondheid van de aanvraag van een subsidiebelofte voor de basissubsidie, vermeld in artikel 61, tweede lid,&nbsp;uiterlijk zestig kalenderdagen na de datum van de beslissing over de ontvankelijkheid van de aanvraag, vermeld in artikel 66.<br>
 <br>
 Het agentschap kan de subsidiebelofte toekennen binnen de perken van het beschikbare budget. Als er geen budget meer beschikbaar is, informeert het agentschap onmiddellijk alle organisatoren daarover schriftelijk en via de website.
 
 ### ART. 72.
 
-&nbsp;De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een subsidiebelofte voor een programmatiesubsidie of basissubsidie bevat minstens de volgende gegevens:<br>
+De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een subsidiebelofte voor een programmatiesubsidie of basissubsidie bevat minstens de volgende gegevens:<br>
 1° de naam en het ondernemingsnummer van de organisator;<br>
 2° de beslissing, met inbegrip van de rechtsgronden;<br>
 3° in geval van toekenning of gedeeltelijke toekenning:<br>
@@ -775,7 +769,7 @@ d) de vermelding dat de subsidiebelofte gedeeltelijk of volledig kan worden stop
 e) de mogelijkheid en de modaliteiten om een verlenging van de subsidiebelofte te vragen;<br>
 f) in geval van groepsopvang: in welke kinderopvanglocatie de subsidieerbare plaatsen eerst gerealiseerd moeten worden;<br>
 g) in geval van gezinsopvang: in welke gemeente de subsidieerbare plaatsen eerst gerealiseerd moeten worden.<br>
-h) de vermelding dat de subsidiebelofte niet omgezet kan worden in een subsidietoekenning als de organisator niet voldoet aan de criteria in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en vierde lid, of artikel 58, derde lid, 3°, op basis waarvan zijn aanvraag is beoordeeld en gerangschikt;<br>
+h) de vermelding dat de subsidiebelofte niet omgezet kan worden in een subsidietoekenning als de organisator niet voldoet aan de criteria in het beslissingskader, vermeld in artikel 57, § 3, tweede lid, 14°, en vierde lid, op basis waarvan zijn aanvraag is beoordeeld en gerangschikt;<br>
 4° in geval van gedeeltelijke toekenning of weigering: de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
 5° in geval van weigering van de subsidiebelofte: de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidie toegekend kan worden;<br>
 6° de datum van de beslissing en de elektronische handtekening van het agentschap.<br>
@@ -1164,7 +1158,7 @@ Het agentschap bezorgt op de volgende wijze de beslissing over de uitbetaling va
 
 <p>Het agentschap bezorgt uiterlijk vijftien kalenderdagen na de datum van de ontvangst van de melding de bevestiging van de stopzetting en de gevolgen ervan, meer bepaald dat er geen subsidie meer zal worden uitbetaald, aan de organisator elektronisch en met een aangetekende brief.</p>
 
-<p>In elk geval kan een stopzetting van een subsidie pas ingaan op de eerste dag van de maand die volgt op de melding daarvan aan het agentschap, tenzij de vergunning gelijktijdig wordt stopgezet.</p>
+<p>De stopzetting van een subsidie gaat in op de gemelde stopzettingsdatum.</p>
 
 <p>De organisator die zijn subsidie voor werken met inkomenstarief wil stopzetten, voorziet in een redelijke overgangsperiode voor de gezinnen. Bij gebrek daaraan kan het agentschap beslissen tot terugvordering van de betaalde subsidie, vermeld in het Subsidiebesluit van 22 november 2013. De organisator neemt daarover de nodige bepalingen op in de schriftelijke overeenkomst en het huishoudelijk reglement.</p>
 
@@ -1187,6 +1181,61 @@ De stopzetting van de subsidie, vermeld in het eerste lid, gaat in op de eerste 
 Het agentschap bezorgt de bevestiging van de stopzetting van de subsidie, vermeld in het eerste lid, aan de organisator.<br>
 <br>
 De minister bepaalt welke gegevens de organisator elk kwartaal moet bezorgen.
+
+### ART 107/3.
+
+Als de organisator de voorwaarde, vermeld in artikel 16, eerste lid, van het Subsidiebesluit van 22 november 2013, gedurende twee opeenvolgende volledige kalenderjaren niet realiseert, wordt een aantal subsidieerbare kinderopvangplaatsen met de basissubsidie, vermeld in artikel 1, 1°/1 van het Subsidiebesluit van 22 november 2013, van rechtswege stopgezet.<br>
+<br>
+De stopzetting, vermeld in het eerste lid, gebeurt op de volgende wijze:<br>
+1°&nbsp;&nbsp; &nbsp;het aantal subsidieerbare kinderopvangplaatsen in de subsidiegroep in kwestie wordt stopgezet dat nodig is om ervoor te zorgen dat de voorwaarde, vermeld in artikel 16, eerste lid, van het Subsidiebesluit van 22 november 2013, in het meest recente kalenderjaar wel gerealiseerd zou zijn;<br>
+2°&nbsp;&nbsp; &nbsp;als de stopzetting van het aantal subsidieerbare kinderopvangplaatsen tot gevolg heeft dat het aantal subsidieerbare kinderopvangplaatsen met basissubsidie lager wordt dan het aantal subsidieerbare kinderopvangplaatsen met de subsidie voor inkomenstarief en de plussubsidie, worden ook die plaatsen stopgezet conform artikel 7, 2°, a), van het Subsidiebesluit van 22 november 2013;<br>
+3°&nbsp;&nbsp; &nbsp;de stopzetting gaat in op 1 april van het kalenderjaar dat volgt op de twee kalenderjaren waarin de voorwaarde niet is gerealiseerd.<br>
+<br>
+Het agentschap bezorgt de bevestiging van de stopzetting, vermeld in het eerste en tweede lid, en de gevolgen ervan, namelijk dat er geen subsidie meer wordt uitbetaald voor de stopgezette subsidieerbare kinderopvangplaatsen, elektronisch en met een aangetekende brief.
+
+### ART 107/4.
+
+Als de organisator de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, gedurende twee opeenvolgende volledige kalenderjaren niet realiseert, wordt een aantal subsidieerbare kinderopvangplaatsen met de subsidie voor inkomenstarief, vermeld in artikel 1, 17°, van het Subsidiebesluit van 22 november 2013, van rechtswege stopgezet.<br>
+<br>
+De stopzetting, vermeld in het eerste lid, gebeurt op de volgende wijze:<br>
+1°&nbsp;&nbsp; &nbsp;het aantal subsidieerbare kinderopvangplaatsen in de subsidiegroep in kwestie wordt stopgezet dat nodig is om ervoor te zorgen dat de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in het meest recente kalenderjaar wel bereikt zou zijn;<br>
+2°&nbsp;&nbsp; &nbsp;als de stopzetting van het aantal subsidieerbare kinderopvangplaatsen tot gevolg heeft dat het aantal subsidieerbare kinderopvangplaatsen met subsidie voor inkomenstarief lager wordt dan het aantal subsidieerbare kinderopvangplaatsen met de plussubsidie, worden ook die plaatsen stopgezet conform artikel 7, 2°, b), van het Subsidiebesluit van 22 november 2013;<br>
+3°&nbsp;&nbsp; &nbsp;de stopzetting gaat in op 1 april van het kalenderjaar dat volgt op de twee kalenderjaren waarin de voorwaarde niet is gerealiseerd.<br>
+<br>
+Het agentschap bezorgt de bevestiging van de stopzetting, vermeld in het eerste en tweede lid, en de gevolgen ervan, namelijk dat er geen subsidie meer wordt uitbetaald voor de stopgezette subsidieerbare kinderopvangplaatsen, elektronisch en met een aangetekende brief.
+
+## TITEL 3/1 Eenmalige forfaitaire vergoeding
+
+### ART 107/5.
+
+De aanvraag van een eenmalige forfaitaire vergoeding als vermeld in artikel 19, achtste lid, van het decreet van 20 april 2012 en artikel 27 van het Handhavingsbesluit Baby’s en Peuters van 13 februari 2026, wordt ingediend met het aanvraagformulier dat het agentschap ter beschikking stelt. Het aanvraagformulier bevat de volgende gegevens:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de naam en het ondernemingsnummer van de organisator;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en het dossiernummer van de locatie die is geschorst;<br>
+3°&nbsp;&nbsp; &nbsp;het aantal openingsdagen dat is opgenomen in het huishoudelijk reglement, tijdens de geschorste periode;<br>
+4°&nbsp;&nbsp; &nbsp;een motivering dat de ernstige gebeurtenis te wijten is aan een oorzaak die volledig buiten de organisator of de medewerkers ligt;<br>
+5°&nbsp;&nbsp; &nbsp;de bedragen van de tegemoetkoming die de organisator heeft ontvangen, of zal ontvangen van een andere overheid, naar aanleiding van de schorsing;<br>
+6°&nbsp;&nbsp; &nbsp;de datum en de handtekening van de organisator.<br>
+<br>
+Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator, met de post of elektronisch, volgens de administratieve richtlijnen van het agentschap, de bewijsstukken die aantonen dat de ernstige gebeurtenis te wijten is aan een oorzaak die volledig buiten de organisator of de medewerkers ligt.<br>
+<br>
+De organisator kan de aanvraag ten vroegste indienen na de stopzetting van de schorsing. Per schorsing kan maar één aanvraag ingediend worden.
+
+### ART 107/6.
+
+Het agentschap beslist over de gegrondheid van de aanvraag van de eenmalige forfaitaire vergoeding, vermeld in artikel 107/5, uiterlijk zestig kalenderdagen na de datum waarop het agentschap de aanvraag heeft ontvangen.<br>
+<br>
+De beslissing tot toekenning, gedeeltelijke toekenning of weigering van de eenmalige forfaitaire vergoeding bevat al de volgende gegevens:<br>
+1°&nbsp;&nbsp; &nbsp;de naam en het ondernemingsnummer van de organisator;<br>
+2°&nbsp;&nbsp; &nbsp;de naam en het dossiernummer van de kinderopvanglocatie;<br>
+3°&nbsp;&nbsp; &nbsp;de beslissing, met inbegrip van de rechtsgronden;<br>
+4°&nbsp;&nbsp; &nbsp;de mogelijkheid om beroep aan te tekenen bij de Raad van State en de wijze waarop dat moet gebeuren;<br>
+5°&nbsp;&nbsp; &nbsp;de datum van de beslissing en de elektronische handtekening van het agentschap.
+
+### ART 107/7.
+
+Het agentschap bezorgt op de volgende wijze de beslissing, vermeld in artikel 107/5, aan de organisator, uiterlijk vijftien kalenderdagen na de datum van de beslissing:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;in geval van toekenning: elektronisch;<br>
+2°&nbsp;&nbsp; &nbsp;in geval van weigering of gedeeltelijke toekenning: elektronisch en met een aangetekende zending.
 
 ## TITEL 4 Bezwaar tegen de beslissing van [het agentschap (verv. BVR 12 maart 2021, art. 212, I: 18 april 2019)] tot weigering
 
@@ -1270,11 +1319,13 @@ Het agentschap stopt met de tussenkomst als uitbetalingsinstelling in de volgend
 
 Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van kinderopvang is, samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, zet het agentschap de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Het agentschap kent dan nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
 <br>
+In afwijking van het eerste lid zet het agentschap een vergunning, een subsidiebelofte en een subsidietoekenning niet stop van een gemeente of een OCMW waarvan het ondernemingsnummer blijft bestaan in geval van een fusie met behoud van rechtspersoonlijkheid. De vergunningen, de subsidiebeloftes en de subsidietoekenningen van de andere gemeenten of OCMW’s die deel uitmaken van de samenvoeging van de gemeenten, worden met hetzelfde voorwerp als vóór de samenvoeging toegekend aan de gemeente of het OCMW die zijn rechtspersoonlijkheid behoudt in het kader van de samenvoeging.<br>
+<br>
 Het agentschap telt de subsidieerbare kinderopvangplaatsen groepsopvang of gezinsopvang van de samengevoegde gemeenten die vóór de samenvoeging tot verschillende subsidiegroepen groepsopvang of gezinsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang of gezinsopvang behoren, samen.<br>
 <br>
-De procedures voor een samengevoegde gemeente of een samengevoegd OCMW op basis van het Handhavingsbesluit Baby's en Peuters van 11 december 2015 kunnen voortgezet worden voor de nieuwe gemeente of het nieuwe OCMW.<br>
+De procedures voor een samengevoegde gemeente of een samengevoegd OCMW op basis van het Handhavingsbesluit Baby's en Peuters van 13 februari 2026 kunnen voortgezet worden voor de nieuwe gemeente, het nieuwe OCMW of voor de gemeente of het OCMW die zijn rechtspersoonlijkheid behoudt.<br>
 <br>
-Het agentschap bezorgt de nieuwe gemeente en het OCMW automatisch de nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen.
+Het agentschap bezorgt de nieuwe gemeente, het nieuwe OCMW of de gemeente of het OCMW die zijn rechtspersoonlijkheid behoudt, automatisch de nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen.
 
 ### ART 112/8.
 
@@ -1302,47 +1353,33 @@ Als de samenvoeging van gemeenten niet ingaat op 1 januari van een kalenderjaar,
 
 ## HOOFDSTUK 1 Overgangsbepalingen
 
-## Afdeling 1 Omzetting van lopende procedures
+## Afdeling 1 ...
 
 ### ART. 113.
 
-<p>De procedures tot het verkrijgen van een attest van toezicht die al lopen op de datum van de inwerkingtreding van het decreet van 20 april 2012, worden automatisch omgezet in een procedure tot toekenning van een vergunning.</p>
-
-<p>In het geval, vermeld in het eerste lid, brengt Zorginspectie op verzoek van het agentschap een bezoek aan de kinderopvanglocatie om na te gaan of de organisator voldoet aan de voorwaarden, vermeld in artikel 3 van het Vergunningsbesluit van 22 november 2013. Zorginspectie maakt daarvan vervolgens een verslag op met een advies.</p>
-
-<p>Het agentschap neemt op basis van het advies, vermeld in het tweede lid, en op basis van de andere startvoorwaarden een beslissing. Als een vergunning wordt toegekend, zal die worden toegekend met ingang van 1 april 2014.</p>
+<p>...</p>
 
 ### ART. 114.
 
-<p>De aanvragen tot het verkrijgen van de financiële basisondersteuning of een financiële ondersteuning voor flexibele opvang, op basis van het besluit van de Vlaamse Regering van 13 februari 2009 houdende de voorwaarden inzake financiële ondersteuning van zelfstandige opvangvoorzieningen, die voor 15 maart 2014 zijn ingediend bij het agentschap, en waarover op de datum van de inwerkingtreding van het decreet van 20 april 2012 geen beslissing genomen is door het agentschap, zullen na de inwerkingtreding van het decreet van 20 april 2012 verder worden behandeld en beoordeeld op basis van de geldende regelgeving van voor de inwerkingtreding van het decreet van 20 april 2012.</p>
-
-<p>Als de financiële ondersteuning wordt toegekend, wordt die retroactief toegekend conform het besluit van de Vlaamse Regering, vermeld in het eerste lid.</p>
-
-<p>De aanvragen tot het verkrijgen van de financiële basisondersteuning of een financiële ondersteuning voor flexibele opvang, op basis van het besluit van de Vlaamse Regering, vermeld in het eerste lid, die na 15 maart 2014 zijn ingediend, zullen worden behandeld op basis van de bepalingen, vermeld in dit besluit, zodra de minister budget ter beschikking stelt.</p>
+<p>...</p>
 
 ### ART. 115.
 
-<p>De procedures tot het verkrijgen van een subsidie na een principiële goedkeuring inkomensgerelateerde kinderopvang of een principieel akkoord voor een erkenning die al lopen op de datum van de inwerkingtreding van het decreet van 20 april 2012, worden automatisch omgezet in een procedure tot toekenning van een subsidie na een subsidiebelofte als vermeld in artikel 95 tot en met 104.</p>
-
-<p>Als het agentschap bijkomende informatie nodig heeft voor de behandeling van de aanvraag, wordt dat meegedeeld aan de organisator en worden de lopende termijnen voor een maximale termijn van dertig kalenderdagen geschorst vanaf die kennisgeving.</p>
+<p>...</p>
 
 ### ART. 116.
 
-<P>De procedures tot het verkrijgen van een subsidie voor individuele inclusieve   kinderopvang die al lopen op de datum van de inwerkingtreding van het decreet   van 20 april 2012, worden automatisch omgezet in een procedure tot toekenning   van een subsidie voor individuele inclusieve kinderopvang als vermeld in artikel   92 tot en met 106.<BR></P>  <P>Als Kind en Gezin bijkomende informatie nodig heeft voor de behandeling van   de aanvraag, wordt dat meegedeeld aan de organisator en worden de lopende   termijnen voor een maximale termijn van dertig kalenderdagen geschorst vanaf die   kennisgeving.<BR></P>
+<p>...</p>
 
 ### ART. 117.
 
-<p>De procedures tot het verkrijgen van een erkenning of toestemming die al lopen op de datum van de inwerkingtreding van het decreet van 20 april 2012, worden automatisch omgezet in enerzijds een procedure tot het verkrijgen van een vergunning als vermeld in artikel 14 tot en met 24, en anderzijds een procedure tot toekenning van een subsidie na een subsidiebelofte als vermeld in artikel 95 tot en met 104.</p>
+<p>...</p>
 
-<p>Voor de procedure tot toekenning van een vergunning geldt de overgangsregeling, vermeld in artikel 113.</p>
-
-<p>Voor de procedure tot toekenning van een subsidie na een subsidiebelofte geldt de overgangsregeling, vermeld in artikel 115.</p>
-
-## Afdeling 2 Omzetting van een bestaande principiële goedkeuring voor inkomensgerelateerde kinderopvang of van een principieel akkoord voor erkende plaatsen
+## Afdeling 2 ...
 
 ### ART. 118.
 
-Voor de organisatoren die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een principiële goedkeuring inkomensgerelateerde kinderopvang of een principieel akkoord voor erkende plaatsen hebben van het agentschap, wordt die goedkeuring of dat akkoord automatisch omgezet in een subsidiebelofte van het agentschap. De subsidiebelofte heeft betrekking op hetzelfde aantal kinderopvangplaatsen dat in aanmerking komt voor een toekenning van subsidie binnen dezelfde subsidiegroep. De initiële geldigheidsduur van de principiële goedkeuring of het principieel akkoord loopt door en start niet opnieuw bij de omzetting.
+...
 
 ## Afdeling 3 Bestaande organisatoren
 
@@ -1356,31 +1393,27 @@ De erkenningen of attesten van toezicht van een organisator voor dezelfde   kind
 
 ### ART. 121.
 
-De organisator die op de datum van de inwerkingtreding van het decreet van   20 april 2012 een subsidie ontvangt als Centrum inclusieve kinderopvang of een   subsidie voor structurele inclusieve kinderopvang, moet voor de kinderen met een   specifieke zorgbehoefte die al opgevangen worden in de kinderopvanglocatie voor   1 april 2014, geen afzonderlijke aanvraag voor individuele inclusieve   kinderopvang indienen.<BR>
+...
 
 ### ART. 122.
 
-<p>De organisator die voor de inwerkingtreding van het decreet van 20 april 2012 een erkenning heeft als kinderdagverblijf of als dienst voor onthaalouders en van wie de subsidieerbare kinderopvangplaatsen voor 1 april 2014 verminderd zijn omdat een te lage bezetting behaald is, ontvangt van het agentschap na de inwerkingtreding van het decreet van 20 april 2012 een subsidiebelofte voor één jaar voor hetzelfde aantal subsidieerbare kinderopvangplaatsen dat verminderd is en waarvoor de organisator een geldig voorbehoud heeft.</p>
-
-<p>In afwijking van het eerste lid, is de subsidiebelofte slechts drie maanden geldig als het bestaande voorbehoud geldig is tot en met 1 april 2014.</p>
-
-<p>De subsidiebelofte, vermeld in het eerste en het tweede lid, zijn niet verlengbaar.</p>
+<p>...</p>
 
 ### ART 122/1.
 
-Tot en met 31 maart 2026 wordt voor de toekenning van de basissubsidie voor kinderopvangplaatsen die voor 1 april 2021 vergund zijn en waarvoor de organisator met een vrije prijs werkt, geen subsidiebelofte toegekend volgens de procedure als vermeld in artikel 61, tweede lid, maar wordt de subsidiebelofte toegekend na een algemene oproep als vermeld in artikel 58.
+...
 
-## Afdeling 4 Nieuwe aanvragen
+## Afdeling 4 ...
 
 ### ART. 123.
 
-Vanaf de inwerkingtreding van het decreet van 20 april 2012 geldt een   overgangsperiode van twee jaar voor de organisator die minstens twaalf   vergunningen heeft om te voldoen aan de voorwaarde, vermeld in artikel 10, 1°,   met betrekking tot de verklaring op erewoord over het attest   draagkracht.<BR>
+...
 
-## Afdeling 5 Hangende bezwaren of beroepen
+## Afdeling 5 ...
 
 ### ART. 124.
 
-De beroepen of bezwaren die voor 1 april 2014 ingediend zijn bij het agentschap, worden verder behandeld met toepassing van de regels die van kracht waren bij de indiening.
+...
 
 ## HOOFDSTUK 2 Inwerkingtredingsbepaling en uitvoeringbepaling
 
