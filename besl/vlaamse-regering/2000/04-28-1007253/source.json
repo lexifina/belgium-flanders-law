@@ -2,16 +2,16 @@
   "codex_id": 1007253,
   "title": "Besluit van de Vlaamse Regering van 2000-04-28 betreffende de administratieve geldboete voor het overtreden van een [...] stakingsbevel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007253/VolledigDocument?datum=2023-01-01",
-  "source_sha256": "fce053fa0156c1bd0dd51df268e12257bae66deeafb138b0dee14837c69a6d35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007253/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "dedf234e55dde289583124565393f2c6443940da11dad74d4cfd3fa1ad65f2b8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007253&param=informatie",
-  "as_of": "2023-01-01",
+  "as_of": "2026-04-01",
   "made": "2000-04-28",
   "gazette": "2000-05-13",
   "numac": 2000035454,
   "document_start": "2000-05-01",
   "document_end": "2026-03-31",
-  "in_force": "2023-01-01",
+  "in_force": "2026-04-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2023-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-01; future article versions excluded; article text as the API gives it"
 }
