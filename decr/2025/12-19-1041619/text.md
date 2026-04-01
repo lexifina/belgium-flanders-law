@@ -1921,6 +1921,18 @@ Aan artikel 45, §2, van het decreet van 18 december 2015 houdende bepalingen to
 
 ## Afdeling 5. Opheffing van de vermindering van de socialezekerheidsbijdragen verschuldigd voor de kunstenaars
 
+### ART 129.
+
+In artikel 332, vierde lid, van de programmawet (I) van 24 december 2002, ingevoegd door de wet van 24 april 2014, wordt de zinsnede “, 353bis/13” opgeheven.
+
+### ART 130.
+
+In artikel 337, derde lid, van dezelfde wet, ingevoegd door de wet van 24 april 2014, wordt de zinsnede “, 353bis/13” opgeheven.
+
+### ART 131.
+
+In titel IV, hoofdstuk 7, afdeling 3, van dezelfde wet, het laatst gewijzigd bij het decreet van 14 januari 2022, wordt onderafdeling 13, die bestaat uit artikel 353bis/13, opgeheven.
+
 ## Afdeling 6. Opheffing van de transitiepremie
 
 ### ART 132.
