@@ -179,233 +179,77 @@ De vergunning legt het aantal vierkante meter van de totale netto handelsoppervl
 
 ## HOOFDSTUK 6 Handhaving van het handelsvestigingsbeleid
 
-## Afdeling 1 Toezichthouders
+## Afdeling 1 ...
 
 ### ART 15.
 
-§ 1. De Vlaamse Regering wijst onder de personeelsleden van het departement en de agentschappen die behoren tot de een van de beleidsdomeinen, vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, toezichthouders aan die toezien op de naleving van de vergunningsplicht voor kleinhandelsactiviteiten en van de voorwaarden van de verstrekte omgevingsvergunningen voor kleinhandelsactiviteiten. Zij worden gewestelijke toezichthouders genoemd.<br>
-<br>
-Personeelsleden van een politiezone die worden aangewezen door het bevoegde orgaan, kunnen eveneens toezichthouder zijn. Zij worden toezichthouders van politiezones genoemd. Zij kunnen enkel toezicht uitoefenen in de gemeenten die behoren tot de politiezone.<br>
-<br>
-De volgende toezichthouders kunnen alleen toezicht uitoefenen op het grondgebied van de gemeente of gemeenten waarvoor ze zijn aangewezen:<br>
-1° gemeentelijke toezichthouders: de personeelsleden van een gemeente die door het college van burgemeester en schepenen worden aangewezen;<br>
-2° intergemeentelijke toezichthouders: de personeelsleden die door het bevoegde orgaan van een intergemeentelijk samenwerkingsverband worden aangewezen.<br>
-<br>
-De toezichthouders oefenen het toezicht onafhankelijk en neutraal uit.<br>
-<br>
-Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door de Vlaamse Regering. Als hij daarom wordt verzocht, toont de toezichthouder zijn legitimatiebewijs onmiddellijk.<br>
-<br>
-§ 2. Bij de vaststelling van een inbreuk omschreven in dit hoofdstuk kunnen de toezichthouders een verslag van vaststelling opstellen.<br>
-<br>
-De toezichthouders bezorgen het verslag van vaststelling onmiddellijk aan de ambtenaar vermeld in artikel 19, eerste lid, alsook verzenden zij een kopie aan de vermoedelijke overtreder binnen een maand.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen voor het verslag van vaststelling.<br>
-<br>
-§ 3. De toezichthouders beschikken over de toezichtrechten vermeld in de artikelen 16.3.10 tot en met 16.3.21 van het decreet van 5 april 1995 houdende algemene bepalingen milieubeleid.<br>
-<br>
-§ 4. Al de toezichthouders kunnen raadgevingen en aanmaningen geven conform de bepalingen van afdeling 2 en de gewestelijke toezichthouders kunnen conform de bepalingen van afdeling 4 bestuurlijke maatregelen opleggen.<br>
-<br>
-§ 5. Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de personeelsleden, vermeld in paragraaf 1, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het tiende lid.<br>
-<br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de personeelsleden, vermeld in paragraaf 1, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
-<br>
-De persoonsgegevens, vermeld in het eerste lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
-<br>
-De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.<br>
-<br>
-Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het eerste lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de personeelsleden, vermeld in paragraaf 1, zou ondermijnen, met behoud van de toepassing van het achtste lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse toezichtcommissie.<br>
-<br>
-Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
-<br>
-Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
+Het kaderdecreet Vlaamse handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 6, 7, 9, 10 en 13, van toepassing op dit hoofdstuk.
 
-## Afdeling 2 Raadgeving en aanmaning
+## Afdeling 2 ...
 
 ### ART 16.
 
-<span style="color: rgb(0, 0, 0);">Als een toezichthouder vaststelt dat een inbreuk omschreven in dit hoofdstuk dreigt te worden gepleegd, kan hij alle raadgevingen geven die hij nuttig acht om dat te voorkomen.</span><br>
-&nbsp;
+De vergunningsplicht, vermeld in artikel 11, niet naleven of handelen in strijd met een omgevingsvergunning voor kleinhandelsactiviteiten is een inbreuk die gesanctioneerd wordt met een bestuurlijke geldboete van minimaal 1200 euro en maximaal 80.000 euro.
 
 ### ART 17.
 
-<span style="color: rgb(0, 0, 0);">Als een toezichthouder een inbreuk omschreven in dit hoofdstuk vaststelt, kan hij de vermoedelijke overtreder aanmanen om de nodige maatregelen te nemen om de inbreuk te beëindigen of een herhaling ervan te voorkomen.</span><br>
-&nbsp;
+§1. De volgende personen zijn een herstelinstantie als vermeld in artikel 2, 15°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023:&nbsp;<br>
+1° &nbsp;&nbsp; &nbsp;de personeelsleden van de bevoegde administratie die de Vlaamse Regering of haar gemachtigde daarvoor aanwijst;<br>
+2° &nbsp;&nbsp; &nbsp;de gemeentelijke personeelsleden die het college van burgemeester en schepenen daarvoor aanwijst, zelfs al zijn ze personeelslid van een andere gemeente;<br>
+3° &nbsp;&nbsp; &nbsp;de personeelsleden van een intergemeentelijk samenwerkingsverband die het intergemeentelijk samenwerkingsverband daarvoor aanwijst;<br>
+4° &nbsp;&nbsp; &nbsp;de burgemeester of zijn plaatsvervanger.<br>
+<br>
+De Vlaamse Regering kan opleidings- en ervaringsvereisten en andere voor-waarden bepalen waaraan categorieën van herstelinstanties moeten voldoen, en hun bevoegdheden inhoudelijk, geografisch of temporeel beperken.<br>
+<br>
+§2. De Vlaamse Regering of haar gemachtigde duidt de personeelsleden van de Vlaamse overheid aan die optreden als beboetingsinstantie als vermeld in artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.
 
-## Afdeling 3 Bestuurlijke handhaving
+## Afdeling 3 ...
 
 ### ART 18.
 
-<span style="color: rgb(0, 0, 0);">Een exclusieve bestuurlijke geldboete kan worden opgelegd aan eenieder die de vergunningsplicht, vermeld in artikel 11, miskent, of die handelt in strijd met de omgevingsvergunning voor kleinhandelsactiviteiten. Als overtreder wordt beschouwd degene die de inbreuk heeft gepleegd, alsook diegene die de opdracht heeft gegeven om handelingen te stellen die een inbreuk uitmaken.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Een exclusieve bestuurlijke geldboete kan ook worden opgelegd in geval van het voortzetten van kleinhandelsactiviteiten in strijd met een bevel tot staking, vermeld in artikel 23, de bekrachtigingsbeslissing ervan of, in voorkomend geval, de beschikking in kort geding.</span><br>
-&nbsp;
+...
 
 ### ART 19.
 
-<span style="color: rgb(0, 0, 0);">Een exclusieve bestuurlijke geldboete is een sanctie waarbij de daartoe door de Vlaamse Regering aangestelde ambtenaar van de bevoegde administratie een overtreder ertoe verplicht een geldsom te betalen.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering bepaalt de hoogte van het bedrag in verhouding tot de aard, de omvang en de ernst van de inbreuk. Er wordt ook rekening gehouden met de frequentie en de omstandigheden waarin de overtreder de schending heeft gepleegd of beëindigd. De exclusieve bestuurlijke geldboete bedraagt maximaal 10.000 euro.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De opdeciemen bedoeld in artikel 1, eerste lid, van de wet van 5 maart 1952 betreffende de opdeciemen op strafrechtelijke geldboeten zijn eveneens van toepassing op de exclusieve bestuurlijke geldboeten bedoeld bij dit decreet.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De ambtenaar, vermeld in artikel 19, eerste lid, maakt in zijn beslissing melding van de vermenigvuldiging ingevolge de voormelde wet van 5 maart 1952 en vermeldt het getal dat het gevolg is van deze verhoging.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Samen met de exclusieve bestuurlijke geldboete kan een voordeelontneming worden opgelegd. Een voordeelontneming is een sanctie waarbij de overtreder verplicht wordt een al dan niet geschat geldbedrag te betalen ter waarde van het brutovermogensvoordeel dat uit de schending is verkregen.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De ambtenaar die de boete oplegt, mag nooit zelf de auteur zijn van het verslag van vaststelling. Hij kan de toezichthouder wel verzoeken om aanvullende inlichtingen te verstrekken.</span><br>
-&nbsp;
+...
 
 ### ART 20.
 
-<span style="color: rgb(0, 0, 0);">§ 1. De exclusieve bestuurlijke geldboete wordt opgelegd door de ambtenaar, vermeld in artikel 19, eerste lid, conform de procedure zoals bepaald in artikel 16.4.41, § 1, en 16.4.43, van het decreet houdende algemene bepalingen milieubeleid van 5 april 1995.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Het verslag van vaststelling betreft het verslag dat is vermeld in artikel 15, § 2.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 2. Tegen de beslissing waarbij de ambtenaar, vermeld in artikel 19, eerste lid, een exclusieve bestuurlijke geldboete oplegt, kan degene aan wie de boete werd opgelegd, beroep indienen bij het Handhavingscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, volgens de procedure voorgeschreven in hoofdstuk 3, afdelingen 1 en 2, en hoofdstuk 4, afdelingen 1 en 2, van het decreet van 4 april 2014 betreffende de or|Upganisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Het beroep wordt ingesteld binnen een termijn van dertig dagen te rekenen vanaf de datum waarop de beslissing van de ambtenaar, vermeld in artikel 19, eerste lid, aan de overtreder ter kennis wordt gebracht. Het beroep schorst de bestreden beslissing.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 3. Wanneer een exclusieve bestuurlijke geldboete wordt opgelegd, wordt de opsteller van het verslag van vaststelling daarvan in kennis gesteld.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 4. Op vraag van de overtreder, kan de exclusieve bestuurlijke geldboete worden opgelegd met uitstel van tenuitvoerlegging gedurende een proefperiode die niet minder dan een jaar en niet meer dan drie jaar mag bedragen.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Het uitstel wordt van rechtswege herroepen als gedurende de proeftijd een nieuwe inbreuk omschreven in dit hoofdstuk wordt gepleegd, met het opleggen van een exclusieve bestuurlijke geldboete tot gevolg.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 5. De bevoegdheid tot het opleggen van een exclusieve bestuurlijke geldboete alsook de voordeelontneming verjaart na verloop van drie jaar, te rekenen vanaf de dag waarop de inbreuk werd beëindigd.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Exclusieve bestuurlijke geldboeten kunnen alleen worden opgelegd voor feiten die in strijd zijn met wettelijke voorschriften die voorafgaandelijk aan die feiten zijn bepaald en in werking zijn getreden.</span><br>
-&nbsp;
+...
 
 ### ART 21.
 
-<span style="color:#000000">§ 1. De opgelegde exclusieve bestuurlijke geldboete en voordeelontneming worden door het Departement&nbsp;Omgeving van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Fonds voor Innoveren en Ondernemen. Zij beslissen over de gemotiveerde verzoeken tot kwijtschelding, vermindering of uitstel van betaling. De Vlaamse Regering bepaalt de nadere procedurele regels voor de behandeling van die verzoeken.</span><br>
-<br>
-<span style="color:#000000">§ 2. Bij gebrek aan voldoening van de exclusieve bestuurlijke geldboete en desgevallend voordeelontneming, vermeerderd met de invorderingskosten, wordt door de ambtenaar die belast is met de invordering, een dwangbevel uitgevaardigd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die daarvoor is aangewezen door de Vlaamse Regering.</span><br>
-<br>
-<span style="color:#000000">De betekening en uitvoering van het dwangbevel geschiedt volgens de procedure die is voorzien in hoofdstuk V van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.</span><br>
-<br>
-<span style="color:#000000">§ 3. De vordering tot betaling van de verschuldigde bedragen en kosten verjaart na verloop van driehonderdvijfenzestig dagen. Die termijn gaat in op de dag die volgt op de dag waarop deze moesten worden betaald. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.</span><br>
-&nbsp;
+...
 
-## Afdeling 4 Bestuurlijke maatregelen
+## Afdeling 4 ...
 
-## Onderafdeling 1 Basisbepalingen
+## Onderafdeling 1 ...
 
 ### ART 22.
 
-<span style="color: rgb(0, 0, 0);">Voor de toepassing van deze afdeling wordt de betekening met een aangetekende brief geacht te zijn uitgevoerd op de derde werkdag na de afgifte bij de post, behalve in geval van bewijs van het tegendeel.</span><br>
-&nbsp;
+...
 
-## Onderafdeling 2 Het stakingsbevel
+## Onderafdeling 2 ...
 
 ### ART 23.
 
-<span style="color: rgb(0, 0, 0);">§ 1. Een gewestelijke toezichthouder kan ter plaatse mondeling de staking van kleinhandelsactiviteiten inclusief de daarmee verbonden activiteiten bevelen als hij vaststelt dat die niet in overeenstemming zijn met de omgevingsvergunning voor kleinhandelsactiviteiten of zonder vergunning worden uitgevoerd. Een dergelijk stakingsbevel is een preventieve maatregel. Als de gewestelijke toezichthouder ter plaatse niemand aantreft, brengt hij ter plaatse het schriftelijke bevel tot onmiddellijke staking van kleinhandelsactiviteiten op een zichtbare plaats aan, of wordt het stakingsbevel alsnog mondeling gegeven tijdens een verhoor van de overtreder.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Onder de daarmee verbonden activiteiten wordt niet limitatief gedoeld op het ontvangen van leveringen van de betrokken producten, het inruilen en terug nemen van de betrokken producten, het aanbieden en verdelen van de betrokken producten die in het kleinhandelsbedrijf zijn opgeslagen via een webshop of andere multimedia, het voeren van reclame voor de betrokken producten en het gebruiksklaar maken van het kleinhandelsbedrijf of een deel ervan, alsook de aanhorigheden met het oog op de kleinhandelsactiviteiten.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Het stakingsbevel wordt, op straffe van verval, binnen tien dagen bekrachtigd door de leidend ambtenaar van de bevoegde administratie. De bekrachtiging wordt binnen een termijn van twee werkdagen met een beveiligde zending verzonden aan de vermoedelijke overtreder.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 2. Een gewestelijke toezichthouder is bevoegd om alle maatregelen te treffen, met inbegrip van de verzegeling, om de onmiddellijke toepassing van het bevel tot staking van kleinhandelsactiviteiten alsook de bevestiging daarvan, te waarborgen.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 3. Elke belanghebbende of overtreder kan zoals in kort geding de opheffing van het bevel tot staking van de kleinhandelsactiviteiten, alsook tegen de bekrachtiging daarvan, vorderen tegen het Vlaamse Gewest. De vordering wordt gebracht voor de voorzitter van de rechtbank van eerste aanleg van het ambtsgebied waarin de kleinhandelsactiviteiten zijn uitgevoerd. Deel IV, boek II, titel VI, van het Gerechtelijk Wetboek is van toepassing op de inleiding en de behandeling van de vordering.</span><br>
-&nbsp;
+...
 
-## Onderafdeling 3 Het bevel tot bestuurlijke maatregelen
+## Onderafdeling 3 ...
 
 ### ART 24.
 
-<span style="color: rgb(0, 0, 0);">§ 1. Na de vaststelling van een inbreuk omschreven in dit hoofdstuk kan een gewestelijke toezichthouder bestuurlijke maatregelen opleggen door middel van een bestuurlijk besluit.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De bestuurlijke maatregelen in het bestuurlijk besluit kunnen het volgende inhouden :</span><br>
-<span style="color: rgb(0, 0, 0);">1° het bevel de kleinhandelsactiviteiten en daarmee verbonden activiteiten geheel of gedeeltelijk stop te zetten;</span><br>
-<span style="color: rgb(0, 0, 0);">2° het bevel tot verwijderen van de betrokken producten die vallen onder één of meer categorieën van kleinhandelsactiviteiten, hetzij het ambtshalve verwijderen ervan op kosten van de overtreder;</span><br>
-<span style="color: rgb(0, 0, 0);">3° het verbod het kleinhandelsbedrijf of een gedeelte ervan, zowel wat de gebouwen als de terreinen betreft en alles wat zich daarop bevindt, te betreden;</span><br>
-<span style="color: rgb(0, 0, 0);">4° het verbod tot exploitatie van het kleinhandelsbedrijf, geheel dan wel gedeeltelijk.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Een gewestelijke toezichthouder kan in het besluit een uitvoeringstermijn opleggen. Is er geen uitvoeringstermijn opgelegd dan dienen de maatregelen onverwijld uitgevoerd te worden.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Een gewestelijke toezichthouder kan in het besluit een dwangsom opleggen. Hij stelt de dwangsom vast op een bedrag ineens, op een bedrag per tijdseenheid waarin de maatregel niet is uitgevoerd of per overtreding van de maatregel. De toezichthouder kan een bedrag vaststellen waarboven geen dwangsom meer wordt verbeurd.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Een dwangsom wordt pas verbeurd verklaard na de betekening van het uitvoerbare besluit, vermeld in het eerste lid, in voorkomend geval samen met de beslissing over het beroep.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Een gewestelijke toezichthouder is bevoegd om het bestuurlijk besluit in te trekken of te wijzigen, zowel ambtshalve als op verzoek van elke belanghebbende of overtreder.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 2. Een bestuurlijk besluit bevat minstens :</span><br>
-<span style="color: rgb(0, 0, 0);">1° de locatie van de uitbating van het kleinhandelsbedrijf en de aanhorigheden en het KBO-nummer van het kleinhandelsbedrijf;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de identificatie van de overtreder of belanghebbende en zijn relatie tot het kleinhandelsbedrijf;</span><br>
-<span style="color: rgb(0, 0, 0);">3° de vermelding van de inbreuk en de categorie van producten;</span><br>
-<span style="color: rgb(0, 0, 0);">4° een overzicht van de raadgevingen, aanmaningen en vaststellingen van de schending;</span><br>
-<span style="color: rgb(0, 0, 0);">5° een omschrijving van de bestuurlijke maatregelen en desgevallend de uitvoeringstermijn ervan;</span><br>
-<span style="color: rgb(0, 0, 0);">6° desgevallend de dwangsom;</span><br>
-<span style="color: rgb(0, 0, 0);">7° de beroepsmogelijkheden.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering kan bepalen welke overheden op de hoogte moeten gebracht worden van de opgelegde bestuurlijke maatregelen en de wijze waarop dit dient te gebeuren.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 3. Elke belanghebbende of overtreder kan tegen het besluit beroep instellen bij de Vlaamse Regering.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Het beroep is alleen ontvankelijk als het wordt ingesteld bij een met redenen omklede brief binnen een termijn van dertig dagen, die de dag na de betekening van het besluit aanvangt. Als de verzoeker gehoord wil worden, maakt hij daarvan melding in zijn beroepschrift. Het beroepschrift wordt met een beveiligde zending betekend. Het beroep schorst de maatregelen niet.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Binnen een termijn van negentig dagen na de betekening van het beroepschrift wordt er uitspraak over gedaan. De beslissing over het beroep wordt binnen vijf werkdagen met een beveiligde zending verstuurd aan de persoon die beroep heeft ingesteld.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 4. Elke belanghebbende of overtreder brengt de bevoegde administratie onmiddellijk met een beveiligde zending op de hoogte van de vrijwillige uitvoering van de opgelegde maatregelen.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Een gewestelijke toezichthouder gaat onmiddellijk ter plaatse voor een controle en stelt een verslag van uitvoering op. Hij verzendt een kopie hiervan binnen een maand aan de betrokkene.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Het verslag van uitvoering geldt als bewijs van de stopzetting van de inbreuk en van de datum van de stopzetting.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering kan nadere regels bepalen voor het verslag van uitvoering.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 5. Een bestuurlijk besluit is onmiddellijk uitvoerbaar en houdt het recht op ambtshalve uitvoering op kosten van de overtreder in wanneer binnen de gestelde uitvoeringstermijn geen gevolg wordt gegeven aan de bestuurlijke maatregelen.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De ambtshalve uitvoering in de plaats en op kosten van de overtreder is enkel mogelijk door een gerechtsdeurwaarder na de betekening van het uitvoerbare besluit en desgevallend de beslissing in beroep.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Om aan het besluit uitvoering te geven hebben de personen die daartoe zijn aangewezen door de gerechtsdeurwaarder toegang tot elke plaats die redelijkerwijze voor de vervulling van hun taak nodig is.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering bepaalt de nadere regels voor de bewaring en teruggave van de meegevoerde zaken aan de rechthebbende.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De verschuldigde kosten, verhoogd met de invorderingskosten, worden verder ingevorderd via de gerechtsdeurwaarder.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 6. Een bestuurlijk besluit mag geen afbreuk doen aan het gezag van gewijsde van een eerder tussengekomen rechterlijke beslissing.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 7. De verjaring van de bestuurlijke maatregel neemt een aanvang vanaf de betekening van het besluit of vanaf de dag na het verstrijken van de uitvoeringstermijn, voor zover de dag komt na de betekening van het besluit.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 8. De Vlaamse Regering kan nadere regels bepalen voor de uitvoering van dit artikel.</span><br>
-&nbsp;
+...
 
-## Onderafdeling 4 De minnelijke schikking
+## Onderafdeling 4 ...
 
 ### ART 25.
 
-<span style="color: rgb(0, 0, 0);">§ 1. Een gewestelijke toezichthouder kan met elke belanghebbende of overtreder een minnelijke schikking aangaan onder de volgende voorwaarden :</span><br>
-<span style="color: rgb(0, 0, 0);">1° de maatregel in de minnelijke schikking is in overeenstemming met artikel 24, § 1;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de minnelijke schikking doet geen afbreuk aan het gezag van gewijsde van een eerder tussengekomen rechterlijke beslissing noch aan een beslissing tot toepassing van eerdere bestuurlijke maatregelen;</span><br>
-<span style="color: rgb(0, 0, 0);">3° de overtreder of belanghebbende verbindt zichzelf en maakt zich sterk voor andere belanghebbenden en overtreders;</span><br>
-<span style="color: rgb(0, 0, 0);">4° de termijn voor de uitvoering van de maatregelen bedraagt niet meer dan zes maanden.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 2. De minnelijke schikking wordt aangevraagd door de personen die zich door de minnelijke schikking wensen te verbinden, volgens de regels, bepaald door de Vlaamse Regering.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">§ 3. Een aanvraag tot minnelijke schikking schorst de verjaringstermijn van het opleggen van een bevel tot bestuurlijke maatregelen zoals voorzien in onderafdeling 3.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De schorsing vangt aan vanaf de datum van betekening van de aanvraag aan de gewestelijke toezichthouder. De schorsing neemt een einde vanaf :</span><br>
-<span style="color: rgb(0, 0, 0);">1° de datum waarop de minnelijke schikking tot stand komt;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de datum waarop de minnelijke schikking wordt geweigerd.</span><br>
-&nbsp;
+...
 
 ### ART 26.
 
-<span style="color: rgb(0, 0, 0);">De minnelijke schikking wordt op schrift gesteld.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De Vlaamse Regering kan nadere regels bepalen met betrekking tot de inhoud en vorm van de minnelijke schikking.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">Bij uitvoering van de minnelijke schikking is artikel 24, § 4, van overeenkomstige toepassing. De uitvoering van de minnelijke schikking, bevestigd in een verslag van uitvoering, dooft elk verder recht op herstel of vergoeding van schade, geleden door het algemeen belang naar aanleiding van de schendingen die er in omschreven zijn.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De miskenning van de verplichtingen die in de minnelijke schikking zijn opgenomen, vormt ten aanzien van de overtreders of andere belanghebbenden die de minnelijke schikking hebben ondertekend, een grondslag voor de toepassing van bestuurlijke maatregelen zoals voorzien in onderafdeling 3.</span><br>
-&nbsp;
+...
 
 ## Afdeling 5 Diverse bepalingen.
 
