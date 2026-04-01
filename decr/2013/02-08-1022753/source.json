@@ -2,16 +2,16 @@
   "codex_id": 1022753,
   "title": "Decreet van 2013-02-08 houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022753/VolledigDocument?datum=2024-07-20",
-  "source_sha256": "4564444c93be7f74a77d5f5d16f1c9bd3afd6e304cec0a7b2331dac080289491",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022753/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "31740a6bbfbcfdeae4b89818dcf41af4dc46dd3e52648376329ad90a8da29a62",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022753&param=informatie",
-  "as_of": "2024-07-20",
+  "as_of": "2026-04-01",
   "made": "2013-02-08",
   "gazette": "2013-02-22",
   "numac": 2013200992,
   "document_start": "2013-03-04",
   "document_end": null,
-  "in_force": "2024-07-20",
+  "in_force": "2026-04-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2024-07-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-01; future article versions excluded; article text as the API gives it"
 }
