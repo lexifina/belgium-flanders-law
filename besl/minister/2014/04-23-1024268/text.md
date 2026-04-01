@@ -69,12 +69,13 @@ De indexering van het berekende inkomenstarief, vermeld in het eerste lid, wordt
 2° het voorschot wordt betaald de eerste maand van elk kwartaal, behalve de eerste betaling na de toekenning van de subsidie, die uiterlijk gedaan wordt de eerste maand die volgt op de maand waarin de organisator recht heeft op de subsidie.</p>
 
 <p>De raming van de subsidie, vermeld in het eerste lid, 1°, is gebaseerd op de volgende gegevens die Kind en Gezin ter beschikking heeft over het vorige kalenderjaar, of het kalenderjaar daarvoor als er nog geen saldoafrekening voor het vorige kalenderjaar is gemaakt:<br>
-1° voor de basissubsidie, de plussubsidie, de subsidie voor kinderopvang met flexibele openingstijden, en de subsidie voor structurele inclusieve kinderopvang: het aantal gesubsidieerde kinderopvangplaatsen;<br>
+1° voor de basissubsidie, de plussubsidie, de subsidie voor kinderopvang met flexibele openingstijden, de subsidie voor dringende kinderopvang, de subsidie voor centrum inclusieve kinderopvang en de subsidie voor structurele inclusieve kinderopvang: naargelang de subsidie, op basis van het aantal gesubsidieerde kinderopvangplaatsen, het aantal gesubsidieerde modules, het aantal gesubsidieerde kinderopvangprestaties van het voorgaande kalenderjaar of het gesubsidieerde jaarbedrag;<br>
 2° voor de subsidie voor inkomenstarief:<br>
 a) het aantal gesubsidieerde kinderopvangplaatsen;<br>
 b) de gemiddelde leeftijd van de personen;<br>
 c) het aantal kinderopvangprestaties;<br>
-d) de gefactureerde inkomenstarieven van de gezinnen uit de kinderopvanglocaties die voldoen aan de voorwaarden voor de subsidie voor inkomenstarief.</p>
+d) de gefactureerde inkomenstarieven van de gezinnen uit de kinderopvanglocaties die voldoen aan de voorwaarden voor de subsidie voor inkomenstarief;<br>
+3° voor de subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut, vermeld in artikel 40/17 van het Subsidiebesluit van 22 november 2013: het aantal toegekende voltijdsequivalenten.</p>
 
 <p>Als Kind en Gezin niet beschikt over de gegevens, vermeld in het tweede lid, wordt uitgegaan van een objectieve raming door Kind en Gezin.</p>
 
@@ -86,9 +87,13 @@ d) de gefactureerde inkomenstarieven van de gezinnen uit de kinderopvanglocaties
 
 <p>De saldoafrekening en de betaling of de terugvordering van het saldo, gebeurt op basis van de gegevens, vermeld in artikel 7, § 1, tweede lid, 1° en 2°, die de organisator bezorgd heeft voor het afgelopen jaar.<br>
 <br>
+Voor de subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut, vermeld in artikel 40/17 van het Subsidiebesluit van 22 november 2013, gebeurt de saldoafrekening op basis van de gegevens, vermeld in artikel 7, §1, tweede lid, 3°, en artikel 10, §2, 7°, van dit besluit, op de volgende wijze:<br>
+1°&nbsp;&nbsp; &nbsp;voor de maanden waarin het aantal toegekende voltijdsequivalenten het aantal voltijdsequivalenten waarvoor lonen zijn betaald, overschrijdt, wordt het saldo gebaseerd op het aantal voltijdsequivalenten waarvoor lonen zijn betaald;<br>
+2°&nbsp;&nbsp; &nbsp;voor de maanden waarin het aantal toegekende voltijdsequivalenten lager is dan het aantal voltijdsequivalenten waarvoor lonen zijn betaald, wordt het saldo gebaseerd op het aantal toegekende voltijdsequivalenten.<br>
+<br>
 Overeenkomstig artikel 9, eerste lid, van het Subsidiebesluit van 22 november 2013 gebeurt de saldoafrekening uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie, op voorwaarde dat de organisator de gegevens tijdig bezorgd heeft.<br>
 <br>
-In afwijking van het eerste en tweede lid bezorgt de organisator die geen kinderopvang meer aanbiedt en geen voorbehoud heeft, vermeld in artikel 4, de gegevens onmiddellijk na de stopzetting aan Kind en Gezin. Kind en Gezin maakt op basis daarvan zo vlug mogelijk een saldoafrekening.<br>
+In afwijking van het eerste tot en met het derde lid bezorgt de organisator die geen kinderopvang meer aanbiedt en geen voorbehoud heeft, vermeld in artikel 4, de gegevens onmiddellijk na de stopzetting aan Kind en Gezin. Kind en Gezin maakt op basis daarvan zo vlug mogelijk een saldoafrekening.<br>
 <br>
 Als de organisator nalaat alle gegevens te bezorgen, kan Kind en Gezin beslissen om de saldoafrekening te maken op basis van de beschikbare gegevens die Kind en Gezin wel ter beschikking heeft.<br>
 <br>
@@ -96,26 +101,42 @@ Voor de saldoafrekening kan schuldvergelijking op organisatieniveau toegepast wo
 
 ### ART. 9.
 
-De rechtzetting na een saldoafrekening gebeurt als volgt bij het voorschot   van het eerste kwartaal van het jaar dat volgt op het jaar van de vaststelling   door Kind en Gezin:<BR>1° voor de rechtzetting op verzoek van de organisator: op   basis van de gegevens, vermeld in artikel 7, § 1, tweede lid, die uiterlijk op   30 november van het jaar dat volgt op het kalenderjaar in kwestie aan Kind en   Gezin bezorgd worden;<BR>2° voor de rechtzetting naar aanleiding van fouten,   vastgesteld door Kind en Gezin of de toezichthouder: op basis van de gegevens,   vermeld in artikel 7, § 1, tweede lid, die uiterlijk vijf jaar na de fout   vastgesteld zijn.<BR>
+De rechtzetting na een saldoafrekening gebeurt als volgt:<br>
+1° voor de rechtzetting op verzoek van de organisator: op basis van de gegevens, vermeld in artikel 7, § 1, tweede lid, die uiterlijk op 30 november van het jaar dat volgt op het kalenderjaar in kwestie aan Kind en Gezin bezorgd worden, berekent het agentschap de rechtzetting in december van het jaar van de saldoafrekening. In geval van een positief resultaat wordt het bedrag onmiddellijk betaald aan de organisator. In geval van een negatief resultaat verrekent het agentschap dat bedrag, als dat mogelijk is, met de eerstvolgende betaling aan de organisator;<br>
+2° voor de rechtzetting naar aanleiding van fouten, vastgesteld door Kind en Gezin of de toezichthouder: op basis van de gegevens, vermeld in artikel 7, § 1, tweede lid, die uiterlijk vijf jaar na de fout vastgesteld zijn.
 
 ### ART. 10.
 
-<p>§ 1. De organisator bezorgt maximaal maandelijks aan Kind en Gezin de volgende gegevens per kinderopvanglocatie, voor de subsidie voor inkomenstarief:<br>
-1° de gegevens over het dagelijkse gebruik van kinderopvang, op basis van de unieke identificatiegegevens van de baby of peuter;<br>
-2° het aantal openingsdagen;<br>
-3° het aantal gerechtvaardigde afwezigheidsdagen en het aantal afwezigheidsdagen dat niet gerechtvaardigd is, op basis van de unieke identificatiegegevens van de baby of peuter.<br>
+<p>§1. De organisator bezorgt maximaal maandelijks aan het agentschap de volgende gegevens per kinderopvanglocatie:<br>
+1°&nbsp;&nbsp; &nbsp;voor de subsidie voor inkomenstarief:<br>
+a)&nbsp;&nbsp; &nbsp;de gegevens over het dagelijkse gebruik van kinderopvang, op basis van de unieke identificatiegegevens van elk opgevangen kind;<br>
+b)&nbsp;&nbsp; &nbsp;voor elk opgevangen kind: of het een baby of peuter is, dan wel of het een kind is dat buitenschools is opgevangen;<br>
+c)&nbsp;&nbsp; &nbsp;het aantal effectieve openingsdagen;<br>
+d)&nbsp;&nbsp; &nbsp;het aantal gerechtvaardigde afwezigheidsdagen en het aantal afwezigheidsdagen dat niet gerechtvaardigd is, op basis van de unieke identificatiegegevens van elk opgevangen kind;<br>
+2°&nbsp;&nbsp; &nbsp;voor elke andere subsidie, vermeld in het Subsidiebesluit van 22 november 2013, als de organisator niet de subsidie voor inkomenstarief ontvangt: de gegevens, vermeld in 1°, a) tot en met c).<br>
 <br>
-§ 2. De organisator bezorgt maximaal jaarlijks aan Kind en Gezin de volgende gegevens per kinderopvanglocatie:<br>
+§2. De organisator bezorgt maximaal jaarlijks aan Kind en Gezin de volgende gegevens per kinderopvanglocatie:<br>
 1° voor de subsidie voor inkomenstarief: per uniek geregistreerd kind alle kenmerken van voorrang, vermeld in artikel 22 en 23 van het Subsidiebesluit van 22 november 2013, waaraan het voldoet;<br>
 2° voor de plussubsidie: per uniek geregistreerd kind dat behoort tot een kwetsbaar gezin, de kenmerken van het kwetsbaar gezin, vermeld in artikel 1, 10°, en artikel 38 van het Subsidiebesluit van 22 november 2013;<br>
-3° voor de subsidie voor inclusieve kinderopvang: de gegevens over het dagelijkse gebruik van kinderen met een specifieke zorgbehoefte op basis van de unieke identificatiegegevens van de baby of peuter met een specifieke zorgbehoefte;<br>
+3° voor de subsidie voor inclusieve kinderopvang: de gegevens over het dagelijkse gebruik van kinderen met een specifieke zorgbehoefte op basis van de unieke identificatiegegevens van het kind met een specifieke zorgbehoefte;<br>
 4° voor de subsidie flexibele gezinsopvang: het aantal kinderopvangprestaties op flexibele openingstijden per tijdstip;<br>
 5° voor de subsidie voor ruimere openingsmomenten: het aantal geplande kindaanwezigheden op ruimere openingsmomenten, opgedeeld in kindaanwezigheden voor 7 uur, na 18 uur, op een zaterdag, op een zon- of feestdag;<br>
-6° voor de subsidie voor dringende kinderopvang: per kalenderjaar het aantal unieke kinderen voor wie de opvang op een dringende opvangplaats is opgestart, opgedeeld per reden, als vermeld in artikel 40/12 van het Subsidiebesluit van 22 november 2013.<br>
+6° voor de subsidie voor dringende kinderopvang: per kalenderjaar het aantal unieke kinderen voor wie de opvang op een dringende opvangplaats is opgestart, opgedeeld per reden, als vermeld in artikel 40/12 van het Subsidiebesluit van 22 november 2013;<br>
+7° voor de subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut, vermeld in artikel 40/17 van het Subsidiebesluit van 22 november 2013: per kalenderjaar het aantal voltijdsequivalenten kinderbegeleiders waarvoor de organisator per maand loon heeft betaald, opgesplitst naargelang de organisator voor de voltijdsequivalenten de subsidie ontvangt op basis van artikel 40/17, eerste lid, van het Subsidiebesluit van 22 november 2013, of op basis van artikel 40/17, tweede lid, van het voormelde besluit.<br>
 <br>
-§ 3. De organisator bezorgt op verzoek van Kind en Gezin de volgende gegevens per kinderopvanglocatie:<br>
-1° voor de basissubsidie: het aantal openingsdagen en het aantal uniek opgevangen kinderen in een kalenderjaar;<br>
-2° voor de subsidie voor dringende kinderopvang: per kind dat gebruikgemaakt heeft van de dringende kinderopvang en er niet meer van gebruikmaakt, hoelang dat kind gebruikgemaakt heeft van de dringende opvangplaats, alsook of het kind nadien is doorgestroomd naar de reguliere opvang en, als dat laatste het geval is, of dat naar de eigen reguliere opvang of een andere opvang was..</p>
+§3. De organisator bezorgt op verzoek van Kind en Gezin de volgende gegevens per kinderopvanglocatie:<br>
+1° ...;<br>
+2° voor de subsidie voor dringende kinderopvang: per kind dat gebruikgemaakt heeft van de dringende kinderopvang en er niet meer van gebruikmaakt, hoelang dat kind gebruikgemaakt heeft van de dringende opvangplaats, alsook of het kind nadien is doorgestroomd naar de reguliere opvang en, als dat laatste het geval is, of dat naar de eigen reguliere opvang of een andere opvang was.<br>
+<br>
+§4. De organisator bezorgt maximaal elk kwartaal aan het agentschap de volgende gegevens voor de subsidie voor kinderbegeleiders gezinsopvang in een werknemersstatuut, vermeld in artikel 40/17 van het Subsidiebesluit van 22 november 2013:<br>
+1°&nbsp;&nbsp; &nbsp;de voor- en achternaam en het rijksregisternummer van de kinderbegeleiders met wie de organisator een arbeidsovereenkomst heeft als werknemer gezinsopvang;<br>
+2°&nbsp;&nbsp; &nbsp;het dossiernummer van de kinderopvanglocatie waar de kinderbegeleiders werken;<br>
+3°&nbsp;&nbsp; &nbsp;de vermelding voor welke kinderbegeleiders de organisator een tussenkomst ontvangt via het Fonds Sociale Maribel;<br>
+4°&nbsp;&nbsp; &nbsp;de start- en einddatum van de arbeidsovereenkomsten voor de kinderbegeleiders gezinsopvang en het tewerkstellingspercentage, op de laatste dag van het kwartaal.<br>
+<br>
+In het eerste lid, 3°, wordt verstaan onder Fonds Sociale Maribel: het Fonds Sociale Maribel, ingesteld bij de Rijksdienst voor Sociale Zekerheid conform artikel 35, §5, C, 2°, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers.<br>
+<br>
+§5. Overeenkomstig de bepalingen van het decreet van 19 november 2021 tot oprichting van een Vlaams subsidieregister, bezorgt het agentschap de gegevens vermeld jn artikel 4, §1, van dat decreet, aan de instantie van de Vlaamse administratie die bevoegd is voor de financiën of de begrotingen.</p>
 
 ## TITEL 2 Basissubsidie
 
@@ -134,6 +155,12 @@ Het aantal minimale openingsdagen voor de basissubsidie wordt   verhoudingsgewij
 ### ART. 13.
 
 &nbsp;De volgende certificaten, bewijzen en diploma's worden beschouwd als   een attest van actieve kennis van het Nederlands:<BR>1° een certificaat   Nederlands als Vreemde Taal van de Nederlandse Taalunie;<BR>2° een bewijs van de   Huizen van het Nederlands;<BR>3° een certificaat van Selor;<BR>4° een   certificaat of een deelcertificaat van een instantie die erkend is door het   Vlaams Ministerie van Onderwijs en Vorming, waarop het Agentschap voor   Kwaliteitszorg in Onderwijs en Vorming het toezicht uitoefent;<BR>5° een diploma   van een instantie waarvan het Nederlands de onderwijstaal is, die erkend is door   het Vlaams Ministerie van Onderwijs en Vorming;<BR>6° een certificaat van een   onderwijsinstantie die in die hoedanigheid erkend is in het land van herkomst en   geaccrediteerd is als taalopleiding Nederlands;<BR>7° een attest van een   instantie die aantoont dat de houder negen jaar lager en secundair onderwijs   heeft gevolgd, waarbij het Nederlands de onderwijstaal was.<BR>
+
+### ART 13/1.
+
+Per subsidiegroep wordt het gemiddelde aantal verschillende kinderen dat per maand is opgevangen op de volgende wijze berekend:<br>
+1°&nbsp;&nbsp; &nbsp;voor elke maand van het kalenderjaar wordt per subsidiegroep het aantal verschillende kinderen opgeteld dat in elke kinderopvanglocatie is opgevangen waar de organisator de specifieke dienstverlening voor de basissubsidie realiseert, zoals geregistreerd conform artikel 10, §1, en waarvoor de organisator de prestaties aan het agentschap bezorgde;<br>
+2°&nbsp;&nbsp; &nbsp;de aantallen van elke maand worden opgeteld en gedeeld door het aantal maanden waarin de kinderopvanglocatie vergund was.
 
 ## TITEL 3 Subsidie voor inkomenstarief
 
@@ -303,7 +330,16 @@ Het bedrag van de subsidie voor structurele inclusieve kinderopvang wordt   verh
 
 ### ART. 34.
 
-<P>De bezetting voor de subsidie voor structurele inclusieve kinderopvang wordt   als volgt berekend per kalenderjaar en per subsidiegroep:<BR>1° het aantal   gereserveerde kinderopvangdagen van de kinderen met een specifieke zorgbehoefte   wordt vermenigvuldigd met 100;<BR>2° het aantal gesubsidieerde   kinderopvangplaatsen waarvoor de organisator de subsidie voor structurele   inclusieve kinderopvang krijgt, wordt vermenigvuldigd met 220;<BR>3° het   resultaat van de vermenigvuldiging, vermeld in punt 1°, wordt gedeeld door het   resultaat van de vermenigvuldiging, vermeld in punt 2°.<BR></P>  <P>Voor het aantal gereserveerde kinderopvangdagen, vermeld in het eerste lid,   1°, tellen volgende gereserveerde kinderopvangdagen mee:<BR>1° voor 100 %   :<BR>a) alle gereserveerde kinderopvangdagen van alle kinderopvanglocaties van   dezelfde subsidiegroep die voldoen aan de voorwaarden, vermeld in artikel 20 tot   en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van   kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot   het thuismilieu van de kinderbegeleider gezinsopvang behoren en voor wie de   kinderbegeleider de verantwoordelijkheid draagt;<BR>b) alle kinderopvangdagen   van kinderen die minstens drie uur per dag buitenschools opgevangen worden, van   alle kinderopvanglocaties gezinsopvang die voldoen aan de voorwaarden, vermeld   in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met   uitzondering van kinderopvangprestaties 's nachts en kinder-opvangprestaties   voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang   behoren en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<BR>2°   voor 40 % : alle kinderopvangdagen van kinderen die minder dan drie uur per dag   buitenschools opgevangen worden van alle kinderopvanglocaties gezinsopvang die   voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het   Subsidiebesluit van 22 november 2013, met uitzondering van   kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot   het thuismilieu van de kinderbegeleider gezinsopvang behoren en voor wie de   kinderbegeleider de verantwoordelijkheid draagt.<BR></P>
+<p>De bezetting voor de subsidie voor structurele inclusieve kinderopvang wordt als volgt berekend per kalenderjaar en per subsidiegroep:<br>
+1° het aantal kinderopvangprestaties van de kinderen met een specifieke zorgbehoefte wordt vermenigvuldigd met 100;<br>
+2° het aantal gesubsidieerde kinderopvangplaatsen waarvoor de organisator de subsidie voor structurele inclusieve kinderopvang krijgt, wordt vermenigvuldigd met 220;<br>
+3° het resultaat van de vermenigvuldiging, vermeld in punt 1°, wordt gedeeld door het resultaat van de vermenigvuldiging, vermeld in punt 2°.</p>
+
+<p>Voor het aantal kinderopvangprestaties, vermeld in het eerste lid, 1°, tellen volgende kinderopvangprestaties mee:<br>
+1° voor 100 % :<br>
+a) alle kinderopvangprestaties van alle kinderopvanglocaties van dezelfde subsidiegroep die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
+b) alle kinderopvangdagen van kinderen die minstens drie uur per dag buitenschools opgevangen worden, van alle kinderopvanglocaties gezinsopvang die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van kinderopvangprestaties 's nachts en kinder-opvangprestaties voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
+2° voor 40 % : alle kinderopvangdagen van kinderen die minder dan drie uur per dag buitenschools opgevangen worden van alle kinderopvanglocaties gezinsopvang die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren en voor wie de kinderbegeleider de verantwoordelijkheid draagt.</p>
 
 ## TITEL 6 Slotbepalingen
 
