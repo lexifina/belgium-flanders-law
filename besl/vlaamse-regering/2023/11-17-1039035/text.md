@@ -21,7 +21,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Artikel 4, 6 en 77 tot en met 80 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn van toepassing op de volgende bepalingen:<br>
+Artikel 4, 6 en 80 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn van toepassing op de volgende bepalingen:<br>
 1° titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 2° hoofdstuk V van het decreet van 29 maart 2002 tot bescherming van varend erfgoed;&nbsp;<br>
 3° titel VI van de Vlaamse Codex Ruimtelijke Ordening;<br>
@@ -30,53 +30,54 @@ Artikel 4, 6 en 77 tot en met 80 van het kaderdecreet Vlaamse Handhaving van 14 
 6° titel 6 van het Scheepvaartdecreet van 21 januari 2022;<br>
 7° artikel 5 en artikel 6 van het decreet van 29 maart 2024 over e-boeken en bijbehorende software;<br>
 8° hoofdstuk 9 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;<br>
-9° hoofdstuk II tot en met hoofdstuk IV/1 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.
+9° hoofdstuk II tot en met hoofdstuk IV/1 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;<br>
+10° hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
+11° hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
+<br>
+Artikel 4 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is voor de bepalingen, vermeld in het eerste lid, ook van toepassing op lokale overheden.<br>
+<br>
+In afwijking van het eerste lid geldt de verplichting om bepaalde bestuursdocumenten in elektronische vorm op te maken, vermeld in artikel 4, §1, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, niet voor de bestuursdocumenten, vermeld in artikel 4, §1, eerste lid, 1°, van het voormelde decreet, en de controleverslagen, vermeld in artikel 4, §1, eerste lid, 2°, van het voormelde decreet.<br>
+<br>
+Voor de bepalingen, vermeld in het eerste lid, 9°, wordt de verplichting om bepaalde bestuursdocumenten in elektronische vorm op te maken, vermeld in artikel 4, §1, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de processen-verbaal en verslagen van vaststelling die zijn opgesteld door de sociaalrechtelijke inspecteurs, vermeld in artikel 3, 10°, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, wegens de schending van de regelgeving, vermeld in artikel 2, §1, van het voormelde decreet.
 
 ### ART 1/1.
 
-Artikel 4, 6 en 80 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn van toepassing op de processen-verbaal en verslagen van vaststelling die zijn opgesteld door de sociaalrechtelijke inspecteurs, vermeld in artikel 3, 10°, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, wegens de schending van de regelgeving, vermeld in artikel 2, §1, van het voormelde decreet.
+...
 
 ### ART 2.
 
-Voor de bepalingen, vermeld in artikel 1, 1°, van dit besluit, wordt de verplichting tot opmaak in elektronische vorm, vermeld in artikel 4, §1, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
-1° de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 16.3.23 tot en met 16.3.24bis, 16.5.9 en 16.5.10 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;&nbsp;<br>
-2° de kennisgevingen van de bestuurlijke vervolging, vermeld artikel 16.4.36 §1, en artikel 16.4.41, §1, van het voormelde decreet;<br>
-3° de voorstellen tot betaling van een geldsom, vermeld in artikel 16.4.36, §3, en artikel 16.4.41, §2, van het voormelde decreet;<br>
-4° de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 16.4.37 en 16.4.43 van het voormelde decreet.<br>
-<br>
-Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een alternatieve of exclusieve bestuurlijke geldboete of van het voorstel tot betalen van een geldsom in de zin van artikel 16.4.36 &nbsp;en 16.4.41 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;<br>
-<br>
-De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
+Artikel 77 tot en met 79 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn van toepassing op de volgende bepalingen:<br>
+1°&nbsp;&nbsp; &nbsp;titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+2°&nbsp;&nbsp; &nbsp;hoofdstuk V van het decreet van 29 maart 2002 tot bescherming van varend erfgoed;<br>
+3°&nbsp;&nbsp; &nbsp;titel VI van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
+4°&nbsp;&nbsp; &nbsp;hoofdstuk 11 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+5°&nbsp;&nbsp; &nbsp;boek 1, deel 3, en boek 3, deel 9, van de Vlaamse Codex Wonen van 2021;<br>
+6°&nbsp;&nbsp; &nbsp;titel 6 van het Scheepvaartdecreet van 21 januari 2022;<br>
+7°&nbsp;&nbsp; &nbsp;artikel 5 en artikel 6 van het decreet van 29 maart 2024 over e-boeken en bijbehorende software;<br>
+8°&nbsp;&nbsp; &nbsp;hoofdstuk 9 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;<br>
+9°&nbsp;&nbsp; &nbsp;hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
+10°&nbsp;&nbsp; &nbsp;hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
+&nbsp;
 
 ### ART 3.
 
-Voor de bepalingen, vermeld in artikel 1, 2°, van dit besluit, wordt de verplichting tot opmaak in elektronische vorm, vermeld in artikel 4, §1, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
-1° de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 11.3.3 en 11.3.4 van het Onroerenderfgoeddecreet van 12 juli 2013;&nbsp;<br>
-2° de kennisgevingen van de bestuurlijke vervolging, vermeld in artikel 11.2.5, §1, en artikel 11.2.6, §4, derde lid, van het voormelde decreet;<br>
-3° de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 11.2.5, §2, en artikel 11.2.6, §4, derde lid, van het voormelde decreet.<br>
-<br>
-De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
+Artikel 81 tot en met 83 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn van toepassing op de volgende bepalingen:<br>
+1°&nbsp;&nbsp; &nbsp;titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+2°&nbsp;&nbsp; &nbsp;hoofdstuk V van het decreet van 29 maart 2002 tot bescherming van varend erfgoed;<br>
+3°&nbsp;&nbsp; &nbsp;titel VI van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
+4°&nbsp;&nbsp; &nbsp;hoofdstuk 11 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+5°&nbsp;&nbsp; &nbsp;artikel 5 en artikel 6 van het decreet van 29 maart 2024 over e-boeken en bijbehorende software;<br>
+6°&nbsp;&nbsp; &nbsp;hoofdstuk 9 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;&nbsp;<br>
+7°&nbsp;&nbsp; &nbsp;hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
+8°&nbsp;&nbsp; &nbsp;hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.
 
 ### ART 4.
 
-Voor de bepalingen, vermeld in artikel 1, 3°, van dit besluit, wordt de verplichting tot opmaak in elektronische vorm, vermeld in artikel 4, §1, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
-1° de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 6.2.4, 6.2.5 en 6.4.4 van de Vlaamse Codex Ruimtelijke Ordening;&nbsp;<br>
-2° de kennisgevingen van de bestuurlijke vervolging, vermeld in artikel 6.2.12, §1, en artikel 6.2.13, §4, tweede lid, van de voormelde codex;<br>
-3° de voorstellen tot betaling van een geldsom, vermeld in artikel 6.2.14 van de voormelde codex;<br>
-4° de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 6.2.12, §2, en artikel 6.2.13, §4, tweede lid, van de voormelde codex.<br>
-<br>
-Voor de in het eerste lid, 4° vermelde bestuursdocumenten, geldt de verplichting tot opmaak in elektronische vorm niet voor die bestuurlijke vervolgingen waar de kennisgeving van het voornemen tot het opleggen van een exclusieve of alternatieve bestuurlijke geldboete in de zin van artikel 6.2.12 en 6.2.13 Vlaamse Codex Ruimtelijke Ordening, of van het voorstel tot betalen van een geldsom in de zin van artikel 6.2.14 van de voormelde codex, dateert van voor de datum van inwerkingtreding van het eerste lid.&nbsp;<br>
-<br>
-De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
+...
 
 ### ART 5.
 
-Voor de bepalingen, vermeld in artikel 1, 4°, van dit besluit, wordt de verplichting tot opmaak in elektronische vorm, vermeld in artikel 4, §1, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
-1° de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 11.3.3 en 11.3.4 van het Onroerenderfgoeddecreet van 12 juli 2013;&nbsp;<br>
-2° de kennisgevingen van de bestuurlijke vervolging, vermeld in artikel 11.2.5, §1, en artikel 11.2.6, §4, derde lid, van het voormelde decreet;<br>
-3° de sanctiebeslissingen, vermeld in artikel 11.2.5, §2, en artikel 11.2.6, §4, derde lid, van het voormelde decreet.<br>
-<br>
-De verplichting, vermeld in het eerste lid, is ook van toepassing als de bestuursdocumenten, vermeld in het eerste lid, zijn opgesteld door lokale overheden.
+...
 
 ### ART 6.
 
@@ -94,47 +95,28 @@ Voor de bepalingen, vermeld in artikel 1, 6°, van dit besluit, wordt de verplic
 
 ### ART 7/1.
 
-Voor de bepalingen, vermeld in artikel 1, 7°, van dit besluit, wordt de verplichting om bepaalde bestuursdocumenten in elektronische vorm op te maken, vermeld in artikel 4, §1, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
-1°&nbsp;&nbsp; &nbsp;de verslagen van vaststelling, vermeld in artikel 9, §2, tweede lid, van het voormelde decreet;<br>
-2°&nbsp;&nbsp; &nbsp;de kennisgevingen van de bestuurlijke vervolging, vermeld in artikel 40, §1, van het voormelde decreet;<br>
-3°&nbsp;&nbsp; &nbsp;de voorstellen tot betaling van een geldsom, vermeld in artikel 39, §1, eerste lid, van het voormelde decreet;<br>
-4°&nbsp;&nbsp; &nbsp;de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 41, eerste lid, van het voormelde decreet.
+...
 
 ### ART 7/2.
 
-Voor de bepalingen, vermeld in artikel 1, 8°, van dit besluit, wordt de verplichting om bepaalde bestuursdocumenten in elektronische vorm op te maken, vermeld in artikel 4, §1, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, beperkt tot de volgende bestuursdocumenten:<br>
-1°&nbsp;&nbsp; &nbsp;de processen-verbaal en verslagen van vaststelling, vermeld in artikel 9, §2, tweede lid, van het voormelde decreet;<br>
-2°&nbsp;&nbsp; &nbsp;de kennisgevingen van de bestuurlijke vervolging, vermeld in artikel 40, §1, van het voormelde decreet;<br>
-3°&nbsp;&nbsp; &nbsp;de voorstellen tot betaling van een geldsom, vermeld in artikel 39, §1, eerste lid, van het voormelde decreet;<br>
-4°&nbsp;&nbsp; &nbsp;de sanctiebeslissingen en de kennisgeving ervan, vermeld in artikel 41, eerste lid, van het voormelde decreet.
+...
 
 ### ART 8.
 
-Voor &nbsp;opdrachten van gerechtelijke en bestuurlijke politie, zijn de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 2, eerste lid, 1°, artikel 3, eerste lid, 1°, artikel 4, eerste lid, 1°, artikel 5, eerste lid, 1°, en artikel 6, 1°, van dit besluit, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, toegankelijk voor de politiediensten, vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt, en de gemeentelijke, intergemeentelijke, provinciale of Vlaamse inspectiediensten die de volgende personen tewerkstellen:<br>
-1° de toezichthouders, vermeld in artikel 16.3.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-2° de verbalisanten ruimtelijke ordening, vermeld in artikel 6.1.1, 8° van de Vlaamse Codex Ruimtelijke Ordening;&nbsp;<br>
-3° de bevoegde personen, vermeld in artikel 11.3.1 en 11.3.2 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-4° de verbalisanten, vermeld in artikel 11.3.3 en 11.3.4 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-5° de wooninspecteurs, vermeld in artikel 1.3, §1, eerste lid, 69°, van de Vlaamse Codex Wonen van 2021;<br>
-6° de agenten van de gerechtelijke politie, vermeld in artikel 23 §1 van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019, en de bestuurlijke opsporingsagenten, vermeld in artikel 26 §1 van het voormelde decreet, &nbsp;door de Vlaamse Regering aangewezen voor de handhaving van boek 3, deel 9 van de Vlaamse Codex Wonen van 2021.<br>
+Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit, toegankelijk voor de politiediensten, vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt, en de gemeentelijke, intergemeentelijke, provinciale of Vlaamse inspectiediensten die de toezichthouders, vermeld in artikel 2, 15°, van het kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019, zoals van kracht tot en met 7 september 2023, en artikel 2, 30°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, die bevoegd zijn voor de handhaving van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit, tewerkstellen.<br>
 <br>
-Voor opdrachten van bestuurlijke vervolging, zijn de bestuursdocumenten, vermeld in artikel 2 tot en met 6 van dit besluit, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, toegankelijk voor de gewestelijke entiteit, vermeld in artikel 16.1.2, 4° van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, &nbsp;en de vervolgingsinstanties en de beboetingsinstanties, vermeld in artikel 6, 2° van dit besluit.&nbsp;<br>
+Voor de opdrachten van bestuurlijke vervolging, zijn de bestuursdocumenten, vermeld in artikel 4, §1, eerste lid, 2°, 3° en 4°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, die zijn opgesteld in het kader van de toepassing van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit, en die aanwezig zijn in het digitaal klassement, vermeld in het eerste lid, toegankelijk voor de beboetingsinstanties, vermeld in artikel 2, 1°, van het kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019, zoals van kracht tot en met 7 september 2023, en artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, die bevoegd zijn voor de handhaving van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit.<br>
 <br>
-De processen-verbaal en de verslagen van vaststelling, vermeld in artikel 2, eerste lid, 1°, artikel 3, eerste lid, 1°, artikel 4, eerste lid, 1°, artikel 5, eerste lid, 1°, en artikel 6, 1°, van dit besluit, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, zijn toegankelijk voor de volgende bestuurlijke overheden, telkens binnen de grenzen van hun bevoegdheden:&nbsp;<br>
+Voor het opleggen of doen opleggen van publieke herstel- en beveiligingsmaatregelen zijn de processen-verbaal en de verslagen van vaststelling, die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit, en die aanwezig zijn in het digitaal klassement, vermeld in het eerste lid, toegankelijk voor de herstelinstanties, vermeld in artikel 2, 15°, van het voormelde decreet, die bevoegd zijn voor de handhaving van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit.<br>
 <br>
-1° de toezichthouders, vermeld in artikel 16.3.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, de gemachtigde ambtenaren, vermeld in artikel 16.6.6 en 16.6.7 van voormeld decreet, de gouverneurs en de burgemeesters, voor het opleggen, doen opleggen of opvolgen van bestuurlijke maatregelen in de zin artikel 16.4.5 van het voormelde decreet, van rechterlijke herstelmaatregelen in de zin van artikel 16.6.6 en 16.6.7 van het voormelde decreet, en van veiligheidsmaatregelen in de zin van artikel 16.7.1 van het voormelde decreet;<br>
-2° de stedenbouwkundige inspecteurs, vermeld in artikel 1.4.9 van de Vlaamse Codex Ruimtelijke Ordening, en de burgemeesters, voor het opleggen, doen opleggen of opvolgen van rechterlijke herstelmaatregelen in de zin van artikel 6.3.1 en 6.3.3 van het voormelde decreet, en van bestuurlijke maatregelen in de zin van titel VI, hoofdstuk IV, van het voormelde decreet;<br>
-3° &nbsp;de inspecteurs Onroerend Erfgoed, vermeld in artikel 2.1, 29° van het Onroerenderfgoeddecreet van 12 juli 2013, voor het opleggen, doen opleggen of opvolgen van rechterlijke herstelmaatregelen in de zin van hoofdstuk 11, afdeling 4 van het voormelde decreet, en van bestuurlijke maatregelen in de zin van hoofdstuk 11, afdeling 5, van het voormelde decreet;<br>
-4° &nbsp;de wooninspecteurs, vermeld in artikel 1.3, §1, eerste lid, 69°, van de Vlaamse Codex Wonen van 2021, de agenten van de gerechtelijke politie, door de Vlaamse Regering aangewezen voor de handhaving van boek 3, deel 9 van de voormelde codex, &nbsp;en de burgemeesters, voor het doen opleggen en opvolgen van rechterlijke herstelmaatregelen in de zin van artikel 3.43 en 3.44 van de voormelde codex, voor het opleggen en opvolgen van verzegelingen in de zin van artikel 3.53 van de voormelde codex, en voor het afleveren of niet afleveren van conformiteitsattesten op basis van artikel 3.6, §2, derde lid en artikel 3.6, §3 van de voormelde codex.
+Voor het doen opleggen en opvolgen van rechterlijke herstelmaatregelen als vermeld in artikel 3.43 en 3.44 van de Vlaamse Codex Wonen van 2021, voor het opleggen en opvolgen van verzegelingen, vermeld in artikel 3.53 van de voormelde codex, en voor het afleveren of niet-afleveren van conformiteitsattesten op basis van artikel 3.6, §2, derde lid, en §3, van de voormelde codex, zijn de processen-verbaal en de verslagen van vaststelling, die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1° tot en met 5°, 10° en 11°, van dit besluit, en die aanwezig zijn in het digitaal klassement, vermeld in het eerste lid toegankelijk voor de volgende bestuurlijke overheden, vermeld in artikel 80, derde lid, 6° van het voormelde decreet:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de wooninspecteurs, vermeld in artikel 1.3, §1, eerste lid, 69°, van de voormelde codex;<br>
+2°&nbsp;&nbsp; &nbsp;de agenten van de gerechtelijke politie die door de Vlaamse Regering zijn aangewezen voor de handhaving van boek 3, deel 9, van de voormelde codex;<br>
+3°&nbsp;&nbsp; &nbsp;de burgemeesters.
 
 ### ART 8/1.
 
-Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 1/1, artikel 2, eerste lid, 1°, artikel 4, eerste lid, 1°, en artikel 6, eerste lid, 1°, van dit besluit, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, toegankelijk voor de politiediensten, vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt, en de gemeentelijke, intergemeentelijke, provinciale of Vlaamse inspectiediensten, die de volgende personen tewerkstellen:<br>
-1°&nbsp;&nbsp; &nbsp;de sociaalrechtelijke inspecteurs, vermeld in artikel 3, 10°, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;&nbsp;<br>
-2°&nbsp;&nbsp; &nbsp;de toezichthouders, vermeld in artikel 16.3.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-3°&nbsp;&nbsp; &nbsp;de verbalisanten ruimtelijke ordening, vermeld in artikel 6.1.1, 8°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;&nbsp;<br>
-4°&nbsp;&nbsp; &nbsp;de wooninspecteurs, vermeld in artikel 1.3, §1, eerste lid, 69°, van de Vlaamse Codex Wonen van 2021;<br>
-5°&nbsp;&nbsp; &nbsp;de agenten van de gerechtelijke politie, vermeld in artikel 23, §1, van het kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019, zoals van kracht tot en met en 7 september 2023, en de bestuurlijke opsporingsagenten, vermeld in artikel 26, §1, van het voormelde decreet, zoals van kracht tot en met en 7 september 2023, die door de Vlaamse Regering zijn aangewezen voor de handhaving van boek 3, deel 9, van de Vlaamse Codex Wonen van 2021.
+Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1°, 3°, 5° en 9°, van dit besluit, toegankelijk voor de politiediensten, vermeld in artikel 2 van de wet van 5 augustus 1992 op het politieambt, en de gemeentelijke, intergemeentelijke, provinciale of Vlaamse inspectiediensten die de toezichthouders, vermeld in artikel 2, 15°, van het kaderdecreet betreffende de bestuurlijke handhaving van 22 maart 2019, zoals van kracht tot en met en 7 september 2023, en artikel 2, 30°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, of de sociaalrechtelijke inspecteurs, vermeld in artikel 3, 10°, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, die bevoegd zijn voor de handhaving van de regelgeving, vermeld in artikel 1, eerste lid, 1°, 3°, 5° en 9°, van dit besluit, tewerkstellen.
 
 ### ART 8/2.
 
@@ -142,16 +124,16 @@ Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-v
 <br>
 Voor het opleggen of doen opleggen van publieke herstel- en beveiligingsmaatregelen zijn de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 7, 1°, van dit besluit, die aanwezig zijn in het digitaal klassement, vermeld in het eerste lid, toegankelijk voor de waterwegbeheerders, vermeld in artikel 49, §2, van het Scheepvaartdecreet van 21 januari 2022, om de maatregelen, vermeld in dat artikel, op te leggen.
 
+### ART 8/3.
+
+Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1°, van dit besluit, toegankelijk voor de ambtenaren, vermeld in artikel 5.4.1.3, tweede lid, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.
+
 ### ART 9.
 
 Voor de toepassing van dit besluit komen:<br>
-1° de processen-verbaal en verslagen van vaststelling, vermeld in artikel 2, eerste lid, 1°, &nbsp;artikel 3, eerste lid, 1°, artikel 4, eerste lid, 1°, &nbsp;artikel 5, eerste lid, 1°, artikel 6, 1° en artikel 7, 1°, van dit besluit, overeen met de processen-verbaal en verslagen van vaststelling, vermeld in artikel 9 §2 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023;&nbsp;<br>
-2° &nbsp;de kennisgevingen van de bestuurlijke vervolging, vermeld in artikel 2, eerste lid, 2°, &nbsp;artikel 3, eerste lid, 2°, artikel 4, eerste lid, 2° en &nbsp;artikel 5, eerste lid, 2°, van dit besluit, overeen met de kennisgeving van de bestuurlijke vervolging, vermeld in artikel 40 §1 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023;<br>
-3° de voorstellen tot betaling van een geldsom, vermeld in artikel 2, eerste lid, 3° en artikel 4, eerste lid, 3°, van dit besluit, &nbsp;overeen met het voorstel tot betaling van een geldsom, vermeld in artikel 39 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023;<br>
-4° de sanctiebeslissingen, vermeld in vermeld in artikel 2, eerste lid, 4°, &nbsp;artikel 3, eerste lid, 3°, artikel 4, eerste lid, 4° en artikel 5, eerste lid, 3°, overeen met de sanctiebeslissing, vermeld in artikel 41 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023;<br>
-5° de beslissingen en de kennisgevingen, vermeld in artikel 6, 2°, en artikel 7,2°, overeen met de beslissingen en kennisgevingen, vermeld in artikel 4 §1, 3° van het kaderdecreet Vlaamse Handhaving van 14 juli 2023;<br>
-6° de beslissingen om bestuurlijk te vervolgen, genomen door de gewestelijke entiteit, vermeld in artikel 16.1.2, 4° van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, overeen met de beslissingen, vermeld in artikel 38 §2, eerste lid, 3° van het kaderdecreet Vlaamse Handhaving van 14 juli 2023, ongeacht of ze zijn opgenomen in een bestuursdocument;<br>
-7° de processen-verbaal, vermeld in het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, overeen met de processen-verbaal, vermeld in artikel 4, §1, eerste lid, 1° van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, wanneer daarin misdrijven als vermeld in artikel 2, 19° van het voormelde decreet worden vastgesteld, en met de verslagen van vaststelling, vermeld in artikel 4, §1, eerste lid, 1° van het voormelde decreet, wanneer daarin alleen inbreuken als vermeld in artikel 2, 17° van het voormelde decreet worden vastgesteld.
+1°&nbsp;&nbsp; &nbsp;de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 6, eerste lid, 1°, en artikel 7, 1°, van dit besluit, overeen met de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 9, §2, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de beslissingen en de kennisgevingen, vermeld in artikel 6, eerste lid, 2°, en artikel 7, 2°, van dit besluit, overeen met de beslissingen en kennisgevingen, vermeld in artikel 4, §1, 3°, van het voormelde decreet;<br>
+3°&nbsp;&nbsp; &nbsp;de processen-verbaal, vermeld in het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, overeen met de processen-verbaal, vermeld in artikel 4, §1, eerste lid, 1° van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, wanneer daarin misdrijven als vermeld in artikel 2, 19° van het voormelde decreet worden vastgesteld, en met de verslagen van vaststelling, vermeld in artikel 4, §1, eerste lid, 1° van het voormelde decreet, wanneer daarin alleen inbreuken als vermeld in artikel 2, 17° van het voormelde decreet worden vastgesteld.
 
 ### ART 10.
 

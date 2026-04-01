@@ -2,16 +2,16 @@
   "codex_id": 1039035,
   "title": "Besluit van de Vlaamse Regering van 2023-11-17 over de digitalisering van de handhaving van diverse Vlaamse regelgeving",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039035/VolledigDocument?datum=2025-10-13",
-  "source_sha256": "d3f4a6f6af734bb3890f45b68cc9d3caa5a22ec8b5ae58dd60bb71c1eac06799",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039035/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "8e4fb93abc27e24019dd3b7eec50d8de9c7b3ccfc2f30017b3486423a9f53991",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039035&param=informatie",
-  "as_of": "2025-10-13",
+  "as_of": "2026-04-01",
   "made": "2023-11-17",
   "gazette": "2023-12-08",
   "numac": 2023047629,
   "document_start": "2023-12-15",
   "document_end": null,
-  "in_force": "2025-10-13",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2025-10-13; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-04-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2026-04-01; future article versions excluded; article text as the API gives it"
 }
