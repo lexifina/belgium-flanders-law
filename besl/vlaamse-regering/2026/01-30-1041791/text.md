@@ -31,6 +31,12 @@ Artikel 25 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de r
 <br>
 “Art. 25. Dit deel is van toepassing op de beroepen, vermeld in artikel 16.4.19, § 2, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.”.
 
+### ART 2.
+
+Artikel 25 van hetzelfde besluit, zoals vervangen door artikel 1, wordt vervangen door wat volgt:<br>
+<br>
+“Art. 25. Dit deel is van toepassing op de beroepen, vermeld in hoofdstuk 10, afdeling 13 en 14, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.”.
+
 ## Hoofdstuk 2. Slotbepalingen
 
 ### ART 3.
