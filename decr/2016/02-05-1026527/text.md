@@ -132,136 +132,57 @@ Toerisme Vlaanderen kent het label `Toerisme voor Allen' toe aan:<br>
 1° de toeristische logiezen die aangemeld zijn als `jeugdverblijf' conform de bepalingen van dit decreet; of<br>
 2° de toeristische logiezen die aangemeld zijn als `hostel' conform de bepalingen van dit decreet, en die jaarlijks minstens 70% overnachtingen voor kinderen en jongeren tot en met dertig jaar realiseren.
 
-## HOOFDSTUK 5 Toezicht, controle en sancties
+## HOOFDSTUK 5 Handhaving
 
 ### ART. 10.
 
-<p>Met behoud van de bevoegdheden van de agenten van de federale en de lokale politie wijst de Vlaamse Regering de personen aan die gemachtigd zijn toezicht en controle uit te oefenen op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan. Ze worden ermee belast de overtredingen van dit decreet en van de uitvoeringsbesluiten ervan op te sporen en door middel van processen-verbaal vast te stellen. Ze mogen, binnen de uitvoering van hun opdracht, elk onderzoek en elke controle uitvoeren. Ze mogen eender wie ondervragen over alles wat nuttig is om te weten bij de uitvoering van hun toezicht en controleopdracht. Ze kunnen, zonder zich te verplaatsen, alle inlichtingen en documenten opvragen, met inbegrip van informatiedragers die gegevens bevatten die noodzakelijk zijn voor de uitvoering van hun opdracht en die ze nuttig achten om zich ervan te vergewissen dat de bepalingen van dit decreet en de uitvoeringsbesluiten ervan nageleefd worden.</p>
-
-<p>De aangewezen personen respecteren het vertrouwelijke karakter van de gegevens van vertrouwelijke aard of bedrijfsgeheimen waarvan ze kennis hebben gekregen in het kader van hun toezichts- en controleopdracht.</p>
-
-<p>Bij de uitoefening van hun ambt kunnen de aangewezen personen de bijstand van de lokale en federale politie vorderen. De aangewezen personen mogen bij de uitoefening van hun ambt, zonder voorafgaande toestemming, elke plaats die bestemd is voor het toeristische logies, vrij betreden. Ze hebben echter alleen toegang tot de bewoonde lokalen, met inbegrip van het toeristische logies, als ze aan een van de volgende voorwaarden voldoen:<br>
-1° ze hebben de voorafgaande schriftelijke toestemming gekregen van de bewoner of de toerist;<br>
-2° ze zijn er vooraf schriftelijk toe gemachtigd door de rechter in de politierechtbank.</p>
-
-<p>De aangewezen personen tonen desgevraagd bij de uitoefening van hun ambt hun legitimatiekaart, waarvan de vorm en de inhoud door de Vlaamse Regering worden bepaald.</p>
-
-<p>Het opgestelde en betekende proces-verbaal heeft bewijskracht tot het tegendeel is bewezen.</p>
-
-<p>Een afschrift van het proces-verbaal wordt, op straffe van het verlies van de bewijskracht die aan de akte toekomt, binnen een termijn van vijftien kalenderdagen met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, bezorgd aan:<br>
-1° de overtreder;<br>
-2° de eigenaar van het toeristische logies als dat een andere persoon is dan de overtreder;<br>
-3° de burgemeester van de gemeente waar het toeristische logies ligt;<br>
-4° Toerisme Vlaanderen;<br>
-5° de dienst of instantie waartoe de gemachtigde personen, vermeld in artikel 14, § 1, behoren als dat een andere dienst of instantie is dan Toerisme Vlaanderen.</p>
-
-<p>In geval van een overtreding van artikel 11, zijn punt 2° en 3° van het zesde lid niet van toepassing.</p>
-
-<p>De termijn van vijftien kalenderdagen, vermeld in het zesde lid, wordt als volgt berekend:<br>
-1° de termijn van vijftien kalenderdagen neemt een aanvang de eerste kalenderdag na het opstellen van het proces-verbaal;<br>
-2° de vervaldag is in de termijn begrepen;<br>
-3° wanneer de vervaldag een zaterdag, zondag of wettelijke feestdag is, dan wordt deze verplaatst naar de eerstvolgende werkdag.</p>
-
-<p>Als de exploitant of de overtreder zich verzet tegen het toezicht en de controle, vermeld in dit artikel, wordt een proces-verbaal opgesteld voor de belemmering van het toezicht en de controle.</p>
-
-<p>De Vlaamse Regering kan de regels over de inhoud van het proces-verbaal nader bepalen.</p>
+<p>Het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is, met inbegrip van hoofdstuk 10, afdeling 8 en 10, van toepassing op dit hoofdstuk.</p>
 
 ### ART. 11.
 
-De tussenpersonen delen voor de toeristische logiezen in het Vlaamse Gewest waarvoor ze bemiddelen of promotie maken, op schriftelijk verzoek, de gegevens van de exploitant en de adresgegevens van de toeristische logiezen mee aan de agenten van de federale en lokale politie en aan de gemachtigde personen, vermeld in artikel 10.<br>
+De tussenpersonen delen voor de toeristische logiezen in het Vlaamse Gewest waarvoor ze bemiddelen of promotie maken, op schriftelijk verzoek, de gegevens van de exploitant en de adresgegevens van de toeristische logiezen mee aan bevoegde toezichthouders.<br>
 <br>
 De gegevens, vermeld in het eerste lid, kunnen worden opgevraagd in de volgende gevallen:<br>
-1° in het kader van een steekproef om na te gaan of de toeristische logiezen waarvoor de tussenpersoon bemiddelt of promotie maakt, aangemeld zijn bij Toerisme Vlaanderen. Bij een steekproef worden maximaal de gegevens opgevraagd van alle exploitanten en toeristische logiezen in eenzelfde stad of gemeente. Er kunnen meerdere steekproeven gebeuren bij dezelfde tussenpersoon;<br>
-2° bij twijfel of een toeristisch logies waarvoor de tussenpersoon bemiddelt of promotie maakt, voldoet aan de voorwaarden, vermeld in dit decreet, en de uitvoeringsbesluiten ervan;<br>
-3° in het kader van een klacht over een toeristisch logies.
+1° &nbsp;&nbsp; &nbsp;in het kader van een steekproef om na te gaan of de toeristische logiezen waarvoor de tussenpersoon bemiddelt of promotie maakt, aangemeld zijn bij Toerisme Vlaanderen. Bij een steekproef worden maximaal de gegevens opgevraagd van alle exploitanten en toeristische logiezen in eenzelfde stad of gemeente. Er kunnen meerdere steekproeven gebeuren bij dezelfde tussen-persoon;<br>
+2° &nbsp;&nbsp; &nbsp;bij twijfel of een toeristisch logies waarvoor de tussenpersoon bemiddelt of promotie maakt, voldoet aan de voorwaarden, vermeld in dit decreet, en de uitvoeringsbesluiten ervan;<br>
+3° &nbsp;&nbsp; &nbsp;in het kader van een klacht over een toeristisch logies.
 
 ### ART. 12.
 
-<p>§ 1. Een administratieve geldboete van 250 euro tot 25.000 euro kan worden opgelegd aan:<br>
+<p>§1. Een administratieve geldboete van 250 euro tot 25.000 euro kan worden opgelegd aan:<br>
 1° de exploitant van een toeristisch logies in het Vlaamse Gewest dat niet voldoet aan de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 8° en 10° ;<br>
 2° de exploitant van een toeristisch logies die wederrechtelijk houder is of gebruikmaakt van het erkenningsteken, vermeld in artikel 6, § 6, die wederrechtelijk de indruk geeft dat zijn toeristische logies erkend is op grond van dit decreet, die wederrechtelijk gebruikmaakt van een comfortclassificatie als vermeld in artikel 7, § 1, of die wederrechtelijk de indruk geeft te beschikken over een comfortclassificatie op grond van dit decreet;<br>
 3° de tussenpersoon die geen gevolg geeft aan het schriftelijke verzoek, vermeld in artikel 11, om de gegevens van de exploitant of de adresgegevens van het toeristische logies waarvoor hij bemiddelt of promotie maakt, mee te delen.</p>
 
-<p>§ 2. Toerisme Vlaanderen beschikt over een termijn van zes maanden, na de opmaak van het proces-verbaal, vermeld in artikel 10, om een administratieve geldboete op te leggen.</p>
+<p>§2. Als binnen vijf jaar vanaf de datum van het verslag van vaststelling een nieuwe inbreuk wordt vastgesteld, worden de bedragen, vermeld in paragraaf 1, verdubbeld.</p>
 
-<p>§ 3. Toerisme Vlaanderen neemt de beslissing nadat de betrokkene het recht heeft gekregen om gehoord te worden. Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald.</p>
+<p>§3. ...</p>
 
-<p>§ 4. De betrokkene wordt van de beslissing, vermeld in paragraaf 3, op de hoogte gebracht met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert. De kennisgeving vermeldt de wijze waarop en de termijn waarin beroep ingesteld kan worden.</p>
+<p>§4. ...</p>
 
-<p>§ 5. In geval van betwisting van de beslissing, vermeld in paragraaf 3, moet op straffe van verval binnen een termijn van twee maanden vanaf de ontvangst van de kennisgeving, vermeld in paragraaf 4, door middel van de indiening van een verzoekschrift beroep aangetekend worden. Dit beroep wordt, wat de exploitanten, vermeld in paragraaf 1, 1° en 2°, betreft, ingesteld bij de rechtbank van eerste aanleg in het rechtsgebied waarvan het toeristische logies ligt, en wat de tussenpersonen, vermeld in paragraaf 1, 3°, betreft, ingesteld bij de Nederlandstalige rechtbank van eerste aanleg van het gerechtelijk arrondissement Brussel. Titel Vbis van boek II van het vierde deel van het Gerechtelijk Wetboek is van overeenkomstige toepassing. Dat beroep schorst de uitvoering van de beslissing.</p>
+<p>§5. ...</p>
 
-<p>§ 6. Bij verzachtende omstandigheden kan door Toerisme Vlaanderen, bij het opleggen van de geldboete, vermeld in paragraaf 3, of door de rechtbank van eerste aanleg, in geval van beroep, het bedrag van de opgelegde administratieve boete worden verminderd, zelfs tot onder het toepasselijke minimumbedrag.</p>
+<p>§6. ...</p>
 
-<p>Een vraag aan Toerisme Vlaanderen tot vermindering van de opgelegde administratieve geldboete moet, op straffe van verval, binnen een termijn van een maand vanaf de ontvangst van de kennisgeving, vermeld in paragraaf 4, door middel van een verzoekschrift bij Toerisme Vlaanderen worden ingediend. Die vraag schorst de uitvoering van de beslissing en de beroepstermijn, vermeld in paragraaf 5.</p>
+<p>§7. ...</p>
 
-<p>§ 7. Als verschillende overtredingen die de opeenvolgende en voortgezette uitvoering zijn van hetzelfde bijzondere opzet, gelijktijdig worden voorgelegd aan Toerisme Vlaanderen of aan de rechtbanken van eerste aanleg, worden de bedragen van de administratieve geldboeten samengevoegd, zonder dat de som ervan evenwel meer dan 250.000 euro mag bedragen.</p>
+<p>§8. ...</p>
 
-<p>Als Toerisme Vlaanderen of de rechtbank van eerste aanleg vaststelt dat overtredingen die al het voorwerp waren van een in kracht van gewijsde getreden beslissing, en andere feiten die erbij aanhangig zijn en die, in de veronderstelling dat ze bewezen zijn, aan die beslissing voorafgaan en samen met de eerste overtredingen de opeenvolgende en voortgezette uitvoering zijn van hetzelfde bijzondere opzet, wordt bij de straftoemeting rekening gehouden met de al opgelegde sancties. Als die voor een juiste bestraffing van al die overtredingen voldoende lijken, spreekt Toerisme Vlaanderen of de rechtbank van eerste aanleg zich uit over de schuldvraag en verwijst in de beslissing naar de al opgelegde sancties.</p>
-
-<p>§ 8. Als binnen vijf jaar vanaf de datum van het proces-verbaal een nieuwe overtreding wordt vastgesteld, worden de bedragen, vermeld in paragraaf 1 en paragraaf 7, verdubbeld.</p>
-
-<p>§ 9. De Vlaamse Regering bepaalt de termijn en de andere regels voor de betaling van de administratieve geldboete nader.</p>
+<p>§9. ...</p>
 
 ### ART. 13.
 
-<p>§ 1. De personeelsleden die door de Vlaamse Regering belast zijn met de inning van de onbetwiste en opeisbare administratieve geldboeten, zijn ertoe gemachtigd om een dwangbevel uit te vaardigen.</p>
-
-<p>Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de personeelsleden, vermeld in het eerste lid, en wordt betekend bij exploot van een gerechtsdeurwaarder.</p>
-
-<p>§ 2. De personeelsleden, vermeld in paragraaf 1, eerste lid, zijn ertoe gemachtigd om aan de schuldenaars van onbetwiste en opeisbare administratieve geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel van betaling toe te staan en gedeeltelijke betalingen eerst op het kapitaal aan te rekenen.</p>
-
-<p>De personeelsleden, vermeld in paragraaf 1, kunnen gehele of gedeeltelijke kwijtschelding van de schuld in interesten verlenen als de schuldenaar kennelijk onvermogend is.</p>
-
-<p>In de gevallen waarin de toestand van de schuldenaar dat te goeder trouw wettigt, kan de Vlaamse Regering met hem dadingen aangaan.</p>
+<p>De Vlaamse Regering of haar gemachtigde wijst de personeelsleden van Toerisme Vlaanderen aan die optreden als een herstelinstantie als vermeld in artikel 2, 15°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde duidt de personeelsleden van de Vlaamse overheid aan die optreden als beboetingsinstantie als vermeld in artikel 2, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.</p>
 
 ### ART. 14.
 
-<p>§ 1. De agenten van de federale en de lokale politie, en de personen die door de Vlaamse Regering daartoe worden gemachtigd, kunnen na voorafgaande schriftelijke ingebrekestelling en nadat de betrokkene het recht heeft gekregen om gehoord te worden, de onmiddellijke stopzetting bevelen van de exploitatie van het toeristische logies in het Vlaamse Gewest dat niet voldoet aan de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 8° en 10°.<br>
-<br>
-De personen, vermeld in het eerste lid, mogen, binnen de uitvoering van hun opdracht, elk onderzoek en elke controle uitvoeren. Ze mogen eender wie ondervragen over alles wat nuttig is om te weten bij de uitvoering van hun opdracht. Ze kunnen, zonder zich te verplaatsen, alle inlichtingen en documenten opvragen, met inbegrip van informatiedragers die gegevens bevatten die noodzakelijk zijn voor de uitvoering van hun opdracht en die ze nuttig achten om zich ervan te vergewissen dat de voorwaarden, vermeld in artikel 4, eerste lid, 1° tot en met 8° en 10°, worden nageleefd.<br>
-<br>
-De personen, vermeld in het eerste lid, zijn ertoe gemachtigd om alle maatregelen te nemen, met inbegrip van verzegeling en inbeslagname van materiaal en materieel, om het bevel tot stopzetting te kunnen toepassen.<br>
-<br>
-Bij het bevel tot stopzetting is artikel 10, tweede, derde, vierde en negende lid, van overeenkomstige toepassing.<br>
-<br>
-De stopzetting wordt opgelegd door middel van een schriftelijk bevel tot onmiddellijke stopzetting van de exploitatie. De personen, vermeld in het eerste lid, brengen het voormelde bevel op een voor het publiek zichtbare plaats aan.</p>
-
-<p>§ 2. De vaststellingen tot stopzetting van de exploitatie worden vastgelegd in een proces-verbaal dat conform artikel 10 wordt opgesteld. Een afschrift van dat proces-verbaal wordt binnen een termijn van vijftien kalenderdagen met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, bezorgd aan:<br>
-1° de overtreder;<br>
-2° de eigenaar van het toeristische logies als dat een andere persoon is dan de overtreder;<br>
-3° de burgemeester van de gemeente waar het toeristische logies ligt;<br>
-4° Toerisme Vlaanderen.</p>
-
-<p>De termijn van vijftien kalenderdagen, vermeld in het eerste lid, wordt als volgt berekend:<br>
-1° de termijn van vijftien kalenderdagen neemt een aanvang de eerste kalenderdag na het opstellen van het proces-verbaal;<br>
-2° de vervaldag is in de termijn begrepen;<br>
-3° wanneer de vervaldag een zaterdag, zondag of wettelijke feestdag is, dan wordt deze verplaatst naar de eerstvolgende werkdag.</p>
-
-<p>§ 3. In geval van betwisting kan met een procedure, zoals in kort geding, de opheffing van de maatregel gevorderd worden. De vordering wordt gebracht voor de voorzitter van de rechtbank van eerste aanleg in het rechtsgebied waarin het toeristische logies ligt. Deel IV, boek II, titel VI, van het Gerechtelijk Wetboek is van toepassing op de inleiding en de behandeling van de vordering.</p>
+<p>...</p>
 
 ### ART 14/1.
 
-Om hun bevoegdheden te kunnen uitoefenen, hebben de personen die door de Vlaamse Regering gemachtigd zijn toezicht en controle uit te oefenen op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, toegang tot alle informatie en documenten, ongeacht de drager ervan, en tot alle gebouwen, ruimtes en installaties waar taken of bevoegdheden van de Vlaamse administratie worden uitgevoerd. De voormelde personen kunnen aan ieder personeelslid de inlichtingen vragen die voor de uitvoering van hun opdrachten nodig worden geacht. Ieder personeelslid is ertoe gehouden op een volledige wijze te antwoorden en alle relevante informatie en documenten te verstrekken.<br>
-<br>
-Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de personen, vermeld in het eerste lid, beslissen om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het derde tot en met het elfde lid.<br>
-<br>
-De afwijkingsmogelijkheid, vermeld in het tweede lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de personen, vermeld in het eerste lid, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast. De duur van de voorbereidende werkzaamheden mag in voorkomend geval niet meer bedragen dan een jaar vanaf de ontvangst van een verzoek tot uitoefening van een van de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening.<br>
-<br>
-De persoonsgegevens, vermeld in het tweede lid, worden niet langer bewaard dan nodig is voor de doeleinden waarvoor ze worden verwerkt.<br>
-<br>
-De afwijkingsmogelijkheid, vermeld in het tweede lid, heeft geen betrekking op de gegevens die losstaan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het tweede lid, rechtvaardigt.<br>
-<br>
-Als de betrokkene in het geval, vermeld in het tweede lid, tijdens de periode, vermeld in het derde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming brengt de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van elke weigering of beperking van de rechten, vermeld in het tweede lid. De verdere informatie over de nadere redenen voor die weigering of die beperking hoeft niet te worden verstrekt als dat de decretale en reglementaire opdrachten van de personen, vermeld in het eerste lid, zou ondermijnen, met behoud van de toepassing van het negende lid. Als het nodig is, kan de voormelde termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke brengt de betrokkene binnen een maand vanaf de dag die volgt op de dag waarop hij het verzoek heeft ontvangen, op de hoogte van die verlenging en van de redenen voor het uitstel.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens conform artikel 10/5 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
-<br>
-De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voormelde Vlaamse toezichtcommissie.<br>
-<br>
-Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
-<br>
-Als een dossier dat persoonsgegevens als vermeld in het tweede lid, bevat, naar het Openbaar Ministerie is gestuurd en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
+...
 
 ## HOOFDSTUK 6 [Toekennen van subsidies (verv. Decr. 11 februari 2022, art. 12, I: 1 januari 2023)]
 
