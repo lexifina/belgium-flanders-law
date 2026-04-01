@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042065,
+  "title": "Ministerieel besluit van 2026-05-08 over de gelijkstelling van bepaalde opleidingen in het kader van omgevingshandhaving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042065/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "cbc2188d5e3a8bc1ea085cf1cf0f00ce1439853b56bc5e8231e749b59345b061",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042065&param=informatie",
+  "as_of": "2026-04-01",
+  "made": "2026-05-08",
+  "gazette": "2026-06-05",
+  "numac": 2026004106,
+  "document_start": "2026-04-01",
+  "document_end": null,
+  "in_force": "2026-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
