@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041846,
+  "title": "Besluit van de Vlaamse Regering van 2026-03-13 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de wetenschappelijke loopbaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041846/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "2e2c3af025bb43109751ade9abf0f6761ed5e41f31320f2ecaca991e96f5d571",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041846&param=informatie",
+  "as_of": "2026-04-01",
+  "made": "2026-03-13",
+  "gazette": "2026-03-25",
+  "numac": 2026002061,
+  "document_start": "2026-04-01",
+  "document_end": null,
+  "in_force": "2026-04-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2026-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
