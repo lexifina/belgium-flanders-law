@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042185,
+  "title": "Ministerieel besluit van 2026-04-10 over de machtiging tot aanwijzing van de beboetingsinstantie overeenkomstig het Omgevingshandhavingsbesluit van 23 mei 2025",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042185/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "89496aed70e62b0f8083e8d645d116448f8eb7ae80138436e64485810a016c1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042185&param=informatie",
+  "as_of": "2026-04-01",
+  "made": "2026-04-10",
+  "gazette": "2026-07-15",
+  "numac": 2026005369,
+  "document_start": "2026-04-01",
+  "document_end": null,
+  "in_force": "2026-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
