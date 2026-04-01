@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041856,
+  "title": "Besluit van de Vlaamse Regering van 2026-03-06 tot overdracht van personeelsleden van het departement Omgeving aan het agentschap Onroerend Erfgoed door de overdracht van handhavingstaken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041856/VolledigDocument?datum=2026-04-01",
+  "source_sha256": "2ba4da3ae256bdbcc00041cfbf7fc8ad100d4878e5601485216a0e6fd7194f26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041856&param=informatie",
+  "as_of": "2026-04-01",
+  "made": "2026-03-06",
+  "gazette": "2026-03-24",
+  "numac": 2023002192,
+  "document_start": "2026-04-01",
+  "document_end": null,
+  "in_force": "2026-04-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
