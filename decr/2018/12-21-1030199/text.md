@@ -20,7 +20,7 @@ Onverminderd de toepassing van andere regelgeving met betrekking tot het roken, 
 
 ### ART 5.
 
-Voor dit decreet en de uitvoeringsbesluiten ervan verloopt het uitoefenen van toezicht, het opleggen van bestuurlijke maatregelen, het opleggen van bestuurlijke geldboeten, het innen en invorderen van verschuldigde bedragen, het opsporen van milieumisdrijven en het vaststellen van milieumisdrijven, het strafrechtelijk bestraffen van milieumisdrijven en het opleggen van veiligheidsmaatregelen volgens de regels, vermeld in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.<br>
 <br>
 De niet-naleving van het rookverbod is alleen strafbaar met een correctionele geldboete van 100 euro tot 1000 euro of met een bestuurlijke geldboete van 0 euro tot 1000 euro.
 
