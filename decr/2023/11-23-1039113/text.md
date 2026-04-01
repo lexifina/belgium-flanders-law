@@ -79,6 +79,10 @@ In artikel 26, derde lid, van hetzelfde decreet, vervangen bij het decreet van 8
 
 In artikel 28, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 8 juni 2018, wordt de zinsnede “verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)” vervangen door de woorden “algemene verordening gegevensbescherming”.
 
+### ART 15.
+
+...
+
 ### ART 16.
 
 In artikel 32 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
