@@ -925,7 +925,7 @@ f) eventuele andere toepassingen;<br>
 
 ### ART. 64.
 
-Voor dit decreet en de uitvoeringsbesluiten ervan worden de milieu-inbreuken en milieumisdrijven onderzocht, vastgesteld en bestraft, wordt het toezicht uitgeoefend, en worden de veiligheidsmaatregelen genomen volgens de regels, vermeld in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />
+Titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is van toepassing op de handhaving van dit decreet en de uitvoerings-besluiten ervan, met inbegrip van de verplichtingen die op grond daarvan worden opgelegd.
 
 ## HOOFDSTUK V Wijzigingsbepalingen
 
