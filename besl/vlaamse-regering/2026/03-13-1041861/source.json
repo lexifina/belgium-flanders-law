@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041861,
+  "title": "Besluit van de Vlaamse Regering van 2026-03-13 tot wijziging van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren, wat betreft de indexatie van de retributie, afwijkingen op quarantainenormen in asielen en de vaccinatieplicht voor katten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041861/VolledigDocument?datum=2026-04-04",
+  "source_sha256": "21e92a79c7e43263cc2880f383b9b71c5aeb9bc3103d90d844ae17855e168801",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041861&param=informatie",
+  "as_of": "2026-04-04",
+  "made": "2026-03-13",
+  "gazette": "2026-03-25",
+  "numac": 2026002275,
+  "document_start": "2026-04-04",
+  "document_end": null,
+  "in_force": "2026-04-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
