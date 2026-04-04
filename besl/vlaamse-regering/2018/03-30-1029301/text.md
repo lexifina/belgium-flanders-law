@@ -1727,6 +1727,10 @@ Er wordt een bestand dat vergelijkbaar is met het bestand, vermeld in het eerste
 De leverancier van de boekhoudsoftware zorgt voor de nodige documentatie en opleiding bij zijn software.<br>
 &nbsp;
 
+### ART 115/1.
+
+De boekhoudsoftware bevat een procedure die ervoor zorgt dat het bestuur de forfaitaire vergoeding voor invorderingskosten, vermeld in artikel 6, eerste lid, van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties, van rechtswege en zonder ingebrekestelling betaalt aan de schuldeiser als er intrest voor laattijdige betaling verschuldigd is conform artikel 5 van de voormelde wet.
+
 ## HOOFDSTUK 8 De waarderingsregels
 
 ## Afdeling 1 Algemene principes
