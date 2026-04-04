@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041860,
+  "title": "Besluit van de Vlaamse Regering van 2026-03-13 tot wijziging van het besluit van de Vlaamse Regering van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en de provinciale besturen, wat betreft de bestrijding van de betalingsachterstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041860/VolledigDocument?datum=2026-04-04",
+  "source_sha256": "7ecd127b6a98fc50a3385492b0828f3d4cacbfaa535f2c0ea97f9cdf90456e67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041860&param=informatie",
+  "as_of": "2026-04-04",
+  "made": "2026-03-13",
+  "gazette": "2026-03-25",
+  "numac": 2026002274,
+  "document_start": "2026-04-04",
+  "document_end": null,
+  "in_force": "2026-04-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
