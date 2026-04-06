@@ -625,8 +625,12 @@ Als bij decreet of besluit van de Vlaamse Regering een wijze van integratie is b
 2°&nbsp;&nbsp; een milieubeoordeling of een screening: voor de andere categorieën van projecten dan de projecten, vermeld in punt 1°, die de Vlaamse Regering aanwijst aan de hand van de criteria, vermeld in bijlage I, die bij dit decreet is gevoegd.<br>
 <br>
 §2. De volgende projecten vallen niet onder de werkingssfeer van deze titel:<br>
-1°&nbsp;&nbsp; de loutere hernieuwing van de vergunning, vermeld in artikel 70 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
-2°&nbsp;&nbsp; de omzetting, vermeld in artikel 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+1° de loutere hernieuwing van de vergunning, vermeld in artikel 70 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+2° de omzetting, vermeld in artikel 390 van het voormelde decreet;<br>
+3° projecten waarvoor specifieke bepalingen gelden in het kader van de Europese regelgeving, vermeld in hoofdstuk 10/1, afdeling 2, van het voormelde decreet. Die afwijking geldt niet voor de volgende projecten:<br>
+a) projecten met mogelijk aanzienlijke grens- of gewestgrensoverschrijdende milieueffecten of als de bevoegde autoriteiten van de staten of gewesten in kwestie daarom verzoeken, op grond van artikel 4.4.3, §6, of artikel 4.4.7, §4, van dit decreet;<br>
+b) projecten waarbij er aanzienlijke onvoorziene negatieve milieueffecten kunnen zijn;<br>
+c) projecten die buiten gebieden voor de versnelde uitrol van hernieuwbare energie als vermeld in artikel 2.2.5, §2/1, van de Vlaamse Codex Ruimtelijke Ordening, liggen.<br>
 <br>
 §3. Een initiatiefnemer van een voorgenomen project kan in alle gevallen een milieubeoordeling uitvoeren conform hoofdstuk 4.<br>
 <br>
