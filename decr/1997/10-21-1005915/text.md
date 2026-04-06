@@ -957,7 +957,14 @@ De overheid motiveert elke beslissing over de voorgenomen actie in het bijzonder
 <br>
 Wordt deze beslissing genomen in het kader van een vergunningverlening of het verlenen van een toestemming of machtiging, dan deelt de overheid haar beslissing mee aan de aanvrager op dezelfde wijze als de beslissing op de aanvraag voor de vergunning of de toestemming of machtiging wordt meegedeeld.<br>
 <br>
-§ 7. Voor de speciale beschermingszones kan de Vlaamse regering een specifieke regeling uitwerken voor de cumulatieve toepassing van de procedures voorzien in dit artikel en in de artikelen 13, 15 en 26bis.
+§ 7. Voor de speciale beschermingszones kan de Vlaamse regering een specifieke regeling uitwerken voor de cumulatieve toepassing van de procedures voorzien in dit artikel en in de artikelen 13, 15 en 26bis.<br>
+<br>
+§8. In afwijking van paragraaf 3 en 4 worden de hernieuwbare-energieprojecten, nieuwe aanvragen voor installaties voor de productie van hernieuwbare energie, met inbegrip van installaties waarin verschillende soorten technologie voor hernieuwbare energie worden gecombineerd en de repowering van elektriciteitscentrales die gebruikmaken van hernieuwbare energie in aangewezen gebieden voor de versnelde uitrol van hernieuwbare energie voor die technologie en energieopslag op één locatie, alsook de aansluiting van die centrales en opslag op het net, niet onderworpen aan een passende beoordeling van hun gevolgen voor speciale beschermingszones, op voorwaarde dat die projecten voor hernieuwbare energie voldoen aan de regels en maatregelen die zijn vastgesteld conform artikel 2.2.5, §2/1, van de Vlaamse Codex Ruimtelijke Ordening.<br>
+<br>
+In deze paragraaf wordt verstaan onder:<br>
+1° energieopslag op één locatie: een energieopslagvoorziening gecombineerd met een installatie voor de productie van hernieuwbare energie die zijn aangesloten op hetzelfde toegangspunt tot het net;<br>
+2° gebieden voor de versnelde uitrol van hernieuwbare energie: de gebieden aangewezen conform artikel 2.2.5, §2/1, van de Vlaamse Codex Ruimtelijke Ordening;<br>
+3° repowering: het vernieuwen van hernieuwbare energie producerende elektriciteitscentrales, met inbegrip van de volledige of gedeeltelijke vervanging van installaties of exploitatiesystemen en apparatuur, teneinde de capaciteit te vervangen of de efficiëntie of capaciteit van de installatie te verhogen.
 
 ## AFDELING 4 ALGEMENE MAATREGELEN VOOR DE BESCHERMING VAN HET NATUURLIJK MILIEU
 
