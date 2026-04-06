@@ -2,16 +2,16 @@
   "codex_id": 1024690,
   "title": "Decreet van 2014-04-25 betreffende de omgevingsvergunning",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024690/VolledigDocument?datum=2025-12-01",
-  "source_sha256": "68607f6647b8a0c72435123dd32eb0dd3ad3ec795660a595447dc2c039630ff9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024690/VolledigDocument?datum=2026-04-06",
+  "source_sha256": "31b6a1784894349c601394cd534a1c0145e9c07cec47da8f080a14a386bb2da1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024690&param=informatie",
-  "as_of": "2025-12-01",
+  "as_of": "2026-04-06",
   "made": "2014-04-25",
   "gazette": "2014-10-23",
   "numac": 2014036510,
   "document_start": "2017-02-23",
   "document_end": null,
-  "in_force": "2025-12-01",
-  "article_versions": 414,
-  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-04-06",
+  "article_versions": 428,
+  "record_form": "consolidated version as in force on 2026-04-06; future article versions excluded; article text as the API gives it"
 }
