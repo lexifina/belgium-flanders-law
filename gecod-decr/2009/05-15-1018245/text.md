@@ -518,7 +518,7 @@ De procedure en de termijnen voor de opmaak van de effectbeoordelingen zijn gere
 <br>
 De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het aanvraagdossier, de procedure en de modaliteiten van het verzoek tot over-nameverplichtingen inzake ruimtelijke uitvoeringsplannen zoals vermeld in artikel 4.1.1. en 4/1.1.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 <br>
-De effectrapporten bevatten de informatie zoals voorgeschreven in de toepasselijke regelgeving, met dien verstande dat naar de informatie die overeenkomstig de bepalingen van deze codex al in het ruimtelijk uitvoeringsplan is opgenomen, verwezen wordt in de effectrapporten.<br>
+De effectrapporten bevatten de informatie zoals voorgeschreven in de toepasselijke regelgeving, met dien verstande dat naar de informatie die overeenkomstig de bepalingen van deze codex al in het ruimtelijk uitvoeringsplan is opgenomen, verwezen wordt in de effectrapporten.&nbsp;In geval van een voorgenomen aanduiding van een gebied voor de versnelde uitrol van hernieuwbare energie als vermeld in artikel 2.2.5, §2/1, wordt de effectbeoordeling uitgevoerd op een detailleringsniveau dat rekening houdt met de hernieuwbare-energieprojecten waarvoor het gebied wordt aangeduid.<br>
 <br>
 In functie van het geïntegreerde planningsproces wordt een procesnota opgesteld die het volledige verloop van het planningsproces beschrijft. Het is een informatief en evolutief document dat in de loop van het planningsproces kan worden aangevuld. De procesnota geeft aan hoe het proces zal verlopen en bevat informatie over :<br>
 1° welke actoren betrokken worden bij het planningsproces, op welke wijze de participatie georganiseerd zal worden en hoe omgegaan wordt met de resultaten van de participatie;<br>
@@ -628,6 +628,10 @@ De stedenbouwkundige verordening, bedoeld in het eerste lid, wordt samen met het
 Een stedenbouwkundige verordening die vastgesteld wordt met het ruimtelijk uitvoeringsplan of een overeenkomst die afgesloten wordt voor of samen met de vaststelling van het ruimtelijk uitvoeringsplan, kan worden gewijzigd op voorwaarde dat daarbij steeds de doelstelling van de stedenbouwkundige verordening of overeenkomst gerespecteerd blijft. De wijziging van een stedenbouwkundige verordening volgt dezelfde procedure als vermeld in artikel 2.3.1, 2.3.2 en 2.3.3 van deze codex.<br>
 <br>
 Alle aangelegenheden die krachtens artikel 2.3.1 geregeld kunnen worden in stedenbouwkundige verordeningen, met uitsluiting van artikel 2.3.1, §1, eerste lid, 11°, kunnen het voorwerp uitmaken van een stedenbouwkundig voorschrift van een ruimtelijk uitvoeringsplan.<br>
+<br>
+§2/1. In een ruimtelijk uitvoeringsplan kan een gebied voor de versnelde uitrol van hernieuwbare energie worden aangeduid als vermeld in artikel 15quater van Richtlijn (EU) 2018/2001 van 11 december 2018 van het Europees Parlement en de Raad ter bevordering van het gebruik van energie uit hernieuwbare bronnen. Als het ruimtelijk uitvoeringsplan een gebied voor de versnelde uitrol van hernieuwbare energie aanduidt, kunnen naast voorschriften van stedenbouwkundige aard ook voorschriften opgenomen worden die niet stedenbouwkundig van aard zijn en die de uitvoering garanderen van maatregelen of voorschriften over de naleving van voorwaarden die resulteren uit het planningsproces, in het bijzonder uit de effectbeoordelingen, vermeld in artikel 2.2.1, §1, van dit decreet.<br>
+<br>
+In deze paragraaf wordt verstaan onder gebied voor de versnelde uitrol van hernieuwbare energie: een specifieke locatie of gebied, te land, ter zee of op binnenwateren, die de plannende overheid heeft aangewezen als bijzonder geschikt voor de installatie van installaties voor de productie van hernieuwbare energie.<br>
 <br>
 § 3. Ruimtelijke uitvoeringsplannen blijven gelden tot ze worden vervangen. Ze kunnen op elk moment geheel of gedeeltelijk worden vervangen.<br>
 <br>
