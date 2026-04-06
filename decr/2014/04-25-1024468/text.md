@@ -154,11 +154,19 @@ De Vlaamse Regering stelt nadere regels vast voor de wijze waarop en de termijne
 
 <p>Het geïntegreerde effectenonderzoek omvat ten minste het ruimtelijke en het milieugerelateerde effectenonderzoek op strategisch niveau.</p>
 
-<p>Als het voorkeursbesluit, afzonderlijk of in combinatie met andere plannen of projecten, betekenisvolle effecten kan hebben op een speciale beschermingszone, wordt een passende beoordeling gemaakt van de gevolgen voor dat gebied, waarbij rekening wordt gehouden met de instandhoudingsdoelstellingen ervan. Die passende beoordeling maakt een als dusdanig herkenbaar onderdeel uit van het milieugerelateerde effectenonderzoek.</p>
+<p>Als het voorkeursbesluit, afzonderlijk of in combinatie met andere plannen of projecten, betekenisvolle effecten kan hebben op een speciale beschermingszone, wordt een passende beoordeling gemaakt van de gevolgen voor dat gebied, waarbij rekening wordt gehouden met de instandhoudingsdoelstellingen ervan. Die passende beoordeling maakt een als dusdanig herkenbaar onderdeel uit van het milieugerelateerde effectenonderzoek.<br>
+<br>
+In afwijking van het derde lid worden de hernieuwbare-energieprojecten, nieuwe aanvragen voor installaties voor de productie van hernieuwbare energie, met inbegrip van installaties waarin verschillende soorten technologie voor hernieuwbare energie worden gecombineerd en de repowering van elektriciteitscentrales die gebruikmaken van hernieuwbare energie in aangewezen gebieden voor de versnelde uitrol van hernieuwbare energie voor die technologie en energieopslag op één locatie, alsook de aansluiting van die centrales en opslag op het net, niet onderworpen aan een passende beoordeling van hun gevolgen voor speciale beschermingszones, op voorwaarde dat die projecten voor hernieuwbare energie voldoen aan de regels en maatregelen die zijn vastgesteld conform artikel 2.2.5 van de Vlaamse Codex Ruimtelijke Ordening.</p>
 
 <p>Op grond van toepasselijke regelgeving van andere beleidssectoren die relevant zijn bij de beoordeling van een complex project, kunnen andere onderzoeken, dan vermeld in het tweede en derde lid, in het onderzoek op strategisch niveau betrokken worden.</p>
 
-<p>De resultaten van het milieugerelateerde effectenonderzoek worden vastgelegd in een ontwerp van MER.</p>
+<p>De resultaten van het milieugerelateerde effectenonderzoek worden vastgelegd in een ontwerp van MER.<br>
+<br>
+In dit artikel wordt verstaan onder:<br>
+1° energieopslag op één locatie: een energieopslagvoorziening gecombineerd met een installatie voor de productie van hernieuwbare energie die zijn aangesloten op hetzelfde toegangspunt tot het net;<br>
+2° gebieden voor de versnelde uitrol van hernieuwbare energie: de gebieden aangewezen conform artikel 2.2.5, §2/1, van de Vlaamse Codex Ruimtelijke Ordening;<br>
+3° repowering: het vernieuwen van hernieuwbare energie producerende elektriciteitscentrales, met inbegrip van de volledige of gedeeltelijke vervanging van installaties of exploitatiesystemen en apparatuur, teneinde de capaciteit te vervangen of de efficiëntie of capaciteit van de installatie te verhogen.<br>
+&nbsp;</p>
 
 ### ART. 10.
 
@@ -311,9 +319,16 @@ De Vlaamse Regering stelt nadere regels vast voor de wijze waarop en de termijne
 
 <p>Het geïntegreerd effectenonderzoek omvat ten minste het ruimtelijke en het milieugerelateerde effectenonderzoek op uitvoeringsniveau.</p>
 
-<p>Als het complexe project, afzonderlijk of in combinatie met andere plannen of projecten betekenisvolle effecten kan hebben voor een speciale beschermingszone wordt een passende beoordeling gemaakt van de gevolgen voor dat gebied, waarbij rekening wordt gehouden met de instandhoudingsdoelstellingen ervan. Die passende beoordeling maakt een als dusdanig herkenbaar onderdeel uit van het milieugerelateerde effectenonderzoek. De resultaten van het milieugerelateerde effectenonderzoek worden vastgelegd in een ontwerp van MER.</p>
+<p>Als het complexe project, afzonderlijk of in combinatie met andere plannen of projecten betekenisvolle effecten kan hebben voor een speciale beschermingszone wordt een passende beoordeling gemaakt van de gevolgen voor dat gebied, waarbij rekening wordt gehouden met de instandhoudingsdoelstellingen ervan. Die passende beoordeling maakt een als dusdanig herkenbaar onderdeel uit van het milieugerelateerde effectenonderzoek. De resultaten van het milieugerelateerde effectenonderzoek worden vastgelegd in een ontwerp van MER.<br>
+<br>
+In afwijking van het derde lid worden de hernieuwbare-energieprojecten, nieuwe aanvragen voor installaties voor de productie van hernieuwbare energie, met inbegrip van installaties waarin verschillende soorten technologie voor hernieuwbare energie worden gecombineerd en de repowering van elektriciteitscentrales die gebruikmaken van hernieuwbare energie in aangewezen gebieden voor de versnelde uitrol van hernieuwbare energie voor die technologie en energieopslag op één locatie, alsook de aansluiting van die centrales en opslag op het net, niet onderworpen aan een passende beoordeling van hun gevolgen voor speciale beschermingszones, op voorwaarde dat die projecten voor hernieuwbare energie voldoen aan de regels en maatregelen die zijn vastgesteld conform artikel 2.2.5 van de Vlaamse Codex Ruimtelijke Ordening.</p>
 
-<p>Op grond van toepasselijke regelgeving van andere beleidssectoren die relevant zijn bij de beoordeling van een complex project, kunnen andere onderzoeken, dan vermeld in het tweede en derde lid, in het onderzoek op uitvoeringsniveau betrokken worden.</p>
+<p>Op grond van toepasselijke regelgeving van andere beleidssectoren die relevant zijn bij de beoordeling van een complex project, kunnen andere onderzoeken, dan vermeld in het tweede en derde lid, in het onderzoek op uitvoeringsniveau betrokken worden.<br>
+<br>
+In dit artikel wordt verstaan onder:<br>
+1° energieopslag op één locatie: een energieopslagvoorziening gecombineerd met een installatie voor de productie van hernieuwbare energie die zijn aangesloten op hetzelfde toegangspunt tot het net;<br>
+2° gebieden voor de versnelde uitrol van hernieuwbare energie: de gebieden aangewezen conform artikel 2.2.5, §2/1, van de Vlaamse Codex Ruimtelijke Ordening;<br>
+3° repowering: het vernieuwen van hernieuwbare energie producerende elektriciteitscentrales, met inbegrip van de volledige of gedeeltelijke vervanging van installaties of exploitatiesystemen en apparatuur, teneinde de capaciteit te vervangen of de efficiëntie of capaciteit van de installatie te verhogen.</p>
 
 ### ART. 20.
 
