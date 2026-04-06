@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041865,
+  "title": "Decreet van 2026-03-06 tot wijziging van verschillende decreten van het beleidsdomein Omgeving, in het kader van de implementatie van Europese regelgeving over hernieuwbare energie, kritieke grondstoffen en nettonultechnologie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041865/VolledigDocument?datum=2026-04-06",
+  "source_sha256": "c8ababe20a3c221471bcf8f66a13bf69d9020c60c57754d5b850acf83f822145",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041865&param=informatie",
+  "as_of": "2026-04-06",
+  "made": "2026-03-06",
+  "gazette": "2026-03-27",
+  "numac": 2026002345,
+  "document_start": "2026-04-06",
+  "document_end": null,
+  "in_force": "2026-04-06",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2026-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
