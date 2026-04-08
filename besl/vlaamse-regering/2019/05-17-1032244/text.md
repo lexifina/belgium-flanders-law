@@ -725,6 +725,12 @@ De vereiste, vermeld in het eerste lid, 2°, geldt ook als een deel van de algem
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
+## HOOFDSTUK 11/2. Uitvoering
+
+### ART 63/2.
+
+Door de subsidie, vermeld in hoofdstuk 11, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## HOOFDSTUK 12. Toezicht
 
 ### ART 64.

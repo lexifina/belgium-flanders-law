@@ -2,16 +2,16 @@
   "codex_id": 1032244,
   "title": "Besluit van de Vlaamse Regering van 2019-05-17 betreffende de fokkerij van voor de landbouw nuttige huisdieren (citeeropschrift: het Fokkerijbesluit van 17 mei 2019)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032244/VolledigDocument?datum=2025-01-01",
-  "source_sha256": "9080a186f5f8b31e3a38c65e3a9627880150da9316e56c504a47b884b25b5f1b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032244/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "f4734b1680975d5228c343c9cefbee42b778afb465c26409a20522cbc9148ade",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032244&param=informatie",
-  "as_of": "2025-01-01",
+  "as_of": "2026-04-08",
   "made": "2019-05-17",
   "gazette": "2019-09-13",
   "numac": 2019014363,
   "document_start": "2019-09-23",
   "document_end": null,
-  "in_force": "2025-01-01",
-  "article_versions": 73,
-  "record_form": "consolidated version as in force on 2025-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-04-08",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }
