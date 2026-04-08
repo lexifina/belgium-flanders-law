@@ -47,7 +47,7 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van:&nbsp;<br>
 
 Binnen de grenzen van de begrotingskredieten die daarvoor zijn bestemd, kan de bevoegde entiteit, volgens de bepalingen die zijn vastgesteld in dit besluit, steun verlenen voor de opstart van of de omschakeling naar een toekomstgerichte duurzame ondernemingsstrategie op een landbouwbedrijf.<br>
 <br>
-Als het nieuwe bedrijfsmodel op een bestaand landbouwbedrijf focust op landbouwactiviteiten, moet het nieuwe bedrijfsmodel resulteren in een nieuw product- of dienstenaanbod op het landbouwbedrijf.&nbsp;<br>
+In geval van een omschakeling naar een ander product- of dienstenaanbod zijn die producten of diensten op het bestaande bedrijf ten vroegste aangeboden in een periode van vierentwintig maanden vóór de indiening van de steunaanvraag, vermeld in artikel 4.<br>
 <br>
 De steun, vermeld in het eerste lid, wordt verleend in de vorm van een forfaitaire premie als vermeld in artikel 12.&nbsp;
 
@@ -74,13 +74,13 @@ Kandidaat-begunstigden die nog niet voldoen aan de voorwaarde, vermeld in het ee
 ### ART 6.
 
 De steunaanvraag, vermeld in artikel 4, bevat een opstart- of omschakelingsplan met vaste rubrieken, die de bevoegde entiteit ter beschikking stelt, en bevat de volgende elementen:<br>
-1° in voorkomend geval, een beschrijving van het bestaande bedrijf, inclusief bedrijfseconomische gegevens;<br>
-2° een beschrijving van de uitgangssituatie in relatie tot de nieuwe duurzame ondernemingsstrategie;<br>
-3° een beschrijving van de vernieuwde duurzame bedrijfsstrategie, inclusief een bedrijfseconomische projectie;&nbsp;<br>
+1° in voorkomend geval, een beschrijving van het bestaande bedrijf;<br>
+2° een beschrijving van de aanleiding en motivatie om met de nieuwe bedrijfsstrategie te starten;;<br>
+3° een beschrijving van de vernieuwde duurzame bedrijfsstrategie;&nbsp;<br>
 4° een gedetailleerde begroting van de omzet die na de uitvoering van het bedrijfsplan gegenereerd zal worden en rechtstreeks kan worden toegeschreven aan activiteiten die voortvloeien uit de uitvoering van het bedrijfsplan en die op het moment van de aanvraag nog niet bestaan. De voormelde minimale omzet betreft bijkomende omzet die toe te schrijven is aan de activiteiten voor de vernieuwende duurzame bedrijfsstrategie ten opzichte van de omzet die uit de voormelde activiteiten in de twaalf maanden vóór de indiening van de steunaanvraag al is gerealiseerd;<br>
 5° een plan van aanpak voor de uitrol van een vernieuwde duurzame bedrijfsstrategie;<br>
 6° een beschrijving van de bijdrage van de vernieuwde duurzame bedrijfsstrategie aan de duurzaamheid van het bedrijf inclusief doelstellingen, die gesteld worden na de uitvoering van het bedrijfsplan;<br>
-7° een inschatting van de kosten en investeringen die gemaakt zullen worden ter uitvoering van het bedrijfsplan om de vernieuwde duurzame bedrijfsstrategie te realiseren.
+7° een inschatting van de kosten en investeringen ter uitvoering van het bedrijfsplan om de vernieuwde duurzame bedrijfsstrategie te realiseren.
 
 ### ART 7.
 
@@ -113,7 +113,7 @@ De begunstigden voeren het opstart-of omschakelingsplan, vermeld in artikel 6, u
 
 ### ART 10.
 
-Binnen een periode van minimaal één jaar en zes maanden tot maximaal drie jaar na de laatste dag van de aanvraagperiode waarin de steunaanvraag, vermeld in artikel 4, is ingediend, dient de begunstigde via het e-loket een betalingsaanvraag in.<br>
+Binnen een periode van minimaal één jaar en zes maanden tot maximaal drie jaar na de laatste dag van de aanvraagperiode waarin de steunaanvraag, vermeld in artikel 4, is ingediend, en niet later dan 30 juni 2029, dient de begunstigde via het e-loket een betalingsaanvraag in.<br>
 <br>
 De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
 1° de projectboekhouding die in detail de omzet aantoont die door de nieuwe activiteiten zijn gegenereerd in een aaneensluitende en afgesloten periode van twaalf maanden voordat de betalingsaanvraag is ingediend;<br>
@@ -167,6 +167,12 @@ De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven 
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13° van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
+## Hoofdstuk 9/2. Gebruik van het Nederlands
+
+### ART 14/2.
+
+Door de steun, vermeld in artikel 3, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## Hoofdstuk 10. Controle en sancties
 
 ### ART 15.
@@ -174,7 +180,7 @@ De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking
 De bevoegde entiteit is verantwoordelijk voor de coördinatie en voor de uitvoering van de controles, vermeld in verordening (EU) 2021/2115, verordening (EU) 2021/2116 en de gedelegeerde en uitvoeringsverordeningen ervan. De minister kan bijkomende regels bepalen.<br>
 <br>
 De controles, vermeld in het eerste lid, bestaan uit:<br>
-1° de administratieve controles, met inbegrip van controles op het terrein in het kader van die administratieve controles, die voor elk dossier kunnen plaatsvinden;<br>
+1° de administratieve controles, die voor elk dossier plaatsvinden, met inbegrip van de mogelijke controles op het terrein in het kader van die administratieve controles;<br>
 2° de controles ter plaatse die plaatsvinden op basis van een steekproef.<br>
 <br>
 De bevoegde entiteit kan het voorwerp van de steunaanvraag en de betalingsaanvraag, vermeld in artikel 4 en 10, controleren en kan de nodige vaststellingen doen over de nakoming van de voorwaarden waaronder de steun werd verleend.<br>
@@ -232,19 +238,21 @@ De bevoegde entiteit kan boven op de administratieve sancties, vermeld in artike
 
 §1. De bevoegde entiteit behandelt bezwaren tegen beslissingen die rechtsgevolgen tot stand brengen ter uitvoering van dit besluit, de uitvoeringsbesluiten ervan, verordening (EU) 2021/2115 en verordening (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan.<br>
 <br>
-§2. Het bezwaar, vermeld in paragraaf 1, wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit met een bezwaarschrift. De bevoegde entiteit beslist over het bezwaar. Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
-1° het wordt op schriftelijke wijze ingediend;<br>
-2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in het bezwaarschrift aangegeven;<br>
-3° het is ondertekend door de indiener van het bezwaar of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de raadsman ingeschreven is als advocaat of advocaat-stagiair;<br>
-4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
+§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist.&nbsp;<br>
+<br>
+Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het wordt op elektronische wijze of op papier ingediend;<br>
+2°&nbsp;&nbsp; &nbsp;het vermeldt de naam, en de woonplaats of het klantnummer bij de bevoegde entiteit of het ondernemingsnummer van de indiener van het bezwaar. &nbsp;Als het bezwaar wordt ingediend via een bij de bevoegde entiteit gekend e-mailadres, volstaat de vermelding van de naam; &nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten;<br>
+4°&nbsp;&nbsp; &nbsp;het is tijdig ingediend conform het eerste lid.<br>
 <br>
 §3. Als het bezwaar, vermeld in paragraaf 1, niet voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.<br>
 <br>
-§4. De bezwaarindiener of zijn vertegenwoordiger wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar, vermeld in paragraaf 1. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het voormelde bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar, vermeld in paragraaf 1. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het voormelde bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
-De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener of zijn vertegenwoordiger op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
+De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener of zijn vertegenwoordiger en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.&nbsp;
+Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.&nbsp;
 
 ## Hoofdstuk 12. Gegevensverwerking
 
