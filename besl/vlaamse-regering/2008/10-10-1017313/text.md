@@ -63,6 +63,10 @@ De erkenning wordt van rechtswege opgeheven als het algemeen centrum gedurende t
 
 Binnen de grenzen van de daartoe bestemde begrotingskredieten kan de minister jaarlijks, volgens de bepalingen, vermeld in het decreet en in dit besluit :<br />1° een subsidie verlenen aan de algemene centra voor de uitvoering van hun actieplan;<br />2° een subsidie verlenen aan de centra en de algemene centra voor de uitvoering van projecten.
 
+### ART 8/1.
+
+Door een subsidie als vermeld in artikel 8, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## Afdeling II. Subsidiëring actieplan algemene centra
 
 ### ART. 9.
