@@ -64,7 +64,16 @@ De subsidie, vermeld in artikel 2, wordt verleend onder de voorwaarden, vermeld 
 
 ### ART. 6.
 
-Als de land- of tuinbouwer de zorgboerderijactiviteiten delegeert aan een   derde partij, vinden de zorgboerderijactiviteiten plaats op het bedrijf van de   land- of tuinbouwer, wordt dat vermeld in de zorgboerderijovereenkomst en wordt   daarover een overeenkomst gesloten tussen de land- of tuinbouwer en die derde   partij.<BR>
+De land- of tuinbouwer kan de uitvoering van de zorgboerderijactiviteiten laten uitvoeren door een derde partij als al de volgende voorwaarden vervuld zijn:<br>
+1°&nbsp;&nbsp; &nbsp;de land- of tuinbouwer is nog altijd betrokken bij de zorgboerderijactiviteiten;<br>
+2°&nbsp;&nbsp; &nbsp;de zorgboerderijactiviteiten vinden plaats op het bedrijf van de land- of tuinbouwer;<br>
+3°&nbsp;&nbsp; &nbsp;de samenwerking met de derde partij wordt vermeld in de zorgboerderijovereenkomst, vermeld in hoofdstuk 4;<br>
+4°&nbsp;&nbsp; &nbsp;er wordt een overeenkomst gesloten tussen de land- of tuinbouwer en de derde partij over de uitvoering van de zorgboerderijactiviteiten. Die overeenkomst wordt toegevoegd aan de zorgboerderijovereenkomst;<br>
+5°&nbsp;&nbsp; &nbsp;de land- en tuinbouwer gaat na of diens verzekering burgerlijke aansprakelijkheid als vermeld in artikel 5, eerste lid, 4°, volstaat. Als dat niet het geval is, sluit de derde partij ook een verzekering voor burgerlijke aansprakelijkheid. Afspraken daarover worden vermeld in de overeenkomst tussen de land- en tuinbouwer en de derde partij.
+
+### ART 6/1.
+
+Door de subsidie, vermeld in artikel 2, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
 
 ## HOOFDSTUK 3 ...
 
