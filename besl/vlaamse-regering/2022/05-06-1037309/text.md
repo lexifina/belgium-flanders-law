@@ -29,25 +29,26 @@ DE VLAAMSE REGERING BESLUIT:
 
 ### ART 1.
 
-Dit besluit voorziet in de uitvoering van verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren.
+Dit besluit voorziet in de uitvoering van gedelegeerde verordening (EU) 2023/2465 en uitvoeringsverordening (EU) 2023/2466.
 
 ### ART 2.
 
 In dit besluit wordt verstaan onder:<br>
 1° bevoegde entiteit: het Agentschap Landbouw en Zeevisserij, vermeld in artikel 29/1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° eieren: eieren in de schaal - met uitzondering van gebroken eieren, bebroede eieren en gekookte eieren - die zijn gelegd door kippen van de soort Gallus gallus en die geschikt zijn voor directe menselijke consumptie of voor de bereiding van eiproducten;<br>
-3° houderijmethode: een van de houderijmethodes die vermeld worden in artikel 12, lid 2, en bijlage II, van verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren;<br>
+3° houderijmethode: een van de houderijmethodes die vermeld worden in artikel 11, lid 2, en bijlage II, van gedelegeerde verordening (EU) 2023/2465;<br>
 4° leghennenbedrijf: een inrichting die voldoet aan al de volgende voorwaarden:<br>
 a) er worden leghennen gehouden;<br>
 b) ze is geregistreerd bij de daarvoor bevoegde overheid conform het koninklijk besluit van 3 mei 2003 betreffende de identificatie en de registratie van inrichtingen waar legkippen worden gehouden;<br>
 5° pakstation: een inrichting die aan al de volgende voorwaarden voldoet:<br>
 a) er worden eieren volgens kwaliteits- en gewichtsklassen gesorteerd als vermeld in punt 5.4 van de bijlage I bij verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong;<br>
-b) ze beschikt over een toelating van de daarvoor bevoegde overheid conform artikel 5, lid 2, van verordening (EG) nr. 589/2008;<br>
+b) ze beschikt over een toelating van de daarvoor bevoegde overheid conform artikel 3, lid 2, van uitvoeringsverordening (EU) 2023/2466;<br>
 6° verhandelen: het in voorraad hebben of het uitstallen voor de verkoop, het te koop aanbieden, de aflevering, of elke andere wijze van in de handel brengen;<br>
-7° verordening (EG) nr. 589/2008: verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren;<br>
-7°/1 verordening (EU) 2018/848: verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad.<br>
+7° gedelegeerde verordening (EU) 2023/2465: gedelegeerde verordening (EU) 2023/2465 van de Commissie van 17 augustus 2023 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft handelsnormen voor eieren, en tot intrekking van Verordening (EG) nr. 589/2008 van de Commissie;<br>
+7°/1 verordening (EU) 2018/848: verordening (EU) 2018/848 van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad;<br>
+7°/2 uitvoeringsverordening (EU) 2023/2466: uitvoeringsverordening (EU) 2023/2466 van de Commissie van 17 augustus 2023 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft handelsnormen voor eieren;<br>
 8° verpakking: een onmiddellijke verpakking voor eieren van klasse A of B, met uitzondering van transportverpakkingen en houders voor industriële eieren;<br>
-9° voedingswijze: de voedingswijze, vermeld in artikel 15 en bijlage II bij de verordening (EG) nr. 589/2008.
+9° voedingswijze: de voedingswijze, vermeld in artikel 13 van de gedelegeerde verordening (EU) 2023/2465.
 
 ### ART 3.
 
@@ -57,10 +58,10 @@ De bepalingen opgenomen in dit besluit zijn van toepassing op de leghennenbedrij
 
 ### ART 4.
 
-Een leghennenbedrijf dat over een erkenning beschikt die is afgeleverd door de bevoegde entiteit, mag eieren verhandelen die afkomstig zijn van een houderijmethode als vermeld in bijlage II bij verordening (EG) nr. 589/2008, en mag die houderijmethode vermelden en laten vermelden in de producentencode en op de verpakking conform artikel 9 en artikel 12, lid 2, van de voormelde verordening.<br>
+Een leghennenbedrijf dat over een erkenning beschikt die is afgeleverd door de bevoegde entiteit, mag eieren verhandelen die afkomstig zijn van een houderijmethode als vermeld in bijlage II bij de gedelegeerde verordening (EU) 2023/2465, en mag die houderijmethode vermelden en laten vermelden in de producentencode en op de verpakking conform artikel 4 van uitvoeringsverordening (EU) 2023/2466 en artikel 11, lid 2, van de gedelegeerde verordening (EU) 2023/2465.<br>
 <br>
 Een leghennenbedrijf kan erkend worden als het voldoet aan al de volgende voorwaarden:<br>
-1° het leghennenbedrijf voldoet aan de voorwaarden voor de houderijmethode in kwestie als vermeld in bijlage II bij verordening (EG) nr. 589/2008;<br>
+1° het leghennenbedrijf voldoet aan de voorwaarden voor de houderijmethode in kwestie als vermeld in bijlage II bij de gedelegeerde verordening (EU) 2023/2465;<br>
 2° de eieren worden geproduceerd in de houderijmethode, vermeld in punt 1°.<br>
 <br>
 De erkenningsaanvraag wordt eenmalig in elektronische vorm ingediend bij de bevoegde entiteit en vermeldt al de volgende gegevens:<br>
@@ -97,15 +98,11 @@ Artikel 4, vierde en zesde lid, zijn van toepassing op de erkenning, vermeld in 
 
 In afwijking van artikel 4 van dit besluit wordt een leghennenbedrijf dat onderworpen is aan het controlesysteem van de biologische productiemethode, vermeld in verordening (EU) 2018/848, geacht erkend te zijn bij de bevoegde entiteit als vermeld in artikel 4 van dit besluit.&nbsp;<br>
 <br>
-De bevoegde entiteit stuurt een bevestiging van de erkenning, vermeld in het eerste lid, met vermelding van de gegevens, vermeld in artikel 4, derde lid, naar het leghennenbedrijf.<br>
-<br>
-Het leghennenbedrijf dat vaststelt dat de gegevens die vermeld zijn op de bevestiging conform het tweede lid, foutief zijn, deelt dat onmiddellijk mee aan de bevoegde entiteit.<br>
-<br>
 Artikel 4, vierde en zesde lid, zijn van toepassing op de erkenning, vermeld in het eerste lid.
 
 ### ART 5/2.
 
-In afwijking van artikel 4 van dit besluit kan een leghennenbedrijf dat onderworpen is aan het controlesysteem van de biologische productiemethode, vermeld in verordening (EU) 2018/848, tijdelijk en zonder dat het over de erkenning voor de houderijmethode vrije uitloop hoeft te beschikken, die houderijmethode vrije uitloop vermelden en laten vermelden in de producentencode en op de verpakking conform artikel 9 en artikel 12, lid 2, van verordening (EG) nr. 589/2008, in de wachttijd, vermeld in punt 1.5.2.5 van deel II van bijlage II bij verordening (EU) 2018/848, onder de volgende voorwaarden:<br>
+In afwijking van artikel 4 van dit besluit kan een leghennenbedrijf dat onderworpen is aan het controlesysteem van de biologische productiemethode, vermeld in verordening (EU) 2018/848, tijdelijk en zonder dat het over de erkenning voor de houderijmethode vrije uitloop hoeft te beschikken, die houderijmethode vrije uitloop vermelden en laten vermelden in de producentencode en op de verpakking conform artikel 4 van uitvoeringsverordening (EU) 2023/2466 en artikel 11 van de gedelegeerde verordening (EU) 2023/2465, in de wachttijd, vermeld in punt 1.5.2.5 van deel II van bijlage II bij verordening (EU) 2018/848, onder de volgende voorwaarden:<br>
 1° de verordening (EU) 2018/848 blijft van toepassing en wordt nageleefd;&nbsp;<br>
 2° het leghennenbedrijf meldt het gebruik van de voormelde houderijmethode voorafgaandelijk aan de bevoegde entiteit;&nbsp;<br>
 3° de bevoegde entiteit bevestigt voorafgaandelijk het gebruik van de voormelde houderijmethode.&nbsp;<br>
@@ -122,7 +119,7 @@ De melding, vermeld in het eerste lid, 2°, wordt elektronisch gedaan uiterlijk 
 
 ### ART 6.
 
-Het leghennenbedrijf mag alleen eieren verhandelen die afkomstig zijn van een houderijmethode als vermeld in bijlage II bij verordening (EG) nr. 589/2008, die vermeld wordt in de producentencode en op de verpakking, conform artikel 9 en 10 van dit besluit, als voldaan is aan al de volgende voorwaarden:<br>
+Het leghennenbedrijf mag alleen eieren verhandelen die afkomstig zijn van een houderijmethode als vermeld in bijlage II bij de gedelegeerde verordening (EU) 2023/2465, die vermeld wordt in de producentencode en op de verpakking, conform artikel 9 en 10 van dit besluit, als voldaan is aan al de volgende voorwaarden:<br>
 1° het leghennenbedrijf beschikt over een erkenning voor die houderijmethode als vermeld in artikel 4, 5 en 5/1 van dit besluit, of kan tijdelijk de houderijmethode vrije uitloop vermelden conform artikel 5/2 van dit besluit;<br>
 2° de eieren zijn daadwerkelijk geproduceerd volgens de houderijmethode, vermeld in punt 1°.
 
@@ -145,7 +142,7 @@ De bevoegde entiteit verwerkt de registratieaanvraag, vermeld in het tweede lid,
 
 ### ART 8.
 
-In afwijking van artikel 7 van dit besluit dient een pakstation dat op de datum van de inwerkingtreding van dit besluit al over een toelating beschikt die is afgeleverd door de daartoe bevoegde overheid conform artikel 5, lid 2, van verordening (EG) nr. 589/2008, geen registratieaanvraag als vermeld in artikel 7, tweede lid, van dit besluit, in, maar wordt ze geacht geregistreerd te zijn bij de bevoegde entiteit als vermeld in artikel 7 van dit besluit.<br>
+In afwijking van artikel 7 van dit besluit dient een pakstation dat op de datum van de inwerkingtreding van dit besluit al over een toelating beschikt die is afgeleverd door de daartoe bevoegde overheid conform artikel 3, lid 2, van uitvoeringsverordening (EU) 2023/2466, geen registratieaanvraag als vermeld in artikel 7, tweede lid, van dit besluit, in, maar wordt ze geacht geregistreerd te zijn bij de bevoegde entiteit als vermeld in artikel 7 van dit besluit.<br>
 <br>
 De bevoegde entiteit stuurt een bevestiging van de registratie, vermeld in het eerste lid, met vermelding van de gegevens, vermeld in artikel 7, tweede lid, naar het pakstation.<br>
 <br>
@@ -155,15 +152,15 @@ Het pakstation dat vaststelt dat de gegevens die vermeld zijn op de bevestiging,
 
 ### ART 9.
 
-De leghennenbedrijven en pakstations vermelden de correcte houderijmethode in de producentencode, vermeld in artikel 9, lid 1, van verordening (EG) nr. 589/2008.
+De leghennenbedrijven en pakstations vermelden de correcte houderijmethode in de producentencode, vermeld in artikel 4, lid 1, van de uitvoeringsverordening (EU) 2023/2466.
 
 ### ART 10.
 
-De leghennenbedrijven en pakstations zorgen voor het aanbrengen van de correcte vermelding van de houderijmethode op de verpakkingen met eieren van klasse A, vermeld in artikel 12, lid 2, van verordening (EG) nr. 589/2008.
+De leghennenbedrijven en pakstations zorgen voor het aanbrengen van de correcte vermelding van de houderijmethode op de verpakkingen met eieren van klasse A, vermeld in artikel 11, lid 2, van de gedelegeerde verordening (EU) 2023/2465.
 
 ### ART 11.
 
-De leghennenbedrijven en de pakstations zorgen voor het aanbrengen van de correcte vermelding van de voedingswijze van de leghennen en leven daarbij de volgende voorwaarden na overeenkomstig artikel 15 van verordening (EG) nr. 589/2008:<br>
+De leghennenbedrijven en de pakstations zorgen voor het aanbrengen van de correcte vermelding van de voedingswijze van de leghennen en leven daarbij de volgende voorwaarden na overeenkomstig artikel 13 van gedelegeerde verordening (EU) 2023/2465:<br>
 1° het vermelden van granen als voederbestanddeel is alleen toegestaan als die granen zestig gewichtspercenten van de voedergift uitmaken, waarvan niet meer dan vijftien gewichtspercenten uit graanbijproducten mogen bestaan;<br>
 2° onverminderd het minimum van zestig gewichtspercenten, vermeld in punt 1°, maakt, als een specifieke graansoort wordt vermeld, die soort ten minste dertig gewichtspercenten van de voedergift uit. Als verschillende granen worden vermeld, maakt elk van die granen ten minste vijf gewichtspercenten van de voedergift uit.
 
@@ -179,7 +176,7 @@ De bevoegde entiteit kan administratieve sancties opleggen conform artikel 56 va
 <br>
 Als de bevoegde entiteit vaststelt dat een of meer van de verplichtingen, vermeld in artikel 9 tot en met 11 van dit besluit, niet worden nageleefd, verbiedt ze de volledige partij, waartoe de gecontroleerde eieren behoren, in de handel te brengen of verbiedt ze de invoer ervan als die partij afkomstig is uit een derde land en niet bewezen is dat die partij voldoet aan de verplichtingen, vermeld in artikel 9 tot en met 11 van dit besluit, conform artikel 25 van Verordening (EG) nr. 589/2008.<br>
 <br>
-De bevoegde entiteit controleert conform artikel 25 van Verordening (EG) nr. 589/2008 of de verplichtingen, vermeld in het vijfde lid, voor de partij, vermeld in het vijfde lid, alsnog worden nageleefd en de partij in overeenstemming wordt gebracht.
+De bevoegde entiteit controleert conform artikel 10, lid 2, van uitvoeringsverordening (EU) 2023/2466 of de verplichtingen, vermeld in het vijfde lid, voor de partij, vermeld in het vijfde lid, alsnog worden nageleefd en de partij in overeenstemming wordt gebracht.
 
 ### ART 12/1.
 
@@ -194,7 +191,7 @@ Het leghennenbedrijf dient de aanvraag van een toestemming als vermeld in het ee
 
 ### ART 13.
 
-De bevoegde entiteit verwerkt de gegevens, vermeld in artikel 4, derde lid, 7, tweede lid, en artikel 12, derde lid, van dit besluit, voor de beoordeling van de erkennings- en registratieaanvraag en voor de controle op de naleving van de bepalingen, vermeld in dit besluit en in de verordening (EG) nr. 589/2008.<br>
+De bevoegde entiteit verwerkt de gegevens, vermeld in artikel 4, derde lid, 7, tweede lid, en artikel 12, derde lid, van dit besluit, voor de beoordeling van de erkennings- en registratieaanvraag en voor de controle op de naleving van de bepalingen, vermeld in dit besluit en in de gedelegeerde verordening (EU) 2023/2465 en uitvoeringsverordening (EU) 2023/2466.<br>
 <br>
 De bevoegde entiteit kan voor de erkenning, vermeld in artikel 4, voor de registratie, vermeld in artikel 7, en voor de controle op de naleving van de bepalingen, vermeld in dit besluit, de nodige gegevens en identificatiegegevens van de ondernemingen en de personen die de onderneming vertegenwoordigen, in het e-loket uit de Kruispuntbank van Ondernemingen en het rijksregister halen en verwerken.<br>
 <br>
