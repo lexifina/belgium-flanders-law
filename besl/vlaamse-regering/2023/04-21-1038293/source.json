@@ -2,16 +2,16 @@
   "codex_id": 1038293,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038293/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "c974662889288cb57ce64264c97aba19e5e89f41987112c84500e9a3b5d4f921",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038293/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "faf132e50e3f498c1800e7388888955b143e6c314bf47405f9368c76e5a48f68",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038293&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-04-08",
   "made": "2023-04-21",
   "gazette": "2023-05-30",
   "numac": 2023042393,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2026-01-01",
+  "in_force": "2026-04-08",
   "article_versions": 108,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }
