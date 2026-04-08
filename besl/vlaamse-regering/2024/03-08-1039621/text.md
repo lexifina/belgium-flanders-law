@@ -56,7 +56,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 10° veredelaar: een professionele marktdeelnemer die door selectie, kruising en/of andere methoden gunstige eigenschappen in planten selecteert en/of combineert;<br>
 11° leverancier: een professionele marktdeelnemer die beroepshalve teeltmateriaal of volledige planten vermeerdert, produceert, beschermt, behandelt of in de handel brengt overeenkomstig de bepalingen in dit besluit;<br>
 12° minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<br>
-13° officieel laboratorium: een laboratorium dat de bevoegde entiteit conform artikel 20 heeft aangewezen;<br>
+13° officieel laboratorium: een laboratorium dat de bevoegde entiteit conform artikel 21 heeft aangewezen;<br>
 14° officiële controle: een controle vermeld in dit besluit die de bevoegde entiteit uitvoert of onder de verantwoordelijkheid van de bevoegde entiteit uitgevoerd wordt;<br>
 15° ouderplant: het teeltmateriaal uit de verzameling van kandidaat-ouderplanten die vrij bevonden zijn van de organismen, vermeld in het certificatieschema PM 4/16(2) (Certification scheme for hop) van de European and Mediterranean Plant Protection Organisation (EPPO), en die de leverancier heeft gekozen;<br>
 16° partij: een partij als vermeld in artikel 2, 7), van verordening (EU) 2016/2031;<br>

@@ -2,16 +2,16 @@
   "codex_id": 1039621,
   "title": "Besluit van de Vlaamse Regering van 2024-03-08 over de reglementering van de handel in en de keuring en certificering van teeltmateriaal van hop",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039621/VolledigDocument?datum=2024-05-05",
-  "source_sha256": "cf6f4316af3b426db2be97ca3419fa9b2ecc371006a0dabf14747caffc0282ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039621/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "bea26d6c72317a4be87f5186bcf969dafa0ccdf3b0212b8fce58ea042bf15ffd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039621&param=informatie",
-  "as_of": "2024-05-05",
+  "as_of": "2026-04-08",
   "made": "2024-03-08",
   "gazette": "2024-04-25",
   "numac": 2024003697,
   "document_start": "2024-05-05",
   "document_end": null,
-  "in_force": "2024-05-05",
+  "in_force": "2026-04-08",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2024-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }
