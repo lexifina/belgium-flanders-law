@@ -286,6 +286,12 @@ De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven 
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
+## Hoofdstuk 12/2. Gebruik van het Nederlands
+
+### ART 24/2.
+
+Door de steun, vermeld in artikel 3, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## Hoofdstuk 13. Controle en sancties
 
 ### ART 25.
@@ -360,19 +366,21 @@ De bevoegde entiteit kan, boven op de administratieve sancties, vermeld in artik
 
 §1. De bevoegde entiteit behandelt bezwaren tegen beslissingen die rechtsgevolgen tot stand brengen ter uitvoering van dit besluit, de uitvoeringsbesluiten ervan, verordening (EU) 2021/2115 en (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan.<br>
 <br>
-§2. Het bezwaar, vermeld in paragraaf 1, wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit met een bezwaarschrift. De bevoegde entiteit beslist over het bezwaar. Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
-1° het wordt op schriftelijke wijze ingediend;<br>
-2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in het bezwaarschrift aangegeven;<br>
-3° het is ondertekend door de indiener van het bezwaar of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de raadsman ingeschreven is als advocaat of advocaat-stagiair;<br>
-4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
+§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist.&nbsp;<br>
+<br>
+Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het wordt op elektronische wijze of op papier ingediend;<br>
+2°&nbsp;&nbsp; &nbsp;het vermeldt de naam, en de woonplaats of het klantnummer bij de bevoegde entiteit of het ondernemingsnummer van de indiener van het bezwaar. Als het bezwaar wordt ingediend via een bij de bevoegde entiteit gekend e-mailadres, volstaat de vermelding van de naam; &nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten;<br>
+4°&nbsp;&nbsp; &nbsp;het is tijdig ingediend conform het eerste lid.<br>
 <br>
 §3. Als het bezwaar, vermeld in paragraaf 1, niet voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.<br>
 <br>
-§4. De bezwaarindiener of zijn vertegenwoordiger wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
-De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener of zijn vertegenwoordiger op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
+De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener of zijn vertegenwoordiger en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
+Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
 
 ## Hoofdstuk 15. Gegevensverwerking
 
@@ -504,11 +512,11 @@ Bijlage: NACE-BEL-codes, als vermeld in artikel 4 en 6.<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:82px">10610</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Vervaardiging van maalderijproducten, beperkt tot de activiteiten behorende bij het malen van granen en groenten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Vervaardiging van maalderijproducten</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:82px">10890</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Vervaardiging van andere voedingsmiddelen, beperkt tot het vervaardigen van eierproducten en&nbsp; tot de verwerking van gekweekte insecten</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Vervaardiging van andere voedingsmiddelen</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:82px">11020</td>
@@ -524,7 +532,7 @@ Bijlage: NACE-BEL-codes, als vermeld in artikel 4 en 6.<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:82px">13100</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Bewerken en spinnen van textielvezels, beperkt tot activiteiten, uitgevoerd door vlassers</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:438px">Bewerken en spinnen van textielvezels</td>
 		</tr>
 	</tbody>
 </table>
