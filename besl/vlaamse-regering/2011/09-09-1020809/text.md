@@ -163,6 +163,12 @@ Voor de uitvoering van dit besluit kunnen de volgende categorieën van gegevens 
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
+## HOOFDSTUK 4/3. Aanvullende voorwaarden
+
+### ART 22/3.
+
+Door de steun, vermeld in artikel 2, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## HOOFDSTUK 5. Wijzigingsbepaling
 
 ### ART. 23.
