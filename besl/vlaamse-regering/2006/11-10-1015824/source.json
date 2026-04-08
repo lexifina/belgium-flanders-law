@@ -2,16 +2,16 @@
   "codex_id": 1015824,
   "title": "Besluit van de Vlaamse Regering van 2006-11-10 betreffende buitengewone maatregelen ter ondersteuning van de markt in de sector eieren en slachtpluimvee",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015824/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "cb1c8dd967ff60d2fb6878d07088f971cf6af67a167b7091da1639a57e160e74",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015824/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "20976c5d05d89380556fe7de977f8af5eeb696362a4ac2ceeae367614bd4b48a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015824&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2026-04-08",
   "made": "2006-11-10",
   "gazette": "2007-06-08",
   "numac": 2007035844,
   "document_start": "2006-11-11",
   "document_end": "2026-04-07",
-  "in_force": "2024-01-01",
+  "in_force": "2026-04-08",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }
