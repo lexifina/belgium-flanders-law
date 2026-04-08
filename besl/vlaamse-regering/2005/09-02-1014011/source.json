@@ -2,16 +2,16 @@
   "codex_id": 1014011,
   "title": "Besluit van de Vlaamse Regering van 2005-09-02 betreffende de uitbouw van fokkerijstructuren in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014011/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "cef359bfeac39e655a4e6be0c5553e3cd6bd5fbb4e58b036362575e5d228b364",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014011/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "e8125f8aab029d1f121ae28b0fd2acd495b168963366f910bee46936509224ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014011&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2026-04-08",
   "made": "2005-09-02",
   "gazette": "2005-10-05",
   "numac": 2005036200,
   "document_start": "2005-10-15",
   "document_end": "2026-04-07",
-  "in_force": "2024-01-01",
+  "in_force": "2026-04-08",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }
