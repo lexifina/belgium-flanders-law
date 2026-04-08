@@ -193,7 +193,8 @@ De beoordelingscommissie beoordeelt de ontvankelijke steunaanvragen, vermeld in 
 3° de redelijkheid van de kosten, namelijk de verhouding tussen de kostprijs en het resultaat;<br>
 4° de geschiktheid van de uitvoerders;<br>
 5° de wijze van verspreiding van de resultaten;<br>
-6° de complementariteit met andere lopende projecten en bestaande kennis.<br>
+6° de complementariteit met andere lopende projecten en bestaande kennis;<br>
+7° de samenwerking binnen de imkerijsector in Vlaanderen.<br>
 <br>
 De beoordelingscommissie rangschikt de ontvankelijke projecten, vermeld in het eerste lid, volgens de rangorde van beoordeling. Voor ieder beoordeeld project wordt een beknopte motivatie gegeven op basis van de beoordelingscriteria, vermeld in het derde lid.<br>
 <br>
@@ -300,6 +301,12 @@ Elke imkervereniging verzamelt jaarlijks informatie bij haar leden over het aant
 ### ART 24/1.
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, en tweede lid, 2°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
+
+## Hoofdstuk 8/2. Gebruik van het Nederlands
+
+### ART 24/2.
+
+Door de subsidie, vermeld in artikel 3, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
 
 ## Hoofdstuk 9. Controle en sancties
 
