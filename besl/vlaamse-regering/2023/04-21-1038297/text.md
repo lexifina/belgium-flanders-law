@@ -57,9 +57,7 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van:<br>
 
 Binnen de grenzen van de begrotingskredieten die daarvoor zijn bestemd, kan de bevoegde entiteit, volgens de bepalingen die zijn vastgesteld in dit besluit en de uitvoeringsbesluiten ervan, steun verlenen voor productieve investeringen in landbouwbedrijven.<br>
 <br>
-De steun, vermeld in het eerste lid, wordt verleend in de vorm van:<br>
-1° een investeringspremie;<br>
-2° een waarborg als vermeld in artikel 12, §5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.
+De steun, vermeld in het eerste lid, wordt verleend in de vorm van een investeringspremie.
 
 ## Afdeling 2. De begunstigden
 
@@ -148,9 +146,7 @@ In de steunaanvraag, vermeld in artikel 10, vermeldt de kandidaat-begunstigde al
 1° voor welke investeringen en voor hoeveel investeringen van de investeringscategorieën, vermeld in artikel 6, tweede lid, hij steun aanvraagt;<br>
 2° welke verhoogde steunpercentages als vermeld in artikel 18, tweede lid, hij aanvraagt.<br>
 <br>
-Als de bevoegde entiteit voor de voorgenomen investering geen eenheidskosten bepaald heeft, staaft de kandidaat-begunstigde de geraamde kosten van de investering met offertes.<br>
-<br>
-De steunaanvraag om een waarborg als vermeld in artikel 3, tweede lid, 2°, van dit besluit, te verkrijgen, wordt ingediend door tussenkomst van een kredietinstelling als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 11 december 2015 betreffende de taken, het beheer en de werkwijze van het Vlaams Landbouwinvesteringsfonds.
+Als de bevoegde entiteit voor de voorgenomen investering geen eenheidskosten bepaald heeft, staaft de kandidaat-begunstigde de geraamde kosten van de investering met offertes.
 
 ### ART 12.
 
@@ -158,7 +154,8 @@ De steunaanvraag, vermeld in artikel 10, bevat al de volgende documenten:<br>
 1° een verklaring op erewoord waarin de kandidaat-begunstigde verklaart dat voor dezelfde investeringen geen andere steun van welke aard ook aangevraagd is of aangevraagd zal worden bij een andere overheidsinstantie;<br>
 2° een omgevingsvergunning, als de investering dat vereist;<br>
 3° in voorkomend geval een verklaring dat de kandidaat-begunstigde bij de indiening van de betalingsaanvraag, vermeld in artikel 16, zal voldoen aan de voorwaarden, vermeld in artikel 17, 8°;<br>
-4° technische gegevens om de eenheidskosten en gegevens te onderbouwen die toelaten de effecten van de investering op de doelstellingen, vermeld in artikel 13, eerste lid, 1°, te kwantificeren.
+4° technische gegevens om de eenheidskosten en gegevens te onderbouwen die toelaten de effecten van de investering op de doelstellingen, vermeld in artikel 13, eerste lid, 1°, te kwantificeren;<br>
+5° in voorkomend geval een verklaring dat de steun aangevraagd wordt door een actieve landbouwer waarvan minstens één bedrijfsleider een jonge landbouwer is.
 
 ### ART 13.
 
@@ -208,11 +205,13 @@ Nadat de begunstigde het bewijs van uitvoering conform het eerste lid heeft inge
 
 ### ART 16.
 
-Uiterlijk op de laatste dag van de dertigste maand na de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend, dient de begunstigde via het e-loket een betalingsaanvraag in.<br>
+Uiterlijk op de laatste dag van de dertigste maand na de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend, en niet later dan 30 juni 2029, dient de begunstigde via het e-loket een betalingsaanvraag in.<br>
+<br>
+In afwijking van het eerste lid dient de begunstigde voor investeringen als vermeld in artikel 18, vierde lid, via het e-loket een betalingsaanvraag in, uiterlijk op de laatste dag van de dertigste maand na de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend.<br>
 <br>
 De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:<br>
 1° welke en hoeveel investeringen zijn uitgevoerd;&nbsp;<br>
-2° minstens drie offertes, als de bevoegde entiteit voor de voorgenomen investering geen eenheidskosten bepaald heeft. Als minder dan drie offertes beschikbaar zijn of als er niet gekozen wordt voor de goedkoopste offerte, wordt dat verantwoord;<br>
+2° voor investeringen waarvoor de bevoegde entiteit geen eenheidskosten bepaald heeft, een staving van de marktconformiteit aan de hand van minstens drie vergelijkbare offertes, afkomstig van minstens drie verschillende leveranciers. Als minder dan drie offertes beschikbaar zijn of als er niet gekozen wordt voor de goedkoopste offerte, een verantwoording die aantoont dat de kosten van de investering marktconform zijn;<br>
 3° facturen;<br>
 4° het attest, vermeld in artikel 8, voor investeringen in AEA-systemen;<br>
 5° stukken waaruit blijkt dat aan de voorwaarden, vermeld in artikel 17, is voldaan.
@@ -220,15 +219,16 @@ De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:
 ### ART 17.
 
 Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 3, als al de volgende voorwaarden zijn vervuld op het moment dat de betalingsaanvraag, vermeld in artikel 16, wordt ingediend:<br>
-1° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning als de investering dat vereist;<br>
-2° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, zijn de onroerende investeringen gerealiseerd in het Vlaamse Gewest en komen ten goede aan het samenwerkingsverband;<br>
-3° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, komt de realisatie van roerende investeringen ten goede aan het samenwerkingsverband;<br>
+1° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning&nbsp;die werd verleend aan de begunstigde, als de investering dat vereist;<br>
+2° onroerende investeringen zijn gerealiseerd op een landbouwexploitatie van de begunstigde in het Vlaamse Gewest, in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, zijn de onroerende investeringen gerealiseerd in het Vlaamse Gewest en komen ten goede aan het samenwerkingsverband;<br>
+3° de realisatie van roerende investeringen komt uitsluitend ten goede aan een landbouwexploitatie van de begunstigde in het Vlaamse Gewest en in geval van een samenwerkingsverband als vermeld in artikel 4, eerste lid, 2°, komt de realisatie van roerende investeringen uitsluitend ten goede aan het samenwerkingsverband;<br>
 4° de uitvoering van de investering is op zijn vroegst van start gegaan op de dag na de laatste dag van de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend;<br>
 5° de investering is gerealiseerd conform de technische en bijkomende voorwaarden die zijn bepaald in de beschrijving in het e-loket op het moment van de steunaanvraag, vermeld in artikel 10;<br>
-6° de investering is operationeel en wordt gebruikt;<br>
+6° de investering is operationeel en wordt exclusief gebruikt en beheerd door de begunstigde;<br>
 7° de begunstigde die de betalingsaanvraag, vermeld in artikel 16, indient, is een actieve landbouwer of een samenwerkingsverband van actieve landbouwers als vermeld in artikel 4;&nbsp;<br>
 8° als de aanvrager actieve landbouwer op het moment van de steunaanvraag, vermeld in artikel 10, geen standaardverdiencapaciteit heeft die overeenkomt met een minimaal factorinkomen van 20.000 euro, omwille van artikel 4, tweede lid, komt de standaardverdiencapaciteit van de aanvrager overeen met een factorinkomen van minstens 20.000 euro;<br>
-9° de jonge landbouwer, vermeld in artikel 13, eerste lid, 4°, en artikel 18, tweede lid, 1°, en vierde lid, is vakbekwaam en oefent een daadwerkelijk en langdurig zeggenschap uit, als vermeld in artikel 37 van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid.
+9° de bedrijfsleider die jonge landbouwer is, vermeld in artikel 12, 5°, artikel 13, eerste lid, 4°, en artikel 18, tweede lid, 1°, en vierde lid, van dit besluit, is vakbekwaam en oefent een daadwerkelijk en langdurig zeggenschap uit, als vermeld in artikel 37, eerste lid, 1°, van het besluit van 21 april 2023;<br>
+10° de investering is gerealiseerd conform het koninklijk besluit van 12 augustus 2008 betreffende het op de markt brengen van machines.
 
 ## Afdeling 7. Het steunbedrag
 
@@ -253,9 +253,11 @@ De steun wordt uitbetaald in één schijf na de indiening van de betalingsaanvra
 
 De eenheidskosten worden in aanmerking genomen als de subsidiabele kosten van een investering als vermeld in artikel 18.<br>
 <br>
+Het totale bedrag van de toegekende steun per investering is beperkt tot de waarde die daadwerkelijk door de begunstigde is geïnvesteerd.<br>
+<br>
 Voor investeringen waarvoor geen eenheidskosten beschikbaar zijn, worden de werkelijk gemaakte kosten in aanmerking genomen als subsidiabele kosten van een investering als vermeld in artikel 18. Er kunnen enkel facturen in rekening gebracht worden van minimaal 100 euro.<br>
 <br>
-De bevoegde entiteit bepaalt de eenheidskosten voor alle investeringen waarvoor voldoende gegevens beschikbaar zijn.
+In afwijking van het eerste lid worden voor investeringen waarvoor de bevoegde entiteit geen eenheidskosten bepaald heeft, op het moment van de steunaanvraag, de werkelijk gemaakte kosten in aanmerking genomen als subsidiabele kosten van een investering als vermeld in artikel 18. Er kunnen alleen facturen in rekening gebracht worden van minimaal 100 euro.
 
 ### ART 20.
 
@@ -279,11 +281,11 @@ De steun, vermeld in het eerste lid, wordt verleend in de vorm van een forfaitai
 
 Enkel begunstigden die aan al de volgende voorwaarden voldoen komen in aanmerking voor de steun, vermeld in artikel 21:<br>
 1° de begunstigde is een jonge landbouwer, in afwijking van artikel 37, eerste lid, 2°, van het besluit van de Vlaamse Regering van 21 april 2023 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid, is hij niet ouder dan veertig jaar in het kalenderjaar dat hij de steunaanvraag, vermeld in artikel 23, indient;<br>
-2° de begunstigde heeft zich voor het eerst als landbouwer gevestigd in de periode die start 24 maanden voor de laatste dag van de blokperiode waarin hij de steunaanvraag, vermeld in artikel 23, ingediend heeft en eindigt als hij de eerste betalingsaanvraag, vermeld in artikel 25, indient;<br>
-3° de begunstigde verwerft bij de oprichting of de overname van een landbouwbedrijf minstens 20% van de aandelen of de roerende bedrijfsbekleding;<br>
+2° de begunstigde is voor het eerst zaakvoerder of bestuurder van een landbouwbedrijf of van een vennootschap die bestuurder is van een landbouwbedrijf in de periode die start 24 maanden voor de laatste dag van de blokperiode waarin de begunstigde de steunaanvraag, vermeld in artikel 23 van dit besluit, ingediend heeft en eindigt als de begunstigde de eerste betalingsaanvraag, vermeld in artikel 25 van dit besluit, indient;<br>
+3° de begunstigde verwerft bij de oprichting of de overname van een landbouwbedrijf minstens 20% van de aandelen en de stemrechten, van het landbouwbedrijf, vermeld in punt 2°, of de roerende bedrijfsbekleding van het landbouwbedrijf, vermeld in punt 2°;<br>
 4° in het geval van een overname blijkt de verwerving, vermeld in punt 3°, uit een geregistreerd overnamecontract of een notariële schenkingsakte;<br>
 5° de maatschappelijke zetel en minstens één landbouwexploitatie van het landbouwbedrijf, vermeld in punt 3°, liggen in het Vlaamse Gewest;<br>
-6° de begunstigde wordt geregistreerd als lid, zaakvoerder, vennoot of bestuurder van een landbouwer;<br>
+6° de begunstigde wordt geregistreerd als lid, zaakvoerder, vennoot of bestuurder van het landbouwbedrijf, vermeld in punt 2°;<br>
 7° de verwerving, vermeld in punt 3° en de registratie, vermeld in punt 6°, vinden binnen een periode van dertig dagen plaats.
 
 ## Afdeling 3. Aanvraag en selectie
@@ -341,9 +343,10 @@ Op zijn vroegst twee jaar en uiterlijk drie jaar na de indiening van de eerste b
 De tweede betalingsaanvraag, vermeld in het eerste lid, bevat de volgende elementen als die niet opgehaald kunnen worden uit een authentieke databron als vermeld in artikel III.66 van het bestuursdecreet van 7 december 2018:<br>
 1° een getuigschrift, een diploma of een installatieattest van de begunstigde;<br>
 2° de omgevingsvergunning van het bedrijf;<br>
-3° in voorkomend geval bewijsmateriaal van de arbeidstijd, namelijk de breuk van tewerkstelling in de twaalf maanden vóór de tweede betalingsaanvraag, vermeld in het eerste lid, op basis van gegevens op mycareer.be of andere gegevensbron bij tewerkstelling in buitenland;<br>
-4° in voorkomend geval bewijs van opgenomen studiepunten in de twaalf maanden vóór de tweede betalingsaanvraag, vermeld in het eerste lid;<br>
-5° in voorkomend geval een bewijs van het belastbaar inkomen uit zelfstandige activiteiten buiten het landbouwbedrijf.
+3° in voorkomend geval bewijsmateriaal van de arbeidstijd, namelijk de breuk van tewerkstelling in het laatste volledige kalenderjaar vóór de tweede betalingsaanvraag, vermeld in het eerste lid;;<br>
+4° in voorkomend geval bewijs van opgenomen studiepunten in het laatste volledige kalenderjaar vóór de tweede betalingsaanvraag, vermeld in het eerste lid;<br>
+5° in voorkomend geval een bewijs van het belastbaar inkomen uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
+6° een verslag van uitvoering van het bedrijfsplan.
 
 ### ART 27.
 
@@ -355,7 +358,7 @@ Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 21, als al 
 5° het bedrijf is een actieve landbouwer;<br>
 6° het bedrijf heeft, per bedrijfsleider, een standaardverdiencapaciteit die overeenkomt met een minimaal factorinkomen van 20.000 euro;<br>
 7° het bedrijf wordt uitgebaat conform de omgevingsvergunning;<br>
-8° de begunstigde voldoet tijdens twaalf maanden voor de indiening van de betalingsaanvraag aan een van de volgende reeksen van voorwaarden:<br>
+8° de begunstigde voldoet tijdens het laatste volledige kalenderjaar voor de indiening van de betalingsaanvraag aan een van de volgende reeksen van voorwaarden:<br>
 &nbsp; a) de begunstigde heeft maximaal een halftijdse job uitgeoefend als werknemer, heeft geen enkele opleiding met studiepunten gevolgd en heeft geen enkel beroepsinkomen verworven uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
 &nbsp; b) de begunstigde heeft een opleiding gevolgd van maximaal dertig studiepunten, heeft geen job uitgeoefend als werknemer en heeft geen enkel beroepsinkomen verworven uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
 &nbsp; c) de begunstigde heeft een zelfstandige activiteit buiten het landbouwbedrijf uitgeoefend met maximaal een netto belastbaar beroepsinkomen van 15.000 euro uit die activiteit;<br>
@@ -402,21 +405,31 @@ De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven 
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
+## Hoofdstuk 4/2. Gebruik van het Nederlands
+
+### ART 30/2.
+
+Door de steun, vermeld in artikel 3, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## Hoofdstuk 5. Bijkomende voorwaarden
 
 ### ART 31.
 
-Tot vijf jaar nadat de steun, vermeld in artikel 3, is uitbetaald blijft het goed verbonden aan het bedrijf dat de voormelde steun heeft verkregen of de overnemer van dat bedrijf. Het goed wordt niet doorverkocht en blijft in gebruik.&nbsp;<br>
+Tot vijf jaar nadat de steun, vermeld in artikel 3, is uitbetaald:<br>
+1°&nbsp;&nbsp; &nbsp;is de begunstigde, of in voorkomend geval de overnemer van het landbouwbedrijf van de begunstigde, een actieve landbouwer;<br>
+2°&nbsp;&nbsp; &nbsp;is de bedrijfsleider, vermeld in artikel 18, vierde lid, bedrijfsleider bij het bedrijf dat de steun, vermeld in artikel 3, heeft verkregen;<br>
+3°&nbsp;&nbsp; &nbsp;blijft het goed in exclusief gebruik en beheer van het bedrijf dat de steun, vermeld in artikel 3, heeft verkregen of de overnemer van dat bedrijf. De doeleinden waarvoor het goed gebruikt wordt, worden niet veranderd;<br>
+4°&nbsp;&nbsp; &nbsp;voldoet de begunstigde, in geval van een samenwerkingsverband van landbouwers aan de voorwaarden, vermeld in artikel 4, eerste lid, 2°.&nbsp;<br>
 <br>
 Als stallen gesubsidieerd worden op voorwaarde dat dieren gehuisvest zijn volgens het dierenwelzijnslastenboek moet tot vijf jaar na uitbetaling van de steun, vermeld in artikel 3, voldaan blijven aan dit lastenboek.<br>
 <br>
-In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt drie jaar na indiening van de tweede betalingsaanvraag, vermeld in artikel 26, voldoet de jonge landbouwer bedrijfsleider aan al de volgende voorwaarden:<br>
+In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt op de laatste dag van het derde volledige kalenderjaar na de indiening van de tweede betalingsaanvraag, vermeld in artikel 26, voldoet de jonge landbouwer bedrijfsleider aan al de volgende voorwaarden:<br>
 1° de selectiedrempel, vermeld in artikel 24, behalen;<br>
 2° de minimumscore die hoort bij het selectieproces van de steunaanvraag, vermeld in artikel 24, behalen;<br>
 3° minstens 20% van de aandelen of bedrijfsbekleding behouden.<br>
 4° De combinatie van factorinkomen en aantal bedrijfsleiders moet de steun, vermeld in artikel 28, blijven verantwoorden<br>
 <br>
-In de periode die loopt vanaf het indienen van de tweede betalingsaanvraag, vermeld in artikel 26, en eindigt drie jaar na indiening van de tweede betalingsaanvraag, vermeld in artikel 26, mag de jonge landbouwer zich in een van de volgende situaties bevinden:<br>
+In het kalenderjaar waarin de tweede betalingsaanvraag, vermeld in artikel 26, is ingediend, en de twee daaropvolgende kalenderjaren mag de jonge landbouwer zich in een van de volgende situaties bevinden:<br>
 1° maximaal een halftijdse job uitoefenen als werknemer, geen enkel uur opleiding met studiepunten volgen en geen enkel beroepsinkomen verwerven uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
 2° een opleiding volgen die overeenkomt met maximaal dertig studiepunten per jaar, geen job uitoefenen als werknemer en geen enkel beroepsinkomen verwerven uit zelfstandige activiteiten buiten het landbouwbedrijf;<br>
 3° een zelfstandige activiteit buiten het landbouwbedrijf uitoefenen met per jaar maximaal een netto belastbaar beroepsinkomen van 15.000 euro uit deze activiteit;<br>
@@ -449,7 +462,9 @@ Controles ter plaatse mogen worden aangekondigd op voorwaarde dat het doel of de
 
 ### ART 34.
 
-De begunstigde houdt alle bewijsstukken, die in dit besluit en de uitvoeringsbesluiten ervan worden opgelegd, ter beschikking voor controle tot minimaal tien jaar na de laatste betaling of na het aflopen van de verbintenis, als de laatste betaling eerder heeft plaatsgevonden.
+De begunstigde houdt alle bewijsstukken, die in dit besluit en de uitvoeringsbesluiten ervan worden opgelegd, ter beschikking voor controle tot minimaal tien jaar na de laatste betaling of na het aflopen van de verbintenis, als de laatste betaling eerder heeft plaatsgevonden.<br>
+<br>
+De betaalbewijzen van alle betalingen die zijn gedaan in het kader van de realisatie van investeringen waarvoor steun als vermeld in artikel 3, is aangevraagd, zijn bewijsstukken als vermeld in het eerste lid.
 
 ### ART 35.
 
@@ -499,19 +514,21 @@ De bevoegde entiteit kan, boven op de administratieve sancties, vermeld in artik
 
 §1. De bevoegde entiteit behandelt bezwaren tegen beslissingen die rechtsgevolgen tot stand brengen ter uitvoering van dit besluit, de uitvoeringsbesluiten ervan, verordening (EU) 2021/2115 en verordening (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan.<br>
 <br>
-§2. Het bezwaar, vermeld in paragraaf 1, wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit met een bezwaarschrift. De bevoegde entiteit beslist over het bezwaar. Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
-1° het wordt op schriftelijke wijze ingediend;<br>
-2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in het bezwaarschrift aangegeven;<br>
-3° het is ondertekend door de indiener van het bezwaar of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de raadsman ingeschreven is als advocaat of advocaat-stagiair;<br>
-4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
+§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist.&nbsp;<br>
+<br>
+Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het wordt op elektronische wijze of op papier ingediend;<br>
+2°&nbsp;&nbsp; &nbsp;het vermeldt de naam, en de woonplaats of het klantnummer bij de bevoegde entiteit of het ondernemingsnummer van de indiener van het bezwaar. &nbsp;Als het bezwaar wordt ingediend via een bij de bevoegde entiteit gekend e-mailadres, volstaat de vermelding van de naam; &nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten;<br>
+4°&nbsp;&nbsp; &nbsp;het is tijdig ingediend conform het eerste lid.<br>
 <br>
 §3. Als het bezwaar, vermeld in paragraaf 1, niet voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.<br>
 <br>
-§4. De bezwaarindiener of zijn vertegenwoordiger wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
-De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener of zijn vertegenwoordiger op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
+De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener of zijn vertegenwoordiger en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
+Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
 
 ## Hoofdstuk 8. Gegevensverwerking
 
