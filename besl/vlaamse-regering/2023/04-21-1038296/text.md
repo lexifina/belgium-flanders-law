@@ -56,10 +56,15 @@ De steun, vermeld in het eerste lid, wordt verleend onder de vorm van een invest
 ### ART 4.
 
 De volgende kandidaat-begunstigden komen in aanmerking voor de steun, vermeld in artikel 3:<br>
-1° actieve landbouwers. In geval van een rechtspersoon moeten alle bestuurders en zaakvoerders natuurlijke personen zijn;<br>
-2° groep van landbouwers die aan al de volgende voorwaarden voldoen:<br>
-&nbsp; a) de groep heeft rechtspersoonlijkheid;<br>
-&nbsp; b) alle leden en vennoten zijn actieve landbouwer.
+1°&nbsp;&nbsp; &nbsp;actieve landbouwers. In geval van een rechtspersoon is iedere bestuurder en zaakvoerder een natuurlijke persoon of een vennootschap met rechtspersoonlijkheid. Als de bestuurder of zaakvoerder van het landbouwbedrijf een vennootschap met rechtspersoonlijkheid is, voldoet die rechtspersoon aan al de volgende voorwaarden:<br>
+a)&nbsp;&nbsp; &nbsp;het bestuur bestaat uit maximaal één bestuurder;&nbsp;<br>
+b)&nbsp;&nbsp; &nbsp;de bestuurder, vermeld in punt a), is een natuurlijke persoon die méér dan 50% bezit van de aandelen van de rechtspersoon;<br>
+c)&nbsp;&nbsp; &nbsp;de bestuurder, vermeld in punt a), is de vaste en enige vertegenwoordiger van de rechtspersoon in het bestuur van het landbouwbedrijf;<br>
+2°&nbsp;&nbsp; &nbsp;samenwerkingsverbanden van landbouwers die aan al de volgende voorwaarden voldoen:<br>
+a)&nbsp;&nbsp; &nbsp;het samenwerkingsverband heeft rechtspersoonlijkheid;<br>
+b)&nbsp;&nbsp; &nbsp;alle leden en vennoten zijn actieve landbouwer.<br>
+<br>
+Als de kandidaat begunstigde een vereniging zonder winstoogmerk als vermeld in artikel 1:6, §2, van het Wetboek van vennootschappen en verenigingen is, is de voorwaarde, vermeld in het eerste lid, 2°, b), alleen van toepassing op die leden die deelnemen aan de investering. Welke leden deelnemen aan de investering blijkt uit een gebruiksovereenkomst.
 
 ## Hoofdstuk 4. De investeringen
 
@@ -72,7 +77,9 @@ Volgende investeringen komen in aanmerking voor de steun, vermeld in artikel 3:<
 
 ### ART 6.
 
-De investeringen die in aanmerking komen voor steun worden opgenomen in bijlage 1.
+De investeringen die in aanmerking kunnen komen voor steun worden opgenomen in bijlage 1.<br>
+<br>
+De bevoegde entiteit bepaalt per blokperiode welke van de investeringen, vermeld in het eerste lid, in aanmerking komen voor steun.
 
 ### ART 7.
 
@@ -111,7 +118,11 @@ De volgende investeringen komen niet in aanmerking voor de steun, vermeld in art
 1° de investeringen, vermeld in artikel 73, derde lid, van verordening (EU) 2021/2115;<br>
 2° de aankoop van grond;<br>
 3° de aankoop van tweedehandsmateriaal;<br>
-4° de aankoop van eenjarige planten.
+4° de aankoop van eenjarige planten;<br>
+5° de aankoop van machines of materiaal via veiling;<br>
+6° de aankoop van machines of materiaal met een bouwjaar dat meer dan twee jaar ouder is dan het facturatiejaar van de eerste factuur voor die aankoop;<br>
+7° disproportioneel grote investeringen in verhouding tot de grootte van de bedrijfsactiviteiten van de begunstigde;<br>
+8° leasing.
 
 ## Hoofdstuk 5. Aanvraag en selectie
 
@@ -139,9 +150,9 @@ De steunaanvraag, vermeld in artikel 10, bevat al de volgende elementen:<br>
 1° een beschrijving van het investeringsproject aan de hand van de voorgenomen investeringen;<br>
 2° informatie over de geraamde investeringsbedragen;&nbsp;<br>
 3° een document dat aantoont dat de wettelijke normen inzake leefmilieu, natuur, ruimtelijke ordening en onroerend erfgoed worden nageleefd. Dit kan aan de hand van een van de volgende documenten:&nbsp;<br>
-&nbsp; a) een omgevingsvergunning bij het uitvoeren van investeringen in onroerende staat waarvoor een omgevingsvergunning vereist is en die de uitoefening van alle bestaande en nieuw geplande bedrijfsactiviteiten, die onderworpen zijn aan het bezit van een omgevingsvergunning, toelaat op het landbouwbedrijf waar de investering uitgevoerd wordt dan wel een melding van handelingen in of aan gebouwen. De uitvoering van de werkzaamheden, de bestemming en de exploitatie van het vergunde bedrijfsgebouw of de vergunde installaties zijn in overeenstemming met de omgevingsvergunning of met de melding, in het bijzonder wat betreft bijzondere voorwaarden die worden opgelegd ter voorkoming van schade aan de natuur;<br>
-&nbsp; b) een omgevingsvergunning voor het wijzigen van de vegetatie wanneer er wijzigingen plaatsvinden van de vegetatie of bij het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan;<br>
-&nbsp; c) een toelating of machtiging van het Agentschap Onroerend Erfgoed bij het uitvoeren van een handeling die een aanzienlijke wijziging van de landschapskenmerken van een beschermd cultuurhistorisch landschap tot gevolg heeft;<br>
+a) een omgevingsvergunning als de investering dat vereist;<br>
+b) ...;<br>
+c) een toelating of machtiging van het Agentschap Onroerend Erfgoed bij het uitvoeren van een handeling die een aanzienlijke wijziging van de landschapskenmerken van een beschermd cultuurhistorisch landschap tot gevolg heeft;<br>
 4° een verklaring op erewoord waarin de kandidaat-begunstigde verklaart dat geen andere steun aangevraagd is of aangevraagd zal worden bij een andere overheidsinstantie van welke aard ook voor dezelfde investeringen;<br>
 5° in voorkomend geval een verklaring dat de kandidaat-begunstigde bij de indiening van de betalingsaanvraag, vermeld in artikel 16, zal voldoen aan de voorwaarden, vermeld in artikel 17;<br>
 6° technische gegevens om de eenheidskosten te onderbouwen en gegevens die toelaten om de effecten van de investering op de doelstellingen te kwantificeren.<br>
@@ -172,32 +183,35 @@ Binnen de grenzen van de begrotingskredieten die daarvoor bestemd zijn, selectee
 
 Uiterlijk op de vijftiende dag van de zesde maand na de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend, dient de begunstigde, via het e-loket, voor elke geselecteerde investering een bewijs van uitvoering in. Alleen een steunaanvraag met bewijs van uitvoerig kan aanleiding geven tot een betalingsaanvraag, als vermeld in artikel 16.<br>
 <br>
-Als het bewijs van uitvoering, vermeld in het eerste lid, niet of laattijdig ingediend wordt, vervalt de ingediende steunaanvraag, vermeld in artikel 10, van rechtswege.
+Als het bewijs van uitvoering, vermeld in het eerste lid, niet of laattijdig ingediend wordt, vervalt de ingediende steunaanvraag, vermeld in artikel 10, van rechtswege.<br>
+<br>
+Samen met het bewijs van uitvoering, vermeld in het eerste lid, bezorgt de begunstigde, via het e-loket, voor elke geselecteerde investering het technisch verantwoordingsadvies, vermeld in artikel 8, eerste lid, of de vergunning, vermeld in artikel 8, tweede lid.
 
 ## Hoofdstuk 7. Betalingsaanvraag
 
 ### ART 16.
 
-Uiterlijk op de laatste dag van de dertigste maand na de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend, dient de begunstigde via het e-loket een betalingsaanvraag in.<br>
+Uiterlijk op de laatste dag van de dertigste maand na de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend, en niet later dan 30 juni 2029, dient de begunstigde via het e-loket een betalingsaanvraag in.<br>
 <br>
 De betalingsaanvraag, vermeld in het eerste lid, bevat al de volgende elementen:&nbsp;<br>
 1° welke en hoeveel investeringen zijn uitgevoerd;<br>
-2° minstens drie offertes per investering, als de bevoegde entiteit voor de voorgenomen investering geen eenheidskosten bepaald heeft. Als minder dan drie offertes beschikbaar zijn of indien er niet gekozen wordt voor de goedkoopste offerte, wordt dat verantwoord;<br>
+2° voor investeringen waarvoor de bevoegde entiteit geen eenheidskosten bepaald heeft, een staving van de marktconformiteit aan de hand van minstens drie vergelijkbare offertes, afkomstig van minstens drie verschillende leveranciers. Als minder dan drie offertes beschikbaar zijn of als er niet gekozen wordt voor de goedkoopste offerte, een verantwoording die aantoont dat de kosten van de investering marktconform zijn;<br>
 3° facturen voor de uitgevoerde investeringen;<br>
 4° stukken waaruit blijkt dat is voldaan aan de voorwaarden, vermeld in artikel 17.
 
 ### ART 17.
 
 Een begunstigde komt in aanmerking voor de steun, vermeld in artikel 3, als al de volgende voorwaarden zijn vervuld op het moment dat de betalingsaanvraag, vermeld in artikel 16, wordt ingediend:<br>
-1° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning en gebiedsgerichte beperkingen, als de investering dat vereist;<br>
+1° de investering is gerealiseerd conform de voorwaarden van de omgevingsvergunning, die werd verleend aan de begunstigde, en gebiedsgerichte beperkingen, als de investering dat vereist;<br>
 2° de investering is gerealiseerd conform de voorwaarden van het technisch verantwoordingsadvies, als de investering dat vereist;<br>
-3° onroerende investeringen werden gerealiseerd op een landbouwexploitatie in het Vlaamse Gewest;<br>
-4° de realisatie van roerende investeringen komt ten goede aan een landbouwexploitatie in het Vlaamse Gewest;<br>
+3° onroerende investeringen werden gerealiseerd op een landbouwexploitatie van de begunstigde in het Vlaamse Gewest;<br>
+4° de realisatie van roerende investeringen komt uitsluitend ten goede aan een landbouwexploitatie van de begunstigde in het Vlaamse Gewest;<br>
 5° de uitvoering van de investering is ten vroegste van start gegaan op de dag na de laatste dag van de blokperiode waarin de steunaanvraag, vermeld in artikel 10, is ingediend;&nbsp;<br>
 6° de percelen waarop of waarlangs de investeringen plaatsvinden zijn geregistreerd in het Geïntegreerd Beheer- en Controlesysteem of het betreft aanplantingen op en rond de bedrijfszetel, afhankelijk van het type investeringen;&nbsp;<br>
-7° de investering is operationeel en in gebruik genomen;<br>
+7° de investering is operationeel en wordt exclusief gebruikt en beheerd door de begunstigde;<br>
 8° de investering is gerealiseerd conform de technische en bijkomende voorwaarden die zijn bepaald door de bevoegde entiteit in de beschrijving in het e-loket op het moment van de steunaanvraag, vermeld in artikel 10;<br>
-9° de begunstigde voldoet aan de voorwaarden, vermeld in artikel 4.<br>
+9° de begunstigde voldoet aan de voorwaarden, vermeld in artikel 4;<br>
+10° de investering is gerealiseerd conform het koninklijk besluit van 12 augustus 2008 betreffende het op de markt brengen van machines.<br>
 <br>
 In het eerste lid, 6°, wordt verstaan onder Geïntegreerd Beheer- en Controlesysteem: het Geïntegreerd Beheers- en Controlesysteem, vermeld in titel IV, hoofdstuk II, van verordening (EU) nr. 2021/2116.
 
@@ -210,7 +224,11 @@ De steun, vermeld in artikel 3, wordt berekend als een percentage van de totale 
 2° 75% voor de investeringen waarvoor een secundair positief effect op de productie bewezen is of waarbij een secundair negatief effect van de productie vermeden wordt;<br>
 3° 50% voor de investeringen die &nbsp;alleen een niet-productieve meerwaarde hebben tegenover de andere bestaande productieve systemen.<br>
 <br>
-Als de bevoegde entiteit voor de investering geen eenheidskosten bepaald heeft, kunnen de aanvaardbare investeringskosten voor maximaal 10% bestaan uit kosten voor begeleiding bij de opmaak van een technisch verantwoordingsadvies als vermeld in artikel 8.
+De eenheidskosten zijn de totale subsidiabele kosten van een investering.<br>
+<br>
+De bevoegde entiteit bepaalt de eenheidskosten voor alle investeringen waarvoor voldoende gegevens beschikbaar zijn.<br>
+<br>
+In afwijking van het tweede lid worden voor investeringen waarvoor de bevoegde entiteit geen eenheidskosten bepaald heeft, de werkelijk gemaakte kosten in aanmerking genomen als de totale subsidiabele kosten van een investering. In dat geval kunnen de totale subsidiabele kosten voor maximaal 10% bestaan uit kosten voor begeleiding bij de opmaak van een technisch verantwoordingsadvies als vermeld in artikel 8, eerste lid.
 
 ## Hoofdstuk 9. Uitbetaling van de steun
 
@@ -234,11 +252,19 @@ De bevoegde entiteit kan materiaal ter beschikking stellen en instructies geven 
 
 De bevoegde entiteit regelt de uitvoering van de verplichting tot openbaarmaking, vermeld in artikel 76/2, eerste lid, 13°, van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019.
 
+## Hoofdstuk 10/2. Gebruik van het Nederlands
+
+### ART 20/2.
+
+Door de steun, vermeld in artikel 3, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## Hoofdstuk 11. Bijkomende voorwaarden
 
 ### ART 21.
 
-Tot vijf jaar nadat de steun, vermeld in artikel 3, is uitbetaald blijft het goed verbonden aan het bedrijf dat de voormelde steun heeft verkregen of de overnemer van dat bedrijf. Het goed wordt niet doorverkocht en blijft in gebruik.<br>
+Tot vijf jaar nadat de steun, vermeld in artikel 3, is uitbetaald:<br>
+1°&nbsp;&nbsp; &nbsp;is de begunstigde, of in voorkomend geval de overnemer van het landbouwbedrijf van de begunstigde, een actieve landbouwer;<br>
+2°&nbsp;&nbsp; &nbsp;blijft het goed in exclusief gebruik en beheer van het bedrijf dat de steun heeft verkregen of de overnemer van dat bedrijf. De doeleinden waarvoor het goed gebruikt wordt, worden niet veranderd.<br>
 <br>
 De steun, vermeld in artikel 3, wordt herrekend en in verhouding teruggevorderd voor de periode waarin de voorwaarden, vermeld in het eerste lid, niet meer vervuld zijn, vanaf de eerste dag die volgt op de betaling van de voormelde steun. De voormelde voorwaarden zijn minstens één jaar vervuld na de dag waarop de betalingsaanvraag, vermeld in artikel 16, is ingediend.
 
@@ -264,7 +290,9 @@ Controles ter plaatse mogen worden aangekondigd op voorwaarde dat het doel of de
 
 ### ART 24.
 
-De begunstigde houdt alle bewijsstukken, die in dit besluit en de uitvoeringsbepalingen ervan worden opgelegd, ter beschikking voor controle tot minimaal tien jaar na de laatste betaling of na het aflopen van de verbintenis, als de laatste betaling eerder heeft plaatsgevonden.
+De begunstigde houdt alle bewijsstukken, die in dit besluit en de uitvoeringsbepalingen ervan worden opgelegd, ter beschikking voor controle tot minimaal tien jaar na de laatste betaling of na het aflopen van de verbintenis, als de laatste betaling eerder heeft plaatsgevonden.<br>
+<br>
+De betaalbewijzen van alle betalingen die zijn gedaan in het kader van de realisatie van investeringen waarvoor steun als vermeld in artikel 3, is aangevraagd, zijn bewijsstukken als vermeld in het eerste lid.
 
 ### ART 25.
 
@@ -314,19 +342,21 @@ De bevoegde entiteit kan, boven op de administratieve sancties als vermeld in ar
 
 §1. De bevoegde entiteit behandelt bezwaren tegen beslissingen die rechtsgevolgen tot stand brengen ter uitvoering van dit besluit, de uitvoeringsbesluiten ervan, verordening (EU) 2021/2115 en (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan.<br>
 <br>
-§2. Het bezwaar, vermeld in paragraaf 1, wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit met een bezwaarschrift. De bevoegde entiteit beslist over het bezwaar. Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
-1° het wordt op schriftelijke wijze ingediend;<br>
-2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in het bezwaarschrift aangegeven;<br>
-3° het is ondertekend door de indiener van het bezwaar of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de raadsman ingeschreven is als advocaat of advocaat-stagiair;<br>
-4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
+§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist.&nbsp;<br>
+<br>
+Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het wordt op elektronische wijze of op papier ingediend;<br>
+2°&nbsp;&nbsp; &nbsp;het vermeldt de naam, en de woonplaats of het klantnummer bij de bevoegde entiteit of het ondernemingsnummer van de indiener van het bezwaar. &nbsp;Als het bezwaar wordt ingediend via een bij de bevoegde entiteit gekend e-mailadres, volstaat de vermelding van de naam; &nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten;<br>
+4°&nbsp;&nbsp; &nbsp;het is tijdig ingediend conform het eerste lid.<br>
 <br>
 §3. Als het bezwaar, vermeld in paragraaf 1, niet voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.<br>
 <br>
-§4. De bezwaarindiener of zijn vertegenwoordiger wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bevoegde entiteit over het bezwaar. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
-De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener of zijn vertegenwoordiger op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
+De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bevoegde entiteit brengt de bezwaarindiener op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener of zijn vertegenwoordiger en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
+Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener en vermeldt de reden van de schorsing. Om het bezwaar te behandelen, kan rekening gehouden worden met informatie die van derden verkregen is.
 
 ## Hoofdstuk 14. Gegevensverwerking
 
