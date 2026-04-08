@@ -2,16 +2,16 @@
   "codex_id": 1038876,
   "title": "Besluit van de Vlaamse Regering van 2023-10-06 tot toekenning van steun voor de uitwisseling van kennis en verspreiding van informatie in de landbouwsector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038876/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "e1c9d7cbd4f34ee89875fdaae060df1a1fc751994591e3c3308224bcbd4865f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038876/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "9ba0995b48aff49e6eef79d944b67af724987fc731e4a1145842eb27518af6cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038876&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-04-08",
   "made": "2023-10-06",
   "gazette": "2023-12-13",
   "numac": 2023047750,
   "document_start": "2023-10-06",
   "document_end": null,
-  "in_force": "2026-01-01",
+  "in_force": "2026-04-08",
   "article_versions": 137,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }

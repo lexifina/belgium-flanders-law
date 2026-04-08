@@ -239,9 +239,7 @@ Als blijkt dat de adviesvoorstellen of vormingsvoorstellen die conform artikel 1
 
 De actieve landbouwer die een advies of vorming wil verkrijgen, vermeld in artikel 3, neemt contact op met een adviesdienst of een vormingscentrum.<br>
 <br>
-De adviesdienst of het vormingscentrum informeert aan de hand van het advies- of vormingsvoorstel, vermeld in artikel 14, de actieve landbouwer over de inhoud, de modaliteiten, de prijs en de timing van het advies of de vorming.<br>
-<br>
-Als de adviesdienst of het vormingscentrum beslist dat er geen advies of vorming aangeboden kan worden die voldoet aan de vragen van de actieve landbouwer, brengt die adviesdienst of dat vormingscentrum de bevoegde entiteit daarvan op de hoogte.
+De adviesdienst of het vormingscentrum informeert aan de hand van het advies- of vormingsvoorstel, vermeld in artikel 14, de actieve landbouwer over de inhoud, de modaliteiten, de prijs en de timing van het advies of de vorming.
 
 ### ART 18.
 
