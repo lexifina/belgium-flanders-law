@@ -2,16 +2,16 @@
   "codex_id": 1035237,
   "title": "Besluit van de Vlaamse Regering van 2021-02-12 tot subsidiëring van praktijkcentra die actief zijn in het onderzoek, de voorlichting en de ontwikkeling van de plantaardige productie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035237/VolledigDocument?datum=2024-08-10",
-  "source_sha256": "5d2203f957197363336d6024fb0634bc1a9f3fafdd80794ed3ca3467b8402b1c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035237/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "7775ba9482dd87b9bcab2bfc638ff01d062568f5fdccf7856cc3b6e82e7532c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035237&param=informatie",
-  "as_of": "2024-08-10",
+  "as_of": "2026-04-08",
   "made": "2021-02-12",
   "gazette": "2021-02-23",
   "numac": 2021030387,
   "document_start": "2021-03-05",
   "document_end": null,
-  "in_force": "2024-08-10",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-04-08",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }

@@ -233,6 +233,10 @@ De praktijkcentra kunnen een uitzondering op de verplichting, vermeld in het eer
 
 De Vlaamse overheid mag, zonder dat ze eventuele kosten moet betalen of aan andere verplichtingen moet voldoen, gebruikmaken van de resultaten die worden gerealiseerd in het kader van de activiteiten die conform dit besluit worden gesubsidieerd.
 
+### ART 21/1.
+
+Door de subsidie, vermeld in artikel 2, te aanvaarden, erkennen de begunstigden het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
+
 ## Afdeling 10. Toezicht en controle
 
 ### ART 22.
