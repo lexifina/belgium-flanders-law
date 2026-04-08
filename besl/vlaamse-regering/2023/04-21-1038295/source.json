@@ -2,16 +2,16 @@
   "codex_id": 1038295,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 over de subsidiëring van operationele groepen in het kader van het Europees Innovatiepartnerschap voor productiviteit en duurzaamheid in de landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038295/VolledigDocument?datum=2024-08-10",
-  "source_sha256": "793c4b73967d8b6d436e3483ea240a5a3e817dc967e0a3e4925d28c18d125fb4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038295/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "b9cbd131bae12fb2d4f0b86202221948d25efbcbe2a9ba202c9c72729c789a75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038295&param=informatie",
-  "as_of": "2024-08-10",
+  "as_of": "2026-04-08",
   "made": "2023-04-21",
   "gazette": "2023-05-16",
   "numac": 2023042281,
   "document_start": "2023-04-21",
   "document_end": null,
-  "in_force": "2024-08-10",
-  "article_versions": 47,
-  "record_form": "consolidated version as in force on 2024-08-10; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-04-08",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }
