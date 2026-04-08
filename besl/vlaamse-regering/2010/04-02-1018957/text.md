@@ -35,20 +35,20 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij.<br /><br />
+...
 
 ### ART. 2.
 
-Overeenkomstig de bepalingen van Verordening (EG) nr. 1233/2009 van de Commissie van 15 december 2009 houdende vaststelling van een specifieke marktondersteunende maatregel in de zuivelsector, wordt aan de melkveehouders een uitzonderlijk steunbedrag toegekend.<br /><br />De minister stelt het steunbedrag per melkveehouder vast op basis van de individuele referentiehoeveelheden, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toepassing van de heffing in de sector melk en zuivelproducten, waarover de producent beschikt op 31 maart 2010. De som van de individuele steunbedragen is beperkt tot het regionale maximum. <br /><br />Het regionale maximum, vermeld in het tweede lid, wordt vastgesteld overeenkomstig artikel 2 van het samenwerkingsprotocol tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest van 6 december 2005 met betrekking tot heffing in de sector van melk en zuivelproducten en met betrekking tot de situatie voor het tijdvak 2009-2010.<br /><br />In het eerste en tweede lid wordt verstaan onder melkveehouder : de producent, vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toepassing van de heffing in de sector melk en zuivelproducten.<br /><br />
+...
 
 ### ART. 3.
 
-De steun wordt uitbetaald aan de rechthebbenden door het Agentschap Landbouw en Visserij binnen de termijn, vermeld in artikel 2.2 van Verordening (EG) nr. 1233/2009 van de Commissie van 15 december 2009 houdende vaststelling van een specifieke marktondersteunende maatregel in de zuivelsector. <br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 30 maart 2010.<br /><br />
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is belast met de uitvoering van dit besluit.<br /><br />
+...
