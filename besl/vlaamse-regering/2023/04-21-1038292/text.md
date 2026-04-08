@@ -1741,19 +1741,21 @@ Het tijdstip van verzending en ontvangst van berichten die op elektronische wijz
 
 §1. De bevoegde entiteit is belast met de behandeling van bezwaren tegen beslissingen die rechtsgevolgen tot stand brengen bij de uitvoering van dit besluit, de uitvoeringsbesluiten ervan, de verordeningen (EU) 2021/2115 en (EU) 2021/2116 en de gedelegeerde en uitvoeringshandelingen ervan.<br>
 <br>
-§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist. Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
-1° het wordt op schriftelijke wijze ingediend;<br>
-2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als de woonplaatskeuze bij een raadsman wordt gedaan, wordt dat in het bezwaarschrift aangegeven;<br>
-3° het is ondertekend door de indiener van het bezwaar of zijn raadsman. Een schriftelijke machtiging wordt bijgevoegd, tenzij de raadsman ingeschreven is als advocaat of advocaat-stagiair;<br>
-4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
+§2. Het bezwaar wordt binnen dertig dagen vanaf de kennisgeving van de beslissing ingediend bij de bevoegde entiteit, die over het bezwaar beslist.&nbsp;<br>
+<br>
+&nbsp;Het bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het wordt op elektronische wijze of op papier ingediend;<br>
+2°&nbsp;&nbsp; &nbsp;het vermeldt de naam, en de woonplaats of het klantnummer bij de bevoegde entiteit of het ondernemingsnummer van de indiener van het bezwaar. &nbsp;Als het bezwaar wordt ingediend via een bij de bevoegde entiteit gekend e-mailadres, volstaat de vermelding van de naam; &nbsp;<br>
+3°&nbsp;&nbsp; &nbsp;het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten;<br>
+4°&nbsp;&nbsp; &nbsp;het is tijdig ingediend conform het eerste lid.<br>
 <br>
 §3. Als niet voldaan is aan de vereisten, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.<br>
 <br>
-§4. De beslissing van de bevoegde entiteit wordt binnen de honderdtwintig dagen ter kennis gebracht aan de bezwaarindiener of zijn vertegenwoordiger. Die termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen die beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De beslissing van de bevoegde entiteit wordt binnen de honderdtwintig dagen ter kennis gebracht aan de bezwaarindiener. Die termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen die beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
-De termijn, vermeld in het eerste lid, kan eenmalig verlengd worden met een nieuwe termijn van honderdtwintig dagen, die begint de dag nadat de eerste termijn, vermeld in het eerste lid, verstreken is. De bevoegde entiteit brengt de bezwaarindiener of zijn vertegenwoordiger daarvan op de hoogte voor de eerste termijn van honderdtwintig dagen verstreken is, en vermeldt de reden of de redenen van de verlenging.<br>
+De termijn, vermeld in het eerste lid, kan eenmalig verlengd worden met een nieuwe termijn van honderdtwintig dagen, die begint de dag nadat de eerste termijn, vermeld in het eerste lid, verstreken is. De bevoegde entiteit brengt de bezwaarindiener daarvan op de hoogte voor de eerste termijn van honderdtwintig dagen verstreken is, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener of zijn vertegenwoordiger en vermeldt deze reden van de schorsing. Voor de behandeling van het bezwaar kan rekening gehouden worden met informatie die van derden verkregen is.
+Als de bevoegde entiteit bij de bezwaarindiener of via derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen geschorst tot op de datum dat de informatie of het bewijs ontvangen is. De bevoegde entiteit meldt de schorsing, die het gevolg is van het inwinnen van informatie of het opvragen van bewijzen bij derden, aan de bezwaarindiener en vermeldt deze reden van de schorsing. Voor de behandeling van het bezwaar kan rekening gehouden worden met informatie die van derden verkregen is.
 
 ## Titel 8. Verwerking en bescherming van de gegevens
 
