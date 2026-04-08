@@ -4611,7 +4611,7 @@ Worden gestraft met een geldboete van een tot vijfhonderd euro en/of een gevange
 
 ### ART. 13.2.2.
 
-Elke overtreding van het beroepsgeheim, zoals vermeld in de artikelen&nbsp; 4.1.11 en 4.6.7, wordt gestraft met de straffen die bepaald zijn in artikel 458 van het Strafwetboek.
+Elke overtreding van het beroepsgeheim, zoals vermeld in de artikelen&nbsp; 4.1.11 en 4.6.7, wordt gestraft met de straffen die bepaald zijn in artikel 352 van het Strafwetboek.
 
 ## HOOFDSTUK III. Administratieve sancties opgelegd door de Vlaamse Nutsregulator
 
