@@ -2,16 +2,16 @@
   "codex_id": 1041836,
   "title": "Decreet van 2026-02-27 houdende diverse bepalingen inzake energie en klimaat",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041836/VolledigDocument?datum=2026-03-21",
-  "source_sha256": "2a0ef17a4962474737f518408fda820dbc105ea1698a12faa143939cd6be0d62",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041836/VolledigDocument?datum=2026-04-08",
+  "source_sha256": "6e1432fcafd4c789e749290a68b8a00cdbe3ef8eba3ce7100e5692a396018aa5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041836&param=informatie",
-  "as_of": "2026-03-21",
+  "as_of": "2026-04-08",
   "made": "2026-02-27",
   "gazette": "2026-03-11",
   "numac": 2026001888,
   "document_start": "2026-03-21",
   "document_end": null,
-  "in_force": "2026-03-21",
-  "article_versions": 69,
-  "record_form": "consolidated version as in force on 2026-03-21; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-04-08",
+  "article_versions": 71,
+  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
 }

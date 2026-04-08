@@ -337,6 +337,10 @@ In artikel 12.5.1 van hetzelfde decreet, ingevoegd bij het decreet van 22 oktobe
 
 In artikel 13.1.2, §3, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 19 april 2024, wordt de zinsnede “artikelen 3.1.3 en 3.1.4” vervangen door de zinsnede “artikel 6 tot en met 12 van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator”.
 
+### ART 42.
+
+In artikel 13.2.2 van hetzelfde decreet, gewijzigd bij de decreten van 8 juli 2011 en 19 april 2024, wordt de zinsnede “artikel 458 van het Strafwetboek” vervangen door de zinsnede “artikel 352 van het Strafwetboek”.
+
 ### ART 43.
 
 In artikel 13.3.1, §5, eerste lid, van hetzelfde decreet wordt het woord “kalenderdagen” vervangen door het woord “dagen”.
@@ -476,6 +480,10 @@ In artikel 15.3.5/20 van hetzelfde decreet, ingevoegd bij het decreet van 13 jun
 ### ART 69.
 
 In artikel 4, §4, tweede lid, van het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator wordt de benaming “VREG” vervangen door de benaming “Vlaamse Nutsregulator”.
+
+### ART 70.
+
+In artikel 25 van hetzelfde decreet wordt de zinsnede “artikel 458 van het Strafwetboek” vervangen door de zinsnede “artikel 352 van het Strafwetboek”.
 
 ## Hoofdstuk 5. Wijzigingen aan het decreet van 26 april 2024 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de overdracht van taken van de energieregulator aan het VEKA in functie van de hervor-ming tot één overkoepelende Vlaamse nutsregulator
 
