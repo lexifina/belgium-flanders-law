@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041684,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-19 houdende de erkenning van vzw Vlaamse Ouderenraad als relevante partnerorganisatie, vermeld in artikel 9 van het decreet van 7 december 2012 houdende de stimulering van een inclusief Vlaams ouderenbeleid en de beleidsparticipatie van ouderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041684/VolledigDocument?datum=2026-04-09",
+  "source_sha256": "26da4eb7e90bc586924596d7c2b529986d1ad7c8f6a5514b06970b36d8aa54c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041684&param=informatie",
+  "as_of": "2026-04-09",
+  "made": "2025-12-19",
+  "gazette": "2026-03-30",
+  "numac": 2026000108,
+  "document_start": "2026-04-09",
+  "document_end": null,
+  "in_force": "2026-04-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
