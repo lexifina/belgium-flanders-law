@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041877,
+  "title": "Besluit van de Vlaamse Regering van 2026-03-20 tot vaststelling van de minimumvoorschriften voor de bescherming van kalkoenen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041877/VolledigDocument?datum=2026-04-11",
+  "source_sha256": "7888897606e154115143ae570a872ad94dc3e01af87c1128eb5a9094c3f1cdcb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041877&param=informatie",
+  "as_of": "2026-04-11",
+  "made": "2026-03-20",
+  "gazette": "2026-04-01",
+  "numac": 2026002451,
+  "document_start": "2026-04-11",
+  "document_end": null,
+  "in_force": "2026-04-11",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2026-04-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
