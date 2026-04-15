@@ -2441,150 +2441,174 @@ De minister bepaalt de nadere regels met betrekking tot de procedure voor het sl
 
 Als de zakelijkrechthouder of de beheerder een landbouwer is als vermeld   in artikel 2, 7°, van het decreet van 22 december 2006 houdende inrichting van   een gemeenschappelijke identificatie van landbouwers, exploitaties en   landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid,   en gedurende de looptijd van zijn beheersovereenkomst alle percelen   landbouwgrond, vermeld in artikel 2, 12°, van het voormelde decreet, of een deel   ervan overdraagt, kan de overnemer van de percelen landbouwgrond de   beheersovereenkomst of het betreffende deel van de beheersovereenkomst voor de   resterende looptijd overnemen. De beheerder brengt de beheersdienst schriftelijk   op de hoogte van de overname van de percelen landbouwgrond en van het feit dat   de overnemer van die percelen de beheersovereenkomst of het betreffende deel van   de beheersovereenkomst al dan niet overneemt.<BR>
 
-## Afdeling 3 Projectsubsidies
+## Afdeling 3 Projectsubsidies via een oproep
 
 ## Onderafdeling 1 Toepassingsgebied
 
 ### ART. 10.3.1.
 
-<P>De minister kan overeenkomstig de bepalingen van dit besluit en binnen de   perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse   Gemeenschap een projectsubsidie toekennen.<BR></P>  <P>De Belgische staat, federale instellingen en deelstaten, met uitzondering van   de onderwijsinstellingen, komen niet aanmerking voor een   projectsubsidie.<BR></P>
+<p>De minister kan overeenkomstig de bepalingen van dit besluit en binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap een projectsubsidie na een oproep toekennen.</p>
+
+<p>De Belgische staat, federale instellingen, deelstaten en de Vlaamse Overheid, met uitzondering van de onderwijsinstellingen, komen niet aanmerking voor een projectsubsidie.</p>
 
 ## Onderafdeling 2 Aard van de projectsubsidie
 
 ### ART. 10.3.2.
 
-<p>Een subsidieaanvraag wordt ingediend bij het agentschap om participatieve en sensibiliserende projecten uit te voeren in een van de volgende modules:<br>
-1° educatie en publiekswerking;<br>
-2° onderzoek.</p>
-
-<p>Een project heeft:<br>
-1° een duur van maximaal drie jaar;<br>
-2° het Vlaams Gewest als toepassingsgebied en heeft betrekking op onroerend erfgoed.</p>
+<p>De minister kan na een projectoproep een projectsubsidie toekennen voor participatieve of sensibiliserende projecten, onderzoeksprojecten of projecten die passen binnen de beleidsdoelstellingen, vermeld in de beleidsnota Onroerend Erfgoed.<br>
+<br>
+Een project heeft het Vlaamse Gewest als toepassingsgebied en heeft betrekking op het beleidsveld Onroerend Erfgoed.<br>
+<br>
+Een subsidieaanvraag wordt ingediend bij het agentschap.</p>
 
 ### ART. 10.3.3.
 
-De minister kan jaarlijks een of meer prioritaire thema's voor de   subsidieaanvragen bepalen. In voorkomend geval wordt dat bekendgemaakt in de   projectoproep, vermeld in artikel 10.3.6.<BR>
+...
 
 ### ART. 10.3.4.
 
-<p>§ 1. Alleen kosten die direct en uitsluitend verbonden zijn aan het project, komen in aanmerking voor subsidiëring.</p>
-
-<p>De projectsubsidie bedraagt maximaal 60 % van de totale aanvaardbare projectkosten.<br>
+<p>§1. Alleen kosten die direct en uitsluitend verbonden zijn aan de projecten vermeld in artikel 10.3.2, komen in aanmerking voor subsidiëring. In de projectoproep, vermeld in artikel 10.3.2 wordt het subsidiepercentage bepaald en kunnen de nadere modaliteiten bepaald worden over de subsidiabele en niet-subsidiabele projectkosten.<br>
 <br>
-In afwijking van het tweede lid bedraagt de projectsubsidie voor archeologisch syntheseonderzoek minimaal 60% en maximaal 90% van de totale aanvaardbare projectkosten.</p>
-
-<p>De projectsubsidie kan bovendien alleen toegekend worden voor het deel van de projectkosten dat niet gefinancierd wordt of zal worden door een andere Vlaamse overheidsinstantie of door een andere nationale of internationale publiekrechtelijke rechtspersoon.</p>
-
-<p>§ 2. De projectsubsidie moet worden aangewend voor het doel waarvoor ze is toegekend. Eventuele ontvangsten die voortvloeien uit het gesubsidieerde project, moeten integraal worden aangewend voor de uitvoering van het project.</p>
+De projectsubsidie bedraagt minimaal 60% en maximaal 90% van de totale aanvaardbare projectkosten.&nbsp;<br>
+<br>
+De projectsubsidie kan alleen toegekend worden voor het deel van de projectkosten dat niet gefinancierd wordt of zal worden door een andere Vlaamse overheidsinstantie dan het agentschap of door een andere nationale of internationale publiekrechtelijke rechtspersoon. De projectsubsidie wordt in voorkomend geval verminderd tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde projectkosten.<br>
+<br>
+§ 2. De projectsubsidie wordt gebruikt voor het doel waarvoor ze is toegekend. Eventuele ontvangsten die voortvloeien uit het gesubsidieerde project, worden integraal gebruikt om het project uit te voeren.</p>
 
 ### ART. 10.3.5.
 
-De minister stelt per projectoproep voor de projectsubsidie het subsidiepercentage, het maximumbedrag, de maximale duurtijd en de uiterste startdatum van de projecten vast.
+...
 
 ## Onderafdeling 3 De aanvraagprocedure
 
 ### ART. 10.3.6.
 
-<p>Uiterlijk op 31 januari kan het agentschap een projectoproep lanceren. De oproep wordt minstens bekendgemaakt op de website van het agentschap en op een website die gerelateerd is aan onroerend erfgoed.</p>
-
-<p>De projectoproep vermeldt minstens de volgende gegevens:<br>
-1° het thema en de module waarin de projecten moeten passen;<br>
-2° het maximale subsidiebedrag;<br>
-3° het subsidiepercentage;<br>
-4° de maximale duurtijd&nbsp;en de uiterste startdatum van de projecten.</p>
+<p>De minister lanceert een projectoproep als vermeld in artikel 10.3.2, minstens op de website van het agentschap.<br>
+<br>
+In de projectoproep bepaalt de minister al de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;het thema, de doelstellingen en de doelgroep van de oproep;<br>
+2° &nbsp;&nbsp; &nbsp;het subsidiepercentage;<br>
+3° &nbsp;&nbsp; &nbsp;het maximumbedrag van de subsidie;<br>
+4° &nbsp;&nbsp; &nbsp;de subsidiabele en niet-subsidiabele projectkosten;<br>
+5° &nbsp;&nbsp; &nbsp;de maximale duurtijd en de uiterste startdatum van de projecten;<br>
+6° &nbsp;&nbsp; &nbsp;het totaalbudget dat beschikbaar is om de oproep tot projectsubsidieaanvragen te financieren;<br>
+7° &nbsp;&nbsp; &nbsp;de deelnemingsvoorwaarden;&nbsp;<br>
+8° &nbsp;&nbsp; &nbsp;de beoordelingscriteria, eventueel aangevuld met bijkomende beoordelingscriteria zoals vermeld in artikel 10.3.8, tweede lid;&nbsp;&nbsp; &nbsp;<br>
+9° &nbsp;&nbsp; &nbsp;de volgende elementen van de aanvraag- en selectieprocedure:<br>
+a)&nbsp;&nbsp; &nbsp;de indieningstermijn voor het aanvraagdossier;<br>
+b) &nbsp;&nbsp; &nbsp;de dossiersamenstelling van de subsidieaanvraag;<br>
+c) &nbsp;&nbsp; &nbsp;de selectieprocedure, en in voorkomend geval, de samenstelling en de nadere regels voor de werking en de organisatie van de jury;<br>
+d) &nbsp;&nbsp; &nbsp;de uiterste datum van de selectiebeslissing vermeld in artikel 10.3.10;<br>
+e) &nbsp;&nbsp; &nbsp;de wijze van openbaarmaking van de geselecteerde projecten;<br>
+10° &nbsp;&nbsp; &nbsp;de eventuele nadere regels over:<br>
+a) &nbsp;&nbsp; &nbsp;de uitvoering van en de rapportage over de voortgang van het project en de termijn waarin het inhoudelijk en financiële eindrapport vermeld in artikel 10.3.13, moet worden ingediend;<br>
+b) &nbsp;&nbsp; &nbsp;het toezicht op de aanwending van de subsidie en de uitbetaling van de subsidie.</p>
 
 ### ART. 10.3.7.
 
-<p>Uiterlijk op 1 april wordt de aanvraag ingediend bij het agentschap met een volledig ingevuld modelformulier, dat ter beschikking gesteld is op de website van het agentschap.</p>
-
-<p>De aanvraag bevat minstens de volgende elementen:<br>
-1° de naam en de contactgegevens van de aanvrager;<br>
-2° het rekeningnummer waarop de projectsubsidie gestort kan worden;<br>
-3° een inhoudelijke beschrijving van het project, die minstens de volgende gegevens bevat:<br>
-a) een omschrijving van de uitgangssituatie;<br>
-b) een omschrijving van een of meer doelgroepen;<br>
-c) een uitwerking van de doelstellingen en de visie van het project in functie van de module waarin het project wordt ingediend en van de beoogde meerwaarde voor de doelgroep(en);<br>
-d) een omschrijving van de verschillende didactische of onderzoeksmethodieken die gebruikt zullen worden in functie van de module;<br>
-4° een motivatie waaruit blijkt dat het project past in de module en aansluit bij het thema dat aangegeven is in de projectoproep;<br>
-5° een plan van aanpak, dat minstens de volgende gegevens bevat:<br>
-a) de totale uitvoeringstermijn van het project;<br>
-b) een stappenplan met timing en opgave van de verschillende fasen, de beoogde tussentijdse resultaten en de mijlpalen van het project;<br>
-c) de uitvoerders van het project en de personen die erbij betrokken zijn in functie van hun bijdrage in de verschillende fasen;<br>
-6° een financieel plan, dat minstens de volgende gegevens bevat:<br>
-a) de hoofdlijnen van de begroting voor het project;<br>
-b) een raming van de benodigde personeels- en werkingsmiddelen;<br>
-c) de financieringswijze van alle kosten die inherent zijn aan het project;<br>
-d) de opgave van de reeds verkregen, de te verwachten of aan te vragen subsidies die de aanvrager op grond van andere wetgeving of reglementering dan dit besluit heeft verkregen of kan verkrijgen, en welke andere actoren het project mee bekostigen.</p>
-
-<p>Het agentschap gaat na of de subsidieaanvraag alle elementen, vermeld in het tweede lid, bevat. Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen bevat, brengt het de aanvrager binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de subsidieaanvraag schriftelijk op de hoogte van de ontbrekende elementen. Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.</p>
+<p>Uiterlijk vóór de indieningstermijn in de projectoproep is verstreken, dient de aanvrager schriftelijk of via het daarvoor voorziene digitale platform een aanvraagdossier in bij het agentschap.<br>
+<br>
+Het aanvraagdossier bevat al de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° &nbsp;&nbsp; &nbsp;een inhoudelijke beschrijving van het project, die al de volgende gegevens bevat:<br>
+a) &nbsp;&nbsp; &nbsp;een omschrijving van de probleemstelling, vraagstelling, nood of opportuniteit die aanleiding geeft tot het project;<br>
+b) &nbsp;&nbsp; &nbsp;een omschrijving van een of meer doelgroepen;<br>
+c) &nbsp;&nbsp; &nbsp;een uitwerking van de doelstellingen en de visie van het project in functie van de beoogde meerwaarde voor de doelgroep(en);<br>
+3° &nbsp;&nbsp; &nbsp;een motivatie waaruit blijkt dat het project voldoet aan de deelnemingsvoorwaarden, het thema en de doelstellingen vermeld in de projectoproep;<br>
+4° &nbsp;&nbsp; &nbsp;een plan van aanpak, dat al de volgende gegevens bevat:<br>
+a) &nbsp;&nbsp; &nbsp;de totale uitvoeringstermijn van het project;<br>
+b) &nbsp;&nbsp; &nbsp;een stappenplan met timing en opgave van de verschillende fasen, de beoogde tussentijdse resultaten en de mijlpalen van het project;<br>
+c) &nbsp;&nbsp; &nbsp;de uitvoerders van het project en de personen of organisaties die erbij betrokken zijn of zullen worden in functie van hun bijdrage in de verschillende fasen;<br>
+5° &nbsp;&nbsp; &nbsp;een financieel plan, dat al de volgende gegevens bevat:<br>
+a) &nbsp;&nbsp; &nbsp;de hoofdlijnen van de begroting voor het project;<br>
+b) &nbsp;&nbsp; &nbsp;een raming van de benodigde personeels- en werkingsmiddelen;<br>
+c) &nbsp;&nbsp; &nbsp;de financieringswijze van alle kosten die inherent zijn aan het project;<br>
+d) &nbsp;&nbsp; &nbsp;de opgave van subsidies die al zijn verkregen, of die nog te verwachten of nog aan te vragen zijn, en die de aanvrager op grond van andere wetgeving of reglementering dan dit besluit heeft verkregen of kan verkrijgen, en welke andere actoren het project mee bekostigen.<br>
+<br>
+Het agentschap gaat na of het aanvraagdossier alle elementen, vermeld in het tweede lid, bevat en of de aanvraag voldoet aan de deelnemingsvoorwaarden vermeld in de projectoproep. Als het agentschap vaststelt dat de aanvraag niet alle elementen vermeld in het tweede lid bevat, kan het agentschap de aanvrager schriftelijk of via het daarvoor voorziene digitale platform vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarin dat moet gebeuren. In de projectoproep vermeld in artikel 10.3.2, kan de termijn bepaald worden waarin het agentschap om ontbrekende gegevens of documenten kan verzoeken.&nbsp;<br>
+<br>
+Als de aanvrager nalaat de ontbrekende gegevens of documenten in te dienen binnen de termijn vermeld in het verzoek tot aanvulling, vermeld in het derde lid of niet voldoet aan de deelnemingsvoorwaarden, wordt de aanvraag onontvankelijk verklaard . Het agentschap brengt de aanvrager hiervan schriftelijk of via het daarvoor voorziene digitale platform op de hoogte.</p>
 
 ## Onderafdeling 4 De beoordeling van de projectvoorstellen
 
 ### ART. 10.3.8.
 
-<P>&nbsp;De ontvankelijke projectvoorstellen worden beoordeeld aan de hand van   de volgende criteria:<BR>1° het participatieve karakter van het project en de   bijdrage van het project aan de vergroting van het maatschappelijke draagvlak   voor de erfgoedzorg en de uitstraling bij de beoogde doelgroep(en);<BR>2° de   maatschappelijke relevantie van het project;<BR>3° het duurzame karakter en de   voorbeeldfunctie van het project;<BR>4° de projectstructuur;<BR>5° de financiële   en organisatorische haalbaarheid van het project.<BR></P>  <P>Voor de beoordeling van de ontvankelijke projectvoorstellen binnen de module   educatie en publiekswerking worden de volgende bijkomende criteria   gehanteerd:<BR>1° een coherente communicatiestrategie;<BR>2° de   doelgroepbenadering van het project.<BR></P>  <P>Voor de beoordeling van de ontvankelijke projectvoorstellen binnen de module   onderzoek worden de volgende bijkomende criteria gehanteerd:<BR>1° de   wetenschappelijke relevantie van het project;<BR>2° de verscheidenheid van de   bronnen of sites;<BR>3° de wetenschappelijke omkadering van het project.<BR></P>  <P>De minister kan de criteria verduidelijken overeenkomstig de   beleidsprioriteiten en de noodwendigheden.<BR></P>
+<p>De ontvankelijke projectvoorstellen worden beoordeeld op basis van de volgende criteria:<br>
+1° &nbsp;&nbsp; &nbsp;de inhoudelijke kwaliteit van het project;<br>
+2° &nbsp;&nbsp; &nbsp;de bijdrage van het project aan de vergroting van het maatschappelijke draagvlak voor de erfgoedzorg en de positieve impact op de beoogde doelgroep of doelgroepen;<br>
+3° &nbsp;&nbsp; &nbsp;de maatschappelijke relevantie van het project en de voorbeeldfunctie van het project;<br>
+4° &nbsp;&nbsp; &nbsp;de kwaliteit van de organisatiestructuur en het projectmanagement;<br>
+5° &nbsp;&nbsp; &nbsp;de financiële haalbaarheid van het project.<br>
+<br>
+De minister kan in de projectoproep de criteria verduidelijken of bijkomende criteria bepalen over het thema, de doelstellingen en de doelgroep van de oproep. De minister kan in de projectoproep daarvoor eventuele bijkomende bewijsdocumenten bepalen die deel uitmaken van het aanvraagdossier.</p>
 
 ### ART. 10.3.9.
 
-De projectvoorstellen worden beoordeeld door een jury, die is samengesteld uit twee vertegenwoordigers van het agentschap en drie vertegenwoordigers van de Commissie. De jury kan in voorkomend geval aangevuld worden met externe experten die beschikken over relevante deskundigheid inzake het thema van de projectoproep. Elk jurylid is stemgerechtigd.<br>
+De minister kan de projectvoorstellen die voldoen aan de deelnemingsvoorwaarden die zijn opgenomen in de projectoproep, voor advies voorleggen aan het agentschap of aan een jury.<br>
 <br>
-De minister bepaalt de nadere regels over de aanwijzing, de werking en de organisatie van de jury.
+De minister bepaalt in de projectoproep de nadere regels over de selectieprocedure en in voorkomend geval de samenstelling van en de nadere regels voor de werking en de organisatie van de jury.
 
 ### ART. 10.3.10.
 
-<p>§ 1. Het agentschap legt de ontvankelijke subsidieaanvragen voor aan de jury die een gemotiveerd advies erover formuleert.</p>
+<p>De minister beslist uiterlijk op de datum vermeld in de projectoproep welke projecten geselecteerd zijn. Het agentschap brengt de indieners van de projectvoorstellen schriftelijk of via het daarvoor voorziene digitale platform op de hoogte van de beslissing van de minister.<br>
+<br>
+Aan de geselecteerde projecten kent de minister een projectsubsidie toe.&nbsp;<br>
+<br>
+De beslissing tot toekenning van een projectsubsidie bevat al de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;het maximale subsidiebedrag voor het project;<br>
+2° &nbsp;&nbsp; &nbsp;de uitvoeringstermijn en de uiterste startdatum van het project;<br>
+3° &nbsp;&nbsp; &nbsp;de termijn vermeld in de projectoproep waarin het inhoudelijke en financiële eindrapport vermeld in artikel 10.3.13 &nbsp;moet worden ingediend;<br>
+4° &nbsp;&nbsp; &nbsp;de eventuele specifieke voorwaarden voor de uitvoering van het project;<br>
+5° &nbsp;&nbsp; &nbsp;de eventuele specifieke modaliteiten over het toezicht op de aanwending van de subsidie en &nbsp;de uitbetaling van de subsidie.</p>
 
-<p>Het advies van de jury bevat de volgende elementen:<br>
-1° een beknopte evaluatie per project op basis van de beoordelingscriteria vermeld in artikel 10.3.8;<br>
-2° een opdeling van de projecten in positief en negatief geadviseerde projecten;<br>
-3° een rangschikking van de positief geadviseerde projecten.</p>
+### ART 10.3.10/1.
 
-<p>§ 2. Als de jury bijkomende informatie nodig acht, kan het agentschap die informatie opvragen bij de aanvrager. De aanvrager stelt binnen de termijn van minstens veertien dagen die het agentschap vastgesteld heeft, de aanvullende stukken ter beschikking.</p>
-
-<p>§ 3. Het agentschap bezorgt het advies van de jury aan de minister.</p>
-
-<p>§ 4. Uiterlijk op 1 augustus beslist de minister over de toekenning van de projectsubsidies en over eventuele specifieke voorwaarden. De projectsubsidies worden toegekend in de volgorde van de rangschikking die aan de projecten wordt gegeven.</p>
-
-<p>Het agentschap deelt de beslissing schriftelijk mee aan de indieners van de projectvoorstellen. Aan de begunstigden wordt ook het maximale bedrag van de projectsubsidie per project meegedeeld.</p>
+Voor de projectsubsidies vermeld in artikel 10.3.2 van dit besluit gelden de volgende regels over voorafgaande controle als vermeld in artikel 71, §3, van het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019:<br>
+1° &nbsp;&nbsp; &nbsp;voor de beslissing tot lancering van een projectoproep vermeld in artikel 10.3.6 is het voorafgaande advies van Inspectie van Financiën vereist;<br>
+2° &nbsp;&nbsp; &nbsp;voor de projectsubsidie vermeld in artikel 10.3.10, tweede lid, is alleen voorafgaand aan de toekenning via ministerieel besluit het advies van de Inspectie van Financiën vereist als het bedrag van de toegekende subsidie hoger dan 500.000 euro is.
 
 ## Onderafdeling 5 Verantwoording van de aanwending van de subsidies en toezicht
 
 ### ART. 10.3.11.
 
-&nbsp;De begunstigde brengt het agentschap schriftelijk op de hoogte van de start van het project en de mijlpalen van het project, zoals aangegeven in het plan van aanpak.
+De begunstigde van de projectsubsidie brengt het agentschap schriftelijk op de hoogte van de start van het project en, in voorkomend geval, de te rapporteren mijlpalen van het project als vermeld in de projectoproep. In de beslissing tot toekenning van de projectsubsidie kunnen specifieke modaliteiten over de rapportage over het project worden bepaald.
 
 ### ART. 10.3.12.
 
-<p>Op gemotiveerd en schriftelijk verzoek van de begunstigde kan het agentschap de maximale looptijd van het project eenmaal met maximaal één jaar verlengen.</p>
-
-<p>De aanvraag tot verlenging wordt ingediend bij het agentschap minstens negentig dagen voor de afloop van de uitvoeringstermijn die is vastgelegd in het plan van aanpak.</p>
+<p>Na gemotiveerd en schriftelijk verzoek van de begunstigde kan het agentschap de uitvoeringstermijn van het project, vermeld in de beslissing, vermeld in artikel 10.3.10 eenmaal met maximaal één jaar verlengen.&nbsp;<br>
+<br>
+Het verzoek tot verlenging wordt ingediend bij het agentschap minstens negentig dagen voor de afloop van de uitvoeringstermijn die is vastgelegd in de beslissing vermeld in artikel 10.3.10. Het agentschap bepaalt in de beslissing over het verzoek tot verlenging de nieuwe uitvoeringstermijn.</p>
 
 ### ART. 10.3.13.
 
-<p>Binnen een termijn van 180 dagen, die ingaat op de dag na de afloop van het project bezorgt de begunstigde een inhoudelijk eindverslag aan het agentschap, dat minstens de volgende gegevens bevat:<br>
-1° een beschrijving van het verloop van het project;<br>
-2° een weergave van de beoogde en de bereikte resultaten van het project;<br>
-3° een beknopte beschrijving van de activiteiten in het kader van het project en de prestaties die zijn geleverd.</p>
-
-<p>Bij het inhoudelijk eindverslag wordt een financieel eindrapport gevoegd, dat minstens de volgende gegevens bevat:<br>
-1° een gedetailleerde financiële eindafrekening;<br>
-2° een aanvraag tot uitbetaling van het saldo van de projectsubsidie;<br>
-3° een staat van de werkelijke inkomsten die betrekking hebben op het project;<br>
-4° een afrekening van de bedragen die ontvangen zijn op grond van andere wetgeving of reglementering dan dit besluit.</p>
-
-<p>De minister bepaalt de nadere regels voor de verplichte vermeldingen in&nbsp;het inhoudelijke eindverslag en het financiële eindrapport.</p>
-
-<p>De bewijsstukken van de gemaakte kosten kunnen op elk moment door het agentschap worden opgevraagd.</p>
+<p>§1. Een voorschot van 70 % van het maximaal toegekende bedrag van de projectsubsidie wordt uitbetaald bij de start van het project.&nbsp;<br>
+<br>
+§2. In functie van de uitbetaling van het saldo, bezorgt de begunstigde binnen de termijn bepaald in de projectoproep, die ingaat op de dag na de afloop van het project een inhoudelijk eindrapport aan het agentschap, dat minstens de volgende gegevens bevat:<br>
+1° &nbsp;&nbsp; &nbsp;een beschrijving van het verloop van het project;<br>
+2° &nbsp;&nbsp; &nbsp;een weergave van de beoogde en de bereikte resultaten van het project;<br>
+3° &nbsp;&nbsp; &nbsp;een beknopte beschrijving van de activiteiten in het kader van het project en de prestaties die zijn geleverd.<br>
+<br>
+Bij het inhoudelijke eindrapport wordt een financieel eindrapport gevoegd, dat al de volgende gegevens bevat:<br>
+1° &nbsp;&nbsp; &nbsp;een gedetailleerde financiële eindafrekening waaruit blijkt waarvoor de kosten zijn gemaakt;<br>
+2° &nbsp;&nbsp; &nbsp;een aanvraag tot uitbetaling van het saldo van de projectsubsidie;<br>
+3° &nbsp;&nbsp; &nbsp;een staat van de werkelijke inkomsten die betrekking hebben op het project;<br>
+4° &nbsp;&nbsp; &nbsp;een afrekening van de bedragen die ontvangen zijn op grond van andere wetgeving of reglementering dan dit besluit.<br>
+<br>
+§3. Het agentschap kan aan de begunstigde schriftelijk of via het daarvoor voorziene digitale platform op elk moment bijkomende verduidelijkingen of bewijsstukken van de gemaakte kosten vragen over het inhoudelijke en financiële eindrapport, vermeld in paragraaf 2, en de documenten die daarbij zijn gevoegd.&nbsp;<br>
+<br>
+In het verzoek, vermeld in het eerste lid, bepaalt het agentschap de termijn waarin de begunstigde die verduidelijkingen of bewijstukken moet verstrekken. Als de aanvrager nalaat de gevraagde verduidelijkingen of stukken te verstrekken binnen de termijn vermeld in het verzoek kan de subsidie voor de niet-verantwoorde kosten verminderd worden.<br>
+<br>
+§4. De minister kan in de projectoproep de nadere regels bepalen over de uitbetaling van de subsidie en de berekening van het saldo, en de verplichte vermeldingen en documenten in het inhoudelijke eindverslag en het financiële eindrapport, vermeld in paragraaf 2.<br>
+<br>
+§5. Teveel uitbetaalde bedragen worden teruggevorderd.</p>
 
 ### ART. 10.3.14.
 
-<P>Een voorschot van 70 % van het maximaal toegekende bedrag van de   projectsubsidie wordt uitbetaald bij de start van het project.<BR></P>  <P>De minister bepaalt de nadere regels voor de berekening van het saldo van de   projectsubsidie.<BR></P>
+<p>...</p>
 
 ### ART. 10.3.15.
 
-<p>Als de begunstigde niet voldoet aan de rapporteringsverplichtingen, vermeld in artikel 10.3.11 en 10.3.13 of als de rapportering manifest onduidelijk is, of als de begunstigde onvoldoende aantoont dat hij de vooropgestelde doelstellingen heeft nagestreefd, verzoekt het agentschap&nbsp;binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de documenten, vermeld in artikel 10.3.11 en 10.3.13 om een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.</p>
-
-<p>Als uit de aangepaste rapportering of uit de bijkomende motivering blijkt dat de subsidie niet aangewend is voor het doel waarvoor ze is verleend, kan het agentschap de verdere toegekende subsidies niet of slechts gedeeltelijk uitbetalen en kan het agentschap de geheel of gedeeltelijk uitbetaalde subsidies terugvorderen.</p>
+<p>...</p>
 
 ### ART. 10.3.16.
 
@@ -2597,6 +2621,54 @@ Teveel uitbetaalde bedragen worden teruggevorderd.<BR>
 ### ART. 10.3.18.
 
 Bij de uitvoering van elke activiteit die aansluit bij het project, moet   de steun van de Vlaamse overheid duidelijk worden vermeld. Op elke publicatie   die in het kader van het project wordt verspreid, moet ook het logo `Met steun   van de Vlaamse overheid' duidelijk en in redelijke verhouding tot de logo's van   eventuele andere ondersteunende instanties worden aangebracht.<BR>
+
+## Afdeling 4. Projectsubsidies voor projecten met een uitzonderlijk, onvoorzien of urgent karakter
+
+### ART 10.3.19.
+
+§1. Binnen de perken van de kredieten die daarvoor bestemd op de begroting van de Vlaamse Gemeenschap kan de minister op zijn initiatief een projectsubsidie toekennen aan projecten met een uitzonderlijk, onvoorzien of urgent karakter die passen binnen de beleidsdoelstellingen, vermeld in de beleidsnota Onroerend Erfgoed.&nbsp;<br>
+<br>
+§2. Alleen kosten die direct en uitsluitend verbonden zijn aan de projecten vermeld in paragraaf 1, komen in aanmerking voor subsidiëring.<br>
+<br>
+De projectsubsidie bedraagt minimaal 60% en maximaal 100% van de totale aanvaardbare projectkosten.<br>
+<br>
+De projectsubsidie kan alleen toegekend worden voor het deel van de projectkosten dat niet gefinancierd wordt of zal worden door een andere Vlaamse overheidsinstantie dan het agentschap of door een andere nationale of internationale publiekrechtelijke rechtspersoon. De projectsubsidie wordt in voorkomend geval verminderd tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde projectkosten.<br>
+<br>
+De projectsubsidie wordt gebruikt voor het doel waarvoor ze is toegekend. Eventuele ontvangsten die voortvloeien uit het gesubsidieerde project, worden integraal gebruikt om het project uit te voeren.<br>
+<br>
+§3. De begunstigde van de projectsubsidie bezorgt voorafgaand aan de toekenning schriftelijk aan het agentschap een inhoudelijke beschrijving van het project, de omschrijving van de probleemstelling, vraagstelling, nood of opportuniteit die aanleiding geeft tot het project, een plan van aanpak en een financieel plan.&nbsp;<br>
+<br>
+§4. Het ministerieel besluit tot toekenning van de projectsubsidie bevat al de volgende elementen:<br>
+1° &nbsp;&nbsp; &nbsp;de doelstellingen en doelgroep van de projectsubsidie;&nbsp;<br>
+2° &nbsp;&nbsp; &nbsp;het subsidiepercentage dat minstens 60% en maximaal 100% bedraagt;<br>
+3° &nbsp;&nbsp; &nbsp;het maximumbedrag van de projectsubsidie;&nbsp;<br>
+4° &nbsp;&nbsp; &nbsp;de subsidiabele en niet-subsidiabele projectkosten;&nbsp;<br>
+5° &nbsp;&nbsp; &nbsp;de maximale duurtijd en de uiterste startdatum van het project, en de eventuele modaliteiten voor verlenging;&nbsp;<br>
+6° &nbsp;&nbsp; &nbsp;de eventuele nadere regels voor de uitvoering en de rapportage over de voortgang van het project;&nbsp;<br>
+7° &nbsp;&nbsp; &nbsp;de termijn waarin de begunstigde een inhoudelijk eindrapport en een financieel eindrapport als vermeld in paragraaf 6 moet bezorgen aan het agentschap en de eventuele specifieke modaliteiten over het toezicht op de aanwending van de subsidie en &nbsp;de uitbetaling van de subsidie.<br>
+<br>
+§5. Voor de projectsubsidie vermeld in dit artikel is alleen voorafgaand aan de toekenning via ministerieel besluit het advies van Inspectie van Financiën &nbsp;vereist als het bedrag van de toegekende subsidie hoger is dan 500.000 euro.&nbsp;<br>
+<br>
+§6. Een voorschot van 70% van het maximaal toegekende bedrag van de projectsubsidie wordt uitbetaald bij de start van het project.&nbsp;<br>
+<br>
+In functie van de uitbetaling van het saldo, bezorgt de begunstigde binnen de termijn bepaald in het besluit tot toekenning van de subsidie, die ingaat op de dag na de afloop van het project, een inhoudelijk eindrapport aan het agentschap, dat al de volgende gegevens bevat:<br>
+1° &nbsp;&nbsp; &nbsp;een beschrijving van het verloop van het project;<br>
+2° &nbsp;&nbsp; &nbsp;een weergave van de beoogde en de bereikte resultaten van het project;<br>
+3° &nbsp;&nbsp; &nbsp;een beknopte beschrijving van de activiteiten in het kader van het project en de prestaties die zijn geleverd.<br>
+<br>
+Bij het inhoudelijke eindrapport wordt een financieel eindrapport gevoegd, dat al de volgende gegevens bevat:<br>
+1° &nbsp;&nbsp; &nbsp;een gedetailleerde financiële eindafrekening waaruit blijkt waarvoor de kosten werden aangewend;<br>
+2° &nbsp;&nbsp; &nbsp;een aanvraag tot uitbetaling van het saldo van de projectsubsidie;<br>
+3° &nbsp;&nbsp; &nbsp;een staat van de werkelijke inkomsten die betrekking hebben op het project;<br>
+4° &nbsp;&nbsp; &nbsp;een afrekening van de bedragen die ontvangen zijn op grond van andere wetgeving of reglementering dan dit besluit.<br>
+<br>
+Het agentschap kan aan de begunstigde schriftelijk of via het daarvoor voorziene digitale platform op elk moment bijkomende verduidelijkingen of bewijsstukken van de gemaakte kosten vragen met betrekking tot het inhoudelijke en financiële eindrapport, vermeld in het tweede en derde lid, en de documenten die daarbij zijn gevoegd. In dat verzoek bepaalt het agentschap de termijn waarin dat moet gebeuren. Als de aanvrager nalaat de gevraagde verduidelijkingen of stukken te verstrekken binnen de termijn vermeld in het verzoek kan de subsidie met betrekking voor de niet-verantwoorde kosten verminderd worden.<br>
+<br>
+De minister kan in het besluit tot toekenning de nadere regels bepalen over de uitbetaling van de subsidie en de berekening van het saldo, en de verplichte vermeldingen en documenten in het inhoudelijke eindverslag en het financiële eindrapport, vermeld in het tweede en derde lid.<br>
+<br>
+§7. Teveel uitbetaalde bedragen worden teruggevorderd.<br>
+<br>
+Op de projectsubsidie, vermeld in dit artikel, zijn artikel 10.3.17 en 10.3.18 van overeenkomstige toepassing.
 
 ## HOOFDSTUK 11 Premies
 
@@ -2630,7 +2702,7 @@ Voor hetzelfde werk of dezelfde dienst is een cumulatie tussen de volgende premi
 3° een onderzoekspremie;<br>
 4° een premie voor archeologisch vooronderzoek met ingreep in de bodem;<br>
 5° een premie voor buitensporige opgravingskosten;<br>
-6° ...;<br>
+6° een projectsubsidie als vermeld in artikel 10.3.2;<br>
 7° een verlaging van de schenkbelasting, als vermeld in artikel 2.8.4.4.1 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 8° een verlaging van de verkooprechten, als vermeld in artikel 2.9.4.2.10 Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 9° een erfgoedpremie volgens de bijzondere procedure;<br>
