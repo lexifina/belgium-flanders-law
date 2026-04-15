@@ -32,7 +32,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De minister, bevoegd voor het onroerend erfgoed, zal in het eerste jaar van elke legislatuur een oproep lanceren voor kandidaten voor een erkenning als Vlaams Erfgoednetwerk, zodat de Vlaamse regering de afweging kan maken om bijkomende erfgoednetwerken te erkennen.
+De minister, bevoegd voor het onroerend erfgoed, kan in het eerste jaar van elke legislatuur een oproep lanceren voor kandidaten voor een erkenning als Vlaams Erfgoednetwerk, zodat de Vlaamse regering de afweging kan maken om bijkomende erfgoednetwerken te erkennen.
 
 ## Hoofdstuk 3. Samenwerkingsovereenkomst
 
@@ -111,7 +111,9 @@ De beheerssubsidies worden na de toekenning vermeld in het derde lid beschikbaar
 1° een voorschot van 50% in het tweede kwartaal van het jaar waarin de subsidie is toegekend;<br>
 2° het saldo van 50% na de uitvoering van de werken of diensten die in het aanvraagdossier opgenomen zijn.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
-In de samenwerkingsovereenkomst kunnen de nadere modaliteiten bepaald worden over de subsidiabele en niet-subsidiabele kosten, de maximale subsidie per Vlaamse onroerenderfgoedlocatie, de aanvraagprocedure, de rapportering over de voortgang van de werken of diensten en de uitbetalingsmodaliteiten.
+In de samenwerkingsovereenkomst kunnen de nadere modaliteiten bepaald worden over de subsidiabele en niet-subsidiabele kosten, de maximale subsidie per Vlaamse onroerenderfgoedlocatie, de aanvraagprocedure, de rapportering over de voortgang van de werken of diensten en de uitbetalingsmodaliteiten.<br>
+<br>
+In afwijking van het eerste en tweede lid kan de samenwerkingsovereenkomst voor bijzondere opdrachten als vermeld in artikel 6, tweede lid van het decreet van 23 november 2023 specifieke subsidiepercentages en subsidiabele en niet-subsidiabele kosten bepalen.
 
 ### ART 10.
 

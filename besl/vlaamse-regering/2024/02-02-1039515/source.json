@@ -2,16 +2,16 @@
   "codex_id": 1039515,
   "title": "Besluit van de Vlaamse Regering van 2024-02-02 over Vlaamse erfgoednetwerken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039515/VolledigDocument?datum=2024-02-02",
-  "source_sha256": "f9c2e4b109e63063d38adbe51ae86262752ed1b7c1c22da16454c93a18cac20c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039515/VolledigDocument?datum=2026-04-15",
+  "source_sha256": "6c27c3880f7a9ee3e29449e3215caa01aaf2c3116d78d5254ee74b4a4c7c5090",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039515&param=informatie",
-  "as_of": "2024-02-02",
+  "as_of": "2026-04-15",
   "made": "2024-02-02",
   "gazette": "2024-03-22",
   "numac": 2024002690,
   "document_start": "2024-02-02",
   "document_end": null,
-  "in_force": "2024-02-02",
+  "in_force": "2026-04-15",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2024-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-04-15; future article versions excluded; article text as the API gives it"
 }
