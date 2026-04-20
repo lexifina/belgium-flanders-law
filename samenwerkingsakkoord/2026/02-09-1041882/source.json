@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041882,
+  "title": "Samenwerkingsakkoord van 2026-02-09 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het kader voor de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041882/VolledigDocument?datum=2026-04-20",
+  "source_sha256": "668bcd2522a945d285e98515928777bb94afedd1e3d39c80c73907629019501c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041882&param=informatie",
+  "as_of": "2026-04-20",
+  "made": "2026-02-09",
+  "gazette": "2026-04-02",
+  "numac": 0,
+  "document_start": "2026-04-20",
+  "document_end": null,
+  "in_force": "2026-04-20",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2026-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
