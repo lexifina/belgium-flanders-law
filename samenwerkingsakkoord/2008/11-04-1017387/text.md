@@ -55,7 +55,7 @@ Een gemachtigd vertegenwoordiger wordt door middel van een schriftelijke volmach
 21° « Verkoper » : elke persoon die, met het oog op de verkoop, verpakte goederen aanbiedt aan de consument in België;<br>
 22° « Kleinhandelaar » : de natuurlijke of rechtspersoon die in het openbaar producten en goederen verkoopt op één of meerdere verkooppunten waarvan de gecumuleerde verkoops- of verbruiksoppervlakte minder is dan of gelijk is aan 200 m2;<br>
 23° « Erkend organisme » : de overeenkomstig de artikelen 9 en 10 van dit samenwerkingsakkoord erkende rechtspersoon die de terugnameplicht van de verpakkingsverantwoordelijken op zich neemt;<br>
-24° « Interregionale Verpakkingscommissie » : de commissie bedoeld in artikel 23 van dit samenwerkingsakkoord en belast met sommige taken van bestuur, toezicht en advies in het kader hiervan;<br>
+24° "Interregionale Commissie voor de UPV": de commissie, voorheen "Interregionale Verpakkingscommissie" genoemd, bedoeld in artikel 23 van dit Samenwerkingsakkoord en belast met sommige taken van bestuur, toezicht, goedkeuring en advies in het kader hiervan;<br>
 25° "Bevoegde gewestelijke administratie": voor wat betreft het Vlaamse Gewest, de Openbare Vlaamse Afvalstoffenmaatschappij; voor wat betreft het Waalse Gewest, de Waalse Overheidsdienst Landbouw, Natuurlijke Hulpbronnen en Leefmilieu "; voor wat betreft het Brussels Hoofdstedelijk Gewest, Leefmilieu Brussel;<br>
 26° « Gewestelijk afvalstoffenplan » : het plan of de plannen aangenomen overeenkomstig de gewestelijke wetgeving;<br>
 27° « Bedrijfsmatige ontpakker » : elke persoon, al dan niet verpakkingsverantwoordelijke, die een product bestemd voor een bedrijfsmatige activiteit van zijn verpakking ontdoet en daardoor houder wordt van verpakkingsafval van bedrijfsmatige oorsprong;<br>
@@ -138,7 +138,30 @@ Elke verpakkingsverantwoordelijke die jaarlijks minstens 300 kg verpakkingen op 
 
 ### ART. 7.
 
-§ 1. De verpakkingsverantwoordelijke kan voor de uitvoering van artikel 6 zelf zijn plicht vervullen of, in voorkomend geval, een overeenkomst afsluiten met een rechtspersoon van publiek- of privaatrecht voor wat betreft de gehele of gedeeltelijke uitvoering van zijn terugnameplicht.<br /><br />In dit geval is hij verplicht om aan de Interregionale Verpakkingscommissie mee te delen op welke wijze hij zijn terugnameplicht vervult of op welke wijze de derde persoon met wie hij een overeenkomst heeft gesloten, de realisatie van zijn individuele terugnameplicht mogelijk maakt.<br /><br />Deze informatie wordt jaarlijks voor 31 maart toegestuurd. In voorkomend geval, wordt elke verandering in de gebruikte werkwijze vermeld.<br /><br />Voor wat betreft het verpakkingsafval van huishoudelijke oorsprong doet de uitvoering van de terugnameplicht zoals bedoeld in lid 1 geen afbreuk aan de bevoegdheden van de rechtspersoon van publiekrecht die verantwoordelijk is voor de inzameling van huishoudelijke afvalstoffen op de openbare weg.<br /><br />§ 2. De Interregionale Verpakkingscommissie evalueert en geeft, in voorkomend geval, haar goedkeuring of weigering aan de wijze waarop de verpakkingsverantwoordelijke, zoals bedoeld in paragraaf 1 van dit artikel, zijn terugnameplicht naleeft. Zij kan steeds bijkomende informatie opvragen.<br /><br />
+§ 1. De verpakkingsverantwoordelijke kan voor de uitvoering van artikel 6 zelf zijn plicht vervullen of, in voorkomend geval, een overeenkomst afsluiten met een rechtspersoon van publiek- of privaatrecht voor wat betreft de gehele of gedeeltelijke uitvoering van zijn terugnameplicht.<br>
+<br>
+In dit geval is hij verplicht om aan de Interregionale Verpakkingscommissie mee te delen op welke wijze hij zijn terugnameplicht vervult of op welke wijze de derde persoon met wie hij een overeenkomst heeft gesloten, de realisatie van zijn individuele terugnameplicht mogelijk maakt.<br>
+<br>
+Deze informatie wordt jaarlijks voor 31 maart toegestuurd. In voorkomend geval, wordt elke verandering in de gebruikte werkwijze vermeld.<br>
+<br>
+Voor wat betreft het verpakkingsafval van huishoudelijke oorsprong doet de uitvoering van de terugnameplicht zoals bedoeld in lid 1 geen afbreuk aan de bevoegdheden van de rechtspersoon van publiekrecht die verantwoordelijk is voor de inzameling van huishoudelijke afvalstoffen op de openbare weg.<br>
+<br>
+§ 2. De Interregionale Verpakkingscommissie evalueert en geeft, in voorkomend geval, haar goedkeuring of weigering aan de wijze waarop de verpakkingsverantwoordelijke, zoals bedoeld in paragraaf 1 van dit artikel, zijn terugnameplicht naleeft. Zij kan steeds bijkomende informatie opvragen.<br>
+<br>
+§ 3. De verpakkingsverantwoordelijke, zoals bedoeld in paragraaf 1 van dit artikel, zorgt, hetzij voor de organisatorische en financiële terugname van de totaliteit van het zwerfvuil afkomstig van de huishoudelijke verpakkingen die door hem op de markt werden gebracht, hetzij voor de vergoeding van de in artikel 13, § 1, 15° opgesomde kosten van alle overheidsinstanties die deze kosten dragen, voor het zwerfvuil dat afkomstig is van de huishoudelijke verpakkingen die hij op de markt heeft gebracht. De eerste optie moet de instemming bevatten van de overheidsinstanties die instaan voor het beheer van het zwerfvuil afkomstig van de huishoudelijke verpakkingen op de markt gezet door de verpakkingsverantwoordelijke en omvat naast een plan van aanpak voor de opruiming van het zwerfvuil, ook de acties voor het verzamelen en rapporteren van de gegevens en voor de financiering van de elementen van het zwerfvuilbeleid opgesomd in artikel 13, § 1, 15°, 1° -3°. De tweede optie betreft een vergoeding aan alle overheidsinstanties die deze kosten dragen. Deze vergoeding moet in verhouding staan tot zijn marktaandeel, zoals bepaald in § 4.<br>
+<br>
+De verpakkingsverantwoordelijke geeft een beschrijving van de wijze waarop hij zal voldoen aan deze verplichting.<br>
+<br>
+Deze paragraaf is enkel van toepassing voor verpakkingsverantwoordelijken die volgende verpakkingen op de markt brengen: verpakkingen die door de SUP-richtlijn worden geviseerd, verpakkingen van sigaretten en huishoudelijke drankverpakkingen uit blik.<br>
+<br>
+§ 4. De verpakkingsverantwoordelijke, zoals bedoeld in paragraaf 1 van dit artikel, moet met betrekking tot elk kalenderjaar N, middels een heffing die in verhouding staat tot zijn marktaandeel in het voorgaande kalenderjaar N-1, bijdragen aan het beleid van de Gewesten inzake de preventie en het beheer van verpakkingsafval.<br>
+<br>
+Concreet zal de verpakkingsverantwoordelijke met betrekking tot elk kalenderjaar N een heffing verschuldigd zijn berekend op basis van het bedrag per inwoner in artikel 13, § 1, 12° voor de afvalstroom huishoudelijk verpakkingsafval en in artikel 14bis voor de afvalstroom bedrijfsmatig verpakkingsafval, weliswaar in verhouding tot zijn marktaandeel in het kalenderjaar N-1 en voor zover de berekende heffing per afvalstroom minstens 500 euro bedraagt.<br>
+<br>
+Elke verpakkingsverantwoordelijke rapporteert aan de Interregionale Commissie voor de UPV, met betrekking tot een bepaald kalenderjaar N, uiterlijk op 1 maart van het kalenderjaar N+ 1 volgend op dat kalenderjaar, de aantallen van de door hem in het kalenderjaar N-1 op de markt gebrachte verpakkingen, waarop de heffing van toepassing is. De Interregionale Commissie voor de UPV stelt vervolgens voor kalenderjaar N, op basis van de aantallen in kalenderjaar N-1, het marktaandeel van de verpakkingsverantwoordelijke vast, zoals bepaald overeenkomstig artikel 13, § 1, 14°, vijfde lid voor het verpakkingsafval van huishoudelijke oorsprong en overeenkomstig artikel 14bis, § 1, derde lid voor het verpakkingsafval van bedrijfsmatige oorsprong, en communiceert tegen 1 april van het kalenderjaar N+ 1 het concreet te betalen bedrag. De heffing wordt betaald tegen uiterlijk 15 april in kalenderjaar N+ 1, door storting op de rekeningnummers die door elk Gewest worden gecommuniceerd.<br>
+<br>
+De heffing is voor de eerste keer verschuldigd met betrekking tot het kalenderjaar 2026.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -160,7 +183,61 @@ De erkenning van een organisme dat door verpakkingsverantwoordelijken kan worden
 
 ### ART. 10.
 
-§ 1. De aanvraag tot het bekomen van een erkenning moet per aangetekend schrijven met ontvangstbewijs in 10 exemplaren worden ingediend bij de Interregionale Verpakkingscommissie.<br /><br />§ 2. De aanvraag bevat volgende informatie :<br />1° kopie van de statuten zoals gepubliceerd in het Belgisch Staatsblad ;<br />2° een financieel plan en een begroting voor de duur van de erkenning, waarin onder meer de volgende gegevens zijn opgenomen :<br />- de schatting van de opbrengsten van de recyclagestromen;<br />- de wijze waarop de bijdragen worden berekend en geëvalueerd, de hoogte van de bijdragen die de reële kosten dekken van de verplichtingen van het organisme dat de erkenning aanvraagt, alsmede per materiaal, de wijze waarop de inning gebeurt;<br />- de voorwaarden en de modaliteiten om de bijdragen te herzien in functie van de wijziging van de verplichtingen die in toepassing van dit samenwerkingsakkoord ten laste van het erkende organisme gelegd worden;<br />- de wijze waarop de opbrengsten worden toegewezen ten voordele van de werking van het systeem, onder meer door de samenstelling van eventuele reserves;<br />- de schatting van de uitgaven;<br />- de financiering van de eventuele verliezen;<br />3° het geografisch gebied dat zal bestreken worden;<br />4° de aard van de afvalstoffen;<br />5° een ontwerp van modelcontract dat door het erkende organisme met de verpakkingsverantwoordelijken moet afgesloten worden om de terugnameplicht op zich te nemen;<br />6° indien de erkenning betrekking heeft op verpakkingsafval van huishoudelijke oorsprong :<br />- een modelcontract in overeenstemming met de Gewestelijke afvalstoffenplannen dat moet afgesloten worden met de rechtspersonen van publiekrecht die, voor wat hun grondgebied betreft, verantwoordelijk zijn voor de inzameling van de huishoudelijke afvalstoffen. Dit modelcontract moet bepalen :<br />• de modaliteiten voor de inzameling van verpakkingsafval van huishoudelijke oorsprong en voor het ten laste nemen van de totaliteit van de ingezamelde verpakkingsafvalstoffen;<br />• de minimale technische voorwaarden per materiaal of per afvalstoffensoort voor de sortering, de planning en de organisatie van de afvoer evenals de verkoop van de gesorteerde materialen, hetzij door de desbetreffende rechtspersoon van publiekrecht, hetzij door het erkende organisme;<br />• de voorwaarden en de modaliteiten voor de vergoeding van de reële en volledige kostprijs, met inbegrip van de algemene kosten, van de handelingen uitgevoerd door of in opdracht van de rechtsperso(o)n(en) van publiekrecht, met inbegrip van de terugwinning van energie en de verwijdering van de reststoffen van deze handelingen;<br />• de regelen en de modaliteiten voor de vergoeding van de kosten van communicatie voor wat betreft de praktische modaliteiten betreffende de inzameling van verpakkingsafvalstoffen;<br />• de wijze waarop het organisme tewerkstelling wil garanderen en ontwikkelen in de verenigingen of vennootschappen met een sociaal oogmerk die overeenkomstig hun maatschappelijk doel actief zijn in de inzameling, de sortering, de recyclage en de nuttige toepassing van verpakkingsafval, zonder afbreuk te doen aan artikel 1, § 2, 3e alinea;<br />• de wijze waarop de markten van selectieve inzameling, sortering en recyclage worden georganiseerd;<br />• een inschatting voor de duur van de erkenning van de gemiddelde kostprijs per ton van de niet-selectieve inzameling en van de verbranding met terugwinning van energie;<br />• desgevallend, wanneer het erkende organisme voorstelt om overeenkomsten met de Gewesten af te sluiten overeenkomstig artikel 13, § 1, 12°, laatste alinea, de ontwerpen van overeenkomst en hun respectievelijk budget;<br />7° indien de erkenning betrekking heeft op verpakkingsafval van bedrijfsmatige oorsprong :<br />- een studie met betrekking tot de technische middelen en infrastructuur die toelaten om elk jaar van de duur van de gevraagde erkenning de percentages te bereiken die in dit akkoord voorzien zijn;<br />- een afdoende beschrijving van de wijze waarop het organisme zich voorneemt tussen te komen in de kosten van selectieve inzameling, recyclage, nuttige toepassing en « verbranding met terugwinning van energie in afvalverbrandingsinstallaties » van de bedrijfsmatige ontpakkers;<br />- een afdoende beschrijving van de wijze waarop het organisme zich voorneemt een maximaal aantal bedrijfsmatige ontpakkers aan te sporen tot selectieve inzameling, recyclage en nuttige toepassing;<br />- een plan van aanpak voor de verpakkingsafvalproblematiek van de kleine bedrijven, met name de K.M.O.'s en de kleinhandelaars;<br />- een afdoende beschrijving van de wijze waarop het organisme zich voorneemt om de vrije markt van selectieve inzameling, recyclage en nuttige toepassing zo min mogelijk te verstoren;<br />- een afdoende beschrijving van de wijze waarop het organisme verifieerbaarheid en controleerbaarheid van het gerecycleerde en nuttig toegepaste verpakkingsafval van bedrijfsmatige oorsprong zal garanderen;<br />- het ontwerp van de contracten die het organisme wenst af te sluiten met de publieke en private operatoren, met het oog op het vervullen van de terugnameplicht.<br /><br />§ 3. De Interregionale Verpakkingscommissie beslist binnen de 6 maanden na ontvangst van de aanvraag. Binnen de 3 maanden na ontvangst spreekt de Interregionale Verpakkingscommissie zich uit over de ontvankelijkheid van de aanvraag en, indien de aanvraag ontvankelijk is, over de volledigheid ervan.<br /><br />Indien het aanvraagdossier onvolledig is, indien het niet alle punten vermeld in § 2 bevat of indien de Interregionale Verpakkingscommissie bijkomende informatie vraagt, wordt deze termijn geschorst tot op het ogenblik dat, per aangetekend schrijven met ontvangstbewijs, het dossier vervolledigd wordt of de gevraagde informatie verstrekt wordt.<br /><br />§ 4. De erkenning bepaalt de voorwaarden waaraan het organisme moet voldoen.<br /><br />De erkenning geldt voor een termijn van maximum 5 jaar. Elke erkenningsbeslissing die een kortere termijn dan 5 jaar voorziet, dient gemotiveerd te zijn. Elke definitieve beslissing inzake de erkenning wordt integraal gepubliceerd in het Belgisch Staatsblad.<br /><br />De erkenning kent slechts een aanvang indien de voorwaarde bepaald in artikel 12, 3° vervuld is.<br /><br />
+§ 1. De aanvraag tot het bekomen van een erkenning moet per aangetekend schrijven met ontvangstbewijs in 10 exemplaren worden ingediend bij de Interregionale Verpakkingscommissie.<br>
+<br>
+§ 2. De aanvraag bevat volgende informatie :<br>
+1° kopie van de statuten zoals gepubliceerd in het Belgisch Staatsblad ;<br>
+2° een financieel plan en een begroting voor de duur van de erkenning, waarin onder meer de volgende gegevens zijn opgenomen :<br>
+- de schatting van de opbrengsten van de recyclagestromen;<br>
+- de wijze waarop de bijdragen worden berekend en geëvalueerd, de hoogte van de bijdragen die de reële kosten dekken van de verplichtingen van het organisme dat de erkenning aanvraagt, alsmede per materiaal, de wijze waarop de inning gebeurt;<br>
+- de voorwaarden en de modaliteiten om de bijdragen te herzien in functie van de wijziging van de verplichtingen die in toepassing van dit samenwerkingsakkoord ten laste van het erkende organisme gelegd worden;<br>
+- de wijze waarop de opbrengsten worden toegewezen ten voordele van de werking van het systeem, onder meer door de samenstelling van eventuele reserves;<br>
+- de schatting van de uitgaven;<br>
+- de financiering van de eventuele verliezen;<br>
+3° het geografisch gebied dat zal bestreken worden;<br>
+4° de aard van de afvalstoffen;<br>
+5° een ontwerp van modelcontract dat door het erkende organisme met de verpakkingsverantwoordelijken moet afgesloten worden om de terugnameplicht op zich te nemen;<br>
+6° indien de erkenning betrekking heeft op verpakkingsafval van huishoudelijke oorsprong :<br>
+- een modelcontract in overeenstemming met de Gewestelijke afvalstoffenplannen dat moet afgesloten worden met de rechtspersonen van publiekrecht die, voor wat hun grondgebied betreft, verantwoordelijk zijn voor de inzameling van de huishoudelijke afvalstoffen. Dit modelcontract moet bepalen :<br>
+• de modaliteiten voor de inzameling van verpakkingsafval van huishoudelijke oorsprong en voor het ten laste nemen van de totaliteit van de ingezamelde verpakkingsafvalstoffen;<br>
+• de minimale technische voorwaarden per materiaal of per afvalstoffensoort voor de sortering, de planning en de organisatie van de afvoer evenals de verkoop van de gesorteerde materialen, hetzij door de desbetreffende rechtspersoon van publiekrecht, hetzij door het erkende organisme;<br>
+• de voorwaarden en de modaliteiten voor de vergoeding van de reële en volledige kostprijs, met inbegrip van de algemene kosten, van de handelingen uitgevoerd door of in opdracht van de rechtsperso(o)n(en) van publiekrecht, met inbegrip van de terugwinning van energie en de verwijdering van de reststoffen van deze handelingen;<br>
+• de regelen en de modaliteiten voor de vergoeding van de kosten van communicatie voor wat betreft de praktische modaliteiten betreffende de inzameling van verpakkingsafvalstoffen;<br>
+• de wijze waarop het organisme tewerkstelling wil garanderen en ontwikkelen in de verenigingen of vennootschappen met een sociaal oogmerk die overeenkomstig hun maatschappelijk doel actief zijn in de inzameling, de sortering, de recyclage en de nuttige toepassing van verpakkingsafval, zonder afbreuk te doen aan artikel 1, § 2, 3e alinea;<br>
+• de wijze waarop de markten van selectieve inzameling, sortering en recyclage worden georganiseerd;<br>
+• een inschatting voor de duur van de erkenning van de gemiddelde kostprijs per ton van de niet-selectieve inzameling en van de verbranding met terugwinning van energie;<br>
+• desgevallend, wanneer het erkende organisme voorstelt om overeenkomsten met de Gewesten af te sluiten overeenkomstig artikel 13, § 1, 12°, laatste alinea, de ontwerpen van overeenkomst en hun respectievelijk budget;<br>
+7° indien de erkenning betrekking heeft op verpakkingsafval van bedrijfsmatige oorsprong :<br>
+- een studie met betrekking tot de technische middelen en infrastructuur die toelaten om elk jaar van de duur van de gevraagde erkenning de percentages te bereiken die in dit akkoord voorzien zijn;<br>
+- een afdoende beschrijving van de wijze waarop het organisme zich voorneemt tussen te komen in de kosten van selectieve inzameling, recyclage, nuttige toepassing en « verbranding met terugwinning van energie in afvalverbrandingsinstallaties » van de bedrijfsmatige ontpakkers;<br>
+- een afdoende beschrijving van de wijze waarop het organisme zich voorneemt een maximaal aantal bedrijfsmatige ontpakkers aan te sporen tot selectieve inzameling, recyclage en nuttige toepassing;<br>
+- een plan van aanpak voor de verpakkingsafvalproblematiek van de kleine bedrijven, met name de K.M.O.'s en de kleinhandelaars;<br>
+- een afdoende beschrijving van de wijze waarop het organisme zich voorneemt om de vrije markt van selectieve inzameling, recyclage en nuttige toepassing zo min mogelijk te verstoren;<br>
+- een afdoende beschrijving van de wijze waarop het organisme verifieerbaarheid en controleerbaarheid van het gerecycleerde en nuttig toegepaste verpakkingsafval van bedrijfsmatige oorsprong zal garanderen;<br>
+- het ontwerp van de contracten die het organisme wenst af te sluiten met de publieke en private operatoren, met het oog op het vervullen van de terugnameplicht;<br>
+8° indien de erkenning betrekking heeft op de verplichtingen van het Samenwerkingsakkoord betreffende het kader voor de Uitgebreide Producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil:<br>
+- een financieel plan en een voorlopige begroting voor de duur van de erkenning;<br>
+- de aard van de betrokken afvalstoffen;<br>
+- een ontwerp van toetredingscontract dat door het collectief organisme moet afgesloten worden met zijn leden;<br>
+- een modelcontract met de territoriaal bevoegde rechtspersonen van publiekrecht inzake openbare netheid en met de andere overheidsinstanties die instaan voor het beheer van zwerfvuil, met inbegrip van de regels en procedures voor de vergoeding van de reële en volledige kost, inclusief de algemene kosten;<br>
+- een operationeel plan voor het beheer van zwerfvuil in samenwerking met de territoriaal bevoegde rechtspersonen van publiekrecht inzake openbare netheid en een beschrijving van de acties die moeten worden ondernomen bij de andere overheidsinstanties die instaan voor het beheer van zwerfvuil;<br>
+- de voorgestelde graad van vooruitgang op de gewestelijke grondgebieden en de realisatietermijnen;<br>
+- de modaliteiten voor de versterking van de selectieve inzameling van huishoudelijke verpakkingen bij de gezinnen en out-of-home;<br>
+- het instellen van nieuwe modellen (bijvoorbeeld Green deals);<br>
+- de rapporterings- en controlemethode om de efficiëntie van het opgezette systeem te evalueren.<br>
+<br>
+§ 3. De Interregionale Verpakkingscommissie beslist binnen de 6 maanden na ontvangst van de aanvraag. Binnen de 3 maanden na ontvangst spreekt de Interregionale Verpakkingscommissie zich uit over de ontvankelijkheid van de aanvraag en, indien de aanvraag ontvankelijk is, over de volledigheid ervan.<br>
+<br>
+Indien het aanvraagdossier onvolledig is, indien het niet alle punten vermeld in § 2 bevat of indien de Interregionale Verpakkingscommissie bijkomende informatie vraagt, wordt deze termijn geschorst tot op het ogenblik dat, per aangetekend schrijven met ontvangstbewijs, het dossier vervolledigd wordt of de gevraagde informatie verstrekt wordt.<br>
+<br>
+§ 4. De erkenning bepaalt de voorwaarden waaraan het organisme moet voldoen.<br>
+<br>
+De erkenning geldt voor een termijn van maximum 5 jaar. Elke erkenningsbeslissing die een kortere termijn dan 5 jaar voorziet, dient gemotiveerd te zijn. Elke definitieve beslissing inzake de erkenning wordt integraal gepubliceerd in het Belgisch Staatsblad.<br>
+<br>
+De erkenning kent slechts een aanvang indien de voorwaarde bepaald in artikel 12, 3° vervuld is.<br>
+<br>
+§ 5. Vier jaar na de inwerkingtreding van elke erkenning, stelt het Beslissingsorgaan Verpakkingen een samenvattende evaluatienota op, alsmede een strategische oriëntatienota voor een eventuele nieuwe erkenning ten behoeve van de vertegenwoordigers van de gewestregeringen<br>
+&nbsp;
 
 ## Subafdeling 2 Financiële zekerheden te stellen door de erkende organismen voor wat betreft verpakkingsafval van huishoudelijke oorsprong
 
@@ -217,16 +294,65 @@ Het bedrag van 50 eurocent per inwoner wordt jaarlijks aangepast aan het indexci
 <br>
 Het geïndexeerde bedrag wordt afgerond op de hogere of lagere eurocent, al naar gelang het cijfer van de tienden eurocent al dan niet de 5 bereikt. De Interregionale Verpakkingscommissie publiceert in het Belgisch Staatsblad het bedrag van de bijdrage, zoals aangepast overeenkomstig deze bepaling.<br>
 <br>
-Het beleid van de Gewesten inzake de preventie en het beheer van verpakkingsafval kan ondermeer betrekking hebben op :<br>
-• de preventie van verpakkingsafval;<br>
-• de strijd tegen de aanwezigheid van verpakkingen in het zwerfvuil;<br>
-• Research &amp; Development om de kwaliteit van de verpakkingen en met name hun recycleerbaarheid te verbeteren;<br>
-• de verbetering van de resultaten en/of de kwaliteit van de selectieve inzamelingen;<br>
-• de niet-selectieve inzameling en verwerking van verpakkingsafval.<br>
+Het beleid van de Gewesten inzake de preventie en het beheer van verpakkingen kan onder meer betrekking hebben op:<br>
+- de preventie van verpakkingsafval;<br>
+- Research &amp; Development om de kwaliteit van de verpakkingen en met name hun recycleerbaarheid te verbeteren;<br>
+- de verbetering van de resultaten en/of de kwaliteit van de selectieve inzamelingen;<br>
+- de niet-selectieve inzameling en verwerking van verpakkingsafval;<br>
+- de controle en monitoring van de doelstellingen van dit Samenwerkingsakkoord;<br>
+- de strijd tegen de aanwezigheid van verpakkingen in het zwerfvuil en in sluikstort;<br>
+- de vergoeding van het personeel belast met de controle, uitvoering en opvolging van de voormelde acties.<br>
+<br>
 Het globale bedrag van de financiering wordt tussen de Gewesten toegewezen volgens de meest recente bevolkingsstatistieken van de Algemene Directie Statistiek en Economische Informatie van de FOD Economie, K.M.O., Middenstand en Energie, die beschikbaar zijn op 1 januari van het jaar waarbinnen de aangifteperiode valt.<br>
+<br>
 Het Gewest bepaalt de concrete bestemming van de bijdrage, na overleg met het erkende organisme voor huishoudelijk verpakkingsafval.<br>
+<br>
 Desgevallend kan de bijdrage aan de financiering van de Gewesten in uitvoering worden gebracht door een overeenkomst tussen het Gewest en het erkende organisme. Deze overeenkomst zal in overeenstemming zijn met het kader dat wordt opgenomen in de erkenning voorzien in artikel 10, alsook, in voorkomend geval, met de gewestelijke wetgeving die op de materie van toepassing is.<br>
-13° de verifieerbaarheid en controleerbaarheid van de recyclage en de nuttige toepassing van het verpakkingsafval van huishoudelijke oorsprong te garanderen, alsook de milieu- en sociale omstandigheden waarin de recyclage en de nuttige toepassing plaatsvinden.<br>
+<br>
+13° de verifieerbaarheid en controleerbaarheid van de recyclage en de nuttige toepassing van het verpakkingsafval van huishoudelijke oorsprong te garanderen, alsook de milieu- en sociale omstandigheden waarin de recyclage en de nuttige toepassing plaatsvinden;<br>
+14° in de mate dat er geen contract van toepassing is, zoals voorzien in het punt 15°, en in de mate dat de leden van het erkende organisme deze verplichting niet vervullen via een andere rechtspersoon die met dit doel werd opgericht, vanaf het kalenderjaar 2026, de kosten voorzien in punt 15° dragen door het betalen van een heffing van 101.916.395,63 euro, die bestaat uit een bedrag van 33.071.946,73 euro voor het Brussels Hoofdstedelijk Gewest, een bedrag van 22.810.842,29 euro voor het Waals Gewest en een bedrag van 46.033.606,61 euro voor het Vlaams Gewest.<br>
+<br>
+Het Beslissingsorgaan UPV zorgt voor de bekendmaking, per Gewest, van de betrokken overheidsinstanties en het aandeel in de totale kosten van elk van deze overheidsinstanties, waarbij verder onderscheid kan worden gemaakt tussen de kosten bedoeld in punt 15°, sub 1, 2, 3 en 4.<br>
+<br>
+De bedragen van de heffing in het eerste lid van dit punt worden vanaf het kalenderjaar dat volgt op het eerste volledige werkingsjaar van een systeem van statiegeld of van een gelijkwaardig systeem voor huishoudelijke drankverpakkingen van rechtswege verminderd met 25 %; vervolgens worden de aldus verminderde bedragen voor elk van de 6 daarop volgende kalenderjaren jaarlijks opnieuw van rechtswege verminderd met 5 %.<br>
+<br>
+De bedragen van de heffing worden verminderd met de bedragen die overeenstemmen met het gecombineerde marktaandeel van de verpakkingsverantwoordelijken die op individuele basis uitvoering geven aan hun verplichtingen overeenkomstig artikel 7. Het marktaandeel van deze verpakkingsverantwoordelijke wordt uitgedrukt in een percentage dat wordt berekend door de aantallen van de door de verpakkingsverantwoordelijke op de markt gebrachte huishoudelijke verpakkingen waaruit het betrokken zwerfvuil voortkomt, te delen door de totale aantallen op de markt gebrachte huishoudelijke verpakkingen waaruit het betrokken zwerfvuil voortkomt, en dit vervolgens te vermenigvuldigen met factor honderd.<br>
+<br>
+De heffing is slechts verschuldigd voor zover de berekende heffing minstens 500 euro bedraagt.<br>
+<br>
+In de mate dat het erkend organisme, samen met de betrokken overheidsinstanties, voor de organisatorische en financiële terugname van zwerfvuil heeft gekozen, is de heffing niet van toepassing voor dat aandeel.<br>
+<br>
+De bedragen bedoeld in het eerste lid van dit punt worden jaarlijks aangepast aan de gezondheidsindex der consumptieprijzen, met als basisindex het gemiddelde van de cijfers van de gezondheidsindex der consumptieprijzen van de vier eerste maanden van het voorgaande jaar.<br>
+<br>
+In de mate dat er geen contract van toepassing is, zoals voorzien in het punt 15°, en de heffing voorzien in het eerste lid betaald wordt, verbinden de Gewesten zich ertoe om de efficiëntie van de met de geïnde heffingen gefinancierde acties te meten, door gebruik te maken van prestatie-indicatoren.<br>
+<br>
+Binnen de 2 jaar na de inwerkingtreding van het Samenwerkingsakkoord betreffende het kader voor de Uitgebreide Producentenverant- woordelijkheid voor bepaalde afvalstromen en voor zwerfvuil, realiseert de Interregionale Commissie voor de UPV, samen met de bevoegde gewestelijke administraties, ten behoeve van de gewestregeringen een evaluatie van de bedragen van de heffing, zoals opgenomen in het eerste lid, op basis van dezelfde hypotheses in de 3 Gewesten. De bedragen van de heffing moeten tenlaatste vanaf het kalenderjaar 2029 aangepast worden op basis van deze evaluatie, waarbij het uitdrukkelijk ook de bedoeling is om de scope van de heffing uit te breiden tot het zwerfvuil afkomstig van alle huishoudelijke verpakkingen. Vervolgens gebeurt deze evaluatie elke 5 jaren opnieuw.<br>
+<br>
+Het erkend organisme rapporteert aan de Interregionale Commissie voor de UPV, met betrekking tot een bepaald kalenderjaar N, uiterlijk op 1 maart van het kalenderjaar N+ 1 volgend op dat kalenderjaar, de aantallen van de door zijn leden in het kalenderjaar N-1 op de markt gebrachte huishoudelijke verpakkingen, waarop de heffing van toepassing is. De Interregionale Commissie voor de UPV stelt vervolgens voor kalenderjaar N, op basis van de aantallen in kalenderjaar N-1, het marktaandeel van het erkend organisme vast, zoals bepaald overeenkomstig het vierde lid van dit punt, en communiceert tegen 1 april van het kalenderjaar N+ 1 de door het erkend organisme concreet te betalen bedragen, door middel van een formulier. De heffing wordt betaald tegen uiterlijk 15 april in kalenderjaar N+ 1, door storting op de rekeningnummers die door elk Gewest worden gecommuniceerd. Elk Gewest staat in voor de verdere verdeling van de heffing aan alle overheidsinstanties die op zijn grondgebied de kosten bedoeld in artikel 13, § 1, 15°, 1° -3° dragen. Jaarlijks op uiterlijk 15 april van het kalenderjaar N moet een voorafbetaling gedaan worden van 50 % van de geschatte verschuldigde heffing voor kalenderjaar N, die gebaseerd is op de geschatte aantallen verpakkingen, waarop de heffing van toepassing is, die door de leden van het erkende organisme op de markt werden gebracht in het kalenderjaar N-1. Hiervoor rapporteert het erkende organisme op 1 maart van het kalenderjaar N de geschatte aantallen van het kalenderjaar N-1.<br>
+<br>
+De heffing is voor de eerste keer verschuldigd met betrekking tot het kalenderjaar 2026.<br>
+<br>
+Het formulier bedoeld in het elfde lid van dit punt bevat minstens de volgende gegevens:<br>
+1° de gevorderde bedragen per Gewest of betrokken overheidsinstantie;<br>
+2° de rekeningnummers waarop de bedragen dienen gestort te worden.<br>
+<br>
+Als het erkend organisme niet tot de betaling overgaat of als na controle door de met de inning en de invordering belaste ambtenaar blijkt dat de betaalde bedragen onjuist zijn, kan door de met controle belaste leden van het Permanent Secretariaat een geldboete opgelegd worden. Deze geldboete wordt gelijkgesteld aan 10 % van het niet-betaalde bedrag. De geldboete komt toe aan de Gewesten en wordt verdeeld op basis van de verdeelsleutel die kan worden afgeleid uit de bedragen per Gewest opgenomen in het eerste lid van dit punt.<br>
+<br>
+Als de bedragen niet zijn betaald na het verstrijken van de gestelde betalingstermijn, is van rechtswege de wettelijke intrest verschuldigd, vermeld in het koninklijk besluit van 4 augustus 1996 tot wijziging van de wettelijke rentevoet.<br>
+<br>
+Het erkend organisme is verplicht om alle gegevens die nodig zijn om de juistheid van de betaalde bedragen na te gaan, voor te leggen op ieder verzoek van de ambtenaren die belast zijn met de controle.<br>
+<br>
+Het erkend organisme is verplicht om op ieder verzoek van de ambtenaren die belast zijn met de controle, mondeling of schriftelijk alle inlichtingen te verschaffen die hem gevraagd worden om de juistheid van de betaalde bedragen na te gaan.<br>
+<br>
+Voor het kalenderjaar 2026 en voor elk Gewest wordt het bedrag van de eventuele vrijwillige financiële verbintenissen bedoeld in punt 4° die niet onder een eerdere overeenkomst vallen, in mindering gebracht van de bedragen bedoeld in het eerste lid van dit punt.<br>
+<br>
+15° Indien de verpakkingsverantwoordelijke er via het erkend organisme, samen met de betrokken overheidsinstanties, voor kiest zijn verplichting na te komen door middel van een systeem van organisatorische en financiële terugname van het zwerfvuil (organisatorische en financiële optie), contracten sluiten met de overheidsinstanties die kosten dragen voor het beheer van zwerfvuil dat afkomstig is van de huishoudelijke verpakkingen die door de SUP-richtlijn worden geviseerd, van de verpakkingen van sigaretten en van de huishoudelijke drankverpakkingen uit blik, die door de leden van het erkend organisme op de markt werden gebracht. Deze contracten moeten in overeenstemming zijn met de modelcontracten die, na analyse door en op voorstel van het Beslissingsorgaan UPV, goedgekeurd worden door het Beslissingsorgaan Verpakkingen en die als voorwerp hebben het organiseren en het financieren van de totale en reële kosten van:<br>
+1. de bewustmakingsmaatregelen, teneinde tot een vermindering te komen van zwerfvuil van huishoudelijke verpakkingen, en consumenten voor te lichten over:<br>
+a) de beschikbaarheid van herbruikbare alternatieven, systemen voor hergebruik en mogelijkheden voor het beheer van huishoudelijk wegwerpverpakkingsafval, evenals de beste praktijken voor een degelijk afvalbeheer in overeenstemming met de gewestelijke afvalstoffenwetgeving;<br>
+b) de effecten op het milieu, in het bijzonder het mariene milieu, van zwerfvuil en andere ongepaste vormen van verwijdering van huishoudelijk verpakkingsafval;<br>
+2. het opruimen van het zwerfvuil van huishoudelijke verpakkingen, en voor het daaropvolgende vervoer en verwerking van dat zwerfvuil conform de gewestelijke bepalingen;<br>
+3. het inzamelen van huishoudelijk verpakkingsafval dat in openbare inzamelsystemen wordt afgedankt, inclusief de kosten voor de infrastructuur en de exploitatie ervan en voor het daaropvolgende vervoer en verwerking van dat afval. Deze kosten moeten ook betrekking hebben op het opzetten van specifieke infrastructuur voor het, al dan niet selectief, inzamelen van huishoudelijke verpakkingen, zoals passende afvalrecipiënten op plekken waar frequent zwerfvuil wordt aangetroffen;<br>
+4. de proportionele bijdrage aan de algemene kosten van het zwerfvuil- beleid van de overheid, met inbegrip van de controle.<br>
 <br>
 § 2. Binnen de tien dagen na het aangaan van een overeenkomst bedoeld in § 1, 7°, zendt het erkende organisme hiervan een integrale kopie aan de bevoegde Gewestelijke administratie en aan de Interregionale Verpakkingscommissie.<br>
 <br>
@@ -236,6 +362,42 @@ Desgevallend kan de bijdrage aan de financiering van de Gewesten in uitvoering w
 ### ART. 14.
 
 Indien de terugnameplicht betrekking heeft op verpakkingsafval van bedrijfsmatige oorsprong, dient het erkende organisme, naast de in artikel 12 voorziene verplichtingen, ook :<br />1° op een homogene wijze het gehele Belgische grondgebied te bestrijken waar de verpakkingsverantwoordelijken hun producten in de handel brengen, op een wijze dat de inzameling, de recyclage en nuttige toepassing van het verpakkingsafval van bedrijfsmatige oorsprong, met het oog op het vervullen van de terugnameplicht, gewaarborgd is;<br />2° jaarlijks, tijdens de duur van de erkenning, op een homogene wijze de percentages bepaald in artikel 3, §§ 2 en 3 van dit akkoord te bereiken;<br />3° de bijdrage van de contractanten op niet discriminerende wijze te berekenen per verpakkingsmateriaal, daarbij tevens rekening houdend met de kosten die elke bedrijfsmatige ontpakker van verpakkingsafval van bedrijfsmatige oorspong maakt met het oog op het behalen van de percentages van de terugnameplicht en in het bijzonder de recyclagepercentages;<br />4° bijzondere acties te voorzien ten voordele van de kleinere bedrijfsmatige ontpakkers, zijnde de ontpakkers die minder dan 50 werknemers hebben en de kleinhandelaars, teneinde de preventie en nuttige toepassing van verpakkingsafval van bedrijfsmatige oorsprong te bevorderen en de kosten voor het beheer ervan te verminderen. De Interregionale Verpakkingscommissie bepaalt in de erkenning van het organisme zonodig bijkomende voorwaarden om de toepassing van deze bepaling te verzekeren;<br />5° de vrije markt van selectieve inzameling, recyclage en nuttige toepassing zo min mogelijk verstoren en de gelijkheid respecteren tussen de private of publieke operatoren die instaan voor de inzameling, sortering, recyclage en nuttige toepassing van verpakkingsafval van bedrijfsmatige oorsprong;<br />6° zich ertoe verbinden een contract, conform artikel 10, § 2, 5°, af te sluiten met elke verpakkingsverantwoordelijke onderworpen aan de terugnameplicht die hierom verzoekt;<br />7° een maximaal aantal bedrijfsmatige ontpakkers aansporen tot selectieve inzameling, recyclage en nuttige toepassing door middel van forfaitaire financiële tussenkomsten in de kosten van selectieve containers; dit zijn containers die voor een wezenlijk deel bestemd zijn voor de inzameling van verpakkingsafval van bedrijfsmatige oorsprong en die geen verontreinigingen bevatten die recyclage of nuttige toepassing kunnen verhinderen; de Interregionale Verpakkingscommissie bepaalt in de erkenning van het organisme het minimum gehalte aan verpakkingsafval van bedrijfsmatige oorsprong van de containers bestemd voor de inzameling van bedrijfsafval;<br />8° de ontwikkeling toelaten van de tewerkstelling in de verenigingen en vennootschappen met sociaal oogmerk die, in overeenstemming met hun maatschappelijk doel, actief zijn op het vlak van de inzameling, de sortering, de recyclage en de nuttige toepassing van verpakkingsafval;<br />9° de verifieerbaarheid en controleerbaarheid van de recyclage en de nuttige toepassing van het verpakkingsafval van bedrijfsmatige oorsprong te garanderen, alsook de milieu- en sociale omstandigheden waarin de recyclage en de nuttige toepassing plaatsvindt.<br /><br />
+
+### ART 14bis.
+
+§ 1. Voor de afvalstroom "verpakkingsafval van bedrijfsmatige oorsprong" geldt een financiële verplichting in de vorm van een heffing voor het erkende organisme; deze moet bijdragen tot de financie- ring van het beleid van de Gewesten inzake de preventie en het beheer van de betrokken afvalstoffen.<br>
+<br>
+De heffing is uitgedrukt als een bedrag per inwoner per jaar, waarbij het aantal inwoners bepaald wordt door de meest recente bevolkingsstatistieken van de Algemene Directie Statistiek en Economische Informatie van de FOD Economie, KMO, Middenstand en Energie, die beschikbaar zijn op 1 januari van hetzelfde jaar.<br>
+<br>
+Indien meerdere erkende organismen bestaan, wordt de heffing door elk erkend organisme gedragen ten belope van zijn marktaandeel. Het marktaandeel van een erkend organisme in een bepaald kalenderjaar N is de som van het marktaandeel van elke bij dat erkend organisme aangesloten verpakkingsverantwoordelijke, zoals vastgesteld op het einde van het voorgaande kalenderjaar N-1. Het marktaandeel van een verpakkingsverantwoordelijke uitgedrukt in een percentage dat wordt berekend door de aantallen van de door de verpakkingsverantwoordelijke op de markt gebrachte bedrijfsmatige verpakkingen waaruit de betrokken afvalstroom voortkomt, te delen door de totale aantallen op de markt gebrachte bedrijfsmatige verpakkingen waaruit de betrokken afvalstroom voortkomt, en dit vervolgens te vermenigvuldigen met factor honderd.<br>
+<br>
+Elk erkend organisme rapporteert aan de Interregionale Commissie voor de UPV, met betrekking tot een bepaald kalenderjaar N, uiterlijk op 1 maart van het kalenderjaar N+ 1 volgend op dat kalenderjaar, de aantallen van de door zijn leden in het kalenderjaar N-1 op de markt gebrachte verpakkingen. De Interregionale Commissie voor de UPV stelt vervolgens voor kalenderjaar N, op basis van de aantallen in kalenderjaar N-1, het marktaandeel van het erkend organisme vast, zoals bepaald overeenkomstig het voorgaande lid, en communiceert tegen 1 april van het kalenderjaar N+ 1 de door het erkend organisme concreet te betalen bedragen. De heffing wordt betaald tegen uiterlijk 15 april in kalenderjaar N+ 1, door storting op de rekeningnummers die door elk Gewest worden gecommuniceerd.<br>
+<br>
+De heffing is voor de eerste keer verschuldigd met betrekking tot het kalenderjaar 2026.<br>
+<br>
+De heffing bedraagt 0,040 euro/inwoner.<br>
+<br>
+De bedragen per inwoner worden jaarlijks aangepast aan de gezondheidsindex der consumptieprijzen, met als basisindex het gemiddelde van de cijfers van de gezondheidsindex der consumptieprijzen van de vier eerste maanden van het voorgaande jaar.<br>
+<br>
+De geïndexeerde bedragen worden afgerond op de hogere of lagere tiende eurocent, al naargelang het cijfer van de honderdste eurocent al dan niet de 5 bereikt.<br>
+<br>
+De bedragen van de heffing worden verminderd met de bedragen die overeen stemmen met het gecombineerde marktaandeel van de verpakkingsverantwoordelijken die op individuele basis uitvoering geven aan hun verplichtingen in uitvoering van artikel 7.<br>
+<br>
+De heffing is slechts verschuldigd voor zover de berekende heffing minstens 500 euro bedraagt.<br>
+<br>
+§ 2. Het beleid van de Gewesten inzake de preventie en het beheer van de betroffen afvalstoffen kan onder meer betrekking hebben op:<br>
+- de preventie en het hergebruik van de betrokken afvalstoffen;<br>
+- de strijd tegen de aanwezigheid van de betrokken afvalstoffen in het zwerfvuil, sluikstort en restafval;<br>
+- onderzoek en ontwikkeling om de kwaliteit van de betrokken producten en met name hun recycleerbaarheid te verbeteren;<br>
+- de verbetering van de resultaten en/of de kwaliteit van de selectieve inzamelingen van de betrokken afvalstoffen;<br>
+- de niet-selectieve inzameling en verwerking van de betrokken afvalstoffen;<br>
+- de vergoeding van het personeel belast met de controle, uitvoering en opvolging van de voormelde acties;<br>
+- de rapportering over en de evaluatie van deze afvalstoffen;<br>
+- het stimuleren van lokale en hoogwaardige verwerking, in het kader van de circulaire economie.<br>
+<br>
+De globale bedragen van de heffing worden tussen de Gewesten verdeeld volgens de meest recente bevolkingsstatistieken van de Algemene Directie Statistiek en Economische Informatie van de FOD Economie, KMO, Middenstand en Energie, die beschikbaar zijn op 1 januari van het jaar waarbinnen de aangifteperiode valt.<br>
+<br>
+Elk Gewest bepaalt, na consultatie van de betrokken erkende organismen, de concrete bestemmingen van de bedragen die ze respectievelijk hebben ontvangen.
 
 ## Subafdeling 4 Controle op de erkende organismen
 
@@ -297,17 +459,21 @@ De verkoper, met uitzondering van de kleinhandelaar, is gehouden om elke 3 jaar 
 
 ### ART. 23.
 
-§ 1. De Gewesten bestendigen het bestaan van de Interregionale Verpakkingscommissie, opgericht door het samenwerkingsakkoord van 30 mei 1996 betreffende de preventie en het beheer van verpakkingsafval, als een gemeenschappelijke instelling, bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 op de hervorming van de instellingen. Zij heeft rechtspersoonlijkheid.<br>
+§ 1. De Gewesten bestendigen het bestaan van de Interregionale Verpakkingscommissie, opgericht door het Samenwerkingsakkoord van 30 mei 1996 betreffende de preventie en het beheer van verpakkingsafval, als een gemeenschappelijke instelling, bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 op de hervorming van de instellingen, waarvan evenwel de naam wordt gewijzigd in "Interregionale Commissie voor de UPV". Zij heeft rechtspersoonlijkheid.<br>
 <br>
-De Interregionale Verpakkingscommissie is samengesteld uit een Beslissingsorgaan en uit een Permanent Secretariaat, dat tot taak heeft het Beslissingsorgaan bij te staan.<br>
+De Interregionale Commissie voor de UPV is samengesteld uit een Beslissingsorgaan en uit een Permanent Secretariaat, dat tot taak heeft het Beslissingsorgaan bij te staan.<br>
 <br>
-Het Beslissingsorgaan is samengesteld uit negen leden. Elke Gewestregering duidt aan en trekt de aanduiding in van drie effectieve leden en drie plaatsvervangers.<br>
+Het Beslissingsorgaan is samengesteld uit 2 afdelingen met elk negen leden. Elke gewestregering duidt, voor beide afdelingen, drie effectieve leden en drie plaatsvervangers aan. Leden kunnen zowel in beide afdelingen als in slechts één afdeling worden aangeduid.<br>
 <br>
-Het Permanent Secretariaat is samengesteld uit ambtenaren en personeelsleden die door elke Gewestregering ter beschikking worden gesteld van de Interregionale Verpakkingscommissie voor het vervullen van de administratieve en technische opdrachten die haar toekomen.<br>
+De eerste afdeling van het Beslissingsorgaan, die ook wordt aangeduid als "Beslissingsorgaan Verpakkingen", staat in voor de preventie en het beheer van verpakkingsafval, zoals dat verder beschreven wordt in dit Samenwerkingsakkoord.<br>
 <br>
-Het Gewest kan ervoor opteren om, in plaats van personeel ter beschikking te stellen, per budgettair jaar, specifieke budgetten aan de Verpakkingscommissie toe te kennen voor de aanwerving van eigen personeel.<br>
+De tweede afdeling van het Beslissingsorgaan is het "Beslissingsor- gaan UPV". De taken en bevoegdheden van dit "Beslissingsorgaan UPV" worden geregeld in het Samenwerkingsakkoord betreffende het kader voor de Uitgebreide Producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil.<br>
 <br>
-De toegekende specifieke budgetten dekken ook de werkingskosten van het sociale secretariaat dat door de Verpakkingscommissie met de praktische aspecten van het personeelsbeheer zal worden belast.<br>
+Het Permanent Secretariaat is samengesteld uit ambtenaren en personeelsleden die door elke gewestregering ter beschikking worden gesteld van de Interregionale Commissie voor de UPV voor het vervullen van de administratieve en technische opdrachten die haar toekomen.<br>
+<br>
+Het Gewest kan ervoor opteren om, in plaats van personeel ter beschikking te stellen, per budgettair jaar, specifieke budgetten aan de Interregionale Commissie voor de UPV toe te kennen voor de aanwerving van eigen personeel.<br>
+<br>
+De toegekende specifieke budgetten dekken ook de werkingskosten van het sociale secretariaat dat door de Interregionale Commissie voor de UPV met de praktische aspecten van het personeelsbeheer zal worden belast.<br>
 <br>
 § 2. De leden van het Permanent Secretariaat die ter beschikking gesteld zijn door de Gewestelijke Regeringen, blijven, behalve in geval van verlof wegens opdracht, onderworpen aan de statutaire bepalingen die op hen van toepassing zijn, met uitzondering van de volgende leden. Het dagelijkse toezicht op de werking van de leden van het Permanent Secretariaat ligt bij de directeur, die, desgevallend, hierover verslag uitbrengt bij de administratie, door wie deze leden concreet ter beschikking werden gesteld van het Permanent Secretariaat.<br>
 <br>
@@ -326,7 +492,13 @@ Het dagelijks beheer van het Permanent Secretariaat is de bevoegdheid van de dir
 
 ### ART. 24.
 
-Het Beslissingsorgaan van de Interregionale Verpakkingscommissie komt ten minste 10 maal per jaar samen, alsook op vraag van een lid. Het zetelt slechts geldig indien de drie Gewesten vertegenwoordigd zijn.<br /><br />De leden van het Beslissingsorgaan van de Interregionale Verpakkingscommissie duiden elk jaar en met ingang op 5 maart in hun midden een nieuwe voorzitter aan, waarbij een beurtrol wordt gerespecteerd tussen de Gewesten. Het secretariaat van het Beslissingsorgaan wordt verzekerd door het Permanent Secretariaat.<br /><br />Elk advies, voorstel of beslissing van de Interregionale Verpakkingscommissie moet genomen geworden bij consensus, voor zover minstens één vertegenwoordiger van elk Gewest aanwezig is.<br /><br />
+De beide afdelingen van het Beslissingsorgaan van de Interregionale Commissie voor de UPV komen ten minste 10 maal per jaar samen, alsook op vraag van een lid. Elke afdeling zetelt slechts geldig indien de drie Gewesten vertegenwoordigd zijn.<br>
+<br>
+De leden van elke afdeling van het Beslissingsorgaan van de Interregionale Commissie voor de UPV duiden elk jaar en met ingang op 5 maart in hun midden een nieuwe voorzitter aan, waarbij een beurtrol wordt gerespecteerd tussen de Gewesten. Het secretariaat van beide afdelingen van het Beslissingsorgaan wordt verzekerd door het Permanent Secretariaat.<br>
+<br>
+Het reglement van inwendige orde van de Interregionale Commissie voor de UPV, dat de regels van interne werking van de Interregionale Commissie voor de UPV vastlegt, regelt de praktische samenwerking tussen de beide afdelingen en kan voorzien in gemeenschappelijke vergaderingen van de twee afdelingen.<br>
+<br>
+Elk advies, voorstel of beslissing van de Interregionale Commissie voor de UPV moet genomen geworden bij consensus, voor zover minstens één vertegenwoordiger van elk Gewest aanwezig is.
 
 ### ART. 25.
 
@@ -334,7 +506,30 @@ Het Beslissingsorgaan van de Interregionale Verpakkingscommissie maakt jaarlijks
 
 ### ART. 26.
 
-§ 1. Het Beslissingsorgaan van de Interregionale Verpakkingscommissie   :<BR>1° keurt de algemene preventieplannen goed en beoordeelt de evaluaties   ervan;<BR>2° keurt de wijze waarop de verpakkingsverantwoordelijke die geen   erkend organisme gelast heeft met de uitvoering van zijn terugnameplicht, zijn   verplichtingen vervult, goed;<BR>3° controleert het budget van en de tarificatie   toegepast door de erkende organismen;<BR>4° verleent, controleert, schorst of   trekt de erkenning van het organisme in of wijzigt op elk ogenblik, na de   vertegenwoordiger van het erkende organisme te hebben gehoord, om redenen van   algemeen belang, de voorwaarden voor de uitvoering van de activiteit, zoals   voorzien in de erkenning;<BR>5° bepaalt de hoogte van elke financiële zekerheid   en verzoekt om de vrijmaking ervan in geval van niet-uitvoering van de   verplichtingen ten laste van het organisme, in overeenstemming met artikel 11   van dit samenwerkingsakkoord;<BR>6° brengt advies uit over de door het erkende   organisme voorgenomen acties betreffende de informatie en de sensibilisering van   de consumenten en betreffende publiciteit, met uitzondering van de communicatie   voor wat betreft de praktische modaliteiten betreffende de inzameling van   verpakkingsafval, zoals voorzien in de artikelen 10, § 2, 6° en 13, § 1, 4° en   7°;<BR>7° brengt advies uit over het aanbrengen van een logo of tekst op de   verpakkingen met de bedoeling de uitvoering van de verplichtingen van dit   akkoord te verduidelijken;<BR>8° brengt advies uit over het bericht voorzien in   artikel 22;<BR>9° bepaalt de globale referentiecijfers betreffende het gewicht   van de eenmalige verpakkingen die jaarlijks in elk Gewest in de handel worden   gebracht, en de specifieke referentiecijfers betreffende het gewicht van   eenmalige verpakkingen die jaarlijks door de verpakkingsverantwoordelijke die   een overeenkomst heeft afgesloten met een erkend organisme, in de handel worden   gebracht;<BR>10° bepaalt het organogram en de regels van interne werking van de   Interregionale Verpakkingscommissie;<BR>11° verleent de toestemming aan bepaalde   groepen verpakkingsverantwoordelijken om zich te laten vertegenwoordigen bij het   erkende organisme, zoals voorzien in artikel 8, en bepaalt de voorwaarden van   deze vertegenwoordiging;<BR>12° bepaalt de voorwaarden van de delegatie voorzien   in artikel 18, § 2.<BR><BR>§ 2. De Interregionale Verpakkingscommissie   verifieert :<BR>1° hoe de verpakkingsverantwoordelijken of de erkende organismen   de minimum percentages van nuttige toepassing, vermeerderd met « verbranding met   terugwinning van energie in afvalverbrandingsinstallaties », en recyclage   bereiken;<BR>2° de informatie die aan haar moet medegedeeld worden krachtens de   artikelen 18 en 19.<BR><BR>§ 3. De leden van het Permanent Secretariaat van de   Interregionale Verpakkingscommissie ondervragen de bedrijfsrevisoren van het   erkende organisme of onderzoeken de rekeningen overeenkomstig artikel 15, en   zijn gelast met het toezicht op de bepalingen van het   samenwerkingsakkoord.<BR><BR>§ 4. De Interregionale Verpakkingscommissie stelt   jaarlijks een rapport op over haar activiteiten ten behoeve van de   Gewestregeringen.<BR><BR>§ 5. De Interregionale Verpakkingscommissie kan de   Gewesten, wanneer zij daarom verzoeken, ondersteunen inzake de organisatie van   aanvaardings- en terugnameplichten betreffende andere afvalstoffen dan   verpakkingsafval.<BR><BR>De Interregionale Verpakkingscommissie zal, op vraag   van de Gewesten, onder meer :<BR>- de nodige nota's opmaken om te zorgen voor   een interregionale benadering van de aanvaardings- of terugnameplichten voor   andere afvalstromen dan verpakkingsafval;<BR>- gezamenlijke overlegvergaderingen   van de Gewesten met stakeholders organiseren betreffende deze aanvaardings- of   terugnameplichten;<BR>- overlegvergaderingen tussen de Gewesten organiseren   betreffende deze aanvaardings- of terugnameplichten.<BR><BR>Aan de hierboven   vermelde vergaderingen zal al dan niet een vertegenwoordiger van de   Interregionale Verpakkingscommissie deelnemen. De Interregionale   Verpakkingscommissie zal, desgevraagd, instaan voor de verslaggeving van deze   vergaderingen.<BR><BR>§ 6. Het Beslissingsorgaan van de Interregionale   Verpakkingscommissie verleent de vrijstelling bedoeld in artikel 3, §   4.<BR>
+§ 1. Het Beslissingsorgaan van de Interregionale Verpakkingscommissie :<br>
+1° keurt de algemene preventieplannen goed en beoordeelt de evaluaties ervan;<br>
+2° keurt de wijze waarop de verpakkingsverantwoordelijke die geen erkend organisme gelast heeft met de uitvoering van zijn terugnameplicht, zijn verplichtingen vervult, goed;<br>
+3° controleert het budget van en de tarificatie toegepast door de erkende organismen;<br>
+4° verleent, controleert, schorst of trekt de erkenning van het organisme in of wijzigt op elk ogenblik, na de vertegenwoordiger van het erkende organisme te hebben gehoord, om redenen van algemeen belang, de voorwaarden voor de uitvoering van de activiteit, zoals voorzien in de erkenning;<br>
+5° bepaalt de hoogte van elke financiële zekerheid en verzoekt om de vrijmaking ervan in geval van niet-uitvoering van de verplichtingen ten laste van het organisme, in overeenstemming met artikel 11 van dit samenwerkingsakkoord;<br>
+6° brengt advies uit over de door het erkende organisme voorgenomen acties betreffende de informatie en de sensibilisering van de consumenten en betreffende publiciteit, met uitzondering van de communicatie voor wat betreft de praktische modaliteiten betreffende de inzameling van verpakkingsafval, zoals voorzien in de artikelen 10, § 2, 6° en 13, § 1, 4° en 7°;<br>
+7° brengt advies uit over het aanbrengen van een logo of tekst op de verpakkingen met de bedoeling de uitvoering van de verplichtingen van dit akkoord te verduidelijken;<br>
+8° brengt advies uit over het bericht voorzien in artikel 22;<br>
+9° bepaalt de globale referentiecijfers betreffende het gewicht van de eenmalige verpakkingen die jaarlijks in elk Gewest in de handel worden gebracht, en de specifieke referentiecijfers betreffende het gewicht van eenmalige verpakkingen die jaarlijks door de verpakkingsverantwoordelijke die een overeenkomst heeft afgesloten met een erkend organisme, in de handel worden gebracht;<br>
+10° bepaalt het organogram en de regels van interne werking van de Interregionale Verpakkingscommissie;<br>
+11° verleent de toestemming aan bepaalde groepen verpakkingsverantwoordelijken om zich te laten vertegenwoordigen bij het erkende organisme, zoals voorzien in artikel 8, en bepaalt de voorwaarden van deze vertegenwoordiging;<br>
+12° bepaalt de voorwaarden van de delegatie voorzien in artikel 18, § 2;<br>
+13° geeft binnen zijn tweede afdeling uitvoering aan de taken opgenomen in het Samenwerkingsakkoord betreffende het kader voor de Uitgebreide Producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil.<br>
+<br>
+§ 2. De Interregionale Verpakkingscommissie verifieert :<br>
+1° hoe de verpakkingsverantwoordelijken of de erkende organismen de minimum percentages van nuttige toepassing, vermeerderd met « verbranding met terugwinning van energie in afvalverbrandingsinstallaties », en recyclage bereiken;<br>
+2° de informatie die aan haar moet medegedeeld worden krachtens de artikelen 18 en 19.<br>
+<br>
+§ 3. De leden van het Permanent Secretariaat van de Interregionale Verpakkingscommissie ondervragen de bedrijfsrevisoren van het erkende organisme of onderzoeken de rekeningen overeenkomstig artikel 15, en zijn gelast met het toezicht op de bepalingen van het samenwerkingsakkoord.<br>
+<br>
+§ 4. De Interregionale Verpakkingscommissie stelt jaarlijks een rapport op over haar activiteiten ten behoeve van de Gewestregeringen.<br>
+<br>
+§ 5. Het Beslissingsorgaan van de Interregionale Verpakkingscommissie verleent de vrijstelling bedoeld in artikel 3, § 4.
 
 ### ART. 27.
 
