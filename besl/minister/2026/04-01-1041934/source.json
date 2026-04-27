@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041934,
+  "title": "Ministerieel besluit van 2026-04-01 over de toekenning van een aanvullende subsidie aan intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid voor 2026",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041934/VolledigDocument?datum=2026-04-27",
+  "source_sha256": "aba1f94711d36f8d71c30f632cd5385fca6c33c57e2eef623781b27f8518b009",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041934&param=informatie",
+  "as_of": "2026-04-27",
+  "made": "2026-04-01",
+  "gazette": "2026-04-17",
+  "numac": 2026002915,
+  "document_start": "2026-04-27",
+  "document_end": null,
+  "in_force": "2026-04-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
