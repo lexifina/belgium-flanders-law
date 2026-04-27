@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041908,
+  "title": "Omzendbrief van 2026-03-20 KBBJ/ABB 2026/2 over de gemeentefiscaliteit",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041908/VolledigDocument?datum=2026-04-27",
+  "source_sha256": "ac97baa6f1b77051ef56c52e4c6eb09b4a666f93a1603e309cacbe8368a16d7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041908&param=informatie",
+  "as_of": "2026-04-27",
+  "made": "2026-03-20",
+  "gazette": "2026-04-17",
+  "numac": 2026002770,
+  "document_start": "2026-04-27",
+  "document_end": null,
+  "in_force": "2026-04-27",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2026-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
