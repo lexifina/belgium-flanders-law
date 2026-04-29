@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041997,
+  "title": "Ministerieel besluit van 2026-05-07 tot wijziging van het ministerieel besluit van 18 juli 2006 houdende de oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het VEKA",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041997/VolledigDocument?datum=2026-04-29",
+  "source_sha256": "a66f5970771865ee284a8c9ad00d9e60409bba980ddda228c7e8e39f1cb75ee8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041997&param=informatie",
+  "as_of": "2026-04-29",
+  "made": "2026-05-07",
+  "gazette": "2026-05-15",
+  "numac": 2026003578,
+  "document_start": "2026-04-29",
+  "document_end": null,
+  "in_force": "2026-04-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
