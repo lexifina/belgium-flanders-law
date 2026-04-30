@@ -56,9 +56,11 @@ De volgende tarieven en bedragen worden jaarlijks op 1 oktober aangepast overeen
 2°&nbsp;&nbsp; &nbsp;de bedragen, vermeld in dit besluit, met uitzondering van:<br>
 a)&nbsp;&nbsp; &nbsp;het bedrag, vermeld in artikel 22 van dit besluit;<br>
 b)&nbsp;&nbsp; &nbsp;de inkomensschijf van 3700 euro en de verhoging met 0,60 euro, vermeld in artikel 25, eerste lid, 3°, van dit besluit;<br>
-c)&nbsp;&nbsp; &nbsp;de schijf van 50 euro, vermeld in artikel 28, eerste lid, 1°, van dit besluit, worden jaarlijks op 1 oktober aangepast overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand juli van het jaar van de indexering, ten opzichte van de afgevlakte gezondheidsindex voor de maand juli van het jaar dat het jaar van de indexering voorafgaat.<br>
+c)&nbsp;&nbsp; &nbsp;de schijf van 50 euro, vermeld in artikel 28, eerste lid, 1°, van dit besluit.<br>
 <br>
-De indexering van het berekende inkomenstarief, vermeld in het eerste lid, wordt toegepast vóór de aftrek van de vermindering voor kinderen ten laste, vermeld in artikel 28.
+De indexering van het berekende inkomenstarief, vermeld in het eerste lid, wordt toegepast vóór de aftrek van de vermindering voor kinderen ten laste, vermeld in artikel 28.<br>
+<br>
+Met behoud van de toepassing van het eerste lid worden de bedragen, vermeld in artikel 21, eerste lid, 1°, c), f) en h), bijkomend eenmalig geïndexeerd op 1 april 2026, overeenkomstig de procentuele stijging van de afgevlakte gezondheidsindex voor de maand januari van 2026, ten opzichte van de afgevlakte gezondheidsindex voor de maand januari van 2025.
 
 ## HOOFDSTUK 5 Betalingsregeling en bezorgen gegevens
 
