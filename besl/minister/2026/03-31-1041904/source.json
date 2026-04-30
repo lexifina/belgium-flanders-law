@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041904,
+  "title": "Ministerieel besluit van 2026-03-31 tot wijziging van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, wat betreft de index",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041904/VolledigDocument?datum=2026-04-30",
+  "source_sha256": "d1ef5f22bc3f1cde57afe8c2ba5f5975e0dbf2b4a360f05159930f490dbdf4fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041904&param=informatie",
+  "as_of": "2026-04-30",
+  "made": "2026-03-31",
+  "gazette": "2026-04-13",
+  "numac": 2026002742,
+  "document_start": "2026-04-30",
+  "document_end": null,
+  "in_force": "2026-04-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
