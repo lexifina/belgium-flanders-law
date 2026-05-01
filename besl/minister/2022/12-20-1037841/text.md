@@ -69,7 +69,7 @@ Mevrouw Yanne Bogaerts wordt tot plaatsvervangend vertegenwoordiger van de Vlaam
 
 ### ART 11.
 
-De heer Stijn Deschietere wordt tot secretaris benoemd.
+De heer Jan Mathei wordt tot secretaris benoemd.
 
 ### ART 12.
 
