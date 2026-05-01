@@ -296,15 +296,48 @@ Een kandidaat heeft recht op inzage van de stukken op grond waarvan de examencom
 
 ### ART 33.
 
-Een kandidaat die oordeelt dat een ongunstige beslissing van de examencommissie aangetast is door een schending van het recht, heeft toegang tot een interne beroepsprocedure. De interne beroepsinstantie is samengesteld uit leden van de examencommissie. De technische en praktische modaliteiten van de interne beroepsprocedure en de concrete samenstelling van de interne beroepsinstantie zijn vastgelegd in het examenreglement, vermeld in artikel 6, eerste en derde lid.<br>
+Een kandidaat die oordeelt dat een ongunstige beslissing van de examencommissie aangetast is door een schending van het recht, heeft toegang tot een interne beroepsprocedure. Een kandidaat kan tegen elke ongunstige individuele beslissing van de examencommissie een beroep indienen bij de interne beroepsinstantie.<br>
 <br>
-De kandidaat kan een verzoek tot heroverweging van de individuele beslissing van de examencommissie instellen tot en met 31 juli. Dat is een vervaldatum. De kandidaat kan vragen om inzage van het dossier dat met betrekking tot het verzoekschrift wordt samengesteld. Na 31 juli kunnen geen extra stukken of nota’s worden ingediend, behalve als die stukken of nota’s zijn gebaseerd op nieuwe elementen die voortvloeien uit de inzage in de stukken met betrekking tot het dossier inzake het verzoekschrift. De kandidaat heeft in dat geval 4 kalenderdagen om desgevallend extra stukken of nota’s in te dienen, gebaseerd op nieuwe elementen die voortvloeien uit de inzage. Als de mededeling van de individuele beslissing, vermeld in artikel 10, gebeurt na 24 juli, beschikt de kandidaat over een vervaltermijn van zeven dagen om een intern beroep in te stellen. De voormelde vervaltermijn gaat in op de dag na de mededeling van de individuele beslissing aan de kandidaat, vermeld in artikel 10.<br>
-&nbsp;&nbsp; &nbsp;<br>
-De interne beroepsprocedure leidt tot een van de volgende beslissingen:<br>
-1° de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid ervan;<br>
-2° een beslissing over de rangschikking die de oorspronkelijke beslissing op gemotiveerde wijze bevestigt, of herziet.<br>
-&nbsp;&nbsp; &nbsp;<br>
-De kandidaat wordt op de hoogte gebracht van de beslissingen, vermeld in het derde lid, binnen een ordetermijn van dertig dagen, die ingaat op 1 augustus. Voor beroepen die na 1 augustus worden ingesteld, gaat de ordetermijn van dertig dagen in op de dag na de dag waarop het beroep is ingesteld.
+De interne beroepsinstantie is samengesteld uit&nbsp;<br>
+1° minstens twee interne leden, dit zijn de voorzitter of leden van de examencommissie;<br>
+2° minstens drie externe leden, dit zijn personen die geen lid zijn van de examencommissie.&nbsp;<br>
+<br>
+De voorzitter van de interne beroepsinstantie is een extern lid.&nbsp;<br>
+<br>
+De Vlaamse minister, bevoegd voor onderwijs en vorming, benoemt de leden van de interne beroepsinstantie. De leden worden op zodanige wijze aangesteld dat de nodige expertise aanwezig is op het vlak van:<br>
+1°&nbsp;&nbsp; &nbsp;juridische kennis inzake onderwijsrecht;<br>
+2°&nbsp;&nbsp; &nbsp;kennis van het hoger onderwijs;<br>
+3°&nbsp;&nbsp; &nbsp;kennis van de werking van de toelatingsexamens;<br>
+4°&nbsp;&nbsp; &nbsp;kennis van de psychometrie, toetsontwikkeling of onderwijskunde.<br>
+<br>
+De voorzitter van de interne beroepsinstantie, vermeld in het derde lid, ontvangt een bedrag van 3000 euro per jaar. De externe leden van de interne beroepsinstantie, vermeld in het tweede lid, 2°, met uitzondering van de voorzitter, vermeld in het derde lid, ontvangen een bedrag van 900 euro per jaar. Vanaf het jaar 2024 worden deze bedragen aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 januari 2023.<br>
+<br>
+Om geldig te beraadslagen, moet ten minste de helft van de leden aanwezig zijn, waarbij het aantal externe leden, vermeld in het tweede lid, 2°, minstens even groot is als het aantal interne leden, vermeld in het tweede lid, 1°. De interne beroepsinstantie zal een plaatsvervangend voorzitter aanduiden onder zijn externe leden bij afwezigheid van de voorzitter. De interne beroepsinstantie beslist op grond van een voorstel van de voorzitter. De interne beroepsinstantie tracht om een consensus over het voorstel te bereiken. Als er geen consensus over het voorstel wordt bereikt, dan gaat de interne beroepsinstantie over tot een stemming.<br>
+<br>
+Elk lid van de interne beroepsinstantie is stemgerechtigd. Bij staking van stemmen is de stem van de voorzitter van de interne beroepsinstantie doorslaggevend.&nbsp;<br>
+<br>
+De kandidaat beschikt over een vervaltermijn van zeven kalenderdagen om een intern beroep, geformuleerd als verzoek tot heroverweging van de individuele beslissing van de examencommissie, in te stellen bij de interne beroepsinstantie. De vervaltermijn gaat in op de dag na de kennisgeving van de individuele beslissing aan de kandidaat. In het geval van de examenbeslissing is dat de dag na de proclamatie van het betrokken resultaat.<br>
+<br>
+De kandidaat kan vragen om inzage in het beroepsdossier. Nadat de vervaltermijn voor het indienen van een intern beroep is verstreken kunnen geen extra stukken of nota’s worden ingediend, behalve wanneer de betrokken stukken of nota’s zijn gebaseerd op nieuwe elementen die voortvloeien uit de inzage in de stukken van het beroepsdossier. De kandidaat heeft in dat geval vier kalenderdagen om bijkomende stukken of nota’s in te dienen die gebaseerd zijn op nieuwe elementen die voortvloeien uit de inzage. Deze vervaltermijn gaat in de dag nadat hem de effectieve toelating tot inzage is verleend.<br>
+<br>
+De interne beroepsinstantie heeft volheid van bevoegdheid. De interne beroepsprocedure leidt tot een van de volgende beslissingen:<br>
+1°&nbsp;&nbsp; &nbsp;de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid ervan, als een van de volgende voorwaarden is vervuld:<br>
+a)&nbsp;&nbsp; &nbsp;de termijn voor indiening van het beroep is overschreden;<br>
+b)&nbsp;&nbsp; &nbsp;het beroep voldoet niet aan de vormvereisten opgenomen in het werkingsreglement, vermeld in het veertiende lid;<br>
+2°&nbsp;&nbsp; &nbsp;een beslissing die de individuele beslissing van de examencommissie op gemotiveerde wijze bevestigt;<br>
+3°&nbsp;&nbsp; &nbsp;een beslissing die de individuele beslissing van de examencommissie op gemotiveerde wijze herziet.<br>
+<br>
+De interne beroepsinstantie kan, naar aanleiding van een gegrond intern beroep, vermeld in het tiende lid, 3°, op gemotiveerde wijze beslissen om een beslissing van toepassing te verklaren op een groep van kandidaten in gelijkaardige omstandigheden of op alle kandidaten van het toelatingsexamen in kwestie. De interne beroepsinstantie herziet in die gevallen de initiële beslissing van de examencommissie.<br>
+<br>
+De beslissing bedoeld in het vorige lid kan geen nadelige invloed hebben op de rangschikking van een reeds eerder gunstig gerangschikte kandidaat. Deze bepaling heeft geen invloed op de vaststelling van onregelmatigheden en sancties zoals vermeld in artikel 30.<br>
+<br>
+De kandidaat wordt schriftelijk op de hoogte gebracht van de beslissing, vermeld in het tiende lid, binnen een ordetermijn van veertig kalenderdagen, die ingaat op de eerste dag nadat de vervaltermijn voor het indienen van een intern beroep is verstreken.<br>
+<br>
+De interne beroepsinstantie stelt een werkingsreglement op waarin concrete voorschriften zijn opgenomen ter uitvoering van dit besluit.<br>
+<br>
+Tegen ongunstige beslissingen van de examencommissie in het kader van de toelatingsexamens die worden georganiseerd in juli 2026 die dateren van voor 1 mei 2026 waartegen nog geen intern beroep is ingesteld, vangt de vervaltermijn om een intern beroep in te stellen, vermeld in het achtste lid, pas aan op 1 mei 2026.&nbsp;<br>
+<br>
+Beroepschriften tegen ongunstige beslissingen van de examencommissie in het kader van de toelatingsexamens die worden georganiseerd in juli 2026 die dateren van voor 1 mei 2026, zullen worden overgeheveld naar de nieuwe procedure beschreven in dit besluit en behandeld en beantwoord worden door de leden van de interne beroepsinstantie benoemd door de Vlaamse minister, bevoegd voor onderwijs en vorming, vermeld in het vierde lid.
 
 ## Hoofdstuk 10. Informatieverplichting
 
