@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041955,
+  "title": "Besluit van een ambtenaar van 2026-04-20 tot erkenning van een opleidingsinstantie voor BelRAI-trainers",
+  "type": "Besluit van een ambtenaar",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041955/VolledigDocument?datum=2026-05-01",
+  "source_sha256": "01e882902dade87b094b3b7f17515b66749a5fb3aa17daf2baf40ed0588407dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041955&param=informatie",
+  "as_of": "2026-05-01",
+  "made": "2026-04-20",
+  "gazette": "2026-04-24",
+  "numac": 2026003079,
+  "document_start": "2026-05-01",
+  "document_end": "2030-04-30",
+  "in_force": "2026-05-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
