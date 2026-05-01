@@ -36,7 +36,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De platformretributie voor het product vastgoedinlichtingen, vermeld in artikel 23 van het decreet van 22 december 2023, bedraagt 36,50 euro exclusief btw per perceel.<br>
+De platformretributie voor het product vastgoedinlichtingen, vermeld in artikel 23 van het decreet van 22 december 2023, bedraagt 21,60 euro exclusief btw per perceel.<br>
 <br>
 Als een aanvrager in dezelfde aanvraag en in het kader van dezelfde overdracht voor meer dan tien percelen een product vastgoedinlichtingen aanvraagt, bedraagt de platformretributie, vermeld in het eerste lid, vanaf het elfde perceel nul euro per bijkomend perceel.&nbsp;
 
