@@ -89,14 +89,14 @@ De dienst van de Vlaamse overheid die de Vlaamse Regering aanwijst, betaalt de j
 
 § 1. De jobbonus wordt automatisch toegekend op voorwaarde dat de diensten, vermeld in artikel 8, eerste en tweede lid, toegang verkrijgen tot de noodzakelijke gegevensbronnen, vermeld in artikel 16. De Vlaamse Regering kan bepalen welke begunstigden voor een automatische toekenning in aanmerking komen.<br>
 <br>
-De begunstigden, vermeld in het eerste lid, registreren eenmalig het Belgische rekeningnummer waarop de dienst, vermeld in artikel 8, tweede lid, de jobbonus kan uitbetalen. De Vlaamse Regering bepaalt de procedure voor de registratie.<br>
+De begunstigden, vermeld in het eerste lid, registreren eenmalig het rekeningnummer van een bankrekening die in een lidstaat van de Europese Unie werd geopend waarop de dienst, vermeld in artikel 8, tweede lid, de jobbonus kan uitbetalen. De Vlaamse Regering bepaalt de procedure voor de registratie.<br>
 <br>
 § 2. Als de begunstigde niet in aanmerking komt voor een automatische toekenning, vraagt de begunstigde met een aanvraagformulier de jobbonus aan de dienst, vermeld in artikel 8, eerste lid.<br>
 <br>
 Het aanvraagformulier, vermeld in het eerste lid, bevat de volgende gegevens:<br>
 1° de identiteits- en adresgegevens;<br>
 2° het rijksregisternummer of BIS-nummer;<br>
-3° het Belgische rekeningnummer;<br>
+3° het rekeningnummer van een bankrekening die in een lidstaat van de Europese Unie werd geopend;<br>
 4° de loon- en tewerkstellingsgegevens.<br>
 <br>
 De Vlaamse Regering kan de gegevens, vermeld in het tweede lid, verder bepalen en uitbreiden.<br>
