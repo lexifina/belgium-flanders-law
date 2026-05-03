@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041951,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-03 tot wijziging van de VLAREME van 28 oktober 2016, wat betreft de opbrenging van kunstmeststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041951/VolledigDocument?datum=2026-05-03",
+  "source_sha256": "78b070daeaed3b1b1b2a5bb9fa1cf522ffd07c9a7a434eacf2d6133dcc2f6a16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041951&param=informatie",
+  "as_of": "2026-05-03",
+  "made": "2026-04-03",
+  "gazette": "2026-04-23",
+  "numac": 2026003054,
+  "document_start": "2026-05-03",
+  "document_end": null,
+  "in_force": "2026-05-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
