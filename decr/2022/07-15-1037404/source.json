@@ -2,16 +2,16 @@
   "codex_id": 1037404,
   "title": "Decreet van 2022-07-15 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037404/VolledigDocument?datum=2022-11-14",
-  "source_sha256": "52f18a6e8ecf5b65f5f6e56be9514855a6c265a9297f505d8d2727553fc6f4ad",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037404/VolledigDocument?datum=2026-05-03",
+  "source_sha256": "7f37b3fdd4475db7f6c1e70f2d50fc1cc727462fd27022a1e70073f0f72696a0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037404&param=informatie",
-  "as_of": "2022-11-14",
+  "as_of": "2026-05-03",
   "made": "2022-07-15",
   "gazette": "2022-09-14",
   "numac": 2022015539,
   "document_start": "2022-11-14",
   "document_end": null,
-  "in_force": "2022-11-14",
+  "in_force": "2026-05-03",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2022-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-05-03; future article versions excluded; article text as the API gives it"
 }

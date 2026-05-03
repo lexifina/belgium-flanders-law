@@ -84,7 +84,7 @@ De dienst die de Vlaamse Regering aanwijst, heeft de volgende taken in het kader
 
 De jobbonus plus wordt automatisch toegekend op voorwaarde dat de dienst, vermeld in artikel 9, toegang krijgt tot de gegevensbronnen, vermeld in artikel 16.<br>
 <br>
-De zelfstandige in hoofdberoep registreert eenmalig het rekeningnummer bij een in België gevestigde kredietinstelling waarop de dienst, vermeld in artikel 9, de jobbonus plus kan uitbetalen. De Vlaamse Regering bepaalt de procedure voor de registratie.<br>
+De zelfstandige in hoofdberoep registreert eenmalig het rekeningnummer van een bankrekening die in een lidstaat van de Europese Unie is geopend waarop de dienst, vermeld in artikel 9, de jobbonus plus kan uitbetalen. De Vlaamse Regering bepaalt de procedure voor de registratie.<br>
 <br>
 De Vlaamse Regering bepaalt de aanvraagprocedure voor het geval waarin de jobbonus plus niet automatisch kan worden toegekend.
 
