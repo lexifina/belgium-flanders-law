@@ -73,7 +73,7 @@ De gewone verblijfplaats van iemand die zijn beroepsmatige bindingen op een ande
 In titel 2, hoofdstuk 3, wordt verstaan onder :<br>
 1° wegvoertuigen : de personenauto's, auto's voor dubbel gebruik, minibussen en motorfietsen, zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2° van het vorige lid, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
 2° luchtvaartuigen : de vliegtuigen, watervliegtuigen, helikopters, zweefvliegtuigen, luchtballons of bestuurbare luchtschepen en andere luchtvaartuigen, zwaarder of lichter dan lucht, met of zonder motor, als ze ingeschreven zijn of moeten zijn;<br>
-3° boten : de jachten en pleziervaartuigen die langer zijn dan 7,5 meter, als daarvoor een vlaggenbrief afgeleverd is of afgeleverd moet zijn;<br>
+3° boten : de jachten en pleziervaartuigen die langer zijn dan 7,5 meter, als daarvoor een registratiebrief afgeleverd is of afgeleverd moet zijn;<br>
 4° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen;<br>
 5° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in het Wetboek van vennootschappen en verenigingen.<br>
 <br>
@@ -139,6 +139,8 @@ In titel 2, hoofdstuk 9, wordt in afwijking van het eerste lid verstaan onder :<
 9° gemeenten van de Vlaamse Rand rond Brussel: de gemeenten Affligem, Asse, Beersel, Bertem, Bever, Dilbeek, Drogenbos, Galmaarden, Gooik, Grimbergen, Halle, Herne, Hoeilaart, Huldenberg, Kampenhout, Kapelle-op-den-Bos, Kortenberg, Kraainem, Lennik, Liedekerke, Linkebeek, Londerzeel, Machelen, Meise, Merchtem, Opwijk, Overijse, Pepingen, Roosdaal, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Steenokkerzeel, Ternat, Tervuren Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem en Zemst.<br>
 <br>
 In titel 2, hoofdstuk 12 en hoofdstuk 13, en in titel 3, wordt verstaan onder Kansspelwet van 7 mei 1999: de wet van 7 mei 1999 op de kansspelen, de weddenschappen, de kansspelinrichtingen en de bescherming van de spelers.<br>
+<br>
+In titel 2, hoofdstuk 12, wordt verstaan onder mediaspelen: spelen en weddenschappen die worden geëxploiteerd via elke radio- of televisiezender, en elk dagblad of tijdschrift waarvan de zetel van activiteit van de exploitant of uitgever gevestigd is in het Vlaamse Gewest.<br>
 <br>
 In titel 2, hoofdstuk 13, en in titel 3, wordt, overeenkomstig artikel 76 van het federale Wetboek van 23 november 1965 van de met Inkomstenbelastingen Gelijkgestelde Belastingen, verstaan onder automatisch ontspanningstoestel: een toestel dat dient tot ontspanning en een mechanisch, elektrisch of elektronisch onderdeel bevat om het op gang te brengen, te laten werken of te bedienen, en dat gestart wordt door de inbreng van een geldstuk, van een penning of van een ander middel dat daarvoor in de plaats komt.</p>
 
@@ -451,7 +453,7 @@ De Vlaamse Regering kan de nadere regels voor de aanvraag van de vrijstellingen 
 ### ART 2.1.6.0.3.
 
 Aan de belastingschuldige wordt een automatische vrijstelling van onroerende voorheffing verleend voor het kadastraal inkomen van :<br>
-1° de onroerende goederen of delen ervan, gelegen in het Vlaamse Gewest, die gebruikt worden door landelijk georganiseerde jeugdverenigingen die gesubsidieerd worden overeenkomstig het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid en hun lokale afdelingen of door lokale jeugdwerkinitiatieven waarvan het gemeentebestuur bevestigt dat ze beantwoorden aan de definitie zoals bepaald in artikel 9, § 3, tweede lid, van hetzelfde decreet;<br>
+1° de onroerende goederen of delen ervan, gelegen in het Vlaamse Gewest, die gebruikt worden door jeugdverenigingen die erkend worden overeenkomstig het Jeugddecreet van 23 november 2023 en hun lokale afdelingen of door lokale jeugdwerkinitiatieven waarvan het gemeentebestuur bevestigt dat ze beantwoorden aan de definitie zoals bepaald in artikel 31, §3, eerste lid, van het voormelde decreet;<br>
 2° de onroerende goederen of delen ervan die aan al de volgende voorwaarden voldoen:<br>
 a) ze liggen in het Vlaamse Gewest;<br>
 b) ze worden gebruikt als toeristisch verblijf;<br>
@@ -1403,13 +1405,7 @@ Deze bepaling geldt voor voertuigen van:<br>
 
 <p>§ 1.In afwijking van artikel 2.2.4.0.1, §1, §2, §2/1, §2/2, §3, §3/1, §3/2, §3/3, §5, §6, §7 en §8, bedraagt de belasting:<br>
 1° 90,90 euro voor de voertuigen die bij het ontstaan van de belastingplicht sinds meer dan dertig jaar in het verkeer zijn gebracht;<br>
-1/1° 90,90 euro voor de voertuigen die voldoen aan een van de volgende voorwaarden:<br>
-a) in aanslagjaar 2017 sedert meer dan vijfentwintig jaar in het verkeer zijn gebracht;<br>
-b) in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
-c) in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
-d) in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
-e) in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht;<br>
-f) in aanslagjaar 2022 sedert meer dan dertig jaar in het verkeer zijn gebracht;<br>
+1/1° ...;<br>
 2° 31,61 euro voor de kampeeraanhangwagens en de aanhangwagens die speciaal zijn ontworpen voor het vervoer van één boot.</p>
 
 <p>Artikel 2.2.6.0.3, eerste lid, artikel 2.2.6.0.4, artikel 3.3.2.0.1 en artikel 3.4.7.0.3 zijn niet van toepassing op de belasting, vermeld in het eerste lid.</p>
@@ -1420,7 +1416,7 @@ Deze paragraaf is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4
 
 ### ART. 2.2.4.0.3.
 
-<p>De belasting, vastgesteld volgens artikel 2.2.4.0.1, § 2, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste lid, § 3/2, eerste lid, en § 4, de minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, &nbsp;artikel 2.2.4.0.1, § 3/1, tweede lid, artikel 2.2.4.0.1, § 3/2, derde lid,&nbsp;en artikel 2.2.4.0.1, § 5, de belastingen, vermeld in artikel 2.2.4.0.1, § 7 en artikel 2.2.4.0.1, §9, alsook de belasting, vermeld in artikel 2.2.4.0.2, § 1, en de minimumbelasting, vermeld in artikel 2.2.4.0.2, § 2, alsook het bedrag, vermeld in artikel 2.2.5.0.4, zijn gekoppeld aan de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk. De belastingbedragen worden aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige jaar en de maand mei van het lopende jaar. De belastingbedragen, vermeld in artikel 2.2.4.0.1, met uitzondering van paragraaf 2/1, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1 en § 3/2, en artikel 2.2.4.0.2, §1, eerste lid, 2°, en §2, zijn de bedragen die van toepassing waren op 1 juli 2013. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en artikel 2.2.5.0.4, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2015. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 3, voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste en tweede lid, en § 3/2, eerste en derde lid, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2017.&nbsp;Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.2, §1, eerste lid, 1° en 1/1°, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2023.&nbsp;Voor de toepassing van de indexatie is het bedrag, vermeld in artikel 2.2.4.0.1, §9, het bedrag dat geldt alsof het van toepassing was op 1 juli 2025.</p>
+<p>De belasting, vastgesteld volgens artikel 2.2.4.0.1, § 2, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste lid, § 3/2, eerste lid, en § 4, de minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, &nbsp;artikel 2.2.4.0.1, § 3/1, tweede lid, artikel 2.2.4.0.1, § 3/2, derde lid,&nbsp;en artikel 2.2.4.0.1, § 5, de belastingen, vermeld in artikel 2.2.4.0.1, § 7 en artikel 2.2.4.0.1, §9, alsook de belasting, vermeld in artikel 2.2.4.0.2, § 1, en de minimumbelasting, vermeld in artikel 2.2.4.0.2, § 2, alsook het bedrag, vermeld in artikel 2.2.5.0.4, zijn gekoppeld aan de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk. De belastingbedragen worden aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige jaar en de maand mei van het lopende jaar. De belastingbedragen, vermeld in artikel 2.2.4.0.1, met uitzondering van paragraaf 2/1, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1 en § 3/2, en artikel 2.2.4.0.2, §1, eerste lid, 2°, en §2, zijn de bedragen die van toepassing waren op 1 juli 2013. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en artikel 2.2.5.0.4, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2015. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 3, voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste en tweede lid, en § 3/2, eerste en derde lid, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2017.&nbsp;Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.2, §1, eerste lid, 1°, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2023.&nbsp;Voor de toepassing van de indexatie is het bedrag, vermeld in artikel 2.2.4.0.1, §9, het bedrag dat geldt alsof het van toepassing was op 1 juli 2025.</p>
 
 <p>De aangepaste belastingbedragen, vermeld in het eerste lid, kunnen met maximaal 0,11 euro worden verlaagd om een veelvoud van twaalf te vormen.</p>
 
@@ -1487,7 +1483,7 @@ Als de euronorm van het voertuig niet bekend is, wordt die parameter voor de toe
 
 ### ART. 2.2.4.0.7.
 
-§1. Als de CO<sub>2</sub>-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 1°, artikel 2.2.4.0.1, § 3/2, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel:<br>
+§1. Als de CO<sub>2</sub>-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 1°, artikel 2.2.4.0.1, § 3/1, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -1912,15 +1908,15 @@ Overeenkomstig artikel 94 van het federale Wetboek van 23 november 1965   van de
 
 ### ART. 2.3.2.0.1.
 
-<p>§ 1. De belastingplichtige is degene die vermeld is, naargelang het geval, op het inschrijvingsbewijs of op de vlaggenbrief op het ogenblik van de eerste inverkeerstelling op de openbare weg van het wegvoertuig of op het ogenblik van een eerste gebruik van een luchtvaartuig of van een boot door de vermelde natuurlijke persoon of rechtspersoon.</p>
+<p>§ 1. De belastingplichtige is degene die vermeld is, naargelang het geval, op het inschrijvingsbewijs of op de registratiebrief op het ogenblik van de eerste inverkeerstelling op de openbare weg van het wegvoertuig of op het ogenblik van een eerste gebruik van een luchtvaartuig of van een boot door de vermelde natuurlijke persoon of rechtspersoon.</p>
 
 <p>De wegvoertuigen worden geacht in het verkeer te zijn gesteld als ze ingeschreven zijn of moeten zijn in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.</p>
 
 <p>De luchtvaartuigen worden geacht in België te zijn gebruikt als ze ingeschreven zijn of moeten zijn door het Directoraat-generaal Luchtvaart.</p>
 
-<p>De boten worden geacht in België te zijn gebruikt als daarvoor een vlaggenbrief is uitgereikt of moet zijn uitgereikt door de Federale Overheidsdienst Mobiliteit.</p>
+<p>De boten worden geacht in België te zijn gebruikt als daarvoor een registratiebrief is uitgereikt of moet zijn uitgereikt door de Federale Overheidsdienst Mobiliteit.</p>
 
-<p>§ 2. In afwijking van paragraaf 1 is de belasting niet verschuldigd voor een wegvoertuig of een luchtvaartuig dat wordt ingeschreven, of voor een boot waarvoor een vlaggenbrief wordt uitgereikt naar aanleiding van een overdracht tussen echtgenoten of wettelijke samenwonenden of een overdracht tussen uit de echt gescheiden personen ingevolge de echtscheiding of ex-wettelijk samenwonenden door de beëindiging van de wettelijke samenwoning, op voorwaarde dat de overdrager voor hetzelfde wegvoertuig, hetzelfde luchtvaartuig of dezelfde boot de belasting al heeft betaald.</p>
+<p>§ 2. In afwijking van paragraaf 1 is de belasting niet verschuldigd voor een wegvoertuig of een luchtvaartuig dat wordt ingeschreven, of voor een boot waarvoor een registratiebrief wordt uitgereikt naar aanleiding van een overdracht tussen echtgenoten of wettelijke samenwonenden of een overdracht tussen uit de echt gescheiden personen ingevolge de echtscheiding of ex-wettelijk samenwonenden door de beëindiging van de wettelijke samenwoning, op voorwaarde dat de overdrager voor hetzelfde wegvoertuig, hetzelfde luchtvaartuig of dezelfde boot de belasting al heeft betaald.</p>
 
 ## Afdeling 3 Belastbare grondslag
 
@@ -2252,13 +2248,8 @@ f = 1 voor andere wegvoertuigen;<br>
 
 ### ART. 2.3.4.1.3.
 
-De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 euro. In afwijking van artikel 2.3.4.1.2 en artikel 2.3.4.1.2/1 bedraagt de belasting 41,99 euro voor de wegvoertuigen die een eerste keer in het verkeer zijn gesteld 30 jaar geleden of eerder en voor de wegvoertuigen die voldoen aan een van de volgende voorwaarden:<br>
-1° in aanslagjaar 2017 sedert meer dan vijfentwintig jaar in het verkeer zijn gebracht;<br>
-2° in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
-3° in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
-4° in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
-5° in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht;<br>
-6° in aanslagjaar 2022 sedert meer dan dertig jaar in het verkeer zijn gebracht.
+De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 euro. In afwijking van artikel 2.3.4.1.2 en artikel 2.3.4.1.2/1 bedraagt de belasting 41,99 euro voor de wegvoertuigen die een eerste keer in het verkeer zijn gesteld 30 jaar geleden of eerder.<br>
+&nbsp;
 
 ### ART. 2.3.4.1.4.
 
@@ -2645,7 +2636,7 @@ Als het vermogen van eenzelfde motor, uitgedrukt in fiscale paardenkracht (pk) e
 
 <p>Na toepassing van het eerste lid mag de belasting voor een voertuig niet minder dan 61,50 euro bedragen.</p>
 
-<p>De belasting, berekend conform paragraaf 1, 2° en 3°, wordt verminderd tot het percentage van de belasting voor de luchtvaartuigen en boten, vermeld in de volgende tabel, naargelang de luchtvaartuigen en boten al normaal ingeschreven geweest zijn of voorzien geweest zijn van een vlaggenbrief in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
+<p>De belasting, berekend conform paragraaf 1, 2° en 3°, wordt verminderd tot het percentage van de belasting voor de luchtvaartuigen en boten, vermeld in de volgende tabel, naargelang de luchtvaartuigen en boten al normaal ingeschreven geweest zijn of voorzien geweest zijn van een registratiebrief in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
 
 <table border="1">
 	<tbody>
@@ -2741,12 +2732,11 @@ De vrijstelling, vermeld in het eerste lid, 6°, wordt verleend op voorwaarde da
 1° een geldig certificaat van individuele nationale goedkeuring van een voer- tuig dat is afgeleverd door de bevoegde entiteit van de Vlaamse adminis- tratie of een gelijkwaardig certificaat dat is afgeleverd door de bevoegde entiteit van een staat binnen de Europese Economische Ruimte. Uit dat certificaat blijkt dat het voertuig twee of meer voor rolstoelgebruikers toegankelijke plaatsen heeft en omgebouwd is met een bodemverlaging of rolstoelplateaulift;<br>
 2° een schriftelijke verklaring waarin de houder van het voertuig bevestigt dat de verbouwing specifiek heeft plaatsgevonden om rolstoelgebruikers te vervoeren.<br>
 <br>
-<br>
-§ 2. Er wordt ook een vrijstelling van de belasting verleend voor de wegvoertuigen, luchtvaartuigen en boten die binnen zes maanden na de inschrijving conform artikel 2.3.2.0.1, § 1, tweede en derde lid, of na de uitreiking van een vlaggenbrief conform artikel 2.3.2.0.1, § 1, vierde lid, worden overgebracht naar een andere staat van de Europese Economische Ruimte en daar onder een definitieve regeling worden ingeschreven of van een vlaggenbrief worden voorzien.<br>
+§ 2. Er wordt ook een vrijstelling van de belasting verleend voor de wegvoertuigen, luchtvaartuigen en boten die binnen zes maanden na de inschrijving conform artikel 2.3.2.0.1, § 1, tweede en derde lid, of na de uitreiking van een registratiebrief conform artikel 2.3.2.0.1, § 1, vierde lid, worden overgebracht naar een andere staat van de Europese Economische Ruimte en daar onder een definitieve regeling worden ingeschreven of van een registratiebrief worden voorzien.<br>
 <br>
 De vrijstelling, vermeld in het eerste lid, is afhankelijk van de voorlegging van de volgende documenten :<br>
-1° naargelang het geval, het bewijs van de afvoering van het wegvoertuig in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, van de doorhaling van het luchtvaartuig in het Belgisch luchtvaartuigregister of van het terugzenden van de vlaggenbrief aan de autoriteit die hem heeft afgeleverd;<br>
-2° het bewijs van de inschrijving van het wegvoertuig of het luchtvaartuig, of van de aflevering van een vlaggenbrief of een gelijkwaardig document, volgens een definitieve regeling, in de betrokken staat van de Europese Economische Ruimte.<br>
+1° naargelang het geval, het bewijs van de afvoering van het wegvoertuig in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid, van de doorhaling van het luchtvaartuig in het Belgisch luchtvaartuigregister of van het terugzenden van de registratiebrief aan de autoriteit die hem heeft afgeleverd;<br>
+2° het bewijs van de inschrijving van het wegvoertuig of het luchtvaartuig, of van de aflevering van een registratiebrief of een gelijkwaardig document, volgens een definitieve regeling, in de betrokken staat van de Europese Economische Ruimte.<br>
 <br>
 Als een wegvoertuig in een andere staat van de Europese Economische Ruimte door een beroepshandelaar uit de automobielsector geleverd wordt, kan het document, vermeld in het tweede lid, 2°, geldig worden vervangen door een afschrift van de factuur die de overdracht bekrachtigt, en het bewijs van betaling van die factuur.<br>
 <br>
@@ -3398,7 +3388,7 @@ Overeenkomstig artikel 3, 4°, van de bijzondere wet van 16 januari 1989   betre
 
 De erfbelasting is verschuldigd ongeacht of de verkrijging gebeurt ingevolge wettelijke devolutie, uiterste wilsbeschikking of contractuele erfstelling.<br>
 <br>
-Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 4.18 van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende voor het overlijden van de schenker aan het vruchtgebruik heeft verzaakt conform het derde lid van het voormelde artikel.
+Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 4.18 of artikel 4.23, §2, van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende voor het overlijden van de schenker aan het vruchtgebruik heeft verzaakt conform artikel 4.18, derde lid, of artikel 4.23, §2, tweede lid, van het Burgerlijk Wetboek.
 
 ### ART. 2.7.1.0.3.
 
@@ -3531,7 +3521,7 @@ Het eerste lid is niet van toepassing op :<br>
 1° schenkingen onder de levenden van percelen grond die volgens de stedenbouwkundige voorschriften bestemd zijn voor woningbouw en waarop de schenkbelasting, vermeld in artikel 2.8.4.2.1, tabel I, is geheven;<br>
 2° schenkingen onder de levenden van roerende goederen waarop de schenkbelasting, vermeld in artikel 2.8.4.1.1, § 2, is geheven;<br>
 3° schenkingen onder de levenden van ondernemingen waarop voor 1 januari 2012 het recht, vermeld in artikel 140bis van het Wetboek van Registratie-, Hypotheek-, en Griffierechten, is geheven of waarvoor vanaf 1 januari 2012 de vrijstelling, vermeld in artikel 2.8.6.0.3, is toegepast;<br>
-4° schenkingen onder de levenden van onbebouwde onroerende goederen waarop de vrijstelling, vermeld in artikel 2.8.6.0.8, is toegepast.
+4° schenkingen onder de levenden van onbebouwde onroerende goederen voor het gedeelte waarop de vrijstelling, vermeld in artikel 2.8.6.0.8, is toegepast.
 
 ### ART. 2.7.3.2.10.
 
@@ -4076,7 +4066,7 @@ De schenkbelasting, verschuldigd op akten waarbij eigendom of   vruchtgebruik va
 <br>
 Het eerste lid is niet van toepassing op:<br>
 1° de onroerende goederen die deel uitmaken van een vrijgestelde schenking van activa als vermeld in artikel 2.8.6.0.3, § 1, 1° ;<br>
-2° de onbebouwde onroerende goederen waarop de vrijstelling, vermeld in artikel 2.8.6.0.8, is toegepast;<br>
+2° het gedeelte van de onbebouwde onroerende goederen waarop de vrijstelling, vermeld in artikel 2.8.6.0.8, is toegepast;<br>
 3° de onroerende goederen waarop de vrijstelling, vermeld in artikel 2.8.6.0.1, is toegepast.<br>
 <br>
 § 2. Als in dezelfde akte of in een andere akte van dezelfde datum naast de grond die volgens de stedenbouwkundige voorschriften bestemd is voor woningbouw, nog andere onroerende goederen worden geschonken, wordt voor de toepassing van paragraaf 1 de schenking van de bouwgrond geacht vóór de schenking van de andere goederen geregistreerd te zijn of verplicht registreerbaar te zijn geworden.<br>
@@ -4569,7 +4559,7 @@ De verkrijging zal evenwel belast worden volgens haar gemeenrechtelijke aard als
 1° onroerende goederen die in de vennootschap zijn ingebracht, als ze verkregen zijn door de persoon die de inbreng gedaan heeft;<br>
 2° onroerende goederen die door de vennootschap met betaling van het verkooprecht verkregen zijn, als het vaststaat dat de vennoot die eigenaar van die onroerende goederen wordt, deel uitmaakte van de vennootschap toen laatstgenoemde de goederen verkreeg.<br>
 <br>
-In geval van verkrijging van maatschappelijke onroerende goederen door al de vennoten door een gehele of gedeeltelijke vereffening conform boek 2, titel 8, hoofdstuk 1, afdeling 2, van het Wetboek van Vennootschappen en Verenigingen, is, naargelang van het geval, de registratiebelasting die met toepassing van het eerste of het tweede lid is gevestigd, van toepassing op de latere toebedeling van de goederen aan een of meer vennoten.<br>
+In geval van verkrijging van maatschappelijke onroerende goederen door al de vennoten door een vereffening conform boek 2, titel 8, hoofdstuk 1, afdeling 2, van het Wetboek van Vennootschappen en Verenigingen, is, naargelang van het geval, de registratiebelasting die met toepassing van het eerste of het tweede lid is gevestigd, van toepassing op de latere toebedeling van de goederen aan een of meer vennoten.<br>
 <br>
 Als al de vennoten maatschappelijke onroerende goederen verkrijgen naar verhouding van hun participatie in de vennootschap zonder enige tegenprestatie, waarbij die verkrijging boekhoudkundig wordt aangerekend op de beschikbare of onbeschikbare inbreng, is, naargelang van het geval, de registratiebelasting die met toepassing van het eerste of het tweede lid is gevestigd, van toepassing op de latere toebedeling van de goederen aan een of meer vennoten.
 
@@ -4958,7 +4948,8 @@ Er wordt een vrijstelling van het verkooprecht verleend voor de ruilovereenkomst
 
 In afwijking van artikel 2.9.1.0.3 wordt een vrijstelling van het verkooprecht verleend voor :<br>
 1° de omvorming van een vennootschap met rechtspersoonlijkheid in een vennootschap van een verschillende soort en de omzetting van een vereniging zonder winstoogmerk in een coöperatieve vennootschap erkend als sociale onderneming. Dit punt is ook van toepassing als de omvorming plaatsvindt via een vereffening, gevolgd door de oprichting van een nieuwe vennootschap, als in die oprichting voorzien wordt in de akte van invereffeningstelling en als ze binnen vijftien dagen na de akte plaatsvindt;<br>
-2° de overbrenging van de zetel van de werkelijke leiding of van de zetel van een vennootschap, als die overbrenging gebeurt uit het grondgebied van een staat van de Europese Economische Ruimte of als het een overbrenging naar België betreft van de zetel van de werkelijke leiding van een vennootschap waarvan de zetel zich al op het grondgebied van de vermelde gemeenschap bevindt. Dit punt is alleen van toepassing als het vaststaat dat de vennootschap behoort tot de soort van vennootschappen die onderworpen zijn aan een belasting op het bijeenbrengen van kapitaal in het land dat in aanmerking komt voor het voordeel van de vrijstelling.<br>
+2° de overbrenging van de zetel van de werkelijke leiding of van de zetel van een vennootschap, als die overbrenging gebeurt uit het grondgebied van een staat van de Europese Economische Ruimte of als het een overbrenging naar België betreft van de zetel van de werkelijke leiding van een vennootschap waarvan de zetel zich al op het grondgebied van de vermelde gemeenschap bevindt. Dit punt is alleen van toepassing als het vaststaat dat de vennootschap behoort tot de soort van vennootschappen die onderworpen zijn aan een belasting op het bijeenbrengen van kapitaal in het land dat in aanmerking komt voor het voordeel van de vrijstelling;<br>
+3° de omvorming van een vennootschap met rechtspersoonlijkheid in een vereniging met rechtspersoonlijkheid. Die afwijking is ook van toepassing als de omvorming plaatsvindt via een vereffening, gevolgd door oprichting van een vereniging met rechtspersoonlijkheid, als in die oprichting voorzien wordt in de akte van invereffeningstelling en als ze binnen vijftien dagen na de akte plaatsvindt.<br>
 <br>
 In alle gevallen, vermeld in het eerste lid, is het verkooprecht verschuldigd op de inbrengen van nieuwe goederen conform artikel 2.9.1.0.1 of 2.9.1.0.3.
 
@@ -5209,7 +5200,7 @@ De opbrengst, vermeld in het derde lid, wordt dagelijks vastgesteld. Het eventue
 Voor de toepassing van het eerste lid worden de sommen of inleggelden geacht ingezet te zijn in het Vlaamse Gewest als de spelen of weddenschappen worden ontvangen via een server die in het Vlaamse Gewest gevestigd is of uitgebaat wordt.<br>
 <br>
 § 2. In afwijking van paragraaf 1, eerste lid, wordt de belasting geheven op:<br>
-1° het bedrag van de sommen of inleggelden die ingezet worden bij spelen of weddenschappen in geval van mediaspelen als vermeld in artikel 2, 9°, van de Kansspelwet van 7 mei 1999, met uitzondering van mediaspelen via informatiemaatschappij-instrumenten als vermeld in artikel 2, 10°, van voormelde wet;<br>
+1° het bedrag van de sommen of inleggelden die ingezet worden bij spelen of weddenschappen in geval van mediaspelen als vermeld in artikel 1.1.0.0.2, veertiende lid, van deze codex, met uitzondering van mediaspelen via informatiemaatschappij-instrumenten als vermeld in artikel 2, eerste lid, 10°, van de Kansspelwet van 7 mei 1999;<br>
 2° het vermoedelijke bedrag van de sommen of inleggelden die ingezet worden bij spelen of weddenschappen in het geval van een ambtshalve aanslag als vermeld in artikel 2.12.7.0.1.
 
 ## [Afdeling 4 Tarieven (ing. Decr. 7 december 2018, art. 10, I: 1 januari 2019)]
@@ -5711,7 +5702,7 @@ m) de vrijstelling, vermeld in artikel 2.7.6.0.6, § 1;<br>
 n) het verzoek tot inbetalinggeving, vermeld in artikel 3.4.3.0.2 van deze codex, als het cultuurgoed in zijn geheel deel uitmaakt van de nalatenschap of op de dag van het overlijden in zijn geheel toebehoort aan de overledene en zijn overlevende echtgenoot of zijn wettelijk samenwonende partner of op de dag van het overlijden in zijn geheel toebehoort aan de overledene en een van zijn erfgenamen, legatarissen en begiftigden;<br>
 o) het verlaagde tarief, vermeld in artikel 2.7.4.2.5, §1, eerste lid;<br>
 15° in voorkomend geval de erfovereenkomst&nbsp;die is opgesteld conform artikel 4.254 tot en met 4.259 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
-16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 4.18 van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
+16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 4.18&nbsp;of artikel 4.23, §2, van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
 17° in voorkomend geval welke schenkingen, levensverzekeringen en legaten aan inbreng of inkorting zijn onderworpen en in bevestigend geval op welke wijze de inbreng of inkorting gebeurt.<br>
 <br>
 Als het successierecht verschuldigd is, bevat de aangifte bovendien de uitdrukkelijke vermelding van het adres en de datum en duur van de vestiging van de verschillende fiscale woonplaatsen die de erflater of de afwezige gehad heeft in de periode van vijf jaar voorafgaand aan zijn overlijden of aan het tijdstip waarop het laatste bericht van de afwezige werd ontvangen.<br>
@@ -6186,7 +6177,9 @@ Aan de indieners van de bezwaarschriften en de aanvragen tot ambtshalve   onthef
 
 ### ART. 3.5.2.0.1.
 
-<P>De bezwaarschriften moeten worden gemotiveerd en op straffe van verval worden   ingediend binnen een termijn van drie maanden na de derde werkdag die volgt op   de verzendingsdatum, vermeld op het aanslagbiljet.<BR><BR>In het geval, vermeld   in artikel 3.3.5.0.1, tweede lid, waarbij het aanslagbiljet door middel van een   procedure waarbij informaticatechnieken worden gebruikt, aan de   belastingschuldige is bezorgd, vangt de termijn aan vanaf de verzendingsdatum,   vermeld op het aanslagbiljet.<BR><BR>Als het bezwaarschrift wordt ingediend met   een aangetekende brief, geldt de datum van de poststempel op het   verzendingsbewijs als datum van de indiening.<BR></P>
+<p>De bezwaarschriften moeten worden gemotiveerd en op straffe van verval worden ingediend binnen een termijn van drie maanden na de derde werkdag die volgt op de verzendingsdatum, vermeld op het aanslagbiljet.<br>
+<br>
+Als het bezwaarschrift wordt ingediend met een aangetekende brief, geldt de datum van de poststempel op het verzendingsbewijs als datum van de indiening.</p>
 
 ### ART. 3.5.2.0.2.
 
@@ -6274,7 +6267,7 @@ De beslissing wordt schriftelijk meegedeeld en ze vermeldt de wijze waarop   ert
 
 <p>Een nieuw rechtsmiddel of een wijziging van jurisprudentie wordt niet beschouwd als nieuw gegeven.</p>
 
-<p>Het bevoegde personeelslid verleent ook ambtshalve ontheffing van de verminderingen en vrijstellingen met toepassing van artikel 2.1.6.0.2, eerste lid, 1° en 2°, en artikel 2.1.5.0.1, § 1, 1° tot en met 3°, en § 2, eerste lid, 1° tot en met 3°, en artikel 2.1.5.0.2, § 1, 1°, 2° en 4°, als het feit dat aanleiding geeft tot die verminderingen of vrijstellingen, door de administratie is vastgesteld of door de belastingschuldige aan de administratie is bekendgemaakt binnen vijf jaar vanaf 1 januari van het aanslagjaar waartoe de belasting behoort waarop die verminderingen moeten worden verleend.</p>
+<p>Het bevoegde personeelslid verleent ook ambtshalve ontheffing van de verminderingen en vrijstellingen met toepassing van artikel 2.1.6.0.2, eerste lid, en artikel 2.1.5.0.1, §1, §1/1, en §2, eerste lid, en artikel 2.1.5.0.2, § 1, 1°, 2° en 4°, en artikel 2.1.6.0.3, als het feit dat aanleiding geeft tot die verminderingen of vrijstellingen, door de administratie is vastgesteld of door de belastingschuldige aan de administratie is bekendgemaakt binnen vijf jaar vanaf 1 januari van het aanslagjaar waartoe de belasting behoort waarop die verminderingen moeten worden verleend.</p>
 
 ### ART. 3.6.0.0.2.
 
@@ -6884,7 +6877,7 @@ Als openbare of private kredietinstellingen of -inrichtingen kredieten,   lening
 1° de voorwaarden van het abattement, vermeld in artikel 2.8.3.0.4, vervuld zijn;<br>
 2° de voorwaarden van het verlaagde tarief dat ze willen verkrijgen, vervuld zijn;<br>
 3° de voorwaarden van hetzij de vermindering, hetzij de vrijstelling die ze willen verkrijgen, vervuld zijn of vervuld zullen worden;<br>
-4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.8, artikel 2.8.6.0.9, artikel 2.9.4.2.10, artikel 2.9.4.2.11, § 1, eerste lid, artikel 2.9.4.2.11, § 1, tweede lid, artikel 2.9.4.2.12, § 1, eerste lid, artikel 2.9.4.2.12, § 1, vijfde lid, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.4.2.15, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2,&nbsp;artikel 2.9.6.0.7, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
+4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.8, artikel 2.8.6.0.9,&nbsp;artikel 2.9.4.2.4, artikel 2.9.4.2.10, artikel 2.9.4.2.11, § 1, eerste lid, artikel 2.9.4.2.11, § 1, tweede lid, artikel 2.9.4.2.12, § 1, eerste lid, artikel 2.9.4.2.12, § 1, vijfde lid, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.4.2.15, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2,&nbsp;artikel 2.9.6.0.7, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
 5° het geschonken onroerend goed een beschermd monument is en dat het voornemen bestaat toepassing te vragen van artikel 2.8.4.4.1.<br>
 <br>
 § 2. Als partijen de toepassing vragen van het abattement, vermeld in artikel 2.10.3.0.2, maken ze ook melding van het aantal kinderen die recht geven op een verhoging van het bedrag, vermeld in dat artikel, met vermelding van hun naam, geboortedatum en afstammingsband.<br>
@@ -6973,8 +6966,8 @@ Als partijen de toepassing vragen van de vrijstelling, vermeld in artikel 2.8.6.
 <br>
 De vrijstelling, vermeld in artikel 2.9.6.0.1, eerste lid, 4°, en artikel 2.10.6.0.1, eerste lid, 2°, is alleen van toepassing als in de akte of in een vóór de registratie bij de akte te voegen geschrift de volgende gegevens worden vermeld :<br>
 1° de datum van de eerste ingebruikneming of inbezitneming van het gebouw waarop de overeenkomst betrekking heeft;<br>
-2° het kantoor waar de belastingplichtige van de belasting over de toegevoegde waarde de aangifte moet indienen voor de heffing van de belasting over de toegevoegde waarde;<br>
-3° als de overeenkomst het werk is van een andere belastingplichtige dan de belastingplichtige, vermeld in artikel 12, § 2, van het Wetboek van de Belasting over de Toegevoegde Waarde, de datum waarop hij heeft kennisgegeven van zijn bedoeling de verrichting te doen met betaling van de belasting over de toegevoegde waarde;<br>
+2° in voorkomend geval, een verklaring van de verkopers dat die hun medecontractanten op de hoogte hebben gebracht van hun bedoeling om de handeling te verrichten met toepassing van de belasting over de toegevoegde waarde overeenkomstig artikel 1 van het koninklijk besluit nr. 14 van 3 juni 1970 met betrekking tot de vervreemdingen van gebouwen, gedeelten van gebouwen en het bijhorende terrein en de vestigingen, overdrachten en wederoverdrachten van een zakelijk recht in de zin van artikel 9, tweede lid, 2°, van het Wetboek van de belasting over de toegevoegde waarde op zulke goederen;<br>
+3° ...;<br>
 4° als de vervreemding of de vestiging, overdracht of wederoverdracht van zakelijke rechten ook goederen betreft waarop de vrijstelling van het verkooprecht of verdeelrecht niet van toepassing is, de nauwkeurige aanduiding van die goederen op basis van hun kadastrale beschrijving.<br>
 <br>
 Voor de toepassing van de vrijstelling, vermeld in artikel 2.9.6.0.4, is vereist dat :<br>
@@ -7119,7 +7112,13 @@ De verificaties en vragen om inlichtingen, vermeld in artikel 3.13.1.2.1, eerste
 
 ### ART. 3.13.1.2.7.
 
-<P>De personeelsleden die belast zijn met de invordering, beschikken over alle   onderzoeksbevoegdheden, vermeld in deze codex, om de vermogenssituatie van de   schuldenaar te bepalen met het oog op de invordering van de belastingen en   toebehoren.<BR></P>  <P>De bevoegdheden van de personeelsleden, belast met de invordering, vermeld in   het eerste lid, worden ook uitgeoefend zonder de beperkingen ten aanzien van de   instellingen, vermeld in artikel 3.13.1.2.5, 3.13.1.3.1, § 2 tot en met § 5, en   artikel 3.13.1.4.1.<BR></P>
+<p>De personeelsleden die belast zijn met de invordering, beschikken over alle onderzoeksbevoegdheden, vermeld in deze codex, om de vermogenssituatie van de schuldenaar te bepalen met het oog op de invordering van de belastingen en toebehoren.</p>
+
+<p>De bevoegdheden van de personeelsleden, belast met de invordering, vermeld in het eerste lid, worden ook uitgeoefend zonder de beperkingen ten aanzien van de instellingen, vermeld in artikel 3.13.1.2.5, 3.13.1.3.1, § 2 tot en met § 5, en artikel 3.13.1.4.1.<br>
+<br>
+In afwijking van artikel 3.13.1.3.1, §6, derde tot en met zesde lid, van deze codex kunnen de personeelsleden die belast zijn met de invordering, vermeld in het eerste lid, om de vermogenssituatie van de schuldenaar te bepalen met het oog op de invordering van de erfbelasting en de registratiebelasting en toebehoren ook de volgende handelingen stellen:<br>
+1° &nbsp;inlichtingen opvragen bij een bank-, wissel-, krediet-, en spaarinstelling;<br>
+2° de beschikbare gegevens over de belastingschuldige of de erflater, in geval van erfbelasting, opvragen bij het centrale aanspreekpunt, vermeld in de wet van 8 juli 2018 houdende organisatie van een centraal aanspreekpunt van rekeningen en financiële contracten en tot uitbreiding van de toegang tot het centraal bestand van berichten van beslag, delegatie, overdracht, collectieve schuldenregeling en protest.</p>
 
 ### ART. 3.13.1.2.8.
 
@@ -7137,7 +7136,7 @@ De belastingplichtige houdt het bedrag van de inzetten, de inleggelden, de uitge
 
 <p>§ 2. Als de bevoegde entiteit van de Vlaamse administratie bij het onderzoek over een of meer aanwijzingen van belastingontduiking beschikt, wordt een bank-, wissel-, krediet- of spaarinstelling als een derde beschouwd waarop de bepalingen van paragraaf 1 van toepassing zijn.</p>
 
-<p>In voorkomend geval kan een personeelslid met minstens de graad van afdelingshoofd, een personeelslid met minstens de graad van directeur ermee belasten om bij een bank-, wissel-, krediet- en spaarinstelling elke inlichting op te vragen die nuttig kan zijn om het bedrag van de belastbare inkomsten van de belastingplichtige te bepalen.</p>
+<p>In voorkomend geval kan een personeelslid met minstens de graad van afdelingshoofd, een personeelslid met minstens de graad van directeur ermee belasten om bij een bank-, wissel-, krediet- en spaarinstelling elke inlichting op te vragen die nuttig kan zijn om het bedrag van de belastbare grondslag van de belastingplichtige te bepalen.</p>
 
 <p>Het personeelslid met minstens de graad van afdelingshoofd mag de machtiging pas verlenen :<br>
 1° nadat het personeelslid dat het onderzoek voert, de inlichtingen en gegevens over de rekeningen tijdens het onderzoek met een verzoek om inlichtingen als vermeld in artikel 3.13.1.2.3, heeft gevraagd en bij die vraag duidelijk heeft aangegeven dat hij de toepassing van paragraaf 2 van dit artikel kan vragen als de belastingplichtige de gevraagde gegevens verborgen houdt of weigert te verschaffen. De opdracht, vermeld in het tweede lid, kan pas aanvangen als de termijn, vermeld in artikel 3.13.1.2.3, is verlopen;<br>
@@ -7315,7 +7314,9 @@ De belastingen, vermeld in deze codex, verjaren na verloop van vijf jaar   vanaf
 
 De termijn, vermeld in artikel 3.14.1.0.1, kan worden gestuit op de wijze, vermeld in artikel 2244 tot en met artikel 2250 van het Burgerlijk Wetboek, door de verzending met een aangetekende brief van elke aanmaning tot betaling waarin de gegevens van de schuldvordering volledig en ondubbelzinnig zijn opgenomen, of door afstand te doen van de termijn die verlopen is op de verjaring. In geval van stuiting van de verjaring treedt een nieuwe verjaring in, die op dezelfde wijze kan worden gestuit na verloop van vijf jaar na de laatste akte of handeling waardoor de vorige verjaring is gestuit, als geen geding voor het gerecht aanhangig is.<br>
 <br>
-Voor een aanmaning tot betaling die met een aangetekende brief wordt verzonden, geldt de datum van de poststempel op het verzendingsbewijs als indieningsdatum van die aanmaning. Als de schuldenaar of de medeschuldenaar geen bekende woonplaats in België of in het buitenland heeft, wordt de aanmaning tot betaling met een aangetekende brief aan de procureur des Konings van Brussel verzonden.
+Voor een aanmaning tot betaling die met een aangetekende brief wordt verzonden, geldt de datum van de poststempel op het verzendingsbewijs als indieningsdatum van die aanmaning. Als de schuldenaar of de medeschuldenaar geen bekende woonplaats in België of in het buitenland heeft, wordt de aanmaning tot betaling met een aangetekende brief aan de procureur des Konings van Brussel verzonden.<br>
+<br>
+De kosten voor de verzending met een aangetekende brief van de aanmaning tot betaling, vermeld in het eerste en tweede lid, zijn ten laste van de belastingschuldige.
 
 ## Afdeling 3 Schorsing
 
