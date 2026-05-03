@@ -2,16 +2,16 @@
   "codex_id": 1042028,
   "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot wijziging van diverse besluiten van de sectorale regelgeving inzake rechtstreekse betalingen, inzake gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, en inzake agromilieuklimaatmaatregelen en ecoregelingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042028/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "c168f15cc99daa34c0601aa0bf20b2af9607f0fae0c9e5ea6e530f1cdb099d13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042028/VolledigDocument?datum=2026-05-03",
+  "source_sha256": "209e43c32428571339fb74d634e3ece49918ccd102544e92f7866945c34f5779",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042028&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-05-03",
   "made": "2026-04-24",
   "gazette": "2026-05-28",
   "numac": 2026003756,
   "document_start": "2026-01-01",
   "document_end": null,
-  "in_force": "2026-01-01",
-  "article_versions": 46,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-05-03",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2026-05-03; future article versions excluded; article text as the API gives it"
 }

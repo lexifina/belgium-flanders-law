@@ -171,6 +171,10 @@ Een landbouwer komt in aanmerking voor de subsidie, vermeld in het eerste lid, a
 <br>
 De minister kan de teelttechnische voorwaarden en de voorwaarden voor het beheer van de bufferstrook, vermeld in het tweede lid, nader bepalen.”.
 
+### ART 18.
+
+Artikel 94, eerste lid, 1°, van hetzelfde besluit wordt opgeheven.
+
 ### ART 19.
 
 Aan artikel 102, 1°, van hetzelfde besluit wordt de zinsnede “conform artikel 69 van verordening (EU) 2021/2116 via een geautomatiseerd claimsysteem, op basis van sanitel voor de maatregelen, vermeld in artikel 3, eerste lid, 8°, van dit besluit, of op basis van de gegevensbestanden van de stamboeken voor de maatregelen, vermeld in artikel 3, eerste lid, 10°, van dit besluit” toegevoegd.&nbsp;
