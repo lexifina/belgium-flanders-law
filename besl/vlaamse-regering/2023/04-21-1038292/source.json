@@ -2,16 +2,16 @@
   "codex_id": 1038292,
   "title": "Besluit van de Vlaamse Regering van 2023-04-21 tot vaststelling van de voorschriften voor subsidies voor de uitvoering van maatregelen met een gunstig effect op het milieu, het klimaat en de biodiversiteit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038292/VolledigDocument?datum=2026-04-08",
-  "source_sha256": "50a7d203399ad55792a4081a951b6f4fba919b36d50d78ae99de512fabbddab3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038292/VolledigDocument?datum=2026-05-03",
+  "source_sha256": "6d1186e513a2e6c0d674d05e99ef961ee41a8fb0adaefe2e204847a86118718b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038292&param=informatie",
-  "as_of": "2026-04-08",
+  "as_of": "2026-05-03",
   "made": "2023-04-21",
   "gazette": "2023-05-12",
   "numac": 2023042001,
   "document_start": "2023-01-01",
   "document_end": null,
-  "in_force": "2026-04-08",
+  "in_force": "2026-05-03",
   "article_versions": 135,
-  "record_form": "consolidated version as in force on 2026-04-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-05-03; future article versions excluded; article text as the API gives it"
 }

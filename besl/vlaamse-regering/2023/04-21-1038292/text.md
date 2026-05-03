@@ -1383,7 +1383,7 @@ Als de landbouwer op ieder perceel in kwestie de beide middelen, vermeld paragra
 ### ART 94.
 
 Een landbouwer komt in aanmerking voor de subsidie, vermeld in artikel 93, als gedurende de volledige verbintenistermijn voldaan is aan al de volgende voorwaarden:<br>
-1° als op de percelen waarop de verbintenis betrekking heeft, korrelmeststoffen worden toegediend via automatische (RTK-)gps-aansturing, is het kant afstrooien verplicht bij het strooien van die korrelmeststoffen op grasland en op percelen met akkerbouwteelten, voor er kan worden geplant of gezaaid, tenzij gebruikgemaakt wordt van een pneumatische strooier;<br>
+1° ...;<br>
 2° de landbouwer houdt voor ieder perceel waarop de verbintenis betrekking heeft, een perceelfiche of teeltfiche bij waarin elke uitgevoerde handeling in het kader van de maatregel op het perceel of de percelen wordt opgenomen, met vermelding van de identificatie van het perceel, de hoofdteelt, de datum van elke handeling, de aard van de handeling, het gps-type (RTK of niet), het merk van de gps en de uitvoerder van de handeling;<br>
 3° de landbouwer kan bij een controle aantonen dat de nodige machines onmiddellijk ter beschikking zijn met functionerende besturing;<br>
 4° de landbouwer heeft minstens een betalingsrecht geactiveerd overeenkomstig artikel 20 van het besluit van 21 april 2023;&nbsp;<br>
