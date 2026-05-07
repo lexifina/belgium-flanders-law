@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041920,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-03 waarbij de tornado’s die zich voordeden op 3 september 2025 en 13 september 2025 als een ramp worden erkend en waarbij de geografische uitgestrektheid van die ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041920/VolledigDocument?datum=2026-05-07",
+  "source_sha256": "7ddcccd6a1c825ed76f443e65524f5b07e2e1c22ad307a14c105cb9081972bab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041920&param=informatie",
+  "as_of": "2026-05-07",
+  "made": "2026-04-03",
+  "gazette": "2026-04-27",
+  "numac": 2026002807,
+  "document_start": "2026-05-07",
+  "document_end": null,
+  "in_force": "2026-05-07",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2026-05-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
