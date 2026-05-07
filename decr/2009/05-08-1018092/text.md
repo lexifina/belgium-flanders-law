@@ -13,8 +13,8 @@ Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest betreft, i
 2° richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen, zoals gewijzigd door richtlijn (EU) 2018/844 van het Europees Parlement en de Raad van 30 mei 2018;<br>
 3° de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van richtlijn 2012/27/EU;<br>
 4° de Richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG;<br>
-5° artikel 12 en bijlage VII van de richtlijn (EU) 2023/1791 van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van Verordening (EU) 2023/955 (herschikking);<br>
-6° de richtlijn 2012/27/EU van de Europese Unie van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van Richtlijnen 2009/125/EG en 2010/30/EU en houdende intrekking van de Richtlijnen 2004/8/EG en 2006/32/EG;<br>
+5° de richtlijn (EU) 2023/1791 van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van Verordening (EU) 2023/955;<br>
+6° ...;<br>
 7° ...
 
 ### ART. 1.1.3.
@@ -55,8 +55,11 @@ c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg te
 a) 97 euro per groenestroomcertificaat voor de berekening van de bandingfactor voor de toekenning van groenestroomcertificaten;<br>
 b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor voor de toekenning van warmte-krachtcertificaten;<br>
 13° /2 bandingfactor : onrendabele top gedeeld door de bandingdeler;<br>
+13°/2/1 bedrijfsdatacentrum: een datacentrum dat door een onderneming wordt geëxploiteerd en dat uitsluitend tot doel heeft de benodigde informatietechnologieapparatuur van de onderneming te leveren en te beheren;<br>
 13° /3 beheerder van een gesloten distributienet: iedere natuurlijke persoon of rechtspersoon die exploitant is van een gesloten distributienet;<br>
 13°/4 beheerder van het vervoersnet: de instantie die overeenkomstig de federale Gaswet als beheerder van het vervoersnet is aangewezen;<br>
+13°/5 belangrijke investeringsbeslissing: een beslissing met concrete financiële gevolgen voor specifieke, individuele projecten met een aanzienlijke impact op het energieverbruik;<br>
+13°/6 beleidsbeslissing: de ontwikkeling, de evaluatie en uitvoering van beleid of regelgeving door nationale, regionale of lokale overheden met een aanzienlijke impact op het energieverbruik;<br>
 14° beschermd volume : het beschermde volume van het gebouw zoals dat gedefinieerd is in de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
 15° ...<br>
 16° bevrachter : rechtspersoon die een contract heeft afgesloten met een vervoeronderneming met betrekking tot het vervoer van aardgas tussen een of meer injectiepunten en afnamepunten op het vervoernet;<br>
@@ -74,8 +77,9 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 23° budgetmeter : een budgetmeter voor elektriciteit of een budgetmeter voor aardgas;<br>
 24° budgetmeter voor aardgas: aardgasmeter met hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25° budgetmeter voor elektriciteit: elektriciteitsmeter met begrenzer en hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
-25° /0 datacentrum: een datacentrum als vermeld in bijlage A, punt 2.6.3.1.16, van verordening (EG) nr. 1099/2008, gewijzigd bij verordening (EU) 2022/132 van de Commissie van 28 januari 2022;<br>
 25°/0/0&nbsp; congestiegebied: een gebied waar de elektriciteitsnetcapaciteit voor nieuwe aansluitingen of het verhogen van de capaciteit van bestaande aansluitingen op het elektriciteitsdistributienet of plaatselijk vervoernet van elektriciteit beperkt of niet beschikbaar is;<br>
+25°/0/2 colocatiedatacentrum: een datacentrum waarin een of meer klanten hun eigen netwerk of netwerken, servers en opslagapparatuur en -diensten installeren en beheren;<br>
+25° /0/3 datacentrum: een datacentrum als vermeld in bijlage A, punt 2.6.3.1.16, van verordening (EG) nr. 1099/2008, gewijzigd bij verordening (EU) 2022/132 van de Commissie van 28 januari 2022;<br>
 25°/1 datum van indienstneming : datum waarop een productie-installatie voor het eerst in dienst werd genomen of datum waarop een warmte-krachtinstallatie ingrijpend gewijzigd werd. Voor groenestroominstallaties is dit de datum waarop de productie-installatie voor het eerst elektriciteit uit een hernieuwbare energiebron produceerde. Voor warmte-krachtinstallaties is dat de datum waarop de eerste gelijktijdige productie van elektriciteit of mechanische energie, en nuttige warmte plaatsvond, of de datum waarop de laatste ingrijpende wijziging voor het eerst gelijktijdig elektriciteit of mechanische energie, en nuttige warmte produceerde;<br>
 25° /1/1 deelnemer aan flexibiliteit: een natuurlijke persoon of rechtspersoon die flexibiliteit aanbiedt aan de dienstverlener van flexibiliteit of in het kader van gereserveerde of niet-gereserveerde technische flexibiliteit aan de aanvrager van flexibiliteit;<br>
 25° /1/1/1 Departement Financiën en Begroting: het departement, vermeld in artikel 19 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
@@ -105,13 +109,15 @@ c) het transmissienet of daaraan gekoppelde gesloten distributienetten of geslot
 33/4° elektriciteitsopslagfaciliteit: een installatie aangesloten aan het elektriciteitsdistributienet of het plaatselijk vervoernet van elektriciteit waar elektriciteitsopslag plaatsvindt;<br>
 34° elektronische meter: een meter die op een digitale manier energiestromen meet en registreert en die al dan niet uitgerust is met een communicatiemiddel dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden;<br>
 35° energetisch verbruik: het gebruik van een energiedrager voor het benutten van de energie-inhoud om energie te produceren;<br>
-36° ...<br>
+36° &nbsp;energieaudit: een systematische procedure met als doel toereikende informatie te verzamelen omtrent het energieverbruiksprofiel van een gebouw of groep gebouwen, van een industriële of commerciële activiteit of installatie of van private of publieke diensten, mogelijkheden voor kosteneffectieve energiebesparing te signaleren en kwantificeren, het potentieel van het kosteneffectieve gebruik of de kosteneffectieve productie van hernieuwbare energie te bepalen en verslag uit te brengen van de resultaten;<br>
+36°/1 energiebeheersysteem: een reeks van onderling verbonden of op elkaar inwerkende elementen van een strategie met een energie-efficiëntiedoelstelling en een strategie om die doelstelling te verwezenlijken, met inbegrip van de monitoring van het daadwerkelijke energieverbruik, de maatregelen die zijn genomen om de energie-efficiëntie te verbeteren en de metingen van de vooruitgang;<br>
 37° energiebeleidsovereenkomst : iedere overeenkomst tussen het Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en een andere partij, waarbij die andere partij zich engageert om binnen een afgesproken termijn een vooropgestelde verbetering inzake energie-efficiëntie te behalen of te stimuleren, tot de wereldtop inzake energie-efficiëntie in haar sector te behoren of een bepaald percentage van het energieverbruik te dekken met behulp van hernieuwbare energietechnologieën of daarvoor stimulansen te verstrekken;<br>
 38° energieboekhouding : het regelmatig meten, registreren, analyseren en rapporteren van het energiegebruik;<br>
 38° /1 energiedelen: het kosteloos toekennen over één onbalansverrekeningsperiode van het geheel of een deel van de zelfgeproduceerde, en in voorkomend geval opgeslagen, energie die op een elektriciteitsdis- tributienet, het plaatselijk vervoernet van elektriciteit, een gesloten distributienet van elektriciteit geïnjecteerd is, tussen afnemers in de gevallen, vermeld in artikel 7.2.1, § 1, tweede lid, of het uitwisselen van hernieuwbare thermische energie via een warmte- of koudenet tussen afnemers van thermische energie in de gevallen, vermeld in artikel 7.2.1, § 1, tweede lid;<br>
 39° energiedeskundige: de natuurlijke persoon, die onderworpen is aan het sociaal statuut van zelfstandige en die het energieprestatiecertificaat opstelt of energieadvies verstrekt, of de rechtspersoon binnen wiens organisatie het energieprestatiecertificaat opgesteld wordt of energieadvies verstrekt wordt door een zaakvoerder, bestuurder of bezoldigde werknemer;<br>
 39/1° energiedienst: het fysieke voordeel, nut of welzijn dat wordt bereikt met een combinatie van energie met energie-efficiënte technologie of actie, die de bewerkingen, het onderhoud en de controle kan omvatten die nodig zijn voor de levering van de dienst, welke wordt geleverd op basis van een overeenkomst en welke onder normale omstandigheden heeft aangetoond te leiden tot een controleerbare en meetbare of een schatbare verbetering van de energie-efficiëntie of tot controleerbare en meetbare of schatbare primaire energiebesparingen;<br>
 40° energiedrager : kolen en afgeleide producten, petroleumproducten, gas, aardgas, waterstof, hernieuwbare brandstof van niet-biologische oorsprong, koolstofarme brandstof van niet-biologische oorsprong, elektriciteit, hernieuwbare energiebronnen, warmte en nucleaire warmte;<br>
+40°/0 energie-efficiëntie-eerstbeginsel: dat in energieplanning en in besluiten over energiebeleid en -investeringen zoveel mogelijk rekening wordt gehouden met alternatieve, kostenefficiënte energie-efficiëntiemaatregelen om de vraag naar energie en de energievoorziening efficiënter te maken, met name door middel van kosteneffectieve besparingen op het eindgebruik van energie, vraagresponsinitiatieven en efficiëntere omzetting, transmissie en distributie van energie, zonder afbreuk te doen aan de verwezenlijking van de doelstellingen van die besluiten, zoals gedefinieerd in artikel 2, punt 18, van verordening (EU) 2018/1999;<br>
 40° /1 energiefraude: elke onrechtmatige actie van eenieder, zowel actief als passief, die gepaard gaat met het verkrijgen van een onrechtmatig voordeel. Daaronder wordt minstens verstaan:<br>
 a) handelingen uitvoeren op een warmte- of koudenet of op het distributienet of op het plaatselijke vervoernet van elektriciteit zonder daartoe gemachtigd te zijn;<br>
 b) de aansluiting of meetinstallatie manipuleren;<br>
@@ -124,17 +130,18 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 40° /2 energiehuis: de instantie die op het niveau van één of meer gemeenten diensten inzake energie en woningkwaliteit aanbiedt aan de klant;<br>
 41° energiekengetal : het gemiddelde van het energieverbruik in een sector in verhouding tot een parameter die bepalend is voor het energieverbruik in die sector;<br>
 41° /1 energieoverdracht: een activering van de flexibiliteit waarbij een leverancier en een dienstverlener van flexibiliteit betrokken zijn die een afzonderlijke evenwichtsverantwoordelijke hebben of een dienstverlener van flexibiliteit die niet hun leverancier is;<br>
-42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br>
+42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie en de integratie van energie uit hernieuwbare bronnen, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br>
 42/1° energieprestatie van gebouwen: de berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van het gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting;<br>
 43° energieprestatiecertificaat : een certificaat waarin het resultaat is vermeld van de berekening van de totale energie-efficiëntie van een gebouw, uitgedrukt in een of meer numerieke indicatoren;<br>
 44° energieprestatiecertificatendatabank : een geïnformatiseerd gegevensbestand waarin informatie met betrekking tot energieprestatiecertificaten wordt opgenomen;<br>
 45° energieprestatiedatabank : een geïnformatiseerd gegevensbestand waarin informatie met betrekking tot de energieprestaties van de gebouwen waarvoor EPB-eisen gelden, wordt opgenomen;<br>
-46° energiestudie : studie die aantoont dat een nieuwe of een gewijzigde installatie aan bepaalde criteria van energie-efficiëntie zal voldoen;<br>
+46° energiestudie : studie die aantoont dat een nieuwe of een gewijzigde installatie aan bepaalde criteria van energie-efficiëntie&nbsp;en criteria met betrekking tot de integratie van energie uit hernieuwbare bronnen zal voldoen;<br>
 47° EPB-aangifte : energieprestatie- en binnenklimaataangifte, dat wil zeggen het unieke document waarin de verslaggever alle uitgevoerde maatregelen tot naleving van de EPB-eisen beschrijft en ze al dan niet conform met die eisen verklaart;<br>
 47/1° EPB-eenheid: elke eenheid van aangrenzende lokalen die in hetzelfde gebouw liggen, die het voorwerp zijn van werken van dezelfde aard, die ontworpen of aangepast zijn om afzonderlijk te worden gebruikt en die ten hoogste één wooneenheid bevatten, waarbij een zorgwoning niet wordt beschouwd als een aparte wooneenheid;<br>
 48° EPB-eisen : eisen op het vlak van de energieprestaties en het binnenklimaat, dat wil zeggen het geheel van voorwaarden waaraan een gebouw, een technisch bouwsysteem of de constructieonderdelen inzake energetische prestaties, thermische isolatie, binnenklimaat, systeemeisen en ventilatie moet voldoen;<br>
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling;<br>
 49° /1 ESCO: een natuurlijk persoon of rechtspersoon die in de inrichtingen of gebouwen van een netgebruiker energiediensten of andere maatregelen ter verbetering van de energie-efficiëntie levert waarbij de terugbetaling van de investering gebeurt op basis van de terugverdientijd van de investering;<br>
+49°/2 Europese databank voor datacentra: de Europese databank die conform artikel 12, lid 3, van richtlijn (EU) 2023/1791 van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van Verordening (EU) 2023/955 door de Europese Commissie werd opgezet;<br>
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de transmissienetbeheerder met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
 50° /1 extern signaal: een dynamisch signaal, waaronder een activatiesignaal en een desactivatiesignaal, of een financiële prikkel, zoals een dynamisch prijssignaal, met als doel flexibiliteit in het elektriciteitssysteem te veroorzaken;<br>
 51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
@@ -297,7 +304,8 @@ b)&nbsp;&nbsp; &nbsp;de entiteiten die zowel rechtstreeks door de publieke organ
 99° peil van primair energieverbruik (of E-peil) : peil dat de globale energetische prestatie weergeeft en uitgedrukt wordt door de verhouding van het karakteristiek jaarlijks primair energieverbruik tot een referentiewaarde;<br>
 99° /1 persoonsgegevens: persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming;<br>
 100° plaatselijk vervoernet van elektriciteit : het geheel van elektrische leidingen met een nominale spanning tot en met 70 kilovolt en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest, dat voornamelijk gebruikt wordt om het vervoer van elektriciteit naar distributienetten mogelijk te maken en dat wordt vastgesteld overeenkomstig artikel 4.1.2;<br>
-100/0° PMV/z-Leningen: de naamloze vennootschap PMV/z-Leningen, meer bepaald de dochtervennootschap van PMV met ondernemingsnummer 0553.802.890, vermeld in de beslissing van de Vlaamse Regering van 20 juni 2014 betreffende de overdracht van aandelen Participatiefonds (PF) Vlaanderen aan PMV en beheervergoeding 2014;<br>
+100°/0 planningsbeslissing: strategische keuzes op hoog niveau met betrekking tot energiesystemen en niet-energiesectoren, met de nadruk op trends, haalbaarheid en de beoordeling van energieoplossingen;<br>
+100/0/1° PMV/z-Leningen: de naamloze vennootschap PMV/z-Leningen, meer bepaald de dochtervennootschap van PMV met ondernemingsnummer 0553.802.890, vermeld in de beslissing van de Vlaamse Regering van 20 juni 2014 betreffende de overdracht van aandelen Participatiefonds (PF) Vlaanderen aan PMV en beheervergoeding 2014;<br>
 100/1° primaire energie: energie uit hernieuwbare en niet-hernieuwbare bronnen die geen omzetting of transformatie heeft ondergaan;<br>
 101° primair energieverbruik : de totale hoeveelheid energie die Vlaanderen nodig heeft om aan de energiebehoefte te voldoen;<br>
 101/1° ...<br>
@@ -349,8 +357,10 @@ c) er zijn minstens 36 maanden verstreken sinds de vorige aanvraag voor de toeke
 114° /1 stookolieketel: het geheel van ketellichaam en brander dat de verbrandingswarmte uit de verbranding van stookolie op het water moet overbrengen, ter voorziening van ruimteverwarming of sanitair warm water;<br>
 114° /2 storing : elke overschrijding van de norm NBN EN 50160 in de elektriciteitstoevoer of elke afwijking van de toegelaten drukniveaus van het aardgasdistributienet;<br>
 114° /2/1 stroomafnameovereenkomst: een overeenkomst waarbij een natuurlijke persoon of rechtspersoon zich ertoe verbindt om elektriciteit of hernieuwbare energie rechtstreeks van een energieproducent af te nemen;<br>
+114°/2/2 stroomverbruik van de geïnstalleerde informatietechnologie: de som van het nominale stroomverbruik, in kilowatt, van het netwerk of de netwerken, servers en opslagapparatuur die in de computerruimte van het datacentrum zijn geïnstalleerd;<br>
 114° /3 submeter: meter die stroomafwaarts van de hoofdmeter opgesteld is en energiestromen in een beperkt deel van een energienetwerk kan meten en registreren;<br>
 115° subsidieovereenkomst : een overeenkomst waarin de rechten en de verplichtingen van de Vlaamse Regering en van de begunstigde van de subsidie worden geregeld;<br>
+115°/0 systeemefficiëntie: de selectie van energie-efficiënte oplossingen waarbij deze ook een kosteneffectief decarbonisatietraject, extra flexibiliteit en een efficiënt gebruik van hulpbronnen mogelijk maken;<br>
 115/1° systeemeisen : eisen in verband met de totale energieprestatie, het adequaat installeren, dimensioneren, afstellen en controleren van de technische bouwsystemen die in nieuwe gebouwen worden geïnstalleerd of in bestaande gebouwen nieuw worden geïnstalleerd, vervangen of verbeterd;<br>
 115° /1/1 systeem voor gebouwautomatisering en -controle: een systeem dat alle producten, software en technische diensten omvat die het energie-efficiënt, zuinig en veilig functioneren van technische bouwsystemen kunnen ondersteunen door middel van automatische controles en het vergemakkelijken van het handmatig beheer van die technische bouwsystemen;<br>
 115° /1/2 tariefdrager: objectieve, meetbare eenheid waarop een distributienettarief berekend wordt;<br>
@@ -372,6 +382,7 @@ c) er zijn minstens 36 maanden verstreken sinds de vorige aanvraag voor de toeke
 123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, transmissienetbeheerder of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br>
 124° toegangsregister voor het warmte- of koudenet: register met alle toegangspunten voor thermische energie van een bepaald warmte- of koudenet, dat opgesteld en beheerd wordt door de betrokken warmte- of koudenetbeheerder, waarin onder meer voor ieder toegangspunt voor thermische energie de titularis van het toegangspunt voor thermische energie en de toegangshouder voor thermische energie worden vermeld;<br>
 124°/1 totale bruikbare vloeroppervlakte: de som van de brutovloeroppervlakten van alle vloerniveaus binnen het beschermde volume van het gebouw, berekend volgens de door de Vlaamse Regering vastgelegde specificaties;<br>
+124°/2 &nbsp;totale vloeroppervlakte van het datacentrum: de totale vloeroppervlakte van alle verdiepingen van de structuur of groep structuren die het datacentrum vormt of vormen. Als de structuur van het datacentrum een andere primaire functie heeft, dan is de totale vloeroppervlakte van het datacentrum beperkt tot de som van de vloeroppervlakte die wordt ingenomen door de computerruimten van het datacentrum en de vloeroppervlakte die wordt ingenomen door de apparatuur die nodig is voor de goede werking van het datacentrum;<br>
 125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de federale Elektriciteitswet;<br>
 125°/1 transmissienetbeheerder: de instantie die overeenkomstig de federale Elektriciteitswet als beheerder van het transmissienet is aangewezen;<br>
 126° tussenpersoon : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas koopt met het oog op de doorverkoop aan een andere tussenpersoon of leverancier;<br>
@@ -382,7 +393,9 @@ c) er zijn minstens 36 maanden verstreken sinds de vorige aanvraag voor de toeke
 126/2° vergunningverlenend bestuursorgaan : het bestuursorgaan dat de omgevingsvergunning voor stedenbouwkundige handelingen aflevert;<br>
 126° /3 verordening 2016/631/EU: verordening 2016/631/EU van de Commissie van 14 april 2016 tot vaststelling van een netcode betreffende eisen voor de aansluiting van elektriciteitsproducenten op het net;<br>
 126° /4 verordening 2016/1388/EU: verordening 2016/1388/EU van de Commissie van 17 augustus 2016 tot vaststelling van een netcode voor aansluiting van verbruikers;<br>
+126°/4/1 verordening (EU) 2018/1999: verordening (EU) 2018/1999 van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van Verordeningen (EG) nr. 663/2009 en (EG) nr. 715/2009 van het Europees Parlement en de Raad, Richtlijnen 94/22/EG, 98/70/EG, 2009/31/EG, 2009/73/EG, 2010/31/EU, 2012/27/EU en 2013/30/EU van het Europees Parlement en de Raad, Richtlijnen 2009/119/EG en (EU) 2015/652 van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 van het Europees Parlement en de Raad;<br>
 126° /5 verordening (EU) 2019/943: verordening (EU) 2019/943 van het Europees Parlement en de Raad van 5 juni 2019 betreffende de interne markt voor elektriciteit;<br>
+126°/5/1 verordening (EU) 2024/1364: de gedelegeerde verordening (EU) 2024/1364 van de Commissie van 14 maart 2024 betreffende de eerste fase van de vaststelling van een gemeenschappelijke beoordelingsregeling van de Unie voor datacentra;<br>
 126°/6 verplichting tot het gebruik van energie uit hernieuwbare bronnen: steunregeling waarbij energieproducenten worden verplicht een bepaald aandeel energie uit hernieuwbare bronnen in hun productie op te nemen, energieleveranciers worden verplicht een bepaald aandeel energie uit hernieuwbare bronnen in de levering op te nemen of energieconsumenten worden verplicht een bepaald gedeelte van hun energieverbruik uit hernieuwbare bronnen te halen, met inbegrip van regelingen waarbij middels het gebruik van groencertifica- ten aan deze eisen kan worden voldaan;<br>
 127° verslaggever: de natuurlijke persoon of de rechtspersoon die in het kader van de energieprestatieregelgeving energieadvies aan de aangifteplichtige verstrekt en die instaat voor de decretaal verplichte rapporteringen, vermeld in titel XI, hoofdstuk I;<br>
 128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de federale Gaswet;<br>
@@ -673,7 +686,7 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 ### ART. 4.1.6.
 
 § 1. Het beheer van een distributienet en het plaatselijk vervoernet van elektriciteit omvat de volgende taken:<br>
-1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt net met inachtneming van het milieu en de energie-efficiëntie van het net, en de nodige ondersteunende diensten daarvoor verlenen;<br>
+1° &nbsp;het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt net met inachtneming van het milieu, de energie-efficiëntie van het net en het energie-efficiëntie-eerstbeginsel, en de nodige ondersteunende diensten daarvoor verlenen;<br>
 2° het aanhouden van voldoende netcapaciteit om de elektriciteits- en aardgasbehoefte te dekken van de afnemers die aangesloten zijn op zijn net en om het vervoer van elektriciteit en aardgas naar de distributienetten mogelijk te maken;<br>
 3° de uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij is aangewezen, of, als er nog geen net aanwezig is, de aanleg van het net in dat geografisch afgebakende gebied;<br>
 4° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn net en de bijbehorende installaties;<br>
@@ -691,7 +704,9 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 16° het op een transparante wijze publiceren van duidelijke informatie met een hoge granulariteit in de vorm van capaciteitskaarten over de huidige en toekomstige beschikbare netcapaciteit voor nieuwe aansluitingen en het verhogen van de capaciteit van bestaande aansluitingen, met inbegrip van de capaciteit voor de aangevraagde verzoeken tot aansluiting en de mogelijkheid van flexibele aansluitingsovereenkomsten in congestiegebieden, op het net binnen het dekkingsgebied van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit als vermeld in artikel 4.1.17/9, §2;&nbsp;<br>
 17° het verstrekken van transparante en duidelijke informatie over de status en behandeling van de verzoeken tot aansluiting op het net aan de netgebruikers, gebruikers aangesloten op het plaatselijk vervoernet van elektriciteit en aanvragers van een aansluiting op het net binnen drie maanden na de indiening van het verzoek tot aansluiting op het net, waarbij, zolang het verzoek tot aansluiting niet is ingewilligd of niet definitief is afgewezen, de informatie regelmatig en minstens elk kwartaal wordt geactualiseerd;&nbsp;<br>
 18° het mogelijk maken voor aanvragers van een aansluiting en netgebruikers op een elektriciteitsdistributienet en het plaatselijk vervoernet van elektriciteit, om aanvragen van netaansluitingen en de bijbehorende documenten digitaal in te dienen;<br>
-19° het overleggen en samenwerken van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit met elkaar en met de transmissienetbeheerder waar dat van toepassing is over het verzamelen, berekenen, verwerken en uitwisselen van alle nodige gegevens en het vereffenen van de compensaties die nodig zijn in het kader van congestiebeheer.<br>
+19° het overleggen en samenwerken van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit met elkaar en met de transmissienetbeheerder waar dat van toepassing is over het verzamelen, berekenen, verwerken en uitwisselen van alle nodige gegevens en het vereffenen van de compensaties die nodig zijn in het kader van congestiebeheer;<br>
+20° het monitoren van hun netverliezen en het totale volume ervan kwantificeren en, voor zover dit technisch en financieel haalbaar is, de netten optimaliseren en de efficiëntie ervan verbeteren;<br>
+21° het beoordelen van hun energie-efficiëntieverbeteringsmaatregelen en het verbeteren van de energie-efficiëntie bij het ontwerp en de exploitatie van hun infrastructuur, met name wat betreft de invoering van een slim netwerk.<br>
 <br>
 § 2. Het beheer van het distributienet omvat bovendien het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud, het herstellen en het actief beheren van digitale, elektronische en analoge meters en tellers.<br>
 <br>
@@ -1357,6 +1372,8 @@ Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen ins
 
 § 1. De ontwikkeling van het distributienet en plaatselijk vervoernet van elektriciteit wordt gebaseerd op een transparant investeringsplan dat tweejaarlijks door de distributienetbeheerder en tweejaarlijks door de beheerder van het plaatselijk vervoernet van elektriciteit bij de Vlaamse Nutsregulator wordt ingediend, telkens voor het net dat hij beheert.<br>
 <br>
+Bij het opstellen van hun investeringsplannen houden de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit rekening met het energie-efficiëntie-eerstbeginsel.<br>
+<br>
 Het investeringsplan van de elektriciteitsdistributienetbeheerders bevat al de volgende elementen:<br>
 1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie en de toekomstverwachtingen in verband met decentrale productie voor een periode van drie en tien jaar, met aanduiding van de onderliggende hypothesen;<br>
 2° een investeringsprogramma voor vernieuwing en uitbreiding van het net dat de elektriciteitsdistributienetbeheerders uitvoeren om aan de behoeften te voldoen. Het investeringsprogramma bevat al de volgende elementen:<br>
@@ -1397,7 +1414,7 @@ Het technisch reglement kan nader bepalen welke bijkomende informatie kan worden
 <br>
 De distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit bezorgen de resultaten van de publieke consultatie, vermeld in het eerste lid, samen met het investeringsplan, vermeld in paragraaf 1, aan de Vlaamse Nutsregulator.<br>
 <br>
-§ 3. Het investeringsplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.<br>
+§ 3. Het investeringsplan, vermeld in paragraaf 1, wordt ter goedkeuring voorgelegd aan de Vlaamse Nutsregulator.&nbsp;De Vlaamse Nutsregulator gaat na of de distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit het energie-efficiëntie-eerstbeginsel hebben toegepast bij het opstellen van het investeringsplan. De Vlaamse Nutsregulator gaat daarbij na of de distributienetbeheerders en de beheerder van het plaatselijk vervoernet in het investeringsplan en, waar relevant in het kader van artikel 7.11.1, in de kosten-batenanalyse voldoende rekening hebben gehouden met de ruimere voordelen van energie-efficiëntie, flexibiliteit en investeringen in activa die bijdragen tot klimaatmitigatie.<br>
 <br>
 De Vlaamse Nutsregulator maakt zijn beslissing binnen negentig dagen na de dag waarop hij het investeringsplan heeft ontvangen bekend of vraagt binnen dezelfde termijn bijkomende inlichtingen aan de netbeheerder. Als de Vlaamse Nutsregulator aan de netbeheerder bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen eenmalig met dertig dagen verlengd.<br>
 <br>
@@ -1819,7 +1836,7 @@ De overlegprocedure, vermeld in het eerste lid, komt tot stand met akkoord van e
 16° de structuur van de tarieven bevordert het rationeel gebruik van energie en het rationeel gebruik van de infrastructuren;<br>
 17° de tarieven zijn een realistische weergave van de kostenvoordelen die kunnen voortvloeien uit de aansluiting op en het gebruik van het distributienet door installaties die gebruikmaken van hernieuwbare-energiebronnen en gedistribueerde opwekking;<br>
 18° de tarieven weerspiegelen de kostenbesparingen in distributienetten die worden behaald vanuit maatregelen die passen binnen het vraagzijdebeheer en kunnen een dynamische prijsstelling voor afnemers ondersteunen;<br>
-19° de tarieven bevatten geen prikkels die de algehele efficiëntie, inclusief de energie-efficiëntie, aantasten van de productie, de distributie en de levering van elektriciteit of die de marktdeelname van de vraagrespons in verband met balancerings- en nevendiensten kunnen belemmeren;<br>
+19° de tarieven houden rekening met het energie-efficiëntie-eerstbeginsel en bevatten geen prikkels die de energie-efficiëntie aantasten bij de productie, de distributie en de levering van elektriciteit en aardgas;<br>
 20° de tarieven beletten netbeheerders of energiedetailhandelaren niet systeemdiensten beschikbaar te stellen voor vraagresponsmaatregelen en gedistribueerde opwekking op georganiseerde elektriciteitsmarkten, met name:<br>
 a) verschuiven van de belasting van piekperioden naar dalperioden omdat de eindafnemer rekening houdt met de beschikbaarheid van hernieuwbare energie, energie uit warmte-krachtkoppeling en verspreide opwekking;<br>
 b) energiebesparing vanuit de vraagrespons van verspreide verbruikers door aggregatoren of dienstverleners van flexibiliteit;<br>
@@ -1915,7 +1932,8 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 17° de lijst van gegevens, waaronder ook persoonsgegevens, die in het flexibiliteitsactivatieregister worden opgenomen;<br>
 18° de gegevens die worden gemeten, berekend, bezorgd en beheerd, en ook de methodieken om energiehoeveelheden voor de allocatie, reconciliatie en facturatie te berekenen, en de aanpassingen aan die berekeningen, die gepaard gaan met de activiteiten van actieve afnemers, energiegemeenschappen van burgers en hernieuwbare-energiegemeenschappen en de verkoop van groene stroom conform artikel 7.2.3;<br>
 19° de regels die in het kader van flexibele aansluitingsovereenkomsten gelden voor de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
-20° de nadere regels voor de inhoud van de methodologie, vermeld in artikel 4.1.19/2, eerste lid, voor de afweging tussen de aankoop van flexibiliteitsdiensten, in functie van het beheer van lokale congestie binnen hun eigen dekkingsgebied, permanente flexibele aansluitingsovereenkomsten en een netinvestering.<br>
+20° de nadere regels voor de inhoud van de methodologie, vermeld in artikel 4.1.19/2, eerste lid, voor de afweging tussen de aankoop van flexibiliteitsdiensten, in functie van het beheer van lokale congestie binnen hun eigen dekkingsgebied, permanente flexibele aansluitingsovereenkomsten en een netinvestering;<br>
+21° de rapporteringsverplichtingen voor de netbeheerders om de Vlaamse Nutsregulator in kennis te stellen van de maatregelen die genomen zijn in het kader van artikel 4.1.6, §1, 20° en 21°, in toepassing van het energie-efficientie-eerstbeginsel.<br>
 <br>
 §2/1. De Vlaamse Nutsregulator neemt binnen een termijn van negentig dagen na de dag waarop hij de aanvraag heeft ontvangen een beslissing tot goedkeuring, tot verzoek om herziening, of tot weigering van de goedkeuring of tot commentaar over alle modelcontracten, reglementen, technische voorschrif-ten, procedures en formulieren van de distributienetbeheerders en de beheerder van het plaatselijk vervoersnet van elektriciteit, opgesteld ter uitvoering van de toepasselijke technische reglementen. Als de Vlaamse Nutsregulator aan de aanvrager bijkomende inlichtingen vraagt, wordt de termijn om een beslissing te nemen, eenmalig met dertig dagen verlengd.<br>
 <br>
@@ -2356,7 +2374,7 @@ De Vlaamse Regering kan met het doel innovatieve projecten te stimuleren binnen 
 ### ART 4/1.1.1.
 
 Het beheer van een warmte- of koudenet omvat onder meer de volgende taken:<br>
-1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt warmte- of koudenet, met inachtneming van het milieu en de energie-efficiëntie van het warmte- of koudenet, en het instaan voor de nodige ondersteunende diensten ervoor;<br>
+1°de uitbouw, het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt warmte- of koudenet, met inachtneming van het milieu en de energie-efficiëntie van het warmte- of koudenet, en het instaan voor de nodige ondersteunende diensten ervoor;<br>
 2° het aanhouden van voldoende capaciteit om de warmte- of koudebehoefte te dekken van de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie die aangesloten zijn op zijn warmte- of koudenet;<br>
 3° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn warmte- of koudenet en de bijbehorende installaties;<br>
 4° het herstellen van onderbrekingen en storingen bij de toevoer van warmte of koude via zijn net;<br>
@@ -2364,8 +2382,8 @@ Het beheer van een warmte- of koudenet omvat onder meer de volgende taken:<br>
 6° het aansluiten, verzegelen, afsluiten en heraansluiten van installaties op zijn warmte- of koudenet en het verzwaren van de aansluitingen op zijn warmte- of koudenet;<br>
 7° het verlenen van toegang tot zijn warmte- of koudenet;<br>
 8° het beheren van het toegangsregister van zijn warmte- of koudenet;<br>
-9° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn warmte- of koudenet;<br>
-10° het aflezen van de meters en tellers op de toegangspunten op zijn warmte- of koudenet, de bepaling van de injectie en de afname van de warmte- of koudeproducenten en van de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie die aangesloten zijn op zijn warmte- of koudenet, en de verwerking en de bewaring van die gegevens;<br>
+9° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten voor thermische energie op zijn warmte- of koudenet;<br>
+10° het aflezen van de meters en tellers op de toegangspunten voor thermische energie op zijn warmte- of koudenet, de bepaling van de injectie en de afname van de warmte- of koudeproducenten en van de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie die aangesloten zijn op zijn warmte- of koudenet, en de verwerking en de bewaring van die gegevens;<br>
 11° het verstrekken van de nodige meetgegevens en andere gegevens aan de warmteproducenten, de warmte- of koudeleveranciers, de afnemers van thermische energie of tussenpersonen bij de levering van thermische energie en de Vlaamse Nutsregulator;<br>
 12° het actief detecteren en vaststellen van alle vormen van energiefraude, en het nemen van maatregelen om energiefraude te vermijden.<br>
 <br>
@@ -2387,7 +2405,7 @@ Iedere warmte- of koudenetbeheerder maakt de geldende tarieven en voorwaarden be
 
 ### ART 4/1.1.3.
 
-Als de warmte- of koudenetbeheerder niet optreedt als leverancier van thermische energie, maakt hij de geldende tarieven bekend en de voorwaarden waaronder de toegangshouder voor thermische energie toegang tot het warmte- of koudenet kan verkrijgen.
+Als de warmte- of koudenetbeheerder niet optreedt als warmte- of koudeleverancier, maakt hij de geldende tarieven bekend en de voorwaarden waaronder de toegangshouder voor thermische energie toegang tot het warmte- of koudenet kan verkrijgen.
 
 ## [Afdeling IV. Openbaredienstverplichtingen, opgelegd aan de warmte- of koudenetbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
@@ -2414,6 +2432,7 @@ De openbaredienstverplichtingen kunnen onder meer betrekking hebben op de termij
 
 De Vlaamse Regering kan de netbeheerders extra openbaredienstverplichtingen opleggen, naast de openbaredienstverplichtingen van dit decreet, met betrekking tot:<br>
 1° hun investeringen in het warmte- of koudenet;<br>
+1°/1 het voldoen aan eisen inzake energie-efficiëntie, de inzet van fossiele energiebronnen en hernieuwbare energiebronnen voor de energie die via hun warmte- of koudenet geleverd wordt;<br>
 2° de procedure die de warmte- of koudenetbeheerders moeten volgen bij wanbetaling door de afnemer van thermische energie of tussenpersoon bij de levering van thermische energie;<br>
 3° het nemen van maatregelen van sociale aard.<br>
 <br>
@@ -2471,13 +2490,13 @@ De onteigeningen, vermeld in het eerste lid, zullen worden gevorderd met toepass
 <br>
 § 2. In afwijking van paragraaf 1 kan de Vlaamse Regering aan de warmte- of koudenetbeheerder op het gewestelijk openbaar domein domeintoelatingen, vergunningen voor privatief gebruik of domeinconcessies verlenen via het gelasten van de door haar of bij decreet aangestelde domeinbeheerder.
 
-## [Onderafdeling III. Recht op toegang van de warmte- of koudenetbeheerder tot alle installaties waarvan hij het eigendoms- of gebruiksrecht heeft en die zich bevinden in de inrichting van de netgebruiker (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+## Onderafdeling III. Recht op toegang van de warmte- of koudenetbeheerder tot alle installaties waarvan hij het eigendoms- of gebruiksrecht heeft en die zich bevinden in de inrichting van de warmte- of koudenetgebruiker
 
 ### ART 4/1.1.11.
 
 De warmte- of koudenetbeheerder heeft recht op toegang tot de ruimtes waar de warmtewisselaar en de installatie voor de registratie van geleverde thermische energie zijn opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor werken aan de aansluiting, de plaatsing, de inschakeling, de controle of de meteropname van de warmtewisselaar en van de installatie voor de registratie van geleverde thermische energie.<br>
 <br>
-De netgebruiker verschaft de warmte- of koudenetbeheerder onmiddellijk toegang op eenvoudig mondeling verzoek na een behoorlijke legitimatie.
+De warmte- of koudenetgebruiker verschaft de warmte- of koudenetbeheerder onmiddellijk toegang op eenvoudig mondeling verzoek na een behoorlijke legitimatie.
 
 ## [Onderafdeling IV. Gebruik van persoonlijke gegevens door de warmte- of koudenetbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
@@ -2591,10 +2610,46 @@ De Vlaamse Regering kan nadere regels uitvaardigen voor de taken, vermeld in het
 ### ART 4/1.3.2.
 
 De Vlaamse Regering kan iedere warmte- of koudeleverancier of iedere tussenpersoon bij de levering van thermische energie in het Vlaamse Gewest, openbaredienstverplichtingen opleggen voor:<br>
-1° de facturatie van het verbruik van thermische energie;<br>
+1° de facturatie van het verbruik van thermische energie en van warm water voor huishoudelijk gebruik;<br>
 2° informatieverlening;<br>
 3° de behandeling van klachten van zijn klanten;<br>
 4° het nemen van maatregelen van sociale aard, zoals beschermingsmaatregelen bij wanbetaling en opzegging van het leveringscontract.
+
+## HOOFDSTUK IV. Lokale verwarmings- en koelingsplannen
+
+### ART 4/1.4.1.
+
+§1. Gemeenten die op 1 januari 2025 meer dan 45.000 inwoners tellen, zijn verplicht om een lokaal verwarmings- en koelingsplan op te stellen. De Vlaamse Regering bepaalt de datum waarop het lokaal verwarmings- en koelingsplan door die gemeente voor het eerst wordt opgemaakt en goedgekeurd. Het lokaal verwarmings- en koelingsplan wordt na de datum dat dit voor het eerst moet zijn opgemaakt en goedgekeurd door de gemeente om de vijf jaar geëvalueerd en aangepast. Gemeenten die pas na 1 januari 2025 voor het eerst de drempel van 45.000 inwoners bereiken maken het lokaal verwarmings- en koelingsplan op en keuren het goed voor 1 januari van het tweede jaar volgend op het jaar waarin ze op 1 januari voor het eerst dat inwonersaantal bereiken.<br>
+<br>
+Het ontwerp van lokaal verwarmings- en koelingsplan wordt door de gemeente, vermeld in het eerste lid, ter beoordeling voorgelegd aan een beoordelende instantie die wordt aangewezen door de Vlaamse Regering. De Vlaamse Regering kan nadere voorwaarden bepalen waaraan die beoordeling moet voldoen. De Vlaamse Regering kan ook nadere voorwaarden bepalen met betrekking tot de termijn waarbinnen en de wijze waarop het ontwerp van lokaal verwarmings- en koelingsplan door een gemeente aan de beoordelende instantie wordt voorgelegd.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden bepalen met betrekking tot de evaluatie en aanpassing van het lokaal verwarmings- en koelingsplan, vermeld in het tweede lid. Die voorwaarden kunnen onder andere vereisten omvatten met betrekking tot de inhoud van de evaluatie en de wijze van uitvoering van de evaluatie.<br>
+<br>
+§2. De gemeente, vermeld in paragraaf 1, eerste lid, is belast met de uitvoering van haar lokaal verwarmings- en koelingsplan.<br>
+<br>
+In afwijking van het eerste lid kunnen de lokale verwarmings- en koelingsplannen, vermeld in paragraaf 1, ook door een groep naburige gemeenten gezamenlijk worden uitgevoerd, als de geografische en bestuurlijke context en de verwarmings- en koelingsinfrastructuur daartoe geschikt zijn. De Vlaamse Regering kan nadere regels vastleggen met betrekking tot het bepalen van die geschiktheid.<br>
+<br>
+Als een lokaal verwarmings- en koelingsplan door een groep naburige gemeenten gezamenlijk wordt uitgevoerd overeenkomstig het eerste lid, kan het ontwerp van lokaal verwarmings- en koelingsplan ook door dezelfde gemeenten gezamenlijk aan de beoordelende instantie worden voorgelegd, als vermeld in paragraaf 1, tweede lid.
+
+### ART 4/1.4.2.
+
+Bij de opmaak van haar lokaal verwarmings- en koelingsplan, houdt elke gemeente, vermeld in artikel 4/1.4.1, §1, minstens rekening met de hierna volgende verplichtingen. Het lokaal verwarmings- en koelingsplan:<br>
+1° is gebaseerd op de informatie en gegevens die worden verstrekt in de uitgebreide verwarmings- en koelingsbeoordeling die deel uitmaakt van het nationale energie- en klimaatplan en de actualiseringen, vermeld in verordening (EU) 2018/1999 van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van Verordeningen (EG) nr. 663/2009 en (EG) nr. 715/2009 van het Europees Parlement en de Raad, Richtlijnen 94/22/EG, 98/70/EG, 2009/31/ EG, 2009/73/EG, 2010/31/EU, 2012/27/EU en 2013/30/EU van het Europees Parlement en de Raad, Richtlijnen 2009/119/EG en (EU) 2015/652 van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 van het Europees Parlement en de Raad;<br>
+2° geeft een raming en een overzicht van het potentieel om de energie-efficientie te verhogen, onder meer door de inzetbaarheid van stadsverwarming bij lage temperatuur, door hoogrenderende warmte-krachtkoppeling, en door terugwinning van restwarmte, en om hernieuwbare energie in verwarming en koeling te gebruiken in dat specifieke gebied;<br>
+3° &nbsp;is in overeenstemming met het energie-efficiëntie-eerstbeginsel;<br>
+4° bevat een strategie voor het gebruik van het overeenkomstig punt 1° en 2° geïdentificeerde potentieel;<br>
+5° wordt voorbereid met medewerking van alle betrokken regionale of lokale belanghebbenden en met participatie van het grote publiek, met inbegrip van exploitanten van lokale energie-infrastructuur;<br>
+6° biedt de gelegenheid aan alle betrokken partijen, met inbegrip van publieke en private belanghebbenden, om deel te nemen aan de opstelling ervan;<br>
+7° &nbsp;houdt rekening met de relevante bestaande energie-infrastructuur;<br>
+8° houdt rekening met de gemeenschappelijke behoeften van lokale gemeenschappen en meerdere lokale besturen;<br>
+9° beoordeelt de rol van energiegemeenschappen en andere door de consument gedragen initiatieven die actief kunnen bijdragen aan de uitvoering van lokale verwarmings- en koelingsprojecten;<br>
+10° omvat een analyse van verwarmings- en koelingsapparaten en -systemen in lokale gebouwenbestanden, waarbij rekening wordt gehouden met het gebiedsspecifieke potentieel voor energie-efficiëntiemaatregelen, en de slechtst presterende gebouwen en de behoeften van kwetsbare huishoudens worden aangepakt;<br>
+11° schat in hoe de uitvoering van de beleidslijnen en maatregelen kan worden gefinancierd, en merkt financiële mechanismen aan die consumenten in staat stellen over te stappen op verwarming en koeling op basis van hernieuwbare energie;<br>
+12° omvat een traject ter verwezenlijking van de in de plannen bepaalde doelstellingen in overeenstemming met klimaatneutraliteit en toezicht op de voortgang van de uitvoering van de vastgestelde beleidslijnen en maatregelen;<br>
+13° is erop gericht uiterst efficiënte alternatieven de plaats te laten innemen van oude en inefficiënte verwarmings- en koelingsapparaten in gebouwen van overheidsinstanties, met als doel de uitfasering van fossiele brandstoffen;<br>
+14° beoordeelt en houdt rekening met potentiële synergieën met de plannen van naburige gemeenten om gezamenlijke investeringen en kostenefficiëntie aan te moedigen.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de inhoud van het lokaal verwarmings- en koelingsplan, vermeld in het eerste lid. De Vlaamse Regering kan daarnaast nadere regels vastleggen met betrekking tot de verplichtingen, vermeld in het eerste lid.
 
 ## [TITEL V. HET VOORKOMEN, DETECTEREN EN VASTSTELLEN VAN ENERGIEFRAUDE (ing. decr. 24 februari 2017, art. 8, I: 22 maart 2017)]
 
@@ -3396,7 +3451,8 @@ De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplicht
 §2. De verplichtingen, vermeld in § 1, omvatten :<br>
 1° het opzetten van een energieboekhouding;<br>
 2° het uitvoeren van rendabele investeringen, die al dan niet ter kennis worden gebracht door&nbsp;een energieaudit, een energieplan of een energiestudie;<br>
-3° het periodiek dan wel eenmalig laten opmaken van&nbsp;een energieaudit, een energieplan en/of een energiestudie door een energiedeskundige.<br>
+3° het periodiek dan wel eenmalig laten opmaken van&nbsp;een energieaudit, een energieplan en/of een energiestudie door een energiedeskundige;<br>
+4° het implementeren van een energiebeheersysteem.<br>
 <br>
 De Vlaamse Regering kan voor een of meer van de voorgaande verplichtingen vrijstelling verlenen en/of de periodiciteit bepalen.<br>
 <br>
@@ -3404,9 +3460,13 @@ De Vlaamse Regering kan voor een of meer van de voorgaande verplichtingen vrijst
 <br>
 §4. De Vlaamse Regering kan een instantie aanduiden die de&nbsp;energieaudits, de energieplannen en de energiestudies conform moet verklaren.<br>
 <br>
+De Vlaamse Regering kan een instantie aanduiden die de energiebeheersystemen certificeert.<br>
+<br>
 §5. De energiedeskundige stelt de energieaudits, de energieplannen en de energiestudies ter beschikking van de bedrijfsleiding en, in voorkomend geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of bij ontstentenis van die organen, de vakbondsafvaardiging.<br>
 <br>
-§6. De Vlaamse Regering bepaalt de concrete opmaak, de inhoud en, in voorkomend geval, de conformverklaring van de energieaudits, de energieplannen en energiestudies.<br>
+§6. De Vlaamse Regering bepaalt de concrete opmaak, de rapportering, de inhoud en, in voorkomend geval, de conformverklaring van de energieaudits, de energieplannen en energiestudies.<br>
+<br>
+De Vlaamse Regering bepaalt de normen en voorwaarden waaraan de energiebeheersystemen moeten voldoen.<br>
 <br>
 §7. Ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst met de Vlaamse Regering sluiten, moeten minstens voldoen aan de verplichtingen, vermeld in § 1, die gelden op het moment van het sluiten van de energiebeleidsovereenkomst.<br>
 <br>
@@ -3484,9 +3544,11 @@ In afwijking van artikel 12.5.1, §4, eerste lid, worden de persoonsgegevens, ve
 
 ### ART 7.8.2
 
-§1. Met behoud van de toepassing van de verplichtingen, vermeld in artikel 7.8.1, verplicht de Vlaamse Regering de overheidsinstanties vanaf 2025 om jaarlijks een energiebesparing in hun verwarmde en/of gekoelde gebouwen en gebouweenheden in volle eigendom, erfpacht of opstal te realiseren die minstens equivalent is aan de energiebesparing door renovatie van minstens drie procent van de totale bruikbare vloeroppervlakte van verwarmde en/of gekoelde gebouwen&nbsp;en gebouweenheden die overheidsinstanties in volle eigendom, erfpacht of opstal hebben, tot een minimaal energieprestatieniveau dat de Vlaamse Regering bepaalt.<br>
+§1. Met behoud van de toepassing van de verplichtingen, vermeld in artikel 7.8.1, verplicht de Vlaamse Regering de overheidsinstanties om jaarlijks een energiebesparing in hun verwarmde en/of gekoelde gebouwen en gebouweenheden in volle eigendom, erfpacht of opstal te realiseren die minstens equivalent is aan de energiebesparing door renovatie van minstens drie procent van de totale bruikbare vloeroppervlakte van verwarmde en/of gekoelde gebouwen&nbsp;en gebouweenheden die overheidsinstanties in volle eigendom, erfpacht of opstal hebben, tot een minimaal energieprestatieniveau dat de Vlaamse Regering bepaalt.<br>
 <br>
 De totale bruikbare vloeroppervlakte, vermeld in het eerste lid, wordt berekend op basis van de vloeroppervlakte van alle verwarmde en gekoelde gebouwen met een bruikbare vloeroppervlakte van meer dan 250 m², met uitsluiting van alle gebouwen&nbsp;en gebouweenheden die op 1 januari 2024 voldoen aan de minimale energieprestatieniveaus die de Vlaamse Regering bepaalt. De Vlaamse Regering kan, met inachtneming van kostenefficiëntie en technische vereisten, categorieën van gebouwen of gebouweenheden uitsluiten bij de berekening van de totale bruikbare vloeroppervlakte.<br>
+<br>
+In afwijking van het tweede lid wordt in geval van een site met meerdere gebouwen van een overheidsinstantie die alle zijn aangesloten op één hoofd-meter en waarbij er geen submeters zijn voorzien, voor de berekening van de totale bruikbare vloeroppervlakte de vloeroppervlaktes gebruikt van alle verwarmde en/of gekoelde gebouwen ongeacht het feit of de bruikbare vloeroppervlakte van die individuele gebouwen op die site meer of minder is dan 250 m².<br>
 <br>
 §2. In afwijking van paragraaf 1 kan de Vlaamse Regering afwijkende normen voor renovatie bepalen voor de volgende categorieën van gebouwen en gebouweenheden:<br>
 1° beschermde monumenten of gebouwen of gebouweenheden die deel uitmaken van een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht of gebouwen die opgenomen zijn in de vastgestelde inventaris van het bouwkundige erfgoed als de toepassing van de eisen, vermeld in paragraaf 1, hun karakter of aanzicht op onaanvaardbare wijze zou veranderen;<br>
@@ -3495,15 +3557,17 @@ De totale bruikbare vloeroppervlakte, vermeld in het eerste lid, wordt berekend 
 <br>
 De renovatie van een gebouw of gebouweenheid, vermeld in het eerste lid, draagt bij tot de verplichting, vermeld in paragraaf 1.<br>
 <br>
-§3. De Vlaamse Regering kan een overheidsinstantie vrijstellen van de verplichting, vermeld in paragraaf 1, als de overheidsinstantie aantoont dat het niet technisch of economisch mogelijk is om het gebouw of de gebouweenheid te renoveren tot de minimale energieprestatieniveaus, vermeld in paragraaf 1. Een overheidsinstantie die de voormelde vrijstelling heeft gekregen, renoveert het gebouw&nbsp;of de gebouweenheid in kwestie tot een technisch of economisch aanvaardbaar niveau.<br>
+§3. De Vlaamse Regering kan een overheidsinstantie vrijstellen van de verplichting, vermeld in paragraaf 1, als het niet technisch, functioneel of economisch mogelijk is om het gebouw of de gebouweenheid te renoveren tot de minimale energieprestatieniveaus, vermeld in paragraaf 1. De Vlaamse Regering kan daarbij een onderscheid maken naar type van gebouw.<br>
 &nbsp;<br>
-De Vlaamse Regering kan gebouwen&nbsp;en gebouweenheden voor sociale huisvesting vrijstellen van de verplichting, vermeld in paragraaf 1, als de verantwoordelijke overheidsinstantie voor die sociale huisvesting aantoont dat de benodigde investeringen niet kostenneutraal uitgevoerd kunnen worden of leiden tot verhoogde huurprijzen die de verlaging van de energiefactuur door renovatie overstijgen.<br>
+De Vlaamse Regering kan gebouwen&nbsp;en gebouweenheden voor sociale huisvesting vrijstellen van de verplichting, vermeld in paragraaf 1, als de benodigde investeringen niet kostenneutraal uitgevoerd kunnen worden of leiden tot verhoogde huurprijzen die de verlaging van de energiefactuur door renovatie overstijgen.&nbsp;De Vlaamse Regering kan bepalen aan welke criteria moet worden voldaan om als kostenneutraal te worden beschouwd.<br>
 <br>
 De renovatie van een gebouw waarvoor een vrijstelling als vermeld in het eerste en tweede lid is verleend, draagt niet bij tot de verplichting, vermeld in paragraaf 1.<br>
 <br>
 §4. Een overheidsinstantie die in uitvoering van de verplichtingen, vermeld in paragraaf 1 tot en met 3, in een kalenderjaar een energiebesparing realiseert die groter is dan de energiebesparing die gepaard gaat met een renovatie van drie procent van de totale bruikbare vloeroppervlakte van haar gebouwen of gebouweenheden kan:<br>
 1° tot en met 31 december 2026, het overschot meetellen bij de vereiste energiebesparing van een van de drie jaren daarna;<br>
 2° vanaf 1 januari 2027 het overschot optellen bij de vereiste energiebesparing van de twee volgende jaren.<br>
+<br>
+§4/1. De overheidsinstanties gaan bij de uitvoering van de verplichtingen, vermeld in paragraaf 1, na of voor de renovatie van grote niet voor bewoning bestemde gebouwen met een totale bruikbare vloeroppervlakte van meer dan 750 m² het gebruik van energieprestatiecontracten en andere op prestaties gebaseerde energiediensten haalbaar is. De Vlaamse Regering kan nadere regels vastleggen om te bepalen onder welke voorwaarden het voormelde gebruik haalbaar wordt geacht.<br>
 <br>
 §5. De Vlaamse Regering kan nadere vereisten bepalen waaraan de overheidsinstanties voldoen om aan te tonen dat de verplichtingen, vermeld in dit artikel, zijn vervuld.
 
@@ -3518,29 +3582,83 @@ meld in artikel 4.2.1, 1°, 6° en 7°, van de Vlaamse Codex Ruimtelijke Ordenin
 <br>
 Als de partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
 
-## HOOFDSTUK VIII Verplichtingen met betrekking tot het rationeel energiegebruik van datacentra
+## Afdeling III. Energieprestatie-eisen bij de aankoop of huur van gebouwen
 
-### ART 7.8.1.
+### ART 7.8.4.
 
-§ 1. Eigenaars en exploitanten van datacentra met een elektrisch vermogen van de geïnstalleerde informatietechnologie van ten minste 500 kW bezorgen jaarlijks uiterlijk op 15 mei de volgende informatie over de energieprestaties van die datacentra aan het VEKA:<br>
+§1. De Vlaamse Regering kan aan de overheid, vermeld in artikel 2, 1°, van de wet van 17 juni 2016 inzake overheidsopdrachten, verplichtingen opleggen met betrekking tot minimale energieprestatie-eisen van gebouwen bij de aankoop van gebouwen of gebouweenheden, gelegen in het Vlaamse Gewest, of bij het afsluiten van nieuwe huurovereenkomsten voor gebouwen of gebouweenheden, gelegen in het Vlaamse Gewest, wanneer de waarde van deze aankoop of huur het drempelbedrag, vermeld in artikel 11, 2°, van het koninklijk besluit van 18 april 2017 plaatsing overheidsopdrachten in de klassieke sectoren overschrijdt.<br>
+<br>
+De verplichtingen, vermeld in het eerste lid, zijn niet van toepassing bij een minnelijke verwerving, volgend op een definitief onteigeningsbesluit, en bij onteigening via gerechtelijke procedure.<br>
+<br>
+De Vlaamse Regering kan bepalen welke gebouwen of gebouweenheden uitgezonderd zijn van de verplichtingen, vermeld in het eerste lid. De Vlaamse Regering voorziet in ieder geval uitzonderingen voor volgende gebouwen en gebouweenheden:<br>
+1° gebouwen of gebouweenheden die na aankoop of het sluiten van een nieuwe huurovereenkomst worden gerenoveerd tot een nader door de Vlaamse Regering te bepalen minimale energieprestatie-eis of gesloopt. De Vlaamse Regering bepaalt de termijn waarbinnen hieraan voldaan moet zijn;<br>
+2° beschermde monumenten of gebouwen of gebouweenheden die deel uitmaken van een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht of gebouwen of gebouweenheden die opgenomen zijn in de vastgestelde inventaris van het bouwkundig erfgoed;<br>
+3° gebouwen of gebouweenheden waar het technisch niet haalbaar is om aan de verplichtingen, vermeld in het eerste lid, te voldoen. De Vlaamse Regering bepaalt de criteria voor het bepalen van de technische onhaalbaarheid;<br>
+4° gebouwen en gebouweenheden waar de verplichtingen, vermeld in het eerste lid, in conflict zouden komen met de aard en het hoofddoel van de activiteiten van de strijdkrachten.<br>
+<br>
+De Vlaamse Regering kan verplichtingen opleggen aan aanbestedende overheden om de noodzakelijke gegevens voor de implementatie van de verplichtingen, vermeld in het eerste lid, accuraat, volledig en consistent te melden aan het VEKA.<br>
+<br>
+§2. De Vlaamse Regering kan aan de entiteit, vermeld in artikel 2, 4°, van de wet van 17 juni 2016 inzake overheidsopdrachten, verplichtingen opleggen met betrekking tot minimale energieprestatie-eisen van gebouwen bij de aankoop van gebouwen of gebouweenheden, gelegen in het Vlaamse Gewest, of bij het afsluiten van nieuwe huurovereenkomsten voor gebouwen of gebouweenheden, gelegen in het Vlaamse Gewest, wanneer de waarde van deze aankoop of huur het drempelbedrag, vermeld in artikel 11, 2°, van het koninklijk besluit van 18 april 2017 plaatsing overheidsopdrachten in de speciale sectoren overschrijdt.<br>
+<br>
+De verplichtingen, vermeld in het eerste lid, zijn niet van toepassing bij een minnelijke verwerving, volgend op een definitief onteigeningsbesluit, en bij onteigening via gerechtelijke procedure.<br>
+&nbsp;<br>
+De Vlaamse Regering kan bepalen welke gebouwen of gebouweenheden uitgezonderd zijn van de verplichtingen, vermeld in het eerste lid. De Vlaamse Regering voorziet in ieder geval uitzonderingen voor volgende gebouwen en gebouweenheden:<br>
+1° gebouwen of gebouweenheden die na aankoop of het sluiten van een nieuwe huurovereenkomst worden gerenoveerd tot een nader door de Vlaamse Regering te bepalen minimale energieprestatie-eis of gesloopt. De Vlaamse Regering bepaalt de termijn waarbinnen hieraan voldaan moet zijn;<br>
+2° beschermde monumenten of gebouwen of gebouweenheden die deel uitmaken van een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht of gebouwen of gebouweenheden die opgenomen zijn in de vastgestelde inventaris van het bouwkundig erfgoed;<br>
+3° gebouwen of gebouweenheden waar het technisch niet haalbaar is om aan de verplichtingen, vermeld in het eerste lid, te voldoen. De Vlaamse Regering bepaalt de criteria voor het bepalen van de technische onhaalbaarheid;<br>
+4° gebouwen en gebouweenheden waar de verplichtingen, vermeld in het eerste lid, in conflict zouden komen met de aard en het hoofddoel van de activiteiten van de strijdkrachten.<br>
+<br>
+De Vlaamse Regering kan verplichtingen opleggen aan aanbestedende entiteiten om de noodzakelijke gegevens voor de implementatie van de verplichtingen, vermeld in het eerste lid, accuraat, volledig en consistent te melden aan het VEKA.
+
+## HOOFDSTUK VIII/1. Verplichtingen met betrekking tot het rationeel energiegebruik van datacentra
+
+### ART 7.8/1.1.
+
+§1. Eigenaars en exploitanten van datacentra met een elektrisch vermogen van de geïnstalleerde informatietechnologie van ten minste 500 kW bezorgen jaarlijks uiterlijk op 15 mei de volgende informatie over de energieprestaties van die datacentra overeenkomstig verordening (EU) 2024/1364:<br>
 1° de naam van het datacentrum;<br>
-2° de naam van de eigenaar en de exploitanten van het datacentrum;<br>
+2° de naam en contactgegevens van de eigenaar en de exploitanten van het datacentrum;<br>
 3° de datum waarop het datacentrum zijn activiteiten is begonnen;<br>
 4° de gemeente waarin het datacentrum ligt;<br>
-5° de technische gegevens van het datacentrum:<br>
-a) de vloeroppervlakte van het datacentrum;<br>
-b) het geïnstalleerde vermogen;<br>
-c) het jaarlijks inkomende en uitgaande dataverkeer;<br>
-d) de hoeveelheid in het datacentrum opgeslagen en verwerkte data;<br>
-6° de prestaties van het datacentrum in het laatste volledige kalenderjaar aan de hand van kernprestatie-indicatoren over minstens:<br>
-a) energieverbruik;<br>
-b) elektrisch vermogen;<br>
-c) temperatuurinstelpunten;<br>
-d) restwarmtegebruik;<br>
-e) waterverbruik;<br>
-f) gebruik van hernieuwbare energie.<br>
+5° het type datacentrum, namelijk:<br>
+a) bedrijfsdatacentrum;<br>
+b) colocatiedatacentrum;<br>
+c) cohostingdatacentrum;<br>
+6° het jaar en de maand van indienstname;<br>
+7° het redundantieniveau van de elektrische infrastructuur op hoogspanningsniveau, laagspanningsniveau, of kastniveau;<br>
+8° het redundantieniveau van de koelinfrastructuur op ruimteniveau of kastniveau;<br>
+9° de technische gegevens van het datacentrum:<br>
+a) de totale vloeroppervlakte van het datacentrum;<br>
+b) de vloeroppervlakte van de computerruimte van het datacentrum;<br>
+c) het geïnstalleerde vermogen;<br>
+d) de bandbreedte voor inkomend dataverkeer in gigabytes;<br>
+e) de bandbreedte voor uitgaand dataverkeer in gigabytes;<br>
+f)&nbsp; het inkomend dataverkeer in exabytes;<br>
+g) het uitgaand dataverkeer in exabytes;<br>
+h) de hoeveelheid in het datacentrum opgeslagen en verwerkte data;<br>
+10° de prestaties van het datacentrum in het laatste volledige kalenderjaar aan de hand van kernprestatie-indicatoren over minstens:<br>
+a) het totaal energieverbruik;<br>
+b) het stroomverbruik van de geïnstalleerde informatietechnologie;<br>
+c) het totaal energieverbruik van informatietechnologieapparatuur;<br>
+d) de functies van het elektriciteitsnet;<br>
+e) de gemiddelde batterijcapaciteit;<br>
+f)&nbsp; het elektrisch vermogen;<br>
+g) de gemiddelde insteltemperatuur van de inlaatlucht voor informatietechnologieapparatuur;<br>
+h) het restwarmteverbruik;<br>
+i)&nbsp; de gemiddelde restwarmtetemperatuur;<br>
+j)&nbsp; de totale watertoevoer;<br>
+k) de totale drinkwatertoevoer;<br>
+l)&nbsp; het totale verbruik van hernieuwbare energie;<br>
+m) het totale verbruik van hernieuwbare energie met een garantie van oorsprong;<br>
+n)&nbsp; het totale verbruik van hernieuwbare energie afkomstig van stroom-afnameovereenkomsten;<br>
+o)&nbsp; het totale verbruik van hernieuwbare energie uit plaatselijke hernieuwbare energiebronnen;<br>
+p)&nbsp; de soorten koelmiddelen;<br>
+q)&nbsp; het aantal koeldagen;<br>
+r)&nbsp; de ICT-capaciteit voor servers;<br>
+s) de ICT-capaciteit voor opslagapparatuur.<br>
 <br>
 De aan te leveren informatie, vermeld in het eerste lid, heeft betrekking op de ruimten en de apparatuur die hoofdzakelijk of uitsluitend dienen voor gegevensgerelateerde functies (serverruimten), met inbegrip van de noodzakelijke bijbehorende apparatuur zoals de bijbehorende koel-, verlichtings-, batterij- of ononderbreekbare stroomvoorzieningen.<br>
+<br>
+De aan te leveren informatie, vermeld in het eerste lid, heeft betrekking op het kalenderjaar dat onmiddellijk voorafgaat aan het verslagjaar. Indien een datacentrum minder dan een jaar in bedrijf is, rapporteert de exploitant van het datacentrum alleen over de periode waarin het datacentrum in bedrijf was, met vermelding van die periode.<br>
 <br>
 De Vlaamse Regering kan ter uitvoering van de gedelegeerde handelingen die de Europese Commissie heeft vastgesteld, de lijst, vermeld in het eerste lid, verder specificeren of uitbreiden.<br>
 <br>
@@ -3548,11 +3666,11 @@ In afwijking van het eerste en tweede lid wordt de volgende informatie niet gera
 1° alle IT-apparatuur die in hoofdzakelijk openbaar toegankelijke ruimten, ruimten voor gemeenschappelijk gebruik of kantoorruimten is geplaatst of geïnstalleerd, of die andere bedrijfsfuncties ondersteunt, zoals werkstations, laptops, fotokopieerapparaten, sensoren, beveiligingsapparatuur of wit- en bruingoed;<br>
 2° server-, netwerk-, opslag- en verwante apparatuur die verspreid is over een site, zoals afzonderlijke servers, single racks, of wifi- en netwerkaansluitings-punten.<br>
 <br>
-§ 2. De gegevens, vermeld in paragraaf 1, worden opgenomen in de databank, vermeld in artikel 12.5.1. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de vorm en de wijze waarop die gegevens aan het VEKA worden bezorgd. Het VEKA bezorgt de gegevens aan de Europese databank over datacentra die de Europese Commissie beheert.<br>
+§2. De gegevens, vermeld in paragraaf 1, worden door de datacentra gerapporteerd in de Europese databank voor datacentra. Het VEKA kan de gerapporteerde gegevens vanuit die Europese databank opnemen in de databank, vermeld in artikel 12.5.1.<br>
 <br>
-§ 3. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op de datacentra die worden gebruikt voor defensie, politie en civiele bescherming.<br>
+§3. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op de datacentra die worden gebruikt voor defensie, politie en civiele bescherming.<br>
 <br>
-§ 4. Eigenaars en exploitanten van datacentra met een elektrisch vermogen van de geïnstalleerde informatietechnologie gelijk aan of groter dan 1 MW houden rekening met de beste praktijken waarnaar wordt verwezen in de recentste versie van de Uniegedragscode inzake energie-efficiëntie in datacentra.
+§4. Eigenaars en exploitanten van datacentra met een elektrisch vermogen van de geïnstalleerde informatietechnologie gelijk aan of groter dan 1 MW houden rekening met de beste praktijken waarnaar wordt verwezen in de recentste versie van de Uniegedragscode inzake energie-efficiëntie in datacentra.
 
 ## [HOOFDSTUK IX. De openbare centra voor maatschappelijk welzijn als promotor van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen (ing. decr. 26 april 2019, art. 3, I: 26 mei 2019)]
 
@@ -3564,6 +3682,58 @@ De Vlaamse Regering kan aan de openbare centra voor maatschappelijk welzijn rech
 3° de toepassing van hernieuwbare energietechnologieën.<br>
 <br>
 De taken ter stimulering van een rationeel energiebeheer kunnen de vorm aannemen van toekenning van steun voor energetische renovatieprojecten van noodkoopwoningen. In dat geval beschikt het openbaar centrum voor maatschappelijk welzijn die de steun heeft toegekend voor de energetische renovatie van een noodkoopwoning, over een recht van voorkoop op die woning gedurende de duur van de leningsovereenkomst. Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
+
+## HOOFDSTUK X. Eisen inzake systemen voor stadsverwarming- of koeling
+
+### ART 7.10.1.
+
+De Vlaamse Regering bepaalt de eisen waaraan nieuwe of ingrijpend te renoveren systemen voor stadsverwarming- of koeling voldoen. De eisen kunnen bestaan uit:<br>
+1° de bronnen die door het systeem voor stadsverwarming- of koeling worden gebruikt;<br>
+2° de duurzaamheidsprestaties die gebaseerd zijn op de hoeveelheid broeikasgassen die het systeem voor stadsverwarming of -koeling uitstoot per eenheid aan de afnemers geleverde warmte of koude.<br>
+<br>
+De Vlaamse Regering bepaalt wie verantwoordelijk is voor het naleven van de eisen, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen voor het bepalen van de kenmerken van een systeem van stadsverwarming- of koeling. Daarbij kan in ieder geval worden bepaald hoe het bruto thermisch vermogen van het systeem wordt vastgesteld.<br>
+<br>
+De Vlaamse Regering kan bepalen wat onder een ingrijpend te renoveren systeem voor stadsverwarming of -koeling, vermeld in het eerste lid, wordt verstaan en waar dat systeem aan moet voldoen.<br>
+<br>
+De Vlaamse Regering kan uitzonderingen bepalen voor de eisen, vermeld in het eerste lid.
+
+## HOOFDSTUK XI. Het energie-efficiëntie-eerstbeginsel
+
+### ART 7.11.1.
+
+§1. De Vlaamse Regering kan aan ondernemingen, niet-commerciele instellingen en publiekrechtelijke rechtspersonen de verplichting opleggen om energie-efficiëntieoplossingen, waaronder middelen aan de vraagzijde en systeem-flexibiliteit, te beoordelen in belangrijke investeringsbeslissingen die de drempelwaarde van meer dan 100.000.000 euro elk of 175.000.000 euro voor vervoersinfrastructuurprojecten overschrijden in de volgende sectoren:<br>
+1° &nbsp;energiesystemen;<br>
+2° niet-energiesectoren, als die sectoren een impact hebben op het energieverbruik en de energie-efficiëntie, zoals de sectoren gebouwen, vervoer, water, informatie- en communicatietechnologie, landbouw en financiën.<br>
+<br>
+De Vlaamse Regering kan de drempelwaarden, vermeld in het eerste lid, verlagen.<br>
+<br>
+§2. De beoordeling van de energie-efficiëntieoplossingen, vermeld in paragraaf 1, houdt rekening met het energie-efficiëntie-eerstbeginsel.<br>
+<br>
+De Vlaamse Regering kan bepalen met welke elementen minstens rekening moet worden gehouden, in de toepassing van het energie-efficiëntie-eerstbeginsel, bij een beoordeling van energie-efficiëntieoplossingen.<br>
+<br>
+De Vlaamse Regering kan voor de beoordeling van de energie-efficiëntieoplossingen, vermeld in eerste lid, voorzien in kosten-batenmethoden die een goede beoordeling van de bredere voordelen van energie-efficiëntieoplossingen mogelijk maken.<br>
+<br>
+§3. De Vlaamse Regering kan een berekeningsmethode vaststellen die moet worden gebruikt om te bepalen of een belangrijke investeringsbeslissing de drempelwaarden, vermeld in paragraaf 1, eerste lid, overschrijdt.<br>
+<br>
+§4. De Vlaamse Regering kan uitzonderingen bepalen voor de verplichting om energie-efficiëntieoplossingen te beoordelen, vermeld in paragraaf 1, eerste lid.<br>
+<br>
+De Vlaamse Regering kan bepalen welke maatregelen van rechtswege worden geacht rekening te houden met het energie-efficiëntie-eerstbeginsel voor de uitvoering van de verplichting, vermeld in paragraaf 1. Deze maatregelen zijn onder meer de volgende:<br>
+1°&nbsp;&nbsp; &nbsp;een energiebeheersysteem;<br>
+2°&nbsp;&nbsp; &nbsp;een energieplan;<br>
+3°&nbsp;&nbsp; &nbsp;een energiestudie;<br>
+4°&nbsp;&nbsp; &nbsp;een energieaudit.<br>
+<br>
+§5. De verplichting om de beoordeling van de energie-efficiëntieoplossingen, vermeld in paragraaf 1, uit te voeren, houdt geen verplichting in om de maatregelen die als conclusie van die beoordeling worden geadviseerd uit te voeren, tenzij de toepasselijke regelgeving uitdrukkelijk anders bepaalt.<br>
+<br>
+§6. De Vlaamse Regering kan een instantie aanduiden die bevoegd is voor het toezicht op en de beoordeling van de toepassing van het energie-efficiëntie-eerstbeginsel.<br>
+&nbsp;<br>
+Het eerste lid laat de bevoegdheid van de Vlaamse Nutsregulator met betrekking tot het toezicht en de beoordeling van het energie-efficiëntie-eerstbeginsel in het kader van de investeringsplannen van distributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit, vermeld in artikel 4.1.19, onverlet.
+
+### ART 7.11.2.
+
+De Vlaamse Regering kan verplichtingen opleggen aan de Vlaamse overheid, de provinciale overheden en de gemeentelijke overheden om maatregelen voor energie-efficiëntie op te nemen in hun relevante beleidsinstrumenten, beleidsbeslissingen en planningsbeslissingen.
 
 ## TITEL VIII. TEGEMOETKOMINGEN TER BEVORDERING VAN HET RATIONEEL ENERGIEGEBRUIK, HET RATIONEEL ENERGIEBEHEER, HET GEBRUIK VAN HERNIEUWBARE ENERGIEBRONNEN [... (geschr. Decr. 14 februari 2014, art. 36, I: 6 mei 2014)]
 
@@ -4302,7 +4472,9 @@ b)&nbsp;&nbsp; &nbsp;de afname van gas;<br>
 &nbsp;<br>
 De gegevens, vermeld in het derde lid, worden beschikbaar gesteld met betrekking tot het hele openbaar bestuur alsook per gebouw met een bruik-bare vloeroppervlakte van minstens 250 m2 van dat openbaar bestuur. Een openbaar bestuur is een gebruiker van een gebouw als het de energiefac-tuur of een doorgefactureerd energieverbruik voor dat gebouw betaalt. Als een eigenaar, erfpachter of opstalhouder die onder die verplichting valt, niet de netgebruiker is voor dat gebouw, draagt de netgebruiker van het gebouw de gegevens, vermeld in het derde lid, over aan de eigenaar, erfpachter of opstalhouder.<br>
 <br>
-De fysische kenmerken van de gebouwen, vermeld in het eerste lid, omvatten minstens de bruikbare vloeroppervlakte in m2, het energieprestatielabel, het kengetal en het volledige energieprestatiecertificaat indien van toepassing.&nbsp;Als een gebouwgebruiker die onder de verplichting, vermeld in paragraaf 1, valt, niet de eigenaar, erfpachter of opstalhouder is voor dat gebouw, stelt de eigenaar, erfpachter of opstalhouder, als dat van toepassing is, een kopie van het energieprestatiecertificaat ter beschikking van de gebruiker. Aanvullend wordt voor de gebouwen meegedeeld welke andere openbare besturen de eigenaars, erfpachter, opstalhouder of gebruikers ervan zijn.<br>
+Als op een site van een openbaar bestuur meerdere gebouwen op één hoofdmeter zijn aangesloten, en er zijn geen submeters beschikbaar, dan worden in afwijking van het eerste en vijfde lid de energieverbruiks- en productiegegevens van alle gebouwen die op die hoofdmeter zijn aangesloten, ter beschikking gesteld.<br>
+<br>
+De fysische kenmerken van de gebouwen, vermeld in het eerste lid, omvatten minstens de bruikbare vloeroppervlakte in m2, het energieprestatielabel, het kengetal en het volledige energieprestatiecertificaat indien van toepassing.&nbsp;Als een gebouwgebruiker die onder de verplichting, vermeld in paragraaf 1, valt, niet de eigenaar, erfpachter of opstalhouder is voor dat gebouw, stelt de eige-naar, erfpachter of opstalhouder, als dat van toepassing is, een kopie van het energieprestatiecertificaat ter beschikking van de gebruiker. Aanvullend wordt voor de gebouwen meegedeeld welke andere openbare besturen de eigenaars, erfpachter, opstalhouder of gebruikers ervan zijn.<br>
 <br>
 §2. De verplichtingen, vermeld in paragraaf 1, zijn niet van toepassing op de openbare besturen bevoegd voor Defensie, met uitzondering van hun residentiële gebouweenheden of kantoorgebouwen.<br>
 <br>
@@ -4311,6 +4483,27 @@ De Vlaamse Regering kan voorzien in vrijstellingen of afwijkingen op de verplich
 ### ART 12.3.2.
 
 ...
+
+## HOOFDSTUK III/1. Rapporteringsverplichting over het energieverbruik van overheidsinstanties
+
+### ART 12.3.2.
+
+§1. Elke overheidsinstantie bezorgt jaarlijks en voor het eerst tegen 31 maart 2027 de energieverbruiks- en productiegegevens van haar volledige organisatie aan de unieke patrimonium- en energiedatabank die door de Vlaamse Regering wordt aangewezen en waarvan de Vlaamse Regering de technische voorwaarden kan bepalen. De voormelde gegevens hebben minstens betrekking op kalenderjaar 2021 en later, en worden jaarlijks geactualiseerd tot en met minstens twee kalenderjaren terug in de tijd. De beschikbare gegevens met betrekking tot productie, injectie, afname, verbruik van elektriciteit en aardgas worden in dat kader door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit ter beschikking gesteld van de overheidsinstantie. Op vraag van de overheidsinstantie worden door de distributienetbeheerder en de beheerder van het plaatselijk vervoernet van elektriciteit ook beschikbare gegevens met betrekking tot kalenderjaren 2019 en 2020 ter beschikking gesteld.<br>
+<br>
+De energieverbruiks- en productiegegevens van de volledige organisatie, vermeld in het eerste lid, omvatten minstens:<br>
+1° &nbsp;de jaarwaarden van minstens:<br>
+a)&nbsp;&nbsp; &nbsp;de afname, injectie en productie voor elektriciteit;<br>
+b)&nbsp;&nbsp; &nbsp;de afname van gas;<br>
+2° de energieverbruiken van energiedragers, verdeeld op basis van de werkelijk gemeten of, in geval van bulkleveringen, zo realistisch mogelijk ingeschatte verbruiken, minstens op jaarbasis.<br>
+<br>
+Voor de toepassing van deze verplichting dient de overheidsinstantie elk energieverbruik te rapporteren dat zij hetzij rechtstreeks heeft betaald, hetzij via doorgefactureerd energieverbruik heeft betaald.<br>
+&nbsp;<br>
+§2. De Vlaamse Regering kan voorzien in vrijstellingen of afwijkingen op de verplichtingen, vermeld in paragraaf 1, voor:<br>
+1°&nbsp;&nbsp; &nbsp;overheidsinstanties die industriële of commerciële activiteiten uitoefenen;<br>
+2°&nbsp;&nbsp; &nbsp;overheidsinstanties die instaan voor het openbaar vervoer;<br>
+3°&nbsp;&nbsp; &nbsp;overheidsinstanties bevoegd voor defensie.<br>
+<br>
+§3. In afwijking van paragraaf 1 en 2 dienen overheidsinstanties de gegevens die zij op grond van artikel 12.3.1 jaarlijks ter beschikking hebben gesteld voor datzelfde jaar niet opnieuw te bezorgen aan de databank, vermeld in paragraaf 1, eerste lid, voor het voldoen aan de verplichtingen, vermeld in dit artikel.
 
 ## [HOOFDSTUK IV. Databank voor premies en subsidies (ing. decr. 9 juli 2021, art. 3, I: 16 juli 2021)]
 
@@ -4473,6 +4666,12 @@ De Vlaamse Regering bepaalt de voorwaarden voor de toegang, het gebruik en de ve
 § 3. Het VEKA kan in het kader van statistische en wetenschappelijke doeleinden geanonimiseerde gegevens uit het energiedataplatform ter beschikking stellen van belanghebbende instanties. Het VEKA bepaalt onder welke voorwaarden die gegevens mogen worden gebruikt.<br>
 <br>
 § 4. Met het oog op wetenschappelijke en statistische verwerkingen worden de persoonsgegevens gedurende een periode van dertig jaar bewaard. Na die periode worden de persoonsgegevens geanonimiseerd.
+
+## HOOFDSTUK VIII. Conversiefactoren en primaire energiefactoren
+
+### ART 12.8.1.
+
+De Vlaamse Regering kan conversiefactoren en primaire energiefactoren bepalen voor de berekening en conversie van energiebesparing.
 
 ## TITEL XIII. TOEZICHT EN SANCTIES
 
@@ -5131,9 +5330,9 @@ Als de rechtspersoon die die meldingsplicht heeft, in gebreke blijft en de termi
 
 ### ART 13.4.15.
 
-§1. Als het VEKA vaststelt dat niet is voldaan aan de verplichting, vermeld in artikel 7.7.3, §1, legt het VEKA de natuurlijke persoon of de rechts- persoon op wie de voormelde verplichting rust, een administratieve geldboete op van 400 euro per kilowattpiek vermogen dat ontbreekt op het moment dat aan de verplichting, vermeld in artikel 7.7.3, §1, moet zijn voldaan.<br>
+§1. Als het VEKA vaststelt dat niet is voldaan aan de verplichting, vermeld in artikel 7.7.3, §1, maant het VEKA de natuurlijke persoon of de rechtspersoon op wie de voormelde verplichting rust aan om binnen een vastgestelde termijn de verplichting na te leven. Als de natuurlijke persoon of de rechtspersoon op wie de verplichting rust bij het verstrijken van die termijn in gebreke blijft, legt het VEKA de natuurlijke persoon of de rechts- persoon op wie de voormelde verplichting rust, een administratieve geldboete op van 400 euro per kilowattpiek vermogen dat ontbreekt op de dag waarop de voormelde termijn verstrijkt.<br>
 <br>
-Als de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, binnen twee jaar nadat de termijn is verstreken waarin de verplichting, vermeld in artikel 7.7.3, §1, moet worden uitgevoerd, niet voldoet aan de verplichting, vermeld in artikel 7.7.3, §1, legt het VEKA de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, een nieuwe administratieve geldboete op als vermeld in het eerste lid. Het VEKA past ook een nieuwe termijn van twee jaar toe waarin de &nbsp; &nbsp;voormelde verplichting alsnog moet worden nageleefd. De voormelde procedure wordt herhaald tot de verplichting, vermeld in artikel 7.7.3, §1, is nagekomen.<br>
+Als de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, binnen twee jaar nadat de aanmaningstermijn, vermeld in het eerste lid, is verstreken nog altijd, niet voldoet aan de verplichting, vermeld in artikel 7.7.3, §1, legt het VEKA de natuurlijke persoon of de rechtspersoon, vermeld in het eerste lid, een nieuwe administratieve geldboete op als vermeld in het eerste lid. Het VEKA past ook een nieuwe termijn van twee jaar toe waarin de &nbsp; &nbsp;voormelde verplichting alsnog moet worden nageleefd. De voormelde procedure wordt herhaald tot de verplichting, vermeld in artikel 7.7.3, §1, is nagekomen.<br>
 <br>
 §2. Als het VEKA vaststelt dat de meldingen, vermeld in artikel 7.7.3, §2, §3 of §4, niet zijn uitgevoerd, maant het VEKA de natuurlijke persoon of de rechtspersoon op wie de voormelde informatieverplichting rust, aan om binnen een vastgestelde termijn de voormelde informatieverplichting na te leven.<br>
 <br>
@@ -5166,6 +5365,19 @@ Als het VEKA vaststelt dat in strijd met artikel 7.8.2 de verplichting om jaarli
 <br>
 De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
+### ART 13.4.17/1.
+
+§1. Als het VEKA vaststelt dat in strijd met artikel 12.3.2 de verplichting om jaarlijks te rapporteren over de energieverbruiks- en productiegegevens van de volledige organisatie van overheidsinstanties niet tijdig of niet waarheidsgetrouw werd gerespecteerd, kan het VEKA aan de overheidsinstantie op wie de verplichting rust, een administratieve geldboete opleggen van 500 euro tot en met 50.000 euro.<br>
+<br>
+Het VEKA kan ook een nieuwe termijn vastleggen waarin de verplichtingen, vermeld in het eerste lid, moeten worden nageleefd.<br>
+<br>
+Als de overheidsinstantie in gebreke blijft als de termijn, vermeld in het tweede lid, is verstreken, kan het VEKA de overheidsinstantie een administratieve geldboete opleggen in de vorm van een dwangsom. De voormelde dwangsom bedraagt 50 euro per kalenderdag dat de termijn, vermeld in het tweede lid, wordt overschreden.<br>
+<br>
+Die administratieve geldboete kan voor een overheidsinstantie niet worden gecumuleerd met de sanctie, vermeld in artikel 13.4.16.<br>
+<br>
+§2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.<br>
+&nbsp;
+
 ## Afdeling XI. Administratieve sancties wegens het niet-naleven van de meldingsplicht voor gebouwen
 
 ### ART 13.4.18.
@@ -5175,6 +5387,61 @@ Als het VEKA vaststelt dat de meldingen, vermeld in artikel 11.2.1, niet zijn ui
 Als de rechtspersoon die die meldingsplicht heeft, in gebreke blijft en de termijn die het VEKA heeft vastgesteld, vermeld in het eerste lid, verstreken is, legt het VEKA, in afwijking van artikel 13.4.11, §1, 3°, de rechtspersoon die die meldingsplicht heeft, een administratieve geldboete op in de vorm van een dwangsom. Die dwangsom bedraagt 100 euro per dag dat de vastgestelde termijn, vermeld in het eerste lid, wordt overschreden.<br>
 <br>
 De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
+## Afdeling XI/1. Administratieve sancties wegens niet-naleving van de verplichtingen met betrekking tot het opstellen van lokale verwarmings- en koelingsplannen
+
+### ART 13.4.19/1.
+
+§1. Als het VEKA vaststelt dat in strijd met de verplichting om een lokaal verwarmings- en koelingsplan op te stellen en goed te keuren, vermeld in artikel 4/1.4.1, het lokaal verwarmings- en koelingsplan niet tijdig en correct werd opgesteld en goedgekeurd of het ontwerp van lokaal verwarmings- en koelingsplan niet tijdig aan het VEKA voor beoordeling werd bezorgd, kan het VEKA aan de gemeente op wie de verplichting rust, een administratieve geldboete opleggen die niet lager is dan 1000 euro, en niet hoger dan 200.000 euro.<br>
+<br>
+Het VEKA kan ook een nieuwe termijn vastleggen waarin de verplichtingen, vermeld in het eerste lid, moeten worden nageleefd.<br>
+<br>
+Als de gemeente in gebreke blijft bij het verstrijken van de termijn, vermeld in het tweede lid, kan het VEKA de gemeente een administratieve geldboete in de vorm van een dwangsom opleggen. De voormelde dwangsom bedraagt 100 euro per kalenderdag per volledige schijf van 10.000 inwoners van de gemeente dat de nieuwe termijn, vermeld in het tweede lid, wordt overschreden. De administratieve geldboete in de vorm van een dwangsom bedraagt maximaal 200.000 euro.<br>
+<br>
+Voor de berekening van het aantal inwoners, vermeld in het derde lid, wordt uitgegaan van het inwonersaantal op 1 januari van het kalenderjaar waarin de nieuwe termijn, vermeld in het tweede lid, verstrijkt.<br>
+<br>
+§2. De procedure omschreven in artikel 13.4.8 is van overeenkomstige toepassing.
+
+## Afdeling XII. Administratieve sancties wegens overtreding of niet-naleving van de rapporteringsverplichtingen voor datacenters
+
+### ART 13.4.19/2.
+
+Als het VEKA vaststelt dat in strijd met artikel 7.8/1.1 de verplichting voor eigenaars en exploitanten van datacenters om jaarlijks informatie over de energieprestaties van datacentra te bezorgen, niet werd nagekomen, kan het VEKA aan de eigenaars en exploitanten waarop die verplichting rust een administratieve geldboete opleggen van 500 euro tot en met 10.000 euro.<br>
+&nbsp;<br>
+Het VEKA kan ook een nieuwe termijn vastleggen waarbinnen de verplichting, vermeld in het eerste lid, alsnog moeten worden nageleefd.<br>
+<br>
+Als het VEKA vaststelt dat bij het verstrijken van de nieuwe termijn, vermeld in het derde lid, nog steeds niet aan de verplichting, vermeld in artikel 7.8/1.1 is voldaan, kan het VEKA een dwangsom opleggen. De dwangsom mag niet minder dan 150 euro per kalenderdag bedragen, noch meer dan 1000 euro per kalenderdag, noch mag de dwangsom in totaal hoger zijn dan 50.000 euro of 3 procent van de omzet die de betrokken overtreder heeft gerealiseerd in het Vlaamse Gewest tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.<br>
+<br>
+De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
+## Afdeling XIII. Administratieve sancties wegens niet-naleving van de eisen inzake systemen voor stadsverwarming- en koeling
+
+### ART 13.4.20.
+
+§1. Als het VEKA vaststelt dat niet aan de eisen vastgesteld door of krachtens artikel 7.10.1 is voldaan, kan het VEKA aan de natuurlijke persoon of rechtspersoon die verantwoordelijk is voor de naleving van de eisen een administratieve geldboete opleggen.<br>
+<br>
+De administratieve geldboete, vermeld in het eerste lid, bedraagt 50.000 euro per MW bruto thermisch vermogen van het systeem voor stadsverwarming- of koeling, met in ieder geval een minimum van 5000 euro en een maximum van<br>
+1.000.000 euro.<br>
+<br>
+Het VEKA kan ook een nieuwe termijn vastleggen waarbinnen de betreffende eisen, vermeld in artikel 7.10.1, alsnog moeten worden nageleefd.<br>
+<br>
+Als het VEKA vaststelt dat bij het verstrijken van de nieuwe termijn, vermeld in het derde lid, nog steeds niet aan de eisen vastgesteld door of krachtens artikel 7.10.1 is voldaan, kan het VEKA aan de natuurlijke persoon of de rechtspersoon die verantwoordelijk is voor de naleving van de eisen een administratieve geldboete in de vorm van een dwangsom opleggen. De dwangsom bedraagt 500 euro per MW bruto thermisch vermogen van het systeem voor stadsverwarming- of koeling per kalenderdag dat de nieuwe termijn, vermeld in het derde lid, wordt overschreden en de eisen niet zijn nageleefd. De administratieve geldboete in de vorm van een dwangsom bedraagt maximaal 1.000.000 euro.<br>
+<br>
+§2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
+
+## Afdeling XIV. Administratieve sancties wegens niet-naleving van de verplichtingen inzake de toepassing van het energie-efficiëntie-eerstbeginsel
+
+### ART 13.4.21.
+
+§1. Als het VEKA vaststelt dat niet aan de eisen vastgesteld door of krachtens artikel 7.11.1 is voldaan, kan het VEKA aan de natuurlijke persoon of rechtspersoon die verantwoordelijk is voor het naleven van de eisen een administratieve geldboete opleggen.<br>
+<br>
+De administratieve geldboete, vermeld in het eerste lid, mag niet minder dan 500 euro bedragen, noch meer dan 50.000 euro.<br>
+<br>
+Het VEKA kan ook een nieuwe termijn vastleggen waarbinnen de betreffende eisen alsnog moeten worden nageleefd.<br>
+<br>
+Als het VEKA vaststelt dat bij het verstrijken van de nieuwe termijn, vermeld in het derde lid, nog steeds niet aan de eisen vastgesteld door of krachtens artikel 7.11.1 is voldaan, kan het VEKA een dwangsom opleggen. De dwangsom mag niet minder dan 250 euro per kalenderdag bedragen, noch meer dan 25.000 euro per kalenderdag, noch mag de dwangsom in totaal hoger zijn dan 1.000.000 euro of 3 procent van de omzet die de betrokken overtreder heeft gerealiseerd in het Vlaamse Gewest tijdens het laatste afgelopen boekjaar, als dat laatste bedrag lager is.<br>
+<br>
+§2. De procedure, vermeld in artikel 13.4.8, is van overeenkomstige toepassing.
 
 ## HOOFDSTUK V. [Administratieve sancties opgelegd door de Vlaamse Belastingdienst (verv. decr. 23 december 2016, art. 8, I: 8 januari 2017)]
 
