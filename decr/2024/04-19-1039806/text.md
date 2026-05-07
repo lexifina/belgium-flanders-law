@@ -10,7 +10,8 @@ Dit decreet regelt een gewestaangelegenheid.
 
 Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest betreft, in de gedeeltelijke omzetting van:<br>
 1° de richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG;<br>
-2° de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU.
+2° de richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU;<br>
+3° de richtlijn (EU) 2023/1791 van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van Verordening (EU) 2023/955.
 
 ### ART 3.
 
@@ -94,6 +95,7 @@ Om zijn missie waar te maken, vervult de Vlaamse Nutsregulator de volgende toezi
 &nbsp; o) toezicht houden op de naleving van de technische reglementen voor elektriciteit en aardgas;<br>
 &nbsp; p) het uitvoeren van de beoordeling en het aanduiden van mogelijke passende maatregelen, vermeld in lid 3 en 4 van artikel 15 van de verordening (EU) 2023/1804 van 13 september 2023 betreffende de uitrol van infrastructuur voor alternatieve brandstoffen en tot intrekking van Richtlijn 2014/94/EU;<br>
 &nbsp; q) het toezicht op de naleving van codes van goede praktijk en vrijwillige akkoorden die met betrekking tot de Vlaamse elektriciteits- en gasmarkt worden gesloten met marktpartijen;<br>
+&nbsp; r) het toezicht en de controle op de door de distributienetbeheerders en plaatselijk vervoernetbeheerder gebruikte methoden voor wat betreft het toepassen van het energie-efficiëntie-eerstbeginsel inzake hun netplanning, netexploitatie inclusief netverliezen, netontwikkeling en investeringen.<br>
 2° thermische energie:<br>
 &nbsp; a) toezicht houden op de kwaliteit van de dienstverlening van de warmte- of koudeleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers van thermische energie;<br>
 &nbsp; b) toezicht houden op de zekerheid en betrouwbaarheid van de warmte- of koudenetten, alsook op de kwaliteit van de dienstverlening van de warmte- of koudenetbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de warmte- of koudenetbeheerders nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
@@ -120,12 +122,14 @@ h)&nbsp;&nbsp; &nbsp;waken over de uitvoering van artikel 2.2.2, §2/1, van het 
 
 Om zijn missie waar te maken, vervult de Vlaamse Nutsregulator de volgende regulerende taken:<br>
 1° elektriciteit en aardgas:<br>
-&nbsp; a) de regulering van de toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of de overgangsmaatregelen daarover, overeenkomstig de bepalingen van dit decreet;<br>
-&nbsp; b) de goedkeuring van de voorwaarden voor de aansluiting op en de toegang tot het elektriciteitsdistributienet, het aardgasdistributienet en het plaatselijk vervoernet van elektriciteit en voor de verstrekking van ondersteunende diensten en flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied. Die ondersteunende diensten en flexibiliteitsdiensten voldoen aan de volgende voorwaarden:<br>
-&nbsp; &nbsp; 1) ze worden zo economisch mogelijk uitgevoerd en bieden passende stimuleringsmaatregelen voor netgebruikers om hun input en output op elkaar af te stemmen;<br>
-&nbsp; &nbsp; 2) ze worden op billijke en niet-discriminerende wijze verstrekt en zijn gebaseerd op objectieve criteria;<br>
+a) de regulering van de toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of de overgangsmaatregelen daarover, overeenkomstig de bepalingen van dit decreet;<br>
+b) de goedkeuring van de voorwaarden voor de aansluiting op en de toegang tot het elektriciteitsdistributienet, het aardgasdistributienet en het plaatselijk vervoernet van elektriciteit en voor de verstrekking van ondersteunende diensten en flexibiliteitsdiensten, voor het beheer van lokale congestie binnen hun dekkingsgebied. Die ondersteunende diensten en flexibiliteitsdiensten voldoen aan de volgende voorwaarden:<br>
+1) ze worden zo economisch mogelijk uitgevoerd en bieden passende stimuleringsmaatregelen voor netgebruikers om hun input en output op elkaar af te stemmen;<br>
+2) ze worden op billijke en niet-discriminerende wijze verstrekt en zijn gebaseerd op objectieve criteria;<br>
 2° water:<br>
-&nbsp; a) de controle op de correcte naleving van de regels zoals vastgelegd door de Vlaamse Regering in uitvoering van artikel 2.5.2.1.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en het goedkeuren van de maximumtarieven die de exploitanten van een openbaar of privaat waterdistributienetwerk kunnen aanrekenen.
+a) de controle op de correcte naleving van de regels zoals vastgelegd door de Vlaamse Regering in uitvoering van artikel 2.5.2.1.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, en het goedkeuren van de maximumtarieven die de exploitanten van een openbaar of privaat waterdistributienetwerk kunnen aanrekenen.<br>
+<br>
+Bij het vervullen van de regulerende taken, vermeld in het eerste lid, 1°, past de Vlaamse Nutsregulator het energie-efficiëntie-eerstbeginsel toe. Naast het energie-efficiëntie-eerstbeginsel kan de Vlaamse Nutsregulator ook rekening houden met kostenefficiëntie, systeemefficiëntie, bevoorradingszekerheid en marktintegratie.
 
 ## Onderafdeling 4. Taken inzake bemiddeling en geschillenbeslechting
 
@@ -138,8 +142,8 @@ Om zijn missie waar te maken, vervult de Vlaamse Nutsregulator de volgende taken
 &nbsp; c) het bemiddelen in geschillen over de verplichtingen van de dienstverleners van flexibiliteit en aggregatoren, vermeld in titel IV, afdeling V/1, van het Energiedecreet van 8 mei 2009 en de uitvoeringsbepalingen ervan;<br>
 &nbsp; d) het beslechten van geschillen over de verplichtingen van de dienstverleners van flexibiliteit en aggregatoren, vermeld in titel IV, afdeling V/1, van het Energiedecreet van 8 mei 2009 en zijn uitvoeringsbepalingen;<br>
 2° thermische energie:<br>
-&nbsp; a) het bemiddelen in geschillen tegen een warmte- of koudenetbeheerder over zijn verplichtingen, vermeld in titel IV/1 en VI van het Energiedecreet van 8 mei 2009 en in de uitvoeringsbepalingen ervan;<br>
-&nbsp; b) het beslechten van geschillen tegen een warmte- of koudenetbeheerder over zijn verplichtingen, vermeld in titel IV/1 en VI van het Energiedecreet van 8 mei 2009 en in de uitvoeringsbepalingen ervan;<br>
+&nbsp; a) het bemiddelen in geschillen tegen een warmte- of koudenetbeheerder over zijn verplichtingen, vermeld in titel IV/1, V, VI en de hoofdstukken I tot en met IV van titel VII van het Energiedecreet van 8 mei 2009 en in de uitvoeringsbepalingen ervan;<br>
+&nbsp; b) het beslechten van geschillen tegen een warmte- of koudenetbeheerder over zijn verplichtingen, vermeld in titel IV/1, V, VI en de hoofdstukken I tot en met IV van titel VII van het Energiedecreet van 8 mei 2009 en in de uitvoeringsbepalingen ervan;<br>
 3° koolstofdioxide: het beslechten van geschillen over de toepassing van de toegang tot een lokale cluster, het vervoernetwerk, een terminal voor vloeibaarmaking of een gesloten industrieel net voor koolstofdioxide als vermeld in het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest.
 
 ## Onderafdeling 5. Informerende taken
