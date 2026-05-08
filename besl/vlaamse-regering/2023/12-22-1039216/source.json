@@ -2,16 +2,16 @@
   "codex_id": 1039216,
   "title": "Besluit van de Vlaamse Regering van 2023-12-22 tot vastlegging van het startquotum voor de opleiding geneeskunde en voor de opleiding tandheelkunde",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039216/VolledigDocument?datum=2024-03-01",
-  "source_sha256": "21f5ba548b45c5451dc055b8869a4cf826bab2988c65390aea7ca71490631dca",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039216/VolledigDocument?datum=2026-05-08",
+  "source_sha256": "01763e27d177a68d2c50002deadd75477e03c9b0f40f6c33278c921596723046",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039216&param=informatie",
-  "as_of": "2024-03-01",
+  "as_of": "2026-05-08",
   "made": "2023-12-22",
   "gazette": "2024-01-19",
   "numac": 2024000294,
   "document_start": "2024-03-01",
   "document_end": "2026-05-07",
-  "in_force": "2024-03-01",
+  "in_force": "2026-05-08",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2024-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-05-08; future article versions excluded; article text as the API gives it"
 }
