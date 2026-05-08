@@ -82,9 +82,7 @@ De landcommissie kan de initiërende overheid bijkomende informatie, als vermeld
 <br>
 Om de vermoede meerwaarde, vermeld in het eerste lid, te bepalen, berekent de landcommissie conform artikel 14, §3, van het Instrumentendecreet van 26 mei 2023 en artikel 31 en 32, paragraaf 1 van het besluit van de Vlaamse Regering van 22 maart 2024 betreffende het realisatiegericht instrumentarium de eigenaarswaarde vóór en na de bestemmingswijziging, vermeld in artikel 2.6.4 van de Vlaamse Codex Ruimtelijke Ordening, voor het perceelsdeel waarop de bestemmingswijziging van toepassing is. Hierbij wordt het begrip ‘gebruiksbeperking’ in artikel 14, §3, van het Instrumentendecreet van 26 mei 2023 en artikel 31 van het besluit van de Vlaamse Regering van 22 maart 2024 betreffende het realisatiegericht instrumentarium gelezen als ‘bestemmingswijziging’.&nbsp;<br>
 <br>
-§2. De eigenaarswaardes die gehanteerd worden voor berekening van de vermoede meerwaarde worden verantwoord in een verslag dat als bijlage bij het ontwerp van meerwaarderapport wordt gevoegd, en dat:<br>
-1°&nbsp;&nbsp; &nbsp;voldoet aan de vereisten bepaald in artikel 3.3.1.0.9/1, §3, 3° en 4° van de Vlaamse Codex Fiscaliteit van 13 december 2013, met uitzondering van de belastbare grondslag van het vergelijkingspunt;<br>
-2°&nbsp;&nbsp; &nbsp;aangeeft op welke manier rekening gehouden is met de factoren als vermeld in artikel 14, §3, eerste lid, van het Instrumentendecreet van 26 mei 2023, en met welke andere factoren desgevallend rekening is gehouden.
+§2. De eigenaarswaardes die gehanteerd worden voor berekening van de vermoede meerwaarde worden verantwoord in een verslag dat als bijlage bij het ontwerp van meerwaarderapport wordt gevoegd, en dat voldoet aan de vereisten, vermeld in artikel 31 van het besluit van de Vlaamse Regering van 22 maart 2024 over het realisatiegericht instrumentarium.
 
 ### ART 1/6.
 
