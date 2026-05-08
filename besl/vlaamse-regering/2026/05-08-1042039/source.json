@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042039,
+  "title": "Besluit van de Vlaamse Regering van 2026-05-08 tot vastlegging van het startquotum voor de opleiding geneeskunde en voor de opleiding tandheelkunde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042039/VolledigDocument?datum=2026-05-08",
+  "source_sha256": "e5fbac40830a46402639f8a5edd01a9595d2cd61e81bc0f815c6726b519def43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042039&param=informatie",
+  "as_of": "2026-05-08",
+  "made": "2026-05-08",
+  "gazette": "2026-05-29",
+  "numac": 2026003924,
+  "document_start": "2026-05-08",
+  "document_end": null,
+  "in_force": "2026-05-08",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-05-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
