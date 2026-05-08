@@ -2,16 +2,16 @@
   "codex_id": 1039562,
   "title": "Besluit van de Vlaamse Regering van 2024-03-22 over het realisatiegericht instrumentarium",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039562/VolledigDocument?datum=2024-04-15",
-  "source_sha256": "f467428f768f24daeb9aa8df70d27f4158f584cef0e6ebeb92558532c81e4b49",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039562/VolledigDocument?datum=2026-05-08",
+  "source_sha256": "656736e29570f6596d1afb3d68d694555126dcbb83c4ebdcedb2a36bf9520c2d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039562&param=informatie",
-  "as_of": "2024-04-15",
+  "as_of": "2026-05-08",
   "made": "2024-03-22",
   "gazette": "2024-04-10",
   "numac": 2024003123,
   "document_start": "2024-04-15",
   "document_end": null,
-  "in_force": "2024-04-15",
+  "in_force": "2026-05-08",
   "article_versions": 102,
-  "record_form": "consolidated version as in force on 2024-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-05-08; future article versions excluded; article text as the API gives it"
 }

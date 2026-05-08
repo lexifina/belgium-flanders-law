@@ -2674,10 +2674,12 @@ De initiatiefnemer of de betrokken instantie bezorgt alle informatie aan de land
 ### ART 31.
 
 Indien de aanvrager voldoet aan de voorwaarden om recht te hebben op een compenserende vergoeding, bevat het schaderapport het schattingsverslag met de analyse die leidt tot de eigenaarswaarde voor en na de gebruiksbeperking. Het schattingsverslag:<br>
-1° voldoet aan de vereisten bepaald in artikel 3.3.1.0.9/1, §3, 3° en 4° van de Vlaamse Codex Fiscaliteit van 13 december 2013, met uitzondering van de vermelding van de belastbare grondslag van het vergelijkingspunt;<br>
+1° bevat een schatting van de venale waarde die verloopt volgens een gestandaardiseerde methode en die voldoet aan de vereisten, vermeld in artikel 3.3.1.0.9/1, §3, 3°, b), van de Vlaamse Codex Fiscaliteit van 13 december 2013, met uitzondering van de vermelding van de belastbare grondslag van het vergelijkingspunt, en in artikel 3.3.1.0.9/1, §3, 4°, van de voormelde codex;<br>
 2° geeft aan op welke manier rekening gehouden is met de factoren, vermeld in artikel 14, §3, eerste lid, van het Instrumentendecreet van 26 mei 2023, en met welke andere factoren desgevallend rekening is gehouden.<br>
 <br>
-De referentiedatum van de schatting is de datum waarop het recht op de eigenaarsvergoeding ontstaat.
+De referentiedatum van de schatting is de datum waarop het recht op de eigenaarsvergoeding ontstaat.<br>
+<br>
+Voor de toepassing van het eerste lid, 1° keurt de Vlaamse minister, bevoegd voor de omgeving en de natuur, een gestandaardiseerde methode goed die wordt voorgesteld door de Landcommissies.
 
 ## Afdeling 2. De objectieve factoren voor het bepalen van de eigenaarswaarde
 
@@ -2701,7 +2703,15 @@ De referentiedatum van de schatting is de datum waarop het recht op de eigenaars
 <br>
 Naast de factoren als vermeld in artikel 14, §3, eerste lid, van het Instrumentendecreet van 26 mei 2023, kan de landcommissie bij het bepalen van de eigenaarswaarde ook rekening houden met de situering van het perceel of perceelsdeel ten opzichte van andere gronden in eigendom van dezelfde eigenaar, als die eigendomssituatie bekend is.&nbsp;<br>
 <br>
-§2. Met de factoren als vermeld in artikel 14, §3, eerste lid, 8° en 9° van het voormelde decreet wordt als volgt rekening gehouden: indien voor het perceel of perceelsdeel een planbatenheffing was verschuldigd die met toepassing van artikel 2.6.14, §1 of §2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 nog niet werd betaald, en de compenserende vergoeding betreft een planschadevergoeding, dan wordt de overeenkomstig artikel 31 en 32, §1 van dit besluit bepaalde eigenaarswaarde van het goed voorafgaand aan de inwerkingtreding van de gebruiksbeperking, verminderd met het bedrag van die planbatenheffing, ongeacht de toepassing van artikel 2.6.14, §3 van dezelfde codex naar aanleiding van de bestemmingswijziging die aanleiding geeft tot de gebruiksbeperking.
+§2. Als voor het perceel of perceelsdeel een planbatenheffing was verschuldigd die met toepassing van artikel 2.6.14, §1 of §2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 nog niet werd betaald, en de compenserende vergoeding betreft een planschadevergoeding, dan wordt de overeenkomstig artikel 31 en 32, §1 van dit besluit bepaalde eigenaarswaarde van het goed voorafgaand aan de inwerkingtreding van de gebruiksbeperking, verminderd met het bedrag van die planbatenheffing, ongeacht de toepassing van artikel 2.6.14, §3 van dezelfde codex naar aanleiding van de bestemmingswijziging die aanleiding geeft tot de gebruiksbeperking.<br>
+<br>
+Met de factoren, vermeld in artikel 14, §3, eerste lid, 8° en 9°, van het Instrumentendecreet van 26 mei 2023, wordt op de wijze, vermeld in het derde en vierde lid, rekening gehouden als de compenserende vergoeding een planschadevergoeding is als vermeld in artikel 6, 1°, van het voormelde decreet.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Om de eigenaarswaarde voorafgaand aan de inwerkingtreding van de gebruiksbeperking te bepalen, wordt op de waarde die wordt verkregen door de gestandaardiseerde methode, vermeld in artikel 31, toe te passen, een coëfficiënt toegepast die uitgaat van het geometrische gemiddelde van de volgende twee factoren:<br>
+1° het aantal volledige kalenderjaren tussen het tijdstip van de verwerving en het tijdstip van de inwerkingtreding van de gebruiksbeperking;<br>
+2° het aantal volledige kalenderjaren tussen het tijdstip dat het perceel de bestemming verkreeg die gold op de dag voorafgaand aan de inwerkingtreding van de gebruiksbeperking, en het tijdstip van de inwerkingtreding van de gebruiksbeperking.<br>
+&nbsp;&nbsp; &nbsp;<br>
+De coëfficiënt, vermeld in het derde lid, is 1 gedurende de eerste zeven jaar en is niet lager dan 0,7. &nbsp;Het minimum van 0,7 geldt als de ouderdom van de verwerving en de ouderdom van de bestemming allebei 25 jaar of meer bedragen. De coëfficiënt, vermeld in het derde lid, is voor het overige proportioneel met het geometrische gemiddelde van de factoren, vermeld in het derde lid.
 
 ### ART 33.
 
