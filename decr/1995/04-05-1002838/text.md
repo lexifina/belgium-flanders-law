@@ -1726,13 +1726,15 @@ a) beschikt over een geldige door België verleende exploitatievergunning confor
 b) niet beschikt over een exploitatievergunning verleend door een lidstaat van de Europese Unie, of een daarmee gelijkgestelde vergunning verleend door een derde land ofwel een ICAO-telefonieaanduiding en waarvan de maatschappelijke zetel van de rechtspersoon in België is gevestigd.<br>
 Wordt niet beschouwd als een CORSIA-vliegtuigexploitant: een luchtvaartmaatschappij opgenomen in de bijlage bij verordening (EG) 748/2009 van de Commissie van 5 augustus 2009 betreffende de lijst van vliegtuigexploitanten die op of na 1 januari 2006 een in bijlage I bij richtlijn 2003/87/EG genoemde luchtvaartactiviteit hebben uitgeoefend, met specificatie van de administrerende lidstaat van elke vliegtuigexploitant, die conform deze bijlage een andere administrerende lidstaat dan België heeft;<br>
 4° eerste verbintenisperiode: de periode van 1 januari 2008 tot en met 31 december 2012;<br>
-5° emissie: de emissie van broeikasgassen in de atmosfeer door bronnen die aanwezig zijn in een BKG-installatie, of de emissie door een vliegtuig van CO2 ten gevolge van een luchtvaartactiviteit;<br>
+5° emissie: de emissie van broeikasgassen door bronnen die aanwezig zijn in een BKG-installatie, de emissie van broeikasgassen door een vliegtuig dat een luchtvaartactiviteit uitoefent, of de emissie van CO2 door de verbranding van brandstoffen die zijn uitgeslagen tot verbruik;<br>
 6° emissierecht: een overdraagbaar recht om gedurende een bepaalde periode of handels- periode één ton CO2-equivalent aan broeikasgassen uit te stoten;<br>
 6° /1 gedelegeerde verordening (EU) 2019/1603: de gedelegeerde verordening (EU) 2019/1603 van de Commissie van 18 juli 2019 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat betreft de door de Internationale Burgerluchtvaartorganisatie aangenomen maatregelen voor de monitoring, rapportage en verificatie van luchtvaartemissies ter uitvoering van een wereldwijde marktgebaseerde maatregel;<br>
 7° handelsperiode: de eerste verbintenisperiode of de tweede verbintenisperiode;<br>
+7°/1 IPCC-richtsnoeren: de richtsnoeren die de Intergouvernementele Werkgroep inzake Klimaatverandering opgesteld heeft voor nationale broeikasgasinventarissen van 2006, of latere herzieningen van die richtsnoeren;<br>
 8° klimaatfonds: het Vlaamse Klimaatfonds, opgericht bij artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012;<br>
 9° luchthavenbeheerder: de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven waaraan de meeste luchtvaartactiviteiten van de vlieg- tuigexploitant worden toegeschreven in het referentiejaar. In het geval dat er aan meerdere luchthavens evenveel luchtvaartactiviteiten worden toegeschreven, is de luchthavenbeheerder de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven waarvoor de CO2-emissies van de aan haar toegeschreven luchtvaartactiviteiten het grootste zijn;<br>
 10° luchtvaartactiviteit: een activiteit als vermeld in bijlage VI bij dit decreet;<br>
+10°/1 monitoringplan: een document om de emissies te bewaken;<br>
 11° Nationale Klimaatcommissie: de commissie, vermeld in artikel 3 van het samenwerkingsakkoord van 14 november 2002 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende het opstellen, het uitvoeren en het opvolgen van een Nationaal Klimaatplan, alsook het rapporteren, in het kader van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering en het Protocol van Kyoto;<br>
 12° periode: de duur waarvoor er een vast volume emissierechten wordt toegewezen dat bestemd is om de emissies van een luchtvaartactiviteit te dekken, in casu van 1 januari tot en met 31 december 2012 (eerste periode), van 1 januari 2013 tot en met 31 december 2020 (tweede periode) enzovoort;<br>
 13° Protocol van Kyoto: het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gesloten in Kyoto op 11 december 1997 en goedgekeurd bij het decreet van 22 februari 2002;<br>
@@ -1876,6 +1878,162 @@ In het eerste lid wordt verstaan onder Bijzondere Reserve-emissierechtenbesluit:
 
 &nbsp;§ 1. Een vliegtuigexploitant beschikt jaarlijks uiterlijk op 1   januari over een goedgekeurd emissiemonitoringplan. Het emissiemonitoringplan   wordt binnen vier maanden na de indiening door de vliegtuigexploitant   geverifieerd en, in voorkomend geval, goedgekeurd door de bevoegde autoriteit.   Goedgekeurde emissiemonitoringplannen worden door de bevoegde autoriteit ter   bekrachtiging voorgelegd aan de Nationale Klimaatcommissie.<BR><BR>In afwijking   van het eerste lid bepaalt de Vlaamse Regering vanaf wanneer een   vliegtuigexploitant die een luchtvaartactiviteit aanvangt na 31 december 2012,   moet beschikken over een goedgekeurd emissiemonitoringplan. De   vliegtuigexploitant past zijn goedgekeurde emissiemonitoringplan aan en legt het   opnieuw ter goedkeuring voor aan de bevoegde autoriteit als er zich tijdens het   lopende kalenderjaar nader door de Vlaamse Regering te bepalen wijzigingen   voordoen die een impact hebben op de monitoringmethodologie. Het   emissie-monitoringplan wordt binnen vier maanden na de indiening door de   vliegtuigexploitant geverifieerd en, in voorkomend geval, goedgekeurd door de   bevoegde autoriteit.<BR><BR>De Vlaamse Regering kan nadere regels en procedures   bepalen voor de inhoud, de indiening, de verificatie en de goedkeuring van een   emissiemonitoringplan en voor de wijziging of de verbetering ervan.<BR><BR>§ 2.   Een vliegtuigexploitant dient elk jaar uiterlijk op de tweede donderdag van de   maand maart een als bevredigend geverifieerd emissieverslag in samen met het   verificatierapport. De bevoegde autoriteit controleert of het emissieverslag is   geverifieerd conform de criteria, vermeld in bijlage V van Richtlijn 2003/87/EG   en de verordening nr. 600/2012, en keurt het emissieverslag in voorkomend geval   goed.<BR><BR>Een vliegtuigexploitant waarvan het emissieverslag van het   voorgaande kalenderjaar uiterlijk op 31 maart van het lopende jaar niet is   geverifieerd als bevredigend, mag geen emissierechten meer overdragen tot het   rapport als bevredigend is geverifieerd.<BR><BR>§ 3. De Vlaamse Regering kan   nadere regels en procedures bepalen voor de inhoud, de indiening, de   verificatie, de controle en de goedkeuring van een emissieverslag.<BR><BR>§ 4.   Een vliegtuigexploitant levert elk jaar uiterlijk tegen 30 april emissierechten   in ter dekking van de CO2-emissies van het voorgaande jaar.<BR><BR>De Vlaamse   Regering kan voor het inleveren van emissierechten nadere regels en procedures   bepalen.
 
+## HOOFDSTUK IIIBIS BEPALINGEN OVER DE GEBOUWENSECTOR, DE WEGVERVOERSSECTOR EN AANVULLENDE SECTOREN
+
+### ART 8.3.6bis.
+
+In dit hoofdstuk wordt verstaan onder:<br>
+1° aanvullende sectoren: alle emissies uit verbranding en evaporatie van brandstoffen in de bewerkende en verwerkende industrie, in de bouw en in de energie-industrieën, met uitzondering van warmte-krachtkoppelingen en warmtecentrales die behoren tot de gebouwensector, in overeenstemming met de IPCC-richtsnoeren, meer bepaald broncategoriecodes 1A2 en 1A1;<br>
+2° brandstof: elk energieproduct als vermeld in artikel 415, §1, van de programmawet van 27 december 2004, met uitzondering van elektriciteit en met inbegrip van de brandstoffen, vermeld in tabel A en tabel C van bijlage I bij richtlijn 2003/96/EG van de Raad van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit, en elk ander product dat voor gebruik bedoeld is, dat te koop wordt aangeboden of dat wordt gebruikt als motor- of verwarmingsbrandstof als vermeld in artikel 416 en 417 van de voormelde wet, ook voor de productie van elektriciteit;<br>
+3° eindverbruiker: elke natuurlijke of rechtspersoon die de eindverbruiker is van brandstof, en van wie het jaarlijkse brandstofverbruik niet meer dan 1 ton CO2 bedraagt;<br>
+4° gebouwensector: alle emissies uit verbranding en evaporatie van brandstoffen in commerciële en institutionele gebouwen, in voor bewoning bestemde gebouwen en uit warmte-krachtkoppelingen en warmtecentrales, op voorwaarde dat ze rechtstreeks of via stadsverwarmingsnetten warmte produceren voor commerciële en institutionele gebouwen en voor bewoning bestemde gebouwen, in overeenstemming met de IPCC-richtsnoeren, meer bepaald broncategoriecodes 1A4a, 1A4b, 1A1a ii en 1A1a iii;<br>
+5° gereglementeerde entiteit: elk van de volgende natuurlijke of rechtspersonen die worden geïdentificeerd aan de hand van de maatschappelijke zetel of de gewoonlijke verblijfplaats, met uitzondering van de eindverbruiker van de brandstoffen, die de activiteiten, vermeld in artikel 8.3.6ter, §1, eerste lid, uitoefent:<br>
+a)&nbsp;&nbsp; &nbsp;als de brandstof door een belastingentrepot als vermeld in artikel 5, §1, 9°, van de wet van 22 december 2009 passeert: de erkende entrepothouder, vermeld in artikel 5, §1, 8°, van de voormelde wet, die de accijns moet betalen op grond van artikel 7 van de voormelde wet;<br>
+b)&nbsp;&nbsp; &nbsp;als punt a) niet van toepassing is, elke andere natuurlijke of rechtspersoon die de accijns moet betalen voor de brandstoffen op grond van artikel 7 van de wet van 22 december 2009 of artikel 421, 422, 424, §1 en §2, en artikel 425 van de programmawet van 27 december 2004;<br>
+c)&nbsp;&nbsp; &nbsp;als punt a) en b) niet van toepassing zijn, elke andere natuurlijk of rechtspersoon die door de relevante bevoegde Belgische autoriteiten moet worden geregistreerd om de accijns te betalen, met inbegrip van natuurlijke of rechtspersonen die vrijgesteld zijn van de betaling van de accijns, vermeld in artikel 425, eerste lid, van de programmawet van 27 december 2004;<br>
+d)&nbsp;&nbsp; &nbsp;als punt a), b) en c) niet van toepassing zijn of als meerdere natuurlijke of rechtspersonen hoofdelijk gehouden zijn tot de betaling van dezelfde accijns: elke andere natuurlijke of rechtspersoon die door de bevoegde autoriteit is aangewezen;<br>
+6° uitslag tot verbruik: uitslag tot verbruik als vermeld in artikel 6, §2, van de wet van 22 december 2009;<br>
+7° wegvervoerssector: alle emissies uit verbranding en evaporatie van brandstoffen in voertuigen, met uitzondering van het gebruik van landbouwvoertuigen op verharde wegen en op onverhard terrein, in overeenstemming met de IPCC-richtsnoeren, meer bepaald broncategoriecode 1A3b;<br>
+8° wet van 22 december 2009: de wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen.
+
+### ART 8.3.6ter.
+
+§1. Dit hoofdstuk is van toepassing op de uitslag tot verbruik van brandstoffen die worden gebruikt voor verbranding in de gebouwensector, de wegvervoerssector en aanvullende sectoren, met uitsluiting van de volgende elementen:<br>
+1°&nbsp;&nbsp; &nbsp;de uitslag tot verbruik van brandstoffen die worden gebruikt door BKG-installaties, door luchtvaartexploitanten in het kader van luchtvaartactiviteiten of door scheepvaartmaatschappijen in het kader van maritieme vervoersactiviteiten, behalve als ze worden gebruikt voor verbranding bij de activiteiten voor<br>
+het vervoer van broeikasgassen voor geologische opslag in een opslaglocatie waarvoor een vergunning is verleend krachtens richtlijn 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van Richtlijn 85/337/EEG van de Raad, de Richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad;<br>
+2° uitsluitend de uitslag tot verbruik van brandstoffen waarvoor de emissiefactor nul is, conform de uitvoeringshandelingen, vermeld in artikel 14, van richtlijn 2003/87/EG;<br>
+3° de uitslag tot verbruik van gevaarlijk of stedelijk afval dat als brandstof wordt gebruikt.<br>
+<br>
+Ondernemingen die instaan voor de uitslag tot verbruik van brandstoffen, vermeld in het eerste lid, 1° tot en met 3°, tonen met de nodige bewijsstukken aan dat ze vallen onder een of meer van de elementen, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering bepaalt de te volgen meldingsprocedure voor de gevallen, vermeld in het eerste lid, 2°. De Vlaamse Regering kan bepalen welke stavingsstukken vereist zijn om aan te tonen dat de emissiefactor van de betrokken brandstof nul is.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure en de benodigde bewijsstukken om te voldoen aan de voorwaarde, vermeld in het eerste lid. De Vlaamse Regering kan de ondernemingen, vermeld in het tweede lid, een periodieke rapporteringsverplichting opleggen voor de voorwaarde, vermeld in het eerste lid.<br>
+<br>
+Met behoud van de toepassing van het eerste lid is artikel 8.3.6quinquies van toepassing op de emissies van alle brandstoffen die uitgeslagen zijn tot verbruik.<br>
+<br>
+§2. De Vlaamse Regering kan, met inachtneming van de impact van de uitbreiding op de interne markt, mogelijke concurrentieverstoringen, de milieu-integriteit van het emissiehandelssysteem dat krachtens hoofdstuk IIIbis is opgezet, en de betrouwbaarheid van het bewakings- en rapporteringssysteem dat met toepassing van dit hoofdstuk is opgezet, het toepassingsgebied, vermeld in §1, eerste lid, uitbreiden naar andere sectoren dan de gebouwensector, de wegvervoerssector en de aanvullende sectoren.<br>
+<br>
+De uitbreiding, vermeld in het eerste lid, wordt voorafgaandelijk voor goedkeuring voorgelegd aan de Europese Commissie.
+
+### ART 8.3.6quater.
+
+§1. Wanneer meerdere natuurlijke of rechtspersonen hoofdelijk gehouden zijn tot de betaling van dezelfde accijns of indien de accijns in meerdere stadia wordt betaald, kan de Vlaamse Regering de criteria bepalen aan de hand waarvan de bevoegde autoriteit de gereglementeerde entiteit aanwijst.<br>
+<br>
+Wanneer een brandstof gelijktijdig wordt ingevoerd en uitgeslagen tot verbruik als vermeld in artikel 6, §2, d), van de wet van 22 december 2009 wijst de bevoegde autoriteit de aangever, gedefinieerd in artikel 5, 15°, van verordening (EU) 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie, aan als gereglementeerde entiteit.<br>
+<br>
+Wanneer de aangever, vermeld in het eerste lid, een indirecte douanevertegenwoordiger is, kunnen de indirecte douanevertegenwoordiger en de vertegenwoordigde natuurlijke persoon of rechtspersoon een schriftelijke overeenkomst opstellen met betrekking tot de modaliteiten van de uitvoering van de verplichtingen van de indirecte douanevertegenwoordiger onder dit decreet en zijn uitvoeringsbesluiten.<br>
+<br>
+§2. De Vlaamse Regering kan de criteria bepalen aan de hand waarvan de bevoegde autoriteit de gereglementeerde entiteit aanwijst wanneer een brandstof wordt ingevoerd vanuit een andere lidstaat van de Europese Unie of een lidstaat die deel uitmaakt van de Europese Economische Ruimte.<br>
+<br>
+§3. In geval van gemengd gebruik zoals voorzien in artikel 53 van het koninklijk besluit van 28 juni 2015 betreffende de belasting van energieproducten en elektriciteit, duidt de bevoegde autoriteit de titularis van de nummerplaat, vermeld in artikel 53, §1, 2°, van datzelfde koninklijk besluit, aan als gereglementeerde entiteit, voor die brandstofvolumes die de titularis verbruikt waarvoor de vrijstelling, vermeld in artikel 429, §2, i), van de programmawet van 27 december 2004, niet van toepassing is.<br>
+<br>
+In afwijking van het eerste lid, kan de Vlaamse Regering specifieke regels bepalen om de verplichtingen, vermeld in artikel 8.3.6quinquies, 8.3.6sexies, 8.3.6septies en 8.3.6octies van dit decreet, te centraliseren onder de organisatie van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.
+
+### ART 8.3.6quinquies.
+
+§1. Elke gereglementeerde entiteit bewaakt vanaf 1 januari 2025 elk kalenderjaar de emissies die overeenstemmen met de hoeveelheden brandstof die tot verbruik zijn uitgeslagen op basis van een monitoringplan dat is goedgekeurd door de bevoegde autoriteit en rapporteert die emissies in het volgende jaar, te beginnen in 2026, aan de bevoegde autoriteit met een geverifieerd emissiejaarverslag.<br>
+<br>
+Elke gereglementeerde entiteit die op 1 januari 2025 een activiteit uitoefent als vermeld in artikel 8.3.6ter, §1, eerste lid, rapporteert haar historische emissies voor het jaar 2024.<br>
+<br>
+§2. De Vlaamse Regering bepaalt conform artikel 30septies van richtlijn 2003/87/ EG en de uitvoeringshandelingen, vermeld in artikel 14, eerste lid, artikel 15 en artikel 30septies, derde en vijfde lid, van richtlijn 2003/87/EG die de Europese Commissie vaststelt, al de volgende elementen:<br>
+1° de voorwaarden en de procedure om het monitoringplan, vermeld in paragraaf 1, goed te keuren;<br>
+2° de voorwaarden en de procedure om het monitoringplan, vermeld in paragraaf 1, te wijzigen;<br>
+3° de voorwaarden en de procedure om de rapportering, vermeld in paragraaf 1, te verifiëren.<br>
+<br>
+De Vlaamse Regering kan vereenvoudigde monitorings-, rapportage- en verificatiemaatregelen toestaan voor gereglementeerde entiteiten waarvan de jaarlijkse emissies die overeenstemmen met de hoeveelheden brandstoffen die tot verbruik uitgeslagen zijn, minder dan 1000 ton CO2-equivalent bedragen conform de uitvoeringshandelingen, vermeld in artikel 14, eerste lid, van richtlijn 2003/87/EG.<br>
+&nbsp;
+
+### ART 8.3.6sexies.
+
+§1. Vanaf 1 januari 2025 is het uitoefenen door een gereglementeerde entiteit van de activiteit, vermeld in artikel 8.3.6ter, §1, eerste lid, onderworpen aan de voorafgaande toekenning van een broeikasgasvergunning door de bevoegde autoriteit.<br>
+<br>
+Een verklaring van goedkeuring van het monitoringplan verleend door de bevoegde autoriteit aan een gereglementeerde entiteit als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 20 december 2024 over de monitoring en rapportage van de emissies van broeikasgassen van brandstoffen bij uitslag tot verbruik en tot wijziging van het besluit van de Vlaamse Regering van 6 september 2019 over verhandelbare emissierechten voor broeikasgassen voor vaste installaties voor de periode 2021-2030 wordt omgezet in een broeikasgasvergunning als vermeld in het eerste lid.<br>
+<br>
+§2. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de aanvraag van de broeikasgasvergunning, vermeld in paragraaf 1. De aanvraag bevat daarbij minstens volgende elementen:<br>
+1° &nbsp;de gereglementeerde entiteit, namelijk minstens de naam en het adres;<br>
+2° het type brandstof dat de gereglementeerde entiteit tot verbruik uitslaat en de wijze waarop die brandstoffen tot verbruik worden uitgeslagen;<br>
+3° het eindgebruik of de eindgebruiken van de brandstoffen die tot verbruik uitgeslagen zijn;<br>
+4° een monitoringplan conform de uitvoeringshandelingen, vermeld in artikel 14 en artikel 30septies van richtlijn 2003/87/EG, die de Europese Commissie vaststelt;<br>
+5° een niet-technische samenvatting van de informatie, vermeld in punt 1° tot en met 4°.<br>
+<br>
+De broeikasgasvergunning, vermeld in paragraaf 1, kan alleen worden verleend als de bevoegde autoriteit ervan overtuigd is dat de gereglementeerde entiteit in staat is de emissies die overeenstemmen met de hoeveelheden brandstoffen die tot verbruik uitgeslagen zijn, te bewaken en te rapporteren.<br>
+<br>
+§3. De Vlaamse Regering bepaalt de wijze van toekenning, de inhoud en de geldigheid van de broeikasgasvergunning, vermeld in paragraaf 1. De broeikasgasvergunning bevat daarbij minstens volgende elementen:<br>
+1° &nbsp;de naam en het adres van de gereglementeerde entiteit;<br>
+2° een beschrijving van de wijze waarop de gereglementeerde entiteit de brandstoffen tot verbruik uitslaat;<br>
+3° een lijst van de brandstoffen die de gereglementeerde entiteit tot verbruik uitslaat;<br>
+4° een monitoringplan conform de uitvoeringshandelingen, vermeld in artikel 14 en artikel 30septies van richtlijn 2003/87/EG, die de Europese Commissie vaststelt;<br>
+5° de rapportagevereisten conform de uitvoeringshandelingen, vermeld in artikel 14 en artikel 30septies van richtlijn 2003/87/EG, die de Europese Commissie vaststelt;<br>
+6° &nbsp;een verwijzing naar de inleververplichting, vermeld in artikel &nbsp;8.3.6septies, §1, eerste lid.<br>
+<br>
+§4. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de wijziging, schorsing en opheffing van een broeikasgasvergunning.
+
+### ART 8.3.6septies.
+
+§1. Met ingang van 1 januari 2029, voor emissies van CO2 door de verbranding van brandstoffen die zijn uitgeslagen tot verbruik in 2028, levert de gereglementeerde entiteit elk jaar tegen 31 mei een hoeveelheid emissierechten in, voor de hoeveelheid emissies die ze in het voorgaande kalenderjaar heeft veroorzaakt, vermeerderd met de hoeveelheid emissies die ze heeft veroorzaakt in voorgaande jaren en waarvoor nog geen emissierechten zijn ingeleverd.<br>
+<br>
+In afwijking van het eerste lid start de verplichting om emissierechten in te leveren op 1 januari 2029 als de Europese Commissie uiterlijk op 15 juli 2026 in het Publicatieblad van de Europese Unie heeft bekendgemaakt dat voldaan is aan de voorwaarden, vermeld in artikel 30duodecies van richtlijn 2003/87/EG.<br>
+<br>
+§2. De Vlaamse Regering bepaalt voor de emissierechten, vermeld in paragraaf 1, de voorwaarden en procedures voor:<br>
+1°&nbsp;&nbsp; &nbsp;de overdracht;<br>
+2°&nbsp;&nbsp; &nbsp;de inlevering;<br>
+3°&nbsp;&nbsp; &nbsp;de toewijzing;<br>
+4°&nbsp;&nbsp; &nbsp;de annulering.
+
+### ART 8.3.6octies.
+
+De Vlaamse Regering kan verplichtingen opleggen aan gereglementeerde entiteiten om gegevens met betrekking tot de impact van het emissiehandelssysteem accuraat, volledig en consistent te melden aan de bevoegde autoriteit voor de onderbouwing van de rapportering conform de uitvoeringshandelingen, vermeld in artikel 30septies, derde lid, van richtlijn 2003/87/EG, en in voorkomend geval voor de onderbouwing van de eventuele flankerende sociale maatregelen genomen in uitvoering van artikel 30quinquies van richtlijn 2003/87/ EG.<br>
+<br>
+De Vlaamse Regering bepaalt de categorie-indeling, de rapporteringstermijn en de rapporteringswijze van de noodzakelijke gegevens, vermeld in het eerste lid.
+
+### ART 8.3.6novies.
+
+Een gereglementeerde entiteit kan een administratief beroep instellen tegen beslissingen van de bevoegde autoriteit die genomen zijn conform dit hoofdstuk.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het administratief beroep, vermeld in het eerste lid.
+
+### ART 8.3.6decies.
+
+In het kader van de identificatie van de natuurlijke of rechtspersonen die onder de definitie van een gereglementeerde entiteit vallen, de identificatie van de natuurlijke of rechtspersonen die niet onder de definitie van een gereglementeerde entiteit vallen en het bepalen van de brandstofvolumes, kan de bevoegde autoriteit een beroep doen op de bevoegde diensten van de federale overheidsdienst Financiën om jaarlijks de volgende gegevens, persoonsgegevens of categorieën van persoonsgegevens te verkrijgen:<br>
+1° het rapport van alle ingediende en gevalideerde AC4-aangiften voor de inverbruikstelling van energieproducten uit de AC4-applicatie van het voorgaande jaar, met uitzondering van geannuleerde aangiften. Het voormelde rapport bevat de volgende gegevens:<br>
+a)&nbsp;&nbsp; &nbsp;de identificatienummers van de AC4-aangiften;<br>
+b)&nbsp;&nbsp; &nbsp;de gegevens van de geadresseerden, met name het adres, de naam, de contactgegevens, het statuut, de vergunningsnummers, het type identificatie en de identificatie, waaronder btw-nummers;<br>
+c)&nbsp;&nbsp; &nbsp;de gegevens van de aangevers of vertegenwoordigers, met name het adres, de naam, de contactgegevens, de status van de aanvrager, het type identificatie en de identificatie, waaronder btw-nummers;<br>
+d)&nbsp;&nbsp; &nbsp;de goederencodes;<br>
+e)&nbsp;&nbsp; &nbsp;de omschrijving van de energieproducten;<br>
+f)&nbsp;&nbsp; &nbsp;de aanvullende nationale codes;<br>
+g)&nbsp;&nbsp; &nbsp;het gevraagde en voorafgaande regime;<br>
+h)&nbsp;&nbsp; &nbsp;de&nbsp;&nbsp; &nbsp;gewichten,&nbsp;&nbsp; &nbsp;de&nbsp;&nbsp; &nbsp;hoeveelheden,&nbsp;&nbsp; &nbsp;de&nbsp;&nbsp; &nbsp;heffingsgrondslagen&nbsp;&nbsp; &nbsp;en&nbsp;&nbsp; &nbsp;de berekeningen van de belasting;<br>
+i)&nbsp;&nbsp; &nbsp;de datum van aangifte;<br>
+2° het rapport van alle ingediende en gevalideerde invoeraangiften voor een gelijktijdige aangifte voor het vrije verkeer en tot verbruik van energieproducten uit PLDA van het voorgaande jaar, met uitzondering van geannuleerde aangiften. Het voormelde rapport bevat de volgende gegevens:<br>
+a)&nbsp;&nbsp; &nbsp;de identificatienummers van de invoeraangiften;<br>
+b)&nbsp;&nbsp; &nbsp;de gegevens van de geadresseerden, met name het adres, de naam, de contactgegevens, het type identificatie en de identificatie, waaronder btw-nummers;<br>
+c)&nbsp;&nbsp; &nbsp;de gegevens van de aangevers of vertegenwoordigers, met name het adres, de naam, de contactgegevens, de status van de aangever, het type identificatie en de identificatie, waaronder btw-nummers;<br>
+d)&nbsp;&nbsp; &nbsp;de goederencodes;<br>
+e)&nbsp;&nbsp; &nbsp;de omschrijving van de energieproducten;<br>
+f)&nbsp;&nbsp; &nbsp;de aanvullende nationale codes;<br>
+g)&nbsp;&nbsp; &nbsp;de gevraagde en voorafgaande regelingen;<br>
+h)&nbsp;&nbsp; &nbsp;de gewichten, de hoeveelheden en de berekening van de belasting;<br>
+i)&nbsp;&nbsp; &nbsp;de datum van aangifte;<br>
+3° het rapport van alle vergunningshouders gecertificeerde geadresseerden en tijdelijk gecertificeerde geadresseerden uit de SEED-data van het voorgaande jaar. Het voormelde rapport bevat de volgende gegevens:<br>
+a)&nbsp;&nbsp; &nbsp;het type en de referentienummers van de vergunningen;<br>
+b)&nbsp;&nbsp; &nbsp;de gegevens van de aanvragers van de vergunning, met name het adres, de naam, de contactgegevens en de nationale identificatienummers;<br>
+c)&nbsp;&nbsp; &nbsp;de start- en einddata van de vergunningen;<br>
+d)&nbsp;&nbsp; &nbsp;de status van de vergunningen;<br>
+e)&nbsp;&nbsp; &nbsp;de accijnscodes en de omschrijving van de energieproducten waar de vergunningen betrekking op hebben.<br>
+&nbsp;<br>
+De betrokkenen bij de verwerking van de persoonsgegevens, vermeld in het eerste en tweede lid, zijn:<br>
+1°&nbsp;&nbsp; &nbsp;de geadresseerden van de AC4-aangiften en de invoeraangiften;<br>
+2°&nbsp;&nbsp; &nbsp;de aangevers van de AC4-aangiften en de invoeraangiften;<br>
+3°&nbsp;&nbsp; &nbsp;de aanvragers van de vergunning, vermeld in het eerste lid, 3°.<br>
+<br>
+Voor de verwerking van persoonsgegevens in het kader van de identificatie van de gereglementeerde entiteiten is de bevoegde autoriteit de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De bewaartermijn start vanaf ontvangst van de persoonsgegevens en is niet langer dan noodzakelijk voor de toepassing van de regels die bij of krachtens dit hoofdstuk zijn vastgesteld, en niet langer dan twintig jaar. Na de voormelde periode van twintig jaar worden de persoonsgegevens geanonimiseerd.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen met betrekking tot de gegevensuitwisseling tussen de bevoegde diensten van de federale overheidsdienst Financiën en de bevoegde autoriteit.
+
 ## [HOOFDSTUK IV STEUNPROGRAMMA'S VOOR DE TOEPASSING VAN FLEXIBILITEITSMECHANISMEN (ing. decr. 14 februari 2014, art. 20, I: 6 mei 2014)]
 
 ## [AFDELING 1 ALGEMENE BEPALING (ing. decr. 14 februari 2014, art. 21, I: 6 mei 2014)]
@@ -1898,13 +2056,13 @@ De Vlaamse Regering bepaalt de hoogte van de tegemoetkomingen en de kosten   die
 
 ### ART. 8.5.1.
 
-Het VEKA, legt aan de exploitant van een BKG-installatie of de vliegtuigexploitant een administratieve geldboete op voor elke ton CO2-equivalent die uitgestoten wordt en waarvoor met toepassing van artikel 8.2.1, § 1, of artikel 8.3.6, § 4, geen emissierechten zijn ingeleverd. Per ton uitgestoten CO2-equivalent bedraagt de administratieve geldboete 100 euro. De betaling van de boete wegens emissieoverschrijding ontslaat de exploitant van een BKG-installatie of de vliegtuigexploitant niet van de verplichting, bij de inlevering van emissierechten in verband met het volgende kalenderjaar, een hoeveelheid emissierechten in te leveren die gelijk is aan de emissieoverschrijding.<br>
+Het VEKA, legt aan de exploitant van een BKG-installatie, de vliegtuigexploitant of de gereglementeerde entiteit een administratieve geldboete op voor elke ton CO2-equivalent die uitgestoten wordt en waarvoor met toepassing van artikel 8.2.1, §1, artikel 8.3.6, §4, of artikel 8.3.6septies geen emissierechten zijn ingeleverd. Per ton uitgestoten CO2-equivalent bedraagt de administratieve geldboete 100 euro. De betaling van de boete wegens emissieoverschrijding ontslaat de exploitant van een BKG-installatie, de vliegtuigexploitant of de gereglementeerde entiteit niet van de verplichting, bij de inlevering van emissierechten in verband met het volgende kalenderjaar, een hoeveelheid emissierechten in te leveren die gelijk is aan de emissieoverschrijding.<br>
 <br>
 In het eerste lid wordt verstaan onder exploitant van een BKG-installatie: de houder(s) van de milieuvergunning(en) van de BKG-installatie.<br>
 <br>
 De administratieve geldboete, vermeld in het eerste lid, wordt vanaf 1 januari 2014 overeenkomstig het Europese indexcijfer van de consumptieprijzen verhoogd.<br>
 <br>
-De Vlaamse Regering neemt maatregelen om de publicatie te verzekeren van de namen van de exploitanten of de vliegtuigexploitanten die onvoldoende emissierechten inleveren om te voldoen aan de verplichtingen die opgelegd zijn met toepassing van artikel 8.2.1, § 1, of artikel 8.3.6, § 4.
+De Vlaamse Regering neemt maatregelen om de publicatie te verzekeren van de namen van de exploitanten, de vliegtuigexploitanten of de gereglementeerde entiteiten die onvoldoende emissierechten inleveren om te voldoen aan de verplichtingen die opgelegd zijn met toepassing van artikel 8.2.1, §1, artikel 8.3.6, §4, of artikel 8.3.6septies.
 
 ### ART. 8.5.2.
 
@@ -1914,9 +2072,33 @@ De Vlaamse Regering neemt maatregelen om de publicatie te verzekeren van de name
 
 De bevoegde autoriteit kan de federale overheid adviseren om de Nationale   Klimaatcommissie te gelasten de Europese Commissie te verzoeken een   exploitatieverbod op te leggen aan een vliegtuigexploitant die niet voldoet aan   de bepalingen, vermeld in hoofdstuk III, als de naleving van hetgeen bij of   krachtens hoofdstuk III bepaald is, niet met andere handhavingsmaatregelen kan   worden gegarandeerd.
 
+### ART 8.5.3bis.
+
+§1. Aan een gereglementeerde entiteit die op 1 januari van elk jaar niet beschikt over een goedgekeurd monitoringplan als vermeld in artikel 8.3.6quinquies, §1, eerste lid, kan een administratieve geldboete worden opgelegd die minimaal 5000 euro en maximaal 450.000 bedraagt.<br>
+<br>
+De Vlaamse Regering bepaalt nadere regels voor de berekening van de administratieve geldboete.<br>
+<br>
+§2. Aan een gereglementeerde entiteit die uiterlijk op 14 april van elk jaar geen emissieverslag dat geverifieerd is conform uitvoeringsverordening (EU) 2018/2067, heeft ingediend conform artikel 8.3.6quinquies, §1, eerste lid van dit decreet, kan een administratieve geldboete worden opgelegd die minimaal 5000 euro en maximaal 450.000 euro bedraagt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de berekening van de administratieve geldboete.
+
 ### ART. 8.5.4.
 
-§ 1. De betrokkene wordt van de beslissing tot het opleggen van de   administratieve geldboete op de hoogte gebracht met een aangetekende brief. De   met redenen omklede kennisgeving vermeldt het bedrag van de administratieve   geldboete.<BR><BR>§ 2. Als de betrokkene het oneens is met de administratieve   geldboete, opgelegd conform artikel 8.5.1 of 8.5.2, kan hij, binnen tien   kalenderdagen na de kennisgeving, vermeld in paragraaf 1, de ambtenaren die   daarvoor aangewezen zijn door de Vlaamse Regering, daarvan op de hoogte brengen   met een aangetekende brief. Na het verstrijken van die termijn is de beslissing   definitief.<BR><BR>De betrokkene kan op zijn verzoek de documenten op basis   waarvan de beslissing tot het opleggen van een administratieve geldboete conform   artikel 8.5.1 of 8.5.2 is genomen, inzien en er een kopie van   ontvangen.<BR><BR>De betrokkene kan op zijn verzoek zijn verweer met betrekking   tot de beslissing tot het opleggen van een administratieve geldboete conform   artikel 8.5.1 of 8.5.2 mondeling toelichten.<BR><BR>De bevoegde ambtenaren   kunnen hun beslissing herroepen of het bedrag van de administratieve geldboete   aanpassen als de tegenargumenten gegrond blijken te zijn. In dat geval vindt een   nieuwe kennisgeving plaats.<BR><BR>§ 3. De administratieve geldboete wordt   betaald binnen zestig kalenderdagen na de kennisgeving van de definitieve   beslissing. De ambtenaren die daarvoor aangewezen zijn door de Vlaamse Regering,   kunnen uitstel van betaling verlenen voor een door hen bepaalde   termijn.<BR><BR>§ 4. Als de betrokkene in gebreke blijft bij het betalen van de   administratieve geldboete, wordt de geldboete bij dwangbevel ingevorderd. Het   dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die   daarvoor door de Vlaamse Regering is aangewezen. Het dwangbevel wordt betekend   bij gerechtsdeurwaardersexploot of per aangetekende brief. Op het dwangbevel   zijn de bepalingen, vermeld in deel V van het Gerechtelijk Wetboek, van   toepassing.<BR><BR>§ 5. De vordering tot betaling van de administratieve   geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan.   De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in   artikel 2244 en volgende van het Burgerlijk Wetboek.
+§ 1. De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete op de hoogte gebracht met een aangetekende brief. De met redenen omklede kennisgeving vermeldt het bedrag van de administratieve geldboete.<br>
+<br>
+§ 2. Als de betrokkene het oneens is met de administratieve geldboete, opgelegd conform artikel 8.5.1, 8.5.2 of 8.5.3/1, kan hij, binnen tien kalenderdagen na de kennisgeving, vermeld in paragraaf 1, de ambtenaren die daarvoor aangewezen zijn door de Vlaamse Regering, daarvan op de hoogte brengen met een aangetekende brief. Na het verstrijken van die termijn is de beslissing definitief.<br>
+<br>
+De betrokkene kan op zijn verzoek de documenten op basis waarvan de beslissing tot het opleggen van een administratieve geldboete conform artikel 8.5.1, 8.5.2 of 8.5.3/1 is genomen, inzien en er een kopie van ontvangen.<br>
+<br>
+De betrokkene kan op zijn verzoek zijn verweer met betrekking tot de beslissing tot het opleggen van een administratieve geldboete conform artikel 8.5.1, 8.5.2 of 8.5.3/1 mondeling toelichten.<br>
+<br>
+De bevoegde ambtenaren kunnen hun beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als de tegenargumenten gegrond blijken te zijn. In dat geval vindt een nieuwe kennisgeving plaats.<br>
+<br>
+§ 3. De administratieve geldboete wordt betaald binnen zestig kalenderdagen na de kennisgeving van de definitieve beslissing. De ambtenaren die daarvoor aangewezen zijn door de Vlaamse Regering, kunnen uitstel van betaling verlenen voor een door hen bepaalde termijn.<br>
+<br>
+§ 4. Als de betrokkene in gebreke blijft bij het betalen van de administratieve geldboete, wordt de geldboete bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die daarvoor door de Vlaamse Regering is aangewezen. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of per aangetekende brief. Op het dwangbevel zijn de bepalingen, vermeld in deel V van het Gerechtelijk Wetboek, van toepassing.<br>
+<br>
+§ 5. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.
 
 ### ART. 8.5.5.
 
