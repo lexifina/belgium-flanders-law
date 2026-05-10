@@ -16,64 +16,11 @@ Dit decreet voorziet in de gedeeltelijke omzetting van:<br>
 
 ### ART 3.
 
-In dit hoofdstuk wordt verstaan onder:<br>
-1° aanvullende sectoren: de emissiebronnen "bewerkende en verwerkende industrie en bouw" (broncategoriecode 1A2) en "energie-industrieën" (broncategoriecode 1A1), met uitzondering van "warmte-krachtkoppelingen" (bron-categoriecode 1A1a ii) en "warmtecentrales" (broncategoriecode 1A1a iii) die behoren tot de gebouwensector, in overeenstemming met de IPCC-richtsnoeren;<br>
-2° bevoegde autoriteit: het VEKA;<br>
-3° BKG-installatie: een BKG-installatie als vermeld in artikel 8.1.2, 2°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-4° brandstof: elk energieproduct als vermeld in artikel 415, § 1, van de Programmawet van 27 december 2004, met uitzondering van elektriciteit en met inbegrip van de brandstoffen, vermeld in tabel A en tabel C van bijlage I bij richtlijn 2003/96/EG van de Raad van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit, en elk ander product dat voor gebruik bedoeld is, dat te koop wordt aangeboden of dat wordt gebruikt als motor- of verwarmingsbrandstof als vermeld in artikel 416 en 417 van de voormelde wet, ook voor de productie van elektriciteit;<br>
-5° eindverbruiker: elke natuurlijke of rechtspersoon die de eindverbruiker is van brandstof, en van wie het jaarlijkse brandstofverbruik niet meer dan 1 ton CO2 bedraagt;<br>
-6° ETS2-activiteiten: uitslag tot verbruik van brandstoffen die worden gebruikt voor verbranding in de gebouwensector, de wegvervoerssector en aanvullende sectoren, met uitsluiting van:<br>
-&nbsp; a) de uitslag tot verbruik van brandstoffen die worden gebruikt door BKG-installaties, door luchtvaartexploitanten in het kader van luchtvaartactiviteiten of door scheepvaartmaatschappijen in het kader van maritieme vervoersactiviteiten, behalve als ze worden gebruikt voor verbranding bij de activiteiten voor het vervoer van broeikasgassen voor geologische opslag in een opslaglocatie waarvoor een vergunning is verleend krachtens het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
-&nbsp; b) de uitslag tot verbruik van brandstoffen waarvoor de emissiefactor, vermeld in artikel 3, punt (13), van uitvoeringsverordening (EU) 2018/2066, nul is;<br>
-&nbsp; c) de uitslag tot verbruik van gevaarlijk of stedelijk afval dat als brandstof wordt gebruikt;<br>
-7° gebouwensector: de emissiebronnen "commercieel/institutioneel" (bron-categoriecode 1A4a), "voor bewoning bestemd" (broncategoriecode 1A4b), "warmte-krachtkoppelingen" (broncategoriecode 1A1a ii) en "warmtecentrales" (broncategoriecode 1A1a iii), op voorwaarde dat ze rechtstreeks of via stadsverwarmingsnetten warmte produceren voor die categorieën in overeenstemming met de IPCC-richtsnoeren;<br>
-8° gereglementeerde entiteit: elk van de volgende natuurlijke of rechtspersonen die worden geïdentificeerd aan de hand van de maatschappelijke zetel of de gewoonlijke verblijfplaats, met uitzondering van de eindverbruiker van de brandstoffen, die ETS2-activiteiten uitoefent:<br>
-&nbsp; a) als de brandstof door een belastingentrepot als vermeld in artikel 5, § 1, 9°, van de wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen, passeert: de erkende entrepothouder, vermeld in artikel 5, § 1, 8°, van de voormelde wet, die de accijns moet betalen op grond van artikel 7 van de voormelde wet;<br>
-&nbsp; b) als punt a) niet van toepassing is, elke andere rechtspersoon die de accijns moet betalen voor de brandstoffen op grond van artikel 7 van de wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen of artikel 421, 422, 424, § 1 en § 2, en artikel 425 van de Programmawet van 27 december 2004;<br>
-&nbsp; c) als punt a) en b) niet van toepassing zijn, elke andere rechtspersoon die door de relevante bevoegde Belgische autoriteiten moet worden geregistreerd om de accijns te betalen, met inbegrip van rechtspersonen die vrijgesteld zijn van de betaling van de accijns, vermeld in artikel 425, eerste lid, van de Programmawet van 27 december 2004;<br>
-&nbsp; d) als punt a), b) en c) niet van toepassing zijn of als meerdere rechtspersonen hoofdelijk gehouden zijn tot de betaling van dezelfde accijns: elke andere rechtspersoon die door de relevante gewestelijke bevoegde autoriteiten is aangewezen;<br>
-9° uitslag tot verbruik: uitslag tot verbruik als vermeld in artikel 6, § 2, van de wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen;<br>
-10° VEKA: het agentschap, vermeld in titel II van het Energiebesluit van 19 november 2010;<br>
-11° wegvervoerssector: de emissiebron "wegvervoer" (broncategoriecode 1A3b), met uitzondering van het gebruik van landbouwvoertuigen op verharde wegen, in overeenstemming met de IPCC-richtsnoeren.
+...
 
 ### ART 4.
 
-In het kader van de identificatie van de natuurlijke of rechtspersonen die onder de definitie van een gereglementeerde entiteit vallen, de identificatie van de natuurlijke of rechtspersonen die niet onder de definitie van een gereglementeerde entiteit vallen en het bepalen van de brandstofvolumes, kan de bevoegde autoriteit een beroep doen op de bevoegde diensten van de federale overheidsdienst Financiën om jaarlijks de volgende gegevens, persoonsgegevens of categorieën van persoonsgegevens te bekomen:<br>
-1° het rapport van alle ingediende en gevalideerde AC4-aangiften voor de inverbruikstelling van energieproducten uit PLDA-AC4 van het voorgaande jaar, met uitzondering van geannuleerde aangiften. Het voormelde rapport bevat de volgende gegevens:<br>
-&nbsp; a) de identificatienummers van de AC4-aangiften;<br>
-&nbsp; b) de gegevens van de geadresseerden, met name het adres, de naam, de contactgegevens, het statuut, de vergunningsnummers, het type identificatie en de identificatie;<br>
-&nbsp; c) de gegevens van de aangevers, met name het adres, de naam, de contactgegevens, de status van de aanvrager, het type identificatie en de identificatie;<br>
-&nbsp; d) de goederencodes;<br>
-&nbsp; e) de omschrijving van de energieproducten;<br>
-&nbsp; f) de aanvullende nationale codes en accijnscodes;<br>
-&nbsp; g) het gevraagde en voorafgaande regime;<br>
-&nbsp; h) de gewichten, de hoeveelheden, de heffingsgrondslagen en de berekeningen van de belasting;<br>
-2° het rapport van alle ingediende en gevalideerde invoeraangiften voor een gelijktijdige aangifte voor het vrije verkeer en tot verbruik van energieproducten uit PLDA van het voorgaande jaar, met uitzondering van geannuleerde aangiften. Het voormelde rapport bevat de volgende gegevens:<br>
-&nbsp; a) de identificatienummers van de invoeraangiften;<br>
-&nbsp; b) de gegevens van de geadresseerden, met name het adres, de naam, de contactgegevens, het type identificatie en de identificatie;<br>
-&nbsp; c) de gegevens van de aangevers, met name het adres, de naam, de contactgegevens, de status van de aangever, het type identificatie en de identificatie;<br>
-&nbsp; d) de goederencodes;<br>
-&nbsp; e) de omschrijving van de energieproducten;<br>
-&nbsp; f) de aanvullende nationale codes en accijnscodes;<br>
-&nbsp; g) de gevraagde en voorafgaande regelingen;<br>
-&nbsp; h) de gewichten, de hoeveelheden en de berekening van de belasting;<br>
-3° het rapport van alle vergunningshouders gecertificeerde geadresseerden en tijdelijk gecertificeerde geadresseerden uit de SEED-data van het voorgaande jaar. Het voormelde rapport bevat de volgende gegevens:<br>
-&nbsp; a) het type en de referentienummers van de vergunningen;<br>
-&nbsp; b) de gegevens van de aanvragers van de vergunning, met name het adres, de naam, de contactgegevens en de nationale identificatienummers;<br>
-&nbsp; c) de start- en einddata van de vergunningen;<br>
-&nbsp; d) de status van de vergunningen;<br>
-&nbsp; e) de accijnscodes en de omschrijving van de energieproducten waar de vergunningen betrekking op hebben.<br>
-<br>
-De betrokkenen bij de verwerking van de persoonsgegevens, vermeld in het eerste en tweede lid, zijn:<br>
-1° de geadresseerden van de AC4-aangiften en de invoeraangiften;<br>
-2° de aangevers van de AC4-aangiften en de invoeraangiften;<br>
-3° de aanvragers van de vergunning, vermeld in het eerste lid, 3°.<br>
-<br>
-Voor de verwerking van persoonsgegevens in het kader van de identificatie van de gereglementeerde entiteiten is de bevoegde autoriteit de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
-<br>
-De bewaartermijn start vanaf ontvangst van de persoonsgegevens en is niet langer dan noodzakelijk voor de toepassing van de regels die bij of krachtens dit hoofdstuk zijn vastgesteld, en niet langer dan twintig jaar. Na de voormelde periode van twintig jaar worden de persoonsgegevens geanonimiseerd.<br>
-<br>
-De Vlaamse Regering kan nadere voorwaarden en modaliteiten bepalen met betrekking tot de gegevensuitwisseling tussen de bevoegde diensten van de federale overheidsdienst Financiën en de bevoegde autoriteit.
+...
 
 ## Hoofdstuk 3. Wijzigingen aan het Energiedecreet van 8 mei 2009
 
