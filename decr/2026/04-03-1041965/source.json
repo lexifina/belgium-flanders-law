@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041965,
+  "title": "Decreet van 2026-04-03 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft het invoeren van een emissiehandelssysteem voor de gebouwensector, de wegvervoerssector en de aanvullende sectoren",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041965/VolledigDocument?datum=2026-05-10",
+  "source_sha256": "d0e70e2da1c3c5bfffda10eb838fd6e04f01cfca58c121337065669b1161fb33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041965&param=informatie",
+  "as_of": "2026-05-10",
+  "made": "2026-04-03",
+  "gazette": "2026-04-30",
+  "numac": 2026003185,
+  "document_start": "2026-05-10",
+  "document_end": null,
+  "in_force": "2026-05-10",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2026-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
