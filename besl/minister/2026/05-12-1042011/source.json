@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042011,
+  "title": "Ministerieel besluit van 2026-05-12 tot bepaling van maatregelen bepaald in artikel 2 van het Besluit van de Vlaamse Regering van 4 mei 2026 over de bescherming van oppervlaktewater voor de productie van water bestemd voor menselijke consumptie tegen verontreiniging met pesticiden of andere producten die na aanwending oppervlaktewater kunnen verontreinigen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042011/VolledigDocument?datum=2026-05-12",
+  "source_sha256": "956ce6d75a6060929f12489efcc97a61b9ad7cf9bd3a3951b577cd01e67aaa71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042011&param=informatie",
+  "as_of": "2026-05-12",
+  "made": "2026-05-12",
+  "gazette": "2026-05-12",
+  "numac": 2026003609,
+  "document_start": "2026-05-12",
+  "document_end": "2029-12-21",
+  "in_force": "2026-05-12",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
