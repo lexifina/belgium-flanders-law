@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041987,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-19 over de toekenning van een subsidie aan een organisatie die aan burgers evidencebased gezondheidsinformatie verschaft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041987/VolledigDocument?datum=2026-05-18",
+  "source_sha256": "864f0bbe9c19cd730d329321e38e8d423d6b656d7d4befca28173dd3a32f99ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041987&param=informatie",
+  "as_of": "2026-05-18",
+  "made": "2025-12-19",
+  "gazette": "2026-05-08",
+  "numac": 2026003391,
+  "document_start": "2026-05-18",
+  "document_end": null,
+  "in_force": "2026-05-18",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2026-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
