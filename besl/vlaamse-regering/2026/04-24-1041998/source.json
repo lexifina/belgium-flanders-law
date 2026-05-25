@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041998,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot wijziging van het besluit van de Vlaamse Regering van 10 november 2011 betreffende de subsidiëring door het Fonds voor Wetenschappelijk Onderzoek - Vlaanderen, wat betreft het programma voor bilaterale onderzoekssamenwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041998/VolledigDocument?datum=2026-05-25",
+  "source_sha256": "6ad8f64b7a4edcbae0ec6bd58afa89e8e55699b0ccc92c256fd01efb738f2de5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041998&param=informatie",
+  "as_of": "2026-05-25",
+  "made": "2026-04-24",
+  "gazette": "2026-05-15",
+  "numac": 2026003579,
+  "document_start": "2026-05-25",
+  "document_end": null,
+  "in_force": "2026-05-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
