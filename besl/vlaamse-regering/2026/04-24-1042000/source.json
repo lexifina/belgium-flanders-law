@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042000,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2023 tot vaststelling van de algemene erkennings-, uitvoerings- en subsidiëringsvoorwaarden voor LEADER-gebieden, wat betreft technische wijzigingen en verduidelijkingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042000/VolledigDocument?datum=2026-05-25",
+  "source_sha256": "d6d5bbe1ee862e95f2637e8460f6f2c907ac29ff37ac8105cd681af843d25095",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042000&param=informatie",
+  "as_of": "2026-05-25",
+  "made": "2026-04-24",
+  "gazette": "2026-05-15",
+  "numac": 2026003580,
+  "document_start": "2026-05-25",
+  "document_end": null,
+  "in_force": "2026-05-25",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
