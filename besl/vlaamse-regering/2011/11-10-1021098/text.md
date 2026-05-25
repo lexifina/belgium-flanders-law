@@ -190,7 +190,10 @@ Het programma voor bilaterale onderzoekssamenwerking heeft tot doel bilaterale o
 
 ### ART. 16.
 
-§ 1. De lidstaten van de Europese Unie en de landen die met de Europese Unie geassocieerd zijn voor de uitvoering van het Europees Kaderprogramma voor Onderzoek en Ontwikkeling komen niet in aanmerking voor deze samenwerkingsakkoorden. Deze uitsluitingsbepalingen gelden tevens voor de regio's die deel uitmaken van die landen.<br /><br />§ 2. In het geval van samenwerking met ontwikkelingslanden moet maximale complementariteit worden nagestreefd met de activiteiten die de Vlaamse universiteiten via de Bijzondere Onderzoeksfondsen en de Vlaamse Interuniversitaire Raad (VLIR-UOS) ontplooien in het kader van de universitaire ontwikkelingssamenwerking. <br /><br />
+§ 1. De lidstaten van de Europese Unie en de landen die met de Europese Unie geassocieerd zijn voor de uitvoering van Pijler I van het Europees Kaderprogramma voor Onderzoek en Ontwikkeling komen niet in aanmerking voor deze samenwerkingsakkoorden. Deze uitsluitingsbepalingen gelden tevens voor de regio's die deel uitmaken van die landen.<br>
+<br>
+§ 2. In het geval van samenwerking met ontwikkelingslanden moet maximale complementariteit worden nagestreefd met de activiteiten die de Vlaamse universiteiten via de Bijzondere Onderzoeksfondsen en de Vlaamse Interuniversitaire Raad (VLIR-UOS) ontplooien in het kader van de universitaire ontwikkelingssamenwerking.<br>
+&nbsp;
 
 ### ART. 17.
 
