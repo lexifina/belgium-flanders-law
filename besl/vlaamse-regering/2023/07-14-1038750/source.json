@@ -2,16 +2,16 @@
   "codex_id": 1038750,
   "title": "Besluit van de Vlaamse Regering van 2023-07-14 tot vaststelling van de algemene erkennings-, uitvoerings- en subsidiëringsvoorwaarden voor LEADER-gebieden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038750/VolledigDocument?datum=2024-09-20",
-  "source_sha256": "63065924ece8a847f36bb04064a7e6a1458d341983b4d01698bdcbac597b123c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038750/VolledigDocument?datum=2026-05-25",
+  "source_sha256": "ad9a774139d89718c6b2732b9e4fd52bec470288134fff1ccdeee3e98e9e588a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038750&param=informatie",
-  "as_of": "2024-09-20",
+  "as_of": "2026-05-25",
   "made": "2023-07-14",
   "gazette": "2023-09-21",
   "numac": 2023044889,
   "document_start": "2023-09-22",
   "document_end": null,
-  "in_force": "2024-09-20",
+  "in_force": "2026-05-25",
   "article_versions": 58,
-  "record_form": "consolidated version as in force on 2024-09-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-05-25; future article versions excluded; article text as the API gives it"
 }

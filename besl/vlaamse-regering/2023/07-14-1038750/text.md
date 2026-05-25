@@ -273,20 +273,28 @@ Na de goedkeuring van de LOS wordt er een samenwerkingsovereenkomst opgemaakt tu
 
 ### ART 16.
 
-Een goedgekeurde LOS kan alleen in de volgende gevallen gewijzigd worden:<br>
+§1. Een goedgekeurde LOS kan in de volgende gevallen gewijzigd worden:<br>
 1° er zijn nieuwe alternatieve financieringsbronnen bij een of meer thema’s in de LOS;<br>
 2° er vallen alternatieve financieringsbronnen weg voor een of meer thema’s in de LOS;<br>
 3° er zijn nieuwe ontwikkelingen op economisch, ecologisch of maatschappelijk vlak.<br>
 <br>
 De LAG dient een voldoende gemotiveerd verzoek tot wijziging van de LOS in via het plattelandsloket en bewijst het bestaan van een geval als vermeld in het eerste lid.&nbsp;<br>
 <br>
-De provinciale technische werkgroep verleent advies binnen negentig dagen na de dag waarop de provinciale technische werkgroep het verzoek tot wijziging van de LOS heeft ontvangen. Bij onduidelijkheden kan de provinciale technische werkgroep een bijkomende schriftelijke of mondelinge toelichting vragen aan de leden van de LAG.<br>
+De provinciale technische werkgroep verleent advies binnen negentig dagen na de dag waarop de provinciale technische werkgroep het verzoek tot wijziging van de LOS heeft ontvangen. Bij onduidelijkheden kan de provinciale technische werkgroep een bijkomende schriftelijke of mondelinge toelichting vragen aan de LAG.<br>
 <br>
 Binnen negentig dagen na de dag waarop het VMC het advies, vermeld in het derde lid, heeft ontvangen beslist het VMC over het verzoek tot wijziging van de LOS.&nbsp;<br>
 <br>
 Pas nadat het VMC de wijziging heeft goedgekeurd, kan de LAG projectaanvragen goedkeuren volgens de gewijzigde LOS.&nbsp;<br>
 <br>
-Als een projectoproep tijdens de beoordelingsprocedure voor de wijziging van de LOS, wordt gelanceerd onder de voorwaarden van de gewijzigde LOS, kan die oproep alleen onder voorbehoud van goedkeuring van de wijziging door het VMC gelanceerd worden.
+Als een projectoproep tijdens de beoordelingsprocedure voor de wijziging van de LOS, wordt gelanceerd onder de voorwaarden van de gewijzigde LOS, kan die oproep alleen onder voorbehoud van goedkeuring van de wijziging door het VMC gelanceerd worden.<br>
+<br>
+§2. Een goedgekeurde LOS kan worden gewijzigd om technische redenen of om verduidelijkingen aan te brengen.&nbsp;<br>
+<br>
+De LAG dient een voldoende gemotiveerd verzoek tot wijziging van de LOS in via het plattelandsloket.&nbsp;<br>
+<br>
+De beheersdienst beslist binnen zestig dagen na de dag waarop hij het verzoek tot wijziging van de LOS via het plattelandsloket heeft ontvangen. Bij onduidelijkheden kan de beheersdienst een bijkomende schriftelijke of mondelinge toelichting vragen aan de LAG.<br>
+<br>
+§3. De wijziging, vermeld in paragraaf 2, kan afzonderlijk of samen met een wijziging als vermeld in paragraaf 1, worden aangevraagd. Als de wijziging, vermeld in paragraaf 2, samen met een wijziging als vermeld in paragraaf 1, wordt aangevraagd dan wordt de procedure als vermeld in paragraaf 1, gevolgd.
 
 ## Hoofdstuk 4. Projectoproep, projectaanvraag en selectie van projecten
 
@@ -344,7 +352,7 @@ De LAG dient de projectaanvraag voor samenwerkingsprojecten in het plattelandslo
 <br>
 De Vlaamse minister bevoegd voor het plattelandsbeleid kan nadere regels vastleggen als de voorwaarden, vermeld in het derde en vierde lid niet voldaan zijn.<br>
 <br>
-§2. De LAG kan een projectaanvraag voor samenwerkingsprojecten laten uitvoeren door een andere promotor. De LAG geeft zijn goedkeuring voor de voormelde projectaanvraag vóór de beheersdienst de ontvankelijkheid beoordeelt.
+§2. De LAG kan een projectaanvraag voor samenwerkingsprojecten laten uitvoeren door een andere promotor. De LAG geeft zijn goedkeuring voor de projectaanvraag vóór de termijn, vermeld in artikel 23, eerste lid, is verstreken.
 
 ### ART 21.
 
@@ -368,9 +376,11 @@ Binnen een samenwerkingsproject coördineert één partij de werkzaamheden.<br>
 <br>
 Elke LAG kan de lijst van promotoren, vermeld in het eerste lid, inperken in de LOS.<br>
 <br>
+Feitelijke verenigingen als vermeld in het eerste lid, 8°, registreren zich in het verenigingsregister conform artikel 4 tot en met 4/4 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer om een project in te dienen.<br>
+<br>
 Ook promotoren van buiten het Vlaams Gewest komen voor steun in aanmerking op voorwaarde dat het project in het Vlaamse Gewest wordt uitgevoerd.<br>
 <br>
-§2. De volgende overheden kunnen koepelprojecten indienen en als promotor optreden:<br>
+§2. De volgende overheden kunnen ook koepelprojecten indienen en als promotor optreden:<br>
 1° de Vlaamse Gemeenschap, het Vlaamse Gewest en de verzelfstandigde agentschappen van de Vlaamse Gemeenschap en het Vlaamse Gewest;<br>
 2° provincies.<br>
 <br>
@@ -391,7 +401,7 @@ De beheersdienst beoordeelt de ontvankelijkheid van de projectaanvraag aan de ha
 4° het project wordt uitgevoerd in de LEADER-gebieden die zijn erkend conform artikel 14, tweede lid;<br>
 5° de projectaanvraag is geen zuivere studie zonder realisatie;<br>
 6° de projectaanvraag bevat een raming van de kosten, met een indicatie van de verschillende financieringsbronnen;<br>
-7° de LAG heeft de promotor niet uitgesloten uit de LOS als vermeld in artikel 21, §1, vierde lid.&nbsp;
+7° de LAG heeft de promotor of de copromotor niet uitgesloten uit de LOS als vermeld in artikel 21, §1, vierde lid.&nbsp;
 
 ### ART 23.
 
@@ -562,7 +572,7 @@ Onder bijdrage in natura als vermeld in het eerste lid, 6°, wordt verstaan: de 
 <br>
 §2. De projectkosten zijn subsidiabel vanaf de goedkeuring van het project door de Vlaamse minister bevoegd voor het plattelandsbeleid, het VMC of de LAG. De brief waarin de Vlaamse minister bevoegd voor het plattelandsbeleid, het VMC of de LAG het project goedkeurt, bevat de exacte termijn waarvoor de subsidies verleend worden.<br>
 <br>
-§3. Voor koepelprojecten en samenwerkingsprojecten zijn de voorbereidingskosten subsidiabel als een projectaanvraag is ingediend die conform artikel 23 ontvankelijk is.<br>
+§3. Voor koepelprojecten en samenwerkingsprojecten zijn de voorbereidingskosten subsidiabel als een projectaanvraag is ingediend die conform artikel 23 ontvankelijk is, ongeacht of het project goedgekeurd wordt conform artikel 24 of 25.<br>
 <br>
 Voorbereidingskosten die maximaal een jaar voor de indiening van de projectaanvraag gedaan worden, zijn subsidiabel tot 5000 euro per projectaanvraag.<br>
 <br>
@@ -570,7 +580,7 @@ Voorbereidingskosten zijn niet inbegrepen in de projectkosten.
 
 ### ART 32.
 
-De kosten van investeringsprojecten komen in aanmerking voor de subsidie, vermeld in artikel 28, als de investering wordt gerealiseerd in het LEADER-gebied en als ze tot een van de volgende categorieën behoren:<br>
+Investeringskosten komen in aanmerking voor de subsidie, vermeld in artikel 28, als de investering wordt gerealiseerd in het LEADER-gebied en als ze tot een van de volgende categorieën behoren:<br>
 1° kosten voor investeringen in onroerende goederen, met inbegrip van de inrichting van onroerende goederen;<br>
 2° kosten voor investeringen in installaties, machines en uitrusting;<br>
 3° kosten voor investeringen in software en sturingsprogramma’s en voor de ontwikkeling ervan;<br>
@@ -768,23 +778,29 @@ De Vlaamse minister bevoegd voor het plattelandsbeleid kan nadere regels vastleg
 
 ### ART 45.
 
-§1. Het VMC treedt op als bezwaarbehandelaar voor de bezwaren tegen de beslissingen die het neemt op basis van artikel 16 en 25.<br>
+§1. Het VMC treedt op als bezwaarbehandelaar voor de bezwaren tegen de beslissingen die het neemt op basis van artikel 16, §1 en 25.<br>
 <br>
-De beheersdienst treedt op als bezwaarbehandelaar voor de bezwaren tegen de beslissingen die hij neemt, op basis van artikel 26, 35, 36 en 44, en de bezwaren tegen de beslissingen die de LAG neemt, op basis van artikel 24.&nbsp;<br>
+De beheersdienst treedt op als bezwaarbehandelaar voor de bezwaren tegen de beslissingen die hij neemt, op basis van artikel 16, §2, 26, 35, 36 en 44, en de bezwaren tegen de beslissingen die de LAG neemt, op basis van artikel 24.&nbsp;<br>
 <br>
-§2. Het bezwaar, vermeld in paragraaf 2, wordt binnen zestig dagen vanaf de kennisgeving van de beslissing ingediend bij de bezwaarbehandelaar met een bezwaarschrift. De bezwaarbehandelaar beslist over het bezwaar. Het voormelde bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
+§2. Het bezwaar, vermeld in paragraaf 1, wordt binnen zestig dagen vanaf de kennisgeving van de beslissing ingediend bij de bezwaarbehandelaar met een bezwaarschrift. De bezwaarbehandelaar beslist over het bezwaar. Het voormelde bezwaarschrift voldoet aan al de volgende ontvankelijkheidsvoorwaarden:<br>
 1° het wordt ingediend met een beveiligde zending, vermeld in artikel 34, §1, tweede lid;<br>
 2° het vermeldt de naam en de woonplaats van de indiener van het bezwaar. Als woonplaatskeuze wordt gedaan bij een raadsman, wordt dat in het bezwaarschrift aangegeven;<br>
 3° het is ondertekend door de bezwaarindiener of zijn raadsman;<br>
 4° het vermeldt het voorwerp van het bezwaar, met een omschrijving van de ingeroepen argumenten.<br>
 <br>
-§3. Als het bezwaar, vermeld in paragraaf 2, niet wordt ingediend met een bezwaarschrift dat voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in paragraaf 3, wordt het bezwaar onontvankelijk verklaard.&nbsp;<br>
+§3. Als het bezwaar, vermeld in paragraaf 1, niet wordt ingediend met een bezwaarschrift dat voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in paragraaf 2, wordt het bezwaar onontvankelijk verklaard.&nbsp;<br>
 <br>
-§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bezwaarbehandelaar over het bezwaar, vermeld in paragraaf 2. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
+§4. De bezwaarindiener wordt binnen honderdtwintig dagen op de hoogte gebracht van de beslissing van de bezwaarbehandelaar over het bezwaar, vermeld in paragraaf 1. De voormelde termijn wordt gerekend vanaf de dag na de dag waarop de termijn voor de indiening van het bezwaar verstreken is. Tegen de voormelde beslissing staat geen nieuwe bezwaarmogelijkheid open.<br>
 <br>
 De termijn, vermeld in het eerste lid, kan één keer verlengd worden met een nieuwe termijn van honderdtwintig dagen, die begint op de dag nadat de eerste termijn, vermeld in het eerste lid, is verstreken. De bezwaarbehandelaar brengt de bezwaarindiener of zijn vertegenwoordiger op de hoogte van de voormelde verlenging voor de eerste termijn van honderdtwintig dagen is verstreken, en vermeldt de reden of de redenen van de verlenging.<br>
 <br>
-De bezwaarbehandelaar kan informatie of bewijzen opvragen bij de bezwaarindiener of derden. Als de bezwaarbehandelaar bij de bezwaarindiener of derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs wordt ontvangen. De bezwaarbehandelaar brengt de bezwaarindiener op de hoogte van de schorsing van de behandelingstermijn en de reden van die schorsing.&nbsp;
+De bezwaarbehandelaar kan informatie of bewijzen opvragen bij de bezwaarindiener of derden. Als de bezwaarbehandelaar bij de bezwaarindiener of derden informatie of bewijzen opvraagt, wordt de termijn van honderdtwintig dagen, vermeld in het eerste lid, geschorst tot op de datum dat de informatie of het bewijs wordt ontvangen. De bezwaarbehandelaar brengt de bezwaarindiener op de hoogte van de schorsing van de behandelingstermijn en de reden van die schorsing.&nbsp;<br>
+<br>
+§5. De beheersdienst kan als bezwaarbehandelaar conform paragraaf 1, tweede lid, niet in de plaats treden van de LAG voor bezwaren tegen de beslissingen die de LAG neemt op basis van artikel 24. De beheersdienst oordeelt alleen of de LAG de juiste procedure heeft gevolgd om tot zijn beslissing te komen.<br>
+<br>
+Als de beheersdienst oordeelt dat het bezwaar gegrond is, vernietigt hij de beslissing van de LAG over het project in kwestie. De LAG neemt vervolgens een nieuwe beslissing conform artikel 24.<br>
+<br>
+Als de beheersdienst oordeelt dat het bezwaar ongegrond is, blijft de beslissing van de LAG over het project in kwestie bestaan.
 
 ## Hoofdstuk 10. Gegevensverwerking
 
