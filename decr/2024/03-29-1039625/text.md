@@ -20,6 +20,7 @@ In dit decreet wordt verstaan onder:<br>
 2° beheerder van een lokale cluster: de rechtspersoon die een lokale cluster beheert en wordt aangewezen conform artikel 9;<br>
 3° beheerder van een gesloten industrieel net voor koolstofdioxide: de rechtspersoon die een gesloten industrieel net voor koolstofdioxide beheert;<br>
 4° beheerder van een terminal voor vloeibaarmaking: de rechtspersoon die een terminal voor vloeibaarmaking beheert;<br>
+4°/1&nbsp;&nbsp; &nbsp;beheerder van het aardgasvervoersnet: de beheerder van het aardgasvervoersnet, vermeld in artikel 1, 31°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en ande-re door middel van leidingen;<br>
 5° beheerder van het vervoersnetwerk: de rechtspersoon die het vervoersnetwerk beheert en wordt aangewezen conform artikel 29;<br>
 6° beveiligde zending: een van de volgende betekeningswijzen:<br>
 &nbsp; a) een aangetekende brief;<br>
@@ -56,7 +57,8 @@ In dit decreet wordt verstaan onder:<br>
 29° vervoersonderneming voor koolstofdioxide: een natuurlijke persoon of rechtspersoon die een vervoersinstallatie voor koolstofdioxide uitbaat;<br>
 30° VEKA: het Vlaams Energie- en Klimaatagentschap, vermeld in titel II van het Energiebesluit van 19 november 2010;<br>
 31° verbruiker: de exploitant van een locatie voor verbruik;<br>
-32° Vlaamse Nutsregulator: de autonome dienst met rechtspersoonlijkheid, vermeld in het decreet van 29 maart 2024 over de operationalisering van een Vlaamse Nutsregulator.
+32° Vlaamse Nutsregulator: de autonome dienst met rechtspersoonlijkheid, vermeld in het decreet van 29 maart 2024 over de operationalisering van een Vlaamse Nutsregulator;<br>
+33°&nbsp;&nbsp; &nbsp;waterstofvervoersnetbeheerder: de waterstofvervoersnetbeheer-der, vermeld in artikel 2, 18°, van de wet van 11 juli 2023 betreffende het vervoer van waterstof door middel van leidingen en betreffende de productie van waterstof in de zeegebieden onder de rechtsbevoegdheid van België.
 
 ### ART 4.
 
@@ -94,9 +96,11 @@ De Vlaamse Regering wijst, na advies van de Vlaamse Nutsregulator, een beheerder
 <br>
 De Vlaamse Regering bepaalt het aaneensluitend geografisch afgebakend gebied waarvoor de beheerder van een lokale cluster wordt aangewezen.<br>
 <br>
-De Vlaamse Regering kan voorwaarden opleggen bij de aanwijzing van de beheerder van een lokale cluster. Deze voorwaarden kunnen onder meer betrekking hebben op:<br>
-1° de kwaliteitsnormen van de koolstofdioxidestroom die wordt vervoerd door de lokale cluster;<br>
-2° de interoperabiliteit van de lokale cluster met andere lokale clusters, het vervoersnetwerk en terminals voor vloeibaarmaking.<br>
+De Vlaamse Regering kan bij de aanwijzing voorwaarden opleggen aan de beheerder van een lokale cluster. Die voorwaarden kunnen onder meer betrekking hebben op:<br>
+1°&nbsp;&nbsp; &nbsp;de kwaliteitsnormen van de koolstofdioxidestroom die wordt vervoerd door de lokale cluster;<br>
+2°&nbsp;&nbsp; &nbsp;de interoperabiliteit van de lokale cluster met andere lokale clusters, het vervoersnetwerk, terminals voor vloeibaarmaking of andere infrastructuur voor het transport van koolstofdioxide.<br>
+<br>
+De Vlaamse Regering kan na de beslissing tot aanwijzing, vermeld in het eerste lid, voorwaarden opleggen voor de materies, vermeld in het derde lid. Die voorwaarden worden opgelegd na overleg met de beheerder van de lokale cluster.<br>
 <br>
 De kandidaat-beheerder van een lokale cluster wordt met een beveiligde zending op de hoogte gebracht van de beslissing tot aanwijzing als beheerder van een lokale cluster.
 
@@ -147,12 +151,12 @@ Het beheer van een lokale cluster omvat de volgende taken:<br>
 2° voldoende capaciteit aanhouden om de vervoersbehoeften te dekken van de netgebruikers die aangesloten zijn en willen worden op de lokale cluster;<br>
 3° de lokale cluster en de bijbehorende installaties herstellen, preventief onderhouden, vernieuwen en verbeteren;<br>
 4° de plannen van de lokale cluster opstellen, bewaren en ter beschikking stellen;<br>
-5° elke twee jaar een ontwikkelingsplan opstellen conform artikel 19;<br>
+5° ten minste elke twee jaar een ontwikkelingsplan opstellen conform arti-kel 19;<br>
 6° onderbrekingen en storingen bij het vervoer van koolstofdioxide oplossen;<br>
-7° het installeren van meetapparatuur om de koolstofdioxidestromen naar de lokale cluster te monitoren;<br>
-8° het installeren van meetapparatuur om koolstofdioxidestromen die worden vervoerd door of tijdelijk worden opgeslagen in de lokale cluster te monitoren;<br>
+7° een meet- en monitoringplan uitwerken om de koolstofdioxidestromen in de lokale cluster te monitoren;<br>
+8° ...;<br>
 9° registers bijhouden van koolstofdioxide dat wordt vervoerd door of tijdelijk wordt opgeslagen in de lokale cluster;<br>
-10° het installeren van meetapparatuur om koolstofdioxidestromen die worden vervoerd van de lokale cluster naar een locatie voor verbruik te monitoren;<br>
+10° ...;<br>
 11° potentiële netgebruikers toegang geven tot de lokale cluster onder de voorwaarden van het technisch reglement, vermeld in artikel 62;<br>
 12° de netgebruikers van de lokale cluster de informatie verstrekken die ze nodig hebben voor een efficiënte toegang tot de lokale cluster;<br>
 13° het voorzien van een afdoende monitoringssysteem om de conformiteit van de koolstofdioxidestromen met de technische eisen van de lokale cluster te vrijwaren.<br>
@@ -202,7 +206,7 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de beheerder va
 
 ### ART 19.
 
-§1. De beheerder van een lokale cluster maakt tweejaarlijks een indicatief ontwikkelingsplan op.<br>
+§1. De beheerder van een lokale cluster maakt ten minste tweejaarlijks een indicatief ontwikkelingsplan op.<br>
 &nbsp;<br>
 Het ontwikkelingsplan bevat ten minste de volgende elementen:<br>
 1° verschillende ontwikkelingsscenario’s met gedetailleerde raming van de capaciteitsbehoeften, met aanduiding van de verschillende onderliggende hypothesen, en de toekomstverwachtingen voor een periode van twee jaar en een periode van tien jaar;<br>
@@ -216,13 +220,13 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, bijkomende elem
 <br>
 Het ontwikkelingsplan, vermeld in het eerste lid, wordt goedgekeurd door de Vlaamse Regering conform paragraaf 3.<br>
 <br>
-§2. De beheerder van de lokale cluster consulteert alle relevante marktpartijen binnen zijn geografische werkingsgebied in functie van de noden van de producenten en verbruikers en de relevante overheden over het ontwikkelingsplan, vermeld in paragraaf 1. De resultaten van de voormelde consultatie worden bij het ontwikkelingsplan gevoegd.<br>
+§2. De beheerder van de lokale cluster consulteert alle relevante marktpartijen in functie van de noden van de producenten en verbruikers en de relevante overheden over het ontwikkelingsplan, vermeld in paragraaf 1. De resultaten van de voormelde consultatie worden bij het ontwikkelingsplan gevoegd.<br>
 <br>
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de nadere regels bepalen voor de vorm, de procedure en de inhoud van de consultatie, vermeld in het eerste lid.<br>
 <br>
-§3. De Vlaamse Regering beslist, na advies van de Vlaamse Nutsregulator, binnen negentig dagen na de dag waarop ze het voormelde ontwikkelingsplan heeft ontvangen over de goedkeuring, vermeld in paragraaf 1. Als de minister aan de beheerder van de lokale cluster bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen, met negentig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Deze bijkomende inlichtingen worden meegedeeld aan de Vlaamse Nutsregulator.<br>
+§3. De Vlaamse Regering beslist binnen vijfenveertig dagen na de dag waarop ze het advies van de Vlaamse Nutsregulator en het VEKA over het ontwerp van ontwikkelingsplan heeft ontvangen, over de goedkeuring, vermeld in para-graaf 1. Als de minister aan de beheerder van de lokale cluster bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen met vijfenveertig dagen verlengd vanaf de dag waarop de bijkomende inlich-tingen zijn gevraagd. Die bijkomende inlichtingen worden meegedeeld aan de Vlaamse Nutsregulator en het VEKA.<br>
 <br>
-De Vlaamse Regering bepaalt de procedure voor het indienen van het ontwikkelingsplan.<br>
+De Vlaamse Regering kan de procedure bepalen voor het indienen van het ontwikkelingsplan.<br>
 <br>
 Weigert de Vlaamse Regering de goedkeuring van het ontwikkelingsplan, dan kan de minister, na overleg, de beheerder van de lokale cluster vragen het ontwikkelingsplan binnen een redelijke termijn aan te passen.<br>
 <br>
@@ -251,6 +255,12 @@ De beheerder van een lokale cluster heeft de volgende rechten in het geval, verm
 2° het recht om te zorgen voor het toezicht op de pijpleidingen, vermeld in punt 1°;<br>
 3° het recht om de noodzakelijke onderhouds- en herstellingswerken uit te voeren aan de pijpleidingen, vermeld in punt 1°.<br>
 <br>
+De Vlaamse Regering kan de procedure voor het verlenen van een verklaring van algemeen nut als vermeld in het eerste lid nader bepalen.<br>
+<br>
+De Vlaamse Regering kan bepalen in welke gevallen een verklaring van openbaar nut, verkregen krachtens artikel 10 van de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen, kan worden overgedragen door de beheerder van het aardgasver-voersnet of de waterstofvervoersnetbeheerder aan een beheerder van een lokale cluster.<br>
+<br>
+De beslissing over de overdracht van een verklaring van openbaar nut, vermeld in het vierde lid, wordt genomen door de Vlaamse Regering. In dat geval geldt de verklaring van openbaar nut als verklaring van algemeen nut.<br>
+<br>
 §4. De aangelegde pijpleidingen en de bijbehorende uitrustingen blijven eigendom van de beheerder van een lokale cluster. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br>
 <br>
 §5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 1° en 2°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of in voorkomend geval de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat deze gedurende een maand het verzoek van de netbeheerder zonder gevolg heeft gelaten. In die gevallen kan de beheerder van de lokale cluster overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de netbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, gebeurt dat op kosten van de beheerder zelf.<br>
@@ -261,11 +271,19 @@ De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de
 
 ### ART 22.
 
-Als de aanwezige bomen en beplantingen gerooid worden conform artikel 21, is de beheerder van een lokale cluster een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br>
+§1. Als de aanwezige bomen en beplantingen gerooid worden met toepassing van artikel 21, §2, is de beheerder van een lokale cluster een eenmalige vergoeding verschuldigd aan de eigenaar ter compensatie van de gerooide bomen en beplantingen en de eventuele minwaarde van het onroerend goed.<br>
 <br>
-De Vlaamse Regering kan nadere regels vastleggen voor de procedure om de hoogte van de vergoeding te bepalen.<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de procedure om het bedrag van de vergoeding te bepalen.<br>
 <br>
-Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
+Als de partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.”.<br>
+<br>
+§2. Als een beheerder van een lokale cluster na het verkrijgen van de verklaring van algemeen nut, vermeld in artikel 21, §3, pijpleidingen boven of onder private onbebouwde gronden bouwt, dan is die beheerder van de lokale cluster een vergoeding verschuldigd aan de eigenaar van die gronden.&nbsp;<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de procedure om het bedrag van de vergoeding te bepalen.<br>
+<br>
+§3. De beheerder van een lokale cluster vergoedt de schade die berokkend wordt door de werken die hij uitvoert voor de oprichting of gedurende de exploitatie van zijn lokale cluster en hij vergoedt ook de schade aan derden die wordt berokkend, hetzij door de uitvoering van de werken, hetzij door activiteiten op de gronden die met de erfdienstbaarheid bezwaard zijn.<br>
+<br>
+Als de partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
 
 ### ART 23.
 
@@ -319,9 +337,11 @@ Het beheer van het vervoersnetwerk wordt waargenomen door de beheerder aangeweze
 
 De Vlaamse Regering wijst, na advies van de VREG, een beheerder van het vervoersnetwerk in het Vlaamse Gewest aan.<br>
 <br>
-De Vlaamse Regering kan voorwaarden opleggen bij de aanwijzing van de beheerder van het vervoersnetwerk. Deze voorwaarden hebben betrekking op:<br>
-1° de kwaliteitsnormen voor de koolstofdioxidestroom die wordt vervoerd door het vervoersnetwerk;<br>
-2° de interoperabiliteit van het vervoersnetwerk met de lokale clusters en terminals voor vloeibaarmaking.<br>
+De Vlaamse Regering kan bij de aanwijzing voorwaarden opleggen aan de beheerder van het vervoersnetwerk. Die voorwaarden kunnen onder meer betrekking hebben op:<br>
+1°&nbsp;&nbsp; &nbsp;de kwaliteitsnormen voor de koolstofdioxidestroom die wordt vervoerd door het vervoersnetwerk;<br>
+2°&nbsp;&nbsp; &nbsp;de interoperabiliteit van het vervoersnetwerk met de lokale clusters, terminals voor vloeibaarmaking of andere infrastructuur voor het transport van koolstofdioxide.<br>
+<br>
+De Vlaamse Regering kan na de beslissing tot aanwijzing, vermeld in het eerste lid, voorwaarden opleggen voor de materies, vermeld in het tweede lid. Die voorwaarden worden opgelegd na overleg met de beheerder van het vervoers-netwerk.<br>
 <br>
 De kandidaat-beheerder van het vervoersnetwerk wordt met een beveiligde zending op de hoogte gebracht van de beslissing tot aanwijzing als beheerder van het vervoersnetwerk.
 
@@ -368,9 +388,9 @@ Het beheer van het vervoersnetwerk omvat de volgende taken:<br>
 2° voldoende capaciteit aanhouden om de vervoersbehoeften van het vervoersnetwerk te dekken;<br>
 3° het vervoersnetwerk en de bijbehorende installaties herstellen, preventief onderhouden, vernieuwen en verbeteren;<br>
 4° de plannen van het vervoersnetwerk opstellen, bewaren en ter beschikking stellen;<br>
-5° elke twee jaar een ontwikkelingsplan opstellen conform artikel 39;<br>
+5° ten minste elke twee jaar een ontwikkelingsplan opstellen conform artikel 39;<br>
 6° onderbrekingen en storingen bij het vervoer van koolstofdioxide oplossen;<br>
-7° in voorkomend geval, het installeren van meetapparatuur om de koolstofdioxidestromen naar het vervoersnetwerk te monitoren;<br>
+7° een meet- en monitoringplan uitwerken om de koolstofdioxidestromen in het vervoersnetwerk te monitoren;<br>
 8° registers bijhouden van koolstofdioxide dat wordt vervoerd door of tijdelijk wordt opgeslagen in het vervoersnetwerk;<br>
 9° het verbinden van lokale clusters met andere lokale clusters in het Vlaamse Gewest;<br>
 10° het verbinden van lokale clusters met terminals voor vloeibaarmaking die niet in hun aaneengesloten geografisch afgebakend gebied gelegen zijn;<br>
@@ -423,7 +443,7 @@ De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de beheerder va
 
 ### ART 39.
 
-§1. De beheerder van het vervoersnetwerk maakt tweejaarlijks een indicatief ontwikkelingsplan op.<br>
+§1. De beheerder van het vervoersnetwerk maakt ten minste tweejaarlijks een indicatief ontwikkelingsplan op.<br>
 <br>
 Het ontwikkelingsplan bevat ten minste de volgende elementen:<br>
 1° een gedetailleerde raming van de capaciteitsbehoeften, met aanduiding van de onderliggende hypothesen, en de toekomstverwachtingen voor een periode van drie jaar en een periode van tien jaar;<br>
@@ -445,9 +465,9 @@ Het ontwikkelingsplan, vermeld in het eerste lid, wordt goedgekeurd door de Vlaa
 <br>
 De Vlaamse Regering kan, na advies van de Vlaamse Nutsregulator, de nadere regels bepalen voor de vorm, de procedure en de inhoud van de consultatie, vermeld in het eerste lid.<br>
 <br>
-§3. De Vlaamse Regering beslist, na advies van de Vlaamse Nutsregulator, binnen negentig dagen na de dag waarop ze het voormelde ontwikkelingsplan heeft ontvangen over de goedkeuring, vermeld in paragraaf 1. Als de minister aan de beheerder van het vervoersnetwerk bijkomende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen, met negentig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Deze bijkomende inlichtingen worden meegedeeld aan de Vlaamse Nutsregulator.<br>
+§3. De Vlaamse Regering beslist binnen vijfenveertig dagen na de dag waarop ze het advies van de Vlaamse Nutsregulator en het VEKA over het ontwerp van ontwikkelingsplan heeft ontvangen, over de goedkeuring, vermeld in para-graaf 1. Als de minister aan de beheerder van het vervoersnetwerk bijko-mende inlichtingen vraagt, wordt de voormelde termijn om een beslissing te nemen met vijfenveertig dagen verlengd vanaf de dag waarop de bijkomende inlichtingen zijn gevraagd. Die bijkomende inlichtingen worden meegedeeld aan de Vlaamse Nutsregulator en het VEKA.<br>
 <br>
-De Vlaamse Regering bepaalt de procedure voor het indienen van het ontwikkelingsplan.<br>
+De Vlaamse Regering kan de procedure bepalen voor het indienen van het ontwikkelingsplan.<br>
 <br>
 Weigert de Vlaamse Regering de goedkeuring van het ontwikkelingsplan, dan vraagt de minister, na overleg, de beheerder van het vervoersnetwerk het ontwikkelingsplan binnen een redelijke termijn aan te passen.<br>
 <br>
@@ -478,6 +498,12 @@ De beheerder van het vervoersnetwerk heeft de volgende rechten in het geval, ver
 2° het recht om te zorgen voor het toezicht op de pijpleidingen, vermeld in punt 1°;<br>
 3° het recht om de noodzakelijke onderhouds- en herstellingswerken uit te voeren aan de pijpleidingen, vermeld in punt 1°.<br>
 <br>
+De Vlaamse Regering kan de procedure voor het verlenen van een verklaring van algemeen nut als vermeld in het eerste lid nader bepalen.<br>
+<br>
+De Vlaamse Regering kan bepalen in welke gevallen een verklaring van openbaar nut, verkregen krachtens artikel 10 van de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen, kan worden overgedragen door de beheerder van het aardgasver-voersnet of de waterstofvervoersnetbeheerder aan de beheerder van het vervoersnetwerk.<br>
+<br>
+De beslissing over de overdracht van een verklaring van openbaar nut, vermeld in het vierde lid, wordt genomen door de Vlaamse Regering. In dat geval geldt de verklaring van openbaar nut als verklaring van algemeen nut.<br>
+<br>
 §4. De aangelegde pijpleidingen en de bijbehorende uitrustingen blijven eigendom van de beheerder van het vervoersnetwerk. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br>
 <br>
 §5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 1° en 2°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of in voorkomend geval de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat deze gedurende een maand het verzoek van de netbeheerder zonder gevolg heeft gelaten. In die gevallen kan de beheerder van het vervoersnetwerk overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de netbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, gebeurt dat op kosten van de beheerder zelf.<br>
@@ -488,11 +514,21 @@ De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de
 
 ### ART 42.
 
-Als de aanwezige bomen en beplantingen gerooid worden conform artikel 41, is de beheerder van het vervoersnetwerk een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br>
+§1. Als de aanwezige bomen en beplantingen gerooid worden conform artikel 41, is de beheerder van het vervoersnetwerk een eenmalige vergoeding verschuldigd aan de eigenaar ter compensatie van de gerooide bomen en beplantingen en de eventuele minwaarde van het onroerend goed.<br>
 <br>
-De Vlaamse Regering kan nadere regels vastleggen voor de procedure om de hoogte van de vergoeding te bepalen.<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de procedure om het bedrag van de vergoeding te bepalen.<br>
 <br>
-Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
+Als de partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.<br>
+<br>
+§2. Als een beheerder van het vervoersnetwerk na het verkrijgen van de verklaring van algemeen nut, vermeld in artikel 41, §3, pijpleidingen boven of onder private onbebouwde gronden bouwt, dan is die beheerder van het vervoersnetwerk een vergoeding verschuldigd aan de eigenaar van die gronden.&nbsp;<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen voor de procedure om het bedrag van de vergoeding te bepalen.<br>
+<br>
+Als de partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.<br>
+<br>
+§3. De beheerder van het vervoersnetwerk vergoedt de schade die berokkend wordt door de werken die hij uitvoert voor de oprichting of gedurende de exploitatie van het vervoersnetwerk en hij vergoedt ook de schade die aan derden wordt berokkend, hetzij door de uitvoering van de werken, hetzij door activiteiten op de gronden die met de erfdienstbaarheid bezwaard zijn.<br>
+<br>
+Als de partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
 
 ### ART 43.
 
@@ -680,12 +716,10 @@ De Vlaamse Regering kan de minimale elementen bepalen die worden behandeld in he
 2° toegang kan slechts worden geweigerd op grond van een gebrek aan capaciteit of verbindingsmogelijkheden op grond van een onverenigbaarheid van de technische specificaties of de onverenigbaarheid van de koolstofdioxidestroom met de normen goedgekeurd conform artikel 69 of 70;<br>
 3° de vervoerscapaciteit die beschikbaar is of redelijkerwijs beschikbaar kan worden gesteld;<br>
 4° de noodzaak om de behoeften van de beheerder van een lokale cluster of een vervoersnetwerk die naar behoren gemotiveerd en redelijk zijn, en de belangen van alle andere netgebruikers van een lokale cluster of een vervoersnetwerk of de relevante behandelingsfaciliteiten in acht te nemen;<br>
-5° het aandeel van de afvang en geologische opslag van koolstofdioxide in het geheel van de reductieverplichtingen voor koolstofdioxide voor het Vlaamse Gewest.<br>
+5° ...<br>
 <br>
 §2. Het technisch reglement, vermeld in paragraaf 1, wordt goedgekeurd door de Vlaamse Regering. In voorkomend geval wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de Vlaamse Nutsregulator, die, rekening houdend met de opmerkingen van de Vlaamse Regering, de gevraagde aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
 &nbsp;<br>
-De Vlaamse Regering bepaalt de procedure voor de goedkeuring, vermeld in het eerste lid.<br>
-<br>
 Het goedgekeurde technisch reglement, vermeld in het eerste lid, treedt in werking na de bekendmaking ervan in het Belgisch Staatsblad.
 
 ### ART 63.
@@ -775,9 +809,9 @@ Een koolstofdioxidestroom kan incidentele aanverwante stoffen uit de bron of het
 
 ### ART 69.
 
-§1. De beheerder van een lokale cluster stelt, rekening houdend met wat bepaald wordt in artikel 68, normen vast met betrekking tot de kwaliteit van de koolstofdioxidestroom na overleg met de netgebruikers en potentiële netgebruikers binnen het aansluitend geografisch afgebakend gebied waarvoor hij is aangewezen conform artikel 9. De beheerder van een lokale cluster houdt daarbij rekening met Europese normen en, indien voorhanden, de normen vastgelegd door de beheerder van het vervoersnetwerk.<br>
+§1. De beheerder van een lokale cluster stelt, rekening houdend met wat bepaald wordt in artikel 68, normen vast met betrekking tot de kwaliteit van de koolstofdioxidestroom na overleg met de netgebruikers, potentiële netgebruikers binnen het aansluitend geografisch afgebakend gebied en alle andere relevante marktpartijen waarvoor hij is aangewezen conform artikel 9. De beheerder van een lokale cluster houdt daarbij rekening met Europese normen en, indien voorhanden, de normen vastgelegd door de beheerder van het vervoersnetwerk.<br>
 <br>
-De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
+De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering kan de procedure bepalen voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
 <br>
 §2. De beheerder van een lokale cluster houdt toezicht op de naleving van de normen, vermeld in paragraaf 1, eerste lid. De beheerder van de lokale cluster neemt alle nodige maatregelen om niet-naleving van de normen te voorkomen en te remediëren.<br>
 <br>
@@ -785,9 +819,9 @@ De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regerin
 
 ### ART 70.
 
-§1. De beheerder van het vervoersnetwerk stelt, rekening houdend met wat bepaald wordt in artikel 68, normen vast met betrekking tot de kwaliteit van de koolstofdioxidestroom na overleg met de netgebruikers, de beheerders van de lokale clusters en beheerders van pijpleidingen of netwerk van pijpleidingen voor het vervoer van koolstofdioxide die niet in het Vlaamse Gewest liggen. De beheerder van het vervoersnetwerk houdt daarbij rekening met Europese normen.<br>
+§1. De beheerder van het vervoersnetwerk stelt, rekening houdend met wat bepaald wordt in artikel 68, normen vast met betrekking tot de kwaliteit van de koolstofdioxidestroom na overleg met de netgebruikers, de beheerders van de lokale clusters, de beheerders van pijpleidingen of van een netwerk van pijpleidingen voor het vervoer van koolstofdioxide die niet in het Vlaamse Gewest liggen en alle andere relevante marktpartijen. De beheerder van het vervoersnetwerk houdt daarbij rekening met Europese normen.<br>
 <br>
-De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering bepaalt de procedure voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
+De normen, vermeld in het eerste lid, worden goedgekeurd door de Vlaamse Regering na advies van de Vlaamse Nutsregulator. De Vlaamse Regering kan de procedure bepalen voor de goedkeuring van de kwaliteitsnormen van de koolstofdioxidestroom.<br>
 <br>
 §2. De beheerder van het vervoersnetwerk houdt toezicht op de naleving van de normen, vermeld in paragraaf 1, eerste lid. De beheerder van het vervoersnetwerk neemt alle nodige maatregelen om niet-naleving van de normen te voorkomen en te remediëren.
 
@@ -803,7 +837,7 @@ De Vlaamse Nutsregulatorkan een aanvraag als vermeld in het eerste lid alleen we
 1° er is niet voldaan aan de voorwaarden, vermeld in het eerste lid, die de Vlaamse Regering vastgesteld heeft;<br>
 2° de veiligheid van onder meer lokale clusters, het vervoersnetwerk of andere netten in hetzelfde geografisch gebied als waar de directe leiding gelegen is, komt in het gedrang.<br>
 <br>
-De Vlaamse Regering stelt de rechten en verplichtingen vast van de houders van een toelating voor de aanleg van een directe leiding die de bedrijfssite van de producent overschrijdt.<br>
+De Vlaamse Regering kan de rechten en verplichtingen vaststellen van de houders van een toelating voor de aanleg van een directe leiding die de bedrijfssite van de producent overschrijdt.<br>
 <br>
 De beheerder van de directe leiding die de bedrijfssite van de producent overschrijdt, meldt elektronisch aan de Vlaamse Nutsregulatorde datum van ingebruikname en de ligging van de voormelde directe leiding binnen dertig dagen na de aanleg of ingebruikname van de voormelde directe leiding.<br>
 <br>
