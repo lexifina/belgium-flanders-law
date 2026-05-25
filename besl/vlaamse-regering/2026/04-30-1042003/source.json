@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042003,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-30 tot wijziging van het koninklijk besluit van 13 november 2011 betreffende vervoerbare drukapparatuur, wat betreft noodsituaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042003/VolledigDocument?datum=2026-05-25",
+  "source_sha256": "c7fa1a286a47ceb0f9b3a40660290a84247c6b7ccf1580d0237d809d4fb4f8ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042003&param=informatie",
+  "as_of": "2026-05-25",
+  "made": "2026-04-30",
+  "gazette": "2026-05-15",
+  "numac": 2026003590,
+  "document_start": "2026-05-25",
+  "document_end": null,
+  "in_force": "2026-05-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
