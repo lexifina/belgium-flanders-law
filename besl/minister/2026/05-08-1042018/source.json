@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042018,
+  "title": "Ministerieel besluit van 2026-05-08 tot vaststelling van een bijkomende authenticatiemethode, vermeld in artikel 8/1, § 3, 7° van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042018/VolledigDocument?datum=2026-05-26",
+  "source_sha256": "4233c5b982b7592024f9fa4cbb7dfdf6efa1c2afd63fdbdde678d69d492d8af3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042018&param=informatie",
+  "as_of": "2026-05-26",
+  "made": "2026-05-08",
+  "gazette": "2026-05-26",
+  "numac": 2026003708,
+  "document_start": "2026-05-26",
+  "document_end": null,
+  "in_force": "2026-05-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
