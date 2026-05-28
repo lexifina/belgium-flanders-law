@@ -36,3 +36,13 @@ Aan deel XIbis, titel 5, hoofdstuk 6, van hetzelfde besluit, ingevoegd bij het b
 2° de loods met de operationele functie, die volgens de dienstregeling met rust&nbsp;is, krijgt geen beschikbaarheidsdag &nbsp;als vermeld in artikel XIbis 63, §2, vierde lid, om zich beschikbaar te houden voor de uitzonderlijke transporten, tenzij die loods met rust een effectieve loodsprestatie moet leveren. &nbsp;<br>
 De loods met rust kan het zich beschikbaar houden voor de uitzonderlijke transporten niet compenseren;<br>
 3° om zich beschikbaar te houden voor de uitzonderlijke transporten wordt de loods individueel verloond.”.
+
+### ART 3.
+
+Artikel 1 heeft uitwerking met ingang van 1 december 2025.<br>
+<br>
+Artikel 2 heeft uitwerking met ingang van 1 mei 2025.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de human resources, is belast met de uitvoering van dit besluit.

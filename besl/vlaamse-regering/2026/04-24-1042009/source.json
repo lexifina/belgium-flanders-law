@@ -2,16 +2,16 @@
   "codex_id": 1042009,
   "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft het zich beschikbaar houden van de operationele loodsen voor de uitzonderlijke transporten voor de Oosterweelverbinding en de toelage technische bekwaamheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042009/VolledigDocument?datum=2025-12-01",
-  "source_sha256": "6d0d7a7173eb191f24d3fd2fdd16beaba31db19c8e0650466e19a7bee93aa0bb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042009/VolledigDocument?datum=2026-05-28",
+  "source_sha256": "a41b9a63bee0f832d650916b1ea96d66b133eccc346ce52aba29bfafe66951b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042009&param=informatie",
-  "as_of": "2025-12-01",
+  "as_of": "2026-05-28",
   "made": "2026-04-24",
   "gazette": "2026-05-18",
   "numac": 2026003639,
   "document_start": null,
   "document_end": null,
-  "in_force": "2025-12-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2025-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-05-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-05-28; future article versions excluded; article text as the API gives it"
 }
