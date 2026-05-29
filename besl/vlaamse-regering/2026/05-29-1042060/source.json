@@ -2,16 +2,16 @@
   "codex_id": 1042060,
   "title": "Besluit van de Vlaamse Regering van 2026-05-29 tot herverdeling van VAK vanuit een provisioneel krediet van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 in het kader van de aankoop van de gronden Van Hool",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042060/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "83e1903756ba7bfcb8b6c8df9a974859e39b1f50c70e0644478fb4cf7d4cb3ea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042060/VolledigDocument?datum=2026-05-29",
+  "source_sha256": "5ef27374b6df56fa1934089b9d7152f66b3f81f87ee1f523d4508f4638a48df4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042060&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2026-05-29",
   "made": "2026-05-29",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2026-05-29",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-05-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-05-29; future article versions excluded; article text as the API gives it"
 }
