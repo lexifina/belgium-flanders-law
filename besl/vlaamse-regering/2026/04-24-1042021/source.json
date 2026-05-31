@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042021,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot wijziging van het besluit van de Vlaamse Regering van 19 januari 2018 betreffende de bescherming van de verkeersinfrastructuur in geval van vervoer met langere en zwaardere slepen in het kader van een tweede proefproject, wat betreft een verlenging van het tweede proefproject",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042021/VolledigDocument?datum=2026-05-31",
+  "source_sha256": "1f9c91c41566d617e406824f12bdefe7fd117ea1cccb7f533db74309a2c16f17",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042021&param=informatie",
+  "as_of": "2026-05-31",
+  "made": "2026-04-24",
+  "gazette": "2026-05-21",
+  "numac": 2026003712,
+  "document_start": "2026-05-31",
+  "document_end": null,
+  "in_force": "2026-05-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
