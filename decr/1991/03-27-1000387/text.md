@@ -2137,7 +2137,43 @@ Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingsterm
 
 ### ART. 89.
 
-[... (opgeh. decr. 18 mei 1999, art. 93, I: 1 september 1999) ]
+Elke gemeenschapsinstelling stelt een lijst vast van de personeelsleden die op 1 september 2026 overgaan naar de GI-school.<br>
+<br>
+De lijst, vermeld in het eerste lid, bevat van elk personeelslid de volgende gegevens:<br>
+1° de identiteit;<br>
+2° de nationaliteit;<br>
+3° het rijksregisternummer;<br>
+4° de diploma’s en kopieën van de originele diploma’s;<br>
+5° het ambt op 1 september 2026 volgens de concordantietabel, vermeld in artikel 90, tweede lid, en artikel 91, tweede lid;<br>
+6° het aantal dagen dienstanciënniteit overeenkomstig artikel 90, eerste lid, 1°, en artikel 91, eerste lid, 1°;<br>
+7° de huidige statutaire toestand: contractueel met een arbeidsovereenkomst voor bepaalde duur, contractueel met een arbeidsovereenkomst voor onbepaalde duur of vastbenoemd, met het volume uitgedrukt in uren per week;<br>
+8° de verwachte statutaire toestand op 1 september 2026: vastbenoemd, tijdelijk aangesteld voor doorlopende duur, tijdelijk aangesteld voor bepaalde duur, met het volume uitgedrukt in uren per week;<br>
+9° de omvang van de gewenste aanstelling per 1 september 2026, met het volume uitgedrukt in uren per week;<br>
+10° informatie over opgenomen verlofstelsels en dienstonderbrekingen en lopende verlofstelsels en dienstonderbrekingen tot na 31 augustus 2026 met vermelding van de begin- en einddatum;<br>
+11° de salarisschaal die het personeelslid op grond van het Vlaams personeelsstatuut geniet;<br>
+12° de geldelijke anciënniteit in jaren, maanden en dagen, en ook prestaties bij vroegere werkgevers die opgenomen zijn in de geldelijke anciënniteit;<br>
+13° een uittreksel uit het strafregister;<br>
+14° het aantal genoten ziektedagen met opsplitsing tussen bezoldigde en onbezoldigde ziektedagen;<br>
+15° een bewijs van taalkennis als het personeelslid niet in het bezit is van een diploma met als onderwijstaal Nederlands;<br>
+16° informatie over een lopende fietslease.<br>
+<br>
+De gegevens, vermeld in het tweede lid, worden verwerkt met het oog op:<br>
+1° de organisatie van het onderwijs in de GI-school;<br>
+2° de aanstelling van de personeelsleden in de GI-school;<br>
+3° de opdrachtverdeling onder de personeelsleden in de GI-school;<br>
+4° de bezoldiging van de personeelsleden in de GI-school.<br>
+<br>
+De lijst, vermeld in het eerste lid, wordt uiterlijk op 1 juni 2026 bezorgd aan de scholengroep die bevoegd is of de scholengroepen die bevoegd zijn voor het onderwijs in de GI-school. Die scholengroep is of die scholengroepen zijn verwerkingsverantwoordelijke van de gegevens, vermeld in het tweede lid.<br>
+<br>
+De persoonsgegevens, vermeld in het tweede lid, worden bewaard tot maximaal 110 jaar na de geboorte van de betrokken personeelsleden.<br>
+<br>
+De scholengroep neemt of de scholengroepen nemen de verwerkingsverantwoordelijkheid op in het kader van diens/hun rol als inrichtende macht van de GI-school. De inrichtende machten van het gemeenschapsonderwijs bezitten als vermeld in artikel 4, §2, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs al de bevoegdheden die rechtstreeks of onrechtstreeks noodzakelijk of nuttig zijn voor de uitoefening van hun opdracht, met inbegrip van het oprichten van of deelnemen in andere rechtspersonen.<br>
+<br>
+Wijzigingen die na 1 juni 2026 plaatsvinden en die een invloed hebben op de gegevens uit de lijst, vermeld in het eerste lid, worden onmiddellijk bezorgd aan de bevoegde scholengroep of scholengroepen.<br>
+<br>
+De gemeenschapsinstellingen informeren de betrokken personeelsleden tijdig en voorzien in een procedure om administratieve onjuistheden over de gegevens, vermeld in het tweede lid, recht te zetten. De leden van het bevoegde lokale onderhandelingscomité krijgen inzage in de lijst en de gegevens, vermeld in het eerste en tweede lid.<br>
+<br>
+In dit artikel wordt verstaan onder gemeenschapsinstelling: een instelling als vermeld in artikel 2, 4°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht.
 
 ### ART. 90.
 
