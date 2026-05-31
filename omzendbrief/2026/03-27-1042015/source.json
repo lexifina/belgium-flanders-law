@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042015,
+  "title": "Omzendbrief van 2026-03-27 KBBJ/ABB 2026/3 betreffende de wettelijke verplichtingen van de Vlaamse lokale en provinciale besturen bij betalingsachterstand",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042015/VolledigDocument?datum=2026-05-31",
+  "source_sha256": "117f2e772558b3a3996d2c194114e6172dab73ff1bb336f30f629b6a5b4e2166",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042015&param=informatie",
+  "as_of": "2026-05-31",
+  "made": "2026-03-27",
+  "gazette": "2026-05-21",
+  "numac": 2026003661,
+  "document_start": "2026-05-31",
+  "document_end": null,
+  "in_force": "2026-05-31",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2026-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
