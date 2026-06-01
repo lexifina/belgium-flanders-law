@@ -73,6 +73,82 @@ Het agentschap bezorgt de overeenkomsten die gesloten zijn tussen een woonmaatsc
 
 In artikel 2.33/8, §3, tweede lid, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 november 2022, wordt de zinsnede “heeft een sociaal woonbeleidsconvenant gesloten als vermeld in artikel 5.52, eerste lid” vervangen door de zinsnede “gebruikt de procedure om na te gaan of sociale woonprojecten op haar grondgebied door een woonmaatschappij kunnen worden gerealiseerd, vermeld in artikel 2.2, §2, eerste lid”.&nbsp;
 
+### ART 5.
+
+In artikel 2.36 van hetzelfde besluit worden het woord “wetenschappelijk” en de zinsnede “eerste lid,” opgeheven.&nbsp;
+
+### ART 6.
+
+In artikel 2.37, tweede lid, van hetzelfde besluit wordt de zinsnede “eerste lid,” opgeheven.
+
+### ART 7.
+
+In het opschrift van afdeling 1 van boek 2, deel 3, titel 1/1, hoofdstuk 3 wordt de zinsnede “eerste lid,” opgeheven.
+
+### ART 8.
+
+In artikel 2.38 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede “eerste lid,” opgeheven;<br>
+2° in het tweede lid wordt de zinsnede “eerste lid,” opgeheven;<br>
+3° er wordt een lid toegevoegd, dat luidt als volgt:<br>
+“Onder voorbehoud van het derde lid stelt de minister de gemeente, vermeld in het eerste lid, en de gemeente, vermeld in het tweede lid, voor minstens 75% vrij van de specifieke inhaalbeweging als die gemeente een van de hierna vermelde gemeenten is:&nbsp;<br>
+1° Asse;<br>
+2° Beersel;<br>
+3° Dilbeek;<br>
+4° Drogenbos;<br>
+5° Grimbergen;&nbsp;<br>
+6° Halle<br>
+7° Hoeilaart;<br>
+8° Kraainem;<br>
+9° Linkebeek<br>
+10° Machelen;<br>
+11° Meise;<br>
+12° Merchtem;<br>
+13° Overijse;<br>
+14° Sint-Genesius-Rode;<br>
+15° Sint-Pieters-Leeuw;&nbsp;<br>
+16° Tervuren;<br>
+17° Vilvoorde;<br>
+18° Wemmel;<br>
+19° Wezembeek-Oppem;<br>
+20° &nbsp;Zaventem.”.
+
+### ART 9.
+
+In het opschrift van afdeling 2 van boek 2, deel 3, titel 1/1, hoofdstuk 3 wordt de zinsnede “eerste lid,” opgeheven.
+
+### ART 10.
+
+In artikel 2.39 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede “eerste lid,” wordt opgeheven;<br>
+2° tussen het woord “geheel” en het woord “vrijstellen” worden de woorden “of gedeeltelijk” ingevoegd;<br>
+3° er wordt een lid toegevoegd, dat luidt als volgt:<br>
+“Als de gemeente, vermeld in het eerste lid, een van de hierna vermelde gemeenten is, stelt de minister die gemeente voor minstens 75% vrij van de specifieke inhaalbeweging:&nbsp;<br>
+1° Asse;<br>
+2° Beersel;<br>
+3° Dilbeek;<br>
+4° Drogenbos;<br>
+5° Grimbergen;&nbsp;<br>
+6° Halle;<br>
+7° Hoeilaart;<br>
+8° Kraainem;<br>
+9° Linkebeek;<br>
+10° Machelen;<br>
+11° Meise;<br>
+12° Merchtem;<br>
+13° Overijse;<br>
+14° Sint-Genesius-Rode;<br>
+15° Sint-Pieters-Leeuw;&nbsp;<br>
+16° Tervuren;<br>
+17° Vilvoorde;<br>
+18° Wemmel;<br>
+19° Wezembeek-Oppem;<br>
+20° Zaventem.”.
+
+### ART 11.
+
+In boek 2, deel 3, titel 1/1, hoofdstuk 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2024, worden afdeling 3, die bestaat uit artikel 2.40 tot en met 2.42, en afdeling 4, die bestaat uit artikel 2.43, opgeheven.&nbsp;
+
 ### ART 18.
 
 In boek 5, deel 2, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2024, wordt titel 5, die bestaat uit artikel 5.80, opgeheven.
