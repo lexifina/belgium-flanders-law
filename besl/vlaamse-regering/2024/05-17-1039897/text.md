@@ -65,7 +65,7 @@ In het eerste lid wordt verstaan onder handboek voor de classificatie van psychi
 
 ### ART 4.
 
-De bijkomende middelen, vermeld in artikel 2, kunnen worden toegekend voor een periode van maximaal negen maanden per meerderjarige persoon met een handicap en is niet verlengbaar. De voormelde middelen worden toegekend per kalendermaand.
+De bijkomende middelen, vermeld in artikel 2, kunnen worden toegekend voor een periode van maximaal negen maanden per meerderjarige persoon met een handicap en is niet verlengbaar. De voormelde middelen worden toegekend per kalendermaand en kunnen uiterlijk tot 31 december 2027 ingezet worden.
 
 ### ART 5.
 
@@ -77,7 +77,7 @@ De bijkomende middelen, vermeld in artikel 2, bedragen maximaal 75% van het defi
 
 De aanvraag van de bijkomende middelen, vermeld in artikel 2 van dit besluit, wordt ingediend bij het agentschap door de vergunde zorgaanbieder die een individuele dienstverleningsovereenkomst als vermeld in artikel 1, 7°/1 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, sluit met de meerderjarige persoon met een handicap in overleg met de persoon met een handicap of zijn wettelijk vertegenwoordiger.<br>
 <br>
-De aanvraag moet worden ingediend uiterlijk op 1 juni 2026.
+De aanvraag moet worden ingediend uiterlijk op 1 december 2027.
 
 ### ART 7.
 
@@ -93,7 +93,9 @@ Bij het aanvraagformulier, vermeld in het eerste lid, voegt de aanvrager als bij
 5° de manier waarop de vergunde zorgaanbieder de sectorale of intersectorale partner zal vergoeden voor de ondersteuning;&nbsp;<br>
 6° de wijze waarop de vergunde zorgaanbieder na afloop van de periode, vermeld in artikel 4, de zorg en ondersteuning duurzaam zal organiseren.&nbsp;<br>
 <br>
-Het plan, vermeld in het derde lid, wordt ondertekend door alle partijen die betrokken zijn bij de uitvoering van dat plan.
+Het plan, vermeld in het derde lid, wordt ondertekend door alle partijen die betrokken zijn bij de uitvoering van dat plan.<br>
+<br>
+Het plan loopt uiterlijk af op 31 december 2027.
 
 ### ART 8.
 
@@ -165,7 +167,7 @@ Als de meerderjarige persoon met een handicap tijdens de periode, vermeld in art
 
 ### ART 14.
 
-Dit besluit houdt op uitwerking te hebben op 31 augustus 2027.
+Dit besluit houdt op uitwerking te hebben op 31 december 2027.
 
 ## Hoofdstuk 3. Slotbepalingen
 
