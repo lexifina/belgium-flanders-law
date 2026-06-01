@@ -1132,7 +1132,7 @@ De Vlaamse Regering bepaalt het tijdstip waarop de selectieve participatietoesla
 
 De toelagen in het kader van het gezinsbeleid worden uitbetaald op een bankrekening.<br>
 <br>
-Als een betaling van de toelagen in het kader van het gezinsbeleid om technische of sociale redenen niet mogelijk is per overschrijving bepaalt de Vlaamse Regering met welk betaalmiddel de toelagen worden uitbetaald en volgens welke regelst.
+De Vlaamse Regering kan bepalen onder welke voorwaarden de toelagen in het kader van het gezinsbeleid uitbetaald kunnen worden aan een andere rechtspersoon in naam en voor rekening van de begunstigden.
 
 ### ART 77.
 
