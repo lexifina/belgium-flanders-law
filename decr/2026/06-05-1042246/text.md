@@ -1,5 +1,21 @@
 # Decreet van 2026-06-05 over het onderwijs XXXVI
 
+### ART 5.
+
+Aan artikel 4, §4, van hetzelfde decreet, ingevoegd bij het decreet van 22 juni 2007 en gewijzigd bij de decreten van 15 juni 2018, 6 juli 2018 en 9 juli 2021, worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+“Voor de toepassing van hoofdstuk III kan de raad van bestuur de diensten die een personeelslid gepresteerd heeft in een wervingsambt van het bestuurs- en onderwijzend personeel in een centrum voor volwassenenonderwijs, beschouwen als diensten die gepresteerd zijn in een wervingsambt van het bestuurs- en onderwijzend personeel in het gewoon en buitengewoon secundair onderwijs. De raad van bestuur kan daarbij voor een personeelslid diensten in aanmerking nemen voor maximaal 290 dagen, berekend volgens paragraaf 1.<br>
+<br>
+Voor de toepassing van hoofdstuk III kan de raad van bestuur de diensten die een personeelslid gepresteerd heeft in een wervingsambt van het ondersteunend personeel in een centrum voor volwassenenonderwijs, beschouwen als diensten die gepresteerd zijn in een wervingsambt van een personeelscategorie als vermeld in artikel 2, §1. De raad van bestuur kan daarbij voor een personeelslid diensten in aanmerking nemen voor maximaal 290 dagen, berekend volgens paragraaf 1.”.
+
+### ART 15.
+
+Aan artikel 6, §4, van hetzelfde decreet, ingevoegd bij het decreet van 22 juni 2007 en gewijzigd bij de decreten van 15 juni 2018, 6 juli 2018 en 9 juli 2021, worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+“Voor de toepassing van hoofdstuk III kan de inrichtende macht de diensten die een personeelslid gepresteerd heeft in een wervingsambt van het bestuurs- en onderwijzend personeel in een centrum voor volwassenenonderwijs, beschouwen als diensten die gepresteerd zijn in een wervingsambt van het bestuurs- en onderwijzend personeel in het gewoon en buitengewoon secundair onderwijs. De inrichtende macht kan daarbij voor een personeelslid diensten in aanmerking nemen voor maximaal 290 dagen, berekend volgens paragraaf 1.<br>
+<br>
+Voor de toepassing van hoofdstuk III kan de inrichtende macht de diensten die een personeelslid gepresteerd heeft in een wervingsambt van het ondersteunend personeel in een centrum voor volwassenenonderwijs, beschouwen als diensten die gepresteerd zijn in een wervingsambt van een personeelscategorie als vermeld in artikel 4, §1. De inrichtende macht kan daarbij voor een personeelslid diensten in aanmerking nemen voor maximaal 290 dagen, berekend volgens paragraaf 1.”.
+
 ### ART 55.
 
 In artikel 44bis, §2, van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997, vervangen bij het decreet van 26 januari 2018 en gewijzigd bij het decreet van 13 juni 2025, wordt het tweede lid vervangen door wat volgt:<br>
