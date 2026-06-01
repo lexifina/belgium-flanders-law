@@ -320,7 +320,7 @@ In de periode van 1 januari 2026 tot en met 31 oktober 2026 is het in het ICES-g
 &nbsp;&nbsp; &nbsp;<br>
 Om in de lijst, vermeld in het eerste lid, opgenomen te kunnen worden, moeten de eigenaars van vissersvaartuigen van het groot vlootsegment vóór 1 april 2026 per aangetekende brief of per e-mail een aanvraag tot het verkrijgen van een visvergunning indienen bij de bevoegde entiteit.<br>
 &nbsp;&nbsp; &nbsp;<br>
-§3. Van 1 juni 2026 tot en met 30 september 2026 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid overschrijdt die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§3. Van 1 juni 2026 tot en met 30 september 2026 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid overschrijdt die gelijk is aan 1000 kg, vermeerderd met de hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 &nbsp;&nbsp; &nbsp;<br>
 §4. Wanneer de hoeveelheid tong, vermeld in paragraaf 3, wordt overschreden, wordt de overschreden hoeveelheid tong in mindering gebracht op de hoeveelheid tong die aan het betrokken vissersvaartuig wordt toegekend voor 2027.<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -352,7 +352,7 @@ Daarnaast is het verboden voor de vissersvaartuigen vermeld in het eerste lid, o
 &nbsp;&nbsp; &nbsp;<br>
 Op basis van de gemiddelde opname van het tongquotum in de jaren 2023-2024-2025 wordt het beschikbare tongquotum als volgt verdeeld: 72% &nbsp;voor de vissersvaartuigen van het GVS en 28% voor de vissersvaartuigen van het KVS.<br>
 &nbsp;&nbsp; &nbsp;&nbsp;<br>
-In het ICES-gebied VIId is het in de periode van 1 januari 2026 tot 31 januari 2026 voor een vissersvaartuig van het KVS verboden bij de tongvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis in dat ICES-gebied. Vanaf 1 februari 2026 daalt deze hoeveelheid naar 150 kg per vaartdag.<br>
+In het ICES-gebied VIId is het in de periode van 1 januari 2026 tot 31 januari 2026 voor een vissersvaartuig van het KVS verboden bij de tongvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis in dat ICES-gebied.&nbsp;In de periode van 1 februari 2026 tot en met 31 mei 2026 bedraagt de maximale hoeveelheid 150 kg per vaartdag. Vanaf 1 juni 2026 bedraagt deze maximale hoeveelheid 100 kg per vaartdag.<br>
 &nbsp;&nbsp; &nbsp;<br>
 In het ICES-gebied VIId is het voor een vissersvaartuig van het GVS tijdens de periode van 1 januari 2026 tot en met 30 juni 2026 verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 4 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
 &nbsp;&nbsp; &nbsp;<br>
@@ -460,15 +460,19 @@ De bepalingen in paragraaf 2 en 3 zijn niet van toepassing op Golfrog.&nbsp;
 
 §1. Het is voor een vissersvaartuig in de ICES-gebieden II, IV, verboden om bij makreelvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 50 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis.<br>
 <br>
-De makreelvangsten in andere ICES-gebieden zijn verboden totdat er quotum kan worden bijgeruild.&nbsp;<br>
+Het is voor een vissersvaartuig in de ICES-gebieden VII, VIIIab, verboden om bij makreelvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 100 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis.<br>
 <br>
 §2. In de ICES-gebieden IV en VIId, zijnde Noordzee en Oostelijk Engels Kanaal, is het voor een vissersvaartuig verboden bij de haringvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 150 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die visreis.<br>
 <br>
 §3. Het is voor een vissersvaartuig verboden bij de heekvangsten per visreis een hoeveelheid te overschrijden die gelijk is aan 300 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis.<br>
 <br>
-§4. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar per visreis een hoeveelheid te overschrijden die gelijk is aan 175 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+§4. Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS in de periode tussen 1 januari 2026 en 31 mei 2026 verboden bij de vangsten van tongschar per visreis een hoeveelheid te overschrijden die gelijk is aan 175 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
 <br>
-Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar een hoeveelheid te overschrijden die gelijk is aan 350 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+Vanaf 1 juni 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar per visreis een hoeveelheid te overschrijden die gelijk is aan 350 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+<br>
+Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS&nbsp;in de periode tussen 1 januari 2026 en 31 mei 2026 verboden bij de vangsten van tongschar een hoeveelheid te overschrijden die gelijk is aan 350 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+<br>
+Vanaf 1 juni 2026 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar per visreis een hoeveelheid te overschrijden die gelijk is aan 700 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
 <br>
 Het is in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van witje per visreis een hoeveelheid te overschrijden die gelijk is aan 25 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
 <br>
