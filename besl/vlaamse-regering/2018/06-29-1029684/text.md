@@ -63,7 +63,7 @@ De begunstigde is titularis van de opgegeven bankrekening. De controle van de ba
 <br>
 Minstens een van de begunstigden is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door het agentschap Opgroeien regie en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
 <br>
-§ 3. De uitbetalingsactoren kunnen op eigen verantwoordelijkheid de gezinsbijslagen op de opgegeven bankrekening storten. Als ze na verloop van één maand geen bewijs hebben ontvangen dat minstens één van de begunstigden effectief titularis van de opgegeven bankrekening is, mogen de gezinsbijslagen niet langer op de opgegeven bankrekening worden gestort. In afwachting dat de begunstigden een nieuwe bankrekening opgeven, worden ze per circulaire cheque uitbetaald.<br>
+§ 3. De uitbetalingsactoren kunnen op eigen verantwoordelijkheid de gezinsbijslagen op de opgegeven bankrekening storten. Als ze na verloop van één maand geen bewijs hebben ontvangen dat minstens één van de begunstigden effectief titularis van de opgegeven bankrekening is, mogen de gezinsbijslagen niet langer op de opgegeven bankrekening worden gestort.<br>
 <br>
 Als de controle, vermeld in het eerste lid, niet uitgevoerd kan worden, kan de opgegeven bankrekening alleen aanvaard worden op basis van een formulier waarvan het model is opgesteld door het agentschap. Dat formulier wordt door de begunstigde, vermeld in artikel 64, § 1, eerste lid, van het Groeipakketdecreet van 2018, of door beide begunstigden, vermeld in artikel 65, § 1, eerste lid, van het voormelde decreet, ondertekend en door de financiële instelling gevalideerd.<br>
 <br>
@@ -109,7 +109,7 @@ De oudste begunstigde kan de uitbetalingsactor of de bankrekening kiezen als de 
 
 ### ART 7.
 
-Als het agentschap, overeenkomstig artikel 64, § 5, en artikel 65, § 5, van het Groeipakketdecreet van 2018 vaststelt dat er voor kinderen die recht geven op gezinsbijslagen, geen toelagen worden uitbetaald, en het recht automatisch kan worden vastgesteld, kent het agentschap de gezinsbijslagen toe. De gezinsbijslagen worden overgeschreven op een bankrekening die de begunstigden hebben gekozen conform artikel 4, § 1 tot en met § 3, van dit besluit, of, bij gebrek daaraan, per circulaire cheque.<br>
+Als het agentschap, overeenkomstig artikel 64, § 5, en artikel 65, § 5, van het Groeipakketdecreet van 2018 vaststelt dat er voor kinderen die recht geven op gezinsbijslagen, geen toelagen worden uitbetaald, en het recht automatisch kan worden vastgesteld, kent het agentschap de gezinsbijslagen toe. De gezinsbijslagen worden overgeschreven op een bankrekening die de begunstigden hebben gekozen conform artikel 4, § 1 tot en met § 3, van dit besluit.<br>
 <br>
 Als er voor de vaststelling van het recht bijkomend onderzoek nodig is, brengt het agentschap de begunstigden onmiddellijk op de hoogte van de basis van het onderzoek van het recht en verzoekt het hen om een bankrekening op te geven.<br>
 <br>
@@ -169,21 +169,11 @@ De minister kan de nadere regels bepalen die gelden als de begunstigden hun gezi
 
 ### ART 14.
 
-§ 1. Als de betaling van toelagen in het kader van het gezinsbeleid om technische of sociale redenen niet mogelijk is per overschrijving, worden de voormelde toelagen met een circulaire cheque betaald.<br>
+Als de begunstigden geen bankrekening opgeven aan de uitbetalingsactor waarop de toelagen in het kader van het gezinsbeleid betaald kunnen worden conform artikel 4, §1 tot en met §3, en artikel 6 en 7, van dit besluit en ze geen beroep kunnen doen op artikel 13 van dit besluit, worden de betalingen van die toelagen geschorst.<br>
 <br>
-§ 1/1. Als er twee begunstigden zijn, bepalen de begunstigden samen aan wie van hen de circulaire cheque, vermeld in artikel 76, tweede lid, van het Groeipakketdecreet van 2018, wordt uitbetaald, overeenkomstig de modaliteiten in artikel 4, § 2 van dit besluit.<br>
+De uitbetalingsactor brengt de begunstigden elektronisch of schriftelijk op de hoogte van de schorsing, vermeld in het eerste lid. De gezinsinspecteur voert een controle uit naar aanleiding van die schorsing om alsnog een rekeningnummer van de begunstigden te verkrijgen.<br>
 <br>
-De begunstigden kunnen deze keuze gemaakt overeenkomstig het eerste lid, herroepen onder toepassing van de modaliteiten in artikel 6 van dit besluit.<br>
-<br>
-Maken de beide begunstigden niet de keuze uit het eerst lid dan wordt de circulaire cheque uitbetaald aan de jongste onder hen.<br>
-<br>
-§ 2. Met behoud van de toepassing van de bepalingen van boek VII, titel 6/1, hoofdstuk 5, van het Wetboek van economisch recht wordt de eerst uitgegeven cheque die ongeïnd blijft, nadat de juistheid van de gegevens van de begunstigde onderzocht is, één keer heruitgegeven.<br>
-<br>
-Zodra een cheque wordt heruitgegeven conform het eerste lid en als de gegevens van de begunstigde ongewijzigd zijn gebleven, wordt de betaling geschorst. De uitbetalingsactor brengt de begunstigde daarvan schriftelijk op de hoogte. De gezinsinspecteur voert een controle uit naar aanleiding van die schorsing.<br>
-<br>
-Als de betaling wordt geschorst conform het tweede lid, wordt na inning van een uitgegeven cheque of op eenvoudig verzoek van een van de begunstigden de uitbetaling van de toelagen hervat conform de keuze die gemaakt is met behoud van de toepassing van paragraaf 1/1.<br>
-<br>
-De minister kan de verdere procedure bepalen voor de heruitgave en de schorsing van betaling als de cheque ongeïnd blijft.
+In geval van de schorsing conform het eerste en tweede lid is de uitbetaling van de toelagen in het kader van het gezinsbeleid gedurende vijf jaar opeisbaar vanaf de dag waarop de betaling had kunnen plaatsvinden conform de betaaldata, vermeld in artikel 11 en 12 van dit besluit.
 
 ### ART 15.
 
