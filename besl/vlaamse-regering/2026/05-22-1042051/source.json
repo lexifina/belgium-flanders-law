@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042051,
+  "title": "Besluit van de Vlaamse Regering van 2026-05-22 tot voorbereiding van de ontbinding en vereffening van de vzw ESF-Agentschap Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042051/VolledigDocument?datum=2026-06-01",
+  "source_sha256": "e9da0af653ded23649fd4e394ba238955a708b68705d215f69c1dc647ecec0a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042051&param=informatie",
+  "as_of": "2026-06-01",
+  "made": "2026-05-22",
+  "gazette": "2026-06-03",
+  "numac": 2026004009,
+  "document_start": "2026-06-01",
+  "document_end": null,
+  "in_force": "2026-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
