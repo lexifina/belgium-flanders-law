@@ -248,6 +248,11 @@ In boek 2, deel 4, titel 1, hoofdstuk 1, van hetzelfde decreet, gewijzigd bij de
 
 In artikel 67, tweede lid, van hetzelfde decreet worden tussen de woorden “een uitspraak heeft gedaan” en de woorden “over de bestemming” de woorden “of de plaatsende overheid een andersluidende beslissing heeft genomen” ingevoegd.
 
+### ART 34.
+
+In artikel 76 van hetzelfde decreet, gewijzigd bij het decreet van 1 juli 2022, wordt het tweede lid vervangen door wat volgt:<br>
+“De Vlaamse Regering kan bepalen onder welke voorwaarden de toelagen in het kader van het gezinsbeleid uitbetaald kunnen worden aan een andere rechtspersoon in naam en voor rekening van de begunstigden.”.
+
 ### ART 35.
 
 In artikel 101 van hetzelfde decreet wordt de zinsnede “artikel 1154” vervangen door de zinsnede “artikel 5.207”.
