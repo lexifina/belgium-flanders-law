@@ -115,7 +115,7 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; een creditbewijs voor 1 of meer opleidingsonderdelen;</p>
 
-<p>26°financieringsboni : het extra puntengewicht voor beursstudenten, studenten met een functiebeperking, werkstudenten en voor opleidingen die stopgezet of afgebouwd worden;</p>
+<p>26°financieringsboni : het extra puntengewicht voor beurstariefstudenten, studenten met een functiebeperking, werkstudenten en voor opleidingen die stopgezet of afgebouwd worden;</p>
 
 <p>27°financieringspunten : het financieringsvolume, uitgedrukt in een aantal punten en berekend op basis van het aantal opgenomen studiepunten, het aantal verworven studiepunten en het aantal diploma’s, en rekening houdend met het puntengewicht en de financieringsboni;</p>
 
@@ -6642,7 +6642,7 @@ In afwijking van het eerste lid kan de Vlaamse Regering het bedrag voor een onde
 
 ### ART. III.12.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Het aantal financieringspunten FPi-input in het begrotingsjaar t is gelijk aan de som van de producten van het gemiddelde aantal opgenomen studiepunten per opleiding, zoals bepaald in paragraaf 2, over de academiejaren t-7/t-6 tot en met t-3/t-2 en het overeenkomstige puntengewicht, zoals bepaald in artikel III.19.<br>
+<p>§1. Het aantal financieringspunten FPi-input in het begrotingsjaar t is gelijk aan de som van de producten van het gemiddelde aantal opgenomen studiepunten per opleiding, zoals bepaald in paragraaf 2, over de academiejaren t-7/t-6 tot en met t-3/t-2 en het overeenkomstige puntengewicht, zoals bepaald in artikel III.19.<br>
 <br>
 Vanaf het begrotingsjaar 2014 worden, voor de vaststelling van het aantal financieringspunten FPi-input in een instelling, de opgenomen studiepunten in de academisch gerichte hogeschoolopleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, geacht behoord te hebben tot de universiteit tijdens de relevante academiejaren, nodig voor de berekening van het vijfjarige gemiddelde.<br>
 <br>
@@ -6657,7 +6657,7 @@ In afwijking van het eerste lid is voor de graduaatsopleidingen het aantal finan
 <br>
 §3. Met behoud van de toepassing van de bepalingen in artikel III.4 behoudt een instelling het aantal opgenomen studiepunten door een generatiestudent als die student zich heroriënteert door in de loop van hetzelfde academiejaar te veranderen van opleiding en instelling, tenzij de uitschrijving plaatsvindt voor de start van het academiejaar.<br>
 <br>
-§4. Het aantal opgenomen studiepunten, berekend overeenkomstig paragraaf 2, door een beursstudent, door een student met een functiebeperking en door een werkstudent wordt vermenigvuldigd met een factor 1,5.<br>
+§4. Het aantal opgenomen studiepunten, berekend overeenkomstig paragraaf 2, door een beurstariefstudent, door een student met een functiebeperking en door een werkstudent wordt vermenigvuldigd met een factor 1,5.<br>
 <br>
 In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenkenmerken, vermeld in het eerste lid, dan wordt het aantal opgenomen studiepunten van de student verhoogd met de helft van het aantal opgenomen studiepunten van die student voor elke categorie van studentenkenmerken van toepassing op de betreffende student.</p>
 
@@ -6696,7 +6696,7 @@ c) in een schakelprogramma;<br>
 d) in een voorbereidingsprogramma voorafgaand aan een initiële master-opleiding;<br>
 2° voor de berekening van FPi-output-banaba : in een bachelor-na-bachelor-opleiding, vermenigvuldigd met een factor 0,5.<br>
 <br>
-§5. Het aantal verworven studiepunten FPi-output-initieel berekend zoals bepaald in paragraaf 4, door een beursstudent, door een student met een functiebeperking of door een werkstudent wordt vermenigvuldigd met een factor 1,5.<br>
+§5. Het aantal verworven studiepunten FPi-output-initieel berekend zoals bepaald in paragraaf 4, door een beurstariefstudent, door een student met een functiebeperking of door een werkstudent wordt vermenigvuldigd met een factor 1,5.<br>
 <br>
 In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenkenmerken, vermeld in het eerste lid, dan wordt het aantal verworven studiepunten van de student verhoogd met de helft van het aantal verworven studiepunten van die student voor elke categorie van studentenkenmerken van toepassing op de betreffende student.<br>
 <br>
@@ -6712,7 +6712,7 @@ In afwijking van paragraaf 4 komen de verworven studiepunten van een educatieve 
 
 ### ART. III.14.
 
-<p style="margin-left:0cm; margin-right:0cm">§1. Voor de berekening van het aantal financieringspunten FPi-diploma wordt in aanmerking genomen:<br>
+<p>§1. Voor de berekening van het aantal financieringspunten FPi-diploma wordt in aanmerking genomen:<br>
 1°&nbsp;&nbsp; voor de professioneel gerichte opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de initiële bacheloropleidingen (FPi-diploma-initieel) en in de bachelor-na-bacheloropleidingen (FPi-diploma-banaba);<br>
 2°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de initiële masteropleidingen (FPi-diploma-initieel);<br>
 3°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de universiteiten : het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de initiële masteropleidingen (FPi-diploma-initieel).<br>
@@ -6761,7 +6761,7 @@ In afwijking van de bepaling in het eerste lid komen diploma's van professioneel
 <br>
 De diploma's uitgereikt aan studenten die zich een tweede maal ingeschreven hebben voor een graduaatsopleiding, een bachelor- of masteropleiding en die al in het bezit zijn van een diploma voor die opleiding, worden niet in aanmerking genomen voor de berekening van het aantal financieringspunten FPi-diploma.<br>
 <br>
-§7. Het aantal uitgereikte diploma's FPi-diploma-initieel, berekend zoals bepaald in paragraaf 5, aan beursstudenten, aan studenten met een functiebeperking en aan werkstudenten wordt vermenigvuldigd met een factor 1,5.<br>
+§7. Het aantal uitgereikte diploma's FPi-diploma-initieel, berekend zoals bepaald in paragraaf 5, aan beurstariefstudenten, aan studenten met een functiebeperking en aan werkstudenten wordt vermenigvuldigd met een factor 1,5.<br>
 <br>
 In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenkenmerken, vermeld in het eerste lid, dan wordt de diplomabonus van de student verhoogd met de helft van die diplomabonus voor elke categorie van studentenkenmerken van toepassing op de betreffende student.</p>
 
@@ -6779,7 +6779,27 @@ In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenk
 
 ### ART. III.18.
 
-<P style="MARGIN: 0cm 0cm 0pt">De totale omvang van de middelen die gegenereerd worden door de   toepassing van de voorschriften inzake financieringsboni voor beursstudenten,   werkstudenten en studenten met een functiebeperking kan:<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp; in het onderwijsvariabel deel   voor de professionele opleidingen aan de hogescholen niet meer bedragen dan 15%   van het totaal VOWprof;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp; in het onderwijsvariabel deel   voor de academische opleidingen aan de hogescholen niet meer bedragen dan 10%   van het totaal VOWac;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp; in het onderwijsvariabel deel   voor de academische opleidingen aan de universiteiten niet meer bedragen dan 10%   van het totaal VOWun;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">4°&nbsp;&nbsp; in het onderwijsvariabele deel   voor de professionele opleidingen, met uitzondering van de professionele   kunstopleidingen, aan de hogescholen niet meer bedragen dan 15% van het totaal   VOWprof2014;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">5°&nbsp;&nbsp; in het onderwijsvariabele deel   voor de kunstopleidingen aan de hogescholen niet meer bedragen dan 10% van het   totaal VOWhko2014;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">6°&nbsp;&nbsp; in het onderwijsvariabele deel   voor de academische opleidingen aan de universiteiten niet meer bedragen dan 10%   in het totaal VOWun2014.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Indien het aandeel van die middelen de in het eerste lid genoemde   percentages overschrijdt dan worden de extra puntengewichten proportioneel   verminderd voor de berekening van de werkingsuitkeringen van het desbetreffende   begrotingsjaar.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de berekening van de financieringspunten in het kader van de   evolutie van de bedragen voor de variabele onderwijsdelen VOWprof, VOWac, VOWun,   VOWprof2014, VOWhko2014 en VOWun2014, zoals bedoeld in artikel III.6, is deze   proportionele vermindering van de extra puntengewichten niet van   toepassing.</P>
+<p>De totale omvang van de middelen die gegenereerd worden door de toepassing van de voorschriften inzake financieringsboni voor beurstariefstudenten, werkstudenten en studenten met een functiebeperking kan:<!--?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>1°&nbsp;&nbsp; in het onderwijsvariabel deel voor de professionele opleidingen aan de hogescholen niet meer bedragen dan 15% van het totaal VOWprof;</p>
+
+<p>2°&nbsp;&nbsp; in het onderwijsvariabel deel voor de academische opleidingen aan de hogescholen niet meer bedragen dan 10% van het totaal VOWac;</p>
+
+<p>3°&nbsp;&nbsp; in het onderwijsvariabel deel voor de academische opleidingen aan de universiteiten niet meer bedragen dan 10% van het totaal VOWun;</p>
+
+<p>4°&nbsp;&nbsp; in het onderwijsvariabele deel voor de professionele opleidingen, met uitzondering van de professionele kunstopleidingen, aan de hogescholen niet meer bedragen dan 15% van het totaal VOWprof2014;</p>
+
+<p>5°&nbsp;&nbsp; in het onderwijsvariabele deel voor de kunstopleidingen aan de hogescholen niet meer bedragen dan 10% van het totaal VOWhko2014;</p>
+
+<p>6°&nbsp;&nbsp; in het onderwijsvariabele deel voor de academische opleidingen aan de universiteiten niet meer bedragen dan 10% in het totaal VOWun2014.</p>
+
+<p>&nbsp;</p>
+
+<p>Indien het aandeel van die middelen de in het eerste lid genoemde percentages overschrijdt dan worden de extra puntengewichten proportioneel verminderd voor de berekening van de werkingsuitkeringen van het desbetreffende begrotingsjaar.</p>
+
+<p>&nbsp;</p>
+
+<p>Voor de berekening van de financieringspunten in het kader van de evolutie van de bedragen voor de variabele onderwijsdelen VOWprof, VOWac, VOWun, VOWprof2014, VOWhko2014 en VOWun2014, zoals bedoeld in artikel III.6, is deze proportionele vermindering van de extra puntengewichten niet van toepassing.</p>
 
 ### ART. III.19.
 
@@ -7728,7 +7748,7 @@ Voor de berekening van het aantal financieringspunten FPi-diploma-initieel, verm
 
 <p>&nbsp;</p>
 
-<p>Voor de berekening van het aantal financieringspunten FPi-input, vermeld in artikel III.12, en het aantal financieringspunten FPi-output, vermeld in artikel III.13, is voor de opleidingen vermeld in het eerste lid, het puntengewicht voor de berekening van de bijkomende financieringspunten gegenereerd door de financieringsboni voor beursstudenten, studenten met een functiebeperking en werkstudenten gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.</p>
+<p>Voor de berekening van het aantal financieringspunten FPi-input, vermeld in artikel III.12, en het aantal financieringspunten FPi-output, vermeld in artikel III.13, is voor de opleidingen vermeld in het eerste lid, het puntengewicht voor de berekening van de bijkomende financieringspunten gegenereerd door de financieringsboni voor beurstariefstudenten, studenten met een functiebeperking en werkstudenten gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.</p>
 
 <p>&nbsp;</p>
 
@@ -9255,7 +9275,9 @@ Tegen 1 januari 2017 wordt er een globale evaluatie gemaakt van de resultaten en
 
 ### ART. III.41bis.
 
-Vanaf het begrotingsjaar 2015 wordt in een bijkomende financiering   voorzien voor de ingeschreven beursstudenten aan de hogescholen. Die bijkomende   financiering bedraagt 1.161.000 euro. Dit bedrag is op indexniveau 2015 en wordt   vanaf het begrotingsjaar 2016 geïndexeerd aan de hand van de indexformule,   vermeld in artikel III.5, § 9.<BR><BR>Het bedrag, vermeld in deze paragraaf,   wordt verdeeld over de hogescholen naar rato van het aantal financieringspunten   gegeneerd door beursstudenten, berekend overeenkomstig artikel   III.11.
+Vanaf het begrotingsjaar 2015 wordt in een bijkomende financiering voorzien voor de ingeschreven beurstariefstudenten aan de hogescholen. Die bijkomende financiering bedraagt 1.161.000 euro. Dit bedrag is op indexniveau 2015 en wordt vanaf het begrotingsjaar 2016 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+Het bedrag, vermeld in deze paragraaf, wordt verdeeld over de hogescholen naar rato van het aantal financieringspunten gegeneerd door beurstariefstudenten, berekend overeenkomstig artikel III.11.
 
 ### ART. III.42.
 

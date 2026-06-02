@@ -2,16 +2,16 @@
   "codex_id": 1023887,
   "title": "Gecodificeerd Decreet van 2013-10-11 betreffende het hoger onderwijs (citeeropschrift: \"Codex Hoger Onderwijs\")",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023887/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "2fb5073d677edcf01452c6efc4b6c21702322ccb4f22b70883533e2333d57696",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023887/VolledigDocument?datum=2026-06-02",
+  "source_sha256": "7c19d0b458272983f3fb418cce1b285f9b873740be6624d0bace5e380963dc89",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023887&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-06-02",
   "made": "2013-10-11",
   "gazette": "2014-02-27",
   "numac": 2014035166,
   "document_start": "2013-10-01",
   "document_end": null,
-  "in_force": "2026-01-01",
+  "in_force": "2026-06-02",
   "article_versions": 1100,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-06-02; future article versions excluded; article text as the API gives it"
 }
