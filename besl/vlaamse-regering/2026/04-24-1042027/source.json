@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042027,
+  "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de sociale huur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042027/VolledigDocument?datum=2026-06-06",
+  "source_sha256": "c36f43ca0973be7ab89322615caa93b8cc6b3ebdc1716814a9ec97ffe0c956aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042027&param=informatie",
+  "as_of": "2026-06-06",
+  "made": "2026-04-24",
+  "gazette": "2026-05-27",
+  "numac": 2026003745,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2026-06-06",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2026-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
