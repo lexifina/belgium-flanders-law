@@ -23,8 +23,9 @@ Bij dit decreet worden de volgende Europese richtlijnen gedeeltelijk omgezet :<b
 8° richtlijn 2014/54/EU van het Europees Parlement en de Raad van 16 april 2014 betreffende maatregelen om de uitoefening van de in de context van het vrije verkeer van werknemers aan werknemers verleende rechten te vergemakkelijken;<br>
 9° richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten;<br>
 10° richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad;<br>
-11° richtlijn (EU) 2023/970 van het Europees Parlement en de Raad van 10 mei 2023 ter versterking van de toepassing van het beginsel van gelijke beloning van mannen en vrouwen voor gelijke of gelijkwaardige arbeid door middel van beloningstransparantie en handhavingsmechanismen.<br>
-<br>
+11° richtlijn (EU) 2023/970 van het Europees Parlement en de Raad van 10 mei 2023 ter versterking van de toepassing van het beginsel van gelijke beloning van mannen en vrouwen voor gelijke of gelijkwaardige arbeid door middel van beloningstransparantie en handhavingsmechanismen;<br>
+12° richtlijn (EU) 2024/1499 van de Raad van 7 mei 2024 betreffende normen voor organen voor gelijke behandeling op het gebied van gelijke behandeling van personen ongeacht hun ras of etnische afstamming, gelijke behandeling van personen in arbeid en beroep ongeacht hun godsdienst of overtuiging, handicap, leeftijd of seksuele oriëntatie, gelijke behandeling van vrouwen en mannen op het gebied van sociale zekerheid en de toegang tot en het aanbod van goederen en diensten, en tot wijziging van Richtlijnen 2000/43/EG en 2004/113/EG;<br>
+13° richtlijn (EU) 2024/1500 van het Europees Parlement en de Raad van 14 mei 2024 betreffende normen voor organen voor gelijke behandeling op het gebied van gelijke behandeling en gelijke kansen voor vrouwen en mannen in arbeid en beroep, en tot wijziging van de Richtlijnen 2006/54/EG en 2010/41/EU.<br>
 <br>
 Dit decreet geeft uitvoering aan volgende verdragen :<br>
 1° Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie;<br>
@@ -310,7 +311,9 @@ De rechtvaardigingsregel, vermeld in het eerste lid, is van toepassing onder voo
 
 § 1. Er is sprake van intimidatie als zich ongewenst gedrag voordoet dat verband houdt met een of meer van de kenmerken, vermeld in artikel 15bis, en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.<br>
 <br>
-§ 2. Er is sprake van seksuele intimidatie als zich enige vorm van ongewenst verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie voordoet, met inbegrip van ongewenste seksuele handelingen en verzoeken om dergelijke handelingen, seksueel expliciet lichamelijk contact en ongewenste opmerkingen van seksuele aard, met als doel of gevolg dat de waardigheid van een persoon wordt aangetast, in het bijzonder als een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd.
+§ 2. Er is sprake van seksuele intimidatie als zich enige vorm van ongewenst verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie voordoet, met inbegrip van ongewenste seksuele handelingen en verzoeken om dergelijke handelingen, seksueel expliciet lichamelijk contact en ongewenste opmerkingen van seksuele aard, met als doel of gevolg dat de waardigheid van een persoon wordt aangetast, in het bijzonder als een bedreigende, vijandige, beledigende, vernederende of kwetsende situatie wordt gecreëerd.<br>
+<br>
+§3. Intimidatie of seksuele intimidatie omvat ook elke minder gunstige behandeling op grond van het feit dat iemand intimidatie of seksuele intimidatie afwijst of lijdzaam ondergaat.
 
 ### ART. 18.
 
@@ -344,6 +347,8 @@ Binnen de grenzen van de aan de Vlaamse Gemeenschap en het Vlaamse Gewest toegew
 8° de toegang tot en de deelname aan een economische, sociale, culturele of politieke activiteit die buiten de privésfeer worden aangeboden.<br>
 <br>
 Onder de term `beloning' uit het eerste lid, 1°, wordt het volgende begrepen : het gewone basis- of minimumloon of -salaris en alle overige voordelen in geld of in natura die de werknemer direct of indirect, uit hoofde van zijn arbeidsbetrekking, van zijn werkgever ontvangt.<br>
+<br>
+Beloningsdiscriminatie is discriminatie in het kader van arbeidsbetrekkingen met betrekking tot beloning op grond van het beschermd kenmerk geslacht of op grond van meerdere beschermde kenmerken als vermeld in artikel 15bis, waarvan ten minste één kenmerk het geslacht is.<br>
 <br>
 De bepalingen van dit decreet zijn van toepassing op discriminatie op het gebied van arbeidsbetrekkingen als vermeld in het eerste lid, 1° tot en met 3°, als het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt niet voorziet in een ruimere rechtsbescherming voor de benadeelde persoon.<br>
 <br>
@@ -379,7 +384,7 @@ In afwijking van het eerste lid is er geen sprake van directe discriminatie in d
 
 Als iemand op grond van geslacht, seksuele oriëntatie, geloof of levensbeschouwing, handicap, zogenaamd ras, huidskleur, afkomst, nationale of etnische afstamming ongunstiger wordt behandeld dan iemand anders in een vergelijkbare situatie wordt, is of zou worden behandeld, op het gebied van de arbeidsbetrekkingen in de zin van artikel 20, eerste lid, 1° tot en met 3°, is er sprake van directe discriminatie.<br>
 <br>
-Onverminderd artikel 20, derde lid, geldt dat er geen sprake is van directe discriminatie als het kenmerk als bedoeld in het eerste lid vanwege de aard van de specifieke beroepsactiviteiten of de context waarin die worden uitgevoerd, een wezenlijke en bepalende beroepsvereiste vormt, en op voorwaarde dat het doel legitiem is en het vereiste passend en noodzakelijk is.
+Onverminderd artikel 20, vierde lid, geldt dat er geen sprake is van directe discriminatie als het kenmerk als bedoeld in het eerste lid vanwege de aard van de specifieke beroepsactiviteiten of de context waarin die worden uitgevoerd, een wezenlijke en bepalende beroepsvereiste vormt, en op voorwaarde dat het doel legitiem is en het vereiste passend en noodzakelijk is.
 
 ### ART 25bis.
 
@@ -450,6 +455,13 @@ Als een ongunstige behandeling gebaseerd is op meerdere beschermde kenmerken als
 § 1. In geval van discriminatie kan het slachtoffer een schadevergoeding vorderen overeenkomstig het contractuele of buitencontractuele aansprakelijkheidsrecht.<br>
 <br>
 Als het slachtoffer een schadevergoeding vordert, en de rechter discriminatie vaststelt, moet de persoon die het discriminatieverbod heeft geschonden, aan het slachtoffer een vergoeding betalen die naar keuze van het slachtoffer, gelijk is hetzij aan een forfaitair bedrag zoals uiteengezet in § 2, hetzij aan de werkelijk door het slachtoffer geleden schade. In het laatstgenoemde geval moet het slachtoffer de omvang van de geleden schade bewijzen.<br>
+<br>
+Als het slachtoffer een vergoeding voor werkelijk geleden schade vordert wegens beloningsdiscriminatie, vermeld in artikel 20, derde lid, omvat die vergoeding de volgende elementen:<br>
+1° de volledige uitbetaling van de achterstallige beloning, vermeld in artikel 20, tweede lid;<br>
+2° de vergoeding voor het verlies van kansen;<br>
+3° de vergoeding voor de immateriële schade;<br>
+4° de vergoeding voor iedere schade veroorzaakt door een ongunstige behandeling die gebaseerd is op meerdere beschermde kenmerken als vermeld in artikel 15bis, waarvan één kenmerk het geslacht is, of door andere relevante factoren;<br>
+5°&nbsp; de rente op achterstallige betalingen.<br>
 <br>
 § 2. De forfaitaire schadevergoeding, vermeld in paragraaf 1, wordt als volgt bepaald :<br>
 1° als het slachtoffer morele en materiële schadevergoeding vordert wegens discriminatie in het kader van de arbeidsbetrekkingen als vermeld in artikel 20, eerste lid, 1° tot en met 3°, is de forfaitaire schadevergoeding voor materiële en morele schade gelijk aan de brutobeloning voor zes maanden. Als de materiële schade die voortvloeit uit een discriminatie in het kader van de arbeidsbetrekkingen als vermeld in artikel 20, eerste lid, 1° tot en met 3°, echter hersteld kan worden via de toepassing van de nietigheidssanctie, vastgesteld in artikel 27, wordt de forfaitaire schadevergoeding vastgesteld volgens de bepalingen van punt 2°;<br>
@@ -539,9 +551,11 @@ Alle bepalingen van boek I van het Strafwetboek, hoofdstuk VII en artikel 85 nie
 
 ### ART 35bis.
 
-De rechtsvorderingen op grond van dit decreet verjaren na vijf jaar vanaf de dag waarop ze zijn ontstaan. Bij voortdurende of voortgezette discriminaties gaat de voormelde termijn in op het ogenblik dat de wederrechtelijke toestand ophoudt te bestaan.<br>
+De rechtsvorderingen op grond van dit decreet verjaren na vijf jaar vanaf de dag waarop ze zijn ontstaan. Bij voortdurende of voortgezette discriminaties gaat de voormelde termijn in op het ogenblik dat de wederrechtelijke toestand ophoudt te bestaan.&nbsp;De verjaringstermijnen in het kader van beloningsdiscriminatie, vermeld in artikel 20, derde lid, gaan niet in voordat de eiser op de hoogte is van een inbreuk, of redelijkerwijs kan worden geacht daarvan op de hoogte te zijn.<br>
 <br>
-De verjaring wordt geschorst zolang een klacht over het voorwerp van de rechtsvordering in behandeling is bij het Vlaams Mensenrechteninstituut, vermeld in het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, en wordt gestuit conform artikel 2244 tot en met 2250 van het oud Burgerlijk Wetboek.
+De verjaring wordt geschorst zolang een klacht over het voorwerp van de rechtsvordering in behandeling is bij het Vlaams Mensenrechteninstituut, vermeld in het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, en wordt gestuit conform artikel 2244 tot en met 2250 van het oud Burgerlijk Wetboek.<br>
+<br>
+De schorsing van de verjaring, vermeld in het tweede lid, gaat in op de dag dat het Vlaams Mensenrechteninstituut de klacht heeft ontvangen en eindigt drie maanden na de dag waarop het Vlaams Mensenrechteninstituut de behandeling van de klacht heeft afgesloten. De behandeling van de klacht wordt geacht te zijn afgesloten in de gevallen, vermeld in artikel 28, §8, tweede lid, van het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut.
 
 ### ART 35ter.
 
@@ -569,6 +583,8 @@ Bovendien licht de griffier van het hof of de rechtbank waar een beroep, verzet 
 ### ART. 36.
 
 §1. Als een persoon of een van de rechtspersonen, verenigingen of organisaties, vermeld in artikel 41, in een burgerrechtelijke procedure voor een bevoegd gerecht&nbsp;of in een procedure voor de geschillenkamer van het Vlaams Mensenrechteninstituut, vermeld in het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, de schending inroept van dit decreet en feiten aanvoert die het bestaan van een discriminatie kunnen doen vermoeden, valt de bewijslast dat er geen discriminatie is, ten laste van de verweerder.<br>
+<br>
+Als de vermeende discriminatie betrekking heeft op beloningsdiscriminatie in het kader van de arbeidsbetrekkingen en de werkgever de beloningstransparantieverplichtingen conform hoofdstuk 2 van het decreet van 12 juni 2026 over beloningstransparantie en maatregelen voor een gelijke beloning niet heeft vervuld, valt de bewijslast dat er geen discriminatie is, ten laste van de werkgever, tenzij de werkgever aantoont dat de inbreuk op die beloningstransparantieverplichtingen onmiskenbaar onopzettelijk en van geringe aard was.<br>
 <br>
 §2. Onder feiten die het bestaan van een directe discriminatie op grond van een beschermd kenmerk kunnen doen vermoeden, wordt onder meer, doch niet uitsluitend, begrepen :<br>
 1° de gegevens waaruit een bepaald patroon van ongunstige behandeling blijkt ten aanzien van personen die drager zijn van een of meer welbepaalde beschermde kenmerken, onder meer via verschillende, los van elkaar staande meldingen, die bij het Vlaams Mensenrechteninstituut of bij een van de rechtspersonen, verenigingen of organisaties, vermeld in artikel 41 van dit decreet, werden gedaan;<br>
@@ -647,7 +663,17 @@ Onverminderd de bevoegdheden van de officieren van de federale politie houden de
 3° de representatieve organisaties in de zin van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel;<br>
 4° de representatieve organisaties van de zelfstandigen.<br>
 <br>
-§3. Als de vordering, vermeld in paragraaf 1bis of 2, wordt ingesteld in naam en voor rekening van een persoon die meent te worden gediscrimineerd, is die vordering alleen ontvankelijk met diens instemming.
+§3. Als de vordering, vermeld in paragraaf 1bis of 2, wordt ingesteld in naam en voor rekening van een persoon die meent te worden gediscrimineerd, is die vordering alleen ontvankelijk met diens instemming.<br>
+<br>
+§4. Het Vlaams Mensenrechteninstituut, vermeld in het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, kan ambtshalve of op verzoek van het rechtscollege waarbij de zaak aanhangig is, binnen de door het rechtscollege bepaalde redelijke termijn, schriftelijke opmerkingen indienen over de toepassing van het discriminatieverbod. Het Vlaams Mensenrechteninstituut beslist autonoom, gemotiveerd en in lijn met zijn bevoegdheden en op basis van het collectief belang over de indiening van eventuele opmerkingen.<br>
+<br>
+De raad van bestuur van het Vlaams Mensenrechteninstituut stelt een interne procedure en afwegingskader vast voor de toepassing van de mogelijkheid om opmerkingen in te dienen. Het Vlaams Mensenrechteninstituut rapporteert jaarlijks over de toepassing van deze bepaling aan het Vlaams Parlement via het jaarverslag, vermeld in artikel 43, §1, van het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut.<br>
+<br>
+Met de toestemming van het betrokken rechtscollege kan het Vlaams Mensenrechteninstituut ook mondelinge opmerkingen maken.<br>
+<br>
+Alleen met het oog op de formulering van zijn opmerkingen kan het Vlaams Mensenrechteninstituut het betrokken rechtscollege verzoeken om alle stukken die noodzakelijk zijn voor de beoordeling van de zaak toe te zenden of te laten toezenden.<br>
+<br>
+Als het Vlaams Mensenrechteninstituut opmerkingen indient, krijgen de andere partijen de gelegenheid om op die opmerkingen te antwoorden.
 
 ## Afdeling VIII. Gelijkebehandelingsbureaus
 
