@@ -9,14 +9,17 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 ### ART 2.
 
 Dit decreet voorziet in de gedeeltelijke omzetting van de volgende richtlijnen:<br>
-1°&nbsp;&nbsp; &nbsp;richtlijn 2000/43/EG van de Raad van 29 juni 2000 houdende toepassing van het beginsel van gelijke behandeling van personen ongeacht ras of etnische<br>
+1° richtlijn 2000/43/EG van de Raad van 29 juni 2000 houdende toepassing van het beginsel van gelijke behandeling van personen ongeacht ras of etnische<br>
 afstamming;<br>
 2° richtlijn 2000/78/EG van de Raad van 27 november 2000 tot instelling van een algemeen kader voor gelĳke behandeling in arbeid en beroep;<br>
 3° richtlijn 2004/113/EG van de Raad van 13 december 2004 houdende toepassing van het beginsel van gelijke behandeling van mannen en vrouwen bij de toegang tot en het aanbod van goederen en diensten;<br>
 4° richtlijn 2006/54/EG van het Europees Parlement en de Raad van 5 juli 2006 betreffende de toepassing van het beginsel van gelijke kansen en gelijke behandeling van mannen en vrouwen in arbeid en beroep (herschikking);<br>
 5° richtlijn 2010/41/EU van het Europees Parlement en de Raad van 7 juli 2010 betreffende de toepassing van het beginsel van gelijke behandeling van zelfstandig werkzame mannen en vrouwen en tot intrekking van Richtlijn 86/613/ EEG van de Raad;<br>
 6° richtlijn 2014/54/EU van het Europees Parlement en de Raad van 16 april 2014 betreffende maatregelen om de uitoefening van de in de context van het vrije verkeer van werknemers aan werknemers verleende rechten te vergemakkelijken;<br>
-7° richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad.<br>
+7° richtlijn (EU) 2019/1158 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het evenwicht tussen werk en privéleven voor ouders en mantelzorgers en tot intrekking van Richtlijn 2010/18/EU van de Raad;<br>
+8° richtlijn (EU) 2023/970 van het Europees Parlement en de Raad van 10 mei 2023 ter versterking van de toepassing van het beginsel van gelijke beloning van mannen en vrouwen voor gelijke of gelijkwaardige arbeid door middel van beloningstransparantie en handhavingsmechanismen;<br>
+9° richtlijn (EU) 2024/1499 van de Raad van 7 mei 2024 betreffende normen voor organen voor gelijke behandeling op het gebied van gelijke behandeling van personen ongeacht hun ras of etnische afstamming, gelijke behandeling van personen in arbeid en beroep ongeacht hun godsdienst of overtuiging, handicap, leeftijd of seksuele oriëntatie, gelijke behandeling van vrouwen en mannen op het gebied van sociale zekerheid en de toegang tot en het aanbod van goederen en diensten, en tot wijziging van Richtlijnen 2000/43/EG en 2004/113/EG;<br>
+10° richtlijn (EU) 2024/1500 van het Europees Parlement en de Raad van 14 mei 2024 betreffende normen voor organen voor gelijke behandeling op het gebied van gelijke behandeling en gelijke kansen voor vrouwen en mannen in arbeid en beroep, en tot wijziging van de Richtlijnen 2006/54/EG en 2010/41/EU.<br>
 <br>
 Dit decreet voorziet in de gedeeltelijke uitvoering van het Verdrag van de Verenigde Naties inzake de rechten van personen met een handicap, aangenomen te New York op 13 december 2006.<br>
 <br>
@@ -74,9 +77,13 @@ Het VMRI staat in voor de bevordering, de bescherming en de opvolging van de uit
 ### ART 7.
 
 Het VMRI is bevoegd om de bewustwording en de bescherming van mensenrechten te stimuleren, onder meer door de volgende activiteiten:<br>
-1° &nbsp; voorlichtingscampagnes en sensibiliseringsacties organiseren;<br>
+1° voorlichtingscampagnes en sensibiliseringsacties organiseren;<br>
 2° educatie en vorming organiseren, onder meer voor specifieke beroepsgroepen, doelgroepen, scholen en universiteiten;<br>
-3° zich rechtstreeks of via de media tot het brede publiek richten.&nbsp;
+3° zich rechtstreeks of via de media tot het brede publiek richten.&nbsp;<br>
+<br>
+Het VMRI besteedt bijzondere aandacht aan kwetsbare personen of groepen in de samenleving, met het oog op gelijke toegang tot zijn dienstverlening.<br>
+<br>
+Het VMRI gebruikt voor elke doelgroep passende communicatiemiddelen en -vormen en richt zich vooral op groepen van wie de toegang tot informatie kan worden belemmerd.
 
 ## Afdeling 2. Onderzoek
 
@@ -92,7 +99,17 @@ Het VMRI gaat bij zijn onderzoek zo veel mogelijk multidisciplinair te werk en k
 
 ### ART 9.
 
-Het VMRI is bevoegd om op eigen initiatief, of op verzoek van overheden van of die afhangen van het Vlaamse Gewest of de Vlaamse Gemeenschap, onafhankelijke en gemotiveerde adviezen, aanbevelingen, voorstellen en verslagen op te stellen en te publiceren.
+§1. Het VMRI is bevoegd om op eigen initiatief, of op verzoek van overheden van of die afhangen van het Vlaamse Gewest of de Vlaamse Gemeenschap, onafhankelijke en gemotiveerde adviezen, aanbevelingen, voorstellen en verslagen op te stellen en te publiceren.<br>
+<br>
+§2. De Vlaamse Regering vraagt aan het VMRI advies over de volgende aangelegenheden, voor zover zij uitdrukkelijk verwijzen naar of betrekking hebben op de rechten of plichten die voortvloeien uit het decreet van 8 mei 2002 en het decreet van 10 juli 2008:<br>
+1° de voorontwerpen van decreet en de reglementaire ontwerpen van besluit van de Vlaamse Regering;<br>
+2° de bij het Vlaams Parlement ingediende beleidsnota’s; 3° procedures en programma’s.<br>
+<br>
+Het VMRI verstrekt de adviezen, vermeld in het eerste lid, binnen dertig dagen nadat het de adviesaanvraag heeft ontvangen of binnen de bijkomende termijn die door de adviesaanvrager werd verleend. Bij een spoedaanvraag, die de adviesaanvrager motiveert, kan de adviesaanvrager de termijn inkorten zonder dat die termijn minder dan tien werkdagen mag bedragen. Als de geldende termijn verstreken is zonder dat het advies is uitgebracht, wordt de adviesverplichting geacht te zijn vervuld.<br>
+<br>
+In het tweede lid wordt verstaan onder werkdag: elke kalenderdag, met uitzondering van zaterdag, zondag, de wettelijke feestdagen en de feestdagen van de Vlaamse Gemeenschap.<br>
+<br>
+Het VMRI is bevoegd om de adviezen, vermeld in het eerste lid, te publiceren en daarover opvolging te vragen aan de Vlaamse Regering. De Vlaamse Regering geeft toelichting aan het VMRI over de beslissing over de voormelde adviezen.
 
 ### ART 10.
 
@@ -137,15 +154,22 @@ Indien de klager niet de persoon is die meent dat hij wordt gediscrimineerd, en 
 <br>
 De betrokken partijen kunnen zich laten bijstaan door een raadsman of een derde.<br>
 <br>
-§ 3. In de volgende gevallen is de klacht niet ontvankelijk: 1° de klacht is niet ingediend conform paragraaf 1;<br>
+§2/1. Als een klacht als vermeld in paragraaf 1 wordt ingediend, informeert het VMRI in eerste instantie de klager over:<br>
+1° de inhoud van de regelgeving over discriminatie en de beschikbare rechtsmiddelen, vermeld in de decreten van 8 mei 2002 en 10 juli 2008, alsook over de mogelijke procedurele stappen binnen het VMRI, met name de mogelijkheid tot bemiddeling dan wel oordeelsvorming door de geschillenkamer, in de vorm van een objectief en onpartijdig advies toegepast op de specifieke situatie van de klager;<br>
+2° de toepasselijke vertrouwelijkheidsregels en de bescherming van de persoonsgegevens, vermeld in artikel 28, met inbegrip van de rechten van personen van wie persoonsgegevens worden verwerkt, vermeld in artikel 28, §4;<br>
+3° de mogelijkheden om ondersteuning te krijgen van andere organen of organisaties, met inbegrip van psychologische ondersteuning.<br>
+<br>
+§ 3. In de volgende gevallen is de klacht niet ontvankelijk:<br>
+1° de klacht is niet ingediend conform paragraaf 1;<br>
 2° de klacht is kennelijk ongegrond;<br>
 3° de klacht is kennelijk roekeloos of tergend;<br>
 4° de klacht heeft betrekking op feiten die zich meer dan vijf jaar vóór het indienen van de klacht hebben voorgedaan;<br>
-5° de klacht is al behandeld door het VMRI.<br>
+5° de klacht is al behandeld door het VMRI;<br>
+6° de klacht maakt het voorwerp uit van een vordering in rechte over dezelfde zaak waarover nog geen vonnis of arrest is geveld.<br>
 <br>
 Het geval, vermeld in het eerste lid, 5°, is niet van toepassing als er voldoende nieuwe elementen voorliggen die een nieuwe behandeling verantwoorden.<br>
 <br>
-Als het VMRI beslist dat een klacht niet ontvankelijk is, brengt het de klager daarvan gemotiveerd en minstens schriftelijk op de hoogte.<br>
+Het VMRI brengt de klager binnen een redelijke termijn schriftelijk op de hoogte van de gemotiveerde beslissing over de ontvankelijkheid van de klacht.<br>
 <br>
 Als dat mogelijk is, verwijst het VMRI de klager door naar een instelling, organisatie of vereniging die hem mogelijks wel verder kan bijstaan.<br>
 <br>
@@ -159,8 +183,9 @@ Als de klager niet dezelfde persoon is als de persoon die meent dat hij gediscri
 <br>
 Indien de betrokken partijen tijdens het bemiddelingstraject overtuigingsstukken hebben bezorgd aan het VMRI, worden deze, mits toestemming van de partij die de stukken had bezorgd en zonder enige appreciatie erover vanwege de bemiddelaar, ook bezorgd aan de geschillenkamer.<br>
 <br>
-Indien het VMRI informatie of documentatie heeft ingewonnen met toepassing van artikel 22, die aangeleverd werd door derden die geen betrokken partij zijn, wordt die informatie of documentatie, zonder enige appreciatie erover vanwege de bemiddelaar, ook bezorgd aan de geschillenkamer.<br>
-&nbsp;
+Indien het VMRI informatie of documentatie heeft ingewonnen met toepassing van artikel 22, §1, die aangeleverd werd door derden die geen betrokken partij zijn, wordt die informatie of documentatie, zonder enige appreciatie erover vanwege de bemiddelaar, ook bezorgd aan de geschillenkamer.<br>
+<br>
+§6. Als na de beslissing tot ontvankelijkheid een vordering in rechte wordt ingesteld over dezelfde zaak verklaart het VMRI zich onbevoegd en wordt de behandeling van de klacht afgesloten. Deze beslissing wordt genomen door de geschillenkamer als de klacht al naar de geschillenkamer werd doorverwezen.
 
 ### ART 14.
 
@@ -205,7 +230,9 @@ De Vlaamse Regering bepaalt de nadere uitwerking van de procedure, bedoeld in ar
 
 ### ART 18.
 
-Het VMRI volgt de oordelen van de geschillenkamer actief en nauwgezet op. De opvolging wordt ook geregistreerd en deze informatie wordt, mits uitdrukkelijke en schriftelijke toestemming van de betrokken verweerder, ook toegevoegd in het oordeel.
+Het VMRI volgt de oordelen van de geschillenkamer actief en nauwgezet op. De opvolging wordt ook geregistreerd en deze informatie wordt, mits uitdrukkelijke en schriftelijke toestemming van de betrokken verweerder, ook toegevoegd in het oordeel.<br>
+<br>
+Als de geschillenkamer in een niet-bindend oordeel discriminatie vaststelt, stelt de verweerder het VMRI binnen een termijn van drie maanden na de dag waarop het oordeel is uitgesproken, in kennis van het gevolg dat de verweerder aan dat oordeel, met inbegrip van de aanbevelingen, heeft gegeven. Het VMRI stelt de klager schriftelijk in kennis van het gevolg dat aan het oordeel werd gegeven.
 
 ### ART 19.
 
@@ -230,13 +257,19 @@ correcte, onpartijdige en respectvolle wijze.
 
 ### ART 22.
 
-Het VMRI is bevoegd om alle personen te horen en alle nodige informatie en documentatie in te winnen als dat redelijkerwijze nodig is om zijn bevoegdheden uit te oefenen.<br>
+§1. Het VMRI is bevoegd om alle personen te horen en alle nodige informatie en documentatie in te winnen als dat redelijkerwijze nodig is om zijn bevoegdheden uit te oefenen.<br>
 <br>
 Wanneer het VMRI een verzoek tot informatie of documentatie richt tot overheden of openbare instellingen van of die afhangen van het Vlaamse Gewest of de Vlaamse Gemeenschap, kan het een dwingende termijn opleggen om dit verzoek te beantwoorden.<br>
 <br>
 Het VMRI kan ter plaatse bij deze overheden en openbare instellingen gaan, met uitzondering van de bewoonde lokalen, om de nodige vaststellingen te doen en de overlegging te vragen van alle informatie en documentatie.<br>
 <br>
-De personen die worden gevraagd om informatie of documenten over te leggen zijn ten aanzien van het VMRI ontheven van hun plicht tot geheimhouding in verband met feiten waarvan zij kennis hebben en gegevens waarover zij beschik- ken door hun staat of beroep, met uitzondering van die welke door het medisch geheim beschermd zijn of waarvan ze kennis hebben genomen in hun hoedanigheid van noodzakelijke vertrouwenspersoon.
+De personen die worden gevraagd om informatie of documenten over te leggen zijn ten aanzien van het VMRI ontheven van hun plicht tot geheimhouding in verband met feiten waarvan zij kennis hebben en gegevens waarover zij beschik- ken door hun staat of beroep, met uitzondering van die welke door het medisch geheim beschermd zijn of waarvan ze kennis hebben genomen in hun hoedanigheid van noodzakelijke vertrouwenspersoon.<br>
+<br>
+§2. Het VMRI kan op verzoek van het personeelslid, vermeld in het tweede lid, aan dat personeelslid de volgende informatie schriftelijk overmaken:<br>
+1° informatie over het individuele beloningsniveau van dat personeelslid;<br>
+2° de naar geslacht uitgesplitste gemiddelde beloningsniveaus voor categorieën van personeelsleden die dezelfde of gelijkwaardige arbeid verrichten.<br>
+<br>
+Het VMRI kan de informatie, vermeld in het eerste lid, overmaken aan het personeel, vermeld in artikel 4 van het decreet van 12 juni 2026 over beloningstransparantie en maatregelen voor een gelijke beloning.
 
 ## Afdeling 6. Netwerk
 
@@ -246,7 +279,9 @@ Het VMRI werkt samen met instellingen, diensten, organisaties en personen die ac
 <br>
 Het VMRI werkt in het bijzonder structureel samen met alle mensenrechteninstellingen in België.<br>
 <br>
-Het VMRI sluit met elk van de Vlaamse sectorale mensenrechteninstellingen een samenwerkingsprotocol om deze samenwerking vorm te geven.
+Het VMRI sluit met elk van de Vlaamse sectorale mensenrechteninstellingen een samenwerkingsprotocol om deze samenwerking vorm te geven.<br>
+<br>
+Het VMRI zet in op samenwerking met de lokale besturen, vermeld in artikel I.3, 5°, a), b), c) en e), van het Bestuursdecreet van 7 december 2018, en de Vlaamse Gemeenschapscommissie, vermeld in artikel 60, tweede lid, van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, om de dienstverlening van het VMRI op het grondgebied van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad te waarborgen.
 
 ### ART 24.
 
@@ -272,7 +307,7 @@ De leden van de raad van bestuur, de leden van de geschillenkamer en de personee
 <br>
 De leden van de raad van bestuur, de leden van de geschillenkamer en de personeelsleden van het VMRI krijgen geen instructies van de Vlaamse Regering, van het Vlaams Parlement of van een andere bestuurlijke of particuliere entiteit, noch op directe noch op indirecte wijze.<br>
 <br>
-Behalve in geval van wettelijke uitzonderingen zijn de leden van de raad van bestuur, de leden van de geschillenkamer en de personeelsleden van het VMRI, tijdens en na de uitoefening van hun respectieve mandaat of overeenkomst, ver- plicht het vertrouwelijke karakter te bewaren van de informatie waarvan ze door hun functie op de hoogte zijn, conform artikel 458 van het Strafwetboek.<br>
+Behalve in geval van wettelijke uitzonderingen zijn de leden van de raad van bestuur, de leden van de geschillenkamer, de personeelsleden en alle dienstverleners van het VMRI, tijdens en na de uitoefening van hun respectieve mandaat of overeenkomst, verplicht het vertrouwelijke karakter te bewaren van de informatie waarvan ze door hun functie op de hoogte zijn, conform artikel 458 van het Strafwetboek.<br>
 <br>
 Om het laagdrempelig karakter van zijn dienstverlening op het grondgebied van het tweetalige gebied Brussel-Hoofdstad te verzekeren, communiceert het VMRI helder over zijn bevoegdheden op dat grondgebied, werkt het goed samen met de andere mensenrechteninstellingen actief op dat grondgebied en verzamelt het afzonderlijke data, en rapporteert hierover, met betrekking tot de klachten en meldingen die het vanuit dat grondgebied ontvangt.
 
@@ -282,30 +317,63 @@ Om het laagdrempelig karakter van zijn dienstverlening op het grondgebied van he
 <br>
 § 2. Conform de bepalingen van dit decreet verwerkt het VMRI persoonsgegevens als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
 <br>
-§ 3. De persoonsgegevens worden verwerkt om over de noodzakelijke informatie te beschikken om een melding of klacht te behandelen conform artikel 12 tot en met 18.<br>
+§ 3.&nbsp;De persoonsgegevens worden verwerkt om over de noodzakelijke informatie te beschikken om:<br>
+1° een melding of klacht te behandelen als vermeld in hoofdstuk 2, afdeling 4;<br>
+2° het jaarrapport op te stellen conform artikel 43;<br>
+3° verzoeken van personen te behandelen over de beloningsniveaus conform artikel 22, §2.<br>
 <br>
 De verwerking van de persoonsgegevens is beperkt tot wat noodzakelijk is om het doel, vermeld in het eerste lid, te bereiken.<br>
 <br>
-§ 4. Het VMRI kan persoonsgegevens verwerken van de volgende personen:<br>
-1° de natuurlijke personen die melden over wie een melding wordt gedaan, of die worden geïdentificeerd in het kader van de behandeling van de melding als vermeld in artikel 12, eerste lid;<br>
-2° de natuurlijke personen die als partij, deskundige of getuige betrokken zijn bij de behandeling van een klacht als vermeld in artikel 13, §1.<br>
-&nbsp;<br>
-§ 5. Het VMRI kan voor de doeleinden, vermeld in paragraaf 3, alleen de persoonsgegevens verwerken die proportioneel zijn. Het betreft de volgende categorieën van persoonsgegevens:<br>
-1° identiteitsgegevens waaronder voor- en achternaam; 2° contactgegevens;<br>
-3° &nbsp; beroepsgegevens;<br>
-4°&nbsp;&nbsp; &nbsp;persoonsgegevens die blijken uit de feitelijke omstandigheden in verband met de melding of klacht;<br>
-5°&nbsp;&nbsp; &nbsp;persoonsgegevens die blijken uit de opvolging van de klacht bedoeld in artikel 18;<br>
-6°&nbsp;&nbsp; &nbsp;bijzondere categorieën van persoonsgegevens als vermeld in artikel 9 van de algemene verordening gegevensbescherming.<br>
+§4. Het VMRI kan persoonsgegevens verwerken van de volgende personen:<br>
+1° in het kader van een melding of klacht en het jaarrapport:<br>
+&nbsp; a) de natuurlijke personen die een melding doen of over wie een melding wordt gedaan, of die worden geïdentificeerd in het kader van de behandeling van de melding, vermeld in artikel 12, eerste lid;<br>
+&nbsp; b) de natuurlijke personen die als partij, deskundige of getuige betrokken zijn bij de behandeling van een klacht als vermeld in artikel 13, §1, alsook de natuurlijke personen die deze betrokken personen bijstaan of vertegenwoordigen;<br>
+2° in het kader van de verzoeken van personen over beloningsniveaus:<br>
+&nbsp; a) de natuurlijke persoon die een verzoek richt naar het VMRI;<br>
+&nbsp; b) de personeelsleden van dezelfde werkgever als de persoon die het verzoek richt naar het VMRI.<br>
+<br>
+§5. Het VMRI kan voor de doeleinden, vermeld in paragraaf 3, eerste lid, alleen persoonsgegevens van de personen, vermeld in paragraaf 4, verwerken als dat proportioneel is. Het betreft de volgende categorieën van persoonsgegevens:<br>
+1° in het kader van een melding of klacht en jaarrapport:<br>
+&nbsp; a) de identiteitsgegevens, waaronder de voor- en achternaam;<br>
+&nbsp; b) de contactgegevens;<br>
+&nbsp; c) de beroepsgegevens;<br>
+&nbsp; d) de persoonsgegevens die blijken uit de feitelijke omstandigheden in verband met de melding of klacht;<br>
+&nbsp; e) de persoonsgegevens die blijken uit de opvolging van de klacht conform artikel 18;<br>
+&nbsp; f) de bijzondere categorieën van persoonsgegevens als vermeld in artikel 9, lid 1, van de algemene verordening gegevensbescherming;<br>
+&nbsp; g) de persoonsgegevens over strafrechtelijke veroordelingen en strafbare feiten of daarmee verband houdende veiligheidsmaatregelen als vermeld in artikel 10 van de algemene verordening gegevensbescherming;<br>
+2° in het kader van de verzoeken van personen inzake beloningsniveaus:<br>
+&nbsp; a) de identiteitsgegevens;<br>
+&nbsp; b) de contactgegevens;<br>
+&nbsp; c) de beroepsgegevens.<br>
 <br>
 § 6. De verwerking van de persoonsgegevens is overeenkomstig artikel 6, lid 1, e), van de algemene verordening gegevensbescherming noodzakelijk voor de vervulling van de taken van algemeen belang die aan het VMRI worden toevertrouwd. Voor zover er bijzondere categorieën van persoonsgegevens worden verwerkt, is deze verwerking toegelaten door artikel 9, lid 2, g), van de algemene verordening gegevensbescherming.<br>
 <br>
 § 7. Er kan slechts toegang worden verleend tot de gegevens bedoeld in paragraaf 5 aan:<br>
-1°&nbsp;&nbsp; &nbsp;de natuurlijke personen die handelen onder het gezag van het VMRI. Deze personen verwerken deze gegevens slechts in opdracht van het VMRI;<br>
-2°&nbsp;&nbsp; &nbsp;de natuurlijke personen bedoeld in paragraaf 4.<br>
+1° de natuurlijke personen die handelen onder het gezag van of in opdracht van het VMRI. Deze personen verwerken deze gegevens slechts in opdracht van het VMRI;<br>
+2° de natuurlijke personen bedoeld in paragraaf 4.<br>
 <br>
-Overeenkomstig artikel 27, lid 3, van de algemene verordening gegevensbescherming worden de persoonsgegevens niet meegedeeld aan derden, behalve in geval van wettelijke uitzonderingen.<br>
+Overeenkomstig artikel 27, derde lid, worden de persoonsgegevens niet meegedeeld aan derden, behalve in geval van wettelijke uitzonderingen.<br>
 <br>
-§ 8. De persoonsgegevens worden bewaard tot vijf jaar nadat het VMRI de melding of de klacht, vermeld in artikel 12, eerste lid, en artikel 13, §1, heeft ontvangen.
+Het VMRI kan de persoonsgegevens, vermeld in paragraaf 5, 1°, voor de doeleinden, vermeld in paragraaf 3, eerste lid, 1°, meedelen aan andere entiteiten, overeenkomstig artikel 12 en 13.<br>
+<br>
+§8. Voor de bewaring van de persoonsgegevens worden de volgende termijnen voorzien:<br>
+1° de persoonsgegevens, vermeld in paragraaf 5, 1°, worden bewaard tot vijf jaar nadat het VMRI de behandeling van de melding, vermeld in artikel 12, eerste lid, of de klacht, vermeld in artikel 13, §1, heeft afgesloten;<br>
+2° de persoonsgegevens, vermeld in paragraaf 5, 2°, worden bewaard tot één jaar nadat het verzoek is behandeld.<br>
+<br>
+De behandeling van de klacht, vermeld in artikel 13, §1, wordt geacht te zijn afgesloten in de volgende gevallen:<br>
+1° de bemiddeling over de klacht werd succesvol afgerond;<br>
+2° de geschillenkamer heeft een oordeel geveld;<br>
+3° de klacht werd onontvankelijk verklaard;<br>
+4° de behandeling wordt afgesloten, met toepassing van artikel 13, §6;<br>
+5° de indiener van de klacht trekt diens verzoek tot een oordeel van de geschillenkamer in, met toepassing van artikel 23 van het besluit van de Vlaamse Regering van 15 december 2023 over de samenstelling van en de procedure voor de geschillenkamer van het Vlaams Mensenrechteninstituut.<br>
+<br>
+De behandeling van de melding, vermeld in artikel 12, eerste lid, wordt geacht te zijn afgesloten in de volgende gevallen:<br>
+1° er wordt in samenspraak met de melder beslist om het dossier af te sluiten;<br>
+2° het contact wordt afgebroken door de melder.<br>
+<br>
+Het verzoek inzake beloningsniveaus wordt als behandeld beschouwd op het moment dat de gevraagde informatie schriftelijk aan het personeelslid werd overgemaakt.<br>
+<br>
+§9. Voor de verwerking van persoonsgegevens om het jaarrapport op te stellen, vermeld in paragraaf 3, eerste lid, 2°, worden die persoonsgegevens geanonimiseerd of, als dat niet mogelijk is, gepseudonimiseerd.
 
 ## Titel 4. Organisatie
 
@@ -384,7 +452,9 @@ De raad van bestuur stelt binnen drie maanden na de eerste voltallige samenstell
 5° de eigen werking;<br>
 6° de thematische organisatie van het VMRI.<br>
 <br>
-Het organiek reglement, en elke latere wijziging ervan, wordt opgesteld met respect voor de algemene beginselen van behoorlijk bestuur en wordt ter goedkeuring voorgelegd aan het Vlaams Parlement. Het goedgekeurde organiek reglement wordt bekendgemaakt in het Belgisch Staatsblad.”.
+Het organiek reglement, en elke latere wijziging ervan, wordt opgesteld met respect voor de algemene beginselen van behoorlijk bestuur en wordt ter goedkeuring voorgelegd aan het Vlaams Parlement. Het goedgekeurde organiek reglement wordt bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+De raad van bestuur keurt een werkprogramma goed waarin de prioriteiten en toekomstige activiteiten van het VMRI worden uiteengezet.
 
 ### ART 33.
 
@@ -522,12 +592,12 @@ De financieringsmiddelen die het VMRI conform het eerste lid ontvangt, zijn afdo
 ### ART 41.
 
 De raad van bestuur van het VMRI wijst buiten zijn leden een bedrijfsrevisor aan die de volgende opdrachten heeft:<br>
-1°&nbsp;&nbsp; &nbsp;de financiële toestand en de jaarrekening van het VMRI controleren;<br>
-2°&nbsp;&nbsp; &nbsp;de regelmatigheid van de verrichtingen in de jaarrekening van het VMRI constateren.<br>
+1° de financiële toestand en de jaarrekening van het VMRI controleren;<br>
+2° de regelmatigheid van de verrichtingen in de jaarrekening van het VMRI constateren.<br>
 <br>
 De bedrijfsrevisor is aangesloten bij het Instituut voor Bedrijfsrevisoren.<br>
 <br>
-De bedrijfsrevisor brengt verslag uit over de uitvoering van zijn opdracht. Dat verslag wordt gevoegd bij het jaarlijkse rapport conform artikel 43, §1, vierde lid.
+De bedrijfsrevisor brengt verslag uit over de uitvoering van zijn opdracht. Dat verslag wordt gevoegd bij het jaarlijkse rapport conform artikel 43, §1, zesde lid.
 
 ## Titel 6. Verantwoording
 
@@ -537,9 +607,22 @@ Het VMRI dient jaarlijks een ontwerp van begroting met een voorstel van dotatie 
 
 ### ART 43.
 
-§ 1. Het VMRI publiceert jaarlijks een rapport waarin het verantwoording aflegt aan het Vlaams Parlement over de uitvoering van zijn bevoegdheden, de aanwending van zijn middelen en zijn algemene werking.<br>
+§ 1. Het VMRI publiceert jaarlijks een rapport waarin het verantwoording aflegt aan het Vlaams Parlement over de uitvoering van zijn bevoegdheden, de aanwending van zijn middelen en zijn algemene werking, met inbegrip van verslaglegging over personeel.<br>
 <br>
 Het jaarrapport omvat ook een algemene stand van zaken over de bescherming van de mensenrechten binnen de bevoegdheden van de Vlaamse Gemeenschap en het Vlaamse Gewest.<br>
+<br>
+Het rapport, vermeld in het eerste lid, bevat ten minste om de vier jaar aanbevelingen over de stand van zaken op het gebied van gelijke behandeling en discriminatie als vermeld in het decreet van 8 mei 2002 en het decreet van 10 juli 2008, met inbegrip van mogelijke structurele problemen in Vlaanderen.<br>
+<br>
+Het VMRI verzamelt gegevens over zijn activiteiten met het oog op het opstellen van het jaarrapport. Het VMRI structureert die gegevens op de volgende manieren:<br>
+1° uitgesplitst naar de gronden en gebieden die onder de volgende richtlijnen vallen:<br>
+&nbsp; a) richtlijn 2000/43/EG van de Raad van 29 juni 2000 houdende toepassing van het beginsel van gelijke behandeling van personen ongeacht ras of etnische afstamming;<br>
+&nbsp; b) richtlijn 2000/78/EG van de Raad van 27 november 2000 tot instelling van een algemeen kader voor gelĳke behandeling in arbeid en beroep;<br>
+&nbsp; c) richtlijn 2004/113/EG van de Raad van 13 december 2004 houdende toepassing van het beginsel van gelijke behandeling van mannen en vrouwen bij de toegang tot en het aanbod van goederen en diensten;<br>
+&nbsp; d) richtlijn 2006/54/EG van het Europees Parlement en de Raad van 5 juli 2006 betreffende de toepassing van het beginsel van gelijke kansen en gelijke behandeling van mannen en vrouwen in arbeid en beroep;<br>
+&nbsp; e) richtlijn 2010/41/EU van het Europees Parlement en de Raad van 7 juli 2010 betreffende de toepassing van het beginsel van gelijke behandeling van zelfstandig werkzame mannen en vrouwen en tot intrekking van Richtlijn 86/613/EEG van de Raad;<br>
+2° volgens de indicatoren, vermeld in:<br>
+&nbsp; a) artikel 18, lid 1, van richtlijn 2024/1499 van de Raad van 7 mei 2024 betreffende normen voor organen voor gelijke behandeling op het gebied van gelijke behandeling van personen ongeacht hun ras of etnische afstamming, gelijke behandeling van personen in arbeid en beroep ongeacht hun godsdienst of overtuiging, handicap, leeftijd of seksuele oriëntatie, gelijke behandeling van vrouwen en mannen op het gebied van sociale zekerheid en de toegang tot en het aanbod van goederen en diensten, en tot wijziging van Richtlijnen 2000/43/ EG en 2004/113/EG;<br>
+&nbsp; b) artikel 18, lid 1, van richtlijn 2024/1500 betreffende normen voor organen voor gelijke behandeling op het gebied van gelijke behandeling en gelijke kansen voor vrouwen en mannen in arbeid en beroep, en tot wijziging van de Richtlijnen 2006/54/EG en 2010/41/E.<br>
 <br>
 Het rapport wordt opgesteld in een heldere, toegankelijke taal.<br>
 <br>

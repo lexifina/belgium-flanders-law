@@ -2,16 +2,16 @@
   "codex_id": 1037573,
   "title": "Decreet van 2022-10-28 tot oprichting van een Vlaams Mensenrechteninstituut",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037573/VolledigDocument?datum=2023-03-15",
-  "source_sha256": "58ea7d29fa91526cd8f618456694d30f9131e83428902e02b349b95a6d031998",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037573/VolledigDocument?datum=2026-06-07",
+  "source_sha256": "c6d7e2dd95c7c98e3171956a2686f8739f8ad760c806c692eef11e365d418cb9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037573&param=informatie",
-  "as_of": "2023-03-15",
+  "as_of": "2026-06-07",
   "made": "2022-10-28",
   "gazette": "2022-11-09",
   "numac": 2022042669,
   "document_start": "2022-11-19",
   "document_end": null,
-  "in_force": "2023-03-15",
+  "in_force": "2026-06-07",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2023-03-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-06-07; future article versions excluded; article text as the API gives it"
 }
