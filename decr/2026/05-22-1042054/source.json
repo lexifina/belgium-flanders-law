@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042054,
+  "title": "Decreet van 2026-05-22 tot wijziging van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid en het decreet van 28 oktober 2022 tot oprichting van een Vlaams Mensenrechteninstituut, wat betreft de gedeeltelijke omzetting van de Europese richtlijnen met betrekking tot organen voor gelijke behandeling en loontransparantie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042054/VolledigDocument?datum=2026-06-07",
+  "source_sha256": "8cc0215e7e4a2587b09fb83593dcdf16cdc7f01a157b7108fc61e17a169f2a30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042054&param=informatie",
+  "as_of": "2026-06-07",
+  "made": "2026-05-22",
+  "gazette": "2026-06-03",
+  "numac": 2026004022,
+  "document_start": "2026-06-07",
+  "document_end": null,
+  "in_force": "2026-06-07",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2026-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
