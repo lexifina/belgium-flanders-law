@@ -154,7 +154,7 @@ Bij het Kinderrechtencommissariaat wordt een Commissie van Toezicht voor jeugdin
 
 ### ART 17.
 
-§ 1. De Commissie van Toezicht voor jeugdinstellingen heeft de volgende opdrachten die ze in volle onafhankelijkheid uitvoert:<br>
+§1. De Commissie van Toezicht voor jeugdinstellingen heeft de volgende opdrachten die ze in volle onafhankelijkheid uitvoert:<br>
 1° toezien op de bejegening in ruime zin van kinderen en jongeren in voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren waaronder de eerbiediging van de rechten zoals bedoeld in onder meer het Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989, en het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht;<br>
 2° kennisnemen van grieven over de bejegening van een of meer kinderen of jongeren in voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
 3° bemiddelen wanneer de grieven als bedoeld in punt 2° vatbaar zijn voor bemiddeling en geen omstandig onderzoek behelzen;<br>
@@ -165,42 +165,46 @@ Bij het Kinderrechtencommissariaat wordt een Commissie van Toezicht voor jeugdin
 <br>
 §2. Het toezicht, vermeld in paragraaf 1, 1°, wordt ter plaatse uitgeoefend door een persoon die de voorziening voor vrijheidsbenemende opvang van kinderen en jongeren minstens maandelijks bezoekt, hierna de maandcommissaris te noemen. Maandcommissarissen bezoeken een voorziening bij voorkeur onaangekondigd, maar ze kunnen hun bezoek ook vooraf aankondigen.<br>
 <br>
-§ 3. Een grief kan mondeling, schriftelijk of digitaal geuit worden ten aanzien van de maandcommissaris. Een voorziening voor vrijheidsbenemende opvang van kinderen en jongeren stelt een vlot bereikbare en gesloten bus ter beschikking van de kinderen en jongeren die geopend wordt door de maandcommissaris.<br>
+§3. Een grief kan mondeling, schriftelijk of digitaal geuit worden ten aanzien van de maandcommissaris. Een voorziening voor vrijheidsbenemende opvang van kinderen en jongeren informeert kinderen en jongeren bij hun aankomst in de voorziening en geregeld tijdens hun verblijf over het bestaan en de opdracht van de Commissie van Toezicht voor jeugdinstellingen en over de maandcommissaris voor de voorziening.<br>
 <br>
-§ 4. De bemiddeling bij een grief als bedoeld in paragraaf 1, 3°, gebeurt door middel van bemiddeling door de maandcommissaris die het toezicht als bedoeld in paragraaf 2 uitoefent.<br>
+§4. De bemiddeling bij een grief als bedoeld in paragraaf 1, 3°, gebeurt door middel van bemiddeling door de maandcommissaris die het toezicht als bedoeld in paragraaf 2 uitoefent.<br>
 <br>
 De maandcommissaris schort de bemiddeling op wanneer omtrent die grief een beroep bij een rechtbank aanhangig is.<br>
 <br>
-§ 5. De toeleiding als bedoeld in paragraaf 1, 4°, houdt in dat de maandcommissaris de persoon die de grief heeft geuit wijst op de mogelijkheid van een klachtenonderzoek als bedoeld in artikel 6, 2° :<br>
+§5. De toeleiding als bedoeld in paragraaf 1, 4°, houdt in dat de maandcommissaris de persoon die de grief heeft geuit wijst op de mogelijkheid van een klachtenonderzoek als bedoeld in artikel 6, 2° :<br>
 1° wanneer de grief niet vatbaar is voor bemiddeling door de maandcommissaris;<br>
 2° wanneer de bemiddeling niet mogelijk is zonder omstandig onderzoek;<br>
 3° wanneer de bemiddeling geen passend gevolg kent voor de betrokken kinderen of jongeren.<br>
 <br>
 De maandcommissaris geeft, op verzoek van de persoon die de grief heeft geuit, de klacht als bedoeld in het voorgaande lid door aan het Kinderrechtencommissariaat.<br>
 <br>
-§ 6. De rapportage als bedoeld in paragraaf 1, 5°, gebeurt als volgt:<br>
+§6. De rapportage als bedoeld in paragraaf 1, 5°, gebeurt als volgt:<br>
 1° de maandcommissaris brengt maandelijks verslag uit bij de Commissie van Toezicht voor jeugdinstellingen over het toezicht, de grieven, de bemiddeling en de toeleiding als bedoeld in paragraaf 1, 1°, 2°, 3° en 4°.<br>
-Het verslag wordt gevalideerd als rapport door de Commissie van Toezicht voor jeugdinstellingen nadat zij heeft vastgesteld dat het verslag geen namen van natuurlijke personen bevat en het verslag voldoet aan de inhoudelijke en vormelijke criteria die de Commissie van Toezicht voor jeugdinstellingen hanteert.<br>
+De maandcommissaris zorgt er samen met het secretariaat van de Commissie van Toezicht voor jeugdinstellingen voor dat het verslag geen namen van natuurlijke personen bevat en het verslag voldoet aan de inhoudelijke en vormelijke criteria die de Commissie van Toezicht voor jeugdinstellingen hanteert.<br>
 De maandcommissarissen communiceren niet individueel met derden;<br>
-2° de Commissie van Toezicht voor jeugdinstellingen bezorgt een rapport als bedoeld in punt 1° aan:<br>
-a) de betrokken voorziening voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
-b) het Kinderrechtencommissariaat;<br>
-c) de afdeling Zorginspectie van het Departement Zorg, vermeld in artikel 23, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
-d) de erkende cliëntenorganisaties, vermeld in artikel 45/1 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-e) het cliëntenforum, vermeld in artikel 45/2 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
-3° de maandcommissaris zorgt voor een actieve terugkoppeling van de rapporten naar de betrokken kinderen en jongeren in de voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren.<br>
+2° de maandcommissaris bezorgt het verslag, vermeld in punt 1°, aan:&nbsp;<br>
+a) de betrokken voorziening voor vrijheidsbenemende opvang voor kinderen en jongeren;<br>
+b) het Kinderenrechtencommissariaat;<br>
+c) het bevoegde agentschap waaronder de voorziening ressorteert.<br>
+3° als dat mogelijk is, zorgt de maandcommissaris voor een terugkoppeling van de manier waarop de voorziening voor vrijheidsbenemende opvang van kinderen en jongeren met individuele grieven van de betrokken kinderen en jongeren is omgegaan;<br>
 <br>
-§ 7. De aanbevelingen als bedoeld in paragraaf 1, 6°, kunnen deel uitmaken van het rapport als bedoeld in paragraaf 6, 1°, tweede lid. De Commissie van Toezicht voor jeugdinstellingen kan die aanbevelingen ook bezorgen aan andere instanties als bedoeld in paragraaf 6, 2°.<br>
+§7. De aanbevelingen als bedoeld in paragraaf 1, 6°, kunnen deel uitmaken van het verslag als bedoeld in paragraaf 6, 1°, eerste lid. De Commissie van Toezicht voor jeugdinstellingen kan die aanbevelingen ook bezorgen aan andere instanties als bedoeld in paragraaf 6, 2°.<br>
 <br>
 De maandcommissaris gaat na of, in welke mate en hoe een betrokken voorziening voor vrijheidsbenemende opvang van kinderen en jongeren gevolg geeft aan de aanbevelingen die tot haar gericht zijn. De maandcommissaris geeft dat weer in zijn maandelijkse verslag als bedoeld paragraaf 6, 1°, eerste lid.<br>
 <br>
 De Commissie van Toezicht voor jeugdinstellingen kan aanbevelingen doen bij het Vlaams Parlement om de definitie van voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren als bedoeld in artikel 2, 6°, te verruimen.<br>
 <br>
-§ 8. De jaarlijkse verslaggeving aan het Vlaams Parlement bevat minstens een synthese van de rapporten als bedoeld in paragraaf 6, 1°, tweede lid, en de aanbevelingen als bedoeld in paragraaf 7.
+§8. De jaarlijkse verslaggeving aan het Vlaams Parlement bevat minstens een synthese van de verslagen als bedoeld in paragraaf 6, 1°, eerste lid, en de aanbevelingen als bedoeld in paragraaf 7.<br>
+<br>
+§9. De Commissie van Toezicht voor jeugdinstellingen brengt het bevoegde agentschap waaronder de voorziening ressorteert, op de hoogte als aan alle volgende voorwaarden is voldaan:<br>
+1° er wordt in een verslag over een ernstig incident gerapporteerd;<br>
+2° er bestaat ernstige bezorgdheid over de niet-naleving van de rechten van de jongeren zoals wordt geformuleerd in het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
+3° de maandcommissaris en de Commissie van Toezicht voor jeugdinstellingen hebben de bezorgdheden vooraf besproken met de betrokken voorziening voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
+4° de Commissie van Toezicht voor jeugdinstellingen heeft onvoldoende zicht op een gepaste reactie en is van mening dat opvolging door het bevoegde agentschap waaronder de voorziening ressorteert, aangewezen is.
 
 ### ART 18.
 
-De Commissie van Toezicht voor jeugdinstellingen legt elk jaar een kalender van haar zittingen vast.<br>
+De Commissie van Toezicht voor jeugdinstellingen legt elk jaar een kalender van haar bijeenkomsten vast.<br>
 <br>
 De Commissie van Toezicht voor jeugdinstellingen kan beslissen om verscheidene maandcommissarissen af te vaardigen naar een voorziening voor vrijheidsbenemende opvang van kinderen en jongeren.
 
@@ -246,12 +250,12 @@ Een maandcommissaris moet aan de volgende voorwaarden voldoen:<br>
 3° informele of formele ervaring kunnen aantonen waaruit communicatieve vaardigheden, inzonderheid naar en voor kinderen en jongeren, waaronder luisterbereidheid en het helder formuleren van problemen, en een oplossingsgericht vermogen blijken;<br>
 4° een recent uittreksel uit het strafregister volgens model 2 voorleggen aan de Commissaris, waaruit blijkt dat er ten opzichte van hem geen elementen bestaan die onverzoenbaar zijn met een aanstelling.<br>
 <br>
-Ten hoogste twee derde van de maandcommissarissen mag van hetzelfde geslacht zijn.<br>
+De commissie levert inspanningen om tot een goede vertegenwoordiging van mannen en vrouwen te komen.<br>
 <br>
 § 2. De functie van maandcommissaris van de Commissie van toezicht is onverenigbaar met:<br>
 1° werkzaam zijn in een jeugdhulpvoorziening als bedoeld in artikel 2, § 1, 13°, van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht;<br>
 2° de uitoefening van een bij verkiezing verleend openbaar mandaat;<br>
-3° een functie in een overheidsdienst, ongeacht het bevoegdheidsniveau, waarvan de werkzaamheden betrekking hebben op de welzijnssector, de gezondheidszorg of justitie;<br>
+3° een functie in een overheidsdienst, ongeacht het bevoegdheidsniveau, waarvan de werkzaamheden betrekking hebben op de welzijnssector of de justitiële sector, gericht op minderjarigen;<br>
 4° het ambt als magistraat van de rechterlijke orde die niet in rust gesteld is en die na de inruststelling niet het ambt van plaatsvervangend magistraat uitoefent als bedoeld in artikel 383 van het Gerechtelijk Wetboek;<br>
 5° het ambt van ambtenaar bij het Openbaar Ministerie bij de hoven en rechtbanken als bedoeld in artikel 154 van de Grondwet;<br>
 6° enige andere functie vervullen of activiteit uitvoeren waardoor de waardigheid van het mandaat van maandcommissaris of de Commissie van toezicht in opspraak kan worden gebracht.<br>
@@ -265,8 +269,8 @@ Ten hoogste twee derde van de maandcommissarissen mag van hetzelfde geslacht zij
 4° wanneer er met betrekking tot hem sprake is van een onverenigbaarheid als bedoeld in paragraaf 2.<br>
 <br>
 De Commissaris kan het mandaat van een maandcommissaris beëindigen:<br>
-1° wanneer hij driemaal na elkaar zonder gemotiveerde verontschuldiging de zittingen van de Commissie van toezicht niet bijwoont;<br>
-2° wanneer hij viermaal op jaarbasis de zittingen van de Commissie van toezicht niet bijwoont;<br>
+1° wanneer hij driemaal na elkaar zonder gemotiveerde verontschuldiging de bijeenkomsten van de Commissie van toezicht niet bijwoont;<br>
+2° wanneer hij viermaal op jaarbasis de bijeenkomsten van de Commissie van toezicht niet bijwoont;<br>
 3° wanneer hij het huishoudelijk reglement van de Commissie van toezicht schendt.<br>
 <br>
 § 5. Een maandcommissaris ontvangt van het Kinderrechtencommissariaat minimaal een onkostenvergoeding die onder meer de verplaatsingskosten dekt. Hij wordt door het Kinderrechtencommissariaat verzekerd tegen ongevallen die zich tijdens verplaatsingen zouden voordoen en voor zijn burgerlijke aansprakelijkheid.
@@ -287,9 +291,9 @@ De Commissie van Toezicht voor jeugdinstellingen beschikt over een secretariaat 
 <br>
 De Commissaris stuurt het secretariaat aan. Het secretariaat is onder meer belast met het volgende:<br>
 1° de planning en de registratie van de bezoeken door de maandcommissarissen als bedoeld in artikel 17, § 2;<br>
-2° de verslaggeving van de zittingen van de Commissie van Toezicht voor jeugdinstellingen;<br>
-3° de voorbereiding van de validering van de verslagen als bedoeld in artikel 17, § 6, 1°, tweede lid;<br>
-4° het bezorgen van de rapporten als bedoeld in artikel 17, § 6, 2° ;<br>
+2° de verslaggeving van de bijeenkomsten van de Commissie van Toezicht voor jeugdinstellingen;<br>
+3° de ondersteuning van de maandcommissaris bij de voorbereiding van de verslagen als bedoeld in artikel 17, § 6, 1°, eerste lid;<br>
+4° de ondersteuning van de maandcommissarissen bij het vervullen van hun opdracht;<br>
 5° de voorbereiding van de jaarlijkse verslaggeving als bedoeld in artikel 17, § 8;<br>
 6° de archivering van de documenten die door de Commissie van Toezicht voor jeugdinstellingen worden voortgebracht.
 
