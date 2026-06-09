@@ -2,16 +2,16 @@
   "codex_id": 1035503,
   "title": "Ministerieel besluit van 2021-04-26 vaststelling van de regels voor de vergoeding voor de opvang van inbeslaggenomen dieren, de subsidiëring van de erkende dierenasielen en het verhalen op de verantwoordelijke van de kosten voor inbeslagname van dieren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035503/VolledigDocument?datum=2023-06-01",
-  "source_sha256": "ca7f80e4b823fc3c22dc851851fea8f5d0515e0258d2071bc09af6579d1ec147",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035503/VolledigDocument?datum=2026-06-09",
+  "source_sha256": "9d0b30d6d9dd5be08b8230bfab26b68d59a33479cfb8afa27b45e10d25d9af61",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035503&param=informatie",
-  "as_of": "2023-06-01",
+  "as_of": "2026-06-09",
   "made": "2021-04-26",
   "gazette": "2021-04-29",
   "numac": 2021031224,
   "document_start": "2021-05-01",
   "document_end": null,
-  "in_force": "2023-06-01",
+  "in_force": "2026-06-09",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2023-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-06-09; future article versions excluded; article text as the API gives it"
 }
