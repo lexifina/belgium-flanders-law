@@ -30,9 +30,9 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° erkend dierenasiel: het dierenasiel dat conform artikel 5 van de wet van 14 augustus 1986 is erkend;<br>
+1° erkend dierenasiel: het dierenasiel dat conform artikel 17 van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 is erkend;<br>
 2° minister: de Vlaamse minister, bevoegd voor het dierenwelzijn;<br>
-3° wet van 14 augustus 1986: de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+3° ...;<br>
 4° dienst: de subentiteit van het Departement Omgeving die bevoegd is voor het dierenwelzijn.
 
 ## HOOFDSTUK 2.Subsidie
@@ -45,9 +45,7 @@ In dit besluit wordt verstaan onder:<br>
 <br>
 De subsidies, vermeld in dit hoofdstuk, worden alleen gebruikt voor de werking van het erkende dierenasiel. De dienst kan een verantwoordingsnota opvragen over het gebruik van de subsidies en kan de bewijsstukken opvragen over de gegevens die zijn opgenomen in de subsidieaanvraag.&nbsp;Het erkende dierenasiel bezorgt de verantwoordingsnota en de bewijsstukken op eenvoudig verzoek van de dienst onmiddellijk aan de dienst.<br>
 <br>
-§ 2. De bedragen, vermeld in dit hoofdstuk, worden jaarlijks geïndexeerd volgens de volgende formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex: (bedrag vermenigvuldigd met nieuw indexcijfer) gedeeld door het indexcijfer van december 2022. Met de gezondheidsindex wordt de afgevlakte gezondheidsindex bedoeld, vermeld in artikel 2, § 2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
-<br>
-In afwijking van het eerste lid worden de bedragen, vermeld in artikel 5/1, vanaf 1 januari 2024 jaarlijks geïndexeerd conform het eerste lid.
+§ 2. De bedragen, vermeld in dit hoofdstuk, worden jaarlijks geïndexeerd volgens de volgende formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex: (bedrag vermenigvuldigd met nieuw indexcijfer) gedeeld door het indexcijfer van december 2022. Met de gezondheidsindex wordt de afgevlakte gezondheidsindex bedoeld, vermeld in artikel 2, § 2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 
 ### ART 3.
 
@@ -57,55 +55,27 @@ In afwijking van het eerste lid worden de bedragen, vermeld in artikel 5/1, vana
 
 ### ART 4.
 
-Een erkend dierenasiel komt in aanmerking voor een forfaitaire basissubsidie van drieduizend euro als het voldoet aan al de volgende voorwaarden:<br>
-1° het erkende dierenasiel is ingeschreven in de Kruispuntbank van Ondernemingen aan de hand van NACE-code 94.999;<br>
-2° in het erkende dierenasiel werken ten minste twee personen;<br>
-3° het erkende dierenasiel voert een gezond financieel beleid dat diverse inkomstenbronnen bevat, beschikt over een transparante financiële werking, voert een realistische begroting en beschikt over financiële jaarverslagen;<br>
-4° het erkende dierenasiel verbindt zich ertoe om in het jaar waarin de subsidieaanvraag wordt ingediend, telefonisch bereikbaar en beschikbaar te zijn tussen 9u en 17u om in beslag genomen dieren te transporteren en op te vangen, en ondertekent de intentieverklaring daarover die de dienst op zijn website ter beschikking stelt;<br>
-5° het gebruikt het computerprogramma Animal Shelter;<br>
-6° als er te adopteren dieren zijn, biedt het dierenasiel minstens 75% van de te adopteren dieren ter adoptie aan via de website adopteereendier.be;<br>
-8° de vaste personeelsleden in loondienst die voltijds tewerkgesteld zijn en instaan voor de verzorging van de dieren, zijn in het bezit van een diploma of getuigschrift als vermeld in artikel 5, §1, van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren.
+Een erkend dierenasiel komt in aanmerking voor een forfaitaire basissubsidie van drieduizend vijfhonderd euro als het voldoet aan al de volgende voorwaarden:<br>
+1°&nbsp;&nbsp; &nbsp;het erkende dierenasiel is ingeschreven in de Kruispuntbank van Ondernemingen onder NACE-code 94.999, 96.993 of 94.994;<br>
+2°&nbsp;&nbsp; &nbsp;in het erkende dierenasiel werken ten minste twee personen;<br>
+3°&nbsp;&nbsp; &nbsp;het erkende dierenasiel voert een gezond financieel beleid dat diverse inkomstenbronnen bevat, beschikt over een transparante financiële werking, voert een realistische begroting en beschikt over financiële jaarverslagen;<br>
+4°&nbsp;&nbsp; &nbsp;het erkende dierenasiel verbindt zich ertoe om in het jaar waarin de subsidieaanvraag wordt ingediend, telefonisch bereikbaar en beschikbaar te zijn op werkdagen tussen 9 uur en 17 uur om in te staan voor transport en opvang van dieren die in beslag zijn genomen;&nbsp;<br>
+5°&nbsp;&nbsp; &nbsp;het erkende dierenasiel gebruikt het computerprogramma Animal Shelter;<br>
+6°&nbsp;&nbsp; &nbsp;als er te adopteren dieren zijn, biedt het erkende dierenasiel die voor adoptie aan via de website adopteereendier.be;<br>
+7°&nbsp;&nbsp; &nbsp;het erkende dierenasiel heeft minstens twee medewerkers die in het bezit zijn van een diploma of getuigschrift als vermeld in artikel 5, §1, van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
+8°&nbsp;&nbsp; &nbsp;in het jaar voorafgaand aan de subsidieaanvraag heeft het erkende dierenasiel geen proces-verbaal ontvangen voor overtredingen van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 of de uitvoeringsbesluiten ervan.
 
-## Afdeling 3. Aantal opvangplaatsen
+## Afdeling 3. ...
 
 ### ART 5.
 
-Een erkend dierenasiel dat voldoet aan de voorwaarden van artikel 4, komt in aanmerking voor een aanvullend subsidie naargelang de beschikbare opvangcapaciteit op het grondgebied van het Vlaamse Gewest. De totale subsidie bedraagt maximaal driehonderdduizend euro. Dat bedrag is jaarlijks te verdelen onder de erkende dierenasielen die in aanmerking komen, waarbij het erkende dierenasiel dat in aanmerking komt voor de subsidie, maximaal vijfendertigduizend euro kan ontvangen.<br>
-<br>
-Het bedrag van de subsidie wordt bepaald op basis van de opvangcapaciteit van het erkende dierenasiel zoals opgenomen in de erkenningsaanvraag, vermeld in artikel 2, §1, van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren. Enkel de opvangcapaciteit op de terreinen van het dierenasiel wordt hierbij in rekening gebracht.<br>
-<br>
-De minister bepaalt de verdeelsleutel die toegepast wordt op het bedrag, vermeld in het eerste lid, rekening houdend met de oppervlakte per categorie van opvangplaats waarin dieren worden opgevangen. De voormelde categorieën zijn de volgende:<br>
-1° weiden;<br>
-2° stallen;<br>
-3° aquaria;<br>
-4° hondenverblijven;<br>
-5° kattenverblijven;<br>
-6° konijnen- en knaagdierenverblijven;<br>
-7° terraria;<br>
-8° vijvers;<br>
-9° volières.
+...
 
-## [Afdeling 3/1. Aantal geadopteerde dieren (ing. BVR 26 mei 2023, art. 5, I: 1 juni 2023)]
+## Afdeling 3/1. ...
 
 ### ART 5/1.
 
-Een erkend dierenasiel dat voldoet aan de voorwaarden van artikel 4, komt in aanmerking voor een aanvullende subsidie op basis van het aantal geadopteerde dieren in het jaar vóór het jaar waarin de subsidieaanvraag, vermeld in artikel 6, wordt ingediend. De totale subsidie bedraagt maximaal honderdvijftigduizend euro. Het voormelde bedrag is jaarlijks te verdelen onder de erkende dierenasielen die in aanmerking komen, waarbij het erkende dierenasiel dat in aanmerking komt voor de subsidie, maximaal zeventienduizend vijfhonderd euro kan ontvangen.<br>
-<br>
-De minister bepaalt de verdeelsleutel die toegepast wordt op het bedrag, vermeld in het eerste lid, per diersoort of groep van diersoorten die wordt opgevangen. De voormelde soorten of groepen van soorten zijn de volgende:<br>
-1° honden;<br>
-2° katten;<br>
-3° konijnen en knaagdieren;<br>
-4° pluimvee;<br>
-5° vogels;<br>
-6° paarden, pony’s, ezels en runderen;<br>
-7° geiten, schapen en varkens;<br>
-8° reptielen en amfibieën;<br>
-9° vissen;<br>
-10° andere dieren.<br>
-<br>
-Het subsidiebedrag dat het erkende dierenasiel krijgt, wordt bepaald op basis van de gegevens die het erkende dierenasiel heeft ingevoerd in het computerprogramma Animal Shelter.<br>
-<br>
-De verdeelsleutel, vermeld in het tweede lid, houdt rekening met een correctiefactor van 150% voor in beslag genomen dieren die met toepassing van artikel 42, §2, van de wet van 14 augustus 1986 in volle eigendom zijn gegeven aan het erkende dierenasiel.
+...
 
 ## Afdeling 4. Procedure
 
@@ -128,30 +98,34 @@ Onder voorbehoud van artikel 13 van de wet van 16 mei 2003 tot vaststelling van 
 
 ### ART 8.
 
-§ 1. Binnen de perken van de beschikbare begrotingskredieten maakt het erkende dierenasiel dat de dieren opvangt die conform artikel 42, §1, van de wet van 14 augustus 1986 in beslag genomen zijn, conform artikel 42, §1, vierde en vijfde lid, van de voormelde wet aanspraak op de volgende vergoedingen voor de opvang van de dieren en de kosten die verbonden zijn aan de opvang:<br>
-1° een dagvergoeding;<br>
-2° een transportvergoeding;<br>
-3° een vergoeding voor de kosten die verbonden zijn aan de kattensterilisatie, als de sterilisatie wettelijk verplicht is en als de dieren met toepassing van artikel 42, §2, van de wet van 14 augustus 1986 in volle eigendom worden gegeven aan het erkende dierenasiel;<br>
-4° een vergoeding voor de kosten die verbonden zijn aan de identificatie en registratie, als de identificatie en registratie wettelijk verplicht zijn;<br>
-5° een vergoeding voor de kosten die verbonden zijn aan de vaccinaties, als de vaccinaties wettelijk verplicht zijn en als de dieren met toepassing van artikel 42, §2, van de wet van 14 augustus 1986 in volle eigendom worden gegeven aan het erkende dierenasiel;<br>
-6° een vergoeding voor de kosten die verbonden zijn aan de opmaak van een paspoort, als dat paspoort wettelijk verplicht is;<br>
-7° een vergoeding voor de opmaak van het diergeneeskundig verslag dat opgesteld wordt op verzoek van de personen, vermeld in artikel 34, §1, van de wet van 14 augustus 1986, als het diergeneeskundig verslag wordt bezorgd aan de dienst binnen veertien dagen nadat de vraag wordt gesteld. Voor de opmaak van het diergeneeskundig verslag wordt gebruik gemaakt van het formulier dat de dienst daarvoor ter beschikking stelt op zijn website.<br>
+§1. Het erkende dierenasiel dat de dieren opvangt die conform artikel 72, §1, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 in beslag genomen zijn, maakt conform artikel 72, §1, vierde en vijfde lid, van het voormelde decreet aanspraak op de volgende vergoedingen voor de opvang van de dieren en de kosten die verbonden zijn aan de opvang:<br>
+1°&nbsp;&nbsp; &nbsp;een dagvergoeding per dier, afhankelijk van de diersoort;<br>
+2°&nbsp;&nbsp; &nbsp;een transportvergoeding;<br>
+3°&nbsp;&nbsp; &nbsp;een vergoeding voor de kosten die verbonden zijn aan de kattensterilisatie, als de sterilisatie wettelijk verplicht is;<br>
+4°&nbsp;&nbsp; &nbsp;een vergoeding voor de kosten die verbonden zijn aan de identificatie en registratie, als de identificatie en registratie wettelijk verplicht zijn;<br>
+5°&nbsp;&nbsp; &nbsp;een vergoeding voor de kosten die verbonden zijn aan de vaccinaties, als de vaccinaties wettelijk verplicht zijn;<br>
+6°&nbsp;&nbsp; &nbsp;een vergoeding voor de kosten die verbonden zijn aan de opmaak van een paspoort, als dat paspoort wettelijk verplicht is;<br>
+7°&nbsp;&nbsp; &nbsp;een vergoeding voor de opmaak van het diergeneeskundige verslag dat opgesteld wordt op verzoek van de personen, vermeld in artikel 64, §1, van het voormelde decreet, als het diergeneeskundige verslag wordt bezorgd aan de dienst binnen veertien dagen nadat de vraag wordt gesteld. Om het diergeneeskundige verslag op te maken, kan het formulier gebruikt worden dat de dienst daarvoor ter beschikking stelt op zijn website. Een alternatief formulier mag gebruikt worden op voorwaarde dat alle rubrieken van het formulier dat de dienst ter beschikking stelt op zijn website, in het alternatieve formulier zijn opgenomen. Diergeneeskundige verslagen die niet alle gevraagde informatie bevatten, worden niet vergoed;<br>
+8° &nbsp;&nbsp; &nbsp;een vergoeding voor wettelijk verplicht uit te voeren testen in het kader van diergezondheid opgelegd door het Federaal Agentschap voor de Veiligheid van de Voedselketen die op voorhand wordt aangevraagd bij de dienst en waarbij de dienst voor elk van de aanvragen het bedrag van de vergoedingen bepaalt, en dit voor de volgende diersoorten:<br>
+a)&nbsp;&nbsp; &nbsp;kleine herkauwers;<br>
+b)&nbsp;&nbsp; &nbsp;rundvee;<br>
+c)&nbsp;&nbsp; &nbsp;varkens.<br>
 <br>
-De minister bepaalt het bedrag van de vergoedingen, vermeld in het eerste lid.<br>
+De minister bepaalt het bedrag van de vergoedingen, vermeld in het eerste lid, 1° tot en met 7°.<br>
 <br>
-§ 2. Overeenkomstig artikel 42, § 1, derde lid, van de wet van 14 augustus 1986 bezorgt het erkende dierenasiel aan de dienst een overzicht van de dieren die conform artikel 42, § 1, van de voormelde wet in beslag genomen zijn en die het opvangt. Het erkende dierenasiel vermeldt daarbij ook de tijdsduur waarin het de dieren gedurende de inbeslagname heeft opgevangen en in voorkomend geval de informatie en de bewijsstukken die nodig zijn om de transportvergoeding om dieren op te halen en de overige kosten, vermeld in paragraaf 1, eerste lid, 3° tot en met punt 6°, te bepalen.<br>
+§2. Overeenkomstig artikel 72, §1, derde lid, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 bezorgt het erkende dierenasiel aan de dienst een overzicht van de dieren die conform artikel 72, §1, van het voormelde decreet in beslag genomen zijn en die het opvangt. Het erkende dierenasiel vermeldt daarbij ook de tijdsduur waarin het de dieren gedurende de inbeslagname heeft opgevangen en, in voorkomend geval, de informatie en de bewijsstukken die nodig zijn om de transportvergoeding om de dieren op te halen en de overige kosten, vermeld in paragraaf 1, eerste lid, 2° tot en met 8°, te bepalen.<br>
 <br>
-De informatie, vermeld in het eerste lid, wordt&nbsp;per dossier ingediend bij de dienst uiterlijk zes maanden nadat het erkende dierenasiel is ingelicht van de beslissing die is genomen met toepassing van artikel 42, §2, van de wet van 14 augustus 1986. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.<br>
+De informatie, vermeld in het eerste lid, wordt per dossier ingediend bij de dienst uiterlijk zes maanden nadat het erkende dierenasiel op de hoogte is gebracht van de beslissing die is genomen met toepassing van artikel 72, §3, van het voormelde decreet. Het erkende dierenasiel gebruikt daarvoor het formulier dat de dienst op zijn website ter beschikking stelt.<br>
 <br>
-De dienst betaalt de vergoeding binnen dertig dagen na de dag waarop hij het formulier, vermeld in het tweede lid, heeft ontvangen.
+De dienst betaalt de vergoeding binnen dertig dagen na de dag waarop hij het formulier, vermeld in het tweede lid, en de bijbehorende facturen, heeft ontvangen.
 
 ## HOOFDSTUK 4. Vergoeding door de verantwoordelijke
 
 ### ART 9.
 
-Conform artikel 42, § 5, van de wet van 14 augustus 1986 verhaalt de dienst de kosten die verbonden zijn aan de maatregelen die worden genomen met toepassing van artikel 42, § 1, § 2 en § 4, van de voormelde wet, op de verantwoordelijke van het dier op basis van de tarieven die de minister vaststelt.<br>
+Conform artikel 72, §6, van de Vlaamse Codex Dierenwelzijn van 17 mei 2024 verhaalt de dienst de kosten die verbonden zijn aan de maatregelen die worden genomen met toepassing van artikel 72, §1, §3 en §5, van het voormelde decreet, op de verantwoordelijke van het dier op basis van de tarieven die de minister vaststelt.<br>
 <br>
-In het eerste lid wordt verstaan onder verantwoordelijke: de verantwoordelijke, vermeld in artikel 3, 24°, van de wet van 14 augustus 1986.
+In het eerste lid wordt verstaan onder verantwoordelijke: de verantwoordelijke, vermeld in artikel 3, 29°, van het voormelde decreet.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
