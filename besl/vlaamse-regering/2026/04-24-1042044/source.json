@@ -2,16 +2,16 @@
   "codex_id": 1042044,
   "title": "Besluit van de Vlaamse Regering van 2026-04-24 tot uitvoering van deel III van luik III van het zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 tot toekenning van een budget voor kwaliteitsmaatregelen voor de revalidatievoorzieningen, de psychiatrische verzorgingstehuizen, de initiatieven van beschut wonen en de multidisciplinaire begeleidingsequipes voor palliatieve verzorging voor het jaar 2026 en een budget voor koopkrachtmaatregelen voor de publieke revalidatievoorzieningen en de publieke initiatieven voor beschut wonen voor het jaar 2026",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042044/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "ef83af95ca1b74106ca2b393bbb677b74a5b30680201b9adff1dd06599888bb2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042044/VolledigDocument?datum=2026-06-11",
+  "source_sha256": "f3a5fc880c4e6006e52453a87af5cd71ed54a7aaea44fe146d23bf55a109e63b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042044&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-06-11",
   "made": "2026-04-24",
   "gazette": "2026-06-01",
   "numac": 2026003940,
   "document_start": "2026-06-11",
   "document_end": null,
-  "in_force": "2026-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2026-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-06-11",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2026-06-11; future article versions excluded; article text as the API gives it"
 }
