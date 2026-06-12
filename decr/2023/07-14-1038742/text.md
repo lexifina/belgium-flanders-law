@@ -1192,6 +1192,8 @@ De vastgoedmakelaar vermeldt bij het voeren van publiciteit en het opmaken van o
 <br>
 §6. De toegang, vermeld in paragraaf 1 en 2, vereist een voorafgaandelijk protocol als vermeld in artikel 8 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Voor de toegang, vermeld in paragraaf 4, en de toegang van vastgoedmakelaars, vermeld in paragraaf 5, volstaat een voorafgaandelijk protocol met respectievelijk de Federatie van Notarissen en het Beroepsinstituut van Vastgoedmakelaars.<br>
 <br>
+De toegang voor notarissen en vastgoedmakelaars, vermeld in paragraaf 4 en 5, wordt verzekerd via het Vastgoedinformatieplatform, vermeld in artikel 2, 20°, van het decreet van 22 december 2023 over het Vastgoedinformatieplatform.<br>
+<br>
 De Vlaamse Regering kan de consultatie van het maatregelenregister, vermeld in artikel 81, eerste lid, door de instrumenterende ambtenaar, vermeld in paragraaf 4, en de vastgoedmakelaar, vermeld in paragraaf 5, afhankelijk stellen van het betalen van een retributie.<br>
 <br>
 Onverminderd de sanctie bepaald in artikel 103 van dit decreet, kan het gebruik van de toegang tot het maatregelenregister voor andere doeleinden dan vermeld in het eerste lid, ertoe leiden dat verdere toegang wordt ontzegd aan de betrokkenen.
