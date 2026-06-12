@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042078,
+  "title": "Decreet van 2026-06-05 tot wijziging van diverse decreten, wat betreft de tweede algemene implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042078/VolledigDocument?datum=2026-06-12",
+  "source_sha256": "564d9bb6a3840faa90767779f20fda750df95fa774d1197235f1c66b2bd95d4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042078&param=informatie",
+  "as_of": "2026-06-12",
+  "made": "2026-06-05",
+  "gazette": "2026-06-12",
+  "numac": 2026004338,
+  "document_start": "2026-09-08",
+  "document_end": null,
+  "in_force": "2026-06-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
