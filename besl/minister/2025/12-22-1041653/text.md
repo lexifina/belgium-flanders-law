@@ -502,13 +502,21 @@ Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden 
 <br>
 Voor de vaartdagen waarop het vissersvaartuig actief is met vistuig van de inspanningsgroep TR1, worden de hoeveelheden, vermeld in het tweede lid, verdubbeld.<br>
 <br>
-§10. Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 150 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
-<br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 300 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
-<br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 75 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
-<br>
-Het is in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 150 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+§10. In de periode van 1 januari 2026 tot en met 12 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 150 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 13 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In de periode van 1 januari 2026 tot en met 12 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 300 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 13 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de tarbotvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 800 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden<br>
+&nbsp;&nbsp; &nbsp;<br>
+In de periode van 1 januari 2026 tot en met 12 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 75 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 13 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het KVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+In de periode van 1 januari 2026 tot en met 12 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 150 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
+&nbsp;&nbsp; &nbsp;<br>
+Vanaf 13 juni 2026 is het in de ICES-gebieden II, IV voor een vissersvaartuig van het GVS verboden bij de grietvangst per visreis een hoeveelheid te overschrijden die gelijk is aan 400 kg vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die visreis in de desbetreffende ICES-gebieden.<br>
 <br>
 §11. Het is in de ICES-gebieden VIIb-k, VIII voor een vissersvaartuig van het KVS verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 100 kg per vaartuig.&nbsp;<br>
 <br>
