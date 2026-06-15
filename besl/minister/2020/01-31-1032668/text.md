@@ -17,9 +17,11 @@ Besluit :
 ### ART 1.
 
 De werkzaamheden die in aanmerking komen voor de steun voor energetische renovatieprojecten van noodkoopwoningen zijn deze die op het moment van de aanvraag van de noodkooplening:<br>
-1° in aanmerking komen voor een tegemoetkoming, vermeld in Boek 5, Deel 5, Titel 3, hoofdstuk 1 van het besluit Vlaamse Codex Wonen van 2021 of de premies, vermeld in artikel 6.4.1/1, &nbsp;6.4.1/1/1, 6.4.1/5 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010;<br>
-2° in aanmerking komen voor een verbouwlening, overeenkomstig artikel 7.9.2/0/7 en 7.9.2/0/8 van het Energiebesluit van 19 november 2010;<br>
-3° tot doel hebben om de noodkoopwoning te laten beantwoorden aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021. Hierbij wordt het technisch handboek Woningkwaltiteitsbewaking als leidraad gehanteerd.
+1° in aanmerking komen voor een tegemoetkoming, vermeld in artikel 5.189, §2, 1° tot en met 6° van het besluit Vlaamse Codex Wonen van 2021 of de premies, vermeld in artikel 6.4.1/1, &nbsp;6.4.1/1/1, 6.4.1/5 en 6.4.1/5/1 van het Energiebesluit van 19 november 2010;<br>
+2° in aanmerking komen voor een verbouwlening, overeenkomstig artikel artikel 7.9.2/0/12 van het Energiebesluit van 19 november 2010;<br>
+3° tot doel hebben om de noodkoopwoning te laten beantwoorden aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 3.1 van de Vlaamse Codex Wonen van 2021. Hierbij wordt het technisch handboek Woningkwaltiteitsbewaking als leidraad gehanteerd.<br>
+<br>
+In afwijking van het eerste lid, 3°, komt de plaatsing van fossiel gestookte op zichzelf staande verwarmingsketels, zoals bepaald in artikel 17.15 van de richtlijn (EU) 2024/1275 van het Europees Parlement en de Raad van 24 april 2024 betreffende de energieprestatie van gebouwen, niet in aanmerking voor de steun voor energetische renovatieprojecten van noodkoopwoningen.
 
 ### ART 2.
 
@@ -27,8 +29,7 @@ De ontlener kan steeds kosteloos overgaan tot de vervroegde gehele terugbetaling
 
 ### ART 3.
 
-Indien binnen een termijn van vier jaar nadat de lening volledig is terugbetaald, een meerwaarde wordt gerealiseerd, wordt een vergoeding aangerekend die gelijk is aan het opeisbaar gedeelte van de meerwaarde berekend overeenkomstig de formule voorzien in artikel 7.2.22 § 3, vijfde lid van het Energiebesluit van 19 november 2010.<br>
-&nbsp;
+...
 
 ### ART 4.
 
