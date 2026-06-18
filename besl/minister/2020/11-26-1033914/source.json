@@ -2,16 +2,16 @@
   "codex_id": 1033914,
   "title": "Ministerieel besluit van 2020-11-26 tot vaststelling van het basisreglement van de leningen van de Vlaamse Maatschappij voor Sociaal Wonen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033914/VolledigDocument?datum=2025-09-12",
-  "source_sha256": "8ed2a299a56732fb6890c47ad9763bb5942b1b47e02234e343bd95ec7c41b348",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033914/VolledigDocument?datum=2026-06-18",
+  "source_sha256": "6d7b61c880a1877288209d05a615f28b07828d556e3b0ad46895291b7253ba26",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033914&param=informatie",
-  "as_of": "2025-09-12",
+  "as_of": "2026-06-18",
   "made": "2020-11-26",
   "gazette": "2020-12-04",
   "numac": 2020016225,
   "document_start": "2021-01-01",
   "document_end": null,
-  "in_force": "2025-09-12",
-  "article_versions": 41,
-  "record_form": "consolidated version as in force on 2025-09-12; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-06-18",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2026-06-18; future article versions excluded; article text as the API gives it"
 }
