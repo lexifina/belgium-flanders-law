@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042067,
+  "title": "Ministerieel besluit van 2026-06-01 tot wijziging van het ministerieel besluit van 26 november 2020 tot vaststelling van het basisreglement van de leningen van de Vlaamse Maatschappij voor Sociaal Wonen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042067/VolledigDocument?datum=2026-06-18",
+  "source_sha256": "ffc317682666a7034c18085c0b5a573e758c994ae9018e4eda4564bbed3b6ba4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042067&param=informatie",
+  "as_of": "2026-06-18",
+  "made": "2026-06-01",
+  "gazette": "2026-06-08",
+  "numac": 2026004140,
+  "document_start": "2026-06-18",
+  "document_end": null,
+  "in_force": "2026-06-18",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2026-06-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
