@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042069,
+  "title": "Decreet van 2026-06-05 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de verlenging van de erkenningen voor netwerkradio-omroeporganisaties en de lokale radio-omroeporganisaties",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042069/VolledigDocument?datum=2026-06-20",
+  "source_sha256": "62968b9e7b13750fac9e75980eb5ae13f0e548d8bb4dd0a568b31e774591a85e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042069&param=informatie",
+  "as_of": "2026-06-20",
+  "made": "2026-06-05",
+  "gazette": "2026-06-10",
+  "numac": 2026004172,
+  "document_start": "2026-06-20",
+  "document_end": null,
+  "in_force": "2026-06-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
