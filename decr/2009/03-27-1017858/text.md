@@ -4167,6 +4167,10 @@ Hoofdstuk II van de wet van 23 juni 1961 betreffende het recht tot antwoord inge
 
 Televisieomroeporganisaties die een erkenning hebben verkregen met toepassing van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, en waarvoor nu een regeling van kennisgeving geldt, worden geacht aan de kennisgevingsverplichting van dit decreet te hebben voldaan voor de omroepdienst in kwestie.
 
+### ART 243/1.
+
+In afwijking van artikel 134, §2, worden erkenningen van netwerkradio-omroeporganisaties en lokale radio-omroeporganisaties die aflopen vóór 31 december 2027, verlengd tot en met 31 december 2027.
+
 ### ART. 244.
 
 De bepalingen van deel III, titel II, hoofdstuk IV, treden in werking op 1 september 2009.
