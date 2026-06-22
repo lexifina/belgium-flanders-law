@@ -334,7 +334,8 @@ De verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene veror
 De volgende persoonsgegevens worden verwerkt in het kader van dit decreet:<br>
 1° de gegevens, vermeld in artikel 8, § 1, eerste lid, 1° ;<br>
 2° de gegevens, vermeld in artikel 10;<br>
-3° de gegevens betreffende de opleiding, de inschrijving en de evaluatie van de cursist.<br>
+3° de gegevens betreffende de opleiding, de inschrijving en de evaluatie van de cursist;<br>
+4° de identificatiegegevens van de mentor.<br>
 <br>
 Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen wisselt de gegevens, vermeld in het eerste lid, 3°, uit met het Departement Werk en Sociale Economie en het Vlaams Partnerschap Duaal Leren.<br>
 <br>
@@ -342,7 +343,7 @@ In het tweede lid wordt verstaan onder het Agentschap voor Hoger Onderwijs, Volw
 
 ### ART 29.
 
-Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de latere verwerking met het oog op archivering in het algemeen belang, voor wetenschappelijk of historisch onderzoek of voor statistische doeleinden, vermeld in artikel 89 van de algemene verordening gegevensbescherming, worden de persoonsgegevens die in het kader van dit decreet worden verwerkt voor de doeleinden, vermeld in artikel 27 van dit decreet, bewaard gedurende een termijn van vijf jaar.
+Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de latere verwerking met het oog op archivering in het algemeen belang, voor wetenschappelijk of historisch onderzoek of voor statistische doeleinden, vermeld in artikel 89 van de algemene verordening gegevensbescherming, worden de persoonsgegevens die in het kader van dit decreet worden verwerkt voor de doeleinden, vermeld in artikel 27 van dit decreet, bewaard gedurende een termijn van vijf jaar na de beëindiging van de overeenkomst.
 
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
