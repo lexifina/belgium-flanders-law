@@ -18,6 +18,33 @@ De Vlaamse Regering bepaalt:<br>
 3° de registratievoorwaarden en -procedure voor de opleidingsverstrekkers;<br>
 4° de aankoop- en inleveringsprocedure van de opleidingscheque en de overige nadere voorwaarden en nadere regels.
 
+### ART 2/1.
+
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de toekenning van opleidingscheques.<br>
+<br>
+De opleidingsverstrekker treedt op als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens in het kader van de inleveringsprocedure voor de geregistreerde opleidingsverstrekker.
+
+### ART 2/2.
+
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, verwerkt de volgende persoonsgegevens van de werknemer:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatie- en contactgegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de opleidingsgegevens;<br>
+3°&nbsp;&nbsp; &nbsp;de Dimona-gegevens;<br>
+4°&nbsp;&nbsp; &nbsp;de gegevens over de inschrijving voor een opleiding;<br>
+5°&nbsp;&nbsp; &nbsp;de persoonsgegevens in het attest van de opleiding in het kader van het persoonlijk ontwikkelingsplan.<br>
+&nbsp;<br>
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, verwerkt de volgende persoonsgegevens van de opleidingsverstrekker: 1°&nbsp;&nbsp; &nbsp;de identificatie- en contactgegevens.<br>
+<br>
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, wisselt de persoonsgegevens, vermeld in het eerste lid, uit met de volgende instanties:<br>
+1° &nbsp;de opleidingsverstrekkers;<br>
+2° het Rijksregister van de natuurlijke personen;<br>
+3° de Rijksdienst voor Sociale Zekerheid.<br>
+&nbsp;
+
+### ART 2/3.
+
+Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89, lid 1, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, die worden verwerkt in het kader van de opleidingscheques, bewaard tot tien jaar na de verstrekking of weigering van opleidingscheques aan de werknemer.
+
 ### ART 3.
 
 Het toezicht en de controle op de uitvoering van artikel 2 van dit decreet en de uitvoeringsbesluiten ervan verlopen overeenkomstig het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht.

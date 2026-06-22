@@ -2,16 +2,16 @@
   "codex_id": 1031608,
   "title": "Decreet van 2019-03-29 betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het [beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031608/VolledigDocument?datum=2019-09-01",
-  "source_sha256": "2f3f07286ef69cf98f26a66322121f52eaa29b43c20787024d4f4a15d1bd1fd1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031608/VolledigDocument?datum=2026-06-22",
+  "source_sha256": "c5f905ee45b637bd82e707851b7ea1fc7c23e93cd41aac4da279cbc15dd52b2d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031608&param=informatie",
-  "as_of": "2019-09-01",
+  "as_of": "2026-06-22",
   "made": "2019-03-29",
   "gazette": "2019-04-25",
   "numac": 2019011811,
   "document_start": "2019-04-01",
   "document_end": null,
-  "in_force": "2019-09-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2019-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-06-22",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2026-06-22; future article versions excluded; article text as the API gives it"
 }
