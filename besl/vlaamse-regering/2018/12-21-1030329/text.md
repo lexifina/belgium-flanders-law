@@ -458,19 +458,19 @@ In artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende
 
 ### ART 41.
 
-Het departement treedt op als verantwoordelijke voor de verwerking van persoonsgegevens, zoals bedoeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).
+Het departement treedt op als verantwoordelijke voor de verwerking van persoonsgegevens, zoals bedoeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) in het kader van het recht op Vlaams opleidingsverlof en de terugbetaling aan de werkgever.
 
 ### ART 42.
 
-Overeenkomstig artikel 22, 23, 32 en 35, wisselt het departement de nodige DmfA-persoonsgegevens uit met de Rijksdienst voor Sociale Zekerheid. Overeenkomstig artikel 29 wisselt het departement de nodige persoonsgegevens uit met het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.
+...
 
 ### ART 43.
 
-De persoonsgegevens worden beveiligd volgens de dataclassificatie en de richtlijnen van het stuurorgaan Vlaams Informatie- en ICT-beleid, overeenkomstig artikel 3, tweede lid, 3°, van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
+...
 
 ### ART 44.
 
-De persoonsgegevens die overeenkomstig dit besluit verwerkt worden, worden slechts zo lang bewaard als nodig voor de terugbetaling van de werkgever, conform hoofdstuk 5, het bepalen van de nauwgezetheid, conform artikel 27, en in voorkomend geval de vermindering van het opleidingsverlof, vermeld in artikel 28.
+...
 
 ## HOOFDSTUK 9. Slotbepalingen
 
