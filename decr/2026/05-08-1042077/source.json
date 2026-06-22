@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042077,
+  "title": "Decreet van 2026-05-08 tot regeling en wijziging van diverse bepalingen, wat betreft de gegevensverwerking in de beleidsvelden Werk, Competenties en Sociale Economie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042077/VolledigDocument?datum=2026-06-22",
+  "source_sha256": "6711eab6fa56a3a678e17a69be8423d703146cfe48165012902b8e8c373a299b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042077&param=informatie",
+  "as_of": "2026-06-22",
+  "made": "2026-05-08",
+  "gazette": "2026-06-12",
+  "numac": 2026004315,
+  "document_start": "2026-06-22",
+  "document_end": null,
+  "in_force": "2026-06-22",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2026-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
