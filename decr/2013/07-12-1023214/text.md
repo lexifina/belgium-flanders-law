@@ -388,6 +388,51 @@ De administratieve geldboete op grond van inbreuken op dit decreet wordt opgeleg
 
 De rechtsvorderingen die ontstaan uit de toepassing van dit decreet en de uitvoeringsbesluiten ervan, verjaren na verloop van vijf jaar, na het feit waaruit de vordering is ontstaan.
 
+## HOOFDSTUK 9/1. Bepalingen over gegevensverwerking
+
+### ART 49/1.
+
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de aanvraag en de toekenning van de werkondersteunende maatregelen, vermeld in artikel 9 van dit decreet, de organisatieondersteunende maatregelen, vermeld in artikel 19, eerste lid, van dit decreet, en de infrastructuurondersteuning, vermeld in artikel 21, eerste lid, van dit decreet.<br>
+&nbsp;<br>
+VDAB is verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de voormelde verordening, voor de verwerking van de persoonsgegevens in het kader van de indicering, bemiddeling, toeleiding en evaluatie, vermeld in dit decreet.
+
+### ART 49/2.
+
+De volgende categorieën van persoonsgegevens worden verwerkt door de instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst:<br>
+1° &nbsp;van de doelgroepwerknemer:<br>
+a)&nbsp;&nbsp; &nbsp;de identificatiegegevens, waaronder het INSZ-nummer;<br>
+b)&nbsp;&nbsp; &nbsp;de behoefte aan werkondersteunende maatregelen;<br>
+c)&nbsp;&nbsp; &nbsp;de categorie, vermeld in artikel 3, 2°, waartoe de doelgroepwerknemer behoort;<br>
+d)&nbsp;&nbsp; &nbsp;de tewerkstellingsgegevens;<br>
+e)&nbsp;&nbsp; &nbsp;de Dimona- en DmfA-gegevens;<br>
+2° van de begeleider:<br>
+a)&nbsp;&nbsp; &nbsp;de tewerkstellingsgegevens;<br>
+b)&nbsp;&nbsp; &nbsp;de gegevens over de kwalificatievereisten, vermeld in artikel 15, vierde lid;<br>
+c)&nbsp;&nbsp; &nbsp;de DmfA-gegevens.<br>
+<br>
+Om zijn taken in het kader van de indicering, bemiddeling, toeleiding en evaluatie in het kader van dit decreet uit te voeren, verwerkt VDAB:<br>
+1° de persoonsgegevens van de doelgroepwerknemer, vermeld in artikel 4/1 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap “Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding”, die daarvoor noodzakelijk en relevant zijn;<br>
+2° de contactgegevens en de tewerkstellingsgegevens van de doelgroepwerknemer.<br>
+<br>
+De persoonsgegevens, vermeld in het tweede lid, zijn de persoonsgegevens die nodig zijn:<br>
+1°&nbsp;&nbsp; &nbsp;om de behoefte aan werkondersteunende maatregelen vast te stellen en te evalueren;<br>
+2°&nbsp;&nbsp; &nbsp;voor de bemiddeling en toeleiding van de doelgroepwerknemer door VDAB in het kader van dit decreet.<br>
+<br>
+Conform de bepalingen in dit decreet wisselt de instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, de volgende persoonsgegevens uit met de volgende instanties:<br>
+1° &nbsp;met het Rijksregister van de natuurlijke personen: het INSZ-nummer;<br>
+2° met VDAB: de behoefte aan de werkondersteunende maatregelen die VDAB heeft vastgesteld;<br>
+3° met de Rijksdienst voor Sociale Zekerheid: de Dimona-gegevens en de DmfA-gegevens;<br>
+4° met het maatwerkbedrijf in het kader van rapportering: de identificatie-gegevens, het INSZ-nummer, de behoefte aan werkondersteunende maatregelen, de categorie, vermeld in artikel 3, 2°, waartoe de doelgroepwerknemer behoort, en de tewerkstellingsgegevens.<br>
+&nbsp;<br>
+Conform de bepalingen in dit decreet wisselt VDAB de volgende persoonsgegevens van de doelgroepwerknemer uit met de volgende instanties:<br>
+1° &nbsp;met het Rijksregister van de natuurlijke personen: het INSZ-nummer;<br>
+2° met de instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst: de behoefte aan werkondersteunende maatregelen die VDAB heeft vastgesteld;<br>
+3° met de maatwerkbedrijven: de gegevens die noodzakelijk en relevant zijn voor de uitvoering door VDAB en de maatwerkbedrijven van hun taken in het kader van dit decreet.
+
+### ART 49/3.
+
+Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89, lid 1, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, die worden verwerkt door de instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, bewaard tot tien jaar na de laatste betaling of herberekening van de ondersteuning, vermeld in hoofdstuk 4, van dit decreet.
+
 ## HOOFDSTUK 10. Wijzigingsbepalingen
 
 ### ART. 50.
