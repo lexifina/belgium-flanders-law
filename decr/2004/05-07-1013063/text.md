@@ -68,6 +68,21 @@ Voor de gegevensuitwisseling gebruiken de VDAB en de dienstverleners, vermeld in
 1° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
 2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is.
 
+### ART 4/2.
+
+§1. Om de taak als loopbaanregisseur bij de loopbaandienstverlening, vermeld in artikel 5, §1/1, eerste lid, 13°, b), te realiseren, verwerkt VDAB de persoonsgegevens van:<br>
+1° de bestuurders, de zaakvoerders en de eigen personeelsleden van de gemandateerde onderneming, vermeld in artikel 2, 1°, van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding;<br>
+2° de personeelsleden van onderaannemers en de zelfstandige ondernemers die de dienstverlening uitvoeren in opdracht van de gemandateerde onderneming, vermeld in artikel 2, 1°, van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding.<br>
+<br>
+§2. VDAB verwerkt de volgende persoonsgegevens:<br>
+1° de identificatiegegevens;<br>
+2° de contactgegevens;<br>
+3° het studie- en beroepsverleden;<br>
+4° de beroepskwalificaties met de eventuele vermelding van de behaalde titel of titels van beroepsbekwaamheid;<br>
+5° de overige noodzakelijke en relevante gegevens die VDAB in staat stellen om na te gaan of de voorwaarden, vermeld in artikel 5, §1, 5°, en 8°, van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende loopbaanbegeleiding vervuld zijn.<br>
+&nbsp;<br>
+§3. VDAB treedt voor de verwerking van de persoonsgegevens, conform paragraaf 1 en 2, op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
+
 ### ART. 5.
 
 § 1. In dit artikel wordt verstaan onder:<br>
