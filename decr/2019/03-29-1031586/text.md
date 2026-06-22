@@ -133,6 +133,24 @@ De Vlaamse Regering kan de opdrachten van de adviescommissie uitbreiden.<br>
 <br>
 De Vlaamse Regering bepaalt de regels voor de samenstelling en de werking van de adviescommissie.
 
+## HOOFDSTUK 5/1. Bepalingen over gegevensverwerking
+
+### ART 13/1.
+
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) voor de registratie van dienstverleners in het kwaliteits- en registratiemodel voor werk en sociale economie.
+
+### ART 13/2.
+
+De volgende persoonsgegevens van de dienstverlener die een aanvraag tot kwaliteitsregistratie indient, worden verwerkt in het kader van dit decreet:<br>
+1°&nbsp;&nbsp; &nbsp;de identificatiegegevens;<br>
+2°&nbsp;&nbsp; &nbsp;de contactgegevens.<br>
+<br>
+De instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst, wisselt de persoonsgegevens, vermeld in het eerste lid, uit met VDAB.
+
+### ART 13/3.
+
+Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89, lid 1, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, die in het kader van dit decreet worden verwerkt voor de doeleinden van dit decreet, bewaard gedurende een termijn van tien jaar na het aflopen van de kwaliteitsregistratie.
+
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
 ### ART 14.

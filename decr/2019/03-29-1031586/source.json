@@ -2,16 +2,16 @@
   "codex_id": 1031586,
   "title": "Decreet van 2019-03-29 betreffende het kwaliteits- en registratiemodel van dienstverleners in het [beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031586/VolledigDocument?datum=2019-09-02",
-  "source_sha256": "739c099cd674cc6c96a87ce0bfa5003e3b20f3ebcd13bf7c7c4299b9af496288",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031586/VolledigDocument?datum=2026-06-22",
+  "source_sha256": "6ce9ae401870be5a618dba68cd478a25cd68672555b1dd578243cda8c5dfe948",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031586&param=informatie",
-  "as_of": "2019-09-02",
+  "as_of": "2026-06-22",
   "made": "2019-03-29",
   "gazette": "2019-04-23",
   "numac": 2019011877,
   "document_start": "2019-09-02",
   "document_end": null,
-  "in_force": "2019-09-02",
-  "article_versions": 19,
-  "record_form": "consolidated version as in force on 2019-09-02; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-06-22",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2026-06-22; future article versions excluded; article text as the API gives it"
 }
