@@ -326,7 +326,8 @@ De volgende categorieën van persoonsgegevens worden in het kader van de toepass
 14° de financiële en contactgegevens van de gebruiker van dienstencheques;<br>
 15° de financiële en contactgegevens van de onderneming die dienstencheque­ activiteiten uitoefent;<br>
 16° de gegevens met betrekking tot uitgevoerde activiteiten van private arbeidsbemiddeling;<br>
-17° de gegevens met betrekking tot vastgestelde inbreuken.<br>
+17° de gegevens met betrekking tot vastgestelde inbreuken;<br>
+18° de gegevens met betrekking tot onderwijs.<br>
 &nbsp;
 
 ### ART 8/4.
@@ -345,7 +346,8 @@ In het kader van de toepassing van artikel 8/1, 8/2 en 8/3 wisselt de Vlaamse So
 10° de gegevens met betrekking tot sociale verzekering van de buitenlandse zelfstandige met het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen;<br>
 11° de gegevens met betrekking tot de uitgevoerde buurtwerken of -diensten en de aangekochte en terugbetaalde dienstencheques met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
 12° de financiële en contactgegevens van de gebruiker van dienstencheques met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
-13° de financiële en contactgegevens van de onderneming die dienstenchequeactiviteiten uitoefent met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen.<br>
+13° de financiële en contactgegevens van de onderneming die dienstenchequeactiviteiten uitoefent met het uitgiftebedrijf, vermeld in artikel 2, §1, 2°, van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen;<br>
+14° de gegevens met betrekking tot onderwijs met het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.<br>
 <br>
 De persoonsgegevens, vermeld in het eerste lid, worden uitgewisseld met tussenkomst van de bevoegde dienstenintegrator als dat van toepassing is.<br>
 <br>
