@@ -2,16 +2,16 @@
   "codex_id": 1019841,
   "title": "Decreet van 2010-12-10 betreffende de private arbeidsbemiddeling",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019841/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "fce003499996b5718e55a99a9a0c884d5450e58fc4684de910dfa689009e8544",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019841/VolledigDocument?datum=2026-06-22",
+  "source_sha256": "e8fda0e6a305c4f4790f8efa7938e1d6a7f6ac857e07e3d589d0a8c973454c37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019841&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2026-06-22",
   "made": "2010-12-10",
   "gazette": "2010-12-29",
   "numac": 2010035988,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2024-01-01",
-  "article_versions": 51,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-06-22",
+  "article_versions": 55,
+  "record_form": "consolidated version as in force on 2026-06-22; future article versions excluded; article text as the API gives it"
 }

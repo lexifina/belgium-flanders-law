@@ -355,6 +355,34 @@ Inbreuken op de bepalingen van dit decreet en zijn uitvoeringsbesluiten verjaren
 
 De administratieve geldboete uit hoofde van inbreuken op dit decreet wordt opgelegd overeenkomstig de bepalingen van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn.<br /><br />
 
+## HOOFDSTUK 5/1 Bepalingen over gegevensverwerking
+
+### ART 28/1.
+
+De administratie treedt op als verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), voor de verwerking van persoonsgegevens, vermeld in artikel 28/2, voor de erkenning als uitzendbureau en de registratie als sportmakelaar.
+
+### ART 28/2.
+
+De volgende persoonsgegevens worden verwerkt in het kader van dit decreet:<br>
+1° de identificatie- en contactgegevens;<br>
+2° de financiële en fiscale gegevens;<br>
+3° de strafrechtelijke gegevens, vermeld in artikel 14, eerste lid, 2°, en artikel 20/8, eerste lid, 2°;<br>
+4° de gegevens over de transacties waarbij sportmakelaars zijn betrokken en die worden geregistreerd bij de sportorganisaties, die gevestigd zijn op het Belgische grondgebied en die een licentie als sportmakelaar uitreiken of waar-bij een sportmakelaar zich kan laten registreren;<br>
+5° de gegevens over de sancties die aan sportmakelaars worden opgelegd door de sportorganisaties, vermeld in punt 4°.
+
+### ART 28/3.
+
+In het kader van de taken, vermeld in dit decreet, wisselt de verwerkingsverantwoordelijke, vermeld in artikel 28/1 van dit decreet, de volgende persoonsgegevens uit met de volgende instanties:<br>
+1° de gegevens, vermeld in artikel 28/2, 1° en 2°, met de Rijksdienst voor Sociale Zekerheid;<br>
+2° de gegevens, vermeld in artikel 28/2, 1° en 2°, met het Sociaal Fonds voor de Uitzendkrachten;<br>
+3° de gegevens, vermeld in artikel 28/2, 1°, 2° en 3°, met de adviescommissie;<br>
+4° de gegevens, vermeld in artikel 28/2, 1°, 4° en 5°, met de sportfederaties die gevestigd zijn op het Belgische grondgebied en die een licentie als sportmakelaar uitreiken of waarbij een sportmakelaar zich kan laten registreren.<br>
+&nbsp;
+
+### ART 28/4.
+
+Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de latere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89, lid 1, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, die in het kader van dit decreet worden verwerkt voor de erkenning als uitzendbureau en de registratie als sportmakelaar, vermeld in artikel 28/1, bewaard gedurende een termijn van tien jaar na de intrekking of schrapping van de erkenning als uitzendbureau en de registratie als sportmakelaar.
+
 ## HOOFDSTUK 6 Wijzigingsbepalingen
 
 ### ART. 29.
