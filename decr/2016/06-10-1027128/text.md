@@ -244,25 +244,25 @@ c) een mentoropleiding moet volgen behalve als hij daarvan wordt vrijgesteld;</s
 
 ### ART 10.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst van alternerende opleiding moet de volgende vermeldingen en bepalingen omvatten:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de datum van de inwerkingtreding, de einddatum en het voorwerp van de overeenkomst;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de naam van de onderneming en van de persoon die de onderneming vertegenwoordigt;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de naam van de mentor in de onderneming;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° de identiteit van de leerling;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° de naam van de opleidingsverstrekker waar de leerling de lessen volgt en van de trajectbegeleider van de opleidingsverstrekker;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° het bedrag van de leervergoeding, vermeld in artikel 17, § 1, eerste lid;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° het uurrooster, waarin enerzijds de tijdstippen worden vermeld waarop de leerling de opleiding volgt in de onderneming, en anderzijds de tijdstippen waarop de leerling de lessen en de activiteiten die gelijkgesteld zijn met lessen, volgt bij de opleidingsverstrekker;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° de plaats van de uitvoering van de opleiding op de werkplek;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° de verwijzing naar alle wettelijke, reglementerende en conventionele bepalingen, inzonderheid met betrekking tot voorzieningen van sociale zekerheid, arbeidswetgeving, welzijnswetgeving en verzekeringen, die van toepassing zijn op de onderneming;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° de beperkte aansprakelijkheid van de leerling bij schade ten aanzien van de onderneming of derden.</span><br>
+De overeenkomst van alternerende opleiding moet de volgende vermeldingen en bepalingen omvatten:<br>
+1° de datum van de inwerkingtreding, de einddatum en het voorwerp van de overeenkomst;<br>
+2° de naam van de onderneming en van de persoon die de onderneming vertegenwoordigt;<br>
+3° de naam van de mentor in de onderneming;<br>
+4° de voornaam, de achternaam, het rijksregisternummer, het adres, de nationaliteit van de leerling en, in voorkomend geval, de voor- en achternaam van de wettelijke vertegenwoordiger van de leerling;<br>
+5° de naam van de opleidingsverstrekker waar de leerling de lessen volgt en van de trajectbegeleider van de opleidingsverstrekker;<br>
+6° het bedrag van de leervergoeding, vermeld in artikel 17, § 1, eerste lid;<br>
+7° het uurrooster, waarin enerzijds de tijdstippen worden vermeld waarop de leerling de opleiding volgt in de onderneming, en anderzijds de tijdstippen waarop de leerling de lessen en de activiteiten die gelijkgesteld zijn met lessen, volgt bij de opleidingsverstrekker;<br>
+8° de plaats van de uitvoering van de opleiding op de werkplek;<br>
+9° de verwijzing naar alle wettelijke, reglementerende en conventionele bepalingen, inzonderheid met betrekking tot voorzieningen van sociale zekerheid, arbeidswetgeving, welzijnswetgeving en verzekeringen, die van toepassing zijn op de onderneming;<br>
+10° de beperkte aansprakelijkheid van de leerling bij schade ten aanzien van de onderneming of derden.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Maken integraal deel uit van de overeenkomst van alternerende opleiding:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° het opleidingsplan opgesteld door de opleidingsverstrekker in overleg met de onderneming;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de rechten en plichten van de leerling, de onderneming en de opleidingsverstrekker;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de integrale tekst van de artikelen van dit decreet met betrekking tot de schorsing en de beëindiging van de overeenkomst van alternerende opleiding;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° het arbeidsreglement.</span><br>
+Maken integraal deel uit van de overeenkomst van alternerende opleiding:<br>
+1° het opleidingsplan opgesteld door de opleidingsverstrekker in overleg met de onderneming;<br>
+2° de rechten en plichten van de leerling, de onderneming en de opleidingsverstrekker;<br>
+3° de integrale tekst van de artikelen van dit decreet met betrekking tot de schorsing en de beëindiging van de overeenkomst van alternerende opleiding;<br>
+4° het arbeidsreglement.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst mag geen bedingen bevatten die de rechten van de leerling beperken of zijn verplichtingen verzwaren.</span><br>
+De overeenkomst mag geen bedingen bevatten die de rechten van de leerling beperken of zijn verplichtingen verzwaren.<br>
 &nbsp;
 
 ## Afdeling 2 Verbintenissen, rechten en plichten van de partijen
@@ -491,6 +491,30 @@ De stageovereenkomst alternerende opleiding wordt gesloten voor minstens 28 uur 
 &nbsp;
 
 ## HOOFDSTUK 5bis Bepalingen over gegevensverwerking
+
+## HOOFDSTUK 5bis Bepalingen over gegevensverwerking
+
+### ART 30bis.
+
+De verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), is:<br>
+1° de instantie of dienst van de Vlaamse administratie die de Vlaamse Regering aanwijst voor de verwerking van persoonsgegevens in het kader van de datakoppeling tussen inschrijvingen en overeenkomsten, het waarborgen van de kwantiteit van de werkplekken en de monitoring en evaluatie van duale opleidingen;<br>
+2° het Vlaams Partnerschap Duaal Leren voor de verwerking van persoonsgegevens, conform artikel 13, 7° en 8°;&nbsp;<br>
+3° de onderneming voor de verwerking van persoonsgegevens in het kader van het sluiten en de uitvoering van de overeenkomst, vermeld in artikel 3, en de verplichtingen, vermeld in artikel 11;<br>
+4° de opleidingsverstrekker voor de verwerking van persoonsgegevens in het kader van het sluiten en de uitvoering van de overeenkomst, vermeld in artikel 3, en de verplichtingen, vermeld in artikel 13.
+
+### ART 30ter.
+
+De volgende persoonsgegevens worden verwerkt in het kader van dit decreet:<br>
+1°&nbsp;&nbsp; &nbsp;de gegevens, vermeld in artikel 7, §1, eerste lid, 1°;<br>
+2°&nbsp;&nbsp; &nbsp;de gegevens, vermeld in artikel 10;<br>
+3°&nbsp;&nbsp; &nbsp;de gegevens over de opleiding, de inschrijving en de evaluatie van de leerling;<br>
+4°&nbsp;&nbsp; &nbsp;de identificatiegegevens van de mentor.<br>
+<br>
+Het Agentschap voor Onderwijsdiensten wisselt de gegevens, vermeld in het eerste lid, 3°, uit met het Departement Werk en Sociale Economie.
+
+### ART 30quater.
+
+Onder voorbehoud van de noodzakelijke bewaring van de persoonsgegevens voor de verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden, vermeld in artikel 89 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), worden de persoonsgegevens, vermeld in artikel 30ter, die in het kader van dit decreet worden verwerkt voor de doeleinden, vermeld in artikel 30bis, bewaard gedurende een termijn van vijf jaar na de beëindiging van de overeenkomst, vermeld in artikel 3.
 
 ## HOOFDSTUK 6 Wijzigingsbepalingen
 
