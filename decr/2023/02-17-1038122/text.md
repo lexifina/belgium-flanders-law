@@ -107,7 +107,8 @@ De dienst die de Vlaamse Regering aanwijst, treedt op als de verwerkingsverantwo
 In het kader van dit decreet worden de volgende persoonsgegevens van de sectorconsulent, vermeld in artikel 9, verwerkt:<br>
 1° het INSZ-nummer;<br>
 2° de naam;<br>
-3° de DmfA-gegevens.<br>
+3° de DmfA-gegevens;<br>
+4° de datum van overlijden.<br>
 <br>
 In dit artikel wordt verstaan onder DmfA-gegevens: de loon- en arbeidstijdgegevens van de werknemer die bij een werkgever tewerkgesteld is gedurende een bepaald kwartaal.
 
