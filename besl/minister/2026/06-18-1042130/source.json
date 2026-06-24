@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042130,
+  "title": "Ministerieel besluit van 2026-06-18 betreffende de ontbinding en vereffening van de vzw ESF-Agentschap Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042130/VolledigDocument?datum=2026-06-24",
+  "source_sha256": "ac8ed14906022d79f1b75a6feaafe3902b1b381f1cf1739910fd91829ba7450f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042130&param=informatie",
+  "as_of": "2026-06-24",
+  "made": "2026-06-18",
+  "gazette": "2026-06-24",
+  "numac": 2026004730,
+  "document_start": "2026-06-24",
+  "document_end": null,
+  "in_force": "2026-06-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
