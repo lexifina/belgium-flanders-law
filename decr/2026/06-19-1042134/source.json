@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042134,
+  "title": "Decreet van 2026-06-19 tot wijziging van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, wat betreft de omzetting van richtlijn (EU) 2023/2226 van de Raad van 17 oktober 2023 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042134/VolledigDocument?datum=2026-06-25",
+  "source_sha256": "9145ebb6907a405b255f43e1e5ae8e46d08f0c33520c4ec7a3fd946a5dae440e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042134&param=informatie",
+  "as_of": "2026-06-25",
+  "made": "2026-06-19",
+  "gazette": "2026-06-25",
+  "numac": 2026004788,
+  "document_start": "2026-06-25",
+  "document_end": null,
+  "in_force": "2026-06-25",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2026-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
