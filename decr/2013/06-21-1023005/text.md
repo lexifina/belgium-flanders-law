@@ -10,7 +10,9 @@ Dit decreet regelt een gemeenschaps- en een   gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG, in de omzetting van richtlijn 2014/107/EU van de Raad van 9 december 2014 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2015/2376 van de Raad van 8 december 2015 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies en in de omzetting van richt- lijn (EU) 2021/514 van de Raad van 22 maart 2021 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen.
+Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG, in de omzetting van richtlijn 2014/107/EU van de Raad van 9 december 2014 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2015/2376 van de Raad van 8 december 2015 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied, in de omzetting van richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies, in de omzetting van richtlijn (EU) 2021/514 van de Raad van 22 maart 2021 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen en in de omzetting van richtlijn (EU) 2023/2226 van de Raad van<br>
+17 oktober 2023 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen<br>
+.
 
 ### ART. 3.
 
@@ -57,7 +59,7 @@ d) een andere juridische constructie, ongeacht de aard of de vorm, met of zonder
 a) ze zijn afgegeven, gewijzigd of hernieuwd door of namens de regering of een bevoegd personeelslid of de belastingautoriteit van een lidstaat, of een territoriaal of staatkundig onderdeel van die lidstaat, met inbegrip van de lokale overheden, ongeacht of er effectief gebruik van wordt gemaakt;<br>
 b) ze zijn afgegeven, gewijzigd of hernieuwd ten aanzien van een welbepaalde persoon of groep van personen, en die personen kunnen zich erop beroepen;<br>
 c) ze hebben betrekking op de interpretatie of toepassing van een wettelijke of bestuursrechtelijke bepaling ter toepassing of handhaving van de belastingwetgeving voor de belastingen, vermeld in artikel 4, eerste lid, 1° ;<br>
-d) ze hebben betrekking op een grensoverschrijdende transactie of op de vraag of er op grond van de activiteiten van een persoon in een lidstaat al dan niet sprake is van een vaste inrichting;<br>
+d) ze hebben betrekking op een grensoverschrijdende transactie of op de vraag of er op grond van de activiteiten van een persoon in een lidstaat al dan niet sprake is van een vaste inrichting, dan wel of een natuurlijke persoon al dan niet fiscaal ingezetene is van de lidstaat die de ruling afgeeft;<br>
 e) ze zijn tot stand gekomen voorafgaand aan de transacties of activiteiten in een lidstaat op grond waarvan mogelijk sprake is van een vaste inrichting, of voorafgaand aan de indiening van een belastingaangifte voor het tijdvak waarin de transactie of reeks transacties dan wel de activiteiten hebben plaatsgevonden;<br>
 16° grensoverschrijdende transactie: een transactie of een reeks van transacties die betrekking kan hebben op, maar niet beperkt is tot het doen van investeringen, het leveren van goederen, het verrichten van diensten, het financieren of het gebruiken van materiële of immateriële activa, waarbij de persoon die de voorafgaande grensoverschrijdende ruling heeft gekregen, niet rechtstreeks betrokken hoeft te zijn, en die voldoet aan een of meer van de volgende voorwaarden:<br>
 a) niet alle partijen bij de transactie of reeks van transacties hebben hun fiscale woonplaats in de lidstaat die de voorafgaande grensoverschrijdende ruling afgeeft, wijzigt of hernieuwt;<br>
@@ -90,7 +92,10 @@ d) een persoon heeft recht op 25% of meer van de winsten van een andere persoon;
 25° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 26° gezamenlijke audit: een administratief onderzoek dat gezamenlijk door de bevoegde autoriteiten van twee of meer lidstaten wordt uitgevoerd, en verband houdt met een of meer personen van gezamenlijk of complementair belang voor de bevoegde autoriteiten van die lidstaten;<br>
 27° gegevensinbreuk: een inbreuk op de beveiliging die leidt tot vernietiging, verlies, wijziging of elk voorval van ongepaste of ongeoorloofde inzage, openbaarmaking of gebruik van inlichtingen, met inbegrip van, maar niet beperkt tot, persoonsgegevens die worden doorgegeven, opgeslagen of anderszins verwerkt, als gevolg van opzettelijke onwettige handelingen, nalatigheid of ongevallen. Een gegevensinbreuk kan betrekking hebben op de vertrouwelijkheid, de beschikbaarheid en de integriteit van gegevens;<br>
-28° CCN-netwerk: het op het gemeenschappelijke communicatienetwerk gebaseerde gemeenschappelijke platform dat de Unie heeft ontwikkeld voor het elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het gebied van douane en belastingen.<br>
+28° CCN-netwerk: het op het gemeenschappelijke communicatienetwerk gebaseerde gemeenschappelijke platform dat de Unie heeft ontwikkeld voor het elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het gebied van douane en belastingen;<br>
+29° inkomsten uit dividenden zonder bewaarneming: dividenden of andere inkomsten die in de lidstaat van de betaler als dividenden worden behandeld en die worden betaald of bijgeschreven op een andere rekening dan een bewaarrekening als gedefinieerd in bijlage I, C, 3, van de wet van 16 december 2015 tot regeling van de mededeling van inlichtingen betreffende financiële rekeningen, door de Belgische financiële instellingen en de FOD Financiën, in het kader van een automatische uitwisseling van inlichtingen op internationaal niveau en voor belastingdoeleinden;<br>
+30° levensverzekeringsproducten die niet onder andere rechtsinstrumenten van de Unie inzake inlichtingenuitwisseling en andere soortgelijke maatregelen vallen: verzekeringscontracten, met uitzondering van kapitaalverzekeringen die op grond van bijlage I, deel I, van de wet van 16 december 2015 tot regeling van de mededeling van inlichtingen betreffende financiële rekeningen, door de Belgische financiële instellingen en de FOD Financiën, in het kader van een automatische uitwisseling van inlichtingen op internationaal niveau en voor belastingdoeleinden moeten worden gerapporteerd, waarbij uitkeringen uit hoofde van de overeenkomsten verschuldigd zijn bij het overlijden van een polishouder;<br>
+31° cliënt: voor de toepassing van artikel 11/2 tot en met 11/11, elke intermediair of relevante belastingplichtige die diensten, met inbegrip van bijstand, advies, raad of begeleiding, ontvangt van een tot het juridisch beroepsgeheim gehouden intermediair met betrekking tot een meldingsplichtige grensoverschrijdende constructie.<br>
 <br>
 Als meer dan één persoon deelneemt op de wijze, vermeld in het eerste lid, 22°, a) tot en met d), aan de leiding van, aan zeggenschap over of in het kapitaal of de winsten van dezelfde persoon, worden alle betrokken personen als verbonden ondernemingen beschouwd.<br>
 <br>
@@ -243,13 +248,14 @@ Als een verzoek als vermeld in artikel 8, eerste lid, en artikel 9, eerste lid, 
 
 ### ART. 11.
 
-<p>De bevoegde autoriteit verstrekt alle buitenlandse autoriteiten automatisch alle inlichtingen waarover ze ten aanzien van de ingezetenen van die andere lidstaat beschikt inzake de volgende specifieke inkomsten- en vermogenscategorieën, op te vatten in de zin van de Belgische wetgeving:<br>
-1° inkomen uit een dienstbetrekking;<br>
+<p>De bevoegde autoriteit verstrekt aan alle buitenlandse autoriteiten automatisch alle inlichtingen waarover ze ten aanzien van de ingezetenen van die andere lidstaat beschikt over de volgende specifieke inkomsten- en vermogenscategorieën, op te vatten in de zin van de Belgische wetgeving:<br>
+1° inkomsten uit een arbeid;<br>
 2° tantièmes en presentiegelden;<br>
-3° levensverzekeringsproducten die niet vallen onder andere uniale rechtsinstrumenten inzake de uitwisseling van inlichtingen noch onder soortgelijke voorschriften;<br>
+3° inkomsten uit levensverzekeringsproducten die niet vallen onder andere rechtsinstrumenten van de Unie inzake inlichtingenuitwisseling, noch onder soortgelijke voorschriften;<br>
 4° pensioenen;<br>
-5° eigendom en inkomen van onroerende goederen;<br>
-6° royalty’s.<br>
+5° eigendom en inkomsten van onroerende goederen;<br>
+6° royalty’s;<br>
+7° inkomsten uit dividenden zonder bewaarneming, met uitzondering van inkomsten uit dividenden die zijn vrijgesteld van vennootschapsbelasting overeenkomstig artikel 4, 5 of 6 van richtlijn 2011/96/EU van de Raad van 30 november 2011 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende lidstaten.<br>
 <br>
 Voor belastingtijdvakken die ingaan op of na 1 januari 2024, streeft de bevoegde autoriteit ernaar het door de lidstaat van verblijf afgegeven fiscaal identificatienummer van ingezetenen op te nemen in de verstrekking van de inlichtingen, vermeld in het eerste lid.<br>
 <br>
@@ -270,14 +276,20 @@ In afwijking van het eerste tot en met het derde lid is de bevoegde autoriteit n
 2° hij is gericht tot een bepaalde persoon of groep van personen, met een jaarlijkse netto-omzet als vermeld in artikel 2, punt 5, van richtlijn 2013/34/EU van het Europees Parlement en de Raad, van minder dan 40.000.000 euro in het boekjaar dat voorafgaat aan de datum waarop de grensoverschrijdende ruling is afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
 3° hij is niet gericht tot een bepaalde persoon of groep personen die hoofdzakelijk financiële of investeringsactiviteiten verricht.<br>
 <br>
-§ 3. Paragraaf 1 en 2 zijn niet van toepassing als een voorafgaande grensoverschrijdende ruling uitsluitend betrekking heeft op de belastingzaken van een of meer natuurlijke personen.<br>
+§3. Paragraaf 1 en 2 zijn niet van toepassing op de gevallen waarin een voorafgaande grensoverschrijdende ruling uitsluitend betrekking heeft op belastingaangelegenheden van een of meer natuurlijke personen, tenzij een dergelijke voorafgaande grensoverschrijdende ruling na 1 januari 2026 is afgegeven, gewijzigd of hernieuwd, en waarbij:<br>
+1° ofwel het bedrag van de transactie of reeks transacties van de voorafgaande grensoverschrijdende ruling groter is dan 1.500.000 euro, of het equivalent daarvan in een andere valuta, als het bedrag wordt vermeld in de voorafgaande grensoverschrijdende ruling;<br>
+2° ofwel de voorafgaande grensoverschrijdende ruling bepaalt of een persoon al dan niet fiscaal ingezetene is van de lidstaat die de ruling afgeeft.<br>
+<br>
+Voor de toepassing van het eerste lid, 1°, en onverminderd het in de voorafgaande grensoverschrijdende ruling bedoelde bedrag, omvat het bedrag van de voorafgaande grensoverschrijdende ruling bij een reeks transacties met betrekking tot verschillende goederen, diensten of activa, de totale onderliggende waarde. De bedragen worden niet geaggregeerd als dezelfde goederen, diensten of activa meerdere malen worden verhandeld.<br>
+<br>
+In afwijking van het bepaalde in het eerste lid, 2°, vallen voorafgaande grensoverschrijdende rulings over bronbelasting op inkomsten uit arbeid, tantièmes en presentiegelden of pensioenen van niet-ingezetenen niet onder de uitwisseling van inlichtingen over voorafgaande grensoverschrijdende rulings met betrekking tot natuurlijke personen.<br>
 <br>
 § 4. De inlichtingen, vermeld in paragraaf 1 en 2, worden door de bevoegde autoriteit verstrekt binnen de volgende termijnen:<br>
 1° voor de inlichtingen die conform paragraaf 1 zijn uitgewisseld:&nbsp;onverwijld zodra de voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd en uiterlijk binnen drie maanden na het einde van het eerste halfjaar van het kalenderjaar waarin de voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
 2° voor de inlichtingen die conform paragraaf 2 zijn uitgewisseld: vóór 1 januari 2018.<br>
 <br>
 § 5. De inlichtingen die conform paragraaf 1 en 2 door de bevoegde autoriteit worden verstrekt, omvatten onder meer de volgende gegevens:<br>
-1° de identificatiegegevens van de andere persoon dan een natuurlijke persoon en, in voorkomend geval, van de groep personen waartoe die persoon behoort;<br>
+1° de identificatie van de andere persoon dan een natuurlijke persoon, tenzij de voorafgaande grensoverschrijdende ruling betrekking heeft op een natuurlijk persoon en overeenkomstig paragraaf 1 en 3 wordt verstrekt, en in voorkomend geval, van de groep personen waartoe die persoon behoort;<br>
 2° een samenvatting van de voorafgaande grensoverschrijdende ruling, met onder meer een omschrijving van de relevante zakelijke activiteiten of transacties of reeks van transacties, alsook alle andere inlichtingen die voor de bevoegde autoriteit nuttig kunnen zijn bij de evaluatie van een mogelijk belastingrisico, die niet mag leiden tot de openbaarmaking van een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze, of van inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde;<br>
 3° de data waarop de voorafgaande grensoverschrijdende ruling is afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
 4° de aanvangsdatum van de geldigheidsperiode van de voorafgaande grensoverschrijdende ruling, als die vermeld is;<br>
@@ -285,7 +297,7 @@ In afwijking van het eerste tot en met het derde lid is de bevoegde autoriteit n
 6° het type voorafgaande grensoverschrijdende ruling;<br>
 7° het bedrag van de transactie of reeks van transacties van de voorafgaande grensoverschrijdende ruling, als die vermeld is in de voorafgaande grensoverschrijdende ruling;<br>
 8° de andere lidstaten, als die er zijn, waarop de voorafgaande grensoverschrijdende ruling naar alle waarschijnlijkheid van invloed zal zijn;<br>
-9° andere personen dan natuurlijke personen in de andere lidstaten, als die er zijn, op wie de voorafgaande grensoverschrijdende ruling naar alle waarschijnlijkheid van invloed zal zijn, waarbij vermeld wordt met welke lidstaten de personen in kwestie verbonden zijn;<br>
+9° andere personen dan natuurlijke personen, tenzij de voorafgaande grensoverschrijdende ruling betrekking heeft op een natuurlijk persoon en overeenkomstig paragraaf 1 en 3 wordt verstrekt, in de andere lidstaten, als die er zijn, op wie de voorafgaande grensoverschrijdende ruling naar alle waarschijnlijkheid van invloed zal zijn, waarbij vermeld wordt met welke lidstaten de personen in kwestie verbonden zijn;<br>
 10° de vermelding of de meegedeelde inlichtingen gebaseerd zijn op de voorafgaande grensoverschrijdende ruling.<br>
 <br>
 § 6. De inlichtingen, vermeld in paragraaf 5, 1°, 2° en 9°, worden niet meegedeeld aan de Europese Commissie.<br>
@@ -299,9 +311,9 @@ In afwijking van het eerste tot en met het derde lid is de bevoegde autoriteit n
 § 1. De bevoegde autoriteit waaraan de inlichtingen conform artikel 11/3 tot en met 11/11 zijn verstrekt, deelt de gegevens, vermeld in paragraaf 2, via automatische uitwisseling mee aan de buitenlandse autoriteiten van alle andere lidstaten conform de regels, vermeld in artikel 28.<br>
 <br>
 § 2. De gegevens die de bevoegde autoriteit meedeelt, vermeld in paragraaf 1, zijn, als ze van toepassing zijn:<br>
-1° de identificatiegegevens van intermediairs, van relevante belastingplichtigen en, in voorkomend geval, van de personen die een verbonden onderneming vormen met de relevante belastingplichtige, met inbegrip van hun naam, geboortedatum en -plaats bij een natuurlijk persoon, fiscale woonplaats en fiscaal identificatienummer;<br>
+1° de identificatiegegevens van intermediairs, met uitzondering van intermediairs die op grond van het juridisch beroepsgeheim van de meldingsplicht vrijgesteld zijn overeenkomstig artikel 11/6, van relevante belastingplichtigen en, in voorkomend geval, van de personen die een verbonden onderneming vormen met de relevante belastingplichtige, met inbegrip van hun naam, geboortedatum en -plaats bij een natuurlijk persoon, fiscale woonplaats en fiscaal identificatienummer;<br>
 2° nadere bijzonderheden over de wezenskenmerken, vermeld in artikel 5/1, op grond waarvan de grensoverschrijdende constructie gemeld moet worden;<br>
-3° een samenvatting van de inhoud van de meldingsplichtige grensoverschrijdende constructie, met onder meer de benaming waaronder ze algemeen bekend staat, als die beschikbaar is, en een omschrijving van de relevante zakelijke activiteiten of constructies, in algemene bewoordingen, die niet mag leiden tot de openbaarmaking van een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze, of van inlichtingen waarvan de onthulling in strijd met de openbare orde is;<br>
+3° een samenvatting van de inhoud van de meldingsplichtige grensoverschrijdende constructie, met onder meer de benaming waaronder ze algemeen bekend staat, als die beschikbaar is, en een beschrijving van de relevante constructies en alle andere inlichtingen die voor de buitenlandse autoriteit van belang kunnen zijn bij het beoordelen van een mogelijk belastingrisico, waarbij die beschrijving niet mag leiden tot de openbaarmaking van een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze, of van inlichtingen waarvan de onthulling in strijd is met de openbare orde;<br>
 4° de datum waarop de eerste stap voor de implementatie van de meldingsplichtige grensoverschrijdende constructie is of zal worden ondernomen;<br>
 5° nadere bijzonderheden van de interne regelgeving die aan de meldingsplichtige grensoverschrijdende constructie ten grondslag liggen;<br>
 6° de waarde van de meldingsplichtige grensoverschrijdende constructie;<br>
@@ -345,17 +357,17 @@ Als er overeenkomstig het eerste lid een meervoudige meldingsplicht bestaat, wor
 
 ### ART 11/6.
 
-§ 1. Wanneer een intermediair gebonden is door een beroepsgeheim, is hij gehouden:<br>
-1° de andere intermediair of intermediairs schriftelijk en gemotiveerd op de hoogte te brengen dat hij niet aan de meldingsplicht kan voldoen, waardoor deze meldingsplicht automatisch rust op de andere intermediair of intermediairs;<br>
-2° bij gebreke aan een andere intermediair, de relevante belastingplichtige of belastingplichtigen schriftelijk en gemotiveerd op de hoogte te brengen van zijn of hun meldingsplicht.<br>
+§1. Als een intermediair die advocaat is, gebonden is door een beroepsgeheim, is hij ertoe gehouden:<br>
+1° &nbsp;zijn cliënt, als die een intermediair is, schriftelijk en gemotiveerd ervan op de hoogte te brengen dat hij als advocaat niet aan de meldingsplicht kan voldoen, waardoor die meldingsplicht automatisch op zijn cliënt rust;<br>
+2° bij gebrek aan een intermediair als vermeld in punt 1° zijn cliënt die relevante belastingplichtige is of cliënten die relevante belastingplichtigen zijn, schriftelijk en gemotiveerd op de hoogte te brengen van zijn of hun meldingsplicht.<br>
 <br>
-De ontheffing van de meldingsplicht krijgt slechts uitwerking op het tijdstip dat een intermediair voldaan heeft aan de in het eerste lid bedoelde verplichting.<br>
+De ontheffing van de meldingsplicht krijgt pas uitwerking op het tijdstip dat een intermediair voldaan heeft aan de verplichting, vermeld in het eerste lid.<br>
 <br>
-§ 2. De relevante belastingplichtige kan de intermediair door schriftelijke instemming toelaten alsnog te voldoen aan de in artikel 11/3 bedoelde meldingsplicht.<br>
+§2. De relevante belastingplichtige kan de intermediair door schriftelijke instemming toelaten alsnog te voldoen aan de in artikel 11/3 bedoelde meldingsplicht.<br>
 <br>
 Als de relevante belastingplichtige geen instemming verleent, blijft de meldingsplicht bij de belastingplichtige en bezorgt de intermediair de nodige gegevens voor het vervullen van de in artikel 11/3 bedoelde meldingsplicht aan de relevante belastingplichtige.<br>
 <br>
-§ 3. Geen beroepsgeheim overeenkomstig de eerste paragraaf kan worden ingeroepen aangaande de meldingsplicht van marktklare constructies die aanleiding geven tot een periodiek verslag overeenkomstig artikel 11/4.
+§3. Geen beroepsgeheim overeenkomstig de eerste paragraaf kan worden ingeroepen aangaande de initiële melding van een marktklare constructie.
 
 ### ART 11/7.
 
@@ -509,7 +521,7 @@ De bevoegde autoriteit die met toepassing van artikel 9 en 12 inlichtingen   hee
 <p>§ 1. De inlichtingen waarover de bevoegde autoriteit uit hoofde van dit decreet beschikt, vallen onder de geheimhoudingsplicht en genieten de bescherming waarin artikel 3.19.0.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013 voorziet met betrekking tot soortgelijke inlichtingen.<br>
 <br>
 § 2. Deze inlichtingen kunnen worden gebruikt :<br>
-1° voor de beoordeling, toepassing en handhaving van de Belgische wetgeving met betrekking tot de belastingen, vermeld in artikel 2 van richtlijn 2011/16/EU, alsook met betrekking tot de belasting over de toegevoegde waarde en andere indirecte belastingen;<br>
+1° voor de vaststelling, toepassing en handhaving van de Belgische wetgeving met betrekking tot de belastingen, vermeld in artikel 2 van richtlijn 2011/16/EU, en de belasting over de toegevoegde waarde, andere indirecte belastingen, douanerechten, de bestrijding van het witwassen van geld en van de financiering van terrorisme;<br>
 2° voor de vaststelling en invordering van andere belastingen en rechten vallend onder artikel 4 van het decreet van 21 december 2012 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen;<br>
 3° in mogelijk tot bestraffing leidende gerechtelijke en administratieve procedures wegens overtreding van de belastingwetgeving, met behoud van de toepassing van de algemene regels en de bepalingen betreffende de rechten van de verdachten en getuigen in dergelijke procedures.<br>
 <br>
@@ -517,15 +529,21 @@ Met toestemming van de buitenlandse autoriteit die de inlichtingen overeenkomsti
 <br>
 De bevoegde autoriteit kan aan de buitenlandse autoriteiten een lijst meedelen van andere dan de in het eerste lid vermelde doeleinden waarvoor overeenkomstig de Belgische wetgeving de inlichtingen en bescheiden kunnen worden gebruikt. De bevoegde autoriteit kan de ontvangen inlichtingen en bescheiden zonder de toestemming, vermeld in het tweede lid, gebruiken voor alle doeleinden die de inlichtingen verstrekkende lidstaat op een lijst heeft meegedeeld.<br>
 <br>
+De bevoegde autoriteit die inlichtingen en documenten ontvangt, kan de ontvangen inlichtingen en documenten zonder de in het tweede lid bedoelde toestemming ook gebruiken voor elk doel dat onder een op artikel 215 van het Verdrag betreffende de werking van de Europese Unie gebaseerde handeling valt en die daartoe delen met de buitenlandse autoriteit die verantwoordelijk is voor beperkende maatregelen in de betrokken lidstaat.<br>
+<br>
 In afwijking van het tweede lid vraagt de bevoegde autoriteit toestemming aan de bevoegde buitenlandse autoriteit van de lidstaat waarvan de inlichtingen initieel afkomstig zijn, indien een buitenlandse autoriteit de inlichtingen die ze van de buitenlandse autoriteit van een andere lidstaat verkreeg, heeft doorgegeven aan de bevoegde autoriteit en de bevoegde autoriteit die doorgegeven inlichtingen wil gebruiken voor andere doeleinden dan de doeleinden, vermeld in het eerste lid.<br>
 <br>
-§ 3. Wanneer de bevoegde autoriteit van oordeel is dat de van een buitenlandse autoriteit verkregen inlichtingen de buitenlandse autoriteit van een derde lidstaat van nut kunnen zijn voor de doeleinden, vermeld in paragraaf 2, eerste lid, dan stelt hij de autoriteit van de inlichtingenverstrekkende lidstaat in kennis van zijn voornemen om die inlichtingen aan een derde lidstaat door te geven. Indien de bevoegde buitenlandse autoriteit van de inlichtingenverstrekkende lidstaat zich niet binnen tien werkdagen na de datum van ontvangst van de kennisgeving verzet heeft tegen die inlichtingenuitwisseling, dan geeft de bevoegde autoriteit de inlichtingen door aan de buitenlandse autoriteit van de derde lidstaat, op voorwaarde dat dit in overeenstemming is met de in dit decreet vastgelegde voorschriften en procedures.<br>
+§ 3. Wanneer de bevoegde autoriteit van oordeel is dat de van een buitenlandse autoriteit verkregen inlichtingen de buitenlandse autoriteit van een derde lidstaat van nut kunnen zijn voor de doeleinden, vermeld in paragraaf 2, eerste lid, dan stelt hij de autoriteit van de inlichtingenverstrekkende lidstaat in kennis van zijn voornemen om die inlichtingen aan een derde lidstaat door te geven. Indien de bevoegde buitenlandse autoriteit van de inlichtingenverstrekkende lidstaat zich niet binnen vijftien kalenderdagen na de datum van ontvangst van de kennisgeving verzet heeft tegen die inlichtingenuitwisseling, dan geeft de bevoegde autoriteit de inlichtingen door aan de buitenlandse autoriteit van de derde lidstaat, op voorwaarde dat dit in overeenstemming is met de in dit decreet vastgelegde voorschriften en procedures.<br>
 <br>
 § 4. Inlichtingen, verslagen, verklaringen en andere bescheiden, alsook voor eensluidend gewaarmerkte afschriften of uittreksels daarvan, die door de aangezochte autoriteit zijn verkregen en overeenkomstig dit decreet aan de verzoekende bevoegde autoriteit zijn doorgegeven, worden door de Vlaamse bevoegde overheidsinstanties op dezelfde voet als bewijs aangevoerd als soortgelijke inlichtingen, verslagen, verklaringen en andere bescheiden die door een andere Belgische overheidsinstantie zijn verstrekt.</p>
 
 ### ART. 22.
 
-<P>De bevoegde autoriteit kan het gebruik toestaan van de inlichtingen en   bescheiden verstrekt met toepassing van dit decreet, in de lidstaat die ze   ontvangt, voor andere doeleinden dan de doeleinden, vermeld in artikel 21, § 2,   eerste lid. De bevoegde autoriteit verleent toestemming voor zulk gebruik indien   de inlichtingen in de Vlaamse Gemeenschap of het Vlaamse Gewest voor   soortgelijke doeleinden kunnen worden gebruikt.<BR></P>  <P>Indien een buitenlandse autoriteit haar voornemen bekendmaakt om de van de   bevoegde autoriteit verkregen inlichtingen door te geven aan de buitenlandse   autoriteit van een derde lidstaat, omdat ze voor die lidstaat van nut kunnen   zijn voor de doeleinden, vermeld in artikel 21, § 2, eerste lid, kan de bevoegde   autoriteit instemming verlenen aan die buitenlandse autoriteit om deze   inlichtingen te delen met de derde lidstaat. Indien de bevoegde autoriteit geen   instemming wenst te geven, tekent hij verzet aan binnen tien werkdagen na de   datum van ontvangst van de kennisgeving van de lidstaat die de inlichtingen   wenst te delen.<BR></P>  <P>De bevoegde autoriteit kan toestaan dat inlichtingen afkomstig uit de Vlaamse   Gemeenschap of het Vlaamse Gewest die overeenkomstig het tweede lid door een   buitenlandse autoriteit aan een buitenlandse autoriteit van een derde lidstaat   werden doorgegeven in die derde lidstaat worden gebruikt overeenkomstig andere   doeleinden dan de doeleinden, vermeld in artikel 21, § 2, eerste   lid.<BR></P>
+<p>De bevoegde autoriteit kan het gebruik toestaan van de inlichtingen en bescheiden verstrekt met toepassing van dit decreet, in de lidstaat die ze ontvangt, voor andere doeleinden dan de doeleinden, vermeld in artikel 21, § 2, eerste lid. De bevoegde autoriteit verleent toestemming voor zulk gebruik indien de inlichtingen in de Vlaamse Gemeenschap of het Vlaamse Gewest voor soortgelijke doeleinden kunnen worden gebruikt.</p>
+
+<p>Indien een buitenlandse autoriteit haar voornemen bekendmaakt om de van de bevoegde autoriteit verkregen inlichtingen door te geven aan de buitenlandse autoriteit van een derde lidstaat, omdat ze voor die lidstaat van nut kunnen zijn voor de doeleinden, vermeld in artikel 21, § 2, eerste lid, kan de bevoegde autoriteit instemming verlenen aan die buitenlandse autoriteit om deze inlichtingen te delen met de derde lidstaat. Indien de bevoegde autoriteit geen instemming wenst te geven, tekent hij verzet aan binnen vijftien kalenderdagen na de datum van ontvangst van de kennisgeving van de lidstaat die de inlichtingen wenst te delen.</p>
+
+<p>De bevoegde autoriteit kan toestaan dat inlichtingen afkomstig uit de Vlaamse Gemeenschap of het Vlaamse Gewest die overeenkomstig het tweede lid door een buitenlandse autoriteit aan een buitenlandse autoriteit van een derde lidstaat werden doorgegeven in die derde lidstaat worden gebruikt overeenkomstig andere doeleinden dan de doeleinden, vermeld in artikel 21, § 2, eerste lid.</p>
 
 ## Afdeling 2 Beperkingen en verplichtingen
 
@@ -568,6 +586,8 @@ Als de uitwisseling van de gegevens, vermeld in dit decreet, afbreuk kan doen aa
 ### ART. 29.
 
 Het verzoek om samenwerking, waaronder het verzoek tot kennisgeving en de   bijgevoegde bescheiden, kan in elke door de aangezocht een de verzoekende   autoriteit overeengekomen taal worden gesteld. Slechts in bijzondere gevallen en   mits het verzoek met redenen omkleed is, kan de aangezochte autoriteit verzoeken   het verzoek vergezeld te laten gaan van een vertaling in een van de officiële   talen van diens lidstaat.<BR>
+
+## Afdeling 7 Rapportage en verstrekking van het fiscaal identificatienummer
 
 ### ART 29/2.
 
