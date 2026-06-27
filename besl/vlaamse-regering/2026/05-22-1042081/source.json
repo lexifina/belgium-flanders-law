@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042081,
+  "title": "Besluit van de Vlaamse Regering van 2026-05-22 tot goedkeuring van de aanvraag van de vzw PROMAZ tot verhoging van de bijdrage als vermeld in het samenwerkingsakkoord van 25 juli 2018 tussen de federale staat, het Vlaams gewest, het Waals gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations en gasolietanks voor verwarmingsdoeleinden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042081/VolledigDocument?datum=2026-06-27",
+  "source_sha256": "423fdb30ab405b60df5d456db4946325e6bd88a5443ba51d8f429ea9ed9e4b1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042081&param=informatie",
+  "as_of": "2026-06-27",
+  "made": "2026-05-22",
+  "gazette": "2026-06-17",
+  "numac": 2026004392,
+  "document_start": "2026-06-27",
+  "document_end": null,
+  "in_force": "2026-06-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
