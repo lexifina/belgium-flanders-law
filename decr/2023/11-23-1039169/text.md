@@ -101,7 +101,7 @@ De Vlaamse Regering kan de taakstelling en de organisatie van de aanspreekpunten
 
 ### ART 7.
 
-Bij elk ontwerp van decreet dat wordt ingediend bij het Vlaams Parlement, wordt een kind- en jongereneffectrapport, afgekort JoKER, gevoegd, als de voorgenomen beslissing het belang van personen jonger dan 25 jaar rechtstreeks raakt.<br>
+Bij elk ontwerp van decreet dat wordt ingediend bij het Vlaams Parlement, wordt een kind- en jongereneffectrapport, afgekort JoKER, gevoegd, als de voorgenomen beslissing het belang van personen tot en met 30 jaar rechtstreeks raakt.<br>
 <br>
 Het JoKER is een openbaar document dat ten minste de volgende informatie bevat:<br>
 1° een beschrijving van het effect van de voorgenomen beslissing op de situatie van het kind of de jongere;<br>
@@ -189,6 +189,19 @@ De vereniging, vermeld in het eerste lid, stelt haar terreinkennis en specifieke
 <br>
 De vereniging, vermeld in het eerste lid, is een ledenorganisatie die openstaat voor alle lokale besturen uit het Nederlandse taalgebied en voor de lokale besturen uit het tweetalige gebied Brussel-Hoofdstad. Ten minste de helft van de som van de lokale besturen uit het Nederlandse taalgebied en de lokale besturen uit het tweetalige gebied Brussel-Hoofdstad, is lid van de ondersteuningsorganisatie. De Vlaamse Gemeenschapscommissie kan lid worden.
 
+### ART 12/1.
+
+In dit artikel wordt verstaan onder een luisterlijn: een gratis dienstverlening waarbij oproepen van kinderen en jongeren via verschillende communicatiekanalen worden beantwoord door daartoe opgeleide personen.<br>
+<br>
+De Vlaamse Regering subsidieert een vereniging die een luisterlijn voor kinderen en jongeren organiseert.<br>
+<br>
+Om de opdracht, vermeld in het eerste lid, te realiseren, voert de vereniging de volgende taken uit:<br>
+1°&nbsp;&nbsp; &nbsp;vrijwilligers rekruteren, opleiden en ondersteunen om oproepen van kinderen en jongeren te beantwoorden;<br>
+2°&nbsp;&nbsp; &nbsp;digitale systemen opzetten, onderhouden en optimaliseren om oproepen van kinderen en jongeren via verschillende communicatiekanalen te beantwoorden;<br>
+3°&nbsp;&nbsp; &nbsp;de dienstverlening bij kinderen en jongeren en bij verenigingen die op basis van dit decreet worden gesubsidieerd, bekendmaken;<br>
+4°&nbsp;&nbsp; &nbsp;de neutraliteit en de toegankelijkheid van de dienstverlening voor alle kinderen en jongeren vrijwaren.<br>
+&nbsp;
+
 ### ART 13.
 
 De Vlaamse Regering subsidieert de vereniging zonder winstoogmerk JINT – Coördinatieorgaan voor internationale jongerenwerking, dat al de volgende opdrachten heeft:<br>
@@ -214,7 +227,9 @@ De verenigingen, vermeld in artikel 10 tot en met 13, voldoen aan al de volgende
 
 ### ART 15.
 
-De Vlaamse Regering wijst om de vijf jaar de verenigingen aan die de opdrachten, vermeld in artikel 10 tot en met 12, uitvoeren.<br>
+De Vlaamse Regering wijst om de vijf jaar de verenigingen aan die de opdrachten, vermeld in artikel 10 tot en met 12/1, uitvoeren.<br>
+<br>
+In afwijking van het eerste lid wijst de Vlaamse Regering de vereniging die de opdracht, vermeld in artikel 12/1, eerste lid, uitvoert, een eerste keer aan voor de periode van 1 januari 2028 tot en met 31 december 2030.<br>
 <br>
 Verenigingen kunnen zich voor maximaal een van de drie subsidievormen, vermeld in artikel 10 tot en met 12, kandidaat stellen. Bij de kandidaatstelling toont de vereniging aan dat ze over de nodige expertise beschikt om de subsidievorm waarvoor ze zich kandidaat stelt, uit te voeren. Ze doet dat via de beleidsnota die wordt ingediend conform artikel 16. De beslissing over de aanwijzing gebeurt samen met de beslissing over het bedrag van de werkingssubsidie.
 
@@ -224,7 +239,7 @@ Verenigingen kunnen zich voor maximaal een van de drie subsidievormen, vermeld i
 1° een beleidsnota die een vereniging als vermeld in artikel 10 tot en met 13, opstelt voor de volgende vijfjarige beleidsperiode;<br>
 2° de beschikbare informatie over de werking van die vereniging in de voorbije beleidsperiode.<br>
 <br>
-De beleidsnota, vermeld in het eerste lid, 1°, beschrijft de wijze waarop de vereniging invulling geeft aan de opdrachten, vermeld in artikel 10, 11, 12 of 13, en op welke wijze ze een bijdrage levert aan de realisatie van de prioritaire doelstellingen van het Vlaamse jeugd- en kinderrechtenbeleidsplan, vermeld in artikel 4. De werkingssubsidie wordt toegekend in de vorm van een vijfjaarlijks financieringsbudget.<br>
+De beleidsnota, vermeld in het eerste lid, 1°, beschrijft de wijze waarop de vereniging invulling geeft aan de opdrachten, vermeld in artikel 10, 11, 12, 12/1 of 13, en op welke wijze ze een bijdrage levert aan de realisatie van de prioritaire doelstellingen van het Vlaamse jeugd- en kinderrechtenbeleidsplan, vermeld in artikel 4. De werkingssubsidie wordt toegekend in de vorm van een vijfjaarlijks financieringsbudget.<br>
 <br>
 De beleidsnota, vermeld in het eerste lid, 1°, komt tot stand na een democratisch proces in de vereniging en een bevraging van de doelgroep. In de voormelde beleidsnota worden de inspanningen gedocumenteerd die in dat verband zijn verricht, en ook de resultaten van het voormelde proces.<br>
 &nbsp;<br>
@@ -254,14 +269,14 @@ Een aanvrager kan een subsidie krijgen in het kader van dit decreet als hij vold
 1° de aanvrager is een vereniging;<br>
 2° in zijn werking aanvaardt de aanvrager de principes en de regels van de democratie, onderschrijft hij ook het Verdrag inzake de Rechten van het Kind en het Europees Verdrag tot bescherming van de Rechten van de Mens en de fundamentele vrijheden en draagt hij ze uit;<br>
 3° de aanvrager heeft zijn zetel in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
-4° de aanvrager zorgt ervoor dat alle gegevens die verband houden met de er kennings- en subsidiëringsvoorwaarden op de zetel voorhanden zijn in het Nederlands en hij stelt die ter beschikking voor toezicht door de administratie;<br>
+4° de aanvrager zorgt ervoor dat alle gegevens die verband houden met de erkennings- en subsidiëringsvoorwaarden op de zetel voorhanden zijn in het Nederlands en hij stelt die ter beschikking voor toezicht door de administratie;<br>
 5° de aanvrager draagt de bevoegdheden die wettelijk toekomen aan de algemene vergadering of aan het bestuursorgaan, niet over aan een derde;<br>
-6° de aanvrager beheert op zelfstandige wijze de financiën en bepaalt het eigen beleid. De naleving van de voormelde voorwaarde blijkt uit de volgende elementen:<br>
-&nbsp; a) de vereniging beschikt over een eigen secretariaat dat duidelijk kan worden onderscheiden van elke andere rechtspersoon. Het secretariaat van de vereniging bevindt zich op de zetel van de vereniging;<br>
-&nbsp; b) de vereniging is werkgever en opdrachtgever van haar personeel;<br>
-&nbsp; c) de vereniging bepaalt haar programmering zelf en voert die zelf uit;<br>
-&nbsp; d) de vereniging beschikt over een eigen bankrekening;<br>
-&nbsp; e) de vereniging organiseert activiteiten of verleent diensten in eigen naam;<br>
+6° de aanvrager beheert op zelfstandige wijze de financiën en bepaalt het eigen beleid. De naleving van die voorwaarde blijkt uit de volgende elementen:<br>
+a)&nbsp;&nbsp; &nbsp;de aanvrager beschikt over een eigen secretariaat dat duidelijk kan worden onderscheiden van elke andere rechtspersoon. Als de aanvrager een rechtspersoon is, dan bevindt het secretariaat van de aanvrager zich op de zetel van de aanvrager;<br>
+b)&nbsp;&nbsp; &nbsp;de aanvrager is werkgever en opdrachtgever van het personeel;<br>
+c)&nbsp;&nbsp; &nbsp;de aanvrager bepaalt de programmering zelf en voert die zelf uit;<br>
+d)&nbsp;&nbsp; &nbsp;de aanvrager beschikt over een eigen bankrekening;<br>
+e)&nbsp;&nbsp; &nbsp;de aanvrager organiseert activiteiten of verleent diensten in eigen naam;<br>
 7° de aanvrager erkent het belang van het gebruik van het Nederlands bij de uitvoering van de gesubsidieerde activiteiten.
 
 ### ART 20.
@@ -283,7 +298,7 @@ In afwijking van artikel 19, 1°, komen ook feitelijke verenigingen in aanmerkin
 <br>
 In afwijking van artikel 19, 1°, komen ook feitelijke verenigingen in aanmerking voor de toekenning van projectsubsidies voor vrijwillig jeugdwerk met kinderen en jongeren met een handicap als vermeld in artikel 44.<br>
 <br>
-In afwijking van artikel 19, 1°, komen alleen intergemeentelijke samenwerkingsverbanden in aanmerking voor de toekenning van werkingssubsidies als vermeld in artikel 38.<br>
+In afwijking van artikel 19, 1°, komen alleen intergemeentelijke samenwerkingsverbanden in aanmerking voor de toekenning van werkingssubsidies als vermeld in artikel 38.&nbsp;Voor de toekenning van de werkingssubsidies, vermeld in artikel 38, §1, hoeven intergemeentelijke samenwerkingsverbanden niet te voldoen aan de voorwaarden, vermeld in artikel 19, 6°.<br>
 <br>
 In afwijking van artikel 19, 1°, komt alleen de Vlaamse Gemeenschapscommissie in aanmerking voor de toekenning van subsidies als vermeld in artikel 47.<br>
 <br>
@@ -315,7 +330,7 @@ De verenigingen die op basis van dit decreet een werkingssubsidie ontvangen, die
 <br>
 Bij verenigingen die op basis van dit decreet een werkingssubsidie ontvangen, wordt minstens een keer tijdens de periode waarop de subsidie betrekking heeft, een plaatsbezoek georganiseerd. Tijdens het plaatsbezoek wordt de realisatie van de activiteiten waarvoor de subsidie is toegekend, besproken aan de hand van de informatie uit de functionele en financiële verantwoording, vermeld in het tweede lid, 3°, van de voorgaande jaren.<br>
 <br>
-Op het einde van de twee boekjaren vóór het jaar waarop de werkingssubsidie betrekking heeft, heeft de vereniging een positief eigen vermogen. Als dat niet het geval is, legt de vereniging, samen met het financieel verslag, vermeld in het tweede lid, 3°, een financieel plan ter goedkeuring aan de Vlaamse Regering voor. In het voormelde financieel plan wordt aangetoond op welke manier een positief eigen vermogen wordt gerealiseerd. Als er geen financieel plan wordt voorgelegd, of als het financieel plan niet voldoet, kunnen de erkenning en de subsidiëring worden stopgezet.
+Op het einde van het boekjaar waarop de werkingssubsidie betrekking heeft, en op het einde van het boekjaar dat eraan voorgaat, heeft de vereniging een positief eigen vermogen. Als dat niet het geval is, legt de vereniging, samen met het financieel verslag, vermeld in het tweede lid, 3°, een financieel plan ter goedkeuring aan de Vlaamse Regering voor. In het voormelde financieel plan wordt aangetoond op welke manier een positief eigen vermogen wordt gerealiseerd. Als er geen financieel plan wordt voorgelegd, of als het financieel plan niet voldoet, kunnen de erkenning en de subsidiëring worden stopgezet.
 
 ### ART 24.
 
@@ -411,7 +426,13 @@ Een aanvraag is onontvankelijk als ze niet tijdig of onvolledig is ingediend con
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de termijn waarin, en de wijze waarop een erkenningsaanvraag ingediend, vervolledigd, behandeld, en beoordeeld wordt.<br>
 <br>
-De erkenning als landelijk georganiseerde jeugdvereniging, vermeld in artikel 31, vereniging informatie en participatie, vermeld in artikel 32, cultuureducatieve vereniging, vermeld in artikel 33, geprofessionaliseerde jeugdvereniging met kinderen en jongeren met een handicap, vermeld in artikel 34, en een geprofessionaliseerde jeugdvereniging met kinderen en jongeren in een maatschappelijk kwetsbare positie, vermeld in artikel 35, wordt door de Vlaamse Regering toegekend voor zolang de verenigingen voldoen aan de algemene subsidievoorwaarden, ver- meld in hoofdstuk 4, afdeling 1, en de specifieke voorwaarden, vermeld in afdeling 2 of 3 van dit hoofdstuk.
+De erkenning als landelijk georganiseerde jeugdvereniging, vermeld in artikel 31, vereniging informatie en participatie, vermeld in artikel 32, cultuureducatieve vereniging, vermeld in artikel 33, geprofessionaliseerde jeugdvereniging met kinderen en jongeren met een handicap, vermeld in artikel 34, en een geprofessionaliseerde jeugdvereniging met kinderen en jongeren in een maatschappelijk kwetsbare positie, vermeld in artikel 35, wordt door de Vlaamse Regering toegekend voor zolang de verenigingen voldoen aan de algemene subsidievoorwaarden, ver- meld in hoofdstuk 4, afdeling 1, en de specifieke voorwaarden, vermeld in afdeling 2 of 3 van dit hoofdstuk.<br>
+<br>
+Een vereniging die is erkend op basis van artikel 31, 32 of 33, kan een aanvraag tot erkenning op basis van artikel 34 of 35 indienen. De vereniging meldt voor de aanvang van de referentieperiode aan de administratie dat ze een andere erkenning nastreeft. In dat geval wordt ze bij de periodieke evaluatie, vermeld in artikel 29, niet gesanctioneerd als ze zich tijdens de kalenderjaren waarin de referentieperiode valt, niet richt op de hele Vlaamse Gemeenschap, in afwijking van artikel 22, zesde lid. In afwijking van artikel 31, §1, kan de vereniging aan jeugdwerk doen met deelnemers uit minder dan vier provincies, of minder dan drie provincies en het tweetalige gebied Brussel-Hoofdstad. In afwijking van artikel 32, §3, §4, §6 en §7, en artikel 33, §3, §4, §5 en §7, mag de vereniging initiatieven realiseren met deelnemers uit minder dan drie provincies.<br>
+<br>
+Een vereniging die is erkend op basis van artikel 34 of 35, kan een aanvraag tot erkenning op basis van artikel 31, 32 of 33 indienen. De vereniging meldt voor de aanvang van de referentieperiode aan de administratie dat ze een andere erkenning nastreeft. In dat geval wordt ze bij de periodieke evaluatie, vermeld in artikel 29, niet gesanctioneerd als ze tijdens de kalenderjaren waarin de referentieperiode valt, zich richt tot de hele Vlaamse Gemeenschap, in afwijking van artikel 22, zevende lid.&nbsp;<br>
+<br>
+De referentieperiode, vermeld in het zevende en achtste lid, loopt van 1 mei van het jaar dat voorafgaat aan het jaar waarin de aanvraag wordt ingediend, tot en met 30 april van het jaar waarin de aanvraag wordt ingediend.
 
 ## Afdeling 2. Landelijk georganiseerde jeugdverenigingen, verenigingen informatie en participatie en cultuureducatieve verenigingen
 
@@ -490,7 +511,7 @@ De verenigingen die erkend zijn of structureel gesubsidieerd worden in het belei
 <br>
 De modules, vermeld in het eerste lid, 2° tot en met 5° en 7°, kunnen elk maximaal drie keer voor erkenning in aanmerking genomen worden. De module, vermeld in het eerste lid, 6°, wordt minstens één keer gecombineerd met de module, vermeld in het eerste lid, 4°. In die combinatie komen alleen initiatieven in aanmerking waarbij jeugdredacties worden gevormd om de module, vermeld in het eerste lid, 4°, te realiseren.<br>
 <br>
-Als de module, vermeld in het eerste lid, 1°, drie keer wordt gerealiseerd, wordt die module ten minste één keer gecombineerd met de module, vermeld in het eerste lid, 4°. In die combinatie komen alleen initiatieven in aanmerking waarbij jeugdwerkers worden gevormd om de module, vermeld in het eerste lid, 4°, te realiseren.<br>
+Als de module, vermeld in het eerste lid, 1°, vijf keer wordt gerealiseerd, wordt die module ten minste één keer gecombineerd met de module, vermeld in het eerste lid, 4°. In die combinatie komen alleen initiatieven in aanmerking waarbij jeugdwerkers worden gevormd om de module, vermeld in het eerste lid, 4°, te realiseren.<br>
 <br>
 De module, vermeld in het eerste lid, 4°, kan met digitale initiatieven worden gerealiseerd, behalve als de ingebrachte initiatieven betrekking hebben op kadervorming als vermeld in hoofdstuk 7.<br>
 <br>
@@ -527,7 +548,7 @@ Als de module, vermeld in paragraaf 2, eerste lid, 3°, verschillende keren word
 <br>
 De initiatieven, vermeld in het eerste lid, duren ten minste twee uur per dag, met per initiatief minstens vier deelnemers. Ten hoogste tien uur per dag wordt in aanmerking genomen. Een aanbod met dezelfde deelnemers, op dezelfde dag en op dezelfde plaats geldt als een initiatief. Een meerdaags verblijf geldt als een initiatief. Ook een vormingsreeks geldt als een initiatief.<br>
 <br>
-De deelnemers komen uit ten minste vier provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die vier provincies geldt dat inwoners uit die provincie samen ten minste 75 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 25 deelnemersuren.<br>
+De deelnemers komen uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die vier provincies geldt dat inwoners uit die provincie samen ten minste 75 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 25 deelnemersuren.<br>
 <br>
 Als de module, vermeld in paragraaf 2, eerste lid, 4°, verschillende keren wordt gerealiseerd, wordt het aantal vormingsuren in evenredige mate vermeerderd. De provinciale spreiding wordt aangetoond per keer dat de module wordt gerealiseerd. Het minimale aantal initiatieven, vermeld in het eerste lid, stijgt niet.<br>
 <br>
@@ -535,7 +556,7 @@ Als de module, vermeld in paragraaf 2, eerste lid, 4°, verschillende keren word
 &nbsp;<br>
 Een vereniging informatie en participatie die de module, vermeld in paragraaf 2, eerste lid, 5°, realiseert, begeleidt de jeugd bij ten minste vijf beleidsparticipatieprocessen.<br>
 <br>
-De deelnemers komen uit ten minste vier provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die vier provincies geldt dat inwoners uit die provincie samen ten minste 36 deelnemersuren realiseren.<br>
+De deelnemers komen uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die vier provincies geldt dat inwoners uit die provincie samen ten minste 36 deelnemersuren realiseren.<br>
 <br>
 De vereniging levert het bewijs van een effectief beleidsparticipatieproces met de jeugd. Alleen de processen die afgelopen zijn in het jaar waarover gerapporteerd wordt, komen in aanmerking om de module, vermeld in paragraaf 2, eerste lid, 5°, te realiseren.<br>
 <br>
@@ -559,7 +580,7 @@ Voor initiatieven als vermeld in paragraaf 3, 6 en 7 geldt naast de voorwaarden,
 <br>
 Voor initiatieven als vermeld in paragraaf 4 geldt naast de voorwaarden, vermeld in het eerste lid, dat er per 25 deelnemers ten minste een begeleider aanwezig is.<br>
 &nbsp;<br>
-Voor initiatieven als vermeld in paragraaf 6 geldt naast de voorwaarden, vermeld in het eerste lid, dat er per vijftig deelnemers ten minste een begeleider aanwezig is, in geval van een initiatief op een studiedag van een andere organisatie, of in geval van een digitaal initiatief.
+Voor initiatieven als vermeld in paragraaf 6, die betrekking hebben op de vorming van jeugdwerkers, geldt naast de voorwaarden, vermeld in het eerste lid, dat er per vijftig deelnemers ten minste een begeleider aanwezig is, in geval van een initiatief op een studiedag van een andere organisatie, of in geval van een digitaal initiatief.
 
 ### ART 33.
 
@@ -576,7 +597,7 @@ Voor initiatieven als vermeld in paragraaf 6 geldt naast de voorwaarden, vermeld
 <br>
 Minimaal drie van de modules, vermeld in het eerste lid, worden gerealiseerd in de vrije tijd. De module, vermeld in het eerste lid, 4°, kan maximaal twee keer voor erkenning in aanmerking genomen worden.<br>
 <br>
-Als de module, vermeld in het eerste lid, 1°, drie keer wordt gerealiseerd, wordt die module ten minste één keer gecombineerd met de module, vermeld in het eerste lid, 3°. De module, vermeld in het eerste lid, 3°, kan met digitale initiatieven worden gerealiseerd, behalve als de ingebrachte initiatieven betrekking hebben op kadervorming als vermeld in hoofdstuk 7.<br>
+Als de module, vermeld in het eerste lid, 1°, vijf keer wordt gerealiseerd, wordt die module ten minste één keer gecombineerd met de module, vermeld in het eerste lid, 3°. De module, vermeld in het eerste lid, 3°, kan met digitale initiatieven worden gerealiseerd, behalve als de ingebrachte initiatieven betrekking hebben op kadervorming als vermeld in hoofdstuk 7.<br>
 <br>
 De Vlaamse Regering kan de voorwaarden voor het vervullen van de modules, vermeld in dit artikel, nader bepalen.<br>
 <br>
@@ -598,7 +619,7 @@ Als de module, vermeld in paragraaf 2, eerste lid, 2°, verschillende keren word
 <br>
 §5. Een cultuureducatieve vereniging die de module, vermeld in paragraaf 2, eerste lid, 3°, realiseert, organiseert op jaarbasis minstens 75 vormingsuren die gespreid zijn over minstens tien vormingsinitiatieven op jaarbasis. Een meerdaags verblijf geldt als een initiatief. Ook een vormingsreeks geldt als een initiatief. De initiatieven duren ten minste twee uur per dag, met per initiatief minstens vier deelnemers. Ten hoogste tien uur per dag wordt in aanmerking genomen. De initiatieven hebben een duidelijk vormend karakter voor de betrokken, eventueel toekomstige, jeugdwerkers of cultuureducatieve begeleiders. Ze zijn interactief opgebouwd en verlopen onder pedagogische begeleiding. Een aanbod met keuzemogelijkheden voor een groep, op dezelfde dag en op dezelfde plaats geldt als een initiatief.<br>
 <br>
-De deelnemers komen uit ten minste vier provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die vier provincies geldt dat inwoners uit die provincie samen ten minste 75 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 25 deelnemersuren.<br>
+De deelnemers komen uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die drie provincies geldt dat inwoners uit die provincie samen ten minste 75 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 25 deelnemersuren.<br>
 <br>
 Als de module, vermeld in paragraaf 2, eerste lid, 3°, verschillende keren wordt gerealiseerd, wordt het aantal vormingsuren in evenredige mate vermeerderd. Het minimale aantal initiatieven, vermeld in het eerste lid, stijgt niet. De provinciale spreiding wordt aangetoond per keer dat de module wordt gerealiseerd.<br>
 <br>
@@ -606,7 +627,7 @@ Als de module, vermeld in paragraaf 2, eerste lid, 3°, verschillende keren word
 <br>
 §7. In deze paragraaf wordt verstaan onder lokaal cultuureducatief initiatief voor de jeugd: een werking die, zoals blijkt uit haar doelstellingen en handelingen, aan cultuureducatie voor de jeugd doet, waarbij het merendeel van de deelnemers uit een beperkt aantal aangrenzende gemeenten komt. Uitzondering daarop vormen de initiatieven van districtsraden, gemeentebesturen en de Vlaamse Gemeenschapscommissie. Met toepassing van dit decreet worden ze beschouwd als lokale initiatieven met dien verstande dat elk van de voormelde besturen maar één keer wordt meegeteld met het oog op het behalen van de erkenningsnorm.<br>
 <br>
-Een cultuureducatieve vereniging die de module, vermeld in paragraaf 2, eerste lid, 5°, realiseert, begeleidt in ten minste vier provincies telkens ten minste twee actieve lokale cultuureducatieve initiatieven voor de jeugd met een totaal van minstens tien. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie.<br>
+Een cultuureducatieve vereniging die de module, vermeld in paragraaf 2, eerste lid, 5°, realiseert, begeleidt in ten minste drie provincies telkens ten minste twee actieve lokale cultuureducatieve initiatieven voor de jeugd met een totaal van minstens tien. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie.<br>
 <br>
 De cultuureducatieve vereniging kan aantonen dat de lokale initiatieven die voor erkenning worden ingebracht, in de loop van het vorige kalenderjaar effectief begeleid zijn.<br>
 <br>
@@ -634,7 +655,7 @@ Voor initiatieven als vermeld in paragraaf 4 geldt naast de voorwaarden, vermeld
 
 §1. Een vereniging kan worden erkend als een geprofessionaliseerde jeugdvereniging met kinderen en jongeren met een handicap als de vereniging bovenlokaal aan geprofessionaliseerd jeugdwerk doet dat in hoofdzaak gericht is op kinderen en jongeren met een handicap. De vereniging voldoet aan al de volgende voorwaarden:<br>
 1° ze werkt samen met verschillende partners;<br>
-2° ze is werkgever van ten minste twee voltijdse equivalenten met een inhoudelijke taakstelling.<br>
+2° ze is werkgever van ten minste twee voltijdse equivalenten met een inhoudelijke taakstelling die in hoofdzaak werken met kinderen en jongeren met een handicap.<br>
 <br>
 De naleving van de voorwaarden, vermeld in het eerste lid, blijkt uit de activiteiten en het bereik van de vereniging.<br>
 <br>
@@ -678,7 +699,7 @@ Als de module, vermeld in paragraaf 2, eerste lid, 2°, verschillende keren word
 2° ze stimuleert de participatie van de kinderen en jongeren, waardoor de betrokken kinderen en jongeren aansluiting vinden bij instellingen of organisaties die hen kunnen helpen deel te nemen aan de samenleving om zo hun achterstelling of uitsluiting weg te werken;<br>
 3° ze sensibiliseert over mechanismen die afbreuk doen aan de rechten en gelijke kansen van kinderen en jongeren, op basis van de eigen praktijkervaring;<br>
 4° ze werkt samen met verschillende partners;<br>
-5° ze is werkgever van ten minste drie voltijdse equivalenten met een inhoudelijke taakstelling.<br>
+5° ze is werkgever van ten minste drie voltijdse equivalenten met een inhoudelijke taakstelling die in hoofdzaak werken met kinderen en jongeren in een maatschappelijk kwetsbare positie.<br>
 <br>
 De naleving van de voorwaarden vermeld in het eerste lid blijkt uit de activiteiten en het bereik van de vereniging.<br>
 <br>
@@ -805,7 +826,7 @@ De projecten, vermeld in het eerste lid, voldoen aan de volgende vereisten:<br>
 <br>
 De subsidie voor een project als vermeld in het eerste lid, bedraagt maximaal 60.000 euro per jaar.<br>
 <br>
-De subsidiëring heeft betrekking op het kalenderjaar dat volgt op de beslissing over de toekenning van de subsidie. Om langer dan een jaar als experimenteel project te worden gesubsidieerd, wordt er een duidelijke positieve lijn vastgesteld in de ontwikkeling van het project. Geen enkel project wordt langer dan vier jaar gesubsidieerd. De voormelde termijn van vier jaar kan worden verlengd met maximaal vier jaar, op voorwaarde dat de vereniging een realistisch meerjarenplan voorlegt met het oog op het behalen van de erkenningsnormen bij de eerstvolgende erkenningsronde voor verenigingen als vermeld in hoofdstuk 5, afdeling 2 en 3.<br>
+De subsidiëring heeft betrekking op het kalenderjaar dat volgt op de beslissing over de toekenning van de subsidie. Om langer dan een jaar als experimenteel project te worden gesubsidieerd, wordt er een duidelijke positieve lijn vastgesteld in de ontwikkeling van het project. Geen enkel project wordt langer dan vier jaar gesubsidieerd. De voormelde termijn van vier jaar kan worden verlengd met maximaal vier jaar, op voorwaarde dat de vereniging een realistisch meerjarenplan voorlegt met het oog op het behalen van de erkenningsnormen bij de eerstvolgende erkenningsronde voor verenigingen als vermeld in hoofdstuk 5, afdeling 2 en 3.&nbsp;De subsidiëring met inbegrip van een eventuele verlenging heeft steeds betrekking op een ononderbroken periode.<br>
 <br>
 De Vlaamse Regering kan de subsidievoorwaarden, vermeld in dit artikel, nader bepalen.
 
@@ -829,7 +850,7 @@ Alleen kosten die gemaakt zijn in de looptijd van het project, komen in aanmerki
 
 ### ART 41.
 
-De Vlaamse Regering kan jaarlijks een of meer oproepen lanceren om vernieuwende projecten om het Vlaamse jeugd- en kinderrechtenbeleidsplan, vermeld in artikel 4, de beleidsnota Jeugd en de beleids- en begrotingstoelichtingen Jeugd uit te voeren, te subsidiëren, als die projecten betrekking hebben op het jeugdbeleid, vermeld in artikel 4, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+De Vlaamse Regering kan jaarlijks een of meer oproepen lanceren om vernieuwende projecten te subsidiëren om het Vlaamse jeugd- en kinderrechtenbeleidsplan, vermeld in artikel 4 van dit decreet, de beleidsnota Jeugd en de beleids- en begrotingstoelichtingen Jeugd uit te voeren, als die projecten betrekking hebben op het jeugdbeleid, vermeld in artikel 4, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
 <br>
 De projectoproep, vermeld in het eerste lid, bevat al de volgende gegevens:<br>
 1° het doel, de voorwaarden, de selectieprocedure, met inbegrip van de ontvankelijkheidscriteria en de beoordelingscriteria;<br>
@@ -911,7 +932,7 @@ De Vlaamse Regering bepaalt de competenties en de bijbehorende indicatoren voor 
 <br>
 De Vlaamse Regering bepaalt de duur, de inhoud, de toelatings- en begeleidingsvoorwaarden en de specifieke regels waaraan moet worden voldaan.<br>
 <br>
-§4. Een vereniging dient bij de administratie een aanvraagdossier in voor de erkenzning van een kadervormingstraject. Het voormelde aanvraagdossier beschrijft ten minste al de volgende onderdelen:<br>
+§4. Een vereniging dient bij de administratie een aanvraagdossier in voor de erkenning van een kadervormingstraject. Het voormelde aanvraagdossier beschrijft ten minste al de volgende onderdelen:<br>
 1° de manier waarop de vereniging het kadervormingstraject organiseert en begeleidt;<br>
 2° de manier waarop de vereniging ondersteunt, stimuleert en garandeert dat deelnemers kansen krijgen om de competenties te verwerven;<br>
 3° de manier waarop de vereniging alle begeleiders van het traject vormt en opvolgt.<br>
