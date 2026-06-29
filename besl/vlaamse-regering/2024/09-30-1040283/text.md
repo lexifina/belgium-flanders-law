@@ -56,21 +56,21 @@ Hij draagt de titel "Vlaams minister van Economie, Innovatie en Industrie, Buite
 
 ### ART 3.
 
-§1. De heer Hans Bonte, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
-1° &nbsp;het beleidsveld Wonen, vermeld in artikel 13 van het organisatiebesluit;<br>
-2° &nbsp;het beleidsveld Energie, vermeld in artikel 13 van het organisatiebesluit;<br>
-3° het beleidsveld Klimaat, vermeld in artikel 13 van het organisatiebesluit;<br>
-4° het beleidsveld Toerisme, vermeld in artikel 3 van het organisatiebesluit;<br>
-5° het beleidsveld Jeugd, vermeld in artikel 9 van het organisatiebesluit.<br>
-&nbsp;&nbsp; &nbsp;<br>
-Hij draagt de titel "Vlaams minister van Wonen, Energie en Klimaat, Toerisme en Jeugd".<br>
-&nbsp;&nbsp; &nbsp;<br>
-§2. De heer Hans Bonte is bevoegd voor het bestuur van of het toezicht op de volgende instanties:&nbsp;<br>
-1° Wonen in Vlaanderen;<br>
-2° Vlaamse Maatschappij voor Sociaal Wonen;<br>
-3° Vlaams Energie- en Klimaatagentschap;<br>
-4° Vlaams Energiebedrijf;<br>
-5° Toerisme Vlaanderen.
+§1. Mevrouw Melissa Depraetere, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
+1°&nbsp;&nbsp; &nbsp;het beleidsveld Wonen, vermeld in artikel 13 van het organisatiebesluit;<br>
+2°&nbsp;&nbsp; &nbsp;het beleidsveld Energie, vermeld in artikel 13 van het organisatiebesluit;<br>
+3°&nbsp;&nbsp; &nbsp;het beleidsveld Klimaat, vermeld in artikel 13 van het organisatiebesluit;<br>
+4°&nbsp;&nbsp; &nbsp;het beleidsveld Toerisme, vermeld in artikel 3 van het organisatiebesluit;<br>
+5°&nbsp;&nbsp; &nbsp;het beleidsveld Jeugd, vermeld in artikel 9 van het organisatiebesluit.<br>
+<br>
+Ze draagt de titel "Vlaams minister van Wonen, Energie en Klimaat, Toerisme en Jeugd".<br>
+<br>
+§2. Mevrouw Melissa Depraetere is bevoegd voor het bestuur van of het toezicht op de volgende instanties:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;Wonen in Vlaanderen;<br>
+2°&nbsp;&nbsp; &nbsp;Vlaamse Maatschappij voor Sociaal Wonen;<br>
+3°&nbsp;&nbsp; &nbsp;Vlaams Energie- en Klimaatagentschap;<br>
+4°&nbsp;&nbsp; &nbsp;Vlaams Energiebedrijf;<br>
+5°&nbsp;&nbsp; &nbsp;Toerisme Vlaanderen.
 
 ### ART 4.
 
@@ -225,7 +225,7 @@ Zij draagt de titel "Vlaams minister van Brussel en Media".<br>
 
 ### ART 10/1.
 
-Mevrouw Melissa Depraetere is, tijdens de periode van haar onbeschikbaarheid, minister zonder portefeuille.
+...
 
 ### ART 11.
 
