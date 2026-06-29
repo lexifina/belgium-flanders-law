@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042136,
+  "title": "Ministerieel besluit van 2026-04-30 houdende de interne administratieve overdracht van een onroerend goed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042136/VolledigDocument?datum=2026-06-29",
+  "source_sha256": "5320ecb9f43ac5be69217066d2b74e7a70703bab5f4eaa21ac934d86e60928db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042136&param=informatie",
+  "as_of": "2026-06-29",
+  "made": "2026-04-30",
+  "gazette": "2026-06-29",
+  "numac": 2026004799,
+  "document_start": "2026-06-29",
+  "document_end": null,
+  "in_force": "2026-06-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2026-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
