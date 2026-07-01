@@ -32,10 +32,7 @@ In artikel 1 van het besluit van de Vlaamse Regering van 17 november 2023 over d
 3° er worden een punt 10° en een punt 11° toegevoegd, die luiden als volgt:<br>
 “10° hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
 11° hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.”;<br>
-4° er worden een punt 12° tot en met 14° toegevoegd, die luiden als volgt:<br>
-“12° artikel 29quater van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968;<br>
-13° hoofdstuk 5 van het decreet van 9 maart 2018 houdende het terugkommoment in het kader van de rijopleiding categorie B;<br>
-14° hoofdstuk 3 van het decreet van 15 maart 2024 over het professionele rijonderricht.”;<br>
+4° ...;<br>
 5° er worden een tweede, derde en vierde lid toegevoegd, die luiden als volgt:&nbsp;<br>
 “Artikel 4 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is voor de bepalingen, vermeld in het eerste lid, ook van toepassing op lokale overheden.<br>
 In afwijking van het eerste lid geldt de verplichting om bepaalde bestuursdocumenten in elektronische vorm op te maken, vermeld in artikel 4, §1, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, niet voor de bestuursdocumenten, vermeld in artikel 4, §1, eerste lid, 1°, van het voormelde decreet, en de controleverslagen, vermeld in artikel 4, §1, eerste lid, 2°, van het voormelde decreet.<br>
@@ -67,6 +64,10 @@ Artikel 2 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 9° hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
 10° hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.”.
 
+### ART 5.
+
+...
+
 ### ART 6.
 
 Artikel 3 van hetzelfde besluit wordt vervangen door wat volgt:<br>
@@ -80,6 +81,10 @@ Artikel 3 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 6° hoofdstuk 9 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;&nbsp;<br>
 7° hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
 8° hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.”.
+
+### ART 7.
+
+...
 
 ### ART 8.
 
@@ -150,6 +155,10 @@ Voor het opleggen of doen opleggen van publieke herstel- en beveiligingsmaatrege
 In hetzelfde besluit, gewijzigd bij dit besluit, wordt een artikel 8/3 ingevoegd, dat luidt als volgt:<br>
 <br>
 “Art. 8/3. Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1°, van dit besluit, toegankelijk voor de ambtenaren, vermeld in artikel 5.4.1.3, tweede lid, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.”.&nbsp;
+
+### ART 16.
+
+...
 
 ### ART 17.
 
