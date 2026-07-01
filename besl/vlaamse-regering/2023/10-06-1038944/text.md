@@ -188,7 +188,7 @@ In artikel 24 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 
 Artikel 7, 2°, artikel 16, 3° tot en met 6°, artikel 16, 9° tot en met 10°, &nbsp;hebben uitwerking met ingang van 1 juli 2023.<br>
 <br>
-Artikel 5, 4°, treedt in werking op 1 januari 2027.<br>
+Artikel 5, 4°, treedt in werking op 1 januari 2028.<br>
 <br>
 Dit besluit heeft uitwerking met ingang van 1 juli 2022, met uitzondering van de artikelen artikel 16, 7° tot en met 8° en artikel 18 tot en met 21.<br>
 &nbsp;
