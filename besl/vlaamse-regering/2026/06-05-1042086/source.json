@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042086,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-05 tot wijziging van het besluit van de Vlaamse Regering van 17 november 2023 over de digitalisering van de handhaving van diverse Vlaamse regelgeving en het besluit van de Vlaamse Regering van 26 september 2025 tot wijziging van het besluit van de Vlaamse Regering van 17 november 2023 over de digitalisering van de handhaving van diverse Vlaamse regelgeving, wat betreft de implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042086/VolledigDocument?datum=2026-07-01",
+  "source_sha256": "e8a92724162c71dc365795f7c86287333787ca2e62f91e9a145bd5163e2246fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042086&param=informatie",
+  "as_of": "2026-07-01",
+  "made": "2026-06-05",
+  "gazette": "2026-06-19",
+  "numac": 2026004428,
+  "document_start": "2026-07-01",
+  "document_end": null,
+  "in_force": "2026-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
