@@ -45,17 +45,13 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid en de zeevisserij, is belas
 
 ### BIJLAGE I.
 
-Bijlage I bij het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek<br>
-<br>
 Bijlage I. Lijst van gewassen die moeten voldoen aan de CBP-testprotocollen<br>
 <br>
 Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
-1°&nbsp;&nbsp; &nbsp;richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek;&nbsp;<br>
-2°&nbsp;&nbsp; &nbsp;richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
+1° richtlijn 2003/90/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/53/EG van de Raad met betrekking tot de kenmerken waartoe het onderzoek van bepaalde rassen van landbouwgewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek;<br>
+2° richtlijn 2003/91/EG van de Commissie van 6 oktober 2003 houdende bepalingen ter uitvoering van artikel 7 van Richtlĳn 2002/55/EG van de Raad wat betreft de kenmerken waartoe het onderzoek van bepaalde rassen van groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek.<br>
 <br>
-1° landbouwgewassen<br>
-<br>
-&nbsp;
+1° landbouwgewassen
 <table cellspacing="0" style="border-collapse:collapse; width:623px">
 	<tbody>
 		<tr>
@@ -81,7 +77,17 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica napus </em>L. var.<em> napobrassica </em>(L.) Rchb.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">koolraap</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 89/1 van 11.3.2015</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 89/1 rev. van 23.4.2025</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica oleracea </em>L. convar.<em> acephala </em>(DC.) Alef. var.<em> medullosa </em>Thell.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">mergkool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 90/2 van 23.4.2025</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica oleracea </em>L. convar.<em> acephala </em>(DC.) Alef. var.<em> varidis </em>L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">Galicische kool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px">TP 90/2 van 23.4.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:24px; vertical-align:top; width:208px"><em>Brassica rapa </em>L. var.<em> silvestris </em>(Lam.) Briggs</td>
@@ -141,14 +147,12 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Helianthus annuus</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">zonnebloem</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 81/1 van 31.10.2002<br>
-			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 81/1 van 31.10.2002</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Hordeum vulgare</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">gerst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 19/5 van 19.3.2019<br>
-			&nbsp;</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 19/5 van 19.3.2019</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Linum usitatissimum</em> L.</td>
@@ -183,7 +187,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Oryza sativa</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">rijst</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 16/3 van 1.10.2015</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 16/4 van 23.5.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Phleum nodosum </em>L.</td>
@@ -246,7 +250,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 5/1 rev. van 13.2.2025</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Triticum aestivum</em> L. subsp. <em>aestivum</em></td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Triticum aestivum</em> L. subsp. <em>Aestivum</em></td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tarwe</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 3/5 van 19.3.2019</td>
 		</tr>
@@ -278,10 +282,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 	</tbody>
 </table>
 <br>
-2° groentegewassen<br>
-<br>
-<br>
-&nbsp;
+2° groentegewassen
 <table cellspacing="0" style="border-collapse:collapse; width:624px">
 	<tbody>
 		<tr>
@@ -351,13 +352,33 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">boerenkool</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 90/1 van 16.2.2011</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">boerenkoolgroep</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 90/2 van 23.4.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">broccoli</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">broccoli (sprouting-type en calabrese-type)</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 151/2 rev. 3 corr. van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">koolrabi</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 65/2 rev. van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">palmkoolgroep</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 90/2 van 23.4.2025</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassic</em><em>a oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">savooiekool</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 48/3 rev. 3 van 11.4.2024</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">sluitkool (wittekool en rodekool)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 48/3 rev. 3 van 11.4.2024</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
@@ -366,18 +387,13 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica oleracea</em> L.</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">koolrabi</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 65/2 rev. van 11.4.2024</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassic</em><em>a oleracea</em> L.</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">savooiekool, wittekool en rodekool</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 48/3 rev. 3 van 11.4.2024</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tronchudakoolgroep (Portugese kool)</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 90/2 van 23.4.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Brassica rapa</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">Chinese kool</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 105/1 van 13.3.2008</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 105/2 van 23.4.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Capsicum annuum</em> L.</td>
@@ -401,7 +417,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Cichorium intybus</em> L.</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">witlof</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">Witlof</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 173/2 van 21.3.2018</td>
 		</tr>
 		<tr>
@@ -492,7 +508,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Solanum lycope</em><em>rsicum </em>L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">tomaat</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 44/4 rev. 5 van 14.4.2021</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 44/5 van 23.4.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Solanum habrochaites </em>S. Knapp &amp; D.M. Spooner;<em> Solanum lycopersicum </em>L. x<em> Solanum habrochaites </em>S. Knapp &amp; D.M. Spooner;<em> Solanum lycopersicum </em>L. x<em> Solanum peruvianum </em>(L.) Mill.;<em> Solanum pimpinellifolium</em> L. x <em>Solanum habrochaites</em> S. Knapp &amp; D.M. Spooner</td>
@@ -507,7 +523,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Spinacia o</em><em>leracea</em> L.</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">spinazie</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 55/5 rev. 4 van 27.4.2022</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px">TP 55/5 rev. 5 van 23.4.2025</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:23px; vertical-align:top; width:208px"><em>Valerianella locusta</em> (L.) Laterr.</td>
@@ -527,8 +543,7 @@ Deze bijlage voorziet in de gedeeltelijke omzetting van:<br>
 	</tbody>
 </table>
 <br>
-De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (<a href="https://cpvo.europa.eu/en">https://cpvo.europa.eu/en</a>).<br>
-&nbsp;
+De tekst van deze protocollen is te vinden op de website van het Communautair Bureau voor Plantenrassen (CBP) (<a href="https://cpvo.europa.eu/en">https://cpvo.europa.eu/en</a>).
 
 ### BIJLAGE II.
 
