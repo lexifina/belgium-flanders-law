@@ -270,7 +270,7 @@ Artikel 19/1. In afwijking van artikel 8, §3, eerste lid, geldt voor het meedel
 Dit besluit heeft uitwerking met ingang van 1 juli 2021, met uitzondering van:<br>
 1° artikel 4, 4° en artikel 11, die in werking treden op 1 januari 2023;<br>
 2° artikel 14, 17 en 19, die in werking treden op 1 januari 2025;<br>
-3° artikel&nbsp; 6, 8, 12 en 21, die in werking treden op 1 januari 2028.
+3° artikel&nbsp; 6, 8, 12 en 21, die in werking treden op 1 januari 2029.
 
 ### ART 25.
 
