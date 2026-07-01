@@ -73,8 +73,6 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 4. Gezin en maatschappelijk welzijn:<br>
 - Commissie ingesteld bij artikel 32 van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990;<br>
 - de adviescommissies en provinciale comités van Kind en Gezin;<br>
-- de commissies ad hoc opgericht door de raad van bestuur van het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br>
-- de adviescommissie inzake beroep aangetekend tegen het verlenen van vergunningen en erkenningen door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br>
 - Pedagogische commissie voor de Gemeenschapsinstellingen voor bijzondere jeugdbijstand;<br>
 - de Gezins- en Welzijnsraad en de in zijn schoot opgerichte vaste commissies en werkgroepen;<br>
 - de deskundige commissie bedoeld in artikel 4, tweede lid, van het decreet van 15 juli 1997 houdende instelling van het kindeffectrapport en de toetsing van het regeringsbeleid aan de naleving van de rechten van het kind;<br>
