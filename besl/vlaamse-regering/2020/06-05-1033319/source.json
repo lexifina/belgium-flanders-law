@@ -2,16 +2,16 @@
   "codex_id": 1033319,
   "title": "Besluit van de Vlaamse Regering van 2020-06-05 tot afwijking van de multisectoraliteit voor de scholengemeenschap \"Steinerscholen Secundair Onderwijs\", Kasteellaan 54 te 9000 Gent",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033319/VolledigDocument?datum=2020-07-10",
-  "source_sha256": "041773861c1c92fd46ee68e7e24c611c35d670bb24b513ef0b22f73e0f073489",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033319/VolledigDocument?datum=2026-07-01",
+  "source_sha256": "5946598b03693b2311958b1f6ec0fe2ffec74eb1809ae2c1db2df31f99f4830c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033319&param=informatie",
-  "as_of": "2020-07-10",
+  "as_of": "2026-07-01",
   "made": "2020-06-05",
   "gazette": "2020-06-30",
   "numac": 2020015014,
   "document_start": "2020-07-10",
   "document_end": "2026-06-30",
-  "in_force": "2020-07-10",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2020-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-07-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2026-07-01; future article versions excluded; article text as the API gives it"
 }

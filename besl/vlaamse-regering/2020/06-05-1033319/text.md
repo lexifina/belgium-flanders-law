@@ -20,11 +20,3 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Onderwijs, Sport, Die
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
-
-### ART 1.
-
-Onverminderd artikel 55, § 3 van de Codex Secundair Onderwijs van 17 december 2017 wordt met ingang van 1 september 2020 voor de duur van zes schooljaren aan de scholengemeenschap "Steinerscholen Secundair Onderwijs", Kasteellaan 54 te 9000 Gent, een afwijking toegestaan van de voorwaarde van de multisectoraliteit voor het ontbrekende aanbod algemeen secundair onderwijs.
-
-### ART 2.
-
-De Vlaamse minister, bevoegd voor Onderwijs en vorming, is belast met de uitvoering van dit besluit.
