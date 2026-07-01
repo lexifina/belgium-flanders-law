@@ -9,7 +9,7 @@
 2° het decreet : het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 3° het PAB : het persoonlijkassistentiebudget, vermeld in artikel 19/2 van het decreet;<br>
 4° budgethouder: de persoon met een handicap aan wie het agentschap een PAB toekent of zijn wettelijke vertegenwoordiger;<br>
-5° assistentie: elke vorm van individuele ondersteuning die wordt vergoed met PAB en die wordt geboden in een een-op- een relatie aan een persoon met een handicap op basis van een overeenkomst met de persoon met een handicap of zijn wettelijke vertegenwoordiger, waarbij de persoon met een handicap of zijn wettelijke vertegenwoordiger het recht heeft zelf instructie te geven over de inhoud van de ondersteuning, alsook wie de ondersteuning biedt, voor welke taken, op welke tijdstippen en plaatsen, en hoe de individuele ondersteuning moet gebeuren. Hierbij is de persoon met een handicap of zijn wettelijke vertegenwoordiger vrij om de mate van controle over de assistentieverlening te bepalen die overeenkomt met zijn behoeften, bekwaamheden, actuele levensomstandigheden, voorkeuren en betrachtingen;<br>
+5° assistentie: elke vorm van individuele ondersteuning die wordt vergoed met PAB en die wordt geboden in een een-op- een relatie aan een persoon met een handicap op basis van een schriftelijke overeenkomst met de persoon met een handicap of zijn wettelijke vertegenwoordiger, waarbij de persoon met een handicap of zijn wettelijke vertegenwoordiger het recht heeft zelf instructie te geven over de inhoud van de ondersteuning, alsook wie de ondersteuning biedt, voor welke taken, op welke tijdstippen en plaatsen, en hoe de individuele ondersteuning moet gebeuren. Hierbij is de persoon met een handicap of zijn wettelijke vertegenwoordiger vrij om de mate van controle over de assistentieverlening te bepalen die overeenkomt met zijn behoeften, bekwaamheden, actuele levensomstandigheden, voorkeuren en betrachtingen;<br>
 6° jeugdhulpverleningsbeslissing: een jeugdhulpverleningsbeslissing als vermeld in artikel 2, § 1, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 7°...;<br>
 8° ...;<br>
@@ -272,14 +272,14 @@ In afwijking van het derde lid kan de budgethouder in uitzonderlijke gevallen en
 
 ### ART. 12.
 
-§ 1. De budgethouder is opdrachtgever van de persoonlijke assistent en sluit in die hoedanigheid een overeenkomst over de persoonlijke assistentie af. Die overeenkomst kan de vorm aannemen van een van de volgende overeenkomsten:<br>
+§ 1. De budgethouder is opdrachtgever van de persoonlijke assistent en sluit in die hoedanigheid een schriftelijke overeenkomst over de persoonlijke assistentie af. Die overeenkomst kan de vorm aannemen van een van de volgende overeenkomsten:<br>
 1° een arbeidsovereenkomst tussen de budgethouder en de persoonlijke assistent, waarbij de budgethouder als werkgever voldoet aan de fiscale en sociaal-rechterlijke verplichtingen In de voormelde verplichtingen zijn de bepalingen over het minimumloon en de bepalingen over de eindejaarspremie zoals vastgesteld binnen het paritair comité 337, en de bepalingen over verplaatsingen, zoals vastgesteld binnen het paritair sub comité 319.01, inbegrepen;<br>
 2° een overeenkomst, waarbij wordt voorzien in de persoonlijke assistentie van de budgethouder, die de budgethouder sluit met een uitzendkantoor, een zelfstandig dienstverlener of met een voorziening of instelling, die een verklaring op erewoord aan het agentschap voorlegt, waarin staat dat de activiteiten die in het kader van die overeenkomst worden verricht, niet al door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd;<br>
 3° een overeenkomst over de persoonlijke assistentie die gesloten wordt met een familielid dat tot de tweede graad verwant is of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 4° een overeenkomst over de persoonlijke assistentie met een organisatie die vrijwilligers ter beschikking stelt;<br>
 5° een overeenkomst waarbij wordt voorzien in de persoonlijke assistentie van de budgethouder, die de budgethouder sluit met een multifunctioneel centrum;<br>
 <br>
-Naast de overeenkomsten, vermeld in het eerste lid, kan de budgethouder in het kader van de besteding van het PAB ook de volgende overeenkomsten sluiten:<br>
+Naast de overeenkomsten, vermeld in het eerste lid, kan de budgethouder in het kader van de besteding van het PAB ook de volgende schriftelijke overeenkomsten sluiten:<br>
 1° een overeenkomst met een aanbieder van zorg en ondersteuning die vergund of erkend is door het agentschap of geregistreerd is bij het agentschap over het bieden van ondersteuning als vermeld in artikel 10, § 5;<br>
 2° een overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand;<br>
 3° een overeenkomst over het vervoer van de persoon met een handicap.<br>
@@ -362,7 +362,7 @@ De budgethouders verlenen hun medewerking aan de uitoefening van het toezicht do
 
 § 1. Als Zorginspectie of het agentschap vaststelt dat niet is voldaan aan de voorwaarden, vermeld in artikel 10, § 1 tot en met § 3, brengt het agentschap de budgethouder daarvan op de hoogte en informeert het de budgethouder over de aard van de niet-conformiteit.<br>
 <br>
-Na twee vaststellingen van niet-conformiteit als vermeld in het eerste lid, binnen een periode van drie maanden, kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het PAB.<br>
+Na twee vaststellingen van niet-conformiteit als vermeld in het eerste lid, binnen een periode van drie maanden, kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder sluit een schriftelijke overeenkomst met een bijstandsorganisatie waarin wordt voorzien in vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het PAB.<br>
 <br>
 De budgethouder registreert de overeenkomst conform artikel 12, § 3. De vier sessies, vermeld in het tweede lid, zijn afgerond binnen achttien maanden na de beslissing van het agentschap waarin het de budgethouder verwijst naar een bijstandsorganisatie. De bijstandsorganisatie informeert het agentschap over de bijstand die is verleend.<br>
 <br>
@@ -373,7 +373,7 @@ De budgethouder registreert de overeenkomst conform artikel 12, § 3. De vier se
 <br>
 Het agentschap informeert de budgethouder over de beslissing, vermeld in het eerste lid.<br>
 <br>
-De budgethouder sluit een overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand, die wordt vergoed met het PAB. De budgethouder registreert de overeenkomst conform artikel 12, § 3.<br>
+De budgethouder sluit een schriftelijke overeenkomst met een bijstandsorganisatie over het verlenen van hoogdrempelige individuele bijstand, die wordt vergoed met het PAB. De budgethouder registreert de overeenkomst conform artikel 12, § 3.<br>
 <br>
 § 3. Als de budgethouder geen overeenkomst sluit als vermeld in paragraaf 2, derde lid, binnen twee maanden vanaf de datum van de beslissing van het agentschap, vermeld in paragraaf 2, eerste lid, vervalt de toekenning van het PAB.
 
@@ -385,7 +385,7 @@ Als het agentschap vaststelt dat er tijdens een kalenderjaar geen overeenkomsten
 <br>
 Als de budgethouder niet reageert op de brief, vermeld in het tweede lid, binnen dertig dagen nadat die is verzonden, stuurt het agentschap een herinneringsbrief naar de budgethouder.<br>
 <br>
-Als de budgethouder niet reageert op de herinneringsbrief, vermeld in het derde lid, kan het agentschap beslissen dat de budgethouder zich moet laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in minstens vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de persoon met een handicap.<br>
+Als de budgethouder niet reageert op de herinneringsbrief, vermeld in het derde lid, kan het agentschap beslissen dat de budgethouder zich moet laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een schriftelijke overeenkomst met een bijstandsorganisatie waarin wordt voorzien in minstens vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de persoon met een handicap.<br>
 <br>
 De budgethouder deelt de overeenkomst, vermeld in het vierde lid, mee aan het agentschap. De vier sessies, vermeld in het vierde lid, zijn afgerond binnen achttien maanden na de beslissing van het agentschap waarin het de budgethouder verwijst naar een bijstandsorganisatie. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het vierde lid.&nbsp;<br>
 <br>
