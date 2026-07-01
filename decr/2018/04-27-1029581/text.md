@@ -10,6 +10,10 @@ Dit decreet regelt een gemeenschapsaangelegenheid, met uitzondering van artikel 
 
 Dit decreet wordt aangehaald als: het Groeipakketdecreet van 2018.
 
+### ART 1/2.
+
+De toelagen in het kader van het gezinsbeleid worden uitbetaald onder de naam ‘Vlaams Groeipakket’.
+
 ### ART 2.
 
 Dit decreet is van toepassing onder voorbehoud van de toepassing van de samenwerkingsakkoorden, vermeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de bepalingen van het Unierecht, internationale verdragen en protocollen.<br>
@@ -915,65 +919,64 @@ In afwijking van het eerste lid wordt de ondersteuningstoeslag toegekend conform
 
 ### ART 64.
 
-§ 1. Als één persoon als begunstigde van de gezinsbijslagen, vermeld in deel 1 van boek 2, wordt aangewezen, wijst die begunstigde voor de uitbetaling van de toelagen een uitbetalingsactor naar keuze aan en geeft hij een bankrekening op aan de gekozen uitbetalingsactor.<br>
+§1. Als één persoon als begunstigde van de gezinsbijslagen, vermeld in boek 2, deel 1, wordt aangewezen, wijst die begunstigde voor de uitbetaling van de toelagen een uitbetalingsactor naar keuze aan. Die keuze geldt voor alle toelagen in het kader van het gezinsbeleid die aan die begunstigde worden uitbetaald en voor alle kinderen van de begunstigde.<br>
 <br>
-De keuze van uitbetalingsactor en de opgave van de bankrekening door de begunstigde, vermeld in het eerste lid, gelden voor alle toelagen in het kader van het gezinsbeleid die aan hem worden uitbetaald. De keuze geldt voor alle kinderen van de begunstigde.<br>
+De Vlaamse Regering legt de mogelijkheden voor een wijziging van de keuze van uitbetalingsactor vast en bepaalt de nadere regels.<br>
 <br>
-§ 2. De begunstigde kan met een schriftelijk verzoek de uitbetalingsactor of de bankrekening wijzigen.<br>
+De begunstigde geeft voor de uitbetaling van de toelagen een bankrekening op.&nbsp;<br>
 <br>
-Het verzoek tot wijziging van uitbetalingsactor is alleen ontvankelijk als er een minimale aansluiting van één jaar bij de actieve uitbetalingsactor is. De wijziging van uitbetalingsactor gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.<br>
+De opgegeven bankrekening, vermeld in het derde lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan de begunstigde worden uitbetaald en voor alle kinderen van de begunstigde.<br>
+<br>
+§2. De begunstigde kan met een schriftelijk verzoek de bankrekening wijzigen.<br>
 <br>
 De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de maand waarin de wijziging schriftelijk is doorgegeven.<br>
 <br>
-§ 3. Een afwijking van de voorgaande paragrafen is mogelijk nadat de bevoegde rechtbank daarover een uitspraak in het belang van het kind heeft gedaan. De bevoegde rechtbank kan in het belang van het kind oordelen dat de hele gezinsbijslag of een deel ervan wordt uitbetaald op een rekeningnummer dat op naam van het rechtgevende kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
+§3. Een afwijking van&nbsp;paragraaf 1, derde lid, en paragraaf 2 is mogelijk nadat de bevoegde rechtbank daarover een uitspraak in het belang van het kind heeft gedaan. De bevoegde rechtbank kan in het belang van het kind oordelen dat de hele gezinsbijslag of een deel ervan wordt uitbetaald op een op naam van het rechtgevende kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
 <br>
-§ 4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
+§4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
 <br>
-§ 5. Als de begunstigde geen uitbetalingsactor aanwijst, vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, neemt het agentschap de betaling van de betrokken toelagen vanaf die maand op.<br>
+§5. Als de begunstigde geen uitbetalingsactor heeft aangewezen vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, wordt de begunstigde van rechtswege aangesloten bij het agentschap. Het agentschap kan op eigen initiatief de aansluiting overdragen aan een private uitbetalingsactor.<br>
 <br>
-De begunstigde wordt door het agentschap op de hoogte gebracht dat hij gedurende een termijn van drie maanden na de maand waarin de betrokken gebeurtenis zich voordeed, de keuze kan kenbaar maken om aan te sluiten bij een uitbetalingsactor. Deze uitbetalingsactor neemt de betalingen over van het agentschap de maand nadat de begunstigde zijn keuze heeft gemaakt. Indien het agentschap binnen die termijn als uitbetalingsactor wordt gekozen, zet zij de betalingen verder.<br>
-<br>
-Indien de begunstigde niet binnen de in het eerste lid vermelde periode een keuze voor een uitbetalingsactor heeft gemaakt, wordt de begunstigde van rechtswege aangesloten bij het agentschap. De aansluiting van rechtswege heeft dezelfde gevolgen als vermeld in paragraaf 2, tweede lid.<br>
-<br>
-§ 6. De Vlaamse Regering legt de nadere regels vast met betrekking tot de eerste uitbetalingen en de keuze van de bankrekening en bepaalt de voorwaarden voor de keuze van uitbetalingsactor, de mogelijke aansluiting van rechtswege en voor de overdracht tussen uitbetalingsactoren.
+§6. De Vlaamse Regering legt de nadere regels vast voor:<br>
+1° de aansluiting van rechtswege;&nbsp;<br>
+2° de keuze van de bankrekening;&nbsp;<br>
+3° de overdracht tussen uitbetalingsactoren.<br>
+&nbsp;
 
 ### ART 65.
 
-§ 1. Als twee personen als begunstigden van de gezinsbijslagen, vermeld in deel 1 van boek 2, worden aangewezen, bepalen die begunstigden samen welke uitbetalingsactor de toelagen uitbetaalt.<br>
+§1. Als twee personen als begunstigde van de gezinsbijslagen, vermeld in boek 2, deel 1, worden aangewezen, wijzen die begunstigden voor de uitbetaling van de toelagen een uitbetalingsactor aan. Die keuze geldt voor alle toelagen in het kader van het gezinsbeleid die aan die begunstigden worden uitbetaald en voor alle kinderen waarvoor ze samen de begunstigden zijn.<br>
 <br>
-De begunstigden bepalen ook samen aan wie van hen de toelagen, vermeld in het eerste lid, worden uitbetaald door de gekozen uitbetalingsactor. De toelagen kunnen worden uitbetaald aan hen samen of aan een van hen. Ze geven daarvoor een bankrekening op.<br>
+De Vlaamse Regering legt de mogelijkheden voor een wijziging van de keuze van uitbetalingsactor vast en bepaalt de nadere regels.<br>
 <br>
-De keuze van de begunstigden, vermeld in het eerste en tweede lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan hen worden uitbetaald, en voor alle kinderen waarvoor ze samen begunstigden zijn.<br>
+Als twee personen als begunstigden van de gezinsbijslagen, vermeld in boek 2, deel 1, worden aangewezen, bepalen die begunstigden aan wie van hen de toelagen worden uitbetaald. De toelagen kunnen worden uitbetaald aan beide begunstigden samen of aan een van hen. Ze geven daarvoor een bankrekening op.<br>
 <br>
-§ 2. De begunstigden kunnen samen met een schriftelijk verzoek de uitbetalingsactor of de bankrekening wijzigen.<br>
+De opgegeven bankrekening, vermeld in het derde lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan de begunstigden worden uitbetaald en voor alle kinderen van die begunstigden.<br>
 <br>
-Het verzoek tot wijziging van uitbetalingsactor is alleen ontvankelijk als er een minimale aansluiting van één jaar is bij de actieve uitbetalingsactor. De wijziging van uitbetalingsactor gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.<br>
+§2. De begunstigden kunnen met een schriftelijk verzoek de bankrekening wijzigen.<br>
 <br>
 De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de maand waarin de wijziging schriftelijk is doorgegeven.<br>
 <br>
-§ 3. Elk van de begunstigden kan met een schriftelijk verzoek zijn toestemming voor de gekozen uitbetalingsactor of de gekozen bankrekening intrekken.<br>
+§3. Elk van de begunstigden kan met een schriftelijk verzoek zijn toestemming voor de gekozen bankrekening intrekken.<br>
 <br>
-§ 4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
+§4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
 <br>
-§ 5. Als de begunstigden geen uitbetalingsactor aanwijzen, vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, neemt het agentschap de betaling van de betrokken toelagen vanaf die maand op. De begunstigden worden door het agentschap op de hoogte gebracht dat zij gedurende een termijn van drie maanden na de maand waarin de betrokken gebeurtenis zich voordeed, de keuze kunnen kenbaar maken om aan te sluiten bij een uitbetalingsactor. Deze uitbetalingsactor neemt de betalingen over van het agentschap de maand nadat de begunstigden hun keuze hebben gemaakt. Indien het agentschap binnen die termijn als uitbetalingsactor wordt gekozen, zet zij de betalingen verder.<br>
+§5. Als de begunstigden geen uitbetalingsactor hebben aangewezen vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, worden de begunstigden van rechtswege aangesloten bij het agentschap. Het agentschap kan op eigen initiatief de aansluiting overdragen aan een private uitbetalingsactor.<br>
 <br>
-Indien de begunstigden niet binnen de in het eerste lid vermelde periode een keuze voor een uitbetalingsactor hebben gemaakt, worden de begunstigden van rechtswege aangesloten bij het agentschap. De aansluiting van rechtswege heeft dezelfde gevolgen als vermeld in paragraaf 2, tweede lid.<br>
+Als geen van beide begunstigden heeft bepaald op welke bankrekening de toelagen, vermeld in paragraaf 1, aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide begunstigden zijn toestemming intrekt, worden de toelagen uitbetaald aan de jongste begunstigde. Die jongste begunstigde kan een bankrekening kiezen met toepassing van paragraaf 2, tweede lid.<br>
 <br>
-Als beide begunstigden niet bepalen op welke bankrekening de toelagen, vermeld in paragraaf 1, aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide begunstigden zijn toestemming intrekt, worden de toelagen uitbetaald aan de jongste onder hen.&nbsp;De voormelde jongste begunstigde kan een uitbetalingsactor van zijn keuze aanduiden, onder voorbehoud van het bepaalde inzake de minimale aansluiting van één jaar in paragraaf 2, tweede lid, van dit artikel.De voormelde jongste begunstigde kan daarentegen wel degelijk een nieuw bankrekeningnummer kiezen onder toepassing van paragraaf 2, derde lid.<br>
+In afwijking van het eerste en tweede lid en met behoud van de toepassing van artikel 67 wordt, als een van de werkelijke opvoeders een pleegzorger is als vermeld in artikel 59, §2, de toelage, vermeld in paragraaf 1, altijd uitbetaald aan de pleegzorger.<br>
 <br>
-In afwijking daarvan en met behoud van de toepassing van artikel 67 wordt, als een van de werkelijke opvoeders een pleegzorger is als vermeld in artikel 59, § 2, de toelage, vermeld in paragraaf 1, altijd uitbetaald aan de pleegzorger.<br>
+§6. De Vlaamse Regering legt de nadere regels vast voor:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de aansluiting van rechtswege;&nbsp;<br>
+2°&nbsp;&nbsp; &nbsp;de keuze van de bankrekening;<br>
+3°&nbsp;&nbsp; &nbsp;de overdracht tussen uitbetalingsactoren.<br>
 <br>
-§ 6. De Vlaamse Regering legt de uitvoeringsregels vast voor de eerste uitbetalingen en de keuze van de bankrekening en bepaalt de voorwaarden voor de keuze van uitbetalingsactor, de mogelijke aansluiting van rechtswege en voor de overdracht tussen uitbetalingsactoren.<br>
-<br>
-§ 7. Een afwijking van paragraaf 1, 2 en 5 is mogelijk als de bevoegde rechtbank daarover een uitspraak in het belang van het kind heeft gedaan. De bevoegde rechtbank kan in het belang van het kind oordelen dat de gehele gezinsbijslag of een deel ervan wordt uitbetaald op een rekeningnummer dat op naam van het rechtgevende kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
+§7. Een afwijking van paragraaf 1, derde lid, paragraaf 2 en paragraaf 5 is mogelijk als de bevoegde rechtbank daarover een uitspraak in het belang van het kind heeft gedaan. De bevoegde rechtbank kan in het belang van het kind oordelen dat de gehele gezinsbijslag of een deel ervan wordt uitbetaald op een bankrekening die op naam van het rechtgevende kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
 
 ### ART 66.
 
-In afwijking van artikel 65, § 1, tweede lid, wordt het startbedrag geboorte, vermeld in artikel 9, uitbetaald aan de zwangere persoon als het startbedrag geboorte wordt uitbetaald vóór de geboorte van een eerste rechtgevend kind bij de personen die begunstigden worden na de geboorte.<br>
-<br>
-Als de aanvraag van het startbedrag geboorte niet door beide begunstigden wordt ondertekend, kunnen de begunstigden in afwijking van artikel 65, § 2, tweede lid, gedurende drie maanden na de geboorte met een schriftelijk verzoek de uitbetalingsactor wijzigen.<br>
-<br>
-De wijziging van uitbetalingsactor, vermeld in het tweede lid, gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.
+In afwijking van artikel 65, § 1, derde lid, wordt het startbedrag geboorte, vermeld in artikel 9, uitbetaald aan de zwangere persoon als het startbedrag geboorte wordt uitbetaald vóór de geboorte van een eerste rechtgevend kind bij de personen die begunstigden worden na de geboorte.
 
 ### ART 67.
 
@@ -1024,61 +1027,64 @@ De werkelijke opvoeder kan of de twee werkelijke opvoeders kunnen worden aangewe
 
 ### ART 71.
 
-§ 1. Als aan één persoon, hetzij de ouder, de werkelijke opvoeder of de meerderjarige leerling, de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, en de andere toelagen, vermeld in boek 2, deel 3, worden uitbetaald overeenkomstig artikel 70, wijst die persoon een uitbetalingsactor naar keuze aan voor de uitbetaling van de toelagen, en geeft hij aan de gekozen uitbetalingsactor een bankrekening op.<br>
+§1. Als aan één persoon, hetzij de ouder, hetzij de werkelijke opvoeder, hetzij de meerderjarige leerling, de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, en de andere toelagen, vermeld in boek 2, deel 3, worden uitbetaald overeenkomstig artikel 70, wijst die persoon een uitbetalingsactor naar keuze aan voor de uitbetaling van de toelagen. Die keuze geldt voor alle toelagen in het kader van het gezinsbeleid die aan die begunstigde worden uitbetaald en voor alle kinderen van die begunstigde.<br>
 <br>
-De ouder, de werkelijke opvoeder of de meerderjarige leerling kiest één uitbetalingsactor en één bankrekening voor alle toelagen in het kader van het gezinsbeleid die de uitbetalingsactor hem uitbetaalt. De keuze geldt voor alle kinderen van de ouder, de werkelijke opvoeder of de meerderjarige leerling.<br>
+De Vlaamse Regering legt de mogelijkheden voor een wijziging van de keuze van uitbetalingsactor vast en bepaalt de nadere regels.<br>
 <br>
-§ 2. De ouder, de werkelijke opvoeder of de meerderjarige leerling kan met een schriftelijk verzoek de uitbetalingsactor of de bankrekening wijzigen.<br>
+De ouder, de werkelijke opvoeder of de meerderjarige leerling geeft voor de uitbetaling van de toelagen een bankrekening op.&nbsp;<br>
 <br>
-Het verzoek tot wijziging van de uitbetalingsactor is alleen ontvankelijk als er een minimale aansluiting van één jaar is bij de actieve uitbetalingsactor. De wijziging van uitbetalingsactor gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.<br>
+De opgegeven bankrekening, vermeld in het derde lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan de begunstigde worden uitbetaald en voor alle kinderen van die begunstigde.<br>
+<br>
+<br>
+§2. De ouder, de werkelijke opvoeder of de meerderjarige leerling kan met een schriftelijk verzoek de bankrekening wijzigen.<br>
 <br>
 De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de maand waarin de wijziging schriftelijk is doorgegeven.<br>
 <br>
-§ 3. Een afwijking van de voorgaande paragrafen is mogelijk nadat de bevoegde rechtbank daarover een uitspraak in het belang van de leerling of het kind heeft gedaan. De bevoegde rechtbank kan in het belang van de leerling of het kind oordelen dat de hele selectieve participatietoeslag en andere toelagen, of een deel ervan, uitbetaald worden op een bankrekening die op naam van de leerling of het kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
+§3. Een afwijking van paragraaf 1, derde lid, en paragraaf 2 is mogelijk nadat de bevoegde rechtbank daarover een uitspraak in het belang van de leerling of het kind heeft gedaan. De bevoegde rechtbank kan in het belang van de leerling of het kind oordelen dat de hele selectieve participatietoeslag en andere toelagen, of een deel ervan, uitbetaald worden op een bankrekening die op naam van de leerling of het kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
 <br>
-§ 4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
+§4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
 <br>
-§ 5. Als de ouder, de werkelijke opvoeder of de meerderjarige leerling geen uitbetalingsactor aanwijst, vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, neemt het agentschap de betaling van de betrokken toelagen vanaf die maand op.<br>
+§5. Als de ouder, de werkelijke opvoeder of de meerderjarige leerling geen uitbetalingsactor heeft aangewezen vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, wordt de begunstigde van rechtswege aangesloten bij het agentschap. Het agentschap kan op eigen initiatief de aansluiting overdragen aan een private uitbetalingsactor.<br>
 <br>
-De ouder, de werkelijke opvoeder of de meerderjarige leerling wordt door het agentschap op de hoogte gebracht dat hij gedurende een termijn van drie maanden na de maand waarin de betrokken gebeurtenis zich voordeed, de keuze kan kenbaar maken om aan te sluiten bij een uitbetalingsactor. Deze uitbetalingsactor neemt de betalingen over van het agentschap de maand nadat de ouder, de werkelijke opvoeder of de meerderjarige leerling zijn keuze heeft gemaakt. Indien het agentschap binnen die termijn als uitbetalingsactor wordt gekozen, zet zij de betalingen verder.<br>
-<br>
-Indien de ouder, de werkelijke opvoeder of de meerderjarige leerling niet binnen de in het eerste lid vermelde periode een keuze voor een uitbetalingsactor heeft gemaakt, wordt de begunstigde van rechtswege aangesloten bij het agentschap. De ouder, de werkelijke opvoeder of meerderjarige leerling kan slechts wijzigen van uitbetalingsactor onder dezelfde voorwaarden als bepaald in paragraaf 2, tweede lid.<br>
-<br>
-§ 6. De Vlaamse Regering legt de nadere regels vast voor de eerste uitbetalingen en de keuze van de bankrekening en bepaalt de voorwaarden voor de keuze van uitbetalingsactor, de mogelijke aansluiting van rechtswege en voor de overdracht tussen uitbetalingsactoren.
+§6. De Vlaamse Regering legt de nadere regels vast voor:<br>
+1° de aansluiting van rechtswege;<br>
+2° de keuze van de bankrekening;<br>
+3° de overdracht tussen uitbetalingsactoren.
 
 ### ART 72.
 
-§ 1. Als aan twee personen, hetzij de ouders, hetzij de werkelijke opvoeders, de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, en de andere toelagen, vermeld in boek 2, deel 3, worden uitbetaald overeenkomstig artikel 70, bepalen die samen welke uitbetalingsactor de toelagen aan hen uitbetaalt.<br>
+§1. Als aan twee personen, hetzij de ouders, hetzij de werkelijke opvoeders, de selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, en de andere toelagen, vermeld in boek 2, deel 3, worden uitbetaald overeenkomstig artikel 70, wijzen die personen de uitbetalingsactor aan die de toelagen aan hen uitbetaalt. Die keuze geldt voor alle toelagen in het kader van het gezinsbeleid die aan die begunstigden worden uitbetaald en voor alle kinderen waarvoor ze samen de begunstigden zijn.<br>
 <br>
-De ouders en de werkelijke opvoeders bepalen ook samen aan wie van hen de gekozen uitbetalingsactor de selectieve participatietoeslagen leerling en de andere toelagen uitbetaalt. De selectieve participatietoeslagen leerling en de andere toelagen kunnen aan hen samen uitbetaald worden, of ze kunnen toegewezen worden aan een van hen. Ze geven daarvoor een bankrekening op.<br>
+De Vlaamse Regering legt de mogelijkheden voor een wijziging van de keuze van uitbetalingsactor vast en bepaalt de nadere regels.<br>
 <br>
-De keuze van de ouders of de werkelijke opvoeders, vermeld in het eerste en tweede lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan hen worden uitbetaald, en voor alle kinderen voor wie ze samen een uitbetaling ontvangen.<br>
+De ouders en de werkelijke opvoeders bepalen ook aan wie van hen de gekozen uitbetalingsactor de selectieve participatietoeslagen leerling en de andere toelagen uitbetaalt. De selectieve participatietoeslagen leerling en de andere toelagen kunnen worden uitbetaald aan beide begunstigden samen of aan een van hen. Ze geven daarvoor een bankrekening op.<br>
 <br>
-§ 2. De ouders of de werkelijke opvoeders kunnen samen met een schriftelijk verzoek de uitbetalingsactor of bankrekening wijzigen.<br>
+De opgegeven bankrekening, vermeld in het derde lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan de begunstigden worden uitbetaald en voor alle kinderen van die begunstigden.<br>
 <br>
-Het verzoek tot wijziging van uitbetalingsactor is alleen ontvankelijk als er een minimale aansluiting van één jaar is bij de actieve uitbetalingsactor. De wijziging van uitbetalingsactor gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.<br>
+§2. De ouders of de werkelijke opvoeders kunnen met een schriftelijk verzoek de bankrekening wijzigen.<br>
 <br>
 De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de maand waarin de wijziging schriftelijk is doorgegeven.<br>
 <br>
-§ 3. Elk van beide ouders of werkelijke opvoeders kan met een schriftelijk verzoek zijn toestemming voor de gekozen uitbetalingsactor of de gekozen bankrekening intrekken.<br>
+§3. Elk van beide ouders of werkelijke opvoeders kan met een schriftelijk verzoek zijn toestemming voor de gekozen bankrekening intrekken.<br>
 <br>
-§ 4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
+§4. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
 <br>
-§ 5. Als de ouders of werkelijke opvoeders geen uitbetalingsactor aanwijzen, vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, neemt het agentschap de betaling van de betrokken toelagen vanaf die maand op. De ouders of werkelijke opvoeders worden door het agentschap op de hoogte gebracht dat ze gedurende een termijn van drie maanden na de maand waarin de betrokken gebeurtenis zich voordeed, de keuze kunnen kenbaar maken om aan te sluiten bij een uitbetalingsactor. Deze uitbetalingsactor neemt de betalingen over van het agentschap de maand nadat de ouders of werkelijke opvoeders hun keuze hebben gemaakt. Indien het agentschap binnen die termijn als uitbetalingsactor wordt gekozen, zet zij de betalingen verder.<br>
+§5. Als de ouders of werkelijke opvoeders geen uitbetalingsactor aanwijzen vóór de eerste dag van de maand die volgt op de maand waarin de gebeurtenis die aanleiding geeft tot het openen van het recht zich voordoet, worden de begunstigden van rechtswege aangesloten bij het agentschap. Het agentschap kan op eigen initiatief de aansluiting overdragen aan een private uitbetalingsactor.<br>
 <br>
-Indien de ouders of werkelijke opvoeders niet binnen de in het eerste lid vermelde periode een keuze voor een uitbetalingsactor hebben gemaakt, wordt de begunstigde van rechtswege aangesloten bij het agentschap. De aansluiting van rechtswege heeft dezelfde gevolgen als vermeld in paragraaf 2, tweede lid.<br>
+Als beide ouders of de werkelijke opvoeders niet bepalen op welke bankrekening de selectieve participatietoeslagen leerling en de andere toelagen aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide ouders of werkelijke opvoeders zijn toestemming intrekt, worden de selectieve participatietoeslagen leerling en de andere toelagen uitbetaald aan de jongste begunstigde. Die jongste ouder of jongste werkelijke opvoeder kan een bankrekening kiezen met toepassing van paragraaf 2, tweede lid.<br>
 <br>
-Als beide ouders of de werkelijke opvoeders niet bepalen op welke bankrekening de selectieve participatietoeslagen leerling en de andere toelagen aan hen moeten worden uitbetaald vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, of als een van beide ouders of werkelijke opvoeders zijn toestemming intrekt, worden de selectieve participatietoeslagen leerling en de andere toelagen uitbetaald aan de jongste onder hen.&nbsp;De voormelde jongste ouder of werkelijke opvoeder kan een uitbetalingsactor van zijn keuze aanwijzen, onder voorbehoud van de bepaling over de minimale aansluiting van één jaar in paragraaf 2, tweede lid. De voormelde jongste ouder of werkelijke opvoeder kan daarentegen een nieuw bankrekeningnummer kiezen conform paragraaf 2, derde lid.<br>
+In afwijking van het eerste en tweede lid worden, als een van de werkelijke opvoeders een pleegzorger is als vermeld in artikel 59, §2, de toelagen, vermeld in paragraaf 1, altijd uitbetaald aan de pleegzorger.&nbsp;<br>
 <br>
-In afwijking daarvan worden, als een van de werkelijke opvoeders een pleegzorger is als vermeld in artikel 59, § 2, de toelagen, vermeld in paragraaf 1, altijd uitbetaald aan de pleegzorger.<br>
+§6. De Vlaamse Regering legt de nadere regels vast voor:<br>
+1° de aansluiting van rechtswege;<br>
+2° de keuze van de bankrekening;&nbsp;<br>
+3° de overdracht tussen uitbetalingsactoren.<br>
 <br>
-§ 6. De Vlaamse Regering legt de regels vast voor de eerste uitbetalingen en de keuze van de bankrekening en bepaalt de voorwaarden voor de keuze van uitbetalingsactor, de mogelijke aansluiting van rechtswege en voor de overdracht tussen uitbetalingsactoren.<br>
-<br>
-§ 7. Een afwijking van paragraaf 1, 2 en 5 is mogelijk nadat de bevoegde rechtbank daarover in het belang van de betrokken leerling of het betrokken kind een uitspraak heeft gedaan. De bevoegde rechtbank kan oordelen dat in het belang van de betrokken leerling of het betrokken kind de hele selectieve participatietoeslag en de andere toelagen, of een deel ervan, uitbetaald worden op een bankrekening die op naam van de leerling of het kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
+§7. Een afwijking van paragraaf 1, derde lid, paragraaf 2 en paragraaf 5, tweede lid is mogelijk nadat de bevoegde rechtbank daarover in het belang van de betrokken leerling of het betrokken kind een uitspraak heeft gedaan. De bevoegde rechtbank kan oordelen dat in het belang van de betrokken leerling of het betrokken kind de hele selectieve participatietoeslag en de andere toelagen, of een deel ervan, uitbetaald worden op een bankrekening die op naam van de leerling of het kind staat. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.
 
 ### ART 73.
 
-§ 1. De selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, worden rechtstreeks uitbetaald aan de rechthebbende leerling:<br>
+§1. De selectieve participatietoeslagen leerling, vermeld in boek 2, deel 2, titel 1, worden rechtstreeks uitbetaald aan de rechthebbende leerling:<br>
 1° als hij behoort tot een categorie van gezin als vermeld in artikel 38, § 1, 3°, 4° of 5° ;<br>
 2° als hij ontvoogd is of de leeftijd van zestien jaar bereikt heeft en zijn woonplaats niet bij de ouders of de werkelijke opvoeders heeft. Aan die laatste voorwaarde is voldaan als de leerling beschikt over een afzonderlijke woonplaats, die als hoofdverblijf is ingeschreven in de bevolkingsregisters overeenkomstig artikel 32, 3°, van het Gerechtelijk Wetboek, of als met officiële documenten wordt aangetoond dat de gegevens in de bevolkingsregisters niet of niet meer overeenstemmen met de realiteit;<br>
 3° als hij zelf begunstigde is van toelagen in het kader van het gezinsbeleid voor een of meer van zijn kinderen;<br>
@@ -1090,27 +1096,25 @@ De Vlaamse Regering kan de wijze bepalen waarop de leerling, vermeld in het eers
 <br>
 De leerling, vermeld in het eerste lid, is rechtsbekwaam om zelf als eiser of verweerder in rechte op te treden in de geschillen over zijn rechten op selectieve participatietoeslagen leerling, met behoud van de toepassing van artikel 9, §1, van titel XIII, hoofdstuk 6, van de Programmawet (I) van 24 december 2002.<br>
 <br>
-§ 2. De leerling, vermeld in paragraaf 1, of de persoon die is aangewezen door de leerling, wijst een uitbetalingsactor naar keuze aan voor de uitbetaling van de selectieve participatietoeslagen leerling, en geeft een bankrekening op.<br>
+§2. De leerling, vermeld in paragraaf 1, of de persoon die de leerling heeft aangewezen, wijst een uitbetalingsactor naar keuze aan voor de uitbetaling van de selectieve participatietoeslagen leerling. Die keuze geldt voor alle toelagen in het kader van het gezinsbeleid die aan die begunstigde worden uitbetaald en voor alle kinderen van de leerling.<br>
 <br>
-De leerling, vermeld in paragraaf 1, of de persoon die is aangewezen door de leerling, wijst één uitbetalingsactor en één bankrekening aan voor alle toelagen in het kader van het gezinsbeleid die aan hem worden uitbetaald.<br>
+De Vlaamse Regering legt de mogelijkheden voor een wijziging van de keuze van uitbetalingsactor vast en bepaalt de nadere regels.<br>
 <br>
-§ 3. De leerling, vermeld in paragraaf 1, of de persoon die is aangewezen door de leerling, kan met een schriftelijk verzoek de uitbetalingsactor of de bankrekening wijzigen.<br>
+De leerling, vermeld in paragraaf 1, of de persoon die de leerling heeft aangewezen, geeft een bankrekening op.<br>
 <br>
-Het verzoek tot wijziging van uitbetalingsactor is alleen ontvankelijk als er een minimale aansluiting van één jaar is bij de actieve uitbetalingsactor. De wijziging van uitbetalingsactor gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een ontvankelijk wijzigingsverzoek is ingediend.<br>
+De opgegeven bankrekening, vermeld in het derde lid, geldt voor alle toelagen in het kader van het gezinsbeleid die aan de begunstigde worden uitbetaald en voor alle kinderen van de begunstigde.<br>
+<br>
+§3. De leerling, vermeld in paragraaf 1, of de persoon die is aangewezen door de leerling, kan met een schriftelijk verzoek de bankrekening wijzigen.<br>
 <br>
 De wijziging van bankrekening gaat ten laatste in vanaf de maand die volgt op de maand waarin de wijziging schriftelijk is doorgegeven.<br>
 <br>
-§ 4. Een afwijking van de voorgaande paragrafen is mogelijk nadat de bevoegde rechtbank daarover in het belang van de leerling een uitspraak heeft gedaan. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
+§4. Een afwijking van de paragraaf 1 en 3 is mogelijk nadat de bevoegde rechtbank daarover in het belang van de leerling een uitspraak heeft gedaan. De meest gerede partij bezorgt de gerechtelijke uitspraak aan de uitbetalingsactor.<br>
 <br>
-§ 5. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
+§5. Een wijziging van uitbetalingsactor heeft geen gevolgen voor een openstaande schuld bij de actieve uitbetalingsactor. De openstaande schuld volgt de wijziging van uitbetalingsactor. Bij verschillende schulden primeert de oudste schuld.<br>
 <br>
-§ 6. Als de leerling, vermeld in paragraaf 1, of de persoon die door de leerling is aangewezen, geen uitbetalingsactor aanwijst vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, is het agentschap bevoegd.<br>
+§6. Als de leerling, vermeld in paragraaf 1, of de persoon die de leerling heeft aangewezen, geen uitbetalingsactor aanwijst vóór de eerste van de maand die volgt op de maand waarin het recht is ontstaan, neemt het agentschap de toekenning en de betaling van de toelagen in kwestie vanaf die maand op zich en wordt de begunstigde van rechtswege aangesloten bij het agentschap. Het agentschap kan op eigen initiatief de aansluiting overdragen aan een private uitbetalingsactor.<br>
 <br>
-De leerling, vermeld in paragraaf 1, of de persoon die door de leerling is aangewezen wordt door het agentschap op de hoogte gebracht dat hij gedurende een termijn van drie maanden na de aansluiting van rechtswege, de keuze kenbaar kan maken om aan te sluiten bij een andere uitbetalingsactor. De wijziging van uitbetalingsactor gaat in vanaf het eerste kwartaal dat volgt op het kwartaal waarin een wijzigingsverzoek werd ingediend.<br>
-<br>
-Na deze periode heeft de aansluiting van rechtswege dezelfde gevolgen als vermeld in paragraaf 2, tweede lid.<br>
-<br>
-§ 7. De Vlaamse Regering legt de regels vast voor de aansluiting van rechtswege, bepaalt de verdere regels inzake de keuze voor de uitbetalingsactor en de bankrekening en de overdracht tussen uitbetalingsactoren.
+§7. De Vlaamse Regering legt de nadere regels vast voor de aansluiting van rechtswege, de keuze van de bankrekening en de overdracht tussen uitbetalingsactoren.
 
 ### ART 74.
 
