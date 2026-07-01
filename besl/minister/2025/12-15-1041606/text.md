@@ -102,6 +102,67 @@ vervangen door de rij:<br>
 </table>
 “.”
 
+### ART 9.
+
+Bijlage 18/3 van hetzelfde besluit, vervangen bij het besluit van 27 november 2023, wordt vervangen door bijlage 1 bij dit besluit.
+
+### ART 10.
+
+In Bijlage 18/4 van hetzelfde besluit, vervangen door het ministerieel besluit van 27 november 2023 worden volgende wijzigingen aangebracht:<br>
+1° In VI.3.1 stap 2 wordt in Tabel 5, de rij<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">
+			<ul>
+				<li>Warmtenet</li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">
+			<ul>
+				<li>‘Energie-efficiënt’, ‘Niet energie-efficiënt’</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;“<br>
+vervangen door de rij:<br>
+“
+<table cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">
+			<ul>
+				<li>Warmtenet</li>
+			</ul>
+			</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:302px">
+			<ul>
+				<li>‘Detailberekening’, ‘Energie-efficiënt’, ‘Niet energie-efficiënt’&nbsp;</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+“.”<br>
+2° In VI.3.1 stap 3 wordt de zinsnede ‘Energie-efficiënte of niet energie-efficiënte opwekker (energiedrager = warmtenet)” vervangen door de zinsnede “Detailberekening, energie-efficiënte of niet energie-efficiënte opwekker (energiedrager = warmtenet)”;<br>
+3° In VI.7 wordt de zinsnede “Er wordt een onderscheid gemaakt tussen een 'energie-efficiënt' en een 'niet-energie-efficiënt warmtenet' (zie VI.7.2).” opgeheven.<br>
+4° VI.7.2 wordt vervangen door wat volgt:<br>
+“Indien er numerieke detailinformatie beschikbaar is over het warmtenet, dan wordt het warmtenet ingevoerd onder ‘Detailberekening’. Indien er geen numerieke detailinformatie beschikbaar is, dan wordt de keuze gemaakt tussen een energie-efficiënt of niet-energie-efficiënt warmtenet.<br>
+VI.7.2.1. Warmtenet ‘Detailberekening’<br>
+De numerieke detailinformatie moet bestaan uit ofwel 1 jaarlijkse omrekenfactor ofwel uit 12 maandelijkse omrekenfactoren naar primaire energie. De omrekenfactoren moeten afkomstig zijn uit minstens één van de volgende bronnen:<br>
+1. Uit de warmtekaart te vinden via de officiële website van VEKA<br>
+2. Uit het tabblad “resultaten” van rekenblad 8, afkomstig van de officiële website van VEKA<sup>1</sup>, ingevuld door de uitbater van het warmtenet, of een partij aangesteld door de uitbater van het warmtenet. In dit tabblad staan de factoren onder "Resultaat systeem externe warmtelevering equivalente primaire energiefactor", de invoergegevens onder "Voor ruimteverwarming, warm tapwater en bevochtiging"<br>
+Numerieke detailinformatie uit andere bronnen mag niet gebruikt worden. Indien er numerieke detailinformatie beschikbaar is uit zowel de warmtekaart als uit een rekenblad, dan heeft de warmtekaart voorrang op het rekenblad.<br>
+VI.7.2.2. Warmtenet ‘Energie-efficiënt’ of ‘Niet-energie-efficiënt’<br>
+Een warmtenet is ‘energie-efficiënt’ als de warmte (gedeeltelijk) afkomstig is van hernieuwbare energiebronnen (diepe geothermie, zonnewarmte, warmtepomp of &nbsp;biomassa) restwarmte van afvalverbranding of industriële processen warmte van een warmtekrachtkoppeling (WKK) ofwel een combinatie van deze technologieën.<br>
+Dit kan afgeleid worden uit bewijsstukken, zoals lastenboeken, WKK-certificaten, milieu- en omgevingsvergunningen of technische documentatie van het warmtenet of de WKK-installatie. Voor grootschalige warmtenetten kan u de herkomst van de warmte navragen bij de stad, gemeente of de uitbater van het warmtenet.<br>
+Een ‘niet energie-efficiënt warmtenet’ voldoet niet aan deze voorwaarde. Dat is bijvoorbeeld het geval wanneer de warmte afkomstig is van een grootschalige ketel.<br>
+Indien niet kan worden aangetoond dat het warmtenet efficiënt is of in geval van <strong>twijfel</strong>, wordt het warmtenet als ‘niet energie-efficiënt’ beschouwd.<br>
+(<sup>1</sup>) Zie <a href="https://www.vlaanderen.be/epb-pedia/technieken/verwarming-koeling-en-sanitair-warm-water/externe-warmtelevering/externe-warmte-rekenmethode/externe-warmte-rekenbladen">https://www.vlaanderen.be/epb-pedia/technieken/verwarming-koeling-en-sanitair-warm-water/externe-warmtelevering/externe-warmte-rekenmethode/externe-warmte-rekenbladen</a>”.”
+
 ### ART 11.
 
 Bijlage 18/6 van hetzelfde besluit, vervangen bij het ministerieel besluit van 29 oktober 2024, wordt vervangen door bijlage 2 bij dit besluit.
@@ -145,6 +206,10 @@ Bijlage 26/3 van hetzelfde besluit, ingevoegd bij het ministerieel besluit van 1
 ### ART 21.
 
 Dit besluit treedt in werking op 1 januari 2026 met uitzondering van artikelen 9 en 10 die in werking treden op 1 juli 2026.
+
+### BIJLAGE 1
+
+Vervanging van bijlage 18/3 van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten, de certificering van aannemers en installateurs en de renovatieverplichting&nbsp;→ link naar de bijlage nog toevoegen
 
 ### BIJLAGE 2
 
