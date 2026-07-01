@@ -87,7 +87,7 @@ b) het niveau van bachelor in het hoger professioneel onderwijs of het academisc
 c) het niveau van master;<br>
 d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsonderdelen;</p>
 
-<p>16° bijna-beursstudent : een student die onderdaan is van een staat behorende tot de Europese Economische ruimte of voldoet aan de voorwaarden bepaald in artikel 9 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap en die geen studietoelage van de Vlaamse Gemeenschap ontvangt, maar waarvan het referentie-inkomen ten hoogste 3000 euro ligt boven de financiële maximumgrens, bepaald in de regelgeving betreffende de studietoelagen. Het bedrag van 3000 euro wordt geïndexeerd overeenkomstig artikel II.218;</p>
+<p>16° bijna-beursstudent: een student die onderdaan is van een staat behorende tot de Europese Economische ruimte of voldoet aan de voorwaarden, vermeld in artikel 9 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, die geen studietoelage van de Vlaamse Gemeenschap ontvangt, maar van wie het referentie-inkomen ten hoogste 3900 euro boven de financiële maximumgrens ligt die is bepaald in de regelgeving over de studietoelagen. Het basisbedrag van 3900 euro is het bedrag voor het academiejaar 2024-2025 en wordt geïndexeerd overeenkomstig artikel II.218, §1, tweede lid;;</p>
 
 <p>17°creditbewijs : de erkenning van het feit dat een student blijkens een examen de competenties, verbonden aan een opleidingsonderdeel, heeft verworven. Deze erkenning wordt vastgelegd in een document of een registratie. De verworven studiepunten, verbonden aan het betrokken opleidingsonderdeel, worden aangeduid als “credits”;</p>
 
@@ -738,21 +738,45 @@ Onverminderd het eerste lid worden personeelsleden, bedoeld in artikel II.31, 1�
 
 ### ART. II.37.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. De VLUHR verstrekt adviezen en doet voorstellen aan de Vlaamse minister, bevoegd voor het onderwijs, en aan de Vlaamse minister, bevoegd voor wetenschap en innovatie. De VLUHR kan ook overleg onder de hogescholen, universiteiten of associaties organiseren. Het overleg, de adviezen en de voorstellen betreffen alle aangelegenheden die de Vlaamse hogescholen, universiteiten en associaties aanbelangen.<br>
+<p>§1. De VLUHR verstrekt adviezen en doet voorstellen aan de Vlaamse minister, bevoegd voor het onderwijs, en aan de Vlaamse minister, bevoegd voor wetenschap en innovatie. De VLUHR kan ook overleg onder de hogescholen, universiteiten of associaties organiseren. Het overleg, de adviezen en de voorstellen betreffen alle aangelegenheden die de Vlaamse hogescholen, universiteiten en associaties aanbelangen.<br>
 <br>
 §2. De VLUHR is bevoegd voor de externe kwaliteitsbeoordelingen in de instellingen zoals bepaald in artikel II.122. De VLUHR kan daartoe een verzelfstandigd orgaan oprichten.<br>
 <br>
 De leden van het verzelfstandigd orgaan, vermeld in het eerste lid, moeten expertise hebben met betrekking tot kwaliteitszorg van opleidingen van het hoger beroepsonderwijs, het hoger professioneel onderwijs en het academisch onderwijs.<br>
 <br>
+§2/1. De VLUHR richt een expertisecentrum voor inclusief onderwijs met een focus op hoger onderwijs op. Het expertisecentrum heeft als opdracht de instellingen te begeleiden en te ondersteunen bij de ondersteuning van studenten met een inclusienood, met bijzondere aandacht voor de inclusie van studenten met een functiebeperking ter implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.<br>
+<br>
 §3. Op vraag van de Vlaamse Regering en de Commissie Hoger Onderwijs verstrekt de VLUHR adviezen in diverse materies.<br>
 <br>
-§4. De VLUHR moet ook aspecten zoals internationalisering, ontwikkelingssamenwerking en wetenschap en innovatie op volwaardige manier aan bod laten komen binnen zijn werking.<br>
+§4. De VLUHR moet ook aspecten zoals internationalisering, ontwikkelingssamenwerking, wetenschap, innovatie en de ondersteuning van studenten met een inclusienood op volwaardige manier aan bod laten komen binnen zijn werking.<br>
 <br>
 §5. De VLUHR fungeert als forum voor interassociatieoverleg.</p>
 
 ### ART. II.38.
 
 <P style="MARGIN: 0cm 0cm 0pt; tab-stops: -84.0pt">§1. De VLUHR vertegenwoordigt   alle hogescholen, alle universiteiten en alle associaties in de Vlaamse   Gemeenschap.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; tab-stops: -84.0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De VLUHR kan andere   natuurlijke personen of rechtspersonen uitnodigen om zijn vergaderingen bij te   wonen.</P>
+
+### ART II.38/1.
+
+De Vlaamse Regering en de VLUHR sluiten ten aanzien van de organisatie van het expertisecentrum voor inclusief onderwijs vijfjaarlijks een convenant waarin al de volgende elementen zijn opgenomen:<br>
+1°&nbsp;&nbsp; &nbsp;de aansturingsmogelijkheden van de Vlaamse Regering en de wijze waarop relevante actoren uit het inclusieveld worden betrokken;<br>
+2°&nbsp;&nbsp; &nbsp;de minimale resultaatsverbintenissen van het expertisecentrum voor inclusief onderwijs, met de focus op hoger onderwijs;<br>
+3°&nbsp;&nbsp; &nbsp;de minimale behoorlijkheidsvereisten op het vlak van het financieel management, en ook de mogelijkheden om een bepaalde financiële reserve aan te leggen van maximaal 20%per jaar van de werkingsenveloppe die in een bepaald jaar is toegekend. De totale gecumuleerde reserve op basis van de werkingsenveloppe bedraagt maximaal 50% van de jaarlijkse werkingsenveloppe;<br>
+4°&nbsp;&nbsp; &nbsp;de rapporterings- en controlemechanismen, in het bijzonder de wijze waarop het expertisecentrum voor inclusief onderwijs wordt geëvalueerd. Deze evaluatie wordt steeds afgerond in de eerste helft van het vijfde kalenderjaar van het lopende convenant;<br>
+5°&nbsp;&nbsp; &nbsp;de remediërende en sanctionerende maatregelen in geval van niet-naleving van het convenant;<br>
+6°&nbsp;&nbsp; &nbsp;de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd.<br>
+&nbsp;
+
+### ART II.38/2.
+
+Als de VLUHR een overeenkomst sluit met de Vlaamse Regering, krijgt ze jaarlijks recht op een werkingsenveloppe voor het expertisecentrum voor inclusief onderwijs.<br>
+<br>
+De Vlaamse Regering bepaalt, rekening houdend met de beschikbare begrotingskredieten, de grootte van de jaarlijkse werkingsenveloppe van het expertisecentrum, vermeld in artikel II.37, §2/1, en ook de wijze van vereffening ervan. De werkingsenveloppe wordt geïndexeerd volgens de formule vastgesteld om de werkingsuitkering van de universiteiten en hogescholen te indexeren, vermeld in artikel III.5, §9.<br>
+&nbsp;
+
+### ART II.38/3.
+
+De hogescholen en de universiteiten kunnen in het kader van de opdracht van de VLUHR, vermeld in artikel II.37, §2/1, personeelsleden met hun instemming belasten met een opdracht bij de VLUHR. De betrokken personeelsleden blijven gedurende de uitoefening van de opdracht bij de VLUHR juridisch en administratief behoren tot de universiteit of hogeschool die hen ter beschikking stelt.
 
 ### ART. II.39.
 
@@ -3781,7 +3805,11 @@ De bepalingen in het eerste en tweede lid gelden niet voor een inschrijving in e
 
 ### ART. II.218.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De in deze onderafdeling   bedoelde bedragen worden jaarlijks aangepast aan de evolutie van de   gezondheidsindex. De referentiedatum voor de jaarlijkse aanpassing is 1   september 2015.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De bedragen bedoeld in de   artikelen II.209 en II.213 worden naar het dichtstbijzijnde decimaal afgerond   tot één cijfer na de komma.</P>
+<p>§1. De in deze onderafdeling bedoelde bedragen worden jaarlijks aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de jaarlijkse aanpassing is 1 september 2015.<br>
+<br>
+In afwijking van het eerste lid wordt het basisbedrag, vermeld in artikel I.3, 16°, aangepast overeenkomstig de procentuele stijging van de gezondheidsindex voor de maand december (basis 1996) van het tweede kalenderjaar vóór het jaar waarin het academiejaar in kwestie begint, ten opzichte van de gezondheidsindex voor de maand december (basis 1996) van het derde kalenderjaar vóór het jaar waarin het academiejaar in kwestie begint. De stijging wordt afgerond naar het hogere tiende. Het resultaat van de indexatie van het bedrag, vermeld in artikel I.3, 16°, wordt afgerond op het dichtstbijzijnde geheel getal.<br>
+<br>
+§2. De bedragen bedoeld in de artikelen II.209 en II.213 worden naar het dichtstbijzijnde decimaal afgerond tot één cijfer na de komma.</p>
 
 ## Onderafdeling 2 Bijdrage voor het bekwaamheidsonderzoek
 
@@ -10484,35 +10512,35 @@ De Vlaamse Regering kan een deel van de financiële ondersteuning inhouden en zo
 <br>
 Vanaf het begrotingsjaar 2024 wordt het bedrag, vermeld in het tweede lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.
 
-## [Hoofdstuk 9 Steunpunt Inclusief Hoger Onderwijs (SIHO) (ing. decr. 25 april 2014, art. VI.28, I: 1 juli 2014)]
+## Hoofdstuk 9 ...
 
 ### ART. III.98/1.
 
-De Vlaamse Regering is ertoe gemachtigd om onder de in volgende artikelen   vermelde voorwaarden over te gaan tot erkenning van het door de verenigde   associaties opgerichte Steunpunt Inclusief Hoger Onderwijs.
+...
 
 ### ART. III.98/2.
 
-Het Steunpunt Inclusief Hoger Onderwijs heeft als opdracht het begeleiden   en ondersteunen van de instellingen bij de implementatie van de VN-conventie van   13 december 2006 over de rechten van personen met een handicap. Centraal bij die   implementatie staat het verbeteren van de participatie van studenten met   functiebeperkingen in het Vlaams hoger onderwijs.
+...
 
 ### ART. III.98/3.
 
-§ 1. Het Steunpunt Inclusief Hoger Onderwijs bezit geen   rechtspersoonlijkheid.<BR><BR>§ 2. De associaties duiden een administratief   coördinerende instelling of instantie aan. De associaties sluiten met de   administratief coördinerende instelling of instantie een   samenwerkingsovereenkomst waarin de bestuurs- en beheersstructuur wordt   bepaald.
+...
 
 ### ART. III.98/4.
 
-De Vlaamse Regering en de associaties sluiten ten aanzien van de   organisatie van het Steunpunt Inclusief Hoger Onderwijs vijfjaarlijks een   convenant waarin ten minste de volgende elementen zijn opgenomen:<BR>1° de   aansturingsmogelijkheden van de Vlaamse Regering;<BR>2° de minimale   resultaatsverbintenissen van het Steunpunt Inclusief Hoger Onderwijs;<BR>3° de   minimale behoorlijkheidsvereisten op het vlak van het financieel management,   evenals de mogelijkheden om een bepaalde financiële reserve aan te leggen van   maximaal 20 procent per jaar van de werkingsenveloppe die in een bepaald jaar is   toegekend. De totale gecumuleerde reserve op basis van de werkingsenveloppe mag   maximaal 50 procent van de jaarlijkse werkingsenveloppe bedragen;<BR>4° de   rapporterings- en controlemechanismen, in het bijzonder de wijze van evaluatie   van het Steunpunt Inclusief Hoger Onderwijs in de tweede helft van het vijfde   kalenderjaar van het lopende convenant;<BR>5° de remediërende en sanctionerende   maatregelen in geval van niet-naleving van het convenant;<BR>6° de gevallen   waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden   gewijzigd.
+...
 
 ### ART. III.98/5.
 
-De administratief coördinerende instelling of instantie bezorgt met   betrekking tot de werking van het Steunpunt Inclusief Hoger Onderwijs jaarlijks   een afzonderlijke begroting, jaarplanning, jaarrekening en jaarverslag aan de   Vlaamse Regering.
+...
 
 ### ART. III.98/6.
 
-Het sluiten van een convenant met de Vlaamse Regering doet in hoofde van   de administratief coördinerende instelling of instantie een recht ontstaan op   een jaarlijkse werkingsenveloppe ten behoeve van de werking van het betrokken   Steunpunt Inclusief Hoger Onderwijs.<BR><BR>De Vlaamse Regering bepaalt,   rekening houdend met de beschikbare begrotingskredieten, de grootte van de   jaarlijkse werkingsenveloppe, evenals de wijze van vereffening ervan. De   werkingsenveloppe wordt geïndexeerd volgens de formule vastgesteld voor de   indexering van de werkingsuitkering van de universiteiten en   hogescholen.
+...
 
 ### ART. III.98/7.
 
-De partners bij de associaties kunnen personeelsleden met hun instemming   belasten met een taak bij het Steunpunt Inclusief Hoger Onderwijs. De betrokken   personeelsleden blijven gedurende de uitoefening van deze taak juridisch en   administratief behoren tot de terbeschikkingstellende universiteit of   hogeschool.
+...
 
 ## [Hoofdstuk 10. Onderwijskundig beleidsen praktijkgericht wetenschappelijk onderzoek (ing. Decr. 9 juli 2021, art. 220, I: 1 september 2021)]
 
