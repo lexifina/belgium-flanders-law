@@ -33,6 +33,30 @@ In artikel 6.1 van het Besluit Vlaamse Codex Wonen van 2021, gewijzigd bij het b
 2° in het eerste lid, 4°, b), wordt tussen het woord “verblijft” en het woord “en” de zinsnede “of uit huis geplaatst is als de ouders niet uit de ouderlijke macht zijn ontzet,” ingevoegd;<br>
 3° in het vijfde lid wordt de zinsnede “en 4°” vervangen door de zinsnede “en 5°”.&nbsp;
 
+### ART 3.
+
+Artikel 6.4 van hetzelfde besluit wordt vervangen door wat volgt:&nbsp;<br>
+<br>
+“Art. 6.4. §1. Het agentschap wordt aangewezen als de entiteit die het centraal woningregister, vermeld in artikel 6.4 van de Vlaamse Codex Wonen van 2021, bijhoudt.&nbsp;<br>
+ &nbsp;<br>
+In het centraal woningregister, vermeld in het eerste lid, worden gegevens van de sociale huurwoningen als vermeld in paragraaf 2, bijgehouden.<br>
+ &nbsp;<br>
+De gegevens, vermeld in paragraaf 2, worden geregistreerd op een gedigitaliseerde en geautomatiseerde wijze.<br>
+ &nbsp;<br>
+§2. Minstens al de volgende gegevens van sociale huurwoningen worden geregistreerd in het centraal woningregister, vermeld in paragraaf 1, eerste lid:<br>
+1° de gegevens die nodig zijn voor de beoordeling van het prestatieveld, vermeld in artikel 4.104, §1/1, 2°, van dit besluit;&nbsp;<br>
+2° de gegevens die nodig zijn voor de toekenning van de premie voor de energetische renovatie en herbouw van sociale huurwoningen, vermeld in artikel 5.49 van dit besluit;&nbsp;<br>
+3° de gegevens die nodig zijn voor de bepaling van de marktwaarde, vermeld in artikel 6.46, eerste lid, van dit besluit;&nbsp;<br>
+4° de gegevens die nodig zijn om de energiecorrectie, vermeld in artikel 6.50 van dit besluit, te berekenen;&nbsp;<br>
+5° de gegevens die nodig zijn om de vergoeding, vermeld in artikel 6.25, eerste lid, van de Vlaamse Codex Wonen van 2021, conform artikel 6.60 van dit besluit te berekenen;&nbsp;<br>
+6° de gegevens die nodig zijn om de subsidie, vermeld in artikel 4.160/3 en 4.160/6 van dit besluit, te berekenen.<br>
+ &nbsp;<br>
+§3. Het agentschap stelt een technisch reglement op met de regels voor het formaat en de techniek van data-uitwisseling tussen de verhuurder en het centraal woningregister, vermeld in paragraaf 1, eerste lid.<br>
+ &nbsp;<br>
+Het agentschap wijst de personeelsleden aan die het centraal woningregister, vermeld in paragraaf 1, eerste lid, beheren. Die personeelsleden kunnen de gegevens, vermeld in paragraaf 2, aanvullen, aanpassen en verwijderen.&nbsp;<br>
+&nbsp;<br>
+Om het centraal woningregister, vermeld in paragraaf 1, eerste lid, te controleren, heeft de toezichthouder toegang tot alle gegevens in dat register.”.
+
 ### ART 5.
 
 In artikel 6.8 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021 en gewijzigd bij de besluiten van de Vlaamse Regering van 8 september 2023 en 3 mei 2024, worden de volgende wijzigingen aangebracht:<br>
@@ -48,6 +72,10 @@ In artikel 6.9 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse R
 1° in het derde lid, 4°, wordt het woord “tweede” vervangen door het woord “derde”;<br>
 2° in het vijfde lid, 2°, wordt de zinsnede “eerste lid, 6°” vervangen door de zinsnede “derde lid, 3°”.
 
+### ART 7.
+
+In artikel 6.16, derde lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2021, worden de woorden “geplaatst zijn” vervangen door de zinsnede “uit huis geplaatst zijn op voorwaarde dat de ouders niet uit de ouderlijke macht zijn ontzet,” en worden de woorden “heeft en die niet op duurzame wijze in de woning zullen verblijven” vervangen door de woorden “met verblijfsrecht heeft”.
+
 ### ART 8.
 
 In artikel 6.22 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021, worden de volgende wijzigingen aangebracht:<br>
@@ -61,11 +89,39 @@ Aan artikel 6.35 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse
 <br>
 “Bij de doorverwijzing, vermeld in het vijfde en zesde lid, kan de verhuurder de contactgegevens van de huurder aan het OCMW of de welzijns- of gezondheidsvoorziening bezorgen zodat die instanties in voorkomend geval de huurder kunnen contacteren.”.
 
+### ART 13.
+
+In artikel 6.51, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 13 februari 2026, wordt tussen de zinsnede “a),” en de woorden “die ook” de zinsnede “of b),” ingevoegd.
+
 ### ART 14.
 
 In artikel 6.65 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2021 en 23 december 2022, worden de volgende wijzigingen aangebracht:<br>
 1° in het eerste lid worden de woorden “en gezinsleden” vervangen door de zinsnede “, gezinsleden en in voorkomend geval de uithuisgeplaatste kinderen, vermeld in artikel 6.16, vierde lid,”;<br>
 2° in het tweede lid, 1°, en het vijfde lid wordt tussen het woord “gezinsleden” en het woord “de” de zinsnede “en in voorkomend geval de uithuisgeplaatste kinderen, vermeld in artikel 6.16, vierde lid,” ingevoegd.
+
+### ART 15.
+
+In artikel 7.51/8, §2, achtste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 februari 2026, wordt de zinsnede “zesde, zevende en achtste” vervangen door de zinsnede “vijfde, zesde en zevende”.
+
+### ART 16.
+
+In bijlage 25 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021 en gewijzigd bij de besluiten van de Vlaamse Regering van 11 februari 2022 en 14 maart 2025, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede “, geboortedatum en geboorteplaats” vervangen door de woorden “en geboortedatum”;<br>
+2° er wordt een artikel 2/1 ingevoegd, dat luidt als volgt:<br>
+“Artikel 2/1. Woonrecht&nbsp;<br>
+(Schrap wat niet van toepassing is.)<br>
+De huurder heeft met toepassing van artikel 6.28, derde lid, van de Vlaamse Codex Wonen van 2021, een woonrecht van onbepaalde duur.<br>
+De huurder heeft met toepassing van artikel 6.27 van de Vlaamse Codex Wonen van 2021, een woonrecht van negen jaar. Op basis van dat woonrecht kan hij gedurende negen jaar een sociale huurwoning huren via een of meer opeenvolgende huurovereenkomsten. De verhuurder heeft in voorkomend geval een herhuisvestingsplicht zodat het woonrecht kan worden uitgeoefend. Het woonrecht startte op dd/mm/jjjj. Als de huurder op het einde van het woonrecht van negen jaar aan de voorwaarden, vermeld in artikel 6.27, §2, eerste lid, voldoet, wordt het woonrecht verlengd met drie jaar. Het woonrecht wordt vervolgens telkens met drie jaar verlengd als de voorwaarden zijn vervuld.”.
+
+### ART 17.
+
+In bijlage 26 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 december 2021 en gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2025, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede “, geboortedatum en geboorteplaats” vervangen door de woorden “en geboortedatum”;<br>
+2° er wordt een artikel 2/1 ingevoegd, dat luidt als volgt:<br>
+“Artikel 2/1. Woonrecht&nbsp;<br>
+(Schrap wat niet van toepassing is.)<br>
+De onderhuurder heeft met toepassing van artikel 6.28, derde lid, van de Vlaamse Codex Wonen van 2021, een woonrecht van onbepaalde duur.<br>
+De onderhuurder heeft met toepassing van artikel 6.27 van de Vlaamse Codex Wonen van 2021, een woonrecht van negen jaar. Op basis van dat woonrecht kan hij gedurende negen jaar een sociale huurwoning huren via een of meer opeenvolgende huurovereenkomsten. De verhuurder heeft in voorkomend geval een herhuisvestingsplicht zodat het woonrecht kan worden uitgeoefend. Het woonrecht startte op dd/mm/jjjj. Als de onderhuurder op het einde van het woonrecht van negen jaar aan de voorwaarden, vermeld in artikel 6.27, §2, eerste lid, voldoet, wordt het woonrecht verlengd met drie jaar. Het woonrecht wordt vervolgens telkens met drie jaar verlengd als de voorwaarden zijn vervuld.”.
 
 ## Hoofdstuk 2. Slotbepalingen
 
