@@ -2,16 +2,16 @@
   "codex_id": 1042014,
   "title": "Besluit van de Vlaamse Regering van 2026-04-30 tot toevoeging van het product maatregelenregister voor overdracht op het Vastgoedinformatieplatform, in het kader van de informatieplichten, vermeld in artikel 83, §4 en §5, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en tot wijziging van het besluit van de Vlaamse Regering van 20 september 2024 houdende uitvoering van het decreet van 22 december 2023 over het Vastgoedinformatieplatform, wat betreft de retributies en de controle, schorsing en opheffing van de toegang tot het VIP en tot wijziging van diverse besluiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042014/VolledigDocument?datum=2026-05-01",
-  "source_sha256": "ce93395d742463c4a68be3c222ff3e8390533ff77ce6dd73d0ff0903e74fdc7a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042014/VolledigDocument?datum=2026-07-01",
+  "source_sha256": "1a7d65a014617afd33254b405110dc04cce2a54e6e512f1ff8048cbd2ae44b9c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042014&param=informatie",
-  "as_of": "2026-05-01",
+  "as_of": "2026-07-01",
   "made": "2026-04-30",
   "gazette": "2026-05-18",
   "numac": 2026003655,
   "document_start": "2026-05-01",
   "document_end": null,
-  "in_force": "2026-05-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2026-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-07-01; future article versions excluded; article text as the API gives it"
 }

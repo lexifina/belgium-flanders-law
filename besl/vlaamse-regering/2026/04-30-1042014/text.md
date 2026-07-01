@@ -60,6 +60,19 @@ De platformretributie na indexering wordt afgerond naar de hogere tien cent.
 
 ## Hoofdstuk 3. De bronretributie, vermeld in artikel 83, §6, tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023
 
+### ART 5.
+
+§1. De bronretributie, vermeld in artikel 83, §6, tweede lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, voor de raadplegingen, vermeld in artikel 83, §4 en §5, van het voormelde decreet, bedraagt 6,50 euro exclusief btw, per perceel of per aaneengesloten deel als de grond geen perceelnummer heeft en in het grondgebied ligt van één gemeente.<br>
+<br>
+§2. De bronretributie, vermeld in paragraaf 1, is gekoppeld aan de schommelingen van het indexcijfer en wordt berekend met de volgende formule: geïndexeerd tarief = bronretributie x nieuw indexcijfer/basisindexcijfer, waarbij:<br>
+1° basisindexcijfer: het indexcijfer van de consumptieprijzen van de maand vóór de maand waarin de bronretributie is vastgelegd conform paragraaf 1;<br>
+2° nieuw indexcijfer: het indexcijfer van de consumptieprijzen van de maand vóór de maand van de indexatie waarop de bronretributie slaat;<br>
+3° bronretributie: de bronretributie, vermeld in paragraaf 1.<br>
+<br>
+Het bedrag van de bronretributie wordt geïndexeerd op 1 januari van elk jaar.<br>
+<br>
+De bronretributie na indexering wordt afgerond naar de hogere tien cent.
+
 ## Hoofdstuk 4. Wijziging van het besluit van de Vlaamse Regering van 20 september 2024 houdende uitvoering van het decreet van 22 december 2023 over het Vastgoedinformatieplatform, wat betreft de retributies en de controle, schorsing en opheffing van de toegang tot het VIP en tot wijziging van diverse besluiten
 
 ### ART 6.
