@@ -366,20 +366,24 @@ Het personeelslid dat zijn loopbaan wil onderbreken om palliatieve verzorging te
 
 ### ART 31/1.
 
-Personeelsleden die erkend mantelzorger zijn van een zorgbehoevende persoon, hebben recht op loopbaanonderbreking voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen. Ze hebben daarvoor een van de volgende opties:<br>
+§1. Personeelsleden die erkend mantelzorger zijn van een zorgbehoevende persoon, hebben recht op loopbaanonderbreking voor mantelzorg conform artikel 100ter en 102ter van de wet van 22 januari 1985 houdende sociale bepalingen. Ze hebben daarvoor een van de volgende opties:<br>
 1° hun loopbaan volledig onderbreken in periodes van een maand of een veelvoud daarvan;<br>
 2° hun loopbaan halftijds onderbreken in periodes van twee maanden of een veelvoud daarvan, op voorwaarde dat het personeelslid in een ambt met volledige prestaties is aangesteld;<br>
-3° hun loopbaan met een vijfde onderbreken, in periodes van twee maanden of een veelvoud daarvan, op voorwaarde dat het personeelslid aangesteld is in een ambt met volledige prestaties.<br>
+3° hun loopbaan met een vijfde onderbreken, in periodes van vijf maanden of een veelvoud daarvan, op voorwaarde dat het personeelslid aangesteld is in een ambt met volledige prestaties.<br>
 <br>
-In het eerste lid wordt verstaan onder erkend mantelzorger: de persoon van wie de hoedanigheid van mantelzorger erkend is conform hoofdstuk 3 van de wet van 12 mei 2014 betreffende de erkenning van de mantelzorger.
+In het eerste lid wordt verstaan onder erkend mantelzorger: de persoon van wie de hoedanigheid van mantelzorger erkend is conform hoofdstuk 3 van de wet van 12 mei 2014 betreffende de erkenning van de mantelzorger.<br>
+<br>
+§2. In afwijking van paragraaf 1, eerste lid, 1°, kan de voltijdse loopbaanonderbreking ook worden opgesplitst in periodes van een week of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid.&nbsp;<br>
+<br>
+In afwijking van paragraaf 1, eerste lid, 2°, kan de halftijdse loopbaanonderbreking ook worden opgesplitst in periodes van een maand of een veelvoud daarvan. De inrichtende macht kan die opnamevorm weigeren. De inrichtende macht deelt die gemotiveerde beslissing schriftelijk mee aan het personeelslid.
 
 ### ART 31/2.
 
-Een personeelslid heeft recht op drie maanden voltijdse loopbaanonderbreking per zorgbehoevende persoon of zes maanden gedeeltelijke loopbaanonderbreking per zorgbehoevende persoon.<br>
+Een personeelslid heeft per zorgbehoevende persoon recht op zes maanden voltijdse loopbaanonderbreking of twaalf maanden halftijdse loopbaanonderbreking of dertig maanden loopbaanonderbreking met een vijfde.<br>
 <br>
-Het recht op volledige loopbaanonderbreking voor mantelzorg bedraagt maximaal zes maanden over de gehele beroepsloopbaan. Het recht op gedeeltelijke loopbaanonderbreking voor mantelzorg bedraagt maximaal twaalf maanden over de gehele beroepsloopbaan.<br>
+Het recht op volledige loopbaanonderbreking voor mantelzorg bedraagt maximaal zes maanden over de volledige beroepsloopbaan. Het recht op halftijdse loopbaanonderbreking voor mantelzorg bedraagt maximaal twaalf maanden over de volledige beroepsloopbaan. Het recht op loopbaanonderbreking met een vijfde voor mantelzorg bedraagt maximaal dertig maanden over de volledige beroepsloopbaan.<br>
 <br>
-Voor de toepassing van dit artikel moet rekening gehouden worden met het principe dat één maand volledige loopbaanonderbreking overeenkomt met twee maanden gedeeltelijke loopbaanonderbreking.
+Voor de toepassing van dit artikel moet rekening gehouden worden met het principe dat een maand volledige loopbaanonderbreking overeenkomt met twee maanden halftijdse loopbaanonderbreking of met vijf maanden loopbaanonderbreking met een vijfde.
 
 ### ART 31/3.
 
@@ -398,7 +402,8 @@ De loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand, voor pal
 De volgende vormen van loopbaanonderbreking zijn geen recht:<br>
 1° de loopbaanonderbreking voor ouderschapsverlof met een tiende;<br>
 2° de loopbaanonderbreking voor ouderschapsverlof die wordt opgenomen conform artikel 22/1;<br>
-3° de loopbaanonderbreking voor medische bijstand die wordt opgenomen conform artikel 27, § 3.
+3° de loopbaanonderbreking voor medische bijstand die wordt opgenomen conform artikel 27, § 3;<br>
+4° de loopbaanonderbreking voor mantelzorg die wordt opgenomen conform artikel 31/1, §2.
 
 ### ART. 33.
 
