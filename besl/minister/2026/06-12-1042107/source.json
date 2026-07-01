@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042107,
+  "title": "Ministerieel besluit van 2026-06-12 tot wijziging van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten, de certificering van aannemers en installateurs, en de renovatieverplichting, wat betreft de vorm en inhoud van het energieprestatiecertificaat residentieel en het energieprestatiecertificaat klein niet-residentieel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042107/VolledigDocument?datum=2026-07-01",
+  "source_sha256": "225bc7590df143fed29d0260747a659a0f88a47b2fc2c4efff55775fa011e472",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042107&param=informatie",
+  "as_of": "2026-07-01",
+  "made": "2026-06-12",
+  "gazette": "2026-06-24",
+  "numac": 2026004567,
+  "document_start": "2026-07-01",
+  "document_end": null,
+  "in_force": "2026-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
