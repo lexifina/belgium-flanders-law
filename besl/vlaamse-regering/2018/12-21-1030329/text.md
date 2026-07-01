@@ -57,38 +57,40 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-§ 1. De arbeidsmarktgerichte opleiding, vermeld in artikel 109, § 1, 1°, a), b) en e), 2°, 3°, 4°, van de wet van 22 januari 1985, geeft recht op Vlaams opleidingsverlof als ze aan de volgende voorwaarden voldoet:<br>
-1° ze leidt tot het verwerven van ten minste een van de volgende groepen van competenties:<br>
-a) basiscompetenties;<br>
-b) beroepsspecifieke competenties;<br>
-c) algemene arbeidsmarktcompetenties;<br>
-2° ze omvat per jaar minstens 32 contacturen of minstens 3 studiepunten, met uitzondering van examencontracten, of minstens 32 uur opleidingstijd voor een opleiding via blended leren;<br>
-3° ze wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
-4° ze is geregistreerd bij het departement volgens de procedure, vermeld in afdeling 3 van dit hoofdstuk;<br>
-5° in geval van blended leren heeft de opleidingsverstrekker bij de indiening van de aanvraag tot registratie meegedeeld welk learning management systeem hij voor de opleiding hanteert en hoe hij het doorlopen van het leerproces en het behalen van de vooropgezette leerdoelstellingen zal opvolgen.<br>
+§1. De arbeidsmarktgerichte opleidingen, vermeld in artikel 107ter, 2°, van de wet van 22 januari 1985, geven recht op Vlaams opleidingsverlof als ze aan de volgende voorwaarden voldoen:<br>
+1°&nbsp;&nbsp; &nbsp;de opleiding behoort tot een van de volgende categorieën:<br>
+a)&nbsp;&nbsp; &nbsp;de opleiding is gericht op een van de volgende basiscompetenties:<br>
+1)&nbsp;&nbsp; &nbsp;basisgeletterdheid;<br>
+2)&nbsp;&nbsp; &nbsp;rekenvaardigheid;&nbsp;<br>
+3)&nbsp;&nbsp; &nbsp;digitale basisvaardigheid;<br>
+4)&nbsp;&nbsp; &nbsp;mediawijsheid;<br>
+5)&nbsp;&nbsp; &nbsp;Nederlands voor anderstaligen;<br>
+b)&nbsp;&nbsp; &nbsp;de opleiding is een taalopleiding Nederlands, Frans, Duits of Engels, die leidt tot de verwerving van het niveau B1 of lager van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen van de Raad van Europa en die onderhevig is aan extern toezicht op het kwaliteitsniveau van de opleiding;&nbsp;<br>
+c)&nbsp;&nbsp; &nbsp;de opleiding geeft toegang tot ten minste één knelpuntberoep dat is opgenomen in de recentste lijst van knelpuntberoepen die op de VDAB-website is bekendgemaakt;<br>
+d)&nbsp;&nbsp; &nbsp;de opleiding is gericht op de aanpak van de klimaat- en energietransitie of de digitale transitie;<br>
+e)&nbsp;&nbsp; &nbsp;de opleiding is gericht op het aanleren van technologische, technische, exact-wetenschappelijke of wiskundige kennis en de toepassing ervan in beroepen. STEM-opleidingen die gepubliceerd worden op de Onderwijskiezerwebsite en opleidingen die leiden tot een STEM-beroep volgens de afbakening van VDAB, voldoen aan die voorwaarde;<br>
+f)&nbsp;&nbsp; &nbsp;de opleiding speelt in op een toekomstig tekort aan competenties dat aangetoond wordt door een competentieprognose op macro- of mesoniveau die uitgevoerd wordt conform de methodiek van het Vlaamse Arbeidsmarktonderzoek voor de Toekomst of op een manier die wetenschappelijk verantwoord, onderbouwd en aantoonbaar is;<br>
+g)&nbsp;&nbsp; &nbsp;de opleiding is een mentoropleiding;<br>
+h)&nbsp;&nbsp; &nbsp;de opleiding is gericht op deelname aan het sociaal overleg op ondernemingsniveau als werknemers- of werkgeversvertegenwoordiger;<br>
+i)&nbsp;&nbsp; &nbsp;de opleiding leidt tot een eerste diploma secundair onderwijs;<br>
+2°&nbsp;&nbsp; &nbsp;de opleiding omvat per jaar minstens 32 contacturen of minstens 3 studiepunten of minstens 32 uur opleidingstijd voor een opleiding via blended leren;<br>
+3°&nbsp;&nbsp; &nbsp;de opleiding wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+4°&nbsp;&nbsp; &nbsp;de opleiding is geregistreerd bij het departement volgens de registratieprocedure, vermeld in afdeling 3;<br>
+5°&nbsp;&nbsp; &nbsp;in geval van een opleiding via blended leren heeft de opleidingsverstrekker bij de indiening van de aanvraag tot registratie meegedeeld welk learningmanagementsysteem die voor de opleiding hanteert en hoe die het doorlopen van het leerproces en het behalen van de vooropgezette leerdoelstellingen zal opvolgen en kan aantonen.<br>
 <br>
-In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3°, 4° en 5° en qua opleidingsinhoud al de volgende voorwaarden:&nbsp;<br>
-1°&nbsp;&nbsp; &nbsp;technieken aanleren om het opleidingsplan te personaliseren;&nbsp;<br>
-2°&nbsp;&nbsp; &nbsp;vaardigheden bijbrengen om personen die op een werkvloer een opleiding krijgen:<br>
+De minister kan de categorieën, vermeld in het eerste lid, 1°, nader omschrijven. De minister deelt dit ministerieel besluit, na bespreking op de Vlaamse opleidingscommissie, na advies van de SERV en na overleg binnen de Vlaamse Regering, mee aan de Vlaamse Regering.&nbsp;<br>
+<br>
+In afwijking van het eerste lid gelden voor een mentoropleiding uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3°, en 4°, en gelden voor de opleidingsinhoud al de volgende voorwaarden: <br>
+1°&nbsp;&nbsp; &nbsp; technieken aanleren om het opleidingsplan te personaliseren; <br>
+2°&nbsp;&nbsp; &nbsp; vaardigheden bijbrengen om personen die op de werkvloer een opleiding krijgen:<br>
 a)&nbsp;&nbsp; &nbsp;instructies te geven;<br>
 b)&nbsp;&nbsp; &nbsp;te motiveren;<br>
 c)&nbsp;&nbsp; &nbsp;hun vorderingen op te volgen;<br>
 d)&nbsp;&nbsp; &nbsp;bij te sturen;<br>
-e)&nbsp;&nbsp; &nbsp;te evalueren;<br>
+e)&nbsp;&nbsp; &nbsp; te evalueren;<br>
 f)&nbsp;&nbsp; &nbsp;feedback te geven.<br>
 <br>
-Om te voldoen aan de voorwaarde, vermeld in het eerste lid, 2°, kunnen modules uit verschillende arbeidsmarktgerichte opleidingen van eenzelfde opleidingsverstrekker gecombineerd worden of moeten de aparte modules als arbeidsmarktgerichte opleidingen zijn geregistreerd.<br>
-<br>
-De minister specificeert de competenties in het eerste lid, 1°, en stelt een beoordelingssysteem vast om na te gaan of een opleiding voldoet aan de voorwaarde, vermeld in het eerste lid, 1°. De minister deelt dit ministerieel besluit, na consultatie van de sociale partners en na overleg binnen de Vlaamse Regering, mee aan de Vlaamse Regering.<br>
-<br>
-Volgende activiteiten geven geen recht op Vlaams opleidingsverlof:<br>
-1° onthaaltrajecten;<br>
-2° begeleiding van een startende collega door meter/peter;<br>
-3° een online aanbod van opleidingsvideo’s;<br>
-4° lunch and learn sessies;<br>
-5° bedrijfstheater;&nbsp;<br>
-6° lerende netwerken;<br>
-7° intervisie.<br>
+In afwijking van het eerste lid gelden voor de trajecten die gericht zijn op de voorbereiding op en het afleggen van examens voor de examencommissie secundair onderwijs, vermeld in artikel 256/1 van de codex secundair onderwijs, en de examencommissie basisonderwijs, vermeld in artikel 56 van het decreet basisonderwijs van 25 februari 1997, en voor de trajecten die gericht zijn op het laten beoordelen en certificeren van eerder verworven competenties bij een EVC-testcentrum, erkend door de Vlaamse Gemeenschap, als vermeld in artikel 5 van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties, uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3° en 4°.<br>
 <br>
 § 2. De arbeidsmarktgerichte opleiding, vermeld in artikel 109, § 1, 1°, c), d), van de wet van 22 januari 1985, geeft recht op Vlaams opleidingsverlof als ze voldoet aan de voorwaarden, vermeld in paragraaf 1, 1°, 3° en 4°.<br>
 <br>
