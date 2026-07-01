@@ -87,7 +87,14 @@ In titel 2, hoofdstuk 4, wordt verstaan onder :<br>
 4°/1° vervoer over de weg van goederen: het vervoer van elk goed dat op een voertuig kan worden geladen of afgeladen, met inbegrip van het vervoer van werktuigen en gereedschapsmachines en van werktuigvoertuigen, alsook het vervoer van elk goed door die werktuigen, gereedschapsmachines en werktuigvoertuigen, als ze worden gebruikt op een niet-geconcedeerde weg;<br>
 5° Viapass : het publiekrechtelijk vormgegeven interregionaal samenwerkingsverband in de vorm van een gemeenschappelijke instelling als vermeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, vermeld in artikel 18 van het samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 6° voertuig : een motorvoertuig of een samenstel van voertuigen, bedoeld of gebruikt, al dan niet uitsluitend, voor het vervoer over de weg van goederen, waarvan het maximaal toegestane totaalgewicht meer dan 3,5 ton bedraagt;<br>
-7° weg : de landwegen en de aanhorigheden ervan.<br>
+7° weg : de landwegen en de aanhorigheden ervan;<br>
+8° emissiearm voertuig: een voertuig dat beantwoordt aan de voorwaarden, vermeld in artikel 3, punt 12, van verordening (EU) 2019/1242 van het Europees Parlement en de Raad van 20 juni 2019 tot vaststelling van CO2-emissienormen voor nieuwe zware bedrijfsvoertuigen en tot wijziging van Verordeningen (EG) nr. 595/2009 en (EU) 2018/956 van het Europees Parlement en de Raad en Richtlijn 96/53/EG van de Raad;<br>
+9° CO2-emissieklasse: de CO2-emissieklasse, vermeld in artikel 7 octies bis en bijlage III quater van richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van wegeninfrastructuur aan voertuigen, waarbij een onderscheid wordt gemaakt tussen de volgende vijf CO2-emissieklassen:&nbsp;<br>
+a) CO2-emissieklasse 1: voertuigen die niet tot de CO2-emissieklasse 2 tot en met 5 behoren;<br>
+b) CO2-emissieklasse 2: voertuigen van de subgroep voertuigen sg die voor het eerst zijn geregistreerd in de rapporteringsperiode van jaar Y met CO2-emissies van meer dan 5 procent lager dan het emissiereductietraject voor de rapporteringsperiode van jaar Y en de subgroep voertuigen sg, maar die niet onder CO2-emissieklasse 3 tot en met 5 vallen;<br>
+c) CO2-emissieklasse 3: voertuigen van de subgroep voertuigen sg die voor het eerst zijn geregistreerd in de rapporteringsperiode van jaar Y met CO2-emissies van meer dan 8 procent lager dan het emissiereductietraject voor de rapporteringsperiode van jaar Y en de subgroep voertuigen sg, maar die niet onder CO2-emissieklasse 4 of 5 vallen;<br>
+d) CO2-emissieklasse 4: emissiearme voertuigen;<br>
+e) CO2-emissieklasse 5: emissievrije voertuigen.<br>
 <br>
 In titel 2, hoofdstuk 7 en hoofdstuk 8, wordt verstaan onder :<br>
 1° beurswaarde : de slotkoers van een financieel instrument, zoals die als koersinformatie beschikbaar is in de gespecialiseerde pers of in gespecialiseerde elektronisch raadpleegbare bronnen;<br>
@@ -2872,33 +2879,87 @@ De wegen of wegsegmenten die onder een van de wegtypes, vermeld in de bovenstaan
 5° En = variatie in functie van de hoogte van de EURO-emissieklasse, vermeld in artikel 1.1.0.0.2, vijfde lid, 1;<br>
 6° Et = variatie in functie van de tijd;<br>
 7° Ep = variatie in functie van de plaats;<br>
-8° Ex = toeslag in functie van de door het voertuig veroorzaakte externe kosten, in functie van de hoogte van de EURO-emissieklasse, gedifferentieerd volgens de volgende tabel :<br>
+8° &nbsp;&nbsp; &nbsp;Ex = toeslag in functie van de externe kosten die het voertuig heeft veroorzaakt, in functie van de hoogte van de CO2-emissieklasse en de EURO-emissieklasse, gedifferentieerd volgens de volgende tabel:<br>
 &nbsp;
-<table border="1" cellspacing="0">
+<table cellspacing="0" style="border-collapse:collapse; width:13.0cm">
 	<tbody>
 		<tr>
-			<td>EURO-emissieklasse</td>
-			<td>Ex</td>
+			<td colspan="2" rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:1px solid black; height:20px; vertical-align:bottom; width:189px">&nbsp;</td>
+			<td colspan="3" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:20px; vertical-align:bottom; width:302px">maximaal toegestane totaalgewicht</td>
 		</tr>
 		<tr>
-			<td>EURO 6 of hoger</td>
-			<td>1,2</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:72px; width:85px">hoger dan 3,5 ton en lager dan 12 ton</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:72px; width:104px">hoger dan of gelijk aan 12 ton en niet hoger dan of gelijk aan 32 ton</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:72px; width:113px">hoger dan 32 ton</td>
 		</tr>
 		<tr>
-			<td>EURO 5 of EEV</td>
-			<td>2,2</td>
+			<td rowspan="7" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:top; width:94px"><br>
+			<br>
+			CO<sub>2</sub>-emissieklasse 1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro 0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">12,2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">14,2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">15,7</td>
 		</tr>
 		<tr>
-			<td>EURO 4</td>
-			<td>3,4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro I</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">11,7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">13,5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">14,9</td>
 		</tr>
 		<tr>
-			<td>EURO 3</td>
-			<td>6,6</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro II</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">11,7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">13,5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">14,9</td>
 		</tr>
 		<tr>
-			<td>overige EURO-emissieklassen</td>
-			<td>8</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro III</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">9,7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">11,5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">12,9</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro IV</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">6,5</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">8,1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">9,6</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro V</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">5,3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">6,9</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">8,4</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; width:95px">Euro VI</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">4,3</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">5,9</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">7,4</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:none; height:19px; width:189px">CO<sub>2</sub>-emissieklasse 2</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">4,1</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">5,7</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">7,1</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:none; height:19px; width:189px">CO<sub>2</sub>-emissieklasse 3</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">4,0</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">5,4</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">6,8</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:none; height:19px; width:189px">CO<sub>2</sub>-emissieklasse 4</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">2,8</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">3,6</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">4,3</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:none; border-top:none; height:19px; width:189px">CO<sub>2</sub>-emissieklasse 5</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:85px">1,2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:104px">1,2</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:19px; vertical-align:bottom; width:113px">1,2</td>
 		</tr>
 	</tbody>
 </table>
@@ -2910,9 +2971,9 @@ De Vlaamse Regering wordt ertoe gemachtigd om de wegenlijst in bijlage 2, vermel
 1° naamswijzigingen van de erin opgenomen wegen;<br>
 2° wijzigingen van de categorisering van de erin opgenomen wegen.<br>
 <br>
-Het tarief Tz, vermeld in het eerste lid, wordt&nbsp;met ingang van 1 juli 2017 op 1 juli van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk,&nbsp;voor de maand maart van het lopende jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand mei van het jaar 2016. Daarbij worden de volgende afrondingen toegepast :<br>
-1° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
-2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op het hogere of lagere tiende van een eurocent naargelang het cijfer van het honderdste van de eurocent al dan niet vijf bereikt.<br>
+Het tarief Tz, vermeld in het eerste lid, wordt met ingang van 1 januari 2027 op 1 januari van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand augustus van het voorgaande jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand april van het jaar 2016. Daarbij worden de volgende afrondingen toegepast:&nbsp;<br>
+1°&nbsp;&nbsp; &nbsp;de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al dan niet vijf bereikt;<br>
+2°&nbsp;&nbsp; &nbsp;na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op het hogere of lagere tiende van een eurocent naargelang het cijfer van het honderdste van de eurocent al dan niet vijf bereikt.<br>
 <br>
 Als de factor F, vermeld in het eerste lid, 1°, gelijk is aan 1, mag het tarief nooit lager zijn dan nul eurocent..<br>
 <br>
@@ -5822,13 +5883,13 @@ Als de laatste dag van een termijn als vermeld in deze afdeling, op een   zaterd
 
 § 1. Tenzij het voertuig is vrijgesteld van de kilometerheffing, moet de houder van een voertuig als vermeld in artikel 1.1.0.0.2, vijfde lid, 6°, voorafgaand aan het gebruik van elke weg, voor dat voertuig met een dienstaanbieder of de hoofddienstaanbieder naar keuze een dienstverleningsovereenkomst sluiten.<br>
 <br>
-De houder van een voertuig die de dienstaanbieder of de hoofddienstaanbieder verzoekt om een dienstverleningsovereenkomst te sluiten, moet aan de dienstaanbieder of de hoofddienstaanbieder alle voertuigdocumenten voorleggen die nodig zijn om de voertuigclassificatieparameters, vermeld in artikel 3, 35°, van het decreet van 3 juni 2022 over elektronische tolheffingssystemen voor het wegverkeer, waaronder het kenteken van het voertuig in kwestie, het maximaal toegestane totaalgewicht en de EURO-emissieklasse vast te stellen.<br>
+De houder van een voertuig die de dienstaanbieder of de hoofddienstaanbieder verzoekt om een dienstverleningsovereenkomst te sluiten, moet aan de dienstaanbieder of de hoofddienstaanbieder alle voertuigdocumenten voorleggen die nodig zijn om de voertuigclassificatieparameters, vermeld in artikel 3, 35°, van het decreet van 3 juni 2022 over elektronische tolheffingssystemen voor het wegverkeer, waaronder het kenteken van het voertuig in kwestie, het maximaal toegestane totaalgewicht, de CO<sub>2</sub>-emissieklasse en de EURO-emissieklasse vast te stellen.<br>
 <br>
 Bij gebreke aan afdoend bewijs van het maximaal toegestane totaalgewicht van het voertuig, wordt het voertuig geacht een maximaal toegestaan totaalgewicht van hoger dan 32 ton te hebben.<br>
 <br>
-Bij gebreke aan afdoend bewijs van de EURO-emissieklasse van het voertuig, wordt het voertuig geacht te behoren tot de categorie `overige EURO-emissieklassen', vermeld in de tabellen, opgenomen in artikel 2.4.4.0.2, eerste lid, 5° en 7°.<br>
+Als er geen afdoend bewijs is van de EURO-emissieklasse van het voertuig, wordt het voertuig geacht te behoren tot de categorie `Euro 0’, vermeld in de tabellen, opgenomen in artikel 2.4.4.0.2, eerste lid, 5° en 8°. Als er geen afdoend bewijs is van de CO2-emissieklasse van het voertuig, wordt het voertuig geacht te behoren tot de categorie ‘CO2-emissieklasse 1’, vermeld in de tabel die is opgenomen in artikel 2.4.4.0.2, eerste lid, 8°.<br>
 <br>
-De vermoedens, vermeld in het derde en vierde lid, worden toegepast tot die met afdoend bewijs worden weerlegd. Dat bewijs heeft evenwel geen invloed op de heffingen die verschuldigd zijn voor kilometers die zijn afgelegd vóór de verificatie van de gegevens uit het voorgelegde bewijsstuk door de dienstaanbieder of de hoofddienstaanbieder.<br>
+De vermoedens, vermeld in het derde, vierde en vijfde lid, worden toegepast tot die met afdoend bewijs worden weerlegd. Dat bewijs heeft evenwel geen invloed op de heffingen die verschuldigd zijn voor kilometers die zijn afgelegd vóór de dienstaanbieder of de hoofddienstaanbieder de gegevens uit het voorgelegde bewijsstuk heeft geverifieerd.<br>
 <br>
 De houder van het voertuig heeft het recht heeft om, voorafgaand aan het gebruik van een weg, de emissieklasse van het voertuig elektronisch mee te delen.<br>
 <br>
@@ -7558,7 +7619,7 @@ De administratieve geldboete, vermeld in het tweede lid, wordt berekend volgens 
 		<tr>
 			<td>A</td>
 			<td>-manipulatie van de boordapparatuur;<br>
-			-vervalsing van de voertuigdocumenten die nodig zijn om het maximaal toegestane totaalgewicht en de euro-emissieklasse van het voertuig te bepalen;</td>
+			-vervalsing van de voertuigdocumenten die nodig zijn om het maximaal toegestane totaalgewicht, de CO<sub>2</sub>-emissieklasse en de euro-emissieklasse van het voertuig te bepalen;</td>
 			<td>1.000</td>
 		</tr>
 		<tr>
