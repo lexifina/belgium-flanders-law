@@ -32,7 +32,8 @@ Artikel 4, 6 en 80 van het kaderdecreet Vlaamse Handhaving van 14 juli 2023 zijn
 8° hoofdstuk 9 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;<br>
 9° hoofdstuk II tot en met hoofdstuk IV/1 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004;<br>
 10° hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
-11° hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
+11° hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid;<br>
+12° hoofdstuk 3 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid.<br>
 <br>
 Artikel 4 van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023 is voor de bepalingen, vermeld in het eerste lid, ook van toepassing op lokale overheden.<br>
 <br>
@@ -56,7 +57,8 @@ Artikel 77 tot en met 79 van het Kaderdecreet Vlaamse Handhaving van 14 juli 202
 7°&nbsp;&nbsp; &nbsp;artikel 5 en artikel 6 van het decreet van 29 maart 2024 over e-boeken en bijbehorende software;<br>
 8°&nbsp;&nbsp; &nbsp;hoofdstuk 9 van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand;<br>
 9°&nbsp;&nbsp; &nbsp;hoofdstuk 5 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
-10°&nbsp;&nbsp; &nbsp;hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
+10°&nbsp; hoofdstuk 6 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid;<br>
+11°&nbsp; hoofdstuk 3 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 &nbsp;
 
 ### ART 3.
@@ -128,12 +130,22 @@ Voor het opleggen of doen opleggen van publieke herstel- en beveiligingsmaatrege
 
 Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 1°, van dit besluit, toegankelijk voor de ambtenaren, vermeld in artikel 5.4.1.3, tweede lid, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.
 
+### ART 8/4.
+
+Voor de opdrachten van gerechtelijke en bestuurlijke politie zijn de processen-verbaal en de verslagen van vaststelling, die aanwezig zijn in het digitaal klassement, vermeld in artikel 4, §1, derde lid, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, en die zijn opgesteld wegens de schending van de regelgeving, vermeld in artikel 1, eerste lid, 8°, van dit besluit, toegankelijk voor de politiediensten, vermeld in artikel 2 van de wet op het politieambt van 5 augustus 1992, en de Vlaamse inspectiediensten die toezichthouders als vermeld in artikel 2, 30°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, tewerkstellen die bevoegd zijn voor de handhaving van de regelgeving, vermeld in artikel 1, eerste lid, 8°, van dit besluit.
+
 ### ART 9.
 
 Voor de toepassing van dit besluit komen:<br>
 1°&nbsp;&nbsp; &nbsp;de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 6, eerste lid, 1°, en artikel 7, 1°, van dit besluit, overeen met de processen-verbaal en de verslagen van vaststelling, vermeld in artikel 9, §2, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023;&nbsp;<br>
 2°&nbsp;&nbsp; &nbsp;de beslissingen en de kennisgevingen, vermeld in artikel 6, eerste lid, 2°, en artikel 7, 2°, van dit besluit, overeen met de beslissingen en kennisgevingen, vermeld in artikel 4, §1, 3°, van het voormelde decreet;<br>
 3°&nbsp;&nbsp; &nbsp;de processen-verbaal, vermeld in het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, overeen met de processen-verbaal, vermeld in artikel 4, §1, eerste lid, 1° van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023, wanneer daarin misdrijven als vermeld in artikel 2, 19° van het voormelde decreet worden vastgesteld, en met de verslagen van vaststelling, vermeld in artikel 4, §1, eerste lid, 1° van het voormelde decreet, wanneer daarin alleen inbreuken als vermeld in artikel 2, 17° van het voormelde decreet worden vastgesteld.
+
+### ART 9/1.
+
+Voor de toepassing van dit besluit komen:<br>
+1° de processen-verbaal, vermeld in artikel 53 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, overeen met de verslagen van vaststelling, vermeld in artikel 4, §1, eerste lid, 2°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023;<br>
+2° de beslissingen en kennisgevingen, vermeld in artikel 58, 58/1 en 59 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, overeen met de beslissingen en de kennisgevingen, vermeld in artikel 4, §1, eerste lid, 3°, van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023.
 
 ### ART 10.
 
