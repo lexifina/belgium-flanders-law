@@ -58,8 +58,16 @@ Om de missie, vermeld in artikel 4, waar te maken, heeft het agentschap de volge
 8° één gemeenschappelijke betaalmotor ontwikkelen en uitbouwen die het de uitbetalingsactoren mogelijk maakt om toelagen in het kader van het gezinsbeleid op een efficiënte, correcte en zo veel mogelijk automatische wijze uit te betalen;<br>
 9° de private uitbetalingsactoren financieel responsabiliseren;<br>
 10° klachten over het optreden van de uitbetalingsactoren behandelen;<br>
-11°&nbsp;&nbsp; &nbsp;bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid voor gemeenten of openbare centra voor maatschappelijk welzijn, de betaalmotor en de diensten van het agentschap ter beschikking te stellen in het kader van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid, van dit decreet;<br>
-12°&nbsp;&nbsp; &nbsp;het ondersteunen van initiatieven in het kader van het gezinsbeleid, rekening houdend met de taken en de regierol van het agentschap Opgroeien regie, vermeld in artikel 5, §1, eerste lid, 1°, c), en §2, 1°, en artikel 7/1 en 10/2 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
+11° bij het onderzoek naar het recht op en de uitbetaling van toelagen in het kader van het lokale gezinsbeleid voor gemeenten of openbare centra voor maatschappelijk welzijn, de betaalmotor en de diensten van het agentschap ter beschikking te stellen in het kader van een samenwerkingsovereenkomst als vermeld in artikel 6, tweede lid, van dit decreet;<br>
+12° het ondersteunen van initiatieven in het kader van het gezinsbeleid, rekening houdend met de taken en de regierol van het agentschap Opgroeien regie, vermeld in artikel 5, §1, eerste lid, 1°, c), en §2, 1°, en artikel 7/1 en 10/2 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+13° de uitvoering van een transitietraject naar de exclusieve uitbetaling door het agentschap op basis van de beslissing, vermeld in artikel 26, §2, derde lid. Het agentschap kan alle passende en proportionele maatregelen nemen om ervoor te zorgen dat het transitietraject kan worden voorbereid en uitgevoerd. Die maatregelen bestaan minstens uit:&nbsp;<br>
+a) het inwinnen van adviezen;<br>
+b) het voeren van overleg met de private uitbetalingsactoren;<br>
+c) het sociaal overleg;<br>
+d) de verkenning en ontwikkeling van de informaticasystemen;&nbsp;<br>
+e) het inwinnen van bedrijfsmatige inlichtingen bij de private uitbetalingsactoren, waaronder ook de personeelssamenstelling, de bedrijfsstructuur, het personeelsstatuut waaronder de verloning met inbegrip van de voordelen van alle aard, de arbeidsvoorwaarden en -verplichtingen, en de lopende contractuele verplichtingen;<br>
+f)&nbsp; het opvragen van alle informatie over de rechten en verplichtingen die kunnen voortvloeien uit de overdracht van de activiteiten van de private uitbetalingsactoren naar het agentschap, en die op de datum van de overgang bekend zijn of bekend hadden moeten zijn.<br>
+<br>
 <br>
 De Vlaamse Regering kan nadere regels bepalen voor de aangelegenheden, vermeld in het eerste lid.
 
@@ -267,7 +275,7 @@ De Vlaamse Regering en de gemeenten en openbare centra voor maatschappelijk welz
 <br>
 Een vergunde private uitbetalingsactor maakt deel uit van de raad van bestuur van het agentschap.<br>
 <br>
-Een vergunning geldt voor onbepaalde duur.<br>
+De Vlaamse Regering kan nadere regels bepalen voor de duur van de vergunning en de overgangsregeling bij het verstrijken van de termijn van de vergunning. Bij het ontbreken van nadere regels is de duur onbepaald.<br>
 <br>
 § 2. Na vier jaar werking van de private uitbetalingsactoren zal&nbsp;het agentschap Opgroeien regie de organisatie van de uitbetaling van toelagen in het kader van het gezinsbeleid evalueren.<br>
 <br>
@@ -286,6 +294,7 @@ Om een vergunning te krijgen en te behouden, voldoet een private uitbetalingsact
 1° de private uitbetalingsactor is opgericht als vereniging zonder winstoogmerk conform het Wetboek van vennootschappen en verenigingen waarbij als de uitbetalingsactor een samenwerkingsverband vormt met een andere rechtspersoon, de besluitvorming, boekhouding en financiële middelen van de uitbetalingsactor volledig gescheiden gehouden worden van de andere entiteit;<br>
 2° de private uitbetalingsactor heeft geen samenwerkingsverband gesloten met een ziekenfonds in het kader van het gezondheidsbeleid, met een vakbond in het kader van werkloosheid of met een zorgkas binnen de Vlaamse Sociale Bescherming;<br>
 3° de private uitbetalingsactor neemt alleen taken op voor activiteiten in het kader van het gezinsbeleid en heeft geen activiteiten als ziekenfonds in het kader van het gezondheidsbeleid, als vakbond in het kader van werkloosheid of als zorgkas binnen de Vlaamse Sociale Bescherming;<br>
+3°/1 de private uitbetalingsactor gebruikt voor de communicatie naar de gezinnen de naam ‘Vlaams Groeipakket’ en voert geen marketingactiviteiten uit<br>
 4° de private uitbetalingsactor koppelt geen voordelen aan de aansluiting van een begunstigde, vermeld in artikel 28, 11° ;<br>
 5° de private uitbetalingsactor maakt aannemelijk dat hij binnen zes maanden nadat hij de vergunning heeft verkregen, ten minste 120.000 kinddossiers in actief beheer zal hebben;<br>
 6° de private uitbetalingsactor heeft na die eerste termijn van zes maanden gedurende elke twee opeenvolgende kalenderjaren een gemiddelde van ten minste 120.000 kinddossiers in actief beheer, waarbij het gemiddelde berekend wordt op het einde van de tweejaarlijkse periode, op basis van de kwartaalgegevens, vermeld in het kadaster, beheerd door het agentschap Opgroeien regie;<br>
@@ -334,8 +343,9 @@ Een private uitbetalingsactor vervult minstens de volgende opdrachten:<br>
 8° reserves aanleggen, beheren en aanwenden conform artikel 27, 14° en 15°. De Vlaamse Regering bepaalt de nadere regels betreffende de reservevorming;<br>
 9° een herstelplan opmaken en naleven of op eigen kosten een crisismanager aanstellen in de gevallen en onder de voorwaarden, die de Vlaamse Regering daarover vaststelt;<br>
 10° bij stopzetting van de activiteiten of bij opheffing van de vergunning alle gegevens die noodzakelijk zijn voor de overname van de activiteiten, ter beschikking stellen van de bevoegde overheid in de vorm en binnen de termijnen, die de Vlaamse Regering vaststelt;<br>
-11° elk verzoek tot aansluiting van een begunstigde aanvaarden en het recht van de begunstigde om te veranderen van uitbetalingsactor, respecteren, tenzij een wettelijke of decretale bepaling dat verhindert;<br>
-12° meewerken aan de rapportering, in de vorm en binnen de termijnen die de Vlaamse Regering vaststelt.
+11° elk verzoek tot aansluiting van een begunstigde op vraag van de begunstigde of het agentschap aanvaarden, tenzij een wettelijke of decretale bepaling dat verhindert;<br>
+12° meewerken aan de rapportering, in de vorm en binnen de termijnen die de Vlaamse Regering vaststelt;<br>
+13° meewerken en uitvoering geven aan de passende en proportionele maatregelen en het transitietraject, vermeld in artikel 5, eerste lid, 13°.
 
 ### ART 29.
 
@@ -361,7 +371,7 @@ De Vlaamse Regering bepaalt de nadere voorwaarden voor de vaststelling en de toe
 
 ### ART 30/2.
 
-§ 1. Een private uitbetalingsactor ontvangt van het agentschap jaarlijks een subsidie voor de werkingskosten volgens de hiernavolgende bepalingen. Die subsidie moet de werking van de private uitbetalingsactor ondersteunen om de uitbetaling, vermeld in artikel 30/1, te garanderen en te optimaliseren. De private uitbetalingsactoren bepalen hoe ze die middelen willen aanwenden binnen de context van de activiteiten waarvoor ze ter uitvoering van artikel 29 een vergunning hebben verkregen, en binnen de context van de vergunningsnormen, vermeld in artikel 27 en 28, die betrekking hebben op het gevoerde financiële beleid.<br>
+§ 1. Een private uitbetalingsactor ontvangt van het agentschap jaarlijks een subsidie voor de werkingskosten volgens de hiernavolgende bepalingen. Die subsidie moet de werking van de private uitbetalingsactor ondersteunen om de uitbetaling, vermeld in artikel 30/1, te garanderen en te optimaliseren. De private uitbetalingsactoren bepalen hoe ze die middelen willen aanwenden binnen de context van de activiteiten waarvoor ze ter uitvoering van artikel 29 een vergunning hebben verkregen, en binnen de context van de vergunningsnormen, vermeld in artikel 27 en 28, die betrekking hebben op het gevoerde financiële beleid.&nbsp;De werkingsmiddelen worden niet aangewend voor marketingactiviteiten.<br>
 <br>
 Het eerste jaar na de inwerkingtreding van dit decreet is de totale enveloppe aan werkingsmiddelen voor de private uitbetalingsactoren gelijk aan het totale bedrag aan werkingskosten dat ze in het voorlaatste jaar vóór de inwerkingtreding van dit decreet ontvangen hebben overeenkomstig artikel 2, 7°, en artikel 4 van het koninklijk besluit van 9 juni 1999 betreffende de beheersrekening en de administratieve reserve van de kinderbijslagfondsen.<br>
 <br>
