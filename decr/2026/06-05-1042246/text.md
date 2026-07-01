@@ -90,6 +90,50 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wo
 <br>
 De accreditatieorganisatie rapporteert, inhoudelijk en financieel, over elke aanvullende opdracht die de Vlaamse Regering heeft opgedragen. De accreditatieorganisatie kan het gedeelte van de toegekende financiering voor een aanvullende opdracht dat de aanvaarde kosten overschrijdt, niet aanwenden voor de aanleg van reserves.”.
 
+### ART 130.
+
+In artikel II.37 van dezelfde codex, gewijzigd bij het decreet van 4 mei 2018, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een paragraaf 2/1 ingevoegd, die luidt als volgt:<br>
+“§2/1. De VLUHR richt een expertisecentrum voor inclusief onderwijs met een focus op hoger onderwijs op. Het expertisecentrum heeft als opdracht de instellingen te begeleiden en te ondersteunen bij de ondersteuning van studenten met een inclusienood, met bijzondere aandacht voor de inclusie van studenten met een functiebeperking ter implementatie van de VN-conventie van 13 december 2006 over de rechten van personen met een handicap.”;<br>
+2° paragraaf 4 wordt vervangen door wat volgt:<br>
+"§4. De VLUHR moet ook aspecten zoals internationalisering, ontwikkelingssamenwerking, wetenschap, innovatie en de ondersteuning van studenten met een inclusienood op volwaardige manier aan bod laten komen binnen zijn werking.”.
+
+### ART 131.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt een artikel II.38/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.38/1. De Vlaamse Regering en de VLUHR sluiten ten aanzien van de organisatie van het expertisecentrum voor inclusief onderwijs vijfjaarlijks een convenant waarin al de volgende elem enten zijn opgenomen:<br>
+1° de aansturingsmogelijkheden van de Vlaamse Regering en de wijze waarop relevante actoren uit het inclusieveld worden betrokken;<br>
+2° de minimale resultaatsverbintenissen van het expertisecentrum voor inclusief onderwijs, met de focus op hoger onderwijs;<br>
+3° de minimale behoorlijkheidsvereisten op het vlak van het financieel management, en ook de mogelijkheden om een bepaalde financiële reserve aan te leggen van maximaal 20%per jaar van de werkingsenveloppe die in een bepaald jaar is toegekend. De totale gecumuleerde reserve op basis van de werkingsenveloppe bedraagt maximaal 50% van de jaarlijkse werkingsenveloppe;<br>
+4° de rapporterings- en controlemechanismen, in het bijzonder de wijze waarop het expertisecentrum voor inclusief onderwijs wordt geëvalueerd. Deze evaluatie wordt steeds afgerond in de eerste helft van het vijfde kalenderjaar van het lopende convenant;<br>
+5° de remediërende en sanctionerende maatregelen in geval van niet-naleving van het convenant;<br>
+6° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd.”.
+
+### ART 132.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt een artikel II.38/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.38/2. Als de VLUHR een overeenkomst sluit met de Vlaamse Regering, krijgt ze jaarlijks recht op een werkingsenveloppe voor het expertisecentrum voor inclusief onderwijs.<br>
+<br>
+De Vlaamse Regering bepaalt, rekening houdend met de beschikbare begrotingskredieten, de grootte van de jaarlijkse werkingsenveloppe van het expertisecentrum, vermeld in artikel II.37, §2/1, en ook de wijze van vereffening ervan. De werkingsenveloppe wordt geïndexeerd volgens de formule vastgesteld om de werkingsuitkering van de universiteiten en hogescholen te indexeren, vermeld in artikel III.5, §9.”.
+
+### ART 133.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt een artikel II.38/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+“Art. II.38/3. De hogescholen en de universiteiten kunnen in het kader van de opdracht van de VLUHR, vermeld in artikel II.37, §2/1, personeelsleden met hun instemming belasten met een opdracht bij de VLUHR. De betrokken personeelsleden blijven gedurende de uitoefening van de opdracht bij de VLUHR juridisch en administratief behoren tot de universiteit of hogeschool die hen ter beschikking stelt.”.
+
+### ART 142.
+
+Aan artikel II.218, §1, van dezelfde codex, gewijzigd bij het decreet van 19 de-cember 2014, wordt een tweede lid toegevoegd, dat luidt als volgt:&nbsp;<br>
+<br>
+“In afwijking van het eerste lid wordt het basisbedrag, vermeld in artikel I.3, 16°, aangepast overeenkomstig de procentuele stijging van de gezondheidsindex voor de maand december (basis 1996) van het tweede kalenderjaar vóór het jaar waarin het academiejaar in kwestie begint, ten opzichte van de gezondheidsindex voor de maand december (basis 1996) van het derde kalenderjaar vóór het jaar waarin het academiejaar in kwestie begint. De stijging wordt afgerond naar het hogere tiende. Het resultaat van de indexatie van het bedrag, vermeld in artikel I.3, 16°, wordt afgerond op het dichtstbijzijnde geheel getal.”.
+
+### ART 151.
+
+In deel 3, titel 2, van de dezelfde codex, het laatst gewijzigd bij het decreet van 19 december 2025, wordt hoofdstuk 9, dat bestaat uit artikel III.98/1 tot en met artikel III.98/7, opgeheven.
+
 ### ART 162.
 
 In artikel V.110 van dezelfde codex, gewijzigd bij de decreten van 16 juni 2017, 4 mei 2018 en 22 maart 2024, worden de volgende wijzigingen aangebracht:<br>
