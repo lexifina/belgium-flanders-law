@@ -67,7 +67,7 @@ c) in voorkomend geval, het saldo na aftrek van de met gegarandeerde betaalmidde
 
 <p>§ 2. De dienstverleningsovereenkomst moet ook de volgende vermeldingen bevatten :<br>
 1° de identiteit en de contactgegevens van de houder van het voertuig;<br>
-2° het kentekennummer van het voertuig in kwestie, alsook het maximaal toegestane totaalgewicht en de EURO-emissieklasse ervan;<br>
+2° het kentekennummer van het voertuig in kwestie, alsook het maximaal toegestane totaalgewicht, de CO<sub>2</sub>-emissieklasse en de EURO-emissieklasse ervan;<br>
 3° de rechten en verplichtingen van de houder van het voertuig en de dienstaanbieder of de hoofddienstaanbieder zoals opgelegd in artikel 5 tot en met 9 en artikel 3.3.1.0.11, 3.3.1.0.13 en 3.5.3.0.2, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
 4° de melding van de afgifte van de boordapparatuur met de bijbehorende gebruiksaanwijzing;<br>
 5° de ontvangstmelding van de voor de boordapparatuur gestorte waarborgsom;<br>
