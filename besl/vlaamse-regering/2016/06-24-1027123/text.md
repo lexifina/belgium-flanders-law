@@ -149,7 +149,7 @@ Het budget dat besteed wordt aan dagondersteuning als vermeld in artikel 4, 1°,
 
 ### ART 7.
 
-<p>Het cashbudget kan alleen besteed worden aan zorg en ondersteuning die wordt verleend op basis van een van de volgende overeenkomsten die worden gesloten door de budgethouder:<br>
+<p>Het cashbudget kan alleen besteed worden aan zorg en ondersteuning die wordt verleend op basis van een van de volgende schriftelijke overeenkomsten die worden gesloten door de budgethouder:<br>
 1° een overeenkomst over het verlenen van zorg en ondersteuning met een zorgaanbieder die door het agentschap vergund is;<br>
 2° een van de volgende overeenkomsten waarbij wordt voorzien in het verlenen van zorg en ondersteuning in een een-op-een-relatie met de persoon met een handicap of aan verschillende personen met een handicap die op hetzelfde adres wonen en tot hetzelfde gezin behoren:<br>
 a) een arbeidsovereenkomst met inbegrip van een overeenkomst voor tewerkstelling van studenten als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
@@ -166,9 +166,9 @@ j) een overeenkomst met een organisatie of dienst die erkend of vergund is door 
 4° een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning en die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap die deze ondersteuning vergoeden met een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap. De zorg en ondersteuning wordt geboden buiten de capaciteit waarvoor de organisatie of dienst is erkend of vergund;<br>
 5° een overeenkomst over zorg en ondersteuning met een rechtspersoon die die ondersteuning aanbiedt buiten het Belgische grondgebied en die aantoont dat hij conform de wetgeving van het land van vestiging ondersteuning kan bieden aan personen met een handicap.<br>
 <br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, kan vaststellen in welke gevallen en onder welke voorwaarden het cashbudget kan worden besteed voor dagondersteuning als vermeld in artikel 1, 3°, van het besluit van 27 november 2015, op basis van een overeenkomst met groene zorginitiatieven die ondersteuning bieden aan verschillende personen en die zich registeren bij het agentschap.<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan vaststellen in welke gevallen en onder welke voorwaarden het cashbudget kan worden besteed voor dagondersteuning als vermeld in artikel 1, 3°, van het besluit van 27 november 2015, op basis van een schriftelijke overeenkomst met groene zorginitiatieven die ondersteuning bieden aan verschillende personen en die zich registeren bij het agentschap.<br>
 <br>
-Het cashbudget kan ook worden ingezet op basis van een overeenkomst voor casemanagement met een opdrachthouder consulentenwerking die erkend is door het agentschap als het agentschap conform hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap beslist heeft dat de budgethouder aanspraak kan maken op casemanagement.</p>
+Het cashbudget kan ook worden ingezet op basis van een schriftelijke overeenkomst voor casemanagement met een opdrachthouder consulentenwerking die erkend is door het agentschap als het agentschap conform hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap beslist heeft dat de budgethouder aanspraak kan maken op casemanagement.</p>
 
 ## HOOFDSTUK 3 Opstarten van het budget
 
@@ -200,7 +200,7 @@ Als het agentschap voor het eerst een budget ter beschikking stelt en er geen pe
 
 § 1. De budgethouder kan met het oog op het starten met het besteden van het budget een deel van zijn budget als cashbudget of voucher gebruiken voor meer hoogdrempelige individuele bijstand die verleend wordt door een bijstandsorganisatie. Het deel van het budget dat hij daarvoor kan gebruiken bedraagt maximaal de kostprijs in euro's of zorggebonden punten voor vier sessies.<br>
 <br>
-De budgethouder en de bijstandsorganisatie sluiten daarover een overeenkomst die de volgende elementen bevat:<br>
+De budgethouder en de bijstandsorganisatie sluiten daarover een schriftelijke overeenkomst die de volgende elementen bevat:<br>
 1° de aard van de meer hoogdrempelige individuele bijstand;<br>
 2° het aantal sessies met een maximum aantal van vier;<br>
 3° de kostprijs per sessie in euro's of in zorggebonden punten.<br>
@@ -258,7 +258,7 @@ De vergunde zorgaanbieder registreert de beëindiging van de voucher in de webap
 
 ### ART 15.
 
-§ 1. Als budgethouders na het opstarten van de besteding van hun budget, een deel van hun budget willen gebruiken als een voucher bij een bijstandsorganisatie, deelt de bijstandsorganisatie de volgende gegevens over de overeenkomst over het verlenen vanmeer&nbsp; hoogdrempelige individuele bijstand die is afgesloten met de budgethouder, mee aan het agentschap :<br>
+§ 1. Als budgethouders na het opstarten van de besteding van hun budget, een deel van hun budget willen gebruiken als een voucher bij een bijstandsorganisatie, deelt de bijstandsorganisatie de volgende gegevens over de schriftelijke overeenkomst over het verlenen vanmeer&nbsp; hoogdrempelige individuele bijstand die is afgesloten met de budgethouder, mee aan het agentschap :<br>
 1° de identificatiegegevens van de budgethouder;<br>
 2° de identificatiegegevens van de bijstandsorganisatie;<br>
 3° de duur van de overeenkomst;<br>
@@ -482,7 +482,7 @@ Bij een eerste vaststelling van een niet-conforme besteding als vermeld in artik
 
 ### ART 27/3.
 
-§ 1. Na twee verschillende vaststellingen van niet-conforme besteding als vermeld in artikel 27/1, binnen een periode van drie maanden kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder is dan verplicht om zich voor het beheer van zijn budget te laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies meer hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de betrokken persoon met een handicap.<br>
+§ 1. Na twee verschillende vaststellingen van niet-conforme besteding als vermeld in artikel 27/1, binnen een periode van drie maanden kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder is dan verplicht om zich voor het beheer van zijn budget te laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een schriftelijke overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies meer hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de betrokken persoon met een handicap.<br>
 <br>
 De budgethouder deelt de overeenkomst, vermeld in het eerste lid, mee aan het agentschap.&nbsp;De vier sessies, vermeld in het eerste lid, zijn afgerond binnen achttien maanden na de beslissing van het agentschap waarbij het de budgethouder naar een bijstandsorganisatie verwijst. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het eerste lid.<br>
 <br>
@@ -490,7 +490,7 @@ De budgethouder deelt de overeenkomst, vermeld in het eerste lid, mee aan het ag
 <br>
 Het agentschap informeert de budgethouder over zijn beslissing, vermeld in het eerste lid.<br>
 <br>
-De budgethouder sluit een overeenkomst met een bijstandsorganisatie, die de taken, vermeld in het eerste lid, zal opnemen, waarin wordt voorzien in meer hoogdrempelige individuele bijstand, die wordt vergoed met het budget van de persoon met een handicap. De budgethouder deelt die overeenkomst mee aan het agentschap.<br>
+De budgethouder sluit een schriftelijke overeenkomst met een bijstandsorganisatie, die de taken, vermeld in het eerste lid, zal opnemen, waarin wordt voorzien in meer hoogdrempelige individuele bijstand, die wordt vergoed met het budget van de persoon met een handicap. De budgethouder deelt die overeenkomst mee aan het agentschap.<br>
 <br>
 De bijstandsorganisatie, vermeld in de overeenkomst, vermeld in het derde lid, informeert het agentschap over de bijstand die wordt verleend in het kader van de voormelde overeenkomst.<br>
 <br>
