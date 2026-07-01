@@ -135,9 +135,9 @@ De raad van bestuur van de VMSW bepaalt de voorwaarden voor de lening, vermeld i
 
 ### ART 12.
 
-De ontlener houdt ieder goed dat beleend wordt, ook al is het maar gedeeltelijk, vrij en onbelast, en niet bezwaard met enig zakelijk recht of zakelijk zekerheidsrecht ten voordele van een derde die geen overheid is totdat alle verbintenissen van die belening ten opzichte van de VMSW nagekomen zijn. Het goed wordt nader omschreven in de leningsovereenkomst. Als het goed verdwijnt uit het patrimonium van de ontlener, wordt de lening vervroegd afgelost.<br>
+De ontlener houdt ieder goed dat beleend wordt, ook al is het maar gedeeltelijk, vrij en onbelast, en niet bezwaard met enig zakelijk recht of zakelijk zekerheidsrecht ten voordele van een derde die geen overheid is totdat alle verbintenissen van die belening ten opzichte van de VMSW nagekomen zijn. Het goed wordt nader omschreven in de leningsovereenkomst. Als het goed verdwijnt uit het patrimonium van de ontlener, wordt de lening vervroegd afgelost.&nbsp;Deze regeling van vervroegde aflossing is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.<br>
 <br>
-De ontlener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek in eerste rang te verlenen op het in de leningsovereenkomst beschreven goed. Die hypotheek is ten voordele van de leningsverstrekker en voor een bedrag dat wordt bepaald in de leningsovereenkomst. Als op het goed een hypotheek rust ten gunste van een andere overheid, krijgt de leningsverstrekker de volgende rang.<br>
+De ontlener verbindt zich ertoe om onvoorwaardelijk en op eerste verzoek van de leningsverstrekker een hypotheek in eerste rang te verlenen op het in de leningsovereenkomst beschreven goed. Voor leningen die worden verstrekt voor de financiering van infrastructuurwerken die nadien overeenkomstig artikel 5.24 van de Vlaamse Codex Wonen van 2021 worden overgedragen aan het openbaar domein, wordt de hypotheek gevestigd op de sociale huurwoningen waarvoor die infrastructuurwerken werden gerealiseerd. Die hypotheek is ten voordele van de leningsverstrekker en voor een bedrag dat wordt bepaald in de leningsovereenkomst. Als op het goed een hypotheek rust ten gunste van een andere overheid, krijgt de leningsverstrekker de volgende rang.<br>
 <br>
 Als de ontlener een woonmaatschappij is, vraagt de VMSW bij het vestigen van een hypotheek op een goed, eerst het advies aan de commissie beheer rekening-courant. De commissie beheer rekening-courant komt dan binnen drie werkdagen samen.<br>
 <br>
@@ -169,7 +169,9 @@ Onder de volgende voorwaarden kan de VMSW een marktconforme FS4-lening op 33 jaa
 a) als het goed waarvoor geleend is, vervreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik vervreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
 b) als er subsidies ontvangen worden voor een of meer woningen&nbsp;of basiskoten in dit project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag;<br>
 c) als de vervroegde terugbetaling gebeurt ter uitvoering van artikel 4.155/4 van het Besluit Vlaamse Codex Wonen van 2021;<br>
-11° tussenkomst: het aan de lening toewijsbare deel van de tussenkomst, vermeld in artikel 13 van dit besluit, wordt op iedere interestvervaldag op de lening verrekend.
+11° tussenkomst: het aan de lening toewijsbare deel van de tussenkomst, vermeld in artikel 13 van dit besluit, wordt op iedere interestvervaldag op de lening verrekend.<br>
+<br>
+De regeling van verplichte volledige of gedeeltelijke vervroegde terugbetaling, vermeld in het eerste lid, 10°, a), is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.
 
 ### ART 16.
 
@@ -186,7 +188,9 @@ Onder de volgende voorwaarden kan de VMSW een lening als vermeld in het eerste l
 8° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht geeft van drie maanden. Er is geen wederbeleggingsvergoeding verschuldigd;<br>
 9° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
 a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal;<br>
-b) als er subsidies ontvangen worden voor een of meer woningen in dit project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag.
+b) als er subsidies ontvangen worden voor een of meer woningen in dit project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag.<br>
+<br>
+De regeling van verplichte volledige of gedeeltelijke vervroegde terugbetaling, vermeld in het tweede lid, 9°, a), is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.
 
 ### ART 17.
 
@@ -203,7 +207,9 @@ Onder de volgende voorwaarden kan de VMSW een lening als vermeld in het eerste l
 8° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht van drie maanden geeft. De wederbeleggingsvergoeding bedraagt het financiële verlies met een maximum van zes maanden interest op het vervroegd af te lossen kapitaal en een minimum van 0 euro;<br>
 9° verplichte volledige of gedeeltelijke vervroegde terugbetaling er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
 a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal;<br>
-b) als er subsidies worden ontvangen voor een of meer woningen in het project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag.
+b) als er subsidies worden ontvangen voor een of meer woningen in het project, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag.<br>
+<br>
+De regeling van verplichte volledige of gedeeltelijke vervroegde terugbetaling, vermeld in het tweede lid, 9°, a), is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.
 
 ### ART 18.
 
@@ -233,7 +239,9 @@ Onder de volgende voorwaarden kan de VMSW de lening, vermeld in het eerste lid, 
 10° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte vervroegde terugbetaling gebeurt in de volgende gevallen:<br>
 a) als het goed waarvoor geleend is, ontvreemd is, is er een verplicht vervroegde aflossing binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal;<br>
 b) als er subsidies voor een of meer woningen in dit project worden ontvangen, is er een verplicht vervroegde terugbetaling ter waarde van het subsidiebedrag.<br>
-11° tussenkomst: het aan de lening toewijsbare deel van de tussenkomst, vermeld in artikel 13 van dit besluit, wordt op iedere interestvervaldag op de lening verrekend.
+11° tussenkomst: het aan de lening toewijsbare deel van de tussenkomst, vermeld in artikel 13 van dit besluit, wordt op iedere interestvervaldag op de lening verrekend.<br>
+<br>
+De regeling van verplichte volledige of gedeeltelijke vervroegde terugbetaling, vermeld in het tweede lid, 10°, a), is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.
 
 ### ART 20.
 
@@ -321,7 +329,7 @@ b) als de lening een voorlopige financiering is en de ontlener een definitieve f
 
 ### ART 27.
 
-Onder de volgende voorwaarden kan de VMSW een&nbsp;marktconforme lening op maximaal dertig jaar toekennen tegen een variabele rentevoet:<br>
+Onder de volgende voorwaarden kan de VMSW een marktconforme lening op maximaal dertig jaar toekennen tegen een variabele rentevoet:<br>
 1° aard van de lening: een lening met constante annuïteiten;<br>
 2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal tien jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 5, 10, 15, 20, 25 of 30, overeen te komen tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: progressieve kapitaaltranches op basis van de eerste rentevoet;<br>
@@ -330,11 +338,13 @@ Onder de volgende voorwaarden kan de VMSW een&nbsp;marktconforme lening op maxim
 6° interest tijdens de opnamefase: wordt jaarlijks afgerekend op 31 december tot het jaar dat de consolidatie voorafgaat en een laatste keer op de consolidatiedatum;<br>
 7° betaling annuïteit: jaarlijks vanaf een jaar na de consolidatiedatum;<br>
 8° vrijwillige volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht geeft van drie maanden. Er is geen wederbeleggingsvergoeding verschuldigd.<br>
-9° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in het geval als het goed waarvoor geleend is, ontvreemd is binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal.
+9° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in het geval als het goed waarvoor geleend is, ontvreemd is binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag bepaalt het terug te betalen kapitaal.<br>
+<br>
+De regeling van verplichte volledige of gedeeltelijke vervroegde terugbetaling, vermeld in het eerste lid, 9°, is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.
 
 ### ART 28.
 
-Onder de volgende voorwaarden kan de VMSW een marktconformelening op maximaal dertig jaar toekennen tegen een vaste rentevoet:<br>
+Onder de volgende voorwaarden kan de VMSW een&nbsp;marktconforme lening op maximaal dertig jaar toekennen tegen een vaste rentevoet:<br>
 1° aard van de lening: een lening met constante annuïteiten;<br>
 2° looptijd: start op de datum van de leningsovereenkomst. De opnameperiode is maximaal tien jaar. Als er dan nog geen consolidatie is, wordt ambtshalve geconsolideerd. Er kunnen nog bedragen opgenomen worden op de lening tot twaalf maanden na de consolidatie. De aflossingsfase duurt 5, 10, 15, 20, 25 of 30, overeen te komen tussen de ontlener en de leningsverstrekker;<br>
 3° aflossing: progressieve kapitaaltranches op basis van de eerste rentevoet;<br>
@@ -343,7 +353,9 @@ Onder de volgende voorwaarden kan de VMSW een marktconformelening op maximaal de
 6° interest tijdens de opnamefase: wordt jaarlijks afgerekend op 31 december tot het jaar dat de consolidatie voorafgaat en een laatste keer op de consolidatiedatum;<br>
 7° betaling annuïteit: jaarlijks vanaf een jaar na de consolidatiedatum;<br>
 8° volledige of gedeeltelijke vervroegde terugbetaling: kan altijd als de ontlener een voorbericht van drie maanden geeft. De wederbeleggingsvergoeding bedraagt het financiële verlies met een maximum van zes maanden interest op het vervroegd af te lossen kapitaal en een minimum van 0 euro.<br>
-9° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in het geval als het goed waarvoor geleend is, ontvreemd wordt, binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal.
+9° verplichte volledige of gedeeltelijke vervroegde terugbetaling: er is geen wederbeleggingsvergoeding verschuldigd. Een verplichte volledige of gedeeltelijke vervroegde terugbetaling gebeurt in het geval als het goed waarvoor geleend is, ontvreemd wordt, binnen de maand nadat de VMSW de kennisgeving van de vervreemding ontvangt. Het aandeel van het op dat ogenblik ontvreemde goed in het leningsbedrag, bepaalt het terug te betalen kapitaal.<br>
+<br>
+De regeling van verplichte volledige of gedeeltelijke vervroegde terugbetaling, vermeld in het eerste lid, 9°, is niet van toepassing op leningen die worden opgenomen voor de financiering van infrastructuurwerken.
 
 ### ART 29.
 
