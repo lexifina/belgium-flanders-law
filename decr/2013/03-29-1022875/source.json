@@ -2,16 +2,16 @@
   "codex_id": 1022875,
   "title": "Decreet van 2013-03-29 betreffende het kader voor het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en voor interfaces met andere vervoerswijzen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022875/VolledigDocument?datum=2013-04-17",
-  "source_sha256": "f05ac2a8bd21f13ef5712bc19a02732ecf4287ba75204fcffe37e6d221c34c83",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022875/VolledigDocument?datum=2026-07-03",
+  "source_sha256": "5a3286aa9032ca599d5d239733235b3bd44171a47108f21c5a7c9bbb453b10de",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022875&param=informatie",
-  "as_of": "2013-04-17",
+  "as_of": "2026-07-03",
   "made": "2013-03-29",
   "gazette": "2013-04-16",
   "numac": 2013035341,
   "document_start": "2013-04-17",
   "document_end": null,
-  "in_force": "2013-04-17",
+  "in_force": "2026-07-03",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2013-04-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-03; future article versions excluded; article text as the API gives it"
 }
