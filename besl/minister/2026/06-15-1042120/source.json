@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042120,
+  "title": "Ministerieel besluit van 2026-06-15 tot uitvoering van artikel 5.192, tweede lid, van het Besluit Vlaamse Codex Wonen van 2021",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042120/VolledigDocument?datum=2026-07-04",
+  "source_sha256": "0e513f17b85873b72fc992cabcb1a5d4a1f28901d767b30d74d3ac92617738f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042120&param=informatie",
+  "as_of": "2026-07-04",
+  "made": "2026-06-15",
+  "gazette": "2026-06-24",
+  "numac": 2026004679,
+  "document_start": "2026-07-04",
+  "document_end": null,
+  "in_force": "2026-07-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2026-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
