@@ -73,6 +73,10 @@ De overdrachten, vermeld in artikel 5, §2, 1°, worden aan derden tegenstelbaar
 <br>
 Deze bekendmaking vermeldt ook de opheffing van het decreet van 8 november 2002 houdende de oprichting van de v.z.w. ESF-Agentschap, gewijzigd bij de decreten van 22 december 2006, 29 juni 2007, 16 juli 2010 en 30 oktober 2015, zoals voorzien in artikel 7 en 8.
 
+### ART 7.
+
+Het decreet van 8 november 2002 houdende de oprichting van de v.z.w. ESF-Agentschap, gewijzigd bij de decreten van 22 december 2006, 29 juni 2007, 16 juli 2010 en 30 oktober 2015, wordt opgeheven.
+
 ### ART 8.
 
 Dit besluit treedt in werking op 1 juni 2026, met uitzondering van artikel 7, dat in werking treedt tien dagen na de bekendmaking van het besluit van de minister tot goedkeuring van het tussentijdse overzicht, vermeld in artikel 5, §1, tweede lid.
