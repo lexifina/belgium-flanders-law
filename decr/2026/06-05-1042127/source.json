@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042127,
+  "title": "Decreet van 2026-06-05 tot wijziging van de bijlage bij het Regiodecreet van 3 februari 2023, wat betreft de wijziging van de referentieregio van de gemeente Wetteren en de aanpassing aan de gemeentefusies",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042127/VolledigDocument?datum=2026-07-05",
+  "source_sha256": "a20629bbf55c94b57e7571302f46cabeb3087e34c8e71b5e87c20bf559aaa860",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042127&param=informatie",
+  "as_of": "2026-07-05",
+  "made": "2026-06-05",
+  "gazette": "2026-06-25",
+  "numac": 2026004703,
+  "document_start": "2026-07-05",
+  "document_end": null,
+  "in_force": "2026-07-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
