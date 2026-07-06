@@ -2,6 +2,10 @@
 
 ## Hoofdstuk 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## Hoofdstuk 2. Wijzigingen van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
 
 ### ART 2.
@@ -80,3 +84,13 @@ In artikel III.41bis van dezelfde codex, ingevoegd bij het decreet van 3 juli 20
 ## Hoofdstuk 4. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
 ## Hoofdstuk 5. Slotbepalingen
+
+### ART 16.
+
+Artikel 6 en 24 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, zoals gewijzigd bij dit decreet, zijn van toepassing op de studietoelagen die worden aangevraagd vanaf het academiejaar 2026-2027. Op de studietoelagen die werden aangevraagd voor de academiejaren die voorafgaan aan het academiejaar 2026-2027 blijven artikel 6 en 24 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap van toepassing zoals zij van kracht waren op de dag voor de inwerkingtreding van artikel 2 en 3 van dit decreet.
+
+### ART 17.
+
+Artikel 2 tot en met 10 en artikel 16 treden in werking op 2 juni 2026.<br>
+<br>
+Artikel 11 tot en met 15 treden in werking op 1 september 2026.

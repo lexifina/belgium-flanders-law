@@ -2,16 +2,16 @@
   "codex_id": 1042139,
   "title": "Decreet van 2026-06-19 tot wijziging van meerdere decreten over het beleidsdomein Onderwijs en Vorming, wat betreft de studietoelagen in het hoger onderwijs en de kinderdagverblijven en voor- en nabewaking in het tweetalige gebied Brussel-Hoofdstad",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042139/VolledigDocument?datum=2026-06-02",
-  "source_sha256": "787adaf77d98bc0b4d4997a72c785762a2a3f1628f182fa6066b24f37972127d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042139/VolledigDocument?datum=2026-07-06",
+  "source_sha256": "7e3b0ef656d7f3fffde203ccfb859e5ae4365f51034126009951cf0408e10e31",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042139&param=informatie",
-  "as_of": "2026-06-02",
+  "as_of": "2026-07-06",
   "made": "2026-06-19",
   "gazette": "2026-06-26",
   "numac": 2026004818,
   "document_start": "2026-07-06",
   "document_end": null,
-  "in_force": "2026-06-02",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2026-06-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-07-06",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2026-07-06; future article versions excluded; article text as the API gives it"
 }
