@@ -34,3 +34,13 @@ In artikel 8.6.4, §1, tweede lid van hetzelfde besluit, ingevoegd bij het beslu
 ### ART 42.
 
 In artikel 9.2.11, §4, tweede lid, 3°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 2 december 2022, wordt het getal “vijf” vervangen door het getal “zes”.
+
+### ART 48.
+
+In artikel 9.4.1 van hetzelfde besluit, ingevoegd bij het besluit van 12 december 2025 worden een tweede tot en met vierde lid ingevoegd, die luiden als volgt:&nbsp;<br>
+<br>
+“Het nominaal vermogen van een &nbsp;verwarmings- of koelinstallatie, vermeld in artikel 11.1/1.2 van het Energiedecreet van 8 mei 2009, wordt bepaald als de som van nominale thermische vermogens van de opwekkers die hydraulisch of koeltechnisch verbonden zijn. De minister legt de berekeningswijze van het nominaal vermogen vast.<br>
+<br>
+De verplichtingen zoals vermeld in artikel 11.1/1.2 van het Energiedecreet van 8 mei 2009 worden opgelegd aan respectievelijk de eigenaar of de houder van het zakelijk recht van de verwarmingssystemen, gecombineerde ruimteverwarmings- en ventilatiesystemen, airconditioningsystemen of gecombineerde airconditioning- en ventilatiesystemen. Behoudens tegenbewijs wordt de eigenaar of de houder van het zakelijk recht van het gebouw, geacht de eigenaar van de systemen te zijn.<br>
+<br>
+De minister kan vereisten bepalen waaraan een systeem voor gebouwautomatisering en –controle moet voldoen.”.
