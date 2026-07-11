@@ -2,16 +2,16 @@
   "codex_id": 1041970,
   "title": "Ministerieel besluit van 2026-04-10 tot de aanwijzing van zwemwateren voor het badseizoen 2026",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041970/VolledigDocument?datum=2026-05-16",
-  "source_sha256": "683d8a5ae3ca5aa52334c243d7a02e640c773ae4bdd5be3724ff8c38001c8d76",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041970/VolledigDocument?datum=2026-07-11",
+  "source_sha256": "bd804666272bcfea81267e37faa895cc1c398a0e2254ae29ba88733333ebf24c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041970&param=informatie",
-  "as_of": "2026-05-16",
+  "as_of": "2026-07-11",
   "made": "2026-04-10",
   "gazette": "2026-05-06",
   "numac": 2026003260,
   "document_start": "2026-05-16",
   "document_end": null,
-  "in_force": "2026-05-16",
+  "in_force": "2026-07-11",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2026-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-11; future article versions excluded; article text as the API gives it"
 }

@@ -1243,6 +1243,14 @@ Binnenwateren die worden aangeduid als zwemwateren voor het badseizoen 2026 als 
 			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:13%">02/06 tot 19/09</td>
 		</tr>
 		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:13%">Lommel</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:28%">Vossemeren</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:14%">X</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:17%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:11%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:13%">01/05 tot 22/09</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:13%">Londerzeel</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:28%">Diepvennen</td>
 			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:14%">X</td>
@@ -1408,6 +1416,14 @@ Binnenwateren die worden aangeduid als zwemwateren voor het badseizoen 2026 als 
 			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:14%">X</td>
 			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:17%">&nbsp;</td>
 			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:11%">X</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:13%">01/05 tot 22/09</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:13%">Vilvoorde</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; height:17px; vertical-align:top; width:28%">Insteekdok</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:14%">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:17%">X</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:11%">&nbsp;</td>
 			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:17px; text-align:center; vertical-align:top; width:13%">01/05 tot 22/09</td>
 		</tr>
 		<tr>
