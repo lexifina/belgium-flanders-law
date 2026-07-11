@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042152,
+  "title": "Ministerieel besluit van 2026-06-23 tot wijziging van bijlage 2 bij het ministerieel besluit van 10 april 2026 tot de aanwijzing van zwemwateren voor het badseizoen 2026",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042152/VolledigDocument?datum=2026-07-11",
+  "source_sha256": "7e5fe129ca027de480d49277b78a500f97113347f8301bd3d8091ba4e6712b14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042152&param=informatie",
+  "as_of": "2026-07-11",
+  "made": "2026-06-23",
+  "gazette": "2026-07-01",
+  "numac": 2026004967,
+  "document_start": "2026-07-11",
+  "document_end": null,
+  "in_force": "2026-07-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
