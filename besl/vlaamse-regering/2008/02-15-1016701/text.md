@@ -66,7 +66,7 @@ Om erkend te kunnen worden, moet de GTB :<br>
 8° aanvaarden dat de bevoegde auditdiensten van de VDAB de werking controleren;<br>
 9° actief deelnemen aan het regionaal overleg dat door de VDAB wordt georganiseerd, zoals vermeld in artikel 4, tweede lid.<br>
 10° voldoen aan de erkenningvoorwaarden als bureau voor kosteloze arbeidsbemiddeling vermeld in artikel 34 tot en met 40 van het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-11° geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie'.
+11° geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.
 
 ### ART. 7.
 
@@ -82,7 +82,7 @@ Om erkend te kunnen worden, moet de GA :<br>
 7° aanvaarden dat de bevoegde auditdiensten van de VDAB de werking controleren;<br>
 8° een technische, budgettaire en administratieve autonomie hebben die het in staat stelt zijn opdracht te vervullen;<br>
 9° erkend zijn als multidisciplinair team door het Vlaams Agentschap voor Personen met een Handicap;<br>
-10° geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.<br>
+10° geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
 Bij de aanvraag voegt de GA een exemplaar van de statuten of oprichtingsbesluit evenals de lijst van hun bestuurders. De statuten of het oprichtingsbesluit dienen onder meer te vermelden :<br>
 1° de benaming, het adres van de hoofdzetel en de locaties waar hun activiteiten zullen worden uitgeoefend;<br>
@@ -113,7 +113,7 @@ Om erkend te kunnen worden, moet de GOB :<br>
 8° een technische, budgettaire en administratieve autonomie hebben die het in staat stelt zijn opdracht te vervullen;<br>
 9° de nodige maatregelen nemen opdat de niet-werkende werkzoekenden met een arbeidshandicap die op haar aanbod een beroep doen het voordeel genieten van de voordelen, vermeld in artikel 4, vierde lid;<br>
 10° voldoen aan de erkenningvoorwaarden als bureau voor kosteloze arbeidsbemiddeling, vermeld in artikel 34 tot en met 40 van het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-11° geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.<br>
+11° geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
 Onverminderd alle andere bepalingen in artikel 8 kan de VDAB een GOB erkennen ten behoeve van één of meer specifieke groepen van niet-werkende werkzoekenden die zich tot die GOB kunnen richten ongeacht hun verblijfplaats of een GOB erkennen die een specifiek opleiding- en plaatsingsaanbod ter beschikking stelt van niet-werkende werkzoekenden ongeacht hun verblijfplaats.<br>
 &nbsp;
