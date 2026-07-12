@@ -35,7 +35,7 @@ Onder de Vlaamse socio-culturele sector wordt verstaan de sectoren zoals bedoeld
 - de helft van het aantal werknemers indien zij minder dan 12 werknemers tewerkstelt;<br>
 14° alleenstaande: de werknemer die alleen woont, eventueel met één of meerdere kinderen ten laste;<br>
 15° minister : de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid;<br>
-16° Departement WSE: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie.<br>
+16° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
 De volgende verloven worden gelijkgesteld met het tijdskrediet, vermeld in het eerste lid, 6° :<br>
 1° het ouderschapsverlof, vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan;<br>
@@ -139,7 +139,7 @@ In het tweede lid wordt verstaan onder:<br>
 2° kortgeschoold: niet beschikken over een diploma van secundair onderwijs;<br>
 3° middengeschoold: ten hoogste beschikken over een diploma van secundair onderwijs.<br>
 <br>
-De opleiding wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
+De opleiding wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.
 
 ### ART. 15.
 
@@ -197,11 +197,23 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 
 ### ART. 23.
 
-§ 1. De werknemer dient een aanvraag voor de aanmoedigingspremie in bij   het Departement WSE.<BR><BR>§ 2. De aanvraag wordt ingediend met het papieren   aanvraagformulier of, voor zover dat door het Departement WSE ter beschikking   wordt gesteld, met het elektronische aanvraagformulier.<BR><BR>De minister   bepaalt het model van aanvraagformulier.<BR><BR>§ 3. De aanvraag is alleen   ontvankelijk als ze voldoet aan de volgende voorwaarden : <BR>1° het   aanvraagformulier wordt volledig en correct ingevuld en ondertekend;<BR>2° alle   verplichte bewijsstukken worden bij het aanvraagformulier gevoegd, conform de   vereisten die zijn opgenomen in het aanvraagformulier.
+§ 1. De werknemer dient een aanvraag voor de aanmoedigingspremie in bij het departement.<br>
+<br>
+§ 2. De aanvraag wordt ingediend met het papieren aanvraagformulier of, voor zover dat door het departement ter beschikking wordt gesteld, met het elektronische aanvraagformulier.<br>
+<br>
+De minister bepaalt het model van aanvraagformulier.<br>
+<br>
+§ 3. De aanvraag is alleen ontvankelijk als ze voldoet aan de volgende voorwaarden :<br>
+1° het aanvraagformulier wordt volledig en correct ingevuld en ondertekend;<br>
+2° alle verplichte bewijsstukken worden bij het aanvraagformulier gevoegd, conform de vereisten die zijn opgenomen in het aanvraagformulier.
 
 ### ART. 24.
 
-§ 1. Om geldig te zijn moet de werknemer zijn aanvraag tot het bekomen van   de aanmoedigingspremie indienen binnen zes maanden na aanvang van de   loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.<BR><BR>§   2. Na betalingsopdracht door het Departement WSE wordt de premie voor de   afgelopen maand aan de rechthebbende werknemer uitgekeerd.<BR><BR>§ 3. De   aanmoedigingspremies&nbsp;met uitzondering van de aanmoedigingspremies in het   kader van de landingsbanen geregeld in artikel 10, 11 en 13 van dit besluit,   worden geïndexeerd en zijn gekoppeld aan de spilindex 109,45. De indexering   geschiedt vanaf de tweede maand die volgt op het einde van de periode van twee   maanden tijdens dewelke het gemiddeld indexcijfer het cijfer bereikt dat een   wijziging rechtvaardigt.
+§ 1. Om geldig te zijn moet de werknemer zijn aanvraag tot het bekomen van de aanmoedigingspremie indienen binnen zes maanden na aanvang van de loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.<br>
+<br>
+§ 2. Na betalingsopdracht door het departement wordt de premie voor de afgelopen maand aan de rechthebbende werknemer uitgekeerd.<br>
+<br>
+§ 3. De aanmoedigingspremies&nbsp;met uitzondering van de aanmoedigingspremies in het kader van de landingsbanen geregeld in artikel 10, 11 en 13 van dit besluit, worden geïndexeerd en zijn gekoppeld aan de spilindex 109,45. De indexering geschiedt vanaf de tweede maand die volgt op het einde van de periode van twee maanden tijdens dewelke het gemiddeld indexcijfer het cijfer bereikt dat een wijziging rechtvaardigt.
 
 ## HOOFDSTUK V CONTROLE EN SANCTIES
 
@@ -211,7 +223,7 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 <br>
 § 2. Onrechtmatig verkregen aanmoedigingspremies worden teruggevorderd van de partij die aanleiding heeft gegeven tot het onrechtmatig karakter van de uitbetaling van de premie.<br>
 <br>
-§ 3. De controle op de naleving van de voorwaarden wordt uitgeoefend door de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het departement Werk en Sociale Economie.
+§ 3. De controle op de naleving van de voorwaarden wordt uitgeoefend door de sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het departement.
 
 ## [HOOFDSTUK VI EVALUATIE (verv. BVR 5 april 2019, art. 7, I: 1 september 2019)]
 
@@ -230,7 +242,7 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 
 ### ART 26/1.
 
-Elke drie jaar evalueert het Departement WSE de aanmoedigingspremie in het kader van het opleidingskrediet en voert het onderzoek naar de evolutie van het gebruik van de aanmoedigingspremies, het profiel van de werknemers die ervan gebruikmaken en de inhoud van de gevolgde opleidingen.<br>
+Elke drie jaar evalueert het departement de aanmoedigingspremie in het kader van het opleidingskrediet en voert het onderzoek naar de evolutie van het gebruik van de aanmoedigingspremies, het profiel van de werknemers die ervan gebruikmaken en de inhoud van de gevolgde opleidingen.<br>
 <br>
 De Opleidingscommissie, vermeld in artikel 110, § 1, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, volgt jaarlijks de budgettaire ontwikkeling op van de regeling over de aanmoedigingspremie in het kader van het opleidingskrediet.<br>
 <br>
@@ -240,13 +252,13 @@ De Opleidingscommissie, vermeld in het tweede lid, kan een advies uitbrengen in 
 
 ### ART 26bis.
 
-Het Departement WSE treedt op als de verwerkingsverantwoordelijke van persoonsgegevens, zoals bedoeld in artikel 4, 7), van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), hierna de algemene verordening gegevensbescherming te noemen, voor de verwerking van persoonsgegevens in het kader van de toekenning, de controle en de terugvordering van de aanmoedigingspremies, het monitoringssysteem, vermeld in artikel 26, § 3, en de driejaarlijkse evaluatie, vermeld in artikel 26/1.<br>
+Het departement treedt op als de verwerkingsverantwoordelijke van persoonsgegevens, zoals bedoeld in artikel 4, 7), van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), hierna de algemene verordening gegevensbescherming te noemen, voor de verwerking van persoonsgegevens in het kader van de toekenning, de controle en de terugvordering van de aanmoedigingspremies, het monitoringssysteem, vermeld in artikel 26, § 3, en de driejaarlijkse evaluatie, vermeld in artikel 26/1.<br>
 <br>
 De persoonsgegevens die in het kader van het monitoringssysteem en de driejaarlijkse evaluatie worden verwerkt, worden geanonimiseerd.
 
 ### ART 26ter.
 
-Het Departement WSE wisselt in het kader van de toekenning, de controle en terugvordering van aanmoedigingspremies de volgende persoonsgegevens uit met de volgende instanties van aanmoedigingspremies de volgende persoonsgegevens uit met de volgende instanties:<br>
+Het departement wisselt in het kader van de toekenning, de controle en terugvordering van aanmoedigingspremies de volgende persoonsgegevens uit met de volgende instanties van aanmoedigingspremies de volgende persoonsgegevens uit met de volgende instanties:<br>
 1° de tewerkstellingsgegevens van de werknemer met de Rijksdienst voor Sociale Zekerheid;<br>
 2° het rijksregisternummer, de identificatiegegevens en de gezinssamenstelling van de werknemer met het Rijksregister van de natuurlijke personen;<br>
 3° de opname door de werknemer van het recht op voltijds tijdskrediet, halftijdse loopbaanvermindering of loopbaanvermindering met een vijfde om een opleiding te volgen met de Rijksdienst voor Arbeidsvoorziening;<br>
