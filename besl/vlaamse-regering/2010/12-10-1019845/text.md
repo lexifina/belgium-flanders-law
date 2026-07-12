@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder :<br>
 7° protocolakkoord : een samenwerkingsovereenkomst, na advies van de adviescommissie, tussen de minister en de respectieve beroepsfederaties in verband met het verstrekken door de beroepsfederaties van relevante arbeidsmarktinformatie. In een protocolakkoord worden onder meer gegevens vastgelegd die inspelen op de afstemming tussen vraag en aanbod, gegevens met betrekking tot de werkzoekenden en een vacature-analyse omvattende gegevens met betrekking tot de kenmerken van de vacatures, het verloop van de invulling, de effectieve invulling, de kwaliteit van de arbeid, de aanbodzijde en de vormingsbehoeften;<br>
 8° bouwsector : de ondernemingen die ressorteren onder het Paritair Comité voor het Bouwbedrijf;<br>
 9° artistieke sector : de personen, de verenigingen in rechte of in feite of ondernemingen actief in de creatie en/of uitvoering of interpretatie van artistieke oeuvres in de audiovisuele en de beeldende kunsten, in de muziek, de literatuur, het spektakel, het theater en de choreografie. De prestaties die uitgevoerd worden door podiumtechnici, kunnen daarmee worden gelijkgesteld;<br>
-10° administratie: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+10° administratie: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 11° adviescommissie: de adviescommissie, vermeld in 20/13 van het decreet.
 
 ## HOOFDSTUK 2. Algemene bepalingen inzake arbeidsbemiddeling
@@ -49,7 +49,28 @@ Bureaus die werkaanbiedingen via de geschreven, auditieve of visuele media beken
 
 ### ART. 6.
 
-§ 1. Overeenkomstig artikel 9, § 1, van het decreet is voor het verrichten van uitzendactiviteiten een erkenning als uitzendbureau vereist. Voor de uitzendactiviteiten in de bouwsector en in de artistieke sector is een specifieke afzonderlijke erkenning vereist.<br /><br />§ 2. Voor uitzendactiviteiten in de bouwsector gelden de volgende bijkomende voorwaarden :<br />1° de erkenning geldt enkel voor het aanbieden van uitzendactiviteiten aan ondernemingen die behoren tot de bouwsector;<br />2° het bureau mag niet in ernstige overtreding zijn met de wettelijke, reglementaire en conventionele bepalingen in verband met uitzendarbeid in de bouwsector.<br /><br />§ 3. Voor uitzendactiviteiten in de artistieke sector gelden de volgende bijkomende voorwaarden :<br />1° de erkenning geldt enkel voor het aanbieden van activiteiten in de artistieke sector;<br />2° het bureau mag niet in ernstige overtreding zijn met de wettelijke, reglementaire en conventionele bepalingen in verband met tewerkstelling in de artistieke sector.<br /><br />§ 4. Overeenkomstig artikel 9, § 2, 5°, van het decreet moet het uitzendbureau zijn erkenningsnummer vermelden bij externe communicatie. Onder externe communicatie worden de hiernavolgende gegevensbronnen, ongeacht onder welke vorm, verstaan :<br />1° overeenkomsten;<br />2° offertes;<br />3° facturen;<br />4° briefwisseling;<br />5° e-mailverkeer;<br />6° personeelsadvertenties die worden gepubliceerd via geschreven of visuele media;<br />7° websites.<br /><br />§ 5. Het uitzendbureau dat zijn maatschappelijke zetel buiten het Vlaamse Gewest heeft of als natuurlijke persoon kantoor houdt buiten het Vlaamse Gewest, houdt bij een administratieve controle de door de wet opgelegde documenten en stukken, alsmede de documenten en de stukken die met de uitoefening van de activiteiten in het Vlaamse Gewest verband houden, op verzoek van de afdeling Inspectie Werk en Sociale Economie van het Departement Werk en Sociale Economie naar hun keuze ter beschikking op een van de volgende locaties :<br />1° op de plaats in het Vlaamse Gewest waar de diensten worden verricht;<br />2° op een door het bureau aangewezen adres in het Vlaamse Gewest.
+§ 1. Overeenkomstig artikel 9, § 1, van het decreet is voor het verrichten van uitzendactiviteiten een erkenning als uitzendbureau vereist. Voor de uitzendactiviteiten in de bouwsector en in de artistieke sector is een specifieke afzonderlijke erkenning vereist.<br>
+<br>
+§ 2. Voor uitzendactiviteiten in de bouwsector gelden de volgende bijkomende voorwaarden :<br>
+1° de erkenning geldt enkel voor het aanbieden van uitzendactiviteiten aan ondernemingen die behoren tot de bouwsector;<br>
+2° het bureau mag niet in ernstige overtreding zijn met de wettelijke, reglementaire en conventionele bepalingen in verband met uitzendarbeid in de bouwsector.<br>
+<br>
+§ 3. Voor uitzendactiviteiten in de artistieke sector gelden de volgende bijkomende voorwaarden :<br>
+1° de erkenning geldt enkel voor het aanbieden van activiteiten in de artistieke sector;<br>
+2° het bureau mag niet in ernstige overtreding zijn met de wettelijke, reglementaire en conventionele bepalingen in verband met tewerkstelling in de artistieke sector.<br>
+<br>
+§ 4. Overeenkomstig artikel 9, § 2, 5°, van het decreet moet het uitzendbureau zijn erkenningsnummer vermelden bij externe communicatie. Onder externe communicatie worden de hiernavolgende gegevensbronnen, ongeacht onder welke vorm, verstaan :<br>
+1° overeenkomsten;<br>
+2° offertes;<br>
+3° facturen;<br>
+4° briefwisseling;<br>
+5° e-mailverkeer;<br>
+6° personeelsadvertenties die worden gepubliceerd via geschreven of visuele media;<br>
+7° websites.<br>
+<br>
+§ 5. Het uitzendbureau dat zijn maatschappelijke zetel buiten het Vlaamse Gewest heeft of als natuurlijke persoon kantoor houdt buiten het Vlaamse Gewest, houdt bij een administratieve controle de door de wet opgelegde documenten en stukken, alsmede de documenten en de stukken die met de uitoefening van de activiteiten in het Vlaamse Gewest verband houden, op verzoek van de afdeling Vlaamse Sociale Inspectie van de administratie naar hun keuze ter beschikking op een van de volgende locaties :<br>
+1° op de plaats in het Vlaamse Gewest waar de diensten worden verricht;<br>
+2° op een door het bureau aangewezen adres in het Vlaamse Gewest.
 
 ## Afdeling 3. Procedure inzake de erkenning
 
@@ -104,7 +125,7 @@ In het eerste lid wordt verstaan onder externe communicatie: al de volgende gege
 6° advertenties die worden gepubliceerd via geschreven of visuele media;<br>
 7° websites.<br>
 <br>
-§ 3. De sportmakelaar die zijn maatschappelijke zetel buiten het Vlaamse Gewest heeft of die als natuurlijke persoon kantoor houdt buiten het Vlaamse Gewest, houdt voor een administratieve controle de documenten en stukken die door de wet zijn vereist, en ook de documenten en de stukken die met de uitoefening van de activiteiten in het Vlaamse Gewest verband houden, op verzoek van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie naar eigen keuze ter beschikking op een van de volgende locaties:<br>
+§ 3. De sportmakelaar die zijn maatschappelijke zetel buiten het Vlaamse Gewest heeft of die als natuurlijke persoon kantoor houdt buiten het Vlaamse Gewest, houdt voor een administratieve controle de documenten en stukken die door de wet zijn vereist, en ook de documenten en de stukken die met de uitoefening van de activiteiten in het Vlaamse Gewest verband houden, op verzoek van de afdeling Vlaamse Sociale Inspectie van de administratie naar eigen keuze ter beschikking op een van de volgende locaties:<br>
 1° op de plaats in het Vlaamse Gewest waar de diensten worden verricht;<br>
 2° op een adres in het Vlaamse Gewest die door het bureau is aangewezen.
 
@@ -153,7 +174,7 @@ De administratie publiceert een lijst van de geregistreerde sportmakelaars, die 
 
 ### ART 13/6.
 
-De sportorganisatie die gevestigd is op het Belgische grondgebied, en die een licentie als sportmakelaar uitvaardigt of waarbij een sportmakelaar zich kan laten registreren, bezorgt de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie op diens verzoek de volgende gegevens, in zoverre zij de Vlaamse Sociale Inspectie kunnen aanbelangen bij de uitoefening van het toezicht waarmee zij is belast:<br>
+De sportorganisatie die gevestigd is op het Belgische grondgebied, en die een licentie als sportmakelaar uitvaardigt of waarbij een sportmakelaar zich kan laten registreren, bezorgt de afdeling Vlaamse Sociale Inspectie van de administratie op diens verzoek de volgende gegevens, in zoverre zij de Vlaamse Sociale Inspectie kunnen aanbelangen bij de uitoefening van het toezicht waarmee zij is belast:<br>
 1° de namen van alle bij haar gelicentieerde of geregistreerde sportmakelaars;<br>
 2° in voorkomend geval, het overzicht van alle bij haar geregistreerde transacties waarbij sportmakelaars zijn betrokken;<br>
 3° het overzicht van de sportmakelaars aan wie ze een sanctie hebben opgelegd, met vermelding van het type sanctie en de motivering voor de oplegging van die sanctie.<br>
@@ -182,7 +203,15 @@ De beslissing van de minister wordt door de administratie aan de sportmakelaar m
 
 ### ART. 14.
 
-§ 1. De administratie bevestigt de ontvangst van de klacht schriftelijk binnen tien dagen na de ontvangst van de klacht.<br /><br />Een ontvankelijke klacht die kan worden afgehandeld zonder aanvullende informatie of aanvullend onderzoek, wordt binnen dertig dagen na de ontvangst beantwoord.<br /><br />§ 2. Als bij de ontvangst van de ontvankelijke klacht blijkt dat verder onderzoek nodig is, wordt het dossier bezorgd aan de afdeling Inspectie van het Departement Werk en Sociale Economie. Binnen vijftien dagen nadat de afdeling Inspectie van het Departement Werk en Sociale Economie het dossier heeft ontvangen, krijgt de klager een ontvangstmelding met vermelding van de contactpersoon en de stappen die bij de behandeling van de klacht zullen worden gezet.<br /><br />De resultaten van het onderzoek worden binnen een termijn van dertig dagen na het beëindigen ervan aan de adviescommissie bezorgd. De klager wordt binnen diezelfde termijn op de hoogte gebracht van de resultaten van het onderzoek.<br /><br />§ 3. Als de administratie de klacht onontvankelijk verklaart, deelt hij de reden daarvan mee aan de klager binnen dertig dagen na ontvangst van de klacht.
+§ 1. De administratie bevestigt de ontvangst van de klacht schriftelijk binnen tien dagen na de ontvangst van de klacht.<br>
+<br>
+Een ontvankelijke klacht die kan worden afgehandeld zonder aanvullende informatie of aanvullend onderzoek, wordt binnen dertig dagen na de ontvangst beantwoord.<br>
+<br>
+§ 2. Als bij de ontvangst van de ontvankelijke klacht blijkt dat verder onderzoek nodig is, wordt het dossier bezorgd aan de afdeling Vlaamse Sociale Inspectie van de administratie. Binnen vijftien dagen nadat de afdeling Vlaamse Sociale Inspectie van de administratie het dossier heeft ontvangen, krijgt de klager een ontvangstmelding met vermelding van de contactpersoon en de stappen die bij de behandeling van de klacht zullen worden gezet.<br>
+<br>
+De resultaten van het onderzoek worden binnen een termijn van dertig dagen na het beëindigen ervan aan de adviescommissie bezorgd. De klager wordt binnen diezelfde termijn op de hoogte gebracht van de resultaten van het onderzoek.<br>
+<br>
+§ 3. Als de administratie de klacht onontvankelijk verklaart, deelt hij de reden daarvan mee aan de klager binnen dertig dagen na ontvangst van de klacht.
 
 ## HOOFDSTUK 6. Samenwerking private en publieke bureaus
 
@@ -557,34 +586,20 @@ Het commissieloon voor de bemiddeling van de betaalde sportbeoefenaar wordt bere
 <br>
 19. Het bureau moet de gedragscode onderschrijven en naleven. De gedragscode maakt integraal deel uit van deze tekst.<br>
 <br>
-20. Klachten wegens vermeende inbreuk op de arbeidsbemiddelingwetgeving kunnen worden ingediend bij :<br>
-Departement Werk en Sociale Economie<br>
-Dienst Migratie en Arbeidsbemiddelingbureaus<br>
-Ellipsgebouw<br>
-Koning Albert II-laan 35, bus 21<br>
-1030 Brussel<br>
-telefoon : 02-553 44 73<br>
-fax :02-553 44 22<br>
-e-mail : arbeidsbemiddeling@vlaanderen.be<br>
+20. Klachten wegens vermeende inbreuk op de arbeidsbemiddelingswetgeving kunnen worden ingediend bij:<br>
+Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie<br>
+Dienst Dienstencheques en Uitzend<br>
+Koning Albert II-laan 15 bus 380<br>
+1210 Brussel<br>
+e-mail: arbeidsbemiddeling@vlaanderen.be<br>
 <br>
 Om ontvankelijk te zijn, moet de klacht gemotiveerd zijn en op duidelijke wijze omschrijven welke de vermeende inbreuk is. De anonimiteit van de klager wordt gewaarborgd.<br>
 <br>
-21. Klachten kunnen ook worden ingediend bij :<br>
-Departement Werk en Sociale Economie<br>
-Afdeling Inspectie<br>
-Ellipsgebouw<br>
-Koning Albert II-laan 35, bus 20<br>
-1030 Brussel<br>
-telefoon : 02 553 08 88<br>
-fax : 02-553 42 71<br>
-e-mail : werkgelegenheid.inspectie@vlaanderen.be<br>
+21. Klachten kunnen ook worden ingediend bij:<br>
+Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie<br>
+Afdeling Vlaamse Sociale Inspectie<br>
+Koning Albert II-laan 15 bus 381<br>
+1210 Brussel<br>
+e-mail: vlaamse.sociale.inspectie@vlaanderen.be.<br>
 <br>
-22. De volgende dienst is belast met het toezicht op en de handhaving van het arbeidsbemiddelingsdecreet en zijn uitvoeringsbesluiten :<br>
-Departement Werk en Sociale Economie<br>
-Afdeling Inspectie<br>
-Ellipsgebouw<br>
-Koning Albert II-laan 35, bus 20<br>
-1030 Brussel<br>
-telefoon : 02-553 08 88<br>
-fax : 02-553 42 71<br>
-e-mail : werkgelegenheid.inspectie@vlaanderen.be
+22. ...
