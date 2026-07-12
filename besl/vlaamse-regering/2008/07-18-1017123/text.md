@@ -449,7 +449,9 @@ De heroverwegingscommissie brengt haar advies uit binnen 60 dagen nadat ze het h
 
 ### ART. 39.
 
-De persoon met een arbeidshandicap of de werkgever verstrekt aan de VDAB op het eerste verzoek alle nodige documenten of inlichtingen om de naleving van de toekenningsvoorwaarden te controleren. Zij laten de afgevaardigden van de VDAB toe zich ter plekke te vergewissen van de noodzaak en omvang van de bijzondere tewerkstellingsondersteunende maatregelen.<br /><br />De sociaalrechtelijke inspecteurs van de entiteit Inspectie van het departement Werk en Sociale Economie zijn gerechtigd om ter plaatse controle uit te oefenen op de naleving van de bepalingen van dit besluit.
+De persoon met een arbeidshandicap of de werkgever verstrekt aan de VDAB op het eerste verzoek alle nodige documenten of inlichtingen om de naleving van de toekenningsvoorwaarden te controleren. Zij laten de afgevaardigden van de VDAB toe zich ter plekke te vergewissen van de noodzaak en omvang van de bijzondere tewerkstellingsondersteunende maatregelen.<br>
+<br>
+De sociaalrechtelijke inspecteurs van de afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie zijn gerechtigd om ter plaatse controle uit te oefenen op de naleving van de bepalingen van dit besluit.
 
 ### ART. 40.
 
