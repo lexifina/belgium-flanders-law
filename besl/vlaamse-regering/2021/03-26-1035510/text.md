@@ -75,7 +75,7 @@ De kandidaat-partnerorganisatie dient een mandaataanvraag in bij de VDAB en krij
 <br>
 In haar aanvraag toont de kandidaat-partnerorganisatie aan dat ze aan al de volgende voorwaarden voldoet:<br>
 1° ze heeft het statuut van rechtspersoon die is opgericht conform de rechtsregels van de lidstaat van vestiging. Ze toont daarbij aan dat de organisatie van opleidingen past binnen de activiteiten die vermeld zijn in haar statuten of in haar wettelijke of decretale opdrachten;<br>
-2° ze is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+2° ze is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 3° in de vijf jaar vóór de mandaataanvraag is ze niet gestraft met de intrekking van haar mandaat van partnerorganisatie met toepassing van artikel 8 van dit besluit;<br>
 4° ze verklaart geen kennis te hebben van het feit dat ze het voorwerp uitmaakt van een gerechtelijk onderzoek wegens bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
 5° ze heeft geen onherroepelijke veroordeling opgelopen wegens bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
