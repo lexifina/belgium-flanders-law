@@ -171,7 +171,7 @@ Het programma voor bilaterale onderzoekssamenwerking heeft tot doel bilaterale o
 § 1. Voorstellen voor samenwerking met landen en regio's worden beoordeeld door een aparte commissie, die als volgt is samengesteld :<br>
 1° vijf vertegenwoordigers namens de Vlaamse universiteiten;<br>
 2° één vertegenwoordiger namens het FWO;<br>
-3° één vertegenwoordiger namens het departement Economie, Wetenschap en Innovatie;<br>
+3° één vertegenwoordiger namens het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie;<br>
 4° één vertegenwoordiger namens het departement Buitenlandse Zaken;<br>
 5° één vertegenwoordiger namens de VLIR-UOS.<br>
 <br>
@@ -339,10 +339,10 @@ De raad van bestuur wijst een voorzitter en een plaatsvervangende voorzitter aan
 
 ### ART 25/5.
 
-De raad van bestuur richt een commissie invest op, die bestaat uit een effectief lid en een plaatsvervanger voorgedragen door respectievelijk het Departement Economie, Wetenschap en Innovatie, de Participatiemaatschappij Vlaanderen en het FWO. Voor het FWO kunnen noch leden van de raad van bestuur noch medewerkers zitting hebben in de commissie invest.<br>
+De raad van bestuur richt een commissie invest op, die bestaat uit een effectief lid en een plaatsvervanger voorgedragen door respectievelijk het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, de Participatiemaatschappij Vlaanderen en het FWO. Voor het FWO kunnen noch leden van de raad van bestuur noch medewerkers zitting hebben in de commissie invest.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
-1° Departement Economie, Wetenschap en Innovatie: het departement, vermeld in artikel 21, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie: het departement, vermeld in artikel 29/1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° Participatiemaatschappij Vlaanderen: de naamloze vennootschap Participatiemaatschappij Vlaanderen opgericht bij notariële akte van 31 juli 1995, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 25 augustus 1995 onder het nummer 950825-236, met inbegrip van alle latere wijzigingen van de statuten.<br>
 <br>
 De leden van de commissie invest worden door de raad van bestuur benoemd voor een hernieuwbare termijn van zes jaar.<br>
