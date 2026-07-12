@@ -110,7 +110,7 @@ Er wordt een Brownfieldcel opgericht die belast wordt met de volgende opdrachten
 De Brownfieldcel bestaat minstens uit:<br>
 1° een vertegenwoordiger van de Vlaamse minister, bevoegd voor Economie;<br>
 2° een vertegenwoordiger van de Vlaamse minister bevoegd voor Omgeving;<br>
-3° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst,&nbsp;van het Agentschap voor Innoveren en Ondernemen van het beleidsdomein Economie, Wetenschap en Innovatie;<br>
+3° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst,&nbsp;van het Agentschap voor Innoveren en Ondernemen van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 4° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst,&nbsp;van het Departement Omgeving van het beleidsdomein Omgeving<br>
 5° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst, van de Openbare Vlaamse Afvalstoffenmaatschappij van het beleidsdomein Omgeving;<br>
 6° de leidend ambtenaar, of een afdelingshoofd die de leidend ambtenaar aanwijst, van het Departement Mobiliteit en Openbare Werken van het beleidsdomein Mobiliteit en Openbare Werken.<br>
