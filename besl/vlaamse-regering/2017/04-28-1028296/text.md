@@ -25,7 +25,7 @@ In dit besluit wordt verstaan onder VDAB: het publiekrechtelijk vormgegeven exte
 ### ART 2.
 
 Een natuurlijke persoon of rechtspersoon die de instroomopleiding Havenarbeider wil aanbieden, voldoet aan de volgende voorwaarden:<br>
-1° hij is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+1° hij is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 2° hij zet lesgevers in die voldoen aan de volgende voorwaarden:<br>
 a) de lesgevers beschikken over een professionele ervaring van minstens zes jaar in de onderwezen materie;<br>
 b) de lesgevers zijn op de hoogte van en houden rekening met de meest recente ontwikkelingen in de beroepsopleidingsvoorschriften en -eisen;<br>
