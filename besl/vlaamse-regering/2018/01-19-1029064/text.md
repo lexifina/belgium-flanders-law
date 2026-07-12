@@ -19,7 +19,7 @@ Besluit :
 In dit besluit wordt verstaan onder :<br>
 1° commissie Science : de commissie, vermeld in artikel 4;<br>
 2° commissie Strategie : de commissie, vermeld in artikel 5;<br>
-3° Departement EWI : het Departement Economie, Wetenschap en Innovatie, vermeld in artikel 21, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+3° Departement WEWIS: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° derde : een rechtspersoon die in het kader van dit besluit geen subsidies kan verkrijgen;<br>
 5° ESFRI-forum : European Strategy Forum for Research Infrastructures;<br>
 6° FWO : de privaatrechtelijke stichting van openbaar nut Fonds Wetenschappelijk Onderzoek- Vlaanderen, vermeld in artikel 15, § 1, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid;<br>
@@ -89,28 +89,28 @@ De commissie Science dekt in haar samenstelling de wetenschapsgebieden met belan
 <br>
 De commissie Science kan worden aangevuld met experts als bijkomende expertise tijdelijk is vereist.<br>
 <br>
-Een waarnemend vertegenwoordiger van het Departement EWI en van het FWO wonen de commissie Science bij.<br>
+Een waarnemend vertegenwoordiger van het Departement WEWIS en van het FWO wonen de commissie Science bij.<br>
 <br>
 De leden van de commissie Science worden door de raad van bestuur benoemd voor een hernieuwbare termijn van zes jaar. De raad van bestuur wijst een voorzitter aan.
 
 ### ART 5.
 
-In dit artikel wordt verstaan onder beleidsraad: de beleidsraad, vermeld in artikel III.1, vijfde lid, van het bestuursdecreet van 7 december 2018, die is opgericht voor het beleidsdomein Economie, Wetenschap en Innovatie.<br>
+In dit artikel wordt verstaan onder beleidsraad: de beleidsraad, vermeld in artikel III.1, vijfde lid, van het bestuursdecreet van 7 december 2018, die is opgericht voor het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
-De raad van bestuur richt een commissie Strategie op. De leden van die commissie worden door de raad van bestuur benoemd op voordracht van de beleidsraad van het Beleidsdomein Economie, Wetenschap en Innovatie.<br>
+De raad van bestuur richt een commissie Strategie op. De leden van die commissie worden door de raad van bestuur benoemd op voordracht van de beleidsraad van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
 De leden van de commissie Strategie bezitten gezamenlijk een internationale of Vlaamse expertise in het beheer van investeringsdossiers, het internationale of Vlaamse wetenschaps- en innovatiebeleid, en het beheer of beleid van internationale onderzoeksinfrastructuren.<br>
 <br>
 De commissie Strategie bestaat uit maximaal tien leden, waaronder minimaal :<br>
 1° een vertegenwoordiger van de minister;<br>
 2° een vertegenwoordiger vanuit ParticipatieMaatschappij Vlaanderen;<br>
-3° een vertegenwoordiger vanuit het Departement EWI;<br>
+3° een vertegenwoordiger vanuit het Departement WEWIS;<br>
 4° een lid van de commissie Science;<br>
 5° twee internationale experten.<br>
 <br>
 De commissie Strategie kan worden aangevuld met experts als bijkomende expertise tijdelijk is vereist.<br>
 <br>
-Een waarnemend vertegenwoordiger van het Departement EWI en van het FWO wonen de commissie Strategie bij.<br>
+Een waarnemend vertegenwoordiger van het Departement WEWIS en van het FWO wonen de commissie Strategie bij.<br>
 <br>
 De leden van de commissie Strategie worden benoemd voor een hernieuwbare termijn van vijf jaar. De beleidsraad wijst een voorzitter aan.<br>
 <br>
