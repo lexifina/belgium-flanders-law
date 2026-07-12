@@ -33,12 +33,12 @@
 
 ### ART 1.
 
-<span style="color: rgb(0, 0, 0);">In dit besluit wordt verstaan onder :</span><br>
-<span style="color: rgb(0, 0, 0);">1° voltijdse arbeidsregeling : de voltijdse arbeidsregeling die van toepassing is op het personeelslid en die bepaald is in het statuut, de arbeidsovereenkomst of de uitvoeringsbesluiten.</span><br>
-<span style="color: rgb(0, 0, 0);">2° onderbreking : de volledige of gedeeltelijke onderbreking van de arbeidsprestaties;</span><br>
-<span style="color: rgb(0, 0, 0);">3° zorgkrediet : onderbreking van de arbeidsprestaties waarvoor een onderbrekingsuitkering wordt toegekend op basis van de voorwaarden bepaald in dit besluit;</span><br>
-<span style="color: rgb(0, 0, 0);">4° departement : het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie.</span><br>
-<span style="color: rgb(0, 0, 0);">5° kind : het kind waarvan de afstamming van het personeelslid, of de partner met wie het personeelslid gehuwd is of een verklaring van wettelijke samenwoning heeft afgelegd vaststaat of het kind van wie het personeelslid, of de partner met wie het personeelslid gehuwd is of een verklaring van wettelijke samenwoning heeft afgelegd de pleegvoogd is vermeld in artikel 475ter tot en met 475septies van het Burgerlijk Wetboek of&nbsp;het pleegkind zoals bedoeld in het decreet van 29 juni 2012 houdende de organisatie van de pleegzorg.</span><br>
+In dit besluit wordt verstaan onder :<br>
+1° voltijdse arbeidsregeling : de voltijdse arbeidsregeling die van toepassing is op het personeelslid en die bepaald is in het statuut, de arbeidsovereenkomst of de uitvoeringsbesluiten.<br>
+2° onderbreking : de volledige of gedeeltelijke onderbreking van de arbeidsprestaties;<br>
+3° zorgkrediet : onderbreking van de arbeidsprestaties waarvoor een onderbrekingsuitkering wordt toegekend op basis van de voorwaarden bepaald in dit besluit;<br>
+4° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+5° kind : het kind waarvan de afstamming van het personeelslid, of de partner met wie het personeelslid gehuwd is of een verklaring van wettelijke samenwoning heeft afgelegd vaststaat of het kind van wie het personeelslid, of de partner met wie het personeelslid gehuwd is of een verklaring van wettelijke samenwoning heeft afgelegd de pleegvoogd is vermeld in artikel 475ter tot en met 475septies van het Burgerlijk Wetboek of&nbsp;het pleegkind zoals bedoeld in het decreet van 29 juni 2012 houdende de organisatie van de pleegzorg.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Toepassingsgebied
@@ -122,11 +122,11 @@ Dit besluit is niet van toepassing op de personeelsleden vermeld in het eerste l
 
 ### ART 7.
 
-<span style="color: rgb(0, 0, 0);">Aan een personeelslid wordt een onderbrekingsuitkering toegekend als het zijn arbeidsprestaties onderbreekt om een opleiding te volgen die voldoet aan een van de volgende vereisten :</span><br>
-<span style="color: rgb(0, 0, 0);">1° elke vorm van onderwijs en opleiding die georganiseerd, gefinancierd, gesubsidieerd of erkend wordt door de Vlaamse overheid, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat;</span><br>
-<span style="color: rgb(0, 0, 0);">2° elke opleiding die georganiseerd wordt door een opleidingsverstrekker die erkend is krachtens het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat.<br>
+Aan een personeelslid wordt een onderbrekingsuitkering toegekend als het zijn arbeidsprestaties onderbreekt om een opleiding te volgen die voldoet aan een van de volgende vereisten :<br>
+1° elke vorm van onderwijs en opleiding die georganiseerd, gefinancierd, gesubsidieerd of erkend wordt door de Vlaamse overheid, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat;<br>
+2° elke opleiding die georganiseerd wordt door een opleidingsverstrekker die erkend is krachtens het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers of het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, waarvan het programma minimaal 120 contacturen of negen studiepunten op jaarbasis omvat.<br>
 <br>
-De verstrekker van de opleidingen, vermeld in het eerste lid, 1° en 2°, moet geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.</span><br>
+De verstrekker van de opleidingen, vermeld in het eerste lid, 1° en 2°, moet geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 &nbsp;
 
 ## Afdeling 2 Duur van het zorgkrediet
