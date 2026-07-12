@@ -2,16 +2,16 @@
   "codex_id": 1026023,
   "title": "Besluit van de Vlaamse Regering van 2015-09-25 betreffende steun aan projecten in het kader van het Europees Fonds voor de Regionale Ontwikkeling en het Europees Sociaal Fonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026023/VolledigDocument?datum=2025-10-01",
-  "source_sha256": "bcdbf72e707d032dbb25a5328fe2a7840f9b94f2305c816bde3646e2b0327122",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026023/VolledigDocument?datum=2026-07-12",
+  "source_sha256": "67fe04dd3503e6df23ea25a9e8a5246113d5c7d1579da6cbfec9768f1f335b3b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026023&param=informatie",
-  "as_of": "2025-10-01",
+  "as_of": "2026-07-12",
   "made": "2015-09-25",
   "gazette": "2015-10-21",
   "numac": 2015036252,
   "document_start": "2015-09-01",
   "document_end": null,
-  "in_force": "2025-10-01",
+  "in_force": "2026-07-12",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2025-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-12; future article versions excluded; article text as the API gives it"
 }

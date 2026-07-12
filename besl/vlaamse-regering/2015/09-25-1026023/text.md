@@ -30,7 +30,7 @@ d)&nbsp;&nbsp; &nbsp;buitenlandse ondernemingen met een gelijkaardig statuut, di
 13° beheerautoriteit: de openbare autoriteit die verantwoordelijk is voor het operationele EFRO- en ESF-programma, die conform het beginsel van goed financieel beheer wordt beheerd, en conform titel VII van de gemeenschappelijke structuurfondsenverordening;<br>
 14° Europees Fonds voor de Regionale Ontwikkeling (EFRO) : het fonds zoals vastgelegd in de EFRO-verordening; Dit fonds omvat zowel de doelstelling `Investeren in Groei en Jobs', als de doelstelling "Europese Territoriale Samenwerking";<br>
 15° Europees Sociaal Fonds Plus (ESF+): het Europees Sociaal Fonds Plus (ESF+), vermeld in de ESF+ verordening;<br>
-16° Agentschap Ondernemen : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein EWI. Vanaf 1 januari 2016 wordt dit gelezen als "Agentschap voor Innoveren en Ondernemen";
+16° Agentschap Ondernemen : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het&nbsp;beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie. Vanaf 1 januari 2016 wordt dit gelezen als "Agentschap voor Innoveren en Ondernemen";
 
 ## Afdeling 2 Algemene bepalingen
 
@@ -141,7 +141,7 @@ Als de onderneming een openstaande en niet in het kader van een gerechtelijke pr
 
 <p>De dienst Inspectie en Ondersteuning van het Agentschap Ondernemen is bevoegd om controles uit te voeren betreffende de steun en staatssteun toegekend op basis van dit besluit in het kader van de EFRO-verordening en de ETS-verordening.</p>
 
-<p>De afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie is bevoegd om alle controles uit te voeren betreffende de steun en staatssteun toegekend op basis van dit besluit in het kader van de ESF-verordening. Dit verloopt met toepassing van de bepalingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.</p>
+<p>De afdeling Vlaamse Sociale Inspectie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie is bevoegd om alle controles uit te voeren betreffende de steun en staatssteun toegekend op basis van dit besluit in het kader van de ESF-verordening. Dit verloopt met toepassing van de bepalingen van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.</p>
 
 ## Hoofdstuk 5 Slotbepalingen
 
