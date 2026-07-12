@@ -29,7 +29,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° departement: het Departement Werk en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° directe opleidingskosten: de kosten die de geregistreerde opleidingsverstrekker factureert, inclusief de kosten om deel te nemen aan het examen of de test;<br>
 3° geregistreerde opleidingsverstrekker: een instelling of organisatie die geregistreerd is als verstrekker van opleidingen voor werknemers conform artikel 3;<br>
 4° kortgeschoold: niet beschikken over een diploma van secundair onderwijs;<br>
@@ -52,7 +52,7 @@ De werknemer kan met een opleidingscheque de directe opleidingskosten betalen va
 
 ### ART 3.
 
-De opleiding wordt gegeven door een opleidingsverstrekker die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
+De opleiding wordt gegeven door een opleidingsverstrekker die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.
 
 ## HOOFDSTUK 4. Opleidingscheques
 
