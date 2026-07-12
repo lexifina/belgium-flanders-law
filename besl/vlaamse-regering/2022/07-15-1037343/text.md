@@ -46,7 +46,7 @@ In hoofdstuk 2 tot en met 6 en hoofdstuk 8 wordt verstaan onder:<br>
 6° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 7° decreet van 22 november 2013: het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
 8° decreet van 14 januari 2022: het decreet van 14 januari 2022 over maatwerk bij individuele inschakeling;<br>
-9° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+9° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 10° externe dienstverlener: de natuurlijke persoon of rechtspersoon die overeenkomstig artikel 26 van het decreet van 14 januari 2022 is erkend;<br>
 11° gebruiker: de gebruiker, vermeld in de wet van 24 juli 1987;<br>
 12° International Classification of Functioning, Disability and Health, afgekort ICF: een referentieclassificatie van de Wereldgezondheidsorganisatie, die het menselijk functioneren omschrijft;<br>
