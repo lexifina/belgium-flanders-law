@@ -41,14 +41,14 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° contacturen: de opleidingsuren met een rechtstreeks contact tussen de instructeur of begeleider van een opleidingsactiviteit en de cursist, die gebonden zijn aan een bepaald tijdstip en een bepaalde plaats van opleiding. Dat rechtstreekse contact kan fysiek of digitaal zijn. Het kan ook werkplekleren betreffen. De instructeur of begeleider van een opleidingsactiviteit werkt voor een geregistreerde opleidingsverstrekker;<br>
-2° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+2° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° DmfA: de aangifte, vermeld in artikel 21 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
 4° minister: de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en de professionele vorming;<br>
 5° module: een onderdeel van een arbeidsmarktgerichte opleiding waarbij een relevant geheel van competenties wordt aangeleerd en waarvoor afzonderlijk kan worden ingeschreven;<br>
 5°/0 opleidingsjaar: de periode van 1 september tot en met 31 augustus;<br>
 5° /1 opleiding via blended leren: een opleiding die gegeven wordt in een weloverwogen combinatie van contactleren en een onlinecomponent, waarvoor de opleidingsverstrekker gebruikmaakt van een learning management systeem om het leerproces te ondersteunen en de leerevolutie op te volgen;<br>
 6° studiepunt: een binnen de Vlaamse Gemeenschap aanvaarde internationale eenheid die overeenstemt met ten minste 25 en ten hoogste 30 uren voorgeschreven onderwijs-, leer- en evaluatieactiviteiten, waarmee de studieomvang van elke opleiding of elk opleidingsonderdeel wordt uitgedrukt als vermeld in artikel I.3, 67°, van de Codex Hoger Onderwijs;<br>
-7° werkplekleren: het aanleren en toepassen van beroepsspecifieke competenties in een reële arbeidsomgeving;<br>
+7° werkplekleren: werkplekleren als vermeld in artikel 2/2;<br>
 8° wet van 22 januari 1985: de herstelwet van 22 januari 1985 houdende sociale bepalingen.
 
 ## HOOFDSTUK 2. Opleidingen
@@ -74,7 +74,7 @@ g)&nbsp;&nbsp; &nbsp;de opleiding is een mentoropleiding;<br>
 h)&nbsp;&nbsp; &nbsp;de opleiding is gericht op deelname aan het sociaal overleg op ondernemingsniveau als werknemers- of werkgeversvertegenwoordiger;<br>
 i)&nbsp;&nbsp; &nbsp;de opleiding leidt tot een eerste diploma secundair onderwijs;<br>
 2°&nbsp;&nbsp; &nbsp;de opleiding omvat per jaar minstens 32 contacturen of minstens 3 studiepunten of minstens 32 uur opleidingstijd voor een opleiding via blended leren;<br>
-3°&nbsp;&nbsp; &nbsp;de opleiding wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+3°&nbsp;&nbsp; &nbsp;de opleiding wordt gegeven door een dienstverlener die geregistreerd is conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 4°&nbsp;&nbsp; &nbsp;de opleiding is geregistreerd bij het departement volgens de registratieprocedure, vermeld in afdeling 3;<br>
 5°&nbsp;&nbsp; &nbsp;in geval van een opleiding via blended leren heeft de opleidingsverstrekker bij de indiening van de aanvraag tot registratie meegedeeld welk learningmanagementsysteem die voor de opleiding hanteert en hoe die het doorlopen van het leerproces en het behalen van de vooropgezette leerdoelstellingen zal opvolgen en kan aantonen.<br>
 <br>
@@ -92,9 +92,26 @@ f)&nbsp;&nbsp; &nbsp;feedback te geven.<br>
 <br>
 In afwijking van het eerste lid gelden voor de trajecten die gericht zijn op de voorbereiding op en het afleggen van examens voor de examencommissie secundair onderwijs, vermeld in artikel 256/1 van de codex secundair onderwijs, en de examencommissie basisonderwijs, vermeld in artikel 56 van het decreet basisonderwijs van 25 februari 1997, en voor de trajecten die gericht zijn op het laten beoordelen en certificeren van eerder verworven competenties bij een EVC-testcentrum, erkend door de Vlaamse Gemeenschap, als vermeld in artikel 5 van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties, uitsluitend de voorwaarden, vermeld in het eerste lid, 1°, 3° en 4°.<br>
 <br>
-§ 2. De arbeidsmarktgerichte opleiding, vermeld in artikel 109, § 1, 1°, c), d), van de wet van 22 januari 1985, geeft recht op Vlaams opleidingsverlof als ze voldoet aan de voorwaarden, vermeld in paragraaf 1, 1°, 3° en 4°.<br>
+§2. Het departement verleent een gunstig preadvies, conform artikel 109, §2, vijfde lid, van de wet van 22 januari 1985, als de bedrijfsinterne opleiding, vermeld in artikel 109, §2, vijfde lid, van de wet van 22 januari 1985, aan alle voorwaarden van het Vlaams opleidingsverlof voldoet.&nbsp;<br>
 <br>
-§ 3. De loopbaangerichte opleiding, vermeld in artikel 107ter, 3°, van de wet van 22 januari 1985, geeft recht op Vlaams opleidingsverlof als ze voldoet aan de voorwaarden, vermeld in paragraaf 1, 2° en 3°.
+Een opleiding is een bedrijfsinterne opleiding als ze aan minstens één van de volgende voorwaarden voldoet:<br>
+1°&nbsp;&nbsp; &nbsp;de opleiding is alleen opengesteld voor werknemers of uitzendkrachten met een bepaald functieprofiel binnen dezelfde onderneming;<br>
+2°&nbsp;&nbsp; &nbsp;de opleiding is uitsluitend gericht op de huidige functie van de werknemer of de uitzendkracht binnen de onderneming en niet op een functie die onder invloed van een grondig wijzigende omgeving sterk aan het veranderen is;<br>
+3°&nbsp;&nbsp; &nbsp;de opleiding wordt gegeven door een instructeur, opleider of een begeleider die als werknemer of gelijkgestelde onder het werkgeversgezag staat van dezelfde werkgever als de werknemer die de opleiding volgt, of van de gebruiker, als de werknemer die de opleiding volgt, een uitzendkracht is.<br>
+<br>
+De werkgever dient een aanvraag voor een preadvies in bij het departement met een elektronisch formulier dat het departement ter beschikking stelt.<br>
+<br>
+Het departement brengt de werkgever op de hoogte van de ontvankelijkheid van de aanvraag binnen zeven dagen na de dag waarop het departement de aanvraag heeft ontvangen.&nbsp;<br>
+<br>
+Als het departement de werkgever verzoekt om aanvullende informatie die noodzakelijk is om na te gaan of de opleiding wordt gegeven overeenkomstig de regelgeving inzake het Vlaams opleidingsverlof, verstrekt de werkgever die informatie binnen een termijn van zeven dagen, te rekenen vanaf de dag na de ontvangst van dat verzoek. Bij gebreke daaraan is de aanvraag onontvankelijk.&nbsp;<br>
+<br>
+Het departement geeft een preadvies via elektronische weg binnen dertig dagen na de dag waarop het departement de kennisgeving van de ontvankelijkheid van de aanvraag naar de werkgever heeft gestuurd conform het vierde lid.<br>
+<br>
+De werkgever kan een aanvraag tot heroverweging van het preadvies bij het departement indienen binnen dertig dagen. De heroverweging wordt behandeld door het departement binnen zestig dagen. De aanvraag tot heroverweging heeft geen schorsende werking.&nbsp;<br>
+<br>
+De minister kan de voorwaarden en de procedure nader bepalen.<br>
+<br>
+§ 3. ....
 
 ## Afdeling 2. Opleidingsdatabank
 
@@ -203,7 +220,7 @@ Het departement brengt de opleidingsverstrekker op de hoogte van een negatieve e
 
 § 1. Bij een positieve evaluatie wordt de goedkeuring van de registratie van de arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof met een jaar verlengd.<br>
 <br>
-§ 2.&nbsp;De negatief geëvalueerde opleiding verliest van rechtswege de status van arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof twee maanden na de kennisgeving van de negatieve evaluatie of in geval van een beroepsprocedure twee maanden na de kennisgeving van de negatieve evaluatie door de Beroeps- en Evaluatiecommissie van het departement Werk en Sociale Economie, vermeld in het eerste lid.&nbsp;De opleidingsverstrekker verwittigt onverwijld de voor de opleiding ingeschreven werknemers, die op het ogenblik dat de opleiding uit de opleidingsdatabank verwijderd wordt nog niet met de opleiding gestart zijn, dat de opleiding geen recht meer geeft op Vlaams opleidingsverlof. De werknemer informeert de werkgever hierover.
+§ 2.&nbsp;De negatief geëvalueerde opleiding verliest van rechtswege de status van arbeidsmarktgerichte opleiding die recht geeft op Vlaams opleidingsverlof de dag na de beroepstermijn, vermeld in artikel 110bis, §1, van de wet van 22 januari 1985 of in geval van een beroepsprocedure een maand na de kennisgeving van de negatieve evaluatie door de Beroeps- en Evaluatiecommissie van het departement, vermeld in het eerste lid.&nbsp;De opleidingsverstrekker verwittigt onverwijld de voor de opleiding ingeschreven werknemers, die op het ogenblik dat de opleiding uit de opleidingsdatabank verwijderd wordt nog niet met de opleiding gestart zijn, dat de opleiding geen recht meer geeft op Vlaams opleidingsverlof. De werknemer informeert de werkgever hierover.
 
 ### ART 15.
 
