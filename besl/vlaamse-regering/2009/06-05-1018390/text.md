@@ -222,7 +222,7 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 13, richt aan de VDA
 
 ### ART. 15.
 
-De raad van bestuur kan het mandaat om kosteloze arbeidsbemiddeling uit te oefenen, verlenen als de natuurlijke persoon of de rechtspersoon, vermeld in artikel 13 van dit besluit, geregistreerd is als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie.
+De raad van bestuur kan het mandaat om kosteloze arbeidsbemiddeling uit te oefenen, verlenen als de natuurlijke persoon of de rechtspersoon, vermeld in artikel 13 van dit besluit, geregistreerd is als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.
 
 ### ART. 16.
 
