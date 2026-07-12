@@ -20,7 +20,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder :<br>
 1° CAO nr. 82 : de collectieve arbeidsovereenkomst nr. 82 van 10 juli 2002 betreffende outplacement voor werknemers van 45 jaar en ouder die worden ontslagen, gewijzigd door de collectieve arbeidsovereenkomst nr. 82bis van 17 juli 2007;<br>
-2° departement : het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 4° wet van 5 september 2001 : de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers.
 
