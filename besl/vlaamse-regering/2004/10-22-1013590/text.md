@@ -4,13 +4,23 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het economisch beleid,en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en de beroepsomscholing -en bijscholing;<br />2° het decreet: het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale soci-aal-economische overlegcomités;<br />3° de vereniging: de vereniging, bedoeld in artikel 2, 3°, van het decreet, die een aanvraag tot erkenning indient;<br />4° de streekplatformen en de subregionale tewerkstellingscomités: de v.z.w.'s streekplatformen en de v.z.w.'s subregionale tewerkstellingscomités die behoren tot het werkingsgebied van devereniging;<br />5° de sociaal-economische raad van de regio : de sociaal-economische raad van de regio, afgekort SERR, die overeenkomstig hoofdstuk III van het decreet binnen de vereniging wordt ingericht;<br />6° het regionale sociaal-economische overlegcomité : het regionale sociaal -economische overlegcomité, afgekort RESOC, dat overeenkomstig hoofdstuk IV van het decreet binnen de vereniging wordt opgericht;<br />7° het erkend regionaal samenwerkingsverband : het regionale samenwerkingsverband, afgekort ERSV, dat door de Vlaamse Regering overeenkomstig hoofdstuk II van het decreet werd erkend;<br />8° de regio: de regio, bedoeld in artikel 2, 1°, van het decreet, waarbinnen de vereniging in kwestie opereert;<br />9° het Departement : het Departement Economie, Wetenschap en Innovatie en het Departement Werk en Sociale Economie van de Vlaamse Overheid;<br />10° streekpact : het document als gedefinieerd in artikel 2, 15° van het decreet;<br />
+In dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor het economisch beleid,en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en de beroepsomscholing -en bijscholing;<br>
+2° het decreet: het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale soci-aal-economische overlegcomités;<br>
+3° de vereniging: de vereniging, bedoeld in artikel 2, 3°, van het decreet, die een aanvraag tot erkenning indient;<br>
+4° de streekplatformen en de subregionale tewerkstellingscomités: de v.z.w.'s streekplatformen en de v.z.w.'s subregionale tewerkstellingscomités die behoren tot het werkingsgebied van devereniging;<br>
+5° de sociaal-economische raad van de regio : de sociaal-economische raad van de regio, afgekort SERR, die overeenkomstig hoofdstuk III van het decreet binnen de vereniging wordt ingericht;<br>
+6° het regionale sociaal-economische overlegcomité : het regionale sociaal -economische overlegcomité, afgekort RESOC, dat overeenkomstig hoofdstuk IV van het decreet binnen de vereniging wordt opgericht;<br>
+7° het erkend regionaal samenwerkingsverband : het regionale samenwerkingsverband, afgekort ERSV, dat door de Vlaamse Regering overeenkomstig hoofdstuk II van het decreet werd erkend;<br>
+8° de regio: de regio, bedoeld in artikel 2, 1°, van het decreet, waarbinnen de vereniging in kwestie opereert;<br>
+9° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+10° streekpact : het document als gedefinieerd in artikel 2, 15° van het decreet;
 
 ## HOOFDSTUK II DE ERKENNING ALS REGIONAAL SAMENWERKINGSVERBAND
 
 ### ART. 2.
 
-De aanvraag voor erkenning wordt ingediend bij het Agentschap Innoveren en   Ondernemen en de bevoegde entiteit binnen het Departement Werk en Sociale   Economie en bevat alle gegevens en stukken waaruit blijkt dat aan alle   erkenningsvoorwaarden als bedoeld in hoofdstuk II van het decreet is voldaan.   Aan de aanvraag wordt een dossier gehecht dat minstens alle documenten, bedoeld   in artikel 10, § 2, van het decreet, omvat. Het model van het aanvraagformulier   is opgenomen als bijlage bij dit besluit.
+De aanvraag voor erkenning wordt ingediend bij het Agentschap Innoveren en Ondernemen en de bevoegde entiteit binnen het departement en bevat alle gegevens en stukken waaruit blijkt dat aan alle erkenningsvoorwaarden als bedoeld in hoofdstuk II van het decreet is voldaan. Aan de aanvraag wordt een dossier gehecht dat minstens alle documenten, bedoeld in artikel 10, § 2, van het decreet, omvat. Het model van het aanvraagformulier is opgenomen als bijlage bij dit besluit.
 
 ### ART. 3.
 
@@ -42,7 +52,9 @@ Het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de b
 
 ### ART. 9.
 
-Regionale samenwerkingsverbanden waarvan de aanvraagdossiers door het   Agentschap Innoveren en Ondernemen en de bevoegde entiteit binnen het   Departement Werk en Sociale Economie in 2004 volledig zijn bevonden, worden   vanaf 1 januari 2005 overeenkomstig het decreet en dit besluit gesubsidieerd op   voorwaarde dat ze door de Vlaamse Regering zijn erkend.<BR><BR>De Vlaamse   Regering regelt bij de erkenning van de regionale samenwerkingsverbanden die in   2004 geen of geen volledige aanvraag hebben ingediend, aangepaste   uitbetalingsmodaliteiten in afwijking van artikel 4, § 2.
+Regionale samenwerkingsverbanden waarvan de aanvraagdossiers door het Agentschap Innoveren en Ondernemen en de bevoegde entiteit binnen het departement in 2004 volledig zijn bevonden, worden vanaf 1 januari 2005 overeenkomstig het decreet en dit besluit gesubsidieerd op voorwaarde dat ze door de Vlaamse Regering zijn erkend.<br>
+<br>
+De Vlaamse Regering regelt bij de erkenning van de regionale samenwerkingsverbanden die in 2004 geen of geen volledige aanvraag hebben ingediend, aangepaste uitbetalingsmodaliteiten in afwijking van artikel 4, § 2.
 
 ### ART. 10.
 
