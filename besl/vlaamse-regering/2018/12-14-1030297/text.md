@@ -348,7 +348,7 @@ De kandidaat-beoordelingsinstantie die voor een of meer titels van beroepsbekwaa
 <br>
 Voor elke uitbreiding van titels waarvoor ze als erkende beoordelingsinstantie wil optreden, dient de instantie een nieuwe aanvraag in. De kandidaat-beoordelingsinstantie toont daarbij aan dat ze aan de volgende kwaliteitsvoorwaarden voldoet:<br>
 1° op organisatieniveau:<br>
-a) geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie;<br>
+a) geregistreerd zijn als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 b) beschikken over een aantoonbare deskundigheid in het beoordelen van competenties die eigen zijn aan de titel van beroepsbekwaamheid waarvoor ze een erkenning als beoordelingsinstantie aanvraagt;<br>
 c) voor alle begeleiders en beoordelaars een actueel of recent vormingsplan hebben dat in samenspraak met hen is opgesteld en dat gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot het vervullen van de dienstverlening;<br>
 d) in alle faciliteiten voorzien zodat de toegankelijkheid, de beschikbaarheid en de bereikbaarheid zijn gegarandeerd, en die aan alle potentiële aanvragers bekendmaken;<br>
@@ -378,9 +378,9 @@ De instellingen van het hoger onderwijs worden geacht te voldoen aan de voorwaar
 
 ### ART 10.
 
-§ 1. Binnen het beleidsdomein Werk en Sociale Economie wordt een dienst Erkenning en Toezicht opgericht die de erkenningsaanvragen behandelt. De dienst Erkenning en Toezicht is een onafhankelijke en neutrale dienst.<br>
+§ 1. Binnen het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie wordt een dienst Erkenning en Toezicht opgericht die de erkenningsaanvragen behandelt. De dienst Erkenning en Toezicht is een onafhankelijke en neutrale dienst.<br>
 <br>
-In het eerste lid wordt verstaan onder beleidsdomein Werk en Sociale Economie: het beleidsdomein, vermeld in artikel 11 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
+In het eerste lid wordt verstaan onder beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie: het beleidsdomein, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 <br>
 De dienst Erkenning en Toezicht oefent zijn taken onpartijdig uit en gescheiden van de bemiddelings-, begeleidings- en opleidingstaken.<br>
 <br>
@@ -453,10 +453,10 @@ De VDAB zorgt voor de monitoring van de maatregel titel van beroepsbekwaamheid o
 5° de tevredenheid over de dienstverlening;<br>
 6° het aantal klachten en de aard van de klachten van aanvragers die zowel via de klachtenbehandeling van de erkende beoordelingsinstantie als in de beroepscommissie, vermeld in artikel 15, behandeld worden.<br>
 <br>
-De monitoring, vermeld in het eerste lid, wordt jaarlijks aan het Departement Werk en Sociale Economie, het Departement Onderwijs en Vorming, het Departement Cultuur, Jeugd en Media en Sport Vlaanderen bezorgd.<br>
+De monitoring, vermeld in het eerste lid, wordt jaarlijks aan het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, het Departement Onderwijs en Vorming, het Departement Cultuur, Jeugd en Media en Sport Vlaanderen bezorgd.<br>
 <br>
 In het tweede lid wordt verstaan onder:<br>
-1° Departement Werk en Sociale Economie: het Departement Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie: het departement, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° Departement Cultuur, Jeugd en Media: het Departement Cultuur, Jeugd en Media, vermeld in artikel 24, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° Sport Vlaanderen: het agentschap Sport Vlaanderen, vermeld in artikel 24, § 2, 1°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
