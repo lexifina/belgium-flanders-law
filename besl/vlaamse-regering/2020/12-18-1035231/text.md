@@ -51,7 +51,7 @@ In dit besluit wordt verstaan onder:<br>
 2° decreet van 7 mei 2004: het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 3° decreet van 10 juli 2008: het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
 4° decreet van 10 juni 2016: het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
-5° departement: het Departement Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+5° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 6° jaarplan: het jaarplan, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 30 oktober 2020 houdende de oproep ondernemerschapstrajecten;<br>
 7° klassenraad: de klassenraad, vermeld in artikel 75 van het decreet van 10 juli 2008;<br>
 8° leerling: de jongere die een opleiding of een cursus in de leertijd volgt;<br>
