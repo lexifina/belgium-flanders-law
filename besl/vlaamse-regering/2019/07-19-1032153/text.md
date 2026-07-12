@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:<br>
 1° AHOVOKS: het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
 2° Beroepscommissie: de Beroepscommissie, vermeld in artikel 6, zesde lid, van het decreet van 26 april 2019;<br>
 3° decreet van 26 april 2019: het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader;<br>
-4° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+4° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 5° Erkenningscommissie: de Erkenningscommissie, vermeld in artikel 6, vijfde lid, van het decreet van 26 april 2019;<br>
 6° EVC-instrument: het EVC-instrument, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties;<br>
 7° EVC- standaard: de EVC-standaard, vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 19 juli 2019 betreffende de uitvoering van het decreet van 26 april 2019 betreffende een geïntegreerd beleid voor de erkenning van verworven competenties;<br>
@@ -150,7 +150,7 @@ De minister bepaalt aan welke vormelijke voorwaarden een aanvraagdossier moet vo
 ### ART 12.
 
 Het departement beoordeelt de ontvankelijkheid van de erkenningsaanvraag aan de hand van de volgende criteria:<br>
-1° de organisatie is geregistreerd conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+1° de organisatie is geregistreerd conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 2° de erkenningsaanvraag wordt ingediend via het aanvraagformulier, vermeld in artikel 11;<br>
 3° de erkenningsaanvraag is volledig en correct ingevuld.<br>
 4° in geval van een organisatie die erkende beroepskwalificerende EVC-trajecten wil aanbieden, voldoet de organisatie aan een van de voorwaarden in artikel 11, tweede lid.<br>
