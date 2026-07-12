@@ -12,7 +12,15 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-§ 1. Binnen het Vlaams Ministerie van Economie, Wetenschap en Innovatie   wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid   opgericht, onder de benaming het Agentschap Innoveren en Ondernemen, hierna «   het agentschap » te noemen.<BR><BR>Alle officiële akten, officiële   aankondigingen of andere officiële stukken die uitgaan van het agentschap moeten   de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna de   (leesbaar en voluit geschreven) woorden: « intern verzelfstandigd agentschap   zonder rechtspersoonlijkheid van de Vlaamse overheid ».<BR><BR>Die verplichting   geldt niet voor informatieverstrekking om promotionele redenen of   voorlichtingsredenen.<BR><BR>§ 2. Het agentschap behoort tot het beleidsdomein   Economie, Wetenschap en Innovatie. Het agentschap wordt opgericht voor de   uitvoering van het economisch beleid.<BR><BR>§ 3. Het agentschap heeft een   centrale zetel. De minister bepaalt de vestigingsplaats van de centrale zetel.   Het hoofd van het agentschap kan beslissen om een of meer vestigingen buiten de   centrale zetel op te richten.
+§ 1. Binnen het Vlaams Ministerie van Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming het Agentschap Innoveren en Ondernemen, hierna « het agentschap » te noemen.<br>
+<br>
+Alle officiële akten, officiële aankondigingen of andere officiële stukken die uitgaan van het agentschap moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna de (leesbaar en voluit geschreven) woorden: « intern verzelfstandigd agentschap zonder rechtspersoonlijkheid van de Vlaamse overheid ».<br>
+<br>
+Die verplichting geldt niet voor informatieverstrekking om promotionele redenen of voorlichtingsredenen.<br>
+<br>
+§ 2. Het agentschap behoort tot het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie. Het agentschap wordt opgericht voor de uitvoering van het economisch beleid.<br>
+<br>
+§ 3. Het agentschap heeft een centrale zetel. De minister bepaalt de vestigingsplaats van de centrale zetel. Het hoofd van het agentschap kan beslissen om een of meer vestigingen buiten de centrale zetel op te richten.
 
 ### ART. 3.
 
