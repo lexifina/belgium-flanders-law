@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042151,
+  "title": "Besluit van de Vlaamse Regering van 2026-05-08 tot wijziging van diverse besluiten van de Vlaamse Regering naar aanleiding van de samenvoeging van het beleidsdomein Economie, Wetenschap en Innovatie, het beleidsdomein Werk en Sociale Economie en het beleidsdomein Landbouw en Visserij en de samenvoeging van het Departement Economie, Wetenschap en Innovatie en het Departement Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042151/VolledigDocument?datum=2026-07-12",
+  "source_sha256": "3f8c75871e88e737010aad750fcd2ce15c89829e2d3cc956e7782b1e48742847",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042151&param=informatie",
+  "as_of": "2026-07-12",
+  "made": "2026-05-08",
+  "gazette": "2026-07-02",
+  "numac": 2026004963,
+  "document_start": "2026-07-12",
+  "document_end": null,
+  "in_force": "2026-07-12",
+  "article_versions": 102,
+  "record_form": "consolidated version as in force on 2026-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
