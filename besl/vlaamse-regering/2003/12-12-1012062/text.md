@@ -6,7 +6,19 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° decreet:   het decreet van 31 januari 2003 betreffende het economisch   ondersteuningsbeleid;<BR>2° minister: de Vlaamse minister, bevoegd voor het   economisch beleid;<BR>3° het Agentschap Innoveren en Ondernemen: intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het   beleidsdomein Economie, Wetenschap en Innovatie.<BR>4° onderneming: de   onderneming, bedoeld in artikel 3, 1°, van het decreet;<BR>5° kleine,   middelgrote en grote ondernemingen: ondernemingen zoals bedoeld in artikel 3,   2°, 3° en 4°, van het decreet;<BR>6° startende onderneming: een nieuw opgerichte   onderneming die maximaal 5 jaar oud is op de indieningsdatum van de   steunaanvraag. De voormelde termijn van 5 jaar begint te lopen vanaf de   inschrijving in het handelsregister of bij de Kruispuntbank voor Ondernemingen.   Als er geen inschrijving in het handelsregister of bij de Kruispuntbank voor   Ondernemingen is, begint de termijn te lopen vanaf de eerste aansluiting bij het   Rijksinstituut voor Sociale Verzekering van Zelfstandigen of bij een Sociale   Verzekeringskas voor Zelfstandigen;<BR>7° steun: de steun, bedoeld in artikel 3,   5°, van het decreet;<BR>8° steunintensiteit: de intensiteit, bedoeld in artikel   3, 6°, van het decreet;<BR>9° regionale steungebieden: de gebieden, bedoeld in   artikel 3, 7°, van het decreet;<BR>10° start van de investeringen: de datum van   de eerste factuur;<BR>11° beëindiging van de investeringen: de datum van de   laatste factuur;<BR>12° indieningsdatum van de steunaanvraag: de datum waarop   het Agentschap Innoveren en Ondernemen de steunaanvraag ontvangt.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° decreet: het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br>
+2° minister: de Vlaamse minister, bevoegd voor het economisch beleid;<br>
+3° het Agentschap Innoveren en Ondernemen: intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
+4° onderneming: de onderneming, bedoeld in artikel 3, 1°, van het decreet;<br>
+5° kleine, middelgrote en grote ondernemingen: ondernemingen zoals bedoeld in artikel 3, 2°, 3° en 4°, van het decreet;<br>
+6° startende onderneming: een nieuw opgerichte onderneming die maximaal 5 jaar oud is op de indieningsdatum van de steunaanvraag. De voormelde termijn van 5 jaar begint te lopen vanaf de inschrijving in het handelsregister of bij de Kruispuntbank voor Ondernemingen. Als er geen inschrijving in het handelsregister of bij de Kruispuntbank voor Ondernemingen is, begint de termijn te lopen vanaf de eerste aansluiting bij het Rijksinstituut voor Sociale Verzekering van Zelfstandigen of bij een Sociale Verzekeringskas voor Zelfstandigen;<br>
+7° steun: de steun, bedoeld in artikel 3, 5°, van het decreet;<br>
+8° steunintensiteit: de intensiteit, bedoeld in artikel 3, 6°, van het decreet;<br>
+9° regionale steungebieden: de gebieden, bedoeld in artikel 3, 7°, van het decreet;<br>
+10° start van de investeringen: de datum van de eerste factuur;<br>
+11° beëindiging van de investeringen: de datum van de laatste factuur;<br>
+12° indieningsdatum van de steunaanvraag: de datum waarop het Agentschap Innoveren en Ondernemen de steunaanvraag ontvangt.
 
 ## AFDELING 2 DEFINITIE VAN KLEINE, MIDDELGROTE EN GROTE ONDERNEMINGEN
 
