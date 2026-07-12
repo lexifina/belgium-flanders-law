@@ -61,7 +61,7 @@ De bevoegde dienst coördineert het opstellen van EVC-standaarden en richt per E
 
 ### ART 4.
 
-De EVC-standaard wordt ter advies voorgelegd aan onderwijsexperten en de door de Vlaamse minister, bevoegd voor professionele vorming, aangeduide dienst van het beleidsdomein Werk en Sociale Economie. De EVC-standaarden die betrekking hebben op beroepskwalificaties van niveau 5 tot 8 worden in overleg met de Vlaamse universiteiten- en hogescholenraad (VLUHR) voorgelegd aan experten.<br>
+De EVC-standaard wordt ter advies voorgelegd aan onderwijsexperten en de door de Vlaamse minister, bevoegd voor professionele vorming, aangeduide dienst van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie. De EVC-standaarden die betrekking hebben op beroepskwalificaties van niveau 5 tot 8 worden in overleg met de Vlaamse universiteiten- en hogescholenraad (VLUHR) voorgelegd aan experten.<br>
 <br>
 De betrokken dienst en experten bezorgen een advies over de EVC-standaard binnen de 30 dagen aan de bevoegde dienst.<br>
 <br>
