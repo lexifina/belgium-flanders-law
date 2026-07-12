@@ -2,16 +2,16 @@
   "codex_id": 1032143,
   "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot uitvoering van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het [beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032143/VolledigDocument?datum=2023-07-01",
-  "source_sha256": "b7ad8acad575e43c34f66fe63b7d5813e07fadc4a5cb816414fc9d60271239e3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032143/VolledigDocument?datum=2026-07-12",
+  "source_sha256": "e8b8cd650c621abdb68d1c4c3ead4bab95ddab0ffe5d1119df6dbdaf394f6da7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032143&param=informatie",
-  "as_of": "2023-07-01",
+  "as_of": "2026-07-12",
   "made": "2019-05-24",
   "gazette": "2019-08-26",
   "numac": 2019014709,
   "document_start": "2019-09-02",
   "document_end": null,
-  "in_force": "2023-07-01",
+  "in_force": "2026-07-12",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2023-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-12; future article versions excluded; article text as the API gives it"
 }

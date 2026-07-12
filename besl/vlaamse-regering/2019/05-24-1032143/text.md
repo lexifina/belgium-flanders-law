@@ -64,8 +64,8 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° assessment: de registratie volgens een gestandaardiseerde methodiek die aangeeft of een dienstverlener in overeenstemming is met de vastgestelde eisen die opgenomen zijn om een bepaald kwaliteitsbewijs te behalen. Het assessment vertrekt vanuit een zelfevaluatie van de organisatie;<br>
-2° decreet van 29 maart 2019: het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie;<br>
-3° departement: het Departement Werk en Sociale Economie vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° decreet van 29 maart 2019: het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
+3° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° SERV: de Sociaal-Economische Raad van Vlaanderen;<br>
 5° standaard werk en sociale economie: de elektronische module voor de aanvraag van het goedkeuringsbewijs, bepaald in artikel 5, eerste lid, 2°, van het decreet van 29 maart 2019.
 
@@ -286,7 +286,7 @@ De adviescommissie is als volgt samengesteld:<br>
 3° drie deskundigen of technici en drie plaatsvervangers op het vlak van het werkgelegenheidsbeleid, de sociale economie of het kwaliteitsmanagement<br>
 4° een werkend lid en een plaatsvervangend lid die zijn voorgedragen door de representatieve werknemersorganisaties, die vertegenwoordigd zijn in de SERV;<br>
 5° een werkend lid en een plaatsvervangend lid die zijn voorgedragen door de representatieve werkgeversorganisaties, die vertegenwoordigd zijn in de SERV;<br>
-6° een werkend lid en een plaatsvervangend lid als vertegenwoordiger van het beleidsdomein Werk en Sociale Economie.<br>
+6° een werkend lid en een plaatsvervangend lid als vertegenwoordiger van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 <br>
 De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, en de Vlaamse minister, bevoegd voor de sociale economie, benoemen de commissieleden voor een periode van vier jaar.<br>
 <br>
