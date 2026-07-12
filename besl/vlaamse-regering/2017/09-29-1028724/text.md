@@ -207,7 +207,7 @@ In geval van een vrijwillige samenvoeging van gemeenten blijven de keuzes en de 
 
 ### ART 21/1.
 
-De organisator is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie.
+De organisator is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.
 
 ## Afdeling 2 Werking
 
