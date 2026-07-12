@@ -2,16 +2,16 @@
   "codex_id": 1037670,
   "title": "Besluit van de Vlaamse Regering van 2022-11-10 tot uitvoering van het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037670/VolledigDocument?datum=2024-01-01",
-  "source_sha256": "718052b0ab26213e11cfe1f19471ac5088f1324352665bb29056e338e58db212",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037670/VolledigDocument?datum=2026-07-12",
+  "source_sha256": "1f98f92ef2d6a75775780fa61cd8388e194e64034022021ee89b792bcc2151da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037670&param=informatie",
-  "as_of": "2024-01-01",
+  "as_of": "2026-07-12",
   "made": "2022-11-10",
   "gazette": "2022-12-01",
   "numac": 2022042838,
   "document_start": "2022-11-14",
   "document_end": null,
-  "in_force": "2024-01-01",
+  "in_force": "2026-07-12",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2024-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-12; future article versions excluded; article text as the API gives it"
 }

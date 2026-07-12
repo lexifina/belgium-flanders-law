@@ -31,7 +31,7 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 15 juli 2022: het decreet van 15 juli 2022 tot regeling van de toekenning van een jobbonus plus voor startende zelfstandigen;<br>
-2° departement: het Departement Werk en Sociale Economie, vermeld in artikel 25, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° jobbonus plus: de premies, vermeld in artikel 4 en 5 van het decreet van 15 juli 2022.
 
 ## Hoofdstuk 2. Voorwaarden voor de aanpassing van de premiebedragen van de jobbonus plus
