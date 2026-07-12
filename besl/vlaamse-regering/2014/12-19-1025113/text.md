@@ -11,9 +11,9 @@
 In dit besluit wordt verstaan onder:<br>
 1° Adviescommissie Sociale Economie: de Adviescommissie Sociale Economie, opgericht met toepassing van hoofdstuk 8 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 2° decreet van 22 november 2013: het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
-3° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+3° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 4° indicering op basis van ICF: het onderzoek aan de hand van een indiceringsinstrument op basis van de International Classification of Functioning, Disability and Health, referentieclassificatie van de Wereldgezondheidsorganisatie, waarbij iemand als persoon met een nood aan een kwaliteitsvolle begeleide en competentieversterkende inschakeling wordt erkend;<br>
-5° kwaliteitsmanagementsysteem: het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+5° kwaliteitsmanagementsysteem: het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 6° minister: de Vlaamse minister, bevoegd voor de sociale economie.
 
 ## HOOFDSTUK 2 Organisatievoorwaarden
@@ -206,7 +206,7 @@ g) de actualisering van het persoonlijk ontwikkelingsplan van de doelgroepwerkne
 <p>&nbsp;§ 1. De onderneming die doorstroomtrajecten, als vermeld in artikel 15 van het decreet van 22 november 2013, wil uitvoeren, dient een mandaataanvraag in bij de VDAB.</p>
 
 <p>De onderneming toont daarbij minstens aan dat ze aan de volgende voorwaarden voldoet:<br>
-1° de onderneming beschikt over het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+1° de onderneming beschikt over het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 2° de onderneming beschikt over de nodige faciliteiten om de dienstverlening uit te voeren;<br>
 3° de onderneming toont haar professionele deskundigheid op het vlak van begeleiding van doelgroepwerknemers als vermeld in artikel 11 van het decreet van 22 november 2013;<br>
 4° de onderneming heeft aantoonbare resultaten voor wat betreft de inschakeling van doelgroepwerknemers in het normale economische circuit;<br>
