@@ -2,16 +2,16 @@
   "codex_id": 1024358,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 houdende subsidiëring van incubatoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024358/VolledigDocument?datum=2018-03-19",
-  "source_sha256": "e83c8b85e355bbaabffc9d8aa31ba75e60ea324fbcf39db7d8769a97c9acfce0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024358/VolledigDocument?datum=2026-07-12",
+  "source_sha256": "e25e2d6efaa0bfeb5aa28a8b7c51e75fe5c845d762835b5264294d65d00bade3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024358&param=informatie",
-  "as_of": "2018-03-19",
+  "as_of": "2026-07-12",
   "made": "2014-04-25",
   "gazette": "2014-08-05",
   "numac": 2014204374,
   "document_start": "2014-04-25",
   "document_end": null,
-  "in_force": "2018-03-19",
+  "in_force": "2026-07-12",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2018-03-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-12; future article versions excluded; article text as the API gives it"
 }

@@ -12,7 +12,7 @@
 
 In dit besluit wordt verstaan onder :<br>
 1° aanvrager : de initiatiefnemer tot erkenning van een incubator of die een subsidieaanvraag indient. Dat kan de incubator zelf zijn of een medeoprichter;<br>
-2° agentschap : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap Innoveren en Ondernemen dat behoort tot het beleidsdomein Economie, Wetenschap en Innovatie;<br>
+2° agentschap : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap Innoveren en Ondernemen dat behoort tot het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 3°...;<br>
 4° kennisinstelling : een instelling die zich bezighoudt met het verrichten van fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling en de verspreiding van de resultaten ervan. De kennisinstelling moet beschikken over eigen onderzoeksinfrastructuur, moet toegang hebben tot onderzoeksinfrastructuur en apparatuur, of moet ingebed zijn in een technologisch-wetenschappelijk onderzoekscentrum. Voorbeelden hiervan zijn de instellingen van de associaties die aan onderzoek doen, de strategische onderzoekscentra, de instellingen voor post-initieel onderzoek en de collectieve centra;<br>
 5° minister : de Vlaamse minister, bevoegd voor de economie;<br>
