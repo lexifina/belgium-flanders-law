@@ -25,7 +25,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° bevoegde overheid: de dienst Economische Migratie van het departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° bevoegde overheid: de dienst economische migratie van het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° decreet van 15 oktober 2021: het decreet van 15 oktober 2021 over de uitoefening van zelfstandige beroepsactiviteiten door buitenlandse onderdanen;<br>
 3° verblijfsbesluit: koninklijk besluit van 8 oktober 1981 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 4° minister: de Vlaamse minister, bevoegd voor werk;<br>
