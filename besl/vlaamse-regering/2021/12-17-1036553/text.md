@@ -29,7 +29,7 @@ DE VLAAMSE REGERING BESLUIT:
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° departement: het Departement Werk en Sociale Economie, vermeld in artikel 25 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+1° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° digibankproject: een partnerschap van publieke of private actoren, dat uitvoering geeft aan het voorwaardelijk beschikbaar stellen van laptops en andere hardware en ondersteuning in een specifieke context, aan opleiding en kennisdeling om digitale basisvaardigheden te versterken, en aan begeleiding voor een verbeterde toegang tot essentiële diensten, als vermeld in artikel 4;<br>
 3° implementatietraject: het traject waarin het digibankproject wordt uitgevoerd door het partnerschap;<br>
 4° minister: de Vlaamse minister, bevoegd voor de sociale economie;<br>
