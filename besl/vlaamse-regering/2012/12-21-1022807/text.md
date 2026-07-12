@@ -40,7 +40,7 @@
 20° ZAP : zelfstandig academisch personeel;<br>
 21° onderzoeksdiscipline: een van de disciplinaire subdomeinen van de Vlaamse onderzoeksdisciplinestandaard zoals gedefinieerd door ECOOM en gebruikt in FRIS;<br>
 22° VLIR: Vlaams Interuniversitaire Raad, vermeld in art. I.3 72° /2 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
-23° Het bevoegde departement: het Departement EWI, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
+23° bevoegde departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART. 2.
 
