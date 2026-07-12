@@ -37,9 +37,9 @@ DE VLAAMSE REGERING BESLUIT:
 
 In dit besluit wordt verstaan onder:<br>
 1° decreet van 23 december 2022: het decreet van 23 december 2022 over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleidingen;<br>
-2° departement: het Departement Werk en Sociale Economie, vermeld in artikel 25, §1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 3° vergoeding: een leervergoeding of loon;<br>
-4° WSE-loket: het digitaal loket van het departement.
+4° e-loket: het elektronisch loket van het departement voor de aanvraag, het beheer, de verwerking en de uitbetaling van de premies, vermeld in artikel 5 en 7 van het decreet van 23 december 2022.
 
 ## Hoofdstuk 2. Opleidingen
 
