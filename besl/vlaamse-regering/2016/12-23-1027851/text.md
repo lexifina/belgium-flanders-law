@@ -97,7 +97,7 @@ In afwijking van het eerste lid sluit het gemandateerde OCMW de werkervaringsove
 <br>
 De werkervaringsovereenkomst geeft recht op de premies, de vergoedingen en de verzekering, vermeld in titel II, hoofdstuk I, afdeling II, van het besluit van 5 juni 2009, voor zover dat recht wordt geopend door de instrumenten die worden ingezet gedurende de werkervaringsovereenkomst.<br>
 <br>
-§ 2. De gemandateerde partnerorganisatie of het gemandateerde OCMW, vermeld in § 1, is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein werk en sociale economie.<br>
+§ 2. De gemandateerde partnerorganisatie of het gemandateerde OCMW, vermeld in § 1, is geregistreerd als dienstverlener conform artikel 4 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie.<br>
 &nbsp;
 
 ### ART 6.
