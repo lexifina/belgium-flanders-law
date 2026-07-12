@@ -25,7 +25,7 @@ In dit besluit wordt verstaan onder:<br>
 ### ART 2.
 
 Het Comité voor Kleinhandel, vermeld in artikel 8 van het decreet van 15 juli 2016, wordt samengesteld door de voordracht van vertegenwoordigers op de volgende wijze:<br>
-1° het Agentschap Innoveren en Ondernemen van het beleidsdomein Economie, Wetenschap en Innovatie draagt twee effectieve en twee plaatsvervangende personeelsleden voor;<br>
+1° het Agentschap Innoveren en Ondernemen van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie draagt twee effectieve en twee plaatsvervangende personeelsleden voor;<br>
 2° het Departement Omgeving van het beleidsdomein Omgeving draagt twee keer twee effectieve en twee plaatsvervangende personeelsleden voor;<br>
 3° het Departement Mobiliteit en Openbare Werken van het beleidsdomein Mobiliteit en Openbare Werken draagt twee effectieve en twee plaatsvervangende personeelsleden voor;<br>
 4° de consumentenorganisatie Test-Aankoop draagt als representatieve verbruikersorganisatie twee effectieve leden en twee plaatsvervangers voor;<br>
