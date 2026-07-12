@@ -14,7 +14,7 @@ In dit besluit wordt verstaan onder :<br>
 1° decreet van 16 maart 2012 : het decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<br>
 2° minister : de Vlaamse minister, bevoegd voor Economie;<br>
 3° algemene vrijstellingsverordening: verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 - 78), en de latere wijzigingen ervan;<br>
-4° Agentschap Innoveren en Ondernemen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein EWI;<br>
+4° Agentschap Innoveren en Ondernemen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 5° onderneming : de onderneming, vermeld in artikel 3, 1°, van het decreet van 16 maart 2012;<br>
 6° kleine, middelgrote en grote ondernemingen : de ondernemingen, vermeld in artikel 3, 2°, 3° en 4°, van het decreet van 16 maart 2012;<br>
 7° regionale steungebieden : de gebieden, vermeld in artikel 3, 7°, van het decreet van 16 maart 2012;<br>
