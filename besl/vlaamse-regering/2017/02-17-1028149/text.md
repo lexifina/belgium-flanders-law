@@ -41,8 +41,8 @@ In dit besluit wordt verstaan onder:<br>
 2° beschutte werkplaats: de beschutte werkplaats, erkend conform artikel 79 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006, zoals van kracht voor de inwerkingtreding van het decreet van 12 juli 2013;<br>
 3° DAEB-besluit van 20 december 2011: het besluit (EG) nr. 2012/2l/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;<br>
 4° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
-5° departement: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
-6° kwaliteitsmanagementsysteem: het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+5° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+6° kwaliteitsmanagementsysteem: het kwaliteitsmodel, zoals bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 7° minister: de Vlaamse minister, bevoegd voor de sociale economie;<br>
 8° sociale werkplaats: de sociale werkplaats, erkend overeenkomstig het decreet van 14 juli 1998 inzake sociale werkplaatsen, zoals van kracht voor de inwerkingtreding van het decreet van 12 juli 2013;<br>
 &nbsp;9° algemene groepsvrijstellingsverordening: de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het verdrag met de interne markt verenigbaar worden verklaard.
@@ -798,7 +798,7 @@ De externe organisatie die betrokken is bij de beoordeling van de kansen op door
 § 1. De onderneming die doorstroomtrajecten als vermeld in artikel 68, wil uitvoeren, dient een mandaataanvraag in bij de VDAB.<br>
 <br>
 De onderneming toont daarbij minstens aan dat ze aan de volgende voorwaarden voldoet:<br>
-1° de onderneming beschikt over een kwaliteitsmodel als bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk en Sociale Economie;<br>
+1° de onderneming beschikt over een kwaliteitsmodel als bedoeld in artikel 5 van het decreet van 29 maart 2019 betreffende het kwaliteits- en registratiemodel van dienstverleners in het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 2° de onderneming beschikt over de nodige faciliteiten om de dienstverlening uit te voeren;<br>
 3° de onderneming toont haar professionele deskundigheid op het vlak van begeleiding van personen met een arbeidsbeperking, als vermeld in artikel 12, tweede lid;<br>
 4° de onderneming heeft aantoonbare resultaten wat betreft de inschakeling van doelgroepwerknemers in het normaal economisch circuit;<br>
