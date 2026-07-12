@@ -16,7 +16,7 @@ De stuurgroep bedoeld in artikel 9 van het decreet wordt opgericht.<br /><br />
 
 § 1. Overeenkomstig artikel 9, § 2, van het decreet is de stuurgroep samengesteld uit :<br>
 1° het hoofd van elke Provinciale Ontwikkelingsmaatschappij;<br>
-2° een vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie;<br>
+2° een vertegenwoordiger van het beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie;<br>
 3° ...<br>
 4° twee vertegenwoordigers van het beleidsdomein Omgeving;<br>
 5° een vertegenwoordiger van het beleidsdomein Mobiliteit en Openbare Werken;<br>
