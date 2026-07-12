@@ -40,7 +40,7 @@ f)&nbsp;&nbsp; &nbsp;als rechthebbende op de overbrugging voor zelfstandigen, de
 8° prestarterstraject : een door de minister conform artikel 12 bepaald traject richting zelfstandig ondernemerschap dat voorbereidt op de start van een eigen onderneming;<br>
 9° dienstverlener : organisaties met publiekrechtelijke of privaatrechtelijke rechtspersoonlijkheid of natuurlijke personen die een prestarterstraject organiseren;<br>
 10° minister : de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid;<br>
-11° departement : het Departement Werk en Sociale Economie vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+11° departement: het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 12° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".<br>
 <br>
 De volgende categorieën worden niet als werkzoekende als vermeld in het eerste lid, 1°, beschouwd:&nbsp;<br>
