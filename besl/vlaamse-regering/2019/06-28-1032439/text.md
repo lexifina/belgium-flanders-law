@@ -1281,7 +1281,7 @@ c)&nbsp;in het universitair onderwijs: het studiegebied lichamelijke opvoeding, 
 3° een bekwaamheidsattest van verzorgende-zorgkundige als vermeld in artikel 3, §1, eerste lid, van het besluit van de Vlaamse Regering van 3 mei 2019 tot regeling van de VDAB-opleiding tot verzorgende en zorgkundige;<br>
 4° een bekwaamheidsattest, uitgereikt door een opleidingscentrum dat erkend is door de Franse of de Duitstalige Gemeenschap en dat opleidingen organiseert die zowel naar inhoud als naar niveau gelijkwaardig zijn aan de opleidingen die leiden tot een bekwaamheidsattest als vermeld in punt 3°;<br>
 5° een buitenlands studiebewijs, op voorwaarde dat het door het National Academic and professional Recognition and Information Centre (NARIC-Vlaanderen) gelijkwaardig wordt verklaard met een Vlaams studiebewijs als vermeld in punt 1°, of 2°;<br>
-6° ...;<br>
+6° een bewijs van beroepskwalificatie van verzorgende of zorgkundige, behaald na een beroepskwalificerend traject als vermeld in artikel 2, 2°, van het decreet van 26 april 2019 betreffende het kwaliteitstoezicht voor beroepskwalificerende trajecten op basis van een gemeenschappelijk kwaliteitskader, dat erkend is door het Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie, vermeld in artikel 29/1, eerste lid, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 7° een attest waaruit blijkt dat de persoon geregistreerd is als zorgkundige.<br>
 <br>
 In afwijking van het tweede lid, 1°, a), beschikt een verzorgend personeelslid voor de studiebewijzen die vanaf het schooljaar 2024-2025 behaald worden in het secundair onderwijs, bij de indiensttreding over een diploma van secundair onderwijs met onderwijskwalificatie niveau 3 of niveau 4, dat is behaald in het studiedomein Maatschappij en Welzijn, samen met een van de volgende beroepskwalificaties:<br>
@@ -1490,7 +1490,9 @@ De extra uren gezinszorg worden aangevraagd via een formulier, dat de administra
 <br>
 In afwijking van het vierde lid wordt de aanvraag voor 2021 vóór 1 december 2020 aan de administratie bezorgd.<br>
 <br>
-Een nieuw initiatief ontvangt geen extra uren gezinszorg in het jaar dat volgt op het jaar van zijn erkenning.</p>
+Een nieuw initiatief ontvangt geen extra uren gezinszorg in het jaar dat volgt op het jaar van zijn erkenning.<br>
+<br>
+In afwijking van het eerste lid kan een erkende dienst geen extra uren gezinszorg aanvragen als de secretaris-generaal die dienst op de uiterste indieningsdatum, vermeld in het vierde lid, onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, van het besluit van de Vlaamse Regering van 19 juli 2024 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers heeft geplaatst.</p>
 
 ### ART 51.
 
