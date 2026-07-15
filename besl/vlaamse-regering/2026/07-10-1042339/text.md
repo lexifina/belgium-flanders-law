@@ -98,6 +98,13 @@ In artikel 78/1, §1, van bijlage 2 bij hetzelfde besluit, ingevoegd bij het bes
 
 ## Hoofdstuk 3. Wijzigingen van het besluit van de Vlaamse Regering van 19 juli 2024 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers
 
+### ART 18.
+
+In artikel 20, §1, van het besluit van de Vlaamse Regering van 19 juli 2024 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2026, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+“In afwijking van het tweede lid, 3°, kan een erkenning wel worden overgedragen als een dienst niet voldoet aan de erkenningsvoorwaarde, vermeld in artikel 29, eerste lid, van bijlage 2 bij het besluit van 28 juni 2019. In afwijking van het tweede lid, 2°, worden het gerealiseerde urencontingent gezinszorg van de overdragende dienst en het aantal vte logistiek personeel en doelgroepwerknemers die aan die dienst zijn toegewezen, aan de overnemer overgedragen. Het gerealiseerde urencontingent gezinszorg wordt bepaald op basis van de hoogste realisatiegraad van het urencontingent gezinszorg, zoals dat in Vesta als vermeld in artikel 1, 26°, van de bijlage 2 bij het besluit van 28 juni 2019, is berekend, dat aan de overdragende dienst is toegewezen, in een van de twee kalenderjaren vóór het kalenderjaar waarin de overdracht wordt aangevraagd.”;<br>
+2° in het bestaande zesde lid, dat het zevende lid wordt, worden de woorden “vijfde lid” vervangen door de woorden “zesde lid”.
+
 ## Hoofdstuk 4. Slotbepalingen
 
 ### ART 19.

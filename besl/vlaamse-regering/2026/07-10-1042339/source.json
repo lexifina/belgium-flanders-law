@@ -2,16 +2,16 @@
   "codex_id": 1042339,
   "title": "Besluit van de Vlaamse Regering van 2026-07-10 tot vaststelling van het totale aantal subsidiabele uren gezinszorg en schoonmaakhulp, karweihulp of oppashulp voor de diensten voor gezinszorg voor het jaar 2026, en tot wijziging van bijlage 2 bij het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers en het besluit van de Vlaamse Regering van 19 juli 2024 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers, wat betreft de diensten voor gezinszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042339/VolledigDocument?datum=2026-01-01",
-  "source_sha256": "661dd83361da09e3c9e3ca30ac5300127380e317e70c17f6c8f1c19cd5fa1613",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042339/VolledigDocument?datum=2026-07-15",
+  "source_sha256": "9a9c13a1f452f191fb050722f7e52a58e9fc10851520f4163bb59a7d2b0c9052",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042339&param=informatie",
-  "as_of": "2026-01-01",
+  "as_of": "2026-07-15",
   "made": "2026-07-10",
   "gazette": "2026-09-18",
   "numac": 2026006680,
   "document_start": "2026-01-01",
   "document_end": null,
-  "in_force": "2026-01-01",
-  "article_versions": 19,
-  "record_form": "consolidated version as in force on 2026-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-07-15",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2026-07-15; future article versions excluded; article text as the API gives it"
 }
