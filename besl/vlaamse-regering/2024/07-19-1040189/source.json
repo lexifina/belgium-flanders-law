@@ -2,16 +2,16 @@
   "codex_id": 1040189,
   "title": "Besluit van de Vlaamse Regering van 2024-07-19 over de procedures voor woonzorgvoorzieningen en verenigingen voor mantelzorgers en gebruikers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040189/VolledigDocument?datum=2025-12-08",
-  "source_sha256": "473bc45bf4955b62fdecf6f5d5790a5cfe34dbff97089d4bdd2c163fdc701631",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040189/VolledigDocument?datum=2026-07-15",
+  "source_sha256": "59b0f5ee64fb94520e03d7b6dc863bf3598f9ee550e6ab54cb19c50ea078ee05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040189&param=informatie",
-  "as_of": "2025-12-08",
+  "as_of": "2026-07-15",
   "made": "2024-07-19",
   "gazette": "2024-08-29",
   "numac": 2024008145,
   "document_start": "2024-09-01",
   "document_end": null,
-  "in_force": "2025-12-08",
+  "in_force": "2026-07-15",
   "article_versions": 86,
-  "record_form": "consolidated version as in force on 2025-12-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-15; future article versions excluded; article text as the API gives it"
 }

@@ -313,13 +313,17 @@ Uit de overeenkomst, vermeld in het eerste lid, blijkt dat al de volgende voorwa
 2°&nbsp;&nbsp; &nbsp;het urencontingent gezinszorg en het aantal vte logistiek personeel en doelgroepwerknemers die aan de dienst zijn toegewezen, worden volledig overgedragen aan de overnemer;<br>
 3°&nbsp;&nbsp; &nbsp;de dienst blijft aan de erkenningsvoorwaarden voldoen.<br>
 <br>
+In afwijking van het tweede lid, 3°, kan een erkenning wel worden overgedragen als een dienst niet voldoet aan de erkenningsvoorwaarde, vermeld in artikel 29, eerste lid, van bijlage 2 bij het besluit van 28 juni 2019. In afwijking van het tweede lid, 2°, worden het gerealiseerde urencontingent gezinszorg van de overdragende dienst en het aantal vte logistiek personeel en doelgroepwerknemers die aan die dienst zijn toegewezen, aan de overnemer overgedragen. Het gerealiseerde urencontingent gezinszorg wordt bepaald op basis van de hoogste realisatiegraad van het urencontingent gezinszorg, zoals dat in Vesta als vermeld in artikel 1, 26°, van de bijlage 2 bij het besluit van 28 juni 2019, is berekend, dat aan de overdragende dienst is toegewezen, in een van de twee kalenderjaren vóór het kalenderjaar waarin de overdracht wordt aangevraagd.<br>
+<br>
 Op het moment van de indiening van het afschrift van de overeenkomst conform het eerste lid, is de rechtspersoon aan wie de erkenning wordt overgedragen, rechtsgeldig opgericht.&nbsp;<br>
 <br>
 Als dat van toepassing is, voegt het centrum bij het afschrift van de overeenkomst, vermeld in het eerste lid, het bewijs van de goedkeuring van VIPA voor de vervreemding van het centrum voor dagopvang.<br>
 <br>
 De overdracht van een erkenning is alleen mogelijk als de dienst de intentie om zijn erkenning over te dragen bekendmaakt aan alle erkende diensten voor gezinszorg die zorg en ondersteuning aanbieden in een van de gemeenten van het werkingsgebied van die dienst. Nadat de voormelde intentie is bekendgemaakt, hebben geïnteresseerde diensten minstens dertig dagen de tijd om daarover in overleg te gaan met de dienst. De dienst bezorgt vervolgens zijn gemotiveerde beslissing tot overdracht van de erkenning aan alle diensten die interesse betoonden. De overdracht van de erkenning van een dienst voor gezinszorg kan niet gekoppeld worden aan de overdracht van de erkenning van een woonzorgcentrum of een centrum voor kortverblijf type 1. De dienst voegt bij het afschrift van de overeenkomst, vermeld in het eerste lid, de stukken die aantonen dat de procedure, vermeld in dit lid, is gevolgd.<br>
 <br>
-Het vijfde lid is niet van toepassing als de initiatiefnemer van de dienst die zijn erkenning wil overdragen, lid is van de rechtspersoon waaraan de erkenning wordt overgedragen en vertegenwoordigd is in het bestuur van die rechtspersoon.<br>
+Het zesde lid is niet van toepassing als de initiatiefnemer van de dienst die zijn erkenning wil overdragen, lid is van de rechtspersoon waaraan de erkenning wordt overgedragen en vertegenwoordigd is in het bestuur van die rechtspersoon.<br>
+<br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als dienst voor gezinszorg die de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
 <br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in deze paragraaf, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.<br>
 <br>
@@ -332,6 +336,8 @@ Uit de overeenkomst, vermeld in het eerste lid, blijkt dat al de volgende voorwa
 Op het moment van de indiening van het afschrift van de overeenkomst conform het eerste lid, is de rechtspersoon aan wie de erkenning wordt overgedragen, rechtsgeldig opgericht.&nbsp;<br>
 <br>
 Als dat van toepassing is, voegt het centrum bij het afschrift van de overeenkomst, vermeld in het eerste lid, het bewijs van de goedkeuring van VIPA voor de vervreemding van het centrum voor dagopvang.<br>
+<br>
+De overdracht van de bijkomende erkenning is niet mogelijk als de initiatiefnemer waaraan de bijkomende erkenning wordt overgedragen, al een erkenning heeft als dienst voor gezinszorg die of als centrum voor dagopvang dat de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
 <br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in deze paragraaf, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
@@ -350,6 +356,8 @@ De overdracht van een erkenning is alleen mogelijk op voorwaarde dat de dienst d
 <br>
 Het vierde lid is niet van toepassing als de initiatiefnemer van de dienst die zijn erkenning wil overdragen, lid is van de rechtspersoon waaraan de erkenning wordt overgedragen en vertegenwoordigd is in het bestuur van die rechtspersoon.<br>
 <br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als dienst voor oppashulp die de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
+<br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
 ### ART 22.
@@ -361,6 +369,8 @@ Uit de overeenkomst, vermeld in het eerste lid, blijkt dat al de volgende voorwa
 2°&nbsp;&nbsp; &nbsp;de dienst blijft aan alle erkenningsvoorwaarden voldoen.<br>
 <br>
 Op het moment van de indiening van het afschrift van de overeenkomst conform het eerste lid is de rechtspersoon aan wie de erkenning wordt overgedragen, rechtsgeldig opgericht.&nbsp;<br>
+<br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als dienst voor thuisverpleging die de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
 <br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
@@ -374,6 +384,8 @@ Uit de overeenkomst, vermeld in het eerste lid, blijkt dat al de volgende voorwa
 3°&nbsp;&nbsp; &nbsp;de dienst blijft aan alle erkenningsvoorwaarden voldoen.<br>
 <br>
 Op het moment van de indiening van het afschrift van de overeenkomst conform het eerste lid is de rechtspersoon aan wie de erkenning wordt overgedragen, rechtsgeldig opgericht.&nbsp;<br>
+<br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als dienst maatschappelijk werk van het ziekenfonds die de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
 <br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
@@ -391,6 +403,8 @@ Op het moment van de indiening van het afschrift van de overeenkomst conform het
 <br>
 Als dat van toepassing is, voegt het lokaal dienstencentrum bij het afschrift van de overeenkomst, vermeld in het eerste lid, het bewijs van de goedkeuring van VIPA voor de vervreemding van het lokaal dienstencentrum.<br>
 <br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als lokaal dienstencentrum dat de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
+<br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
 ### ART 25.
@@ -407,6 +421,8 @@ Op het moment van de indiening van het afschrift van de overeenkomst conform het
 <br>
 Als dat van toepassing is, voegt het centrum voor kortverblijf type 2 of het centrum voor kortverblijf type 3 bij het afschrift van de overeenkomst, vermeld in het eerste lid, het bewijs van de goedkeuring van VIPA voor de vervreemding van het centrum voor kortverblijf type 2 of het centrum voor kortverblijf type 3.<br>
 <br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als centrum voor kortverblijf type 2 of centrum voor kortverblijf type 3 dat de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
+<br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
 ### ART 26.
@@ -419,6 +435,8 @@ Uit de overeenkomst, vermeld in het eerste lid, blijkt dat al de volgende voorwa
 3°&nbsp;&nbsp; &nbsp;de dienst blijft aan alle erkenningsvoorwaarden voldoen.&nbsp;<br>
 <br>
 Op het moment van de indiening van het afschrift van de overeenkomst conform het eerste lid is de rechtspersoon aan wie de erkenning wordt overgedragen, rechtsgeldig opgericht.&nbsp;<br>
+<br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als dienst voor gastopvang die de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
 <br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
@@ -433,6 +451,8 @@ Uit de overeenkomst, vermeld in het eerste lid, blijkt dat al de volgende voorwa
 2°&nbsp;&nbsp; &nbsp;de vereniging blijft aan alle erkenningsvoorwaarden voldoen.<br>
 <br>
 Op het moment van de indiening van het afschrift van de overeenkomst conform het eerste lid is de rechtspersoon aan wie de erkenning wordt overgedragen, rechtsgeldig opgericht.&nbsp;<br>
+<br>
+De overdracht van een erkenning is niet mogelijk als de initiatiefnemer waaraan de erkenning wordt overgedragen, al een erkenning heeft als vereniging voor mantelzorgers en gebruikers die de secretaris-generaal onder verhoogd toezicht als vermeld in artikel 44, §3, eerste lid, heeft geplaatst.<br>
 <br>
 De aanvraag tot overdracht van de erkenning is ontvankelijk als ze alle elementen voor de aangevraagde overdracht, vermeld in dit artikel, bevat. Over de aanvraag tot overdracht van de erkenning wordt beslist conform artikel 9 tot en met 12.
 
@@ -579,7 +599,7 @@ In het kader van het verhoogde toezicht kan de administratie verschillende onder
 <br>
 §5. Een aanvraag tot erkenning van bijkomende opnamemogelijkheden van een centrum voor kortverblijf type 1, een groep van assistentiewoningen, een centrum voor herstelverblijf of een woonzorgcentrum is niet ontvankelijk als de initiatiefnemer van de woonzorgvoorziening in kwestie door de secretaris-generaal onder verhoogd toezicht is geplaatst, conform paragraaf 3, eerste lid, en met toepassing van paragraaf 4 nog niet is vastgesteld dat de initiatiefnemer in kwestie zich op structurele en blijvende wijze naar de erkenningsvoorwaarden die zijn opgenomen in die aanmaning, heeft geschikt binnen de termijn die de administratie in die aanmaning heeft bepaald.<br>
 <br>
-Een aanvraag tot bijkomende erkenning van een centrum voor dagverzorging, een woonzorgcentrum of een centrum voor kortverblijf type 1 is niet ontvankelijk als de initiatiefnemer van de woonzorgvoorziening in kwestie door de secretaris-generaal onder verhoogd toezicht is geplaatst, conform paragraaf 3, eerste lid, en met toepassing van paragraaf 4 nog niet is vastgesteld dat de initiatiefnemer in kwestie zich op structurele en blijvende wijze naar de erkenningsvoorwaarden die zijn opgenomen in die aanmaning, heeft geschikt binnen de termijn die de administratie in die aanmaning heeft bepaald.<br>
+Een aanvraag tot bijkomende erkenning van&nbsp;een centrum voor dagopvang, een centrum voor dagverzorging, een woonzorgcentrum of een centrum voor kortverblijf type 1 is niet ontvankelijk als de initiatiefnemer van de woonzorgvoorziening in kwestie door de secretaris-generaal onder verhoogd toezicht is geplaatst, conform paragraaf 3, eerste lid, en met toepassing van paragraaf 4 nog niet is vastgesteld dat de initiatiefnemer in kwestie zich op structurele en blijvende wijze naar de erkenningsvoorwaarden die zijn opgenomen in die aanmaning, heeft geschikt binnen de termijn die de administratie in die aanmaning heeft bepaald.<br>
 <br>
 In afwijking van artikel 38 van het besluit van 19 oktober 2018 en artikel 32 van het besluit van de Vlaamse Regering van 8 mei 2020 tot aanpassing van administratieve procedures en termijnen in de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin door de uitbraak van COVID-19 en tot wijziging van diverse besluiten van de Vlaamse Regering van dat beleidsdomein wordt de termijn van uitstel, vermeld in die artikelen, van rechtswege verlengd met de periode van verhoogd toezicht die begint conform paragraaf 3 van dit artikel, en eindigt conform paragraaf 4 van dit artikel.
 
