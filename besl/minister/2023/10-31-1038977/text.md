@@ -56,7 +56,7 @@ Voor de basisopleidingen over de fytolicentie, vermeld in artikel 6 van het besl
 
 ### ART 6.
 
-§1. De vorming via de kennisportefeuille, vermeld in artikel 5 van het besluit van 6 oktober 2023, kan op afstand via het internet aangeboden worden met een systeem dat de bevoegde entiteit vooraf goedkeurt.&nbsp;<br>
+§1. De vorming via de kennisportefeuille, vermeld in artikel 5 van het besluit van 6 oktober 2023, kan op afstand via het internet aangeboden worden met een systeem dat de bevoegde entiteit goedkeurt.&nbsp;<br>
 <br>
 §2. Het systeem, vermeld in paragraaf 1, voldoet aan de volgende voorwaarden:&nbsp;<br>
 1° het systeem biedt voldoende garanties dat aan de subsidievoorwaarden, vermeld in het besluit van 6 oktober 2023 en de uitvoeringsbesluiten ervan, voldaan is;<br>
@@ -144,8 +144,8 @@ Het adviesrapport, vermeld in artikel 25 van het besluit van 6 oktober 2023, bev
 3° het registratienummer van het advies;<br>
 4° het adviesonderwerp;<br>
 5° de doelstelling waaronder het adviesonderwerp valt;<br>
-6° de naam en het ondernemingsnummer van de actieve landbouwer;<br>
-7° de basiskarakteristieken van het bedrijf van de actieve landbouwer: sector en bedrijfsareaal;<br>
+6° de naam van de actieve landbouwer;<br>
+7° de basiskarakteristieken van het bedrijf van de actieve landbouwer;<br>
 8° de inhoud van het advies en ook de elementen, vermeld in artikel 4, eerste lid, 3°, van het voormelde besluit;<br>
 9° de datum waarop het advies is opgemaakt;<br>
 10° de datum van de bedrijfsbezoeken of de onlinevideovergaderingen.
@@ -171,7 +171,7 @@ De facturen voor advies, vermeld in artikel 29 van het besluit van 6 oktober 202
 2° de naam en het ondernemingsnummer van de actieve landbouwer waaraan het advies is gegeven;<br>
 3° het registratienummer van het advies;<br>
 4° het adviesonderwerp;<br>
-5° de totale prijs van de prestaties, exclusief btw, samen met de onderbouwing ervan, aan de hand van uurtarieven en relevante eenheidsprijzen;<br>
+5° de totale prijs van de prestaties, exclusief btw, inclusief de uurtarieven, het aantal gepresteerde uren en andere relevante eenheidsprijzen;<br>
 6° de datum van de factuur.<br>
 <br>
 Als in een factuur kosten die in aanmerking komen als vermeld in artikel 11 van het besluit van 6 oktober 2023, en kosten die niet in aanmerking komen, worden gefactureerd, worden de kosten die niet in aanmerking komen, apart vermeld op de factuur.<br>
@@ -195,7 +195,11 @@ Het vormingscentrum legt op eenvoudig verzoek bewijsstukken voor die de marktcon
 
 ### ART 18.
 
-De aanwezigheidslijst, vermeld in artikel 31 van het besluit van 6 oktober 2023, bevat de volgende gegevens:<br>
+De aanwezigheid van de deelnemers bij elke vorming via een kennisportefeuille, vermeld in artikel 31 van het besluit van 6 oktober 2023, wordt door het vormingscentrum digitaal geregistreerd.&nbsp;<br>
+<br>
+Als een digitale registratie als vermeld in het eerste lid, niet mogelijk is, houdt het vormingscentrum een aanwezigheidslijst op papier bij.<br>
+<br>
+De aanwezigheidslijst, op papier, vermeld in het tweede lid, bevat de volgende gegevens:<br>
 1° de naam van de deelnemer die de vorming heeft gevolgd;<br>
 2° de titel van de vorming;<br>
 3° het adres waar de vorming plaatsvindt;<br>
@@ -246,7 +250,7 @@ Het minimumaantal uren dat aan de aanvullende vijfde module besteed moet worden,
 <br>
 De voormelde starterscursussen type B worden gevolgd door minstens acht geldige deelnemers als vermeld in artikel 34, eerste lid, 6°, van het besluit van 6 oktober 2023, als die deelnemers een starterscursus type A volgen of met vrucht gevolgd hebben.<br>
 <br>
-Een deelnemer kan maximaal voor één starterscursus type B als vermeld in het eerste lid, als geldige deelnemer gerekend worden.
+Een deelnemer kan maximaal voor drie starterscursussen type B als vermeld in het eerste lid, als geldige deelnemer gerekend worden.
 
 ### ART 23.
 
@@ -384,7 +388,7 @@ De bevoegde entiteit beslist over de principiële goedkeuring van de vormingsact
 
 ### ART 37.
 
-Binnen zestig dagen na de laatste dag van de vorming via een vormingsprogramma dient het algemeen vormingscentrum of het vormingscentrum voor bijenteelt een betalingsaanvraag in als vermeld in artikel 56 van het besluit van 6 oktober 2023.<br>
+Binnen negentig dagen na de laatste dag van de vorming via een vormingsprogramma dient het algemeen vormingscentrum of het vormingscentrum voor bijenteelt een betalingsaanvraag in als vermeld in artikel 56 van het besluit van 6 oktober 2023.<br>
 <br>
 In afwijking van het eerste lid dient het algemeen vormingscentrum bij basisopleidingen fytolicentie P2 als vermeld in artikel 35, 4°, van het voormelde besluit of bij aanvullende opleidingen over de fytolicentie als vermeld in artikel 35, 5°, van het voormelde besluit, binnen dertig dagen na de laatste dag van de vorming via een vormingsprogramma de betalingsaanvraag, vermeld in artikel 56 van het voormelde besluit, in via het e-loket.&nbsp;<br>
 <br>
@@ -396,9 +400,7 @@ De bevoegde entiteit stelt een model van de betalingsaanvraag beschikbaar op het
 <br>
 Het algemeen vormingscentrum of het vormingscentrum voor bijenteelt voegt een verslag dat de lesgever heeft ingevuld, bij de betalingsaanvraag. In het voormelde verslag wordt de uitbetaling aan de lesgever gevraagd.<br>
 <br>
-De bevoegde entiteit stelt een formulier ter beschikking voor het verslag, vermeld in het zesde lid.<br>
-<br>
-Het algemeen vormingscentrum voert bij de betalingsaanvraag van een bijscholing een lijst met de namen en de rijksregisternummers van de deelnemers in via het e-loket.
+De bevoegde entiteit stelt een formulier ter beschikking voor het verslag, vermeld in het zesde lid.
 
 ### ART 38.
 
@@ -431,10 +433,12 @@ De vergoeding aan de lesgevers, vermeld in het eerste lid, kan niet worden toege
 De forfaitaire werkingssubsidie, vermeld in artikel 59 van het besluit van 6 oktober 2023, varieert op de volgende wijze volgens het vormingstype:<br>
 1° voor lessen in het kader van de vormingstypes, vermeld in artikel 35, 1°, 3°, 4°, 5° en 6°, van het voormelde besluit, die plaatsvinden in een lokaal dat is uitgerust voor het geven van vorming, bedraagt ze 340 euro per dagdeel;<br>
 2° voor lessen in het kader van de vormingstypes, vermeld in artikel 35, 1°, 3°, 4°, 5° en 6°, van het voormelde besluit, die niet plaatsvinden in een lokaal dat is uitgerust voor het geven van vorming, bedraagt ze 240 euro per dagdeel;<br>
-3° voor bedrijfsbezoeken in het kader van de vormingstypes, vermeld in artikel 35, 1°, 3°, 4°, 5° en 6°, van het voormelde besluit, bedraagt de vergoeding aan het bedrijf dat bezocht wordt, inclusief toelichting door de bedrijfsleider of de bedrijfsleiders, maximaal 150 euro per bezoek;<br>
+3° ...;<br>
 4° voor onlinelessen in het kader van de vormingstypes, vermeld in artikel 35, eerste lid, 1°, 3°, 4°, 5° en 6°, van het voormelde besluit, bedraagt ze 210 euro per dagdeel. Als er minder dan twee uur les wordt gegeven, bedraagt ze 70 euro per uur;<br>
 5° voor de stages, vermeld in artikel 35, 2°, van het voormelde besluit, bedraagt ze 956 euro per stageperiode voor de algemene vormingscentra en de vormingscentra voor bijenteelt en 200 euro per stageperiode voor het stagebedrijf;<br>
 6° voor de lerende netwerken, vermeld in artikel 35, 8°, van het voormelde besluit, bedraagt ze 680 euro voor een volledig werkingsjaar.<br>
+<br>
+Een forfaitaire werkingssubsidie als vermeld in het eerste lid, 1° en 2°, kan gecombineerd worden met een bedrijfsbezoek. In dat geval kan een vergoeding van 150 euro per bezoek aangevraagd worden, die uitbetaald wordt aan het bedrijf dat bezocht wordt. Per dagdeel kunnen er maximum twee bedrijfsbezoeken plaatsvinden.<br>
 <br>
 Een forfaitaire werkingssubsidie als vermeld in het eerste lid, 1°, 2° en 4°, kan voor maximaal twee dagdelen per dag worden aangevraagd.&nbsp;<br>
 <br>
@@ -448,7 +452,7 @@ Als een digitale registratie als vermeld in het eerste lid, niet mogelijk is, ho
 <br>
 De aanwezigheidslijst, vermeld in het tweede lid, bevat de volgende gegevens:<br>
 1° de naam van het algemeen vormingscentrum of het vormingscentrum voor bijenteelt;<br>
-2° het thema en het opleidingsnummer van de vorming;<br>
+2° de titel en het opleidingsnummer van de vorming;<br>
 3° het adres waar de vorming plaatsvindt;<br>
 4° een alfabetisch gerangschikte lijst van de voor- en achternaam van de deelnemers;<br>
 5° per dagdeel of per lesgever, de handtekening van de deelnemer;<br>
@@ -465,12 +469,12 @@ Het algemeen vormingscentrum of het vormingscentrum voor bijenteelt voert uiterl
 ### ART 42.
 
 Het algemeen vormingscentrum of het vormingscentrum voor bijenteelt dient van elke vorming via een vormingsprogramma, met uitzondering van de vormingen, vermeld in artikel 35, 2° en 7°, van het besluit van 6 oktober 2023, uiterlijk bij de indiening van de betalingsaanvraag, vermeld in artikel 56 van het voormelde besluit, een deelnemerslijst in via het e-loket, die al de volgende gegevens bevat:<br>
-1° het rijksregisternummer van elke deelnemer, of de volgende gegevens:<br>
+1° het rijksregisternummer&nbsp;of, voor de personen die niet beschikken over een rijksregisternummer, de volgende gegevens:<br>
 &nbsp; a) de voor- en achternaam;<br>
 &nbsp; b) de woonplaats;<br>
 &nbsp; c) de geboortedatum;<br>
 2° afhankelijk van de deelnemer:<br>
-&nbsp; a) voor de personen, vermeld in artikel 34, eerste lid, 1°, 2°, 3°, 4° en 5°, van het voormelde besluit: het ondernemingsnummer van het bedrijf waar de deelnemer een landbouwactiviteit uitoefent;<br>
+&nbsp; a) voor de personen, vermeld in artikel 34, eerste lid, 3°, 4° en 5°, van het voormelde besluit: het ondernemingsnummer van het bedrijf waar de deelnemer een landbouwactiviteit uitoefent;<br>
 &nbsp; b) voor de personen, vermeld in artikel 34, eerste lid, 7°, van het voormelde besluit: het registratienummer bij het Federaal Agentschap voor de Veiligheid van de Voedselketen.<br>
 <br>
 De bevoegde entiteit stelt een model ter beschikking voor de deelnemerslijst, vermeld in het eerste lid.
@@ -494,16 +498,14 @@ De bevoegde entiteit kan op eenvoudig verzoek bijkomende informatie en bewijsstu
 In de lijst van vaste stagebedrijven, vermeld in artikel 65, eerste lid, 1°, van het besluit van 6 oktober 2023, worden al de volgende elementen opgenomen:&nbsp;<br>
 1° de naam van de actieve landbouwer;<br>
 2° het ondernemingsnummer;<br>
-3° de sector;&nbsp;<br>
-4° de motivering van de kennisverwerving van de landbouwer;<br>
-5° het akkoord van de actieve landbouwer dat hij de stageprocedure kent, en dat hij op de hoogte is van de voorwaarden en de engagementen waaraan een stagebedrijf moet voldoen, vermeld in artikel 67 van het voormelde besluit.<br>
+3° de sector.<br>
 <br>
 De bevoegde entiteit stelt een model voor de lijst van vaste stagebedrijven ter beschikking.&nbsp;
 
 ### ART 45.
 
 In de stageovereenkomst, vermeld in artikel 65, eerste lid, 5°, van het besluit van 6 oktober 2023, worden al de volgende elementen opgenomen:<br>
-1° het stageplan: dat bevat de data van de stage met vermelding van het aantal uren per dag, de vastgelegde taken en de leerdoelen. De leerdoelen worden in de volgende drie categorieën ingedeeld:<br>
+1° het stageplan: dat bevat de periode van de stage, de vastgelegde taken en de leerdoelen. De leerdoelen worden in de volgende drie categorieën ingedeeld:<br>
 &nbsp; a) leerdoel 1: het toepassen van theorie uit de starterscursussen type A en type B, vermeld in artikel 35, 1°, a) en b) van het voormelde besluit. Minstens twee leerdoelen die gebaseerd zijn op verschillende onderwerpen uit minstens twee modules, worden geformuleerd, waarvan minstens een leerdoel rond economische aspecten;<br>
 &nbsp; b) leerdoel 2: het verwerven van landbouwpraktijkvaardigheden. Deze leerdoelen worden gekoppeld aan het takenpakket;&nbsp;<br>
 &nbsp; c) leerdoel 3: persoonlijke ontwikkelpunten van de stagiair die gebaseerd zijn op de eigen zwaktes en sterktes. Deze leerdoelen beschrijven de persoonlijke aandachtspunten waarmee de stagiair tijdens de stage aan de slag gaat om in de toekomst persoonlijke uitdagingen te overwinnen;<br>
@@ -552,9 +554,9 @@ De bevoegde entiteit stelt modellen van de evaluatieverslagen, vermeld in het ee
 
 ### ART 48.
 
-De personen die geslaagd zijn voor de starterscursussen type A en type B, vermeld in artikel 35, 1°, a) en b) van het besluit van 6 oktober 2023, en voor de stage, vermeld in artikel 35, 2°, van het voormelde besluit, kunnen deelnemen aan de installatieproeven, vermeld in artikel 70 van het voormelde besluit.&nbsp;<br>
+De personen die de starterscursussen type A en type B, vermeld in artikel 35, 1°, a) en b), van het besluit van 6 oktober 2023, gevolgd hebben en voldoende aanwezig zijn geweest, en de personen die een stage als vermeld in artikel 35, 2°, van het voormelde besluit, hebben doorlopen, kunnen deelnemen aan de installatieproeven, vermeld in artikel 70, eerste lid, van het voormelde besluit.<br>
 <br>
-Een deelnemer die minstens twee jaar met het statuut van zelfstandig bedrijfsleider, zaakvoerder, meewerkende echtgenoot of zelfstandig helper heeft gewerkt op een landbouwbedrijf, wordt vrijgesteld van de stage, vermeld in het eerste lid. De deelnemer bewijst zijn statuut van meewerkende echtgenoot of zelfstandig helper met een verklaring van de sociale kas.<br>
+Een deelnemer die minstens twee jaar met het statuut van zelfstandig bedrijfsleider, zaakvoerder, werknemer, meewerkende echtgenoot of zelfstandig helper heeft gewerkt op een landbouwbedrijf, wordt vrijgesteld van de stage, vermeld in het eerste lid. Als dat nodig is, bewijst de deelnemer zijn statuut van meewerkende echtgenoot of zelfstandig helper met een verklaring van de sociale kas. Het statuut van werknemer wordt bewezen met een arbeidsovereenkomst.<br>
 <br>
 De bevoegde entiteit kan bepalen voor welke diploma’s een vrijstelling van de toelatingsvoorwaarden bij de installatieproeven verleend kan worden voor bepaalde modules van een starterscursus van type A of type B als vermeld in artikel 35, 1°, a) en b) van het voormelde besluit.
 
@@ -600,9 +602,9 @@ De aanvraag tot registratie, vermeld in artikel 100 van het besluit van 6 oktobe
 &nbsp; b) de naam van de onderneming;<br>
 &nbsp; c) de naam van de verantwoordelijke;<br>
 &nbsp; d) de contactgegevens;<br>
-2° voor een adviesdienst: het registratienummer voor advies binnen de kmo-portefeuille;<br>
-3° voor een vormingscentrum, een algemeen vormingscentrum, een vormingscentrum voor bijenteelt: het registratienummer voor opleiding binnen de kmo-portefeuille;<br>
-4° voor een promotor: het registratienummer voor advies of vorming binnen de kmo-portefeuille.<br>
+2° voor een adviesdienst: het registratienummer voor advies binnen de kmo-portefeuille,&nbsp;of het bewijs van het doorlopen van een positieve audit volgens de kmo-portefeuille norm;<br>
+3° voor een vormingscentrum, een algemeen vormingscentrum, een vormingscentrum voor bijenteelt: het registratienummer voor opleiding binnen de kmo-portefeuille,&nbsp;of het bewijs van het doorlopen van een positieve audit volgens de kmo-portefeuille norm;<br>
+4° voor een promotor: het registratienummer voor advies of vorming binnen de kmo-portefeuille,&nbsp;of het bewijs van het doorlopen van een positieve audit volgens de kmo-portefeuille norm.<br>
 <br>
 De bevoegde entiteit kan op eenvoudig verzoek bijkomende informatie en bewijsstukken opvragen.
 
@@ -963,66 +965,66 @@ A4: Overname, opstart en sociale aspecten – 20 uur<br>
 
 ### BIJLAGE 2
 
-Programma van de starterscursussen type B als vermeld in artikel 22<br>
+Bijlage 2. Programma van de starterscursussen type B als vermeld in artikel 22<br>
 <br>
-Minimaal zestig uren, die evenredig over de onderwerpen verdeeld worden, en maximaal 100 uren worden besteed aan de volgende onderwerpen:<br>
-&nbsp;
-<table cellspacing="0" style="border-collapse:collapse">
+Bij een starterscursus type B als vermeld in artikel 22 worden minimaal zestig uren en maximaal 100 uren besteed aan een of meer van de volgende onderwerpen:
+<table cellspacing="0" style="border-collapse:collapse; width:900px">
 	<tbody>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:478px">Onderwerp</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:478px">Kennen, kunnen en weten</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:478px">onderwerp</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:478px">kennen, kunnen en weten</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Economische en sociale benadering van de bedrijfstak</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Rentabiliteit, kostprijsberekening, boekhouding, naargelang van de bedrijfstak:<br>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">economische en sociale benadering van de bedrijfstak</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">rentabiliteit, kostprijsberekening, boekhouding, naargelang van de bedrijfstak:<br>
 			a. specifieke belastingstelsels<br>
 			b. specifiek personeelsbeleid<br>
 			c. gebruik van kwaliteitslabels en etikettering</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Administratieve verplichtingen voor de bedrijfstak</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">administratieve verplichtingen voor de bedrijfstak</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Wetgevende en milieuaspecten voor de bedrijfstak</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Geïntegreerde productie, duurzame productie, verantwoorde huisvesting, sanitair aspect, wettelijke verplichtingen inzake dierenwelzijn</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">wetgevende en milieuaspecten voor de bedrijfstak</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">geïntegreerde productie, duurzame productie, verantwoorde huisvesting, sanitair aspect, wettelijke verplichtingen inzake dierenwelzijn</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Sectorspecifiek ondernemerschap</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Innovatie, afzet, kwaliteitsgerichte systemen</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">sectorspecifiek ondernemerschap</td>
+			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">innovatie, afzet, kwaliteitsgerichte systemen</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Socio-economische voorstelling van een bedrijf</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">socio-economische voorstelling van een bedrijf</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Bedrijfsbezoeken, als geen sanitaire beperkingen die beletten</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">bedrijfsbezoeken, als geen sanitaire beperkingen die beletten</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">Technische aspecten (teelttechniek, voeding, mechanisatie ...)</td>
+			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">technische aspecten, zoals teelttechniek, voeding, mechanisatie, ...</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:478px">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-Maximaal drie modules kiezen uit de volgende:<br>
-B1. Melkveehouderij<br>
-B2. Vleesveehouderij<br>
-B3. Varkenshouderij<br>
-B4. Pluimveehouderij<br>
-B5. Paardenfokkerij<br>
-B6. Kleine herkauwers<br>
-B7. Akkerbouw<br>
-B8. Groenten in openlucht<br>
-B9. Glasgroenten en andere beschutte teelten<br>
-B10. Fruitteelt<br>
-B11. Wijnbouw<br>
-B12. Sierteelt<br>
-B13. Hoeveverbreding (korte keten, zuivel …)<br>
-B14. Mechanisatie<br>
-B15. Biologische landbouw
+Er worden maximaal drie modules gekozen uit de volgende modules:<br>
+1° B1. melkveehouderij;<br>
+2° B2. vleesveehouderij;<br>
+3° B3. varkenshouderij;<br>
+4° B4. pluimveehouderij;<br>
+5° B5. paardenfokkerij;<br>
+6° B6. kleine herkauwers;<br>
+7° B7. akkerbouw;<br>
+8° B8. groenten in openlucht;<br>
+9° B9. glasgroenten en andere beschutte teelten;<br>
+10° B10. fruitteelt;<br>
+11° B11. wijnbouw;<br>
+12° B12. sierteelt;<br>
+13° B13. hoeveverbreding (korte keten, zuivel …);&nbsp;<br>
+14° B14. mechanisatie;<br>
+15° B15. biologische landbouw.<br>
+&nbsp;
 
 ### Bijlage 3
 
