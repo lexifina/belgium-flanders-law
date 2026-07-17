@@ -28,3 +28,92 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Omgeving en Landbouw.
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 worden herverdeeld overeenkomstig onderstaande tabel:<br>
+(in duizend euro)
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; text-align:center; vertical-align:middle; width:150px">Begrotingsartikel</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:49px">Ent.</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:94px">Basisall.</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:72px">ESR</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:58px">Van<br>
+			VAK</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:64px">Van<br>
+			VEK</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:69px">Naar<br>
+			VAK</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; text-align:center; vertical-align:middle; width:67px">Naar<br>
+			VEK</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:150px">CB0-1CBD2AK-PR</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:49px">CB0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:94px">1CB041</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:72px">0100</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:58px">5.239</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:64px">5.239</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:69px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:67px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:150px">QB0-1QCG2FR-IS*</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:49px">QB0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:94px">1QC958</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:72px">4140</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:58px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:64px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:69px">479</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:67px">479</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:150px">QD0-1QAG2ZZ-LO</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:49px">QD0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:94px">1QA300</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:72px">1100</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:58px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:64px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:69px">1.268</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:67px">1.268</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:150px">QB0-1QCG2NY-IS*</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:49px">QB0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:94px">1QC184</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:72px">4140</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:58px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:64px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:69px">2.342</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:67px">2.342</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; height:20px; text-align:center; vertical-align:middle; width:150px">QB0-1QCG2OX-IS**</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:49px">QB0</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:94px">1QC183</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:72px">4130</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:58px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:64px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:69px">1.150</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:67px">1.150</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; text-align:center; vertical-align:middle; width:150px">Totaal</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:49px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:94px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:72px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:58px">5.239</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:64px">5.239</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:69px">5.239</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; text-align:center; vertical-align:middle; width:67px">5.239</td>
+		</tr>
+	</tbody>
+</table>
+<em>* De begroting</em><em>en 2026 van EVINBO en VLM worden conform aangepast. </em><br>
+<em>**De begroting 2026 van het MINAfonds wordt conform aangepast. Het budget wordt herschikt naar MINA-artikel QDX-3QCG2FA-WT (1.150 keuro VAK en VEK naar 3QC958).</em>
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor het budgettair beleid, is belast met de uitvoering van dit besluit.&nbsp;
