@@ -2,16 +2,16 @@
   "codex_id": 1035278,
   "title": "Besluit van de Vlaamse Regering van 2021-02-26 tot vaststelling van de regels voor de toekenning van steun van het Vlaams stimulusprogramma voor toeristische ondernemingen in het kader van het coronavirus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035278/VolledigDocument?datum=2021-03-09",
-  "source_sha256": "41e268887b7d1f86dde72608f60aa3791bb56762093d7a168156c3debad75383",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035278/VolledigDocument?datum=2026-07-17",
+  "source_sha256": "2c72719d68f7b58987d4117291f4f026f1be01ab8f928f021a9fd7560503e60e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035278&param=informatie",
-  "as_of": "2021-03-09",
+  "as_of": "2026-07-17",
   "made": "2021-02-26",
   "gazette": "2021-03-09",
   "numac": 2021040892,
   "document_start": "2021-03-09",
   "document_end": null,
-  "in_force": "2021-03-09",
+  "in_force": "2026-07-17",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2021-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-17; future article versions excluded; article text as the API gives it"
 }

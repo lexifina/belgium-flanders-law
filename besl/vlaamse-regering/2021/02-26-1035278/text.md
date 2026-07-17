@@ -256,7 +256,9 @@ De steun wordt in één schijf uitbetaald binnen dertig dagen na de dag waarop d
 
 ### ART 25.
 
-De steunaanvrager betaalt de toegekende renteloze lening, als deel van de voorfinanciering van de steun, gespreid terug binnen vijf jaar na de uitbetaling van de steun. De steunaanvrager handelt daarbij conform de richtlijnen die Toerisme Vlaanderen daarvoor bezorgt.
+De steunaanvrager betaalt de toegekende renteloze lening, als deel van de voorfinanciering van de steun, gespreid terug binnen zes jaar na de uitbetaling van de steun. De steunaanvrager handelt daarbij conform de richtlijnen die Toerisme Vlaanderen daarvoor bezorgt.<br>
+<br>
+Alleen steunaanvragers die de eerste drie schijven tijdig betaald hebben, komen in aanmerking om binnen een termijn van zes jaar de lening terug te betalen. Alle andere steunaanvragers betalen de lening binnen een termijn van vijf jaar terug.
 
 ## HOOFDSTUK 9. Controle en rapportering
 
