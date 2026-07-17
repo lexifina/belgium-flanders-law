@@ -2,16 +2,16 @@
   "codex_id": 1042234,
   "title": "Besluit van de Vlaamse Regering van 2026-07-17 tot herverdeling vanuit een provisioneel krediet vanuit de Vlaamse Gemeenschap voor het begrotingsjaar 2026",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042234/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "fca8b57b321d020e089afd171e0b51236cd80c6a7d34582d8e30fe20d5a0e129",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042234/VolledigDocument?datum=2026-07-17",
+  "source_sha256": "80b52f72524e1af5d4768c50083c3619e2c3943b1847ee584a2563c4eada8c21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042234&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2026-07-17",
   "made": "2026-07-17",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2026-07-17",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2026-07-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-07-17; future article versions excluded; article text as the API gives it"
 }

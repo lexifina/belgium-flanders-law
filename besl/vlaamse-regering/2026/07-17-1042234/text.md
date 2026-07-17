@@ -26,3 +26,68 @@ Dit besluit wordt voorgesteld door de Vlaamse minister van Brussel en Media.<br>
 Na beraadslaging,<br>
 <br>
 DE VLAAMSE REGERING BESLUIT:
+
+### ART 1.
+
+De kredieten ingeschreven onder de begrotingsartikelen van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 worden herverdeeld overeenkomstig onderstaande tabel:<br>
+(in duizend euro)
+<table cellspacing="0" style="border-collapse:collapse; width:800px">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; height:20px; text-align:center; vertical-align:middle; width:138px">Begrotingsartikel</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:57px">Ent.&nbsp;</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:76px">Basisall.&nbsp;</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:62px">ESR&nbsp;</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">Van&nbsp;<br>
+			VAK&nbsp;</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">Van&nbsp;<br>
+			VEK&nbsp;</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">Naar&nbsp;<br>
+			VAK&nbsp;</td>
+			<td style="border-color:black black black currentcolor; border-style:solid solid solid none; border-width:1px 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">Naar&nbsp;<br>
+			VEK&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; height:20px; text-align:center; vertical-align:middle; width:138px">HB0-1HBI2AL-PR&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:57px">HB0&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:76px">1HB110&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:62px">0100&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; height:20px; text-align:center; vertical-align:middle; width:138px">HB0-1HEI2XX-IS&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:57px">HB0&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:76px">1HE336&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:62px">4140&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border-color:currentcolor black black; border-style:none solid solid; border-width:medium 1px 1px; height:20px; text-align:center; vertical-align:middle; width:138px">Totaal&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:57px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:76px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:62px">&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+			<td style="border-color:currentcolor black black currentcolor; border-style:none solid solid none; border-width:medium 1px 1px medium; height:20px; text-align:center; vertical-align:middle; width:71px">15.000&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 2.
+
+Een afschrift van dit besluit wordt ter kennisgeving toegestuurd aan het Vlaams Parlement, het Rekenhof en het Departement Financiën en Begroting.
+
+### ART 3.
+
+In gevolge de goedkeuring van dit besluit zal VRT een aanpassing aan de begroting voorstellen om de toelageverhoging op te nemen op de begrotingsposten die weerslag ondervinden van dit besluit.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor Brussel en Media, is belast met de uitvoering van dit besluit.
