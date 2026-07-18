@@ -90,9 +90,9 @@ Als de cursist niet akkoord gaat met de resultaten van de NT2-test, kan de cursi
 
 ### ART 8.
 
-In afwijking van artikel 2, eerste lid, organiseren de NT2-centra tijdens de schooljaren 2023-2024 tot en met 2025-2026 een NT2-test die bestaat uit minstens een gestandaardiseerde NT2-test voor de onderdelen lezen en schrijven en een trajectevaluatie voor alle onderdelen.<br>
+In afwijking van artikel 2, eerste lid, organiseren de NT2-centra tijdens de schooljaren 2023-2024 tot en met 2026-2027 een NT2-test die bestaat uit minstens een gestandaardiseerde NT2-test voor de onderdelen lezen en schrijven en een trajectevaluatie voor alle onderdelen.<br>
 <br>
-In afwijking van artikel 2, tweede lid, voldoet de cursist aan al de volgende voorwaarden om tijdens de schooljaren 2023-2024 tot en met 2025-2026 te slagen voor de NT2-test:<br>
+In afwijking van artikel 2, tweede lid, voldoet de cursist aan al de volgende voorwaarden om tijdens de schooljaren 2023-2024 tot en met 2026-2027 te slagen voor de NT2-test:<br>
 1° slagen voor de onderdelen lezen en schrijven, waarbij het resultaat op de gestandaardiseerde NT2-test meetelt voor 80% van het totaalresultaat voor die onderdelen;<br>
 2° slagen voor de onderdelen spreken en luisteren door te slagen voor de trajectevaluatie.
 
