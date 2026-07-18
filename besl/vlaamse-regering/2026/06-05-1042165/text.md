@@ -69,6 +69,10 @@ Het agentschap bezorgt de overeenkomsten die gesloten zijn tussen een woonmaatsc
 <br>
 §6. Gemeenten die hun gemeentelijk objectief voor sociale huurwoningen vóór 31 december 2042 hebben verwezenlijkt, kunnen een beroep doen op de enveloppe, vermeld in artikel 2.23, §1, zevende lid, van de Vlaamse Codex Wonen van 2021.”.
 
+### ART 3.
+
+In artikel 2.10, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2025, wordt de zinsnede “artikel 2.5” vervangen door de zinsnede “artikel 2.6”.&nbsp;
+
 ### ART 4.
 
 In artikel 2.33/8, §3, tweede lid, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 november 2022, wordt de zinsnede “heeft een sociaal woonbeleidsconvenant gesloten als vermeld in artikel 5.52, eerste lid” vervangen door de zinsnede “gebruikt de procedure om na te gaan of sociale woonprojecten op haar grondgebied door een woonmaatschappij kunnen worden gerealiseerd, vermeld in artikel 2.2, §2, eerste lid”.&nbsp;
@@ -149,6 +153,89 @@ In artikel 2.39 van hetzelfde besluit worden de volgende wijzigingen aangebracht
 
 In boek 2, deel 3, titel 1/1, hoofdstuk 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2024, worden afdeling 3, die bestaat uit artikel 2.40 tot en met 2.42, en afdeling 4, die bestaat uit artikel 2.43, opgeheven.&nbsp;
 
+### ART 12.
+
+Artikel 2.54 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 2.54. De bepalingen van dit hoofdstuk zijn van toepassing op de voortgangstoetsen die het agentschap na 2026 uitvoert.”.
+
+### ART 13.
+
+Art. 2.55 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 2.55. Het agentschap berekent ten opzichte van de nulmeting voor elke gemeente in de jaren waarin een voortgangstoets plaatsvindt:<br>
+1° het aantal gerealiseerde sociale huurwoningen;<br>
+2° het aantal sociale huurwoningen dat in de meerjarenplanning is opgenomen;<br>
+3° het aantal sociale huurwoningen dat in de kortetermijnplanning of een verdere fase is opgenomen.<br>
+<br>
+Het agentschap vergelijkt het resultaat van de berekening, vermeld in het eerste lid, per gemeente met de vereisten, vermeld in artikel 2.23, §2, en artikel 2.32, §1, eerste lid, van de Vlaamse Codex Wonen van 2021.”.
+
+### ART 14.
+
+Artikel 2.57 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+“Art. 2.57. §1. Elke gemeente die voorlopig wordt ondergebracht in categorie 2, bezorgt aan het agentschap met een beveiligde zending een plan van aanpak binnen een termijn van drie maanden vanaf de dag die volgt op de dag van de kennisgeving door het agentschap over de voorlopige indeling in categorieën. In dat plan van aanpak toont de gemeente aan dat ze voldoende inspanningen levert om het bindend sociaal objectief te bereiken door een van de volgende elementen uit te werken:<br>
+1° het vooropgestelde sociaal woonaanbod, in voorkomend geval met inbegrip van de specifieke inhaalbeweging, kan volledig gerealiseerd worden door de sociale woonorganisaties of de openbare besturen, conform paragraaf 2;<br>
+2° de gemeente wendt het instrumentarium voor de verwezenlijking van een sociaal woonaanbod regelmatig aan, conform paragraaf 3, en bereikt voor de prestatievelden, vermeld in paragraaf 4, een minimaal uitvoeringsniveau, en ligt in een werkingsgebied waarin minimaal het aantal sociale huurwoningen, vermeld in artikel 4.46/2, tweede lid, van de Vlaamse Codex Wonen van 2021, wordt ingehuurd.<br>
+<br>
+Het college van burgemeester en schepenen keurt het plan van aanpak, vermeld in het eerste lid, voorafgaandelijk aan het bezorgen ervan, goed.<br>
+&nbsp;<br>
+§2. Een gemeente toont aan dat het vooropgestelde sociaal woonaanbod volledig en binnen de termijn voor de realisatie van het bindend sociaal objectief kan worden gerealiseerd op gronden die in eigendom zijn van de sociale woonorganisaties of de openbare besturen, door aan het agentschap de volgende documenten te bezorgen:<br>
+1° een lijst van gronden die eigendom zijn van sociale woonorganisaties of openbare besturen;<br>
+2° een planning die in het lokaal woonoverleg afgesproken is voor de realisatie van een bijkomend sociaal woonaanbod op de gronden die eigendom zijn van sociale woonorganisaties of openbare besturen, vermeld in punt 1°.<br>
+&nbsp;<br>
+§3. Een gemeente past het instrumentarium voor de verwezenlijking van een sociaal woonaanbod regelmatig toe als ze de volgende verplichtingen nakomt:<br>
+1° ze komt de verplichting na, vermeld in artikel 2.29, eerste lid, van de Vlaamse Codex Wonen van 2021;<br>
+2° ze berekent de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels die in eigendom zijn van Vlaamse besturen, vermeld in artikel 2.6, eerste lid, van de Vlaamse Codex Wonen van 2021, en stelt een actieprogramma op als vermeld in artikel 2.6, derde lid, van de Vlaamse Codex Wonen van 2021, en voert dat actieprogramma uit;<br>
+3° ze wendt ten minste 25% van de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels die in eigendom zijn van Vlaamse besturen, aan voor een sociaal woonaanbod conform artikel 2.6, vierde lid, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+§4. Een gemeente wordt beoordeeld op minstens een van de volgende prestatievelden:<br>
+1° de gemeente beschikt over een gemeentelijk ruimtelijk uitvoeringsplan met voldoende aandacht voor een sociaal woonaanbod;<br>
+2° de gemeente voert een actief beleid over de uitoefening van het recht van voorkoop, vermeld in artikel 5.76, §1, eerste lid, van de Vlaamse Codex Wonen van 2021;<br>
+3° de gemeente beschikt over een gemeentelijke stedenbouwkundige verordening als vermeld in artikel 2.3.2, §2, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening, over sociaal wonen;<br>
+4° de gemeente koopt private gronden aan om een bijkomend sociaal woonaanbod te ontwikkelen;<br>
+5° de gemeente wendt het lokaal woonoverleg aan om het bindend sociaal objectief te bereiken;<br>
+6° de gemeente voert een beleid om leegstand van gebouwen en woningen te bestrijden;<br>
+7° de gemeente oefent het sociaal beheersrecht uit op een woning, vermeld in artikel 5.82 van de Vlaamse Codex Wonen van 2021;<br>
+8° de gemeente beschikt over een visie op sociaal wonen.<br>
+<br>
+Voor het prestatieveld, vermeld in het eerste lid, 5°, beschikt de gemeente minimaal over een lokaal woonoverleg dat ten minste twee keer per jaar samenkomt, en over een verslag waaruit blijkt dat de gemeente:<br>
+1° actief gezocht heeft naar locaties voor sociale woonprojecten;<br>
+2° doelgroepen voor sociaal wonen afbakent op basis van het centraal inschrijvingsregister of gegevens van het lokaal sociaal beleid.<br>
+<br>
+Voor het prestatieveld, vermeld in het eerste lid, 6°, beschikt de gemeente minimaal over een geactualiseerd leegstandsregister als vermeld in artikel 2.9, eerste lid, van de Vlaamse Codex Wonen van 2021.<br>
+<br>
+§5. Na mededeling aan de Vlaamse Regering kan de minister een minimaal uitvoeringsniveau van de prestatievelden, vermeld in paragraaf 4, verhogen of bijkomende prestatievelden opleggen.”.
+
+### ART 15.
+
+In artikel 2.58 van hetzelfde besluit worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in paragraaf 1 wordt het eerste lid vervangen door wat volgt:&nbsp;<br>
+“Het agentschap beoordeelt het plan van aanpak, vermeld in artikel 2.57, §1, eerste lid, rekening houdend met de lokale context, en brengt de gemeenten die voorlopig ondergebracht zijn in categorie 2, onder in een van de volgende categorieën:<br>
+1° categorie 2a: gemeenten die het groeipad niet volgen, maar voldoende inspanningen leveren om het bindend sociaal objectief te bereiken;<br>
+2° categorie 2b: gemeenten die het groeipad niet volgen en onvoldoende inspanningen leveren om het bindend sociaal objectief te bereiken.”;<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+“§2. Een gemeente die definitief wordt ondergebracht in categorie 2b, wordt geacht kennelijk onvoldoende inspanningen te leveren om het bindend sociaal objectief te bereiken, vermeld in artikel 2.23, §3, tweede lid, van de Vlaamse Codex Wonen van 2021.<br>
+Een gemeente die definitief wordt ondergebracht in categorie 2b, betaalt per sociale huurwoning die niet voldoet aan de voorwaarden, vermeld in artikel 2.23, §2, of artikel 2.32, §1, eerste lid, van de Vlaamse Codex Wonen van 2021, op 31 december van het jaar vóór het jaar van de voortgangstoets, een jaarlijkse bijdrage.&nbsp;<br>
+&nbsp;Het bedrag van de jaarlijkse bijdrage, vermeld in het tweede lid, is afhankelijk van het jaar van de voortgangstoets:<br>
+1° 2028: 25% van de tegemoetkoming, inclusief de maximale verhoging voor personen ten laste en de verhoging voor het grondgebied, vermeld in artikel 5.182, §1, vermenigvuldigd met twaalf;<br>
+2° 2031: 50% van de tegemoetkoming, inclusief de maximale verhoging voor personen ten laste en de verhoging voor het grondgebied, vermeld in artikel 5.182, §1, vermenigvuldigd met twaalf;<br>
+3° 2034: 50% van de tegemoetkoming, inclusief de maximale verhoging voor personen ten laste en de verhoging voor het grondgebied, vermeld in artikel 5.182, §1, vermenigvuldigd met twaalf;<br>
+4° 2037: 100% van de tegemoetkoming, inclusief de maximale verhoging voor personen ten laste en de verhoging voor het grondgebied, vermeld in artikel 5.182, §1, vermenigvuldigd met twaalf;<br>
+5° 2040: 50% van de tegemoetkoming, inclusief de maximale verhoging voor personen ten laste en de verhoging voor het grondgebied, vermeld in artikel 5.182, §1, vermenigvuldigd met twaalf.<br>
+De gemeente betaalt de jaarlijkse bijdrage, vermeld in het tweede lid, op 10 januari van het jaar dat volgt op de bekendmaking van de lijst met de gemeenten die ingedeeld worden in categorie 2b, vermeld in paragraaf 1, derde lid, gedurende drie opeenvolgende jaren.”.<br>
+3° paragraaf 3 wordt opgeheven.
+
+### ART 16.
+
+In boek 2, deel 3, titel 2, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2021 en 10 november 2022, wordt in het opschrift van hoofdstuk 4 het woord “Beoordeling” vervangen door de woorden “Jaarlijkse meting en beoordeling”.&nbsp;
+
+### ART 17.
+
+In artikel 2.61 van hetzelfde besluit worden de volgende wijzigingen aangebracht:&nbsp;<br>
+1° in het eerste lid wordt het jaartal “2026” vervangen door het jaartal “2043” en wordt het jaartal “2025” vervangen door het jaartal “2042”;<br>
+2° het tweede lid wordt opgeheven.
+
 ### ART 18.
 
 In boek 5, deel 2, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 mei 2024, wordt titel 5, die bestaat uit artikel 5.80, opgeheven.
@@ -166,6 +253,16 @@ Aan hetzelfde besluit worden een bijlage 34 en 35 toegevoegd, die als bijlage 2 
 Het agentschap Wonen in Vlaanderen beoordeelt op basis van de gegevens waarover het beschikt op 1 april 2026 of het bindend sociaal objectief, vermeld in artikel 2.27 van de Vlaamse Codex Wonen van 2021, zoals van kracht vóór 1 januari 2026, in de periode, vermeld in artikel 2.28, tweede lid, van de voormelde codex, zoals van kracht vóór 1 januari 2026, voor elke gemeente bereikt is.<br>
 <br>
 De overeenkomsten die zijn of worden gesloten op grond van artikel 2.58, §2 en §3, van het Besluit Vlaamse Codex Wonen van 2021, zoals van kracht op 31 december 2025, behouden hun gelding tot er, een overeenkomst als vermeld in artikel 2.5/1, §3, eerste lid, van het voormelde besluit, zoals van kracht vanaf 1 januari 2026, of, in voorkomend geval, een driepartijenovereenkomst is gesloten.
+
+### ART 22.
+
+Artikel 1, 2, 4 en 18 tot en met 21 hebben uitwerking met ingang van 1 januari 2026.<br>
+<br>
+Artikel 5 tot en met 11 hebben uitwerking met ingang van 1 juni 2026.
+
+### ART 23.
+
+De Vlaamse minister, bevoegd voor het woonbeleid, is belast met de uitvoering van dit besluit.
 
 ### BIJLAGE 1
 
