@@ -311,17 +311,11 @@ De subsidie wordt vastgesteld op de wijze, vermeld in bijlage 1 tot en met 3, 5 
 
 Het lokaal dienstencentrum, de thuiszorgvoorziening, met uitzondering van de dienst voor thuisverpleging, het centrum voor dagverzorging of het centrum voor kortverblijf type 1, of de vereniging bezorgt jaarlijks zo spoedig mogelijk en uiterlijk op 1 oktober het financiële verslag van het afgelopen jaar aan de administratie. Dat financiële verslag omvat de documenten, vermeld in artikel 13 en 14 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.
 
-## Afdeling 3. Specifieke bepaling voor projecten
+## Afdeling 3. ...
 
 ### ART 25.
 
-Binnen de beschikbare begrotingskredieten kan de minister aan een initiatiefnemer met rechtspersoonlijkheid, op zijn verzoek, een tijdelijke subsidie verlenen voor projecten.<br>
-<br>
-De minister bepaalt de nadere regels over:<br>
-1° de wijze waarop de aanvraag voor een projectsubsidie wordt ingediend;<br>
-2° de criteria en de methode volgens welke die aanvraag wordt geëvalueerd;<br>
-3° de vaststelling van het bedrag van de subsidie;<br>
-4° de wijze waarop de subsidie wordt uitbetaald.
+...
 
 ## HOOFDSTUK 5. Het permanent overlegorgaan weerbaarheid en transparantie
 
