@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042167,
+  "title": "Decreet van 2026-06-26 tot wijziging van artikel 113novies van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, wat betreft het inschrijvingsgeld voor de taalopleiding Frans, Engels en Duits en tot wijziging van artikel 8 van het besluit van de Vlaamse Regering van 7 oktober 2022 over de NT2-test in het volwassenenonderwijs, wat betreft de overgangsmaatregel voor de ontwikkeling van de mondelinge onderdelen van de NT2-test op het taalniveau B1",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042167/VolledigDocument?datum=2026-07-18",
+  "source_sha256": "1b1a47994f8b9e7585c94819d8955ccac39f10f4831949ea2328708d663152d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042167&param=informatie",
+  "as_of": "2026-07-18",
+  "made": "2026-06-26",
+  "gazette": "2026-07-08",
+  "numac": 2026005162,
+  "document_start": "2026-07-18",
+  "document_end": null,
+  "in_force": "2026-07-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2026-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
