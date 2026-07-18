@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042164,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-05 tot bepaling van het subsidiekader voor projectsubsidies ter uitvoering van artikel 61 van het Woonzorgdecreet van 15 februari 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042164/VolledigDocument?datum=2026-07-18",
+  "source_sha256": "35c1816e7e888b0d53fd8ac75a4c8444f0be99ccf22c5198bac17a7455b04d1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042164&param=informatie",
+  "as_of": "2026-07-18",
+  "made": "2026-06-05",
+  "gazette": "2026-07-08",
+  "numac": 2026005132,
+  "document_start": "2026-07-18",
+  "document_end": null,
+  "in_force": "2026-07-18",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2026-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
