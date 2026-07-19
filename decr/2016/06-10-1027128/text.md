@@ -9,22 +9,22 @@
 
 ### ART 2.
 
-<span style="color:#000000; font-family:times new roman; font-size:medium">In dit decreet wordt verstaan onder:</span><br>
-1° Agentschap voor Onderwijsdiensten: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Onderwijsdiensten<span style="color:#000000; font-family:times new roman; font-size:medium">;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs en van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, die door de Vlaamse Regering als duaal wordt aangeduid en elke opleiding in het deeltijds beroepssecundair onderwijs en in de leertijd. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;</span><br>
+In dit decreet wordt verstaan onder:<br>
+1° Agentschap voor Onderwijsdiensten: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Onderwijsdiensten;<br>
+2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs en van het buitengewoon secundair onderwijs van opleidingsvorm 3 en 4, die door de Vlaamse Regering als duaal wordt aangeduid. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;<br>
 2° bis Departement Onderwijs en Vorming: het departement, vermeld in artikel 22, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° ter Departement Werk en Sociale Economie: het departement, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
 2° quater duale opleiding: de duale opleiding, vermeld in artikel 2, 12° bis, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">5° opleidingsplan: een plan dat het individuele leertraject van de leerling bevat;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">6° opleidingsverstrekker: een opleidings- of onderwijsinstelling die erkend is door de Vlaamse Gemeenschap;</span><br>
-7° sectoraal partnerschap: het orgaan, vermeld in artikel 2sexies<span style="color:#000000; font-family:times new roman; font-size:medium">;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">8° trajectbegeleider: het gemandateerde personeelslid van een aanbieder duaal leren, dat belast is met de opvolging en begeleiding van de leerling met het oog op de volledige realisatie van het opleidingsplan;</span><br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">9° trajectbegeleiding: een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van de leerling zowel tijdens het onderwijs op school als in het centrum, als tijdens de opleiding op de werkplek;</span><br>
-10° Vlaams Partnerschap Duaal Leren: het orgaan, vermeld in artikel 2bis<span style="color:#000000; font-family:times new roman; font-size:medium">;</span><br>
+3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;<br>
+4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;<br>
+5° opleidingsplan: een plan dat het individuele leertraject van de leerling bevat;<br>
+6° opleidingsverstrekker: een opleidings- of onderwijsinstelling die erkend is door de Vlaamse Gemeenschap;<br>
+7° sectoraal partnerschap: het orgaan, vermeld in artikel 2sexies;<br>
+8° trajectbegeleider: het gemandateerde personeelslid van een aanbieder duaal leren, dat belast is met de opvolging en begeleiding van de leerling met het oog op de volledige realisatie van het opleidingsplan;<br>
+9° trajectbegeleiding: een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van de leerling zowel tijdens het onderwijs op school als in het centrum, als tijdens de opleiding op de werkplek;<br>
+10° Vlaams Partnerschap Duaal Leren: het orgaan, vermeld in artikel 2bis;<br>
 10° bis Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding: het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
-<span style="color:#000000; font-family:times new roman; font-size:medium">11° werkplek: een reële werkplek of een gesimuleerde werkplek buiten de school. Gesimuleerde werkplekken komen enkel in aanmerking voor zover ze eigen zijn aan de sector of de onderneming en ook door werknemers binnen een sector of onderneming gebruikt dienen te worden.</span><br>
+11° werkplek: een reële werkplek of een gesimuleerde werkplek buiten de school. Gesimuleerde werkplekken komen enkel in aanmerking voor zover ze eigen zijn aan de sector of de onderneming en ook door werknemers binnen een sector of onderneming gebruikt dienen te worden.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Algemene bepalingen
@@ -47,19 +47,22 @@
 11° een vertegenwoordiger van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen;<br>
 12° een vertegenwoordiger van het Gemeenschapsonderwijs namens het volwassenenonderwijs;<br>
 13° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs namens het volwassenenonderwijs;<br>
-14° een vertegenwoordiger van het Departement Onderwijs en Vorming namens het volwassenenonderwijs.<br>
+14° een vertegenwoordiger van het Departement Onderwijs en Vorming namens het volwassenenonderwijs;<br>
+15° een vertegenwoordiger van de regionale technologische centra.<br>
 <br>
-In het eerste lid wordt onder het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen verstaan: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.<br>
+In het eerste lid wordt verstaan onder:<br>
+1° Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht bij het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
+2° regionale technologische centra: de verenigingen zonder winstoogmerk, vermeld in artikel 2 van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra.<br>
 <br>
 Het secretariaat wordt opgenomen door het Departement Werk en Sociale Economie en het Departement Onderwijs en Vorming.<br>
 <br>
 De Vlaamse Regering regelt op voorstel van de Vlaamse minister, bevoegd voor het werk, en de Vlaamse minister, bevoegd voor het onderwijs, de werking van het secretariaat.<br>
 <br>
-De instanties, vermeld in het eerste lid, 4° tot en met 14°, duiden een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
+De instanties, vermeld in het eerste lid, 4° tot en met 15°, duiden een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
 <br>
 Met uitzondering van de leden, vermeld in het eerste lid, 1°, 12°, 13° en 14°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen.<br>
 <br>
-Met uitzondering van de leden, vermeld in het eerste lid, 1°, 4°, 5°, 6° en 9°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de duale opleidingen.<br>
+Met uitzondering van de leden, vermeld in het eerste lid, 1°, 4°, 5°, 6°, 9° en 15°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de duale opleidingen.<br>
 <br>
 Met uitzondering van het lid, vermeld in het eerste lid, 1°, hebben alle leden, vermeld in het eerste lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen en de duale opleidingen.<br>
 <br>
@@ -133,25 +136,23 @@ Met uitzondering van de secretaris en de leden, vermeld in het tweede lid, 3°, 
 <br>
 Met uitzondering van de secretaris hebben alle leden, vermeld in het tweede lid en het vierde lid, stemrecht over de bevoegdheden in het kader van de alternerende opleidingen en de duale opleidingen.<br>
 <br>
-Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook de bevoegdheden, vermeld in artikel 2bis, § 3, eerste lid, 1°, 2° en 3°, omvat, hebben, in afwijking van het zevende lid, voor die bevoegdheden alleen de leden, vermeld in het tweede lid, 1° en 2°, stemrecht.<br>
+Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook de bevoegdheden, vermeld in artikel 2bis, § 3, eerste lid, 1°, 2° en 3°, omvat, hebben, in afwijking van het zevende, achtste en negende lid, voor die bevoegdheden alleen de leden, vermeld in het tweede lid, 1° en 2°, stemrecht.<br>
 <br>
 Het sectoraal partnerschap stelt een huishoudelijk reglement op.
 
 ### ART 3.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor de uitvoering van de alternerende opleiding, voor zover de opleiding op de werkplek via een reguliere tewerkstelling wordt ingevuld, sluit de leerling met een opleidingsverstrekker en een onderneming:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° een overeenkomst van alternerende opleiding als de opleiding gemiddeld op jaarbasis minstens 20 uur per week opleiding op een reële werkplek omvat, zonder rekening te houden met de wettelijke feest- en vakantiedagen;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een stageovereenkomst alternerende opleiding:</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) als de opleiding door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) als de opleiding uitsluitend plaatsvindt op een gesimuleerde werkplek.</span><br>
+Voor de uitvoering van de alternerende opleiding, voor zover de opleiding op de werkplek via een reguliere tewerkstelling wordt ingevuld, sluit de leerling met een opleidingsverstrekker en een onderneming:<br>
+1° een overeenkomst van alternerende opleiding als de opleiding gemiddeld op jaarbasis minstens 20 uur per week opleiding op een reële werkplek omvat, zonder rekening te houden met de wettelijke feest- en vakantiedagen;<br>
+2° een stageovereenkomst alternerende opleiding:<br>
+a) als de opleiding door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen;<br>
+b) als de opleiding uitsluitend plaatsvindt op een gesimuleerde werkplek.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding in de volgende gevallen een deeltijdse arbeidsovereenkomst sluiten:<br>
+In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding in de volgende gevallen een deeltijdse arbeidsovereenkomst sluiten:<br>
 1° als de onderneming valt onder het toepassingsgebied van artikel 1 van het koninklijk besluit van 18 juli 2002 houdende maatregelen met het oog op bevordering van de tewerkstelling in de non-profitsector; voor deze overeenkomsten gelden de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
-2° als de onderneming ressorteert onder het paritair comité 143 voor de zeevisserij; voor deze overeenkomsten gelden de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 mei 2003 tot regeling van de arbeidsovereenkomst wegens scheepsdienst voor de zeevisserij en tot verbetering van het sociaal statuut van de zeevisser.</span><br>
+2° als de onderneming ressorteert onder het paritair comité 143 voor de zeevisserij; voor deze overeenkomsten gelden de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 mei 2003 tot regeling van de arbeidsovereenkomst wegens scheepsdienst voor de zeevisserij en tot verbetering van het sociaal statuut van de zeevisser.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid sluit een leerling voor de uitvoering van zijn alternerende opleiding een deeltijdse arbeidsovereenkomst waarvoor de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten gelden, als het een opleiding betreft van het deeltijds beroepssecundair onderwijs die niet door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen, en uiterlijk tot een datum bepaald door de Vlaamse Regering.<br>
-<br>
-In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding, met een onderneming die is gevestigd buiten de Vlaamse Gemeenschap een overeenkomst sluiten die volgens de aldaar toepasselijke regelgeving in aanmerking komt voor een gelijkwaardig opleidingssysteem van alternerend leren en werken. Voor deze overeenkomst gelden de bepalingen van de aldaar toepasselijke regelgeving.</span><br>
+In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding, met een onderneming die is gevestigd buiten de Vlaamse Gemeenschap een overeenkomst sluiten die volgens de aldaar toepasselijke regelgeving in aanmerking komt voor een gelijkwaardig opleidingssysteem van alternerend leren en werken. Voor deze overeenkomst gelden de bepalingen van de aldaar toepasselijke regelgeving.<br>
 &nbsp;
 
 ### ART 4.
@@ -371,8 +372,8 @@ Als de onderneming met toepassing van artikel 6bis een onderdeel van de opleidin
 De leerling volgt de schoolvakantieregeling zoals bepaald in artikel 12 van de Codex Secundair Onderwijs van 17 december 2010. In afwijking hiervan:<br>
 1° kan het sectoraal partnerschap in de betrokken sector, of bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren op verzoek van een onderneming, omwille van seizoensgebonden activiteiten een structurele afwijking op de schoolvakantieregeling vastleggen die door de Vlaamse Regering wordt goedgekeurd;<br>
 2° kunnen de partijen overeenkomen dat de leerling omwille van een leeropportuniteit wordt opgeleid tijdens een schoolvakantie;<br>
-3° kan het sectoraal partnerschap, of bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren op verzoek van een onderneming, in consensus de schoolvakantieregeling in een opleiding van het deeltijds beroepssecundair onderwijs, de leertijd, de kwalificatiefase en integratiefase van het buitengewoon secundair onderwijs opleidingsvorm 3, in het eerste en tweede leerjaar van de derde graad van het voltijds secundair onderwijs verminderen tot twaalf schoolvakantieweken. De Vlaamse Regering bepaalt hiervoor criteria op voorstel van het Vlaams Partnerschap Duaal Leren. In sectoren waar er een sectoraal partnerschap is, doet het Vlaams Partnerschap Duaal Leren het voorstel na advies van dit Sectoraal partnerschap;<br>
-4° wordt de schoolvakantie gereduceerd tot acht schoolvakantieweken op schooljaarbasis voor leerlingen in een duaal structuuronderdeel ingericht op niveau van Se-n-Se of het derde leerjaar van de derde graad van het voltijds secundair onderwijs, al dan niet ingericht in de vorm van een specialisatie.<br>
+3° kan het sectoraal partnerschap, of bij afwezigheid van een sectoraal partnerschap, het Vlaams Partnerschap Duaal Leren op verzoek van een onderneming, in consensus de schoolvakantieregeling in de kwalificatiefase en integratiefase van het buitengewoon secundair onderwijs opleidingsvorm 3, in het eerste en tweede leerjaar van de derde graad van het voltijds secundair onderwijs verminderen tot twaalf schoolvakantieweken. De Vlaamse Regering bepaalt hiervoor criteria op voorstel van het Vlaams Partnerschap Duaal Leren. In sectoren waar er een sectoraal partnerschap is, doet het Vlaams Partnerschap Duaal Leren het voorstel na advies van dit Sectoraal partnerschap;<br>
+4° wordt de schoolvakantie gereduceerd tot acht schoolvakantieweken op schooljaarbasis voor leerlingen in een duaal structuuronderdeel dat is georganiseerd op het niveau van een zevende leerjaar.<br>
 <br>
 De leerling die met toepassing van het eerste lid, 1° of 2°, wordt opgeleid tijdens een schoolvakantie, moet deze opleidingsdagen recupereren tijdens de lesweken op dagen waarop hij volgens het uurrooster in de onderneming moet worden opgeleid en dit binnen hetzelfde schooljaar.<br>
 <br>
