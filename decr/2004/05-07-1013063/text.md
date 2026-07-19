@@ -207,7 +207,7 @@ De in het tweede lid bedoelde mogelijkheid geldt niet voor de taken van universe
 <br>
 § 2. Als rechtspersoon is de VDAB algemeen rechts-, handelings- en procesbekwaam, zulks binnen de perken van zijn missie en takenstelling als bedoeld in respectievelijk de artikelen 4 en 5 en binnen de perken van het Bestuursdecreet.<br>
 <br>
-Onverminderd het bepaalde in het Bestuursdecreet, in dit decreet, in andere decreten en in hun uitvoeringsbesluiten, beschikt de VDAB, met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken, tevens over de hierna vermelde bijzondere bevoegdheden die de VDAB uitoefent in overeenstemming met het bepaalde in het Bestuursdecreet en in dit decreet en de uitvoeringsbesluiten ervan:<br>
+Onverminderd het bepaalde in het Bestuursdecreet, in dit decreet, in andere decreten en in hun uitvoeringsbesluiten, beschikt de VDAB, met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken, tevens over de hierna vermelde bijzondere bevoegdheden die de VDAB uitoefent in overeenstemming met het bepaalde in het Bestuursdecreet, dit decreet en de uitvoeringsbesluiten ervan en de beheersovereenkomst die de VDAB verbindt:<br>
 1° rekening houdende met het bepaalde in artikel 5, § 4, het bepalen en opleggen van een vergoeding voor de dienstverlening van VDAB, de universele dienstverlening uitgezonderd;<br>
 2° het sluiten van samenwerkingsovereenkomsten met één of meer van de hierna vermelde instellingen of personen, indien zulks nodig is voor de vervulling van zijn missie en taakstelling:<br>
 a) binnenlandse, buitenlandse of supra- of internationale overheidsinstellingen werkzaam binnen een soortgelijke bevoegdheidssfeer als de VDAB;<br>
@@ -269,9 +269,19 @@ De raad van bestuur is bevoegd om alle handelingen die nodig of dienstig zijn vo
 3° ...;<br>
 4° het bepalen van de regels op grond waarvan de VDAB samenwerkingsovereenkomsten met private arbeidsmarktactoren kan sluiten;<br>
 5° het beslissen over de deelname van de VDAB aan de oprichting van of de deelname in, alsmede het bestuur of de leiding en de financiering van publiek- of privaatrechtelijke rechtspersonen;<br>
-6° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van het jaarlijkse ondernemingsplan;<br>
+6° de goedkeuring van de rapportering aan de Vlaamse Regering over de uitvoering van het jaarlijkse ondernemingsplan en de beheersovereenkomst, vermeld in paragraaf 3;<br>
 7° het rapporteren over de uitvoering van de begroting;<br>
-8° het vaststellen van de vergoedingen bedoeld in artikel 5, § 4, tweede lid.
+8° het vaststellen van de vergoedingen bedoeld in artikel 5, § 4, tweede lid.<br>
+<br>
+§3. De Vlaamse Regering sluit een beheersovereenkomst met VDAB. De raad van bestuur stelt in samenspraak met de Vlaamse Regering een beheersovereenkomst op. De raad van bestuur en de gedelegeerd bestuurder vertegenwoordigen samen VDAB bij het sluiten van de beheersovereenkomst.<br>
+<br>
+De beheersovereenkomst bevat de strategische doelstellingen en de bijbehorende meetbare kritische kern-prestatie-indicatoren. Op basis van de strategische doelstellingen worden operationele doelstellingen bepaald in het jaarlijkse ondernemingsplan met afgeleide kern-prestatie-indicatoren om de uitvoering van de beheersovereenkomst te kunnen evalueren.<br>
+<br>
+Het jaarlijkse ondernemingsplan voorziet ook in een rapportering over de uitvoering van de beheersovereenkomst gedurende het afgelopen kalenderjaar.<br>
+<br>
+De beheersovereenkomst wordt gesloten voor een periode van vijf jaar en treedt in werking op de datum die de Vlaamse Regering bepaalt.<br>
+<br>
+De beheersovereenkomst en elke substantiële wijziging en verlenging van de beheersovereenkomst worden onmiddellijk meegedeeld aan het Vlaams Parlement. Elke wijziging van de beheersovereenkomst wordt geformaliseerd via een addendum bij de beheersovereenkomst.
 
 ## AFDELING 2 BIJZONDERE COMMISSIES OF COMITÉS
 
@@ -294,11 +304,10 @@ De gedelegeerd bestuurder wordt bijgestaan door twee algemene directeurs.
 § 1. Onverminderd andere wettelijke en/of decretale bepalingen en hun uitvoeringsbesluiten is de gedelegeerd bestuurder, binnen de perken van dit decreet en zijn uitvoeringsbesluiten, alsmede van het huishoudelijk reglement bedoeld in artikel 16, belast met het dagelijks bestuur van de VDAB.<br>
 <br>
 De inhoud van het dagelijks bestuur wordt nader vastgelegd in het huishoudelijk reglement bedoeld in artikel 16 en omvat in elk geval:<br>
-1° inzake het management van de dienstverlening: de voorbereiding en de uitvoering van de strategische meerjarenplannen en jaarlijkse ondernemingsplannen, voortvloeiende uit de beleidscyclus en goedgekeurd door de raad van bestuur;<br>
+1° voor het management van de dienstverlening: de voorbereiding en de uitvoering van de strategische meerjarenplannen en jaarlijkse ondernemingsplannen die voortvloeien uit de beheersovereenkomst, vermeld in artikel 12, §3, en die worden goedgekeurd door de raad van bestuur;<br>
 2° over de productontwikkeling:<br>
-a) nieuwe diensten, producten en processen ontwikkelen, na goedkeuring<br>
-door de raad van bestuur als er een strategische impact is;<br>
-b) bestaande diensten, producten en processen verbeteren;<br>
+&nbsp; a) nieuwe diensten, producten en processen ontwikkelen, na goedkeuring door de raad van bestuur als er een strategische impact is;<br>
+&nbsp; b) bestaande diensten, producten en processen verbeteren;<br>
 3° inzake het personeelsbeleid: het voeren van een coherent personeelsbeleid, afgestemd op de strategische evolutie van het agentschap en de omgevingsfactoren waarbinnen de dienstverlening plaatsvindt overeenkomstig de rechtspositieregeling van het personeel alsmede met de richtlijnen van de raad van bestuur dienaangaande;<br>
 4° inzake het financieel beleid: de uitvoering van alle budgettaire en boekhoudkundige verrichtingen, met inbegrip van het registreren van de verbintenissen, de goedkeuring en de boeking van de verplichtingen, de boeking van de vorderingen en het doen van alle ontvangsten en uitgaven binnen de machtigende begroting;<br>
 5° inzake het beheer van de infrastructuur: het voeren van een coherent beleid voor gebouwen, verbruiks- en patrimoniumgoederen, een efficiënt voorraadbeheer, alsmede het optimaal beheren van de infrastructuur van de VDAB binnen de limieten van de vastgoedstrategie die de raad van bestuur goedkeurt;<br>
