@@ -2,16 +2,16 @@
   "codex_id": 1025686,
   "title": "Besluit van de Vlaamse Regering van 2015-07-03 tot aanduiding van de bevoegde controle-ambtenaren, vermeld in artikel 13.1.6, eerste lid, van het Energiedecreet van 8 mei 2009, tot vaststelling van de verplichte gegevens die de toegangshouders moeten overmaken, vermeld in artikel 14.2.2, § 2, tweede lid, van het Energiedecreet van 8 mei 2009 en tot bepaling van het uitstel van doorstorting van de heffing, vermeld in artikel 14.2.3 van het Energiedecreet van 8 mei 2009 bij de heffing op de afnamepunten van elektriciteit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025686/VolledigDocument?datum=2018-06-25",
-  "source_sha256": "4f800a00ae971dd87c5ccc092a91fb746c3dd58d573e9c385a68c0a10e5d9847",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025686/VolledigDocument?datum=2026-07-20",
+  "source_sha256": "b87ac92d7771676d31146eb88330e3790e8253d824907ab2ad0da1251be30887",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025686&param=informatie",
-  "as_of": "2018-06-25",
+  "as_of": "2026-07-20",
   "made": "2015-07-03",
   "gazette": "2015-08-06",
   "numac": 2015035976,
   "document_start": "2015-08-16",
   "document_end": null,
-  "in_force": "2018-06-25",
+  "in_force": "2026-07-20",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2018-06-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-20; future article versions excluded; article text as the API gives it"
 }

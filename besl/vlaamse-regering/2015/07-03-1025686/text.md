@@ -10,12 +10,12 @@ Het overzicht van de ten laste van de afnemers in de vorige maand aangerekende h
 1° de benaming van de toegangshouder;<br>
 2° zijn maatschappelijke zetel en exploitatiezetel;<br>
 3° de personalia van de persoon die instaat voor de inning en de storting van de heffing;<br>
-4° het bedrag dat zal worden doorgestort;<br>
+4° het bedrag dat zal worden doorgestort, per tarief, vermeld in artikel 14.1.2 van het Energiedecreet van 8 mei 2009;<br>
 5° de mededeling die bij storting zal worden opgegeven;<br>
 6° de datum waarop het bedrag gestort zal worden;<br>
 7° het aantal afnamepunten per tarief, vermeld in artikel 14.1.2 van het Energiedecreet van 8 mei 2009, waarvoor de heffing wordt doorgestort.<br>
 <br>
-Het overzicht, vermeld in het eerste lid, wordt op elektronische wijze bezorgd aan het bevoegde personeelslid van de Vlaamse Belastingdienst.
+Het overzicht, vermeld in het eerste lid, wordt op elektronische wijze bezorgd aan het bevoegde personeelslid van de Vlaamse Belastingdienst, door middel van een formulier dat de Vlaamse Belastingdienst ter beschikking stelt.
 
 ### ART. 2.
 
