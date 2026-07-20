@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042171,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-19 tot vaststelling van de voorwaarden voor de schuldovername in het kader van een vrijwillige samenvoeging van gemeenten op 1 januari 2031",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042171/VolledigDocument?datum=2026-07-20",
+  "source_sha256": "e037378fb17ce7d6704ca7ba656cb04a51d75fbcbf991a578a1cbe2fd8aceec9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042171&param=informatie",
+  "as_of": "2026-07-20",
+  "made": "2026-06-19",
+  "gazette": "2026-07-10",
+  "numac": 2026005191,
+  "document_start": "2026-07-20",
+  "document_end": null,
+  "in_force": "2026-07-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2026-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
