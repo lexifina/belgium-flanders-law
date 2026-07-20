@@ -75,6 +75,10 @@ Elke gereglementeerde entiteit dient, voor het eerst uiterlijk op 14 april 2026 
 <br>
 Een gereglementeerde entiteit die op 1 januari 2025 ETS2-activiteiten uitoefent, dient uiterlijk op 14 april 2025 het emissieverslag over de emissies voor het jaar 2024 via elektronische wijze in bij het VEKA.&nbsp;<br>
 <br>
+§1/1. Voor biomassa die door een gereglementeerde entiteit wordt uitgeslagen tot verbruik en waarvoor een bewijs van duurzaamheid als vermeld in uitvoeringsverordening (EU) 2018/2066 en via verwijzing ervan in de Uitvoeringsverordening (EU) 2022/996 van de Commissie van 14 juni 2022 betreffende de voorschriften om de duurzaamheids- en broeikasgasreductiecriteria alsmede de criteria inzake laag risico op indirecte veranderingen in landgebruik te controleren, noodzakelijk is, moet een bewijs van duurzaamheid in de zin van een van de vrijwillige certificeringssystemen die door de Europese Commissie overeenkomstig artikel 30, §§4 en 5, van Richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen zijn erkend, worden voorgelegd.<br>
+<br>
+Het voorgelegde bewijs wordt geverifieerd en opgenomen in het geverifieerd emissieverslag dat uiterlijk 14 april bij het VEKA wordt ingediend conform paragraaf 1.<br>
+<br>
 §2. Het VEKA onderwerpt de geverifieerde emissieverslagen en de emissieverslagen over de emissies voor het jaar 2024, vermeld in paragraaf 1, aan een steekproefsgewijze controle om na te gaan of de emissieverslagen conform zijn aan de bepalingen van uitvoeringsverordening (EU) 2018/2066, en keurt de emissies, die erin staan, in voorkomend geval, goed, uiterlijk op 14 mei van het lopende kalenderjaar. Het VEKA brengt de gereglementeerde entiteit daarvan via elektronische wijze op de hoogte.&nbsp;<br>
 <br>
 Conform artikel 75novodecies van uitvoeringsverordening (EU) 2018/2066 kan het VEKA, in voorkomend geval, een conservatieve schatting maken van de emissies van de gereglementeerde entiteit. Het VEKA brengt de gereglementeerde entiteit daarvan via elektronische wijze op de hoogte.
