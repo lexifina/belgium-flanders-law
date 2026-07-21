@@ -2,16 +2,16 @@
   "codex_id": 1035253,
   "title": "Besluit van de Vlaamse Regering van 2021-01-29 tot vaststelling van de voorwaarden voor de schuldovername in het kader van een vrijwillige samenvoeging van gemeenten op 1 januari 2025",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035253/VolledigDocument?datum=2026-07-20",
-  "source_sha256": "f2ab0fe328bea08ea8c111ba7c0ba81a471977b5b5c1bd8393d04c846872c92a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035253/VolledigDocument?datum=2026-07-21",
+  "source_sha256": "94be5c17b8a533d18bade79dcab99effffc03ddf9bb3f8669d59a8fa40a8ceaa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035253&param=informatie",
-  "as_of": "2026-07-20",
+  "as_of": "2026-07-21",
   "made": "2021-01-29",
   "gazette": "2021-02-26",
   "numac": 2021040562,
   "document_start": "2021-03-08",
   "document_end": "2026-07-20",
-  "in_force": "2026-07-20",
+  "in_force": "2026-07-21",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2026-07-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-21; future article versions excluded; article text as the API gives it"
 }
