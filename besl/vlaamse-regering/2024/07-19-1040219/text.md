@@ -2,8 +2,4 @@
 
 ### ART 62.
 
-Dit besluit treedt in werking op 1 september 2026. &nbsp;
-
-### ART 62.
-
 Dit besluit treedt in werking op 1 juni 2027. &nbsp;
