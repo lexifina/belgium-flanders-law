@@ -8,31 +8,24 @@ Dit decreet regelt een gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-Dit decreet wordt aangehaald als: GIPOD-decreet van 4 april 2014.<br>
-<br>
-Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronische-communicatienetwerken met hoge snelheid.
+Dit decreet wordt aangehaald als: GIPOD-decreet van 4 april 2014.
 
 ### ART. 3.
 
 &nbsp;In dit decreet wordt verstaan onder:<br>
 1° agentschap: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf, opgericht krachtens het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap;<br>
 2° ...<br>
-2° /1 civiele werken: een geheel van bouwkundige of civieltechnische werken met een oppervlakte van meer dan 50 m², dat bestemd is om een economische of technische functie te vervullen en dat een of meer elementen van een fysieke infrastructuur omvat;<br>
+2° /1 ...;<br>
 2° /1/1 dringend grondwerk: een niet-geplande inname waarbij de openbare weg wordt opengebroken en die, onafhankelijk van de grootte, onmiddellijk moet worden uitgevoerd voor de veiligheid of voor de continuïteit van de nutsfunctie of dienstverlening, of om verdere schade te voorkomen;<br>
-2° /2 elektronisch communicatienetwerk: de transmissiesystemen, de schakel- of routeringsapparatuur en andere middelen, zoals netwerkelementen die niet actief zijn, die het mogelijk maken signalen over te brengen, ongeacht de aard van de overgebrachte informatie, via:<br>
-a) draad;<br>
-b) radiogolven;<br>
-c) optische of andere elektromagnetische middelen, zoals satellietnetwerken, vaste en mobiele terrestrische netwerken;<br>
-d) elektriciteitsnetten, als ze voor de overdracht van signalen worden gebruikt;<br>
-e) netwerken voor de transmissie van radio-omroep en televisie.<br>
-Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, met inbegrip van internet. Het gaat enkel om elektronische-communicatienetwerken die geheel of hoofdzakelijk gebruikt worden om voor het publiek beschikbare elektronische-communicatiediensten aan te bieden ter ondersteuning van de overdracht van informatie tussen netwerkaansluitpunten;<br>
-2° /3 elektronische-communicatieoperator: een onderneming die elektronische-communicatienetwerken bouwt, exploiteert, leidt of beschikbaar stelt, of waaraan een vergunning is verleend om elektronische-communicatienetwerken te bouwen, te exploiteren, te leiden of beschikbaar te stellen;<br>
+2° /2 ...;<br>
+2° /3 ...;<br>
 3° evenement: een geplande inname voor een gebeurtenis waarbij muziek, kunst, cultuur, sport, religie, wetenschap, een economische activiteit, of een combinatie daarvan centraal staat;<br>
 3° /0/1 evenementenzone: een zone die de plaats van de geplande inname aangeeft voor de organisatie van een evenement;<br>
-3° /1 fysieke infrastructuur: elk element van een netwerk dat bedoeld is om er andere elementen van een netwerk in onder te brengen zonder dat het zelf een actief element van het netwerk wordt, zoals buizen, masten, kabelgoten, inspectieputten, mangaten, straatkasten, gebouwen of ingangen in gebouwen, antenne-installaties, torens en palen. Kabels, met inbegrip van ongebruikte glasvezels, zijn geen fysieke infrastructuur;<br>
+3° /1 ...;<br>
 4° Generiek Informatieplatform Openbaar Domein, hierna GIPOD te noemen: het elektronisch informatiesysteem voor de uitwisseling van informatie over innames en geplande hinder en voor de ontsluiting voor het grote publiek over innames, geplande hinder en omleidingen;<br>
 5° ...<br>
-5° /1 geschillencommissie: de geschillencommissie voor de coördinatie van de civiele werken;<br>
+5° /1 geschillencommissie: de geschillencommissie, vermeld in artikel 16/4;<br>
+5°/1/1 Gigabitinfrastructuurverordening: verordening (EU) 2024/1309 van het Europees Parlement en de Raad van 29 april 2024 inzake maatregelen om de kosten van de uitrol van elektronischecommunicatienetwerken met gigabitsnelheden te verlagen, tot wijziging van Verordening (EU) 2015/2120 en tot intrekking van Richtlijn 2014/61/EU (Gigabitinfrastructuurverordening);<br>
 5° /2 grondwerk: een geplande inname waarbij de openbare weg wordt opengebroken;<br>
 5° /3 grondwerkzone: een zone, een adres, of de x/y-coördinaten die de plaats aangeven waar de openbare weg wordt opengebroken voor de uitvoering van grondwerken;<br>
 6° Grootschalig Referentie Bestand, hierna GRB te noemen: het databanksysteem, vermeld in artikel 2, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br>
@@ -41,14 +34,7 @@ Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, 
 7° /0/1 inname: een activiteit waardoor voor bepaalde of onbepaalde duur een bepaalde zone van de openbare weg wordt ingenomen om grondwerken, dringende grondwerken, werken of evenementen te realiseren;<br>
 7° /0/2 jaartoelating signalisatie: een toelating op jaarbasis om signalisatie te plaatsen;<br>
 7° /1 kritieke nationale infrastructuur: de infrastructuur die als kritiek is aangeduid ter uitvoering van de wet van 1 juli 2011 betreffende de beveiliging en de bescherming van kritieke infrastructuren;<br>
-7° /2 netwerkexploitant: een onderneming die fysieke infrastructuur aanbiedt voor een van de volgende diensten:<br>
-a) de distributie van gas, als die dienst onder de Vlaamse bevoegdheid valt;<br>
-b) de distributie van elektriciteit, met inbegrip van straatverlichting, binnen een geografisch afgebakend gebied in het Vlaamse Gewest;<br>
-c) de productie, het transport of de distributie van stadsverwarming, dat wil zeggen de thermische energie in de vorm van stoom of warm water vanuit een centrale productie-installatie via een netwerk dat verbonden is met verschillende gebouwen of locaties, om ruimten of processen te verwarmen;<br>
-d) de productie, het transport of de distributie van water, met inbegrip van de verwijdering of verwerking van afval- en rioolwater en drainagesystemen;<br>
-e) de volgende vervoersdiensten:<br>
-1) de wegen en de waterwegen;<br>
-2) de havens, luchthavens en De Lijn;<br>
+7° /2 ...;<br>
 8° omleiding: een alternatieve route die de weggebruikers kunnen volgen in geval van een inname;<br>
 8° /1 project: een groepering van geplande innames, hinder en omleidingen die gecoördineerd worden uitgevoerd;<br>
 8° /2 projectaanvraag: een aanvraag van een initiatiefnemer tot samenwerking met andere initiatiefnemers, met als doel het creëren van een project om grondwerken, werken, of de combinatie van beide gecoördineerd uit te voeren;<br>
@@ -72,7 +58,7 @@ Het GIPOD is het unieke uitwisselingsplatform dat de volgende doelstellingen hee
 4° toegang geven tot informatie in het GIPOD aan de diensten die het algemeen belang behartigen zodat ze hun dienstverlening kunnen verzekeren;<br>
 5° het principe van unieke gegevensinzameling realiseren door data en systemen te linken.<br>
 <br>
-Het doel is ook, tegen lagere kosten, de uitrol van elektronische-communicatienetwerken met hoge snelheid te vergemakkelijken en te stimuleren door een efficiëntere aanleg van nieuwe fysieke infrastructuur.
+Naast de doelstellingen, vermeld in het eerste lid, voert het GIPOD de doelstelling, vermeld in artikel 1, lid 1, van de Gigabitinfrastructuurverordening, uit.
 
 ## HOOFDSTUK 3 Werking en organisatie van het GIPOD
 
@@ -128,11 +114,11 @@ Elke natuurlijke persoon of rechtspersoon die het GIPOD gebruikt conform   artik
 
 <p>§ 1. Elk grondwerk wordt in het GIPOD ingegeven door de initiatiefnemer of door een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen.<br>
 <br>
-De Vlaamse Regering kan een limitatieve lijst van uitzonderingen op de verplichting, vermeld in het eerste lid, vastleggen. Deze lijst bevat grondwerken die een beperkte oppervlakte en impact hebben.<br>
+De Vlaamse Regering kan een limitatieve lijst van uitzonderingen op de verplichting, vermeld in het eerste lid, vastleggen. De lijst bevat grondwerken die een beperkte oppervlakte en impact hebben, of grondwerken aan kritieke nationale of Vlaamse kritieke infrastructuur. De Vlaamse Regering kan een lijst van Vlaamse kritieke infrastructuur opstellen.<br>
 <br>
 § 2. Binnen de termijnen die de Vlaamse Regering bepaalt, wordt een grondwerk in het GIPOD ingegeven voor de aanvang van de werkzaamheden die een inname van de openbare weg tot gevolg hebben.<br>
 <br>
-§ 3. Bij het ingeven van het grondwerk, vermeld in paragraaf 2, wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van het grondwerk en van de grondwerkzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
+§ 3. Bij het ingeven van het grondwerk, vermeld in paragraaf 2, wordt in het GIPOD minstens de informatie, vermeld in artikel 6, lid 1, van de Gigabitinfrastructuurverordening ingegeven van het grondwerk, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
 <br>
 § 4. In deze paragraaf wordt verstaan onder jaarvergunning grondwerken: een vergunning op jaarbasis van de bevoegde overheid om bepaalde grondwerken uit te voeren.<br>
 <br>
@@ -176,7 +162,11 @@ De Vlaamse Regering bepaalt de termijnen waarin de gegevens, vermeld in het eers
 <br>
 Ten vroegste twee jaar na de datum van de inwerkingtreding van dit artikel kan de Vlaamse Regering de verplichting, vermeld in het eerste lid, uitbreiden tot andere werken die hinder veroorzaken.<br>
 <br>
-§ 2. Bij een werk wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van het werk en van de werfzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
+§1/1. De initiatiefnemer, of een natuurlijke persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, geven in het GIPOD elk werk aan een fysieke infrastructuur als vermeld in artikel 2, 4), van de Gigabitinfrastructuur-verordening, dat groter is dan 50 m², in.<br>
+<br>
+De Vlaamse Regering kan een limitatieve lijst van uitzonderingen op de verplichting, vermeld in het eerste lid, vastleggen. De lijst bevat werken die een beperkte oppervlakte en impact hebben of werken aan kritieke nationale of Vlaamse kritieke infrastructuur. De Vlaamse Regering kan een lijst van Vlaamse kritieke infrastructuur opstellen.<br>
+<br>
+§ 2. Bij een werk wordt in het GIPOD minstens de informatie, vermeld in artikel 6, lid 1, van de Gigabitinfrastructuurverordening ingegeven van het werk en van de werfzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.<br>
 <br>
 § 3. De initiatiefnemer, of een natuurlijk persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, dient alle aanvragen tot signalisatievergunning of jaarvergunning signalisatie, met uitzondering van de aanvragen voor signalisatie op autosnelwegen, bij de gemeente in via het e-loket van de gemeente of via het e-loket van het GIPOD als de gemeente niet over een eigen e-loket beschikt.<br>
 <br>
@@ -218,7 +208,7 @@ Ten vroegste twee jaar na de datum van de inwerkingtreding van dit artikel kan d
 <br>
 § 2. Een dringend grondwerk wordt in het GIPOD ingegeven binnen de termijn die de Vlaamse Regering bepaalt.<br>
 <br>
-§ 3. Bij het ingeven van een dringend grondwerk als vermeld in paragraaf 1 wordt in het GIPOD minstens een duidelijke beschrijving ingegeven van de aard van het dringende grondwerk en van de grondwerkzone, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.
+§ 3. Bij het ingeven van een dringend grondwerk als vermeld in paragraaf 1 wordt in het GIPOD minstens de informatie, vermeld in artikel 6, lid 1, van de Gigabitinfrastructuurverordening, ingegeven van de aard van het dringende grondwerk, rekening houdend met de informatie die op dat moment beschikbaar is. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.
 
 ## [HOOFDSTUK 4/2 Verplichting om hinder op de openbare weg in te geven (ing. Decr. 17 december 2021, art.15, I: 1 januari 2022)]
 
@@ -273,7 +263,26 @@ De initiatiefnemer die de projectvraag, vermeld in het eerste lid, ingeeft in he
 <br>
 Als de ontvangers van de projectaanvraag die een positief antwoord hebben verstrekt binnen de termijn, vermeld in het vierde lid, geen grondwerk koppelen binnen de termijn, vermeld in het vijfde lid, geldt dat als een negatief antwoord.<br>
 <br>
-De Vlaamse Regering bepaalt vanaf wanneer projectvragen verplicht zijn.</p>
+De Vlaamse Regering bepaalt vanaf wanneer projectvragen verplicht zijn.<br>
+<br>
+§5. Er is geen verplichting om in te gaan op de sleufsynergieaanvraag, vermeld in paragraaf 3, als de zone van de sleufsynergieaanvraag kritieke nationale of Vlaamse kritieke infrastructuur omvat. De Vlaamse Regering kan een lijst van Vlaamse kritieke infrastructuur opstellen.</p>
+
+### ART 11/1.
+
+§1. Voor elk werk dat groter is dan 50 m², geeft de initiatiefnemer, of de natuurlijke persoon of rechtspersoon die de initiatiefnemer heeft aangewezen, een projectaanvraag in het GIPOD in, uiterlijk zestig dagen voor de geplande start van het werk.<br>
+<br>
+Als uiterlijk zes maanden voor de geplande start van de werkzaamheden een coördinatievergadering heeft plaatsgevonden, is de initiatiefnemer vrijgesteld van de verplichting, vermeld in het eerste lid. De coördinatievergadering wordt georganiseerd door de initiatiefnemer met als doel werkzaamheden in de grondwerkzone op elkaar af te stemmen. Als de samenwerkingszone van de volgende partijen overlapt met de grondwerkzone, nodigt de initiatiefnemer al de volgende partijen uit voor de coördinatievergadering:<br>
+1°&nbsp;&nbsp; &nbsp;de gemeente in kwestie;<br>
+2°&nbsp;&nbsp; &nbsp;de domeinbeheerders;<br>
+3°&nbsp;&nbsp; &nbsp;de maatschappijen voor geregeld vervoer;<br>
+4°&nbsp;&nbsp; &nbsp;de beheerders van kabels en leidingen.<br>
+<br>
+De initiatiefnemer die de projectaanvraag, vermeld in het eerste lid, ingeeft in het GIPOD, bepaalt de termijn waarin de ontvangers van de projectaanvraag op de projectaanvraag moeten antwoorden. De termijn bedraagt minstens twintig dagen na de dag waarop de ontvangers van de projectaanvraag de projectaanvraag hebben ontvangen. Als de ontvanger van de projectaanvraag binnen die antwoordtermijn geen antwoord heeft verstrekt, geldt dat als een negatief antwoord van die ontvanger.<br>
+De initiatiefnemer die de projectvraag, vermeld in het eerste lid, ingeeft in het GIPOD, bepaalt de termijn waarin de ontvangers van de projectaanvraag die een positief antwoord hebben verstrekt binnen de termijn, vermeld in het derde lid, een grondwerk moeten koppelen. De termijn bedraagt minstens vijfenvijftig dagen na de dag waarop de ontvangers van de projectaanvraag de projectaanvraag hebben ontvangen.<br>
+<br>
+Als de ontvangers van de projectaanvraag die een positief antwoord hebben verstrekt binnen de termijn, vermeld in het derde lid, geen grondwerk koppelen binnen de termijn, vermeld in het vierde lid, geldt dat als een negatief antwoord.<br>
+<br>
+§2. Er is geen verplichting om in te gaan op de projectaanvraag, vermeld in paragraaf 1, als de zone van de synergieaanvraag kritieke nationale of Vlaamse infrastructuur omvat. De Vlaamse Regering kan een lijst van Vlaamse kritieke infrastructuur opstellen.
 
 ## HOOFDSTUK 6 Verplichting tot het ingeven van een omleiding
 
@@ -333,6 +342,8 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 ## HOOFDSTUK 10 Handhaving
 
+## Afdeling 1. Administratieve sancties
+
 ### ART. 16.
 
 <p>§ 1. Een administratieve geldboete van 100 tot 10.000 euro kan worden opgelegd aan iedere natuurlijke persoon of rechtspersoon die zes keer een inbreuk pleegt op de verplichtingen, vermeld in artikel 8 tot en met 13, als aan de volgende cumulatieve voorwaarden is voldaan:<br>
@@ -358,53 +369,23 @@ Als een dossier dat persoonsgegevens als vermeld in het eerste lid, bevat, naar 
 
 <p>De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar, vanaf de datum waarop ze definitief is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.</p>
 
-## [HOOFDSTUK 10/1 Bepalingen in uitvoering van de richtlijn 2014/61/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronische-communicatienetwerken met hoge snelheid (ing. decr. 10 november 2017, art. 24, I: 24 november 2017)]
-
 ### ART 16/1.
 
-In afwijking van artikel 8, § 1 en § 2, geven de netwerkexploitanten en de elektronische-communicatieoperatoren of natuurlijke personen of rechtspersonen, die ze aanwijzen, alle civiele werken in GIPOD in, als een elektronische-communicatieoperator voor hetzelfde gebied een&nbsp;samenwerkingszone heeft ingegeven.<br>
-<br>
-Het civiele werk wordt uiterlijk twee maanden voor de geplande aanvang van de werkzaamheden in GIPOD ingegeven als het geen aanleiding kan geven tot een verplaatsingswerk. Het civiele werk wordt vanaf het moment dat de zone van de werkzaamheden bekend is en uiterlijk zes maanden voor de geplande aanvang van de werkzaamheden in GIPOD ingegeven als het aanleiding kan geven tot een verplaatsingswerk of als het werk opgenomen is in een door de netwerkexploitant of elektronische-communicatieoperator verplicht te beheren meerjarenplanning.<br>
-<br>
-Het civiele werk wordt in GIPOD ingegeven conform artikel 8, § 3.
+...
 
 ### ART 16/2.
 
-De netwerkexploitanten en de elektronische-communicatieoperatoren verstrekken over civiele werken waarvoor een vergunning is verleend, waarvoor een vergunningsprocedure loopt of waarvoor binnen de komende zes maanden een eerste vergunning wordt aangevraagd, al de volgende informatie als een elektronische-communicatieoperator voor hetzelfde gebied een&nbsp;samenwerkingszone heeft ingegeven:<br>
-1° de locatie en het type werkzaamheden;<br>
-2° de netwerkelementen die erbij betrokken zijn;<br>
-3° de geraamde datum voor de aanvang van de werkzaamheden en de duur ervan;<br>
-4° een contactpunt.<br>
-<br>
-In zijn verzoek vermeldt de elektronische-communicatieoperator die de aanvraag indient, het gebied waarin hij de aanleg van elementen van elektronische-communicatienetwerken met hoge snelheid overweegt.
+...
 
 ### ART 16/3.
 
-§ 1. De netwerkexploitanten en de elektronische-communicatieoperatoren willigen elke redelijke synergieaanvraag van elektronische-communicatieoperatoren in, voor een civiel werk met het oog op de aanleg van elementen van elektronische-communicatienetwerken, onder transparante en niet-discriminerende voorwaarden, als de civiele werken direct of indirect, geheel of gedeeltelijk gefinancierd worden met overheidsgeld op voorwaarde dat:<br>
-1° het geen aanvullende kosten, met inbegrip van kosten door bijkomende vertragingen, met zich meebrengt voor het oorspronkelijk gepland civiele werk;<br>
-2° het geen belemmering vormt voor de controle over de coördinatie van de werken;<br>
-3° de synergie uiterlijk aangevraagd wordt één maand voor een vergunning aangevraagd wordt voor de civiele werken of, als er geen vergunning nodig is, uiterlijk twee maanden vóór de aanvang van de civiele werken.<br>
-<br>
-In het eerste lid, 3°, wordt onder vergunning een van de volgende toelatingen of vergunningen verstaan:<br>
-1° een toelating als vermeld in artikel 6.4.4, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013, als er geen omgevingsvergunning voor stedenbouwkundige handelingen conform artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening nodig is voor de civiele werken;<br>
-2° een vergunning als vermeld in artikel 40 tot en met 43bis van het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993, als er geen omgevingsvergunning voor stedenbouwkundige handelingen conform artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening en geen toelating conform artikel 6.4.4, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013 nodig is voor de civiele werken;<br>
-3° een omgevingsvergunning voor een stedenbouwkundige handeling als vermeld in artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening, als die vergunning nodig is voor de civiele werken.<br>
-<br>
-§ 2. Om de aanvraag conform paragraaf 1, eerste lid, 3°, tijdig te kunnen indienen, geven de netwerkexploitanten en de elektronische-communicatieoperatoren die zich in het GIPOD geregistreerd hebben, ten minste twee keer per jaar en uiterlijk op 30 juni en 31 december van elk jaar de jaarlijkse planning van de civiele werken in GIPOD in.<br>
-<br>
-De Vlaamse Regering kan bepalen dat het ingeven van de planning, vermeld in het eerste lid, niet de werken aan kritieke nationale of Vlaamse infrastructuur omvat. De Vlaamse Regering kan een lijst van Vlaamse kritieke infrastructuur opstellen.<br>
-<br>
-§ 3. Een synergie wordt conform artikel 11 aangevraagd.<br>
-<br>
-Als de netwerkexploitant of de elektronische-communicatieoperator een coördinatievergadering als vermeld in artikel 11, § 4, organiseert voor civiele werken, nodigt hij ten minste de elektronische-communicatieoperatoren uit van wie de&nbsp;samenwerkingszone en de zone van het civiele werk elkaar overlappen.<br>
-<br>
-§ 4. De Vlaamse Regering kan de prijszetting regelen voor de coördinatie van de civiele werken als die geheel of gedeeltelijk verricht zijn met financiële steun van het Vlaamse Gewest.<br>
-<br>
-§ 5. De netwerkexploitant of de elektronische-communicatieoperator hoeft niet in te gaan op de synergieaanvragen, vermeld in paragraaf 1, als zijn infrastructuur in de zone van de synergieaanvraag kritieke nationale infrastructuur is. Dat geldt ook voor de infrastructuur die de Vlaamse Regering eventueel als Vlaamse kritieke infrastructuur heeft aangeduid overeenkomstig paragraaf 2.
+...
+
+## Afdeling 2. Geschillencommissie
 
 ### ART 16/4.
 
-§ 1. Er wordt een geschillencommissie opgericht. De geschillencommissie neemt kennis van geschillen over de coördinatie van de civiele werken of over de transparantie van de geplande civiele werken als er werken voor de aanleg van elementen van elektronische-communicatienetwerken met hoge snelheid bij betrokken zijn, op verzoek van een van de partijen, betrokken bij het geschil. Elke partij behoudt de mogelijkheid om de zaak aanhangig te maken bij een gerechtelijke instantie. De procedure voor de geschillencommissie heeft voorrang op een procedure voor een gerechtelijke instantie.<br>
+§ 1. Er wordt een geschillencommissie opgericht. De geschillencommissie neemt kennis van geschillen als vermeld in artikel 13, lid 1, eerste alinea, b) en c), van de Gigabitinfrastructuurverordening, op verzoek van een van de partijen, betrokken bij het geschil. Elke partij behoudt de mogelijkheid om de zaak aanhangig te maken bij een gerechtelijke instantie.&nbsp;<br>
 <br>
 § 2. De geschillencommissie telt drie leden. De Vlaamse Regering benoemt de leden. De geschillencommissie bestaat uit de volgende leden:<br>
 1° de twee leden, aangewezen door de Vlaamse Regering om te zetelen in de IGB, vermeld in artikel 4, 5°, van het samenwerkingsakkoord van 14 juli 2017 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap in het kader van de omzetting van richtlijn 2014/61/EU;<br>
@@ -458,7 +439,7 @@ Het beroep heeft geen opschortende werking tenzij het hof de opschorting van de 
 
 ### ART 16/7.
 
-Een administratieve geldboete van 250 tot 25.000 euro kan opgelegd worden als blijkt, uit een definitieve beslissing van de geschillencommissie of uit een definitieve beslissing van een gerechtelijke instantie, dat een netwerkexploitant of elektronische-communicatieoperator een inbreuk pleegt op de verplichtingen, vermeld in artikel 16/1 tot en met 16/3.<br>
+Een administratieve geldboete van 250 tot 25.000 euro kan opgelegd worden als blijkt, uit een definitieve beslissing van de geschillencommissie of uit een definitieve beslissing van een gerechtelijke instantie, dat een netwerkexploitant of een overheidsinstantie die eigenaar is van of zeggenschap heeft over fysieke infrastructuur een inbreuk pleegt op de verplichtingen, vermeld in artikel 5 en 6 van de Gigabitinfrastructuurverordening.<br>
 <br>
 Bij het bepalen van het bedrag van de administratieve geldboete wordt rekening gehouden met de ernst van de inbreuk en, in voorkomend geval, met verzachtende omstandigheden.<br>
 <br>
@@ -473,6 +454,8 @@ In geval van betwisting van de beslissing, vermeld in het eerste lid, kan de bet
 Het opleggen en betalen van de geldboete en het verrichten van aanmaningen verloopt conform artikel 16, § 2, met uitzondering van het tweede lid.<br>
 <br>
 Het innen en invorderen van de administratieve geldboete verloopt conform artikel 16, § 3.
+
+## ...
 
 ## HOOFDSTUK 11 Slotbepaling
 
