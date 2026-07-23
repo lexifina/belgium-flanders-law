@@ -8,12 +8,12 @@ Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.<br /><br />
 
 ### ART 1/1.
 
-Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronische-communicatienetwerken met hoge snelheid.
+...
 
 ### ART. 2.
 
 § 1. In dit decreet wordt verstaan onder :<br>
-1° Kabel en Leiding Informatie Portaal, hierna KLIP te noemen : elektronisch informatiesysteem voor de ontsluiting en de uitwisseling van informatie over kabels en leidingen tussen KLB's, planaanvragers en ODB's;<br>
+1° Kabel- en Leidinginformatieplatform, hierna KLIP te noemen : elektronisch informatiesysteem voor de ontsluiting en de uitwisseling van informatie over kabels en leidingen tussen KLB's, planaanvragers en ODB's;<br>
 2° kabels en leidingen : alle ondergrondse infrastructuur die bestemd is voor de transit, het transport, de transmissie of de distributie van vaste, vloeibare of gasvormige stoffen, energie of informatie;<br>
 3° kabel- en leidingbeheerder, hierna KLB te noemen : persoon die in het kader van zijn beroepsactiviteiten of taken van publiek belang kabels en leidingen op het grondgebied van het Vlaamse Gewest beheert of binnen uiterlijk vijftig werkdagen dit beheer op zich zal nemen;<br>
 4° belangenzone kabel- en leidingbeheerder, hierna KLB-zone te noemen : alle gebieden waarin een bepaalde KLB-kabels en leidingen beheert of binnen uiterlijk vijftig werkdagen dit beheer op zich zal nemen;<br>
@@ -34,7 +34,8 @@ b) radiogolven;<br>
 c) optische of andere elektromagnetische middelen, zoals satellietnetwerken, vaste en mobiele terrestrische netwerken;<br>
 d) elektriciteitsnetten, als ze voor overdracht van signalen worden gebruikt;<br>
 e) netwerken voor de transmissie van radio-omroep en televisie.<br>
-Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, met inbegrip van internet. Het gaat alleen om elektronische-communicatienetwerken die geheel of hoofdzakelijk gebruikt worden om voor het publiek beschikbare elektronische-communicatiediensten aan te bieden ter ondersteuning van de overdracht van informatie tussen netwerkaansluitpunten met een snelheid van minstens 30 Mbps.<br>
+Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, met inbegrip van internet. Het gaat alleen om elektronische-communicatienetwerken die geheel of hoofdzakelijk gebruikt worden om voor het publiek beschikbare elektronische-communicatiediensten aan te bieden ter ondersteuning van de overdracht van informatie tussen netwerkaansluitpunten met een snelheid van minstens 30 Mbps;<br>
+17° elektronischecommunicatienetwerk: de transmissiesystemen, al dan niet gebaseerd op een permanente infrastructuur of gecentraliseerde beheer-capaciteit, en in voorkomend geval de schakel- of routeringsapparatuur en andere middelen, waaronder netwerkelementen die niet actief zijn, die het mogelijk maken signalen over te brengen via draad, radiogolven, optische of andere elektromagnetische middelen waaronder satellietnetwerken, vaste circuitgeschakelde en pakketgeschakelde netwerken, met inbegrip van internet, en mobiele netwerken, elektriciteitsnetten voor zover deze voor overdracht van signalen worden gebruikt, netwerken voor radio- en televisieomroep en kabeltelevisienetwerken, ongeacht de aard van de overgebrachte informatie.<br>
 <br>
 § 2. De verplichtingen uit dit decreet doen geen afbreuk aan verplichtingen uit toepasselijke sectorreglementering, die in voorkomend geval cumulatief moeten worden nageleefd.<br>
 &nbsp;
@@ -45,7 +46,7 @@ Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, 
 
 Het doel van het KLIP is de directe en indirecte milieuschade, de economische schade (waaronder de schade aan de leidingen zelf) en de risico's inzake veiligheid en gezondheid ingevolge schade aan kabels en leidingen door grondwerken te voorkomen, dit door de informatie over kabels en leidingen beter te ontsluiten en uit te wisselen.<br>
 <br>
-Het doel is ook, tegen lagere kosten, de uitrol van elektronische-communicatienetwerken met hoge snelheid te vergemakkelijken en te stimuleren, door meer gezamenlijk gebruik van bestaande fysieke infrastructuur en een efficiëntere aanleg van nieuwe fysieke infrastructuur.<br>
+Naast de doelstelling, vermeld in het eerste lid, voert het KLIP de doelstelling, vermeld in artikel 1, lid 1, van de verordening (EU) 2024/1309 van het Europees Parlement en de Raad van 29 april 2024 inzake maatregelen om de kosten van de uitrol van elektronischecommunicatienetwerken met gigabitsnelheden te verlagen, tot wijziging van Verordening (EU) 2015/2120 en tot intrekking van Richtlijn 2014/61/EU (gigabitinfrastructuurverordening), uit.<br>
 &nbsp;
 
 ### ART. 4.
@@ -154,8 +155,6 @@ In artikel 5 van het decreet van 7 mei 2004 houdende de oprichting van het publi
 ### ART. 20.
 
 De Vlaamse Regering kan een afzonderlijke KLB of een categorie van KLB's wegens gegronde redenen vrijstelling verlenen van een of meer&nbsp;van de verplichtingen van hoofdstuk III, en van de artikelen 10 en 11.<br>
-<br>
-De vrijstelling, vermeld in het eerste lid, geldt niet als de planaanvraag wordt ingediend met het oog op de aanleg van elektronische-communicatienetwerken met hoge snelheid.<br>
 &nbsp;
 
 ### ART. 21.
