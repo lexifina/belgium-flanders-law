@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042180,
+  "title": "Besluit van de Vlaamse Regering van 2026-07-03 tot wijziging van het besluit van de Vlaamse Regering van 30 juni 2006 tot vaststelling van de regels van de officiële spelling en spraakkunst van de Nederlandse taal, wat betreft de woordenlijst",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042180/VolledigDocument?datum=2026-07-24",
+  "source_sha256": "d3eb6c903ccbdce3128fb2ff4e72dc3003b8d8e858b267ab93a23e66a775d731",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042180&param=informatie",
+  "as_of": "2026-07-24",
+  "made": "2026-07-03",
+  "gazette": "2026-07-14",
+  "numac": 2026005282,
+  "document_start": "2026-07-24",
+  "document_end": null,
+  "in_force": "2026-07-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2026-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
