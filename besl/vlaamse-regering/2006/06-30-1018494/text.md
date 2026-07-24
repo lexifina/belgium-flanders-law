@@ -6,7 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op het verdrag van 9 september 1980 tussen
 
 ### ART. 1.
 
-Met betrekking tot de spelling van de Nederlandse taal gelden de spellingregels die vervat zijn in de leidraad en de woordenlijst, respectievelijk als bijlage 1 en bijlage 2 bij dit besluit gevoegd.<br /><br />
+Met betrekking tot de spellingregels van de Nederlandse taal gelden de spellingregels die vervat zijn in de leidraad opgenomen in bijlage 1 bij dit besluit.
+
+### ART 1/1.
+
+Voor de spellingwijze van woorden in de Nederlandse taal geldt de Woordenlijst Nederlandse Taal. Daarmee wordt de trefwoordenlijst bedoeld, vermeld in besluit 8 van het Comité van Ministers van de Nederlandse Taalunie van 2 juni 2025, zoals gepubliceerd op de website woordenlijst.org
 
 ### ART. 2.
 
@@ -30,4 +34,4 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/22_1.pdf#page=6">http://www.ejustice.just.fgov.be/mopdf/2017/02/22_1.pdf#page=6</a>
+...
