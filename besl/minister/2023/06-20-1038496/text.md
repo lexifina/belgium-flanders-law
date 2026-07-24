@@ -56,10 +56,11 @@ De reders tonen, bij gebrek aan de documenten, vermeld in het eerste lid, de ver
 ### ART 5.
 
 De aanvrager toont de voldoende vakbekwaamheid, vermeld in artikel 4, §1, eerste lid, 4°, en 5°, d), 1), van het besluit van 16 juni 2023, bij investeringen die gedaan zijn door aquacultuurproducenten, aan door een van de volgende documenten:<br>
-1° een diploma van een opleiding op het niveau van bachelor waar aquacultuur en bedrijfskunde een substantieel deel van uitmaken. Aquacultuur maakt minstens 6 studiepunten of ECTS-credits uit van deze opleiding;<br>
+1° een diploma of getuigschrift van een opleiding of cursus op het niveau van bachelor waar aquacultuur en bedrijfskunde een substantieel deel van uitmaken. Aquacultuur maakt minstens 6 studiepunten of ECTS-credits uit van deze opleiding;<br>
 2° een diploma van een opleiding op het niveau van master in de aquacultuur;<br>
-3° een getuigschrift van een basiscursus aquacultuur en van een specialisatiecursus aquacultuur op bachelorniveau, die elk minimaal drie ECTS-credits vertegenwoordigen;<br>
-4° documenten die vijf jaar beroepservaring in de aquacultuursector aantonen.<br>
+3° documenten die een combinatie aantonen van een gevolgde opleiding of cursus en beroepservaring die relevant zijn. De Vlaamse minister, bevoegd voor de zeevisserij, beoordeelt de relevantie in functie van de uitoefening van activiteiten in de aquacultuursector;<br>
+4° documenten die vijf jaar beroepservaring in de aquacultuursector aantonen;<br>
+5° documenten die ten minste vijf jaar beroepservaring aantonen. Als die beroepservaring niet in de aquacultuursector is verworven, beoordeelt de Vlaamse minister, bevoegd voor de zeevisserij, of die beroepservaring relevant is voor de uitoefening van activiteiten in de aquacultuursector.<br>
 <br>
 In het eerste lid wordt verstaan onder ECTS: European Credit Transfer and Accumulation System.
 
@@ -144,7 +145,7 @@ Investeringen in grond en gebouwen worden uitgesloten van steun voor visverwerki
 
 ### ART 11.
 
-Om in aanmerking te komen voor steun voor visverwerking, legt de aanvrager een bedrijfsplan voor waaruit blijkt dat hij voldoet aan de voorwaarden, vermeld in artikel 8 en 9.
+Om in aanmerking te komen voor steun voor visverwerking, legt de aanvrager een bedrijfsplan voor waaruit blijkt dat hij voldoet aan de voorwaarden, vermeld in artikel 9 en 10.
 
 ## Hoofdstuk 8. Steun aan zeevisserijhavens en visveilingen
 
@@ -173,7 +174,7 @@ Aanvragers die de volgende elementen aantonen ten behoeve van de beheerautoritei
 <br>
 Voor de toepassing van het eerste tot en met het vierde lid beslist de beheerautoriteit wanneer aan de voorwaarden, vermeld in het eerste tot en met het vierde lid, is voldaan.&nbsp;<br>
 <br>
-Steun wordt alleen toegekend als de aanvrager ten behoeve van de beheerautoriteit aantoont dat gedurende twee jaar voor het aanvragen van de steun voldaan is aan de voorwaarden, vermeld in dit artikel, en als de aanvrager er zich ten behoeve van de beheerautoriteit toe verbindt gedurende vijf jaar na het toekennen van de steun aan de voormelde voorwaarde te blijven voldoen. Bij investeringen in onroerende goederen wordt de voormelde termijn op tien jaar gebracht. Als de begunstigde zich gedurende de voormelde termijnen niet houdt aan de opgelegde duurzaamheidsvoorwaarden, kan de steun proportioneel teruggevorderd worden.
+Steun wordt alleen toegekend als de aanvrager ten behoeve van de beheerautoriteit aantoont dat gedurende twee jaar voor het aanvragen van de steun voldaan is aan de voorwaarden, vermeld in dit artikel, en als de aanvrager er zich ten behoeve van de beheerautoriteit toe verbindt gedurende vijf jaar na de laatste uitbetaling van de steun aan de voormelde voorwaarde te blijven voldoen. Als de begunstigde zich gedurende de voormelde termijnen niet houdt aan de opgelegde duurzaamheidsvoorwaarden, kan de steun proportioneel teruggevorderd worden.
 
 ## Hoofdstuk 10. Intensiteit van de steun en maximale steunbedragen
 
@@ -213,7 +214,7 @@ Binnen een blokperiode kan steun aangevraagd worden voor concrete acties binnen 
 <br>
 §2. Aanvragen voor steun voor de volgende actietypes kunnen alleen ingediend worden na een oproep tot indienen van steunaanvragen:<br>
 1° acties als vermeld in artikel 14 van het besluit van 16 juni 2023, voor het verstrekken van compensatie voor de tijdelijke stopzetting van visserijactiviteiten;<br>
-2° acties als vermeld in artikel 18, §1, derde lid, 2°, van het voormelde besluit, ter bevordering van de bescherming en het herstel van de mariene biodiversiteit en ecosystemen;<br>
+2° acties als vermeld in artikel 18, §1, derde lid, 3°, van het voormelde besluit, ter bevordering van de bescherming en het herstel van de mariene biodiversiteit en ecosystemen;<br>
 3° acties als vermeld in artikel 22 van het voormelde besluit, in het kader van toegepast onderzoek en innovatie in de aquacultuursector;<br>
 4° acties als vermeld in artikel 29 van het voormelde besluit, ter bevordering van investeringen in kwalitatieve en duurzame verwerking van lokale aquatische producten;<br>
 5° acties als vermeld in artikel 33 van het voormelde besluit, voor het verstrekken van compensatie in geval van aanzienlijke marktverstoring;<br>

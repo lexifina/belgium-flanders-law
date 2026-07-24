@@ -2,16 +2,16 @@
   "codex_id": 1038496,
   "title": "Ministerieel besluit van 2023-06-20 tot uitvoering van het besluit van de Vlaamse Regering van 16 juni 2023 tot vaststelling van de werking en het beheer van het Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector (FIVA) en de verrichtingen die voor steun vanuit FIVA en EFMZVA in aanmerking komen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038496/VolledigDocument?datum=2023-09-21",
-  "source_sha256": "ef1d15aa9e76f250ff84322c616411c09248f2f4ac4cf38d73a7fe4d5c274dcf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038496/VolledigDocument?datum=2026-07-24",
+  "source_sha256": "4c30d6482243f30e72889510b5e0f1d8579dcac034c688453893bfa9531f5b0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038496&param=informatie",
-  "as_of": "2023-09-21",
+  "as_of": "2026-07-24",
   "made": "2023-06-20",
   "gazette": "2023-09-20",
   "numac": 2023043119,
   "document_start": "2023-09-21",
   "document_end": null,
-  "in_force": "2023-09-21",
+  "in_force": "2026-07-24",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2023-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2026-07-24; future article versions excluded; article text as the API gives it"
 }
