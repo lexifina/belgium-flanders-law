@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042184,
+  "title": "Decreet van 2026-06-19 over de verwerking en deling van de geboorte- en sterftegegevens",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042184/VolledigDocument?datum=2026-07-25",
+  "source_sha256": "57fd69839b1247c157f13e48ebbef2f669b0db71fbc77390979bd1dcfdf67d4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042184&param=informatie",
+  "as_of": "2026-07-25",
+  "made": "2026-06-19",
+  "gazette": "2026-07-15",
+  "numac": 2026005351,
+  "document_start": "2026-07-25",
+  "document_end": null,
+  "in_force": "2026-07-25",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2026-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
