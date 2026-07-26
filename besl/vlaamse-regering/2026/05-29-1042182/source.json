@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042182,
+  "title": "Besluit van de Vlaamse Regering van 2026-05-29 tot regeling van de veiligheidsmaatregelen bij de oprichting en exploitatie van aardgasdistributie-installaties en bij werken in de nabijheid van die installaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042182/VolledigDocument?datum=2026-07-26",
+  "source_sha256": "33e51c6a3f279c9d2bd897165eb1810dece6dc9afd64e04f97f09ea12e4e4650",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042182&param=informatie",
+  "as_of": "2026-07-26",
+  "made": "2026-05-29",
+  "gazette": "2026-07-16",
+  "numac": 2026005281,
+  "document_start": "2026-07-26",
+  "document_end": null,
+  "in_force": "2026-07-26",
+  "article_versions": 80,
+  "record_form": "consolidated version as in force on 2026-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
