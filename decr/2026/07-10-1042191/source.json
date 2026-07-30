@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042191,
+  "title": "Decreet van 2026-07-10 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042191/VolledigDocument?datum=2026-07-30",
+  "source_sha256": "e8c779fa5e8fff38c2693dbdc883344e4d479bfc9d065aa5419c80535b35c431",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042191&param=informatie",
+  "as_of": "2026-07-30",
+  "made": "2026-07-10",
+  "gazette": "2026-07-20",
+  "numac": 2026005438,
+  "document_start": "2026-07-30",
+  "document_end": null,
+  "in_force": "2026-07-30",
+  "article_versions": 78,
+  "record_form": "consolidated version as in force on 2026-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
